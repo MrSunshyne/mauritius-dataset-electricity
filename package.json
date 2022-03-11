@@ -1,0 +1,27 @@
+{
+  "name": "mauritius-ceb-dataset",
+  "version": "1.0.0",
+  "description": "Automatically updated dataset of the Mauritius CEB Dataset",
+  "type": "module",
+  "scripts": {
+    "fetch": "esrun fetch.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrSunshyne/mauritius-ceb-dataset.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrSunshyne/mauritius-ceb-dataset/issues"
+  },
+  "homepage": "https://github.com/MrSunshyne/mauritius-ceb-dataset#readme",
+  "dependencies": {
+    "html-to-json-data": "^1.6.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "@digitak/esrun": "^3.1.2"
+  }
+}
