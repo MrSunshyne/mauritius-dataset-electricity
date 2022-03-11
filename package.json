@@ -18,7 +18,11 @@
   },
   "homepage": "https://github.com/MrSunshyne/mauritius-ceb-dataset#readme",
   "dependencies": {
+    "date-fns": "^2.28.0",
+    "deepmerge": "^4.2.2",
     "html-to-json-data": "^1.6.0",
+    "lodash.merge": "^4.6.2",
+    "md5": "^2.3.0",
     "request": "^2.88.2"
   },
   "devDependencies": {

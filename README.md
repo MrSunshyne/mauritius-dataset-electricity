@@ -4,7 +4,7 @@
 
 ## Dataset
 
-### [View Dataset](https://github.com/MrSunshyne/mauritius-electricity-dataset/blob/main/data/latest.json)
+### [View Dataset](https://github.com/MrSunshyne/mauritius-dataset-electricity/blob/main/data/power-outages.json)
 
 The aim is to provide a hassle-free way to use the data to build applications.
 

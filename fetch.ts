@@ -1,22 +1,40 @@
 import { exit } from 'process';
 import fs from 'fs'
-import { sanitize } from "./utils"
+import { extractFromSource, makeUniq } from "./utils"
 import request from 'request'
+import deepmerge from 'deepmerge';
 
 const URL = 'https://ceb.mu/customer-corner/power-outage-information'
+const path = './data/power-outages.json'
 
 request(URL, function (error, response, body) {
-    console.error('error:', error);
-    console.log('statusCode:', response && response.statusCode);
+    if (error) {
+        console.error('error:', error);
+        exit(1)
+    }
 
     let result = /var arDistrictLocations = ({".+"});/gm.exec(body); // THANKS @JulesMike  !!
 
-    let data = JSON.parse(result[1])
+    // The newly fetched data from CEB Website
+    let newData = extractFromSource(JSON.parse(result[1]));
 
-    let processsed = sanitize(data);
-    let filname_with_timestamp = new Date().toISOString().slice(0, 10);
-    let stringified = JSON.stringify(processsed);
-    fs.writeFileSync('./data/latest.json', stringified);
-    fs.writeFileSync(`./data/history/${filname_with_timestamp}.json`, stringified);
+    //file exists
+    if (fs.existsSync(path)) {
+        console.log('Found file. Opening...')
+
+        let rawdata = fs.readFileSync(path); // open file
+        let oldData = JSON.parse(rawdata.toString());
+        let mergedData = deepmerge(oldData, newData) // Merge old and new data
+        let uniq = makeUniq(mergedData); // remove duplicate data & empty values
+        fs.writeFileSync(path, JSON.stringify(uniq));
+
+    } else {
+        // Create the file
+        console.log('creating file')
+        fs.writeFileSync(path, JSON.stringify(newData));
+    }
+
+
+
     exit(0);
 });
