@@ -1,7 +1,7 @@
 {
   "name": "mauritius-ceb-dataset",
   "version": "1.0.0",
-  "description": "Automatically updated dataset of the Mauritius CEB Dataset",
+  "description": "Automatically updated dataset of the Power Outages in Mauritius",
   "type": "module",
   "scripts": {
     "fetch": "esrun fetch.ts",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MrSunshyne/mauritius-ceb-dataset.git"
+    "url": "git+https://github.com/MrSunshyne/mauritius-dataset-electricity.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MrSunshyne/mauritius-ceb-dataset/issues"
+    "url": "https://github.com/MrSunshyne/mauritius-dataset-electricity/issues"
   },
-  "homepage": "https://github.com/MrSunshyne/mauritius-ceb-dataset#readme",
+  "homepage": "https://github.com/MrSunshyne/mauritius-dataset-electricity#readme",
   "dependencies": {
     "date-fns": "^2.28.0",
     "deepmerge": "^4.2.2",
