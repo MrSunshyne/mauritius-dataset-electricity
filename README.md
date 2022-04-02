@@ -10,7 +10,7 @@ The aim is to provide a hassle-free way to use the data to build applications.
 
 ## Example applications
 
-- Submit yours ?
+- [Power Outages in Mauritius](https://power-outages-mauritius.netlify.app/) by Sandeep Ramgolam
 
 ## Disclaimers
 
