@@ -4,6 +4,24 @@ import { parse } from "date-fns";
 import fr from "date-fns/locale/fr/index.js";
 import md5 from 'md5'
 
+interface Event {
+    date: string;
+    locality: string;
+    streets: string;
+    district: string;
+    from: string; // Date string in ISO format
+    to: string;   // Date string in ISO format
+    id: string;
+}
+
+interface InputData {
+    [district: string]: Event[];
+}
+
+interface OutputObject {
+    today: Event[];
+    future: Event[];
+}
 
 function parseDate(date: string, delimiter = 'from', tz = "+0400") {
     if (date.length > 0) {
@@ -82,4 +100,36 @@ export const extractFromSource = (data) => {
 
 
     return dataset
-} 
+}
+
+// Source: ChatGPT 3.5 :smirk:
+export const categorize = (inputData: InputData): OutputObject => {
+    const today = new Date();
+    const todayEvents: Event[] = [];
+    const futureEvents: Event[] = [];
+
+    // Iterate over each district in the input data.
+    Object.values(inputData).forEach((events: Event[]) => {
+        events.forEach((event: Event) => {
+            if (!event.from) {
+                // If 'from' field is missing or empty, skip this event.
+                return;
+            }
+
+            const from = new Date(event.from);
+
+            // Compare event date with today's date.
+            if (from < today) {
+                todayEvents.push(event);
+            } else {
+                futureEvents.push(event);
+            }
+        });
+    });
+
+    // Return an object with 'today' and 'future' keys.
+    return {
+        today: todayEvents,
+        future: futureEvents
+    };
+}
