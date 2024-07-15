@@ -104,7 +104,9 @@ export const extractFromSource = (data) => {
 
 // Source: ChatGPT 3.5 :smirk:
 export const categorize = (inputData: InputData): OutputObject => {
-    const today = new Date();
+    const endOfToday = new Date();
+    endOfToday.setHours(23, 59, 59, 999);
+
     const todayOutages: Outage[] = [];
     const futureOutages: Outage[] = [];
 
@@ -112,14 +114,14 @@ export const categorize = (inputData: InputData): OutputObject => {
     Object.values(inputData).forEach((outages: Outage[]) => {
         outages.forEach((outage: Outage) => {
             if (!outage.from) {
-                // If 'from' field is missing or empty, skip this outage. 
+                // If 'from' field is missing or empty, skip this outage.
                 return;
             }
 
             const from = new Date(outage.from);
 
             // Compare outage date with today's date.
-            if (from < today) {
+            if (from < endOfToday) {
                 todayOutages.push(outage);
             } else {
                 futureOutages.push(outage);

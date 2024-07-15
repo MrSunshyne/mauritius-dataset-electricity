@@ -6,7 +6,7 @@ import deepmerge from 'deepmerge';
 
 const URL = 'https://ceb.mu/customer-corner/power-outage-information'
 const path = './data/power-outages.json'
-const path_latest = './data/power-outages.latest.json'
+const pathLatest = './data/power-outages.latest.json'
 
 request(URL, function (error, _, body) {
     if (error) {
@@ -46,14 +46,14 @@ request(URL, function (error, _, body) {
     console.log('Updated aggregate data file');
 
     // Create latest data file if not exist.
-    if (!fs.existsSync(path_latest)) {
+    if (!fs.existsSync(pathLatest)) {
         console.log('Creating latest data file ...');
-        fs.writeFileSync(path_latest, JSON.stringify(newData));
+        fs.writeFileSync(pathLatest, JSON.stringify(newData));
         console.log('Created latest data file');
     }
 
     console.log('Updating latest data file ...');
-    fs.writeFileSync(path_latest, JSON.stringify(categorize(newData)));
+    fs.writeFileSync(pathLatest, JSON.stringify(categorize(newData)));
     console.log('Updated latest data file');
 
     exit(0);
