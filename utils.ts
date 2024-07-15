@@ -4,7 +4,7 @@ import { parse } from "date-fns";
 import fr from "date-fns/locale/fr/index.js";
 import md5 from 'md5'
 
-interface Event {
+interface Outage {
     date: string;
     locality: string;
     streets: string;
@@ -15,12 +15,12 @@ interface Event {
 }
 
 interface InputData {
-    [district: string]: Event[];
+    [district: string]: Outage[];
 }
 
 interface OutputObject {
-    today: Event[];
-    future: Event[];
+    today: Outage[];
+    future: Outage[];
 }
 
 function parseDate(date: string, delimiter = 'from', tz = "+0400") {
@@ -105,31 +105,31 @@ export const extractFromSource = (data) => {
 // Source: ChatGPT 3.5 :smirk:
 export const categorize = (inputData: InputData): OutputObject => {
     const today = new Date();
-    const todayEvents: Event[] = [];
-    const futureEvents: Event[] = [];
+    const todayOutages: Outage[] = [];
+    const futureOutages: Outage[] = [];
 
     // Iterate over each district in the input data.
-    Object.values(inputData).forEach((events: Event[]) => {
-        events.forEach((event: Event) => {
-            if (!event.from) {
-                // If 'from' field is missing or empty, skip this event.
+    Object.values(inputData).forEach((outages: Outage[]) => {
+        outages.forEach((outage: Outage) => {
+            if (!outage.from) {
+                // If 'from' field is missing or empty, skip this outage. 
                 return;
             }
 
-            const from = new Date(event.from);
+            const from = new Date(outage.from);
 
-            // Compare event date with today's date.
+            // Compare outage date with today's date.
             if (from < today) {
-                todayEvents.push(event);
+                todayOutages.push(outage);
             } else {
-                futureEvents.push(event);
+                futureOutages.push(outage);
             }
         });
     });
 
     // Return an object with 'today' and 'future' keys.
     return {
-        today: todayEvents,
-        future: futureEvents
+        today: todayOutages,
+        future: futureOutages
     };
 }
