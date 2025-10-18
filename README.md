@@ -12,6 +12,7 @@ The aim is to provide a hassle-free way to use the data to build applications.
 
 - [Power Outages in Mauritius](https://power-outages-mauritius.netlify.app/) by Sandeep Ramgolam
 - [Kouran](https://github.com/k3ii/kouran) by Jain Ramchurn
+- [Zap](https://zap-webapp.vercel.app/) by Arbaaz
 
 ## Disclaimers
 
