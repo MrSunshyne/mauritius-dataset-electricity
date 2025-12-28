@@ -102,8 +102,9 @@ export const extractFromSource = (data) => {
     return dataset
 }
 
-// Source: ChatGPT 3.5 :smirk:
+// Improved categorization logic to handle ongoing outages properly
 export const categorize = (inputData: InputData): OutputObject => {
+    const now = new Date();
     const endOfToday = new Date();
     endOfToday.setHours(23, 59, 59, 999);
 
@@ -113,18 +114,21 @@ export const categorize = (inputData: InputData): OutputObject => {
     // Iterate over each district in the input data.
     Object.values(inputData).forEach((outages: Outage[]) => {
         outages.forEach((outage: Outage) => {
-            if (!outage.from) {
-                // If 'from' field is missing or empty, skip this outage.
+            if (!outage.from || !outage.to) {
+                // If 'from' or 'to' field is missing or empty, skip this outage.
                 return;
             }
 
             const from = new Date(outage.from);
+            const to = new Date(outage.to);
 
-            // Compare outage date with today's date.
-            if (from < endOfToday) {
-                todayOutages.push(outage);
-            } else {
-                futureOutages.push(outage);
+            // Only include outages that haven't ended yet
+            if (to > now) {
+                if (from <= endOfToday) {
+                    todayOutages.push(outage);
+                } else {
+                    futureOutages.push(outage);
+                }
             }
         });
     });
