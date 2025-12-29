@@ -1,36 +1,19 @@
-import { exit } from 'process';
-import fs from 'fs'
-import path from 'path'
-import { extractFromSource, makeUniq, categorize, flattenOutages, groupOutagesByDate, groupOutagesByLocality, slugify, getMauritiusDateString } from "./utils"
-import deepmerge from 'deepmerge';
+import fs from 'fs';
+import path from 'path';
+import {
+    slugify,
+    getLocalitySlug,
+    getMauritiusDateString,
+    groupOutagesByDate,
+    groupOutagesByLocality,
+    flattenOutages,
+    type Outage,
+    type LocalityMapping
+} from '../utils';
 
-const URL = 'https://ceb.mu/customer-corner/power-outage-information'
-const historicalPath = './data/power-outages.json'
-const pathLatest = './data/power-outages.latest.json'
 const DATA_DIR = './data';
 const DAILY_DIR = path.join(DATA_DIR, 'daily');
 const LOCALITIES_DIR = path.join(DATA_DIR, 'localities');
-
-interface Outage {
-    date: string;
-    locality: string;
-    streets: string;
-    district: string;
-    from: string;
-    to: string;
-    id: string;
-    outageId: string;
-}
-
-interface LocalityMapping {
-    version: string;
-    generated: string;
-    localities: Record<string, {
-        name: string;
-        district: string;
-        aliases: string[];
-    }>;
-}
 
 // Ensure directories exist
 function ensureDir(dir: string) {
@@ -39,31 +22,16 @@ function ensureDir(dir: string) {
     }
 }
 
+// Load historical data
+function loadHistoricalData(): Record<string, Outage[]> {
+    const rawData = fs.readFileSync(path.join(DATA_DIR, 'power-outages.json'), 'utf-8');
+    return JSON.parse(rawData);
+}
+
 // Load localities mapping
 function loadLocalitiesMapping(): LocalityMapping {
     const rawData = fs.readFileSync('./localities-mapping.json', 'utf-8');
     return JSON.parse(rawData);
-}
-
-// Generate all view files from historical data
-function generateViews(historicalData: Record<string, Outage[]>) {
-    console.log('Generating view files...');
-
-    const mapping = loadLocalitiesMapping();
-    const outages = flattenOutages(historicalData);
-
-    console.log(`Processing ${outages.length} outages for view generation`);
-
-    // Generate daily files
-    generateDailyFiles(outages);
-
-    // Generate locality files
-    generateLocalityFiles(outages, mapping);
-
-    // Generate root index
-    generateRootIndex(outages, mapping);
-
-    console.log('View files generated successfully');
 }
 
 // Generate daily files
@@ -265,67 +233,21 @@ function generateRootIndex(outages: Outage[], mapping: LocalityMapping) {
     console.log('Generated root index');
 }
 
-async function main() {
-    try {
-        // Use Bun's native fetch
-        const response = await fetch(URL);
-        if (!response.ok) {
-            console.error('error:', response.status, response.statusText);
-            exit(1);
-        }
-        const body = await response.text();
+// Main function
+function main() {
+    console.log('Starting view generation...');
 
-    console.log('Fetched raw data from CEB');
+    const historicalData = loadHistoricalData();
+    const mapping = loadLocalitiesMapping();
+    const outages = flattenOutages(historicalData);
 
-    console.log('Pre-extracting data ...')
-    const result = /var arDistrictLocations = ({".+"});/gm.exec(body);
-    if (!result || result.length !== 2) {
-        console.error('error: result from pre-extraction is null or malformed');
-        exit(1);
-    }
-    const preExtracted = JSON.parse(result?.[1] || '');
-    console.log('Pre-extracted data');
+    console.log(`Loaded ${outages.length} outages from historical data`);
 
-    // The newly fetched data from CEB Website.
-    console.log('Extracting data ...');
-    const newData = extractFromSource(preExtracted);
-    console.log('Extracted data');
+    generateDailyFiles(outages);
+    generateLocalityFiles(outages, mapping);
+    generateRootIndex(outages, mapping);
 
-    // Create aggregate data file if not exist.
-    if (!fs.existsSync(historicalPath)) {
-        console.log('Creating aggregate data file ...');
-        fs.writeFileSync(historicalPath, JSON.stringify(newData));
-        console.log('Created aggregate data file');
-    }
-
-    console.log('Updating aggregate data file ...');
-    const rawdata = fs.readFileSync(historicalPath); // open file
-    const oldData = JSON.parse(rawdata.toString());
-    const mergedData = deepmerge(oldData, newData) // Merge old and new data
-    const uniq = makeUniq(mergedData); // remove duplicate data & empty values
-    fs.writeFileSync(historicalPath, JSON.stringify(uniq));
-    console.log('Updated aggregate data file');
-
-    // Create latest data file if not exist.
-    if (!fs.existsSync(pathLatest)) {
-        console.log('Creating latest data file ...');
-        fs.writeFileSync(pathLatest, JSON.stringify(newData));
-        console.log('Created latest data file');
-    }
-
-        console.log('Updating latest data file ...');
-        fs.writeFileSync(pathLatest, JSON.stringify(categorize(newData)));
-        console.log('Updated latest data file');
-
-        // Generate all view files FROM the updated historical data
-        // This ensures no data is lost, even if CEB removes an outage from their website
-        generateViews(uniq);
-
-        exit(0);
-    } catch (error) {
-        console.error('error:', error);
-        exit(1);
-    }
+    console.log('View generation complete!');
 }
 
 main();

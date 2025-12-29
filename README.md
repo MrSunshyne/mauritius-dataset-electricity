@@ -8,6 +8,12 @@
 
 The aim is to provide a hassle-free way to use the data to build applications.
 
+**Additional views:**
+- [Latest outages](https://github.com/MrSunshyne/mauritius-dataset-electricity/blob/main/data/power-outages.latest.json) - Today's and future outages
+- [Daily files](https://github.com/MrSunshyne/mauritius-dataset-electricity/tree/main/data/daily) - Outages by date (`daily/YYYY-MM-DD.json`)
+- [Locality files](https://github.com/MrSunshyne/mauritius-dataset-electricity/tree/main/data/localities) - Outages by locality (`localities/{slug}.json`)
+- [Dataset index](https://github.com/MrSunshyne/mauritius-dataset-electricity/blob/main/data/index.json) - Metadata and statistics
+
 ## Example applications
 
 - [Power Outages in Mauritius](https://power-outages-mauritius.netlify.app/) by Sandeep Ramgolam

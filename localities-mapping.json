@@ -1,0 +1,2315 @@
+{
+  "version": "1.0",
+  "generated": "2025-12-29T19:43:20.495Z",
+  "localities": {
+    "16eme-mile": {
+      "name": "16EME MILE",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "abercrombie": {
+      "name": "ABERCROMBIE",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "albion": {
+      "name": "ALBION",
+      "district": "blackriver",
+      "aliases": []
+    },
+    "allee-brillant-castel": {
+      "name": "ALLEE BRILLANT CASTEL",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "allee-brillant-vacoas": {
+      "name": "ALLEE BRILLANT VACOAS",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "alma": {
+      "name": "ALMA",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "amaury": {
+      "name": "AMAURY",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "amitie": {
+      "name": "AMITIE",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "anse-jonchee": {
+      "name": "ANSE JONCHEE",
+      "district": "grandport",
+      "aliases": []
+    },
+    "anse-la-raie": {
+      "name": "ANSE LA RAIE",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "anse-quitor": {
+      "name": "ANSE QUITOR(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "argy": {
+      "name": "ARGY",
+      "district": "flacq",
+      "aliases": []
+    },
+    "arsenal": {
+      "name": "ARSENAL",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "bagatelle": {
+      "name": "BAGATELLE",
+      "district": "moka",
+      "aliases": []
+    },
+    "baie-du-cap": {
+      "name": "BAIE DU CAP",
+      "district": "savanne",
+      "aliases": []
+    },
+    "baie-du-nord": {
+      "name": "BAIE DU NORD(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "baie-lascar": {
+      "name": "BAIE LASCAR(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "baie-topaze": {
+      "name": "BAIE TOPAZE(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "bain-boeuf": {
+      "name": "BAIN BOEUF",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "bain-des-dames": {
+      "name": "BAIN DES DAMES",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "balaclava": {
+      "name": "BALACLAVA",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "baladirou": {
+      "name": "BALADIROU(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "balisson": {
+      "name": "BALISSON",
+      "district": "grandport",
+      "aliases": []
+    },
+    "bambous": {
+      "name": "BAMBOUS",
+      "district": "blackriver",
+      "aliases": []
+    },
+    "bambous-virieux": {
+      "name": "BAMBOUS VIRIEUX",
+      "district": "grandport",
+      "aliases": []
+    },
+    "bananes": {
+      "name": "BANANES",
+      "district": "savanne",
+      "aliases": []
+    },
+    "bar-le-duc": {
+      "name": "BAR LE DUC",
+      "district": "moka",
+      "aliases": []
+    },
+    "barlow": {
+      "name": "BARLOW",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "batatran": {
+      "name": "BATATRAN(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "batimarais": {
+      "name": "BATIMARAIS",
+      "district": "savanne",
+      "aliases": []
+    },
+    "bay-malgache": {
+      "name": "BAY MALGACHE(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "beau-bassin": {
+      "name": "BEAU BASSIN",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "beau-bois": {
+      "name": "BEAU BOIS",
+      "district": "moka",
+      "aliases": []
+    },
+    "beau-champ-flacq": {
+      "name": "BEAU CHAMP FLACQ",
+      "district": "flacq",
+      "aliases": []
+    },
+    "beau-champ-south": {
+      "name": "BEAU CHAMP SOUTH",
+      "district": "flacq",
+      "aliases": []
+    },
+    "beau-plan": {
+      "name": "BEAU PLAN",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "beau-sejour-belle-rose": {
+      "name": "BEAU SEJOUR BELLE-ROSE",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "beau-sejour-piton": {
+      "name": "BEAU SEJOUR PITON",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "beau-songe": {
+      "name": "BEAU SONGE",
+      "district": "blackriver",
+      "aliases": []
+    },
+    "beau-vallon": {
+      "name": "BEAU VALLON",
+      "district": "grandport",
+      "aliases": []
+    },
+    "bel-air": {
+      "name": "BEL AIR",
+      "district": "flacq",
+      "aliases": []
+    },
+    "bel-etang": {
+      "name": "BEL ETANG",
+      "district": "flacq",
+      "aliases": []
+    },
+    "bel-ombre": {
+      "name": "BEL OMBRE",
+      "district": "savanne",
+      "aliases": []
+    },
+    "bell-village": {
+      "name": "BELL VILLAGE",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "belle-bue-allandy": {
+      "name": "BELLE BUE ALLANDY",
+      "district": "flacq",
+      "aliases": []
+    },
+    "belle-etoile": {
+      "name": "BELLE ETOILE",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "belle-mare": {
+      "name": "BELLE MARE",
+      "district": "flacq",
+      "aliases": []
+    },
+    "belle-rive": {
+      "name": "BELLE RIVE ( KEWAL NAGAR )",
+      "district": "flacq",
+      "aliases": []
+    },
+    "belle-rive-curepipe": {
+      "name": "BELLE RIVE CUREPIPE",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "belle-rose": {
+      "name": "BELLE ROSE  ( Q BORNES )",
+      "district": "flacq",
+      "aliases": [
+        "BELLE ROSE ( CLEMENCIA )"
+      ]
+    },
+    "belle-terre": {
+      "name": "BELLE TERRE",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "belle-vue-harel": {
+      "name": "BELLE VUE HAREL",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "belle-vue-maurel": {
+      "name": "BELLE VUE MAUREL",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "belle-vue-pilot": {
+      "name": "BELLE VUE PILOT",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "belvedere": {
+      "name": "BELVEDERE ( BEAU BASSIN )",
+      "district": "flacq",
+      "aliases": [
+        "BELVEDERE ( LALLMATIE )"
+      ]
+    },
+    "benares": {
+      "name": "BENARES",
+      "district": "savanne",
+      "aliases": []
+    },
+    "berthaud": {
+      "name": "BERTHAUD",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "blue-bay": {
+      "name": "BLUE BAY",
+      "district": "grandport",
+      "aliases": []
+    },
+    "bois-cheri": {
+      "name": "BOIS CHERI",
+      "district": "savanne",
+      "aliases": []
+    },
+    "bois-des-amourettes": {
+      "name": "BOIS DES AMOURETTES",
+      "district": "grandport",
+      "aliases": []
+    },
+    "bois-mangues": {
+      "name": "BOIS MANGUES",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "bois-marchand": {
+      "name": "BOIS MARCHAND",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "bois-pignolet": {
+      "name": "BOIS PIGNOLET",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "bois-rouge": {
+      "name": "BOIS ROUGE",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "bon-acceuil": {
+      "name": "BON  ACCEUIL",
+      "district": "flacq",
+      "aliases": []
+    },
+    "bonne-mere": {
+      "name": "BONNE MERE",
+      "district": "flacq",
+      "aliases": []
+    },
+    "bonne-terre": {
+      "name": "BONNE TERRE",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "bonne-veine": {
+      "name": "BONNE VEINE",
+      "district": "moka",
+      "aliases": []
+    },
+    "boulet-rouge": {
+      "name": "BOULET ROUGE",
+      "district": "flacq",
+      "aliases": []
+    },
+    "boulingrin": {
+      "name": "BOULINGRIN",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "bramsthan": {
+      "name": "BRAMSTHAN",
+      "district": "flacq",
+      "aliases": []
+    },
+    "brisee-verdiere": {
+      "name": "BRISEE VERDIERE",
+      "district": "flacq",
+      "aliases": []
+    },
+    "britannia": {
+      "name": "BRITANNIA",
+      "district": "plainewilhems",
+      "aliases": [
+        "Britannia"
+      ]
+    },
+    "buttes-aux-papayes": {
+      "name": "BUTTES AUX PAPAYES",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "calebasses": {
+      "name": "CALEBASSES",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "calodyne": {
+      "name": "CALODYNE",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "camp-carol-kenya": {
+      "name": "CAMP CAROL KENYA",
+      "district": "grandport",
+      "aliases": []
+    },
+    "camp-chapelon": {
+      "name": "CAMP CHAPELON",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "camp-de-masque": {
+      "name": "CAMP DE MASQUE",
+      "district": "flacq",
+      "aliases": []
+    },
+    "camp-de-masque-pave": {
+      "name": "CAMP DE MASQUE PAVE",
+      "district": "flacq",
+      "aliases": []
+    },
+    "camp-des-embrevades": {
+      "name": "CAMP DES EMBREVADES",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "camp-diable": {
+      "name": "CAMP DIABLE",
+      "district": "savanne",
+      "aliases": []
+    },
+    "camp-du-roi": {
+      "name": "CAMP DU ROI(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "camp-fouquereaux": {
+      "name": "CAMP FOUQUEREAUX",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "camp-garreau": {
+      "name": "CAMP GARREAU",
+      "district": "flacq",
+      "aliases": []
+    },
+    "camp-ithier": {
+      "name": "CAMP ITHIER",
+      "district": "flacq",
+      "aliases": []
+    },
+    "camp-la-boue-terre-rouge": {
+      "name": "CAMP LA BOUE -TERRE ROUGE",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "camp-la-boue-vallee-du-paradis": {
+      "name": "CAMP LA BOUE- VALLEE DU PARADIS",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "camp-le-juge": {
+      "name": "CAMP LE JUGE",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "camp-levieux": {
+      "name": "CAMP LEVIEUX ( CUREPIPE )",
+      "district": "plainewilhems",
+      "aliases": [
+        "CAMP LEVIEUX ( R HILL )"
+      ]
+    },
+    "camp-mapou": {
+      "name": "CAMP MAPOU",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "camp-marcelin": {
+      "name": "CAMP MARCELIN",
+      "district": "moka",
+      "aliases": []
+    },
+    "camp-pecheurs": {
+      "name": "CAMP PECHEURS",
+      "district": "flacq",
+      "aliases": []
+    },
+    "camp-roches": {
+      "name": "CAMP ROCHES",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "camp-thorel": {
+      "name": "CAMP THOREL",
+      "district": "moka",
+      "aliases": []
+    },
+    "camp-yoloff": {
+      "name": "CAMP YOLOFF",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "canal-dayot": {
+      "name": "CANAL DAYOT",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "candos-q-bornes": {
+      "name": "CANDOS Q BORNES",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "candos-vacoas": {
+      "name": "CANDOS VACOAS",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "canot": {
+      "name": "CANOT",
+      "district": "blackriver",
+      "aliases": []
+    },
+    "canton-nancy": {
+      "name": "CANTON NANCY",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "cap-malheureux": {
+      "name": "CAP MALHEUREUX",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "caroline-bel-air": {
+      "name": "CAROLINE BEL AIR",
+      "district": "flacq",
+      "aliases": []
+    },
+    "carreau-esnouf": {
+      "name": "CARREAU ESNOUF",
+      "district": "grandport",
+      "aliases": []
+    },
+    "carreau-laliane": {
+      "name": "CARREAU LALIANE",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "cascade-jean-louis": {
+      "name": "CASCADE JEAN LOUIS(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "cascavel": {
+      "name": "CASCAVEL",
+      "district": "blackriver",
+      "aliases": []
+    },
+    "case-noyale": {
+      "name": "CASE NOYALE",
+      "district": "blackriver",
+      "aliases": []
+    },
+    "cassis": {
+      "name": "CASSIS",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "castel-vacoas": {
+      "name": "CASTEL VACOAS",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "cavern-provert": {
+      "name": "CAVERN PROVERT(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "central-flacq": {
+      "name": "CENTRAL FLACQ",
+      "district": "flacq",
+      "aliases": []
+    },
+    "chamarel": {
+      "name": "CHAMAREL",
+      "district": "blackriver",
+      "aliases": []
+    },
+    "chamouny": {
+      "name": "CHAMOUNY",
+      "district": "savanne",
+      "aliases": []
+    },
+    "chemin-grenier": {
+      "name": "CHEMIN GRENIER",
+      "district": "savanne",
+      "aliases": []
+    },
+    "choisy-baie-du-cap": {
+      "name": "CHOISY - BAIE DU CAP",
+      "district": "savanne",
+      "aliases": []
+    },
+    "cinq-arpents": {
+      "name": "CINQ ARPENTS",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "circonstance": {
+      "name": "CIRCONSTANCE",
+      "district": "moka",
+      "aliases": []
+    },
+    "cite-anoska": {
+      "name": "CITE ANOSKA",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "cite-atlee": {
+      "name": "CITE ATLEE",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "cite-barkly": {
+      "name": "CITE BARKLY",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "cite-chebel": {
+      "name": "CITE CHEBEL",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "cite-l-oiseau": {
+      "name": "CITE L-OISEAU",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "cite-la-brasserie": {
+      "name": "CITE LA BRASSERIE",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "cite-la-caverne": {
+      "name": "CITE LA CAVERNE",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "cite-la-cure": {
+      "name": "CITE LA CURE",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "cite-malherbes": {
+      "name": "CITE MALHERBES",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "cite-richelieu": {
+      "name": "CITE RICHELIEU",
+      "district": "blackriver",
+      "aliases": []
+    },
+    "cite-vallijee": {
+      "name": "CITE VALLIJEE",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "citron-donis": {
+      "name": "CITRON DONIS(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "citronelle": {
+      "name": "CITRONELLE(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "clavet": {
+      "name": "CLAVET",
+      "district": "flacq",
+      "aliases": []
+    },
+    "clemencia": {
+      "name": "CLEMENCIA",
+      "district": "flacq",
+      "aliases": []
+    },
+    "closel": {
+      "name": "CLOSEL",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "cluny": {
+      "name": "CLUNY",
+      "district": "grandport",
+      "aliases": []
+    },
+    "congomah": {
+      "name": "CONGOMAH",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "constance": {
+      "name": "CONSTANCE",
+      "district": "flacq",
+      "aliases": []
+    },
+    "corail-petite-butte": {
+      "name": "CORAIL PETITE BUTTE(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "coromandel-rhill": {
+      "name": "COROMANDEL - R.HILL",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "coromondel-ind-zone": {
+      "name": "COROMONDEL - IND ZONE",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "cote-d-or": {
+      "name": "COTE D-OR",
+      "district": "moka",
+      "aliases": []
+    },
+    "coteau-raffin": {
+      "name": "COTEAU RAFFIN",
+      "district": "blackriver",
+      "aliases": []
+    },
+    "cottage": {
+      "name": "COTTAGE",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "creve-coeur": {
+      "name": "CREVE COEUR",
+      "district": "pamplemousses",
+      "aliases": [
+        "CREVE COEUR(RODRIGUES)"
+      ]
+    },
+    "curepipe": {
+      "name": "CUREPIPE",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "d-epinay": {
+      "name": "D-EPINAY",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "dagotiere": {
+      "name": "DAGOTIERE",
+      "district": "moka",
+      "aliases": []
+    },
+    "dans-coco": {
+      "name": "DANS COCO(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "deep-river-beau-champ": {
+      "name": "DEEP RIVER BEAU CHAMP",
+      "district": "flacq",
+      "aliases": []
+    },
+    "deux-bras-new-grove": {
+      "name": "DEUX BRAS- NEW GROVE",
+      "district": "grandport",
+      "aliases": []
+    },
+    "deux-freres": {
+      "name": "DEUX FRERES",
+      "district": "flacq",
+      "aliases": []
+    },
+    "dubreuil": {
+      "name": "DUBREUIL",
+      "district": "moka",
+      "aliases": []
+    },
+    "eau-bleue-tostee": {
+      "name": "EAU BLEUE TOSTEE",
+      "district": "grandport",
+      "aliases": []
+    },
+    "eau-bonne": {
+      "name": "EAU BONNE",
+      "district": "blackriver",
+      "aliases": []
+    },
+    "eau-coulee": {
+      "name": "EAU COULEE",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "eau-vannee": {
+      "name": "EAU VANNEE(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "ebene": {
+      "name": "EBENE",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "ecroignard": {
+      "name": "ECROIGNARD",
+      "district": "flacq",
+      "aliases": []
+    },
+    "english-bay": {
+      "name": "ENGLISH BAY(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "engrais-martial": {
+      "name": "ENGRAIS MARTIAL",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "ernest-florent": {
+      "name": "ERNEST FLORENT",
+      "district": "flacq",
+      "aliases": []
+    },
+    "esperance-piton": {
+      "name": "ESPERANCE PITON",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "esperance-trebuchet": {
+      "name": "ESPERANCE TREBUCHET",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "ferney": {
+      "name": "FERNEY",
+      "district": "grandport",
+      "aliases": []
+    },
+    "flic-en-flac": {
+      "name": "FLIC-EN-FLAC",
+      "district": "blackriver",
+      "aliases": []
+    },
+    "floreal": {
+      "name": "FLOREAL",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "fond-du-sac": {
+      "name": "FOND DU SAC",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "fond-la-bonte": {
+      "name": "FOND LA BONTE(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "forest-side": {
+      "name": "FOREST SIDE",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "fuel-village": {
+      "name": "FUEL VILLAGE",
+      "district": "flacq",
+      "aliases": []
+    },
+    "gentilly-moka": {
+      "name": "GENTILLY- MOKA",
+      "district": "moka",
+      "aliases": []
+    },
+    "glen-park": {
+      "name": "GLEN PARK",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "gokhoolah": {
+      "name": "GOKHOOLAH",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "goodlands": {
+      "name": "GOODLANDS",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "grand-bassin": {
+      "name": "GRAND BASSIN",
+      "district": "savanne",
+      "aliases": []
+    },
+    "grand-bay": {
+      "name": "GRAND BAY",
+      "district": "rivieredurempart",
+      "aliases": [
+        "GRAND BAY(RODRIGUES)"
+      ]
+    },
+    "grand-bel-air": {
+      "name": "GRAND BEL AIR",
+      "district": "flacq",
+      "aliases": []
+    },
+    "grand-bois": {
+      "name": "GRAND BOIS",
+      "district": "savanne",
+      "aliases": []
+    },
+    "grand-gaube": {
+      "name": "GRAND GAUBE",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "grand-la-fouche-corail": {
+      "name": "GRAND LA FOUCHE CORAIL(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "grand-river-north-west": {
+      "name": "GRAND RIVER NORTH WEST",
+      "district": "blackriver",
+      "aliases": []
+    },
+    "grand-sable": {
+      "name": "GRAND SABLE",
+      "district": "grandport",
+      "aliases": []
+    },
+    "grande-montagne": {
+      "name": "GRANDE MONTAGNE(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "grande-pointe-aux-piments": {
+      "name": "GRANDE POINTE AUX PIMENTS",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "grande-retraite": {
+      "name": "GRANDE RETRAITE",
+      "district": "flacq",
+      "aliases": []
+    },
+    "grande-riviere-sud-est": {
+      "name": "GRANDE RIVIERE SUD EST",
+      "district": "flacq",
+      "aliases": []
+    },
+    "graviers": {
+      "name": "GRAVIERS(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "gris-gris": {
+      "name": "GRIS GRIS",
+      "district": "savanne",
+      "aliases": []
+    },
+    "gros-billot": {
+      "name": "GROS BILLOT",
+      "district": "grandport",
+      "aliases": []
+    },
+    "gros-bois": {
+      "name": "GROS BOIS",
+      "district": "grandport",
+      "aliases": []
+    },
+    "gros-cailloux": {
+      "name": "GROS CAILLOUX",
+      "district": "blackriver",
+      "aliases": []
+    },
+    "haute-rive": {
+      "name": "HAUTE RIVE",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "helvetia": {
+      "name": "HELVETIA",
+      "district": "moka",
+      "aliases": []
+    },
+    "henrietta": {
+      "name": "HENRIETTA",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "hermitage": {
+      "name": "HERMITAGE ( PANCHVATI )",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "hermitage-phoenix": {
+      "name": "HERMITAGE PHOENIX",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "highlands": {
+      "name": "HIGHLANDS",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "hollyrood": {
+      "name": "HOLLYROOD",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "ile-d-ambre": {
+      "name": "ILE D-AMBRE",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "ilot": {
+      "name": "ILOT",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "isidore-rose": {
+      "name": "ISIDORE ROSE",
+      "district": "flacq",
+      "aliases": []
+    },
+    "khoyratty": {
+      "name": "KHOYRATTY",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "l-assurance": {
+      "name": "L-ASSURANCE",
+      "district": "moka",
+      "aliases": []
+    },
+    "l-aventure": {
+      "name": "L-AVENTURE",
+      "district": "flacq",
+      "aliases": []
+    },
+    "l-escalier": {
+      "name": "L-ESCALIER",
+      "district": "savanne",
+      "aliases": []
+    },
+    "l-esperance-qmilitaire": {
+      "name": "L-ESPERANCE Q.MILITAIRE",
+      "district": "moka",
+      "aliases": []
+    },
+    "la-barraque": {
+      "name": "LA BARRAQUE",
+      "district": "grandport",
+      "aliases": []
+    },
+    "la-brasserie": {
+      "name": "LA BRASSERIE",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "la-caverne": {
+      "name": "LA CAVERNE",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "la-chaumiere": {
+      "name": "LA CHAUMIERE",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "la-ferme": {
+      "name": "LA FERME(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "la-ferme-bambous": {
+      "name": "LA FERME BAMBOUS",
+      "district": "blackriver",
+      "aliases": []
+    },
+    "la-flora": {
+      "name": "LA FLORA",
+      "district": "savanne",
+      "aliases": []
+    },
+    "la-gaulette": {
+      "name": "LA GAULETTE",
+      "district": "blackriver",
+      "aliases": []
+    },
+    "la-laura": {
+      "name": "LA LAURA (BEL AIR)",
+      "district": "flacq",
+      "aliases": []
+    },
+    "la-laura-saint-pierre": {
+      "name": "LA LAURA SAINT PIERRE",
+      "district": "moka",
+      "aliases": []
+    },
+    "la-louisa": {
+      "name": "LA LOUISA",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "la-marie": {
+      "name": "LA MARIE",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "la-mivoie": {
+      "name": "LA MIVOIE",
+      "district": "blackriver",
+      "aliases": []
+    },
+    "la-nourrice": {
+      "name": "LA NOURRICE",
+      "district": "flacq",
+      "aliases": []
+    },
+    "la-preneuse": {
+      "name": "LA PRENEUSE",
+      "district": "blackriver",
+      "aliases": []
+    },
+    "la-rosa": {
+      "name": "LA ROSA",
+      "district": "grandport",
+      "aliases": []
+    },
+    "la-salette": {
+      "name": "LA SALETTE",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "la-saline": {
+      "name": "LA SALINE",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "la-sourdine": {
+      "name": "LA SOURDINE",
+      "district": "grandport",
+      "aliases": []
+    },
+    "labourdonnais": {
+      "name": "LABOURDONNAIS",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "lallmatie": {
+      "name": "LALLMATIE",
+      "district": "flacq",
+      "aliases": []
+    },
+    "lataniers": {
+      "name": "LATANIERS(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "latapie": {
+      "name": "LATAPIE",
+      "district": "flacq",
+      "aliases": []
+    },
+    "le-bouchon": {
+      "name": "LE BOUCHON",
+      "district": "grandport",
+      "aliases": []
+    },
+    "le-chaland": {
+      "name": "LE CHALAND",
+      "district": "grandport",
+      "aliases": []
+    },
+    "le-goulet": {
+      "name": "LE GOULET",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "le-hochet": {
+      "name": "LE HOCHET",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "le-morne": {
+      "name": "LE MORNE",
+      "district": "blackriver",
+      "aliases": []
+    },
+    "les-casernrs-curepipe": {
+      "name": "LES CASERNRS CUREPIPE",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "les-mariannes": {
+      "name": "LES MARIANNES",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "lesur": {
+      "name": "LESUR",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "ligne-berthaud": {
+      "name": "LIGNE BERTHAUD",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "long-mountain": {
+      "name": "LONG MOUNTAIN",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "lower-vale": {
+      "name": "LOWER VALE",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "mahebourg": {
+      "name": "MAHEBOURG",
+      "district": "grandport",
+      "aliases": []
+    },
+    "malabar": {
+      "name": "MALABAR(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "malakoff": {
+      "name": "MALAKOFF",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "malinga": {
+      "name": "MALINGA",
+      "district": "moka",
+      "aliases": []
+    },
+    "mangues": {
+      "name": "MANGUES(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "mapou": {
+      "name": "MAPOU",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "mapou-leclezio": {
+      "name": "MAPOU LECLEZIO",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "mare-aux-vacoas": {
+      "name": "MARE AUX VACOAS",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "mare-d-albert": {
+      "name": "MARE D-ALBERT",
+      "district": "grandport",
+      "aliases": []
+    },
+    "mare-gravier": {
+      "name": "MARE GRAVIER",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "mare-la-chaux": {
+      "name": "MARE LA CHAUX",
+      "district": "flacq",
+      "aliases": []
+    },
+    "mare-longue": {
+      "name": "MARE LONGUE",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "mare-tabac": {
+      "name": "MARE TABAC",
+      "district": "grandport",
+      "aliases": []
+    },
+    "marechal": {
+      "name": "MARECHAL(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "marie-jeannie": {
+      "name": "MARIE JEANNIE",
+      "district": "grandport",
+      "aliases": []
+    },
+    "medine-bambous": {
+      "name": "MEDINE BAMBOUS",
+      "district": "blackriver",
+      "aliases": []
+    },
+    "medine-camp-de-masque": {
+      "name": "MEDINE CAMP DE MASQUE",
+      "district": "flacq",
+      "aliases": []
+    },
+    "melrose": {
+      "name": "MELROSE",
+      "district": "moka",
+      "aliases": []
+    },
+    "melviile": {
+      "name": "MELVIILE",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "mer-rouge": {
+      "name": "MER ROUGE",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "mesnil": {
+      "name": "MESNIL",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "midlands": {
+      "name": "MIDLANDS",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "mlle-jeanne": {
+      "name": "MLLE JEANNE",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "mlle-laure": {
+      "name": "MLLE LAURE",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "mme-azor": {
+      "name": "MME AZOR",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "moka": {
+      "name": "MOKA",
+      "district": "moka",
+      "aliases": []
+    },
+    "mon-choisy": {
+      "name": "MON CHOISY",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "mon-desert-mon-tresor": {
+      "name": "MON DESERT MON TRESOR",
+      "district": "grandport",
+      "aliases": []
+    },
+    "mon-gout": {
+      "name": "MON GOUT",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "mon-loisir": {
+      "name": "MON LOISIR",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "mon-songe": {
+      "name": "MON SONGE",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "mont-blanc": {
+      "name": "MONT BLANC",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "mont-fertille": {
+      "name": "MONT FERTILLE",
+      "district": "grandport",
+      "aliases": []
+    },
+    "mont-ida": {
+      "name": "MONT IDA",
+      "district": "flacq",
+      "aliases": []
+    },
+    "mont-piton": {
+      "name": "MONT PITON",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "mont-roches": {
+      "name": "MONT ROCHES",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "mont-simonet": {
+      "name": "MONT  SIMONET",
+      "district": "blackriver",
+      "aliases": []
+    },
+    "montagne-blanche": {
+      "name": "MONTAGNE BLANCHE",
+      "district": "moka",
+      "aliases": []
+    },
+    "montagne-cabris-est": {
+      "name": "MONTAGNE CABRIS EST(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "montagne-charlot": {
+      "name": "MONTAGNE CHARLOT(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "montagne-fanal": {
+      "name": "MONTAGNE FANAL(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "montagne-ory": {
+      "name": "MONTAGNE ORY",
+      "district": "moka",
+      "aliases": []
+    },
+    "montebello": {
+      "name": "MONTEBELLO",
+      "district": "moka",
+      "aliases": []
+    },
+    "morc-raffray-guibies": {
+      "name": "MORC RAFFRAY GUIBIES",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "morc-raffray-le-hochet": {
+      "name": "MORC RAFFRAY LE HOCHET",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "morc-saint-andre": {
+      "name": "MORC SAINT ANDRE",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "mount": {
+      "name": "MOUNT",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "mourouk": {
+      "name": "MOUROUK(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "mtlubin": {
+      "name": "MT.LUBIN(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "new-grove": {
+      "name": "NEW GROVE",
+      "district": "grandport",
+      "aliases": []
+    },
+    "notre-dame": {
+      "name": "NOTRE DAME",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "nouvelle-decouverte": {
+      "name": "NOUVELLE DECOUVERTE",
+      "district": "moka",
+      "aliases": []
+    },
+    "nouvelle-france": {
+      "name": "NOUVELLE FRANCE",
+      "district": "grandport",
+      "aliases": []
+    },
+    "olivia": {
+      "name": "OLIVIA",
+      "district": "flacq",
+      "aliases": []
+    },
+    "oyster-bay": {
+      "name": "OYSTER BAY(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "pailles": {
+      "name": "PAILLES",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "paillotte": {
+      "name": "PAILLOTTE",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "palma": {
+      "name": "PALMA",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "palmar": {
+      "name": "PALMAR",
+      "district": "flacq",
+      "aliases": []
+    },
+    "pamplemousses": {
+      "name": "PAMPLEMOUSSES",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "patate-theophille": {
+      "name": "PATATE THEOPHILLE(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "pavillon": {
+      "name": "PAVILLON",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "pellegrin-sebastopol": {
+      "name": "PELLEGRIN SEBASTOPOL",
+      "district": "flacq",
+      "aliases": []
+    },
+    "pereybere": {
+      "name": "PEREYBERE",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "petit-bel-air": {
+      "name": "PETIT BEL AIR",
+      "district": "grandport",
+      "aliases": []
+    },
+    "petit-bois": {
+      "name": "PETIT BOIS",
+      "district": "flacq",
+      "aliases": []
+    },
+    "petit-camp": {
+      "name": "PETIT CAMP",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "petit-gabriel": {
+      "name": "PETIT GABRIEL(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "petit-paquet": {
+      "name": "PETIT PAQUET",
+      "district": "flacq",
+      "aliases": []
+    },
+    "petit-raffray": {
+      "name": "PETIT RAFFRAY",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "petit-sable": {
+      "name": "PETIT SABLE",
+      "district": "grandport",
+      "aliases": []
+    },
+    "petit-verger-p-aux-sables": {
+      "name": "PETIT VERGER P AUX SABLES",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "petit-verger-saint-pierre": {
+      "name": "PETIT VERGER SAINT PIERRE",
+      "district": "moka",
+      "aliases": []
+    },
+    "petite-julie": {
+      "name": "PETITE JULIE",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "petite-pointe-aux-piments": {
+      "name": "PETITE POINTE AUX PIMENTS",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "petite-retraite": {
+      "name": "PETITE RETRAITE",
+      "district": "flacq",
+      "aliases": []
+    },
+    "petite-riviere": {
+      "name": "PETITE RIVIERE",
+      "district": "blackriver",
+      "aliases": []
+    },
+    "petite-riviere-noire": {
+      "name": "PETITE RIVIERE NOIRE",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "phoenix": {
+      "name": "PHOENIX",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "pierrefonds": {
+      "name": "PIERREFONDS",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "piments": {
+      "name": "PIMENTS(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "plaine-chanpagne": {
+      "name": "PLAINE CHANPAGNE",
+      "district": "blackriver",
+      "aliases": []
+    },
+    "plaine-corail": {
+      "name": "PLAINE CORAIL(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "plaine-de-gersigny": {
+      "name": "PLAINE DE GERSIGNY",
+      "district": "flacq",
+      "aliases": []
+    },
+    "plaine-des-papayes": {
+      "name": "PLAINE DES PAPAYES",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "plaine-des-roches": {
+      "name": "PLAINE DES ROCHES",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "plaine-lauzun": {
+      "name": "PLAINE LAUZUN",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "plaine-magnien": {
+      "name": "PLAINE MAGNIEN",
+      "district": "grandport",
+      "aliases": []
+    },
+    "plaine-verte": {
+      "name": "PLAINE VERTE",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "plaisance-rose-hill": {
+      "name": "PLAISANCE ROSE HILL",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "plein-bois": {
+      "name": "PLEIN BOIS",
+      "district": "grandport",
+      "aliases": []
+    },
+    "pointe-aux-canonniers": {
+      "name": "POINTE AUX CANONNIERS",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "pointe-aux-feuilles": {
+      "name": "POINTE AUX FEUILLES",
+      "district": "flacq",
+      "aliases": []
+    },
+    "pointe-aux-piments": {
+      "name": "POINTE AUX PIMENTS",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "pointe-aux-sables": {
+      "name": "POINTE AUX SABLES",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "pointe-d-esny": {
+      "name": "POINTE D-ESNY",
+      "district": "grandport",
+      "aliases": []
+    },
+    "pointe-de-flacq": {
+      "name": "POINTE DE FLACQ",
+      "district": "flacq",
+      "aliases": []
+    },
+    "pointe-des-lascars": {
+      "name": "POINTE DES LASCARS",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "pompee": {
+      "name": "POMPEE(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "pomponette": {
+      "name": "POMPONETTE",
+      "district": "savanne",
+      "aliases": []
+    },
+    "pont-blanc": {
+      "name": "PONT BLANC",
+      "district": "flacq",
+      "aliases": []
+    },
+    "pont-lardier": {
+      "name": "PONT LARDIER",
+      "district": "flacq",
+      "aliases": []
+    },
+    "pont-praslin": {
+      "name": "PONT PRASLIN",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "port-louis": {
+      "name": "PORT-LOUIS",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "port-mathurin": {
+      "name": "PORT MATHURIN(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "poste-de-flacq": {
+      "name": "POSTE DE FLACQ",
+      "district": "flacq",
+      "aliases": []
+    },
+    "poste-lafayette": {
+      "name": "POSTE LAFAYETTE",
+      "district": "flacq",
+      "aliases": []
+    },
+    "powder-mill": {
+      "name": "POWDER MILL",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "providence-bois-des-amourettes": {
+      "name": "PROVIDENCE BOIS DES AMOURETTES",
+      "district": "grandport",
+      "aliases": []
+    },
+    "providence-la-porte": {
+      "name": "PROVIDENCE LA PORTE",
+      "district": "flacq",
+      "aliases": []
+    },
+    "providence-quartier-militaire": {
+      "name": "PROVIDENCE QUARTIER MILITAIRE",
+      "district": "moka",
+      "aliases": []
+    },
+    "quartier-militaire": {
+      "name": "QUARTIER MILITAIRE",
+      "district": "moka",
+      "aliases": []
+    },
+    "quatre-bornes": {
+      "name": "QUATRE-BORNES",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "quatre-carreaux": {
+      "name": "QUATRE CARREAUX",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "quatre-cocos": {
+      "name": "QUATRE COCOS",
+      "district": "flacq",
+      "aliases": []
+    },
+    "quatre-soeurs": {
+      "name": "QUATRE SOEURS",
+      "district": "flacq",
+      "aliases": []
+    },
+    "quatre-vents": {
+      "name": "QUATRE VENTS(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "quay-d": {
+      "name": "QUAY D",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "queen-victoria": {
+      "name": "QUEEN VICTORIA",
+      "district": "flacq",
+      "aliases": []
+    },
+    "quinze-cantons": {
+      "name": "QUINZE CANTONS",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "ramp-le-moirt": {
+      "name": "RAMP LE MOIRT",
+      "district": "grandport",
+      "aliases": []
+    },
+    "reduit": {
+      "name": "REDUIT",
+      "district": "moka",
+      "aliases": []
+    },
+    "residence-kennedy": {
+      "name": "RESIDENCE KENNEDY",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "reunion-maurel": {
+      "name": "REUNION MAUREL",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "reunion-vacoas": {
+      "name": "REUNION VACOAS",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "riambel": {
+      "name": "RIAMBEL",
+      "district": "savanne",
+      "aliases": []
+    },
+    "riche-bois": {
+      "name": "RICHE BOIS",
+      "district": "savanne",
+      "aliases": []
+    },
+    "riche-en-eau": {
+      "name": "RICHE EN EAU",
+      "district": "grandport",
+      "aliases": []
+    },
+    "riche-terre": {
+      "name": "RICHE TERRE",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "richelieu": {
+      "name": "RICHELIEU",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "richemare": {
+      "name": "RICHEMARE",
+      "district": "flacq",
+      "aliases": []
+    },
+    "richfond": {
+      "name": "RICHFOND",
+      "district": "flacq",
+      "aliases": []
+    },
+    "ripailles": {
+      "name": "RIPAILLES",
+      "district": "moka",
+      "aliases": []
+    },
+    "riviere-banane": {
+      "name": "RIVIERE BANANE(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "riviere-baptiste-st-pierre": {
+      "name": "RIVIERE BAPTISTE ST PIERRE",
+      "district": "moka",
+      "aliases": []
+    },
+    "riviere-coco": {
+      "name": "RIVIERE COCO(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "riviere-des-anguilles": {
+      "name": "RIVIERE DES ANGUILLES",
+      "district": "savanne",
+      "aliases": []
+    },
+    "riviere-des-creoles": {
+      "name": "RIVIERE DES CREOLES",
+      "district": "grandport",
+      "aliases": []
+    },
+    "riviere-des-galets": {
+      "name": "RIVIERE DES GALETS",
+      "district": "savanne",
+      "aliases": []
+    },
+    "riviere-du-poste": {
+      "name": "RIVIERE DU POSTE",
+      "district": "grandport",
+      "aliases": []
+    },
+    "riviere-du-rempart": {
+      "name": "RIVIERE DU REMPART",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "riviere-noire": {
+      "name": "RIVIERE NOIRE",
+      "district": "blackriver",
+      "aliases": []
+    },
+    "roche-bois": {
+      "name": "ROCHE BOIS",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "roche-bon-dieu": {
+      "name": "ROCHE BON DIEU(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "roche-terre": {
+      "name": "ROCHE TERRE",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "roches-brunes": {
+      "name": "ROCHES BRUNES",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "roches-noires": {
+      "name": "ROCHES NOIRES",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "rodrigues": {
+      "name": "RODRIGUES",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "rose-belle": {
+      "name": "ROSE BELLE",
+      "district": "grandport",
+      "aliases": []
+    },
+    "rose-hill": {
+      "name": "ROSE-HILL",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "roseaux": {
+      "name": "ROSEAUX(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "rouillard": {
+      "name": "ROUILLARD",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "saint-antoine": {
+      "name": "SAINT ANTOINE",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "saint-aubin": {
+      "name": "SAINT AUBIN",
+      "district": "savanne",
+      "aliases": []
+    },
+    "saint-francois": {
+      "name": "SAINT FRANCOIS",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "saint-gabriel": {
+      "name": "SAINT GABRIEL(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "saint-hilaire": {
+      "name": "SAINT HILAIRE",
+      "district": "grandport",
+      "aliases": []
+    },
+    "saint-hubert": {
+      "name": "SAINT HUBERT",
+      "district": "grandport",
+      "aliases": []
+    },
+    "saint-joseph": {
+      "name": "SAINT JOSEPH",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "saint-julien-village": {
+      "name": "SAINT JULIEN VILLAGE",
+      "district": "flacq",
+      "aliases": []
+    },
+    "saint-martin-r-hill": {
+      "name": "SAINT MARTIN R-HILL",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "saint-paul": {
+      "name": "SAINT PAUL",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "saint-pierre": {
+      "name": "SAINT PIERRE",
+      "district": "moka",
+      "aliases": []
+    },
+    "sainte-croix": {
+      "name": "SAINTE CROIX",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "salazie": {
+      "name": "SALAZIE",
+      "district": "flacq",
+      "aliases": []
+    },
+    "sauveterre": {
+      "name": "SAUVETERRE",
+      "district": "grandport",
+      "aliases": []
+    },
+    "savannah": {
+      "name": "SAVANNAH",
+      "district": "savanne",
+      "aliases": []
+    },
+    "sebastopol": {
+      "name": "SEBASTOPOL",
+      "district": "flacq",
+      "aliases": []
+    },
+    "seneville": {
+      "name": "SENEVILLE",
+      "district": "savanne",
+      "aliases": []
+    },
+    "signal-mountain": {
+      "name": "SIGNAL MOUNTAIN",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "sodnac": {
+      "name": "SODNAC",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "solferino": {
+      "name": "SOLFERINO",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "solitude": {
+      "name": "SOLITUDE",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "songes": {
+      "name": "SONGES(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "soreze": {
+      "name": "SOREZE",
+      "district": "moka",
+      "aliases": []
+    },
+    "sottise": {
+      "name": "SOTTISE",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "souillac": {
+      "name": "SOUILLAC",
+      "district": "savanne",
+      "aliases": []
+    },
+    "stanley": {
+      "name": "STANLEY",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "surinam": {
+      "name": "SURINAM",
+      "district": "savanne",
+      "aliases": []
+    },
+    "tamarin": {
+      "name": "TAMARIN",
+      "district": "blackriver",
+      "aliases": []
+    },
+    "tamarind-falls": {
+      "name": "TAMARIND FALLS",
+      "district": "blackriver",
+      "aliases": []
+    },
+    "tambes": {
+      "name": "TAMBES(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "telfair-moka": {
+      "name": "TELFAIR- MOKA",
+      "district": "moka",
+      "aliases": []
+    },
+    "terracine": {
+      "name": "TERRACINE",
+      "district": "savanne",
+      "aliases": []
+    },
+    "terrasson": {
+      "name": "TERRASSON",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "terre-rouge": {
+      "name": "TERRE ROUGE",
+      "district": "pamplemousses",
+      "aliases": [
+        "TERRE ROUGE(RODRIGUES)"
+      ]
+    },
+    "tombeau-bay": {
+      "name": "TOMBEAU BAY",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "tour-koenig": {
+      "name": "TOUR KOENIG",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "tranquebar": {
+      "name": "TRANQUEBAR",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "trefles": {
+      "name": "TREFLES",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "tres-bon": {
+      "name": "TRES BON",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "trianon": {
+      "name": "TRIANON",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "triolet": {
+      "name": "TRIOLET",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "trois-boutiques-triolet": {
+      "name": "TROIS BOUTIQUES TRIOLET",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "trois-boutiques-union-vale": {
+      "name": "TROIS BOUTIQUES UNION VALE",
+      "district": "grandport",
+      "aliases": []
+    },
+    "trou-aux-biches": {
+      "name": "TROU AUX BICHES",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "trou-d-eau-douce": {
+      "name": "TROU D-EAU DOUCE",
+      "district": "flacq",
+      "aliases": []
+    },
+    "tyack": {
+      "name": "TYACK",
+      "district": "savanne",
+      "aliases": []
+    },
+    "union": {
+      "name": "UNION",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "union-park": {
+      "name": "UNION PARK",
+      "district": "grandport",
+      "aliases": []
+    },
+    "union-vale": {
+      "name": "UNION VALE",
+      "district": "grandport",
+      "aliases": []
+    },
+    "upper-dagotiere": {
+      "name": "UPPER DAGOTIERE",
+      "district": "moka",
+      "aliases": []
+    },
+    "upper-vale": {
+      "name": "UPPER VALE",
+      "district": "rivieredurempart",
+      "aliases": []
+    },
+    "vacoas": {
+      "name": "VACOAS",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "valentina": {
+      "name": "VALENTINA",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "valetta": {
+      "name": "VALETTA",
+      "district": "moka",
+      "aliases": []
+    },
+    "vallee-des-pretres": {
+      "name": "VALLEE DES PRETRES",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "vallee-pitot": {
+      "name": "VALLEE PITOT",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "valton": {
+      "name": "VALTON",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "vangard": {
+      "name": "VANGARD(RODRIGUES)",
+      "district": "rodrigues",
+      "aliases": []
+    },
+    "verdun": {
+      "name": "VERDUN",
+      "district": "moka",
+      "aliases": []
+    },
+    "vieux-grand-port": {
+      "name": "VIEUX GRAND PORT",
+      "district": "grandport",
+      "aliases": []
+    },
+    "villebague": {
+      "name": "VILLEBAGUE",
+      "district": "pamplemousses",
+      "aliases": []
+    },
+    "villenoire": {
+      "name": "VILLENOIRE",
+      "district": "grandport",
+      "aliases": []
+    },
+    "vuillemin-qmilitaire": {
+      "name": "VUILLEMIN Q.MILITAIRE",
+      "district": "moka",
+      "aliases": []
+    },
+    "wolmar": {
+      "name": "WOLMAR",
+      "district": "blackriver",
+      "aliases": []
+    },
+    "wootun": {
+      "name": "WOOTUN",
+      "district": "plainewilhems",
+      "aliases": []
+    },
+    "xavier": {
+      "name": "XAVIER",
+      "district": "portlouis",
+      "aliases": []
+    },
+    "yemen": {
+      "name": "YEMEN",
+      "district": "blackriver",
+      "aliases": []
+    }
+  }
+}
