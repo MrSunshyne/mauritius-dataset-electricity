@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "Automatically updated dataset of the Power Outages in Mauritius",
   "type": "module",
+  "engines": {
+    "bun": ">=1.0.0"
+  },
   "scripts": {
-    "fetch": "esrun fetch.ts",
+    "fetch": "bun run fetch.ts",
+    "fetch:node": "esrun fetch.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -26,6 +30,7 @@
     "request": "^2.88.2"
   },
   "devDependencies": {
-    "@digitak/esrun": "^3.1.2"
+    "@digitak/esrun": "^3.1.2",
+    "bun-types": "^1.0.0"
   }
 }
