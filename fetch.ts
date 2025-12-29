@@ -1,18 +1,21 @@
 import { exit } from 'process';
 import fs from 'fs'
 import { extractFromSource, makeUniq, categorize } from "./utils"
-import request from 'request'
 import deepmerge from 'deepmerge';
 
 const URL = 'https://ceb.mu/customer-corner/power-outage-information'
 const path = './data/power-outages.json'
 const pathLatest = './data/power-outages.latest.json'
 
-request(URL, function (error, _, body) {
-    if (error) {
-        console.error('error:', error);
-        exit(1)
-    }
+async function main() {
+    try {
+        // Use Bun's native fetch
+        const response = await fetch(URL);
+        if (!response.ok) {
+            console.error('error:', response.status, response.statusText);
+            exit(1);
+        }
+        const body = await response.text();
 
     console.log('Fetched raw data from CEB');
 
@@ -52,9 +55,15 @@ request(URL, function (error, _, body) {
         console.log('Created latest data file');
     }
 
-    console.log('Updating latest data file ...');
-    fs.writeFileSync(pathLatest, JSON.stringify(categorize(newData)));
-    console.log('Updated latest data file');
+        console.log('Updating latest data file ...');
+        fs.writeFileSync(pathLatest, JSON.stringify(categorize(newData)));
+        console.log('Updated latest data file');
 
-    exit(0);
-});
+        exit(0);
+    } catch (error) {
+        console.error('error:', error);
+        exit(1);
+    }
+}
+
+main();
