@@ -23,6 +23,36 @@ interface OutputObject {
     future: Outage[];
 }
 
+const MAURITIUS_TIMEZONE = 'Indian/Mauritius';
+
+/**
+ * Get the current time adjusted for Mauritius timezone using the Intl API.
+ * Returns the start and end of "today" in Mauritius time as UTC Date objects.
+ */
+function getMauritiusToday(): { now: Date; startOfDay: Date; endOfDay: Date } {
+    const now = new Date();
+    
+    // Get current date parts in Mauritius timezone
+    const formatter = new Intl.DateTimeFormat('en-CA', {
+        timeZone: MAURITIUS_TIMEZONE,
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit',
+    });
+    
+    // Format: YYYY-MM-DD (en-CA locale gives us this format)
+    const mauritiusDateStr = formatter.format(now);
+    
+    // Create start of day (00:00:00) in Mauritius timezone
+    // By appending the timezone, the Date constructor will convert to UTC internally
+    const startOfDay = new Date(`${mauritiusDateStr}T00:00:00.000+04:00`);
+    
+    // Create end of day (23:59:59.999) in Mauritius timezone
+    const endOfDay = new Date(`${mauritiusDateStr}T23:59:59.999+04:00`);
+    
+    return { now, startOfDay, endOfDay };
+}
+
 function parseDate(date: string, delimiter = 'from', tz = "+0400") {
     if (date.length > 0) {
         let processing: string[] = date.replace(/\s+/g, ' ').trim().split('à');
@@ -102,11 +132,10 @@ export const extractFromSource = (data) => {
     return dataset
 }
 
-// Improved categorization logic to handle ongoing outages properly
+// Categorize outages into "today" (started today or still active) and "future"
+// Uses Mauritius timezone (UTC+4) to determine "today"
 export const categorize = (inputData: InputData): OutputObject => {
-    const now = new Date();
-    const endOfToday = new Date();
-    endOfToday.setHours(23, 59, 59, 999);
+    const { now, startOfDay, endOfDay } = getMauritiusToday();
 
     const todayOutages: Outage[] = [];
     const futureOutages: Outage[] = [];
@@ -122,12 +151,18 @@ export const categorize = (inputData: InputData): OutputObject => {
             const from = new Date(outage.from);
             const to = new Date(outage.to);
 
-            // Only include outages that haven't ended yet
-            if (to > now) {
-                if (from <= endOfToday) {
-                    todayOutages.push(outage);
-                } else {
+            // Include in "today" if:
+            // 1. Outage started today (from >= startOfDay AND from <= endOfDay), OR
+            // 2. Outage is still ongoing (to > now)
+            const startedToday = from >= startOfDay && from <= endOfDay;
+            const stillOngoing = to > now;
+
+            if (startedToday || stillOngoing) {
+                // If it starts after today, it's a future outage
+                if (from > endOfDay) {
                     futureOutages.push(outage);
+                } else {
+                    todayOutages.push(outage);
                 }
             }
         });
