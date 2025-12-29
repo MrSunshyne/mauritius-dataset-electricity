@@ -1,0 +1,68 @@
+{
+  "date": "2022-06-14",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.765Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le mardi 14 juin 2022 de  10:30:00 à  14:30:00",
+      "locality": "GRAND BEL AIR",
+      "localitySlug": "grand-bel-air",
+      "streets": "WHOLE REGION",
+      "district": "flacq",
+      "from": "2022-06-14T06:30:00.000Z",
+      "to": "2022-06-14T10:30:00.000Z",
+      "id": "c5b46c912eddfdbdea92fbbfc712fae4"
+    },
+    {
+      "date": "Le mardi 14 juin 2022 de  13:05:00 à  14:05:00",
+      "locality": "CAROLINE BEL AIR",
+      "localitySlug": "caroline-bel-air",
+      "streets": "CAROLINE BEL AIR CITE EDC",
+      "district": "flacq",
+      "from": "2022-06-14T09:05:00.000Z",
+      "to": "2022-06-14T10:05:00.000Z",
+      "id": "7f22a9ab4953136920aeedb874d1c690"
+    },
+    {
+      "date": "Le mardi 14 juin 2022 de  08:30:00 à  17:00:00",
+      "locality": "LE CHALAND",
+      "localitySlug": "le-chaland",
+      "streets": "Providence, une partie de Bois Des Amourettes et une partie de Anse Jonchée",
+      "district": "grandport",
+      "from": "2022-06-14T04:30:00.000Z",
+      "to": "2022-06-14T13:00:00.000Z",
+      "id": "d3a54b526be6ec25fb800dea473e8bf1"
+    },
+    {
+      "date": "Le mardi 14 juin 2022 de  08:30:00 à  17:00:00",
+      "locality": "BOIS DES AMOURETTES",
+      "localitySlug": "bois-des-amourettes",
+      "streets": "Providence, une partie de Bois Des Amourettes et une partie de Anse Jonchée",
+      "district": "grandport",
+      "from": "2022-06-14T04:30:00.000Z",
+      "to": "2022-06-14T13:00:00.000Z",
+      "id": "05fe68dddc48f34caf489e105934a517"
+    },
+    {
+      "date": "Le mardi 14 juin 2022 de  08:00:00 à  13:00:00",
+      "locality": "MON CHOISY",
+      "localitySlug": "mon-choisy",
+      "streets": "LES ABONNES DE MON CHOISY HABITANT DANS LES ENVIRONS DE COEUR DE MON CHOISY, PARK DE MON CHOISY, COMPAGNIE DE MON CHOISY LTEE ET DOMAINE DE GRAND BAY",
+      "district": "pamplemousses",
+      "from": "2022-06-14T04:00:00.000Z",
+      "to": "2022-06-14T09:00:00.000Z",
+      "id": "84118c4ab2dda96bc0a0a9073616cafa"
+    },
+    {
+      "date": "Le mardi 14 juin 2022 de  08:30:00 à  16:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "EN PARTIE ROUTE ROYALE B BASSIN , ELIE & SONS",
+      "district": "plainewilhems",
+      "from": "2022-06-14T04:30:00.000Z",
+      "to": "2022-06-14T12:00:00.000Z",
+      "id": "dc72abdbd975892a73c04f825969a9d1"
+    }
+  ]
+}

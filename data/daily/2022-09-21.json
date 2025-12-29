@@ -1,0 +1,58 @@
+{
+  "date": "2022-09-21",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.772Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mercredi 21 septembre 2022 de  08:30:00 à  14:30:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "Carlos",
+      "district": "blackriver",
+      "from": "2022-09-21T04:30:00.000Z",
+      "to": "2022-09-21T10:30:00.000Z",
+      "id": "87346558f932a954d59e761a80667440"
+    },
+    {
+      "date": "Le mercredi 21 septembre 2022 de  09:00:00 à  15:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave Stanley, Farquhar, Hitchcock, Conte de Lisle, Murray, Gladstone, Dr Ross, Pavillon Sport complex et en partie Ave Sir Celicourt Antelme et Ollier",
+      "district": "plainewilhems",
+      "from": "2022-09-21T05:00:00.000Z",
+      "to": "2022-09-21T11:00:00.000Z",
+      "id": "8ed8f0c9f26eb672b2fc98a79a2c8306"
+    },
+    {
+      "date": "Le mercredi 21 septembre 2022 de  08:30:00 à  14:00:00",
+      "locality": "MONT ROCHES",
+      "localitySlug": "mont-roches",
+      "streets": "Chellumbrun St, School Lane, Verger Bissambar et les environs",
+      "district": "plainewilhems",
+      "from": "2022-09-21T04:30:00.000Z",
+      "to": "2022-09-21T10:00:00.000Z",
+      "id": "7658f852ee1288194d66ab5f67a139f0"
+    },
+    {
+      "date": "Le mercredi 21 septembre 2022 de  14:00:00 à  17:00:00",
+      "locality": "16EME MILE",
+      "localitySlug": "16eme-mile",
+      "streets": "Route Royal 16eme Mille Forest Side, Moec Domah, Morc Ramphul, Mon Bois, Residence Anouskha",
+      "district": "plainewilhems",
+      "from": "2022-09-21T10:00:00.000Z",
+      "to": "2022-09-21T13:00:00.000Z",
+      "id": "c26cde14e2d03a7a09006dcc225dceec"
+    },
+    {
+      "date": "Le mercredi 21 septembre 2022 de  08:30:00 à  16:00:00",
+      "locality": "CARREAU LALIANE",
+      "localitySlug": "carreau-laliane",
+      "streets": "Partie de Sayed Hossen, Ramphul Lane no. 1, No. 2 Gopaul Lane",
+      "district": "plainewilhems",
+      "from": "2022-09-21T04:30:00.000Z",
+      "to": "2022-09-21T12:00:00.000Z",
+      "id": "2f027a9bb00dde557c91202606056faf"
+    }
+  ]
+}

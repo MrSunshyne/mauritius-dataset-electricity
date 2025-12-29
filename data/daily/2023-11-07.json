@@ -1,0 +1,118 @@
+{
+  "date": "2023-11-07",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.801Z",
+  "outageCount": 11,
+  "outages": [
+    {
+      "date": "Le mardi 7 novembre 2023 de  15:25:00 à  18:25:00",
+      "locality": "LE MORNE",
+      "localitySlug": "le-morne",
+      "streets": "LE MORNE (FEEDER TRIPPED)",
+      "district": "blackriver",
+      "from": "2023-11-07T11:25:00.000Z",
+      "to": "2023-11-07T14:25:00.000Z",
+      "id": "f52f8bdf130e0261f2b005ddd54d9118"
+    },
+    {
+      "date": "Le mardi 7 novembre 2023 de  08:30:00 à  15:00:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "Mahebourg habitant dans le périmètre et les rues suivantes: une partie de la rue St Martin",
+      "district": "grandport",
+      "from": "2023-11-07T04:30:00.000Z",
+      "to": "2023-11-07T11:00:00.000Z",
+      "id": "2802430c3b2dc96ca97253e8655fbde2"
+    },
+    {
+      "date": "Le mardi 7 novembre 2023 de  13:50:00 à  14:50:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "LA RUE FLAMANT, LA RUE MARIANNE, LA RUE NYON",
+      "district": "grandport",
+      "from": "2023-11-07T09:50:00.000Z",
+      "to": "2023-11-07T10:50:00.000Z",
+      "id": "463775f65ff158641409da066623611b"
+    },
+    {
+      "date": "Le mardi 7 novembre 2023 de  13:00:00 à  17:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "VACOAS AND FLOREAL:Morcellement Medine, Morcellement GIDC, une partie de Route Ligne-Berthaud, Pandamanikum Lane, Chellapen Lane, une partie de Route Sadally",
+      "district": "plainewilhems",
+      "from": "2023-11-07T09:00:00.000Z",
+      "to": "2023-11-07T13:00:00.000Z",
+      "id": "acbcc41e26683ef2b56e4cf189347676"
+    },
+    {
+      "date": "Le mardi 7 novembre 2023 de  09:15:00 à  11:30:00",
+      "locality": "PLAISANCE ROSE HILL",
+      "localitySlug": "plaisance-rose-hill",
+      "streets": "MARIE CLEMENCE ST, F MATTUR ST,I GOOMANY ST,MAXIME REMY,R BRUNES",
+      "district": "plainewilhems",
+      "from": "2023-11-07T05:15:00.000Z",
+      "to": "2023-11-07T07:30:00.000Z",
+      "id": "fd57d7d3eb68dbca9a5bc863160fa9ec"
+    },
+    {
+      "date": "Le mardi 7 novembre 2023 de  14:45:00 à  16:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "IMPASSE BAGATI CAMP CAVAL, CUREPIPE.",
+      "district": "plainewilhems",
+      "from": "2023-11-07T10:45:00.000Z",
+      "to": "2023-11-07T12:00:00.000Z",
+      "id": "b0b01dfac6fc92d5adc783e5e9e6da3b"
+    },
+    {
+      "date": "Le mardi 7 novembre 2023 de  16:00:00 à  17:00:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "LA MARIE",
+      "district": "plainewilhems",
+      "from": "2023-11-07T12:00:00.000Z",
+      "to": "2023-11-07T13:00:00.000Z",
+      "id": "f5cd346dfa118256ea4ef8fdd03e231a"
+    },
+    {
+      "date": "Le mardi 7 novembre 2023 de  19:00:00 à  22:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "FLOREAL",
+      "district": "plainewilhems",
+      "from": "2023-11-07T15:00:00.000Z",
+      "to": "2023-11-07T18:00:00.000Z",
+      "id": "600b0cca03ef31e06329a188e8681d37"
+    },
+    {
+      "date": "Le mardi 7 novembre 2023 de  08:00:00 à  11:00:00",
+      "locality": "ROCHE TERRE",
+      "localitySlug": "roche-terre",
+      "streets": "ROCHE TERRE",
+      "district": "rivieredurempart",
+      "from": "2023-11-07T04:00:00.000Z",
+      "to": "2023-11-07T07:00:00.000Z",
+      "id": "be9956249238f944fa66fc90d6db6e3c"
+    },
+    {
+      "date": "Le mardi 7 novembre 2023 de  10:00:00 à  16:30:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "DOMAINE DU MOULIN GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2023-11-07T06:00:00.000Z",
+      "to": "2023-11-07T12:30:00.000Z",
+      "id": "8f9b2305da95efd5cc1c5ebaaea0505d"
+    },
+    {
+      "date": "Le mardi 7 novembre 2023 de  10:30:00 à  11:30:00",
+      "locality": "CAMP DIABLE",
+      "localitySlug": "camp-diable",
+      "streets": "CAMP DIABLE",
+      "district": "savanne",
+      "from": "2023-11-07T06:30:00.000Z",
+      "to": "2023-11-07T07:30:00.000Z",
+      "id": "be25017e09be2a9119aa4bdf14e675f6"
+    }
+  ]
+}

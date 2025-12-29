@@ -1,0 +1,28 @@
+{
+  "date": "2022-07-12",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.767Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mardi 12 juillet 2022 de  08:30:00 à  16:30:00",
+      "locality": "CHAMAREL",
+      "localitySlug": "chamarel",
+      "streets": "CHAMAREL",
+      "district": "blackriver",
+      "from": "2022-07-12T04:30:00.000Z",
+      "to": "2022-07-12T12:30:00.000Z",
+      "id": "1596096be5ab60b6706db8baaf4aa1a3"
+    },
+    {
+      "date": "Le mardi 12 juillet 2022 de  16:00:00 à  18:00:00",
+      "locality": "VIEUX GRAND PORT",
+      "localitySlug": "vieux-grand-port",
+      "streets": "NHDC VIEUX GRAND PORT",
+      "district": "grandport",
+      "from": "2022-07-12T12:00:00.000Z",
+      "to": "2022-07-12T14:00:00.000Z",
+      "id": "759cce3daa6986c2728300bb11dd5f64"
+    }
+  ]
+}

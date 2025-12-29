@@ -1,0 +1,58 @@
+{
+  "date": "2022-10-04",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.773Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mardi 4 octobre 2022 de  09:30:00 à  15:00:00",
+      "locality": "LALLMATIE",
+      "localitySlug": "lallmatie",
+      "streets": "MISSION CROSS RD, GRAND BAS-FOND LALLMATIE",
+      "district": "flacq",
+      "from": "2022-10-04T05:30:00.000Z",
+      "to": "2022-10-04T11:00:00.000Z",
+      "id": "9bd9055a1724bcbd3ff1098849f68a48"
+    },
+    {
+      "date": "Le mardi 4 octobre 2022 de  11:00:00 à  17:00:00",
+      "locality": "LATAPIE",
+      "localitySlug": "latapie",
+      "streets": "LATAPIE RD BRISEE VERDIERE",
+      "district": "flacq",
+      "from": "2022-10-04T07:00:00.000Z",
+      "to": "2022-10-04T13:00:00.000Z",
+      "id": "d455295fb4c904e61177cb51bf1be00e"
+    },
+    {
+      "date": "Le mardi 4 octobre 2022 de  13:00:00 à  17:00:00",
+      "locality": "VILLENOIRE",
+      "localitySlug": "villenoire",
+      "streets": "VILLENOIRE",
+      "district": "grandport",
+      "from": "2022-10-04T09:00:00.000Z",
+      "to": "2022-10-04T13:00:00.000Z",
+      "id": "31321ce4abacbb38c24baa23f0e7ece5"
+    },
+    {
+      "date": "Le mardi 4 octobre 2022 de  10:00:00 à  14:00:00",
+      "locality": "COTTAGE",
+      "localitySlug": "cottage",
+      "streets": "RAMNARAIN ROAD COTTAGE",
+      "district": "rivieredurempart",
+      "from": "2022-10-04T06:00:00.000Z",
+      "to": "2022-10-04T10:00:00.000Z",
+      "id": "78409142d0436d006c39a865244455db"
+    },
+    {
+      "date": "Le mardi 4 octobre 2022 de  13:00:00 à  14:30:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "BY PASS GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2022-10-04T09:00:00.000Z",
+      "to": "2022-10-04T10:30:00.000Z",
+      "id": "b103058fc7e7c60ca30fd1b97df9f0f7"
+    }
+  ]
+}

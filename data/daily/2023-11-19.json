@@ -1,0 +1,128 @@
+{
+  "date": "2023-11-19",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.802Z",
+  "outageCount": 12,
+  "outages": [
+    {
+      "date": "Le dimanche 19 novembre 2023 de  12:30:00 à  14:00:00",
+      "locality": "CASCAVEL",
+      "localitySlug": "cascavel",
+      "streets": "MORC VRS, ALLEES DES MANGUIERS, TEMPLE ROAD ET CASCAVELLE BRANCH ROAD",
+      "district": "blackriver",
+      "from": "2023-11-19T08:30:00.000Z",
+      "to": "2023-11-19T10:00:00.000Z",
+      "id": "6907eb433ac854b01f6657edcf816d84"
+    },
+    {
+      "date": "Le dimanche 19 novembre 2023 de  12:30:00 à  14:00:00",
+      "locality": "BEAU SONGE",
+      "localitySlug": "beau-songe",
+      "streets": "MORC DOOKUN, BENGALI LANE, JUPITER LANE ET BHIKOO LANE",
+      "district": "blackriver",
+      "from": "2023-11-19T08:30:00.000Z",
+      "to": "2023-11-19T10:00:00.000Z",
+      "id": "3d247b2581326fa7b5b5bb0778b5df09"
+    },
+    {
+      "date": "Le dimanche 19 novembre 2023 de  08:30:00 à  12:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC BISMIC, AVE DES SERINS, AVE DES CARDINAUX, AVE DES GOELANDS, AVE DES VERGERS, AVE PETITE MARIE ET AVE DES NENUPHARS",
+      "district": "blackriver",
+      "from": "2023-11-19T04:30:00.000Z",
+      "to": "2023-11-19T08:00:00.000Z",
+      "id": "78a8a65a2e70792b4033ff540ab0a60d"
+    },
+    {
+      "date": "Le dimanche 19 novembre 2023 de  11:00:00 à  13:00:00",
+      "locality": "CASCAVEL",
+      "localitySlug": "cascavel",
+      "streets": "MORC VRS, ALLEES DES MANGUIERS, TEMPLE ROAD ET CASCAVELLE BRANCH ROAD",
+      "district": "blackriver",
+      "from": "2023-11-19T07:00:00.000Z",
+      "to": "2023-11-19T09:00:00.000Z",
+      "id": "a49bd33f1d1608b44be5afa8ee000a07"
+    },
+    {
+      "date": "Le dimanche 19 novembre 2023 de  08:30:00 à  12:00:00",
+      "locality": "BEAU SONGE",
+      "localitySlug": "beau-songe",
+      "streets": "MORC DOOKUN, BENGALI LANE, JUPITER LANE ET BHIKOO LANE",
+      "district": "blackriver",
+      "from": "2023-11-19T04:30:00.000Z",
+      "to": "2023-11-19T08:00:00.000Z",
+      "id": "a49fcda44ace3095807f13f577bcb53a"
+    },
+    {
+      "date": "Le dimanche 19 novembre 2023 de  11:00:00 à  15:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC BISMIC, AVE DES SERINS, AVE DES CARDINAUX, AVE DES GOELANDS, AVE DES VERGERS, AVE PETITE MARIE ET AVE DES NENUPHARS",
+      "district": "blackriver",
+      "from": "2023-11-19T07:00:00.000Z",
+      "to": "2023-11-19T11:00:00.000Z",
+      "id": "dc7b7e932c2eea00750a42393db80388"
+    },
+    {
+      "date": "Le dimanche 19 novembre 2023 de  09:00:00 à  16:00:00",
+      "locality": "QUARTIER MILITAIRE",
+      "localitySlug": "quartier-militaire",
+      "streets": "Saint Leon, EDC Ravaton, EDC Saint Leon, Bonne Veine Road,  EDC Bonne Veine, Rajiah Road, Jackarea Road et Mosque Road",
+      "district": "moka",
+      "from": "2023-11-19T05:00:00.000Z",
+      "to": "2023-11-19T12:00:00.000Z",
+      "id": "b8c73751a8bd99839a1eab079cb3dabf"
+    },
+    {
+      "date": "Le dimanche 19 novembre 2023 de  08:30:00 à  13:30:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "Morc Jhuboo No.1 et dans les environs",
+      "district": "pamplemousses",
+      "from": "2023-11-19T04:30:00.000Z",
+      "to": "2023-11-19T09:30:00.000Z",
+      "id": "4950fc8238483a10e126096d9533c54e"
+    },
+    {
+      "date": "Le dimanche 19 novembre 2023 de  08:15:00 à  16:00:00",
+      "locality": "CLOSEL",
+      "localitySlug": "closel",
+      "streets": "Une partie de Avenue Remy Ollier, Closel Lane, Closel Lane No.1, Closel Road, Indira Gandhi Road, une partie de Gopee Lane et les environs",
+      "district": "plainewilhems",
+      "from": "2023-11-19T04:15:00.000Z",
+      "to": "2023-11-19T12:00:00.000Z",
+      "id": "00161eb51eba25e015745490593e0e02"
+    },
+    {
+      "date": "Le dimanche 19 novembre 2023 de  09:00:00 à  16:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "FLAT AUMEERALLY, AVENUE HENNESSY, D’EPINAY CECIHALL, HENRY PAUL, BUSWELL, TAGORE, OSMAN ET EN PARTIE AVENUE BELLE ROSE, ROUTE ST JEAN, ORCHIDEE, PALMIER ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2023-11-19T05:00:00.000Z",
+      "to": "2023-11-19T12:00:00.000Z",
+      "id": "421268e7c3f94aa762ce44a2d33f541c"
+    },
+    {
+      "date": "Le dimanche 19 novembre 2023 de  09:00:00 à  17:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Morcellement Riverland, Hard Line Lane, Oconor Lane, Cite Casernes, une partie de Robinson Lane et les ruelles",
+      "district": "plainewilhems",
+      "from": "2023-11-19T05:00:00.000Z",
+      "to": "2023-11-19T13:00:00.000Z",
+      "id": "c9319925fbdedd966290dd2ade5c009b"
+    },
+    {
+      "date": "Le dimanche 19 novembre 2023 de  08:30:00 à  16:00:00",
+      "locality": "CAMP DIABLE",
+      "localitySlug": "camp-diable",
+      "streets": "Le village de Camp Diable et Britannia",
+      "district": "savanne",
+      "from": "2023-11-19T04:30:00.000Z",
+      "to": "2023-11-19T12:00:00.000Z",
+      "id": "01dc21dc45d897ee3193c8329fb2c4af"
+    }
+  ]
+}

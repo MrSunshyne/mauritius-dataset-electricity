@@ -1,0 +1,88 @@
+{
+  "date": "2025-11-24",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.853Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le lundi 24 novembre 2025 de  10:00:00 à  12:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC GREEN CREEK FLIC EN FLAC",
+      "district": "blackriver",
+      "from": "2025-11-24T06:00:00.000Z",
+      "to": "2025-11-24T08:00:00.000Z",
+      "id": "5871d70efdea17129a7e1dee38fc5f49"
+    },
+    {
+      "date": "Le lundi 24 novembre 2025 de  13:00:00 à  13:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC DE CHAZAL ALBATROS,DESCARRIERES,MANGUIERS,TOUCAN",
+      "district": "blackriver",
+      "from": "2025-11-24T09:00:00.000Z",
+      "to": "2025-11-24T09:30:00.000Z",
+      "id": "ac6d2e84610c6a91fb8b1a15f6872247"
+    },
+    {
+      "date": "Le lundi 24 novembre 2025 de  08:00:00 à  13:00:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "MORC LA LUCIE,CLAVET,CLEMENCIA,OLIVIA,BELLERIVE",
+      "district": "flacq",
+      "from": "2025-11-24T04:00:00.000Z",
+      "to": "2025-11-24T09:00:00.000Z",
+      "id": "ea70837dad900da19700adb6244d2f86"
+    },
+    {
+      "date": "Le lundi 24 novembre 2025 de  13:00:00 à  19:00:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "MORC LA LUCIE,CLEMENCIA,BELLE ROSE,LA POMPE CWA",
+      "district": "flacq",
+      "from": "2025-11-24T09:00:00.000Z",
+      "to": "2025-11-24T15:00:00.000Z",
+      "id": "88767ede511a39ad4cd098bfbc742238"
+    },
+    {
+      "date": "Le lundi 24 novembre 2025 de  10:50:00 à  19:30:00",
+      "locality": "CLEMENCIA",
+      "localitySlug": "clemencia",
+      "streets": "Belle Rose,Clemencia,Deep River",
+      "district": "flacq",
+      "from": "2025-11-24T06:50:00.000Z",
+      "to": "2025-11-24T15:30:00.000Z",
+      "id": "9e64e535fa6fb439b2697bc59b01387e"
+    },
+    {
+      "date": "Le lundi 24 novembre 2025 de  14:30:00 à  16:30:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "Rue Villeneuve et les environs",
+      "district": "grandport",
+      "from": "2025-11-24T10:30:00.000Z",
+      "to": "2025-11-24T12:30:00.000Z",
+      "id": "792eea13d9ef55dd033f044ae51d2521"
+    },
+    {
+      "date": "Le lundi 24 novembre 2025 de  08:30:00 à  17:00:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "Ave Aldrin, Ave des Flamboyants, Ave La Comete, Ave Armstrong, Ave Roches-Brunes et les environs",
+      "district": "plainewilhems",
+      "from": "2025-11-24T04:30:00.000Z",
+      "to": "2025-11-24T13:00:00.000Z",
+      "id": "49a2cca84d1e3949c4b84d97b185f9a3"
+    },
+    {
+      "date": "Le lundi 24 novembre 2025 de  08:00:00 à  13:00:00",
+      "locality": "GOKHOOLAH",
+      "localitySlug": "gokhoolah",
+      "streets": "PART OF GOKHOOLAH",
+      "district": "rivieredurempart",
+      "from": "2025-11-24T04:00:00.000Z",
+      "to": "2025-11-24T09:00:00.000Z",
+      "id": "696b69b63d981dbac779f8a3d8077b30"
+    }
+  ]
+}

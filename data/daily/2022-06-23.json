@@ -1,0 +1,88 @@
+{
+  "date": "2022-06-23",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.766Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le jeudi 23 juin 2022 de  09:00:00 à  16:00:00",
+      "locality": "PLAINE CHANPAGNE",
+      "localitySlug": "plaine-chanpagne",
+      "streets": "Plaine Champagne",
+      "district": "blackriver",
+      "from": "2022-06-23T05:00:00.000Z",
+      "to": "2022-06-23T12:00:00.000Z",
+      "id": "2416ce8adae80ca15c02e011aa92ac43"
+    },
+    {
+      "date": "Le jeudi 23 juin 2022 de  10:00:00 à  11:00:00",
+      "locality": "SEBASTOPOL",
+      "localitySlug": "sebastopol",
+      "streets": "CLAVET-NHDC-GOVINDA RD SEBASTOPOL",
+      "district": "flacq",
+      "from": "2022-06-23T06:00:00.000Z",
+      "to": "2022-06-23T07:00:00.000Z",
+      "id": "6585a2555cc202d7f377b5d3b6702db3"
+    },
+    {
+      "date": "Le jeudi 23 juin 2022 de  09:00:00 à  10:00:00",
+      "locality": "QUEEN VICTORIA",
+      "localitySlug": "queen-victoria",
+      "streets": "QUEEN VICTORIA",
+      "district": "flacq",
+      "from": "2022-06-23T05:00:00.000Z",
+      "to": "2022-06-23T06:00:00.000Z",
+      "id": "d50d395ce256742e8e16480a14ae17c9"
+    },
+    {
+      "date": "Le jeudi 23 juin 2022 de  18:30:00 à  20:00:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "CAMP GAREAUX",
+      "district": "flacq",
+      "from": "2022-06-23T14:30:00.000Z",
+      "to": "2022-06-23T16:00:00.000Z",
+      "id": "4ced1f9f857f5135c5e4db8303349a6d"
+    },
+    {
+      "date": "Le jeudi 23 juin 2022 de  14:00:00 à  17:30:00",
+      "locality": "REDUIT",
+      "localitySlug": "reduit",
+      "streets": "Martindale, Tamil League et Soobiah Lane",
+      "district": "moka",
+      "from": "2022-06-23T10:00:00.000Z",
+      "to": "2022-06-23T13:30:00.000Z",
+      "id": "15e5b0268c7fc8b051578e03a5bfd9e2"
+    },
+    {
+      "date": "Le jeudi 23 juin 2022 de  07:00:00 à  12:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVE PASTEUR-AVE ST GERAN-AVE OLLIER-AVE CASSIGY",
+      "district": "plainewilhems",
+      "from": "2022-06-23T03:00:00.000Z",
+      "to": "2022-06-23T08:00:00.000Z",
+      "id": "38b5bc16238de4d4dbcfe64dac21b53d"
+    },
+    {
+      "date": "Le jeudi 23 juin 2022 de  18:00:00 à  20:00:00",
+      "locality": "BONNE TERRE",
+      "localitySlug": "bonne-terre",
+      "streets": "CLAIRFOND/BONNE TERRE",
+      "district": "plainewilhems",
+      "from": "2022-06-23T14:00:00.000Z",
+      "to": "2022-06-23T16:00:00.000Z",
+      "id": "a14901e8b9c62d9bb65db12f6a73a3a4"
+    },
+    {
+      "date": "Le jeudi 23 juin 2022 de  08:30:00 à  15:30:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "Grand Baie dans les environs de Hotel Lux, Store 2000 et Route Cotiere",
+      "district": "rivieredurempart",
+      "from": "2022-06-23T04:30:00.000Z",
+      "to": "2022-06-23T11:30:00.000Z",
+      "id": "df291cdaf6abb4e1c02cb12a1fed635f"
+    }
+  ]
+}

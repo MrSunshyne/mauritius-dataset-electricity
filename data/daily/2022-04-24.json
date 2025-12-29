@@ -1,0 +1,58 @@
+{
+  "date": "2022-04-24",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.762Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le dimanche 24 avril 2022 de  08:30:00 à  16:00:00",
+      "locality": "DAGOTIERE",
+      "localitySlug": "dagotiere",
+      "streets": "Villages Dagotiere, Valetta et LAssurance",
+      "district": "moka",
+      "from": "2022-04-24T04:30:00.000Z",
+      "to": "2022-04-24T12:00:00.000Z",
+      "id": "f874edd18c9de9cbd3e1d5a01733ec35"
+    },
+    {
+      "date": "Le dimanche 24 avril 2022 de  09:00:00 à  13:00:00",
+      "locality": "VERDUN",
+      "localitySlug": "verdun",
+      "streets": "VILLAGE VERDUN",
+      "district": "moka",
+      "from": "2022-04-24T05:00:00.000Z",
+      "to": "2022-04-24T09:00:00.000Z",
+      "id": "f01d432f3c58852d43b4a3e4fc948d7f"
+    },
+    {
+      "date": "Le dimanche 24 avril 2022 de  08:30:00 à  16:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Morcellement Hardy. Morcellement Residence Trianon, Morcellement River Edge",
+      "district": "plainewilhems",
+      "from": "2022-04-24T04:30:00.000Z",
+      "to": "2022-04-24T12:00:00.000Z",
+      "id": "a32f5823b5ef58e6a259e27a839eb51c"
+    },
+    {
+      "date": "Le dimanche 24 avril 2022 de  08:30:00 à  15:30:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "DANS LES ENVIRONS DES RUES MGR LEEN, DENTRECASTEAUX,A F TANK WEN, FIELD, ARMAND ESNOUF ET BELVEDERE",
+      "district": "portlouis",
+      "from": "2022-04-24T04:30:00.000Z",
+      "to": "2022-04-24T11:30:00.000Z",
+      "id": "d6b7b4ba1b77eb2bb42008e4979a9713"
+    },
+    {
+      "date": "Le dimanche 24 avril 2022 de  08:30:00 à  15:30:00",
+      "locality": "PLAINE DES ROCHES",
+      "localitySlug": "plaine-des-roches",
+      "streets": "dans les environs de seneck road, royal road et ramphul road",
+      "district": "rivieredurempart",
+      "from": "2022-04-24T04:30:00.000Z",
+      "to": "2022-04-24T11:30:00.000Z",
+      "id": "46344391b78649df013294ae400bfb93"
+    }
+  ]
+}

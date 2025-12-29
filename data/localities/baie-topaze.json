@@ -1,0 +1,25 @@
+{
+  "slug": "baie-topaze",
+  "name": "BAIE TOPAZE(RODRIGUES)",
+  "district": "rodrigues",
+  "generated": "2025-12-29T20:14:25.880Z",
+  "outageCount": 2,
+  "firstOutage": "2024-06-22",
+  "lastOutage": "2025-10-23",
+  "outages": [
+    {
+      "date": "Le jeudi 23 octobre 2025 de  09:00:00 à  14:00:00",
+      "streets": "CAMP PINTADE ET REPOSOIR",
+      "from": "2025-10-23T05:00:00.000Z",
+      "to": "2025-10-23T10:00:00.000Z",
+      "id": "21e211a64ba99ae961ea4911fdcb4900"
+    },
+    {
+      "date": "Le samedi 22 juin 2024 de  08:30:00 à  10:00:00",
+      "streets": "LAFERME,PIMENT,REPOSOIR,BAIE TOPAZE,CAMP PINTADE,BAIE DUNORD,ANSE GOELANDE,BAY MALGACHE BAIE DIAMANT",
+      "from": "2024-06-22T04:30:00.000Z",
+      "to": "2024-06-22T06:00:00.000Z",
+      "id": "0c0a96eb7def65bbda127e2aa1e29995"
+    }
+  ]
+}

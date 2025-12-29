@@ -1,0 +1,28 @@
+{
+  "date": "2022-07-25",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.768Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le lundi 25 juillet 2022 de  08:30:00 à  13:00:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "AVE DES NATTES ET UNE PARTIE DE LA ROUTE ROYALE LA MIVOIE",
+      "district": "blackriver",
+      "from": "2022-07-25T04:30:00.000Z",
+      "to": "2022-07-25T09:00:00.000Z",
+      "id": "90226d3f610683361e621107d57e43f0"
+    },
+    {
+      "date": "Le lundi 25 juillet 2022 de  11:15:00 à  12:45:00",
+      "locality": "LE GOULET",
+      "localitySlug": "le-goulet",
+      "streets": "TOMBEAU BAY RD,LE GOULET",
+      "district": "pamplemousses",
+      "from": "2022-07-25T07:15:00.000Z",
+      "to": "2022-07-25T08:45:00.000Z",
+      "id": "f481eeb594711e0769cebf8ee9d3af53"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "2023-09-17",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.797Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le dimanche 17 septembre 2023 de  08:15:00 à  17:00:00",
+      "locality": "BELLE RIVE ( KEWAL NAGAR )",
+      "localitySlug": "belle-rive",
+      "streets": "LE VILLAGE DE KEWAL NAGAR",
+      "district": "flacq",
+      "from": "2023-09-17T04:15:00.000Z",
+      "to": "2023-09-17T13:00:00.000Z",
+      "id": "81f804c3e6a37485e0ba10bf212cb76f"
+    },
+    {
+      "date": "Le dimanche 17 septembre 2023 de  08:30:00 à  14:00:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "Les abonnés de Maison Blanche, Morc Maison Blanche, VRS Maison Blanche, Morc Jokhoo et dans les environs de la Cours De Justice De Pamplemousses",
+      "district": "pamplemousses",
+      "from": "2023-09-17T04:30:00.000Z",
+      "to": "2023-09-17T10:00:00.000Z",
+      "id": "b8d4a51aa83a3db3a1584126ba0f8ff8"
+    },
+    {
+      "date": "Le dimanche 17 septembre 2023 de  08:30:00 à  14:00:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "Les abonnés de Morc Mascareigne, Les Corallines, Villa Sunshine, Villa Alexis à Trou Aux Biches et les alentours",
+      "district": "pamplemousses",
+      "from": "2023-09-17T04:30:00.000Z",
+      "to": "2023-09-17T10:00:00.000Z",
+      "id": "0ef2392f9989873803d52beb79d17ff8"
+    },
+    {
+      "date": "Le dimanche 17 septembre 2023 de  13:00:00 à  14:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Bassin et les environs de Morcellement Foondun",
+      "district": "plainewilhems",
+      "from": "2023-09-17T09:00:00.000Z",
+      "to": "2023-09-17T10:00:00.000Z",
+      "id": "92116b59675058f5aad9658828486ecb"
+    },
+    {
+      "date": "Le dimanche 17 septembre 2023 de  09:00:00 à  10:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Bassin et les environs de Morcellement Foondun",
+      "district": "plainewilhems",
+      "from": "2023-09-17T05:00:00.000Z",
+      "to": "2023-09-17T06:00:00.000Z",
+      "id": "8f885e12a3a78692b0effb6374c8284e"
+    },
+    {
+      "date": "Le dimanche 17 septembre 2023 de  08:30:00 à  15:30:00",
+      "locality": "PLAINE LAUZUN",
+      "localitySlug": "plaine-lauzun",
+      "streets": "DANS LES ENVIRONS DE LA ZONE INDUSTRIEL DE PLAINE LAUZUN",
+      "district": "portlouis",
+      "from": "2023-09-17T04:30:00.000Z",
+      "to": "2023-09-17T11:30:00.000Z",
+      "id": "bee65d07612dd9a6c49165a0549f10ec"
+    },
+    {
+      "date": "Le dimanche 17 septembre 2023 de  08:30:00 à  15:30:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "dans les environs de Coastal road, Morc Boucan, Sottise road,Morc Martin, Camp LAmour, Animalia, Government School Lane, Morc Geranium et Mirabelle",
+      "district": "rivieredurempart",
+      "from": "2023-09-17T04:30:00.000Z",
+      "to": "2023-09-17T11:30:00.000Z",
+      "id": "0ce625af47d45c36286b2dc4a377888a"
+    }
+  ]
+}

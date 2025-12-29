@@ -1,0 +1,48 @@
+{
+  "date": "2024-11-12",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.829Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mardi 12 novembre 2024 de  08:30:00 à  16:30:00",
+      "locality": "CHAMAREL",
+      "localitySlug": "chamarel",
+      "streets": "WHOLE VILLAGE",
+      "district": "blackriver",
+      "from": "2024-11-12T04:30:00.000Z",
+      "to": "2024-11-12T12:30:00.000Z",
+      "id": "f4c082aa84aa29f7c4d5ebe2d10d134c"
+    },
+    {
+      "date": "Le mardi 12 novembre 2024 de  09:00:00 à  11:00:00",
+      "locality": "TRES BON",
+      "localitySlug": "tres-bon",
+      "streets": "TRES BON 1-2 VACOAS",
+      "district": "plainewilhems",
+      "from": "2024-11-12T05:00:00.000Z",
+      "to": "2024-11-12T07:00:00.000Z",
+      "id": "042d3658ee3ee6a629577c1c1e21b6c7"
+    },
+    {
+      "date": "Le mardi 12 novembre 2024 de  09:00:00 à  13:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "BEACH LANE MORC CHETTY PEREBERE",
+      "district": "rivieredurempart",
+      "from": "2024-11-12T05:00:00.000Z",
+      "to": "2024-11-12T09:00:00.000Z",
+      "id": "c9d7a13980312cd68467f9b990456d94"
+    },
+    {
+      "date": "Le mardi 12 novembre 2024 de  09:00:00 à  12:00:00",
+      "locality": "ROCHE TERRE",
+      "localitySlug": "roche-terre",
+      "streets": "LA TOUR RD-MAHATMA GANDHI RD-EDGAR LAURENT RD-ROYAL RD ROCHE TERRE",
+      "district": "rivieredurempart",
+      "from": "2024-11-12T05:00:00.000Z",
+      "to": "2024-11-12T08:00:00.000Z",
+      "id": "d366e2998ae683bec590d0ef214c381d"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "date": "2025-01-04",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.833Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le samedi 4 janvier 2025 de  12:00:00 à  13:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "morc palmyre and nearby region",
+      "district": "blackriver",
+      "from": "2025-01-04T08:00:00.000Z",
+      "to": "2025-01-04T09:00:00.000Z",
+      "id": "1faae9e7ff6788f3f4e9d0a867bf1b02"
+    },
+    {
+      "date": "Le samedi 4 janvier 2025 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "ROCHE BON DIEU,POINTE COTTON,ST FRANCOIS,ANSE ALI",
+      "district": "rodrigues",
+      "from": "2025-01-04T04:30:00.000Z",
+      "to": "2025-01-04T11:00:00.000Z",
+      "id": "fcd5354afc52288904db20f27b5f9b69"
+    }
+  ]
+}

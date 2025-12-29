@@ -1,0 +1,38 @@
+{
+  "date": "2023-05-11",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.788Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le jeudi 11 mai 2023 de  08:30:00 à  15:00:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "Rose Belle habitant dans le périmètre et les rues suivantes: Madame Lolo, Market Lane, Chemin Dispensaire, Railway Road, Chemin Mongelaard et une partie de la Route Royale Rose Belle",
+      "district": "grandport",
+      "from": "2023-05-11T04:30:00.000Z",
+      "to": "2023-05-11T11:00:00.000Z",
+      "id": "18c6d141fb52a0787fe0d80fa41cfa05"
+    },
+    {
+      "date": "Le jeudi 11 mai 2023 de  09:00:00 à  15:00:00",
+      "locality": "MONTAGNE BLANCHE",
+      "localitySlug": "montagne-blanche",
+      "streets": "Les abonnés du village de Montagne Blanche habitant les rues et les régions suivantes : Sans Souci, Church, Gourapa et les ruelles avoisinantes",
+      "district": "moka",
+      "from": "2023-05-11T05:00:00.000Z",
+      "to": "2023-05-11T11:00:00.000Z",
+      "id": "b591834d5f869d5ac0eecd512a62173b"
+    },
+    {
+      "date": "Le jeudi 11 mai 2023 de  12:00:00 à  14:00:00",
+      "locality": "MONTAGNE BLANCHE",
+      "localitySlug": "montagne-blanche",
+      "streets": "Les abonnés du village de Montagne Blanche et d’une partie du village de Melrose habitant la Route Royale de Montagne Blanche et les ruelles avoisinantes",
+      "district": "moka",
+      "from": "2023-05-11T08:00:00.000Z",
+      "to": "2023-05-11T10:00:00.000Z",
+      "id": "6fc768d76709136a38031b250184d033"
+    }
+  ]
+}

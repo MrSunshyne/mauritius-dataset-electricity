@@ -1,0 +1,78 @@
+{
+  "date": "2022-12-21",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.778Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le mercredi 21 décembre 2022 de  10:00:00 à  12:00:00",
+      "locality": "DAGOTIERE",
+      "localitySlug": "dagotiere",
+      "streets": "NOUVEAU NHDC DAGOTIERE",
+      "district": "moka",
+      "from": "2022-12-21T06:00:00.000Z",
+      "to": "2022-12-21T08:00:00.000Z",
+      "id": "fb5550c3494155df460c9f7febb8f0b6"
+    },
+    {
+      "date": "Le mercredi 21 décembre 2022 de  09:30:00 à  12:00:00",
+      "locality": "LE GOULET",
+      "localitySlug": "le-goulet",
+      "streets": "les abonnes habitant Petit Gamin et la Bain et Le Goulet",
+      "district": "pamplemousses",
+      "from": "2022-12-21T05:30:00.000Z",
+      "to": "2022-12-21T08:00:00.000Z",
+      "id": "813f16a45df9c165d9bf7f2c21a3fc19"
+    },
+    {
+      "date": "Le mercredi 21 décembre 2022 de  10:30:00 à  12:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "ROYAL RD COROMANDEL",
+      "district": "plainewilhems",
+      "from": "2022-12-21T06:30:00.000Z",
+      "to": "2022-12-21T08:00:00.000Z",
+      "id": "1a551cc086418f142a4c14ac83d2413c"
+    },
+    {
+      "date": "Le mercredi 21 décembre 2022 de  12:00:00 à  15:00:00",
+      "locality": "PLAINE VERTE",
+      "localitySlug": "plaine-verte",
+      "streets": "RTE MILITAIRE-RUE LARGE-RUE ST PIERRE",
+      "district": "portlouis",
+      "from": "2022-12-21T08:00:00.000Z",
+      "to": "2022-12-21T11:00:00.000Z",
+      "id": "0af31aa495cdf5c693ed2c7c9ea96de7"
+    },
+    {
+      "date": "Le mercredi 21 décembre 2022 de  10:30:00 à  12:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "ROYAL RD GOODLANDS NR SBM",
+      "district": "rivieredurempart",
+      "from": "2022-12-21T06:30:00.000Z",
+      "to": "2022-12-21T08:00:00.000Z",
+      "id": "f297370b6f8b2f4f1a05ca11f44060ee"
+    },
+    {
+      "date": "Le mercredi 21 décembre 2022 de  14:00:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "MONT LIMON A BRULE, BRULE A RIVIERE BANANE, GRANDE MONTAGNE A POINTE COTON ET ST FRANCOIS, COROMANDEL A GRAVIER ET PALLISADE A MONTAGNE MALGACHE",
+      "district": "rodrigues",
+      "from": "2022-12-21T10:00:00.000Z",
+      "to": "2022-12-21T11:00:00.000Z",
+      "id": "cc16504e36c1a8f192c7b49069517401"
+    },
+    {
+      "date": "Le mercredi 21 décembre 2022 de  11:00:00 à  12:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "CASCADE JEAN LOUIS, ANSE QUITTOR, DANS COCO, PLAINE CORAIL (AIRPORT)",
+      "district": "rodrigues",
+      "from": "2022-12-21T07:00:00.000Z",
+      "to": "2022-12-21T08:00:00.000Z",
+      "id": "d082d4c287e9e5de58b456bf9a4f598e"
+    }
+  ]
+}

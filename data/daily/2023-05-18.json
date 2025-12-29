@@ -1,0 +1,78 @@
+{
+  "date": "2023-05-18",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.788Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le jeudi 18 mai 2023 de  12:00:00 à  14:30:00",
+      "locality": "CASCAVEL",
+      "localitySlug": "cascavel",
+      "streets": "CAMP CREOLE- AVE MAPOU, PHILIP LANE ET AVE BOUGAINVILLIER",
+      "district": "blackriver",
+      "from": "2023-05-18T08:00:00.000Z",
+      "to": "2023-05-18T10:30:00.000Z",
+      "id": "7f13b60754c878af2e070115d7f99e21"
+    },
+    {
+      "date": "Le jeudi 18 mai 2023 de  08:30:00 à  11:00:00",
+      "locality": "CASCAVEL",
+      "localitySlug": "cascavel",
+      "streets": "XAVIER- AVE ALAMANDA, AVE BAOBAB ET CASCAVELLE VILLAGE- TEMPLE ROAD ET AVE MANGUIERS",
+      "district": "blackriver",
+      "from": "2023-05-18T04:30:00.000Z",
+      "to": "2023-05-18T07:00:00.000Z",
+      "id": "4b4d561aa5c56957304dbdf98c0dce3f"
+    },
+    {
+      "date": "Le jeudi 18 mai 2023 de  09:00:00 à  16:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "Morc de Chazal, Albion Heritage Complex, Ave Requin, Ave Mulets, Ave Baracuda, Ave Espadrons, Ave Marlin, Ave Empereur, Ave Sardes, Fishries Albion, Supermarche Dodo et les environs",
+      "district": "blackriver",
+      "from": "2023-05-18T05:00:00.000Z",
+      "to": "2023-05-18T12:00:00.000Z",
+      "id": "fd11cdc2316f29a3f719759163844940"
+    },
+    {
+      "date": "Le jeudi 18 mai 2023 de  09:00:00 à  16:00:00",
+      "locality": "BELLE RIVE ( KEWAL NAGAR )",
+      "localitySlug": "belle-rive",
+      "streets": "KEWAL NAGAR",
+      "district": "flacq",
+      "from": "2023-05-18T05:00:00.000Z",
+      "to": "2023-05-18T12:00:00.000Z",
+      "id": "d975ae6ccede00bfd5fdfa54978899c8"
+    },
+    {
+      "date": "Le jeudi 18 mai 2023 de  09:00:00 à  15:00:00",
+      "locality": "CITE LA CAVERNE",
+      "localitySlug": "cite-la-caverne",
+      "streets": "Rue Watsonia, Rue Bougainville, Impasse Trimeza, Avenue Nonodora",
+      "district": "plainewilhems",
+      "from": "2023-05-18T05:00:00.000Z",
+      "to": "2023-05-18T11:00:00.000Z",
+      "id": "08bd3ed734f7902c68e5b2d8320a6abe"
+    },
+    {
+      "date": "Le jeudi 18 mai 2023 de  10:00:00 à  11:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes: Camp le Juge et  les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-05-18T06:00:00.000Z",
+      "to": "2023-05-18T07:00:00.000Z",
+      "id": "3eb3b058a7e75f73c344eb5ed4d03b22"
+    },
+    {
+      "date": "Le jeudi 18 mai 2023 de  16:00:00 à  18:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "DANS LES ENVIRONS DE MEDIA, UNE PARTIE DE LA RUE PAUL TAUREAU ET ROUTE DES PAMPLEMOUSSES",
+      "district": "portlouis",
+      "from": "2023-05-18T12:00:00.000Z",
+      "to": "2023-05-18T14:00:00.000Z",
+      "id": "a5d7e1c6f70f154688ceb367c1e979d8"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "2023-03-18",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.784Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le samedi 18 mars 2023 de  08:15:00 à  17:00:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "Les abonnes habitant a Bel-Air Riviere Seche dans les perimetres de la Route Royale La Lucie Bel-Air Riviere Seche, Belle Rose et Clemencia",
+      "district": "flacq",
+      "from": "2023-03-18T04:15:00.000Z",
+      "to": "2023-03-18T13:00:00.000Z",
+      "id": "07dce223937639d86bb3fa828296389e"
+    },
+    {
+      "date": "Le samedi 18 mars 2023 de  18:45:00 à  19:30:00",
+      "locality": "CAROLINE BEL AIR",
+      "localitySlug": "caroline-bel-air",
+      "streets": "ARAFAT LANE,MAMET RD",
+      "district": "flacq",
+      "from": "2023-03-18T14:45:00.000Z",
+      "to": "2023-03-18T15:30:00.000Z",
+      "id": "15a2ffe7d4f2f4468470031da9b541f5"
+    },
+    {
+      "date": "Le samedi 18 mars 2023 de  09:00:00 à  17:00:00",
+      "locality": "BLUE BAY",
+      "localitySlug": "blue-bay",
+      "streets": "Blue Bay habitant dans le périmètre et les rues suivantes: Link Road Blue Bay et Morcellement Blue Bay",
+      "district": "grandport",
+      "from": "2023-03-18T05:00:00.000Z",
+      "to": "2023-03-18T13:00:00.000Z",
+      "id": "2b2ed521cf28397011e3a81e9ffde577"
+    },
+    {
+      "date": "Le samedi 18 mars 2023 de  15:05:00 à  17:15:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "MORISSON,SERES,ALENTOUR JARDIN",
+      "district": "pamplemousses",
+      "from": "2023-03-18T11:05:00.000Z",
+      "to": "2023-03-18T13:15:00.000Z",
+      "id": "16b85f863a225969d4f78d65df09b00b"
+    },
+    {
+      "date": "Le samedi 18 mars 2023 de  08:30:00 à  16:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "DANS LES ENVIRONS DES AVENUES BOSQUET, COLBERT,COQUELUCHES, PEUPLIERS ET SUNNY HILL",
+      "district": "portlouis",
+      "from": "2023-03-18T04:30:00.000Z",
+      "to": "2023-03-18T12:00:00.000Z",
+      "id": "d2a7936c739e661d336f360216631f17"
+    },
+    {
+      "date": "Le samedi 18 mars 2023 de  08:30:00 à  15:30:00",
+      "locality": "AMITIE",
+      "localitySlug": "amitie",
+      "streets": "dans les environs de One way road",
+      "district": "rivieredurempart",
+      "from": "2023-03-18T04:30:00.000Z",
+      "to": "2023-03-18T11:30:00.000Z",
+      "id": "c018cf5fc27724e8dd3d65b65ff1c585"
+    },
+    {
+      "date": "Le samedi 18 mars 2023 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Mangues, Montagne Du Sable, Grand La Fouche Mangue, La Ferme Manique",
+      "district": "rodrigues",
+      "from": "2023-03-18T04:30:00.000Z",
+      "to": "2023-03-18T11:00:00.000Z",
+      "id": "018c868a1c45f868270526e7a6cbe595"
+    }
+  ]
+}

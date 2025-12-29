@@ -1,0 +1,60 @@
+{
+  "slug": "candos-q-bornes",
+  "name": "CANDOS Q BORNES",
+  "district": "plainewilhems",
+  "generated": "2025-12-29T20:14:25.944Z",
+  "outageCount": 7,
+  "firstOutage": "2022-06-22",
+  "lastOutage": "2025-11-06",
+  "outages": [
+    {
+      "date": "Le jeudi 6 novembre 2025 de  14:00:00 à  18:00:00",
+      "streets": "Rughoo Lane, Partie de La Paix Avenue, Partie de Boundary Road, Morc Dookhun, Morc Gungadeen",
+      "from": "2025-11-06T10:00:00.000Z",
+      "to": "2025-11-06T14:00:00.000Z",
+      "id": "f94327ac60d25b146f8b8b81b0e5001e"
+    },
+    {
+      "date": "Le jeudi 6 novembre 2025 de  12:00:00 à  18:00:00",
+      "streets": "Rughoo Lane, Partie de La Paix Avenue, Partie de Boundary Road, Morc Dookhun, Morc Gungadeen",
+      "from": "2025-11-06T08:00:00.000Z",
+      "to": "2025-11-06T14:00:00.000Z",
+      "id": "0ffbe3817c6e271623f9628c4c9cb40f"
+    },
+    {
+      "date": "Le mardi 2 janvier 2024 de  08:50:00 à  12:00:00",
+      "streets": "RESIDENCE KENNEDY CANDOS",
+      "from": "2024-01-02T04:50:00.000Z",
+      "to": "2024-01-02T08:00:00.000Z",
+      "id": "4799128ea2827bea2e640c56b12cc753"
+    },
+    {
+      "date": "Le mardi 19 septembre 2023 de  09:30:00 à  17:00:00",
+      "streets": "BEHIND CANDOS STADIUM NEAR CAB, HILARY BLOOD ST ,CANDOS CITY",
+      "from": "2023-09-19T05:30:00.000Z",
+      "to": "2023-09-19T13:00:00.000Z",
+      "id": "4556cf618e20dcf8a878e0dbcbf6a343"
+    },
+    {
+      "date": "Le jeudi 9 mars 2023 de  14:00:00 à  16:30:00",
+      "streets": "LA COLLINE COMMERCIAL CENTRE AND SURROUNDINGS",
+      "from": "2023-03-09T10:00:00.000Z",
+      "to": "2023-03-09T12:30:00.000Z",
+      "id": "c39f836c222695ad6808450692d3fdc8"
+    },
+    {
+      "date": "Le mardi 13 décembre 2022 de  12:30:00 à  14:30:00",
+      "streets": "CANDOS",
+      "from": "2022-12-13T08:30:00.000Z",
+      "to": "2022-12-13T10:30:00.000Z",
+      "id": "00ea75a29b8e449ab5bec4b87b884aaa"
+    },
+    {
+      "date": "Le mercredi 22 juin 2022 de  15:30:00 à  17:30:00",
+      "streets": "RESIDENCE KENEDY",
+      "from": "2022-06-22T11:30:00.000Z",
+      "to": "2022-06-22T13:30:00.000Z",
+      "id": "61c52af9b4f6fb158a7643823eefa93b"
+    }
+  ]
+}

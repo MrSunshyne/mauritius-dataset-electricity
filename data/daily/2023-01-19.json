@@ -1,0 +1,58 @@
+{
+  "date": "2023-01-19",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.780Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le jeudi 19 janvier 2023 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "AVE RADAR, AVE DES COLOMBES, AVE DES AIGRETTES, AVE DES CANARIES, AVE DES AIGLONS, AVE DES PERDRIX, AVE DES BENGALIS ET LES AVE CATEAUX VERT 1 & 2",
+      "district": "blackriver",
+      "from": "2023-01-19T04:30:00.000Z",
+      "to": "2023-01-19T11:30:00.000Z",
+      "id": "022a39a1cab7f175196c2a6b6bca7775"
+    },
+    {
+      "date": "Le jeudi 19 janvier 2023 de  09:00:00 à  13:00:00",
+      "locality": "CHAMAREL",
+      "localitySlug": "chamarel",
+      "streets": "CHAMAREL",
+      "district": "blackriver",
+      "from": "2023-01-19T05:00:00.000Z",
+      "to": "2023-01-19T09:00:00.000Z",
+      "id": "d5f68a5e27ddba11c6bcdc706334d873"
+    },
+    {
+      "date": "Le jeudi 19 janvier 2023 de  20:45:00 à  22:00:00",
+      "locality": "POSTE LAFAYETTE",
+      "localitySlug": "poste-lafayette",
+      "streets": "COASTAL ROAD POSTE LAFAYETTE ALLANT VERS VERS HOTEL RADISSON ET LES ENVIRONS.",
+      "district": "flacq",
+      "from": "2023-01-19T16:45:00.000Z",
+      "to": "2023-01-19T18:00:00.000Z",
+      "id": "2bcae86a441ada9f40cfa76494bce7b9"
+    },
+    {
+      "date": "Le jeudi 19 janvier 2023 de  09:00:00 à  16:00:00",
+      "locality": "BLUE BAY",
+      "localitySlug": "blue-bay",
+      "streets": "Blue Bay habitant dans le périmètre et les rues suivantes: Chemin One Way Blue Bay (près de Station de Police) et les environs de la plage Blue Bay",
+      "district": "grandport",
+      "from": "2023-01-19T05:00:00.000Z",
+      "to": "2023-01-19T12:00:00.000Z",
+      "id": "e6b7cc2ef92c503ab8608f7f9227a369"
+    },
+    {
+      "date": "Le jeudi 19 janvier 2023 de  13:00:00 à  17:00:00",
+      "locality": "CHEMIN GRENIER",
+      "localitySlug": "chemin-grenier",
+      "streets": "Chemin Grenier",
+      "district": "savanne",
+      "from": "2023-01-19T09:00:00.000Z",
+      "to": "2023-01-19T13:00:00.000Z",
+      "id": "c284bdb2d4bca53d82059725d0ff84ef"
+    }
+  ]
+}

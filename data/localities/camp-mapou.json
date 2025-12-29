@@ -1,0 +1,25 @@
+{
+  "slug": "camp-mapou",
+  "name": "CAMP MAPOU",
+  "district": "plainewilhems",
+  "generated": "2025-12-29T20:14:25.938Z",
+  "outageCount": 2,
+  "firstOutage": "2024-11-14",
+  "lastOutage": "2025-11-29",
+  "outages": [
+    {
+      "date": "Le samedi 29 novembre 2025 de  08:40:00 à  12:30:00",
+      "streets": "PART OF CAMP MAPOU",
+      "from": "2025-11-29T04:40:00.000Z",
+      "to": "2025-11-29T08:30:00.000Z",
+      "id": "3ba0d29aa1af12fdefcb7d88cfbb1427"
+    },
+    {
+      "date": "Le jeudi 14 novembre 2024 de  09:20:00 à  10:30:00",
+      "streets": "CAMP MAPOU HENRIETTA",
+      "from": "2024-11-14T05:20:00.000Z",
+      "to": "2024-11-14T06:30:00.000Z",
+      "id": "a7ea9c91f7652320a42f2a9adf6a1425"
+    }
+  ]
+}

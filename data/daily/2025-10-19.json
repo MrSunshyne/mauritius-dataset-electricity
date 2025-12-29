@@ -1,0 +1,58 @@
+{
+  "date": "2025-10-19",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.850Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le dimanche 19 octobre 2025 de  08:30:00 à  17:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Partie de Zone Industrielle Valentina",
+      "district": "plainewilhems",
+      "from": "2025-10-19T04:30:00.000Z",
+      "to": "2025-10-19T13:00:00.000Z",
+      "id": "bd70ab29a4e08ef2bcf8144e5d3025f3"
+    },
+    {
+      "date": "Le dimanche 19 octobre 2025 de  09:00:00 à  13:00:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "ROUTE PALMA SOOBARAH LANE,AVENUE POUSSEPASS NEAR LUSINE PLASTIC",
+      "district": "plainewilhems",
+      "from": "2025-10-19T05:00:00.000Z",
+      "to": "2025-10-19T09:00:00.000Z",
+      "id": "3f4c674f52b8bb51fe066f59fb06e510"
+    },
+    {
+      "date": "Le dimanche 19 octobre 2025 de  09:00:00 à  13:00:00",
+      "locality": "LA CAVERNE",
+      "localitySlug": "la-caverne",
+      "streets": "CITE LA CAVERNE ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2025-10-19T05:00:00.000Z",
+      "to": "2025-10-19T09:00:00.000Z",
+      "id": "9e32c1d2e4b6918969931fcfb70028c5"
+    },
+    {
+      "date": "Le dimanche 19 octobre 2025 de  14:30:00 à  15:30:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "MORC POUSSON LA MARIE",
+      "district": "plainewilhems",
+      "from": "2025-10-19T10:30:00.000Z",
+      "to": "2025-10-19T11:30:00.000Z",
+      "id": "c3c3175f340cc762b44f366b01c8b707"
+    },
+    {
+      "date": "Le dimanche 19 octobre 2025 de  15:00:00 à  17:30:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "MORC SWAN /COASTAL ROAD NEAR BEACH",
+      "district": "rivieredurempart",
+      "from": "2025-10-19T11:00:00.000Z",
+      "to": "2025-10-19T13:30:00.000Z",
+      "id": "4e2adb207c50f23d3569b90839f28c2f"
+    }
+  ]
+}

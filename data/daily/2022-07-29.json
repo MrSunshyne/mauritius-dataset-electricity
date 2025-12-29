@@ -1,0 +1,78 @@
+{
+  "date": "2022-07-29",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.768Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le vendredi 29 juillet 2022 de  08:30:00 à  16:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "AVE NENUPHARES, AVE DES CARDINAUX, AVE SERINS, AVE PETITE MARIE, AVE RIVERWALK, AVE DES FAUCONS, AVE PIC PIC, AVE DES COCOTIERS, LODAY ROAD, LHOTEL VILLA CAROLINE, PASADENA COMPLEX ET UNE PARTIE DE LA ROUTE COTIERE FLIC EN FLAC",
+      "district": "blackriver",
+      "from": "2022-07-29T04:30:00.000Z",
+      "to": "2022-07-29T12:30:00.000Z",
+      "id": "53a348e267cb61725a9532df3ce74964"
+    },
+    {
+      "date": "Le vendredi 29 juillet 2022 de  09:00:00 à  15:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "LES ABONNES HABITANT MORC MAHADOO BAIE DU TOMBEAU DANS LES ENVIRONS DES RUES PAPAYE, KIWI, COC, LIME ET UNE PARTIE DU RUE SERGE COUTET",
+      "district": "pamplemousses",
+      "from": "2022-07-29T05:00:00.000Z",
+      "to": "2022-07-29T11:00:00.000Z",
+      "id": "ef7c3542c250e08fcfde5ae9546f9a3a"
+    },
+    {
+      "date": "Le vendredi 29 juillet 2022 de  10:00:00 à  11:00:00",
+      "locality": "ARSENAL",
+      "localitySlug": "arsenal",
+      "streets": "ARSENAL VILLAGE",
+      "district": "pamplemousses",
+      "from": "2022-07-29T06:00:00.000Z",
+      "to": "2022-07-29T07:00:00.000Z",
+      "id": "bb3cbff54081b2d6c47e6f6413ac3a78"
+    },
+    {
+      "date": "Le vendredi 29 juillet 2022 de  09:00:00 à  14:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "en partie Route Royale, Maganlall Desai et les environs",
+      "district": "plainewilhems",
+      "from": "2022-07-29T05:00:00.000Z",
+      "to": "2022-07-29T10:00:00.000Z",
+      "id": "d3881d645cd2239e31401a61aa1279bb"
+    },
+    {
+      "date": "Le vendredi 29 juillet 2022 de  08:30:00 à  14:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Partie de Lees, partie de Duperré, Victor Hugo, Philippe Boulle, morcellement Dallais et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-07-29T04:30:00.000Z",
+      "to": "2022-07-29T10:00:00.000Z",
+      "id": "f60d4b34422b532fd51cdbc8ee7efe6f"
+    },
+    {
+      "date": "Le vendredi 29 juillet 2022 de  11:00:00 à  12:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "LABOURDONNAIS Q.BORNES",
+      "district": "plainewilhems",
+      "from": "2022-07-29T07:00:00.000Z",
+      "to": "2022-07-29T08:30:00.000Z",
+      "id": "fae78bebe90f1f2858bced6512e88f5b"
+    },
+    {
+      "date": "Le vendredi 29 juillet 2022 de  08:30:00 à  16:00:00",
+      "locality": "TYACK",
+      "localitySlug": "tyack",
+      "streets": "MORC OMNICANE",
+      "district": "savanne",
+      "from": "2022-07-29T04:30:00.000Z",
+      "to": "2022-07-29T12:00:00.000Z",
+      "id": "ddf53e2c0ab8148fff40bc880bd3ec28"
+    }
+  ]
+}

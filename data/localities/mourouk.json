@@ -1,0 +1,53 @@
+{
+  "slug": "mourouk",
+  "name": "MOUROUK(RODRIGUES)",
+  "district": "rodrigues",
+  "generated": "2025-12-29T20:14:26.103Z",
+  "outageCount": 6,
+  "firstOutage": "2023-05-06",
+  "lastOutage": "2025-04-04",
+  "outages": [
+    {
+      "date": "Le vendredi 4 avril 2025 de  08:30:00 à  15:00:00",
+      "streets": "Morcellement Songes, Songes, Port Sud Est,Montagne Cherie et Mourouck Anse Enfer",
+      "from": "2025-04-04T04:30:00.000Z",
+      "to": "2025-04-04T11:00:00.000Z",
+      "id": "b9d4fb8488284e0a865af05b78cbc552"
+    },
+    {
+      "date": "Le mercredi 3 avril 2024 de  10:00:00 à  14:00:00",
+      "streets": "LES ABONNES DE MOUROUK.",
+      "from": "2024-04-03T06:00:00.000Z",
+      "to": "2024-04-03T10:00:00.000Z",
+      "id": "979bf118c6eff67d8498d5798d2f4c91"
+    },
+    {
+      "date": "Le jeudi 14 mars 2024 de  10:00:00 à  14:00:00",
+      "streets": "Songes, Port Sud Est, Anse Enfer,Montagne Cherie",
+      "from": "2024-03-14T06:00:00.000Z",
+      "to": "2024-03-14T10:00:00.000Z",
+      "id": "54155701ecd76140378194ce3166c61a"
+    },
+    {
+      "date": "Le mercredi 11 octobre 2023 de  08:30:00 à  15:00:00",
+      "streets": "Montagne Cherie",
+      "from": "2023-10-11T04:30:00.000Z",
+      "to": "2023-10-11T11:00:00.000Z",
+      "id": "e3b30bba2698b4cd690996df39777bdd"
+    },
+    {
+      "date": "Le jeudi 24 août 2023 de  12:00:00 à  16:00:00",
+      "streets": "Port Sud Est, Songe, Mourouck et Morcellement Mourouck",
+      "from": "2023-08-24T08:00:00.000Z",
+      "to": "2023-08-24T12:00:00.000Z",
+      "id": "a999421c7d400a2a8ec772431a7acbff"
+    },
+    {
+      "date": "Le samedi 6 mai 2023 de  09:00:00 à  14:00:00",
+      "streets": "MOUROUK",
+      "from": "2023-05-06T05:00:00.000Z",
+      "to": "2023-05-06T10:00:00.000Z",
+      "id": "9ee788722dac683011eaf68a7f0f6bc1"
+    }
+  ]
+}

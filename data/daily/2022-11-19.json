@@ -1,0 +1,58 @@
+{
+  "date": "2022-11-19",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.776Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le samedi 19 novembre 2022 de  08:30:00 à  15:30:00",
+      "locality": "YEMEN",
+      "localitySlug": "yemen",
+      "streets": "YEMEN CAMP, TAMARIN CAMP, WAHALA PUMPING ET MEDINE COLD STORE",
+      "district": "blackriver",
+      "from": "2022-11-19T04:30:00.000Z",
+      "to": "2022-11-19T11:30:00.000Z",
+      "id": "64dcbf0e69136367d7df5e708cef62c7"
+    },
+    {
+      "date": "Le samedi 19 novembre 2022 de  08:30:00 à  14:00:00",
+      "locality": "MONT ROCHES",
+      "localitySlug": "mont-roches",
+      "streets": "Verger Bissambar, Morc Pillay, Prison Beau-Bassin, Ave Bakorising, Ave Jasmin, Ave Cosmos, Ave Barkly Asylum, Res. Barkly, La Rue Herchenroder, MOA Barkly, Piscine Serge Alfred, RYC et les environs",
+      "district": "plainewilhems",
+      "from": "2022-11-19T04:30:00.000Z",
+      "to": "2022-11-19T10:00:00.000Z",
+      "id": "6cb5b80bf797c29f7e48b034636906e0"
+    },
+    {
+      "date": "Le samedi 19 novembre 2022 de  08:30:00 à  15:30:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "Pailles et Montebello",
+      "district": "portlouis",
+      "from": "2022-11-19T04:30:00.000Z",
+      "to": "2022-11-19T11:30:00.000Z",
+      "id": "ab41c74c7633b80aac135e3e01c75c62"
+    },
+    {
+      "date": "Le samedi 19 novembre 2022 de  09:00:00 à  15:30:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "Une partie de Route Royale et Cite St Clair",
+      "district": "rivieredurempart",
+      "from": "2022-11-19T05:00:00.000Z",
+      "to": "2022-11-19T11:30:00.000Z",
+      "id": "1030dbcefba78156121023babea622e2"
+    },
+    {
+      "date": "Le samedi 19 novembre 2022 de  08:30:00 à  15:30:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Lataniers",
+      "district": "rodrigues",
+      "from": "2022-11-19T04:30:00.000Z",
+      "to": "2022-11-19T11:30:00.000Z",
+      "id": "8e4087401e795706e0250f5771ed49bf"
+    }
+  ]
+}

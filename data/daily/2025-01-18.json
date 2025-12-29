@@ -1,0 +1,88 @@
+{
+  "date": "2025-01-18",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.834Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le samedi 18 janvier 2025 de  08:30:00 à  16:00:00",
+      "locality": "SAINT JULIEN VILLAGE",
+      "localitySlug": "saint-julien-village",
+      "streets": "Village de Happy Village et L Eglise St Julien Village.",
+      "district": "flacq",
+      "from": "2025-01-18T04:30:00.000Z",
+      "to": "2025-01-18T12:00:00.000Z",
+      "id": "476f26e1771b32c9237e6f4a201cf352"
+    },
+    {
+      "date": "Le samedi 18 janvier 2025 de  08:30:00 à  16:45:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "Malinga, La Laura Village, Roselyn Cottage Farm, La Laura et CWA Malinga",
+      "district": "moka",
+      "from": "2025-01-18T04:30:00.000Z",
+      "to": "2025-01-18T12:45:00.000Z",
+      "id": "279b7dd1379f86e4015fe73e0d85ec0a"
+    },
+    {
+      "date": "Le samedi 18 janvier 2025 de  09:00:00 à  13:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "DANS LES ENVIRONS DE LA ROUTE COTIERE, ELIZABETHVILLE ET DE LA CARPES-Planned",
+      "district": "pamplemousses",
+      "from": "2025-01-18T05:00:00.000Z",
+      "to": "2025-01-18T09:00:00.000Z",
+      "id": "b47f10ac006edfe285f445d41505d90c"
+    },
+    {
+      "date": "Le samedi 18 janvier 2025 de  08:30:00 à  13:00:00",
+      "locality": "ARSENAL",
+      "localitySlug": "arsenal",
+      "streets": "ARSENAL DANS LES ENVIRONS DE LECOLE LE NID",
+      "district": "pamplemousses",
+      "from": "2025-01-18T04:30:00.000Z",
+      "to": "2025-01-18T09:00:00.000Z",
+      "id": "390b3719dcee6366c127af5141431975"
+    },
+    {
+      "date": "Le samedi 18 janvier 2025 de  13:00:00 à  15:30:00",
+      "locality": "KHOYRATTY",
+      "localitySlug": "khoyratty",
+      "streets": "KHOYRATTY",
+      "district": "pamplemousses",
+      "from": "2025-01-18T09:00:00.000Z",
+      "to": "2025-01-18T11:30:00.000Z",
+      "id": "52cad8a2aeedbedaf9d1373878c49272"
+    },
+    {
+      "date": "Le samedi 18 janvier 2025 de  08:30:00 à  15:30:00",
+      "locality": "GLEN PARK",
+      "localitySlug": "glen-park",
+      "streets": "Morcellement Malakoff, une partie de Route La Marie, NHDC Glen-Park",
+      "district": "plainewilhems",
+      "from": "2025-01-18T04:30:00.000Z",
+      "to": "2025-01-18T11:30:00.000Z",
+      "id": "2ee75cda54188d10c35be9e0801a1bf5"
+    },
+    {
+      "date": "Le samedi 18 janvier 2025 de  15:00:00 à  16:00:00",
+      "locality": "BAIE DU NORD(RODRIGUES)",
+      "localitySlug": "baie-du-nord",
+      "streets": "La Ferme, Piments, Baie Topaze et Camp Pintade",
+      "district": "rodrigues",
+      "from": "2025-01-18T11:00:00.000Z",
+      "to": "2025-01-18T12:00:00.000Z",
+      "id": "e1f7b5992c84317dcb56e19dc4b878b4"
+    },
+    {
+      "date": "Le samedi 18 janvier 2025 de  08:00:00 à  09:00:00",
+      "locality": "BAIE DU NORD(RODRIGUES)",
+      "localitySlug": "baie-du-nord",
+      "streets": "La Ferme, Piments, Baie Topaze et Camp Pintade",
+      "district": "rodrigues",
+      "from": "2025-01-18T04:00:00.000Z",
+      "to": "2025-01-18T05:00:00.000Z",
+      "id": "5be73bb7cf0449921d5d18dfd018f990"
+    }
+  ]
+}

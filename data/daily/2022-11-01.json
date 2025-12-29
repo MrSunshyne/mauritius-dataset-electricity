@@ -1,0 +1,48 @@
+{
+  "date": "2022-11-01",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.774Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mardi 1 novembre 2022 de  15:30:00 à  17:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "LAPEYROUSSE,MALLEFILLE,DRAPERS",
+      "district": "plainewilhems",
+      "from": "2022-11-01T11:30:00.000Z",
+      "to": "2022-11-01T13:30:00.000Z",
+      "id": "83e1580aa7b4c2b0e97f658251b395de"
+    },
+    {
+      "date": "Le mardi 1 novembre 2022 de  08:30:00 à  15:30:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "LES ABONNES DE PETIT RAFFRAY HABITANT DANS LES ENVIRONS DE MONT MASCAL, DARUTY, EXOTICA ET RESTAURANT AMIGOS",
+      "district": "rivieredurempart",
+      "from": "2022-11-01T04:30:00.000Z",
+      "to": "2022-11-01T11:30:00.000Z",
+      "id": "445864e805cea37441ac83d4115631ab"
+    },
+    {
+      "date": "Le mardi 1 novembre 2022 de  08:30:00 à  15:30:00",
+      "locality": "PLAINE DES ROCHES",
+      "localitySlug": "plaine-des-roches",
+      "streets": "LES ABONNES DE PLAINE DES ROCHES HABITANT DANS LES ENVIRONS DE DISPENSARY ROAD, SENECK ROAD ET UNE PARTIE DE LA ROUTE ROYAL",
+      "district": "rivieredurempart",
+      "from": "2022-11-01T04:30:00.000Z",
+      "to": "2022-11-01T11:30:00.000Z",
+      "id": "1edce0ea8f656199476ca2dec7d850d9"
+    },
+    {
+      "date": "Le mardi 1 novembre 2022 de  15:30:00 à  17:00:00",
+      "locality": "CHEMIN GRENIER",
+      "localitySlug": "chemin-grenier",
+      "streets": "CAMP BOULEVARD",
+      "district": "savanne",
+      "from": "2022-11-01T11:30:00.000Z",
+      "to": "2022-11-01T13:00:00.000Z",
+      "id": "6edd1363f9aa48f9d246883619172c4f"
+    }
+  ]
+}

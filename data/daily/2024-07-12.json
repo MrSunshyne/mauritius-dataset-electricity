@@ -1,0 +1,48 @@
+{
+  "date": "2024-07-12",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.819Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le vendredi 12 juillet 2024 de  10:30:00 à  11:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC BISMIC FLIC EN FLAC",
+      "district": "blackriver",
+      "from": "2024-07-12T06:30:00.000Z",
+      "to": "2024-07-12T07:30:00.000Z",
+      "id": "8d9d8b6ada53b2c50eb9ddb749f6423d"
+    },
+    {
+      "date": "Le vendredi 12 juillet 2024 de  10:00:00 à  11:30:00",
+      "locality": "L-ESPERANCE Q.MILITAIRE",
+      "localitySlug": "l-esperance-qmilitaire",
+      "streets": "LESPERANCE QUARTIER MILITAIRE",
+      "district": "moka",
+      "from": "2024-07-12T06:00:00.000Z",
+      "to": "2024-07-12T07:30:00.000Z",
+      "id": "68871fbb65223bde041b2d95b6e67513"
+    },
+    {
+      "date": "Le vendredi 12 juillet 2024 de  15:30:00 à  16:30:00",
+      "locality": "MONTAGNE BLANCHE",
+      "localitySlug": "montagne-blanche",
+      "streets": "TANCREL NEAR COOP",
+      "district": "moka",
+      "from": "2024-07-12T11:30:00.000Z",
+      "to": "2024-07-12T12:30:00.000Z",
+      "id": "10e4f0f093df3e0c5d12cab2619a9bca"
+    },
+    {
+      "date": "Le vendredi 12 juillet 2024 de  15:00:00 à  17:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": ": Hollyrood No. 1, une partie de Route Quinze-Cantons No. 2, une partie de Route Dévergués, une partie de Route La Marie, Bègue Road",
+      "district": "plainewilhems",
+      "from": "2024-07-12T11:00:00.000Z",
+      "to": "2024-07-12T13:00:00.000Z",
+      "id": "0ec053842eeb14801a90faec8f63635a"
+    }
+  ]
+}

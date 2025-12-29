@@ -1,0 +1,48 @@
+{
+  "date": "2024-02-19",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.809Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le lundi 19 février 2024 de  08:30:00 à  14:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "",
+      "district": "blackriver",
+      "from": "2024-02-19T04:30:00.000Z",
+      "to": "2024-02-19T10:00:00.000Z",
+      "id": "b18f5f2fe2465d2696b88980b980973d"
+    },
+    {
+      "date": "Le lundi 19 février 2024 de  08:45:00 à  12:00:00",
+      "locality": "BEAU VALLON",
+      "localitySlug": "beau-vallon",
+      "streets": "MORC VRS",
+      "district": "grandport",
+      "from": "2024-02-19T04:45:00.000Z",
+      "to": "2024-02-19T08:00:00.000Z",
+      "id": "7fc8053d425f962b0cbd2f425664b7af"
+    },
+    {
+      "date": "Le lundi 19 février 2024 de  10:00:00 à  14:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "MORC PINEWOOD",
+      "district": "plainewilhems",
+      "from": "2024-02-19T06:00:00.000Z",
+      "to": "2024-02-19T10:00:00.000Z",
+      "id": "67fc0905ff43f96035e375198974550b"
+    },
+    {
+      "date": "Le lundi 19 février 2024 de  07:00:00 à  12:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "CP SOLEIL,ROCHES BON DIEU,MT CABRIS,MT LUBIN,TREFLES,MT LIMON,PATATE THEOPHILE,MT DU SABLE",
+      "district": "rodrigues",
+      "from": "2024-02-19T03:00:00.000Z",
+      "to": "2024-02-19T08:00:00.000Z",
+      "id": "f38fc8a1f3ab5a438d5358b4ecd5d2e9"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "date": "2023-10-02",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.798Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le lundi 2 octobre 2023 de  13:00:00 à  17:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "Belle Vue",
+      "district": "blackriver",
+      "from": "2023-10-02T09:00:00.000Z",
+      "to": "2023-10-02T13:00:00.000Z",
+      "id": "da9605cbec21887eeb73fa434a451768"
+    },
+    {
+      "date": "Le lundi 2 octobre 2023 de  15:30:00 à  18:00:00",
+      "locality": "RIVIERE DU POSTE",
+      "localitySlug": "riviere-du-poste",
+      "streets": "village de Riviere Du Poste",
+      "district": "grandport",
+      "from": "2023-10-02T11:30:00.000Z",
+      "to": "2023-10-02T14:00:00.000Z",
+      "id": "5fad9bb01f9349d5330563538417e80c"
+    },
+    {
+      "date": "Le lundi 2 octobre 2023 de  14:00:00 à  17:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "MLLE LAURE TERRE ROUGE",
+      "district": "pamplemousses",
+      "from": "2023-10-02T10:00:00.000Z",
+      "to": "2023-10-02T13:00:00.000Z",
+      "id": "e1098866cf767eceb8ff20fd2256ba43"
+    }
+  ]
+}

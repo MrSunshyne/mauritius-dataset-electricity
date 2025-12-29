@@ -1,0 +1,38 @@
+{
+  "date": "2025-09-27",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.849Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le samedi 27 septembre 2025 de  08:30:00 à  10:30:00",
+      "locality": "BALACLAVA",
+      "localitySlug": "balaclava",
+      "streets": "Morc Holiday Promo,BALACLAVA",
+      "district": "pamplemousses",
+      "from": "2025-09-27T04:30:00.000Z",
+      "to": "2025-09-27T06:30:00.000Z",
+      "id": "229b22fbdf44c31c6bd5d68c2e0f582d"
+    },
+    {
+      "date": "Le samedi 27 septembre 2025 de  10:15:00 à  12:30:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "Prince des Galles,7eme Mille,TRIOLET",
+      "district": "pamplemousses",
+      "from": "2025-09-27T06:15:00.000Z",
+      "to": "2025-09-27T08:30:00.000Z",
+      "id": "2685cb45a6349b4e05f54bb90b78b3ae"
+    },
+    {
+      "date": "Le samedi 27 septembre 2025 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "SAINT GABRIEL-LATANIERS-SAINTE FAMILLE RODRIGUES",
+      "district": "rodrigues",
+      "from": "2025-09-27T04:30:00.000Z",
+      "to": "2025-09-27T11:00:00.000Z",
+      "id": "35db2816a691074e2258ad7b8439cd1f"
+    }
+  ]
+}

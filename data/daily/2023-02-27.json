@@ -1,0 +1,28 @@
+{
+  "date": "2023-02-27",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.783Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le lundi 27 février 2023 de  08:30:00 à  16:00:00",
+      "locality": "LE BOUCHON",
+      "localitySlug": "le-bouchon",
+      "streets": "La Chapelle Lane Le Bouchon",
+      "district": "grandport",
+      "from": "2023-02-27T04:30:00.000Z",
+      "to": "2023-02-27T12:00:00.000Z",
+      "id": "7d5dfe587cffbbdd98dd5a13375464e6"
+    },
+    {
+      "date": "Le lundi 27 février 2023 de  08:30:00 à  15:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Route Moreau, une partie de la Route John-Kennedy, Route Cantin",
+      "district": "plainewilhems",
+      "from": "2023-02-27T04:30:00.000Z",
+      "to": "2023-02-27T11:00:00.000Z",
+      "id": "59dd2c9c55f9369e83eddac8c8764226"
+    }
+  ]
+}

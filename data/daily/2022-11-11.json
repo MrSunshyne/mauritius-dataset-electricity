@@ -1,0 +1,68 @@
+{
+  "date": "2022-11-11",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.775Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le vendredi 11 novembre 2022 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "Ave des Aigrettes,Autriches,Perdrix a Morc Safeland",
+      "district": "blackriver",
+      "from": "2022-11-11T04:30:00.000Z",
+      "to": "2022-11-11T11:30:00.000Z",
+      "id": "aa8fd52c3cff2f22de5da696883233cf"
+    },
+    {
+      "date": "Le vendredi 11 novembre 2022 de  10:00:00 à  16:00:00",
+      "locality": "CARREAU LALIANE",
+      "localitySlug": "carreau-laliane",
+      "streets": "UNJORE LANE,PART OF PAILLOTE",
+      "district": "plainewilhems",
+      "from": "2022-11-11T06:00:00.000Z",
+      "to": "2022-11-11T12:00:00.000Z",
+      "id": "40ef07aaad7713f025f8237cbeefb48c"
+    },
+    {
+      "date": "Le vendredi 11 novembre 2022 de  15:45:00 à  16:45:00",
+      "locality": "TRANQUEBAR",
+      "localitySlug": "tranquebar",
+      "streets": "CROWN LAND TORY, BATHFIELD STREET",
+      "district": "portlouis",
+      "from": "2022-11-11T11:45:00.000Z",
+      "to": "2022-11-11T12:45:00.000Z",
+      "id": "9d57b0eb19f4d59615e609ec6adc2dc0"
+    },
+    {
+      "date": "Le vendredi 11 novembre 2022 de  12:00:00 à  16:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "ANSE RAFFIN,PARC TORTUE,ANSE BALEINE,SONGE,PORT SUD EST,MOUROUK,ANSE ENFER,MONTAGNE CHERIE",
+      "district": "rodrigues",
+      "from": "2022-11-11T08:00:00.000Z",
+      "to": "2022-11-11T12:00:00.000Z",
+      "id": "87d71d9da2adf9dd9a45afa38ac80a31"
+    },
+    {
+      "date": "Le vendredi 11 novembre 2022 de  08:30:00 à  12:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "MALARTIC,BASSIN GALLARD",
+      "district": "rodrigues",
+      "from": "2022-11-11T04:30:00.000Z",
+      "to": "2022-11-11T08:00:00.000Z",
+      "id": "e317127e31d9b5b6c8e7eb4ef969b409"
+    },
+    {
+      "date": "Le vendredi 11 novembre 2022 de  08:30:00 à  13:30:00",
+      "locality": "POINTE AUX CANONNIERS",
+      "localitySlug": "pointe-aux-canonniers",
+      "streets": "dans les environs de Ave Lauriers",
+      "district": "rodrigues",
+      "from": "2022-11-11T04:30:00.000Z",
+      "to": "2022-11-11T09:30:00.000Z",
+      "id": "07b6e661389b9be4eb8dfd32c5965165"
+    }
+  ]
+}

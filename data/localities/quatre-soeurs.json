@@ -1,0 +1,60 @@
+{
+  "slug": "quatre-soeurs",
+  "name": "QUATRE SOEURS",
+  "district": "flacq",
+  "generated": "2025-12-29T20:14:26.164Z",
+  "outageCount": 7,
+  "firstOutage": "2022-08-10",
+  "lastOutage": "2025-12-18",
+  "outages": [
+    {
+      "date": "Le jeudi 18 décembre 2025 de  09:15:00 à  14:15:00",
+      "streets": "QUATRE SOEUR,DEUX FRERES,GRANDE RIVIERE SUD EST,",
+      "from": "2025-12-18T05:15:00.000Z",
+      "to": "2025-12-18T10:15:00.000Z",
+      "id": "b8c5ff2082b4b1ce54657ec5b46b0295"
+    },
+    {
+      "date": "Le jeudi 11 décembre 2025 de  09:00:00 à  15:00:00",
+      "streets": "Quatre Soeurs,Pte aux Feuilles,Grand Sables",
+      "from": "2025-12-11T05:00:00.000Z",
+      "to": "2025-12-11T11:00:00.000Z",
+      "id": "38428c45ba0b0e51c5dbed13c29c0235"
+    },
+    {
+      "date": "Le mardi 28 octobre 2025 de  12:45:00 à  15:00:00",
+      "streets": "MARIE JEANNE QUATRE SOEURS",
+      "from": "2025-10-28T08:45:00.000Z",
+      "to": "2025-10-28T11:00:00.000Z",
+      "id": "3429cd9a7778f10fe6c912bdb9c31d57"
+    },
+    {
+      "date": "Le mardi 28 octobre 2025 de  09:00:00 à  11:00:00",
+      "streets": "ROYAL RD QUATRE SOEURS",
+      "from": "2025-10-28T05:00:00.000Z",
+      "to": "2025-10-28T07:00:00.000Z",
+      "id": "462240a43250570d13bea400735a168b"
+    },
+    {
+      "date": "Le vendredi 28 juin 2024 de  10:30:00 à  13:30:00",
+      "streets": "MARIE JANE STREET QUATRE SOEUR",
+      "from": "2024-06-28T06:30:00.000Z",
+      "to": "2024-06-28T09:30:00.000Z",
+      "id": "bb11b6c917400fd688b38f2dc716ec33"
+    },
+    {
+      "date": "Le jeudi 5 janvier 2023 de  09:00:00 à  16:00:00",
+      "streets": "Quatre Soeurs habitant dans le périmètre et les rues suivantes: Marie Jeanne Road et une partie de la Route Royale Quatre Soeurs",
+      "from": "2023-01-05T05:00:00.000Z",
+      "to": "2023-01-05T12:00:00.000Z",
+      "id": "e6917000109601ec46154a6181cbaa31"
+    },
+    {
+      "date": "Le mercredi 10 août 2022 de  10:00:00 à  15:00:00",
+      "streets": "QUATRE SOEURS",
+      "from": "2022-08-10T06:00:00.000Z",
+      "to": "2022-08-10T11:00:00.000Z",
+      "id": "fbdb61283cc8ca58e7d28a6e17709a15"
+    }
+  ]
+}

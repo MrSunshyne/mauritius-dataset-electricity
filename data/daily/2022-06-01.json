@@ -1,0 +1,48 @@
+{
+  "date": "2022-06-01",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.764Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mercredi 1 juin 2022 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "AVE DES BALEINES, AVE DES BRETONS, AVE CATEAUX, UNE PARTIE DE LAVE SOUFFLEUR ET AVE SUNSET",
+      "district": "blackriver",
+      "from": "2022-06-01T04:30:00.000Z",
+      "to": "2022-06-01T11:30:00.000Z",
+      "id": "606feb01a4370cf8fdcad9011977aac4"
+    },
+    {
+      "date": "Le mercredi 1 juin 2022 de  14:00:00 à  17:00:00",
+      "locality": "CAROLINE BEL AIR",
+      "localitySlug": "caroline-bel-air",
+      "streets": "Village Caroline,dans les perimetres de Morcellement Sohawon et Entrepot Savers Supermarche Bel-Air Riviere Seche",
+      "district": "flacq",
+      "from": "2022-06-01T10:00:00.000Z",
+      "to": "2022-06-01T13:00:00.000Z",
+      "id": "8704e29e0ca6104a98d08d7b2377e6f5"
+    },
+    {
+      "date": "Le mercredi 1 juin 2022 de  09:00:00 à  17:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "une partie de Swami Sivananda Avenue et Independance Street",
+      "district": "plainewilhems",
+      "from": "2022-06-01T05:00:00.000Z",
+      "to": "2022-06-01T13:00:00.000Z",
+      "id": "0a0808de0641c2002084ad1e1d4e3c5a"
+    },
+    {
+      "date": "Le mercredi 1 juin 2022 de  09:00:00 à  14:30:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "LES ABONNES HABITANT MORC VRS PTE AUX SABLES DANS LES ENVIRONS DES AVENUES COCOTIERS, MURIERS, NOISETIEURS, JACQUIERS, DATIERS, CITRONIERS ET LITCHIERS",
+      "district": "portlouis",
+      "from": "2022-06-01T05:00:00.000Z",
+      "to": "2022-06-01T10:30:00.000Z",
+      "id": "833095615edbab1368ca34a8e6433f3e"
+    }
+  ]
+}

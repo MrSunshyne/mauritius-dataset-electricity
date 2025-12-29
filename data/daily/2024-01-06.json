@@ -1,0 +1,58 @@
+{
+  "date": "2024-01-06",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.805Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le samedi 6 janvier 2024 de  03:15:00 à  12:00:00",
+      "locality": "MARE LA CHAUX",
+      "localitySlug": "mare-la-chaux",
+      "streets": "QUATRE COCOS ROAD",
+      "district": "flacq",
+      "from": "2024-01-05T23:15:00.000Z",
+      "to": "2024-01-05T08:00:00.000Z",
+      "id": "534a23cb7025a61bf0a17089363499f0"
+    },
+    {
+      "date": "Le samedi 6 janvier 2024 de  21:30:00 à  23:30:00",
+      "locality": "MONTAGNE BLANCHE",
+      "localitySlug": "montagne-blanche",
+      "streets": "sans soucis road",
+      "district": "moka",
+      "from": "2024-01-06T17:30:00.000Z",
+      "to": "2024-01-06T19:30:00.000Z",
+      "id": "53756345a4daabce64e7a475e06eb729"
+    },
+    {
+      "date": "Le samedi 6 janvier 2024 de  10:30:00 à  16:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "MORC FOONDUN,MORC TARA,BAPTISTE LANE,BOIS MARCHAND",
+      "district": "pamplemousses",
+      "from": "2024-01-06T06:30:00.000Z",
+      "to": "2024-01-06T12:00:00.000Z",
+      "id": "260d0a8c600b6239d13c99ab60f29dc2"
+    },
+    {
+      "date": "Le samedi 6 janvier 2024 de  14:30:00 à  15:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave dEpinay, Ave Commerson, Ave Buswell, Ave Telfair, Ave Cecile Hall, Ave Doyen et Ave Sir V. Naz",
+      "district": "plainewilhems",
+      "from": "2024-01-06T10:30:00.000Z",
+      "to": "2024-01-06T11:30:00.000Z",
+      "id": "22e97c14ddf3b16b16686ccbdf26a280"
+    },
+    {
+      "date": "Le samedi 6 janvier 2024 de  08:30:00 à  09:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave dEpinay, Ave Commerson, Ave Buswell, Ave Telfair, Ave Cecile Hall, Ave Doyen et Ave Sir V. Naz",
+      "district": "plainewilhems",
+      "from": "2024-01-06T04:30:00.000Z",
+      "to": "2024-01-06T05:30:00.000Z",
+      "id": "dce3d787e3d2560d71c9dc60669edd71"
+    }
+  ]
+}

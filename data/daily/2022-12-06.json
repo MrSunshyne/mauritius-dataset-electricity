@@ -1,0 +1,48 @@
+{
+  "date": "2022-12-06",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.777Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mardi 6 décembre 2022 de  08:30:00 à  16:30:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "MORC RAMDANEE",
+      "district": "blackriver",
+      "from": "2022-12-06T04:30:00.000Z",
+      "to": "2022-12-06T12:30:00.000Z",
+      "id": "a8c18308803c27a53ee2a820a0f699f5"
+    },
+    {
+      "date": "Le mardi 6 décembre 2022 de  20:30:00 à  23:30:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "VICINITY ALBATROSS AVENUE",
+      "district": "blackriver",
+      "from": "2022-12-06T16:30:00.000Z",
+      "to": "2022-12-06T19:30:00.000Z",
+      "id": "40b5904ee496410acb322354b286bba6"
+    },
+    {
+      "date": "Le mardi 6 décembre 2022 de  09:00:00 à  12:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes: Résidences les Préverts, Cite Malherbes et  les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-12-06T05:00:00.000Z",
+      "to": "2022-12-06T08:00:00.000Z",
+      "id": "03b514592ea08e458a515b37ffef6dbc"
+    },
+    {
+      "date": "Le mardi 6 décembre 2022 de  12:00:00 à  14:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes: Morcellement Daruty, partie d’Henry Robert et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-12-06T08:00:00.000Z",
+      "to": "2022-12-06T10:00:00.000Z",
+      "id": "d0b8e5a8e9530ffebe3417ce6612fabe"
+    }
+  ]
+}

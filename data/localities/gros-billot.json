@@ -1,0 +1,39 @@
+{
+  "slug": "gros-billot",
+  "name": "GROS BILLOT",
+  "district": "grandport",
+  "generated": "2025-12-29T20:14:26.023Z",
+  "outageCount": 4,
+  "firstOutage": "2022-04-21",
+  "lastOutage": "2025-03-27",
+  "outages": [
+    {
+      "date": "Le jeudi 27 mars 2025 de  14:00:00 à  17:00:00",
+      "streets": "Gros Billot - une partie de la Route Royale Gros Billot",
+      "from": "2025-03-27T10:00:00.000Z",
+      "to": "2025-03-27T13:00:00.000Z",
+      "id": "d69c50bdc350bc2eec3cee2bbc97fc83"
+    },
+    {
+      "date": "Le vendredi 10 janvier 2025 de  05:00:00 à  12:00:00",
+      "streets": "MORC VRS GROS BILLOT",
+      "from": "2025-01-10T01:00:00.000Z",
+      "to": "2025-01-10T08:00:00.000Z",
+      "id": "5bbf5d2259b87ce25d92f6c2c5342197"
+    },
+    {
+      "date": "Le dimanche 19 juin 2022 de  08:30:00 à  17:00:00",
+      "streets": "Gros Billot et New Grove habitant dans le périmètre et les rues suivantes: Siding Road, Dreepaul Lane, Morcellement Mauripark, La Croisée New Grove, Chemin Deux Bras, Doolum Lane et Ramma Lane",
+      "from": "2022-06-19T04:30:00.000Z",
+      "to": "2022-06-19T13:00:00.000Z",
+      "id": "e38a76fe4577aecb63314c87fcf9a185"
+    },
+    {
+      "date": "Le jeudi 21 avril 2022 de  09:00:00 à  17:00:00",
+      "streets": "NHDC Gros Billot, Link Road La Rosa & Residence Le Bosquet New Grove",
+      "from": "2022-04-21T05:00:00.000Z",
+      "to": "2022-04-21T13:00:00.000Z",
+      "id": "b1d990ff2f1e5378883f05c5dd454f44"
+    }
+  ]
+}

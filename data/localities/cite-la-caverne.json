@@ -1,0 +1,32 @@
+{
+  "slug": "cite-la-caverne",
+  "name": "CITE LA CAVERNE",
+  "district": "plainewilhems",
+  "generated": "2025-12-29T20:14:25.968Z",
+  "outageCount": 3,
+  "firstOutage": "2023-05-18",
+  "lastOutage": "2024-11-18",
+  "outages": [
+    {
+      "date": "Le lundi 18 novembre 2024 de  09:00:00 à  11:00:00",
+      "streets": "LA CAVERNE 3",
+      "from": "2024-11-18T05:00:00.000Z",
+      "to": "2024-11-18T07:00:00.000Z",
+      "id": "3a1c6e789782f2eadccf8a858d72a8f9"
+    },
+    {
+      "date": "Le vendredi 19 mai 2023 de  09:00:00 à  15:00:00",
+      "streets": "Rue Watsonia, Rue Bougainville, Impasse Trimeza, Avenue Nonodora",
+      "from": "2023-05-19T05:00:00.000Z",
+      "to": "2023-05-19T11:00:00.000Z",
+      "id": "4bdf305df9ffaffab4cf8bc10687c253"
+    },
+    {
+      "date": "Le jeudi 18 mai 2023 de  09:00:00 à  15:00:00",
+      "streets": "Rue Watsonia, Rue Bougainville, Impasse Trimeza, Avenue Nonodora",
+      "from": "2023-05-18T05:00:00.000Z",
+      "to": "2023-05-18T11:00:00.000Z",
+      "id": "08bd3ed734f7902c68e5b2d8320a6abe"
+    }
+  ]
+}

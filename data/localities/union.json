@@ -1,0 +1,25 @@
+{
+  "slug": "union",
+  "name": "UNION",
+  "district": "portlouis",
+  "generated": "2025-12-29T20:14:26.235Z",
+  "outageCount": 2,
+  "firstOutage": "2024-07-26",
+  "lastOutage": "2025-07-13",
+  "outages": [
+    {
+      "date": "Le dimanche 13 juillet 2025 de  15:30:00 à  16:30:00",
+      "streets": "PART OF UNION",
+      "from": "2025-07-13T11:30:00.000Z",
+      "to": "2025-07-13T12:30:00.000Z",
+      "id": "341ab6f92a869ebf2598b1121547ad5d"
+    },
+    {
+      "date": "Le vendredi 26 juillet 2024 de  09:00:00 à  15:00:00",
+      "streets": "UNION DUCRAY",
+      "from": "2024-07-26T05:00:00.000Z",
+      "to": "2024-07-26T11:00:00.000Z",
+      "id": "1c9072697f9d50eb0050dd4d52c98e6d"
+    }
+  ]
+}

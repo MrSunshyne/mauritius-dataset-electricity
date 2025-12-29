@@ -1,0 +1,68 @@
+{
+  "date": "2023-03-23",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.784Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le jeudi 23 mars 2023 de  08:30:00 à  17:00:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "Rose Belle habitant dans le périmètre et les rues suivantes: Madame Lolo, Market Lane, Chemin Dispensaire, Kulpoo Lane, EDC Rose Belle, Railway Road, Chemin Mongelaard et une partie de la Route Royale Rose Belle",
+      "district": "grandport",
+      "from": "2023-03-23T04:30:00.000Z",
+      "to": "2023-03-23T13:00:00.000Z",
+      "id": "3067cc1bd0947a350584ed251e7fee12"
+    },
+    {
+      "date": "Le jeudi 23 mars 2023 de  10:15:00 à  12:00:00",
+      "locality": "LA BARRAQUE",
+      "localitySlug": "la-barraque",
+      "streets": "WHOLE P MAGNIEN",
+      "district": "grandport",
+      "from": "2023-03-23T06:15:00.000Z",
+      "to": "2023-03-23T08:00:00.000Z",
+      "id": "58abaff5662a683d3aad35ea98cb6f34"
+    },
+    {
+      "date": "Le jeudi 23 mars 2023 de  09:30:00 à  15:00:00",
+      "locality": "BELLE ROSE  ( Q BORNES )",
+      "localitySlug": "belle-rose",
+      "streets": "KOHARAM ST,MODUN ST,BEAU SEJOUR ST",
+      "district": "plainewilhems",
+      "from": "2023-03-23T05:30:00.000Z",
+      "to": "2023-03-23T11:00:00.000Z",
+      "id": "67a81d2b38331c5be3ec22884b4599b5"
+    },
+    {
+      "date": "Le jeudi 23 mars 2023 de  09:15:00 à  12:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "CANTIN LANE,CANTIN RD,MOSQUE RD,MOREAU RD",
+      "district": "plainewilhems",
+      "from": "2023-03-23T05:15:00.000Z",
+      "to": "2023-03-23T08:00:00.000Z",
+      "id": "0a4746c57d6175109e47492274cbabc5"
+    },
+    {
+      "date": "Le jeudi 23 mars 2023 de  14:05:00 à  15:30:00",
+      "locality": "CLOSEL",
+      "localitySlug": "closel",
+      "streets": "SIMONET,MCML,CLOSEL.MORC SEETARAM,LARBRE DU VOYAGEUR,LENFERNA",
+      "district": "plainewilhems",
+      "from": "2023-03-23T10:05:00.000Z",
+      "to": "2023-03-23T11:30:00.000Z",
+      "id": "7133526a1bdd1ceca36c336338995983"
+    },
+    {
+      "date": "Le jeudi 23 mars 2023 de  09:00:00 à  15:00:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "dans les environs de Nelson road et St Michel road",
+      "district": "rivieredurempart",
+      "from": "2023-03-23T05:00:00.000Z",
+      "to": "2023-03-23T11:00:00.000Z",
+      "id": "8f0119b6b05e28e4dc5c9515bed0b4c6"
+    }
+  ]
+}

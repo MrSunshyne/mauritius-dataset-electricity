@@ -1,0 +1,158 @@
+{
+  "slug": "ebene",
+  "name": "EBENE",
+  "district": "plainewilhems",
+  "generated": "2025-12-29T20:14:25.995Z",
+  "outageCount": 21,
+  "firstOutage": "2022-04-25",
+  "lastOutage": "2025-12-19",
+  "outages": [
+    {
+      "date": "Le vendredi 19 décembre 2025 de  09:30:00 à  14:00:00",
+      "streets": "CYBERE VILLAGE HOUSING COMPLEX",
+      "from": "2025-12-19T05:30:00.000Z",
+      "to": "2025-12-19T10:00:00.000Z",
+      "id": "09bf9cf685b4d8acb6cabdc6fd229522"
+    },
+    {
+      "date": "Le mercredi 17 septembre 2025 de  20:00:00 à  22:00:00",
+      "streets": "VILLAGE EBENE",
+      "from": "2025-09-17T16:00:00.000Z",
+      "to": "2025-09-17T18:00:00.000Z",
+      "id": "60b42ec8c5fe1ea97fab18f86f717027"
+    },
+    {
+      "date": "Le mardi 2 septembre 2025 de  11:20:00 à  11:50:00",
+      "streets": "EUCALYPTUS LANE MORC EBENE",
+      "from": "2025-09-02T07:20:00.000Z",
+      "to": "2025-09-02T07:50:00.000Z",
+      "id": "57f1c9ff00f8c66c2f7f1cc8b4d81b42"
+    },
+    {
+      "date": "Le mardi 8 avril 2025 de  09:00:00 à  13:00:00",
+      "streets": "HOUSING ESTATE MORC EBENE DANS LES ALENTOURS DE KOVIL, GYM ET LA RUE EUCALYPTUS",
+      "from": "2025-04-08T05:00:00.000Z",
+      "to": "2025-04-08T09:00:00.000Z",
+      "id": "d34cb4e2fe8000e5f1f1c2c310bfaadf"
+    },
+    {
+      "date": "Le lundi 7 avril 2025 de  13:00:00 à  14:00:00",
+      "streets": "BADEN POWEL EBEN",
+      "from": "2025-04-07T09:00:00.000Z",
+      "to": "2025-04-07T10:00:00.000Z",
+      "id": "841fdb3ad54fb584712f24b3846fd76b"
+    },
+    {
+      "date": "Le mardi 18 mars 2025 de  10:20:00 à  12:00:00",
+      "streets": "MORC EBENE, SPORT COMPLEX, KOVIL SUGAR ESTATE AND SURROUNDINDS",
+      "from": "2025-03-18T06:20:00.000Z",
+      "to": "2025-03-18T08:00:00.000Z",
+      "id": "cdfad2901177ef431c122044af9fea69"
+    },
+    {
+      "date": "Le mardi 11 mars 2025 de  12:00:00 à  13:30:00",
+      "streets": "EBENE CITY",
+      "from": "2025-03-11T08:00:00.000Z",
+      "to": "2025-03-11T09:30:00.000Z",
+      "id": "f6b4859586378b3c966aefc3fef582be"
+    },
+    {
+      "date": "Le samedi 22 février 2025 de  14:30:00 à  16:30:00",
+      "streets": "EBENE",
+      "from": "2025-02-22T10:30:00.000Z",
+      "to": "2025-02-22T12:30:00.000Z",
+      "id": "424571d84676fd2c5844b45e152f7c69"
+    },
+    {
+      "date": "Le vendredi 31 janvier 2025 de  00:00:00 à  05:00:00",
+      "streets": "AU BOUT DU MONDE EBENE",
+      "from": "2025-01-30T20:00:00.000Z",
+      "to": "2025-01-30T01:00:00.000Z",
+      "id": "f6e4e4462b8ede403d844a0bbf79c22f"
+    },
+    {
+      "date": "Le lundi 20 janvier 2025 de  09:00:00 à  14:00:00",
+      "streets": "Rue des Metiers, Rue des Agriculteurs, Rue des Ebenistes, Rue des Artisans et Rue des Meuniers",
+      "from": "2025-01-20T05:00:00.000Z",
+      "to": "2025-01-20T10:00:00.000Z",
+      "id": "8b1feba8b36634ac65d2f9bbc0ec4c54"
+    },
+    {
+      "date": "Le vendredi 16 août 2024 de  09:00:00 à  16:00:00",
+      "streets": "RUE DES AMOUREUX EBENE NR SSS",
+      "from": "2024-08-16T05:00:00.000Z",
+      "to": "2024-08-16T12:00:00.000Z",
+      "id": "d8e2b9908dcb1685b331558433c51ff0"
+    },
+    {
+      "date": "Le samedi 11 novembre 2023 de  10:30:00 à  16:00:00",
+      "streets": "MORC EBENE ET DANS LES ALENTOURS DE EBENE SQUARE",
+      "from": "2023-11-11T06:30:00.000Z",
+      "to": "2023-11-11T12:00:00.000Z",
+      "id": "b5559fba5996d425eadd44e294a0815c"
+    },
+    {
+      "date": "Le samedi 11 novembre 2023 de  08:30:00 à  10:00:00",
+      "streets": "MORC EBENE, EBENE SQUARE ET LES ALENTOURS",
+      "from": "2023-11-11T04:30:00.000Z",
+      "to": "2023-11-11T06:00:00.000Z",
+      "id": "75ffc0bc46267b785cce2113d185ef6d"
+    },
+    {
+      "date": "Le jeudi 9 novembre 2023 de  14:30:00 à  15:00:00",
+      "streets": "EBENE",
+      "from": "2023-11-09T10:30:00.000Z",
+      "to": "2023-11-09T11:00:00.000Z",
+      "id": "7b474c6fdc368e4f5ec29a854773c9b6"
+    },
+    {
+      "date": "Le jeudi 9 novembre 2023 de  10:00:00 à  12:00:00",
+      "streets": "EBENE NR ECOLE HOTELIERE",
+      "from": "2023-11-09T06:00:00.000Z",
+      "to": "2023-11-09T08:00:00.000Z",
+      "id": "41fcd0037b375da8f3a2a8e3dedb4322"
+    },
+    {
+      "date": "Le mercredi 18 octobre 2023 de  20:00:00 à  22:00:00",
+      "streets": "RUE DES PROFESSEURS, RUE DES MUSICIENS, AVENUE MUNICIPALE ET LES ENVIRONS.",
+      "from": "2023-10-18T16:00:00.000Z",
+      "to": "2023-10-18T18:00:00.000Z",
+      "id": "4a5645e6f0308fa3b92be2ec0aab6c38"
+    },
+    {
+      "date": "Le lundi 28 novembre 2022 de  09:00:00 à  11:00:00",
+      "streets": "MORC EBENE NEAR KOVIL",
+      "from": "2022-11-28T05:00:00.000Z",
+      "to": "2022-11-28T07:00:00.000Z",
+      "id": "3c9a4ffd3770245f9b7fcd66567f134a"
+    },
+    {
+      "date": "Le vendredi 28 octobre 2022 de  09:00:00 à  15:00:00",
+      "streets": "MORC EBEN",
+      "from": "2022-10-28T05:00:00.000Z",
+      "to": "2022-10-28T11:00:00.000Z",
+      "id": "7f923c17298100d2230ac7e56577e0d4"
+    },
+    {
+      "date": "Le vendredi 21 octobre 2022 de  12:30:00 à  15:00:00",
+      "streets": "MORC EBENE",
+      "from": "2022-10-21T08:30:00.000Z",
+      "to": "2022-10-21T11:00:00.000Z",
+      "id": "0584eb7d38d50a8aaf1d98b8d73ece61"
+    },
+    {
+      "date": "Le jeudi 8 septembre 2022 de  09:00:00 à  15:00:00",
+      "streets": "Morc Ebene dans les environs de Gymnase Soonarain",
+      "from": "2022-09-08T05:00:00.000Z",
+      "to": "2022-09-08T11:00:00.000Z",
+      "id": "d491bb70460e3284deeb76668934bdac"
+    },
+    {
+      "date": "Le lundi 25 avril 2022 de  10:15:00 à  17:30:00",
+      "streets": "Cybervillage Ebene",
+      "from": "2022-04-25T06:15:00.000Z",
+      "to": "2022-04-25T13:30:00.000Z",
+      "id": "91d1836e379da23eaee7d5e4893be4ee"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2025-12-26",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.856Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le vendredi 26 décembre 2025 de  09:00:00 à  11:00:00",
+      "locality": "CHAMAREL",
+      "localitySlug": "chamarel",
+      "streets": "LA VILLE LEON CHAMAREL",
+      "district": "blackriver",
+      "from": "2025-12-26T05:00:00.000Z",
+      "to": "2025-12-26T07:00:00.000Z",
+      "id": "bf424bd188e77cfbde3e291169d47192"
+    },
+    {
+      "date": "Le vendredi 26 décembre 2025 de  20:00:00 à  23:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "TERRE ROUGE, ST JOSEPH, NOTRE DAME, MONTAGNE LONGUE, BOIS PIGNOLET, KHOYRATTY",
+      "district": "pamplemousses",
+      "from": "2025-12-26T16:00:00.000Z",
+      "to": "2025-12-26T19:00:00.000Z",
+      "id": "570db6bd7c4972eb4116252b8fa51e3e"
+    },
+    {
+      "date": "Le vendredi 26 décembre 2025 de  17:00:00 à  18:30:00",
+      "locality": "HERMITAGE PHOENIX",
+      "localitySlug": "hermitage-phoenix",
+      "streets": "PLAINE DES HERMITAGE, NEAR ORCHARD KIDS",
+      "district": "plainewilhems",
+      "from": "2025-12-26T13:00:00.000Z",
+      "to": "2025-12-26T14:30:00.000Z",
+      "id": "3aeadfba29aee9252dceba99ebd9b71f"
+    },
+    {
+      "date": "Le vendredi 26 décembre 2025 de  18:15:00 à  19:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVE BOUNDARY, CANDA LANE, CACTUS LANE AND SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2025-12-26T14:15:00.000Z",
+      "to": "2025-12-26T15:30:00.000Z",
+      "id": "3b80276b4e931fb840090f56a842edce"
+    },
+    {
+      "date": "Le vendredi 26 décembre 2025 de  09:30:00 à  12:00:00",
+      "locality": "CASSIS",
+      "localitySlug": "cassis",
+      "streets": "KWAN TEE CASSIS",
+      "district": "portlouis",
+      "from": "2025-12-26T05:30:00.000Z",
+      "to": "2025-12-26T08:00:00.000Z",
+      "id": "f48b1e3cd8f864d1833c38553fe592de"
+    }
+  ]
+}

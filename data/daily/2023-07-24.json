@@ -1,0 +1,28 @@
+{
+  "date": "2023-07-24",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.793Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le lundi 24 juillet 2023 de  07:00:00 à  18:00:00",
+      "locality": "CAMP PECHEURS",
+      "localitySlug": "camp-pecheurs",
+      "streets": "CAMP PECHEUR GRSE",
+      "district": "flacq",
+      "from": "2023-07-24T03:00:00.000Z",
+      "to": "2023-07-24T14:00:00.000Z",
+      "id": "8c7be87b8e65803a675741cc1e3d50f5"
+    },
+    {
+      "date": "Le lundi 24 juillet 2023 de  15:00:00 à  17:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Prison Beau-Bassin, Ave Jasmin, Ave Cosmos, Ave Barkly Asylum, Res. Barkly, Rue Herchenroder, MOA Barkly, Piscine Serge Alfred, RYC et les environs",
+      "district": "plainewilhems",
+      "from": "2023-07-24T11:00:00.000Z",
+      "to": "2023-07-24T13:00:00.000Z",
+      "id": "f10c2c04a06dfdb8184ce961ec43ab44"
+    }
+  ]
+}

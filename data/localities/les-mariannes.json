@@ -1,0 +1,25 @@
+{
+  "slug": "les-mariannes",
+  "name": "LES MARIANNES",
+  "district": "pamplemousses",
+  "generated": "2025-12-29T20:14:26.062Z",
+  "outageCount": 2,
+  "firstOutage": "2022-08-01",
+  "lastOutage": "2024-05-29",
+  "outages": [
+    {
+      "date": "Le mercredi 29 mai 2024 de  08:00:00 à  16:00:00",
+      "streets": "LES ABONNES DE LES MARIANNES.",
+      "from": "2024-05-29T04:00:00.000Z",
+      "to": "2024-05-29T12:00:00.000Z",
+      "id": "3bd47c967efcf316e917a80203e2fe3b"
+    },
+    {
+      "date": "Le lundi 1 août 2022 de  15:00:00 à  17:30:00",
+      "streets": "LES ABONNES HABITANT LES MARIANNES",
+      "from": "2022-08-01T11:00:00.000Z",
+      "to": "2022-08-01T13:30:00.000Z",
+      "id": "00ce5d4ad3e45bf8b2094d475fd89b3c"
+    }
+  ]
+}

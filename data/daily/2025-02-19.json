@@ -1,0 +1,58 @@
+{
+  "date": "2025-02-19",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.837Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mercredi 19 février 2025 de  16:00:00 à  18:00:00",
+      "locality": "GRAND RIVER NORTH WEST",
+      "localitySlug": "grand-river-north-west",
+      "streets": "UNE PARTIE DE LA ROUTE ROYAL",
+      "district": "blackriver",
+      "from": "2025-02-19T12:00:00.000Z",
+      "to": "2025-02-19T14:00:00.000Z",
+      "id": "cd58b3c956af3894355810f84e3473f5"
+    },
+    {
+      "date": "Le mercredi 19 février 2025 de  14:00:00 à  17:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "DANS LES ENVIRONS DE LA RUE LA FORGE, RICHE LIEU OPEN PRISON ET UNE PARTIE DE LA ROUTE ROYALE",
+      "district": "blackriver",
+      "from": "2025-02-19T10:00:00.000Z",
+      "to": "2025-02-19T13:00:00.000Z",
+      "id": "ccafbacdaf070d4b47942192bec5a425"
+    },
+    {
+      "date": "Le mercredi 19 février 2025 de  11:00:00 à  12:00:00",
+      "locality": "MELROSE",
+      "localitySlug": "melrose",
+      "streets": "LOTUS RD, RAMPHUL RD",
+      "district": "moka",
+      "from": "2025-02-19T07:00:00.000Z",
+      "to": "2025-02-19T08:00:00.000Z",
+      "id": "feb0b2523b6ba3175ac703e683d052ec"
+    },
+    {
+      "date": "Le mercredi 19 février 2025 de  13:00:00 à  17:00:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "Tooky Lane, Board Cascade, Camp Le Savanne",
+      "district": "plainewilhems",
+      "from": "2025-02-19T09:00:00.000Z",
+      "to": "2025-02-19T13:00:00.000Z",
+      "id": "294d628c57c3d91fb2d99ae3457bd90c"
+    },
+    {
+      "date": "Le mercredi 19 février 2025 de  13:25:00 à  17:00:00",
+      "locality": "MONT ROCHES",
+      "localitySlug": "mont-roches",
+      "streets": "RAYMOND RIVER ET DANS LES ALENTOURS DU KOVIL",
+      "district": "plainewilhems",
+      "from": "2025-02-19T09:25:00.000Z",
+      "to": "2025-02-19T13:00:00.000Z",
+      "id": "58b27f373f19514cddcef12654933491"
+    }
+  ]
+}

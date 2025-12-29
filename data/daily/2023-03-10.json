@@ -1,0 +1,38 @@
+{
+  "date": "2023-03-10",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.783Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le vendredi 10 mars 2023 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC DE CHAZAL HABITANT DANS LES ENVIRONS DE LAVE DES PERROQUETS, AVE CARRIERE, AVE CATEAUX VERT, AVE DES TOUCANS, AVE DES TOURTEREAUX, AVE DES BENGALIS, AVE DES OIES, AVE DES MANGUIERS ET AVE DES MOUETTES",
+      "district": "blackriver",
+      "from": "2023-03-10T04:30:00.000Z",
+      "to": "2023-03-10T11:30:00.000Z",
+      "id": "cd12b36d94aa5d78f0cf4c55527c3f06"
+    },
+    {
+      "date": "Le vendredi 10 mars 2023 de  08:30:00 à  13:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "Les abonnés de 16eme Mile, Forest-Side habitant les rues et les régions suivantes : Jaffur, partie de Coriolis Road, Morcellement Soobanee, NHDC Jacinthe, Issory, Albatros, Bojo, Ramsoor et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-03-10T04:30:00.000Z",
+      "to": "2023-03-10T09:00:00.000Z",
+      "id": "abbedd1377f3ec038da6a08e1b5a3b55"
+    },
+    {
+      "date": "Le vendredi 10 mars 2023 de  16:15:00 à  17:45:00",
+      "locality": "HERMITAGE PHOENIX",
+      "localitySlug": "hermitage-phoenix",
+      "streets": "UNE PARTIE DE HERMITAGE ET CHEMIN BELLE RIVE",
+      "district": "plainewilhems",
+      "from": "2023-03-10T12:15:00.000Z",
+      "to": "2023-03-10T13:45:00.000Z",
+      "id": "18b041799dad345b8b97f4eb81a4d364"
+    }
+  ]
+}

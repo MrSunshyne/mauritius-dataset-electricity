@@ -1,0 +1,88 @@
+{
+  "date": "2024-10-05",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.826Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le samedi 5 octobre 2024 de  09:00:00 à  15:00:00",
+      "locality": "CANTON NANCY",
+      "localitySlug": "canton-nancy",
+      "streets": "LES ABONNES DE PAMPLEMOUSSES DANS LES ENVIRONS DE CANTON NANCY",
+      "district": "pamplemousses",
+      "from": "2024-10-05T05:00:00.000Z",
+      "to": "2024-10-05T11:00:00.000Z",
+      "id": "aea9ee347bb38e08dd23477565fdebcb"
+    },
+    {
+      "date": "Le samedi 5 octobre 2024 de  09:00:00 à  15:00:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "PAMPLEMOUSSES ET LES ENVIRON DE CANTONANCY",
+      "district": "pamplemousses",
+      "from": "2024-10-05T05:00:00.000Z",
+      "to": "2024-10-05T11:00:00.000Z",
+      "id": "8fe10647a54cccdf7ac8b24aa6ec6a14"
+    },
+    {
+      "date": "Le samedi 5 octobre 2024 de  11:00:00 à  15:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Palma, Ave Jeewoonarain",
+      "district": "plainewilhems",
+      "from": "2024-10-05T07:00:00.000Z",
+      "to": "2024-10-05T11:30:00.000Z",
+      "id": "6e09bcf1b1560005fe7f35960f4c3a79"
+    },
+    {
+      "date": "Le samedi 5 octobre 2024 de  08:30:00 à  16:00:00",
+      "locality": "SAINT MARTIN R-HILL",
+      "localitySlug": "saint-martin-r-hill",
+      "streets": "Jardin St Martin, Porker, CWA et les environs",
+      "district": "plainewilhems",
+      "from": "2024-10-05T04:30:00.000Z",
+      "to": "2024-10-05T12:00:00.000Z",
+      "id": "0e32ae0998d2fba69d5d026f1606cec5"
+    },
+    {
+      "date": "Le samedi 5 octobre 2024 de  11:00:00 à  13:00:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "ACCASIA LAMARIE",
+      "district": "plainewilhems",
+      "from": "2024-10-05T07:00:00.000Z",
+      "to": "2024-10-05T09:00:00.000Z",
+      "id": "053fa57e709ae84f88f73cb8d4bd4dfe"
+    },
+    {
+      "date": "Le samedi 5 octobre 2024 de  09:00:00 à  14:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "CHEMIN VINGT PIED PEREYBERE",
+      "district": "rivieredurempart",
+      "from": "2024-10-05T05:00:00.000Z",
+      "to": "2024-10-05T10:00:00.000Z",
+      "id": "54e27c4e83a6da07368c458dcae80a2b"
+    },
+    {
+      "date": "Le samedi 5 octobre 2024 de  13:00:00 à  13:45:00",
+      "locality": "COTTAGE",
+      "localitySlug": "cottage",
+      "streets": "COTTAGE,POUDRE DOR HAMLET,LESPERANCE TREBUCHET,ILE DAMBRE,EN PARTIE GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2024-10-05T09:00:00.000Z",
+      "to": "2024-10-05T09:45:00.000Z",
+      "id": "257ce8825f80aa18e2db178de0695da5"
+    },
+    {
+      "date": "Le samedi 5 octobre 2024 de  14:00:00 à  19:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "MLLE JEANNE GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2024-10-05T10:00:00.000Z",
+      "to": "2024-10-05T15:00:00.000Z",
+      "id": "4536c4659ca062a0484c818f06c68e82"
+    }
+  ]
+}

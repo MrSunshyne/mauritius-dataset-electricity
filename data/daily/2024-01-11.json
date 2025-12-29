@@ -1,0 +1,88 @@
+{
+  "date": "2024-01-11",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.806Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le jeudi 11 janvier 2024 de  17:00:00 à  18:00:00",
+      "locality": "BLUE BAY",
+      "localitySlug": "blue-bay",
+      "streets": "BLUE BAY/PTE DESNY",
+      "district": "grandport",
+      "from": "2024-01-11T13:00:00.000Z",
+      "to": "2024-01-11T14:00:00.000Z",
+      "id": "5824ac5e5798eadf1a3b16546083c132"
+    },
+    {
+      "date": "Le jeudi 11 janvier 2024 de  09:00:00 à  15:00:00",
+      "locality": "PROVIDENCE QUARTIER MILITAIRE",
+      "localitySlug": "providence-quartier-militaire",
+      "streets": "Shivala Road, kalimaye Road, Dulip Road et Talipot Road",
+      "district": "moka",
+      "from": "2024-01-11T05:00:00.000Z",
+      "to": "2024-01-11T11:00:00.000Z",
+      "id": "cc19d9065af849ee746cd044a229e952"
+    },
+    {
+      "date": "Le jeudi 11 janvier 2024 de  18:30:00 à  23:00:00",
+      "locality": "PONT PRASLIN",
+      "localitySlug": "pont-praslin",
+      "streets": "LES HABITANTS DE PONT PRASLIN.",
+      "district": "pamplemousses",
+      "from": "2024-01-11T14:30:00.000Z",
+      "to": "2024-01-11T19:00:00.000Z",
+      "id": "5e01517c53d9179a0d3d939a42bc3d38"
+    },
+    {
+      "date": "Le jeudi 11 janvier 2024 de  10:00:00 à  12:00:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "CITE HENRIETTA",
+      "district": "plainewilhems",
+      "from": "2024-01-11T06:00:00.000Z",
+      "to": "2024-01-11T08:00:00.000Z",
+      "id": "91a309db80731e1e3cac7be6dbfd71d1"
+    },
+    {
+      "date": "Le jeudi 11 janvier 2024 de  09:00:00 à  12:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Barry Street et une partie de route royale de curepipe.",
+      "district": "plainewilhems",
+      "from": "2024-01-11T05:00:00.000Z",
+      "to": "2024-01-11T08:00:00.000Z",
+      "id": "b7834eec6c246887f114cc11df57d63a"
+    },
+    {
+      "date": "Le jeudi 11 janvier 2024 de  10:30:00 à  11:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "SUROOP LANE ALLEE BRILLANT VACOAS",
+      "district": "plainewilhems",
+      "from": "2024-01-11T06:30:00.000Z",
+      "to": "2024-01-11T07:30:00.000Z",
+      "id": "3902a4f6a2845a3fa30ca53855c55d7b"
+    },
+    {
+      "date": "Le jeudi 11 janvier 2024 de  18:00:00 à  21:00:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "RUE PEIN BAS NR POLICE STATION",
+      "district": "portlouis",
+      "from": "2024-01-11T14:00:00.000Z",
+      "to": "2024-01-11T17:00:00.000Z",
+      "id": "a5d872b93633330c7be7215a2a91a28e"
+    },
+    {
+      "date": "Le jeudi 11 janvier 2024 de  14:30:00 à  15:15:00",
+      "locality": "GRAND BOIS",
+      "localitySlug": "grand-bois",
+      "streets": "NHDC GRAND BOIS AND MORC VRS BEHIND POLICE STATION.",
+      "district": "savanne",
+      "from": "2024-01-11T10:30:00.000Z",
+      "to": "2024-01-11T11:15:00.000Z",
+      "id": "84543532648c3ef4ec62d5d0cf0e9a45"
+    }
+  ]
+}

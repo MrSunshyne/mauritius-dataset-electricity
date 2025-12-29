@@ -1,0 +1,58 @@
+{
+  "date": "2023-04-24",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.786Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le lundi 24 avril 2023 de  11:00:00 à  13:30:00",
+      "locality": "POSTE LAFAYETTE",
+      "localitySlug": "poste-lafayette",
+      "streets": "ROYAL ROAD POSTE LAFAYETTE",
+      "district": "flacq",
+      "from": "2023-04-24T07:00:00.000Z",
+      "to": "2023-04-24T09:30:00.000Z",
+      "id": "c7ac691fe124075a5b28de368da55b04"
+    },
+    {
+      "date": "Le lundi 24 avril 2023 de  09:00:00 à  12:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "dans les environs de La Salette Road et Iqbal Road",
+      "district": "rivieredurempart",
+      "from": "2023-04-24T05:00:00.000Z",
+      "to": "2023-04-24T08:00:00.000Z",
+      "id": "dda313f89c6223bee9b1ee0e08affbba"
+    },
+    {
+      "date": "Le lundi 24 avril 2023 de  13:00:00 à  15:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "DOMAINE DU MOULIN",
+      "district": "rivieredurempart",
+      "from": "2023-04-24T09:00:00.000Z",
+      "to": "2023-04-24T11:00:00.000Z",
+      "id": "19d4eda06c3c480fe06fbea02d9e7984"
+    },
+    {
+      "date": "Le lundi 24 avril 2023 de  15:30:00 à  18:30:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "LADY BARKLY/TERRACINE",
+      "district": "savanne",
+      "from": "2023-04-24T11:30:00.000Z",
+      "to": "2023-04-24T14:30:00.000Z",
+      "id": "73b60b3dd50db5e20a8cb7290594ca35"
+    },
+    {
+      "date": "Le lundi 24 avril 2023 de  15:00:00 à  16:00:00",
+      "locality": "CHAMOUNY",
+      "localitySlug": "chamouny",
+      "streets": "CAMP BOULVARD/CHAMOUNY",
+      "district": "savanne",
+      "from": "2023-04-24T11:00:00.000Z",
+      "to": "2023-04-24T12:00:00.000Z",
+      "id": "1b79e9e4bd79e3f1fcd47cd41964e1bb"
+    }
+  ]
+}

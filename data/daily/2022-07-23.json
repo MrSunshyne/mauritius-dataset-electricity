@@ -1,0 +1,78 @@
+{
+  "date": "2022-07-23",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.768Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le samedi 23 juillet 2022 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "COMPLEX JET SET, COMPLEX LES TAMARINIERS, VILLA CAROLINE ET LE COMPLEX LES PEUPLIERS",
+      "district": "blackriver",
+      "from": "2022-07-23T04:30:00.000Z",
+      "to": "2022-07-23T11:30:00.000Z",
+      "id": "ec0764c9d1551918833e96ff0af3bd72"
+    },
+    {
+      "date": "Le samedi 23 juillet 2022 de  12:30:00 à  13:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "NHDC BAMBOUS",
+      "district": "blackriver",
+      "from": "2022-07-23T08:30:00.000Z",
+      "to": "2022-07-23T09:30:00.000Z",
+      "id": "1499dfe6f88df20095397757d168a7cc"
+    },
+    {
+      "date": "Le samedi 23 juillet 2022 de  08:30:00 à  12:00:00",
+      "locality": "PETITE JULIE",
+      "localitySlug": "petite-julie",
+      "streets": "PETITE JULIE",
+      "district": "pamplemousses",
+      "from": "2022-07-23T04:30:00.000Z",
+      "to": "2022-07-23T08:00:00.000Z",
+      "id": "7be897088cf45cbf4b12188dbf73187b"
+    },
+    {
+      "date": "Le samedi 23 juillet 2022 de  08:30:00 à  16:00:00",
+      "locality": "SAINT PAUL",
+      "localitySlug": "saint-paul",
+      "streets": "Saint Paul Phoenix : Bechard Lane, une partie de St Paul Road et les environs",
+      "district": "plainewilhems",
+      "from": "2022-07-23T04:30:00.000Z",
+      "to": "2022-07-23T12:00:00.000Z",
+      "id": "74c890c5f2e3a3c5a1cac1ec7b76ee0a"
+    },
+    {
+      "date": "Le samedi 23 juillet 2022 de  11:15:00 à  13:00:00",
+      "locality": "LE HOCHET",
+      "localitySlug": "le-hochet",
+      "streets": "MORC RAFFRAY--FONTAINE 23 LE HOCHET",
+      "district": "portlouis",
+      "from": "2022-07-23T07:15:00.000Z",
+      "to": "2022-07-23T09:00:00.000Z",
+      "id": "b0f403f6785714a8e92cf5e374dc1d10"
+    },
+    {
+      "date": "Le samedi 23 juillet 2022 de  09:30:00 à  12:30:00",
+      "locality": "BATIMARAIS",
+      "localitySlug": "batimarais",
+      "streets": "BATIMARAIS",
+      "district": "savanne",
+      "from": "2022-07-23T05:30:00.000Z",
+      "to": "2022-07-23T08:30:00.000Z",
+      "id": "7ee26057a561a0450e1d588fd4a368e2"
+    },
+    {
+      "date": "Le samedi 23 juillet 2022 de  08:30:00 à  15:30:00",
+      "locality": "RIVIERE BANANE(RODRIGUES)",
+      "localitySlug": "riviere-banane",
+      "streets": "Riviere Banane",
+      "district": "rodrigues",
+      "from": "2022-07-23T04:30:00.000Z",
+      "to": "2022-07-23T11:30:00.000Z",
+      "id": "e1e11adfcc07786f249cbb10acaa4dcb"
+    }
+  ]
+}

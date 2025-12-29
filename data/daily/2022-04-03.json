@@ -1,0 +1,58 @@
+{
+  "date": "2022-04-03",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.761Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le dimanche 3 avril 2022 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC RUISSEAU PALMYRE, MORC CREEK, LES APPARTEMENTS STONE OF SCONE, RAMPHUL APPARTMENTS ET AVE DES MEROUS",
+      "district": "blackriver",
+      "from": "2022-04-03T04:30:00.000Z",
+      "to": "2022-04-03T11:30:00.000Z",
+      "id": "c417c91b833f4e0a9cf111cee343664a"
+    },
+    {
+      "date": "Le dimanche 3 avril 2022 de  08:30:00 à  15:30:00",
+      "locality": "RICHE TERRE",
+      "localitySlug": "riche-terre",
+      "streets": "LES ABONNES DE RICHE TERRE HABITANT DANS LES ENVIRONS DE ST MICHEL ROAD,IMPASSE ST MICHEL,DIEU DONNE 3, ROMA LANE, SUSHIL LANE ET MUSLIM CEMETRY ROAD",
+      "district": "pamplemousses",
+      "from": "2022-04-03T04:30:00.000Z",
+      "to": "2022-04-03T11:30:00.000Z",
+      "id": "7c41a9927a797add591287280a060ee2"
+    },
+    {
+      "date": "Le dimanche 3 avril 2022 de  08:30:00 à  16:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Morcellement Hardy, Morcellement Residence Trianon, Morcellement River Edge",
+      "district": "plainewilhems",
+      "from": "2022-04-03T04:30:00.000Z",
+      "to": "2022-04-03T12:00:00.000Z",
+      "id": "a43620a63c8f541ab630e8968d9f9bff"
+    },
+    {
+      "date": "Le dimanche 3 avril 2022 de  09:45:00 à  15:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Solferino,Mon desir Vacoas",
+      "district": "plainewilhems",
+      "from": "2022-04-03T05:45:00.000Z",
+      "to": "2022-04-03T11:00:00.000Z",
+      "id": "68bf91b99219e8c6113b68b4f6556d38"
+    },
+    {
+      "date": "Le dimanche 3 avril 2022 de  10:00:00 à  11:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "AFTER SCHOOL ROAD,IN VICINITY OF SHIVALA",
+      "district": "portlouis",
+      "from": "2022-04-03T06:00:00.000Z",
+      "to": "2022-04-03T07:00:00.000Z",
+      "id": "1e6b3a0e147b958881ff1d25accb518d"
+    }
+  ]
+}

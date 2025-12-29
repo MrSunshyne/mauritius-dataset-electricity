@@ -1,0 +1,68 @@
+{
+  "date": "2024-01-25",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.807Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le jeudi 25 janvier 2024 de  10:00:00 à  12:30:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "B CHERI RD VERS LE POUCE,ROSELINE COTTAGE",
+      "district": "moka",
+      "from": "2024-01-25T06:00:00.000Z",
+      "to": "2024-01-25T08:30:00.000Z",
+      "id": "8211dfa1dd9021e550316fa0b8826544"
+    },
+    {
+      "date": "Le jeudi 25 janvier 2024 de  11:50:00 à  14:00:00",
+      "locality": "MONTAGNE ORY",
+      "localitySlug": "montagne-ory",
+      "streets": "MONTAGNE ORY",
+      "district": "moka",
+      "from": "2024-01-25T07:50:00.000Z",
+      "to": "2024-01-25T10:00:00.000Z",
+      "id": "febfcfa225326231c675d0d60bb9228e"
+    },
+    {
+      "date": "Le jeudi 25 janvier 2024 de  10:20:00 à  12:30:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "BEEDASSY LANE TERRE ROUGE",
+      "district": "pamplemousses",
+      "from": "2024-01-25T06:20:00.000Z",
+      "to": "2024-01-25T08:30:00.000Z",
+      "id": "81f46a1cecf123f6e86323a554db439d"
+    },
+    {
+      "date": "Le jeudi 25 janvier 2024 de  10:20:00 à  12:30:00",
+      "locality": "BOIS PIGNOLET",
+      "localitySlug": "bois-pignolet",
+      "streets": "MORC SHEIK DAWOOD BOIS PIGNOLET",
+      "district": "pamplemousses",
+      "from": "2024-01-25T06:20:00.000Z",
+      "to": "2024-01-25T08:30:00.000Z",
+      "id": "4292d604f342cbbb060943a3e6548325"
+    },
+    {
+      "date": "Le jeudi 25 janvier 2024 de  14:30:00 à  17:30:00",
+      "locality": "CITE LA CURE",
+      "localitySlug": "cite-la-cure",
+      "streets": "JEAN 23, MARJOLIN ST, JEDUM ST, AGRA ST ET LES ENVIRONS.",
+      "district": "portlouis",
+      "from": "2024-01-25T10:30:00.000Z",
+      "to": "2024-01-25T13:30:00.000Z",
+      "id": "d492d9fa4e4afbe3f9700b9ca87e52c1"
+    },
+    {
+      "date": "Le jeudi 25 janvier 2024 de  10:20:00 à  12:30:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "NEHRU RD ETLES ALENTOURS DE RESTAURANT CALYPTUS",
+      "district": "rivieredurempart",
+      "from": "2024-01-25T06:20:00.000Z",
+      "to": "2024-01-25T08:30:00.000Z",
+      "id": "c5113b2df5b9e531c24fae1bef9d61fc"
+    }
+  ]
+}

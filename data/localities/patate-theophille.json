@@ -1,0 +1,39 @@
+{
+  "slug": "patate-theophille",
+  "name": "PATATE THEOPHILLE(RODRIGUES)",
+  "district": "rodrigues",
+  "generated": "2025-12-29T20:14:26.114Z",
+  "outageCount": 4,
+  "firstOutage": "2023-05-23",
+  "lastOutage": "2025-02-22",
+  "outages": [
+    {
+      "date": "Le samedi 22 février 2025 de  08:30:00 à  15:00:00",
+      "streets": "TROIS SOLEIL ET MONTAGNE CABRIS EST",
+      "from": "2025-02-22T04:30:00.000Z",
+      "to": "2025-02-22T11:00:00.000Z",
+      "id": "6147afe8ca19bd111d6fca08acf30202"
+    },
+    {
+      "date": "Le samedi 9 mars 2024 de  08:30:00 à  15:00:00",
+      "streets": "Trois Soleil et Montagne Cabris Est",
+      "from": "2024-03-09T04:30:00.000Z",
+      "to": "2024-03-09T11:00:00.000Z",
+      "id": "ca253e50ed32f41b1b83a196e75fecea"
+    },
+    {
+      "date": "Le samedi 14 octobre 2023 de  08:30:00 à  15:00:00",
+      "streets": "Patate Theophile,Trois Soleil et Montagne Cabris Est",
+      "from": "2023-10-14T04:30:00.000Z",
+      "to": "2023-10-14T11:00:00.000Z",
+      "id": "24a5944e2b6f0367368c59feee517170"
+    },
+    {
+      "date": "Le mardi 23 mai 2023 de  12:00:00 à  15:00:00",
+      "streets": "PATATE THEOPHILE MORCELLEMENT",
+      "from": "2023-05-23T08:00:00.000Z",
+      "to": "2023-05-23T11:00:00.000Z",
+      "id": "ea8c546e4ae8687c142e65251727862f"
+    }
+  ]
+}

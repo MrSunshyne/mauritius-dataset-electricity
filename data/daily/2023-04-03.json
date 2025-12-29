@@ -1,0 +1,68 @@
+{
+  "date": "2023-04-03",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.785Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le lundi 3 avril 2023 de  08:30:00 à  15:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "Morc Eaux Bonnes: Ave La Paix, Ave Canne à Sucre, Ave la Digue, Ave Cocotiers, Ave Allées Jacques, Mangue Vert Doux et Impasse Simonet",
+      "district": "blackriver",
+      "from": "2023-04-03T04:30:00.000Z",
+      "to": "2023-04-03T11:30:00.000Z",
+      "id": "80069bcf2ea87945757f8c169149d655"
+    },
+    {
+      "date": "Le lundi 3 avril 2023 de  10:00:00 à  15:30:00",
+      "locality": "POINTE DE FLACQ",
+      "localitySlug": "pointe-de-flacq",
+      "streets": "POINTE DE FLACQ NEAR ST GERAN HOTEL",
+      "district": "flacq",
+      "from": "2023-04-03T06:00:00.000Z",
+      "to": "2023-04-03T11:30:00.000Z",
+      "id": "002df29a5045c2238895e27c4c439261"
+    },
+    {
+      "date": "Le lundi 3 avril 2023 de  09:00:00 à  15:00:00",
+      "locality": "SAINT HILAIRE",
+      "localitySlug": "saint-hilaire",
+      "streets": "Saint Hilaire et une partie de Saint Hubert",
+      "district": "grandport",
+      "from": "2023-04-03T05:00:00.000Z",
+      "to": "2023-04-03T11:00:00.000Z",
+      "id": "e0112cace4295f3945feea14759663fa"
+    },
+    {
+      "date": "Le lundi 3 avril 2023 de  08:30:00 à  12:30:00",
+      "locality": "BOULINGRIN",
+      "localitySlug": "boulingrin",
+      "streets": "Les abonnés habitant  à Boulingrin, Rivaland, Thomasin, Robinson et Creve Coeur",
+      "district": "pamplemousses",
+      "from": "2023-04-03T04:30:00.000Z",
+      "to": "2023-04-03T08:30:00.000Z",
+      "id": "397ff8bd095874eb81df2cc3a4ad84be"
+    },
+    {
+      "date": "Le lundi 3 avril 2023 de  08:30:00 à  12:30:00",
+      "locality": "CREVE COEUR",
+      "localitySlug": "creve-coeur",
+      "streets": "BOULINGRIN, RIVALAND, THOMASIN ROBINSON ET CREVE COEUR.",
+      "district": "pamplemousses",
+      "from": "2023-04-03T04:30:00.000Z",
+      "to": "2023-04-03T08:30:00.000Z",
+      "id": "ec52785756b8b0bf36f1d039240e8f79"
+    },
+    {
+      "date": "Le lundi 3 avril 2023 de  10:00:00 à  15:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "GOVINDEN LANE FLOREAL, PART CITE MANGALKHAN",
+      "district": "plainewilhems",
+      "from": "2023-04-03T06:00:00.000Z",
+      "to": "2023-04-03T11:00:00.000Z",
+      "id": "a3b85de68250a406c99f95571e5ce34b"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "plaine-de-gersigny",
+  "name": "PLAINE DE GERSIGNY",
+  "district": "flacq",
+  "generated": "2025-12-29T20:14:26.135Z",
+  "outageCount": 4,
+  "firstOutage": "2024-10-09",
+  "lastOutage": "2025-10-15",
+  "outages": [
+    {
+      "date": "Le mercredi 15 octobre 2025 de  15:30:00 à  17:30:00",
+      "streets": "MORC VRS No 2 PLAINE DE GERSIGNY TOWARDS SUNFLOWER AVENUE.",
+      "from": "2025-10-15T11:30:00.000Z",
+      "to": "2025-10-15T13:30:00.000Z",
+      "id": "792245574828a4859170de9e51cde886"
+    },
+    {
+      "date": "Le mercredi 15 octobre 2025 de  12:30:00 à  14:00:00",
+      "streets": "PLAINE DE GERSIGNY",
+      "from": "2025-10-15T08:30:00.000Z",
+      "to": "2025-10-15T10:00:00.000Z",
+      "id": "3b6af97c6392368cd0775298d208c875"
+    },
+    {
+      "date": "Le vendredi 11 juillet 2025 de  00:30:00 à  03:30:00",
+      "streets": "PLAINE DE GERSINY CENTRE DE FLACK",
+      "from": "2025-07-10T20:30:00.000Z",
+      "to": "2025-07-09T23:30:00.000Z",
+      "id": "8223f2b3e0fd577cb7bb78aa44bc47b3"
+    },
+    {
+      "date": "Le mercredi 9 octobre 2024 de  09:00:00 à  17:00:00",
+      "streets": "Morc Plaine Des Gersigny",
+      "from": "2024-10-09T05:00:00.000Z",
+      "to": "2024-10-09T13:00:00.000Z",
+      "id": "1592f50769a6fadd10fc33b6a33cc0ce"
+    }
+  ]
+}

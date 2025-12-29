@@ -1,0 +1,58 @@
+{
+  "date": "2025-10-05",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.849Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le dimanche 5 octobre 2025 de  08:30:00 à  15:30:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "DANS LES ENVIRONS DE PRINCESS MARGARET, LA FORGE, CHAMROO LANE, REVEREN CHANOINE CASSY, EMBREVADE LANE, RAMGOOLAM LANE, BISSESSUR LANE, JOYSARY LANE, MACNAMARA LANE, SHAKESPEARE LANE, DAFFODIL LANE, CHURCH LANE ET AVENUE BEETHOVEN",
+      "district": "blackriver",
+      "from": "2025-10-05T04:30:00.000Z",
+      "to": "2025-10-05T11:30:00.000Z",
+      "id": "8530b0e2f83017dcf4d0dce0539a1436"
+    },
+    {
+      "date": "Le dimanche 5 octobre 2025 de  08:30:00 à  15:30:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "DANS LES ENVIRONS DE PONT BRUNIQUEL ET DES RUES OURSIN, HOMARD ET UNE PARTIE DE LA RUE MACADAM",
+      "district": "pamplemousses",
+      "from": "2025-10-05T04:30:00.000Z",
+      "to": "2025-10-05T11:30:00.000Z",
+      "id": "1aefdf32e3ddc3e049ec1f5478db0e35"
+    },
+    {
+      "date": "Le dimanche 5 octobre 2025 de  09:00:00 à  14:00:00",
+      "locality": "MIDLANDS",
+      "localitySlug": "midlands",
+      "streets": "dans les environs de Grande Ferette et La Chapelle",
+      "district": "plainewilhems",
+      "from": "2025-10-05T05:00:00.000Z",
+      "to": "2025-10-05T10:00:00.000Z",
+      "id": "c6c27c825ace42756ab8b32ce6a40fa2"
+    },
+    {
+      "date": "Le dimanche 5 octobre 2025 de  09:00:00 à  15:00:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "Le village de Souillac, Morcellement Gris Gris, Gris Gris et Domaine Gris Gris",
+      "district": "savanne",
+      "from": "2025-10-05T05:00:00.000Z",
+      "to": "2025-10-05T11:00:00.000Z",
+      "id": "34e2b9814359b509d9cd290755f1d9ae"
+    },
+    {
+      "date": "Le dimanche 5 octobre 2025 de  09:00:00 à  19:30:00",
+      "locality": "RIVIERE DES ANGUILLES",
+      "localitySlug": "riviere-des-anguilles",
+      "streets": "Le village de Riviere Des Anguilles et Camp Martin",
+      "district": "savanne",
+      "from": "2025-10-05T05:00:00.000Z",
+      "to": "2025-10-05T15:30:00.000Z",
+      "id": "faa2f3f55c0034b4c7e33650a02612e0"
+    }
+  ]
+}

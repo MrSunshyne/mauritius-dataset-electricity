@@ -1,0 +1,68 @@
+{
+  "date": "2023-03-17",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.784Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le vendredi 17 mars 2023 de  08:30:00 à  12:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC DE CHAZAL HABITANT DANS LES ENVIRONS DE : AVE DES PERROQUETS, AVE CARRIERE, AVE CATEAUX VERT, AVE DES TOUCANS, AVE DES TOURTEREAUX, AVE DES BENGALIS, AVE DES OIES, AVE DES MANGUIERS ET AVE DES MOUETTES",
+      "district": "blackriver",
+      "from": "2023-03-17T04:30:00.000Z",
+      "to": "2023-03-17T08:30:00.000Z",
+      "id": "cc0b6b719a4dd76729c16402116f6ae2"
+    },
+    {
+      "date": "Le vendredi 17 mars 2023 de  09:30:00 à  10:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC BISMIC",
+      "district": "blackriver",
+      "from": "2023-03-17T05:30:00.000Z",
+      "to": "2023-03-17T06:30:00.000Z",
+      "id": "4e8e96bcc504c69963e582f22bd2226f"
+    },
+    {
+      "date": "Le vendredi 17 mars 2023 de  08:30:00 à  13:00:00",
+      "locality": "POSTE LAFAYETTE",
+      "localitySlug": "poste-lafayette",
+      "streets": "POSTE LA FAYETTE",
+      "district": "flacq",
+      "from": "2023-03-17T04:30:00.000Z",
+      "to": "2023-03-17T09:00:00.000Z",
+      "id": "c4570c96de7fa3c3fd1a95465f56f90f"
+    },
+    {
+      "date": "Le vendredi 17 mars 2023 de  09:00:00 à  17:00:00",
+      "locality": "CAROLINE BEL AIR",
+      "localitySlug": "caroline-bel-air",
+      "streets": "PETIT BOIS",
+      "district": "flacq",
+      "from": "2023-03-17T05:00:00.000Z",
+      "to": "2023-03-17T13:00:00.000Z",
+      "id": "928b0be20d4d1623c574f711fad1bbb5"
+    },
+    {
+      "date": "Le vendredi 17 mars 2023 de  09:00:00 à  14:00:00",
+      "locality": "MONTAGNE BLANCHE",
+      "localitySlug": "montagne-blanche",
+      "streets": "Les abonnés du Village de Montagne Blanche habitant les rues et les régions suivantes : Charbon, EDC et les ruelles avoisinantes",
+      "district": "moka",
+      "from": "2023-03-17T05:00:00.000Z",
+      "to": "2023-03-17T10:00:00.000Z",
+      "id": "1741b405f368b43d28ac87f9c6d91265"
+    },
+    {
+      "date": "Le vendredi 17 mars 2023 de  09:00:00 à  15:30:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "dans les environs de Pointe Azur, WINNERS et Coastal road",
+      "district": "rivieredurempart",
+      "from": "2023-03-17T05:00:00.000Z",
+      "to": "2023-03-17T11:30:00.000Z",
+      "id": "d14c8af5e634fc7329a8f66cedc30476"
+    }
+  ]
+}

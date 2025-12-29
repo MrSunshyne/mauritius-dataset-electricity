@@ -1,0 +1,28 @@
+{
+  "date": "2023-12-26",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.805Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mardi 26 décembre 2023 de  20:00:00 à  23:00:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "RAMSAMY RD- MAGIC RD TROU AUX BICHES",
+      "district": "pamplemousses",
+      "from": "2023-12-26T16:00:00.000Z",
+      "to": "2023-12-26T19:00:00.000Z",
+      "id": "6f9f5c4bf2475b82c0ec22c9c3d7e63a"
+    },
+    {
+      "date": "Le mardi 26 décembre 2023 de  21:00:00 à  00:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "TOPIZE RD-RAKETTE RD-MAHATMA GANDHI RD GRAND BAY",
+      "district": "rivieredurempart",
+      "from": "2023-12-26T17:00:00.000Z",
+      "to": "2023-12-25T20:00:00.000Z",
+      "id": "cad2f3e1f9ce71ee12099da5c40b2eae"
+    }
+  ]
+}

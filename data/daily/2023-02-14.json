@@ -1,0 +1,48 @@
+{
+  "date": "2023-02-14",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.782Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mardi 14 février 2023 de  08:30:00 à  16:30:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "LA MIVOIE ET MORC CARLOS",
+      "district": "blackriver",
+      "from": "2023-02-14T04:30:00.000Z",
+      "to": "2023-02-14T12:30:00.000Z",
+      "id": "757f179a995642e4840c46cc23469759"
+    },
+    {
+      "date": "Le mardi 14 février 2023 de  09:30:00 à  12:00:00",
+      "locality": "CAMP LEVIEUX ( R HILL )",
+      "localitySlug": "camp-levieux",
+      "streets": "PART OF BERTHAUD AVE,AVE TOUREAU",
+      "district": "plainewilhems",
+      "from": "2023-02-14T05:30:00.000Z",
+      "to": "2023-02-14T08:00:00.000Z",
+      "id": "5c984028afcf748d09f0cf2af0571aef"
+    },
+    {
+      "date": "Le mardi 14 février 2023 de  12:30:00 à  16:30:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "LES ABONNES DE ROUTE BASSIN LE CORNU SAINTE CROIX.",
+      "district": "portlouis",
+      "from": "2023-02-14T08:30:00.000Z",
+      "to": "2023-02-14T12:30:00.000Z",
+      "id": "d9dc644dd35cc506fcbcbf6cca05e614"
+    },
+    {
+      "date": "Le mardi 14 février 2023 de  12:30:00 à  14:30:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "LES ABONNES DE POINTE DES LASCARS",
+      "district": "rivieredurempart",
+      "from": "2023-02-14T08:30:00.000Z",
+      "to": "2023-02-14T10:30:00.000Z",
+      "id": "cc2255b65cc45c705e4516ad610f5e7c"
+    }
+  ]
+}

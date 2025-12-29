@@ -1,0 +1,60 @@
+{
+  "slug": "mlle-laure",
+  "name": "MLLE LAURE",
+  "district": "portlouis",
+  "generated": "2025-12-29T20:14:26.084Z",
+  "outageCount": 7,
+  "firstOutage": "2022-11-26",
+  "lastOutage": "2025-11-22",
+  "outages": [
+    {
+      "date": "Le samedi 22 novembre 2025 de  12:00:00 à  14:00:00",
+      "streets": "Bhorut Lane Mlle Laure TERRE ROUGE",
+      "from": "2025-11-22T08:00:00.000Z",
+      "to": "2025-11-22T10:00:00.000Z",
+      "id": "781776cdcdeb8699274428d7b2dfc85e"
+    },
+    {
+      "date": "Le vendredi 31 octobre 2025 de  16:40:00 à  17:30:00",
+      "streets": "PART OF MLLE LAURE",
+      "from": "2025-10-31T12:40:00.000Z",
+      "to": "2025-10-31T13:30:00.000Z",
+      "id": "8f8afcf33b6063f292cc0e7bae83b7f1"
+    },
+    {
+      "date": "Le samedi 25 janvier 2025 de  09:50:00 à  12:00:00",
+      "streets": "MLLE LAURE TERRE ROUGE",
+      "from": "2025-01-25T05:50:00.000Z",
+      "to": "2025-01-25T08:00:00.000Z",
+      "id": "c9cfaba1287f0433ca82c670ca68e346"
+    },
+    {
+      "date": "Le mercredi 11 octobre 2023 de  15:00:00 à  16:30:00",
+      "streets": "ROUTE ROYALE MAMZELLE LAURE EN DIRECTION ROND POINT KHOYRATTY.",
+      "from": "2023-10-11T11:00:00.000Z",
+      "to": "2023-10-11T12:30:00.000Z",
+      "id": "837af54d22db1b73fd50b961924c4f23"
+    },
+    {
+      "date": "Le samedi 8 juillet 2023 de  08:30:00 à  15:00:00",
+      "streets": "LES ABONNES DE MLLE LAURE",
+      "from": "2023-07-08T04:30:00.000Z",
+      "to": "2023-07-08T11:00:00.000Z",
+      "id": "123abdde374a07261ec8e575abc20fd6"
+    },
+    {
+      "date": "Le samedi 10 décembre 2022 de  08:30:00 à  15:30:00",
+      "streets": "Les abonnés habitant des Mamzel Laure, Shaffa Trading, Garage Ravin et Bhorut Lane et Route Royal Mamzel Laure",
+      "from": "2022-12-10T04:30:00.000Z",
+      "to": "2022-12-10T11:30:00.000Z",
+      "id": "850bed3efc345845ce51b72c740b12cd"
+    },
+    {
+      "date": "Le samedi 26 novembre 2022 de  08:30:00 à  15:30:00",
+      "streets": "Les abonnés habitant des Mamzel Laure, Shaffa Trading, Garage Ravin et Bhorut Lane et Route Royal Mamzel Laure",
+      "from": "2022-11-26T04:30:00.000Z",
+      "to": "2022-11-26T11:30:00.000Z",
+      "id": "40294c1750f7d9fe07fe9af846f11b2b"
+    }
+  ]
+}

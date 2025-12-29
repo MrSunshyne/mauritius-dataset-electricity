@@ -1,0 +1,78 @@
+{
+  "date": "2023-03-21",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.784Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le mardi 21 mars 2023 de  13:00:00 à  15:00:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "MARKET RD BAMBOUS",
+      "district": "blackriver",
+      "from": "2023-03-21T09:00:00.000Z",
+      "to": "2023-03-21T11:00:00.000Z",
+      "id": "85f441c40e44d5ddfe4bca0446be6b06"
+    },
+    {
+      "date": "Le mardi 21 mars 2023 de  13:45:00 à  15:30:00",
+      "locality": "VERDUN",
+      "localitySlug": "verdun",
+      "streets": "VERDUN",
+      "district": "moka",
+      "from": "2023-03-21T09:45:00.000Z",
+      "to": "2023-03-21T11:30:00.000Z",
+      "id": "751029354dc1d6eba09243eecae44cae"
+    },
+    {
+      "date": "Le mardi 21 mars 2023 de  14:15:00 à  15:15:00",
+      "locality": "HELVETIA",
+      "localitySlug": "helvetia",
+      "streets": "HELVETIA MOKA",
+      "district": "moka",
+      "from": "2023-03-21T10:15:00.000Z",
+      "to": "2023-03-21T11:15:00.000Z",
+      "id": "e8fa55e2b45ac2e8c892a989f3b2221c"
+    },
+    {
+      "date": "Le mardi 21 mars 2023 de  14:00:00 à  15:30:00",
+      "locality": "CREVE COEUR",
+      "localitySlug": "creve-coeur",
+      "streets": "ROBINSON CREVE COEUR",
+      "district": "pamplemousses",
+      "from": "2023-03-21T10:00:00.000Z",
+      "to": "2023-03-21T11:30:00.000Z",
+      "id": "20b6f504ee120c645c649d5dc70993ee"
+    },
+    {
+      "date": "Le mardi 21 mars 2023 de  09:00:00 à  14:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "Les abonnés de Forest-Side habitant les rues et les régions  suivantes : Fréderic Bonnefin, Impasse Derby, Cite Versailles, Gustave Colin, partie de Gabriel Froppier, Impasse Lagesse, Poivre, Avenue Jean 23 et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-03-21T05:00:00.000Z",
+      "to": "2023-03-21T10:00:00.000Z",
+      "id": "7156b15f6c7b096fdba94aae8ae3e043"
+    },
+    {
+      "date": "Le mardi 21 mars 2023 de  10:00:00 à  11:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "LES ABONNES DE 16EME MILLE DANS LES ENVIRONS MORC SOOBHANY, NHDC HIACYNTHE, CORIOLIS RD, RAMPARSAD RD ET LES RUELLE AVOISINANTES.",
+      "district": "plainewilhems",
+      "from": "2023-03-21T06:00:00.000Z",
+      "to": "2023-03-21T07:00:00.000Z",
+      "id": "0e8e98281f08502a7ce2dc3c2d1c636b"
+    },
+    {
+      "date": "Le mardi 21 mars 2023 de  15:00:00 à  18:30:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "ALLY LANE VALLEE DES PRETRES",
+      "district": "portlouis",
+      "from": "2023-03-21T11:00:00.000Z",
+      "to": "2023-03-21T14:30:00.000Z",
+      "id": "153448a711a3f90897f4d01e82beae48"
+    }
+  ]
+}

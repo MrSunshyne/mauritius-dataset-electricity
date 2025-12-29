@@ -1,0 +1,67 @@
+{
+  "slug": "yemen",
+  "name": "YEMEN",
+  "district": "blackriver",
+  "generated": "2025-12-29T20:14:26.254Z",
+  "outageCount": 8,
+  "firstOutage": "2022-05-13",
+  "lastOutage": "2025-10-07",
+  "outages": [
+    {
+      "date": "Le mardi 7 octobre 2025 de  08:30:00 à  15:00:00",
+      "streets": "ANTENNA TELECOM",
+      "from": "2025-10-07T04:30:00.000Z",
+      "to": "2025-10-07T11:00:00.000Z",
+      "id": "d18d339b247454e5bc6a619203c3c637"
+    },
+    {
+      "date": "Le mardi 28 janvier 2025 de  08:30:00 à  15:30:00",
+      "streets": "Yemen Camp, Tamarin Camp, Wahala Pumping et Medine Cold Store",
+      "from": "2025-01-28T04:30:00.000Z",
+      "to": "2025-01-28T11:30:00.000Z",
+      "id": "ea6c79fe029c4dada848f789acac2e9e"
+    },
+    {
+      "date": "Le dimanche 17 novembre 2024 de  08:30:00 à  15:30:00",
+      "streets": "WAHALA PUMPING, YEMEN CAMP ET CAMPEMENT DE CHASSE",
+      "from": "2024-11-17T04:30:00.000Z",
+      "to": "2024-11-17T11:30:00.000Z",
+      "id": "989868dac216d48a9d395a731c1dee77"
+    },
+    {
+      "date": "Le dimanche 1 octobre 2023 de  09:30:00 à  14:00:00",
+      "streets": "CAMP YEMEN, CHASSEE YEMEN.",
+      "from": "2023-10-01T05:30:00.000Z",
+      "to": "2023-10-01T10:00:00.000Z",
+      "id": "725251770fe60f8c9d266a0858a8ec37"
+    },
+    {
+      "date": "Le mercredi 30 août 2023 de  08:30:00 à  15:30:00",
+      "streets": "WAHALA PUMPING, YEMEN CAMP ET DU CAMPEMENT DE CHASSE",
+      "from": "2023-08-30T04:30:00.000Z",
+      "to": "2023-08-30T11:30:00.000Z",
+      "id": "7815732fb4419e14ba9c65069c5abd0f"
+    },
+    {
+      "date": "Le vendredi 25 août 2023 de  08:30:00 à  15:30:00",
+      "streets": "WAHALA PUMPING, YEMEN CAMP ET CAMPEMENT DE CHASSE",
+      "from": "2023-08-25T04:30:00.000Z",
+      "to": "2023-08-25T11:30:00.000Z",
+      "id": "8dd3a99742e9a4212fe341aa97b48795"
+    },
+    {
+      "date": "Le samedi 19 novembre 2022 de  08:30:00 à  15:30:00",
+      "streets": "YEMEN CAMP, TAMARIN CAMP, WAHALA PUMPING ET MEDINE COLD STORE",
+      "from": "2022-11-19T04:30:00.000Z",
+      "to": "2022-11-19T11:30:00.000Z",
+      "id": "64dcbf0e69136367d7df5e708cef62c7"
+    },
+    {
+      "date": "Le vendredi 13 mai 2022 de  08:30:00 à  15:30:00",
+      "streets": "YEMEN CAMP, TAMARIN CAMP, WAHALA PUMPING ET MEDINE COLD STORE",
+      "from": "2022-05-13T04:30:00.000Z",
+      "to": "2022-05-13T11:30:00.000Z",
+      "id": "7aac5704e52de59d76667dd07e269eb6"
+    }
+  ]
+}

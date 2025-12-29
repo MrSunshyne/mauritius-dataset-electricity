@@ -1,0 +1,68 @@
+{
+  "date": "2023-07-27",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.793Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le jeudi 27 juillet 2023 de  08:30:00 à  16:30:00",
+      "locality": "LA MIVOIE",
+      "localitySlug": "la-mivoie",
+      "streets": "LA MIVOIE  ET LES ENVIRONS",
+      "district": "blackriver",
+      "from": "2023-07-27T04:30:00.000Z",
+      "to": "2023-07-27T12:30:00.000Z",
+      "id": "5ae4444e73136a2cfc6a9536e0e808fc"
+    },
+    {
+      "date": "Le jeudi 27 juillet 2023 de  08:30:00 à  17:00:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "DANS LES ENVIRONS DE LEGLISE ET CHEMIN BOULAGERIE.",
+      "district": "flacq",
+      "from": "2023-07-27T04:30:00.000Z",
+      "to": "2023-07-27T13:00:00.000Z",
+      "id": "d6b8e238ed74a69b7bcca948482521da"
+    },
+    {
+      "date": "Le jeudi 27 juillet 2023 de  09:00:00 à  16:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "DANS LES ENVIRONS DES RUES PONT BRUNIQUEL, LANGOUSTE, HOMARD ET CRABES",
+      "district": "pamplemousses",
+      "from": "2023-07-27T05:00:00.000Z",
+      "to": "2023-07-27T12:00:00.000Z",
+      "id": "bd795933330600ee1f6c8428bf4871ae"
+    },
+    {
+      "date": "Le jeudi 27 juillet 2023 de  12:00:00 à  16:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Robinson, Curepipe habitant les rues et les régions suivantes : Partie de Hardline lane et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-07-27T08:00:00.000Z",
+      "to": "2023-07-27T12:00:00.000Z",
+      "id": "6d5196bd1ec9c2e4af0feae0e3d12d94"
+    },
+    {
+      "date": "Le jeudi 27 juillet 2023 de  10:30:00 à  14:00:00",
+      "locality": "VALLEE PITOT",
+      "localitySlug": "vallee-pitot",
+      "streets": "Rues Chalet & Inkerman",
+      "district": "portlouis",
+      "from": "2023-07-27T06:30:00.000Z",
+      "to": "2023-07-27T10:00:00.000Z",
+      "id": "dbe9134ae7d3c80fa5225cd5110d6f4c"
+    },
+    {
+      "date": "Le jeudi 27 juillet 2023 de  09:00:00 à  14:30:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "dans les environs de Kashmir road et Ave Pere Glorieux",
+      "district": "rivieredurempart",
+      "from": "2023-07-27T05:00:00.000Z",
+      "to": "2023-07-27T10:30:00.000Z",
+      "id": "fcd566b2baaeb20504d123e2683e43b4"
+    }
+  ]
+}

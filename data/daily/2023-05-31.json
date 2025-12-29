@@ -1,0 +1,48 @@
+{
+  "date": "2023-05-31",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.789Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mercredi 31 mai 2023 de  13:00:00 à  18:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "CITE DOOL-MORC TARA-MORC FOUNDUN ROYAL RD TERRE ROUGE",
+      "district": "pamplemousses",
+      "from": "2023-05-31T09:00:00.000Z",
+      "to": "2023-05-31T14:00:00.000Z",
+      "id": "d25ab1b7bf95de182e120cb3f767ba51"
+    },
+    {
+      "date": "Le mercredi 31 mai 2023 de  16:00:00 à  17:00:00",
+      "locality": "HOLLYROOD",
+      "localitySlug": "hollyrood",
+      "streets": "VACOAS AND HOLLYROOD: Hollyrood No. 1, une partie du Route La Marie, une partie du Route Quinze-Cantons No .2, Trois-Mamelles, une partie du Route Dévergués",
+      "district": "plainewilhems",
+      "from": "2023-05-31T12:00:00.000Z",
+      "to": "2023-05-31T13:00:00.000Z",
+      "id": "30084597835fec8e2170fd30cc518ac6"
+    },
+    {
+      "date": "Le mercredi 31 mai 2023 de  08:30:00 à  09:30:00",
+      "locality": "HOLLYROOD",
+      "localitySlug": "hollyrood",
+      "streets": "Hollyrood No. 1, une partie du Route La Marie, une partie du Route Quinze-Cantons No .2, Trois-Mamelles, une partie du Route Dévergués",
+      "district": "plainewilhems",
+      "from": "2023-05-31T04:30:00.000Z",
+      "to": "2023-05-31T05:30:00.000Z",
+      "id": "9af96c96938c235d2b88d4077800940f"
+    },
+    {
+      "date": "Le mercredi 31 mai 2023 de  13:30:00 à  15:00:00",
+      "locality": "16EME MILE",
+      "localitySlug": "16eme-mile",
+      "streets": "MORC SOOBANY 16EME MILLE FOREST SIDE",
+      "district": "plainewilhems",
+      "from": "2023-05-31T09:30:00.000Z",
+      "to": "2023-05-31T11:00:00.000Z",
+      "id": "0d8b096ec72d8fc65b1721b562647dfd"
+    }
+  ]
+}

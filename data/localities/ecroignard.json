@@ -1,0 +1,46 @@
+{
+  "slug": "ecroignard",
+  "name": "ECROIGNARD",
+  "district": "flacq",
+  "generated": "2025-12-29T20:14:25.996Z",
+  "outageCount": 5,
+  "firstOutage": "2023-05-13",
+  "lastOutage": "2025-10-06",
+  "outages": [
+    {
+      "date": "Le lundi 6 octobre 2025 de  08:45:00 à  11:00:00",
+      "streets": "VILLAGE HALL AND SURROUNDINGS",
+      "from": "2025-10-06T04:45:00.000Z",
+      "to": "2025-10-06T07:00:00.000Z",
+      "id": "3158dcd32b6122affa3f763b7ae69108"
+    },
+    {
+      "date": "Le lundi 22 septembre 2025 de  09:15:00 à  11:30:00",
+      "streets": "DISPENSARY,GOVT SCHOOL AND NEARBY REGION",
+      "from": "2025-09-22T05:15:00.000Z",
+      "to": "2025-09-22T07:30:00.000Z",
+      "id": "08795d41e544edebe12533e0e13e1a26"
+    },
+    {
+      "date": "Le mardi 16 septembre 2025 de  14:45:00 à  15:45:00",
+      "streets": "DISPENSARY, LA PLAINE AND NEARBY REGION",
+      "from": "2025-09-16T10:45:00.000Z",
+      "to": "2025-09-16T11:45:00.000Z",
+      "id": "bf30992c5afd075bb3ae51d6808a999b"
+    },
+    {
+      "date": "Le mercredi 8 novembre 2023 de  14:00:00 à  16:00:00",
+      "streets": "VILLAGE ECROIGNARD",
+      "from": "2023-11-08T10:00:00.000Z",
+      "to": "2023-11-08T12:00:00.000Z",
+      "id": "86da9db9e02ea3a7a0d968f59117bb6d"
+    },
+    {
+      "date": "Le samedi 13 mai 2023 de  08:15:00 à  17:00:00",
+      "streets": "ECROIGNARD-MORC BRAMSTHAN-CAMP ITHIER",
+      "from": "2023-05-13T04:15:00.000Z",
+      "to": "2023-05-13T13:00:00.000Z",
+      "id": "bb7c2d0cf7a6ab59065ea96df835ee88"
+    }
+  ]
+}

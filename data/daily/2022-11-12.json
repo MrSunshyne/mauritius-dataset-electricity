@@ -1,0 +1,38 @@
+{
+  "date": "2022-11-12",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.775Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le samedi 12 novembre 2022 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC ANNA-AVE DES BALEINES, AVE DES CATEAUX,LE COMPLEX CARRE DOR 5, UNE PARTIE DE LAVE SOUFFLEUR ET AVE SUNSET",
+      "district": "blackriver",
+      "from": "2022-11-12T04:30:00.000Z",
+      "to": "2022-11-12T11:30:00.000Z",
+      "id": "f6ed428642db2d8b6f356037708b8be0"
+    },
+    {
+      "date": "Le samedi 12 novembre 2022 de  09:00:00 à  14:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Residence Kennedy et en partie dans les environs de Victoria Hospital",
+      "district": "plainewilhems",
+      "from": "2022-11-12T05:00:00.000Z",
+      "to": "2022-11-12T10:00:00.000Z",
+      "id": "fd612a5111014c0dc5a5db2cbb8df251"
+    },
+    {
+      "date": "Le samedi 12 novembre 2022 de  08:30:00 à  15:30:00",
+      "locality": "CITE CHEBEL",
+      "localitySlug": "cite-chebel",
+      "streets": "Edgar Nairac, Raoul Rivet et Venkatasamy",
+      "district": "plainewilhems",
+      "from": "2022-11-12T04:30:00.000Z",
+      "to": "2022-11-12T11:30:00.000Z",
+      "id": "dad66e0b5e0187b0fe4ff2fc6286058c"
+    }
+  ]
+}

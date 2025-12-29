@@ -1,0 +1,739 @@
+{
+  "slug": "bambous",
+  "name": "BAMBOUS",
+  "district": "blackriver",
+  "generated": "2025-12-29T20:14:25.885Z",
+  "outageCount": 104,
+  "firstOutage": "2022-04-12",
+  "lastOutage": "2025-11-16",
+  "outages": [
+    {
+      "date": "Le dimanche 16 novembre 2025 de  19:00:00 à  23:00:00",
+      "streets": "AVENUE DES SOURCES, AVENUE CENTRALE, AVENUE LA FERME ET LES ENVIRONS.",
+      "from": "2025-11-16T15:00:00.000Z",
+      "to": "2025-11-16T19:00:00.000Z",
+      "id": "a81025047521a283d3adc9cb271044c3"
+    },
+    {
+      "date": "Le dimanche 16 novembre 2025 de  08:30:00 à  15:30:00",
+      "streets": "LA ZONE INDUSTRIELLE DE BAMBOUS- KEYSTONE TIMBER LTD, SKILL ROOFING LTD ET LEMON AND LIME LTD",
+      "from": "2025-11-16T04:30:00.000Z",
+      "to": "2025-11-16T11:30:00.000Z",
+      "id": "d51aea39843f76714d4ace2455c90a97"
+    },
+    {
+      "date": "Le mercredi 12 novembre 2025 de  12:45:00 à  13:45:00",
+      "streets": "ALLEE TAMARIN ST, VAUDAGNE ST ET LES ENVIRONS",
+      "from": "2025-11-12T08:45:00.000Z",
+      "to": "2025-11-12T09:45:00.000Z",
+      "id": "ec16cad152b78f7cb850e4ea30d38672"
+    },
+    {
+      "date": "Le dimanche 9 novembre 2025 de  08:30:00 à  14:00:00",
+      "streets": "ALLEE TAMARIN, AVE MANGUIER, AVE BRIGANDS, AVE BELLE ISLE, BOUNDARY ROAD, ALLEE JACQUES, VAUDAGNE ROAD, AVE DRAGON ET AVE LA PAIX BAMBOUS",
+      "from": "2025-11-09T04:30:00.000Z",
+      "to": "2025-11-09T10:00:00.000Z",
+      "id": "8461052825cf00482a12bde503d26f12"
+    },
+    {
+      "date": "Le vendredi 7 novembre 2025 de  16:20:00 à  17:30:00",
+      "streets": "ZONE INDUSTRIELLE",
+      "from": "2025-11-07T12:20:00.000Z",
+      "to": "2025-11-07T13:30:00.000Z",
+      "id": "90d386513d426e8132ce91acacd5fa63"
+    },
+    {
+      "date": "Le samedi 1 novembre 2025 de  08:30:00 à  15:30:00",
+      "streets": "LA ZONE INDUSTRIELLE BAMBOUS, DAKRI, DOMAIN IZI ET MONTAGNE ST PIERRE BAMBOUS",
+      "from": "2025-11-01T04:30:00.000Z",
+      "to": "2025-11-01T11:30:00.000Z",
+      "id": "8026907daaa995bab430aec6205d7cf7"
+    },
+    {
+      "date": "Le dimanche 12 octobre 2025 de  08:30:00 à  14:00:00",
+      "streets": "ALLEE TAMARIN, AVE DE LINDEPENDANCE, AVE MANGUIER, AVE BRIGANDS, AVE BELLE ISLE, BOUNDARY ROAD, ALLEE JACQUES, VAUDAGNE ROAD, SHIVALA LANE, KALEE LANE, SCHOOL LANE ET ROYAL ROAD BAMBOUS",
+      "from": "2025-10-12T04:30:00.000Z",
+      "to": "2025-10-12T10:00:00.000Z",
+      "id": "b1c43153cf28cdc4c117fb49e868c5b4"
+    },
+    {
+      "date": "Le vendredi 10 octobre 2025 de  12:00:00 à  15:00:00",
+      "streets": "LA ZONE INDUSTRIELLE DE BAMBOUS ET DAKRI",
+      "from": "2025-10-10T08:00:00.000Z",
+      "to": "2025-10-10T11:00:00.000Z",
+      "id": "395960c4b14b1f578be5dfa2eb2e5e24"
+    },
+    {
+      "date": "Le vendredi 10 octobre 2025 de  08:30:00 à  15:30:00",
+      "streets": "MORC VRS BAMBOUS ET UNE PARTIE DE LA ROUTE GEOFFROY",
+      "from": "2025-10-10T04:30:00.000Z",
+      "to": "2025-10-10T11:30:00.000Z",
+      "id": "4980c8e7c451d1bdacb8af4cd7a4edfd"
+    },
+    {
+      "date": "Le vendredi 26 septembre 2025 de  08:30:00 à  15:30:00",
+      "streets": "MORC VRS MONT REPOS BAMBOUS ET CAMP MAIS",
+      "from": "2025-09-26T04:30:00.000Z",
+      "to": "2025-09-26T11:30:00.000Z",
+      "id": "4aa6d49d44b8ac356a6bda6201b87b5c"
+    },
+    {
+      "date": "Le samedi 20 septembre 2025 de  08:30:00 à  16:00:00",
+      "streets": "La Zone Industrielle Bambous, Montagne St Pierre Crematorium, Dakri Paper, Morc VRS Bambous et une partie de la Route Geoffroy",
+      "from": "2025-09-20T04:30:00.000Z",
+      "to": "2025-09-20T12:00:00.000Z",
+      "id": "1723a9e460da75f2610d50c32e48effa"
+    },
+    {
+      "date": "Le vendredi 19 septembre 2025 de  08:30:00 à  09:30:00",
+      "streets": "Industrial Zone,Geofrroy BAMBOUS",
+      "from": "2025-09-19T04:30:00.000Z",
+      "to": "2025-09-19T05:30:00.000Z",
+      "id": "7620f51a30542dce2435542445b65176"
+    },
+    {
+      "date": "Le mercredi 10 septembre 2025 de  09:00:00 à  16:30:00",
+      "streets": "Zone Industriel",
+      "from": "2025-09-10T05:00:00.000Z",
+      "to": "2025-09-10T12:30:00.000Z",
+      "id": "f6becede0747cd5cfe12ae29251f4afd"
+    },
+    {
+      "date": "Le dimanche 24 août 2025 de  18:50:00 à  21:15:00",
+      "streets": "Residence La Ferme",
+      "from": "2025-08-24T14:50:00.000Z",
+      "to": "2025-08-24T17:15:00.000Z",
+      "id": "f10f579be50ff8b95a7d18314b59d32c"
+    },
+    {
+      "date": "Le dimanche 20 juillet 2025 de  08:30:00 à  14:00:00",
+      "streets": "STATELAND LA VALETTE",
+      "from": "2025-07-20T04:30:00.000Z",
+      "to": "2025-07-20T10:00:00.000Z",
+      "id": "1b84bf34295145f40f8beb7b712a1cfb"
+    },
+    {
+      "date": "Le vendredi 11 juillet 2025 de  15:30:00 à  17:00:00",
+      "streets": "LES ABONNES MORC VRS No 3.",
+      "from": "2025-07-11T11:30:00.000Z",
+      "to": "2025-07-11T13:00:00.000Z",
+      "id": "5cf286aec2113d6879f74d5225afa67b"
+    },
+    {
+      "date": "Le lundi 7 juillet 2025 de  09:00:00 à  13:00:00",
+      "streets": "LA VALLETTE BAMBOUS",
+      "from": "2025-07-07T05:00:00.000Z",
+      "to": "2025-07-07T09:00:00.000Z",
+      "id": "13cc69094db92f144d292de2d828312e"
+    },
+    {
+      "date": "Le dimanche 6 juillet 2025 de  08:30:00 à  15:30:00",
+      "streets": "RESIDENCE LA FERME, MAGIC DEAL, LE STADE GERMAIN COMARMOND BAMBOUS, POLYECO LTD ET CHAUMIERE TRANSFER STATION",
+      "from": "2025-07-06T04:30:00.000Z",
+      "to": "2025-07-06T11:30:00.000Z",
+      "id": "f49d74dc8ceaca8c7ba703e711304566"
+    },
+    {
+      "date": "Le vendredi 27 juin 2025 de  10:00:00 à  12:00:00",
+      "streets": "ELYSEE ROAD, ROYAL ROAD, NEAR SSS",
+      "from": "2025-06-27T06:00:00.000Z",
+      "to": "2025-06-27T08:00:00.000Z",
+      "id": "f3244300b9f1dcdc193f32095151eaca"
+    },
+    {
+      "date": "Le samedi 12 avril 2025 de  17:00:00 à  18:30:00",
+      "streets": "PART OF BAMBOUS",
+      "from": "2025-04-12T13:00:00.000Z",
+      "to": "2025-04-12T14:30:00.000Z",
+      "id": "9952b280c84996d05e670d44c2dc9eb6"
+    },
+    {
+      "date": "Le samedi 22 mars 2025 de  08:30:00 à  15:30:00",
+      "streets": "ROUTE ROYALE BAMBOUS, WINNERS BAMBOUS, MORC BELLE ISLE OSMAN, MORC WINNERS, SHIVALA BAMBOUS ET BAMBOUS AREA HEALTH CENTRE",
+      "from": "2025-03-22T04:30:00.000Z",
+      "to": "2025-03-22T11:30:00.000Z",
+      "id": "8549f3aa242ac48fcfad154a256fe03b"
+    },
+    {
+      "date": "Le mardi 18 mars 2025 de  16:00:00 à  23:00:00",
+      "streets": "GEOFFROY BAMBOUS",
+      "from": "2025-03-18T12:00:00.000Z",
+      "to": "2025-03-18T19:00:00.000Z",
+      "id": "3bcce0ac462618027e45963e19e81cc7"
+    },
+    {
+      "date": "Le vendredi 7 mars 2025 de  09:30:00 à  14:00:00",
+      "streets": "CASCAVELLE BUSINESS PARK NO.2",
+      "from": "2025-03-07T05:30:00.000Z",
+      "to": "2025-03-07T10:00:00.000Z",
+      "id": "350e8804ff0fcef8e15ec3cac5c41b8e"
+    },
+    {
+      "date": "Le mercredi 5 mars 2025 de  09:30:00 à  14:00:00",
+      "streets": "CASCAVELLE BUSINESS PARK NO.2",
+      "from": "2025-03-05T05:30:00.000Z",
+      "to": "2025-03-05T10:00:00.000Z",
+      "id": "794924ae4a5618a1a1924a4e7564b44a"
+    },
+    {
+      "date": "Le lundi 27 janvier 2025 de  20:00:00 à  22:00:00",
+      "streets": "NHDC BAMBOUS",
+      "from": "2025-01-27T16:00:00.000Z",
+      "to": "2025-01-27T18:00:00.000Z",
+      "id": "bb3c64c0c5adee0c3da45658f790f3a3"
+    },
+    {
+      "date": "Le dimanche 26 janvier 2025 de  08:30:00 à  15:30:00",
+      "streets": "Residence La Ferme, Magic Deal, Le Stade Germain Commarmond Bambous, Polyeco Ltd et Chaumiere Transfer Station",
+      "from": "2025-01-26T04:30:00.000Z",
+      "to": "2025-01-26T11:30:00.000Z",
+      "id": "49365b4ba999766a6a270be425bda9ab"
+    },
+    {
+      "date": "Le dimanche 19 janvier 2025 de  08:30:00 à  15:30:00",
+      "streets": "Zone Industrielle Bambous, Ave Limit, Ave des Fleurs, Ave                Lavandière, NHDC Bambous, Residences Geoffroy, Residences Bamboula, Morc VRS Bambous et une partie de la Route Geoffroy      -Planned",
+      "from": "2025-01-19T04:30:00.000Z",
+      "to": "2025-01-19T11:30:00.000Z",
+      "id": "005534c6eb56ba672de50215324d897b"
+    },
+    {
+      "date": "Le mardi 14 janvier 2025 de  09:00:00 à  11:00:00",
+      "streets": "AVE BOUNDARY,AVE DRAGON, ALLEE TAMARIN,JACQUES,MANGUIERS",
+      "from": "2025-01-14T05:00:00.000Z",
+      "to": "2025-01-14T07:00:00.000Z",
+      "id": "86005113e06df559e5534db59aaf44e6"
+    },
+    {
+      "date": "Le dimanche 12 janvier 2025 de  08:30:00 à  15:30:00",
+      "streets": "Route Geoffroy Bambous, UBP et Premix",
+      "from": "2025-01-12T04:30:00.000Z",
+      "to": "2025-01-12T11:30:00.000Z",
+      "id": "96c642bdad18a857f2f5268f2c4b55cf"
+    },
+    {
+      "date": "Le samedi 11 janvier 2025 de  08:30:00 à  15:30:00",
+      "streets": "Morc Eaux Bonnes, Ave Dragon, Ave Boundary, Ave Mangue Vert Doux, Allée Jacques et Ave Vaudagne",
+      "from": "2025-01-11T04:30:00.000Z",
+      "to": "2025-01-11T11:30:00.000Z",
+      "id": "e054087d7e2a4cabeba2d3bd8129d987"
+    },
+    {
+      "date": "Le mercredi 8 janvier 2025 de  11:00:00 à  15:00:00",
+      "streets": "ALLEE JACQUES",
+      "from": "2025-01-08T07:00:00.000Z",
+      "to": "2025-01-08T11:00:00.000Z",
+      "id": "64e5fbe37f8601819aa0092440333a8d"
+    },
+    {
+      "date": "Le dimanche 1 décembre 2024 de  08:30:00 à  14:00:00",
+      "streets": "LA VALETTE",
+      "from": "2024-12-01T04:30:00.000Z",
+      "to": "2024-12-01T10:00:00.000Z",
+      "id": "6c029e9207abfffa6324e73132233ee4"
+    },
+    {
+      "date": "Le vendredi 8 novembre 2024 de  09:30:00 à  14:00:00",
+      "streets": "MEDINE - LEX MOULIN SUCRIERE DE MEDINE",
+      "from": "2024-11-08T05:30:00.000Z",
+      "to": "2024-11-08T10:00:00.000Z",
+      "id": "51ff6c3a38615e78ac0c786d8ffcda37"
+    },
+    {
+      "date": "Le jeudi 22 août 2024 de  11:00:00 à  14:00:00",
+      "streets": "CITE LA FERME BAMBOUS",
+      "from": "2024-08-22T07:00:00.000Z",
+      "to": "2024-08-22T10:00:00.000Z",
+      "id": "db2729ab04693bc7e0825f2d7e05d1a1"
+    },
+    {
+      "date": "Le samedi 13 juillet 2024 de  08:30:00 à  15:30:00",
+      "streets": "Ave Central, Ave Limit, Ave Folles Herbes, Ave Des Bricoleurs, Ave Des Fleurs, Ave Lavandiere, Ave Des Sources, NHDC Bambous, Residence Geoffroy, Residence Bamboola, Morc VRS Geoffroy et une partie de la route Geoffroy",
+      "from": "2024-07-13T04:30:00.000Z",
+      "to": "2024-07-13T11:30:00.000Z",
+      "id": "fce471ee3ed0173ad3d538a9fdd62643"
+    },
+    {
+      "date": "Le dimanche 7 juillet 2024 de  08:30:00 à  15:30:00",
+      "streets": "Poste de Police de Bambous, Ave Ellipée, Ave Nairac, une partie de la Route Royale et Ave Geoffroy Bambous",
+      "from": "2024-07-07T04:30:00.000Z",
+      "to": "2024-07-07T11:30:00.000Z",
+      "id": "905a34898ec0fd12d7803cdb5d038e83"
+    },
+    {
+      "date": "Le dimanche 16 juin 2024 de  08:30:00 à  14:00:00",
+      "streets": "STATELAND LA VALETTE",
+      "from": "2024-06-16T04:30:00.000Z",
+      "to": "2024-06-16T10:00:00.000Z",
+      "id": "6856e92de0445aaaea18fd54afca9202"
+    },
+    {
+      "date": "Le samedi 15 juin 2024 de  08:30:00 à  15:30:00",
+      "streets": "Ave Central, Ave Des Fleurs, Ave Des Lavandieres, Ave Des Sources, Ave St Sauveur, Ave La Ferme et une partie de la route Geoffroy",
+      "from": "2024-06-15T04:30:00.000Z",
+      "to": "2024-06-15T11:30:00.000Z",
+      "id": "18e43b746d3b9384abefb26b07fa9d21"
+    },
+    {
+      "date": "Le jeudi 4 avril 2024 de  08:30:00 à  13:00:00",
+      "streets": "NHDC BAMBOUS, RESIDENCES GEOFFROY, RESIDENCES BAMBOULA, SOS CHILDREN VILLAGE ET BLACK RIVER DISTRICT COUNCIL",
+      "from": "2024-04-04T04:30:00.000Z",
+      "to": "2024-04-04T09:00:00.000Z",
+      "id": "45cbc6cfd465fefea89ae21acb6fe1c9"
+    },
+    {
+      "date": "Le lundi 1 avril 2024 de  09:30:00 à  12:30:00",
+      "streets": "Aves Tamarin,Brigand,Manguier,Independance",
+      "from": "2024-04-01T05:30:00.000Z",
+      "to": "2024-04-01T08:30:00.000Z",
+      "id": "3ee6a11dbc02aa8954decb7c0463aa90"
+    },
+    {
+      "date": "Le dimanche 24 mars 2024 de  08:30:00 à  15:30:00",
+      "streets": "ZONE INDUSTRIELLE DE BAMBOUS",
+      "from": "2024-03-24T04:30:00.000Z",
+      "to": "2024-03-24T11:30:00.000Z",
+      "id": "08401b38484a555e836368b3b0417282"
+    },
+    {
+      "date": "Le dimanche 3 mars 2024 de  19:25:00 à  00:30:00",
+      "streets": "DRAGON ST,ALLEE JACQUES,BOUNDARY ST,part of VAUDAGNE ST,entire MORC EAU BONNE",
+      "from": "2024-03-03T15:25:00.000Z",
+      "to": "2024-03-02T20:30:00.000Z",
+      "id": "48a54e55842b47b07f0ac0352ca7ff90"
+    },
+    {
+      "date": "Le samedi 24 février 2024 de  10:15:00 à  11:00:00",
+      "streets": "GEOFFROY RD NEAR SSS",
+      "from": "2024-02-24T06:15:00.000Z",
+      "to": "2024-02-24T07:00:00.000Z",
+      "id": "e297fab68faeeb40031095e177e20808"
+    },
+    {
+      "date": "Le samedi 27 janvier 2024 de  08:30:00 à  15:30:00",
+      "streets": "Ave Limit, Ave Lavandière, Ave des Fleurs, Ave Mangue Vert Doux, Geoffroy Branch Road, NHDC Bambous, La Zone Industrielle Bambous, Réservoir et Crematoriun Montagne St Pierre et CWA Eaux Bonnes",
+      "from": "2024-01-27T04:30:00.000Z",
+      "to": "2024-01-27T11:30:00.000Z",
+      "id": "d15c6ac2fd35ff72da0ba3b2169ee120"
+    },
+    {
+      "date": "Le samedi 20 janvier 2024 de  08:30:00 à  15:30:00",
+      "streets": "D’Ave Limit, Ave Lavandière, Ave des Fleurs, Ave Mangue Vert Doux, Geoffroy Branch Road, NHDC Bambous, La Zone Industrielle Bambous, Réservoir et Crematoriun Montagne St Pierre, CWA Eaux Bonnes, UBP et Premix Concrete Ltd",
+      "from": "2024-01-20T04:30:00.000Z",
+      "to": "2024-01-20T11:30:00.000Z",
+      "id": "10719f4ea0a34e173d314961c0df7016"
+    },
+    {
+      "date": "Le jeudi 18 janvier 2024 de  16:45:00 à  17:45:00",
+      "streets": "MANGUE VERT DOUX, GEOFFROY RD AND MORC VRS.",
+      "from": "2024-01-18T12:45:00.000Z",
+      "to": "2024-01-18T13:45:00.000Z",
+      "id": "1a817a3b2e15b0805a54f4d005dfbc3d"
+    },
+    {
+      "date": "Le dimanche 14 janvier 2024 de  10:20:00 à  11:20:00",
+      "streets": "CITE LA FERME BAMBOUS",
+      "from": "2024-01-14T06:20:00.000Z",
+      "to": "2024-01-14T07:20:00.000Z",
+      "id": "9c50f84fba5c7bf04320332f5d3e857c"
+    },
+    {
+      "date": "Le dimanche 14 janvier 2024 de  08:30:00 à  15:30:00",
+      "streets": "Ave Limit, Ave Lavandière, Ave des Fleurs, Ave Mangue Vert Doux, Geoffroy Branch Road, NHDC Bambous, La Zone Industrielle Bambous, Réservoir et Crématorium Montagne St Pierre, CWA Eaux Bonnes, UBP et Premix Concrete Ltd",
+      "from": "2024-01-14T04:30:00.000Z",
+      "to": "2024-01-14T11:30:00.000Z",
+      "id": "c47a19a55ccfc65020be2e1b0b44b134"
+    },
+    {
+      "date": "Le dimanche 14 janvier 2024 de  08:20:00 à  09:30:00",
+      "streets": "MORC VRS BAMBOUS,BEHIND WINNERS",
+      "from": "2024-01-14T04:20:00.000Z",
+      "to": "2024-01-14T05:30:00.000Z",
+      "id": "cebe42584b9f9cd5629fcd44044bcd79"
+    },
+    {
+      "date": "Le vendredi 5 janvier 2024 de  17:20:00 à  18:30:00",
+      "streets": "BAMBOUS",
+      "from": "2024-01-05T13:20:00.000Z",
+      "to": "2024-01-05T14:30:00.000Z",
+      "id": "29ea266cfbb9637a41ad0c7eeef1d88f"
+    },
+    {
+      "date": "Le mercredi 27 décembre 2023 de  08:30:00 à  15:30:00",
+      "streets": "Ave Princesse de Guinée et Residences Geoffroy No 2",
+      "from": "2023-12-27T04:30:00.000Z",
+      "to": "2023-12-27T11:30:00.000Z",
+      "id": "f45a88850c9a0a05691eeb19047063f0"
+    },
+    {
+      "date": "Le mercredi 20 décembre 2023 de  08:30:00 à  12:30:00",
+      "streets": "Cite La Ferme habitant dans les environs de Nehru Lane, Jagan Lane et Kourabawa Lane",
+      "from": "2023-12-20T04:30:00.000Z",
+      "to": "2023-12-20T08:30:00.000Z",
+      "id": "4f7ab985ffb156b985a28bd03ee6d961"
+    },
+    {
+      "date": "Le samedi 9 décembre 2023 de  09:55:00 à  10:30:00",
+      "streets": "ALLEE TAMARIN BAMBOUS",
+      "from": "2023-12-09T05:55:00.000Z",
+      "to": "2023-12-09T06:30:00.000Z",
+      "id": "4619b709f1dbce84914dc4dcad56bd02"
+    },
+    {
+      "date": "Le vendredi 8 décembre 2023 de  08:50:00 à  11:00:00",
+      "streets": "LA VALETTE 2",
+      "from": "2023-12-08T04:50:00.000Z",
+      "to": "2023-12-08T07:00:00.000Z",
+      "id": "5764e9ff5ecea9fd68428d933d3b8736"
+    },
+    {
+      "date": "Le mercredi 6 décembre 2023 de  18:00:00 à  23:00:00",
+      "streets": "MORCELLEMENT MON REPOS BAMBOUS.",
+      "from": "2023-12-06T14:00:00.000Z",
+      "to": "2023-12-06T19:00:00.000Z",
+      "id": "3e89f1c48e3e007cd37acd1914691abe"
+    },
+    {
+      "date": "Le samedi 2 décembre 2023 de  08:30:00 à  15:30:00",
+      "streets": "AVE DES FLEURS, AVE LIMIT, AVE CENTRAL, AVE LAVANDIERE, AVE DES SOURCES, AVE BRIGAND ET UNE PARTIE DE LA ROUTE GEOFFROY",
+      "from": "2023-12-02T04:30:00.000Z",
+      "to": "2023-12-02T11:30:00.000Z",
+      "id": "8e9fa708b5c04757a38de22ed884a982"
+    },
+    {
+      "date": "Le jeudi 23 novembre 2023 de  13:20:00 à  14:00:00",
+      "streets": "BAMBOUS NR SARAKO",
+      "from": "2023-11-23T09:20:00.000Z",
+      "to": "2023-11-23T10:00:00.000Z",
+      "id": "5a08206ac51a38d174aa498c079ab86c"
+    },
+    {
+      "date": "Le dimanche 5 novembre 2023 de  08:30:00 à  15:30:00",
+      "streets": "AVE DES FLEURS, AVE LIMIT, AVE CENTRAL, AVE LAVANDIERE, AVE DES SOURCES, AVE BRIGAND ET UNE PARTIE DE LA ROUTE GEOFFROY",
+      "from": "2023-11-05T04:30:00.000Z",
+      "to": "2023-11-05T11:30:00.000Z",
+      "id": "e812fdc0665dcda91b82c4365d009417"
+    },
+    {
+      "date": "Le lundi 30 octobre 2023 de  18:00:00 à  19:00:00",
+      "streets": "GEOFFROY RD",
+      "from": "2023-10-30T14:00:00.000Z",
+      "to": "2023-10-30T15:00:00.000Z",
+      "id": "53df32697b851626ad89649607c4aa84"
+    },
+    {
+      "date": "Le samedi 28 octobre 2023 de  08:30:00 à  12:30:00",
+      "streets": "ALLEE TAMARIN, AVE VAUDAGNE, ALLEE JACQUES, AVE DE LINDEPENDANCE, AVE DES BRIGANDS, AVE DES MANGUIERS, AVE BELLE ISLE, ROYAL ROAD BAMBOUS, MORC WINNERS, SHIVALA BAMBOUS ET MORC BELLE ISLE OSMAN",
+      "from": "2023-10-28T04:30:00.000Z",
+      "to": "2023-10-28T08:30:00.000Z",
+      "id": "c507d7f71e1539eac06dd6e4994a8c2e"
+    },
+    {
+      "date": "Le samedi 21 octobre 2023 de  12:30:00 à  14:00:00",
+      "streets": "ROYAL ROAD BAMBOUS NR SSS",
+      "from": "2023-10-21T08:30:00.000Z",
+      "to": "2023-10-21T10:00:00.000Z",
+      "id": "2ad90302141e84297e07eed9879aa128"
+    },
+    {
+      "date": "Le samedi 21 octobre 2023 de  08:30:00 à  15:30:00",
+      "streets": "AVE DES NAIRAC, ELLIPEE ROAD, AVE DES SOURCES, AVE LA FERME, AVE DES LAVANDIERES, AVE DES GRILLONS ET UNE PARTIE DE LA ROUTE GEOFFROY",
+      "from": "2023-10-21T04:30:00.000Z",
+      "to": "2023-10-21T11:30:00.000Z",
+      "id": "5f878985e07754e36486fb19ab6e6279"
+    },
+    {
+      "date": "Le mardi 10 octobre 2023 de  09:30:00 à  13:00:00",
+      "streets": "SHIVALA LANE BAMBOUS",
+      "from": "2023-10-10T05:30:00.000Z",
+      "to": "2023-10-10T09:00:00.000Z",
+      "id": "7f1c613d248e018342917dd538b2e8dc"
+    },
+    {
+      "date": "Le lundi 25 septembre 2023 de  17:00:00 à  19:30:00",
+      "streets": "LA VALETTE VILLAGE,SME LA VALETTE,PUMP FOR IRRIGATION MEDINE,LA MECQUE",
+      "from": "2023-09-25T13:00:00.000Z",
+      "to": "2023-09-25T15:30:00.000Z",
+      "id": "4336c926b1f99898be1042df7df1b31f"
+    },
+    {
+      "date": "Le dimanche 6 août 2023 de  08:30:00 à  15:30:00",
+      "streets": "POSTE DE POLICE DE BAMBOUS, AVE ELLIPEE, AVE NAIRAC, UNE PARTIE DE LA ROUTE ROYALE ET AVE GEOFFROY BAMBOUS",
+      "from": "2023-08-06T04:30:00.000Z",
+      "to": "2023-08-06T11:30:00.000Z",
+      "id": "984c6c2175fa182e9bf2164f03860455"
+    },
+    {
+      "date": "Le samedi 22 juillet 2023 de  08:30:00 à  15:30:00",
+      "streets": "ALLEE TAMARIN, AVE VAUDAGNE, AVE NAIRAC, GEOFFROY ROAD, AVE LA FERME ET ALLEE JACQUES",
+      "from": "2023-07-22T04:30:00.000Z",
+      "to": "2023-07-22T11:30:00.000Z",
+      "id": "57634b3ce9920ab3c02579f6f7d626cb"
+    },
+    {
+      "date": "Le dimanche 16 juillet 2023 de  08:30:00 à  16:30:00",
+      "streets": "AVE CENTRAL, AVE LIMIT, AVE FOLLES HERBES, AVE DES BRICOLEURS, AVE DES FLEURS, AVE LAVANDIERE, AVE DES SOURCES, NHDC BAMBOUS, RESIDENCES GEOFFROY, RESIDENCES BAMBOOLA, MORC VRS GEOFFROY ET UNE PARTIE DE LA ROUTE GEOFFROY",
+      "from": "2023-07-16T04:30:00.000Z",
+      "to": "2023-07-16T12:30:00.000Z",
+      "id": "5e772816b81d45e7ab6d7e74b7e40424"
+    },
+    {
+      "date": "Le samedi 15 juillet 2023 de  08:30:00 à  15:30:00",
+      "streets": "AVE DE LINDEPENDENCE, ALLEE TAMARIN, AVE DES BRIGANDS, AVE DES MANGUIERS, AVE BELLE ISLE, AVE BOUNDARY ET ALLEE JACQUES",
+      "from": "2023-07-15T04:30:00.000Z",
+      "to": "2023-07-15T11:30:00.000Z",
+      "id": "a953d51eed464f796c0516a290441291"
+    },
+    {
+      "date": "Le samedi 8 juillet 2023 de  08:30:00 à  15:30:00",
+      "streets": "AVE BOUNDARY, AVE BELLE ISLE, AVE DES MANGUIERS, AVE DES BRIGANDS, AVE DRAGON, AVE CANNE A SUCRE, AVE COCOTIERS, AVE LA PAIX ET AVE LA DIGUE",
+      "from": "2023-07-08T04:30:00.000Z",
+      "to": "2023-07-08T11:30:00.000Z",
+      "id": "370f64002ca198507a49bacf10e8f8c5"
+    },
+    {
+      "date": "Le mercredi 21 juin 2023 de  12:50:00 à  14:50:00",
+      "streets": "DANS LES ENVIRONS DE AVE CENTRAL, ROUTE GEOFFROY, AVE DES FLEURS ET AVE LAVENDURE.",
+      "from": "2023-06-21T08:50:00.000Z",
+      "to": "2023-06-21T10:50:00.000Z",
+      "id": "08e2afb543139ee2da1e3a147cf6af10"
+    },
+    {
+      "date": "Le dimanche 4 juin 2023 de  08:30:00 à  15:30:00",
+      "streets": "NHDC NO.1, AVE DES FILAOS, AVE DES BOIS NOIRS, AVE DES PALMIERS, AVE DES COCOTIERS, AVE DES PRUNIERS, AVE LA PAIX, AVE CANNE A SUCRE ET UNE PARTIE DE LAVE VAUDAGNE",
+      "from": "2023-06-04T04:30:00.000Z",
+      "to": "2023-06-04T11:30:00.000Z",
+      "id": "71df0bbf4b14ff6e7013fc69502676c8"
+    },
+    {
+      "date": "Le samedi 3 juin 2023 de  11:00:00 à  13:00:00",
+      "streets": "MORC VRS 3 BAMBOUS",
+      "from": "2023-06-03T07:00:00.000Z",
+      "to": "2023-06-03T09:00:00.000Z",
+      "id": "425e37af91dced58e60a08449905ecb8"
+    },
+    {
+      "date": "Le samedi 3 juin 2023 de  08:30:00 à  15:30:00",
+      "streets": "AVE LA PAIX, AVE LA DIGUE, AVE COCOTIERS, AVE ALLEE JACQUES, MANGUE VERT DOUX, IMPASSE SIMONET, AVE DES EUCALYPTUS, AVE DES DATTIERS, AVE DES FLAMBOYANTS, AVE RABOT ET AVE BRABANT",
+      "from": "2023-06-03T04:30:00.000Z",
+      "to": "2023-06-03T11:30:00.000Z",
+      "id": "881822171ef40640e0d398ab20b28a4a"
+    },
+    {
+      "date": "Le mardi 23 mai 2023 de  20:00:00 à  21:00:00",
+      "streets": "ALLEE MANGUE VERT DOUX",
+      "from": "2023-05-23T16:00:00.000Z",
+      "to": "2023-05-23T17:00:00.000Z",
+      "id": "ec06d0a2c8f0216cbd3b34767e242a10"
+    },
+    {
+      "date": "Le vendredi 7 avril 2023 de  08:30:00 à  15:30:00",
+      "streets": "MORC EAUX BONNES HABITANT DANS LES ENVIRONS DE: AVE LA PAIX, AVE CANNE A SUCRE ET AVE LA DIGUE",
+      "from": "2023-04-07T04:30:00.000Z",
+      "to": "2023-04-07T11:30:00.000Z",
+      "id": "1133411ea50c0b09518858edf7d178f4"
+    },
+    {
+      "date": "Le lundi 3 avril 2023 de  08:30:00 à  15:30:00",
+      "streets": "Morc Eaux Bonnes: Ave La Paix, Ave Canne à Sucre, Ave la Digue, Ave Cocotiers, Ave Allées Jacques, Mangue Vert Doux et Impasse Simonet",
+      "from": "2023-04-03T04:30:00.000Z",
+      "to": "2023-04-03T11:30:00.000Z",
+      "id": "80069bcf2ea87945757f8c169149d655"
+    },
+    {
+      "date": "Le vendredi 24 mars 2023 de  11:00:00 à  12:00:00",
+      "streets": "BASALT,PREMIX",
+      "from": "2023-03-24T07:00:00.000Z",
+      "to": "2023-03-24T08:00:00.000Z",
+      "id": "1ad50d22f7431a6516af6998b531a93f"
+    },
+    {
+      "date": "Le mardi 21 mars 2023 de  13:00:00 à  15:00:00",
+      "streets": "MARKET RD BAMBOUS",
+      "from": "2023-03-21T09:00:00.000Z",
+      "to": "2023-03-21T11:00:00.000Z",
+      "id": "85f441c40e44d5ddfe4bca0446be6b06"
+    },
+    {
+      "date": "Le dimanche 26 février 2023 de  08:30:00 à  15:30:00",
+      "streets": "MORC EAUX BONNES, AVE DRAGON, ALLEE JACQUES, VAUDAGNE RD, MANGUES VERT DOUX RD, AVE BOUNDARY ET AVE BELLE ISLE",
+      "from": "2023-02-26T04:30:00.000Z",
+      "to": "2023-02-26T11:30:00.000Z",
+      "id": "df4aa8283cc2bbcbd13982d23a83e1e2"
+    },
+    {
+      "date": "Le samedi 11 février 2023 de  08:30:00 à  15:30:00",
+      "streets": "AVE LA PAIX, AVE DRAGON, MEDINE FARMERS RD ET BOUNDARY RD",
+      "from": "2023-02-11T04:30:00.000Z",
+      "to": "2023-02-11T11:30:00.000Z",
+      "id": "c2944416f579799894f6cc9a30461976"
+    },
+    {
+      "date": "Le dimanche 5 février 2023 de  08:30:00 à  15:30:00",
+      "streets": "LA ZONE INDUSTRIELLE DE BAMBOUS, RESERVOIR ET CREMATORIUM MONTAGNE ST PIERRE ET CWA EAUX BONNES",
+      "from": "2023-02-05T04:30:00.000Z",
+      "to": "2023-02-05T11:30:00.000Z",
+      "id": "37e645bc5c0fcf3003d11e768412afb0"
+    },
+    {
+      "date": "Le dimanche 29 janvier 2023 de  08:30:00 à  15:30:00",
+      "streets": "RESIDENCE LA FERME, MAGIC DEAL, LE STADE GERMAIN COMARMOND BAMBOUS, POLYECO LTD ET CHAUMIERE TRANSFER STATION",
+      "from": "2023-01-29T04:30:00.000Z",
+      "to": "2023-01-29T11:30:00.000Z",
+      "id": "ae94f2ef8566eae77c183dc49e74ce70"
+    },
+    {
+      "date": "Le samedi 14 janvier 2023 de  08:30:00 à  16:30:00",
+      "streets": "CWA RESERVOIR, CREMATORIUM MONTAGNE ST PIERRE ET CWA EAUX BONNES",
+      "from": "2023-01-14T04:30:00.000Z",
+      "to": "2023-01-14T12:30:00.000Z",
+      "id": "145396a60066c463cb044595e2b840ff"
+    },
+    {
+      "date": "Le vendredi 6 janvier 2023 de  08:30:00 à  14:30:00",
+      "streets": "RESERVOIR ET CREMATORIUM MONTAGNE ST PIERRE ET CWA EAUX BONNES",
+      "from": "2023-01-06T04:30:00.000Z",
+      "to": "2023-01-06T10:30:00.000Z",
+      "id": "c188a2926b0cfcc8f0f559b442c54d74"
+    },
+    {
+      "date": "Le lundi 19 décembre 2022 de  08:30:00 à  09:30:00",
+      "streets": "INDUSRIAL ZONE BAMBOUS",
+      "from": "2022-12-19T04:30:00.000Z",
+      "to": "2022-12-19T05:30:00.000Z",
+      "id": "63eb22708f6f0d2bad9a7f8d49750547"
+    },
+    {
+      "date": "Le vendredi 16 décembre 2022 de  11:00:00 à  12:00:00",
+      "streets": "GEOFFROY STREET-REGION NEAR DISTRICT COUNCIL",
+      "from": "2022-12-16T07:00:00.000Z",
+      "to": "2022-12-16T08:00:00.000Z",
+      "id": "14705d97fedd637fe5c1b9b666815ecc"
+    },
+    {
+      "date": "Le samedi 26 novembre 2022 de  08:30:00 à  14:30:00",
+      "streets": "MORC EAU BONNE",
+      "from": "2022-11-26T04:30:00.000Z",
+      "to": "2022-11-26T10:30:00.000Z",
+      "id": "7c85462387e912feaeb35dcc883af800"
+    },
+    {
+      "date": "Le jeudi 27 octobre 2022 de  15:00:00 à  19:00:00",
+      "streets": "ZONE INDUSTRIAL LA VALETTE BAMBOUS",
+      "from": "2022-10-27T11:00:00.000Z",
+      "to": "2022-10-27T15:00:00.000Z",
+      "id": "ef80ab6f16ad785ac13c0233f8f762c3"
+    },
+    {
+      "date": "Le lundi 17 octobre 2022 de  08:30:00 à  14:30:00",
+      "streets": "Morc Eaux Bonnes - Ave La Paix, Ave Canne à Sucre, Ave la Digue, Ave Cocotiers et Ave Allées Jacques",
+      "from": "2022-10-17T04:30:00.000Z",
+      "to": "2022-10-17T10:30:00.000Z",
+      "id": "143eb03743b1946c152d452149ea698f"
+    },
+    {
+      "date": "Le dimanche 9 octobre 2022 de  08:30:00 à  15:30:00",
+      "streets": "GEOFFROY, LA FERME BAMBOUS",
+      "from": "2022-10-09T04:30:00.000Z",
+      "to": "2022-10-09T11:30:00.000Z",
+      "id": "8dae58b00dbac1cae90736e641c34d19"
+    },
+    {
+      "date": "Le vendredi 7 octobre 2022 de  08:30:00 à  15:30:00",
+      "streets": "Ave La Paix, Vaudagne Rd, Ave Mangue Vert Doux, Impass Palmer, Plaine Cabate Rd et Impasse Simonette",
+      "from": "2022-10-07T04:30:00.000Z",
+      "to": "2022-10-07T11:30:00.000Z",
+      "id": "aa556c347d9c18f30a100ca05daea9e7"
+    },
+    {
+      "date": "Le dimanche 4 septembre 2022 de  08:30:00 à  15:30:00",
+      "streets": "RESIDENCE LA FERME, LA COUR DE JUSTICE DE BAMBOUS, LE STADE GERMAIN COMARMOND ET LA CHAUMIERE TRANSFER STATION",
+      "from": "2022-09-04T04:30:00.000Z",
+      "to": "2022-09-04T11:30:00.000Z",
+      "id": "d448aee45c082f0dc9bb13c110252bbd"
+    },
+    {
+      "date": "Le mardi 30 août 2022 de  08:30:00 à  15:30:00",
+      "streets": "Cité La Ferme Bambous habitant dans les environs de Ave Victor Hugo, Kung Fu Lane , Jeewan Lane, Ave Mahatma Gandhi, Ave Jinnah, Ave Kalam Azad, Ave Daffodil et une partie de Black River Rd",
+      "from": "2022-08-30T04:30:00.000Z",
+      "to": "2022-08-30T11:30:00.000Z",
+      "id": "e72a2b7cf955172f094dd8108e8fd661"
+    },
+    {
+      "date": "Le mercredi 24 août 2022 de  08:30:00 à  15:30:00",
+      "streets": "AVE FOLLES HERBES, AVE BRICOLEUR, CAMP RODRIGUE ET UNE PARTIE DE LAVE CENTRAL",
+      "from": "2022-08-24T04:30:00.000Z",
+      "to": "2022-08-24T11:30:00.000Z",
+      "id": "10b78399815cb6e4309ab87be2727e1a"
+    },
+    {
+      "date": "Le vendredi 12 août 2022 de  10:00:00 à  16:30:00",
+      "streets": "Chaumiere Transfer Station, Polyeco Ltd et Hazardous Waste",
+      "from": "2022-08-12T06:00:00.000Z",
+      "to": "2022-08-12T12:30:00.000Z",
+      "id": "2a0bb107acbf5f87f1825462cf7a8ac8"
+    },
+    {
+      "date": "Le samedi 23 juillet 2022 de  12:30:00 à  13:30:00",
+      "streets": "NHDC BAMBOUS",
+      "from": "2022-07-23T08:30:00.000Z",
+      "to": "2022-07-23T09:30:00.000Z",
+      "id": "1499dfe6f88df20095397757d168a7cc"
+    },
+    {
+      "date": "Le mercredi 6 juillet 2022 de  16:00:00 à  18:00:00",
+      "streets": "MONTAGNE ST PIERRE ET UNE PARTIE DE LA ZONE INDUSTRIELLE DE BAMBOUS",
+      "from": "2022-07-06T12:00:00.000Z",
+      "to": "2022-07-06T14:00:00.000Z",
+      "id": "be46800310d8c7aa170ea9913eeed247"
+    },
+    {
+      "date": "Le vendredi 1 juillet 2022 de  08:30:00 à  15:30:00",
+      "streets": "Ave des Fleurs, Ave Limit,  Ave Central, Ave Lavendiere, Ave des Sources, Ave Brigant et une partie de Route Geoffroy",
+      "from": "2022-07-01T04:30:00.000Z",
+      "to": "2022-07-01T11:30:00.000Z",
+      "id": "3081ff77f06a94ebac60cb21895beb9b"
+    },
+    {
+      "date": "Le samedi 25 juin 2022 de  08:30:00 à  16:30:00",
+      "streets": "MONTAGNE ST PIERRE ET UNE PARTIE DE LA ZONE INDUSTRIELLE BAMBOUS",
+      "from": "2022-06-25T04:30:00.000Z",
+      "to": "2022-06-25T12:30:00.000Z",
+      "id": "7e982ed04027b2f1ef7ca543bd7d244f"
+    },
+    {
+      "date": "Le samedi 18 juin 2022 de  08:30:00 à  16:30:00",
+      "streets": "MONTAGNE ST PIERRE ET UNE PARTIE DE LA ZONE INDUSTRIELLE DE BAMBOUS",
+      "from": "2022-06-18T04:30:00.000Z",
+      "to": "2022-06-18T12:30:00.000Z",
+      "id": "c4db54794b41dc00bee0f22757a7a395"
+    },
+    {
+      "date": "Le samedi 4 juin 2022 de  08:30:00 à  15:30:00",
+      "streets": "MONTAGNE ST PIERRE ET UNE PARTIE DE LA ZONE INDUSTRIELLE DE BAMBOUS",
+      "from": "2022-06-04T04:30:00.000Z",
+      "to": "2022-06-04T11:30:00.000Z",
+      "id": "3d2c7c69e47cfd880571a5e475ca2032"
+    },
+    {
+      "date": "Le jeudi 26 mai 2022 de  08:00:00 à  10:00:00",
+      "streets": "MONTAGNE ST PIERRE ET UNE PARTIE DE LA ZONE INDUSTRIELLE BAMBOUS",
+      "from": "2022-05-26T04:00:00.000Z",
+      "to": "2022-05-26T06:00:00.000Z",
+      "id": "0938af1a5922c9732f1a8ffe6a535ae8"
+    },
+    {
+      "date": "Le dimanche 8 mai 2022 de  08:30:00 à  16:30:00",
+      "streets": "MORCELLEMENT VRS GEOFRROY, UBP BAMBOUS, ZONE INDUSTRIELLE BAMBOUS ET UNE PARTIE DE ROUTE GEOFFROY",
+      "from": "2022-05-08T04:30:00.000Z",
+      "to": "2022-05-08T12:30:00.000Z",
+      "id": "0f7bcb2fe1e046c0d9a33fbfe6447d2c"
+    },
+    {
+      "date": "Le mardi 12 avril 2022 de  07:00:00 à  18:00:00",
+      "streets": "LA VALLETTE BAMBOUS",
+      "from": "2022-04-12T03:00:00.000Z",
+      "to": "2022-04-12T14:00:00.000Z",
+      "id": "6c4e25186a4b40f03a60df540a2ff8ad"
+    }
+  ]
+}

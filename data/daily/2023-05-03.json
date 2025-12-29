@@ -1,0 +1,108 @@
+{
+  "date": "2023-05-03",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.787Z",
+  "outageCount": 10,
+  "outages": [
+    {
+      "date": "Le mercredi 3 mai 2023 de  12:30:00 à  15:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "morc green creek",
+      "district": "blackriver",
+      "from": "2023-05-03T08:30:00.000Z",
+      "to": "2023-05-03T11:00:00.000Z",
+      "id": "6a205341a43988fc70de566074992568"
+    },
+    {
+      "date": "Le mercredi 3 mai 2023 de  09:00:00 à  15:00:00",
+      "locality": "COTE D-OR",
+      "localitySlug": "cote-d-or",
+      "streets": "Côte Côte d’Or Village, Cite Côte d’Or, Morcellement Les Amies, Morcellement VRS Côte d’Or",
+      "district": "moka",
+      "from": "2023-05-03T05:00:00.000Z",
+      "to": "2023-05-03T11:00:00.000Z",
+      "id": "ed97a12f7d4cc6e5200003c141ef9e14"
+    },
+    {
+      "date": "Le mercredi 3 mai 2023 de  09:00:00 à  11:00:00",
+      "locality": "CAMP THOREL",
+      "localitySlug": "camp-thorel",
+      "streets": "CAMP THOREL AND PART ST JULIEN DHOTMAN",
+      "district": "moka",
+      "from": "2023-05-03T05:00:00.000Z",
+      "to": "2023-05-03T07:00:00.000Z",
+      "id": "94eb8c4ac4f0d3417be1b18761d3e04d"
+    },
+    {
+      "date": "Le mercredi 3 mai 2023 de  09:00:00 à  16:00:00",
+      "locality": "MOKA",
+      "localitySlug": "moka",
+      "streets": "EUREKA MOKA",
+      "district": "moka",
+      "from": "2023-05-03T05:00:00.000Z",
+      "to": "2023-05-03T12:00:00.000Z",
+      "id": "3dd2c19b7021cd65a33bb06d5bb4a341"
+    },
+    {
+      "date": "Le mercredi 3 mai 2023 de  17:00:00 à  18:00:00",
+      "locality": "HELVETIA",
+      "localitySlug": "helvetia",
+      "streets": "HELVETIA ST PIERRE",
+      "district": "moka",
+      "from": "2023-05-03T13:00:00.000Z",
+      "to": "2023-05-03T14:00:00.000Z",
+      "id": "f8ec2d1ad9ff3b2a27f15b10637c5795"
+    },
+    {
+      "date": "Le mercredi 3 mai 2023 de  10:30:00 à  13:30:00",
+      "locality": "PLAINE DES PAPAYES",
+      "localitySlug": "plaine-des-papayes",
+      "streets": "JAYPAL RD PLAINE DES PAPAYES",
+      "district": "pamplemousses",
+      "from": "2023-05-03T06:30:00.000Z",
+      "to": "2023-05-03T09:30:00.000Z",
+      "id": "eea3776871560435dd40f2e8bd0b8773"
+    },
+    {
+      "date": "Le mercredi 3 mai 2023 de  10:00:00 à  16:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "MORC LI SING COROMANDEL",
+      "district": "plainewilhems",
+      "from": "2023-05-03T06:00:00.000Z",
+      "to": "2023-05-03T12:00:00.000Z",
+      "id": "ea092ec8514313a538ba3275a0398805"
+    },
+    {
+      "date": "Le mercredi 3 mai 2023 de  09:45:00 à  11:30:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "AVE CASQUETTE, AVE FELICO",
+      "district": "plainewilhems",
+      "from": "2023-05-03T05:45:00.000Z",
+      "to": "2023-05-03T07:30:00.000Z",
+      "id": "6c5fb4157aead59ca73c80ca35f26241"
+    },
+    {
+      "date": "Le mercredi 3 mai 2023 de  13:30:00 à  14:30:00",
+      "locality": "ESPERANCE TREBUCHET",
+      "localitySlug": "esperance-trebuchet",
+      "streets": "EQUITATION AND SEVERAL CUSTOMERS",
+      "district": "rivieredurempart",
+      "from": "2023-05-03T09:30:00.000Z",
+      "to": "2023-05-03T10:30:00.000Z",
+      "id": "46deeb04ad3c6ca15dc9fdb6c21f283e"
+    },
+    {
+      "date": "Le mercredi 3 mai 2023 de  15:45:00 à  17:00:00",
+      "locality": "BOIS CHERI",
+      "localitySlug": "bois-cheri",
+      "streets": "BOIS CHERI NEAR FRANCOIS WOO(AROUND 20 CUSTOMERS)",
+      "district": "savanne",
+      "from": "2023-05-03T11:45:00.000Z",
+      "to": "2023-05-03T13:00:00.000Z",
+      "id": "7cda1a50a4f086cf172c3c8394f1865a"
+    }
+  ]
+}

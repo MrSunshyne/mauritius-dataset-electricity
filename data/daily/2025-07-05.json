@@ -1,0 +1,118 @@
+{
+  "date": "2025-07-05",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.842Z",
+  "outageCount": 11,
+  "outages": [
+    {
+      "date": "Le samedi 5 juillet 2025 de  08:30:00 à  16:00:00",
+      "locality": "MEDINE CAMP DE MASQUE",
+      "localitySlug": "medine-camp-de-masque",
+      "streets": "MEDINE DANS LES ENVIRONS DU MORC VRS MEDINE, ET CREMATOIRE DE MEDINE.",
+      "district": "flacq",
+      "from": "2025-07-05T04:30:00.000Z",
+      "to": "2025-07-05T12:00:00.000Z",
+      "id": "e41965ab06503e365d8f35d0ba23b5c8"
+    },
+    {
+      "date": "Le samedi 5 juillet 2025 de  09:15:00 à  10:30:00",
+      "locality": "BOULET ROUGE",
+      "localitySlug": "boulet-rouge",
+      "streets": "BOULET ROUGE TOWARDS CAMP GARREAU",
+      "district": "flacq",
+      "from": "2025-07-05T05:15:00.000Z",
+      "to": "2025-07-05T06:30:00.000Z",
+      "id": "169ecb4039b02fa476dbc63dd236a430"
+    },
+    {
+      "date": "Le samedi 5 juillet 2025 de  09:15:00 à  10:30:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "ROYAL ROAD, B COMPLEX, WASTE WATER AND SURROUNDINGS",
+      "district": "pamplemousses",
+      "from": "2025-07-05T05:15:00.000Z",
+      "to": "2025-07-05T06:30:00.000Z",
+      "id": "00a5b39c8c1bd4956a2b1d91f34f9e20"
+    },
+    {
+      "date": "Le samedi 5 juillet 2025 de  12:45:00 à  15:45:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVE JACARANDAS, ORCHIDEE, TALIPOT AND SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2025-07-05T08:45:00.000Z",
+      "to": "2025-07-05T11:45:00.000Z",
+      "id": "b43cf8ef5c5772b55cbdbf015e08062e"
+    },
+    {
+      "date": "Le samedi 5 juillet 2025 de  08:30:00 à  15:00:00",
+      "locality": "MER ROUGE",
+      "localitySlug": "mer-rouge",
+      "streets": "DANS LES ENVIRONS DE COAST GUARD, EX MOLASSES, NAGDAN HALL ET UNE PARTIE DE TAYLOR SMITH",
+      "district": "portlouis",
+      "from": "2025-07-05T04:30:00.000Z",
+      "to": "2025-07-05T11:00:00.000Z",
+      "id": "417099e2ee0d155e31e4e2e1624a0281"
+    },
+    {
+      "date": "Le samedi 5 juillet 2025 de  08:30:00 à  15:00:00",
+      "locality": "TOUR KOENIG",
+      "localitySlug": "tour-koenig",
+      "streets": "DANS LES ENVIRONS DE RESIDENCE COQUILLAGE",
+      "district": "portlouis",
+      "from": "2025-07-05T04:30:00.000Z",
+      "to": "2025-07-05T11:00:00.000Z",
+      "id": "e78dd078e0e730d168ac6fc5ad2c3078"
+    },
+    {
+      "date": "Le samedi 5 juillet 2025 de  09:00:00 à  14:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "LES ABONNES DE POINTE AUX SABLES DANS LES ENVIRONS DE MORC GHURBURRUN",
+      "district": "portlouis",
+      "from": "2025-07-05T05:00:00.000Z",
+      "to": "2025-07-05T10:00:00.000Z",
+      "id": "346749a7d7675b4d1ec3e8b6b75a47d0"
+    },
+    {
+      "date": "Le samedi 5 juillet 2025 de  06:00:00 à  14:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "ESPACE MAISON,ROUILLARD",
+      "district": "rivieredurempart",
+      "from": "2025-07-05T02:00:00.000Z",
+      "to": "2025-07-05T10:00:00.000Z",
+      "id": "22cfc10d38595da9a9bd9fc5a1b84292"
+    },
+    {
+      "date": "Le samedi 5 juillet 2025 de  09:00:00 à  15:00:00",
+      "locality": "SURINAM",
+      "localitySlug": "surinam",
+      "streets": "Le Village de Terracine et Trois Bras, Surinam",
+      "district": "savanne",
+      "from": "2025-07-05T05:00:00.000Z",
+      "to": "2025-07-05T11:00:00.000Z",
+      "id": "a23882e0c9613a04e7e8def34b252eac"
+    },
+    {
+      "date": "Le samedi 5 juillet 2025 de  08:00:00 à  15:00:00",
+      "locality": "PLAINE CORAIL(RODRIGUES)",
+      "localitySlug": "plaine-corail",
+      "streets": "LES ABONNES DE PLAINE CORAIL.",
+      "district": "rodrigues",
+      "from": "2025-07-05T04:00:00.000Z",
+      "to": "2025-07-05T11:00:00.000Z",
+      "id": "3fdedd53ec18e9bf4393143564d46f7a"
+    },
+    {
+      "date": "Le samedi 5 juillet 2025 de  08:00:00 à  09:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LES ABONNES DE CASCADE JEAN LOUIS, DANS COCO ET ANSE QUITOR.",
+      "district": "rodrigues",
+      "from": "2025-07-05T04:00:00.000Z",
+      "to": "2025-07-05T05:00:00.000Z",
+      "id": "ccefde4d117dee0631bdaa5b7c02065a"
+    }
+  ]
+}

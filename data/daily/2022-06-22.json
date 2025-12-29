@@ -1,0 +1,58 @@
+{
+  "date": "2022-06-22",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.766Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mercredi 22 juin 2022 de  08:30:00 à  16:30:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "MORC RAMDANEE ET MORC SENEVILLE",
+      "district": "blackriver",
+      "from": "2022-06-22T04:30:00.000Z",
+      "to": "2022-06-22T12:30:00.000Z",
+      "id": "ff11b4a004772e5580a1e5f5ba0ab2f6"
+    },
+    {
+      "date": "Le mercredi 22 juin 2022 de  15:00:00 à  17:00:00",
+      "locality": "BEAU CHAMP FLACQ",
+      "localitySlug": "beau-champ-flacq",
+      "streets": "BEAU CHAMP",
+      "district": "flacq",
+      "from": "2022-06-22T11:00:00.000Z",
+      "to": "2022-06-22T13:00:00.000Z",
+      "id": "72b3987ce36eb9d6658374b797a1d276"
+    },
+    {
+      "date": "Le mercredi 22 juin 2022 de  09:00:00 à  16:00:00",
+      "locality": "TRIANON",
+      "localitySlug": "trianon",
+      "streets": "Palladium, Hua Lien, Trianon Convention Centre, Diabetes Centre, R&M Garden et Anglo African",
+      "district": "plainewilhems",
+      "from": "2022-06-22T05:00:00.000Z",
+      "to": "2022-06-22T12:00:00.000Z",
+      "id": "b2cc750c479bbc8153802053090649cd"
+    },
+    {
+      "date": "Le mercredi 22 juin 2022 de  15:30:00 à  17:30:00",
+      "locality": "CANDOS Q BORNES",
+      "localitySlug": "candos-q-bornes",
+      "streets": "RESIDENCE KENEDY",
+      "district": "plainewilhems",
+      "from": "2022-06-22T11:30:00.000Z",
+      "to": "2022-06-22T13:30:00.000Z",
+      "id": "61c52af9b4f6fb158a7643823eefa93b"
+    },
+    {
+      "date": "Le mercredi 22 juin 2022 de  09:00:00 à  11:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "PETIT BRULE,THAMBES,MONTAGNE MALGAHES.",
+      "district": "rodrigues",
+      "from": "2022-06-22T05:00:00.000Z",
+      "to": "2022-06-22T07:00:00.000Z",
+      "id": "73a7a0da30e26f2f98f7b30e9051f2f0"
+    }
+  ]
+}

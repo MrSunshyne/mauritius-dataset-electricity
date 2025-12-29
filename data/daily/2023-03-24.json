@@ -1,0 +1,38 @@
+{
+  "date": "2023-03-24",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.784Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le vendredi 24 mars 2023 de  11:00:00 à  12:00:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "BASALT,PREMIX",
+      "district": "blackriver",
+      "from": "2023-03-24T07:00:00.000Z",
+      "to": "2023-03-24T08:00:00.000Z",
+      "id": "1ad50d22f7431a6516af6998b531a93f"
+    },
+    {
+      "date": "Le vendredi 24 mars 2023 de  09:00:00 à  14:30:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "RUE SAINTE MARIE",
+      "district": "portlouis",
+      "from": "2023-03-24T05:00:00.000Z",
+      "to": "2023-03-24T10:30:00.000Z",
+      "id": "b21cd327fe4948dad6335c38ce0a7b1b"
+    },
+    {
+      "date": "Le vendredi 24 mars 2023 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "La Ferme, Pistache, Piment, Baie Topaze, Montagne Croupier et Camp Pintade",
+      "district": "rodrigues",
+      "from": "2023-03-24T04:30:00.000Z",
+      "to": "2023-03-24T11:00:00.000Z",
+      "id": "f15378061713d37e3842ce383394620d"
+    }
+  ]
+}

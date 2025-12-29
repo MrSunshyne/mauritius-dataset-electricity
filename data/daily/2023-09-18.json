@@ -1,0 +1,28 @@
+{
+  "date": "2023-09-18",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.797Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le lundi 18 septembre 2023 de  16:20:00 à  17:30:00",
+      "locality": "LA SOURDINE",
+      "localitySlug": "la-sourdine",
+      "streets": "MORC LA SOURDINE, EDC ET EN PARTIE ROUTE ROYAL",
+      "district": "grandport",
+      "from": "2023-09-18T12:20:00.000Z",
+      "to": "2023-09-18T13:30:00.000Z",
+      "id": "931f19772ef4401b6fc758bfdfc77840"
+    },
+    {
+      "date": "Le lundi 18 septembre 2023 de  09:15:00 à  10:30:00",
+      "locality": "LA CAVERNE",
+      "localitySlug": "la-caverne",
+      "streets": "QUINZE CANTONS, HAJEE ATTAN ST, ABATTOIR ST",
+      "district": "plainewilhems",
+      "from": "2023-09-18T05:15:00.000Z",
+      "to": "2023-09-18T06:30:00.000Z",
+      "id": "416dc9876b76d6cbf229e8efa75b5854"
+    }
+  ]
+}

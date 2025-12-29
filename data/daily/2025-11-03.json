@@ -1,0 +1,28 @@
+{
+  "date": "2025-11-03",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.851Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le lundi 3 novembre 2025 de  09:00:00 à  12:00:00",
+      "locality": "PETIT CAMP",
+      "localitySlug": "petit-camp",
+      "streets": "PETIT CAMP",
+      "district": "plainewilhems",
+      "from": "2025-11-03T05:00:00.000Z",
+      "to": "2025-11-03T08:00:00.000Z",
+      "id": "1ff8ee26f9852b78862540db3a99b102"
+    },
+    {
+      "date": "Le lundi 3 novembre 2025 de  09:30:00 à  12:00:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "SOOBARAH LANE-NHDC PALMA",
+      "district": "plainewilhems",
+      "from": "2025-11-03T05:30:00.000Z",
+      "to": "2025-11-03T08:00:00.000Z",
+      "id": "f4b0587405598a2ebe8322e8c750f87d"
+    }
+  ]
+}

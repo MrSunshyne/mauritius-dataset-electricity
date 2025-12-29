@@ -1,0 +1,38 @@
+{
+  "date": "2022-03-14",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.760Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le lundi 14 mars 2022 de  22:10:00 à  23:30:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "ROYAL ROAD,VILLAGE HALL,MOSQUE AND AJACENT LANES TERRE ROUGE",
+      "district": "pamplemousses",
+      "from": "2022-03-14T18:10:00.000Z",
+      "to": "2022-03-14T19:30:00.000Z",
+      "id": "e8d7ef4f5616d158c1bd83825dc9190b"
+    },
+    {
+      "date": "Le lundi 14 mars 2022 de  09:15:00 à  11:15:00",
+      "locality": "ESPERANCE TREBUCHET",
+      "localitySlug": "esperance-trebuchet",
+      "streets": "Esperance Trebuchet",
+      "district": "rivieredurempart",
+      "from": "2022-03-14T05:15:00.000Z",
+      "to": "2022-03-14T07:15:00.000Z",
+      "id": "686e97b3e8d311b26e18bcaaba562bfe"
+    },
+    {
+      "date": "Le lundi 14 mars 2022 de  09:00:00 à  11:00:00",
+      "locality": "BANANES",
+      "localitySlug": "bananes",
+      "streets": "Bananes and une partie de Midlands",
+      "district": "savanne",
+      "from": "2022-03-14T05:00:00.000Z",
+      "to": "2022-03-14T07:00:00.000Z",
+      "id": "6d0a3fc3aa36a850568d40027fc321f1"
+    }
+  ]
+}

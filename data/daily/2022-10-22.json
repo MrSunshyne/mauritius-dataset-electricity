@@ -1,0 +1,48 @@
+{
+  "date": "2022-10-22",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.774Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le samedi 22 octobre 2022 de  08:45:00 à  10:30:00",
+      "locality": "MORC SAINT ANDRE",
+      "localitySlug": "morc-saint-andre",
+      "streets": "IN THE VICINITY OF SSR STREET",
+      "district": "pamplemousses",
+      "from": "2022-10-22T04:45:00.000Z",
+      "to": "2022-10-22T06:30:00.000Z",
+      "id": "1b146c11c2a25d412d006b2daeec3874"
+    },
+    {
+      "date": "Le samedi 22 octobre 2022 de  08:30:00 à  15:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave Mallefille, Ave Beau Sejour, Ave Telfair, Ave Madhoo, Ave Dr Castel, Ave Coriolis, en partie Ollier et les environs",
+      "district": "plainewilhems",
+      "from": "2022-10-22T04:30:00.000Z",
+      "to": "2022-10-22T11:00:00.000Z",
+      "id": "8d967954387a0f8ae15358ecc8f4e22b"
+    },
+    {
+      "date": "Le samedi 22 octobre 2022 de  09:00:00 à  15:30:00",
+      "locality": "ROCHES NOIRES",
+      "localitySlug": "roches-noires",
+      "streets": "dans les environs de route royale et caverne road",
+      "district": "rivieredurempart",
+      "from": "2022-10-22T05:00:00.000Z",
+      "to": "2022-10-22T11:30:00.000Z",
+      "id": "832174c9c56cbbd059cc08bb35adc111"
+    },
+    {
+      "date": "Le samedi 22 octobre 2022 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Trois Soleil,Patate Theophile,Montagne Cabris.",
+      "district": "rodrigues",
+      "from": "2022-10-22T04:30:00.000Z",
+      "to": "2022-10-22T11:00:00.000Z",
+      "id": "d88b99eb9b4fadcd7cc5e18075de81bb"
+    }
+  ]
+}

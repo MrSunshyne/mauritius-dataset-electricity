@@ -1,0 +1,38 @@
+{
+  "date": "2025-08-09",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.845Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le samedi 9 août 2025 de  22:00:00 à  00:30:00",
+      "locality": "NEW GROVE",
+      "localitySlug": "new-grove",
+      "streets": "NEW GROVE ,LAROSA.ST HUBERT,GROS BOIS ET LE REGION AVOISINANT",
+      "district": "grandport",
+      "from": "2025-08-09T18:00:00.000Z",
+      "to": "2025-08-08T20:30:00.000Z",
+      "id": "6d5eaf86fc028f5073c44c71b0862d45"
+    },
+    {
+      "date": "Le samedi 9 août 2025 de  08:20:00 à  14:00:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "MICHEL LEAL STREET",
+      "district": "portlouis",
+      "from": "2025-08-09T04:20:00.000Z",
+      "to": "2025-08-09T10:00:00.000Z",
+      "id": "1126493306021f7a1835e84428a0e03b"
+    },
+    {
+      "date": "Le samedi 9 août 2025 de  09:00:00 à  15:00:00",
+      "locality": "BEL OMBRE",
+      "localitySlug": "bel-ombre",
+      "streets": "Morcellement Belle Riviere Bel Ombre",
+      "district": "savanne",
+      "from": "2025-08-09T05:00:00.000Z",
+      "to": "2025-08-09T11:00:00.000Z",
+      "id": "211424e2925f6c7ea78993b33459f746"
+    }
+  ]
+}

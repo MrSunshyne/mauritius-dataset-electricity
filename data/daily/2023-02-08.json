@@ -1,0 +1,68 @@
+{
+  "date": "2023-02-08",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.781Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le mercredi 8 février 2023 de  08:30:00 à  16:30:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "La Mivoie et Morc Carlos",
+      "district": "blackriver",
+      "from": "2023-02-08T04:30:00.000Z",
+      "to": "2023-02-08T12:30:00.000Z",
+      "id": "0ef2a3897d5b3074715b7b16c7d5c62c"
+    },
+    {
+      "date": "Le mercredi 8 février 2023 de  08:30:00 à  17:00:00",
+      "locality": "POINTE AUX FEUILLES",
+      "localitySlug": "pointe-aux-feuilles",
+      "streets": "Pointe aux Feuilles  et une partie de  Quatre Sœurs  dans le rues suivantes : Gheerdaharry lane, Marizanne lane",
+      "district": "flacq",
+      "from": "2023-02-08T04:30:00.000Z",
+      "to": "2023-02-08T13:00:00.000Z",
+      "id": "db78743fb50b64faa6c95388a64a3158"
+    },
+    {
+      "date": "Le mercredi 8 février 2023 de  15:00:00 à  18:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes : Partie de Robinson, Cité Casernes, Morcellement Riverland et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-02-08T11:00:00.000Z",
+      "to": "2023-02-08T14:00:00.000Z",
+      "id": "94ab91485be2176c98866c1b3a014632"
+    },
+    {
+      "date": "Le mercredi 8 février 2023 de  15:00:00 à  18:00:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "LES ABONNES DE LADY BARKLY SOUILLAC",
+      "district": "savanne",
+      "from": "2023-02-08T11:00:00.000Z",
+      "to": "2023-02-08T14:00:00.000Z",
+      "id": "ae2b2b3f2e5b1aab345c723576583d1b"
+    },
+    {
+      "date": "Le mercredi 8 février 2023 de  09:00:00 à  14:00:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "MORCELLEMENT GRIS GRIS",
+      "district": "savanne",
+      "from": "2023-02-08T05:00:00.000Z",
+      "to": "2023-02-08T10:00:00.000Z",
+      "id": "665b36cef1427d69d82c281922a2df58"
+    },
+    {
+      "date": "Le mercredi 8 février 2023 de  09:15:00 à  17:15:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "PART OF RIVIERE DU POSTE UP TILL MARE TABAC.",
+      "district": "savanne",
+      "from": "2023-02-08T05:15:00.000Z",
+      "to": "2023-02-08T13:15:00.000Z",
+      "id": "238cd692507535b0ea7e87078a25950c"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "ripailles",
+  "name": "RIPAILLES",
+  "district": "moka",
+  "generated": "2025-12-29T20:14:26.177Z",
+  "outageCount": 3,
+  "firstOutage": "2023-10-09",
+  "lastOutage": "2025-12-20",
+  "outages": [
+    {
+      "date": "Le samedi 20 décembre 2025 de  10:30:00 à  13:00:00",
+      "streets": "LESCALIER RD -ROYAL RD RIPAILLES",
+      "from": "2025-12-20T06:30:00.000Z",
+      "to": "2025-12-20T09:00:00.000Z",
+      "id": "245b61c5fb3b18b920746e23e67e3a3b"
+    },
+    {
+      "date": "Le mardi 29 octobre 2024 de  09:00:00 à  12:00:00",
+      "streets": "RIPAILLES NR TELECOM",
+      "from": "2024-10-29T05:00:00.000Z",
+      "to": "2024-10-29T08:00:00.000Z",
+      "id": "3026eb17d7952e5731e35f7df0d7acb7"
+    },
+    {
+      "date": "Le lundi 9 octobre 2023 de  10:00:00 à  12:00:00",
+      "streets": "",
+      "from": "2023-10-09T06:00:00.000Z",
+      "to": "2023-10-09T08:00:00.000Z",
+      "id": "e0d4226b520293454225f606fad2bf77"
+    }
+  ]
+}

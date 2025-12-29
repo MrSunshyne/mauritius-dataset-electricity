@@ -1,0 +1,81 @@
+{
+  "slug": "soreze",
+  "name": "SOREZE",
+  "district": "moka",
+  "generated": "2025-12-29T20:14:26.213Z",
+  "outageCount": 10,
+  "firstOutage": "2023-03-15",
+  "lastOutage": "2025-11-23",
+  "outages": [
+    {
+      "date": "Le dimanche 23 novembre 2025 de  08:30:00 à  15:30:00",
+      "streets": "DANS LES ENVIRONS DES AVENUES CAPITAINE, ROUGET, MULLET, BABONNE, MARLIN, DORADE, CROISSANT, LA PERLE, CARANGUE, KING FISH, FLAMBOYANT, MICHAEL LEAL, MORC SANDO ET DOMAINE SAINT LOUIS",
+      "from": "2025-11-23T04:30:00.000Z",
+      "to": "2025-11-23T11:30:00.000Z",
+      "id": "496292fb16e8114ac3b4785f1a8913b8"
+    },
+    {
+      "date": "Le lundi 3 mars 2025 de  16:40:00 à  17:30:00",
+      "streets": "SOREZE",
+      "from": "2025-03-03T12:40:00.000Z",
+      "to": "2025-03-03T13:30:00.000Z",
+      "id": "3befffee3fc26592a41f163cca510b08"
+    },
+    {
+      "date": "Le dimanche 2 mars 2025 de  08:30:00 à  13:00:00",
+      "streets": "DANS LES ENVIRONS DE MORC FLAMBOYANT",
+      "from": "2025-03-02T04:30:00.000Z",
+      "to": "2025-03-02T09:00:00.000Z",
+      "id": "9cc05bdbcde45812d61ac832c9911962"
+    },
+    {
+      "date": "Le jeudi 20 février 2025 de  11:30:00 à  13:30:00",
+      "streets": "Nr Indian Oil & Salim Motors Highway",
+      "from": "2025-02-20T07:30:00.000Z",
+      "to": "2025-02-20T09:30:00.000Z",
+      "id": "5535dea888def308c1f6b0b03fed6378"
+    },
+    {
+      "date": "Le lundi 7 octobre 2024 de  09:45:00 à  12:00:00",
+      "streets": "Ave Rouget",
+      "from": "2024-10-07T05:45:00.000Z",
+      "to": "2024-10-07T08:00:00.000Z",
+      "id": "197f031d0d1f2dfb7743e41834a2ceb1"
+    },
+    {
+      "date": "Le dimanche 7 juillet 2024 de  12:00:00 à  15:00:00",
+      "streets": "DANS LES ENVIRONS DE AVENUE MICHAEL LEAL, GREWALS LANE,MORC SANDO ET MORC FLAMBOYANT",
+      "from": "2024-07-07T08:00:00.000Z",
+      "to": "2024-07-07T11:00:00.000Z",
+      "id": "0c52187eded149e654d98fb5f75a4cd7"
+    },
+    {
+      "date": "Le mercredi 13 mars 2024 de  13:15:00 à  15:15:00",
+      "streets": "ALLEE FLAMBOYANTS ET LES RUELLES AVOISINANTES.",
+      "from": "2024-03-13T09:15:00.000Z",
+      "to": "2024-03-13T11:15:00.000Z",
+      "id": "b765c6c2164166f7ff9443125ce22c57"
+    },
+    {
+      "date": "Le mercredi 13 mars 2024 de  13:05:00 à  15:05:00",
+      "streets": "ALLEE FLAMBOYANTS ET LES RUELLES AVOISINANTES.",
+      "from": "2024-03-13T09:05:00.000Z",
+      "to": "2024-03-13T11:05:00.000Z",
+      "id": "7e274ba99d4f2c579ced5f73888f8048"
+    },
+    {
+      "date": "Le lundi 5 juin 2023 de  19:50:00 à  20:30:00",
+      "streets": "SOREZE",
+      "from": "2023-06-05T15:50:00.000Z",
+      "to": "2023-06-05T16:30:00.000Z",
+      "id": "1b4419ec30327e6b9a7eae5b5596c006"
+    },
+    {
+      "date": "Le mercredi 15 mars 2023 de  18:40:00 à  20:30:00",
+      "streets": "FEEDER SOREZE/ST LOUIS TRIPPED AS PER CONTROL.PAILLES,MORC RAFFRAY,SOREZE AND NEARBY REGIONS AFFECTED",
+      "from": "2023-03-15T14:40:00.000Z",
+      "to": "2023-03-15T16:30:00.000Z",
+      "id": "a044e4a3e0d8e7ef6dd75d1aa1ad99e8"
+    }
+  ]
+}

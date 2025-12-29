@@ -1,0 +1,38 @@
+{
+  "date": "2025-03-14",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.838Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le vendredi 14 mars 2025 de  08:30:00 à  15:30:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "MORC BELLE VUE ALBION, AVE FLAMMANT, AVE ET LES ENVIRONS",
+      "district": "blackriver",
+      "from": "2025-03-14T04:30:00.000Z",
+      "to": "2025-03-14T11:30:00.000Z",
+      "id": "cbab4c5c78d711545695ff25bccb7e90"
+    },
+    {
+      "date": "Le vendredi 14 mars 2025 de  09:00:00 à  15:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "MORC BELLE VUE, AVE FLAMMANTS ET LES ENVIRONS",
+      "district": "blackriver",
+      "from": "2025-03-14T05:00:00.000Z",
+      "to": "2025-03-14T11:00:00.000Z",
+      "id": "adffd513903773b4180ed3ad6561f668"
+    },
+    {
+      "date": "Le vendredi 14 mars 2025 de  14:30:00 à  18:45:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "Angus Road, Rue Des Nations Unies, une partie de Floréal Road, Lucien De Chazal Street",
+      "district": "plainewilhems",
+      "from": "2025-03-14T10:30:00.000Z",
+      "to": "2025-03-14T14:45:00.000Z",
+      "id": "d2c3cd6abe547238601fc527b0e64df1"
+    }
+  ]
+}

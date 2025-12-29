@@ -1,0 +1,58 @@
+{
+  "date": "2023-10-09",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.799Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le lundi 9 octobre 2023 de  10:00:00 à  12:00:00",
+      "locality": "RIPAILLES",
+      "localitySlug": "ripailles",
+      "streets": "",
+      "district": "moka",
+      "from": "2023-10-09T06:00:00.000Z",
+      "to": "2023-10-09T08:00:00.000Z",
+      "id": "e0d4226b520293454225f606fad2bf77"
+    },
+    {
+      "date": "Le lundi 9 octobre 2023 de  15:30:00 à  16:30:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "ST JOSEPH,PORT CHAMBLY UPTO TERMINUS T BAY",
+      "district": "pamplemousses",
+      "from": "2023-10-09T11:30:00.000Z",
+      "to": "2023-10-09T12:30:00.000Z",
+      "id": "5fb4a0483c6c0389086fa700f1f79fa3"
+    },
+    {
+      "date": "Le lundi 9 octobre 2023 de  09:00:00 à  10:00:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "NHDC HIGHLANDS",
+      "district": "plainewilhems",
+      "from": "2023-10-09T05:00:00.000Z",
+      "to": "2023-10-09T06:00:00.000Z",
+      "id": "eee0761ea394771a62419c95110ebfac"
+    },
+    {
+      "date": "Le lundi 9 octobre 2023 de  15:30:00 à  17:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "REV LEBRUN,BLACKBURN ST",
+      "district": "plainewilhems",
+      "from": "2023-10-09T11:30:00.000Z",
+      "to": "2023-10-09T13:00:00.000Z",
+      "id": "42634b911afbfd673cecf2844734f1a6"
+    },
+    {
+      "date": "Le lundi 9 octobre 2023 de  15:30:00 à  17:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "abattoir Road",
+      "district": "plainewilhems",
+      "from": "2023-10-09T11:30:00.000Z",
+      "to": "2023-10-09T13:30:00.000Z",
+      "id": "709702621c6495fc2e8eeede7db8b4e4"
+    }
+  ]
+}

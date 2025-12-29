@@ -1,0 +1,32 @@
+{
+  "slug": "camp-la-boue-vallee-du-paradis",
+  "name": "CAMP LA BOUE- VALLEE DU PARADIS",
+  "district": "pamplemousses",
+  "generated": "2025-12-29T20:14:25.936Z",
+  "outageCount": 3,
+  "firstOutage": "2025-04-15",
+  "lastOutage": "2025-10-09",
+  "outages": [
+    {
+      "date": "Le jeudi 9 octobre 2025 de  14:30:00 à  16:00:00",
+      "streets": "CAMP LA BOUE",
+      "from": "2025-10-09T10:30:00.000Z",
+      "to": "2025-10-09T12:00:00.000Z",
+      "id": "355da1ed3c3a009f4c82ffa5207b1fbf"
+    },
+    {
+      "date": "Le jeudi 3 juillet 2025 de  20:00:00 à  00:00:00",
+      "streets": "CAMP LA BOUEVALLEE DU PARADIS",
+      "from": "2025-07-03T16:00:00.000Z",
+      "to": "2025-07-02T20:00:00.000Z",
+      "id": "236abcbf4be5afb4da2918fc6500a636"
+    },
+    {
+      "date": "Le mardi 15 avril 2025 de  09:30:00 à  11:30:00",
+      "streets": "CAMP LA BOUE",
+      "from": "2025-04-15T05:30:00.000Z",
+      "to": "2025-04-15T07:30:00.000Z",
+      "id": "65e4c7901b17c7be551f8bdd488fd2cc"
+    }
+  ]
+}

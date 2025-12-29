@@ -1,0 +1,58 @@
+{
+  "date": "2025-07-25",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.844Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le vendredi 25 juillet 2025 de  11:30:00 à  14:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "WHOLE REGION",
+      "district": "blackriver",
+      "from": "2025-07-25T07:30:00.000Z",
+      "to": "2025-07-25T10:00:00.000Z",
+      "id": "e84e53c094db6e4e4812ee6c71acb829"
+    },
+    {
+      "date": "Le vendredi 25 juillet 2025 de  09:00:00 à  16:00:00",
+      "locality": "GROS BOIS",
+      "localitySlug": "gros-bois",
+      "streets": "Gros Bois Village",
+      "district": "grandport",
+      "from": "2025-07-25T05:00:00.000Z",
+      "to": "2025-07-25T12:00:00.000Z",
+      "id": "0d7d7a2f4271a9e19dcc05b0814af0a2"
+    },
+    {
+      "date": "Le vendredi 25 juillet 2025 de  11:30:00 à  13:00:00",
+      "locality": "BALACLAVA",
+      "localitySlug": "balaclava",
+      "streets": "ROYAL PARK",
+      "district": "pamplemousses",
+      "from": "2025-07-25T07:30:00.000Z",
+      "to": "2025-07-25T09:00:00.000Z",
+      "id": "32d1c788c34483697aba52feb3bf5d1a"
+    },
+    {
+      "date": "Le vendredi 25 juillet 2025 de  15:00:00 à  18:00:00",
+      "locality": "CASTEL VACOAS",
+      "localitySlug": "castel-vacoas",
+      "streets": "Une partie de Constantin Lane, Ram Lane, une partie Parisot Lane, Galea No 1 et Galea No 2",
+      "district": "plainewilhems",
+      "from": "2025-07-25T11:00:00.000Z",
+      "to": "2025-07-25T14:00:00.000Z",
+      "id": "c0e23b3c72291a9605ee8b5381ad1a30"
+    },
+    {
+      "date": "Le vendredi 25 juillet 2025 de  09:00:00 à  15:30:00",
+      "locality": "ROCHE TERRE",
+      "localitySlug": "roche-terre",
+      "streets": "REGION ROCHE TERRE",
+      "district": "rivieredurempart",
+      "from": "2025-07-25T05:00:00.000Z",
+      "to": "2025-07-25T11:30:00.000Z",
+      "id": "74aec76122aa2a386e183651c044ddab"
+    }
+  ]
+}

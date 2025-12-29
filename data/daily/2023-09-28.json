@@ -1,0 +1,58 @@
+{
+  "date": "2023-09-28",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.798Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le jeudi 28 septembre 2023 de  18:00:00 à  19:30:00",
+      "locality": "REDUIT",
+      "localitySlug": "reduit",
+      "streets": "AVENUE SOOBIAH REDUIT",
+      "district": "moka",
+      "from": "2023-09-28T14:00:00.000Z",
+      "to": "2023-09-28T15:30:00.000Z",
+      "id": "e24f7885b4afa51fd96d2f0fc82c7525"
+    },
+    {
+      "date": "Le jeudi 28 septembre 2023 de  15:00:00 à  18:00:00",
+      "locality": "SAINT PAUL",
+      "localitySlug": "saint-paul",
+      "streets": "ALLEE JACQUES ST PAUL",
+      "district": "plainewilhems",
+      "from": "2023-09-28T11:00:00.000Z",
+      "to": "2023-09-28T14:00:00.000Z",
+      "id": "28ea8cfa69316ff895ba09c881a5203c"
+    },
+    {
+      "date": "Le jeudi 28 septembre 2023 de  17:00:00 à  18:30:00",
+      "locality": "TRIANON",
+      "localitySlug": "trianon",
+      "streets": "TRIANON,MORC MESNIL",
+      "district": "plainewilhems",
+      "from": "2023-09-28T13:00:00.000Z",
+      "to": "2023-09-28T14:30:00.000Z",
+      "id": "286bf7801c06d6c5ddf3b9f1095d49a7"
+    },
+    {
+      "date": "Le jeudi 28 septembre 2023 de  18:30:00 à  20:00:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "REGIONS HIGHLANDS",
+      "district": "plainewilhems",
+      "from": "2023-09-28T14:30:00.000Z",
+      "to": "2023-09-28T16:00:00.000Z",
+      "id": "6ae8b541cc6d536d3a6e4db534e4f450"
+    },
+    {
+      "date": "Le jeudi 28 septembre 2023 de  09:30:00 à  13:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "MGR LEEN REINE DE LA PAIX-RUE ST JAMES",
+      "district": "portlouis",
+      "from": "2023-09-28T05:30:00.000Z",
+      "to": "2023-09-28T09:00:00.000Z",
+      "id": "91cf67df153dda720c31b599f60c0d89"
+    }
+  ]
+}

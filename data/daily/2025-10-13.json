@@ -1,0 +1,38 @@
+{
+  "date": "2025-10-13",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.850Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le lundi 13 octobre 2025 de  09:30:00 à  11:30:00",
+      "locality": "SAINT JULIEN VILLAGE",
+      "localitySlug": "saint-julien-village",
+      "streets": "SAINT JULIEN VILLAGE",
+      "district": "flacq",
+      "from": "2025-10-13T05:30:00.000Z",
+      "to": "2025-10-13T07:30:00.000Z",
+      "id": "9c5ccb00452d198a5c86cca60d9f63c8"
+    },
+    {
+      "date": "Le lundi 13 octobre 2025 de  14:00:00 à  15:30:00",
+      "locality": "VILLENOIRE",
+      "localitySlug": "villenoire",
+      "streets": "MORC RUISSEAU DES DELICES AND SURROUNDINGS",
+      "district": "grandport",
+      "from": "2025-10-13T10:00:00.000Z",
+      "to": "2025-10-13T11:30:00.000Z",
+      "id": "f34d960edd58d50257c8e539b541d4fc"
+    },
+    {
+      "date": "Le lundi 13 octobre 2025 de  16:30:00 à  17:30:00",
+      "locality": "CITE CHEBEL",
+      "localitySlug": "cite-chebel",
+      "streets": "LA REPRISE,PRISON RICHELIEU,CAMP BERTLO, PILLAY ENGINEERING, RESIDENCE TROCHETIA,RESIDENCE BARKLY, MORC LA CONFIANCE",
+      "district": "plainewilhems",
+      "from": "2025-10-13T12:30:00.000Z",
+      "to": "2025-10-13T13:30:00.000Z",
+      "id": "71f563a1431c96f29e7cce600a1cd55c"
+    }
+  ]
+}

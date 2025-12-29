@@ -1,0 +1,88 @@
+{
+  "date": "2023-11-29",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.802Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le mercredi 29 novembre 2023 de  10:00:00 à  11:30:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "MORCELLEMENT HERMITAGE FLACQ.",
+      "district": "flacq",
+      "from": "2023-11-29T06:00:00.000Z",
+      "to": "2023-11-29T07:30:00.000Z",
+      "id": "d947fd26ee9d8d11327b766582c5068a"
+    },
+    {
+      "date": "Le mercredi 29 novembre 2023 de  18:00:00 à  21:00:00",
+      "locality": "CAMP ITHIER",
+      "localitySlug": "camp-ithier",
+      "streets": "MORC MON REVE CAMP ITHIER",
+      "district": "flacq",
+      "from": "2023-11-29T14:00:00.000Z",
+      "to": "2023-11-29T17:00:00.000Z",
+      "id": "fb0ea0474b2fc8f9f788cd4258b83bdc"
+    },
+    {
+      "date": "Le mercredi 29 novembre 2023 de  10:30:00 à  13:00:00",
+      "locality": "FOND DU SAC",
+      "localitySlug": "fond-du-sac",
+      "streets": "ROSHNI RD FOND DU SAC NR DALLAS",
+      "district": "pamplemousses",
+      "from": "2023-11-29T06:30:00.000Z",
+      "to": "2023-11-29T09:00:00.000Z",
+      "id": "9d232750d41dc236e3e22350675acaa8"
+    },
+    {
+      "date": "Le mercredi 29 novembre 2023 de  08:30:00 à  13:00:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "HENRIETTA AND GLEN PARK: NHDC Camp Mapou, une partie de Camp-Roches, Bhagat lane, une partie de chemin Devergues, une partie de Camp Fideles",
+      "district": "plainewilhems",
+      "from": "2023-11-29T04:30:00.000Z",
+      "to": "2023-11-29T09:00:00.000Z",
+      "id": "c6b0990edbab0e171fcb4e1b96da0f7e"
+    },
+    {
+      "date": "Le mercredi 29 novembre 2023 de  17:00:00 à  20:00:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "LA LOUISE EN PARTIE PALMA",
+      "district": "plainewilhems",
+      "from": "2023-11-29T13:00:00.000Z",
+      "to": "2023-11-29T16:00:00.000Z",
+      "id": "7234d17af52813cdaaafcfcc76da1217"
+    },
+    {
+      "date": "Le mercredi 29 novembre 2023 de  13:15:00 à  15:00:00",
+      "locality": "CITE LA CURE",
+      "localitySlug": "cite-la-cure",
+      "streets": "RUE ROBERT SCOTT, RUE NARVADA ET CROWN LAND.",
+      "district": "portlouis",
+      "from": "2023-11-29T09:15:00.000Z",
+      "to": "2023-11-29T11:00:00.000Z",
+      "id": "7a76edb4ed155041b206d825c9104f8f"
+    },
+    {
+      "date": "Le mercredi 29 novembre 2023 de  15:30:00 à  16:30:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "CAPITAINE PONTRE STCRROIX",
+      "district": "portlouis",
+      "from": "2023-11-29T11:30:00.000Z",
+      "to": "2023-11-29T12:30:00.000Z",
+      "id": "5fcd7ff05c4b9a971c95d5fcf7117123"
+    },
+    {
+      "date": "Le mercredi 29 novembre 2023 de  09:00:00 à  15:00:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "MELVILLE GRAND GAUBE",
+      "district": "rivieredurempart",
+      "from": "2023-11-29T05:00:00.000Z",
+      "to": "2023-11-29T11:00:00.000Z",
+      "id": "77106b533c15fcb6dbbd5d810326a93f"
+    }
+  ]
+}

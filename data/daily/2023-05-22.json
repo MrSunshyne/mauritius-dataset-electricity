@@ -1,0 +1,58 @@
+{
+  "date": "2023-05-22",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.789Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le lundi 22 mai 2023 de  08:30:00 à  14:30:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "Barachois",
+      "district": "blackriver",
+      "from": "2023-05-22T04:30:00.000Z",
+      "to": "2023-05-22T10:30:00.000Z",
+      "id": "231d40f1f3dc71353d3a888487fb428c"
+    },
+    {
+      "date": "Le lundi 22 mai 2023 de  10:30:00 à  12:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "Ave Grenadier",
+      "district": "blackriver",
+      "from": "2023-05-22T06:30:00.000Z",
+      "to": "2023-05-22T08:00:00.000Z",
+      "id": "49d029f07fb7dcfce5c5d5c6e57a9aad"
+    },
+    {
+      "date": "Le lundi 22 mai 2023 de  20:00:00 à  22:30:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "region albion",
+      "district": "blackriver",
+      "from": "2023-05-22T16:00:00.000Z",
+      "to": "2023-05-22T18:30:00.000Z",
+      "id": "f9c8960e77c343075941d63ec6313441"
+    },
+    {
+      "date": "Le lundi 22 mai 2023 de  09:30:00 à  11:00:00",
+      "locality": "POSTE DE FLACQ",
+      "localitySlug": "poste-de-flacq",
+      "streets": "Morc Constance,Morc Golf  a Pointe de Flacq",
+      "district": "flacq",
+      "from": "2023-05-22T05:30:00.000Z",
+      "to": "2023-05-22T07:00:00.000Z",
+      "id": "ccfeee818b3413f6bdf2d5d3cc05b6c0"
+    },
+    {
+      "date": "Le lundi 22 mai 2023 de  19:30:00 à  22:00:00",
+      "locality": "TRIANON",
+      "localitySlug": "trianon",
+      "streets": "PELLEGRIN TRIANON",
+      "district": "plainewilhems",
+      "from": "2023-05-22T15:30:00.000Z",
+      "to": "2023-05-22T18:00:00.000Z",
+      "id": "69ecf760bfac4de4588733bba6ca318b"
+    }
+  ]
+}

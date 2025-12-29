@@ -1,0 +1,68 @@
+{
+  "date": "2024-02-27",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.809Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le mardi 27 février 2024 de  10:00:00 à  13:00:00",
+      "locality": "BEAU CHAMP FLACQ",
+      "localitySlug": "beau-champ-flacq",
+      "streets": "BEAU CHAMP/ERNEST FLORENT",
+      "district": "flacq",
+      "from": "2024-02-27T06:00:00.000Z",
+      "to": "2024-02-27T09:00:00.000Z",
+      "id": "ef1fb6a196ebbb1035ad11150c3cae1b"
+    },
+    {
+      "date": "Le mardi 27 février 2024 de  10:00:00 à  13:00:00",
+      "locality": "OLIVIA",
+      "localitySlug": "olivia",
+      "streets": "LA NOURICE OLIVIA",
+      "district": "flacq",
+      "from": "2024-02-27T06:00:00.000Z",
+      "to": "2024-02-27T09:00:00.000Z",
+      "id": "4d21f35e4a507d7bc6a6a92381f5bfd1"
+    },
+    {
+      "date": "Le mardi 27 février 2024 de  18:30:00 à  21:00:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "PETIT CHEMIN,CHEMIN LA FORGE",
+      "district": "flacq",
+      "from": "2024-02-27T14:30:00.000Z",
+      "to": "2024-02-27T17:00:00.000Z",
+      "id": "ff3db9adca0595072046dee2b211c2e5"
+    },
+    {
+      "date": "Le mardi 27 février 2024 de  14:50:00 à  16:50:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "ROYAL RD PAMPLEMOUSSES ENVIRONS LEGLISE",
+      "district": "pamplemousses",
+      "from": "2024-02-27T10:50:00.000Z",
+      "to": "2024-02-27T12:50:00.000Z",
+      "id": "1cfadfde32e79a8cb890d0163001bd08"
+    },
+    {
+      "date": "Le mardi 27 février 2024 de  14:00:00 à  16:00:00",
+      "locality": "SODNAC",
+      "localitySlug": "sodnac",
+      "streets": "Ave Bengali, Allouette, Dodo, Cardinal, Flammant, Epervier, Geais, Morc Marouma en partie Hillcrest, Hirondelle et Pelican",
+      "district": "plainewilhems",
+      "from": "2024-02-27T10:00:00.000Z",
+      "to": "2024-02-27T12:00:00.000Z",
+      "id": "815c313eb57cdcb7b955cf59959c1298"
+    },
+    {
+      "date": "Le mardi 27 février 2024 de  10:00:00 à  14:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LES ABONNES DE TROIS SOLEIL, PATATE THEOPHILE ET MONTAGNE CABRIS EST.",
+      "district": "rodrigues",
+      "from": "2024-02-27T06:00:00.000Z",
+      "to": "2024-02-27T10:00:00.000Z",
+      "id": "d7c10ba33c1eb6678b0fd2b556f3c607"
+    }
+  ]
+}

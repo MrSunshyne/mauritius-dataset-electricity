@@ -1,0 +1,68 @@
+{
+  "date": "2024-06-10",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.817Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le lundi 10 juin 2024 de  09:30:00 à  13:30:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "MORC RAMDANY",
+      "district": "blackriver",
+      "from": "2024-06-10T05:30:00.000Z",
+      "to": "2024-06-10T09:30:00.000Z",
+      "id": "605808fa77f9c8d6a6e7cce895c459fe"
+    },
+    {
+      "date": "Le lundi 10 juin 2024 de  16:30:00 à  17:45:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "UNION PARK,ROSE BELLE ,NOUVELLE FRANCE",
+      "district": "grandport",
+      "from": "2024-06-10T12:30:00.000Z",
+      "to": "2024-06-10T13:45:00.000Z",
+      "id": "9e5cf2828ea2ed292f5cdf3b6cb084c1"
+    },
+    {
+      "date": "Le lundi 10 juin 2024 de  12:30:00 à  14:00:00",
+      "locality": "QUARTIER MILITAIRE",
+      "localitySlug": "quartier-militaire",
+      "streets": "PART OF QUARTIER MILITAITE",
+      "district": "moka",
+      "from": "2024-06-10T08:30:00.000Z",
+      "to": "2024-06-10T10:00:00.000Z",
+      "id": "7f02431aaf56c7a5fd90d55ccc8dd97b"
+    },
+    {
+      "date": "Le lundi 10 juin 2024 de  09:00:00 à  13:00:00",
+      "locality": "BELLE VUE HAREL",
+      "localitySlug": "belle-vue-harel",
+      "streets": "HILL SIDE MORC BELLE VUE HAREL",
+      "district": "pamplemousses",
+      "from": "2024-06-10T05:00:00.000Z",
+      "to": "2024-06-10T09:00:00.000Z",
+      "id": "da319a371ce8929759309e3af823cc54"
+    },
+    {
+      "date": "Le lundi 10 juin 2024 de  15:00:00 à  15:45:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "CHEMIN LA FORGE PALMA",
+      "district": "plainewilhems",
+      "from": "2024-06-10T11:00:00.000Z",
+      "to": "2024-06-10T11:45:00.000Z",
+      "id": "d060dd648ddfeedd0523b873873096a4"
+    },
+    {
+      "date": "Le lundi 10 juin 2024 de  15:00:00 à  16:00:00",
+      "locality": "ROCHES NOIRES",
+      "localitySlug": "roches-noires",
+      "streets": "ROCHES NOIRES,PLAINE DES ROCHES.POSTE LAFAYETTE,AUTRIVE",
+      "district": "rivieredurempart",
+      "from": "2024-06-10T11:00:00.000Z",
+      "to": "2024-06-10T12:00:00.000Z",
+      "id": "69fcce3d418969f64281440ea9268c19"
+    }
+  ]
+}

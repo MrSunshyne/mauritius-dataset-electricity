@@ -1,0 +1,58 @@
+{
+  "date": "2022-09-22",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.772Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le jeudi 22 septembre 2022 de  08:30:00 à  16:30:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "Morcellement Ramdanee",
+      "district": "blackriver",
+      "from": "2022-09-22T04:30:00.000Z",
+      "to": "2022-09-22T12:30:00.000Z",
+      "id": "fb381df8d66c6b0a3952e9ba4d21e306"
+    },
+    {
+      "date": "Le jeudi 22 septembre 2022 de  10:00:00 à  15:00:00",
+      "locality": "SEBASTOPOL",
+      "localitySlug": "sebastopol",
+      "streets": "MORC FLITEDOR NR POST OFFICE SEBASTOPOL",
+      "district": "flacq",
+      "from": "2022-09-22T06:00:00.000Z",
+      "to": "2022-09-22T11:00:00.000Z",
+      "id": "7850a4fca61cd2fb62e718f1f18bf08c"
+    },
+    {
+      "date": "Le jeudi 22 septembre 2022 de  10:00:00 à  12:00:00",
+      "locality": "QUARTIER MILITAIRE",
+      "localitySlug": "quartier-militaire",
+      "streets": "Les abonnés du village de Quartier Militaire habitant les rues et les régions suivantes : Partie de la Route Royale de Quartier Militaire, Cite Bonne Veine et les ruelles avoisinantes",
+      "district": "moka",
+      "from": "2022-09-22T06:00:00.000Z",
+      "to": "2022-09-22T08:00:00.000Z",
+      "id": "ab0a87dea046f517e2634fadddd47fea"
+    },
+    {
+      "date": "Le jeudi 22 septembre 2022 de  08:30:00 à  14:00:00",
+      "locality": "MONT ROCHES",
+      "localitySlug": "mont-roches",
+      "streets": "Chellumbrun St, School Lane, Verger Bissambar, Aphrim et les environs",
+      "district": "plainewilhems",
+      "from": "2022-09-22T04:30:00.000Z",
+      "to": "2022-09-22T10:00:00.000Z",
+      "id": "a304dae3d00d3d72fbba28da27303d5e"
+    },
+    {
+      "date": "Le jeudi 22 septembre 2022 de  16:00:00 à  17:30:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "PALMA QUATRE BORNES",
+      "district": "plainewilhems",
+      "from": "2022-09-22T12:00:00.000Z",
+      "to": "2022-09-22T13:30:00.000Z",
+      "id": "4e09916311d9586497c9639297635fb0"
+    }
+  ]
+}

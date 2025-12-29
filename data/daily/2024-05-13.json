@@ -1,0 +1,68 @@
+{
+  "date": "2024-05-13",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.815Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le lundi 13 mai 2024 de  09:00:00 à  15:00:00",
+      "locality": "CAROLINE BEL AIR",
+      "localitySlug": "caroline-bel-air",
+      "streets": "Le village Caroline: Route Royale, Avenue Descombes, Avenue Gandhi, Avenue Ramloll, Avenue Allaman et les chemin avoisinant",
+      "district": "flacq",
+      "from": "2024-05-13T05:00:00.000Z",
+      "to": "2024-05-13T11:00:00.000Z",
+      "id": "601beba7deee1d2955e3ba4e865135c2"
+    },
+    {
+      "date": "Le lundi 13 mai 2024 de  15:00:00 à  16:00:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "LA LUCIE BLDG, MORC PONT LARDIER,SSS BEL AIR ET LES ALENTOURS",
+      "district": "flacq",
+      "from": "2024-05-13T11:00:00.000Z",
+      "to": "2024-05-13T12:00:00.000Z",
+      "id": "70b29f6dc81e0ed3c8b0efcd3b8689b9"
+    },
+    {
+      "date": "Le lundi 13 mai 2024 de  15:50:00 à  17:30:00",
+      "locality": "COTE D-OR",
+      "localitySlug": "cote-d-or",
+      "streets": "VILLAGE DE COTE DOR, CAMP AUGUSTE ET LES ALENTOURS",
+      "district": "moka",
+      "from": "2024-05-13T11:50:00.000Z",
+      "to": "2024-05-13T13:30:00.000Z",
+      "id": "4eecc4e30e8a69c6ed267b3fd90ad7cd"
+    },
+    {
+      "date": "Le lundi 13 mai 2024 de  15:53:00 à  17:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "ST JOSEPH ROAD TOMBEAU BAY",
+      "district": "pamplemousses",
+      "from": "2024-05-13T11:53:00.000Z",
+      "to": "2024-05-13T13:00:00.000Z",
+      "id": "15aade26a818bb88ad1e409a69018a77"
+    },
+    {
+      "date": "Le lundi 13 mai 2024 de  10:30:00 à  11:30:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": "Rue Guillaume Giquel",
+      "district": "plainewilhems",
+      "from": "2024-05-13T06:30:00.000Z",
+      "to": "2024-05-13T07:30:00.000Z",
+      "id": "118f153e17d3ab07e55a6e972ddea54e"
+    },
+    {
+      "date": "Le lundi 13 mai 2024 de  17:05:00 à  18:35:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "VACOAS PRES DE LA GARE ET MINI MARCHER",
+      "district": "plainewilhems",
+      "from": "2024-05-13T13:05:00.000Z",
+      "to": "2024-05-13T14:35:00.000Z",
+      "id": "0baa73d256c071deb21ba403e9488384"
+    }
+  ]
+}

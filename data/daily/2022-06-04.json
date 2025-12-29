@@ -1,0 +1,78 @@
+{
+  "date": "2022-06-04",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.764Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le samedi 4 juin 2022 de  08:30:00 à  15:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "MONTAGNE ST PIERRE ET UNE PARTIE DE LA ZONE INDUSTRIELLE DE BAMBOUS",
+      "district": "blackriver",
+      "from": "2022-06-04T04:30:00.000Z",
+      "to": "2022-06-04T11:30:00.000Z",
+      "id": "3d2c7c69e47cfd880571a5e475ca2032"
+    },
+    {
+      "date": "Le samedi 4 juin 2022 de  15:00:00 à  17:00:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "Les abonnés de La Route Royale Bel-Air Riviere Seche dans les environs de la Banque MCB et Morcellement Dilchand Railway Road",
+      "district": "flacq",
+      "from": "2022-06-04T11:00:00.000Z",
+      "to": "2022-06-04T13:00:00.000Z",
+      "id": "692130efd28882c845f1030392421372"
+    },
+    {
+      "date": "Le samedi 4 juin 2022 de  08:15:00 à  17:00:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "Les abonnés habitant à  Bel-Air Riviere Seche dans les périmètres de La Lucie Roy, Morcellement  Maroussem, Petit Chemin, Basic Training Centre, La Station-Service Indian Oil et La Station Police De Bel-Air",
+      "district": "flacq",
+      "from": "2022-06-04T04:15:00.000Z",
+      "to": "2022-06-04T13:00:00.000Z",
+      "id": "0204e11a6acc3dbd8c8bd4b805c40b4a"
+    },
+    {
+      "date": "Le samedi 4 juin 2022 de  11:00:00 à  15:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Ave Trotter et les environs",
+      "district": "plainewilhems",
+      "from": "2022-06-04T07:00:00.000Z",
+      "to": "2022-06-04T11:00:00.000Z",
+      "id": "651bbdb8aabb8030ad62b6e2b151642c"
+    },
+    {
+      "date": "Le samedi 4 juin 2022 de  09:00:00 à  15:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "AVE COCOTIERS-MONTREAL COROMANDEL",
+      "district": "plainewilhems",
+      "from": "2022-06-04T05:00:00.000Z",
+      "to": "2022-06-04T11:00:00.000Z",
+      "id": "1e73c073b994f31de729ddb7d720fcff"
+    },
+    {
+      "date": "Le samedi 4 juin 2022 de  09:30:00 à  11:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "LES ABONNES HABITANT PORT LOUIS DANS LES ENVIRONS DES RUES MAHARATTA, CALCUTTA, BENARES,BOMBAY,SERANG ET MAGON",
+      "district": "portlouis",
+      "from": "2022-06-04T05:30:00.000Z",
+      "to": "2022-06-04T07:00:00.000Z",
+      "id": "910105a75bc515f6a87c85d4ad3c912a"
+    },
+    {
+      "date": "Le samedi 4 juin 2022 de  08:30:00 à  15:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "LES ABONNES HABITANT MORC VRS PTE AUX SABLES DANS LES ENVIRONS DES AVENUES COCOTIERS, MURIERS, NOISETIEURS, JACQUIERS,DATIERS, CITRONIERS ET LITCHIERS",
+      "district": "portlouis",
+      "from": "2022-06-04T04:30:00.000Z",
+      "to": "2022-06-04T11:00:00.000Z",
+      "id": "4bfdd8347990587b7901ab0044aac8fb"
+    }
+  ]
+}

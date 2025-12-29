@@ -1,0 +1,28 @@
+{
+  "date": "2022-10-03",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.772Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le lundi 3 octobre 2022 de  08:30:00 à  14:30:00",
+      "locality": "MEDINE BAMBOUS",
+      "localitySlug": "medine-bambous",
+      "streets": "Morc VRS Mon Repos Medine et Camp Maïs",
+      "district": "blackriver",
+      "from": "2022-10-03T04:30:00.000Z",
+      "to": "2022-10-03T10:30:00.000Z",
+      "id": "158bb9c39d7b75a293c44872cd919369"
+    },
+    {
+      "date": "Le lundi 3 octobre 2022 de  09:00:00 à  12:00:00",
+      "locality": "QUARTIER MILITAIRE",
+      "localitySlug": "quartier-militaire",
+      "streets": "BETUAL RD QUARTIER MILITAIRE",
+      "district": "moka",
+      "from": "2022-10-03T05:00:00.000Z",
+      "to": "2022-10-03T08:00:00.000Z",
+      "id": "28e8b19309e6d5308f640a04384ee5b5"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "deep-river-beau-champ",
+  "name": "DEEP RIVER BEAU CHAMP",
+  "district": "flacq",
+  "generated": "2025-12-29T20:14:25.989Z",
+  "outageCount": 7,
+  "firstOutage": "2022-10-23",
+  "lastOutage": "2024-08-13",
+  "outages": [
+    {
+      "date": "Le mardi 13 août 2024 de  00:00:00 à  13:00:00",
+      "streets": "Louis Renaud,Alteo Office,DEEP RIVER",
+      "from": "2024-08-12T20:00:00.000Z",
+      "to": "2024-08-12T09:00:00.000Z",
+      "id": "fa940fee39af066895ed4ff49c5a3ad6"
+    },
+    {
+      "date": "Le samedi 2 septembre 2023 de  09:00:00 à  15:00:00",
+      "streets": "DEEP RIVER",
+      "from": "2023-09-02T05:00:00.000Z",
+      "to": "2023-09-02T11:00:00.000Z",
+      "id": "7e851e73f554f82174cb88c13be14e03"
+    },
+    {
+      "date": "Le vendredi 25 août 2023 de  09:30:00 à  15:00:00",
+      "streets": "LES ABONNES DU MORC VRS ET MORC LOUIS RENAUD.",
+      "from": "2023-08-25T05:30:00.000Z",
+      "to": "2023-08-25T11:00:00.000Z",
+      "id": "58ace4d89c4b5084e75ce1aec2b6b8e2"
+    },
+    {
+      "date": "Le vendredi 25 août 2023 de  09:00:00 à  15:00:00",
+      "streets": "Les abonnés de Morcellement VRS, Morcellement Louis Renault et en partie de la Route Royale.",
+      "from": "2023-08-25T05:00:00.000Z",
+      "to": "2023-08-25T11:00:00.000Z",
+      "id": "bfc9dd9c5c47c536d75b16177fea59c5"
+    },
+    {
+      "date": "Le mardi 22 août 2023 de  09:00:00 à  13:00:00",
+      "streets": "MORC VRS DEEP RIVER",
+      "from": "2023-08-22T05:00:00.000Z",
+      "to": "2023-08-22T09:00:00.000Z",
+      "id": "c8d582e4350307be0b0f22307427c30c"
+    },
+    {
+      "date": "Le mercredi 28 décembre 2022 de  09:45:00 à  15:00:00",
+      "streets": "PARTIE DE DEEP RIVER VILLAGE ET MORCELLEMENT LOUIS RENAUD",
+      "from": "2022-12-28T05:45:00.000Z",
+      "to": "2022-12-28T11:00:00.000Z",
+      "id": "14e1f9f7a993247998bd17a2cac470a1"
+    },
+    {
+      "date": "Le dimanche 23 octobre 2022 de  09:20:00 à  12:00:00",
+      "streets": "MORC RENAUD",
+      "from": "2022-10-23T05:20:00.000Z",
+      "to": "2022-10-23T08:00:00.000Z",
+      "id": "fa0d48a4779ebb5016c69995b15f05f4"
+    }
+  ]
+}

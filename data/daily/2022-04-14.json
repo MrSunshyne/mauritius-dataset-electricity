@@ -1,0 +1,58 @@
+{
+  "date": "2022-04-14",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.762Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le jeudi 14 avril 2022 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "AVE DES CACHALOTS, IMPASSE DES CACHALOTS, AVE SEAROCK, UNE PARTIE DE LAVE SOUFFLEUR ET SUNSET",
+      "district": "blackriver",
+      "from": "2022-04-14T04:30:00.000Z",
+      "to": "2022-04-14T11:30:00.000Z",
+      "id": "d4116a53de1ed36d256880fda75175e8"
+    },
+    {
+      "date": "Le jeudi 14 avril 2022 de  08:30:00 à  16:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "EN PARTIE MARE GRAVIER ET AVE TOURNESOL",
+      "district": "plainewilhems",
+      "from": "2022-04-14T04:30:00.000Z",
+      "to": "2022-04-14T12:00:00.000Z",
+      "id": "781b4c27568c4a6ba5495f3180ce14ff"
+    },
+    {
+      "date": "Le jeudi 14 avril 2022 de  08:30:00 à  16:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "une partie de Route Angus, Mudaliar Road, Avenue Wilson, Morcellement Sauba",
+      "district": "plainewilhems",
+      "from": "2022-04-14T04:30:00.000Z",
+      "to": "2022-04-14T12:00:00.000Z",
+      "id": "b8187a0b4c4e5804c5a5260ef8c8fd82"
+    },
+    {
+      "date": "Le jeudi 14 avril 2022 de  10:15:00 à  11:30:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Nalletamby Ave",
+      "district": "plainewilhems",
+      "from": "2022-04-14T06:15:00.000Z",
+      "to": "2022-04-14T07:30:00.000Z",
+      "id": "06bdd6c6c82b25d57cccf196e11f0437"
+    },
+    {
+      "date": "Le jeudi 14 avril 2022 de  08:30:00 à  16:00:00",
+      "locality": "BATIMARAIS",
+      "localitySlug": "batimarais",
+      "streets": "Batimarais",
+      "district": "savanne",
+      "from": "2022-04-14T04:30:00.000Z",
+      "to": "2022-04-14T12:00:00.000Z",
+      "id": "0d31b9433f4ac42e25b5b95771fe4fc9"
+    }
+  ]
+}

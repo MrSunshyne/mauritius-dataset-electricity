@@ -1,0 +1,39 @@
+{
+  "slug": "case-noyale",
+  "name": "CASE NOYALE",
+  "district": "blackriver",
+  "generated": "2025-12-29T20:14:25.952Z",
+  "outageCount": 4,
+  "firstOutage": "2023-11-10",
+  "lastOutage": "2025-11-10",
+  "outages": [
+    {
+      "date": "Le lundi 10 novembre 2025 de  13:30:00 à  15:00:00",
+      "streets": "CASE NOYALE",
+      "from": "2025-11-10T09:30:00.000Z",
+      "to": "2025-11-10T11:00:00.000Z",
+      "id": "c95d86769e8085601d560df5e4480791"
+    },
+    {
+      "date": "Le vendredi 4 juillet 2025 de  13:45:00 à  15:45:00",
+      "streets": "DANS LES ENVIRONS CENTRE SOCIALE.",
+      "from": "2025-07-04T09:45:00.000Z",
+      "to": "2025-07-04T11:45:00.000Z",
+      "id": "f999a6c39341d1a1ceb8bd59d8c00d4e"
+    },
+    {
+      "date": "Le samedi 21 septembre 2024 de  09:30:00 à  13:30:00",
+      "streets": "ROYAL ROAD AND SURROUNDINGS",
+      "from": "2024-09-21T05:30:00.000Z",
+      "to": "2024-09-21T09:30:00.000Z",
+      "id": "79e6651fbdf57ee9d0e291d5506b8266"
+    },
+    {
+      "date": "Le vendredi 10 novembre 2023 de  11:00:00 à  15:00:00",
+      "streets": "CASE NOYALE",
+      "from": "2023-11-10T07:00:00.000Z",
+      "to": "2023-11-10T11:00:00.000Z",
+      "id": "ce4f2bd0e6f9cd84f3758715b97a62d4"
+    }
+  ]
+}

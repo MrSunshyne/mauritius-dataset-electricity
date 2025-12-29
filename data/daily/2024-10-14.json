@@ -1,0 +1,78 @@
+{
+  "date": "2024-10-14",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.827Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le lundi 14 octobre 2024 de  10:30:00 à  12:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "DAUPHINE,CORDONNIERS, MARSOUINS,CAPITAINE. AND SURROUNDING IN MORC DE CHAZAL",
+      "district": "blackriver",
+      "from": "2024-10-14T06:30:00.000Z",
+      "to": "2024-10-14T08:00:00.000Z",
+      "id": "e9847e002565aa0b8b5c377f3d4ce5eb"
+    },
+    {
+      "date": "Le lundi 14 octobre 2024 de  16:00:00 à  18:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "DANS LES ENVIRONS DE LA RUE LA JOLIETTE ET UNE PARTIE DE LA ROUTE ROYAL",
+      "district": "blackriver",
+      "from": "2024-10-14T12:00:00.000Z",
+      "to": "2024-10-14T14:00:00.000Z",
+      "id": "aead907b9ee1d01464cbe593bec936cd"
+    },
+    {
+      "date": "Le lundi 14 octobre 2024 de  10:45:00 à  13:00:00",
+      "locality": "NOUVELLE FRANCE",
+      "localitySlug": "nouvelle-france",
+      "streets": "Grand Port,Link,Allee Jacques,Kalimaye Roads",
+      "district": "grandport",
+      "from": "2024-10-14T06:45:00.000Z",
+      "to": "2024-10-14T09:00:00.000Z",
+      "id": "d75719b872fb3e78873b4b0348bf9020"
+    },
+    {
+      "date": "Le lundi 14 octobre 2024 de  16:00:00 à  00:00:00",
+      "locality": "MOKA",
+      "localitySlug": "moka",
+      "streets": "CWA CAMP AUGUSTE ALSO KNOWN AS BAGATELE DAM BY CWA OFFICER",
+      "district": "moka",
+      "from": "2024-10-14T12:00:00.000Z",
+      "to": "2024-10-13T20:00:00.000Z",
+      "id": "9058007028c870f551d6ce8e06935e45"
+    },
+    {
+      "date": "Le lundi 14 octobre 2024 de  16:00:00 à  16:30:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "Morc St André, Bois Mangues, Plaine Des Papayes, Solitude, Pointe Aux Piments et Triolet",
+      "district": "pamplemousses",
+      "from": "2024-10-14T12:00:00.000Z",
+      "to": "2024-10-14T12:30:00.000Z",
+      "id": "9b5baa70177149b3f206fc52df5000ae"
+    },
+    {
+      "date": "Le lundi 14 octobre 2024 de  15:20:00 à  16:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "BOUNDARY RD DANS LES ENVIRONS DE EGLISE ST PATRICK",
+      "district": "plainewilhems",
+      "from": "2024-10-14T11:20:00.000Z",
+      "to": "2024-10-14T12:00:00.000Z",
+      "id": "1906c6ecb69c6ccd2d3ee08b1dc50de9"
+    },
+    {
+      "date": "Le lundi 14 octobre 2024 de  09:30:00 à  14:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "VERGER ROAD, GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2024-10-14T05:30:00.000Z",
+      "to": "2024-10-14T10:00:00.000Z",
+      "id": "7e29913f392a944b4ebe9de1e89eda26"
+    }
+  ]
+}

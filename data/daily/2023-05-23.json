@@ -1,0 +1,68 @@
+{
+  "date": "2023-05-23",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.789Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le mardi 23 mai 2023 de  20:00:00 à  21:00:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "ALLEE MANGUE VERT DOUX",
+      "district": "blackriver",
+      "from": "2023-05-23T16:00:00.000Z",
+      "to": "2023-05-23T17:00:00.000Z",
+      "id": "ec06d0a2c8f0216cbd3b34767e242a10"
+    },
+    {
+      "date": "Le mardi 23 mai 2023 de  09:00:00 à  12:30:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "MORC ILOIS",
+      "district": "pamplemousses",
+      "from": "2023-05-23T05:00:00.000Z",
+      "to": "2023-05-23T08:30:00.000Z",
+      "id": "6a57bf12ae409c162899aa4170339317"
+    },
+    {
+      "date": "Le mardi 23 mai 2023 de  08:30:00 à  15:00:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "henrietta et La Marie : Bord Cascade, Closel, Mont Simonet, Mare-Longue, NHDC Henrietta, Morcellement Pousson",
+      "district": "plainewilhems",
+      "from": "2023-05-23T04:30:00.000Z",
+      "to": "2023-05-23T11:00:00.000Z",
+      "id": "f6492ebe085eaaad18b8d0d8477d0ef5"
+    },
+    {
+      "date": "Le mardi 23 mai 2023 de  20:40:00 à  22:40:00",
+      "locality": "VALLEE PITOT",
+      "localitySlug": "vallee-pitot",
+      "streets": "GALDEMAR ST,COMETE ST AND NEARBY REGION",
+      "district": "portlouis",
+      "from": "2023-05-23T16:40:00.000Z",
+      "to": "2023-05-23T18:40:00.000Z",
+      "id": "1c33a6518095524b4113b8a40c8a86c9"
+    },
+    {
+      "date": "Le mardi 23 mai 2023 de  10:00:00 à  15:00:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "Couacaud Rd",
+      "district": "rivieredurempart",
+      "from": "2023-05-23T06:00:00.000Z",
+      "to": "2023-05-23T11:00:00.000Z",
+      "id": "368558221bebbe1a393c0a34bf4940d0"
+    },
+    {
+      "date": "Le mardi 23 mai 2023 de  12:00:00 à  15:00:00",
+      "locality": "PATATE THEOPHILLE(RODRIGUES)",
+      "localitySlug": "patate-theophille",
+      "streets": "PATATE THEOPHILE MORCELLEMENT",
+      "district": "rodrigues",
+      "from": "2023-05-23T08:00:00.000Z",
+      "to": "2023-05-23T11:00:00.000Z",
+      "id": "ea8c546e4ae8687c142e65251727862f"
+    }
+  ]
+}

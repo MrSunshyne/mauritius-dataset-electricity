@@ -1,0 +1,28 @@
+{
+  "date": "2025-12-25",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.856Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le jeudi 25 décembre 2025 de  19:50:00 à  23:00:00",
+      "locality": "PLAINE DES ROCHES",
+      "localitySlug": "plaine-des-roches",
+      "streets": "SENEQUE ROAD ROYAL ROAD EN PARTIE NEAR SCHOOL",
+      "district": "rivieredurempart",
+      "from": "2025-12-25T15:50:00.000Z",
+      "to": "2025-12-25T19:00:00.000Z",
+      "id": "ed7288c0db573d9231acec28375f62f6"
+    },
+    {
+      "date": "Le jeudi 25 décembre 2025 de  16:00:00 à  23:00:00",
+      "locality": "POINTE AUX CANONNIERS",
+      "localitySlug": "pointe-aux-canonniers",
+      "streets": "REGION POINTE AUX CANNONIER",
+      "district": "rivieredurempart",
+      "from": "2025-12-25T12:00:00.000Z",
+      "to": "2025-12-25T19:00:00.000Z",
+      "id": "21f8fce44b5f9475c4aca4031e4c1c53"
+    }
+  ]
+}

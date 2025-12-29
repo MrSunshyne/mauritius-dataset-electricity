@@ -1,0 +1,78 @@
+{
+  "date": "2023-07-08",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.792Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le samedi 8 juillet 2023 de  08:30:00 à  15:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "AVE BOUNDARY, AVE BELLE ISLE, AVE DES MANGUIERS, AVE DES BRIGANDS, AVE DRAGON, AVE CANNE A SUCRE, AVE COCOTIERS, AVE LA PAIX ET AVE LA DIGUE",
+      "district": "blackriver",
+      "from": "2023-07-08T04:30:00.000Z",
+      "to": "2023-07-08T11:30:00.000Z",
+      "id": "370f64002ca198507a49bacf10e8f8c5"
+    },
+    {
+      "date": "Le samedi 8 juillet 2023 de  08:30:00 à  15:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "LES ABONNES DE TERRE ROUGE",
+      "district": "pamplemousses",
+      "from": "2023-07-08T04:30:00.000Z",
+      "to": "2023-07-08T11:00:00.000Z",
+      "id": "10e5d97b339cfbd2f65572135888e435"
+    },
+    {
+      "date": "Le samedi 8 juillet 2023 de  08:30:00 à  14:00:00",
+      "locality": "MORC SAINT ANDRE",
+      "localitySlug": "morc-saint-andre",
+      "streets": "LES ABONNES DE MANILALL ROAD ET UNE PARTIE DE SSR ROAD.",
+      "district": "pamplemousses",
+      "from": "2023-07-08T04:30:00.000Z",
+      "to": "2023-07-08T10:00:00.000Z",
+      "id": "2761a06d22bb061f4f61091ea5e6dfc8"
+    },
+    {
+      "date": "Le samedi 8 juillet 2023 de  08:30:00 à  16:00:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "HENRIETTA AND MARE LONGUE:MARE LONGUE AND TAMARIND FALLS",
+      "district": "plainewilhems",
+      "from": "2023-07-08T04:30:00.000Z",
+      "to": "2023-07-08T12:00:00.000Z",
+      "id": "ed1fec3603caf333f9c864cfe27aacbb"
+    },
+    {
+      "date": "Le samedi 8 juillet 2023 de  08:30:00 à  16:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Etienne Larcher, Gabriel Pitot et les environs",
+      "district": "plainewilhems",
+      "from": "2023-07-08T04:30:00.000Z",
+      "to": "2023-07-08T12:00:00.000Z",
+      "id": "f4a186d2b027bcf977748d87fd5a0ad6"
+    },
+    {
+      "date": "Le samedi 8 juillet 2023 de  08:30:00 à  15:00:00",
+      "locality": "MLLE LAURE",
+      "localitySlug": "mlle-laure",
+      "streets": "LES ABONNES DE MLLE LAURE",
+      "district": "portlouis",
+      "from": "2023-07-08T04:30:00.000Z",
+      "to": "2023-07-08T11:00:00.000Z",
+      "id": "123abdde374a07261ec8e575abc20fd6"
+    },
+    {
+      "date": "Le samedi 8 juillet 2023 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LES ABONNES DE POINTE MONIER, CAMP DU ROI ET HAUTEUR ACCACIA.",
+      "district": "rodrigues",
+      "from": "2023-07-08T04:30:00.000Z",
+      "to": "2023-07-08T11:00:00.000Z",
+      "id": "78e239dd1aba6f33bec8ac3dbd1540e8"
+    }
+  ]
+}

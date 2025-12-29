@@ -1,0 +1,88 @@
+{
+  "date": "2024-12-18",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.832Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le mercredi 18 décembre 2024 de  10:00:00 à  15:00:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "MARGUERY HEIGHTS RIVIERE NOIRE",
+      "district": "blackriver",
+      "from": "2024-12-18T06:00:00.000Z",
+      "to": "2024-12-18T11:00:00.000Z",
+      "id": "d6a45285b79200c3433c93c508bf5196"
+    },
+    {
+      "date": "Le mercredi 18 décembre 2024 de  08:30:00 à  17:00:00",
+      "locality": "LA NOURRICE",
+      "localitySlug": "la-nourrice",
+      "streets": "Village de Trois Illots, La nourice et MCML",
+      "district": "flacq",
+      "from": "2024-12-18T04:30:00.000Z",
+      "to": "2024-12-18T13:00:00.000Z",
+      "id": "90201c2ff87fe5f381c2a774e5b02f4e"
+    },
+    {
+      "date": "Le mercredi 18 décembre 2024 de  10:00:00 à  13:00:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "DOMAINE LA COLOMBES CENTRAL FLACQ",
+      "district": "flacq",
+      "from": "2024-12-18T06:00:00.000Z",
+      "to": "2024-12-18T09:00:00.000Z",
+      "id": "e94ca4aeac04bf6fc375462ae42e32ae"
+    },
+    {
+      "date": "Le mercredi 18 décembre 2024 de  08:30:00 à  16:00:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "Rose Belle habitant dans le périmètre et les rues suivantes: Jawaharlall Nehru Hospital, Gajanam Temple et Seedeni Road",
+      "district": "grandport",
+      "from": "2024-12-18T04:30:00.000Z",
+      "to": "2024-12-18T12:00:00.000Z",
+      "id": "2a66c2abf50e75cd60c07cc6ad04de07"
+    },
+    {
+      "date": "Le mercredi 18 décembre 2024 de  09:00:00 à  15:00:00",
+      "locality": "VILLEBAGUE",
+      "localitySlug": "villebague",
+      "streets": "VILLEBAGUE/PETITE JULIE",
+      "district": "pamplemousses",
+      "from": "2024-12-18T05:00:00.000Z",
+      "to": "2024-12-18T11:00:00.000Z",
+      "id": "de419ab63fe20b85f94240d6f61daa7e"
+    },
+    {
+      "date": "Le mercredi 18 décembre 2024 de  14:00:00 à  17:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "dans les environs de Residence Casernes( Cité Casernes)",
+      "district": "plainewilhems",
+      "from": "2024-12-18T10:00:00.000Z",
+      "to": "2024-12-18T13:00:00.000Z",
+      "id": "ef2c1fa9e7026e6b1b3a90a7ff2819d9"
+    },
+    {
+      "date": "Le mercredi 18 décembre 2024 de  23:05:00 à  00:35:00",
+      "locality": "QUINZE CANTONS",
+      "localitySlug": "quinze-cantons",
+      "streets": "QUINZE CANTONS",
+      "district": "plainewilhems",
+      "from": "2024-12-18T19:05:00.000Z",
+      "to": "2024-12-17T20:35:00.000Z",
+      "id": "20930b08ca2e250ee89158fa503a31a3"
+    },
+    {
+      "date": "Le mercredi 18 décembre 2024 de  09:00:00 à  14:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "RUE WELLINGTON PORT LOUIS",
+      "district": "portlouis",
+      "from": "2024-12-18T05:00:00.000Z",
+      "to": "2024-12-18T10:00:00.000Z",
+      "id": "225acae141ade26e183bcc0abeb9e12d"
+    }
+  ]
+}

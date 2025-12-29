@@ -1,0 +1,38 @@
+{
+  "date": "2023-01-04",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.779Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mercredi 4 janvier 2023 de  09:30:00 à  14:00:00",
+      "locality": "LA LAURA (BEL AIR)",
+      "localitySlug": "la-laura",
+      "streets": "WHOLE VILLAGE",
+      "district": "flacq",
+      "from": "2023-01-04T05:30:00.000Z",
+      "to": "2023-01-04T10:00:00.000Z",
+      "id": "2a565e5acbd2f3ff7884b809650438a6"
+    },
+    {
+      "date": "Le mercredi 4 janvier 2023 de  13:00:00 à  14:30:00",
+      "locality": "SAINT JULIEN VILLAGE",
+      "localitySlug": "saint-julien-village",
+      "streets": "RIVERSIDE ROAD",
+      "district": "flacq",
+      "from": "2023-01-04T09:00:00.000Z",
+      "to": "2023-01-04T10:30:00.000Z",
+      "id": "90f8654aa2791e423047a9f7a92b239b"
+    },
+    {
+      "date": "Le mercredi 4 janvier 2023 de  09:45:00 à  11:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "MORC SWAN NEAR LES CYGNES,EDEN COURT",
+      "district": "rivieredurempart",
+      "from": "2023-01-04T05:45:00.000Z",
+      "to": "2023-01-04T07:00:00.000Z",
+      "id": "b74c24b34f67d79369a9b8fe626abab6"
+    }
+  ]
+}

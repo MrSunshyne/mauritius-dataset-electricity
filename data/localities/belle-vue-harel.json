@@ -1,0 +1,53 @@
+{
+  "slug": "belle-vue-harel",
+  "name": "BELLE VUE HAREL",
+  "district": "pamplemousses",
+  "generated": "2025-12-29T20:14:25.907Z",
+  "outageCount": 6,
+  "firstOutage": "2022-06-06",
+  "lastOutage": "2025-02-25",
+  "outages": [
+    {
+      "date": "Le mardi 25 février 2025 de  10:00:00 à  14:00:00",
+      "streets": "MORC DOMAINE BELLE VUE",
+      "from": "2025-02-25T06:00:00.000Z",
+      "to": "2025-02-25T10:00:00.000Z",
+      "id": "86baf82123b90a09761bd78a9cab245c"
+    },
+    {
+      "date": "Le mardi 19 novembre 2024 de  14:30:00 à  16:30:00",
+      "streets": "MOULIN BELLE VUE HAREL",
+      "from": "2024-11-19T10:30:00.000Z",
+      "to": "2024-11-19T12:30:00.000Z",
+      "id": "809d5b89511cdeebac869b09793be129"
+    },
+    {
+      "date": "Le lundi 10 juin 2024 de  09:00:00 à  13:00:00",
+      "streets": "HILL SIDE MORC BELLE VUE HAREL",
+      "from": "2024-06-10T05:00:00.000Z",
+      "to": "2024-06-10T09:00:00.000Z",
+      "id": "da319a371ce8929759309e3af823cc54"
+    },
+    {
+      "date": "Le vendredi 21 octobre 2022 de  14:30:00 à  17:00:00",
+      "streets": "BELLE VUE HAREL",
+      "from": "2022-10-21T10:30:00.000Z",
+      "to": "2022-10-21T13:00:00.000Z",
+      "id": "313e17715e9c10aeb78989654f640d15"
+    },
+    {
+      "date": "Le samedi 15 octobre 2022 de  08:30:00 à  14:00:00",
+      "streets": "LES ABONNES DE BELLE VUE SUGAR ESTATE",
+      "from": "2022-10-15T04:30:00.000Z",
+      "to": "2022-10-15T10:00:00.000Z",
+      "id": "100b8dc085dd152f62ac9e93eb8c76ea"
+    },
+    {
+      "date": "Le lundi 6 juin 2022 de  10:15:00 à  11:45:00",
+      "streets": "Terra Belle Vue Harel",
+      "from": "2022-06-06T06:15:00.000Z",
+      "to": "2022-06-06T07:45:00.000Z",
+      "id": "3e3e13eee20bd3a47869d877458fc772"
+    }
+  ]
+}

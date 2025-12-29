@@ -1,0 +1,78 @@
+{
+  "date": "2025-06-29",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.842Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le dimanche 29 juin 2025 de  08:30:00 à  15:00:00",
+      "locality": "CIRCONSTANCE",
+      "localitySlug": "circonstance",
+      "streets": "Shivala Rd, Tamil Temple, Ste Catherine, Chemin Lamarre, Morc Desmarais et Cemetery Rd",
+      "district": "moka",
+      "from": "2025-06-29T04:30:00.000Z",
+      "to": "2025-06-29T11:00:00.000Z",
+      "id": "9b37bb8117a1c02148d07ec80ce02fca"
+    },
+    {
+      "date": "Le dimanche 29 juin 2025 de  08:30:00 à  15:30:00",
+      "locality": "ARSENAL",
+      "localitySlug": "arsenal",
+      "streets": "DANS LES ENVIRONS DE SAINT JOSEPH ROAD",
+      "district": "pamplemousses",
+      "from": "2025-06-29T04:30:00.000Z",
+      "to": "2025-06-29T11:30:00.000Z",
+      "id": "95d730725e53cea7ce3a8a6d54c0afeb"
+    },
+    {
+      "date": "Le dimanche 29 juin 2025 de  11:00:00 à  18:30:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "MORC POONITH, LE GOULET ROAD.",
+      "district": "pamplemousses",
+      "from": "2025-06-29T07:00:00.000Z",
+      "to": "2025-06-29T14:30:00.000Z",
+      "id": "4414dccf51be8c9b9ebfcef653a57318"
+    },
+    {
+      "date": "Le dimanche 29 juin 2025 de  08:30:00 à  15:00:00",
+      "locality": "CITE CHEBEL",
+      "localitySlug": "cite-chebel",
+      "streets": "La Reprise, Camp Bertlot, Le Bosquet Office, Kovil Chebel et Pillay Engineering",
+      "district": "plainewilhems",
+      "from": "2025-06-29T04:30:00.000Z",
+      "to": "2025-06-29T11:00:00.000Z",
+      "id": "e1f499b26c4921b9566c2d241f440e9e"
+    },
+    {
+      "date": "Le dimanche 29 juin 2025 de  08:30:00 à  15:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Ave Stenio, Ave Edgar Janson, Ave Lady Twining, Shell Beau-Bassin et les environs",
+      "district": "plainewilhems",
+      "from": "2025-06-29T04:30:00.000Z",
+      "to": "2025-06-29T11:00:00.000Z",
+      "id": "0e7133a92016721b15d2009372106d74"
+    },
+    {
+      "date": "Le dimanche 29 juin 2025 de  08:30:00 à  15:30:00",
+      "locality": "TOUR KOENIG",
+      "localitySlug": "tour-koenig",
+      "streets": "DANS LES ENVIRONS DES AVENUES CONCORDE, PEUPLIERS ET LA TOUR KOENIG",
+      "district": "portlouis",
+      "from": "2025-06-29T04:30:00.000Z",
+      "to": "2025-06-29T11:30:00.000Z",
+      "id": "14441f13d5a9a56543aca5d0517133a6"
+    },
+    {
+      "date": "Le dimanche 29 juin 2025 de  11:00:00 à  14:00:00",
+      "locality": "VALLEE PITOT",
+      "localitySlug": "vallee-pitot",
+      "streets": "LA RUE SAUZIER,BOULEVARD PITOT,MAMELON VERTE",
+      "district": "portlouis",
+      "from": "2025-06-29T07:00:00.000Z",
+      "to": "2025-06-29T10:00:00.000Z",
+      "id": "732f8f12712fc7e90d19b2c01688d8f7"
+    }
+  ]
+}

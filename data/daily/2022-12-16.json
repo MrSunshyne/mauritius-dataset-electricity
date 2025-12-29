@@ -1,0 +1,58 @@
+{
+  "date": "2022-12-16",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.778Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le vendredi 16 décembre 2022 de  11:00:00 à  12:00:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "GEOFFROY STREET-REGION NEAR DISTRICT COUNCIL",
+      "district": "blackriver",
+      "from": "2022-12-16T07:00:00.000Z",
+      "to": "2022-12-16T08:00:00.000Z",
+      "id": "14705d97fedd637fe5c1b9b666815ecc"
+    },
+    {
+      "date": "Le vendredi 16 décembre 2022 de  11:00:00 à  12:00:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "TROU AUX BICHES,POINTE AUX BICHES,PART OF TRIOLET,CHEMIN VINGT PIEDS",
+      "district": "pamplemousses",
+      "from": "2022-12-16T07:00:00.000Z",
+      "to": "2022-12-16T08:00:00.000Z",
+      "id": "02dc5565e0373ade668f803df6f2ddb6"
+    },
+    {
+      "date": "Le vendredi 16 décembre 2022 de  12:00:00 à  16:00:00",
+      "locality": "CAMP LEVIEUX ( R HILL )",
+      "localitySlug": "camp-levieux",
+      "streets": "Flat Begonia, Flat Dahlia, Flat Chrysantheme, Flat Eglantine, Flat Flamboyant, Lycee de Mascareignes, en partie Ave Ariane et La Station de Police de Camp Levieux",
+      "district": "plainewilhems",
+      "from": "2022-12-16T08:00:00.000Z",
+      "to": "2022-12-16T12:00:00.000Z",
+      "id": "4abe91497c0c415eebf81cfb9d94b685"
+    },
+    {
+      "date": "Le vendredi 16 décembre 2022 de  10:15:00 à  11:00:00",
+      "locality": "LE HOCHET",
+      "localitySlug": "le-hochet",
+      "streets": "INDIAN OIL,CHURCH AND NEARBY REGION",
+      "district": "portlouis",
+      "from": "2022-12-16T06:15:00.000Z",
+      "to": "2022-12-16T07:00:00.000Z",
+      "id": "6d678440d5d4dba4a030029cb9695ac6"
+    },
+    {
+      "date": "Le vendredi 16 décembre 2022 de  09:30:00 à  13:00:00",
+      "locality": "AMAURY",
+      "localitySlug": "amaury",
+      "streets": "NEAR SCHOOL",
+      "district": "rivieredurempart",
+      "from": "2022-12-16T05:30:00.000Z",
+      "to": "2022-12-16T09:00:00.000Z",
+      "id": "052b6bf1e4f78ec134a4ae1e3f628bb3"
+    }
+  ]
+}

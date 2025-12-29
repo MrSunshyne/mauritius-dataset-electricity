@@ -1,0 +1,74 @@
+{
+  "slug": "grande-riviere-sud-est",
+  "name": "GRANDE RIVIERE SUD EST",
+  "district": "flacq",
+  "generated": "2025-12-29T20:14:26.021Z",
+  "outageCount": 9,
+  "firstOutage": "2022-09-30",
+  "lastOutage": "2025-03-04",
+  "outages": [
+    {
+      "date": "Le mardi 4 mars 2025 de  08:45:00 à  15:00:00",
+      "streets": "Village de GRSE et Camp Pecheur",
+      "from": "2025-03-04T04:45:00.000Z",
+      "to": "2025-03-04T11:00:00.000Z",
+      "id": "aa0d39da9cf17626fdb2e67a88afcc99"
+    },
+    {
+      "date": "Le dimanche 2 février 2025 de  10:30:00 à  16:30:00",
+      "streets": "WHOLE VILLAGE",
+      "from": "2025-02-02T06:30:00.000Z",
+      "to": "2025-02-02T12:30:00.000Z",
+      "id": "678f2a6b1ce4797de41b1edb8e828557"
+    },
+    {
+      "date": "Le jeudi 3 octobre 2024 de  09:00:00 à  15:00:00",
+      "streets": "LES ABONNES DE CAMP PECHEURS.",
+      "from": "2024-10-03T05:00:00.000Z",
+      "to": "2024-10-03T11:00:00.000Z",
+      "id": "898362d8ff2fb405518caaf0d01cb566"
+    },
+    {
+      "date": "Le mercredi 18 septembre 2024 de  08:30:00 à  15:00:00",
+      "streets": "Le Village de Grande Riviere Sud Est et Camp Pecheur.",
+      "from": "2024-09-18T04:30:00.000Z",
+      "to": "2024-09-18T11:00:00.000Z",
+      "id": "43eb8f14cc25b8ac5648bf58e6156bc0"
+    },
+    {
+      "date": "Le jeudi 27 juin 2024 de  09:40:00 à  12:00:00",
+      "streets": "ROYAL ROAD, KALIMAYE, DISPENSARY, GOVT SCHOOL AND SURROUNDINGS",
+      "from": "2024-06-27T05:40:00.000Z",
+      "to": "2024-06-27T08:00:00.000Z",
+      "id": "c0d522201fc403938de94a0a196f7c4c"
+    },
+    {
+      "date": "Le jeudi 2 novembre 2023 de  20:00:00 à  20:45:00",
+      "streets": "GRSE",
+      "from": "2023-11-02T16:00:00.000Z",
+      "to": "2023-11-02T16:45:00.000Z",
+      "id": "ccaf3d2220edd64febd42e7e5d1dc662"
+    },
+    {
+      "date": "Le mercredi 18 octobre 2023 de  09:30:00 à  12:00:00",
+      "streets": "Lenferna,Alain Noel Square",
+      "from": "2023-10-18T05:30:00.000Z",
+      "to": "2023-10-18T08:00:00.000Z",
+      "id": "49474c82a2bd3135d19b3f90f400f4ab"
+    },
+    {
+      "date": "Le mercredi 13 septembre 2023 de  08:30:00 à  16:00:00",
+      "streets": "Les abonnés habitant à Grande Rivière Sud Est dans les environs de  la Rue Lenferna et Post Office",
+      "from": "2023-09-13T04:30:00.000Z",
+      "to": "2023-09-13T12:00:00.000Z",
+      "id": "615f11d892538b86a3f9384b6ba9b3c8"
+    },
+    {
+      "date": "Le vendredi 30 septembre 2022 de  08:45:00 à  11:30:00",
+      "streets": "WHOLE REGION",
+      "from": "2022-09-30T04:45:00.000Z",
+      "to": "2022-09-30T07:30:00.000Z",
+      "id": "f06d39de622bc48dfb1c55dc8b746eb9"
+    }
+  ]
+}

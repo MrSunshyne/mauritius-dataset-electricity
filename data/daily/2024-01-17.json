@@ -1,0 +1,88 @@
+{
+  "date": "2024-01-17",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.806Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le mercredi 17 janvier 2024 de  10:00:00 à  12:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "OURAGON,BOUNTY",
+      "district": "blackriver",
+      "from": "2024-01-17T06:00:00.000Z",
+      "to": "2024-01-17T08:00:00.000Z",
+      "id": "d2f38f46093b5707a71fa38a73735f67"
+    },
+    {
+      "date": "Le mercredi 17 janvier 2024 de  20:55:00 à  22:00:00",
+      "locality": "OLIVIA",
+      "localitySlug": "olivia",
+      "streets": "LES ABONNES DE OLIVIA",
+      "district": "flacq",
+      "from": "2024-01-17T16:55:00.000Z",
+      "to": "2024-01-17T18:00:00.000Z",
+      "id": "709dd5659a8d7b29b865c20568670bcf"
+    },
+    {
+      "date": "Le mercredi 17 janvier 2024 de  18:15:00 à  19:15:00",
+      "locality": "MOKA",
+      "localitySlug": "moka",
+      "streets": "DANS LES ENVIRONS DU BOCAGE.",
+      "district": "moka",
+      "from": "2024-01-17T14:15:00.000Z",
+      "to": "2024-01-17T15:15:00.000Z",
+      "id": "ad97f15cc337320fff59febe58a61a2e"
+    },
+    {
+      "date": "Le mercredi 17 janvier 2024 de  09:55:00 à  13:00:00",
+      "locality": "CAMP FOUQUEREAUX",
+      "localitySlug": "camp-fouquereaux",
+      "streets": "ST ANTOINE, HERMITAGE RD, BELLE RIVE RD, 5 ARPENT, TOUT COUR RD",
+      "district": "plainewilhems",
+      "from": "2024-01-17T05:55:00.000Z",
+      "to": "2024-01-17T09:00:00.000Z",
+      "id": "338443e594fad5e47bd1553228ae1e0c"
+    },
+    {
+      "date": "Le mercredi 17 janvier 2024 de  09:45:00 à  11:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "FLAT PATEL ET EN PARTIE LECLEZIO CUREPIPE",
+      "district": "plainewilhems",
+      "from": "2024-01-17T05:45:00.000Z",
+      "to": "2024-01-17T07:00:00.000Z",
+      "id": "576644a68b96014a276d43127f144fcf"
+    },
+    {
+      "date": "Le mercredi 17 janvier 2024 de  10:25:00 à  11:45:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "SODNAC LINK RD DANS LES ALENTOURS DE JUMBO, J&J AUDITORIUM, HILL CREST",
+      "district": "plainewilhems",
+      "from": "2024-01-17T06:25:00.000Z",
+      "to": "2024-01-17T07:45:00.000Z",
+      "id": "565f40bdb8c6357294b99379ae7472b6"
+    },
+    {
+      "date": "Le mercredi 17 janvier 2024 de  14:10:00 à  15:15:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "MAHA KABIR RD CLAIRFONDS PHOENIX NEAR CEMETERY",
+      "district": "plainewilhems",
+      "from": "2024-01-17T10:10:00.000Z",
+      "to": "2024-01-17T11:15:00.000Z",
+      "id": "fa8005be40dbe0ecf3808515e83a4671"
+    },
+    {
+      "date": "Le mercredi 17 janvier 2024 de  11:05:00 à  13:05:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "COASTAL RD, BOSQUET RD ET LES ALENTOURS",
+      "district": "portlouis",
+      "from": "2024-01-17T07:05:00.000Z",
+      "to": "2024-01-17T09:05:00.000Z",
+      "id": "a360674844d25a336676aabd3b1b9a08"
+    }
+  ]
+}

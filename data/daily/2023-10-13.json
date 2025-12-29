@@ -1,0 +1,58 @@
+{
+  "date": "2023-10-13",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.799Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le vendredi 13 octobre 2023 de  08:30:00 à  18:00:00",
+      "locality": "LA MIVOIE",
+      "localitySlug": "la-mivoie",
+      "streets": "LA MIVOIE ET LA PRENEUSE",
+      "district": "blackriver",
+      "from": "2023-10-13T04:30:00.000Z",
+      "to": "2023-10-13T14:00:00.000Z",
+      "id": "fa40b06063118b4136ada3473eedbc9d"
+    },
+    {
+      "date": "Le vendredi 13 octobre 2023 de  08:30:00 à  11:00:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": "Morcellement Hossenbux",
+      "district": "plainewilhems",
+      "from": "2023-10-13T04:30:00.000Z",
+      "to": "2023-10-13T07:00:00.000Z",
+      "id": "90e4d8db840fa818d116fc5d62f8b7d4"
+    },
+    {
+      "date": "Le vendredi 13 octobre 2023 de  08:30:00 à  16:00:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "Partie de Highland Rose",
+      "district": "plainewilhems",
+      "from": "2023-10-13T04:30:00.000Z",
+      "to": "2023-10-13T12:00:00.000Z",
+      "id": "d7fc6b686a897be3f3d5b886fea5c6bf"
+    },
+    {
+      "date": "Le vendredi 13 octobre 2023 de  12:30:00 à  14:00:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": "MORC ADAM EAU COULEE",
+      "district": "plainewilhems",
+      "from": "2023-10-13T08:30:00.000Z",
+      "to": "2023-10-13T10:00:00.000Z",
+      "id": "1d46d068d4760939b87dfc57e28db641"
+    },
+    {
+      "date": "Le vendredi 13 octobre 2023 de  14:45:00 à  17:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "KINGS ROAD",
+      "district": "rivieredurempart",
+      "from": "2023-10-13T10:45:00.000Z",
+      "to": "2023-10-13T13:00:00.000Z",
+      "id": "4da1a0a0e4004ecdaf3fc8a325ad560d"
+    }
+  ]
+}

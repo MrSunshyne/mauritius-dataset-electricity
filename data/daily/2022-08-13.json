@@ -1,0 +1,98 @@
+{
+  "date": "2022-08-13",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.769Z",
+  "outageCount": 9,
+  "outages": [
+    {
+      "date": "Le samedi 13 août 2022 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "Morc Safeland: Beach Appartements, Ave des Hirondelles, Ave des Canaries, Ave des Cygognes, Ave des Rossignols, Ave des Crecerelles et une Partie des Ave Radar et Nenuphares",
+      "district": "blackriver",
+      "from": "2022-08-13T04:30:00.000Z",
+      "to": "2022-08-13T11:30:00.000Z",
+      "id": "73b692b3be3f6ca221db8af490b94333"
+    },
+    {
+      "date": "Le samedi 13 août 2022 de  08:30:00 à  16:00:00",
+      "locality": "MOKA",
+      "localitySlug": "moka",
+      "streets": "Telfair, Gentilly, Helvetia et dans les environs",
+      "district": "moka",
+      "from": "2022-08-13T04:30:00.000Z",
+      "to": "2022-08-13T12:00:00.000Z",
+      "id": "b582fb6c232969aa0a6a800df046f7ac"
+    },
+    {
+      "date": "Le samedi 13 août 2022 de  14:45:00 à  18:00:00",
+      "locality": "DUBREUIL",
+      "localitySlug": "dubreuil",
+      "streets": "DUBREUIL CHA",
+      "district": "moka",
+      "from": "2022-08-13T10:45:00.000Z",
+      "to": "2022-08-13T14:00:00.000Z",
+      "id": "8fb4f623d00cbecefd5a73cce92df63b"
+    },
+    {
+      "date": "Le samedi 13 août 2022 de  16:15:00 à  18:15:00",
+      "locality": "PETIT VERGER SAINT PIERRE",
+      "localitySlug": "petit-verger-saint-pierre",
+      "streets": "ROYAL ROAD PETIT VERGER TOWARDS MT ORY",
+      "district": "moka",
+      "from": "2022-08-13T12:15:00.000Z",
+      "to": "2022-08-13T14:15:00.000Z",
+      "id": "733179df515f98f88ba0bccb175b1155"
+    },
+    {
+      "date": "Le samedi 13 août 2022 de  08:30:00 à  16:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "SOLFERINO No.4 et les environs",
+      "district": "plainewilhems",
+      "from": "2022-08-13T04:30:00.000Z",
+      "to": "2022-08-13T12:00:00.000Z",
+      "id": "b058ba4cf0f1bceb952a66e86e112e4a"
+    },
+    {
+      "date": "Le samedi 13 août 2022 de  13:05:00 à  14:05:00",
+      "locality": "HOLLYROOD",
+      "localitySlug": "hollyrood",
+      "streets": "CHEMIN HOLLYROOD,BESTEL ROAD.",
+      "district": "plainewilhems",
+      "from": "2022-08-13T09:05:00.000Z",
+      "to": "2022-08-13T10:05:00.000Z",
+      "id": "50be6dfeaab4a14ccb9a33ab390fd715"
+    },
+    {
+      "date": "Le samedi 13 août 2022 de  14:35:00 à  15:35:00",
+      "locality": "LA CAVERNE",
+      "localitySlug": "la-caverne",
+      "streets": "ABATTOIR ROAD",
+      "district": "plainewilhems",
+      "from": "2022-08-13T10:35:00.000Z",
+      "to": "2022-08-13T11:35:00.000Z",
+      "id": "aa247fb7e7e2c218ec351ed683170134"
+    },
+    {
+      "date": "Le samedi 13 août 2022 de  09:00:00 à  15:00:00",
+      "locality": "BOIS CHERI",
+      "localitySlug": "bois-cheri",
+      "streets": "Le village de Bois Cheri",
+      "district": "savanne",
+      "from": "2022-08-13T05:00:00.000Z",
+      "to": "2022-08-13T11:00:00.000Z",
+      "id": "780881acaea095dc2095c7d0d839f290"
+    },
+    {
+      "date": "Le samedi 13 août 2022 de  08:00:00 à  15:00:00",
+      "locality": "SURINAM",
+      "localitySlug": "surinam",
+      "streets": "Rues Catamaraz et Trois Tombes",
+      "district": "savanne",
+      "from": "2022-08-13T04:00:00.000Z",
+      "to": "2022-08-13T11:00:00.000Z",
+      "id": "baae194abf1350cec19bb578c15f7e2c"
+    }
+  ]
+}

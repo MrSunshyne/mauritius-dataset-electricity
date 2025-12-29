@@ -1,0 +1,58 @@
+{
+  "date": "2025-02-24",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.837Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le lundi 24 février 2025 de  09:00:00 à  14:00:00",
+      "locality": "RICHEMARE",
+      "localitySlug": "richemare",
+      "streets": "Village de Riche Mare et DArgy dans les environs de Cemetery Rd, La Boutique Coco et Morc. Le Vieux Moulin.",
+      "district": "flacq",
+      "from": "2025-02-24T05:00:00.000Z",
+      "to": "2025-02-24T10:00:00.000Z",
+      "id": "aa71f88deaf600d4aad22340c76611c3"
+    },
+    {
+      "date": "Le lundi 24 février 2025 de  09:00:00 à  14:00:00",
+      "locality": "ARGY",
+      "localitySlug": "argy",
+      "streets": "VILLAGE D’ARGY et RICHE MARE: Cemetery Rd, La Boutique Coco et Morc. Le Vieux Moulin",
+      "district": "flacq",
+      "from": "2025-02-24T05:00:00.000Z",
+      "to": "2025-02-24T10:00:00.000Z",
+      "id": "f6cad8c12d8450ac7883b286b6d0f188"
+    },
+    {
+      "date": "Le lundi 24 février 2025 de  08:30:00 à  16:00:00",
+      "locality": "LE BOUCHON",
+      "localitySlug": "le-bouchon",
+      "streets": "La Chapelle Road et Le Bouchon Village",
+      "district": "grandport",
+      "from": "2025-02-24T04:30:00.000Z",
+      "to": "2025-02-24T12:00:00.000Z",
+      "id": "59c18b02679935c805981c5c681f650a"
+    },
+    {
+      "date": "Le lundi 24 février 2025 de  13:00:00 à  14:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "POPENESSY RD-NAPPIER BROUME BEAU BASSIN",
+      "district": "plainewilhems",
+      "from": "2025-02-24T09:00:00.000Z",
+      "to": "2025-02-24T10:00:00.000Z",
+      "id": "f6d013e37531e3efbaf6fc362e682829"
+    },
+    {
+      "date": "Le lundi 24 février 2025 de  00:30:00 à  02:30:00",
+      "locality": "BELLE VUE MAUREL",
+      "localitySlug": "belle-vue-maurel",
+      "streets": "REGION NEARBY PETITE SUPERMARKET AND PATISSERIE MARDAY",
+      "district": "rivieredurempart",
+      "from": "2025-02-23T20:30:00.000Z",
+      "to": "2025-02-22T22:30:00.000Z",
+      "id": "55c28da2e5e00a1eed3249b1b5e457c8"
+    }
+  ]
+}

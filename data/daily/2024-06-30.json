@@ -1,0 +1,38 @@
+{
+  "date": "2024-06-30",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.818Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le dimanche 30 juin 2024 de  02:30:00 à  09:00:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "MORC RAMDHONYRIVIERE NOIRES",
+      "district": "blackriver",
+      "from": "2024-06-29T22:30:00.000Z",
+      "to": "2024-06-29T05:00:00.000Z",
+      "id": "13f02b7122c47b3417fa1b8ab01ff464"
+    },
+    {
+      "date": "Le dimanche 30 juin 2024 de  08:30:00 à  15:00:00",
+      "locality": "RIVIERE DU POSTE",
+      "localitySlug": "riviere-du-poste",
+      "streets": "Le village de Riviere du Poste",
+      "district": "grandport",
+      "from": "2024-06-30T04:30:00.000Z",
+      "to": "2024-06-30T11:00:00.000Z",
+      "id": "e743c228cd839421fe09ed5eb2f8ed03"
+    },
+    {
+      "date": "Le dimanche 30 juin 2024 de  08:30:00 à  16:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "DANS LES ENVIRONS DE RESIDENCE FLORIDA,MORC LA COCHELLE,MORC CONCORDE,MORC COPRIM,MORC SWAN, TERMINUS, LAND SETTLEMENT,ET LHOTEL LES COCOTIERS",
+      "district": "pamplemousses",
+      "from": "2024-06-30T04:30:00.000Z",
+      "to": "2024-06-30T12:00:00.000Z",
+      "id": "07d9ddbc967ec45c27f7c339051b80ea"
+    }
+  ]
+}

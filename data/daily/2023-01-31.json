@@ -1,0 +1,28 @@
+{
+  "date": "2023-01-31",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.781Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mardi 31 janvier 2023 de  09:00:00 à  16:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Route Royale Camp Pave, Solferino No.5, une partie de Seringa Lane, Framboiser Lane",
+      "district": "plainewilhems",
+      "from": "2023-01-31T05:00:00.000Z",
+      "to": "2023-01-31T12:30:00.000Z",
+      "id": "29eeb6db5f05303a78d354f0f235e7d2"
+    },
+    {
+      "date": "Le mardi 31 janvier 2023 de  09:00:00 à  15:00:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "Morcellement Beluga Souillac, Union St. Aubin et Ducomer St. Aubin",
+      "district": "savanne",
+      "from": "2023-01-31T05:00:00.000Z",
+      "to": "2023-01-31T11:00:00.000Z",
+      "id": "e90a31af799f6538d33cf1950ed95699"
+    }
+  ]
+}

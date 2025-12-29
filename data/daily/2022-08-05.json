@@ -1,0 +1,48 @@
+{
+  "date": "2022-08-05",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.768Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le vendredi 5 août 2022 de  12:45:00 à  13:45:00",
+      "locality": "NOUVELLE FRANCE",
+      "localitySlug": "nouvelle-france",
+      "streets": "NEAR OLD COMLONNE RESTAURANT.",
+      "district": "grandport",
+      "from": "2022-08-05T08:45:00.000Z",
+      "to": "2022-08-05T09:45:00.000Z",
+      "id": "51a0a788daa4d13d82866d5de7fb9282"
+    },
+    {
+      "date": "Le vendredi 5 août 2022 de  09:30:00 à  10:30:00",
+      "locality": "COTE D-OR",
+      "localitySlug": "cote-d-or",
+      "streets": "CAMP AUGUSTE COTE DOR",
+      "district": "moka",
+      "from": "2022-08-05T05:30:00.000Z",
+      "to": "2022-08-05T06:30:00.000Z",
+      "id": "b2b9febc096c3d13b438e0de7aa12d47"
+    },
+    {
+      "date": "Le vendredi 5 août 2022 de  08:30:00 à  16:00:00",
+      "locality": "GLEN PARK",
+      "localitySlug": "glen-park",
+      "streets": "Morcellement Curumthaully, Morcellement Edoo, Camp Tickfine, Rampart Road",
+      "district": "plainewilhems",
+      "from": "2022-08-05T04:30:00.000Z",
+      "to": "2022-08-05T12:00:00.000Z",
+      "id": "32219312c21588510a04d87a4b805b55"
+    },
+    {
+      "date": "Le vendredi 5 août 2022 de  14:00:00 à  15:00:00",
+      "locality": "WOOTUN",
+      "localitySlug": "wootun",
+      "streets": "MORC SIT PINEWOOD",
+      "district": "plainewilhems",
+      "from": "2022-08-05T10:00:00.000Z",
+      "to": "2022-08-05T11:00:00.000Z",
+      "id": "78f4fab4ae775f1b6e6a1c182f91594f"
+    }
+  ]
+}

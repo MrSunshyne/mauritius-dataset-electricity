@@ -1,0 +1,48 @@
+{
+  "date": "2023-11-24",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.802Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le vendredi 24 novembre 2023 de  10:00:00 à  13:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "Pont Bruniquel,Lai Fat Fur",
+      "district": "pamplemousses",
+      "from": "2023-11-24T06:00:00.000Z",
+      "to": "2023-11-24T09:00:00.000Z",
+      "id": "0fb3bd662f9b68cbb7d4f3cbb784a234"
+    },
+    {
+      "date": "Le vendredi 24 novembre 2023 de  14:30:00 à  15:45:00",
+      "locality": "KHOYRATTY",
+      "localitySlug": "khoyratty",
+      "streets": "KHOYRATTY, BOIS PIGNOLET, NOTRE DAME, LONG MOUNTAIN, CREVE COEUR",
+      "district": "pamplemousses",
+      "from": "2023-11-24T10:30:00.000Z",
+      "to": "2023-11-24T11:45:00.000Z",
+      "id": "2f75de1f753497d278b17e04f4418269"
+    },
+    {
+      "date": "Le vendredi 24 novembre 2023 de  18:00:00 à  23:00:00",
+      "locality": "PETIT VERGER P AUX SABLES",
+      "localitySlug": "petit-verger-p-aux-sables",
+      "streets": "LA TOUR KOENIG",
+      "district": "portlouis",
+      "from": "2023-11-24T14:00:00.000Z",
+      "to": "2023-11-24T19:00:00.000Z",
+      "id": "539ba7d86383edfa7af308ae84bac3b6"
+    },
+    {
+      "date": "Le vendredi 24 novembre 2023 de  12:00:00 à  19:00:00",
+      "locality": "ENGLISH BAY(RODRIGUES)",
+      "localitySlug": "english-bay",
+      "streets": "ENGLISH BAY (ANSE AUX ANGLAIS), RODRIGUES.",
+      "district": "rodrigues",
+      "from": "2023-11-24T08:00:00.000Z",
+      "to": "2023-11-24T15:00:00.000Z",
+      "id": "f8add8952250d21ca5e6494241a5c7aa"
+    }
+  ]
+}

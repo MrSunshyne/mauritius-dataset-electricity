@@ -1,0 +1,68 @@
+{
+  "date": "2023-02-16",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.782Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le jeudi 16 février 2023 de  08:30:00 à  16:30:00",
+      "locality": "CHAMAREL",
+      "localitySlug": "chamarel",
+      "streets": "LAVILLEON, TERRE 7 COULEUR ET EBONY FOREST",
+      "district": "blackriver",
+      "from": "2023-02-16T04:30:00.000Z",
+      "to": "2023-02-16T12:30:00.000Z",
+      "id": "c2cb4dc4ec41f31b200f87b60f3c1cce"
+    },
+    {
+      "date": "Le jeudi 16 février 2023 de  14:00:00 à  17:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "MORC BEERJEERAZ, MORC RAFFRAY, AVE CUTTY SHARK, AVE ALBATROS, AVE VICTORY, AVE OURAGAN, AVE ALLOUETTE, AVE CONSTITUTION, AVE SHEBECK, AVE ST GERAN ET LES ENVIRONS",
+      "district": "blackriver",
+      "from": "2023-02-16T10:00:00.000Z",
+      "to": "2023-02-16T13:00:00.000Z",
+      "id": "ebde9e2c8ccf52b86b0cca6a583c922f"
+    },
+    {
+      "date": "Le jeudi 16 février 2023 de  20:00:00 à  22:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "AVE BARRACUDA,AVE EMPEREURS AND NEARBY REGION",
+      "district": "blackriver",
+      "from": "2023-02-16T16:00:00.000Z",
+      "to": "2023-02-16T18:00:00.000Z",
+      "id": "d3d08f92df2a96276c7b9f9b480bdb57"
+    },
+    {
+      "date": "Le jeudi 16 février 2023 de  10:35:00 à  14:00:00",
+      "locality": "FOND DU SAC",
+      "localitySlug": "fond-du-sac",
+      "streets": "dans les environs de Morc Vue DOr",
+      "district": "pamplemousses",
+      "from": "2023-02-16T06:35:00.000Z",
+      "to": "2023-02-16T10:00:00.000Z",
+      "id": "740f1436f8096c76fb343fb82c8d7dbf"
+    },
+    {
+      "date": "Le jeudi 16 février 2023 de  08:45:00 à  14:30:00",
+      "locality": "STANLEY",
+      "localitySlug": "stanley",
+      "streets": "MORC RAMNAUTH STANLEY",
+      "district": "plainewilhems",
+      "from": "2023-02-16T04:45:00.000Z",
+      "to": "2023-02-16T10:30:00.000Z",
+      "id": "d61725d7e6b46f95a72bebe3edc50858"
+    },
+    {
+      "date": "Le jeudi 16 février 2023 de  10:35:00 à  14:00:00",
+      "locality": "LOWER VALE",
+      "localitySlug": "lower-vale",
+      "streets": "dans les environs de Lower et Upper Vale.",
+      "district": "rivieredurempart",
+      "from": "2023-02-16T06:35:00.000Z",
+      "to": "2023-02-16T10:00:00.000Z",
+      "id": "31a65176b5e03f340b860538f1081133"
+    }
+  ]
+}

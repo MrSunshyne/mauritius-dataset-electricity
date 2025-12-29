@@ -1,0 +1,28 @@
+{
+  "date": "2024-10-26",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.828Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le samedi 26 octobre 2024 de  07:00:00 à  15:00:00",
+      "locality": "REDUIT",
+      "localitySlug": "reduit",
+      "streets": "REGION SURROUNDING CLINIC MAURICIENNE & AGRICULTURE",
+      "district": "moka",
+      "from": "2024-10-26T03:00:00.000Z",
+      "to": "2024-10-26T11:00:00.000Z",
+      "id": "dae8e554007fea869b45908b0ec93e1d"
+    },
+    {
+      "date": "Le samedi 26 octobre 2024 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LES ABONNES DE MOUROUCK ET FOND RIVIERE COCO.",
+      "district": "rodrigues",
+      "from": "2024-10-26T04:30:00.000Z",
+      "to": "2024-10-26T11:00:00.000Z",
+      "id": "bb8de249b77a7a7d9bcec43a5c2c8192"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2024-04-29",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.814Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le lundi 29 avril 2024 de  09:45:00 à  12:30:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "ROSA LANE ET LES ALENTOURS DU BOULANGERIE",
+      "district": "blackriver",
+      "from": "2024-04-29T05:45:00.000Z",
+      "to": "2024-04-29T08:30:00.000Z",
+      "id": "d3b1e90c25ac83d50452edb833788af6"
+    },
+    {
+      "date": "Le lundi 29 avril 2024 de  16:00:00 à  16:30:00",
+      "locality": "GRAND RIVER NORTH WEST",
+      "localitySlug": "grand-river-north-west",
+      "streets": "DANS LES ENVIRONS DE LA ROUTE ROYAL ET RESIDENCE BORSTAL",
+      "district": "blackriver",
+      "from": "2024-04-29T12:00:00.000Z",
+      "to": "2024-04-29T12:30:00.000Z",
+      "id": "95836d803b441a88db05f3225b276b1b"
+    },
+    {
+      "date": "Le lundi 29 avril 2024 de  15:00:00 à  17:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Morcellement Trianon, Morcellement River Edge, partie de Petit Camp",
+      "district": "plainewilhems",
+      "from": "2024-04-29T11:00:00.000Z",
+      "to": "2024-04-29T13:00:00.000Z",
+      "id": "0e544c79b52dcbf957ad192ef61b24d9"
+    },
+    {
+      "date": "Le lundi 29 avril 2024 de  16:00:00 à  16:30:00",
+      "locality": "CANAL DAYOT",
+      "localitySlug": "canal-dayot",
+      "streets": "LES ABONNES DE CANAL DAYOT",
+      "district": "portlouis",
+      "from": "2024-04-29T12:00:00.000Z",
+      "to": "2024-04-29T12:30:00.000Z",
+      "id": "720bd62b1ad4d770ed7793e2f21b2cf3"
+    },
+    {
+      "date": "Le lundi 29 avril 2024 de  15:45:00 à  17:15:00",
+      "locality": "TRANQUEBAR",
+      "localitySlug": "tranquebar",
+      "streets": "DANS LES ENVIRONS CHEMIN L ECOLE GOUVERNEMENT ET CROWN LAND.",
+      "district": "portlouis",
+      "from": "2024-04-29T11:45:00.000Z",
+      "to": "2024-04-29T13:15:00.000Z",
+      "id": "64d19e70691483ee051a7295728e17d4"
+    }
+  ]
+}

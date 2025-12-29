@@ -1,0 +1,78 @@
+{
+  "date": "2022-10-21",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.774Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le vendredi 21 octobre 2022 de  08:30:00 à  16:30:00",
+      "locality": "CHAMAREL",
+      "localitySlug": "chamarel",
+      "streets": "",
+      "district": "blackriver",
+      "from": "2022-10-21T04:30:00.000Z",
+      "to": "2022-10-21T12:30:00.000Z",
+      "id": "72351bf877dc83c748dcba618a0ae061"
+    },
+    {
+      "date": "Le vendredi 21 octobre 2022 de  11:00:00 à  14:30:00",
+      "locality": "PALMAR",
+      "localitySlug": "palmar",
+      "streets": "PALMAR",
+      "district": "flacq",
+      "from": "2022-10-21T07:00:00.000Z",
+      "to": "2022-10-21T10:30:00.000Z",
+      "id": "8397527f7f53e1e6ecd52f6affbd92a0"
+    },
+    {
+      "date": "Le vendredi 21 octobre 2022 de  09:00:00 à  12:00:00",
+      "locality": "QUARTIER MILITAIRE",
+      "localitySlug": "quartier-militaire",
+      "streets": "Les abonnés du village de Quartier Militaire habitant les rues et les régions suivantes : One Way, Naden et les ruelles avoisinantes",
+      "district": "moka",
+      "from": "2022-10-21T05:00:00.000Z",
+      "to": "2022-10-21T08:00:00.000Z",
+      "id": "7b9d951706ae25e4fda62cd1705d40c1"
+    },
+    {
+      "date": "Le vendredi 21 octobre 2022 de  14:30:00 à  17:00:00",
+      "locality": "BELLE VUE HAREL",
+      "localitySlug": "belle-vue-harel",
+      "streets": "BELLE VUE HAREL",
+      "district": "pamplemousses",
+      "from": "2022-10-21T10:30:00.000Z",
+      "to": "2022-10-21T13:00:00.000Z",
+      "id": "313e17715e9c10aeb78989654f640d15"
+    },
+    {
+      "date": "Le vendredi 21 octobre 2022 de  12:30:00 à  15:00:00",
+      "locality": "EBENE",
+      "localitySlug": "ebene",
+      "streets": "MORC EBENE",
+      "district": "plainewilhems",
+      "from": "2022-10-21T08:30:00.000Z",
+      "to": "2022-10-21T11:00:00.000Z",
+      "id": "0584eb7d38d50a8aaf1d98b8d73ece61"
+    },
+    {
+      "date": "Le vendredi 21 octobre 2022 de  09:00:00 à  12:30:00",
+      "locality": "ESPERANCE TREBUCHET",
+      "localitySlug": "esperance-trebuchet",
+      "streets": "ESPERANCE TREBUCHET",
+      "district": "rivieredurempart",
+      "from": "2022-10-21T05:00:00.000Z",
+      "to": "2022-10-21T08:30:00.000Z",
+      "id": "98b5b7b352236ec423f047520f3cbbc6"
+    },
+    {
+      "date": "Le vendredi 21 octobre 2022 de  14:30:00 à  15:30:00",
+      "locality": "LA FLORA",
+      "localitySlug": "la-flora",
+      "streets": "La Flora,Bois Cheri et Grand Bois",
+      "district": "savanne",
+      "from": "2022-10-21T10:30:00.000Z",
+      "to": "2022-10-21T11:30:00.000Z",
+      "id": "eb260851205c8e3349f023ab0468c7e0"
+    }
+  ]
+}

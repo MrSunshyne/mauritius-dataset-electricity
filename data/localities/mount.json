@@ -1,0 +1,53 @@
+{
+  "slug": "mount",
+  "name": "MOUNT",
+  "district": "pamplemousses",
+  "generated": "2025-12-29T20:14:26.102Z",
+  "outageCount": 6,
+  "firstOutage": "2022-10-14",
+  "lastOutage": "2025-12-11",
+  "outages": [
+    {
+      "date": "Le jeudi 11 décembre 2025 de  21:30:00 à  09:30:00",
+      "streets": "CHEMIN MON PITON MOUNT",
+      "from": "2025-12-11T17:30:00.000Z",
+      "to": "2025-12-11T05:30:00.000Z",
+      "id": "d4973186133f5eeec84c7ed28fb7d853"
+    },
+    {
+      "date": "Le mardi 25 juin 2024 de  09:30:00 à  12:00:00",
+      "streets": "MAISON BLANCHE",
+      "from": "2024-06-25T05:30:00.000Z",
+      "to": "2024-06-25T08:00:00.000Z",
+      "id": "7337ed3f72953bfb3f3b1540cf8413f7"
+    },
+    {
+      "date": "Le mercredi 20 décembre 2023 de  13:45:00 à  15:00:00",
+      "streets": "MORC VRS MOUNT",
+      "from": "2023-12-20T09:45:00.000Z",
+      "to": "2023-12-20T11:00:00.000Z",
+      "id": "f671b1765a990d98102b39bae877db59"
+    },
+    {
+      "date": "Le mardi 14 novembre 2023 de  20:50:00 à  22:50:00",
+      "streets": "MON PITON,MOUNT",
+      "from": "2023-11-14T16:50:00.000Z",
+      "to": "2023-11-14T18:50:00.000Z",
+      "id": "50734d3c827bbc366173e44a1476d4af"
+    },
+    {
+      "date": "Le vendredi 10 novembre 2023 de  08:00:00 à  22:00:00",
+      "streets": "MOUNT MON PITON",
+      "from": "2023-11-10T04:00:00.000Z",
+      "to": "2023-11-10T18:00:00.000Z",
+      "id": "290bf11c3646edf00d80709340f4d576"
+    },
+    {
+      "date": "Le vendredi 14 octobre 2022 de  14:30:00 à  16:00:00",
+      "streets": "Les abonnés habitant Mount Village, Morcellement Mon Piton, Le Plessis et Petite Rosalie",
+      "from": "2022-10-14T10:30:00.000Z",
+      "to": "2022-10-14T12:00:00.000Z",
+      "id": "2d2f3472ab2a4de0ef5a6bcc116b399e"
+    }
+  ]
+}

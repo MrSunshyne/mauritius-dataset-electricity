@@ -1,0 +1,46 @@
+{
+  "slug": "boulingrin",
+  "name": "BOULINGRIN",
+  "district": "pamplemousses",
+  "generated": "2025-12-29T20:14:25.921Z",
+  "outageCount": 5,
+  "firstOutage": "2023-04-03",
+  "lastOutage": "2025-07-10",
+  "outages": [
+    {
+      "date": "Le jeudi 10 juillet 2025 de  21:00:00 à  00:00:00",
+      "streets": "BOULINGRIN",
+      "from": "2025-07-10T17:00:00.000Z",
+      "to": "2025-07-09T20:00:00.000Z",
+      "id": "e4db8a80cf82a72e0ea4a706a53768a8"
+    },
+    {
+      "date": "Le dimanche 1 décembre 2024 de  08:25:00 à  23:00:00",
+      "streets": "BOULINGRIN",
+      "from": "2024-12-01T04:25:00.000Z",
+      "to": "2024-12-01T19:00:00.000Z",
+      "id": "5be92bddae09b28dbc6cefc1ea389b56"
+    },
+    {
+      "date": "Le vendredi 5 juillet 2024 de  09:30:00 à  12:00:00",
+      "streets": "BOULINGRIN MONTAGNE LONGUE",
+      "from": "2024-07-05T05:30:00.000Z",
+      "to": "2024-07-05T08:00:00.000Z",
+      "id": "07077495e7b99efe575e4bd0965a5fce"
+    },
+    {
+      "date": "Le dimanche 17 mars 2024 de  08:30:00 à  15:00:00",
+      "streets": "BOULINGRIN ET CREVE COEUR",
+      "from": "2024-03-17T04:30:00.000Z",
+      "to": "2024-03-17T11:00:00.000Z",
+      "id": "b5078601352f2aa7d06d2be5ce50dd0a"
+    },
+    {
+      "date": "Le lundi 3 avril 2023 de  08:30:00 à  12:30:00",
+      "streets": "Les abonnés habitant  à Boulingrin, Rivaland, Thomasin, Robinson et Creve Coeur",
+      "from": "2023-04-03T04:30:00.000Z",
+      "to": "2023-04-03T08:30:00.000Z",
+      "id": "397ff8bd095874eb81df2cc3a4ad84be"
+    }
+  ]
+}

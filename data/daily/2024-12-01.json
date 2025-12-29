@@ -1,0 +1,88 @@
+{
+  "date": "2024-12-01",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.831Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le dimanche 1 décembre 2024 de  08:30:00 à  14:00:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "LA VALETTE",
+      "district": "blackriver",
+      "from": "2024-12-01T04:30:00.000Z",
+      "to": "2024-12-01T10:00:00.000Z",
+      "id": "6c029e9207abfffa6324e73132233ee4"
+    },
+    {
+      "date": "Le dimanche 1 décembre 2024 de  08:00:00 à  16:00:00",
+      "locality": "VILLEBAGUE",
+      "localitySlug": "villebague",
+      "streets": "VILLE BAGUE, GRANDE ROSALIE, PETITE JULIE ET MON SONGES",
+      "district": "pamplemousses",
+      "from": "2024-12-01T04:00:00.000Z",
+      "to": "2024-12-01T12:00:00.000Z",
+      "id": "d87626b566d9462f22282b1f664cb2c8"
+    },
+    {
+      "date": "Le dimanche 1 décembre 2024 de  08:25:00 à  23:00:00",
+      "locality": "BOULINGRIN",
+      "localitySlug": "boulingrin",
+      "streets": "BOULINGRIN",
+      "district": "pamplemousses",
+      "from": "2024-12-01T04:25:00.000Z",
+      "to": "2024-12-01T19:00:00.000Z",
+      "id": "5be92bddae09b28dbc6cefc1ea389b56"
+    },
+    {
+      "date": "Le dimanche 1 décembre 2024 de  08:30:00 à  17:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "une partie de Route Thompson, Morcellement Ramdanee, Morcellement Medine, Morcellement GIDC, une partie de Route Sadally, Route Cantin, Avenue Nanapragassen, Camp Bombaye No 1 et No 2, Route Moreau, Chemin La Touche, une partie de Route John Kennedy, une partie de route Ligne Berthaud, Pandamanikum Lane, Chellapen Lane",
+      "district": "plainewilhems",
+      "from": "2024-12-01T04:30:00.000Z",
+      "to": "2024-12-01T13:00:00.000Z",
+      "id": "fe66cc12c388ef1f0835c6c535e267e1"
+    },
+    {
+      "date": "Le dimanche 1 décembre 2024 de  12:00:00 à  15:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "Morcellement Piat, Dr Boug, Morcellement Antleme, Morcellement leclezio et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2024-12-01T08:00:00.000Z",
+      "to": "2024-12-01T11:00:00.000Z",
+      "id": "1df9f3b06c146047e1d36a91da062568"
+    },
+    {
+      "date": "Le dimanche 1 décembre 2024 de  08:30:00 à  15:30:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "COROMANDEL, FUSHIA, BALSAMINE, AVE TULIP, AVE YLANG YLANG, AVE ORCHIDEE, AVE PETUNIA, MEDI CLINIC COROMANDEL MORC MONREAL 1 & 2 CHAPMAN VIEW, AVE BLACK MOLLY, ANGEL FISH, POLICE QUARTERS NO 1 & NO 2, AVE MIDDLE RD, AVE SARANVILLA, BELLE ETOILE, RIVERSIDE RD, AVE LONGANIER, ROUTE ROYAL COROMANDEL ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2024-12-01T04:30:00.000Z",
+      "to": "2024-12-01T11:30:00.000Z",
+      "id": "1c9d27c9016a53b394e2a81f73b9e51d"
+    },
+    {
+      "date": "Le dimanche 1 décembre 2024 de  08:30:00 à  12:00:00",
+      "locality": "BAIN DES DAMES",
+      "localitySlug": "bain-des-dames",
+      "streets": "DANS LES ENVIRONS  DE BAINS DES DAMES",
+      "district": "portlouis",
+      "from": "2024-12-01T04:30:00.000Z",
+      "to": "2024-12-01T08:00:00.000Z",
+      "id": "cdacb0dc6ea776a5753e5597d61cda6c"
+    },
+    {
+      "date": "Le dimanche 1 décembre 2024 de  08:30:00 à  12:00:00",
+      "locality": "CASSIS",
+      "localitySlug": "cassis",
+      "streets": "DANS LES ENVIRONS DE CASSIS ROAD, ROUTE MENAGERIE ET LES SALINES",
+      "district": "portlouis",
+      "from": "2024-12-01T04:30:00.000Z",
+      "to": "2024-12-01T08:00:00.000Z",
+      "id": "7d12276035905abcdad19781a8630137"
+    }
+  ]
+}

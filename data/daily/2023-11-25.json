@@ -1,0 +1,58 @@
+{
+  "date": "2023-11-25",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.802Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le samedi 25 novembre 2023 de  09:00:00 à  14:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Bassin, Morc Ah Yen, Chooroomoney, Boolaky, Ave Cooperative et en partie Rte Bassin et Mgr Leen",
+      "district": "plainewilhems",
+      "from": "2023-11-25T05:00:00.000Z",
+      "to": "2023-11-25T10:00:00.000Z",
+      "id": "55e32df4ba1012b78fcc8036a8de1b39"
+    },
+    {
+      "date": "Le samedi 25 novembre 2023 de  10:45:00 à  13:00:00",
+      "locality": "VALLEE PITOT",
+      "localitySlug": "vallee-pitot",
+      "streets": "RAJKUMAR GAJADUR LANE, INKERMAN LANE AND SURROUNDINGS",
+      "district": "portlouis",
+      "from": "2023-11-25T06:45:00.000Z",
+      "to": "2023-11-25T09:00:00.000Z",
+      "id": "daaa28acb59e57b2a5a730ac14207939"
+    },
+    {
+      "date": "Le samedi 25 novembre 2023 de  10:45:00 à  12:30:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "MORC RAFFRAY, GUIBIES, CARDINAL NO 2,3,4,5, BENGALI NO 1, PART OF Claude Delaitre Road",
+      "district": "portlouis",
+      "from": "2023-11-25T06:45:00.000Z",
+      "to": "2023-11-25T08:30:00.000Z",
+      "id": "91c764971056dc05cbc9e45b648aa221"
+    },
+    {
+      "date": "Le samedi 25 novembre 2023 de  18:00:00 à  22:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "RUE ROYALE, RUE EMMANUEL ANQUETIL.",
+      "district": "portlouis",
+      "from": "2023-11-25T14:00:00.000Z",
+      "to": "2023-11-25T18:00:00.000Z",
+      "id": "7b37a7df8102b893cc2f52d96f105193"
+    },
+    {
+      "date": "Le samedi 25 novembre 2023 de  08:30:00 à  12:30:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "dans les environs de Dream price, Friendship College,Sentosa, Cité St Claire,Le Chateau Hall et Morc Poonyth",
+      "district": "rivieredurempart",
+      "from": "2023-11-25T04:30:00.000Z",
+      "to": "2023-11-25T08:30:00.000Z",
+      "id": "5a578f304b526bac873467748409ee71"
+    }
+  ]
+}

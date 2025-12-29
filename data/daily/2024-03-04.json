@@ -1,0 +1,48 @@
+{
+  "date": "2024-03-04",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.810Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le lundi 4 mars 2024 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC ST JACQUES-AVE ST JACQUES, AVE ST PAUL, AVE ST PIERRE, AVE DES ALAMANDAS, AVE DES GLAIEULS, AVE DES FILAOS, AVE DES CAPUCINES, AVE DES PEUPLIERS, AVE DES ROSIERS ET AVE DES LETCHIERS",
+      "district": "blackriver",
+      "from": "2024-03-04T04:30:00.000Z",
+      "to": "2024-03-04T11:30:00.000Z",
+      "id": "ae910d8f555f13be791a794c35273ca4"
+    },
+    {
+      "date": "Le lundi 4 mars 2024 de  11:25:00 à  13:00:00",
+      "locality": "ARSENAL",
+      "localitySlug": "arsenal",
+      "streets": "CALEBASSES,ARSENAL",
+      "district": "pamplemousses",
+      "from": "2024-03-04T07:25:00.000Z",
+      "to": "2024-03-04T09:00:00.000Z",
+      "id": "7bb252cef86c74e9321b247cd58442b2"
+    },
+    {
+      "date": "Le lundi 4 mars 2024 de  08:45:00 à  10:00:00",
+      "locality": "QUINZE CANTONS",
+      "localitySlug": "quinze-cantons",
+      "streets": "QUINZE CANTON VACOAS",
+      "district": "plainewilhems",
+      "from": "2024-03-04T04:45:00.000Z",
+      "to": "2024-03-04T06:00:00.000Z",
+      "id": "9e93a25844bfbadbbf2fced729fed413"
+    },
+    {
+      "date": "Le lundi 4 mars 2024 de  19:00:00 à  21:00:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "JEEWOONARAIN LANE",
+      "district": "plainewilhems",
+      "from": "2024-03-04T15:00:00.000Z",
+      "to": "2024-03-04T17:00:00.000Z",
+      "id": "e8af79611662382ba6c72b53ef90b2f7"
+    }
+  ]
+}

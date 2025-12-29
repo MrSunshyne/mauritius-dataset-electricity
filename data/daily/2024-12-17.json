@@ -1,0 +1,28 @@
+{
+  "date": "2024-12-17",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.832Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mardi 17 décembre 2024 de  16:30:00 à  21:00:00",
+      "locality": "ROCHE BOIS",
+      "localitySlug": "roche-bois",
+      "streets": "DESCARRIERES ST,DESBOUCHERS ST,ABATTOIR ST",
+      "district": "portlouis",
+      "from": "2024-12-17T12:30:00.000Z",
+      "to": "2024-12-17T17:00:00.000Z",
+      "id": "65963bcec5d58a9b39a2e2d83f06ad0a"
+    },
+    {
+      "date": "Le mardi 17 décembre 2024 de  13:00:00 à  15:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "MONT OREB, PART OF LES FLAMMANTS",
+      "district": "rivieredurempart",
+      "from": "2024-12-17T09:00:00.000Z",
+      "to": "2024-12-17T11:00:00.000Z",
+      "id": "748ccb07e56a56686db716655ed00b6a"
+    }
+  ]
+}

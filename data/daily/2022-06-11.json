@@ -1,0 +1,78 @@
+{
+  "date": "2022-06-11",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.765Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le samedi 11 juin 2022 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "AVE DES TOURTEREAUX, AVE CARRIERE, DAHARI APPARTMENTS, AVE DES MANGUIERS, AVE CATEAUX VERT, AVE DES PERROQUETS ET UNE PARTIE DE LA ROUTE COTIERE FLIC EN FLAC",
+      "district": "blackriver",
+      "from": "2022-06-11T04:30:00.000Z",
+      "to": "2022-06-11T11:30:00.000Z",
+      "id": "4276b897a06533155e1ff61fc1e37f2c"
+    },
+    {
+      "date": "Le samedi 11 juin 2022 de  08:30:00 à  12:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Valentina Road",
+      "district": "plainewilhems",
+      "from": "2022-06-11T04:30:00.000Z",
+      "to": "2022-06-11T08:00:00.000Z",
+      "id": "deadd29d9eb3418d819daaf64080b48e"
+    },
+    {
+      "date": "Le samedi 11 juin 2022 de  08:30:00 à  15:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "LES ABONNES HABITANT MORC VRS PTE AUX SABLES DANS LES ENVIRONS DES AVENUES PRUNIER, AVOCATIER, POMMIER,PECHIER, PAPAYIERS,ABRICOTIERS, ORANGIERS, TAMARINIERS ET POIRIERS",
+      "district": "portlouis",
+      "from": "2022-06-11T04:30:00.000Z",
+      "to": "2022-06-11T11:00:00.000Z",
+      "id": "985999baff252c2ba0412a33722ec785"
+    },
+    {
+      "date": "Le samedi 11 juin 2022 de  08:15:00 à  09:15:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "Labourdonnais St James Court",
+      "district": "portlouis",
+      "from": "2022-06-11T04:15:00.000Z",
+      "to": "2022-06-11T05:15:00.000Z",
+      "id": "5fd42f5bd9d988796859194cefb080f9"
+    },
+    {
+      "date": "Le samedi 11 juin 2022 de  08:00:00 à  12:00:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "dans les environs de Kasmir rd, Melville, Coacaud rd, abdullah le Ferve et Barachois No 4",
+      "district": "rivieredurempart",
+      "from": "2022-06-11T04:00:00.000Z",
+      "to": "2022-06-11T08:00:00.000Z",
+      "id": "06b2436a13456f6b9cc8d9abc96b3113"
+    },
+    {
+      "date": "Le samedi 11 juin 2022 de  08:30:00 à  15:30:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "dans les environs de vingt pieds rd et Domaine Alizées",
+      "district": "rivieredurempart",
+      "from": "2022-06-11T04:30:00.000Z",
+      "to": "2022-06-11T11:30:00.000Z",
+      "id": "57a49656dafc59ea89cbbd36a46d8872"
+    },
+    {
+      "date": "Le samedi 11 juin 2022 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Bel Air et Riviere Banane",
+      "district": "rodrigues",
+      "from": "2022-06-11T04:30:00.000Z",
+      "to": "2022-06-11T11:00:00.000Z",
+      "id": "e87109f4be22ce11b13354283bb3f03b"
+    }
+  ]
+}

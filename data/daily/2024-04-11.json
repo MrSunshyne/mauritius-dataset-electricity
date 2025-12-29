@@ -1,0 +1,28 @@
+{
+  "date": "2024-04-11",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.812Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le jeudi 11 avril 2024 de  09:30:00 à  10:30:00",
+      "locality": "CLOSEL",
+      "localitySlug": "closel",
+      "streets": "CLOSEL MONT SIMONETTE TAMARIND FALL HENRIETTA",
+      "district": "plainewilhems",
+      "from": "2024-04-11T05:30:00.000Z",
+      "to": "2024-04-11T06:30:00.000Z",
+      "id": "1b7425d2c89e61fc8b92aeef7cd667af"
+    },
+    {
+      "date": "Le jeudi 11 avril 2024 de  09:20:00 à  13:00:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "ROYAL RD GRAND GAUBE",
+      "district": "rivieredurempart",
+      "from": "2024-04-11T05:20:00.000Z",
+      "to": "2024-04-11T09:00:00.000Z",
+      "id": "3785385e18a9ca0d76f82505a3810984"
+    }
+  ]
+}

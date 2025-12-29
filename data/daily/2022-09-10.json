@@ -1,0 +1,48 @@
+{
+  "date": "2022-09-10",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.771Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le samedi 10 septembre 2022 de  09:00:00 à  12:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "NHDC PLAINE MAGNIEN",
+      "district": "grandport",
+      "from": "2022-09-10T05:00:00.000Z",
+      "to": "2022-09-10T08:00:00.000Z",
+      "id": "125995ee4c7ec26313475e62ec45e47a"
+    },
+    {
+      "date": "Le samedi 10 septembre 2022 de  08:30:00 à  16:00:00",
+      "locality": "HERMITAGE PHOENIX",
+      "localitySlug": "hermitage-phoenix",
+      "streets": "Morc Fareedun, Belle Rive Road, partie de Morcellement Plaine de L’Hermitage, partie de Hermitage Road",
+      "district": "plainewilhems",
+      "from": "2022-09-10T04:30:00.000Z",
+      "to": "2022-09-10T12:00:00.000Z",
+      "id": "2de21e3c6f9ff4ce39d02cd80cc3d2f6"
+    },
+    {
+      "date": "Le samedi 10 septembre 2022 de  14:00:00 à  17:00:00",
+      "locality": "CALODYNE",
+      "localitySlug": "calodyne",
+      "streets": "le village de Calodyne et St François",
+      "district": "rivieredurempart",
+      "from": "2022-09-10T10:00:00.000Z",
+      "to": "2022-09-10T13:00:00.000Z",
+      "id": "ed511bd3ee82471fce9b231849f229d9"
+    },
+    {
+      "date": "Le samedi 10 septembre 2022 de  08:30:00 à  15:30:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "JARDIN MAMZEL",
+      "district": "rodrigues",
+      "from": "2022-09-10T04:30:00.000Z",
+      "to": "2022-09-10T11:30:00.000Z",
+      "id": "79bbe1e6e8b64981ea8af10f9196f898"
+    }
+  ]
+}

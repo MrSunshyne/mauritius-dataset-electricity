@@ -1,0 +1,78 @@
+{
+  "date": "2023-10-07",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.798Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le samedi 7 octobre 2023 de  08:30:00 à  16:30:00",
+      "locality": "CASCAVEL",
+      "localitySlug": "cascavel",
+      "streets": "CWA CASCAVELLE, WEST COAST INTERNATIONAL SCHOOL ET SPARC SPORTS COMPLEX",
+      "district": "blackriver",
+      "from": "2023-10-07T04:30:00.000Z",
+      "to": "2023-10-07T12:30:00.000Z",
+      "id": "4a1aa9d2b9095bdefe5c0da0774f959d"
+    },
+    {
+      "date": "Le samedi 7 octobre 2023 de  08:30:00 à  16:00:00",
+      "locality": "CAROLINE BEL AIR",
+      "localitySlug": "caroline-bel-air",
+      "streets": "Les abonnés habitant à Caroline dans les périmètres de la Rue Mamet, les rues Avoisinates et en partie de la Route Royale Caroline",
+      "district": "flacq",
+      "from": "2023-10-07T04:30:00.000Z",
+      "to": "2023-10-07T12:00:00.000Z",
+      "id": "61ffb2775510f842f2ca3be85c6817c0"
+    },
+    {
+      "date": "Le samedi 7 octobre 2023 de  08:30:00 à  16:00:00",
+      "locality": "BEL ETANG",
+      "localitySlug": "bel-etang",
+      "streets": "Bel Etang MSA",
+      "district": "flacq",
+      "from": "2023-10-07T04:30:00.000Z",
+      "to": "2023-10-07T12:00:00.000Z",
+      "id": "8eeb13a45365474ef5822be4540c2f21"
+    },
+    {
+      "date": "Le samedi 7 octobre 2023 de  08:15:00 à  16:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Admiralty Résidences, SMF Regimental, Seewa Bappoo State Secondary School",
+      "district": "plainewilhems",
+      "from": "2023-10-07T04:15:00.000Z",
+      "to": "2023-10-07T12:00:00.000Z",
+      "id": "6042da6dc49dab0673b8ac2addcd0b8a"
+    },
+    {
+      "date": "Le samedi 7 octobre 2023 de  09:00:00 à  16:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "APPADOO LANE, CHOOROOMONEY, BOOLAKY ET EN PARTIE MGR LEEN",
+      "district": "plainewilhems",
+      "from": "2023-10-07T05:00:00.000Z",
+      "to": "2023-10-07T12:00:00.000Z",
+      "id": "8ef2e80e0d0c0593744a6aac21f4f308"
+    },
+    {
+      "date": "Le samedi 7 octobre 2023 de  08:30:00 à  15:30:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "dans les environs de Morc Swan et Coastal road",
+      "district": "rivieredurempart",
+      "from": "2023-10-07T04:30:00.000Z",
+      "to": "2023-10-07T11:30:00.000Z",
+      "id": "ef8065b44f21b4333c72ac0ea2a2f9d4"
+    },
+    {
+      "date": "Le samedi 7 octobre 2023 de  08:30:00 à  15:00:00",
+      "locality": "SONGES(RODRIGUES)",
+      "localitySlug": "songes",
+      "streets": "Songes, Tamarin, Porc Tortue et Tamarin",
+      "district": "rodrigues",
+      "from": "2023-10-07T04:30:00.000Z",
+      "to": "2023-10-07T11:00:00.000Z",
+      "id": "4e17d9db1c679d4aea5ea379191c9d26"
+    }
+  ]
+}

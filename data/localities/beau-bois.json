@@ -1,0 +1,32 @@
+{
+  "slug": "beau-bois",
+  "name": "BEAU BOIS",
+  "district": "moka",
+  "generated": "2025-12-29T20:14:25.893Z",
+  "outageCount": 3,
+  "firstOutage": "2022-10-31",
+  "lastOutage": "2024-06-13",
+  "outages": [
+    {
+      "date": "Le jeudi 13 juin 2024 de  13:00:00 à  17:00:00",
+      "streets": "Beau Bois aux alentours de la Station d’Essence VIVOT Energie et de l’agence Toyota",
+      "from": "2024-06-13T09:00:00.000Z",
+      "to": "2024-06-13T13:00:00.000Z",
+      "id": "05fa34612b2117857d70401451203d91"
+    },
+    {
+      "date": "Le jeudi 25 avril 2024 de  11:00:00 à  13:00:00",
+      "streets": "BEAU BOIS",
+      "from": "2024-04-25T07:00:00.000Z",
+      "to": "2024-04-25T09:00:00.000Z",
+      "id": "96118a7f04860b796e8d81b98b7b6c10"
+    },
+    {
+      "date": "Le lundi 31 octobre 2022 de  09:45:00 à  15:00:00",
+      "streets": "BEAU BOIS",
+      "from": "2022-10-31T05:45:00.000Z",
+      "to": "2022-10-31T11:00:00.000Z",
+      "id": "44647b6d0ba0c6f8daed6e2cad33c585"
+    }
+  ]
+}

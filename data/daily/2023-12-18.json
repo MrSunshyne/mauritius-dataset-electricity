@@ -1,0 +1,48 @@
+{
+  "date": "2023-12-18",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.804Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le lundi 18 décembre 2023 de  09:00:00 à  11:00:00",
+      "locality": "CHAMAREL",
+      "localitySlug": "chamarel",
+      "streets": "CHAMAREL",
+      "district": "blackriver",
+      "from": "2023-12-18T05:00:00.000Z",
+      "to": "2023-12-18T07:00:00.000Z",
+      "id": "84f399071c8ae7b7fff5771f4e50a9c0"
+    },
+    {
+      "date": "Le lundi 18 décembre 2023 de  14:30:00 à  16:30:00",
+      "locality": "CONGOMAH",
+      "localitySlug": "congomah",
+      "streets": "CONGOMAH DANS LES ALENTOURS DU RESTAURANT MALIBU",
+      "district": "pamplemousses",
+      "from": "2023-12-18T10:30:00.000Z",
+      "to": "2023-12-18T12:30:00.000Z",
+      "id": "7b4b032a69cb6bae5027a3ab6c59076c"
+    },
+    {
+      "date": "Le lundi 18 décembre 2023 de  15:00:00 à  17:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Edgar laurent, Morcellement Ramdenee, Lislet Geoffroy, Joachim, Morcellement La Grotte, Faucon, General Hal, Stevenson",
+      "district": "plainewilhems",
+      "from": "2023-12-18T11:00:00.000Z",
+      "to": "2023-12-18T13:00:00.000Z",
+      "id": "c5c51c290047f7542d19cc3b35c6160a"
+    },
+    {
+      "date": "Le lundi 18 décembre 2023 de  16:05:00 à  16:45:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "CORDERIE ST JUSQUA BAZAR CENTRALE ET LES ALENTOURS",
+      "district": "portlouis",
+      "from": "2023-12-18T12:05:00.000Z",
+      "to": "2023-12-18T12:45:00.000Z",
+      "id": "8c90f9add014367a92d22ebac24f66e2"
+    }
+  ]
+}

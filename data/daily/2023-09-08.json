@@ -1,0 +1,28 @@
+{
+  "date": "2023-09-08",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.796Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le vendredi 8 septembre 2023 de  08:30:00 à  16:30:00",
+      "locality": "CAMP DES EMBREVADES",
+      "localitySlug": "camp-des-embrevades",
+      "streets": "Village Camp Des Embrevades",
+      "district": "pamplemousses",
+      "from": "2023-09-08T04:30:00.000Z",
+      "to": "2023-09-08T12:30:00.000Z",
+      "id": "145854d2947d4664c317b129278dbb6f"
+    },
+    {
+      "date": "Le vendredi 8 septembre 2023 de  08:30:00 à  19:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "Les abonnés de Forest-Side habitant les régions et les rues suivantes: Résidence La Colombe, Résidence Jasmin, Cite Atlee,  et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-09-08T04:30:00.000Z",
+      "to": "2023-09-08T15:00:00.000Z",
+      "id": "65574d47d56b31135c394ac4d48c837c"
+    }
+  ]
+}

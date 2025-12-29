@@ -1,0 +1,28 @@
+{
+  "date": "2022-03-15",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.760Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mardi 15 mars 2022 de  15:00:00 à  15:45:00",
+      "locality": "CITE CHEBEL",
+      "localitySlug": "cite-chebel",
+      "streets": "CITE CHEBEL,PART OF BEAU BASSIN",
+      "district": "plainewilhems",
+      "from": "2022-03-15T11:00:00.000Z",
+      "to": "2022-03-15T11:45:00.000Z",
+      "id": "aa93489748b64b5b21477682fe5689a2"
+    },
+    {
+      "date": "Le mardi 15 mars 2022 de  09:00:00 à  12:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Camp Pintade,Montagne Croupier,Baie Topaze,Montagne Plate",
+      "district": "rodrigues",
+      "from": "2022-03-15T05:00:00.000Z",
+      "to": "2022-03-15T08:00:00.000Z",
+      "id": "a0975471e20b08a475f04083919eda9b"
+    }
+  ]
+}

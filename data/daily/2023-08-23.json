@@ -1,0 +1,58 @@
+{
+  "date": "2023-08-23",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.795Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mercredi 23 août 2023 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC SAFELAND- AVE DES CRECERELLES, AVE DES PIGEONS, AVE CATEAUX VERT ET UNE PARTIE DE LAVE CARRIERE",
+      "district": "blackriver",
+      "from": "2023-08-23T04:30:00.000Z",
+      "to": "2023-08-23T11:30:00.000Z",
+      "id": "8a9e79d22ed4ecd36b55353277873e8d"
+    },
+    {
+      "date": "Le mercredi 23 août 2023 de  14:30:00 à  17:30:00",
+      "locality": "SAINT PAUL",
+      "localitySlug": "saint-paul",
+      "streets": "Morcellement l’Eclézio et Morcellement Benydin une partie de Rabindranath Tagore Avenue, une partie de Nilkant Mandir Avenue",
+      "district": "plainewilhems",
+      "from": "2023-08-23T10:30:00.000Z",
+      "to": "2023-08-23T13:30:00.000Z",
+      "id": "dd1dc9ce1e4d6d0abe6bdca1ffe5bb3c"
+    },
+    {
+      "date": "Le mercredi 23 août 2023 de  18:30:00 à  22:00:00",
+      "locality": "TRIANON",
+      "localitySlug": "trianon",
+      "streets": "TRIANON 2",
+      "district": "plainewilhems",
+      "from": "2023-08-23T14:30:00.000Z",
+      "to": "2023-08-23T18:00:00.000Z",
+      "id": "42fe380cc62540b387dccb07a3e43dd0"
+    },
+    {
+      "date": "Le mercredi 23 août 2023 de  09:00:00 à  13:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "RUE CANAL",
+      "district": "portlouis",
+      "from": "2023-08-23T05:00:00.000Z",
+      "to": "2023-08-23T09:00:00.000Z",
+      "id": "0aef11a7635530e7a8e830ee66f47a7a"
+    },
+    {
+      "date": "Le mercredi 23 août 2023 de  09:30:00 à  12:00:00",
+      "locality": "BUTTES AUX PAPAYES",
+      "localitySlug": "buttes-aux-papayes",
+      "streets": "Domaine Hill Side, Domaine de Belle vue à buttes aux papayes",
+      "district": "rivieredurempart",
+      "from": "2023-08-23T05:30:00.000Z",
+      "to": "2023-08-23T08:00:00.000Z",
+      "id": "d36204c46ffe01d75b7d4ae02d72144c"
+    }
+  ]
+}

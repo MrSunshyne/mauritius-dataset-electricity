@@ -1,0 +1,58 @@
+{
+  "date": "2023-10-10",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.799Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mardi 10 octobre 2023 de  09:30:00 à  13:00:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "SHIVALA LANE BAMBOUS",
+      "district": "blackriver",
+      "from": "2023-10-10T05:30:00.000Z",
+      "to": "2023-10-10T09:00:00.000Z",
+      "id": "7f1c613d248e018342917dd538b2e8dc"
+    },
+    {
+      "date": "Le mardi 10 octobre 2023 de  10:00:00 à  20:00:00",
+      "locality": "POSTE LAFAYETTE",
+      "localitySlug": "poste-lafayette",
+      "streets": "POSTE LAFAYETTE",
+      "district": "flacq",
+      "from": "2023-10-10T06:00:00.000Z",
+      "to": "2023-10-10T16:00:00.000Z",
+      "id": "62c94f7e7ccd4ee6c9983408a1a16de5"
+    },
+    {
+      "date": "Le mardi 10 octobre 2023 de  08:30:00 à  14:00:00",
+      "locality": "TREFLES",
+      "localitySlug": "trefles",
+      "streets": "LES ABONEES DE TREFLES ROSE HILL",
+      "district": "plainewilhems",
+      "from": "2023-10-10T04:30:00.000Z",
+      "to": "2023-10-10T10:00:00.000Z",
+      "id": "14f266b6afe19fc57c812afdf2022d70"
+    },
+    {
+      "date": "Le mardi 10 octobre 2023 de  12:00:00 à  18:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "CHITRACOOT-VALMIKY-CAROLINE RD VALLEE DES PRETRES",
+      "district": "portlouis",
+      "from": "2023-10-10T08:00:00.000Z",
+      "to": "2023-10-10T14:00:00.000Z",
+      "id": "d42e33edd1da8abd9a6bb29e2d02aa82"
+    },
+    {
+      "date": "Le mardi 10 octobre 2023 de  08:30:00 à  09:45:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "ROYAL ROAD PRTIT RAFFRAY & LES ENVIRONS DE VILLAGE HALL",
+      "district": "rivieredurempart",
+      "from": "2023-10-10T04:30:00.000Z",
+      "to": "2023-10-10T05:45:00.000Z",
+      "id": "27a135a82d096dfbbc75fe63d459644b"
+    }
+  ]
+}

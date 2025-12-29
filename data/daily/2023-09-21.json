@@ -1,0 +1,68 @@
+{
+  "date": "2023-09-21",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.797Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le jeudi 21 septembre 2023 de  09:00:00 à  13:00:00",
+      "locality": "CHAMAREL",
+      "localitySlug": "chamarel",
+      "streets": "LA VILLE LEON CHAMAREL",
+      "district": "blackriver",
+      "from": "2023-09-21T05:00:00.000Z",
+      "to": "2023-09-21T09:00:00.000Z",
+      "id": "c424ac2e4fa262c04fd2195079235d12"
+    },
+    {
+      "date": "Le jeudi 21 septembre 2023 de  20:00:00 à  00:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "MONTEE S",
+      "district": "blackriver",
+      "from": "2023-09-21T16:00:00.000Z",
+      "to": "2023-09-20T20:00:00.000Z",
+      "id": "2f25bd0016c91cbc32f58641692c2b36"
+    },
+    {
+      "date": "Le jeudi 21 septembre 2023 de  11:30:00 à  15:30:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "RUE DES ORANGES MORC MAHADOO BAIE DU TOMBEAU",
+      "district": "pamplemousses",
+      "from": "2023-09-21T07:30:00.000Z",
+      "to": "2023-09-21T11:30:00.000Z",
+      "id": "94af3ca4220036e56fdb4733d26e96e0"
+    },
+    {
+      "date": "Le jeudi 21 septembre 2023 de  14:20:00 à  15:30:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "LA RUE LAVANDE",
+      "district": "plainewilhems",
+      "from": "2023-09-21T10:20:00.000Z",
+      "to": "2023-09-21T11:30:00.000Z",
+      "id": "1dc1917fd0731ec73654d6861f1ee21f"
+    },
+    {
+      "date": "Le jeudi 21 septembre 2023 de  13:00:00 à  18:00:00",
+      "locality": "CHEMIN GRENIER",
+      "localitySlug": "chemin-grenier",
+      "streets": "Les abonnés du village de Chemin Grenier",
+      "district": "savanne",
+      "from": "2023-09-21T09:00:00.000Z",
+      "to": "2023-09-21T14:00:00.000Z",
+      "id": "fa5a9e2499ef8c4a5868ccd5b01572f1"
+    },
+    {
+      "date": "Le jeudi 21 septembre 2023 de  15:00:00 à  16:00:00",
+      "locality": "SURINAM",
+      "localitySlug": "surinam",
+      "streets": "MORC BOUMBOO",
+      "district": "savanne",
+      "from": "2023-09-21T11:00:00.000Z",
+      "to": "2023-09-21T12:00:00.000Z",
+      "id": "775a1e907046462cae077b5ca00ae3e7"
+    }
+  ]
+}

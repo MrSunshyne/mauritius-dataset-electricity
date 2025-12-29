@@ -1,0 +1,38 @@
+{
+  "date": "2025-03-12",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.838Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mercredi 12 mars 2025 de  11:15:00 à  14:00:00",
+      "locality": "DUBREUIL",
+      "localitySlug": "dubreuil",
+      "streets": "DUBREUIL/WOOTON",
+      "district": "moka",
+      "from": "2025-03-12T07:15:00.000Z",
+      "to": "2025-03-12T10:00:00.000Z",
+      "id": "338aaa5f27fa6a63287050737fbf4de3"
+    },
+    {
+      "date": "Le mercredi 12 mars 2025 de  16:30:00 à  00:30:00",
+      "locality": "LA LAURA SAINT PIERRE",
+      "localitySlug": "la-laura-saint-pierre",
+      "streets": "La Laura & Malenga",
+      "district": "moka",
+      "from": "2025-03-12T12:30:00.000Z",
+      "to": "2025-03-11T20:30:00.000Z",
+      "id": "90303887a8364f2ee071134f069080b1"
+    },
+    {
+      "date": "Le mercredi 12 mars 2025 de  16:45:00 à  17:30:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "TRIOLET/PLAINE DE PAPAYES,MORC ST ANDRE,POINTE AUX PIMENT,EN PARTIE TROU AUX BICHES",
+      "district": "pamplemousses",
+      "from": "2025-03-12T12:45:00.000Z",
+      "to": "2025-03-12T13:30:00.000Z",
+      "id": "e9fb8094078292faaed10efba933f30e"
+    }
+  ]
+}

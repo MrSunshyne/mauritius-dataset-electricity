@@ -1,0 +1,78 @@
+{
+  "date": "2022-11-03",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.774Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le jeudi 3 novembre 2022 de  12:00:00 à  14:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC PALMYRE FLIC EN FLAC",
+      "district": "blackriver",
+      "from": "2022-11-03T08:00:00.000Z",
+      "to": "2022-11-03T10:00:00.000Z",
+      "id": "72cc2a07409a94adaeadade60496ff02"
+    },
+    {
+      "date": "Le jeudi 3 novembre 2022 de  15:30:00 à  19:00:00",
+      "locality": "PETIT BEL AIR",
+      "localitySlug": "petit-bel-air",
+      "streets": "Petit Bel Air & Ville Noire",
+      "district": "grandport",
+      "from": "2022-11-03T11:30:00.000Z",
+      "to": "2022-11-03T15:00:00.000Z",
+      "id": "9525b60470edf3397b0a0928b83e329d"
+    },
+    {
+      "date": "Le jeudi 3 novembre 2022 de  09:00:00 à  11:30:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "PART ROYAL ROAD, JEEWOONARAIN LANE PALMA",
+      "district": "plainewilhems",
+      "from": "2022-11-03T05:00:00.000Z",
+      "to": "2022-11-03T07:30:00.000Z",
+      "id": "44e8f379f0b95116a8608e22fe9c67e9"
+    },
+    {
+      "date": "Le jeudi 3 novembre 2022 de  10:15:00 à  11:30:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "RUE MALARTIC",
+      "district": "plainewilhems",
+      "from": "2022-11-03T06:15:00.000Z",
+      "to": "2022-11-03T07:30:00.000Z",
+      "id": "709f954d9c3e454f7dfe17685a01252f"
+    },
+    {
+      "date": "Le jeudi 3 novembre 2022 de  13:00:00 à  14:30:00",
+      "locality": "CARREAU LALIANE",
+      "localitySlug": "carreau-laliane",
+      "streets": "CARREAU LALIANE",
+      "district": "plainewilhems",
+      "from": "2022-11-03T09:00:00.000Z",
+      "to": "2022-11-03T10:30:00.000Z",
+      "id": "a6d738cc736c3dee6d3c8aedbede7346"
+    },
+    {
+      "date": "Le jeudi 3 novembre 2022 de  14:00:00 à  17:30:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "MORC MOUNT PLEASANT ROCHES BRUNES",
+      "district": "plainewilhems",
+      "from": "2022-11-03T10:00:00.000Z",
+      "to": "2022-11-03T13:30:00.000Z",
+      "id": "39cf6b499bc8af12f1ebfea3ae13e20d"
+    },
+    {
+      "date": "Le jeudi 3 novembre 2022 de  08:30:00 à  15:30:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "LES ABONNES DE BYPASS SCHOENFELD ROAD RIVIERE DU REMPART HABITANT DANS LES ENVIRONS DE CENTRE DÉQUITATION ET MORC SCHOENFELD",
+      "district": "rivieredurempart",
+      "from": "2022-11-03T04:30:00.000Z",
+      "to": "2022-11-03T11:30:00.000Z",
+      "id": "fa202e923987fb4326b57e8b53b949d0"
+    }
+  ]
+}

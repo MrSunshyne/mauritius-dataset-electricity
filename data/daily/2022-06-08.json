@@ -1,0 +1,78 @@
+{
+  "date": "2022-06-08",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.765Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le mercredi 8 juin 2022 de  09:00:00 à  17:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "Plaine Magnien habitant dans le périmètre et les rues suivantes: Mamou Lane, Gilbert Lane, Balance Street, Rishi Dayanand Lane et une partie de la Route Royale",
+      "district": "grandport",
+      "from": "2022-06-08T05:00:00.000Z",
+      "to": "2022-06-08T13:00:00.000Z",
+      "id": "9c969559ba3abc2fdace382b5cbe8000"
+    },
+    {
+      "date": "Le mercredi 8 juin 2022 de  10:00:00 à  17:00:00",
+      "locality": "MON GOUT",
+      "localitySlug": "mon-gout",
+      "streets": "MORC MAISON BLANCHE",
+      "district": "pamplemousses",
+      "from": "2022-06-08T06:00:00.000Z",
+      "to": "2022-06-08T13:00:00.000Z",
+      "id": "8c38c7feb5f0eba912d6c0a299f33933"
+    },
+    {
+      "date": "Le mercredi 8 juin 2022 de  13:30:00 à  14:30:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "MORC LA COCHEYLE,ROYAL ROAD FROM HOTEL COCOTIERS TOWARDS JUMBO",
+      "district": "pamplemousses",
+      "from": "2022-06-08T09:30:00.000Z",
+      "to": "2022-06-08T10:30:00.000Z",
+      "id": "6fbdc8c8f6e5f47587e4d9d6d378d3ab"
+    },
+    {
+      "date": "Le mercredi 8 juin 2022 de  17:00:00 à  17:45:00",
+      "locality": "RICHE TERRE",
+      "localitySlug": "riche-terre",
+      "streets": "IN RICHE TERRE ROAD(FROM SHIVALA TO SUSHILL LANE)",
+      "district": "pamplemousses",
+      "from": "2022-06-08T13:00:00.000Z",
+      "to": "2022-06-08T13:45:00.000Z",
+      "id": "8e5ba8b87c49b660033f401f1a795e13"
+    },
+    {
+      "date": "Le mercredi 8 juin 2022 de  09:30:00 à  11:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "MORC HANSROD,PART POPE HENNESSY",
+      "district": "plainewilhems",
+      "from": "2022-06-08T05:30:00.000Z",
+      "to": "2022-06-08T07:00:00.000Z",
+      "id": "cead63486f0e1c71e12c4d54ab66782a"
+    },
+    {
+      "date": "Le mercredi 8 juin 2022 de  10:45:00 à  12:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "CAPITAINE PONTRE",
+      "district": "portlouis",
+      "from": "2022-06-08T06:45:00.000Z",
+      "to": "2022-06-08T08:00:00.000Z",
+      "id": "88c30b72e64bc6d3dd24173af8b5f464"
+    },
+    {
+      "date": "Le mercredi 8 juin 2022 de  11:30:00 à  12:30:00",
+      "locality": "ROCHE BOIS",
+      "localitySlug": "roche-bois",
+      "streets": "RTE ABATTOIR,RTE ST MARTIN",
+      "district": "portlouis",
+      "from": "2022-06-08T07:30:00.000Z",
+      "to": "2022-06-08T08:30:00.000Z",
+      "id": "c0beb9e3760054151fea3303f28cb5da"
+    }
+  ]
+}

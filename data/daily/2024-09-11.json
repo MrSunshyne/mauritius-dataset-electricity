@@ -1,0 +1,28 @@
+{
+  "date": "2024-09-11",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.825Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mercredi 11 septembre 2024 de  09:00:00 à  16:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Wooton habitant dans les périmètres des rues suivantes :, Résidence Lily",
+      "district": "plainewilhems",
+      "from": "2024-09-11T05:00:00.000Z",
+      "to": "2024-09-11T12:00:00.000Z",
+      "id": "e98cda6c1207220731097c2cd5ceb6af"
+    },
+    {
+      "date": "Le mercredi 11 septembre 2024 de  09:00:00 à  13:00:00",
+      "locality": "GLEN PARK",
+      "localitySlug": "glen-park",
+      "streets": "MORC EDOO NO 2",
+      "district": "plainewilhems",
+      "from": "2024-09-11T05:00:00.000Z",
+      "to": "2024-09-11T09:00:00.000Z",
+      "id": "b8225a5cff285e85893f4e4093fc05ae"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "date": "2022-08-01",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.768Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le lundi 1 août 2022 de  15:00:00 à  17:30:00",
+      "locality": "ILOT",
+      "localitySlug": "ilot",
+      "streets": "LES ABONNES HABITANT ILOT",
+      "district": "pamplemousses",
+      "from": "2022-08-01T11:00:00.000Z",
+      "to": "2022-08-01T13:30:00.000Z",
+      "id": "215dc57c8bd261ca635b4390cf88630a"
+    },
+    {
+      "date": "Le lundi 1 août 2022 de  15:00:00 à  17:30:00",
+      "locality": "LES MARIANNES",
+      "localitySlug": "les-mariannes",
+      "streets": "LES ABONNES HABITANT LES MARIANNES",
+      "district": "pamplemousses",
+      "from": "2022-08-01T11:00:00.000Z",
+      "to": "2022-08-01T13:30:00.000Z",
+      "id": "00ce5d4ad3e45bf8b2094d475fd89b3c"
+    },
+    {
+      "date": "Le lundi 1 août 2022 de  15:00:00 à  17:30:00",
+      "locality": "CONGOMAH",
+      "localitySlug": "congomah",
+      "streets": "LES ABONNES HABITANT CONGOMAH",
+      "district": "pamplemousses",
+      "from": "2022-08-01T11:00:00.000Z",
+      "to": "2022-08-01T13:30:00.000Z",
+      "id": "3a9bd11a473e98b159e56f4e9fd49397"
+    },
+    {
+      "date": "Le lundi 1 août 2022 de  15:00:00 à  17:30:00",
+      "locality": "D-EPINAY",
+      "localitySlug": "d-epinay",
+      "streets": "LES ABONNES HABITANT DEPINAY",
+      "district": "pamplemousses",
+      "from": "2022-08-01T11:00:00.000Z",
+      "to": "2022-08-01T13:30:00.000Z",
+      "id": "dcf1e1bafac9a6680fdf0e3dd78e670c"
+    },
+    {
+      "date": "Le lundi 1 août 2022 de  08:30:00 à  15:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "LES ABONNES HABITANT MORC AMEER MEEA VALLEE DES PRETRES DANS LES ENVIRONS DE QOUBA LANE, SAFAA LANE ET JILAN LANE",
+      "district": "portlouis",
+      "from": "2022-08-01T04:30:00.000Z",
+      "to": "2022-08-01T11:00:00.000Z",
+      "id": "b66da9f42628157bd35f771eca9e8b60"
+    },
+    {
+      "date": "Le lundi 1 août 2022 de  15:00:00 à  18:00:00",
+      "locality": "BOIS CHERI",
+      "localitySlug": "bois-cheri",
+      "streets": "Le village de Bois Cheri",
+      "district": "savanne",
+      "from": "2022-08-01T11:00:00.000Z",
+      "to": "2022-08-01T14:00:00.000Z",
+      "id": "7145b5074d5c0d7602b82699693116cc"
+    }
+  ]
+}

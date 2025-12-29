@@ -1,0 +1,78 @@
+{
+  "date": "2023-08-14",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.794Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le lundi 14 août 2023 de  10:00:00 à  11:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "ENVIRON SUPER MARCHE DODO",
+      "district": "blackriver",
+      "from": "2023-08-14T06:00:00.000Z",
+      "to": "2023-08-14T07:00:00.000Z",
+      "id": "810c065442eef55442dc5876491f8212"
+    },
+    {
+      "date": "Le lundi 14 août 2023 de  09:15:00 à  10:30:00",
+      "locality": "MARE LA CHAUX",
+      "localitySlug": "mare-la-chaux",
+      "streets": "WHOLE MARE LA CHAUX",
+      "district": "flacq",
+      "from": "2023-08-14T05:15:00.000Z",
+      "to": "2023-08-14T06:30:00.000Z",
+      "id": "184df8e7389b869fc1085ad7d619926d"
+    },
+    {
+      "date": "Le lundi 14 août 2023 de  11:00:00 à  14:00:00",
+      "locality": "TRIANON",
+      "localitySlug": "trianon",
+      "streets": "TRIANON CITY",
+      "district": "plainewilhems",
+      "from": "2023-08-14T07:00:00.000Z",
+      "to": "2023-08-14T10:00:00.000Z",
+      "id": "8f969a8ee1529c701cad404660e4fc88"
+    },
+    {
+      "date": "Le lundi 14 août 2023 de  14:50:00 à  16:00:00",
+      "locality": "TRIANON",
+      "localitySlug": "trianon",
+      "streets": "TOUCHWOOD AND NEARBY REGION",
+      "district": "plainewilhems",
+      "from": "2023-08-14T10:50:00.000Z",
+      "to": "2023-08-14T12:00:00.000Z",
+      "id": "7672725642a1413ee517062dec17ff27"
+    },
+    {
+      "date": "Le lundi 14 août 2023 de  17:00:00 à  18:30:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "Route Nicolay,Temple Kaylasson",
+      "district": "portlouis",
+      "from": "2023-08-14T13:00:00.000Z",
+      "to": "2023-08-14T14:30:00.000Z",
+      "id": "11f2a2d68e009dc8b184e29266c0bc2e"
+    },
+    {
+      "date": "Le lundi 14 août 2023 de  14:30:00 à  15:30:00",
+      "locality": "ROCHE BOIS",
+      "localitySlug": "roche-bois",
+      "streets": "Rue Desboucher",
+      "district": "portlouis",
+      "from": "2023-08-14T10:30:00.000Z",
+      "to": "2023-08-14T11:30:00.000Z",
+      "id": "8fd5b8a25e6385ecf0d384ab9ba8c51d"
+    },
+    {
+      "date": "Le lundi 14 août 2023 de  09:00:00 à  13:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "School Road",
+      "district": "rivieredurempart",
+      "from": "2023-08-14T05:00:00.000Z",
+      "to": "2023-08-14T09:00:00.000Z",
+      "id": "a34ffa4ce49a39b282e54053db427ec0"
+    }
+  ]
+}

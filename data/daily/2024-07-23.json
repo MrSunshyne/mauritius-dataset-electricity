@@ -1,0 +1,58 @@
+{
+  "date": "2024-07-23",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.820Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mardi 23 juillet 2024 de  08:30:00 à  16:30:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "VILLAGE DE RIVIERE NOIRE",
+      "district": "blackriver",
+      "from": "2024-07-23T04:30:00.000Z",
+      "to": "2024-07-23T12:30:00.000Z",
+      "id": "9e2cb02fa6dac7c5c90ee09f9c5af35d"
+    },
+    {
+      "date": "Le mardi 23 juillet 2024 de  09:00:00 à  12:00:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "Centre De Flacq dans les environ de Plaine De Gersigny rd, St Anne street, Printaniere Str, Lotus Str, St Remy str, Morc VRS Plaine des Gersigny, Morc VRS Camp Manesh, Fraincois Mitrerand rd et Charles de Gaulle rd.",
+      "district": "flacq",
+      "from": "2024-07-23T05:00:00.000Z",
+      "to": "2024-07-23T08:00:00.000Z",
+      "id": "d022159b3667d6b716a013fd3b2e23bd"
+    },
+    {
+      "date": "Le mardi 23 juillet 2024 de  12:00:00 à  14:00:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "MADAME LOLO ROSE BELLE",
+      "district": "grandport",
+      "from": "2024-07-23T08:00:00.000Z",
+      "to": "2024-07-23T10:00:00.000Z",
+      "id": "09cd98be5463039a7b253167ff11350e"
+    },
+    {
+      "date": "Le mardi 23 juillet 2024 de  21:00:00 à  23:00:00",
+      "locality": "TROIS BOUTIQUES UNION VALE",
+      "localitySlug": "trois-boutiques-union-vale",
+      "streets": "WHOLE REGION",
+      "district": "grandport",
+      "from": "2024-07-23T17:00:00.000Z",
+      "to": "2024-07-23T19:00:00.000Z",
+      "id": "842fcfae42495b493244e48673dcba55"
+    },
+    {
+      "date": "Le mardi 23 juillet 2024 de  13:00:00 à  15:00:00",
+      "locality": "D-EPINAY",
+      "localitySlug": "d-epinay",
+      "streets": "DEPINAY,VILLE BAGUE,PETITE JULIE,CONGOMAH,LE MARIANNE,CERVECOEUR.",
+      "district": "pamplemousses",
+      "from": "2024-07-23T09:00:00.000Z",
+      "to": "2024-07-23T11:00:00.000Z",
+      "id": "69a2aad6660bee524e00420ac5636438"
+    }
+  ]
+}

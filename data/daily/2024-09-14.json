@@ -1,0 +1,48 @@
+{
+  "date": "2024-09-14",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.825Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le samedi 14 septembre 2024 de  08:30:00 à  16:00:00",
+      "locality": "MOKA",
+      "localitySlug": "moka",
+      "streets": "Gentilly Estate,Minissy(Cwa/Poultry)Residence Telfair",
+      "district": "moka",
+      "from": "2024-09-14T04:30:00.000Z",
+      "to": "2024-09-14T12:00:00.000Z",
+      "id": "97ee171c5c0b21cee4379a203ccab85c"
+    },
+    {
+      "date": "Le samedi 14 septembre 2024 de  12:00:00 à  14:00:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "ROYAL ROAD, INDEPENDENCE RD, PART OF ONE WAY AND SURROUNDINGS",
+      "district": "pamplemousses",
+      "from": "2024-09-14T08:00:00.000Z",
+      "to": "2024-09-14T10:00:00.000Z",
+      "id": "fb32804bc788d11ed4c7b3bd6df79d00"
+    },
+    {
+      "date": "Le samedi 14 septembre 2024 de  08:30:00 à  16:00:00",
+      "locality": "TRIANON",
+      "localitySlug": "trianon",
+      "streets": "Résidence Jet Seven",
+      "district": "plainewilhems",
+      "from": "2024-09-14T04:30:00.000Z",
+      "to": "2024-09-14T12:00:00.000Z",
+      "id": "06c0f269a09e8c97375aaa452ca1a7d8"
+    },
+    {
+      "date": "Le samedi 14 septembre 2024 de  08:15:00 à  16:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "une partie de Rue Mahant Kabir, Morcellement Coopératives, Cite-Rittoo, une partie de Clairfonds No. 3",
+      "district": "plainewilhems",
+      "from": "2024-09-14T04:15:00.000Z",
+      "to": "2024-09-14T12:30:00.000Z",
+      "id": "e340979e590ecb28925496609e7e3624"
+    }
+  ]
+}

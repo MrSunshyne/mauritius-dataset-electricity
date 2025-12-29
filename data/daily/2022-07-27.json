@@ -1,0 +1,58 @@
+{
+  "date": "2022-07-27",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.768Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mercredi 27 juillet 2022 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "AVE DES COLOMBES, AVE DES AIGLONS, AVE DES PERDRIX, AVE DES FLAMANTS ET AVE DES CANARIES",
+      "district": "blackriver",
+      "from": "2022-07-27T04:30:00.000Z",
+      "to": "2022-07-27T11:30:00.000Z",
+      "id": "f9067fe6b6e569b57b3202da9a056ffc"
+    },
+    {
+      "date": "Le mercredi 27 juillet 2022 de  08:15:00 à  17:00:00",
+      "locality": "POSTE LAFAYETTE",
+      "localitySlug": "poste-lafayette",
+      "streets": "Bras Deau,Poste La Fayette dans les primetres de Le Nid,Maison Dete,Jalsa Beach Hotel,Telecom et Eastern Blue",
+      "district": "flacq",
+      "from": "2022-07-27T04:15:00.000Z",
+      "to": "2022-07-27T13:00:00.000Z",
+      "id": "434d3ebd28cbf5361a021bcf36b145ba"
+    },
+    {
+      "date": "Le mercredi 27 juillet 2022 de  18:00:00 à  20:30:00",
+      "locality": "BRISEE VERDIERE",
+      "localitySlug": "brisee-verdiere",
+      "streets": "BRISEE VERDIERE",
+      "district": "flacq",
+      "from": "2022-07-27T14:00:00.000Z",
+      "to": "2022-07-27T16:30:00.000Z",
+      "id": "b12cb09825acccb1ce72cc997bd3810c"
+    },
+    {
+      "date": "Le mercredi 27 juillet 2022 de  09:15:00 à  10:15:00",
+      "locality": "COTTAGE",
+      "localitySlug": "cottage",
+      "streets": "RAMNARAIN ROAD ET ALENTOUR",
+      "district": "rivieredurempart",
+      "from": "2022-07-27T05:15:00.000Z",
+      "to": "2022-07-27T06:15:00.000Z",
+      "id": "c40f39434ff6d9506ff9e47295e5a3e4"
+    },
+    {
+      "date": "Le mercredi 27 juillet 2022 de  13:10:00 à  14:15:00",
+      "locality": "COTTAGE",
+      "localitySlug": "cottage",
+      "streets": "RAMNARAIN ROAD ET ALENTOUR",
+      "district": "rivieredurempart",
+      "from": "2022-07-27T09:10:00.000Z",
+      "to": "2022-07-27T10:15:00.000Z",
+      "id": "ee4b3541c390a08bf8bdf4cb7d509170"
+    }
+  ]
+}

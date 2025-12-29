@@ -1,0 +1,38 @@
+{
+  "date": "2023-10-30",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.800Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le lundi 30 octobre 2023 de  18:00:00 à  19:00:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "GEOFFROY RD",
+      "district": "blackriver",
+      "from": "2023-10-30T14:00:00.000Z",
+      "to": "2023-10-30T15:00:00.000Z",
+      "id": "53df32697b851626ad89649607c4aa84"
+    },
+    {
+      "date": "Le lundi 30 octobre 2023 de  11:15:00 à  12:45:00",
+      "locality": "GLEN PARK",
+      "localitySlug": "glen-park",
+      "streets": "LES ABONNES DE HAJEE HATTAN ROAD GLEN PARK VACOAS.",
+      "district": "plainewilhems",
+      "from": "2023-10-30T07:15:00.000Z",
+      "to": "2023-10-30T08:45:00.000Z",
+      "id": "d3b823bb0867d643657a77a3d5724f5b"
+    },
+    {
+      "date": "Le lundi 30 octobre 2023 de  16:45:00 à  18:00:00",
+      "locality": "CASSIS",
+      "localitySlug": "cassis",
+      "streets": "MENAGERIE ST",
+      "district": "portlouis",
+      "from": "2023-10-30T12:45:00.000Z",
+      "to": "2023-10-30T14:00:00.000Z",
+      "id": "e7f3252b80ff1c7ddd2397cd9caa7989"
+    }
+  ]
+}

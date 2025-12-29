@@ -1,0 +1,58 @@
+{
+  "date": "2025-09-28",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.849Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le dimanche 28 septembre 2025 de  08:30:00 à  17:00:00",
+      "locality": "GENTILLY- MOKA",
+      "localitySlug": "gentilly-moka",
+      "streets": "GENTILLY BRANCH ROAD AND SURROUNDINGS",
+      "district": "moka",
+      "from": "2025-09-28T04:30:00.000Z",
+      "to": "2025-09-28T13:00:00.000Z",
+      "id": "d123e03eb58244957d6cd2d6b5c93c47"
+    },
+    {
+      "date": "Le dimanche 28 septembre 2025 de  08:30:00 à  16:00:00",
+      "locality": "ARSENAL",
+      "localitySlug": "arsenal",
+      "streets": "ARSENAL ET CALEBASSES DANS LES ENVIRONS DE HUMAN SERVICE TRUST",
+      "district": "pamplemousses",
+      "from": "2025-09-28T04:30:00.000Z",
+      "to": "2025-09-28T12:00:00.000Z",
+      "id": "c92f415aad411b56c009a3348575ee4a"
+    },
+    {
+      "date": "Le dimanche 28 septembre 2025 de  13:30:00 à  14:30:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Balfour, Dr Lesur, Nemours Decotter, de la Faye et les environs",
+      "district": "plainewilhems",
+      "from": "2025-09-28T09:30:00.000Z",
+      "to": "2025-09-28T10:30:00.000Z",
+      "id": "3ad08eb236478bdd932a346356624d3e"
+    },
+    {
+      "date": "Le dimanche 28 septembre 2025 de  08:30:00 à  09:30:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Balfour, Dr Lesur, Nemours Decotter, de la Faye et les environs",
+      "district": "plainewilhems",
+      "from": "2025-09-28T04:30:00.000Z",
+      "to": "2025-09-28T05:30:00.000Z",
+      "id": "d749d2000b68d0e332ad38435e45f025"
+    },
+    {
+      "date": "Le dimanche 28 septembre 2025 de  08:30:00 à  14:30:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "DANS LES ENVIRONS DES RUES BOULEVARD RIVALTZ, COOK ET UNE PARTIE DE WELLINGTON ET HARRIS",
+      "district": "portlouis",
+      "from": "2025-09-28T04:30:00.000Z",
+      "to": "2025-09-28T10:30:00.000Z",
+      "id": "5fc96f939de043e31f65980b50f232c9"
+    }
+  ]
+}

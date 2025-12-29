@@ -1,0 +1,48 @@
+{
+  "date": "2022-06-25",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.766Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le samedi 25 juin 2022 de  08:30:00 à  16:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "MONTAGNE ST PIERRE ET UNE PARTIE DE LA ZONE INDUSTRIELLE BAMBOUS",
+      "district": "blackriver",
+      "from": "2022-06-25T04:30:00.000Z",
+      "to": "2022-06-25T12:30:00.000Z",
+      "id": "7e982ed04027b2f1ef7ca543bd7d244f"
+    },
+    {
+      "date": "Le samedi 25 juin 2022 de  15:00:00 à  16:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "BUNWAREE LANE",
+      "district": "pamplemousses",
+      "from": "2022-06-25T11:00:00.000Z",
+      "to": "2022-06-25T12:00:00.000Z",
+      "id": "3e17b19a9080a59471133a64356a10aa"
+    },
+    {
+      "date": "Le samedi 25 juin 2022 de  08:30:00 à  15:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "LES ABONNES HABITANT MORC VRS PTE AUX SABLES DANS LES ENVIRONS DES AVENUES BANANIERS,BIBASSIERS,BERGAMOTIERS ET BIGARADIERS",
+      "district": "portlouis",
+      "from": "2022-06-25T04:30:00.000Z",
+      "to": "2022-06-25T11:00:00.000Z",
+      "id": "9e1b4664c8bcfe789a9dba25391887fe"
+    },
+    {
+      "date": "Le samedi 25 juin 2022 de  08:30:00 à  15:30:00",
+      "locality": "RIVIERE BANANE(RODRIGUES)",
+      "localitySlug": "riviere-banane",
+      "streets": "Bel Air & Riviere Banane",
+      "district": "rodrigues",
+      "from": "2022-06-25T04:30:00.000Z",
+      "to": "2022-06-25T11:30:00.000Z",
+      "id": "2c52fb82057013b7bea66599de8462a7"
+    }
+  ]
+}

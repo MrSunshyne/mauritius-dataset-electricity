@@ -1,0 +1,25 @@
+{
+  "slug": "richfond",
+  "name": "RICHFOND",
+  "district": "flacq",
+  "generated": "2025-12-29T20:14:26.176Z",
+  "outageCount": 2,
+  "firstOutage": "2025-01-19",
+  "lastOutage": "2025-10-15",
+  "outages": [
+    {
+      "date": "Le mercredi 15 octobre 2025 de  13:00:00 à  17:00:00",
+      "streets": "RICHFOND",
+      "from": "2025-10-15T09:00:00.000Z",
+      "to": "2025-10-15T13:00:00.000Z",
+      "id": "c2de5cc407a0a4939f17502abd81a7b5"
+    },
+    {
+      "date": "Le dimanche 19 janvier 2025 de  08:15:00 à  16:00:00",
+      "streets": "RICHFOND ET LA ROCHE",
+      "from": "2025-01-19T04:15:00.000Z",
+      "to": "2025-01-19T12:00:00.000Z",
+      "id": "97a4e9813ec9deb45c3fb4e447ecbc93"
+    }
+  ]
+}

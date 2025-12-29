@@ -1,0 +1,38 @@
+{
+  "date": "2023-05-25",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.789Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le jeudi 25 mai 2023 de  09:00:00 à  15:00:00",
+      "locality": "MONT ROCHES",
+      "localitySlug": "mont-roches",
+      "streets": "MONT ROCHES NR KALIMAYE MONTAGNE",
+      "district": "plainewilhems",
+      "from": "2023-05-25T05:00:00.000Z",
+      "to": "2023-05-25T11:00:00.000Z",
+      "id": "4767a72526dfa9be8a7d57af60f379b6"
+    },
+    {
+      "date": "Le jeudi 25 mai 2023 de  19:30:00 à  00:30:00",
+      "locality": "HERMITAGE PHOENIX",
+      "localitySlug": "hermitage-phoenix",
+      "streets": "HERMITAGE NR BUS STATION/PLAY GROUND",
+      "district": "plainewilhems",
+      "from": "2023-05-25T15:30:00.000Z",
+      "to": "2023-05-24T20:30:00.000Z",
+      "id": "44dd80d4e3afb366983c9c4efe25a4af"
+    },
+    {
+      "date": "Le jeudi 25 mai 2023 de  08:30:00 à  14:00:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "Dans les environs de Daruty, SSR Road et Island Milk",
+      "district": "rivieredurempart",
+      "from": "2023-05-25T04:30:00.000Z",
+      "to": "2023-05-25T10:00:00.000Z",
+      "id": "ed4d964cf12333c9948998c76607c097"
+    }
+  ]
+}

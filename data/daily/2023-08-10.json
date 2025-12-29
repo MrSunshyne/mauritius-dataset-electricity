@@ -1,0 +1,58 @@
+{
+  "date": "2023-08-10",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.794Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le jeudi 10 août 2023 de  09:00:00 à  16:00:00",
+      "locality": "BELVEDERE ( LALLMATIE )",
+      "localitySlug": "belvedere",
+      "streets": "Les abonnés du village de Belvedere dans les perimetres de Medi Clinique, Rue Samsoondar et Rue Bon Accueil Branch",
+      "district": "flacq",
+      "from": "2023-08-10T05:00:00.000Z",
+      "to": "2023-08-10T12:00:00.000Z",
+      "id": "055e04c9ac2ba4befd836aa1240d2c91"
+    },
+    {
+      "date": "Le jeudi 10 août 2023 de  09:00:00 à  15:00:00",
+      "locality": "LESUR",
+      "localitySlug": "lesur",
+      "streets": "Les abonnés du village de Lesur, Sébastopol habitant les rues suivantes : Route royale Lesur, Beekoo, Kalimaye, Baitka, Cemetry, Cité Edc et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-08-10T05:00:00.000Z",
+      "to": "2023-08-10T11:00:00.000Z",
+      "id": "6c65ab9b5a7e61b999e5b76fa8c0cf1c"
+    },
+    {
+      "date": "Le jeudi 10 août 2023 de  15:00:00 à  17:30:00",
+      "locality": "SOLFERINO",
+      "localitySlug": "solferino",
+      "streets": "Dr Manillal Avenue,   une partie de Solferino No. 3, une partie de Ellaheebaccus Lane",
+      "district": "plainewilhems",
+      "from": "2023-08-10T11:00:00.000Z",
+      "to": "2023-08-10T13:30:00.000Z",
+      "id": "d0f39f805b24872f3154e3de89cd2c94"
+    },
+    {
+      "date": "Le jeudi 10 août 2023 de  15:00:00 à  17:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "une partie de Route Sadally, une partie de Ligne Berthaud, une partie de la Route Thompson, Serge Alfred Lane, Chalta Lane",
+      "district": "plainewilhems",
+      "from": "2023-08-10T11:00:00.000Z",
+      "to": "2023-08-10T13:00:00.000Z",
+      "id": "ad21821f79006b1fba380ebed2c7a188"
+    },
+    {
+      "date": "Le jeudi 10 août 2023 de  11:00:00 à  13:30:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "CORNER LA HAUSSE DE LA LOUVIEREFLOREAL",
+      "district": "plainewilhems",
+      "from": "2023-08-10T07:00:00.000Z",
+      "to": "2023-08-10T09:30:00.000Z",
+      "id": "ea1018074a97e90a99c6802e0f895519"
+    }
+  ]
+}

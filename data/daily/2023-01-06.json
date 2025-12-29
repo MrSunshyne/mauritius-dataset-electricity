@@ -1,0 +1,38 @@
+{
+  "date": "2023-01-06",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.779Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le vendredi 6 janvier 2023 de  08:30:00 à  14:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "RESERVOIR ET CREMATORIUM MONTAGNE ST PIERRE ET CWA EAUX BONNES",
+      "district": "blackriver",
+      "from": "2023-01-06T04:30:00.000Z",
+      "to": "2023-01-06T10:30:00.000Z",
+      "id": "c188a2926b0cfcc8f0f559b442c54d74"
+    },
+    {
+      "date": "Le vendredi 6 janvier 2023 de  09:00:00 à  10:30:00",
+      "locality": "BAIN BOEUF",
+      "localitySlug": "bain-boeuf",
+      "streets": "PAVILLION, BAIN BOEUF, MORC. SOOBRAYEN, MORC. MERVIN, MORC. POONITH, MORC. CHETTY, TEMPLE ROAD, COASTAL ROAD PEREYBERE, HOTEL COIN DE MIRE",
+      "district": "rivieredurempart",
+      "from": "2023-01-06T05:00:00.000Z",
+      "to": "2023-01-06T06:30:00.000Z",
+      "id": "6e5c70d447be4ecf43f1ec911368cf00"
+    },
+    {
+      "date": "Le vendredi 6 janvier 2023 de  09:00:00 à  10:00:00",
+      "locality": "CALODYNE",
+      "localitySlug": "calodyne",
+      "streets": "CALODYNE,BAIN BOEUF,PEREYBERE",
+      "district": "rivieredurempart",
+      "from": "2023-01-06T05:00:00.000Z",
+      "to": "2023-01-06T06:00:00.000Z",
+      "id": "5a881f530edc27725d8322a1f875019e"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "2024-01-31",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.807Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le mercredi 31 janvier 2024 de  09:00:00 à  12:00:00",
+      "locality": "LALLMATIE",
+      "localitySlug": "lallmatie",
+      "streets": "LALLMATIE",
+      "district": "flacq",
+      "from": "2024-01-31T05:00:00.000Z",
+      "to": "2024-01-31T08:00:00.000Z",
+      "id": "f1589d3826b95b71e0ffc306e21b8893"
+    },
+    {
+      "date": "Le mercredi 31 janvier 2024 de  09:25:00 à  11:30:00",
+      "locality": "BELLE MARE",
+      "localitySlug": "belle-mare",
+      "streets": "BELLE MARE",
+      "district": "flacq",
+      "from": "2024-01-31T05:25:00.000Z",
+      "to": "2024-01-31T07:30:00.000Z",
+      "id": "01e13dccba794979ed68004a279ed790"
+    },
+    {
+      "date": "Le mercredi 31 janvier 2024 de  10:10:00 à  10:45:00",
+      "locality": "NOUVELLE FRANCE",
+      "localitySlug": "nouvelle-france",
+      "streets": "NOUVELLE FRANCE",
+      "district": "grandport",
+      "from": "2024-01-31T06:10:00.000Z",
+      "to": "2024-01-31T06:45:00.000Z",
+      "id": "2c5a856b21186dc72a15d340c29ecaca"
+    },
+    {
+      "date": "Le mercredi 31 janvier 2024 de  10:15:00 à  12:30:00",
+      "locality": "CREVE COEUR",
+      "localitySlug": "creve-coeur",
+      "streets": "Rivalland Rd",
+      "district": "pamplemousses",
+      "from": "2024-01-31T06:15:00.000Z",
+      "to": "2024-01-31T08:30:00.000Z",
+      "id": "2d072aa88ebaa5565bf17fb8682417a3"
+    },
+    {
+      "date": "Le mercredi 31 janvier 2024 de  11:30:00 à  13:30:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "Residence EDC",
+      "district": "plainewilhems",
+      "from": "2024-01-31T07:30:00.000Z",
+      "to": "2024-01-31T09:30:00.000Z",
+      "id": "1ee562979c6176ad265e94db8802cf54"
+    },
+    {
+      "date": "Le mercredi 31 janvier 2024 de  15:30:00 à  16:30:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "SOS VILLAGE, FLAT SELUCIA, VUILLEMIN, DR LESUR, KHODABACUS AVE, PHILLIPE RAOUL AVE, MAUDAVE AVE, DREAM PRICE BBASIIN, RESIDENCE VUILLEMIN, NHDC VUILLEMIN, DR REID,MAHADEO BILTOO,DUPERRE,CHATEUNEUF ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2024-01-31T11:30:00.000Z",
+      "to": "2024-01-31T12:30:00.000Z",
+      "id": "f658815ccadc47347714e085f635c20e"
+    },
+    {
+      "date": "Le mercredi 31 janvier 2024 de  11:00:00 à  12:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "EMMANUEL ANQUETIL, QUEEN ST, FARQUHAR ST, ET LE CENTRE DE PORT LOUIS",
+      "district": "portlouis",
+      "from": "2024-01-31T07:00:00.000Z",
+      "to": "2024-01-31T08:00:00.000Z",
+      "id": "c657798343028051c8c1fa5fb65e1556"
+    }
+  ]
+}

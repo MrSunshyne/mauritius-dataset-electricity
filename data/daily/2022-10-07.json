@@ -1,0 +1,38 @@
+{
+  "date": "2022-10-07",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.773Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le vendredi 7 octobre 2022 de  08:30:00 à  15:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "Ave La Paix, Vaudagne Rd, Ave Mangue Vert Doux, Impass Palmer, Plaine Cabate Rd et Impasse Simonette",
+      "district": "blackriver",
+      "from": "2022-10-07T04:30:00.000Z",
+      "to": "2022-10-07T11:30:00.000Z",
+      "id": "aa556c347d9c18f30a100ca05daea9e7"
+    },
+    {
+      "date": "Le vendredi 7 octobre 2022 de  08:30:00 à  17:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "Morcellement VRS 1 L’escalier Road Plaine Magnien",
+      "district": "grandport",
+      "from": "2022-10-07T04:30:00.000Z",
+      "to": "2022-10-07T13:00:00.000Z",
+      "id": "2e4ab317a3fece7966391e28b6b57aa9"
+    },
+    {
+      "date": "Le vendredi 7 octobre 2022 de  09:20:00 à  11:30:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "RAGHUPAT,CANAL",
+      "district": "plainewilhems",
+      "from": "2022-10-07T05:20:00.000Z",
+      "to": "2022-10-07T07:30:00.000Z",
+      "id": "c6b3df7f2da65ce849c317d022f65e1c"
+    }
+  ]
+}

@@ -1,0 +1,676 @@
+{
+  "slug": "triolet",
+  "name": "TRIOLET",
+  "district": "pamplemousses",
+  "generated": "2025-12-29T20:14:26.230Z",
+  "outageCount": 95,
+  "firstOutage": "2022-04-08",
+  "lastOutage": "2025-12-21",
+  "outages": [
+    {
+      "date": "Le dimanche 21 décembre 2025 de  15:00:00 à  18:00:00",
+      "streets": "TBS LANE ET LES ALENTOURS",
+      "from": "2025-12-21T11:00:00.000Z",
+      "to": "2025-12-21T14:00:00.000Z",
+      "id": "37e89da3a0c9df02e569a817bcfcc1bd"
+    },
+    {
+      "date": "Le vendredi 12 décembre 2025 de  10:00:00 à  12:30:00",
+      "streets": "MAHATMA GHANDI ROAD TRIOLET",
+      "from": "2025-12-12T06:00:00.000Z",
+      "to": "2025-12-12T08:30:00.000Z",
+      "id": "47960bf114760e92fc6a87f45656e905"
+    },
+    {
+      "date": "Le vendredi 12 décembre 2025 de  09:15:00 à  11:30:00",
+      "streets": "MAHATMA GANDHI ROAD",
+      "from": "2025-12-12T05:15:00.000Z",
+      "to": "2025-12-12T07:30:00.000Z",
+      "id": "b621b99904789e45b589c1da6617f259"
+    },
+    {
+      "date": "Le lundi 10 novembre 2025 de  09:30:00 à  11:30:00",
+      "streets": "9eme Mille,Sewraz Govt School,TRIOLET",
+      "from": "2025-11-10T05:30:00.000Z",
+      "to": "2025-11-10T07:30:00.000Z",
+      "id": "833b9aef54d84af43be0f802565b496e"
+    },
+    {
+      "date": "Le jeudi 23 octobre 2025 de  19:00:00 à  19:50:00",
+      "streets": "9eme Mille,Terminus,Trou aux Biches,Chemin Vingt Pieds",
+      "from": "2025-10-23T15:00:00.000Z",
+      "to": "2025-10-23T15:50:00.000Z",
+      "id": "056146dcbeb71cd24c6d0762db3efe7d"
+    },
+    {
+      "date": "Le jeudi 23 octobre 2025 de  09:00:00 à  18:55:00",
+      "streets": "9eme Mile dans les environs de Tagore rd et Hassen Taher",
+      "from": "2025-10-23T05:00:00.000Z",
+      "to": "2025-10-23T14:55:00.000Z",
+      "id": "8b3eae9559d91ac4c2cf40f87c12be9b"
+    },
+    {
+      "date": "Le mardi 14 octobre 2025 de  16:30:00 à  17:30:00",
+      "streets": "PRINCE DES GALLES AND SURROUNDINGS",
+      "from": "2025-10-14T12:30:00.000Z",
+      "to": "2025-10-14T13:30:00.000Z",
+      "id": "80fb4bb266b64170a0918ec4b7ce4bb4"
+    },
+    {
+      "date": "Le mardi 14 octobre 2025 de  15:45:00 à  17:00:00",
+      "streets": "7th MILE TOWARDS SOLITUDE",
+      "from": "2025-10-14T11:45:00.000Z",
+      "to": "2025-10-14T13:00:00.000Z",
+      "id": "44ac6c9172c928a5c3d93f7d0079dd79"
+    },
+    {
+      "date": "Le jeudi 9 octobre 2025 de  09:30:00 à  15:30:00",
+      "streets": "DANS LES ENVIRONS DE TOGORE ROAD ET HASSEN TAHER",
+      "from": "2025-10-09T05:30:00.000Z",
+      "to": "2025-10-09T11:30:00.000Z",
+      "id": "8358b348a840a2abd266bb3dfd8015c1"
+    },
+    {
+      "date": "Le mardi 7 octobre 2025 de  09:00:00 à  17:00:00",
+      "streets": "TAGORE RD 9IEM MILLE TRIOLET",
+      "from": "2025-10-07T05:00:00.000Z",
+      "to": "2025-10-07T13:00:00.000Z",
+      "id": "0b8f43690fe4799238db0f6b67bc360f"
+    },
+    {
+      "date": "Le mercredi 1 octobre 2025 de  09:00:00 à  15:00:00",
+      "streets": "DANS LES ENVIRONS DE PRINCESS ANNE,SUNGARALINGUM, JUDIVADOO ET SHAFFA FURNITURE",
+      "from": "2025-10-01T05:00:00.000Z",
+      "to": "2025-10-01T11:00:00.000Z",
+      "id": "61df413818f2182fa709c17ac34d858e"
+    },
+    {
+      "date": "Le samedi 27 septembre 2025 de  10:15:00 à  12:30:00",
+      "streets": "Prince des Galles,7eme Mille,TRIOLET",
+      "from": "2025-09-27T06:15:00.000Z",
+      "to": "2025-09-27T08:30:00.000Z",
+      "id": "2685cb45a6349b4e05f54bb90b78b3ae"
+    },
+    {
+      "date": "Le mardi 23 septembre 2025 de  09:00:00 à  16:30:00",
+      "streets": "DANS LES ENVIRONS DE PRINCESSE ANNE, PRINCE DES GALLES, 7EME MILLE, CINEMA CASSE ET SIMLA WAY",
+      "from": "2025-09-23T05:00:00.000Z",
+      "to": "2025-09-23T12:30:00.000Z",
+      "id": "c8d23c42ea08f12d35b160944d73d060"
+    },
+    {
+      "date": "Le lundi 1 septembre 2025 de  15:00:00 à  16:15:00",
+      "streets": "7EME MILE AND SURROUNDINGS",
+      "from": "2025-09-01T11:00:00.000Z",
+      "to": "2025-09-01T12:15:00.000Z",
+      "id": "ff97e3d040a13147a2920628f66addf4"
+    },
+    {
+      "date": "Le dimanche 24 août 2025 de  12:00:00 à  14:45:00",
+      "streets": "JHUBOO LANE, TRIO ROAD, NEAR TERMINUS",
+      "from": "2025-08-24T08:00:00.000Z",
+      "to": "2025-08-24T10:45:00.000Z",
+      "id": "86a1b7a4984b217b478a6829d2d518de"
+    },
+    {
+      "date": "Le mercredi 6 août 2025 de  13:40:00 à  16:00:00",
+      "streets": "BON AIR ROAD AND SURROUNDINGS",
+      "from": "2025-08-06T09:40:00.000Z",
+      "to": "2025-08-06T12:00:00.000Z",
+      "id": "e0c0a8b2c9dcdead3197fa0c0d849d02"
+    },
+    {
+      "date": "Le mercredi 23 juillet 2025 de  09:00:00 à  10:00:00",
+      "streets": "TERMINUS, SHIVALA ROAD, PART OF MONT CHOISY, TROUX AUX BICHES, POINTE AUX BICHES, TRIO ROAD AND SURROUNDINGS",
+      "from": "2025-07-23T05:00:00.000Z",
+      "to": "2025-07-23T06:00:00.000Z",
+      "id": "a62da79c922be363c7c551aef28ccfe3"
+    },
+    {
+      "date": "Le mercredi 16 juillet 2025 de  09:15:00 à  09:45:00",
+      "streets": "3 Boutiques,Near Winners,Filling Engen",
+      "from": "2025-07-16T05:15:00.000Z",
+      "to": "2025-07-16T05:45:00.000Z",
+      "id": "138708cf00d11877641133ef029406ed"
+    },
+    {
+      "date": "Le mercredi 9 juillet 2025 de  14:30:00 à  20:30:00",
+      "streets": "DANS LES ENVIRONS COLLEGE LADY SUSHIL.",
+      "from": "2025-07-09T10:30:00.000Z",
+      "to": "2025-07-09T16:30:00.000Z",
+      "id": "0843b29c52112194e8c7d425b17a1ecf"
+    },
+    {
+      "date": "Le jeudi 3 juillet 2025 de  09:00:00 à  11:00:00",
+      "streets": "TAGORE ROADTRIOLET",
+      "from": "2025-07-03T05:00:00.000Z",
+      "to": "2025-07-03T07:00:00.000Z",
+      "id": "a696095fcf5a8d0250713ba83189affd"
+    },
+    {
+      "date": "Le jeudi 26 juin 2025 de  09:45:00 à  10:45:00",
+      "streets": "TANGARALINGUM LANE ET LES ALENTOURS7TH MILE TRIOLET",
+      "from": "2025-06-26T05:45:00.000Z",
+      "to": "2025-06-26T06:45:00.000Z",
+      "id": "f9177719edc39f13e733c087cdbc6148"
+    },
+    {
+      "date": "Le dimanche 22 juin 2025 de  13:35:00 à  14:30:00",
+      "streets": "MAHESHWAR NAGRI ET LES ALENTOURS",
+      "from": "2025-06-22T09:35:00.000Z",
+      "to": "2025-06-22T10:30:00.000Z",
+      "id": "e74b7bc01044eddfc47f3def3adc9227"
+    },
+    {
+      "date": "Le samedi 21 juin 2025 de  19:00:00 à  22:30:00",
+      "streets": "9EME MILE /TERMINUS TRIOLET",
+      "from": "2025-06-21T15:00:00.000Z",
+      "to": "2025-06-21T18:30:00.000Z",
+      "id": "4ad2421db6ce1b232423143a5967504a"
+    },
+    {
+      "date": "Le mercredi 2 avril 2025 de  13:45:00 à  16:45:00",
+      "streets": "WHOLE OF TRIOLET.",
+      "from": "2025-04-02T09:45:00.000Z",
+      "to": "2025-04-02T12:45:00.000Z",
+      "id": "25b8de5f0c60646b7c7dc5ee60d52b89"
+    },
+    {
+      "date": "Le jeudi 20 mars 2025 de  17:00:00 à  21:00:00",
+      "streets": "9EME MILE NR EX STATE BANK,TAGORE ROAD",
+      "from": "2025-03-20T13:00:00.000Z",
+      "to": "2025-03-20T17:00:00.000Z",
+      "id": "0a57bc172a0b9b51c878fc42b75f4185"
+    },
+    {
+      "date": "Le mardi 18 mars 2025 de  09:55:00 à  13:00:00",
+      "streets": "7eme Mile,Triolet",
+      "from": "2025-03-18T05:55:00.000Z",
+      "to": "2025-03-18T09:00:00.000Z",
+      "id": "cdecfacae719f00bc78d95488f06b915"
+    },
+    {
+      "date": "Le dimanche 16 mars 2025 de  08:00:00 à  15:00:00",
+      "streets": "PRINCESS ANNNE, PRINCE DES GALLES, ROYAL ROAD, SIMLA WAY, CINEMA CASSEE, DERNINGHAM, BOULANGERIE AMIRALE",
+      "from": "2025-03-16T04:00:00.000Z",
+      "to": "2025-03-16T11:00:00.000Z",
+      "id": "e93c6f547925ae86bf985bc78ae34952"
+    },
+    {
+      "date": "Le mercredi 12 mars 2025 de  16:45:00 à  17:30:00",
+      "streets": "TRIOLET/PLAINE DE PAPAYES,MORC ST ANDRE,POINTE AUX PIMENT,EN PARTIE TROU AUX BICHES",
+      "from": "2025-03-12T12:45:00.000Z",
+      "to": "2025-03-12T13:30:00.000Z",
+      "id": "e9fb8094078292faaed10efba933f30e"
+    },
+    {
+      "date": "Le dimanche 2 mars 2025 de  19:30:00 à  00:00:00",
+      "streets": "DISPENSARY ROADTRIOLET",
+      "from": "2025-03-02T15:30:00.000Z",
+      "to": "2025-03-01T20:00:00.000Z",
+      "id": "708db35403baed2b8eeae3f8882ff874"
+    },
+    {
+      "date": "Le mardi 18 février 2025 de  08:30:00 à  13:00:00",
+      "streets": "BOIS CHANDELLE, CHEMIN 20 PIEDS TRIOLET",
+      "from": "2025-02-18T04:30:00.000Z",
+      "to": "2025-02-18T09:00:00.000Z",
+      "id": "179421cc4af21b8a49540542a68819a9"
+    },
+    {
+      "date": "Le samedi 8 février 2025 de  09:00:00 à  15:00:00",
+      "streets": "9EME MILE TRIOLET",
+      "from": "2025-02-08T05:00:00.000Z",
+      "to": "2025-02-08T11:00:00.000Z",
+      "id": "06c7af6a3538a419aead529ba95bcad3"
+    },
+    {
+      "date": "Le vendredi 7 février 2025 de  10:00:00 à  11:00:00",
+      "streets": "9EME MILE TRIOLET DANS LES ALENTOURS DE QUINCAILLERIE PANDOO ET EN PARTIE TROU AUX BICHES LANE",
+      "from": "2025-02-07T06:00:00.000Z",
+      "to": "2025-02-07T07:00:00.000Z",
+      "id": "43bf0be731db82e4e717176c05cfc3dd"
+    },
+    {
+      "date": "Le lundi 3 février 2025 de  15:35:00 à  23:00:00",
+      "streets": "TRIOLET..Japonnais,TBS,Beedassy,Market Roads",
+      "from": "2025-02-03T11:35:00.000Z",
+      "to": "2025-02-03T19:00:00.000Z",
+      "id": "9956aa7c2fd3457dfb856a15ca7656ff"
+    },
+    {
+      "date": "Le mercredi 29 janvier 2025 de  12:00:00 à  14:00:00",
+      "streets": "8EME MILE, BON AIR ROAD AND SURROUNDINGS",
+      "from": "2025-01-29T08:00:00.000Z",
+      "to": "2025-01-29T10:00:00.000Z",
+      "id": "34c7d786f8d3ef903a93009e3b2cd683"
+    },
+    {
+      "date": "Le lundi 27 janvier 2025 de  15:05:00 à  17:00:00",
+      "streets": "JSS,NIC,BAI AND NEARBY CUSTOMERS",
+      "from": "2025-01-27T11:05:00.000Z",
+      "to": "2025-01-27T13:00:00.000Z",
+      "id": "5ae873ee4f8a47f183a99b4bb00438eb"
+    },
+    {
+      "date": "Le lundi 27 janvier 2025 de  12:20:00 à  14:00:00",
+      "streets": "CITE GUNGA,UPPER SEENEEVASSEN",
+      "from": "2025-01-27T08:20:00.000Z",
+      "to": "2025-01-27T10:00:00.000Z",
+      "id": "67c3828dee2f6ebf7a87a9653d6b4579"
+    },
+    {
+      "date": "Le lundi 27 janvier 2025 de  10:00:00 à  12:30:00",
+      "streets": "TRIOLET 7TH MILE:SEENEEVASSEN RD,MORC HOSSENBUX",
+      "from": "2025-01-27T06:00:00.000Z",
+      "to": "2025-01-27T08:30:00.000Z",
+      "id": "38f382c7ae2242fce75ac5360171a442"
+    },
+    {
+      "date": "Le dimanche 26 janvier 2025 de  08:30:00 à  16:00:00",
+      "streets": "Princess Anne, Prince de Galles dans les environs de Route Royale Triolet, Simla Way, Cinéma Cassé, une partie de Derningham et Boulangerie Amirale",
+      "from": "2025-01-26T04:30:00.000Z",
+      "to": "2025-01-26T12:00:00.000Z",
+      "id": "b2b8a5124dbac184ec4bd4550f4e3d2a"
+    },
+    {
+      "date": "Le mardi 14 janvier 2025 de  11:20:00 à  12:30:00",
+      "streets": "TRIOLET,P DES PAPAYES,B MANGUES,T A BICHES,MON CHOISY",
+      "from": "2025-01-14T07:20:00.000Z",
+      "to": "2025-01-14T08:30:00.000Z",
+      "id": "ec445b54578727cf3beac3c2f6cd1df0"
+    },
+    {
+      "date": "Le jeudi 9 janvier 2025 de  10:15:00 à  12:00:00",
+      "streets": "CAMP LILAS, SAVE MAX AND SURROUNDINGS",
+      "from": "2025-01-09T06:15:00.000Z",
+      "to": "2025-01-09T08:00:00.000Z",
+      "id": "e4014364d510009e3a9213223d857f54"
+    },
+    {
+      "date": "Le vendredi 6 décembre 2024 de  09:55:00 à  11:00:00",
+      "streets": "BONAIR BRANCH RD DANS LES ALENTOURS DE STATION LA POLICE",
+      "from": "2024-12-06T05:55:00.000Z",
+      "to": "2024-12-06T07:00:00.000Z",
+      "id": "cf967d2c07cd074ceb0e9dc9d1d9b359"
+    },
+    {
+      "date": "Le mercredi 30 octobre 2024 de  20:00:00 à  23:30:00",
+      "streets": "CHEMIN BAZAAR TRIOLET",
+      "from": "2024-10-30T16:00:00.000Z",
+      "to": "2024-10-30T19:30:00.000Z",
+      "id": "e546203b171cf1aa6586ec14492c7a55"
+    },
+    {
+      "date": "Le jeudi 24 octobre 2024 de  08:00:00 à  15:00:00",
+      "streets": "8EME MILLE TRIOLET",
+      "from": "2024-10-24T04:00:00.000Z",
+      "to": "2024-10-24T11:00:00.000Z",
+      "id": "0ae0f79bf5709a67a13d0376f7686b89"
+    },
+    {
+      "date": "Le lundi 14 octobre 2024 de  16:00:00 à  16:30:00",
+      "streets": "Morc St André, Bois Mangues, Plaine Des Papayes, Solitude, Pointe Aux Piments et Triolet",
+      "from": "2024-10-14T12:00:00.000Z",
+      "to": "2024-10-14T12:30:00.000Z",
+      "id": "9b5baa70177149b3f206fc52df5000ae"
+    },
+    {
+      "date": "Le vendredi 11 octobre 2024 de  10:30:00 à  12:00:00",
+      "streets": "8IEME MILLE TRIOLET NR POLCE STATION",
+      "from": "2024-10-11T06:30:00.000Z",
+      "to": "2024-10-11T08:00:00.000Z",
+      "id": "48aede51218cae8e890a48ddf228c758"
+    },
+    {
+      "date": "Le jeudi 10 octobre 2024 de  09:30:00 à  11:00:00",
+      "streets": "CHEMIN SHIVALA TERMINUS TRIOLET",
+      "from": "2024-10-10T05:30:00.000Z",
+      "to": "2024-10-10T07:00:00.000Z",
+      "id": "19514b1dba5ea99967cab204a04553ea"
+    },
+    {
+      "date": "Le mercredi 9 octobre 2024 de  12:00:00 à  13:30:00",
+      "streets": "9TH MILE ROYAL ROAD, SAMAD SILENCERS & SURROUNDINGS",
+      "from": "2024-10-09T08:00:00.000Z",
+      "to": "2024-10-09T09:30:00.000Z",
+      "id": "ca00ee18047b75e39ab8e36077dd37b5"
+    },
+    {
+      "date": "Le dimanche 29 septembre 2024 de  08:30:00 à  15:00:00",
+      "streets": "TRIOLET DANS LES ENVIRONS DE MAHATMA GANDHI RD, CAMP LILAS, JAPANESE RD ET JOHN KENNEDY RD",
+      "from": "2024-09-29T04:30:00.000Z",
+      "to": "2024-09-29T11:00:00.000Z",
+      "id": "5a4d0d26c929aa9140388e85db0f6400"
+    },
+    {
+      "date": "Le samedi 21 septembre 2024 de  08:30:00 à  14:00:00",
+      "streets": "7eme Mille Triolet dans les environs de Boulangerie Amirale et Prince de Galles",
+      "from": "2024-09-21T04:30:00.000Z",
+      "to": "2024-09-21T10:00:00.000Z",
+      "id": "c2cba366c8d74bda91b7d0ed2e48f9ac"
+    },
+    {
+      "date": "Le dimanche 15 septembre 2024 de  08:00:00 à  15:00:00",
+      "streets": "Zone Industriel Bon Air a Triolet",
+      "from": "2024-09-15T04:00:00.000Z",
+      "to": "2024-09-15T11:00:00.000Z",
+      "id": "eee0239efd249e203a6111dbcb29873c"
+    },
+    {
+      "date": "Le mardi 3 septembre 2024 de  14:30:00 à  16:00:00",
+      "streets": "7eme Mile : Prince de Galles,Princess Anne,Derningham,Bin Dawood,Simla Way et les environs",
+      "from": "2024-09-03T10:30:00.000Z",
+      "to": "2024-09-03T12:00:00.000Z",
+      "id": "d006178d79a75d2285885b1897045dca"
+    },
+    {
+      "date": "Le mercredi 21 août 2024 de  08:30:00 à  16:30:00",
+      "streets": "TRIOLET DANS LES ENVIRONS DE GARAGE TBS, MORC BHOGUN ET CHEMIN 20 PIEDS",
+      "from": "2024-08-21T04:30:00.000Z",
+      "to": "2024-08-21T12:30:00.000Z",
+      "id": "9fd0eca69c1d646f8d6144821c01df39"
+    },
+    {
+      "date": "Le samedi 10 août 2024 de  14:15:00 à  16:00:00",
+      "streets": "GUNGA LANE NEAR SIMLA",
+      "from": "2024-08-10T10:15:00.000Z",
+      "to": "2024-08-10T12:00:00.000Z",
+      "id": "ba363c4c809aea4320c0d2924a64851f"
+    },
+    {
+      "date": "Le vendredi 9 août 2024 de  15:15:00 à  16:15:00",
+      "streets": "TROU AUX BICHES RD, NOTRE DAME DE FATIMAH ET DANS LES ALENTOURS DE TERMINUS",
+      "from": "2024-08-09T11:15:00.000Z",
+      "to": "2024-08-09T12:15:00.000Z",
+      "id": "5eccfd8cd776d7bee30e4451ed67d23e"
+    },
+    {
+      "date": "Le jeudi 1 août 2024 de  21:00:00 à  00:30:00",
+      "streets": "TROU AUX BICHES ROAD TRIOLET",
+      "from": "2024-08-01T17:00:00.000Z",
+      "to": "2024-07-31T20:30:00.000Z",
+      "id": "0494cc2162ceaff414a4abc9b4799014"
+    },
+    {
+      "date": "Le samedi 27 juillet 2024 de  08:00:00 à  15:30:00",
+      "streets": "8TH MILE, GOVT SCHOOL SEWRAZ AND SURROUNDINGS",
+      "from": "2024-07-27T04:00:00.000Z",
+      "to": "2024-07-27T11:30:00.000Z",
+      "id": "07a9129d668e070429e2925900e2b3bc"
+    },
+    {
+      "date": "Le jeudi 20 juin 2024 de  09:00:00 à  16:00:00",
+      "streets": "8eme Mille Triolet dans les environs de Triolet Post Office, Triolet Police Station, MHC, MCB Triolet, New Market Rd, TBS Rd et TELECOM",
+      "from": "2024-06-20T05:00:00.000Z",
+      "to": "2024-06-20T12:00:00.000Z",
+      "id": "ff8d3d91f5c1c1e24521418aed4bf705"
+    },
+    {
+      "date": "Le mercredi 12 juin 2024 de  10:00:00 à  14:00:00",
+      "streets": "QUEEN ELIZABETH STREET 7TH MILE TRIOLET",
+      "from": "2024-06-12T06:00:00.000Z",
+      "to": "2024-06-12T10:00:00.000Z",
+      "id": "b1a00c9d8dc9121cf13f78158bc685f5"
+    },
+    {
+      "date": "Le mardi 21 mai 2024 de  08:30:00 à  18:30:00",
+      "streets": "SIMLA WAY, PRINCESSE ANNE, PRINCESSE MARGARETTE, SEENEEVASSEN, DERMINGHAM & EX- VALUE MAX",
+      "from": "2024-05-21T04:30:00.000Z",
+      "to": "2024-05-21T14:30:00.000Z",
+      "id": "abb192d5aa5a3ecd784315f0754b619a"
+    },
+    {
+      "date": "Le mardi 21 mai 2024 de  03:00:00 à  13:00:00",
+      "streets": "ROYAL RD 8EME MILLE TRIOLET",
+      "from": "2024-05-20T23:00:00.000Z",
+      "to": "2024-05-20T09:00:00.000Z",
+      "id": "7ca64b8108b9513d5608d776e037442d"
+    },
+    {
+      "date": "Le lundi 6 mai 2024 de  15:30:00 à  17:30:00",
+      "streets": "DANS LES ENVIRONS VIKASH BUILDING TRIOLET.",
+      "from": "2024-05-06T11:30:00.000Z",
+      "to": "2024-05-06T13:30:00.000Z",
+      "id": "911b42e9ac5bb3cdd72997e5213b2a15"
+    },
+    {
+      "date": "Le dimanche 24 mars 2024 de  09:53:00 à  12:30:00",
+      "streets": "MAHATMA GANDHI RD",
+      "from": "2024-03-24T05:53:00.000Z",
+      "to": "2024-03-24T08:30:00.000Z",
+      "id": "25f9d7cccf67ad67205bc397b9972f07"
+    },
+    {
+      "date": "Le dimanche 10 mars 2024 de  08:30:00 à  16:00:00",
+      "streets": "Shivala Road,La Gare TBS, Station de Pompier et dans les environs de Morc Bhogun No1 et No2, NHDC Fleury Sur Mer, Morc Kangalee, Morc Savrimootoo, Residence le Golf, Morc Trou aux Biches No1 et No2, Hotel Le Palmiste, Complex The Barns, Florent Suc",
+      "from": "2024-03-10T04:30:00.000Z",
+      "to": "2024-03-10T12:00:00.000Z",
+      "id": "5ecd3da2a8b9abe9f9e932cdd145b422"
+    },
+    {
+      "date": "Le vendredi 8 mars 2024 de  16:45:00 à  18:45:00",
+      "streets": "GEETANJALI RD, SEWRAAZ ROAD ET TRIO ROAD.",
+      "from": "2024-03-08T12:45:00.000Z",
+      "to": "2024-03-08T14:45:00.000Z",
+      "id": "3b344f8012f22f89ad21d1f11416aeed"
+    },
+    {
+      "date": "Le vendredi 23 février 2024 de  10:00:00 à  12:30:00",
+      "streets": "ROYAL ROAD TRIOLET NEAR TELECOM, SBM, 361",
+      "from": "2024-02-23T06:00:00.000Z",
+      "to": "2024-02-23T08:30:00.000Z",
+      "id": "8594a3daa9a149ad455f1e2fa02bd783"
+    },
+    {
+      "date": "Le samedi 3 février 2024 de  09:05:00 à  12:00:00",
+      "streets": "MAHESHWAR NAGRI RD, GEETANJALI RD ET LES RUELLES AVOISINANTES",
+      "from": "2024-02-03T05:05:00.000Z",
+      "to": "2024-02-03T08:00:00.000Z",
+      "id": "6449e9376feecf36e4eaf1b2370a1639"
+    },
+    {
+      "date": "Le mardi 30 janvier 2024 de  10:30:00 à  13:00:00",
+      "streets": "TAGORE RD TRIOLET",
+      "from": "2024-01-30T06:30:00.000Z",
+      "to": "2024-01-30T09:00:00.000Z",
+      "id": "687e59cf606d7cac71a4dd484f6f96bf"
+    },
+    {
+      "date": "Le dimanche 21 janvier 2024 de  08:00:00 à  15:00:00",
+      "streets": "Region Solitude et Une Partie de Triolet",
+      "from": "2024-01-21T04:00:00.000Z",
+      "to": "2024-01-21T11:00:00.000Z",
+      "id": "c3642d20ae503d765c7bf3b8df47b744"
+    },
+    {
+      "date": "Le vendredi 22 décembre 2023 de  11:00:00 à  13:00:00",
+      "streets": "Terminus,Cremation,Shivala Road",
+      "from": "2023-12-22T07:00:00.000Z",
+      "to": "2023-12-22T09:00:00.000Z",
+      "id": "200aef4e1bc726a471cc000ab78de55e"
+    },
+    {
+      "date": "Le dimanche 3 décembre 2023 de  19:00:00 à  20:30:00",
+      "streets": "7EME MILE TRIOLET",
+      "from": "2023-12-03T15:00:00.000Z",
+      "to": "2023-12-03T16:30:00.000Z",
+      "id": "650048c27aeb93446861482a523b956c"
+    },
+    {
+      "date": "Le mercredi 22 novembre 2023 de  08:30:00 à  15:30:00",
+      "streets": "Tagore Road Triolet, Part Of Royal Road Triolet Around Hassen Taher",
+      "from": "2023-11-22T04:30:00.000Z",
+      "to": "2023-11-22T11:30:00.000Z",
+      "id": "8a17342768cf4982ed821fcb5d374efc"
+    },
+    {
+      "date": "Le mardi 21 novembre 2023 de  13:30:00 à  18:00:00",
+      "streets": "CREMATION RD TRIOLET",
+      "from": "2023-11-21T09:30:00.000Z",
+      "to": "2023-11-21T14:00:00.000Z",
+      "id": "73f717544908315c82b09220bb9e278a"
+    },
+    {
+      "date": "Le lundi 20 novembre 2023 de  05:30:00 à  11:00:00",
+      "streets": "SEENEEVASSEN ROAD,CINEMA CASSE,DERNINGHAM,JAGRITI,INDIRA GHANDI,SUNGARALINGUM, PRINCE OF WALES ST, PRINCES DES GALLES ST,7EME MILE TRIOLET",
+      "from": "2023-11-20T01:30:00.000Z",
+      "to": "2023-11-20T07:00:00.000Z",
+      "id": "be97f91345baded0cbe9a397380ca7c0"
+    },
+    {
+      "date": "Le vendredi 17 novembre 2023 de  13:00:00 à  14:00:00",
+      "streets": "9IEME MILLE TRIOLET-SEWRAZ RD",
+      "from": "2023-11-17T09:00:00.000Z",
+      "to": "2023-11-17T10:00:00.000Z",
+      "id": "1a5afd3fa5203b01eb342fc8fa1b471a"
+    },
+    {
+      "date": "Le jeudi 9 novembre 2023 de  07:45:00 à  11:00:00",
+      "streets": "CHEMIN 20 PIEDS TRIOLET NR TBS",
+      "from": "2023-11-09T03:45:00.000Z",
+      "to": "2023-11-09T07:00:00.000Z",
+      "id": "50e822efeedc1bfef0e0fa4395cf01a7"
+    },
+    {
+      "date": "Le mardi 31 octobre 2023 de  21:45:00 à  23:00:00",
+      "streets": "TRIOLET, SOTTISE, TROU AUX BICHES, BOIS CHANDELLE, MON CHOISY ET SOLITUDE.",
+      "from": "2023-10-31T17:45:00.000Z",
+      "to": "2023-10-31T19:00:00.000Z",
+      "id": "0986e0a76451da6d99fd35d40965b0b2"
+    },
+    {
+      "date": "Le mercredi 18 octobre 2023 de  08:00:00 à  16:00:00",
+      "streets": "Tagore Rd, dans les environs de Harry Grill et Krispy",
+      "from": "2023-10-18T04:00:00.000Z",
+      "to": "2023-10-18T12:00:00.000Z",
+      "id": "e04b8628e8e14d2750387dba3f12a092"
+    },
+    {
+      "date": "Le mardi 3 octobre 2023 de  19:00:00 à  21:30:00",
+      "streets": "TRIOLET 8EME MILE, JAPANESE ROAD ET LES ALENTOURS",
+      "from": "2023-10-03T15:00:00.000Z",
+      "to": "2023-10-03T17:30:00.000Z",
+      "id": "763a73c722f87dcd58dad657585976b2"
+    },
+    {
+      "date": "Le mardi 3 octobre 2023 de  15:00:00 à  17:00:00",
+      "streets": "DANS LES ENVIRONS CINEMA ANAND, TELECOM SHOP, COURTS MAMMOUTH,TRIOLET MEDI-CLINIC, BAZAAR TRIOLET,DISPENSARY RD,STATE BANK RD,MAHESHWAR NAGRI RD,TAGORE RD,CAMP LILAS,WINNERS TRIOLET",
+      "from": "2023-10-03T11:00:00.000Z",
+      "to": "2023-10-03T13:00:00.000Z",
+      "id": "9c18d2c16fb581fc5479e86789accba8"
+    },
+    {
+      "date": "Le mardi 19 septembre 2023 de  15:00:00 à  15:45:00",
+      "streets": "P DES PAPAYES,BOIS MANGUES,TRIOLET 8EME MILE,9EME MILE,P AUX PIMENTS",
+      "from": "2023-09-19T11:00:00.000Z",
+      "to": "2023-09-19T11:45:00.000Z",
+      "id": "a6327ca1efdacb154f3b990ff37a13b1"
+    },
+    {
+      "date": "Le jeudi 7 septembre 2023 de  16:00:00 à  17:30:00",
+      "streets": "VIKASH BUILDING 7EME MILLE TRIOLET",
+      "from": "2023-09-07T12:00:00.000Z",
+      "to": "2023-09-07T13:30:00.000Z",
+      "id": "ecf674973e006cd5609a937b896cc26c"
+    },
+    {
+      "date": "Le mardi 18 juillet 2023 de  14:30:00 à  16:00:00",
+      "streets": "CUMCUMA LANE -TERMINUS TRIOLET",
+      "from": "2023-07-18T10:30:00.000Z",
+      "to": "2023-07-18T12:00:00.000Z",
+      "id": "e59137b79c7d561feb5fe5a21bac72f8"
+    },
+    {
+      "date": "Le dimanche 18 juin 2023 de  09:00:00 à  13:00:00",
+      "streets": "7EME MILE TRIOLET JAGRITI ROAD",
+      "from": "2023-06-18T05:00:00.000Z",
+      "to": "2023-06-18T09:00:00.000Z",
+      "id": "95c64b351936799b175b93aa3a2bb16d"
+    },
+    {
+      "date": "Le vendredi 2 juin 2023 de  12:15:00 à  14:15:00",
+      "streets": "CHEMIN JOHN KENNEDY ET UNE PARIE DE GANDHI ROAD (CHANGING OF POLES)",
+      "from": "2023-06-02T08:15:00.000Z",
+      "to": "2023-06-02T10:15:00.000Z",
+      "id": "412f617ba63d3eb704b23877476e71bc"
+    },
+    {
+      "date": "Le vendredi 21 avril 2023 de  11:00:00 à  13:30:00",
+      "streets": "SEENEEVASSEN ROAD ET LES RUELLES AVOISINANTES A TRIOLET.",
+      "from": "2023-04-21T07:00:00.000Z",
+      "to": "2023-04-21T09:30:00.000Z",
+      "id": "a2cc2b23d09a80d6f6533d4d49baa9a7"
+    },
+    {
+      "date": "Le jeudi 20 avril 2023 de  14:45:00 à  16:15:00",
+      "streets": "PRINCESS MARGARET TRIOLET",
+      "from": "2023-04-20T10:45:00.000Z",
+      "to": "2023-04-20T12:15:00.000Z",
+      "id": "5952bba9271b5772928736f65a6b4772"
+    },
+    {
+      "date": "Le samedi 18 février 2023 de  13:00:00 à  17:00:00",
+      "streets": "7eme MILE, CINEMA CASSE, DERNINGHAM, PRINCESS ANNE, PRINCE DE GALLES",
+      "from": "2023-02-18T09:00:00.000Z",
+      "to": "2023-02-18T13:00:00.000Z",
+      "id": "7ca1d307679231074803850a35e32ee2"
+    },
+    {
+      "date": "Le mardi 24 janvier 2023 de  09:00:00 à  10:30:00",
+      "streets": "Les Abonnes habitant Morc Bois chandelle,Morcellement Bhogan et Chemin vingt Pied a Triolet",
+      "from": "2023-01-24T05:00:00.000Z",
+      "to": "2023-01-24T06:30:00.000Z",
+      "id": "519a7b167a241711fb31b7f543b2c70c"
+    },
+    {
+      "date": "Le lundi 23 janvier 2023 de  10:00:00 à  11:00:00",
+      "streets": "les abonnee habitant Bon air Road,Morc.Hurrungee,Middle Road Plaine Des Papayes,Irrigation Road Plaine des Papayes, NHDC Plaine Des Papayes et Morc.Ramphul Plaines Des Papayes",
+      "from": "2023-01-23T06:00:00.000Z",
+      "to": "2023-01-23T07:00:00.000Z",
+      "id": "a06eb19059256fc33650d88faeb8fadc"
+    },
+    {
+      "date": "Le lundi 26 décembre 2022 de  08:30:00 à  12:00:00",
+      "streets": "8EME MILE TRIOLETPART OF ROYAL ROAD TRIOLETJAPANEESE RD TRIOLETTBS LANE TRIOLETONE WAY ROAD TRIOLET",
+      "from": "2022-12-26T04:30:00.000Z",
+      "to": "2022-12-26T08:00:00.000Z",
+      "id": "8ee95ecac3ed4def2083ae8be7e5e462"
+    },
+    {
+      "date": "Le mercredi 14 décembre 2022 de  09:30:00 à  12:00:00",
+      "streets": "DISPENSARY ROAD TRIOLET",
+      "from": "2022-12-14T05:30:00.000Z",
+      "to": "2022-12-14T08:00:00.000Z",
+      "id": "69d9ae01cba6d3078271890f40e3bb7e"
+    },
+    {
+      "date": "Le jeudi 8 décembre 2022 de  07:30:00 à  11:30:00",
+      "streets": "Les Abonnes habitant Anand Square, TBS Lane, market road, GDM Road et dan les environs de SBM.",
+      "from": "2022-12-08T03:30:00.000Z",
+      "to": "2022-12-08T07:30:00.000Z",
+      "id": "0483313f41b44741d525764dc7948aab"
+    },
+    {
+      "date": "Le mardi 15 novembre 2022 de  08:30:00 à  15:30:00",
+      "streets": "Les Abonnee habitant Cinema Cassee, Prince Des Galles, Princess Anne, Seeneevassen Road et 8eme Miles a Triolet",
+      "from": "2022-11-15T04:30:00.000Z",
+      "to": "2022-11-15T11:30:00.000Z",
+      "id": "2d4fe9db224175a358aed095f818ed44"
+    },
+    {
+      "date": "Le mercredi 9 novembre 2022 de  16:00:00 à  18:00:00",
+      "streets": "9IEME MILLE TRIOLET",
+      "from": "2022-11-09T12:00:00.000Z",
+      "to": "2022-11-09T14:00:00.000Z",
+      "id": "1d5e1f1d19e4d44c7658d7ae6eddd30a"
+    },
+    {
+      "date": "Le vendredi 8 avril 2022 de  16:00:00 à  17:30:00",
+      "streets": "Morc Bhogun Triolet",
+      "from": "2022-04-08T12:00:00.000Z",
+      "to": "2022-04-08T13:30:00.000Z",
+      "id": "fe9d37f47699434623c7ea855e2ec145"
+    }
+  ]
+}

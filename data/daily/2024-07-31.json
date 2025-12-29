@@ -1,0 +1,28 @@
+{
+  "date": "2024-07-31",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.820Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mercredi 31 juillet 2024 de  09:00:00 à  12:00:00",
+      "locality": "RICHEMARE",
+      "localitySlug": "richemare",
+      "streets": "Richemare et Argy dans le environs de Cemetery rd, La boutique Coco, et Morc. Le vieux Moulin",
+      "district": "flacq",
+      "from": "2024-07-31T05:00:00.000Z",
+      "to": "2024-07-31T08:00:00.000Z",
+      "id": "c09b727d2826467caf16d2b704cd39be"
+    },
+    {
+      "date": "Le mercredi 31 juillet 2024 de  09:30:00 à  14:00:00",
+      "locality": "BELLE VUE MAUREL",
+      "localitySlug": "belle-vue-maurel",
+      "streets": "DAFFODIL STREET -LATANIER RD BELLE VUE MAUREL",
+      "district": "rivieredurempart",
+      "from": "2024-07-31T05:30:00.000Z",
+      "to": "2024-07-31T10:00:00.000Z",
+      "id": "47d2694f1436e54f832a325ece88b540"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "date": "2023-02-12",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.782Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le dimanche 12 février 2023 de  08:15:00 à  17:00:00",
+      "locality": "CAROLINE BEL AIR",
+      "localitySlug": "caroline-bel-air",
+      "streets": "Les abonnés habitant à Caroline, Petit Bois, Damree Lane Bel Air Riviere Seche et Saver’s Supermarché",
+      "district": "flacq",
+      "from": "2023-02-12T04:15:00.000Z",
+      "to": "2023-02-12T13:00:00.000Z",
+      "id": "c76da8510fc66ed93743e62cbb3f8ce0"
+    },
+    {
+      "date": "Le dimanche 12 février 2023 de  09:30:00 à  14:00:00",
+      "locality": "VILLENOIRE",
+      "localitySlug": "villenoire",
+      "streets": "Morcellement VRS Ville Noire",
+      "district": "grandport",
+      "from": "2023-02-12T05:30:00.000Z",
+      "to": "2023-02-12T10:00:00.000Z",
+      "id": "3b92f4124efeca578f29a9bcca5dd4c9"
+    },
+    {
+      "date": "Le dimanche 12 février 2023 de  08:30:00 à  15:30:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "LES ABONNES HABITANT ROUTE DES PAMPLEMOUSSES DANS LES ENVIRONS DE MEDIA, RESIDENCE NHDC(MEDIA) ET UNE PARTIE DE LA RUE PAUL TAUREAU",
+      "district": "portlouis",
+      "from": "2023-02-12T04:30:00.000Z",
+      "to": "2023-02-12T11:30:00.000Z",
+      "id": "a9d06187f46eb8919ee5f626f0f9dc09"
+    }
+  ]
+}

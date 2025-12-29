@@ -1,0 +1,38 @@
+{
+  "date": "2022-07-11",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.767Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le lundi 11 juillet 2022 de  09:30:00 à  13:00:00",
+      "locality": "CAMP THOREL",
+      "localitySlug": "camp-thorel",
+      "streets": "ROYAL ROAD CAMP THOTEL",
+      "district": "moka",
+      "from": "2022-07-11T05:30:00.000Z",
+      "to": "2022-07-11T09:00:00.000Z",
+      "id": "652c41406690c3c2eb8929da1d11d081"
+    },
+    {
+      "date": "Le lundi 11 juillet 2022 de  12:00:00 à  14:00:00",
+      "locality": "DAGOTIERE",
+      "localitySlug": "dagotiere",
+      "streets": "VILLAGE BONNE VEINE/DAGOTIERE",
+      "district": "moka",
+      "from": "2022-07-11T08:00:00.000Z",
+      "to": "2022-07-11T10:00:00.000Z",
+      "id": "e5311538b808284e8b8b9c650103c572"
+    },
+    {
+      "date": "Le lundi 11 juillet 2022 de  09:00:00 à  15:30:00",
+      "locality": "PAVILLON",
+      "localitySlug": "pavillon",
+      "streets": "dans les environs de Hawaii Villa et Tevnor",
+      "district": "plainewilhems",
+      "from": "2022-07-11T05:00:00.000Z",
+      "to": "2022-07-11T11:30:00.000Z",
+      "id": "28e80dcb8343c5fa1383f4fb4f1c7ceb"
+    }
+  ]
+}

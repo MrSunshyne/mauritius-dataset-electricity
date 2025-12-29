@@ -1,0 +1,53 @@
+{
+  "slug": "bambous-virieux",
+  "name": "BAMBOUS VIRIEUX",
+  "district": "grandport",
+  "generated": "2025-12-29T20:14:25.886Z",
+  "outageCount": 6,
+  "firstOutage": "2023-04-07",
+  "lastOutage": "2025-11-26",
+  "outages": [
+    {
+      "date": "Le mercredi 26 novembre 2025 de  09:30:00 à  12:30:00",
+      "streets": "RISHI DAYANAND RD ET LES ALENTOURS, ROYAL ROAD ET DANS LES ALENTOURS DU VILLAGE HALL",
+      "from": "2025-11-26T05:30:00.000Z",
+      "to": "2025-11-26T08:30:00.000Z",
+      "id": "66ad1a320eed91029cfbb38885a47a58"
+    },
+    {
+      "date": "Le vendredi 18 octobre 2024 de  09:30:00 à  16:00:00",
+      "streets": "Bambous Virieux (en partie)",
+      "from": "2024-10-18T05:30:00.000Z",
+      "to": "2024-10-18T12:00:00.000Z",
+      "id": "53198469ac909d88b6803672442257b8"
+    },
+    {
+      "date": "Le mardi 14 mai 2024 de  14:50:00 à  16:20:00",
+      "streets": "EN PARTIE BAMBOUS VIRIEUX, GRAND SABLE, PETIT SABLE, POINTE AUX FEUILLES, QUATRE SOEURS ET DEUX FRERES.",
+      "from": "2024-05-14T10:50:00.000Z",
+      "to": "2024-05-14T12:20:00.000Z",
+      "id": "573557f54dcf48773fef1fd2ac5b3289"
+    },
+    {
+      "date": "Le vendredi 26 janvier 2024 de  09:30:00 à  15:00:00",
+      "streets": "Bambous Virieux, Bois Des Amourettes, Providence, Ferney et une partie de Vieux Grand Port",
+      "from": "2024-01-26T05:30:00.000Z",
+      "to": "2024-01-26T11:00:00.000Z",
+      "id": "f8ded2e1415a3ebc78de4e83923a43cd"
+    },
+    {
+      "date": "Le vendredi 15 décembre 2023 de  10:00:00 à  15:00:00",
+      "streets": "ROYAL ROAD BAMBOUS VIREIUX, NEAR BARACHOIS",
+      "from": "2023-12-15T06:00:00.000Z",
+      "to": "2023-12-15T11:00:00.000Z",
+      "id": "73f8802b715c92d2d5f159b5e99291ef"
+    },
+    {
+      "date": "Le vendredi 7 avril 2023 de  11:00:00 à  13:00:00",
+      "streets": "BAMBOUSVIRIEUX,QUATRE SOEUR,VIEUX GRAND PORT LE REGIONS COTIERS",
+      "from": "2023-04-07T07:00:00.000Z",
+      "to": "2023-04-07T09:00:00.000Z",
+      "id": "0c914ffffc2c4d8542ae6756ef3e68a2"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2025-07-15",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.843Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mardi 15 juillet 2025 de  12:30:00 à  13:30:00",
+      "locality": "CAROLINE BEL AIR",
+      "localitySlug": "caroline-bel-air",
+      "streets": "MAMET RD-ROYAL RD CAROLINE",
+      "district": "flacq",
+      "from": "2025-07-15T08:30:00.000Z",
+      "to": "2025-07-15T09:30:00.000Z",
+      "id": "bf2195abf2d7b40f9514ec82f22cdc81"
+    },
+    {
+      "date": "Le mardi 15 juillet 2025 de  03:00:00 à  12:00:00",
+      "locality": "BALISSON",
+      "localitySlug": "balisson",
+      "streets": "SHIVALA ROAD ET LES ALENTOURS",
+      "district": "grandport",
+      "from": "2025-07-14T23:00:00.000Z",
+      "to": "2025-07-14T08:00:00.000Z",
+      "id": "6ae69aa510f44d0d526950f41109931f"
+    },
+    {
+      "date": "Le mardi 15 juillet 2025 de  08:30:00 à  15:30:00",
+      "locality": "NOTRE DAME",
+      "localitySlug": "notre-dame",
+      "streets": "WHOLE AREA OF NOTRE DAME",
+      "district": "pamplemousses",
+      "from": "2025-07-15T04:30:00.000Z",
+      "to": "2025-07-15T11:30:00.000Z",
+      "id": "5d1a5e906b28d18e6d5062cad59dc709"
+    },
+    {
+      "date": "Le mardi 15 juillet 2025 de  09:30:00 à  13:00:00",
+      "locality": "SODNAC",
+      "localitySlug": "sodnac",
+      "streets": "AVE ROSSIGNOL ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2025-07-15T05:30:00.000Z",
+      "to": "2025-07-15T09:00:00.000Z",
+      "id": "eae4372a5942dedbd160b21d97223273"
+    },
+    {
+      "date": "Le mardi 15 juillet 2025 de  14:15:00 à  16:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "PETIT VILLAGE GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2025-07-15T10:15:00.000Z",
+      "to": "2025-07-15T12:00:00.000Z",
+      "id": "9a75b064d8e7c9e3ec18234ce61f1c17"
+    }
+  ]
+}

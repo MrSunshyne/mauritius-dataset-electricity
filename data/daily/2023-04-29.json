@@ -1,0 +1,68 @@
+{
+  "date": "2023-04-29",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.787Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le samedi 29 avril 2023 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC DE CHAZAL- AVE DES PERROQUETS, AVE CARRIERE, AVE CATEAUX VERT, AVE DES TOUCANS, AVE DES TOURTEREAUX, AVE DES BENGALIS, AVE DES OIES, AVE DES MANGUIERS ET AVE DES MOUETTES",
+      "district": "blackriver",
+      "from": "2023-04-29T04:30:00.000Z",
+      "to": "2023-04-29T11:30:00.000Z",
+      "id": "b7cd2353bcbf3641e0d6e322ebba6d40"
+    },
+    {
+      "date": "Le samedi 29 avril 2023 de  08:30:00 à  16:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "Splendid View, Ave Curly Willow, Ave Begonia, Ave Sunflower et les environs",
+      "district": "blackriver",
+      "from": "2023-04-29T04:30:00.000Z",
+      "to": "2023-04-29T12:00:00.000Z",
+      "id": "5b3d33600ecfa258d4df16c825edad67"
+    },
+    {
+      "date": "Le samedi 29 avril 2023 de  09:30:00 à  12:00:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "MADAM LOLO ROSE BELLE",
+      "district": "grandport",
+      "from": "2023-04-29T05:30:00.000Z",
+      "to": "2023-04-29T08:00:00.000Z",
+      "id": "549b0a291a76267b6c8bcfd615dc168a"
+    },
+    {
+      "date": "Le samedi 29 avril 2023 de  08:30:00 à  13:00:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "Morc Mascareigne Phase 1, Villa Corail, Coastal Road Trou Aux Biches et quartier avoisinant.",
+      "district": "pamplemousses",
+      "from": "2023-04-29T04:30:00.000Z",
+      "to": "2023-04-29T09:00:00.000Z",
+      "id": "0e0cbc81560ee14c1b071b6e040c25d7"
+    },
+    {
+      "date": "Le samedi 29 avril 2023 de  08:30:00 à  15:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Wilson Avenue",
+      "district": "plainewilhems",
+      "from": "2023-04-29T04:30:00.000Z",
+      "to": "2023-04-29T11:30:00.000Z",
+      "id": "d0f763486f06adf8491c6eb41a5ac0de"
+    },
+    {
+      "date": "Le samedi 29 avril 2023 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "MONTAGNE GOYAVE,JEAN TAC BALADIROU,",
+      "district": "rodrigues",
+      "from": "2023-04-29T04:30:00.000Z",
+      "to": "2023-04-29T11:00:00.000Z",
+      "id": "ebb1c611b9168f00384f156b91f01c31"
+    }
+  ]
+}

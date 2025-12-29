@@ -1,0 +1,48 @@
+{
+  "date": "2024-12-07",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.831Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le samedi 7 décembre 2024 de  07:00:00 à  10:00:00",
+      "locality": "PAVILLON",
+      "localitySlug": "pavillon",
+      "streets": "ROYAL ROAD PAVILLON MORC HAREL CAP MALHEUREUX",
+      "district": "plainewilhems",
+      "from": "2024-12-07T03:00:00.000Z",
+      "to": "2024-12-07T06:00:00.000Z",
+      "id": "8569b81511a7a8ba32ef7e864cdd550e"
+    },
+    {
+      "date": "Le samedi 7 décembre 2024 de  08:30:00 à  14:30:00",
+      "locality": "TERRASSON",
+      "localitySlug": "terrasson",
+      "streets": "DANS LES ENVIRONS DE LA ROUTE COTIERE ET DE LA ZONE INDUSTRIEL DE  DBM",
+      "district": "portlouis",
+      "from": "2024-12-07T04:30:00.000Z",
+      "to": "2024-12-07T10:30:00.000Z",
+      "id": "9ffbc62d86bf35de8ffeac9c2dc980bf"
+    },
+    {
+      "date": "Le samedi 7 décembre 2024 de  08:30:00 à  13:00:00",
+      "locality": "ROCHES NOIRES",
+      "localitySlug": "roches-noires",
+      "streets": "HAUTE RIVE, ROCHES NOIRES ET POSTE LAFAYETTE",
+      "district": "rivieredurempart",
+      "from": "2024-12-07T04:30:00.000Z",
+      "to": "2024-12-07T09:00:00.000Z",
+      "id": "08d3b9559ec2a681bac9a00c59f1bb0f"
+    },
+    {
+      "date": "Le samedi 7 décembre 2024 de  05:00:00 à  10:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "BEACH LANE PEREBERE",
+      "district": "rivieredurempart",
+      "from": "2024-12-07T01:00:00.000Z",
+      "to": "2024-12-07T06:00:00.000Z",
+      "id": "70b3164b9b7599a7d0007e08a4df6489"
+    }
+  ]
+}

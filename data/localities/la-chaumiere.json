@@ -1,0 +1,60 @@
+{
+  "slug": "la-chaumiere",
+  "name": "LA CHAUMIERE",
+  "district": "plainewilhems",
+  "generated": "2025-12-29T20:14:26.041Z",
+  "outageCount": 7,
+  "firstOutage": "2022-09-26",
+  "lastOutage": "2025-12-22",
+  "outages": [
+    {
+      "date": "Le lundi 22 décembre 2025 de  10:00:00 à  13:00:00",
+      "streets": "LA CHAUMIERE LA FERME",
+      "from": "2025-12-22T06:00:00.000Z",
+      "to": "2025-12-22T09:00:00.000Z",
+      "id": "4f1e718d1a03fc82597b044076ffb647"
+    },
+    {
+      "date": "Le jeudi 21 août 2025 de  10:00:00 à  15:00:00",
+      "streets": "LA CHAUMIERE",
+      "from": "2025-08-21T06:00:00.000Z",
+      "to": "2025-08-21T11:00:00.000Z",
+      "id": "c7e92f2b03f2baea35f3d364ccd0ece5"
+    },
+    {
+      "date": "Le samedi 8 février 2025 de  08:00:00 à  14:00:00",
+      "streets": "BEM, Recycling waste, Master Breader et Soreefarm",
+      "from": "2025-02-08T04:00:00.000Z",
+      "to": "2025-02-08T10:00:00.000Z",
+      "id": "1eca32dbfc3300f3026ab2fe8903220a"
+    },
+    {
+      "date": "Le mardi 29 octobre 2024 de  09:00:00 à  14:00:00",
+      "streets": "LA CAUMIERE-LA FERME",
+      "from": "2024-10-29T05:00:00.000Z",
+      "to": "2024-10-29T10:00:00.000Z",
+      "id": "4f66825e0bdef51bfeeb8c36f774c47b"
+    },
+    {
+      "date": "Le mercredi 18 septembre 2024 de  10:45:00 à  13:30:00",
+      "streets": "ST MARTIN/LA CHAUMIERE",
+      "from": "2024-09-18T06:45:00.000Z",
+      "to": "2024-09-18T09:30:00.000Z",
+      "id": "ace668701e3af6bba34f2d820d7ae89a"
+    },
+    {
+      "date": "Le mercredi 14 février 2024 de  14:30:00 à  17:30:00",
+      "streets": "LA SOURCE, LA CHAUMIERE, LA FERME, CWA, SORIFARM, RME WASTE",
+      "from": "2024-02-14T10:30:00.000Z",
+      "to": "2024-02-14T13:30:00.000Z",
+      "id": "b5f5cb66908f7dbc136c6ade7ccc1f43"
+    },
+    {
+      "date": "Le lundi 26 septembre 2022 de  14:00:00 à  18:00:00",
+      "streets": "LA CHAUMIERE",
+      "from": "2022-09-26T10:00:00.000Z",
+      "to": "2022-09-26T14:00:00.000Z",
+      "id": "a3faf6be194a5b43c522d53afc1575d1"
+    }
+  ]
+}

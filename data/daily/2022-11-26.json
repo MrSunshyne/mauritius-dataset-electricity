@@ -1,0 +1,58 @@
+{
+  "date": "2022-11-26",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.776Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le samedi 26 novembre 2022 de  08:30:00 à  14:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "MORC EAU BONNE",
+      "district": "blackriver",
+      "from": "2022-11-26T04:30:00.000Z",
+      "to": "2022-11-26T10:30:00.000Z",
+      "id": "7c85462387e912feaeb35dcc883af800"
+    },
+    {
+      "date": "Le samedi 26 novembre 2022 de  08:30:00 à  13:00:00",
+      "locality": "BON  ACCEUIL",
+      "localitySlug": "bon-acceuil",
+      "streets": "LATAPIE RD BON ACCUEIL",
+      "district": "flacq",
+      "from": "2022-11-26T04:30:00.000Z",
+      "to": "2022-11-26T09:00:00.000Z",
+      "id": "0530c104118e3a66b60b15496be2e541"
+    },
+    {
+      "date": "Le samedi 26 novembre 2022 de  09:00:00 à  15:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "LADY TWINING BEAU BASSIN",
+      "district": "plainewilhems",
+      "from": "2022-11-26T05:00:00.000Z",
+      "to": "2022-11-26T11:00:00.000Z",
+      "id": "3f793357d2a895dcbd41062c7e298037"
+    },
+    {
+      "date": "Le samedi 26 novembre 2022 de  08:30:00 à  15:30:00",
+      "locality": "MLLE LAURE",
+      "localitySlug": "mlle-laure",
+      "streets": "Les abonnés habitant des Mamzel Laure, Shaffa Trading, Garage Ravin et Bhorut Lane et Route Royal Mamzel Laure",
+      "district": "portlouis",
+      "from": "2022-11-26T04:30:00.000Z",
+      "to": "2022-11-26T11:30:00.000Z",
+      "id": "40294c1750f7d9fe07fe9af846f11b2b"
+    },
+    {
+      "date": "Le samedi 26 novembre 2022 de  08:30:00 à  15:30:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "MONTAGNE CROUPIER",
+      "district": "rodrigues",
+      "from": "2022-11-26T04:30:00.000Z",
+      "to": "2022-11-26T11:30:00.000Z",
+      "id": "cf3912f646c59f3eb0174ab9db11f6f1"
+    }
+  ]
+}

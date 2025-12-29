@@ -1,0 +1,28 @@
+{
+  "date": "2023-07-31",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.793Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le lundi 31 juillet 2023 de  15:00:00 à  17:00:00",
+      "locality": "CANOT",
+      "localitySlug": "canot",
+      "streets": "DANS LES ENVIRONS DE CANOT ET CHEMIN ALBION BRANCH ROAD VERS ALBION.",
+      "district": "blackriver",
+      "from": "2023-07-31T11:00:00.000Z",
+      "to": "2023-07-31T13:00:00.000Z",
+      "id": "04a47966616999aeb82d897339d5a89c"
+    },
+    {
+      "date": "Le lundi 31 juillet 2023 de  09:00:00 à  17:45:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "dans les perimetres de la Route Royale, leglise, chemin boulangerie, chemin barran, supermarche jowahir, winners et Camp la Serpe",
+      "district": "flacq",
+      "from": "2023-07-31T05:00:00.000Z",
+      "to": "2023-07-31T13:45:00.000Z",
+      "id": "b38dc3ee766b8cd6ec9de9e17a653a42"
+    }
+  ]
+}

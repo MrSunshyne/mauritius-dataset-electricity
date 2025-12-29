@@ -1,0 +1,78 @@
+{
+  "date": "2023-01-21",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.780Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le samedi 21 janvier 2023 de  12:00:00 à  13:00:00",
+      "locality": "FUEL VILLAGE",
+      "localitySlug": "fuel-village",
+      "streets": "HAPPY VILLAGE FUEL (URGENT LOPPING)",
+      "district": "flacq",
+      "from": "2023-01-21T08:00:00.000Z",
+      "to": "2023-01-21T09:00:00.000Z",
+      "id": "b0cc2287d39f6e4f7bca0b16e9e5f319"
+    },
+    {
+      "date": "Le samedi 21 janvier 2023 de  08:30:00 à  16:00:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "Tropic Knit, Hyvec, MDA et Industrial Zone St Pierre",
+      "district": "moka",
+      "from": "2023-01-21T04:30:00.000Z",
+      "to": "2023-01-21T12:00:00.000Z",
+      "id": "0998fa0d73919f3dbe8a1e8b44c442ad"
+    },
+    {
+      "date": "Le samedi 21 janvier 2023 de  09:15:00 à  17:00:00",
+      "locality": "BELVEDERE ( BEAU BASSIN )",
+      "localitySlug": "belvedere",
+      "streets": "5EME MILE,SEEDOYAL LANE",
+      "district": "plainewilhems",
+      "from": "2023-01-21T05:15:00.000Z",
+      "to": "2023-01-21T13:00:00.000Z",
+      "id": "0e4ab375fb94f2ccfef0ab685c33fea1"
+    },
+    {
+      "date": "Le samedi 21 janvier 2023 de  08:30:00 à  15:30:00",
+      "locality": "SAINT JOSEPH",
+      "localitySlug": "saint-joseph",
+      "streets": "LES ABONNES HABITANT SAINT JOSEPH DANS LES ENVIRONS DE LÉGLISE SAINT JOSEPH, LAND SETTLEMENT ET REHM GRINAKER",
+      "district": "portlouis",
+      "from": "2023-01-21T04:30:00.000Z",
+      "to": "2023-01-21T11:30:00.000Z",
+      "id": "5edfa4589062422dda415f9f58803d77"
+    },
+    {
+      "date": "Le samedi 21 janvier 2023 de  08:30:00 à  15:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "LES ABONNES HABITANT LA TOUR KOENIG DANS LES ENVIRONS DE NHDC IRIS ET HIRONDELLE",
+      "district": "portlouis",
+      "from": "2023-01-21T04:30:00.000Z",
+      "to": "2023-01-21T11:00:00.000Z",
+      "id": "27d7193092c9a512b202098de08cdf52"
+    },
+    {
+      "date": "Le samedi 21 janvier 2023 de  11:00:00 à  12:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "WASHERWOMAN,GAYASING,ALLEE MANGUES",
+      "district": "portlouis",
+      "from": "2023-01-21T07:00:00.000Z",
+      "to": "2023-01-21T08:00:00.000Z",
+      "id": "0f2d369cccb09bfb652005a5fdc66cb2"
+    },
+    {
+      "date": "Le samedi 21 janvier 2023 de  08:00:00 à  14:00:00",
+      "locality": "PLAINE DES ROCHES",
+      "localitySlug": "plaine-des-roches",
+      "streets": "dans les environs du cemetary road et dispensary road",
+      "district": "rivieredurempart",
+      "from": "2023-01-21T04:00:00.000Z",
+      "to": "2023-01-21T10:00:00.000Z",
+      "id": "51df24f024cef5a99f4f5ea3f98ce705"
+    }
+  ]
+}

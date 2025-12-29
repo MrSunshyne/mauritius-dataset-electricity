@@ -1,0 +1,78 @@
+{
+  "date": "2023-12-21",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.804Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le jeudi 21 décembre 2023 de  13:40:00 à  15:00:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "ROYAL ROAD TAMARIN",
+      "district": "blackriver",
+      "from": "2023-12-21T09:40:00.000Z",
+      "to": "2023-12-21T11:00:00.000Z",
+      "id": "4bbc59716bac29e6f3b6d323ce0420c4"
+    },
+    {
+      "date": "Le jeudi 21 décembre 2023 de  19:55:00 à  22:00:00",
+      "locality": "LA PRENEUSE",
+      "localitySlug": "la-preneuse",
+      "streets": "COASTAL ROAD",
+      "district": "blackriver",
+      "from": "2023-12-21T15:55:00.000Z",
+      "to": "2023-12-21T18:00:00.000Z",
+      "id": "46ababdfda462fdcd0726229742af7bc"
+    },
+    {
+      "date": "Le jeudi 21 décembre 2023 de  08:30:00 à  16:00:00",
+      "locality": "QUATRE COCOS",
+      "localitySlug": "quatre-cocos",
+      "streets": "Les abonnes du village de Quatre Cocos, Mare La Chaux et Palmar",
+      "district": "flacq",
+      "from": "2023-12-21T04:30:00.000Z",
+      "to": "2023-12-21T12:00:00.000Z",
+      "id": "f83a9cfb4fc431632ecbe4788a5c7464"
+    },
+    {
+      "date": "Le jeudi 21 décembre 2023 de  09:00:00 à  11:00:00",
+      "locality": "MELROSE",
+      "localitySlug": "melrose",
+      "streets": "COOPERATIVE MELROSE",
+      "district": "moka",
+      "from": "2023-12-21T05:00:00.000Z",
+      "to": "2023-12-21T07:00:00.000Z",
+      "id": "282fc691533efb86937e3f04c7b9d62b"
+    },
+    {
+      "date": "Le jeudi 21 décembre 2023 de  14:30:00 à  18:30:00",
+      "locality": "MONT PITON",
+      "localitySlug": "mont-piton",
+      "streets": "MONT PITON PHASE 1 & 2AND SURROUNDINGS",
+      "district": "pamplemousses",
+      "from": "2023-12-21T10:30:00.000Z",
+      "to": "2023-12-21T14:30:00.000Z",
+      "id": "c20e23ac195618f1eb92b1762737fedc"
+    },
+    {
+      "date": "Le jeudi 21 décembre 2023 de  09:00:00 à  12:00:00",
+      "locality": "BEL OMBRE",
+      "localitySlug": "bel-ombre",
+      "streets": "MORC VRS BEAU CHAMP BEL OMBRE",
+      "district": "savanne",
+      "from": "2023-12-21T05:00:00.000Z",
+      "to": "2023-12-21T08:00:00.000Z",
+      "id": "099956d79a23b901dc4c9bad6c873d9f"
+    },
+    {
+      "date": "Le jeudi 21 décembre 2023 de  14:50:00 à  16:00:00",
+      "locality": "TYACK",
+      "localitySlug": "tyack",
+      "streets": "NHDC, VILLAGE HALL AND SURROUNDINGS",
+      "district": "savanne",
+      "from": "2023-12-21T10:50:00.000Z",
+      "to": "2023-12-21T12:00:00.000Z",
+      "id": "a129b18572db93547b8ae74c7fe1f409"
+    }
+  ]
+}

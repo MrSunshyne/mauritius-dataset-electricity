@@ -1,0 +1,32 @@
+{
+  "slug": "choisy-baie-du-cap",
+  "name": "CHOISY - BAIE DU CAP",
+  "district": "savanne",
+  "generated": "2025-12-29T20:14:25.961Z",
+  "outageCount": 3,
+  "firstOutage": "2022-08-08",
+  "lastOutage": "2025-07-26",
+  "outages": [
+    {
+      "date": "Le samedi 26 juillet 2025 de  08:45:00 à  09:15:00",
+      "streets": "CHOISY",
+      "from": "2025-07-26T04:45:00.000Z",
+      "to": "2025-07-26T05:15:00.000Z",
+      "id": "25fbcb64f780ba3ca85b25d1840c221b"
+    },
+    {
+      "date": "Le dimanche 4 février 2024 de  09:00:00 à  15:00:00",
+      "streets": "LES ABONNES DU VILLAGE DE CHOISY BAIE DU CAP.",
+      "from": "2024-02-04T05:00:00.000Z",
+      "to": "2024-02-04T11:00:00.000Z",
+      "id": "32b7fd0416024cfedcfa40f99f3b8374"
+    },
+    {
+      "date": "Le lundi 8 août 2022 de  08:30:00 à  11:00:00",
+      "streets": "Choisy, Baie du Cap, Bel Ombre",
+      "from": "2022-08-08T04:30:00.000Z",
+      "to": "2022-08-08T07:00:00.000Z",
+      "id": "fa3170d7c1500fcd19f9bbc0f50616a1"
+    }
+  ]
+}

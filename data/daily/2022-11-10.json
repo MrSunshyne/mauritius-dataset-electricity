@@ -1,0 +1,68 @@
+{
+  "date": "2022-11-10",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.775Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le jeudi 10 novembre 2022 de  16:15:00 à  18:15:00",
+      "locality": "ERNEST FLORENT",
+      "localitySlug": "ernest-florent",
+      "streets": "WHOLE REGION",
+      "district": "flacq",
+      "from": "2022-11-10T12:15:00.000Z",
+      "to": "2022-11-10T14:15:00.000Z",
+      "id": "2b5ad7e526ae1279cf5e8e7a902107d4"
+    },
+    {
+      "date": "Le jeudi 10 novembre 2022 de  08:30:00 à  17:00:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "Rose Belle habitant dans le périmètre et les rues suivantes: Morcellement SIT, Camp Bouvette Rose Belle, une partie de Gebert Road et BPML New Grove",
+      "district": "grandport",
+      "from": "2022-11-10T04:30:00.000Z",
+      "to": "2022-11-10T13:00:00.000Z",
+      "id": "9c4df006be2b6db80c0ca92f83ebb242"
+    },
+    {
+      "date": "Le jeudi 10 novembre 2022 de  12:40:00 à  13:40:00",
+      "locality": "PROVIDENCE QUARTIER MILITAIRE",
+      "localitySlug": "providence-quartier-militaire",
+      "streets": "MORC PROVENCIA 2",
+      "district": "moka",
+      "from": "2022-11-10T08:40:00.000Z",
+      "to": "2022-11-10T09:40:00.000Z",
+      "id": "6e751e5689b568b3a5249c8ee0f1e409"
+    },
+    {
+      "date": "Le jeudi 10 novembre 2022 de  16:15:00 à  17:15:00",
+      "locality": "COTE D-OR",
+      "localitySlug": "cote-d-or",
+      "streets": "WHOLE VILLAGE",
+      "district": "moka",
+      "from": "2022-11-10T12:15:00.000Z",
+      "to": "2022-11-10T13:15:00.000Z",
+      "id": "e2a1d3ce9c901961706d95adffddbc30"
+    },
+    {
+      "date": "Le jeudi 10 novembre 2022 de  10:25:00 à  12:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "MORC CORPS DE GARDE",
+      "district": "plainewilhems",
+      "from": "2022-11-10T06:25:00.000Z",
+      "to": "2022-11-10T08:00:00.000Z",
+      "id": "a12230ce21428ad15b12976517dd73d4"
+    },
+    {
+      "date": "Le jeudi 10 novembre 2022 de  14:00:00 à  16:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "MALARTIC",
+      "district": "plainewilhems",
+      "from": "2022-11-10T10:00:00.000Z",
+      "to": "2022-11-10T12:00:00.000Z",
+      "id": "187edde25387141a66708827007426c3"
+    }
+  ]
+}

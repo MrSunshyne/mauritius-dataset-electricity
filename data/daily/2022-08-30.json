@@ -1,0 +1,28 @@
+{
+  "date": "2022-08-30",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.770Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mardi 30 août 2022 de  08:30:00 à  15:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "Cité La Ferme Bambous habitant dans les environs de Ave Victor Hugo, Kung Fu Lane , Jeewan Lane, Ave Mahatma Gandhi, Ave Jinnah, Ave Kalam Azad, Ave Daffodil et une partie de Black River Rd",
+      "district": "blackriver",
+      "from": "2022-08-30T04:30:00.000Z",
+      "to": "2022-08-30T11:30:00.000Z",
+      "id": "e72a2b7cf955172f094dd8108e8fd661"
+    },
+    {
+      "date": "Le mardi 30 août 2022 de  11:00:00 à  12:00:00",
+      "locality": "CAMP FOUQUEREAUX",
+      "localitySlug": "camp-fouquereaux",
+      "streets": "VIEUX CARAILLE A SHIVALA,GOVT SCHOOL",
+      "district": "plainewilhems",
+      "from": "2022-08-30T07:00:00.000Z",
+      "to": "2022-08-30T08:00:00.000Z",
+      "id": "7dca31ed12cba0cc9320885365de3c01"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "2023-04-08",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.785Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le samedi 8 avril 2023 de  09:00:00 à  12:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "AVE RADAR FLIC EN FLAC",
+      "district": "blackriver",
+      "from": "2023-04-08T05:00:00.000Z",
+      "to": "2023-04-08T08:00:00.000Z",
+      "id": "d3136ebb29a22ea633b1d344d994f6c9"
+    },
+    {
+      "date": "Le samedi 8 avril 2023 de  08:30:00 à  16:00:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "CIRCONSTANCE ST PIERRE-CREMATION RD-NHDC-MORC VRS ST PIERRE",
+      "district": "moka",
+      "from": "2023-04-08T04:30:00.000Z",
+      "to": "2023-04-08T12:00:00.000Z",
+      "id": "7afc499aaad0055c59e4b76a8c389e42"
+    },
+    {
+      "date": "Le samedi 8 avril 2023 de  13:15:00 à  14:45:00",
+      "locality": "CREVE COEUR",
+      "localitySlug": "creve-coeur",
+      "streets": "CREVE COEUR",
+      "district": "pamplemousses",
+      "from": "2023-04-08T09:15:00.000Z",
+      "to": "2023-04-08T10:45:00.000Z",
+      "id": "e7a51c2b32aaddd03229f98635da0ee9"
+    },
+    {
+      "date": "Le samedi 8 avril 2023 de  16:20:00 à  00:00:00",
+      "locality": "RICHE TERRE",
+      "localitySlug": "riche-terre",
+      "streets": "ST MICHEL, CITE ROMA, SUSHIL LANE, MUSLIM CEMETRY RD RICHE TERRE=HT CABLE BURNT",
+      "district": "pamplemousses",
+      "from": "2023-04-08T12:20:00.000Z",
+      "to": "2023-04-07T20:00:00.000Z",
+      "id": "d2c26baad0867dc39c6a5a6cde96abbf"
+    },
+    {
+      "date": "Le samedi 8 avril 2023 de  12:00:00 à  14:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "DANS LES ENVIRONS DE NEW SAINTE MARIE ROAD, SAINTE CROIX ROAD ET CHARLE BEGUINOT STREET",
+      "district": "portlouis",
+      "from": "2023-04-08T08:00:00.000Z",
+      "to": "2023-04-08T10:00:00.000Z",
+      "id": "dd6f9913ed29b5a3241eab74859b0c4a"
+    },
+    {
+      "date": "Le samedi 8 avril 2023 de  11:30:00 à  13:00:00",
+      "locality": "COTTAGE",
+      "localitySlug": "cottage",
+      "streets": "COTTAGE=HT FAULT",
+      "district": "rivieredurempart",
+      "from": "2023-04-08T07:30:00.000Z",
+      "to": "2023-04-08T09:00:00.000Z",
+      "id": "faa622368c6adb69a6e36035c7840e1c"
+    },
+    {
+      "date": "Le samedi 8 avril 2023 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "PETIT BRULE-THAMES-MONTAGNE MALGACHE",
+      "district": "rodrigues",
+      "from": "2023-04-08T04:30:00.000Z",
+      "to": "2023-04-08T11:00:00.000Z",
+      "id": "359ca8342ca90399225e74f934f8b99a"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "date": "2025-01-29",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.835Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mercredi 29 janvier 2025 de  00:00:00 à  13:00:00",
+      "locality": "FOND DU SAC",
+      "localitySlug": "fond-du-sac",
+      "streets": "FORBACH ROAD -TAGORE RD- ROYAL RD FOND DU SAC",
+      "district": "pamplemousses",
+      "from": "2025-01-28T20:00:00.000Z",
+      "to": "2025-01-28T09:00:00.000Z",
+      "id": "a034df8c1caabf297cddd31e148fd95d"
+    },
+    {
+      "date": "Le mercredi 29 janvier 2025 de  12:00:00 à  14:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "8EME MILE, BON AIR ROAD AND SURROUNDINGS",
+      "district": "pamplemousses",
+      "from": "2025-01-29T08:00:00.000Z",
+      "to": "2025-01-29T10:00:00.000Z",
+      "id": "34c7d786f8d3ef903a93009e3b2cd683"
+    }
+  ]
+}

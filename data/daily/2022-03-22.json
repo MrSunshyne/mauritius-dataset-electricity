@@ -1,0 +1,38 @@
+{
+  "date": "2022-03-22",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.760Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mardi 22 mars 2022 de  10:00:00 à  16:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC SAFELAND ETC",
+      "district": "blackriver",
+      "from": "2022-03-22T06:00:00.000Z",
+      "to": "2022-03-22T12:30:00.000Z",
+      "id": "e157e1c3af1f51516cffa27394c97086"
+    },
+    {
+      "date": "Le mardi 22 mars 2022 de  07:00:00 à  12:00:00",
+      "locality": "BALISSON",
+      "localitySlug": "balisson",
+      "streets": "Balisson, Marie Jeannie et une partie de Rose Belle",
+      "district": "grandport",
+      "from": "2022-03-22T03:00:00.000Z",
+      "to": "2022-03-22T08:00:00.000Z",
+      "id": "a5f4f026db4a442b66e663207c729db5"
+    },
+    {
+      "date": "Le mardi 22 mars 2022 de  16:00:00 à  17:00:00",
+      "locality": "LA CAVERNE",
+      "localitySlug": "la-caverne",
+      "streets": "WATSONIA STREET",
+      "district": "plainewilhems",
+      "from": "2022-03-22T12:00:00.000Z",
+      "to": "2022-03-22T13:00:00.000Z",
+      "id": "58323c8a78789a307661005990682085"
+    }
+  ]
+}

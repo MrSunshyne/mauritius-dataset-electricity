@@ -1,0 +1,78 @@
+{
+  "date": "2024-12-10",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.831Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le mardi 10 décembre 2024 de  08:30:00 à  16:30:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "Ave Anthurium, Ave Rose et Hotel Veranda Tamarin",
+      "district": "blackriver",
+      "from": "2024-12-10T04:30:00.000Z",
+      "to": "2024-12-10T12:30:00.000Z",
+      "id": "0566d14741c0a81554f44d8ab18281bd"
+    },
+    {
+      "date": "Le mardi 10 décembre 2024 de  08:30:00 à  17:30:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "Esprit Dennemont, Rene Maingard, Ivan Glover, Elizabeth, Colombia, Challenger, La Comete, Ave LIndependance, B. Lallah, Copain et les environs",
+      "district": "plainewilhems",
+      "from": "2024-12-10T04:30:00.000Z",
+      "to": "2024-12-10T13:30:00.000Z",
+      "id": "de979a5650e0329985f1267df9cba199"
+    },
+    {
+      "date": "Le mardi 10 décembre 2024 de  15:30:00 à  17:30:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Mere Theresa, Sister Marie Clemence, Fareed Muttur, Pigeot, Ave Roche-Brunes et Plaisance",
+      "district": "plainewilhems",
+      "from": "2024-12-10T11:30:00.000Z",
+      "to": "2024-12-10T13:30:00.000Z",
+      "id": "53e9dafa4fa09f73dd0167de3894d2b5"
+    },
+    {
+      "date": "Le mardi 10 décembre 2024 de  08:30:00 à  09:30:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Mere Theresa, Sister Marie Clemence, Fareed Muttur, Pigeot, Ave Roche-Brunes et Plaisance",
+      "district": "plainewilhems",
+      "from": "2024-12-10T04:30:00.000Z",
+      "to": "2024-12-10T05:30:00.000Z",
+      "id": "1bb1d6d221c7f936d5d5bcef16e53afd"
+    },
+    {
+      "date": "Le mardi 10 décembre 2024 de  12:20:00 à  13:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "MORC MEDINE AND SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2024-12-10T08:20:00.000Z",
+      "to": "2024-12-10T09:30:00.000Z",
+      "id": "c5c9d7c9d0534d6c9762d8115fc5de0c"
+    },
+    {
+      "date": "Le mardi 10 décembre 2024 de  10:00:00 à  13:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "LA BUTTE, MOHAMED HOSSEN ST, TANK WEN, MGR. LEEN AND SURROUNDINGS",
+      "district": "portlouis",
+      "from": "2024-12-10T06:00:00.000Z",
+      "to": "2024-12-10T09:00:00.000Z",
+      "id": "fdac9d6796301450853485ceb3b2dc96"
+    },
+    {
+      "date": "Le mardi 10 décembre 2024 de  07:00:00 à  13:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "BALA LANE BAIN BOEUF PEREYBERE",
+      "district": "rivieredurempart",
+      "from": "2024-12-10T03:00:00.000Z",
+      "to": "2024-12-10T09:00:00.000Z",
+      "id": "5bee147195c1d4f3269d58f9e6f54ca9"
+    }
+  ]
+}

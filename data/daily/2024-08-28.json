@@ -1,0 +1,48 @@
+{
+  "date": "2024-08-28",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.824Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mercredi 28 août 2024 de  17:45:00 à  22:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "Morc Safeland,Morc Palmyre,Rue Lataniers et les environs",
+      "district": "blackriver",
+      "from": "2024-08-28T13:45:00.000Z",
+      "to": "2024-08-28T18:30:00.000Z",
+      "id": "9402fe4ebd2de3da5858aaa4746c3681"
+    },
+    {
+      "date": "Le mercredi 28 août 2024 de  09:00:00 à  13:00:00",
+      "locality": "OLIVIA",
+      "localitySlug": "olivia",
+      "streets": "VILLAGE OLIVIA",
+      "district": "flacq",
+      "from": "2024-08-28T05:00:00.000Z",
+      "to": "2024-08-28T09:00:00.000Z",
+      "id": "ad2a80733b6d0dfbc27cea9573bb4e09"
+    },
+    {
+      "date": "Le mercredi 28 août 2024 de  10:45:00 à  14:00:00",
+      "locality": "L-AVENTURE",
+      "localitySlug": "l-aventure",
+      "streets": "RUMMUN,TULSI,ROYAL",
+      "district": "flacq",
+      "from": "2024-08-28T06:45:00.000Z",
+      "to": "2024-08-28T10:00:00.000Z",
+      "id": "52925a531ad1df590ee9384bddf51680"
+    },
+    {
+      "date": "Le mercredi 28 août 2024 de  09:30:00 à  15:30:00",
+      "locality": "RIAMBEL",
+      "localitySlug": "riambel",
+      "streets": "Morc. Thanacoody, NHDC Riambel, Riambel Surinam et Riambel Coast Road",
+      "district": "savanne",
+      "from": "2024-08-28T05:30:00.000Z",
+      "to": "2024-08-28T11:30:00.000Z",
+      "id": "4afa3bfef6720a2dcb2de601222fd7e6"
+    }
+  ]
+}

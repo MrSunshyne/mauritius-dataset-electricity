@@ -1,0 +1,108 @@
+{
+  "date": "2022-09-15",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.771Z",
+  "outageCount": 10,
+  "outages": [
+    {
+      "date": "Le jeudi 15 septembre 2022 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "Morc Green Creek, Ave L’ile aux Bernaches, Ave L’ile D’Ambre, Ave Pain de Sucre, Ave du Rempart",
+      "district": "blackriver",
+      "from": "2022-09-15T04:30:00.000Z",
+      "to": "2022-09-15T11:30:00.000Z",
+      "id": "ee94cf146f3cb8bd88822fa523a527f7"
+    },
+    {
+      "date": "Le jeudi 15 septembre 2022 de  04:00:00 à  12:00:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "CENTRAL FLACQ",
+      "district": "flacq",
+      "from": "2022-09-15T00:00:00.000Z",
+      "to": "2022-09-15T08:00:00.000Z",
+      "id": "041457740a91e7a6480b7cb801d8a66c"
+    },
+    {
+      "date": "Le jeudi 15 septembre 2022 de  13:00:00 à  17:00:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "PLAINE DE GERSINY NR MAGISTRATURE AND HOSPITAL ROYAL ROAD CENTRE DE FLAC",
+      "district": "flacq",
+      "from": "2022-09-15T09:00:00.000Z",
+      "to": "2022-09-15T13:00:00.000Z",
+      "id": "3c478dc537fe5e318a0f078a10856648"
+    },
+    {
+      "date": "Le jeudi 15 septembre 2022 de  11:45:00 à  12:45:00",
+      "locality": "MELROSE",
+      "localitySlug": "melrose",
+      "streets": "MELROSE",
+      "district": "moka",
+      "from": "2022-09-15T07:45:00.000Z",
+      "to": "2022-09-15T08:45:00.000Z",
+      "id": "846df5c596eb81630139eb07241313fb"
+    },
+    {
+      "date": "Le jeudi 15 septembre 2022 de  08:30:00 à  16:00:00",
+      "locality": "CARREAU LALIANE",
+      "localitySlug": "carreau-laliane",
+      "streets": "partie de Sayyed Hossen, Ramphul Lane No.1,2, Gopaul Lane",
+      "district": "plainewilhems",
+      "from": "2022-09-15T04:30:00.000Z",
+      "to": "2022-09-15T12:00:00.000Z",
+      "id": "dfdaa83f4bf98ead2e7442d15125af36"
+    },
+    {
+      "date": "Le jeudi 15 septembre 2022 de  08:30:00 à  16:00:00",
+      "locality": "BELLE ROSE  ( Q BORNES )",
+      "localitySlug": "belle-rose",
+      "streets": "AVE ST LOUIS BELLE ROSE",
+      "district": "plainewilhems",
+      "from": "2022-09-15T04:30:00.000Z",
+      "to": "2022-09-15T12:00:00.000Z",
+      "id": "4f3c6e24e0d2cc6b076d9ff5bd47338b"
+    },
+    {
+      "date": "Le jeudi 15 septembre 2022 de  15:30:00 à  18:00:00",
+      "locality": "PETIT CAMP",
+      "localitySlug": "petit-camp",
+      "streets": "PETIT CAMP ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2022-09-15T11:30:00.000Z",
+      "to": "2022-09-15T14:00:00.000Z",
+      "id": "2ad7318b9f528482326fcd59b7d25fe4"
+    },
+    {
+      "date": "Le jeudi 15 septembre 2022 de  09:00:00 à  12:00:00",
+      "locality": "CHEMIN GRENIER",
+      "localitySlug": "chemin-grenier",
+      "streets": "BELLE VUE CHEMIN GRENIER",
+      "district": "savanne",
+      "from": "2022-09-15T05:00:00.000Z",
+      "to": "2022-09-15T08:00:00.000Z",
+      "id": "0f3985f413555f3de3437e65d8d4da28"
+    },
+    {
+      "date": "Le jeudi 15 septembre 2022 de  12:00:00 à  14:00:00",
+      "locality": "GRAND BOIS",
+      "localitySlug": "grand-bois",
+      "streets": "MORC VRS GRAND BOIS",
+      "district": "savanne",
+      "from": "2022-09-15T08:00:00.000Z",
+      "to": "2022-09-15T10:00:00.000Z",
+      "id": "7bbbe70e64c434477337047a2b3f9ff4"
+    },
+    {
+      "date": "Le jeudi 15 septembre 2022 de  09:00:00 à  11:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "SONGES,PARC TORTUES,ANSE RAFFIN",
+      "district": "rodrigues",
+      "from": "2022-09-15T05:00:00.000Z",
+      "to": "2022-09-15T07:00:00.000Z",
+      "id": "a1ea5ca4a2b609887f4817500525dfd4"
+    }
+  ]
+}

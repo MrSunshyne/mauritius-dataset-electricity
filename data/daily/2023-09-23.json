@@ -1,0 +1,48 @@
+{
+  "date": "2023-09-23",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.797Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le samedi 23 septembre 2023 de  09:00:00 à  15:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "Morc Beerjeeraz, Morc Raffray, Ave Cutty Shark, Ave Albatros, Ave Victory, Ave Ouragan, Ave Allouette, Ave Constitution, Ave Shebeck, Ave St Geran et les environs",
+      "district": "blackriver",
+      "from": "2023-09-23T05:00:00.000Z",
+      "to": "2023-09-23T11:00:00.000Z",
+      "id": "6f11ff79e9140fefa67079be473ee80d"
+    },
+    {
+      "date": "Le samedi 23 septembre 2023 de  09:00:00 à  15:00:00",
+      "locality": "DAGOTIERE",
+      "localitySlug": "dagotiere",
+      "streets": "partie de Royal Road Lower Dagotiere, Radhay Road, Ajageer Road,",
+      "district": "moka",
+      "from": "2023-09-23T05:00:00.000Z",
+      "to": "2023-09-23T11:00:00.000Z",
+      "id": "6ec2a2a2b90acad4dbe43058890d11f0"
+    },
+    {
+      "date": "Le samedi 23 septembre 2023 de  08:30:00 à  14:30:00",
+      "locality": "POINTE DES LASCARS",
+      "localitySlug": "pointe-des-lascars",
+      "streets": "le village de Pte Des Lascars",
+      "district": "rivieredurempart",
+      "from": "2023-09-23T04:30:00.000Z",
+      "to": "2023-09-23T10:30:00.000Z",
+      "id": "ebc31d306ad840fa536c322339910d13"
+    },
+    {
+      "date": "Le samedi 23 septembre 2023 de  08:30:00 à  14:30:00",
+      "locality": "HAUTE RIVE",
+      "localitySlug": "haute-rive",
+      "streets": "le village dHaute Rive",
+      "district": "rivieredurempart",
+      "from": "2023-09-23T04:30:00.000Z",
+      "to": "2023-09-23T10:30:00.000Z",
+      "id": "26c6cb1d76062bea93cd9e7d7a7c318d"
+    }
+  ]
+}

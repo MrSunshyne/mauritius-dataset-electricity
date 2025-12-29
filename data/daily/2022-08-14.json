@@ -1,0 +1,48 @@
+{
+  "date": "2022-08-14",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.769Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le dimanche 14 août 2022 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "Morc Safeland: Richland Appartements, Ave des Perruches, Ave des Merles, Ave des Pigeons, Ave des Rossignols",
+      "district": "blackriver",
+      "from": "2022-08-14T04:30:00.000Z",
+      "to": "2022-08-14T11:30:00.000Z",
+      "id": "b986c593acfe12f232b6f3fb3e532e55"
+    },
+    {
+      "date": "Le dimanche 14 août 2022 de  08:15:00 à  15:00:00",
+      "locality": "BONNE MERE",
+      "localitySlug": "bonne-mere",
+      "streets": "NHDC,Morc VRS et une partie de la route Royale",
+      "district": "flacq",
+      "from": "2022-08-14T04:15:00.000Z",
+      "to": "2022-08-14T11:00:00.000Z",
+      "id": "e4dfaa1a729c61c2567b44fbd85dca1c"
+    },
+    {
+      "date": "Le dimanche 14 août 2022 de  08:30:00 à  17:00:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "Mahebourg habitant dans le périmètre et les rues suivantes: Rue de la Plaine, Rue Colony, Rue du Chaland, Dravidian Lane, Rue Bouchon, Rue Souffleur, Rue Suffren, une partie de : Ville Neuve Street, La Chaux Street, Rue Maurice, Hangard Street et Rue des Créoles",
+      "district": "grandport",
+      "from": "2022-08-14T04:30:00.000Z",
+      "to": "2022-08-14T13:00:00.000Z",
+      "id": "f3ae04dd6b2a40ec77f1cc78b96e7478"
+    },
+    {
+      "date": "Le dimanche 14 août 2022 de  08:30:00 à  16:00:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "LES ABONNES HABITANT PAILLES ROAD DANS LES ENVIRONS DE LA ROUTE ROYAL, RESIDENCE MAUVILAC, ALPHA CLEANING, HAREL MALLAC, ET HARDY HENRI",
+      "district": "portlouis",
+      "from": "2022-08-14T04:30:00.000Z",
+      "to": "2022-08-14T12:00:00.000Z",
+      "id": "e42db65989af024fc1d9a7610b4920dc"
+    }
+  ]
+}

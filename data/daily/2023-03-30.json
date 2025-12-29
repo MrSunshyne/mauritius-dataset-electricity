@@ -1,0 +1,78 @@
+{
+  "date": "2023-03-30",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.785Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le jeudi 30 mars 2023 de  08:15:00 à  17:00:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "Les abonnés habitant à Bel-Air Riviere Seche dans les périmètres de       Pont Lardier, Route Royale La Lucie Building, Belle Rose et  Clemencia.",
+      "district": "flacq",
+      "from": "2023-03-30T04:15:00.000Z",
+      "to": "2023-03-30T13:00:00.000Z",
+      "id": "9d5244ad0c20ac76c54e0b5b33225a3b"
+    },
+    {
+      "date": "Le jeudi 30 mars 2023 de  12:00:00 à  15:00:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "Les abonnés habitant à  Centre De Flacq dans les périmètres de One Stop Shop Building et Arcade Sibarti  vers KFC",
+      "district": "flacq",
+      "from": "2023-03-30T08:00:00.000Z",
+      "to": "2023-03-30T11:00:00.000Z",
+      "id": "b10be43a03c8a3a6941aa5b258c9f4ea"
+    },
+    {
+      "date": "Le jeudi 30 mars 2023 de  09:00:00 à  15:00:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "Les abonnés habitant à  Centre De Flacq dans les périmètres de  Choonee Building Jusqu’au  Magasin 361",
+      "district": "flacq",
+      "from": "2023-03-30T05:00:00.000Z",
+      "to": "2023-03-30T11:00:00.000Z",
+      "id": "d496282ed10f6ab6a10838bdcd25ff60"
+    },
+    {
+      "date": "Le jeudi 30 mars 2023 de  08:30:00 à  17:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes: Partie de Lees, Impasse Henri, Impasse de Senneville et  les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-03-30T04:30:00.000Z",
+      "to": "2023-03-30T13:00:00.000Z",
+      "id": "c721ec525010171d9e91de59169ea49a"
+    },
+    {
+      "date": "Le jeudi 30 mars 2023 de  08:30:00 à  15:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Route Moreau, une partie de  Route John-Kennedy, Route Cantin",
+      "district": "plainewilhems",
+      "from": "2023-03-30T04:30:00.000Z",
+      "to": "2023-03-30T11:00:00.000Z",
+      "id": "38ca829e3ce30b302fce38c705e3d73f"
+    },
+    {
+      "date": "Le jeudi 30 mars 2023 de  09:00:00 à  15:00:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "MORC BASSIN PALMA",
+      "district": "plainewilhems",
+      "from": "2023-03-30T05:00:00.000Z",
+      "to": "2023-03-30T11:00:00.000Z",
+      "id": "78b1c137cec6f690659a61bc933209ad"
+    },
+    {
+      "date": "Le jeudi 30 mars 2023 de  09:00:00 à  15:00:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "NELSON RD- ST MICHEL RD GRAND GAUBE",
+      "district": "rivieredurempart",
+      "from": "2023-03-30T05:00:00.000Z",
+      "to": "2023-03-30T11:00:00.000Z",
+      "id": "8b764d5f3d972839e323d3fc7d69a3fd"
+    }
+  ]
+}

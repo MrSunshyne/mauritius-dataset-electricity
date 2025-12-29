@@ -1,0 +1,25 @@
+{
+  "slug": "mont-simonet",
+  "name": "MONT  SIMONET",
+  "district": "blackriver",
+  "generated": "2025-12-29T20:14:26.094Z",
+  "outageCount": 2,
+  "firstOutage": "2022-05-07",
+  "lastOutage": "2023-03-27",
+  "outages": [
+    {
+      "date": "Le lundi 27 mars 2023 de  10:00:00 à  15:30:00",
+      "streets": "MONT SIMONET TAMARIND FALLS",
+      "from": "2023-03-27T06:00:00.000Z",
+      "to": "2023-03-27T11:30:00.000Z",
+      "id": "4de216a70106e5e14d5bb42db0f891ec"
+    },
+    {
+      "date": "Le samedi 7 mai 2022 de  09:00:00 à  13:30:00",
+      "streets": "MONT SIMONET TAMARIND FALLS",
+      "from": "2022-05-07T05:00:00.000Z",
+      "to": "2022-05-07T09:30:00.000Z",
+      "id": "da1aeb13bc6b4a539867d064312e154d"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "date": "2025-01-06",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.833Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le lundi 6 janvier 2025 de  21:45:00 à  01:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC SAFELAND, AVE AIGLONS, FLAMMANT, COLOMBES AND SURROUNDINGS",
+      "district": "blackriver",
+      "from": "2025-01-06T17:45:00.000Z",
+      "to": "2025-01-05T21:00:00.000Z",
+      "id": "a41faf249b0057bd5070f2e16669307c"
+    },
+    {
+      "date": "Le lundi 6 janvier 2025 de  09:30:00 à  10:30:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "PETIT CHEMIN ET ROYAL ROAD",
+      "district": "flacq",
+      "from": "2025-01-06T05:30:00.000Z",
+      "to": "2025-01-06T06:30:00.000Z",
+      "id": "b98b578416d93ca89075b96d87a0d529"
+    },
+    {
+      "date": "Le lundi 6 janvier 2025 de  17:00:00 à  22:00:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "MORCELLEMENT MAISON BLANCHE.",
+      "district": "pamplemousses",
+      "from": "2025-01-06T13:00:00.000Z",
+      "to": "2025-01-06T18:00:00.000Z",
+      "id": "fc34054881739bfd5d4db28ddf176f0a"
+    },
+    {
+      "date": "Le lundi 6 janvier 2025 de  09:34:00 à  10:35:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "CHEMIN GUIBIES PAILLES",
+      "district": "portlouis",
+      "from": "2025-01-06T05:34:00.000Z",
+      "to": "2025-01-06T06:35:00.000Z",
+      "id": "1c066c39a8a546dff7117ff76fa35e5a"
+    },
+    {
+      "date": "Le lundi 6 janvier 2025 de  09:45:00 à  10:45:00",
+      "locality": "POINTE AUX CANONNIERS",
+      "localitySlug": "pointe-aux-canonniers",
+      "streets": "LAURIERS STREET ET LES ALENTOURS",
+      "district": "rivieredurempart",
+      "from": "2025-01-06T05:45:00.000Z",
+      "to": "2025-01-06T06:45:00.000Z",
+      "id": "194d1f276adc571526d3faa2d8070eca"
+    },
+    {
+      "date": "Le lundi 6 janvier 2025 de  09:30:00 à  15:00:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "GRAND GAUBE",
+      "district": "rivieredurempart",
+      "from": "2025-01-06T05:30:00.000Z",
+      "to": "2025-01-06T11:00:00.000Z",
+      "id": "c2c136db4afdfd056f977aabea8d05eb"
+    }
+  ]
+}

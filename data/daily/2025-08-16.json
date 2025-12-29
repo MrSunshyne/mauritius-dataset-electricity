@@ -1,0 +1,88 @@
+{
+  "date": "2025-08-16",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.845Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le samedi 16 août 2025 de  08:15:00 à  15:00:00",
+      "locality": "OLIVIA",
+      "localitySlug": "olivia",
+      "streets": "Olivia",
+      "district": "flacq",
+      "from": "2025-08-16T04:15:00.000Z",
+      "to": "2025-08-16T11:00:00.000Z",
+      "id": "47f41c2db9f54bbe0ff0eec0b5c9823d"
+    },
+    {
+      "date": "Le samedi 16 août 2025 de  09:00:00 à  15:00:00",
+      "locality": "OLIVIA",
+      "localitySlug": "olivia",
+      "streets": "Olivia",
+      "district": "flacq",
+      "from": "2025-08-16T05:00:00.000Z",
+      "to": "2025-08-16T11:00:00.000Z",
+      "id": "0e842c6a5ccfdcc3d65ad4906930a93c"
+    },
+    {
+      "date": "Le samedi 16 août 2025 de  08:55:00 à  10:00:00",
+      "locality": "SAINT HUBERT",
+      "localitySlug": "saint-hubert",
+      "streets": "SAINT HUBERT",
+      "district": "grandport",
+      "from": "2025-08-16T04:55:00.000Z",
+      "to": "2025-08-16T06:00:00.000Z",
+      "id": "a05921f9ba97fa6622bf37f8c8b5eb04"
+    },
+    {
+      "date": "Le samedi 16 août 2025 de  08:30:00 à  11:00:00",
+      "locality": "MOKA",
+      "localitySlug": "moka",
+      "streets": "MGI, EURO CRM ET LES ALENTOURS",
+      "district": "moka",
+      "from": "2025-08-16T04:30:00.000Z",
+      "to": "2025-08-16T07:00:00.000Z",
+      "id": "3bba4d02086a16881d88e716d921c75a"
+    },
+    {
+      "date": "Le samedi 16 août 2025 de  09:00:00 à  16:00:00",
+      "locality": "ESPERANCE PITON",
+      "localitySlug": "esperance-piton",
+      "streets": "MORC BOOLAKY, CWA LESPERANCE PITON, CREMATION ROAD, MAURICE MARTIN, LESPERANCE PITON",
+      "district": "pamplemousses",
+      "from": "2025-08-16T05:00:00.000Z",
+      "to": "2025-08-16T12:00:00.000Z",
+      "id": "1ba97a64b666ca6eeb58950443306ce5"
+    },
+    {
+      "date": "Le samedi 16 août 2025 de  11:00:00 à  16:00:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "FROM CHEMIN LA GARE TBS TOWARDS POLICE STATION, CUMCUMA LANE",
+      "district": "pamplemousses",
+      "from": "2025-08-16T07:00:00.000Z",
+      "to": "2025-08-16T12:00:00.000Z",
+      "id": "4b085d852eb206538b8fd85d7ab2dfed"
+    },
+    {
+      "date": "Le samedi 16 août 2025 de  08:30:00 à  12:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "LES ABONNES DE MORC REY POINTE AUX SABLES HABITANT DANS LES ENVIRONS DES AVENUES BOSQUET,CERISIERS, MORC DAWOOD, GOLDEN LANE ET LA ROUTE COTIERE",
+      "district": "portlouis",
+      "from": "2025-08-16T04:30:00.000Z",
+      "to": "2025-08-16T08:00:00.000Z",
+      "id": "21e2f43a059c1b715760d6f0e9997cec"
+    },
+    {
+      "date": "Le samedi 16 août 2025 de  12:30:00 à  14:30:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "DANS LES ENVIRONS DE LA ROUTE ROYAL ET LA  ZONE INDUSTRIEL DE DBM",
+      "district": "portlouis",
+      "from": "2025-08-16T08:30:00.000Z",
+      "to": "2025-08-16T10:30:00.000Z",
+      "id": "bc93602fa76b3f4c96d8ca72e1379b08"
+    }
+  ]
+}

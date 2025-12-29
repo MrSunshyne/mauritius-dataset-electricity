@@ -1,0 +1,88 @@
+{
+  "date": "2023-10-05",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.798Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le jeudi 5 octobre 2023 de  08:30:00 à  15:30:00",
+      "locality": "LE MORNE",
+      "localitySlug": "le-morne",
+      "streets": "LE MORNE ET LA PRAIRIE",
+      "district": "blackriver",
+      "from": "2023-10-05T04:30:00.000Z",
+      "to": "2023-10-05T11:30:00.000Z",
+      "id": "c37ff5d8e6e5e15d101e82b2b39cb5e2"
+    },
+    {
+      "date": "Le jeudi 5 octobre 2023 de  12:30:00 à  13:45:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "REGION ALBION",
+      "district": "blackriver",
+      "from": "2023-10-05T08:30:00.000Z",
+      "to": "2023-10-05T09:45:00.000Z",
+      "id": "fae10482c9bc9febd26eedcd4c83409b"
+    },
+    {
+      "date": "Le jeudi 5 octobre 2023 de  16:00:00 à  00:00:00",
+      "locality": "VILLENOIRE",
+      "localitySlug": "villenoire",
+      "streets": "RUE BAZAR VILLE NOIR MAHEBOURG",
+      "district": "grandport",
+      "from": "2023-10-05T12:00:00.000Z",
+      "to": "2023-10-04T20:00:00.000Z",
+      "id": "72121f2d2ce40fd2cfaa980c8ff70b56"
+    },
+    {
+      "date": "Le jeudi 5 octobre 2023 de  15:45:00 à  17:00:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "POWDER MILL PAMPLEMOUSSES",
+      "district": "pamplemousses",
+      "from": "2023-10-05T11:45:00.000Z",
+      "to": "2023-10-05T13:00:00.000Z",
+      "id": "b6ea2373985c10b95ee44ff8e6175fcb"
+    },
+    {
+      "date": "Le jeudi 5 octobre 2023 de  08:30:00 à  13:30:00",
+      "locality": "GLEN PARK",
+      "localitySlug": "glen-park",
+      "streets": "La Marie Road",
+      "district": "plainewilhems",
+      "from": "2023-10-05T04:30:00.000Z",
+      "to": "2023-10-05T09:30:00.000Z",
+      "id": "91e466a46e592d0133834b598ff8018c"
+    },
+    {
+      "date": "Le jeudi 5 octobre 2023 de  08:30:00 à  15:30:00",
+      "locality": "ESPERANCE TREBUCHET",
+      "localitySlug": "esperance-trebuchet",
+      "streets": "dans les environs de Rajah Road, Mme Barbe St, School Lane et Diagonal Street",
+      "district": "rivieredurempart",
+      "from": "2023-10-05T04:30:00.000Z",
+      "to": "2023-10-05T11:30:00.000Z",
+      "id": "1fd0145575bcd55ef384df0c2762e16e"
+    },
+    {
+      "date": "Le jeudi 5 octobre 2023 de  09:00:00 à  09:45:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "ROYAL RD MORC SWAN PEREYBERE.",
+      "district": "rivieredurempart",
+      "from": "2023-10-05T05:00:00.000Z",
+      "to": "2023-10-05T05:45:00.000Z",
+      "id": "63f2fe8447fe12c161889881d40d45d3"
+    },
+    {
+      "date": "Le jeudi 5 octobre 2023 de  12:00:00 à  16:00:00",
+      "locality": "CREVE COEUR(RODRIGUES)",
+      "localitySlug": "creve-coeur",
+      "streets": "Fond La Digue, Creve Coeur and Roseaux",
+      "district": "rodrigues",
+      "from": "2023-10-05T08:00:00.000Z",
+      "to": "2023-10-05T12:00:00.000Z",
+      "id": "0df5192f4c4ded9203d45ad9d6a6a4f9"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "2024-01-26",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.807Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le vendredi 26 janvier 2024 de  09:30:00 à  15:00:00",
+      "locality": "BAMBOUS VIRIEUX",
+      "localitySlug": "bambous-virieux",
+      "streets": "Bambous Virieux, Bois Des Amourettes, Providence, Ferney et une partie de Vieux Grand Port",
+      "district": "grandport",
+      "from": "2024-01-26T05:30:00.000Z",
+      "to": "2024-01-26T11:00:00.000Z",
+      "id": "f8ded2e1415a3ebc78de4e83923a43cd"
+    },
+    {
+      "date": "Le vendredi 26 janvier 2024 de  10:15:00 à  12:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "MAMOO LANE, ALLEE JACQUES",
+      "district": "grandport",
+      "from": "2024-01-26T06:15:00.000Z",
+      "to": "2024-01-26T08:00:00.000Z",
+      "id": "5adbc084427dbc172ecc5d2f81c47268"
+    },
+    {
+      "date": "Le vendredi 26 janvier 2024 de  12:00:00 à  15:00:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "RUE CHOUFLEUR, ROYAL ROAD MAHEBOURG",
+      "district": "grandport",
+      "from": "2024-01-26T08:00:00.000Z",
+      "to": "2024-01-26T11:00:00.000Z",
+      "id": "1ed8e467ea0553ebe1064459cdeeb8bf"
+    },
+    {
+      "date": "Le vendredi 26 janvier 2024 de  09:45:00 à  12:45:00",
+      "locality": "ESPERANCE PITON",
+      "localitySlug": "esperance-piton",
+      "streets": "ESPERANCE PITON MAURICE MARTIN",
+      "district": "pamplemousses",
+      "from": "2024-01-26T05:45:00.000Z",
+      "to": "2024-01-26T08:45:00.000Z",
+      "id": "8b8e234b42483d37ee3e9c838bdb1069"
+    },
+    {
+      "date": "Le vendredi 26 janvier 2024 de  10:30:00 à  12:30:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "ROYAL ROAD ST JOSEPH",
+      "district": "pamplemousses",
+      "from": "2024-01-26T06:30:00.000Z",
+      "to": "2024-01-26T08:30:00.000Z",
+      "id": "25283ef409a6207fa8c7efdbe05c427f"
+    },
+    {
+      "date": "Le vendredi 26 janvier 2024 de  16:30:00 à  18:30:00",
+      "locality": "CAMP FOUQUEREAUX",
+      "localitySlug": "camp-fouquereaux",
+      "streets": "TERRE ROUGE RD AND NEARBY REGION",
+      "district": "plainewilhems",
+      "from": "2024-01-26T12:30:00.000Z",
+      "to": "2024-01-26T14:30:00.000Z",
+      "id": "495f7205250d8dd300a9ba1a31e43fed"
+    },
+    {
+      "date": "Le vendredi 26 janvier 2024 de  09:30:00 à  15:30:00",
+      "locality": "BATIMARAIS",
+      "localitySlug": "batimarais",
+      "streets": "BATIMARAIS",
+      "district": "savanne",
+      "from": "2024-01-26T05:30:00.000Z",
+      "to": "2024-01-26T11:30:00.000Z",
+      "id": "110bf65eb4fc7c3e29cc89e64622cf23"
+    }
+  ]
+}

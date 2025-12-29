@@ -1,0 +1,38 @@
+{
+  "date": "2022-04-22",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.762Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le vendredi 22 avril 2022 de  08:30:00 à  16:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "Morc Safeland, Ave Radar, Ave des Flamboyants, Ave des Hirondelles, Ave Carol, Ave des Colombres, Ave des Aigrettes, Morc Li Yao, Ave Begonia, Ave Camelia et Morc Palmyre",
+      "district": "blackriver",
+      "from": "2022-04-22T04:30:00.000Z",
+      "to": "2022-04-22T12:30:00.000Z",
+      "id": "0ae2c572da9b1e8259466e523aeab72f"
+    },
+    {
+      "date": "Le vendredi 22 avril 2022 de  15:30:00 à  18:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Candos Road Vacoas: une partie de Augum Lane, Rughoo Lane Nos 1,2",
+      "district": "plainewilhems",
+      "from": "2022-04-22T11:30:00.000Z",
+      "to": "2022-04-22T14:00:00.000Z",
+      "id": "e41983d8c4e87b7c4658c314ecd98e21"
+    },
+    {
+      "date": "Le vendredi 22 avril 2022 de  09:00:00 à  15:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "dans les environs de Morc Geranium",
+      "district": "rivieredurempart",
+      "from": "2022-04-22T05:00:00.000Z",
+      "to": "2022-04-22T11:00:00.000Z",
+      "id": "f3e196cecec56698d3894f8922b45272"
+    }
+  ]
+}

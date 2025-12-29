@@ -1,0 +1,58 @@
+{
+  "date": "2023-02-01",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.781Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mercredi 1 février 2023 de  11:35:00 à  12:35:00",
+      "locality": "BRAMSTHAN",
+      "localitySlug": "bramsthan",
+      "streets": "BELVEDERE, SALAZIE, PONT BON DIEU ROAD.",
+      "district": "flacq",
+      "from": "2023-02-01T07:35:00.000Z",
+      "to": "2023-02-01T08:35:00.000Z",
+      "id": "19d5461cd2b8762cc0bf25d3790995f8"
+    },
+    {
+      "date": "Le mercredi 1 février 2023 de  14:40:00 à  17:00:00",
+      "locality": "L-ASSURANCE",
+      "localitySlug": "l-assurance",
+      "streets": "LASSURANCE",
+      "district": "moka",
+      "from": "2023-02-01T10:40:00.000Z",
+      "to": "2023-02-01T13:00:00.000Z",
+      "id": "a1427922d538b7a978c32d898a47de2f"
+    },
+    {
+      "date": "Le mercredi 1 février 2023 de  15:00:00 à  16:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Une partie de Highlands Branch Road, Beekawoo Lane, Hassen Raffa Road, Bundhoo Lane, et les environs de College Aleemiah",
+      "district": "plainewilhems",
+      "from": "2023-02-01T11:00:00.000Z",
+      "to": "2023-02-01T12:00:00.000Z",
+      "id": "659a9ad9131633f529971c0001530e7c"
+    },
+    {
+      "date": "Le mercredi 1 février 2023 de  08:30:00 à  16:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Noor Mosque Road, Iqbal Lane et les environs",
+      "district": "plainewilhems",
+      "from": "2023-02-01T04:30:00.000Z",
+      "to": "2023-02-01T12:00:00.000Z",
+      "id": "1a6a20e54de48cd424d466c106bd453d"
+    },
+    {
+      "date": "Le mercredi 1 février 2023 de  08:00:00 à  16:00:00",
+      "locality": "PORT MATHURIN(RODRIGUES)",
+      "localitySlug": "port-mathurin",
+      "streets": "Port Mathurin et Montagne Fanal",
+      "district": "rodrigues",
+      "from": "2023-02-01T04:00:00.000Z",
+      "to": "2023-02-01T12:00:00.000Z",
+      "id": "a3b17f1ac06230ad7d9ca64afbd35be5"
+    }
+  ]
+}

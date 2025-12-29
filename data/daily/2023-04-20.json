@@ -1,0 +1,48 @@
+{
+  "date": "2023-04-20",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.786Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le jeudi 20 avril 2023 de  08:30:00 à  17:00:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "Mahebourg habitant dans le périmètre et les rues suivantes: Chemin Grove, Amigo Street, Licoris Street, Allée Geude, Tombeau Street, Ramnarain Street, Gopalla Lane, Gopeela Lane, Shivala Lane, Impasse Notre Dame,Supermarché Kong, une partie de Allée Geude, Dollar Lane, Karan Lane, Gopalla Lane, Ville Neuve et une partie de la Route Royale Mahebourg",
+      "district": "grandport",
+      "from": "2023-04-20T04:30:00.000Z",
+      "to": "2023-04-20T13:00:00.000Z",
+      "id": "8d30c10cd907be01d6832d09c32557e5"
+    },
+    {
+      "date": "Le jeudi 20 avril 2023 de  14:45:00 à  16:15:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "PRINCESS MARGARET TRIOLET",
+      "district": "pamplemousses",
+      "from": "2023-04-20T10:45:00.000Z",
+      "to": "2023-04-20T12:15:00.000Z",
+      "id": "5952bba9271b5772928736f65a6b4772"
+    },
+    {
+      "date": "Le jeudi 20 avril 2023 de  16:00:00 à  16:30:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "Les abonnés de Forest-Side habitant les rues et les régions suivantes : Derby, partie de Labrasserie Road, Camp Lagesse, Morcellement Valaydon, Morcellement Piat et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-04-20T12:00:00.000Z",
+      "to": "2023-04-20T12:30:00.000Z",
+      "id": "eb96c9d19e86c172d3e992f1b31f2877"
+    },
+    {
+      "date": "Le jeudi 20 avril 2023 de  12:00:00 à  12:30:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "Les abonnés de Forest-Side habitant les rues et les régions suivantes : Derby, partie de Labrasserie Road, Camp Lagesse, Morcellement Valaydon, Morcellement Piat et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-04-20T08:00:00.000Z",
+      "to": "2023-04-20T08:30:00.000Z",
+      "id": "704acb38a41d4a92f68940c090ead404"
+    }
+  ]
+}

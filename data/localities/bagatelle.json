@@ -1,0 +1,25 @@
+{
+  "slug": "bagatelle",
+  "name": "BAGATELLE",
+  "district": "moka",
+  "generated": "2025-12-29T20:14:25.877Z",
+  "outageCount": 2,
+  "firstOutage": "2023-12-09",
+  "lastOutage": "2024-06-04",
+  "outages": [
+    {
+      "date": "Le mardi 4 juin 2024 de  15:25:00 à  16:00:00",
+      "streets": "BAGATELLE OFFICE, BAGATELLE DAM, WATER TREATMENT PLANT",
+      "from": "2024-06-04T11:25:00.000Z",
+      "to": "2024-06-04T12:00:00.000Z",
+      "id": "c7a76b1520700c4ab72e1b7aa67ec5df"
+    },
+    {
+      "date": "Le samedi 9 décembre 2023 de  10:30:00 à  11:30:00",
+      "streets": "MOTOR CITY BAGATELLE",
+      "from": "2023-12-09T06:30:00.000Z",
+      "to": "2023-12-09T07:30:00.000Z",
+      "id": "4bffbc4817a001fa4425cf9964d87773"
+    }
+  ]
+}

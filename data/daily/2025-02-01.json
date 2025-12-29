@@ -1,0 +1,68 @@
+{
+  "date": "2025-02-01",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.835Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le samedi 1 février 2025 de  05:00:00 à  16:15:00",
+      "locality": "WOLMAR",
+      "localitySlug": "wolmar",
+      "streets": "WOLMAR",
+      "district": "blackriver",
+      "from": "2025-02-01T01:00:00.000Z",
+      "to": "2025-02-01T12:15:00.000Z",
+      "id": "4e45b2aecca747771919fc5d835d99c5"
+    },
+    {
+      "date": "Le samedi 1 février 2025 de  17:00:00 à  22:00:00",
+      "locality": "WOLMAR",
+      "localitySlug": "wolmar",
+      "streets": "RESIDENCE CAP OUEST NEAR PEARL BEACH HOTEL.",
+      "district": "blackriver",
+      "from": "2025-02-01T13:00:00.000Z",
+      "to": "2025-02-01T18:00:00.000Z",
+      "id": "8f3aa81c13c113926f2c9dc789ba6566"
+    },
+    {
+      "date": "Le samedi 1 février 2025 de  08:30:00 à  14:00:00",
+      "locality": "MORC SAINT ANDRE",
+      "localitySlug": "morc-saint-andre",
+      "streets": "RUE TAGORE, KALIMAYE ROAD ET SSR ROAD",
+      "district": "pamplemousses",
+      "from": "2025-02-01T04:30:00.000Z",
+      "to": "2025-02-01T10:00:00.000Z",
+      "id": "5aee0732cc98b32c4b026363460b222a"
+    },
+    {
+      "date": "Le samedi 1 février 2025 de  09:00:00 à  12:00:00",
+      "locality": "FOND DU SAC",
+      "localitySlug": "fond-du-sac",
+      "streets": "SENTOZA FONDUSAC",
+      "district": "pamplemousses",
+      "from": "2025-02-01T05:00:00.000Z",
+      "to": "2025-02-01T08:00:00.000Z",
+      "id": "bb05c07da665a8d1d212059a098157b4"
+    },
+    {
+      "date": "Le samedi 1 février 2025 de  15:43:00 à  16:30:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "ROUTE ROYALE PALMA : FROM LA LOUISE TO CRESSONVILLE AND CHEMIN POUSSE PASSE.",
+      "district": "plainewilhems",
+      "from": "2025-02-01T11:43:00.000Z",
+      "to": "2025-02-01T12:30:00.000Z",
+      "id": "03b07ceebf545036126f6d6f33d60496"
+    },
+    {
+      "date": "Le samedi 1 février 2025 de  07:00:00 à  15:30:00",
+      "locality": "COTTAGE",
+      "localitySlug": "cottage",
+      "streets": "VRS COTTAGE, ROYAL ROAD COTTAGE",
+      "district": "rivieredurempart",
+      "from": "2025-02-01T03:00:00.000Z",
+      "to": "2025-02-01T11:30:00.000Z",
+      "id": "f3d94820bf5857c2014c789cff63d94d"
+    }
+  ]
+}

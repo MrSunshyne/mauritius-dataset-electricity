@@ -1,0 +1,88 @@
+{
+  "date": "2024-03-06",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.810Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le mercredi 6 mars 2024 de  09:45:00 à  13:30:00",
+      "locality": "POSTE DE FLACQ",
+      "localitySlug": "poste-de-flacq",
+      "streets": "POSTE DE FLACQ",
+      "district": "flacq",
+      "from": "2024-03-06T05:45:00.000Z",
+      "to": "2024-03-06T09:30:00.000Z",
+      "id": "8388c740170df531bc5be19695e44f5b"
+    },
+    {
+      "date": "Le mercredi 6 mars 2024 de  10:10:00 à  12:15:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "HOTEL LE PALMISTE, POPO SUPERMARKET ET LES ALENTOURS",
+      "district": "pamplemousses",
+      "from": "2024-03-06T06:10:00.000Z",
+      "to": "2024-03-06T08:15:00.000Z",
+      "id": "f6e9209499d9d418cabeeb67b8446bdc"
+    },
+    {
+      "date": "Le mercredi 6 mars 2024 de  14:30:00 à  17:30:00",
+      "locality": "CREVE COEUR",
+      "localitySlug": "creve-coeur",
+      "streets": "CREVE COEUR",
+      "district": "pamplemousses",
+      "from": "2024-03-06T10:30:00.000Z",
+      "to": "2024-03-06T13:30:00.000Z",
+      "id": "320d057ce90e941c4f59f1a8956b6bba"
+    },
+    {
+      "date": "Le mercredi 6 mars 2024 de  16:35:00 à  17:35:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "LES ABONNES DE MORC BLUEPRINT No 2.",
+      "district": "plainewilhems",
+      "from": "2024-03-06T12:35:00.000Z",
+      "to": "2024-03-06T13:35:00.000Z",
+      "id": "530f811826a4e86f1da3a1bdeb7a4e95"
+    },
+    {
+      "date": "Le mercredi 6 mars 2024 de  17:00:00 à  21:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "MORCELLEMENT LA CONFIANCE BEAU BASSIN",
+      "district": "plainewilhems",
+      "from": "2024-03-06T13:00:00.000Z",
+      "to": "2024-03-06T17:00:00.000Z",
+      "id": "ee41f0b7ef6ef0bfd25d086f757b8703"
+    },
+    {
+      "date": "Le mercredi 6 mars 2024 de  18:15:00 à  19:00:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": "LE RUE GIQUEL EAU COULEE.",
+      "district": "plainewilhems",
+      "from": "2024-03-06T14:15:00.000Z",
+      "to": "2024-03-06T15:00:00.000Z",
+      "id": "00c9083fb8d5061e2901f442d73913d5"
+    },
+    {
+      "date": "Le mercredi 6 mars 2024 de  21:45:00 à  22:45:00",
+      "locality": "CITE LA CURE",
+      "localitySlug": "cite-la-cure",
+      "streets": "NARBADA ROAD, ROBERT SCOTT ROAD",
+      "district": "portlouis",
+      "from": "2024-03-06T17:45:00.000Z",
+      "to": "2024-03-06T18:45:00.000Z",
+      "id": "5b5376ac074328200485c595ca7b25a2"
+    },
+    {
+      "date": "Le mercredi 6 mars 2024 de  11:00:00 à  14:00:00",
+      "locality": "GRANDE MONTAGNE(RODRIGUES)",
+      "localitySlug": "grande-montagne",
+      "streets": "Montagne Limon, Palissade, Nassola, Montagne Bois Noir, Montagne Malgache, Tambes, Grande Montagne, Petit Brule, Coromandel, Batatran, Graviers, Anse Femi, Var Brule,Bel Air,Riviere Banane,Trefle, Trois Soleil, Patate Theophile,Roche Bon Dieu,Saint Francois, Pointe Coton, Anse Ali et Montagne Cabris Est",
+      "district": "rodrigues",
+      "from": "2024-03-06T07:00:00.000Z",
+      "to": "2024-03-06T10:00:00.000Z",
+      "id": "8a734ff9ba94ea4d2ef8b373db7d1857"
+    }
+  ]
+}

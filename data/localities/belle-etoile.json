@@ -1,0 +1,25 @@
+{
+  "slug": "belle-etoile",
+  "name": "BELLE ETOILE",
+  "district": "plainewilhems",
+  "generated": "2025-12-29T20:14:25.903Z",
+  "outageCount": 2,
+  "firstOutage": "2022-11-24",
+  "lastOutage": "2025-08-06",
+  "outages": [
+    {
+      "date": "Le mercredi 6 août 2025 de  10:30:00 à  13:00:00",
+      "streets": "WHOLE REGION",
+      "from": "2025-08-06T06:30:00.000Z",
+      "to": "2025-08-06T09:00:00.000Z",
+      "id": "39da198daf1b2cbd8c7c8de6eab19d79"
+    },
+    {
+      "date": "Le jeudi 24 novembre 2022 de  07:00:00 à  09:00:00",
+      "streets": "ROYAL ROAD BELLE ETOILE",
+      "from": "2022-11-24T03:00:00.000Z",
+      "to": "2022-11-24T05:00:00.000Z",
+      "id": "aa2c09f0062dff84a61e40809dda3e64"
+    }
+  ]
+}

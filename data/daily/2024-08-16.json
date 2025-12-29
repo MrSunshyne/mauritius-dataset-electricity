@@ -1,0 +1,68 @@
+{
+  "date": "2024-08-16",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.823Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le vendredi 16 août 2024 de  08:30:00 à  16:30:00",
+      "locality": "LA PRENEUSE",
+      "localitySlug": "la-preneuse",
+      "streets": "LA PRENEUSE",
+      "district": "blackriver",
+      "from": "2024-08-16T04:30:00.000Z",
+      "to": "2024-08-16T12:30:00.000Z",
+      "id": "a9e8c97f1f1389ca07cdd1926e1bc475"
+    },
+    {
+      "date": "Le vendredi 16 août 2024 de  09:30:00 à  12:00:00",
+      "locality": "SEBASTOPOL",
+      "localitySlug": "sebastopol",
+      "streets": "Cent Gaulettes Road, Camp Bombay Road, Riverside Road et les ruelles avoisinantes",
+      "district": "flacq",
+      "from": "2024-08-16T05:30:00.000Z",
+      "to": "2024-08-16T08:00:00.000Z",
+      "id": "f9f711e717dc04fbf9c3706332f864e6"
+    },
+    {
+      "date": "Le vendredi 16 août 2024 de  12:00:00 à  16:00:00",
+      "locality": "MON GOUT",
+      "localitySlug": "mon-gout",
+      "streets": "MON GOUT, SHIVALA ROAD, UNE PARTIE DE MOUNT ET MAISON BLANCHESOFFICER: TO BUNGARADU",
+      "district": "pamplemousses",
+      "from": "2024-08-16T08:00:00.000Z",
+      "to": "2024-08-16T12:00:00.000Z",
+      "id": "d079da2bf872d4a11ef4e359b21d048d"
+    },
+    {
+      "date": "Le vendredi 16 août 2024 de  09:00:00 à  16:00:00",
+      "locality": "EBENE",
+      "localitySlug": "ebene",
+      "streets": "RUE DES AMOUREUX EBENE NR SSS",
+      "district": "plainewilhems",
+      "from": "2024-08-16T05:00:00.000Z",
+      "to": "2024-08-16T12:00:00.000Z",
+      "id": "d8e2b9908dcb1685b331558433c51ff0"
+    },
+    {
+      "date": "Le vendredi 16 août 2024 de  12:00:00 à  17:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "les abonnés de Morc Sagittaire  Pointe Aux Sables  habitant dans les environs des Rues : Cocotiers, St Anna, Amandier, Jacquier, Bibassier, Goyavier, Bananier, Chataignier, Figuier, Citronnier et  Cerisier",
+      "district": "portlouis",
+      "from": "2024-08-16T08:00:00.000Z",
+      "to": "2024-08-16T13:00:00.000Z",
+      "id": "01b737acc0ae0e4cb5eec85303b44a25"
+    },
+    {
+      "date": "Le vendredi 16 août 2024 de  19:47:00 à  00:30:00",
+      "locality": "CAP MALHEUREUX",
+      "localitySlug": "cap-malheureux",
+      "streets": "Bain Boeuf,Pavillon & Cap Malheureux",
+      "district": "rivieredurempart",
+      "from": "2024-08-16T15:47:00.000Z",
+      "to": "2024-08-15T20:30:00.000Z",
+      "id": "cdfb39f87164c65620be9c4f11fba8b6"
+    }
+  ]
+}

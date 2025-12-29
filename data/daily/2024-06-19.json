@@ -1,0 +1,88 @@
+{
+  "date": "2024-06-19",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.818Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le mercredi 19 juin 2024 de  12:30:00 à  14:00:00",
+      "locality": "COTE D-OR",
+      "localitySlug": "cote-d-or",
+      "streets": "VRS COTE D-OR",
+      "district": "moka",
+      "from": "2024-06-19T08:30:00.000Z",
+      "to": "2024-06-19T10:00:00.000Z",
+      "id": "3d3d0b44d34311000eeb2f4992e2b838"
+    },
+    {
+      "date": "Le mercredi 19 juin 2024 de  12:30:00 à  17:30:00",
+      "locality": "MONTAGNE ORY",
+      "localitySlug": "montagne-ory",
+      "streets": "MONTAGNE ORY",
+      "district": "moka",
+      "from": "2024-06-19T08:30:00.000Z",
+      "to": "2024-06-19T13:30:00.000Z",
+      "id": "82fa2f86749357c0c5699efd471dfe4c"
+    },
+    {
+      "date": "Le mercredi 19 juin 2024 de  08:30:00 à  15:00:00",
+      "locality": "D-EPINAY",
+      "localitySlug": "d-epinay",
+      "streets": "DEPINAY, FAMILY SUPERMARKET & PART OF ILOT",
+      "district": "pamplemousses",
+      "from": "2024-06-19T04:30:00.000Z",
+      "to": "2024-06-19T11:00:00.000Z",
+      "id": "71e41f1945faee989cade23be2543925"
+    },
+    {
+      "date": "Le mercredi 19 juin 2024 de  11:30:00 à  13:30:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "CLUB HIPPIQUE FLOREAL",
+      "district": "plainewilhems",
+      "from": "2024-06-19T07:30:00.000Z",
+      "to": "2024-06-19T09:30:00.000Z",
+      "id": "cc727d0bca323e82cca776b55254ba06"
+    },
+    {
+      "date": "Le mercredi 19 juin 2024 de  17:15:00 à  18:00:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "AVE MACHINE,AVE COSSEAL,IRRIGATION ,BASSIN AND NEARBY REGION",
+      "district": "plainewilhems",
+      "from": "2024-06-19T13:15:00.000Z",
+      "to": "2024-06-19T14:00:00.000Z",
+      "id": "65f1e8e4bc839160eeebbd475ed28a74"
+    },
+    {
+      "date": "Le mercredi 19 juin 2024 de  10:00:00 à  12:45:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "Nr Police Station,Talipots Street",
+      "district": "portlouis",
+      "from": "2024-06-19T06:00:00.000Z",
+      "to": "2024-06-19T08:45:00.000Z",
+      "id": "841995068e5a8446427643fc771c6ddc"
+    },
+    {
+      "date": "Le mercredi 19 juin 2024 de  10:00:00 à  11:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "Morc Geranium",
+      "district": "rivieredurempart",
+      "from": "2024-06-19T06:00:00.000Z",
+      "to": "2024-06-19T07:00:00.000Z",
+      "id": "18a93b6dbcc198110c899b4715e8ec2d"
+    },
+    {
+      "date": "Le mercredi 19 juin 2024 de  09:00:00 à  15:00:00",
+      "locality": "RIAMBEL",
+      "localitySlug": "riambel",
+      "streets": "Riambel Surinam, Morcellement Thanacoody, Morcellement Lai Moon, NHDC Riambel et Riambel Coast Road",
+      "district": "savanne",
+      "from": "2024-06-19T05:00:00.000Z",
+      "to": "2024-06-19T11:00:00.000Z",
+      "id": "2632bcb269a1ebd18ae34c6574c9c9e5"
+    }
+  ]
+}

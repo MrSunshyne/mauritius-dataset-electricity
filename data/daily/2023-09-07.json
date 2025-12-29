@@ -1,0 +1,58 @@
+{
+  "date": "2023-09-07",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.796Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le jeudi 7 septembre 2023 de  12:00:00 à  15:00:00",
+      "locality": "QUARTIER MILITAIRE",
+      "localitySlug": "quartier-militaire",
+      "streets": "Les abonnés du village de Quartier Militaire habitant les rues et les régions suivantes : Shivala Road, Cité Padco, Cité Ravaton, Route Royale de Quartier Militaire et les ruelles avoisinantes",
+      "district": "moka",
+      "from": "2023-09-07T08:00:00.000Z",
+      "to": "2023-09-07T11:00:00.000Z",
+      "id": "ad03ec0bcde2213cc21034046c65701c"
+    },
+    {
+      "date": "Le jeudi 7 septembre 2023 de  14:15:00 à  15:45:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "LES ABONNES DE ROSALIE, MOUNT ET MON PITON.",
+      "district": "pamplemousses",
+      "from": "2023-09-07T10:15:00.000Z",
+      "to": "2023-09-07T11:45:00.000Z",
+      "id": "103907f1abdf9f5a73a2730cadfe749d"
+    },
+    {
+      "date": "Le jeudi 7 septembre 2023 de  16:00:00 à  17:30:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "VIKASH BUILDING 7EME MILLE TRIOLET",
+      "district": "pamplemousses",
+      "from": "2023-09-07T12:00:00.000Z",
+      "to": "2023-09-07T13:30:00.000Z",
+      "id": "ecf674973e006cd5609a937b896cc26c"
+    },
+    {
+      "date": "Le jeudi 7 septembre 2023 de  13:00:00 à  17:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Les abonnes de Allee Brilliant Vacoas habitant dans les regions suivantes : une partie de Hanoomanjee Lane, une partie de Espitalier Noel St, Suroop Lane, Morcellement dHotman et les environs.",
+      "district": "plainewilhems",
+      "from": "2023-09-07T09:00:00.000Z",
+      "to": "2023-09-07T13:00:00.000Z",
+      "id": "4261e1b151916935e7631635852473f1"
+    },
+    {
+      "date": "Le jeudi 7 septembre 2023 de  09:00:00 à  16:00:00",
+      "locality": "BEL OMBRE",
+      "localitySlug": "bel-ombre",
+      "streets": "Bel Ombre et St. Martin Baie Du Cap",
+      "district": "savanne",
+      "from": "2023-09-07T05:00:00.000Z",
+      "to": "2023-09-07T12:00:00.000Z",
+      "id": "574ba3c4298d038f0f247d4ee256c41c"
+    }
+  ]
+}

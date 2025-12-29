@@ -1,0 +1,68 @@
+{
+  "date": "2023-10-19",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.799Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le jeudi 19 octobre 2023 de  09:30:00 à  14:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "Camp Creole et main road Berlot",
+      "district": "blackriver",
+      "from": "2023-10-19T05:30:00.000Z",
+      "to": "2023-10-19T10:00:00.000Z",
+      "id": "55ff1378893c3546e93e6e9ae8ce13c4"
+    },
+    {
+      "date": "Le jeudi 19 octobre 2023 de  15:30:00 à  19:00:00",
+      "locality": "CASCAVEL",
+      "localitySlug": "cascavel",
+      "streets": "CWA CASCAVELLE, WEST COAST INTERNATIONAL SCHOOL ET SPARC SPORTS COMPLEX",
+      "district": "blackriver",
+      "from": "2023-10-19T11:30:00.000Z",
+      "to": "2023-10-19T15:00:00.000Z",
+      "id": "60aa680c99f37df196f9c1bcc8f8bbc0"
+    },
+    {
+      "date": "Le jeudi 19 octobre 2023 de  12:00:00 à  13:00:00",
+      "locality": "16EME MILE",
+      "localitySlug": "16eme-mile",
+      "streets": "coriolis 16eme mile,store dream price",
+      "district": "plainewilhems",
+      "from": "2023-10-19T08:00:00.000Z",
+      "to": "2023-10-19T09:00:00.000Z",
+      "id": "f98e73772a69b57359b09f2887028a8d"
+    },
+    {
+      "date": "Le jeudi 19 octobre 2023 de  14:15:00 à  15:00:00",
+      "locality": "QUATRE CARREAUX",
+      "localitySlug": "quatre-carreaux",
+      "streets": "UNE PARTIE DE QUATRE CARREAUX EN DIRECTION DE EAU COULEE.",
+      "district": "plainewilhems",
+      "from": "2023-10-19T10:15:00.000Z",
+      "to": "2023-10-19T11:00:00.000Z",
+      "id": "0c0d4784f088f49030f2842e873edfbc"
+    },
+    {
+      "date": "Le jeudi 19 octobre 2023 de  10:30:00 à  12:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "BALKAN RD VERS BAHADOOR RD",
+      "district": "rivieredurempart",
+      "from": "2023-10-19T06:30:00.000Z",
+      "to": "2023-10-19T08:00:00.000Z",
+      "id": "5eb7b1a5ae1e7190150679a16178bd88"
+    },
+    {
+      "date": "Le jeudi 19 octobre 2023 de  12:15:00 à  13:30:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "NEW MORC,MEDICLINIC",
+      "district": "rivieredurempart",
+      "from": "2023-10-19T08:15:00.000Z",
+      "to": "2023-10-19T09:30:00.000Z",
+      "id": "4458c2e4f12005bac3ed69625513b0c9"
+    }
+  ]
+}

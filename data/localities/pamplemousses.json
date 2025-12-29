@@ -1,0 +1,382 @@
+{
+  "slug": "pamplemousses",
+  "name": "PAMPLEMOUSSES",
+  "district": "pamplemousses",
+  "generated": "2025-12-29T20:14:26.113Z",
+  "outageCount": 53,
+  "firstOutage": "2022-05-08",
+  "lastOutage": "2025-10-07",
+  "outages": [
+    {
+      "date": "Le mardi 7 octobre 2025 de  10:40:00 à  11:45:00",
+      "streets": "CITE EDC",
+      "from": "2025-10-07T06:40:00.000Z",
+      "to": "2025-10-07T07:45:00.000Z",
+      "id": "7e228da65a5bf575a42f3fb706928c77"
+    },
+    {
+      "date": "Le samedi 20 septembre 2025 de  09:00:00 à  14:30:00",
+      "streets": "Dans les environs de Morc Ripailles, Route royale et lEcole Hampstaed",
+      "from": "2025-09-20T05:00:00.000Z",
+      "to": "2025-09-20T10:30:00.000Z",
+      "id": "ab32204dffee7e0494055cb24ffaebcd"
+    },
+    {
+      "date": "Le vendredi 19 septembre 2025 de  10:25:00 à  11:30:00",
+      "streets": "Royal Road,Pamplemousses",
+      "from": "2025-09-19T06:25:00.000Z",
+      "to": "2025-09-19T07:30:00.000Z",
+      "id": "221b8f9b854cf527b6a43af5701daf19"
+    },
+    {
+      "date": "Le jeudi 18 septembre 2025 de  21:00:00 à  22:00:00",
+      "streets": "BOIS MANGUES,P D PAPAYES,TRIOLET,SOLITUDE",
+      "from": "2025-09-18T17:00:00.000Z",
+      "to": "2025-09-18T18:00:00.000Z",
+      "id": "782e13eb51ee8e9c0059fa5e3249ac40"
+    },
+    {
+      "date": "Le mardi 1 juillet 2025 de  20:00:00 à  23:00:00",
+      "streets": "INDEPENDANCE, PAUL & VIRGINIE, MORRISSON, POWDER MILL RD CWA AND SURROUNDINGS",
+      "from": "2025-07-01T16:00:00.000Z",
+      "to": "2025-07-01T19:00:00.000Z",
+      "id": "2884349511e7599c45b74364546a4762"
+    },
+    {
+      "date": "Le jeudi 3 avril 2025 de  10:15:00 à  11:15:00",
+      "streets": "RUE INDEPENDENCE ET MORC DANS LES ALENTOURS",
+      "from": "2025-04-03T06:15:00.000Z",
+      "to": "2025-04-03T07:15:00.000Z",
+      "id": "6b4a07e139bc3cc1a5e88c7d4691705c"
+    },
+    {
+      "date": "Le vendredi 21 février 2025 de  17:30:00 à  18:30:00",
+      "streets": "LA LOUISA,ENTIRE PAMPLEMOUSSES",
+      "from": "2025-02-21T13:30:00.000Z",
+      "to": "2025-02-21T14:30:00.000Z",
+      "id": "eabfa32846e44fea6d3afaad2cc43350"
+    },
+    {
+      "date": "Le vendredi 7 février 2025 de  15:00:00 à  19:30:00",
+      "streets": "MORCELLEMENT RIPAILLES PAMPLEMOUSSES.",
+      "from": "2025-02-07T11:00:00.000Z",
+      "to": "2025-02-07T15:30:00.000Z",
+      "id": "56a18dd9f36bd13820e5bbe2fd37df3b"
+    },
+    {
+      "date": "Le vendredi 31 janvier 2025 de  09:30:00 à  16:00:00",
+      "streets": "BOIS ROUGE, MORCELLEMENT VRS, MONT GOUT, COURT OF PAMPLEMOUSSES AND PART OF PAMPLEMOUSSES AREA",
+      "from": "2025-01-31T05:30:00.000Z",
+      "to": "2025-01-31T12:00:00.000Z",
+      "id": "28073542903f38c2aaa03b5360533d23"
+    },
+    {
+      "date": "Le jeudi 16 janvier 2025 de  15:00:00 à  16:00:00",
+      "streets": "BOIS ROUGE, BEAU PLAN, MON GOUT, MOUNT, PAMPLEMOUSSES",
+      "from": "2025-01-16T11:00:00.000Z",
+      "to": "2025-01-16T12:00:00.000Z",
+      "id": "e3f3b0239cae7d1544177cb2bb94f7ec"
+    },
+    {
+      "date": "Le samedi 11 janvier 2025 de  09:30:00 à  12:00:00",
+      "streets": "CITE EDC PAMPLEMOUSSES",
+      "from": "2025-01-11T05:30:00.000Z",
+      "to": "2025-01-11T08:00:00.000Z",
+      "id": "672b63ad7ff095785cd46a20f1cf0e54"
+    },
+    {
+      "date": "Le lundi 6 janvier 2025 de  17:00:00 à  22:00:00",
+      "streets": "MORCELLEMENT MAISON BLANCHE.",
+      "from": "2025-01-06T13:00:00.000Z",
+      "to": "2025-01-06T18:00:00.000Z",
+      "id": "fc34054881739bfd5d4db28ddf176f0a"
+    },
+    {
+      "date": "Le jeudi 26 décembre 2024 de  09:00:00 à  11:00:00",
+      "streets": "BOIS PIGNOLET-BOIS ROUGE-LA LOUISA-POWDER MILL-PAMPLEMOUSSES",
+      "from": "2024-12-26T05:00:00.000Z",
+      "to": "2024-12-26T07:00:00.000Z",
+      "id": "27210dc23af393012577f7c248a25131"
+    },
+    {
+      "date": "Le samedi 5 octobre 2024 de  09:00:00 à  15:00:00",
+      "streets": "PAMPLEMOUSSES ET LES ENVIRON DE CANTONANCY",
+      "from": "2024-10-05T05:00:00.000Z",
+      "to": "2024-10-05T11:00:00.000Z",
+      "id": "8fe10647a54cccdf7ac8b24aa6ec6a14"
+    },
+    {
+      "date": "Le mercredi 2 octobre 2024 de  09:00:00 à  16:00:00",
+      "streets": "PAMPLEMOUSEES, LES ENVIRON DE CANTONANCY ET CAMP DES EMBREVADES",
+      "from": "2024-10-02T05:00:00.000Z",
+      "to": "2024-10-02T12:00:00.000Z",
+      "id": "60eecdc4b73e5884f5a03edbc39a21bc"
+    },
+    {
+      "date": "Le dimanche 22 septembre 2024 de  14:30:00 à  15:30:00",
+      "streets": "Cite CHA, Maison Blanche et Centre Social de Pamplemousses",
+      "from": "2024-09-22T10:30:00.000Z",
+      "to": "2024-09-22T11:30:00.000Z",
+      "id": "b04e8a5734257aa536c48c10cd422c72"
+    },
+    {
+      "date": "Le dimanche 22 septembre 2024 de  08:30:00 à  09:30:00",
+      "streets": "Cite CHA, Maison Blanche et Centre Social de Pamplemousses",
+      "from": "2024-09-22T04:30:00.000Z",
+      "to": "2024-09-22T05:30:00.000Z",
+      "id": "4b87862471b2539b0ebdf5a22a4531ad"
+    },
+    {
+      "date": "Le samedi 14 septembre 2024 de  12:00:00 à  14:00:00",
+      "streets": "ROYAL ROAD, INDEPENDENCE RD, PART OF ONE WAY AND SURROUNDINGS",
+      "from": "2024-09-14T08:00:00.000Z",
+      "to": "2024-09-14T10:00:00.000Z",
+      "id": "fb32804bc788d11ed4c7b3bd6df79d00"
+    },
+    {
+      "date": "Le jeudi 12 septembre 2024 de  14:00:00 à  16:00:00",
+      "streets": "WHOLE OF PAMPLEMOUSSES.",
+      "from": "2024-09-12T10:00:00.000Z",
+      "to": "2024-09-12T12:00:00.000Z",
+      "id": "6e3e520e3f21ef67042bcc62a76e7558"
+    },
+    {
+      "date": "Le mardi 6 août 2024 de  09:00:00 à  13:00:00",
+      "streets": "CAMP DES EMBREVADES",
+      "from": "2024-08-06T05:00:00.000Z",
+      "to": "2024-08-06T09:00:00.000Z",
+      "id": "6be8f1fb2dd2d930da6d572e81de6ae7"
+    },
+    {
+      "date": "Le lundi 22 juillet 2024 de  11:30:00 à  15:30:00",
+      "streets": "CANTON NANCY,CAMP DES EMBREVADES,BELLE SOURCE.",
+      "from": "2024-07-22T07:30:00.000Z",
+      "to": "2024-07-22T11:30:00.000Z",
+      "id": "f23166fb15aefc496e24dab2a1b60fcc"
+    },
+    {
+      "date": "Le samedi 11 mai 2024 de  08:45:00 à  15:00:00",
+      "streets": "BELLE SOURCE, CANTON BEL EAU, CANTON NANCY, CAMP DES EMBREVADES",
+      "from": "2024-05-11T04:45:00.000Z",
+      "to": "2024-05-11T11:00:00.000Z",
+      "id": "67c91dcf07df1e2e707d89bf191d167d"
+    },
+    {
+      "date": "Le mardi 30 avril 2024 de  13:15:00 à  14:00:00",
+      "streets": "UNE PARTIE DE PAMPLEMOUSSES, ARSENAL ET KHOYRATTY ENTIEREMENT.",
+      "from": "2024-04-30T09:15:00.000Z",
+      "to": "2024-04-30T10:00:00.000Z",
+      "id": "70d0dc04e4d047c34f0c8bb1826f4feb"
+    },
+    {
+      "date": "Le vendredi 19 avril 2024 de  16:00:00 à  17:00:00",
+      "streets": "INDEPENDENCE ST ET LES ALENTOURS DE SBM",
+      "from": "2024-04-19T12:00:00.000Z",
+      "to": "2024-04-19T13:00:00.000Z",
+      "id": "78088dc450a23e1052f809092982b33e"
+    },
+    {
+      "date": "Le mercredi 10 avril 2024 de  13:00:00 à  14:00:00",
+      "streets": "ROYAL RD PAMPLEMOUSSES NR CEB",
+      "from": "2024-04-10T09:00:00.000Z",
+      "to": "2024-04-10T10:00:00.000Z",
+      "id": "017b9a63820d73103402abde08f325e6"
+    },
+    {
+      "date": "Le samedi 16 mars 2024 de  10:30:00 à  14:00:00",
+      "streets": "REGION PAMPLEMOUSSES,BEAU PLAN,MOUNT",
+      "from": "2024-03-16T06:30:00.000Z",
+      "to": "2024-03-16T10:00:00.000Z",
+      "id": "215c1238d6c831747177bc3367217bf3"
+    },
+    {
+      "date": "Le samedi 16 mars 2024 de  10:00:00 à  14:00:00",
+      "streets": "PAMPLEMOUSSES",
+      "from": "2024-03-16T06:00:00.000Z",
+      "to": "2024-03-16T10:00:00.000Z",
+      "id": "a30fd168306d9e63c52a56b45400dcb9"
+    },
+    {
+      "date": "Le jeudi 7 mars 2024 de  13:00:00 à  15:00:00",
+      "streets": "MORC RIVERSIDE, ROYAL ROAD ET LES ALENTOURS DE PATISSERIE",
+      "from": "2024-03-07T09:00:00.000Z",
+      "to": "2024-03-07T11:00:00.000Z",
+      "id": "01b12634b6295a9d4ac16e8e286b46f7"
+    },
+    {
+      "date": "Le mardi 27 février 2024 de  14:50:00 à  16:50:00",
+      "streets": "ROYAL RD PAMPLEMOUSSES ENVIRONS LEGLISE",
+      "from": "2024-02-27T10:50:00.000Z",
+      "to": "2024-02-27T12:50:00.000Z",
+      "id": "1cfadfde32e79a8cb890d0163001bd08"
+    },
+    {
+      "date": "Le dimanche 18 février 2024 de  14:40:00 à  16:00:00",
+      "streets": "CITE EDC PAMPLEMOUSSES",
+      "from": "2024-02-18T10:40:00.000Z",
+      "to": "2024-02-18T12:00:00.000Z",
+      "id": "83d161b9058c6d1602ac937005f64a72"
+    },
+    {
+      "date": "Le mardi 6 février 2024 de  07:40:00 à  22:30:00",
+      "streets": "PAMPLEMOUSSES, CAMP DES AMBREVADES, CANTON NANCY, BOIS ROUGE",
+      "from": "2024-02-06T03:40:00.000Z",
+      "to": "2024-02-06T18:30:00.000Z",
+      "id": "97fc41383644f277ad8385116c948176"
+    },
+    {
+      "date": "Le vendredi 12 janvier 2024 de  15:15:00 à  16:45:00",
+      "streets": "LES HABITANTS DE MORC MAISON BLANCHE, PAMPLEMOUSSES.",
+      "from": "2024-01-12T11:15:00.000Z",
+      "to": "2024-01-12T12:45:00.000Z",
+      "id": "3a2d18f608f5d218fc7f6ee73388bfe1"
+    },
+    {
+      "date": "Le vendredi 5 janvier 2024 de  10:30:00 à  19:00:00",
+      "streets": "RIVIERRE CITRONDIALYSIS CENTER ET LES RUELLES AVOISINANTE",
+      "from": "2024-01-05T06:30:00.000Z",
+      "to": "2024-01-05T15:00:00.000Z",
+      "id": "fe6fd47d5ca324e33316f0025eebb659"
+    },
+    {
+      "date": "Le mercredi 13 décembre 2023 de  14:30:00 à  16:30:00",
+      "streets": "MORC MAISON BLANCHE PAMPLEMOUSSES ET LES ALENTOURS DE LA COUR DE PAMPLEMOUSSES",
+      "from": "2023-12-13T10:30:00.000Z",
+      "to": "2023-12-13T12:30:00.000Z",
+      "id": "bffcfd142f379931dbc1bc1652e27139"
+    },
+    {
+      "date": "Le mercredi 13 décembre 2023 de  09:15:00 à  16:00:00",
+      "streets": "PAMPLEMOUSSES ET CALEBASSE DANS LES ENVIRONS DU DISTRICT COUNCIL",
+      "from": "2023-12-13T05:15:00.000Z",
+      "to": "2023-12-13T12:00:00.000Z",
+      "id": "ca6519e10d4acf90b5a5c0a784f2f9cb"
+    },
+    {
+      "date": "Le mercredi 13 décembre 2023 de  09:00:00 à  16:00:00",
+      "streets": "Beau Plan Area, Pamplemousses Area, Around SSR Botanical Garden",
+      "from": "2023-12-13T05:00:00.000Z",
+      "to": "2023-12-13T12:00:00.000Z",
+      "id": "8cdc4d4cb1d5af800b0dcb9a6e34084d"
+    },
+    {
+      "date": "Le lundi 11 décembre 2023 de  20:30:00 à  22:00:00",
+      "streets": "PAMPLEMOUSSES -MOUNT",
+      "from": "2023-12-11T16:30:00.000Z",
+      "to": "2023-12-11T18:00:00.000Z",
+      "id": "f59ec5df43d34a5263d1ed898caf5ff1"
+    },
+    {
+      "date": "Le lundi 27 novembre 2023 de  08:30:00 à  10:00:00",
+      "streets": "PAMPLEMOUSSES MAISON BLANCHE, EN UNE PARTIE DE MON GOUT",
+      "from": "2023-11-27T04:30:00.000Z",
+      "to": "2023-11-27T06:00:00.000Z",
+      "id": "c590afb2c20dccf3749dd6ac55e75203"
+    },
+    {
+      "date": "Le samedi 21 octobre 2023 de  11:00:00 à  13:00:00",
+      "streets": "CANTONANCY PAMPLEMOUSSES",
+      "from": "2023-10-21T07:00:00.000Z",
+      "to": "2023-10-21T09:00:00.000Z",
+      "id": "b1b9a7580e54f4ea3b839604c3f14275"
+    },
+    {
+      "date": "Le jeudi 5 octobre 2023 de  15:45:00 à  17:00:00",
+      "streets": "POWDER MILL PAMPLEMOUSSES",
+      "from": "2023-10-05T11:45:00.000Z",
+      "to": "2023-10-05T13:00:00.000Z",
+      "id": "b6ea2373985c10b95ee44ff8e6175fcb"
+    },
+    {
+      "date": "Le mardi 19 septembre 2023 de  15:15:00 à  19:00:00",
+      "streets": "MONT GOUT REGION, CALEBASSES REGION, MOUNT REGION, BEAU PLAN REGION, PAMPLEMOUSSES REGION. (FEEDER TRIPPED)",
+      "from": "2023-09-19T11:15:00.000Z",
+      "to": "2023-09-19T15:00:00.000Z",
+      "id": "9b9538ac1ce40b9614caff9f09c2182d"
+    },
+    {
+      "date": "Le dimanche 17 septembre 2023 de  08:30:00 à  14:00:00",
+      "streets": "Les abonnés de Maison Blanche, Morc Maison Blanche, VRS Maison Blanche, Morc Jokhoo et dans les environs de la Cours De Justice De Pamplemousses",
+      "from": "2023-09-17T04:30:00.000Z",
+      "to": "2023-09-17T10:00:00.000Z",
+      "id": "b8d4a51aa83a3db3a1584126ba0f8ff8"
+    },
+    {
+      "date": "Le jeudi 7 septembre 2023 de  14:15:00 à  15:45:00",
+      "streets": "LES ABONNES DE ROSALIE, MOUNT ET MON PITON.",
+      "from": "2023-09-07T10:15:00.000Z",
+      "to": "2023-09-07T11:45:00.000Z",
+      "id": "103907f1abdf9f5a73a2730cadfe749d"
+    },
+    {
+      "date": "Le vendredi 28 juillet 2023 de  10:00:00 à  13:30:00",
+      "streets": "Camp des Embrevades",
+      "from": "2023-07-28T06:00:00.000Z",
+      "to": "2023-07-28T09:30:00.000Z",
+      "id": "6434d51fc1fcd3b0c7171a3d77aebc25"
+    },
+    {
+      "date": "Le dimanche 16 juillet 2023 de  08:00:00 à  15:00:00",
+      "streets": "LES ABONNES DE CAMP DES EMBREVADES.",
+      "from": "2023-07-16T04:00:00.000Z",
+      "to": "2023-07-16T11:00:00.000Z",
+      "id": "4b7736cccdcdb74e889c8df769117ba1"
+    },
+    {
+      "date": "Le samedi 15 juillet 2023 de  08:30:00 à  15:00:00",
+      "streets": "LES  ABONNES DE CAMP DES EMBREVADES ET CANTON NANCY.",
+      "from": "2023-07-15T04:30:00.000Z",
+      "to": "2023-07-15T11:00:00.000Z",
+      "id": "3ed56e7d0942b1c7dc964d8767c60006"
+    },
+    {
+      "date": "Le vendredi 21 avril 2023 de  12:50:00 à  15:30:00",
+      "streets": "TX CWA PAMPLEMOUSSES",
+      "from": "2023-04-21T08:50:00.000Z",
+      "to": "2023-04-21T11:30:00.000Z",
+      "id": "e18fce7dbac5c2995970c89fbec7f189"
+    },
+    {
+      "date": "Le jeudi 13 avril 2023 de  14:30:00 à  16:00:00",
+      "streets": "Pamplemousses, Calebasse, Khoyratty, Notre-Dame, Montagne Longue, Creve Coeur, Camp La Boue",
+      "from": "2023-04-13T10:30:00.000Z",
+      "to": "2023-04-13T12:00:00.000Z",
+      "id": "dcbeeb72b83056de596a2913f6ea8bd7"
+    },
+    {
+      "date": "Le samedi 18 mars 2023 de  15:05:00 à  17:15:00",
+      "streets": "MORISSON,SERES,ALENTOUR JARDIN",
+      "from": "2023-03-18T11:05:00.000Z",
+      "to": "2023-03-18T13:15:00.000Z",
+      "id": "16b85f863a225969d4f78d65df09b00b"
+    },
+    {
+      "date": "Le dimanche 18 septembre 2022 de  14:00:00 à  15:00:00",
+      "streets": "Les abonnés habitant dès Pamplemousses dans les environs de Morcellement Maison Blanche, EDC, Canton Bel Eau, Canton Nancy, Résidence Nénuphar, Morcellement Sekdaur, Camp Des Embrevades et Bois Rouge Village",
+      "from": "2022-09-18T10:00:00.000Z",
+      "to": "2022-09-18T11:00:00.000Z",
+      "id": "f427a9eae3626fc5d7fd7bb21ff6b857"
+    },
+    {
+      "date": "Le dimanche 18 septembre 2022 de  07:00:00 à  08:00:00",
+      "streets": "Les abonnés habitant dès Pamplemousses dans les environs de Morcellement Maison Blanche, EDC, Canton Bel Eau, Canton Nancy, Résidence Nénuphar, Morcellement Sekdaur, Camp Des Embrevades et Bois Rouge Village",
+      "from": "2022-09-18T03:00:00.000Z",
+      "to": "2022-09-18T04:00:00.000Z",
+      "id": "18c4f1944521c1f5665c65be9452e2ca"
+    },
+    {
+      "date": "Le mercredi 18 mai 2022 de  13:00:00 à  15:00:00",
+      "streets": "MAISON BLANCHE PAMPLEMOUSSES",
+      "from": "2022-05-18T09:00:00.000Z",
+      "to": "2022-05-18T11:00:00.000Z",
+      "id": "5fd9a8b179a03f653e344459fe9ac7f8"
+    },
+    {
+      "date": "Le dimanche 8 mai 2022 de  08:30:00 à  15:30:00",
+      "streets": "Les abonnés de La Baie, Petit Gamin Village et Le Goulet",
+      "from": "2022-05-08T04:30:00.000Z",
+      "to": "2022-05-08T11:30:00.000Z",
+      "id": "0828c6ecfc73c8d65e21f4eacb4b4bf4"
+    }
+  ]
+}

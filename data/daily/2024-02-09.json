@@ -1,0 +1,48 @@
+{
+  "date": "2024-02-09",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.808Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le vendredi 9 février 2024 de  15:00:00 à  17:30:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "Morcellement Valaydon, Morcellement Piat et une partie de la route la Brasserie, Pont Carbonel",
+      "district": "plainewilhems",
+      "from": "2024-02-09T11:00:00.000Z",
+      "to": "2024-02-09T13:30:00.000Z",
+      "id": "a7949486889ae7fbdde75cebe6ba6a49"
+    },
+    {
+      "date": "Le vendredi 9 février 2024 de  09:00:00 à  12:00:00",
+      "locality": "SAINT FRANCOIS",
+      "localitySlug": "saint-francois",
+      "streets": "Saint Francois, Pointe Coton,Anse Ali et Morcellement Roche Bon Dieu",
+      "district": "portlouis",
+      "from": "2024-02-09T05:00:00.000Z",
+      "to": "2024-02-09T08:00:00.000Z",
+      "id": "717273cab146247691756e099f80ae24"
+    },
+    {
+      "date": "Le vendredi 9 février 2024 de  10:30:00 à  13:00:00",
+      "locality": "PLAINE VERTE",
+      "localitySlug": "plaine-verte",
+      "streets": "RUE AIL DORE-RUE CULCUTTA-RUE MADRAS PL VERTE",
+      "district": "portlouis",
+      "from": "2024-02-09T06:30:00.000Z",
+      "to": "2024-02-09T09:00:00.000Z",
+      "id": "8a1da24ce5dafd848982992f4a56cbfc"
+    },
+    {
+      "date": "Le vendredi 9 février 2024 de  09:00:00 à  12:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Saint Francois, Pointe Coton,Anse Ali et Morcellement Roche Bon Dieu",
+      "district": "rodrigues",
+      "from": "2024-02-09T05:00:00.000Z",
+      "to": "2024-02-09T08:00:00.000Z",
+      "id": "ddac5a94ab59f43e00561aa1fc8e785f"
+    }
+  ]
+}

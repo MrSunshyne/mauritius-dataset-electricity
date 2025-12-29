@@ -1,0 +1,25 @@
+{
+  "slug": "citronelle",
+  "name": "CITRONELLE(RODRIGUES)",
+  "district": "rodrigues",
+  "generated": "2025-12-29T20:14:25.973Z",
+  "outageCount": 2,
+  "firstOutage": "2024-06-20",
+  "lastOutage": "2025-12-06",
+  "outages": [
+    {
+      "date": "Le samedi 6 décembre 2025 de  08:30:00 à  15:00:00",
+      "streets": "Citronelle",
+      "from": "2025-12-06T04:30:00.000Z",
+      "to": "2025-12-06T11:00:00.000Z",
+      "id": "da54d5cd4ba160a9f0f9559cb2e9c491"
+    },
+    {
+      "date": "Le jeudi 20 juin 2024 de  08:00:00 à  12:00:00",
+      "streets": "Citronelle",
+      "from": "2024-06-20T04:00:00.000Z",
+      "to": "2024-06-20T08:00:00.000Z",
+      "id": "4439aff8519992e0c0b7100fd745824a"
+    }
+  ]
+}

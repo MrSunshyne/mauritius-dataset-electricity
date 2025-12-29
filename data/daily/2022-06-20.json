@@ -1,0 +1,78 @@
+{
+  "date": "2022-06-20",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.765Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le lundi 20 juin 2022 de  11:00:00 à  13:00:00",
+      "locality": "L-ASSURANCE",
+      "localitySlug": "l-assurance",
+      "streets": "MORC VRS,LASSURANCE",
+      "district": "moka",
+      "from": "2022-06-20T07:00:00.000Z",
+      "to": "2022-06-20T09:00:00.000Z",
+      "id": "bd6362f2a6ed2d1a62ccc0214c693179"
+    },
+    {
+      "date": "Le lundi 20 juin 2022 de  08:30:00 à  11:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Avenue Mudaliar, Route Wilson, Morcellement Sauba",
+      "district": "plainewilhems",
+      "from": "2022-06-20T04:30:00.000Z",
+      "to": "2022-06-20T07:30:00.000Z",
+      "id": "69da2f305d716b800cf5a52482bb07c8"
+    },
+    {
+      "date": "Le lundi 20 juin 2022 de  16:00:00 à  17:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Route Tranquille, Pave d’amour, une partie de Route Bonne Terre, une partie de Rue Mahant Kabir, Morcellement Coopérative, Cite-Rittoo, une partie de Clairfonds No. 3, une partie de Route Vingta No. 1, No. 2 et No. 3, une partie de Route Solferino No. 1, Modern square",
+      "district": "plainewilhems",
+      "from": "2022-06-20T12:00:00.000Z",
+      "to": "2022-06-20T13:30:00.000Z",
+      "id": "b5579ea962489b31a2ff3fc150e99e59"
+    },
+    {
+      "date": "Le lundi 20 juin 2022 de  10:00:00 à  11:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "MORC VRS,LE COCOTIER,CITRONNIER,P A SABLES",
+      "district": "portlouis",
+      "from": "2022-06-20T06:00:00.000Z",
+      "to": "2022-06-20T07:00:00.000Z",
+      "id": "40f54b93414874dde4331915eab39500"
+    },
+    {
+      "date": "Le lundi 20 juin 2022 de  12:10:00 à  13:00:00",
+      "locality": "TRANQUEBAR",
+      "localitySlug": "tranquebar",
+      "streets": "CHATEAU DEAU STREET",
+      "district": "portlouis",
+      "from": "2022-06-20T08:10:00.000Z",
+      "to": "2022-06-20T09:00:00.000Z",
+      "id": "b73ae888eb4866aac666ac3654a61cfd"
+    },
+    {
+      "date": "Le lundi 20 juin 2022 de  10:30:00 à  12:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "AVANT KOVIL JUSQUA PHARMACIE LO-G BAY",
+      "district": "rivieredurempart",
+      "from": "2022-06-20T06:30:00.000Z",
+      "to": "2022-06-20T08:00:00.000Z",
+      "id": "7b6586ced67baceb9dec042ab4ea0774"
+    },
+    {
+      "date": "Le lundi 20 juin 2022 de  13:15:00 à  14:15:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "IN VICINITY OF SSS G BAY",
+      "district": "rivieredurempart",
+      "from": "2022-06-20T09:15:00.000Z",
+      "to": "2022-06-20T10:15:00.000Z",
+      "id": "471ec9c0fef6e8a6d942b91cdcd822dc"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2024-08-05",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.821Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le lundi 5 août 2024 de  09:30:00 à  11:30:00",
+      "locality": "MONT IDA",
+      "localitySlug": "mont-ida",
+      "streets": "Village de Mont IDA (TX Allouette, Morc Sungkar)",
+      "district": "flacq",
+      "from": "2024-08-05T05:30:00.000Z",
+      "to": "2024-08-05T07:30:00.000Z",
+      "id": "fc98982eb4f05b1cade67adc07468214"
+    },
+    {
+      "date": "Le lundi 5 août 2024 de  15:45:00 à  18:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "Ligne berteau, Forest lane et les alentours",
+      "district": "plainewilhems",
+      "from": "2024-08-05T11:45:00.000Z",
+      "to": "2024-08-05T14:00:00.000Z",
+      "id": "ecb83d532261d20f0f0d0691026df710"
+    },
+    {
+      "date": "Le lundi 5 août 2024 de  16:30:00 à  18:00:00",
+      "locality": "CITE LA CURE",
+      "localitySlug": "cite-la-cure",
+      "streets": "CITE LACURE",
+      "district": "portlouis",
+      "from": "2024-08-05T12:30:00.000Z",
+      "to": "2024-08-05T14:00:00.000Z",
+      "id": "ddb96003134e339fc0d7a40ecd57ba96"
+    },
+    {
+      "date": "Le lundi 5 août 2024 de  14:20:00 à  18:30:00",
+      "locality": "MAPOU",
+      "localitySlug": "mapou",
+      "streets": "MAPOU LES FERRET",
+      "district": "rodrigues",
+      "from": "2024-08-05T10:20:00.000Z",
+      "to": "2024-08-05T14:30:00.000Z",
+      "id": "b6526e3d807ac346572c9a075092d453"
+    }
+  ]
+}

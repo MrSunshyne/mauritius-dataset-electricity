@@ -1,0 +1,28 @@
+{
+  "date": "2022-07-31",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.768Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le dimanche 31 juillet 2022 de  08:30:00 à  17:00:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "Mahebourg habitant dans le périmètre et les rues suivantes: Sivananda Street, La Passe Street, La Rue Maurice, Allée Geude Street, Ville Neuve Street, Logian Street, NHDC Mahebourg et Hollandais Street",
+      "district": "grandport",
+      "from": "2022-07-31T04:30:00.000Z",
+      "to": "2022-07-31T13:00:00.000Z",
+      "id": "c3121dcce074b4dfc2ac5eb1e42ca1fd"
+    },
+    {
+      "date": "Le dimanche 31 juillet 2022 de  08:30:00 à  17:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "NEW MORC ET ENVIRONS",
+      "district": "rivieredurempart",
+      "from": "2022-07-31T04:30:00.000Z",
+      "to": "2022-07-31T13:00:00.000Z",
+      "id": "1784102eb623556cdc6af3174317f7e4"
+    }
+  ]
+}

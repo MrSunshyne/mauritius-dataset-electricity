@@ -1,0 +1,28 @@
+{
+  "date": "2023-05-28",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.789Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le dimanche 28 mai 2023 de  15:50:00 à  17:50:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "REGION NEAR RESIDENCE MANGALKHAN AND GOVT SCHOOL",
+      "district": "plainewilhems",
+      "from": "2023-05-28T11:50:00.000Z",
+      "to": "2023-05-28T13:50:00.000Z",
+      "id": "4e7ef89a0a1173d0d0bb4f7c8364c906"
+    },
+    {
+      "date": "Le dimanche 28 mai 2023 de  15:30:00 à  16:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "POIVRE ST.PART OF R/RD",
+      "district": "plainewilhems",
+      "from": "2023-05-28T11:30:00.000Z",
+      "to": "2023-05-28T12:00:00.000Z",
+      "id": "0e6b4108ada2087e624218f22bac86e3"
+    }
+  ]
+}

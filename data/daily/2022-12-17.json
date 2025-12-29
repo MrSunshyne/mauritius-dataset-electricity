@@ -1,0 +1,88 @@
+{
+  "date": "2022-12-17",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.778Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le samedi 17 décembre 2022 de  15:30:00 à  17:00:00",
+      "locality": "POSTE LAFAYETTE",
+      "localitySlug": "poste-lafayette",
+      "streets": "COASTAL ROAD P LA FAYETTE,COASTAL ROAD R NOIRES",
+      "district": "flacq",
+      "from": "2022-12-17T11:30:00.000Z",
+      "to": "2022-12-17T13:00:00.000Z",
+      "id": "668641f704340d2b286c6b5be44cc550"
+    },
+    {
+      "date": "Le samedi 17 décembre 2022 de  13:15:00 à  14:30:00",
+      "locality": "BEAU VALLON",
+      "localitySlug": "beau-vallon",
+      "streets": "BEAU VALLON",
+      "district": "grandport",
+      "from": "2022-12-17T09:15:00.000Z",
+      "to": "2022-12-17T10:30:00.000Z",
+      "id": "a076b97ee784960091dd51226afb40ac"
+    },
+    {
+      "date": "Le samedi 17 décembre 2022 de  08:30:00 à  16:00:00",
+      "locality": "VERDUN",
+      "localitySlug": "verdun",
+      "streets": "VERDUN IN REGION EX POST OFFICE",
+      "district": "moka",
+      "from": "2022-12-17T04:30:00.000Z",
+      "to": "2022-12-17T12:00:00.000Z",
+      "id": "c006eac666e03fdd8c3a411e66c2d6c5"
+    },
+    {
+      "date": "Le samedi 17 décembre 2022 de  07:00:00 à  08:30:00",
+      "locality": "PLAINE DES PAPAYES",
+      "localitySlug": "plaine-des-papayes",
+      "streets": "Plaines des Papayes & Morc St Andre",
+      "district": "pamplemousses",
+      "from": "2022-12-17T03:00:00.000Z",
+      "to": "2022-12-17T04:30:00.000Z",
+      "id": "37daec412696267166ee0016afa92615"
+    },
+    {
+      "date": "Le samedi 17 décembre 2022 de  09:30:00 à  16:00:00",
+      "locality": "CLOSEL",
+      "localitySlug": "closel",
+      "streets": "MOMPLE,REY LENFERNA,BOBO AUGUSTE,ARBRE DU VOYAGEUR,MARIO",
+      "district": "plainewilhems",
+      "from": "2022-12-17T05:30:00.000Z",
+      "to": "2022-12-17T12:00:00.000Z",
+      "id": "8181dd3abe6a57330ac1a73f28fca020"
+    },
+    {
+      "date": "Le samedi 17 décembre 2022 de  16:00:00 à  18:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "CAMP CAVAL,ROBINSON",
+      "district": "plainewilhems",
+      "from": "2022-12-17T12:00:00.000Z",
+      "to": "2022-12-17T14:00:00.000Z",
+      "id": "3781dd255fd137e698fc1cddd2d796eb"
+    },
+    {
+      "date": "Le samedi 17 décembre 2022 de  08:30:00 à  12:00:00",
+      "locality": "TRANQUEBAR",
+      "localitySlug": "tranquebar",
+      "streets": "LES ABONNES HABITANT TRANQUEBAR DANS LES ENVIRONS DES RUES CHATEAU DÉAU, MAHATMA GANDHI, LANGLOIS ET PANDIT DHOORUNDHUR",
+      "district": "portlouis",
+      "from": "2022-12-17T04:30:00.000Z",
+      "to": "2022-12-17T08:00:00.000Z",
+      "id": "70b73a48a81027d16c31f825141c5a67"
+    },
+    {
+      "date": "Le samedi 17 décembre 2022 de  14:55:00 à  16:00:00",
+      "locality": "TRANQUEBAR",
+      "localitySlug": "tranquebar",
+      "streets": "MAHATMA GANDHI, LANGLOIS STREETS",
+      "district": "portlouis",
+      "from": "2022-12-17T10:55:00.000Z",
+      "to": "2022-12-17T12:00:00.000Z",
+      "id": "a9e4f6def98c9f4aca257ae516d0129a"
+    }
+  ]
+}

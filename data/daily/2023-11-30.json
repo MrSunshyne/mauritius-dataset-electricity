@@ -1,0 +1,38 @@
+{
+  "date": "2023-11-30",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.803Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le jeudi 30 novembre 2023 de  09:00:00 à  12:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "La Rue Lees de Curepipe habitant les régions et les rues suivantes: La Rue Henry et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-11-30T05:00:00.000Z",
+      "to": "2023-11-30T08:00:00.000Z",
+      "id": "d078c52c4df1b14a4e5e34dabda63db1"
+    },
+    {
+      "date": "Le jeudi 30 novembre 2023 de  08:30:00 à  16:30:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "Reservoir,Sibani,Verger,Sss,Royal & Bois Rouge Roads",
+      "district": "rivieredurempart",
+      "from": "2023-11-30T04:30:00.000Z",
+      "to": "2023-11-30T12:30:00.000Z",
+      "id": "adfa637fb955f939fe1bb0f01ab6911a"
+    },
+    {
+      "date": "Le jeudi 30 novembre 2023 de  20:00:00 à  23:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "PART OF MORC ST ANTOINE GOODLANDS.",
+      "district": "rivieredurempart",
+      "from": "2023-11-30T16:00:00.000Z",
+      "to": "2023-11-30T19:00:00.000Z",
+      "id": "6e1682b49fd335f045ce7f26b4b2d90c"
+    }
+  ]
+}

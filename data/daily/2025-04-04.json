@@ -1,0 +1,38 @@
+{
+  "date": "2025-04-04",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.840Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le vendredi 4 avril 2025 de  09:40:00 à  10:40:00",
+      "locality": "SEBASTOPOL",
+      "localitySlug": "sebastopol",
+      "streets": "PELLEGRIN",
+      "district": "flacq",
+      "from": "2025-04-04T05:40:00.000Z",
+      "to": "2025-04-04T06:40:00.000Z",
+      "id": "89c772e41284eb46054da7eccbfc53bd"
+    },
+    {
+      "date": "Le vendredi 4 avril 2025 de  10:20:00 à  13:00:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "M.GANDHI RD",
+      "district": "rivieredurempart",
+      "from": "2025-04-04T06:20:00.000Z",
+      "to": "2025-04-04T09:00:00.000Z",
+      "id": "f53e1c3559c2eadf9979292537688b62"
+    },
+    {
+      "date": "Le vendredi 4 avril 2025 de  08:30:00 à  15:00:00",
+      "locality": "MOUROUK(RODRIGUES)",
+      "localitySlug": "mourouk",
+      "streets": "Morcellement Songes, Songes, Port Sud Est,Montagne Cherie et Mourouck Anse Enfer",
+      "district": "rodrigues",
+      "from": "2025-04-04T04:30:00.000Z",
+      "to": "2025-04-04T11:00:00.000Z",
+      "id": "b9d4fb8488284e0a865af05b78cbc552"
+    }
+  ]
+}

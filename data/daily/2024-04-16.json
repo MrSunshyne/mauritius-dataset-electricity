@@ -1,0 +1,68 @@
+{
+  "date": "2024-04-16",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.813Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le mardi 16 avril 2024 de  08:30:00 à  16:30:00",
+      "locality": "LA PRENEUSE",
+      "localitySlug": "la-preneuse",
+      "streets": "LA PRENEUSE",
+      "district": "blackriver",
+      "from": "2024-04-16T04:30:00.000Z",
+      "to": "2024-04-16T12:30:00.000Z",
+      "id": "551dc1d7e7566dd5fe489de2ddad5097"
+    },
+    {
+      "date": "Le mardi 16 avril 2024 de  09:00:00 à  16:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "Morc Raffray, Ave Cutty Shark, Ave Victory, Ave Shebeck et les environs",
+      "district": "blackriver",
+      "from": "2024-04-16T05:00:00.000Z",
+      "to": "2024-04-16T12:00:00.000Z",
+      "id": "e7e974875451110bafc48714142af3de"
+    },
+    {
+      "date": "Le mardi 16 avril 2024 de  09:30:00 à  11:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "MORC SHEIKH DAWOOD BOIS PIGNOLET TERRE ROUGE",
+      "district": "pamplemousses",
+      "from": "2024-04-16T05:30:00.000Z",
+      "to": "2024-04-16T07:00:00.000Z",
+      "id": "ef78e9a0cef5f5c6d56ddcc6c44b4ebd"
+    },
+    {
+      "date": "Le mardi 16 avril 2024 de  11:00:00 à  12:30:00",
+      "locality": "CALEBASSES",
+      "localitySlug": "calebasses",
+      "streets": "ESPOIR RD CALEBASSES",
+      "district": "pamplemousses",
+      "from": "2024-04-16T07:00:00.000Z",
+      "to": "2024-04-16T08:30:00.000Z",
+      "id": "2ff11071120ef9ffc1f8a883abbaaf6d"
+    },
+    {
+      "date": "Le mardi 16 avril 2024 de  09:00:00 à  13:00:00",
+      "locality": "CAP MALHEUREUX",
+      "localitySlug": "cap-malheureux",
+      "streets": "PAVILLON RD CAP MALHEUREUX",
+      "district": "rivieredurempart",
+      "from": "2024-04-16T05:00:00.000Z",
+      "to": "2024-04-16T09:00:00.000Z",
+      "id": "34abff7c5e0336e68d737a78bc38d0bb"
+    },
+    {
+      "date": "Le mardi 16 avril 2024 de  10:00:00 à  15:00:00",
+      "locality": "L-ESCALIER",
+      "localitySlug": "l-escalier",
+      "streets": "STAFF QUARTERS LA BARRAK LESCALIER",
+      "district": "savanne",
+      "from": "2024-04-16T06:00:00.000Z",
+      "to": "2024-04-16T11:00:00.000Z",
+      "id": "5095285aee57479dd2bc838433d5e10a"
+    }
+  ]
+}

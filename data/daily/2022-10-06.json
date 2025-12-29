@@ -1,0 +1,58 @@
+{
+  "date": "2022-10-06",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.773Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le jeudi 6 octobre 2022 de  09:30:00 à  14:00:00",
+      "locality": "POSTE LAFAYETTE",
+      "localitySlug": "poste-lafayette",
+      "streets": "Coastal Road Near Jalsa Beach Hotel",
+      "district": "flacq",
+      "from": "2022-10-06T05:30:00.000Z",
+      "to": "2022-10-06T10:00:00.000Z",
+      "id": "7b3f99a2572f61dc72c6167a091fd5ee"
+    },
+    {
+      "date": "Le jeudi 6 octobre 2022 de  16:00:00 à  19:00:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "Mahebourg (en partie) habitant dans le périmètre et les rues suivantes: Rue Bamboo, Dollar Lane, Karan Lane, Rue Cent Gaulettes, Flamand Street, Delices Street, St martin Street, Nyon Street, la passe Street, Colony Street, Boulangerie Street, Hollandais Street, Rue Labourdonnais, Rue Marrianne, Rue Bazar et Pointe Canon",
+      "district": "grandport",
+      "from": "2022-10-06T12:00:00.000Z",
+      "to": "2022-10-06T15:00:00.000Z",
+      "id": "887668d4a23501e101ff7b00856f06e6"
+    },
+    {
+      "date": "Le jeudi 6 octobre 2022 de  16:00:00 à  17:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "AVE SWAMI SIVANNANDA,AVE MALARTIC,MORC DU PEROUX, APPT MONT ROYAL",
+      "district": "plainewilhems",
+      "from": "2022-10-06T12:00:00.000Z",
+      "to": "2022-10-06T13:00:00.000Z",
+      "id": "2209e3fcc179862bd9d90de50b8a2e28"
+    },
+    {
+      "date": "Le jeudi 6 octobre 2022 de  14:00:00 à  17:00:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "PART OF PAILLES RD AND CITE MAUVILLAC",
+      "district": "portlouis",
+      "from": "2022-10-06T10:00:00.000Z",
+      "to": "2022-10-06T13:00:00.000Z",
+      "id": "c3d88402dca0b0fd1fe003bc648ed00c"
+    },
+    {
+      "date": "Le jeudi 6 octobre 2022 de  08:30:00 à  15:30:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "Camp Domaingue, Pavé rd . Restaurant Amigo et Route Royale",
+      "district": "rivieredurempart",
+      "from": "2022-10-06T04:30:00.000Z",
+      "to": "2022-10-06T11:30:00.000Z",
+      "id": "48077b05dc8841282960f0d9b03e756d"
+    }
+  ]
+}

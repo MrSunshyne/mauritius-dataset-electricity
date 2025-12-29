@@ -1,0 +1,58 @@
+{
+  "date": "2024-04-05",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.812Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le vendredi 5 avril 2024 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC BISMIC-AVE DES CACATOES, AVE DES CARDINAUX ET AVE DES SERINS",
+      "district": "blackriver",
+      "from": "2024-04-05T04:30:00.000Z",
+      "to": "2024-04-05T11:30:00.000Z",
+      "id": "6ede0a959fc0900a55ec033ef9f5e760"
+    },
+    {
+      "date": "Le vendredi 5 avril 2024 de  21:45:00 à  23:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "LESCALIER ROAD, UNION VALE ROAD, PART OF PLAINE MAGNIEN",
+      "district": "grandport",
+      "from": "2024-04-05T17:45:00.000Z",
+      "to": "2024-04-05T19:00:00.000Z",
+      "id": "3057273cd7cf4ae650cfe4ca4caad9b2"
+    },
+    {
+      "date": "Le vendredi 5 avril 2024 de  08:30:00 à  14:00:00",
+      "locality": "MON CHOISY",
+      "localitySlug": "mon-choisy",
+      "streets": "Morc Mon Choisy",
+      "district": "pamplemousses",
+      "from": "2024-04-05T04:30:00.000Z",
+      "to": "2024-04-05T10:00:00.000Z",
+      "id": "2a0c760f5a686471314e2246f7aa4948"
+    },
+    {
+      "date": "Le vendredi 5 avril 2024 de  09:00:00 à  11:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "RUE EMBROSE-RUE ST LOUIS-RUE RICHARD ROSE HILL",
+      "district": "plainewilhems",
+      "from": "2024-04-05T05:00:00.000Z",
+      "to": "2024-04-05T07:00:00.000Z",
+      "id": "ea0a3a5216bf24d7e61d3e68168226b4"
+    },
+    {
+      "date": "Le vendredi 5 avril 2024 de  15:00:00 à  19:45:00",
+      "locality": "BELLE ROSE  ( Q BORNES )",
+      "localitySlug": "belle-rose",
+      "streets": "PAVILLON,CONTES DE LISE,BELLE ROSE",
+      "district": "plainewilhems",
+      "from": "2024-04-05T11:00:00.000Z",
+      "to": "2024-04-05T15:45:00.000Z",
+      "id": "e03b7927d009f1ccf6986feb244858f7"
+    }
+  ]
+}

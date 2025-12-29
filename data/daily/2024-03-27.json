@@ -1,0 +1,88 @@
+{
+  "date": "2024-03-27",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.812Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le mercredi 27 mars 2024 de  13:30:00 à  14:30:00",
+      "locality": "CITE RICHELIEU",
+      "localitySlug": "cite-richelieu",
+      "streets": "Whole Residence Riche Lieu",
+      "district": "blackriver",
+      "from": "2024-03-27T09:30:00.000Z",
+      "to": "2024-03-27T10:30:00.000Z",
+      "id": "4cfa991177572baf06bbb6d2d0358a04"
+    },
+    {
+      "date": "Le mercredi 27 mars 2024 de  10:30:00 à  13:00:00",
+      "locality": "CAMP THOREL",
+      "localitySlug": "camp-thorel",
+      "streets": "Le Village de Camp Thorel",
+      "district": "moka",
+      "from": "2024-03-27T06:30:00.000Z",
+      "to": "2024-03-27T09:00:00.000Z",
+      "id": "e08e3fc0c503d2b0a0be5509de9233b0"
+    },
+    {
+      "date": "Le mercredi 27 mars 2024 de  08:30:00 à  12:00:00",
+      "locality": "D-EPINAY",
+      "localitySlug": "d-epinay",
+      "streets": "DEpinay et Congomah",
+      "district": "pamplemousses",
+      "from": "2024-03-27T04:30:00.000Z",
+      "to": "2024-03-27T08:00:00.000Z",
+      "id": "fddfa9537349d515d9356424b595f746"
+    },
+    {
+      "date": "Le mercredi 27 mars 2024 de  08:30:00 à  15:00:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "Partie de Route Bassin, Kennedia Lane",
+      "district": "plainewilhems",
+      "from": "2024-03-27T04:30:00.000Z",
+      "to": "2024-03-27T11:00:00.000Z",
+      "id": "732652a84c6ea77bf2a526e0ad7aa32c"
+    },
+    {
+      "date": "Le mercredi 27 mars 2024 de  15:30:00 à  17:00:00",
+      "locality": "CITE LA CURE",
+      "localitySlug": "cite-la-cure",
+      "streets": "CITE LA CURE",
+      "district": "portlouis",
+      "from": "2024-03-27T11:30:00.000Z",
+      "to": "2024-03-27T13:00:00.000Z",
+      "id": "cb49e3bfea85626e4013951f72911132"
+    },
+    {
+      "date": "Le mercredi 27 mars 2024 de  09:00:00 à  15:30:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "dans les environs de Racket road et Coastal road",
+      "district": "rivieredurempart",
+      "from": "2024-03-27T05:00:00.000Z",
+      "to": "2024-03-27T11:30:00.000Z",
+      "id": "c9bb80659ffb0644a2910a89f021e8ca"
+    },
+    {
+      "date": "Le mercredi 27 mars 2024 de  08:00:00 à  16:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "PATATE THEOPHILE, TROIS SOLEIL ET MONTAGNE CABRIS EST.",
+      "district": "rodrigues",
+      "from": "2024-03-27T04:00:00.000Z",
+      "to": "2024-03-27T12:00:00.000Z",
+      "id": "82be98fe1e51fd92dca0c8124280ff7d"
+    },
+    {
+      "date": "Le mercredi 27 mars 2024 de  15:00:00 à  16:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LES ABONNES DE MONT LUBIN, PALISSADE, MONTAGNE BOIS NOIR, MONTAGNE MALGACHE, THAMBES, PETIT BRULEE, GRANDE MONTAGNE, COROMANDEL, BATATRAN, GRAVIER, BRULEE, RIVIERE BANANE, TREFLE, ROCHE BON DIEU, POINTE COTON ET ST FRANCOIS.",
+      "district": "rodrigues",
+      "from": "2024-03-27T11:00:00.000Z",
+      "to": "2024-03-27T12:00:00.000Z",
+      "id": "ecc005ec880796e616149460c0432a64"
+    }
+  ]
+}

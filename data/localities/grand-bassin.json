@@ -1,0 +1,32 @@
+{
+  "slug": "grand-bassin",
+  "name": "GRAND BASSIN",
+  "district": "savanne",
+  "generated": "2025-12-29T20:14:26.012Z",
+  "outageCount": 3,
+  "firstOutage": "2022-12-04",
+  "lastOutage": "2024-11-17",
+  "outages": [
+    {
+      "date": "Le dimanche 17 novembre 2024 de  10:00:00 à  12:00:00",
+      "streets": "GRAND BASSIN",
+      "from": "2024-11-17T06:00:00.000Z",
+      "to": "2024-11-17T08:00:00.000Z",
+      "id": "f7c0671638b9968b55f1e53ea41e268b"
+    },
+    {
+      "date": "Le mercredi 20 mars 2024 de  09:30:00 à  10:20:00",
+      "streets": "VARANGUE SUR MORNE, DOMAIN ST DENIS, PART OF GRAND BASSIN",
+      "from": "2024-03-20T05:30:00.000Z",
+      "to": "2024-03-20T06:20:00.000Z",
+      "id": "c206c5483b5c437256f2e01aa941f742"
+    },
+    {
+      "date": "Le dimanche 4 décembre 2022 de  09:00:00 à  15:00:00",
+      "streets": "GRAND BASSIN",
+      "from": "2022-12-04T05:00:00.000Z",
+      "to": "2022-12-04T11:00:00.000Z",
+      "id": "e7b87f59ace9ced6f8ce6de603e9bc69"
+    }
+  ]
+}

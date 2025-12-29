@@ -1,0 +1,88 @@
+{
+  "date": "2024-06-06",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.817Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le jeudi 6 juin 2024 de  15:45:00 à  16:45:00",
+      "locality": "GROS CAILLOUX",
+      "localitySlug": "gros-cailloux",
+      "streets": "GROS CAILLOUX ET CAMP CREOLE",
+      "district": "blackriver",
+      "from": "2024-06-06T11:45:00.000Z",
+      "to": "2024-06-06T12:45:00.000Z",
+      "id": "df4d5534b251696e7fedbe365035a0fd"
+    },
+    {
+      "date": "Le jeudi 6 juin 2024 de  08:30:00 à  17:00:00",
+      "locality": "ISIDORE ROSE",
+      "localitySlug": "isidore-rose",
+      "streets": "Le village de Isidore Rose, Camp Marcelin et dans les périmètres des avenues suivante à Quatre Cocos: NHDC, Church Lane et Avenue Camélia.",
+      "district": "flacq",
+      "from": "2024-06-06T04:30:00.000Z",
+      "to": "2024-06-06T13:00:00.000Z",
+      "id": "30b59304ff8fa27a96907d0e9a1ac221"
+    },
+    {
+      "date": "Le jeudi 6 juin 2024 de  09:00:00 à  14:00:00",
+      "locality": "DEUX FRERES",
+      "localitySlug": "deux-freres",
+      "streets": "DEUX FRERES",
+      "district": "flacq",
+      "from": "2024-06-06T05:00:00.000Z",
+      "to": "2024-06-06T10:00:00.000Z",
+      "id": "423c36be64d8cea0a7901bda5dc9adce"
+    },
+    {
+      "date": "Le jeudi 6 juin 2024 de  16:00:00 à  17:30:00",
+      "locality": "SOLITUDE",
+      "localitySlug": "solitude",
+      "streets": "SOLITUDE, POINTE AUX PIMENTS ET UNE PARTIE DE TRIOLET.",
+      "district": "pamplemousses",
+      "from": "2024-06-06T12:00:00.000Z",
+      "to": "2024-06-06T13:30:00.000Z",
+      "id": "185df26e937844235641fc11e7835404"
+    },
+    {
+      "date": "Le jeudi 6 juin 2024 de  15:30:00 à  17:30:00",
+      "locality": "ROCHE BOIS",
+      "localitySlug": "roche-bois",
+      "streets": "CITE ROCHE BOIS ET DANS LES ENVIRONS ANCIENT FLY OVER.",
+      "district": "portlouis",
+      "from": "2024-06-06T11:30:00.000Z",
+      "to": "2024-06-06T13:30:00.000Z",
+      "id": "29da628a2ad39cde1bf903439ecebd34"
+    },
+    {
+      "date": "Le jeudi 6 juin 2024 de  09:15:00 à  10:30:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "GRAND BAY,THE VALE,FONDUSAC,BELLE VUE PILOT",
+      "district": "rivieredurempart",
+      "from": "2024-06-06T05:15:00.000Z",
+      "to": "2024-06-06T06:30:00.000Z",
+      "id": "8846e73d63519036efe24d3543968087"
+    },
+    {
+      "date": "Le jeudi 6 juin 2024 de  14:10:00 à  17:10:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "LA SALETTE CHEMIN 20 PIED GRAND BAIE",
+      "district": "rivieredurempart",
+      "from": "2024-06-06T10:10:00.000Z",
+      "to": "2024-06-06T13:10:00.000Z",
+      "id": "c41cf7ef30c57aa51ab8150ffef7ee51"
+    },
+    {
+      "date": "Le jeudi 6 juin 2024 de  09:30:00 à  15:00:00",
+      "locality": "BANANES",
+      "localitySlug": "bananes",
+      "streets": "BANANES",
+      "district": "savanne",
+      "from": "2024-06-06T05:30:00.000Z",
+      "to": "2024-06-06T11:00:00.000Z",
+      "id": "f7af961aafd83c9389165346277db232"
+    }
+  ]
+}

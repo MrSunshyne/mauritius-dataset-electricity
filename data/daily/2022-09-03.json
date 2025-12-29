@@ -1,0 +1,78 @@
+{
+  "date": "2022-09-03",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.770Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le samedi 3 septembre 2022 de  08:30:00 à  16:00:00",
+      "locality": "HELVETIA",
+      "localitySlug": "helvetia",
+      "streets": "Bloomage, MDA Quarters, Cogir et Pivot MDA",
+      "district": "moka",
+      "from": "2022-09-03T04:30:00.000Z",
+      "to": "2022-09-03T12:00:00.000Z",
+      "id": "3b39af8b2c4c7912a0ede66f94c829ee"
+    },
+    {
+      "date": "Le samedi 3 septembre 2022 de  12:00:00 à  19:00:00",
+      "locality": "GRANDE POINTE AUX PIMENTS",
+      "localitySlug": "grande-pointe-aux-piments",
+      "streets": "GRANDE POINTE AUX PIMENTS",
+      "district": "pamplemousses",
+      "from": "2022-09-03T08:00:00.000Z",
+      "to": "2022-09-03T15:00:00.000Z",
+      "id": "c02a007f919d374b24532b61dc15e00f"
+    },
+    {
+      "date": "Le samedi 3 septembre 2022 de  08:30:00 à  16:00:00",
+      "locality": "SAINT MARTIN R-HILL",
+      "localitySlug": "saint-martin-r-hill",
+      "streets": "Porker St Martin, CWA, St Martin Pump et General Construction",
+      "district": "plainewilhems",
+      "from": "2022-09-03T04:30:00.000Z",
+      "to": "2022-09-03T12:00:00.000Z",
+      "id": "c7d20f8bcd29c4119e9d3eff52e6d931"
+    },
+    {
+      "date": "Le samedi 3 septembre 2022 de  08:30:00 à  16:00:00",
+      "locality": "CAMP FOUQUEREAUX",
+      "localitySlug": "camp-fouquereaux",
+      "streets": "partie de St Antoine Road et partie de Tout court Road",
+      "district": "plainewilhems",
+      "from": "2022-09-03T04:30:00.000Z",
+      "to": "2022-09-03T12:00:00.000Z",
+      "id": "2ffb1cd703152ce268ae9f8be94d29eb"
+    },
+    {
+      "date": "Le samedi 3 septembre 2022 de  17:00:00 à  20:30:00",
+      "locality": "CITE LA CURE",
+      "localitySlug": "cite-la-cure",
+      "streets": "CITE LA CURE",
+      "district": "portlouis",
+      "from": "2022-09-03T13:00:00.000Z",
+      "to": "2022-09-03T16:30:00.000Z",
+      "id": "0920e9f24a15008354fddc47e177bb95"
+    },
+    {
+      "date": "Le samedi 3 septembre 2022 de  14:30:00 à  15:30:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LA FERME,PISTACHE,PIMENT,BAIE TOPAZE,CAMP PINTADE,GRAND LA FOURCHE CORAIL",
+      "district": "rodrigues",
+      "from": "2022-09-03T10:30:00.000Z",
+      "to": "2022-09-03T11:30:00.000Z",
+      "id": "b9f593b111aabb1bb614b3f03734defe"
+    },
+    {
+      "date": "Le samedi 3 septembre 2022 de  08:00:00 à  09:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LA FERME,PISTACHE,PIMENT,BAIE TOPAZE,CAMP PINTADE,GRAND LA FOURCHE CORAIL",
+      "district": "rodrigues",
+      "from": "2022-09-03T04:00:00.000Z",
+      "to": "2022-09-03T05:00:00.000Z",
+      "id": "4c891f60a74e18ce8db6bab1c6826dd5"
+    }
+  ]
+}

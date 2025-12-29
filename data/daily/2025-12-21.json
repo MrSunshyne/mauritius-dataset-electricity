@@ -1,0 +1,48 @@
+{
+  "date": "2025-12-21",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.855Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le dimanche 21 décembre 2025 de  17:45:00 à  18:30:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "SALINE PILOT",
+      "district": "blackriver",
+      "from": "2025-12-21T13:45:00.000Z",
+      "to": "2025-12-21T14:30:00.000Z",
+      "id": "b2a73564fa2233c124225bfdeb879252"
+    },
+    {
+      "date": "Le dimanche 21 décembre 2025 de  15:00:00 à  18:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "TBS LANE ET LES ALENTOURS",
+      "district": "pamplemousses",
+      "from": "2025-12-21T11:00:00.000Z",
+      "to": "2025-12-21T14:00:00.000Z",
+      "id": "37e89da3a0c9df02e569a817bcfcc1bd"
+    },
+    {
+      "date": "Le dimanche 21 décembre 2025 de  08:15:00 à  14:00:00",
+      "locality": "TRIANON",
+      "localitySlug": "trianon",
+      "streets": "RM Garden,Hua Lien,Frigonoor,Convention Centre,CEB Meter Lab",
+      "district": "plainewilhems",
+      "from": "2025-12-21T04:15:00.000Z",
+      "to": "2025-12-21T10:00:00.000Z",
+      "id": "30b0bc85710fd26aa29ffeeaf2bdf6bb"
+    },
+    {
+      "date": "Le dimanche 21 décembre 2025 de  08:00:00 à  14:30:00",
+      "locality": "MER ROUGE",
+      "localitySlug": "mer-rouge",
+      "streets": "DANS LES ENVIRONS DE OMNICANE,COALS DEPOT, INDIAN OIL,CHANTIER NAVAL DE LÓCEAN INDIEN, M.O.S.T ET LPG GAS",
+      "district": "portlouis",
+      "from": "2025-12-21T04:00:00.000Z",
+      "to": "2025-12-21T10:30:00.000Z",
+      "id": "86a3cf3e5de961e8f61819ee6848c1d6"
+    }
+  ]
+}

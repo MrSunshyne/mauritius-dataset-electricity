@@ -1,0 +1,58 @@
+{
+  "date": "2024-11-16",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.830Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le samedi 16 novembre 2024 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC ST JACQUES: AVE ST JACQUES, AVE ST PAUL, AVE ST PIERRE, AVE DES GLAIEULS, AVE DES FILAOS, AVE DES CAPUCINES, AVE DES PEUPLIERS ET AVE DES LETCHIERS",
+      "district": "blackriver",
+      "from": "2024-11-16T04:30:00.000Z",
+      "to": "2024-11-16T11:30:00.000Z",
+      "id": "7f67354db7fbbe50ad97bdf1f421346e"
+    },
+    {
+      "date": "Le samedi 16 novembre 2024 de  10:45:00 à  13:00:00",
+      "locality": "NOTRE DAME",
+      "localitySlug": "notre-dame",
+      "streets": "NOTRE DAME,NOUVELLE INDUSTRIE",
+      "district": "pamplemousses",
+      "from": "2024-11-16T06:45:00.000Z",
+      "to": "2024-11-16T09:00:00.000Z",
+      "id": "763a5aac3a37a374703737a6c085e77d"
+    },
+    {
+      "date": "Le samedi 16 novembre 2024 de  11:00:00 à  12:00:00",
+      "locality": "SOLFERINO",
+      "localitySlug": "solferino",
+      "streets": "SOLFERINO NO:5",
+      "district": "plainewilhems",
+      "from": "2024-11-16T07:00:00.000Z",
+      "to": "2024-11-16T08:00:00.000Z",
+      "id": "be5904e5a6b0429c3ec5290ff99e4386"
+    },
+    {
+      "date": "Le samedi 16 novembre 2024 de  08:30:00 à  15:00:00",
+      "locality": "SAINT FRANCOIS",
+      "localitySlug": "saint-francois",
+      "streets": "INDINARAIN ROAD ST FRANCOIS",
+      "district": "portlouis",
+      "from": "2024-11-16T04:30:00.000Z",
+      "to": "2024-11-16T11:00:00.000Z",
+      "id": "0af66e1c54864a97bb4c69fec7cf5735"
+    },
+    {
+      "date": "Le samedi 16 novembre 2024 de  09:30:00 à  11:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "ROYAL ROAD PEREYBERE",
+      "district": "rivieredurempart",
+      "from": "2024-11-16T05:30:00.000Z",
+      "to": "2024-11-16T07:00:00.000Z",
+      "id": "8c9ce349c138964de2e5b4d028c9df44"
+    }
+  ]
+}

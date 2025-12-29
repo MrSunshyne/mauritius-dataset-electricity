@@ -1,0 +1,48 @@
+{
+  "date": "2025-11-11",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.852Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mardi 11 novembre 2025 de  09:50:00 à  10:30:00",
+      "locality": "LA PRENEUSE",
+      "localitySlug": "la-preneuse",
+      "streets": "PART OF LA PREUNEUSE & LA MIVOIE",
+      "district": "blackriver",
+      "from": "2025-11-11T05:50:00.000Z",
+      "to": "2025-11-11T06:30:00.000Z",
+      "id": "a59ddb061183ba2e141273be5a00a260"
+    },
+    {
+      "date": "Le mardi 11 novembre 2025 de  16:00:00 à  17:30:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "MORCELLEMENT BLUEPRINT, CIRCONSTANCE, VILLAGE DE L-AVENIR, SCHOOL LANE, MOHIT ROAD ET MORC VRS No 1.",
+      "district": "moka",
+      "from": "2025-11-11T12:00:00.000Z",
+      "to": "2025-11-11T13:30:00.000Z",
+      "id": "9c8293416ba1153ae0ae6c5370a9fccf"
+    },
+    {
+      "date": "Le mardi 11 novembre 2025 de  09:00:00 à  17:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave Farquhar, Antelme, Tombeau Lane, en partie Ave Ollier, Ave Conte de LIsle, Ave Naz, Ave Stanley et les environs",
+      "district": "plainewilhems",
+      "from": "2025-11-11T05:00:00.000Z",
+      "to": "2025-11-11T13:00:00.000Z",
+      "id": "582c0c39fb845ba036ede38945764843"
+    },
+    {
+      "date": "Le mardi 11 novembre 2025 de  15:30:00 à  18:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "CONAL ST, GUY FORGET, MC IRVINE ST, VICTOR HUGO ET LES ENVIRONS.",
+      "district": "plainewilhems",
+      "from": "2025-11-11T11:30:00.000Z",
+      "to": "2025-11-11T14:00:00.000Z",
+      "id": "8ed5819955b5d0003fca6945865c54e5"
+    }
+  ]
+}

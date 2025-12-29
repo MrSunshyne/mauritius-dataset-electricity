@@ -1,0 +1,78 @@
+{
+  "date": "2024-06-13",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.817Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le jeudi 13 juin 2024 de  09:40:00 à  10:30:00",
+      "locality": "POINTE D-ESNY",
+      "localitySlug": "pointe-d-esny",
+      "streets": "Pointe DEsny,Pointe Gerome,Residence la Chaux,Blue Bay,Mahebourg en partie",
+      "district": "grandport",
+      "from": "2024-06-13T05:40:00.000Z",
+      "to": "2024-06-13T06:30:00.000Z",
+      "id": "0975ce0f2cfb438445c51f793e6f9ed7"
+    },
+    {
+      "date": "Le jeudi 13 juin 2024 de  13:00:00 à  17:00:00",
+      "locality": "BEAU BOIS",
+      "localitySlug": "beau-bois",
+      "streets": "Beau Bois aux alentours de la Station d’Essence VIVOT Energie et de l’agence Toyota",
+      "district": "moka",
+      "from": "2024-06-13T09:00:00.000Z",
+      "to": "2024-06-13T13:00:00.000Z",
+      "id": "05fa34612b2117857d70401451203d91"
+    },
+    {
+      "date": "Le jeudi 13 juin 2024 de  15:45:00 à  17:30:00",
+      "locality": "NOUVELLE DECOUVERTE",
+      "localitySlug": "nouvelle-decouverte",
+      "streets": "Beau Bois,Ripailles,Nouvelle Decouverte",
+      "district": "moka",
+      "from": "2024-06-13T11:45:00.000Z",
+      "to": "2024-06-13T13:30:00.000Z",
+      "id": "27540a766d8fe104aa377afc2ab79a01"
+    },
+    {
+      "date": "Le jeudi 13 juin 2024 de  16:00:00 à  17:30:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "Trou aux Biches,Pte aux Biches,Pte aux Piments",
+      "district": "pamplemousses",
+      "from": "2024-06-13T12:00:00.000Z",
+      "to": "2024-06-13T13:30:00.000Z",
+      "id": "e9abab62911c0ea309e592ef657511b7"
+    },
+    {
+      "date": "Le jeudi 13 juin 2024 de  09:50:00 à  10:30:00",
+      "locality": "COROMONDEL - IND ZONE",
+      "localitySlug": "coromondel-ind-zone",
+      "streets": "Industrial Zone Coromandel",
+      "district": "plainewilhems",
+      "from": "2024-06-13T05:50:00.000Z",
+      "to": "2024-06-13T06:30:00.000Z",
+      "id": "d4f91e5de9a1f8e1796376a0d35ec3b3"
+    },
+    {
+      "date": "Le jeudi 13 juin 2024 de  14:00:00 à  17:30:00",
+      "locality": "TRANQUEBAR",
+      "localitySlug": "tranquebar",
+      "streets": "Rue Langlois",
+      "district": "portlouis",
+      "from": "2024-06-13T10:00:00.000Z",
+      "to": "2024-06-13T13:30:00.000Z",
+      "id": "5d782611d425127162935690cc4ec296"
+    },
+    {
+      "date": "Le jeudi 13 juin 2024 de  15:00:00 à  16:00:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "Camp Madras",
+      "district": "rivieredurempart",
+      "from": "2024-06-13T11:00:00.000Z",
+      "to": "2024-06-13T12:00:00.000Z",
+      "id": "4bce95fefb6b50651d8bd3bb19227312"
+    }
+  ]
+}

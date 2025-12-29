@@ -1,0 +1,58 @@
+{
+  "date": "2022-04-16",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.762Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le samedi 16 avril 2022 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "COMPLEX PEUPLIER, COMPLEX LES TAMIERS, COMPLEX BLUE SHELL ET COMPLEX LES DATTIERS",
+      "district": "blackriver",
+      "from": "2022-04-16T04:30:00.000Z",
+      "to": "2022-04-16T11:30:00.000Z",
+      "id": "79d15bb7b908a3fae075ffb5290700db"
+    },
+    {
+      "date": "Le samedi 16 avril 2022 de  08:00:00 à  12:00:00",
+      "locality": "GRANDE POINTE AUX PIMENTS",
+      "localitySlug": "grande-pointe-aux-piments",
+      "streets": "Grand Pointe aux Piment, Camp La cloche, Hi métal road, Morcellement Bholah et Coastal Road à Pointe aux Piment",
+      "district": "pamplemousses",
+      "from": "2022-04-16T04:00:00.000Z",
+      "to": "2022-04-16T08:00:00.000Z",
+      "id": "8fc2affb3717f9d432a8adba743ba15e"
+    },
+    {
+      "date": "Le samedi 16 avril 2022 de  08:30:00 à  15:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "DANS LES ENVIRONS DE LA RUE CORMORANS",
+      "district": "pamplemousses",
+      "from": "2022-04-16T04:30:00.000Z",
+      "to": "2022-04-16T11:00:00.000Z",
+      "id": "0bea5a1775bd0393530158219847be34"
+    },
+    {
+      "date": "Le samedi 16 avril 2022 de  09:00:00 à  10:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "DANS LES ENVIRONS DE LA ROUTE COTIERE, CORMORANS,PAILLE EN QUEUE, MACADAM ET SCHOOL LANE",
+      "district": "pamplemousses",
+      "from": "2022-04-16T05:00:00.000Z",
+      "to": "2022-04-16T06:00:00.000Z",
+      "id": "ee022f6475b02ce4dec8fa9dd4b63e34"
+    },
+    {
+      "date": "Le samedi 16 avril 2022 de  23:00:00 à  11:00:00",
+      "locality": "SOLITUDE",
+      "localitySlug": "solitude",
+      "streets": "ROYAL ROAD ,VENCADEE ROAD 7EME MILE SOLITUDE TRIOLET",
+      "district": "pamplemousses",
+      "from": "2022-04-16T19:00:00.000Z",
+      "to": "2022-04-16T07:00:00.000Z",
+      "id": "3f79a00f5c1c17a55b08785fd938533a"
+    }
+  ]
+}

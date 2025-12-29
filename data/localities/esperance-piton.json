@@ -1,0 +1,53 @@
+{
+  "slug": "esperance-piton",
+  "name": "ESPERANCE PITON",
+  "district": "pamplemousses",
+  "generated": "2025-12-29T20:14:25.999Z",
+  "outageCount": 6,
+  "firstOutage": "2022-10-08",
+  "lastOutage": "2025-08-16",
+  "outages": [
+    {
+      "date": "Le samedi 16 août 2025 de  09:00:00 à  16:00:00",
+      "streets": "MORC BOOLAKY, CWA LESPERANCE PITON, CREMATION ROAD, MAURICE MARTIN, LESPERANCE PITON",
+      "from": "2025-08-16T05:00:00.000Z",
+      "to": "2025-08-16T12:00:00.000Z",
+      "id": "1ba97a64b666ca6eeb58950443306ce5"
+    },
+    {
+      "date": "Le mardi 31 décembre 2024 de  08:30:00 à  12:00:00",
+      "streets": "POUDRE DOR HAMLET, ESPERANCE PITON",
+      "from": "2024-12-31T04:30:00.000Z",
+      "to": "2024-12-31T08:00:00.000Z",
+      "id": "2be0168487d9278848976231abc05a26"
+    },
+    {
+      "date": "Le vendredi 26 janvier 2024 de  09:45:00 à  12:45:00",
+      "streets": "ESPERANCE PITON MAURICE MARTIN",
+      "from": "2024-01-26T05:45:00.000Z",
+      "to": "2024-01-26T08:45:00.000Z",
+      "id": "8b8e234b42483d37ee3e9c838bdb1069"
+    },
+    {
+      "date": "Le dimanche 21 janvier 2024 de  08:00:00 à  15:30:00",
+      "streets": "le village de Esperance Piton, Piton Bon Espoir et La Paix Piton",
+      "from": "2024-01-21T04:00:00.000Z",
+      "to": "2024-01-21T11:30:00.000Z",
+      "id": "59d30d179bf38844bbb4b80d48c4f935"
+    },
+    {
+      "date": "Le dimanche 26 mars 2023 de  08:00:00 à  15:00:00",
+      "streets": "le village dEsperance Piton",
+      "from": "2023-03-26T04:00:00.000Z",
+      "to": "2023-03-26T11:00:00.000Z",
+      "id": "b3ab85e8de000f539abb3e24ce81ae9b"
+    },
+    {
+      "date": "Le samedi 8 octobre 2022 de  00:00:00 à  00:00:00",
+      "streets": "le village dEsperance Piton",
+      "from": "2022-10-07T20:00:00.000Z",
+      "to": "2022-10-06T20:00:00.000Z",
+      "id": "949a5959f719c3382cb57ff10db3927f"
+    }
+  ]
+}

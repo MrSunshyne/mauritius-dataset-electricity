@@ -1,0 +1,98 @@
+{
+  "date": "2024-02-08",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.808Z",
+  "outageCount": 9,
+  "outages": [
+    {
+      "date": "Le jeudi 8 février 2024 de  10:00:00 à  15:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "Petit Bretagne,Belle Vue Phare",
+      "district": "blackriver",
+      "from": "2024-02-08T06:00:00.000Z",
+      "to": "2024-02-08T11:00:00.000Z",
+      "id": "13d67235f8d05f993f165760b8bef339"
+    },
+    {
+      "date": "Le jeudi 8 février 2024 de  10:00:00 à  16:00:00",
+      "locality": "QUATRE COCOS",
+      "localitySlug": "quatre-cocos",
+      "streets": "MORC BISSESUR",
+      "district": "flacq",
+      "from": "2024-02-08T06:00:00.000Z",
+      "to": "2024-02-08T12:00:00.000Z",
+      "id": "7f7583fd497813798b61cc880289b7ee"
+    },
+    {
+      "date": "Le jeudi 8 février 2024 de  02:25:00 à  16:30:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "LAgrement & Circonstance",
+      "district": "moka",
+      "from": "2024-02-07T22:25:00.000Z",
+      "to": "2024-02-07T12:30:00.000Z",
+      "id": "0646761e2838ced80b93bd28060bc31b"
+    },
+    {
+      "date": "Le jeudi 8 février 2024 de  18:00:00 à  00:00:00",
+      "locality": "SOLITUDE",
+      "localitySlug": "solitude",
+      "streets": "7IEM MILLE SOLITUDE TRIOLET",
+      "district": "pamplemousses",
+      "from": "2024-02-08T14:00:00.000Z",
+      "to": "2024-02-07T20:00:00.000Z",
+      "id": "99c8c5b8dbac47720db5d3e7a1e20a36"
+    },
+    {
+      "date": "Le jeudi 8 février 2024 de  12:00:00 à  14:00:00",
+      "locality": "SAINT FRANCOIS",
+      "localitySlug": "saint-francois",
+      "streets": "Saint Francois, Pointe Coton,Anse Ali et Morcellement Roche Bon Dieu",
+      "district": "portlouis",
+      "from": "2024-02-08T08:00:00.000Z",
+      "to": "2024-02-08T10:00:00.000Z",
+      "id": "ed043397538e2148ca39d3323bf9ebb5"
+    },
+    {
+      "date": "Le jeudi 8 février 2024 de  10:00:00 à  11:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "Goodlands,Pte des Lascars,Poudre Dor VillageIle dAmbre",
+      "district": "rivieredurempart",
+      "from": "2024-02-08T06:00:00.000Z",
+      "to": "2024-02-08T07:00:00.000Z",
+      "id": "1d359f1e07a015e1aa4c35d181ffcf1d"
+    },
+    {
+      "date": "Le jeudi 8 février 2024 de  09:40:00 à  13:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "Saint-Antoine",
+      "district": "rivieredurempart",
+      "from": "2024-02-08T05:40:00.000Z",
+      "to": "2024-02-08T09:00:00.000Z",
+      "id": "40edd401364cff6182e5845c363b1c24"
+    },
+    {
+      "date": "Le jeudi 8 février 2024 de  11:20:00 à  15:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "CHEMIN BAZAR, AVE MARLIN, RACKETTE ROAD",
+      "district": "rivieredurempart",
+      "from": "2024-02-08T07:20:00.000Z",
+      "to": "2024-02-08T11:00:00.000Z",
+      "id": "ca7b7206f926d77dcfca3949809c7a22"
+    },
+    {
+      "date": "Le jeudi 8 février 2024 de  12:00:00 à  15:30:00",
+      "locality": "FOND LA BONTE(RODRIGUES)",
+      "localitySlug": "fond-la-bonte",
+      "streets": "Fond La Bonte et Fond Baie Aux Huitres",
+      "district": "rodrigues",
+      "from": "2024-02-08T08:00:00.000Z",
+      "to": "2024-02-08T11:30:00.000Z",
+      "id": "9d9a5f5c123d4d3beab626670e174f46"
+    }
+  ]
+}

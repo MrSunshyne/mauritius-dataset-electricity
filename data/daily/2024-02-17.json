@@ -1,0 +1,78 @@
+{
+  "date": "2024-02-17",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.809Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le samedi 17 février 2024 de  08:30:00 à  16:00:00",
+      "locality": "MOKA",
+      "localitySlug": "moka",
+      "streets": "Eureka et Morc Bagatelle",
+      "district": "moka",
+      "from": "2024-02-17T04:30:00.000Z",
+      "to": "2024-02-17T12:00:00.000Z",
+      "id": "0f558ad1aabec22d4239ac74e60541ac"
+    },
+    {
+      "date": "Le samedi 17 février 2024 de  11:40:00 à  19:00:00",
+      "locality": "MORC SAINT ANDRE",
+      "localitySlug": "morc-saint-andre",
+      "streets": "MORCELLEMENT ST ANDRE DANS LES ENVIRONS CAPITAL AUTO.",
+      "district": "pamplemousses",
+      "from": "2024-02-17T07:40:00.000Z",
+      "to": "2024-02-17T15:00:00.000Z",
+      "id": "584431d8103bdccb3486ae7a55d60242"
+    },
+    {
+      "date": "Le samedi 17 février 2024 de  08:30:00 à  16:00:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "Route Royal La Marie, Cyprus, Forest, Berthaud, Kebla, Morcellement Pousson, Morcellement Saddul et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2024-02-17T04:30:00.000Z",
+      "to": "2024-02-17T12:00:00.000Z",
+      "id": "9ff80b2239e2255f7da9850501a5685d"
+    },
+    {
+      "date": "Le samedi 17 février 2024 de  08:00:00 à  14:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "DANS LES ENVIRONS DES RUES VELORE, SERANG, MAHARATTA ET LITTLE BRIDGE",
+      "district": "portlouis",
+      "from": "2024-02-17T04:00:00.000Z",
+      "to": "2024-02-17T10:00:00.000Z",
+      "id": "3a33a2fbc99656ef5b950f6668ea87db"
+    },
+    {
+      "date": "Le samedi 17 février 2024 de  08:30:00 à  14:30:00",
+      "locality": "GOKHOOLAH",
+      "localitySlug": "gokhoolah",
+      "streets": "le village de Gokhoola",
+      "district": "rivieredurempart",
+      "from": "2024-02-17T04:30:00.000Z",
+      "to": "2024-02-17T10:30:00.000Z",
+      "id": "a83d9659f7551018bf78b8bc1aa1b17b"
+    },
+    {
+      "date": "Le samedi 17 février 2024 de  08:30:00 à  15:00:00",
+      "locality": "QUATRE VENTS(RODRIGUES)",
+      "localitySlug": "quatre-vents",
+      "streets": "Quatre Vents, Dans Samy, Papayes et Marechal",
+      "district": "rodrigues",
+      "from": "2024-02-17T04:30:00.000Z",
+      "to": "2024-02-17T11:00:00.000Z",
+      "id": "c5a4b0066680b13b796938205b247a50"
+    },
+    {
+      "date": "Le samedi 17 février 2024 de  08:30:00 à  15:00:00",
+      "locality": "CITRON DONIS(RODRIGUES)",
+      "localitySlug": "citron-donis",
+      "streets": "Citron Donis et Eau Vanne",
+      "district": "rodrigues",
+      "from": "2024-02-17T04:30:00.000Z",
+      "to": "2024-02-17T11:00:00.000Z",
+      "id": "38716e1700cda246f45c635eec84d7d2"
+    }
+  ]
+}

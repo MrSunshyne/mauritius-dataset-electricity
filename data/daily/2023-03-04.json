@@ -1,0 +1,58 @@
+{
+  "date": "2023-03-04",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.783Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le samedi 4 mars 2023 de  08:30:00 à  16:00:00",
+      "locality": "LA LAURA SAINT PIERRE",
+      "localitySlug": "la-laura-saint-pierre",
+      "streets": "La Laura serviette, La Laura Village, CWA La Laura et La Laura Oeufs dOr",
+      "district": "moka",
+      "from": "2023-03-04T04:30:00.000Z",
+      "to": "2023-03-04T12:00:00.000Z",
+      "id": "3c3c92673b19e98f12f2897509412399"
+    },
+    {
+      "date": "Le samedi 4 mars 2023 de  08:15:00 à  16:00:00",
+      "locality": "SAINT PAUL",
+      "localitySlug": "saint-paul",
+      "streets": "St Paul Castel: Dhuny Lane No. 1 et No. 2, Kullichurn Lane, Ameerally Lane, Goolzar Lane, Lalloo Lane, Sonah Lane, CTR Lane, Ally Lane, une partie de Parisot Branch Road, Rabindranath Tagore Avenue, Impasse Ramjaun, Banarally Lane",
+      "district": "plainewilhems",
+      "from": "2023-03-04T04:15:00.000Z",
+      "to": "2023-03-04T12:00:00.000Z",
+      "id": "d5822734202cf8c319aefbb9b59366d3"
+    },
+    {
+      "date": "Le samedi 4 mars 2023 de  10:00:00 à  15:00:00",
+      "locality": "CITE CHEBEL",
+      "localitySlug": "cite-chebel",
+      "streets": "Mahadeo Biltoo, Ave Figues, Ave Pommiers et les environs",
+      "district": "plainewilhems",
+      "from": "2023-03-04T06:00:00.000Z",
+      "to": "2023-03-04T11:00:00.000Z",
+      "id": "d35ec029bfe749f0f6a6b393e26879d7"
+    },
+    {
+      "date": "Le samedi 4 mars 2023 de  08:30:00 à  14:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "DANS LES ENVIRONS DES RUES NICOLAY, MADURA,PATNA,GOA,VELORE,MUNICIPALITY, PALLIACA,YOLOFF,BORNEO,LITTLE BRIDGE, SUMATRA, CALICUT ET ALEPPO",
+      "district": "portlouis",
+      "from": "2023-03-04T04:30:00.000Z",
+      "to": "2023-03-04T10:00:00.000Z",
+      "id": "a199dcd05f477a88a5d58d7789984b38"
+    },
+    {
+      "date": "Le samedi 4 mars 2023 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LES ABONNES DORANGE, DANS BEBE ET MONTAGNE GOYAVES",
+      "district": "rodrigues",
+      "from": "2023-03-04T04:30:00.000Z",
+      "to": "2023-03-04T11:00:00.000Z",
+      "id": "d425c3018aab2e23539ae7dab8a88b38"
+    }
+  ]
+}

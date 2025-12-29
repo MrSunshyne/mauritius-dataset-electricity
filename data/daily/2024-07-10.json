@@ -1,0 +1,48 @@
+{
+  "date": "2024-07-10",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.819Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mercredi 10 juillet 2024 de  10:30:00 à  16:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "AVE DAUPHIN, AVE CORDONIER, AVE MARSOUIN, AVE CAPITAINE  ET LES ENVIRONS",
+      "district": "blackriver",
+      "from": "2024-07-10T06:30:00.000Z",
+      "to": "2024-07-10T12:00:00.000Z",
+      "id": "e166fa7d34eac739548ae356d3c24f65"
+    },
+    {
+      "date": "Le mercredi 10 juillet 2024 de  08:30:00 à  16:30:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "DANS LES ENVIRONS DES RUES FLAMMANT, PELICAN, PINGOUIN, CYGOGNE, HIRONDELLE, IMPASSE PHOENIX ET UNE PARTIE DE LA ROUTE ROYALE",
+      "district": "pamplemousses",
+      "from": "2024-07-10T04:30:00.000Z",
+      "to": "2024-07-10T12:30:00.000Z",
+      "id": "4f9194057543c1e3b7d278fb15efa599"
+    },
+    {
+      "date": "Le mercredi 10 juillet 2024 de  09:00:00 à  12:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "Le Cocotier vers Jumbo",
+      "district": "pamplemousses",
+      "from": "2024-07-10T05:00:00.000Z",
+      "to": "2024-07-10T08:00:00.000Z",
+      "id": "5d48c67a9ed1081f9939944cc0d2c152"
+    },
+    {
+      "date": "Le mercredi 10 juillet 2024 de  16:30:00 à  17:30:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "T BAY RD UPTO WAN CHAP LAN,MACADAM,OURSIN,CAMARON ETC",
+      "district": "pamplemousses",
+      "from": "2024-07-10T12:30:00.000Z",
+      "to": "2024-07-10T13:30:00.000Z",
+      "id": "9f1338cc34f6948280cb91f39340ee04"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "la-laura",
+  "name": "LA LAURA (BEL AIR)",
+  "district": "flacq",
+  "generated": "2025-12-29T20:14:26.045Z",
+  "outageCount": 4,
+  "firstOutage": "2023-01-04",
+  "lastOutage": "2024-08-01",
+  "outages": [
+    {
+      "date": "Le jeudi 1 août 2024 de  08:30:00 à  17:00:00",
+      "streets": "La Laura( Bel Air) et une partie de la Route Royale.",
+      "from": "2024-08-01T04:30:00.000Z",
+      "to": "2024-08-01T13:00:00.000Z",
+      "id": "f41237b586a83f832a3043fba6a33cdc"
+    },
+    {
+      "date": "Le jeudi 25 juillet 2024 de  08:30:00 à  16:00:00",
+      "streets": "La Laura dans les environs de Pivot, Atics, Arcpo et Fast Stone Crusher.",
+      "from": "2024-07-25T04:30:00.000Z",
+      "to": "2024-07-25T12:00:00.000Z",
+      "id": "4fad37bf49baf0733956666bfc316142"
+    },
+    {
+      "date": "Le jeudi 20 juillet 2023 de  12:50:00 à  16:00:00",
+      "streets": "LES ABONNES DE LA LAURA VILLAGE, BEL AIR.",
+      "from": "2023-07-20T08:50:00.000Z",
+      "to": "2023-07-20T12:00:00.000Z",
+      "id": "6c108e34ac181a948e7da38c705f09a4"
+    },
+    {
+      "date": "Le mercredi 4 janvier 2023 de  09:30:00 à  14:00:00",
+      "streets": "WHOLE VILLAGE",
+      "from": "2023-01-04T05:30:00.000Z",
+      "to": "2023-01-04T10:00:00.000Z",
+      "id": "2a565e5acbd2f3ff7884b809650438a6"
+    }
+  ]
+}

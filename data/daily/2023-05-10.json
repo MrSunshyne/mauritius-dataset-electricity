@@ -1,0 +1,38 @@
+{
+  "date": "2023-05-10",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.788Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mercredi 10 mai 2023 de  09:30:00 à  10:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Res. Kennedy, Palma, Rte Bassin, Mere Theresa, Seechurn et les environs",
+      "district": "plainewilhems",
+      "from": "2023-05-10T05:30:00.000Z",
+      "to": "2023-05-10T06:30:00.000Z",
+      "id": "2ba7b78acbb068b30c91350f3bc8dffb"
+    },
+    {
+      "date": "Le mercredi 10 mai 2023 de  10:15:00 à  12:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "REMY OLLIER,DR LESUR",
+      "district": "plainewilhems",
+      "from": "2023-05-10T06:15:00.000Z",
+      "to": "2023-05-10T08:00:00.000Z",
+      "id": "83a5f31aca51d756dc851bbf3492b9b6"
+    },
+    {
+      "date": "Le mercredi 10 mai 2023 de  10:15:00 à  11:45:00",
+      "locality": "PAVILLON",
+      "localitySlug": "pavillon",
+      "streets": "MOSQUE RD,NEAR SHIVALA @ PAVILLON CAP MALHEUREUX",
+      "district": "plainewilhems",
+      "from": "2023-05-10T06:15:00.000Z",
+      "to": "2023-05-10T07:45:00.000Z",
+      "id": "0b922a7d40337738fa68ab57936c4235"
+    }
+  ]
+}

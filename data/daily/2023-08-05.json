@@ -1,0 +1,68 @@
+{
+  "date": "2023-08-05",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.794Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le samedi 5 août 2023 de  08:30:00 à  15:30:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "MORC BLACKROCK- AVE BLACKROCK, AVE DES MARLINS, AVE DES BONITES, AVE DE LA MONTAGNE, AVE DES CAMPECHES, MORC BELOGUET, AVE DU MORNE, AVE DES ALIZEES ET AVE CORPS DE GARDE",
+      "district": "blackriver",
+      "from": "2023-08-05T04:30:00.000Z",
+      "to": "2023-08-05T11:30:00.000Z",
+      "id": "c3bf41c0a5ad14b27450c3aef8a0d1bc"
+    },
+    {
+      "date": "Le samedi 5 août 2023 de  16:00:00 à  19:30:00",
+      "locality": "SOLITUDE",
+      "localitySlug": "solitude",
+      "streets": "ROYAL ROAD SOLITUDE",
+      "district": "pamplemousses",
+      "from": "2023-08-05T12:00:00.000Z",
+      "to": "2023-08-05T15:30:00.000Z",
+      "id": "c3511b0b32070a0a0b12f9f5bb6a0519"
+    },
+    {
+      "date": "Le samedi 5 août 2023 de  08:30:00 à  16:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Bassin Morc Ah Yen",
+      "district": "plainewilhems",
+      "from": "2023-08-05T04:30:00.000Z",
+      "to": "2023-08-05T12:00:00.000Z",
+      "id": "f18c25452645cec882b891169e8a017e"
+    },
+    {
+      "date": "Le samedi 5 août 2023 de  08:30:00 à  15:00:00",
+      "locality": "CITE CHEBEL",
+      "localitySlug": "cite-chebel",
+      "streets": "Res. Lotus, Sir Gaetan Duval, Res. Les Chebec et les environs",
+      "district": "plainewilhems",
+      "from": "2023-08-05T04:30:00.000Z",
+      "to": "2023-08-05T11:00:00.000Z",
+      "id": "5595a56f516a0a7cffd65454182c7d70"
+    },
+    {
+      "date": "Le samedi 5 août 2023 de  20:30:00 à  00:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVENUE TALIPOT ST JEAN 2",
+      "district": "plainewilhems",
+      "from": "2023-08-05T16:30:00.000Z",
+      "to": "2023-08-04T20:30:00.000Z",
+      "id": "4c8b9e0de23bbdf6e4e2133b3dc8984f"
+    },
+    {
+      "date": "Le samedi 5 août 2023 de  08:30:00 à  15:30:00",
+      "locality": "ESPERANCE TREBUCHET",
+      "localitySlug": "esperance-trebuchet",
+      "streets": "DANS LES ENVIRONS DES RUES MME BARB, ANAND, RAJA, DIAGONAL ET SCHOOL LANE",
+      "district": "rivieredurempart",
+      "from": "2023-08-05T04:30:00.000Z",
+      "to": "2023-08-05T11:30:00.000Z",
+      "id": "2a0a4063e21bf034501ce4ad4820d901"
+    }
+  ]
+}

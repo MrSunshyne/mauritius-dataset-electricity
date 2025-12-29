@@ -1,0 +1,38 @@
+{
+  "date": "2024-06-05",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.816Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mercredi 5 juin 2024 de  18:50:00 à  20:00:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "LA RESIDENCE LA CAPITAINE RUE DES CAPITAINES, AVE DES JACARANDA, VILLAGE DE LA TOURELLE",
+      "district": "blackriver",
+      "from": "2024-06-05T14:50:00.000Z",
+      "to": "2024-06-05T16:00:00.000Z",
+      "id": "27806c0e3d1d377df21a9a6633ce1ccc"
+    },
+    {
+      "date": "Le mercredi 5 juin 2024 de  09:00:00 à  17:00:00",
+      "locality": "GRAND BEL AIR",
+      "localitySlug": "grand-bel-air",
+      "streets": "Grand Bel Air habitant dans le périmètre et les rues suivantes: Jaffar Road, une partie de la Route Royale Grand Bel Air et une partie de Morcellement Grand Bel Air",
+      "district": "flacq",
+      "from": "2024-06-05T05:00:00.000Z",
+      "to": "2024-06-05T13:00:00.000Z",
+      "id": "a89b212d07ee1a60a6f2f0ab936ab7b1"
+    },
+    {
+      "date": "Le mercredi 5 juin 2024 de  12:40:00 à  14:45:00",
+      "locality": "ROCHE BOIS",
+      "localitySlug": "roche-bois",
+      "streets": "ALLEE TAMARIN ET LES ALENTOURS",
+      "district": "portlouis",
+      "from": "2024-06-05T08:40:00.000Z",
+      "to": "2024-06-05T10:45:00.000Z",
+      "id": "0233595c85bb20257e7c5e75049a8a77"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "date": "2025-08-11",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.845Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le lundi 11 août 2025 de  10:00:00 à  11:00:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "AVE JACARANDAS, CARLOS, INVESTORS AND SURROUNDINGS",
+      "district": "blackriver",
+      "from": "2025-08-11T06:00:00.000Z",
+      "to": "2025-08-11T07:00:00.000Z",
+      "id": "297d637c5c4c421945654a21665bad80"
+    },
+    {
+      "date": "Le lundi 11 août 2025 de  09:30:00 à  13:00:00",
+      "locality": "CARREAU ESNOUF",
+      "localitySlug": "carreau-esnouf",
+      "streets": "Carreau Esnoufs et les endroits avoisinantes",
+      "district": "grandport",
+      "from": "2025-08-11T05:30:00.000Z",
+      "to": "2025-08-11T09:00:00.000Z",
+      "id": "e43dadc7fe3c1015cd5b1f2f339b2c7c"
+    },
+    {
+      "date": "Le lundi 11 août 2025 de  10:00:00 à  14:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "PART OF PLAINE MAGNIEN",
+      "district": "grandport",
+      "from": "2025-08-11T06:00:00.000Z",
+      "to": "2025-08-11T10:00:00.000Z",
+      "id": "ca41d9124665b389c06ee12234c0b6aa"
+    },
+    {
+      "date": "Le lundi 11 août 2025 de  17:15:00 à  20:15:00",
+      "locality": "BONNE TERRE",
+      "localitySlug": "bonne-terre",
+      "streets": "RUE REMY OLLIER, DANS LES ENVIRONS KING SAVERS ET LES RUELLES AVOISINANTES.",
+      "district": "plainewilhems",
+      "from": "2025-08-11T13:15:00.000Z",
+      "to": "2025-08-11T16:15:00.000Z",
+      "id": "a5f7215671501ae0bfafcb4d3a17e225"
+    },
+    {
+      "date": "Le lundi 11 août 2025 de  16:00:00 à  17:30:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "DANS LES ENVIRONS DE CHITRAKOOT, VALMICKY, CAROLINE ET SCHOOL LANE",
+      "district": "portlouis",
+      "from": "2025-08-11T12:00:00.000Z",
+      "to": "2025-08-11T13:30:00.000Z",
+      "id": "dac55df044006cab3081603aff2f9527"
+    },
+    {
+      "date": "Le lundi 11 août 2025 de  10:30:00 à  13:00:00",
+      "locality": "SAINT AUBIN",
+      "localitySlug": "saint-aubin",
+      "streets": "PART OF SAINT AUBIN",
+      "district": "savanne",
+      "from": "2025-08-11T06:30:00.000Z",
+      "to": "2025-08-11T09:00:00.000Z",
+      "id": "98bca9c7d94ffc4ba28cfd413dd506a1"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "la-saline",
+  "name": "LA SALINE",
+  "district": "portlouis",
+  "generated": "2025-12-29T20:14:26.052Z",
+  "outageCount": 4,
+  "firstOutage": "2022-05-02",
+  "lastOutage": "2025-12-24",
+  "outages": [
+    {
+      "date": "Le mercredi 24 décembre 2025 de  09:00:00 à  11:30:00",
+      "streets": "PART OF LA SALINE",
+      "from": "2025-12-24T05:00:00.000Z",
+      "to": "2025-12-24T07:30:00.000Z",
+      "id": "a14d7d6c8b7d4ee7bce6ec5f911b6e57"
+    },
+    {
+      "date": "Le dimanche 9 novembre 2025 de  08:30:00 à  13:00:00",
+      "streets": "LES HABITANTS DE LES SALINES",
+      "from": "2025-11-09T04:30:00.000Z",
+      "to": "2025-11-09T09:00:00.000Z",
+      "id": "c1347d8df01e670c78d803b4504b78d0"
+    },
+    {
+      "date": "Le dimanche 23 juin 2024 de  08:30:00 à  15:30:00",
+      "streets": "DANS LES ENVIRONS DE CASSIS ROAD, ROUTE MENAGERIE, ET DES RUES RESERVES, ODETTE ERNEST, FREE, MALBOROUGH, BRABANT, MGR LEEN, EDGAR AUBERT, EDGAR GALLET ET COAST GUARD",
+      "from": "2024-06-23T04:30:00.000Z",
+      "to": "2024-06-23T11:30:00.000Z",
+      "id": "5bba49f0676a4c37f03621bd406d3a92"
+    },
+    {
+      "date": "Le lundi 2 mai 2022 de  15:45:00 à  17:30:00",
+      "streets": "Rue Tan Kwen P.Louis",
+      "from": "2022-05-02T11:45:00.000Z",
+      "to": "2022-05-02T13:30:00.000Z",
+      "id": "0eabc9861052955f99951e53bc6c158e"
+    }
+  ]
+}

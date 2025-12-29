@@ -1,0 +1,68 @@
+{
+  "date": "2022-07-06",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.766Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le mercredi 6 juillet 2022 de  16:00:00 à  18:00:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "MONTAGNE ST PIERRE ET UNE PARTIE DE LA ZONE INDUSTRIELLE DE BAMBOUS",
+      "district": "blackriver",
+      "from": "2022-07-06T12:00:00.000Z",
+      "to": "2022-07-06T14:00:00.000Z",
+      "id": "be46800310d8c7aa170ea9913eeed247"
+    },
+    {
+      "date": "Le mercredi 6 juillet 2022 de  09:00:00 à  16:00:00",
+      "locality": "MOKA",
+      "localitySlug": "moka",
+      "streets": "BOIS CHERI ROAD + CAMP SAMY",
+      "district": "moka",
+      "from": "2022-07-06T05:00:00.000Z",
+      "to": "2022-07-06T12:00:00.000Z",
+      "id": "fba15dfed6ce612ab2cfa6e4f7290b53"
+    },
+    {
+      "date": "Le mercredi 6 juillet 2022 de  08:30:00 à  16:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "En partie La Rue Pope Henessy, Rue Nicholas de Cere, Rue Lord Byron et les environs",
+      "district": "plainewilhems",
+      "from": "2022-07-06T04:30:00.000Z",
+      "to": "2022-07-06T12:00:00.000Z",
+      "id": "357907bbce8684e5f7b56ce27549d73e"
+    },
+    {
+      "date": "Le mercredi 6 juillet 2022 de  12:30:00 à  13:30:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Ritter, De Courson, Tommy D’Arifat et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-07-06T08:30:00.000Z",
+      "to": "2022-07-06T09:30:00.000Z",
+      "id": "1882b88ec1cb8eeee220becc9aeadd4d"
+    },
+    {
+      "date": "Le mercredi 6 juillet 2022 de  08:30:00 à  15:30:00",
+      "locality": "POINTE DES LASCARS",
+      "localitySlug": "pointe-des-lascars",
+      "streets": "POINTE DES LASCARS",
+      "district": "rivieredurempart",
+      "from": "2022-07-06T04:30:00.000Z",
+      "to": "2022-07-06T11:30:00.000Z",
+      "id": "12b8fd0f85231e8eebcc4a08a2d770a1"
+    },
+    {
+      "date": "Le mercredi 6 juillet 2022 de  12:00:00 à  16:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Grande Montagne, Saint DOr et Brule",
+      "district": "rodrigues",
+      "from": "2022-07-06T08:00:00.000Z",
+      "to": "2022-07-06T12:00:00.000Z",
+      "id": "8154b1cb3fe33ac7b0f44676f7db8c52"
+    }
+  ]
+}

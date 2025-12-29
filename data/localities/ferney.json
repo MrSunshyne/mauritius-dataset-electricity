@@ -1,0 +1,60 @@
+{
+  "slug": "ferney",
+  "name": "FERNEY",
+  "district": "grandport",
+  "generated": "2025-12-29T20:14:26.001Z",
+  "outageCount": 7,
+  "firstOutage": "2024-09-02",
+  "lastOutage": "2025-12-07",
+  "outages": [
+    {
+      "date": "Le dimanche 7 décembre 2025 de  08:30:00 à  17:00:00",
+      "streets": "MORCELLEMENT FERNEY, VULTUR STREET, NIGHTINGALE STREET, BAUL STREET, PEACOCK STREET, CHUMRA STREET ET HIRONDELLE ST.",
+      "from": "2025-12-07T04:30:00.000Z",
+      "to": "2025-12-07T13:00:00.000Z",
+      "id": "e3c755e4add66db6cebc8e1051417abf"
+    },
+    {
+      "date": "Le jeudi 25 septembre 2025 de  09:00:00 à  13:00:00",
+      "streets": "MORC FERNEY",
+      "from": "2025-09-25T05:00:00.000Z",
+      "to": "2025-09-25T09:00:00.000Z",
+      "id": "754c0b43a43149919603b67caf02af53"
+    },
+    {
+      "date": "Le mercredi 9 avril 2025 de  11:00:00 à  15:00:00",
+      "streets": "FERNEY LE VALLON",
+      "from": "2025-04-09T07:00:00.000Z",
+      "to": "2025-04-09T11:00:00.000Z",
+      "id": "5d54d6c065c299306dccfb22dacf887c"
+    },
+    {
+      "date": "Le jeudi 9 janvier 2025 de  08:30:00 à  17:00:00",
+      "streets": "Ferney, Vieux Grand Port, Belle Vue, Bois Des Amourettes et Anse Jonchée",
+      "from": "2025-01-09T04:30:00.000Z",
+      "to": "2025-01-09T13:00:00.000Z",
+      "id": "6f1e5e98f198345faabf448a228c3b1b"
+    },
+    {
+      "date": "Le lundi 30 septembre 2024 de  09:35:00 à  16:00:00",
+      "streets": "FERNEY, RESTAURANT FALAISE ROUGE ET LES ALENTOURS",
+      "from": "2024-09-30T05:35:00.000Z",
+      "to": "2024-09-30T12:00:00.000Z",
+      "id": "96c77360a16caaa021f9593974ef0d5d"
+    },
+    {
+      "date": "Le vendredi 27 septembre 2024 de  08:30:00 à  17:00:00",
+      "streets": "Ferney",
+      "from": "2024-09-27T04:30:00.000Z",
+      "to": "2024-09-27T13:00:00.000Z",
+      "id": "83809e1a25aba36afabff7a437391ccd"
+    },
+    {
+      "date": "Le lundi 2 septembre 2024 de  11:15:00 à  12:00:00",
+      "streets": "une partie de route royale",
+      "from": "2024-09-02T07:15:00.000Z",
+      "to": "2024-09-02T08:00:00.000Z",
+      "id": "5544ba6e257348b78e072fcd5ab51c66"
+    }
+  ]
+}

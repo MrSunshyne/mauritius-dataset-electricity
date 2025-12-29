@@ -1,0 +1,68 @@
+{
+  "date": "2024-07-29",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.820Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le lundi 29 juillet 2024 de  08:30:00 à  10:00:00",
+      "locality": "RICHEMARE",
+      "localitySlug": "richemare",
+      "streets": "Riche Mare dans les environs de Radhakissoon Ln, Cemetery Rd et  Boutique Coco.",
+      "district": "flacq",
+      "from": "2024-07-29T04:30:00.000Z",
+      "to": "2024-07-29T06:00:00.000Z",
+      "id": "4706d58231b2e36f80bad8f3e101254a"
+    },
+    {
+      "date": "Le lundi 29 juillet 2024 de  09:00:00 à  12:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Casino lane, Securite Sociale, letat civile et les alentours",
+      "district": "plainewilhems",
+      "from": "2024-07-29T05:00:00.000Z",
+      "to": "2024-07-29T08:00:00.000Z",
+      "id": "01fb26e6a37d0e56275f1282503dbd0b"
+    },
+    {
+      "date": "Le lundi 29 juillet 2024 de  11:30:00 à  13:30:00",
+      "locality": "SODNAC",
+      "localitySlug": "sodnac",
+      "streets": "SSR Road, Ave Sodnac. Trianon 1 & 2, Ave Longanier",
+      "district": "plainewilhems",
+      "from": "2024-07-29T07:30:00.000Z",
+      "to": "2024-07-29T09:30:00.000Z",
+      "id": "6d0e13486eaa1b83642d826a4ae8a18e"
+    },
+    {
+      "date": "Le lundi 29 juillet 2024 de  15:30:00 à  18:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "CHEMIN HERMITAGE,CINQ ARPENTS",
+      "district": "plainewilhems",
+      "from": "2024-07-29T11:30:00.000Z",
+      "to": "2024-07-29T14:30:00.000Z",
+      "id": "f1d1c6d8ea451addd2b09feb663ec254"
+    },
+    {
+      "date": "Le lundi 29 juillet 2024 de  10:00:00 à  15:00:00",
+      "locality": "BELLE VUE MAUREL",
+      "localitySlug": "belle-vue-maurel",
+      "streets": "Route royale et les alentours",
+      "district": "rivieredurempart",
+      "from": "2024-07-29T06:00:00.000Z",
+      "to": "2024-07-29T11:00:00.000Z",
+      "id": "f7d6e6c5a884e035aa64ca86ee971924"
+    },
+    {
+      "date": "Le lundi 29 juillet 2024 de  10:00:00 à  14:00:00",
+      "locality": "SENEVILLE",
+      "localitySlug": "seneville",
+      "streets": "Water Treatment Plant et les alentours",
+      "district": "savanne",
+      "from": "2024-07-29T06:00:00.000Z",
+      "to": "2024-07-29T10:00:00.000Z",
+      "id": "4d4e4d5234938159da11a439d893ada1"
+    }
+  ]
+}

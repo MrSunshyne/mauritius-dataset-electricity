@@ -1,0 +1,473 @@
+{
+  "slug": "central-flacq",
+  "name": "CENTRAL FLACQ",
+  "district": "flacq",
+  "generated": "2025-12-29T20:14:25.956Z",
+  "outageCount": 66,
+  "firstOutage": "2022-03-13",
+  "lastOutage": "2025-11-20",
+  "outages": [
+    {
+      "date": "Le jeudi 20 novembre 2025 de  10:00:00 à  12:30:00",
+      "streets": "LA SOURCE CENTRE DE FLACQ",
+      "from": "2025-11-20T06:00:00.000Z",
+      "to": "2025-11-20T08:30:00.000Z",
+      "id": "9973e1ee007ae71892d9671c4b1c081c"
+    },
+    {
+      "date": "Le vendredi 17 octobre 2025 de  09:00:00 à  15:00:00",
+      "streets": "CAMP RAFFIA",
+      "from": "2025-10-17T05:00:00.000Z",
+      "to": "2025-10-17T11:00:00.000Z",
+      "id": "b0b150805dd3f401562a3730d2dc85f1"
+    },
+    {
+      "date": "Le jeudi 2 octobre 2025 de  13:30:00 à  17:00:00",
+      "streets": "FLACQ dans le périmètre de WINNERS, SENATOR, FLACQ MARKET et STADE AUGUSTE VOLLAIRE",
+      "from": "2025-10-02T09:30:00.000Z",
+      "to": "2025-10-02T13:00:00.000Z",
+      "id": "3fe622b9fcd775882c401a8d7d96a12c"
+    },
+    {
+      "date": "Le vendredi 11 juillet 2025 de  09:00:00 à  11:00:00",
+      "streets": "Ave Charles de Gaulle et Ave Francois Mitterand",
+      "from": "2025-07-11T05:00:00.000Z",
+      "to": "2025-07-11T07:00:00.000Z",
+      "id": "06e87df71177d10fe0bee2c92d82cf96"
+    },
+    {
+      "date": "Le vendredi 20 juin 2025 de  09:00:00 à  11:30:00",
+      "streets": "ROYAL ROAD CENTRE DE FLACQ VIP COMMERCIAL CENTRE",
+      "from": "2025-06-20T05:00:00.000Z",
+      "to": "2025-06-20T07:30:00.000Z",
+      "id": "a1a72508347f81a3d43a8ed83bb6d980"
+    },
+    {
+      "date": "Le vendredi 21 mars 2025 de  09:00:00 à  11:00:00",
+      "streets": "CASSIMALLY RD, ST URSULE STREET, MARKET RD AND SURROUNDINGS",
+      "from": "2025-03-21T05:00:00.000Z",
+      "to": "2025-03-21T07:00:00.000Z",
+      "id": "17b7d841882726afb82beff67b8afd87"
+    },
+    {
+      "date": "Le lundi 3 mars 2025 de  09:45:00 à  10:45:00",
+      "streets": "Rue Francois Mitterand,Filling Engen,Boulangerie Le Fournil",
+      "from": "2025-03-03T05:45:00.000Z",
+      "to": "2025-03-03T06:45:00.000Z",
+      "id": "ac53b3da0a6ec1da6dc14e5e0c5c581a"
+    },
+    {
+      "date": "Le vendredi 14 février 2025 de  12:00:00 à  17:00:00",
+      "streets": "LA SOURCE CENTRE DE FLACQ",
+      "from": "2025-02-14T08:00:00.000Z",
+      "to": "2025-02-14T13:00:00.000Z",
+      "id": "2c5c65a709572af3151c08c6b6ba50a1"
+    },
+    {
+      "date": "Le vendredi 31 janvier 2025 de  12:50:00 à  13:30:00",
+      "streets": "LA SOURCE FLACQ",
+      "from": "2025-01-31T08:50:00.000Z",
+      "to": "2025-01-31T09:30:00.000Z",
+      "id": "54480b220b2bb55231d5b4edad6ca2ad"
+    },
+    {
+      "date": "Le mardi 28 janvier 2025 de  15:00:00 à  16:00:00",
+      "streets": "R/RD LA SOURCE,RAMCHANDUR RD",
+      "from": "2025-01-28T11:00:00.000Z",
+      "to": "2025-01-28T12:00:00.000Z",
+      "id": "ced1a0ff6de6cd357a40122a8f388982"
+    },
+    {
+      "date": "Le lundi 13 janvier 2025 de  12:00:00 à  14:00:00",
+      "streets": "MORC LA COLOMBRE BOULET ROUGE",
+      "from": "2025-01-13T08:00:00.000Z",
+      "to": "2025-01-13T10:00:00.000Z",
+      "id": "e5cbf29b53d7a9dc28edcadd819bf717"
+    },
+    {
+      "date": "Le mercredi 18 décembre 2024 de  10:00:00 à  13:00:00",
+      "streets": "DOMAINE LA COLOMBES CENTRAL FLACQ",
+      "from": "2024-12-18T06:00:00.000Z",
+      "to": "2024-12-18T09:00:00.000Z",
+      "id": "e94ca4aeac04bf6fc375462ae42e32ae"
+    },
+    {
+      "date": "Le samedi 14 décembre 2024 de  08:45:00 à  15:00:00",
+      "streets": "Village de Flacq dans les environs de Morc VRS, Plaine Des Gersigny, Camps Manesh et Centre de Flacq",
+      "from": "2024-12-14T04:45:00.000Z",
+      "to": "2024-12-14T11:00:00.000Z",
+      "id": "7749fffa26d70486bbcf585d56c48293"
+    },
+    {
+      "date": "Le vendredi 13 décembre 2024 de  15:20:00 à  17:30:00",
+      "streets": "MORC PLAINE DE GERSIGNY A L-ARRIERE ANCIENT HOPITAL FLACQ.",
+      "from": "2024-12-13T11:20:00.000Z",
+      "to": "2024-12-13T13:30:00.000Z",
+      "id": "ae2dc8723c56635163e07add0b396524"
+    },
+    {
+      "date": "Le vendredi 13 décembre 2024 de  13:35:00 à  15:35:00",
+      "streets": "DANS LES ENVIRONS STATION DE POLICE FLACQ JUSQU-A MAGASIN MANJOO.",
+      "from": "2024-12-13T09:35:00.000Z",
+      "to": "2024-12-13T11:35:00.000Z",
+      "id": "059f73b9c959ac6a56d1135b451d9cf0"
+    },
+    {
+      "date": "Le mercredi 4 décembre 2024 de  16:00:00 à  17:00:00",
+      "streets": "Lex Bruno Cheong, St Remy, Avenue Charles de Gaulle et Avenue Francois Mitterand",
+      "from": "2024-12-04T12:00:00.000Z",
+      "to": "2024-12-04T13:00:00.000Z",
+      "id": "c7a54a293e238ea37f49460f64015992"
+    },
+    {
+      "date": "Le mercredi 4 décembre 2024 de  09:00:00 à  15:30:00",
+      "streets": "MORC PLAINE DE GERSINY",
+      "from": "2024-12-04T05:00:00.000Z",
+      "to": "2024-12-04T11:30:00.000Z",
+      "id": "57786e59550131b3e6272bcd35d45a21"
+    },
+    {
+      "date": "Le mercredi 4 décembre 2024 de  08:30:00 à  09:30:00",
+      "streets": "Lex Bruno Cheong, St Remy, Avenue Charles de Gaulle et Avenue Francois Mitterand",
+      "from": "2024-12-04T04:30:00.000Z",
+      "to": "2024-12-04T05:30:00.000Z",
+      "id": "33ab51b26c00d6e239297d51b84f7fc5"
+    },
+    {
+      "date": "Le lundi 28 octobre 2024 de  18:45:00 à  20:00:00",
+      "streets": "MORC LA COLOMBE,CAMP GARREAU,BOULET ROUGE,MORC INDIAN OIL",
+      "from": "2024-10-28T14:45:00.000Z",
+      "to": "2024-10-28T16:00:00.000Z",
+      "id": "3409e8427f7abc113469d10bca2b3439"
+    },
+    {
+      "date": "Le jeudi 24 octobre 2024 de  06:00:00 à  18:00:00",
+      "streets": "DANS LES ALENTOURS DE INDIAN OIL",
+      "from": "2024-10-24T02:00:00.000Z",
+      "to": "2024-10-24T14:00:00.000Z",
+      "id": "d9f5d20b6d1f857bbc55fc0f14f14b89"
+    },
+    {
+      "date": "Le jeudi 17 octobre 2024 de  13:00:00 à  14:30:00",
+      "streets": "Village de Flacq dans les environs de Rajkumar Gujadhur Govt School, 361 et les zones avoisinante.",
+      "from": "2024-10-17T09:00:00.000Z",
+      "to": "2024-10-17T10:30:00.000Z",
+      "id": "35cdc823b39ccb744502555a665399ec"
+    },
+    {
+      "date": "Le samedi 3 août 2024 de  08:45:00 à  13:00:00",
+      "streets": "PLAINE DES GERSINY NR HOSPITAL",
+      "from": "2024-08-03T04:45:00.000Z",
+      "to": "2024-08-03T09:00:00.000Z",
+      "id": "8f7c0d8dbb5bdd536f473cf9231fc273"
+    },
+    {
+      "date": "Le mardi 23 juillet 2024 de  09:00:00 à  12:00:00",
+      "streets": "Centre De Flacq dans les environ de Plaine De Gersigny rd, St Anne street, Printaniere Str, Lotus Str, St Remy str, Morc VRS Plaine des Gersigny, Morc VRS Camp Manesh, Fraincois Mitrerand rd et Charles de Gaulle rd.",
+      "from": "2024-07-23T05:00:00.000Z",
+      "to": "2024-07-23T08:00:00.000Z",
+      "id": "d022159b3667d6b716a013fd3b2e23bd"
+    },
+    {
+      "date": "Le samedi 20 juillet 2024 de  11:45:00 à  17:00:00",
+      "streets": "PLAINE DES GERSIGNY",
+      "from": "2024-07-20T07:45:00.000Z",
+      "to": "2024-07-20T13:00:00.000Z",
+      "id": "f94a446624c3cc47da06a9f8d19138cf"
+    },
+    {
+      "date": "Le samedi 6 juillet 2024 de  10:00:00 à  11:00:00",
+      "streets": "MORC LA COLOMBE",
+      "from": "2024-07-06T06:00:00.000Z",
+      "to": "2024-07-06T07:00:00.000Z",
+      "id": "ab61ec365a81233c8015b5ff6a60c4e2"
+    },
+    {
+      "date": "Le mercredi 12 juin 2024 de  12:30:00 à  15:00:00",
+      "streets": "MORC PLAINE DE GERSINY NO 3",
+      "from": "2024-06-12T08:30:00.000Z",
+      "to": "2024-06-12T11:00:00.000Z",
+      "id": "97d56389f8d0e93cdc9d3c4ebac2025c"
+    },
+    {
+      "date": "Le mercredi 12 juin 2024 de  10:00:00 à  13:00:00",
+      "streets": "PLAINE DE GERSINY",
+      "from": "2024-06-12T06:00:00.000Z",
+      "to": "2024-06-12T09:00:00.000Z",
+      "id": "6b48e70db0ca4c7886597f2547ea41de"
+    },
+    {
+      "date": "Le lundi 27 mai 2024 de  14:45:00 à  17:00:00",
+      "streets": "PART OF MORC PLAINE DES GERSIGNY TOWARDS EX-DISTRICT COUNCIL BUILDING.",
+      "from": "2024-05-27T10:45:00.000Z",
+      "to": "2024-05-27T13:00:00.000Z",
+      "id": "9ae53a4b308311fd83e0a68074a88b58"
+    },
+    {
+      "date": "Le lundi 27 mai 2024 de  11:50:00 à  13:30:00",
+      "streets": "PLAINE DES GERSIGNY, ST REMY, PART OF MORC",
+      "from": "2024-05-27T07:50:00.000Z",
+      "to": "2024-05-27T09:30:00.000Z",
+      "id": "2587d42e72439e1457a6b4d06137f894"
+    },
+    {
+      "date": "Le lundi 27 mai 2024 de  09:30:00 à  12:00:00",
+      "streets": "les abonnes du village de Flacq  dans les perimetres de Lhopital de Flacq, CEB Cash Office, Ecole du Governement de Rajkumar Gajadhur,Courts Mamouth, La station Police De Flacq, Le Tribunal de Flacq et Eagle Clinic.",
+      "from": "2024-05-27T05:30:00.000Z",
+      "to": "2024-05-27T08:00:00.000Z",
+      "id": "92c21bd221eece5c150033018db62d2c"
+    },
+    {
+      "date": "Le mardi 14 mai 2024 de  14:15:00 à  16:15:00",
+      "streets": "EN PARTIE MORC PLAINE DE GERSIGNY.",
+      "from": "2024-05-14T10:15:00.000Z",
+      "to": "2024-05-14T12:15:00.000Z",
+      "id": "91e52bcfd06c269749a683476deeefbd"
+    },
+    {
+      "date": "Le dimanche 14 avril 2024 de  14:30:00 à  15:30:00",
+      "streets": "Hermitage",
+      "from": "2024-04-14T10:30:00.000Z",
+      "to": "2024-04-14T11:30:00.000Z",
+      "id": "7e5a1fdbbac3cf520d29fd9cf82b0fed"
+    },
+    {
+      "date": "Le dimanche 14 avril 2024 de  08:15:00 à  09:15:00",
+      "streets": "Hermitage",
+      "from": "2024-04-14T04:15:00.000Z",
+      "to": "2024-04-14T05:15:00.000Z",
+      "id": "71715ec6e597d77ea78315c1ded93e89"
+    },
+    {
+      "date": "Le vendredi 12 avril 2024 de  17:15:00 à  18:30:00",
+      "streets": "LES ABONNES DE BOULET ROUGE, MORC BEEHARRY, PLAINE DE GERSIGNY ET MCB.",
+      "from": "2024-04-12T13:15:00.000Z",
+      "to": "2024-04-12T14:30:00.000Z",
+      "id": "dfd2b280f576228afdd5918160512b9d"
+    },
+    {
+      "date": "Le lundi 8 avril 2024 de  15:30:00 à  16:30:00",
+      "streets": "RUE FRANCOIS MITTERAND ET LES ALENTOURS.",
+      "from": "2024-04-08T11:30:00.000Z",
+      "to": "2024-04-08T12:30:00.000Z",
+      "id": "e0ebd79effed560585ccc116f1d1ac10"
+    },
+    {
+      "date": "Le samedi 9 mars 2024 de  13:00:00 à  17:30:00",
+      "streets": "REGIONS QUATRE COCO,MARE LACHAUX.POINTE DE FLACQ,BELLEMARE",
+      "from": "2024-03-09T09:00:00.000Z",
+      "to": "2024-03-09T13:30:00.000Z",
+      "id": "db3fa650364b56c63e3135a1bbfd21cd"
+    },
+    {
+      "date": "Le dimanche 3 mars 2024 de  15:30:00 à  17:30:00",
+      "streets": "F MITTERAND ST FROM COURTS UP TO CHURCH",
+      "from": "2024-03-03T11:30:00.000Z",
+      "to": "2024-03-03T13:30:00.000Z",
+      "id": "318eac9f4be740396887b67770e52dd6"
+    },
+    {
+      "date": "Le jeudi 29 février 2024 de  13:00:00 à  18:00:00",
+      "streets": "Ex Market Road, St Ursule Road, Choonee Building, One stop shop, Koolwant Building, Arcade Bakar, Dentiste Beesambur, SSS Rajkumar Gajadhur.",
+      "from": "2024-02-29T09:00:00.000Z",
+      "to": "2024-02-29T14:00:00.000Z",
+      "id": "4486037766a098457c77070dd52a664d"
+    },
+    {
+      "date": "Le jeudi 22 février 2024 de  13:00:00 à  18:00:00",
+      "streets": "Ex Market Road, St Ursule Road, Choonee Building, One stop shop, Koolwant Building, Arcade Bakar, Dentiste Beesambur, SSS Rajkumar Gajadhur.",
+      "from": "2024-02-22T09:00:00.000Z",
+      "to": "2024-02-22T14:00:00.000Z",
+      "id": "72564121d3836998511e5dd606a55757"
+    },
+    {
+      "date": "Le jeudi 15 février 2024 de  12:00:00 à  16:00:00",
+      "streets": "Centre De Flacq:Ex Market Road, St Ursule Road, Choonee Building, One stop shop, Koolwant Building, Arcade Bakar.",
+      "from": "2024-02-15T08:00:00.000Z",
+      "to": "2024-02-15T12:00:00.000Z",
+      "id": "92ec3282014165eeeb059caf2c1168e1"
+    },
+    {
+      "date": "Le lundi 29 janvier 2024 de  10:00:00 à  12:00:00",
+      "streets": "CENTRAL FLACQ DANS LES ALENTOURS DE RAJCOOMAR GUJADHUR ET DISTRICT COUNCIL",
+      "from": "2024-01-29T06:00:00.000Z",
+      "to": "2024-01-29T08:00:00.000Z",
+      "id": "7ef6963ab2908586d754b5a17bd46127"
+    },
+    {
+      "date": "Le mardi 23 janvier 2024 de  11:30:00 à  15:00:00",
+      "streets": "FRANCOIS MITTERAND ST C.FLACQ ET LES ALENTOURS DE LEGLISE",
+      "from": "2024-01-23T07:30:00.000Z",
+      "to": "2024-01-23T11:00:00.000Z",
+      "id": "72ecc716f14454b1f088f1617e599a5e"
+    },
+    {
+      "date": "Le mercredi 10 janvier 2024 de  10:00:00 à  11:00:00",
+      "streets": "COLLEGE EASTERN ET LES ALENTOURS",
+      "from": "2024-01-10T06:00:00.000Z",
+      "to": "2024-01-10T07:00:00.000Z",
+      "id": "19cca43f62fecfe3fd9bb10f5d4fe274"
+    },
+    {
+      "date": "Le vendredi 5 janvier 2024 de  08:40:00 à  17:00:00",
+      "streets": "LA SOURCE, PART OF ROYAL ROAD, KFC, EMTEL, VIP WAY, COOLWANT BUILDING, ARCADE BAKAR AND SURROUNDINGS",
+      "from": "2024-01-05T04:40:00.000Z",
+      "to": "2024-01-05T13:00:00.000Z",
+      "id": "8ba81556b6a640875e0edc3af913ede2"
+    },
+    {
+      "date": "Le vendredi 5 janvier 2024 de  08:30:00 à  17:00:00",
+      "streets": "VIP WAY, Mauritius Telecom, KFC, Market Road, Consumer Service District Council Building, Kalachand Road, St Ursule Road, Choonee Building, Old Market Road, New Market Road, Ramchandar Road, Dream Price Building (EX MARA), Galaxy Cotaya Building.",
+      "from": "2024-01-05T04:30:00.000Z",
+      "to": "2024-01-05T13:00:00.000Z",
+      "id": "d84c54b5769da44573e6b23f744c52ff"
+    },
+    {
+      "date": "Le mercredi 29 novembre 2023 de  10:00:00 à  11:30:00",
+      "streets": "MORCELLEMENT HERMITAGE FLACQ.",
+      "from": "2023-11-29T06:00:00.000Z",
+      "to": "2023-11-29T07:30:00.000Z",
+      "id": "d947fd26ee9d8d11327b766582c5068a"
+    },
+    {
+      "date": "Le mercredi 22 novembre 2023 de  08:30:00 à  16:00:00",
+      "streets": "Les abonnes du village de Hermitage Flacq",
+      "from": "2023-11-22T04:30:00.000Z",
+      "to": "2023-11-22T12:00:00.000Z",
+      "id": "ad87e7779d046a94c44839c8b9842c04"
+    },
+    {
+      "date": "Le lundi 20 novembre 2023 de  19:30:00 à  00:00:00",
+      "streets": "AVE BIGARADE CAMP MARCELIN",
+      "from": "2023-11-20T15:30:00.000Z",
+      "to": "2023-11-19T20:00:00.000Z",
+      "id": "58cfbc809904e6022f0b379f22995fd3"
+    },
+    {
+      "date": "Le samedi 18 novembre 2023 de  04:00:00 à  16:00:00",
+      "streets": "Rues Charles de Gaulles,Francois Mitterand,Seeraullee,Market,St Ursule et les environs",
+      "from": "2023-11-18T00:00:00.000Z",
+      "to": "2023-11-18T12:00:00.000Z",
+      "id": "0fb4a30216e4a1406226ebaa9b72811f"
+    },
+    {
+      "date": "Le jeudi 16 novembre 2023 de  21:30:00 à  12:00:00",
+      "streets": "HERMITAGE CENTRE DE FLAC NR POMPIER",
+      "from": "2023-11-16T17:30:00.000Z",
+      "to": "2023-11-16T08:00:00.000Z",
+      "id": "00326708109c2021ee100286556c2abf"
+    },
+    {
+      "date": "Le jeudi 16 novembre 2023 de  09:30:00 à  12:00:00",
+      "streets": "HERMITAGE CENTRE DE FLAC NR POMPIER",
+      "from": "2023-11-16T05:30:00.000Z",
+      "to": "2023-11-16T08:00:00.000Z",
+      "id": "a3df828d25d564b06b2afffea1427ba7"
+    },
+    {
+      "date": "Le dimanche 15 octobre 2023 de  08:30:00 à  17:00:00",
+      "streets": "Morcellement Plaine Des Gersigny No.1",
+      "from": "2023-10-15T04:30:00.000Z",
+      "to": "2023-10-15T13:00:00.000Z",
+      "id": "2311a782687abe594c9844f8b4ec9871"
+    },
+    {
+      "date": "Le vendredi 4 août 2023 de  13:00:00 à  19:30:00",
+      "streets": "REGION BOULET ROUGE  CENTRE DE FLACQ",
+      "from": "2023-08-04T09:00:00.000Z",
+      "to": "2023-08-04T15:30:00.000Z",
+      "id": "99e4e1eca7e5a43cb6f8bc652a612d14"
+    },
+    {
+      "date": "Le mercredi 2 août 2023 de  08:30:00 à  17:00:00",
+      "streets": "Dans les perimetres du Bureau Service de Licence de vehicules dArgy, Isidore Rose et Morc Pricome",
+      "from": "2023-08-02T04:30:00.000Z",
+      "to": "2023-08-02T13:00:00.000Z",
+      "id": "f2d71866c998343cf506ce582868193f"
+    },
+    {
+      "date": "Le jeudi 6 avril 2023 de  20:55:00 à  21:45:00",
+      "streets": "MARKET RD, STE URSULE RD, PART RICHE MARE RD=HT FAULT",
+      "from": "2023-04-06T16:55:00.000Z",
+      "to": "2023-04-06T17:45:00.000Z",
+      "id": "05134b6c6a0ed44776942365a47fd51e"
+    },
+    {
+      "date": "Le jeudi 30 mars 2023 de  12:00:00 à  15:00:00",
+      "streets": "Les abonnés habitant à  Centre De Flacq dans les périmètres de One Stop Shop Building et Arcade Sibarti  vers KFC",
+      "from": "2023-03-30T08:00:00.000Z",
+      "to": "2023-03-30T11:00:00.000Z",
+      "id": "b10be43a03c8a3a6941aa5b258c9f4ea"
+    },
+    {
+      "date": "Le jeudi 30 mars 2023 de  09:00:00 à  15:00:00",
+      "streets": "Les abonnés habitant à  Centre De Flacq dans les périmètres de  Choonee Building Jusqu’au  Magasin 361",
+      "from": "2023-03-30T05:00:00.000Z",
+      "to": "2023-03-30T11:00:00.000Z",
+      "id": "d496282ed10f6ab6a10838bdcd25ff60"
+    },
+    {
+      "date": "Le jeudi 23 février 2023 de  20:15:00 à  22:15:00",
+      "streets": "MORC BOULET ROUGE",
+      "from": "2023-02-23T16:15:00.000Z",
+      "to": "2023-02-23T18:15:00.000Z",
+      "id": "4e2046728e936efe01c25a13b90bfb41"
+    },
+    {
+      "date": "Le vendredi 13 janvier 2023 de  08:30:00 à  11:00:00",
+      "streets": "VIP COMMERCIAL CENTRE CENTRAL FLACQ",
+      "from": "2023-01-13T04:30:00.000Z",
+      "to": "2023-01-13T07:00:00.000Z",
+      "id": "c3d43b78f258f4256dbc288572fc702d"
+    },
+    {
+      "date": "Le jeudi 15 septembre 2022 de  13:00:00 à  17:00:00",
+      "streets": "PLAINE DE GERSINY NR MAGISTRATURE AND HOSPITAL ROYAL ROAD CENTRE DE FLAC",
+      "from": "2022-09-15T09:00:00.000Z",
+      "to": "2022-09-15T13:00:00.000Z",
+      "id": "3c478dc537fe5e318a0f078a10856648"
+    },
+    {
+      "date": "Le jeudi 15 septembre 2022 de  04:00:00 à  12:00:00",
+      "streets": "CENTRAL FLACQ",
+      "from": "2022-09-15T00:00:00.000Z",
+      "to": "2022-09-15T08:00:00.000Z",
+      "id": "041457740a91e7a6480b7cb801d8a66c"
+    },
+    {
+      "date": "Le dimanche 11 septembre 2022 de  08:00:00 à  17:00:00",
+      "streets": "Centre De Flacq dans les périmètres de Lycée Polytechnique, Fortune Way, Super U,St Remy et Constance",
+      "from": "2022-09-11T04:00:00.000Z",
+      "to": "2022-09-11T13:00:00.000Z",
+      "id": "e8f4c97f0157b9da179ac14bbdc261f0"
+    },
+    {
+      "date": "Le jeudi 23 juin 2022 de  18:30:00 à  20:00:00",
+      "streets": "CAMP GAREAUX",
+      "from": "2022-06-23T14:30:00.000Z",
+      "to": "2022-06-23T16:00:00.000Z",
+      "id": "4ced1f9f857f5135c5e4db8303349a6d"
+    },
+    {
+      "date": "Le lundi 6 juin 2022 de  10:30:00 à  13:00:00",
+      "streets": "Morc Vrs Plaine de Gersigny Flacq",
+      "from": "2022-06-06T06:30:00.000Z",
+      "to": "2022-06-06T09:00:00.000Z",
+      "id": "a45d39de0b0f698de22e92e759b08c2f"
+    },
+    {
+      "date": "Le mardi 5 avril 2022 de  10:00:00 à  16:00:00",
+      "streets": "LA SOURCE CENTRE DE FLACK",
+      "from": "2022-04-05T06:00:00.000Z",
+      "to": "2022-04-05T12:00:00.000Z",
+      "id": "07547a2371049d2c20225bb601bfa0fa"
+    },
+    {
+      "date": "Le dimanche 13 mars 2022 de  08:00:00 à  17:00:00",
+      "streets": "Morc Plaine Des Gersigny, Camp Maness, L’hôpital de Flacq, Courts Mammouth, Aegle Clinique et Station de Police",
+      "from": "2022-03-13T04:00:00.000Z",
+      "to": "2022-03-13T13:00:00.000Z",
+      "id": "25577b77a6624f09696f2cc16c45ff02"
+    }
+  ]
+}

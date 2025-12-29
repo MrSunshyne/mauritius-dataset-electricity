@@ -1,0 +1,78 @@
+{
+  "date": "2024-02-05",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.808Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le lundi 5 février 2024 de  14:20:00 à  17:30:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "LA JOLIETTE LANE, ROUTE ROYALE PLATFORME JUSQUA STATION POLICE ET LES RUELLES AVOISINANTES.",
+      "district": "blackriver",
+      "from": "2024-02-05T10:20:00.000Z",
+      "to": "2024-02-05T13:30:00.000Z",
+      "id": "43f4dc75669afa8e9c1d9680bc0e451d"
+    },
+    {
+      "date": "Le lundi 5 février 2024 de  16:15:00 à  17:45:00",
+      "locality": "MARE TABAC",
+      "localitySlug": "mare-tabac",
+      "streets": "MARE TABAC",
+      "district": "grandport",
+      "from": "2024-02-05T12:15:00.000Z",
+      "to": "2024-02-05T13:45:00.000Z",
+      "id": "f0dc2eea45a0f58c54f0d199cce71651"
+    },
+    {
+      "date": "Le lundi 5 février 2024 de  15:30:00 à  17:30:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "MORC RAFFRAY TERRE ROUGE : CHEMIN BLUE EST, CHEMIN INDEPENDANCE ET DANS LES ENVIRONS ECOLE GOUVERNEMENT.",
+      "district": "pamplemousses",
+      "from": "2024-02-05T11:30:00.000Z",
+      "to": "2024-02-05T13:30:00.000Z",
+      "id": "23fcb73b4f8c6e2e2512185b911eca0a"
+    },
+    {
+      "date": "Le lundi 5 février 2024 de  20:30:00 à  23:30:00",
+      "locality": "CONGOMAH",
+      "localitySlug": "congomah",
+      "streets": "CONGOMAH DANS LES ENVIRONS VILLAGE HALL.",
+      "district": "pamplemousses",
+      "from": "2024-02-05T16:30:00.000Z",
+      "to": "2024-02-05T19:30:00.000Z",
+      "id": "e3a4f594b07d3aff1b4c7f7898c642a8"
+    },
+    {
+      "date": "Le lundi 5 février 2024 de  09:00:00 à  13:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Trait d’Union, Floreal Road Vacoas",
+      "district": "plainewilhems",
+      "from": "2024-02-05T05:00:00.000Z",
+      "to": "2024-02-05T09:00:00.000Z",
+      "id": "75ea6c915307209eda710c8b09fe71bc"
+    },
+    {
+      "date": "Le lundi 5 février 2024 de  15:00:00 à  17:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Morc Ah Yen, Rte Bassin, Ave Kalimaye, Oogur Lane et Morc Appadoo",
+      "district": "plainewilhems",
+      "from": "2024-02-05T11:00:00.000Z",
+      "to": "2024-02-05T13:30:00.000Z",
+      "id": "b266ebcc3d29927d621aa52ecfef492b"
+    },
+    {
+      "date": "Le lundi 5 février 2024 de  21:00:00 à  23:00:00",
+      "locality": "PLAINE VERTE",
+      "localitySlug": "plaine-verte",
+      "streets": "LA RUE GOA PLAINE VERTE",
+      "district": "portlouis",
+      "from": "2024-02-05T17:00:00.000Z",
+      "to": "2024-02-05T19:00:00.000Z",
+      "id": "db03892dbc03e182ea531456c7f20dbd"
+    }
+  ]
+}

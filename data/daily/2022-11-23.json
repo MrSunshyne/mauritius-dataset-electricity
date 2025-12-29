@@ -1,0 +1,88 @@
+{
+  "date": "2022-11-23",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.776Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le mercredi 23 novembre 2022 de  08:30:00 à  17:30:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "MORC BLACKROCK, MORC BELOGUET, MORC INVESTORS, MORC MAINGARD ET MORC DOMAIN",
+      "district": "blackriver",
+      "from": "2022-11-23T04:30:00.000Z",
+      "to": "2022-11-23T13:30:00.000Z",
+      "id": "4938b62e760c4db07f2abb58d43ab65e"
+    },
+    {
+      "date": "Le mercredi 23 novembre 2022 de  09:00:00 à  16:00:00",
+      "locality": "ANSE JONCHEE",
+      "localitySlug": "anse-jonchee",
+      "streets": "Anse Jonchée & Bambous Virieux",
+      "district": "grandport",
+      "from": "2022-11-23T05:00:00.000Z",
+      "to": "2022-11-23T12:00:00.000Z",
+      "id": "fdf5727c0939887d19465007b8a137ec"
+    },
+    {
+      "date": "Le mercredi 23 novembre 2022 de  20:30:00 à  22:00:00",
+      "locality": "LA LAURA SAINT PIERRE",
+      "localitySlug": "la-laura-saint-pierre",
+      "streets": "BEAU BOIS UP TYO N/DECOUVERTE",
+      "district": "moka",
+      "from": "2022-11-23T16:30:00.000Z",
+      "to": "2022-11-23T18:00:00.000Z",
+      "id": "e6d594e929329b6f79c167364fd2917b"
+    },
+    {
+      "date": "Le mercredi 23 novembre 2022 de  13:30:00 à  15:00:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "MORC JHUBOO",
+      "district": "pamplemousses",
+      "from": "2022-11-23T09:30:00.000Z",
+      "to": "2022-11-23T11:00:00.000Z",
+      "id": "53f407934ff3c4e3a8d4baad368d184c"
+    },
+    {
+      "date": "Le mercredi 23 novembre 2022 de  13:30:00 à  17:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "prosper depinay street",
+      "district": "plainewilhems",
+      "from": "2022-11-23T09:30:00.000Z",
+      "to": "2022-11-23T13:00:00.000Z",
+      "id": "f97c0f5148db3006d24d1e1e9ce382b3"
+    },
+    {
+      "date": "Le mercredi 23 novembre 2022 de  09:00:00 à  15:00:00",
+      "locality": "BAIE DU CAP",
+      "localitySlug": "baie-du-cap",
+      "streets": "Bel Ombre et St. Martin Baie Du Cap",
+      "district": "savanne",
+      "from": "2022-11-23T05:00:00.000Z",
+      "to": "2022-11-23T11:00:00.000Z",
+      "id": "a8d77ccff8bcf4e9028f4408166d1860"
+    },
+    {
+      "date": "Le mercredi 23 novembre 2022 de  10:00:00 à  15:00:00",
+      "locality": "SURINAM",
+      "localitySlug": "surinam",
+      "streets": "SURINAM",
+      "district": "savanne",
+      "from": "2022-11-23T06:00:00.000Z",
+      "to": "2022-11-23T11:00:00.000Z",
+      "id": "467a20f1b3d89e5c2152e11bc1956b0c"
+    },
+    {
+      "date": "Le mercredi 23 novembre 2022 de  09:00:00 à  16:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "SONGES,PARC TORTUES,ANSE BALEINE.",
+      "district": "rodrigues",
+      "from": "2022-11-23T05:00:00.000Z",
+      "to": "2022-11-23T12:00:00.000Z",
+      "id": "2e3ac0113b96701738e95f9950a30110"
+    }
+  ]
+}

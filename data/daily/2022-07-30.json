@@ -1,0 +1,28 @@
+{
+  "date": "2022-07-30",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.768Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le samedi 30 juillet 2022 de  08:30:00 à  14:00:00",
+      "locality": "GLEN PARK",
+      "localitySlug": "glen-park",
+      "streets": "La Marie Road, Morcellement Malakoff et les environs",
+      "district": "plainewilhems",
+      "from": "2022-07-30T04:30:00.000Z",
+      "to": "2022-07-30T10:00:00.000Z",
+      "id": "0ac41e4bd38964fc8076599ec5cc4bf4"
+    },
+    {
+      "date": "Le samedi 30 juillet 2022 de  08:30:00 à  14:30:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Morc Affouye, CHA Stanley, en partie Ave Berthaud, Ave Bach, Ave Beethoven, Morc Narain, en partie Rue Corps de Garde, Assembly Lane, Morc Coombes, Morc Gajadhur, Morc Ramuth, Rue Monsieur, Ave Guy Rozemont, Morc Gaya, Blue Lane, Morc Domah et Stanley",
+      "district": "plainewilhems",
+      "from": "2022-07-30T04:30:00.000Z",
+      "to": "2022-07-30T10:30:00.000Z",
+      "id": "3b66446e3b5c178129e687676ab73b05"
+    }
+  ]
+}

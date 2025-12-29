@@ -1,0 +1,46 @@
+{
+  "slug": "la-ferme",
+  "name": "LA FERME(RODRIGUES)",
+  "district": "rodrigues",
+  "generated": "2025-12-29T20:14:26.042Z",
+  "outageCount": 5,
+  "firstOutage": "2023-11-03",
+  "lastOutage": "2025-04-03",
+  "outages": [
+    {
+      "date": "Le jeudi 3 avril 2025 de  12:00:00 à  13:00:00",
+      "streets": "La Freme Manick",
+      "from": "2025-04-03T08:00:00.000Z",
+      "to": "2025-04-03T09:00:00.000Z",
+      "id": "1a42c0385e64bf22b88427c929718eec"
+    },
+    {
+      "date": "Le samedi 29 mars 2025 de  08:30:00 à  16:00:00",
+      "streets": "la Ferme Manick",
+      "from": "2025-03-29T04:30:00.000Z",
+      "to": "2025-03-29T12:00:00.000Z",
+      "id": "3aae6bda6b4b92b42e454a42c03c2f85"
+    },
+    {
+      "date": "Le samedi 20 janvier 2024 de  08:30:00 à  15:00:00",
+      "streets": "La Ferme, Pistache, Montagne Croupier, Piment, Reposoir, Baie Topaze, Camp Pintade, Anse Nicolas, Mangue, Montagne Du sable, Grand La Fouche Mangue et Manick",
+      "from": "2024-01-20T04:30:00.000Z",
+      "to": "2024-01-20T11:00:00.000Z",
+      "id": "4e129c177659b25aa990e2d5cf4c971e"
+    },
+    {
+      "date": "Le samedi 13 janvier 2024 de  08:30:00 à  15:00:00",
+      "streets": "LA FERME, PISTACHE, PIMENT, MONTAGNE CROUPIER, REPOSOIR, BAIE TOPAZE, CAMP PINTADE, ANSE NICOLAS, MANGUES, MONTAGNE DU SABLE, GRAND LA FOUCHE MANGUE,MANICK",
+      "from": "2024-01-13T04:30:00.000Z",
+      "to": "2024-01-13T11:00:00.000Z",
+      "id": "0c5211b584300cb86ae013d741c07522"
+    },
+    {
+      "date": "Le vendredi 3 novembre 2023 de  08:30:00 à  15:00:00",
+      "streets": "Manick et Terre Bornes",
+      "from": "2023-11-03T04:30:00.000Z",
+      "to": "2023-11-03T11:00:00.000Z",
+      "id": "84b7b11e0af7ed889ad9abe7c9830aba"
+    }
+  ]
+}

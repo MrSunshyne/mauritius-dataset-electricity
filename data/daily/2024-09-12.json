@@ -1,0 +1,88 @@
+{
+  "date": "2024-09-12",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.825Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le jeudi 12 septembre 2024 de  12:00:00 à  16:00:00",
+      "locality": "NEW GROVE",
+      "localitySlug": "new-grove",
+      "streets": "New Grove habitant dans le périmètre et les rues suivantes : Rama Street, Gaytree Street, Doolum Street, Cheri Lane et les rues avoisinantes",
+      "district": "grandport",
+      "from": "2024-09-12T08:00:00.000Z",
+      "to": "2024-09-12T12:00:00.000Z",
+      "id": "b9e94254bad370caaca86bb187fbd2d0"
+    },
+    {
+      "date": "Le jeudi 12 septembre 2024 de  09:00:00 à  14:00:00",
+      "locality": "BEAU PLAN",
+      "localitySlug": "beau-plan",
+      "streets": "Beau Plan dans les environs de Island Fertiliser, Evapo et Beau Plan Business Park",
+      "district": "pamplemousses",
+      "from": "2024-09-12T05:00:00.000Z",
+      "to": "2024-09-12T10:00:00.000Z",
+      "id": "83e009a1096f6e98b55f74f0448621bf"
+    },
+    {
+      "date": "Le jeudi 12 septembre 2024 de  14:00:00 à  16:00:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "WHOLE OF PAMPLEMOUSSES.",
+      "district": "pamplemousses",
+      "from": "2024-09-12T10:00:00.000Z",
+      "to": "2024-09-12T12:00:00.000Z",
+      "id": "6e3e520e3f21ef67042bcc62a76e7558"
+    },
+    {
+      "date": "Le jeudi 12 septembre 2024 de  10:00:00 à  12:00:00",
+      "locality": "GLEN PARK",
+      "localitySlug": "glen-park",
+      "streets": "NR SHIVALA GLEN PARK",
+      "district": "plainewilhems",
+      "from": "2024-09-12T06:00:00.000Z",
+      "to": "2024-09-12T08:00:00.000Z",
+      "id": "5bccf4ae7d4923bfe0a39b94e55fe443"
+    },
+    {
+      "date": "Le jeudi 12 septembre 2024 de  12:30:00 à  18:00:00",
+      "locality": "CASTEL VACOAS",
+      "localitySlug": "castel-vacoas",
+      "streets": "ROYAL ROAD CASTEL.RUE GANACHAUX,EN PARTIE MESNIL",
+      "district": "plainewilhems",
+      "from": "2024-09-12T08:30:00.000Z",
+      "to": "2024-09-12T14:00:00.000Z",
+      "id": "eb42909c8874ec66296429905992705c"
+    },
+    {
+      "date": "Le jeudi 12 septembre 2024 de  17:00:00 à  17:30:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "DANS LES ENVIRONS DE RESIDENCE SAINT LOUIS ET AVENUE MICHAEL LEAL",
+      "district": "portlouis",
+      "from": "2024-09-12T13:00:00.000Z",
+      "to": "2024-09-12T13:30:00.000Z",
+      "id": "564655f7f8e0593c702f7289ab02b18d"
+    },
+    {
+      "date": "Le jeudi 12 septembre 2024 de  11:15:00 à  15:00:00",
+      "locality": "CASSIS",
+      "localitySlug": "cassis",
+      "streets": "LA RUE QUANTEE CASSIS",
+      "district": "portlouis",
+      "from": "2024-09-12T07:15:00.000Z",
+      "to": "2024-09-12T11:00:00.000Z",
+      "id": "8af54b43ebeccfaafaae811ccf41a680"
+    },
+    {
+      "date": "Le jeudi 12 septembre 2024 de  10:00:00 à  12:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "MORC ILOIS OOINTE AUX SABLE",
+      "district": "portlouis",
+      "from": "2024-09-12T06:00:00.000Z",
+      "to": "2024-09-12T08:00:00.000Z",
+      "id": "2b48abf5056e4df42d9c3eda99712106"
+    }
+  ]
+}

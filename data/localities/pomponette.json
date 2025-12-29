@@ -1,0 +1,25 @@
+{
+  "slug": "pomponette",
+  "name": "POMPONETTE",
+  "district": "savanne",
+  "generated": "2025-12-29T20:14:26.148Z",
+  "outageCount": 2,
+  "firstOutage": "2023-03-08",
+  "lastOutage": "2025-07-19",
+  "outages": [
+    {
+      "date": "Le samedi 19 juillet 2025 de  09:00:00 à  15:00:00",
+      "streets": "WHOLE VILLAGE",
+      "from": "2025-07-19T05:00:00.000Z",
+      "to": "2025-07-19T11:00:00.000Z",
+      "id": "1e9bc0f0bf301a4e934b21fc7454c33b"
+    },
+    {
+      "date": "Le mercredi 8 mars 2023 de  09:00:00 à  15:00:00",
+      "streets": "Le Village de Pomponette Riambel",
+      "from": "2023-03-08T05:00:00.000Z",
+      "to": "2023-03-08T11:00:00.000Z",
+      "id": "170cbe56a603f09f7caf393a1d30b6b7"
+    }
+  ]
+}

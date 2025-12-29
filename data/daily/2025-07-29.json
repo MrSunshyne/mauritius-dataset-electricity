@@ -1,0 +1,58 @@
+{
+  "date": "2025-07-29",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.844Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mardi 29 juillet 2025 de  09:30:00 à  12:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "SPLENDID VIEW",
+      "district": "blackriver",
+      "from": "2025-07-29T05:30:00.000Z",
+      "to": "2025-07-29T08:00:00.000Z",
+      "id": "deb6a0756da94c96a9cd53848baeb0c9"
+    },
+    {
+      "date": "Le mardi 29 juillet 2025 de  11:00:00 à  13:30:00",
+      "locality": "UNION PARK",
+      "localitySlug": "union-park",
+      "streets": "Union Park, Wireless Road, NHDC Balisson",
+      "district": "grandport",
+      "from": "2025-07-29T07:00:00.000Z",
+      "to": "2025-07-29T09:30:00.000Z",
+      "id": "eedc8f8001db9bc764d92721cd14d88d"
+    },
+    {
+      "date": "Le mardi 29 juillet 2025 de  16:48:00 à  20:00:00",
+      "locality": "UNION PARK",
+      "localitySlug": "union-park",
+      "streets": "UNION PARK",
+      "district": "grandport",
+      "from": "2025-07-29T12:48:00.000Z",
+      "to": "2025-07-29T16:00:00.000Z",
+      "id": "e833e80dae198d5683767b7744d8d8d4"
+    },
+    {
+      "date": "Le mardi 29 juillet 2025 de  10:15:00 à  12:15:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "Le Hochet,Nr Dhanush,Indian Oil,Savemax",
+      "district": "pamplemousses",
+      "from": "2025-07-29T06:15:00.000Z",
+      "to": "2025-07-29T08:15:00.000Z",
+      "id": "3468c5c22097194cecdc1628b01f1ad2"
+    },
+    {
+      "date": "Le mardi 29 juillet 2025 de  21:00:00 à  01:00:00",
+      "locality": "ROCHES NOIRES",
+      "localitySlug": "roches-noires",
+      "streets": "PARK RD ROCHES NOIRES",
+      "district": "rivieredurempart",
+      "from": "2025-07-29T17:00:00.000Z",
+      "to": "2025-07-28T21:00:00.000Z",
+      "id": "7d197ea1fd50a49dec5ae7a8ad3383a8"
+    }
+  ]
+}

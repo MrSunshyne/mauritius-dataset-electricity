@@ -1,0 +1,32 @@
+{
+  "slug": "pellegrin-sebastopol",
+  "name": "PELLEGRIN SEBASTOPOL",
+  "district": "flacq",
+  "generated": "2025-12-29T20:14:26.116Z",
+  "outageCount": 3,
+  "firstOutage": "2022-05-15",
+  "lastOutage": "2025-12-17",
+  "outages": [
+    {
+      "date": "Le mercredi 17 décembre 2025 de  11:00:00 à  14:00:00",
+      "streets": "dans les environs de Pellegrin",
+      "from": "2025-12-17T07:00:00.000Z",
+      "to": "2025-12-17T10:00:00.000Z",
+      "id": "1d01a3acec07f9020d84c41a7f963d62"
+    },
+    {
+      "date": "Le dimanche 24 septembre 2023 de  09:00:00 à  16:00:00",
+      "streets": "petit paquet Branch Road, Seetaram Road, Kewal Street",
+      "from": "2023-09-24T05:00:00.000Z",
+      "to": "2023-09-24T12:00:00.000Z",
+      "id": "63dbd1cb7361fec548e81d132951f723"
+    },
+    {
+      "date": "Le dimanche 15 mai 2022 de  09:00:00 à  16:00:00",
+      "streets": "Les abonnés des villages de Petit Paquet et de Pellegrin",
+      "from": "2022-05-15T05:00:00.000Z",
+      "to": "2022-05-15T12:00:00.000Z",
+      "id": "f9b126ac2f93db1fcdff02d392302a6d"
+    }
+  ]
+}

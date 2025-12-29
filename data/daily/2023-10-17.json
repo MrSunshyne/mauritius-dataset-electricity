@@ -1,0 +1,78 @@
+{
+  "date": "2023-10-17",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.799Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le mardi 17 octobre 2023 de  10:00:00 à  12:00:00",
+      "locality": "MARE TABAC",
+      "localitySlug": "mare-tabac",
+      "streets": "MARE TABAC",
+      "district": "grandport",
+      "from": "2023-10-17T06:00:00.000Z",
+      "to": "2023-10-17T08:00:00.000Z",
+      "id": "841994419211688fbce89fa8178d9469"
+    },
+    {
+      "date": "Le mardi 17 octobre 2023 de  09:17:00 à  12:00:00",
+      "locality": "DAGOTIERE",
+      "localitySlug": "dagotiere",
+      "streets": "DAGOTIERE NHDC",
+      "district": "moka",
+      "from": "2023-10-17T05:17:00.000Z",
+      "to": "2023-10-17T08:00:00.000Z",
+      "id": "7c782a34e93a60a401d94917d3421705"
+    },
+    {
+      "date": "Le mardi 17 octobre 2023 de  12:00:00 à  13:30:00",
+      "locality": "CONGOMAH",
+      "localitySlug": "congomah",
+      "streets": "CONGOMAH A PARTIR DE CENTRE SOCIALE JUSKA LES MARIANES",
+      "district": "pamplemousses",
+      "from": "2023-10-17T08:00:00.000Z",
+      "to": "2023-10-17T09:30:00.000Z",
+      "id": "dd4b6c80bc4bbd4fefb38669dc8c9074"
+    },
+    {
+      "date": "Le mardi 17 octobre 2023 de  09:45:00 à  12:00:00",
+      "locality": "CAMP LEVIEUX ( R HILL )",
+      "localitySlug": "camp-levieux",
+      "streets": "NHDC CAMP LEVIEUX, NEPTUNE STREET ROCHE BRUNES, MERE THERESA STREET",
+      "district": "plainewilhems",
+      "from": "2023-10-17T05:45:00.000Z",
+      "to": "2023-10-17T08:00:00.000Z",
+      "id": "c6a616cccf625083beec9445e2e45643"
+    },
+    {
+      "date": "Le mardi 17 octobre 2023 de  10:30:00 à  11:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "VACOAS HOLLYWOOD NO:1 DANS LES ENVIRONS DE BEGUE LANE",
+      "district": "plainewilhems",
+      "from": "2023-10-17T06:30:00.000Z",
+      "to": "2023-10-17T07:30:00.000Z",
+      "id": "0746fb9dfb48aeeda4b2b10378a657a6"
+    },
+    {
+      "date": "Le mardi 17 octobre 2023 de  13:50:00 à  15:00:00",
+      "locality": "SAINT MARTIN R-HILL",
+      "localitySlug": "saint-martin-r-hill",
+      "streets": "ST MARTIN DANS LES ENVIRON CIMETIERE.",
+      "district": "plainewilhems",
+      "from": "2023-10-17T09:50:00.000Z",
+      "to": "2023-10-17T11:00:00.000Z",
+      "id": "dfad0780b041a474d27deb26f8848c2c"
+    },
+    {
+      "date": "Le mardi 17 octobre 2023 de  09:00:00 à  15:00:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "MORC VRS SOUILLAC",
+      "district": "savanne",
+      "from": "2023-10-17T05:00:00.000Z",
+      "to": "2023-10-17T11:00:00.000Z",
+      "id": "1e22b687d8de358fe558ee5f77dbf094"
+    }
+  ]
+}

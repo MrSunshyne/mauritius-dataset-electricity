@@ -1,0 +1,28 @@
+{
+  "date": "2025-08-29",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.846Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le vendredi 29 août 2025 de  09:00:00 à  15:00:00",
+      "locality": "VALETTA",
+      "localitySlug": "valetta",
+      "streets": "VRS Valetta",
+      "district": "moka",
+      "from": "2025-08-29T05:00:00.000Z",
+      "to": "2025-08-29T11:00:00.000Z",
+      "id": "cf5cc51f61baeb825fe6daf2ea910bbf"
+    },
+    {
+      "date": "Le vendredi 29 août 2025 de  10:30:00 à  12:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "CAPTAINE PONTRE SAINTE CROIX",
+      "district": "portlouis",
+      "from": "2025-08-29T06:30:00.000Z",
+      "to": "2025-08-29T08:00:00.000Z",
+      "id": "7211f1610e7b495a150a942c2102fd79"
+    }
+  ]
+}

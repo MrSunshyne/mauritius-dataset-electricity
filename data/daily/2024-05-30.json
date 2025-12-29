@@ -1,0 +1,78 @@
+{
+  "date": "2024-05-30",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.816Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le jeudi 30 mai 2024 de  11:25:00 à  12:00:00",
+      "locality": "GROS CAILLOUX",
+      "localitySlug": "gros-cailloux",
+      "streets": "OLD CHEBEL BRANCH ROAD",
+      "district": "blackriver",
+      "from": "2024-05-30T07:25:00.000Z",
+      "to": "2024-05-30T08:00:00.000Z",
+      "id": "774ab5e6901dc73b1cf0f02817c9321e"
+    },
+    {
+      "date": "Le jeudi 30 mai 2024 de  09:45:00 à  11:00:00",
+      "locality": "CAROLINE BEL AIR",
+      "localitySlug": "caroline-bel-air",
+      "streets": "BALANCE ROAD CAROLINE BEL AIR",
+      "district": "flacq",
+      "from": "2024-05-30T05:45:00.000Z",
+      "to": "2024-05-30T07:00:00.000Z",
+      "id": "2b5daef761fde57c69aa5fd76b7b5b44"
+    },
+    {
+      "date": "Le jeudi 30 mai 2024 de  08:30:00 à  15:00:00",
+      "locality": "LE BOUCHON",
+      "localitySlug": "le-bouchon",
+      "streets": "Camp Carol, Le Bouchon, Desplaces & MTMD",
+      "district": "grandport",
+      "from": "2024-05-30T04:30:00.000Z",
+      "to": "2024-05-30T11:00:00.000Z",
+      "id": "6759126ddb199fc63d606c985deab793"
+    },
+    {
+      "date": "Le jeudi 30 mai 2024 de  12:00:00 à  15:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "Ligne Berthaud, Avenue Shah, Mohabeer Mungur Lane, Forest lane, Taheveneau et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2024-05-30T08:00:00.000Z",
+      "to": "2024-05-30T11:00:00.000Z",
+      "id": "f844a2f343540ec5772a1a4e6e9bf9be"
+    },
+    {
+      "date": "Le jeudi 30 mai 2024 de  10:25:00 à  14:00:00",
+      "locality": "PLAINE VERTE",
+      "localitySlug": "plaine-verte",
+      "streets": "LEONCE LOISEAU LANE, ST FRANCOIS, MADRAS LANE, DREAMPRICE AND SURROUNDINGS",
+      "district": "portlouis",
+      "from": "2024-05-30T06:25:00.000Z",
+      "to": "2024-05-30T10:00:00.000Z",
+      "id": "632cef0c9b9ccca23ff0f3557096b686"
+    },
+    {
+      "date": "Le jeudi 30 mai 2024 de  09:30:00 à  14:00:00",
+      "locality": "BOIS CHERI",
+      "localitySlug": "bois-cheri",
+      "streets": "PART OF BOIS CHERIE",
+      "district": "savanne",
+      "from": "2024-05-30T05:30:00.000Z",
+      "to": "2024-05-30T10:00:00.000Z",
+      "id": "80771355e78d6bfb4783b503a4532e42"
+    },
+    {
+      "date": "Le jeudi 30 mai 2024 de  09:30:00 à  14:00:00",
+      "locality": "BEL OMBRE",
+      "localitySlug": "bel-ombre",
+      "streets": "PART OF BEL OMBRE, PART OF BEAU CHAMP(SOUTH)",
+      "district": "savanne",
+      "from": "2024-05-30T05:30:00.000Z",
+      "to": "2024-05-30T10:00:00.000Z",
+      "id": "183bd595d56d86985a0d14fa5b14fa29"
+    }
+  ]
+}

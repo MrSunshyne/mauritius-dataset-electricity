@@ -1,0 +1,68 @@
+{
+  "date": "2022-11-30",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.776Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le mercredi 30 novembre 2022 de  08:30:00 à  16:30:00",
+      "locality": "CHAMAREL",
+      "localitySlug": "chamarel",
+      "streets": "Chamarel",
+      "district": "blackriver",
+      "from": "2022-11-30T04:30:00.000Z",
+      "to": "2022-11-30T12:30:00.000Z",
+      "id": "2936ccd8e87becb7f29e4b238cc3a937"
+    },
+    {
+      "date": "Le mercredi 30 novembre 2022 de  09:00:00 à  13:00:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "Morcellement Orchidées Rose Belle",
+      "district": "grandport",
+      "from": "2022-11-30T05:00:00.000Z",
+      "to": "2022-11-30T09:00:00.000Z",
+      "id": "5204f98ddf1aceb477681a511d740091"
+    },
+    {
+      "date": "Le mercredi 30 novembre 2022 de  07:00:00 à  00:00:00",
+      "locality": "GRAND SABLE",
+      "localitySlug": "grand-sable",
+      "streets": "Grand Sable - Mosque Road & Royal Road (partly)",
+      "district": "grandport",
+      "from": "2022-11-30T03:00:00.000Z",
+      "to": "2022-11-29T20:00:00.000Z",
+      "id": "215ce89735ba626e8d3303f30aa426b3"
+    },
+    {
+      "date": "Le mercredi 30 novembre 2022 de  15:30:00 à  18:00:00",
+      "locality": "GRAND SABLE",
+      "localitySlug": "grand-sable",
+      "streets": "GRAND SABLE",
+      "district": "grandport",
+      "from": "2022-11-30T11:30:00.000Z",
+      "to": "2022-11-30T14:00:00.000Z",
+      "id": "bb250025b1e076dc98629d5879387d3d"
+    },
+    {
+      "date": "Le mercredi 30 novembre 2022 de  09:00:00 à  16:00:00",
+      "locality": "BELLE VUE PILOT",
+      "localitySlug": "belle-vue-pilot",
+      "streets": "Belle Vue Pilot",
+      "district": "pamplemousses",
+      "from": "2022-11-30T05:00:00.000Z",
+      "to": "2022-11-30T12:00:00.000Z",
+      "id": "3118599f600f8b2921bed42a0df36945"
+    },
+    {
+      "date": "Le mercredi 30 novembre 2022 de  09:30:00 à  11:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "15 CANTON 2 VACOAS",
+      "district": "plainewilhems",
+      "from": "2022-11-30T05:30:00.000Z",
+      "to": "2022-11-30T07:00:00.000Z",
+      "id": "dbda96ad0bb18e743be56af60ba70c9e"
+    }
+  ]
+}

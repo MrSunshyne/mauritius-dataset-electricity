@@ -1,0 +1,38 @@
+{
+  "date": "2023-12-29",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.805Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le vendredi 29 décembre 2023 de  18:05:00 à  20:05:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "WHOLE REGION",
+      "district": "blackriver",
+      "from": "2023-12-29T14:05:00.000Z",
+      "to": "2023-12-29T16:05:00.000Z",
+      "id": "ce511851369b751ba98192cd03382eea"
+    },
+    {
+      "date": "Le vendredi 29 décembre 2023 de  09:45:00 à  13:00:00",
+      "locality": "ISIDORE ROSE",
+      "localitySlug": "isidore-rose",
+      "streets": "ISIDOROSE",
+      "district": "flacq",
+      "from": "2023-12-29T05:45:00.000Z",
+      "to": "2023-12-29T09:00:00.000Z",
+      "id": "f366bd8ee9976b834179bed4a2573a9d"
+    },
+    {
+      "date": "Le vendredi 29 décembre 2023 de  14:30:00 à  18:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "ST MARIE LE CORNU SAINTE CROIX",
+      "district": "portlouis",
+      "from": "2023-12-29T10:30:00.000Z",
+      "to": "2023-12-29T14:00:00.000Z",
+      "id": "e8367f690479ea41f5db4cd77033eeed"
+    }
+  ]
+}

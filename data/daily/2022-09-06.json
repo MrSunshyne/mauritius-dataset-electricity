@@ -1,0 +1,68 @@
+{
+  "date": "2022-09-06",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.771Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le mardi 6 septembre 2022 de  09:00:00 à  15:00:00",
+      "locality": "CAROLINE BEL AIR",
+      "localitySlug": "caroline-bel-air",
+      "streets": "MORC POONITH CAROLINE,TOWARDS PETIT BOIS,MAMET ROAD",
+      "district": "flacq",
+      "from": "2022-09-06T05:00:00.000Z",
+      "to": "2022-09-06T11:00:00.000Z",
+      "id": "01d53a2f3cb3bb24236dac484b2c6790"
+    },
+    {
+      "date": "Le mardi 6 septembre 2022 de  08:00:00 à  16:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "MARIAMEN TEMPLE,DE PLEVITZ",
+      "district": "plainewilhems",
+      "from": "2022-09-06T04:00:00.000Z",
+      "to": "2022-09-06T12:00:00.000Z",
+      "id": "e809eee0d76cfcea0bfc16edf1ae522c"
+    },
+    {
+      "date": "Le mardi 6 septembre 2022 de  14:00:00 à  15:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "PART OF BROWN SEQUARD ST,POLYTOL",
+      "district": "plainewilhems",
+      "from": "2022-09-06T10:00:00.000Z",
+      "to": "2022-09-06T11:00:00.000Z",
+      "id": "3c40516c398274210f66da6817b23b37"
+    },
+    {
+      "date": "Le mardi 6 septembre 2022 de  10:30:00 à  13:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "MORC AMEER MEEA,SCHOOL ROAD,CARAMBOLE RD,CITE V DES PRETRES",
+      "district": "portlouis",
+      "from": "2022-09-06T06:30:00.000Z",
+      "to": "2022-09-06T09:00:00.000Z",
+      "id": "3e14f1f1ff768e933925b654c74ed7f5"
+    },
+    {
+      "date": "Le mardi 6 septembre 2022 de  15:00:00 à  17:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "LES ABONNES DE VALLEE DES PRETRES",
+      "district": "portlouis",
+      "from": "2022-09-06T11:00:00.000Z",
+      "to": "2022-09-06T13:00:00.000Z",
+      "id": "c79314e3f540bc67e9437269aa9c5b1e"
+    },
+    {
+      "date": "Le mardi 6 septembre 2022 de  15:00:00 à  17:00:00",
+      "locality": "CITE LA CURE",
+      "localitySlug": "cite-la-cure",
+      "streets": "LES ABONNES DE CITE LA CURE",
+      "district": "portlouis",
+      "from": "2022-09-06T11:00:00.000Z",
+      "to": "2022-09-06T13:00:00.000Z",
+      "id": "59455003465abbd7fbcbef6e696715a5"
+    }
+  ]
+}

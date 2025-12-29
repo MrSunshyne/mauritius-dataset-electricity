@@ -1,0 +1,68 @@
+{
+  "date": "2024-03-25",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.811Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le lundi 25 mars 2024 de  09:55:00 à  10:30:00",
+      "locality": "MONTAGNE ORY",
+      "localitySlug": "montagne-ory",
+      "streets": "MONT ORY",
+      "district": "moka",
+      "from": "2024-03-25T05:55:00.000Z",
+      "to": "2024-03-25T06:30:00.000Z",
+      "id": "35cedb72ffb17b0dd68acbd41a00babc"
+    },
+    {
+      "date": "Le lundi 25 mars 2024 de  15:00:00 à  16:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Ave Berthaud, Ave Emille Laval, Ave Mozart, Ave Cretin, Mediclinic Stanley et les environs",
+      "district": "plainewilhems",
+      "from": "2024-03-25T11:00:00.000Z",
+      "to": "2024-03-25T12:00:00.000Z",
+      "id": "3aac9c47410fb26e096171ea8ad74483"
+    },
+    {
+      "date": "Le lundi 25 mars 2024 de  08:30:00 à  17:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Ave Guy Rozemont, Ave R. Edward Hart, Ave Panchoo, Ave Bradshaw, Ave Dr Ferriere et les environs",
+      "district": "plainewilhems",
+      "from": "2024-03-25T04:30:00.000Z",
+      "to": "2024-03-25T13:00:00.000Z",
+      "id": "c3b39408cce467b3018a6bed35ec694e"
+    },
+    {
+      "date": "Le lundi 25 mars 2024 de  10:20:00 à  12:00:00",
+      "locality": "PAILLOTTE",
+      "localitySlug": "paillotte",
+      "streets": "PAILLOTTE",
+      "district": "plainewilhems",
+      "from": "2024-03-25T06:20:00.000Z",
+      "to": "2024-03-25T08:00:00.000Z",
+      "id": "13a7dd175be733262c5b5c504c01d242"
+    },
+    {
+      "date": "Le lundi 25 mars 2024 de  10:00:00 à  15:00:00",
+      "locality": "16EME MILE",
+      "localitySlug": "16eme-mile",
+      "streets": "MORC DOMAH NO: 1 ET 2",
+      "district": "plainewilhems",
+      "from": "2024-03-25T06:00:00.000Z",
+      "to": "2024-03-25T11:00:00.000Z",
+      "id": "f1ed2517ae984e5f1f8b5982f22542a8"
+    },
+    {
+      "date": "Le lundi 25 mars 2024 de  12:00:00 à  13:15:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "DANS LES ENVIRONS EGLISE ST JOSEPH.",
+      "district": "rivieredurempart",
+      "from": "2024-03-25T08:00:00.000Z",
+      "to": "2024-03-25T09:15:00.000Z",
+      "id": "4950addc1436ca0ab1fd4e5e638cae83"
+    }
+  ]
+}

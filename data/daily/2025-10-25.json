@@ -1,0 +1,88 @@
+{
+  "date": "2025-10-25",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.851Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le samedi 25 octobre 2025 de  09:00:00 à  13:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "PRINCESS MARGARET RD-NUNDLOLL RD-CHAMROO RD-ROYAL RD PETITE RIVIERE",
+      "district": "blackriver",
+      "from": "2025-10-25T05:00:00.000Z",
+      "to": "2025-10-25T09:00:00.000Z",
+      "id": "418309672dba00388d0add6cf448804d"
+    },
+    {
+      "date": "Le samedi 25 octobre 2025 de  08:00:00 à  15:00:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "PETIT VERGER BRANCH RD,NICHOLAS RD, ROUSSET, CHANTENAY, MADHOO LANE ET LES ENVIRONS",
+      "district": "moka",
+      "from": "2025-10-25T04:00:00.000Z",
+      "to": "2025-10-25T11:00:00.000Z",
+      "id": "75ec5538732905ea796d09e93e3e6bef"
+    },
+    {
+      "date": "Le samedi 25 octobre 2025 de  20:25:00 à  21:00:00",
+      "locality": "FOND DU SAC",
+      "localitySlug": "fond-du-sac",
+      "streets": "PART OF FOND DU SAC",
+      "district": "pamplemousses",
+      "from": "2025-10-25T16:25:00.000Z",
+      "to": "2025-10-25T17:00:00.000Z",
+      "id": "e7e33af22090606faed6ff22814cf0c6"
+    },
+    {
+      "date": "Le samedi 25 octobre 2025 de  08:30:00 à  11:00:00",
+      "locality": "CAMP FOUQUEREAUX",
+      "localitySlug": "camp-fouquereaux",
+      "streets": "partie de Camp Fouquereaux, Al Madina Road, Jangeer",
+      "district": "plainewilhems",
+      "from": "2025-10-25T04:30:00.000Z",
+      "to": "2025-10-25T07:00:00.000Z",
+      "id": "3045c0898bfb6ae507b1a67631fc0bc1"
+    },
+    {
+      "date": "Le samedi 25 octobre 2025 de  12:00:00 à  14:00:00",
+      "locality": "MIDLANDS",
+      "localitySlug": "midlands",
+      "streets": "dans les environs de Midlands Post Office, Bassenoo Rd et Appasamy Lane",
+      "district": "plainewilhems",
+      "from": "2025-10-25T08:00:00.000Z",
+      "to": "2025-10-25T10:00:00.000Z",
+      "id": "4723ee4f5a6332503f54cb90d989b372"
+    },
+    {
+      "date": "Le samedi 25 octobre 2025 de  08:30:00 à  11:00:00",
+      "locality": "MIDLANDS",
+      "localitySlug": "midlands",
+      "streets": "une partie de Chartreuse rd",
+      "district": "plainewilhems",
+      "from": "2025-10-25T04:30:00.000Z",
+      "to": "2025-10-25T07:00:00.000Z",
+      "id": "57b52dddff538421d26da65483226243"
+    },
+    {
+      "date": "Le samedi 25 octobre 2025 de  13:20:00 à  15:20:00",
+      "locality": "ENGRAIS MARTIAL",
+      "localitySlug": "engrais-martial",
+      "streets": "WHOLE REGION",
+      "district": "plainewilhems",
+      "from": "2025-10-25T09:20:00.000Z",
+      "to": "2025-10-25T11:20:00.000Z",
+      "id": "1b31cb6060fab676e163fc8779d6af8a"
+    },
+    {
+      "date": "Le samedi 25 octobre 2025 de  08:30:00 à  15:00:00",
+      "locality": "TAMBES(RODRIGUES)",
+      "localitySlug": "tambes",
+      "streets": "Petit Brule, Nouvelle Decouverte et Montagne Malagche",
+      "district": "rodrigues",
+      "from": "2025-10-25T04:30:00.000Z",
+      "to": "2025-10-25T11:00:00.000Z",
+      "id": "c672fe92032411fd38147775ef20bc3f"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "date": "2024-04-26",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.813Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le vendredi 26 avril 2024 de  09:00:00 à  18:15:00",
+      "locality": "RICHEMARE",
+      "localitySlug": "richemare",
+      "streets": "Les abonnes du village de      Riche Mare, Radhakissoon Lane, La Source, La Boutique Cocos, Morcellement Vieux Moulin.",
+      "district": "flacq",
+      "from": "2024-04-26T05:00:00.000Z",
+      "to": "2024-04-26T14:15:00.000Z",
+      "id": "36aa398defb1e62aa688ed8bdf055a9b"
+    },
+    {
+      "date": "Le vendredi 26 avril 2024 de  08:30:00 à  17:00:00",
+      "locality": "GRAND SABLE",
+      "localitySlug": "grand-sable",
+      "streets": "Grand Sable & Petit Sable",
+      "district": "grandport",
+      "from": "2024-04-26T04:30:00.000Z",
+      "to": "2024-04-26T13:00:00.000Z",
+      "id": "0c5876b04bc2d565bd03a338097e3302"
+    }
+  ]
+}

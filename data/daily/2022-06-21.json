@@ -1,0 +1,58 @@
+{
+  "date": "2022-06-21",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.765Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mardi 21 juin 2022 de  08:30:00 à  16:30:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "MORC RAMDANEE",
+      "district": "blackriver",
+      "from": "2022-06-21T04:30:00.000Z",
+      "to": "2022-06-21T12:30:00.000Z",
+      "id": "87bd0912a887cd363bdc39a7b7da97b2"
+    },
+    {
+      "date": "Le mardi 21 juin 2022 de  18:00:00 à  22:00:00",
+      "locality": "RICHE TERRE",
+      "localitySlug": "riche-terre",
+      "streets": "NR JUMBO RICHE TERRE",
+      "district": "pamplemousses",
+      "from": "2022-06-21T14:00:00.000Z",
+      "to": "2022-06-21T18:00:00.000Z",
+      "id": "1d2a15f0f57f2eeb013dad4bef40c398"
+    },
+    {
+      "date": "Le mardi 21 juin 2022 de  08:30:00 à  12:30:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": "GIQUEL STREET",
+      "district": "plainewilhems",
+      "from": "2022-06-21T04:30:00.000Z",
+      "to": "2022-06-21T08:30:00.000Z",
+      "id": "522911eb6f0127f27b14eaefc1febecc"
+    },
+    {
+      "date": "Le mardi 21 juin 2022 de  19:00:00 à  22:00:00",
+      "locality": "CANDOS VACOAS",
+      "localitySlug": "candos-vacoas",
+      "streets": "MORC DOOKUN CANDOS",
+      "district": "plainewilhems",
+      "from": "2022-06-21T15:00:00.000Z",
+      "to": "2022-06-21T18:00:00.000Z",
+      "id": "7af80d7a6b6c45cf727b09f5af85cd9b"
+    },
+    {
+      "date": "Le mardi 21 juin 2022 de  09:00:00 à  14:30:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "saponnaire,montagne cabris est",
+      "district": "rodrigues",
+      "from": "2022-06-21T05:00:00.000Z",
+      "to": "2022-06-21T10:30:00.000Z",
+      "id": "076eead8ac2d4fc8319d6f7278c0eccb"
+    }
+  ]
+}

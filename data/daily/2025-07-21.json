@@ -1,0 +1,68 @@
+{
+  "date": "2025-07-21",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.843Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le lundi 21 juillet 2025 de  09:00:00 à  16:30:00",
+      "locality": "LA PRENEUSE",
+      "localitySlug": "la-preneuse",
+      "streets": "JACARANDAS, CAP SUD ET MORC MAPOU",
+      "district": "blackriver",
+      "from": "2025-07-21T05:00:00.000Z",
+      "to": "2025-07-21T12:30:00.000Z",
+      "id": "ea67f90f0ad770a9d93b3d05c3872dda"
+    },
+    {
+      "date": "Le lundi 21 juillet 2025 de  09:00:00 à  16:30:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "MORC INVESTORS",
+      "district": "blackriver",
+      "from": "2025-07-21T05:00:00.000Z",
+      "to": "2025-07-21T12:30:00.000Z",
+      "id": "6cd5f79109a07760dad9348a66d0343b"
+    },
+    {
+      "date": "Le lundi 21 juillet 2025 de  09:00:00 à  16:00:00",
+      "locality": "LE BOUCHON",
+      "localitySlug": "le-bouchon",
+      "streets": "Le Bouchon habitant dans le périmètre et les rues suivantes: La Chapelle Road et les rues avoisinantes Le Bouchon",
+      "district": "grandport",
+      "from": "2025-07-21T05:00:00.000Z",
+      "to": "2025-07-21T12:00:00.000Z",
+      "id": "ee3c01fd447f9a0065c6adea4f189e57"
+    },
+    {
+      "date": "Le lundi 21 juillet 2025 de  12:30:00 à  15:00:00",
+      "locality": "MONTAGNE BLANCHE",
+      "localitySlug": "montagne-blanche",
+      "streets": "ST JOSEPH MONTAGNE BLANCHE",
+      "district": "moka",
+      "from": "2025-07-21T08:30:00.000Z",
+      "to": "2025-07-21T11:00:00.000Z",
+      "id": "1779ded764fb81847f3396529d2d1ac3"
+    },
+    {
+      "date": "Le lundi 21 juillet 2025 de  08:30:00 à  14:00:00",
+      "locality": "NOTRE DAME",
+      "localitySlug": "notre-dame",
+      "streets": "BHAGAT LANE, NHDC ET EN PARTIE ROUTE ROYALE",
+      "district": "pamplemousses",
+      "from": "2025-07-21T04:30:00.000Z",
+      "to": "2025-07-21T10:00:00.000Z",
+      "id": "c5eb440bdc979a852bda3a848db0a14f"
+    },
+    {
+      "date": "Le lundi 21 juillet 2025 de  11:00:00 à  15:00:00",
+      "locality": "BANANES",
+      "localitySlug": "bananes",
+      "streets": "ROYAL RD BANANES",
+      "district": "savanne",
+      "from": "2025-07-21T07:00:00.000Z",
+      "to": "2025-07-21T11:00:00.000Z",
+      "id": "d1b0065a6bf2e74de3455a84ed0fae9f"
+    }
+  ]
+}

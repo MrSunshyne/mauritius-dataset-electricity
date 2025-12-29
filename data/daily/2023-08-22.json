@@ -1,0 +1,38 @@
+{
+  "date": "2023-08-22",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.795Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mardi 22 août 2023 de  09:00:00 à  13:00:00",
+      "locality": "DEEP RIVER BEAU CHAMP",
+      "localitySlug": "deep-river-beau-champ",
+      "streets": "MORC VRS DEEP RIVER",
+      "district": "flacq",
+      "from": "2023-08-22T05:00:00.000Z",
+      "to": "2023-08-22T09:00:00.000Z",
+      "id": "c8d582e4350307be0b0f22307427c30c"
+    },
+    {
+      "date": "Le mardi 22 août 2023 de  09:00:00 à  12:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "ROYAL RD -5IEM MILLE BEAU BASSIN",
+      "district": "plainewilhems",
+      "from": "2023-08-22T05:00:00.000Z",
+      "to": "2023-08-22T08:00:00.000Z",
+      "id": "523c1be5a09302cea64f8a28cc96f81e"
+    },
+    {
+      "date": "Le mardi 22 août 2023 de  08:30:00 à  15:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "DANS LES ENVIRONS DE LENNARD STORE ET EDEN BEACH",
+      "district": "rivieredurempart",
+      "from": "2023-08-22T04:30:00.000Z",
+      "to": "2023-08-22T11:00:00.000Z",
+      "id": "d7ad06aab0d6b94c7a6b8a45b1e3f8e6"
+    }
+  ]
+}

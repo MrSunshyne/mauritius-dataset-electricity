@@ -1,0 +1,48 @@
+{
+  "date": "2023-06-09",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.790Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le vendredi 9 juin 2023 de  08:30:00 à  16:00:00",
+      "locality": "BOIS PIGNOLET",
+      "localitySlug": "bois-pignolet",
+      "streets": "Bois Pignolet Village, Notre-Dame Village,Montagne Longue Village, une partie de Ilot Village, Montagne Longue branch Rd, Camp La boue, Creve Coeur, et Les Marrianes.",
+      "district": "pamplemousses",
+      "from": "2023-06-09T04:30:00.000Z",
+      "to": "2023-06-09T12:00:00.000Z",
+      "id": "7352e94dba69879bc311bfb94c1eb188"
+    },
+    {
+      "date": "Le vendredi 9 juin 2023 de  08:30:00 à  16:00:00",
+      "locality": "LONG MOUNTAIN",
+      "localitySlug": "long-mountain",
+      "streets": "Bois Pignolet Village, Notre-Dame Village,Montagne Longue Village, une partie de Ilot Village, Montagne Longue branch Rd, Camp La boue, Creve Coeur, et Les Marrianes.",
+      "district": "pamplemousses",
+      "from": "2023-06-09T04:30:00.000Z",
+      "to": "2023-06-09T12:00:00.000Z",
+      "id": "23dbfd3300df013756b82644bc11fdc2"
+    },
+    {
+      "date": "Le vendredi 9 juin 2023 de  12:00:00 à  13:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "Les abonnés de Floreal, Cite Mangalkhan habitant les régions et les rues suivantes : Carnegie, Govinden, Balzac, Elliot et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-06-09T08:00:00.000Z",
+      "to": "2023-06-09T09:00:00.000Z",
+      "id": "1fedcd5d057e5048919ebef832a75092"
+    },
+    {
+      "date": "Le vendredi 9 juin 2023 de  15:00:00 à  17:00:00",
+      "locality": "HOLLYROOD",
+      "localitySlug": "hollyrood",
+      "streets": "LES ABONNES DE HOLLYROOD DANS LES REGIONS SUIVANTES : HOLLYROOD No 1, UNE PARTIE DE ROUTE LA MARIE, UNE PARTIE DE ROUTE QUINZE CANTONS No 2, TROIS MAMELLES, UNE PARTIE DE LA ROUTE DEVERGUES ET LES ENVIRONS.",
+      "district": "plainewilhems",
+      "from": "2023-06-09T11:00:00.000Z",
+      "to": "2023-06-09T13:00:00.000Z",
+      "id": "50b47eb8676d20d4add03c274d494ef2"
+    }
+  ]
+}

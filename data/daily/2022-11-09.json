@@ -1,0 +1,28 @@
+{
+  "date": "2022-11-09",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.775Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mercredi 9 novembre 2022 de  16:00:00 à  18:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "9IEME MILLE TRIOLET",
+      "district": "pamplemousses",
+      "from": "2022-11-09T12:00:00.000Z",
+      "to": "2022-11-09T14:00:00.000Z",
+      "id": "1d5e1f1d19e4d44c7658d7ae6eddd30a"
+    },
+    {
+      "date": "Le mercredi 9 novembre 2022 de  17:00:00 à  18:30:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "PAUL TOUREAU RTE DES PAMPLEMOUSSES  VALLEE  DES PRETRES",
+      "district": "portlouis",
+      "from": "2022-11-09T13:00:00.000Z",
+      "to": "2022-11-09T14:30:00.000Z",
+      "id": "28d3876f735644b326495a57c6e2b2ba"
+    }
+  ]
+}

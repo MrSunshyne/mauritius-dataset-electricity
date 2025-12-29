@@ -1,0 +1,38 @@
+{
+  "date": "2023-11-04",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.800Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le samedi 4 novembre 2023 de  08:15:00 à  15:00:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "Les abonnes du village de Pont Lardier Bel-Air Riviere Seche dans les environs du centre communautaire et les Morcellements avoisinantes.",
+      "district": "flacq",
+      "from": "2023-11-04T04:15:00.000Z",
+      "to": "2023-11-04T11:00:00.000Z",
+      "id": "1459553a688beed1911ad252e308e375"
+    },
+    {
+      "date": "Le samedi 4 novembre 2023 de  08:30:00 à  15:30:00",
+      "locality": "LA FLORA",
+      "localitySlug": "la-flora",
+      "streets": "La Flora",
+      "district": "savanne",
+      "from": "2023-11-04T04:30:00.000Z",
+      "to": "2023-11-04T11:30:00.000Z",
+      "id": "b23ad261f9bab8337828e84078f98b32"
+    },
+    {
+      "date": "Le samedi 4 novembre 2023 de  08:30:00 à  15:00:00",
+      "locality": "RIVIERE BANANE(RODRIGUES)",
+      "localitySlug": "riviere-banane",
+      "streets": "Riviere Banane et Grenade",
+      "district": "rodrigues",
+      "from": "2023-11-04T04:30:00.000Z",
+      "to": "2023-11-04T11:00:00.000Z",
+      "id": "a0fdd0ac8f3ed0efab7af32f91accfd6"
+    }
+  ]
+}

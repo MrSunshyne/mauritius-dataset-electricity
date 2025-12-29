@@ -1,0 +1,28 @@
+{
+  "date": "2023-11-28",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.802Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mardi 28 novembre 2023 de  09:00:00 à  13:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC BISMIC FLIC EN FLAC",
+      "district": "blackriver",
+      "from": "2023-11-28T05:00:00.000Z",
+      "to": "2023-11-28T09:00:00.000Z",
+      "id": "16e530b8d88871824fcfe6b53e52a22d"
+    },
+    {
+      "date": "Le mardi 28 novembre 2023 de  09:45:00 à  13:00:00",
+      "locality": "RICHEMARE",
+      "localitySlug": "richemare",
+      "streets": "RICHEMARE",
+      "district": "flacq",
+      "from": "2023-11-28T05:45:00.000Z",
+      "to": "2023-11-28T09:00:00.000Z",
+      "id": "23bb61238cfc1e7828a3dc10fa7b5847"
+    }
+  ]
+}

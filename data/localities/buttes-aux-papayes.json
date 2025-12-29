@@ -1,0 +1,46 @@
+{
+  "slug": "buttes-aux-papayes",
+  "name": "BUTTES AUX PAPAYES",
+  "district": "rivieredurempart",
+  "generated": "2025-12-29T20:14:25.925Z",
+  "outageCount": 5,
+  "firstOutage": "2023-08-23",
+  "lastOutage": "2025-03-26",
+  "outages": [
+    {
+      "date": "Le mercredi 26 mars 2025 de  08:30:00 à  16:00:00",
+      "streets": "Domaine Belle Vue, Butte aux Papayes et les environs",
+      "from": "2025-03-26T04:30:00.000Z",
+      "to": "2025-03-26T12:00:00.000Z",
+      "id": "56e1be16a9cfe9046422e853375c56b1"
+    },
+    {
+      "date": "Le vendredi 21 mars 2025 de  08:30:00 à  16:00:00",
+      "streets": "Domaine Belle Vue a Butte aux Papayes et les environs",
+      "from": "2025-03-21T04:30:00.000Z",
+      "to": "2025-03-21T12:00:00.000Z",
+      "id": "4d0e9605f643f3ce16c010c3675d8d93"
+    },
+    {
+      "date": "Le mardi 28 mai 2024 de  08:30:00 à  16:00:00",
+      "streets": "LES ABONNES DE DOMAINE DE BELLE VUE.",
+      "from": "2024-05-28T04:30:00.000Z",
+      "to": "2024-05-28T12:00:00.000Z",
+      "id": "db3be32cb638ef0f2c7ea16ecbc5de7f"
+    },
+    {
+      "date": "Le jeudi 24 août 2023 de  09:00:00 à  16:00:00",
+      "streets": "Domaine Hill Side, Domaine de Belle vue à buttes aux papayes",
+      "from": "2023-08-24T05:00:00.000Z",
+      "to": "2023-08-24T12:00:00.000Z",
+      "id": "8a986f664c6ab89b44de0349f2819508"
+    },
+    {
+      "date": "Le mercredi 23 août 2023 de  09:30:00 à  12:00:00",
+      "streets": "Domaine Hill Side, Domaine de Belle vue à buttes aux papayes",
+      "from": "2023-08-23T05:30:00.000Z",
+      "to": "2023-08-23T08:00:00.000Z",
+      "id": "d36204c46ffe01d75b7d4ae02d72144c"
+    }
+  ]
+}

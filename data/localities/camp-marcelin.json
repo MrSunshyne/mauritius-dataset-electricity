@@ -1,0 +1,32 @@
+{
+  "slug": "camp-marcelin",
+  "name": "CAMP MARCELIN",
+  "district": "moka",
+  "generated": "2025-12-29T20:14:25.939Z",
+  "outageCount": 3,
+  "firstOutage": "2023-04-16",
+  "lastOutage": "2023-12-13",
+  "outages": [
+    {
+      "date": "Le mercredi 13 décembre 2023 de  08:30:00 à  16:00:00",
+      "streets": "Les abonnes du village de Camp Marcelin et en partie du viiage de Isidore Rose et les rues avoisinantes",
+      "from": "2023-12-13T04:30:00.000Z",
+      "to": "2023-12-13T12:00:00.000Z",
+      "id": "fbac5667dd180406f397eb501e247ce1"
+    },
+    {
+      "date": "Le dimanche 16 avril 2023 de  15:00:00 à  17:00:00",
+      "streets": "Les abonnés habitant en partie du village de Bramsthan, Ecroignard et Camp Ithier",
+      "from": "2023-04-16T11:00:00.000Z",
+      "to": "2023-04-16T13:00:00.000Z",
+      "id": "2a51c5dc6d96a17543cb10fc9594a2c1"
+    },
+    {
+      "date": "Le dimanche 16 avril 2023 de  08:15:00 à  17:00:00",
+      "streets": "Les abonnés habitant à Camp Marcelin, NHDC Quatre Cocos, en partie     du village Camp Ithier et Isidore Rose",
+      "from": "2023-04-16T04:15:00.000Z",
+      "to": "2023-04-16T13:00:00.000Z",
+      "id": "24e6213da0ebe96529fcc57ce5cca438"
+    }
+  ]
+}

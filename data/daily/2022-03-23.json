@@ -1,0 +1,48 @@
+{
+  "date": "2022-03-23",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.760Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mercredi 23 mars 2022 de  14:00:00 à  15:30:00",
+      "locality": "LA PRENEUSE",
+      "localitySlug": "la-preneuse",
+      "streets": "La Plantation Marguery, Ruisseau Creole, le Village de La Preneuse et Riviere Noire",
+      "district": "blackriver",
+      "from": "2022-03-23T10:00:00.000Z",
+      "to": "2022-03-23T11:30:00.000Z",
+      "id": "ee4e3794a488cc108ede5b1097f98517"
+    },
+    {
+      "date": "Le mercredi 23 mars 2022 de  08:30:00 à  15:00:00",
+      "locality": "BEAU CHAMP FLACQ",
+      "localitySlug": "beau-champ-flacq",
+      "streets": "Morc VRS Beau Champ dans les périmètres du Kovil",
+      "district": "flacq",
+      "from": "2022-03-23T04:30:00.000Z",
+      "to": "2022-03-23T11:00:00.000Z",
+      "id": "bb01337c5811f628a4ec264fc36f10b3"
+    },
+    {
+      "date": "Le mercredi 23 mars 2022 de  12:00:00 à  13:00:00",
+      "locality": "MONTAGNE BLANCHE",
+      "localitySlug": "montagne-blanche",
+      "streets": "Les abonnés du village de Montagne Blanche et Melrose",
+      "district": "moka",
+      "from": "2022-03-23T08:00:00.000Z",
+      "to": "2022-03-23T09:00:00.000Z",
+      "id": "a7d831a96935d08ce8272b0d8788d780"
+    },
+    {
+      "date": "Le mercredi 23 mars 2022 de  08:30:00 à  17:00:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": "Les abonnés d’Eau-Coulée, Curepipe habitant les rues et les régions suivantes: Giquel, Gilbert Joson, Ramen et  les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-03-23T04:30:00.000Z",
+      "to": "2022-03-23T13:00:00.000Z",
+      "id": "aa9f72c1e1b2f52b14e10c830c66d718"
+    }
+  ]
+}

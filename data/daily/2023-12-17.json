@@ -1,0 +1,78 @@
+{
+  "date": "2023-12-17",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.804Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le dimanche 17 décembre 2023 de  10:15:00 à  11:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC BISMIC FLIC EN FLAC",
+      "district": "blackriver",
+      "from": "2023-12-17T06:15:00.000Z",
+      "to": "2023-12-17T07:00:00.000Z",
+      "id": "a4b90f3f4fe8d113e7625631cd0a27a1"
+    },
+    {
+      "date": "Le dimanche 17 décembre 2023 de  08:30:00 à  17:00:00",
+      "locality": "BELLE MARE",
+      "localitySlug": "belle-mare",
+      "streets": "Les abonnes du village de Belle Mare dans les périmètres de Salt of Palmar Hotel, Restaurant Orchid Villa et Sun Tan Hotel",
+      "district": "flacq",
+      "from": "2023-12-17T04:30:00.000Z",
+      "to": "2023-12-17T13:00:00.000Z",
+      "id": "4941cae3d35fc9b5c1d26434dbbe84d8"
+    },
+    {
+      "date": "Le dimanche 17 décembre 2023 de  01:00:00 à  11:00:00",
+      "locality": "CAROLINE BEL AIR",
+      "localitySlug": "caroline-bel-air",
+      "streets": "BALANCE CAROLINE BEL AIR",
+      "district": "flacq",
+      "from": "2023-12-16T21:00:00.000Z",
+      "to": "2023-12-16T07:00:00.000Z",
+      "id": "0939ca57ceb498200dc91c2650873824"
+    },
+    {
+      "date": "Le dimanche 17 décembre 2023 de  08:30:00 à  14:00:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "Morcellement Jhuboo Phase 2, Avenue Flamboyant, Avenue Camelia, Dans Les environs de Morcellement Tobago et Morcellement Ramdanee",
+      "district": "pamplemousses",
+      "from": "2023-12-17T04:30:00.000Z",
+      "to": "2023-12-17T10:00:00.000Z",
+      "id": "fb017962f57a6f1fe920c151f003b953"
+    },
+    {
+      "date": "Le dimanche 17 décembre 2023 de  08:30:00 à  16:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "AVE VICTOR HUGO, AVE QUEEN ALEXANDRA, AVE BOULEVARD GOWIN, ROYAL GARDEN, TRIVENI, BALFOUR, AVE HASSENJEE, AVE RAWAT ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2023-12-17T04:30:00.000Z",
+      "to": "2023-12-17T12:00:00.000Z",
+      "id": "eba942169af7d03d97ae6a3fa650fbe8"
+    },
+    {
+      "date": "Le dimanche 17 décembre 2023 de  14:45:00 à  18:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "MARE GRAVIER BEAU BASSIN",
+      "district": "plainewilhems",
+      "from": "2023-12-17T10:45:00.000Z",
+      "to": "2023-12-17T14:00:00.000Z",
+      "id": "3fbcedfaabc45afbae97825503853373"
+    },
+    {
+      "date": "Le dimanche 17 décembre 2023 de  08:30:00 à  15:30:00",
+      "locality": "VALLEE PITOT",
+      "localitySlug": "vallee-pitot",
+      "streets": "RUE ALMA-RUE ORIENT-RUE LE CHALET-EID GAH - RUE SAUZIERV ALLEE PITOT",
+      "district": "portlouis",
+      "from": "2023-12-17T04:30:00.000Z",
+      "to": "2023-12-17T11:30:00.000Z",
+      "id": "5e5dd7859cd04548f1415923fe0368fe"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "mont-blanc",
+  "name": "MONT BLANC",
+  "district": "plainewilhems",
+  "generated": "2025-12-29T20:14:26.090Z",
+  "outageCount": 5,
+  "firstOutage": "2022-10-14",
+  "lastOutage": "2025-10-09",
+  "outages": [
+    {
+      "date": "Le jeudi 9 octobre 2025 de  14:25:00 à  15:30:00",
+      "streets": "MONT BLANC",
+      "from": "2025-10-09T10:25:00.000Z",
+      "to": "2025-10-09T11:30:00.000Z",
+      "id": "a4aee1a59b07db54af28e48599072389"
+    },
+    {
+      "date": "Le dimanche 2 juillet 2023 de  09:00:00 à  16:00:00",
+      "streets": "MONT BLANC",
+      "from": "2023-07-02T05:00:00.000Z",
+      "to": "2023-07-02T12:00:00.000Z",
+      "id": "82dda691313686ff6bde6c2270f1b8db"
+    },
+    {
+      "date": "Le dimanche 25 juin 2023 de  09:00:00 à  16:00:00",
+      "streets": "LES ABONNES DU VILLAGE DE MONT BLANC.",
+      "from": "2023-06-25T05:00:00.000Z",
+      "to": "2023-06-25T12:00:00.000Z",
+      "id": "08ef21ec00fd2beb7d61f5ef16317171"
+    },
+    {
+      "date": "Le jeudi 12 janvier 2023 de  09:00:00 à  15:00:00",
+      "streets": "Mont Blanc",
+      "from": "2023-01-12T05:00:00.000Z",
+      "to": "2023-01-12T11:00:00.000Z",
+      "id": "020bf011084e079b10fde6891f6e5766"
+    },
+    {
+      "date": "Le vendredi 14 octobre 2022 de  08:30:00 à  15:30:00",
+      "streets": "Le village de Mont Blanc",
+      "from": "2022-10-14T04:30:00.000Z",
+      "to": "2022-10-14T11:30:00.000Z",
+      "id": "844707bb2fceadab53228909436566a4"
+    }
+  ]
+}

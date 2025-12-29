@@ -1,0 +1,68 @@
+{
+  "date": "2024-08-12",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.822Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le lundi 12 août 2024 de  15:00:00 à  15:30:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "REGION ALBION, SPLENDID VIEW, RESIDENCE BEAU SOLEIL, MORC LA CROISETTE, ALBION SUR MER, LES VUE ALBION, SERENIS, TERRE DALBION",
+      "district": "blackriver",
+      "from": "2024-08-12T11:00:00.000Z",
+      "to": "2024-08-12T11:30:00.000Z",
+      "id": "e77ca96139b0ae39798e50a9cb38b190"
+    },
+    {
+      "date": "Le lundi 12 août 2024 de  08:30:00 à  09:30:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "REGION ALBION, SPLENDID VIEW, RESIDENCE BEAU SOLEIL, MORC LA CROISETTE, ALBION SUR MER, LES VUE ALBION, SERENIS, TERRE DALBION",
+      "district": "blackriver",
+      "from": "2024-08-12T04:30:00.000Z",
+      "to": "2024-08-12T05:30:00.000Z",
+      "id": "c09066e3f03f427c071923456b514722"
+    },
+    {
+      "date": "Le lundi 12 août 2024 de  10:40:00 à  12:00:00",
+      "locality": "BRISEE VERDIERE",
+      "localitySlug": "brisee-verdiere",
+      "streets": "NAGA ROAD ET LES ALENTOURS",
+      "district": "flacq",
+      "from": "2024-08-12T06:40:00.000Z",
+      "to": "2024-08-12T08:00:00.000Z",
+      "id": "12fe9471ee792e9357f07f108df9341a"
+    },
+    {
+      "date": "Le lundi 12 août 2024 de  18:00:00 à  00:00:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "RAILWAY RD HIGHLANDS",
+      "district": "plainewilhems",
+      "from": "2024-08-12T14:00:00.000Z",
+      "to": "2024-08-11T20:00:00.000Z",
+      "id": "8607c5833cde430a4c4978dc2c851142"
+    },
+    {
+      "date": "Le lundi 12 août 2024 de  15:30:00 à  21:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "PRISON RD -MORC SOOBRAH-KENSINGTON -PETIT VERGER PINTE AUX SABLES",
+      "district": "portlouis",
+      "from": "2024-08-12T11:30:00.000Z",
+      "to": "2024-08-12T17:00:00.000Z",
+      "id": "d288f2ca91cb6cc09b6ee330a400e022"
+    },
+    {
+      "date": "Le lundi 12 août 2024 de  10:30:00 à  13:30:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "Morc Anath,Goodlands",
+      "district": "rivieredurempart",
+      "from": "2024-08-12T06:30:00.000Z",
+      "to": "2024-08-12T09:30:00.000Z",
+      "id": "a4b23edce12383d2766f93aa63f6ec20"
+    }
+  ]
+}

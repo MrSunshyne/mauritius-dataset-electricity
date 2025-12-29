@@ -1,0 +1,48 @@
+{
+  "date": "2023-11-03",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.800Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le vendredi 3 novembre 2023 de  13:00:00 à  16:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "NR JARDIN BALFOUR BEAU BASSIN",
+      "district": "plainewilhems",
+      "from": "2023-11-03T09:00:00.000Z",
+      "to": "2023-11-03T12:00:00.000Z",
+      "id": "68383816a8cb5d89856b9b62f70a3172"
+    },
+    {
+      "date": "Le vendredi 3 novembre 2023 de  15:30:00 à  17:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVENUE MURPHY,WILLOUBY,DR ERNEST",
+      "district": "plainewilhems",
+      "from": "2023-11-03T11:30:00.000Z",
+      "to": "2023-11-03T13:30:00.000Z",
+      "id": "81a4df81b5856933d02b286350661d49"
+    },
+    {
+      "date": "Le vendredi 3 novembre 2023 de  15:00:00 à  16:30:00",
+      "locality": "CASSIS",
+      "localitySlug": "cassis",
+      "streets": "CASSIS,NR ROYAL COLLEGE",
+      "district": "portlouis",
+      "from": "2023-11-03T11:00:00.000Z",
+      "to": "2023-11-03T12:30:00.000Z",
+      "id": "25dda88f4d952079e5b458269518373c"
+    },
+    {
+      "date": "Le vendredi 3 novembre 2023 de  08:30:00 à  15:00:00",
+      "locality": "LA FERME(RODRIGUES)",
+      "localitySlug": "la-ferme",
+      "streets": "Manick et Terre Bornes",
+      "district": "rodrigues",
+      "from": "2023-11-03T04:30:00.000Z",
+      "to": "2023-11-03T11:00:00.000Z",
+      "id": "84b7b11e0af7ed889ad9abe7c9830aba"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2022-03-21",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.760Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le lundi 21 mars 2022 de  09:00:00 à  00:00:00",
+      "locality": "LA ROSA",
+      "localitySlug": "la-rosa",
+      "streets": "Morc La Rosa, (near Swimming Pool)",
+      "district": "grandport",
+      "from": "2022-03-21T05:00:00.000Z",
+      "to": "2022-03-20T20:00:00.000Z",
+      "id": "f3789160a5b982aa31e7bd96788dde5d"
+    },
+    {
+      "date": "Le lundi 21 mars 2022 de  09:00:00 à  16:00:00",
+      "locality": "QUARTIER MILITAIRE",
+      "localitySlug": "quartier-militaire",
+      "streets": "Village de LAssurance",
+      "district": "moka",
+      "from": "2022-03-21T05:00:00.000Z",
+      "to": "2022-03-21T12:00:00.000Z",
+      "id": "6ce4a075f34f4d22d3434c9bb75720db"
+    },
+    {
+      "date": "Le lundi 21 mars 2022 de  11:30:00 à  13:30:00",
+      "locality": "NOTRE DAME",
+      "localitySlug": "notre-dame",
+      "streets": "WHOLE VILLAGE",
+      "district": "pamplemousses",
+      "from": "2022-03-21T07:30:00.000Z",
+      "to": "2022-03-21T09:30:00.000Z",
+      "id": "d5fc2f59d14c4eb9e802ffc1b4e36184"
+    },
+    {
+      "date": "Le lundi 21 mars 2022 de  00:00:00 à  00:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "CHINA",
+      "district": "portlouis",
+      "from": "2022-03-20T20:00:00.000Z",
+      "to": "2022-03-19T20:00:00.000Z",
+      "id": "0e8ed3387d19048d1887e976d2f1bb75"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2022-07-21",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.767Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le jeudi 21 juillet 2022 de  08:30:00 à  17:00:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "Mahebourg habitant dans le périmètre et les rues suivantes: Rue de la Colonie, Rue du Hungar, Rue de Maurice, Rue des Mares, Rue du Bouchon, Rue du Souffleur, Rue Hollandais, Rue de labourdonnais une partie de Sivananda Lane, une partie de la Rue La place et Loyeung Supermarket Mahebourg",
+      "district": "grandport",
+      "from": "2022-07-21T04:30:00.000Z",
+      "to": "2022-07-21T13:00:00.000Z",
+      "id": "c7adaff64953b8fb07f74e20f8e8f46f"
+    },
+    {
+      "date": "Le jeudi 21 juillet 2022 de  08:30:00 à  16:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes : Robinson, Sagar, School et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-07-21T04:30:00.000Z",
+      "to": "2022-07-21T12:00:00.000Z",
+      "id": "c38bcf0e7ec6a6ae1565e58b7e94a1bd"
+    },
+    {
+      "date": "Le jeudi 21 juillet 2022 de  14:00:00 à  17:00:00",
+      "locality": "SAINT PAUL",
+      "localitySlug": "saint-paul",
+      "streets": "saint Paul Phoenix: Une partie de St Paul Road, Osman Avenue",
+      "district": "plainewilhems",
+      "from": "2022-07-21T10:00:00.000Z",
+      "to": "2022-07-21T13:00:00.000Z",
+      "id": "1b2429a607d87f2e8d984e15cf0d6969"
+    },
+    {
+      "date": "Le jeudi 21 juillet 2022 de  13:30:00 à  15:00:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "Le village de Grand Gaube entier",
+      "district": "rivieredurempart",
+      "from": "2022-07-21T09:30:00.000Z",
+      "to": "2022-07-21T11:00:00.000Z",
+      "id": "ffd8b98623f287884a81be513ac1a32b"
+    },
+    {
+      "date": "Le jeudi 21 juillet 2022 de  13:30:00 à  15:00:00",
+      "locality": "ROCHE TERRE",
+      "localitySlug": "roche-terre",
+      "streets": "le village de Roche Terre en entier",
+      "district": "rivieredurempart",
+      "from": "2022-07-21T09:30:00.000Z",
+      "to": "2022-07-21T11:00:00.000Z",
+      "id": "fa43f49bff71c3e98c845692b9223b1a"
+    }
+  ]
+}

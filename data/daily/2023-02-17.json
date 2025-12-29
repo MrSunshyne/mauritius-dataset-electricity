@@ -1,0 +1,28 @@
+{
+  "date": "2023-02-17",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.782Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le vendredi 17 février 2023 de  09:15:00 à  11:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "Rue Paul Taureau,Ste Croix",
+      "district": "portlouis",
+      "from": "2023-02-17T05:15:00.000Z",
+      "to": "2023-02-17T07:00:00.000Z",
+      "id": "bddbadb6bdf37190e512665893dfb7d0"
+    },
+    {
+      "date": "Le vendredi 17 février 2023 de  10:00:00 à  14:00:00",
+      "locality": "POINTE AUX CANONNIERS",
+      "localitySlug": "pointe-aux-canonniers",
+      "streets": "Coastal Road Pte Aux Cannoniers",
+      "district": "rodrigues",
+      "from": "2023-02-17T06:00:00.000Z",
+      "to": "2023-02-17T10:00:00.000Z",
+      "id": "c71cdb89a0fff2c798aab8454809f4e2"
+    }
+  ]
+}

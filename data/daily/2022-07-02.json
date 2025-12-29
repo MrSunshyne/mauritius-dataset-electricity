@@ -1,0 +1,28 @@
+{
+  "date": "2022-07-02",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.766Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le samedi 2 juillet 2022 de  09:00:00 à  12:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "LES ABONNES HABITANT PETITE RIVIERE DANS LES ENVIRONS DE RESIDENCE RICHELIEU,RESIDENCE FLAMBOYANTS, MOURA BUSINESS COMPLEX, ISLAND ICE, CERNOL, CMT DORMITORY ET BOULANGERIE RICHELIEU",
+      "district": "blackriver",
+      "from": "2022-07-02T05:00:00.000Z",
+      "to": "2022-07-02T08:00:00.000Z",
+      "id": "d240bf387922dfc4d90080c22d1639a9"
+    },
+    {
+      "date": "Le samedi 2 juillet 2022 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Marechal et Papayes",
+      "district": "rodrigues",
+      "from": "2022-07-02T04:30:00.000Z",
+      "to": "2022-07-02T11:00:00.000Z",
+      "id": "d2471e59d696d8cc8f1a784bf6c8a51a"
+    }
+  ]
+}

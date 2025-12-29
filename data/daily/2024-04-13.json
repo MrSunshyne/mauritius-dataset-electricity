@@ -1,0 +1,58 @@
+{
+  "date": "2024-04-13",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.813Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le samedi 13 avril 2024 de  08:30:00 à  16:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave Mallefille, Ave Beau Sejour, Route Royale Belle Rose, Ave Madhoo, SSR Dr Regis Chaperon et les environs",
+      "district": "plainewilhems",
+      "from": "2024-04-13T04:30:00.000Z",
+      "to": "2024-04-13T12:00:00.000Z",
+      "id": "5dfc0920e65b883c7c9a71dc66cc1055"
+    },
+    {
+      "date": "Le samedi 13 avril 2024 de  11:30:00 à  13:30:00",
+      "locality": "LA CAVERNE",
+      "localitySlug": "la-caverne",
+      "streets": "VICINITY OF PATISSERIE OOZEER",
+      "district": "plainewilhems",
+      "from": "2024-04-13T07:30:00.000Z",
+      "to": "2024-04-13T09:30:00.000Z",
+      "id": "1baea76a3f5c559d8e5125f7f3422db0"
+    },
+    {
+      "date": "Le samedi 13 avril 2024 de  10:15:00 à  11:30:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "TX SANDOKAN,CAROLINE,CHITRAKOOT",
+      "district": "portlouis",
+      "from": "2024-04-13T06:15:00.000Z",
+      "to": "2024-04-13T07:30:00.000Z",
+      "id": "ac0f698c18a8b8af84f0272bbc29ac06"
+    },
+    {
+      "date": "Le samedi 13 avril 2024 de  08:45:00 à  09:45:00",
+      "locality": "BATIMARAIS",
+      "localitySlug": "batimarais",
+      "streets": "Le Village de Batimarais",
+      "district": "savanne",
+      "from": "2024-04-13T04:45:00.000Z",
+      "to": "2024-04-13T05:45:00.000Z",
+      "id": "a09abe80ded5a6272c9d46b0d8f46de2"
+    },
+    {
+      "date": "Le samedi 13 avril 2024 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LES ABONNES DE MARECHAL ET PAPAYES.",
+      "district": "rodrigues",
+      "from": "2024-04-13T04:30:00.000Z",
+      "to": "2024-04-13T11:00:00.000Z",
+      "id": "6efc2cda95702d18b53c35f07c8e36b8"
+    }
+  ]
+}

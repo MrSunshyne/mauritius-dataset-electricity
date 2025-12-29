@@ -1,0 +1,60 @@
+{
+  "slug": "fuel-village",
+  "name": "FUEL VILLAGE",
+  "district": "flacq",
+  "generated": "2025-12-29T20:14:26.007Z",
+  "outageCount": 7,
+  "firstOutage": "2023-01-21",
+  "lastOutage": "2025-07-04",
+  "outages": [
+    {
+      "date": "Le vendredi 4 juillet 2025 de  09:15:00 à  14:00:00",
+      "streets": "HAPPY VILLAGE",
+      "from": "2025-07-04T05:15:00.000Z",
+      "to": "2025-07-04T10:00:00.000Z",
+      "id": "4e9301e76027dc1c09d1724a7eae2753"
+    },
+    {
+      "date": "Le vendredi 22 mars 2024 de  10:30:00 à  12:30:00",
+      "streets": "HAPPY VILLAGE",
+      "from": "2024-03-22T06:30:00.000Z",
+      "to": "2024-03-22T08:30:00.000Z",
+      "id": "a015a63a4f9b9ef49eba372434f0dab7"
+    },
+    {
+      "date": "Le mardi 19 mars 2024 de  09:45:00 à  13:30:00",
+      "streets": "HAPPY VILLAGE TOWARDS POST OFFICE",
+      "from": "2024-03-19T05:45:00.000Z",
+      "to": "2024-03-19T09:30:00.000Z",
+      "id": "81e4c29aa54e7f69c9539b520bc4f52c"
+    },
+    {
+      "date": "Le vendredi 15 mars 2024 de  12:20:00 à  13:30:00",
+      "streets": "HAPPY VILLAGE",
+      "from": "2024-03-15T08:20:00.000Z",
+      "to": "2024-03-15T09:30:00.000Z",
+      "id": "0a59e31a3d1c5fc7c82b5d9df39233ec"
+    },
+    {
+      "date": "Le jeudi 14 mars 2024 de  10:00:00 à  13:00:00",
+      "streets": "HAPPY VILLAGE TOWARDS FOOTBALL PLAYGROUND",
+      "from": "2024-03-14T06:00:00.000Z",
+      "to": "2024-03-14T09:00:00.000Z",
+      "id": "0689150c6781a527d01441937ecbd91f"
+    },
+    {
+      "date": "Le mardi 25 avril 2023 de  09:00:00 à  13:00:00",
+      "streets": "FUEL VILLAGE",
+      "from": "2023-04-25T05:00:00.000Z",
+      "to": "2023-04-25T09:00:00.000Z",
+      "id": "c38f569084584f40f22d84a8b1d3129c"
+    },
+    {
+      "date": "Le samedi 21 janvier 2023 de  12:00:00 à  13:00:00",
+      "streets": "HAPPY VILLAGE FUEL (URGENT LOPPING)",
+      "from": "2023-01-21T08:00:00.000Z",
+      "to": "2023-01-21T09:00:00.000Z",
+      "id": "b0cc2287d39f6e4f7bca0b16e9e5f319"
+    }
+  ]
+}

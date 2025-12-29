@@ -1,0 +1,48 @@
+{
+  "date": "2022-04-15",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.762Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le vendredi 15 avril 2022 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "COMPLEX NENUPHARES, AVE DES CYGOGNES, AVE DES KESTRELS, AVE NENUPHARS, AVE DES PERDRIX, AVE DES AIGRETTES, AVE DES COLOMBES ET UNE PARTIE DE LAVE RADAR",
+      "district": "blackriver",
+      "from": "2022-04-15T04:30:00.000Z",
+      "to": "2022-04-15T11:30:00.000Z",
+      "id": "82607614f16cf5d7063fa0d44c9601a0"
+    },
+    {
+      "date": "Le vendredi 15 avril 2022 de  15:00:00 à  17:30:00",
+      "locality": "CREVE COEUR",
+      "localitySlug": "creve-coeur",
+      "streets": "BOULINGRIN,ROBINSON,THOMASIN,RIVALLAND ET C.COEUR",
+      "district": "pamplemousses",
+      "from": "2022-04-15T11:00:00.000Z",
+      "to": "2022-04-15T13:30:00.000Z",
+      "id": "202ef6b919f1f62f773ec20386909ebf"
+    },
+    {
+      "date": "Le vendredi 15 avril 2022 de  08:30:00 à  16:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "une partie de Route Angus, Mudaliar Road, Avenue Wilson, Morcellement Sauba",
+      "district": "plainewilhems",
+      "from": "2022-04-15T04:30:00.000Z",
+      "to": "2022-04-15T12:00:00.000Z",
+      "id": "1bc90a55c05e1ecad858b4ab0ee4877a"
+    },
+    {
+      "date": "Le vendredi 15 avril 2022 de  09:00:00 à  15:30:00",
+      "locality": "POINTE AUX CANONNIERS",
+      "localitySlug": "pointe-aux-canonniers",
+      "streets": "dans les environs de casse ghoon et avenue laurrier",
+      "district": "rodrigues",
+      "from": "2022-04-15T05:00:00.000Z",
+      "to": "2022-04-15T11:30:00.000Z",
+      "id": "d52c58b4e6357870cd8da774e1958e92"
+    }
+  ]
+}

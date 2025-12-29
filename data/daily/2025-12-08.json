@@ -1,0 +1,68 @@
+{
+  "date": "2025-12-08",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.854Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le lundi 8 décembre 2025 de  14:00:00 à  17:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "CHEMIN ST GERAN/ALBATROSS",
+      "district": "blackriver",
+      "from": "2025-12-08T10:00:00.000Z",
+      "to": "2025-12-08T13:00:00.000Z",
+      "id": "92eb9aae668c1468da3e274e3adc1577"
+    },
+    {
+      "date": "Le lundi 8 décembre 2025 de  09:30:00 à  11:00:00",
+      "locality": "WOOTUN",
+      "localitySlug": "wootun",
+      "streets": "WOOTUN NEAR SUB STATION",
+      "district": "plainewilhems",
+      "from": "2025-12-08T05:30:00.000Z",
+      "to": "2025-12-08T07:00:00.000Z",
+      "id": "15569cec907625e7a7ee316b48bff942"
+    },
+    {
+      "date": "Le lundi 8 décembre 2025 de  19:00:00 à  23:00:00",
+      "locality": "COROMONDEL - IND ZONE",
+      "localitySlug": "coromondel-ind-zone",
+      "streets": "MONTE EST COROMANDEL",
+      "district": "plainewilhems",
+      "from": "2025-12-08T15:00:00.000Z",
+      "to": "2025-12-08T19:00:00.000Z",
+      "id": "07a12eca12656d830571e1f49aef7cbd"
+    },
+    {
+      "date": "Le lundi 8 décembre 2025 de  15:30:00 à  18:30:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "PHILLIPE ROUSSETTE CAMP CHAPELON PAILLES",
+      "district": "portlouis",
+      "from": "2025-12-08T11:30:00.000Z",
+      "to": "2025-12-08T14:30:00.000Z",
+      "id": "c39e3d8d868cef3fcf4a013c9d0cfe16"
+    },
+    {
+      "date": "Le lundi 8 décembre 2025 de  09:15:00 à  10:15:00",
+      "locality": "RIVIERE DES ANGUILLES",
+      "localitySlug": "riviere-des-anguilles",
+      "streets": "RIV DES ANGUILLES",
+      "district": "savanne",
+      "from": "2025-12-08T05:15:00.000Z",
+      "to": "2025-12-08T06:15:00.000Z",
+      "id": "721681c3b9ceae1200a3f2580a5bbd4b"
+    },
+    {
+      "date": "Le lundi 8 décembre 2025 de  15:20:00 à  16:30:00",
+      "locality": "LA FLORA",
+      "localitySlug": "la-flora",
+      "streets": "LAFLORA",
+      "district": "savanne",
+      "from": "2025-12-08T11:20:00.000Z",
+      "to": "2025-12-08T12:30:00.000Z",
+      "id": "83b3894e706b5f53437edc610980003d"
+    }
+  ]
+}

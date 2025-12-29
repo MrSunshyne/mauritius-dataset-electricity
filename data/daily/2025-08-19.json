@@ -1,0 +1,58 @@
+{
+  "date": "2025-08-19",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.846Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mardi 19 août 2025 de  09:00:00 à  14:00:00",
+      "locality": "MEDINE CAMP DE MASQUE",
+      "localitySlug": "medine-camp-de-masque",
+      "streets": "AVENUE PEROQUET ROYAL ROAD MEDINE CAMP DE MASQUE",
+      "district": "flacq",
+      "from": "2025-08-19T05:00:00.000Z",
+      "to": "2025-08-19T10:00:00.000Z",
+      "id": "6bb4365578aa90be4a35d3c4045a8e39"
+    },
+    {
+      "date": "Le mardi 19 août 2025 de  08:00:00 à  14:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "SKY LARK STREET ALLEE BRILLANT VACOAS",
+      "district": "plainewilhems",
+      "from": "2025-08-19T04:00:00.000Z",
+      "to": "2025-08-19T10:00:00.000Z",
+      "id": "99becd26d8a411f8e8a0b4947f4cd3a3"
+    },
+    {
+      "date": "Le mardi 19 août 2025 de  18:15:00 à  20:00:00",
+      "locality": "MONT ROCHES",
+      "localitySlug": "mont-roches",
+      "streets": "AVE MADAME,AVE MANGUIERS AND NEARBY REGION MONT ROCHES",
+      "district": "plainewilhems",
+      "from": "2025-08-19T14:15:00.000Z",
+      "to": "2025-08-19T16:00:00.000Z",
+      "id": "ba3652927cb0ef28592cf40b332a4947"
+    },
+    {
+      "date": "Le mardi 19 août 2025 de  12:50:00 à  15:00:00",
+      "locality": "COTTAGE",
+      "localitySlug": "cottage",
+      "streets": "BISSOONDOYAL ROAD COTTAGE",
+      "district": "rivieredurempart",
+      "from": "2025-08-19T08:50:00.000Z",
+      "to": "2025-08-19T11:00:00.000Z",
+      "id": "c3f4895e44a61be1fd8210a198b86caf"
+    },
+    {
+      "date": "Le mardi 19 août 2025 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LES ABONNES DE SONGES, PORT SUD-EST, MONTAGNE CHERIE, MOUROUK, MOUROUK ANSE ANFER ET MORCELLEMENT MOUROUK.",
+      "district": "rodrigues",
+      "from": "2025-08-19T04:30:00.000Z",
+      "to": "2025-08-19T11:00:00.000Z",
+      "id": "c291df23549a7cb8ef56a75db28370a9"
+    }
+  ]
+}

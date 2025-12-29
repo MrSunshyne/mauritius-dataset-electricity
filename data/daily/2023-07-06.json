@@ -1,0 +1,38 @@
+{
+  "date": "2023-07-06",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.792Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le jeudi 6 juillet 2023 de  15:00:00 à  17:30:00",
+      "locality": "ALLEE BRILLANT CASTEL",
+      "localitySlug": "allee-brillant-castel",
+      "streets": "Avenue Charles Dickens",
+      "district": "plainewilhems",
+      "from": "2023-07-06T11:00:00.000Z",
+      "to": "2023-07-06T13:30:00.000Z",
+      "id": "0745f3f0994edd5e10f460d84a51f888"
+    },
+    {
+      "date": "Le jeudi 6 juillet 2023 de  09:45:00 à  12:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "BASSIN",
+      "district": "plainewilhems",
+      "from": "2023-07-06T05:45:00.000Z",
+      "to": "2023-07-06T08:30:00.000Z",
+      "id": "6fc035cea10807935b8bd6a024c13b7d"
+    },
+    {
+      "date": "Le jeudi 6 juillet 2023 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "PAPAYES,MARECHAL",
+      "district": "rodrigues",
+      "from": "2023-07-06T04:30:00.000Z",
+      "to": "2023-07-06T11:00:00.000Z",
+      "id": "c29d458d182dcf22ec4da73d5e673e88"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2022-09-30",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:14:25.772Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le vendredi 30 septembre 2022 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "L’Ave des Cygognes, Ave des Rossignoles, Ave des Canaries, Ave des Pigeons et une partie de Ave Carrière",
+      "district": "blackriver",
+      "from": "2022-09-30T04:30:00.000Z",
+      "to": "2022-09-30T11:30:00.000Z",
+      "id": "563a2d3bc3c10a066d5ae7eaf642405d"
+    },
+    {
+      "date": "Le vendredi 30 septembre 2022 de  08:45:00 à  11:30:00",
+      "locality": "GRANDE RIVIERE SUD EST",
+      "localitySlug": "grande-riviere-sud-est",
+      "streets": "WHOLE REGION",
+      "district": "flacq",
+      "from": "2022-09-30T04:45:00.000Z",
+      "to": "2022-09-30T07:30:00.000Z",
+      "id": "f06d39de622bc48dfb1c55dc8b746eb9"
+    },
+    {
+      "date": "Le vendredi 30 septembre 2022 de  09:00:00 à  17:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "les abonnés de Morcellement VRS 1 L’escalier Road Plaine Magnien",
+      "district": "grandport",
+      "from": "2022-09-30T05:00:00.000Z",
+      "to": "2022-09-30T13:00:00.000Z",
+      "id": "ddbccdc4b08560709725e2b7d630ef5e"
+    },
+    {
+      "date": "Le vendredi 30 septembre 2022 de  16:00:00 à  18:00:00",
+      "locality": "CHEMIN GRENIER",
+      "localitySlug": "chemin-grenier",
+      "streets": "Camp Goolbar et Camp Lilas",
+      "district": "savanne",
+      "from": "2022-09-30T12:00:00.000Z",
+      "to": "2022-09-30T14:00:00.000Z",
+      "id": "7a5274f458975a45093042e0e8c06df9"
+    }
+  ]
+}

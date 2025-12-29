@@ -1,0 +1,655 @@
+{
+  "slug": "phoenix",
+  "name": "PHOENIX",
+  "district": "plainewilhems",
+  "generated": "2025-12-29T20:14:26.130Z",
+  "outageCount": 92,
+  "firstOutage": "2022-03-20",
+  "lastOutage": "2025-11-05",
+  "outages": [
+    {
+      "date": "Le mercredi 5 novembre 2025 de  09:00:00 à  12:00:00",
+      "streets": "Petit Camp",
+      "from": "2025-11-05T05:00:00.000Z",
+      "to": "2025-11-05T08:00:00.000Z",
+      "id": "1a298376be61fa05d2bde49f2a49a188"
+    },
+    {
+      "date": "Le dimanche 19 octobre 2025 de  08:30:00 à  17:00:00",
+      "streets": "Partie de Zone Industrielle Valentina",
+      "from": "2025-10-19T04:30:00.000Z",
+      "to": "2025-10-19T13:00:00.000Z",
+      "id": "bd70ab29a4e08ef2bcf8144e5d3025f3"
+    },
+    {
+      "date": "Le mercredi 8 octobre 2025 de  12:00:00 à  13:00:00",
+      "streets": "CLOSEL NR CEMETERY",
+      "from": "2025-10-08T08:00:00.000Z",
+      "to": "2025-10-08T09:00:00.000Z",
+      "id": "af2fe7e2988fe9dfa897ca47407b889a"
+    },
+    {
+      "date": "Le dimanche 3 août 2025 de  17:45:00 à  19:45:00",
+      "streets": "CITE PALMERSTONE, EN PARTIE ROYAL ROAD, DANS LES ALENTOURS DE WOMAN CENTRE EN DIRECTION DE LOLO HYPERMARKET",
+      "from": "2025-08-03T13:45:00.000Z",
+      "to": "2025-08-03T15:45:00.000Z",
+      "id": "6d23cb252ba66f7bd6309b6ea91ba9d5"
+    },
+    {
+      "date": "Le dimanche 3 août 2025 de  08:30:00 à  17:00:00",
+      "streets": "UNE PARTIE DE LA ROUTE ROYALE, RIVERSIDE, HASSEN RAFFA ROAD, PALMERSTONE, SAYED HOSSEN ROAD EN DIRECTION TEMPLE ET LA POSTE, CLAIRFOND No 1 DANS LES ENVIRONS LYCEE MAURICIEN ET LES ENVIRONS.",
+      "from": "2025-08-03T04:30:00.000Z",
+      "to": "2025-08-03T13:00:00.000Z",
+      "id": "8b260709d21918ba93c79261ec7ffb08"
+    },
+    {
+      "date": "Le samedi 2 août 2025 de  08:30:00 à  17:00:00",
+      "streets": "MITD Phoenix, partie de Warwick Street et les ruelles avoisinantes",
+      "from": "2025-08-02T04:30:00.000Z",
+      "to": "2025-08-02T13:00:00.000Z",
+      "id": "b2ab297f0e7852636a4f51922e99a3f9"
+    },
+    {
+      "date": "Le dimanche 27 juillet 2025 de  10:15:00 à  10:45:00",
+      "streets": "RIVER SIDE PHOENIX",
+      "from": "2025-07-27T06:15:00.000Z",
+      "to": "2025-07-27T06:45:00.000Z",
+      "id": "ca0e405faa700ce7cdde8a0ca826baac"
+    },
+    {
+      "date": "Le jeudi 17 juillet 2025 de  16:00:00 à  19:00:00",
+      "streets": "PLAINE DES HERMITAGES",
+      "from": "2025-07-17T12:00:00.000Z",
+      "to": "2025-07-17T15:00:00.000Z",
+      "id": "fcce475adaf6865d88fbc5b6064b494e"
+    },
+    {
+      "date": "Le jeudi 10 juillet 2025 de  15:00:00 à  18:00:00",
+      "streets": "Palmerston Road, Cite Palmerston, Ex- Railway Road, Robinson Road No. 1 et No. 2, Sir Abdul Razack Mohamed Centre QSC",
+      "from": "2025-07-10T11:00:00.000Z",
+      "to": "2025-07-10T14:00:00.000Z",
+      "id": "2a715d73d41b9bce889fa8a01c777b99"
+    },
+    {
+      "date": "Le vendredi 4 juillet 2025 de  15:00:00 à  18:30:00",
+      "streets": "Partie de Royal Road Phoenix, Cité Palmerston, Palmerston Road, partie de Hassan Raffa Street, Dowlut Lane, Hazareesingh Lane, Impasse Allyson",
+      "from": "2025-07-04T11:00:00.000Z",
+      "to": "2025-07-04T14:30:00.000Z",
+      "id": "b6d379c5231e27d545e2515424b8cf3e"
+    },
+    {
+      "date": "Le jeudi 19 juin 2025 de  15:30:00 à  18:30:00",
+      "streets": "DOWLUT LANE No. 1 et No. 2.",
+      "from": "2025-06-19T11:30:00.000Z",
+      "to": "2025-06-19T14:30:00.000Z",
+      "id": "1840b23e16f750b34946f5ef65d63da8"
+    },
+    {
+      "date": "Le dimanche 2 mars 2025 de  13:00:00 à  19:00:00",
+      "streets": "ROYAL ROAD PHOENIX",
+      "from": "2025-03-02T09:00:00.000Z",
+      "to": "2025-03-02T15:00:00.000Z",
+      "id": "1d254bc39670933a5f66babdd71052f8"
+    },
+    {
+      "date": "Le samedi 1 mars 2025 de  08:30:00 à  17:00:00",
+      "streets": "Morc Engrais Cathan, Morc Giquel, Morc Ramanah, Baza Lane, Peerthy Lane, partie de Camp Fouqueraux Branch Road, partie de Prayag Lane, Constantin Lane, partie de Galea Road No. 1, No. 2, No.  3, partie de Route Royale Castel, Route Royale Mesnil, Banarally Lane, Morc Basalt, Tagore Lane, partie de Parisot Road, Jaffar Lane, CTR Lane, Ally Lane, Ameerally Lane, Laloo Lane, Calechurm Lane, Dhuny Lane No. 1",
+      "from": "2025-03-01T04:30:00.000Z",
+      "to": "2025-03-01T13:00:00.000Z",
+      "id": "b17e42a30acdbcf5bde0bcaea6f22c2d"
+    },
+    {
+      "date": "Le vendredi 28 février 2025 de  14:00:00 à  18:00:00",
+      "streets": "partie de Route Royale Phoenix, Iqbal Lane, partie de Highlands Branch Road, Hassen Raffa Lane, Bundhoo Lane, Partie de Nehru Road, Sayed Hossen, Ramputh Lane, Salabee Lane",
+      "from": "2025-02-28T10:00:00.000Z",
+      "to": "2025-02-28T14:00:00.000Z",
+      "id": "8d6074e053318356c5d7db643a4161b9"
+    },
+    {
+      "date": "Le dimanche 16 février 2025 de  08:30:00 à  17:00:00",
+      "streets": "9artie de Route Royale Phoenix, Iqbal Lane, Partie de Highlands Branch Road, Hassen Raffa Lane, Bundhoo Lane, Partie de Nehru Road, Sayed Hossen, Ramputh Lane, Salabee Lane",
+      "from": "2025-02-16T04:30:00.000Z",
+      "to": "2025-02-16T13:00:00.000Z",
+      "id": "01f5108d9b1771d0f2c9bf13c0ef2386"
+    },
+    {
+      "date": "Le mercredi 5 février 2025 de  15:00:00 à  17:45:00",
+      "streets": "partie de Highlands Branch Road, Bundhoo Lane, Hassen Raffa",
+      "from": "2025-02-05T11:00:00.000Z",
+      "to": "2025-02-05T13:45:00.000Z",
+      "id": "a08332b470c8c3c7aaccea8c9bdf4f59"
+    },
+    {
+      "date": "Le mardi 14 janvier 2025 de  14:00:00 à  17:30:00",
+      "streets": "Cavendish Institute et CWA Bore Hole Socota, Auto City Car Showroom",
+      "from": "2025-01-14T10:00:00.000Z",
+      "to": "2025-01-14T13:30:00.000Z",
+      "id": "c967f9603b9724bb3724cfda498a2468"
+    },
+    {
+      "date": "Le lundi 13 janvier 2025 de  14:00:00 à  17:30:00",
+      "streets": "Sir Abdul Razack Mohamed Centre, Robinson Road N0. 1 et N0. 2",
+      "from": "2025-01-13T10:00:00.000Z",
+      "to": "2025-01-13T13:30:00.000Z",
+      "id": "660c0c1ce04aa177c9bc818d45ab2960"
+    },
+    {
+      "date": "Le dimanche 12 janvier 2025 de  08:15:00 à  16:00:00",
+      "streets": "ST PAUL ET PHOENIX: Bechards Lane, Pandit Jawaharlal Nehru Avenue, Jhugroo Lane, Edgar Quirin Avenue, Barry Road, une partie de Nilkant Mandir Avenue, Osman Avenue, Allée Jacques, une partie de Route Royal Phoenix, Koenig Lane No. 1, No. 2, No. 3, No. 4 et No. 5, Morc Soobratty, Morc Chambor, Morc Noel, Sawmill Lane",
+      "from": "2025-01-12T04:15:00.000Z",
+      "to": "2025-01-12T12:00:00.000Z",
+      "id": "db9b8a921d702f565807605670879df1"
+    },
+    {
+      "date": "Le dimanche 15 décembre 2024 de  08:30:00 à  17:00:00",
+      "streets": "Parkside South, Flat Hillcrest, Phoenix Residence, Phoenix Heights, Pet-s Concern, Imperial Garden, J & J Auditorium. Gibbs, Cavendish School, Premium Care.",
+      "from": "2024-12-15T04:30:00.000Z",
+      "to": "2024-12-15T13:00:00.000Z",
+      "id": "f0deb940343cc45839216fab7b330d09"
+    },
+    {
+      "date": "Le dimanche 8 décembre 2024 de  08:30:00 à  17:00:00",
+      "streets": "Morc Engrais Cathan, Morc Giquel,  Morc Ramanah, Baza Lane, Peerthy Lane, partie de Camp Fouqueraux Branch Road, partie de Pruyag Lane, partie de Constantin Lane, partie de Galea  Road",
+      "from": "2024-12-08T04:30:00.000Z",
+      "to": "2024-12-08T13:00:00.000Z",
+      "id": "04cbaa71474ee43928b71ba1ed75b48b"
+    },
+    {
+      "date": "Le jeudi 24 octobre 2024 de  09:50:00 à  11:30:00",
+      "streets": "NEHRU ROAD, CLAIRFOND PHOENIX ET LES ALENTOURS",
+      "from": "2024-10-24T05:50:00.000Z",
+      "to": "2024-10-24T07:30:00.000Z",
+      "id": "1dc8b7b18e1b223db30289bbd373c578"
+    },
+    {
+      "date": "Le dimanche 20 octobre 2024 de  08:30:00 à  17:00:00",
+      "streets": "partie de Route Royale Phoenix, Cite Palmerston, Riverside, Sayed Hossen, Iqbal Lane, partie de Highlands Branch Road,  partie de Clairfonds No. 1, Hassen Raffa",
+      "from": "2024-10-20T04:30:00.000Z",
+      "to": "2024-10-20T13:00:00.000Z",
+      "id": "3d3185ee7862b659b92ca040ff6f9bb3"
+    },
+    {
+      "date": "Le mercredi 16 octobre 2024 de  14:45:00 à  17:00:00",
+      "streets": "Rue Couvent de Laurette et les alentours",
+      "from": "2024-10-16T10:45:00.000Z",
+      "to": "2024-10-16T13:00:00.000Z",
+      "id": "bcfc6108ce6158fe55723826f0e24ead"
+    },
+    {
+      "date": "Le mardi 17 septembre 2024 de  14:30:00 à  17:00:00",
+      "streets": "Une partie de Route Royale Phoenix, Robinson No, 1,2,3.",
+      "from": "2024-09-17T10:30:00.000Z",
+      "to": "2024-09-17T13:00:00.000Z",
+      "id": "1a32bc1acad7e0544cc0a090b8fb9d15"
+    },
+    {
+      "date": "Le samedi 10 août 2024 de  08:30:00 à  14:00:00",
+      "streets": "partie de Royal Road Phoenix, partie de Palmerstone Road",
+      "from": "2024-08-10T04:30:00.000Z",
+      "to": "2024-08-10T10:00:00.000Z",
+      "id": "69ef002e3ecd02c5a13d91ac07abf5ea"
+    },
+    {
+      "date": "Le dimanche 14 juillet 2024 de  08:30:00 à  15:00:00",
+      "streets": "PAI, INNODIS, OLYMIC, COURTS",
+      "from": "2024-07-14T04:30:00.000Z",
+      "to": "2024-07-14T11:00:00.000Z",
+      "id": "d2c27c027e25259a12e2862d2437dc96"
+    },
+    {
+      "date": "Le dimanche 7 juillet 2024 de  08:30:00 à  15:00:00",
+      "streets": "PAI,INNODIS,OLYPIC.",
+      "from": "2024-07-07T04:30:00.000Z",
+      "to": "2024-07-07T11:00:00.000Z",
+      "id": "01e38fb1bb904565457d0bf18a37d4c3"
+    },
+    {
+      "date": "Le lundi 1 juillet 2024 de  14:00:00 à  17:00:00",
+      "streets": "Bechards Lane, Osman Lane, Allée Jacques, Edgar Quinin, Sandiran Lane, Barry Lane,  Nerhu Lane, Koenig Lane No. 1, No. 2, No. 3, No. 4, et No. 5, Morc Soobratty, Morc Chambor, Morcellement  Noel, une partie de Route Royal Phoenix, Sawmill Lane",
+      "from": "2024-07-01T10:00:00.000Z",
+      "to": "2024-07-01T13:00:00.000Z",
+      "id": "72eaa0d3c5db71762362e612e93cb455"
+    },
+    {
+      "date": "Le dimanche 16 juin 2024 de  14:00:00 à  16:00:00",
+      "streets": "PHOENIX/SOLFERINO",
+      "from": "2024-06-16T10:00:00.000Z",
+      "to": "2024-06-16T12:00:00.000Z",
+      "id": "edb46e324caf91971bb276b722528da4"
+    },
+    {
+      "date": "Le samedi 15 juin 2024 de  08:15:00 à  16:00:00",
+      "streets": "Imperial Garden, Pets Concern Mauritius, Phoenix Heights Résidences, Hillcrest Park Appartements, Parkside South Appartements, J&J Auditorium, GIBBS Ltd, Cavendish Institute, Auto City Car Showroom, CWA Borehole Socota",
+      "from": "2024-06-15T04:15:00.000Z",
+      "to": "2024-06-15T12:00:00.000Z",
+      "id": "c2e2f87f778760c350ff57cd7b9059c2"
+    },
+    {
+      "date": "Le jeudi 16 mai 2024 de  12:00:00 à  16:00:00",
+      "streets": "Imperial Garden, Pets Concern Mauritius, Phoenix Heights Residence, Hillcrest Park Apartments, Parkside South Apartments, J&J Auditorium, GIBBS Ltd, Cavendish Institute, Auto City Car Showroom, CWA Borehole Socota",
+      "from": "2024-05-16T08:00:00.000Z",
+      "to": "2024-05-16T12:00:00.000Z",
+      "id": "b5e6fdb9b1aaa6a32a857b41294b4da1"
+    },
+    {
+      "date": "Le samedi 11 mai 2024 de  08:15:00 à  16:00:00",
+      "streets": "Raman Osman State Secondary School, Phoenix State Secondary School, Emirates Airlines Swimming Pool, MUGA Phoenix, New Hindi Secretariat, Indira Gandhi Centre For Indian Culture, Gymnase Phoenix, une partie de Phoenix Mall",
+      "from": "2024-05-11T04:15:00.000Z",
+      "to": "2024-05-11T12:00:00.000Z",
+      "id": "326216e030e3a7791ed20fa885012140"
+    },
+    {
+      "date": "Le mercredi 8 mai 2024 de  14:00:00 à  17:30:00",
+      "streets": "une partie de Willoughby Road, Gaz Carbonite Factory Plant, Ministry of Public Infrastructure, Phoenix Beverages Ltd, Mauritius Gymkhana Club, Police Band Headquarters",
+      "from": "2024-05-08T10:00:00.000Z",
+      "to": "2024-05-08T13:30:00.000Z",
+      "id": "1048c5818a394daec646e75bf41eff9b"
+    },
+    {
+      "date": "Le mardi 7 mai 2024 de  15:00:00 à  17:30:00",
+      "streets": "Morc Goburdhun",
+      "from": "2024-05-07T11:00:00.000Z",
+      "to": "2024-05-07T13:30:00.000Z",
+      "id": "132dd600508bb1bef3dd5050913cb52d"
+    },
+    {
+      "date": "Le mardi 7 mai 2024 de  14:00:00 à  17:00:00",
+      "streets": "Edgar Quirin Avenue, Phoenix",
+      "from": "2024-05-07T10:00:00.000Z",
+      "to": "2024-05-07T13:00:00.000Z",
+      "id": "cbafac07970a22ce8747588b2fee19c4"
+    },
+    {
+      "date": "Le lundi 6 mai 2024 de  13:00:00 à  17:00:00",
+      "streets": "Edgar Quirin Avenue.",
+      "from": "2024-05-06T09:00:00.000Z",
+      "to": "2024-05-06T13:00:00.000Z",
+      "id": "b23e75ca456da5e4deb3358e09e28d2d"
+    },
+    {
+      "date": "Le lundi 29 avril 2024 de  15:00:00 à  17:00:00",
+      "streets": "Morcellement Trianon, Morcellement River Edge, partie de Petit Camp",
+      "from": "2024-04-29T11:00:00.000Z",
+      "to": "2024-04-29T13:00:00.000Z",
+      "id": "0e544c79b52dcbf957ad192ef61b24d9"
+    },
+    {
+      "date": "Le dimanche 28 avril 2024 de  08:15:00 à  17:00:00",
+      "streets": "Cité Palmerstone, Palmerston Road, Hassan Raffa Street, Hazareesingh Lane, Robinson Road No. 1 et No. 2, Sir Abdul Razack Mohamed Centre QSC",
+      "from": "2024-04-28T04:15:00.000Z",
+      "to": "2024-04-28T13:00:00.000Z",
+      "id": "6ed0733f58bf6c60eaf614f77eeae3d4"
+    },
+    {
+      "date": "Le jeudi 18 avril 2024 de  13:00:00 à  17:00:00",
+      "streets": "une partie de Hassan Raffa Street, Hazareesingh Lane, Robinson Road No. 1",
+      "from": "2024-04-18T09:00:00.000Z",
+      "to": "2024-04-18T13:00:00.000Z",
+      "id": "3cb3f588324e062774fd98e8df73b12c"
+    },
+    {
+      "date": "Le dimanche 7 avril 2024 de  08:15:00 à  17:00:00",
+      "streets": "Cité Palmerston, Palmerston Road, Hassan Raffa Street, Hazareesingh Lane, Robinson Road No. 1 et No. 2, Sir Abdul Razack Mohamed Centre QSC,  Dowlut Lane No. 1 et No. 2",
+      "from": "2024-04-07T04:15:00.000Z",
+      "to": "2024-04-07T13:00:00.000Z",
+      "id": "83b4bb95d2f66fde528af2852ed81e5e"
+    },
+    {
+      "date": "Le jeudi 4 avril 2024 de  12:00:00 à  17:00:00",
+      "streets": "Cité Palmerston, Palmerston Road, Hassan Raffa Street, Hazareesingh Lane, Robinson Road No. 1 et No. 2, Sir Abdul Razack Mohamed Centre QSC, Dowlut Lane No. 1 et No. 2",
+      "from": "2024-04-04T08:00:00.000Z",
+      "to": "2024-04-04T13:00:00.000Z",
+      "id": "957911c6be4852173a66148162f7b2bb"
+    },
+    {
+      "date": "Le mardi 26 mars 2024 de  15:30:00 à  17:00:00",
+      "streets": "Zone industrielle et Valentina Road Phoenix",
+      "from": "2024-03-26T11:30:00.000Z",
+      "to": "2024-03-26T13:00:00.000Z",
+      "id": "88b82038cf9ff2ff96cfdcce9840b486"
+    },
+    {
+      "date": "Le dimanche 3 mars 2024 de  08:30:00 à  15:00:00",
+      "streets": "Srila Prabhupada Street, Iskcon, Larsen & Toubro Limited, Saint Nicholas Grammar School, Rushmore Business School, CFAO Motors",
+      "from": "2024-03-03T04:30:00.000Z",
+      "to": "2024-03-03T11:00:00.000Z",
+      "id": "b74d980719ae00a0b33bbc3762e55f21"
+    },
+    {
+      "date": "Le dimanche 21 janvier 2024 de  08:30:00 à  12:00:00",
+      "streets": "Morcellement Hardy, Morcellement Résidence Trianon, Morcellement River Edge, Appartements Jet Seven",
+      "from": "2024-01-21T04:30:00.000Z",
+      "to": "2024-01-21T08:00:00.000Z",
+      "id": "03cf32d534f66988ddbee6b70db2c04d"
+    },
+    {
+      "date": "Le mercredi 17 janvier 2024 de  14:10:00 à  15:15:00",
+      "streets": "MAHA KABIR RD CLAIRFONDS PHOENIX NEAR CEMETERY",
+      "from": "2024-01-17T10:10:00.000Z",
+      "to": "2024-01-17T11:15:00.000Z",
+      "id": "fa8005be40dbe0ecf3808515e83a4671"
+    },
+    {
+      "date": "Le mercredi 17 janvier 2024 de  10:25:00 à  11:45:00",
+      "streets": "SODNAC LINK RD DANS LES ALENTOURS DE JUMBO, J&J AUDITORIUM, HILL CREST",
+      "from": "2024-01-17T06:25:00.000Z",
+      "to": "2024-01-17T07:45:00.000Z",
+      "id": "565f40bdb8c6357294b99379ae7472b6"
+    },
+    {
+      "date": "Le mercredi 3 janvier 2024 de  10:30:00 à  11:30:00",
+      "streets": "Raman Osman State Secondary School, Phoenix State Secondary School, Emirates Airlines Swimming Pool, MUGA Phoenix, New Hindi Secretariat, Indira Gandhi Centre For Indian Culture, Gymnase Phoenix",
+      "from": "2024-01-03T06:30:00.000Z",
+      "to": "2024-01-03T07:30:00.000Z",
+      "id": "58b2c598e60307cb1fe39f3555074a49"
+    },
+    {
+      "date": "Le vendredi 22 décembre 2023 de  15:30:00 à  17:30:00",
+      "streets": "SAYED HOSSEN ROAD, SSR ROAD AND SURROUNDINGS",
+      "from": "2023-12-22T11:30:00.000Z",
+      "to": "2023-12-22T13:30:00.000Z",
+      "id": "6a633dd6ee80c1d7530a1836b14675f5"
+    },
+    {
+      "date": "Le jeudi 9 novembre 2023 de  14:00:00 à  17:00:00",
+      "streets": "Dowlut Lane No. 1, No. 2",
+      "from": "2023-11-09T10:00:00.000Z",
+      "to": "2023-11-09T13:00:00.000Z",
+      "id": "5985da58ae670969b9d22c03581ce683"
+    },
+    {
+      "date": "Le dimanche 29 octobre 2023 de  08:15:00 à  16:00:00",
+      "streets": "Phoenix Mall, Imperial Garden, Raman Osman State Secondary School, Phoenix State Secondary School, Emirates Airlines Swimming Pool, MUGA Phoenix, New Hindi Secretariat, Indira Gandhi Centre For Indian Culture, Gymnase Phoenix",
+      "from": "2023-10-29T04:15:00.000Z",
+      "to": "2023-10-29T12:00:00.000Z",
+      "id": "17668e5ffbe890d260e5e19e754f8ecc"
+    },
+    {
+      "date": "Le dimanche 22 octobre 2023 de  16:30:00 à  17:30:00",
+      "streets": "Morcellement Hardy, Morcellement Résidences Trianon, Morcellement River Edge",
+      "from": "2023-10-22T12:30:00.000Z",
+      "to": "2023-10-22T13:30:00.000Z",
+      "id": "73e676023431501835053eb51b784459"
+    },
+    {
+      "date": "Le dimanche 22 octobre 2023 de  05:30:00 à  07:00:00",
+      "streets": "Morcellement Hardy, Morcellement Résidences Trianon, Morcellement River Edge",
+      "from": "2023-10-22T01:30:00.000Z",
+      "to": "2023-10-22T03:00:00.000Z",
+      "id": "56630cb777b1cea0a6e865a4f8d1df73"
+    },
+    {
+      "date": "Le mercredi 6 septembre 2023 de  00:00:00 à  00:00:00",
+      "streets": "ROYAL ROAD PHOENIX ET RIVERSIDE PHOENIX",
+      "from": "2023-09-05T20:00:00.000Z",
+      "to": "2023-09-04T20:00:00.000Z",
+      "id": "cbed91da206c3787194d0d3e21e020a9"
+    },
+    {
+      "date": "Le mardi 5 septembre 2023 de  09:00:00 à  11:00:00",
+      "streets": "ROYAL ROAD & RIVERSIDE PHOENIX",
+      "from": "2023-09-05T05:00:00.000Z",
+      "to": "2023-09-05T07:00:00.000Z",
+      "id": "8e2cc42b4f80c2ad3c88093b34d03945"
+    },
+    {
+      "date": "Le samedi 2 septembre 2023 de  08:15:00 à  16:00:00",
+      "streets": "Srila Prabhupada Street, Iskcon, Larsen & Toubro Limited, Saint Nicholas Grammar School, Rushmore Business School, CFAO Motors",
+      "from": "2023-09-02T04:15:00.000Z",
+      "to": "2023-09-02T12:00:00.000Z",
+      "id": "63e17606d2cc5a5d49efed9b297a7e3a"
+    },
+    {
+      "date": "Le dimanche 30 juillet 2023 de  14:00:00 à  15:00:00",
+      "streets": "Koeing lane No. 1, No. 2, No. 3, No. 4, No. 5, Morc Soobratty, Morc Chambor, une partie de Route Royal Phoenix, Sawmill Lane, une partie de Bienheureux Père Laval Avenue, Bechard lane, Pandit Jawaharlal Nehru Avenue, Jhugroo lane, Barry Road, Edgar Quirin Avenue, Nilkant Mandir Avenue, Osman Avenue, une partie de Rabindranath Tagore",
+      "from": "2023-07-30T10:00:00.000Z",
+      "to": "2023-07-30T11:00:00.000Z",
+      "id": "9774ff8fbd5509ed6ec01fa88ef7937c"
+    },
+    {
+      "date": "Le dimanche 30 juillet 2023 de  09:00:00 à  10:00:00",
+      "streets": "Koeing lane No. 1, No. 2, No. 3, No. 4, No. 5, Morc Soobratty, Morc Chambor, une partie de Route Royal Phoenix, Sawmill Lane, une partie de Bienheureux Père Laval Avenue, Bechard lane, Pandit Jawaharlal Nehru Avenue, Jhugroo lane, Barry Road, Edgar Quirin Avenue, Nilkant Mandir Avenue, Osman Avenue, une partie de Rabindranath Tagore",
+      "from": "2023-07-30T05:00:00.000Z",
+      "to": "2023-07-30T06:00:00.000Z",
+      "id": "0d561e6d42cd9112fa015590895483f0"
+    },
+    {
+      "date": "Le dimanche 25 juin 2023 de  08:30:00 à  16:00:00",
+      "streets": "Zone industrielle et Valentina Road Phoenix",
+      "from": "2023-06-25T04:30:00.000Z",
+      "to": "2023-06-25T12:00:00.000Z",
+      "id": "6a987647c7daa8122a6a637052b87b52"
+    },
+    {
+      "date": "Le samedi 17 juin 2023 de  08:30:00 à  16:00:00",
+      "streets": "MITD House, Ocean Factory Shop, Warwick Private Bank, Phoenix Car Gallery",
+      "from": "2023-06-17T04:30:00.000Z",
+      "to": "2023-06-17T12:00:00.000Z",
+      "id": "d67c97504ce6341b73940b57218410e6"
+    },
+    {
+      "date": "Le samedi 10 juin 2023 de  14:30:00 à  15:30:00",
+      "streets": "une partie de Palmerstone Road, Cite Palmerstone,  Hazareesingh Lane, Robinson Road No. 1, No. 2, Dowlut Lane No. 1 et No. 2, Sir Abdul Razack Mohamed Centre",
+      "from": "2023-06-10T10:30:00.000Z",
+      "to": "2023-06-10T11:30:00.000Z",
+      "id": "13407297500230249e09fb71e7e0af1f"
+    },
+    {
+      "date": "Le samedi 10 juin 2023 de  08:30:00 à  09:30:00",
+      "streets": "une partie de Palmerstone Road, Cite Palmerstone,  Hazareesingh Lane, Robinson Road No. 1, No. 2, Dowlut Lane No. 1 et No. 2, Sir Abdul Razack Mohamed Centre",
+      "from": "2023-06-10T04:30:00.000Z",
+      "to": "2023-06-10T05:30:00.000Z",
+      "id": "e23fb54e7c844e77c3f8a1d7146bf2ec"
+    },
+    {
+      "date": "Le lundi 5 juin 2023 de  08:15:00 à  16:00:00",
+      "streets": "Koeing lane No. 1, No. 2, No. 3, No. 4, No. 5, Morc Soobratty, Morc Chambor, une partie de Route Royal Phoenix, Sawmill Lane",
+      "from": "2023-06-05T04:15:00.000Z",
+      "to": "2023-06-05T12:00:00.000Z",
+      "id": "d8bdf7093f4e1d7c6645108245be5866"
+    },
+    {
+      "date": "Le dimanche 4 juin 2023 de  08:30:00 à  16:00:00",
+      "streets": "MITD House, Ocean Factory Shop, Warwick Private Bank, Phoenix Car Gallery",
+      "from": "2023-06-04T04:30:00.000Z",
+      "to": "2023-06-04T12:00:00.000Z",
+      "id": "d8a69abb19c8fe22b6990bfa2adfb9e6"
+    },
+    {
+      "date": "Le dimanche 4 juin 2023 de  08:15:00 à  16:00:00",
+      "streets": "Koeing lane No. 1, No. 2, No. 3, No. 4, No. 5, Morc Soobratty, Morc Chambor, une partie de Route Royal Phoenix, Sawmill Lane",
+      "from": "2023-06-04T04:15:00.000Z",
+      "to": "2023-06-04T12:00:00.000Z",
+      "id": "6a8eb62de7d604a8dcb9f04965fc551b"
+    },
+    {
+      "date": "Le samedi 20 mai 2023 de  08:30:00 à  15:00:00",
+      "streets": "une partie de Palmerstone Road, Cité Palmerstone",
+      "from": "2023-05-20T04:30:00.000Z",
+      "to": "2023-05-20T11:00:00.000Z",
+      "id": "6476b6735bf4799eee3eab6b9897f0d4"
+    },
+    {
+      "date": "Le dimanche 14 mai 2023 de  15:00:00 à  16:00:00",
+      "streets": "Sayed Hossen Avenue Phoenix, Salabee Lane, Ramputh lane,  une partie de Highlands Branch Road, Beekawoo Lane, Hassen Raffa Road, Bundhoo Lane  et les environs de College Aleemiah",
+      "from": "2023-05-14T11:00:00.000Z",
+      "to": "2023-05-14T12:00:00.000Z",
+      "id": "55c6d7b2596026a039de388180ffdfad"
+    },
+    {
+      "date": "Le dimanche 14 mai 2023 de  08:15:00 à  16:00:00",
+      "streets": "Noor Mosque Road, Iqbal Lane",
+      "from": "2023-05-14T04:15:00.000Z",
+      "to": "2023-05-14T12:00:00.000Z",
+      "id": "36ba674d91201320821b8710e4bcab60"
+    },
+    {
+      "date": "Le dimanche 7 mai 2023 de  18:45:00 à  23:00:00",
+      "streets": "CLAIRFOND PHOENIX",
+      "from": "2023-05-07T14:45:00.000Z",
+      "to": "2023-05-07T19:00:00.000Z",
+      "id": "851eb2bffdd4bee08dae08b62689bc96"
+    },
+    {
+      "date": "Le vendredi 28 avril 2023 de  16:45:00 à  18:45:00",
+      "streets": "ROYAL ROAD IN THE SURROUNDING POLICE STATION AND FILLING STATION",
+      "from": "2023-04-28T12:45:00.000Z",
+      "to": "2023-04-28T14:45:00.000Z",
+      "id": "d16891dcc309e646bcf975e3e3729e6f"
+    },
+    {
+      "date": "Le mercredi 26 avril 2023 de  09:00:00 à  17:00:00",
+      "streets": "Koeing lane N0. 1, N0. 2, N0. 3, N0. 4, et No. 5, Morc Soobratty, Morc Chambor, une partie de Route Royal Phoenix, Sawmill Lane",
+      "from": "2023-04-26T05:00:00.000Z",
+      "to": "2023-04-26T13:00:00.000Z",
+      "id": "c5b4e9b16c52a9ba2ce07d12f788c90e"
+    },
+    {
+      "date": "Le vendredi 21 avril 2023 de  10:15:00 à  11:45:00",
+      "streets": "MORC PLAINE DES HERMITAGES DANS LES ENVIRONS ECOLE ORCHARD KIDS",
+      "from": "2023-04-21T06:15:00.000Z",
+      "to": "2023-04-21T07:45:00.000Z",
+      "id": "e9ce4ec37e0b36e3601188a67ac31680"
+    },
+    {
+      "date": "Le mardi 4 avril 2023 de  10:00:00 à  15:00:00",
+      "streets": "une partie de Palmerstone Road, Hazareesingh Lane, une partie Hassan Raffa Street, Robinson Road No. 1 et No. 2, Dowlut Lane No. 1 et No. 2, Sir Abdul Razack Mohamed Centre",
+      "from": "2023-04-04T06:00:00.000Z",
+      "to": "2023-04-04T11:00:00.000Z",
+      "id": "0dac9528cc8c926f1a19613c378ec9ba"
+    },
+    {
+      "date": "Le mardi 28 mars 2023 de  09:00:00 à  15:00:00",
+      "streets": "KOENIG LANE 1,2,3,4,5, MORC SOOBRATTY, MORC CHAMBOR, PART ROYAL RD PHOENIX, SAWMILL LANE AND SURROUNDINGS",
+      "from": "2023-03-28T05:00:00.000Z",
+      "to": "2023-03-28T11:00:00.000Z",
+      "id": "308f1c23e31e6501083aafeef787a573"
+    },
+    {
+      "date": "Le mercredi 1 février 2023 de  15:00:00 à  16:00:00",
+      "streets": "Une partie de Highlands Branch Road, Beekawoo Lane, Hassen Raffa Road, Bundhoo Lane, et les environs de College Aleemiah",
+      "from": "2023-02-01T11:00:00.000Z",
+      "to": "2023-02-01T12:00:00.000Z",
+      "id": "659a9ad9131633f529971c0001530e7c"
+    },
+    {
+      "date": "Le mercredi 1 février 2023 de  08:30:00 à  16:00:00",
+      "streets": "Noor Mosque Road, Iqbal Lane et les environs",
+      "from": "2023-02-01T04:30:00.000Z",
+      "to": "2023-02-01T12:00:00.000Z",
+      "id": "1a6a20e54de48cd424d466c106bd453d"
+    },
+    {
+      "date": "Le jeudi 22 décembre 2022 de  15:30:00 à  17:30:00",
+      "streets": "Phoenix Heights Residence, Hillcrest Park Apartments, Morcellement Parkland, Pets Concern, Cavendish Institute, J & J Auditorium, Auto City Car Showroom, CWA  Borehole, Socota",
+      "from": "2022-12-22T11:30:00.000Z",
+      "to": "2022-12-22T13:30:00.000Z",
+      "id": "7405d3dde7b94995fafeaabac02bada4"
+    },
+    {
+      "date": "Le dimanche 11 décembre 2022 de  08:15:00 à  16:00:00",
+      "streets": "Phoenix – Beau Songes Link Road, les environs de L’hôpital de Med Point, Solferino N0. 5,  Augum Lane, Lall Surry Lahadoor Avenue, Morcellement Goburdhun",
+      "from": "2022-12-11T04:15:00.000Z",
+      "to": "2022-12-11T12:00:00.000Z",
+      "id": "0874683f3982a2cfdc9114d160521eb6"
+    },
+    {
+      "date": "Le dimanche 30 octobre 2022 de  08:30:00 à  16:00:00",
+      "streets": "Morcellement Le Noir, Résidence Jet Seven Trianon, Morcellement Résidence Trianon, Morcellement River Edge",
+      "from": "2022-10-30T04:30:00.000Z",
+      "to": "2022-10-30T12:00:00.000Z",
+      "id": "e05abc9bfb973f1c52549fa5e8b64e22"
+    },
+    {
+      "date": "Le dimanche 16 octobre 2022 de  08:15:00 à  16:00:00",
+      "streets": "PHOENIX MALL, IMPERIAL GARDEN, RAMAN OSMAN STATE SECONDARY SCHOOL, PHOENIX STATE SECONDARY SCHOOL, EMIRATES AIRLINES SWIMMING POOL, MUGA PHOENIX, NEW HINDI SECRETARIAT, INDIRA GANDHI CENTRE FOT INDIAN CULTURE, GYMNASE PHOENIX AND JUMBO PASSENGER TERMINAL",
+      "from": "2022-10-16T04:15:00.000Z",
+      "to": "2022-10-16T12:00:00.000Z",
+      "id": "8f187eb99544486da4c0e73d23d5cd72"
+    },
+    {
+      "date": "Le mercredi 28 septembre 2022 de  09:00:00 à  12:30:00",
+      "streets": "RIVERSIDE PHOENIX",
+      "from": "2022-09-28T05:00:00.000Z",
+      "to": "2022-09-28T08:30:00.000Z",
+      "id": "2b052b8c542e139bb60c8cbdb959bf34"
+    },
+    {
+      "date": "Le dimanche 4 septembre 2022 de  08:30:00 à  16:00:00",
+      "streets": "Palmerstone Road, Cité Palmerstone, une partie de Hazareesingh Lane, Hassan Raffa Street, Sayed Hossen Avenue Phoenix, Salabee lane, Ramputh Lane,  une partie de Pandit Jawaharlal Nehru Avenue, Beekawoo Lane, Bundhoo Lane, Sir Abdul Razack Mohamed Centre",
+      "from": "2022-09-04T04:30:00.000Z",
+      "to": "2022-09-04T12:00:00.000Z",
+      "id": "673f3f55ed0d2c0d6e5fd790d2926a1d"
+    },
+    {
+      "date": "Le dimanche 24 juillet 2022 de  08:30:00 à  16:00:00",
+      "streets": "Srila Prabhupada Street, Iskcon, Larsen & Toubro Limited, Saint Nicholas Grammar School, Rushmore Business School, CFAO Motors et les environs",
+      "from": "2022-07-24T04:30:00.000Z",
+      "to": "2022-07-24T12:00:00.000Z",
+      "id": "ee0d14b6a8a45449e69d1cba09be6749"
+    },
+    {
+      "date": "Le dimanche 12 juin 2022 de  08:30:00 à  16:00:00",
+      "streets": "Morcellement Hardy, Morcellement Residence Trianon, Morcellement River Egde et les environs",
+      "from": "2022-06-12T04:30:00.000Z",
+      "to": "2022-06-12T12:00:00.000Z",
+      "id": "139b9194dd0134aed1bb78f1c9411b59"
+    },
+    {
+      "date": "Le samedi 11 juin 2022 de  08:30:00 à  12:00:00",
+      "streets": "Valentina Road",
+      "from": "2022-06-11T04:30:00.000Z",
+      "to": "2022-06-11T08:00:00.000Z",
+      "id": "deadd29d9eb3418d819daaf64080b48e"
+    },
+    {
+      "date": "Le mercredi 1 juin 2022 de  09:00:00 à  17:00:00",
+      "streets": "une partie de Swami Sivananda Avenue et Independance Street",
+      "from": "2022-06-01T05:00:00.000Z",
+      "to": "2022-06-01T13:00:00.000Z",
+      "id": "0a0808de0641c2002084ad1e1d4e3c5a"
+    },
+    {
+      "date": "Le dimanche 15 mai 2022 de  08:30:00 à  16:00:00",
+      "streets": "Industriel Zone, Valentina et",
+      "from": "2022-05-15T04:30:00.000Z",
+      "to": "2022-05-15T12:00:00.000Z",
+      "id": "641f5d1977d38defb1a7e8493f642024"
+    },
+    {
+      "date": "Le jeudi 5 mai 2022 de  10:30:00 à  13:00:00",
+      "streets": "ROYAL ROAD PHOENIX",
+      "from": "2022-05-05T06:30:00.000Z",
+      "to": "2022-05-05T09:00:00.000Z",
+      "id": "1ded105211d323ed7347d6146f25b1f7"
+    },
+    {
+      "date": "Le dimanche 24 avril 2022 de  08:30:00 à  16:00:00",
+      "streets": "Morcellement Hardy. Morcellement Residence Trianon, Morcellement River Edge",
+      "from": "2022-04-24T04:30:00.000Z",
+      "to": "2022-04-24T12:00:00.000Z",
+      "id": "a32f5823b5ef58e6a259e27a839eb51c"
+    },
+    {
+      "date": "Le jeudi 14 avril 2022 de  10:15:00 à  11:30:00",
+      "streets": "Nalletamby Ave",
+      "from": "2022-04-14T06:15:00.000Z",
+      "to": "2022-04-14T07:30:00.000Z",
+      "id": "06bdd6c6c82b25d57cccf196e11f0437"
+    },
+    {
+      "date": "Le dimanche 3 avril 2022 de  08:30:00 à  16:00:00",
+      "streets": "Morcellement Hardy, Morcellement Residence Trianon, Morcellement River Edge",
+      "from": "2022-04-03T04:30:00.000Z",
+      "to": "2022-04-03T12:00:00.000Z",
+      "id": "a43620a63c8f541ab630e8968d9f9bff"
+    },
+    {
+      "date": "Le dimanche 20 mars 2022 de  08:15:00 à  16:00:00",
+      "streets": "PHOENIX,CARREAU LALIANNE AND BONNE TERRE:une partie de Avenue Remy Ollier, une partie de Willoughby Road, Indira Gandhi Road, Closel Road, Closel Road No. 1, Cosmos Lane, une partie de Seetohul Lane, Mahant Kabir Lane No. 2 et No. 3, Tegally Lane, Oogarah Lane, Impasse Laurier, Dayal Lane, Ramphul Lane, Seegum Lane, Impasse Palisandre, Unjore Lane,  une partie de Solferino No. 1, No. 2, No. 3 et No. 4, une partie de Mon Désir Vacoas, Morcellement Fleuriot, Gopee Lane, Kistoo Lane, Nalleytamby Avenue, Hazareesingh Lane, Morcellement Boucan, Palmerstone Road, Cite Palmerstone, une partie de Royal Road Phoenix, Sayyed Hossen Avenue Phoenix, une partie de Hassen Raffa Road, Robinson Lane No. 1 et No. 2,  les environs de Sir Abdul Razack Mohamed Hall, Dowlut Lane No. 1 et No. 2",
+      "from": "2022-03-20T04:15:00.000Z",
+      "to": "2022-03-20T12:00:00.000Z",
+      "id": "be305036e562cf567c5fcb6b7355aefc"
+    }
+  ]
+}

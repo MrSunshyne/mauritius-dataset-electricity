@@ -1,0 +1,53 @@
+{
+  "slug": "camp-du-roi",
+  "name": "CAMP DU ROI(RODRIGUES)",
+  "district": "rodrigues",
+  "generated": "2025-12-29T20:14:25.932Z",
+  "outageCount": 6,
+  "firstOutage": "2025-02-15",
+  "lastOutage": "2025-12-27",
+  "outages": [
+    {
+      "date": "Le samedi 27 décembre 2025 de  08:30:00 à  15:00:00",
+      "streets": "Environ   du supermarche Super cash",
+      "from": "2025-12-27T04:30:00.000Z",
+      "to": "2025-12-27T11:00:00.000Z",
+      "id": "792992a3b814e0888def43b631961006"
+    },
+    {
+      "date": "Le samedi 13 décembre 2025 de  08:30:00 à  11:00:00",
+      "streets": "Pointe Monier, LUnion,Jardin Mamzel and Le Chou",
+      "from": "2025-12-13T04:30:00.000Z",
+      "to": "2025-12-13T07:00:00.000Z",
+      "id": "94a140d94de93dc1b89bd1901a14b7d7"
+    },
+    {
+      "date": "Le vendredi 21 février 2025 de  14:30:00 à  15:30:00",
+      "streets": "Pointe Monier et Jardin Mamzel",
+      "from": "2025-02-21T10:30:00.000Z",
+      "to": "2025-02-21T11:30:00.000Z",
+      "id": "54d883142695360986c9d33d3185fa3b"
+    },
+    {
+      "date": "Le vendredi 21 février 2025 de  07:30:00 à  08:30:00",
+      "streets": "Pointe Monier et Jardin Mamzel",
+      "from": "2025-02-21T03:30:00.000Z",
+      "to": "2025-02-21T04:30:00.000Z",
+      "id": "6af11bd93f022e39001249e4019e69cc"
+    },
+    {
+      "date": "Le samedi 15 février 2025 de  14:30:00 à  15:30:00",
+      "streets": "Pointe Monier, Lunion et Jardin Mamzel",
+      "from": "2025-02-15T10:30:00.000Z",
+      "to": "2025-02-15T11:30:00.000Z",
+      "id": "3adb7c1732f7376ca5bbcec4f17d9876"
+    },
+    {
+      "date": "Le samedi 15 février 2025 de  07:30:00 à  08:30:00",
+      "streets": "Pointe Monier, Lunion et Jardin Mamzel",
+      "from": "2025-02-15T03:30:00.000Z",
+      "to": "2025-02-15T04:30:00.000Z",
+      "id": "4a930cf9ba02374479f83701e743a891"
+    }
+  ]
+}
