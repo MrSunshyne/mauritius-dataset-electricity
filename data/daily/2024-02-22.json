@@ -1,0 +1,48 @@
+{
+  "date": "2024-02-22",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.401Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le jeudi 22 février 2024 de  13:00:00 à  18:00:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "Ex Market Road, St Ursule Road, Choonee Building, One stop shop, Koolwant Building, Arcade Bakar, Dentiste Beesambur, SSS Rajkumar Gajadhur.",
+      "district": "flacq",
+      "from": "2024-02-22T09:00:00.000Z",
+      "to": "2024-02-22T14:00:00.000Z",
+      "id": "72564121d3836998511e5dd606a55757"
+    },
+    {
+      "date": "Le jeudi 22 février 2024 de  08:30:00 à  15:00:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "Rose Belle - Dispensary Road & une partie de la Route Royale Rose Belle",
+      "district": "grandport",
+      "from": "2024-02-22T04:30:00.000Z",
+      "to": "2024-02-22T11:00:00.000Z",
+      "id": "aeba93d7703d13e84eb6c5ce33f3c1ac"
+    },
+    {
+      "date": "Le jeudi 22 février 2024 de  08:00:00 à  10:00:00",
+      "locality": "CREVE COEUR",
+      "localitySlug": "creve-coeur",
+      "streets": "CREVE COEUR,MONTAGNE LONGUE,NOTRE DAME.",
+      "district": "pamplemousses",
+      "from": "2024-02-22T04:00:00.000Z",
+      "to": "2024-02-22T06:00:00.000Z",
+      "id": "e13e0f806cfb987fdb26fabf0c3fd607"
+    },
+    {
+      "date": "Le jeudi 22 février 2024 de  12:00:00 à  15:30:00",
+      "locality": "QUATRE VENTS(RODRIGUES)",
+      "localitySlug": "quatre-vents",
+      "streets": "Dans Samy, Quatre Vents, Papayes, Montagne Du Sable, Grand La Fouche Mangues et Manick",
+      "district": "rodrigues",
+      "from": "2024-02-22T08:00:00.000Z",
+      "to": "2024-02-22T11:30:00.000Z",
+      "id": "82c4357e12975df78f0ef4940f593a7e"
+    }
+  ]
+}

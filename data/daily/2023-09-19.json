@@ -1,0 +1,48 @@
+{
+  "date": "2023-09-19",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.389Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mardi 19 septembre 2023 de  15:15:00 à  19:00:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "MONT GOUT REGION, CALEBASSES REGION, MOUNT REGION, BEAU PLAN REGION, PAMPLEMOUSSES REGION. (FEEDER TRIPPED)",
+      "district": "pamplemousses",
+      "from": "2023-09-19T11:15:00.000Z",
+      "to": "2023-09-19T15:00:00.000Z",
+      "id": "9b9538ac1ce40b9614caff9f09c2182d"
+    },
+    {
+      "date": "Le mardi 19 septembre 2023 de  15:00:00 à  15:45:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "P DES PAPAYES,BOIS MANGUES,TRIOLET 8EME MILE,9EME MILE,P AUX PIMENTS",
+      "district": "pamplemousses",
+      "from": "2023-09-19T11:00:00.000Z",
+      "to": "2023-09-19T11:45:00.000Z",
+      "id": "a6327ca1efdacb154f3b990ff37a13b1"
+    },
+    {
+      "date": "Le mardi 19 septembre 2023 de  09:30:00 à  17:00:00",
+      "locality": "CANDOS Q BORNES",
+      "localitySlug": "candos-q-bornes",
+      "streets": "BEHIND CANDOS STADIUM NEAR CAB, HILARY BLOOD ST ,CANDOS CITY",
+      "district": "plainewilhems",
+      "from": "2023-09-19T05:30:00.000Z",
+      "to": "2023-09-19T13:00:00.000Z",
+      "id": "4556cf618e20dcf8a878e0dbcbf6a343"
+    },
+    {
+      "date": "Le mardi 19 septembre 2023 de  14:50:00 à  18:30:00",
+      "locality": "MORC RAFFRAY GUIBIES",
+      "localitySlug": "morc-raffray-guibies",
+      "streets": "NEAR DOMAINE LES PAILLES AND LIVESTOCK",
+      "district": "portlouis",
+      "from": "2023-09-19T10:50:00.000Z",
+      "to": "2023-09-19T14:30:00.000Z",
+      "id": "da69597f914af8a4e9e17b28e6b9eb32"
+    }
+  ]
+}

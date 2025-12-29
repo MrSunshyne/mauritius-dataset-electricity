@@ -1,0 +1,48 @@
+{
+  "date": "2024-05-04",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.406Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le samedi 4 mai 2024 de  09:00:00 à  14:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Plaspak Poussepasse Ave et NHDC Palma",
+      "district": "plainewilhems",
+      "from": "2024-05-04T05:00:00.000Z",
+      "to": "2024-05-04T10:00:00.000Z",
+      "id": "706fe0e318fe68315c4792a24f40dab8"
+    },
+    {
+      "date": "Le samedi 4 mai 2024 de  09:00:00 à  13:00:00",
+      "locality": "BELLE ROSE  ( Q BORNES )",
+      "localitySlug": "belle-rose",
+      "streets": "AVE GILLINGHAM BELLE ROSE ,AVENUE ST JEAN",
+      "district": "plainewilhems",
+      "from": "2024-05-04T05:00:00.000Z",
+      "to": "2024-05-04T09:00:00.000Z",
+      "id": "20deaeee53c5d1cf6d4ba9aa3cc64d1a"
+    },
+    {
+      "date": "Le samedi 4 mai 2024 de  09:00:00 à  14:00:00",
+      "locality": "TOUR KOENIG",
+      "localitySlug": "tour-koenig",
+      "streets": "NHDC LA TOUR KOENIG AND NEARBY REGION",
+      "district": "portlouis",
+      "from": "2024-05-04T05:00:00.000Z",
+      "to": "2024-05-04T10:00:00.000Z",
+      "id": "30e01eeec73fe5b6880f707a86af8e8d"
+    },
+    {
+      "date": "Le samedi 4 mai 2024 de  08:30:00 à  15:00:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "Le village de Gris Gris souillac",
+      "district": "savanne",
+      "from": "2024-05-04T04:30:00.000Z",
+      "to": "2024-05-04T11:00:00.000Z",
+      "id": "8645845779c9acc56ff922f08ef50d9d"
+    }
+  ]
+}

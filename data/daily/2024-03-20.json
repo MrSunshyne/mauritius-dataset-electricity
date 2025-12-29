@@ -1,0 +1,128 @@
+{
+  "date": "2024-03-20",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.403Z",
+  "outageCount": 12,
+  "outages": [
+    {
+      "date": "Le mercredi 20 mars 2024 de  17:00:00 à  18:00:00",
+      "locality": "GROS CAILLOUX",
+      "localitySlug": "gros-cailloux",
+      "streets": "GROS CAILLOUX VILLAGE, JAGGESAR RD, ROUSAILLE, CHEBEL BR ROAD",
+      "district": "blackriver",
+      "from": "2024-03-20T13:00:00.000Z",
+      "to": "2024-03-20T14:00:00.000Z",
+      "id": "35c81f9abc26ad7ff41d076155b6bb6d"
+    },
+    {
+      "date": "Le mercredi 20 mars 2024 de  21:30:00 à  23:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC DE CHAZAL,RUE MANGUIER,AVENUE DES MEROUS,RESIDENCE SARAZA.AVENUE DES CARRIERE FLIC EN FLAC",
+      "district": "blackriver",
+      "from": "2024-03-20T17:30:00.000Z",
+      "to": "2024-03-20T19:30:00.000Z",
+      "id": "b50acf06e0cd2eccc7a7b1bf7c937788"
+    },
+    {
+      "date": "Le mercredi 20 mars 2024 de  08:30:00 à  12:00:00",
+      "locality": "BRISEE VERDIERE",
+      "localitySlug": "brisee-verdiere",
+      "streets": "Village de Brisée Verdiere",
+      "district": "flacq",
+      "from": "2024-03-20T04:30:00.000Z",
+      "to": "2024-03-20T08:00:00.000Z",
+      "id": "cbdefe02783d978f02464f1baf727bf8"
+    },
+    {
+      "date": "Le mercredi 20 mars 2024 de  08:30:00 à  16:00:00",
+      "locality": "CITE CHEBEL",
+      "localitySlug": "cite-chebel",
+      "streets": "Res. Trochetia, La Reprise, Camp Bertelot, CWA Le Bosuqet, Morc La Confiance et Metro workshop",
+      "district": "plainewilhems",
+      "from": "2024-03-20T04:30:00.000Z",
+      "to": "2024-03-20T12:00:00.000Z",
+      "id": "80b8d0ea8d137df2ded30d2df668b684"
+    },
+    {
+      "date": "Le mercredi 20 mars 2024 de  09:30:00 à  12:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "MARTIN LUTHER KING, LA RUE LA REINE PLAISANCE ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2024-03-20T05:30:00.000Z",
+      "to": "2024-03-20T08:00:00.000Z",
+      "id": "43e34ea750086d56842fa7e3d63a324e"
+    },
+    {
+      "date": "Le mercredi 20 mars 2024 de  14:25:00 à  15:55:00",
+      "locality": "TREFLES",
+      "localitySlug": "trefles",
+      "streets": "CHEMIN DR MANILALL, RUE EDWART HART, DR FERRIERE ST ET LES RUELLES AVOISINANTES.",
+      "district": "plainewilhems",
+      "from": "2024-03-20T10:25:00.000Z",
+      "to": "2024-03-20T11:55:00.000Z",
+      "id": "daa920b7d2329a52f8070831415de4c6"
+    },
+    {
+      "date": "Le mercredi 20 mars 2024 de  10:30:00 à  13:00:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "MORC RAFFRAY PAILLES, AVE PERDRIX 2",
+      "district": "portlouis",
+      "from": "2024-03-20T06:30:00.000Z",
+      "to": "2024-03-20T09:00:00.000Z",
+      "id": "fcd58b84f983c779f25493cac9d55c2b"
+    },
+    {
+      "date": "Le mercredi 20 mars 2024 de  15:20:00 à  16:50:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "SWADESH LANE, RUE BERNARDIN DE ST PIERRE ET UNE PARTIE DE LA ROUTE ROYALE.",
+      "district": "portlouis",
+      "from": "2024-03-20T11:20:00.000Z",
+      "to": "2024-03-20T12:50:00.000Z",
+      "id": "49a1fbf653caa26ac82780fa8f6b94c8"
+    },
+    {
+      "date": "Le mercredi 20 mars 2024 de  16:00:00 à  18:00:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "RAILWAY RD, POULTRY, CWA",
+      "district": "rivieredurempart",
+      "from": "2024-03-20T12:00:00.000Z",
+      "to": "2024-03-20T14:00:00.000Z",
+      "id": "5e689ac114ead850ad7d14c0223212cb"
+    },
+    {
+      "date": "Le mercredi 20 mars 2024 de  16:30:00 à  17:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "MADAME AZOR",
+      "district": "rivieredurempart",
+      "from": "2024-03-20T12:30:00.000Z",
+      "to": "2024-03-20T13:00:00.000Z",
+      "id": "686abe47709d03991b9b166f9d4926d7"
+    },
+    {
+      "date": "Le mercredi 20 mars 2024 de  09:30:00 à  10:20:00",
+      "locality": "GRAND BASSIN",
+      "localitySlug": "grand-bassin",
+      "streets": "VARANGUE SUR MORNE, DOMAIN ST DENIS, PART OF GRAND BASSIN",
+      "district": "savanne",
+      "from": "2024-03-20T05:30:00.000Z",
+      "to": "2024-03-20T06:20:00.000Z",
+      "id": "c206c5483b5c437256f2e01aa941f742"
+    },
+    {
+      "date": "Le mercredi 20 mars 2024 de  09:00:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LES ABONNES HABITANT : ACCACIA, BAIE AUX HUITRES, ALLEE TAMARIN, PTE LA GUEULE, BAIE DIAMANT, BAIE MALGACHE, ANSE GOELANDS ET BAIE DU NORD.",
+      "district": "rodrigues",
+      "from": "2024-03-20T05:00:00.000Z",
+      "to": "2024-03-20T11:00:00.000Z",
+      "id": "70049d304dd3e4f6eabdb277debafdd2"
+    }
+  ]
+}

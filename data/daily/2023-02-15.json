@@ -1,0 +1,68 @@
+{
+  "date": "2023-02-15",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.373Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le mercredi 15 février 2023 de  00:00:00 à  00:00:00",
+      "locality": "DEUX FRERES",
+      "localitySlug": "deux-freres",
+      "streets": "Deux Frères, Quatre Sœurs, Pointe Aux Feuilles et Grand Sable",
+      "district": "flacq",
+      "from": "2023-02-14T20:00:00.000Z",
+      "to": "2023-02-13T20:00:00.000Z",
+      "id": "845d6343a7acab0036a408f61a0f73fb"
+    },
+    {
+      "date": "Le mercredi 15 février 2023 de  09:00:00 à  17:00:00",
+      "locality": "PETIT SABLE",
+      "localitySlug": "petit-sable",
+      "streets": "Petit Sable et Grand Sable habitant dans le périmètre et les rues suivantes: une partie de Petit Sable et Grand Sable (vers Pointe Aux Feuilles)",
+      "district": "grandport",
+      "from": "2023-02-15T05:00:00.000Z",
+      "to": "2023-02-15T13:00:00.000Z",
+      "id": "cefbc3d51b8f6410956383f0bd35f646"
+    },
+    {
+      "date": "Le mercredi 15 février 2023 de  09:00:00 à  11:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "Residence Mangalkhan",
+      "district": "plainewilhems",
+      "from": "2023-02-15T05:00:00.000Z",
+      "to": "2023-02-15T07:00:00.000Z",
+      "id": "060907f3c7c3c17453c203e7be5caf3c"
+    },
+    {
+      "date": "Le mercredi 15 février 2023 de  09:00:00 à  12:00:00",
+      "locality": "SAINT FRANCOIS",
+      "localitySlug": "saint-francois",
+      "streets": "Saint Francois",
+      "district": "portlouis",
+      "from": "2023-02-15T05:00:00.000Z",
+      "to": "2023-02-15T08:00:00.000Z",
+      "id": "7be1e060165b870fc5b04d4e60bc487d"
+    },
+    {
+      "date": "Le mercredi 15 février 2023 de  14:00:00 à  15:00:00",
+      "locality": "SAINT JOSEPH",
+      "localitySlug": "saint-joseph",
+      "streets": "FROM PORT CHAMBLY IN DIRECTION T BAY",
+      "district": "portlouis",
+      "from": "2023-02-15T10:00:00.000Z",
+      "to": "2023-02-15T11:00:00.000Z",
+      "id": "dbe039f95f954ed61d3377eec9da8e1c"
+    },
+    {
+      "date": "Le mercredi 15 février 2023 de  10:00:00 à  14:00:00",
+      "locality": "ROCHES NOIRES",
+      "localitySlug": "roches-noires",
+      "streets": "LES ABONNES DE ROCHES NOIRES",
+      "district": "rivieredurempart",
+      "from": "2023-02-15T06:00:00.000Z",
+      "to": "2023-02-15T10:00:00.000Z",
+      "id": "03b8fedeb21427c2a5081e798710e76b"
+    }
+  ]
+}

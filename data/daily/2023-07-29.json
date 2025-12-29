@@ -1,0 +1,68 @@
+{
+  "date": "2023-07-29",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.385Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le samedi 29 juillet 2023 de  09:00:00 à  12:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "DANS LES ENVIRONS DE LA RUE MACADAM",
+      "district": "pamplemousses",
+      "from": "2023-07-29T05:00:00.000Z",
+      "to": "2023-07-29T08:00:00.000Z",
+      "id": "3a6f05d49da587bc4e2c372fcd2e340e"
+    },
+    {
+      "date": "Le samedi 29 juillet 2023 de  12:00:00 à  15:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "LES ABONNES DE MORC CHAGOSSIEN HABITANT DANS LES ENVIRONS DE AVENUE TROIS FRERES",
+      "district": "pamplemousses",
+      "from": "2023-07-29T08:00:00.000Z",
+      "to": "2023-07-29T11:00:00.000Z",
+      "id": "01402bafd41574c01fb69526fa247b0b"
+    },
+    {
+      "date": "Le samedi 29 juillet 2023 de  08:00:00 à  15:00:00",
+      "locality": "CANTON NANCY",
+      "localitySlug": "canton-nancy",
+      "streets": "LES ABONNES DE BRETON ROAD ET CANTON NANCY",
+      "district": "pamplemousses",
+      "from": "2023-07-29T04:00:00.000Z",
+      "to": "2023-07-29T11:00:00.000Z",
+      "id": "009f557cac0584dd072f07b00c2a3586"
+    },
+    {
+      "date": "Le samedi 29 juillet 2023 de  13:00:00 à  16:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "CITE ILOIS T-BAY",
+      "district": "pamplemousses",
+      "from": "2023-07-29T09:00:00.000Z",
+      "to": "2023-07-29T12:00:00.000Z",
+      "id": "a67f35fd7e2c50c6503c99a67aee3b0d"
+    },
+    {
+      "date": "Le samedi 29 juillet 2023 de  09:00:00 à  13:00:00",
+      "locality": "TYACK",
+      "localitySlug": "tyack",
+      "streets": "NHDC TYACK",
+      "district": "savanne",
+      "from": "2023-07-29T05:00:00.000Z",
+      "to": "2023-07-29T09:00:00.000Z",
+      "id": "49aba31c48ab10eef4efde23860b6aa2"
+    },
+    {
+      "date": "Le samedi 29 juillet 2023 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Orange, Vainqueur et Dans Bebe",
+      "district": "rodrigues",
+      "from": "2023-07-29T04:30:00.000Z",
+      "to": "2023-07-29T11:00:00.000Z",
+      "id": "11bd71c990f81f2229894c83ebe3d39c"
+    }
+  ]
+}

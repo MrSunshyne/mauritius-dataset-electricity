@@ -1,0 +1,88 @@
+{
+  "date": "2025-03-13",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.431Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le jeudi 13 mars 2025 de  08:30:00 à  15:30:00",
+      "locality": "GROS CAILLOUX",
+      "localitySlug": "gros-cailloux",
+      "streets": "GROS CAILLOUX, AVE ALLE MANGUE, AVE ROUSSAILLE, AVE JAGESSUR, QUALITY DECOR GROS CAILLOUX   ET LES ENVIRONS",
+      "district": "blackriver",
+      "from": "2025-03-13T04:30:00.000Z",
+      "to": "2025-03-13T11:30:00.000Z",
+      "id": "8e8a1ad57b9a8d2c1b7cdb14ef902a09"
+    },
+    {
+      "date": "Le jeudi 13 mars 2025 de  10:00:00 à  14:00:00",
+      "locality": "QUATRE COCOS",
+      "localitySlug": "quatre-cocos",
+      "streets": "QUATRE COCO",
+      "district": "flacq",
+      "from": "2025-03-13T06:00:00.000Z",
+      "to": "2025-03-13T10:00:00.000Z",
+      "id": "9186c850cf05ed1da31b9f1b1aee1649"
+    },
+    {
+      "date": "Le jeudi 13 mars 2025 de  09:45:00 à  11:15:00",
+      "locality": "BONNE MERE",
+      "localitySlug": "bonne-mere",
+      "streets": "BONNE MERE",
+      "district": "flacq",
+      "from": "2025-03-13T05:45:00.000Z",
+      "to": "2025-03-13T07:15:00.000Z",
+      "id": "1e98e612a11ef8e896212f5179e2de1b"
+    },
+    {
+      "date": "Le jeudi 13 mars 2025 de  09:00:00 à  11:00:00",
+      "locality": "QUARTIER MILITAIRE",
+      "localitySlug": "quartier-militaire",
+      "streets": "DANS LES ALENTOURS DE STATION DE POLICE ET SBM",
+      "district": "moka",
+      "from": "2025-03-13T05:00:00.000Z",
+      "to": "2025-03-13T07:00:00.000Z",
+      "id": "56da3fb726d3fb94dba957c7f1f2c804"
+    },
+    {
+      "date": "Le jeudi 13 mars 2025 de  01:00:00 à  13:30:00",
+      "locality": "LA LAURA SAINT PIERRE",
+      "localitySlug": "la-laura-saint-pierre",
+      "streets": "La Laura dans les alentours de quality decor",
+      "district": "moka",
+      "from": "2025-03-12T21:00:00.000Z",
+      "to": "2025-03-12T09:30:00.000Z",
+      "id": "fe6183d4a071a25bed150f6c6b91dd54"
+    },
+    {
+      "date": "Le jeudi 13 mars 2025 de  14:00:00 à  17:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Rue Remi-Ollier, Morcellement Fleuriot, Gopee Lane",
+      "district": "plainewilhems",
+      "from": "2025-03-13T10:00:00.000Z",
+      "to": "2025-03-13T13:00:00.000Z",
+      "id": "cac3caafa432800cecd7378ee34c8397"
+    },
+    {
+      "date": "Le jeudi 13 mars 2025 de  09:25:00 à  14:00:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "LE RAVIN, ET NANKA RD",
+      "district": "rivieredurempart",
+      "from": "2025-03-13T05:25:00.000Z",
+      "to": "2025-03-13T10:00:00.000Z",
+      "id": "9b6023c91eb216a324160c5bb221899e"
+    },
+    {
+      "date": "Le jeudi 13 mars 2025 de  09:00:00 à  12:00:00",
+      "locality": "QUATRE VENTS(RODRIGUES)",
+      "localitySlug": "quatre-vents",
+      "streets": "Dans Samy et Montagne Tonnerre",
+      "district": "rodrigues",
+      "from": "2025-03-13T05:00:00.000Z",
+      "to": "2025-03-13T08:00:00.000Z",
+      "id": "f12e54f10aeede12add5a68175923b05"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2022-05-20",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.355Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le vendredi 20 mai 2022 de  14:00:00 à  15:00:00",
+      "locality": "QUATRE COCOS",
+      "localitySlug": "quatre-cocos",
+      "streets": "Village Quatre Cocos et Palmar",
+      "district": "flacq",
+      "from": "2022-05-20T10:00:00.000Z",
+      "to": "2022-05-20T11:00:00.000Z",
+      "id": "fd806e735b8de724509661160ae5520a"
+    },
+    {
+      "date": "Le vendredi 20 mai 2022 de  07:30:00 à  13:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Partie de Les Casernes, Impasse Parathian, partie de Route Jardins, General Hall, Auguste Esnouf, Edgar Laurent, Cité Joachim, Morcellement Ramdenee et les ruelles avoisinantes sont avisés que la fourniture d’énergie électrique a été interrompue ce vendredi 20 mai 2022 et sera rétablie vers 13 :00 heures en raison des travaux urgents de réparations qui sont en cours sur le réseau électrique.",
+      "district": "plainewilhems",
+      "from": "2022-05-20T03:30:00.000Z",
+      "to": "2022-05-20T09:00:00.000Z",
+      "id": "182728d88f6471202a590260db8e26cc"
+    },
+    {
+      "date": "Le vendredi 20 mai 2022 de  11:50:00 à  12:50:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "STANLEY,OLLIER STREETS",
+      "district": "plainewilhems",
+      "from": "2022-05-20T07:50:00.000Z",
+      "to": "2022-05-20T08:50:00.000Z",
+      "id": "7bb90aa93f3cb2ecbbe7415fe95134db"
+    },
+    {
+      "date": "Le vendredi 20 mai 2022 de  08:30:00 à  15:00:00",
+      "locality": "MME AZOR",
+      "localitySlug": "mme-azor",
+      "streets": "le village de Mme Azor en integralité",
+      "district": "rivieredurempart",
+      "from": "2022-05-20T04:30:00.000Z",
+      "to": "2022-05-20T11:00:00.000Z",
+      "id": "1d97742c74d9f22be7d16417780423b1"
+    }
+  ]
+}

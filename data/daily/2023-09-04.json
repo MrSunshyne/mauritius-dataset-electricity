@@ -1,0 +1,38 @@
+{
+  "date": "2023-09-04",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.388Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le lundi 4 septembre 2023 de  10:00:00 à  12:00:00",
+      "locality": "SOLITUDE",
+      "localitySlug": "solitude",
+      "streets": "MORC NEEWOOR SOLITUDE",
+      "district": "pamplemousses",
+      "from": "2023-09-04T06:00:00.000Z",
+      "to": "2023-09-04T08:00:00.000Z",
+      "id": "7ca4bf7440d2cf994678362d85956790"
+    },
+    {
+      "date": "Le lundi 4 septembre 2023 de  20:00:00 à  22:30:00",
+      "locality": "CALEBASSES",
+      "localitySlug": "calebasses",
+      "streets": "SCHOOL RD CALEBASSE",
+      "district": "pamplemousses",
+      "from": "2023-09-04T16:00:00.000Z",
+      "to": "2023-09-04T18:30:00.000Z",
+      "id": "07704f576cfe4f27589d157b2a876366"
+    },
+    {
+      "date": "Le lundi 4 septembre 2023 de  09:00:00 à  16:00:00",
+      "locality": "TYACK",
+      "localitySlug": "tyack",
+      "streets": "Morcellement Omnicane No.1 et 2",
+      "district": "savanne",
+      "from": "2023-09-04T05:00:00.000Z",
+      "to": "2023-09-04T12:00:00.000Z",
+      "id": "f76d9a6a2144bde48416b98cb98da788"
+    }
+  ]
+}

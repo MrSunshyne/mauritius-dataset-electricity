@@ -1,0 +1,48 @@
+{
+  "date": "2023-05-24",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.381Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mercredi 24 mai 2023 de  10:00:00 à  13:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "MONTE S PETITE RIVIERE",
+      "district": "blackriver",
+      "from": "2023-05-24T06:00:00.000Z",
+      "to": "2023-05-24T09:00:00.000Z",
+      "id": "7d730e3f383e86ba5c12202f34c8c14b"
+    },
+    {
+      "date": "Le mercredi 24 mai 2023 de  09:00:00 à  14:00:00",
+      "locality": "MON CHOISY",
+      "localitySlug": "mon-choisy",
+      "streets": "dans les environs de Casuarina Hotel",
+      "district": "pamplemousses",
+      "from": "2023-05-24T05:00:00.000Z",
+      "to": "2023-05-24T10:00:00.000Z",
+      "id": "080dac6085accbe229eefc84f8ca8ea8"
+    },
+    {
+      "date": "Le mercredi 24 mai 2023 de  20:50:00 à  23:30:00",
+      "locality": "MORC SAINT ANDRE",
+      "localitySlug": "morc-saint-andre",
+      "streets": "TOWARDS KALIMAYE",
+      "district": "pamplemousses",
+      "from": "2023-05-24T16:50:00.000Z",
+      "to": "2023-05-24T19:30:00.000Z",
+      "id": "603babe90e05338641ab1175dbb5b653"
+    },
+    {
+      "date": "Le mercredi 24 mai 2023 de  15:00:00 à  17:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "HENRY LE MAIRE BEAU BASSIN",
+      "district": "plainewilhems",
+      "from": "2023-05-24T11:00:00.000Z",
+      "to": "2023-05-24T13:00:00.000Z",
+      "id": "cb36ccb7d84aa9be2ef61f54fa7b3b15"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "slug": "cite-la-cure",
+  "name": "CITE LA CURE",
+  "district": "portlouis",
+  "generated": "2025-12-29T20:21:02.567Z",
+  "outageCount": 29,
+  "firstOutage": "2022-09-03",
+  "lastOutage": "2025-11-25",
+  "outages": [
+    {
+      "date": "Le mardi 25 novembre 2025 de  15:30:00 à  18:00:00",
+      "streets": "PART OF CITE LA CURE",
+      "from": "2025-11-25T11:30:00.000Z",
+      "to": "2025-11-25T14:00:00.000Z",
+      "id": "1ec943d779c29773f575d11e91e9d31b"
+    },
+    {
+      "date": "Le mercredi 19 novembre 2025 de  09:30:00 à  13:00:00",
+      "streets": "NHDC LA CURE",
+      "from": "2025-11-19T05:30:00.000Z",
+      "to": "2025-11-19T09:00:00.000Z",
+      "id": "ea3ae4a04eb141c223499e805f4bcca1"
+    },
+    {
+      "date": "Le lundi 27 octobre 2025 de  15:30:00 à  19:00:00",
+      "streets": "RESIDENCE LA CURE",
+      "from": "2025-10-27T11:30:00.000Z",
+      "to": "2025-10-27T15:00:00.000Z",
+      "id": "8af4dbd6030f949be746a941178ad8cb"
+    },
+    {
+      "date": "Le dimanche 12 octobre 2025 de  08:30:00 à  15:00:00",
+      "streets": "LES ABONNES HABITANT RESIDENCE LA CURE",
+      "from": "2025-10-12T04:30:00.000Z",
+      "to": "2025-10-12T11:00:00.000Z",
+      "id": "6026c26aa5fe09e678301a464e44065e"
+    },
+    {
+      "date": "Le dimanche 3 août 2025 de  08:30:00 à  15:30:00",
+      "streets": "LES ABONNES DE RESIDENCE LA CURE DANS LES ENVIRONS DES RUES SIR HILARY BLOOD, AGRA, JUMNA, JEAN 23, KISNAH, SUBASH CHANDRA BOSE, ROBERT SCOTT, NARBADA ET COLVILLE DEVEREL",
+      "from": "2025-08-03T04:30:00.000Z",
+      "to": "2025-08-03T11:30:00.000Z",
+      "id": "338ba2a993731f8163eb75e974ef801b"
+    },
+    {
+      "date": "Le lundi 7 juillet 2025 de  09:30:00 à  17:30:00",
+      "streets": "DANS LES ENVIRONS DE SIR HILARY BLOOD",
+      "from": "2025-07-07T05:30:00.000Z",
+      "to": "2025-07-07T13:30:00.000Z",
+      "id": "0755c0a0a31aac162d625f497b411c59"
+    },
+    {
+      "date": "Le lundi 17 mars 2025 de  15:00:00 à  16:30:00",
+      "streets": "LES ABONNES HABITANT RESIDENCE LA CURE",
+      "from": "2025-03-17T11:00:00.000Z",
+      "to": "2025-03-17T12:30:00.000Z",
+      "id": "ea1504fca6ac77a0554745ba0d1725b5"
+    },
+    {
+      "date": "Le dimanche 15 décembre 2024 de  08:30:00 à  15:00:00",
+      "streets": "LES ABONNES DE RESIDENCE LA CURE",
+      "from": "2024-12-15T04:30:00.000Z",
+      "to": "2024-12-15T11:00:00.000Z",
+      "id": "3753a51e168b054cdf74f4e8f7d583fe"
+    },
+    {
+      "date": "Le dimanche 20 octobre 2024 de  08:30:00 à  15:30:00",
+      "streets": "LES ABONNES HABITANT RESIDENCE LA CURE",
+      "from": "2024-10-20T04:30:00.000Z",
+      "to": "2024-10-20T11:30:00.000Z",
+      "id": "75a79449f550d0412e7dcf159996e249"
+    },
+    {
+      "date": "Le dimanche 13 octobre 2024 de  08:30:00 à  14:30:00",
+      "streets": "RESIDENCE LA CURE",
+      "from": "2024-10-13T04:30:00.000Z",
+      "to": "2024-10-13T10:30:00.000Z",
+      "id": "8542bf97f170f978cffd53e70efc1f6e"
+    },
+    {
+      "date": "Le mardi 3 septembre 2024 de  14:00:00 à  17:00:00",
+      "streets": "Morc La Vallee,Le Cornue",
+      "from": "2024-09-03T10:00:00.000Z",
+      "to": "2024-09-03T13:00:00.000Z",
+      "id": "ecf435fd41a91a0a8472bc272d8d01bd"
+    },
+    {
+      "date": "Le mardi 20 août 2024 de  10:00:00 à  12:30:00",
+      "streets": "DANS LES ALENTOURS DU RESERVOIR, ROBET SCOTT ST",
+      "from": "2024-08-20T06:00:00.000Z",
+      "to": "2024-08-20T08:30:00.000Z",
+      "id": "7673ac44a85df571d2f30a5730896a26"
+    },
+    {
+      "date": "Le mardi 13 août 2024 de  08:30:00 à  15:00:00",
+      "streets": "DANS LES ENVIRONS DE ROBERT SCOTT ET STATELAND",
+      "from": "2024-08-13T04:30:00.000Z",
+      "to": "2024-08-13T11:00:00.000Z",
+      "id": "b0b008558b2e172b097312fce2d1a270"
+    },
+    {
+      "date": "Le jeudi 8 août 2024 de  13:00:00 à  14:00:00",
+      "streets": "RTE STE MARIE ET EN PARTIE MORC LA VALEE",
+      "from": "2024-08-08T09:00:00.000Z",
+      "to": "2024-08-08T10:00:00.000Z",
+      "id": "8368b6416f7d01703b90caf37e95b619"
+    },
+    {
+      "date": "Le lundi 5 août 2024 de  16:30:00 à  18:00:00",
+      "streets": "CITE LACURE",
+      "from": "2024-08-05T12:30:00.000Z",
+      "to": "2024-08-05T14:00:00.000Z",
+      "id": "ddb96003134e339fc0d7a40ecd57ba96"
+    },
+    {
+      "date": "Le jeudi 20 juin 2024 de  15:45:00 à  17:00:00",
+      "streets": "LES ABONNES DE CITE LA CURE",
+      "from": "2024-06-20T11:45:00.000Z",
+      "to": "2024-06-20T13:00:00.000Z",
+      "id": "733c6756bb02a5d4c3d80985649c5664"
+    },
+    {
+      "date": "Le mercredi 27 mars 2024 de  15:30:00 à  17:00:00",
+      "streets": "CITE LA CURE",
+      "from": "2024-03-27T11:30:00.000Z",
+      "to": "2024-03-27T13:00:00.000Z",
+      "id": "cb49e3bfea85626e4013951f72911132"
+    },
+    {
+      "date": "Le mercredi 6 mars 2024 de  21:45:00 à  22:45:00",
+      "streets": "NARBADA ROAD, ROBERT SCOTT ROAD",
+      "from": "2024-03-06T17:45:00.000Z",
+      "to": "2024-03-06T18:45:00.000Z",
+      "id": "5b5376ac074328200485c595ca7b25a2"
+    },
+    {
+      "date": "Le samedi 24 février 2024 de  11:00:00 à  12:00:00",
+      "streets": "DANS LES ENVIRONS DES RUES ROBERT SCOTT, MYOSOTIS, AGRA, JHUMNA ET JHELUM",
+      "from": "2024-02-24T07:00:00.000Z",
+      "to": "2024-02-24T08:00:00.000Z",
+      "id": "d130a31e29a211117249d0f15a286710"
+    },
+    {
+      "date": "Le jeudi 25 janvier 2024 de  14:30:00 à  17:30:00",
+      "streets": "JEAN 23, MARJOLIN ST, JEDUM ST, AGRA ST ET LES ENVIRONS.",
+      "from": "2024-01-25T10:30:00.000Z",
+      "to": "2024-01-25T13:30:00.000Z",
+      "id": "d492d9fa4e4afbe3f9700b9ca87e52c1"
+    },
+    {
+      "date": "Le vendredi 19 janvier 2024 de  15:00:00 à  16:30:00",
+      "streets": "CITE LA CURE",
+      "from": "2024-01-19T11:00:00.000Z",
+      "to": "2024-01-19T12:30:00.000Z",
+      "id": "8cc2db2e83b5b0fa1803750096874d24"
+    },
+    {
+      "date": "Le mercredi 10 janvier 2024 de  11:30:00 à  13:00:00",
+      "streets": "COLVILLE DEVERELL CITE LA CURE",
+      "from": "2024-01-10T07:30:00.000Z",
+      "to": "2024-01-10T09:00:00.000Z",
+      "id": "b4a5437832986b742d708228674a6439"
+    },
+    {
+      "date": "Le vendredi 5 janvier 2024 de  10:45:00 à  12:30:00",
+      "streets": "MORC LA VALLEE, PART OF LE CORNU",
+      "from": "2024-01-05T06:45:00.000Z",
+      "to": "2024-01-05T08:30:00.000Z",
+      "id": "6071bae35c518263b4c0c05221a2bd8d"
+    },
+    {
+      "date": "Le mercredi 29 novembre 2023 de  13:15:00 à  15:00:00",
+      "streets": "RUE ROBERT SCOTT, RUE NARVADA ET CROWN LAND.",
+      "from": "2023-11-29T09:15:00.000Z",
+      "to": "2023-11-29T11:00:00.000Z",
+      "id": "7a76edb4ed155041b206d825c9104f8f"
+    },
+    {
+      "date": "Le jeudi 8 juin 2023 de  14:00:00 à  23:00:00",
+      "streets": "WHOLE OF CITE LA CURE AND WHOLE OF MORCELLEMENT LA VALLEE SAINTE CROIX.",
+      "from": "2023-06-08T10:00:00.000Z",
+      "to": "2023-06-08T19:00:00.000Z",
+      "id": "cacc91c8fbcf4cb9641ee29c66df73db"
+    },
+    {
+      "date": "Le mardi 25 avril 2023 de  09:30:00 à  14:00:00",
+      "streets": "DANS LES ENVIRONS DE ROBERT SCOTT ET LE CORNU",
+      "from": "2023-04-25T05:30:00.000Z",
+      "to": "2023-04-25T10:00:00.000Z",
+      "id": "82f44d7546caf732b83d2284164c3636"
+    },
+    {
+      "date": "Le samedi 25 février 2023 de  09:00:00 à  13:30:00",
+      "streets": "DANS LES ENVIRONS DE ROBERT SCOTT",
+      "from": "2023-02-25T05:00:00.000Z",
+      "to": "2023-02-25T09:30:00.000Z",
+      "id": "9efc3f12c8ae204739c01d5390f7dc80"
+    },
+    {
+      "date": "Le mardi 6 septembre 2022 de  15:00:00 à  17:00:00",
+      "streets": "LES ABONNES DE CITE LA CURE",
+      "from": "2022-09-06T11:00:00.000Z",
+      "to": "2022-09-06T13:00:00.000Z",
+      "id": "59455003465abbd7fbcbef6e696715a5"
+    },
+    {
+      "date": "Le samedi 3 septembre 2022 de  17:00:00 à  20:30:00",
+      "streets": "CITE LA CURE",
+      "from": "2022-09-03T13:00:00.000Z",
+      "to": "2022-09-03T16:30:00.000Z",
+      "id": "0920e9f24a15008354fddc47e177bb95"
+    }
+  ]
+}

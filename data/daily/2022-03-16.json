@@ -1,0 +1,38 @@
+{
+  "date": "2022-03-16",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.350Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mercredi 16 mars 2022 de  12:30:00 à  14:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC BISMIC",
+      "district": "blackriver",
+      "from": "2022-03-16T08:30:00.000Z",
+      "to": "2022-03-16T10:30:00.000Z",
+      "id": "f305aef9622b04c6b8aad5ffa847215e"
+    },
+    {
+      "date": "Le mercredi 16 mars 2022 de  14:15:00 à  15:45:00",
+      "locality": "TROIS BOUTIQUES TRIOLET",
+      "localitySlug": "trois-boutiques-triolet",
+      "streets": "REGION SURROUNDING NPF TRIOLET",
+      "district": "pamplemousses",
+      "from": "2022-03-16T10:15:00.000Z",
+      "to": "2022-03-16T11:45:00.000Z",
+      "id": "82edf685fc29c011a3dad224dbde7532"
+    },
+    {
+      "date": "Le mercredi 16 mars 2022 de  09:30:00 à  15:30:00",
+      "locality": "CAMP CHAPELON",
+      "localitySlug": "camp-chapelon",
+      "streets": "LES ABONNES DE CAMP CHAPELON HABITANT DANS LES ENVIRONS DES RUES SUIVANTES: PIERRE ARTHUR RAYEROUX, PHILIPPE ROUSSET ET DE ROSNAY",
+      "district": "portlouis",
+      "from": "2022-03-16T05:30:00.000Z",
+      "to": "2022-03-16T11:30:00.000Z",
+      "id": "56ab7e4d3f808426fba56cf954eed792"
+    }
+  ]
+}

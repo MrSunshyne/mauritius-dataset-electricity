@@ -1,0 +1,58 @@
+{
+  "date": "2024-01-09",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.397Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mardi 9 janvier 2024 de  09:23:00 à  14:00:00",
+      "locality": "MONTAGNE BLANCHE",
+      "localitySlug": "montagne-blanche",
+      "streets": "SANS SOUCIS, POULTRY, DAM",
+      "district": "moka",
+      "from": "2024-01-09T05:23:00.000Z",
+      "to": "2024-01-09T10:00:00.000Z",
+      "id": "c3b5e754e450c5f913cfa4c0a79e585a"
+    },
+    {
+      "date": "Le mardi 9 janvier 2024 de  16:00:00 à  19:00:00",
+      "locality": "REDUIT",
+      "localitySlug": "reduit",
+      "streets": "moka,gentilly,helvetia",
+      "district": "moka",
+      "from": "2024-01-09T12:00:00.000Z",
+      "to": "2024-01-09T15:00:00.000Z",
+      "id": "58f5d3b56a4336da36fdc5eae89b8647"
+    },
+    {
+      "date": "Le mardi 9 janvier 2024 de  16:00:00 à  19:00:00",
+      "locality": "MOKA",
+      "localitySlug": "moka",
+      "streets": "moka,gentilly,helvetia",
+      "district": "moka",
+      "from": "2024-01-09T12:00:00.000Z",
+      "to": "2024-01-09T15:00:00.000Z",
+      "id": "1bad9e14d9ac9d96fe51183b59f93e85"
+    },
+    {
+      "date": "Le mardi 9 janvier 2024 de  12:20:00 à  13:30:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "MORC GREENPARK TERRE ROUGE",
+      "district": "pamplemousses",
+      "from": "2024-01-09T08:20:00.000Z",
+      "to": "2024-01-09T09:30:00.000Z",
+      "id": "2a69608aa0fdfa60a37041345b475cb9"
+    },
+    {
+      "date": "Le mardi 9 janvier 2024 de  15:00:00 à  16:30:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "RUE BOUNDARY ROSE HILL",
+      "district": "plainewilhems",
+      "from": "2024-01-09T11:00:00.000Z",
+      "to": "2024-01-09T12:30:00.000Z",
+      "id": "e22d3b7d32cb7276e2cfae0605d6b2c1"
+    }
+  ]
+}

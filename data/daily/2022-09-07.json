@@ -1,0 +1,28 @@
+{
+  "date": "2022-09-07",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.362Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mercredi 7 septembre 2022 de  15:00:00 à  18:00:00",
+      "locality": "CAMP DE MASQUE PAVE",
+      "localitySlug": "camp-de-masque-pave",
+      "streets": "WHOLE CAMP DE MASQUE PAVE,LUNITE,CAMP SONAH",
+      "district": "flacq",
+      "from": "2022-09-07T11:00:00.000Z",
+      "to": "2022-09-07T14:00:00.000Z",
+      "id": "8cb4cea6c82f5277445454212bc693d2"
+    },
+    {
+      "date": "Le mercredi 7 septembre 2022 de  09:00:00 à  14:00:00",
+      "locality": "SURINAM",
+      "localitySlug": "surinam",
+      "streets": "Le village de Martiniere Surinam, Sept Croisees, Balance et Catamaraz Road Surinam",
+      "district": "savanne",
+      "from": "2022-09-07T05:00:00.000Z",
+      "to": "2022-09-07T10:00:00.000Z",
+      "id": "6f0bbeb8a472894741e02be4e51a0131"
+    }
+  ]
+}

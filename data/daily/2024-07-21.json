@@ -1,0 +1,118 @@
+{
+  "date": "2024-07-21",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.412Z",
+  "outageCount": 11,
+  "outages": [
+    {
+      "date": "Le dimanche 21 juillet 2024 de  08:30:00 à  17:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "Plaine Magnien et Union Vale habitant dans le périmètre et les rues suivantes: Korrimbacus Street, Dodah Lane, Chysanteme Street, Capucines Street, Coquelicot Street, Paul Langois Street, Morcellement Mon Desert VRS 1, Bonhomme Louis No. 1 & 2, Le’scalier Road Plaine Magnien, UBP Plaine Magnien et une partie de Mon Desert Road",
+      "district": "grandport",
+      "from": "2024-07-21T04:30:00.000Z",
+      "to": "2024-07-21T13:00:00.000Z",
+      "id": "f0adc2bff031ce65967795cb46c33edf"
+    },
+    {
+      "date": "Le dimanche 21 juillet 2024 de  08:30:00 à  16:00:00",
+      "locality": "QUARTIER MILITAIRE",
+      "localitySlug": "quartier-militaire",
+      "streets": "Saint Leon, EDC Ravaton, Marcel Gabon Road, EDC Saint Leon, Bonne Veine Road, EDC Bonne Veine, Rajiah Road, Jackarea Road et Mosque Road",
+      "district": "moka",
+      "from": "2024-07-21T04:30:00.000Z",
+      "to": "2024-07-21T12:00:00.000Z",
+      "id": "90eb074072751b0143157ac0879122f1"
+    },
+    {
+      "date": "Le dimanche 21 juillet 2024 de  08:30:00 à  16:00:00",
+      "locality": "MOKA",
+      "localitySlug": "moka",
+      "streets": "Telfair, Gentilly, Railway et Morc Gentilly",
+      "district": "moka",
+      "from": "2024-07-21T04:30:00.000Z",
+      "to": "2024-07-21T12:00:00.000Z",
+      "id": "917fc3776b398d66f2cfffb475e7defa"
+    },
+    {
+      "date": "Le dimanche 21 juillet 2024 de  08:30:00 à  17:00:00",
+      "locality": "PETIT CAMP",
+      "localitySlug": "petit-camp",
+      "streets": "Petit Camp, Residences Jet Seven Trianon",
+      "district": "plainewilhems",
+      "from": "2024-07-21T04:30:00.000Z",
+      "to": "2024-07-21T13:00:00.000Z",
+      "id": "3531d44a3452d84301921832c180e3e4"
+    },
+    {
+      "date": "Le dimanche 21 juillet 2024 de  08:30:00 à  16:00:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "NHDC HIGHLANDS",
+      "district": "plainewilhems",
+      "from": "2024-07-21T04:30:00.000Z",
+      "to": "2024-07-21T12:00:00.000Z",
+      "id": "7389108c8ef7f90e3a1343233b8a3034"
+    },
+    {
+      "date": "Le dimanche 21 juillet 2024 de  08:30:00 à  16:00:00",
+      "locality": "SAINT MARTIN R-HILL",
+      "localitySlug": "saint-martin-r-hill",
+      "streets": "PORKER, CWA ST MARTIN ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2024-07-21T04:30:00.000Z",
+      "to": "2024-07-21T12:00:00.000Z",
+      "id": "fc2e32aec46f69425223077f0b3b5551"
+    },
+    {
+      "date": "Le dimanche 21 juillet 2024 de  09:00:00 à  12:00:00",
+      "locality": "BELLE ROSE  ( Q BORNES )",
+      "localitySlug": "belle-rose",
+      "streets": "OLLIER ST, CORIOLIS, ALENTOUR MOSQUE OLLIER",
+      "district": "plainewilhems",
+      "from": "2024-07-21T05:00:00.000Z",
+      "to": "2024-07-21T08:00:00.000Z",
+      "id": "eb4f639be7a6d859222672ce2cf687f7"
+    },
+    {
+      "date": "Le dimanche 21 juillet 2024 de  08:30:00 à  11:30:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "BANS LES ENVIRONS DE MORC PEERBACCUS, ALLEE MANGUE ET UNE PARTIE DE LA ROUTE COTIERE",
+      "district": "portlouis",
+      "from": "2024-07-21T04:30:00.000Z",
+      "to": "2024-07-21T07:30:00.000Z",
+      "id": "4c287d7c2dfb6ad5f0bfecb0b343dc26"
+    },
+    {
+      "date": "Le dimanche 21 juillet 2024 de  12:00:00 à  14:30:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "LES ABONNES DE LA TOUR KOENIG HABITANT DANS LES ENVIRONS DE NHDC COMMERCIAL COMPLEX",
+      "district": "portlouis",
+      "from": "2024-07-21T08:00:00.000Z",
+      "to": "2024-07-21T10:30:00.000Z",
+      "id": "b571f2ec731067d05f97e07a21e57e0c"
+    },
+    {
+      "date": "Le dimanche 21 juillet 2024 de  09:15:00 à  13:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "FROM QUINC PARDESSY TO FILLING TOTAL",
+      "district": "portlouis",
+      "from": "2024-07-21T05:15:00.000Z",
+      "to": "2024-07-21T09:00:00.000Z",
+      "id": "14078fca3f19d16ccf004208f018d5fd"
+    },
+    {
+      "date": "Le dimanche 21 juillet 2024 de  08:30:00 à  15:00:00",
+      "locality": "CAMP DIABLE",
+      "localitySlug": "camp-diable",
+      "streets": "Camp Diable, Morcellement Savannah et Colmar",
+      "district": "savanne",
+      "from": "2024-07-21T04:30:00.000Z",
+      "to": "2024-07-21T11:00:00.000Z",
+      "id": "ab73bffa7466874155abcc8871262432"
+    }
+  ]
+}

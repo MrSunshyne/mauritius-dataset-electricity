@@ -1,0 +1,38 @@
+{
+  "date": "2025-10-04",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.441Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le samedi 4 octobre 2025 de  08:45:00 à  14:30:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "RES VETIVER BK B,BK C",
+      "district": "blackriver",
+      "from": "2025-10-04T04:45:00.000Z",
+      "to": "2025-10-04T10:30:00.000Z",
+      "id": "f2a72128ab39c011973d817ad2e96de3"
+    },
+    {
+      "date": "Le samedi 4 octobre 2025 de  08:30:00 à  16:00:00",
+      "locality": "PAILLOTTE",
+      "localitySlug": "paillotte",
+      "streets": "Partie de Route Royale, Partie de Bambou Lane et Partie de Sayed Hossen",
+      "district": "plainewilhems",
+      "from": "2025-10-04T04:30:00.000Z",
+      "to": "2025-10-04T12:00:00.000Z",
+      "id": "eacd62147383becc1d636b38c8df2af8"
+    },
+    {
+      "date": "Le samedi 4 octobre 2025 de  08:30:00 à  15:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "RESERVOIR ROAD, BOIS ROUGE, CREMATION ROAD GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2025-10-04T04:30:00.000Z",
+      "to": "2025-10-04T11:00:00.000Z",
+      "id": "807fc97498a4345060f2029d92f7291e"
+    }
+  ]
+}

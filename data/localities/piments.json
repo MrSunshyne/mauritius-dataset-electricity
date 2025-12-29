@@ -1,0 +1,25 @@
+{
+  "slug": "piments",
+  "name": "PIMENTS(RODRIGUES)",
+  "district": "rodrigues",
+  "generated": "2025-12-29T20:21:02.735Z",
+  "outageCount": 2,
+  "firstOutage": "2024-03-23",
+  "lastOutage": "2025-03-07",
+  "outages": [
+    {
+      "date": "Le vendredi 7 mars 2025 de  08:30:00 à  15:00:00",
+      "streets": "Piments Reposoir",
+      "from": "2025-03-07T04:30:00.000Z",
+      "to": "2025-03-07T11:00:00.000Z",
+      "id": "bd04be9ea08dda05b39cdf5e3708b57c"
+    },
+    {
+      "date": "Le samedi 23 mars 2024 de  08:30:00 à  15:00:00",
+      "streets": "Reposoir, Baie Topaze, Montagne Croupier et Camp Pintade",
+      "from": "2024-03-23T04:30:00.000Z",
+      "to": "2024-03-23T11:00:00.000Z",
+      "id": "322c4ff7ac1298c0b704fef376aff09e"
+    }
+  ]
+}

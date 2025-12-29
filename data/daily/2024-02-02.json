@@ -1,0 +1,38 @@
+{
+  "date": "2024-02-02",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.399Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le vendredi 2 février 2024 de  07:00:00 à  12:00:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "MORC VRS HENRIETTA",
+      "district": "plainewilhems",
+      "from": "2024-02-02T03:00:00.000Z",
+      "to": "2024-02-02T08:00:00.000Z",
+      "id": "0fba1fe3defbc4e942531273b6f0ec45"
+    },
+    {
+      "date": "Le vendredi 2 février 2024 de  17:00:00 à  18:30:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "SELMOUR ANNEE, DR ROUX AND SURROUNDINGS ROSE HILL",
+      "district": "plainewilhems",
+      "from": "2024-02-02T13:00:00.000Z",
+      "to": "2024-02-02T14:30:00.000Z",
+      "id": "a75237b905ac71b1288693f297dcf102"
+    },
+    {
+      "date": "Le vendredi 2 février 2024 de  16:00:00 à  17:30:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Residence Bonneval CUREPIPE",
+      "district": "plainewilhems",
+      "from": "2024-02-02T12:00:00.000Z",
+      "to": "2024-02-02T13:30:00.000Z",
+      "id": "0c58f18f9377654ec2bb6176988734a7"
+    }
+  ]
+}

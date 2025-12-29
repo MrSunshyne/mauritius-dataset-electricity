@@ -1,0 +1,48 @@
+{
+  "date": "2024-01-03",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.397Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mercredi 3 janvier 2024 de  12:00:00 à  00:00:00",
+      "locality": "BLUE BAY",
+      "localitySlug": "blue-bay",
+      "streets": "Blue Bay habitant dans le périmètre et les rues suivantes: Morcellement Blue Bay, Link Road et Pointe D’Esny",
+      "district": "grandport",
+      "from": "2024-01-03T08:00:00.000Z",
+      "to": "2024-01-02T20:00:00.000Z",
+      "id": "8cc9c2e6668d8f117914ff87345da85d"
+    },
+    {
+      "date": "Le mercredi 3 janvier 2024 de  10:30:00 à  11:30:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Raman Osman State Secondary School, Phoenix State Secondary School, Emirates Airlines Swimming Pool, MUGA Phoenix, New Hindi Secretariat, Indira Gandhi Centre For Indian Culture, Gymnase Phoenix",
+      "district": "plainewilhems",
+      "from": "2024-01-03T06:30:00.000Z",
+      "to": "2024-01-03T07:30:00.000Z",
+      "id": "58b2c598e60307cb1fe39f3555074a49"
+    },
+    {
+      "date": "Le mercredi 3 janvier 2024 de  11:00:00 à  15:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Gabriel Fronpied, Bestelle de Forest Side et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2024-01-03T07:00:00.000Z",
+      "to": "2024-01-03T11:00:00.000Z",
+      "id": "9d2881f0f9601c0fe021ee7f43bdd212"
+    },
+    {
+      "date": "Le mercredi 3 janvier 2024 de  05:00:00 à  12:00:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": "LA MAIREE EAU COULEE",
+      "district": "plainewilhems",
+      "from": "2024-01-03T01:00:00.000Z",
+      "to": "2024-01-03T08:00:00.000Z",
+      "id": "202a62ab1255cc6485478ed24f7be2cb"
+    }
+  ]
+}

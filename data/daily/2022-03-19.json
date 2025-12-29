@@ -1,0 +1,28 @@
+{
+  "date": "2022-03-19",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.350Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le samedi 19 mars 2022 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC BISMIC---Ave des Cardinaux, Ave des Nénuphars, Ave la Désirable, Ave des Bernaches, Ave Vergers, Ave des Serins et  Ave des Cacatoès, Loday Lane",
+      "district": "blackriver",
+      "from": "2022-03-19T04:30:00.000Z",
+      "to": "2022-03-19T11:30:00.000Z",
+      "id": "a919274698022fd123d2c48fbc34d580"
+    },
+    {
+      "date": "Le samedi 19 mars 2022 de  08:30:00 à  15:30:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Riviere coco, Port Sud Est, Mourouck, Anse Enfer et Montagne Cherie",
+      "district": "rodrigues",
+      "from": "2022-03-19T04:30:00.000Z",
+      "to": "2022-03-19T11:30:00.000Z",
+      "id": "4980aa2b91b626b4a9605b3834671b78"
+    }
+  ]
+}

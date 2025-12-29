@@ -1,0 +1,68 @@
+{
+  "date": "2023-02-23",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.374Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le jeudi 23 février 2023 de  16:00:00 à  18:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "DANS LES ENVIRONS DE FOYER FIAT ET AVENUE LA FORGE",
+      "district": "blackriver",
+      "from": "2023-02-23T12:00:00.000Z",
+      "to": "2023-02-23T14:00:00.000Z",
+      "id": "766726aa6f6ea42964d0addb36eaa45b"
+    },
+    {
+      "date": "Le jeudi 23 février 2023 de  09:00:00 à  13:00:00",
+      "locality": "SAINT JULIEN VILLAGE",
+      "localitySlug": "saint-julien-village",
+      "streets": "ST JULIEN VILLAGE",
+      "district": "flacq",
+      "from": "2023-02-23T05:00:00.000Z",
+      "to": "2023-02-23T09:00:00.000Z",
+      "id": "8ea7da39ccfe8b951b27cf781b2e3ef2"
+    },
+    {
+      "date": "Le jeudi 23 février 2023 de  20:15:00 à  22:15:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "MORC BOULET ROUGE",
+      "district": "flacq",
+      "from": "2023-02-23T16:15:00.000Z",
+      "to": "2023-02-23T18:15:00.000Z",
+      "id": "4e2046728e936efe01c25a13b90bfb41"
+    },
+    {
+      "date": "Le jeudi 23 février 2023 de  08:30:00 à  15:00:00",
+      "locality": "PROVIDENCE QUARTIER MILITAIRE",
+      "localitySlug": "providence-quartier-militaire",
+      "streets": "Route 16 Providence Quartier Militaire, Tamil Temple, Mahatma Gandhi, Léon, Kalimaye, Shivala, Primerose, Sir Raman Osman, Bombay, School, Sir Kher Jagatsingh, Ramphul, Cooperative, Camp de Masque, Shivajee, Orchidée, Sir Satcam Boolell, Dahlia, Crémation Ground, Bus Stop, Ittoo, Morcellement Mon Plaisir, NHDC Melrose",
+      "district": "moka",
+      "from": "2023-02-23T04:30:00.000Z",
+      "to": "2023-02-23T11:00:00.000Z",
+      "id": "35af93102e6cdaab983d1ad07f809068"
+    },
+    {
+      "date": "Le jeudi 23 février 2023 de  15:30:00 à  16:30:00",
+      "locality": "MOKA",
+      "localitySlug": "moka",
+      "streets": "ROUTE BOIS CHERIS,EUREKA,HOSPITAL NEAR AMB.",
+      "district": "moka",
+      "from": "2023-02-23T11:30:00.000Z",
+      "to": "2023-02-23T12:30:00.000Z",
+      "id": "28d3fe137732bcaf10b4910954e97ade"
+    },
+    {
+      "date": "Le jeudi 23 février 2023 de  09:00:00 à  15:00:00",
+      "locality": "BAIE DU CAP",
+      "localitySlug": "baie-du-cap",
+      "streets": "Le village de Baie Du Cap",
+      "district": "savanne",
+      "from": "2023-02-23T05:00:00.000Z",
+      "to": "2023-02-23T11:00:00.000Z",
+      "id": "50cc89451edae2ec4950e2404c1a8b3e"
+    }
+  ]
+}

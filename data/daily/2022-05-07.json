@@ -1,0 +1,58 @@
+{
+  "date": "2022-05-07",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.354Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le samedi 7 mai 2022 de  09:00:00 à  13:30:00",
+      "locality": "MONT  SIMONET",
+      "localitySlug": "mont-simonet",
+      "streets": "MONT SIMONET TAMARIND FALLS",
+      "district": "blackriver",
+      "from": "2022-05-07T05:00:00.000Z",
+      "to": "2022-05-07T09:30:00.000Z",
+      "id": "da1aeb13bc6b4a539867d064312e154d"
+    },
+    {
+      "date": "Le samedi 7 mai 2022 de  08:30:00 à  17:00:00",
+      "locality": "CLUNY",
+      "localitySlug": "cluny",
+      "streets": "Cluny, Bananes et Beemanique",
+      "district": "grandport",
+      "from": "2022-05-07T04:30:00.000Z",
+      "to": "2022-05-07T13:00:00.000Z",
+      "id": "e0a894cafdea9068f847a7a926914f65"
+    },
+    {
+      "date": "Le samedi 7 mai 2022 de  09:30:00 à  12:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "Terre Rouge near Telecom/Police Station",
+      "district": "pamplemousses",
+      "from": "2022-05-07T05:30:00.000Z",
+      "to": "2022-05-07T08:00:00.000Z",
+      "id": "52a2ffecd4bb25f918e315925820effe"
+    },
+    {
+      "date": "Le samedi 7 mai 2022 de  14:00:00 à  16:00:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "Morc Jhuboo Trou aux Biches",
+      "district": "pamplemousses",
+      "from": "2022-05-07T10:00:00.000Z",
+      "to": "2022-05-07T12:00:00.000Z",
+      "id": "fef281f7634d9e8e739070894e280cd7"
+    },
+    {
+      "date": "Le samedi 7 mai 2022 de  08:30:00 à  15:30:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "LES ABONNES DE POINTE AUX SABLES HABITANT DAND LES ENVIRONS DE LA ROUTE COTIERE, SENIOR CITIZEN, FISHRIES, LA FONDATION GEORGE CHARLES, LECOLE NAVAL ET LA ZONE INDUSTRIELLE DE DBM",
+      "district": "portlouis",
+      "from": "2022-05-07T04:30:00.000Z",
+      "to": "2022-05-07T11:30:00.000Z",
+      "id": "cf5d420ed0354c3b4337be66cae77a28"
+    }
+  ]
+}

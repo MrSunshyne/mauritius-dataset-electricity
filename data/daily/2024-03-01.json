@@ -1,0 +1,88 @@
+{
+  "date": "2024-03-01",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.402Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le vendredi 1 mars 2024 de  15:45:00 à  17:15:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "VILLAGE DE TAMARIN",
+      "district": "blackriver",
+      "from": "2024-03-01T11:45:00.000Z",
+      "to": "2024-03-01T13:15:00.000Z",
+      "id": "c087f54028d528199186efd49e525a6c"
+    },
+    {
+      "date": "Le vendredi 1 mars 2024 de  14:00:00 à  17:00:00",
+      "locality": "VILLENOIRE",
+      "localitySlug": "villenoire",
+      "streets": "Morcellement VRS 1, 2, 3 & 4 et une partie de Ville Noire",
+      "district": "grandport",
+      "from": "2024-03-01T10:00:00.000Z",
+      "to": "2024-03-01T13:00:00.000Z",
+      "id": "67c0f841cf5bb5d65eac33fd929227ab"
+    },
+    {
+      "date": "Le vendredi 1 mars 2024 de  15:35:00 à  18:00:00",
+      "locality": "GRANDE POINTE AUX PIMENTS",
+      "localitySlug": "grande-pointe-aux-piments",
+      "streets": "MORC BOLAH GRANDE POINTE AUX PIMENTS.",
+      "district": "pamplemousses",
+      "from": "2024-03-01T11:35:00.000Z",
+      "to": "2024-03-01T14:00:00.000Z",
+      "id": "ccf34de753ffd4af850eebb7b50e981e"
+    },
+    {
+      "date": "Le vendredi 1 mars 2024 de  09:30:00 à  12:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Hillcrest, Hirondelle, Flammant, Bengali, Epevier et les environs",
+      "district": "plainewilhems",
+      "from": "2024-03-01T05:30:00.000Z",
+      "to": "2024-03-01T08:00:00.000Z",
+      "id": "e741b84f5d9fac55fbda69fb21df2934"
+    },
+    {
+      "date": "Le vendredi 1 mars 2024 de  15:00:00 à  17:00:00",
+      "locality": "BEAU SEJOUR BELLE-ROSE",
+      "localitySlug": "beau-sejour-belle-rose",
+      "streets": "AVE OLLIER, AVE DR CASTEL, COMSI INSURANCE, NAMO INDIA ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2024-03-01T11:00:00.000Z",
+      "to": "2024-03-01T13:00:00.000Z",
+      "id": "fb6905a6ec99aef468827a88f53daaa9"
+    },
+    {
+      "date": "Le vendredi 1 mars 2024 de  16:00:00 à  17:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "DANS LES ENVIRONS DE MORC LA VALLEE ET LE CORNU",
+      "district": "portlouis",
+      "from": "2024-03-01T12:00:00.000Z",
+      "to": "2024-03-01T13:00:00.000Z",
+      "id": "1ec17902f45a59fc1e1d9a3e462f6d62"
+    },
+    {
+      "date": "Le vendredi 1 mars 2024 de  11:30:00 à  15:00:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "Cite EDC",
+      "district": "rivieredurempart",
+      "from": "2024-03-01T07:30:00.000Z",
+      "to": "2024-03-01T11:00:00.000Z",
+      "id": "dab08def9640e01559efc7b44d47df91"
+    },
+    {
+      "date": "Le vendredi 1 mars 2024 de  13:00:00 à  15:00:00",
+      "locality": "ROCHE TERRE",
+      "localitySlug": "roche-terre",
+      "streets": "Towards Govt school",
+      "district": "rivieredurempart",
+      "from": "2024-03-01T09:00:00.000Z",
+      "to": "2024-03-01T11:00:00.000Z",
+      "id": "89d2d7e15b49ed9b7c6800ab177f47a1"
+    }
+  ]
+}

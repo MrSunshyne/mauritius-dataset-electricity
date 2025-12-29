@@ -1,0 +1,28 @@
+{
+  "date": "2025-10-21",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.443Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mardi 21 octobre 2025 de  15:30:00 à  16:45:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "NR CLINIC AND POLICE STATION ROYAL ROAD TOMBEAU BAY",
+      "district": "pamplemousses",
+      "from": "2025-10-21T11:30:00.000Z",
+      "to": "2025-10-21T12:45:00.000Z",
+      "id": "23875e2af505885ae21a2a05a793b969"
+    },
+    {
+      "date": "Le mardi 21 octobre 2025 de  15:00:00 à  18:30:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "MON MASCAL PETIT RAFFRAY",
+      "district": "rivieredurempart",
+      "from": "2025-10-21T11:00:00.000Z",
+      "to": "2025-10-21T14:30:00.000Z",
+      "id": "14588c316b09db61491f7b0b5b11ac14"
+    }
+  ]
+}

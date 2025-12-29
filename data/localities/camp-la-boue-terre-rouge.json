@@ -1,0 +1,25 @@
+{
+  "slug": "camp-la-boue-terre-rouge",
+  "name": "CAMP LA BOUE -TERRE ROUGE",
+  "district": "pamplemousses",
+  "generated": "2025-12-29T20:21:02.533Z",
+  "outageCount": 2,
+  "firstOutage": "2024-05-09",
+  "lastOutage": "2024-06-01",
+  "outages": [
+    {
+      "date": "Le samedi 1 juin 2024 de  12:30:00 à  14:00:00",
+      "streets": "Camp la Boue",
+      "from": "2024-06-01T08:30:00.000Z",
+      "to": "2024-06-01T10:00:00.000Z",
+      "id": "a5d4603f6a0ad50178da2b602bf2f51d"
+    },
+    {
+      "date": "Le jeudi 9 mai 2024 de  09:00:00 à  14:00:00",
+      "streets": "CAMP LA BOUE A TERRE ROUGE",
+      "from": "2024-05-09T05:00:00.000Z",
+      "to": "2024-05-09T10:00:00.000Z",
+      "id": "985e287bb7a05ce8f08f8c62aba3b3f4"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "baie-lascar",
+  "name": "BAIE LASCAR(RODRIGUES)",
+  "district": "rodrigues",
+  "generated": "2025-12-29T20:21:02.475Z",
+  "outageCount": 2,
+  "firstOutage": "2025-02-06",
+  "lastOutage": "2025-03-05",
+  "outages": [
+    {
+      "date": "Le mercredi 5 mars 2025 de  09:00:00 à  14:00:00",
+      "streets": "Creve Coeur et English Bay",
+      "from": "2025-03-05T05:00:00.000Z",
+      "to": "2025-03-05T10:00:00.000Z",
+      "id": "18ea24bfe3689365c41fb29206cc5973"
+    },
+    {
+      "date": "Le jeudi 6 février 2025 de  09:00:00 à  15:00:00",
+      "streets": "Creve Cœur, English Bay, Morcellement Terre Rouge et Jean Tac",
+      "from": "2025-02-06T05:00:00.000Z",
+      "to": "2025-02-06T11:00:00.000Z",
+      "id": "a283955c127f185d2a630de05171fc5f"
+    }
+  ]
+}

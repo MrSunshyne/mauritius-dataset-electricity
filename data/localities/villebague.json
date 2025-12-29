@@ -1,0 +1,53 @@
+{
+  "slug": "villebague",
+  "name": "VILLEBAGUE",
+  "district": "pamplemousses",
+  "generated": "2025-12-29T20:21:02.854Z",
+  "outageCount": 6,
+  "firstOutage": "2022-12-11",
+  "lastOutage": "2025-07-12",
+  "outages": [
+    {
+      "date": "Le samedi 12 juillet 2025 de  09:30:00 à  11:00:00",
+      "streets": "PART OF VILLEBAGUE",
+      "from": "2025-07-12T05:30:00.000Z",
+      "to": "2025-07-12T07:00:00.000Z",
+      "id": "01c0a2b5f430bb3163e0b427df45097e"
+    },
+    {
+      "date": "Le mercredi 15 janvier 2025 de  15:30:00 à  17:30:00",
+      "streets": "LE VILLAGE DE VILLEBAGUE.-Unplanned",
+      "from": "2025-01-15T11:30:00.000Z",
+      "to": "2025-01-15T13:30:00.000Z",
+      "id": "ad15cd3c48de81d37a307e6735bdd55a"
+    },
+    {
+      "date": "Le mercredi 18 décembre 2024 de  09:00:00 à  15:00:00",
+      "streets": "VILLEBAGUE/PETITE JULIE",
+      "from": "2024-12-18T05:00:00.000Z",
+      "to": "2024-12-18T11:00:00.000Z",
+      "id": "de419ab63fe20b85f94240d6f61daa7e"
+    },
+    {
+      "date": "Le dimanche 1 décembre 2024 de  08:00:00 à  16:00:00",
+      "streets": "VILLE BAGUE, GRANDE ROSALIE, PETITE JULIE ET MON SONGES",
+      "from": "2024-12-01T04:00:00.000Z",
+      "to": "2024-12-01T12:00:00.000Z",
+      "id": "d87626b566d9462f22282b1f664cb2c8"
+    },
+    {
+      "date": "Le mercredi 8 novembre 2023 de  16:00:00 à  17:00:00",
+      "streets": "CONGOMAH,ILOT,ROSALIE,DEPINAY",
+      "from": "2023-11-08T12:00:00.000Z",
+      "to": "2023-11-08T13:00:00.000Z",
+      "id": "5ffa5ad4e657f570d9dd2cc73753116a"
+    },
+    {
+      "date": "Le dimanche 11 décembre 2022 de  20:30:00 à  22:30:00",
+      "streets": "VILLEBAGUE",
+      "from": "2022-12-11T16:30:00.000Z",
+      "to": "2022-12-11T18:30:00.000Z",
+      "id": "cf8855196191879834cfe0a12f81559b"
+    }
+  ]
+}

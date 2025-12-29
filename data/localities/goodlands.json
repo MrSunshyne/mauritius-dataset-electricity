@@ -1,0 +1,802 @@
+{
+  "slug": "goodlands",
+  "name": "GOODLANDS",
+  "district": "rivieredurempart",
+  "generated": "2025-12-29T20:21:02.610Z",
+  "outageCount": 113,
+  "firstOutage": "2022-03-27",
+  "lastOutage": "2025-12-15",
+  "outages": [
+    {
+      "date": "Le lundi 15 décembre 2025 de  09:30:00 à  12:00:00",
+      "streets": "Goodlands,Grand Gaube,Roche Terre,Petit Raffray",
+      "from": "2025-12-15T05:30:00.000Z",
+      "to": "2025-12-15T08:00:00.000Z",
+      "id": "fdaad7cf258fab0ea4ca33018db35157"
+    },
+    {
+      "date": "Le vendredi 7 novembre 2025 de  17:00:00 à  18:00:00",
+      "streets": "CEB RD ET LES ALENTOURS",
+      "from": "2025-11-07T13:00:00.000Z",
+      "to": "2025-11-07T14:00:00.000Z",
+      "id": "ac41075bcb6c7ed2be7ffcc18a6d7103"
+    },
+    {
+      "date": "Le mercredi 29 octobre 2025 de  08:40:00 à  10:00:00",
+      "streets": "ROYAL ROAD ET DANS LES ALENTOURS DE YOUNG BROS, MAGASIN BAHADOOR, LA POSTE",
+      "from": "2025-10-29T04:40:00.000Z",
+      "to": "2025-10-29T06:00:00.000Z",
+      "id": "c2055762f230fa3909c3e0d1452193a2"
+    },
+    {
+      "date": "Le lundi 27 octobre 2025 de  10:00:00 à  13:00:00",
+      "streets": "ASTORIA ROAD ET LES ALENTOURS",
+      "from": "2025-10-27T06:00:00.000Z",
+      "to": "2025-10-27T09:00:00.000Z",
+      "id": "ff271a4f8202ca75917dbcc5341d9d2d"
+    },
+    {
+      "date": "Le jeudi 23 octobre 2025 de  15:15:00 à  16:30:00",
+      "streets": "Royal Road..Towards Bahadoor Puja Shop.",
+      "from": "2025-10-23T11:15:00.000Z",
+      "to": "2025-10-23T12:30:00.000Z",
+      "id": "71be1ebf5c11de6d9c43d4c752c03b97"
+    },
+    {
+      "date": "Le samedi 4 octobre 2025 de  08:30:00 à  15:00:00",
+      "streets": "RESERVOIR ROAD, BOIS ROUGE, CREMATION ROAD GOODLANDS",
+      "from": "2025-10-04T04:30:00.000Z",
+      "to": "2025-10-04T11:00:00.000Z",
+      "id": "807fc97498a4345060f2029d92f7291e"
+    },
+    {
+      "date": "Le dimanche 14 septembre 2025 de  19:45:00 à  23:30:00",
+      "streets": "MORC PETIT VILLAGE ST ANTOINE",
+      "from": "2025-09-14T15:45:00.000Z",
+      "to": "2025-09-14T19:30:00.000Z",
+      "id": "6ebc44c1a286c563fda84f3c1bf3a2db"
+    },
+    {
+      "date": "Le mardi 9 septembre 2025 de  16:00:00 à  17:00:00",
+      "streets": "EN PARTIE GOODLANDS, POUDRE D-OR HAMLET, POUDRE D-OR VILLAGE ET ESPERANCE TREBUCHET.",
+      "from": "2025-09-09T12:00:00.000Z",
+      "to": "2025-09-09T13:00:00.000Z",
+      "id": "a6adaa70f9298646ab3584839d0f9a05"
+    },
+    {
+      "date": "Le mardi 9 septembre 2025 de  09:00:00 à  10:00:00",
+      "streets": "Royal Road",
+      "from": "2025-09-09T05:00:00.000Z",
+      "to": "2025-09-09T06:00:00.000Z",
+      "id": "1843d0eb057f95704bf32468488ad768"
+    },
+    {
+      "date": "Le lundi 1 septembre 2025 de  09:10:00 à  10:15:00",
+      "streets": "GOODLANDS",
+      "from": "2025-09-01T05:10:00.000Z",
+      "to": "2025-09-01T06:15:00.000Z",
+      "id": "91c01b45e18cbab2b797663adb29352d"
+    },
+    {
+      "date": "Le samedi 30 août 2025 de  10:00:00 à  15:00:00",
+      "streets": "BALKAN,BAHADOOR ROAD GOODLANDS",
+      "from": "2025-08-30T06:00:00.000Z",
+      "to": "2025-08-30T11:00:00.000Z",
+      "id": "c3756e0b6daf0e3d39fc0378ac4c3e87"
+    },
+    {
+      "date": "Le jeudi 31 juillet 2025 de  12:30:00 à  16:00:00",
+      "streets": "ROYAL ROAD, SSR ROAD, SOCIAL WELFARE CENTRE ROAD, GOODLANDS",
+      "from": "2025-07-31T08:30:00.000Z",
+      "to": "2025-07-31T12:00:00.000Z",
+      "id": "f7b167e511e5682989fd2bf0a4cfd755"
+    },
+    {
+      "date": "Le samedi 19 juillet 2025 de  09:30:00 à  11:00:00",
+      "streets": "MORC PETIT VILLAGE",
+      "from": "2025-07-19T05:30:00.000Z",
+      "to": "2025-07-19T07:00:00.000Z",
+      "id": "e8e4f9bfd9e5ecc92553cfcb73e18acb"
+    },
+    {
+      "date": "Le jeudi 17 juillet 2025 de  09:05:00 à  19:30:00",
+      "streets": "Kashmir,Ramlagun Moosun,Cremation,Kalimaye,Reservoir,Orchid",
+      "from": "2025-07-17T05:05:00.000Z",
+      "to": "2025-07-17T15:30:00.000Z",
+      "id": "330eeff2e0371f9d827b9b16bc3efed3"
+    },
+    {
+      "date": "Le mardi 15 juillet 2025 de  14:15:00 à  16:00:00",
+      "streets": "PETIT VILLAGE GOODLANDS",
+      "from": "2025-07-15T10:15:00.000Z",
+      "to": "2025-07-15T12:00:00.000Z",
+      "id": "9a75b064d8e7c9e3ec18234ce61f1c17"
+    },
+    {
+      "date": "Le samedi 12 juillet 2025 de  08:30:00 à  15:00:00",
+      "streets": "BEAU PLATEAU, CWA GOODLANDS",
+      "from": "2025-07-12T04:30:00.000Z",
+      "to": "2025-07-12T11:00:00.000Z",
+      "id": "40bdbce6fe59af79c431c8f3dee22430"
+    },
+    {
+      "date": "Le samedi 5 juillet 2025 de  06:00:00 à  14:00:00",
+      "streets": "ESPACE MAISON,ROUILLARD",
+      "from": "2025-07-05T02:00:00.000Z",
+      "to": "2025-07-05T10:00:00.000Z",
+      "id": "22cfc10d38595da9a9bd9fc5a1b84292"
+    },
+    {
+      "date": "Le mercredi 18 juin 2025 de  11:00:00 à  15:00:00",
+      "streets": "KEJOO RD, PETIT VILLAGE, VERGER ROAD AND SURROUNDINGS",
+      "from": "2025-06-18T07:00:00.000Z",
+      "to": "2025-06-18T11:00:00.000Z",
+      "id": "1a28048398b4962b854d8f38e3d98a78"
+    },
+    {
+      "date": "Le dimanche 9 mars 2025 de  08:30:00 à  16:00:00",
+      "streets": "Astoria Road, Arya Mandir Road, Madoo Road, Atlas Road, Goodlands",
+      "from": "2025-03-09T04:30:00.000Z",
+      "to": "2025-03-09T12:00:00.000Z",
+      "id": "f39923c9e8a4ba82554716151991b846"
+    },
+    {
+      "date": "Le samedi 1 mars 2025 de  08:30:00 à  14:00:00",
+      "streets": "Morcellement Unuth, Reservoir Road & CWA Road Goodlands",
+      "from": "2025-03-01T04:30:00.000Z",
+      "to": "2025-03-01T10:00:00.000Z",
+      "id": "2e1c5ac29c9daa84d74c35862a054b16"
+    },
+    {
+      "date": "Le lundi 17 février 2025 de  18:00:00 à  00:00:00",
+      "streets": "MME AZORE GOODLANDS",
+      "from": "2025-02-17T14:00:00.000Z",
+      "to": "2025-02-16T20:00:00.000Z",
+      "id": "ec64efe72c14f858be255fc4167a58c6"
+    },
+    {
+      "date": "Le dimanche 16 février 2025 de  13:30:00 à  16:00:00",
+      "streets": "BAHADOOR ROAD/ROYAL ROAD NR CENTRE SOCIAL",
+      "from": "2025-02-16T09:30:00.000Z",
+      "to": "2025-02-16T12:00:00.000Z",
+      "id": "92486d6a68dd108aca75ee36c47fce92"
+    },
+    {
+      "date": "Le lundi 10 février 2025 de  20:15:00 à  22:00:00",
+      "streets": "ATLAS RD,RAMASAWMY RD,ARYA MANDIR RD",
+      "from": "2025-02-10T16:15:00.000Z",
+      "to": "2025-02-10T18:00:00.000Z",
+      "id": "edb4fa060f4b5b140d3da91d4f7d99b5"
+    },
+    {
+      "date": "Le lundi 10 février 2025 de  19:15:00 à  20:15:00",
+      "streets": "P DES ROCHES,R NOIRES, RIV DU REMP.PTE DES LASCARS",
+      "from": "2025-02-10T15:15:00.000Z",
+      "to": "2025-02-10T16:15:00.000Z",
+      "id": "d6ee8cde30b3eb09f4e82dea448bf3b7"
+    },
+    {
+      "date": "Le dimanche 9 février 2025 de  10:30:00 à  15:30:00",
+      "streets": "DARUTY, BYPASS, MORC UNUTH, CWA AND SURROUNDINGS",
+      "from": "2025-02-09T06:30:00.000Z",
+      "to": "2025-02-09T11:30:00.000Z",
+      "id": "b052dee61d0113b1e6774a65ffe466f1"
+    },
+    {
+      "date": "Le mercredi 5 février 2025 de  12:30:00 à  13:30:00",
+      "streets": "BAHADOOR RD, BALKAN RD ET LES ALENTOURS",
+      "from": "2025-02-05T08:30:00.000Z",
+      "to": "2025-02-05T09:30:00.000Z",
+      "id": "29c481aff9e99c0ae1023b6aa97e1b9a"
+    },
+    {
+      "date": "Le mardi 28 janvier 2025 de  09:00:00 à  12:00:00",
+      "streets": "BALKAN ROAD ,BAHADOOR ROAD",
+      "from": "2025-01-28T05:00:00.000Z",
+      "to": "2025-01-28T08:00:00.000Z",
+      "id": "4e0eadb3f34b642eba2e9efce2961a44"
+    },
+    {
+      "date": "Le samedi 11 janvier 2025 de  13:30:00 à  15:00:00",
+      "streets": "GOODLANDS, ROCHE TERRE, GRAND GAUBE",
+      "from": "2025-01-11T09:30:00.000Z",
+      "to": "2025-01-11T11:00:00.000Z",
+      "id": "3a5d1e8c0e56f10d7a5cc8bb972535dd"
+    },
+    {
+      "date": "Le dimanche 8 décembre 2024 de  12:30:00 à  13:00:00",
+      "streets": "ROCHES TERRE, GRAND GAUBE, GOODLANDS, MAPOU LECLEZIO, MELVILLE",
+      "from": "2024-12-08T08:30:00.000Z",
+      "to": "2024-12-08T09:00:00.000Z",
+      "id": "8d99c06dad6cea5ec6582202190af761"
+    },
+    {
+      "date": "Le dimanche 8 décembre 2024 de  09:00:00 à  10:00:00",
+      "streets": "ROCHES TERRE, GRAND GAUBE ET GOODLANDS",
+      "from": "2024-12-08T05:00:00.000Z",
+      "to": "2024-12-08T06:00:00.000Z",
+      "id": "55027a9a132eac3e61f8901cc00e6f03"
+    },
+    {
+      "date": "Le mercredi 30 octobre 2024 de  09:00:00 à  15:00:00",
+      "streets": "MLLE JEANNE GOODLANDS",
+      "from": "2024-10-30T05:00:00.000Z",
+      "to": "2024-10-30T11:00:00.000Z",
+      "id": "171eaac541b6dc39ec27c65921944374"
+    },
+    {
+      "date": "Le mardi 29 octobre 2024 de  10:00:00 à  13:00:00",
+      "streets": "MLLE JEANNE-PLATEAU RD-MELLVILLE RD GOODLANDS",
+      "from": "2024-10-29T06:00:00.000Z",
+      "to": "2024-10-29T09:00:00.000Z",
+      "id": "4e650b5f686658701d057ac0387849a6"
+    },
+    {
+      "date": "Le lundi 28 octobre 2024 de  10:30:00 à  13:00:00",
+      "streets": "SANTOZA, RAMNAGUR, RAJIV GANDHI, TELEGU TEMPLE ROAD AND SURROUNDINGS",
+      "from": "2024-10-28T06:30:00.000Z",
+      "to": "2024-10-28T09:00:00.000Z",
+      "id": "b59856e921f2e796e8c2703c10333449"
+    },
+    {
+      "date": "Le jeudi 24 octobre 2024 de  12:30:00 à  14:00:00",
+      "streets": "ROYAL ROAD, GALLERIE FOKEERBUX AND SURROUNDINGS",
+      "from": "2024-10-24T08:30:00.000Z",
+      "to": "2024-10-24T10:00:00.000Z",
+      "id": "64fa357d45569ab100962bcb4eec3146"
+    },
+    {
+      "date": "Le mercredi 23 octobre 2024 de  09:00:00 à  12:00:00",
+      "streets": "ARYA MADIR RD-BAHADOOR RD-ROYAL RD GOODLANDS",
+      "from": "2024-10-23T05:00:00.000Z",
+      "to": "2024-10-23T08:00:00.000Z",
+      "id": "8ed3e12c5f8877613a15431d00ba4262"
+    },
+    {
+      "date": "Le samedi 19 octobre 2024 de  08:30:00 à  15:00:00",
+      "streets": "GOODLANDS, DANS LES ENVIRONS CITE ST CLAIR, DREAM PRICE, RUE RAJIV GANDHI, RUE SENTOZA, RUE TEMPLE",
+      "from": "2024-10-19T04:30:00.000Z",
+      "to": "2024-10-19T11:00:00.000Z",
+      "id": "7764665244cac0defbf789a5235f6010"
+    },
+    {
+      "date": "Le lundi 14 octobre 2024 de  09:30:00 à  14:00:00",
+      "streets": "VERGER ROAD, GOODLANDS",
+      "from": "2024-10-14T05:30:00.000Z",
+      "to": "2024-10-14T10:00:00.000Z",
+      "id": "7e29913f392a944b4ebe9de1e89eda26"
+    },
+    {
+      "date": "Le lundi 7 octobre 2024 de  13:35:00 à  14:30:00",
+      "streets": "RAJIV GANDHI ROAD.",
+      "from": "2024-10-07T09:35:00.000Z",
+      "to": "2024-10-07T10:30:00.000Z",
+      "id": "6694493bd669416da44d914618727d40"
+    },
+    {
+      "date": "Le dimanche 6 octobre 2024 de  08:30:00 à  15:00:00",
+      "streets": "BEAU PLATEAU, GOODLANDS, ST ANTOINE AND COTTAGE",
+      "from": "2024-10-06T04:30:00.000Z",
+      "to": "2024-10-06T11:00:00.000Z",
+      "id": "8b7e0e756208afa54c5c0d2330e7a428"
+    },
+    {
+      "date": "Le samedi 5 octobre 2024 de  14:00:00 à  19:00:00",
+      "streets": "MLLE JEANNE GOODLANDS",
+      "from": "2024-10-05T10:00:00.000Z",
+      "to": "2024-10-05T15:00:00.000Z",
+      "id": "4536c4659ca062a0484c818f06c68e82"
+    },
+    {
+      "date": "Le mardi 1 octobre 2024 de  09:30:00 à  14:00:00",
+      "streets": "GOODLANDS",
+      "from": "2024-10-01T05:30:00.000Z",
+      "to": "2024-10-01T10:00:00.000Z",
+      "id": "57fab2627383cf4e359a60983401ad9a"
+    },
+    {
+      "date": "Le samedi 7 septembre 2024 de  08:40:00 à  13:00:00",
+      "streets": "VERGER ROAD, KHEJOO ROAD, RADHA KRISHNA LANE ET LES ALENTOURS",
+      "from": "2024-09-07T04:40:00.000Z",
+      "to": "2024-09-07T09:00:00.000Z",
+      "id": "271e44f41f2808e172500d4e82b02989"
+    },
+    {
+      "date": "Le samedi 17 août 2024 de  08:30:00 à  15:00:00",
+      "streets": "dans les environs de Morc Annath",
+      "from": "2024-08-17T04:30:00.000Z",
+      "to": "2024-08-17T11:00:00.000Z",
+      "id": "0c8b18d5e8af0fc234c6e587d56cefa1"
+    },
+    {
+      "date": "Le lundi 12 août 2024 de  10:30:00 à  13:30:00",
+      "streets": "Morc Anath,Goodlands",
+      "from": "2024-08-12T06:30:00.000Z",
+      "to": "2024-08-12T09:30:00.000Z",
+      "id": "a4b23edce12383d2766f93aa63f6ec20"
+    },
+    {
+      "date": "Le dimanche 11 août 2024 de  08:30:00 à  15:00:00",
+      "streets": "dans les environs de Mapou Leclezio, Zone Industrielle Goodlands, Royal road, JSS Rd, Reservoir road et Bois Rouge",
+      "from": "2024-08-11T04:30:00.000Z",
+      "to": "2024-08-11T11:00:00.000Z",
+      "id": "e09f9e89e5762f2158817a3e6b50754b"
+    },
+    {
+      "date": "Le dimanche 23 juin 2024 de  10:30:00 à  14:30:00",
+      "streets": "CHEMIN BYPASS,RESERVOIR ROAD GOODLANDS",
+      "from": "2024-06-23T06:30:00.000Z",
+      "to": "2024-06-23T10:30:00.000Z",
+      "id": "aae5b806e5dbe1bc655354aff7c0f470"
+    },
+    {
+      "date": "Le vendredi 31 mai 2024 de  13:30:00 à  15:30:00",
+      "streets": "MORC PETIT VILLAGE : KEJOO ROAD ET DANS LE ENVIRONS CENTRE SOCIAL,",
+      "from": "2024-05-31T09:30:00.000Z",
+      "to": "2024-05-31T11:30:00.000Z",
+      "id": "9bb736019cb067a73cc408060d36f4c0"
+    },
+    {
+      "date": "Le vendredi 22 mars 2024 de  08:30:00 à  15:30:00",
+      "streets": "near St Antoine Sugar Estate",
+      "from": "2024-03-22T04:30:00.000Z",
+      "to": "2024-03-22T11:30:00.000Z",
+      "id": "4278f48195c29198ac2aba00984e4145"
+    },
+    {
+      "date": "Le mercredi 20 mars 2024 de  16:30:00 à  17:00:00",
+      "streets": "MADAME AZOR",
+      "from": "2024-03-20T12:30:00.000Z",
+      "to": "2024-03-20T13:00:00.000Z",
+      "id": "686abe47709d03991b9b166f9d4926d7"
+    },
+    {
+      "date": "Le lundi 18 mars 2024 de  16:15:00 à  18:15:00",
+      "streets": "ROYAL ROAD GOODLANDS, WINNERS, ZONE INDUSTRIEL",
+      "from": "2024-03-18T12:15:00.000Z",
+      "to": "2024-03-18T14:15:00.000Z",
+      "id": "5e882480ef1ef87d984ff4a8b39911cb"
+    },
+    {
+      "date": "Le lundi 18 mars 2024 de  16:00:00 à  18:00:00",
+      "streets": "dans les environs de Isalnd Brush, Super U, Domaine du Moulin, Residence St Clair, Atlas rd, Atlas Rd et Pyramid.",
+      "from": "2024-03-18T12:00:00.000Z",
+      "to": "2024-03-18T14:00:00.000Z",
+      "id": "92daa54f1cde8db75aad0f9c810fc0ac"
+    },
+    {
+      "date": "Le jeudi 14 mars 2024 de  11:10:00 à  11:45:00",
+      "streets": "KALIMAYE RD GOODLANDS ET LES ALENTOURS",
+      "from": "2024-03-14T07:10:00.000Z",
+      "to": "2024-03-14T07:45:00.000Z",
+      "id": "f338888e55f4ac57d1421d18535dc3db"
+    },
+    {
+      "date": "Le mardi 20 février 2024 de  08:30:00 à  11:00:00",
+      "streets": "MADAME AZOR -MORC ST ANTOINE GOODLANDS",
+      "from": "2024-02-20T04:30:00.000Z",
+      "to": "2024-02-20T07:00:00.000Z",
+      "id": "9e9e42a51b1d23833b2cad20480f5a5f"
+    },
+    {
+      "date": "Le jeudi 8 février 2024 de  10:00:00 à  11:00:00",
+      "streets": "Goodlands,Pte des Lascars,Poudre Dor VillageIle dAmbre",
+      "from": "2024-02-08T06:00:00.000Z",
+      "to": "2024-02-08T07:00:00.000Z",
+      "id": "1d359f1e07a015e1aa4c35d181ffcf1d"
+    },
+    {
+      "date": "Le jeudi 8 février 2024 de  09:40:00 à  13:00:00",
+      "streets": "Saint-Antoine",
+      "from": "2024-02-08T05:40:00.000Z",
+      "to": "2024-02-08T09:00:00.000Z",
+      "id": "40edd401364cff6182e5845c363b1c24"
+    },
+    {
+      "date": "Le mercredi 7 février 2024 de  11:50:00 à  14:15:00",
+      "streets": "CITE STE CLAIRE",
+      "from": "2024-02-07T07:50:00.000Z",
+      "to": "2024-02-07T10:15:00.000Z",
+      "id": "83beaea306afa1a54a7ed898f5606d5a"
+    },
+    {
+      "date": "Le dimanche 4 février 2024 de  08:30:00 à  15:30:00",
+      "streets": "dans les environs de Mapou leclezio ( Zone Industrielle), Reservoir rd, SSS rd, Bois rouge, Royal rd, Kashmir rd et Tamarinier",
+      "from": "2024-02-04T04:30:00.000Z",
+      "to": "2024-02-04T11:30:00.000Z",
+      "id": "dc7916851a3379f0eb36f60dffd10f6d"
+    },
+    {
+      "date": "Le jeudi 4 janvier 2024 de  14:20:00 à  15:20:00",
+      "streets": "MORC PETIT VILLAGE, SUPER U GOODLANDS ET LE VILLAGE DE POUDRE D OR.",
+      "from": "2024-01-04T10:20:00.000Z",
+      "to": "2024-01-04T11:20:00.000Z",
+      "id": "6f08bdc13dd059498df8d1d5e2d2ccad"
+    },
+    {
+      "date": "Le vendredi 22 décembre 2023 de  16:25:00 à  19:30:00",
+      "streets": "ROYAL ROAD, NEAR ARCADE ELAPEN & TELECOM, CHARLES DIKEN ROAD GOODLANDS",
+      "from": "2023-12-22T12:25:00.000Z",
+      "to": "2023-12-22T15:30:00.000Z",
+      "id": "9133ac361f1fbd3370682e29ddd30f61"
+    },
+    {
+      "date": "Le lundi 11 décembre 2023 de  11:45:00 à  14:15:00",
+      "streets": "WHOLE OF RESERVOIR ROAD AND PART OF ROYAL ROAD NEAR KINGSAVERS.",
+      "from": "2023-12-11T07:45:00.000Z",
+      "to": "2023-12-11T10:15:00.000Z",
+      "id": "36d8299886ca13518fe9780f83874af0"
+    },
+    {
+      "date": "Le samedi 9 décembre 2023 de  08:30:00 à  15:30:00",
+      "streets": "dans les environs de Dreamprice, Friendship College, Sentosa, Cité St Claire, Le Chateau Hall et Morc Poonyth",
+      "from": "2023-12-09T04:30:00.000Z",
+      "to": "2023-12-09T11:30:00.000Z",
+      "id": "088f6bd1fe17f84b0e0f0422faa004bb"
+    },
+    {
+      "date": "Le vendredi 8 décembre 2023 de  06:00:00 à  07:00:00",
+      "streets": "le village de Goodlands",
+      "from": "2023-12-08T02:00:00.000Z",
+      "to": "2023-12-08T03:00:00.000Z",
+      "id": "8983de2b05a0aa80d3bb022e9e603357"
+    },
+    {
+      "date": "Le mardi 5 décembre 2023 de  09:00:00 à  13:00:00",
+      "streets": "dans les environs de Kashmir Road",
+      "from": "2023-12-05T05:00:00.000Z",
+      "to": "2023-12-05T09:00:00.000Z",
+      "id": "cda7ddad3f5cdfdfa7babf886eee7207"
+    },
+    {
+      "date": "Le jeudi 30 novembre 2023 de  20:00:00 à  23:00:00",
+      "streets": "PART OF MORC ST ANTOINE GOODLANDS.",
+      "from": "2023-11-30T16:00:00.000Z",
+      "to": "2023-11-30T19:00:00.000Z",
+      "id": "6e1682b49fd335f045ce7f26b4b2d90c"
+    },
+    {
+      "date": "Le jeudi 30 novembre 2023 de  08:30:00 à  16:30:00",
+      "streets": "Reservoir,Sibani,Verger,Sss,Royal & Bois Rouge Roads",
+      "from": "2023-11-30T04:30:00.000Z",
+      "to": "2023-11-30T12:30:00.000Z",
+      "id": "adfa637fb955f939fe1bb0f01ab6911a"
+    },
+    {
+      "date": "Le samedi 25 novembre 2023 de  08:30:00 à  12:30:00",
+      "streets": "dans les environs de Dream price, Friendship College,Sentosa, Cité St Claire,Le Chateau Hall et Morc Poonyth",
+      "from": "2023-11-25T04:30:00.000Z",
+      "to": "2023-11-25T08:30:00.000Z",
+      "id": "5a578f304b526bac873467748409ee71"
+    },
+    {
+      "date": "Le mercredi 8 novembre 2023 de  13:00:00 à  15:00:00",
+      "streets": "dans les environs de KFC, Ajanta Pharma et NPF Building.",
+      "from": "2023-11-08T09:00:00.000Z",
+      "to": "2023-11-08T11:00:00.000Z",
+      "id": "73ca1df600e96b2ce8051a960779e5cc"
+    },
+    {
+      "date": "Le mardi 7 novembre 2023 de  10:00:00 à  16:30:00",
+      "streets": "DOMAINE DU MOULIN GOODLANDS",
+      "from": "2023-11-07T06:00:00.000Z",
+      "to": "2023-11-07T12:30:00.000Z",
+      "id": "8f9b2305da95efd5cc1c5ebaaea0505d"
+    },
+    {
+      "date": "Le dimanche 5 novembre 2023 de  18:30:00 à  22:30:00",
+      "streets": "ASTORIA ROAD GOODLANDS",
+      "from": "2023-11-05T14:30:00.000Z",
+      "to": "2023-11-05T18:30:00.000Z",
+      "id": "8e4d432a79c9494800e5fb6033ae17df"
+    },
+    {
+      "date": "Le samedi 28 octobre 2023 de  16:45:00 à  17:30:00",
+      "streets": "GOODLANDS/PDOR VILLAGE,POUDRE DOR HAMLET,COTTAGE,LESPERANCE TREBUCHET,ILE DAMBRE",
+      "from": "2023-10-28T12:45:00.000Z",
+      "to": "2023-10-28T13:30:00.000Z",
+      "id": "e08a0a84f9ee40f7137fac17295823da"
+    },
+    {
+      "date": "Le dimanche 22 octobre 2023 de  08:30:00 à  15:30:00",
+      "streets": "dans les environs de Domaine du Moulin, Royal Road, New Morc, Sentosa Road, Bank Road, Telegu Temple Rd et Cité St Claire",
+      "from": "2023-10-22T04:30:00.000Z",
+      "to": "2023-10-22T11:30:00.000Z",
+      "id": "bc7a5561ec5abbd07a15a7b136d0d44c"
+    },
+    {
+      "date": "Le vendredi 20 octobre 2023 de  10:00:00 à  12:00:00",
+      "streets": "RAMRUTAL ROAD, SANA ROAD, RESERVOIR ROAD",
+      "from": "2023-10-20T06:00:00.000Z",
+      "to": "2023-10-20T08:00:00.000Z",
+      "id": "51328239ff210e57347b142e586b7648"
+    },
+    {
+      "date": "Le jeudi 19 octobre 2023 de  12:15:00 à  13:30:00",
+      "streets": "NEW MORC,MEDICLINIC",
+      "from": "2023-10-19T08:15:00.000Z",
+      "to": "2023-10-19T09:30:00.000Z",
+      "id": "4458c2e4f12005bac3ed69625513b0c9"
+    },
+    {
+      "date": "Le jeudi 19 octobre 2023 de  10:30:00 à  12:00:00",
+      "streets": "BALKAN RD VERS BAHADOOR RD",
+      "from": "2023-10-19T06:30:00.000Z",
+      "to": "2023-10-19T08:00:00.000Z",
+      "id": "5eb7b1a5ae1e7190150679a16178bd88"
+    },
+    {
+      "date": "Le lundi 16 octobre 2023 de  13:15:00 à  15:30:00",
+      "streets": "BOIS ROUGE GOODLANDS DANS LES ENVIRONS DE LECOLE BOIS ROUGE ET ASTORIA ROAD",
+      "from": "2023-10-16T09:15:00.000Z",
+      "to": "2023-10-16T11:30:00.000Z",
+      "id": "1e175543be73021c726f149f4c67cf00"
+    },
+    {
+      "date": "Le vendredi 13 octobre 2023 de  14:45:00 à  17:00:00",
+      "streets": "KINGS ROAD",
+      "from": "2023-10-13T10:45:00.000Z",
+      "to": "2023-10-13T13:00:00.000Z",
+      "id": "4da1a0a0e4004ecdaf3fc8a325ad560d"
+    },
+    {
+      "date": "Le vendredi 6 octobre 2023 de  18:00:00 à  19:30:00",
+      "streets": "LES ABONEES DE GOODLANDS, PETIT RAFFRAY ET GRAND GAUBE",
+      "from": "2023-10-06T14:00:00.000Z",
+      "to": "2023-10-06T15:30:00.000Z",
+      "id": "14f8a3563228205446595939811056e2"
+    },
+    {
+      "date": "Le dimanche 1 octobre 2023 de  08:30:00 à  15:30:00",
+      "streets": "dans les environs de Domaine du Moulin, Cité St Clair, Sentosa, Royal Road et Winners",
+      "from": "2023-10-01T04:30:00.000Z",
+      "to": "2023-10-01T11:30:00.000Z",
+      "id": "9432f6e514a49249392652a3573b0864"
+    },
+    {
+      "date": "Le mercredi 13 septembre 2023 de  06:00:00 à  07:00:00",
+      "streets": "dans les environs de Domaine du Moulin, St Claire et Royal Road, Sentosa",
+      "from": "2023-09-13T02:00:00.000Z",
+      "to": "2023-09-13T03:00:00.000Z",
+      "id": "eac5c265ee68c45f1dccd3fa902c963f"
+    },
+    {
+      "date": "Le samedi 9 septembre 2023 de  08:30:00 à  15:30:00",
+      "streets": "dans les environs de Domaine Du Moulin",
+      "from": "2023-09-09T04:30:00.000Z",
+      "to": "2023-09-09T11:30:00.000Z",
+      "id": "785bc17cc8796504f7c23557e54f0b0d"
+    },
+    {
+      "date": "Le samedi 19 août 2023 de  10:00:00 à  15:00:00",
+      "streets": "DANS LES ENVIRONS DE DOMAINE DU MOULIN",
+      "from": "2023-08-19T06:00:00.000Z",
+      "to": "2023-08-19T11:00:00.000Z",
+      "id": "1992a9653a71d0a1d6dee3d5cbbf3132"
+    },
+    {
+      "date": "Le samedi 15 juillet 2023 de  09:45:00 à  12:00:00",
+      "streets": "UNE PARTIE DE DOMAINE DU MOULIN GOODLANDS.",
+      "from": "2023-07-15T05:45:00.000Z",
+      "to": "2023-07-15T08:00:00.000Z",
+      "id": "0e1d1f76e8f70dffd70e2f8e9fa6ee2d"
+    },
+    {
+      "date": "Le samedi 15 juillet 2023 de  08:30:00 à  15:30:00",
+      "streets": "dans les environs de Domaine Du Moulins",
+      "from": "2023-07-15T04:30:00.000Z",
+      "to": "2023-07-15T11:30:00.000Z",
+      "id": "b8465bbd935fd3c618299945ddfc35e9"
+    },
+    {
+      "date": "Le dimanche 25 juin 2023 de  08:00:00 à  11:00:00",
+      "streets": "dans les environs de Mlle Jeanne, Mme Azor et Morc Petit Village",
+      "from": "2023-06-25T04:00:00.000Z",
+      "to": "2023-06-25T07:00:00.000Z",
+      "id": "6024dff91a021aaa907842707a9d6579"
+    },
+    {
+      "date": "Le mercredi 7 juin 2023 de  12:00:00 à  14:00:00",
+      "streets": "near Winners",
+      "from": "2023-06-07T08:00:00.000Z",
+      "to": "2023-06-07T10:00:00.000Z",
+      "id": "e0a032731d0894575c0c542a0a1e2a87"
+    },
+    {
+      "date": "Le lundi 5 juin 2023 de  17:00:00 à  19:00:00",
+      "streets": "GOODLANDS,POUDRE DOR VILLAGE,POUDRE DOR HAMLET.COTTAGE,ESPERANCE TREBUCHET",
+      "from": "2023-06-05T13:00:00.000Z",
+      "to": "2023-06-05T15:00:00.000Z",
+      "id": "d25ea116280d8d1d432e40f85778bfcd"
+    },
+    {
+      "date": "Le dimanche 21 mai 2023 de  08:30:00 à  15:30:00",
+      "streets": "dans les environs de St Antoine, Beau Plateau et Royal Road Goodlands",
+      "from": "2023-05-21T04:30:00.000Z",
+      "to": "2023-05-21T11:30:00.000Z",
+      "id": "6814e7820f3e6fa48fea233c221b0852"
+    },
+    {
+      "date": "Le vendredi 5 mai 2023 de  14:30:00 à  17:00:00",
+      "streets": "Domaine du Moulin,Goodlands",
+      "from": "2023-05-05T10:30:00.000Z",
+      "to": "2023-05-05T13:00:00.000Z",
+      "id": "3e061e9455ef40fda344b33eb5be8cae"
+    },
+    {
+      "date": "Le dimanche 30 avril 2023 de  08:00:00 à  09:00:00",
+      "streets": "dans les environs de Mapou Leclezio, Mlle Jeanne, Mme Azor, St Antoine, Morc Petit Village et Roche Terre",
+      "from": "2023-04-30T04:00:00.000Z",
+      "to": "2023-04-30T05:00:00.000Z",
+      "id": "730140ff8b5d5d2e43c25e2afd957877"
+    },
+    {
+      "date": "Le lundi 24 avril 2023 de  13:00:00 à  15:00:00",
+      "streets": "DOMAINE DU MOULIN",
+      "from": "2023-04-24T09:00:00.000Z",
+      "to": "2023-04-24T11:00:00.000Z",
+      "id": "19d4eda06c3c480fe06fbea02d9e7984"
+    },
+    {
+      "date": "Le mercredi 19 avril 2023 de  12:30:00 à  14:30:00",
+      "streets": "dans les environs du Route Royale, St Antoine, Domaine Du Moulin, Morc Petit Village et Mlle Jeanne",
+      "from": "2023-04-19T08:30:00.000Z",
+      "to": "2023-04-19T10:30:00.000Z",
+      "id": "5707a4ab4a5d6fcba5c9bb323ad5218a"
+    },
+    {
+      "date": "Le mercredi 19 avril 2023 de  12:00:00 à  13:00:00",
+      "streets": "BEAU PLATEAU-MORC ST ANTOINE-ROYAL RD GOODLANDS",
+      "from": "2023-04-19T08:00:00.000Z",
+      "to": "2023-04-19T09:00:00.000Z",
+      "id": "08205d2cf3af0c23724991a77383aea5"
+    },
+    {
+      "date": "Le jeudi 13 avril 2023 de  17:30:00 à  18:30:00",
+      "streets": "LA REGION DE GOODLANDS.",
+      "from": "2023-04-13T13:30:00.000Z",
+      "to": "2023-04-13T14:30:00.000Z",
+      "id": "dd52dbcda08e8f8e63d59f0e4b96d626"
+    },
+    {
+      "date": "Le mercredi 12 avril 2023 de  12:30:00 à  16:00:00",
+      "streets": "DOMAINE DU MOULIN",
+      "from": "2023-04-12T08:30:00.000Z",
+      "to": "2023-04-12T12:00:00.000Z",
+      "id": "5452bab9ec465ab485ecbb349f7b5776"
+    },
+    {
+      "date": "Le jeudi 16 mars 2023 de  15:00:00 à  18:00:00",
+      "streets": "dans les environs de Toorabally Road, Res Molinea, St Antoine, Morc Petit Village, Mlle Jeanne et Plateau Road",
+      "from": "2023-03-16T11:00:00.000Z",
+      "to": "2023-03-16T14:00:00.000Z",
+      "id": "93e823040c1f61a700bfaf020568b25a"
+    },
+    {
+      "date": "Le mercredi 22 février 2023 de  09:00:00 à  12:30:00",
+      "streets": "MORC PETIT VILLAGE",
+      "from": "2023-02-22T05:00:00.000Z",
+      "to": "2023-02-22T08:30:00.000Z",
+      "id": "080c5d4cf3e5cbd13089e17081f70874"
+    },
+    {
+      "date": "Le mardi 14 février 2023 de  12:30:00 à  14:30:00",
+      "streets": "LES ABONNES DE POINTE DES LASCARS",
+      "from": "2023-02-14T08:30:00.000Z",
+      "to": "2023-02-14T10:30:00.000Z",
+      "id": "cc2255b65cc45c705e4516ad610f5e7c"
+    },
+    {
+      "date": "Le lundi 30 janvier 2023 de  16:00:00 à  17:00:00",
+      "streets": "LES ABONNES DE GOODLANDS",
+      "from": "2023-01-30T12:00:00.000Z",
+      "to": "2023-01-30T13:00:00.000Z",
+      "id": "d1d132203d0b513a8f54202f9efdc818"
+    },
+    {
+      "date": "Le dimanche 29 janvier 2023 de  08:30:00 à  15:00:00",
+      "streets": "CHEMIN BYPASS,RESERVOIR ROAD GOODLANDS",
+      "from": "2023-01-29T04:30:00.000Z",
+      "to": "2023-01-29T11:00:00.000Z",
+      "id": "5288526e64ee35dcde9c507ce245b7da"
+    },
+    {
+      "date": "Le mercredi 21 décembre 2022 de  10:30:00 à  12:00:00",
+      "streets": "ROYAL RD GOODLANDS NR SBM",
+      "from": "2022-12-21T06:30:00.000Z",
+      "to": "2022-12-21T08:00:00.000Z",
+      "id": "f297370b6f8b2f4f1a05ca11f44060ee"
+    },
+    {
+      "date": "Le dimanche 27 novembre 2022 de  07:00:00 à  15:00:00",
+      "streets": "MORC ST ANTOINE PHASE 1,2,3MAMZELLE JEANNE, MADAME AZOR, ST ANTOINE COMPOUND, MORC PETIT VILLAGE, PAVE RD ET TRIANGLE RD GOODLANDS",
+      "from": "2022-11-27T03:00:00.000Z",
+      "to": "2022-11-27T11:00:00.000Z",
+      "id": "2350259abfb64d44daa157cd70fefaf7"
+    },
+    {
+      "date": "Le samedi 19 novembre 2022 de  09:00:00 à  15:30:00",
+      "streets": "Une partie de Route Royale et Cite St Clair",
+      "from": "2022-11-19T05:00:00.000Z",
+      "to": "2022-11-19T11:30:00.000Z",
+      "id": "1030dbcefba78156121023babea622e2"
+    },
+    {
+      "date": "Le mardi 15 novembre 2022 de  11:30:00 à  13:30:00",
+      "streets": "DOMAINE DU MOULIN",
+      "from": "2022-11-15T07:30:00.000Z",
+      "to": "2022-11-15T09:30:00.000Z",
+      "id": "03c48adb3363bd1e59e8c94a8677d2fd"
+    },
+    {
+      "date": "Le lundi 14 novembre 2022 de  15:30:00 à  18:00:00",
+      "streets": "SENTOSA ROAD GOODLANDS",
+      "from": "2022-11-14T11:30:00.000Z",
+      "to": "2022-11-14T14:00:00.000Z",
+      "id": "e7204cd704cff70cd727838ba2306418"
+    },
+    {
+      "date": "Le mardi 4 octobre 2022 de  13:00:00 à  14:30:00",
+      "streets": "BY PASS GOODLANDS",
+      "from": "2022-10-04T09:00:00.000Z",
+      "to": "2022-10-04T10:30:00.000Z",
+      "id": "b103058fc7e7c60ca30fd1b97df9f0f7"
+    },
+    {
+      "date": "Le dimanche 11 septembre 2022 de  08:30:00 à  15:30:00",
+      "streets": "dans les environs de Mapou Leclezio, Route Royale (SSS Jagdambi), Reservoir road, Zone Industrielle Belin et Morc Tamarinier - Route Royale- Roche Terre",
+      "from": "2022-09-11T04:30:00.000Z",
+      "to": "2022-09-11T11:30:00.000Z",
+      "id": "e4be2ac67c79be43177657191b9f6311"
+    },
+    {
+      "date": "Le samedi 6 août 2022 de  08:30:00 à  16:00:00",
+      "streets": "RESDENCE LE VIEUX TAMARINIER,ZONE INDUSTRIELLE",
+      "from": "2022-08-06T04:30:00.000Z",
+      "to": "2022-08-06T12:00:00.000Z",
+      "id": "c3ab100bcafe7311d47ef72d389ca1c0"
+    },
+    {
+      "date": "Le dimanche 31 juillet 2022 de  08:30:00 à  17:00:00",
+      "streets": "NEW MORC ET ENVIRONS",
+      "from": "2022-07-31T04:30:00.000Z",
+      "to": "2022-07-31T13:00:00.000Z",
+      "id": "1784102eb623556cdc6af3174317f7e4"
+    },
+    {
+      "date": "Le vendredi 22 juillet 2022 de  08:30:00 à  17:00:00",
+      "streets": "dans les environs de Telegu temple rd, Cite st Claire, Charles Dickens rd et sentoza rd",
+      "from": "2022-07-22T04:30:00.000Z",
+      "to": "2022-07-22T13:00:00.000Z",
+      "id": "e7e07a6daf1cf6e07e01d147dfac2255"
+    },
+    {
+      "date": "Le lundi 18 juillet 2022 de  11:00:00 à  13:00:00",
+      "streets": "ARYA MANDIR RD GOODLANDS",
+      "from": "2022-07-18T07:00:00.000Z",
+      "to": "2022-07-18T09:00:00.000Z",
+      "id": "5ec89f94b45d1fd502c38865d0c5811f"
+    },
+    {
+      "date": "Le jeudi 30 juin 2022 de  08:30:00 à  14:00:00",
+      "streets": "dans les environs de Morc Petit Village",
+      "from": "2022-06-30T04:30:00.000Z",
+      "to": "2022-06-30T10:00:00.000Z",
+      "id": "77796c4a301fdc63c98767fa12ca71bf"
+    },
+    {
+      "date": "Le vendredi 3 juin 2022 de  08:30:00 à  15:00:00",
+      "streets": "Mamzelle Jeanne, et les environs lecole govt Kanye",
+      "from": "2022-06-03T04:30:00.000Z",
+      "to": "2022-06-03T11:00:00.000Z",
+      "id": "f08c79465fdab79343d8592634837926"
+    },
+    {
+      "date": "Le dimanche 27 mars 2022 de  08:30:00 à  15:30:00",
+      "streets": "dans les environs de Mapou Leclezio, Reservoir road,Firemount, Route Royale, Toorabally lane, St Antoine, Morc Petit Village, Mlle Jeanne et Morc Vieux Tamarinier",
+      "from": "2022-03-27T04:30:00.000Z",
+      "to": "2022-03-27T11:30:00.000Z",
+      "id": "917df0249b0e50e5b1a62deb76ca75eb"
+    }
+  ]
+}

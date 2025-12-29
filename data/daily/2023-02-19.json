@@ -1,0 +1,48 @@
+{
+  "date": "2023-02-19",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.374Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le dimanche 19 février 2023 de  09:30:00 à  14:30:00",
+      "locality": "VILLENOIRE",
+      "localitySlug": "villenoire",
+      "streets": "Morcellement Blue Print Ville Noire",
+      "district": "grandport",
+      "from": "2023-02-19T05:30:00.000Z",
+      "to": "2023-02-19T10:30:00.000Z",
+      "id": "2edb5b688992f7cba0e2c192f0042a0a"
+    },
+    {
+      "date": "Le dimanche 19 février 2023 de  08:15:00 à  16:00:00",
+      "locality": "SAINT PAUL",
+      "localitySlug": "saint-paul",
+      "streets": "ST PAUL AND CASTEL:Dhuny Lane No. 1 et No. 2, Kullichurn Lane, Ameerally Lane, Goolzar Lane, Lalloo Lane, Sonah Lane, CTR Lane, Ally Lane, une partie de Parisot Branch Road, Rabindranath Tagore Avenue, Impasse Ramjaun, Banarally Lane",
+      "district": "plainewilhems",
+      "from": "2023-02-19T04:15:00.000Z",
+      "to": "2023-02-19T12:00:00.000Z",
+      "id": "964b72d6a34ee79f7ff152d8a7b02b4b"
+    },
+    {
+      "date": "Le dimanche 19 février 2023 de  16:50:00 à  18:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "DR REID,VUILLEMIN",
+      "district": "plainewilhems",
+      "from": "2023-02-19T12:50:00.000Z",
+      "to": "2023-02-19T14:00:00.000Z",
+      "id": "b8afb0b37ae8aa4fcbcaafc9e2fda71e"
+    },
+    {
+      "date": "Le dimanche 19 février 2023 de  15:30:00 à  17:00:00",
+      "locality": "LE HOCHET",
+      "localitySlug": "le-hochet",
+      "streets": "DHANUSH LANE AND NEARBY REGION",
+      "district": "portlouis",
+      "from": "2023-02-19T11:30:00.000Z",
+      "to": "2023-02-19T13:00:00.000Z",
+      "id": "52718a3d76c13741c50f0d04af9b97bb"
+    }
+  ]
+}

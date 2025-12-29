@@ -1,0 +1,28 @@
+{
+  "date": "2023-08-17",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.387Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le jeudi 17 août 2023 de  15:00:00 à  17:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Route Allée-Jacques, une partie de Route Saint-Paul Vacoas",
+      "district": "plainewilhems",
+      "from": "2023-08-17T11:00:00.000Z",
+      "to": "2023-08-17T13:00:00.000Z",
+      "id": "d8df7ddcea1a68087b0cad22e85dedff"
+    },
+    {
+      "date": "Le jeudi 17 août 2023 de  08:30:00 à  14:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "dans les environs de Lennard Street et Kapu Kai",
+      "district": "rivieredurempart",
+      "from": "2023-08-17T04:30:00.000Z",
+      "to": "2023-08-17T10:00:00.000Z",
+      "id": "492199bfa6cd9d86d49e4ff0ad54c2c3"
+    }
+  ]
+}

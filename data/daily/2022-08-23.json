@@ -1,0 +1,48 @@
+{
+  "date": "2022-08-23",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.361Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mardi 23 août 2022 de  11:30:00 à  13:00:00",
+      "locality": "PETIT SABLE",
+      "localitySlug": "petit-sable",
+      "streets": "PETIT SABLE",
+      "district": "grandport",
+      "from": "2022-08-23T07:30:00.000Z",
+      "to": "2022-08-23T09:00:00.000Z",
+      "id": "d436be09d9fb06ac2fbcb98420f24967"
+    },
+    {
+      "date": "Le mardi 23 août 2022 de  09:30:00 à  15:30:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "RUGHOOPUTH LANE, JEEWOONARAIN LANE AND PART MAIN ROAD (NEAR DREAM PRICE)",
+      "district": "plainewilhems",
+      "from": "2022-08-23T05:30:00.000Z",
+      "to": "2022-08-23T11:30:00.000Z",
+      "id": "77a9719869326bd355f8fc76d532ede2"
+    },
+    {
+      "date": "Le mardi 23 août 2022 de  10:00:00 à  12:00:00",
+      "locality": "BAIE DU CAP",
+      "localitySlug": "baie-du-cap",
+      "streets": "BAIE DU CAP",
+      "district": "savanne",
+      "from": "2022-08-23T06:00:00.000Z",
+      "to": "2022-08-23T08:00:00.000Z",
+      "id": "89624c895e854530de37e89b916f199f"
+    },
+    {
+      "date": "Le mardi 23 août 2022 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "RIVIERE BANANES",
+      "district": "rodrigues",
+      "from": "2022-08-23T04:30:00.000Z",
+      "to": "2022-08-23T11:00:00.000Z",
+      "id": "26b23a0857b5ef2c1b5a6f793baffada"
+    }
+  ]
+}

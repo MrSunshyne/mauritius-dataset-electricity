@@ -1,0 +1,48 @@
+{
+  "date": "2025-04-17",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.433Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le jeudi 17 avril 2025 de  09:00:00 à  17:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Celicourt Antelme, Murray, en partie Ave Ollier et les environs",
+      "district": "plainewilhems",
+      "from": "2025-04-17T05:00:00.000Z",
+      "to": "2025-04-17T13:00:00.000Z",
+      "id": "edc007e04aad40ef7bb967b9d0e5bb0c"
+    },
+    {
+      "date": "Le jeudi 17 avril 2025 de  08:30:00 à  15:30:00",
+      "locality": "ANSE LA RAIE",
+      "localitySlug": "anse-la-raie",
+      "streets": "REGION ENTIERE ANSE LA RAIE",
+      "district": "rivieredurempart",
+      "from": "2025-04-17T04:30:00.000Z",
+      "to": "2025-04-17T11:30:00.000Z",
+      "id": "a0b9a0527aadfac5762a61610a0b5930"
+    },
+    {
+      "date": "Le jeudi 17 avril 2025 de  08:30:00 à  15:30:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "MON MASCAL PETIT RAFFRAY",
+      "district": "rivieredurempart",
+      "from": "2025-04-17T04:30:00.000Z",
+      "to": "2025-04-17T11:30:00.000Z",
+      "id": "b8c17792d6fb6e1ac39c63c4d24b56c8"
+    },
+    {
+      "date": "Le jeudi 17 avril 2025 de  08:30:00 à  15:30:00",
+      "locality": "CAP MALHEUREUX",
+      "localitySlug": "cap-malheureux",
+      "streets": "20 PIED ROAD, CAP MALHEUREUX, PAVILLION",
+      "district": "rivieredurempart",
+      "from": "2025-04-17T04:30:00.000Z",
+      "to": "2025-04-17T11:30:00.000Z",
+      "id": "462ff7bdf31ba75e58f00a0a14ff5b01"
+    }
+  ]
+}

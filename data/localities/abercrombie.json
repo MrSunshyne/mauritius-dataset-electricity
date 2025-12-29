@@ -1,0 +1,25 @@
+{
+  "slug": "abercrombie",
+  "name": "ABERCROMBIE",
+  "district": "portlouis",
+  "generated": "2025-12-29T20:21:02.462Z",
+  "outageCount": 2,
+  "firstOutage": "2025-07-20",
+  "lastOutage": "2025-09-01",
+  "outages": [
+    {
+      "date": "Le lundi 1 septembre 2025 de  15:00:00 à  16:00:00",
+      "streets": "MARKET ABERCROMBIE, FOOTBALL GROUND AND SURROUNDINGS",
+      "from": "2025-09-01T11:00:00.000Z",
+      "to": "2025-09-01T12:00:00.000Z",
+      "id": "9c0cc7743d022e96efbd322d347bd09d"
+    },
+    {
+      "date": "Le dimanche 20 juillet 2025 de  08:30:00 à  15:30:00",
+      "streets": "DANS LES ENVIRONS DES RUES LÓISEAU,CANAL BATHURST,SAINTE MARIE,HIGGINSON,A LEUNG PEW, LOUIS BAUDOT,MAMZELLE,LATANIERS ET ROSES",
+      "from": "2025-07-20T04:30:00.000Z",
+      "to": "2025-07-20T11:30:00.000Z",
+      "id": "88042da3c7245bd6f65831b42210d375"
+    }
+  ]
+}

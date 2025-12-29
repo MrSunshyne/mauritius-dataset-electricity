@@ -1,0 +1,48 @@
+{
+  "date": "2022-11-22",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.367Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mardi 22 novembre 2022 de  08:30:00 à  16:30:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "MORC RAMDANEE",
+      "district": "blackriver",
+      "from": "2022-11-22T04:30:00.000Z",
+      "to": "2022-11-22T12:30:00.000Z",
+      "id": "8bd99eef95871ae7d2b1d2a6f091a565"
+    },
+    {
+      "date": "Le mardi 22 novembre 2022 de  15:15:00 à  17:15:00",
+      "locality": "LE BOUCHON",
+      "localitySlug": "le-bouchon",
+      "streets": "LA CHAPELLE",
+      "district": "grandport",
+      "from": "2022-11-22T11:15:00.000Z",
+      "to": "2022-11-22T13:15:00.000Z",
+      "id": "aa97fe4c88847bd2c762edf5bcbcc71f"
+    },
+    {
+      "date": "Le mardi 22 novembre 2022 de  19:30:00 à  21:30:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "MAHEBOURG",
+      "district": "grandport",
+      "from": "2022-11-22T15:30:00.000Z",
+      "to": "2022-11-22T17:30:00.000Z",
+      "id": "f4555642e504e2848ea2b9fece30f980"
+    },
+    {
+      "date": "Le mardi 22 novembre 2022 de  05:15:00 à  07:00:00",
+      "locality": "ROCHE TERRE",
+      "localitySlug": "roche-terre",
+      "streets": "WHOLE REGION",
+      "district": "rivieredurempart",
+      "from": "2022-11-22T01:15:00.000Z",
+      "to": "2022-11-22T03:00:00.000Z",
+      "id": "aa7f1abc30df47cd0af06fb6b6fc969a"
+    }
+  ]
+}

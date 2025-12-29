@@ -1,0 +1,38 @@
+{
+  "date": "2023-08-08",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.386Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mardi 8 août 2023 de  08:30:00 à  16:30:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "Morc Belle Vue, Ave Capitaine, Ave Decombres et les environs",
+      "district": "blackriver",
+      "from": "2023-08-08T04:30:00.000Z",
+      "to": "2023-08-08T12:30:00.000Z",
+      "id": "74d21fdf17b3922912f9179611075e13"
+    },
+    {
+      "date": "Le mardi 8 août 2023 de  08:00:00 à  15:00:00",
+      "locality": "SOLITUDE",
+      "localitySlug": "solitude",
+      "streets": "Morcellement Neehoo Solitude et les alentours",
+      "district": "pamplemousses",
+      "from": "2023-08-08T04:00:00.000Z",
+      "to": "2023-08-08T11:00:00.000Z",
+      "id": "e8b42aef97925f35a1d4b00ef9e83d3c"
+    },
+    {
+      "date": "Le mardi 8 août 2023 de  14:00:00 à  15:00:00",
+      "locality": "ESPERANCE TREBUCHET",
+      "localitySlug": "esperance-trebuchet",
+      "streets": "DANS LES ENVIRONS DES RUES MME BARBE, ANAND,RAJA, DIAGONAL ET SCHOOL LANE",
+      "district": "rivieredurempart",
+      "from": "2023-08-08T10:00:00.000Z",
+      "to": "2023-08-08T11:00:00.000Z",
+      "id": "e7160b1dc24a337663b6b0eca2738a8d"
+    }
+  ]
+}

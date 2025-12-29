@@ -1,0 +1,38 @@
+{
+  "date": "2022-06-10",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.356Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le vendredi 10 juin 2022 de  09:00:00 à  11:00:00",
+      "locality": "VILLENOIRE",
+      "localitySlug": "villenoire",
+      "streets": "MORC RUISSEAU DELICE VILLENOIRE",
+      "district": "grandport",
+      "from": "2022-06-10T05:00:00.000Z",
+      "to": "2022-06-10T07:00:00.000Z",
+      "id": "2d69c4f1836d3d9f9b56d293f51c27e6"
+    },
+    {
+      "date": "Le vendredi 10 juin 2022 de  09:00:00 à  10:00:00",
+      "locality": "MIDLANDS",
+      "localitySlug": "midlands",
+      "streets": "Les abonnés du Village de Midlands et 16eme Mile, Forest-Side habitant les rues et les régions suivantes : Village de Midlands, Coriolis Road, Morcellement Soobanee et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-06-10T05:00:00.000Z",
+      "to": "2022-06-10T06:00:00.000Z",
+      "id": "c4b9bff50f63064d20fdd87aa8a5cfea"
+    },
+    {
+      "date": "Le vendredi 10 juin 2022 de  09:00:00 à  14:00:00",
+      "locality": "CAMP DIABLE",
+      "localitySlug": "camp-diable",
+      "streets": "CHEMIN VILLAGE HALL CAMP DIABLE",
+      "district": "savanne",
+      "from": "2022-06-10T05:00:00.000Z",
+      "to": "2022-06-10T10:00:00.000Z",
+      "id": "38f42e2669224f0a738022b899fd4a04"
+    }
+  ]
+}

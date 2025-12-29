@@ -1,0 +1,68 @@
+{
+  "date": "2022-04-21",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.353Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le jeudi 21 avril 2022 de  08:30:00 à  16:00:00",
+      "locality": "QUEEN VICTORIA",
+      "localitySlug": "queen-victoria",
+      "streets": "Les abonnés habitant à Queen Victoria et CWA Bramsthan",
+      "district": "flacq",
+      "from": "2022-04-21T04:30:00.000Z",
+      "to": "2022-04-21T12:00:00.000Z",
+      "id": "8f2b05270863e98183f42d0354130c06"
+    },
+    {
+      "date": "Le jeudi 21 avril 2022 de  09:00:00 à  17:00:00",
+      "locality": "GROS BILLOT",
+      "localitySlug": "gros-billot",
+      "streets": "NHDC Gros Billot, Link Road La Rosa & Residence Le Bosquet New Grove",
+      "district": "grandport",
+      "from": "2022-04-21T05:00:00.000Z",
+      "to": "2022-04-21T13:00:00.000Z",
+      "id": "b1d990ff2f1e5378883f05c5dd454f44"
+    },
+    {
+      "date": "Le jeudi 21 avril 2022 de  09:30:00 à  12:00:00",
+      "locality": "BALISSON",
+      "localitySlug": "balisson",
+      "streets": "Ramjeet Lane Balisson et Résidence Mon Rose Balisson",
+      "district": "grandport",
+      "from": "2022-04-21T05:30:00.000Z",
+      "to": "2022-04-21T08:00:00.000Z",
+      "id": "8c6562821de56b3f963139b327958a0a"
+    },
+    {
+      "date": "Le jeudi 21 avril 2022 de  08:30:00 à  16:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Mudaliar Road, Avenue Wilson, Morc Sauba, Granum Road, une partie de Route Sadally, Morcellement Residential, Route Prudent, CHA Sadally, une partie de Route Allee Brillant, Mootoo Lane",
+      "district": "plainewilhems",
+      "from": "2022-04-21T04:30:00.000Z",
+      "to": "2022-04-21T12:00:00.000Z",
+      "id": "1c3531cac2a28547edd2e72f9a4b55c6"
+    },
+    {
+      "date": "Le jeudi 21 avril 2022 de  08:30:00 à  14:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "DANS LES ENVIRONS DES AVENUES AZALLEES, CERISIERS, TOLSTOI ET NARCISSES",
+      "district": "portlouis",
+      "from": "2022-04-21T04:30:00.000Z",
+      "to": "2022-04-21T10:00:00.000Z",
+      "id": "ab0f8e336723daf429c49884c06dbef5"
+    },
+    {
+      "date": "Le jeudi 21 avril 2022 de  09:00:00 à  15:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "Grand Bay dans les enviro..s de Morc Geranium",
+      "district": "rivieredurempart",
+      "from": "2022-04-21T05:00:00.000Z",
+      "to": "2022-04-21T11:00:00.000Z",
+      "id": "55810d88926aaec1e875e07d89a87d75"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "2023-12-20",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.396Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le mercredi 20 décembre 2023 de  09:30:00 à  17:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "Villa Caroline Road, Loday Lane, Ave Debarcadère et une partie de Flic en Flac Road",
+      "district": "blackriver",
+      "from": "2023-12-20T05:30:00.000Z",
+      "to": "2023-12-20T13:30:00.000Z",
+      "id": "f5d487f7329cb31b46b171a46dfbc5c6"
+    },
+    {
+      "date": "Le mercredi 20 décembre 2023 de  08:30:00 à  12:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "Cite La Ferme habitant dans les environs de Nehru Lane, Jagan Lane et Kourabawa Lane",
+      "district": "blackriver",
+      "from": "2023-12-20T04:30:00.000Z",
+      "to": "2023-12-20T08:30:00.000Z",
+      "id": "4f7ab985ffb156b985a28bd03ee6d961"
+    },
+    {
+      "date": "Le mercredi 20 décembre 2023 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "Morc  Safeland  habitant dans les environs de L’Ave Kestrel, Ave des Cygognes, Ave Radar et Ave des Nenuphares",
+      "district": "blackriver",
+      "from": "2023-12-20T04:30:00.000Z",
+      "to": "2023-12-20T11:30:00.000Z",
+      "id": "c894ac72ca3d81e09d3e37564ec9b5a9"
+    },
+    {
+      "date": "Le mercredi 20 décembre 2023 de  15:10:00 à  16:30:00",
+      "locality": "BAR LE DUC",
+      "localitySlug": "bar-le-duc",
+      "streets": "BAR LE DUC",
+      "district": "moka",
+      "from": "2023-12-20T11:10:00.000Z",
+      "to": "2023-12-20T12:30:00.000Z",
+      "id": "a4cd41ff8de802130df50be13fc7e466"
+    },
+    {
+      "date": "Le mercredi 20 décembre 2023 de  13:45:00 à  15:00:00",
+      "locality": "MOUNT",
+      "localitySlug": "mount",
+      "streets": "MORC VRS MOUNT",
+      "district": "pamplemousses",
+      "from": "2023-12-20T09:45:00.000Z",
+      "to": "2023-12-20T11:00:00.000Z",
+      "id": "f671b1765a990d98102b39bae877db59"
+    },
+    {
+      "date": "Le mercredi 20 décembre 2023 de  16:30:00 à  17:30:00",
+      "locality": "HERMITAGE PHOENIX",
+      "localitySlug": "hermitage-phoenix",
+      "streets": "HERMITAGE,CAMP FOUQUEREAUX,BELLE RIVE,TOUT COURT,CINQ ARPENTS",
+      "district": "plainewilhems",
+      "from": "2023-12-20T12:30:00.000Z",
+      "to": "2023-12-20T13:30:00.000Z",
+      "id": "4fdcef06ab7f550dfae0b0c8b94e4761"
+    },
+    {
+      "date": "Le mercredi 20 décembre 2023 de  20:40:00 à  22:40:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "MACHINE ST,FELICO ST,CASQUETTE ST",
+      "district": "plainewilhems",
+      "from": "2023-12-20T16:40:00.000Z",
+      "to": "2023-12-20T18:40:00.000Z",
+      "id": "66e051a792622a3c44f3110d9390bc7b"
+    }
+  ]
+}

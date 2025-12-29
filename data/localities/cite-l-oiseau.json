@@ -1,0 +1,32 @@
+{
+  "slug": "cite-l-oiseau",
+  "name": "CITE L-OISEAU",
+  "district": "plainewilhems",
+  "generated": "2025-12-29T20:21:02.565Z",
+  "outageCount": 3,
+  "firstOutage": "2022-06-02",
+  "lastOutage": "2025-08-27",
+  "outages": [
+    {
+      "date": "Le mercredi 27 août 2025 de  12:30:00 à  14:30:00",
+      "streets": "CITE LOISEAU",
+      "from": "2025-08-27T08:30:00.000Z",
+      "to": "2025-08-27T10:30:00.000Z",
+      "id": "9d7563c9da151ed6798fac96dee007a6"
+    },
+    {
+      "date": "Le mercredi 22 mai 2024 de  16:00:00 à  18:00:00",
+      "streets": "Residence L-Oiseau,Alle Brillant Castel",
+      "from": "2024-05-22T12:00:00.000Z",
+      "to": "2024-05-22T14:00:00.000Z",
+      "id": "06344501089d1445d9b8afb515c87a42"
+    },
+    {
+      "date": "Le jeudi 2 juin 2022 de  15:00:00 à  17:00:00",
+      "streets": "Avenue Charles Dickens, Williams Wordsworth Road, Sir Williams Churchill Lane, Schubert Lane, Mozart Street et Edison Lane",
+      "from": "2022-06-02T11:00:00.000Z",
+      "to": "2022-06-02T13:00:00.000Z",
+      "id": "573395e543f4852c2685fc2a0d546e8b"
+    }
+  ]
+}

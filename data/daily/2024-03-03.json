@@ -1,0 +1,108 @@
+{
+  "date": "2024-03-03",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.402Z",
+  "outageCount": 10,
+  "outages": [
+    {
+      "date": "Le dimanche 3 mars 2024 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC ANNA-AVE MOULIN CASSE, AVE DES TRUITES, AVE DES MARLINS, AVE DES MEROUS, AVE DES MARSOUINS, AVE DES CAPITAINES, AVE SUNSET ET AVE SOUFFLEUR",
+      "district": "blackriver",
+      "from": "2024-03-03T04:30:00.000Z",
+      "to": "2024-03-03T11:30:00.000Z",
+      "id": "31f6435f4d847b08991a8c203a691bdb"
+    },
+    {
+      "date": "Le dimanche 3 mars 2024 de  19:25:00 à  00:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "DRAGON ST,ALLEE JACQUES,BOUNDARY ST,part of VAUDAGNE ST,entire MORC EAU BONNE",
+      "district": "blackriver",
+      "from": "2024-03-03T15:25:00.000Z",
+      "to": "2024-03-02T20:30:00.000Z",
+      "id": "48a54e55842b47b07f0ac0352ca7ff90"
+    },
+    {
+      "date": "Le dimanche 3 mars 2024 de  15:30:00 à  17:30:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "F MITTERAND ST FROM COURTS UP TO CHURCH",
+      "district": "flacq",
+      "from": "2024-03-03T11:30:00.000Z",
+      "to": "2024-03-03T13:30:00.000Z",
+      "id": "318eac9f4be740396887b67770e52dd6"
+    },
+    {
+      "date": "Le dimanche 3 mars 2024 de  08:30:00 à  16:00:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "MALINGA, LA LAURA ET LES ENVIRONS",
+      "district": "moka",
+      "from": "2024-03-03T04:30:00.000Z",
+      "to": "2024-03-03T12:00:00.000Z",
+      "id": "3ae8d76adec1d374bf832d348b6f0b4d"
+    },
+    {
+      "date": "Le dimanche 3 mars 2024 de  08:00:00 à  15:30:00",
+      "locality": "CALEBASSES",
+      "localitySlug": "calebasses",
+      "streets": "CALEBASSES BRANCH ROAD, UNE PARTIE D ARSENAL BRANCH ROAD, LESPOIR ROAD ET LES ALENTOURS DE CALEBASSES",
+      "district": "pamplemousses",
+      "from": "2024-03-03T04:00:00.000Z",
+      "to": "2024-03-03T11:30:00.000Z",
+      "id": "f1b8988187f3fb25fdff5899a8c15375"
+    },
+    {
+      "date": "Le dimanche 3 mars 2024 de  19:00:00 à  00:00:00",
+      "locality": "ARSENAL",
+      "localitySlug": "arsenal",
+      "streets": "M GANDHI,DU JARDIN,J NEHRU",
+      "district": "pamplemousses",
+      "from": "2024-03-03T15:00:00.000Z",
+      "to": "2024-03-02T20:00:00.000Z",
+      "id": "6b7ce3616c16fa2cab2a636de8f9709b"
+    },
+    {
+      "date": "Le dimanche 3 mars 2024 de  08:30:00 à  16:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Municipalté Quatre-Bornes, Ave Osman, Ave Fareed, Ave Tagore, Victoria Court et les environs",
+      "district": "plainewilhems",
+      "from": "2024-03-03T04:30:00.000Z",
+      "to": "2024-03-03T12:00:00.000Z",
+      "id": "d39b659b0a7e1fe4be3f9bb31c75599b"
+    },
+    {
+      "date": "Le dimanche 3 mars 2024 de  08:30:00 à  15:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Srila Prabhupada Street, Iskcon, Larsen & Toubro Limited, Saint Nicholas Grammar School, Rushmore Business School, CFAO Motors",
+      "district": "plainewilhems",
+      "from": "2024-03-03T04:30:00.000Z",
+      "to": "2024-03-03T11:00:00.000Z",
+      "id": "b74d980719ae00a0b33bbc3762e55f21"
+    },
+    {
+      "date": "Le dimanche 3 mars 2024 de  09:00:00 à  15:30:00",
+      "locality": "ROCHE BOIS",
+      "localitySlug": "roche-bois",
+      "streets": "DANS LES ENVIRONS DES RUES DESBOUCHERS, QUARANTAINE , ABATTOIR, PONT BRUNIQUEL ET RESIDENCE ROCHE BOIS",
+      "district": "portlouis",
+      "from": "2024-03-03T05:00:00.000Z",
+      "to": "2024-03-03T11:30:00.000Z",
+      "id": "5a8e542627d4d729288ddf3433126a08"
+    },
+    {
+      "date": "Le dimanche 3 mars 2024 de  08:30:00 à  15:30:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "dans les environs de Coquinbourg, Baichoo Supermarket, Royal Road et Schoenfeld",
+      "district": "rivieredurempart",
+      "from": "2024-03-03T04:30:00.000Z",
+      "to": "2024-03-03T11:30:00.000Z",
+      "id": "4115b40d209cb21ca2b8978e3d015c7b"
+    }
+  ]
+}

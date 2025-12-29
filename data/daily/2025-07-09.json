@@ -1,0 +1,48 @@
+{
+  "date": "2025-07-09",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.435Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mercredi 9 juillet 2025 de  14:00:00 à  16:00:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "MORC RAMDANEE",
+      "district": "pamplemousses",
+      "from": "2025-07-09T10:00:00.000Z",
+      "to": "2025-07-09T12:00:00.000Z",
+      "id": "f44f972ba0c6744fc8635e58b29e62f9"
+    },
+    {
+      "date": "Le mercredi 9 juillet 2025 de  14:30:00 à  20:30:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "DANS LES ENVIRONS COLLEGE LADY SUSHIL.",
+      "district": "pamplemousses",
+      "from": "2025-07-09T10:30:00.000Z",
+      "to": "2025-07-09T16:30:00.000Z",
+      "id": "0843b29c52112194e8c7d425b17a1ecf"
+    },
+    {
+      "date": "Le mercredi 9 juillet 2025 de  09:30:00 à  13:00:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "COLLIN 1&2 PAILLES",
+      "district": "portlouis",
+      "from": "2025-07-09T05:30:00.000Z",
+      "to": "2025-07-09T09:00:00.000Z",
+      "id": "2ba57e5ca2ce5fecb4a5765eabb2cf27"
+    },
+    {
+      "date": "Le mercredi 9 juillet 2025 de  16:00:00 à  17:00:00",
+      "locality": "PLAINE VERTE",
+      "localitySlug": "plaine-verte",
+      "streets": "NHDC PAPILLON ROUTE MILITAIRE, PLAINE VERTE",
+      "district": "portlouis",
+      "from": "2025-07-09T12:00:00.000Z",
+      "to": "2025-07-09T13:00:00.000Z",
+      "id": "fd83f3aa6495ce7adf0e8d1354bdc114"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2024-11-15",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.421Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le vendredi 15 novembre 2024 de  08:30:00 à  16:30:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "MORC BLACKROCK ET MORC DES JARDINS",
+      "district": "blackriver",
+      "from": "2024-11-15T04:30:00.000Z",
+      "to": "2024-11-15T12:30:00.000Z",
+      "id": "f69e26986a0db905b76879d21c2cc875"
+    },
+    {
+      "date": "Le vendredi 15 novembre 2024 de  08:00:00 à  12:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "ROUTE BONNEFIN HOLLYROOD NO.1, VACOAS",
+      "district": "plainewilhems",
+      "from": "2024-11-15T04:00:00.000Z",
+      "to": "2024-11-15T08:00:00.000Z",
+      "id": "e5526b877e4b070f4c6dfe789960894a"
+    },
+    {
+      "date": "Le vendredi 15 novembre 2024 de  11:00:00 à  13:30:00",
+      "locality": "TRIANON",
+      "localitySlug": "trianon",
+      "streets": "TRIANON/PETIT CAMP",
+      "district": "plainewilhems",
+      "from": "2024-11-15T07:00:00.000Z",
+      "to": "2024-11-15T09:30:00.000Z",
+      "id": "2cf519700caaef56b0735c0fff9719be"
+    },
+    {
+      "date": "Le vendredi 15 novembre 2024 de  17:00:00 à  18:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "LEOVILLE LHOMME, L.PASTEUR,J RIVIERE STEETS",
+      "district": "portlouis",
+      "from": "2024-11-15T13:00:00.000Z",
+      "to": "2024-11-15T14:00:00.000Z",
+      "id": "d557b58099fb9f66ed9de07a4763e215"
+    }
+  ]
+}

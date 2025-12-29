@@ -1,0 +1,32 @@
+{
+  "slug": "citron-donis",
+  "name": "CITRON DONIS(RODRIGUES)",
+  "district": "rodrigues",
+  "generated": "2025-12-29T20:21:02.570Z",
+  "outageCount": 3,
+  "firstOutage": "2024-02-17",
+  "lastOutage": "2025-02-20",
+  "outages": [
+    {
+      "date": "Le jeudi 20 février 2025 de  08:30:00 à  15:00:00",
+      "streets": "Bassin Gallard, Pavillon, Citron Donis, Petit Gabriel, Bigarade, Fond La Bonté, Fond Baie Aux Huitres,Malartic",
+      "from": "2025-02-20T04:30:00.000Z",
+      "to": "2025-02-20T11:00:00.000Z",
+      "id": "842436f4701fe1047b4969e62e38c50e"
+    },
+    {
+      "date": "Le samedi 2 mars 2024 de  08:30:00 à  15:00:00",
+      "streets": "Eau Vannee",
+      "from": "2024-03-02T04:30:00.000Z",
+      "to": "2024-03-02T11:00:00.000Z",
+      "id": "ccf9ba4b95b3737e75ec1d0f17d8fbb3"
+    },
+    {
+      "date": "Le samedi 17 février 2024 de  08:30:00 à  15:00:00",
+      "streets": "Citron Donis et Eau Vanne",
+      "from": "2024-02-17T04:30:00.000Z",
+      "to": "2024-02-17T11:00:00.000Z",
+      "id": "38716e1700cda246f45c635eec84d7d2"
+    }
+  ]
+}

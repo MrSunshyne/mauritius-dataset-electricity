@@ -1,0 +1,78 @@
+{
+  "date": "2024-03-19",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.403Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le mardi 19 mars 2024 de  08:15:00 à  17:00:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "Bel Air dans les perimetre de Camp La Serpe, Supermarché Jowahir, Partie de la route royale, Ecole RCA, SWF Leglise, Ave Victoire et les region avoisinantes.",
+      "district": "flacq",
+      "from": "2024-03-19T04:15:00.000Z",
+      "to": "2024-03-19T13:00:00.000Z",
+      "id": "edf6c5d8e3a805e768e9ccb17a028865"
+    },
+    {
+      "date": "Le mardi 19 mars 2024 de  09:45:00 à  13:30:00",
+      "locality": "FUEL VILLAGE",
+      "localitySlug": "fuel-village",
+      "streets": "HAPPY VILLAGE TOWARDS POST OFFICE",
+      "district": "flacq",
+      "from": "2024-03-19T05:45:00.000Z",
+      "to": "2024-03-19T09:30:00.000Z",
+      "id": "81e4c29aa54e7f69c9539b520bc4f52c"
+    },
+    {
+      "date": "Le mardi 19 mars 2024 de  14:00:00 à  16:00:00",
+      "locality": "PLEIN BOIS",
+      "localitySlug": "plein-bois",
+      "streets": "PLEIN BOIS VILLAGE",
+      "district": "grandport",
+      "from": "2024-03-19T10:00:00.000Z",
+      "to": "2024-03-19T12:00:00.000Z",
+      "id": "ddef51086a03bb12fa60adf4989626bd"
+    },
+    {
+      "date": "Le mardi 19 mars 2024 de  09:00:00 à  16:30:00",
+      "locality": "MARE LONGUE",
+      "localitySlug": "mare-longue",
+      "streets": "MARE LONGUE",
+      "district": "plainewilhems",
+      "from": "2024-03-19T05:00:00.000Z",
+      "to": "2024-03-19T12:30:00.000Z",
+      "id": "3c7c824ee09acffc81fcfc21446dddaa"
+    },
+    {
+      "date": "Le mardi 19 mars 2024 de  20:00:00 à  23:30:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "MORC PIAT,CAMP MUMBHAI,MORC ANTHELME FOREST SIDE",
+      "district": "plainewilhems",
+      "from": "2024-03-19T16:00:00.000Z",
+      "to": "2024-03-19T19:30:00.000Z",
+      "id": "72526d96da6fc09824690c3d4a1bda9c"
+    },
+    {
+      "date": "Le mardi 19 mars 2024 de  09:00:00 à  10:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LES ABONNES DE PALISSADE, MONTAGNE BOIS NOIR, MONTAGNE MALGACHE, PETIT BRULEE, GRANDE MONTAGNE, THAMME, COROMANDEL, BATATRAND, GRAVIERS, ANSE FEMI, MONTAGNE CABRIS EST, BRULEE, TREFLES, TROIS SOLEIL, PATATE THEOPHILE, ROCHE BON DIEU, ANSE ALLY, ST FRANCOIS ET POINTE COTTON.",
+      "district": "rodrigues",
+      "from": "2024-03-19T05:00:00.000Z",
+      "to": "2024-03-19T06:00:00.000Z",
+      "id": "5e9506122ea32bfd6183ce7b80b1f2f3"
+    },
+    {
+      "date": "Le mardi 19 mars 2024 de  10:00:00 à  14:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "QUATRE VENTS, DAN SAMY",
+      "district": "rodrigues",
+      "from": "2024-03-19T06:00:00.000Z",
+      "to": "2024-03-19T10:00:00.000Z",
+      "id": "16dc1444e6f8a511a5a61ae9f4875a39"
+    }
+  ]
+}

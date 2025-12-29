@@ -1,0 +1,58 @@
+{
+  "date": "2024-06-18",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.410Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mardi 18 juin 2024 de  11:30:00 à  14:30:00",
+      "locality": "ARSENAL",
+      "localitySlug": "arsenal",
+      "streets": "CHEMIN BALACLAVA",
+      "district": "pamplemousses",
+      "from": "2024-06-18T07:30:00.000Z",
+      "to": "2024-06-18T10:30:00.000Z",
+      "id": "3b08dba9fccb56031d24acda3493656e"
+    },
+    {
+      "date": "Le mardi 18 juin 2024 de  15:00:00 à  17:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Willoughby Road, Millitary Barracks compound, Suffolk Street, une partie de Decaen Road, Britannia Road",
+      "district": "plainewilhems",
+      "from": "2024-06-18T11:00:00.000Z",
+      "to": "2024-06-18T13:30:00.000Z",
+      "id": "69d14eca48d428bd1f3cb7f476305f38"
+    },
+    {
+      "date": "Le mardi 18 juin 2024 de  10:00:00 à  15:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVE KHOOSHALL AVE CASQUETTE AVE FELICO Q BORNES",
+      "district": "plainewilhems",
+      "from": "2024-06-18T06:00:00.000Z",
+      "to": "2024-06-18T11:00:00.000Z",
+      "id": "0a003fddf984a7b472e01d499bc4f503"
+    },
+    {
+      "date": "Le mardi 18 juin 2024 de  11:00:00 à  15:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "MORC CHEBEL GUYROZEMENT",
+      "district": "plainewilhems",
+      "from": "2024-06-18T07:00:00.000Z",
+      "to": "2024-06-18T11:00:00.000Z",
+      "id": "676fa69342c4162ec5e20e3cbaa928d3"
+    },
+    {
+      "date": "Le mardi 18 juin 2024 de  16:00:00 à  17:30:00",
+      "locality": "ROCHE BOIS",
+      "localitySlug": "roche-bois",
+      "streets": "ROUTE ABBATOIRE",
+      "district": "portlouis",
+      "from": "2024-06-18T12:00:00.000Z",
+      "to": "2024-06-18T13:30:00.000Z",
+      "id": "3fcb148a5aabf3536811fda73dae7702"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "date": "2024-11-28",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.422Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le jeudi 28 novembre 2024 de  13:30:00 à  14:00:00",
+      "locality": "POSTE LAFAYETTE",
+      "localitySlug": "poste-lafayette",
+      "streets": "POSTE LA FAYETTE, BRAS DEAU",
+      "district": "flacq",
+      "from": "2024-11-28T09:30:00.000Z",
+      "to": "2024-11-28T10:00:00.000Z",
+      "id": "fec939c6fa86c74bb798f6b40cb3b039"
+    },
+    {
+      "date": "Le jeudi 28 novembre 2024 de  15:30:00 à  17:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Les abonnés de Vieux  Quatre Bornes et Rajcoomar  habitant dans les perimetres d’Avenue Murphy, Labourdonnais, Steevenson, Bernardin de St Pierre, Duperre,  Balgobin et en partie de La Route Royale   St Jean, Berthaud, Sir Virgil Naz, Sir Celicourt Antelme et Ollier",
+      "district": "plainewilhems",
+      "from": "2024-11-28T11:30:00.000Z",
+      "to": "2024-11-28T13:30:00.000Z",
+      "id": "7f963f536d44c8a2dcef7c6bb7ea7824"
+    },
+    {
+      "date": "Le jeudi 28 novembre 2024 de  16:00:00 à  20:30:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "PART OF POINTE AUX SABLES",
+      "district": "portlouis",
+      "from": "2024-11-28T12:00:00.000Z",
+      "to": "2024-11-28T16:30:00.000Z",
+      "id": "6a8d15cb0b639c0b8c32646813327f21"
+    }
+  ]
+}

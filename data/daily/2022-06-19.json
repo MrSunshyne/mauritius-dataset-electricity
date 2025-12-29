@@ -1,0 +1,88 @@
+{
+  "date": "2022-06-19",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.356Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le dimanche 19 juin 2022 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "Residences Les Dattiers, Residences Sea View Terrace, Ave des Nenuphares, Ave des Desirables, Shivala Lane, Loday Lane et une partie de Flic en Flac Road",
+      "district": "blackriver",
+      "from": "2022-06-19T04:30:00.000Z",
+      "to": "2022-06-19T11:30:00.000Z",
+      "id": "619a915acaaf9b4590ff3da694945321"
+    },
+    {
+      "date": "Le dimanche 19 juin 2022 de  08:30:00 à  17:00:00",
+      "locality": "GROS BILLOT",
+      "localitySlug": "gros-billot",
+      "streets": "Gros Billot et New Grove habitant dans le périmètre et les rues suivantes: Siding Road, Dreepaul Lane, Morcellement Mauripark, La Croisée New Grove, Chemin Deux Bras, Doolum Lane et Ramma Lane",
+      "district": "grandport",
+      "from": "2022-06-19T04:30:00.000Z",
+      "to": "2022-06-19T13:00:00.000Z",
+      "id": "e38a76fe4577aecb63314c87fcf9a185"
+    },
+    {
+      "date": "Le dimanche 19 juin 2022 de  08:30:00 à  16:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "La Louise, Fowdar Lane et en partie Route Palma, Bassin et Western Boundary",
+      "district": "plainewilhems",
+      "from": "2022-06-19T04:30:00.000Z",
+      "to": "2022-06-19T12:00:00.000Z",
+      "id": "a92d4b7060679c96eaede44034d6ab93"
+    },
+    {
+      "date": "Le dimanche 19 juin 2022 de  08:30:00 à  16:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "une partie de Clairfonds Vacoas, Willoughby Road, Millitary Barracks, Avenue Brelu Brelu, une partie de Brown Sequard Avenue, Mahant Kabir Temple Road  et les environs",
+      "district": "plainewilhems",
+      "from": "2022-06-19T04:30:00.000Z",
+      "to": "2022-06-19T12:00:00.000Z",
+      "id": "2dfaa108ad9afaf1b3f54bb8407e23e0"
+    },
+    {
+      "date": "Le dimanche 19 juin 2022 de  08:30:00 à  16:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "LA RUE CEDAR COROMANDEL, ROUTE ROYAL COROMANDEL, WINNERS COROMANDEL, TOP PRINT, BEACH WEAR, GAMMA CIVIC ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2022-06-19T04:30:00.000Z",
+      "to": "2022-06-19T12:00:00.000Z",
+      "id": "bfc71791c80d3a0ef9e4417da3c6f9da"
+    },
+    {
+      "date": "Le dimanche 19 juin 2022 de  08:30:00 à  15:30:00",
+      "locality": "LE HOCHET",
+      "localitySlug": "le-hochet",
+      "streets": "Les abonnés habitant des Morcellement Raffray, Morcellement Goolamally, Lois Lane, Morcellement Manick, Neewoor Lane, Dhanush Lane, New St Marie Road et Royal Road à Le Hochet",
+      "district": "portlouis",
+      "from": "2022-06-19T04:30:00.000Z",
+      "to": "2022-06-19T11:30:00.000Z",
+      "id": "cdbc12d041ce9b636c76f084760ff7b0"
+    },
+    {
+      "date": "Le dimanche 19 juin 2022 de  08:00:00 à  16:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "Vingt Pieds Road, Old Mill Road,Pointe dAzur, Morc Swan and Les Flamants",
+      "district": "rivieredurempart",
+      "from": "2022-06-19T04:00:00.000Z",
+      "to": "2022-06-19T12:00:00.000Z",
+      "id": "ad3328346372491aad1ff602b320fbb0"
+    },
+    {
+      "date": "Le dimanche 19 juin 2022 de  08:00:00 à  15:00:00",
+      "locality": "RIAMBEL",
+      "localitySlug": "riambel",
+      "streets": "Morcellement Dunputh Riambel, Riambel Coast Road, Belle Vue Chemin Grenier, New Mosque Road et Camp Gopal",
+      "district": "savanne",
+      "from": "2022-06-19T04:00:00.000Z",
+      "to": "2022-06-19T11:00:00.000Z",
+      "id": "7ecf20f6161c4da39e820fcfe986d2d8"
+    }
+  ]
+}

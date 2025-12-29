@@ -1,0 +1,68 @@
+{
+  "date": "2024-05-23",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.408Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le jeudi 23 mai 2024 de  09:45:00 à  12:00:00",
+      "locality": "LA PRENEUSE",
+      "localitySlug": "la-preneuse",
+      "streets": "PART OF VILLAGE",
+      "district": "blackriver",
+      "from": "2024-05-23T05:45:00.000Z",
+      "to": "2024-05-23T08:00:00.000Z",
+      "id": "091c8b022cc90de1344196c4e57cf8a2"
+    },
+    {
+      "date": "Le jeudi 23 mai 2024 de  08:45:00 à  17:00:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "Bel Air dans le périmètre de la Route Royale près de L’Église St Esprit, Camp La Serpe, Ave Joseph Victoire et Chemin Boulanger",
+      "district": "flacq",
+      "from": "2024-05-23T04:45:00.000Z",
+      "to": "2024-05-23T13:00:00.000Z",
+      "id": "9b1afab36004e1fa53d17c3f86b8bf5e"
+    },
+    {
+      "date": "Le jeudi 23 mai 2024 de  08:30:00 à  17:00:00",
+      "locality": "GRAND BEL AIR",
+      "localitySlug": "grand-bel-air",
+      "streets": "Grand Bel Air habitant dans le périmètre et les rues suivantes: Jaffar Road, une partie de la Route Royale Grand Bel Air et une partie de Morcellement Grand Bel Air",
+      "district": "flacq",
+      "from": "2024-05-23T04:30:00.000Z",
+      "to": "2024-05-23T13:00:00.000Z",
+      "id": "b64620356cfd5538f2608582fe9fb108"
+    },
+    {
+      "date": "Le jeudi 23 mai 2024 de  09:45:00 à  11:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "COSSIGNY RD,PART OF ROYAL RD",
+      "district": "plainewilhems",
+      "from": "2024-05-23T05:45:00.000Z",
+      "to": "2024-05-23T07:00:00.000Z",
+      "id": "e8afa5c8b1811d1ef7770a75689c1edc"
+    },
+    {
+      "date": "Le jeudi 23 mai 2024 de  11:00:00 à  15:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "CLAIRFOND 1 & 2-CEMETRY RD VACOAS",
+      "district": "plainewilhems",
+      "from": "2024-05-23T07:00:00.000Z",
+      "to": "2024-05-23T11:00:00.000Z",
+      "id": "d9a849e231278c5631c22eefba0f91b7"
+    },
+    {
+      "date": "Le jeudi 23 mai 2024 de  09:30:00 à  11:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "HOMARD ST AND NEARBY REGION",
+      "district": "portlouis",
+      "from": "2024-05-23T05:30:00.000Z",
+      "to": "2024-05-23T07:00:00.000Z",
+      "id": "675655000b54bd822b5e0b302c1d0976"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2024-09-10",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.416Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mardi 10 septembre 2024 de  09:00:00 à  12:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "AVE ORANGERS ALBION",
+      "district": "blackriver",
+      "from": "2024-09-10T05:00:00.000Z",
+      "to": "2024-09-10T08:00:00.000Z",
+      "id": "e0083fc47a93097b1c6b9dcd7d9a0a1b"
+    },
+    {
+      "date": "Le mardi 10 septembre 2024 de  09:00:00 à  16:00:00",
+      "locality": "BELLE MARE",
+      "localitySlug": "belle-mare",
+      "streets": "Belle Mare dans les environs de LHotel St Geran et Chemin Dodo.",
+      "district": "flacq",
+      "from": "2024-09-10T05:00:00.000Z",
+      "to": "2024-09-10T12:00:00.000Z",
+      "id": "a98acba10bfbe39b42327dea662bf0fb"
+    },
+    {
+      "date": "Le mardi 10 septembre 2024 de  08:30:00 à  00:00:00",
+      "locality": "BLUE BAY",
+      "localitySlug": "blue-bay",
+      "streets": "Blue Bay- Near the Beach",
+      "district": "grandport",
+      "from": "2024-09-10T04:30:00.000Z",
+      "to": "2024-09-09T20:00:00.000Z",
+      "id": "154840bcb910f2062e996e172a806b63"
+    },
+    {
+      "date": "Le mardi 10 septembre 2024 de  09:30:00 à  11:00:00",
+      "locality": "VALLEE PITOT",
+      "localitySlug": "vallee-pitot",
+      "streets": "MAMELON VERT -BLVD VICTORIA VALLEE PITOT",
+      "district": "portlouis",
+      "from": "2024-09-10T05:30:00.000Z",
+      "to": "2024-09-10T07:00:00.000Z",
+      "id": "c08c2e1b5b85cb115d2859628c5f9b7c"
+    }
+  ]
+}

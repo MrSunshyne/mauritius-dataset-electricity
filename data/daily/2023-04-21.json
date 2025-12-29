@@ -1,0 +1,48 @@
+{
+  "date": "2023-04-21",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.378Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le vendredi 21 avril 2023 de  16:00:00 à  17:30:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "TX PLASPAK PETITE RIVIERE NEAR MAURIGARMENTS",
+      "district": "blackriver",
+      "from": "2023-04-21T12:00:00.000Z",
+      "to": "2023-04-21T13:30:00.000Z",
+      "id": "c4ea3f9ec7cd32a1ee624129ff4758a8"
+    },
+    {
+      "date": "Le vendredi 21 avril 2023 de  11:00:00 à  13:30:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "SEENEEVASSEN ROAD ET LES RUELLES AVOISINANTES A TRIOLET.",
+      "district": "pamplemousses",
+      "from": "2023-04-21T07:00:00.000Z",
+      "to": "2023-04-21T09:30:00.000Z",
+      "id": "a2cc2b23d09a80d6f6533d4d49baa9a7"
+    },
+    {
+      "date": "Le vendredi 21 avril 2023 de  12:50:00 à  15:30:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "TX CWA PAMPLEMOUSSES",
+      "district": "pamplemousses",
+      "from": "2023-04-21T08:50:00.000Z",
+      "to": "2023-04-21T11:30:00.000Z",
+      "id": "e18fce7dbac5c2995970c89fbec7f189"
+    },
+    {
+      "date": "Le vendredi 21 avril 2023 de  10:15:00 à  11:45:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "MORC PLAINE DES HERMITAGES DANS LES ENVIRONS ECOLE ORCHARD KIDS",
+      "district": "plainewilhems",
+      "from": "2023-04-21T06:15:00.000Z",
+      "to": "2023-04-21T07:45:00.000Z",
+      "id": "e9ce4ec37e0b36e3601188a67ac31680"
+    }
+  ]
+}

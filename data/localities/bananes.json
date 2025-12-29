@@ -1,0 +1,74 @@
+{
+  "slug": "bananes",
+  "name": "BANANES",
+  "district": "savanne",
+  "generated": "2025-12-29T20:21:02.483Z",
+  "outageCount": 9,
+  "firstOutage": "2022-03-14",
+  "lastOutage": "2025-09-21",
+  "outages": [
+    {
+      "date": "Le dimanche 21 septembre 2025 de  08:30:00 à  16:00:00",
+      "streets": "Beemanique Industrial Zone",
+      "from": "2025-09-21T04:30:00.000Z",
+      "to": "2025-09-21T12:00:00.000Z",
+      "id": "d95beb47f85d37909d993965553a928c"
+    },
+    {
+      "date": "Le lundi 21 juillet 2025 de  11:00:00 à  15:00:00",
+      "streets": "ROYAL RD BANANES",
+      "from": "2025-07-21T07:00:00.000Z",
+      "to": "2025-07-21T11:00:00.000Z",
+      "id": "d1b0065a6bf2e74de3455a84ed0fae9f"
+    },
+    {
+      "date": "Le mercredi 9 octobre 2024 de  08:30:00 à  17:00:00",
+      "streets": "Bananes & Domaine La Grave",
+      "from": "2024-10-09T04:30:00.000Z",
+      "to": "2024-10-09T13:00:00.000Z",
+      "id": "4d571dbea76bec116c79bae062d99d0b"
+    },
+    {
+      "date": "Le jeudi 6 juin 2024 de  09:30:00 à  15:00:00",
+      "streets": "BANANES",
+      "from": "2024-06-06T05:30:00.000Z",
+      "to": "2024-06-06T11:00:00.000Z",
+      "id": "f7af961aafd83c9389165346277db232"
+    },
+    {
+      "date": "Le vendredi 17 novembre 2023 de  08:30:00 à  17:00:00",
+      "streets": "Bananes et Midlands habitant dans le périmètre et les rues suivantes: Cemetry Road, Football Ground Lane et une partie de la Route Royale Bananes et Midlands",
+      "from": "2023-11-17T04:30:00.000Z",
+      "to": "2023-11-17T13:00:00.000Z",
+      "id": "b58b44512aa9e031a9451e15fd851cbc"
+    },
+    {
+      "date": "Le mardi 16 mai 2023 de  09:00:00 à  12:00:00",
+      "streets": "ROYAL RD BANANES-MIDLANDS",
+      "from": "2023-05-16T05:00:00.000Z",
+      "to": "2023-05-16T08:00:00.000Z",
+      "id": "7f21cf72a6f67cfd78244b3577a52221"
+    },
+    {
+      "date": "Le vendredi 9 septembre 2022 de  13:00:00 à  16:00:00",
+      "streets": "VILLAGE BANANES",
+      "from": "2022-09-09T09:00:00.000Z",
+      "to": "2022-09-09T12:00:00.000Z",
+      "id": "0bf7fbbb4bb597e6f52fc31094ef7300"
+    },
+    {
+      "date": "Le jeudi 19 mai 2022 de  08:30:00 à  11:30:00",
+      "streets": "Bananes (Poultry Farm & CWA Bananes)",
+      "from": "2022-05-19T04:30:00.000Z",
+      "to": "2022-05-19T07:30:00.000Z",
+      "id": "a7fc12965b4e58752b25d469eb4b3f84"
+    },
+    {
+      "date": "Le lundi 14 mars 2022 de  09:00:00 à  11:00:00",
+      "streets": "Bananes and une partie de Midlands",
+      "from": "2022-03-14T05:00:00.000Z",
+      "to": "2022-03-14T07:00:00.000Z",
+      "id": "6d0a3fc3aa36a850568d40027fc321f1"
+    }
+  ]
+}

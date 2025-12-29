@@ -1,0 +1,58 @@
+{
+  "date": "2023-10-25",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.392Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mercredi 25 octobre 2023 de  19:30:00 à  22:30:00",
+      "locality": "PROVIDENCE QUARTIER MILITAIRE",
+      "localitySlug": "providence-quartier-militaire",
+      "streets": "MORCELLEMENT PETIT BOIS ET LES ENVIRONS.",
+      "district": "moka",
+      "from": "2023-10-25T15:30:00.000Z",
+      "to": "2023-10-25T18:30:00.000Z",
+      "id": "d5563aafbbb1b3b8421cb25d0eb0cbae"
+    },
+    {
+      "date": "Le mercredi 25 octobre 2023 de  15:00:00 à  16:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Boundary, Coriolis et Rose-Hill Court",
+      "district": "plainewilhems",
+      "from": "2023-10-25T11:00:00.000Z",
+      "to": "2023-10-25T12:30:00.000Z",
+      "id": "e4ade9a9e7cb697ddbbd201b34e058a6"
+    },
+    {
+      "date": "Le mercredi 25 octobre 2023 de  13:05:00 à  14:00:00",
+      "locality": "CASSIS",
+      "localitySlug": "cassis",
+      "streets": "MAIN RD,UNION MATCHES",
+      "district": "portlouis",
+      "from": "2023-10-25T09:05:00.000Z",
+      "to": "2023-10-25T10:00:00.000Z",
+      "id": "f0807264fd10e899adba6427e90b3ac1"
+    },
+    {
+      "date": "Le mercredi 25 octobre 2023 de  15:50:00 à  16:50:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "VALLEE DES PRETRES AROUND BRIDGE.",
+      "district": "portlouis",
+      "from": "2023-10-25T11:50:00.000Z",
+      "to": "2023-10-25T12:50:00.000Z",
+      "id": "527ee7ed60790c11aa7f2e407c2d7f2c"
+    },
+    {
+      "date": "Le mercredi 25 octobre 2023 de  10:30:00 à  16:00:00",
+      "locality": "PLAINE DES ROCHES",
+      "localitySlug": "plaine-des-roches",
+      "streets": "ROYAL RD NEAR GOVT SCHOOL,SENECK RD",
+      "district": "rivieredurempart",
+      "from": "2023-10-25T06:30:00.000Z",
+      "to": "2023-10-25T12:00:00.000Z",
+      "id": "de762a90055bce2caa24892aa668c69a"
+    }
+  ]
+}

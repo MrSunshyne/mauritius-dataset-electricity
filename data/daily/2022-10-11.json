@@ -1,0 +1,48 @@
+{
+  "date": "2022-10-11",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.364Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mardi 11 octobre 2022 de  08:30:00 à  12:30:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "Riviere Noire",
+      "district": "blackriver",
+      "from": "2022-10-11T04:30:00.000Z",
+      "to": "2022-10-11T08:30:00.000Z",
+      "id": "af3fa1c99e5a6624ecd5ce45315d75a7"
+    },
+    {
+      "date": "Le mardi 11 octobre 2022 de  00:00:00 à  00:00:00",
+      "locality": "RIVIERE DES CREOLES",
+      "localitySlug": "riviere-des-creoles",
+      "streets": "Rivières Des Créoles habitant dans le périmètre et les rues suivantes: School Lane, Bon Espoirs Road et Morcellement Rivières Des Créoles",
+      "district": "grandport",
+      "from": "2022-10-10T20:00:00.000Z",
+      "to": "2022-10-09T20:00:00.000Z",
+      "id": "71a1dce581d27f73c027738c9bff5403"
+    },
+    {
+      "date": "Le mardi 11 octobre 2022 de  09:00:00 à  10:00:00",
+      "locality": "MONTAGNE BLANCHE",
+      "localitySlug": "montagne-blanche",
+      "streets": "CITE ST JOSEPH,SAWAN LANE,SHIVALA ROAD.",
+      "district": "moka",
+      "from": "2022-10-11T05:00:00.000Z",
+      "to": "2022-10-11T06:00:00.000Z",
+      "id": "de124c371103be9cc16a91a5d560ec63"
+    },
+    {
+      "date": "Le mardi 11 octobre 2022 de  11:00:00 à  16:00:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "SOUILLAC AND MORC GRIS GRIS",
+      "district": "savanne",
+      "from": "2022-10-11T07:00:00.000Z",
+      "to": "2022-10-11T12:00:00.000Z",
+      "id": "cb6e390379b35e3ef660967edcdb6672"
+    }
+  ]
+}

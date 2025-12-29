@@ -1,0 +1,48 @@
+{
+  "date": "2022-03-30",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.351Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mercredi 30 mars 2022 de  08:30:00 à  18:00:00",
+      "locality": "CHAMAREL",
+      "localitySlug": "chamarel",
+      "streets": "ROUTE ROYALE CHAMAREL, BAIE DU CAP ROAD, PLAINE CHAMPAGNE ROAD, PITON ROAD, LAVILLEON ET LA TERRE SEPT COULEURS",
+      "district": "blackriver",
+      "from": "2022-03-30T04:30:00.000Z",
+      "to": "2022-03-30T14:00:00.000Z",
+      "id": "6eff73838f95e5e216a26263a0640431"
+    },
+    {
+      "date": "Le mercredi 30 mars 2022 de  09:30:00 à  15:00:00",
+      "locality": "ERNEST FLORENT",
+      "localitySlug": "ernest-florent",
+      "streets": "ERNEST FLORENT",
+      "district": "flacq",
+      "from": "2022-03-30T05:30:00.000Z",
+      "to": "2022-03-30T11:00:00.000Z",
+      "id": "ef8566242d6ddced9352274a6b43f3b1"
+    },
+    {
+      "date": "Le mercredi 30 mars 2022 de  08:30:00 à  15:30:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "LES ABONNES DE POINTE AUX SABLES HABITANT DANS LES ENVIRONS DE MORC SOOBRAH ET KENSINGTON",
+      "district": "portlouis",
+      "from": "2022-03-30T04:30:00.000Z",
+      "to": "2022-03-30T11:30:00.000Z",
+      "id": "8e327a6375a9ba8d597766af0e94935e"
+    },
+    {
+      "date": "Le mercredi 30 mars 2022 de  21:40:00 à  23:00:00",
+      "locality": "L-ESCALIER",
+      "localitySlug": "l-escalier",
+      "streets": "CANTAGEAU STREET",
+      "district": "savanne",
+      "from": "2022-03-30T17:40:00.000Z",
+      "to": "2022-03-30T19:00:00.000Z",
+      "id": "fb48b67845fd8a786e5164ba2bb021d4"
+    }
+  ]
+}

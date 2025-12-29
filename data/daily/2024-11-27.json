@@ -1,0 +1,58 @@
+{
+  "date": "2024-11-27",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.422Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mercredi 27 novembre 2024 de  09:00:00 à  16:00:00",
+      "locality": "BELLE TERRE",
+      "localitySlug": "belle-terre",
+      "streets": "Pandit Nehru Road, Sir S.Ramgoolam, Belle Terre",
+      "district": "plainewilhems",
+      "from": "2024-11-27T05:00:00.000Z",
+      "to": "2024-11-27T12:00:00.000Z",
+      "id": "3a74217c63540e3cff02eb673c9175be"
+    },
+    {
+      "date": "Le mercredi 27 novembre 2024 de  14:00:00 à  16:30:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "RUE REVERAND LEBRUN, ABBE DE LA CAILLE, PARTIE ROUTE ROYALE DANS LES ENVIRONS BATIMENT WINDSOR ET KFC, VANDERMESCH.",
+      "district": "plainewilhems",
+      "from": "2024-11-27T10:00:00.000Z",
+      "to": "2024-11-27T12:30:00.000Z",
+      "id": "a721a6b78cc4beca9f39626e8cc90c61"
+    },
+    {
+      "date": "Le mercredi 27 novembre 2024 de  10:30:00 à  14:00:00",
+      "locality": "CAMP YOLOFF",
+      "localitySlug": "camp-yoloff",
+      "streets": "PART OF CAMP YOLOFF AND SURROUNDINGS, RUISSEAU FANFARON, DE COUSY ST",
+      "district": "portlouis",
+      "from": "2024-11-27T06:30:00.000Z",
+      "to": "2024-11-27T10:00:00.000Z",
+      "id": "9cb438116113d95649809121b376ce4a"
+    },
+    {
+      "date": "Le mercredi 27 novembre 2024 de  11:15:00 à  12:30:00",
+      "locality": "HAUTE RIVE",
+      "localitySlug": "haute-rive",
+      "streets": "HAUTE RIVE, POINTES DES LASCARS",
+      "district": "rivieredurempart",
+      "from": "2024-11-27T07:15:00.000Z",
+      "to": "2024-11-27T08:30:00.000Z",
+      "id": "dffff7f46471ca4201616fab56bd0d2b"
+    },
+    {
+      "date": "Le mercredi 27 novembre 2024 de  09:00:00 à  18:00:00",
+      "locality": "RIAMBEL",
+      "localitySlug": "riambel",
+      "streets": "Cent Lis Sur Mer Riambel",
+      "district": "savanne",
+      "from": "2024-11-27T05:00:00.000Z",
+      "to": "2024-11-27T14:00:00.000Z",
+      "id": "54d8baa0a588672280f6bfaef3209efd"
+    }
+  ]
+}

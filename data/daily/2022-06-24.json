@@ -1,0 +1,78 @@
+{
+  "date": "2022-06-24",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.357Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le vendredi 24 juin 2022 de  09:00:00 à  17:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "Plaine Magnien habitant dans le périmètre et les rues suivantes: Mamou Lane, Gilbert Lane, Balance Street, Rishi Dayanand Lane et une partie de la Route Royale",
+      "district": "grandport",
+      "from": "2022-06-24T05:00:00.000Z",
+      "to": "2022-06-24T13:00:00.000Z",
+      "id": "9e83bc771e09361bb251fc9ea76824aa"
+    },
+    {
+      "date": "Le vendredi 24 juin 2022 de  11:15:00 à  12:15:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "Morc Mignot Tombeau Bay",
+      "district": "pamplemousses",
+      "from": "2022-06-24T07:15:00.000Z",
+      "to": "2022-06-24T08:15:00.000Z",
+      "id": "2d986d0bc439278ca510e9461d639510"
+    },
+    {
+      "date": "Le vendredi 24 juin 2022 de  08:30:00 à  16:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "En Partie Route Royale Beau-Bassin et Elie & Sons",
+      "district": "plainewilhems",
+      "from": "2022-06-24T04:30:00.000Z",
+      "to": "2022-06-24T12:00:00.000Z",
+      "id": "5eaec89003bee19872d7451bb03f75b4"
+    },
+    {
+      "date": "Le vendredi 24 juin 2022 de  09:15:00 à  12:00:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "Morc Highland Rose",
+      "district": "plainewilhems",
+      "from": "2022-06-24T05:15:00.000Z",
+      "to": "2022-06-24T08:00:00.000Z",
+      "id": "f2a006a018cc0b3e421d8b6d415a7ed0"
+    },
+    {
+      "date": "Le vendredi 24 juin 2022 de  10:00:00 à  16:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "Mere Barthelemy et Rue Dartois",
+      "district": "portlouis",
+      "from": "2022-06-24T06:00:00.000Z",
+      "to": "2022-06-24T12:00:00.000Z",
+      "id": "4b0c4858b6258ab332770f60a0612941"
+    },
+    {
+      "date": "Le vendredi 24 juin 2022 de  12:00:00 à  16:00:00",
+      "locality": "ENGLISH BAY(RODRIGUES)",
+      "localitySlug": "english-bay",
+      "streets": "English Bay",
+      "district": "rodrigues",
+      "from": "2022-06-24T08:00:00.000Z",
+      "to": "2022-06-24T12:00:00.000Z",
+      "id": "1af8da9ac96e7be111942de687371fe1"
+    },
+    {
+      "date": "Le vendredi 24 juin 2022 de  12:00:00 à  16:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Anse aux Anglais",
+      "district": "rodrigues",
+      "from": "2022-06-24T08:00:00.000Z",
+      "to": "2022-06-24T12:00:00.000Z",
+      "id": "e0bfb75dc0c6334185c784df71fc6e14"
+    }
+  ]
+}

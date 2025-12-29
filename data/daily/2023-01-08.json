@@ -1,0 +1,38 @@
+{
+  "date": "2023-01-08",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.370Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le dimanche 8 janvier 2023 de  21:00:00 à  01:00:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "LAGREMENT ST PIERRE",
+      "district": "moka",
+      "from": "2023-01-08T17:00:00.000Z",
+      "to": "2023-01-07T21:00:00.000Z",
+      "id": "4932e9febc0aadfeb9826fee1a05724a"
+    },
+    {
+      "date": "Le dimanche 8 janvier 2023 de  08:00:00 à  15:30:00",
+      "locality": "SOLITUDE",
+      "localitySlug": "solitude",
+      "streets": "Les abonnés habitant Morcellement Neewoor, Kovil Solitude, CFL et By Pass Triolet at Solitude",
+      "district": "pamplemousses",
+      "from": "2023-01-08T04:00:00.000Z",
+      "to": "2023-01-08T11:30:00.000Z",
+      "id": "654b43fbfeb14e7c362047fa097cbc31"
+    },
+    {
+      "date": "Le dimanche 8 janvier 2023 de  08:30:00 à  15:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "LA SALETTE ROAD,AQUA VILLAGE",
+      "district": "rivieredurempart",
+      "from": "2023-01-08T04:30:00.000Z",
+      "to": "2023-01-08T11:00:00.000Z",
+      "id": "ad28a70161e07fd39cb5eb88539e8d24"
+    }
+  ]
+}

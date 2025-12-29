@@ -1,0 +1,25 @@
+{
+  "slug": "tambes",
+  "name": "TAMBES(RODRIGUES)",
+  "district": "rodrigues",
+  "generated": "2025-12-29T20:21:02.824Z",
+  "outageCount": 2,
+  "firstOutage": "2025-10-25",
+  "lastOutage": "2025-10-31",
+  "outages": [
+    {
+      "date": "Le vendredi 31 octobre 2025 de  08:30:00 à  15:00:00",
+      "streets": "Nouvelle Decouverte, Montagne Malgache et Petit Brule",
+      "from": "2025-10-31T04:30:00.000Z",
+      "to": "2025-10-31T11:00:00.000Z",
+      "id": "7401f92824e8b3a7f0f9f146e1eb7af9"
+    },
+    {
+      "date": "Le samedi 25 octobre 2025 de  08:30:00 à  15:00:00",
+      "streets": "Petit Brule, Nouvelle Decouverte et Montagne Malagche",
+      "from": "2025-10-25T04:30:00.000Z",
+      "to": "2025-10-25T11:00:00.000Z",
+      "id": "c672fe92032411fd38147775ef20bc3f"
+    }
+  ]
+}

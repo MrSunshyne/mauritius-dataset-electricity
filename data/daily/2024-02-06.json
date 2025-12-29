@@ -1,0 +1,38 @@
+{
+  "date": "2024-02-06",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.400Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mardi 6 février 2024 de  07:40:00 à  22:30:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "PAMPLEMOUSSES, CAMP DES AMBREVADES, CANTON NANCY, BOIS ROUGE",
+      "district": "pamplemousses",
+      "from": "2024-02-06T03:40:00.000Z",
+      "to": "2024-02-06T18:30:00.000Z",
+      "id": "97fc41383644f277ad8385116c948176"
+    },
+    {
+      "date": "Le mardi 6 février 2024 de  18:30:00 à  22:30:00",
+      "locality": "BOIS ROUGE",
+      "localitySlug": "bois-rouge",
+      "streets": "MORC VRS BOIS ROUGE.",
+      "district": "pamplemousses",
+      "from": "2024-02-06T14:30:00.000Z",
+      "to": "2024-02-06T18:30:00.000Z",
+      "id": "da0c648dbe16ed6f55a2c677720e724f"
+    },
+    {
+      "date": "Le mardi 6 février 2024 de  17:00:00 à  21:00:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "PETIT RAFFRAY DANS LES ENVIRONS VILLAGE HALL ET TERRAIN FOOTBALL.",
+      "district": "rivieredurempart",
+      "from": "2024-02-06T13:00:00.000Z",
+      "to": "2024-02-06T17:00:00.000Z",
+      "id": "4b618ddf7318fe7a74172376d39850c8"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "date": "2023-08-11",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.386Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le vendredi 11 août 2023 de  08:30:00 à  16:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Western Boundary et Morcellement La Colombe",
+      "district": "plainewilhems",
+      "from": "2023-08-11T04:30:00.000Z",
+      "to": "2023-08-11T12:00:00.000Z",
+      "id": "8e77bfe6ea1a885dc00ee4aaa2e9b64e"
+    },
+    {
+      "date": "Le vendredi 11 août 2023 de  10:30:00 à  18:00:00",
+      "locality": "COTTAGE",
+      "localitySlug": "cottage",
+      "streets": "COTTAGE",
+      "district": "rivieredurempart",
+      "from": "2023-08-11T06:30:00.000Z",
+      "to": "2023-08-11T14:00:00.000Z",
+      "id": "1177aa22f6e5431a51905fea3ac03159"
+    },
+    {
+      "date": "Le vendredi 11 août 2023 de  08:30:00 à  12:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "FOND BAIE AUX HUITRES--FOND LA BONTE",
+      "district": "rodrigues",
+      "from": "2023-08-11T04:30:00.000Z",
+      "to": "2023-08-11T08:00:00.000Z",
+      "id": "ed5b07b9c302df3a9581b442ab3a9721"
+    }
+  ]
+}

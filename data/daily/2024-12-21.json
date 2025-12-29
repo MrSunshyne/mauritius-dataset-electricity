@@ -1,0 +1,38 @@
+{
+  "date": "2024-12-21",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.424Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le samedi 21 décembre 2024 de  10:20:00 à  12:30:00",
+      "locality": "PETITE JULIE",
+      "localitySlug": "petite-julie",
+      "streets": "NEAR FOOTBALL GROUND AND SURROUNDINDS",
+      "district": "pamplemousses",
+      "from": "2024-12-21T06:20:00.000Z",
+      "to": "2024-12-21T08:30:00.000Z",
+      "id": "062c60657f5743c5b6ee11894654eec8"
+    },
+    {
+      "date": "Le samedi 21 décembre 2024 de  11:30:00 à  13:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "ROYAL ROAD, NEAR MOSQUE & ROUND ABOUT",
+      "district": "pamplemousses",
+      "from": "2024-12-21T07:30:00.000Z",
+      "to": "2024-12-21T09:00:00.000Z",
+      "id": "9c7bdb6ae214218bb17e690070032b85"
+    },
+    {
+      "date": "Le samedi 21 décembre 2024 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LES ABONNES DE SONGES, MORCELLEMENT SONGES, PARC TORTUE, ANSE BALEINE ET ANSE RAFFIN.",
+      "district": "rodrigues",
+      "from": "2024-12-21T04:30:00.000Z",
+      "to": "2024-12-21T11:00:00.000Z",
+      "id": "f88cddfa48a01633b792565edc3a973d"
+    }
+  ]
+}

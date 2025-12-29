@@ -1,0 +1,108 @@
+{
+  "date": "2022-07-03",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.357Z",
+  "outageCount": 10,
+  "outages": [
+    {
+      "date": "Le dimanche 3 juillet 2022 de  08:30:00 à  16:30:00",
+      "locality": "CASCAVEL",
+      "localitySlug": "cascavel",
+      "streets": "BLACK RIVER RD XAVIER, CLARENCE, CASELA, BASSIN FLEUR, CAMPEMENT DE WOLMAR ET BIODIA",
+      "district": "blackriver",
+      "from": "2022-07-03T04:30:00.000Z",
+      "to": "2022-07-03T12:30:00.000Z",
+      "id": "0f148a11ce94e9d677d9fe3c8c1c5327"
+    },
+    {
+      "date": "Le dimanche 3 juillet 2022 de  10:00:00 à  11:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC BISMIC",
+      "district": "blackriver",
+      "from": "2022-07-03T06:00:00.000Z",
+      "to": "2022-07-03T07:00:00.000Z",
+      "id": "61855eaf40087e980be04b316e1acc40"
+    },
+    {
+      "date": "Le dimanche 3 juillet 2022 de  08:15:00 à  17:00:00",
+      "locality": "POSTE DE FLACQ",
+      "localitySlug": "poste-de-flacq",
+      "streets": "Poste de Flacq",
+      "district": "flacq",
+      "from": "2022-07-03T04:15:00.000Z",
+      "to": "2022-07-03T13:00:00.000Z",
+      "id": "14d99c4fe9e664a68a42a76572243501"
+    },
+    {
+      "date": "Le dimanche 3 juillet 2022 de  08:30:00 à  16:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Route Tranquille, Pave d’Amour, une partie de Route Bonne Terre, une partie de Rue Mahant Kabir, Morcellement Coorperative, Cité-Rittoo, une partie de Clairfonds No. 3, une partie de Route Vingta No. 1, No. 2 et No. 3, une partie de Route Solferino No. 1, Modern Square",
+      "district": "plainewilhems",
+      "from": "2022-07-03T04:30:00.000Z",
+      "to": "2022-07-03T12:00:00.000Z",
+      "id": "4a811fa0889d8cea44a5beeb2e671cb0"
+    },
+    {
+      "date": "Le dimanche 3 juillet 2022 de  08:30:00 à  16:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "Les abonnés de Forest – Side  habitant les rues et les régions  suivantes : Cite Bourg, Cite Saint Luc, partie de Camp Bombaye, partie de Derby et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-07-03T04:30:00.000Z",
+      "to": "2022-07-03T12:00:00.000Z",
+      "id": "a4aea631f0ca08033e8aa903fe54efdc"
+    },
+    {
+      "date": "Le dimanche 3 juillet 2022 de  08:30:00 à  16:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Barkly, Rue Jasmin, Rue Geranium, Rue Hercheroder, SSS Marcel Gabon, PSSA, Rue Narcisse, Prison Beau-Bassin, Brown Sequard Hospital, Piscine Serge Alfred, Agriculture Barkly, CWA Barkly, en partie Route Royale, Pope Hennessy et Rue Barkly Asylum",
+      "district": "plainewilhems",
+      "from": "2022-07-03T04:30:00.000Z",
+      "to": "2022-07-03T12:00:00.000Z",
+      "id": "5e2bbac939772fe034ce15c251581a68"
+    },
+    {
+      "date": "Le dimanche 3 juillet 2022 de  08:30:00 à  15:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Notre Dame de Lourdes St, Boodhun St, Thomy Pitot et en partie Route Royale Rose-Hill du coté 361, Magasin Timol, Leoville LHomme et Inkerman St",
+      "district": "plainewilhems",
+      "from": "2022-07-03T04:30:00.000Z",
+      "to": "2022-07-03T11:00:00.000Z",
+      "id": "88de38b06812b7ef55d37e31e20c6a99"
+    },
+    {
+      "date": "Le dimanche 3 juillet 2022 de  09:00:00 à  15:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "LES ABONNES HABITANT POINTE AUX SABLES DANS LES ENVIRONS DE SENIOR CITIZEN RECREATIONAL CENTRE, CHANTIER NAVAL, WOMAN RIGHT, ZONE INDUSTRIEL DBM ET UNE PARTIE DU ROUTR COTIERE",
+      "district": "portlouis",
+      "from": "2022-07-03T05:00:00.000Z",
+      "to": "2022-07-03T11:00:00.000Z",
+      "id": "2692e810f7e6034885979afb69087483"
+    },
+    {
+      "date": "Le dimanche 3 juillet 2022 de  10:30:00 à  14:30:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "LES ABONNES HABITANT PAILLES DANS LES ENVIRONS DE MORC LE ROC,MORC FLAMBOYANT, RESIDENCE MON PLAISIR, AVENUE TOPAZE ET AVENUE MICHAEL LEAL",
+      "district": "portlouis",
+      "from": "2022-07-03T06:30:00.000Z",
+      "to": "2022-07-03T10:30:00.000Z",
+      "id": "de59f47171f886e2774280192547f56e"
+    },
+    {
+      "date": "Le dimanche 3 juillet 2022 de  08:30:00 à  10:30:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "LES ABONNES HABITANT PAILLES DANS LES ENVIRONS DE MORC LE ROC,MORC FLAMBOYANT, RESIDENCE MON PLAISIR, AVENUE TOPAZE ET AVENUE MICHAEL LEAL",
+      "district": "portlouis",
+      "from": "2022-07-03T04:30:00.000Z",
+      "to": "2022-07-03T06:30:00.000Z",
+      "id": "b2b0cd66c9d0eeb7a9572fbd137621b5"
+    }
+  ]
+}

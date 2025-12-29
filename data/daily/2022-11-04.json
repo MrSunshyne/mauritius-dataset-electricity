@@ -1,0 +1,28 @@
+{
+  "date": "2022-11-04",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.366Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le vendredi 4 novembre 2022 de  08:30:00 à  17:00:00",
+      "locality": "NOUVELLE FRANCE",
+      "localitySlug": "nouvelle-france",
+      "streets": "Savannne Road, School Lane, Ramjin Lane et une partie de la route royal Nouvelle France",
+      "district": "grandport",
+      "from": "2022-11-04T04:30:00.000Z",
+      "to": "2022-11-04T13:00:00.000Z",
+      "id": "d62a46a41a3c5dd6651cf6a83d37dd71"
+    },
+    {
+      "date": "Le vendredi 4 novembre 2022 de  09:00:00 à  13:00:00",
+      "locality": "VILLENOIRE",
+      "localitySlug": "villenoire",
+      "streets": "Morcellement VRS Ville Noire",
+      "district": "grandport",
+      "from": "2022-11-04T05:00:00.000Z",
+      "to": "2022-11-04T09:00:00.000Z",
+      "id": "6a11458b0584fbf2d99d41b71feae856"
+    }
+  ]
+}

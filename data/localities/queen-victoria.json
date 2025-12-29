@@ -1,0 +1,53 @@
+{
+  "slug": "queen-victoria",
+  "name": "QUEEN VICTORIA",
+  "district": "flacq",
+  "generated": "2025-12-29T20:21:02.770Z",
+  "outageCount": 6,
+  "firstOutage": "2022-04-21",
+  "lastOutage": "2025-06-20",
+  "outages": [
+    {
+      "date": "Le vendredi 20 juin 2025 de  03:00:00 à  14:00:00",
+      "streets": "QUEEN VICTORIA",
+      "from": "2025-06-19T23:00:00.000Z",
+      "to": "2025-06-19T10:00:00.000Z",
+      "id": "df52c4806e8d396b3bc45c640db96e7a"
+    },
+    {
+      "date": "Le samedi 25 février 2023 de  08:30:00 à  15:00:00",
+      "streets": "QUEEN VICTORIA, MSA",
+      "from": "2023-02-25T04:30:00.000Z",
+      "to": "2023-02-25T11:00:00.000Z",
+      "id": "e67ad36143f993e935b8663ddcfdafe7"
+    },
+    {
+      "date": "Le jeudi 8 décembre 2022 de  09:30:00 à  15:30:00",
+      "streets": "BASSIN MARIA, GIBRALTAR, AH YOUN",
+      "from": "2022-12-08T05:30:00.000Z",
+      "to": "2022-12-08T11:30:00.000Z",
+      "id": "387a08750c803ead9014b552b18ed997"
+    },
+    {
+      "date": "Le jeudi 23 juin 2022 de  09:00:00 à  10:00:00",
+      "streets": "QUEEN VICTORIA",
+      "from": "2022-06-23T05:00:00.000Z",
+      "to": "2022-06-23T06:00:00.000Z",
+      "id": "d50d395ce256742e8e16480a14ae17c9"
+    },
+    {
+      "date": "Le vendredi 27 mai 2022 de  09:30:00 à  16:00:00",
+      "streets": "MORC MSA QUEEN VICTORIA",
+      "from": "2022-05-27T05:30:00.000Z",
+      "to": "2022-05-27T12:00:00.000Z",
+      "id": "a60b5ddac3687952fb37f192fa44dab6"
+    },
+    {
+      "date": "Le jeudi 21 avril 2022 de  08:30:00 à  16:00:00",
+      "streets": "Les abonnés habitant à Queen Victoria et CWA Bramsthan",
+      "from": "2022-04-21T04:30:00.000Z",
+      "to": "2022-04-21T12:00:00.000Z",
+      "id": "8f2b05270863e98183f42d0354130c06"
+    }
+  ]
+}

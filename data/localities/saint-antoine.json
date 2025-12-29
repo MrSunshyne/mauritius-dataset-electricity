@@ -1,0 +1,67 @@
+{
+  "slug": "saint-antoine",
+  "name": "SAINT ANTOINE",
+  "district": "rivieredurempart",
+  "generated": "2025-12-29T20:21:02.799Z",
+  "outageCount": 8,
+  "firstOutage": "2023-11-21",
+  "lastOutage": "2025-11-20",
+  "outages": [
+    {
+      "date": "Le jeudi 20 novembre 2025 de  11:00:00 à  15:00:00",
+      "streets": "MORC ST ANTOINE",
+      "from": "2025-11-20T07:00:00.000Z",
+      "to": "2025-11-20T11:00:00.000Z",
+      "id": "bf9156e48a35c22aa4f7927805ef9dee"
+    },
+    {
+      "date": "Le mardi 8 avril 2025 de  09:00:00 à  15:00:00",
+      "streets": "MORC PETIT VILLAGE ST ANTOINE GOODLANDS",
+      "from": "2025-04-08T05:00:00.000Z",
+      "to": "2025-04-08T11:00:00.000Z",
+      "id": "3da7106b7c85ed1147bbd8f0c4cfe45f"
+    },
+    {
+      "date": "Le mardi 24 décembre 2024 de  11:30:00 à  15:30:00",
+      "streets": "MORC PETIT VILLAGE ST ANTOINE",
+      "from": "2024-12-24T07:30:00.000Z",
+      "to": "2024-12-24T11:30:00.000Z",
+      "id": "901f97a7a5626742c117711f698bc8ee"
+    },
+    {
+      "date": "Le mercredi 12 juin 2024 de  09:00:00 à  11:30:00",
+      "streets": "SAINT ANTOINE",
+      "from": "2024-06-12T05:00:00.000Z",
+      "to": "2024-06-12T07:30:00.000Z",
+      "id": "9fce649399cc625808a336ef90c211c5"
+    },
+    {
+      "date": "Le mardi 14 mai 2024 de  15:00:00 à  16:30:00",
+      "streets": "MORC PETIT VILLAGE ST ANTOINE GOODLANDS.",
+      "from": "2024-05-14T11:00:00.000Z",
+      "to": "2024-05-14T12:30:00.000Z",
+      "id": "08536e25d146fa8367061eb18ac2864c"
+    },
+    {
+      "date": "Le vendredi 22 décembre 2023 de  10:30:00 à  13:00:00",
+      "streets": "St Antoine,Mme Azor et Ancien Moulin",
+      "from": "2023-12-22T06:30:00.000Z",
+      "to": "2023-12-22T09:00:00.000Z",
+      "id": "4aeacb9444e651100c6174f6b27fc40d"
+    },
+    {
+      "date": "Le samedi 2 décembre 2023 de  20:20:00 à  21:00:00",
+      "streets": "ST ANTOINE GOODLANDS",
+      "from": "2023-12-02T16:20:00.000Z",
+      "to": "2023-12-02T17:00:00.000Z",
+      "id": "bae313f27baac07ca46fab891e063cf9"
+    },
+    {
+      "date": "Le mardi 21 novembre 2023 de  18:00:00 à  00:00:00",
+      "streets": "ST ANTOINE GOODLANDS",
+      "from": "2023-11-21T14:00:00.000Z",
+      "to": "2023-11-20T20:00:00.000Z",
+      "id": "6244850587aab956ad4f5607c700e288"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "date": "2023-03-22",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.376Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mercredi 22 mars 2023 de  10:45:00 à  14:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "MONTEE S,CAMP BENOIT",
+      "district": "blackriver",
+      "from": "2023-03-22T06:45:00.000Z",
+      "to": "2023-03-22T10:00:00.000Z",
+      "id": "172b82daf76407c6799f3495c66e1fb0"
+    },
+    {
+      "date": "Le mercredi 22 mars 2023 de  14:30:00 à  16:00:00",
+      "locality": "LA CAVERNE",
+      "localitySlug": "la-caverne",
+      "streets": "VICINITY OF WATSONIA STREET",
+      "district": "plainewilhems",
+      "from": "2023-03-22T10:30:00.000Z",
+      "to": "2023-03-22T12:00:00.000Z",
+      "id": "0c1749d2bace17799db96e6dd11a183a"
+    }
+  ]
+}

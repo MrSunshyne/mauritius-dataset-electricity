@@ -1,0 +1,28 @@
+{
+  "date": "2022-09-17",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.363Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le samedi 17 septembre 2022 de  08:30:00 à  16:00:00",
+      "locality": "CAMP FOUQUEREAUX",
+      "localitySlug": "camp-fouquereaux",
+      "streets": "Terre Rouge Road, St Antoine Road, une partie de Hermitage Branch Road",
+      "district": "plainewilhems",
+      "from": "2022-09-17T04:30:00.000Z",
+      "to": "2022-09-17T12:00:00.000Z",
+      "id": "69c66136a8fad39eb16e7423c0bbf852"
+    },
+    {
+      "date": "Le samedi 17 septembre 2022 de  08:00:00 à  11:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "SOLFERINO 4,5",
+      "district": "plainewilhems",
+      "from": "2022-09-17T04:00:00.000Z",
+      "to": "2022-09-17T07:00:00.000Z",
+      "id": "6cab8b4a402687dec6d867918aeab892"
+    }
+  ]
+}

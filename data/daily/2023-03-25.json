@@ -1,0 +1,88 @@
+{
+  "date": "2023-03-25",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.376Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le samedi 25 mars 2023 de  08:30:00 à  17:00:00",
+      "locality": "VILLENOIRE",
+      "localitySlug": "villenoire",
+      "streets": "Morcellement Blue Print Ville Noire et NHDC Petit Bel-Air",
+      "district": "grandport",
+      "from": "2023-03-25T04:30:00.000Z",
+      "to": "2023-03-25T13:00:00.000Z",
+      "id": "70b589ef2591ac461f2ba798b33d4dcb"
+    },
+    {
+      "date": "Le samedi 25 mars 2023 de  09:00:00 à  16:00:00",
+      "locality": "VERDUN",
+      "localitySlug": "verdun",
+      "streets": "Village Verdun et CWA Dagotiere",
+      "district": "moka",
+      "from": "2023-03-25T05:00:00.000Z",
+      "to": "2023-03-25T12:00:00.000Z",
+      "id": "cb76cd8bb361a8d01015fd81b29f3e93"
+    },
+    {
+      "date": "Le samedi 25 mars 2023 de  09:00:00 à  15:00:00",
+      "locality": "MONTAGNE BLANCHE",
+      "localitySlug": "montagne-blanche",
+      "streets": "Les abonnés du village de Montagne Blanche habitant les rues et régions suivantes : Sans Souci, Church, Gourapa et les ruelles avoisinantes",
+      "district": "moka",
+      "from": "2023-03-25T05:00:00.000Z",
+      "to": "2023-03-25T11:00:00.000Z",
+      "id": "f42cb86fa97dd0197e237b8866e42c3e"
+    },
+    {
+      "date": "Le samedi 25 mars 2023 de  15:00:00 à  16:00:00",
+      "locality": "L-ASSURANCE",
+      "localitySlug": "l-assurance",
+      "streets": "Les abonnés du village de L’Assurance, du village de Lower Dagotiere et Morcellement VRS de Dagotiere",
+      "district": "moka",
+      "from": "2023-03-25T11:00:00.000Z",
+      "to": "2023-03-25T12:00:00.000Z",
+      "id": "fb696eb2f8f30ac3800f3a1f69366e5b"
+    },
+    {
+      "date": "Le samedi 25 mars 2023 de  08:00:00 à  09:00:00",
+      "locality": "L-ASSURANCE",
+      "localitySlug": "l-assurance",
+      "streets": "Les abonnés du village de L’Assurance, du village de Lower Dagotiere et Morcellement VRS de Dagotiere",
+      "district": "moka",
+      "from": "2023-03-25T04:00:00.000Z",
+      "to": "2023-03-25T05:00:00.000Z",
+      "id": "aaabbb64a30f94724f612c1be200b283"
+    },
+    {
+      "date": "Le samedi 25 mars 2023 de  10:00:00 à  12:00:00",
+      "locality": "GRANDE POINTE AUX PIMENTS",
+      "localitySlug": "grande-pointe-aux-piments",
+      "streets": "GRANDE POINTE AUX PIMENTS",
+      "district": "pamplemousses",
+      "from": "2023-03-25T06:00:00.000Z",
+      "to": "2023-03-25T08:00:00.000Z",
+      "id": "1437ce487f5da4e0f30ad779ba4407ab"
+    },
+    {
+      "date": "Le samedi 25 mars 2023 de  08:30:00 à  16:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "LES ABONNES DE POINTE AUX SABLES HABITANT DANS LES ENVIRONS DES AVENUES BOSQUET,COLBERT,COQUELUCHES, PEUPLIERS ET SUNNY HILL",
+      "district": "portlouis",
+      "from": "2023-03-25T04:30:00.000Z",
+      "to": "2023-03-25T12:00:00.000Z",
+      "id": "8b2c4dc4b862d428ff4f698246874478"
+    },
+    {
+      "date": "Le samedi 25 mars 2023 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LA FERME-ANSE NICOLAS-PISTACHE-PIMENT-REPOSOIRE-BAIE TOPAZE-MONTAGNECROUPIER -CAMP PINTADE",
+      "district": "rodrigues",
+      "from": "2023-03-25T04:30:00.000Z",
+      "to": "2023-03-25T11:00:00.000Z",
+      "id": "0de713f0cbb0d2ec815fcd97161d8817"
+    }
+  ]
+}

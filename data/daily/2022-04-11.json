@@ -1,0 +1,38 @@
+{
+  "date": "2022-04-11",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.352Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le lundi 11 avril 2022 de  08:30:00 à  15:30:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "AVE DES MARLINS, AVE DES BONITES ET AVE DES CAMPECHES",
+      "district": "blackriver",
+      "from": "2022-04-11T04:30:00.000Z",
+      "to": "2022-04-11T11:30:00.000Z",
+      "id": "ddf540b67a25565cb416e30d22ce3ccc"
+    },
+    {
+      "date": "Le lundi 11 avril 2022 de  15:00:00 à  18:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Solferino      No. 5, Morcellement Edun, Camp Pave, Pommier Lane No. 1, No. 2",
+      "district": "plainewilhems",
+      "from": "2022-04-11T11:00:00.000Z",
+      "to": "2022-04-11T14:00:00.000Z",
+      "id": "50529582f964ca2b8a40112480f53797"
+    },
+    {
+      "date": "Le lundi 11 avril 2022 de  13:00:00 à  15:00:00",
+      "locality": "L-ESCALIER",
+      "localitySlug": "l-escalier",
+      "streets": "SHIVALAH RD L-ESCALIER",
+      "district": "savanne",
+      "from": "2022-04-11T09:00:00.000Z",
+      "to": "2022-04-11T11:00:00.000Z",
+      "id": "064286750e76d29df6325cb936b8d56d"
+    }
+  ]
+}

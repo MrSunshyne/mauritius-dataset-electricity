@@ -1,0 +1,68 @@
+{
+  "date": "2024-05-11",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.407Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le samedi 11 mai 2024 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "Morc St Jacques: Ave St Jacques, Ave St Paul, Ave St Pierre, Ave des Alamandas, Ave des Glaieuls, Ave des Filaos, Ave des Capucines, Ave des Peupliers, Ave des Rosiers et Ave des Letchiers",
+      "district": "blackriver",
+      "from": "2024-05-11T04:30:00.000Z",
+      "to": "2024-05-11T11:30:00.000Z",
+      "id": "84b083852e0820891a042e1b05c60063"
+    },
+    {
+      "date": "Le samedi 11 mai 2024 de  08:00:00 à  16:00:00",
+      "locality": "LONG MOUNTAIN",
+      "localitySlug": "long-mountain",
+      "streets": "COLOMBO ROAD, LONG MOUNTAIN",
+      "district": "pamplemousses",
+      "from": "2024-05-11T04:00:00.000Z",
+      "to": "2024-05-11T12:00:00.000Z",
+      "id": "bdd31f3b2255096ba489328b185c0e25"
+    },
+    {
+      "date": "Le samedi 11 mai 2024 de  08:45:00 à  15:00:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "BELLE SOURCE, CANTON BEL EAU, CANTON NANCY, CAMP DES EMBREVADES",
+      "district": "pamplemousses",
+      "from": "2024-05-11T04:45:00.000Z",
+      "to": "2024-05-11T11:00:00.000Z",
+      "id": "67c91dcf07df1e2e707d89bf191d167d"
+    },
+    {
+      "date": "Le samedi 11 mai 2024 de  13:30:00 à  16:00:00",
+      "locality": "CREVE COEUR",
+      "localitySlug": "creve-coeur",
+      "streets": "RIVALLAND RD CREVE COEUR",
+      "district": "pamplemousses",
+      "from": "2024-05-11T09:30:00.000Z",
+      "to": "2024-05-11T12:00:00.000Z",
+      "id": "f82f58344d7e95b7ba12138f67c6a1c1"
+    },
+    {
+      "date": "Le samedi 11 mai 2024 de  08:15:00 à  16:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Raman Osman State Secondary School, Phoenix State Secondary School, Emirates Airlines Swimming Pool, MUGA Phoenix, New Hindi Secretariat, Indira Gandhi Centre For Indian Culture, Gymnase Phoenix, une partie de Phoenix Mall",
+      "district": "plainewilhems",
+      "from": "2024-05-11T04:15:00.000Z",
+      "to": "2024-05-11T12:00:00.000Z",
+      "id": "326216e030e3a7791ed20fa885012140"
+    },
+    {
+      "date": "Le samedi 11 mai 2024 de  08:30:00 à  16:30:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "HENRIETTA ET MARE LONGUE: NHDC Bord-Cascade, Mont Simonet, Mare-Longue Tamarind Falls",
+      "district": "plainewilhems",
+      "from": "2024-05-11T04:30:00.000Z",
+      "to": "2024-05-11T12:30:00.000Z",
+      "id": "47c6ec7d3f0b63735f8a0bb30e11f453"
+    }
+  ]
+}

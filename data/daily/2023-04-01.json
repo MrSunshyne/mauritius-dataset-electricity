@@ -1,0 +1,68 @@
+{
+  "date": "2023-04-01",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.377Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le samedi 1 avril 2023 de  08:00:00 à  12:00:00",
+      "locality": "CAROLINE BEL AIR",
+      "localitySlug": "caroline-bel-air",
+      "streets": "CAROLINE",
+      "district": "flacq",
+      "from": "2023-04-01T04:00:00.000Z",
+      "to": "2023-04-01T08:00:00.000Z",
+      "id": "cd5e069a1e16d8b22252ed7a4c3dd2b3"
+    },
+    {
+      "date": "Le samedi 1 avril 2023 de  08:30:00 à  13:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Max Rohan Ave, Esaie David St, Dr Jean Tanguy Rd et Latham Koenig Ave",
+      "district": "plainewilhems",
+      "from": "2023-04-01T04:30:00.000Z",
+      "to": "2023-04-01T09:00:00.000Z",
+      "id": "4696273d46d900a2a8ed1acb766c5fc1"
+    },
+    {
+      "date": "Le samedi 1 avril 2023 de  09:00:00 à  12:00:00",
+      "locality": "MONT ROCHES",
+      "localitySlug": "mont-roches",
+      "streets": "MONT ROCHES",
+      "district": "plainewilhems",
+      "from": "2023-04-01T05:00:00.000Z",
+      "to": "2023-04-01T08:00:00.000Z",
+      "id": "e5ed08eca2e812f4dee19f7d257c6b34"
+    },
+    {
+      "date": "Le samedi 1 avril 2023 de  10:30:00 à  12:30:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "PALMA NEAR INDIAN OIL QUATRE BORNES",
+      "district": "plainewilhems",
+      "from": "2023-04-01T06:30:00.000Z",
+      "to": "2023-04-01T08:30:00.000Z",
+      "id": "4192460621d80db2c548acf277cff612"
+    },
+    {
+      "date": "Le samedi 1 avril 2023 de  08:30:00 à  15:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "DANS LES ENVIRONS DE CAMP FIRINGA",
+      "district": "portlouis",
+      "from": "2023-04-01T04:30:00.000Z",
+      "to": "2023-04-01T11:00:00.000Z",
+      "id": "e503b97f1f5c5ec2c2c1473ca43e8cb3"
+    },
+    {
+      "date": "Le samedi 1 avril 2023 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "BEL AIR,TREFLES,RIVIERE BANANES,PATATES THEOPHILE, TROIS SOLEIL ET MONTAGNE CABRIS EST",
+      "district": "rodrigues",
+      "from": "2023-04-01T04:30:00.000Z",
+      "to": "2023-04-01T11:00:00.000Z",
+      "id": "1765e7824ecc6dda3fd05cdee28a947c"
+    }
+  ]
+}

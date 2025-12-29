@@ -1,0 +1,39 @@
+{
+  "slug": "beau-sejour-belle-rose",
+  "name": "BEAU SEJOUR BELLE-ROSE",
+  "district": "plainewilhems",
+  "generated": "2025-12-29T20:21:02.492Z",
+  "outageCount": 4,
+  "firstOutage": "2022-07-13",
+  "lastOutage": "2024-03-01",
+  "outages": [
+    {
+      "date": "Le vendredi 1 mars 2024 de  15:00:00 à  17:00:00",
+      "streets": "AVE OLLIER, AVE DR CASTEL, COMSI INSURANCE, NAMO INDIA ET LES ENVIRONS",
+      "from": "2024-03-01T11:00:00.000Z",
+      "to": "2024-03-01T13:00:00.000Z",
+      "id": "fb6905a6ec99aef468827a88f53daaa9"
+    },
+    {
+      "date": "Le mercredi 2 août 2023 de  14:10:00 à  16:30:00",
+      "streets": "Mallefille ave,Mohun ave,Madhoo ave,Govt school Beau Sejour",
+      "from": "2023-08-02T10:10:00.000Z",
+      "to": "2023-08-02T12:30:00.000Z",
+      "id": "9188de6cee51eadbac13b5b871d993d5"
+    },
+    {
+      "date": "Le lundi 17 octobre 2022 de  09:45:00 à  11:00:00",
+      "streets": "part of cite beau sejour,r edward hart street",
+      "from": "2022-10-17T05:45:00.000Z",
+      "to": "2022-10-17T07:00:00.000Z",
+      "id": "11d76d73426bed298eea7d1cb4702e7c"
+    },
+    {
+      "date": "Le mercredi 13 juillet 2022 de  10:30:00 à  11:30:00",
+      "streets": "EDWARD HART STREET, MOSQUE BEAU SEJOUR",
+      "from": "2022-07-13T06:30:00.000Z",
+      "to": "2022-07-13T07:30:00.000Z",
+      "id": "3093f99916f1b846901e6137959e9b65"
+    }
+  ]
+}

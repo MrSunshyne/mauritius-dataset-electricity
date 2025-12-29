@@ -1,0 +1,58 @@
+{
+  "date": "2023-12-28",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.397Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le jeudi 28 décembre 2023 de  19:00:00 à  21:30:00",
+      "locality": "MOKA",
+      "localitySlug": "moka",
+      "streets": "TELFAIR, VINSON LANE AND NEARBY REGION",
+      "district": "moka",
+      "from": "2023-12-28T15:00:00.000Z",
+      "to": "2023-12-28T17:30:00.000Z",
+      "id": "5a7900a967dd16477bf58254c2f65dd9"
+    },
+    {
+      "date": "Le jeudi 28 décembre 2023 de  10:00:00 à  12:00:00",
+      "locality": "MON CHOISY",
+      "localitySlug": "mon-choisy",
+      "streets": "MORC SAGITAIRE MON CHOISY",
+      "district": "pamplemousses",
+      "from": "2023-12-28T06:00:00.000Z",
+      "to": "2023-12-28T08:00:00.000Z",
+      "id": "f03d9f7474ec02de8ba3a6b886d5c2b5"
+    },
+    {
+      "date": "Le jeudi 28 décembre 2023 de  13:00:00 à  14:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "MORC MALHERBES",
+      "district": "plainewilhems",
+      "from": "2023-12-28T09:00:00.000Z",
+      "to": "2023-12-28T10:00:00.000Z",
+      "id": "44ef4a06ea8a54981cc4219804a699cb"
+    },
+    {
+      "date": "Le jeudi 28 décembre 2023 de  15:00:00 à  17:00:00",
+      "locality": "BELLE ROSE  ( Q BORNES )",
+      "localitySlug": "belle-rose",
+      "streets": "AVENUE ST LOUIS",
+      "district": "plainewilhems",
+      "from": "2023-12-28T11:00:00.000Z",
+      "to": "2023-12-28T13:00:00.000Z",
+      "id": "86dcae9b8d2d0d63784e4d8ade357fea"
+    },
+    {
+      "date": "Le jeudi 28 décembre 2023 de  20:00:00 à  20:45:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "CP LEVIEUX, STANLEY, ROCHES BRUNES",
+      "district": "plainewilhems",
+      "from": "2023-12-28T16:00:00.000Z",
+      "to": "2023-12-28T16:45:00.000Z",
+      "id": "37db0c33ef4de11931456730e1859603"
+    }
+  ]
+}

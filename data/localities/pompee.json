@@ -1,0 +1,74 @@
+{
+  "slug": "pompee",
+  "name": "POMPEE(RODRIGUES)",
+  "district": "rodrigues",
+  "generated": "2025-12-29T20:21:02.750Z",
+  "outageCount": 9,
+  "firstOutage": "2022-05-14",
+  "lastOutage": "2025-12-19",
+  "outages": [
+    {
+      "date": "Le vendredi 19 décembre 2025 de  15:00:00 à  16:00:00",
+      "streets": "Camp Paul et Eau Clair",
+      "from": "2025-12-19T11:00:00.000Z",
+      "to": "2025-12-19T12:00:00.000Z",
+      "id": "bc09e9f529c9b90a4d7a66928f76e5ac"
+    },
+    {
+      "date": "Le samedi 11 janvier 2025 de  08:30:00 à  15:00:00",
+      "streets": "Canne Paul, Songe,Port Sud Est,Mourouck,Montagne Cherie,Parc Tortue,Anse Baleine,Tamarin",
+      "from": "2025-01-11T04:30:00.000Z",
+      "to": "2025-01-11T11:00:00.000Z",
+      "id": "c7d5e25509905f4be0f9b63a672efc13"
+    },
+    {
+      "date": "Le vendredi 30 août 2024 de  15:00:00 à  16:00:00",
+      "streets": "Canne Paul",
+      "from": "2024-08-30T11:00:00.000Z",
+      "to": "2024-08-30T12:00:00.000Z",
+      "id": "a62dc60598545b96ef976e8132554f7c"
+    },
+    {
+      "date": "Le vendredi 30 août 2024 de  08:00:00 à  09:00:00",
+      "streets": "Canne Paul",
+      "from": "2024-08-30T04:00:00.000Z",
+      "to": "2024-08-30T05:00:00.000Z",
+      "id": "2821fb32b9e929a23b783e34ca45632b"
+    },
+    {
+      "date": "Le samedi 22 juin 2024 de  15:00:00 à  16:00:00",
+      "streets": "Camp Paul",
+      "from": "2024-06-22T11:00:00.000Z",
+      "to": "2024-06-22T12:00:00.000Z",
+      "id": "06a47e8a122137a071cb1a9d9ace15c6"
+    },
+    {
+      "date": "Le samedi 22 juin 2024 de  08:00:00 à  09:00:00",
+      "streets": "Camp Paul",
+      "from": "2024-06-22T04:00:00.000Z",
+      "to": "2024-06-22T05:00:00.000Z",
+      "id": "afe9476942e78537760495309a8933b6"
+    },
+    {
+      "date": "Le samedi 14 janvier 2023 de  08:30:00 à  15:00:00",
+      "streets": "Pompee, Eau Claire, Battue Madam",
+      "from": "2023-01-14T04:30:00.000Z",
+      "to": "2023-01-14T11:00:00.000Z",
+      "id": "8a644f273823d00c7ac3e1bc30ec8566"
+    },
+    {
+      "date": "Le samedi 14 mai 2022 de  14:00:00 à  15:00:00",
+      "streets": "POMPEE-EAU CLAIRE-BATTU MADAME-CAMP PAUL RODRIGUES",
+      "from": "2022-05-14T10:00:00.000Z",
+      "to": "2022-05-14T11:00:00.000Z",
+      "id": "8bd6202acf33959e0a688b520128f206"
+    },
+    {
+      "date": "Le samedi 14 mai 2022 de  08:30:00 à  09:30:00",
+      "streets": "POMPEE-EAU CLAIRE-BATTU MADAME-CAMP PAUL RODRIGUES",
+      "from": "2022-05-14T04:30:00.000Z",
+      "to": "2022-05-14T05:30:00.000Z",
+      "id": "c3f6ef02d2d9b5f525263c63acdce901"
+    }
+  ]
+}

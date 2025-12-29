@@ -1,0 +1,88 @@
+{
+  "date": "2024-03-13",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.402Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le mercredi 13 mars 2024 de  21:00:00 à  22:00:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "AVENUE MULET/CORDONIER",
+      "district": "blackriver",
+      "from": "2024-03-13T17:00:00.000Z",
+      "to": "2024-03-13T18:00:00.000Z",
+      "id": "f3c87054c71954713a03a4a66a27ac25"
+    },
+    {
+      "date": "Le mercredi 13 mars 2024 de  10:00:00 à  12:00:00",
+      "locality": "GRAND BEL AIR",
+      "localitySlug": "grand-bel-air",
+      "streets": "GRAND BEL AIR",
+      "district": "flacq",
+      "from": "2024-03-13T06:00:00.000Z",
+      "to": "2024-03-13T08:00:00.000Z",
+      "id": "a2ef1d2f82cddb99ce6cc23d0c7ba826"
+    },
+    {
+      "date": "Le mercredi 13 mars 2024 de  13:05:00 à  15:05:00",
+      "locality": "SOREZE",
+      "localitySlug": "soreze",
+      "streets": "ALLEE FLAMBOYANTS ET LES RUELLES AVOISINANTES.",
+      "district": "moka",
+      "from": "2024-03-13T09:05:00.000Z",
+      "to": "2024-03-13T11:05:00.000Z",
+      "id": "7e274ba99d4f2c579ced5f73888f8048"
+    },
+    {
+      "date": "Le mercredi 13 mars 2024 de  13:15:00 à  15:15:00",
+      "locality": "SOREZE",
+      "localitySlug": "soreze",
+      "streets": "ALLEE FLAMBOYANTS ET LES RUELLES AVOISINANTES.",
+      "district": "moka",
+      "from": "2024-03-13T09:15:00.000Z",
+      "to": "2024-03-13T11:15:00.000Z",
+      "id": "b765c6c2164166f7ff9443125ce22c57"
+    },
+    {
+      "date": "Le mercredi 13 mars 2024 de  20:30:00 à  22:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "CITE PERE LAVAL QUATRE BORNES",
+      "district": "plainewilhems",
+      "from": "2024-03-13T16:30:00.000Z",
+      "to": "2024-03-13T18:30:00.000Z",
+      "id": "086b27956405e09f433de67f1b53734a"
+    },
+    {
+      "date": "Le mercredi 13 mars 2024 de  10:50:00 à  12:50:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "QUEEN ELIZABETH ST ET EN PARTIE ROYAL ROAD",
+      "district": "rivieredurempart",
+      "from": "2024-03-13T06:50:00.000Z",
+      "to": "2024-03-13T08:50:00.000Z",
+      "id": "43fe594265b7984d5f4cbf53b1c3de74"
+    },
+    {
+      "date": "Le mercredi 13 mars 2024 de  12:30:00 à  14:30:00",
+      "locality": "ROCHE TERRE",
+      "localitySlug": "roche-terre",
+      "streets": "CHEMIN EDOUARD LAURENT, CHEMIN ANADHURAI ET LES ENVIRONS.",
+      "district": "rivieredurempart",
+      "from": "2024-03-13T08:30:00.000Z",
+      "to": "2024-03-13T10:30:00.000Z",
+      "id": "82c6c30114490732660b60d03e60c7ef"
+    },
+    {
+      "date": "Le mercredi 13 mars 2024 de  11:05:00 à  15:00:00",
+      "locality": "GRAND BOIS",
+      "localitySlug": "grand-bois",
+      "streets": "OLD SAVANNE ROAD GRAND BOIS",
+      "district": "savanne",
+      "from": "2024-03-13T07:05:00.000Z",
+      "to": "2024-03-13T11:00:00.000Z",
+      "id": "489644c3cf55a4053bfd1df766788a44"
+    }
+  ]
+}

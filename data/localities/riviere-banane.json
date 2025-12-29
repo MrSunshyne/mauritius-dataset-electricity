@@ -1,0 +1,46 @@
+{
+  "slug": "riviere-banane",
+  "name": "RIVIERE BANANE(RODRIGUES)",
+  "district": "rodrigues",
+  "generated": "2025-12-29T20:21:02.782Z",
+  "outageCount": 5,
+  "firstOutage": "2022-06-25",
+  "lastOutage": "2025-01-23",
+  "outages": [
+    {
+      "date": "Le jeudi 23 janvier 2025 de  08:00:00 à  12:00:00",
+      "streets": "Brulé, Petit Brulé, Bel Air, Graviers, Coromandel, Batatran, Palissade, Nassola, Montagne Malgache, Montagne Bois Noir et Thambes",
+      "from": "2025-01-23T04:00:00.000Z",
+      "to": "2025-01-23T08:00:00.000Z",
+      "id": "b3b5f4c826a31e92fb71ea70738205f0"
+    },
+    {
+      "date": "Le vendredi 8 décembre 2023 de  08:30:00 à  15:00:00",
+      "streets": "RIVIERE BANANE ET BEL AIR",
+      "from": "2023-12-08T04:30:00.000Z",
+      "to": "2023-12-08T11:00:00.000Z",
+      "id": "5d2040939170b4a94e3ddc66281f9834"
+    },
+    {
+      "date": "Le samedi 4 novembre 2023 de  08:30:00 à  15:00:00",
+      "streets": "Riviere Banane et Grenade",
+      "from": "2023-11-04T04:30:00.000Z",
+      "to": "2023-11-04T11:00:00.000Z",
+      "id": "a0fdd0ac8f3ed0efab7af32f91accfd6"
+    },
+    {
+      "date": "Le samedi 23 juillet 2022 de  08:30:00 à  15:30:00",
+      "streets": "Riviere Banane",
+      "from": "2022-07-23T04:30:00.000Z",
+      "to": "2022-07-23T11:30:00.000Z",
+      "id": "e1e11adfcc07786f249cbb10acaa4dcb"
+    },
+    {
+      "date": "Le samedi 25 juin 2022 de  08:30:00 à  15:30:00",
+      "streets": "Bel Air & Riviere Banane",
+      "from": "2022-06-25T04:30:00.000Z",
+      "to": "2022-06-25T11:30:00.000Z",
+      "id": "2c52fb82057013b7bea66599de8462a7"
+    }
+  ]
+}

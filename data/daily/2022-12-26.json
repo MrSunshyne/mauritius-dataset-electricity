@@ -1,0 +1,48 @@
+{
+  "date": "2022-12-26",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.370Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le lundi 26 décembre 2022 de  09:00:00 à  12:00:00",
+      "locality": "POINTE D-ESNY",
+      "localitySlug": "pointe-d-esny",
+      "streets": "BLUE BAY",
+      "district": "grandport",
+      "from": "2022-12-26T05:00:00.000Z",
+      "to": "2022-12-26T08:00:00.000Z",
+      "id": "4f5832206686c7bb561175443bd19fb5"
+    },
+    {
+      "date": "Le lundi 26 décembre 2022 de  08:30:00 à  12:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "8EME MILE TRIOLETPART OF ROYAL ROAD TRIOLETJAPANEESE RD TRIOLETTBS LANE TRIOLETONE WAY ROAD TRIOLET",
+      "district": "pamplemousses",
+      "from": "2022-12-26T04:30:00.000Z",
+      "to": "2022-12-26T08:00:00.000Z",
+      "id": "8ee95ecac3ed4def2083ae8be7e5e462"
+    },
+    {
+      "date": "Le lundi 26 décembre 2022 de  18:45:00 à  21:30:00",
+      "locality": "WOOTUN",
+      "localitySlug": "wootun",
+      "streets": "WOOTUN,MORC PINEWOOD,PLAINE DES HERMITAGES,CAMP FOUQUEREAUX",
+      "district": "plainewilhems",
+      "from": "2022-12-26T14:45:00.000Z",
+      "to": "2022-12-26T17:30:00.000Z",
+      "id": "89768816c6ff30663090e3a5b0ed4082"
+    },
+    {
+      "date": "Le lundi 26 décembre 2022 de  13:00:00 à  15:00:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "SCHOENFELD BYPASS RIVIERE DU REMPART",
+      "district": "rivieredurempart",
+      "from": "2022-12-26T09:00:00.000Z",
+      "to": "2022-12-26T11:00:00.000Z",
+      "id": "76d86862b62cf9250cb03993c2209235"
+    }
+  ]
+}

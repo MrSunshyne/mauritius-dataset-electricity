@@ -1,0 +1,88 @@
+{
+  "date": "2023-08-26",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.388Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le samedi 26 août 2023 de  08:30:00 à  15:30:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "LA MIVOIE - AVE BOIS CORAIL, AVE BOIS DEBENE, AVE CARLOS, KAZ A PAIN, RESIDENCE RIVIERA ET UNE PARTIE DE LA ROUTE ROYALE LA MIVOIE",
+      "district": "blackriver",
+      "from": "2023-08-26T04:30:00.000Z",
+      "to": "2023-08-26T11:30:00.000Z",
+      "id": "9e3ccdc347fe702b7e9259e6dc08cdad"
+    },
+    {
+      "date": "Le samedi 26 août 2023 de  12:00:00 à  13:00:00",
+      "locality": "CIRCONSTANCE",
+      "localitySlug": "circonstance",
+      "streets": "CIRCONSTANCE CHEMIN LA MARE ET ENVIRONS",
+      "district": "moka",
+      "from": "2023-08-26T08:00:00.000Z",
+      "to": "2023-08-26T09:00:00.000Z",
+      "id": "6d2e841c8c935c228cb73155b0faac35"
+    },
+    {
+      "date": "Le samedi 26 août 2023 de  11:00:00 à  15:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "Hermitage, Panorama Lane et Cascade",
+      "district": "plainewilhems",
+      "from": "2023-08-26T07:00:00.000Z",
+      "to": "2023-08-26T11:00:00.000Z",
+      "id": "a29b74a0e545bd61a3cce522c7a2cb29"
+    },
+    {
+      "date": "Le samedi 26 août 2023 de  09:00:00 à  12:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Route Royale, Ave Pere Laval, KFC, Flat Bel Canto, Appartement Taj, Rue Farquhar et les environs",
+      "district": "plainewilhems",
+      "from": "2023-08-26T05:00:00.000Z",
+      "to": "2023-08-26T08:00:00.000Z",
+      "id": "06088159c8fa0bc6b59ddaf5dd6b2ddd"
+    },
+    {
+      "date": "Le samedi 26 août 2023 de  08:30:00 à  14:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "MORC LE PRINTEMPS POINTE AUX SABLES DANS LES ENVIRONS DES AVENUES TECOMA ET PAQUERETTES",
+      "district": "portlouis",
+      "from": "2023-08-26T04:30:00.000Z",
+      "to": "2023-08-26T10:00:00.000Z",
+      "id": "d05453e0765d7b773d2ba7ff792cc176"
+    },
+    {
+      "date": "Le samedi 26 août 2023 de  14:00:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Le Chou",
+      "district": "rodrigues",
+      "from": "2023-08-26T10:00:00.000Z",
+      "to": "2023-08-26T11:00:00.000Z",
+      "id": "4d008374f2567b3bc7657400e86da4b7"
+    },
+    {
+      "date": "Le samedi 26 août 2023 de  08:00:00 à  09:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Pointe Venus",
+      "district": "rodrigues",
+      "from": "2023-08-26T04:00:00.000Z",
+      "to": "2023-08-26T05:00:00.000Z",
+      "id": "d06eaf42284ad70a0fa4399c97930610"
+    },
+    {
+      "date": "Le samedi 26 août 2023 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Le Chou",
+      "district": "rodrigues",
+      "from": "2023-08-26T04:30:00.000Z",
+      "to": "2023-08-26T11:00:00.000Z",
+      "id": "c0eb6ee812d16582aab094ce543a3c56"
+    }
+  ]
+}

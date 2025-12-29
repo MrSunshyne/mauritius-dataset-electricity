@@ -1,0 +1,28 @@
+{
+  "date": "2025-02-11",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.428Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mardi 11 février 2025 de  09:00:00 à  15:00:00",
+      "locality": "MON CHOISY",
+      "localitySlug": "mon-choisy",
+      "streets": "BOIS CHANDELLEMONT CHOISY",
+      "district": "pamplemousses",
+      "from": "2025-02-11T05:00:00.000Z",
+      "to": "2025-02-11T11:00:00.000Z",
+      "id": "e0cb01ae754055b68657a008da70a9f1"
+    },
+    {
+      "date": "Le mardi 11 février 2025 de  02:00:00 à  12:30:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "Hailey avenue ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2025-02-10T22:00:00.000Z",
+      "to": "2025-02-10T08:30:00.000Z",
+      "id": "959011b8a410b85996fd52fce1d08979"
+    }
+  ]
+}

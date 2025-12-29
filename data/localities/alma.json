@@ -1,0 +1,39 @@
+{
+  "slug": "alma",
+  "name": "ALMA",
+  "district": "portlouis",
+  "generated": "2025-12-29T20:21:02.466Z",
+  "outageCount": 4,
+  "firstOutage": "2023-05-09",
+  "lastOutage": "2025-12-23",
+  "outages": [
+    {
+      "date": "Le mardi 23 décembre 2025 de  09:00:00 à  12:00:00",
+      "streets": "le village DAlma",
+      "from": "2025-12-23T05:00:00.000Z",
+      "to": "2025-12-23T08:00:00.000Z",
+      "id": "528eb25a676e35e106e1870edcb5d20a"
+    },
+    {
+      "date": "Le mercredi 5 novembre 2025 de  09:50:00 à  15:00:00",
+      "streets": "PART OF ALMA",
+      "from": "2025-11-05T05:50:00.000Z",
+      "to": "2025-11-05T11:00:00.000Z",
+      "id": "915c82949755380b6421c128a73365d4"
+    },
+    {
+      "date": "Le samedi 29 juin 2024 de  08:30:00 à  16:00:00",
+      "streets": "Alma Camp",
+      "from": "2024-06-29T04:30:00.000Z",
+      "to": "2024-06-29T12:00:00.000Z",
+      "id": "483667a0f02dfc01efa05de8e7656422"
+    },
+    {
+      "date": "Le mardi 9 mai 2023 de  16:00:00 à  17:00:00",
+      "streets": "Les abonnés des village de L’Espérance, Alma et Upper Dagotière",
+      "from": "2023-05-09T12:00:00.000Z",
+      "to": "2023-05-09T13:00:00.000Z",
+      "id": "bae151066d867d4ad2a1e8df1f7ad799"
+    }
+  ]
+}

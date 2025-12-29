@@ -1,0 +1,78 @@
+{
+  "date": "2023-10-03",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.390Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le mardi 3 octobre 2023 de  13:00:00 à  17:00:00",
+      "locality": "PROVIDENCE BOIS DES AMOURETTES",
+      "localitySlug": "providence-bois-des-amourettes",
+      "streets": "Providence et une partie de Bois Des Amourettes",
+      "district": "grandport",
+      "from": "2023-10-03T09:00:00.000Z",
+      "to": "2023-10-03T13:00:00.000Z",
+      "id": "cd9d5e660a6e386926e4317c261c4057"
+    },
+    {
+      "date": "Le mardi 3 octobre 2023 de  15:00:00 à  17:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "DANS LES ENVIRONS CINEMA ANAND, TELECOM SHOP, COURTS MAMMOUTH,TRIOLET MEDI-CLINIC, BAZAAR TRIOLET,DISPENSARY RD,STATE BANK RD,MAHESHWAR NAGRI RD,TAGORE RD,CAMP LILAS,WINNERS TRIOLET",
+      "district": "pamplemousses",
+      "from": "2023-10-03T11:00:00.000Z",
+      "to": "2023-10-03T13:00:00.000Z",
+      "id": "9c18d2c16fb581fc5479e86789accba8"
+    },
+    {
+      "date": "Le mardi 3 octobre 2023 de  19:00:00 à  21:30:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "TRIOLET 8EME MILE, JAPANESE ROAD ET LES ALENTOURS",
+      "district": "pamplemousses",
+      "from": "2023-10-03T15:00:00.000Z",
+      "to": "2023-10-03T17:30:00.000Z",
+      "id": "763a73c722f87dcd58dad657585976b2"
+    },
+    {
+      "date": "Le mardi 3 octobre 2023 de  08:30:00 à  16:00:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "HENRIETTA AND GLEN PARK: NHDC Camp Mapou, une partie de Camp-Roches, Bhagat Lane, une partie de chemin Dévergues, une partie de Camp Fidèles",
+      "district": "plainewilhems",
+      "from": "2023-10-03T04:30:00.000Z",
+      "to": "2023-10-03T12:00:00.000Z",
+      "id": "77292443dbee6301cd05e8fbcaf0057c"
+    },
+    {
+      "date": "Le mardi 3 octobre 2023 de  13:45:00 à  15:30:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "CUREPIPE ANGRAIS CATHAN, EAU COULLEE",
+      "district": "plainewilhems",
+      "from": "2023-10-03T09:45:00.000Z",
+      "to": "2023-10-03T11:30:00.000Z",
+      "id": "6400e2c2ca3944f56803cc6817309799"
+    },
+    {
+      "date": "Le mardi 3 octobre 2023 de  13:45:00 à  14:45:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "HIGHLANDS MORC LONRHO, PLAYGROUND ROAD, CITE 50",
+      "district": "plainewilhems",
+      "from": "2023-10-03T09:45:00.000Z",
+      "to": "2023-10-03T10:45:00.000Z",
+      "id": "544d7887542385a8955863b5ce810dba"
+    },
+    {
+      "date": "Le mardi 3 octobre 2023 de  17:15:00 à  21:00:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": "REGION EAU COULEE",
+      "district": "plainewilhems",
+      "from": "2023-10-03T13:15:00.000Z",
+      "to": "2023-10-03T17:00:00.000Z",
+      "id": "13a709d569b8048aa554c5325938367a"
+    }
+  ]
+}

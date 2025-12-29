@@ -1,0 +1,158 @@
+{
+  "date": "2023-04-25",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.378Z",
+  "outageCount": 15,
+  "outages": [
+    {
+      "date": "Le mardi 25 avril 2023 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC SAFELAND- AVE DES CIGOGNES, AVE DES ROSSIGNOLES, AVE DES CANARIES, AVE DES PIGEONS, AVE CATEAUX VERT ET UNE PARTIE DE LAVE CARRIERE",
+      "district": "blackriver",
+      "from": "2023-04-25T04:30:00.000Z",
+      "to": "2023-04-25T11:30:00.000Z",
+      "id": "fa4cd4d5978c7efc4e2cb494f41d3fbf"
+    },
+    {
+      "date": "Le mardi 25 avril 2023 de  09:00:00 à  13:00:00",
+      "locality": "FUEL VILLAGE",
+      "localitySlug": "fuel-village",
+      "streets": "FUEL VILLAGE",
+      "district": "flacq",
+      "from": "2023-04-25T05:00:00.000Z",
+      "to": "2023-04-25T09:00:00.000Z",
+      "id": "c38f569084584f40f22d84a8b1d3129c"
+    },
+    {
+      "date": "Le mardi 25 avril 2023 de  09:30:00 à  17:00:00",
+      "locality": "VILLENOIRE",
+      "localitySlug": "villenoire",
+      "streets": "Morcellement Ruisseau Delices Ville Noire",
+      "district": "grandport",
+      "from": "2023-04-25T05:30:00.000Z",
+      "to": "2023-04-25T13:00:00.000Z",
+      "id": "8737ae5b635e198cbc2c09875ed081b2"
+    },
+    {
+      "date": "Le mardi 25 avril 2023 de  10:30:00 à  14:00:00",
+      "locality": "VERDUN",
+      "localitySlug": "verdun",
+      "streets": "ROYAL RD VERDUN NR POST OFFICE",
+      "district": "moka",
+      "from": "2023-04-25T06:30:00.000Z",
+      "to": "2023-04-25T10:00:00.000Z",
+      "id": "1a83c7bc44b887450161995396f5ae25"
+    },
+    {
+      "date": "Le mardi 25 avril 2023 de  10:00:00 à  14:00:00",
+      "locality": "PLAINE DES PAPAYES",
+      "localitySlug": "plaine-des-papayes",
+      "streets": "CEMETRY ROAD ,ROYAL ROAD PLAINE DES PAPAYES,KALIMAYE ROAD MORC ST ANDRE",
+      "district": "pamplemousses",
+      "from": "2023-04-25T06:00:00.000Z",
+      "to": "2023-04-25T10:00:00.000Z",
+      "id": "3cce0ac6effa23660e5ecda3cc914f6d"
+    },
+    {
+      "date": "Le mardi 25 avril 2023 de  09:00:00 à  11:00:00",
+      "locality": "MON GOUT",
+      "localitySlug": "mon-gout",
+      "streets": "RESIDENCE NHDC MON GOUT",
+      "district": "pamplemousses",
+      "from": "2023-04-25T05:00:00.000Z",
+      "to": "2023-04-25T07:00:00.000Z",
+      "id": "21d1da88d18fbd6631aa82c4b41a116a"
+    },
+    {
+      "date": "Le mardi 25 avril 2023 de  16:00:00 à  21:30:00",
+      "locality": "MON CHOISY",
+      "localitySlug": "mon-choisy",
+      "streets": "PTE AUX CANNONIER",
+      "district": "pamplemousses",
+      "from": "2023-04-25T12:00:00.000Z",
+      "to": "2023-04-25T17:30:00.000Z",
+      "id": "3b168b8d2976e6257fe357fe84553390"
+    },
+    {
+      "date": "Le mardi 25 avril 2023 de  15:00:00 à  17:30:00",
+      "locality": "HOLLYROOD",
+      "localitySlug": "hollyrood",
+      "streets": "Hollyrood No. 1, Carpen Lane, une partie du Route Begues, Lalljee Lane, Chemin La Source, Chemin Bonnefin, Chemin Reservoir",
+      "district": "plainewilhems",
+      "from": "2023-04-25T11:00:00.000Z",
+      "to": "2023-04-25T13:30:00.000Z",
+      "id": "a08026dd28355f36caabc3b066e797e5"
+    },
+    {
+      "date": "Le mardi 25 avril 2023 de  09:00:00 à  11:30:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "MORC MDMTPHARSE 3HIGHLANDS",
+      "district": "plainewilhems",
+      "from": "2023-04-25T05:00:00.000Z",
+      "to": "2023-04-25T07:30:00.000Z",
+      "id": "ed92661125a041b78acfb5ffafd3d023"
+    },
+    {
+      "date": "Le mardi 25 avril 2023 de  16:30:00 à  17:30:00",
+      "locality": "LA CAVERNE",
+      "localitySlug": "la-caverne",
+      "streets": "LACAVERNE,AVENUE JOHN KENEDDY,HOLLYWOOD NO 1,15 CARTON,BOIS NOIR",
+      "district": "plainewilhems",
+      "from": "2023-04-25T12:30:00.000Z",
+      "to": "2023-04-25T13:30:00.000Z",
+      "id": "b2923800908d8ad314b69a70f53e8e2e"
+    },
+    {
+      "date": "Le mardi 25 avril 2023 de  22:00:00 à  00:30:00",
+      "locality": "HOLLYROOD",
+      "localitySlug": "hollyrood",
+      "streets": "HOLLYROOD NUM 1",
+      "district": "plainewilhems",
+      "from": "2023-04-25T18:00:00.000Z",
+      "to": "2023-04-24T20:30:00.000Z",
+      "id": "a01b08f6ae68ef0272d112ed99f47e85"
+    },
+    {
+      "date": "Le mardi 25 avril 2023 de  21:30:00 à  00:30:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "ROYAL ROAD BEAU BASSIN NR KFC",
+      "district": "plainewilhems",
+      "from": "2023-04-25T17:30:00.000Z",
+      "to": "2023-04-24T20:30:00.000Z",
+      "id": "89c0a8c7907721b80de57d58dd3a690a"
+    },
+    {
+      "date": "Le mardi 25 avril 2023 de  09:30:00 à  14:00:00",
+      "locality": "CITE LA CURE",
+      "localitySlug": "cite-la-cure",
+      "streets": "DANS LES ENVIRONS DE ROBERT SCOTT ET LE CORNU",
+      "district": "portlouis",
+      "from": "2023-04-25T05:30:00.000Z",
+      "to": "2023-04-25T10:00:00.000Z",
+      "id": "82f44d7546caf732b83d2284164c3636"
+    },
+    {
+      "date": "Le mardi 25 avril 2023 de  09:00:00 à  10:30:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "DISPENSARY RD GRAND BAY",
+      "district": "rivieredurempart",
+      "from": "2023-04-25T05:00:00.000Z",
+      "to": "2023-04-25T06:30:00.000Z",
+      "id": "2e98d860739664c3e6a02bf666213c47"
+    },
+    {
+      "date": "Le mardi 25 avril 2023 de  19:00:00 à  10:00:00",
+      "locality": "POINTE AUX CANONNIERS",
+      "localitySlug": "pointe-aux-canonniers",
+      "streets": "BOUGAINVILLIER",
+      "district": "rodrigues",
+      "from": "2023-04-25T15:00:00.000Z",
+      "to": "2023-04-25T06:00:00.000Z",
+      "id": "1e215aa36f82057d237721fe6b32cc39"
+    }
+  ]
+}

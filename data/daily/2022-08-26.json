@@ -1,0 +1,58 @@
+{
+  "date": "2022-08-26",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.361Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le vendredi 26 août 2022 de  09:00:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "AVE ST PIERRE, AVE DES FRANGIPANES, AVE ALAMANDAS, AVE DES PALMIERS ET AVE DES FILAOS",
+      "district": "blackriver",
+      "from": "2022-08-26T05:00:00.000Z",
+      "to": "2022-08-26T11:30:00.000Z",
+      "id": "97a9166511c9fae5d0bbb3a6900741be"
+    },
+    {
+      "date": "Le vendredi 26 août 2022 de  16:00:00 à  17:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "GLEN PARK AND HENRIETTA VACOAS : Camp Mumbai No. 1, 2, 3 et 4, Desvergues Road, Morcellement Malakoff, Rempart Road, Morcellement Edoo, Perier Road, Railway Road, La Marie Road, NHDC Glen-Park, Carreau Songe, Morcellement Galliot, Nathoo Lane Morcellement Curumthaully, Camp Tickfine, Rampart Road",
+      "district": "plainewilhems",
+      "from": "2022-08-26T12:00:00.000Z",
+      "to": "2022-08-26T13:30:00.000Z",
+      "id": "019afd06172b63a4b1991e7e786a279f"
+    },
+    {
+      "date": "Le vendredi 26 août 2022 de  15:15:00 à  16:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "Morc Montreal, Dafodil Ave, Capucine Ave, Dahlia Ave, Andreanum Ave, Balsamine Ave et les environs",
+      "district": "plainewilhems",
+      "from": "2022-08-26T11:15:00.000Z",
+      "to": "2022-08-26T12:00:00.000Z",
+      "id": "bb3ff656e3129d4ae925aa330b65322d"
+    },
+    {
+      "date": "Le vendredi 26 août 2022 de  08:30:00 à  15:30:00",
+      "locality": "MELVIILE",
+      "localitySlug": "melviile",
+      "streets": "dans les environs de couacaud rd et kashmir rd",
+      "district": "rivieredurempart",
+      "from": "2022-08-26T04:30:00.000Z",
+      "to": "2022-08-26T11:30:00.000Z",
+      "id": "10720a11019789a572174fab4906ef2e"
+    },
+    {
+      "date": "Le vendredi 26 août 2022 de  08:30:00 à  13:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "TAMARIN,ANSE RAFFIN",
+      "district": "rodrigues",
+      "from": "2022-08-26T04:30:00.000Z",
+      "to": "2022-08-26T09:00:00.000Z",
+      "id": "859269f0bee42059ff7640bb8242fd87"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "date": "2022-05-02",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.354Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le lundi 2 mai 2022 de  09:00:00 à  11:00:00",
+      "locality": "BRAMSTHAN",
+      "localitySlug": "bramsthan",
+      "streets": "Morc VRS Bramsthan",
+      "district": "flacq",
+      "from": "2022-05-02T05:00:00.000Z",
+      "to": "2022-05-02T07:00:00.000Z",
+      "id": "e1a060dd5d34437d8531b94cda6dc101"
+    },
+    {
+      "date": "Le lundi 2 mai 2022 de  09:00:00 à  11:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Tres Bon Vacoas",
+      "district": "plainewilhems",
+      "from": "2022-05-02T05:00:00.000Z",
+      "to": "2022-05-02T07:00:00.000Z",
+      "id": "2db528316975f7120619f4e1236178f6"
+    },
+    {
+      "date": "Le lundi 2 mai 2022 de  09:00:00 à  12:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "Floreal Square",
+      "district": "plainewilhems",
+      "from": "2022-05-02T05:00:00.000Z",
+      "to": "2022-05-02T08:00:00.000Z",
+      "id": "dd8e4992d66f7a9d0f15b21e0eb2ac80"
+    },
+    {
+      "date": "Le lundi 2 mai 2022 de  15:30:00 à  16:30:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes : Partie de St Clément , Partie de Route Jardin, Bernardin de St Pierre, Poupinel et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-05-02T11:30:00.000Z",
+      "to": "2022-05-02T12:30:00.000Z",
+      "id": "bcebfc0c9908aea72b2fafe70451ea6f"
+    },
+    {
+      "date": "Le lundi 2 mai 2022 de  15:45:00 à  17:30:00",
+      "locality": "LA SALINE",
+      "localitySlug": "la-saline",
+      "streets": "Rue Tan Kwen P.Louis",
+      "district": "portlouis",
+      "from": "2022-05-02T11:45:00.000Z",
+      "to": "2022-05-02T13:30:00.000Z",
+      "id": "0eabc9861052955f99951e53bc6c158e"
+    },
+    {
+      "date": "Le lundi 2 mai 2022 de  16:45:00 à  18:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "Vallee des Pretres",
+      "district": "portlouis",
+      "from": "2022-05-02T12:45:00.000Z",
+      "to": "2022-05-02T14:00:00.000Z",
+      "id": "f79ab028c74be56e946b1106cb30da9a"
+    }
+  ]
+}

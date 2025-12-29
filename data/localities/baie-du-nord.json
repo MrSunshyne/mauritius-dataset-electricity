@@ -1,0 +1,32 @@
+{
+  "slug": "baie-du-nord",
+  "name": "BAIE DU NORD(RODRIGUES)",
+  "district": "rodrigues",
+  "generated": "2025-12-29T20:21:02.474Z",
+  "outageCount": 3,
+  "firstOutage": "2024-05-16",
+  "lastOutage": "2025-01-18",
+  "outages": [
+    {
+      "date": "Le samedi 18 janvier 2025 de  15:00:00 à  16:00:00",
+      "streets": "La Ferme, Piments, Baie Topaze et Camp Pintade",
+      "from": "2025-01-18T11:00:00.000Z",
+      "to": "2025-01-18T12:00:00.000Z",
+      "id": "e1f7b5992c84317dcb56e19dc4b878b4"
+    },
+    {
+      "date": "Le samedi 18 janvier 2025 de  08:00:00 à  09:00:00",
+      "streets": "La Ferme, Piments, Baie Topaze et Camp Pintade",
+      "from": "2025-01-18T04:00:00.000Z",
+      "to": "2025-01-18T05:00:00.000Z",
+      "id": "5be73bb7cf0449921d5d18dfd018f990"
+    },
+    {
+      "date": "Le jeudi 16 mai 2024 de  08:30:00 à  12:00:00",
+      "streets": "Baie Diamant, Anse Goeland and baie Malgache",
+      "from": "2024-05-16T04:30:00.000Z",
+      "to": "2024-05-16T08:00:00.000Z",
+      "id": "44ce5eed60cc78fd66c0703f8ec96f23"
+    }
+  ]
+}

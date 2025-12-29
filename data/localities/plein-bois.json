@@ -1,0 +1,32 @@
+{
+  "slug": "plein-bois",
+  "name": "PLEIN BOIS",
+  "district": "grandport",
+  "generated": "2025-12-29T20:21:02.743Z",
+  "outageCount": 3,
+  "firstOutage": "2023-11-23",
+  "lastOutage": "2024-07-26",
+  "outages": [
+    {
+      "date": "Le vendredi 26 juillet 2024 de  08:00:00 à  16:00:00",
+      "streets": "Malakoff and Plein Bois Village",
+      "from": "2024-07-26T04:00:00.000Z",
+      "to": "2024-07-26T12:00:00.000Z",
+      "id": "d7b56aa6753c2e5b468198827cd0aee9"
+    },
+    {
+      "date": "Le mardi 19 mars 2024 de  14:00:00 à  16:00:00",
+      "streets": "PLEIN BOIS VILLAGE",
+      "from": "2024-03-19T10:00:00.000Z",
+      "to": "2024-03-19T12:00:00.000Z",
+      "id": "ddef51086a03bb12fa60adf4989626bd"
+    },
+    {
+      "date": "Le jeudi 23 novembre 2023 de  09:00:00 à  15:00:00",
+      "streets": "Plein Bois et Malakoff habitant dans le périmètre et les rues suivantes: Morcellement Plein Bois, Plein Bois Village et Malakoff Village",
+      "from": "2023-11-23T05:00:00.000Z",
+      "to": "2023-11-23T11:00:00.000Z",
+      "id": "b8437eb8321bda54ffefae18b389ca0d"
+    }
+  ]
+}

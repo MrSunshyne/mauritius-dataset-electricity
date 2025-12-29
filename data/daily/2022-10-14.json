@@ -1,0 +1,58 @@
+{
+  "date": "2022-10-14",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.364Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le vendredi 14 octobre 2022 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "Morc Green Creek, Ave des Bernaches, Ave l’Ile d’Ambre et une partie de l’Ave du Rempart",
+      "district": "blackriver",
+      "from": "2022-10-14T04:30:00.000Z",
+      "to": "2022-10-14T11:30:00.000Z",
+      "id": "63072fc209948d4145a1a6ecab7d34db"
+    },
+    {
+      "date": "Le vendredi 14 octobre 2022 de  14:30:00 à  16:00:00",
+      "locality": "MOUNT",
+      "localitySlug": "mount",
+      "streets": "Les abonnés habitant Mount Village, Morcellement Mon Piton, Le Plessis et Petite Rosalie",
+      "district": "pamplemousses",
+      "from": "2022-10-14T10:30:00.000Z",
+      "to": "2022-10-14T12:00:00.000Z",
+      "id": "2d2f3472ab2a4de0ef5a6bcc116b399e"
+    },
+    {
+      "date": "Le vendredi 14 octobre 2022 de  08:30:00 à  15:30:00",
+      "locality": "MONT BLANC",
+      "localitySlug": "mont-blanc",
+      "streets": "Le village de Mont Blanc",
+      "district": "plainewilhems",
+      "from": "2022-10-14T04:30:00.000Z",
+      "to": "2022-10-14T11:30:00.000Z",
+      "id": "844707bb2fceadab53228909436566a4"
+    },
+    {
+      "date": "Le vendredi 14 octobre 2022 de  06:00:00 à  11:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "RAHUL FOLLEREAU BEAU BASSIN",
+      "district": "plainewilhems",
+      "from": "2022-10-14T02:00:00.000Z",
+      "to": "2022-10-14T07:00:00.000Z",
+      "id": "e46d392101a204907b43b0445ec37f25"
+    },
+    {
+      "date": "Le vendredi 14 octobre 2022 de  15:00:00 à  16:30:00",
+      "locality": "BELL VILLAGE",
+      "localitySlug": "bell-village",
+      "streets": "LES ABONNES HABITANT BELL VILLAGE DANS LES ENVIRONS DES RUES BRABANT, REDOUTE, MENAGERIE, CROSS,PAUL FURCY ADELE, VICTOR KVERN, POLICE FLAT ET UNE PARTIE DE OLD MOKA ROAD",
+      "district": "portlouis",
+      "from": "2022-10-14T11:00:00.000Z",
+      "to": "2022-10-14T12:30:00.000Z",
+      "id": "3569de451ac1bac32fdf370215baea92"
+    }
+  ]
+}

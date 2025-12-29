@@ -1,0 +1,58 @@
+{
+  "date": "2024-12-05",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.423Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le jeudi 5 décembre 2024 de  09:00:00 à  14:00:00",
+      "locality": "DUBREUIL",
+      "localitySlug": "dubreuil",
+      "streets": "le village de Dubreuil",
+      "district": "moka",
+      "from": "2024-12-05T05:00:00.000Z",
+      "to": "2024-12-05T10:00:00.000Z",
+      "id": "d020e5de559a81d87ff8ca8c830e8d9f"
+    },
+    {
+      "date": "Le jeudi 5 décembre 2024 de  08:00:00 à  16:00:00",
+      "locality": "KHOYRATTY",
+      "localitySlug": "khoyratty",
+      "streets": "CALEBASSES AUX ALENTOURS DU DISTRICT COUNCIL DE PAMPLEMOUSSES ET PISCINE SOUVENIR, KHOYRATTY AUX ALENTOURS DE SAHI MOTORS ET OLD FLACQ ROAD",
+      "district": "pamplemousses",
+      "from": "2024-12-05T04:00:00.000Z",
+      "to": "2024-12-05T12:00:00.000Z",
+      "id": "557c72c6c0f2245199c1b1168435e8bc"
+    },
+    {
+      "date": "Le jeudi 5 décembre 2024 de  08:00:00 à  16:00:00",
+      "locality": "CALEBASSES",
+      "localitySlug": "calebasses",
+      "streets": "CALEBASSES AUX ALENTOURS DU DISTRICT COUNCIL DE PAMPLEMOUSSES ET PISCINE SOUVENIR, KHOYRATTY AUX ALENTOURS DE SAHI MOTORS ET OLD FLACQ ROAD",
+      "district": "pamplemousses",
+      "from": "2024-12-05T04:00:00.000Z",
+      "to": "2024-12-05T12:00:00.000Z",
+      "id": "587cf9933ffb1f2ff6858709f247402d"
+    },
+    {
+      "date": "Le jeudi 5 décembre 2024 de  14:30:00 à  17:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Palma, Morc Poonith, Ave Seeneevassen, Gopal Lane, Plaspak, La Source, Morc Bhunjun, Poussepasse et NHDC Palma",
+      "district": "plainewilhems",
+      "from": "2024-12-05T10:30:00.000Z",
+      "to": "2024-12-05T13:00:00.000Z",
+      "id": "9bc43f5ebfd0dc090d483e8f9677627a"
+    },
+    {
+      "date": "Le jeudi 5 décembre 2024 de  09:30:00 à  14:00:00",
+      "locality": "LESUR",
+      "localitySlug": "lesur",
+      "streets": "LESUR",
+      "district": "plainewilhems",
+      "from": "2024-12-05T05:30:00.000Z",
+      "to": "2024-12-05T10:00:00.000Z",
+      "id": "ed771399702dab02887d7f57acbdf041"
+    }
+  ]
+}

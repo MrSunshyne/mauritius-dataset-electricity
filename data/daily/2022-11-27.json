@@ -1,0 +1,48 @@
+{
+  "date": "2022-11-27",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.367Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le dimanche 27 novembre 2022 de  10:00:00 à  14:00:00",
+      "locality": "TRANQUEBAR",
+      "localitySlug": "tranquebar",
+      "streets": "TRANQUEBAR",
+      "district": "portlouis",
+      "from": "2022-11-27T06:00:00.000Z",
+      "to": "2022-11-27T10:00:00.000Z",
+      "id": "d7d8e8c370e6785fb03fc422165b9ea5"
+    },
+    {
+      "date": "Le dimanche 27 novembre 2022 de  07:00:00 à  15:00:00",
+      "locality": "REUNION MAUREL",
+      "localitySlug": "reunion-maurel",
+      "streets": "DOMAINE HILLSIDE, DOMAINE DE BELLE VUE(BUTTE AUX PAPAYES), ROUILLARD ET REUNION MAUREL",
+      "district": "rivieredurempart",
+      "from": "2022-11-27T03:00:00.000Z",
+      "to": "2022-11-27T11:00:00.000Z",
+      "id": "25d5f822090e4d1cbdb15c507645b859"
+    },
+    {
+      "date": "Le dimanche 27 novembre 2022 de  07:00:00 à  15:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "MORC ST ANTOINE PHASE 1,2,3MAMZELLE JEANNE, MADAME AZOR, ST ANTOINE COMPOUND, MORC PETIT VILLAGE, PAVE RD ET TRIANGLE RD GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2022-11-27T03:00:00.000Z",
+      "to": "2022-11-27T11:00:00.000Z",
+      "id": "2350259abfb64d44daa157cd70fefaf7"
+    },
+    {
+      "date": "Le dimanche 27 novembre 2022 de  21:40:00 à  23:00:00",
+      "locality": "MAPOU",
+      "localitySlug": "mapou",
+      "streets": "DOMAINE DE LABOURDONNAIS",
+      "district": "rodrigues",
+      "from": "2022-11-27T17:40:00.000Z",
+      "to": "2022-11-27T19:00:00.000Z",
+      "id": "8a895c05273bffe3e2838f18d2d0d1c6"
+    }
+  ]
+}

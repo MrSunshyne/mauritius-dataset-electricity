@@ -1,0 +1,28 @@
+{
+  "date": "2024-06-29",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.410Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le samedi 29 juin 2024 de  18:40:00 à  19:20:00",
+      "locality": "BEL ETANG",
+      "localitySlug": "bel-etang",
+      "streets": "PART OF BEL ETANG",
+      "district": "flacq",
+      "from": "2024-06-29T14:40:00.000Z",
+      "to": "2024-06-29T15:20:00.000Z",
+      "id": "9811297e51afe562c453b6afd33e9128"
+    },
+    {
+      "date": "Le samedi 29 juin 2024 de  08:30:00 à  16:00:00",
+      "locality": "ALMA",
+      "localitySlug": "alma",
+      "streets": "Alma Camp",
+      "district": "portlouis",
+      "from": "2024-06-29T04:30:00.000Z",
+      "to": "2024-06-29T12:00:00.000Z",
+      "id": "483667a0f02dfc01efa05de8e7656422"
+    }
+  ]
+}

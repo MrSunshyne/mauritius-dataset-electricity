@@ -1,0 +1,78 @@
+{
+  "date": "2023-01-10",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.370Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le mardi 10 janvier 2023 de  21:00:00 à  22:00:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "MORC LA FALAISE TAMARIN",
+      "district": "blackriver",
+      "from": "2023-01-10T17:00:00.000Z",
+      "to": "2023-01-10T18:00:00.000Z",
+      "id": "d67cb1c1da9e837b19b584f533af6c61"
+    },
+    {
+      "date": "Le mardi 10 janvier 2023 de  18:00:00 à  19:30:00",
+      "locality": "ARSENAL",
+      "localitySlug": "arsenal",
+      "streets": "SHRIMATI INDIRA GANDHI ROAD AND SURROUNDING REGION",
+      "district": "pamplemousses",
+      "from": "2023-01-10T14:00:00.000Z",
+      "to": "2023-01-10T15:30:00.000Z",
+      "id": "2f885a563cafdcb47b2d8123bbfcbc77"
+    },
+    {
+      "date": "Le mardi 10 janvier 2023 de  20:00:00 à  22:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "FLORIDA LANE AND NEARBY REGION",
+      "district": "pamplemousses",
+      "from": "2023-01-10T16:00:00.000Z",
+      "to": "2023-01-10T18:00:00.000Z",
+      "id": "1cf0b6b488c87fbdba2d9d4fa4a76c95"
+    },
+    {
+      "date": "Le mardi 10 janvier 2023 de  08:30:00 à  12:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "AVENUE WELLINGTON, AVENUE MILTON ET LES ENVIRONS, ROSE HILL.",
+      "district": "plainewilhems",
+      "from": "2023-01-10T04:30:00.000Z",
+      "to": "2023-01-10T08:00:00.000Z",
+      "id": "c784ba285ec1153b02981f428e488f30"
+    },
+    {
+      "date": "Le mardi 10 janvier 2023 de  14:00:00 à  16:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "BASSIN,JACKSON",
+      "district": "plainewilhems",
+      "from": "2023-01-10T10:00:00.000Z",
+      "to": "2023-01-10T12:30:00.000Z",
+      "id": "bb5de117952a0a067c29fc6f6c685624"
+    },
+    {
+      "date": "Le mardi 10 janvier 2023 de  14:00:00 à  18:00:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "MANDARIN,RAMJUTTUN",
+      "district": "plainewilhems",
+      "from": "2023-01-10T10:00:00.000Z",
+      "to": "2023-01-10T14:00:00.000Z",
+      "id": "0bffbb23161ed4faa954b024474f40c4"
+    },
+    {
+      "date": "Le mardi 10 janvier 2023 de  10:30:00 à  15:00:00",
+      "locality": "VALLEE PITOT",
+      "localitySlug": "vallee-pitot",
+      "streets": "RUES MAMELON VERT, BOULEVARD PITOT, BOULEVARD HUGON, CRIMEA ET LES ENVIRONS.",
+      "district": "portlouis",
+      "from": "2023-01-10T06:30:00.000Z",
+      "to": "2023-01-10T11:00:00.000Z",
+      "id": "fb3bfc4ae4801eed8ad29a05b15d3a7a"
+    }
+  ]
+}

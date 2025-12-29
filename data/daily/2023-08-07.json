@@ -1,0 +1,28 @@
+{
+  "date": "2023-08-07",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.386Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le lundi 7 août 2023 de  12:15:00 à  14:30:00",
+      "locality": "RIVIERE DES CREOLES",
+      "localitySlug": "riviere-des-creoles",
+      "streets": "School Rd,Rishi Dayanan st,Mahatma Gandhi st and nearby region",
+      "district": "grandport",
+      "from": "2023-08-07T08:15:00.000Z",
+      "to": "2023-08-07T10:30:00.000Z",
+      "id": "568766aec1d20652ace47608bc3b06aa"
+    },
+    {
+      "date": "Le lundi 7 août 2023 de  15:00:00 à  17:00:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "Hassan Raffa Road, Bundhoo Lane",
+      "district": "plainewilhems",
+      "from": "2023-08-07T11:00:00.000Z",
+      "to": "2023-08-07T13:00:00.000Z",
+      "id": "24d80de15ee90bdce776acc63949c71f"
+    }
+  ]
+}

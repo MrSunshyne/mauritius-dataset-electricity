@@ -1,0 +1,68 @@
+{
+  "date": "2022-04-05",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.352Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le mardi 5 avril 2022 de  10:00:00 à  11:30:00",
+      "locality": "PROVIDENCE LA PORTE",
+      "localitySlug": "providence-la-porte",
+      "streets": "PRIVIDENCE LAPORTE",
+      "district": "flacq",
+      "from": "2022-04-05T06:00:00.000Z",
+      "to": "2022-04-05T07:30:00.000Z",
+      "id": "83517d44d87de50dc6f96895af69ad11"
+    },
+    {
+      "date": "Le mardi 5 avril 2022 de  10:00:00 à  16:00:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "LA SOURCE CENTRE DE FLACK",
+      "district": "flacq",
+      "from": "2022-04-05T06:00:00.000Z",
+      "to": "2022-04-05T12:00:00.000Z",
+      "id": "07547a2371049d2c20225bb601bfa0fa"
+    },
+    {
+      "date": "Le mardi 5 avril 2022 de  09:00:00 à  14:00:00",
+      "locality": "MARE D-ALBERT",
+      "localitySlug": "mare-d-albert",
+      "streets": "MAREDALBERT/LAROSA",
+      "district": "grandport",
+      "from": "2022-04-05T05:00:00.000Z",
+      "to": "2022-04-05T10:00:00.000Z",
+      "id": "7e603397b2c23cda7c0aa9d0d30faf92"
+    },
+    {
+      "date": "Le mardi 5 avril 2022 de  09:00:00 à  13:00:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": "RUE GIQUEL EAU COULEE",
+      "district": "plainewilhems",
+      "from": "2022-04-05T05:00:00.000Z",
+      "to": "2022-04-05T09:00:00.000Z",
+      "id": "05bbb8c1cb63ec4e261e8b2a06c1b33f"
+    },
+    {
+      "date": "Le mardi 5 avril 2022 de  09:00:00 à  10:30:00",
+      "locality": "CITE ATLEE",
+      "localitySlug": "cite-atlee",
+      "streets": "CITE ATLEE",
+      "district": "plainewilhems",
+      "from": "2022-04-05T05:00:00.000Z",
+      "to": "2022-04-05T06:30:00.000Z",
+      "id": "2817eeec73729acf606a17e970cea6f6"
+    },
+    {
+      "date": "Le mardi 5 avril 2022 de  08:30:00 à  15:00:00",
+      "locality": "UPPER VALE",
+      "localitySlug": "upper-vale",
+      "streets": "THE VALE",
+      "district": "rivieredurempart",
+      "from": "2022-04-05T04:30:00.000Z",
+      "to": "2022-04-05T11:00:00.000Z",
+      "id": "b35980032a643047c3beee822e2751bd"
+    }
+  ]
+}

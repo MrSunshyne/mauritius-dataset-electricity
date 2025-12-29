@@ -1,0 +1,88 @@
+{
+  "date": "2023-05-16",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.380Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le mardi 16 mai 2023 de  08:30:00 à  16:30:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "MORC RAMDANEE",
+      "district": "blackriver",
+      "from": "2023-05-16T04:30:00.000Z",
+      "to": "2023-05-16T12:30:00.000Z",
+      "id": "c2b1312adf6d747a7bc042b45fb35d4d"
+    },
+    {
+      "date": "Le mardi 16 mai 2023 de  09:30:00 à  11:00:00",
+      "locality": "ANSE JONCHEE",
+      "localitySlug": "anse-jonchee",
+      "streets": "Anse Jonchée, Terre Cassée et Domaine Du Chasseur",
+      "district": "grandport",
+      "from": "2023-05-16T05:30:00.000Z",
+      "to": "2023-05-16T07:00:00.000Z",
+      "id": "b12f5e4dec8d646bce3deccc6233d5d6"
+    },
+    {
+      "date": "Le mardi 16 mai 2023 de  09:00:00 à  14:00:00",
+      "locality": "DUBREUIL",
+      "localitySlug": "dubreuil",
+      "streets": "Les abonnés du Village de Dubreuil habitant NHDC Dubreuil, Impasse Mahatma Gandhi et les ruelles avoisinantes",
+      "district": "moka",
+      "from": "2023-05-16T05:00:00.000Z",
+      "to": "2023-05-16T10:00:00.000Z",
+      "id": "84d6ea0128f7905a3aef10a47c7f3c57"
+    },
+    {
+      "date": "Le mardi 16 mai 2023 de  15:00:00 à  16:30:00",
+      "locality": "CIRCONSTANCE",
+      "localitySlug": "circonstance",
+      "streets": "LPG, ROYAL RD UPTO BADAL RD,PART OF CEMETERY RD",
+      "district": "moka",
+      "from": "2023-05-16T11:00:00.000Z",
+      "to": "2023-05-16T12:30:00.000Z",
+      "id": "3a55c25e1455148cf0c30e0b84b4d621"
+    },
+    {
+      "date": "Le mardi 16 mai 2023 de  15:45:00 à  18:00:00",
+      "locality": "CONGOMAH",
+      "localitySlug": "congomah",
+      "streets": "BELVEDERE RD CONGOMAH",
+      "district": "pamplemousses",
+      "from": "2023-05-16T11:45:00.000Z",
+      "to": "2023-05-16T14:00:00.000Z",
+      "id": "8dc591b0f9e88b6338f6f7874e129f20"
+    },
+    {
+      "date": "Le mardi 16 mai 2023 de  09:00:00 à  12:00:00",
+      "locality": "MIDLANDS",
+      "localitySlug": "midlands",
+      "streets": "MIDLANDS",
+      "district": "plainewilhems",
+      "from": "2023-05-16T05:00:00.000Z",
+      "to": "2023-05-16T08:00:00.000Z",
+      "id": "73df489e39be822c29f42c8905c5261c"
+    },
+    {
+      "date": "Le mardi 16 mai 2023 de  16:00:00 à  17:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "WARD IV",
+      "district": "portlouis",
+      "from": "2023-05-16T12:00:00.000Z",
+      "to": "2023-05-16T13:00:00.000Z",
+      "id": "5d5a9167b1deba96012d9743824f4438"
+    },
+    {
+      "date": "Le mardi 16 mai 2023 de  09:00:00 à  12:00:00",
+      "locality": "BANANES",
+      "localitySlug": "bananes",
+      "streets": "ROYAL RD BANANES-MIDLANDS",
+      "district": "savanne",
+      "from": "2023-05-16T05:00:00.000Z",
+      "to": "2023-05-16T08:00:00.000Z",
+      "id": "7f21cf72a6f67cfd78244b3577a52221"
+    }
+  ]
+}

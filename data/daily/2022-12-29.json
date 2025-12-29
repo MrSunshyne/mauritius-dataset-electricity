@@ -1,0 +1,78 @@
+{
+  "date": "2022-12-29",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.370Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le jeudi 29 décembre 2022 de  14:30:00 à  19:00:00",
+      "locality": "LA MIVOIE",
+      "localitySlug": "la-mivoie",
+      "streets": "UNE PARTIE DE ROUTE ROYALE LA MIVOIE COMPRENANT AVENUE BOIS DE NATTES DANS LES ENVIRONS DU BATIMENT PALM SQUARE ET BUREAU CEB DE LA MIVOIE",
+      "district": "blackriver",
+      "from": "2022-12-29T10:30:00.000Z",
+      "to": "2022-12-29T15:00:00.000Z",
+      "id": "eb4dbe794012674514b2be690fa5c6a1"
+    },
+    {
+      "date": "Le jeudi 29 décembre 2022 de  15:00:00 à  15:30:00",
+      "locality": "VERDUN",
+      "localitySlug": "verdun",
+      "streets": "Village Verdun et CWA Dagotiere",
+      "district": "moka",
+      "from": "2022-12-29T11:00:00.000Z",
+      "to": "2022-12-29T11:30:00.000Z",
+      "id": "a128b436bd1be26822358a92cac6c78a"
+    },
+    {
+      "date": "Le jeudi 29 décembre 2022 de  09:00:00 à  09:30:00",
+      "locality": "VERDUN",
+      "localitySlug": "verdun",
+      "streets": "Village Verdun et CWA Dagotiere",
+      "district": "moka",
+      "from": "2022-12-29T05:00:00.000Z",
+      "to": "2022-12-29T05:30:00.000Z",
+      "id": "0e2662882b4485d47120ba4cc52eff3b"
+    },
+    {
+      "date": "Le jeudi 29 décembre 2022 de  09:00:00 à  12:00:00",
+      "locality": "PLAINE DES PAPAYES",
+      "localitySlug": "plaine-des-papayes",
+      "streets": "Les abonnés habitant Morcellement Ramphul, NHDC Plaines Des Papayes, Morcellement Hurrangee, Irrigation Road Plaines Des Papayes, Bonair Road Morcellement St Andre et Zone Industrielle Bonair",
+      "district": "pamplemousses",
+      "from": "2022-12-29T05:00:00.000Z",
+      "to": "2022-12-29T08:00:00.000Z",
+      "id": "6b7e1c304b2bfb41a56918e3c6fbdec4"
+    },
+    {
+      "date": "Le jeudi 29 décembre 2022 de  15:00:00 à  17:00:00",
+      "locality": "ROUILLARD",
+      "localitySlug": "rouillard",
+      "streets": "dans les environs de Circle Square, CWA, Les Charmoses et Clos de La Foret",
+      "district": "pamplemousses",
+      "from": "2022-12-29T11:00:00.000Z",
+      "to": "2022-12-29T13:00:00.000Z",
+      "id": "42233a64f13a89c8820b6b71c460b639"
+    },
+    {
+      "date": "Le jeudi 29 décembre 2022 de  13:25:00 à  14:30:00",
+      "locality": "CINQ ARPENTS",
+      "localitySlug": "cinq-arpents",
+      "streets": "CINQ ARPENTS NEAR KALIMAYE",
+      "district": "plainewilhems",
+      "from": "2022-12-29T09:25:00.000Z",
+      "to": "2022-12-29T10:30:00.000Z",
+      "id": "6c41255630a8483d6fcb46bf4f6e8968"
+    },
+    {
+      "date": "Le jeudi 29 décembre 2022 de  15:20:00 à  16:20:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "LUTCHMUN,ROYAL ROAD,POUSSEPASSE",
+      "district": "plainewilhems",
+      "from": "2022-12-29T11:20:00.000Z",
+      "to": "2022-12-29T12:20:00.000Z",
+      "id": "a7a0b9a36ff6886c3912590301b4e9ff"
+    }
+  ]
+}

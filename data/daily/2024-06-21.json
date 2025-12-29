@@ -1,0 +1,28 @@
+{
+  "date": "2024-06-21",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.410Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le vendredi 21 juin 2024 de  09:30:00 à  10:30:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "RUE LEES MORC DALAY CUREPIPE",
+      "district": "plainewilhems",
+      "from": "2024-06-21T05:30:00.000Z",
+      "to": "2024-06-21T06:30:00.000Z",
+      "id": "836a44afa19423b46ea49d9a3952ab8e"
+    },
+    {
+      "date": "Le vendredi 21 juin 2024 de  15:00:00 à  17:00:00",
+      "locality": "CITE CHEBEL",
+      "localitySlug": "cite-chebel",
+      "streets": "DANS LES ENVIRONS RESIDENCE CHEBEQUE, RESIDENCE CHEBEL, RESIDENCE TROCHETIA, LA REPRISE, CAMP BERTLOT, CWA LE BOSQUET",
+      "district": "plainewilhems",
+      "from": "2024-06-21T11:00:00.000Z",
+      "to": "2024-06-21T13:00:00.000Z",
+      "id": "31b5596f0f62d5735aa19f753a1d7c63"
+    }
+  ]
+}

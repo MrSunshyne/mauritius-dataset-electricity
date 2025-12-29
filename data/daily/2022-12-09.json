@@ -1,0 +1,88 @@
+{
+  "date": "2022-12-09",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.368Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le vendredi 9 décembre 2022 de  09:00:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC ANNA",
+      "district": "blackriver",
+      "from": "2022-12-09T05:00:00.000Z",
+      "to": "2022-12-09T11:30:00.000Z",
+      "id": "71de467b9ddf63c683a81044bea49ed3"
+    },
+    {
+      "date": "Le vendredi 9 décembre 2022 de  15:00:00 à  16:00:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "MCB, Petit Chemin, Station de Police, Morc Marousen, St Michel et La Lucie Roy",
+      "district": "flacq",
+      "from": "2022-12-09T11:00:00.000Z",
+      "to": "2022-12-09T12:00:00.000Z",
+      "id": "ba0da624b2f62f3e5fe41ac285001228"
+    },
+    {
+      "date": "Le vendredi 9 décembre 2022 de  08:30:00 à  09:30:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "MCB, Petit Chemin, Station de Police, Morc Marousen, St Michel et La Lucie Roy",
+      "district": "flacq",
+      "from": "2022-12-09T04:30:00.000Z",
+      "to": "2022-12-09T05:30:00.000Z",
+      "id": "851407fbb40dfe207cf658320c750132"
+    },
+    {
+      "date": "Le vendredi 9 décembre 2022 de  11:00:00 à  14:00:00",
+      "locality": "CAMP CAROL KENYA",
+      "localitySlug": "camp-carol-kenya",
+      "streets": "Camp Carol, Kenya & Le Bouchon",
+      "district": "grandport",
+      "from": "2022-12-09T07:00:00.000Z",
+      "to": "2022-12-09T10:00:00.000Z",
+      "id": "deaab578aa8e5e73c6fb44c6fb4ff7c0"
+    },
+    {
+      "date": "Le vendredi 9 décembre 2022 de  08:30:00 à  15:30:00",
+      "locality": "PETITE JULIE",
+      "localitySlug": "petite-julie",
+      "streets": "Les abonnés habitant Petite Julie et La Croisée Nicoliere",
+      "district": "pamplemousses",
+      "from": "2022-12-09T04:30:00.000Z",
+      "to": "2022-12-09T11:30:00.000Z",
+      "id": "aaf7d355df4123b31216e958e4519245"
+    },
+    {
+      "date": "Le vendredi 9 décembre 2022 de  09:30:00 à  12:00:00",
+      "locality": "MARE GRAVIER",
+      "localitySlug": "mare-gravier",
+      "streets": "AVE PATEL MARE GRAVIER",
+      "district": "plainewilhems",
+      "from": "2022-12-09T05:30:00.000Z",
+      "to": "2022-12-09T08:00:00.000Z",
+      "id": "044ce415e3b7b556445d7d9b346f2234"
+    },
+    {
+      "date": "Le vendredi 9 décembre 2022 de  09:00:00 à  12:00:00",
+      "locality": "GLEN PARK",
+      "localitySlug": "glen-park",
+      "streets": "MORC EDOO GLEN PARK",
+      "district": "plainewilhems",
+      "from": "2022-12-09T05:00:00.000Z",
+      "to": "2022-12-09T08:00:00.000Z",
+      "id": "1dc287dbc21ab3614580148cc6ec781d"
+    },
+    {
+      "date": "Le vendredi 9 décembre 2022 de  09:00:00 à  15:00:00",
+      "locality": "BEL OMBRE",
+      "localitySlug": "bel-ombre",
+      "streets": "Bel Ombre et St. Martin Baie Du Cap",
+      "district": "savanne",
+      "from": "2022-12-09T05:00:00.000Z",
+      "to": "2022-12-09T11:00:00.000Z",
+      "id": "ab315dfc0e1b462acc566127219b7b6c"
+    }
+  ]
+}

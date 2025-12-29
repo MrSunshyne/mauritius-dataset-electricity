@@ -1,0 +1,68 @@
+{
+  "date": "2022-04-28",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.353Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le jeudi 28 avril 2022 de  15:00:00 à  17:00:00",
+      "locality": "MARE TABAC",
+      "localitySlug": "mare-tabac",
+      "streets": "Bel Air Sugar Estate, Benares, Camp Diable, Riche Bois, Britannia, Riviere Dragon, Riviere Du Poste et Mare Tabac",
+      "district": "grandport",
+      "from": "2022-04-28T11:00:00.000Z",
+      "to": "2022-04-28T13:00:00.000Z",
+      "id": "132be5d63f9cad994454866e3384c248"
+    },
+    {
+      "date": "Le jeudi 28 avril 2022 de  08:30:00 à  16:00:00",
+      "locality": "SAINT PAUL",
+      "localitySlug": "saint-paul",
+      "streets": "Morcellement Benydin, une partie de Rabindranath Tagore Avenue, une partie de Nilkant Mandir Avenue Lane",
+      "district": "plainewilhems",
+      "from": "2022-04-28T04:30:00.000Z",
+      "to": "2022-04-28T12:00:00.000Z",
+      "id": "96f4e9af365b4c36e1335f6df293aa48"
+    },
+    {
+      "date": "Le jeudi 28 avril 2022 de  10:00:00 à  13:00:00",
+      "locality": "CASTEL VACOAS",
+      "localitySlug": "castel-vacoas",
+      "streets": "ALLEE BRILLANT CASTEL",
+      "district": "plainewilhems",
+      "from": "2022-04-28T06:00:00.000Z",
+      "to": "2022-04-28T09:00:00.000Z",
+      "id": "7568e74cf4757529b10821925681fe03"
+    },
+    {
+      "date": "Le jeudi 28 avril 2022 de  09:30:00 à  13:00:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "ROUTE FELLICO PALMA",
+      "district": "plainewilhems",
+      "from": "2022-04-28T05:30:00.000Z",
+      "to": "2022-04-28T09:00:00.000Z",
+      "id": "d7b3df1100a689a724a60946e92b0d06"
+    },
+    {
+      "date": "Le jeudi 28 avril 2022 de  09:30:00 à  14:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "DANS LES ENVIRONS DE SAINTE CROIX ROAD ET MAMODE ELLAM HOSSEN",
+      "district": "portlouis",
+      "from": "2022-04-28T05:30:00.000Z",
+      "to": "2022-04-28T10:00:00.000Z",
+      "id": "b801a9f15bba4f57d66c29874db032fa"
+    },
+    {
+      "date": "Le jeudi 28 avril 2022 de  09:30:00 à  14:00:00",
+      "locality": "AMITIE",
+      "localitySlug": "amitie",
+      "streets": "ROYAL ROAD AMITIE",
+      "district": "rivieredurempart",
+      "from": "2022-04-28T05:30:00.000Z",
+      "to": "2022-04-28T10:00:00.000Z",
+      "id": "1aee2dbfd526f4646de1371ecdc90e7e"
+    }
+  ]
+}

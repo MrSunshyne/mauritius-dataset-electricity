@@ -1,0 +1,46 @@
+{
+  "slug": "saint-joseph",
+  "name": "SAINT JOSEPH",
+  "district": "portlouis",
+  "generated": "2025-12-29T20:21:02.804Z",
+  "outageCount": 5,
+  "firstOutage": "2022-09-18",
+  "lastOutage": "2023-02-15",
+  "outages": [
+    {
+      "date": "Le mercredi 15 février 2023 de  14:00:00 à  15:00:00",
+      "streets": "FROM PORT CHAMBLY IN DIRECTION T BAY",
+      "from": "2023-02-15T10:00:00.000Z",
+      "to": "2023-02-15T11:00:00.000Z",
+      "id": "dbe039f95f954ed61d3377eec9da8e1c"
+    },
+    {
+      "date": "Le samedi 21 janvier 2023 de  08:30:00 à  15:30:00",
+      "streets": "LES ABONNES HABITANT SAINT JOSEPH DANS LES ENVIRONS DE LÉGLISE SAINT JOSEPH, LAND SETTLEMENT ET REHM GRINAKER",
+      "from": "2023-01-21T04:30:00.000Z",
+      "to": "2023-01-21T11:30:00.000Z",
+      "id": "5edfa4589062422dda415f9f58803d77"
+    },
+    {
+      "date": "Le dimanche 16 octobre 2022 de  08:30:00 à  16:00:00",
+      "streets": "LES ABONNES HABITANT SAINT JOSEPH DANS LES ENVIRONS DE LÉGLISE SAINT JOSEPH, LAND SETTLEMENT, REHM GRINAKER ET INDIAN OIL",
+      "from": "2022-10-16T04:30:00.000Z",
+      "to": "2022-10-16T12:00:00.000Z",
+      "id": "22624c5d463bd0ddfbb843cc9c0af755"
+    },
+    {
+      "date": "Le dimanche 2 octobre 2022 de  08:30:00 à  16:00:00",
+      "streets": "LES ABONNES HABITANT SAINT JOSEPH ROAD DANS LES ENVIRONS DE  PORT CHAMBLY, LAND SETTLEMENT, LE GOULET, RESIDENCE FLORIDA, HOTEL LES COCOTIERS, ZONE INDUSTRIEL DE JIN FEI ET UNE PARTIE DE RICHE TERRE ROAD",
+      "from": "2022-10-02T04:30:00.000Z",
+      "to": "2022-10-02T12:00:00.000Z",
+      "id": "27f44b40e98423e7154eae810135c4a4"
+    },
+    {
+      "date": "Le dimanche 18 septembre 2022 de  08:30:00 à  15:30:00",
+      "streets": "DANS LES ENVIRONS DE LÉGLISE SAINT JOSEPH, LAND SETTLEMENT, REHM GRINAKER ET INDIAN OIL",
+      "from": "2022-09-18T04:30:00.000Z",
+      "to": "2022-09-18T11:30:00.000Z",
+      "id": "2302a3c3f1698fe97ebcbbc79eef45a3"
+    }
+  ]
+}

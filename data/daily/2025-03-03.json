@@ -1,0 +1,58 @@
+{
+  "date": "2025-03-03",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.430Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le lundi 3 mars 2025 de  09:45:00 à  10:45:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "Rue Francois Mitterand,Filling Engen,Boulangerie Le Fournil",
+      "district": "flacq",
+      "from": "2025-03-03T05:45:00.000Z",
+      "to": "2025-03-03T06:45:00.000Z",
+      "id": "ac53b3da0a6ec1da6dc14e5e0c5c581a"
+    },
+    {
+      "date": "Le lundi 3 mars 2025 de  14:00:00 à  15:30:00",
+      "locality": "DUBREUIL",
+      "localitySlug": "dubreuil",
+      "streets": "NHDC DUBREUIL",
+      "district": "moka",
+      "from": "2025-03-03T10:00:00.000Z",
+      "to": "2025-03-03T11:30:00.000Z",
+      "id": "ad2296a6c3edd54ad87041ecf0395305"
+    },
+    {
+      "date": "Le lundi 3 mars 2025 de  16:40:00 à  17:30:00",
+      "locality": "SOREZE",
+      "localitySlug": "soreze",
+      "streets": "SOREZE",
+      "district": "moka",
+      "from": "2025-03-03T12:40:00.000Z",
+      "to": "2025-03-03T13:30:00.000Z",
+      "id": "3befffee3fc26592a41f163cca510b08"
+    },
+    {
+      "date": "Le lundi 3 mars 2025 de  10:00:00 à  15:00:00",
+      "locality": "PLAINE DES ROCHES",
+      "localitySlug": "plaine-des-roches",
+      "streets": "Route Royale",
+      "district": "rivieredurempart",
+      "from": "2025-03-03T06:00:00.000Z",
+      "to": "2025-03-03T11:00:00.000Z",
+      "id": "6a6de1394298b1da17d032319d9dac91"
+    },
+    {
+      "date": "Le lundi 3 mars 2025 de  10:00:00 à  14:00:00",
+      "locality": "CAP MALHEUREUX",
+      "localitySlug": "cap-malheureux",
+      "streets": "EDC ROAD PAVILLON CAP MALHEUREUX",
+      "district": "rivieredurempart",
+      "from": "2025-03-03T06:00:00.000Z",
+      "to": "2025-03-03T10:00:00.000Z",
+      "id": "c5342e5439592b20f471ceb885b52c9b"
+    }
+  ]
+}

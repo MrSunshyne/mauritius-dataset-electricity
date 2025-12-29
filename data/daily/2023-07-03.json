@@ -1,0 +1,38 @@
+{
+  "date": "2023-07-03",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.383Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le lundi 3 juillet 2023 de  15:00:00 à  16:30:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "MORC PEERUN",
+      "district": "pamplemousses",
+      "from": "2023-07-03T11:00:00.000Z",
+      "to": "2023-07-03T12:30:00.000Z",
+      "id": "cb8b02fde0dbe0e9c4bfedd14a6b70ad"
+    },
+    {
+      "date": "Le lundi 3 juillet 2023 de  16:45:00 à  17:45:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "GRANUM ROAD",
+      "district": "plainewilhems",
+      "from": "2023-07-03T12:45:00.000Z",
+      "to": "2023-07-03T13:45:00.000Z",
+      "id": "4c074e14e2ca802cc1aa73c24b93f7b9"
+    },
+    {
+      "date": "Le lundi 3 juillet 2023 de  19:50:00 à  20:50:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "MORC GRIS GRIS",
+      "district": "savanne",
+      "from": "2023-07-03T15:50:00.000Z",
+      "to": "2023-07-03T16:50:00.000Z",
+      "id": "067e0d752756b3aca8c673a5cdd24f6d"
+    }
+  ]
+}

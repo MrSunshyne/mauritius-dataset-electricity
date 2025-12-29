@@ -1,0 +1,78 @@
+{
+  "date": "2022-10-13",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.364Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le jeudi 13 octobre 2022 de  08:30:00 à  16:30:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "Morc Ramdanee",
+      "district": "blackriver",
+      "from": "2022-10-13T04:30:00.000Z",
+      "to": "2022-10-13T12:30:00.000Z",
+      "id": "7007ce41a8b7d10f4301b954fe81a5d0"
+    },
+    {
+      "date": "Le jeudi 13 octobre 2022 de  09:00:00 à  15:00:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "Le CEB avise les abonnés de Mont Fertile habitant dans le périmètre et les rues suivantes: une partie de la Route Royal, Tiwari lane, Lotus Road et Chacal Lane",
+      "district": "grandport",
+      "from": "2022-10-13T05:00:00.000Z",
+      "to": "2022-10-13T11:00:00.000Z",
+      "id": "c3a3908e53be04737d5be354ee8fe533"
+    },
+    {
+      "date": "Le jeudi 13 octobre 2022 de  15:30:00 à  17:00:00",
+      "locality": "RIVIERE DU POSTE",
+      "localitySlug": "riviere-du-poste",
+      "streets": "WHOLE REGION",
+      "district": "grandport",
+      "from": "2022-10-13T11:30:00.000Z",
+      "to": "2022-10-13T13:00:00.000Z",
+      "id": "d336791d4c631db2277411fcf0e0d67c"
+    },
+    {
+      "date": "Le jeudi 13 octobre 2022 de  12:00:00 à  15:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "Les abonnés de Forest-Side habitant les rues et les régions  suivantes : Partie de Labrasserie Road, partie de la Route Royale de Forest-Side, partie de Bonnefin, Morcellement Valaydon, partie de Morcellement Piat, et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-10-13T08:00:00.000Z",
+      "to": "2022-10-13T11:00:00.000Z",
+      "id": "8502edeb8995ad13b498390f819b246b"
+    },
+    {
+      "date": "Le jeudi 13 octobre 2022 de  08:30:00 à  09:30:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "TOUTE PALMA LA LOUISE QUATRE BORNES",
+      "district": "plainewilhems",
+      "from": "2022-10-13T04:30:00.000Z",
+      "to": "2022-10-13T05:30:00.000Z",
+      "id": "3975a51d28181d6d199ebca5bb1a8c55"
+    },
+    {
+      "date": "Le jeudi 13 octobre 2022 de  13:00:00 à  15:00:00",
+      "locality": "LA CAVERNE",
+      "localitySlug": "la-caverne",
+      "streets": "LABATTOIR RD TOWARDS QUINZE CANTON,LA MARIE ROAD",
+      "district": "plainewilhems",
+      "from": "2022-10-13T09:00:00.000Z",
+      "to": "2022-10-13T11:00:00.000Z",
+      "id": "9b76f11852b6cdd6fec5f52c3aa2e512"
+    },
+    {
+      "date": "Le jeudi 13 octobre 2022 de  09:00:00 à  13:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LA FERME,CITADELLE",
+      "district": "rodrigues",
+      "from": "2022-10-13T05:00:00.000Z",
+      "to": "2022-10-13T09:00:00.000Z",
+      "id": "f74b121a85239b4e27665481feab706b"
+    }
+  ]
+}

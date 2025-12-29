@@ -1,0 +1,25 @@
+{
+  "slug": "la-barraque",
+  "name": "LA BARRAQUE",
+  "district": "grandport",
+  "generated": "2025-12-29T20:21:02.640Z",
+  "outageCount": 2,
+  "firstOutage": "2023-03-23",
+  "lastOutage": "2024-05-10",
+  "outages": [
+    {
+      "date": "Le vendredi 10 mai 2024 de  09:30:00 à  13:00:00",
+      "streets": "STAFF QUARTERS LA BARRAQUE L-ESCALIER.",
+      "from": "2024-05-10T05:30:00.000Z",
+      "to": "2024-05-10T09:00:00.000Z",
+      "id": "d148df15a3f98def1defe36fd84a4bcf"
+    },
+    {
+      "date": "Le jeudi 23 mars 2023 de  10:15:00 à  12:00:00",
+      "streets": "WHOLE P MAGNIEN",
+      "from": "2023-03-23T06:15:00.000Z",
+      "to": "2023-03-23T08:00:00.000Z",
+      "id": "58abaff5662a683d3aad35ea98cb6f34"
+    }
+  ]
+}

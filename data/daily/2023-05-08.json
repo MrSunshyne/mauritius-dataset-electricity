@@ -1,0 +1,58 @@
+{
+  "date": "2023-05-08",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.379Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le lundi 8 mai 2023 de  09:30:00 à  11:00:00",
+      "locality": "PALMAR",
+      "localitySlug": "palmar",
+      "streets": "PALMAR",
+      "district": "flacq",
+      "from": "2023-05-08T05:30:00.000Z",
+      "to": "2023-05-08T07:00:00.000Z",
+      "id": "8e67aa4a91187c87656533cd89ed8ed4"
+    },
+    {
+      "date": "Le lundi 8 mai 2023 de  15:30:00 à  17:00:00",
+      "locality": "PALMAR",
+      "localitySlug": "palmar",
+      "streets": "PALMAR",
+      "district": "flacq",
+      "from": "2023-05-08T11:30:00.000Z",
+      "to": "2023-05-08T13:00:00.000Z",
+      "id": "afb9e09e90f0d9afd4b4b230fc1750be"
+    },
+    {
+      "date": "Le lundi 8 mai 2023 de  10:30:00 à  11:30:00",
+      "locality": "MONTAGNE ORY",
+      "localitySlug": "montagne-ory",
+      "streets": "MONTAGNE ORY",
+      "district": "moka",
+      "from": "2023-05-08T06:30:00.000Z",
+      "to": "2023-05-08T07:30:00.000Z",
+      "id": "884513df5caec257d08a7c163f3d8605"
+    },
+    {
+      "date": "Le lundi 8 mai 2023 de  14:30:00 à  16:30:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "DANS LES ENVIRONS DE LA ROUTE COTIERE, MORC SWAN, MORC CONCORDE ET ELIZABETHVILLE",
+      "district": "pamplemousses",
+      "from": "2023-05-08T10:30:00.000Z",
+      "to": "2023-05-08T12:30:00.000Z",
+      "id": "90ad5efd234d8a13f4cfd59555c2368c"
+    },
+    {
+      "date": "Le lundi 8 mai 2023 de  15:30:00 à  17:00:00",
+      "locality": "MONT PITON",
+      "localitySlug": "mont-piton",
+      "streets": "MONT PITON-PETITE ROSALIE",
+      "district": "pamplemousses",
+      "from": "2023-05-08T11:30:00.000Z",
+      "to": "2023-05-08T13:00:00.000Z",
+      "id": "6f2c997f3bf9ad9fe6b0653b2a7d8c3c"
+    }
+  ]
+}

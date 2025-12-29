@@ -1,0 +1,78 @@
+{
+  "date": "2023-09-02",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.388Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le samedi 2 septembre 2023 de  08:15:00 à  16:00:00",
+      "locality": "ARGY",
+      "localitySlug": "argy",
+      "streets": "Les abonnés de Residence Argy et Morcellement M.S.A Argy",
+      "district": "flacq",
+      "from": "2023-09-02T04:15:00.000Z",
+      "to": "2023-09-02T12:00:00.000Z",
+      "id": "2adf6ef9b4abb6d5d4ece4e0209176d7"
+    },
+    {
+      "date": "Le samedi 2 septembre 2023 de  09:00:00 à  15:00:00",
+      "locality": "DEEP RIVER BEAU CHAMP",
+      "localitySlug": "deep-river-beau-champ",
+      "streets": "DEEP RIVER",
+      "district": "flacq",
+      "from": "2023-09-02T05:00:00.000Z",
+      "to": "2023-09-02T11:00:00.000Z",
+      "id": "7e851e73f554f82174cb88c13be14e03"
+    },
+    {
+      "date": "Le samedi 2 septembre 2023 de  08:15:00 à  16:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Srila Prabhupada Street, Iskcon, Larsen & Toubro Limited, Saint Nicholas Grammar School, Rushmore Business School, CFAO Motors",
+      "district": "plainewilhems",
+      "from": "2023-09-02T04:15:00.000Z",
+      "to": "2023-09-02T12:00:00.000Z",
+      "id": "63e17606d2cc5a5d49efed9b297a7e3a"
+    },
+    {
+      "date": "Le samedi 2 septembre 2023 de  09:30:00 à  16:00:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "Les abonnés de La Marie habitant les régions et les rues suivantes : Route Royale de La Marie, Cyprus, Forest, Berthaud, Kebla, Morcellement Saddul et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-09-02T05:30:00.000Z",
+      "to": "2023-09-02T12:00:00.000Z",
+      "id": "793600b798d659ed0f013024ced496e6"
+    },
+    {
+      "date": "Le samedi 2 septembre 2023 de  08:30:00 à  14:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "DANS LES ENVIRONS DE AVENUE PRINTEMPS, UNE PARTIE DE LA ROUTE COTIERE ET GOLDEN LANE",
+      "district": "portlouis",
+      "from": "2023-09-02T04:30:00.000Z",
+      "to": "2023-09-02T10:00:00.000Z",
+      "id": "14d9efc6146c9b81f3de8b02b4074677"
+    },
+    {
+      "date": "Le samedi 2 septembre 2023 de  08:30:00 à  15:30:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "dans les environs de Mont Oreb, Les Flammants, Morc Swan,Morc Chetty et Swan Properties",
+      "district": "rivieredurempart",
+      "from": "2023-09-02T04:30:00.000Z",
+      "to": "2023-09-02T11:30:00.000Z",
+      "id": "b1a13b59a78710d588f6d64418a9349b"
+    },
+    {
+      "date": "Le samedi 2 septembre 2023 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Coromandel, Batatran et Graviers",
+      "district": "rodrigues",
+      "from": "2023-09-02T04:30:00.000Z",
+      "to": "2023-09-02T11:00:00.000Z",
+      "id": "652bfa29ba1f0761c8ff8f64b9db8ce4"
+    }
+  ]
+}

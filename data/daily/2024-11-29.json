@@ -1,0 +1,68 @@
+{
+  "date": "2024-11-29",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.422Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le vendredi 29 novembre 2024 de  09:00:00 à  14:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "WOLMAR- CHASEE WOLMAR, SOCIETE DE MARCO ET UNE PARTIE DE LA ROUTE COTIERE",
+      "district": "blackriver",
+      "from": "2024-11-29T05:00:00.000Z",
+      "to": "2024-11-29T10:30:00.000Z",
+      "id": "ef199d0f847c510980363e024a51d965"
+    },
+    {
+      "date": "Le vendredi 29 novembre 2024 de  09:45:00 à  12:00:00",
+      "locality": "LA PRENEUSE",
+      "localitySlug": "la-preneuse",
+      "streets": "La Preuneuse",
+      "district": "blackriver",
+      "from": "2024-11-29T05:45:00.000Z",
+      "to": "2024-11-29T08:00:00.000Z",
+      "id": "3a625d0cde1e2b1df04c6dbc8ce29bd0"
+    },
+    {
+      "date": "Le vendredi 29 novembre 2024 de  09:00:00 à  17:00:00",
+      "locality": "POSTE DE FLACQ",
+      "localitySlug": "poste-de-flacq",
+      "streets": "Route Royale, Providence sur Mer, NHDC et Choisy Road",
+      "district": "flacq",
+      "from": "2024-11-29T05:00:00.000Z",
+      "to": "2024-11-29T13:00:00.000Z",
+      "id": "d7fd44cd0beeda0ef3d06c44db180ee8"
+    },
+    {
+      "date": "Le vendredi 29 novembre 2024 de  10:20:00 à  13:00:00",
+      "locality": "NOUVELLE DECOUVERTE",
+      "localitySlug": "nouvelle-decouverte",
+      "streets": "Lavenir,BeauBois,Ripailles,Nouvelle Decouverte,Bar le Duc",
+      "district": "moka",
+      "from": "2024-11-29T06:20:00.000Z",
+      "to": "2024-11-29T09:00:00.000Z",
+      "id": "c9d82d5e627ea653a5f63099cf0aaa4d"
+    },
+    {
+      "date": "Le vendredi 29 novembre 2024 de  09:00:00 à  17:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Les abonnés dans les environs D’Avenue Sir Celicourt Antelme et Berthaud",
+      "district": "plainewilhems",
+      "from": "2024-11-29T05:00:00.000Z",
+      "to": "2024-11-29T13:30:00.000Z",
+      "id": "9a8813e6b08dbaff47e9456c689091c5"
+    },
+    {
+      "date": "Le vendredi 29 novembre 2024 de  15:30:00 à  17:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Les abonnés de Vieux Quatre Bornes et Rajcoomar habitant dans les perimetres d’Avenue Murphy, Labourdonnais, Steevenson, Bernardin de St Pierre, Duperre, Balgobin et en partie de La Route Royale St Jean, Berthaud, Sir Virgil Naz, Sir Celicourt Antelme et Ollier",
+      "district": "plainewilhems",
+      "from": "2024-11-29T11:30:00.000Z",
+      "to": "2024-11-29T13:30:00.000Z",
+      "id": "7d9d21b0109aae29478443259c84935b"
+    }
+  ]
+}

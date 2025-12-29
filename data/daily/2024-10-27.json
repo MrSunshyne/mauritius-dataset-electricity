@@ -1,0 +1,58 @@
+{
+  "date": "2024-10-27",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.419Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le dimanche 27 octobre 2024 de  08:30:00 à  12:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "Rues Tulipes,Capucines Morc Beerjeeraz",
+      "district": "blackriver",
+      "from": "2024-10-27T04:30:00.000Z",
+      "to": "2024-10-27T08:00:00.000Z",
+      "id": "5d0edb16991129d7b82e27c2506d4441"
+    },
+    {
+      "date": "Le dimanche 27 octobre 2024 de  09:00:00 à  10:30:00",
+      "locality": "MARE TABAC",
+      "localitySlug": "mare-tabac",
+      "streets": "NHDC",
+      "district": "grandport",
+      "from": "2024-10-27T05:00:00.000Z",
+      "to": "2024-10-27T06:30:00.000Z",
+      "id": "a9389aa4194237ceed34903c554fb0dd"
+    },
+    {
+      "date": "Le dimanche 27 octobre 2024 de  00:00:00 à  14:00:00",
+      "locality": "D-EPINAY",
+      "localitySlug": "d-epinay",
+      "streets": "REGION DEPINAY,MARE DAUSTRALIA,VILLE BAGUE,PETITE JULIE,MOUNT,MONGOUT.",
+      "district": "pamplemousses",
+      "from": "2024-10-26T20:00:00.000Z",
+      "to": "2024-10-26T10:00:00.000Z",
+      "id": "eab64d130be97601d702c75135eed33f"
+    },
+    {
+      "date": "Le dimanche 27 octobre 2024 de  08:30:00 à  17:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Route St Paul, une partie de ligne Berthaud, une partie de Route Lamberty, Reverand Cannon Canning Street, une partie de Emmanuel Gerard Lane,",
+      "district": "plainewilhems",
+      "from": "2024-10-27T04:30:00.000Z",
+      "to": "2024-10-27T13:00:00.000Z",
+      "id": "8ae77b7dc4b73831e69c4c30d695987f"
+    },
+    {
+      "date": "Le dimanche 27 octobre 2024 de  09:00:00 à  15:00:00",
+      "locality": "CHAMOUNY",
+      "localitySlug": "chamouny",
+      "streets": "Chamouny, Camp Fany, Camp Goolbar et Camp Lilas",
+      "district": "savanne",
+      "from": "2024-10-27T05:00:00.000Z",
+      "to": "2024-10-27T11:00:00.000Z",
+      "id": "7b1d85eaf933a563c4562e90d0ef2ea8"
+    }
+  ]
+}

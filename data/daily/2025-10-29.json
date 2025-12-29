@@ -1,0 +1,58 @@
+{
+  "date": "2025-10-29",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.443Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mercredi 29 octobre 2025 de  08:30:00 à  15:30:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "MORC BARACHOIS TAMARIN, PALM BAY ET VILLA TAMARIN",
+      "district": "blackriver",
+      "from": "2025-10-29T04:30:00.000Z",
+      "to": "2025-10-29T11:30:00.000Z",
+      "id": "d4138fa52ab2d79c7db665c0edfaa53f"
+    },
+    {
+      "date": "Le mercredi 29 octobre 2025 de  14:00:00 à  17:00:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "Rose belle habitant dans le périmètre et les rues suivantes : Marie Jeannie, Madame Lolo, Janmohur Street, Kulpoo Lane, Railway Road, Capitol Lane, Mongelard Street, Morcellement Orchidée, EDC Rose Belle et une partie de la Route Royal Rose Belle",
+      "district": "grandport",
+      "from": "2025-10-29T10:00:00.000Z",
+      "to": "2025-10-29T13:00:00.000Z",
+      "id": "11bc8fac16d3b9a67d12dc9f59315159"
+    },
+    {
+      "date": "Le mercredi 29 octobre 2025 de  10:20:00 à  11:30:00",
+      "locality": "PETIT CAMP",
+      "localitySlug": "petit-camp",
+      "streets": "PETIT CAMP PHOENIX",
+      "district": "plainewilhems",
+      "from": "2025-10-29T06:20:00.000Z",
+      "to": "2025-10-29T07:30:00.000Z",
+      "id": "ff9870262b0c072eef6f4343680f95c9"
+    },
+    {
+      "date": "Le mercredi 29 octobre 2025 de  14:30:00 à  15:15:00",
+      "locality": "MIDLANDS",
+      "localitySlug": "midlands",
+      "streets": "MIDLANDS",
+      "district": "plainewilhems",
+      "from": "2025-10-29T10:30:00.000Z",
+      "to": "2025-10-29T11:15:00.000Z",
+      "id": "a16876dd90d2f8ff82367cf00fb7b4e2"
+    },
+    {
+      "date": "Le mercredi 29 octobre 2025 de  08:40:00 à  10:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "ROYAL ROAD ET DANS LES ALENTOURS DE YOUNG BROS, MAGASIN BAHADOOR, LA POSTE",
+      "district": "rivieredurempart",
+      "from": "2025-10-29T04:40:00.000Z",
+      "to": "2025-10-29T06:00:00.000Z",
+      "id": "c2055762f230fa3909c3e0d1452193a2"
+    }
+  ]
+}

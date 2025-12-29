@@ -1,0 +1,78 @@
+{
+  "date": "2022-08-27",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.361Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le samedi 27 août 2022 de  09:00:00 à  14:00:00",
+      "locality": "MARE LONGUE",
+      "localitySlug": "mare-longue",
+      "streets": "MARE LONGUE/SIMONET",
+      "district": "plainewilhems",
+      "from": "2022-08-27T05:00:00.000Z",
+      "to": "2022-08-27T10:00:00.000Z",
+      "id": "8415d94ee12b572b8db0478fb4cdd053"
+    },
+    {
+      "date": "Le samedi 27 août 2022 de  07:00:00 à  12:00:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "CHARMOSE,DARUTY.",
+      "district": "rivieredurempart",
+      "from": "2022-08-27T03:00:00.000Z",
+      "to": "2022-08-27T08:00:00.000Z",
+      "id": "0b7d660564483045ac5896c499ff4555"
+    },
+    {
+      "date": "Le samedi 27 août 2022 de  09:00:00 à  15:00:00",
+      "locality": "BEL OMBRE",
+      "localitySlug": "bel-ombre",
+      "streets": "Morcellement Belle Riviere Bel Ombre",
+      "district": "savanne",
+      "from": "2022-08-27T05:00:00.000Z",
+      "to": "2022-08-27T11:00:00.000Z",
+      "id": "74c1d7642bf3afc7663f789c3260f7ee"
+    },
+    {
+      "date": "Le samedi 27 août 2022 de  08:30:00 à  15:00:00",
+      "locality": "BATIMARAIS",
+      "localitySlug": "batimarais",
+      "streets": "Le village de Batimarais",
+      "district": "savanne",
+      "from": "2022-08-27T04:30:00.000Z",
+      "to": "2022-08-27T11:00:00.000Z",
+      "id": "b01435d43c4694cd320db267258a4ad8"
+    },
+    {
+      "date": "Le samedi 27 août 2022 de  08:30:00 à  15:30:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "JARDIN MAMZEL,LUNION",
+      "district": "rodrigues",
+      "from": "2022-08-27T04:30:00.000Z",
+      "to": "2022-08-27T11:30:00.000Z",
+      "id": "df52d1076c9438547f8bf063b0016d84"
+    },
+    {
+      "date": "Le samedi 27 août 2022 de  14:30:00 à  15:30:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "HAUTEUR ACACIA,CAMP DU ROI,LE CHOU",
+      "district": "rodrigues",
+      "from": "2022-08-27T10:30:00.000Z",
+      "to": "2022-08-27T11:30:00.000Z",
+      "id": "7604031cf94ad4e3fe1a743964005b08"
+    },
+    {
+      "date": "Le samedi 27 août 2022 de  08:00:00 à  09:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "HAUTEUR ACACIA,CAMP DU ROI,LE CHOU",
+      "district": "rodrigues",
+      "from": "2022-08-27T04:00:00.000Z",
+      "to": "2022-08-27T05:00:00.000Z",
+      "id": "50d0d7115fea525c688b693488c58db9"
+    }
+  ]
+}

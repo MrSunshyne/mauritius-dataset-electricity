@@ -1,0 +1,68 @@
+{
+  "date": "2022-03-25",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.351Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le vendredi 25 mars 2022 de  08:30:00 à  15:00:00",
+      "locality": "ERNEST FLORENT",
+      "localitySlug": "ernest-florent",
+      "streets": "Ernest Florent dans les périmètres de Route Royale",
+      "district": "flacq",
+      "from": "2022-03-25T04:30:00.000Z",
+      "to": "2022-03-25T11:00:00.000Z",
+      "id": "616f3a6eff3b4f733b5dba26b3b878bc"
+    },
+    {
+      "date": "Le vendredi 25 mars 2022 de  12:00:00 à  14:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "MARCEL LETANG BEAU BASSIN",
+      "district": "plainewilhems",
+      "from": "2022-03-25T08:00:00.000Z",
+      "to": "2022-03-25T10:00:00.000Z",
+      "id": "6d95cf8ee935a17bb1439c3a741a8a37"
+    },
+    {
+      "date": "Le vendredi 25 mars 2022 de  08:30:00 à  13:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "dans les environs de Kovil et restaurant Le Capitaine",
+      "district": "rivieredurempart",
+      "from": "2022-03-25T04:30:00.000Z",
+      "to": "2022-03-25T09:00:00.000Z",
+      "id": "4851b491e4eed37ae263847233c57880"
+    },
+    {
+      "date": "Le vendredi 25 mars 2022 de  12:30:00 à  13:00:00",
+      "locality": "MON SONGE",
+      "localitySlug": "mon-songe",
+      "streets": "MON SONGE-GRAND ROASLIE-MARE DAUSTRALIA-POMPRALIN-ILOT-DEPINAY-CONGOMAH-LES MARIANNES",
+      "district": "rivieredurempart",
+      "from": "2022-03-25T08:30:00.000Z",
+      "to": "2022-03-25T09:00:00.000Z",
+      "id": "9c5f12dc96f895208e8d2bf6d491c9df"
+    },
+    {
+      "date": "Le vendredi 25 mars 2022 de  08:30:00 à  15:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "dans les environs de Mare Seche, Casasolla II et Mon Mascal",
+      "district": "rivieredurempart",
+      "from": "2022-03-25T04:30:00.000Z",
+      "to": "2022-03-25T11:00:00.000Z",
+      "id": "839046bc1353f920e783d18dad59a237"
+    },
+    {
+      "date": "Le vendredi 25 mars 2022 de  07:00:00 à  11:30:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "REUNION MAUREL/PETIT RAFFRAY/MONMASCAL",
+      "district": "rivieredurempart",
+      "from": "2022-03-25T03:00:00.000Z",
+      "to": "2022-03-25T07:30:00.000Z",
+      "id": "6261f4f159d58cd5f38ffe7818e18650"
+    }
+  ]
+}

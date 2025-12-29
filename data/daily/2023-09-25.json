@@ -1,0 +1,68 @@
+{
+  "date": "2023-09-25",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.390Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le lundi 25 septembre 2023 de  10:00:00 à  15:30:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "MORC BARACHOIS, RESIDENCES PALM BAY ET VILLA BARACHOIS",
+      "district": "blackriver",
+      "from": "2023-09-25T06:00:00.000Z",
+      "to": "2023-09-25T11:30:00.000Z",
+      "id": "818f629eb002610388aa97f111b83b42"
+    },
+    {
+      "date": "Le lundi 25 septembre 2023 de  17:00:00 à  19:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "LA VALETTE VILLAGE,SME LA VALETTE,PUMP FOR IRRIGATION MEDINE,LA MECQUE",
+      "district": "blackriver",
+      "from": "2023-09-25T13:00:00.000Z",
+      "to": "2023-09-25T15:30:00.000Z",
+      "id": "4336c926b1f99898be1042df7df1b31f"
+    },
+    {
+      "date": "Le lundi 25 septembre 2023 de  15:00:00 à  17:00:00",
+      "locality": "CLUNY",
+      "localitySlug": "cluny",
+      "streets": "Cluny et Beemanique",
+      "district": "grandport",
+      "from": "2023-09-25T11:00:00.000Z",
+      "to": "2023-09-25T13:00:00.000Z",
+      "id": "b85fa9d94551f8aad561f26c0b375889"
+    },
+    {
+      "date": "Le lundi 25 septembre 2023 de  09:00:00 à  12:00:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": "Angrais Cathan",
+      "district": "plainewilhems",
+      "from": "2023-09-25T05:00:00.000Z",
+      "to": "2023-09-25T08:00:00.000Z",
+      "id": "bf882f3931c8215521d2cf608e8f0e9b"
+    },
+    {
+      "date": "Le lundi 25 septembre 2023 de  12:00:00 à  15:00:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": "Angrais Cathan",
+      "district": "plainewilhems",
+      "from": "2023-09-25T08:00:00.000Z",
+      "to": "2023-09-25T11:00:00.000Z",
+      "id": "6a7d815e4a4c0bc5042bc1870ea732d1"
+    },
+    {
+      "date": "Le lundi 25 septembre 2023 de  08:30:00 à  16:00:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "MORC GRIS GRIS",
+      "district": "savanne",
+      "from": "2023-09-25T04:30:00.000Z",
+      "to": "2023-09-25T12:00:00.000Z",
+      "id": "eb60865845e6e02f3e273414d6558b5e"
+    }
+  ]
+}

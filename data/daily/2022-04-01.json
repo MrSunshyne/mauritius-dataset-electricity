@@ -1,0 +1,98 @@
+{
+  "date": "2022-04-01",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.352Z",
+  "outageCount": 9,
+  "outages": [
+    {
+      "date": "Le vendredi 1 avril 2022 de  08:30:00 à  16:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC SAFELAND, AVE RADAR, AVE DES FLAMBOYANTS, AVE DES HIRONDELLES, MORC LI YAO, AVE BEGONIA, AVE CAMELIA ET MORC PALMYRE",
+      "district": "blackriver",
+      "from": "2022-04-01T04:30:00.000Z",
+      "to": "2022-04-01T12:30:00.000Z",
+      "id": "4a508f33020e675f5316653d870a202c"
+    },
+    {
+      "date": "Le vendredi 1 avril 2022 de  08:30:00 à  17:00:00",
+      "locality": "POSTE LAFAYETTE",
+      "localitySlug": "poste-lafayette",
+      "streets": "Poste Lafayette et Bras DEau",
+      "district": "flacq",
+      "from": "2022-04-01T04:30:00.000Z",
+      "to": "2022-04-01T13:00:00.000Z",
+      "id": "2879198fb3262a5b6f2ac87c8f8330f3"
+    },
+    {
+      "date": "Le vendredi 1 avril 2022 de  14:00:00 à  18:00:00",
+      "locality": "BOIS PIGNOLET",
+      "localitySlug": "bois-pignolet",
+      "streets": "MMLE LAURE, BOIS PIGNOLET, MORC. CHAWRY",
+      "district": "pamplemousses",
+      "from": "2022-04-01T10:00:00.000Z",
+      "to": "2022-04-01T14:00:00.000Z",
+      "id": "aa26f6192ffef297a4bd5bde2f30dbdd"
+    },
+    {
+      "date": "Le vendredi 1 avril 2022 de  09:00:00 à  17:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "En partie Talipot",
+      "district": "plainewilhems",
+      "from": "2022-04-01T05:00:00.000Z",
+      "to": "2022-04-01T13:00:00.000Z",
+      "id": "f68120109be132be201a681e91e79fd8"
+    },
+    {
+      "date": "Le vendredi 1 avril 2022 de  15:00:00 à  16:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "TRISTAN DAVICE, COSSIGNY, TALIPOT, ROSIER, LA LUCIA, EN PARTIE ROUTE ST JEAN, CAPUCINE ET ORCHIDEE",
+      "district": "plainewilhems",
+      "from": "2022-04-01T11:00:00.000Z",
+      "to": "2022-04-01T12:00:00.000Z",
+      "id": "7aa34293a92f74f8dde61b147a41d1f4"
+    },
+    {
+      "date": "Le vendredi 1 avril 2022 de  14:00:00 à  17:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Angus Lane, Lucien DE Chazal Avenue et une partie de Floreal Road",
+      "district": "plainewilhems",
+      "from": "2022-04-01T10:00:00.000Z",
+      "to": "2022-04-01T13:00:00.000Z",
+      "id": "9d6d4f82736ba129f87d2bc987c68d58"
+    },
+    {
+      "date": "Le vendredi 1 avril 2022 de  11:00:00 à  13:00:00",
+      "locality": "TRIANON",
+      "localitySlug": "trianon",
+      "streets": "TRIANON-SODNAC",
+      "district": "plainewilhems",
+      "from": "2022-04-01T07:00:00.000Z",
+      "to": "2022-04-01T09:00:00.000Z",
+      "id": "0b00bd7a1dd67e3e2898a0eb65efa6d8"
+    },
+    {
+      "date": "Le vendredi 1 avril 2022 de  12:00:00 à  14:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "SCHOOL RD VALLEE DES PRETRES",
+      "district": "portlouis",
+      "from": "2022-04-01T08:00:00.000Z",
+      "to": "2022-04-01T10:00:00.000Z",
+      "id": "2763bd153cf8519c92850b7ce255eef7"
+    },
+    {
+      "date": "Le vendredi 1 avril 2022 de  11:00:00 à  14:00:00",
+      "locality": "VALLEE PITOT",
+      "localitySlug": "vallee-pitot",
+      "streets": "RUE CHINA-RUE LAPOTAIRE-RUE HATCH V PITOT",
+      "district": "portlouis",
+      "from": "2022-04-01T07:00:00.000Z",
+      "to": "2022-04-01T10:00:00.000Z",
+      "id": "abd915570956ddca4a4020539e726a5e"
+    }
+  ]
+}

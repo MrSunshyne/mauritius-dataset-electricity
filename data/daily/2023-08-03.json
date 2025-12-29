@@ -1,0 +1,38 @@
+{
+  "date": "2023-08-03",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.386Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le jeudi 3 août 2023 de  11:15:00 à  13:15:00",
+      "locality": "CAMP DE MASQUE PAVE",
+      "localitySlug": "camp-de-masque-pave",
+      "streets": "Petite Cabane Rd",
+      "district": "flacq",
+      "from": "2023-08-03T07:15:00.000Z",
+      "to": "2023-08-03T09:15:00.000Z",
+      "id": "2c1d0e4b5dd264edc94692afcd6965f5"
+    },
+    {
+      "date": "Le jeudi 3 août 2023 de  09:30:00 à  15:30:00",
+      "locality": "LA ROSA",
+      "localitySlug": "la-rosa",
+      "streets": "Cite CHA,Nr Govt School",
+      "district": "grandport",
+      "from": "2023-08-03T05:30:00.000Z",
+      "to": "2023-08-03T11:30:00.000Z",
+      "id": "e81c804f9d1ff5491f5f1f297aaf466e"
+    },
+    {
+      "date": "Le jeudi 3 août 2023 de  10:00:00 à  13:00:00",
+      "locality": "PLAINE VERTE",
+      "localitySlug": "plaine-verte",
+      "streets": "Rue Magon et les ruelles avoisinantes",
+      "district": "portlouis",
+      "from": "2023-08-03T06:00:00.000Z",
+      "to": "2023-08-03T09:00:00.000Z",
+      "id": "333f55da33c5dd5e5112c2a613706192"
+    }
+  ]
+}

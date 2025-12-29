@@ -1,0 +1,67 @@
+{
+  "slug": "port-mathurin",
+  "name": "PORT MATHURIN(RODRIGUES)",
+  "district": "rodrigues",
+  "generated": "2025-12-29T20:21:02.755Z",
+  "outageCount": 8,
+  "firstOutage": "2022-04-13",
+  "lastOutage": "2025-01-27",
+  "outages": [
+    {
+      "date": "Le lundi 27 janvier 2025 de  14:00:00 à  16:00:00",
+      "streets": "Port Mathurin dans les environs de Passenger Terminal, Supermarche Roussety et Alfred Northcombs",
+      "from": "2025-01-27T10:00:00.000Z",
+      "to": "2025-01-27T12:00:00.000Z",
+      "id": "f6de72c508e16d14b3cd61ce9b2eb12b"
+    },
+    {
+      "date": "Le dimanche 9 juin 2024 de  08:00:00 à  15:00:00",
+      "streets": "LES ABONNES DE PORT MATHURIN.",
+      "from": "2024-06-09T04:00:00.000Z",
+      "to": "2024-06-09T11:00:00.000Z",
+      "id": "bdc028c6cbc56b035281d0bae934059e"
+    },
+    {
+      "date": "Le mardi 26 mars 2024 de  12:00:00 à  13:00:00",
+      "streets": "LES ENVIRONS DE LA RUE MAX LUCHESI",
+      "from": "2024-03-26T08:00:00.000Z",
+      "to": "2024-03-26T09:00:00.000Z",
+      "id": "19e468b437f1eab2548cabadbac39439"
+    },
+    {
+      "date": "Le mardi 20 février 2024 de  08:30:00 à  11:00:00",
+      "streets": "Port Mathurin, Fond La Digue, Pointe Canon, Creve Coeur et Roseaux",
+      "from": "2024-02-20T04:30:00.000Z",
+      "to": "2024-02-20T07:00:00.000Z",
+      "id": "58ce8df3f495b7ae9d5e00f35144e64e"
+    },
+    {
+      "date": "Le mardi 23 janvier 2024 de  16:00:00 à  17:00:00",
+      "streets": "Port Mathurin",
+      "from": "2024-01-23T12:00:00.000Z",
+      "to": "2024-01-23T13:00:00.000Z",
+      "id": "e7a4f1cf609682564a7c2c66226f39f8"
+    },
+    {
+      "date": "Le mercredi 1 février 2023 de  08:00:00 à  16:00:00",
+      "streets": "Port Mathurin et Montagne Fanal",
+      "from": "2023-02-01T04:00:00.000Z",
+      "to": "2023-02-01T12:00:00.000Z",
+      "id": "a3b17f1ac06230ad7d9ca64afbd35be5"
+    },
+    {
+      "date": "Le mercredi 13 avril 2022 de  16:00:00 à  17:00:00",
+      "streets": "Port Mathurin",
+      "from": "2022-04-13T12:00:00.000Z",
+      "to": "2022-04-13T13:00:00.000Z",
+      "id": "2d808b6bec046bf8ec327fee481d7d8c"
+    },
+    {
+      "date": "Le mercredi 13 avril 2022 de  13:00:00 à  14:00:00",
+      "streets": "Port Mathurin",
+      "from": "2022-04-13T09:00:00.000Z",
+      "to": "2022-04-13T10:00:00.000Z",
+      "id": "543e6f07ed5c5cdd5147559506d07d54"
+    }
+  ]
+}

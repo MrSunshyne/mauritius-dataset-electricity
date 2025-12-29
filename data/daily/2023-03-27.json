@@ -1,0 +1,48 @@
+{
+  "date": "2023-03-27",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.376Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le lundi 27 mars 2023 de  10:00:00 à  15:30:00",
+      "locality": "MONT  SIMONET",
+      "localitySlug": "mont-simonet",
+      "streets": "MONT SIMONET TAMARIND FALLS",
+      "district": "blackriver",
+      "from": "2023-03-27T06:00:00.000Z",
+      "to": "2023-03-27T11:30:00.000Z",
+      "id": "4de216a70106e5e14d5bb42db0f891ec"
+    },
+    {
+      "date": "Le lundi 27 mars 2023 de  16:00:00 à  18:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "BELLE VUE PHARE, PETITE BRETAGNE, PAILLE EN QUEUE, CAPITAINE, BENGALI, ALBION",
+      "district": "blackriver",
+      "from": "2023-03-27T12:00:00.000Z",
+      "to": "2023-03-27T14:00:00.000Z",
+      "id": "856d1510b96f2eb33b9546185f5875c1"
+    },
+    {
+      "date": "Le lundi 27 mars 2023 de  10:10:00 à  11:30:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "CIRCONSTANCE ST PIERRE",
+      "district": "moka",
+      "from": "2023-03-27T06:10:00.000Z",
+      "to": "2023-03-27T07:30:00.000Z",
+      "id": "09ff955c4559a5b37b2bada076dbf567"
+    },
+    {
+      "date": "Le lundi 27 mars 2023 de  19:00:00 à  23:00:00",
+      "locality": "CAP MALHEUREUX",
+      "localitySlug": "cap-malheureux",
+      "streets": "cap malheureux.bain boeuf,grand gaube,petit raffray,calodyne",
+      "district": "rivieredurempart",
+      "from": "2023-03-27T15:00:00.000Z",
+      "to": "2023-03-27T19:00:00.000Z",
+      "id": "4e0e17f976f3d062bd59bda420c7dfc8"
+    }
+  ]
+}

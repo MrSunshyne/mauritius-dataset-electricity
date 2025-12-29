@@ -1,0 +1,88 @@
+{
+  "date": "2023-05-13",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.380Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le samedi 13 mai 2023 de  08:15:00 à  17:00:00",
+      "locality": "ECROIGNARD",
+      "localitySlug": "ecroignard",
+      "streets": "ECROIGNARD-MORC BRAMSTHAN-CAMP ITHIER",
+      "district": "flacq",
+      "from": "2023-05-13T04:15:00.000Z",
+      "to": "2023-05-13T13:00:00.000Z",
+      "id": "bb7c2d0cf7a6ab59065ea96df835ee88"
+    },
+    {
+      "date": "Le samedi 13 mai 2023 de  08:30:00 à  16:00:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "HENRIETTA: Closel, Mont Simonet, Mare-Longue",
+      "district": "plainewilhems",
+      "from": "2023-05-13T04:30:00.000Z",
+      "to": "2023-05-13T12:00:00.000Z",
+      "id": "d6eaca3270f3427c2608187cc86c84d1"
+    },
+    {
+      "date": "Le samedi 13 mai 2023 de  14:00:00 à  15:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "Ave Cerisiers, Ave Balsamines, Police Quarters No 1 & 2, Morc Montreal 2 et les environs",
+      "district": "plainewilhems",
+      "from": "2023-05-13T10:00:00.000Z",
+      "to": "2023-05-13T11:00:00.000Z",
+      "id": "0fbde4bcfd8a93e68ab0211921c66889"
+    },
+    {
+      "date": "Le samedi 13 mai 2023 de  08:30:00 à  16:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "Chapman View, Ave Empereur, Ave Discus et les environs",
+      "district": "plainewilhems",
+      "from": "2023-05-13T04:30:00.000Z",
+      "to": "2023-05-13T12:00:00.000Z",
+      "id": "9834ad8e1e15b5792f1f54e76bd8ea8c"
+    },
+    {
+      "date": "Le samedi 13 mai 2023 de  09:00:00 à  16:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "MORC FOONDUN BASSIN",
+      "district": "plainewilhems",
+      "from": "2023-05-13T05:00:00.000Z",
+      "to": "2023-05-13T12:00:00.000Z",
+      "id": "166c06ee23d5547612f616fccab44693"
+    },
+    {
+      "date": "Le samedi 13 mai 2023 de  09:00:00 à  12:00:00",
+      "locality": "PETIT VERGER P AUX SABLES",
+      "localitySlug": "petit-verger-p-aux-sables",
+      "streets": "DANS LES ENVIRONS DE VERGER LES BAINS, VERGER SUR MER ET MORC GHURBURRUN",
+      "district": "portlouis",
+      "from": "2023-05-13T05:00:00.000Z",
+      "to": "2023-05-13T08:00:00.000Z",
+      "id": "5c7c5256152060d5edf742f49bcbea41"
+    },
+    {
+      "date": "Le samedi 13 mai 2023 de  08:30:00 à  15:30:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "DANS LES ENVIRONS DE MORC JANEAU",
+      "district": "rivieredurempart",
+      "from": "2023-05-13T04:30:00.000Z",
+      "to": "2023-05-13T11:30:00.000Z",
+      "id": "9c7043e78064afa63ea4f53c017d1c9e"
+    },
+    {
+      "date": "Le samedi 13 mai 2023 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LA FERME, PISTACHE, PIMENT, REPOSOIR, BAIE TOPAZE, MONTAGNE CROUPIER ET CAMP PINTADE",
+      "district": "rodrigues",
+      "from": "2023-05-13T04:30:00.000Z",
+      "to": "2023-05-13T11:00:00.000Z",
+      "id": "490d62deebf6cec6403ba814966c1d60"
+    }
+  ]
+}

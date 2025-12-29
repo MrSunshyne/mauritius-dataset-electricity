@@ -1,0 +1,78 @@
+{
+  "date": "2023-02-03",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.372Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le vendredi 3 février 2023 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "Ave Radar, Ave des Colombes, Ave des Aigrettes, Ave des Canaries, Ave des Aiglons, Ave des Perdrix, Ave des Bengalis et les Ave Cateau Vert 1 & 2",
+      "district": "blackriver",
+      "from": "2023-02-03T04:30:00.000Z",
+      "to": "2023-02-03T11:30:00.000Z",
+      "id": "ee32c9fc9d49915c2641925a285860d5"
+    },
+    {
+      "date": "Le vendredi 3 février 2023 de  16:30:00 à  20:00:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "MORC LA LUCIE,",
+      "district": "flacq",
+      "from": "2023-02-03T12:30:00.000Z",
+      "to": "2023-02-03T16:00:00.000Z",
+      "id": "3e83ad1edbfe152e568e1399b160d193"
+    },
+    {
+      "date": "Le vendredi 3 février 2023 de  08:30:00 à  15:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "Morcellement VRS 1 L’escalier Road Plaine Magnien",
+      "district": "grandport",
+      "from": "2023-02-03T04:30:00.000Z",
+      "to": "2023-02-03T11:00:00.000Z",
+      "id": "0bde2a58c0a53270eab69f0d1d2764cb"
+    },
+    {
+      "date": "Le vendredi 3 février 2023 de  08:30:00 à  16:30:00",
+      "locality": "GLEN PARK",
+      "localitySlug": "glen-park",
+      "streets": "Bord Cascade, Closel, Mont Simonet, Mare-Longue, NHDC Henrietta, Morcellement Pousson, Morcellement Manguier",
+      "district": "plainewilhems",
+      "from": "2023-02-03T04:30:00.000Z",
+      "to": "2023-02-03T12:30:00.000Z",
+      "id": "85bfb841a16e1e49ed0dd1f8f4721a18"
+    },
+    {
+      "date": "Le vendredi 3 février 2023 de  08:30:00 à  18:30:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "Bord Cascade, Closel, Mont Simonet, Mare-Longue, NHDC Henrietta, Morcellement Pousson, Morcellement Manguier",
+      "district": "plainewilhems",
+      "from": "2023-02-03T04:30:00.000Z",
+      "to": "2023-02-03T14:30:00.000Z",
+      "id": "112b24b4f0c7a4c48d34715941d14112"
+    },
+    {
+      "date": "Le vendredi 3 février 2023 de  08:30:00 à  16:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Robinson, Curepipe habitant les rues et les régions suivantes : Partie de Robinson, Hard Line, Morcellement Riverland, Oconor et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-02-03T04:30:00.000Z",
+      "to": "2023-02-03T12:00:00.000Z",
+      "id": "06d34dc0e48af7314c7122c1949fc4d7"
+    },
+    {
+      "date": "Le vendredi 3 février 2023 de  09:00:00 à  15:00:00",
+      "locality": "SURINAM",
+      "localitySlug": "surinam",
+      "streets": "Terracine, Trois Bras et Surinam",
+      "district": "savanne",
+      "from": "2023-02-03T05:00:00.000Z",
+      "to": "2023-02-03T11:00:00.000Z",
+      "id": "b65c4a068e9c29fd3b162bb442117c84"
+    }
+  ]
+}

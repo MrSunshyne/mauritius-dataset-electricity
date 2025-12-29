@@ -1,0 +1,28 @@
+{
+  "date": "2023-06-23",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.383Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le vendredi 23 juin 2023 de  08:30:00 à  16:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "Les abonnés de 16eme Mile, Forest-Side habitant les rues et les régions suivantes : Coriolis, Ramsoo, Bajo, Ramparsad, Domah, Jaffur, Albatros, Tacher, Issory, Dussoy, Dodo, Nightingale, Cheddy, Morcellement Soobanee, Morcellement Nathoo, NHDC Jacinthe et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-06-23T04:30:00.000Z",
+      "to": "2023-06-23T12:00:00.000Z",
+      "id": "ae67f5c4723f2c1493673661c930e0e0"
+    },
+    {
+      "date": "Le vendredi 23 juin 2023 de  16:45:00 à  18:30:00",
+      "locality": "VALLEE PITOT",
+      "localitySlug": "vallee-pitot",
+      "streets": "LA RUE COMETE,ALMA VALLEE PITOT",
+      "district": "portlouis",
+      "from": "2023-06-23T12:45:00.000Z",
+      "to": "2023-06-23T14:30:00.000Z",
+      "id": "7f90d1c1e2a9a2ca922a653aeb67783b"
+    }
+  ]
+}

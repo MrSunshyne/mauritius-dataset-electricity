@@ -1,0 +1,28 @@
+{
+  "date": "2023-03-12",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.375Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le dimanche 12 mars 2023 de  10:15:00 à  12:15:00",
+      "locality": "VALETTA",
+      "localitySlug": "valetta",
+      "streets": "JAMAL ST,HEMRAZ ST",
+      "district": "moka",
+      "from": "2023-03-12T06:15:00.000Z",
+      "to": "2023-03-12T08:15:00.000Z",
+      "id": "d94c6e0284935b913f21a85ed37194b2"
+    },
+    {
+      "date": "Le dimanche 12 mars 2023 de  13:00:00 à  17:00:00",
+      "locality": "CITE CHEBEL",
+      "localitySlug": "cite-chebel",
+      "streets": "LA REPRISE,CAMP BERTHELOT",
+      "district": "plainewilhems",
+      "from": "2023-03-12T09:00:00.000Z",
+      "to": "2023-03-12T13:00:00.000Z",
+      "id": "20f0ca7ba1e020de21bbdb728b10a4a3"
+    }
+  ]
+}

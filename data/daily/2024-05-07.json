@@ -1,0 +1,58 @@
+{
+  "date": "2024-05-07",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.406Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mardi 7 mai 2024 de  16:35:00 à  18:35:00",
+      "locality": "RICHE TERRE",
+      "localitySlug": "riche-terre",
+      "streets": "ROMA LANE RICHE TERRE ET EN PARTIE RICHE TERRE RD",
+      "district": "pamplemousses",
+      "from": "2024-05-07T12:35:00.000Z",
+      "to": "2024-05-07T14:35:00.000Z",
+      "id": "fa79fdd83076070f806350aa52a28a5f"
+    },
+    {
+      "date": "Le mardi 7 mai 2024 de  14:00:00 à  17:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Edgar Quirin Avenue, Phoenix",
+      "district": "plainewilhems",
+      "from": "2024-05-07T10:00:00.000Z",
+      "to": "2024-05-07T13:00:00.000Z",
+      "id": "cbafac07970a22ce8747588b2fee19c4"
+    },
+    {
+      "date": "Le mardi 7 mai 2024 de  15:00:00 à  17:30:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Morc Goburdhun",
+      "district": "plainewilhems",
+      "from": "2024-05-07T11:00:00.000Z",
+      "to": "2024-05-07T13:30:00.000Z",
+      "id": "132dd600508bb1bef3dd5050913cb52d"
+    },
+    {
+      "date": "Le mardi 7 mai 2024 de  16:30:00 à  19:30:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "AVENUE MICHAEL LEAL, MORC FLAMBOYANT, MORC ST LOUIS.",
+      "district": "portlouis",
+      "from": "2024-05-07T12:30:00.000Z",
+      "to": "2024-05-07T15:30:00.000Z",
+      "id": "f325f147a3bf0d06b826dfbe1d4f6df8"
+    },
+    {
+      "date": "Le mardi 7 mai 2024 de  14:10:00 à  14:45:00",
+      "locality": "RIVIERE DES ANGUILLES",
+      "localitySlug": "riviere-des-anguilles",
+      "streets": "RIVIERE DES ANGUILLES DIRECTION TYACK",
+      "district": "savanne",
+      "from": "2024-05-07T10:10:00.000Z",
+      "to": "2024-05-07T10:45:00.000Z",
+      "id": "b13b541770fd58de8dc3c55fcada0b76"
+    }
+  ]
+}

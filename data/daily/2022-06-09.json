@@ -1,0 +1,28 @@
+{
+  "date": "2022-06-09",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.356Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le jeudi 9 juin 2022 de  08:30:00 à  16:00:00",
+      "locality": "CAMP THOREL",
+      "localitySlug": "camp-thorel",
+      "streets": "Village Camp Thorel",
+      "district": "moka",
+      "from": "2022-06-09T04:30:00.000Z",
+      "to": "2022-06-09T12:00:00.000Z",
+      "id": "352ad43b522312825c1cd90821da14a1"
+    },
+    {
+      "date": "Le jeudi 9 juin 2022 de  08:30:00 à  12:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Partie de Leclézio, Leclézio lane, Réservoir, flat les Jardises et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-06-09T04:30:00.000Z",
+      "to": "2022-06-09T08:00:00.000Z",
+      "id": "74eeaddbde5767b0921bc0af844e4902"
+    }
+  ]
+}

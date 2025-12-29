@@ -1,0 +1,39 @@
+{
+  "slug": "belle-rive-curepipe",
+  "name": "BELLE RIVE CUREPIPE",
+  "district": "plainewilhems",
+  "generated": "2025-12-29T20:21:02.502Z",
+  "outageCount": 4,
+  "firstOutage": "2024-04-19",
+  "lastOutage": "2024-09-16",
+  "outages": [
+    {
+      "date": "Le lundi 16 septembre 2024 de  16:00:00 à  18:00:00",
+      "streets": "La Fileuse",
+      "from": "2024-09-16T12:00:00.000Z",
+      "to": "2024-09-16T14:00:00.000Z",
+      "id": "7d2d458dc4ebd9bcdcffdb6555d415b0"
+    },
+    {
+      "date": "Le lundi 16 septembre 2024 de  09:00:00 à  16:00:00",
+      "streets": "La Fileuse",
+      "from": "2024-09-16T05:00:00.000Z",
+      "to": "2024-09-16T12:00:00.000Z",
+      "id": "c49c4e275cb69aae85795e4f62a0d3bf"
+    },
+    {
+      "date": "Le jeudi 25 juillet 2024 de  08:30:00 à  16:00:00",
+      "streets": "village La Fileuse de Belle Rive et NHDC Wooton",
+      "from": "2024-07-25T04:30:00.000Z",
+      "to": "2024-07-25T12:00:00.000Z",
+      "id": "0153486ec1961cd2818d0f138da6a371"
+    },
+    {
+      "date": "Le vendredi 19 avril 2024 de  18:10:00 à  19:10:00",
+      "streets": "CARREAU CHAPEAU BELLE RIVE",
+      "from": "2024-04-19T14:10:00.000Z",
+      "to": "2024-04-19T15:10:00.000Z",
+      "id": "964d2ea783c86c88119fa2e12feb2bc7"
+    }
+  ]
+}

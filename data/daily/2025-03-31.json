@@ -1,0 +1,38 @@
+{
+  "date": "2025-03-31",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.432Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le lundi 31 mars 2025 de  16:30:00 à  22:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "QUATRE BORNES",
+      "district": "plainewilhems",
+      "from": "2025-03-31T12:30:00.000Z",
+      "to": "2025-03-31T18:00:00.000Z",
+      "id": "1db8765b5ee9d6c95cfbe9602fa14ef1"
+    },
+    {
+      "date": "Le lundi 31 mars 2025 de  11:00:00 à  13:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "SIPAILLE BRULEE VALLEE DES PRETRES",
+      "district": "portlouis",
+      "from": "2025-03-31T07:00:00.000Z",
+      "to": "2025-03-31T09:00:00.000Z",
+      "id": "971574609facb243862e9eeacfce1118"
+    },
+    {
+      "date": "Le lundi 31 mars 2025 de  07:00:00 à  13:00:00",
+      "locality": "AMAURY",
+      "localitySlug": "amaury",
+      "streets": "CEMETERY ROAD AMAURY",
+      "district": "rivieredurempart",
+      "from": "2025-03-31T03:00:00.000Z",
+      "to": "2025-03-31T09:00:00.000Z",
+      "id": "692f77a1f71a78cf29cec8105a1edccc"
+    }
+  ]
+}

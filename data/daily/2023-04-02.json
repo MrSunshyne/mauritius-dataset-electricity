@@ -1,0 +1,188 @@
+{
+  "date": "2023-04-02",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.377Z",
+  "outageCount": 18,
+  "outages": [
+    {
+      "date": "Le dimanche 2 avril 2023 de  08:30:00 à  15:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "DANS LES ENVIRONS DE RUE LAFORGE, CHARLES DICKENS ET UNE PARTIE DE LA ROUTE ALBION",
+      "district": "blackriver",
+      "from": "2023-04-02T04:30:00.000Z",
+      "to": "2023-04-02T11:00:00.000Z",
+      "id": "d3753f9aa5500995d2d94d9a0a706d95"
+    },
+    {
+      "date": "Le dimanche 2 avril 2023 de  08:30:00 à  16:00:00",
+      "locality": "GROS CAILLOUX",
+      "localitySlug": "gros-cailloux",
+      "streets": "Allee Mangue, Bosquet Rd, Proxy Fresh, en partie Chebel Br Rd et les environs",
+      "district": "blackriver",
+      "from": "2023-04-02T04:30:00.000Z",
+      "to": "2023-04-02T12:00:00.000Z",
+      "id": "26c8a0299a20bc7f5144b63381309b76"
+    },
+    {
+      "date": "Le dimanche 2 avril 2023 de  08:30:00 à  17:00:00",
+      "locality": "GRAND BEL AIR",
+      "localitySlug": "grand-bel-air",
+      "streets": "Morcellement VRS Grand Bel Air et une partie de la Route Royale Grand Bel Air",
+      "district": "flacq",
+      "from": "2023-04-02T04:30:00.000Z",
+      "to": "2023-04-02T13:00:00.000Z",
+      "id": "5266e628e490bacd507ee6c5e5921608"
+    },
+    {
+      "date": "Le dimanche 2 avril 2023 de  09:30:00 à  14:00:00",
+      "locality": "VILLENOIRE",
+      "localitySlug": "villenoire",
+      "streets": "Morcellement VRS Ville Noire",
+      "district": "grandport",
+      "from": "2023-04-02T05:30:00.000Z",
+      "to": "2023-04-02T10:00:00.000Z",
+      "id": "4ef9a907d37ecf8f90bb11c974d849b2"
+    },
+    {
+      "date": "Le dimanche 2 avril 2023 de  14:00:00 à  00:00:00",
+      "locality": "VIEUX GRAND PORT",
+      "localitySlug": "vieux-grand-port",
+      "streets": "MOSQUE RD VIEUX GRAND PORT=TX FAULTY",
+      "district": "grandport",
+      "from": "2023-04-02T10:00:00.000Z",
+      "to": "2023-04-01T20:00:00.000Z",
+      "id": "a9942b8937a8fdc4f0f67d1c6a64152c"
+    },
+    {
+      "date": "Le dimanche 2 avril 2023 de  13:00:00 à  16:00:00",
+      "locality": "DAGOTIERE",
+      "localitySlug": "dagotiere",
+      "streets": "NHDC DAGOTIERE",
+      "district": "moka",
+      "from": "2023-04-02T09:00:00.000Z",
+      "to": "2023-04-02T12:00:00.000Z",
+      "id": "c9505d1c44a6e02f551fdef11d8cb210"
+    },
+    {
+      "date": "Le dimanche 2 avril 2023 de  15:45:00 à  00:00:00",
+      "locality": "QUARTIER MILITAIRE",
+      "localitySlug": "quartier-militaire",
+      "streets": "MOSQUE RD QUARTIER MILITAIRE=NEUTRAL ALIVE",
+      "district": "moka",
+      "from": "2023-04-02T11:45:00.000Z",
+      "to": "2023-04-01T20:00:00.000Z",
+      "id": "b5989e9086f328f73da8d6e01b19bee9"
+    },
+    {
+      "date": "Le dimanche 2 avril 2023 de  14:00:00 à  00:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "BOIS MARCHAND RD TERRE ROUGE=POLE BROKEN",
+      "district": "pamplemousses",
+      "from": "2023-04-02T10:00:00.000Z",
+      "to": "2023-04-01T20:00:00.000Z",
+      "id": "eab3065c8dfe711fc04db6ba06f0a1dc"
+    },
+    {
+      "date": "Le dimanche 2 avril 2023 de  08:30:00 à  16:00:00",
+      "locality": "BRITANNIA",
+      "localitySlug": "britannia",
+      "streets": "Les abonnés du villages de Britannia, Riviere Dragon, Camp Berthaud, St. Avold et CHA Rampur",
+      "district": "plainewilhems",
+      "from": "2023-04-02T04:30:00.000Z",
+      "to": "2023-04-02T12:00:00.000Z",
+      "id": "07b8d8ba78a72b7aa75b3f30ee8d56a8"
+    },
+    {
+      "date": "Le dimanche 2 avril 2023 de  09:00:00 à  10:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "En partie Hillcrest, Faucon, Rossignol, Mouette, Dreamton Park et NHDC Sodnac",
+      "district": "plainewilhems",
+      "from": "2023-04-02T05:00:00.000Z",
+      "to": "2023-04-02T06:00:00.000Z",
+      "id": "f8380bca7995f8724c8d7251de5e91db"
+    },
+    {
+      "date": "Le dimanche 2 avril 2023 de  08:30:00 à  18:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave Longanier et en partie Ave Sodnac et Ylang Ylang",
+      "district": "plainewilhems",
+      "from": "2023-04-02T04:30:00.000Z",
+      "to": "2023-04-02T14:00:00.000Z",
+      "id": "03f64128a65f52ca63c3eb8dd4e6886b"
+    },
+    {
+      "date": "Le dimanche 2 avril 2023 de  09:00:00 à  16:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "CELICOUT ANTHELME-ROCHECOUSTE-MARY GOLD-GUSTAVE COLLIN-FREDERIC BONNEFIN-MORC PIAT-MORC VALAYDON-FLAT RAMDANEE",
+      "district": "plainewilhems",
+      "from": "2023-04-02T05:00:00.000Z",
+      "to": "2023-04-02T12:00:00.000Z",
+      "id": "618cbf3dc074d74207ce5ec6bde56ddb"
+    },
+    {
+      "date": "Le dimanche 2 avril 2023 de  15:30:00 à  17:30:00",
+      "locality": "SODNAC",
+      "localitySlug": "sodnac",
+      "streets": "HILLCREST, PELICAN, SODNAC",
+      "district": "plainewilhems",
+      "from": "2023-04-02T11:30:00.000Z",
+      "to": "2023-04-02T13:30:00.000Z",
+      "id": "7488a53a744ce742c2708a762952b740"
+    },
+    {
+      "date": "Le dimanche 2 avril 2023 de  09:00:00 à  16:00:00",
+      "locality": "CAMP YOLOFF",
+      "localitySlug": "camp-yoloff",
+      "streets": "CAMP YOLOFF-RUE ARAB-ALLEPPO-LA FONTAINE",
+      "district": "portlouis",
+      "from": "2023-04-02T05:00:00.000Z",
+      "to": "2023-04-02T12:00:00.000Z",
+      "id": "0e4ddf12448c497060b5239fe95f7bcf"
+    },
+    {
+      "date": "Le dimanche 2 avril 2023 de  08:30:00 à  16:00:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "BUTTE AUX PAPAYES-ROILLARD-CIRCLE SQUARE-LES CHARMOSES-REUNION MAUREL-TROIS BRAS-ROCHE TERRE-GRAND GAUBE",
+      "district": "rivieredurempart",
+      "from": "2023-04-02T04:30:00.000Z",
+      "to": "2023-04-02T12:00:00.000Z",
+      "id": "ef6bbc3c6eaef044b8592b898804096a"
+    },
+    {
+      "date": "Le dimanche 2 avril 2023 de  08:30:00 à  16:00:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "BUTTE AUX PAPAYES-ROILLARD-CIRCLE SQUARE-LES CHARMOSES-REUNION MAUREL-TROIS BRAS-ROCHE TERRE-GRAND GAUBE",
+      "district": "rivieredurempart",
+      "from": "2023-04-02T04:30:00.000Z",
+      "to": "2023-04-02T12:00:00.000Z",
+      "id": "8f4a9770373ab219e33344ac0b9d06d5"
+    },
+    {
+      "date": "Le dimanche 2 avril 2023 de  10:45:00 à  11:45:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "RIVIERE DU REMPART",
+      "district": "rivieredurempart",
+      "from": "2023-04-02T06:45:00.000Z",
+      "to": "2023-04-02T07:45:00.000Z",
+      "id": "ac528f7191180853f505617913055432"
+    },
+    {
+      "date": "Le dimanche 2 avril 2023 de  09:00:00 à  16:00:00",
+      "locality": "RIAMBEL",
+      "localitySlug": "riambel",
+      "streets": "Le village de Riambel Coast Road",
+      "district": "savanne",
+      "from": "2023-04-02T05:00:00.000Z",
+      "to": "2023-04-02T12:00:00.000Z",
+      "id": "adf2d261d62bcf99d4b5eaf0a1808b40"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "date": "2022-08-17",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.360Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mercredi 17 août 2022 de  08:30:00 à  13:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "AVE DES CIGOGNES, AVE DES KESTRELS, AVE NENUPHARS ET UNE PARTIE DE LAVE RADAR",
+      "district": "blackriver",
+      "from": "2022-08-17T04:30:00.000Z",
+      "to": "2022-08-17T09:30:00.000Z",
+      "id": "d12f95859636e322e54c979c1a236a29"
+    },
+    {
+      "date": "Le mercredi 17 août 2022 de  08:30:00 à  15:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "NOTRE DAME DE LOURDES ST, THOMMY PITOT ET EN PARTIE ROUTE ROYALE ROSE-HILL DU COTÉ 361, MAGASIN TIMOL ET LEOVILLE L`HOMME",
+      "district": "plainewilhems",
+      "from": "2022-08-17T04:30:00.000Z",
+      "to": "2022-08-17T11:00:00.000Z",
+      "id": "74c341d3a9159371c1009e9df9a2f80a"
+    },
+    {
+      "date": "Le mercredi 17 août 2022 de  08:30:00 à  15:30:00",
+      "locality": "ROCHES NOIRES",
+      "localitySlug": "roches-noires",
+      "streets": "DANS LES ENVIRONS DE CREMATION ROAD,JANKEE ROAD ET VICTORIA ROAD",
+      "district": "rivieredurempart",
+      "from": "2022-08-17T04:30:00.000Z",
+      "to": "2022-08-17T11:30:00.000Z",
+      "id": "522e1474c2dc64b06d703d2f2edac79d"
+    }
+  ]
+}

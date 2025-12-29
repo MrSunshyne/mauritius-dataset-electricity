@@ -1,0 +1,58 @@
+{
+  "date": "2024-05-27",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.408Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le lundi 27 mai 2024 de  09:30:00 à  12:00:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "les abonnes du village de Flacq  dans les perimetres de Lhopital de Flacq, CEB Cash Office, Ecole du Governement de Rajkumar Gajadhur,Courts Mamouth, La station Police De Flacq, Le Tribunal de Flacq et Eagle Clinic.",
+      "district": "flacq",
+      "from": "2024-05-27T05:30:00.000Z",
+      "to": "2024-05-27T08:00:00.000Z",
+      "id": "92c21bd221eece5c150033018db62d2c"
+    },
+    {
+      "date": "Le lundi 27 mai 2024 de  11:50:00 à  13:30:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "PLAINE DES GERSIGNY, ST REMY, PART OF MORC",
+      "district": "flacq",
+      "from": "2024-05-27T07:50:00.000Z",
+      "to": "2024-05-27T09:30:00.000Z",
+      "id": "2587d42e72439e1457a6b4d06137f894"
+    },
+    {
+      "date": "Le lundi 27 mai 2024 de  14:45:00 à  17:00:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "PART OF MORC PLAINE DES GERSIGNY TOWARDS EX-DISTRICT COUNCIL BUILDING.",
+      "district": "flacq",
+      "from": "2024-05-27T10:45:00.000Z",
+      "to": "2024-05-27T13:00:00.000Z",
+      "id": "9ae53a4b308311fd83e0a68074a88b58"
+    },
+    {
+      "date": "Le lundi 27 mai 2024 de  16:00:00 à  18:00:00",
+      "locality": "POSTE DE FLACQ",
+      "localitySlug": "poste-de-flacq",
+      "streets": "POSTE DE FLACQ EN DIRECTION LA GARE BUS.",
+      "district": "flacq",
+      "from": "2024-05-27T12:00:00.000Z",
+      "to": "2024-05-27T14:00:00.000Z",
+      "id": "023917f5ceb729a4811f23b0ccbc29ce"
+    },
+    {
+      "date": "Le lundi 27 mai 2024 de  09:00:00 à  10:00:00",
+      "locality": "REUNION VACOAS",
+      "localitySlug": "reunion-vacoas",
+      "streets": "PART OF REUNION VACOAS",
+      "district": "plainewilhems",
+      "from": "2024-05-27T05:00:00.000Z",
+      "to": "2024-05-27T06:00:00.000Z",
+      "id": "3f27cc096f1fdc8b568b7f483e37a899"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "belle-rive",
+  "name": "BELLE RIVE ( KEWAL NAGAR )",
+  "district": "flacq",
+  "generated": "2025-12-29T20:21:02.501Z",
+  "outageCount": 5,
+  "firstOutage": "2023-05-18",
+  "lastOutage": "2024-10-11",
+  "outages": [
+    {
+      "date": "Le vendredi 11 octobre 2024 de  13:00:00 à  15:00:00",
+      "streets": "Whole Village..Kewal Nagar",
+      "from": "2024-10-11T09:00:00.000Z",
+      "to": "2024-10-11T11:00:00.000Z",
+      "id": "56deb1820b95e607b4cee50efc0f3c9a"
+    },
+    {
+      "date": "Le lundi 22 juillet 2024 de  10:00:00 à  12:00:00",
+      "streets": "MORC VRS KEWAL NAGAR",
+      "from": "2024-07-22T06:00:00.000Z",
+      "to": "2024-07-22T08:00:00.000Z",
+      "id": "6a4b6deacb9718c15301ccb1f0c84d47"
+    },
+    {
+      "date": "Le dimanche 24 septembre 2023 de  08:15:00 à  17:00:00",
+      "streets": "Les abonnes du village de Kewal Nagar",
+      "from": "2023-09-24T04:15:00.000Z",
+      "to": "2023-09-24T13:00:00.000Z",
+      "id": "5e2deb6d11845a36bcb9b2f6b0eccaf7"
+    },
+    {
+      "date": "Le dimanche 17 septembre 2023 de  08:15:00 à  17:00:00",
+      "streets": "LE VILLAGE DE KEWAL NAGAR",
+      "from": "2023-09-17T04:15:00.000Z",
+      "to": "2023-09-17T13:00:00.000Z",
+      "id": "81f804c3e6a37485e0ba10bf212cb76f"
+    },
+    {
+      "date": "Le jeudi 18 mai 2023 de  09:00:00 à  16:00:00",
+      "streets": "KEWAL NAGAR",
+      "from": "2023-05-18T05:00:00.000Z",
+      "to": "2023-05-18T12:00:00.000Z",
+      "id": "d975ae6ccede00bfd5fdfa54978899c8"
+    }
+  ]
+}

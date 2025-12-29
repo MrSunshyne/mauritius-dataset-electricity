@@ -1,0 +1,68 @@
+{
+  "date": "2025-04-02",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.432Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le mercredi 2 avril 2025 de  09:30:00 à  17:30:00",
+      "locality": "DAGOTIERE",
+      "localitySlug": "dagotiere",
+      "streets": "VRS LASURANCE DAGOTIERE",
+      "district": "moka",
+      "from": "2025-04-02T05:30:00.000Z",
+      "to": "2025-04-02T13:30:00.000Z",
+      "id": "d99897a05cfa002d5a223745f5307a57"
+    },
+    {
+      "date": "Le mercredi 2 avril 2025 de  11:00:00 à  14:00:00",
+      "locality": "PLAINE DES PAPAYES",
+      "localitySlug": "plaine-des-papayes",
+      "streets": "MIDDLE ROAD PLAINE DE PAPAYES",
+      "district": "pamplemousses",
+      "from": "2025-04-02T07:00:00.000Z",
+      "to": "2025-04-02T10:00:00.000Z",
+      "id": "038a22cb281c5c46ec881a8cece9b74e"
+    },
+    {
+      "date": "Le mercredi 2 avril 2025 de  13:45:00 à  16:45:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "WHOLE OF TRIOLET.",
+      "district": "pamplemousses",
+      "from": "2025-04-02T09:45:00.000Z",
+      "to": "2025-04-02T12:45:00.000Z",
+      "id": "25b8de5f0c60646b7c7dc5ee60d52b89"
+    },
+    {
+      "date": "Le mercredi 2 avril 2025 de  20:30:00 à  23:00:00",
+      "locality": "D-EPINAY",
+      "localitySlug": "d-epinay",
+      "streets": "DEPINAY",
+      "district": "pamplemousses",
+      "from": "2025-04-02T16:30:00.000Z",
+      "to": "2025-04-02T19:00:00.000Z",
+      "id": "13d40a12a808a943f0ff865178a4074a"
+    },
+    {
+      "date": "Le mercredi 2 avril 2025 de  20:33:00 à  23:00:00",
+      "locality": "ILOT",
+      "localitySlug": "ilot",
+      "streets": "ILOT",
+      "district": "pamplemousses",
+      "from": "2025-04-02T16:33:00.000Z",
+      "to": "2025-04-02T19:00:00.000Z",
+      "id": "073cc7dfeb2795b193aa4f2d9ab8b8a9"
+    },
+    {
+      "date": "Le mercredi 2 avril 2025 de  20:35:00 à  23:00:00",
+      "locality": "CONGOMAH",
+      "localitySlug": "congomah",
+      "streets": "WHOLE VILLAGE",
+      "district": "pamplemousses",
+      "from": "2025-04-02T16:35:00.000Z",
+      "to": "2025-04-02T19:00:00.000Z",
+      "id": "f424fd0d0b6438cec0e89b9e0cd51432"
+    }
+  ]
+}

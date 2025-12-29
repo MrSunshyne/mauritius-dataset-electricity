@@ -1,0 +1,38 @@
+{
+  "date": "2023-08-09",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.386Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mercredi 9 août 2023 de  11:30:00 à  14:30:00",
+      "locality": "PETITE POINTE AUX PIMENTS",
+      "localitySlug": "petite-pointe-aux-piments",
+      "streets": "MORC RAMDONEE PETITE POINTE AUX PIMENT",
+      "district": "pamplemousses",
+      "from": "2023-08-09T07:30:00.000Z",
+      "to": "2023-08-09T10:30:00.000Z",
+      "id": "b5f60e9d08cc91ca6629cdbdc4132e8f"
+    },
+    {
+      "date": "Le mercredi 9 août 2023 de  09:00:00 à  14:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "LES ABONNES HABITANT LA ROUTE COTIERE DE PEREYBERE  DANS LES ENVIRONS DE EDEN ROCK",
+      "district": "rivieredurempart",
+      "from": "2023-08-09T05:00:00.000Z",
+      "to": "2023-08-09T10:00:00.000Z",
+      "id": "d811262251c224c0f06cf7c470173032"
+    },
+    {
+      "date": "Le mercredi 9 août 2023 de  08:30:00 à  15:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "LES ABONNES HABITANT LA ROUTE COTIERE DE GRAND BAY DANS LES ENVIRONS DE KAPUKAI ET LENARD STORE",
+      "district": "rivieredurempart",
+      "from": "2023-08-09T04:30:00.000Z",
+      "to": "2023-08-09T11:00:00.000Z",
+      "id": "7b787110e7a8f2aa16f2ceaf048219f4"
+    }
+  ]
+}

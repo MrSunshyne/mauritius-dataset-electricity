@@ -1,0 +1,67 @@
+{
+  "slug": "vieux-grand-port",
+  "name": "VIEUX GRAND PORT",
+  "district": "grandport",
+  "generated": "2025-12-29T20:21:02.853Z",
+  "outageCount": 8,
+  "firstOutage": "2022-04-13",
+  "lastOutage": "2025-12-05",
+  "outages": [
+    {
+      "date": "Le vendredi 5 décembre 2025 de  11:00:00 à  16:30:00",
+      "streets": "LES ABONNES DE VIEUX GRAND PORT ET BOIS DES AMOURETTES.",
+      "from": "2025-12-05T07:00:00.000Z",
+      "to": "2025-12-05T12:30:00.000Z",
+      "id": "9b5b34b6e3f4c5755a376788121329fb"
+    },
+    {
+      "date": "Le mercredi 4 octobre 2023 de  09:00:00 à  14:00:00",
+      "streets": "ROYAL RD VIEUX GRAND PORT",
+      "from": "2023-10-04T05:00:00.000Z",
+      "to": "2023-10-04T10:00:00.000Z",
+      "id": "6983702b3d7a5cdbdf3ddbe6c434861f"
+    },
+    {
+      "date": "Le dimanche 2 avril 2023 de  14:00:00 à  00:00:00",
+      "streets": "MOSQUE RD VIEUX GRAND PORT=TX FAULTY",
+      "from": "2023-04-02T10:00:00.000Z",
+      "to": "2023-04-01T20:00:00.000Z",
+      "id": "a9942b8937a8fdc4f0f67d1c6a64152c"
+    },
+    {
+      "date": "Le jeudi 12 janvier 2023 de  09:00:00 à  16:00:00",
+      "streets": "Vieux Grand Port et Belle Vue habitant dans le périmètre et les rues suivantes: La Croix Street, Magon Street, Mosque Street, Bhagwan Street, Debarcadere Street, Malgache Street, SSR Street, Père Laval Street, Satan Babooa Street, NHDC Street, Singaron Street, Lyon Street et La Route Royale Vieux Grand Port",
+      "from": "2023-01-12T05:00:00.000Z",
+      "to": "2023-01-12T12:00:00.000Z",
+      "id": "1e3623b3846b8ad7d86379a5ce789537"
+    },
+    {
+      "date": "Le vendredi 28 octobre 2022 de  15:15:00 à  16:30:00",
+      "streets": "GRAND PORT",
+      "from": "2022-10-28T11:15:00.000Z",
+      "to": "2022-10-28T12:30:00.000Z",
+      "id": "03a71811dbeb152371a2181bd11c3f3a"
+    },
+    {
+      "date": "Le mardi 12 juillet 2022 de  16:00:00 à  18:00:00",
+      "streets": "NHDC VIEUX GRAND PORT",
+      "from": "2022-07-12T12:00:00.000Z",
+      "to": "2022-07-12T14:00:00.000Z",
+      "id": "759cce3daa6986c2728300bb11dd5f64"
+    },
+    {
+      "date": "Le vendredi 27 mai 2022 de  09:15:00 à  11:15:00",
+      "streets": "VIEUX GRAND PORT",
+      "from": "2022-05-27T05:15:00.000Z",
+      "to": "2022-05-27T07:15:00.000Z",
+      "id": "1e7082ba8d8c2ce6439b3ab87233a125"
+    },
+    {
+      "date": "Le mercredi 13 avril 2022 de  09:00:00 à  11:00:00",
+      "streets": "Grant Port",
+      "from": "2022-04-13T05:00:00.000Z",
+      "to": "2022-04-13T07:00:00.000Z",
+      "id": "67d5fbf1692ce9008ae9e92e2f21d63c"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "date": "2024-02-15",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.400Z",
+  "outageCount": 10,
+  "outages": [
+    {
+      "date": "Le jeudi 15 février 2024 de  09:00:00 à  13:00:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "MORC MARGUERIT RIVIERE NOIRE",
+      "district": "blackriver",
+      "from": "2024-02-15T05:00:00.000Z",
+      "to": "2024-02-15T09:00:00.000Z",
+      "id": "cb40d350084e1b37e2a2894c3ad3a3d7"
+    },
+    {
+      "date": "Le jeudi 15 février 2024 de  12:00:00 à  16:00:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "Centre De Flacq:Ex Market Road, St Ursule Road, Choonee Building, One stop shop, Koolwant Building, Arcade Bakar.",
+      "district": "flacq",
+      "from": "2024-02-15T08:00:00.000Z",
+      "to": "2024-02-15T12:00:00.000Z",
+      "id": "92ec3282014165eeeb059caf2c1168e1"
+    },
+    {
+      "date": "Le jeudi 15 février 2024 de  13:00:00 à  14:00:00",
+      "locality": "MELROSE",
+      "localitySlug": "melrose",
+      "streets": "VILLAGE MELROSE",
+      "district": "moka",
+      "from": "2024-02-15T09:00:00.000Z",
+      "to": "2024-02-15T10:00:00.000Z",
+      "id": "bab1d508c11cb2838194db4b8470e101"
+    },
+    {
+      "date": "Le jeudi 15 février 2024 de  15:00:00 à  17:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave Tagore, Ave Osman et en partie Ave dEpinay",
+      "district": "plainewilhems",
+      "from": "2024-02-15T11:00:00.000Z",
+      "to": "2024-02-15T13:00:00.000Z",
+      "id": "b34a6b685ba256191c6d50a62160f7ab"
+    },
+    {
+      "date": "Le jeudi 15 février 2024 de  19:00:00 à  23:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVENUE STANLEY,AVENUE NAZ,AVENUE FARQUARE",
+      "district": "plainewilhems",
+      "from": "2024-02-15T15:00:00.000Z",
+      "to": "2024-02-15T19:00:00.000Z",
+      "id": "5a24d5e67500559a33492635ca41d0a4"
+    },
+    {
+      "date": "Le jeudi 15 février 2024 de  11:00:00 à  13:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "NR NEEL ROYAL RD VALLEE DES PRETRES",
+      "district": "portlouis",
+      "from": "2024-02-15T07:00:00.000Z",
+      "to": "2024-02-15T09:00:00.000Z",
+      "id": "81f319675cae94a85ea54ad81ef6c039"
+    },
+    {
+      "date": "Le jeudi 15 février 2024 de  14:00:00 à  15:00:00",
+      "locality": "ROCHE BOIS",
+      "localitySlug": "roche-bois",
+      "streets": "COCOTRIE ROCHE BOIS",
+      "district": "portlouis",
+      "from": "2024-02-15T10:00:00.000Z",
+      "to": "2024-02-15T11:00:00.000Z",
+      "id": "ecc586b1b3016c6bcf18ed1d32d297d4"
+    },
+    {
+      "date": "Le jeudi 15 février 2024 de  14:30:00 à  15:30:00",
+      "locality": "PLAINE DES ROCHES",
+      "localitySlug": "plaine-des-roches",
+      "streets": "KALIMAYE RD -SOKHA RD -ROYAL RD PL DES ROCHES",
+      "district": "rivieredurempart",
+      "from": "2024-02-15T10:30:00.000Z",
+      "to": "2024-02-15T11:30:00.000Z",
+      "id": "e391cf8d0f7c1fd8d28007d321adf5df"
+    },
+    {
+      "date": "Le jeudi 15 février 2024 de  10:00:00 à  15:00:00",
+      "locality": "LA FLORA",
+      "localitySlug": "la-flora",
+      "streets": "LA FLORA",
+      "district": "savanne",
+      "from": "2024-02-15T06:00:00.000Z",
+      "to": "2024-02-15T11:00:00.000Z",
+      "id": "ca0e86337871b28641bc84aafc6a49ad"
+    },
+    {
+      "date": "Le jeudi 15 février 2024 de  12:00:00 à  15:00:00",
+      "locality": "QUATRE VENTS(RODRIGUES)",
+      "localitySlug": "quatre-vents",
+      "streets": "Quatre Vents, Papayes, Marechal, Mangues, Montagne Du Sable, Grand La Fouche Mangues et Manick",
+      "district": "rodrigues",
+      "from": "2024-02-15T08:00:00.000Z",
+      "to": "2024-02-15T11:00:00.000Z",
+      "id": "1fe42824ef916fcdeb2812a44e5de169"
+    }
+  ]
+}

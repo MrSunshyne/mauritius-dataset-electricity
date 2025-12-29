@@ -1,0 +1,58 @@
+{
+  "date": "2024-02-16",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.400Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le vendredi 16 février 2024 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC PALMYRE- AVE DES BEGONIAS, AVE DES DALHIA, AVE DES ROSIERS, AVE DES JASMINS ET AVE QUATRE TEMPS",
+      "district": "blackriver",
+      "from": "2024-02-16T04:30:00.000Z",
+      "to": "2024-02-16T11:30:00.000Z",
+      "id": "55325b394bba0f5f50bab973b9374648"
+    },
+    {
+      "date": "Le vendredi 16 février 2024 de  15:30:00 à  18:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC PALMYRE- AVE DES BEGONIAS, AVE DES DALHIA, AVE DES ROSIERS, AVE DES JASMINS ET AVE QUATRE TEMPS",
+      "district": "blackriver",
+      "from": "2024-02-16T11:30:00.000Z",
+      "to": "2024-02-16T14:00:00.000Z",
+      "id": "c47c58e97c349bab7e8a3d513f6d87e8"
+    },
+    {
+      "date": "Le vendredi 16 février 2024 de  09:00:00 à  16:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "FERGUSON STREET ,DEROSNAY,MAX ROWAN,ISSA DAVID",
+      "district": "plainewilhems",
+      "from": "2024-02-16T05:00:00.000Z",
+      "to": "2024-02-16T12:00:00.000Z",
+      "id": "ada8ff077cae96aa1872a6e7008f4bc2"
+    },
+    {
+      "date": "Le vendredi 16 février 2024 de  10:00:00 à  12:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "AVE BOUGAINVILLE PTE AUX SABLES",
+      "district": "portlouis",
+      "from": "2024-02-16T06:00:00.000Z",
+      "to": "2024-02-16T08:00:00.000Z",
+      "id": "9cd7142a5913a206264b5adfa3964d5a"
+    },
+    {
+      "date": "Le vendredi 16 février 2024 de  15:00:00 à  18:00:00",
+      "locality": "BOIS CHERI",
+      "localitySlug": "bois-cheri",
+      "streets": "STAFF QUARTERS BOIS CHERIE",
+      "district": "savanne",
+      "from": "2024-02-16T11:00:00.000Z",
+      "to": "2024-02-16T14:00:00.000Z",
+      "id": "a7274359cf9a6aa1f48fd015c9eb23d6"
+    }
+  ]
+}

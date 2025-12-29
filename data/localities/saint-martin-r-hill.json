@@ -1,0 +1,165 @@
+{
+  "slug": "saint-martin-r-hill",
+  "name": "SAINT MARTIN R-HILL",
+  "district": "plainewilhems",
+  "generated": "2025-12-29T20:21:02.806Z",
+  "outageCount": 22,
+  "firstOutage": "2022-05-28",
+  "lastOutage": "2025-12-18",
+  "outages": [
+    {
+      "date": "Le jeudi 18 décembre 2025 de  16:00:00 à  16:30:00",
+      "streets": "SOCOVIA,PORKER,CWA",
+      "from": "2025-12-18T12:00:00.000Z",
+      "to": "2025-12-18T12:30:00.000Z",
+      "id": "465478088502fb8d2c012c776444ab9b"
+    },
+    {
+      "date": "Le mardi 16 décembre 2025 de  10:00:00 à  12:00:00",
+      "streets": "SAINT MARTIN",
+      "from": "2025-12-16T06:00:00.000Z",
+      "to": "2025-12-16T08:00:00.000Z",
+      "id": "c780099cbfb0f5152b85816bf49fae21"
+    },
+    {
+      "date": "Le jeudi 7 août 2025 de  09:00:00 à  15:00:00",
+      "streets": "BEM RECLYCLING, MASTER BREADERS, SOOREEFARM, POULTRY SODIA B, CWA CHAUMIERE",
+      "from": "2025-08-07T05:00:00.000Z",
+      "to": "2025-08-07T11:00:00.000Z",
+      "id": "ec76f448e46fa7fe13134b6223a547d5"
+    },
+    {
+      "date": "Le dimanche 13 juillet 2025 de  08:00:00 à  12:30:00",
+      "streets": "ST MARTIN",
+      "from": "2025-07-13T04:00:00.000Z",
+      "to": "2025-07-13T08:30:00.000Z",
+      "id": "536e722d23e8f91c4f9c0cceb076dd9f"
+    },
+    {
+      "date": "Le dimanche 20 octobre 2024 de  08:30:00 à  14:00:00",
+      "streets": "GENERAL CONSTRUCTION CANOT/ST MARTIN, POULTRY SODIA,",
+      "from": "2024-10-20T04:30:00.000Z",
+      "to": "2024-10-20T10:00:00.000Z",
+      "id": "f040d9f174a1355961c50b0cd7c8a8f4"
+    },
+    {
+      "date": "Le samedi 12 octobre 2024 de  08:30:00 à  16:00:00",
+      "streets": "Porker et les environs",
+      "from": "2024-10-12T04:30:00.000Z",
+      "to": "2024-10-12T12:00:00.000Z",
+      "id": "9ba9b675ac9df3d22f292d578b720846"
+    },
+    {
+      "date": "Le samedi 5 octobre 2024 de  08:30:00 à  16:00:00",
+      "streets": "Jardin St Martin, Porker, CWA et les environs",
+      "from": "2024-10-05T04:30:00.000Z",
+      "to": "2024-10-05T12:00:00.000Z",
+      "id": "0e32ae0998d2fba69d5d026f1606cec5"
+    },
+    {
+      "date": "Le dimanche 22 septembre 2024 de  10:45:00 à  15:00:00",
+      "streets": "PORKER",
+      "from": "2024-09-22T06:45:00.000Z",
+      "to": "2024-09-22T11:00:00.000Z",
+      "id": "e3c5690dbce1737c939080f0201c692c"
+    },
+    {
+      "date": "Le samedi 21 septembre 2024 de  08:30:00 à  16:00:00",
+      "streets": "Jardin St Martin, Porker, CWA et les environs",
+      "from": "2024-09-21T04:30:00.000Z",
+      "to": "2024-09-21T12:00:00.000Z",
+      "id": "8e04d0ddc19d5296b70758a29dca511e"
+    },
+    {
+      "date": "Le dimanche 21 juillet 2024 de  08:30:00 à  16:00:00",
+      "streets": "PORKER, CWA ST MARTIN ET LES ENVIRONS",
+      "from": "2024-07-21T04:30:00.000Z",
+      "to": "2024-07-21T12:00:00.000Z",
+      "id": "fc2e32aec46f69425223077f0b3b5551"
+    },
+    {
+      "date": "Le samedi 20 avril 2024 de  11:40:00 à  13:00:00",
+      "streets": "CWA PUMP ST ANTOINE, POULTRY, PORKER ET GAMMA CIVIC.",
+      "from": "2024-04-20T07:40:00.000Z",
+      "to": "2024-04-20T09:00:00.000Z",
+      "id": "2a98fe76bd2986b7da37741f0e37bd5d"
+    },
+    {
+      "date": "Le samedi 10 février 2024 de  08:30:00 à  15:30:00",
+      "streets": "Les Jardin St Martin, Kovil Chaumiere, BEM, Master Breeder et Soreefarm",
+      "from": "2024-02-10T04:30:00.000Z",
+      "to": "2024-02-10T11:30:00.000Z",
+      "id": "5f7b6060e38fe438179e5eae58fc12fe"
+    },
+    {
+      "date": "Le dimanche 21 janvier 2024 de  08:30:00 à  16:00:00",
+      "streets": "CWA ST MARTIN, PORKER ST MARTIN ET LES ENVIRONS",
+      "from": "2024-01-21T04:30:00.000Z",
+      "to": "2024-01-21T12:00:00.000Z",
+      "id": "0996c2079f50126a4d55922ab0d1527e"
+    },
+    {
+      "date": "Le samedi 23 décembre 2023 de  08:30:00 à  16:00:00",
+      "streets": "General Construction, Socovia et Porker",
+      "from": "2023-12-23T04:30:00.000Z",
+      "to": "2023-12-23T12:00:00.000Z",
+      "id": "757377ed9ff18f04aaf34584031fa3e8"
+    },
+    {
+      "date": "Le mardi 17 octobre 2023 de  13:50:00 à  15:00:00",
+      "streets": "ST MARTIN DANS LES ENVIRON CIMETIERE.",
+      "from": "2023-10-17T09:50:00.000Z",
+      "to": "2023-10-17T11:00:00.000Z",
+      "id": "dfad0780b041a474d27deb26f8848c2c"
+    },
+    {
+      "date": "Le dimanche 3 septembre 2023 de  08:30:00 à  16:00:00",
+      "streets": "General Construction, Poultry, Porker, CWA, Socovia et les environs",
+      "from": "2023-09-03T04:30:00.000Z",
+      "to": "2023-09-03T12:00:00.000Z",
+      "id": "f44226c355ca73f07c9302f440933880"
+    },
+    {
+      "date": "Le samedi 10 juin 2023 de  19:30:00 à  20:00:00",
+      "streets": "SAINT MARTIN",
+      "from": "2023-06-10T15:30:00.000Z",
+      "to": "2023-06-10T16:00:00.000Z",
+      "id": "15849281c9ab6215f7572806e3881c8d"
+    },
+    {
+      "date": "Le samedi 10 juin 2023 de  14:30:00 à  15:30:00",
+      "streets": "Porker, Jardin St Martin et les environs",
+      "from": "2023-06-10T10:30:00.000Z",
+      "to": "2023-06-10T11:30:00.000Z",
+      "id": "2e929c390358e2526ba2ad4020872ec5"
+    },
+    {
+      "date": "Le samedi 10 juin 2023 de  08:30:00 à  09:30:00",
+      "streets": "Porker, Jardin St Martin et les environs",
+      "from": "2023-06-10T04:30:00.000Z",
+      "to": "2023-06-10T05:30:00.000Z",
+      "id": "a60869745b36cb3d52f5bf898cb36112"
+    },
+    {
+      "date": "Le samedi 3 septembre 2022 de  08:30:00 à  16:00:00",
+      "streets": "Porker St Martin, CWA, St Martin Pump et General Construction",
+      "from": "2022-09-03T04:30:00.000Z",
+      "to": "2022-09-03T12:00:00.000Z",
+      "id": "c7d20f8bcd29c4119e9d3eff52e6d931"
+    },
+    {
+      "date": "Le samedi 6 août 2022 de  08:30:00 à  16:00:00",
+      "streets": "Porker St Martin, Jardin St Martin, Village St Martin et les environs",
+      "from": "2022-08-06T04:30:00.000Z",
+      "to": "2022-08-06T12:00:00.000Z",
+      "id": "4c2ba95eca3ba0eb9880504a07843c44"
+    },
+    {
+      "date": "Le samedi 28 mai 2022 de  08:30:00 à  16:00:00",
+      "streets": "PORKER ST MARTIN, CWA ST MARTIN, ST MARTIN PUMP ET GENERAL CONSTRUCTION",
+      "from": "2022-05-28T04:30:00.000Z",
+      "to": "2022-05-28T12:00:00.000Z",
+      "id": "5bdb2ac975abd988ae2c6093becdc810"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2024-07-01",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.410Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le lundi 1 juillet 2024 de  15:30:00 à  16:30:00",
+      "locality": "CAMP THOREL",
+      "localitySlug": "camp-thorel",
+      "streets": "DANS LES ENVIRONS SEEBURRUN ROAD.",
+      "district": "moka",
+      "from": "2024-07-01T11:30:00.000Z",
+      "to": "2024-07-01T12:30:00.000Z",
+      "id": "ee2c2bddd47f7045470056f3a137f51f"
+    },
+    {
+      "date": "Le lundi 1 juillet 2024 de  14:00:00 à  17:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Bechards Lane, Osman Lane, Allée Jacques, Edgar Quinin, Sandiran Lane, Barry Lane,  Nerhu Lane, Koenig Lane No. 1, No. 2, No. 3, No. 4, et No. 5, Morc Soobratty, Morc Chambor, Morcellement  Noel, une partie de Route Royal Phoenix, Sawmill Lane",
+      "district": "plainewilhems",
+      "from": "2024-07-01T10:00:00.000Z",
+      "to": "2024-07-01T13:00:00.000Z",
+      "id": "72eaa0d3c5db71762362e612e93cb455"
+    },
+    {
+      "date": "Le lundi 1 juillet 2024 de  14:00:00 à  17:00:00",
+      "locality": "SAINT PAUL",
+      "localitySlug": "saint-paul",
+      "streets": "Bechards Lane, Osman Lane, Allée Jacques, Edgar Quinin, Sandiran Lane, Barry Lane,  Nerhu Lane, Koenig Lane No. 1, No. 2, No. 3, No. 4, et No. 5, Morc Soobratty, Morc Chambor, Morcellement  Noel, une partie de Route Royal Phoenix, Sawmill Lane",
+      "district": "plainewilhems",
+      "from": "2024-07-01T10:00:00.000Z",
+      "to": "2024-07-01T13:00:00.000Z",
+      "id": "c774a6797b0b4d2552f3c9c918b013c3"
+    },
+    {
+      "date": "Le lundi 1 juillet 2024 de  09:00:00 à  14:00:00",
+      "locality": "STANLEY",
+      "localitySlug": "stanley",
+      "streets": "Avenues Ste Anne,Teeroovengadum,Pagoda et les Ruelles avoisinante",
+      "district": "plainewilhems",
+      "from": "2024-07-01T05:00:00.000Z",
+      "to": "2024-07-01T10:00:00.000Z",
+      "id": "345bdb6e532a6c07d6d0f6e5d77b99f8"
+    }
+  ]
+}

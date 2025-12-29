@@ -1,0 +1,48 @@
+{
+  "date": "2024-08-26",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.415Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le lundi 26 août 2024 de  18:00:00 à  22:00:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "TEMPL RD-ST CATHRINE-DESVEAUX RD LAGREMENT -MORC FRANGIPANE CIRCONSTANCE ST PIERRE",
+      "district": "moka",
+      "from": "2024-08-26T14:00:00.000Z",
+      "to": "2024-08-26T18:00:00.000Z",
+      "id": "3414f66d09c1a17ab8b27636ca4c3e73"
+    },
+    {
+      "date": "Le lundi 26 août 2024 de  10:00:00 à  11:30:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "tout court lane",
+      "district": "plainewilhems",
+      "from": "2024-08-26T06:00:00.000Z",
+      "to": "2024-08-26T07:30:00.000Z",
+      "id": "7a0282fee05c6d66abd6f3539a309bfd"
+    },
+    {
+      "date": "Le lundi 26 août 2024 de  08:45:00 à  16:00:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "Avenues Piranhas,Pluto,Neo et les environs",
+      "district": "plainewilhems",
+      "from": "2024-08-26T04:45:00.000Z",
+      "to": "2024-08-26T12:00:00.000Z",
+      "id": "f42b66e0a9ca0ae31cc08207729fc52e"
+    },
+    {
+      "date": "Le lundi 26 août 2024 de  12:45:00 à  13:45:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "Morc Sadal",
+      "district": "plainewilhems",
+      "from": "2024-08-26T08:45:00.000Z",
+      "to": "2024-08-26T09:45:00.000Z",
+      "id": "173c2d0877efe283099a1dda6fb48502"
+    }
+  ]
+}

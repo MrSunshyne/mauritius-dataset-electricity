@@ -1,0 +1,32 @@
+{
+  "slug": "bar-le-duc",
+  "name": "BAR LE DUC",
+  "district": "moka",
+  "generated": "2025-12-29T20:21:02.484Z",
+  "outageCount": 3,
+  "firstOutage": "2023-12-20",
+  "lastOutage": "2025-12-23",
+  "outages": [
+    {
+      "date": "Le mardi 23 décembre 2025 de  09:00:00 à  12:00:00",
+      "streets": "le village de Bar-Le-Duc",
+      "from": "2025-12-23T05:00:00.000Z",
+      "to": "2025-12-23T08:00:00.000Z",
+      "id": "fd4ef1aceb0b51e4d50627e39c0140b9"
+    },
+    {
+      "date": "Le samedi 13 septembre 2025 de  08:00:00 à  15:00:00",
+      "streets": "TELECOM TOWER, HAZAREE POULTRY, MBC",
+      "from": "2025-09-13T04:00:00.000Z",
+      "to": "2025-09-13T11:00:00.000Z",
+      "id": "26e6ac16f2dcffd7d245f867b1f68219"
+    },
+    {
+      "date": "Le mercredi 20 décembre 2023 de  15:10:00 à  16:30:00",
+      "streets": "BAR LE DUC",
+      "from": "2023-12-20T11:10:00.000Z",
+      "to": "2023-12-20T12:30:00.000Z",
+      "id": "a4cd41ff8de802130df50be13fc7e466"
+    }
+  ]
+}

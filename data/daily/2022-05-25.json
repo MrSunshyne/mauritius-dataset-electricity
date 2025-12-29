@@ -1,0 +1,68 @@
+{
+  "date": "2022-05-25",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.355Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le mercredi 25 mai 2022 de  08:30:00 à  15:30:00",
+      "locality": "LE MORNE",
+      "localitySlug": "le-morne",
+      "streets": "LE MORNE ET LA PRAIRIE",
+      "district": "blackriver",
+      "from": "2022-05-25T04:30:00.000Z",
+      "to": "2022-05-25T11:30:00.000Z",
+      "id": "c03ed1629796fb368e4c2d9cdab35375"
+    },
+    {
+      "date": "Le mercredi 25 mai 2022 de  08:30:00 à  14:30:00",
+      "locality": "CHAMAREL",
+      "localitySlug": "chamarel",
+      "streets": "CHAMAREL",
+      "district": "blackriver",
+      "from": "2022-05-25T04:30:00.000Z",
+      "to": "2022-05-25T10:30:00.000Z",
+      "id": "b8a1773df72c3da75f5fda234fc7b445"
+    },
+    {
+      "date": "Le mercredi 25 mai 2022 de  08:30:00 à  14:00:00",
+      "locality": "ARSENAL",
+      "localitySlug": "arsenal",
+      "streets": "Les Abonnes Dans Les Environs de Grand Baie Road a Arsenal Village",
+      "district": "pamplemousses",
+      "from": "2022-05-25T04:30:00.000Z",
+      "to": "2022-05-25T10:00:00.000Z",
+      "id": "f804e3181672e5c27cedd2d5795303d0"
+    },
+    {
+      "date": "Le mercredi 25 mai 2022 de  09:00:00 à  10:45:00",
+      "locality": "CAMP LEVIEUX ( R HILL )",
+      "localitySlug": "camp-levieux",
+      "streets": "Dr Piarroux Camp Levieux",
+      "district": "plainewilhems",
+      "from": "2022-05-25T05:00:00.000Z",
+      "to": "2022-05-25T06:45:00.000Z",
+      "id": "b2d17b425f9a47b44b164fdacb6fd6a8"
+    },
+    {
+      "date": "Le mercredi 25 mai 2022 de  17:00:00 à  18:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "VALLEE DES PRETRES NR SHIVALAH",
+      "district": "portlouis",
+      "from": "2022-05-25T13:00:00.000Z",
+      "to": "2022-05-25T14:00:00.000Z",
+      "id": "c31c90b69d3141c37709cf46f01d131c"
+    },
+    {
+      "date": "Le mercredi 25 mai 2022 de  08:30:00 à  14:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Fond La Digue",
+      "district": "rodrigues",
+      "from": "2022-05-25T04:30:00.000Z",
+      "to": "2022-05-25T10:00:00.000Z",
+      "id": "c4657dda737e0516c004c74d3d67e0a8"
+    }
+  ]
+}

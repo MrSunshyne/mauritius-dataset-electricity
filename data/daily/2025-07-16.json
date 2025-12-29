@@ -1,0 +1,48 @@
+{
+  "date": "2025-07-16",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.435Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mercredi 16 juillet 2025 de  09:15:00 à  09:45:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "3 Boutiques,Near Winners,Filling Engen",
+      "district": "pamplemousses",
+      "from": "2025-07-16T05:15:00.000Z",
+      "to": "2025-07-16T05:45:00.000Z",
+      "id": "138708cf00d11877641133ef029406ed"
+    },
+    {
+      "date": "Le mercredi 16 juillet 2025 de  09:00:00 à  12:00:00",
+      "locality": "GLEN PARK",
+      "localitySlug": "glen-park",
+      "streets": "Camp Tick Fine No. 1 & No.  2, Rampart Road",
+      "district": "plainewilhems",
+      "from": "2025-07-16T05:00:00.000Z",
+      "to": "2025-07-16T08:00:00.000Z",
+      "id": "a369eb9ff09959c382e6c2137cb66172"
+    },
+    {
+      "date": "Le mercredi 16 juillet 2025 de  15:00:00 à  18:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "FLOREAL RD, ANGUS 2, PARTIE DE GRANUM RD, RAJARRETHUM MUDALIAR AVE, ET LES RUELLES AVOISINANTES",
+      "district": "plainewilhems",
+      "from": "2025-07-16T11:00:00.000Z",
+      "to": "2025-07-16T14:00:00.000Z",
+      "id": "fc68fa76417ee1a3fc458d0ce2dc4901"
+    },
+    {
+      "date": "Le mercredi 16 juillet 2025 de  18:00:00 à  09:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "ROYAL STREET,L PASTEUR ST",
+      "district": "portlouis",
+      "from": "2025-07-16T14:00:00.000Z",
+      "to": "2025-07-16T05:00:00.000Z",
+      "id": "8b0317d5556a9a450c7e9194449cac06"
+    }
+  ]
+}

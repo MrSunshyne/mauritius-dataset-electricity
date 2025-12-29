@@ -1,0 +1,38 @@
+{
+  "date": "2024-12-31",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.425Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mardi 31 décembre 2024 de  18:45:00 à  21:30:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "CITE TAMARIN",
+      "district": "blackriver",
+      "from": "2024-12-31T14:45:00.000Z",
+      "to": "2024-12-31T17:30:00.000Z",
+      "id": "48070a33c34b3ca39bf6e04885775a35"
+    },
+    {
+      "date": "Le mardi 31 décembre 2024 de  08:30:00 à  12:00:00",
+      "locality": "ESPERANCE PITON",
+      "localitySlug": "esperance-piton",
+      "streets": "POUDRE DOR HAMLET, ESPERANCE PITON",
+      "district": "pamplemousses",
+      "from": "2024-12-31T04:30:00.000Z",
+      "to": "2024-12-31T08:00:00.000Z",
+      "id": "2be0168487d9278848976231abc05a26"
+    },
+    {
+      "date": "Le mardi 31 décembre 2024 de  13:00:00 à  19:00:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "CITE EDC GRAND GAUBE",
+      "district": "rivieredurempart",
+      "from": "2024-12-31T09:00:00.000Z",
+      "to": "2024-12-31T15:00:00.000Z",
+      "id": "44d72d481e6c3bb021b16295cd35b9e1"
+    }
+  ]
+}

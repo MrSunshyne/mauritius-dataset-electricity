@@ -1,0 +1,68 @@
+{
+  "date": "2023-06-02",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.381Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le vendredi 2 juin 2023 de  09:00:00 à  16:00:00",
+      "locality": "PALMAR",
+      "localitySlug": "palmar",
+      "streets": "SOCIETE SURLO",
+      "district": "flacq",
+      "from": "2023-06-02T05:00:00.000Z",
+      "to": "2023-06-02T12:00:00.000Z",
+      "id": "9a893d09ece04472742c34accfe7a13a"
+    },
+    {
+      "date": "Le vendredi 2 juin 2023 de  12:15:00 à  14:15:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "CHEMIN JOHN KENNEDY ET UNE PARIE DE GANDHI ROAD (CHANGING OF POLES)",
+      "district": "pamplemousses",
+      "from": "2023-06-02T08:15:00.000Z",
+      "to": "2023-06-02T10:15:00.000Z",
+      "id": "412f617ba63d3eb704b23877476e71bc"
+    },
+    {
+      "date": "Le vendredi 2 juin 2023 de  08:30:00 à  16:00:00",
+      "locality": "16EME MILE",
+      "localitySlug": "16eme-mile",
+      "streets": "Les abonnés de 16eme Mile, Forest-Side habitant les rues et les régions suivantes : Jaffur, partie de Coriolis Road, Morcellement Soobanee, NHDC Jacinthe, Issory, Albatros, Bojo, Ramsoor et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-06-02T04:30:00.000Z",
+      "to": "2023-06-02T12:00:00.000Z",
+      "id": "09750d9c08ec99ccab55bf99eda6bfdd"
+    },
+    {
+      "date": "Le vendredi 2 juin 2023 de  14:00:00 à  16:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "UNE PARTIE DE RUE BERNARDIN DE ST PIERRE, CHEMIN BALMICKY, CHEMIN CAROLINE ET AUX ENVIRONS TERMINUS BUS.",
+      "district": "portlouis",
+      "from": "2023-06-02T10:00:00.000Z",
+      "to": "2023-06-02T12:00:00.000Z",
+      "id": "6f2494568ac0d8327a2e16af3f2ab807"
+    },
+    {
+      "date": "Le vendredi 2 juin 2023 de  10:00:00 à  14:00:00",
+      "locality": "SURINAM",
+      "localitySlug": "surinam",
+      "streets": "MARTINIERE ROAD",
+      "district": "savanne",
+      "from": "2023-06-02T06:00:00.000Z",
+      "to": "2023-06-02T10:00:00.000Z",
+      "id": "c1540ea70dbb9dd1d89ee50a1be42c0f"
+    },
+    {
+      "date": "Le vendredi 2 juin 2023 de  10:15:00 à  11:15:00",
+      "locality": "CAMP DIABLE",
+      "localitySlug": "camp-diable",
+      "streets": "LES ABONNES DE CAMP DIABLE",
+      "district": "savanne",
+      "from": "2023-06-02T06:15:00.000Z",
+      "to": "2023-06-02T07:15:00.000Z",
+      "id": "927a747b0c6ae2dca2d16807634dd61e"
+    }
+  ]
+}

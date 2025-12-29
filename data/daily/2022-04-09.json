@@ -1,0 +1,38 @@
+{
+  "date": "2022-04-09",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.352Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le samedi 9 avril 2022 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "AVE SOUFFLEUR, AVE DES BALEINES, AVE DES BRETONS, AVE DES CATEAUX, AVE DES CARANGUES ET UNE PARTIE DE AVE SUNSET",
+      "district": "blackriver",
+      "from": "2022-04-09T04:30:00.000Z",
+      "to": "2022-04-09T11:30:00.000Z",
+      "id": "85b440334414900ad584cc82788d271c"
+    },
+    {
+      "date": "Le samedi 9 avril 2022 de  10:30:00 à  11:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "MORC ST JEAN  SODNAC CANDOSFEEDER ST JEAN EBENE TRIPPED",
+      "district": "plainewilhems",
+      "from": "2022-04-09T06:30:00.000Z",
+      "to": "2022-04-09T07:30:00.000Z",
+      "id": "2acc95e78d6dafd8130e109e81812b55"
+    },
+    {
+      "date": "Le samedi 9 avril 2022 de  09:00:00 à  15:30:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "LES ABONNES HABITANT GUIBIES DANS LES ENVIRONS DE ANSE COURTOIS ET PURMAH LANE",
+      "district": "portlouis",
+      "from": "2022-04-09T05:00:00.000Z",
+      "to": "2022-04-09T11:30:00.000Z",
+      "id": "7319fd49a4789ad5615f1f4cd9ea271b"
+    }
+  ]
+}

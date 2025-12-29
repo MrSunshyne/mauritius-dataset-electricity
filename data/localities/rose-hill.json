@@ -1,0 +1,844 @@
+{
+  "slug": "rose-hill",
+  "name": "ROSE-HILL",
+  "district": "plainewilhems",
+  "generated": "2025-12-29T20:21:02.797Z",
+  "outageCount": 119,
+  "firstOutage": "2022-05-20",
+  "lastOutage": "2025-12-20",
+  "outages": [
+    {
+      "date": "Le samedi 20 décembre 2025 de  14:00:00 à  18:00:00",
+      "streets": "DUNCAN,ELIAS,ROYAL ROAD,RUE NALLA.near arab town/market",
+      "from": "2025-12-20T10:00:00.000Z",
+      "to": "2025-12-20T14:00:00.000Z",
+      "id": "dce0bf2c4e6ca6f673911b376c839526"
+    },
+    {
+      "date": "Le dimanche 14 décembre 2025 de  14:30:00 à  19:00:00",
+      "streets": "PHILIPE CAMILLE STREET, LA PLACE STREET, P.CAMILLE STREET AND SURROUNDINGS",
+      "from": "2025-12-14T10:30:00.000Z",
+      "to": "2025-12-14T15:00:00.000Z",
+      "id": "e27c178dbb24da21ae2f12ec665fe420"
+    },
+    {
+      "date": "Le jeudi 11 décembre 2025 de  17:30:00 à  18:15:00",
+      "streets": "ave boundary ,winners, aquarelle office,canda lane,ave jeetoo and surrounding",
+      "from": "2025-12-11T13:30:00.000Z",
+      "to": "2025-12-11T14:15:00.000Z",
+      "id": "b2332fdb8b0267b6026824fac7c439ba"
+    },
+    {
+      "date": "Le jeudi 11 décembre 2025 de  10:10:00 à  11:10:00",
+      "streets": "ave boundary ,winners, aquarelle office,canda lane,ave jeetoo and surrounding",
+      "from": "2025-12-11T06:10:00.000Z",
+      "to": "2025-12-11T07:10:00.000Z",
+      "id": "45d65539eb1befe8090be2bdadf7097f"
+    },
+    {
+      "date": "Le jeudi 11 décembre 2025 de  09:45:00 à  10:30:00",
+      "streets": "ave boundary ,winners, aquarelle office,canda lane,ave jeetoo and surrounding",
+      "from": "2025-12-11T05:45:00.000Z",
+      "to": "2025-12-11T06:30:00.000Z",
+      "id": "e1f7a600ad19950c6b6dd90de128e3a0"
+    },
+    {
+      "date": "Le mercredi 10 décembre 2025 de  09:30:00 à  15:00:00",
+      "streets": "Rues Malartic,Clos Verger et Royale",
+      "from": "2025-12-10T05:30:00.000Z",
+      "to": "2025-12-10T11:00:00.000Z",
+      "id": "77b34efec22e91c1a080505885652707"
+    },
+    {
+      "date": "Le mardi 9 décembre 2025 de  10:15:00 à  11:30:00",
+      "streets": "RUE MALARTIC ROSEHILL",
+      "from": "2025-12-09T06:15:00.000Z",
+      "to": "2025-12-09T07:30:00.000Z",
+      "id": "f0b7bdd2750997f06638ce1dcfb402b2"
+    },
+    {
+      "date": "Le dimanche 7 décembre 2025 de  14:00:00 à  14:30:00",
+      "streets": "Ave Toureaux, Ave Ste Anne et les environs",
+      "from": "2025-12-07T10:00:00.000Z",
+      "to": "2025-12-07T10:30:00.000Z",
+      "id": "4e2b4ada2bdfd246687976f8e3d4af80"
+    },
+    {
+      "date": "Le dimanche 7 décembre 2025 de  07:30:00 à  15:00:00",
+      "streets": "Ave Nubee, Ave dArgent, Ave Filao, Ave Barbier, Hassen Taher Seafoods et les environs",
+      "from": "2025-12-07T03:30:00.000Z",
+      "to": "2025-12-07T11:00:00.000Z",
+      "id": "bab3e35f2aad46309e8f7a288f1c7a0b"
+    },
+    {
+      "date": "Le jeudi 4 décembre 2025 de  15:30:00 à  17:00:00",
+      "streets": "Ave Guy Rozemont, Berthaud, Ave Cretin, Ave Corps de Garde et les environs",
+      "from": "2025-12-04T11:30:00.000Z",
+      "to": "2025-12-04T13:00:00.000Z",
+      "id": "545feae7d8bd39b66e74488e13341f6b"
+    },
+    {
+      "date": "Le jeudi 4 décembre 2025 de  08:30:00 à  17:30:00",
+      "streets": "Ave Jeetoo, Ave Manilall, en partie Ave Guy Rozemont, Morc Gaya, en partie Candah Lane et les environs",
+      "from": "2025-12-04T04:30:00.000Z",
+      "to": "2025-12-04T13:30:00.000Z",
+      "id": "d4e3b01b290042467e27d7cf86c065ba"
+    },
+    {
+      "date": "Le mercredi 3 décembre 2025 de  15:30:00 à  17:30:00",
+      "streets": "Ave Guy Rozemont, Berthaud, Ave Jeetoo, Manilall, Ave Cretin, Ave Corps de Garde et les environs",
+      "from": "2025-12-03T11:30:00.000Z",
+      "to": "2025-12-03T13:30:00.000Z",
+      "id": "628ee85dc441f23b57ba4deda2108b25"
+    },
+    {
+      "date": "Le mardi 2 décembre 2025 de  08:30:00 à  17:00:00",
+      "streets": "Assemble Lane, Colombe Lane, Morc Narain, en partie Ave Corps de Garde et les environs",
+      "from": "2025-12-02T04:30:00.000Z",
+      "to": "2025-12-02T13:00:00.000Z",
+      "id": "4724431c42cf91b18acdc95e3f161ed9"
+    },
+    {
+      "date": "Le lundi 1 décembre 2025 de  10:00:00 à  10:45:00",
+      "streets": "BOUNDARY,BEAUSEJOUR.RUE ANTHELME,STANLEY,OLLIER ,PAVILLON",
+      "from": "2025-12-01T06:00:00.000Z",
+      "to": "2025-12-01T06:45:00.000Z",
+      "id": "8c0c96af6acfd0cb5c26181c80911fc5"
+    },
+    {
+      "date": "Le vendredi 28 novembre 2025 de  15:00:00 à  19:00:00",
+      "streets": "AVE GUY ROZEMONT, ROBERT EDWARD HART, DR FERRIERE, PANCHO LANE, CHASTEAUNEUF ET AVE BRADSHAW.",
+      "from": "2025-11-28T11:00:00.000Z",
+      "to": "2025-11-28T15:00:00.000Z",
+      "id": "401fe9b2b76dc457c6c211df1df18169"
+    },
+    {
+      "date": "Le dimanche 23 novembre 2025 de  11:30:00 à  15:30:00",
+      "streets": "RHILL, AVE ANTELME, AVE THIERY, AVE SEIDE GELE, AVE ETIENE SERRET, AVE LEGEUN, AVE ANTELME, AVE TOMMY ROUSSETE ET LES ENVIRONS",
+      "from": "2025-11-23T07:30:00.000Z",
+      "to": "2025-11-23T11:30:00.000Z",
+      "id": "932cf97fb27f4fed589306f469ea1062"
+    },
+    {
+      "date": "Le dimanche 23 novembre 2025 de  09:00:00 à  16:00:00",
+      "streets": "RHILL, AVE ANTELME, AVE THIERY, AVE SEIDE GELE, AVE ETIENE SERRET, AVE LEGEUN, AVE ANTELME, AVE TOMMY ROUSSETE ET LES ENVIRONS,",
+      "from": "2025-11-23T05:00:00.000Z",
+      "to": "2025-11-23T12:00:00.000Z",
+      "id": "81c5c44706ba8537e21c155e69aec33a"
+    },
+    {
+      "date": "Le dimanche 23 novembre 2025 de  06:30:00 à  08:00:00",
+      "streets": "RHILL, AVE ANTELME, AVE THIERY, AVE SEIDE GELE, AVE ETIENE SERRET, AVE LEGEUN, AVE ANTELME, AVE TOMMY ROUSSETE ET LES ENVIRONS,",
+      "from": "2025-11-23T02:30:00.000Z",
+      "to": "2025-11-23T04:00:00.000Z",
+      "id": "1923efc790025a119100c94ff773bfec"
+    },
+    {
+      "date": "Le jeudi 20 novembre 2025 de  12:00:00 à  17:00:00",
+      "streets": "MCB, SBM, Galaxy, Tulsidas, en partie Route Royale et les environs",
+      "from": "2025-11-20T08:00:00.000Z",
+      "to": "2025-11-20T13:00:00.000Z",
+      "id": "4cca4a4c25de8e994cbd82dbc39058c4"
+    },
+    {
+      "date": "Le vendredi 7 novembre 2025 de  15:00:00 à  18:00:00",
+      "streets": "BBASSIN,MAINGARD,BERLIOZ,HANDEL,BRAMS ET LES ENVIRONS",
+      "from": "2025-11-07T11:00:00.000Z",
+      "to": "2025-11-07T14:00:00.000Z",
+      "id": "09b1dae1c31c995c83583410611b3e35"
+    },
+    {
+      "date": "Le jeudi 6 novembre 2025 de  08:30:00 à  17:00:00",
+      "streets": "Ave Dr Maurice Cure, en partie C. Antelme, Hugnin, Stanley Lane, Charles Lees, Dr Singery, Inkerman et les environs",
+      "from": "2025-11-06T04:30:00.000Z",
+      "to": "2025-11-06T13:00:00.000Z",
+      "id": "6638613f083fc99bb2cc802ed8fee4a6"
+    },
+    {
+      "date": "Le jeudi 16 octobre 2025 de  10:15:00 à  11:30:00",
+      "streets": "ANDRE ANUM",
+      "from": "2025-10-16T06:15:00.000Z",
+      "to": "2025-10-16T07:30:00.000Z",
+      "id": "9776749b6b02d28a39273e1a9a9f600a"
+    },
+    {
+      "date": "Le mardi 14 octobre 2025 de  15:30:00 à  18:00:00",
+      "streets": "GROS CAILLOUX ALLEMANGUE, SEEGOOLAM LANE, JAGATSING LANE ET LES ENVIRONS",
+      "from": "2025-10-14T11:30:00.000Z",
+      "to": "2025-10-14T14:00:00.000Z",
+      "id": "096091db6724a9d853f9c67b54a8abd8"
+    },
+    {
+      "date": "Le dimanche 12 octobre 2025 de  15:30:00 à  16:30:00",
+      "streets": "Ave Inkerman, Ave Laplace, Ave Thierry, Ave Labourdonnais, Ave Dr Maurice Cure, Prince des Galles, Queen Street, J. P. de Roton, Ave Blondeau, Ave Stevenson, en partie Boundary et les environs",
+      "from": "2025-10-12T11:30:00.000Z",
+      "to": "2025-10-12T12:30:00.000Z",
+      "id": "d899470b02d082b293aaa42490b07ec6"
+    },
+    {
+      "date": "Le dimanche 12 octobre 2025 de  08:30:00 à  09:30:00",
+      "streets": "Ave Inkerman, Ave Laplace, Ave Thierry, Ave Labourdonnais, Ave Dr Maurice Cure, Prince des Galles, Queen Street, J. P. de Roton, Ave Blondeau, Ave Stevenson, en partie Boundary et les environs",
+      "from": "2025-10-12T04:30:00.000Z",
+      "to": "2025-10-12T05:30:00.000Z",
+      "id": "9de3d261df6f2aed0f5a9030b4f7c4a1"
+    },
+    {
+      "date": "Le lundi 6 octobre 2025 de  16:00:00 à  18:30:00",
+      "streets": "Ave Labourdonnais, Ave La Place, Stevenson, Lucien de Chazal, Inkerman, Blondeau et les environs",
+      "from": "2025-10-06T12:00:00.000Z",
+      "to": "2025-10-06T14:30:00.000Z",
+      "id": "503f2dbef27f8d65b07ecb5592cc2798"
+    },
+    {
+      "date": "Le dimanche 21 septembre 2025 de  13:30:00 à  14:30:00",
+      "streets": "ARCADES SUNASSEE ROUTE ROYALE ROSE HILL.",
+      "from": "2025-09-21T09:30:00.000Z",
+      "to": "2025-09-21T10:30:00.000Z",
+      "id": "ac973e542322f953fb54c5edb1af4052"
+    },
+    {
+      "date": "Le samedi 13 septembre 2025 de  09:00:00 à  13:30:00",
+      "streets": "ROUTE BOUNDARY,LA RUE STEVENSON,CHARLE LISE",
+      "from": "2025-09-13T05:00:00.000Z",
+      "to": "2025-09-13T09:30:00.000Z",
+      "id": "fdac18f23ea28ab201c0dd4887b85e53"
+    },
+    {
+      "date": "Le mercredi 10 septembre 2025 de  13:40:00 à  14:15:00",
+      "streets": "Antelme,Syed Zele,Etienne Serette & Delightio",
+      "from": "2025-09-10T09:40:00.000Z",
+      "to": "2025-09-10T10:15:00.000Z",
+      "id": "7098e86e6e547dcdd35d7d6f111b69be"
+    },
+    {
+      "date": "Le jeudi 4 septembre 2025 de  08:30:00 à  16:00:00",
+      "streets": "Thommy Pitot et en partie Route Royale",
+      "from": "2025-09-04T04:30:00.000Z",
+      "to": "2025-09-04T12:00:00.000Z",
+      "id": "9bae132dc3428fcf6bce008eda6add87"
+    },
+    {
+      "date": "Le mercredi 3 septembre 2025 de  15:30:00 à  17:30:00",
+      "streets": "Ave Guy Rozemont, en partie Dr Ferriere, Panchoo et les environs",
+      "from": "2025-09-03T11:30:00.000Z",
+      "to": "2025-09-03T13:30:00.000Z",
+      "id": "e10de0dd4820c9a790df6420ce86df45"
+    },
+    {
+      "date": "Le vendredi 22 août 2025 de  15:30:00 à  17:30:00",
+      "streets": "Ave Berthaud, Res. Trefles, Assembly Lane, Jeetoo Ave, en partie Stanley et Ave Cretin",
+      "from": "2025-08-22T11:30:00.000Z",
+      "to": "2025-08-22T13:30:00.000Z",
+      "id": "f8a96b280e8a0655903ada02075f3d69"
+    },
+    {
+      "date": "Le jeudi 21 août 2025 de  15:00:00 à  17:00:00",
+      "streets": "RUE ROCHECOUSTE, RUE TELEMAQUE, RUE DR ROUX, FLAT ROBINSON ET FLAT POUPINEL.",
+      "from": "2025-08-21T11:00:00.000Z",
+      "to": "2025-08-21T13:00:00.000Z",
+      "id": "6aa74578708926d38afc56a6e216f200"
+    },
+    {
+      "date": "Le mercredi 20 août 2025 de  15:30:00 à  17:30:00",
+      "streets": "Ave Berthaud, Res. Trefles, Assembly Lane, Jeetoo Ave, en partie Stanley et Ave Cretin",
+      "from": "2025-08-20T11:30:00.000Z",
+      "to": "2025-08-20T13:30:00.000Z",
+      "id": "49d25b7e41d37fd0b75476b75b32dff8"
+    },
+    {
+      "date": "Le jeudi 14 août 2025 de  15:00:00 à  17:00:00",
+      "streets": "GALERIES EVERSHINE ET PALLA GAMES.",
+      "from": "2025-08-14T11:00:00.000Z",
+      "to": "2025-08-14T13:00:00.000Z",
+      "id": "13e9c2462b5b9e19f2a9325ed9097ac5"
+    },
+    {
+      "date": "Le dimanche 10 août 2025 de  14:00:00 à  15:00:00",
+      "streets": "Hugnin Street, Pagoda, en partie Gladstone et les environs",
+      "from": "2025-08-10T10:00:00.000Z",
+      "to": "2025-08-10T11:00:00.000Z",
+      "id": "112cebcac82af8e1fde54423a1b705bc"
+    },
+    {
+      "date": "Le dimanche 10 août 2025 de  08:30:00 à  09:30:00",
+      "streets": "Hugnin Street, Pagoda, en partie Gladstone et les environs",
+      "from": "2025-08-10T04:30:00.000Z",
+      "to": "2025-08-10T05:30:00.000Z",
+      "id": "3ba83920ea551ad3ef21ffd7e14d1317"
+    },
+    {
+      "date": "Le vendredi 8 août 2025 de  09:30:00 à  13:30:00",
+      "streets": "BOUNDARY ROAD, EN PARTIE LABOURDONNAIS, EN PARTIE CHARLIE ET DANS LES ALENTOURS DE FILLING SHELL",
+      "from": "2025-08-08T05:30:00.000Z",
+      "to": "2025-08-08T09:30:00.000Z",
+      "id": "b9fa025c9445fe7345295a10cc5044eb"
+    },
+    {
+      "date": "Le jeudi 7 août 2025 de  13:30:00 à  15:00:00",
+      "streets": "LA RUE INKERMAN ROSE HILL",
+      "from": "2025-08-07T09:30:00.000Z",
+      "to": "2025-08-07T11:00:00.000Z",
+      "id": "cfa075bc3e470b1475b64e7fc2b63f4d"
+    },
+    {
+      "date": "Le mercredi 6 août 2025 de  15:30:00 à  17:30:00",
+      "streets": "Ave Berthaud, Res. Trefles, Assembly Lane, Jeetoo Ave, en partie Stanley et Ave Cretin",
+      "from": "2025-08-06T11:30:00.000Z",
+      "to": "2025-08-06T13:30:00.000Z",
+      "id": "3e8b6e978e5d60759445b086d58fc0de"
+    },
+    {
+      "date": "Le mardi 5 août 2025 de  16:00:00 à  18:00:00",
+      "streets": "EX REMY ROSE HILL, DA PATTEN, NEW ARAB TOWN, MAYFAIR, NALLA STORE, BAZAR RHILL,",
+      "from": "2025-08-05T12:00:00.000Z",
+      "to": "2025-08-05T14:00:00.000Z",
+      "id": "9a7309708ac42d53fbf53df3cd783e28"
+    },
+    {
+      "date": "Le lundi 4 août 2025 de  15:30:00 à  17:30:00",
+      "streets": "Ave Berthaud, Res. Trefles, Assembly Lane, Jeetoo Ave et en partie Stanley",
+      "from": "2025-08-04T11:30:00.000Z",
+      "to": "2025-08-04T13:30:00.000Z",
+      "id": "c552df9c4da76c07acb339d4055a6bb5"
+    },
+    {
+      "date": "Le dimanche 3 août 2025 de  08:30:00 à  16:00:00",
+      "streets": "MCB RHILL, TULSIDAS RHILL, VENDOME, EVEREST, ROSIDA, CHAMP ELYSEE, GIORDANO",
+      "from": "2025-08-03T04:30:00.000Z",
+      "to": "2025-08-03T12:00:00.000Z",
+      "id": "721a6b3a33d027879d3de6fa53cdc8c5"
+    },
+    {
+      "date": "Le dimanche 27 juillet 2025 de  09:00:00 à  15:00:00",
+      "streets": "Leoville LHomme et Inkerman",
+      "from": "2025-07-27T05:00:00.000Z",
+      "to": "2025-07-27T11:00:00.000Z",
+      "id": "5891ed5b2b3c6d2bd1bf8c5f43596976"
+    },
+    {
+      "date": "Le samedi 19 juillet 2025 de  08:30:00 à  12:00:00",
+      "streets": "EN PARTIE ROSE HILL, AVE PAGODA, AVE DRAPADE,AMEN TEMPLE, TRIVENGADUM LANE ET LES ENVIRONS",
+      "from": "2025-07-19T04:30:00.000Z",
+      "to": "2025-07-19T08:00:00.000Z",
+      "id": "e027a7034ab6f6427fd416455ff827c9"
+    },
+    {
+      "date": "Le jeudi 10 avril 2025 de  09:00:00 à  18:00:00",
+      "streets": "STANLEY, TREFLES, MORC AFFOUYE, CHA STANLEY, EN PARTIE AVE BERTHAUD, BACH LANE, BEETHOVEN LANE,MORC NARAIN,EN PARTIE RUE CORPS DEM GARDE, ASSEMBLY LANE, MORC COOMES, MORC JAGARNATH, MORC BEEJADHUR, MORC RAMUTH, AVE MONSIEUR, AVE GUY ROZEMONT, MORC GAYA ET LES ENVIRONS",
+      "from": "2025-04-10T05:00:00.000Z",
+      "to": "2025-04-10T14:00:00.000Z",
+      "id": "16ad1051a775d651ec89f3cf449fe952"
+    },
+    {
+      "date": "Le samedi 29 mars 2025 de  09:25:00 à  14:00:00",
+      "streets": "Rues Assembly et Corps de Garde",
+      "from": "2025-03-29T05:25:00.000Z",
+      "to": "2025-03-29T10:00:00.000Z",
+      "id": "bb57641648a2cdbde708c770e6ae2012"
+    },
+    {
+      "date": "Le mardi 25 mars 2025 de  09:30:00 à  11:00:00",
+      "streets": "MALLAC ST, SHOLAY ST AND SURROUNDINGS",
+      "from": "2025-03-25T05:30:00.000Z",
+      "to": "2025-03-25T07:00:00.000Z",
+      "id": "28292aea739d336215b08467ee8fb2dc"
+    },
+    {
+      "date": "Le jeudi 6 mars 2025 de  13:00:00 à  17:30:00",
+      "streets": "EDWARD 7, HUGNIN AND SURROUNDINDS",
+      "from": "2025-03-06T09:00:00.000Z",
+      "to": "2025-03-06T13:30:00.000Z",
+      "id": "0764f4b4833cff327ef93734d0ea8985"
+    },
+    {
+      "date": "Le jeudi 20 février 2025 de  13:00:00 à  17:00:00",
+      "streets": "Ave Maurice Cure, Ave Antelme, MCB Stanley, SBM Stanley, Delightio et les environs",
+      "from": "2025-02-20T09:00:00.000Z",
+      "to": "2025-02-20T13:00:00.000Z",
+      "id": "618d27b4bac20da02ebbd5f0c3111bc1"
+    },
+    {
+      "date": "Le dimanche 16 février 2025 de  08:30:00 à  16:00:00",
+      "streets": "Plaisance, Rose-Hill Transport Depot, Ave Ambrose, Ave Pigeot, Ave Richards, Ave St Louis, Ave Alfred Gelle, Ave Edgar Laurent et les environs",
+      "from": "2025-02-16T04:30:00.000Z",
+      "to": "2025-02-16T12:00:00.000Z",
+      "id": "b74d40c07094b81f2b0bd52cd4fdffba"
+    },
+    {
+      "date": "Le jeudi 13 février 2025 de  13:10:00 à  16:00:00",
+      "streets": "Thomy Pitot et en partie Route Royale",
+      "from": "2025-02-13T09:10:00.000Z",
+      "to": "2025-02-13T12:00:00.000Z",
+      "id": "95f82e73324e648ece4670e3671908fe"
+    },
+    {
+      "date": "Le dimanche 2 février 2025 de  08:30:00 à  16:00:00",
+      "streets": "Plaisance, Rose-Hill Transport Depot, Ave Ambrose, Ave Pigeot, Ave Richards, Ave St Louis, Ave Alfred Gelle, Ave Edgar Laurent et les environs",
+      "from": "2025-02-02T04:30:00.000Z",
+      "to": "2025-02-02T12:00:00.000Z",
+      "id": "daabbf0a8f28f51f4f0901e71f65a718"
+    },
+    {
+      "date": "Le jeudi 9 janvier 2025 de  10:00:00 à  10:45:00",
+      "streets": "ST JEAN : AVENUE JACARANDAS, AVENUE AZALEES ET LES ENVIRONS.",
+      "from": "2025-01-09T06:00:00.000Z",
+      "to": "2025-01-09T06:45:00.000Z",
+      "id": "364449a31289782927f0153cbea626e1"
+    },
+    {
+      "date": "Le lundi 30 décembre 2024 de  17:30:00 à  18:00:00",
+      "streets": "ST LOUIS, AMBROSE AND SURROUNDINGS",
+      "from": "2024-12-30T13:30:00.000Z",
+      "to": "2024-12-30T14:00:00.000Z",
+      "id": "d770b993073751f0da776a32c18fcaa8"
+    },
+    {
+      "date": "Le mardi 10 décembre 2024 de  15:30:00 à  17:30:00",
+      "streets": "Mere Theresa, Sister Marie Clemence, Fareed Muttur, Pigeot, Ave Roche-Brunes et Plaisance",
+      "from": "2024-12-10T11:30:00.000Z",
+      "to": "2024-12-10T13:30:00.000Z",
+      "id": "53e9dafa4fa09f73dd0167de3894d2b5"
+    },
+    {
+      "date": "Le mardi 10 décembre 2024 de  08:30:00 à  09:30:00",
+      "streets": "Mere Theresa, Sister Marie Clemence, Fareed Muttur, Pigeot, Ave Roche-Brunes et Plaisance",
+      "from": "2024-12-10T04:30:00.000Z",
+      "to": "2024-12-10T05:30:00.000Z",
+      "id": "1bb1d6d221c7f936d5d5bcef16e53afd"
+    },
+    {
+      "date": "Le vendredi 25 octobre 2024 de  03:00:00 à  13:00:00",
+      "streets": "VENDERMESH, GLORIA AND SURROUNDINGS",
+      "from": "2024-10-24T23:00:00.000Z",
+      "to": "2024-10-24T09:00:00.000Z",
+      "id": "52cf4ec7526de5b516ca237dbec14c26"
+    },
+    {
+      "date": "Le lundi 14 octobre 2024 de  15:20:00 à  16:00:00",
+      "streets": "BOUNDARY RD DANS LES ENVIRONS DE EGLISE ST PATRICK",
+      "from": "2024-10-14T11:20:00.000Z",
+      "to": "2024-10-14T12:00:00.000Z",
+      "id": "1906c6ecb69c6ccd2d3ee08b1dc50de9"
+    },
+    {
+      "date": "Le jeudi 10 octobre 2024 de  14:20:00 à  15:30:00",
+      "streets": "ROYAL ROAD, IGNASSE, (PALA GAME, CASINO) AND SURROUNDINGS",
+      "from": "2024-10-10T10:20:00.000Z",
+      "to": "2024-10-10T11:30:00.000Z",
+      "id": "06309321f9c9578cf36e540d42f80f67"
+    },
+    {
+      "date": "Le jeudi 3 octobre 2024 de  14:30:00 à  16:30:00",
+      "streets": "ROUTE HUGNIN,LABOURNAIS,BLONDEAU,SHANTILLALL DANJEE",
+      "from": "2024-10-03T10:30:00.000Z",
+      "to": "2024-10-03T12:30:00.000Z",
+      "id": "e13b49ca7cb19ab1a50dae7153a3c876"
+    },
+    {
+      "date": "Le lundi 30 septembre 2024 de  09:00:00 à  16:00:00",
+      "streets": "Camp Levieux, CHA & MHC, Morc Algomar, Fareed Muttur, Maxime Remy, Mere Teresa, Jean Fanchette, Ratsitatane, Arianne, Morc New Town, Piranha, Esprit Dennemont, Jacmin, Glover, Challenger, Ivanoe et dans les environs",
+      "from": "2024-09-30T05:00:00.000Z",
+      "to": "2024-09-30T12:00:00.000Z",
+      "id": "5dd7dd4671f62187cfd26321f8f4879f"
+    },
+    {
+      "date": "Le jeudi 26 septembre 2024 de  09:00:00 à  16:00:00",
+      "streets": "CHA, MHC, MORC ALGOMAR et PLAISANCE, STANLEY, ROCHE BRUNES ,FAREED MATTUR, MAXIME REMY, MERE THERESA, JEAN FRANCHETTE RATSISTATANE, ARIANE, MORC NEW TOWN PIRRANA, ESPRIT DENNEMONT, JACMIN, GLOVER, CHALLENGER, IVANOE ET LES ENVIRONS",
+      "from": "2024-09-26T05:00:00.000Z",
+      "to": "2024-09-26T12:00:00.000Z",
+      "id": "3acf1765ca8c7cfbeb4fafeb3326a1d7"
+    },
+    {
+      "date": "Le dimanche 22 septembre 2024 de  12:00:00 à  13:00:00",
+      "streets": "Trefles, Ave Guy Rozemont, Ave R. Edward Hart, Ave Panchoo, Ave Bradshaw, Ave Dr Ferriere et les environs",
+      "from": "2024-09-22T08:00:00.000Z",
+      "to": "2024-09-22T09:00:00.000Z",
+      "id": "25fd18a618aa23ecff10f2888015faab"
+    },
+    {
+      "date": "Le dimanche 22 septembre 2024 de  09:00:00 à  10:00:00",
+      "streets": "Trefles, Stanley, Guy Rozemont, Dr Jeetoo, Berthaud, Mediclinic Stanley et les environs",
+      "from": "2024-09-22T05:00:00.000Z",
+      "to": "2024-09-22T06:00:00.000Z",
+      "id": "2ddf2e66bc1dea70b1c782141a8b06dd"
+    },
+    {
+      "date": "Le mardi 30 juillet 2024 de  09:30:00 à  10:30:00",
+      "streets": "Morc Ah Foye, Res. Trefles, en partie Berthaud et les environs",
+      "from": "2024-07-30T05:30:00.000Z",
+      "to": "2024-07-30T06:30:00.000Z",
+      "id": "90f33cf9be27f017d15998e2ad36c6ef"
+    },
+    {
+      "date": "Le jeudi 18 juillet 2024 de  11:00:00 à  13:00:00",
+      "streets": "AVE ELISABETH, AVE COMET, AVE NARAIN LAULOO, AVE BRETNER, NEAR CAVALO AND SURROUNDINGS",
+      "from": "2024-07-18T07:00:00.000Z",
+      "to": "2024-07-18T09:00:00.000Z",
+      "id": "6648af0a80724f61d054bb57340f9c36"
+    },
+    {
+      "date": "Le mercredi 22 mai 2024 de  08:30:00 à  10:00:00",
+      "streets": "CANDA LANE, CAPTUS LANE",
+      "from": "2024-05-22T04:30:00.000Z",
+      "to": "2024-05-22T06:00:00.000Z",
+      "id": "4e2a83276ee3e5537cf21aea473da200"
+    },
+    {
+      "date": "Le samedi 6 avril 2024 de  16:30:00 à  17:15:00",
+      "streets": "LES ABONNES DE TREFLES ET BUCKINGHAM DANS LES ENVIRONS DE : RUE GUY ROZEMONT, ROUTE HUGNIN, RUE LAPLACE, RUE ST ANNE, RUE BLONDEAU ET LES ENVIRONS.",
+      "from": "2024-04-06T12:30:00.000Z",
+      "to": "2024-04-06T13:15:00.000Z",
+      "id": "52d8760d34fdf38df6492506f7994223"
+    },
+    {
+      "date": "Le vendredi 5 avril 2024 de  09:00:00 à  11:00:00",
+      "streets": "RUE EMBROSE-RUE ST LOUIS-RUE RICHARD ROSE HILL",
+      "from": "2024-04-05T05:00:00.000Z",
+      "to": "2024-04-05T07:00:00.000Z",
+      "id": "ea0a3a5216bf24d7e61d3e68168226b4"
+    },
+    {
+      "date": "Le lundi 25 mars 2024 de  15:00:00 à  16:00:00",
+      "streets": "Ave Berthaud, Ave Emille Laval, Ave Mozart, Ave Cretin, Mediclinic Stanley et les environs",
+      "from": "2024-03-25T11:00:00.000Z",
+      "to": "2024-03-25T12:00:00.000Z",
+      "id": "3aac9c47410fb26e096171ea8ad74483"
+    },
+    {
+      "date": "Le lundi 25 mars 2024 de  08:30:00 à  17:00:00",
+      "streets": "Ave Guy Rozemont, Ave R. Edward Hart, Ave Panchoo, Ave Bradshaw, Ave Dr Ferriere et les environs",
+      "from": "2024-03-25T04:30:00.000Z",
+      "to": "2024-03-25T13:00:00.000Z",
+      "id": "c3b39408cce467b3018a6bed35ec694e"
+    },
+    {
+      "date": "Le samedi 23 mars 2024 de  08:30:00 à  12:00:00",
+      "streets": "Rue Dollar, Labourdonnais, Inkerman, Edward Vii, La PLace, Queen Street, Gladstone, Remono, Stevenson et Blondeau",
+      "from": "2024-03-23T04:30:00.000Z",
+      "to": "2024-03-23T08:00:00.000Z",
+      "id": "1200641e93c22d2fc976325a76648c0e"
+    },
+    {
+      "date": "Le vendredi 22 mars 2024 de  15:30:00 à  17:00:00",
+      "streets": "Thommy Pitot, Clinique Bon Pasteur et Boulevard Plaza",
+      "from": "2024-03-22T11:30:00.000Z",
+      "to": "2024-03-22T13:00:00.000Z",
+      "id": "8d7c71d34ee77f379c33618fa02095b5"
+    },
+    {
+      "date": "Le mercredi 20 mars 2024 de  09:30:00 à  12:00:00",
+      "streets": "MARTIN LUTHER KING, LA RUE LA REINE PLAISANCE ET LES ALENTOURS",
+      "from": "2024-03-20T05:30:00.000Z",
+      "to": "2024-03-20T08:00:00.000Z",
+      "id": "43e34ea750086d56842fa7e3d63a324e"
+    },
+    {
+      "date": "Le vendredi 2 février 2024 de  17:00:00 à  18:30:00",
+      "streets": "SELMOUR ANNEE, DR ROUX AND SURROUNDINGS ROSE HILL",
+      "from": "2024-02-02T13:00:00.000Z",
+      "to": "2024-02-02T14:30:00.000Z",
+      "id": "a75237b905ac71b1288693f297dcf102"
+    },
+    {
+      "date": "Le samedi 13 janvier 2024 de  10:55:00 à  12:00:00",
+      "streets": "AVE STEVENSON & DR BOUR",
+      "from": "2024-01-13T06:55:00.000Z",
+      "to": "2024-01-13T08:00:00.000Z",
+      "id": "41b7aefeb1995c1093ae695854e92344"
+    },
+    {
+      "date": "Le mardi 9 janvier 2024 de  15:00:00 à  16:30:00",
+      "streets": "RUE BOUNDARY ROSE HILL",
+      "from": "2024-01-09T11:00:00.000Z",
+      "to": "2024-01-09T12:30:00.000Z",
+      "id": "e22d3b7d32cb7276e2cfae0605d6b2c1"
+    },
+    {
+      "date": "Le jeudi 28 décembre 2023 de  20:00:00 à  20:45:00",
+      "streets": "CP LEVIEUX, STANLEY, ROCHES BRUNES",
+      "from": "2023-12-28T16:00:00.000Z",
+      "to": "2023-12-28T16:45:00.000Z",
+      "id": "37db0c33ef4de11931456730e1859603"
+    },
+    {
+      "date": "Le dimanche 10 décembre 2023 de  12:55:00 à  14:00:00",
+      "streets": "CORIOLIS, PART OF ROYAL ROAD, PART OF BOUNDARY RD",
+      "from": "2023-12-10T08:55:00.000Z",
+      "to": "2023-12-10T10:00:00.000Z",
+      "id": "5d377ccf258598c5d8732009991119c5"
+    },
+    {
+      "date": "Le samedi 2 décembre 2023 de  08:30:00 à  14:00:00",
+      "streets": "Ave Sivananda, Queen Elizabeth College et les environs",
+      "from": "2023-12-02T04:30:00.000Z",
+      "to": "2023-12-02T10:00:00.000Z",
+      "id": "39dc08c2b5677239bbb6d79fa01b360c"
+    },
+    {
+      "date": "Le mardi 21 novembre 2023 de  16:30:00 à  17:30:00",
+      "streets": "BELLE ROSE BOUNDARY EMTEL, FILLING STATION TOTAL, MAGISTRACY, CORIOLIS LANE, KENNICK LANE, STADIUM",
+      "from": "2023-11-21T12:30:00.000Z",
+      "to": "2023-11-21T13:30:00.000Z",
+      "id": "25784e44dd6741c5278d077ac98bf43a"
+    },
+    {
+      "date": "Le samedi 18 novembre 2023 de  08:30:00 à  17:00:00",
+      "streets": "PLAISANCE, DEROSNAY, VENKATASAMY, MELDRUM, RAOUL LEJEUNE, MONNERON, MASCARENAS, HAJEE HALAMAN, RATSITATANE, ROYAL RD NEAR 5-PLUS, EN PARTIE DE PLEVITZ ET LES ENVIRONS",
+      "from": "2023-11-18T04:30:00.000Z",
+      "to": "2023-11-18T13:00:00.000Z",
+      "id": "9a946175782f89db8423f25f7157354c"
+    },
+    {
+      "date": "Le lundi 23 octobre 2023 de  09:15:00 à  10:30:00",
+      "streets": "ROSE HILL NAZ STREET, ATRIUM BUILDING, POLICE STATION",
+      "from": "2023-10-23T05:15:00.000Z",
+      "to": "2023-10-23T06:30:00.000Z",
+      "id": "b36f047f7fae08698c310982dd3dce9c"
+    },
+    {
+      "date": "Le jeudi 12 octobre 2023 de  14:15:00 à  17:15:00",
+      "streets": "ROSE HILL STATION LA POLICE ET LES REGIONS AVOISINANTE",
+      "from": "2023-10-12T10:15:00.000Z",
+      "to": "2023-10-12T13:15:00.000Z",
+      "id": "ba71cf5c20e6f544e05f0412776946e9"
+    },
+    {
+      "date": "Le vendredi 1 septembre 2023 de  08:30:00 à  15:00:00",
+      "streets": "Ave Etienne Larcher, Ave Gabriele Pitot, Ave Blackburn et les environs",
+      "from": "2023-09-01T04:30:00.000Z",
+      "to": "2023-09-01T11:00:00.000Z",
+      "id": "85d8d5238caab4ca06a104b391704755"
+    },
+    {
+      "date": "Le samedi 26 août 2023 de  09:00:00 à  12:00:00",
+      "streets": "Route Royale, Ave Pere Laval, KFC, Flat Bel Canto, Appartement Taj, Rue Farquhar et les environs",
+      "from": "2023-08-26T05:00:00.000Z",
+      "to": "2023-08-26T08:00:00.000Z",
+      "id": "06088159c8fa0bc6b59ddaf5dd6b2ddd"
+    },
+    {
+      "date": "Le mercredi 26 juillet 2023 de  16:30:00 à  18:00:00",
+      "streets": "RUE VANDERMESH DANS LES ENVIRONS COLLEGE QEC.",
+      "from": "2023-07-26T12:30:00.000Z",
+      "to": "2023-07-26T14:00:00.000Z",
+      "id": "e31e7c8b72117f3c971ae7d527c3477b"
+    },
+    {
+      "date": "Le mardi 25 juillet 2023 de  12:00:00 à  13:00:00",
+      "streets": "Guy Rozemont, Robert Edward Hart, Residence CHA Stanley et en partie Manilall, Berthaud, Boundary, Cretin, Morc Ramuth et Rte Ste Anne",
+      "from": "2023-07-25T08:00:00.000Z",
+      "to": "2023-07-25T09:00:00.000Z",
+      "id": "4c29ada916765828d06ff6f7b35c4d1d"
+    },
+    {
+      "date": "Le vendredi 14 juillet 2023 de  09:00:00 à  10:30:00",
+      "streets": "ROUTE ROYALE,  INKERMAN,  SUNNEE MOSQUE  ET LES ENVIRONS",
+      "from": "2023-07-14T05:00:00.000Z",
+      "to": "2023-07-14T06:30:00.000Z",
+      "id": "8fcd625b4a22b74204f80693d27b0992"
+    },
+    {
+      "date": "Le dimanche 25 juin 2023 de  09:00:00 à  15:00:00",
+      "streets": "Ave Boundary, Labourdonnais, Stevenson",
+      "from": "2023-06-25T05:00:00.000Z",
+      "to": "2023-06-25T11:00:00.000Z",
+      "id": "d4fd36adb3b36db8b01a9f526083ec85"
+    },
+    {
+      "date": "Le samedi 24 juin 2023 de  19:00:00 à  22:00:00",
+      "streets": "RUE LABOURDONNAIS,MAURICE CUREE,LAPLACE,GLADESTONE,BLONDEAU.STEVENSON ROSE HILL",
+      "from": "2023-06-24T15:00:00.000Z",
+      "to": "2023-06-24T18:00:00.000Z",
+      "id": "825061cebc97c56d5f39743dde40836e"
+    },
+    {
+      "date": "Le lundi 12 juin 2023 de  11:00:00 à  13:00:00",
+      "streets": "CASSIDY RD BOUNDARY R HILL",
+      "from": "2023-06-12T07:00:00.000Z",
+      "to": "2023-06-12T09:00:00.000Z",
+      "id": "3322d63d71eac3aa7118f92889eef09c"
+    },
+    {
+      "date": "Le samedi 3 juin 2023 de  08:30:00 à  16:00:00",
+      "streets": "Ave Sivananda, Ave Gabriel Pitot et les environs",
+      "from": "2023-06-03T04:30:00.000Z",
+      "to": "2023-06-03T12:00:00.000Z",
+      "id": "c9e79d1d137e15de4cf3764542948631"
+    },
+    {
+      "date": "Le jeudi 1 juin 2023 de  14:00:00 à  16:00:00",
+      "streets": "EDGARD LAURENT-POPENESSY ROSE HILL",
+      "from": "2023-06-01T10:00:00.000Z",
+      "to": "2023-06-01T12:00:00.000Z",
+      "id": "cc5708216c6e877bb53473b6b404b197"
+    },
+    {
+      "date": "Le jeudi 13 avril 2023 de  12:30:00 à  16:00:00",
+      "streets": "VICTOR SINGERIE, MAURICE CURE=CHANGING POLE",
+      "from": "2023-04-13T08:30:00.000Z",
+      "to": "2023-04-13T12:00:00.000Z",
+      "id": "8b311db9d82e3f91a0a0af1350fc8504"
+    },
+    {
+      "date": "Le mercredi 12 avril 2023 de  09:00:00 à  10:00:00",
+      "streets": "VENDERMECH ROSE HILL",
+      "from": "2023-04-12T05:00:00.000Z",
+      "to": "2023-04-12T06:00:00.000Z",
+      "id": "c9d936a138c76929edf0c9a9060f447b"
+    },
+    {
+      "date": "Le jeudi 16 mars 2023 de  12:30:00 à  17:00:00",
+      "streets": "Ratsitatane, en partie Hugnin et Ave Roches-Brunes, Ave Deplevitz, Ave Churchill, Ave Pigeot, Ave Ambrose, Sister Marie Clemence, Ave Richards, Ave St Louis, Langlois, De Chazal, Vincent, Vencatasamy, Hajee Allaman, Ave Bois Noir, Ave Victoria, Morc Rogers et Flat Amerally",
+      "from": "2023-03-16T08:30:00.000Z",
+      "to": "2023-03-16T13:00:00.000Z",
+      "id": "622e55c2fe14c910fdccfef25e449f5e"
+    },
+    {
+      "date": "Le lundi 13 février 2023 de  13:45:00 à  14:45:00",
+      "streets": "WELLINGTON, BHOWEN ST ROSE-HILL",
+      "from": "2023-02-13T09:45:00.000Z",
+      "to": "2023-02-13T10:45:00.000Z",
+      "id": "b12f16563a800ea9063e78220fde8170"
+    },
+    {
+      "date": "Le mardi 10 janvier 2023 de  08:30:00 à  12:00:00",
+      "streets": "AVENUE WELLINGTON, AVENUE MILTON ET LES ENVIRONS, ROSE HILL.",
+      "from": "2023-01-10T04:30:00.000Z",
+      "to": "2023-01-10T08:00:00.000Z",
+      "id": "c784ba285ec1153b02981f428e488f30"
+    },
+    {
+      "date": "Le jeudi 5 janvier 2023 de  11:00:00 à  17:00:00",
+      "streets": "Gallery Evershine",
+      "from": "2023-01-05T07:00:00.000Z",
+      "to": "2023-01-05T13:00:00.000Z",
+      "id": "4c17547af9f064c8144c7ec7867ce63f"
+    },
+    {
+      "date": "Le mardi 27 décembre 2022 de  13:00:00 à  15:30:00",
+      "streets": "BOUNDARY NEAR AQUARELLE",
+      "from": "2022-12-27T09:00:00.000Z",
+      "to": "2022-12-27T11:30:00.000Z",
+      "id": "1ef81b432a4bf35cc68857ddf98c6a76"
+    },
+    {
+      "date": "Le samedi 10 décembre 2022 de  08:30:00 à  15:00:00",
+      "streets": "En partie La Comete St, Apollo St, Columbia St, Challenger St, Esprit Dennemont St, LIndependence Ave et Ariane St",
+      "from": "2022-12-10T04:30:00.000Z",
+      "to": "2022-12-10T11:00:00.000Z",
+      "id": "b7ae3111ca83851f55a1cb188f3710c1"
+    },
+    {
+      "date": "Le lundi 21 novembre 2022 de  08:45:00 à  12:00:00",
+      "streets": "ST LOUIS,AMBROSE, PIGEOT,BEAU BOIS",
+      "from": "2022-11-21T04:45:00.000Z",
+      "to": "2022-11-21T08:00:00.000Z",
+      "id": "ac13eb9b444ef96e3231fc44bde3a42d"
+    },
+    {
+      "date": "Le jeudi 17 novembre 2022 de  09:15:00 à  14:00:00",
+      "streets": "STANLEY:Avenues Gujadhur,Guy Rozemont,St Anne,dans les environs de la boutique Marin",
+      "from": "2022-11-17T05:15:00.000Z",
+      "to": "2022-11-17T10:00:00.000Z",
+      "id": "1f382428d219163c3dfc30eb2313b6d7"
+    },
+    {
+      "date": "Le mardi 8 novembre 2022 de  09:00:00 à  11:00:00",
+      "streets": "BOUNDARY ROSE HILL",
+      "from": "2022-11-08T05:00:00.000Z",
+      "to": "2022-11-08T07:00:00.000Z",
+      "id": "9852dbb1e245f47b16fdafc99b919cb0"
+    },
+    {
+      "date": "Le samedi 5 novembre 2022 de  08:30:00 à  16:00:00",
+      "streets": "Cretin Ave, Emile Laval Ave et Morc Ramuth",
+      "from": "2022-11-05T04:30:00.000Z",
+      "to": "2022-11-05T12:00:00.000Z",
+      "id": "4cf7fa52dc592e84f10a2b0fe8ba967e"
+    },
+    {
+      "date": "Le lundi 17 octobre 2022 de  12:00:00 à  14:30:00",
+      "streets": "DR JEETOO,MANILALL ST",
+      "from": "2022-10-17T08:00:00.000Z",
+      "to": "2022-10-17T10:30:00.000Z",
+      "id": "42a5e2a24b0b1a1f9d0179ea687a3053"
+    },
+    {
+      "date": "Le jeudi 6 octobre 2022 de  16:00:00 à  17:00:00",
+      "streets": "AVE SWAMI SIVANNANDA,AVE MALARTIC,MORC DU PEROUX, APPT MONT ROYAL",
+      "from": "2022-10-06T12:00:00.000Z",
+      "to": "2022-10-06T13:00:00.000Z",
+      "id": "2209e3fcc179862bd9d90de50b8a2e28"
+    },
+    {
+      "date": "Le vendredi 16 septembre 2022 de  08:30:00 à  14:00:00",
+      "streets": "Shantilall Dhanjee, Sholay, La Place et en partie Labourdonnais",
+      "from": "2022-09-16T04:30:00.000Z",
+      "to": "2022-09-16T10:00:00.000Z",
+      "id": "8af417a5ddb5b37107db225b3aafb77a"
+    },
+    {
+      "date": "Le mardi 6 septembre 2022 de  08:00:00 à  16:00:00",
+      "streets": "MARIAMEN TEMPLE,DE PLEVITZ",
+      "from": "2022-09-06T04:00:00.000Z",
+      "to": "2022-09-06T12:00:00.000Z",
+      "id": "e809eee0d76cfcea0bfc16edf1ae522c"
+    },
+    {
+      "date": "Le mercredi 31 août 2022 de  08:30:00 à  15:00:00",
+      "streets": "EN PARTIE LA RUE SOUPRAMANIEN, RUE LABOURDONNAIS, INKERMAN, PRINCE DS GALLES, GLADSTONE",
+      "from": "2022-08-31T04:30:00.000Z",
+      "to": "2022-08-31T11:00:00.000Z",
+      "id": "b4e2dba4820a681899ecec5db105f3a6"
+    },
+    {
+      "date": "Le mercredi 17 août 2022 de  08:30:00 à  15:00:00",
+      "streets": "NOTRE DAME DE LOURDES ST, THOMMY PITOT ET EN PARTIE ROUTE ROYALE ROSE-HILL DU COTÉ 361, MAGASIN TIMOL ET LEOVILLE L`HOMME",
+      "from": "2022-08-17T04:30:00.000Z",
+      "to": "2022-08-17T11:00:00.000Z",
+      "id": "74c341d3a9159371c1009e9df9a2f80a"
+    },
+    {
+      "date": "Le mardi 9 août 2022 de  09:00:00 à  15:00:00",
+      "streets": "RUE DEPLEVITZ- RUE LA REINE ROSE HILL",
+      "from": "2022-08-09T05:00:00.000Z",
+      "to": "2022-08-09T11:00:00.000Z",
+      "id": "0086db06e7db50df8f4078680fcb971d"
+    },
+    {
+      "date": "Le samedi 30 juillet 2022 de  08:30:00 à  14:30:00",
+      "streets": "Morc Affouye, CHA Stanley, en partie Ave Berthaud, Ave Bach, Ave Beethoven, Morc Narain, en partie Rue Corps de Garde, Assembly Lane, Morc Coombes, Morc Gajadhur, Morc Ramuth, Rue Monsieur, Ave Guy Rozemont, Morc Gaya, Blue Lane, Morc Domah et Stanley",
+      "from": "2022-07-30T04:30:00.000Z",
+      "to": "2022-07-30T10:30:00.000Z",
+      "id": "3b66446e3b5c178129e687676ab73b05"
+    },
+    {
+      "date": "Le vendredi 22 juillet 2022 de  12:00:00 à  14:00:00",
+      "streets": "Notre Dame de Lourdes St, Boodhun St, Thomy Pitot et en partie Route Royale Rose-Hill du Coté 361, Magasin Timol, Leoville LHomme et Inkerman St",
+      "from": "2022-07-22T08:00:00.000Z",
+      "to": "2022-07-22T10:00:00.000Z",
+      "id": "38b662f50ca39022c7b18341dc969ba3"
+    },
+    {
+      "date": "Le dimanche 3 juillet 2022 de  08:30:00 à  15:00:00",
+      "streets": "Notre Dame de Lourdes St, Boodhun St, Thomy Pitot et en partie Route Royale Rose-Hill du coté 361, Magasin Timol, Leoville LHomme et Inkerman St",
+      "from": "2022-07-03T04:30:00.000Z",
+      "to": "2022-07-03T11:00:00.000Z",
+      "id": "88de38b06812b7ef55d37e31e20c6a99"
+    },
+    {
+      "date": "Le vendredi 27 mai 2022 de  10:30:00 à  13:00:00",
+      "streets": "Notre Dame de Lourdes St, Boodhun St, Thommy Pitot et en partie Leoville LHomme et Inkerman St",
+      "from": "2022-05-27T06:30:00.000Z",
+      "to": "2022-05-27T09:00:00.000Z",
+      "id": "e08061ed18fe35953c8905eb5c7c24a5"
+    },
+    {
+      "date": "Le vendredi 20 mai 2022 de  11:50:00 à  12:50:00",
+      "streets": "STANLEY,OLLIER STREETS",
+      "from": "2022-05-20T07:50:00.000Z",
+      "to": "2022-05-20T08:50:00.000Z",
+      "id": "7bb90aa93f3cb2ecbbe7415fe95134db"
+    }
+  ]
+}

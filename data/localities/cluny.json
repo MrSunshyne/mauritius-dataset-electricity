@@ -1,0 +1,88 @@
+{
+  "slug": "cluny",
+  "name": "CLUNY",
+  "district": "grandport",
+  "generated": "2025-12-29T20:21:02.574Z",
+  "outageCount": 11,
+  "firstOutage": "2022-05-07",
+  "lastOutage": "2025-10-26",
+  "outages": [
+    {
+      "date": "Le dimanche 26 octobre 2025 de  08:30:00 à  17:00:00",
+      "streets": "Zone Industriel Beemanique",
+      "from": "2025-10-26T04:30:00.000Z",
+      "to": "2025-10-26T13:00:00.000Z",
+      "id": "6f881b7d3add204a8d8765d106acba41"
+    },
+    {
+      "date": "Le mardi 4 mars 2025 de  09:20:00 à  10:30:00",
+      "streets": "CWA & SURROUNDINGS",
+      "from": "2025-03-04T05:20:00.000Z",
+      "to": "2025-03-04T06:30:00.000Z",
+      "id": "5d1fe890dd213778a5c9e9bcfed06903"
+    },
+    {
+      "date": "Le vendredi 31 janvier 2025 de  08:30:00 à  12:00:00",
+      "streets": "Cluny Village, Bananes, Beemanique et une partie de Midlands",
+      "from": "2025-01-31T04:30:00.000Z",
+      "to": "2025-01-31T08:00:00.000Z",
+      "id": "c1f68a443dad4efa7f4439228f96119d"
+    },
+    {
+      "date": "Le vendredi 14 juin 2024 de  12:25:00 à  14:30:00",
+      "streets": "VALE ROAD AND SURROUNDINGS",
+      "from": "2024-06-14T08:25:00.000Z",
+      "to": "2024-06-14T10:30:00.000Z",
+      "id": "4b9a954a22fa13b144919c02901978ce"
+    },
+    {
+      "date": "Le mardi 30 janvier 2024 de  08:30:00 à  13:00:00",
+      "streets": "Cluny, Beemanique, Eau Bleu Tostee",
+      "from": "2024-01-30T04:30:00.000Z",
+      "to": "2024-01-30T09:00:00.000Z",
+      "id": "e39f0a8dbf47a18a888e92697828eb6d"
+    },
+    {
+      "date": "Le mercredi 22 novembre 2023 de  09:00:00 à  13:00:00",
+      "streets": "CLUNY ET BANANES",
+      "from": "2023-11-22T05:00:00.000Z",
+      "to": "2023-11-22T09:00:00.000Z",
+      "id": "3436d4a416e337f5e489dc0bee4b1310"
+    },
+    {
+      "date": "Le lundi 25 septembre 2023 de  15:00:00 à  17:00:00",
+      "streets": "Cluny et Beemanique",
+      "from": "2023-09-25T11:00:00.000Z",
+      "to": "2023-09-25T13:00:00.000Z",
+      "id": "b85fa9d94551f8aad561f26c0b375889"
+    },
+    {
+      "date": "Le mardi 4 juillet 2023 de  09:00:00 à  17:00:00",
+      "streets": "Beemanique habitant dans le périmètre et les rues suivantes: Railway Road, Motay Road, CWA Cluny & Beemanique et la Route Royale Beemanique",
+      "from": "2023-07-04T05:00:00.000Z",
+      "to": "2023-07-04T13:00:00.000Z",
+      "id": "8ec1e3ba8ff8c3d8f4f71d9061bd2ac4"
+    },
+    {
+      "date": "Le mercredi 11 janvier 2023 de  11:45:00 à  13:30:00",
+      "streets": "CLUNY",
+      "from": "2023-01-11T07:45:00.000Z",
+      "to": "2023-01-11T09:30:00.000Z",
+      "id": "c4a78f70f4f966523909b801005e2dfe"
+    },
+    {
+      "date": "Le mardi 7 juin 2022 de  08:30:00 à  17:00:00",
+      "streets": "Cluny & Beemanique",
+      "from": "2022-06-07T04:30:00.000Z",
+      "to": "2022-06-07T13:00:00.000Z",
+      "id": "f2a1af7ba841a080e92eef737f5371f7"
+    },
+    {
+      "date": "Le samedi 7 mai 2022 de  08:30:00 à  17:00:00",
+      "streets": "Cluny, Bananes et Beemanique",
+      "from": "2022-05-07T04:30:00.000Z",
+      "to": "2022-05-07T13:00:00.000Z",
+      "id": "e0a894cafdea9068f847a7a926914f65"
+    }
+  ]
+}

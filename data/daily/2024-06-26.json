@@ -1,0 +1,28 @@
+{
+  "date": "2024-06-26",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.410Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mercredi 26 juin 2024 de  09:30:00 à  14:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "DANS LES ENVIRONS DE RESIDENCE CARMEL, LA POINTE ET DE LA ROUTE COTIERE",
+      "district": "portlouis",
+      "from": "2024-06-26T05:30:00.000Z",
+      "to": "2024-06-26T10:00:00.000Z",
+      "id": "d38e25d311f2f868c1e7b390b24e05d7"
+    },
+    {
+      "date": "Le mercredi 26 juin 2024 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LES ABONNES DE MONT LUBIN",
+      "district": "rodrigues",
+      "from": "2024-06-26T04:30:00.000Z",
+      "to": "2024-06-26T11:00:00.000Z",
+      "id": "62b99977ba5ab12f06d1fc75026e78c7"
+    }
+  ]
+}

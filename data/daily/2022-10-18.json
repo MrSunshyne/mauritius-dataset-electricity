@@ -1,0 +1,38 @@
+{
+  "date": "2022-10-18",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.365Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mardi 18 octobre 2022 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "L’Ave des Cygognes, Ave des Rossignoles, Ave des Canaries, Ave des Pigeons et une partie de Ave Carri",
+      "district": "blackriver",
+      "from": "2022-10-18T04:30:00.000Z",
+      "to": "2022-10-18T11:30:00.000Z",
+      "id": "197516dec82258b1e0a105f7294a1b21"
+    },
+    {
+      "date": "Le mardi 18 octobre 2022 de  09:00:00 à  14:00:00",
+      "locality": "RAMP LE MOIRT",
+      "localitySlug": "ramp-le-moirt",
+      "streets": "Le CEB avise les abonnés de Rampe le Moirt habitant dans le périmètre et les rues suivantes: une partie de la Route Royal, Old Union Vale Road, Gandhi Road et Rampe le Moirt Area",
+      "district": "grandport",
+      "from": "2022-10-18T05:00:00.000Z",
+      "to": "2022-10-18T10:00:00.000Z",
+      "id": "f7246d62b8fb83e3f03c78106e2ecd12"
+    },
+    {
+      "date": "Le mardi 18 octobre 2022 de  09:00:00 à  12:00:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "Les abonnés de La Marie habitant les régions et les rues suivantes : Morcellement  Seetaram, Accacia No 2, 3 et 5, Impasse Sai et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-10-18T05:00:00.000Z",
+      "to": "2022-10-18T08:00:00.000Z",
+      "id": "3b1684d4229f6aaa7ce07313d31cf384"
+    }
+  ]
+}

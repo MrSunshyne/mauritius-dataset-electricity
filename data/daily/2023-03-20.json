@@ -1,0 +1,28 @@
+{
+  "date": "2023-03-20",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.376Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le lundi 20 mars 2023 de  09:00:00 à  12:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes: St Clément, Park Hôtel et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-03-20T05:00:00.000Z",
+      "to": "2023-03-20T08:00:00.000Z",
+      "id": "be8b5f2a86d60e91455ab62b7bc0c44b"
+    },
+    {
+      "date": "Le lundi 20 mars 2023 de  09:30:00 à  12:30:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "RIVERLAND ROBINSON CAMP CAVAL",
+      "district": "plainewilhems",
+      "from": "2023-03-20T05:30:00.000Z",
+      "to": "2023-03-20T08:30:00.000Z",
+      "id": "827e02d382143449312d6a20ca5adf11"
+    }
+  ]
+}

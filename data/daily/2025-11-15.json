@@ -1,0 +1,48 @@
+{
+  "date": "2025-11-15",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.445Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le samedi 15 novembre 2025 de  21:30:00 à  23:00:00",
+      "locality": "MON CHOISY",
+      "localitySlug": "mon-choisy",
+      "streets": "MORC SAGITAIRE MONCHOISY",
+      "district": "pamplemousses",
+      "from": "2025-11-15T17:30:00.000Z",
+      "to": "2025-11-15T19:00:00.000Z",
+      "id": "27dbf1fc0a3cf888088423024a407b08"
+    },
+    {
+      "date": "Le samedi 15 novembre 2025 de  12:00:00 à  17:00:00",
+      "locality": "STANLEY",
+      "localitySlug": "stanley",
+      "streets": "AVENUE PANCHOO-AVE AT ANNE STANLEY ROSE HILL",
+      "district": "plainewilhems",
+      "from": "2025-11-15T08:00:00.000Z",
+      "to": "2025-11-15T13:00:00.000Z",
+      "id": "e98e3662a0f4f19b79ffabed6275dc31"
+    },
+    {
+      "date": "Le samedi 15 novembre 2025 de  08:30:00 à  15:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "LES FLAMMANTS PEREYBERE",
+      "district": "rivieredurempart",
+      "from": "2025-11-15T04:30:00.000Z",
+      "to": "2025-11-15T11:00:00.000Z",
+      "id": "450f55e90dcc1e7e935da3aada0b15aa"
+    },
+    {
+      "date": "Le samedi 15 novembre 2025 de  08:45:00 à  16:00:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "Morc Gris Gris,Souillac",
+      "district": "savanne",
+      "from": "2025-11-15T04:45:00.000Z",
+      "to": "2025-11-15T12:00:00.000Z",
+      "id": "b526a576c28da8b85091deda64d36ca2"
+    }
+  ]
+}

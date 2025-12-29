@@ -1,0 +1,38 @@
+{
+  "date": "2024-11-03",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.420Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le dimanche 3 novembre 2024 de  08:30:00 à  16:00:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": "dans les périmètres et rues suivante : Bois Martin Street, Morc Doha, Morc Chummun et une partie d’Engrais Cathan Street",
+      "district": "plainewilhems",
+      "from": "2024-11-03T04:30:00.000Z",
+      "to": "2024-11-03T12:00:00.000Z",
+      "id": "690535dfae3846b559930a66a12ad357"
+    },
+    {
+      "date": "Le dimanche 3 novembre 2024 de  08:30:00 à  15:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave dEpinay, Ave Tagore et les environs",
+      "district": "plainewilhems",
+      "from": "2024-11-03T04:30:00.000Z",
+      "to": "2024-11-03T11:30:00.000Z",
+      "id": "742a2cde37e1b0e00f3f0d45df41ca9b"
+    },
+    {
+      "date": "Le dimanche 3 novembre 2024 de  12:30:00 à  13:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "OSMAN AVE, MUNICIPALITY AND SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2024-11-03T08:30:00.000Z",
+      "to": "2024-11-03T09:30:00.000Z",
+      "id": "d406d69458edccc7a153a7fba24925e2"
+    }
+  ]
+}

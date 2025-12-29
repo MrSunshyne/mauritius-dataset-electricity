@@ -1,0 +1,38 @@
+{
+  "date": "2022-03-17",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.350Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le jeudi 17 mars 2022 de  08:45:00 à  15:00:00",
+      "locality": "CLEMENCIA",
+      "localitySlug": "clemencia",
+      "streets": "Village Clemencia",
+      "district": "flacq",
+      "from": "2022-03-17T04:45:00.000Z",
+      "to": "2022-03-17T11:00:00.000Z",
+      "id": "7dd3c828c5bd307734f82f3f81f64c0a"
+    },
+    {
+      "date": "Le jeudi 17 mars 2022 de  08:30:00 à  15:00:00",
+      "locality": "GROS BOIS",
+      "localitySlug": "gros-bois",
+      "streets": "Morcellement Les Vergers Gros Bois",
+      "district": "grandport",
+      "from": "2022-03-17T04:30:00.000Z",
+      "to": "2022-03-17T11:00:00.000Z",
+      "id": "fb7936db87871754b6c30764a2264d76"
+    },
+    {
+      "date": "Le jeudi 17 mars 2022 de  08:30:00 à  15:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "RUE ENGRAIS, TRES BON NO 1,2,3.",
+      "district": "plainewilhems",
+      "from": "2022-03-17T04:30:00.000Z",
+      "to": "2022-03-17T11:00:00.000Z",
+      "id": "535c76ad63daba19c9d7ae29071a94b7"
+    }
+  ]
+}

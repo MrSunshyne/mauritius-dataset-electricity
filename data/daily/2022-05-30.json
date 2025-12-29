@@ -1,0 +1,48 @@
+{
+  "date": "2022-05-30",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.355Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le lundi 30 mai 2022 de  09:00:00 à  11:00:00",
+      "locality": "SODNAC",
+      "localitySlug": "sodnac",
+      "streets": "AVE LONGANIERS SODNAC",
+      "district": "plainewilhems",
+      "from": "2022-05-30T05:00:00.000Z",
+      "to": "2022-05-30T07:00:00.000Z",
+      "id": "e3f59a0bc8b006b463afc04ce62e5766"
+    },
+    {
+      "date": "Le lundi 30 mai 2022 de  09:00:00 à  13:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "CASA FLORIDA PEREBERE",
+      "district": "rivieredurempart",
+      "from": "2022-05-30T05:00:00.000Z",
+      "to": "2022-05-30T09:00:00.000Z",
+      "id": "a1b67b8a53549b6df8d0bb18c1791c3c"
+    },
+    {
+      "date": "Le lundi 30 mai 2022 de  09:00:00 à  12:00:00",
+      "locality": "ROCHE TERRE",
+      "localitySlug": "roche-terre",
+      "streets": "ROCHE TERRE-ROUILLARD",
+      "district": "rivieredurempart",
+      "from": "2022-05-30T05:00:00.000Z",
+      "to": "2022-05-30T08:00:00.000Z",
+      "id": "1a3985e018be10550844e8eae7adf0d2"
+    },
+    {
+      "date": "Le lundi 30 mai 2022 de  18:15:00 à  20:00:00",
+      "locality": "ESPERANCE TREBUCHET",
+      "localitySlug": "esperance-trebuchet",
+      "streets": "Esperance Trebuchet",
+      "district": "rivieredurempart",
+      "from": "2022-05-30T14:15:00.000Z",
+      "to": "2022-05-30T16:00:00.000Z",
+      "id": "29b9491896e0ed3d9e156fbbe5bb812b"
+    }
+  ]
+}

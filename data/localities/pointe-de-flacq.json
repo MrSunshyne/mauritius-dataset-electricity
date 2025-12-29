@@ -1,0 +1,46 @@
+{
+  "slug": "pointe-de-flacq",
+  "name": "POINTE DE FLACQ",
+  "district": "flacq",
+  "generated": "2025-12-29T20:21:02.749Z",
+  "outageCount": 5,
+  "firstOutage": "2023-04-03",
+  "lastOutage": "2025-09-01",
+  "outages": [
+    {
+      "date": "Le lundi 1 septembre 2025 de  10:20:00 à  11:30:00",
+      "streets": "POINTE DE FLACQ NEAR ST GERAN",
+      "from": "2025-09-01T06:20:00.000Z",
+      "to": "2025-09-01T07:30:00.000Z",
+      "id": "8accc97a6ac79ed650179b55cd77fbe2"
+    },
+    {
+      "date": "Le jeudi 19 septembre 2024 de  09:00:00 à  17:00:00",
+      "streets": "Morc Constance, Mare Lobine, One & Only St Geran villa, Chemin Dodo et Lhôtel de St Geran.",
+      "from": "2024-09-19T05:00:00.000Z",
+      "to": "2024-09-19T13:00:00.000Z",
+      "id": "7593fc2de21e0484f5c5c5935139e58e"
+    },
+    {
+      "date": "Le jeudi 1 août 2024 de  09:00:00 à  17:00:00",
+      "streets": "Pointe de Flacq dans les environs de Golf link, Garage et Pig Farm",
+      "from": "2024-08-01T05:00:00.000Z",
+      "to": "2024-08-01T13:00:00.000Z",
+      "id": "bba0372b4fae992b1f7ec84c688c5138"
+    },
+    {
+      "date": "Le dimanche 5 novembre 2023 de  08:15:00 à  17:00:00",
+      "streets": "Les abonnes du village de Poste De Flacq et Providence La Porte",
+      "from": "2023-11-05T04:15:00.000Z",
+      "to": "2023-11-05T13:00:00.000Z",
+      "id": "13833e5347b8be27563b2c5c96ec988f"
+    },
+    {
+      "date": "Le lundi 3 avril 2023 de  10:00:00 à  15:30:00",
+      "streets": "POINTE DE FLACQ NEAR ST GERAN HOTEL",
+      "from": "2023-04-03T06:00:00.000Z",
+      "to": "2023-04-03T11:30:00.000Z",
+      "id": "002df29a5045c2238895e27c4c439261"
+    }
+  ]
+}

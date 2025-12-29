@@ -1,0 +1,68 @@
+{
+  "date": "2023-08-02",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.386Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le mercredi 2 août 2023 de  08:30:00 à  16:30:00",
+      "locality": "LA PRENEUSE",
+      "localitySlug": "la-preneuse",
+      "streets": "LA PRENEUSE",
+      "district": "blackriver",
+      "from": "2023-08-02T04:30:00.000Z",
+      "to": "2023-08-02T12:30:00.000Z",
+      "id": "1ec8fcc4bf7c84bbd877195e8dad021c"
+    },
+    {
+      "date": "Le mercredi 2 août 2023 de  11:00:00 à  13:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "CAMP BETEL",
+      "district": "blackriver",
+      "from": "2023-08-02T07:00:00.000Z",
+      "to": "2023-08-02T09:00:00.000Z",
+      "id": "58fc3ae708d7a40d4693d99a2dc488d3"
+    },
+    {
+      "date": "Le mercredi 2 août 2023 de  08:30:00 à  17:00:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "Dans les perimetres du Bureau Service de Licence de vehicules dArgy, Isidore Rose et Morc Pricome",
+      "district": "flacq",
+      "from": "2023-08-02T04:30:00.000Z",
+      "to": "2023-08-02T13:00:00.000Z",
+      "id": "f2d71866c998343cf506ce582868193f"
+    },
+    {
+      "date": "Le mercredi 2 août 2023 de  13:05:00 à  15:05:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "BISWA LANE,EX AIRPORT RD",
+      "district": "grandport",
+      "from": "2023-08-02T09:05:00.000Z",
+      "to": "2023-08-02T11:05:00.000Z",
+      "id": "580a3790b6ce08eb7eea595ff4da83cf"
+    },
+    {
+      "date": "Le mercredi 2 août 2023 de  14:10:00 à  16:30:00",
+      "locality": "BEAU SEJOUR BELLE-ROSE",
+      "localitySlug": "beau-sejour-belle-rose",
+      "streets": "Mallefille ave,Mohun ave,Madhoo ave,Govt school Beau Sejour",
+      "district": "plainewilhems",
+      "from": "2023-08-02T10:10:00.000Z",
+      "to": "2023-08-02T12:30:00.000Z",
+      "id": "9188de6cee51eadbac13b5b871d993d5"
+    },
+    {
+      "date": "Le mercredi 2 août 2023 de  16:00:00 à  18:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "DANS LES ENVIRONS DE PIETON PERE LAVAL SAINTE CROIX.",
+      "district": "portlouis",
+      "from": "2023-08-02T12:00:00.000Z",
+      "to": "2023-08-02T14:00:00.000Z",
+      "id": "9aba314afd95326f7beb97af8b4c4c8e"
+    }
+  ]
+}

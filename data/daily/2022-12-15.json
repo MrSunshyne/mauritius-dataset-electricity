@@ -1,0 +1,58 @@
+{
+  "date": "2022-12-15",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.369Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le jeudi 15 décembre 2022 de  10:00:00 à  14:00:00",
+      "locality": "LA PRENEUSE",
+      "localitySlug": "la-preneuse",
+      "streets": "LA PRENEUSE-RIVIERE NOIRE",
+      "district": "blackriver",
+      "from": "2022-12-15T06:00:00.000Z",
+      "to": "2022-12-15T10:00:00.000Z",
+      "id": "67effe90a86ee614f3d1e63f3a7f4bbc"
+    },
+    {
+      "date": "Le jeudi 15 décembre 2022 de  08:30:00 à  17:00:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "Rose Belle habitant dans le périmètre et les rues suivantes: Link Road, Jawaharlall Nehru Hospital, Traffic Centre Rose Belle, Camp Bouvette, BPML et une partie de Morcellement SIT Rose Belle",
+      "district": "grandport",
+      "from": "2022-12-15T04:30:00.000Z",
+      "to": "2022-12-15T13:00:00.000Z",
+      "id": "f8eada433f8b6ef9cb9bfc754f0434ce"
+    },
+    {
+      "date": "Le jeudi 15 décembre 2022 de  08:30:00 à  15:00:00",
+      "locality": "VALETTA",
+      "localitySlug": "valetta",
+      "streets": "Les abonnés du village de Valetta habitant les rues et les régions suivantes : Raday Road et les ruelles avoisinantes",
+      "district": "moka",
+      "from": "2022-12-15T04:30:00.000Z",
+      "to": "2022-12-15T11:00:00.000Z",
+      "id": "2196c9e2549667c5fbc6591fa82564f0"
+    },
+    {
+      "date": "Le jeudi 15 décembre 2022 de  17:00:00 à  18:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "Les abonnés de Forest-Side habitant les rues et les régions  suivantes : Résidence Labrasserie et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-12-15T13:00:00.000Z",
+      "to": "2022-12-15T14:00:00.000Z",
+      "id": "b85316c2f1293f5dc0417d805c878e79"
+    },
+    {
+      "date": "Le jeudi 15 décembre 2022 de  16:00:00 à  17:30:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "SOUILLAC & MORC GRIS GRIS",
+      "district": "savanne",
+      "from": "2022-12-15T12:00:00.000Z",
+      "to": "2022-12-15T13:30:00.000Z",
+      "id": "679f0218a1e90368caf1124eb9f5a08a"
+    }
+  ]
+}

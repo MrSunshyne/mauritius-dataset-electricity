@@ -1,0 +1,78 @@
+{
+  "date": "2023-01-18",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.371Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le mercredi 18 janvier 2023 de  08:30:00 à  17:00:00",
+      "locality": "GRAND SABLE",
+      "localitySlug": "grand-sable",
+      "streets": "Grand Sable habitant dans le périmètre et les rues suivantes: Mosque Road, Shivala Street, Government School Lane, Chapelle Lane, Manon Street, Coorperative Lane, Tesco Lane, Benee Lane, Paille En Queue Street et la Route Royale Grand Sable",
+      "district": "grandport",
+      "from": "2023-01-18T04:30:00.000Z",
+      "to": "2023-01-18T13:00:00.000Z",
+      "id": "74ec01beaafd941d749f9fa75eb1a378"
+    },
+    {
+      "date": "Le mercredi 18 janvier 2023 de  15:30:00 à  16:30:00",
+      "locality": "COTE D-OR",
+      "localitySlug": "cote-d-or",
+      "streets": "Côte d’Or Village, Cite Côte d’Or, Morcellement Les Amies, Morcellement VRS Côte d’Or, Camp Auguste",
+      "district": "moka",
+      "from": "2023-01-18T11:30:00.000Z",
+      "to": "2023-01-18T12:30:00.000Z",
+      "id": "c5c0aaf36a13cf1aac2e11adadd832f3"
+    },
+    {
+      "date": "Le mercredi 18 janvier 2023 de  06:00:00 à  07:30:00",
+      "locality": "COTE D-OR",
+      "localitySlug": "cote-d-or",
+      "streets": "Côte d’Or Village, Cite Côte d’Or, Morcellement Les Amies, Morcellement VRS Côte d’Or, Camp Auguste",
+      "district": "moka",
+      "from": "2023-01-18T02:00:00.000Z",
+      "to": "2023-01-18T03:30:00.000Z",
+      "id": "9170d08980ffd564b567678166d6cc54"
+    },
+    {
+      "date": "Le mercredi 18 janvier 2023 de  15:00:00 à  16:30:00",
+      "locality": "DUBREUIL",
+      "localitySlug": "dubreuil",
+      "streets": "ROYAL RD DUBREUIL",
+      "district": "moka",
+      "from": "2023-01-18T11:00:00.000Z",
+      "to": "2023-01-18T12:30:00.000Z",
+      "id": "cb8988e6a4231243931bec7cd2c0b252"
+    },
+    {
+      "date": "Le mercredi 18 janvier 2023 de  07:00:00 à  12:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "MORC ROGERS FOREST SIDE",
+      "district": "plainewilhems",
+      "from": "2023-01-18T03:00:00.000Z",
+      "to": "2023-01-18T08:00:00.000Z",
+      "id": "cf1beb79fbb987e91a9bcf7b9ebb9e06"
+    },
+    {
+      "date": "Le mercredi 18 janvier 2023 de  21:30:00 à  23:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVENUE SURCOUF AND NEARBY REGION",
+      "district": "plainewilhems",
+      "from": "2023-01-18T17:30:00.000Z",
+      "to": "2023-01-18T19:30:00.000Z",
+      "id": "aa05d4c9ce7056aca94f53073ea1f372"
+    },
+    {
+      "date": "Le mercredi 18 janvier 2023 de  09:00:00 à  15:00:00",
+      "locality": "BEL OMBRE",
+      "localitySlug": "bel-ombre",
+      "streets": "Bel Ombre, St. Martin Baie Du Cap et Baie Du Cap",
+      "district": "savanne",
+      "from": "2023-01-18T05:00:00.000Z",
+      "to": "2023-01-18T11:00:00.000Z",
+      "id": "03daeb4f53107e25c857c42f20e88f6a"
+    }
+  ]
+}

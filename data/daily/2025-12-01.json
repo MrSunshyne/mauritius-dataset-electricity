@@ -1,0 +1,48 @@
+{
+  "date": "2025-12-01",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.446Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le lundi 1 décembre 2025 de  08:30:00 à  16:00:00",
+      "locality": "CASCAVEL",
+      "localitySlug": "cascavel",
+      "streets": "ALLEE DES MANGUIERS, TEMPLE ROAD, AVE CORALIA, MAPOU LANE, PHILIPPE LANE, BOUGAINVILLE LANE ET ORIENTAL FOOD LTD",
+      "district": "blackriver",
+      "from": "2025-12-01T04:30:00.000Z",
+      "to": "2025-12-01T12:00:00.000Z",
+      "id": "34e0d903c26eb51bf5832a36336e5978"
+    },
+    {
+      "date": "Le lundi 1 décembre 2025 de  10:00:00 à  14:00:00",
+      "locality": "GRAND SABLE",
+      "localitySlug": "grand-sable",
+      "streets": "VILLAGE GRAND SABLE",
+      "district": "grandport",
+      "from": "2025-12-01T06:00:00.000Z",
+      "to": "2025-12-01T10:00:00.000Z",
+      "id": "27abf19a8df9891763d92db3b53ed661"
+    },
+    {
+      "date": "Le lundi 1 décembre 2025 de  10:00:00 à  10:45:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "BOUNDARY,BEAUSEJOUR.RUE ANTHELME,STANLEY,OLLIER ,PAVILLON",
+      "district": "plainewilhems",
+      "from": "2025-12-01T06:00:00.000Z",
+      "to": "2025-12-01T06:45:00.000Z",
+      "id": "8c0c96af6acfd0cb5c26181c80911fc5"
+    },
+    {
+      "date": "Le lundi 1 décembre 2025 de  15:00:00 à  16:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "DANS LES ALENTOURS DE ZOOMANIA ET KOVIL",
+      "district": "rivieredurempart",
+      "from": "2025-12-01T11:00:00.000Z",
+      "to": "2025-12-01T12:00:00.000Z",
+      "id": "c691713fd454679060e6bd689dcab561"
+    }
+  ]
+}

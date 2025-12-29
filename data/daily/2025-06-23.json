@@ -1,0 +1,38 @@
+{
+  "date": "2025-06-23",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.434Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le lundi 23 juin 2025 de  17:00:00 à  20:00:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "MORC CARLOS,BOIS NOIR TAMARIN",
+      "district": "blackriver",
+      "from": "2025-06-23T13:00:00.000Z",
+      "to": "2025-06-23T16:00:00.000Z",
+      "id": "158c7ba64786d6b88fc1a244d1e85bb9"
+    },
+    {
+      "date": "Le lundi 23 juin 2025 de  15:45:00 à  23:00:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "Morc Carlos,Bois Noire",
+      "district": "blackriver",
+      "from": "2025-06-23T11:45:00.000Z",
+      "to": "2025-06-23T19:00:00.000Z",
+      "id": "e3ebea17cab5b2d048a47538a250fe4a"
+    },
+    {
+      "date": "Le lundi 23 juin 2025 de  14:35:00 à  15:45:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "Morc Balina,Chemin Vingt Pied",
+      "district": "rivieredurempart",
+      "from": "2025-06-23T10:35:00.000Z",
+      "to": "2025-06-23T11:45:00.000Z",
+      "id": "7710e26e078d74cb810fb7d6cd5d8e72"
+    }
+  ]
+}

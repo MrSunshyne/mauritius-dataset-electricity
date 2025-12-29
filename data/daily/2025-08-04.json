@@ -1,0 +1,28 @@
+{
+  "date": "2025-08-04",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.437Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le lundi 4 août 2025 de  11:00:00 à  11:45:00",
+      "locality": "SOLITUDE",
+      "localitySlug": "solitude",
+      "streets": "SOLITUDE",
+      "district": "pamplemousses",
+      "from": "2025-08-04T07:00:00.000Z",
+      "to": "2025-08-04T07:45:00.000Z",
+      "id": "ceac5681b55c2080992b03d2b3fea422"
+    },
+    {
+      "date": "Le lundi 4 août 2025 de  15:30:00 à  17:30:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Ave Berthaud, Res. Trefles, Assembly Lane, Jeetoo Ave et en partie Stanley",
+      "district": "plainewilhems",
+      "from": "2025-08-04T11:30:00.000Z",
+      "to": "2025-08-04T13:30:00.000Z",
+      "id": "c552df9c4da76c07acb339d4055a6bb5"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "date": "2025-03-15",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.431Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le samedi 15 mars 2025 de  09:00:00 à  16:00:00",
+      "locality": "COTE D-OR",
+      "localitySlug": "cote-d-or",
+      "streets": "NSLD Côte d’Or, VRS Côte d’Or, Morcellement Lonrho Cote d’Or",
+      "district": "moka",
+      "from": "2025-03-15T05:00:00.000Z",
+      "to": "2025-03-15T12:00:00.000Z",
+      "id": "16966fdb0af862ee13b27f9e44ecc710"
+    },
+    {
+      "date": "Le samedi 15 mars 2025 de  08:15:00 à  15:30:00",
+      "locality": "RICHE TERRE",
+      "localitySlug": "riche-terre",
+      "streets": "DANS LES ENVIRONS DE LA ZONE INDUSTRIEL DE JIN FEI",
+      "district": "pamplemousses",
+      "from": "2025-03-15T04:15:00.000Z",
+      "to": "2025-03-15T11:30:00.000Z",
+      "id": "d117b25ade415e30b25f09f1881f4f2d"
+    },
+    {
+      "date": "Le samedi 15 mars 2025 de  09:35:00 à  11:45:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "Morc Tara",
+      "district": "pamplemousses",
+      "from": "2025-03-15T05:35:00.000Z",
+      "to": "2025-03-15T07:45:00.000Z",
+      "id": "367dacf6acd10d96107e0c055e6377b4"
+    },
+    {
+      "date": "Le samedi 15 mars 2025 de  08:30:00 à  16:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "MORC PELLEGRIN, TRIANON ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2025-03-15T04:30:00.000Z",
+      "to": "2025-03-15T12:00:00.000Z",
+      "id": "8cc0401974a291ff830e27ff25e6f283"
+    },
+    {
+      "date": "Le samedi 15 mars 2025 de  21:20:00 à  23:00:00",
+      "locality": "SAINT PAUL",
+      "localitySlug": "saint-paul",
+      "streets": "saint paul",
+      "district": "plainewilhems",
+      "from": "2025-03-15T17:20:00.000Z",
+      "to": "2025-03-15T19:00:00.000Z",
+      "id": "c911e26a6bbb4eee19417d48ea4d760f"
+    },
+    {
+      "date": "Le samedi 15 mars 2025 de  08:30:00 à  14:30:00",
+      "locality": "AMAURY",
+      "localitySlug": "amaury",
+      "streets": "BEAU CLIMAT AMAURY",
+      "district": "rivieredurempart",
+      "from": "2025-03-15T04:30:00.000Z",
+      "to": "2025-03-15T10:30:00.000Z",
+      "id": "11608fd1d23d4742b2cbe52288990856"
+    }
+  ]
+}

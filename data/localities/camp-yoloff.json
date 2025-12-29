@@ -1,0 +1,74 @@
+{
+  "slug": "camp-yoloff",
+  "name": "CAMP YOLOFF",
+  "district": "portlouis",
+  "generated": "2025-12-29T20:21:02.540Z",
+  "outageCount": 9,
+  "firstOutage": "2023-04-02",
+  "lastOutage": "2025-11-28",
+  "outages": [
+    {
+      "date": "Le vendredi 28 novembre 2025 de  10:00:00 à  12:00:00",
+      "streets": "ARAB ST, MILITARY ST ET LES ALENTOURS",
+      "from": "2025-11-28T06:00:00.000Z",
+      "to": "2025-11-28T08:00:00.000Z",
+      "id": "f8a2bc858f7f1f265154cc99b94d03a4"
+    },
+    {
+      "date": "Le lundi 17 février 2025 de  10:50:00 à  13:00:00",
+      "streets": "RTE NICOLAY, RUE PERIMBE ET LES ALENTOURS",
+      "from": "2025-02-17T06:50:00.000Z",
+      "to": "2025-02-17T09:00:00.000Z",
+      "id": "ebd54a60424dffa17291c22edcc79656"
+    },
+    {
+      "date": "Le mercredi 27 novembre 2024 de  10:30:00 à  14:00:00",
+      "streets": "PART OF CAMP YOLOFF AND SURROUNDINGS, RUISSEAU FANFARON, DE COUSY ST",
+      "from": "2024-11-27T06:30:00.000Z",
+      "to": "2024-11-27T10:00:00.000Z",
+      "id": "9cb438116113d95649809121b376ce4a"
+    },
+    {
+      "date": "Le dimanche 20 octobre 2024 de  09:00:00 à  14:00:00",
+      "streets": "DANS LES ENVIRONS DES RUES PERIMBE, GOA, VELORE, MUNICIPALITY, CALICUT, ALEPPO, PATNA, PALIACA, LOUIS XAVIER ET MAHARATTA",
+      "from": "2024-10-20T05:00:00.000Z",
+      "to": "2024-10-20T10:00:00.000Z",
+      "id": "f39c8c3d525a6ba0e60f366370eee3c5"
+    },
+    {
+      "date": "Le samedi 19 octobre 2024 de  09:00:00 à  14:00:00",
+      "streets": "DANS LES ENVIRONS DES RUES PERIMBE, VELORE, MUNICIPALITY ET YOLOFF",
+      "from": "2024-10-19T05:00:00.000Z",
+      "to": "2024-10-19T10:00:00.000Z",
+      "id": "d545f2587f1f5f5b65c74f500f5bd6e2"
+    },
+    {
+      "date": "Le jeudi 3 octobre 2024 de  16:40:00 à  18:40:00",
+      "streets": "FORGES TARDIEU UP TP MOSQUE,ALEPPO,",
+      "from": "2024-10-03T12:40:00.000Z",
+      "to": "2024-10-03T14:40:00.000Z",
+      "id": "e3659288f6449ed21e18d05aaa84ad3f"
+    },
+    {
+      "date": "Le dimanche 28 juillet 2024 de  14:00:00 à  16:00:00",
+      "streets": "La rue Goa et les alentours",
+      "from": "2024-07-28T10:00:00.000Z",
+      "to": "2024-07-28T12:00:00.000Z",
+      "id": "2dac429453d131a2a09d5d3892743b47"
+    },
+    {
+      "date": "Le lundi 8 janvier 2024 de  16:00:00 à  17:00:00",
+      "streets": "CAMP YOLOFF REGION",
+      "from": "2024-01-08T12:00:00.000Z",
+      "to": "2024-01-08T13:00:00.000Z",
+      "id": "27132d3a5c63f81adf3aeec2bdff83ae"
+    },
+    {
+      "date": "Le dimanche 2 avril 2023 de  09:00:00 à  16:00:00",
+      "streets": "CAMP YOLOFF-RUE ARAB-ALLEPPO-LA FONTAINE",
+      "from": "2023-04-02T05:00:00.000Z",
+      "to": "2023-04-02T12:00:00.000Z",
+      "id": "0e4ddf12448c497060b5239fe95f7bcf"
+    }
+  ]
+}

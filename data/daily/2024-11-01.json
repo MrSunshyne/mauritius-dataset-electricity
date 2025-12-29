@@ -1,0 +1,38 @@
+{
+  "date": "2024-11-01",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.420Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le vendredi 1 novembre 2024 de  08:30:00 à  16:30:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "MORC BLACKROCK ET MORC DES JARDINS",
+      "district": "blackriver",
+      "from": "2024-11-01T04:30:00.000Z",
+      "to": "2024-11-01T12:30:00.000Z",
+      "id": "83f5182d4d4f6d3baddd70a24e6bea51"
+    },
+    {
+      "date": "Le vendredi 1 novembre 2024 de  15:50:00 à  17:00:00",
+      "locality": "PETIT VERGER SAINT PIERRE",
+      "localitySlug": "petit-verger-saint-pierre",
+      "streets": "GENTILLY PETIT VERGER",
+      "district": "moka",
+      "from": "2024-11-01T11:50:00.000Z",
+      "to": "2024-11-01T13:00:00.000Z",
+      "id": "44c06e470490331f485be51d5bd7080e"
+    },
+    {
+      "date": "Le vendredi 1 novembre 2024 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LES ABONNES DE QUATRE VENTS, DANS SAMY, MARECHAL ET PAPAYES.",
+      "district": "rodrigues",
+      "from": "2024-11-01T04:30:00.000Z",
+      "to": "2024-11-01T11:00:00.000Z",
+      "id": "8fade0f839f1efeb41a1c6ccf56e3eae"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "2025-01-10",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.425Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le vendredi 10 janvier 2025 de  09:00:00 à  14:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "SPLENDID VIEW ALBION",
+      "district": "blackriver",
+      "from": "2025-01-10T05:00:00.000Z",
+      "to": "2025-01-10T10:00:00.000Z",
+      "id": "646a1869c2252a02c685a9e1e3832d75"
+    },
+    {
+      "date": "Le vendredi 10 janvier 2025 de  17:20:00 à  18:30:00",
+      "locality": "LE MORNE",
+      "localitySlug": "le-morne",
+      "streets": "DILO POURI AND SURROUNDINGS",
+      "district": "blackriver",
+      "from": "2025-01-10T13:20:00.000Z",
+      "to": "2025-01-10T14:30:00.000Z",
+      "id": "333b43b9461e01c38637c9ff011a3589"
+    },
+    {
+      "date": "Le vendredi 10 janvier 2025 de  05:00:00 à  12:00:00",
+      "locality": "GROS BILLOT",
+      "localitySlug": "gros-billot",
+      "streets": "MORC VRS GROS BILLOT",
+      "district": "grandport",
+      "from": "2025-01-10T01:00:00.000Z",
+      "to": "2025-01-10T08:00:00.000Z",
+      "id": "5bbf5d2259b87ce25d92f6c2c5342197"
+    },
+    {
+      "date": "Le vendredi 10 janvier 2025 de  18:40:00 à  19:45:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "MORC POUSSON",
+      "district": "plainewilhems",
+      "from": "2025-01-10T14:40:00.000Z",
+      "to": "2025-01-10T15:45:00.000Z",
+      "id": "fa1d65dad0425ac755fc8491871a15c8"
+    },
+    {
+      "date": "Le vendredi 10 janvier 2025 de  09:00:00 à  12:30:00",
+      "locality": "SAINT FRANCOIS",
+      "localitySlug": "saint-francois",
+      "streets": "CHEMIN DEBARCADER ST FRANCOIS",
+      "district": "portlouis",
+      "from": "2025-01-10T05:00:00.000Z",
+      "to": "2025-01-10T08:30:00.000Z",
+      "id": "19e80d269d333af53f0da615148ead23"
+    },
+    {
+      "date": "Le vendredi 10 janvier 2025 de  07:00:00 à  14:30:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "SOTISE ROAD GRAND BAY",
+      "district": "rivieredurempart",
+      "from": "2025-01-10T03:00:00.000Z",
+      "to": "2025-01-10T10:30:00.000Z",
+      "id": "b3c8af85e522ccdf16a6412ff31864ae"
+    },
+    {
+      "date": "Le vendredi 10 janvier 2025 de  09:00:00 à  17:00:00",
+      "locality": "CHEMIN GRENIER",
+      "localitySlug": "chemin-grenier",
+      "streets": "Camp Galets, Adventist Road et Lotus Road",
+      "district": "savanne",
+      "from": "2025-01-10T05:00:00.000Z",
+      "to": "2025-01-10T13:00:00.000Z",
+      "id": "26ef330af623a51dde0de92b3de42a17"
+    }
+  ]
+}

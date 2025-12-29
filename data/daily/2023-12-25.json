@@ -1,0 +1,28 @@
+{
+  "date": "2023-12-25",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.397Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le lundi 25 décembre 2023 de  19:00:00 à  22:30:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "BEERJEERAZ ALBION",
+      "district": "blackriver",
+      "from": "2023-12-25T15:00:00.000Z",
+      "to": "2023-12-25T18:30:00.000Z",
+      "id": "3aebaa86097bc03e2586617e9936758b"
+    },
+    {
+      "date": "Le lundi 25 décembre 2023 de  21:30:00 à  00:00:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "ST MICHEL BEL AIR",
+      "district": "flacq",
+      "from": "2023-12-25T17:30:00.000Z",
+      "to": "2023-12-24T20:00:00.000Z",
+      "id": "e4db1a10bb162e7e971a647561acf372"
+    }
+  ]
+}

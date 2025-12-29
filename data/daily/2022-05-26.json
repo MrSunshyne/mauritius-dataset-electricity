@@ -1,0 +1,88 @@
+{
+  "date": "2022-05-26",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.355Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le jeudi 26 mai 2022 de  08:00:00 à  10:00:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "MONTAGNE ST PIERRE ET UNE PARTIE DE LA ZONE INDUSTRIELLE BAMBOUS",
+      "district": "blackriver",
+      "from": "2022-05-26T04:00:00.000Z",
+      "to": "2022-05-26T06:00:00.000Z",
+      "id": "0938af1a5922c9732f1a8ffe6a535ae8"
+    },
+    {
+      "date": "Le jeudi 26 mai 2022 de  08:00:00 à  17:00:00",
+      "locality": "ANSE JONCHEE",
+      "localitySlug": "anse-jonchee",
+      "streets": "Anse Jonchée, Terre Casséee & Fisheries Bambous Virieux",
+      "district": "grandport",
+      "from": "2022-05-26T04:00:00.000Z",
+      "to": "2022-05-26T13:00:00.000Z",
+      "id": "31ef1c0bf4a856233fee2d703aa2c2fb"
+    },
+    {
+      "date": "Le jeudi 26 mai 2022 de  14:00:00 à  15:00:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "Vieux Moulin Rose Belle",
+      "district": "grandport",
+      "from": "2022-05-26T10:00:00.000Z",
+      "to": "2022-05-26T11:00:00.000Z",
+      "id": "e129c137c30d941ba7d2d413451e85c8"
+    },
+    {
+      "date": "Le jeudi 26 mai 2022 de  14:30:00 à  17:30:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "College Nelson, SBM St Pierre, College Lorette, St Pierre Village, Rte Bois Cherie, Francois Woo, Khedaran, Le Pouce et Riv Baptiste",
+      "district": "moka",
+      "from": "2022-05-26T10:30:00.000Z",
+      "to": "2022-05-26T13:30:00.000Z",
+      "id": "84b3e965fe1c3f7e513ffa16eeaf2c65"
+    },
+    {
+      "date": "Le jeudi 26 mai 2022 de  11:00:00 à  11:45:00",
+      "locality": "LONG MOUNTAIN",
+      "localitySlug": "long-mountain",
+      "streets": "VALTON",
+      "district": "pamplemousses",
+      "from": "2022-05-26T07:00:00.000Z",
+      "to": "2022-05-26T07:45:00.000Z",
+      "id": "13e9fd4c34ac0a4a35d17580cf9888cd"
+    },
+    {
+      "date": "Le jeudi 26 mai 2022 de  08:30:00 à  16:00:00",
+      "locality": "GLEN PARK",
+      "localitySlug": "glen-park",
+      "streets": "LA MARIE ROAD",
+      "district": "plainewilhems",
+      "from": "2022-05-26T04:30:00.000Z",
+      "to": "2022-05-26T12:00:00.000Z",
+      "id": "9ac5a77b95fd1717a81e86e711a86734"
+    },
+    {
+      "date": "Le jeudi 26 mai 2022 de  16:15:00 à  17:30:00",
+      "locality": "CARREAU LALIANE",
+      "localitySlug": "carreau-laliane",
+      "streets": "Carreau Laliane",
+      "district": "plainewilhems",
+      "from": "2022-05-26T12:15:00.000Z",
+      "to": "2022-05-26T13:30:00.000Z",
+      "id": "a5ac0cef8d3fe99c7afc94b9c2dd09fd"
+    },
+    {
+      "date": "Le jeudi 26 mai 2022 de  09:30:00 à  16:30:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "DANS LES ENVIRONS DE MORC SEEKDAUR ET ALLY LANE",
+      "district": "portlouis",
+      "from": "2022-05-26T05:30:00.000Z",
+      "to": "2022-05-26T12:30:00.000Z",
+      "id": "be6cbe6bde9bfdd6f6ce9fc0b215b7b0"
+    }
+  ]
+}

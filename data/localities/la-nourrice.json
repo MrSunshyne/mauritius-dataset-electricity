@@ -1,0 +1,25 @@
+{
+  "slug": "la-nourrice",
+  "name": "LA NOURRICE",
+  "district": "flacq",
+  "generated": "2025-12-29T20:21:02.651Z",
+  "outageCount": 2,
+  "firstOutage": "2024-12-18",
+  "lastOutage": "2025-08-14",
+  "outages": [
+    {
+      "date": "Le jeudi 14 août 2025 de  08:30:00 à  16:00:00",
+      "streets": "Les abonnés de La Nourice, MCML, CWA Trois Ilots et Trois Ilots Poultry.",
+      "from": "2025-08-14T04:30:00.000Z",
+      "to": "2025-08-14T12:00:00.000Z",
+      "id": "afa52251d4e4899720485d9245a4b9a7"
+    },
+    {
+      "date": "Le mercredi 18 décembre 2024 de  08:30:00 à  17:00:00",
+      "streets": "Village de Trois Illots, La nourice et MCML",
+      "from": "2024-12-18T04:30:00.000Z",
+      "to": "2024-12-18T13:00:00.000Z",
+      "id": "90201c2ff87fe5f381c2a774e5b02f4e"
+    }
+  ]
+}

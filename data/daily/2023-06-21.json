@@ -1,0 +1,48 @@
+{
+  "date": "2023-06-21",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.383Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mercredi 21 juin 2023 de  12:50:00 à  14:50:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "DANS LES ENVIRONS DE AVE CENTRAL, ROUTE GEOFFROY, AVE DES FLEURS ET AVE LAVENDURE.",
+      "district": "blackriver",
+      "from": "2023-06-21T08:50:00.000Z",
+      "to": "2023-06-21T10:50:00.000Z",
+      "id": "08e2afb543139ee2da1e3a147cf6af10"
+    },
+    {
+      "date": "Le mercredi 21 juin 2023 de  15:30:00 à  18:30:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes: Impasse Leclézio, Gujadhur, Impasse Karamtally, Impasse Mungra, Rajcoomar, Stretcher, Cère, Impasse Malherbes, Vitry,  partie de Clément Charoux  et  les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-06-21T11:30:00.000Z",
+      "to": "2023-06-21T14:30:00.000Z",
+      "id": "a4e2befcd8e30bd585f3c8ad746ad4fb"
+    },
+    {
+      "date": "Le mercredi 21 juin 2023 de  08:30:00 à  16:00:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "DANS LES ENVIRONS DE RESIDENCE MON PLAISIR, AVENUE ROLAND MAUREL, AVENUE MICHAEL LEAL ET MORC LE ROC",
+      "district": "portlouis",
+      "from": "2023-06-21T04:30:00.000Z",
+      "to": "2023-06-21T12:00:00.000Z",
+      "id": "dd7ce185219eeb5af1b4f5b4292941a9"
+    },
+    {
+      "date": "Le mercredi 21 juin 2023 de  08:30:00 à  15:30:00",
+      "locality": "POINTE DES LASCARS",
+      "localitySlug": "pointe-des-lascars",
+      "streets": "le village de Pointe des Lascars",
+      "district": "rivieredurempart",
+      "from": "2023-06-21T04:30:00.000Z",
+      "to": "2023-06-21T11:30:00.000Z",
+      "id": "30144ccc4638fbd30c469e27f9289eb9"
+    }
+  ]
+}

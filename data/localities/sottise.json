@@ -1,0 +1,67 @@
+{
+  "slug": "sottise",
+  "name": "SOTTISE",
+  "district": "rivieredurempart",
+  "generated": "2025-12-29T20:21:02.818Z",
+  "outageCount": 8,
+  "firstOutage": "2022-08-12",
+  "lastOutage": "2024-10-01",
+  "outages": [
+    {
+      "date": "Le mardi 1 octobre 2024 de  09:30:00 à  14:00:00",
+      "streets": "SOTTISE",
+      "from": "2024-10-01T05:30:00.000Z",
+      "to": "2024-10-01T10:00:00.000Z",
+      "id": "b910478a9f007cbe272c46f1d38e324b"
+    },
+    {
+      "date": "Le samedi 27 janvier 2024 de  13:00:00 à  14:00:00",
+      "streets": "FROM TRIOLET TO SOTTISE",
+      "from": "2024-01-27T09:00:00.000Z",
+      "to": "2024-01-27T10:00:00.000Z",
+      "id": "5a94429f235124228fe8172c3ad2c1c3"
+    },
+    {
+      "date": "Le samedi 2 décembre 2023 de  16:45:00 à  20:00:00",
+      "streets": "SOTTISE VILLAGE & VALE VILLAGE",
+      "from": "2023-12-02T12:45:00.000Z",
+      "to": "2023-12-02T16:00:00.000Z",
+      "id": "1eecebee2b6c0c3341ffce7dcca98833"
+    },
+    {
+      "date": "Le samedi 2 décembre 2023 de  08:30:00 à  15:30:00",
+      "streets": "SOTTISE VILLAGE",
+      "from": "2023-12-02T04:30:00.000Z",
+      "to": "2023-12-02T11:30:00.000Z",
+      "id": "01fc191770555ef9ddc642b7edf29ca3"
+    },
+    {
+      "date": "Le jeudi 9 novembre 2023 de  15:00:00 à  17:00:00",
+      "streets": "VALE TO SOTTISE",
+      "from": "2023-11-09T11:00:00.000Z",
+      "to": "2023-11-09T13:00:00.000Z",
+      "id": "a3d4a23583975ec5ce87133a0e3e5e37"
+    },
+    {
+      "date": "Le jeudi 1 juin 2023 de  08:30:00 à  15:00:00",
+      "streets": "Bois Chandelle, Chemin Vingt Pieds Sottise, Morc Bhogun, Une partie du 9eme Mille Triolet, Notre-Dame de Fatima, Morc Jhuboo, Fleury sur Mer, Route côtière  Trou Aux Biches, Pointe aux Piments, Morc Ramdanee, Résidence Tobago et Résidence Trinidad",
+      "from": "2023-06-01T04:30:00.000Z",
+      "to": "2023-06-01T11:00:00.000Z",
+      "id": "be6fd61d5005624c9c137b921fa141d9"
+    },
+    {
+      "date": "Le jeudi 18 août 2022 de  08:30:00 à  13:30:00",
+      "streets": "LES ABONNES HABITANT SOTTISE ROAD",
+      "from": "2022-08-18T04:30:00.000Z",
+      "to": "2022-08-18T09:30:00.000Z",
+      "id": "8bb8f0c6270d456d1932cb2d78cd85b6"
+    },
+    {
+      "date": "Le vendredi 12 août 2022 de  08:30:00 à  15:00:00",
+      "streets": "LES ABONNES DE SOTTISE",
+      "from": "2022-08-12T04:30:00.000Z",
+      "to": "2022-08-12T11:00:00.000Z",
+      "id": "fa28b8d5d4e015349261cea1cd86034c"
+    }
+  ]
+}

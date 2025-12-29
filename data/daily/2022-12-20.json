@@ -1,0 +1,48 @@
+{
+  "date": "2022-12-20",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.369Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mardi 20 décembre 2022 de  08:00:00 à  15:00:00",
+      "locality": "POSTE LAFAYETTE",
+      "localitySlug": "poste-lafayette",
+      "streets": "dans les environs de coastal road et Radisson Blue Hotel",
+      "district": "flacq",
+      "from": "2022-12-20T04:00:00.000Z",
+      "to": "2022-12-20T11:00:00.000Z",
+      "id": "a61b31ee0410802f5ec1a652f43075dc"
+    },
+    {
+      "date": "Le mardi 20 décembre 2022 de  16:00:00 à  17:30:00",
+      "locality": "HOLLYROOD",
+      "localitySlug": "hollyrood",
+      "streets": "Hollyrood No.1, une partie de Route La Marie, une partie de Route Quinze-Cantons No. 2, Trois-Mamelles et les environs",
+      "district": "plainewilhems",
+      "from": "2022-12-20T12:00:00.000Z",
+      "to": "2022-12-20T13:30:00.000Z",
+      "id": "169f7863a1690db63f4879549fa14e5b"
+    },
+    {
+      "date": "Le mardi 20 décembre 2022 de  20:00:00 à  23:00:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "CHEMIN MACHINE,CASQUETTE RD PALMA",
+      "district": "plainewilhems",
+      "from": "2022-12-20T16:00:00.000Z",
+      "to": "2022-12-20T19:00:00.000Z",
+      "id": "ceae1ca8f8602e80ac008c95d5e3626f"
+    },
+    {
+      "date": "Le mardi 20 décembre 2022 de  08:00:00 à  15:00:00",
+      "locality": "ROCHES NOIRES",
+      "localitySlug": "roches-noires",
+      "streets": "le village de Roche Noires",
+      "district": "rivieredurempart",
+      "from": "2022-12-20T04:00:00.000Z",
+      "to": "2022-12-20T11:00:00.000Z",
+      "id": "36b0386ef501c2b5d8e95ed9156ddc8f"
+    }
+  ]
+}

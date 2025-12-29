@@ -1,0 +1,48 @@
+{
+  "date": "2025-03-21",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.431Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le vendredi 21 mars 2025 de  09:00:00 à  11:00:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "CASSIMALLY RD, ST URSULE STREET, MARKET RD AND SURROUNDINGS",
+      "district": "flacq",
+      "from": "2025-03-21T05:00:00.000Z",
+      "to": "2025-03-21T07:00:00.000Z",
+      "id": "17b7d841882726afb82beff67b8afd87"
+    },
+    {
+      "date": "Le vendredi 21 mars 2025 de  09:00:00 à  14:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVENUE DES CAPUCINES, DES ROSIERS, AVENUE DES TALIPO, AVENUE DES MANGUIERS ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2025-03-21T05:00:00.000Z",
+      "to": "2025-03-21T10:00:00.000Z",
+      "id": "1c1ef9de997197e25670911bf8f6ae9b"
+    },
+    {
+      "date": "Le vendredi 21 mars 2025 de  08:30:00 à  16:00:00",
+      "locality": "BUTTES AUX PAPAYES",
+      "localitySlug": "buttes-aux-papayes",
+      "streets": "Domaine Belle Vue a Butte aux Papayes et les environs",
+      "district": "rivieredurempart",
+      "from": "2025-03-21T04:30:00.000Z",
+      "to": "2025-03-21T12:00:00.000Z",
+      "id": "4d0e9605f643f3ce16c010c3675d8d93"
+    },
+    {
+      "date": "Le vendredi 21 mars 2025 de  07:00:00 à  17:00:00",
+      "locality": "AMAURY",
+      "localitySlug": "amaury",
+      "streets": "BEAU CLIMAT AMAURY",
+      "district": "rivieredurempart",
+      "from": "2025-03-21T03:00:00.000Z",
+      "to": "2025-03-21T13:00:00.000Z",
+      "id": "4bd9d50e3bcb6a24293ccd0aca8c44cf"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "date": "2023-01-25",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.372Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mercredi 25 janvier 2023 de  08:30:00 à  17:00:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "Mahebourg habitant dans le périmètre et les rues suivantes: Pointe Jerome, Cité la Chaux et Preskil Hotel",
+      "district": "grandport",
+      "from": "2023-01-25T04:30:00.000Z",
+      "to": "2023-01-25T13:00:00.000Z",
+      "id": "64f285909fc887f0cdba9a3fc90f1b5f"
+    },
+    {
+      "date": "Le mercredi 25 janvier 2023 de  13:00:00 à  16:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "LES ABONNES DE MORC REY PTE AUX SABLES HABITANT DANS LES ENVIRONS DES AVENUES COLBERT, BOSQUET, COQUELUCHES, PEUPLIERS ET SUNNY HILL",
+      "district": "portlouis",
+      "from": "2023-01-25T09:00:00.000Z",
+      "to": "2023-01-25T12:00:00.000Z",
+      "id": "3ebaacaa664faf879cb6be5ee825ddca"
+    },
+    {
+      "date": "Le mercredi 25 janvier 2023 de  09:00:00 à  15:00:00",
+      "locality": "SURINAM",
+      "localitySlug": "surinam",
+      "streets": "Trois Bras et Morcellement Gobin",
+      "district": "savanne",
+      "from": "2023-01-25T05:00:00.000Z",
+      "to": "2023-01-25T11:00:00.000Z",
+      "id": "5259d30649bb8cd34a2e8d7dd9eeef4d"
+    }
+  ]
+}

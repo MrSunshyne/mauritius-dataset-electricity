@@ -1,0 +1,78 @@
+{
+  "date": "2022-08-25",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.361Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le jeudi 25 août 2022 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "AVE DES PERRUCHES, AVE DES MERLES, AVE DES CRECERELLES ET UNE PARTIE DE LA ROUTE COTIERE FLIC EN FLAC",
+      "district": "blackriver",
+      "from": "2022-08-25T04:30:00.000Z",
+      "to": "2022-08-25T11:30:00.000Z",
+      "id": "cfcb11e880ebb890ea20c4b177061581"
+    },
+    {
+      "date": "Le jeudi 25 août 2022 de  11:30:00 à  17:00:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "Rose Belle habitant dans le périmètre et les rues suivantes: Shivala Road, Mosque Road, Letord Road, Gebert Road, Telegu Temple Road, Baramia, Cité Saint Jacques, Capitol Lane, Ah Kwet Lane, Railway Road, Market Lane, Mongelaard Lane, une partie de Mont Fertile et une partie de la Route Royale Rose Belle",
+      "district": "grandport",
+      "from": "2022-08-25T07:30:00.000Z",
+      "to": "2022-08-25T13:00:00.000Z",
+      "id": "15d8e91c22be6666cdb37b4c4c0d47af"
+    },
+    {
+      "date": "Le jeudi 25 août 2022 de  08:00:00 à  15:30:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "Les abonnés habitant Morcellement Tobago, Route Père Laval, Morcellement Astitva, Morcellement Ramdanee, Trio Développent et Route Côtière Pointe Aux Biches",
+      "district": "pamplemousses",
+      "from": "2022-08-25T04:00:00.000Z",
+      "to": "2022-08-25T11:30:00.000Z",
+      "id": "d815e6af8675187b751719c5e4476e86"
+    },
+    {
+      "date": "Le jeudi 25 août 2022 de  08:30:00 à  16:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "Morc Montreal, Dafodil Ave, Capucine Ave, Dahlia Ave, Andreanum Ave, Balsamine Ave et les environs",
+      "district": "plainewilhems",
+      "from": "2022-08-25T04:30:00.000Z",
+      "to": "2022-08-25T12:00:00.000Z",
+      "id": "965d2aae60724e6b5958c0748ebd5b49"
+    },
+    {
+      "date": "Le jeudi 25 août 2022 de  08:30:00 à  13:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Rue Gladstone,Ollier,Imp Cathan et Residence Giraud",
+      "district": "plainewilhems",
+      "from": "2022-08-25T04:30:00.000Z",
+      "to": "2022-08-25T09:00:00.000Z",
+      "id": "dc8442efeb0965167dabd57d2b3281b2"
+    },
+    {
+      "date": "Le jeudi 25 août 2022 de  14:30:00 à  16:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "MURRAY STREET,OLLIER STREET",
+      "district": "plainewilhems",
+      "from": "2022-08-25T10:30:00.000Z",
+      "to": "2022-08-25T12:00:00.000Z",
+      "id": "d9964043a34a1d159689a59828935f45"
+    },
+    {
+      "date": "Le jeudi 25 août 2022 de  16:30:00 à  18:00:00",
+      "locality": "ROCHE BOIS",
+      "localitySlug": "roche-bois",
+      "streets": "DESBOUCHERS ROAD",
+      "district": "portlouis",
+      "from": "2022-08-25T12:30:00.000Z",
+      "to": "2022-08-25T14:00:00.000Z",
+      "id": "c2b4f40142d858278cfd677e2c03eae9"
+    }
+  ]
+}

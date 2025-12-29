@@ -1,0 +1,78 @@
+{
+  "date": "2023-03-09",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.375Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le jeudi 9 mars 2023 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC ANNA HABITANT DANS LES ENVIRONS DE: AVE MOULIN CASSE, AVE DES TRUITES, AVE DES MARLINS, AVE DES MEROUS ET UNE PARTIE DE LAVE DES CAPITAINES",
+      "district": "blackriver",
+      "from": "2023-03-09T04:30:00.000Z",
+      "to": "2023-03-09T11:30:00.000Z",
+      "id": "7d98eabb4e7bcc0deda9d4143cd70c0a"
+    },
+    {
+      "date": "Le jeudi 9 mars 2023 de  17:00:00 à  18:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "PETITE RIVIERE, RICHELIEU, Part PTE AUX SABLES",
+      "district": "blackriver",
+      "from": "2023-03-09T13:00:00.000Z",
+      "to": "2023-03-09T14:00:00.000Z",
+      "id": "3e6fe42bb024bf09f08ae0447b1f21d0"
+    },
+    {
+      "date": "Le jeudi 9 mars 2023 de  08:30:00 à  14:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "QUINZE CANTONS AND HOLLYWOOD : une partie de Route Quinze-Cantons No. 1, une partie de la Route Bègue Mootoo Lane",
+      "district": "plainewilhems",
+      "from": "2023-03-09T04:30:00.000Z",
+      "to": "2023-03-09T10:00:00.000Z",
+      "id": "49a4ff61716e1299b2cc7b58c9a67efc"
+    },
+    {
+      "date": "Le jeudi 9 mars 2023 de  11:00:00 à  12:00:00",
+      "locality": "CANDOS VACOAS",
+      "localitySlug": "candos-vacoas",
+      "streets": "PAILLOTTE TO CANDOS HOSPITAL",
+      "district": "plainewilhems",
+      "from": "2023-03-09T07:00:00.000Z",
+      "to": "2023-03-09T08:00:00.000Z",
+      "id": "ec5ec0118a9c8a97fe0d5c85e316cae4"
+    },
+    {
+      "date": "Le jeudi 9 mars 2023 de  12:00:00 à  13:00:00",
+      "locality": "CANDOS VACOAS",
+      "localitySlug": "candos-vacoas",
+      "streets": "PAILLOTTE TO CANDOS HOSPITAL",
+      "district": "plainewilhems",
+      "from": "2023-03-09T08:00:00.000Z",
+      "to": "2023-03-09T09:00:00.000Z",
+      "id": "6790a917f9c2cc00a88651efb09d84d5"
+    },
+    {
+      "date": "Le jeudi 9 mars 2023 de  13:00:00 à  15:00:00",
+      "locality": "HERMITAGE PHOENIX",
+      "localitySlug": "hermitage-phoenix",
+      "streets": "HERMITAGE VILLAGE",
+      "district": "plainewilhems",
+      "from": "2023-03-09T09:00:00.000Z",
+      "to": "2023-03-09T11:00:00.000Z",
+      "id": "f1bbeb3e4a206ced496ccda2a949d907"
+    },
+    {
+      "date": "Le jeudi 9 mars 2023 de  14:00:00 à  16:30:00",
+      "locality": "CANDOS Q BORNES",
+      "localitySlug": "candos-q-bornes",
+      "streets": "LA COLLINE COMMERCIAL CENTRE AND SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2023-03-09T10:00:00.000Z",
+      "to": "2023-03-09T12:30:00.000Z",
+      "id": "c39f836c222695ad6808450692d3fdc8"
+    }
+  ]
+}

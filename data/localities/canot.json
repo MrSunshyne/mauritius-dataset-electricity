@@ -1,0 +1,46 @@
+{
+  "slug": "canot",
+  "name": "CANOT",
+  "district": "blackriver",
+  "generated": "2025-12-29T20:21:02.543Z",
+  "outageCount": 5,
+  "firstOutage": "2022-11-08",
+  "lastOutage": "2025-12-17",
+  "outages": [
+    {
+      "date": "Le mercredi 17 décembre 2025 de  17:20:00 à  18:00:00",
+      "streets": "VILLAGE CANOT, DOME D ALBION, MORC MEDINE",
+      "from": "2025-12-17T13:20:00.000Z",
+      "to": "2025-12-17T14:00:00.000Z",
+      "id": "1ffa88ac3439e612f074746655de0227"
+    },
+    {
+      "date": "Le dimanche 26 octobre 2025 de  08:30:00 à  14:00:00",
+      "streets": "PORKER ST MARTIN, CWA ST MARTIN, LA POMPE ST MARTIN, GENERAL CONSTRUCTION",
+      "from": "2025-10-26T04:30:00.000Z",
+      "to": "2025-10-26T10:00:00.000Z",
+      "id": "8cc469e756abbb942a694fad1ede9ca6"
+    },
+    {
+      "date": "Le vendredi 6 septembre 2024 de  15:10:00 à  17:15:00",
+      "streets": "CANOT SIMONET",
+      "from": "2024-09-06T11:10:00.000Z",
+      "to": "2024-09-06T13:15:00.000Z",
+      "id": "6b07af2d7b1a31a45c0d31374541e839"
+    },
+    {
+      "date": "Le lundi 31 juillet 2023 de  15:00:00 à  17:00:00",
+      "streets": "DANS LES ENVIRONS DE CANOT ET CHEMIN ALBION BRANCH ROAD VERS ALBION.",
+      "from": "2023-07-31T11:00:00.000Z",
+      "to": "2023-07-31T13:00:00.000Z",
+      "id": "04a47966616999aeb82d897339d5a89c"
+    },
+    {
+      "date": "Le mardi 8 novembre 2022 de  08:30:00 à  15:00:00",
+      "streets": "Ave Hibiscus, Ave Lise et les environs",
+      "from": "2022-11-08T04:30:00.000Z",
+      "to": "2022-11-08T11:00:00.000Z",
+      "id": "344062a9c1c79ccaf6e0dc9a8cf23717"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "union-vale",
+  "name": "UNION VALE",
+  "district": "grandport",
+  "generated": "2025-12-29T20:21:02.841Z",
+  "outageCount": 2,
+  "firstOutage": "2025-03-19",
+  "lastOutage": "2025-08-17",
+  "outages": [
+    {
+      "date": "Le dimanche 17 août 2025 de  09:00:00 à  16:00:00",
+      "streets": "Union Vale, Desplaces, Camp Carol, Le Bouchon, Kenya et Mont Desert",
+      "from": "2025-08-17T05:00:00.000Z",
+      "to": "2025-08-17T12:00:00.000Z",
+      "id": "d49adbce403bb93b50f334178f5ece00"
+    },
+    {
+      "date": "Le mercredi 19 mars 2025 de  14:00:00 à  16:30:00",
+      "streets": "PART ON UNION VALE",
+      "from": "2025-03-19T10:00:00.000Z",
+      "to": "2025-03-19T12:30:00.000Z",
+      "id": "23399fa187981ddcf3921c226b2c2cad"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "date": "2022-05-16",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.354Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le lundi 16 mai 2022 de  10:30:00 à  13:00:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "Mahebourg habitant dans le périmètre et les rues suivantes: Marianne Street, La Passe Street, Delices Street, Flamand Street, Cent Gaulettes Street et Saint Martin Street",
+      "district": "grandport",
+      "from": "2022-05-16T06:30:00.000Z",
+      "to": "2022-05-16T09:00:00.000Z",
+      "id": "34223d047878c8d3bc221f96b95a4a7b"
+    },
+    {
+      "date": "Le lundi 16 mai 2022 de  14:30:00 à  17:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Barkly, Mont Roches, Bakorising, PSSA, Marcel Cabon, RYC, Prison Beau-Bassin et les environs",
+      "district": "plainewilhems",
+      "from": "2022-05-16T10:30:00.000Z",
+      "to": "2022-05-16T13:00:00.000Z",
+      "id": "596da07a37eaf9f5277a462e3b2d56b8"
+    }
+  ]
+}

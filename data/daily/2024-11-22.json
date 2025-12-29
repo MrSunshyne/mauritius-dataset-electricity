@@ -1,0 +1,28 @@
+{
+  "date": "2024-11-22",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.421Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le vendredi 22 novembre 2024 de  08:30:00 à  16:30:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "TAMARIN VILLAGE ET MORC PLANTEAU",
+      "district": "blackriver",
+      "from": "2024-11-22T04:30:00.000Z",
+      "to": "2024-11-22T12:30:00.000Z",
+      "id": "7ca09446948ab19c35ed8a591e232d8c"
+    },
+    {
+      "date": "Le vendredi 22 novembre 2024 de  03:00:00 à  10:00:00",
+      "locality": "MORC SAINT ANDRE",
+      "localitySlug": "morc-saint-andre",
+      "streets": "MORC ST ANDRE DANS LES ALENTOURS DE EX LOLO",
+      "district": "pamplemousses",
+      "from": "2024-11-21T23:00:00.000Z",
+      "to": "2024-11-21T06:00:00.000Z",
+      "id": "7bf48d2b96a1e8931e46881d5f36c416"
+    }
+  ]
+}

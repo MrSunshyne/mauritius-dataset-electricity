@@ -1,0 +1,48 @@
+{
+  "date": "2022-08-20",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.361Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le samedi 20 août 2022 de  08:30:00 à  16:00:00",
+      "locality": "VERDUN",
+      "localitySlug": "verdun",
+      "streets": "Royal Road Verdun",
+      "district": "moka",
+      "from": "2022-08-20T04:30:00.000Z",
+      "to": "2022-08-20T12:00:00.000Z",
+      "id": "ba9ecab69371b320f91adce678472bca"
+    },
+    {
+      "date": "Le samedi 20 août 2022 de  08:30:00 à  15:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Avenue Mudaliar, Route Wilson, Morc Sauba",
+      "district": "plainewilhems",
+      "from": "2022-08-20T04:30:00.000Z",
+      "to": "2022-08-20T11:30:00.000Z",
+      "id": "9180cef4211e7034eca7420d4077c75e"
+    },
+    {
+      "date": "Le samedi 20 août 2022 de  08:30:00 à  16:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "Morc Montreal, Dafodil Ave, Capucine Ave, Dahlia Ave, Andreanum Ave, Balsamine Ave et les environs",
+      "district": "plainewilhems",
+      "from": "2022-08-20T04:30:00.000Z",
+      "to": "2022-08-20T12:00:00.000Z",
+      "id": "f01ccdb49005f95e9cf5aba115d3f01d"
+    },
+    {
+      "date": "Le samedi 20 août 2022 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "DANS SAMY",
+      "district": "rodrigues",
+      "from": "2022-08-20T04:30:00.000Z",
+      "to": "2022-08-20T11:00:00.000Z",
+      "id": "34f5f766e543f0d7858bdf0b329323e4"
+    }
+  ]
+}

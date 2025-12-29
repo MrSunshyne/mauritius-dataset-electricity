@@ -1,0 +1,48 @@
+{
+  "date": "2024-02-13",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.400Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mardi 13 février 2024 de  09:45:00 à  12:00:00",
+      "locality": "SAINT JULIEN VILLAGE",
+      "localitySlug": "saint-julien-village",
+      "streets": "Vrindavan,Tagore,Nehru & Route Royale",
+      "district": "flacq",
+      "from": "2024-02-13T05:45:00.000Z",
+      "to": "2024-02-13T08:00:00.000Z",
+      "id": "39642a63d07a37d046298746343400a7"
+    },
+    {
+      "date": "Le mardi 13 février 2024 de  15:00:00 à  16:00:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "REGION MONTAGNE ORY,MOKA,HELVETIA,STPIERRE",
+      "district": "moka",
+      "from": "2024-02-13T11:00:00.000Z",
+      "to": "2024-02-13T12:00:00.000Z",
+      "id": "83a8791790e4d880c3b3d735fda696e7"
+    },
+    {
+      "date": "Le mardi 13 février 2024 de  09:00:00 à  12:00:00",
+      "locality": "STANLEY",
+      "localitySlug": "stanley",
+      "streets": "Rte Hugnin,Antelme en partie Edward 7",
+      "district": "plainewilhems",
+      "from": "2024-02-13T05:00:00.000Z",
+      "to": "2024-02-13T08:00:00.000Z",
+      "id": "5989bf96791de681b1fec2c2605d330c"
+    },
+    {
+      "date": "Le mardi 13 février 2024 de  10:00:00 à  10:50:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "Morc Al Madina",
+      "district": "portlouis",
+      "from": "2024-02-13T06:00:00.000Z",
+      "to": "2024-02-13T06:50:00.000Z",
+      "id": "06ef13952b851d69318a85c8bcb0da81"
+    }
+  ]
+}

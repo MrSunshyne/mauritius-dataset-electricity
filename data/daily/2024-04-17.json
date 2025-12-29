@@ -1,0 +1,58 @@
+{
+  "date": "2024-04-17",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.405Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mercredi 17 avril 2024 de  08:30:00 à  16:00:00",
+      "locality": "POSTE DE FLACQ",
+      "localitySlug": "poste-de-flacq",
+      "streets": "Chemin Belle Mare, Chemin Choisy, Filling et Lecole RCA",
+      "district": "flacq",
+      "from": "2024-04-17T04:30:00.000Z",
+      "to": "2024-04-17T12:00:00.000Z",
+      "id": "e9271efd9983ba0970f7fbc070d21a6a"
+    },
+    {
+      "date": "Le mercredi 17 avril 2024 de  10:30:00 à  13:45:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "MON FERTILE",
+      "district": "grandport",
+      "from": "2024-04-17T06:30:00.000Z",
+      "to": "2024-04-17T09:45:00.000Z",
+      "id": "82bdd4c25dbee56d9d82b31ea1177b3c"
+    },
+    {
+      "date": "Le mercredi 17 avril 2024 de  15:35:00 à  17:35:00",
+      "locality": "NOUVELLE DECOUVERTE",
+      "localitySlug": "nouvelle-decouverte",
+      "streets": "BRANCH ROAD TOWARDS LESPERANCE DANS LES ENVIRONS TYRE WORKSHOP.",
+      "district": "moka",
+      "from": "2024-04-17T11:35:00.000Z",
+      "to": "2024-04-17T13:35:00.000Z",
+      "id": "10666d8d0b195c3f36e8772169990e5e"
+    },
+    {
+      "date": "Le mercredi 17 avril 2024 de  11:30:00 à  12:30:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "MORC BEAU RIVAGE TOMBEAU BAY",
+      "district": "pamplemousses",
+      "from": "2024-04-17T07:30:00.000Z",
+      "to": "2024-04-17T08:30:00.000Z",
+      "id": "e7ea2e8e5fc3791a462737f19610697e"
+    },
+    {
+      "date": "Le mercredi 17 avril 2024 de  10:00:00 à  15:00:00",
+      "locality": "STANLEY",
+      "localitySlug": "stanley",
+      "streets": "BOUNDARY RD STANLEY",
+      "district": "plainewilhems",
+      "from": "2024-04-17T06:00:00.000Z",
+      "to": "2024-04-17T11:00:00.000Z",
+      "id": "fffd4a48360b5b234df3bb2960fda4f0"
+    }
+  ]
+}

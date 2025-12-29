@@ -1,0 +1,25 @@
+{
+  "slug": "lataniers",
+  "name": "LATANIERS(RODRIGUES)",
+  "district": "rodrigues",
+  "generated": "2025-12-29T20:21:02.657Z",
+  "outageCount": 2,
+  "firstOutage": "2023-11-09",
+  "lastOutage": "2024-03-18",
+  "outages": [
+    {
+      "date": "Le lundi 18 mars 2024 de  10:00:00 à  14:00:00",
+      "streets": "Saint Gabriel",
+      "from": "2024-03-18T06:00:00.000Z",
+      "to": "2024-03-18T10:00:00.000Z",
+      "id": "743a2689b2140030e20f694500484b4b"
+    },
+    {
+      "date": "Le jeudi 9 novembre 2023 de  08:30:00 à  15:00:00",
+      "streets": "sainte Famille, Saint Gabriel, Pompee, Eau Clair, C. Paul, Songes,Port Sud Est,Mourouck, Montagne Cherie et Anse Enfer",
+      "from": "2023-11-09T04:30:00.000Z",
+      "to": "2023-11-09T11:00:00.000Z",
+      "id": "3a229ba9a91e2e534ee55e7b6258e954"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "date": "2023-05-29",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.381Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le lundi 29 mai 2023 de  18:15:00 à  19:30:00",
+      "locality": "CASCAVEL",
+      "localitySlug": "cascavel",
+      "streets": "BAOBAB LANE,ALLAMANDA LANE",
+      "district": "blackriver",
+      "from": "2023-05-29T14:15:00.000Z",
+      "to": "2023-05-29T15:30:00.000Z",
+      "id": "7b609500cbdb8205f4ffeca6af35240b"
+    },
+    {
+      "date": "Le lundi 29 mai 2023 de  09:00:00 à  13:00:00",
+      "locality": "SURINAM",
+      "localitySlug": "surinam",
+      "streets": "Martiniere Surinam",
+      "district": "savanne",
+      "from": "2023-05-29T05:00:00.000Z",
+      "to": "2023-05-29T09:00:00.000Z",
+      "id": "56dce818530f79b9703a135f75f9e9eb"
+    }
+  ]
+}

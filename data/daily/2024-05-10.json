@@ -1,0 +1,58 @@
+{
+  "date": "2024-05-10",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.407Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le vendredi 10 mai 2024 de  09:00:00 à  17:00:00",
+      "locality": "CAMP ITHIER",
+      "localitySlug": "camp-ithier",
+      "streets": "Camp Ithier Et à Camp Marcelin, Isidore Rose, NHDC Quatre Cocos et dans le périmètre d’Eglise de Quatre Coco.",
+      "district": "flacq",
+      "from": "2024-05-10T05:00:00.000Z",
+      "to": "2024-05-10T13:00:00.000Z",
+      "id": "5028f2092c240fbd6ac4a71d714798fd"
+    },
+    {
+      "date": "Le vendredi 10 mai 2024 de  10:30:00 à  12:00:00",
+      "locality": "NOUVELLE FRANCE",
+      "localitySlug": "nouvelle-france",
+      "streets": "Nouvelle France habitant dans le périmètre et les rues suivantes: Savanne Road, Grand Port Road, Bundhoo Lane, Dawol Lane, Sookari Lane et Jai Hind Lane",
+      "district": "grandport",
+      "from": "2024-05-10T06:30:00.000Z",
+      "to": "2024-05-10T08:00:00.000Z",
+      "id": "0ba80e1ddc88ba44548836ca2663ec4c"
+    },
+    {
+      "date": "Le vendredi 10 mai 2024 de  09:30:00 à  13:00:00",
+      "locality": "LA BARRAQUE",
+      "localitySlug": "la-barraque",
+      "streets": "STAFF QUARTERS LA BARRAQUE L-ESCALIER.",
+      "district": "grandport",
+      "from": "2024-05-10T05:30:00.000Z",
+      "to": "2024-05-10T09:00:00.000Z",
+      "id": "d148df15a3f98def1defe36fd84a4bcf"
+    },
+    {
+      "date": "Le vendredi 10 mai 2024 de  08:30:00 à  16:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Barkly, Ave Hortensia, Ave Pensee, Ave Iris, Ave Lauriers, Ave Verveine, Police Station Barkly et les environs",
+      "district": "plainewilhems",
+      "from": "2024-05-10T04:30:00.000Z",
+      "to": "2024-05-10T12:00:00.000Z",
+      "id": "d03c28e09fe269f27d49b818a867fb56"
+    },
+    {
+      "date": "Le vendredi 10 mai 2024 de  12:00:00 à  14:00:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "NELSON RD GRAND GAUBE",
+      "district": "rivieredurempart",
+      "from": "2024-05-10T08:00:00.000Z",
+      "to": "2024-05-10T10:00:00.000Z",
+      "id": "7e22b0d2b97f40fccba99bdee18eb57e"
+    }
+  ]
+}

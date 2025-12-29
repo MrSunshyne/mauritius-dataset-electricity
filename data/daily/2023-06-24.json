@@ -1,0 +1,38 @@
+{
+  "date": "2023-06-24",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.383Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le samedi 24 juin 2023 de  11:30:00 à  15:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "CHEBEL BRANCH RD",
+      "district": "plainewilhems",
+      "from": "2023-06-24T07:30:00.000Z",
+      "to": "2023-06-24T11:00:00.000Z",
+      "id": "e3a14dd010db349d1763b1e7c01e24bc"
+    },
+    {
+      "date": "Le samedi 24 juin 2023 de  19:00:00 à  22:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "RUE LABOURDONNAIS,MAURICE CUREE,LAPLACE,GLADESTONE,BLONDEAU.STEVENSON ROSE HILL",
+      "district": "plainewilhems",
+      "from": "2023-06-24T15:00:00.000Z",
+      "to": "2023-06-24T18:00:00.000Z",
+      "id": "825061cebc97c56d5f39743dde40836e"
+    },
+    {
+      "date": "Le samedi 24 juin 2023 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "POINTE MONIER,CAMP DU ROI,HAUTEUR ACACIA,LUNION",
+      "district": "rodrigues",
+      "from": "2023-06-24T04:30:00.000Z",
+      "to": "2023-06-24T11:00:00.000Z",
+      "id": "5105d227d7a8f00ea3f1da98528d8f32"
+    }
+  ]
+}

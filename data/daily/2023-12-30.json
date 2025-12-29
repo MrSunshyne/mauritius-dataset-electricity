@@ -1,0 +1,28 @@
+{
+  "date": "2023-12-30",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.397Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le samedi 30 décembre 2023 de  07:20:00 à  12:00:00",
+      "locality": "16EME MILE",
+      "localitySlug": "16eme-mile",
+      "streets": "CORIOLIS RD -MORC SOOBANY 16EME MILLE FOREST SIDE",
+      "district": "plainewilhems",
+      "from": "2023-12-30T03:20:00.000Z",
+      "to": "2023-12-30T08:00:00.000Z",
+      "id": "5270f3049866c82c9a629fe7465b6eb9"
+    },
+    {
+      "date": "Le samedi 30 décembre 2023 de  12:45:00 à  14:00:00",
+      "locality": "BELLE ROSE  ( Q BORNES )",
+      "localitySlug": "belle-rose",
+      "streets": "Avenues DR Castel,C.leckning et Super U",
+      "district": "plainewilhems",
+      "from": "2023-12-30T08:45:00.000Z",
+      "to": "2023-12-30T10:00:00.000Z",
+      "id": "acca5c253d17506cd58d904830e311c8"
+    }
+  ]
+}

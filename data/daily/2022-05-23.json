@@ -1,0 +1,28 @@
+{
+  "date": "2022-05-23",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.355Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le lundi 23 mai 2022 de  08:30:00 à  16:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC SAFELAND, AVE RADAR, AVE DES FLAMBOYANTS, AVE DES HIRONDELLES, MORC LI YAO, AVE BEGONIAS, AVE CAMELIAS ET MORC PALMYRE",
+      "district": "blackriver",
+      "from": "2022-05-23T04:30:00.000Z",
+      "to": "2022-05-23T12:30:00.000Z",
+      "id": "65becf764fa780b0ebcd7a31e32e279c"
+    },
+    {
+      "date": "Le lundi 23 mai 2022 de  15:00:00 à  20:00:00",
+      "locality": "MON CHOISY",
+      "localitySlug": "mon-choisy",
+      "streets": "MORC MONCHOISY",
+      "district": "pamplemousses",
+      "from": "2022-05-23T11:00:00.000Z",
+      "to": "2022-05-23T16:00:00.000Z",
+      "id": "8164ef253d733da860738441a2d67f45"
+    }
+  ]
+}

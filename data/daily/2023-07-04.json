@@ -1,0 +1,38 @@
+{
+  "date": "2023-07-04",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.384Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mardi 4 juillet 2023 de  09:00:00 à  17:00:00",
+      "locality": "CLUNY",
+      "localitySlug": "cluny",
+      "streets": "Beemanique habitant dans le périmètre et les rues suivantes: Railway Road, Motay Road, CWA Cluny & Beemanique et la Route Royale Beemanique",
+      "district": "grandport",
+      "from": "2023-07-04T05:00:00.000Z",
+      "to": "2023-07-04T13:00:00.000Z",
+      "id": "8ec1e3ba8ff8c3d8f4f71d9061bd2ac4"
+    },
+    {
+      "date": "Le mardi 4 juillet 2023 de  09:00:00 à  00:00:00",
+      "locality": "BEAU VALLON",
+      "localitySlug": "beau-vallon",
+      "streets": "Beau Vallon habitant dans le périmètre et les rues suivantes: Avenue Anthurium, Chemin Club, Chemin Watsonia, Chemin Nicolay, Avenue Victoria, Avenue Kestrel, Allée des Flamboyants, Allée des Tamarins, Allée des Roses et Allée des Frescias",
+      "district": "grandport",
+      "from": "2023-07-04T05:00:00.000Z",
+      "to": "2023-07-03T20:00:00.000Z",
+      "id": "218f19822ca27742e5563c3be75fa8b8"
+    },
+    {
+      "date": "Le mardi 4 juillet 2023 de  08:30:00 à  15:30:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "dans les environs de Daruty",
+      "district": "rivieredurempart",
+      "from": "2023-07-04T04:30:00.000Z",
+      "to": "2023-07-04T11:30:00.000Z",
+      "id": "cc08e93dab8663194ed7d666867a7e46"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "date": "2025-07-02",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.434Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le mercredi 2 juillet 2025 de  09:55:00 à  12:00:00",
+      "locality": "PLAINE CHANPAGNE",
+      "localitySlug": "plaine-chanpagne",
+      "streets": "VARANGUE SUR MONDEDOMAINE ST DENIS",
+      "district": "blackriver",
+      "from": "2025-07-02T05:55:00.000Z",
+      "to": "2025-07-02T08:00:00.000Z",
+      "id": "6a7a50cd2d6674b156bae5f84cd6c7f5"
+    },
+    {
+      "date": "Le mercredi 2 juillet 2025 de  09:30:00 à  15:00:00",
+      "locality": "COTEAU RAFFIN",
+      "localitySlug": "coteau-raffin",
+      "streets": "COUTEAU RAFFIN",
+      "district": "blackriver",
+      "from": "2025-07-02T05:30:00.000Z",
+      "to": "2025-07-02T11:00:00.000Z",
+      "id": "514d2d66d4a825cc7cc53f9ae9e22c0a"
+    },
+    {
+      "date": "Le mercredi 2 juillet 2025 de  08:25:00 à  13:00:00",
+      "locality": "CASCAVEL",
+      "localitySlug": "cascavel",
+      "streets": "MORC XAVIER AVE ORCHIDEE ET LES ALENTOURS",
+      "district": "blackriver",
+      "from": "2025-07-02T04:25:00.000Z",
+      "to": "2025-07-02T09:00:00.000Z",
+      "id": "c108d315683868c4be52d574c8ae4caa"
+    },
+    {
+      "date": "Le mercredi 2 juillet 2025 de  09:00:00 à  15:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave Cremation No 1, Ave Cremation No 2, en partie Route Royale Palma et les environs",
+      "district": "plainewilhems",
+      "from": "2025-07-02T05:00:00.000Z",
+      "to": "2025-07-02T11:00:00.000Z",
+      "id": "d649b5705975c526694dc51fe95dea99"
+    },
+    {
+      "date": "Le mercredi 2 juillet 2025 de  13:00:00 à  18:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "MARE GRAVIER,MARCEL LETANG",
+      "district": "plainewilhems",
+      "from": "2025-07-02T09:00:00.000Z",
+      "to": "2025-07-02T14:00:00.000Z",
+      "id": "834832c4e230e955a28510b012913ad9"
+    },
+    {
+      "date": "Le mercredi 2 juillet 2025 de  10:25:00 à  12:30:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "MORC VRS",
+      "district": "savanne",
+      "from": "2025-07-02T06:25:00.000Z",
+      "to": "2025-07-02T08:30:00.000Z",
+      "id": "c782bf2810cd0defbb216bf304ed7884"
+    }
+  ]
+}

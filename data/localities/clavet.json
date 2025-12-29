@@ -1,0 +1,25 @@
+{
+  "slug": "clavet",
+  "name": "CLAVET",
+  "district": "flacq",
+  "generated": "2025-12-29T20:21:02.572Z",
+  "outageCount": 2,
+  "firstOutage": "2024-09-04",
+  "lastOutage": "2024-10-11",
+  "outages": [
+    {
+      "date": "Le vendredi 11 octobre 2024 de  14:10:00 à  14:40:00",
+      "streets": "CLAVET, LETOILE",
+      "from": "2024-10-11T10:10:00.000Z",
+      "to": "2024-10-11T10:40:00.000Z",
+      "id": "231c34826c3de11bfcc27522c882faff"
+    },
+    {
+      "date": "Le mercredi 4 septembre 2024 de  09:45:00 à  13:00:00",
+      "streets": "PART OF CLAVET, LETOILE",
+      "from": "2024-09-04T05:45:00.000Z",
+      "to": "2024-09-04T09:00:00.000Z",
+      "id": "ac13a9225bb7a785bf7026a5ad93a7a8"
+    }
+  ]
+}

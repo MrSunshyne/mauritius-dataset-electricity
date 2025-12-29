@@ -1,0 +1,67 @@
+{
+  "slug": "belle-terre",
+  "name": "BELLE TERRE",
+  "district": "plainewilhems",
+  "generated": "2025-12-29T20:21:02.504Z",
+  "outageCount": 8,
+  "firstOutage": "2023-08-25",
+  "lastOutage": "2025-11-04",
+  "outages": [
+    {
+      "date": "Le mardi 4 novembre 2025 de  15:30:00 à  17:30:00",
+      "streets": "VRS 2 Belle Terre",
+      "from": "2025-11-04T11:30:00.000Z",
+      "to": "2025-11-04T13:30:00.000Z",
+      "id": "f362be4730d1718029c4fb52b4cd8c14"
+    },
+    {
+      "date": "Le mercredi 27 novembre 2024 de  09:00:00 à  16:00:00",
+      "streets": "Pandit Nehru Road, Sir S.Ramgoolam, Belle Terre",
+      "from": "2024-11-27T05:00:00.000Z",
+      "to": "2024-11-27T12:00:00.000Z",
+      "id": "3a74217c63540e3cff02eb673c9175be"
+    },
+    {
+      "date": "Le dimanche 1 septembre 2024 de  08:30:00 à  16:00:00",
+      "streets": "VRS BELLE TERRE.",
+      "from": "2024-09-01T04:30:00.000Z",
+      "to": "2024-09-01T12:00:00.000Z",
+      "id": "243f8ff8d15ce7b8bb616c5cb0606949"
+    },
+    {
+      "date": "Le dimanche 11 août 2024 de  08:30:00 à  16:00:00",
+      "streets": "VRS BELLE TERRE",
+      "from": "2024-08-11T04:30:00.000Z",
+      "to": "2024-08-11T12:00:00.000Z",
+      "id": "12799499453a6b91bd67cb55554b06e1"
+    },
+    {
+      "date": "Le dimanche 5 mai 2024 de  08:30:00 à  16:00:00",
+      "streets": "BELLE-TERRE",
+      "from": "2024-05-05T04:30:00.000Z",
+      "to": "2024-05-05T12:00:00.000Z",
+      "id": "3a861ce51eb59af53d8714caf911a57b"
+    },
+    {
+      "date": "Le samedi 3 février 2024 de  08:27:00 à  09:30:00",
+      "streets": "MORC VRS BELLE TERRE",
+      "from": "2024-02-03T04:27:00.000Z",
+      "to": "2024-02-03T05:30:00.000Z",
+      "id": "3bbf8dd028098feadc26f1d63221c239"
+    },
+    {
+      "date": "Le mercredi 15 novembre 2023 de  09:00:00 à  11:00:00",
+      "streets": "BELLE TERRE HIGHLANDS",
+      "from": "2023-11-15T05:00:00.000Z",
+      "to": "2023-11-15T07:00:00.000Z",
+      "id": "dd426ea85e32d3c859986918b2ae1c0f"
+    },
+    {
+      "date": "Le vendredi 25 août 2023 de  10:00:00 à  11:30:00",
+      "streets": "MORC VRS",
+      "from": "2023-08-25T06:00:00.000Z",
+      "to": "2023-08-25T07:30:00.000Z",
+      "id": "2992a8918b6d989491991946dd1156fa"
+    }
+  ]
+}

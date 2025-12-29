@@ -1,0 +1,53 @@
+{
+  "slug": "wolmar",
+  "name": "WOLMAR",
+  "district": "blackriver",
+  "generated": "2025-12-29T20:21:02.856Z",
+  "outageCount": 6,
+  "firstOutage": "2023-10-11",
+  "lastOutage": "2025-12-11",
+  "outages": [
+    {
+      "date": "Le jeudi 11 décembre 2025 de  08:30:00 à  17:15:00",
+      "streets": "ROUTE COTIERE WOLMAR, PEARL BEACH HOTEL, AVE CARRIERE, AVE DES MANGUIERS, CAP OUEST, PIVOT BASSIN FLEUR, EMTEL CLARENCE ET CHASSEE DE WOLMAR",
+      "from": "2025-12-11T04:30:00.000Z",
+      "to": "2025-12-11T13:15:00.000Z",
+      "id": "bb279598b484625361d07d6b897ada21"
+    },
+    {
+      "date": "Le dimanche 6 avril 2025 de  08:30:00 à  15:30:00",
+      "streets": "la Route Cotière Wolmar, Pearl Beach Hotel, Ave Carrière, Ave des Manguiers, Cap Ouest et Chassée de Wolmar",
+      "from": "2025-04-06T04:30:00.000Z",
+      "to": "2025-04-06T11:30:00.000Z",
+      "id": "48bae8b47edcd528d5a869651c54044e"
+    },
+    {
+      "date": "Le samedi 1 février 2025 de  17:00:00 à  22:00:00",
+      "streets": "RESIDENCE CAP OUEST NEAR PEARL BEACH HOTEL.",
+      "from": "2025-02-01T13:00:00.000Z",
+      "to": "2025-02-01T18:00:00.000Z",
+      "id": "8f3aa81c13c113926f2c9dc789ba6566"
+    },
+    {
+      "date": "Le samedi 1 février 2025 de  05:00:00 à  16:15:00",
+      "streets": "WOLMAR",
+      "from": "2025-02-01T01:00:00.000Z",
+      "to": "2025-02-01T12:15:00.000Z",
+      "id": "4e45b2aecca747771919fc5d835d99c5"
+    },
+    {
+      "date": "Le vendredi 31 janvier 2025 de  13:30:00 à  20:00:00",
+      "streets": "WOLMAR",
+      "from": "2025-01-31T09:30:00.000Z",
+      "to": "2025-01-31T16:00:00.000Z",
+      "id": "52a7a661d1fb4a77820f0dee6d8aa0c3"
+    },
+    {
+      "date": "Le mercredi 11 octobre 2023 de  09:00:00 à  12:00:00",
+      "streets": "WOLAMR -MAROUSSEM FLIC EN FLAC",
+      "from": "2023-10-11T05:00:00.000Z",
+      "to": "2023-10-11T08:00:00.000Z",
+      "id": "8be13c238f7a560368aabbc7cfe51e76"
+    }
+  ]
+}

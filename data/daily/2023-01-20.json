@@ -1,0 +1,48 @@
+{
+  "date": "2023-01-20",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.371Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le vendredi 20 janvier 2023 de  20:00:00 à  23:00:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "MORC LORETTE MAHEBOURGH",
+      "district": "grandport",
+      "from": "2023-01-20T16:00:00.000Z",
+      "to": "2023-01-20T19:00:00.000Z",
+      "id": "4c5c5a43a6f6dd5b1c3b5bd07176a5ed"
+    },
+    {
+      "date": "Le vendredi 20 janvier 2023 de  11:00:00 à  13:00:00",
+      "locality": "TOUR KOENIG",
+      "localitySlug": "tour-koenig",
+      "streets": "LA TOUR KOENIG",
+      "district": "portlouis",
+      "from": "2023-01-20T07:00:00.000Z",
+      "to": "2023-01-20T09:00:00.000Z",
+      "id": "9d7a40f1467fb6db1e7e7f378425d540"
+    },
+    {
+      "date": "Le vendredi 20 janvier 2023 de  11:15:00 à  14:00:00",
+      "locality": "COTTAGE",
+      "localitySlug": "cottage",
+      "streets": "COTTAGE",
+      "district": "rivieredurempart",
+      "from": "2023-01-20T07:15:00.000Z",
+      "to": "2023-01-20T10:00:00.000Z",
+      "id": "a482819ab1f492c02ff1bf70fdcb2a3a"
+    },
+    {
+      "date": "Le vendredi 20 janvier 2023 de  09:00:00 à  15:00:00",
+      "locality": "SAINT AUBIN",
+      "localitySlug": "saint-aubin",
+      "streets": "Ducomer",
+      "district": "savanne",
+      "from": "2023-01-20T05:00:00.000Z",
+      "to": "2023-01-20T11:00:00.000Z",
+      "id": "f1f39194dc97c4ff1f92f163a226f39e"
+    }
+  ]
+}

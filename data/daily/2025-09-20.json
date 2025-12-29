@@ -1,0 +1,48 @@
+{
+  "date": "2025-09-20",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.440Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le samedi 20 septembre 2025 de  08:30:00 à  16:00:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "La Zone Industrielle Bambous, Montagne St Pierre Crematorium, Dakri Paper, Morc VRS Bambous et une partie de la Route Geoffroy",
+      "district": "blackriver",
+      "from": "2025-09-20T04:30:00.000Z",
+      "to": "2025-09-20T12:00:00.000Z",
+      "id": "1723a9e460da75f2610d50c32e48effa"
+    },
+    {
+      "date": "Le samedi 20 septembre 2025 de  09:00:00 à  14:30:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "Dans les environs de Morc Ripailles, Route royale et lEcole Hampstaed",
+      "district": "pamplemousses",
+      "from": "2025-09-20T05:00:00.000Z",
+      "to": "2025-09-20T10:30:00.000Z",
+      "id": "ab32204dffee7e0494055cb24ffaebcd"
+    },
+    {
+      "date": "Le samedi 20 septembre 2025 de  08:30:00 à  14:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave Stanley, Hitchcock, Farquhar, Naz, Victoria Heights et Island Focus",
+      "district": "plainewilhems",
+      "from": "2025-09-20T04:30:00.000Z",
+      "to": "2025-09-20T10:00:00.000Z",
+      "id": "134ab9a77c82a6eef60fb0b30fcadef4"
+    },
+    {
+      "date": "Le samedi 20 septembre 2025 de  08:30:00 à  15:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "DANS LES ENVIRONS DES AVENUES PIGEON, HOMARD, JEAN BLAIZE, STERLING SILVER, BEGONIA, FLORIBUNDA, ALBATROSS,RESIDENCE COQUILLAGE ET RESIDENCE LA TOURELLE",
+      "district": "portlouis",
+      "from": "2025-09-20T04:30:00.000Z",
+      "to": "2025-09-20T11:00:00.000Z",
+      "id": "5d6d224e85ec6f5006a8c449b99ea439"
+    }
+  ]
+}

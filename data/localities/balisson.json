@@ -1,0 +1,60 @@
+{
+  "slug": "balisson",
+  "name": "BALISSON",
+  "district": "grandport",
+  "generated": "2025-12-29T20:21:02.480Z",
+  "outageCount": 7,
+  "firstOutage": "2022-03-22",
+  "lastOutage": "2025-07-15",
+  "outages": [
+    {
+      "date": "Le mardi 15 juillet 2025 de  03:00:00 à  12:00:00",
+      "streets": "SHIVALA ROAD ET LES ALENTOURS",
+      "from": "2025-07-14T23:00:00.000Z",
+      "to": "2025-07-14T08:00:00.000Z",
+      "id": "6ae69aa510f44d0d526950f41109931f"
+    },
+    {
+      "date": "Le mercredi 25 juin 2025 de  05:20:00 à  14:00:00",
+      "streets": "BALISSON ROSE BELLE DANS LES ENVIRONS STATION POMPIER.",
+      "from": "2025-06-25T01:20:00.000Z",
+      "to": "2025-06-25T10:00:00.000Z",
+      "id": "5b4050b88c5ea1cc700c74fbeb8e3c8d"
+    },
+    {
+      "date": "Le jeudi 29 février 2024 de  10:55:00 à  14:55:00",
+      "streets": "BOUGAINVILLE BALISSON",
+      "from": "2024-02-29T06:55:00.000Z",
+      "to": "2024-02-29T10:55:00.000Z",
+      "id": "30fa96213cab6b0bab3916103541c452"
+    },
+    {
+      "date": "Le vendredi 27 octobre 2023 de  08:30:00 à  17:30:00",
+      "streets": "NHDC Balisson, Chemin Wireless & Morc VRS Union Park",
+      "from": "2023-10-27T04:30:00.000Z",
+      "to": "2023-10-27T13:30:00.000Z",
+      "id": "8780f49c0050cf529de8334221c522c9"
+    },
+    {
+      "date": "Le vendredi 23 décembre 2022 de  09:30:00 à  11:30:00",
+      "streets": "MORC LES JARDINS BALISSON",
+      "from": "2022-12-23T05:30:00.000Z",
+      "to": "2022-12-23T07:30:00.000Z",
+      "id": "94bdeeee81de858d0ac681ddb5f52518"
+    },
+    {
+      "date": "Le jeudi 21 avril 2022 de  09:30:00 à  12:00:00",
+      "streets": "Ramjeet Lane Balisson et Résidence Mon Rose Balisson",
+      "from": "2022-04-21T05:30:00.000Z",
+      "to": "2022-04-21T08:00:00.000Z",
+      "id": "8c6562821de56b3f963139b327958a0a"
+    },
+    {
+      "date": "Le mardi 22 mars 2022 de  07:00:00 à  12:00:00",
+      "streets": "Balisson, Marie Jeannie et une partie de Rose Belle",
+      "from": "2022-03-22T03:00:00.000Z",
+      "to": "2022-03-22T08:00:00.000Z",
+      "id": "a5f4f026db4a442b66e663207c729db5"
+    }
+  ]
+}

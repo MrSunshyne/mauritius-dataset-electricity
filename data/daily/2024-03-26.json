@@ -1,0 +1,68 @@
+{
+  "date": "2024-03-26",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.404Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le mardi 26 mars 2024 de  11:00:00 à  13:00:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "MORC BELOUGUET",
+      "district": "blackriver",
+      "from": "2024-03-26T07:00:00.000Z",
+      "to": "2024-03-26T09:00:00.000Z",
+      "id": "2dc049f9e5fd5eaef40ffb14fd276e79"
+    },
+    {
+      "date": "Le mardi 26 mars 2024 de  14:40:00 à  15:40:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "DOCKERS FLAT, ROYAL ROAD, PELICAN ST, PENGUIN ST ET LES ALENTOURS",
+      "district": "pamplemousses",
+      "from": "2024-03-26T10:40:00.000Z",
+      "to": "2024-03-26T11:40:00.000Z",
+      "id": "ec64b38248b6a43babe0527891b0aa89"
+    },
+    {
+      "date": "Le mardi 26 mars 2024 de  15:30:00 à  17:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Zone industrielle et Valentina Road Phoenix",
+      "district": "plainewilhems",
+      "from": "2024-03-26T11:30:00.000Z",
+      "to": "2024-03-26T13:00:00.000Z",
+      "id": "88b82038cf9ff2ff96cfdcce9840b486"
+    },
+    {
+      "date": "Le mardi 26 mars 2024 de  09:30:00 à  11:00:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "MAHATMA GANDHI LANE",
+      "district": "rivieredurempart",
+      "from": "2024-03-26T05:30:00.000Z",
+      "to": "2024-03-26T07:00:00.000Z",
+      "id": "2fe12ccf024bed8cf2b36802e98ea639"
+    },
+    {
+      "date": "Le mardi 26 mars 2024 de  09:25:00 à  10:30:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "Coastal Road Near Vieux Moulin",
+      "district": "rivieredurempart",
+      "from": "2024-03-26T05:25:00.000Z",
+      "to": "2024-03-26T06:30:00.000Z",
+      "id": "c405fa77c380b529bc5fb85b96988baf"
+    },
+    {
+      "date": "Le mardi 26 mars 2024 de  12:00:00 à  13:00:00",
+      "locality": "PORT MATHURIN(RODRIGUES)",
+      "localitySlug": "port-mathurin",
+      "streets": "LES ENVIRONS DE LA RUE MAX LUCHESI",
+      "district": "rodrigues",
+      "from": "2024-03-26T08:00:00.000Z",
+      "to": "2024-03-26T09:00:00.000Z",
+      "id": "19e468b437f1eab2548cabadbac39439"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "english-bay",
+  "name": "ENGLISH BAY(RODRIGUES)",
+  "district": "rodrigues",
+  "generated": "2025-12-29T20:21:02.595Z",
+  "outageCount": 7,
+  "firstOutage": "2022-06-24",
+  "lastOutage": "2025-11-28",
+  "outages": [
+    {
+      "date": "Le vendredi 28 novembre 2025 de  08:30:00 à  10:00:00",
+      "streets": "Terre Rouge (Morcellement), Caverne Provert et Jean Tac",
+      "from": "2025-11-28T04:30:00.000Z",
+      "to": "2025-11-28T06:00:00.000Z",
+      "id": "44c1754005665209c1e1e53d410884a7"
+    },
+    {
+      "date": "Le mercredi 5 mars 2025 de  09:00:00 à  14:00:00",
+      "streets": "Creve Coeur et English Bay",
+      "from": "2025-03-05T05:00:00.000Z",
+      "to": "2025-03-05T10:00:00.000Z",
+      "id": "c808ae5b3703cbb30c9e388bd977857f"
+    },
+    {
+      "date": "Le mercredi 15 janvier 2025 de  14:00:00 à  15:00:00",
+      "streets": "Morcellement Terre Rouge,Baladirou, Montagne Goyaves,Dans Bebe et Orange-Planned",
+      "from": "2025-01-15T10:00:00.000Z",
+      "to": "2025-01-15T11:00:00.000Z",
+      "id": "e44270c236383fce07e8634477577bb0"
+    },
+    {
+      "date": "Le mercredi 15 janvier 2025 de  08:00:00 à  09:00:00",
+      "streets": "Morcellement Terre Rouge,Baladirou, Montagne Goyaves,Dans Bebe et Orange-Planned",
+      "from": "2025-01-15T04:00:00.000Z",
+      "to": "2025-01-15T05:00:00.000Z",
+      "id": "1198eaf011bede12d97f07d8bc4b8a2f"
+    },
+    {
+      "date": "Le vendredi 24 novembre 2023 de  12:00:00 à  19:00:00",
+      "streets": "ENGLISH BAY (ANSE AUX ANGLAIS), RODRIGUES.",
+      "from": "2023-11-24T08:00:00.000Z",
+      "to": "2023-11-24T15:00:00.000Z",
+      "id": "f8add8952250d21ca5e6494241a5c7aa"
+    },
+    {
+      "date": "Le lundi 27 juin 2022 de  12:00:00 à  16:00:00",
+      "streets": "English Bay",
+      "from": "2022-06-27T08:00:00.000Z",
+      "to": "2022-06-27T12:00:00.000Z",
+      "id": "c67a75ee8e1b9b1205c7fcef394b126a"
+    },
+    {
+      "date": "Le vendredi 24 juin 2022 de  12:00:00 à  16:00:00",
+      "streets": "English Bay",
+      "from": "2022-06-24T08:00:00.000Z",
+      "to": "2022-06-24T12:00:00.000Z",
+      "id": "1af8da9ac96e7be111942de687371fe1"
+    }
+  ]
+}

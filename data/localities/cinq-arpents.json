@@ -1,0 +1,53 @@
+{
+  "slug": "cinq-arpents",
+  "name": "CINQ ARPENTS",
+  "district": "plainewilhems",
+  "generated": "2025-12-29T20:21:02.559Z",
+  "outageCount": 6,
+  "firstOutage": "2022-06-05",
+  "lastOutage": "2024-12-30",
+  "outages": [
+    {
+      "date": "Le lundi 30 décembre 2024 de  09:00:00 à  16:00:00",
+      "streets": "Cinq Arpents",
+      "from": "2024-12-30T05:00:00.000Z",
+      "to": "2024-12-30T12:00:00.000Z",
+      "id": "e6cc36a5ecd027f1a3dd0f3777f7e624"
+    },
+    {
+      "date": "Le lundi 11 septembre 2023 de  14:10:00 à  15:30:00",
+      "streets": "LES ABONNES DE MORCELLEMENT SERRET, CINQ ARPENTS.",
+      "from": "2023-09-11T10:10:00.000Z",
+      "to": "2023-09-11T11:30:00.000Z",
+      "id": "b0efe8fa32e494af485d8bfb17a05ace"
+    },
+    {
+      "date": "Le samedi 15 juillet 2023 de  08:10:00 à  09:30:00",
+      "streets": "LES ABONNES DANS LA REGION DE RAGOONUNDUN STORE",
+      "from": "2023-07-15T04:10:00.000Z",
+      "to": "2023-07-15T05:30:00.000Z",
+      "id": "538c24c89a5821e2062a6838f5f50241"
+    },
+    {
+      "date": "Le mercredi 29 mars 2023 de  09:00:00 à  15:00:00",
+      "streets": "Avenue des Orchidées, Avenue Albert Einstein, Avenue Abdul kalam, Avenue Jean Marie Leclezio, Avenue William Shakespeare, Avenue Nelson Mandela, Avenue de la République, Avenue Arc En Ciel, Avenue L’indépendance, Avenue Manilall Doctor, Avenue Aloevera, Avenue Bulbul, Avenue Paille en Queue, Avenue Crécerelle, Morc Sumputh, Avenue Pigeon Rose",
+      "from": "2023-03-29T05:00:00.000Z",
+      "to": "2023-03-29T11:00:00.000Z",
+      "id": "5fe555dd703921a943a698aa9a075ef1"
+    },
+    {
+      "date": "Le jeudi 29 décembre 2022 de  13:25:00 à  14:30:00",
+      "streets": "CINQ ARPENTS NEAR KALIMAYE",
+      "from": "2022-12-29T09:25:00.000Z",
+      "to": "2022-12-29T10:30:00.000Z",
+      "id": "6c41255630a8483d6fcb46bf4f6e8968"
+    },
+    {
+      "date": "Le dimanche 5 juin 2022 de  08:30:00 à  16:00:00",
+      "streets": "Morcellement VRS SLDC No. 2 Cinq Arpents habitants les régions et les rues suivantes : Une partie de Morc Plaines De L’Hermitage, Avenue Aloe vera, Avenue Paille en Queue, Avenue Bulbul, Avenue Crecerelle, Avenue Pigeon Rose, Morc Sumputh",
+      "from": "2022-06-05T04:30:00.000Z",
+      "to": "2022-06-05T12:00:00.000Z",
+      "id": "6694e12c3b9306bbba98698a646f1152"
+    }
+  ]
+}

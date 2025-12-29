@@ -1,0 +1,88 @@
+{
+  "date": "2025-03-19",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.431Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le mercredi 19 mars 2025 de  09:20:00 à  13:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "AVE DES AIGRETTES AND SURROUNDINGS",
+      "district": "blackriver",
+      "from": "2025-03-19T05:20:00.000Z",
+      "to": "2025-03-19T09:00:00.000Z",
+      "id": "d12e024ae57780286b8f7090232712d7"
+    },
+    {
+      "date": "Le mercredi 19 mars 2025 de  11:30:00 à  13:00:00",
+      "locality": "BELLE MARE",
+      "localitySlug": "belle-mare",
+      "streets": "CREMATION RD BELLE MARE",
+      "district": "flacq",
+      "from": "2025-03-19T07:30:00.000Z",
+      "to": "2025-03-19T09:00:00.000Z",
+      "id": "c77f92041c6b3e9bbbc59064c510b4c8"
+    },
+    {
+      "date": "Le mercredi 19 mars 2025 de  14:00:00 à  16:30:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "CEMETERY RD, LESCALIER RD, BASALT, GSS AND SURROUNDINGS",
+      "district": "grandport",
+      "from": "2025-03-19T10:00:00.000Z",
+      "to": "2025-03-19T12:30:00.000Z",
+      "id": "aad7d7307ea438963a7a66d44f9bc8cf"
+    },
+    {
+      "date": "Le mercredi 19 mars 2025 de  14:00:00 à  16:30:00",
+      "locality": "UNION VALE",
+      "localitySlug": "union-vale",
+      "streets": "PART ON UNION VALE",
+      "district": "grandport",
+      "from": "2025-03-19T10:00:00.000Z",
+      "to": "2025-03-19T12:30:00.000Z",
+      "id": "23399fa187981ddcf3921c226b2c2cad"
+    },
+    {
+      "date": "Le mercredi 19 mars 2025 de  09:00:00 à  11:00:00",
+      "locality": "NOTRE DAME",
+      "localitySlug": "notre-dame",
+      "streets": "CHANTIER NOTRE DAME AND SURROUNDINGS",
+      "district": "pamplemousses",
+      "from": "2025-03-19T05:00:00.000Z",
+      "to": "2025-03-19T07:00:00.000Z",
+      "id": "128d7e6c788ed7d5774aa6fcb26f96c8"
+    },
+    {
+      "date": "Le mercredi 19 mars 2025 de  01:30:00 à  14:00:00",
+      "locality": "FOND DU SAC",
+      "localitySlug": "fond-du-sac",
+      "streets": "SOOBASH CHANDRA BOSE -TAGORE RD- BRANCHE RD, PART OF FOND DU SAC",
+      "district": "pamplemousses",
+      "from": "2025-03-18T21:30:00.000Z",
+      "to": "2025-03-18T10:00:00.000Z",
+      "id": "2d106450e7041b9ab59db5f406249cd5"
+    },
+    {
+      "date": "Le mercredi 19 mars 2025 de  09:30:00 à  10:15:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "PIERREFONDS VILLAGE, LA SERRINGUE AND SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2025-03-19T05:30:00.000Z",
+      "to": "2025-03-19T06:15:00.000Z",
+      "id": "71a1062dfc7afdcb982d7e4756768af8"
+    },
+    {
+      "date": "Le mercredi 19 mars 2025 de  12:10:00 à  13:30:00",
+      "locality": "BOIS CHERI",
+      "localitySlug": "bois-cheri",
+      "streets": "ROYAL ROAD AND SURROUNDINGS",
+      "district": "savanne",
+      "from": "2025-03-19T08:10:00.000Z",
+      "to": "2025-03-19T09:30:00.000Z",
+      "id": "76690629f72d4f7129645f5e4297f21b"
+    }
+  ]
+}

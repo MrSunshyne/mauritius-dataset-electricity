@@ -1,0 +1,58 @@
+{
+  "date": "2023-07-13",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.384Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le jeudi 13 juillet 2023 de  08:30:00 à  16:30:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "LES ABONNES DANS LES ENVIRONS DE MORCELLEMENT RAMDANEE.",
+      "district": "blackriver",
+      "from": "2023-07-13T04:30:00.000Z",
+      "to": "2023-07-13T12:30:00.000Z",
+      "id": "f569d50270c062a0caea8ed4f9ca009e"
+    },
+    {
+      "date": "Le jeudi 13 juillet 2023 de  09:00:00 à  17:00:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "Balisson et Rose Belle habitant dans le périmètre et les rues suivantes: NHDC Balisson, Residence Mon Rose, Cité CHA, Morcellement Orchidées, Morcellement Relogement Mare Chicose, Ramjeet Lane, Chemin Lalljee et la Route Royale Balisson et Marie Jeannie",
+      "district": "grandport",
+      "from": "2023-07-13T05:00:00.000Z",
+      "to": "2023-07-13T13:00:00.000Z",
+      "id": "2239bc37d4b43e24d8007affe58d8214"
+    },
+    {
+      "date": "Le jeudi 13 juillet 2023 de  19:30:00 à  00:00:00",
+      "locality": "TROIS BOUTIQUES TRIOLET",
+      "localitySlug": "trois-boutiques-triolet",
+      "streets": "TROIS BOUTIQUES TRIOLET",
+      "district": "pamplemousses",
+      "from": "2023-07-13T15:30:00.000Z",
+      "to": "2023-07-12T20:00:00.000Z",
+      "id": "30e72adc2996b57d5b03cfa4e186e92d"
+    },
+    {
+      "date": "Le jeudi 13 juillet 2023 de  09:00:00 à  12:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "Les abonnés de Floreal habitant les régions et les rues suivantes : Hausse de la Louvière, flat Levieux et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-07-13T05:00:00.000Z",
+      "to": "2023-07-13T08:00:00.000Z",
+      "id": "98bce73a8804c2dfcfb42bd4bf0d0e9b"
+    },
+    {
+      "date": "Le jeudi 13 juillet 2023 de  15:00:00 à  17:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "Les abonnés de Floreal habitant les régions et les rues suivantes :  Partie de la Hausse de la Louvrière, flat Belvédère 2 et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-07-13T11:00:00.000Z",
+      "to": "2023-07-13T13:00:00.000Z",
+      "id": "4a6eb89601c76c37290b8bf35e5c37e0"
+    }
+  ]
+}

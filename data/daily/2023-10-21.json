@@ -1,0 +1,78 @@
+{
+  "date": "2023-10-21",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.391Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le samedi 21 octobre 2023 de  08:30:00 à  15:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "AVE DES NAIRAC, ELLIPEE ROAD, AVE DES SOURCES, AVE LA FERME, AVE DES LAVANDIERES, AVE DES GRILLONS ET UNE PARTIE DE LA ROUTE GEOFFROY",
+      "district": "blackriver",
+      "from": "2023-10-21T04:30:00.000Z",
+      "to": "2023-10-21T11:30:00.000Z",
+      "id": "5f878985e07754e36486fb19ab6e6279"
+    },
+    {
+      "date": "Le samedi 21 octobre 2023 de  12:30:00 à  14:00:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "ROYAL ROAD BAMBOUS NR SSS",
+      "district": "blackriver",
+      "from": "2023-10-21T08:30:00.000Z",
+      "to": "2023-10-21T10:00:00.000Z",
+      "id": "2ad90302141e84297e07eed9879aa128"
+    },
+    {
+      "date": "Le samedi 21 octobre 2023 de  08:00:00 à  16:00:00",
+      "locality": "UNION PARK",
+      "localitySlug": "union-park",
+      "streets": "region union park",
+      "district": "grandport",
+      "from": "2023-10-21T04:00:00.000Z",
+      "to": "2023-10-21T12:00:00.000Z",
+      "id": "adcc8371c68b83da370959a5c5830f08"
+    },
+    {
+      "date": "Le samedi 21 octobre 2023 de  11:00:00 à  13:00:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "CANTONANCY PAMPLEMOUSSES",
+      "district": "pamplemousses",
+      "from": "2023-10-21T07:00:00.000Z",
+      "to": "2023-10-21T09:00:00.000Z",
+      "id": "b1b9a7580e54f4ea3b839604c3f14275"
+    },
+    {
+      "date": "Le samedi 21 octobre 2023 de  09:00:00 à  15:30:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "LE VILLAGE DE PEREYBERE",
+      "district": "rivieredurempart",
+      "from": "2023-10-21T05:00:00.000Z",
+      "to": "2023-10-21T11:30:00.000Z",
+      "id": "cf597f736c7ee34ef844c56c30c61a71"
+    },
+    {
+      "date": "Le samedi 21 octobre 2023 de  08:00:00 à  15:00:00",
+      "locality": "BAY MALGACHE(RODRIGUES)",
+      "localitySlug": "bay-malgache",
+      "streets": "BAIE MALGACHE",
+      "district": "rodrigues",
+      "from": "2023-10-21T04:00:00.000Z",
+      "to": "2023-10-21T11:00:00.000Z",
+      "id": "0ed0de6f3ccd5e40976a6671d15ca1d4"
+    },
+    {
+      "date": "Le samedi 21 octobre 2023 de  15:00:00 à  16:00:00",
+      "locality": "BAY MALGACHE(RODRIGUES)",
+      "localitySlug": "bay-malgache",
+      "streets": "POINTE LHERBE, ACCACIA, BAIE AUX HUITRES, BAIE DIAMAND, ANSE GOELAND, BAIE DU NORD",
+      "district": "rodrigues",
+      "from": "2023-10-21T11:00:00.000Z",
+      "to": "2023-10-21T12:00:00.000Z",
+      "id": "19777d52c2d6a3841d5f9ec5265a2884"
+    }
+  ]
+}

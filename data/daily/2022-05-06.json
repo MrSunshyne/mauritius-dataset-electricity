@@ -1,0 +1,58 @@
+{
+  "date": "2022-05-06",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.354Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le vendredi 6 mai 2022 de  09:00:00 à  14:00:00",
+      "locality": "DAGOTIERE",
+      "localitySlug": "dagotiere",
+      "streets": "Les abonnés du village de Dagotière habitant Morcellement MDA",
+      "district": "moka",
+      "from": "2022-05-06T05:00:00.000Z",
+      "to": "2022-05-06T10:00:00.000Z",
+      "id": "539280917da99c6ca53820cfa78fa0be"
+    },
+    {
+      "date": "Le vendredi 6 mai 2022 de  09:00:00 à  17:00:00",
+      "locality": "CAMP THOREL",
+      "localitySlug": "camp-thorel",
+      "streets": "Camp Thorel",
+      "district": "moka",
+      "from": "2022-05-06T05:00:00.000Z",
+      "to": "2022-05-06T13:00:00.000Z",
+      "id": "0c6c1d4467b12ad006b4cded4b5b2bef"
+    },
+    {
+      "date": "Le vendredi 6 mai 2022 de  09:30:00 à  15:30:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "Temple Rd LAgrement, Market Lane, Cite Ste Catherine, Morc Desmarais, Shivala LAgrement, M.S.A. St Pierre, NHDC Circonstance, LPG Circonstance et Morc Frangipanes",
+      "district": "moka",
+      "from": "2022-05-06T05:30:00.000Z",
+      "to": "2022-05-06T11:30:00.000Z",
+      "id": "5643f4dc1f80b947684902c0a6ada35f"
+    },
+    {
+      "date": "Le vendredi 6 mai 2022 de  15:00:00 à  18:00:00",
+      "locality": "SOLFERINO",
+      "localitySlug": "solferino",
+      "streets": "SOLFERINO NO 5 : Morc Eden, une partie de Route Royale Camp Pave, Hibuscus Lane No. 1, No. 2 et No. 3 et les environs",
+      "district": "plainewilhems",
+      "from": "2022-05-06T11:00:00.000Z",
+      "to": "2022-05-06T14:00:00.000Z",
+      "id": "6f2c4122b5197cd55638fa3566e046da"
+    },
+    {
+      "date": "Le vendredi 6 mai 2022 de  08:30:00 à  15:30:00",
+      "locality": "AMITIE",
+      "localitySlug": "amitie",
+      "streets": "dans les environs de Bramsthan road et Royal road",
+      "district": "rivieredurempart",
+      "from": "2022-05-06T04:30:00.000Z",
+      "to": "2022-05-06T11:30:00.000Z",
+      "id": "8408cbcc7e4da1f197606047c045812b"
+    }
+  ]
+}

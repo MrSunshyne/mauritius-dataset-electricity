@@ -1,0 +1,38 @@
+{
+  "date": "2025-06-21",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.433Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le samedi 21 juin 2025 de  10:00:00 à  14:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "AVENUE CUTTY SHARK MORC RAFFRAY ALBION",
+      "district": "blackriver",
+      "from": "2025-06-21T06:00:00.000Z",
+      "to": "2025-06-21T10:00:00.000Z",
+      "id": "175ca79adb6ed06a78cdf869915141ff"
+    },
+    {
+      "date": "Le samedi 21 juin 2025 de  11:00:00 à  14:00:00",
+      "locality": "BOIS PIGNOLET",
+      "localitySlug": "bois-pignolet",
+      "streets": "FLORIDA LANE BOIS PIGNOLET NR SHIVALAH",
+      "district": "pamplemousses",
+      "from": "2025-06-21T07:00:00.000Z",
+      "to": "2025-06-21T10:00:00.000Z",
+      "id": "e8f907e240dbf5de3307247d5d54f02b"
+    },
+    {
+      "date": "Le samedi 21 juin 2025 de  19:00:00 à  22:30:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "9EME MILE /TERMINUS TRIOLET",
+      "district": "pamplemousses",
+      "from": "2025-06-21T15:00:00.000Z",
+      "to": "2025-06-21T18:30:00.000Z",
+      "id": "4ad2421db6ce1b232423143a5967504a"
+    }
+  ]
+}

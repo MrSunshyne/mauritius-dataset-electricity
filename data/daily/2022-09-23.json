@@ -1,0 +1,58 @@
+{
+  "date": "2022-09-23",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.363Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le vendredi 23 septembre 2022 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "Morc St Jacques - Ave St Pierre, Ave des Frangipanes, Ave Alamandas, Ave des Palmiers et Ave des Filaos",
+      "district": "blackriver",
+      "from": "2022-09-23T04:30:00.000Z",
+      "to": "2022-09-23T11:30:00.000Z",
+      "id": "2ec945a81e53d2e397b3dff6a08e89fa"
+    },
+    {
+      "date": "Le vendredi 23 septembre 2022 de  09:00:00 à  16:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "Plaine Magnien habitant dans le périmètre et les rues suivantes: Church Street, Shivala Street, Mooljee Street, Lamusse Street, Bois D’Oiseaux Street, Ramnauth Street, Community Health Centre et les rues avoisinantes",
+      "district": "grandport",
+      "from": "2022-09-23T05:00:00.000Z",
+      "to": "2022-09-23T12:00:00.000Z",
+      "id": "228ae374f9b3a967da2ca08125cd4102"
+    },
+    {
+      "date": "Le vendredi 23 septembre 2022 de  16:00:00 à  17:30:00",
+      "locality": "SAUVETERRE",
+      "localitySlug": "sauveterre",
+      "streets": "Sauveterre Village, Malakoff, Plein Bois et une partie de Trois Boutiques",
+      "district": "grandport",
+      "from": "2022-09-23T12:00:00.000Z",
+      "to": "2022-09-23T13:30:00.000Z",
+      "id": "c66431c7f96dcde06f1b4a1d9cfedc5a"
+    },
+    {
+      "date": "Le vendredi 23 septembre 2022 de  09:00:00 à  12:00:00",
+      "locality": "LONG MOUNTAIN",
+      "localitySlug": "long-mountain",
+      "streets": "baillache road",
+      "district": "pamplemousses",
+      "from": "2022-09-23T05:00:00.000Z",
+      "to": "2022-09-23T08:00:00.000Z",
+      "id": "c65c9790e206b891f10bc6494a8ba43b"
+    },
+    {
+      "date": "Le vendredi 23 septembre 2022 de  08:30:00 à  15:30:00",
+      "locality": "PETITE RIVIERE NOIRE",
+      "localitySlug": "petite-riviere-noire",
+      "streets": "Morcellement Multipliant",
+      "district": "plainewilhems",
+      "from": "2022-09-23T04:30:00.000Z",
+      "to": "2022-09-23T11:30:00.000Z",
+      "id": "d2c2273439c66107c26be39dd86c2888"
+    }
+  ]
+}

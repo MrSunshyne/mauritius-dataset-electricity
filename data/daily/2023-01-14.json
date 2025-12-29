@@ -1,0 +1,118 @@
+{
+  "date": "2023-01-14",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.371Z",
+  "outageCount": 11,
+  "outages": [
+    {
+      "date": "Le samedi 14 janvier 2023 de  08:30:00 à  16:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "CWA RESERVOIR, CREMATORIUM MONTAGNE ST PIERRE ET CWA EAUX BONNES",
+      "district": "blackriver",
+      "from": "2023-01-14T04:30:00.000Z",
+      "to": "2023-01-14T12:30:00.000Z",
+      "id": "145396a60066c463cb044595e2b840ff"
+    },
+    {
+      "date": "Le samedi 14 janvier 2023 de  16:00:00 à  16:30:00",
+      "locality": "VERDUN",
+      "localitySlug": "verdun",
+      "streets": "Verdun",
+      "district": "moka",
+      "from": "2023-01-14T12:00:00.000Z",
+      "to": "2023-01-14T12:30:00.000Z",
+      "id": "62eda2df358ee332702ed81180fc90e0"
+    },
+    {
+      "date": "Le samedi 14 janvier 2023 de  08:30:00 à  09:00:00",
+      "locality": "VERDUN",
+      "localitySlug": "verdun",
+      "streets": "Verdun",
+      "district": "moka",
+      "from": "2023-01-14T04:30:00.000Z",
+      "to": "2023-01-14T05:00:00.000Z",
+      "id": "005bb15e6d04de0b92ae89f3fdc703a3"
+    },
+    {
+      "date": "Le samedi 14 janvier 2023 de  11:00:00 à  15:00:00",
+      "locality": "MONTAGNE ORY",
+      "localitySlug": "montagne-ory",
+      "streets": "MONTAGNE ORY",
+      "district": "moka",
+      "from": "2023-01-14T07:00:00.000Z",
+      "to": "2023-01-14T11:00:00.000Z",
+      "id": "a9fb72ff6952eeb33946972567f002bf"
+    },
+    {
+      "date": "Le samedi 14 janvier 2023 de  08:00:00 à  15:30:00",
+      "locality": "SOLITUDE",
+      "localitySlug": "solitude",
+      "streets": "Les abonnés habitant Bassin Solitude et CFL at Solitude",
+      "district": "pamplemousses",
+      "from": "2023-01-14T04:00:00.000Z",
+      "to": "2023-01-14T11:30:00.000Z",
+      "id": "bf67c69cd3235846dae08189d003133c"
+    },
+    {
+      "date": "Le samedi 14 janvier 2023 de  08:30:00 à  15:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Belle Rose, Ave Dr Castel, Leckning et en partie Ave Coriolis et Ollier",
+      "district": "plainewilhems",
+      "from": "2023-01-14T04:30:00.000Z",
+      "to": "2023-01-14T11:00:00.000Z",
+      "id": "239cd3494f2dc2eeefed2c72cfd828ed"
+    },
+    {
+      "date": "Le samedi 14 janvier 2023 de  14:00:00 à  16:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Partie de La Croix, Anderson, partie de Commerson et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-01-14T10:00:00.000Z",
+      "to": "2023-01-14T12:00:00.000Z",
+      "id": "d09425272690f331882cae90fd755833"
+    },
+    {
+      "date": "Le samedi 14 janvier 2023 de  09:00:00 à  14:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Saint Clément, Park Hotel et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-01-14T05:00:00.000Z",
+      "to": "2023-01-14T10:00:00.000Z",
+      "id": "fe0f0038889e0e900fc2edcd8ced6de0"
+    },
+    {
+      "date": "Le samedi 14 janvier 2023 de  11:00:00 à  14:30:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "RUE MADAME,RUE MERE BARTHELEMY",
+      "district": "portlouis",
+      "from": "2023-01-14T07:00:00.000Z",
+      "to": "2023-01-14T10:30:00.000Z",
+      "id": "cd6259c39dab47aee9f19c0bf664e0a1"
+    },
+    {
+      "date": "Le samedi 14 janvier 2023 de  08:00:00 à  15:30:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "dans les environs de Store 2000, Lux Hotel et Residences Oasis",
+      "district": "rivieredurempart",
+      "from": "2023-01-14T04:00:00.000Z",
+      "to": "2023-01-14T11:30:00.000Z",
+      "id": "709b14ba0a332b3bcdf44320a86c1fc2"
+    },
+    {
+      "date": "Le samedi 14 janvier 2023 de  08:30:00 à  15:00:00",
+      "locality": "POMPEE(RODRIGUES)",
+      "localitySlug": "pompee",
+      "streets": "Pompee, Eau Claire, Battue Madam",
+      "district": "rodrigues",
+      "from": "2023-01-14T04:30:00.000Z",
+      "to": "2023-01-14T11:00:00.000Z",
+      "id": "8a644f273823d00c7ac3e1bc30ec8566"
+    }
+  ]
+}

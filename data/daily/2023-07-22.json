@@ -1,0 +1,58 @@
+{
+  "date": "2023-07-22",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.385Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le samedi 22 juillet 2023 de  08:30:00 à  15:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "ALLEE TAMARIN, AVE VAUDAGNE, AVE NAIRAC, GEOFFROY ROAD, AVE LA FERME ET ALLEE JACQUES",
+      "district": "blackriver",
+      "from": "2023-07-22T04:30:00.000Z",
+      "to": "2023-07-22T11:30:00.000Z",
+      "id": "57634b3ce9920ab3c02579f6f7d626cb"
+    },
+    {
+      "date": "Le samedi 22 juillet 2023 de  09:00:00 à  14:30:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "LES ABONNES DE ELIZABETHVILLE BAIE DU TOMBEAU HABITANT DANS LES ENVIRONS DES RUES CARPES, MARSOUINS ET CRABES",
+      "district": "pamplemousses",
+      "from": "2023-07-22T05:00:00.000Z",
+      "to": "2023-07-22T10:30:00.000Z",
+      "id": "cc9ac8291538ad2d4312a0e3b1c66aeb"
+    },
+    {
+      "date": "Le samedi 22 juillet 2023 de  08:30:00 à  16:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "une partie de Willoughby Road, Millitary Barracks Compound",
+      "district": "plainewilhems",
+      "from": "2023-07-22T04:30:00.000Z",
+      "to": "2023-07-22T12:00:00.000Z",
+      "id": "3e446de8a0bbe5637a00d50f7ad4fa1f"
+    },
+    {
+      "date": "Le samedi 22 juillet 2023 de  08:30:00 à  15:30:00",
+      "locality": "POINTE DES LASCARS",
+      "localitySlug": "pointe-des-lascars",
+      "streets": "le village de Pointe des Lascars",
+      "district": "rivieredurempart",
+      "from": "2023-07-22T04:30:00.000Z",
+      "to": "2023-07-22T11:30:00.000Z",
+      "id": "67b642253feaab86eca1cf939cfbba4a"
+    },
+    {
+      "date": "Le samedi 22 juillet 2023 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Saint Gabriel, Latanier, Sainte Famille,Pompee, Eau Claire et Battue Madame",
+      "district": "rodrigues",
+      "from": "2023-07-22T04:30:00.000Z",
+      "to": "2023-07-22T11:00:00.000Z",
+      "id": "c500c6871fd3d6a8700be12d4ed9274d"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "date": "2024-07-19",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.412Z",
+  "outageCount": 10,
+  "outages": [
+    {
+      "date": "Le vendredi 19 juillet 2024 de  11:00:00 à  15:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "CITE RICHE LIEU-OPEN PRISON",
+      "district": "blackriver",
+      "from": "2024-07-19T07:00:00.000Z",
+      "to": "2024-07-19T11:00:00.000Z",
+      "id": "0b53e1a16d62a73e44dce17017351124"
+    },
+    {
+      "date": "Le vendredi 19 juillet 2024 de  09:00:00 à  15:00:00",
+      "locality": "BOIS ROUGE",
+      "localitySlug": "bois-rouge",
+      "streets": "BOIS ROUGE[PAMPLEMOUSSES]-LA LOUISA",
+      "district": "pamplemousses",
+      "from": "2024-07-19T05:00:00.000Z",
+      "to": "2024-07-19T11:00:00.000Z",
+      "id": "b8c05423d9f9fc0181393d1e4c01c3e1"
+    },
+    {
+      "date": "Le vendredi 19 juillet 2024 de  12:30:00 à  14:00:00",
+      "locality": "PLAINE DES PAPAYES",
+      "localitySlug": "plaine-des-papayes",
+      "streets": "JAYPAL RD PL DES PAPAYES",
+      "district": "pamplemousses",
+      "from": "2024-07-19T08:30:00.000Z",
+      "to": "2024-07-19T10:00:00.000Z",
+      "id": "835a846c98f682cec772ffc2b2588801"
+    },
+    {
+      "date": "Le vendredi 19 juillet 2024 de  08:30:00 à  15:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "VACOAS ET FLOREAL: RIVERWALK",
+      "district": "plainewilhems",
+      "from": "2024-07-19T04:30:00.000Z",
+      "to": "2024-07-19T11:00:00.000Z",
+      "id": "5310ec7160336cc8176dae1239646a8a"
+    },
+    {
+      "date": "Le vendredi 19 juillet 2024 de  13:00:00 à  15:00:00",
+      "locality": "CASTEL VACOAS",
+      "localitySlug": "castel-vacoas",
+      "streets": "CAMP FOUQUEEAUX ET CASTEL: CAMP FOUQUEREAUX ROAD ET RESERVOIR ROAD.\t1",
+      "district": "plainewilhems",
+      "from": "2024-07-19T09:00:00.000Z",
+      "to": "2024-07-19T11:00:00.000Z",
+      "id": "c389926456df33d1c45941bf2d9948e9"
+    },
+    {
+      "date": "Le vendredi 19 juillet 2024 de  13:00:00 à  15:00:00",
+      "locality": "CAMP FOUQUEREAUX",
+      "localitySlug": "camp-fouquereaux",
+      "streets": "CAMP FOUQUEEAUX ET CASTEL: CAMP FOUQUEREAUX ROAD ET RESERVOIR ROAD.",
+      "district": "plainewilhems",
+      "from": "2024-07-19T09:00:00.000Z",
+      "to": "2024-07-19T11:00:00.000Z",
+      "id": "562da676eb7335368b442ae6b3c25c05"
+    },
+    {
+      "date": "Le vendredi 19 juillet 2024 de  15:15:00 à  17:15:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "ALLEE CAMPHE ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2024-07-19T11:15:00.000Z",
+      "to": "2024-07-19T13:15:00.000Z",
+      "id": "985eded39fb3823b4577649968aedc65"
+    },
+    {
+      "date": "Le vendredi 19 juillet 2024 de  10:00:00 à  12:00:00",
+      "locality": "CASSIS",
+      "localitySlug": "cassis",
+      "streets": "BAIN DES DAME, CASSIS RD",
+      "district": "portlouis",
+      "from": "2024-07-19T06:00:00.000Z",
+      "to": "2024-07-19T08:00:00.000Z",
+      "id": "46f46af65adc96cae54df4ec98628cb3"
+    },
+    {
+      "date": "Le vendredi 19 juillet 2024 de  11:30:00 à  12:00:00",
+      "locality": "CASSIS",
+      "localitySlug": "cassis",
+      "streets": "STEVENSON RD",
+      "district": "portlouis",
+      "from": "2024-07-19T07:30:00.000Z",
+      "to": "2024-07-19T08:00:00.000Z",
+      "id": "e5c6021de3068952716e38cf863225e3"
+    },
+    {
+      "date": "Le vendredi 19 juillet 2024 de  10:30:00 à  12:30:00",
+      "locality": "CHAMOUNY",
+      "localitySlug": "chamouny",
+      "streets": "KHEDOO LANE, AYAMANDHIR ST AND SURROUNDINGS",
+      "district": "savanne",
+      "from": "2024-07-19T06:30:00.000Z",
+      "to": "2024-07-19T08:30:00.000Z",
+      "id": "897d90723f222db172da0e3f449d4a51"
+    }
+  ]
+}

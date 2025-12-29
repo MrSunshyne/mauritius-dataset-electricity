@@ -1,0 +1,396 @@
+{
+  "slug": "eau-coulee",
+  "name": "EAU COULEE",
+  "district": "plainewilhems",
+  "generated": "2025-12-29T20:21:02.592Z",
+  "outageCount": 55,
+  "firstOutage": "2022-03-23",
+  "lastOutage": "2025-11-22",
+  "outages": [
+    {
+      "date": "Le samedi 22 novembre 2025 de  08:30:00 à  16:00:00",
+      "streets": "une partie de Lapeyrouse et Camp Rouillard",
+      "from": "2025-11-22T04:30:00.000Z",
+      "to": "2025-11-22T12:00:00.000Z",
+      "id": "0dec004e9b9d2067f34b98beb57c723e"
+    },
+    {
+      "date": "Le dimanche 9 novembre 2025 de  08:30:00 à  16:00:00",
+      "streets": "les périmètres et rues suivante : Lapeyrousse street, Ramdin street, La Mairée street, Boundary Lane, Morcellement Cantin, Hazareesingh Lane et Toofany street",
+      "from": "2025-11-09T04:30:00.000Z",
+      "to": "2025-11-09T12:00:00.000Z",
+      "id": "6b6447cdaafb4aa973e5e553f9ca276f"
+    },
+    {
+      "date": "Le vendredi 17 octobre 2025 de  12:00:00 à  15:00:00",
+      "streets": "dans les environs de Quatre Carreaux et une partie de Bisnath lane et Morc Hoosenbux",
+      "from": "2025-10-17T08:00:00.000Z",
+      "to": "2025-10-17T11:00:00.000Z",
+      "id": "fc977b9eefaa4756745b9ab7c751c759"
+    },
+    {
+      "date": "Le mercredi 15 octobre 2025 de  14:00:00 à  14:45:00",
+      "streets": "CAMP ROUILLARD EAU COULEE",
+      "from": "2025-10-15T10:00:00.000Z",
+      "to": "2025-10-15T10:45:00.000Z",
+      "id": "19afa65713a8c7a72fbc32f7153e933a"
+    },
+    {
+      "date": "Le mercredi 17 septembre 2025 de  09:00:00 à  14:00:00",
+      "streets": "dans les environs de Camp Rouillard",
+      "from": "2025-09-17T05:00:00.000Z",
+      "to": "2025-09-17T10:00:00.000Z",
+      "id": "4938c4cc838cfbfe9d1c09e5209e3134"
+    },
+    {
+      "date": "Le vendredi 12 septembre 2025 de  08:30:00 à  15:00:00",
+      "streets": "dans les environs de Engrais Cathan",
+      "from": "2025-09-12T04:30:00.000Z",
+      "to": "2025-09-12T11:00:00.000Z",
+      "id": "b86a0507b050db37491b9a9e1cdefc23"
+    },
+    {
+      "date": "Le mercredi 3 septembre 2025 de  08:30:00 à  15:00:00",
+      "streets": "une partie dEngrais Cathan",
+      "from": "2025-09-03T04:30:00.000Z",
+      "to": "2025-09-03T11:00:00.000Z",
+      "id": "adff02012b01f04c1ec5c6008467654e"
+    },
+    {
+      "date": "Le vendredi 22 août 2025 de  09:00:00 à  10:00:00",
+      "streets": "ANGRAIS CATHAN EAU COULEE",
+      "from": "2025-08-22T05:00:00.000Z",
+      "to": "2025-08-22T06:00:00.000Z",
+      "id": "037b54cecd82655d3ae521a2f1de44fe"
+    },
+    {
+      "date": "Le jeudi 31 juillet 2025 de  09:00:00 à  13:00:00",
+      "streets": "dans les périmètres d’Abbé Laval et Farquhar street",
+      "from": "2025-07-31T05:00:00.000Z",
+      "to": "2025-07-31T09:00:00.000Z",
+      "id": "52506ba680bbbf6c260741f62c4e3363"
+    },
+    {
+      "date": "Le vendredi 27 juin 2025 de  09:00:00 à  13:00:00",
+      "streets": "dans les environs de Camp Rouillard",
+      "from": "2025-06-27T05:00:00.000Z",
+      "to": "2025-06-27T09:00:00.000Z",
+      "id": "4b3b5313fb5676e39e4b91241436e251"
+    },
+    {
+      "date": "Le mardi 24 juin 2025 de  09:15:00 à  10:00:00",
+      "streets": "ROYAL ROAD AND SURROUNDINGS",
+      "from": "2025-06-24T05:15:00.000Z",
+      "to": "2025-06-24T06:00:00.000Z",
+      "id": "29724808116a9589a51bc0e185b3e765"
+    },
+    {
+      "date": "Le mercredi 9 avril 2025 de  09:00:00 à  12:00:00",
+      "streets": "EAU COULEE NR TFP",
+      "from": "2025-04-09T05:00:00.000Z",
+      "to": "2025-04-09T08:00:00.000Z",
+      "id": "2ecfdde931feecf8735584ab23f7b75a"
+    },
+    {
+      "date": "Le mardi 1 avril 2025 de  18:40:00 à  19:40:00",
+      "streets": "EN PARTIE ENGRAIS MARTIAL, MORCELLEMENT SOUCHON, CHEMIN LAPEYROUSSE, CANTIN, NAVI ET LES ENVIRONS.",
+      "from": "2025-04-01T14:40:00.000Z",
+      "to": "2025-04-01T15:40:00.000Z",
+      "id": "0af54a3b97f5e505b506f5905f9c71d3"
+    },
+    {
+      "date": "Le vendredi 28 mars 2025 de  09:00:00 à  12:00:00",
+      "streets": "La Mairee et Gokool Lane",
+      "from": "2025-03-28T05:00:00.000Z",
+      "to": "2025-03-28T08:00:00.000Z",
+      "id": "3765ee96c508294a7eed72dd920fa4c3"
+    },
+    {
+      "date": "Le dimanche 16 mars 2025 de  13:00:00 à  16:00:00",
+      "streets": "dans les périmètres et rues suivantes : Camp Rouillard, Cape Town, Ramdin st. Rovers lane, Toofany lane, TFP et une partie du Route royale",
+      "from": "2025-03-16T09:00:00.000Z",
+      "to": "2025-03-16T12:00:00.000Z",
+      "id": "eb484b0de05bcb9028c03a630b5f1ff5"
+    },
+    {
+      "date": "Le dimanche 16 mars 2025 de  08:00:00 à  16:00:00",
+      "streets": "dans les périmètres et rues suivantes : Hazareesingh lane,  Nabee et une partie du Route Royale",
+      "from": "2025-03-16T04:00:00.000Z",
+      "to": "2025-03-16T12:00:00.000Z",
+      "id": "226e9b5482aee2b38f6407ff2f27b853"
+    },
+    {
+      "date": "Le dimanche 3 novembre 2024 de  08:30:00 à  16:00:00",
+      "streets": "dans les périmètres et rues suivante : Bois Martin Street, Morc Doha, Morc Chummun et une partie d’Engrais Cathan Street",
+      "from": "2024-11-03T04:30:00.000Z",
+      "to": "2024-11-03T12:00:00.000Z",
+      "id": "690535dfae3846b559930a66a12ad357"
+    },
+    {
+      "date": "Le lundi 28 octobre 2024 de  09:00:00 à  14:00:00",
+      "streets": "dans les environs de La Mairee St, Le Meilleraye Road, Gautray St et Barrow Lane",
+      "from": "2024-10-28T05:00:00.000Z",
+      "to": "2024-10-28T10:00:00.000Z",
+      "id": "e43185dc6f0b2fcb385d5c85119f504a"
+    },
+    {
+      "date": "Le dimanche 20 octobre 2024 de  08:30:00 à  16:00:00",
+      "streets": "Quatre Carreaux, Engrais Cathan, Morcellement Hossenbux, Camp le Vieux, Chinnapayel street, Ghoorun Street, Deelchand Street, Morcellement Baptiste, Giquel, Morc Chummun Morc Les Camphriers, Morc Adam, Gilbert Joson Street, Camp Dhoby, une partie de route royale Eau Coulee et une partie de la Rue Couvent",
+      "from": "2024-10-20T04:30:00.000Z",
+      "to": "2024-10-20T12:00:00.000Z",
+      "id": "7a281da72024d4ae2f3487fa6f240e08"
+    },
+    {
+      "date": "Le vendredi 18 octobre 2024 de  10:15:00 à  11:00:00",
+      "streets": "DANS LES ENVIRONS DE ROUTE GAUTRAY ET ROUTE BHAGEERUTTY, EAU COULEE.",
+      "from": "2024-10-18T06:15:00.000Z",
+      "to": "2024-10-18T07:00:00.000Z",
+      "id": "30d5c50c130c8e8ade20951b02db1d8e"
+    },
+    {
+      "date": "Le dimanche 13 octobre 2024 de  08:30:00 à  16:00:00",
+      "streets": "Camp le Vieux, Chinnapayel street, Ghoorun Street, Deelchand Street, Morcellement Baptiste, Morc Les Camphriers, Morc Adam, Gilbert Joson Street, Morcellement Chummun, Camp Dhoby, une partie de route royale Eau Coulee et une partie de la Rue Couvent",
+      "from": "2024-10-13T04:30:00.000Z",
+      "to": "2024-10-13T12:00:00.000Z",
+      "id": "b3c68b0e772de561dfc97e270ab879dc"
+    },
+    {
+      "date": "Le mardi 17 septembre 2024 de  09:30:00 à  12:00:00",
+      "streets": "Charles Regnaud, Louis Lazere, Abbe laval, Charles Cheron, Farquhar, Laperousse, Stirling, Bougainville, Dove, Otter Barry et les ruelles avoisinantes",
+      "from": "2024-09-17T05:30:00.000Z",
+      "to": "2024-09-17T08:00:00.000Z",
+      "id": "bcfdd27ea2f874a48240fed78d76565a"
+    },
+    {
+      "date": "Le lundi 13 mai 2024 de  10:30:00 à  11:30:00",
+      "streets": "Rue Guillaume Giquel",
+      "from": "2024-05-13T06:30:00.000Z",
+      "to": "2024-05-13T07:30:00.000Z",
+      "id": "118f153e17d3ab07e55a6e972ddea54e"
+    },
+    {
+      "date": "Le dimanche 12 mai 2024 de  08:30:00 à  16:00:00",
+      "streets": "Charles Regnaud, Louis Lazere, Abbe laval, Charles Cheron, Farquhar, Laperousse, Stirling, Bougainville, Dove, Otter Barry et les ruelles avoisinantes",
+      "from": "2024-05-12T04:30:00.000Z",
+      "to": "2024-05-12T12:00:00.000Z",
+      "id": "662ec850254abe5943fe0e5606e98091"
+    },
+    {
+      "date": "Le jeudi 9 mai 2024 de  13:00:00 à  15:00:00",
+      "streets": "Eau Coulée et Castel  habitant dans les rues et les régions suivantes : Hazareesingh, Camp Rouillard, Toofany, Cape Town, Nabee, pres de TFP, une partie de la Route Royale et les ruelles avoisinantes",
+      "from": "2024-05-09T09:00:00.000Z",
+      "to": "2024-05-09T11:00:00.000Z",
+      "id": "fcc1f510503ba824e6972c1134c9887c"
+    },
+    {
+      "date": "Le jeudi 25 avril 2024 de  09:00:00 à  14:00:00",
+      "streets": "La Mairee Street, Chummun lane, Gauffray Road et les ruelles avoisinantes",
+      "from": "2024-04-25T05:00:00.000Z",
+      "to": "2024-04-25T10:00:00.000Z",
+      "id": "cdb33cdf6d2da3b07845d53e8d8025f8"
+    },
+    {
+      "date": "Le vendredi 19 avril 2024 de  09:00:00 à  14:00:00",
+      "streets": "La Mairee Street, Chummun lane, Gauffray Road et les ruelles avoisinantes",
+      "from": "2024-04-19T05:00:00.000Z",
+      "to": "2024-04-19T10:00:00.000Z",
+      "id": "1ddf6ec4c601e84c793380e90248d107"
+    },
+    {
+      "date": "Le mercredi 6 mars 2024 de  18:15:00 à  19:00:00",
+      "streets": "LE RUE GIQUEL EAU COULEE.",
+      "from": "2024-03-06T14:15:00.000Z",
+      "to": "2024-03-06T15:00:00.000Z",
+      "id": "00c9083fb8d5061e2901f442d73913d5"
+    },
+    {
+      "date": "Le dimanche 21 janvier 2024 de  16:00:00 à  17:30:00",
+      "streets": "EAU COULEE, Engrais Martial, CASTEL",
+      "from": "2024-01-21T12:00:00.000Z",
+      "to": "2024-01-21T13:30:00.000Z",
+      "id": "50b8fc56955f8cea7daea33915dbe7b4"
+    },
+    {
+      "date": "Le dimanche 21 janvier 2024 de  12:20:00 à  13:30:00",
+      "streets": "MORC CAMPHRIER EAU COULEE",
+      "from": "2024-01-21T08:20:00.000Z",
+      "to": "2024-01-21T09:30:00.000Z",
+      "id": "11fd162518b3f08fa268c436503b1bea"
+    },
+    {
+      "date": "Le mercredi 3 janvier 2024 de  05:00:00 à  12:00:00",
+      "streets": "LA MAIREE EAU COULEE",
+      "from": "2024-01-03T01:00:00.000Z",
+      "to": "2024-01-03T08:00:00.000Z",
+      "id": "202a62ab1255cc6485478ed24f7be2cb"
+    },
+    {
+      "date": "Le vendredi 13 octobre 2023 de  12:30:00 à  14:00:00",
+      "streets": "MORC ADAM EAU COULEE",
+      "from": "2023-10-13T08:30:00.000Z",
+      "to": "2023-10-13T10:00:00.000Z",
+      "id": "1d46d068d4760939b87dfc57e28db641"
+    },
+    {
+      "date": "Le vendredi 13 octobre 2023 de  08:30:00 à  11:00:00",
+      "streets": "Morcellement Hossenbux",
+      "from": "2023-10-13T04:30:00.000Z",
+      "to": "2023-10-13T07:00:00.000Z",
+      "id": "90e4d8db840fa818d116fc5d62f8b7d4"
+    },
+    {
+      "date": "Le vendredi 6 octobre 2023 de  08:30:00 à  11:00:00",
+      "streets": "Morcellement Hossenbux",
+      "from": "2023-10-06T04:30:00.000Z",
+      "to": "2023-10-06T07:00:00.000Z",
+      "id": "59b2840822d16fc12a8d75da0eea98dc"
+    },
+    {
+      "date": "Le mardi 3 octobre 2023 de  17:15:00 à  21:00:00",
+      "streets": "REGION EAU COULEE",
+      "from": "2023-10-03T13:15:00.000Z",
+      "to": "2023-10-03T17:00:00.000Z",
+      "id": "13a709d569b8048aa554c5325938367a"
+    },
+    {
+      "date": "Le lundi 25 septembre 2023 de  12:00:00 à  15:00:00",
+      "streets": "Angrais Cathan",
+      "from": "2023-09-25T08:00:00.000Z",
+      "to": "2023-09-25T11:00:00.000Z",
+      "id": "6a7d815e4a4c0bc5042bc1870ea732d1"
+    },
+    {
+      "date": "Le lundi 25 septembre 2023 de  09:00:00 à  12:00:00",
+      "streets": "Angrais Cathan",
+      "from": "2023-09-25T05:00:00.000Z",
+      "to": "2023-09-25T08:00:00.000Z",
+      "id": "bf882f3931c8215521d2cf608e8f0e9b"
+    },
+    {
+      "date": "Le dimanche 27 août 2023 de  09:00:00 à  16:00:00",
+      "streets": "Les abonnés d’Engrais Martial, Eau-Coulée habitant les rues et les régions suivantes: Morcellement Gobin, Engrais Martial Road, Cite  Souchon, Gautray, Hazareesingh, partie d’Engrais Martial, Appaya, Ackbar, Camp Rouillard, Toofany, Cape Town, partie de la Route Royale, Nabee, près de TFP  et  les ruelles avoisinantes",
+      "from": "2023-08-27T05:00:00.000Z",
+      "to": "2023-08-27T12:00:00.000Z",
+      "id": "40df612a0e43068badfa9635558078b4"
+    },
+    {
+      "date": "Le dimanche 6 août 2023 de  08:30:00 à  16:00:00",
+      "streets": "Les abonnés Eau-Coulée habitant les rues et les régions suivantes: Charles Regnaud, Louis Lazère, Abbe Laval, Charles Cheron, Farquhar, Laperousse, Stirling, Bougainville, Dove, Oter Barry  et  les ruelles avoisinantes",
+      "from": "2023-08-06T04:30:00.000Z",
+      "to": "2023-08-06T12:00:00.000Z",
+      "id": "08e4020753d32961db60739d2b37174d"
+    },
+    {
+      "date": "Le dimanche 9 juillet 2023 de  08:30:00 à  16:00:00",
+      "streets": "Les abonnés d’Engrais Martial, Eau-Coulée habitant les rues et les régions suivantes: Morcellement Gobin, Engrais Martial Road, Cite  Souchon, Gautray, Hazareesingh, partie d’Engrais Martial, Appaya, Ackbar  et  les ruelles avoisinantes",
+      "from": "2023-07-09T04:30:00.000Z",
+      "to": "2023-07-09T12:00:00.000Z",
+      "id": "1eff89414eef01a22171895ff36f59bc"
+    },
+    {
+      "date": "Le vendredi 7 juillet 2023 de  12:00:00 à  16:00:00",
+      "streets": "Les abonnés d’Engrais Martial, Eau-Coulée habitant les rues et les régions suivantes: Lutchmeeparsad, Bhageerutty  et  les ruelles avoisinantes",
+      "from": "2023-07-07T08:00:00.000Z",
+      "to": "2023-07-07T12:00:00.000Z",
+      "id": "a7eacf4de29c9e2cb32e078d2351ec40"
+    },
+    {
+      "date": "Le dimanche 2 juillet 2023 de  08:30:00 à  16:00:00",
+      "streets": "Les abonnés de Camp le Vieux, Eau-Coulée habitant les rues et les régions suivantes : Goorun, Dilchand, Gilbert Joson, Morcellement Baptiste, Mohit, Giquel, Camp le Vieux, Camp Dobee, Sree Venkteshwara alayam, Morcellement Adam, Morcellement Camphrier et les ruelles avoisinantes",
+      "from": "2023-07-02T04:30:00.000Z",
+      "to": "2023-07-02T12:00:00.000Z",
+      "id": "54343c241c15d20c90ec662fb7718466"
+    },
+    {
+      "date": "Le mardi 11 avril 2023 de  09:00:00 à  12:00:00",
+      "streets": "Les abonnés de Quatre Carreaux, Eau-Coulée habitant les rues et les régions suivantes : Une partie de Quatre Carreaux, Bisnauth lane et les ruelles avoisinantes",
+      "from": "2023-04-11T05:00:00.000Z",
+      "to": "2023-04-11T08:00:00.000Z",
+      "id": "9c5673cd9cb2aac362831c04196b8b32"
+    },
+    {
+      "date": "Le vendredi 7 avril 2023 de  09:00:00 à  13:00:00",
+      "streets": "CAMP LEVIEUX EAU COULEE,GIQUEL.LA RUE COUVENT",
+      "from": "2023-04-07T05:00:00.000Z",
+      "to": "2023-04-07T09:00:00.000Z",
+      "id": "fe0d598e92abd481d33e1b1658faa7d9"
+    },
+    {
+      "date": "Le mercredi 5 avril 2023 de  12:30:00 à  15:00:00",
+      "streets": ": Réservoir Road, une partie de St Antoine Road,  Morc Ramanah, Morc Giquel, Morc Chummun, Constatin Lane, une partie de Ram Lane, une partie de Galea Road et Galea Road No. 1, Prayag Lane",
+      "from": "2023-04-05T08:30:00.000Z",
+      "to": "2023-04-05T11:00:00.000Z",
+      "id": "401d582c4c61c8178bc2b8b02382581a"
+    },
+    {
+      "date": "Le mercredi 28 décembre 2022 de  09:00:00 à  10:30:00",
+      "streets": "MORC HOSSENBUX EAU COULEE",
+      "from": "2022-12-28T05:00:00.000Z",
+      "to": "2022-12-28T06:30:00.000Z",
+      "id": "ba8f3e99bdfeffe95ca9b11b0f6dd33b"
+    },
+    {
+      "date": "Le lundi 19 décembre 2022 de  09:00:00 à  15:00:00",
+      "streets": "MORC CAMP FRIER EAU COULEE",
+      "from": "2022-12-19T05:00:00.000Z",
+      "to": "2022-12-19T11:00:00.000Z",
+      "id": "70661d79dc96bb9c784d7e11061ac958"
+    },
+    {
+      "date": "Le jeudi 8 décembre 2022 de  16:00:00 à  18:00:00",
+      "streets": "Les abonnés d’Eau-Coulée, Curepipe habitant les rues et les régions suivantes: Engrais Martial, Morcellement Gobin, morcellement Souchon, Hazareesingh et  les ruelles avoisinantes",
+      "from": "2022-12-08T12:00:00.000Z",
+      "to": "2022-12-08T14:00:00.000Z",
+      "id": "1a116c8cf623466df22bef21f0a5a600"
+    },
+    {
+      "date": "Le vendredi 18 novembre 2022 de  09:00:00 à  12:00:00",
+      "streets": "Les abonnés d’Eau-Coulée, Curepipe habitant les rues et les régions suivantes: Engrais Cathan et  les ruelles avoisinantes",
+      "from": "2022-11-18T05:00:00.000Z",
+      "to": "2022-11-18T08:00:00.000Z",
+      "id": "6dc6889f2e600d7a912ac47a30d86613"
+    },
+    {
+      "date": "Le mercredi 19 octobre 2022 de  08:30:00 à  12:00:00",
+      "streets": "Les abonnés d’Eau-Coulée, Curepipe habitant les rues et les régions suivantes: Impasse morcellement Camphriers, partie de Camp Levieux et  les ruelles avoisinantes",
+      "from": "2022-10-19T04:30:00.000Z",
+      "to": "2022-10-19T08:00:00.000Z",
+      "id": "c2f007ce540b74cb6b5759f20be74502"
+    },
+    {
+      "date": "Le mardi 21 juin 2022 de  08:30:00 à  12:30:00",
+      "streets": "GIQUEL STREET",
+      "from": "2022-06-21T04:30:00.000Z",
+      "to": "2022-06-21T08:30:00.000Z",
+      "id": "522911eb6f0127f27b14eaefc1febecc"
+    },
+    {
+      "date": "Le dimanche 8 mai 2022 de  08:30:00 à  16:00:00",
+      "streets": "Les abonnés d’Eau-Coulée, Curepipe habitant les rues et les régions suivantes: Morcellement Doha, Morcellement Chumun, Une partie de Tout Court, Giquel, Chinnapyel, Bhoyrajee, Dilchand, Gilbert Joson,  Morcellement Baptiste, Camp le Vieux, Camp Dhoby, Bisnath, Pandit Cowreea, Morcellement Adam, Morcellement Camphrier et  les ruelles avoisinantes",
+      "from": "2022-05-08T04:30:00.000Z",
+      "to": "2022-05-08T12:00:00.000Z",
+      "id": "9e02d9ad23d598d3fc8ac0a3637d4831"
+    },
+    {
+      "date": "Le mardi 5 avril 2022 de  09:00:00 à  13:00:00",
+      "streets": "RUE GIQUEL EAU COULEE",
+      "from": "2022-04-05T05:00:00.000Z",
+      "to": "2022-04-05T09:00:00.000Z",
+      "id": "05bbb8c1cb63ec4e261e8b2a06c1b33f"
+    },
+    {
+      "date": "Le lundi 4 avril 2022 de  08:30:00 à  15:00:00",
+      "streets": "Les abonnés d’Eau-Coulée, Curepipe habitant les rues et les régions suivantes: Partie de Giquel, Gilbert Joson, Ramen et  les ruelles avoisinantes",
+      "from": "2022-04-04T04:30:00.000Z",
+      "to": "2022-04-04T11:00:00.000Z",
+      "id": "c60878f13105d28d73cf012cdef83f1f"
+    },
+    {
+      "date": "Le mercredi 23 mars 2022 de  08:30:00 à  17:00:00",
+      "streets": "Les abonnés d’Eau-Coulée, Curepipe habitant les rues et les régions suivantes: Giquel, Gilbert Joson, Ramen et  les ruelles avoisinantes",
+      "from": "2022-03-23T04:30:00.000Z",
+      "to": "2022-03-23T13:00:00.000Z",
+      "id": "aa9f72c1e1b2f52b14e10c830c66d718"
+    }
+  ]
+}

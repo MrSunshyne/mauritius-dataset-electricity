@@ -1,0 +1,179 @@
+{
+  "slug": "union-park",
+  "name": "UNION PARK",
+  "district": "grandport",
+  "generated": "2025-12-29T20:21:02.840Z",
+  "outageCount": 24,
+  "firstOutage": "2022-03-28",
+  "lastOutage": "2025-11-18",
+  "outages": [
+    {
+      "date": "Le mardi 18 novembre 2025 de  12:30:00 à  14:30:00",
+      "streets": "UNION PARK,NHDC BALISSON,VRS 1,2,3,LÚSINE SOFA",
+      "from": "2025-11-18T08:30:00.000Z",
+      "to": "2025-11-18T10:30:00.000Z",
+      "id": "a568cabb525fe68ce3ce229f426391f6"
+    },
+    {
+      "date": "Le mardi 18 novembre 2025 de  10:00:00 à  00:00:00",
+      "streets": "Union Park habitant dans le périmètre et les rues suivantes : Morcellement VRS Union Park et une partie de Wireless Road",
+      "from": "2025-11-18T06:00:00.000Z",
+      "to": "2025-11-17T20:00:00.000Z",
+      "id": "c7c12ba8a2367d461505620cd9867838"
+    },
+    {
+      "date": "Le lundi 17 novembre 2025 de  18:30:00 à  23:00:00",
+      "streets": "UNION PARK",
+      "from": "2025-11-17T14:30:00.000Z",
+      "to": "2025-11-17T19:00:00.000Z",
+      "id": "fba7ca17f42de75014eac5eaf7079fef"
+    },
+    {
+      "date": "Le dimanche 16 novembre 2025 de  08:30:00 à  16:00:00",
+      "streets": "Morcellement SIT Union Park",
+      "from": "2025-11-16T04:30:00.000Z",
+      "to": "2025-11-16T12:00:00.000Z",
+      "id": "26a37aaf5ef1c318ada4c438b36081b6"
+    },
+    {
+      "date": "Le mardi 29 juillet 2025 de  16:48:00 à  20:00:00",
+      "streets": "UNION PARK",
+      "from": "2025-07-29T12:48:00.000Z",
+      "to": "2025-07-29T16:00:00.000Z",
+      "id": "e833e80dae198d5683767b7744d8d8d4"
+    },
+    {
+      "date": "Le mardi 29 juillet 2025 de  11:00:00 à  13:30:00",
+      "streets": "Union Park, Wireless Road, NHDC Balisson",
+      "from": "2025-07-29T07:00:00.000Z",
+      "to": "2025-07-29T09:30:00.000Z",
+      "id": "eedc8f8001db9bc764d92721cd14d88d"
+    },
+    {
+      "date": "Le jeudi 20 mars 2025 de  08:30:00 à  17:00:00",
+      "streets": "Union Park habitant dans le périmètre et les rues suivantes: Cluny Road Union Park, Rosun Lane, Sooklall Lane, School Lane et une partie de la Route Royale Union Park",
+      "from": "2025-03-20T04:30:00.000Z",
+      "to": "2025-03-20T13:00:00.000Z",
+      "id": "c1a885b4cc760af456f8b996d498e4c5"
+    },
+    {
+      "date": "Le dimanche 16 mars 2025 de  15:30:00 à  19:30:00",
+      "streets": "WHOLE OF MORCELLEMENT GOKHOOL AND PART OF ROYAL ROAD, UNION PARK.",
+      "from": "2025-03-16T11:30:00.000Z",
+      "to": "2025-03-16T15:30:00.000Z",
+      "id": "f06c7a523319646382533959240cdfe6"
+    },
+    {
+      "date": "Le samedi 25 janvier 2025 de  08:30:00 à  16:00:00",
+      "streets": "Union Park habitant dans le périmètre et les rues suivantes: Cluny Road, Morcellement Gokhool, School Road, Saumtally Road, Bhaitka Road, Chemin Puit, Beedassy Road, Morcellement La Cheminée, Morcellement Ramayanah et une partie de la Route Royale Union Park",
+      "from": "2025-01-25T04:30:00.000Z",
+      "to": "2025-01-25T12:00:00.000Z",
+      "id": "22a3b12be55fcca3c58b7b2854276672"
+    },
+    {
+      "date": "Le mercredi 20 novembre 2024 de  08:30:00 à  17:00:00",
+      "streets": "Union Park habitant dans le périmètre et les rues suivantes: School Lane, Rosun Lane, Chemin Cluny, Sumtally Lane, Morcellement VRS I & II, Morcellement La Cheminey Union Park, une partie de la Route Royale Grand Port Road Nouvelle France, Molliere Road, Bahadoor Lane, Morcellement Gokhool, Allee Jacques et Barthosow Nouvelle France",
+      "from": "2024-11-20T04:30:00.000Z",
+      "to": "2024-11-20T13:00:00.000Z",
+      "id": "a5df3c7e5ee45dfb851257cc49f87ce4"
+    },
+    {
+      "date": "Le mardi 5 novembre 2024 de  09:40:00 à  15:30:00",
+      "streets": "MORCELLEMENT VRS UNION PARK.",
+      "from": "2024-11-05T05:40:00.000Z",
+      "to": "2024-11-05T11:30:00.000Z",
+      "id": "b67b6cf151549b2278a622cf5e5a35c7"
+    },
+    {
+      "date": "Le vendredi 29 mars 2024 de  09:40:00 à  16:00:00",
+      "streets": "PUIT RD, BAITKA RD, MORC VRS",
+      "from": "2024-03-29T05:40:00.000Z",
+      "to": "2024-03-29T12:00:00.000Z",
+      "id": "21551bafecf4d672a3618e0762e3b034"
+    },
+    {
+      "date": "Le jeudi 29 février 2024 de  09:00:00 à  13:00:00",
+      "streets": "SIT Morcellement Union Park",
+      "from": "2024-02-29T05:00:00.000Z",
+      "to": "2024-02-29T09:00:00.000Z",
+      "id": "a0d45eb5403602806a8665bf4a1b35d3"
+    },
+    {
+      "date": "Le dimanche 18 février 2024 de  11:30:00 à  13:30:00",
+      "streets": "Baitka,Cheminee,Kalimaye Sts,Part Morc SIT",
+      "from": "2024-02-18T07:30:00.000Z",
+      "to": "2024-02-18T09:30:00.000Z",
+      "id": "7164b3904d15feacd4a61a0aef554143"
+    },
+    {
+      "date": "Le samedi 21 octobre 2023 de  08:00:00 à  16:00:00",
+      "streets": "region union park",
+      "from": "2023-10-21T04:00:00.000Z",
+      "to": "2023-10-21T12:00:00.000Z",
+      "id": "adcc8371c68b83da370959a5c5830f08"
+    },
+    {
+      "date": "Le jeudi 6 avril 2023 de  09:00:00 à  11:00:00",
+      "streets": "MORC BLUE PRINT UNION PARK",
+      "from": "2023-04-06T05:00:00.000Z",
+      "to": "2023-04-06T07:00:00.000Z",
+      "id": "2a954dd09e077b295ac6b209aa80bfef"
+    },
+    {
+      "date": "Le mardi 14 mars 2023 de  09:00:00 à  17:30:00",
+      "streets": "NHDC Balisson et Morcellement VRS Union Park",
+      "from": "2023-03-14T05:00:00.000Z",
+      "to": "2023-03-14T13:30:00.000Z",
+      "id": "87dd772400a3dd3c2d0731187de213ee"
+    },
+    {
+      "date": "Le jeudi 2 février 2023 de  08:30:00 à  17:00:00",
+      "streets": "Union Park habitant dans le périmètre et les rues suivantes: Molière Street, Cluny Road, Barthosow Street, Bahadoor Street, Colville Lane, Morcellement Gokhool, School Lane, Rosun Lane, Koopan Lane, Soochit Lane, Sooklall Lane, Tulsi Lane, River Lane et la Route Royale Union Park",
+      "from": "2023-02-02T04:30:00.000Z",
+      "to": "2023-02-02T13:00:00.000Z",
+      "id": "e8607956470abfcf8efece4445ea79cc"
+    },
+    {
+      "date": "Le jeudi 26 janvier 2023 de  08:30:00 à  17:00:00",
+      "streets": "Union Park habitant dans le périmètre et les rues suivantes: Molière Street, Cluny Road, Barthosow Street, Bahadoor Street, Colville Lane, Morcellement Gokhool, School Lane, Rosun Lane, Koopan Lane, Soochit Lane, Sooklall Lane, Tulsi Lane, River Lane et la Route Royale Union Park",
+      "from": "2023-01-26T04:30:00.000Z",
+      "to": "2023-01-26T13:00:00.000Z",
+      "id": "36c5f411d392c0e137c8321cd6998499"
+    },
+    {
+      "date": "Le jeudi 8 décembre 2022 de  09:45:00 à  11:30:00",
+      "streets": "UNION PARK",
+      "from": "2022-12-08T05:45:00.000Z",
+      "to": "2022-12-08T07:30:00.000Z",
+      "id": "32cfae69994720a6659f8d597e617555"
+    },
+    {
+      "date": "Le jeudi 20 octobre 2022 de  13:00:00 à  18:00:00",
+      "streets": "Le CEB avise les abonnés de Union Park habitant dans le périmètre et les rues suivantes: une partie de la Route Royal, Bahadoor Lane, Cluny Road Union Park, Morcellement Gokool, Rosun Lane et chemin avoisinante",
+      "from": "2022-10-20T09:00:00.000Z",
+      "to": "2022-10-20T14:00:00.000Z",
+      "id": "6a1fc7d388fd5f1e152f9f00ae046a59"
+    },
+    {
+      "date": "Le vendredi 17 juin 2022 de  09:00:00 à  17:00:00",
+      "streets": "Plaine Magnien habitant dans le périmètre et les rues suivantes: Morcellement VRS, Morcellement BluePrint et Chemin Mon Desert  Plaine Magnien",
+      "from": "2022-06-17T05:00:00.000Z",
+      "to": "2022-06-17T13:00:00.000Z",
+      "id": "97664850d2c1b6bc8188ea74aa4cc5e7"
+    },
+    {
+      "date": "Le jeudi 7 avril 2022 de  08:30:00 à  17:00:00",
+      "streets": "Union Park habitant dans le périmètre et les rues suivantes: Govinthan Street, Molin Street, Bahadoor Street, Suchit Lane, Abdool Lane, River Street, Sunkur Lane, Kuppan Lane, Essurudeen Street, Barthosow Street, Toolsee Street, Pastourelle Street, Boundary Lane & Molière Street et Grand Port Road Nouvelle France",
+      "from": "2022-04-07T04:30:00.000Z",
+      "to": "2022-04-07T13:00:00.000Z",
+      "id": "6e676f0e9480cdec06cdbd517574a007"
+    },
+    {
+      "date": "Le lundi 28 mars 2022 de  09:00:00 à  00:00:00",
+      "streets": "Morcellement VRS Union Park, Wireless Road et NHDC Balisson",
+      "from": "2022-03-28T05:00:00.000Z",
+      "to": "2022-03-27T20:00:00.000Z",
+      "id": "13ea5fcc3f70aa3428a60623ee947fc2"
+    }
+  ]
+}

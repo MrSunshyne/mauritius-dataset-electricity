@@ -1,0 +1,38 @@
+{
+  "date": "2023-06-16",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.382Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le vendredi 16 juin 2023 de  15:00:00 à  16:00:00",
+      "locality": "CITE RICHELIEU",
+      "localitySlug": "cite-richelieu",
+      "streets": "IQBAL ST,ROSE ST",
+      "district": "blackriver",
+      "from": "2023-06-16T11:00:00.000Z",
+      "to": "2023-06-16T12:00:00.000Z",
+      "id": "8755a145231025678b416ae00cf929d4"
+    },
+    {
+      "date": "Le vendredi 16 juin 2023 de  09:30:00 à  15:00:00",
+      "locality": "TRIANON",
+      "localitySlug": "trianon",
+      "streets": "Dans les environs Mauritius Football Association & Racing Club",
+      "district": "plainewilhems",
+      "from": "2023-06-16T05:30:00.000Z",
+      "to": "2023-06-16T11:00:00.000Z",
+      "id": "a4bed653d1bcdafab78de095d1dc48bc"
+    },
+    {
+      "date": "Le vendredi 16 juin 2023 de  09:00:00 à  15:00:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "LES ABONNES DE MORCELLEMENT OMNICANE ST FELIX ET RIAMBEL POMPONETTE.",
+      "district": "savanne",
+      "from": "2023-06-16T05:00:00.000Z",
+      "to": "2023-06-16T11:00:00.000Z",
+      "id": "dfd636c157c303ea9bc258344cd29518"
+    }
+  ]
+}

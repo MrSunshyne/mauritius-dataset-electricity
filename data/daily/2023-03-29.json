@@ -1,0 +1,78 @@
+{
+  "date": "2023-03-29",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.377Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le mercredi 29 mars 2023 de  08:30:00 à  16:30:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "NHDC TAMARIN, MORC SOCIETE MIDI, MORC LA TOURELLE ET MORC CARLOS",
+      "district": "blackriver",
+      "from": "2023-03-29T04:30:00.000Z",
+      "to": "2023-03-29T12:30:00.000Z",
+      "id": "61abe0f61aa05dc4e92b3314695812b7"
+    },
+    {
+      "date": "Le mercredi 29 mars 2023 de  14:30:00 à  17:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "DANS LES ENVIRONS DE MORC CONCORDE",
+      "district": "pamplemousses",
+      "from": "2023-03-29T10:30:00.000Z",
+      "to": "2023-03-29T13:00:00.000Z",
+      "id": "28edba41667a805606701654dae56cd6"
+    },
+    {
+      "date": "Le mercredi 29 mars 2023 de  15:30:00 à  16:30:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "UNE PARTIE DE LA COCHELLE ET UNE PARTIE DE LA CONCORDE BAIE DU TOMBEAU",
+      "district": "pamplemousses",
+      "from": "2023-03-29T11:30:00.000Z",
+      "to": "2023-03-29T12:30:00.000Z",
+      "id": "bc4df46e357bf5f6e149e410a4c39697"
+    },
+    {
+      "date": "Le mercredi 29 mars 2023 de  08:30:00 à  14:00:00",
+      "locality": "16EME MILE",
+      "localitySlug": "16eme-mile",
+      "streets": "Les abonnés de 16eme Mile, Forest-Side habitant les rues et les régions suivantes : Jaffur, partie de Coriolis Road, Morcellement Soobanee, NHDC Jacinthe, Issory, Albatros, Bojo, Ramsoor et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-03-29T04:30:00.000Z",
+      "to": "2023-03-29T10:00:00.000Z",
+      "id": "81b2e0ff740b085481c7e1ceb42e2ace"
+    },
+    {
+      "date": "Le mercredi 29 mars 2023 de  14:00:00 à  17:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes: Victor Hugo, Morcellement Dalais et  les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-03-29T10:00:00.000Z",
+      "to": "2023-03-29T13:00:00.000Z",
+      "id": "571137897899cc55a2e38f23803f72d0"
+    },
+    {
+      "date": "Le mercredi 29 mars 2023 de  09:00:00 à  15:00:00",
+      "locality": "CINQ ARPENTS",
+      "localitySlug": "cinq-arpents",
+      "streets": "Avenue des Orchidées, Avenue Albert Einstein, Avenue Abdul kalam, Avenue Jean Marie Leclezio, Avenue William Shakespeare, Avenue Nelson Mandela, Avenue de la République, Avenue Arc En Ciel, Avenue L’indépendance, Avenue Manilall Doctor, Avenue Aloevera, Avenue Bulbul, Avenue Paille en Queue, Avenue Crécerelle, Morc Sumputh, Avenue Pigeon Rose",
+      "district": "plainewilhems",
+      "from": "2023-03-29T05:00:00.000Z",
+      "to": "2023-03-29T11:00:00.000Z",
+      "id": "5fe555dd703921a943a698aa9a075ef1"
+    },
+    {
+      "date": "Le mercredi 29 mars 2023 de  09:00:00 à  15:30:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "dans les environs de La Foret Daruty",
+      "district": "rivieredurempart",
+      "from": "2023-03-29T05:00:00.000Z",
+      "to": "2023-03-29T11:30:00.000Z",
+      "id": "b452bbfb1ea31734ba43f9d2f552abcf"
+    }
+  ]
+}

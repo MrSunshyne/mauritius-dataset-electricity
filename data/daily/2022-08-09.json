@@ -1,0 +1,88 @@
+{
+  "date": "2022-08-09",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.360Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le mardi 9 août 2022 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "AVE MOULIN CASSEE ET UNE PARTIE DE AVE DES CAPITAINES",
+      "district": "blackriver",
+      "from": "2022-08-09T04:30:00.000Z",
+      "to": "2022-08-09T11:30:00.000Z",
+      "id": "30f9dda4389e0f16a3cd33e1e14ee81a"
+    },
+    {
+      "date": "Le mardi 9 août 2022 de  13:00:00 à  16:30:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "SPLENDIDE VIEW ALBION",
+      "district": "blackriver",
+      "from": "2022-08-09T09:00:00.000Z",
+      "to": "2022-08-09T12:30:00.000Z",
+      "id": "b15aa2ce13aa3df84d47b9b387c5b030"
+    },
+    {
+      "date": "Le mardi 9 août 2022 de  11:00:00 à  12:00:00",
+      "locality": "BLUE BAY",
+      "localitySlug": "blue-bay",
+      "streets": "Morcellement Blue Bay & Link Road Beau Vallon",
+      "district": "grandport",
+      "from": "2022-08-09T07:00:00.000Z",
+      "to": "2022-08-09T08:00:00.000Z",
+      "id": "8c21bc1a064fd4184c6307376bdacaba"
+    },
+    {
+      "date": "Le mardi 9 août 2022 de  12:30:00 à  16:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Les Casernes, Curepipe habitant les rues et les régions suivantes : Partie de Robinson, Hard Line, Oconor et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-08-09T08:30:00.000Z",
+      "to": "2022-08-09T12:00:00.000Z",
+      "id": "55638027b6b00246be703be3cbfbcbff"
+    },
+    {
+      "date": "Le mardi 9 août 2022 de  09:00:00 à  12:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Partie d’ Abbe Laval, Farquhar, Stirling et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-08-09T05:00:00.000Z",
+      "to": "2022-08-09T08:00:00.000Z",
+      "id": "a2b5028fff8db9d4966e2098d67b3a22"
+    },
+    {
+      "date": "Le mardi 9 août 2022 de  08:30:00 à  15:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Avenue Mudaliar, Route Wilson, Morcellement Sauba",
+      "district": "plainewilhems",
+      "from": "2022-08-09T04:30:00.000Z",
+      "to": "2022-08-09T11:30:00.000Z",
+      "id": "502f0ef61182303c4abc1084a2dfca18"
+    },
+    {
+      "date": "Le mardi 9 août 2022 de  09:00:00 à  15:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "RUE DEPLEVITZ- RUE LA REINE ROSE HILL",
+      "district": "plainewilhems",
+      "from": "2022-08-09T05:00:00.000Z",
+      "to": "2022-08-09T11:00:00.000Z",
+      "id": "0086db06e7db50df8f4078680fcb971d"
+    },
+    {
+      "date": "Le mardi 9 août 2022 de  09:00:00 à  14:00:00",
+      "locality": "SURINAM",
+      "localitySlug": "surinam",
+      "streets": "Rues Catamaraz et Trois Tombes",
+      "district": "savanne",
+      "from": "2022-08-09T05:00:00.000Z",
+      "to": "2022-08-09T10:00:00.000Z",
+      "id": "cb6495f5cbf65220db544980e50cf01a"
+    }
+  ]
+}

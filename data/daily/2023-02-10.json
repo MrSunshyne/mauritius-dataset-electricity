@@ -1,0 +1,38 @@
+{
+  "date": "2023-02-10",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.373Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le vendredi 10 février 2023 de  13:15:00 à  17:30:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "Camp Mapou , Henrietta Village, Morcellement Seetaram, une partie de Camp-Roches, Camp Bellin No. 2 et No. 3, Cite EDC Henrietta",
+      "district": "plainewilhems",
+      "from": "2023-02-10T09:15:00.000Z",
+      "to": "2023-02-10T13:30:00.000Z",
+      "id": "0cbc12579a96f11e5a8c947c1ae29fba"
+    },
+    {
+      "date": "Le vendredi 10 février 2023 de  14:00:00 à  17:00:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "Dans les environs Forest lane et Filter Bed",
+      "district": "plainewilhems",
+      "from": "2023-02-10T10:00:00.000Z",
+      "to": "2023-02-10T13:00:00.000Z",
+      "id": "f265780403a712a0ebebcd0a7887e869"
+    },
+    {
+      "date": "Le vendredi 10 février 2023 de  08:30:00 à  15:00:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "dans les environs du Magasin Utchanah",
+      "district": "rivieredurempart",
+      "from": "2023-02-10T04:30:00.000Z",
+      "to": "2023-02-10T11:00:00.000Z",
+      "id": "264bab7ea3f929a288669080f8bcf701"
+    }
+  ]
+}

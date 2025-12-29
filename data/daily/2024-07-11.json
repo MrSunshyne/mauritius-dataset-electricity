@@ -1,0 +1,28 @@
+{
+  "date": "2024-07-11",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.411Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le jeudi 11 juillet 2024 de  09:00:00 à  10:00:00",
+      "locality": "PETIT BOIS",
+      "localitySlug": "petit-bois",
+      "streets": "PETIT BOIS CAROLINE",
+      "district": "flacq",
+      "from": "2024-07-11T05:00:00.000Z",
+      "to": "2024-07-11T06:00:00.000Z",
+      "id": "b9611338d102617fad8fffa557a11e39"
+    },
+    {
+      "date": "Le jeudi 11 juillet 2024 de  08:00:00 à  15:00:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "TERACCINE SOUILLAC",
+      "district": "savanne",
+      "from": "2024-07-11T04:00:00.000Z",
+      "to": "2024-07-11T11:00:00.000Z",
+      "id": "6dd3ffef1678f1c8f3a0f3c2528c220c"
+    }
+  ]
+}

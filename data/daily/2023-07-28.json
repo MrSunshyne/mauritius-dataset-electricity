@@ -1,0 +1,78 @@
+{
+  "date": "2023-07-28",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.385Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le vendredi 28 juillet 2023 de  09:00:00 à  16:00:00",
+      "locality": "CASCAVEL",
+      "localitySlug": "cascavel",
+      "streets": "WHOLE REGION",
+      "district": "blackriver",
+      "from": "2023-07-28T05:00:00.000Z",
+      "to": "2023-07-28T12:00:00.000Z",
+      "id": "98ec3f97164888e18ea77ceb074e790f"
+    },
+    {
+      "date": "Le vendredi 28 juillet 2023 de  08:30:00 à  16:00:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "Dans les environs de Rte Royal, LEglise, Winners, Supermarche jowaheer et Mosque",
+      "district": "flacq",
+      "from": "2023-07-28T04:30:00.000Z",
+      "to": "2023-07-28T12:00:00.000Z",
+      "id": "f9bc06cb19e0396526c5065766681212"
+    },
+    {
+      "date": "Le vendredi 28 juillet 2023 de  09:00:00 à  12:30:00",
+      "locality": "BEAU VALLON",
+      "localitySlug": "beau-vallon",
+      "streets": "CITE CHA, WATSONIA, ORCHIDEE,ANTHURIUM",
+      "district": "grandport",
+      "from": "2023-07-28T05:00:00.000Z",
+      "to": "2023-07-28T08:30:00.000Z",
+      "id": "2d226d8ee319a667f219d1563a5dca89"
+    },
+    {
+      "date": "Le vendredi 28 juillet 2023 de  10:00:00 à  13:30:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "Camp des Embrevades",
+      "district": "pamplemousses",
+      "from": "2023-07-28T06:00:00.000Z",
+      "to": "2023-07-28T09:30:00.000Z",
+      "id": "6434d51fc1fcd3b0c7171a3d77aebc25"
+    },
+    {
+      "date": "Le vendredi 28 juillet 2023 de  09:00:00 à  15:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "Les abonnés de Forest-Side habitant les régions et les rues suivantes: Gustave Bestel, Henry Robert, Chandraya lane et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-07-28T05:00:00.000Z",
+      "to": "2023-07-28T11:00:00.000Z",
+      "id": "3dcceb05ed8ba744f703a0635e88fa01"
+    },
+    {
+      "date": "Le vendredi 28 juillet 2023 de  10:15:00 à  14:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "Ave Poivre et Bonnefin",
+      "district": "plainewilhems",
+      "from": "2023-07-28T06:15:00.000Z",
+      "to": "2023-07-28T10:00:00.000Z",
+      "id": "98d4ab24ffc7227d3e6973542ae0fe13"
+    },
+    {
+      "date": "Le vendredi 28 juillet 2023 de  20:30:00 à  23:30:00",
+      "locality": "CAMP DIABLE",
+      "localitySlug": "camp-diable",
+      "streets": "R DES ANGUILLES,TYACK,CP DIABLE, SAVANNAH,LA SOURDINE,ST AUBIN,R DU POSTE,BRITANNIAH",
+      "district": "savanne",
+      "from": "2023-07-28T16:30:00.000Z",
+      "to": "2023-07-28T19:30:00.000Z",
+      "id": "9925d8ee449c4159f6da79a2b4678a15"
+    }
+  ]
+}

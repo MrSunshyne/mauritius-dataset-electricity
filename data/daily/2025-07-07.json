@@ -1,0 +1,68 @@
+{
+  "date": "2025-07-07",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.435Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le lundi 7 juillet 2025 de  09:00:00 à  13:00:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "LA VALLETTE BAMBOUS",
+      "district": "blackriver",
+      "from": "2025-07-07T05:00:00.000Z",
+      "to": "2025-07-07T09:00:00.000Z",
+      "id": "13cc69094db92f144d292de2d828312e"
+    },
+    {
+      "date": "Le lundi 7 juillet 2025 de  05:00:00 à  12:00:00",
+      "locality": "QUARTIER MILITAIRE",
+      "localitySlug": "quartier-militaire",
+      "streets": "MORC PROVIDENCIA -MORC PETIT BOIS PROVIDENCE Q.MILITAIRE",
+      "district": "moka",
+      "from": "2025-07-07T01:00:00.000Z",
+      "to": "2025-07-07T08:00:00.000Z",
+      "id": "9955ca58425784981dc2f840b8ffebd3"
+    },
+    {
+      "date": "Le lundi 7 juillet 2025 de  09:30:00 à  17:30:00",
+      "locality": "CITE LA CURE",
+      "localitySlug": "cite-la-cure",
+      "streets": "DANS LES ENVIRONS DE SIR HILARY BLOOD",
+      "district": "portlouis",
+      "from": "2025-07-07T05:30:00.000Z",
+      "to": "2025-07-07T13:30:00.000Z",
+      "id": "0755c0a0a31aac162d625f497b411c59"
+    },
+    {
+      "date": "Le lundi 7 juillet 2025 de  16:00:00 à  18:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "caroline, chitrakoot and surroundings",
+      "district": "portlouis",
+      "from": "2025-07-07T12:00:00.000Z",
+      "to": "2025-07-07T14:00:00.000Z",
+      "id": "b5c62e5192a00e38398a8856cb163dee"
+    },
+    {
+      "date": "Le lundi 7 juillet 2025 de  11:15:00 à  15:00:00",
+      "locality": "ROCHES NOIRES",
+      "localitySlug": "roches-noires",
+      "streets": "KALIMAYE RD ROCHES NOIRES",
+      "district": "rivieredurempart",
+      "from": "2025-07-07T07:15:00.000Z",
+      "to": "2025-07-07T11:00:00.000Z",
+      "id": "e09a3e4500bbeaf70b441e4db05ab313"
+    },
+    {
+      "date": "Le lundi 7 juillet 2025 de  09:30:00 à  11:00:00",
+      "locality": "BAIE DU CAP",
+      "localitySlug": "baie-du-cap",
+      "streets": "BAIE DU CAP,BEL OMBRE,CHOISY",
+      "district": "savanne",
+      "from": "2025-07-07T05:30:00.000Z",
+      "to": "2025-07-07T07:00:00.000Z",
+      "id": "1cce98256f6f3491a5c8a812b056f8b5"
+    }
+  ]
+}

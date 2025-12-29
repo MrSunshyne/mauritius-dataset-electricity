@@ -1,0 +1,38 @@
+{
+  "date": "2022-07-08",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.358Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le vendredi 8 juillet 2022 de  09:00:00 à  10:30:00",
+      "locality": "MONTAGNE BLANCHE",
+      "localitySlug": "montagne-blanche",
+      "streets": "Les abonnés du village de Montagne Blanche habitant les rues et régions suivantes : Sans Souci,  Route Royale, Cité Saint Joseph, NHDC, Boulanger, Tancrel,  Chaillet et les ruelles avoisinantes",
+      "district": "moka",
+      "from": "2022-07-08T05:00:00.000Z",
+      "to": "2022-07-08T06:30:00.000Z",
+      "id": "859253457e6a3539437f4896caf8df59"
+    },
+    {
+      "date": "Le vendredi 8 juillet 2022 de  06:30:00 à  08:30:00",
+      "locality": "ARSENAL",
+      "localitySlug": "arsenal",
+      "streets": "Les Abonne Habitant dans les Environs de Arsenal et Calebasses.",
+      "district": "pamplemousses",
+      "from": "2022-07-08T02:30:00.000Z",
+      "to": "2022-07-08T04:30:00.000Z",
+      "id": "d2f0a4a5bd9ef7fc054d64fd2c8f85ab"
+    },
+    {
+      "date": "Le vendredi 8 juillet 2022 de  14:00:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "MONT LIMON,BRULEE,MT MALGACHE,RIVIERE BANANE,GDE MONTAGNE,PTE COTTON,TREFLES,ST FRANCOIS,COROMANDEL,GRAVIER",
+      "district": "rodrigues",
+      "from": "2022-07-08T10:00:00.000Z",
+      "to": "2022-07-08T11:00:00.000Z",
+      "id": "93b7377e0e754053d64a63acf91d0d3a"
+    }
+  ]
+}

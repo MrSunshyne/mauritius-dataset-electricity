@@ -1,0 +1,38 @@
+{
+  "date": "2022-06-29",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.357Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mercredi 29 juin 2022 de  08:30:00 à  13:00:00",
+      "locality": "16EME MILE",
+      "localitySlug": "16eme-mile",
+      "streets": "Les abonnés de 16eme Mile Forest-Side habitant les rues et les régions  suivantes : Coriolis, Issory, Modely, Sajeebun, Bajo, Ramparad, Oomah, Ramzoo, morcellement Soobanee et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-06-29T04:30:00.000Z",
+      "to": "2022-06-29T09:00:00.000Z",
+      "id": "a1937a97edf0b909c0347e29eaddd29c"
+    },
+    {
+      "date": "Le mercredi 29 juin 2022 de  15:30:00 à  22:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVE MACHINE PALMA QUATRE BORNES",
+      "district": "plainewilhems",
+      "from": "2022-06-29T11:30:00.000Z",
+      "to": "2022-06-29T18:00:00.000Z",
+      "id": "46897d92590196b04b4ba0065c87c37e"
+    },
+    {
+      "date": "Le mercredi 29 juin 2022 de  14:00:00 à  17:00:00",
+      "locality": "BAIE DU CAP",
+      "localitySlug": "baie-du-cap",
+      "streets": "Choisy Baie du Cap",
+      "district": "savanne",
+      "from": "2022-06-29T10:00:00.000Z",
+      "to": "2022-06-29T13:00:00.000Z",
+      "id": "76fbc28553117ce5f36f26136de2ce37"
+    }
+  ]
+}

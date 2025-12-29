@@ -1,0 +1,78 @@
+{
+  "date": "2024-05-25",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.408Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le samedi 25 mai 2024 de  08:30:00 à  15:00:00",
+      "locality": "DEUX BRAS- NEW GROVE",
+      "localitySlug": "deux-bras-new-grove",
+      "streets": "Morcellement Deux Bras",
+      "district": "grandport",
+      "from": "2024-05-25T04:30:00.000Z",
+      "to": "2024-05-25T11:00:00.000Z",
+      "id": "d85a81e33eec1e52645049de5fecf4c6"
+    },
+    {
+      "date": "Le samedi 25 mai 2024 de  13:30:00 à  15:30:00",
+      "locality": "TROIS BOUTIQUES UNION VALE",
+      "localitySlug": "trois-boutiques-union-vale",
+      "streets": "TROIS BOUTIQUES UNION VALE.",
+      "district": "grandport",
+      "from": "2024-05-25T09:30:00.000Z",
+      "to": "2024-05-25T11:30:00.000Z",
+      "id": "318cbb2ec034b8cbc6818c7257cb781c"
+    },
+    {
+      "date": "Le samedi 25 mai 2024 de  09:00:00 à  16:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Morc Pierrefonds, Bassin Estate et FAIL Burcos",
+      "district": "plainewilhems",
+      "from": "2024-05-25T05:00:00.000Z",
+      "to": "2024-05-25T12:00:00.000Z",
+      "id": "6526606950a0eec39d7e64b70dca0c18"
+    },
+    {
+      "date": "Le samedi 25 mai 2024 de  11:30:00 à  17:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "COROMANDEL PANORAMMA LANE",
+      "district": "plainewilhems",
+      "from": "2024-05-25T07:30:00.000Z",
+      "to": "2024-05-25T13:00:00.000Z",
+      "id": "640b2a5824f403d31a3ece3dac5cee22"
+    },
+    {
+      "date": "Le samedi 25 mai 2024 de  08:30:00 à  14:30:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "BRABANT STREET, HONDA, LONDON WAY ET LES ALENTOURS",
+      "district": "portlouis",
+      "from": "2024-05-25T04:30:00.000Z",
+      "to": "2024-05-25T10:30:00.000Z",
+      "id": "2f005a409bf55e5fd6208fd0e17ad134"
+    },
+    {
+      "date": "Le samedi 25 mai 2024 de  09:00:00 à  13:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "RAQUETTE ROAD ET LES ALENTOURS",
+      "district": "rivieredurempart",
+      "from": "2024-05-25T05:00:00.000Z",
+      "to": "2024-05-25T09:00:00.000Z",
+      "id": "b18a4383350880b4c818677ed524c311"
+    },
+    {
+      "date": "Le samedi 25 mai 2024 de  10:00:00 à  15:00:00",
+      "locality": "ROCHES NOIRES",
+      "localitySlug": "roches-noires",
+      "streets": "DOMAINE DE LAVANDE ROCHE NOIRES",
+      "district": "rivieredurempart",
+      "from": "2024-05-25T06:00:00.000Z",
+      "to": "2024-05-25T11:00:00.000Z",
+      "id": "e83e4effefe0a0980cf46fd364fd0da1"
+    }
+  ]
+}

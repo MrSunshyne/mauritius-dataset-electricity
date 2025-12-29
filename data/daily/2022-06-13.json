@@ -1,0 +1,28 @@
+{
+  "date": "2022-06-13",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.356Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le lundi 13 juin 2022 de  12:00:00 à  16:00:00",
+      "locality": "MOKA",
+      "localitySlug": "moka",
+      "streets": "CAMP SAMY",
+      "district": "moka",
+      "from": "2022-06-13T08:00:00.000Z",
+      "to": "2022-06-13T12:00:00.000Z",
+      "id": "d3bb84ac7a0abc816848112dc45d2c1c"
+    },
+    {
+      "date": "Le lundi 13 juin 2022 de  14:45:00 à  17:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "BALI RD PEREYBERE",
+      "district": "rivieredurempart",
+      "from": "2022-06-13T10:45:00.000Z",
+      "to": "2022-06-13T13:00:00.000Z",
+      "id": "578894401f376d835e5c371c003df760"
+    }
+  ]
+}

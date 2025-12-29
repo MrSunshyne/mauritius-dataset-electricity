@@ -1,0 +1,28 @@
+{
+  "date": "2024-01-12",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.398Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le vendredi 12 janvier 2024 de  15:15:00 à  16:45:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "LES HABITANTS DE MORC MAISON BLANCHE, PAMPLEMOUSSES.",
+      "district": "pamplemousses",
+      "from": "2024-01-12T11:15:00.000Z",
+      "to": "2024-01-12T12:45:00.000Z",
+      "id": "3a2d18f608f5d218fc7f6ee73388bfe1"
+    },
+    {
+      "date": "Le vendredi 12 janvier 2024 de  14:30:00 à  15:30:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "SOUILLAC NEAR CNT",
+      "district": "savanne",
+      "from": "2024-01-12T10:30:00.000Z",
+      "to": "2024-01-12T11:30:00.000Z",
+      "id": "c066509cb8029e47e5bffb0ee4dd0031"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "date": "2024-03-11",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.402Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le lundi 11 mars 2024 de  09:50:00 à  12:30:00",
+      "locality": "BRAMSTHAN",
+      "localitySlug": "bramsthan",
+      "streets": "LALLBAHADOOR RD, BRAMSTHAN",
+      "district": "flacq",
+      "from": "2024-03-11T05:50:00.000Z",
+      "to": "2024-03-11T08:30:00.000Z",
+      "id": "e971d7b098ce7bc6f14bce03355e7929"
+    },
+    {
+      "date": "Le lundi 11 mars 2024 de  09:00:00 à  12:00:00",
+      "locality": "UPPER DAGOTIERE",
+      "localitySlug": "upper-dagotiere",
+      "streets": "Upper Dagotiere, NHDC Dagotiere and Alma Camp",
+      "district": "moka",
+      "from": "2024-03-11T05:00:00.000Z",
+      "to": "2024-03-11T08:00:00.000Z",
+      "id": "4759a40b07be35ea00c8f38466b7aee6"
+    },
+    {
+      "date": "Le lundi 11 mars 2024 de  06:30:00 à  11:30:00",
+      "locality": "NOTRE DAME",
+      "localitySlug": "notre-dame",
+      "streets": "MORC LAMITIE NOTRE DAME",
+      "district": "pamplemousses",
+      "from": "2024-03-11T02:30:00.000Z",
+      "to": "2024-03-11T07:30:00.000Z",
+      "id": "dcd5793d4eb5067d0a2bf0c183405b62"
+    },
+    {
+      "date": "Le lundi 11 mars 2024 de  09:00:00 à  12:00:00",
+      "locality": "16EME MILE",
+      "localitySlug": "16eme-mile",
+      "streets": "Upper Dagotiere, NHDC Dagotiere and Alma Camp",
+      "district": "plainewilhems",
+      "from": "2024-03-11T05:00:00.000Z",
+      "to": "2024-03-11T08:00:00.000Z",
+      "id": "dd44b546bb8d631caeeb0f5c1a53a333"
+    },
+    {
+      "date": "Le lundi 11 mars 2024 de  13:10:00 à  14:00:00",
+      "locality": "LA CAVERNE",
+      "localitySlug": "la-caverne",
+      "streets": "LA CAVERN",
+      "district": "plainewilhems",
+      "from": "2024-03-11T09:10:00.000Z",
+      "to": "2024-03-11T10:00:00.000Z",
+      "id": "ecb10031619f3130c73f04ac0ffe9a9d"
+    },
+    {
+      "date": "Le lundi 11 mars 2024 de  13:00:00 à  15:30:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "ALBATROSS RD, MORC GARDEN SUNASSEE",
+      "district": "portlouis",
+      "from": "2024-03-11T09:00:00.000Z",
+      "to": "2024-03-11T11:30:00.000Z",
+      "id": "19cc808fe003e0c02dae97dc60c276ae"
+    }
+  ]
+}

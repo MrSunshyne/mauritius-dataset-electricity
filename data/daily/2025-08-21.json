@@ -1,0 +1,78 @@
+{
+  "date": "2025-08-21",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.438Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le jeudi 21 août 2025 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC BISMIC - AVE DES CACATOES, AVE DES CARDINAUX, AVE DES SERINS, AVE PIC PIC, AVE DES AIGLES, AVE VERGER, AVE DES GOELANDS, AVE PETITE MARIE ET AVE RIVERWALK",
+      "district": "blackriver",
+      "from": "2025-08-21T04:30:00.000Z",
+      "to": "2025-08-21T11:30:00.000Z",
+      "id": "bb4dd569ec7fa53e2ea74e512eecdb28"
+    },
+    {
+      "date": "Le jeudi 21 août 2025 de  08:30:00 à  15:00:00",
+      "locality": "VALETTA",
+      "localitySlug": "valetta",
+      "streets": "Morcellement VRS",
+      "district": "moka",
+      "from": "2025-08-21T04:30:00.000Z",
+      "to": "2025-08-21T11:00:00.000Z",
+      "id": "970e4ba71ee78e82606a86449ea53e79"
+    },
+    {
+      "date": "Le jeudi 21 août 2025 de  09:00:00 à  13:00:00",
+      "locality": "NOTRE DAME",
+      "localitySlug": "notre-dame",
+      "streets": "NOTRE DAME",
+      "district": "pamplemousses",
+      "from": "2025-08-21T05:00:00.000Z",
+      "to": "2025-08-21T09:00:00.000Z",
+      "id": "b22440878117daa62ea3343455a67cfa"
+    },
+    {
+      "date": "Le jeudi 21 août 2025 de  15:40:00 à  16:40:00",
+      "locality": "ARSENAL",
+      "localitySlug": "arsenal",
+      "streets": "ARSENAL DANS LES ALENTOURS DE FILLING",
+      "district": "pamplemousses",
+      "from": "2025-08-21T11:40:00.000Z",
+      "to": "2025-08-21T12:40:00.000Z",
+      "id": "93a492da86fdf2ca87eaa22cdc6ace54"
+    },
+    {
+      "date": "Le jeudi 21 août 2025 de  10:00:00 à  15:00:00",
+      "locality": "LA CHAUMIERE",
+      "localitySlug": "la-chaumiere",
+      "streets": "LA CHAUMIERE",
+      "district": "plainewilhems",
+      "from": "2025-08-21T06:00:00.000Z",
+      "to": "2025-08-21T11:00:00.000Z",
+      "id": "c7e92f2b03f2baea35f3d364ccd0ece5"
+    },
+    {
+      "date": "Le jeudi 21 août 2025 de  15:00:00 à  17:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "RUE ROCHECOUSTE, RUE TELEMAQUE, RUE DR ROUX, FLAT ROBINSON ET FLAT POUPINEL.",
+      "district": "plainewilhems",
+      "from": "2025-08-21T11:00:00.000Z",
+      "to": "2025-08-21T13:00:00.000Z",
+      "id": "6aa74578708926d38afc56a6e216f200"
+    },
+    {
+      "date": "Le jeudi 21 août 2025 de  09:00:00 à  13:00:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "LADY BARKLY SOUILLAC",
+      "district": "savanne",
+      "from": "2025-08-21T05:00:00.000Z",
+      "to": "2025-08-21T09:00:00.000Z",
+      "id": "f477828afdee1826249ce349b004cb3b"
+    }
+  ]
+}

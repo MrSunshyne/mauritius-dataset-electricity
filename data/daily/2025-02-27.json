@@ -1,0 +1,28 @@
+{
+  "date": "2025-02-27",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.429Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le jeudi 27 février 2025 de  09:00:00 à  14:00:00",
+      "locality": "RICHEMARE",
+      "localitySlug": "richemare",
+      "streets": "Village D’ARGY ET RICHE MARE dans les environs de Cemetery Rd, La Boutique Coco et Morc. Le Vieux Moulin",
+      "district": "flacq",
+      "from": "2025-02-27T05:00:00.000Z",
+      "to": "2025-02-27T10:00:00.000Z",
+      "id": "ccf16ec3b18226daaf25598a59895bba"
+    },
+    {
+      "date": "Le jeudi 27 février 2025 de  13:20:00 à  14:00:00",
+      "locality": "BONNE TERRE",
+      "localitySlug": "bonne-terre",
+      "streets": "MODERNE BONNE TERRE DANS LES ENVIRONS GARAGE CNT.",
+      "district": "plainewilhems",
+      "from": "2025-02-27T09:20:00.000Z",
+      "to": "2025-02-27T10:00:00.000Z",
+      "id": "591f194a1c174c4bafa5e8b82874755d"
+    }
+  ]
+}

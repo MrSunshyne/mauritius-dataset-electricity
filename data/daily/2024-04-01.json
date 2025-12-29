@@ -1,0 +1,28 @@
+{
+  "date": "2024-04-01",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.404Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le lundi 1 avril 2024 de  09:30:00 à  12:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "Aves Tamarin,Brigand,Manguier,Independance",
+      "district": "blackriver",
+      "from": "2024-04-01T05:30:00.000Z",
+      "to": "2024-04-01T08:30:00.000Z",
+      "id": "3ee6a11dbc02aa8954decb7c0463aa90"
+    },
+    {
+      "date": "Le lundi 1 avril 2024 de  16:50:00 à  17:50:00",
+      "locality": "ROCHE BOIS",
+      "localitySlug": "roche-bois",
+      "streets": "COCOTERIE",
+      "district": "portlouis",
+      "from": "2024-04-01T12:50:00.000Z",
+      "to": "2024-04-01T13:50:00.000Z",
+      "id": "74b5d5fe57cf037b5459ec674cc48c9f"
+    }
+  ]
+}

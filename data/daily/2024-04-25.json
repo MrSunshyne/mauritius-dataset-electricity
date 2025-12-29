@@ -1,0 +1,58 @@
+{
+  "date": "2024-04-25",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.406Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le jeudi 25 avril 2024 de  09:30:00 à  12:00:00",
+      "locality": "VERDUN",
+      "localitySlug": "verdun",
+      "streets": "VERDUN",
+      "district": "moka",
+      "from": "2024-04-25T05:30:00.000Z",
+      "to": "2024-04-25T08:00:00.000Z",
+      "id": "e304d4086c50c22905e1ab80acff6aa6"
+    },
+    {
+      "date": "Le jeudi 25 avril 2024 de  11:00:00 à  16:00:00",
+      "locality": "NOUVELLE DECOUVERTE",
+      "localitySlug": "nouvelle-decouverte",
+      "streets": "NOUVELLE DECOUVERTE",
+      "district": "moka",
+      "from": "2024-04-25T07:00:00.000Z",
+      "to": "2024-04-25T12:00:00.000Z",
+      "id": "9deac745ee0689a3f32c40cba394430c"
+    },
+    {
+      "date": "Le jeudi 25 avril 2024 de  11:00:00 à  13:00:00",
+      "locality": "BEAU BOIS",
+      "localitySlug": "beau-bois",
+      "streets": "BEAU BOIS",
+      "district": "moka",
+      "from": "2024-04-25T07:00:00.000Z",
+      "to": "2024-04-25T09:00:00.000Z",
+      "id": "96118a7f04860b796e8d81b98b7b6c10"
+    },
+    {
+      "date": "Le jeudi 25 avril 2024 de  10:00:00 à  15:30:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "DANS LES ENVIRONS DE ROUTE SAINT JOSEPH ET LAND SETTLEMENT",
+      "district": "pamplemousses",
+      "from": "2024-04-25T06:00:00.000Z",
+      "to": "2024-04-25T11:30:00.000Z",
+      "id": "c88392c49840eec9c5700da59bd0c095"
+    },
+    {
+      "date": "Le jeudi 25 avril 2024 de  09:00:00 à  14:00:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": "La Mairee Street, Chummun lane, Gauffray Road et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2024-04-25T05:00:00.000Z",
+      "to": "2024-04-25T10:00:00.000Z",
+      "id": "cdb33cdf6d2da3b07845d53e8d8025f8"
+    }
+  ]
+}

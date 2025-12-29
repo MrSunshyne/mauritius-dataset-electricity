@@ -1,0 +1,28 @@
+{
+  "date": "2023-08-30",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.388Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mercredi 30 août 2023 de  08:30:00 à  15:30:00",
+      "locality": "YEMEN",
+      "localitySlug": "yemen",
+      "streets": "WAHALA PUMPING, YEMEN CAMP ET DU CAMPEMENT DE CHASSE",
+      "district": "blackriver",
+      "from": "2023-08-30T04:30:00.000Z",
+      "to": "2023-08-30T11:30:00.000Z",
+      "id": "7815732fb4419e14ba9c65069c5abd0f"
+    },
+    {
+      "date": "Le mercredi 30 août 2023 de  09:00:00 à  13:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "GIDC FLOREAL",
+      "district": "plainewilhems",
+      "from": "2023-08-30T05:00:00.000Z",
+      "to": "2023-08-30T09:00:00.000Z",
+      "id": "55f752a45e412430989f4fb4ab30c1bb"
+    }
+  ]
+}

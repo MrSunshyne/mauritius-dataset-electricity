@@ -1,0 +1,78 @@
+{
+  "date": "2022-08-10",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.360Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le mercredi 10 août 2022 de  10:00:00 à  15:00:00",
+      "locality": "QUATRE SOEURS",
+      "localitySlug": "quatre-soeurs",
+      "streets": "QUATRE SOEURS",
+      "district": "flacq",
+      "from": "2022-08-10T06:00:00.000Z",
+      "to": "2022-08-10T11:00:00.000Z",
+      "id": "fbdb61283cc8ca58e7d28a6e17709a15"
+    },
+    {
+      "date": "Le mercredi 10 août 2022 de  12:00:00 à  15:00:00",
+      "locality": "SOLITUDE",
+      "localitySlug": "solitude",
+      "streets": "Les abonnés habitant Solitude village, Zone industrielle Solitude, NHDC Solitude et 7eme Mile Solitude",
+      "district": "pamplemousses",
+      "from": "2022-08-10T08:00:00.000Z",
+      "to": "2022-08-10T11:00:00.000Z",
+      "id": "8a68a8c5a433038c4a5162e37323c411"
+    },
+    {
+      "date": "Le mercredi 10 août 2022 de  09:00:00 à  11:00:00",
+      "locality": "MESNIL",
+      "localitySlug": "mesnil",
+      "streets": "PARISOT MESNIL",
+      "district": "plainewilhems",
+      "from": "2022-08-10T05:00:00.000Z",
+      "to": "2022-08-10T07:00:00.000Z",
+      "id": "b5724849c4a04580d40c7da46a2f23f9"
+    },
+    {
+      "date": "Le mercredi 10 août 2022 de  16:00:00 à  18:00:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "PALMA",
+      "district": "plainewilhems",
+      "from": "2022-08-10T12:00:00.000Z",
+      "to": "2022-08-10T14:00:00.000Z",
+      "id": "8b4822e02fb56cbb021de4a334f82bb3"
+    },
+    {
+      "date": "Le mercredi 10 août 2022 de  09:00:00 à  11:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "KENSINGTON PALACE PTE AUX SABLES",
+      "district": "portlouis",
+      "from": "2022-08-10T05:00:00.000Z",
+      "to": "2022-08-10T07:00:00.000Z",
+      "id": "cbe586c1dbf3af7830740fc199e0ec8a"
+    },
+    {
+      "date": "Le mercredi 10 août 2022 de  09:00:00 à  15:00:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "Morc Gris Gris",
+      "district": "savanne",
+      "from": "2022-08-10T05:00:00.000Z",
+      "to": "2022-08-10T11:00:00.000Z",
+      "id": "2ebb5ff6d03ce523c2f6fb783d9ea5bb"
+    },
+    {
+      "date": "Le mercredi 10 août 2022 de  11:00:00 à  12:00:00",
+      "locality": "POINTE AUX CANONNIERS",
+      "localitySlug": "pointe-aux-canonniers",
+      "streets": "COASTAL ROAD POINTE AUX CANONNIERS",
+      "district": "rodrigues",
+      "from": "2022-08-10T07:00:00.000Z",
+      "to": "2022-08-10T08:00:00.000Z",
+      "id": "383b580ad93a8642b8d189ed31e8f910"
+    }
+  ]
+}

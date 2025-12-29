@@ -1,0 +1,38 @@
+{
+  "date": "2023-07-21",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.385Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le vendredi 21 juillet 2023 de  08:30:00 à  16:30:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "MORC MARGUERY",
+      "district": "blackriver",
+      "from": "2023-07-21T04:30:00.000Z",
+      "to": "2023-07-21T12:30:00.000Z",
+      "id": "82dc3f32e5ea716df31bbf352b7f247f"
+    },
+    {
+      "date": "Le vendredi 21 juillet 2023 de  09:45:00 à  11:45:00",
+      "locality": "MARE TABAC",
+      "localitySlug": "mare-tabac",
+      "streets": "ROYAL and SSR RD",
+      "district": "grandport",
+      "from": "2023-07-21T05:45:00.000Z",
+      "to": "2023-07-21T07:45:00.000Z",
+      "id": "45349bb8f49645876b34c8ef842173f0"
+    },
+    {
+      "date": "Le vendredi 21 juillet 2023 de  15:00:00 à  17:00:00",
+      "locality": "MORC SAINT ANDRE",
+      "localitySlug": "morc-saint-andre",
+      "streets": "MORC ST ANDRE, PLAINES DES PAPAYES, SOLITUDE ET UNE PARTIE DE TRIOLET",
+      "district": "pamplemousses",
+      "from": "2023-07-21T11:00:00.000Z",
+      "to": "2023-07-21T13:00:00.000Z",
+      "id": "2c4ece4390a7f4e7ed6bb4726a5d38d3"
+    }
+  ]
+}

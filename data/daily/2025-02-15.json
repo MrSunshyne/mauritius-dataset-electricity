@@ -1,0 +1,118 @@
+{
+  "date": "2025-02-15",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.428Z",
+  "outageCount": 11,
+  "outages": [
+    {
+      "date": "Le samedi 15 février 2025 de  08:00:00 à  13:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "TERRE ALBION,CHEMIN MULET,CARANGUE",
+      "district": "blackriver",
+      "from": "2025-02-15T04:00:00.000Z",
+      "to": "2025-02-15T09:00:00.000Z",
+      "id": "bf6ecc488bbf98a1794839d975ff3a31"
+    },
+    {
+      "date": "Le samedi 15 février 2025 de  23:00:00 à  14:00:00",
+      "locality": "POSTE DE FLACQ",
+      "localitySlug": "poste-de-flacq",
+      "streets": "CARREAU ACCASIA POSTE DE FLACQ",
+      "district": "flacq",
+      "from": "2025-02-15T19:00:00.000Z",
+      "to": "2025-02-15T10:00:00.000Z",
+      "id": "f6f0f853f21ee039667f867508bfd503"
+    },
+    {
+      "date": "Le samedi 15 février 2025 de  14:30:00 à  15:00:00",
+      "locality": "POSTE DE FLACQ",
+      "localitySlug": "poste-de-flacq",
+      "streets": "R/RD TOWARDS DREAM PRICE",
+      "district": "flacq",
+      "from": "2025-02-15T10:30:00.000Z",
+      "to": "2025-02-15T11:00:00.000Z",
+      "id": "94d95558731821f85e1febb5ac71d256"
+    },
+    {
+      "date": "Le samedi 15 février 2025 de  08:30:00 à  16:00:00",
+      "locality": "SAINT PAUL",
+      "localitySlug": "saint-paul",
+      "streets": "ST PAUL VACOAS: Morcellement L’Eclézio, Morcellement Benydin, une partie de Rabindranath Tagore Avenue, une partie de Nilkant Mandir Avenue",
+      "district": "plainewilhems",
+      "from": "2025-02-15T04:30:00.000Z",
+      "to": "2025-02-15T12:00:00.000Z",
+      "id": "46a67356d675af9aff7dd26f5c91f057"
+    },
+    {
+      "date": "Le samedi 15 février 2025 de  06:00:00 à  13:00:00",
+      "locality": "CASSIS",
+      "localitySlug": "cassis",
+      "streets": "CASSIS",
+      "district": "portlouis",
+      "from": "2025-02-15T02:00:00.000Z",
+      "to": "2025-02-15T09:00:00.000Z",
+      "id": "2c3b3ca11bec4c61f5b081a64df9caee"
+    },
+    {
+      "date": "Le samedi 15 février 2025 de  06:00:00 à  12:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "MUSLIM CEMETRY",
+      "district": "portlouis",
+      "from": "2025-02-15T02:00:00.000Z",
+      "to": "2025-02-15T08:00:00.000Z",
+      "id": "fe21e8266b9805cc31020a5a46bb7936"
+    },
+    {
+      "date": "Le samedi 15 février 2025 de  15:45:00 à  17:45:00",
+      "locality": "PLAINE VERTE",
+      "localitySlug": "plaine-verte",
+      "streets": "AIL DOREE ST,KARIKAL ST,A R NAWAB ST,M I KHUSTAR ST",
+      "district": "portlouis",
+      "from": "2025-02-15T11:45:00.000Z",
+      "to": "2025-02-15T13:45:00.000Z",
+      "id": "c8b507ec3177e13abd8d5bf02d1e332d"
+    },
+    {
+      "date": "Le samedi 15 février 2025 de  08:00:00 à  12:00:00",
+      "locality": "COTTAGE",
+      "localitySlug": "cottage",
+      "streets": "MORC VRS COTTAGE",
+      "district": "rivieredurempart",
+      "from": "2025-02-15T04:00:00.000Z",
+      "to": "2025-02-15T08:00:00.000Z",
+      "id": "18ffcbc647161f3afdbd5553b830b93c"
+    },
+    {
+      "date": "Le samedi 15 février 2025 de  08:30:00 à  14:30:00",
+      "locality": "MALABAR(RODRIGUES)",
+      "localitySlug": "malabar",
+      "streets": "Soupir, Le Chou et mont plaisir",
+      "district": "rodrigues",
+      "from": "2025-02-15T04:30:00.000Z",
+      "to": "2025-02-15T10:30:00.000Z",
+      "id": "2ac9b4369173e2eaa9dc41e39161084d"
+    },
+    {
+      "date": "Le samedi 15 février 2025 de  14:30:00 à  15:30:00",
+      "locality": "CAMP DU ROI(RODRIGUES)",
+      "localitySlug": "camp-du-roi",
+      "streets": "Pointe Monier, Lunion et Jardin Mamzel",
+      "district": "rodrigues",
+      "from": "2025-02-15T10:30:00.000Z",
+      "to": "2025-02-15T11:30:00.000Z",
+      "id": "3adb7c1732f7376ca5bbcec4f17d9876"
+    },
+    {
+      "date": "Le samedi 15 février 2025 de  07:30:00 à  08:30:00",
+      "locality": "CAMP DU ROI(RODRIGUES)",
+      "localitySlug": "camp-du-roi",
+      "streets": "Pointe Monier, Lunion et Jardin Mamzel",
+      "district": "rodrigues",
+      "from": "2025-02-15T03:30:00.000Z",
+      "to": "2025-02-15T04:30:00.000Z",
+      "id": "4a930cf9ba02374479f83701e743a891"
+    }
+  ]
+}

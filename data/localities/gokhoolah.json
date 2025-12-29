@@ -1,0 +1,53 @@
+{
+  "slug": "gokhoolah",
+  "name": "GOKHOOLAH",
+  "district": "rivieredurempart",
+  "generated": "2025-12-29T20:21:02.609Z",
+  "outageCount": 6,
+  "firstOutage": "2023-07-09",
+  "lastOutage": "2025-11-24",
+  "outages": [
+    {
+      "date": "Le lundi 24 novembre 2025 de  08:00:00 à  13:00:00",
+      "streets": "PART OF GOKHOOLAH",
+      "from": "2025-11-24T04:00:00.000Z",
+      "to": "2025-11-24T09:00:00.000Z",
+      "id": "696b69b63d981dbac779f8a3d8077b30"
+    },
+    {
+      "date": "Le jeudi 8 août 2024 de  09:00:00 à  15:00:00",
+      "streets": "VILLAGE DE GOKHOOLAH",
+      "from": "2024-08-08T05:00:00.000Z",
+      "to": "2024-08-08T11:00:00.000Z",
+      "id": "87b96541c7e9437ab7c72244bf5eb1ca"
+    },
+    {
+      "date": "Le vendredi 15 mars 2024 de  12:00:00 à  13:00:00",
+      "streets": "GOKHOOLAH",
+      "from": "2024-03-15T08:00:00.000Z",
+      "to": "2024-03-15T09:00:00.000Z",
+      "id": "1ef042b2b17eadd697f3e1ce0041622a"
+    },
+    {
+      "date": "Le vendredi 15 mars 2024 de  09:15:00 à  10:30:00",
+      "streets": "MORC VRS GOKOOLAH",
+      "from": "2024-03-15T05:15:00.000Z",
+      "to": "2024-03-15T06:30:00.000Z",
+      "id": "fcd9180084dabd99ad6b35d1146dc802"
+    },
+    {
+      "date": "Le samedi 17 février 2024 de  08:30:00 à  14:30:00",
+      "streets": "le village de Gokhoola",
+      "from": "2024-02-17T04:30:00.000Z",
+      "to": "2024-02-17T10:30:00.000Z",
+      "id": "a83d9659f7551018bf78b8bc1aa1b17b"
+    },
+    {
+      "date": "Le dimanche 9 juillet 2023 de  08:30:00 à  15:30:00",
+      "streets": "LES ABONNES DE GOKHOOLA",
+      "from": "2023-07-09T04:30:00.000Z",
+      "to": "2023-07-09T11:30:00.000Z",
+      "id": "4a25d8f835646b1def946ff477a86dc2"
+    }
+  ]
+}

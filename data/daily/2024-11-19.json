@@ -1,0 +1,88 @@
+{
+  "date": "2024-11-19",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.421Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le mardi 19 novembre 2024 de  08:30:00 à  16:30:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "MORC BLACKROCK ET MORC DES JARDINS",
+      "district": "blackriver",
+      "from": "2024-11-19T04:30:00.000Z",
+      "to": "2024-11-19T12:30:00.000Z",
+      "id": "3dbdcc1998ed74090eb6a7687c3c82e1"
+    },
+    {
+      "date": "Le mardi 19 novembre 2024 de  11:00:00 à  12:00:00",
+      "locality": "QUARTIER MILITAIRE",
+      "localitySlug": "quartier-militaire",
+      "streets": "Esperance",
+      "district": "moka",
+      "from": "2024-11-19T07:00:00.000Z",
+      "to": "2024-11-19T08:00:00.000Z",
+      "id": "c9dd0489a1ebf0e7fbec375e60851172"
+    },
+    {
+      "date": "Le mardi 19 novembre 2024 de  16:35:00 à  17:05:00",
+      "locality": "LA LAURA SAINT PIERRE",
+      "localitySlug": "la-laura-saint-pierre",
+      "streets": "LA LAURA",
+      "district": "moka",
+      "from": "2024-11-19T12:35:00.000Z",
+      "to": "2024-11-19T13:05:00.000Z",
+      "id": "9813446b15e3d10a93a738aa4c78eaa6"
+    },
+    {
+      "date": "Le mardi 19 novembre 2024 de  14:30:00 à  16:30:00",
+      "locality": "BELLE VUE HAREL",
+      "localitySlug": "belle-vue-harel",
+      "streets": "MOULIN BELLE VUE HAREL",
+      "district": "pamplemousses",
+      "from": "2024-11-19T10:30:00.000Z",
+      "to": "2024-11-19T12:30:00.000Z",
+      "id": "809d5b89511cdeebac869b09793be129"
+    },
+    {
+      "date": "Le mardi 19 novembre 2024 de  09:00:00 à  10:30:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "Morc Daruty,Ave Brown Sequard",
+      "district": "plainewilhems",
+      "from": "2024-11-19T05:00:00.000Z",
+      "to": "2024-11-19T06:30:00.000Z",
+      "id": "a2f37b01646088b6a63fab26d2da00fe"
+    },
+    {
+      "date": "Le mardi 19 novembre 2024 de  15:00:00 à  16:00:00",
+      "locality": "TREFLES",
+      "localitySlug": "trefles",
+      "streets": "GUY ROSEMON, JEETOO ET BERTHAUD",
+      "district": "plainewilhems",
+      "from": "2024-11-19T11:00:00.000Z",
+      "to": "2024-11-19T12:00:00.000Z",
+      "id": "2a624a74f010b364595941b42adbdcfc"
+    },
+    {
+      "date": "Le mardi 19 novembre 2024 de  16:30:00 à  17:15:00",
+      "locality": "COROMONDEL - IND ZONE",
+      "localitySlug": "coromondel-ind-zone",
+      "streets": "COROMANDEL IND ZONE",
+      "district": "plainewilhems",
+      "from": "2024-11-19T12:30:00.000Z",
+      "to": "2024-11-19T13:15:00.000Z",
+      "id": "8a48de425c9caa768880d9ae36318be4"
+    },
+    {
+      "date": "Le mardi 19 novembre 2024 de  09:30:00 à  10:30:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "Terasson,Near SaveMax",
+      "district": "portlouis",
+      "from": "2024-11-19T05:30:00.000Z",
+      "to": "2024-11-19T06:30:00.000Z",
+      "id": "7f0d2a3d74dcc97b16a62d73aad76c01"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "pont-lardier",
+  "name": "PONT LARDIER",
+  "district": "flacq",
+  "generated": "2025-12-29T20:21:02.753Z",
+  "outageCount": 5,
+  "firstOutage": "2023-10-31",
+  "lastOutage": "2025-01-31",
+  "outages": [
+    {
+      "date": "Le vendredi 31 janvier 2025 de  09:45:00 à  10:15:00",
+      "streets": "PONT LARDIER",
+      "from": "2025-01-31T05:45:00.000Z",
+      "to": "2025-01-31T06:15:00.000Z",
+      "id": "74998f3ed256bd48fbae95d805f77102"
+    },
+    {
+      "date": "Le lundi 7 octobre 2024 de  14:40:00 à  15:25:00",
+      "streets": "LA LUCIE BUILDING, DANS LES ENVIRONS COLLEGE SSS ET MORC LA LUCIE ROY.",
+      "from": "2024-10-07T10:40:00.000Z",
+      "to": "2024-10-07T11:25:00.000Z",
+      "id": "f026454b9ed88ecbd17a74647c56335c"
+    },
+    {
+      "date": "Le mardi 14 mai 2024 de  15:00:00 à  16:00:00",
+      "streets": "PONT LARDIER EN DIRECTION CENTRE.",
+      "from": "2024-05-14T11:00:00.000Z",
+      "to": "2024-05-14T12:00:00.000Z",
+      "id": "ff2d6d252142087fb8fcb2bb19df5393"
+    },
+    {
+      "date": "Le vendredi 23 février 2024 de  10:30:00 à  12:00:00",
+      "streets": "ROYAL ROAD & MORC PONT LARDIER",
+      "from": "2024-02-23T06:30:00.000Z",
+      "to": "2024-02-23T08:00:00.000Z",
+      "id": "6a49bae990f1ad1ba314032cbb451e7b"
+    },
+    {
+      "date": "Le mardi 31 octobre 2023 de  10:00:00 à  13:00:00",
+      "streets": "PONT LARDIER",
+      "from": "2023-10-31T06:00:00.000Z",
+      "to": "2023-10-31T09:00:00.000Z",
+      "id": "dc292f614939ebdcbe7687542e821899"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "date": "2022-07-28",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.359Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le jeudi 28 juillet 2022 de  10:00:00 à  12:00:00",
+      "locality": "GRAND BEL AIR",
+      "localitySlug": "grand-bel-air",
+      "streets": "GRAND BEL AIR",
+      "district": "flacq",
+      "from": "2022-07-28T06:00:00.000Z",
+      "to": "2022-07-28T08:00:00.000Z",
+      "id": "dc36b7f820641531629ddef37ea1d439"
+    },
+    {
+      "date": "Le jeudi 28 juillet 2022 de  08:15:00 à  17:00:00",
+      "locality": "CAMP THOREL",
+      "localitySlug": "camp-thorel",
+      "streets": "Camp Thorel",
+      "district": "moka",
+      "from": "2022-07-28T04:15:00.000Z",
+      "to": "2022-07-28T13:00:00.000Z",
+      "id": "01395c7ff94900f1cba671dfa2451406"
+    },
+    {
+      "date": "Le jeudi 28 juillet 2022 de  09:00:00 à  15:00:00",
+      "locality": "CAMP THOREL",
+      "localitySlug": "camp-thorel",
+      "streets": "CAMP THOREL",
+      "district": "moka",
+      "from": "2022-07-28T05:00:00.000Z",
+      "to": "2022-07-28T11:00:00.000Z",
+      "id": "deb0be0ea743c65c43a952857ecdcdfa"
+    },
+    {
+      "date": "Le jeudi 28 juillet 2022 de  08:00:00 à  17:00:00",
+      "locality": "CAMP THOREL",
+      "localitySlug": "camp-thorel",
+      "streets": "CAMP THOREL",
+      "district": "moka",
+      "from": "2022-07-28T04:00:00.000Z",
+      "to": "2022-07-28T13:00:00.000Z",
+      "id": "fc1ed7a9b7d061782fdeb04c418181de"
+    },
+    {
+      "date": "Le jeudi 28 juillet 2022 de  08:00:00 à  15:30:00",
+      "locality": "BOIS ROUGE",
+      "localitySlug": "bois-rouge",
+      "streets": "La Louisa, Mon Rocher, Bois Rouge et Beau Plan Camp",
+      "district": "pamplemousses",
+      "from": "2022-07-28T04:00:00.000Z",
+      "to": "2022-07-28T11:30:00.000Z",
+      "id": "ddadcd1c4a27a6537a59742b7ed23d3b"
+    },
+    {
+      "date": "Le jeudi 28 juillet 2022 de  08:30:00 à  13:00:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "Les abonnés de La Marie habitant les régions et les rues suivantes : Morcellement  Seetaram, Accacia No 2, 3 et 5, Impasse Sai et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-07-28T04:30:00.000Z",
+      "to": "2022-07-28T09:00:00.000Z",
+      "id": "0f80cf1b7e84af0e658f5c21ed3a2718"
+    },
+    {
+      "date": "Le jeudi 28 juillet 2022 de  08:30:00 à  16:30:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "une partie de Camp-Roches, une partie de Camp Bellin No. 1, No. 2 et No. 3, une partie de Chemin Caldwell",
+      "district": "plainewilhems",
+      "from": "2022-07-28T04:30:00.000Z",
+      "to": "2022-07-28T12:30:00.000Z",
+      "id": "355bdb477be34998a072e6ba260fb196"
+    },
+    {
+      "date": "Le jeudi 28 juillet 2022 de  13:00:00 à  16:00:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "Les abonnés de La Marie habitant les régions et les rues suivantes : Partie de la Route Royale de La Marie, partie de Morcellement Pousson et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-07-28T09:00:00.000Z",
+      "to": "2022-07-28T12:00:00.000Z",
+      "id": "9245ca05c023b327147ee8a5bce13197"
+    }
+  ]
+}

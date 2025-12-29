@@ -1,0 +1,39 @@
+{
+  "slug": "plaine-chanpagne",
+  "name": "PLAINE CHANPAGNE",
+  "district": "blackriver",
+  "generated": "2025-12-29T20:21:02.736Z",
+  "outageCount": 4,
+  "firstOutage": "2022-06-23",
+  "lastOutage": "2025-07-02",
+  "outages": [
+    {
+      "date": "Le mercredi 2 juillet 2025 de  09:55:00 à  12:00:00",
+      "streets": "VARANGUE SUR MONDEDOMAINE ST DENIS",
+      "from": "2025-07-02T05:55:00.000Z",
+      "to": "2025-07-02T08:00:00.000Z",
+      "id": "6a7a50cd2d6674b156bae5f84cd6c7f5"
+    },
+    {
+      "date": "Le vendredi 22 mars 2024 de  10:00:00 à  13:00:00",
+      "streets": "VARANGUE SUR MONDE",
+      "from": "2024-03-22T06:00:00.000Z",
+      "to": "2024-03-22T09:00:00.000Z",
+      "id": "9075d55b1594712a8ba61bb3c3646690"
+    },
+    {
+      "date": "Le mardi 20 juin 2023 de  11:00:00 à  12:15:00",
+      "streets": "DANS LES ENVIRONS DE GRAND BASSIN, AVALON ET VARANGUE SUR MORNE.",
+      "from": "2023-06-20T07:00:00.000Z",
+      "to": "2023-06-20T08:15:00.000Z",
+      "id": "91fb066417e062de8c51047b34d1ca1d"
+    },
+    {
+      "date": "Le jeudi 23 juin 2022 de  09:00:00 à  16:00:00",
+      "streets": "Plaine Champagne",
+      "from": "2022-06-23T05:00:00.000Z",
+      "to": "2022-06-23T12:00:00.000Z",
+      "id": "2416ce8adae80ca15c02e011aa92ac43"
+    }
+  ]
+}

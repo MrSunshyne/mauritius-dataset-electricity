@@ -1,0 +1,1355 @@
+{
+  "slug": "curepipe",
+  "name": "CUREPIPE",
+  "district": "plainewilhems",
+  "generated": "2025-12-29T20:21:02.583Z",
+  "outageCount": 192,
+  "firstOutage": "2022-03-27",
+  "lastOutage": "2025-12-16",
+  "outages": [
+    {
+      "date": "Le mardi 16 décembre 2025 de  09:15:00 à  11:00:00",
+      "streets": "AVRILLON ST IN REGION JAMES TOOLSEE SCHOOL",
+      "from": "2025-12-16T05:15:00.000Z",
+      "to": "2025-12-16T07:00:00.000Z",
+      "id": "4c9cc90dfe44d277131ed47491ed5ce2"
+    },
+    {
+      "date": "Le vendredi 5 décembre 2025 de  09:30:00 à  13:00:00",
+      "streets": "Edward Huges, Dr Jeetoo, Emilie Pitot Street, E. Serret Street, Dr Edwards Street et une partie de Pope Hennessy",
+      "from": "2025-12-05T05:30:00.000Z",
+      "to": "2025-12-05T09:00:00.000Z",
+      "id": "8f8029fea22f5ec65b6f05f6ff0087e7"
+    },
+    {
+      "date": "Le mercredi 3 décembre 2025 de  15:00:00 à  17:00:00",
+      "streets": "Residence Malherbes A, Residence Malherbe B, Le prevert et une partie de Wooton",
+      "from": "2025-12-03T11:00:00.000Z",
+      "to": "2025-12-03T13:00:00.000Z",
+      "id": "f43b5b1bc33374c51cde8255c570f26a"
+    },
+    {
+      "date": "Le dimanche 12 octobre 2025 de  08:30:00 à  16:00:00",
+      "streets": "dans les envrions de Sir John pope Henessy Ave, K Koenig Street, Allée Camphre, Bernandin de St Pierre, Canhye Lane, Persad Lane, Réservoir Lane, Impasse Ollite, Paratian Lane, Mahadea Lane, Hawk Lane, Eagle Lane, Kestrel Lane, Hans Road et George Colombes.",
+      "from": "2025-10-12T04:30:00.000Z",
+      "to": "2025-10-12T12:00:00.000Z",
+      "id": "10fc927757c11633e459c2db19c7a393"
+    },
+    {
+      "date": "Le samedi 11 octobre 2025 de  09:00:00 à  14:00:00",
+      "streets": "RESIDENCE KOENIG, BROWN SEQUARD STREET AND SURROUNDINGS",
+      "from": "2025-10-11T05:00:00.000Z",
+      "to": "2025-10-11T10:00:00.000Z",
+      "id": "6af25ce8af7db7fc8b6f6de5437f9a76"
+    },
+    {
+      "date": "Le dimanche 21 septembre 2025 de  08:30:00 à  16:00:00",
+      "streets": "dans les périmètres et rues suivante : une partie de Pope Henessy Street, Edgar Hughes Street, Emile Pitot, Dr Jeetun Street, La Marque Street, Sir William Newton Street, Sir Gaetan Duval Street, Cossigny Street et Remono Street",
+      "from": "2025-09-21T04:30:00.000Z",
+      "to": "2025-09-21T12:00:00.000Z",
+      "id": "417f9a7338d31cebe14ad2708edb5734"
+    },
+    {
+      "date": "Le vendredi 12 septembre 2025 de  08:30:00 à  13:00:00",
+      "streets": "dans les environs de Sir Virgil Naz Street, Sir William Newton Street, Cossigny Street et Sir Gaetan Duval Street",
+      "from": "2025-09-12T04:30:00.000Z",
+      "to": "2025-09-12T09:00:00.000Z",
+      "id": "3db13f22aaee8a84d68d610a17103ee6"
+    },
+    {
+      "date": "Le jeudi 4 septembre 2025 de  12:00:00 à  15:00:00",
+      "streets": "dans les environs de Remodo Street",
+      "from": "2025-09-04T08:00:00.000Z",
+      "to": "2025-09-04T11:00:00.000Z",
+      "id": "060a7c43112cb45266d48edb5f2273d8"
+    },
+    {
+      "date": "Le mercredi 20 août 2025 de  08:30:00 à  15:00:00",
+      "streets": "Morcellement Riverland - Robinson",
+      "from": "2025-08-20T04:30:00.000Z",
+      "to": "2025-08-20T11:00:00.000Z",
+      "id": "f8e65af0f93354989e2da9e2fae40c05"
+    },
+    {
+      "date": "Le dimanche 13 juillet 2025 de  08:30:00 à  16:00:00",
+      "streets": "Dupin Street, Park Hotel Lane, Residence Bonneval, Residence St Clement Court, Noelville Street, Flat Cailloux et une partie de St Clement",
+      "from": "2025-07-13T04:30:00.000Z",
+      "to": "2025-07-13T12:00:00.000Z",
+      "id": "dcd8e449ab5b575db342fa922e50153c"
+    },
+    {
+      "date": "Le jeudi 3 juillet 2025 de  09:00:00 à  12:00:00",
+      "streets": "dans les environs de Hard Line Lane et OConnor",
+      "from": "2025-07-03T05:00:00.000Z",
+      "to": "2025-07-03T08:00:00.000Z",
+      "id": "e4c1aadef27f1aea76a1db89f9c8967e"
+    },
+    {
+      "date": "Le vendredi 27 juin 2025 de  10:00:00 à  13:00:00",
+      "streets": "MORC RIVERLAND, CAMP CAVAL AND SURROUNDINGS",
+      "from": "2025-06-27T06:00:00.000Z",
+      "to": "2025-06-27T09:00:00.000Z",
+      "id": "d9008259e7df3e946e21e5e9d81946e3"
+    },
+    {
+      "date": "Le jeudi 26 juin 2025 de  09:00:00 à  12:00:00",
+      "streets": "dans les environs de Robinson road, Hard Line lane et OConnor",
+      "from": "2025-06-26T05:00:00.000Z",
+      "to": "2025-06-26T08:00:00.000Z",
+      "id": "e56e10d8135db55abe6a6a96dfa2a2f6"
+    },
+    {
+      "date": "Le lundi 14 avril 2025 de  09:00:00 à  12:00:00",
+      "streets": "BIGARA",
+      "from": "2025-04-14T05:00:00.000Z",
+      "to": "2025-04-14T08:00:00.000Z",
+      "id": "df6a6f70ac7c9d215f70b12faf43c3e8"
+    },
+    {
+      "date": "Le mardi 4 mars 2025 de  09:00:00 à  14:00:00",
+      "streets": "dans les environs de Flat Maharani, impasse Cayeux et une partie de Leclezio Street",
+      "from": "2025-03-04T05:00:00.000Z",
+      "to": "2025-03-04T10:00:00.000Z",
+      "id": "e952d455cf97d5642b72252424e83af6"
+    },
+    {
+      "date": "Le vendredi 14 février 2025 de  08:30:00 à  15:00:00",
+      "streets": "Leclezio street, Maharani Flat et Bus Terminal",
+      "from": "2025-02-14T04:30:00.000Z",
+      "to": "2025-02-14T11:00:00.000Z",
+      "id": "c8171345551cd081f206b52c00b8c67d"
+    },
+    {
+      "date": "Le dimanche 9 février 2025 de  08:30:00 à  16:00:00",
+      "streets": "dans les périmètres et rues suivantes : Morc Riverland, Les Casernes, Robinson road et O’Connor street",
+      "from": "2025-02-09T04:30:00.000Z",
+      "to": "2025-02-09T12:00:00.000Z",
+      "id": "f4f326b9efbe64dfab63f9172cf91080"
+    },
+    {
+      "date": "Le mercredi 5 février 2025 de  08:30:00 à  14:00:00",
+      "streets": "Curepipe road, Villa Chambly et Bougainville street",
+      "from": "2025-02-05T04:30:00.000Z",
+      "to": "2025-02-05T10:00:00.000Z",
+      "id": "06bffaf95e924a64300e04fa5d2f922f"
+    },
+    {
+      "date": "Le dimanche 19 janvier 2025 de  12:00:00 à  16:00:00",
+      "streets": "dans les périmètres et rues suivante : Route du jardin, Bernardin de St Pierre, Cardinal Store, Morcellement Baschet, Morcellement Currimjee, Morcellement Leclezio, Aguste Esnouf, Lislet Geoffroy, Poupinel de Valence et une partie de Pope Henessy (Ref :CPE/JAN/02)-Planned",
+      "from": "2025-01-19T08:00:00.000Z",
+      "to": "2025-01-19T12:00:00.000Z",
+      "id": "a8e5ed650f46bc825fc62b6ce4d9b591"
+    },
+    {
+      "date": "Le dimanche 19 janvier 2025 de  08:30:00 à  16:00:00",
+      "streets": "dans les périmètres et rues suivante : Brown Sequard street, Desjardins, Morcellement Beloquet, Chadwick street, Gabriel Froppier, St Clement, Gustave Bestel, Edgar Laurent, Stevenson street, Morcellement Ramdanee, Cité Joachim, Morcellement La Grotte, Les Casernes, General Hall, Parathian, Robinson street, Robinson riverside, Riverland et une partie de ligne Berthaud( Ref : CPE/JAN/03)-Planned",
+      "from": "2025-01-19T04:30:00.000Z",
+      "to": "2025-01-19T12:00:00.000Z",
+      "id": "4027f7b04cf6c6c2c5cdb083049f5f22"
+    },
+    {
+      "date": "Le mercredi 8 janvier 2025 de  10:30:00 à  11:30:00",
+      "streets": "BIGARA CUREPIPE",
+      "from": "2025-01-08T06:30:00.000Z",
+      "to": "2025-01-08T07:30:00.000Z",
+      "id": "b8b63f5d24099dc5f78715774d5421ff"
+    },
+    {
+      "date": "Le jeudi 26 décembre 2024 de  09:00:00 à  10:00:00",
+      "streets": "TERRE COUPER CAMP CAVAL CUREPIPE",
+      "from": "2024-12-26T05:00:00.000Z",
+      "to": "2024-12-26T06:00:00.000Z",
+      "id": "96435f1b2bf920560d8d5e93008aca25"
+    },
+    {
+      "date": "Le mercredi 18 décembre 2024 de  14:00:00 à  17:00:00",
+      "streets": "dans les environs de Residence Casernes( Cité Casernes)",
+      "from": "2024-12-18T10:00:00.000Z",
+      "to": "2024-12-18T13:00:00.000Z",
+      "id": "ef2c1fa9e7026e6b1b3a90a7ff2819d9"
+    },
+    {
+      "date": "Le dimanche 24 novembre 2024 de  08:30:00 à  17:30:00",
+      "streets": "Camp Caval, Daruty de Grandpre Ave, Morcellement Hansrod, Paratian Street, Morcellement Coombes, Morcellement Bijou, Sir John Pope Hennessy Street, Alle Camphre, Persad Lane, Ligne Berthuad, Morcellement Corban, Kestrel Road, Koening Street, Annasamy Lane, Eagle Lane, une partie de Robinson et les ruelles avoisinantes",
+      "from": "2024-11-24T04:30:00.000Z",
+      "to": "2024-11-24T13:30:00.000Z",
+      "id": "153582023025d132098afadadc4d4835"
+    },
+    {
+      "date": "Le lundi 11 novembre 2024 de  08:50:00 à  09:40:00",
+      "streets": "BURKINGHAM",
+      "from": "2024-11-11T04:50:00.000Z",
+      "to": "2024-11-11T05:40:00.000Z",
+      "id": "dce4c8d001c6568f8548c0c487b13769"
+    },
+    {
+      "date": "Le mercredi 16 octobre 2024 de  14:45:00 à  17:00:00",
+      "streets": "Rue Couvent de Laurette et les alentours",
+      "from": "2024-10-16T10:45:00.000Z",
+      "to": "2024-10-16T13:00:00.000Z",
+      "id": "8d01cf2569a23155e5c524b1d55e7c82"
+    },
+    {
+      "date": "Le samedi 12 octobre 2024 de  08:30:00 à  15:00:00",
+      "streets": "une partie de la rue Couvent et une partie de la rue Tout Court.",
+      "from": "2024-10-12T04:30:00.000Z",
+      "to": "2024-10-12T11:00:00.000Z",
+      "id": "e11bd66a322f3f76a6e8fe241de22799"
+    },
+    {
+      "date": "Le dimanche 6 octobre 2024 de  08:15:00 à  16:00:00",
+      "streets": "MALHERBES DANS LES ALENTOURS DE CHA ET HAWK STREET",
+      "from": "2024-10-06T04:15:00.000Z",
+      "to": "2024-10-06T12:00:00.000Z",
+      "id": "475e6a1720b5a382a1506d5ad32fcef0"
+    },
+    {
+      "date": "Le dimanche 22 septembre 2024 de  18:45:00 à  22:00:00",
+      "streets": "RUE BARRY CUREPIPE",
+      "from": "2024-09-22T14:45:00.000Z",
+      "to": "2024-09-22T18:00:00.000Z",
+      "id": "8c7c47cf63b4351670c60689958ee497"
+    },
+    {
+      "date": "Le mercredi 18 septembre 2024 de  12:30:00 à  14:00:00",
+      "streets": "CELICOURT ANTHELME CUREPIPE",
+      "from": "2024-09-18T08:30:00.000Z",
+      "to": "2024-09-18T10:00:00.000Z",
+      "id": "cf7069c22823030112faec55fac1bfc0"
+    },
+    {
+      "date": "Le vendredi 13 septembre 2024 de  15:25:00 à  16:30:00",
+      "streets": "LA RUE COUVENT, TOUTCOUR RD ET DANS LES ALENTOURS DE ATELIER TFP",
+      "from": "2024-09-13T11:25:00.000Z",
+      "to": "2024-09-13T12:30:00.000Z",
+      "id": "a6911a85a21d0f4c04db30dfc6036141"
+    },
+    {
+      "date": "Le mercredi 11 septembre 2024 de  09:00:00 à  16:00:00",
+      "streets": "Les abonnés de Wooton habitant dans les périmètres des rues suivantes :, Résidence Lily",
+      "from": "2024-09-11T05:00:00.000Z",
+      "to": "2024-09-11T12:00:00.000Z",
+      "id": "e98cda6c1207220731097c2cd5ceb6af"
+    },
+    {
+      "date": "Le jeudi 5 septembre 2024 de  09:00:00 à  16:00:00",
+      "streets": "Wooton - Residence Lily",
+      "from": "2024-09-05T05:00:00.000Z",
+      "to": "2024-09-05T12:00:00.000Z",
+      "id": "fe863b2dac6de95f83eaa293e97e4f95"
+    },
+    {
+      "date": "Le mardi 3 septembre 2024 de  09:45:00 à  12:00:00",
+      "streets": "LEVAL MOTORWAY SHELL, ENGEN AND CHANTIER LA VIGIE",
+      "from": "2024-09-03T05:45:00.000Z",
+      "to": "2024-09-03T08:00:00.000Z",
+      "id": "b907d1b153ca092008c520ad5d911ace"
+    },
+    {
+      "date": "Le jeudi 29 août 2024 de  08:30:00 à  16:00:00",
+      "streets": "Malherbes",
+      "from": "2024-08-29T04:30:00.000Z",
+      "to": "2024-08-29T12:00:00.000Z",
+      "id": "c652fc38d21f2a5ab0b3cd37e43761f7"
+    },
+    {
+      "date": "Le lundi 26 août 2024 de  10:00:00 à  11:30:00",
+      "streets": "tout court lane",
+      "from": "2024-08-26T06:00:00.000Z",
+      "to": "2024-08-26T07:30:00.000Z",
+      "id": "7a0282fee05c6d66abd6f3539a309bfd"
+    },
+    {
+      "date": "Le dimanche 25 août 2024 de  12:45:00 à  14:45:00",
+      "streets": "ROUTE JARDINS",
+      "from": "2024-08-25T08:45:00.000Z",
+      "to": "2024-08-25T10:45:00.000Z",
+      "id": "c23d5122efa1eca1e5e3535bbd2afc87"
+    },
+    {
+      "date": "Le dimanche 25 août 2024 de  09:15:00 à  10:00:00",
+      "streets": "DANS LES ALENTOURS DE STATE BANK ET BANK ONE",
+      "from": "2024-08-25T05:15:00.000Z",
+      "to": "2024-08-25T06:00:00.000Z",
+      "id": "25216dae70452fae02b19b7d6843571a"
+    },
+    {
+      "date": "Le dimanche 18 août 2024 de  13:00:00 à  16:00:00",
+      "streets": "Cite La Brasserie",
+      "from": "2024-08-18T09:00:00.000Z",
+      "to": "2024-08-18T12:00:00.000Z",
+      "id": "89a8fe47313edbc56d1a95f5862cf043"
+    },
+    {
+      "date": "Le dimanche 18 août 2024 de  09:00:00 à  13:00:00",
+      "streets": "Cite Saint Luc",
+      "from": "2024-08-18T05:00:00.000Z",
+      "to": "2024-08-18T09:00:00.000Z",
+      "id": "0123722425f3754e441844be071f1aaa"
+    },
+    {
+      "date": "Le vendredi 9 août 2024 de  08:00:00 à  10:00:00",
+      "streets": "LAVENDER HILL,COUVENT DE LORETTE",
+      "from": "2024-08-09T04:00:00.000Z",
+      "to": "2024-08-09T06:00:00.000Z",
+      "id": "fd7750ec4938a4dc61510cc7670ee5c9"
+    },
+    {
+      "date": "Le jeudi 1 août 2024 de  09:30:00 à  14:00:00",
+      "streets": "ALLEE CAMPHRE",
+      "from": "2024-08-01T05:30:00.000Z",
+      "to": "2024-08-01T10:00:00.000Z",
+      "id": "97a15a3860ffe88572cc61f1d33aee84"
+    },
+    {
+      "date": "Le mardi 30 juillet 2024 de  09:00:00 à  14:00:00",
+      "streets": "Partie de Cite Atlee",
+      "from": "2024-07-30T05:00:00.000Z",
+      "to": "2024-07-30T10:00:00.000Z",
+      "id": "9d9336dd4b36a5174ffc9b0e5a93b3a6"
+    },
+    {
+      "date": "Le lundi 29 juillet 2024 de  09:00:00 à  12:00:00",
+      "streets": "Casino lane, Securite Sociale, letat civile et les alentours",
+      "from": "2024-07-29T05:00:00.000Z",
+      "to": "2024-07-29T08:00:00.000Z",
+      "id": "01fb26e6a37d0e56275f1282503dbd0b"
+    },
+    {
+      "date": "Le mercredi 24 juillet 2024 de  12:30:00 à  18:00:00",
+      "streets": "LOUISE ST, COMMERSON ST AND SURROUNDINGS",
+      "from": "2024-07-24T08:30:00.000Z",
+      "to": "2024-07-24T14:00:00.000Z",
+      "id": "7d5d853b8c2977a17d45f1520ae47b2b"
+    },
+    {
+      "date": "Le mercredi 24 juillet 2024 de  12:00:00 à  18:00:00",
+      "streets": "Morcellement Senneville, Rue Lees, Willoughby Street, Anderson Street, Commerson Street, Baissac Avenue, Dupere Street et les ruelles avoisinates",
+      "from": "2024-07-24T08:00:00.000Z",
+      "to": "2024-07-24T14:00:00.000Z",
+      "id": "e2da535672d402b102633a1f0eab07ba"
+    },
+    {
+      "date": "Le vendredi 19 juillet 2024 de  15:15:00 à  17:15:00",
+      "streets": "ALLEE CAMPHE ET LES ALENTOURS",
+      "from": "2024-07-19T11:15:00.000Z",
+      "to": "2024-07-19T13:15:00.000Z",
+      "id": "985eded39fb3823b4577649968aedc65"
+    },
+    {
+      "date": "Le jeudi 18 juillet 2024 de  15:00:00 à  18:00:00",
+      "streets": "Morcellement Senneville, Rue Lees, Willoughby Street, Anderson Street, Commerson Street, Baissac Avenue, Dupere Street et les ruelles avoisinates",
+      "from": "2024-07-18T11:00:00.000Z",
+      "to": "2024-07-18T14:00:00.000Z",
+      "id": "9e1a4932ceca89e1e5a72d040e907608"
+    },
+    {
+      "date": "Le jeudi 18 juillet 2024 de  13:00:00 à  15:00:00",
+      "streets": "Man Him Street, une partie de l’impasse Malartic et une partie de la route royale Curepipe vis-à-vis du Collège Royal de Curepipe",
+      "from": "2024-07-18T09:00:00.000Z",
+      "to": "2024-07-18T11:00:00.000Z",
+      "id": "0131ebb17bc22e5cffc278565813c617"
+    },
+    {
+      "date": "Le lundi 8 juillet 2024 de  08:00:00 à  16:00:00",
+      "streets": "La rue Couvent- Lavender Hill Street",
+      "from": "2024-07-08T04:00:00.000Z",
+      "to": "2024-07-08T12:00:00.000Z",
+      "id": "cb6ce649bee76215dc7bba90cfac19fb"
+    },
+    {
+      "date": "Le mercredi 3 juillet 2024 de  10:45:00 à  14:00:00",
+      "streets": "Imp Boulle,Rue Lise",
+      "from": "2024-07-03T06:45:00.000Z",
+      "to": "2024-07-03T10:00:00.000Z",
+      "id": "0d9accb863571d65a29a76fc461ff11d"
+    },
+    {
+      "date": "Le dimanche 23 juin 2024 de  08:00:00 à  16:00:00",
+      "streets": "Le Clezio No. 2 (Pres du clinique Muller)",
+      "from": "2024-06-23T04:00:00.000Z",
+      "to": "2024-06-23T12:00:00.000Z",
+      "id": "f31b87c4e2d54b5d48ab93b8135690eb"
+    },
+    {
+      "date": "Le vendredi 21 juin 2024 de  09:30:00 à  10:30:00",
+      "streets": "RUE LEES MORC DALAY CUREPIPE",
+      "from": "2024-06-21T05:30:00.000Z",
+      "to": "2024-06-21T06:30:00.000Z",
+      "id": "836a44afa19423b46ea49d9a3952ab8e"
+    },
+    {
+      "date": "Le mardi 11 juin 2024 de  09:00:00 à  16:00:00",
+      "streets": "Une partie de Saint Clement Street, Une partie de Gustav Bestel et une partie d’Edgard Laurent Street",
+      "from": "2024-06-11T05:00:00.000Z",
+      "to": "2024-06-11T12:00:00.000Z",
+      "id": "8ec35f1305fe66da297ea62814eb9800"
+    },
+    {
+      "date": "Le vendredi 31 mai 2024 de  09:00:00 à  15:00:00",
+      "streets": "Camp Caval habitant dans les périmètres et rues suivants : Kestrel 1 & 2, Community Centre, Terre Coupée et Mosque Road",
+      "from": "2024-05-31T05:00:00.000Z",
+      "to": "2024-05-31T11:00:00.000Z",
+      "id": "c44ecdb5f8b818f3f4919d8bf4cbdb55"
+    },
+    {
+      "date": "Le vendredi 24 mai 2024 de  13:00:00 à  15:00:00",
+      "streets": "Les abonnés de Curepipe – Saint Clement habitant dans les périmètres et rues suivants : Une partie de Saint Clement Street, Park Hotel Lane, Rue Dupin, Flat St Clerment Court et Residence Bonneval",
+      "from": "2024-05-24T09:00:00.000Z",
+      "to": "2024-05-24T11:00:00.000Z",
+      "id": "7c8f85f5a469389db09f873cfd5a4d3b"
+    },
+    {
+      "date": "Le vendredi 24 mai 2024 de  09:00:00 à  15:00:00",
+      "streets": "Les abonnés Camp Caval habitant dans les périmètres et rues suivants : Kestrel 1 & 2, Community Centre, Terre Coupée et Mosque Road",
+      "from": "2024-05-24T05:00:00.000Z",
+      "to": "2024-05-24T11:00:00.000Z",
+      "id": "9f047393a7c9b51d804fe9e147f92211"
+    },
+    {
+      "date": "Le jeudi 23 mai 2024 de  09:45:00 à  11:00:00",
+      "streets": "COSSIGNY RD,PART OF ROYAL RD",
+      "from": "2024-05-23T05:45:00.000Z",
+      "to": "2024-05-23T07:00:00.000Z",
+      "id": "e8afa5c8b1811d1ef7770a75689c1edc"
+    },
+    {
+      "date": "Le vendredi 3 mai 2024 de  08:30:00 à  10:30:00",
+      "streets": "DANS LES ALENTOURS DE CASINO DE CUREPIPE",
+      "from": "2024-05-03T04:30:00.000Z",
+      "to": "2024-05-03T06:30:00.000Z",
+      "id": "17991428688088f4e6b0ef265cbc39eb"
+    },
+    {
+      "date": "Le dimanche 21 avril 2024 de  08:30:00 à  16:00:00",
+      "streets": "Camp Caval, Daruty de Grandpre Ave, Edward Hugues, Dr Jeetoo, Hansrod Ave, V-Paratian Street, Morcellement Coombes, Morcellement Bijou, Morcellement Piat, Sir John Pope Hennessy Street, Allee Camphre, Persad lane, Sir Willaim Newton, Remono Street et les ruelles avoisinantes",
+      "from": "2024-04-21T04:30:00.000Z",
+      "to": "2024-04-21T12:00:00.000Z",
+      "id": "27ea4949090eb2c117678478842a4f7c"
+    },
+    {
+      "date": "Le vendredi 19 avril 2024 de  12:00:00 à  16:00:00",
+      "streets": "Arthur des Bessy Road, Theveneau Avenue, Mohabeer Mungur Street, Sir Pierre Simonet Street et les ruelles avoisinantes",
+      "from": "2024-04-19T08:00:00.000Z",
+      "to": "2024-04-19T12:00:00.000Z",
+      "id": "580a47d58b4c0dd0f0cbec3f28caf5ed"
+    },
+    {
+      "date": "Le vendredi 19 avril 2024 de  08:30:00 à  15:00:00",
+      "streets": "La Rue Couvent, General De Gaulle St, une partie de Quartier Militaire Road, une partie de Mgr Leen Street et les ruelles avoisinantes",
+      "from": "2024-04-19T04:30:00.000Z",
+      "to": "2024-04-19T11:00:00.000Z",
+      "id": "522ba034cfc2652ae8967c4486edf48c"
+    },
+    {
+      "date": "Le mardi 20 février 2024 de  08:30:00 à  12:00:00",
+      "streets": "Anfield Lane et Tout Court lane",
+      "from": "2024-02-20T04:30:00.000Z",
+      "to": "2024-02-20T08:00:00.000Z",
+      "id": "e3b1125c76ffdf250b0fd79588796ef7"
+    },
+    {
+      "date": "Le lundi 19 février 2024 de  10:00:00 à  14:00:00",
+      "streets": "MORC PINEWOOD",
+      "from": "2024-02-19T06:00:00.000Z",
+      "to": "2024-02-19T10:00:00.000Z",
+      "id": "67fc0905ff43f96035e375198974550b"
+    },
+    {
+      "date": "Le dimanche 18 février 2024 de  08:30:00 à  16:00:00",
+      "streets": "Edgar Laurent, Cite Joachim, Avenue Flamboyant, Faucon, Haut Plateau, General Hall, Stevenson, Joseph Rivière, Andre Robert, Lydie Mootia, Impass Desvaux, Paratian, Morcellement Coombes, Morcellement de Rosnay, Robinson Riverland, Vythilingum, Morcellement La Grotte, Listlet Geoffrey, A. Esnouf, Rue Bonnordin St Pierre et les ruelles avoisinantes",
+      "from": "2024-02-18T04:30:00.000Z",
+      "to": "2024-02-18T12:00:00.000Z",
+      "id": "4638e1aa9c0b0bdc6c1ce193e263461a"
+    },
+    {
+      "date": "Le mercredi 7 février 2024 de  15:20:00 à  17:00:00",
+      "streets": "RUE ST CLEMENT DANS ENVIRONS LES QUINCAILLERIE ST CLEMENT ET LES RUELLES AVOISINANTES.",
+      "from": "2024-02-07T11:20:00.000Z",
+      "to": "2024-02-07T13:00:00.000Z",
+      "id": "6e9afc792af3105f0e364c2896a216dc"
+    },
+    {
+      "date": "Le dimanche 4 février 2024 de  08:30:00 à  16:00:00",
+      "streets": "Curepipe et Forest Side habitant dans les rues suivantes : Saint Clément, Gabriel Froppiers, Park Hotel, Dupin, Robert Edward Hart, Noelville, Gustave Bestel, Cite de Versailles, Docteur Henri Robert, Morcellement Laurent et les ruelles avoisinantes",
+      "from": "2024-02-04T04:30:00.000Z",
+      "to": "2024-02-04T12:00:00.000Z",
+      "id": "80088a4fcb78d2a686174c1a9fcb20b7"
+    },
+    {
+      "date": "Le vendredi 2 février 2024 de  16:00:00 à  17:30:00",
+      "streets": "Residence Bonneval CUREPIPE",
+      "from": "2024-02-02T12:00:00.000Z",
+      "to": "2024-02-02T13:30:00.000Z",
+      "id": "0c58f18f9377654ec2bb6176988734a7"
+    },
+    {
+      "date": "Le mardi 23 janvier 2024 de  10:45:00 à  13:00:00",
+      "streets": "LA VIGIE,RUE COMMERSON,IMPASSE BOULE",
+      "from": "2024-01-23T06:45:00.000Z",
+      "to": "2024-01-23T09:00:00.000Z",
+      "id": "d9cad983239ee2579b68d72c45e74924"
+    },
+    {
+      "date": "Le mardi 23 janvier 2024 de  09:30:00 à  12:00:00",
+      "streets": "RUE SEENEEVASSEN,ICERY,MAURICE MARTIN",
+      "from": "2024-01-23T05:30:00.000Z",
+      "to": "2024-01-23T08:00:00.000Z",
+      "id": "cc7ea7ec36c47cf17538c3db0c8bf300"
+    },
+    {
+      "date": "Le dimanche 21 janvier 2024 de  09:00:00 à  10:00:00",
+      "streets": "RUE LEES, RUE WILLOUGBY, RUE HIGGINSON, COMMERSSON CUREPIPE",
+      "from": "2024-01-21T05:00:00.000Z",
+      "to": "2024-01-21T06:00:00.000Z",
+      "id": "933987cc040d4dc8de831fe1672c6c96"
+    },
+    {
+      "date": "Le mercredi 17 janvier 2024 de  09:45:00 à  11:00:00",
+      "streets": "FLAT PATEL ET EN PARTIE LECLEZIO CUREPIPE",
+      "from": "2024-01-17T05:45:00.000Z",
+      "to": "2024-01-17T07:00:00.000Z",
+      "id": "576644a68b96014a276d43127f144fcf"
+    },
+    {
+      "date": "Le jeudi 11 janvier 2024 de  09:00:00 à  12:00:00",
+      "streets": "Barry Street et une partie de route royale de curepipe.",
+      "from": "2024-01-11T05:00:00.000Z",
+      "to": "2024-01-11T08:00:00.000Z",
+      "id": "b7834eec6c246887f114cc11df57d63a"
+    },
+    {
+      "date": "Le mercredi 3 janvier 2024 de  11:00:00 à  15:00:00",
+      "streets": "Gabriel Fronpied, Bestelle de Forest Side et les ruelles avoisinantes",
+      "from": "2024-01-03T07:00:00.000Z",
+      "to": "2024-01-03T11:00:00.000Z",
+      "id": "9d2881f0f9601c0fe021ee7f43bdd212"
+    },
+    {
+      "date": "Le jeudi 28 décembre 2023 de  13:00:00 à  14:00:00",
+      "streets": "MORC MALHERBES",
+      "from": "2023-12-28T09:00:00.000Z",
+      "to": "2023-12-28T10:00:00.000Z",
+      "id": "44ef4a06ea8a54981cc4219804a699cb"
+    },
+    {
+      "date": "Le lundi 18 décembre 2023 de  15:00:00 à  17:00:00",
+      "streets": "Edgar laurent, Morcellement Ramdenee, Lislet Geoffroy, Joachim, Morcellement La Grotte, Faucon, General Hal, Stevenson",
+      "from": "2023-12-18T11:00:00.000Z",
+      "to": "2023-12-18T13:00:00.000Z",
+      "id": "c5c51c290047f7542d19cc3b35c6160a"
+    },
+    {
+      "date": "Le mercredi 6 décembre 2023 de  08:30:00 à  14:00:00",
+      "streets": "Higginson Street et une partie Leclezio Street",
+      "from": "2023-12-06T04:30:00.000Z",
+      "to": "2023-12-06T10:00:00.000Z",
+      "id": "8b1c4d655e8d3aa28140cfba2093d9d7"
+    },
+    {
+      "date": "Le mardi 5 décembre 2023 de  15:00:00 à  17:00:00",
+      "streets": "Les abonnés de la ville de Curepipe habitant dans les périmètres suivants : Morcellement Riverland, Hard Line Lane, Oconor Lane, Cite Casernes, une partie de Robinson Lane et les ruelles avoisinantes",
+      "from": "2023-12-05T11:00:00.000Z",
+      "to": "2023-12-05T13:00:00.000Z",
+      "id": "5c49479e6125f65b24814c578eb8ee30"
+    },
+    {
+      "date": "Le lundi 4 décembre 2023 de  09:00:00 à  13:00:00",
+      "streets": "STEVENSON RD LES CASERNES CUREPIPE",
+      "from": "2023-12-04T05:00:00.000Z",
+      "to": "2023-12-04T09:00:00.000Z",
+      "id": "c4899b2962a487318a06ad237e21d169"
+    },
+    {
+      "date": "Le jeudi 30 novembre 2023 de  09:00:00 à  12:00:00",
+      "streets": "La Rue Lees de Curepipe habitant les régions et les rues suivantes: La Rue Henry et les ruelles avoisinantes",
+      "from": "2023-11-30T05:00:00.000Z",
+      "to": "2023-11-30T08:00:00.000Z",
+      "id": "d078c52c4df1b14a4e5e34dabda63db1"
+    },
+    {
+      "date": "Le lundi 27 novembre 2023 de  14:30:00 à  18:00:00",
+      "streets": "LA RUE POPENESSY",
+      "from": "2023-11-27T10:30:00.000Z",
+      "to": "2023-11-27T14:00:00.000Z",
+      "id": "90e2861bf3067bbf32b10c72a3e0f78d"
+    },
+    {
+      "date": "Le mardi 21 novembre 2023 de  09:00:00 à  17:00:00",
+      "streets": "Les abonnés de Camp Caval, habitant les régions et les rues suivantes: Mosque Road, Kestrel Road et Reservoir",
+      "from": "2023-11-21T05:00:00.000Z",
+      "to": "2023-11-21T13:00:00.000Z",
+      "id": "501e04b751b8547b00bfe46c27876e0e"
+    },
+    {
+      "date": "Le lundi 20 novembre 2023 de  09:30:00 à  11:00:00",
+      "streets": "ROUTE STEVESON CUREPIPE",
+      "from": "2023-11-20T05:30:00.000Z",
+      "to": "2023-11-20T07:00:00.000Z",
+      "id": "8889ac22c035e213c8c0667de2eb1225"
+    },
+    {
+      "date": "Le dimanche 19 novembre 2023 de  09:00:00 à  17:00:00",
+      "streets": "Morcellement Riverland, Hard Line Lane, Oconor Lane, Cite Casernes, une partie de Robinson Lane et les ruelles",
+      "from": "2023-11-19T05:00:00.000Z",
+      "to": "2023-11-19T13:00:00.000Z",
+      "id": "c9319925fbdedd966290dd2ade5c009b"
+    },
+    {
+      "date": "Le mardi 7 novembre 2023 de  14:45:00 à  16:00:00",
+      "streets": "IMPASSE BAGATI CAMP CAVAL, CUREPIPE.",
+      "from": "2023-11-07T10:45:00.000Z",
+      "to": "2023-11-07T12:00:00.000Z",
+      "id": "b0b01dfac6fc92d5adc783e5e9e6da3b"
+    },
+    {
+      "date": "Le vendredi 6 octobre 2023 de  15:00:00 à  17:00:00",
+      "streets": "Les abonnés de Curepipe du Residence Malherbes A et Residence Malherbes B habitant les rues et régions suivantes : Leopold Songhor, Jospeh Conrad, NHDC Malherbes, Magnolia Street, Malherbes Street, une partie du chemin Clement Charoux et les ruelles avoisinantes",
+      "from": "2023-10-06T11:00:00.000Z",
+      "to": "2023-10-06T13:00:00.000Z",
+      "id": "661c9b32b134e51145a41b97ab12f2d6"
+    },
+    {
+      "date": "Le vendredi 6 octobre 2023 de  09:15:00 à  10:30:00",
+      "streets": "Les Casernes",
+      "from": "2023-10-06T05:15:00.000Z",
+      "to": "2023-10-06T06:30:00.000Z",
+      "id": "60127f738c65b31d69a3d04ea0f16d32"
+    },
+    {
+      "date": "Le vendredi 6 octobre 2023 de  09:00:00 à  17:00:00",
+      "streets": "Robinson,Curepipe habitant les régions et les rues suivantes: . 1. Partie de Robinson,Hard Line lane, Morcellement Riverland, Oconor et les ruelles avoisinantes",
+      "from": "2023-10-06T05:00:00.000Z",
+      "to": "2023-10-06T13:00:00.000Z",
+      "id": "afd23664b2108fceb7832dade9436800"
+    },
+    {
+      "date": "Le mardi 3 octobre 2023 de  13:45:00 à  15:30:00",
+      "streets": "CUREPIPE ANGRAIS CATHAN, EAU COULLEE",
+      "from": "2023-10-03T09:45:00.000Z",
+      "to": "2023-10-03T11:30:00.000Z",
+      "id": "6400e2c2ca3944f56803cc6817309799"
+    },
+    {
+      "date": "Le jeudi 21 septembre 2023 de  14:20:00 à  15:30:00",
+      "streets": "LA RUE LAVANDE",
+      "from": "2023-09-21T10:20:00.000Z",
+      "to": "2023-09-21T11:30:00.000Z",
+      "id": "1dc1917fd0731ec73654d6861f1ee21f"
+    },
+    {
+      "date": "Le vendredi 15 septembre 2023 de  08:30:00 à  15:00:00",
+      "streets": "Morc Ramdanee, Cite Joachim, Morc La Grotte, Rue Auguste Esnouf , Haut Plateau Street , General Hall Street , L. Moutia Street, Morc Coombes , Morc Filao Lane, Morc de Rosnay, Parathian Lane , Filaos Street,  Partie de Edgard Laurent Street,  Partie de Ligne Berthaud,  Partie de Route Du Jardin et les ruelles avoisinantes",
+      "from": "2023-09-15T04:30:00.000Z",
+      "to": "2023-09-15T11:00:00.000Z",
+      "id": "505fe837cf19c29c55ae74be91e87660"
+    },
+    {
+      "date": "Le mercredi 13 septembre 2023 de  08:30:00 à  15:00:00",
+      "streets": "Morc Ramdanee, Cite Joachim, Morc La Grotte, Rue Auguste Esnouf , Haut Plateau Street , General Hall Street , L. Moutia Street, Morc Coombes , Morc Filao Lane, Morc de Rosnay, Parathian Lane , Filaos Street,  Partie de Edgard Laurent Street,  Partie de Ligne Berthaud,  Partie de Route Du Jardin et les ruelles avoisinantes",
+      "from": "2023-09-13T04:30:00.000Z",
+      "to": "2023-09-13T11:00:00.000Z",
+      "id": "04ad86c5d637d02b7349813f052878ac"
+    },
+    {
+      "date": "Le mercredi 6 septembre 2023 de  12:30:00 à  14:00:00",
+      "streets": "PART OF POPE HENNESSY ST NEAR TRAFFIC LIGHTS.",
+      "from": "2023-09-06T08:30:00.000Z",
+      "to": "2023-09-06T10:00:00.000Z",
+      "id": "ad2a43a5ccffdcdecb7baef2435f5c4e"
+    },
+    {
+      "date": "Le jeudi 24 août 2023 de  15:00:00 à  18:00:00",
+      "streets": "Robinson, Morcellement Riverland, Hardline lane, Oconor",
+      "from": "2023-08-24T11:00:00.000Z",
+      "to": "2023-08-24T14:00:00.000Z",
+      "id": "18ec840b7aa4e560baf462c3d12cca36"
+    },
+    {
+      "date": "Le jeudi 24 août 2023 de  08:30:00 à  16:00:00",
+      "streets": "Les abonnés de CHA Malherbes B, Curepipe habitant les rues et régions suivantes: Partie de Bernardin de St Pierre, Dumas, partie de NHDC Malherbes et les ruelles avoisinantes",
+      "from": "2023-08-24T04:30:00.000Z",
+      "to": "2023-08-24T12:00:00.000Z",
+      "id": "842ec274b81841b4e31c29c333ba3523"
+    },
+    {
+      "date": "Le jeudi 27 juillet 2023 de  12:00:00 à  16:00:00",
+      "streets": "Les abonnés de Robinson, Curepipe habitant les rues et les régions suivantes : Partie de Hardline lane et les ruelles avoisinantes",
+      "from": "2023-07-27T08:00:00.000Z",
+      "to": "2023-07-27T12:00:00.000Z",
+      "id": "6d5196bd1ec9c2e4af0feae0e3d12d94"
+    },
+    {
+      "date": "Le mardi 25 juillet 2023 de  12:00:00 à  15:00:00",
+      "streets": "DUPIN ET COMMERFORD STREET",
+      "from": "2023-07-25T08:00:00.000Z",
+      "to": "2023-07-25T11:00:00.000Z",
+      "id": "e48ac8ced862e64912d3efb26709d09b"
+    },
+    {
+      "date": "Le dimanche 23 juillet 2023 de  08:30:00 à  17:00:00",
+      "streets": "CHA Malherbes A et B, NHDC Malherbes, Morcellement Malherbes, NHDC les Préverts, Partie de Clément Charoux, partie de la rue Couvent",
+      "from": "2023-07-23T04:30:00.000Z",
+      "to": "2023-07-23T13:00:00.000Z",
+      "id": "61c667f82b79e97e3eeb180270dc2e6b"
+    },
+    {
+      "date": "Le jeudi 20 juillet 2023 de  08:45:00 à  09:45:00",
+      "streets": "whole Malherbes region",
+      "from": "2023-07-20T04:45:00.000Z",
+      "to": "2023-07-20T05:45:00.000Z",
+      "id": "fb21a4114d16a3d1ab2e0b946de3b76c"
+    },
+    {
+      "date": "Le mardi 11 juillet 2023 de  09:00:00 à  12:00:00",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes: Notre de Dame de Lorette, une partie de Morcellement Couacaud et les ruelles avoisinantes",
+      "from": "2023-07-11T05:00:00.000Z",
+      "to": "2023-07-11T08:00:00.000Z",
+      "id": "73b88507ddc42fc331277f0695dc831c"
+    },
+    {
+      "date": "Le mercredi 21 juin 2023 de  15:30:00 à  18:30:00",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes: Impasse Leclézio, Gujadhur, Impasse Karamtally, Impasse Mungra, Rajcoomar, Stretcher, Cère, Impasse Malherbes, Vitry,  partie de Clément Charoux  et  les ruelles avoisinantes",
+      "from": "2023-06-21T11:30:00.000Z",
+      "to": "2023-06-21T14:30:00.000Z",
+      "id": "a4e2befcd8e30bd585f3c8ad746ad4fb"
+    },
+    {
+      "date": "Le dimanche 18 juin 2023 de  12:00:00 à  16:00:00",
+      "streets": "Les abonnés de Curepipe habitant les rues suivantes: Brown Séquard, Chadwick, Flat Albis, Collier, Morcellement Daruty, Flat Val de Loire, Avrillon, Commerford et les ruelles avoisinantes",
+      "from": "2023-06-18T08:00:00.000Z",
+      "to": "2023-06-18T12:00:00.000Z",
+      "id": "764ec23c37c2bef029ce58b9be22b4d7"
+    },
+    {
+      "date": "Le dimanche 18 juin 2023 de  08:30:00 à  16:00:00",
+      "streets": "Les abonnés de Curepipe habitant les rues suivantes: Morcellement Béllouguet, Gustave Bestel, Neptune, Gabriel Froppier, Collier, Julien Desjardin, St Clément, Park Hotel, Noelville, Flat Bax, Flat St Clément Court et les ruelles avoisinantes",
+      "from": "2023-06-18T04:30:00.000Z",
+      "to": "2023-06-18T12:00:00.000Z",
+      "id": "745de603093ba56f95647459708bf822"
+    },
+    {
+      "date": "Le jeudi 15 juin 2023 de  08:30:00 à  12:00:00",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Impasse Henri et les ruelles avoisinantes",
+      "from": "2023-06-15T04:30:00.000Z",
+      "to": "2023-06-15T08:00:00.000Z",
+      "id": "bdfa613b6fd91274042e0f58a36bac60"
+    },
+    {
+      "date": "Le jeudi 1 juin 2023 de  12:00:00 à  14:00:00",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes: Une partie de Thomy D’Arifat, Vitry et  les ruelles avoisinantes",
+      "from": "2023-06-01T08:00:00.000Z",
+      "to": "2023-06-01T10:00:00.000Z",
+      "id": "06d8ebfcbf75f4066feb24d42dc2922c"
+    },
+    {
+      "date": "Le jeudi 1 juin 2023 de  09:00:00 à  14:00:00",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Impasse Deveaux, Stevenson Street et les ruelles avoisinantes",
+      "from": "2023-06-01T05:00:00.000Z",
+      "to": "2023-06-01T10:00:00.000Z",
+      "id": "18fb4ce871ae96e5d09dcbdae082fff7"
+    },
+    {
+      "date": "Le jeudi 18 mai 2023 de  10:00:00 à  11:00:00",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes: Camp le Juge et  les ruelles avoisinantes",
+      "from": "2023-05-18T06:00:00.000Z",
+      "to": "2023-05-18T07:00:00.000Z",
+      "id": "3eb3b058a7e75f73c344eb5ed4d03b22"
+    },
+    {
+      "date": "Le lundi 15 mai 2023 de  13:00:00 à  16:00:00",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes: Pierre Simonet et  les ruelles avoisinantes",
+      "from": "2023-05-15T09:00:00.000Z",
+      "to": "2023-05-15T12:00:00.000Z",
+      "id": "44a82759e2c1e3026e7e5b4643dacd1b"
+    },
+    {
+      "date": "Le dimanche 14 mai 2023 de  16:00:00 à  18:00:00",
+      "streets": "LECLEZIO ST, CERE ST, HIGGINSON ST (NEAR CLINIQUE MULLER)",
+      "from": "2023-05-14T12:00:00.000Z",
+      "to": "2023-05-14T14:00:00.000Z",
+      "id": "8991194ebd3fc026dffb64abf8e7d632"
+    },
+    {
+      "date": "Le dimanche 14 mai 2023 de  08:30:00 à  16:00:00",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes: Impasse Leclézio, Gujadhur, Impasse Karamtally, Impasse Mungra, Rajcoomar, Stretcher, Cère, Impasse Malherbes, Vitry,  partie de Clément Charoux  et  les ruelles avoisinantes",
+      "from": "2023-05-14T04:30:00.000Z",
+      "to": "2023-05-14T12:00:00.000Z",
+      "id": "ac015ef0cb9690d7575a711bb31b8e13"
+    },
+    {
+      "date": "Le vendredi 12 mai 2023 de  09:00:00 à  18:00:00",
+      "streets": "ROBINSON,CAMP CAVAL CUREPIPE",
+      "from": "2023-05-12T05:00:00.000Z",
+      "to": "2023-05-12T14:00:00.000Z",
+      "id": "88e1de31385fef4fc87f6042eda605d9"
+    },
+    {
+      "date": "Le mardi 18 avril 2023 de  10:00:00 à  15:00:00",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Partie de Charles Renaud de sa jonction avec Lapeyrousse Street jusqu’à D’Epinay Street et les ruelles avoisinantes",
+      "from": "2023-04-18T06:00:00.000Z",
+      "to": "2023-04-18T11:00:00.000Z",
+      "id": "3fac5b2afc9a3855d7559c98fe723335"
+    },
+    {
+      "date": "Le dimanche 16 avril 2023 de  08:30:00 à  16:30:00",
+      "streets": "IMPASSE BOULLE-LAMALETIE RD-MAUREL RD-IMPASSE BAISSAC-MORC SENEVILLE-CHARLES LEES-IMPASSE HENRY-DUPERE RD-DR MAURICE CURE RD-COMMERSON RD-WILLOUGBY RD-MORC DALLAIS-VICTOR HUGO RD-HIGINSON RD-ANDERSON RD-MAIGROT RD-LES RUELLES AVAOISINANTES",
+      "from": "2023-04-16T04:30:00.000Z",
+      "to": "2023-04-16T12:30:00.000Z",
+      "id": "5e5e88c3a43058bd58106695b4f55367"
+    },
+    {
+      "date": "Le jeudi 13 avril 2023 de  09:00:00 à  10:00:00",
+      "streets": "IMPASSE HENRY, Part MORC SENNEVILLE LEES STREET",
+      "from": "2023-04-13T05:00:00.000Z",
+      "to": "2023-04-13T06:00:00.000Z",
+      "id": "ec98d125b0daed0872bf5aad57883e49"
+    },
+    {
+      "date": "Le mercredi 12 avril 2023 de  20:00:00 à  22:00:00",
+      "streets": "LA RUE LECLEZIO,RITTER,RUE HIGGINSON",
+      "from": "2023-04-12T16:00:00.000Z",
+      "to": "2023-04-12T18:00:00.000Z",
+      "id": "760dadfb84ac5ca730a613dcb0091ebe"
+    },
+    {
+      "date": "Le mardi 4 avril 2023 de  15:30:00 à  17:30:00",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes: Partie d’Avenue Sivananda, Lapeyrousse et  les ruelles avoisinantes",
+      "from": "2023-04-04T11:30:00.000Z",
+      "to": "2023-04-04T13:30:00.000Z",
+      "id": "5c1a7a7cfbb66fae1a4c0c76eb0dd97c"
+    },
+    {
+      "date": "Le jeudi 30 mars 2023 de  08:30:00 à  17:00:00",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes: Partie de Lees, Impasse Henri, Impasse de Senneville et  les ruelles avoisinantes",
+      "from": "2023-03-30T04:30:00.000Z",
+      "to": "2023-03-30T13:00:00.000Z",
+      "id": "c721ec525010171d9e91de59169ea49a"
+    },
+    {
+      "date": "Le mercredi 29 mars 2023 de  14:00:00 à  17:00:00",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes: Victor Hugo, Morcellement Dalais et  les ruelles avoisinantes",
+      "from": "2023-03-29T10:00:00.000Z",
+      "to": "2023-03-29T13:00:00.000Z",
+      "id": "571137897899cc55a2e38f23803f72d0"
+    },
+    {
+      "date": "Le lundi 20 mars 2023 de  09:30:00 à  12:30:00",
+      "streets": "RIVERLAND ROBINSON CAMP CAVAL",
+      "from": "2023-03-20T05:30:00.000Z",
+      "to": "2023-03-20T08:30:00.000Z",
+      "id": "827e02d382143449312d6a20ca5adf11"
+    },
+    {
+      "date": "Le lundi 20 mars 2023 de  09:00:00 à  12:00:00",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes: St Clément, Park Hôtel et les ruelles avoisinantes",
+      "from": "2023-03-20T05:00:00.000Z",
+      "to": "2023-03-20T08:00:00.000Z",
+      "id": "be8b5f2a86d60e91455ab62b7bc0c44b"
+    },
+    {
+      "date": "Le jeudi 16 mars 2023 de  13:15:00 à  16:00:00",
+      "streets": "CAMP CAVAL,ROBINSON",
+      "from": "2023-03-16T09:15:00.000Z",
+      "to": "2023-03-16T12:00:00.000Z",
+      "id": "279fd31ed5d407cdbc0c68a0710922e7"
+    },
+    {
+      "date": "Le mercredi 15 mars 2023 de  10:45:00 à  12:00:00",
+      "streets": "BOUGAINVILLE CUREPIPE ROAD PART EAU COULEE",
+      "from": "2023-03-15T06:45:00.000Z",
+      "to": "2023-03-15T08:00:00.000Z",
+      "id": "fc108cf61f2c423a1be1b484a49932fd"
+    },
+    {
+      "date": "Le mercredi 15 mars 2023 de  09:00:00 à  16:00:00",
+      "streets": "Les abonnés de Robinson, Curepipe habitant les rues et les régions suivantes : Morcellement Riverland et les ruelles avoisinantes",
+      "from": "2023-03-15T05:00:00.000Z",
+      "to": "2023-03-15T12:00:00.000Z",
+      "id": "acab9462d05cc9fd48e59037143f6b79"
+    },
+    {
+      "date": "Le lundi 13 mars 2023 de  15:45:00 à  18:30:00",
+      "streets": "RTE DU JARDIN,POPENESY.CHURCHILL",
+      "from": "2023-03-13T11:45:00.000Z",
+      "to": "2023-03-13T14:30:00.000Z",
+      "id": "897edc52551fa0853509418b3a7ff889"
+    },
+    {
+      "date": "Le jeudi 9 février 2023 de  08:30:00 à  15:00:00",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Edgar Laurent, Cité Joachim, Avenue Flamboyant, Faucon, Haut Plateau, General Hall, Stevenson, Joseph Rivière, André Robert, Lydie Mootia, Impasse Desvaux, Paratian, Morcellement Coombes, Morcellement de Rosnay, Robinson Riverland, Vythilingum, Morcellement La Grotte les ruelles avoisinantes",
+      "from": "2023-02-09T04:30:00.000Z",
+      "to": "2023-02-09T11:00:00.000Z",
+      "id": "ca5b5be8a04f781480736d97869cae2a"
+    },
+    {
+      "date": "Le mercredi 8 février 2023 de  15:00:00 à  18:00:00",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes : Partie de Robinson, Cité Casernes, Morcellement Riverland et les ruelles avoisinantes",
+      "from": "2023-02-08T11:00:00.000Z",
+      "to": "2023-02-08T14:00:00.000Z",
+      "id": "94ab91485be2176c98866c1b3a014632"
+    },
+    {
+      "date": "Le vendredi 3 février 2023 de  08:30:00 à  16:00:00",
+      "streets": "Les abonnés de Robinson, Curepipe habitant les rues et les régions suivantes : Partie de Robinson, Hard Line, Morcellement Riverland, Oconor et les ruelles avoisinantes",
+      "from": "2023-02-03T04:30:00.000Z",
+      "to": "2023-02-03T12:00:00.000Z",
+      "id": "06d34dc0e48af7314c7122c1949fc4d7"
+    },
+    {
+      "date": "Le vendredi 27 janvier 2023 de  10:15:00 à  11:15:00",
+      "streets": "STEVENSON ST,PARATIAN ST",
+      "from": "2023-01-27T06:15:00.000Z",
+      "to": "2023-01-27T07:15:00.000Z",
+      "id": "2610bd551c4d51b9530e7ff1b55d52aa"
+    },
+    {
+      "date": "Le vendredi 27 janvier 2023 de  08:30:00 à  16:00:00",
+      "streets": "Les abonnés de Robinson, Curepipe habitant les rues et les régions suivantes : Partie de Robinson, Hard Line, Morcellement Riverland, Oconor et les ruelles avoisinantes",
+      "from": "2023-01-27T04:30:00.000Z",
+      "to": "2023-01-27T12:00:00.000Z",
+      "id": "2e875f840efdff544053f330733e1f47"
+    },
+    {
+      "date": "Le samedi 14 janvier 2023 de  14:00:00 à  16:00:00",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Partie de La Croix, Anderson, partie de Commerson et les ruelles avoisinantes",
+      "from": "2023-01-14T10:00:00.000Z",
+      "to": "2023-01-14T12:00:00.000Z",
+      "id": "d09425272690f331882cae90fd755833"
+    },
+    {
+      "date": "Le samedi 14 janvier 2023 de  09:00:00 à  14:00:00",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Saint Clément, Park Hotel et les ruelles avoisinantes",
+      "from": "2023-01-14T05:00:00.000Z",
+      "to": "2023-01-14T10:00:00.000Z",
+      "id": "fe0f0038889e0e900fc2edcd8ced6de0"
+    },
+    {
+      "date": "Le vendredi 13 janvier 2023 de  17:00:00 à  19:30:00",
+      "streets": "LA RUE LISE CUREPIPE",
+      "from": "2023-01-13T13:00:00.000Z",
+      "to": "2023-01-13T15:30:00.000Z",
+      "id": "b44aa5c943b6aeca1ad47e67b7b0126b"
+    },
+    {
+      "date": "Le jeudi 12 janvier 2023 de  15:00:00 à  17:00:00",
+      "streets": "Les abonnés de Curepipe habitant les rues et les regions suivantes: Malherbes A, Malherbes B, CHA Malherbes, Lees, Commerson, Duperre, Seeneevassen, Lacroix, Wilhoubhy, Anderson, Higginson, Lamaletti, Boulee, Morcellement Senneville et les rulees avoisinantes",
+      "from": "2023-01-12T11:00:00.000Z",
+      "to": "2023-01-12T13:00:00.000Z",
+      "id": "6886cbefbd4a8d88ac6827e10db3e71b"
+    },
+    {
+      "date": "Le dimanche 1 janvier 2023 de  10:30:00 à  12:00:00",
+      "streets": "HENRY KOENIG RD-ALLEE CAMP-BERNARDIN DE ST PIERRE CUREPIPE",
+      "from": "2023-01-01T06:30:00.000Z",
+      "to": "2023-01-01T08:00:00.000Z",
+      "id": "c9f54f787d35e331f212ade4fcf4f8c1"
+    },
+    {
+      "date": "Le mardi 27 décembre 2022 de  14:25:00 à  16:00:00",
+      "streets": "COOWAR, LABOURDONNAIS, LORETO CONVENT STREETS",
+      "from": "2022-12-27T10:25:00.000Z",
+      "to": "2022-12-27T12:00:00.000Z",
+      "id": "5cbcad91e7a5f510fdd19069780a6875"
+    },
+    {
+      "date": "Le samedi 17 décembre 2022 de  16:00:00 à  18:00:00",
+      "streets": "CAMP CAVAL,ROBINSON",
+      "from": "2022-12-17T12:00:00.000Z",
+      "to": "2022-12-17T14:00:00.000Z",
+      "id": "3781dd255fd137e698fc1cddd2d796eb"
+    },
+    {
+      "date": "Le mercredi 14 décembre 2022 de  09:00:00 à  15:00:00",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Partie d’ Abbe Laval, Farquhar, Stirling et les ruelles avoisinantes",
+      "from": "2022-12-14T05:00:00.000Z",
+      "to": "2022-12-14T11:00:00.000Z",
+      "id": "bd3675f471ad19e09ba949211345fbb7"
+    },
+    {
+      "date": "Le mardi 6 décembre 2022 de  12:00:00 à  14:00:00",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes: Morcellement Daruty, partie d’Henry Robert et les ruelles avoisinantes",
+      "from": "2022-12-06T08:00:00.000Z",
+      "to": "2022-12-06T10:00:00.000Z",
+      "id": "d0b8e5a8e9530ffebe3417ce6612fabe"
+    },
+    {
+      "date": "Le mardi 6 décembre 2022 de  09:00:00 à  12:00:00",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes: Résidences les Préverts, Cite Malherbes et  les ruelles avoisinantes",
+      "from": "2022-12-06T05:00:00.000Z",
+      "to": "2022-12-06T08:00:00.000Z",
+      "id": "03b514592ea08e458a515b37ffef6dbc"
+    },
+    {
+      "date": "Le dimanche 4 décembre 2022 de  14:00:00 à  15:00:00",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes : Route Royale de Curepipe, Abbe de La Caille, morcellement Villas Chambly, morcellement Coaquau, Lebreton, Ramphul, Couvent de Lorette, Michael Leal, Théodore Sauzier et les ruelles avoisinantes",
+      "from": "2022-12-04T10:00:00.000Z",
+      "to": "2022-12-04T11:00:00.000Z",
+      "id": "a120c47868c78155a04b30693a9a463b"
+    },
+    {
+      "date": "Le dimanche 4 décembre 2022 de  08:00:00 à  08:30:00",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes : Route Royale de Curepipe, Abbe de La Caille, morcellement Villas Chambly, morcellement Coaquau, Lebreton, Ramphul, Couvent de Lorette, Michael Leal, Théodore Sauzier et les ruelles avoisinantes",
+      "from": "2022-12-04T04:00:00.000Z",
+      "to": "2022-12-04T04:30:00.000Z",
+      "id": "8bdae106487243974085f9c809a838dd"
+    },
+    {
+      "date": "Le vendredi 25 novembre 2022 de  08:30:00 à  12:00:00",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes : Partie de Morcellement Adam, avenue Les Camphriers et les ruelles avoisinantes",
+      "from": "2022-11-25T04:30:00.000Z",
+      "to": "2022-11-25T08:00:00.000Z",
+      "id": "cb440cb0e570e0aee78da208c6538815"
+    },
+    {
+      "date": "Le jeudi 24 novembre 2022 de  15:00:00 à  17:00:00",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes : Route Royale de Curepipe, Abbe de La Caille, morcellement Villas Chambly, morcellement Coaquau, Lebreton, Ramphul, Couvent de Lorette, Michael Leal et les ruelles avoisinantes",
+      "from": "2022-11-24T11:00:00.000Z",
+      "to": "2022-11-24T13:00:00.000Z",
+      "id": "517950f4ccb06a7a0064ff2ec1120dce"
+    },
+    {
+      "date": "Le mercredi 23 novembre 2022 de  13:30:00 à  17:00:00",
+      "streets": "prosper depinay street",
+      "from": "2022-11-23T09:30:00.000Z",
+      "to": "2022-11-23T13:00:00.000Z",
+      "id": "f97c0f5148db3006d24d1e1e9ce382b3"
+    },
+    {
+      "date": "Le jeudi 17 novembre 2022 de  11:00:00 à  15:00:00",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes: Louis de Rochecouste, Olsen, Mary Gold, Hortensia et  les ruelles avoisinantes",
+      "from": "2022-11-17T07:00:00.000Z",
+      "to": "2022-11-17T11:00:00.000Z",
+      "id": "c724130c0827ac13366d30821f60ed2d"
+    },
+    {
+      "date": "Le jeudi 17 novembre 2022 de  08:30:00 à  15:00:00",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes:  Partie de Sir Celicourt Antelme, Acajou, impasse Raffray et  les ruelles avoisinantes",
+      "from": "2022-11-17T04:30:00.000Z",
+      "to": "2022-11-17T11:00:00.000Z",
+      "id": "f9c701ded7ff4f01a56e01b1dcf2e1dd"
+    },
+    {
+      "date": "Le dimanche 13 novembre 2022 de  08:30:00 à  16:00:00",
+      "streets": "Les abonnés de Les Casernes, Curepipe habitant les rues et les régions suivantes : Partie de Robinson, School, Hard Line, Morcellement Riverland, Oconor, Cité Casernes et les ruelles avoisinantes",
+      "from": "2022-11-13T04:30:00.000Z",
+      "to": "2022-11-13T12:00:00.000Z",
+      "id": "472763cf811072301a3dd7960271c9ca"
+    },
+    {
+      "date": "Le jeudi 10 novembre 2022 de  14:00:00 à  16:00:00",
+      "streets": "MALARTIC",
+      "from": "2022-11-10T10:00:00.000Z",
+      "to": "2022-11-10T12:00:00.000Z",
+      "id": "187edde25387141a66708827007426c3"
+    },
+    {
+      "date": "Le jeudi 3 novembre 2022 de  10:15:00 à  11:30:00",
+      "streets": "RUE MALARTIC",
+      "from": "2022-11-03T06:15:00.000Z",
+      "to": "2022-11-03T07:30:00.000Z",
+      "id": "709f954d9c3e454f7dfe17685a01252f"
+    },
+    {
+      "date": "Le dimanche 30 octobre 2022 de  08:30:00 à  16:00:00",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes: Lees, Commerson, Duperré, Seeneevassen, Lacroix, Wilhoughy, Anderson, Higginson, Lamaletti, Boulée, Morcellement Senneville et  les ruelles avoisinantes",
+      "from": "2022-10-30T04:30:00.000Z",
+      "to": "2022-10-30T12:00:00.000Z",
+      "id": "f2815da84cc406772f422dd3e9f14180"
+    },
+    {
+      "date": "Le lundi 17 octobre 2022 de  12:00:00 à  15:00:00",
+      "streets": "COUVENT DE LORETTE ST",
+      "from": "2022-10-17T08:00:00.000Z",
+      "to": "2022-10-17T11:00:00.000Z",
+      "id": "be6f0af5d0cb71de96dc477c0ad67c87"
+    },
+    {
+      "date": "Le lundi 17 octobre 2022 de  10:00:00 à  10:30:00",
+      "streets": "lees street from spar to la boutique ah kong.",
+      "from": "2022-10-17T06:00:00.000Z",
+      "to": "2022-10-17T06:30:00.000Z",
+      "id": "e106e1235af609002aa9c2b4a4b39d10"
+    },
+    {
+      "date": "Le mercredi 12 octobre 2022 de  08:30:00 à  10:00:00",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Curepipe Road, Le Breton,  Villa Chambly et les ruelles avoisinantes",
+      "from": "2022-10-12T04:30:00.000Z",
+      "to": "2022-10-12T06:00:00.000Z",
+      "id": "f28a57277a8a61c96bc7fe9a283388e2"
+    },
+    {
+      "date": "Le jeudi 29 septembre 2022 de  09:00:00 à  12:00:00",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Émile Sauzier, Meldrum et les ruelles avoisinantes",
+      "from": "2022-09-29T05:00:00.000Z",
+      "to": "2022-09-29T08:00:00.000Z",
+      "id": "a42228778fd9eca5db0854ec88637b41"
+    },
+    {
+      "date": "Le vendredi 16 septembre 2022 de  12:30:00 à  15:00:00",
+      "streets": "CITE MANGALKHAN",
+      "from": "2022-09-16T08:30:00.000Z",
+      "to": "2022-09-16T11:00:00.000Z",
+      "id": "b13dbe9a3642ec34e256efc93b0658ec"
+    },
+    {
+      "date": "Le mercredi 14 septembre 2022 de  12:00:00 à  16:00:00",
+      "streets": "MELDRUM, EMILE SAUZIER, IMPASSE NARAINEN",
+      "from": "2022-09-14T08:00:00.000Z",
+      "to": "2022-09-14T12:00:00.000Z",
+      "id": "a567512add8e35b0811f7a7abf46b1d7"
+    },
+    {
+      "date": "Le dimanche 11 septembre 2022 de  08:30:00 à  16:00:00",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes: Impasse Leclézio, flat Lesjardises, Gujadhur, Impasse Karamtally, Impasse Mungra, Abbé de la Caille, Sai Baba, Rajcoomar, Stretcher, Cère, Impasse Malherbes, Vitry,  partie de Clément Charoux  et  les ruelles avoisinantes",
+      "from": "2022-09-11T04:30:00.000Z",
+      "to": "2022-09-11T12:00:00.000Z",
+      "id": "7bfe49eaa200ac130668bb43d1720124"
+    },
+    {
+      "date": "Le mardi 6 septembre 2022 de  14:00:00 à  15:00:00",
+      "streets": "PART OF BROWN SEQUARD ST,POLYTOL",
+      "from": "2022-09-06T10:00:00.000Z",
+      "to": "2022-09-06T11:00:00.000Z",
+      "id": "3c40516c398274210f66da6817b23b37"
+    },
+    {
+      "date": "Le lundi 5 septembre 2022 de  15:30:00 à  17:00:00",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes : Meldrum, Emile Sauzier, Impasse Narainen, Résidence Les Platanes, Partie de Georges Guibert et les ruelles avoisinantes",
+      "from": "2022-09-05T11:30:00.000Z",
+      "to": "2022-09-05T13:00:00.000Z",
+      "id": "09819943a278075d724e395607628e76"
+    },
+    {
+      "date": "Le dimanche 4 septembre 2022 de  08:30:00 à  16:00:00",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Résidences Malherbes A et B, NHDC Malherbes, Morcellement Malherbes, Les Préverts, partie de Couvent de Lorette, partie de Clément Charoux  et les ruelles avoisinantes",
+      "from": "2022-09-04T04:30:00.000Z",
+      "to": "2022-09-04T12:00:00.000Z",
+      "id": "56c2f033ed2fe833eb0cf2a4de74df09"
+    },
+    {
+      "date": "Le jeudi 18 août 2022 de  12:00:00 à  13:00:00",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : CHA Malherbes, Résidence Pre-Vert, partie de la rue Couvent et les ruelles avoisinantes",
+      "from": "2022-08-18T08:00:00.000Z",
+      "to": "2022-08-18T09:00:00.000Z",
+      "id": "aa8fae09f934459592fdee558c540cc1"
+    },
+    {
+      "date": "Le jeudi 18 août 2022 de  08:30:00 à  16:00:00",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Malherbes B, NHDC Malherbes, Morcellement Malherbes et les ruelles avoisinantes",
+      "from": "2022-08-18T04:30:00.000Z",
+      "to": "2022-08-18T12:00:00.000Z",
+      "id": "53ece98852fdfe508c2aefd5f3694ea6"
+    },
+    {
+      "date": "Le jeudi 11 août 2022 de  15:30:00 à  17:30:00",
+      "streets": "GEORGES GUIBERT--SAUZIER ST--MELDRUM",
+      "from": "2022-08-11T11:30:00.000Z",
+      "to": "2022-08-11T13:30:00.000Z",
+      "id": "0c8abf7086c93a8c2354ad8543b6be15"
+    },
+    {
+      "date": "Le mardi 9 août 2022 de  12:30:00 à  16:00:00",
+      "streets": "Les abonnés de Les Casernes, Curepipe habitant les rues et les régions suivantes : Partie de Robinson, Hard Line, Oconor et les ruelles avoisinantes",
+      "from": "2022-08-09T08:30:00.000Z",
+      "to": "2022-08-09T12:00:00.000Z",
+      "id": "55638027b6b00246be703be3cbfbcbff"
+    },
+    {
+      "date": "Le mardi 9 août 2022 de  09:00:00 à  12:00:00",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Partie d’ Abbe Laval, Farquhar, Stirling et les ruelles avoisinantes",
+      "from": "2022-08-09T05:00:00.000Z",
+      "to": "2022-08-09T08:00:00.000Z",
+      "id": "a2b5028fff8db9d4966e2098d67b3a22"
+    },
+    {
+      "date": "Le dimanche 7 août 2022 de  08:30:00 à  16:00:00",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes: Lees, Commerson, Duperré, Seeneevassen, Lacroix, Wilhoughy, Anderson, Higginson, Lamaletti, Boulée, Morcellement Senneville et  les ruelles avoisinantes",
+      "from": "2022-08-07T04:30:00.000Z",
+      "to": "2022-08-07T12:00:00.000Z",
+      "id": "43d3337e7d372e4fd42506a3c4d85be2"
+    },
+    {
+      "date": "Le vendredi 29 juillet 2022 de  08:30:00 à  14:00:00",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Partie de Lees, partie de Duperré, Victor Hugo, Philippe Boulle, morcellement Dallais et les ruelles avoisinantes",
+      "from": "2022-07-29T04:30:00.000Z",
+      "to": "2022-07-29T10:00:00.000Z",
+      "id": "f60d4b34422b532fd51cdbc8ee7efe6f"
+    },
+    {
+      "date": "Le dimanche 24 juillet 2022 de  13:00:00 à  14:00:00",
+      "streets": "Les abonnés Curepipe habitant les rues et les régions suivantes: Lees, Commerson, Duperré, Seeneevassen, Lacroix, Wilhoughy, Anderson, Higginson, Lamaletti, Boulée, Morcellement Senneville et les ruelles avoisinantes",
+      "from": "2022-07-24T09:00:00.000Z",
+      "to": "2022-07-24T10:00:00.000Z",
+      "id": "1a4d7c38a72384194f974e37fcbd44cd"
+    },
+    {
+      "date": "Le dimanche 24 juillet 2022 de  12:00:00 à  16:00:00",
+      "streets": "Les abonnés Curepipe habitant les rues et les régions suivantes: Partie de Leclézio, Abbé de la Caille, Ritter, Thommy D’Arifat, De Courson, Hazareesingh, flat Patel, flat Maharani, flat Saint Michel, Sai Baba, Rajcoomar, Stretcher, Cère, Malherbes, partie de Clément Charoux, Imp. le Breton et  les ruelles avoisinantes",
+      "from": "2022-07-24T08:00:00.000Z",
+      "to": "2022-07-24T12:00:00.000Z",
+      "id": "2645a7c828dfd7baac41b2fc7e29c06b"
+    },
+    {
+      "date": "Le dimanche 24 juillet 2022 de  08:30:00 à  16:00:00",
+      "streets": "Les abonnés Curepipe habitant les rues et les régions suivantes: Leclezio, partie de Higginson et  les ruelles avoisinantes",
+      "from": "2022-07-24T04:30:00.000Z",
+      "to": "2022-07-24T12:00:00.000Z",
+      "id": "7d7044ae9552fa2d88849dc561cbb617"
+    },
+    {
+      "date": "Le vendredi 22 juillet 2022 de  00:00:00 à  00:00:00",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Partie de Jerningham, Impasse Simonet et les ruelles avoisinantes",
+      "from": "2022-07-21T20:00:00.000Z",
+      "to": "2022-07-20T20:00:00.000Z",
+      "id": "38a6e8607b8add928f55e0f87798b40c"
+    },
+    {
+      "date": "Le jeudi 21 juillet 2022 de  08:30:00 à  16:00:00",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes : Robinson, Sagar, School et les ruelles avoisinantes",
+      "from": "2022-07-21T04:30:00.000Z",
+      "to": "2022-07-21T12:00:00.000Z",
+      "id": "c38bcf0e7ec6a6ae1565e58b7e94a1bd"
+    },
+    {
+      "date": "Le dimanche 17 juillet 2022 de  08:30:00 à  16:00:00",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Frère Ignace, flat Montalieu et les ruelles avoisinantes",
+      "from": "2022-07-17T04:30:00.000Z",
+      "to": "2022-07-17T12:00:00.000Z",
+      "id": "4bebb6367bf5f13d6c747990e7846ed9"
+    },
+    {
+      "date": "Le jeudi 14 juillet 2022 de  12:30:00 à  14:00:00",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Leclézio, Abbé de La Caille, Ritter, Thommy d’Arifat, De Courson, Hazareesingh, flat Patel, flat Maharani, flat Saint Michel, Sai Baba, Rajcoomar, Stretcher, Céré, Malherbes, partie de Clément Charoux, Impasse Le Breton et les ruelles avoisinantes",
+      "from": "2022-07-14T08:30:00.000Z",
+      "to": "2022-07-14T10:00:00.000Z",
+      "id": "64818da57c891e37f6aab5370918f69c"
+    },
+    {
+      "date": "Le jeudi 7 juillet 2022 de  12:30:00 à  13:30:00",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Leclézio, Abbe de la Caille, Ritter, Thommy d’Arifat, De Courson, Hazareesingh, flat Patel, flat Maharani, flat Saint Michel et les ruelles avoisinantes",
+      "from": "2022-07-07T08:30:00.000Z",
+      "to": "2022-07-07T09:30:00.000Z",
+      "id": "e70ed669378fca338f6aea3d3fc9425e"
+    },
+    {
+      "date": "Le mercredi 6 juillet 2022 de  12:30:00 à  13:30:00",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Ritter, De Courson, Tommy D’Arifat et les ruelles avoisinantes",
+      "from": "2022-07-06T08:30:00.000Z",
+      "to": "2022-07-06T09:30:00.000Z",
+      "id": "1882b88ec1cb8eeee220becc9aeadd4d"
+    },
+    {
+      "date": "Le vendredi 1 juillet 2022 de  12:00:00 à  15:00:00",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Leclézio, Abbe de la Caille, Ritter, Thommy d’Arifat, De Courson, Hazareesingh, flat Patel, flat Maharani, flat Saint Michel et les ruelles avoisinantes",
+      "from": "2022-07-01T08:00:00.000Z",
+      "to": "2022-07-01T11:00:00.000Z",
+      "id": "bbdd5e1fbb1111bb2a582723d37c3e6e"
+    },
+    {
+      "date": "Le mardi 28 juin 2022 de  16:00:00 à  17:00:00",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Saint Clément, Gabriel Froppier, Brown Séquard, Avrillon, Collier, Bestel et les ruelles avoisinantes",
+      "from": "2022-06-28T12:00:00.000Z",
+      "to": "2022-06-28T13:00:00.000Z",
+      "id": "407e4243e1afe74c7c8fdc1a6ac0fd30"
+    },
+    {
+      "date": "Le dimanche 26 juin 2022 de  08:30:00 à  16:00:00",
+      "streets": "Leclezio Street, Abbe de la Caille Street, Ritter Street, Rue Thomy d’Arifat, De Courson Street, Hazareesingh Lane, Flat Patel, Flat Maharani, Flat St Michel",
+      "from": "2022-06-26T04:30:00.000Z",
+      "to": "2022-06-26T12:00:00.000Z",
+      "id": "1adb38a0eed70dedb3c69a27366f59fe"
+    },
+    {
+      "date": "Le jeudi 9 juin 2022 de  08:30:00 à  12:00:00",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Partie de Leclézio, Leclézio lane, Réservoir, flat les Jardises et les ruelles avoisinantes",
+      "from": "2022-06-09T04:30:00.000Z",
+      "to": "2022-06-09T08:00:00.000Z",
+      "id": "74eeaddbde5767b0921bc0af844e4902"
+    },
+    {
+      "date": "Le mercredi 8 juin 2022 de  09:30:00 à  11:00:00",
+      "streets": "MORC HANSROD,PART POPE HENNESSY",
+      "from": "2022-06-08T05:30:00.000Z",
+      "to": "2022-06-08T07:00:00.000Z",
+      "id": "cead63486f0e1c71e12c4d54ab66782a"
+    },
+    {
+      "date": "Le lundi 6 juin 2022 de  09:00:00 à  11:00:00",
+      "streets": "Leclezio Street",
+      "from": "2022-06-06T05:00:00.000Z",
+      "to": "2022-06-06T07:00:00.000Z",
+      "id": "fb39ad299a011a95f901c5440b220c2c"
+    },
+    {
+      "date": "Le dimanche 5 juin 2022 de  08:30:00 à  16:00:00",
+      "streets": "Les abonnés de Les Casernes, Curepipe habitant les rues et les régions suivantes : Partie de Robinson, School, Hard Line, Morcellement Riverland, Oconor, Cité Casernes et les ruelles avoisinantes",
+      "from": "2022-06-05T04:30:00.000Z",
+      "to": "2022-06-05T12:00:00.000Z",
+      "id": "b74b9419d79483b292100bf74b103844"
+    },
+    {
+      "date": "Le vendredi 20 mai 2022 de  07:30:00 à  13:00:00",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Partie de Les Casernes, Impasse Parathian, partie de Route Jardins, General Hall, Auguste Esnouf, Edgar Laurent, Cité Joachim, Morcellement Ramdenee et les ruelles avoisinantes sont avisés que la fourniture d’énergie électrique a été interrompue ce vendredi 20 mai 2022 et sera rétablie vers 13 :00 heures en raison des travaux urgents de réparations qui sont en cours sur le réseau électrique.",
+      "from": "2022-05-20T03:30:00.000Z",
+      "to": "2022-05-20T09:00:00.000Z",
+      "id": "182728d88f6471202a590260db8e26cc"
+    },
+    {
+      "date": "Le jeudi 19 mai 2022 de  09:00:00 à  14:00:00",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Partie du morcellement Riverland et les ruelles avoisinantes",
+      "from": "2022-05-19T05:00:00.000Z",
+      "to": "2022-05-19T10:00:00.000Z",
+      "id": "e9cce4130d2d503b8a25ced327e10e25"
+    },
+    {
+      "date": "Le mercredi 18 mai 2022 de  09:00:00 à  14:00:00",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Partie de Commerson, partie de Morcellement Senneville, Impasse Boullée et les ruelles avoisinantes",
+      "from": "2022-05-18T05:00:00.000Z",
+      "to": "2022-05-18T10:00:00.000Z",
+      "id": "a552f49c1c39eb4693367621f13fc6ae"
+    },
+    {
+      "date": "Le mardi 17 mai 2022 de  08:30:00 à  15:00:00",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Partie de D’Epinay, partie de Lionel Cox et les ruelles avoisinantes",
+      "from": "2022-05-17T04:30:00.000Z",
+      "to": "2022-05-17T11:00:00.000Z",
+      "id": "ed40eadc2aa461760b878845eb7df090"
+    },
+    {
+      "date": "Le lundi 2 mai 2022 de  15:30:00 à  16:30:00",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes : Partie de St Clément , Partie de Route Jardin, Bernardin de St Pierre, Poupinel et les ruelles avoisinantes",
+      "from": "2022-05-02T11:30:00.000Z",
+      "to": "2022-05-02T12:30:00.000Z",
+      "id": "bcebfc0c9908aea72b2fafe70451ea6f"
+    },
+    {
+      "date": "Le vendredi 29 avril 2022 de  09:00:00 à  16:00:00",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Robinson, Oconor, Hardline 1, 2 et les ruelles avoisinantes",
+      "from": "2022-04-29T05:00:00.000Z",
+      "to": "2022-04-29T12:00:00.000Z",
+      "id": "2caa552b28bf49e75724d07cd1565e0f"
+    },
+    {
+      "date": "Le vendredi 8 avril 2022 de  13:00:00 à  16:00:00",
+      "streets": "Camp Caval & Robinson",
+      "from": "2022-04-08T09:00:00.000Z",
+      "to": "2022-04-08T12:00:00.000Z",
+      "id": "af14df3f0b1ef11ffad733f402fa5e84"
+    },
+    {
+      "date": "Le jeudi 31 mars 2022 de  13:30:00 à  14:30:00",
+      "streets": "Les abonnés Curepipe habitant les rues et les régions suivantes: Malartic, partie de Thommy D’Arifat, partie de Jerningham et  les ruelles avoisinantes",
+      "from": "2022-03-31T09:30:00.000Z",
+      "to": "2022-03-31T10:30:00.000Z",
+      "id": "c8e6a10730b153ba62dee69c1a3b4446"
+    },
+    {
+      "date": "Le dimanche 27 mars 2022 de  08:30:00 à  16:00:00",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes: Sai Baba, Rajcoomar, Stretcher, Cere, Malherbes, partie de Clément Charoux, partie d’Abbé de La Caille, Impasse Le Breton, partie de Leclezio et les ruelles avoisinantes",
+      "from": "2022-03-27T04:30:00.000Z",
+      "to": "2022-03-27T12:00:00.000Z",
+      "id": "97f41c02259680076bfe5f9efbd2e534"
+    }
+  ]
+}

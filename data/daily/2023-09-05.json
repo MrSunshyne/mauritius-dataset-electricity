@@ -1,0 +1,68 @@
+{
+  "date": "2023-09-05",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.388Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le mardi 5 septembre 2023 de  10:00:00 à  11:30:00",
+      "locality": "SAINT JULIEN VILLAGE",
+      "localitySlug": "saint-julien-village",
+      "streets": "ROYAL ROAD ST JULIEN VILLAGE NEAR SCHOOL",
+      "district": "flacq",
+      "from": "2023-09-05T06:00:00.000Z",
+      "to": "2023-09-05T07:30:00.000Z",
+      "id": "993f849c4763cad26ad9be7805268002"
+    },
+    {
+      "date": "Le mardi 5 septembre 2023 de  10:00:00 à  13:00:00",
+      "locality": "CAMP DES EMBREVADES",
+      "localitySlug": "camp-des-embrevades",
+      "streets": "ROYAL ROAD CAMP DES EMBREVADES PAMPLEMOUSSES",
+      "district": "pamplemousses",
+      "from": "2023-09-05T06:00:00.000Z",
+      "to": "2023-09-05T09:00:00.000Z",
+      "id": "d9c841fa6ca63cb824b0788579472dcf"
+    },
+    {
+      "date": "Le mardi 5 septembre 2023 de  15:30:00 à  17:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "DANS LES ENVIRONS DE LAND SETTLEMENT ET MORC POONITH",
+      "district": "pamplemousses",
+      "from": "2023-09-05T11:30:00.000Z",
+      "to": "2023-09-05T13:00:00.000Z",
+      "id": "152539595628c67a557eab6d7cb22d9d"
+    },
+    {
+      "date": "Le mardi 5 septembre 2023 de  08:15:00 à  16:00:00",
+      "locality": "ALLEE BRILLANT VACOAS",
+      "localitySlug": "allee-brillant-vacoas",
+      "streets": "Skylark Lane, Balamoody Lane, Darren Lane",
+      "district": "plainewilhems",
+      "from": "2023-09-05T04:15:00.000Z",
+      "to": "2023-09-05T12:00:00.000Z",
+      "id": "f271814ce973a49fbf26876a5a9753d9"
+    },
+    {
+      "date": "Le mardi 5 septembre 2023 de  09:00:00 à  11:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "ROYAL ROAD & RIVERSIDE PHOENIX",
+      "district": "plainewilhems",
+      "from": "2023-09-05T05:00:00.000Z",
+      "to": "2023-09-05T07:00:00.000Z",
+      "id": "8e2cc42b4f80c2ad3c88093b34d03945"
+    },
+    {
+      "date": "Le mardi 5 septembre 2023 de  17:23:00 à  19:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "MORC LA VALLE SAINTE CROIX AU ALENTOURS DE LA BOUTIUE CANNA.",
+      "district": "portlouis",
+      "from": "2023-09-05T13:23:00.000Z",
+      "to": "2023-09-05T15:00:00.000Z",
+      "id": "f01be8159b6365655c389a4bce5efce2"
+    }
+  ]
+}

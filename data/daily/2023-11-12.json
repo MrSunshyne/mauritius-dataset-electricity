@@ -1,0 +1,28 @@
+{
+  "date": "2023-11-12",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.393Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le dimanche 12 novembre 2023 de  07:00:00 à  12:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "DOMAINE LE MAHE ET COMPLEXE ATLANTIS, LA SALETTE ROAD GRAND BAIE. (CABLE FAULTY)",
+      "district": "rivieredurempart",
+      "from": "2023-11-12T03:00:00.000Z",
+      "to": "2023-11-12T08:00:00.000Z",
+      "id": "d0722ac7d23af7e84610568008670b8e"
+    },
+    {
+      "date": "Le dimanche 12 novembre 2023 de  07:00:00 à  12:00:00",
+      "locality": "BAIN BOEUF",
+      "localitySlug": "bain-boeuf",
+      "streets": "RESIDENCE LE JARDIN BAIN BOEUF (TX FAULTY)",
+      "district": "rivieredurempart",
+      "from": "2023-11-12T03:00:00.000Z",
+      "to": "2023-11-12T08:00:00.000Z",
+      "id": "fb39cb9cb5a52457245d47509282591c"
+    }
+  ]
+}

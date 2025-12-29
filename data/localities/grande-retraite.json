@@ -1,0 +1,53 @@
+{
+  "slug": "grande-retraite",
+  "name": "GRANDE RETRAITE",
+  "district": "flacq",
+  "generated": "2025-12-29T20:21:02.620Z",
+  "outageCount": 6,
+  "firstOutage": "2024-02-11",
+  "lastOutage": "2025-10-24",
+  "outages": [
+    {
+      "date": "Le vendredi 24 octobre 2025 de  09:45:00 à  11:00:00",
+      "streets": "PART OF GRANDE RETRAITE",
+      "from": "2025-10-24T05:45:00.000Z",
+      "to": "2025-10-24T07:00:00.000Z",
+      "id": "e5dc31e6ae546693fc99db573145b440"
+    },
+    {
+      "date": "Le dimanche 9 mars 2025 de  08:00:00 à  15:00:00",
+      "streets": "MUNJURIA LANEET LES ALENTOURS",
+      "from": "2025-03-09T04:00:00.000Z",
+      "to": "2025-03-09T11:00:00.000Z",
+      "id": "5911e29da394ed086d8cd368d91be1ca"
+    },
+    {
+      "date": "Le mercredi 8 janvier 2025 de  09:10:00 à  11:00:00",
+      "streets": "GRANDE RETRAITE",
+      "from": "2025-01-08T05:10:00.000Z",
+      "to": "2025-01-08T07:00:00.000Z",
+      "id": "9d7691c73ec3496204c3507ae03d9e63"
+    },
+    {
+      "date": "Le mercredi 4 décembre 2024 de  09:45:00 à  11:30:00",
+      "streets": "GRANDE RETRAITE,EN PARTIE BON ACCUEILLE",
+      "from": "2024-12-04T05:45:00.000Z",
+      "to": "2024-12-04T07:30:00.000Z",
+      "id": "3ea87743dffec8677854a9e69a249c95"
+    },
+    {
+      "date": "Le samedi 21 septembre 2024 de  09:30:00 à  13:00:00",
+      "streets": "GRANDE RETRAITE",
+      "from": "2024-09-21T05:30:00.000Z",
+      "to": "2024-09-21T09:00:00.000Z",
+      "id": "640448373c5577ba2aa209030c151567"
+    },
+    {
+      "date": "Le dimanche 11 février 2024 de  08:15:00 à  17:30:00",
+      "streets": "GRANDE RETRAITE, DANS LE PERIMETRE DE LA POSTE, S.S.S ET GYMNASE DE BON ACCEUIL",
+      "from": "2024-02-11T04:15:00.000Z",
+      "to": "2024-02-11T13:30:00.000Z",
+      "id": "ba2653f74eceaf010780d060ce973a4d"
+    }
+  ]
+}

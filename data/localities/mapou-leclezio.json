@@ -1,0 +1,25 @@
+{
+  "slug": "mapou-leclezio",
+  "name": "MAPOU LECLEZIO",
+  "district": "rivieredurempart",
+  "generated": "2025-12-29T20:21:02.672Z",
+  "outageCount": 2,
+  "firstOutage": "2023-02-09",
+  "lastOutage": "2024-11-30",
+  "outages": [
+    {
+      "date": "Le samedi 30 novembre 2024 de  05:00:00 à  14:00:00",
+      "streets": "MAPOU LECLEZIO ET BOIS ROUGE GOODLANDS",
+      "from": "2024-11-30T01:00:00.000Z",
+      "to": "2024-11-30T10:00:00.000Z",
+      "id": "b018cd0518e2465aebdbeecb2598b04b"
+    },
+    {
+      "date": "Le jeudi 9 février 2023 de  14:15:00 à  15:30:00",
+      "streets": "VIEUX TAMARINIERS",
+      "from": "2023-02-09T10:15:00.000Z",
+      "to": "2023-02-09T11:30:00.000Z",
+      "id": "6423f0f214bfa8bddf5a313fc2bb10f6"
+    }
+  ]
+}

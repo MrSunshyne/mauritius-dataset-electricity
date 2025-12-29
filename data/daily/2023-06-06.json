@@ -1,0 +1,28 @@
+{
+  "date": "2023-06-06",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.381Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mardi 6 juin 2023 de  10:00:00 à  14:00:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "MORC RAMDHANEE TROU AUX BICHES.",
+      "district": "pamplemousses",
+      "from": "2023-06-06T06:00:00.000Z",
+      "to": "2023-06-06T10:00:00.000Z",
+      "id": "85f6b206ed10819e2bb11be8a8590e1d"
+    },
+    {
+      "date": "Le mardi 6 juin 2023 de  08:30:00 à  17:00:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "Closel, Mont Simonet, Mare-Longue, NHDC Henrietta, Tamarind Falls",
+      "district": "plainewilhems",
+      "from": "2023-06-06T04:30:00.000Z",
+      "to": "2023-06-06T13:00:00.000Z",
+      "id": "ded2eedd6a22fa40758ceab50e2e05a9"
+    }
+  ]
+}

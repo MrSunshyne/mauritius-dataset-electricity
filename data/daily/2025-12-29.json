@@ -1,0 +1,68 @@
+{
+  "date": "2025-12-29",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.448Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le lundi 29 décembre 2025 de  09:15:00 à  12:00:00",
+      "locality": "CHAMAREL",
+      "localitySlug": "chamarel",
+      "streets": "AVENUE ROULEAU ET JACKIE LENOIR",
+      "district": "blackriver",
+      "from": "2025-12-29T05:15:00.000Z",
+      "to": "2025-12-29T08:00:00.000Z",
+      "id": "6d0faa2385a21dbecb7a2439e9c8b3ec"
+    },
+    {
+      "date": "Le lundi 29 décembre 2025 de  22:00:00 à  00:00:00",
+      "locality": "CAMP ITHIER",
+      "localitySlug": "camp-ithier",
+      "streets": "CAMP ITHIER",
+      "district": "flacq",
+      "from": "2025-12-29T18:00:00.000Z",
+      "to": "2025-12-28T20:00:00.000Z",
+      "id": "9ecb87d4bffa9d8c5f3da45d6720402a"
+    },
+    {
+      "date": "Le lundi 29 décembre 2025 de  22:00:00 à  02:00:00",
+      "locality": "PLAINE DES PAPAYES",
+      "localitySlug": "plaine-des-papayes",
+      "streets": "JINNAH RD-RAMGOLAM ROAD-ROYAL RD PLAINE DES PAPAYES",
+      "district": "pamplemousses",
+      "from": "2025-12-29T18:00:00.000Z",
+      "to": "2025-12-28T22:00:00.000Z",
+      "id": "39f9826a0e42bf35b92ac6a88fbe3083"
+    },
+    {
+      "date": "Le lundi 29 décembre 2025 de  22:00:00 à  01:00:00",
+      "locality": "16EME MILE",
+      "localitySlug": "16eme-mile",
+      "streets": "MORC DOMAH 16EME MILLE FOREST SIDE",
+      "district": "plainewilhems",
+      "from": "2025-12-29T18:00:00.000Z",
+      "to": "2025-12-28T21:00:00.000Z",
+      "id": "77029105268f93ceea59cd01c2756965"
+    },
+    {
+      "date": "Le lundi 29 décembre 2025 de  11:00:00 à  17:00:00",
+      "locality": "MELVIILE",
+      "localitySlug": "melviile",
+      "streets": "LES ABONNES DE MELVILLE GRAND GAUBE DANS LES ALENTOURS VILLA OCEAN PRES LA PLAGE.",
+      "district": "rivieredurempart",
+      "from": "2025-12-29T07:00:00.000Z",
+      "to": "2025-12-29T13:00:00.000Z",
+      "id": "155e5e6fe3b6c6dde5c856c3952dea5c"
+    },
+    {
+      "date": "Le lundi 29 décembre 2025 de  22:00:00 à  02:00:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "TEMPLE ROAD -NANKA RD RIVIERE DU REMPART",
+      "district": "rivieredurempart",
+      "from": "2025-12-29T18:00:00.000Z",
+      "to": "2025-12-28T22:00:00.000Z",
+      "id": "02772e8f78bd21740afe866898c8a462"
+    }
+  ]
+}

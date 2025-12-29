@@ -1,0 +1,28 @@
+{
+  "date": "2022-12-28",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.370Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mercredi 28 décembre 2022 de  09:45:00 à  15:00:00",
+      "locality": "DEEP RIVER BEAU CHAMP",
+      "localitySlug": "deep-river-beau-champ",
+      "streets": "PARTIE DE DEEP RIVER VILLAGE ET MORCELLEMENT LOUIS RENAUD",
+      "district": "flacq",
+      "from": "2022-12-28T05:45:00.000Z",
+      "to": "2022-12-28T11:00:00.000Z",
+      "id": "14e1f9f7a993247998bd17a2cac470a1"
+    },
+    {
+      "date": "Le mercredi 28 décembre 2022 de  09:00:00 à  10:30:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": "MORC HOSSENBUX EAU COULEE",
+      "district": "plainewilhems",
+      "from": "2022-12-28T05:00:00.000Z",
+      "to": "2022-12-28T06:30:00.000Z",
+      "id": "ba8f3e99bdfeffe95ca9b11b0f6dd33b"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "bain-des-dames",
+  "name": "BAIN DES DAMES",
+  "district": "portlouis",
+  "generated": "2025-12-29T20:21:02.477Z",
+  "outageCount": 2,
+  "firstOutage": "2022-11-15",
+  "lastOutage": "2024-12-01",
+  "outages": [
+    {
+      "date": "Le dimanche 1 décembre 2024 de  08:30:00 à  12:00:00",
+      "streets": "DANS LES ENVIRONS  DE BAINS DES DAMES",
+      "from": "2024-12-01T04:30:00.000Z",
+      "to": "2024-12-01T08:00:00.000Z",
+      "id": "cdacb0dc6ea776a5753e5597d61cda6c"
+    },
+    {
+      "date": "Le mardi 15 novembre 2022 de  15:45:00 à  17:45:00",
+      "streets": "BAIN DES DAMES CASSIS",
+      "from": "2022-11-15T11:45:00.000Z",
+      "to": "2022-11-15T13:45:00.000Z",
+      "id": "c5eb10dfbb64796417efde84e138ad6e"
+    }
+  ]
+}

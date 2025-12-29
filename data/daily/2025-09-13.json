@@ -1,0 +1,78 @@
+{
+  "date": "2025-09-13",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.440Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le samedi 13 septembre 2025 de  08:30:00 à  15:30:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "DANS LES ENVIRONS DE RESIDENCE BETHEL, MORC RAMDANEE, MORC RAWAT ET UNE PARTIE DE ALBION ROAD",
+      "district": "blackriver",
+      "from": "2025-09-13T04:30:00.000Z",
+      "to": "2025-09-13T11:30:00.000Z",
+      "id": "2025dfd037d14d1136ff16ae4038769d"
+    },
+    {
+      "date": "Le samedi 13 septembre 2025 de  09:00:00 à  14:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "PETITE RIVIERE",
+      "district": "blackriver",
+      "from": "2025-09-13T05:00:00.000Z",
+      "to": "2025-09-13T10:00:00.000Z",
+      "id": "305018fdf98a2efb29ff02b37d9039c6"
+    },
+    {
+      "date": "Le samedi 13 septembre 2025 de  09:00:00 à  12:00:00",
+      "locality": "MARE D-ALBERT",
+      "localitySlug": "mare-d-albert",
+      "streets": "Mare D’Albert habitant dans le périmètre et les rues suivantes: CWA Borehole, Football Playground Street, Innowear Factory de Mare D’Albert",
+      "district": "grandport",
+      "from": "2025-09-13T05:00:00.000Z",
+      "to": "2025-09-13T08:00:00.000Z",
+      "id": "d0d4baffb68fd80631f4dacae77facbf"
+    },
+    {
+      "date": "Le samedi 13 septembre 2025 de  08:00:00 à  15:00:00",
+      "locality": "BAR LE DUC",
+      "localitySlug": "bar-le-duc",
+      "streets": "TELECOM TOWER, HAZAREE POULTRY, MBC",
+      "district": "moka",
+      "from": "2025-09-13T04:00:00.000Z",
+      "to": "2025-09-13T11:00:00.000Z",
+      "id": "26e6ac16f2dcffd7d245f867b1f68219"
+    },
+    {
+      "date": "Le samedi 13 septembre 2025 de  09:00:00 à  13:30:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "ROUTE BOUNDARY,LA RUE STEVENSON,CHARLE LISE",
+      "district": "plainewilhems",
+      "from": "2025-09-13T05:00:00.000Z",
+      "to": "2025-09-13T09:30:00.000Z",
+      "id": "fdac18f23ea28ab201c0dd4887b85e53"
+    },
+    {
+      "date": "Le samedi 13 septembre 2025 de  08:30:00 à  12:00:00",
+      "locality": "SAINT AUBIN",
+      "localitySlug": "saint-aubin",
+      "streets": "VILLAGE ST AUBIN",
+      "district": "savanne",
+      "from": "2025-09-13T04:30:00.000Z",
+      "to": "2025-09-13T08:00:00.000Z",
+      "id": "4fd7f9884a4fcc06dd386e3548bee629"
+    },
+    {
+      "date": "Le samedi 13 septembre 2025 de  08:30:00 à  15:00:00",
+      "locality": "MT.LUBIN(RODRIGUES)",
+      "localitySlug": "mtlubin",
+      "streets": "MT LUBIN",
+      "district": "rodrigues",
+      "from": "2025-09-13T04:30:00.000Z",
+      "to": "2025-09-13T11:00:00.000Z",
+      "id": "74da171a2abf0cd8f20fdd8268a2a051"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2024-01-16",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.398Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mardi 16 janvier 2024 de  16:50:00 à  18:00:00",
+      "locality": "POSTE LAFAYETTE",
+      "localitySlug": "poste-lafayette",
+      "streets": "POSTE LAFAYETTE",
+      "district": "flacq",
+      "from": "2024-01-16T12:50:00.000Z",
+      "to": "2024-01-16T14:00:00.000Z",
+      "id": "ba7558287ae64ea017c9b009f79bb4f5"
+    },
+    {
+      "date": "Le mardi 16 janvier 2024 de  15:40:00 à  18:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVE ST LOUIS QUATRE BORNES",
+      "district": "plainewilhems",
+      "from": "2024-01-16T11:40:00.000Z",
+      "to": "2024-01-16T14:00:00.000Z",
+      "id": "e71f82401eb601395972fac7ab9abe13"
+    },
+    {
+      "date": "Le mardi 16 janvier 2024 de  17:30:00 à  18:30:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "MORC SEETARAM HENRIETTA",
+      "district": "plainewilhems",
+      "from": "2024-01-16T13:30:00.000Z",
+      "to": "2024-01-16T14:30:00.000Z",
+      "id": "81014c20b5bef548924dd4642d2ed5e5"
+    },
+    {
+      "date": "Le mardi 16 janvier 2024 de  18:25:00 à  19:00:00",
+      "locality": "CAMP FOUQUEREAUX",
+      "localitySlug": "camp-fouquereaux",
+      "streets": "CAMP FOUQUEREAUX, CASTEL & ST PAUL",
+      "district": "plainewilhems",
+      "from": "2024-01-16T14:25:00.000Z",
+      "to": "2024-01-16T15:00:00.000Z",
+      "id": "d0896267dc808c183ea1a6cc2a9e21c8"
+    },
+    {
+      "date": "Le mardi 16 janvier 2024 de  21:00:00 à  22:30:00",
+      "locality": "PETIT VERGER P AUX SABLES",
+      "localitySlug": "petit-verger-p-aux-sables",
+      "streets": "Morcellement Ghurbhurrun, PETIT VERGER, MORC VERGER",
+      "district": "portlouis",
+      "from": "2024-01-16T17:00:00.000Z",
+      "to": "2024-01-16T18:30:00.000Z",
+      "id": "bed09b3b5f1edfe5c5ebd14fe5e4c122"
+    }
+  ]
+}

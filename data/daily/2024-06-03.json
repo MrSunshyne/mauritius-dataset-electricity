@@ -1,0 +1,28 @@
+{
+  "date": "2024-06-03",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.408Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le lundi 3 juin 2024 de  06:00:00 à  09:30:00",
+      "locality": "DEUX FRERES",
+      "localitySlug": "deux-freres",
+      "streets": "DEUX FRERES",
+      "district": "flacq",
+      "from": "2024-06-03T02:00:00.000Z",
+      "to": "2024-06-03T05:30:00.000Z",
+      "id": "24763cc55f3e974454fd0b5f198bc4b8"
+    },
+    {
+      "date": "Le lundi 3 juin 2024 de  09:45:00 à  18:45:00",
+      "locality": "CALODYNE",
+      "localitySlug": "calodyne",
+      "streets": "CALODYNE SUR MER",
+      "district": "rivieredurempart",
+      "from": "2024-06-03T05:45:00.000Z",
+      "to": "2024-06-03T14:45:00.000Z",
+      "id": "7d63395e5a682fd068e322c1b46b835c"
+    }
+  ]
+}

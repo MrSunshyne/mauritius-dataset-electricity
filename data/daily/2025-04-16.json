@@ -1,0 +1,28 @@
+{
+  "date": "2025-04-16",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.433Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mercredi 16 avril 2025 de  08:30:00 à  17:00:00",
+      "locality": "ANSE JONCHEE",
+      "localitySlug": "anse-jonchee",
+      "streets": "Terre Cassée & Anse Jonchée",
+      "district": "grandport",
+      "from": "2025-04-16T04:30:00.000Z",
+      "to": "2025-04-16T13:00:00.000Z",
+      "id": "ff0858e59ee8bdfd7215a15864192e32"
+    },
+    {
+      "date": "Le mercredi 16 avril 2025 de  08:30:00 à  16:00:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "Kashmir road, Melville, Complex barachois, Couacaud road, Grand Gaube",
+      "district": "rivieredurempart",
+      "from": "2025-04-16T04:30:00.000Z",
+      "to": "2025-04-16T12:00:00.000Z",
+      "id": "78c7942eab3ad893f1587409c7a6923a"
+    }
+  ]
+}

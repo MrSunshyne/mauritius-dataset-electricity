@@ -1,0 +1,68 @@
+{
+  "date": "2023-08-04",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.386Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le vendredi 4 août 2023 de  13:00:00 à  19:30:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "REGION BOULET ROUGE  CENTRE DE FLACQ",
+      "district": "flacq",
+      "from": "2023-08-04T09:00:00.000Z",
+      "to": "2023-08-04T15:30:00.000Z",
+      "id": "99e4e1eca7e5a43cb6f8bc652a612d14"
+    },
+    {
+      "date": "Le vendredi 4 août 2023 de  14:00:00 à  19:00:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "Mahebourg habitant dans le périmètre et les rues suivantes: Rue Des Mariannes, Rue La Chaux, Rue De Maurice et une partie de la Route Royale Mahebourg",
+      "district": "grandport",
+      "from": "2023-08-04T10:00:00.000Z",
+      "to": "2023-08-04T15:00:00.000Z",
+      "id": "c1a59e9328d9dc1d46fc259413b0e294"
+    },
+    {
+      "date": "Le vendredi 4 août 2023 de  09:00:00 à  16:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "MORC AH YEN",
+      "district": "plainewilhems",
+      "from": "2023-08-04T05:00:00.000Z",
+      "to": "2023-08-04T12:00:00.000Z",
+      "id": "3d0fa753a490878985153fc66a5ea444"
+    },
+    {
+      "date": "Le vendredi 4 août 2023 de  09:00:00 à  15:00:00",
+      "locality": "LESUR",
+      "localitySlug": "lesur",
+      "streets": "Les abonnés du village de Lesur, Sébastopol habitant les rues suivantes : Route Royale Lesur, Beekoo, Kalimaye, Baitka, Cemetry, Cité Edc et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-08-04T05:00:00.000Z",
+      "to": "2023-08-04T11:00:00.000Z",
+      "id": "63c2e31cdb18c40d28d2c665f8b122dc"
+    },
+    {
+      "date": "Le vendredi 4 août 2023 de  09:00:00 à  14:00:00",
+      "locality": "MESNIL",
+      "localitySlug": "mesnil",
+      "streets": "PARISOT MESNIL",
+      "district": "plainewilhems",
+      "from": "2023-08-04T05:00:00.000Z",
+      "to": "2023-08-04T10:00:00.000Z",
+      "id": "2efeab866df043576d0c4bcc60e99b62"
+    },
+    {
+      "date": "Le vendredi 4 août 2023 de  09:30:00 à  12:00:00",
+      "locality": "ROCHE TERRE",
+      "localitySlug": "roche-terre",
+      "streets": "LES ABONNES HABITANT  ROCHE TERRE",
+      "district": "rivieredurempart",
+      "from": "2023-08-04T05:30:00.000Z",
+      "to": "2023-08-04T08:00:00.000Z",
+      "id": "6a295ce53f3a18547db6807b30370612"
+    }
+  ]
+}

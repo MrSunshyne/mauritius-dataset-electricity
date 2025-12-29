@@ -1,0 +1,53 @@
+{
+  "slug": "reunion-vacoas",
+  "name": "REUNION VACOAS",
+  "district": "plainewilhems",
+  "generated": "2025-12-29T20:21:02.775Z",
+  "outageCount": 6,
+  "firstOutage": "2024-01-23",
+  "lastOutage": "2024-10-15",
+  "outages": [
+    {
+      "date": "Le mardi 15 octobre 2024 de  10:00:00 à  10:45:00",
+      "streets": "Morc Reunion",
+      "from": "2024-10-15T06:00:00.000Z",
+      "to": "2024-10-15T06:45:00.000Z",
+      "id": "34723f6c523df22357cadf967b535f98"
+    },
+    {
+      "date": "Le mercredi 14 août 2024 de  13:00:00 à  13:30:00",
+      "streets": "Morc Munbodh,Reunion",
+      "from": "2024-08-14T09:00:00.000Z",
+      "to": "2024-08-14T09:30:00.000Z",
+      "id": "7e8e3f89579bbc25808ce4e07aafdb73"
+    },
+    {
+      "date": "Le jeudi 1 août 2024 de  09:30:00 à  11:00:00",
+      "streets": "REUNION AUX ALENTOUR WINNERS,MORC MEDINE",
+      "from": "2024-08-01T05:30:00.000Z",
+      "to": "2024-08-01T07:00:00.000Z",
+      "id": "6761e7c1b9f0b02eb1e422267ef559c1"
+    },
+    {
+      "date": "Le lundi 27 mai 2024 de  09:00:00 à  10:00:00",
+      "streets": "PART OF REUNION VACOAS",
+      "from": "2024-05-27T05:00:00.000Z",
+      "to": "2024-05-27T06:00:00.000Z",
+      "id": "3f27cc096f1fdc8b568b7f483e37a899"
+    },
+    {
+      "date": "Le lundi 29 janvier 2024 de  09:00:00 à  11:00:00",
+      "streets": "GIDC REUNION",
+      "from": "2024-01-29T05:00:00.000Z",
+      "to": "2024-01-29T07:00:00.000Z",
+      "id": "4cdef96723ae2b01bba7cd3eb90adff4"
+    },
+    {
+      "date": "Le mardi 23 janvier 2024 de  12:00:00 à  14:00:00",
+      "streets": "REUNION",
+      "from": "2024-01-23T08:00:00.000Z",
+      "to": "2024-01-23T10:00:00.000Z",
+      "id": "b4e1e4ec47af7f20e7321cacc4308852"
+    }
+  ]
+}

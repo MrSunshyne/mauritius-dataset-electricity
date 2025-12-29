@@ -1,0 +1,48 @@
+{
+  "date": "2023-03-06",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.375Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le lundi 6 mars 2023 de  10:30:00 à  14:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "Morc Bismic, Pasadena Complex, Nenuphare Complex, Hotel Anelia, Hotel Villa Caroline",
+      "district": "blackriver",
+      "from": "2023-03-06T06:30:00.000Z",
+      "to": "2023-03-06T10:30:00.000Z",
+      "id": "53b957fba746a9d42c9b63e0637128aa"
+    },
+    {
+      "date": "Le lundi 6 mars 2023 de  09:40:00 à  16:30:00",
+      "locality": "RIVIERE DU POSTE",
+      "localitySlug": "riviere-du-poste",
+      "streets": "SOOKLALL.BUNSBERRY RD,CAMP SEEYAJEE,PART OF ROYAL RD",
+      "district": "grandport",
+      "from": "2023-03-06T05:40:00.000Z",
+      "to": "2023-03-06T12:30:00.000Z",
+      "id": "b1aa2515e3345cac7bffa62ee26d74ac"
+    },
+    {
+      "date": "Le lundi 6 mars 2023 de  08:30:00 à  15:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Route Moreau, une partie de la Route John-Kennedy, Route Cantin",
+      "district": "plainewilhems",
+      "from": "2023-03-06T04:30:00.000Z",
+      "to": "2023-03-06T11:00:00.000Z",
+      "id": "bc991f415781dfdf7ae1c19a8c46974f"
+    },
+    {
+      "date": "Le lundi 6 mars 2023 de  19:45:00 à  21:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "MORC TRIANON,PETIT CAMP",
+      "district": "plainewilhems",
+      "from": "2023-03-06T15:45:00.000Z",
+      "to": "2023-03-06T17:00:00.000Z",
+      "id": "fd7049eb3e0f2adbe1df0de901d497f1"
+    }
+  ]
+}

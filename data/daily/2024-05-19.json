@@ -1,0 +1,78 @@
+{
+  "date": "2024-05-19",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.407Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le dimanche 19 mai 2024 de  08:30:00 à  16:00:00",
+      "locality": "DUBREUIL",
+      "localitySlug": "dubreuil",
+      "streets": "Le village du Dubreuil",
+      "district": "moka",
+      "from": "2024-05-19T04:30:00.000Z",
+      "to": "2024-05-19T12:00:00.000Z",
+      "id": "6c91f9ebd067f6541e0b9da9d0b45ed8"
+    },
+    {
+      "date": "Le dimanche 19 mai 2024 de  13:00:00 à  15:00:00",
+      "locality": "QUARTIER MILITAIRE",
+      "localitySlug": "quartier-militaire",
+      "streets": "Quartier Militaire Road, le village du Vuillemin et Betuel, Camp Bonne Veine Road, Media Road, Morcellement Gookool, MDA, et ruelles avoisinantes",
+      "district": "moka",
+      "from": "2024-05-19T09:00:00.000Z",
+      "to": "2024-05-19T11:00:00.000Z",
+      "id": "e180ccbc26542226ff028f2c9ba35437"
+    },
+    {
+      "date": "Le dimanche 19 mai 2024 de  08:00:00 à  17:00:00",
+      "locality": "LONG MOUNTAIN",
+      "localitySlug": "long-mountain",
+      "streets": "NOTRE DAME, LONG MOUNTAIN, CREVE COEUR ET CAMP LA BOUE",
+      "district": "pamplemousses",
+      "from": "2024-05-19T04:00:00.000Z",
+      "to": "2024-05-19T13:00:00.000Z",
+      "id": "9013d9458d661f2da931566c7788e7f9"
+    },
+    {
+      "date": "Le dimanche 19 mai 2024 de  08:30:00 à  15:30:00",
+      "locality": "HERMITAGE PHOENIX",
+      "localitySlug": "hermitage-phoenix",
+      "streets": "une partie de Plaines de Hermitage.",
+      "district": "plainewilhems",
+      "from": "2024-05-19T04:30:00.000Z",
+      "to": "2024-05-19T11:30:00.000Z",
+      "id": "e1a713dd5851c883f231d9c8d0d18901"
+    },
+    {
+      "date": "Le dimanche 19 mai 2024 de  08:30:00 à  15:00:00",
+      "locality": "CITE CHEBEL",
+      "localitySlug": "cite-chebel",
+      "streets": "RESIDENCE TROCHETIA, LA REPRISE, CAMP BERTELOT, CWA LE BOSQUET ET MORC LA CONFIANCE",
+      "district": "plainewilhems",
+      "from": "2024-05-19T04:30:00.000Z",
+      "to": "2024-05-19T11:00:00.000Z",
+      "id": "6555deebc46a017abfe24a8b129a6948"
+    },
+    {
+      "date": "Le dimanche 19 mai 2024 de  14:00:00 à  15:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Morc Bassin, NHDC Bassin, Boodram Pumping, CWA Bore Hole 1063 et Kool Food",
+      "district": "plainewilhems",
+      "from": "2024-05-19T10:00:00.000Z",
+      "to": "2024-05-19T11:00:00.000Z",
+      "id": "280008a188ff4fe2b4f55678fd0918fd"
+    },
+    {
+      "date": "Le dimanche 19 mai 2024 de  08:45:00 à  15:00:00",
+      "locality": "BENARES",
+      "localitySlug": "benares",
+      "streets": "BENARES",
+      "district": "savanne",
+      "from": "2024-05-19T04:45:00.000Z",
+      "to": "2024-05-19T11:00:00.000Z",
+      "id": "492c12d629f2f73570def45576cdff93"
+    }
+  ]
+}

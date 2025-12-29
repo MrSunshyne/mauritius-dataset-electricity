@@ -1,0 +1,28 @@
+{
+  "date": "2025-12-28",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.448Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le dimanche 28 décembre 2025 de  21:20:00 à  01:30:00",
+      "locality": "ROCHES NOIRES",
+      "localitySlug": "roches-noires",
+      "streets": "SHANTINIKETAN NR CAVERNE ROCHES NOIRES",
+      "district": "rivieredurempart",
+      "from": "2025-12-28T17:20:00.000Z",
+      "to": "2025-12-27T21:30:00.000Z",
+      "id": "1e39e85d0d69718f62e8e153b5eb69ca"
+    },
+    {
+      "date": "Le dimanche 28 décembre 2025 de  07:30:00 à  11:45:00",
+      "locality": "RIAMBEL",
+      "localitySlug": "riambel",
+      "streets": "ROYAL RD RIAMBEL",
+      "district": "savanne",
+      "from": "2025-12-28T03:30:00.000Z",
+      "to": "2025-12-28T07:45:00.000Z",
+      "id": "56633f2d265b65d91540aec34733996e"
+    }
+  ]
+}

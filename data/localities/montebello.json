@@ -1,0 +1,39 @@
+{
+  "slug": "montebello",
+  "name": "MONTEBELLO",
+  "district": "moka",
+  "generated": "2025-12-29T20:21:02.701Z",
+  "outageCount": 4,
+  "firstOutage": "2023-03-26",
+  "lastOutage": "2023-12-10",
+  "outages": [
+    {
+      "date": "Le dimanche 10 décembre 2023 de  08:30:00 à  16:00:00",
+      "streets": "LES ANONNES DE MONTEBELLO",
+      "from": "2023-12-10T04:30:00.000Z",
+      "to": "2023-12-10T12:00:00.000Z",
+      "id": "da4b6c2d63b131d014ce5294818f8fa4"
+    },
+    {
+      "date": "Le dimanche 22 octobre 2023 de  08:30:00 à  15:00:00",
+      "streets": "LES ABONNES HABITANT MONTEBELLO",
+      "from": "2023-10-22T04:30:00.000Z",
+      "to": "2023-10-22T11:00:00.000Z",
+      "id": "15c7972ad895a879ad2883c27ea2550d"
+    },
+    {
+      "date": "Le dimanche 30 avril 2023 de  08:30:00 à  16:00:00",
+      "streets": "LES ABONNES HABITANT MONTEBELLO",
+      "from": "2023-04-30T04:30:00.000Z",
+      "to": "2023-04-30T12:00:00.000Z",
+      "id": "e0a869f1dcf4750d92c1e4627b1fb519"
+    },
+    {
+      "date": "Le dimanche 26 mars 2023 de  08:30:00 à  16:00:00",
+      "streets": "LES ABONNES HABITANT MONTEBELLO",
+      "from": "2023-03-26T04:30:00.000Z",
+      "to": "2023-03-26T12:00:00.000Z",
+      "id": "481cafa9972ec41d4eb06a2cb5998c20"
+    }
+  ]
+}

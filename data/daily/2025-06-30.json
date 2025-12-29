@@ -1,0 +1,28 @@
+{
+  "date": "2025-06-30",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.434Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le lundi 30 juin 2025 de  15:00:00 à  17:00:00",
+      "locality": "BEAU CHAMP FLACQ",
+      "localitySlug": "beau-champ-flacq",
+      "streets": "LABOURER CAMP",
+      "district": "flacq",
+      "from": "2025-06-30T11:00:00.000Z",
+      "to": "2025-06-30T13:00:00.000Z",
+      "id": "cbf1b23ad1564faa268e363a2bdb8f94"
+    },
+    {
+      "date": "Le lundi 30 juin 2025 de  12:45:00 à  14:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "VINTA NO 1",
+      "district": "plainewilhems",
+      "from": "2025-06-30T08:45:00.000Z",
+      "to": "2025-06-30T10:30:00.000Z",
+      "id": "9de92259a34b32b94d173c1545a517dc"
+    }
+  ]
+}

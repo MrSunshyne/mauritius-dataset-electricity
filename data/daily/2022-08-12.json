@@ -1,0 +1,98 @@
+{
+  "date": "2022-08-12",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.360Z",
+  "outageCount": 9,
+  "outages": [
+    {
+      "date": "Le vendredi 12 août 2022 de  09:00:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "AVE ST PIERRE, AVE DES FRANGIPANES, AVE ALAMANDAS, AVE DES PALMIERS ET AVE DES FILAOS",
+      "district": "blackriver",
+      "from": "2022-08-12T05:00:00.000Z",
+      "to": "2022-08-12T11:30:00.000Z",
+      "id": "b587b3402236592fe46be89a19f8cd36"
+    },
+    {
+      "date": "Le vendredi 12 août 2022 de  10:00:00 à  16:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "Chaumiere Transfer Station, Polyeco Ltd et Hazardous Waste",
+      "district": "blackriver",
+      "from": "2022-08-12T06:00:00.000Z",
+      "to": "2022-08-12T12:30:00.000Z",
+      "id": "2a0bb107acbf5f87f1825462cf7a8ac8"
+    },
+    {
+      "date": "Le vendredi 12 août 2022 de  08:30:00 à  17:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "Morcellement VRS 1 Lescalier Road Plaine Magnien",
+      "district": "grandport",
+      "from": "2022-08-12T04:30:00.000Z",
+      "to": "2022-08-12T13:00:00.000Z",
+      "id": "c86c5561413d61657a997cf9170ef3c2"
+    },
+    {
+      "date": "Le vendredi 12 août 2022 de  08:30:00 à  16:00:00",
+      "locality": "PETIT BEL AIR",
+      "localitySlug": "petit-bel-air",
+      "streets": "Petit Bel Air habitant dans le périmètre et les rues suivantes: Ruisseau Délices Street, Pandit Sahadeo Street, Kowlessur Street, Bissoondoyal Street, Cemetry Street et une partie de la Route Royale Petit Bel Air",
+      "district": "grandport",
+      "from": "2022-08-12T04:30:00.000Z",
+      "to": "2022-08-12T12:00:00.000Z",
+      "id": "983da2963caf874c984b8350b0273062"
+    },
+    {
+      "date": "Le vendredi 12 août 2022 de  08:30:00 à  12:00:00",
+      "locality": "LONG MOUNTAIN",
+      "localitySlug": "long-mountain",
+      "streets": "Les abonnés habitant Notre Dame, Long Mountain et C. Cœur",
+      "district": "pamplemousses",
+      "from": "2022-08-12T04:30:00.000Z",
+      "to": "2022-08-12T08:00:00.000Z",
+      "id": "d44f84f1889b50cb837a090b6f9ad545"
+    },
+    {
+      "date": "Le vendredi 12 août 2022 de  09:00:00 à  16:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave Stanley, Farquhar et en partie Sir V. Naz",
+      "district": "plainewilhems",
+      "from": "2022-08-12T05:00:00.000Z",
+      "to": "2022-08-12T12:00:00.000Z",
+      "id": "350bb8171b193a2de4c681fcf1be5884"
+    },
+    {
+      "date": "Le vendredi 12 août 2022 de  08:30:00 à  15:00:00",
+      "locality": "SOTTISE",
+      "localitySlug": "sottise",
+      "streets": "LES ABONNES DE SOTTISE",
+      "district": "rivieredurempart",
+      "from": "2022-08-12T04:30:00.000Z",
+      "to": "2022-08-12T11:00:00.000Z",
+      "id": "fa28b8d5d4e015349261cea1cd86034c"
+    },
+    {
+      "date": "Le vendredi 12 août 2022 de  09:00:00 à  15:00:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "Morcellement Gris Gris Souillac",
+      "district": "savanne",
+      "from": "2022-08-12T05:00:00.000Z",
+      "to": "2022-08-12T11:00:00.000Z",
+      "id": "206f19329728234c60d77bbdbd9f2ed6"
+    },
+    {
+      "date": "Le vendredi 12 août 2022 de  09:00:00 à  11:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "MALARTIC,BASSIN GALLARD",
+      "district": "rodrigues",
+      "from": "2022-08-12T05:00:00.000Z",
+      "to": "2022-08-12T07:00:00.000Z",
+      "id": "6731179d297bf6b101c42869c16c7800"
+    }
+  ]
+}

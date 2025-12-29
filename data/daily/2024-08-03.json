@@ -1,0 +1,58 @@
+{
+  "date": "2024-08-03",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.413Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le samedi 3 août 2024 de  08:45:00 à  13:00:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "PLAINE DES GERSINY NR HOSPITAL",
+      "district": "flacq",
+      "from": "2024-08-03T04:45:00.000Z",
+      "to": "2024-08-03T09:00:00.000Z",
+      "id": "8f7c0d8dbb5bdd536f473cf9231fc273"
+    },
+    {
+      "date": "Le samedi 3 août 2024 de  09:30:00 à  11:30:00",
+      "locality": "LONG MOUNTAIN",
+      "localitySlug": "long-mountain",
+      "streets": "VALTON ROAD LONG MOUNTAIN",
+      "district": "pamplemousses",
+      "from": "2024-08-03T05:30:00.000Z",
+      "to": "2024-08-03T07:30:00.000Z",
+      "id": "250e8a19361da2f76115fae804fabc83"
+    },
+    {
+      "date": "Le samedi 3 août 2024 de  12:20:00 à  14:00:00",
+      "locality": "NOTRE DAME",
+      "localitySlug": "notre-dame",
+      "streets": "Route royale, boulangerie, mosque et les alentours",
+      "district": "pamplemousses",
+      "from": "2024-08-03T08:20:00.000Z",
+      "to": "2024-08-03T10:00:00.000Z",
+      "id": "c2dec79016cb6e89134a903776d71a27"
+    },
+    {
+      "date": "Le samedi 3 août 2024 de  08:30:00 à  16:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "HOLLYROOD ET QUATRE BORNES: Trois -Mamelles, Bassin",
+      "district": "plainewilhems",
+      "from": "2024-08-03T04:30:00.000Z",
+      "to": "2024-08-03T12:00:00.000Z",
+      "id": "a37d56e34adf4dfda19791a829ddc760"
+    },
+    {
+      "date": "Le samedi 3 août 2024 de  08:30:00 à  16:00:00",
+      "locality": "HOLLYROOD",
+      "localitySlug": "hollyrood",
+      "streets": "HOLLYROOD ET QUATRE BORNES: Trois-Mamelles, Bassin",
+      "district": "plainewilhems",
+      "from": "2024-08-03T04:30:00.000Z",
+      "to": "2024-08-03T12:00:00.000Z",
+      "id": "8fe5db68c6ecc047ca7ff2928f87988a"
+    }
+  ]
+}

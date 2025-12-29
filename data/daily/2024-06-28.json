@@ -1,0 +1,28 @@
+{
+  "date": "2024-06-28",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.410Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le vendredi 28 juin 2024 de  10:30:00 à  13:30:00",
+      "locality": "QUATRE SOEURS",
+      "localitySlug": "quatre-soeurs",
+      "streets": "MARIE JANE STREET QUATRE SOEUR",
+      "district": "flacq",
+      "from": "2024-06-28T06:30:00.000Z",
+      "to": "2024-06-28T09:30:00.000Z",
+      "id": "bb11b6c917400fd688b38f2dc716ec33"
+    },
+    {
+      "date": "Le vendredi 28 juin 2024 de  16:30:00 à  17:30:00",
+      "locality": "RICHEMARE",
+      "localitySlug": "richemare",
+      "streets": "NEAR DREAMPRICE, GALAXY AND SURROUNDINGS",
+      "district": "flacq",
+      "from": "2024-06-28T12:30:00.000Z",
+      "to": "2024-06-28T13:30:00.000Z",
+      "id": "11a68970a3513f8f1b665dd7f1017230"
+    }
+  ]
+}

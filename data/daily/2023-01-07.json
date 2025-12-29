@@ -1,0 +1,48 @@
+{
+  "date": "2023-01-07",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.370Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le samedi 7 janvier 2023 de  08:00:00 à  19:00:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "CITE LA CHAUX, PRESKIL, MORC LORETTE",
+      "district": "grandport",
+      "from": "2023-01-07T04:00:00.000Z",
+      "to": "2023-01-07T15:00:00.000Z",
+      "id": "22f8332659f94acce51b41bfac8097c7"
+    },
+    {
+      "date": "Le samedi 7 janvier 2023 de  08:30:00 à  16:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Barkly, Morc La Confiance, Colonel Maingard, Res. Trochetia, La Reprise, Metro workshop, Le Bosquet Pumping, Ave Schuman et Ave Dumat",
+      "district": "plainewilhems",
+      "from": "2023-01-07T04:30:00.000Z",
+      "to": "2023-01-07T12:00:00.000Z",
+      "id": "9186e569b10928086c84c14fa88ab076"
+    },
+    {
+      "date": "Le samedi 7 janvier 2023 de  08:00:00 à  15:30:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "MORC BOUCAN",
+      "district": "rivieredurempart",
+      "from": "2023-01-07T04:00:00.000Z",
+      "to": "2023-01-07T11:30:00.000Z",
+      "id": "1e9be738bd9bc3edbd1dd287562a07ee"
+    },
+    {
+      "date": "Le samedi 7 janvier 2023 de  19:15:00 à  21:00:00",
+      "locality": "L-ESCALIER",
+      "localitySlug": "l-escalier",
+      "streets": "MORC LA SOURDINE",
+      "district": "savanne",
+      "from": "2023-01-07T15:15:00.000Z",
+      "to": "2023-01-07T17:00:00.000Z",
+      "id": "adb7ddfc535d211c0ef5eedb40545286"
+    }
+  ]
+}

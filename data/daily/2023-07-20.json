@@ -1,0 +1,58 @@
+{
+  "date": "2023-07-20",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.385Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le jeudi 20 juillet 2023 de  12:50:00 à  16:00:00",
+      "locality": "LA LAURA (BEL AIR)",
+      "localitySlug": "la-laura",
+      "streets": "LES ABONNES DE LA LAURA VILLAGE, BEL AIR.",
+      "district": "flacq",
+      "from": "2023-07-20T08:50:00.000Z",
+      "to": "2023-07-20T12:00:00.000Z",
+      "id": "6c108e34ac181a948e7da38c705f09a4"
+    },
+    {
+      "date": "Le jeudi 20 juillet 2023 de  09:00:00 à  17:00:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "Balisson et Rose Belle habitant dans le périmètre et les rues suivantes: NHDC Balisson, Residence Mon Rose, Cité CHA, Morcellement Orchidées, Morcellement Relogement Mare Chicose, Ramjeet Lane, Chemin Lalljee et la Route Royale Balisson et Marie Jeannie",
+      "district": "grandport",
+      "from": "2023-07-20T05:00:00.000Z",
+      "to": "2023-07-20T13:00:00.000Z",
+      "id": "d47ae69ac01619dc3e7147423ecd0c4f"
+    },
+    {
+      "date": "Le jeudi 20 juillet 2023 de  08:30:00 à  15:00:00",
+      "locality": "CALEBASSES",
+      "localitySlug": "calebasses",
+      "streets": "ARSENAL BRANCH ROAD ET KALIMAYE ROAD.",
+      "district": "pamplemousses",
+      "from": "2023-07-20T04:30:00.000Z",
+      "to": "2023-07-20T11:00:00.000Z",
+      "id": "eea6fd51c075ee2bf382f23e44a091f4"
+    },
+    {
+      "date": "Le jeudi 20 juillet 2023 de  08:45:00 à  09:45:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "whole Malherbes region",
+      "district": "plainewilhems",
+      "from": "2023-07-20T04:45:00.000Z",
+      "to": "2023-07-20T05:45:00.000Z",
+      "id": "fb21a4114d16a3d1ab2e0b946de3b76c"
+    },
+    {
+      "date": "Le jeudi 20 juillet 2023 de  09:30:00 à  14:30:00",
+      "locality": "POINTE AUX CANONNIERS",
+      "localitySlug": "pointe-aux-canonniers",
+      "streets": "casse ghoon street-4eme impasse",
+      "district": "rodrigues",
+      "from": "2023-07-20T05:30:00.000Z",
+      "to": "2023-07-20T10:30:00.000Z",
+      "id": "bfe0c46f586108c2169e5cca74f29c0f"
+    }
+  ]
+}

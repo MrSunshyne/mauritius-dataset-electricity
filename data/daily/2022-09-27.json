@@ -1,0 +1,28 @@
+{
+  "date": "2022-09-27",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.363Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mardi 27 septembre 2022 de  08:00:00 à  10:30:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "Les abonnés de La Marie habitant les régions et les rues suivantes : Acacia No 4 & 5, Crémation, partie de Montant du Fil  et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-09-27T04:00:00.000Z",
+      "to": "2022-09-27T06:30:00.000Z",
+      "id": "768b144b7acf04b58daad5e65f5a6fc3"
+    },
+    {
+      "date": "Le mardi 27 septembre 2022 de  10:00:00 à  13:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "PEZZANNI,LECKNINGBEAUBASSIN",
+      "district": "plainewilhems",
+      "from": "2022-09-27T06:00:00.000Z",
+      "to": "2022-09-27T09:00:00.000Z",
+      "id": "b8e54178aea34912c044980862171ec1"
+    }
+  ]
+}

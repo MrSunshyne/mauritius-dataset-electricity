@@ -1,0 +1,68 @@
+{
+  "date": "2025-09-18",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.440Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le jeudi 18 septembre 2025 de  09:00:00 à  17:00:00",
+      "locality": "BEAU CHAMP FLACQ",
+      "localitySlug": "beau-champ-flacq",
+      "streets": "BEAU CHAMPS, GRANDE RIVIERE SU EST ET CAMP PECHEUR.",
+      "district": "flacq",
+      "from": "2025-09-18T05:00:00.000Z",
+      "to": "2025-09-18T13:00:00.000Z",
+      "id": "967a0a78621ac654ec5f7377bc901273"
+    },
+    {
+      "date": "Le jeudi 18 septembre 2025 de  09:00:00 à  15:00:00",
+      "locality": "RIVIERE DU POSTE",
+      "localitySlug": "riviere-du-poste",
+      "streets": "Le village de Riviere Du Poste et Joli Bois",
+      "district": "grandport",
+      "from": "2025-09-18T05:00:00.000Z",
+      "to": "2025-09-18T11:00:00.000Z",
+      "id": "29818b93ed8136b58ea8e3205337df2b"
+    },
+    {
+      "date": "Le jeudi 18 septembre 2025 de  21:00:00 à  22:00:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "BOIS MANGUES,P D PAPAYES,TRIOLET,SOLITUDE",
+      "district": "pamplemousses",
+      "from": "2025-09-18T17:00:00.000Z",
+      "to": "2025-09-18T18:00:00.000Z",
+      "id": "782e13eb51ee8e9c0059fa5e3249ac40"
+    },
+    {
+      "date": "Le jeudi 18 septembre 2025 de  13:50:00 à  14:45:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "JASON COURT",
+      "district": "plainewilhems",
+      "from": "2025-09-18T09:50:00.000Z",
+      "to": "2025-09-18T10:45:00.000Z",
+      "id": "99ae15d370c017d39c990378c334fabb"
+    },
+    {
+      "date": "Le jeudi 18 septembre 2025 de  18:45:00 à  21:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "TX OLLIER/PERE LAVAL OPENED",
+      "district": "plainewilhems",
+      "from": "2025-09-18T14:45:00.000Z",
+      "to": "2025-09-18T17:00:00.000Z",
+      "id": "b7c150707b42d2b30e91a1446c56b447"
+    },
+    {
+      "date": "Le jeudi 18 septembre 2025 de  13:45:00 à  14:15:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "SCHOOL LANE AND SURROUNDINDS",
+      "district": "portlouis",
+      "from": "2025-09-18T09:45:00.000Z",
+      "to": "2025-09-18T10:15:00.000Z",
+      "id": "f9b8b71d1738a6a852a09e7c4df71187"
+    }
+  ]
+}

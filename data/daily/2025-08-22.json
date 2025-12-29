@@ -1,0 +1,78 @@
+{
+  "date": "2025-08-22",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.438Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le vendredi 22 août 2025 de  09:15:00 à  15:00:00",
+      "locality": "OLIVIA",
+      "localitySlug": "olivia",
+      "streets": "OLIVIA",
+      "district": "flacq",
+      "from": "2025-08-22T05:15:00.000Z",
+      "to": "2025-08-22T11:00:00.000Z",
+      "id": "40ebdc7a5a1633bf3090ff8631ae4110"
+    },
+    {
+      "date": "Le vendredi 22 août 2025 de  08:30:00 à  15:00:00",
+      "locality": "VALETTA",
+      "localitySlug": "valetta",
+      "streets": "Morcellement VRS",
+      "district": "moka",
+      "from": "2025-08-22T04:30:00.000Z",
+      "to": "2025-08-22T11:00:00.000Z",
+      "id": "2bc979dd48ce690376d9e3c398b00d3d"
+    },
+    {
+      "date": "Le vendredi 22 août 2025 de  09:00:00 à  10:00:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": "ANGRAIS CATHAN EAU COULEE",
+      "district": "plainewilhems",
+      "from": "2025-08-22T05:00:00.000Z",
+      "to": "2025-08-22T06:00:00.000Z",
+      "id": "037b54cecd82655d3ae521a2f1de44fe"
+    },
+    {
+      "date": "Le vendredi 22 août 2025 de  10:50:00 à  12:50:00",
+      "locality": "PAVILLON",
+      "localitySlug": "pavillon",
+      "streets": "EN PARTIE ROYAL ROAD,YOUNG EAGLE LANE, GUEULE PAVE,NHDC ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2025-08-22T06:50:00.000Z",
+      "to": "2025-08-22T08:50:00.000Z",
+      "id": "e8766626ef2a98dad24bdd51daa3be0a"
+    },
+    {
+      "date": "Le vendredi 22 août 2025 de  15:30:00 à  17:30:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Ave Berthaud, Res. Trefles, Assembly Lane, Jeetoo Ave, en partie Stanley et Ave Cretin",
+      "district": "plainewilhems",
+      "from": "2025-08-22T11:30:00.000Z",
+      "to": "2025-08-22T13:30:00.000Z",
+      "id": "f8a96b280e8a0655903ada02075f3d69"
+    },
+    {
+      "date": "Le vendredi 22 août 2025 de  13:30:00 à  14:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "ROUTE GRANUM ET LES ALENTOURS.",
+      "district": "plainewilhems",
+      "from": "2025-08-22T09:30:00.000Z",
+      "to": "2025-08-22T10:30:00.000Z",
+      "id": "f0a1414afdcdb4f5267d617e5aa20de7"
+    },
+    {
+      "date": "Le vendredi 22 août 2025 de  09:15:00 à  12:00:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "Pailles Rd",
+      "district": "portlouis",
+      "from": "2025-08-22T05:15:00.000Z",
+      "to": "2025-08-22T08:00:00.000Z",
+      "id": "c4b26f68e800ff3c5911d479eeb3844f"
+    }
+  ]
+}

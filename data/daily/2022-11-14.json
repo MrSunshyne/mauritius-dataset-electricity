@@ -1,0 +1,58 @@
+{
+  "date": "2022-11-14",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.367Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le lundi 14 novembre 2022 de  00:00:00 à  00:00:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "Mahebourg habitant dans le périmètre et les rues suivantes : Rue Boulangerie, Rue Lapasse, Rue Aigrettes, Quartier Mahebourg, une partie de Rue Colonie, Maurice et Hollandais",
+      "district": "grandport",
+      "from": "2022-11-13T20:00:00.000Z",
+      "to": "2022-11-12T20:00:00.000Z",
+      "id": "3c688156882c4f4e006124c78f99038b"
+    },
+    {
+      "date": "Le lundi 14 novembre 2022 de  15:30:00 à  17:30:00",
+      "locality": "STANLEY",
+      "localitySlug": "stanley",
+      "streets": "STANLEY AVENUE GAJADHURROSE HILL",
+      "district": "plainewilhems",
+      "from": "2022-11-14T11:30:00.000Z",
+      "to": "2022-11-14T13:30:00.000Z",
+      "id": "fcd56b48cd9fac059619486cc43eb7ee"
+    },
+    {
+      "date": "Le lundi 14 novembre 2022 de  15:30:00 à  18:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "SENTOSA ROAD GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2022-11-14T11:30:00.000Z",
+      "to": "2022-11-14T14:00:00.000Z",
+      "id": "e7204cd704cff70cd727838ba2306418"
+    },
+    {
+      "date": "Le lundi 14 novembre 2022 de  10:10:00 à  16:00:00",
+      "locality": "POINTE AUX CANONNIERS",
+      "localitySlug": "pointe-aux-canonniers",
+      "streets": "le village de Pointe aux Cannoniers.",
+      "district": "rodrigues",
+      "from": "2022-11-14T06:10:00.000Z",
+      "to": "2022-11-14T12:00:00.000Z",
+      "id": "d93a7632195fe45b006f8aeda469ab13"
+    },
+    {
+      "date": "Le lundi 14 novembre 2022 de  16:00:00 à  18:00:00",
+      "locality": "POINTE AUX CANONNIERS",
+      "localitySlug": "pointe-aux-canonniers",
+      "streets": "le village de pointe aux cannoniers",
+      "district": "rodrigues",
+      "from": "2022-11-14T12:00:00.000Z",
+      "to": "2022-11-14T14:00:00.000Z",
+      "id": "57f3b777c186d45bf67a08d2f6714438"
+    }
+  ]
+}

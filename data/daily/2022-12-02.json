@@ -1,0 +1,28 @@
+{
+  "date": "2022-12-02",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.368Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le vendredi 2 décembre 2022 de  08:30:00 à  16:00:00",
+      "locality": "VERDUN",
+      "localitySlug": "verdun",
+      "streets": "Village Verdun et CWA Dagotiere",
+      "district": "moka",
+      "from": "2022-12-02T04:30:00.000Z",
+      "to": "2022-12-02T12:00:00.000Z",
+      "id": "2bff0e9ccb6afd15370f11090c0fa300"
+    },
+    {
+      "date": "Le vendredi 2 décembre 2022 de  08:30:00 à  15:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "Belle Etoile, Ave Saran Villa, Temple Rd et Ave Riverside",
+      "district": "plainewilhems",
+      "from": "2022-12-02T04:30:00.000Z",
+      "to": "2022-12-02T11:00:00.000Z",
+      "id": "0a898d299f07cf0080ec7ac821dac1e1"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "valton",
+  "name": "VALTON",
+  "district": "pamplemousses",
+  "generated": "2025-12-29T20:21:02.851Z",
+  "outageCount": 1,
+  "firstOutage": "2023-11-18",
+  "lastOutage": "2023-11-18",
+  "outages": [
+    {
+      "date": "Le samedi 18 novembre 2023 de  09:00:00 à  15:00:00",
+      "streets": "Valton",
+      "from": "2023-11-18T05:00:00.000Z",
+      "to": "2023-11-18T11:00:00.000Z",
+      "id": "a8a8056c611a3899752e230664cb2165"
+    }
+  ]
+}

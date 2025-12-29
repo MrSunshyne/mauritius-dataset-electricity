@@ -1,0 +1,118 @@
+{
+  "date": "2023-12-11",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.395Z",
+  "outageCount": 11,
+  "outages": [
+    {
+      "date": "Le lundi 11 décembre 2023 de  08:30:00 à  16:30:00",
+      "locality": "LA MIVOIE",
+      "localitySlug": "la-mivoie",
+      "streets": "LA MIVOIE",
+      "district": "blackriver",
+      "from": "2023-12-11T04:30:00.000Z",
+      "to": "2023-12-11T12:30:00.000Z",
+      "id": "f22ff31715bb8c43b1838b50e627141a"
+    },
+    {
+      "date": "Le lundi 11 décembre 2023 de  13:30:00 à  17:30:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "MORC RAWAT CAMP BETHEL, PETITE RIVIERE.",
+      "district": "blackriver",
+      "from": "2023-12-11T09:30:00.000Z",
+      "to": "2023-12-11T13:30:00.000Z",
+      "id": "6807a6a93ef7cdcd4ac8aeeb6e319e42"
+    },
+    {
+      "date": "Le lundi 11 décembre 2023 de  09:30:00 à  12:30:00",
+      "locality": "MORC SAINT ANDRE",
+      "localitySlug": "morc-saint-andre",
+      "streets": "LES ABONNES DE IQBAL ROAD.",
+      "district": "pamplemousses",
+      "from": "2023-12-11T05:30:00.000Z",
+      "to": "2023-12-11T08:30:00.000Z",
+      "id": "4d0fd880928cce857666dfae8e47a86a"
+    },
+    {
+      "date": "Le lundi 11 décembre 2023 de  08:30:00 à  09:30:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "TROU AUX BICHES",
+      "district": "pamplemousses",
+      "from": "2023-12-11T04:30:00.000Z",
+      "to": "2023-12-11T05:30:00.000Z",
+      "id": "44cde4f4bf19f0e6fcca551f1971908e"
+    },
+    {
+      "date": "Le lundi 11 décembre 2023 de  20:30:00 à  22:00:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "PAMPLEMOUSSES -MOUNT",
+      "district": "pamplemousses",
+      "from": "2023-12-11T16:30:00.000Z",
+      "to": "2023-12-11T18:00:00.000Z",
+      "id": "f59ec5df43d34a5263d1ed898caf5ff1"
+    },
+    {
+      "date": "Le lundi 11 décembre 2023 de  10:30:00 à  11:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Pierrefonds et Cressonville",
+      "district": "plainewilhems",
+      "from": "2023-12-11T06:30:00.000Z",
+      "to": "2023-12-11T07:00:00.000Z",
+      "id": "e9191e0ac77501398b3c3efc6f7f820d"
+    },
+    {
+      "date": "Le lundi 11 décembre 2023 de  09:30:00 à  11:00:00",
+      "locality": "WOOTUN",
+      "localitySlug": "wootun",
+      "streets": "LES ABONNES DE NHDC LILY WOOTUN.",
+      "district": "plainewilhems",
+      "from": "2023-12-11T05:30:00.000Z",
+      "to": "2023-12-11T07:00:00.000Z",
+      "id": "06c05463815d8a99c1aa1f255ad96702"
+    },
+    {
+      "date": "Le lundi 11 décembre 2023 de  17:45:00 à  22:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "FLOREAL QUEEN MARY AVENUE ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2023-12-11T13:45:00.000Z",
+      "to": "2023-12-11T18:00:00.000Z",
+      "id": "18ec8a0a9c744bb06f5974571c62f657"
+    },
+    {
+      "date": "Le lundi 11 décembre 2023 de  13:30:00 à  19:00:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "PAILLES ROAD FROM CWA RESERVOIR JONCTION TILL MOTORWAY.",
+      "district": "portlouis",
+      "from": "2023-12-11T09:30:00.000Z",
+      "to": "2023-12-11T15:00:00.000Z",
+      "id": "94af12048df00425c7f4ba5d958f5f09"
+    },
+    {
+      "date": "Le lundi 11 décembre 2023 de  11:45:00 à  14:15:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "WHOLE OF RESERVOIR ROAD AND PART OF ROYAL ROAD NEAR KINGSAVERS.",
+      "district": "rivieredurempart",
+      "from": "2023-12-11T07:45:00.000Z",
+      "to": "2023-12-11T10:15:00.000Z",
+      "id": "36d8299886ca13518fe9780f83874af0"
+    },
+    {
+      "date": "Le lundi 11 décembre 2023 de  14:50:00 à  17:00:00",
+      "locality": "PLAINE DES ROCHES",
+      "localitySlug": "plaine-des-roches",
+      "streets": "PLAINE DES ROCHES",
+      "district": "rivieredurempart",
+      "from": "2023-12-11T10:50:00.000Z",
+      "to": "2023-12-11T13:00:00.000Z",
+      "id": "739780928d5a5238b43681a419a331ee"
+    }
+  ]
+}

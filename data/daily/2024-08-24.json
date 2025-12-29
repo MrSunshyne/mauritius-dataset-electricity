@@ -1,0 +1,88 @@
+{
+  "date": "2024-08-24",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.414Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le samedi 24 août 2024 de  10:25:00 à  11:00:00",
+      "locality": "MOKA",
+      "localitySlug": "moka",
+      "streets": "GENTILLY MOKA /LA PUMP MINISSY",
+      "district": "moka",
+      "from": "2024-08-24T06:25:00.000Z",
+      "to": "2024-08-24T07:00:00.000Z",
+      "id": "d203c24d0e8f58f7fab87a7d2930637d"
+    },
+    {
+      "date": "Le samedi 24 août 2024 de  08:30:00 à  15:30:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "Dans les environs de Mauritius Telecom et une partie de la Rte St Joseph",
+      "district": "pamplemousses",
+      "from": "2024-08-24T04:30:00.000Z",
+      "to": "2024-08-24T11:30:00.000Z",
+      "id": "040cb86627960346ffd626caee284b16"
+    },
+    {
+      "date": "Le samedi 24 août 2024 de  10:45:00 à  14:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "KJW AND NEAR WINNERS/LUXMAN BHAITERRE ROUGE",
+      "district": "pamplemousses",
+      "from": "2024-08-24T06:45:00.000Z",
+      "to": "2024-08-24T10:00:00.000Z",
+      "id": "3234357ff205b1edc5f471e254385493"
+    },
+    {
+      "date": "Le samedi 24 août 2024 de  13:30:00 à  16:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "IMPASSE MARIE JEANNE QUINZE CANTONS VACOAS",
+      "district": "plainewilhems",
+      "from": "2024-08-24T09:30:00.000Z",
+      "to": "2024-08-24T12:30:00.000Z",
+      "id": "1c2425ebfa05d66cc6eb6d71743b2ea8"
+    },
+    {
+      "date": "Le samedi 24 août 2024 de  10:00:00 à  14:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "CHEMIN 20 PIEDS PEREYBERE",
+      "district": "rivieredurempart",
+      "from": "2024-08-24T06:00:00.000Z",
+      "to": "2024-08-24T10:00:00.000Z",
+      "id": "0e3b45f318f42c6ad1277b7796c83c35"
+    },
+    {
+      "date": "Le samedi 24 août 2024 de  15:00:00 à  16:00:00",
+      "locality": "BATATRAN(RODRIGUES)",
+      "localitySlug": "batatran",
+      "streets": "Coromandel et Batatran",
+      "district": "rodrigues",
+      "from": "2024-08-24T11:00:00.000Z",
+      "to": "2024-08-24T12:00:00.000Z",
+      "id": "edc95e334fb810682219c25ccb35f035"
+    },
+    {
+      "date": "Le samedi 24 août 2024 de  08:00:00 à  09:00:00",
+      "locality": "BATATRAN(RODRIGUES)",
+      "localitySlug": "batatran",
+      "streets": "Coromandel et Anse Femi",
+      "district": "rodrigues",
+      "from": "2024-08-24T04:00:00.000Z",
+      "to": "2024-08-24T05:00:00.000Z",
+      "id": "34cb6e7af398c5e8de6cc99656cd7e43"
+    },
+    {
+      "date": "Le samedi 24 août 2024 de  08:00:00 à  16:00:00",
+      "locality": "GRAVIERS(RODRIGUES)",
+      "localitySlug": "graviers",
+      "streets": "Batatran, Gravier, Var Brule et Anse Femi",
+      "district": "rodrigues",
+      "from": "2024-08-24T04:00:00.000Z",
+      "to": "2024-08-24T12:00:00.000Z",
+      "id": "c7f034537bc0506c1918c8e5d07f6bab"
+    }
+  ]
+}

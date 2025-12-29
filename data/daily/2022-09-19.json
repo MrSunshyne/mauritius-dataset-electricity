@@ -1,0 +1,38 @@
+{
+  "date": "2022-09-19",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.363Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le lundi 19 septembre 2022 de  10:00:00 à  12:00:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "MADOO LANE,PETIT VERGER",
+      "district": "moka",
+      "from": "2022-09-19T06:00:00.000Z",
+      "to": "2022-09-19T08:00:00.000Z",
+      "id": "81981a0c86fe4e11d810f5dbfd590d93"
+    },
+    {
+      "date": "Le lundi 19 septembre 2022 de  10:00:00 à  11:00:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "POINTE AUX BICHES AUX ALENTOURS LA VERANDA",
+      "district": "pamplemousses",
+      "from": "2022-09-19T06:00:00.000Z",
+      "to": "2022-09-19T07:00:00.000Z",
+      "id": "0356e4d04e7572999f6a663faed08a20"
+    },
+    {
+      "date": "Le lundi 19 septembre 2022 de  09:00:00 à  15:00:00",
+      "locality": "TRIANON",
+      "localitySlug": "trianon",
+      "streets": "Morc Belzim 2 et dans les environs de Racing Club",
+      "district": "plainewilhems",
+      "from": "2022-09-19T05:00:00.000Z",
+      "to": "2022-09-19T11:00:00.000Z",
+      "id": "380ae8fdc1e2fcc039a2bbf477307ce8"
+    }
+  ]
+}

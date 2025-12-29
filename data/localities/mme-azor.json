@@ -1,0 +1,32 @@
+{
+  "slug": "mme-azor",
+  "name": "MME AZOR",
+  "district": "rivieredurempart",
+  "generated": "2025-12-29T20:21:02.686Z",
+  "outageCount": 3,
+  "firstOutage": "2022-05-20",
+  "lastOutage": "2023-05-05",
+  "outages": [
+    {
+      "date": "Le vendredi 5 mai 2023 de  09:00:00 à  10:30:00",
+      "streets": "MME AZOR GOODLANDS",
+      "from": "2023-05-05T05:00:00.000Z",
+      "to": "2023-05-05T06:30:00.000Z",
+      "id": "0564fe250d3364433304d3fdeea0c8dd"
+    },
+    {
+      "date": "Le jeudi 29 septembre 2022 de  08:30:00 à  15:30:00",
+      "streets": "dans les environs de Mme Azor",
+      "from": "2022-09-29T04:30:00.000Z",
+      "to": "2022-09-29T11:30:00.000Z",
+      "id": "f0e4d3ac8144be844f500831bdc767f3"
+    },
+    {
+      "date": "Le vendredi 20 mai 2022 de  08:30:00 à  15:00:00",
+      "streets": "le village de Mme Azor en integralité",
+      "from": "2022-05-20T04:30:00.000Z",
+      "to": "2022-05-20T11:00:00.000Z",
+      "id": "1d97742c74d9f22be7d16417780423b1"
+    }
+  ]
+}

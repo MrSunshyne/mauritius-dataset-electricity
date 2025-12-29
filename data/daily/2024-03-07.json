@@ -1,0 +1,78 @@
+{
+  "date": "2024-03-07",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.402Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le jeudi 7 mars 2024 de  09:00:00 à  15:00:00",
+      "locality": "PETIT PAQUET",
+      "localitySlug": "petit-paquet",
+      "streets": "Petit Paquet et une partie de Pellegrin",
+      "district": "flacq",
+      "from": "2024-03-07T05:00:00.000Z",
+      "to": "2024-03-07T11:00:00.000Z",
+      "id": "353fd60d3831f875dd5f3d00419acdec"
+    },
+    {
+      "date": "Le jeudi 7 mars 2024 de  12:30:00 à  13:30:00",
+      "locality": "SEBASTOPOL",
+      "localitySlug": "sebastopol",
+      "streets": "CLAVET,WHOLE REGION OF SEBASTOPOL",
+      "district": "flacq",
+      "from": "2024-03-07T08:30:00.000Z",
+      "to": "2024-03-07T09:30:00.000Z",
+      "id": "d7106e03d5d60eeadc0ab9b3174d5374"
+    },
+    {
+      "date": "Le jeudi 7 mars 2024 de  11:10:00 à  12:15:00",
+      "locality": "CALEBASSES",
+      "localitySlug": "calebasses",
+      "streets": "NHDC, LIGHTHOUSE, ET LES ALENTOURS",
+      "district": "pamplemousses",
+      "from": "2024-03-07T07:10:00.000Z",
+      "to": "2024-03-07T08:15:00.000Z",
+      "id": "e710549c538e0ea299e7765ed2931346"
+    },
+    {
+      "date": "Le jeudi 7 mars 2024 de  13:00:00 à  15:00:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "MORC RIVERSIDE, ROYAL ROAD ET LES ALENTOURS DE PATISSERIE",
+      "district": "pamplemousses",
+      "from": "2024-03-07T09:00:00.000Z",
+      "to": "2024-03-07T11:00:00.000Z",
+      "id": "01b12634b6295a9d4ac16e8e286b46f7"
+    },
+    {
+      "date": "Le jeudi 7 mars 2024 de  14:45:00 à  22:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "LIGNE BERTHAUD VACOAS DANS LES ALENTOURS GARAGE RAMSURRUN.",
+      "district": "plainewilhems",
+      "from": "2024-03-07T10:45:00.000Z",
+      "to": "2024-03-07T18:00:00.000Z",
+      "id": "471a7e1c1231fa4a90c60826d7711677"
+    },
+    {
+      "date": "Le jeudi 7 mars 2024 de  09:30:00 à  15:00:00",
+      "locality": "CAP MALHEUREUX",
+      "localitySlug": "cap-malheureux",
+      "streets": "CAP MALHEUREUX, BAIN BOEUF, PEREYBERE",
+      "district": "rivieredurempart",
+      "from": "2024-03-07T05:30:00.000Z",
+      "to": "2024-03-07T11:00:00.000Z",
+      "id": "ffc02eb0235da910478ae26c0a06987d"
+    },
+    {
+      "date": "Le jeudi 7 mars 2024 de  21:00:00 à  22:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "CHEMIN TOPIZ GRAND BAY",
+      "district": "rivieredurempart",
+      "from": "2024-03-07T17:00:00.000Z",
+      "to": "2024-03-07T18:00:00.000Z",
+      "id": "5a9e7bdcd8c3119f172e127f8f88fc31"
+    }
+  ]
+}

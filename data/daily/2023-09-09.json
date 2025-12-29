@@ -1,0 +1,38 @@
+{
+  "date": "2023-09-09",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.388Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le samedi 9 septembre 2023 de  08:30:00 à  15:30:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "dans les environs de Domaine Du Moulin",
+      "district": "rivieredurempart",
+      "from": "2023-09-09T04:30:00.000Z",
+      "to": "2023-09-09T11:30:00.000Z",
+      "id": "785bc17cc8796504f7c23557e54f0b0d"
+    },
+    {
+      "date": "Le samedi 9 septembre 2023 de  08:00:00 à  10:00:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "SCHOOL RD PETIT RAFFRAY",
+      "district": "rivieredurempart",
+      "from": "2023-09-09T04:00:00.000Z",
+      "to": "2023-09-09T06:00:00.000Z",
+      "id": "245474411905e0672d29fd6d250c07f4"
+    },
+    {
+      "date": "Le samedi 9 septembre 2023 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "MONTAGNE CABRIS EST",
+      "district": "rodrigues",
+      "from": "2023-09-09T04:30:00.000Z",
+      "to": "2023-09-09T11:00:00.000Z",
+      "id": "695efc33433b3bca47766c51c7dcb434"
+    }
+  ]
+}

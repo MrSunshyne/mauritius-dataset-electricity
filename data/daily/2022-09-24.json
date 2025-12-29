@@ -1,0 +1,48 @@
+{
+  "date": "2022-09-24",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.363Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le samedi 24 septembre 2022 de  08:30:00 à  15:00:00",
+      "locality": "RIVIERE DU POSTE",
+      "localitySlug": "riviere-du-poste",
+      "streets": "Le village de Riviere du Poste",
+      "district": "grandport",
+      "from": "2022-09-24T04:30:00.000Z",
+      "to": "2022-09-24T11:00:00.000Z",
+      "id": "5bc598f13d0c5b3f5f9ed95ef637dd17"
+    },
+    {
+      "date": "Le samedi 24 septembre 2022 de  22:00:00 à  23:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "LA CAVERNE/HOLLYWOOD/15 CARTON",
+      "district": "plainewilhems",
+      "from": "2022-09-24T18:00:00.000Z",
+      "to": "2022-09-24T19:30:00.000Z",
+      "id": "4f5d4b3d476c88de0232eb09de997908"
+    },
+    {
+      "date": "Le samedi 24 septembre 2022 de  21:30:00 à  23:30:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "MARCEL LETANG BEAU BASSIN",
+      "district": "plainewilhems",
+      "from": "2022-09-24T17:30:00.000Z",
+      "to": "2022-09-24T19:30:00.000Z",
+      "id": "3ec957687e632939bfbc1f11d3d165f5"
+    },
+    {
+      "date": "Le samedi 24 septembre 2022 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "BAIE TOPAZE-CAMP PINTADE-PLAINE MAO RODRIGUES",
+      "district": "rodrigues",
+      "from": "2022-09-24T04:30:00.000Z",
+      "to": "2022-09-24T11:00:00.000Z",
+      "id": "6804287ee76814a71568957b323f8d91"
+    }
+  ]
+}

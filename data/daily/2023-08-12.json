@@ -1,0 +1,58 @@
+{
+  "date": "2023-08-12",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.386Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le samedi 12 août 2023 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC ANNA- OCEAN GARDEN, AVE DES CACHALOTS, IMPASSE DES CACHALOTS, AVE SOUFFLEUR ET UNE PARTIE DE LAVENUE SUNSET",
+      "district": "blackriver",
+      "from": "2023-08-12T04:30:00.000Z",
+      "to": "2023-08-12T11:30:00.000Z",
+      "id": "7888abda45c24e859cd079799d9d2cd8"
+    },
+    {
+      "date": "Le samedi 12 août 2023 de  08:30:00 à  15:30:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "LES ABONNES HABITANT MONTEE S PETITE RIVIERE DANS LES ENVIRONS DE LA ROUTE ROYALE, CAMP BENOIT, ET DES AVENUES DIVERSITE, LIBERTE, LA CONCORDE, GOLDSMITH, LA MARTINE, BERNARD SHAW, DUMAURIER, ORCHIDEE, STRUDWICK, TRISTAN PEZZET, HONORE DE BALZAC, MORC CHADY, MORC CHADY, RICHELIEU BRANCH ROAD ET DE LA ZONE INDUSTRIEL DE PETITE RIVIERE",
+      "district": "blackriver",
+      "from": "2023-08-12T04:30:00.000Z",
+      "to": "2023-08-12T11:30:00.000Z",
+      "id": "956d3763b4d017472abf144c45f9376c"
+    },
+    {
+      "date": "Le samedi 12 août 2023 de  09:00:00 à  13:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "CAMP BETEL PTE RIVIERE",
+      "district": "blackriver",
+      "from": "2023-08-12T05:00:00.000Z",
+      "to": "2023-08-12T09:00:00.000Z",
+      "id": "353d00d1694e38f02eabca9af06da34b"
+    },
+    {
+      "date": "Le samedi 12 août 2023 de  09:00:00 à  14:00:00",
+      "locality": "POINTE AUX CANONNIERS",
+      "localitySlug": "pointe-aux-canonniers",
+      "streets": "LES ABONNES HABITANT  POINTE AUX CANONNIERS DANS LES ENVIRONS DE AVENUE LAURIERS",
+      "district": "rodrigues",
+      "from": "2023-08-12T05:00:00.000Z",
+      "to": "2023-08-12T10:00:00.000Z",
+      "id": "d247dfb518b85ba5b2cf2039c5160d05"
+    },
+    {
+      "date": "Le samedi 12 août 2023 de  08:30:00 à  16:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "BAIE MALGACHE",
+      "district": "rodrigues",
+      "from": "2023-08-12T04:30:00.000Z",
+      "to": "2023-08-12T12:00:00.000Z",
+      "id": "374a36da2a79976f713c7f883d104e02"
+    }
+  ]
+}

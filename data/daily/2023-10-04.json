@@ -1,0 +1,78 @@
+{
+  "date": "2023-10-04",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.390Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le mercredi 4 octobre 2023 de  09:00:00 à  14:00:00",
+      "locality": "VIEUX GRAND PORT",
+      "localitySlug": "vieux-grand-port",
+      "streets": "ROYAL RD VIEUX GRAND PORT",
+      "district": "grandport",
+      "from": "2023-10-04T05:00:00.000Z",
+      "to": "2023-10-04T10:00:00.000Z",
+      "id": "6983702b3d7a5cdbdf3ddbe6c434861f"
+    },
+    {
+      "date": "Le mercredi 4 octobre 2023 de  09:00:00 à  12:00:00",
+      "locality": "MONTAGNE ORY",
+      "localitySlug": "montagne-ory",
+      "streets": "MONTAGNE ORY",
+      "district": "moka",
+      "from": "2023-10-04T05:00:00.000Z",
+      "to": "2023-10-04T08:00:00.000Z",
+      "id": "ec510cf405201330ece8ce7c086a33f7"
+    },
+    {
+      "date": "Le mercredi 4 octobre 2023 de  08:30:00 à  16:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "MONTREAL COROMANDEL, AVE YLANG YLANG, AVE MARGUERITE, HIBISCUS, LONGANIER, TULIPSET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2023-10-04T04:30:00.000Z",
+      "to": "2023-10-04T12:00:00.000Z",
+      "id": "ebb026dd16ee6db21027aabb14c23b1b"
+    },
+    {
+      "date": "Le mercredi 4 octobre 2023 de  16:45:00 à  18:30:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "FLOREAL PIERRE SIMONETTE LANE",
+      "district": "plainewilhems",
+      "from": "2023-10-04T12:45:00.000Z",
+      "to": "2023-10-04T14:30:00.000Z",
+      "id": "5cbfd6d33b200986767970421c94fa40"
+    },
+    {
+      "date": "Le mercredi 4 octobre 2023 de  10:00:00 à  13:00:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "ROYAL RD-CEMETRY RD GRAND GAUBE",
+      "district": "rivieredurempart",
+      "from": "2023-10-04T06:00:00.000Z",
+      "to": "2023-10-04T09:00:00.000Z",
+      "id": "bc011fc9dc1d53c5896ac12bc377ca04"
+    },
+    {
+      "date": "Le mercredi 4 octobre 2023 de  12:30:00 à  15:00:00",
+      "locality": "ESPERANCE TREBUCHET",
+      "localitySlug": "esperance-trebuchet",
+      "streets": "ROYAL RD ESPERANCE TREBUCHET [NR FILLING]",
+      "district": "rivieredurempart",
+      "from": "2023-10-04T08:30:00.000Z",
+      "to": "2023-10-04T11:00:00.000Z",
+      "id": "3cd35d443d756ff6ea191353ea999352"
+    },
+    {
+      "date": "Le mercredi 4 octobre 2023 de  12:00:00 à  16:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Fond La Digue, Creve Coeur et Roseaux",
+      "district": "rodrigues",
+      "from": "2023-10-04T08:00:00.000Z",
+      "to": "2023-10-04T12:00:00.000Z",
+      "id": "9729cdfd36a9271bc2f709546bd069b6"
+    }
+  ]
+}

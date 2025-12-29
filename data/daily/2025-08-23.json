@@ -1,0 +1,68 @@
+{
+  "date": "2025-08-23",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.438Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le samedi 23 août 2025 de  08:30:00 à  15:30:00",
+      "locality": "MOKA",
+      "localitySlug": "moka",
+      "streets": "VALORY, CAMP SAMY, CHA CAMP SAMY, CAMP LASERPE ET EN PARTIE RT?BOIS CHERI",
+      "district": "moka",
+      "from": "2025-08-23T04:30:00.000Z",
+      "to": "2025-08-23T11:30:00.000Z",
+      "id": "9ee33859a7a64d6471018a9ad39e8e0f"
+    },
+    {
+      "date": "Le samedi 23 août 2025 de  08:30:00 à  15:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Bassin, Solferino, CWA Pumping, Kool Food, Boodram Pumping, Slaughter House, NHDC Bassin et Morc Bassin 1,2,3 & 4",
+      "district": "plainewilhems",
+      "from": "2025-08-23T04:30:00.000Z",
+      "to": "2025-08-23T11:00:00.000Z",
+      "id": "4227be139cd243b16e01897ab30a4390"
+    },
+    {
+      "date": "Le samedi 23 août 2025 de  09:40:00 à  13:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "DR REED, MAHADEO BILTOO AND SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2025-08-23T05:40:00.000Z",
+      "to": "2025-08-23T09:00:00.000Z",
+      "id": "e39042997e93b5ba3b6cc5498de476d8"
+    },
+    {
+      "date": "Le samedi 23 août 2025 de  14:15:00 à  17:00:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "MORC SOOBRATTY.",
+      "district": "plainewilhems",
+      "from": "2025-08-23T10:15:00.000Z",
+      "to": "2025-08-23T13:00:00.000Z",
+      "id": "fae65d20c524b8c08ffed6cc000699ce"
+    },
+    {
+      "date": "Le samedi 23 août 2025 de  08:30:00 à  15:30:00",
+      "locality": "QUAY D",
+      "localitySlug": "quay-d",
+      "streets": "DANS LES ENVIRONS DE EX-MOLASSES, NATIONAL COAST GUARD, NADEN HALL ET MOULIN DE LA CONCORDE",
+      "district": "portlouis",
+      "from": "2025-08-23T04:30:00.000Z",
+      "to": "2025-08-23T11:30:00.000Z",
+      "id": "f11e3bac88dea0c3c75fccc71d7a4fd7"
+    },
+    {
+      "date": "Le samedi 23 août 2025 de  08:30:00 à  14:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Pointe Venus, Anse Aux Anglais, Morcellement Terre Rouge, CaverneProvers, Jean Tac, Terre Rouge Village et de Grand Baie",
+      "district": "rodrigues",
+      "from": "2025-08-23T04:30:00.000Z",
+      "to": "2025-08-23T10:00:00.000Z",
+      "id": "8651615a23981f1447aa5891794df70e"
+    }
+  ]
+}

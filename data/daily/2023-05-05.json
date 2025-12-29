@@ -1,0 +1,38 @@
+{
+  "date": "2023-05-05",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-29T20:21:02.379Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le vendredi 5 mai 2023 de  12:00:00 à  13:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "Les abonnés de Floréal habitant les rues et les régions suivantes: Partie de Queen Mary Avenue, partie d’Impasse Lala, partie de Ramgutty et  les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-05-05T08:00:00.000Z",
+      "to": "2023-05-05T09:00:00.000Z",
+      "id": "4cb5d8b23a19bfccdea4df4faf4090b8"
+    },
+    {
+      "date": "Le vendredi 5 mai 2023 de  09:00:00 à  10:30:00",
+      "locality": "MME AZOR",
+      "localitySlug": "mme-azor",
+      "streets": "MME AZOR GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2023-05-05T05:00:00.000Z",
+      "to": "2023-05-05T06:30:00.000Z",
+      "id": "0564fe250d3364433304d3fdeea0c8dd"
+    },
+    {
+      "date": "Le vendredi 5 mai 2023 de  14:30:00 à  17:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "Domaine du Moulin,Goodlands",
+      "district": "rivieredurempart",
+      "from": "2023-05-05T10:30:00.000Z",
+      "to": "2023-05-05T13:00:00.000Z",
+      "id": "3e061e9455ef40fda344b33eb5be8cae"
+    }
+  ]
+}
