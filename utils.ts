@@ -12,6 +12,7 @@ interface Outage {
     from: string; // Date string in ISO format
     to: string;   // Date string in ISO format
     id: string;
+    outageId: string; // Stable ID based on district + locality + start time
 }
 
 interface InputData {
@@ -74,26 +75,47 @@ function parseDate(date: string, delimiter = 'from', tz = "+0400") {
     }
 }
 
-function removeDuplicates(originalArray, prop) {
+/**
+ * Remove duplicate outages based on a property key.
+ * When duplicates are found (same key), keeps the one with the latest 'to' time.
+ * This ensures that when CEB updates an outage, we keep the most recent version.
+ */
+function removeDuplicates(originalArray, prop = 'outageId') {
     var newArray = [];
     var lookupObject = {};
 
     for (var i in originalArray) {
-        if (originalArray[i]['date'] !== '') { // also remove empty values when date is null
-            lookupObject[originalArray[i][prop]] = originalArray[i];
+        const item = originalArray[i];
+        if (item['date'] !== '') { // also remove empty values when date is null
+            const key = item[prop];
+            
+            // If duplicate found, keep the one with later 'to' time (most updated)
+            if (lookupObject[key]) {
+                const existingTo = new Date(lookupObject[key].to);
+                const currentTo = new Date(item.to);
+                if (currentTo > existingTo) {
+                    lookupObject[key] = item;
+                }
+            } else {
+                lookupObject[key] = item;
+            }
         }
     }
 
-    for (i in lookupObject) {
-        newArray.push(lookupObject[i]);
+    for (var key in lookupObject) {
+        newArray.push(lookupObject[key]);
     }
     return newArray;
 }
 
+/**
+ * Remove duplicate outages from all districts.
+ * Uses 'outageId' for deduplication to properly handle CEB updates.
+ */
 export function makeUniq(obj) {
     let newObj = {}
     for (let arr in obj) {
-        let newSet = removeDuplicates(obj[arr], 'id')
+        let newSet = removeDuplicates(obj[arr], 'outageId')
         newObj[arr] = [...newSet]
     }
     return newObj
@@ -118,11 +140,16 @@ export const extractFromSource = (data) => {
             )
 
             dataset[element] = currentDistrict.map(item => {
+                const from = parseDate(item.date, 'from');
+                const to = parseDate(item.date, 'to');
+                const fromISO = from instanceof Date ? from.toISOString() : '';
+                
                 return {
                     ...item,
-                    "from": parseDate(item.date, 'from'),
-                    "to": parseDate(item.date, 'to'),
-                    "id": md5(JSON.stringify(item))
+                    "from": from,
+                    "to": to,
+                    "id": md5(JSON.stringify(item)), // Legacy ID (unchanged for backwards compatibility)
+                    "outageId": md5(`${element}-${item.locality}-${fromISO}`) // Stable ID based on district + locality + start time
                 }
             })
         }

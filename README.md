@@ -35,30 +35,35 @@ The aim is to provide a hassle-free way to use the data to build applications.
 
 </details>
 
-<details>
-  <summary>In which format is the data provided?</summary>
-  
-- JSON
-- The shape is as follows:
+ <details>
+   <summary>In which format is the data provided?</summary>
 
-```js
+ - JSON
+ - The shape is as follows:
 
-{
-  "district_name": [
-    {
-        "date": string, // "Le dimanche 13 mars 2022 de  09:30:00 à  13:00:00",
-        "locality": string, // "TAMARIN",
-        "streets": string, // "AVE DES MARLINS, AVE DES CAMPECHES, AVE DES BONITES ET UNE PARTIE DE BLACK ROCK ROAD",
-        "district": string, // "blackriver",
-        "from": date: //"2022-03-13T05:30:00.000Z",
-        "to": date: //"2022-03-13T09:00:00.000Z",
-        "id": md5: //"e562a818d6d27163396e3c0069fd51c9"
-    },
-    {
-        ...
-    }
-  ]
-}
-```
+ ```js
 
-</details>
+ {
+   "district_name": [
+     {
+         "date": string, // "Le dimanche 13 mars 2022 de  09:30:00 à  13:00:00",
+         "locality": string, // "TAMARIN",
+         "streets": string, // "AVE DES MARLINS, AVE DES CAMPECHES, AVE DES BONITES ET UNE PARTIE DE BLACK ROCK ROAD",
+         "district": string, // "blackriver",
+         "from": string, // "2022-03-13T05:30:00.000Z" (ISO 8601 UTC),
+         "to": string, // "2022-03-13T09:00:00.000Z" (ISO 8601 UTC),
+         "id": string, // Legacy identifier (MD5 hash of raw data),
+         "outageId": string // Stable identifier (MD5 hash of district+locality+start_time)
+     },
+     {
+         ...
+     }
+   ]
+ }
+ ```
+
+ **Note about identifiers:**
+ - `id`: Legacy field, may change if CEB updates outage information. Use for backwards compatibility.
+ - `outageId`: Stable identifier that remains consistent even if CEB updates the outage times. Use for reliable outage tracking and deduplication.
+
+ </details>
