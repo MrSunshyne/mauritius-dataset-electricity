@@ -2,11 +2,18 @@
   "slug": "albion",
   "name": "ALBION",
   "district": "blackriver",
-  "generated": "2025-12-29T20:21:30.690Z",
-  "outageCount": 93,
+  "generated": "2025-12-30T19:07:15.541Z",
+  "outageCount": 94,
   "firstOutage": "2022-06-06",
-  "lastOutage": "2025-12-15",
+  "lastOutage": "2025-12-30",
   "outages": [
+    {
+      "date": "Le mardi 30 décembre 2025 de  05:50:00 à  13:00:00",
+      "streets": "Morc Beerjeeraz,Morc Raffray,Petite Montagne",
+      "from": "2025-12-30T01:50:00.000Z",
+      "to": "2025-12-30T09:00:00.000Z",
+      "id": "f535eca446c454756b8c507bd593794a"
+    },
     {
       "date": "Le lundi 15 décembre 2025 de  09:30:00 à  13:00:00",
       "streets": "Albion",

@@ -2,11 +2,18 @@
   "slug": "union-park",
   "name": "UNION PARK",
   "district": "grandport",
-  "generated": "2025-12-29T20:21:31.043Z",
-  "outageCount": 24,
+  "generated": "2025-12-30T19:07:15.878Z",
+  "outageCount": 25,
   "firstOutage": "2022-03-28",
-  "lastOutage": "2025-11-18",
+  "lastOutage": "2025-12-30",
   "outages": [
+    {
+      "date": "Le mardi 30 décembre 2025 de  20:20:00 à  22:20:00",
+      "streets": "CHEMIN PUITS",
+      "from": "2025-12-30T16:20:00.000Z",
+      "to": "2025-12-30T18:20:00.000Z",
+      "id": "2a4d8f05526e07bff43c7ff1c2b4c923"
+    },
     {
       "date": "Le mardi 18 novembre 2025 de  12:30:00 à  14:30:00",
       "streets": "UNION PARK,NHDC BALISSON,VRS 1,2,3,LÚSINE SOFA",

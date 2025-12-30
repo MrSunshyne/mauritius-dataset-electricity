@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2025-12-29T20:21:30.972Z",
-  "outageCount": 333,
+  "generated": "2025-12-30T19:07:15.811Z",
+  "outageCount": 334,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2025-12-26",
+  "lastOutage": "2025-12-30",
   "outages": [
+    {
+      "date": "Le mardi 30 décembre 2025 de  18:45:00 à  20:30:00",
+      "streets": "AVE STANLEY",
+      "from": "2025-12-30T14:45:00.000Z",
+      "to": "2025-12-30T16:30:00.000Z",
+      "id": "36bd3f924c3865c905e8bc58d182088c"
+    },
     {
       "date": "Le vendredi 26 décembre 2025 de  18:15:00 à  19:30:00",
       "streets": "AVE BOUNDARY, CANDA LANE, CACTUS LANE AND SURROUNDINGS",

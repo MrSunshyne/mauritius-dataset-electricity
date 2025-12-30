@@ -2,11 +2,18 @@
   "slug": "camp-diable",
   "name": "CAMP DIABLE",
   "district": "savanne",
-  "generated": "2025-12-29T20:21:30.751Z",
-  "outageCount": 22,
+  "generated": "2025-12-30T19:07:15.601Z",
+  "outageCount": 23,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2025-12-16",
+  "lastOutage": "2025-12-30",
   "outages": [
+    {
+      "date": "Le mardi 30 décembre 2025 de  15:50:00 à  17:50:00",
+      "streets": "ENL",
+      "from": "2025-12-30T11:50:00.000Z",
+      "to": "2025-12-30T13:50:00.000Z",
+      "id": "48314052d12bad710ac225037e27a0fe"
+    },
     {
       "date": "Le mardi 16 décembre 2025 de  09:00:00 à  15:00:00",
       "streets": "Camp Diable habitant dans le périmètre et les rues suivantes: Shivala Road, Mosque Road, Chapelle Road, Karamuth Road et la Route Royale Camp Diable",

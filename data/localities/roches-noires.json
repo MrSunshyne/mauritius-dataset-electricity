@@ -2,11 +2,18 @@
   "slug": "roches-noires",
   "name": "ROCHES NOIRES",
   "district": "rivieredurempart",
-  "generated": "2025-12-29T20:21:30.999Z",
-  "outageCount": 26,
+  "generated": "2025-12-30T19:07:15.836Z",
+  "outageCount": 27,
   "firstOutage": "2022-06-03",
-  "lastOutage": "2025-12-28",
+  "lastOutage": "2025-12-30",
   "outages": [
+    {
+      "date": "Le mardi 30 décembre 2025 de  09:30:00 à  11:30:00",
+      "streets": "Royal,John Milton,School Roads",
+      "from": "2025-12-30T05:30:00.000Z",
+      "to": "2025-12-30T07:30:00.000Z",
+      "id": "5209df1ce8f57f279b9cb901603360e2"
+    },
     {
       "date": "Le dimanche 28 décembre 2025 de  21:20:00 à  01:30:00",
       "streets": "SHANTINIKETAN NR CAVERNE ROCHES NOIRES",

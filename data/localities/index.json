@@ -1,5 +1,5 @@
 {
-  "generated": "2025-12-29T20:21:31.061Z",
+  "generated": "2025-12-30T19:07:15.893Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -25,10 +25,10 @@
       "slug": "albion",
       "name": "ALBION",
       "district": "blackriver",
-      "outageCount": 93,
+      "outageCount": 94,
       "file": "albion.json",
       "firstOutage": "2022-06-06",
-      "lastOutage": "2025-12-15"
+      "lastOutage": "2025-12-30"
     },
     {
       "slug": "allee-brillant-castel",
@@ -61,10 +61,10 @@
       "slug": "amaury",
       "name": "AMAURY",
       "district": "rivieredurempart",
-      "outageCount": 22,
+      "outageCount": 23,
       "file": "amaury.json",
       "firstOutage": "2022-06-30",
-      "lastOutage": "2025-11-27"
+      "lastOutage": "2025-12-30"
     },
     {
       "slug": "amitie",
@@ -736,10 +736,10 @@
       "slug": "camp-diable",
       "name": "CAMP DIABLE",
       "district": "savanne",
-      "outageCount": 22,
+      "outageCount": 23,
       "file": "camp-diable.json",
       "firstOutage": "2022-03-27",
-      "lastOutage": "2025-12-16"
+      "lastOutage": "2025-12-30"
     },
     {
       "slug": "camp-du-roi",
@@ -1033,10 +1033,10 @@
       "slug": "chemin-grenier",
       "name": "CHEMIN GRENIER",
       "district": "savanne",
-      "outageCount": 52,
+      "outageCount": 53,
       "file": "chemin-grenier.json",
       "firstOutage": "2022-05-22",
-      "lastOutage": "2025-12-07"
+      "lastOutage": "2025-12-30"
     },
     {
       "slug": "choisy-baie-du-cap",
@@ -1078,10 +1078,10 @@
       "slug": "cite-atlee",
       "name": "CITE ATLEE",
       "district": "plainewilhems",
-      "outageCount": 2,
+      "outageCount": 3,
       "file": "cite-atlee.json",
       "firstOutage": "2022-04-05",
-      "lastOutage": "2023-01-29"
+      "lastOutage": "2025-12-30"
     },
     {
       "slug": "cite-barkly",
@@ -1582,19 +1582,19 @@
       "slug": "grand-bay",
       "name": "GRAND BAY",
       "district": "rivieredurempart",
-      "outageCount": 90,
+      "outageCount": 91,
       "file": "grand-bay.json",
       "firstOutage": "2022-03-20",
-      "lastOutage": "2025-12-13"
+      "lastOutage": "2025-12-30"
     },
     {
       "slug": "grand-bel-air",
       "name": "GRAND BEL AIR",
       "district": "flacq",
-      "outageCount": 27,
+      "outageCount": 28,
       "file": "grand-bel-air.json",
       "firstOutage": "2022-06-14",
-      "lastOutage": "2025-11-26"
+      "lastOutage": "2025-12-30"
     },
     {
       "slug": "grand-bois",
@@ -1843,10 +1843,10 @@
       "slug": "l-escalier",
       "name": "L-ESCALIER",
       "district": "savanne",
-      "outageCount": 20,
+      "outageCount": 21,
       "file": "l-escalier.json",
       "firstOutage": "2022-03-30",
-      "lastOutage": "2025-12-17"
+      "lastOutage": "2025-12-30"
     },
     {
       "slug": "l-esperance-qmilitaire",
@@ -3175,10 +3175,10 @@
       "slug": "quatre-bornes",
       "name": "QUATRE-BORNES",
       "district": "plainewilhems",
-      "outageCount": 333,
+      "outageCount": 334,
       "file": "quatre-bornes.json",
       "firstOutage": "2022-04-01",
-      "lastOutage": "2025-12-26"
+      "lastOutage": "2025-12-30"
     },
     {
       "slug": "quatre-carreaux",
@@ -3481,10 +3481,10 @@
       "slug": "roches-noires",
       "name": "ROCHES NOIRES",
       "district": "rivieredurempart",
-      "outageCount": 26,
+      "outageCount": 27,
       "file": "roches-noires.json",
       "firstOutage": "2022-06-03",
-      "lastOutage": "2025-12-28"
+      "lastOutage": "2025-12-30"
     },
     {
       "slug": "rodrigues",
@@ -3769,10 +3769,10 @@
       "slug": "surinam",
       "name": "SURINAM",
       "district": "savanne",
-      "outageCount": 47,
+      "outageCount": 46,
       "file": "surinam.json",
       "firstOutage": "2022-05-08",
-      "lastOutage": "2025-12-30"
+      "lastOutage": "2025-12-06"
     },
     {
       "slug": "tamarin",
@@ -3940,10 +3940,10 @@
       "slug": "tyack",
       "name": "TYACK",
       "district": "savanne",
-      "outageCount": 28,
+      "outageCount": 30,
       "file": "tyack.json",
       "firstOutage": "2022-05-08",
-      "lastOutage": "2025-09-24"
+      "lastOutage": "2025-12-30"
     },
     {
       "slug": "union",
@@ -3958,10 +3958,10 @@
       "slug": "union-park",
       "name": "UNION PARK",
       "district": "grandport",
-      "outageCount": 24,
+      "outageCount": 25,
       "file": "union-park.json",
       "firstOutage": "2022-03-28",
-      "lastOutage": "2025-11-18"
+      "lastOutage": "2025-12-30"
     },
     {
       "slug": "union-vale",

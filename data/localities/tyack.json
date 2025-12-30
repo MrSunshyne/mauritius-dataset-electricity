@@ -2,11 +2,25 @@
   "slug": "tyack",
   "name": "TYACK",
   "district": "savanne",
-  "generated": "2025-12-29T20:21:31.042Z",
-  "outageCount": 28,
+  "generated": "2025-12-30T19:07:15.876Z",
+  "outageCount": 30,
   "firstOutage": "2022-05-08",
-  "lastOutage": "2025-09-24",
+  "lastOutage": "2025-12-30",
   "outages": [
+    {
+      "date": "Le mardi 30 décembre 2025 de  10:00:00 à  14:00:00",
+      "streets": "Morc Blueprint/VRS",
+      "from": "2025-12-30T06:00:00.000Z",
+      "to": "2025-12-30T10:00:00.000Z",
+      "id": "2d32d66a640c3ecc467abdf6d2369d76"
+    },
+    {
+      "date": "Le mardi 30 décembre 2025 de  04:00:00 à  10:00:00",
+      "streets": "Morc Blueprint/VRS",
+      "from": "2025-12-30T00:00:00.000Z",
+      "to": "2025-12-30T06:00:00.000Z",
+      "id": "4386e2acf17838ed022035cd6c190d13"
+    },
     {
       "date": "Le mercredi 24 septembre 2025 de  09:00:00 à  15:00:00",
       "streets": "Le village de Tyack",

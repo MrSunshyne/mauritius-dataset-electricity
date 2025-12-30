@@ -2,11 +2,18 @@
   "slug": "chemin-grenier",
   "name": "CHEMIN GRENIER",
   "district": "savanne",
-  "generated": "2025-12-29T20:21:30.777Z",
-  "outageCount": 52,
+  "generated": "2025-12-30T19:07:15.626Z",
+  "outageCount": 53,
   "firstOutage": "2022-05-22",
-  "lastOutage": "2025-12-07",
+  "lastOutage": "2025-12-30",
   "outages": [
+    {
+      "date": "Le mardi 30 décembre 2025 de  18:00:00 à  19:00:00",
+      "streets": "CHEMIN GRENIER",
+      "from": "2025-12-30T14:00:00.000Z",
+      "to": "2025-12-30T15:00:00.000Z",
+      "id": "bd4933e60ea7eddca5263d3167f08fa7"
+    },
     {
       "date": "Le dimanche 7 décembre 2025 de  09:00:00 à  15:00:00",
       "streets": "Chemin Grenier",

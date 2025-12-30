@@ -2,11 +2,18 @@
   "slug": "amaury",
   "name": "AMAURY",
   "district": "rivieredurempart",
-  "generated": "2025-12-29T20:21:30.693Z",
-  "outageCount": 22,
+  "generated": "2025-12-30T19:07:15.544Z",
+  "outageCount": 23,
   "firstOutage": "2022-06-30",
-  "lastOutage": "2025-11-27",
+  "lastOutage": "2025-12-30",
   "outages": [
+    {
+      "date": "Le mardi 30 décembre 2025 de  00:30:00 à  10:00:00",
+      "streets": "Temple Road",
+      "from": "2025-12-29T20:30:00.000Z",
+      "to": "2025-12-29T06:00:00.000Z",
+      "id": "8c689cc6e9be8b0d9e3034c59dd259b2"
+    },
     {
       "date": "Le jeudi 27 novembre 2025 de  09:30:00 à  15:00:00",
       "streets": "MORC BEAU CLIMAT, CAMP FOUGERE ET LES ALENTOURS",
