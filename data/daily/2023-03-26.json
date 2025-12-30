@@ -1,0 +1,88 @@
+{
+  "date": "2023-03-26",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.492Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le dimanche 26 mars 2023 de  08:30:00 à  17:00:00",
+      "locality": "GRAND BEL AIR",
+      "localitySlug": "grand-bel-air",
+      "streets": "Grand Bel Air habitant dans le périmètre et les rues suivantes: NHDC, School Lane, Wale Sek Law Street et une partie de la route royal",
+      "district": "flacq",
+      "from": "2023-03-26T04:30:00.000Z",
+      "to": "2023-03-26T13:00:00.000Z",
+      "id": "cada58f9eb60e3a7bb981be99fb4a056"
+    },
+    {
+      "date": "Le dimanche 26 mars 2023 de  08:00:00 à  16:00:00",
+      "locality": "CAMP DE MASQUE",
+      "localitySlug": "camp-de-masque",
+      "streets": "Les abonnés habitant à Camp de Masque, Camp Sonah, Camp de masque Pave, Petite Cabanne et Unité",
+      "district": "flacq",
+      "from": "2023-03-26T04:00:00.000Z",
+      "to": "2023-03-26T12:00:00.000Z",
+      "id": "47179cd1b162ae0824d3d09a14c9077c"
+    },
+    {
+      "date": "Le dimanche 26 mars 2023 de  09:30:00 à  14:00:00",
+      "locality": "VILLENOIRE",
+      "localitySlug": "villenoire",
+      "streets": "Morcellement VRS Ville Noire",
+      "district": "grandport",
+      "from": "2023-03-26T05:30:00.000Z",
+      "to": "2023-03-26T10:00:00.000Z",
+      "id": "f88fd64f267837616cb06eb513021808"
+    },
+    {
+      "date": "Le dimanche 26 mars 2023 de  08:30:00 à  16:00:00",
+      "locality": "MONTEBELLO",
+      "localitySlug": "montebello",
+      "streets": "LES ABONNES HABITANT MONTEBELLO",
+      "district": "moka",
+      "from": "2023-03-26T04:30:00.000Z",
+      "to": "2023-03-26T12:00:00.000Z",
+      "id": "481cafa9972ec41d4eb06a2cb5998c20"
+    },
+    {
+      "date": "Le dimanche 26 mars 2023 de  08:30:00 à  15:30:00",
+      "locality": "GRANDE POINTE AUX PIMENTS",
+      "localitySlug": "grande-pointe-aux-piments",
+      "streets": "Les abonnés habitant Hi Métal Road, Camp Lacloche, Morcellement Bholah, Coastal Road, Royal Road à Grand Pointe Aux Piment",
+      "district": "pamplemousses",
+      "from": "2023-03-26T04:30:00.000Z",
+      "to": "2023-03-26T11:30:00.000Z",
+      "id": "659816f4ce905dd1b6406cf1781d0e2f"
+    },
+    {
+      "date": "Le dimanche 26 mars 2023 de  08:00:00 à  15:00:00",
+      "locality": "ESPERANCE PITON",
+      "localitySlug": "esperance-piton",
+      "streets": "le village dEsperance Piton",
+      "district": "pamplemousses",
+      "from": "2023-03-26T04:00:00.000Z",
+      "to": "2023-03-26T11:00:00.000Z",
+      "id": "b3ab85e8de000f539abb3e24ce81ae9b"
+    },
+    {
+      "date": "Le dimanche 26 mars 2023 de  09:00:00 à  15:00:00",
+      "locality": "SURINAM",
+      "localitySlug": "surinam",
+      "streets": "Morcellement Thanacoody, Morcellement Lai Moon et NHDC Riambel Surinam",
+      "district": "savanne",
+      "from": "2023-03-26T05:00:00.000Z",
+      "to": "2023-03-26T11:00:00.000Z",
+      "id": "86b90e6960a873fc7f76969d9d1b06b0"
+    },
+    {
+      "date": "Le dimanche 26 mars 2023 de  08:30:00 à  16:00:00",
+      "locality": "TYACK",
+      "localitySlug": "tyack",
+      "streets": "Le village de Tyack",
+      "district": "savanne",
+      "from": "2023-03-26T04:30:00.000Z",
+      "to": "2023-03-26T12:00:00.000Z",
+      "id": "77ba8773c488c2c42dc1bc4c2023ed8c"
+    }
+  ]
+}

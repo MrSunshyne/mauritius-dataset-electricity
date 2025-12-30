@@ -1,0 +1,25 @@
+{
+  "slug": "batatran",
+  "name": "BATATRAN(RODRIGUES)",
+  "district": "rodrigues",
+  "generated": "2025-12-30T19:07:15.561Z",
+  "outageCount": 2,
+  "firstOutage": "2024-08-24",
+  "lastOutage": "2024-08-24",
+  "outages": [
+    {
+      "date": "Le samedi 24 août 2024 de  15:00:00 à  16:00:00",
+      "streets": "Coromandel et Batatran",
+      "from": "2024-08-24T11:00:00.000Z",
+      "to": "2024-08-24T12:00:00.000Z",
+      "id": "edc95e334fb810682219c25ccb35f035"
+    },
+    {
+      "date": "Le samedi 24 août 2024 de  08:00:00 à  09:00:00",
+      "streets": "Coromandel et Anse Femi",
+      "from": "2024-08-24T04:00:00.000Z",
+      "to": "2024-08-24T05:00:00.000Z",
+      "id": "34cb6e7af398c5e8de6cc99656cd7e43"
+    }
+  ]
+}

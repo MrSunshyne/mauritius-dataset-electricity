@@ -1,0 +1,68 @@
+{
+  "date": "2022-10-05",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.486Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le mercredi 5 octobre 2022 de  08:30:00 à  16:30:00",
+      "locality": "CHAMAREL",
+      "localitySlug": "chamarel",
+      "streets": "Chamarel",
+      "district": "blackriver",
+      "from": "2022-10-05T04:30:00.000Z",
+      "to": "2022-10-05T12:30:00.000Z",
+      "id": "8c5c8a83f65042159ecb29d6ddaf6921"
+    },
+    {
+      "date": "Le mercredi 5 octobre 2022 de  09:30:00 à  12:00:00",
+      "locality": "CAMP CAROL KENYA",
+      "localitySlug": "camp-carol-kenya",
+      "streets": "Camp Carol Le Bouchon",
+      "district": "grandport",
+      "from": "2022-10-05T05:30:00.000Z",
+      "to": "2022-10-05T08:00:00.000Z",
+      "id": "80eeb5f6a06ab90bce304efa4f2009a3"
+    },
+    {
+      "date": "Le mercredi 5 octobre 2022 de  09:00:00 à  13:00:00",
+      "locality": "QUARTIER MILITAIRE",
+      "localitySlug": "quartier-militaire",
+      "streets": "Les abonnés du village de Montagne Blanche habitant les rues et régions suivantes : Sans Souci, Church, Gourapa et les ruelles avoisinantes",
+      "district": "moka",
+      "from": "2022-10-05T05:00:00.000Z",
+      "to": "2022-10-05T09:00:00.000Z",
+      "id": "2c1da7f9dec14e6ea192ac81db9fa54d"
+    },
+    {
+      "date": "Le mercredi 5 octobre 2022 de  08:45:00 à  11:00:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "BEEKHAREE LANE,RAGHOOPAT LANE",
+      "district": "plainewilhems",
+      "from": "2022-10-05T04:45:00.000Z",
+      "to": "2022-10-05T07:00:00.000Z",
+      "id": "c22aec873d1b19f066ce6fb5b5ecbb7f"
+    },
+    {
+      "date": "Le mercredi 5 octobre 2022 de  11:15:00 à  12:00:00",
+      "locality": "CAP MALHEUREUX",
+      "localitySlug": "cap-malheureux",
+      "streets": "PAVILLON",
+      "district": "rivieredurempart",
+      "from": "2022-10-05T07:15:00.000Z",
+      "to": "2022-10-05T08:00:00.000Z",
+      "id": "be9a78b2ab153bf882cb69f709e7b9b9"
+    },
+    {
+      "date": "Le mercredi 5 octobre 2022 de  15:30:00 à  17:00:00",
+      "locality": "L-ESCALIER",
+      "localitySlug": "l-escalier",
+      "streets": "La SOurdine LEscalier",
+      "district": "savanne",
+      "from": "2022-10-05T11:30:00.000Z",
+      "to": "2022-10-05T13:00:00.000Z",
+      "id": "fdb43f71ccfbeca23b242fb731622235"
+    }
+  ]
+}

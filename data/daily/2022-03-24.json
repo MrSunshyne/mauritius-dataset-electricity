@@ -1,0 +1,28 @@
+{
+  "date": "2022-03-24",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.480Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le jeudi 24 mars 2022 de  08:30:00 à  18:00:00",
+      "locality": "CHAMAREL",
+      "localitySlug": "chamarel",
+      "streets": "ROUTE ROYALE CHAMAREL, BAIE DU CAP ROAD, PLAINE CHAMPAGNE ROAD, PITON ROAD, LAVILLEON ET LA TERRE SEPT COULEURS",
+      "district": "blackriver",
+      "from": "2022-03-24T04:30:00.000Z",
+      "to": "2022-03-24T14:00:00.000Z",
+      "id": "9fcb4bac9aaa61c826bca41d99adf5e0"
+    },
+    {
+      "date": "Le jeudi 24 mars 2022 de  03:00:00 à  15:00:00",
+      "locality": "POSTE LAFAYETTE",
+      "localitySlug": "poste-lafayette",
+      "streets": "BRAS DEAU-POSTE LAFAYETTE",
+      "district": "flacq",
+      "from": "2022-03-23T23:00:00.000Z",
+      "to": "2022-03-23T11:00:00.000Z",
+      "id": "bcc0fd3689701b8386b7b3f3d241f2b3"
+    }
+  ]
+}

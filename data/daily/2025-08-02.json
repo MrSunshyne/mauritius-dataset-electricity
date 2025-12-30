@@ -1,0 +1,88 @@
+{
+  "date": "2025-08-02",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.524Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le samedi 2 août 2025 de  09:00:00 à  11:00:00",
+      "locality": "LALLMATIE",
+      "localitySlug": "lallmatie",
+      "streets": "MISSION CROSS RD",
+      "district": "flacq",
+      "from": "2025-08-02T05:00:00.000Z",
+      "to": "2025-08-02T07:00:00.000Z",
+      "id": "7c91a4db1ef7edc02ae43d3908691355"
+    },
+    {
+      "date": "Le samedi 2 août 2025 de  09:00:00 à  15:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "MORC VRS",
+      "district": "grandport",
+      "from": "2025-08-02T05:00:00.000Z",
+      "to": "2025-08-02T11:00:00.000Z",
+      "id": "2e94eb18587cd4399927f63b006432af"
+    },
+    {
+      "date": "Le samedi 2 août 2025 de  10:40:00 à  16:00:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "MADAME LOLO, CAMP ASTORIA",
+      "district": "grandport",
+      "from": "2025-08-02T06:40:00.000Z",
+      "to": "2025-08-02T12:00:00.000Z",
+      "id": "977bff59ba274aaf430bb8f0bec3b984"
+    },
+    {
+      "date": "Le samedi 2 août 2025 de  08:30:00 à  17:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "MITD Phoenix, partie de Warwick Street et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2025-08-02T04:30:00.000Z",
+      "to": "2025-08-02T13:00:00.000Z",
+      "id": "b2ab297f0e7852636a4f51922e99a3f9"
+    },
+    {
+      "date": "Le samedi 2 août 2025 de  14:20:00 à  15:00:00",
+      "locality": "MIDLANDS",
+      "localitySlug": "midlands",
+      "streets": "MIDLANDS",
+      "district": "plainewilhems",
+      "from": "2025-08-02T10:20:00.000Z",
+      "to": "2025-08-02T11:00:00.000Z",
+      "id": "e911dcb1473f15caee0da91a7e008149"
+    },
+    {
+      "date": "Le samedi 2 août 2025 de  08:30:00 à  15:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "LES ABONNES DE KENSINGTON POINTE AUX SABLES",
+      "district": "portlouis",
+      "from": "2025-08-02T04:30:00.000Z",
+      "to": "2025-08-02T11:00:00.000Z",
+      "id": "40abe71888775f9aceccc8992feb189a"
+    },
+    {
+      "date": "Le samedi 2 août 2025 de  08:30:00 à  14:30:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "DANS LES ENVIRONS DES RUES SAINT DENIS, DUCLOS, PANDIT GAYASING ET WASHERWOMAN",
+      "district": "portlouis",
+      "from": "2025-08-02T04:30:00.000Z",
+      "to": "2025-08-02T10:30:00.000Z",
+      "id": "0992249c77b55dac1fd04bf714f5ac6d"
+    },
+    {
+      "date": "Le samedi 2 août 2025 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "MONTAGNE CABRIS CORAIL,CORAIL PETITE BUTTE",
+      "district": "rodrigues",
+      "from": "2025-08-02T04:30:00.000Z",
+      "to": "2025-08-02T11:00:00.000Z",
+      "id": "b76a1958cce23ee4cb846c3a5226ae87"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2023-04-30",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.494Z",
+  "outageCount": 9,
+  "outages": [
+    {
+      "date": "Le dimanche 30 avril 2023 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC DE CHAZAL- AVE CARRIERE, AVE DES ALBATROS, AVE DES TOUCANS, AVE DES TOURTEREAUX, AVE DES MANGUIERS ET LA ROUTE COTIERE WOLMAR",
+      "district": "blackriver",
+      "from": "2023-04-30T04:30:00.000Z",
+      "to": "2023-04-30T11:30:00.000Z",
+      "id": "b35a32c413e6a1f6622b40043b9daa32"
+    },
+    {
+      "date": "Le dimanche 30 avril 2023 de  08:15:00 à  16:15:00",
+      "locality": "MONT IDA",
+      "localitySlug": "mont-ida",
+      "streets": "Les abonnés de  Mont Ida habitant la rue Alouettes et les perimetres de la station service Total jusquau Boulangerie Mont Ida Le Bon Pain.",
+      "district": "flacq",
+      "from": "2023-04-30T04:15:00.000Z",
+      "to": "2023-04-30T12:15:00.000Z",
+      "id": "d22544ed85525fb0daf1449ce820e932"
+    },
+    {
+      "date": "Le dimanche 30 avril 2023 de  09:30:00 à  14:30:00",
+      "locality": "VILLENOIRE",
+      "localitySlug": "villenoire",
+      "streets": "Morcellement VRS Ville Noire et Morcellement Blue Print Ville Noire",
+      "district": "grandport",
+      "from": "2023-04-30T05:30:00.000Z",
+      "to": "2023-04-30T10:30:00.000Z",
+      "id": "a4ce381346cc0ec83047aded8a50446e"
+    },
+    {
+      "date": "Le dimanche 30 avril 2023 de  08:30:00 à  16:00:00",
+      "locality": "QUARTIER MILITAIRE",
+      "localitySlug": "quartier-militaire",
+      "streets": "Les abonnés de Quartier Militaire habitant les rues et les régions suivantes : One Way Road et les ruelles avoisinantes",
+      "district": "moka",
+      "from": "2023-04-30T04:30:00.000Z",
+      "to": "2023-04-30T12:00:00.000Z",
+      "id": "442a2c16e5d20fc89105d05815478f74"
+    },
+    {
+      "date": "Le dimanche 30 avril 2023 de  08:30:00 à  16:00:00",
+      "locality": "MONTEBELLO",
+      "localitySlug": "montebello",
+      "streets": "LES ABONNES HABITANT MONTEBELLO",
+      "district": "moka",
+      "from": "2023-04-30T04:30:00.000Z",
+      "to": "2023-04-30T12:00:00.000Z",
+      "id": "e0a869f1dcf4750d92c1e4627b1fb519"
+    },
+    {
+      "date": "Le dimanche 30 avril 2023 de  09:30:00 à  10:30:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "DANS LES ENVIRONS DE LA ROUTE COTIERE, SCHOOL LANE, BLUE LAGOON, CLINIQUE DU NORD ET MORC SWAN",
+      "district": "pamplemousses",
+      "from": "2023-04-30T05:30:00.000Z",
+      "to": "2023-04-30T06:30:00.000Z",
+      "id": "e57a4efcc56cac21b8f866120d4b2f0e"
+    },
+    {
+      "date": "Le dimanche 30 avril 2023 de  09:00:00 à  14:15:00",
+      "locality": "HOLLYROOD",
+      "localitySlug": "hollyrood",
+      "streets": "TROIS MAMELLE NR CEMETERY",
+      "district": "plainewilhems",
+      "from": "2023-04-30T05:00:00.000Z",
+      "to": "2023-04-30T10:15:00.000Z",
+      "id": "c06ac1add83a172bf6caba21ff13ccf6"
+    },
+    {
+      "date": "Le dimanche 30 avril 2023 de  08:00:00 à  09:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "dans les environs de Mapou Leclezio, Mlle Jeanne, Mme Azor, St Antoine, Morc Petit Village et Roche Terre",
+      "district": "rivieredurempart",
+      "from": "2023-04-30T04:00:00.000Z",
+      "to": "2023-04-30T05:00:00.000Z",
+      "id": "730140ff8b5d5d2e43c25e2afd957877"
+    },
+    {
+      "date": "Le dimanche 30 avril 2023 de  09:00:00 à  16:00:00",
+      "locality": "RIVIERE DES ANGUILLES",
+      "localitySlug": "riviere-des-anguilles",
+      "streets": "PRUDHOMME RD-ROYAL RD RIVIERE DES ANGUILLES",
+      "district": "savanne",
+      "from": "2023-04-30T05:00:00.000Z",
+      "to": "2023-04-30T12:00:00.000Z",
+      "id": "750ffdeb4a793c49ee03ebffa59769d0"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2023-09-22",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.499Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le vendredi 22 septembre 2023 de  08:30:00 à  15:30:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "MORC BARACHOIS, RESIDENCES PALM BAY ET VILLA BARACHOIS",
+      "district": "blackriver",
+      "from": "2023-09-22T04:30:00.000Z",
+      "to": "2023-09-22T11:30:00.000Z",
+      "id": "de425e0ed8ffb42795c16e1174300540"
+    },
+    {
+      "date": "Le vendredi 22 septembre 2023 de  09:00:00 à  13:00:00",
+      "locality": "LA GAULETTE",
+      "localitySlug": "la-gaulette",
+      "streets": "LES ABONNES DE LA GAULETTE, ROYAL RD, BENITIERS RD",
+      "district": "blackriver",
+      "from": "2023-09-22T05:00:00.000Z",
+      "to": "2023-09-22T09:00:00.000Z",
+      "id": "4420cc4f069e720e910a8e9cec464ece"
+    },
+    {
+      "date": "Le vendredi 22 septembre 2023 de  08:30:00 à  17:00:00",
+      "locality": "CAMP THOREL",
+      "localitySlug": "camp-thorel",
+      "streets": "Les abonnes du village de Camp Thorel",
+      "district": "moka",
+      "from": "2023-09-22T04:30:00.000Z",
+      "to": "2023-09-22T13:00:00.000Z",
+      "id": "de47d55c7ee7774ef206cb9aeaa4a96a"
+    },
+    {
+      "date": "Le vendredi 22 septembre 2023 de  09:00:00 à  11:00:00",
+      "locality": "RIVIERE DES ANGUILLES",
+      "localitySlug": "riviere-des-anguilles",
+      "streets": "LES ABONNES DE RIV DES ANGUILLES, CAMP MARTIN",
+      "district": "savanne",
+      "from": "2023-09-22T05:00:00.000Z",
+      "to": "2023-09-22T07:00:00.000Z",
+      "id": "3f8b73c67ed1ff0d0520fc1685a9b9d8"
+    }
+  ]
+}

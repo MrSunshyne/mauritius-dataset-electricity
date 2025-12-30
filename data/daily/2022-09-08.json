@@ -1,0 +1,28 @@
+{
+  "date": "2022-09-08",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.485Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le jeudi 8 septembre 2022 de  09:00:00 à  15:00:00",
+      "locality": "EBENE",
+      "localitySlug": "ebene",
+      "streets": "Morc Ebene dans les environs de Gymnase Soonarain",
+      "district": "plainewilhems",
+      "from": "2022-09-08T05:00:00.000Z",
+      "to": "2022-09-08T11:00:00.000Z",
+      "id": "d491bb70460e3284deeb76668934bdac"
+    },
+    {
+      "date": "Le jeudi 8 septembre 2022 de  09:00:00 à  14:00:00",
+      "locality": "CHAMOUNY",
+      "localitySlug": "chamouny",
+      "streets": "Le village de Chamouny, Rama Road et Camp Fany",
+      "district": "savanne",
+      "from": "2022-09-08T05:00:00.000Z",
+      "to": "2022-09-08T10:00:00.000Z",
+      "id": "d0133264fce6bc780d06d4e009ba4df6"
+    }
+  ]
+}

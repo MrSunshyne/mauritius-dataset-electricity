@@ -1,0 +1,108 @@
+{
+  "date": "2023-03-15",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.492Z",
+  "outageCount": 10,
+  "outages": [
+    {
+      "date": "Le mercredi 15 mars 2023 de  10:00:00 à  13:00:00",
+      "locality": "TAMARIND FALLS",
+      "localitySlug": "tamarind-falls",
+      "streets": "CLOSEL TAMARIND FALLS",
+      "district": "blackriver",
+      "from": "2023-03-15T06:00:00.000Z",
+      "to": "2023-03-15T09:00:00.000Z",
+      "id": "fbab93abc32a984a0106573331676c02"
+    },
+    {
+      "date": "Le mercredi 15 mars 2023 de  10:15:00 à  11:30:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "BOIS DOISEAU, LAMUSSE PLAINE MAGNIEN",
+      "district": "grandport",
+      "from": "2023-03-15T06:15:00.000Z",
+      "to": "2023-03-15T07:30:00.000Z",
+      "id": "9ba6dcfc49dadba16b7e9ade45e9aa23"
+    },
+    {
+      "date": "Le mercredi 15 mars 2023 de  12:00:00 à  13:30:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "TOMBEAU LANE MAHEBOURG",
+      "district": "grandport",
+      "from": "2023-03-15T08:00:00.000Z",
+      "to": "2023-03-15T09:30:00.000Z",
+      "id": "f5067964c1e88a61f9a58977c497b3f7"
+    },
+    {
+      "date": "Le mercredi 15 mars 2023 de  16:30:00 à  18:00:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "VIEUX GRAND PORT,BOISE DES AMOURETTES,GRAND SABLE,PETIT SABLE,ANSE JONCHEE,DEUX FRERES,QUATRE SOEURS",
+      "district": "grandport",
+      "from": "2023-03-15T12:30:00.000Z",
+      "to": "2023-03-15T14:00:00.000Z",
+      "id": "2813335dc6ee1f41fbfac655b52b8715"
+    },
+    {
+      "date": "Le mercredi 15 mars 2023 de  18:40:00 à  20:30:00",
+      "locality": "SOREZE",
+      "localitySlug": "soreze",
+      "streets": "FEEDER SOREZE/ST LOUIS TRIPPED AS PER CONTROL.PAILLES,MORC RAFFRAY,SOREZE AND NEARBY REGIONS AFFECTED",
+      "district": "moka",
+      "from": "2023-03-15T14:40:00.000Z",
+      "to": "2023-03-15T16:30:00.000Z",
+      "id": "a044e4a3e0d8e7ef6dd75d1aa1ad99e8"
+    },
+    {
+      "date": "Le mercredi 15 mars 2023 de  09:00:00 à  15:00:00",
+      "locality": "ALLEE BRILLANT VACOAS",
+      "localitySlug": "allee-brillant-vacoas",
+      "streets": "Les abonnée de Allée Brillant, Vacoas habitant les région suivantes: Morc DHotman, une partie de Hanoomanjee Lane, une partie de Espitalier Street, une partie de Sooben Lane, Skylark Lane, Balamoody Lane et Mootoo Lane",
+      "district": "plainewilhems",
+      "from": "2023-03-15T05:00:00.000Z",
+      "to": "2023-03-15T11:00:00.000Z",
+      "id": "6ddb8d5771df66315962f61f66c33eee"
+    },
+    {
+      "date": "Le mercredi 15 mars 2023 de  09:00:00 à  16:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Robinson, Curepipe habitant les rues et les régions suivantes : Morcellement Riverland et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-03-15T05:00:00.000Z",
+      "to": "2023-03-15T12:00:00.000Z",
+      "id": "acab9462d05cc9fd48e59037143f6b79"
+    },
+    {
+      "date": "Le mercredi 15 mars 2023 de  10:45:00 à  12:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "BOUGAINVILLE CUREPIPE ROAD PART EAU COULEE",
+      "district": "plainewilhems",
+      "from": "2023-03-15T06:45:00.000Z",
+      "to": "2023-03-15T08:00:00.000Z",
+      "id": "fc108cf61f2c423a1be1b484a49932fd"
+    },
+    {
+      "date": "Le mercredi 15 mars 2023 de  12:45:00 à  14:45:00",
+      "locality": "SOLFERINO",
+      "localitySlug": "solferino",
+      "streets": "SOLFERINO 2, VINGTA VACOAS",
+      "district": "plainewilhems",
+      "from": "2023-03-15T08:45:00.000Z",
+      "to": "2023-03-15T10:45:00.000Z",
+      "id": "46a67ac1c3bf787b2586f77d6e012cac"
+    },
+    {
+      "date": "Le mercredi 15 mars 2023 de  16:00:00 à  17:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "NAPIER BROOME, SOLTO DOUGLAS, BARKLY ASYLUM BEAU BASSIN",
+      "district": "plainewilhems",
+      "from": "2023-03-15T12:00:00.000Z",
+      "to": "2023-03-15T13:00:00.000Z",
+      "id": "88d9f5a1a1fe491b6cb1aabc2801503e"
+    }
+  ]
+}

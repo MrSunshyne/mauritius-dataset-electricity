@@ -1,0 +1,46 @@
+{
+  "slug": "rouillard",
+  "name": "ROUILLARD",
+  "district": "pamplemousses",
+  "generated": "2025-12-30T19:07:15.841Z",
+  "outageCount": 5,
+  "firstOutage": "2022-05-08",
+  "lastOutage": "2023-09-13",
+  "outages": [
+    {
+      "date": "Le mercredi 13 septembre 2023 de  12:30:00 à  14:30:00",
+      "streets": "dans les environs de Clos de La Foret",
+      "from": "2023-09-13T08:30:00.000Z",
+      "to": "2023-09-13T10:30:00.000Z",
+      "id": "6794cdea67708a0ca7608568332e5880"
+    },
+    {
+      "date": "Le lundi 11 septembre 2023 de  12:30:00 à  16:30:00",
+      "streets": "dans les environs de Clos De La Foret",
+      "from": "2023-09-11T08:30:00.000Z",
+      "to": "2023-09-11T12:30:00.000Z",
+      "id": "29291f6ddec8438cff9503263f10f0cc"
+    },
+    {
+      "date": "Le jeudi 29 décembre 2022 de  15:00:00 à  17:00:00",
+      "streets": "dans les environs de Circle Square, CWA, Les Charmoses et Clos de La Foret",
+      "from": "2022-12-29T11:00:00.000Z",
+      "to": "2022-12-29T13:00:00.000Z",
+      "id": "42233a64f13a89c8820b6b71c460b639"
+    },
+    {
+      "date": "Le dimanche 9 octobre 2022 de  08:30:00 à  15:30:00",
+      "streets": "dans les environs de Rouillard Sur Estate, CWA, Les Charmoses, Clos de la Foret, Espace Maison, Morc Hillside et Forbach",
+      "from": "2022-10-09T04:30:00.000Z",
+      "to": "2022-10-09T11:30:00.000Z",
+      "id": "ff81423fb7ed43083ca966402e57ffe0"
+    },
+    {
+      "date": "Le dimanche 8 mai 2022 de  08:30:00 à  15:30:00",
+      "streets": "dans les environs de Rouillard jusquau Reunion Maurel",
+      "from": "2022-05-08T04:30:00.000Z",
+      "to": "2022-05-08T11:30:00.000Z",
+      "id": "3047f5144a679c0aace77ce8d8c62b55"
+    }
+  ]
+}

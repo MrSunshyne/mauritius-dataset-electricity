@@ -1,0 +1,60 @@
+{
+  "slug": "cite-richelieu",
+  "name": "CITE RICHELIEU",
+  "district": "blackriver",
+  "generated": "2025-12-30T19:07:15.640Z",
+  "outageCount": 7,
+  "firstOutage": "2022-04-19",
+  "lastOutage": "2025-08-08",
+  "outages": [
+    {
+      "date": "Le vendredi 8 août 2025 de  16:15:00 à  17:30:00",
+      "streets": "WHOLE REGION",
+      "from": "2025-08-08T12:15:00.000Z",
+      "to": "2025-08-08T13:30:00.000Z",
+      "id": "c39beeeb835f1af96133cab7a6173592"
+    },
+    {
+      "date": "Le mercredi 12 février 2025 de  15:00:00 à  16:30:00",
+      "streets": "MARINA LANE, CHAND LANE, ALLEE TAMARIN ET UNE PARTIE DE LA ROUTE ROYALE DANS LES ENVIRONS BOULANGERIE ET JARDIN D-ENFANTS.",
+      "from": "2025-02-12T11:00:00.000Z",
+      "to": "2025-02-12T12:30:00.000Z",
+      "id": "5b4f1ef22c6449f142d1d1979c7e5f6d"
+    },
+    {
+      "date": "Le mercredi 27 mars 2024 de  13:30:00 à  14:30:00",
+      "streets": "Whole Residence Riche Lieu",
+      "from": "2024-03-27T09:30:00.000Z",
+      "to": "2024-03-27T10:30:00.000Z",
+      "id": "4cfa991177572baf06bbb6d2d0358a04"
+    },
+    {
+      "date": "Le jeudi 9 novembre 2023 de  10:30:00 à  12:00:00",
+      "streets": "CITE RICHELIEU",
+      "from": "2023-11-09T06:30:00.000Z",
+      "to": "2023-11-09T08:00:00.000Z",
+      "id": "f5bd48dfd8e97b8bc4fc69e94d675f84"
+    },
+    {
+      "date": "Le vendredi 16 juin 2023 de  15:00:00 à  16:00:00",
+      "streets": "IQBAL ST,ROSE ST",
+      "from": "2023-06-16T11:00:00.000Z",
+      "to": "2023-06-16T12:00:00.000Z",
+      "id": "8755a145231025678b416ae00cf929d4"
+    },
+    {
+      "date": "Le mercredi 26 avril 2023 de  12:00:00 à  15:00:00",
+      "streets": "PART CITE RICHELIEU AND PART PETITE RIVIERE",
+      "from": "2023-04-26T08:00:00.000Z",
+      "to": "2023-04-26T11:00:00.000Z",
+      "id": "80bcafc52a11f9fc457a304e7eb8fa96"
+    },
+    {
+      "date": "Le mardi 19 avril 2022 de  10:45:00 à  13:30:00",
+      "streets": "Cite Richelieu",
+      "from": "2022-04-19T06:45:00.000Z",
+      "to": "2022-04-19T09:30:00.000Z",
+      "id": "7e143b46d18d915b55cb54be13739713"
+    }
+  ]
+}

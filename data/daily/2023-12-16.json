@@ -1,0 +1,48 @@
+{
+  "date": "2023-12-16",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.502Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le samedi 16 décembre 2023 de  08:30:00 à  16:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVENUE D’EPINAY, HENNESSY LANE, TAGORE, MUNICIPALITE DE QUATRE BORNES, CLUB BARCLAYS ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2023-12-16T04:30:00.000Z",
+      "to": "2023-12-16T12:00:00.000Z",
+      "id": "4daf3a74bd394741ed5d9daf7f1d1068"
+    },
+    {
+      "date": "Le samedi 16 décembre 2023 de  06:30:00 à  09:00:00",
+      "locality": "SODNAC",
+      "localitySlug": "sodnac",
+      "streets": "DREAMTON PARK SODNAC QUATRE BORNES",
+      "district": "plainewilhems",
+      "from": "2023-12-16T02:30:00.000Z",
+      "to": "2023-12-16T05:00:00.000Z",
+      "id": "e6f84f473e2789eb742d0e4f3acb02a8"
+    },
+    {
+      "date": "Le samedi 16 décembre 2023 de  09:00:00 à  15:30:00",
+      "locality": "VALLEE PITOT",
+      "localitySlug": "vallee-pitot",
+      "streets": "RUE ALMA-RUE ORIENT-RUE LE CHALET-EID GAH - RUE SAUZIERV ALLEE PITOT",
+      "district": "portlouis",
+      "from": "2023-12-16T05:00:00.000Z",
+      "to": "2023-12-16T11:30:00.000Z",
+      "id": "c7292a1b6fc1b5dbf88ca52c463768e8"
+    },
+    {
+      "date": "Le samedi 16 décembre 2023 de  08:30:00 à  15:30:00",
+      "locality": "PLAINE DES ROCHES",
+      "localitySlug": "plaine-des-roches",
+      "streets": "PLAINE DES ROCHES DANS LES ENVIRONS DE DISPENSARY ROAD ET BRANCH ROAD",
+      "district": "rivieredurempart",
+      "from": "2023-12-16T04:30:00.000Z",
+      "to": "2023-12-16T11:30:00.000Z",
+      "id": "8dd5bfe49d028c112262e491ec64e38e"
+    }
+  ]
+}

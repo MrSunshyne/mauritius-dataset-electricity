@@ -1,0 +1,32 @@
+{
+  "slug": "cite-vallijee",
+  "name": "CITE VALLIJEE",
+  "district": "portlouis",
+  "generated": "2025-12-30T19:07:15.641Z",
+  "outageCount": 3,
+  "firstOutage": "2022-12-11",
+  "lastOutage": "2025-02-09",
+  "outages": [
+    {
+      "date": "Le dimanche 9 février 2025 de  08:30:00 à  16:00:00",
+      "streets": "CITE VALLIJEE",
+      "from": "2025-02-09T04:30:00.000Z",
+      "to": "2025-02-09T12:00:00.000Z",
+      "id": "17b2afbcfc5836cea3d43911985b4b88"
+    },
+    {
+      "date": "Le jeudi 19 septembre 2024 de  09:00:00 à  13:00:00",
+      "streets": "RUE CHOPIN CITE VALLIJEE",
+      "from": "2024-09-19T05:00:00.000Z",
+      "to": "2024-09-19T09:00:00.000Z",
+      "id": "26df66d44e7047dabbb429f3360de6e8"
+    },
+    {
+      "date": "Le dimanche 11 décembre 2022 de  08:00:00 à  16:00:00",
+      "streets": "LES ABONNES HABITANT SABLE NOIR ET RESIDENCE VALLIJEE DANS LES ENVIRONS DES RUES MOLIERE, BANYAN, FLAMBOYANT",
+      "from": "2022-12-11T04:00:00.000Z",
+      "to": "2022-12-11T12:00:00.000Z",
+      "id": "b63b71c4f3b36c8dd76b876433d6aa29"
+    }
+  ]
+}

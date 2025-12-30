@@ -1,0 +1,78 @@
+{
+  "date": "2023-06-07",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.495Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le mercredi 7 juin 2023 de  09:50:00 à  11:50:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "LES ABONNES DE PONT BADAL ST PIERRE DANS LES ENVIRONS DE LPG. (CHANGING OF LV POLE)",
+      "district": "moka",
+      "from": "2023-06-07T05:50:00.000Z",
+      "to": "2023-06-07T07:50:00.000Z",
+      "id": "0488a38a6de037f719fbc4257c4ea536"
+    },
+    {
+      "date": "Le mercredi 7 juin 2023 de  11:15:00 à  12:15:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "CHEMIN PORSCHE ST PIERRE",
+      "district": "moka",
+      "from": "2023-06-07T07:15:00.000Z",
+      "to": "2023-06-07T08:15:00.000Z",
+      "id": "7caa194ac220e84f4519214e11fb9ff5"
+    },
+    {
+      "date": "Le mercredi 7 juin 2023 de  08:30:00 à  17:00:00",
+      "locality": "BEAU PLAN",
+      "localitySlug": "beau-plan",
+      "streets": "Morc Le Muguet, Morc Le park et regions avoisinant",
+      "district": "pamplemousses",
+      "from": "2023-06-07T04:30:00.000Z",
+      "to": "2023-06-07T13:00:00.000Z",
+      "id": "d94692730ab2c39250a23b6ddaa05abd"
+    },
+    {
+      "date": "Le mercredi 7 juin 2023 de  08:30:00 à  16:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVENUE SEENEEVASSEN,AVE POUSSE-PASSE PALMA ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2023-06-07T04:30:00.000Z",
+      "to": "2023-06-07T12:00:00.000Z",
+      "id": "9922d320ed3baf27371d40d3de4ae7a4"
+    },
+    {
+      "date": "Le mercredi 7 juin 2023 de  22:00:00 à  00:30:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "TX HIGHLANDS",
+      "district": "plainewilhems",
+      "from": "2023-06-07T18:00:00.000Z",
+      "to": "2023-06-06T20:30:00.000Z",
+      "id": "89e60e6a53348666c9d4d21d4aa4395d"
+    },
+    {
+      "date": "Le mercredi 7 juin 2023 de  14:00:00 à  16:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "LES ABONNES DANS LES ENVIRONS DE LA CLINIQUE DE GRAND BAIE ET DU COLLEGE ADOLPHE DE PLEVITZ.",
+      "district": "rivieredurempart",
+      "from": "2023-06-07T10:00:00.000Z",
+      "to": "2023-06-07T12:00:00.000Z",
+      "id": "8150d512208072e1f48f829cfa58b741"
+    },
+    {
+      "date": "Le mercredi 7 juin 2023 de  12:00:00 à  14:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "near Winners",
+      "district": "rivieredurempart",
+      "from": "2023-06-07T08:00:00.000Z",
+      "to": "2023-06-07T10:00:00.000Z",
+      "id": "e0a032731d0894575c0c542a0a1e2a87"
+    }
+  ]
+}

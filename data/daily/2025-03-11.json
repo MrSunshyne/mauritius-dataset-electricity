@@ -1,0 +1,48 @@
+{
+  "date": "2025-03-11",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.520Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mardi 11 mars 2025 de  19:25:00 à  23:00:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "Ave Capitaines Morc Carlos",
+      "district": "blackriver",
+      "from": "2025-03-11T15:25:00.000Z",
+      "to": "2025-03-11T19:00:00.000Z",
+      "id": "52ceec462e0bc2c7fc404a3a43e97a29"
+    },
+    {
+      "date": "Le mardi 11 mars 2025 de  09:30:00 à  11:00:00",
+      "locality": "CIRCONSTANCE",
+      "localitySlug": "circonstance",
+      "streets": "RESIDENCE CIRCONSTANCE ST PIERRE, SOCIAL CENTER AND SURROUNGINGS",
+      "district": "moka",
+      "from": "2025-03-11T05:30:00.000Z",
+      "to": "2025-03-11T07:00:00.000Z",
+      "id": "9b678a0b90a6d4ebf9ad515de4ce4394"
+    },
+    {
+      "date": "Le mardi 11 mars 2025 de  10:45:00 à  13:30:00",
+      "locality": "PLAINE DES PAPAYES",
+      "localitySlug": "plaine-des-papayes",
+      "streets": "SSR ROAD & SURROUNDINGS",
+      "district": "pamplemousses",
+      "from": "2025-03-11T06:45:00.000Z",
+      "to": "2025-03-11T09:30:00.000Z",
+      "id": "319bb79c2a1e5cf66ae5c69e0bf27513"
+    },
+    {
+      "date": "Le mardi 11 mars 2025 de  12:00:00 à  13:30:00",
+      "locality": "EBENE",
+      "localitySlug": "ebene",
+      "streets": "EBENE CITY",
+      "district": "plainewilhems",
+      "from": "2025-03-11T08:00:00.000Z",
+      "to": "2025-03-11T09:30:00.000Z",
+      "id": "f6b4859586378b3c966aefc3fef582be"
+    }
+  ]
+}

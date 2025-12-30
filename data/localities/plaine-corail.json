@@ -1,0 +1,32 @@
+{
+  "slug": "plaine-corail",
+  "name": "PLAINE CORAIL(RODRIGUES)",
+  "district": "rodrigues",
+  "generated": "2025-12-30T19:07:15.787Z",
+  "outageCount": 3,
+  "firstOutage": "2025-03-22",
+  "lastOutage": "2025-07-11",
+  "outages": [
+    {
+      "date": "Le vendredi 11 juillet 2025 de  08:00:00 à  16:00:00",
+      "streets": "LES ABONNES DE PLAINE CORAIL.",
+      "from": "2025-07-11T04:00:00.000Z",
+      "to": "2025-07-11T12:00:00.000Z",
+      "id": "322307ebe424d34d26308378e590ae95"
+    },
+    {
+      "date": "Le samedi 5 juillet 2025 de  08:00:00 à  15:00:00",
+      "streets": "LES ABONNES DE PLAINE CORAIL.",
+      "from": "2025-07-05T04:00:00.000Z",
+      "to": "2025-07-05T11:00:00.000Z",
+      "id": "3fdedd53ec18e9bf4393143564d46f7a"
+    },
+    {
+      "date": "Le samedi 22 mars 2025 de  08:30:00 à  16:00:00",
+      "streets": "Plaine Corail",
+      "from": "2025-03-22T04:30:00.000Z",
+      "to": "2025-03-22T12:00:00.000Z",
+      "id": "6cd0fc692bf0c83c7729630e9aafd797"
+    }
+  ]
+}

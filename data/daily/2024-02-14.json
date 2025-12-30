@@ -1,0 +1,58 @@
+{
+  "date": "2024-02-14",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.504Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mercredi 14 février 2024 de  03:15:00 à  04:30:00",
+      "locality": "CLEMENCIA",
+      "localitySlug": "clemencia",
+      "streets": "MELROSE ET CLEMENCIA",
+      "district": "flacq",
+      "from": "2024-02-13T23:15:00.000Z",
+      "to": "2024-02-13T00:30:00.000Z",
+      "id": "7c49df850edadade7798fbf91fadff37"
+    },
+    {
+      "date": "Le mercredi 14 février 2024 de  09:00:00 à  16:00:00",
+      "locality": "UPPER DAGOTIERE",
+      "localitySlug": "upper-dagotiere",
+      "streets": "Upper Dagotiere, NHDC Dagotiere and Alma Camp",
+      "district": "moka",
+      "from": "2024-02-14T05:00:00.000Z",
+      "to": "2024-02-14T12:00:00.000Z",
+      "id": "029a84a8d67db1a56ad610693b48ab23"
+    },
+    {
+      "date": "Le mercredi 14 février 2024 de  08:30:00 à  12:30:00",
+      "locality": "GLEN PARK",
+      "localitySlug": "glen-park",
+      "streets": "La Marie Road, Nathoo Lane.",
+      "district": "plainewilhems",
+      "from": "2024-02-14T04:30:00.000Z",
+      "to": "2024-02-14T08:30:00.000Z",
+      "id": "c68f572071f123dda58a81b651986084"
+    },
+    {
+      "date": "Le mercredi 14 février 2024 de  08:30:00 à  12:30:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "LA MARIE RD,NATHOO LANE",
+      "district": "plainewilhems",
+      "from": "2024-02-14T04:30:00.000Z",
+      "to": "2024-02-14T08:30:00.000Z",
+      "id": "1c26fd52509bfe84e056bac168dee675"
+    },
+    {
+      "date": "Le mercredi 14 février 2024 de  14:30:00 à  17:30:00",
+      "locality": "LA CHAUMIERE",
+      "localitySlug": "la-chaumiere",
+      "streets": "LA SOURCE, LA CHAUMIERE, LA FERME, CWA, SORIFARM, RME WASTE",
+      "district": "plainewilhems",
+      "from": "2024-02-14T10:30:00.000Z",
+      "to": "2024-02-14T13:30:00.000Z",
+      "id": "b5f5cb66908f7dbc136c6ade7ccc1f43"
+    }
+  ]
+}

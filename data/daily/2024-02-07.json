@@ -1,0 +1,68 @@
+{
+  "date": "2024-02-07",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.504Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le mercredi 7 février 2024 de  08:30:00 à  17:00:00",
+      "locality": "LALLMATIE",
+      "localitySlug": "lallmatie",
+      "streets": "LALLMATIE, BELVEDERE, SALAZIE, BRISEE VERDIERE ET MARE D’AUSTRALIA",
+      "district": "flacq",
+      "from": "2024-02-07T04:30:00.000Z",
+      "to": "2024-02-07T13:00:00.000Z",
+      "id": "0fcd622a8ec38baa571289aea150dc80"
+    },
+    {
+      "date": "Le mercredi 7 février 2024 de  09:00:00 à  16:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "VEL GOVINDEN",
+      "district": "plainewilhems",
+      "from": "2024-02-07T05:00:00.000Z",
+      "to": "2024-02-07T12:00:00.000Z",
+      "id": "c68fb074c745fe6ed4f6fc312ed8e227"
+    },
+    {
+      "date": "Le mercredi 7 février 2024 de  16:00:00 à  18:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "La caverne, La caverne No 1, No, 2, Cite La caverne.",
+      "district": "plainewilhems",
+      "from": "2024-02-07T12:00:00.000Z",
+      "to": "2024-02-07T14:00:00.000Z",
+      "id": "73a6133b83eb60344c84819339e88a78"
+    },
+    {
+      "date": "Le mercredi 7 février 2024 de  15:20:00 à  17:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "RUE ST CLEMENT DANS ENVIRONS LES QUINCAILLERIE ST CLEMENT ET LES RUELLES AVOISINANTES.",
+      "district": "plainewilhems",
+      "from": "2024-02-07T11:20:00.000Z",
+      "to": "2024-02-07T13:00:00.000Z",
+      "id": "6e9afc792af3105f0e364c2896a216dc"
+    },
+    {
+      "date": "Le mercredi 7 février 2024 de  11:50:00 à  14:15:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "CITE STE CLAIRE",
+      "district": "rivieredurempart",
+      "from": "2024-02-07T07:50:00.000Z",
+      "to": "2024-02-07T10:15:00.000Z",
+      "id": "83beaea306afa1a54a7ed898f5606d5a"
+    },
+    {
+      "date": "Le mercredi 7 février 2024 de  09:00:00 à  15:00:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "Morcellement Gris Gris",
+      "district": "savanne",
+      "from": "2024-02-07T05:00:00.000Z",
+      "to": "2024-02-07T11:00:00.000Z",
+      "id": "d43888042bf48eac83f7849cad1faacc"
+    }
+  ]
+}

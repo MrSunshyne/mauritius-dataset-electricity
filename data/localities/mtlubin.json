@@ -1,0 +1,25 @@
+{
+  "slug": "mtlubin",
+  "name": "MT.LUBIN(RODRIGUES)",
+  "district": "rodrigues",
+  "generated": "2025-12-30T19:07:15.762Z",
+  "outageCount": 2,
+  "firstOutage": "2024-06-20",
+  "lastOutage": "2025-09-13",
+  "outages": [
+    {
+      "date": "Le samedi 13 septembre 2025 de  08:30:00 à  15:00:00",
+      "streets": "MT LUBIN",
+      "from": "2025-09-13T04:30:00.000Z",
+      "to": "2025-09-13T11:00:00.000Z",
+      "id": "74da171a2abf0cd8f20fdd8268a2a051"
+    },
+    {
+      "date": "Le jeudi 20 juin 2024 de  08:30:00 à  15:00:00",
+      "streets": "Mont Lubin",
+      "from": "2024-06-20T04:30:00.000Z",
+      "to": "2024-06-20T11:00:00.000Z",
+      "id": "e188bea95efc4690c3e73c22d91c2ea5"
+    }
+  ]
+}

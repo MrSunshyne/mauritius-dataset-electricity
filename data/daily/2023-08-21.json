@@ -1,0 +1,38 @@
+{
+  "date": "2023-08-21",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.498Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le lundi 21 août 2023 de  13:00:00 à  17:00:00",
+      "locality": "POINTE AUX FEUILLES",
+      "localitySlug": "pointe-aux-feuilles",
+      "streets": "Pointe Aux Feuilles & Quatre Soeurs",
+      "district": "flacq",
+      "from": "2023-08-21T09:00:00.000Z",
+      "to": "2023-08-21T13:00:00.000Z",
+      "id": "19998f789463df1a295c2fba5b90caf4"
+    },
+    {
+      "date": "Le lundi 21 août 2023 de  15:25:00 à  16:00:00",
+      "locality": "CAROLINE BEL AIR",
+      "localitySlug": "caroline-bel-air",
+      "streets": "CAROLINE TOWARDS FILLING SHELL",
+      "district": "flacq",
+      "from": "2023-08-21T11:25:00.000Z",
+      "to": "2023-08-21T12:00:00.000Z",
+      "id": "84a64ed07b02f4a0200102b9fe335769"
+    },
+    {
+      "date": "Le lundi 21 août 2023 de  09:00:00 à  12:00:00",
+      "locality": "PETIT SABLE",
+      "localitySlug": "petit-sable",
+      "streets": "Petit Sable and Grand Sable",
+      "district": "grandport",
+      "from": "2023-08-21T05:00:00.000Z",
+      "to": "2023-08-21T08:00:00.000Z",
+      "id": "ae3f39b978fecb5af543eed9a71277eb"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2023-04-15",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.493Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le samedi 15 avril 2023 de  08:15:00 à  10:45:00",
+      "locality": "BELVEDERE ( LALLMATIE )",
+      "localitySlug": "belvedere",
+      "streets": "CADER RD, BELVEDERE=URGENT MAINTENANCE",
+      "district": "flacq",
+      "from": "2023-04-15T04:15:00.000Z",
+      "to": "2023-04-15T06:45:00.000Z",
+      "id": "71f3c94983111a7b236e8f4a6458e1ff"
+    },
+    {
+      "date": "Le samedi 15 avril 2023 de  08:30:00 à  13:00:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "Chemin vingt pieds, Morc Bhogun, Trou aux Biches Road, Trou Aux Biches village, Morc Jhuboo",
+      "district": "pamplemousses",
+      "from": "2023-04-15T04:30:00.000Z",
+      "to": "2023-04-15T09:00:00.000Z",
+      "id": "b12e90f081ae11f4b7e7407ebaff7f00"
+    },
+    {
+      "date": "Le samedi 15 avril 2023 de  09:45:00 à  11:15:00",
+      "locality": "RICHE TERRE",
+      "localitySlug": "riche-terre",
+      "streets": "ST MICHEL, CITE ROMA, SUSHIL LANE, MUSLIM CEMETERY RD RICHE TERRE",
+      "district": "pamplemousses",
+      "from": "2023-04-15T05:45:00.000Z",
+      "to": "2023-04-15T07:15:00.000Z",
+      "id": "afa4edc27754d3fcf32796c48131e0ef"
+    },
+    {
+      "date": "Le samedi 15 avril 2023 de  09:00:00 à  14:00:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "dans les environs de Mahatma Gandhi road",
+      "district": "rivieredurempart",
+      "from": "2023-04-15T05:00:00.000Z",
+      "to": "2023-04-15T10:00:00.000Z",
+      "id": "e6292e3d18579d0a7b05a9e60dc3b640"
+    },
+    {
+      "date": "Le samedi 15 avril 2023 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LA FOUCHE CORAIL, CASCADE JEAN LOUIS, PLAINE CORAIL",
+      "district": "rodrigues",
+      "from": "2023-04-15T04:30:00.000Z",
+      "to": "2023-04-15T11:00:00.000Z",
+      "id": "6e661c0cefdfa91d5bdef626b8099ab8"
+    }
+  ]
+}

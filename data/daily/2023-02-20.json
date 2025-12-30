@@ -1,0 +1,38 @@
+{
+  "date": "2023-02-20",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.491Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le lundi 20 février 2023 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC ANNA- AVE MOULIN CASSEE, AVE DES TRUITES, AVE DES MARLINS, AVE DES MEROUS ET UNE PARTIE DE LAVE DES CAPITAINES",
+      "district": "blackriver",
+      "from": "2023-02-20T04:30:00.000Z",
+      "to": "2023-02-20T11:30:00.000Z",
+      "id": "aeac5d599f1bd94b5148a4fbfa5b34a6"
+    },
+    {
+      "date": "Le lundi 20 février 2023 de  08:30:00 à  15:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Routh Moreau,une partie de Route John Kennedy, Route Cantin",
+      "district": "plainewilhems",
+      "from": "2023-02-20T04:30:00.000Z",
+      "to": "2023-02-20T11:00:00.000Z",
+      "id": "4a11580d1f10d6a84bb450fab9c46c9c"
+    },
+    {
+      "date": "Le lundi 20 février 2023 de  10:00:00 à  14:00:00",
+      "locality": "SURINAM",
+      "localitySlug": "surinam",
+      "streets": "TERRACINE,TROIS BRAS",
+      "district": "savanne",
+      "from": "2023-02-20T06:00:00.000Z",
+      "to": "2023-02-20T10:00:00.000Z",
+      "id": "c372b833105be19f3204a4894eed770c"
+    }
+  ]
+}

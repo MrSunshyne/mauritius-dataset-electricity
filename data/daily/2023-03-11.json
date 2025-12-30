@@ -1,0 +1,28 @@
+{
+  "date": "2023-03-11",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.492Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le samedi 11 mars 2023 de  08:30:00 à  13:00:00",
+      "locality": "VALLEE PITOT",
+      "localitySlug": "vallee-pitot",
+      "streets": "DANS LES ENVIRONS DES RUES ALMA,CHALET, STATELAND ET UNE PARTIE DE EID GAH",
+      "district": "portlouis",
+      "from": "2023-03-11T04:30:00.000Z",
+      "to": "2023-03-11T09:00:00.000Z",
+      "id": "ec4a1b4b2fd4de69e6ef0942bf2b03e3"
+    },
+    {
+      "date": "Le samedi 11 mars 2023 de  08:30:00 à  15:00:00",
+      "locality": "RIVIERE COCO(RODRIGUES)",
+      "localitySlug": "riviere-coco",
+      "streets": "Ile Michel, Grand Var, Petite Butte et Corail",
+      "district": "rodrigues",
+      "from": "2023-03-11T04:30:00.000Z",
+      "to": "2023-03-11T11:00:00.000Z",
+      "id": "8a063ab8364d7bb75f96e3739fcbe0cf"
+    }
+  ]
+}

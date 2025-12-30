@@ -1,0 +1,98 @@
+{
+  "date": "2022-05-15",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.482Z",
+  "outageCount": 9,
+  "outages": [
+    {
+      "date": "Le dimanche 15 mai 2022 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "AVE VERGERS, AVE DES CARDINAUX, AVE DES SERINS, AVE PETITE MARIE, AVE RIVERWALK ET AVE DES GOELANDS",
+      "district": "blackriver",
+      "from": "2022-05-15T04:30:00.000Z",
+      "to": "2022-05-15T11:30:00.000Z",
+      "id": "8879f783adcd96cf554d014c57f2702b"
+    },
+    {
+      "date": "Le dimanche 15 mai 2022 de  09:00:00 à  16:00:00",
+      "locality": "PETIT PAQUET",
+      "localitySlug": "petit-paquet",
+      "streets": "Les abonnés des villages de Petit Paquet et de Pellegrin",
+      "district": "flacq",
+      "from": "2022-05-15T05:00:00.000Z",
+      "to": "2022-05-15T12:00:00.000Z",
+      "id": "b41e36cb978e84000b1ddec83a182016"
+    },
+    {
+      "date": "Le dimanche 15 mai 2022 de  09:00:00 à  16:00:00",
+      "locality": "PELLEGRIN SEBASTOPOL",
+      "localitySlug": "pellegrin-sebastopol",
+      "streets": "Les abonnés des villages de Petit Paquet et de Pellegrin",
+      "district": "flacq",
+      "from": "2022-05-15T05:00:00.000Z",
+      "to": "2022-05-15T12:00:00.000Z",
+      "id": "f9b126ac2f93db1fcdff02d392302a6d"
+    },
+    {
+      "date": "Le dimanche 15 mai 2022 de  08:30:00 à  17:00:00",
+      "locality": "BLUE BAY",
+      "localitySlug": "blue-bay",
+      "streets": "Pointe D’Esny et une partie de Blue Bay",
+      "district": "grandport",
+      "from": "2022-05-15T04:30:00.000Z",
+      "to": "2022-05-15T13:00:00.000Z",
+      "id": "51b3fb2e41e208695c8d1b35b3885d86"
+    },
+    {
+      "date": "Le dimanche 15 mai 2022 de  08:30:00 à  15:00:00",
+      "locality": "CALEBASSES",
+      "localitySlug": "calebasses",
+      "streets": "Les abonnes des calebasses et Khoyratty",
+      "district": "pamplemousses",
+      "from": "2022-05-15T04:30:00.000Z",
+      "to": "2022-05-15T11:00:00.000Z",
+      "id": "4fb96c0dfbf40b51a36a469c2e35896d"
+    },
+    {
+      "date": "Le dimanche 15 mai 2022 de  08:30:00 à  16:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Industriel Zone, Valentina et",
+      "district": "plainewilhems",
+      "from": "2022-05-15T04:30:00.000Z",
+      "to": "2022-05-15T12:00:00.000Z",
+      "id": "641f5d1977d38defb1a7e8493f642024"
+    },
+    {
+      "date": "Le dimanche 15 mai 2022 de  08:30:00 à  16:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "LES ABONNES DE PORT LOUIS HABITANT DANS LES ENVIRONS DES RUES MGR LEEN, DENTRECASTEAUX, A F TANK WEN, FIELD, ARMAND ESNOUF ET BELVEDERE",
+      "district": "portlouis",
+      "from": "2022-05-15T04:30:00.000Z",
+      "to": "2022-05-15T12:00:00.000Z",
+      "id": "45a227e28e0853db440a88b0f6b8c06c"
+    },
+    {
+      "date": "Le dimanche 15 mai 2022 de  09:00:00 à  15:00:00",
+      "locality": "CAMP DIABLE",
+      "localitySlug": "camp-diable",
+      "streets": "Le village de Bamboo Camp Diable, Ilot et Colmar",
+      "district": "savanne",
+      "from": "2022-05-15T05:00:00.000Z",
+      "to": "2022-05-15T11:00:00.000Z",
+      "id": "690e84b484d166f9ff0d203cf0ce294a"
+    },
+    {
+      "date": "Le dimanche 15 mai 2022 de  09:00:00 à  13:30:00",
+      "locality": "BEL OMBRE",
+      "localitySlug": "bel-ombre",
+      "streets": "BEAU CHAMP BEL OMBRE",
+      "district": "savanne",
+      "from": "2022-05-15T05:00:00.000Z",
+      "to": "2022-05-15T09:30:00.000Z",
+      "id": "ff7880eb91703866e6e3f9a722f480a4"
+    }
+  ]
+}

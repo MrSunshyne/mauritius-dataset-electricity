@@ -1,0 +1,68 @@
+{
+  "date": "2025-07-18",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.523Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le vendredi 18 juillet 2025 de  17:00:00 à  18:00:00",
+      "locality": "GENTILLY- MOKA",
+      "localitySlug": "gentilly-moka",
+      "streets": "GENTILLY MOKA",
+      "district": "moka",
+      "from": "2025-07-18T13:00:00.000Z",
+      "to": "2025-07-18T14:00:00.000Z",
+      "id": "1a1302b706e17909a9c9ac4210588ac9"
+    },
+    {
+      "date": "Le vendredi 18 juillet 2025 de  13:00:00 à  14:30:00",
+      "locality": "PAVILLON",
+      "localitySlug": "pavillon",
+      "streets": "NEAR ROUND ABOUT.",
+      "district": "plainewilhems",
+      "from": "2025-07-18T09:00:00.000Z",
+      "to": "2025-07-18T10:30:00.000Z",
+      "id": "ea29822f64e258116766d1996af2ae33"
+    },
+    {
+      "date": "Le vendredi 18 juillet 2025 de  09:40:00 à  11:40:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "MORC LA VALLEE(NEAR VALERAN SHOP)",
+      "district": "portlouis",
+      "from": "2025-07-18T05:40:00.000Z",
+      "to": "2025-07-18T07:40:00.000Z",
+      "id": "3f211bf2d0988d1f1588c70eeb4b6b40"
+    },
+    {
+      "date": "Le vendredi 18 juillet 2025 de  11:10:00 à  13:10:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "MORC LA VALLEE(NEAR VALERAN SHOP)",
+      "district": "portlouis",
+      "from": "2025-07-18T07:10:00.000Z",
+      "to": "2025-07-18T09:10:00.000Z",
+      "id": "edfd999125a777e945e68e17ce27cdee"
+    },
+    {
+      "date": "Le vendredi 18 juillet 2025 de  08:30:00 à  15:30:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "LA CLEMENCE, OLD SCHOENFIELD ROAD, FIRST ROAD, CWA SCOENFIELD, RIVIERE DU REMPART",
+      "district": "rivieredurempart",
+      "from": "2025-07-18T04:30:00.000Z",
+      "to": "2025-07-18T11:30:00.000Z",
+      "id": "20efd183d411c4fa38f0ba3abde66a34"
+    },
+    {
+      "date": "Le vendredi 18 juillet 2025 de  09:00:00 à  14:30:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "MON MASCAL ROAD, DR MANILALL ROAD",
+      "district": "rivieredurempart",
+      "from": "2025-07-18T05:00:00.000Z",
+      "to": "2025-07-18T10:30:00.000Z",
+      "id": "5b8e5fd3443ff3962491e4989d1fde63"
+    }
+  ]
+}

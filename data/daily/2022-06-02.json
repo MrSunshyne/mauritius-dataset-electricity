@@ -1,0 +1,88 @@
+{
+  "date": "2022-06-02",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.482Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le jeudi 2 juin 2022 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "AVE DES NENUPHARS ET AVE DE LA DESIRADE",
+      "district": "blackriver",
+      "from": "2022-06-02T04:30:00.000Z",
+      "to": "2022-06-02T11:30:00.000Z",
+      "id": "00a5b02931d57433b2e8e314f8ba4e59"
+    },
+    {
+      "date": "Le jeudi 2 juin 2022 de  09:00:00 à  12:00:00",
+      "locality": "LE CHALAND",
+      "localitySlug": "le-chaland",
+      "streets": "Le Chaland habitant dans le périmètre et les rues suivantes: Diving School, Traning School (NCG) et Administrative Block Anantara",
+      "district": "grandport",
+      "from": "2022-06-02T05:00:00.000Z",
+      "to": "2022-06-02T08:00:00.000Z",
+      "id": "462c84ca226d494deec4011261a6615c"
+    },
+    {
+      "date": "Le jeudi 2 juin 2022 de  09:30:00 à  11:30:00",
+      "locality": "COTE D-OR",
+      "localitySlug": "cote-d-or",
+      "streets": "MORC VRS 3",
+      "district": "moka",
+      "from": "2022-06-02T05:30:00.000Z",
+      "to": "2022-06-02T07:30:00.000Z",
+      "id": "f331036dd00b2dc2b7a3a3da6bd0e414"
+    },
+    {
+      "date": "Le jeudi 2 juin 2022 de  15:30:00 à  17:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "LES ABONNES HABITANT BAIE DU TOMBEAU DANS LES ENVIRONS DE ZONE INDUSTRIELLE JIN FEI,MORC COPRIM, MORC LA CONCORDE, RESIDENCE FLORIDA ET CHEMIN LA BAIE",
+      "district": "pamplemousses",
+      "from": "2022-06-02T11:30:00.000Z",
+      "to": "2022-06-02T13:00:00.000Z",
+      "id": "b1ac0ab658691aeeee06432c67ad26b7"
+    },
+    {
+      "date": "Le jeudi 2 juin 2022 de  09:00:00 à  15:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "En partie Osman Ave, CEB Quatre-Bornes, Super Tote et Municipalité de Quatre-Bornes",
+      "district": "plainewilhems",
+      "from": "2022-06-02T05:00:00.000Z",
+      "to": "2022-06-02T11:00:00.000Z",
+      "id": "52cef5760eaff992fef9f6265d51a95e"
+    },
+    {
+      "date": "Le jeudi 2 juin 2022 de  15:00:00 à  17:00:00",
+      "locality": "CITE L-OISEAU",
+      "localitySlug": "cite-l-oiseau",
+      "streets": "Avenue Charles Dickens, Williams Wordsworth Road, Sir Williams Churchill Lane, Schubert Lane, Mozart Street et Edison Lane",
+      "district": "plainewilhems",
+      "from": "2022-06-02T11:00:00.000Z",
+      "to": "2022-06-02T13:00:00.000Z",
+      "id": "573395e543f4852c2685fc2a0d546e8b"
+    },
+    {
+      "date": "Le jeudi 2 juin 2022 de  09:00:00 à  14:00:00",
+      "locality": "SURINAM",
+      "localitySlug": "surinam",
+      "streets": "Martiniere, Sept croisee, Surinam",
+      "district": "savanne",
+      "from": "2022-06-02T05:00:00.000Z",
+      "to": "2022-06-02T10:00:00.000Z",
+      "id": "698cc6dcda861c6905e0d7553ff3dcd4"
+    },
+    {
+      "date": "Le jeudi 2 juin 2022 de  11:00:00 à  17:00:00",
+      "locality": "CAMP DIABLE",
+      "localitySlug": "camp-diable",
+      "streets": "riche bois,volley pitch camp diable village",
+      "district": "savanne",
+      "from": "2022-06-02T07:00:00.000Z",
+      "to": "2022-06-02T13:00:00.000Z",
+      "id": "9e1f14c97e035b33709254d7f1fc33e1"
+    }
+  ]
+}

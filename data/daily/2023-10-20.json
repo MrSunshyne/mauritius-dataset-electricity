@@ -1,0 +1,38 @@
+{
+  "date": "2023-10-20",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.500Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le vendredi 20 octobre 2023 de  09:20:00 à  12:00:00",
+      "locality": "SALAZIE",
+      "localitySlug": "salazie",
+      "streets": "POND BONDIEU SALAZIE",
+      "district": "flacq",
+      "from": "2023-10-20T05:20:00.000Z",
+      "to": "2023-10-20T08:00:00.000Z",
+      "id": "30bf4b527f6c065d5d36dbbdc8094fc7"
+    },
+    {
+      "date": "Le vendredi 20 octobre 2023 de  10:00:00 à  12:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "RAMRUTAL ROAD, SANA ROAD, RESERVOIR ROAD",
+      "district": "rivieredurempart",
+      "from": "2023-10-20T06:00:00.000Z",
+      "to": "2023-10-20T08:00:00.000Z",
+      "id": "51328239ff210e57347b142e586b7648"
+    },
+    {
+      "date": "Le vendredi 20 octobre 2023 de  11:30:00 à  14:00:00",
+      "locality": "COTTAGE",
+      "localitySlug": "cottage",
+      "streets": "MORC VRS COTTAGE",
+      "district": "rivieredurempart",
+      "from": "2023-10-20T07:30:00.000Z",
+      "to": "2023-10-20T10:00:00.000Z",
+      "id": "19e7992aaa09b0131bebd75480a36090"
+    }
+  ]
+}

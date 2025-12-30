@@ -1,0 +1,38 @@
+{
+  "date": "2023-06-27",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.496Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mardi 27 juin 2023 de  09:00:00 à  11:00:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "MORC RAMDANY",
+      "district": "blackriver",
+      "from": "2023-06-27T05:00:00.000Z",
+      "to": "2023-06-27T07:00:00.000Z",
+      "id": "eb11180ae32b85ee84d277765831243f"
+    },
+    {
+      "date": "Le mardi 27 juin 2023 de  08:30:00 à  13:00:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "LES ABONNES DE MON MASCAL PETIT RAFFRAY HABITANT DANS LES ENVIRONS DES RUES HAWAIA VILLA ET THEVENEAU",
+      "district": "rivieredurempart",
+      "from": "2023-06-27T04:30:00.000Z",
+      "to": "2023-06-27T09:00:00.000Z",
+      "id": "a800f86a6977e6369215323771ec7f08"
+    },
+    {
+      "date": "Le mardi 27 juin 2023 de  09:30:00 à  11:30:00",
+      "locality": "POINTE AUX CANONNIERS",
+      "localitySlug": "pointe-aux-canonniers",
+      "streets": "CHEMIN CASSE GHOON ET LES RUELLES AVOISINANTES.",
+      "district": "rodrigues",
+      "from": "2023-06-27T05:30:00.000Z",
+      "to": "2023-06-27T07:30:00.000Z",
+      "id": "63eab2eed1c6568d303919bb23e2929a"
+    }
+  ]
+}

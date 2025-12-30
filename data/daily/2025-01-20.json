@@ -1,0 +1,68 @@
+{
+  "date": "2025-01-20",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.517Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le lundi 20 janvier 2025 de  10:30:00 à  13:00:00",
+      "locality": "LA GAULETTE",
+      "localitySlug": "la-gaulette",
+      "streets": "WHOLE REGION",
+      "district": "blackriver",
+      "from": "2025-01-20T06:30:00.000Z",
+      "to": "2025-01-20T09:00:00.000Z",
+      "id": "88eea8ef373ede41ea3a8a05269d07d2"
+    },
+    {
+      "date": "Le lundi 20 janvier 2025 de  15:45:00 à  17:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "TERRE ROUGE, CITE TOLE, MONTAGNE LONGUE, BOIS PIGNOLET, CREVE COEUR ET NOTRE DAME.",
+      "district": "pamplemousses",
+      "from": "2025-01-20T11:45:00.000Z",
+      "to": "2025-01-20T13:00:00.000Z",
+      "id": "075f7421079dfcbe40dadf6a2cc710e1"
+    },
+    {
+      "date": "Le lundi 20 janvier 2025 de  09:00:00 à  14:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Rue des Metiers, Rue des Agriculteurs, Rue des Ebenistes, Rue des Artisans et Rue des Meuniers",
+      "district": "plainewilhems",
+      "from": "2025-01-20T05:00:00.000Z",
+      "to": "2025-01-20T10:00:00.000Z",
+      "id": "0d84d829278333bf9b00faa0cd64001a"
+    },
+    {
+      "date": "Le lundi 20 janvier 2025 de  08:30:00 à  16:00:00",
+      "locality": "BRITANNIA",
+      "localitySlug": "britannia",
+      "streets": "Rivière Dragon et Camp Berthaud Britania, La Route Royale, NHDC, Morc VRS, et les environs",
+      "district": "plainewilhems",
+      "from": "2025-01-20T04:30:00.000Z",
+      "to": "2025-01-20T12:00:00.000Z",
+      "id": "6cb50722744be3ab44ce7510d091eca3"
+    },
+    {
+      "date": "Le lundi 20 janvier 2025 de  09:00:00 à  14:00:00",
+      "locality": "EBENE",
+      "localitySlug": "ebene",
+      "streets": "Rue des Metiers, Rue des Agriculteurs, Rue des Ebenistes, Rue des Artisans et Rue des Meuniers",
+      "district": "plainewilhems",
+      "from": "2025-01-20T05:00:00.000Z",
+      "to": "2025-01-20T10:00:00.000Z",
+      "id": "8b1feba8b36634ac65d2f9bbc0ec4c54"
+    },
+    {
+      "date": "Le lundi 20 janvier 2025 de  15:00:00 à  16:30:00",
+      "locality": "UPPER VALE",
+      "localitySlug": "upper-vale",
+      "streets": "CHEMIN SSR ET UNE PARTIE DE LA ROUTE ROYALE.",
+      "district": "rivieredurempart",
+      "from": "2025-01-20T11:00:00.000Z",
+      "to": "2025-01-20T12:30:00.000Z",
+      "id": "353bcd16d13d1e39dc242f9cdab994b5"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "date": "2025-02-14",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.519Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le vendredi 14 février 2025 de  09:00:00 à  14:00:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "TAMARIN",
+      "district": "blackriver",
+      "from": "2025-02-14T05:00:00.000Z",
+      "to": "2025-02-14T10:00:00.000Z",
+      "id": "e560b0ad23c65b382acd1ad1255ee8be"
+    },
+    {
+      "date": "Le vendredi 14 février 2025 de  12:00:00 à  17:00:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "LA SOURCE CENTRE DE FLACQ",
+      "district": "flacq",
+      "from": "2025-02-14T08:00:00.000Z",
+      "to": "2025-02-14T13:00:00.000Z",
+      "id": "2c5c65a709572af3151c08c6b6ba50a1"
+    },
+    {
+      "date": "Le vendredi 14 février 2025 de  08:30:00 à  15:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Leclezio street, Maharani Flat et Bus Terminal",
+      "district": "plainewilhems",
+      "from": "2025-02-14T04:30:00.000Z",
+      "to": "2025-02-14T11:00:00.000Z",
+      "id": "c8171345551cd081f206b52c00b8c67d"
+    },
+    {
+      "date": "Le vendredi 14 février 2025 de  08:30:00 à  16:30:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "HENRIETTA ET La MARIE: Closel, Mont Simonet, Mare-Longue, NHDC Henrietta, Tamarind Falls, Bord Cascade, Morcellement Pousson, Morcellement Manguier Royale",
+      "district": "plainewilhems",
+      "from": "2025-02-14T04:30:00.000Z",
+      "to": "2025-02-14T12:30:00.000Z",
+      "id": "6157889f0168cdbe017f54d2ce2a442c"
+    },
+    {
+      "date": "Le vendredi 14 février 2025 de  10:00:00 à  11:30:00",
+      "locality": "LE HOCHET",
+      "localitySlug": "le-hochet",
+      "streets": "REGION NEAR AVE DALLIAH",
+      "district": "portlouis",
+      "from": "2025-02-14T06:00:00.000Z",
+      "to": "2025-02-14T07:30:00.000Z",
+      "id": "64cf5467f2f6ba33e95a8b9ac6c8e42a"
+    },
+    {
+      "date": "Le vendredi 14 février 2025 de  09:00:00 à  13:00:00",
+      "locality": "CALODYNE",
+      "localitySlug": "calodyne",
+      "streets": "CALODYNE",
+      "district": "rivieredurempart",
+      "from": "2025-02-14T05:00:00.000Z",
+      "to": "2025-02-14T09:00:00.000Z",
+      "id": "efef07620da10ac538f10acd03387c1d"
+    },
+    {
+      "date": "Le vendredi 14 février 2025 de  13:30:00 à  15:30:00",
+      "locality": "COTTAGE",
+      "localitySlug": "cottage",
+      "streets": "MORC VRS COTTAGE, CHEMIN BEAU PLATEAU ET LES CHEMIN AVOSINANTS.",
+      "district": "rivieredurempart",
+      "from": "2025-02-14T09:30:00.000Z",
+      "to": "2025-02-14T11:30:00.000Z",
+      "id": "c189fc561cb7a71a6979246389d154a5"
+    },
+    {
+      "date": "Le vendredi 14 février 2025 de  09:00:00 à  16:00:00",
+      "locality": "L-ESCALIER",
+      "localitySlug": "l-escalier",
+      "streets": "L’escalier habitant dans le périmètre et les rues suivantes: La Barraque Staff Quarters, Gas Carbonic, ENL et Pumping Station",
+      "district": "savanne",
+      "from": "2025-02-14T05:00:00.000Z",
+      "to": "2025-02-14T12:00:00.000Z",
+      "id": "cb031ac5fb62e2b25d68795c5643193e"
+    }
+  ]
+}

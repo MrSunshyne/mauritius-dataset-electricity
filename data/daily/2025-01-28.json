@@ -1,0 +1,118 @@
+{
+  "date": "2025-01-28",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.518Z",
+  "outageCount": 11,
+  "outages": [
+    {
+      "date": "Le mardi 28 janvier 2025 de  08:30:00 à  15:30:00",
+      "locality": "YEMEN",
+      "localitySlug": "yemen",
+      "streets": "Yemen Camp, Tamarin Camp, Wahala Pumping et Medine Cold Store",
+      "district": "blackriver",
+      "from": "2025-01-28T04:30:00.000Z",
+      "to": "2025-01-28T11:30:00.000Z",
+      "id": "ea6c79fe029c4dada848f789acac2e9e"
+    },
+    {
+      "date": "Le mardi 28 janvier 2025 de  09:00:00 à  12:00:00",
+      "locality": "CAMP DE MASQUE PAVE",
+      "localitySlug": "camp-de-masque-pave",
+      "streets": "MARE AUX GOYAVES CAMP DE MASQUE PAVE",
+      "district": "flacq",
+      "from": "2025-01-28T05:00:00.000Z",
+      "to": "2025-01-28T08:00:00.000Z",
+      "id": "1f78fcb7ae7a72c2ab919cbb325440bd"
+    },
+    {
+      "date": "Le mardi 28 janvier 2025 de  15:00:00 à  16:00:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "R/RD LA SOURCE,RAMCHANDUR RD",
+      "district": "flacq",
+      "from": "2025-01-28T11:00:00.000Z",
+      "to": "2025-01-28T12:00:00.000Z",
+      "id": "ced1a0ff6de6cd357a40122a8f388982"
+    },
+    {
+      "date": "Le mardi 28 janvier 2025 de  09:00:00 à  13:00:00",
+      "locality": "NEW GROVE",
+      "localitySlug": "new-grove",
+      "streets": "SIDING RD NEW GROVE",
+      "district": "grandport",
+      "from": "2025-01-28T05:00:00.000Z",
+      "to": "2025-01-28T09:00:00.000Z",
+      "id": "72a2175d41335810ab23054e3212470f"
+    },
+    {
+      "date": "Le mardi 28 janvier 2025 de  00:00:00 à  15:00:00",
+      "locality": "BEAU VALLON",
+      "localitySlug": "beau-vallon",
+      "streets": "MORC MAHE BEAU VALLON",
+      "district": "grandport",
+      "from": "2025-01-27T20:00:00.000Z",
+      "to": "2025-01-27T11:00:00.000Z",
+      "id": "b7b5a7d65c9cfb1b9438b2f0e3983525"
+    },
+    {
+      "date": "Le mardi 28 janvier 2025 de  10:30:00 à  12:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Route Grassy, Morcellement Highrise, Morcellement Munbode, Side-In Road, Réunion Vacoas , Nicolson Road et John Kennedy Road",
+      "district": "plainewilhems",
+      "from": "2025-01-28T06:30:00.000Z",
+      "to": "2025-01-28T08:00:00.000Z",
+      "id": "7af98d3693cb220ee9f3c590d4340675"
+    },
+    {
+      "date": "Le mardi 28 janvier 2025 de  11:45:00 à  14:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "MORC AMEER MEEAH",
+      "district": "portlouis",
+      "from": "2025-01-28T07:45:00.000Z",
+      "to": "2025-01-28T10:00:00.000Z",
+      "id": "b3236bbbc10a5ade3ab2fb88a97cbedb"
+    },
+    {
+      "date": "Le mardi 28 janvier 2025 de  13:15:00 à  15:15:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "Ave conde 4",
+      "district": "portlouis",
+      "from": "2025-01-28T09:15:00.000Z",
+      "to": "2025-01-28T11:15:00.000Z",
+      "id": "8101d5082ab22aeb93d96139b5ddac11"
+    },
+    {
+      "date": "Le mardi 28 janvier 2025 de  09:00:00 à  12:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "BALKAN ROAD ,BAHADOOR ROAD",
+      "district": "rivieredurempart",
+      "from": "2025-01-28T05:00:00.000Z",
+      "to": "2025-01-28T08:00:00.000Z",
+      "id": "4e0eadb3f34b642eba2e9efce2961a44"
+    },
+    {
+      "date": "Le mardi 28 janvier 2025 de  08:30:00 à  14:00:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "PETIT RAFFRAY-MOULIN A VENT",
+      "district": "rivieredurempart",
+      "from": "2025-01-28T04:30:00.000Z",
+      "to": "2025-01-28T10:00:00.000Z",
+      "id": "d4cb4fceef15776996279f1dd2c94a57"
+    },
+    {
+      "date": "Le mardi 28 janvier 2025 de  08:30:00 à  16:00:00",
+      "locality": "CHEMIN GRENIER",
+      "localitySlug": "chemin-grenier",
+      "streets": "Belle Vue Chemin Grenier, Camp Gopal et Old Mosque Road",
+      "district": "savanne",
+      "from": "2025-01-28T04:30:00.000Z",
+      "to": "2025-01-28T12:00:00.000Z",
+      "id": "8136ed2f12c9fa99dbc4fb51337521d1"
+    }
+  ]
+}

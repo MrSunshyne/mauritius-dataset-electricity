@@ -1,0 +1,88 @@
+{
+  "date": "2023-05-15",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.494Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le lundi 15 mai 2023 de  15:15:00 à  16:30:00",
+      "locality": "TELFAIR- MOKA",
+      "localitySlug": "telfair-moka",
+      "streets": "NEAR CHANTENAY",
+      "district": "moka",
+      "from": "2023-05-15T11:15:00.000Z",
+      "to": "2023-05-15T12:30:00.000Z",
+      "id": "6537dc4730dbd6691a8d62ab2e2087b1"
+    },
+    {
+      "date": "Le lundi 15 mai 2023 de  16:00:00 à  17:30:00",
+      "locality": "CONGOMAH",
+      "localitySlug": "congomah",
+      "streets": "congomah,les mariannes",
+      "district": "pamplemousses",
+      "from": "2023-05-15T12:00:00.000Z",
+      "to": "2023-05-15T13:30:00.000Z",
+      "id": "c0b1cdf1b5dac822c0291ff3bb2b51f0"
+    },
+    {
+      "date": "Le lundi 15 mai 2023 de  09:30:00 à  14:00:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "MORCELLEMENT POUSSON (RENEWAL OF HT CABLE)",
+      "district": "plainewilhems",
+      "from": "2023-05-15T05:30:00.000Z",
+      "to": "2023-05-15T10:00:00.000Z",
+      "id": "08c04bb22a5faf810a4662ed1e7dbbc1"
+    },
+    {
+      "date": "Le lundi 15 mai 2023 de  14:00:00 à  17:00:00",
+      "locality": "PAVILLON",
+      "localitySlug": "pavillon",
+      "streets": "la region de Cap Malheureux, Bain Boeuf et Pavillon",
+      "district": "plainewilhems",
+      "from": "2023-05-15T10:00:00.000Z",
+      "to": "2023-05-15T13:00:00.000Z",
+      "id": "af58cda827ce2acaf2baf2c8e260e712"
+    },
+    {
+      "date": "Le lundi 15 mai 2023 de  13:00:00 à  16:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes: Pierre Simonet et  les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-05-15T09:00:00.000Z",
+      "to": "2023-05-15T12:00:00.000Z",
+      "id": "44a82759e2c1e3026e7e5b4643dacd1b"
+    },
+    {
+      "date": "Le lundi 15 mai 2023 de  11:45:00 à  13:45:00",
+      "locality": "ROCHE TERRE",
+      "localitySlug": "roche-terre",
+      "streets": "MAIN ROAD, AVENUE FLEUR DE LYS ET LES ENVIRONS.",
+      "district": "rivieredurempart",
+      "from": "2023-05-15T07:45:00.000Z",
+      "to": "2023-05-15T09:45:00.000Z",
+      "id": "d786ad8e048153b482430579f81fbd87"
+    },
+    {
+      "date": "Le lundi 15 mai 2023 de  14:00:00 à  17:00:00",
+      "locality": "BAIN BOEUF",
+      "localitySlug": "bain-boeuf",
+      "streets": "la region de Cap Malheureux, Bain Boeuf et Pavillon",
+      "district": "rivieredurempart",
+      "from": "2023-05-15T10:00:00.000Z",
+      "to": "2023-05-15T13:00:00.000Z",
+      "id": "03dc6fca3657386edaa58b2fb14247b6"
+    },
+    {
+      "date": "Le lundi 15 mai 2023 de  14:00:00 à  17:00:00",
+      "locality": "CAP MALHEUREUX",
+      "localitySlug": "cap-malheureux",
+      "streets": "la region de Cap Malheureux, Bain Boeuf et Pavillon",
+      "district": "rivieredurempart",
+      "from": "2023-05-15T10:00:00.000Z",
+      "to": "2023-05-15T13:00:00.000Z",
+      "id": "197ff822e2fdf4eff34c121f5fa57708"
+    }
+  ]
+}

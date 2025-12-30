@@ -1,0 +1,48 @@
+{
+  "date": "2022-06-03",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.482Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le vendredi 3 juin 2022 de  08:30:00 à  15:30:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "MATALA, LES COMPLEX GREEN COAST, MOUNTAIN, RIVERSIDE, AMALA ET LE MORC FILLATURE",
+      "district": "blackriver",
+      "from": "2022-06-03T04:30:00.000Z",
+      "to": "2022-06-03T11:30:00.000Z",
+      "id": "d6640a29b1c0859448b3cdd9ed404d21"
+    },
+    {
+      "date": "Le vendredi 3 juin 2022 de  11:00:00 à  14:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "MISISIPI/RIVIRE SECHE FLOREAL",
+      "district": "plainewilhems",
+      "from": "2022-06-03T07:00:00.000Z",
+      "to": "2022-06-03T10:00:00.000Z",
+      "id": "ab953f8fab456bdabc601eeed3029796"
+    },
+    {
+      "date": "Le vendredi 3 juin 2022 de  08:30:00 à  15:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "Mamzelle Jeanne, et les environs lecole govt Kanye",
+      "district": "rivieredurempart",
+      "from": "2022-06-03T04:30:00.000Z",
+      "to": "2022-06-03T11:00:00.000Z",
+      "id": "f08c79465fdab79343d8592634837926"
+    },
+    {
+      "date": "Le vendredi 3 juin 2022 de  08:00:00 à  11:00:00",
+      "locality": "ROCHES NOIRES",
+      "localitySlug": "roches-noires",
+      "streets": "AUTRIVE ROCHENOIRES POST LAFAYETTE",
+      "district": "rivieredurempart",
+      "from": "2022-06-03T04:00:00.000Z",
+      "to": "2022-06-03T07:00:00.000Z",
+      "id": "4fd3ada5bfcfb9976cc77a240183932f"
+    }
+  ]
+}

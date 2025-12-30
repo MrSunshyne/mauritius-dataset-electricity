@@ -1,0 +1,74 @@
+{
+  "slug": "helvetia",
+  "name": "HELVETIA",
+  "district": "moka",
+  "generated": "2025-12-30T19:07:15.694Z",
+  "outageCount": 9,
+  "firstOutage": "2022-09-03",
+  "lastOutage": "2024-10-04",
+  "outages": [
+    {
+      "date": "Le vendredi 4 octobre 2024 de  13:00:00 à  14:30:00",
+      "streets": "MORC MERRY TOWN HELVETIA",
+      "from": "2024-10-04T09:00:00.000Z",
+      "to": "2024-10-04T10:30:00.000Z",
+      "id": "055126c98f2092ff8fee90ceeb08130e"
+    },
+    {
+      "date": "Le jeudi 3 octobre 2024 de  21:17:00 à  22:20:00",
+      "streets": "HELVETIA",
+      "from": "2024-10-03T17:17:00.000Z",
+      "to": "2024-10-03T18:20:00.000Z",
+      "id": "add10d5a3e7fa3370ce9e324406c1837"
+    },
+    {
+      "date": "Le mardi 30 janvier 2024 de  21:15:00 à  00:15:00",
+      "streets": "ROUTE ROYALE HELVETIA.",
+      "from": "2024-01-30T17:15:00.000Z",
+      "to": "2024-01-29T20:15:00.000Z",
+      "id": "630b1ebb6a79a1b77cf21109b5985d4d"
+    },
+    {
+      "date": "Le dimanche 16 juillet 2023 de  08:30:00 à  16:00:00",
+      "streets": "MDA Pump, Pivot MDA, Cogir, ENL House, MDA Properties No 1 & 2, Bayway, Ouranos et La Serre",
+      "from": "2023-07-16T04:30:00.000Z",
+      "to": "2023-07-16T12:00:00.000Z",
+      "id": "e366df4d824e05793d628eb2f6f30e03"
+    },
+    {
+      "date": "Le dimanche 18 juin 2023 de  08:30:00 à  16:00:00",
+      "streets": "Bloomage, MDA Pump, Cogir, Pivot MDA, Ouranus, Bayway, ENL House, MDA Properties No 1 & 2, Light House et Serre dHelvetia",
+      "from": "2023-06-18T04:30:00.000Z",
+      "to": "2023-06-18T12:00:00.000Z",
+      "id": "3818dfecab83dea9f5eb8d808e299fa0"
+    },
+    {
+      "date": "Le mercredi 3 mai 2023 de  17:00:00 à  18:00:00",
+      "streets": "HELVETIA ST PIERRE",
+      "from": "2023-05-03T13:00:00.000Z",
+      "to": "2023-05-03T14:00:00.000Z",
+      "id": "f8ec2d1ad9ff3b2a27f15b10637c5795"
+    },
+    {
+      "date": "Le mardi 21 mars 2023 de  14:15:00 à  15:15:00",
+      "streets": "HELVETIA MOKA",
+      "from": "2023-03-21T10:15:00.000Z",
+      "to": "2023-03-21T11:15:00.000Z",
+      "id": "e8fa55e2b45ac2e8c892a989f3b2221c"
+    },
+    {
+      "date": "Le samedi 28 janvier 2023 de  08:30:00 à  16:00:00",
+      "streets": "Bloomage, MDA Pump, Cogir, Pivot MDA, Ouranus, Bayway, ENL House, MDA Properties No1 & 2",
+      "from": "2023-01-28T04:30:00.000Z",
+      "to": "2023-01-28T12:00:00.000Z",
+      "id": "f644cedf2c0fb5244a41007d94d5bf52"
+    },
+    {
+      "date": "Le samedi 3 septembre 2022 de  08:30:00 à  16:00:00",
+      "streets": "Bloomage, MDA Quarters, Cogir et Pivot MDA",
+      "from": "2022-09-03T04:30:00.000Z",
+      "to": "2022-09-03T12:00:00.000Z",
+      "id": "3b39af8b2c4c7912a0ede66f94c829ee"
+    }
+  ]
+}

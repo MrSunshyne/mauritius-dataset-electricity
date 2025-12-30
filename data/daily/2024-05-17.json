@@ -1,0 +1,68 @@
+{
+  "date": "2024-05-17",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.508Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le vendredi 17 mai 2024 de  08:30:00 à  17:00:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "Mahebourg habitant dans le périmètre et les rues suivantes: Rue Colonie, Rue Boulangerie, Rue Maurice, Rue Bazaar, Rue La Chaux, Rue Hollandais et Rue Des Aigrettes",
+      "district": "grandport",
+      "from": "2024-05-17T04:30:00.000Z",
+      "to": "2024-05-17T13:00:00.000Z",
+      "id": "57d94ae3561f73a8c3e1179f8d02c9f6"
+    },
+    {
+      "date": "Le vendredi 17 mai 2024 de  09:45:00 à  12:00:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "La laura",
+      "district": "moka",
+      "from": "2024-05-17T05:45:00.000Z",
+      "to": "2024-05-17T08:00:00.000Z",
+      "id": "535fe9160f05e455b1abf3f9e7fc4a55"
+    },
+    {
+      "date": "Le vendredi 17 mai 2024 de  13:30:00 à  16:00:00",
+      "locality": "VERDUN",
+      "localitySlug": "verdun",
+      "streets": "MORC MDA VERDUN",
+      "district": "moka",
+      "from": "2024-05-17T09:30:00.000Z",
+      "to": "2024-05-17T12:00:00.000Z",
+      "id": "baaaafcbf156c0d1655488608cf546e1"
+    },
+    {
+      "date": "Le vendredi 17 mai 2024 de  09:45:00 à  11:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Rue Chateauneuf",
+      "district": "plainewilhems",
+      "from": "2024-05-17T05:45:00.000Z",
+      "to": "2024-05-17T07:00:00.000Z",
+      "id": "50d7b6ab72e325f12913490fa1865891"
+    },
+    {
+      "date": "Le vendredi 17 mai 2024 de  09:00:00 à  13:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "TRISTAN DAVICE QUATRE-BORNES",
+      "district": "plainewilhems",
+      "from": "2024-05-17T05:00:00.000Z",
+      "to": "2024-05-17T09:00:00.000Z",
+      "id": "996b285e5d51bbe173c15d03235c6c6f"
+    },
+    {
+      "date": "Le vendredi 17 mai 2024 de  14:30:00 à  16:30:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "MARE GRAVIER BEAU BASSIN",
+      "district": "plainewilhems",
+      "from": "2024-05-17T10:30:00.000Z",
+      "to": "2024-05-17T12:30:00.000Z",
+      "id": "4c7f79f8f7e6aa33156824ef23bbbca9"
+    }
+  ]
+}

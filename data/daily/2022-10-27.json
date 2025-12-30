@@ -1,0 +1,58 @@
+{
+  "date": "2022-10-27",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.487Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le jeudi 27 octobre 2022 de  15:00:00 à  19:00:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "ZONE INDUSTRIAL LA VALETTE BAMBOUS",
+      "district": "blackriver",
+      "from": "2022-10-27T11:00:00.000Z",
+      "to": "2022-10-27T15:00:00.000Z",
+      "id": "ef80ab6f16ad785ac13c0233f8f762c3"
+    },
+    {
+      "date": "Le jeudi 27 octobre 2022 de  11:00:00 à  16:00:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "Le CEB avise les abonnés de Mont Fertile et Rose Belle habitant dans le périmètre et les rues suivantes: Gebert Road, Letord Road, Mont Fertile area et une partie de la Route royale Rose Belle",
+      "district": "grandport",
+      "from": "2022-10-27T07:00:00.000Z",
+      "to": "2022-10-27T12:00:00.000Z",
+      "id": "b9110c7915449d86650827e89f3db44b"
+    },
+    {
+      "date": "Le jeudi 27 octobre 2022 de  09:00:00 à  16:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVE BOUNDARY, CONTE DE ISLE, DE FERRIERE, HITCHCOCK",
+      "district": "plainewilhems",
+      "from": "2022-10-27T05:00:00.000Z",
+      "to": "2022-10-27T12:00:00.000Z",
+      "id": "7620001913e21baec31e25a416236f2c"
+    },
+    {
+      "date": "Le jeudi 27 octobre 2022 de  09:00:00 à  15:00:00",
+      "locality": "CITE CHEBEL",
+      "localitySlug": "cite-chebel",
+      "streets": "CAMP BERTHELOT CHEBEL",
+      "district": "plainewilhems",
+      "from": "2022-10-27T05:00:00.000Z",
+      "to": "2022-10-27T11:00:00.000Z",
+      "id": "d9714e5301be6544b4826da92e5d1546"
+    },
+    {
+      "date": "Le jeudi 27 octobre 2022 de  08:30:00 à  16:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Le Bosquet Office, en partie chebel branch road, la reprise, camp bertlot",
+      "district": "plainewilhems",
+      "from": "2022-10-27T04:30:00.000Z",
+      "to": "2022-10-27T12:00:00.000Z",
+      "id": "14cf5662ffd1ec598fdba5e54c124509"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2022-05-14",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.482Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le samedi 14 mai 2022 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "AVE DES FAUCONS, AVE DES CAILLES, AVE COCOTIERS, AVE PIC PIC, AVE HERONS, GARDEN STREET, AVE NENUPHARES, AVE DES BERNACHES ET AVE DE LA DESIRADE",
+      "district": "blackriver",
+      "from": "2022-05-14T04:30:00.000Z",
+      "to": "2022-05-14T11:30:00.000Z",
+      "id": "16ab70717bb55390c7496f551f438960"
+    },
+    {
+      "date": "Le samedi 14 mai 2022 de  08:30:00 à  15:30:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "LES ABONNES DE BAIE DU TOMBEAU HABITANT DANS LES ENVIRONS DE PONT BRUNIQUEL ET RUE OURSIN",
+      "district": "pamplemousses",
+      "from": "2022-05-14T04:30:00.000Z",
+      "to": "2022-05-14T11:30:00.000Z",
+      "id": "508ce612d8e98de7f8b139ddac0080d9"
+    },
+    {
+      "date": "Le samedi 14 mai 2022 de  09:00:00 à  15:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "LES ABONNES DE POINTE AUX SABLES HABITANT DANS LES ENVIRONS DES AVENUES TROCHETTIAS, COQUELUCHES, TECOMA, TOURNESDOL ET ACCACIAS",
+      "district": "portlouis",
+      "from": "2022-05-14T05:00:00.000Z",
+      "to": "2022-05-14T11:00:00.000Z",
+      "id": "47e73b43d1ce2a1dec992f9e8d6848da"
+    },
+    {
+      "date": "Le samedi 14 mai 2022 de  14:00:00 à  15:00:00",
+      "locality": "POMPEE(RODRIGUES)",
+      "localitySlug": "pompee",
+      "streets": "POMPEE-EAU CLAIRE-BATTU MADAME-CAMP PAUL RODRIGUES",
+      "district": "rodrigues",
+      "from": "2022-05-14T10:00:00.000Z",
+      "to": "2022-05-14T11:00:00.000Z",
+      "id": "8bd6202acf33959e0a688b520128f206"
+    },
+    {
+      "date": "Le samedi 14 mai 2022 de  08:30:00 à  09:30:00",
+      "locality": "POMPEE(RODRIGUES)",
+      "localitySlug": "pompee",
+      "streets": "POMPEE-EAU CLAIRE-BATTU MADAME-CAMP PAUL RODRIGUES",
+      "district": "rodrigues",
+      "from": "2022-05-14T04:30:00.000Z",
+      "to": "2022-05-14T05:30:00.000Z",
+      "id": "c3f6ef02d2d9b5f525263c63acdce901"
+    }
+  ]
+}

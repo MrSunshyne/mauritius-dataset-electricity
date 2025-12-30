@@ -1,0 +1,67 @@
+{
+  "slug": "clemencia",
+  "name": "CLEMENCIA",
+  "district": "flacq",
+  "generated": "2025-12-30T19:07:15.645Z",
+  "outageCount": 8,
+  "firstOutage": "2022-03-17",
+  "lastOutage": "2025-11-24",
+  "outages": [
+    {
+      "date": "Le lundi 24 novembre 2025 de  10:50:00 à  19:30:00",
+      "streets": "Belle Rose,Clemencia,Deep River",
+      "from": "2025-11-24T06:50:00.000Z",
+      "to": "2025-11-24T15:30:00.000Z",
+      "id": "9e64e535fa6fb439b2697bc59b01387e"
+    },
+    {
+      "date": "Le vendredi 6 décembre 2024 de  08:30:00 à  16:00:00",
+      "streets": "Le village de Clemencia",
+      "from": "2024-12-06T04:30:00.000Z",
+      "to": "2024-12-06T12:00:00.000Z",
+      "id": "c784b0780acc4c0c55fc096cc0d52c78"
+    },
+    {
+      "date": "Le jeudi 17 octobre 2024 de  09:15:00 à  13:30:00",
+      "streets": "part of village",
+      "from": "2024-10-17T05:15:00.000Z",
+      "to": "2024-10-17T09:30:00.000Z",
+      "id": "e99d22805eea58cb1d756d147ea58257"
+    },
+    {
+      "date": "Le jeudi 21 mars 2024 de  13:45:00 à  16:00:00",
+      "streets": "MORC CLEMENCIA, BELLE ROSE, CWA, POULTRY, CAYEUX ET LES ENVIRONS.",
+      "from": "2024-03-21T09:45:00.000Z",
+      "to": "2024-03-21T12:00:00.000Z",
+      "id": "a4729e532bf018a8cda9df08a1e10b93"
+    },
+    {
+      "date": "Le mercredi 14 février 2024 de  03:15:00 à  04:30:00",
+      "streets": "MELROSE ET CLEMENCIA",
+      "from": "2024-02-13T23:15:00.000Z",
+      "to": "2024-02-13T00:30:00.000Z",
+      "id": "7c49df850edadade7798fbf91fadff37"
+    },
+    {
+      "date": "Le samedi 16 septembre 2023 de  08:15:00 à  16:00:00",
+      "streets": "Les abonnes du village de Belle Rose Clemencia",
+      "from": "2023-09-16T04:15:00.000Z",
+      "to": "2023-09-16T12:00:00.000Z",
+      "id": "7148f53a8b1686483caafab3ac1ca9e1"
+    },
+    {
+      "date": "Le vendredi 31 mars 2023 de  09:30:00 à  14:00:00",
+      "streets": "PONT LARDIER,BELLEROSE,CLEMENCIA",
+      "from": "2023-03-31T05:30:00.000Z",
+      "to": "2023-03-31T10:00:00.000Z",
+      "id": "6f2398a74eacbd4b80ece39de89bf751"
+    },
+    {
+      "date": "Le jeudi 17 mars 2022 de  08:45:00 à  15:00:00",
+      "streets": "Village Clemencia",
+      "from": "2022-03-17T04:45:00.000Z",
+      "to": "2022-03-17T11:00:00.000Z",
+      "id": "7dd3c828c5bd307734f82f3f81f64c0a"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "date": "2024-05-01",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.507Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mercredi 1 mai 2024 de  21:30:00 à  23:30:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "FELICO LANE AND NEARBY",
+      "district": "plainewilhems",
+      "from": "2024-05-01T17:30:00.000Z",
+      "to": "2024-05-01T19:30:00.000Z",
+      "id": "0e8dcf2050b4e8883f426d0e9dbfd86e"
+    },
+    {
+      "date": "Le mercredi 1 mai 2024 de  10:00:00 à  13:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "COASTAL ROAD, RAQUETTE RD ET DANS LES ALENTOURS DE ROYAL PALM, HOTEL LUX ET STORE 2000",
+      "district": "rivieredurempart",
+      "from": "2024-05-01T06:00:00.000Z",
+      "to": "2024-05-01T09:00:00.000Z",
+      "id": "bd8b3e0f59fe06dcb012553f26e69930"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2022-09-13",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.486Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mardi 13 septembre 2022 de  08:30:00 à  14:00:00",
+      "locality": "GRAND BEL AIR",
+      "localitySlug": "grand-bel-air",
+      "streets": "VILLAGE GRAND BEL AIR AND NHDC",
+      "district": "flacq",
+      "from": "2022-09-13T04:30:00.000Z",
+      "to": "2022-09-13T10:00:00.000Z",
+      "id": "9844ce78cbfeae031f4f0ad28071615a"
+    },
+    {
+      "date": "Le mardi 13 septembre 2022 de  19:45:00 à  22:00:00",
+      "locality": "PETIT CAMP",
+      "localitySlug": "petit-camp",
+      "streets": "BEHIND PHOENIX BEVERAGES",
+      "district": "plainewilhems",
+      "from": "2022-09-13T15:45:00.000Z",
+      "to": "2022-09-13T18:00:00.000Z",
+      "id": "bac04c2dd095a6d783115b87de9ff29a"
+    },
+    {
+      "date": "Le mardi 13 septembre 2022 de  09:00:00 à  15:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "DANS LES ENVIRONS DE SCHOOL LANE ET MORC GOOLAMALLY",
+      "district": "portlouis",
+      "from": "2022-09-13T05:00:00.000Z",
+      "to": "2022-09-13T11:00:00.000Z",
+      "id": "a519819a39c55427d443ec80e1198465"
+    },
+    {
+      "date": "Le mardi 13 septembre 2022 de  09:00:00 à  14:30:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "MANICK,DANS GIRAUMON",
+      "district": "rodrigues",
+      "from": "2022-09-13T05:00:00.000Z",
+      "to": "2022-09-13T10:30:00.000Z",
+      "id": "e0cd3b611456d7a2c3574d90a22d4039"
+    }
+  ]
+}

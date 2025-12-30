@@ -1,0 +1,683 @@
+{
+  "slug": "terre-rouge",
+  "name": "TERRE ROUGE",
+  "district": "pamplemousses",
+  "generated": "2025-12-30T19:07:15.866Z",
+  "outageCount": 96,
+  "firstOutage": "2022-03-14",
+  "lastOutage": "2025-12-26",
+  "outages": [
+    {
+      "date": "Le vendredi 26 décembre 2025 de  20:00:00 à  23:00:00",
+      "streets": "TERRE ROUGE, ST JOSEPH, NOTRE DAME, MONTAGNE LONGUE, BOIS PIGNOLET, KHOYRATTY",
+      "from": "2025-12-26T16:00:00.000Z",
+      "to": "2025-12-26T19:00:00.000Z",
+      "id": "570db6bd7c4972eb4116252b8fa51e3e"
+    },
+    {
+      "date": "Le jeudi 6 novembre 2025 de  15:00:00 à  18:00:00",
+      "streets": "MORC TARA & SURROUNDINGS",
+      "from": "2025-11-06T11:00:00.000Z",
+      "to": "2025-11-06T14:00:00.000Z",
+      "id": "cfab42465d2cf837431bc9fcd5d0b3c9"
+    },
+    {
+      "date": "Le jeudi 9 octobre 2025 de  10:00:00 à  12:00:00",
+      "streets": "DANS LES ENVIRONS DE MORC PEERUN, MORC GREEN PARK, NELSON MANDELA LANE, CAMP LA BOUE ET LA ROUTE SAINT JOSEPH",
+      "from": "2025-10-09T06:00:00.000Z",
+      "to": "2025-10-09T08:00:00.000Z",
+      "id": "1e20d1bc8292fbceb7e66e71ef1fe968"
+    },
+    {
+      "date": "Le jeudi 11 septembre 2025 de  06:00:00 à  12:00:00",
+      "streets": "ROYALROAD  CHEMIN BASALT,SCHOOL ROAD,NR WINNERS /DREAM PRICE",
+      "from": "2025-09-11T02:00:00.000Z",
+      "to": "2025-09-11T08:00:00.000Z",
+      "id": "4611978e20d6eddd1c4e93c66d72127a"
+    },
+    {
+      "date": "Le jeudi 4 septembre 2025 de  09:00:00 à  12:00:00",
+      "streets": "Route St Joseph, Camp La Boue Terre Rouge, Morcellement Peerun, NHDC, Nelson Mandela Road et Morcellement Greenpark",
+      "from": "2025-09-04T05:00:00.000Z",
+      "to": "2025-09-04T08:00:00.000Z",
+      "id": "b71ef2ea08b1ab3ca0af5b6db5789d51"
+    },
+    {
+      "date": "Le mardi 29 juillet 2025 de  10:15:00 à  12:15:00",
+      "streets": "Le Hochet,Nr Dhanush,Indian Oil,Savemax",
+      "from": "2025-07-29T06:15:00.000Z",
+      "to": "2025-07-29T08:15:00.000Z",
+      "id": "3468c5c22097194cecdc1628b01f1ad2"
+    },
+    {
+      "date": "Le dimanche 6 avril 2025 de  13:00:00 à  18:00:00",
+      "streets": "MORC RAFFRAY TERRE ROUGE",
+      "from": "2025-04-06T09:00:00.000Z",
+      "to": "2025-04-06T14:00:00.000Z",
+      "id": "d156cc4e712a04502045c9a42d4a5fff"
+    },
+    {
+      "date": "Le samedi 29 mars 2025 de  18:00:00 à  21:00:00",
+      "streets": "LE HOCHET ET MORC MANNICK.",
+      "from": "2025-03-29T14:00:00.000Z",
+      "to": "2025-03-29T17:00:00.000Z",
+      "id": "0cc65229c165e3e2f770ba4bc98a5ef9"
+    },
+    {
+      "date": "Le jeudi 27 mars 2025 de  09:00:00 à  14:30:00",
+      "streets": "Aux alentours du Mosque, CFPP, Bois Marchand, La Croisee Montagne Longue, Mlle Laure, Khoyratty, Bois Pignolet, Morc Foondun, Morc Rughoobur, Morc Tara, Village Council Lane, Cite Dool et Route Royal Terre Rouge",
+      "from": "2025-03-27T05:00:00.000Z",
+      "to": "2025-03-27T10:30:00.000Z",
+      "id": "234a693e4ce05f6d395c4e1eb6e0f80f"
+    },
+    {
+      "date": "Le dimanche 23 mars 2025 de  08:30:00 à  15:30:00",
+      "streets": "Dans les environs de Morcellement Tara, Morcellement Foondun, Cite Doulle, Cite Bois Marchand, Bhoruth Lane, Mlle Laure et une partie de Bois Pignolet",
+      "from": "2025-03-23T04:30:00.000Z",
+      "to": "2025-03-23T11:30:00.000Z",
+      "id": "e8d73a1d50cb011e79fce6842a426de3"
+    },
+    {
+      "date": "Le samedi 15 mars 2025 de  09:35:00 à  11:45:00",
+      "streets": "Morc Tara",
+      "from": "2025-03-15T05:35:00.000Z",
+      "to": "2025-03-15T07:45:00.000Z",
+      "id": "367dacf6acd10d96107e0c055e6377b4"
+    },
+    {
+      "date": "Le mercredi 5 mars 2025 de  09:00:00 à  14:00:00",
+      "streets": "Terre Rouge et Jean Tac",
+      "from": "2025-03-05T05:00:00.000Z",
+      "to": "2025-03-05T10:00:00.000Z",
+      "id": "b375ec262bbf621d6f7ee51d0e6c4f87"
+    },
+    {
+      "date": "Le vendredi 28 février 2025 de  13:40:00 à  16:00:00",
+      "streets": "ROYAL ROAD, PART OF MAMZEL LAURE, NEAR FLORIDA",
+      "from": "2025-02-28T09:40:00.000Z",
+      "to": "2025-02-28T12:00:00.000Z",
+      "id": "66246a9127f1b0a67ffc9f4c848382c6"
+    },
+    {
+      "date": "Le lundi 10 février 2025 de  09:30:00 à  15:30:00",
+      "streets": "Le Hochet, Terre Rouge, dans les perimetries Morcellemnet Raffray, Avenue Bluet II, Avenue des Fougères, Avenue Geranium, Avenue Hibiscus, Avenue Cactus, Morc Goolamally Phase II et DELL Office",
+      "from": "2025-02-10T05:30:00.000Z",
+      "to": "2025-02-10T11:30:00.000Z",
+      "id": "92b44b6f7068ccf263b5523765b68d71"
+    },
+    {
+      "date": "Le dimanche 9 février 2025 de  12:00:00 à  15:00:00",
+      "streets": "Zone Industrielle DBM, Village Council road, Morcellement Foondun, Route Militaire et Morc Raghoobur",
+      "from": "2025-02-09T08:00:00.000Z",
+      "to": "2025-02-09T11:00:00.000Z",
+      "id": "ed5951dadc87cc8e1c915f9157a1df36"
+    },
+    {
+      "date": "Le dimanche 9 février 2025 de  08:00:00 à  15:00:00",
+      "streets": "Cite Doule Terre Rouge, Mahatma Gandhi road, Copain Lane, Canal Bathurst",
+      "from": "2025-02-09T04:00:00.000Z",
+      "to": "2025-02-09T11:00:00.000Z",
+      "id": "06a1d739093c9727478221383db7fd9c"
+    },
+    {
+      "date": "Le mercredi 5 février 2025 de  15:30:00 à  17:30:00",
+      "streets": "Une partie de Terre Rouge; Basalt lane, route royale, le hochet, kjw lane et les environs",
+      "from": "2025-02-05T11:30:00.000Z",
+      "to": "2025-02-05T13:30:00.000Z",
+      "id": "f9d7b36294e7b278ffd7fc13edd9bd3c"
+    },
+    {
+      "date": "Le mardi 21 janvier 2025 de  16:15:00 à  18:15:00",
+      "streets": "DANS LES ENVIRONS WINNERS ET DREAM PRICE TERRE ROUGE.",
+      "from": "2025-01-21T12:15:00.000Z",
+      "to": "2025-01-21T14:15:00.000Z",
+      "id": "7e9c76a042899117818a3732a4c16b5a"
+    },
+    {
+      "date": "Le mardi 21 janvier 2025 de  09:20:00 à  13:00:00",
+      "streets": "MORC GOOLAMALLY",
+      "from": "2025-01-21T05:20:00.000Z",
+      "to": "2025-01-21T09:00:00.000Z",
+      "id": "cf3409bfda4638f03d2778f17ffcf10e"
+    },
+    {
+      "date": "Le lundi 20 janvier 2025 de  15:45:00 à  17:00:00",
+      "streets": "TERRE ROUGE, CITE TOLE, MONTAGNE LONGUE, BOIS PIGNOLET, CREVE COEUR ET NOTRE DAME.",
+      "from": "2025-01-20T11:45:00.000Z",
+      "to": "2025-01-20T13:00:00.000Z",
+      "id": "075f7421079dfcbe40dadf6a2cc710e1"
+    },
+    {
+      "date": "Le samedi 21 décembre 2024 de  11:30:00 à  13:00:00",
+      "streets": "ROYAL ROAD, NEAR MOSQUE & ROUND ABOUT",
+      "from": "2024-12-21T07:30:00.000Z",
+      "to": "2024-12-21T09:00:00.000Z",
+      "id": "9c7bdb6ae214218bb17e690070032b85"
+    },
+    {
+      "date": "Le vendredi 13 décembre 2024 de  09:30:00 à  11:30:00",
+      "streets": "le hochet, terre rouge, khoyratty, bois pignolet",
+      "from": "2024-12-13T05:30:00.000Z",
+      "to": "2024-12-13T07:30:00.000Z",
+      "id": "216e5b164544830d1e368763b7eb911d"
+    },
+    {
+      "date": "Le samedi 23 novembre 2024 de  07:00:00 à  00:00:00",
+      "streets": "BASALT LANE, FROM WINNERS TO KOVIL, KJW LANE, ORIENT ROAD, NEERUNJUN LANE, SCHOOL LANE AND SURROUNDINGS",
+      "from": "2024-11-23T03:00:00.000Z",
+      "to": "2024-11-22T20:00:00.000Z",
+      "id": "a1a8a9d4edf559a74f658ff18be55612"
+    },
+    {
+      "date": "Le mercredi 20 novembre 2024 de  14:10:00 à  15:45:00",
+      "streets": "CHA TERRE ROUGE ET LES ALENTOURS",
+      "from": "2024-11-20T10:10:00.000Z",
+      "to": "2024-11-20T11:45:00.000Z",
+      "id": "ce31b764b532c0c2602a9d0f8178e96f"
+    },
+    {
+      "date": "Le mardi 29 octobre 2024 de  10:00:00 à  14:00:00",
+      "streets": "SCHOOL RD TERRE ROUGE",
+      "from": "2024-10-29T06:00:00.000Z",
+      "to": "2024-10-29T10:00:00.000Z",
+      "id": "52b0c37cab5af349bc8f417be0a677b9"
+    },
+    {
+      "date": "Le mardi 15 octobre 2024 de  11:20:00 à  12:30:00",
+      "streets": "Nr Winners",
+      "from": "2024-10-15T07:20:00.000Z",
+      "to": "2024-10-15T08:30:00.000Z",
+      "id": "be7a3f293e2a210395f1f4dfc2b2429c"
+    },
+    {
+      "date": "Le samedi 12 octobre 2024 de  08:30:00 à  14:00:00",
+      "streets": "MORC PEERUN, TERRE ROUGE",
+      "from": "2024-10-12T04:30:00.000Z",
+      "to": "2024-10-12T10:00:00.000Z",
+      "id": "02cc782605e0d41f74fab6bbe535bc06"
+    },
+    {
+      "date": "Le dimanche 22 septembre 2024 de  14:00:00 à  18:00:00",
+      "streets": "ROYAL ROAD NR MOSQUE/MORC TARA CHEMIN D.COUNCIL",
+      "from": "2024-09-22T10:00:00.000Z",
+      "to": "2024-09-22T14:00:00.000Z",
+      "id": "ef3e8459d616b4c26e20e5a4de6c33e9"
+    },
+    {
+      "date": "Le dimanche 22 septembre 2024 de  11:00:00 à  13:00:00",
+      "streets": "MORC TARA ENVIRON RED STAR LANE",
+      "from": "2024-09-22T07:00:00.000Z",
+      "to": "2024-09-22T09:00:00.000Z",
+      "id": "b87f9e868b40a66511033412bae64bf8"
+    },
+    {
+      "date": "Le samedi 31 août 2024 de  12:50:00 à  14:30:00",
+      "streets": "Residence Dool,une partie de Le Hochet",
+      "from": "2024-08-31T08:50:00.000Z",
+      "to": "2024-08-31T10:30:00.000Z",
+      "id": "af6aa7efa884721a4ffead6099e71ff2"
+    },
+    {
+      "date": "Le mardi 27 août 2024 de  08:30:00 à  15:00:00",
+      "streets": "Rte St Joseph Terre Rouge dans les environs de Meuble Meunier, Boutique Sunrise et Melon DEau",
+      "from": "2024-08-27T04:30:00.000Z",
+      "to": "2024-08-27T11:00:00.000Z",
+      "id": "55203534af93de0199a4bc9bc9eb1591"
+    },
+    {
+      "date": "Le samedi 24 août 2024 de  10:45:00 à  14:00:00",
+      "streets": "KJW AND NEAR WINNERS/LUXMAN BHAITERRE ROUGE",
+      "from": "2024-08-24T06:45:00.000Z",
+      "to": "2024-08-24T10:00:00.000Z",
+      "id": "3234357ff205b1edc5f471e254385493"
+    },
+    {
+      "date": "Le samedi 24 août 2024 de  08:30:00 à  15:30:00",
+      "streets": "Dans les environs de Mauritius Telecom et une partie de la Rte St Joseph",
+      "from": "2024-08-24T04:30:00.000Z",
+      "to": "2024-08-24T11:30:00.000Z",
+      "id": "040cb86627960346ffd626caee284b16"
+    },
+    {
+      "date": "Le vendredi 23 août 2024 de  09:30:00 à  15:30:00",
+      "streets": "Route Royale Terre Rouge dans les environs de Station de Police et Veeramakali Kovil",
+      "from": "2024-08-23T05:30:00.000Z",
+      "to": "2024-08-23T11:30:00.000Z",
+      "id": "f695a046e8db073de1604cf725a45b41"
+    },
+    {
+      "date": "Le jeudi 22 août 2024 de  14:30:00 à  17:00:00",
+      "streets": "Royal Rd, Terre Rouge dans les environs de Winners Terre Rouge, Basalt Lane et Boulangerie Shah",
+      "from": "2024-08-22T10:30:00.000Z",
+      "to": "2024-08-22T13:00:00.000Z",
+      "id": "826e998041bda6f63b35f667d2dba27a"
+    },
+    {
+      "date": "Le jeudi 22 août 2024 de  09:30:00 à  17:00:00",
+      "streets": "Royal road Terre Rouge dans les environs de Dr Manilal Rd et KJW lane",
+      "from": "2024-08-22T05:30:00.000Z",
+      "to": "2024-08-22T13:00:00.000Z",
+      "id": "eedc74b0fde9fea592aa0b1fccf3707c"
+    },
+    {
+      "date": "Le dimanche 18 août 2024 de  08:30:00 à  15:30:00",
+      "streets": "Dans les environs de Route Royal, Poste de Police, Mauritius Telecom, Camp La Boue et une partie de la route St Joseph",
+      "from": "2024-08-18T04:30:00.000Z",
+      "to": "2024-08-18T11:30:00.000Z",
+      "id": "c738bf0cc8f6bf40f384a6a5c393fd16"
+    },
+    {
+      "date": "Le samedi 17 août 2024 de  08:30:00 à  15:30:00",
+      "streets": "Dans les environs de Winners, Route Royal Terre Rouge, KJW Lane, Dr Manilall Road et Patisserie Shah",
+      "from": "2024-08-17T04:30:00.000Z",
+      "to": "2024-08-17T11:30:00.000Z",
+      "id": "d5f3d41e333101880648ba7eb3c1ee11"
+    },
+    {
+      "date": "Le dimanche 11 août 2024 de  09:00:00 à  14:00:00",
+      "streets": "Terre Rouge dans les environs de Winners, KJW Lane, Dr Manilall rd et Patisserie Shah",
+      "from": "2024-08-11T05:00:00.000Z",
+      "to": "2024-08-11T10:00:00.000Z",
+      "id": "323b6c62d6db667e1f84f8b390c5f084"
+    },
+    {
+      "date": "Le samedi 10 août 2024 de  09:15:00 à  11:00:00",
+      "streets": "OLD BIRD ROAD MORC TARA TERRE ROUGE",
+      "from": "2024-08-10T05:15:00.000Z",
+      "to": "2024-08-10T07:00:00.000Z",
+      "id": "6affb706af7583523bcdd1f60ba4576c"
+    },
+    {
+      "date": "Le samedi 27 juillet 2024 de  10:15:00 à  12:15:00",
+      "streets": "BEHIND P STATION",
+      "from": "2024-07-27T06:15:00.000Z",
+      "to": "2024-07-27T08:15:00.000Z",
+      "id": "271473068f3fea10e15dfe27d2f3455b"
+    },
+    {
+      "date": "Le dimanche 9 juin 2024 de  08:30:00 à  15:30:00",
+      "streets": "TERRE ROUGE DANS LES ENVIRONS DE ARCHEMICS ET SOOKARY BROTHERS",
+      "from": "2024-06-09T04:30:00.000Z",
+      "to": "2024-06-09T11:30:00.000Z",
+      "id": "8dd8e0d49514bb30a0c668ab0f274761"
+    },
+    {
+      "date": "Le mercredi 29 mai 2024 de  14:15:00 à  16:30:00",
+      "streets": "VILLAGE HALL ST, TERRE ROUGE",
+      "from": "2024-05-29T10:15:00.000Z",
+      "to": "2024-05-29T12:30:00.000Z",
+      "id": "4267ddfe1d1b7d20ac151b63d4a4d3b5"
+    },
+    {
+      "date": "Le vendredi 24 mai 2024 de  09:15:00 à  11:15:00",
+      "streets": "VILLAGE COUNCIL LANE ET LES ALENTOURS",
+      "from": "2024-05-24T05:15:00.000Z",
+      "to": "2024-05-24T07:15:00.000Z",
+      "id": "03f121346bb1e2c18ba9db9cae1e9301"
+    },
+    {
+      "date": "Le mardi 16 avril 2024 de  09:30:00 à  11:00:00",
+      "streets": "MORC SHEIKH DAWOOD BOIS PIGNOLET TERRE ROUGE",
+      "from": "2024-04-16T05:30:00.000Z",
+      "to": "2024-04-16T07:00:00.000Z",
+      "id": "ef78e9a0cef5f5c6d56ddcc6c44b4ebd"
+    },
+    {
+      "date": "Le lundi 18 mars 2024 de  09:00:00 à  12:00:00",
+      "streets": "MORC RATA TERRE ROUGE",
+      "from": "2024-03-18T05:00:00.000Z",
+      "to": "2024-03-18T08:00:00.000Z",
+      "id": "f73ca05ea3f52eb6998814cc29341456"
+    },
+    {
+      "date": "Le samedi 9 mars 2024 de  11:00:00 à  12:30:00",
+      "streets": "AVENUE ROSIER MORC RAFFRAY TERRE ROUGE",
+      "from": "2024-03-09T07:00:00.000Z",
+      "to": "2024-03-09T08:30:00.000Z",
+      "id": "68bb99f5a3be09711bbbaac7f29f3acd"
+    },
+    {
+      "date": "Le mardi 20 février 2024 de  10:50:00 à  14:00:00",
+      "streets": "VILLAGE HALL STREET TERRE ROUGE-MORC SHEIK DAWOOD BOIS PIGNOLET",
+      "from": "2024-02-20T06:50:00.000Z",
+      "to": "2024-02-20T10:00:00.000Z",
+      "id": "09b315a8ba326af05fc5e2a7825e7dfa"
+    },
+    {
+      "date": "Le lundi 12 février 2024 de  09:30:00 à  11:30:00",
+      "streets": "Croisee Montagne Longue,Sinotex lane",
+      "from": "2024-02-12T05:30:00.000Z",
+      "to": "2024-02-12T07:30:00.000Z",
+      "id": "c37c053a49ee37720e4180e46bd9cc14"
+    },
+    {
+      "date": "Le lundi 5 février 2024 de  15:30:00 à  17:30:00",
+      "streets": "MORC RAFFRAY TERRE ROUGE : CHEMIN BLUE EST, CHEMIN INDEPENDANCE ET DANS LES ENVIRONS ECOLE GOUVERNEMENT.",
+      "from": "2024-02-05T11:30:00.000Z",
+      "to": "2024-02-05T13:30:00.000Z",
+      "id": "23fcb73b4f8c6e2e2512185b911eca0a"
+    },
+    {
+      "date": "Le dimanche 4 février 2024 de  10:30:00 à  14:00:00",
+      "streets": "MLLE LAURE TERRE ROUGE",
+      "from": "2024-02-04T06:30:00.000Z",
+      "to": "2024-02-04T10:00:00.000Z",
+      "id": "b5ed70a9c05ae3ad84c9a4423f3a4c49"
+    },
+    {
+      "date": "Le samedi 27 janvier 2024 de  08:30:00 à  14:00:00",
+      "streets": "MORC GREEN PARKDANS LES ENVIRONS DE MOSQUE AL MUNAWWARAH ET JAMAL TECH",
+      "from": "2024-01-27T04:30:00.000Z",
+      "to": "2024-01-27T10:00:00.000Z",
+      "id": "af8c15ef1b7b8bec5adcb4c48c7f8bcb"
+    },
+    {
+      "date": "Le vendredi 26 janvier 2024 de  10:30:00 à  12:30:00",
+      "streets": "ROYAL ROAD ST JOSEPH",
+      "from": "2024-01-26T06:30:00.000Z",
+      "to": "2024-01-26T08:30:00.000Z",
+      "id": "25283ef409a6207fa8c7efdbe05c427f"
+    },
+    {
+      "date": "Le jeudi 25 janvier 2024 de  10:20:00 à  12:30:00",
+      "streets": "BEEDASSY LANE TERRE ROUGE",
+      "from": "2024-01-25T06:20:00.000Z",
+      "to": "2024-01-25T08:30:00.000Z",
+      "id": "81f46a1cecf123f6e86323a554db439d"
+    },
+    {
+      "date": "Le mardi 23 janvier 2024 de  08:30:00 à  10:30:00",
+      "streets": "MLLE LAURE TERRE ROUGE",
+      "from": "2024-01-23T04:30:00.000Z",
+      "to": "2024-01-23T06:30:00.000Z",
+      "id": "46cbfdb951a0d2c1de4fb59027fdad8d"
+    },
+    {
+      "date": "Le vendredi 19 janvier 2024 de  15:30:00 à  17:00:00",
+      "streets": "ST JOSEPH REGION",
+      "from": "2024-01-19T11:30:00.000Z",
+      "to": "2024-01-19T13:00:00.000Z",
+      "id": "37f513e66baf3bef07988fc83cff7717"
+    },
+    {
+      "date": "Le mardi 9 janvier 2024 de  12:20:00 à  13:30:00",
+      "streets": "MORC GREENPARK TERRE ROUGE",
+      "from": "2024-01-09T08:20:00.000Z",
+      "to": "2024-01-09T09:30:00.000Z",
+      "id": "2a69608aa0fdfa60a37041345b475cb9"
+    },
+    {
+      "date": "Le samedi 6 janvier 2024 de  10:30:00 à  16:00:00",
+      "streets": "MORC FOONDUN,MORC TARA,BAPTISTE LANE,BOIS MARCHAND",
+      "from": "2024-01-06T06:30:00.000Z",
+      "to": "2024-01-06T12:00:00.000Z",
+      "id": "260d0a8c600b6239d13c99ab60f29dc2"
+    },
+    {
+      "date": "Le vendredi 5 janvier 2024 de  08:00:00 à  17:00:00",
+      "streets": "La route St Joseph, Nelson Mandela, Morc Green Park, Morc Peerun, Camp La Boue, dans les environs du Station De Police De Terre Rouge et Centre De Formation Du CEB",
+      "from": "2024-01-05T04:00:00.000Z",
+      "to": "2024-01-05T13:00:00.000Z",
+      "id": "b58b6c5885501277783ac5125d1ccd94"
+    },
+    {
+      "date": "Le mardi 19 décembre 2023 de  09:45:00 à  14:00:00",
+      "streets": "Dool Trading,Poinen,Deelawar Lanes",
+      "from": "2023-12-19T05:45:00.000Z",
+      "to": "2023-12-19T10:00:00.000Z",
+      "id": "a7e55ba69a44a6bedd82ac25a9e9f7e1"
+    },
+    {
+      "date": "Le vendredi 15 décembre 2023 de  15:30:00 à  18:00:00",
+      "streets": "ROYAL ROAD,FLORIDA LANE",
+      "from": "2023-12-15T11:30:00.000Z",
+      "to": "2023-12-15T14:00:00.000Z",
+      "id": "3d14f00ceb23e42eb973cbcdaa2517d8"
+    },
+    {
+      "date": "Le jeudi 9 novembre 2023 de  15:15:00 à  17:00:00",
+      "streets": "BAPTISTE LANE,BOIS MARCHAND,CITE DOOL,CAMP LA BOUE,ST JOSEPH, MORC FOONDUN, VILLAGE COUNCIL RD,ZONE INDUSTRIEL DBM. MORC TARA,FLORIDA LANE,LA CROISEE MT LONGUE,BOIS PIGNOLET",
+      "from": "2023-11-09T11:15:00.000Z",
+      "to": "2023-11-09T13:00:00.000Z",
+      "id": "b6249ced3d3b31510c22100afa4e96c6"
+    },
+    {
+      "date": "Le jeudi 9 novembre 2023 de  12:00:00 à  15:00:00",
+      "streets": "BOIS MARCHAND TERRE ROUGE",
+      "from": "2023-11-09T08:00:00.000Z",
+      "to": "2023-11-09T11:00:00.000Z",
+      "id": "f859ff07c1d0e5a76944c26f345e5bdb"
+    },
+    {
+      "date": "Le mardi 31 octobre 2023 de  09:00:00 à  12:00:00",
+      "streets": "Terre Rouge,Camp La Boue,St Joseph, Nelson Mandela, Bois Marchand, Cité CHA, Cité Dool, DBM Industrila Zone, Baptiste Lane, Morc Foondun, Dans les environs de Station De Police De Terre Rouge",
+      "from": "2023-10-31T05:00:00.000Z",
+      "to": "2023-10-31T08:00:00.000Z",
+      "id": "9c26ec3eaf1a1e0e48e4dd2e3b0772c3"
+    },
+    {
+      "date": "Le jeudi 26 octobre 2023 de  21:30:00 à  22:30:00",
+      "streets": "TERRE ROUGE SCHOOL LANE ET LES ALENTOURS DE WINNERS",
+      "from": "2023-10-26T17:30:00.000Z",
+      "to": "2023-10-26T18:30:00.000Z",
+      "id": "476a63e41a61e24f8a2bed5b752468ea"
+    },
+    {
+      "date": "Le jeudi 26 octobre 2023 de  09:45:00 à  10:30:00",
+      "streets": "NEERUNJUN LANE, NEAR DREAM PRICE",
+      "from": "2023-10-26T05:45:00.000Z",
+      "to": "2023-10-26T06:30:00.000Z",
+      "id": "b16062c8927436ac768fbcf8efd3769e"
+    },
+    {
+      "date": "Le lundi 2 octobre 2023 de  14:00:00 à  17:00:00",
+      "streets": "MLLE LAURE TERRE ROUGE",
+      "from": "2023-10-02T10:00:00.000Z",
+      "to": "2023-10-02T13:00:00.000Z",
+      "id": "e1098866cf767eceb8ff20fd2256ba43"
+    },
+    {
+      "date": "Le dimanche 1 octobre 2023 de  08:00:00 à  15:00:00",
+      "streets": "Basalt Lane, Morcellement Foondun, KJW Lane, School Lane, dans les environs de DreamPrice, Mahatma Gandhi Road, Winners et aussi une partie de Copain Lane",
+      "from": "2023-10-01T04:00:00.000Z",
+      "to": "2023-10-01T11:00:00.000Z",
+      "id": "aa465362c61d28823841073e625f8195"
+    },
+    {
+      "date": "Le dimanche 24 septembre 2023 de  14:00:00 à  15:00:00",
+      "streets": "Les abonnés de Terre Rouge",
+      "from": "2023-09-24T10:00:00.000Z",
+      "to": "2023-09-24T11:00:00.000Z",
+      "id": "9615641d44fb168a57265d43270504da"
+    },
+    {
+      "date": "Le dimanche 24 septembre 2023 de  08:00:00 à  15:00:00",
+      "streets": "Dans Les environs de Sinatambou, Route St Joseph, Route Nelson Mandela, Morc Peerun, Morc Greenpark, Camp la boue et Station de Police",
+      "from": "2023-09-24T04:00:00.000Z",
+      "to": "2023-09-24T11:00:00.000Z",
+      "id": "5d0cc45c0259556430af5b2d01145cba"
+    },
+    {
+      "date": "Le dimanche 20 août 2023 de  08:30:00 à  14:30:00",
+      "streets": "Route Royale T.Rouge , Basalt Lane, KJW Lane, Copain Lane, Winners T.Rouge, Dreamprice T.Rouge et les alentours",
+      "from": "2023-08-20T04:30:00.000Z",
+      "to": "2023-08-20T10:30:00.000Z",
+      "id": "5c47c3ff4980caccc9d35e0e9cb529ad"
+    },
+    {
+      "date": "Le samedi 8 juillet 2023 de  08:30:00 à  15:00:00",
+      "streets": "LES ABONNES DE TERRE ROUGE",
+      "from": "2023-07-08T04:30:00.000Z",
+      "to": "2023-07-08T11:00:00.000Z",
+      "id": "10e5d97b339cfbd2f65572135888e435"
+    },
+    {
+      "date": "Le lundi 3 juillet 2023 de  15:00:00 à  16:30:00",
+      "streets": "MORC PEERUN",
+      "from": "2023-07-03T11:00:00.000Z",
+      "to": "2023-07-03T12:30:00.000Z",
+      "id": "cb8b02fde0dbe0e9c4bfedd14a6b70ad"
+    },
+    {
+      "date": "Le lundi 12 juin 2023 de  18:00:00 à  20:00:00",
+      "streets": "RTE ST JOSEPH TERRE ROUGE",
+      "from": "2023-06-12T14:00:00.000Z",
+      "to": "2023-06-12T16:00:00.000Z",
+      "id": "557c855a297415afde1bd12820230b39"
+    },
+    {
+      "date": "Le dimanche 4 juin 2023 de  08:30:00 à  10:30:00",
+      "streets": "TERRE ROUGE/LE HOCHET",
+      "from": "2023-06-04T04:30:00.000Z",
+      "to": "2023-06-04T06:30:00.000Z",
+      "id": "d94cb1d960c78ddbc396020a2e430b9b"
+    },
+    {
+      "date": "Le mercredi 31 mai 2023 de  13:00:00 à  18:00:00",
+      "streets": "CITE DOOL-MORC TARA-MORC FOUNDUN ROYAL RD TERRE ROUGE",
+      "from": "2023-05-31T09:00:00.000Z",
+      "to": "2023-05-31T14:00:00.000Z",
+      "id": "d25ab1b7bf95de182e120cb3f767ba51"
+    },
+    {
+      "date": "Le dimanche 7 mai 2023 de  09:00:00 à  15:00:00",
+      "streets": "LOIS LANE LE HOCHET",
+      "from": "2023-05-07T05:00:00.000Z",
+      "to": "2023-05-07T11:00:00.000Z",
+      "id": "7a476195727224ba155e81a409c9c33f"
+    },
+    {
+      "date": "Le dimanche 7 mai 2023 de  06:30:00 à  15:00:00",
+      "streets": "BOIS PIGNOLET, MORC CHAVRY, SHASTRI RD, TERRE ROUGE, BOIS MARCHAND, RTE ST JOSEPH, CAMP LA BOUE, CROISEE MONTAGNE LONGUE, FLORIDA LANE, BAPTISTE LANE ET NELSON MANDELA",
+      "from": "2023-05-07T02:30:00.000Z",
+      "to": "2023-05-07T11:00:00.000Z",
+      "id": "86d8d90280c2087a0d75e29c402a2801"
+    },
+    {
+      "date": "Le lundi 17 avril 2023 de  11:00:00 à  12:30:00",
+      "streets": "Neerunjun Lane,Royal Road(Nr Dream Price)",
+      "from": "2023-04-17T07:00:00.000Z",
+      "to": "2023-04-17T08:30:00.000Z",
+      "id": "bb0cbd83a248ddbfc30d2aee09bc40b9"
+    },
+    {
+      "date": "Le vendredi 14 avril 2023 de  14:15:00 à  16:30:00",
+      "streets": "TERRE ROUGE NEAR WINNERS",
+      "from": "2023-04-14T10:15:00.000Z",
+      "to": "2023-04-14T12:30:00.000Z",
+      "id": "d88d36b9c6caa4a1b15b29bd4ed91b25"
+    },
+    {
+      "date": "Le dimanche 2 avril 2023 de  14:00:00 à  00:00:00",
+      "streets": "BOIS MARCHAND RD TERRE ROUGE=POLE BROKEN",
+      "from": "2023-04-02T10:00:00.000Z",
+      "to": "2023-04-01T20:00:00.000Z",
+      "id": "eab3065c8dfe711fc04db6ba06f0a1dc"
+    },
+    {
+      "date": "Le jeudi 16 mars 2023 de  11:30:00 à  12:30:00",
+      "streets": "ST JOSEPH,CP LA BOUE,B MARCHAND,CITE DOOL,MORC RAGOOBAR,BAPTISTE LANE,LA CROISEE MT LONGUE,STATION LA POLCE T ROUGE",
+      "from": "2023-03-16T07:30:00.000Z",
+      "to": "2023-03-16T08:30:00.000Z",
+      "id": "8e9dc1e7bd6847d3c4d6de2de0861192"
+    },
+    {
+      "date": "Le mardi 10 janvier 2023 de  20:00:00 à  22:00:00",
+      "streets": "FLORIDA LANE AND NEARBY REGION",
+      "from": "2023-01-10T16:00:00.000Z",
+      "to": "2023-01-10T18:00:00.000Z",
+      "id": "1cf0b6b488c87fbdba2d9d4fa4a76c95"
+    },
+    {
+      "date": "Le mardi 27 décembre 2022 de  17:00:00 à  00:00:00",
+      "streets": "MLLE LAURE TERRE ROUGE-FLORIDA LANE",
+      "from": "2022-12-27T13:00:00.000Z",
+      "to": "2022-12-26T20:00:00.000Z",
+      "id": "d8e1e8c8242dd08b3d4264ff14ee6d41"
+    },
+    {
+      "date": "Le jeudi 22 décembre 2022 de  10:30:00 à  11:30:00",
+      "streets": "TERRE ROUGE",
+      "from": "2022-12-22T06:30:00.000Z",
+      "to": "2022-12-22T07:30:00.000Z",
+      "id": "86c939dbb191fafb54bbdc8548de53dd"
+    },
+    {
+      "date": "Le mardi 13 décembre 2022 de  04:00:00 à  13:00:00",
+      "streets": "SCHOOL RD LE HOCHET TERRE ROUGR",
+      "from": "2022-12-13T00:00:00.000Z",
+      "to": "2022-12-13T09:00:00.000Z",
+      "id": "79c92017dd014cb6b43d5950dd6867c4"
+    },
+    {
+      "date": "Le jeudi 8 décembre 2022 de  09:15:00 à  10:30:00",
+      "streets": "RICHE TERRE TERRE ROUGE NEAR ARCHEMICS",
+      "from": "2022-12-08T05:15:00.000Z",
+      "to": "2022-12-08T06:30:00.000Z",
+      "id": "86b10de6dc4660cf539a030f8915b37d"
+    },
+    {
+      "date": "Le jeudi 20 octobre 2022 de  07:00:00 à  13:00:00",
+      "streets": "LE HOCHET TERRE ROUGE",
+      "from": "2022-10-20T03:00:00.000Z",
+      "to": "2022-10-20T09:00:00.000Z",
+      "id": "45c3b9da276b54659d307d51c440d6df"
+    },
+    {
+      "date": "Le mercredi 12 octobre 2022 de  13:30:00 à  15:30:00",
+      "streets": "ST JOSEPH RD,T BAY RD,PART OF ARSENAL",
+      "from": "2022-10-12T09:30:00.000Z",
+      "to": "2022-10-12T11:30:00.000Z",
+      "id": "37a80d3d41a88deb648cfcced0278593"
+    },
+    {
+      "date": "Le dimanche 18 septembre 2022 de  08:30:00 à  15:30:00",
+      "streets": "DANS LES ENVIRONS DE LÉGLISE SAINT JOSEPH, LAND SETTLEMENT, REHM GRINAKER ET INDIAN OIL",
+      "from": "2022-09-18T04:30:00.000Z",
+      "to": "2022-09-18T11:30:00.000Z",
+      "id": "273f7dd524aaeb321328adabaea93e8a"
+    },
+    {
+      "date": "Le dimanche 7 août 2022 de  14:00:00 à  15:30:00",
+      "streets": "Les abonnés habitant Mlle Laure, Bois Pignolet, Morcellement Savry, Le Hochet, Morcellement Raffray et Terre Rouge",
+      "from": "2022-08-07T10:00:00.000Z",
+      "to": "2022-08-07T11:30:00.000Z",
+      "id": "f18e9650bb3e8acad4352dcf87604864"
+    },
+    {
+      "date": "Le dimanche 7 août 2022 de  07:00:00 à  15:30:00",
+      "streets": "Les abonnés habitant Shastri Road à Bois Pignolet",
+      "from": "2022-08-07T03:00:00.000Z",
+      "to": "2022-08-07T11:30:00.000Z",
+      "id": "765e84ca4452c180ce1f50d55eb4c285"
+    },
+    {
+      "date": "Le samedi 25 juin 2022 de  15:00:00 à  16:00:00",
+      "streets": "BUNWAREE LANE",
+      "from": "2022-06-25T11:00:00.000Z",
+      "to": "2022-06-25T12:00:00.000Z",
+      "id": "3e17b19a9080a59471133a64356a10aa"
+    },
+    {
+      "date": "Le jeudi 16 juin 2022 de  14:30:00 à  16:30:00",
+      "streets": "BASALT LANE TERRE ROUGE NR WINNERS",
+      "from": "2022-06-16T10:30:00.000Z",
+      "to": "2022-06-16T12:30:00.000Z",
+      "id": "20549fdc0771e9404dc64df537d92e8b"
+    },
+    {
+      "date": "Le samedi 7 mai 2022 de  09:30:00 à  12:00:00",
+      "streets": "Terre Rouge near Telecom/Police Station",
+      "from": "2022-05-07T05:30:00.000Z",
+      "to": "2022-05-07T08:00:00.000Z",
+      "id": "52a2ffecd4bb25f918e315925820effe"
+    },
+    {
+      "date": "Le lundi 14 mars 2022 de  22:10:00 à  23:30:00",
+      "streets": "ROYAL ROAD,VILLAGE HALL,MOSQUE AND AJACENT LANES TERRE ROUGE",
+      "from": "2022-03-14T18:10:00.000Z",
+      "to": "2022-03-14T19:30:00.000Z",
+      "id": "e8d7ef4f5616d158c1bd83825dc9190b"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2024-04-03",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.506Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mercredi 3 avril 2024 de  08:30:00 à  15:30:00",
+      "locality": "LA ROSA",
+      "localitySlug": "la-rosa",
+      "streets": "La Rosa habitant dans le périmètre et les rues suivantes: Kalimaye Road et EDC La Rosa",
+      "district": "grandport",
+      "from": "2024-04-03T04:30:00.000Z",
+      "to": "2024-04-03T11:30:00.000Z",
+      "id": "8fc3f8e30ca45c2da35eaaeb91975ed5"
+    },
+    {
+      "date": "Le mercredi 3 avril 2024 de  09:30:00 à  11:00:00",
+      "locality": "FOND DU SAC",
+      "localitySlug": "fond-du-sac",
+      "streets": "Royal Road",
+      "district": "pamplemousses",
+      "from": "2024-04-03T05:30:00.000Z",
+      "to": "2024-04-03T07:00:00.000Z",
+      "id": "ed2b712c7d6c4949aadcd2903b9ad09f"
+    },
+    {
+      "date": "Le mercredi 3 avril 2024 de  09:30:00 à  12:30:00",
+      "locality": "CAMP LEVIEUX ( CUREPIPE )",
+      "localitySlug": "camp-levieux",
+      "streets": "Camp Levieux,Eau Coulee",
+      "district": "plainewilhems",
+      "from": "2024-04-03T05:30:00.000Z",
+      "to": "2024-04-03T08:30:00.000Z",
+      "id": "384d22890164e50a8628b249412fae32"
+    },
+    {
+      "date": "Le mercredi 3 avril 2024 de  10:00:00 à  14:00:00",
+      "locality": "MOUROUK(RODRIGUES)",
+      "localitySlug": "mourouk",
+      "streets": "LES ABONNES DE MOUROUK.",
+      "district": "rodrigues",
+      "from": "2024-04-03T06:00:00.000Z",
+      "to": "2024-04-03T10:00:00.000Z",
+      "id": "979bf118c6eff67d8498d5798d2f4c91"
+    }
+  ]
+}

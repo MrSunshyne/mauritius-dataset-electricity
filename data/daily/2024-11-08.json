@@ -1,0 +1,38 @@
+{
+  "date": "2024-11-08",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.515Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le vendredi 8 novembre 2024 de  09:30:00 à  14:00:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "MEDINE - LEX MOULIN SUCRIERE DE MEDINE",
+      "district": "blackriver",
+      "from": "2024-11-08T05:30:00.000Z",
+      "to": "2024-11-08T10:00:00.000Z",
+      "id": "51ff6c3a38615e78ac0c786d8ffcda37"
+    },
+    {
+      "date": "Le vendredi 8 novembre 2024 de  13:30:00 à  14:30:00",
+      "locality": "LA LAURA SAINT PIERRE",
+      "localitySlug": "la-laura-saint-pierre",
+      "streets": "La Laura",
+      "district": "moka",
+      "from": "2024-11-08T09:30:00.000Z",
+      "to": "2024-11-08T10:30:00.000Z",
+      "id": "971edf223b96e10504edc21fac4510c3"
+    },
+    {
+      "date": "Le vendredi 8 novembre 2024 de  09:00:00 à  16:00:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "Esprit Dennemont, Jacmin, Glover, Challenger, Ivanoe, Elizabeth St, Comete St, en partie Ave Arianne et dans les environs",
+      "district": "plainewilhems",
+      "from": "2024-11-08T05:00:00.000Z",
+      "to": "2024-11-08T12:00:00.000Z",
+      "id": "61cc816fb1e468fe74e708d09deec72d"
+    }
+  ]
+}

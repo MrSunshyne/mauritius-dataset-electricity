@@ -1,0 +1,38 @@
+{
+  "date": "2025-04-11",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.522Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le vendredi 11 avril 2025 de  09:50:00 à  13:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "MORC MADOO",
+      "district": "pamplemousses",
+      "from": "2025-04-11T05:50:00.000Z",
+      "to": "2025-04-11T09:00:00.000Z",
+      "id": "ddd62457d2d486c53848302b0e2f37ec"
+    },
+    {
+      "date": "Le vendredi 11 avril 2025 de  09:00:00 à  13:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "RESIDENCE JASMIN, RESIDENCE LA COLOMBE ET RESIDENCE ATLEECITE BOURG",
+      "district": "plainewilhems",
+      "from": "2025-04-11T05:00:00.000Z",
+      "to": "2025-04-11T09:00:00.000Z",
+      "id": "0042dc18e9ecd68d91d2b8db64055d4c"
+    },
+    {
+      "date": "Le vendredi 11 avril 2025 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Petit Brulée, Thammes et Montagne Malgache",
+      "district": "rodrigues",
+      "from": "2025-04-11T04:30:00.000Z",
+      "to": "2025-04-11T11:00:00.000Z",
+      "id": "9c42c001d22ab160de357717cb2b5461"
+    }
+  ]
+}

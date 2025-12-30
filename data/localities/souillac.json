@@ -1,0 +1,466 @@
+{
+  "slug": "souillac",
+  "name": "SOUILLAC",
+  "district": "savanne",
+  "generated": "2025-12-30T19:07:15.859Z",
+  "outageCount": 65,
+  "firstOutage": "2022-06-05",
+  "lastOutage": "2025-11-15",
+  "outages": [
+    {
+      "date": "Le samedi 15 novembre 2025 de  08:45:00 à  16:00:00",
+      "streets": "Morc Gris Gris,Souillac",
+      "from": "2025-11-15T04:45:00.000Z",
+      "to": "2025-11-15T12:00:00.000Z",
+      "id": "b526a576c28da8b85091deda64d36ca2"
+    },
+    {
+      "date": "Le dimanche 9 novembre 2025 de  09:00:00 à  15:00:00",
+      "streets": "Le village de Souillac",
+      "from": "2025-11-09T05:00:00.000Z",
+      "to": "2025-11-09T11:00:00.000Z",
+      "id": "98ca5c5f4eea33a28f462e673d9f50ce"
+    },
+    {
+      "date": "Le vendredi 17 octobre 2025 de  09:00:00 à  12:00:00",
+      "streets": "MORC GRIS GRIS",
+      "from": "2025-10-17T05:00:00.000Z",
+      "to": "2025-10-17T08:00:00.000Z",
+      "id": "44bce106c2f52ecb015e6bf8a02859a4"
+    },
+    {
+      "date": "Le dimanche 5 octobre 2025 de  09:00:00 à  15:00:00",
+      "streets": "Le village de Souillac, Morcellement Gris Gris, Gris Gris et Domaine Gris Gris",
+      "from": "2025-10-05T05:00:00.000Z",
+      "to": "2025-10-05T11:00:00.000Z",
+      "id": "34e2b9814359b509d9cd290755f1d9ae"
+    },
+    {
+      "date": "Le mardi 23 septembre 2025 de  09:15:00 à  19:00:00",
+      "streets": "PART OF SOUILLAC, LADY BARKLY, TERRACINE AND SURROUNDINGS",
+      "from": "2025-09-23T05:15:00.000Z",
+      "to": "2025-09-23T15:00:00.000Z",
+      "id": "218413383cec973ac01986f5d6e0c2ad"
+    },
+    {
+      "date": "Le mardi 23 septembre 2025 de  09:00:00 à  15:00:00",
+      "streets": "Morcellement Lady Barkly Souillac et Morcellement Terracine",
+      "from": "2025-09-23T05:00:00.000Z",
+      "to": "2025-09-23T11:00:00.000Z",
+      "id": "dc4b5842f7c7cc5666665659b264e629"
+    },
+    {
+      "date": "Le mardi 2 septembre 2025 de  10:30:00 à  12:00:00",
+      "streets": "LADY BARKLY",
+      "from": "2025-09-02T06:30:00.000Z",
+      "to": "2025-09-02T08:00:00.000Z",
+      "id": "103ca17ae25c6faf66ada60ff9afdabb"
+    },
+    {
+      "date": "Le jeudi 21 août 2025 de  09:00:00 à  13:00:00",
+      "streets": "LADY BARKLY SOUILLAC",
+      "from": "2025-08-21T05:00:00.000Z",
+      "to": "2025-08-21T09:00:00.000Z",
+      "id": "f477828afdee1826249ce349b004cb3b"
+    },
+    {
+      "date": "Le lundi 14 juillet 2025 de  08:30:00 à  11:00:00",
+      "streets": "Le village de Morc. Lady Barkly et Brise De Mer Souillac",
+      "from": "2025-07-14T04:30:00.000Z",
+      "to": "2025-07-14T07:00:00.000Z",
+      "id": "81e03df33c811f25b03408c3153382e4"
+    },
+    {
+      "date": "Le mercredi 2 juillet 2025 de  10:25:00 à  12:30:00",
+      "streets": "MORC VRS",
+      "from": "2025-07-02T06:25:00.000Z",
+      "to": "2025-07-02T08:30:00.000Z",
+      "id": "c782bf2810cd0defbb216bf304ed7884"
+    },
+    {
+      "date": "Le lundi 10 février 2025 de  08:30:00 à  16:00:00",
+      "streets": "Morcellement Gris Gris et VRS Beluga Souillac",
+      "from": "2025-02-10T04:30:00.000Z",
+      "to": "2025-02-10T12:00:00.000Z",
+      "id": "c87cef1cca7ecff32c6ab9f3a7f1c2ac"
+    },
+    {
+      "date": "Le dimanche 19 janvier 2025 de  08:30:00 à  16:00:00",
+      "streets": "Souillac, Morcellement Gris Gris et Domaine Gris Gris",
+      "from": "2025-01-19T04:30:00.000Z",
+      "to": "2025-01-19T12:00:00.000Z",
+      "id": "78985b00fb9b1002fa2386638794611d"
+    },
+    {
+      "date": "Le dimanche 8 décembre 2024 de  09:00:00 à  15:00:00",
+      "streets": "Morcellement Beluga Souillac",
+      "from": "2024-12-08T05:00:00.000Z",
+      "to": "2024-12-08T11:00:00.000Z",
+      "id": "09161c53f3d7f75c899f0366133edb97"
+    },
+    {
+      "date": "Le mardi 22 octobre 2024 de  16:30:00 à  18:00:00",
+      "streets": "whole village",
+      "from": "2024-10-22T12:30:00.000Z",
+      "to": "2024-10-22T14:00:00.000Z",
+      "id": "e1487dccc8d0c447b59b9da414dbf888"
+    },
+    {
+      "date": "Le vendredi 18 octobre 2024 de  13:30:00 à  16:00:00",
+      "streets": "TAMIL TEMPLE RD-STEVENSON RD- SAUZIER RD ROYAL RD SOUILLAC",
+      "from": "2024-10-18T09:30:00.000Z",
+      "to": "2024-10-18T12:00:00.000Z",
+      "id": "530cfc7ee4094670962323c0da7ece2c"
+    },
+    {
+      "date": "Le mardi 1 octobre 2024 de  08:30:00 à  15:00:00",
+      "streets": "St. Aubin Ducomer, Staff St. Aubin et Morcellement Beluga Souillac",
+      "from": "2024-10-01T04:30:00.000Z",
+      "to": "2024-10-01T11:00:00.000Z",
+      "id": "f7443dcd39ecda8765621abfd6eac7b7"
+    },
+    {
+      "date": "Le lundi 30 septembre 2024 de  14:00:00 à  17:00:00",
+      "streets": "Morcellement Lady Barkly et Terracine",
+      "from": "2024-09-30T10:00:00.000Z",
+      "to": "2024-09-30T13:00:00.000Z",
+      "id": "cef2b273af206c8c71b95b0e0d682a9a"
+    },
+    {
+      "date": "Le dimanche 22 septembre 2024 de  08:30:00 à  15:00:00",
+      "streets": "Souillac et Gris Gris",
+      "from": "2024-09-22T04:30:00.000Z",
+      "to": "2024-09-22T11:00:00.000Z",
+      "id": "b29d5f3075a1bef4bfb3f02e2b3d7d8b"
+    },
+    {
+      "date": "Le dimanche 15 septembre 2024 de  08:30:00 à  15:00:00",
+      "streets": "Souillac et Morcellement Gris Gris",
+      "from": "2024-09-15T04:30:00.000Z",
+      "to": "2024-09-15T11:00:00.000Z",
+      "id": "d385d411b360a1452595e5b0863a754a"
+    },
+    {
+      "date": "Le jeudi 8 août 2024 de  09:00:00 à  15:00:00",
+      "streets": "Morcellement Beluga Souillac",
+      "from": "2024-08-08T05:00:00.000Z",
+      "to": "2024-08-08T11:00:00.000Z",
+      "id": "f17b6b1ccc165895424db04b888abd27"
+    },
+    {
+      "date": "Le mercredi 7 août 2024 de  09:00:00 à  15:00:00",
+      "streets": "Le village de Gris Gris, Domaine Gris Gris et Lady Barkly Souillac",
+      "from": "2024-08-07T05:00:00.000Z",
+      "to": "2024-08-07T11:00:00.000Z",
+      "id": "abfd9435d3dcf66552c3c4b581700ae2"
+    },
+    {
+      "date": "Le mardi 6 août 2024 de  09:00:00 à  15:00:00",
+      "streets": "Morcellement Gris Gris",
+      "from": "2024-08-06T05:00:00.000Z",
+      "to": "2024-08-06T11:00:00.000Z",
+      "id": "f3e7811d9494549f9c7dcc92808ffe5b"
+    },
+    {
+      "date": "Le dimanche 28 juillet 2024 de  08:30:00 à  15:00:00",
+      "streets": "SOUILLAC, GRIS GRIS, DOMAINE GRIS GRIS",
+      "from": "2024-07-28T04:30:00.000Z",
+      "to": "2024-07-28T11:00:00.000Z",
+      "id": "e3eddc29ffdab57a252d3b276d9e144d"
+    },
+    {
+      "date": "Le mercredi 17 juillet 2024 de  08:30:00 à  15:00:00",
+      "streets": "Le village de Gris Gris et le domaine de Gris Gris",
+      "from": "2024-07-17T04:30:00.000Z",
+      "to": "2024-07-17T11:00:00.000Z",
+      "id": "e412c032dadd176cc9b4fe222ea58c26"
+    },
+    {
+      "date": "Le jeudi 11 juillet 2024 de  08:00:00 à  15:00:00",
+      "streets": "TERACCINE SOUILLAC",
+      "from": "2024-07-11T04:00:00.000Z",
+      "to": "2024-07-11T11:00:00.000Z",
+      "id": "6dd3ffef1678f1c8f3a0f3c2528c220c"
+    },
+    {
+      "date": "Le dimanche 16 juin 2024 de  08:30:00 à  15:00:00",
+      "streets": "Morcellement Lady Barkly Souillac, Brise De Mer et Morcellement Terracine",
+      "from": "2024-06-16T04:30:00.000Z",
+      "to": "2024-06-16T11:00:00.000Z",
+      "id": "d83e5bf25c8c097c4323dd2a7215ce1d"
+    },
+    {
+      "date": "Le samedi 4 mai 2024 de  08:30:00 à  15:00:00",
+      "streets": "Le village de Gris Gris souillac",
+      "from": "2024-05-04T04:30:00.000Z",
+      "to": "2024-05-04T11:00:00.000Z",
+      "id": "8645845779c9acc56ff922f08ef50d9d"
+    },
+    {
+      "date": "Le dimanche 18 février 2024 de  09:00:00 à  15:00:00",
+      "streets": "Souillac et Morcellement Gris Gris",
+      "from": "2024-02-18T05:00:00.000Z",
+      "to": "2024-02-18T11:00:00.000Z",
+      "id": "f14a9e7758e168c1d77a517607e31390"
+    },
+    {
+      "date": "Le dimanche 11 février 2024 de  08:30:00 à  14:00:00",
+      "streets": "LADY BARKLY SOUILLAC",
+      "from": "2024-02-11T04:30:00.000Z",
+      "to": "2024-02-11T10:00:00.000Z",
+      "id": "b9813e2fe652ca8db3f4736067a6e1be"
+    },
+    {
+      "date": "Le mercredi 7 février 2024 de  09:00:00 à  15:00:00",
+      "streets": "Morcellement Gris Gris",
+      "from": "2024-02-07T05:00:00.000Z",
+      "to": "2024-02-07T11:00:00.000Z",
+      "id": "d43888042bf48eac83f7849cad1faacc"
+    },
+    {
+      "date": "Le vendredi 12 janvier 2024 de  14:30:00 à  15:30:00",
+      "streets": "SOUILLAC NEAR CNT",
+      "from": "2024-01-12T10:30:00.000Z",
+      "to": "2024-01-12T11:30:00.000Z",
+      "id": "c066509cb8029e47e5bffb0ee4dd0031"
+    },
+    {
+      "date": "Le mardi 17 octobre 2023 de  09:00:00 à  15:00:00",
+      "streets": "MORC VRS SOUILLAC",
+      "from": "2023-10-17T05:00:00.000Z",
+      "to": "2023-10-17T11:00:00.000Z",
+      "id": "1e22b687d8de358fe558ee5f77dbf094"
+    },
+    {
+      "date": "Le lundi 25 septembre 2023 de  08:30:00 à  16:00:00",
+      "streets": "MORC GRIS GRIS",
+      "from": "2023-09-25T04:30:00.000Z",
+      "to": "2023-09-25T12:00:00.000Z",
+      "id": "eb60865845e6e02f3e273414d6558b5e"
+    },
+    {
+      "date": "Le mercredi 13 septembre 2023 de  15:30:00 à  18:00:00",
+      "streets": "Souillac, Gris Gris et Domaine Gris Gris",
+      "from": "2023-09-13T11:30:00.000Z",
+      "to": "2023-09-13T14:00:00.000Z",
+      "id": "f0971aa48605e52e576b1a3f603d9fa1"
+    },
+    {
+      "date": "Le dimanche 27 août 2023 de  08:30:00 à  15:00:00",
+      "streets": "Souillac,Gris Gris et Domaine Gris Gris",
+      "from": "2023-08-27T04:30:00.000Z",
+      "to": "2023-08-27T11:00:00.000Z",
+      "id": "6851a9539fcd4d611d3b61cd31a06172"
+    },
+    {
+      "date": "Le dimanche 13 août 2023 de  09:00:00 à  15:00:00",
+      "streets": "Morcellement Lady Barkly Souillac, Morcellement Terracine, NHDC Terracine et Trois Bras Surinam",
+      "from": "2023-08-13T05:00:00.000Z",
+      "to": "2023-08-13T11:00:00.000Z",
+      "id": "8a745a769d2599a4c6835bae7bac5a3e"
+    },
+    {
+      "date": "Le dimanche 6 août 2023 de  09:00:00 à  15:00:00",
+      "streets": "Morcellement Lady Barkly Souillac, Morcellement Terracine, NHDC Terracine et Trois Bras Surinam",
+      "from": "2023-08-06T05:00:00.000Z",
+      "to": "2023-08-06T11:00:00.000Z",
+      "id": "604e39990622b23a30d9c5a034f941a4"
+    },
+    {
+      "date": "Le dimanche 23 juillet 2023 de  09:00:00 à  15:00:00",
+      "streets": "Les abonnes de Morcellent Terracine",
+      "from": "2023-07-23T05:00:00.000Z",
+      "to": "2023-07-23T11:00:00.000Z",
+      "id": "c6c14291f3a36dce73e693a6a6e664e3"
+    },
+    {
+      "date": "Le lundi 3 juillet 2023 de  19:50:00 à  20:50:00",
+      "streets": "MORC GRIS GRIS",
+      "from": "2023-07-03T15:50:00.000Z",
+      "to": "2023-07-03T16:50:00.000Z",
+      "id": "067e0d752756b3aca8c673a5cdd24f6d"
+    },
+    {
+      "date": "Le vendredi 16 juin 2023 de  09:00:00 à  15:00:00",
+      "streets": "LES ABONNES DE MORCELLEMENT OMNICANE ST FELIX ET RIAMBEL POMPONETTE.",
+      "from": "2023-06-16T05:00:00.000Z",
+      "to": "2023-06-16T11:00:00.000Z",
+      "id": "dfd636c157c303ea9bc258344cd29518"
+    },
+    {
+      "date": "Le dimanche 4 juin 2023 de  09:00:00 à  15:00:00",
+      "streets": "Le Village de Souillac, Gris Gris, Domaine Gris Gris",
+      "from": "2023-06-04T05:00:00.000Z",
+      "to": "2023-06-04T11:00:00.000Z",
+      "id": "03bacaa343ae84c89cc8b0554c8ffd4b"
+    },
+    {
+      "date": "Le dimanche 21 mai 2023 de  09:00:00 à  16:00:00",
+      "streets": "Morcellement Gris Gris, Domaine Gris Gris et le village de Souillac",
+      "from": "2023-05-21T05:00:00.000Z",
+      "to": "2023-05-21T12:00:00.000Z",
+      "id": "c7617d77b945db94e665e42547727804"
+    },
+    {
+      "date": "Le dimanche 14 mai 2023 de  09:00:00 à  16:00:00",
+      "streets": "Morcellement Lady Barkly et Morcellement Terracine Souillac",
+      "from": "2023-05-14T05:00:00.000Z",
+      "to": "2023-05-14T12:00:00.000Z",
+      "id": "4aac58cad3d16a6885dced8ddd7d47a2"
+    },
+    {
+      "date": "Le lundi 24 avril 2023 de  15:30:00 à  18:30:00",
+      "streets": "LADY BARKLY/TERRACINE",
+      "from": "2023-04-24T11:30:00.000Z",
+      "to": "2023-04-24T14:30:00.000Z",
+      "id": "73b60b3dd50db5e20a8cb7290594ca35"
+    },
+    {
+      "date": "Le mercredi 19 avril 2023 de  10:15:00 à  12:00:00",
+      "streets": "ROYAL RD SOUILLAC NR TRAFFIC CENTRE",
+      "from": "2023-04-19T06:15:00.000Z",
+      "to": "2023-04-19T08:00:00.000Z",
+      "id": "16cfd6047754c71bc461e9a531a8b76a"
+    },
+    {
+      "date": "Le dimanche 5 mars 2023 de  09:00:00 à  15:00:00",
+      "streets": "Les abonnés de Lady Barkly Souillac et Morcellement Gris Gris",
+      "from": "2023-03-05T05:00:00.000Z",
+      "to": "2023-03-05T11:00:00.000Z",
+      "id": "25de816695324fefc000fa7112dc4961"
+    },
+    {
+      "date": "Le jeudi 9 février 2023 de  09:00:00 à  16:00:00",
+      "streets": "Les abonnés du villages de Terracine, Trois Bras et Surinam.",
+      "from": "2023-02-09T05:00:00.000Z",
+      "to": "2023-02-09T12:00:00.000Z",
+      "id": "a7ce9df5fb7c7ccfc5ac289ad75be396"
+    },
+    {
+      "date": "Le mercredi 8 février 2023 de  15:00:00 à  18:00:00",
+      "streets": "LES ABONNES DE LADY BARKLY SOUILLAC",
+      "from": "2023-02-08T11:00:00.000Z",
+      "to": "2023-02-08T14:00:00.000Z",
+      "id": "ae2b2b3f2e5b1aab345c723576583d1b"
+    },
+    {
+      "date": "Le mercredi 8 février 2023 de  09:15:00 à  17:15:00",
+      "streets": "PART OF RIVIERE DU POSTE UP TILL MARE TABAC.",
+      "from": "2023-02-08T05:15:00.000Z",
+      "to": "2023-02-08T13:15:00.000Z",
+      "id": "238cd692507535b0ea7e87078a25950c"
+    },
+    {
+      "date": "Le mercredi 8 février 2023 de  09:00:00 à  14:00:00",
+      "streets": "MORCELLEMENT GRIS GRIS",
+      "from": "2023-02-08T05:00:00.000Z",
+      "to": "2023-02-08T10:00:00.000Z",
+      "id": "665b36cef1427d69d82c281922a2df58"
+    },
+    {
+      "date": "Le dimanche 5 février 2023 de  09:00:00 à  15:00:00",
+      "streets": "SOUILLAC-GRIS GRIS",
+      "from": "2023-02-05T05:00:00.000Z",
+      "to": "2023-02-05T11:00:00.000Z",
+      "id": "099b3caf154a11e7a054060507445fda"
+    },
+    {
+      "date": "Le mardi 31 janvier 2023 de  09:00:00 à  15:00:00",
+      "streets": "Morcellement Beluga Souillac, Union St. Aubin et Ducomer St. Aubin",
+      "from": "2023-01-31T05:00:00.000Z",
+      "to": "2023-01-31T11:00:00.000Z",
+      "id": "e90a31af799f6538d33cf1950ed95699"
+    },
+    {
+      "date": "Le mardi 24 janvier 2023 de  09:00:00 à  15:00:00",
+      "streets": "Morcellement Lady Barkly Souillac et Morcellement Terracine",
+      "from": "2023-01-24T05:00:00.000Z",
+      "to": "2023-01-24T11:00:00.000Z",
+      "id": "fd66279b8e33fb5df0f886a448712d91"
+    },
+    {
+      "date": "Le jeudi 15 décembre 2022 de  16:00:00 à  17:30:00",
+      "streets": "SOUILLAC & MORC GRIS GRIS",
+      "from": "2022-12-15T12:00:00.000Z",
+      "to": "2022-12-15T13:30:00.000Z",
+      "id": "679f0218a1e90368caf1124eb9f5a08a"
+    },
+    {
+      "date": "Le dimanche 11 décembre 2022 de  08:30:00 à  15:00:00",
+      "streets": "Morc VRS Souillac",
+      "from": "2022-12-11T04:30:00.000Z",
+      "to": "2022-12-11T11:00:00.000Z",
+      "id": "17367ab05557d0e0777ee8f07f747015"
+    },
+    {
+      "date": "Le dimanche 4 décembre 2022 de  09:00:00 à  15:00:00",
+      "streets": "Souillac, Gris Gris et Domaine Gris Gris",
+      "from": "2022-12-04T05:00:00.000Z",
+      "to": "2022-12-04T11:00:00.000Z",
+      "id": "96ab48586abffecd817d64812bd6183f"
+    },
+    {
+      "date": "Le dimanche 4 décembre 2022 de  08:30:00 à  15:30:00",
+      "streets": "EDW HART,MORISSON,DR SAUZIER---WHOLE SOUILLAC",
+      "from": "2022-12-04T04:30:00.000Z",
+      "to": "2022-12-04T11:30:00.000Z",
+      "id": "af82b20782ab7cec447b6e15dd043689"
+    },
+    {
+      "date": "Le mardi 8 novembre 2022 de  09:00:00 à  13:00:00",
+      "streets": "MORRISSON SOUILLAC",
+      "from": "2022-11-08T05:00:00.000Z",
+      "to": "2022-11-08T09:00:00.000Z",
+      "id": "5755f5d3ad92eb9e3afd8b39142f9726"
+    },
+    {
+      "date": "Le mardi 11 octobre 2022 de  11:00:00 à  16:00:00",
+      "streets": "SOUILLAC AND MORC GRIS GRIS",
+      "from": "2022-10-11T07:00:00.000Z",
+      "to": "2022-10-11T12:00:00.000Z",
+      "id": "cb6e390379b35e3ef660967edcdb6672"
+    },
+    {
+      "date": "Le mercredi 14 septembre 2022 de  09:00:00 à  12:00:00",
+      "streets": "VILLAGE DE SOULLIAC",
+      "from": "2022-09-14T05:00:00.000Z",
+      "to": "2022-09-14T08:00:00.000Z",
+      "id": "8f7f18f5c727cf71da2a72eeec0224a4"
+    },
+    {
+      "date": "Le dimanche 11 septembre 2022 de  08:30:00 à  16:00:00",
+      "streets": "Morcellement Lady Barkly, Terracine et Brise De Mer Souillac",
+      "from": "2022-09-11T04:30:00.000Z",
+      "to": "2022-09-11T12:00:00.000Z",
+      "id": "2e809b7d37c319306f7a6d5ffa8965d1"
+    },
+    {
+      "date": "Le vendredi 12 août 2022 de  09:00:00 à  15:00:00",
+      "streets": "Morcellement Gris Gris Souillac",
+      "from": "2022-08-12T05:00:00.000Z",
+      "to": "2022-08-12T11:00:00.000Z",
+      "id": "206f19329728234c60d77bbdbd9f2ed6"
+    },
+    {
+      "date": "Le mercredi 10 août 2022 de  09:00:00 à  15:00:00",
+      "streets": "Morc Gris Gris",
+      "from": "2022-08-10T05:00:00.000Z",
+      "to": "2022-08-10T11:00:00.000Z",
+      "id": "2ebb5ff6d03ce523c2f6fb783d9ea5bb"
+    },
+    {
+      "date": "Le dimanche 7 août 2022 de  09:00:00 à  15:00:00",
+      "streets": "VRS Souillac pres du restaurant Beluga et Ducomer St. Aubin",
+      "from": "2022-08-07T05:00:00.000Z",
+      "to": "2022-08-07T11:00:00.000Z",
+      "id": "8369f1eceb7e1ec73cf3b61221556ae4"
+    },
+    {
+      "date": "Le dimanche 5 juin 2022 de  09:00:00 à  16:00:00",
+      "streets": "SOUILLAC- MORC GRIS GRIS",
+      "from": "2022-06-05T05:00:00.000Z",
+      "to": "2022-06-05T12:00:00.000Z",
+      "id": "72715cfd28f40913e7f1ea8fe47423eb"
+    }
+  ]
+}

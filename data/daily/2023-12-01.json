@@ -1,0 +1,38 @@
+{
+  "date": "2023-12-01",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.501Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le vendredi 1 décembre 2023 de  11:30:00 à  12:30:00",
+      "locality": "RICHEMARE",
+      "localitySlug": "richemare",
+      "streets": "CHEMIN CO-OPERATIVE RICHEMARE",
+      "district": "flacq",
+      "from": "2023-12-01T07:30:00.000Z",
+      "to": "2023-12-01T08:30:00.000Z",
+      "id": "9b35c82b8d26d26f6493adbb2dc8d0de"
+    },
+    {
+      "date": "Le vendredi 1 décembre 2023 de  10:00:00 à  11:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "MORC SWAN, AVE DES ROSES, AVE DALIA, AVE CAPUCINE, AVE ANTHURIUM",
+      "district": "pamplemousses",
+      "from": "2023-12-01T06:00:00.000Z",
+      "to": "2023-12-01T07:00:00.000Z",
+      "id": "29c8857b8acff5aaf212ec19cc48f496"
+    },
+    {
+      "date": "Le vendredi 1 décembre 2023 de  09:30:00 à  14:00:00",
+      "locality": "LE HOCHET",
+      "localitySlug": "le-hochet",
+      "streets": "LOIS LANE, LE HOCHET",
+      "district": "portlouis",
+      "from": "2023-12-01T05:30:00.000Z",
+      "to": "2023-12-01T10:00:00.000Z",
+      "id": "d39677f3e28c0487ddc5a466b3831538"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2023-02-28",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.491Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mardi 28 février 2023 de  09:30:00 à  13:30:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "MORC RAMDANEE RIVIERENOIRE",
+      "district": "blackriver",
+      "from": "2023-02-28T05:30:00.000Z",
+      "to": "2023-02-28T09:30:00.000Z",
+      "id": "32e212ca089326e7292b64f0b0d6df7b"
+    },
+    {
+      "date": "Le mardi 28 février 2023 de  09:30:00 à  12:30:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "BELOUGER BLACK ROCK TAMARIN",
+      "district": "blackriver",
+      "from": "2023-02-28T05:30:00.000Z",
+      "to": "2023-02-28T08:30:00.000Z",
+      "id": "e0d825b77cde37a8f592f60d888d3d7d"
+    },
+    {
+      "date": "Le mardi 28 février 2023 de  09:00:00 à  15:00:00",
+      "locality": "AMITIE",
+      "localitySlug": "amitie",
+      "streets": "dans les environs du Route Royale et Bramsthan",
+      "district": "rivieredurempart",
+      "from": "2023-02-28T05:00:00.000Z",
+      "to": "2023-02-28T11:00:00.000Z",
+      "id": "d7884041fde7d4676738b0338a9e827f"
+    },
+    {
+      "date": "Le mardi 28 février 2023 de  09:00:00 à  15:00:00",
+      "locality": "CAMP DIABLE",
+      "localitySlug": "camp-diable",
+      "streets": "Le village De Camp Diable",
+      "district": "savanne",
+      "from": "2023-02-28T05:00:00.000Z",
+      "to": "2023-02-28T11:00:00.000Z",
+      "id": "0fe5d4735bc66e50ca1140710c007a13"
+    }
+  ]
+}

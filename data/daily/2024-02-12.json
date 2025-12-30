@@ -1,0 +1,78 @@
+{
+  "date": "2024-02-12",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.504Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le lundi 12 février 2024 de  10:30:00 à  13:00:00",
+      "locality": "NOUVELLE FRANCE",
+      "localitySlug": "nouvelle-france",
+      "streets": "NOUVELLE FRANCE",
+      "district": "grandport",
+      "from": "2024-02-12T06:30:00.000Z",
+      "to": "2024-02-12T09:00:00.000Z",
+      "id": "d823dd6057f9387d61e28db2b6516c66"
+    },
+    {
+      "date": "Le lundi 12 février 2024 de  09:30:00 à  11:30:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "Croisee Montagne Longue,Sinotex lane",
+      "district": "pamplemousses",
+      "from": "2024-02-12T05:30:00.000Z",
+      "to": "2024-02-12T07:30:00.000Z",
+      "id": "c37c053a49ee37720e4180e46bd9cc14"
+    },
+    {
+      "date": "Le lundi 12 février 2024 de  08:20:00 à  09:30:00",
+      "locality": "LONG MOUNTAIN",
+      "localitySlug": "long-mountain",
+      "streets": "LONG MOUNTAIN, NOTRE DAME, CREVE COEUR",
+      "district": "pamplemousses",
+      "from": "2024-02-12T04:20:00.000Z",
+      "to": "2024-02-12T05:30:00.000Z",
+      "id": "9df1bfd1fce6fe8300a24371f9a4c85a"
+    },
+    {
+      "date": "Le lundi 12 février 2024 de  15:35:00 à  17:45:00",
+      "locality": "PLAINE DES PAPAYES",
+      "localitySlug": "plaine-des-papayes",
+      "streets": "JAYPAL ROAD ET LES RUELLES ALENTOURS",
+      "district": "pamplemousses",
+      "from": "2024-02-12T11:35:00.000Z",
+      "to": "2024-02-12T13:45:00.000Z",
+      "id": "e562133f17cc57323b97dd0cda7a3308"
+    },
+    {
+      "date": "Le lundi 12 février 2024 de  16:30:00 à  18:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "DE CHAZAL,METEO",
+      "district": "plainewilhems",
+      "from": "2024-02-12T12:30:00.000Z",
+      "to": "2024-02-12T14:30:00.000Z",
+      "id": "18aac90396e845a9c8e74f8ac2f12998"
+    },
+    {
+      "date": "Le lundi 12 février 2024 de  16:25:00 à  18:25:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "CLARISSE HOUSE, ANGUS RD, FLOREAL RD ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2024-02-12T12:25:00.000Z",
+      "to": "2024-02-12T14:25:00.000Z",
+      "id": "bcf8a10056eae399da30f68f1c89d5ec"
+    },
+    {
+      "date": "Le lundi 12 février 2024 de  16:20:00 à  20:00:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "TOUT COURT RD, MORC PARMESSUR, MORC VAL DOISE, CAMPEMENT ROAD ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2024-02-12T12:20:00.000Z",
+      "to": "2024-02-12T16:00:00.000Z",
+      "id": "a4289733993fc80b43d42982abfb1866"
+    }
+  ]
+}

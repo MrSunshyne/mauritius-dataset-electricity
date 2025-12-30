@@ -1,0 +1,25 @@
+{
+  "slug": "petite-riviere-noire",
+  "name": "PETITE RIVIERE NOIRE",
+  "district": "plainewilhems",
+  "generated": "2025-12-30T19:07:15.784Z",
+  "outageCount": 2,
+  "firstOutage": "2022-09-23",
+  "lastOutage": "2024-03-05",
+  "outages": [
+    {
+      "date": "Le mardi 5 mars 2024 de  09:10:00 à  12:10:00",
+      "streets": "AVE COCOTIER PETITE RIVIERE NOIRE ET LES RUELLES ALENTOURS",
+      "from": "2024-03-05T05:10:00.000Z",
+      "to": "2024-03-05T08:10:00.000Z",
+      "id": "04e9f42f56871eee1bc7a572a3fc5c1d"
+    },
+    {
+      "date": "Le vendredi 23 septembre 2022 de  08:30:00 à  15:30:00",
+      "streets": "Morcellement Multipliant",
+      "from": "2022-09-23T04:30:00.000Z",
+      "to": "2022-09-23T11:30:00.000Z",
+      "id": "d2c2273439c66107c26be39dd86c2888"
+    }
+  ]
+}

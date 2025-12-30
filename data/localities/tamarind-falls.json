@@ -1,0 +1,46 @@
+{
+  "slug": "tamarind-falls",
+  "name": "TAMARIND FALLS",
+  "district": "blackriver",
+  "generated": "2025-12-30T19:07:15.863Z",
+  "outageCount": 5,
+  "firstOutage": "2023-03-15",
+  "lastOutage": "2024-07-16",
+  "outages": [
+    {
+      "date": "Le mardi 16 juillet 2024 de  08:30:00 à  16:30:00",
+      "streets": "TAMARINE FALLS ET MARE LONGUE",
+      "from": "2024-07-16T04:30:00.000Z",
+      "to": "2024-07-16T12:30:00.000Z",
+      "id": "8f29586de425eb8abb01f41df7e31291"
+    },
+    {
+      "date": "Le vendredi 5 juillet 2024 de  08:30:00 à  16:30:00",
+      "streets": "TAMARIND FALLS ET MARE LONGUE.",
+      "from": "2024-07-05T04:30:00.000Z",
+      "to": "2024-07-05T12:30:00.000Z",
+      "id": "6987a11811ee260fd07c307f216668ce"
+    },
+    {
+      "date": "Le lundi 15 avril 2024 de  13:30:00 à  17:00:00",
+      "streets": "SIMONET/TAMARIN FALL",
+      "from": "2024-04-15T09:30:00.000Z",
+      "to": "2024-04-15T13:00:00.000Z",
+      "id": "fc1e43e272931b268c79317eb264cb49"
+    },
+    {
+      "date": "Le mercredi 14 juin 2023 de  09:40:00 à  11:00:00",
+      "streets": "DANS LES ENRIVONS TAMARIND FALLS (ANTENNE MCML, RESTAURANT 7 CASCADES, LA FERME)",
+      "from": "2023-06-14T05:40:00.000Z",
+      "to": "2023-06-14T07:00:00.000Z",
+      "id": "49eaf4ad9ebf3b1faeea82965e471675"
+    },
+    {
+      "date": "Le mercredi 15 mars 2023 de  10:00:00 à  13:00:00",
+      "streets": "CLOSEL TAMARIND FALLS",
+      "from": "2023-03-15T06:00:00.000Z",
+      "to": "2023-03-15T09:00:00.000Z",
+      "id": "fbab93abc32a984a0106573331676c02"
+    }
+  ]
+}

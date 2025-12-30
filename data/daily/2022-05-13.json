@@ -1,0 +1,98 @@
+{
+  "date": "2022-05-13",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.482Z",
+  "outageCount": 9,
+  "outages": [
+    {
+      "date": "Le vendredi 13 mai 2022 de  08:30:00 à  15:30:00",
+      "locality": "YEMEN",
+      "localitySlug": "yemen",
+      "streets": "YEMEN CAMP, TAMARIN CAMP, WAHALA PUMPING ET MEDINE COLD STORE",
+      "district": "blackriver",
+      "from": "2022-05-13T04:30:00.000Z",
+      "to": "2022-05-13T11:30:00.000Z",
+      "id": "7aac5704e52de59d76667dd07e269eb6"
+    },
+    {
+      "date": "Le vendredi 13 mai 2022 de  08:30:00 à  00:00:00",
+      "locality": "SAINT HUBERT",
+      "localitySlug": "saint-hubert",
+      "streets": "Saint Hilaire et Saint Hubert",
+      "district": "grandport",
+      "from": "2022-05-13T04:30:00.000Z",
+      "to": "2022-05-12T20:00:00.000Z",
+      "id": "4a950286d5a60343472cffe9b300e2fb"
+    },
+    {
+      "date": "Le vendredi 13 mai 2022 de  15:00:00 à  16:00:00",
+      "locality": "LA ROSA",
+      "localitySlug": "la-rosa",
+      "streets": "KALIMAYE RD LA ROSA",
+      "district": "grandport",
+      "from": "2022-05-13T11:00:00.000Z",
+      "to": "2022-05-13T12:00:00.000Z",
+      "id": "a32f1bcd351003dbcc00451adac47aa8"
+    },
+    {
+      "date": "Le vendredi 13 mai 2022 de  08:30:00 à  15:30:00",
+      "locality": "REDUIT",
+      "localitySlug": "reduit",
+      "streets": "FAREI",
+      "district": "moka",
+      "from": "2022-05-13T04:30:00.000Z",
+      "to": "2022-05-13T11:30:00.000Z",
+      "id": "8c7486465d97600bce7334f4c6b8b57f"
+    },
+    {
+      "date": "Le vendredi 13 mai 2022 de  10:00:00 à  13:00:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "JHUBOO RD-KUMKUMA RD-TROU AUX BICHES RD",
+      "district": "pamplemousses",
+      "from": "2022-05-13T06:00:00.000Z",
+      "to": "2022-05-13T09:00:00.000Z",
+      "id": "66af53c45bc9821e9d920a4507044758"
+    },
+    {
+      "date": "Le vendredi 13 mai 2022 de  08:30:00 à  11:30:00",
+      "locality": "QUINZE CANTONS",
+      "localitySlug": "quinze-cantons",
+      "streets": "une partie de Route Quinze Cartons No. 1, un epartie de la Route Begue, Mootoo Lane et les environs",
+      "district": "plainewilhems",
+      "from": "2022-05-13T04:30:00.000Z",
+      "to": "2022-05-13T07:30:00.000Z",
+      "id": "611918e2687303fe9013f74ee3524d78"
+    },
+    {
+      "date": "Le vendredi 13 mai 2022 de  09:00:00 à  11:00:00",
+      "locality": "CITE MALHERBES",
+      "localitySlug": "cite-malherbes",
+      "streets": "CITE MALHERBES",
+      "district": "plainewilhems",
+      "from": "2022-05-13T05:00:00.000Z",
+      "to": "2022-05-13T07:00:00.000Z",
+      "id": "f03b83949092711719197b3cd1230b6f"
+    },
+    {
+      "date": "Le vendredi 13 mai 2022 de  10:00:00 à  15:00:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "BONNEFIN PAILLES",
+      "district": "portlouis",
+      "from": "2022-05-13T06:00:00.000Z",
+      "to": "2022-05-13T11:00:00.000Z",
+      "id": "c6c935079233a867787365a8a2102cfa"
+    },
+    {
+      "date": "Le vendredi 13 mai 2022 de  09:45:00 à  15:00:00",
+      "locality": "AMITIE",
+      "localitySlug": "amitie",
+      "streets": "le village dAmitié en integralité",
+      "district": "rivieredurempart",
+      "from": "2022-05-13T05:45:00.000Z",
+      "to": "2022-05-13T11:00:00.000Z",
+      "id": "a00787f33bb0d1a5bc3d81174f3679bd"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "date": "2022-05-17",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.482Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mardi 17 mai 2022 de  16:00:00 à  18:00:00",
+      "locality": "NEW GROVE",
+      "localitySlug": "new-grove",
+      "streets": "New Grove, Deux Bras Road et une partie de Gros Billot",
+      "district": "grandport",
+      "from": "2022-05-17T12:00:00.000Z",
+      "to": "2022-05-17T14:00:00.000Z",
+      "id": "ade7bf8d82f4069d92a85f5382664f57"
+    },
+    {
+      "date": "Le mardi 17 mai 2022 de  08:30:00 à  15:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Partie de D’Epinay, partie de Lionel Cox et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-05-17T04:30:00.000Z",
+      "to": "2022-05-17T11:00:00.000Z",
+      "id": "ed40eadc2aa461760b878845eb7df090"
+    },
+    {
+      "date": "Le mardi 17 mai 2022 de  15:00:00 à  17:30:00",
+      "locality": "HOLLYROOD",
+      "localitySlug": "hollyrood",
+      "streets": "3 MAMEL HOLLYROOD VACOAS",
+      "district": "plainewilhems",
+      "from": "2022-05-17T11:00:00.000Z",
+      "to": "2022-05-17T13:30:00.000Z",
+      "id": "d8606354e835478c98bccc4712be9e69"
+    }
+  ]
+}

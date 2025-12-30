@@ -1,0 +1,58 @@
+{
+  "date": "2023-03-28",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.492Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mardi 28 mars 2023 de  09:00:00 à  15:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "KOENIG LANE 1,2,3,4,5, MORC SOOBRATTY, MORC CHAMBOR, PART ROYAL RD PHOENIX, SAWMILL LANE AND SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2023-03-28T05:00:00.000Z",
+      "to": "2023-03-28T11:00:00.000Z",
+      "id": "308f1c23e31e6501083aafeef787a573"
+    },
+    {
+      "date": "Le mardi 28 mars 2023 de  10:35:00 à  13:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVENUE IBIS, AVENUE HIRONDELLE ET UNE PARTIE DE SODNAC Q.BORNES.",
+      "district": "plainewilhems",
+      "from": "2023-03-28T06:35:00.000Z",
+      "to": "2023-03-28T09:00:00.000Z",
+      "id": "02f7c104cd560846be030b68eababa66"
+    },
+    {
+      "date": "Le mardi 28 mars 2023 de  12:45:00 à  13:45:00",
+      "locality": "SAINT FRANCOIS",
+      "localitySlug": "saint-francois",
+      "streets": "TV ROAD SAINT FRANCOIS",
+      "district": "portlouis",
+      "from": "2023-03-28T08:45:00.000Z",
+      "to": "2023-03-28T09:45:00.000Z",
+      "id": "035fd91ea4ac70e32aebe3b78e6d5976"
+    },
+    {
+      "date": "Le mardi 28 mars 2023 de  10:45:00 à  13:45:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "LES ABONNES DE MORC SEEBOO CHEMIN VINT PIED PEREYBERE.",
+      "district": "rivieredurempart",
+      "from": "2023-03-28T06:45:00.000Z",
+      "to": "2023-03-28T09:45:00.000Z",
+      "id": "f3b57b44f52540edc64f38ca689497d6"
+    },
+    {
+      "date": "Le mardi 28 mars 2023 de  13:00:00 à  16:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "AQUAMARINE GRAND BAY (BEHIND SUPER U)",
+      "district": "rivieredurempart",
+      "from": "2023-03-28T09:00:00.000Z",
+      "to": "2023-03-28T12:00:00.000Z",
+      "id": "817dd5285c1ead68e41687395b2787d3"
+    }
+  ]
+}

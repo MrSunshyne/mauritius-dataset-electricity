@@ -1,0 +1,25 @@
+{
+  "slug": "graviers",
+  "name": "GRAVIERS(RODRIGUES)",
+  "district": "rodrigues",
+  "generated": "2025-12-30T19:07:15.690Z",
+  "outageCount": 2,
+  "firstOutage": "2024-08-24",
+  "lastOutage": "2025-11-22",
+  "outages": [
+    {
+      "date": "Le samedi 22 novembre 2025 de  08:30:00 à  15:00:00",
+      "streets": "Var Brule",
+      "from": "2025-11-22T04:30:00.000Z",
+      "to": "2025-11-22T11:00:00.000Z",
+      "id": "fddcd1aedb4babaf448a52b654097329"
+    },
+    {
+      "date": "Le samedi 24 août 2024 de  08:00:00 à  16:00:00",
+      "streets": "Batatran, Gravier, Var Brule et Anse Femi",
+      "from": "2024-08-24T04:00:00.000Z",
+      "to": "2024-08-24T12:00:00.000Z",
+      "id": "c7f034537bc0506c1918c8e5d07f6bab"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "date": "2024-01-22",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.504Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le lundi 22 janvier 2024 de  10:00:00 à  14:00:00",
+      "locality": "NOUVELLE FRANCE",
+      "localitySlug": "nouvelle-france",
+      "streets": "SAVANNE RD NOUVELLE FRANCE",
+      "district": "grandport",
+      "from": "2024-01-22T06:00:00.000Z",
+      "to": "2024-01-22T10:00:00.000Z",
+      "id": "abc1a65113161a54a8e4e284f855289c"
+    },
+    {
+      "date": "Le lundi 22 janvier 2024 de  09:30:00 à  00:00:00",
+      "locality": "NOUVELLE FRANCE",
+      "localitySlug": "nouvelle-france",
+      "streets": "Nouvelle France habitant dans le périmètre et les rues suivantes: Savanne Road, Ramdin Road, Beau Climat et Morcellement SIT Union Park",
+      "district": "grandport",
+      "from": "2024-01-22T05:30:00.000Z",
+      "to": "2024-01-21T20:00:00.000Z",
+      "id": "cdf0847cc11090635c2e2bd19f006f3f"
+    },
+    {
+      "date": "Le lundi 22 janvier 2024 de  12:30:00 à  15:30:00",
+      "locality": "BLUE BAY",
+      "localitySlug": "blue-bay",
+      "streets": "BLUE BAY, PTE DESNY",
+      "district": "grandport",
+      "from": "2024-01-22T08:30:00.000Z",
+      "to": "2024-01-22T11:30:00.000Z",
+      "id": "39c0afe33bf1bbefa195e62f5276fba0"
+    },
+    {
+      "date": "Le lundi 22 janvier 2024 de  09:30:00 à  12:00:00",
+      "locality": "BELLE ROSE  ( Q BORNES )",
+      "localitySlug": "belle-rose",
+      "streets": "SURAT RD-ROYAL RD BELLE ROSE",
+      "district": "plainewilhems",
+      "from": "2024-01-22T05:30:00.000Z",
+      "to": "2024-01-22T08:00:00.000Z",
+      "id": "40bd104b30e63569dd0a8703bc70507e"
+    },
+    {
+      "date": "Le lundi 22 janvier 2024 de  12:05:00 à  12:45:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "STE FAMILLE STE CROIX",
+      "district": "portlouis",
+      "from": "2024-01-22T08:05:00.000Z",
+      "to": "2024-01-22T08:45:00.000Z",
+      "id": "169c6435e76174cecd91caf2fd2c834b"
+    },
+    {
+      "date": "Le lundi 22 janvier 2024 de  15:00:00 à  16:00:00",
+      "locality": "ROCHE BOIS",
+      "localitySlug": "roche-bois",
+      "streets": "CITE R BOIS(M,N,O,P),NEARBY REGION",
+      "district": "portlouis",
+      "from": "2024-01-22T11:00:00.000Z",
+      "to": "2024-01-22T12:00:00.000Z",
+      "id": "a89f2f7ce385d8405331e133f78e912d"
+    },
+    {
+      "date": "Le lundi 22 janvier 2024 de  16:40:00 à  17:40:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "LATANIERS,RTE DES PAMPLEMOUSSES",
+      "district": "portlouis",
+      "from": "2024-01-22T12:40:00.000Z",
+      "to": "2024-01-22T13:40:00.000Z",
+      "id": "152c4bad76bd8eca388850c37519b7b6"
+    },
+    {
+      "date": "Le lundi 22 janvier 2024 de  18:00:00 à  00:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "PEREYBERE",
+      "district": "rivieredurempart",
+      "from": "2024-01-22T14:00:00.000Z",
+      "to": "2024-01-21T20:00:00.000Z",
+      "id": "961895b1d8d9582fe382e9d1f3a2cc24"
+    }
+  ]
+}

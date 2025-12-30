@@ -1,0 +1,58 @@
+{
+  "date": "2024-07-03",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.510Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mercredi 3 juillet 2024 de  08:30:00 à  16:30:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "DANS LES ENVIRONS DES RUES FLAMMANT,PELICAN, PINGOUIN, CYGOGNE, HIRONDELLE, IMPASSE PHOENIX ET UNE PARTIE DE LA ROUTE ROYAL",
+      "district": "pamplemousses",
+      "from": "2024-07-03T04:30:00.000Z",
+      "to": "2024-07-03T12:30:00.000Z",
+      "id": "c9e75b82934f1491a65ef3b3ecbd7544"
+    },
+    {
+      "date": "Le mercredi 3 juillet 2024 de  16:30:00 à  17:30:00",
+      "locality": "RICHE TERRE",
+      "localitySlug": "riche-terre",
+      "streets": "DANS LES ENVIRONS DE RICHE TERRE ROAD",
+      "district": "pamplemousses",
+      "from": "2024-07-03T12:30:00.000Z",
+      "to": "2024-07-03T13:30:00.000Z",
+      "id": "0e7dd0635f58e702eb42887b8044c45e"
+    },
+    {
+      "date": "Le mercredi 3 juillet 2024 de  09:15:00 à  12:30:00",
+      "locality": "BRITANNIA",
+      "localitySlug": "britannia",
+      "streets": "Camp Berthaud,Britannia",
+      "district": "plainewilhems",
+      "from": "2024-07-03T05:15:00.000Z",
+      "to": "2024-07-03T08:30:00.000Z",
+      "id": "87ab2a270e52c5e33613b08df8c2826c"
+    },
+    {
+      "date": "Le mercredi 3 juillet 2024 de  10:45:00 à  14:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Imp Boulle,Rue Lise",
+      "district": "plainewilhems",
+      "from": "2024-07-03T06:45:00.000Z",
+      "to": "2024-07-03T10:00:00.000Z",
+      "id": "0d9accb863571d65a29a76fc461ff11d"
+    },
+    {
+      "date": "Le mercredi 3 juillet 2024 de  10:00:00 à  11:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "Destiny Garden,Camp Carol",
+      "district": "rivieredurempart",
+      "from": "2024-07-03T06:00:00.000Z",
+      "to": "2024-07-03T07:00:00.000Z",
+      "id": "a7c2b587e8283a6ecddbe1af2839a5a0"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "hermitage",
+  "name": "HERMITAGE ( PANCHVATI )",
+  "district": "rivieredurempart",
+  "generated": "2025-12-30T19:07:15.696Z",
+  "outageCount": 2,
+  "firstOutage": "2023-10-22",
+  "lastOutage": "2024-04-20",
+  "outages": [
+    {
+      "date": "Le samedi 20 avril 2024 de  08:30:00 à  16:00:00",
+      "streets": "Morcellement Plaines de Hermitage: Avenue des Orchidées, Avenue Albert Einstein, Avenue Abdul kalen, Avenue Jean Marie Leclezio, Avenue William Shakespeare, Avenue Nelson Mandela, Avenue de la Republique, Avenue Arc En Ciel, Avenue L’independance Avenue Manilall Doctor, Morcellement VRS SLDC No. 2 Cinq Arpents",
+      "from": "2024-04-20T04:30:00.000Z",
+      "to": "2024-04-20T12:00:00.000Z",
+      "id": "971c55649be95e41e571d1349ba3e815"
+    },
+    {
+      "date": "Le dimanche 22 octobre 2023 de  08:15:00 à  16:00:00",
+      "streets": "Village de Hermitage Flacq",
+      "from": "2023-10-22T04:15:00.000Z",
+      "to": "2023-10-22T12:00:00.000Z",
+      "id": "203e44e990b04a5e7f4e993dd4a63b6a"
+    }
+  ]
+}

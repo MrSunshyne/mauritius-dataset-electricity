@@ -1,0 +1,68 @@
+{
+  "date": "2022-12-23",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.489Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le vendredi 23 décembre 2022 de  09:30:00 à  11:30:00",
+      "locality": "BALISSON",
+      "localitySlug": "balisson",
+      "streets": "MORC LES JARDINS BALISSON",
+      "district": "grandport",
+      "from": "2022-12-23T05:30:00.000Z",
+      "to": "2022-12-23T07:30:00.000Z",
+      "id": "94bdeeee81de858d0ac681ddb5f52518"
+    },
+    {
+      "date": "Le vendredi 23 décembre 2022 de  08:00:00 à  10:00:00",
+      "locality": "ARSENAL",
+      "localitySlug": "arsenal",
+      "streets": "ARSENAL",
+      "district": "pamplemousses",
+      "from": "2022-12-23T04:00:00.000Z",
+      "to": "2022-12-23T06:00:00.000Z",
+      "id": "b5b24af6daf276ed5bf52ce358921d2b"
+    },
+    {
+      "date": "Le vendredi 23 décembre 2022 de  12:00:00 à  14:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "PARTIE DE ROUTE FREDERIC BONNEFIN, IMPASSE BONNEFIN, MORC ROGERS ET PARTIE DE CAMP LEVIEUX",
+      "district": "plainewilhems",
+      "from": "2022-12-23T08:00:00.000Z",
+      "to": "2022-12-23T10:00:00.000Z",
+      "id": "84da24c6a2cbc6c2b8ca4b7c6a927dfb"
+    },
+    {
+      "date": "Le vendredi 23 décembre 2022 de  11:30:00 à  12:30:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "LES ENVIRONS DE BELL VILLAGE DEPUIS KOVIL VERS VENUS PORT LOUIS",
+      "district": "portlouis",
+      "from": "2022-12-23T07:30:00.000Z",
+      "to": "2022-12-23T08:30:00.000Z",
+      "id": "d69d27d17e92e95e15abebe1a68cb47c"
+    },
+    {
+      "date": "Le vendredi 23 décembre 2022 de  18:00:00 à  20:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "ROYAL ROAD AND ADJACENT STREETS INCLUDING CHINA TOWN,FORT VICTORIA",
+      "district": "portlouis",
+      "from": "2022-12-23T14:00:00.000Z",
+      "to": "2022-12-23T16:00:00.000Z",
+      "id": "c04c7b6accd00cb432f1cc818dc13391"
+    },
+    {
+      "date": "Le vendredi 23 décembre 2022 de  16:00:00 à  18:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Terre Rouge, Grand Baie, Cygangue, Vangar et Citronelle",
+      "district": "rodrigues",
+      "from": "2022-12-23T12:00:00.000Z",
+      "to": "2022-12-23T14:00:00.000Z",
+      "id": "974b303b40826893ebb12bccd338abef"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "mangues",
+  "name": "MANGUES(RODRIGUES)",
+  "district": "rodrigues",
+  "generated": "2025-12-30T19:07:15.731Z",
+  "outageCount": 3,
+  "firstOutage": "2025-03-20",
+  "lastOutage": "2025-03-29",
+  "outages": [
+    {
+      "date": "Le samedi 29 mars 2025 de  15:00:00 à  16:00:00",
+      "streets": "Montagne Du Sable et Grand La Fouche Mangues",
+      "from": "2025-03-29T11:00:00.000Z",
+      "to": "2025-03-29T12:00:00.000Z",
+      "id": "4e5c2f3fc63374c92b88022164d475f2"
+    },
+    {
+      "date": "Le samedi 29 mars 2025 de  08:30:00 à  09:30:00",
+      "streets": "Montagne Du Sable et Grand La Fouche Mangues",
+      "from": "2025-03-29T04:30:00.000Z",
+      "to": "2025-03-29T05:30:00.000Z",
+      "id": "0b6679b8d962127f468d262ef9893dc5"
+    },
+    {
+      "date": "Le jeudi 20 mars 2025 de  09:00:00 à  15:00:00",
+      "streets": "Mangues et Montagne Du Sable",
+      "from": "2025-03-20T05:00:00.000Z",
+      "to": "2025-03-20T11:00:00.000Z",
+      "id": "1c4536a9274aee89ead4e8d35245d4be"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "date": "2023-09-27",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.499Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mercredi 27 septembre 2023 de  09:00:00 à  13:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "Hermitage",
+      "district": "plainewilhems",
+      "from": "2023-09-27T05:00:00.000Z",
+      "to": "2023-09-27T09:00:00.000Z",
+      "id": "40d80fb34cd52d00e9440d4dc8f2f645"
+    },
+    {
+      "date": "Le mercredi 27 septembre 2023 de  09:00:00 à  15:00:00",
+      "locality": "SODNAC",
+      "localitySlug": "sodnac",
+      "streets": "Ave Longanier, en partie Ave Sodnac et Ylang Ylang",
+      "district": "plainewilhems",
+      "from": "2023-09-27T05:00:00.000Z",
+      "to": "2023-09-27T11:00:00.000Z",
+      "id": "ff205bd7279f04e9b08cb4ebbe00365b"
+    },
+    {
+      "date": "Le mercredi 27 septembre 2023 de  09:00:00 à  15:30:00",
+      "locality": "TRIANON",
+      "localitySlug": "trianon",
+      "streets": "YLANG YLANG ,TRIANON 2",
+      "district": "plainewilhems",
+      "from": "2023-09-27T05:00:00.000Z",
+      "to": "2023-09-27T11:30:00.000Z",
+      "id": "04a1c7fd9dda4548f8ffee835ac54838"
+    }
+  ]
+}

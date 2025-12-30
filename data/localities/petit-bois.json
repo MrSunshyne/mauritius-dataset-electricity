@@ -1,0 +1,39 @@
+{
+  "slug": "petit-bois",
+  "name": "PETIT BOIS",
+  "district": "flacq",
+  "generated": "2025-12-30T19:07:15.775Z",
+  "outageCount": 4,
+  "firstOutage": "2023-05-06",
+  "lastOutage": "2024-07-25",
+  "outages": [
+    {
+      "date": "Le jeudi 25 juillet 2024 de  14:45:00 à  16:45:00",
+      "streets": "LES ABONNES DE PETIT BOIS VILLAGE.",
+      "from": "2024-07-25T10:45:00.000Z",
+      "to": "2024-07-25T12:45:00.000Z",
+      "id": "ceaf584fcb24ef93a3e72784bcfa4606"
+    },
+    {
+      "date": "Le jeudi 11 juillet 2024 de  09:00:00 à  10:00:00",
+      "streets": "PETIT BOIS CAROLINE",
+      "from": "2024-07-11T05:00:00.000Z",
+      "to": "2024-07-11T06:00:00.000Z",
+      "id": "b9611338d102617fad8fffa557a11e39"
+    },
+    {
+      "date": "Le vendredi 15 décembre 2023 de  08:30:00 à  16:00:00",
+      "streets": "Les abonnes du village de Petit Bois Caroline",
+      "from": "2023-12-15T04:30:00.000Z",
+      "to": "2023-12-15T12:00:00.000Z",
+      "id": "68a82efed4ab167c8d746cb192dfb9c5"
+    },
+    {
+      "date": "Le samedi 6 mai 2023 de  08:30:00 à  09:30:00",
+      "streets": "PETIT BOIS",
+      "from": "2023-05-06T04:30:00.000Z",
+      "to": "2023-05-06T05:30:00.000Z",
+      "id": "59812f80c4f0d92be1c262e1c53cfa4d"
+    }
+  ]
+}

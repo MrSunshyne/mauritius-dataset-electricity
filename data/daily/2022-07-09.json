@@ -1,0 +1,68 @@
+{
+  "date": "2022-07-09",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.484Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le samedi 9 juillet 2022 de  09:30:00 à  11:00:00",
+      "locality": "CAMP DE MASQUE",
+      "localitySlug": "camp-de-masque",
+      "streets": "BALANCE JOHN",
+      "district": "flacq",
+      "from": "2022-07-09T05:30:00.000Z",
+      "to": "2022-07-09T07:00:00.000Z",
+      "id": "2b38ab4dce9f7e95d50c0ba45fc3371d"
+    },
+    {
+      "date": "Le samedi 9 juillet 2022 de  08:30:00 à  16:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "Belvedere, Route Royale, 16 Mille, Tang Knit wear et Beach wear",
+      "district": "plainewilhems",
+      "from": "2022-07-09T04:30:00.000Z",
+      "to": "2022-07-09T12:00:00.000Z",
+      "id": "0cfcb42748f7b77b1c0aa6642636cd29"
+    },
+    {
+      "date": "Le samedi 9 juillet 2022 de  10:00:00 à  11:30:00",
+      "locality": "TRANQUEBAR",
+      "localitySlug": "tranquebar",
+      "streets": "TX MADELEINE,J KENNEDY ST,CEMETERY",
+      "district": "portlouis",
+      "from": "2022-07-09T06:00:00.000Z",
+      "to": "2022-07-09T07:30:00.000Z",
+      "id": "2dc6aef603df6aa51e162353a52b546f"
+    },
+    {
+      "date": "Le samedi 9 juillet 2022 de  09:00:00 à  14:30:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "MORC GURBURRUN/MORC PETIT VERGER",
+      "district": "portlouis",
+      "from": "2022-07-09T05:00:00.000Z",
+      "to": "2022-07-09T10:30:00.000Z",
+      "id": "4e4d7f37bdf0687e6a143c6e211f0c1c"
+    },
+    {
+      "date": "Le samedi 9 juillet 2022 de  11:30:00 à  13:00:00",
+      "locality": "VALLEE PITOT",
+      "localitySlug": "vallee-pitot",
+      "streets": "LAWRICOLE STREET,EIDGAH REGION",
+      "district": "portlouis",
+      "from": "2022-07-09T07:30:00.000Z",
+      "to": "2022-07-09T09:00:00.000Z",
+      "id": "4a35b6278b3d9a3757726e641fdbb740"
+    },
+    {
+      "date": "Le samedi 9 juillet 2022 de  09:00:00 à  10:00:00",
+      "locality": "PLAINE DES ROCHES",
+      "localitySlug": "plaine-des-roches",
+      "streets": "PLAINE DES ROCHES",
+      "district": "rivieredurempart",
+      "from": "2022-07-09T05:00:00.000Z",
+      "to": "2022-07-09T06:00:00.000Z",
+      "id": "7defe8efe5aebeab8bb4989a6af568d5"
+    }
+  ]
+}

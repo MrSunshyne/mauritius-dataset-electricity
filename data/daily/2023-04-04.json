@@ -1,0 +1,68 @@
+{
+  "date": "2023-04-04",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.493Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le mardi 4 avril 2023 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "Morc Safeland: L’Ave des Cygognes, Ave des Rossignoles, Ave des Canaries, Ave des Pigeons, Ave Cateaux Vert et une partie de L’Ave Carrière",
+      "district": "blackriver",
+      "from": "2023-04-04T04:30:00.000Z",
+      "to": "2023-04-04T11:30:00.000Z",
+      "id": "43036865f982b1f1217fdf98f695b14f"
+    },
+    {
+      "date": "Le mardi 4 avril 2023 de  08:30:00 à  16:30:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "Morc Ramdanee",
+      "district": "blackriver",
+      "from": "2023-04-04T04:30:00.000Z",
+      "to": "2023-04-04T12:30:00.000Z",
+      "id": "61399f56ab50e0120df9bfc2299cb0f3"
+    },
+    {
+      "date": "Le mardi 4 avril 2023 de  10:00:00 à  15:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "une partie de Palmerstone Road, Hazareesingh Lane, une partie Hassan Raffa Street, Robinson Road No. 1 et No. 2, Dowlut Lane No. 1 et No. 2, Sir Abdul Razack Mohamed Centre",
+      "district": "plainewilhems",
+      "from": "2023-04-04T06:00:00.000Z",
+      "to": "2023-04-04T11:00:00.000Z",
+      "id": "0dac9528cc8c926f1a19613c378ec9ba"
+    },
+    {
+      "date": "Le mardi 4 avril 2023 de  15:30:00 à  17:30:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes: Partie d’Avenue Sivananda, Lapeyrousse et  les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-04-04T11:30:00.000Z",
+      "to": "2023-04-04T13:30:00.000Z",
+      "id": "5c1a7a7cfbb66fae1a4c0c76eb0dd97c"
+    },
+    {
+      "date": "Le mardi 4 avril 2023 de  11:15:00 à  14:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "FLAT GUILLARD ET LES RUELLES AVOISINANTES MORC REY POINTE AUX SABLES.",
+      "district": "portlouis",
+      "from": "2023-04-04T07:15:00.000Z",
+      "to": "2023-04-04T10:00:00.000Z",
+      "id": "28e3b82f94bb97712e38a0d3f2cd5c91"
+    },
+    {
+      "date": "Le mardi 4 avril 2023 de  12:00:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Saint Gabriel, Latanier et Sainte Famille",
+      "district": "rodrigues",
+      "from": "2023-04-04T08:00:00.000Z",
+      "to": "2023-04-04T11:00:00.000Z",
+      "id": "9889e3c547e7ee3d69ba0762a0a8c20c"
+    }
+  ]
+}

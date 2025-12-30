@@ -1,0 +1,108 @@
+{
+  "date": "2023-07-25",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.497Z",
+  "outageCount": 10,
+  "outages": [
+    {
+      "date": "Le mardi 25 juillet 2023 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC ANNA- OCEAN GARDEN, AVE DES CACHALOTS, IMPASSE DES CACHALOTS, AVE SOUFFLEUR ET UNE PARTIE DE LAVENUE SUNSET",
+      "district": "blackriver",
+      "from": "2023-07-25T04:30:00.000Z",
+      "to": "2023-07-25T11:30:00.000Z",
+      "id": "8ebd369130742cfad3be9a02c1e32a76"
+    },
+    {
+      "date": "Le mardi 25 juillet 2023 de  10:00:00 à  15:00:00",
+      "locality": "BEAU CHAMP FLACQ",
+      "localitySlug": "beau-champ-flacq",
+      "streets": "BEAU CHAMP GRSE",
+      "district": "flacq",
+      "from": "2023-07-25T06:00:00.000Z",
+      "to": "2023-07-25T11:00:00.000Z",
+      "id": "4a16005207e3fe524974f76b49dc116a"
+    },
+    {
+      "date": "Le mardi 25 juillet 2023 de  12:00:00 à  15:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "DUPIN ET COMMERFORD STREET",
+      "district": "plainewilhems",
+      "from": "2023-07-25T08:00:00.000Z",
+      "to": "2023-07-25T11:00:00.000Z",
+      "id": "e48ac8ced862e64912d3efb26709d09b"
+    },
+    {
+      "date": "Le mardi 25 juillet 2023 de  15:00:00 à  16:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Pope Henessy",
+      "district": "plainewilhems",
+      "from": "2023-07-25T11:00:00.000Z",
+      "to": "2023-07-25T12:00:00.000Z",
+      "id": "a096002412cf0513bbc173ea0bceef8e"
+    },
+    {
+      "date": "Le mardi 25 juillet 2023 de  13:00:00 à  15:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Res. Vuillemin, Hossenally St, Raoult St, Sevremont St et Donat St",
+      "district": "plainewilhems",
+      "from": "2023-07-25T09:00:00.000Z",
+      "to": "2023-07-25T11:00:00.000Z",
+      "id": "d8c42e3509834934d223abcaef8a1cfb"
+    },
+    {
+      "date": "Le mardi 25 juillet 2023 de  11:30:00 à  13:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Morc La Confiance et Dodo Street",
+      "district": "plainewilhems",
+      "from": "2023-07-25T07:30:00.000Z",
+      "to": "2023-07-25T09:00:00.000Z",
+      "id": "96f4fd9a47435f8fb4cf302f7e1b40cc"
+    },
+    {
+      "date": "Le mardi 25 juillet 2023 de  09:30:00 à  13:30:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "Ramdhanee Lane et Pave damour Street",
+      "district": "plainewilhems",
+      "from": "2023-07-25T05:30:00.000Z",
+      "to": "2023-07-25T09:30:00.000Z",
+      "id": "988fcc35702c7edde86f5a0cc6b490c3"
+    },
+    {
+      "date": "Le mardi 25 juillet 2023 de  12:00:00 à  13:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Guy Rozemont, Robert Edward Hart, Residence CHA Stanley et en partie Manilall, Berthaud, Boundary, Cretin, Morc Ramuth et Rte Ste Anne",
+      "district": "plainewilhems",
+      "from": "2023-07-25T08:00:00.000Z",
+      "to": "2023-07-25T09:00:00.000Z",
+      "id": "4c29ada916765828d06ff6f7b35c4d1d"
+    },
+    {
+      "date": "Le mardi 25 juillet 2023 de  12:25:00 à  13:30:00",
+      "locality": "TREFLES",
+      "localitySlug": "trefles",
+      "streets": "TREFLES STANLEY",
+      "district": "plainewilhems",
+      "from": "2023-07-25T08:25:00.000Z",
+      "to": "2023-07-25T09:30:00.000Z",
+      "id": "a8fe3cb8ae6240da70e74019ebdc791f"
+    },
+    {
+      "date": "Le mardi 25 juillet 2023 de  14:00:00 à  17:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "ROUTE ROYALE COROMANDEL DANS LES ENVIRONS ANCIENT UBP.",
+      "district": "plainewilhems",
+      "from": "2023-07-25T10:00:00.000Z",
+      "to": "2023-07-25T13:00:00.000Z",
+      "id": "3704b00f2e106d7d31f1ab8c1451277d"
+    }
+  ]
+}

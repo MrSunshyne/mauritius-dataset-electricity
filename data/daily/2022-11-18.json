@@ -1,0 +1,68 @@
+{
+  "date": "2022-11-18",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.488Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le vendredi 18 novembre 2022 de  09:30:00 à  16:00:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "Dagotiere Post Office et CWA Dagotiere",
+      "district": "moka",
+      "from": "2022-11-18T05:30:00.000Z",
+      "to": "2022-11-18T12:00:00.000Z",
+      "id": "f32936e00b0ac05d7bf72ddf204d94e5"
+    },
+    {
+      "date": "Le vendredi 18 novembre 2022 de  08:30:00 à  10:30:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "La Laura, Malinga, LAvenir, Circonstance et Morc Frangipane",
+      "district": "moka",
+      "from": "2022-11-18T04:30:00.000Z",
+      "to": "2022-11-18T06:30:00.000Z",
+      "id": "1e1628c4b20e7b6a16be6230b8d1fbae"
+    },
+    {
+      "date": "Le vendredi 18 novembre 2022 de  17:30:00 à  22:30:00",
+      "locality": "MONTAGNE BLANCHE",
+      "localitySlug": "montagne-blanche",
+      "streets": "Church Road,Montagne Blanche",
+      "district": "moka",
+      "from": "2022-11-18T13:30:00.000Z",
+      "to": "2022-11-18T18:30:00.000Z",
+      "id": "2058ff003efcdbbd45bdb24ec70cf428"
+    },
+    {
+      "date": "Le vendredi 18 novembre 2022 de  09:00:00 à  12:00:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": "Les abonnés d’Eau-Coulée, Curepipe habitant les rues et les régions suivantes: Engrais Cathan et  les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-11-18T05:00:00.000Z",
+      "to": "2022-11-18T08:00:00.000Z",
+      "id": "6dc6889f2e600d7a912ac47a30d86613"
+    },
+    {
+      "date": "Le vendredi 18 novembre 2022 de  15:00:00 à  16:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "ROUTE BASSIN,CHUROOMUNY,GOPALSING",
+      "district": "plainewilhems",
+      "from": "2022-11-18T11:00:00.000Z",
+      "to": "2022-11-18T12:00:00.000Z",
+      "id": "43474eb22e36987668636b5cf97dcbb8"
+    },
+    {
+      "date": "Le vendredi 18 novembre 2022 de  08:30:00 à  16:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LA FERME, PISTACHE, PIMENT, REPOSOIR, MONTAGNE CROUPIER,BAIE TOPAZE,CAMP PINTADE",
+      "district": "rodrigues",
+      "from": "2022-11-18T04:30:00.000Z",
+      "to": "2022-11-18T12:00:00.000Z",
+      "id": "304e0b8dfe3b539cad8572a79265f39a"
+    }
+  ]
+}

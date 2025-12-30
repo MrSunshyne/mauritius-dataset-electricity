@@ -1,0 +1,38 @@
+{
+  "date": "2022-08-02",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.484Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mardi 2 août 2022 de  18:00:00 à  21:00:00",
+      "locality": "PLAINE DES PAPAYES",
+      "localitySlug": "plaine-des-papayes",
+      "streets": "ROYAL ROAD PLAINE DES PAPAYES NE CEMETRY AND GOVT SCHOOL",
+      "district": "pamplemousses",
+      "from": "2022-08-02T14:00:00.000Z",
+      "to": "2022-08-02T17:00:00.000Z",
+      "id": "dd60ea45b00ba1e87c9595fb9ba041ac"
+    },
+    {
+      "date": "Le mardi 2 août 2022 de  08:30:00 à  14:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Sadally Road et les environs",
+      "district": "plainewilhems",
+      "from": "2022-08-02T04:30:00.000Z",
+      "to": "2022-08-02T10:00:00.000Z",
+      "id": "000be35151bfc655603140ab0da3ddad"
+    },
+    {
+      "date": "Le mardi 2 août 2022 de  09:00:00 à  15:00:00",
+      "locality": "GRANDE MONTAGNE(RODRIGUES)",
+      "localitySlug": "grande-montagne",
+      "streets": "Grande Montagne et Brule",
+      "district": "rodrigues",
+      "from": "2022-08-02T05:00:00.000Z",
+      "to": "2022-08-02T11:00:00.000Z",
+      "id": "9791eec931cf4ff081f3ba0109f4065b"
+    }
+  ]
+}

@@ -1,0 +1,536 @@
+{
+  "slug": "floreal",
+  "name": "FLOREAL",
+  "district": "plainewilhems",
+  "generated": "2025-12-30T19:07:15.674Z",
+  "outageCount": 75,
+  "firstOutage": "2022-03-31",
+  "lastOutage": "2025-12-22",
+  "outages": [
+    {
+      "date": "Le lundi 22 décembre 2025 de  16:15:00 à  17:20:00",
+      "streets": "FLAT HEIGHTS, RENESENCE, MORC LA VANILLE, MORC GUIMBEAU ET LES ALENTOURS",
+      "from": "2025-12-22T12:15:00.000Z",
+      "to": "2025-12-22T13:20:00.000Z",
+      "id": "8b2ddda0da796e31329d22a9e17ab2c7"
+    },
+    {
+      "date": "Le vendredi 19 décembre 2025 de  09:30:00 à  11:30:00",
+      "streets": "les rues suivantes : King George, Hesketh Bell, Roger Pezzani, John Kennedy, Lucien de Chazal et les ruelles avoisinantes",
+      "from": "2025-12-19T05:30:00.000Z",
+      "to": "2025-12-19T07:30:00.000Z",
+      "id": "2715e401c3a186d7958d719e1ec785ff"
+    },
+    {
+      "date": "Le mercredi 19 novembre 2025 de  16:45:00 à  19:00:00",
+      "streets": "MORC DOTMAN ALLEE BRILLANT FLOREAL",
+      "from": "2025-11-19T12:45:00.000Z",
+      "to": "2025-11-19T15:00:00.000Z",
+      "id": "d871ef2e6a200e34c138df8a6e9e87c2"
+    },
+    {
+      "date": "Le vendredi 14 novembre 2025 de  09:00:00 à  14:00:00",
+      "streets": "dans les environs de Victor de la Faye et Theveneau",
+      "from": "2025-11-14T05:00:00.000Z",
+      "to": "2025-11-14T10:00:00.000Z",
+      "id": "76d8ea9a8efae394bd97f09aed637d67"
+    },
+    {
+      "date": "Le dimanche 12 octobre 2025 de  22:00:00 à  23:30:00",
+      "streets": "CLOS DE LA RIVIERE",
+      "from": "2025-10-12T18:00:00.000Z",
+      "to": "2025-10-12T19:30:00.000Z",
+      "id": "92837ffee99e11c2318125eb9a6112f9"
+    },
+    {
+      "date": "Le samedi 11 octobre 2025 de  08:30:00 à  16:00:00",
+      "streets": "cite loyseau",
+      "from": "2025-10-11T04:30:00.000Z",
+      "to": "2025-10-11T12:00:00.000Z",
+      "id": "9422102d21602cb96f668c33e1c8051e"
+    },
+    {
+      "date": "Le vendredi 26 septembre 2025 de  09:15:00 à  10:15:00",
+      "streets": "NEAR POLICE STATION",
+      "from": "2025-09-26T05:15:00.000Z",
+      "to": "2025-09-26T06:15:00.000Z",
+      "id": "f0f98d98f8c88cfe9ff95ae3e3173c34"
+    },
+    {
+      "date": "Le vendredi 19 septembre 2025 de  08:30:00 à  12:00:00",
+      "streets": "dans les environs de MOrcellement Médine",
+      "from": "2025-09-19T04:30:00.000Z",
+      "to": "2025-09-19T08:00:00.000Z",
+      "id": "273ffcf1a8941c09adfc5a175e64696c"
+    },
+    {
+      "date": "Le jeudi 18 septembre 2025 de  13:50:00 à  14:45:00",
+      "streets": "JASON COURT",
+      "from": "2025-09-18T09:50:00.000Z",
+      "to": "2025-09-18T10:45:00.000Z",
+      "id": "99ae15d370c017d39c990378c334fabb"
+    },
+    {
+      "date": "Le mercredi 10 septembre 2025 de  09:00:00 à  12:00:00",
+      "streets": "Morcellement Medine",
+      "from": "2025-09-10T05:00:00.000Z",
+      "to": "2025-09-10T08:00:00.000Z",
+      "id": "212bd72869483021ae30689fd2aaf13f"
+    },
+    {
+      "date": "Le mercredi 10 septembre 2025 de  00:00:00 à  00:00:00",
+      "streets": "Morcellement Médine",
+      "from": "2025-09-09T20:00:00.000Z",
+      "to": "2025-09-08T20:00:00.000Z",
+      "id": "e7e117add974d9b175b8974093380ee6"
+    },
+    {
+      "date": "Le mercredi 16 juillet 2025 de  15:00:00 à  18:00:00",
+      "streets": "FLOREAL RD, ANGUS 2, PARTIE DE GRANUM RD, RAJARRETHUM MUDALIAR AVE, ET LES RUELLES AVOISINANTES",
+      "from": "2025-07-16T11:00:00.000Z",
+      "to": "2025-07-16T14:00:00.000Z",
+      "id": "fc68fa76417ee1a3fc458d0ce2dc4901"
+    },
+    {
+      "date": "Le jeudi 10 juillet 2025 de  20:00:00 à  00:30:00",
+      "streets": "PIERRE SIMONET/VICTOR DE LA FAYE",
+      "from": "2025-07-10T16:00:00.000Z",
+      "to": "2025-07-09T20:30:00.000Z",
+      "id": "9b2297b243dc5f2a36bd098ce2e11bd8"
+    },
+    {
+      "date": "Le vendredi 14 mars 2025 de  14:30:00 à  18:45:00",
+      "streets": "Angus Road, Rue Des Nations Unies, une partie de Floréal Road, Lucien De Chazal Street",
+      "from": "2025-03-14T10:30:00.000Z",
+      "to": "2025-03-14T14:45:00.000Z",
+      "id": "d2c3cd6abe547238601fc527b0e64df1"
+    },
+    {
+      "date": "Le dimanche 2 mars 2025 de  08:30:00 à  17:00:00",
+      "streets": "Rue la Hausse de la Louviere, Alle des Iris, Flat Levieux, Sir pierre Simonet st, Victor de la faye, Heron Lane, Pelican lane, Ramgutty Lane, Morcellement Beausite, Dr Mayer St, Morc Mohabeer Mungur et les ruelles avoisantes",
+      "from": "2025-03-02T04:30:00.000Z",
+      "to": "2025-03-02T13:00:00.000Z",
+      "id": "57f8e55da3c080d5a1ac5334c3e265ee"
+    },
+    {
+      "date": "Le vendredi 28 février 2025 de  13:20:00 à  15:00:00",
+      "streets": "ADAMAS ROAD AND SURROUNDINGS",
+      "from": "2025-02-28T09:20:00.000Z",
+      "to": "2025-02-28T11:00:00.000Z",
+      "id": "1f10e9f9676314e652caa88dd0682ded"
+    },
+    {
+      "date": "Le jeudi 23 janvier 2025 de  15:00:00 à  17:00:00",
+      "streets": "Riverwalk Lane",
+      "from": "2025-01-23T11:00:00.000Z",
+      "to": "2025-01-23T13:00:00.000Z",
+      "id": "8c863433b5a8495202d6e74240c22fe9"
+    },
+    {
+      "date": "Le samedi 23 novembre 2024 de  08:30:00 à  16:00:00",
+      "streets": "Morcellement Residentiel",
+      "from": "2024-11-23T04:30:00.000Z",
+      "to": "2024-11-23T12:00:00.000Z",
+      "id": "851d9779ed1440ec8bbee8218168a577"
+    },
+    {
+      "date": "Le mardi 1 octobre 2024 de  15:00:00 à  17:00:00",
+      "streets": "Riverwalk, une partie de Hanoomanjee Lane, une partie de Granum Road",
+      "from": "2024-10-01T11:00:00.000Z",
+      "to": "2024-10-01T13:00:00.000Z",
+      "id": "93f77df86754387070edc27f3181b4f8"
+    },
+    {
+      "date": "Le vendredi 20 septembre 2024 de  07:00:00 à  07:30:00",
+      "streets": "Georges Guibert Street, Rue la Hausse de la Louvière, Debourg Edwards Street, Sir Pierre Simonet St, Dr Mayer St et les ruelles avoisinantes",
+      "from": "2024-09-20T03:00:00.000Z",
+      "to": "2024-09-20T03:30:00.000Z",
+      "id": "913e68c1c7a64676a2cd0e84405caf3a"
+    },
+    {
+      "date": "Le dimanche 15 septembre 2024 de  08:30:00 à  16:30:00",
+      "streets": "VACOAS ET FLOREAL:Morcellement Résidentiel, Société Le Pin, Rue Ernest Harel, Gibson Road, Avenue Prudent, une partie de Route Sadally",
+      "from": "2024-09-15T04:30:00.000Z",
+      "to": "2024-09-15T12:30:00.000Z",
+      "id": "0e1faf1a9099b89c36f1d7688aae496a"
+    },
+    {
+      "date": "Le lundi 5 août 2024 de  15:45:00 à  18:00:00",
+      "streets": "Ligne berteau, Forest lane et les alentours",
+      "from": "2024-08-05T11:45:00.000Z",
+      "to": "2024-08-05T14:00:00.000Z",
+      "id": "ecb83d532261d20f0f0d0691026df710"
+    },
+    {
+      "date": "Le vendredi 26 juillet 2024 de  12:00:00 à  15:00:00",
+      "streets": "Scott Avenue, Morcellement La Vanille, Avenue Chat, Berthaud Avenue et les ruelles avoisinantes",
+      "from": "2024-07-26T08:00:00.000Z",
+      "to": "2024-07-26T11:00:00.000Z",
+      "id": "576575b3e86bfb7c7b4a06b492f73178"
+    },
+    {
+      "date": "Le mardi 25 juin 2024 de  09:30:00 à  12:00:00",
+      "streets": "Ratsitatane Road, une partie de Hanoomanjee Lane, une partie de Espitalier Noel Street, Riverwalk",
+      "from": "2024-06-25T05:30:00.000Z",
+      "to": "2024-06-25T08:00:00.000Z",
+      "id": "7752873b9382dfc28ce8241d226edac7"
+    },
+    {
+      "date": "Le mercredi 19 juin 2024 de  11:30:00 à  13:30:00",
+      "streets": "CLUB HIPPIQUE FLOREAL",
+      "from": "2024-06-19T07:30:00.000Z",
+      "to": "2024-06-19T09:30:00.000Z",
+      "id": "cc727d0bca323e82cca776b55254ba06"
+    },
+    {
+      "date": "Le dimanche 2 juin 2024 de  08:30:00 à  17:00:00",
+      "streets": "Cite Mangalkhan, Cite EDC, Orient Street, Nelson Street, Abercrombie st, Carnegie St, Elliot St, Balzac St, Montgomery St, Mahatma Gandhi St, Lavoisier et Govinden Lane",
+      "from": "2024-06-02T04:30:00.000Z",
+      "to": "2024-06-02T13:00:00.000Z",
+      "id": "c1695ee86b3356135a644b783ed4258d"
+    },
+    {
+      "date": "Le jeudi 30 mai 2024 de  12:00:00 à  15:00:00",
+      "streets": "Ligne Berthaud, Avenue Shah, Mohabeer Mungur Lane, Forest lane, Taheveneau et les ruelles avoisinantes",
+      "from": "2024-05-30T08:00:00.000Z",
+      "to": "2024-05-30T11:00:00.000Z",
+      "id": "f844a2f343540ec5772a1a4e6e9bf9be"
+    },
+    {
+      "date": "Le jeudi 16 mai 2024 de  17:30:00 à  18:15:00",
+      "streets": "AVENUE QUEEN MARRY FLOREAL",
+      "from": "2024-05-16T13:30:00.000Z",
+      "to": "2024-05-16T14:15:00.000Z",
+      "id": "384862e96c957e0b2a12e3ba7aef5412"
+    },
+    {
+      "date": "Le dimanche 12 mai 2024 de  08:15:00 à  17:00:00",
+      "streets": "FLOREAL AND VACOAS: Angus Lane No. 1 et No 2, Lucien de Chazal Avenue, Riverwalk Lane, Ratsitatane Road, une partie de Grannum Road",
+      "from": "2024-05-12T04:15:00.000Z",
+      "to": "2024-05-12T13:00:00.000Z",
+      "id": "da53f2471a796453741c7f3def31fe64"
+    },
+    {
+      "date": "Le mercredi 8 mai 2024 de  05:00:00 à  07:00:00",
+      "streets": "Angus Lane No. 1,2, Lucien De Chazal Ave, Riverwalk mLane, Ratsitatane Road, une partie de Grannum Road, Bechard Lane,Osman Lane, Alle Jacques, Edgar Quinin, Sandiran Lane, Barry Lane, Nehru Lane, Koening Lane No.1,2,3,4 et No.5, Morc Soobratty, Morc Chambor, Morc Noel, une partie de Route Royal Phoenix, Sawmill Lane.",
+      "from": "2024-05-08T01:00:00.000Z",
+      "to": "2024-05-08T03:00:00.000Z",
+      "id": "b697c6cf264081861a124664334fcb61"
+    },
+    {
+      "date": "Le jeudi 18 avril 2024 de  09:00:00 à  14:00:00",
+      "streets": "Cite St Luc, Cite Bourg, Camp le Juge, Cite Atlee, Morcellement Ramalingum, La Colombe, Jasmin, Federick bonnefin, Labrasserie, une partie de Derby et les ruelles avoisinantes",
+      "from": "2024-04-18T05:00:00.000Z",
+      "to": "2024-04-18T10:00:00.000Z",
+      "id": "b670a87865253656447f25fec048b9a1"
+    },
+    {
+      "date": "Le jeudi 4 avril 2024 de  10:00:00 à  11:00:00",
+      "streets": "MORC SCOTT FLOREAL",
+      "from": "2024-04-04T06:00:00.000Z",
+      "to": "2024-04-04T07:00:00.000Z",
+      "id": "3a3cd87b2ff5fc02b71d543f5ae9095c"
+    },
+    {
+      "date": "Le dimanche 24 mars 2024 de  08:30:00 à  17:00:00",
+      "streets": "Georges Guibert Street, Rue la Hausse de la Louvière, Debourg Edwards Street, Sir Pierre Simonet St, Dr Mayer St et les ruelles avoisinantes",
+      "from": "2024-03-24T04:30:00.000Z",
+      "to": "2024-03-24T13:00:00.000Z",
+      "id": "7672104f2022b05d0ac51a22b555eea2"
+    },
+    {
+      "date": "Le dimanche 17 mars 2024 de  08:30:00 à  16:00:00",
+      "streets": "Avenue Shah, Queen Mary Avenue, Avenue Theveneau, Forest lane, Lauren de Chazal, Skett Bell, Dr Ernest Harel, Strudwick Lane, Dr Mungur lane, John Kenedy Avenue, King George, Morcellement La Vanille, Avenue Edwards De Burgh, Mohabeer Mungur, Edward Rouillard, Ligne Berthaud et les ruelles avoisinantes",
+      "from": "2024-03-17T04:30:00.000Z",
+      "to": "2024-03-17T12:00:00.000Z",
+      "id": "5e64491e082e4ba0c31532712979bb9d"
+    },
+    {
+      "date": "Le dimanche 18 février 2024 de  10:00:00 à  16:00:00",
+      "streets": "Cite Mangalkhan habitant dans les rues suivantes : Mongomgery, Mahatma Gandhi, Blazac, Elliot, Orient, Abercombie, Lavoisier, One Way et les ruelles avoisinantes",
+      "from": "2024-02-18T06:00:00.000Z",
+      "to": "2024-02-18T12:00:00.000Z",
+      "id": "47ace040c12d5be253a1c8e9bcc13c73"
+    },
+    {
+      "date": "Le mardi 23 janvier 2024 de  12:00:00 à  14:30:00",
+      "streets": "FLOREAL",
+      "from": "2024-01-23T08:00:00.000Z",
+      "to": "2024-01-23T10:30:00.000Z",
+      "id": "f9c68e8526c327c9cccf13afc71ef9c5"
+    },
+    {
+      "date": "Le dimanche 21 janvier 2024 de  09:30:00 à  11:30:00",
+      "streets": "FLOREAL,QUEEN MARY,KING GEORGE 5,JONH KENEDY,",
+      "from": "2024-01-21T05:30:00.000Z",
+      "to": "2024-01-21T07:30:00.000Z",
+      "id": "eab1138d9c21d34001bb8080525b2adc"
+    },
+    {
+      "date": "Le samedi 20 janvier 2024 de  09:40:00 à  10:40:00",
+      "streets": "KING GEORGE V FLOREAL",
+      "from": "2024-01-20T05:40:00.000Z",
+      "to": "2024-01-20T06:40:00.000Z",
+      "id": "8371fba0112c98e3d4f65532d4d8b4d3"
+    },
+    {
+      "date": "Le jeudi 18 janvier 2024 de  12:00:00 à  15:00:00",
+      "streets": "GIDC FLOREAL",
+      "from": "2024-01-18T08:00:00.000Z",
+      "to": "2024-01-18T11:00:00.000Z",
+      "id": "024387cc2ccceb5aed756c4d9c9d524a"
+    },
+    {
+      "date": "Le lundi 11 décembre 2023 de  17:45:00 à  22:00:00",
+      "streets": "FLOREAL QUEEN MARY AVENUE ET LES ALENTOURS",
+      "from": "2023-12-11T13:45:00.000Z",
+      "to": "2023-12-11T18:00:00.000Z",
+      "id": "18ec8a0a9c744bb06f5974571c62f657"
+    },
+    {
+      "date": "Le jeudi 9 novembre 2023 de  20:00:00 à  22:00:00",
+      "streets": "ALLEE BRILLANT NEAR CLUB HIPPIQUE",
+      "from": "2023-11-09T16:00:00.000Z",
+      "to": "2023-11-09T18:00:00.000Z",
+      "id": "361b3484e138a9517de59c908933352a"
+    },
+    {
+      "date": "Le mercredi 8 novembre 2023 de  13:40:00 à  15:40:00",
+      "streets": "DEHLI RD, SIBARUTH RD AND BETWEEN FILLING STATION SHELL AND FLOREAL NEATWEAR",
+      "from": "2023-11-08T09:40:00.000Z",
+      "to": "2023-11-08T11:40:00.000Z",
+      "id": "ba6dd1d6a0d6f760c1cbea27c2248bfd"
+    },
+    {
+      "date": "Le mardi 7 novembre 2023 de  19:00:00 à  22:00:00",
+      "streets": "FLOREAL",
+      "from": "2023-11-07T15:00:00.000Z",
+      "to": "2023-11-07T18:00:00.000Z",
+      "id": "600b0cca03ef31e06329a188e8681d37"
+    },
+    {
+      "date": "Le dimanche 8 octobre 2023 de  08:30:00 à  16:00:00",
+      "streets": "Les abonnés de Floreal habitant les régions et les rues suivantes : Dr Mayer Lane, Herun Lane, SIR Pierre Simonet, Guillet Passeau, Victor De La Faye, AVE Edouard De Burch, Allé des Iris, la Hausse de la Louvière, Ramgutty Road, en partie de la route royale, Flat Ramdanee, Flat Charabia, Flat Belvédère 1 &2, Flat Levieux, Diplomat Garden",
+      "from": "2023-10-08T04:30:00.000Z",
+      "to": "2023-10-08T12:00:00.000Z",
+      "id": "27f8a3c18af2fb9cb0f9c4900f31f73e"
+    },
+    {
+      "date": "Le mercredi 4 octobre 2023 de  16:45:00 à  18:30:00",
+      "streets": "FLOREAL PIERRE SIMONETTE LANE",
+      "from": "2023-10-04T12:45:00.000Z",
+      "to": "2023-10-04T14:30:00.000Z",
+      "id": "5cbfd6d33b200986767970421c94fa40"
+    },
+    {
+      "date": "Le jeudi 14 septembre 2023 de  12:00:00 à  16:00:00",
+      "streets": "Parti de Mohabeer Mungar Street",
+      "from": "2023-09-14T08:00:00.000Z",
+      "to": "2023-09-14T12:00:00.000Z",
+      "id": "8550d3600ed5215d8a468e62a741b64d"
+    },
+    {
+      "date": "Le vendredi 1 septembre 2023 de  09:00:00 à  12:00:00",
+      "streets": "Les abonnés de Morcellement Hansrod, Floreal habitant les rues et régions suivantes : Belle Vue, partie de Parathian, Hansrod et les ruelles avoisinantes",
+      "from": "2023-09-01T05:00:00.000Z",
+      "to": "2023-09-01T08:00:00.000Z",
+      "id": "03ed3039792812637195c4cceae861b8"
+    },
+    {
+      "date": "Le mercredi 30 août 2023 de  09:00:00 à  13:00:00",
+      "streets": "GIDC FLOREAL",
+      "from": "2023-08-30T05:00:00.000Z",
+      "to": "2023-08-30T09:00:00.000Z",
+      "id": "55f752a45e412430989f4fb4ab30c1bb"
+    },
+    {
+      "date": "Le jeudi 24 août 2023 de  16:00:00 à  18:00:00",
+      "streets": "Les abonnés de Floreal habitant la Résidence King Georges",
+      "from": "2023-08-24T12:00:00.000Z",
+      "to": "2023-08-24T14:00:00.000Z",
+      "id": "a5d43c75f5068daaad4d0a9b3c7dfd86"
+    },
+    {
+      "date": "Le mercredi 16 août 2023 de  15:00:00 à  17:30:00",
+      "streets": "Floreal Road: Ratsitatane Road, une partie de Hanoomanjee Lane, une partie de Espitalier Noel Street",
+      "from": "2023-08-16T11:00:00.000Z",
+      "to": "2023-08-16T13:30:00.000Z",
+      "id": "9ed4d7276f26861f4848ddca94d598a1"
+    },
+    {
+      "date": "Le jeudi 10 août 2023 de  11:00:00 à  13:30:00",
+      "streets": "CORNER LA HAUSSE DE LA LOUVIEREFLOREAL",
+      "from": "2023-08-10T07:00:00.000Z",
+      "to": "2023-08-10T09:30:00.000Z",
+      "id": "ea1018074a97e90a99c6802e0f895519"
+    },
+    {
+      "date": "Le mardi 18 juillet 2023 de  09:00:00 à  12:00:00",
+      "streets": "Hausse de la Louviere, Flat Le vieux",
+      "from": "2023-07-18T05:00:00.000Z",
+      "to": "2023-07-18T08:00:00.000Z",
+      "id": "b62f2e47cf77307a3e281834d7b98b15"
+    },
+    {
+      "date": "Le lundi 17 juillet 2023 de  10:30:00 à  00:00:00",
+      "streets": "Sadally Road, Morc Residential Floreal, Societe Le Pin, Avenue Prudent",
+      "from": "2023-07-17T06:30:00.000Z",
+      "to": "2023-07-16T20:00:00.000Z",
+      "id": "1fc9af94aca8c0cf0b96a3ff769e25e5"
+    },
+    {
+      "date": "Le jeudi 13 juillet 2023 de  15:00:00 à  17:00:00",
+      "streets": "Les abonnés de Floreal habitant les régions et les rues suivantes :  Partie de la Hausse de la Louvrière, flat Belvédère 2 et les ruelles avoisinantes",
+      "from": "2023-07-13T11:00:00.000Z",
+      "to": "2023-07-13T13:00:00.000Z",
+      "id": "4a6eb89601c76c37290b8bf35e5c37e0"
+    },
+    {
+      "date": "Le jeudi 13 juillet 2023 de  09:00:00 à  12:00:00",
+      "streets": "Les abonnés de Floreal habitant les régions et les rues suivantes : Hausse de la Louvière, flat Levieux et les ruelles avoisinantes",
+      "from": "2023-07-13T05:00:00.000Z",
+      "to": "2023-07-13T08:00:00.000Z",
+      "id": "98bce73a8804c2dfcfb42bd4bf0d0e9b"
+    },
+    {
+      "date": "Le dimanche 25 juin 2023 de  12:00:00 à  16:00:00",
+      "streets": "Les abonnés de Floreal, Cite Mangalkhan habitant les régions et les rues suivantes : Mongomgery, Mahatma Gandhi,  Balzac, Elliot, Orient, Abercombie, Lavoisier, One Way et les ruelles avoisinantes",
+      "from": "2023-06-25T08:00:00.000Z",
+      "to": "2023-06-25T12:00:00.000Z",
+      "id": "de73deb00624b80283af3ec651d5fe85"
+    },
+    {
+      "date": "Le dimanche 25 juin 2023 de  08:15:00 à  16:00:00",
+      "streets": "Les abonnés de Floreal, Cite Mangalkhan habitant les régions et les rues suivantes : Carnegie, Govinden et les ruelles avoisinantes",
+      "from": "2023-06-25T04:15:00.000Z",
+      "to": "2023-06-25T12:00:00.000Z",
+      "id": "746f99eafa43c80329013ad881a2c976"
+    },
+    {
+      "date": "Le vendredi 9 juin 2023 de  12:00:00 à  13:00:00",
+      "streets": "Les abonnés de Floreal, Cite Mangalkhan habitant les régions et les rues suivantes : Carnegie, Govinden, Balzac, Elliot et les ruelles avoisinantes",
+      "from": "2023-06-09T08:00:00.000Z",
+      "to": "2023-06-09T09:00:00.000Z",
+      "id": "1fedcd5d057e5048919ebef832a75092"
+    },
+    {
+      "date": "Le dimanche 28 mai 2023 de  15:50:00 à  17:50:00",
+      "streets": "REGION NEAR RESIDENCE MANGALKHAN AND GOVT SCHOOL",
+      "from": "2023-05-28T11:50:00.000Z",
+      "to": "2023-05-28T13:50:00.000Z",
+      "id": "4e7ef89a0a1173d0d0bb4f7c8364c906"
+    },
+    {
+      "date": "Le vendredi 5 mai 2023 de  12:00:00 à  13:00:00",
+      "streets": "Les abonnés de Floréal habitant les rues et les régions suivantes: Partie de Queen Mary Avenue, partie d’Impasse Lala, partie de Ramgutty et  les ruelles avoisinantes",
+      "from": "2023-05-05T08:00:00.000Z",
+      "to": "2023-05-05T09:00:00.000Z",
+      "id": "4cb5d8b23a19bfccdea4df4faf4090b8"
+    },
+    {
+      "date": "Le lundi 3 avril 2023 de  10:00:00 à  15:00:00",
+      "streets": "GOVINDEN LANE FLOREAL, PART CITE MANGALKHAN",
+      "from": "2023-04-03T06:00:00.000Z",
+      "to": "2023-04-03T11:00:00.000Z",
+      "id": "a3b85de68250a406c99f95571e5ce34b"
+    },
+    {
+      "date": "Le mardi 21 février 2023 de  14:00:00 à  15:30:00",
+      "streets": "FLAT RAMDANEE,SPA AND SURROUNDING REGION",
+      "from": "2023-02-21T10:00:00.000Z",
+      "to": "2023-02-21T11:30:00.000Z",
+      "id": "3106c94dd5ef15f03c64bf5ebbd44e28"
+    },
+    {
+      "date": "Le mercredi 15 février 2023 de  09:00:00 à  11:00:00",
+      "streets": "Residence Mangalkhan",
+      "from": "2023-02-15T05:00:00.000Z",
+      "to": "2023-02-15T07:00:00.000Z",
+      "id": "060907f3c7c3c17453c203e7be5caf3c"
+    },
+    {
+      "date": "Le samedi 28 janvier 2023 de  14:00:00 à  15:30:00",
+      "streets": "VICTOR DE LA FAYE, LADY QUEEN MARY ST ET LES ENVIRONS.",
+      "from": "2023-01-28T10:00:00.000Z",
+      "to": "2023-01-28T11:30:00.000Z",
+      "id": "6c6a67629cf23b2ba6350416f97bd270"
+    },
+    {
+      "date": "Le dimanche 13 novembre 2022 de  08:30:00 à  16:00:00",
+      "streets": "Morcellement Medine, Morcellement GIDC, une partie de Route Ligne-Berthaud, Pandamanikum Lane, Chellapen Lane, une partie de Route Sadally, Molvi Lane",
+      "from": "2022-11-13T04:30:00.000Z",
+      "to": "2022-11-13T12:00:00.000Z",
+      "id": "5672898fd89a06f71137b7187b6ec831"
+    },
+    {
+      "date": "Le dimanche 18 septembre 2022 de  08:30:00 à  16:00:00",
+      "streets": "Georges Guibert street, Boodhna Lane",
+      "from": "2022-09-18T04:30:00.000Z",
+      "to": "2022-09-18T12:00:00.000Z",
+      "id": "7bb18e05246a8eb6f18ce75e94ead678"
+    },
+    {
+      "date": "Le vendredi 9 septembre 2022 de  16:00:00 à  17:00:00",
+      "streets": "RUE MELDROME-SIR WILLIAM RD NR DARNE FLOREAL",
+      "from": "2022-09-09T12:00:00.000Z",
+      "to": "2022-09-09T13:00:00.000Z",
+      "id": "38551dc2432a2985a4b979f32121eb8d"
+    },
+    {
+      "date": "Le vendredi 3 juin 2022 de  11:00:00 à  14:00:00",
+      "streets": "MISISIPI/RIVIRE SECHE FLOREAL",
+      "from": "2022-06-03T07:00:00.000Z",
+      "to": "2022-06-03T10:00:00.000Z",
+      "id": "ab953f8fab456bdabc601eeed3029796"
+    },
+    {
+      "date": "Le jeudi 19 mai 2022 de  10:00:00 à  11:30:00",
+      "streets": "Queen Mary,Pezzani Ave Floreal",
+      "from": "2022-05-19T06:00:00.000Z",
+      "to": "2022-05-19T07:30:00.000Z",
+      "id": "a2ed61004f775a4c00deb9931c732dad"
+    },
+    {
+      "date": "Le mercredi 4 mai 2022 de  08:30:00 à  16:00:00",
+      "streets": "Les abonnés de Floréal habitant les rues et les régions suivantes: Edward Rouillard, Morcellement Tonnerre, Stadwick, Guito Pasceau, Victor de La Faye, Theveneau et  les ruelles avoisinantes",
+      "from": "2022-05-04T04:30:00.000Z",
+      "to": "2022-05-04T12:00:00.000Z",
+      "id": "748ab4c76af7671c92b8d0a7e5124320"
+    },
+    {
+      "date": "Le lundi 2 mai 2022 de  09:00:00 à  12:00:00",
+      "streets": "Floreal Square",
+      "from": "2022-05-02T05:00:00.000Z",
+      "to": "2022-05-02T08:00:00.000Z",
+      "id": "dd8e4992d66f7a9d0f15b21e0eb2ac80"
+    },
+    {
+      "date": "Le mercredi 13 avril 2022 de  16:00:00 à  18:00:00",
+      "streets": "Royal Road seebaruth, Dunputh,Jhuree, Dairy, Mississipi,Beedassy, Floreal Business Centre, partie de John Kennedy, partie de Ernest Harel",
+      "from": "2022-04-13T12:00:00.000Z",
+      "to": "2022-04-13T14:00:00.000Z",
+      "id": "8c6967f9c3385f200e64298378045ca1"
+    },
+    {
+      "date": "Le dimanche 10 avril 2022 de  15:00:00 à  17:00:00",
+      "streets": "Les abonnés de Floréal habitant dans le périmètre et les environs des rues suivantes ; Seebaruth, Dunputh,  Jhuree,  Dairy,  Mississipi, Beedassy, Floreal Business Center, partie de John Kennedy, partie de Ernest Harel  et les ruelles avoisinantes",
+      "from": "2022-04-10T11:00:00.000Z",
+      "to": "2022-04-10T13:00:00.000Z",
+      "id": "7ed6fadd9dd5f6d8be6d016be2c723ce"
+    },
+    {
+      "date": "Le mercredi 6 avril 2022 de  08:30:00 à  16:00:00",
+      "streets": "Angus Lane No. 1 et No. 2, Lucien De Chazal Avenue, Riverwalk Lane, Grannum Road, Hanoomanjee Lane",
+      "from": "2022-04-06T04:30:00.000Z",
+      "to": "2022-04-06T12:00:00.000Z",
+      "id": "3b95f8b56fcef74a76798617a26ebe72"
+    },
+    {
+      "date": "Le jeudi 31 mars 2022 de  16:00:00 à  18:00:00",
+      "streets": "Les abonnés de Floréal habitant dans le périmètre et les environs des rues suivantes ; Seebaruth, Dunputh, Jhuree, Dairy, Mississipi, Beedassy, Floreal Business Center, partie de John Kennedy, partie de Ernest Harel  et les ruelles avoisinantes",
+      "from": "2022-03-31T12:00:00.000Z",
+      "to": "2022-03-31T14:00:00.000Z",
+      "id": "a86447034c459493188f91a14562d998"
+    }
+  ]
+}

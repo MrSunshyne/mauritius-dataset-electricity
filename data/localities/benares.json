@@ -1,0 +1,53 @@
+{
+  "slug": "benares",
+  "name": "BENARES",
+  "district": "savanne",
+  "generated": "2025-12-30T19:07:15.582Z",
+  "outageCount": 6,
+  "firstOutage": "2023-10-11",
+  "lastOutage": "2025-09-23",
+  "outages": [
+    {
+      "date": "Le mardi 23 septembre 2025 de  09:00:00 à  15:00:00",
+      "streets": "Le village de Batimarais et Benares",
+      "from": "2025-09-23T05:00:00.000Z",
+      "to": "2025-09-23T11:00:00.000Z",
+      "id": "d206a9805d6e11b30e2e5f03500075d3"
+    },
+    {
+      "date": "Le vendredi 31 janvier 2025 de  08:30:00 à  16:00:00",
+      "streets": "Bénarès - Bel Air",
+      "from": "2025-01-31T04:30:00.000Z",
+      "to": "2025-01-31T12:00:00.000Z",
+      "id": "2dfee73efa2afd9d622ef5a0a4b22ae4"
+    },
+    {
+      "date": "Le samedi 19 octobre 2024 de  08:30:00 à  16:00:00",
+      "streets": "Benares",
+      "from": "2024-10-19T04:30:00.000Z",
+      "to": "2024-10-19T12:00:00.000Z",
+      "id": "86b968065418c9ff8f6bf2738aa002fb"
+    },
+    {
+      "date": "Le samedi 12 octobre 2024 de  08:30:00 à  16:00:00",
+      "streets": "WHOLE VILLAGE",
+      "from": "2024-10-12T04:30:00.000Z",
+      "to": "2024-10-12T12:00:00.000Z",
+      "id": "d8b87d56cf28bcaccb8e9c5290529c7d"
+    },
+    {
+      "date": "Le dimanche 19 mai 2024 de  08:45:00 à  15:00:00",
+      "streets": "BENARES",
+      "from": "2024-05-19T04:45:00.000Z",
+      "to": "2024-05-19T11:00:00.000Z",
+      "id": "492c12d629f2f73570def45576cdff93"
+    },
+    {
+      "date": "Le mercredi 11 octobre 2023 de  16:45:00 à  19:00:00",
+      "streets": "BENARES VILLAGE, MORCELLEMENT BENARES (STAFF QUARTERS SUGAR MILL, WATER PUMP BEL AIR).",
+      "from": "2023-10-11T12:45:00.000Z",
+      "to": "2023-10-11T15:00:00.000Z",
+      "id": "c0a53539b4facc85484c06fe7887823c"
+    }
+  ]
+}

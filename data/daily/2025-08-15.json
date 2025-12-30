@@ -1,0 +1,38 @@
+{
+  "date": "2025-08-15",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.524Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le vendredi 15 août 2025 de  09:30:00 à  10:45:00",
+      "locality": "GRAND BEL AIR",
+      "localitySlug": "grand-bel-air",
+      "streets": "RTE ROYALE, SCHOOL RD ET LES ALENTOURS",
+      "district": "flacq",
+      "from": "2025-08-15T05:30:00.000Z",
+      "to": "2025-08-15T06:45:00.000Z",
+      "id": "ad208d7c3e49208a4085c4f993b38c81"
+    },
+    {
+      "date": "Le vendredi 15 août 2025 de  12:00:00 à  13:00:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "dans les environs de Monté du fil, Accacia lane 1,2,3,4 et 5",
+      "district": "plainewilhems",
+      "from": "2025-08-15T08:00:00.000Z",
+      "to": "2025-08-15T09:00:00.000Z",
+      "id": "79a33fdb07d4c25fe3c6965e14479e8c"
+    },
+    {
+      "date": "Le vendredi 15 août 2025 de  09:15:00 à  10:30:00",
+      "locality": "BAIN BOEUF",
+      "localitySlug": "bain-boeuf",
+      "streets": "MACUMBA",
+      "district": "rivieredurempart",
+      "from": "2025-08-15T05:15:00.000Z",
+      "to": "2025-08-15T06:30:00.000Z",
+      "id": "19c3bf3f09b0523b94793e6ce6b2778c"
+    }
+  ]
+}

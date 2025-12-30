@@ -1,0 +1,88 @@
+{
+  "date": "2022-12-10",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.489Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le samedi 10 décembre 2022 de  11:30:00 à  12:30:00",
+      "locality": "QUARTIER MILITAIRE",
+      "localitySlug": "quartier-militaire",
+      "streets": "QUARTIER MILITAIRE NEAR SSS",
+      "district": "moka",
+      "from": "2022-12-10T07:30:00.000Z",
+      "to": "2022-12-10T08:30:00.000Z",
+      "id": "bd3141d31148c205b3f3b6c9fb105bb4"
+    },
+    {
+      "date": "Le samedi 10 décembre 2022 de  08:30:00 à  15:00:00",
+      "locality": "ILOT",
+      "localitySlug": "ilot",
+      "streets": "les abonnes habitant ilot road, morcellement binda et dans les environs de RTI",
+      "district": "pamplemousses",
+      "from": "2022-12-10T04:30:00.000Z",
+      "to": "2022-12-10T11:00:00.000Z",
+      "id": "5358e07e5929641e73a9f9e6be33176b"
+    },
+    {
+      "date": "Le samedi 10 décembre 2022 de  11:00:00 à  14:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "En partie Sir Celicourt Antelme, Murray et Giraud",
+      "district": "plainewilhems",
+      "from": "2022-12-10T07:00:00.000Z",
+      "to": "2022-12-10T10:00:00.000Z",
+      "id": "f2c70474dca4d47d377baae8aed647bd"
+    },
+    {
+      "date": "Le samedi 10 décembre 2022 de  09:00:00 à  12:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "DEpinay, Ave Victoria, Buswell, Telfair, Commerson, Doyen, Paul Henri et Hennessy",
+      "district": "plainewilhems",
+      "from": "2022-12-10T05:00:00.000Z",
+      "to": "2022-12-10T08:00:00.000Z",
+      "id": "13b0c9f726d6a4e1f4dcf8d32f9f4e81"
+    },
+    {
+      "date": "Le samedi 10 décembre 2022 de  08:30:00 à  16:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Victor Hugo, Gaetan Raynal, Volcy Goupille, Rue Shan, Flat Volcy Goupille, Res. La Chateau, Henri Le Maire, Flat Mohamedally, Flat Trotter, Barkly Asylum et Station de Police de Beau-Bassin et les environs",
+      "district": "plainewilhems",
+      "from": "2022-12-10T04:30:00.000Z",
+      "to": "2022-12-10T12:00:00.000Z",
+      "id": "3366be920b951a1cfc9fb9598fc7510f"
+    },
+    {
+      "date": "Le samedi 10 décembre 2022 de  08:30:00 à  15:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "En partie La Comete St, Apollo St, Columbia St, Challenger St, Esprit Dennemont St, LIndependence Ave et Ariane St",
+      "district": "plainewilhems",
+      "from": "2022-12-10T04:30:00.000Z",
+      "to": "2022-12-10T11:00:00.000Z",
+      "id": "b7ae3111ca83851f55a1cb188f3710c1"
+    },
+    {
+      "date": "Le samedi 10 décembre 2022 de  15:45:00 à  16:15:00",
+      "locality": "QUINZE CANTONS",
+      "localitySlug": "quinze-cantons",
+      "streets": "WHOLE REGION",
+      "district": "plainewilhems",
+      "from": "2022-12-10T11:45:00.000Z",
+      "to": "2022-12-10T12:15:00.000Z",
+      "id": "515141ec7bb69a06f1dbb89b9f2d5329"
+    },
+    {
+      "date": "Le samedi 10 décembre 2022 de  08:30:00 à  15:30:00",
+      "locality": "MLLE LAURE",
+      "localitySlug": "mlle-laure",
+      "streets": "Les abonnés habitant des Mamzel Laure, Shaffa Trading, Garage Ravin et Bhorut Lane et Route Royal Mamzel Laure",
+      "district": "portlouis",
+      "from": "2022-12-10T04:30:00.000Z",
+      "to": "2022-12-10T11:30:00.000Z",
+      "id": "850bed3efc345845ce51b72c740b12cd"
+    }
+  ]
+}

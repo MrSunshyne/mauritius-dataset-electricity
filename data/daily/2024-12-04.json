@@ -1,0 +1,108 @@
+{
+  "date": "2024-12-04",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.516Z",
+  "outageCount": 10,
+  "outages": [
+    {
+      "date": "Le mercredi 4 décembre 2024 de  16:00:00 à  17:00:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "Lex Bruno Cheong, St Remy, Avenue Charles de Gaulle et Avenue Francois Mitterand",
+      "district": "flacq",
+      "from": "2024-12-04T12:00:00.000Z",
+      "to": "2024-12-04T13:00:00.000Z",
+      "id": "c7a54a293e238ea37f49460f64015992"
+    },
+    {
+      "date": "Le mercredi 4 décembre 2024 de  08:30:00 à  09:30:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "Lex Bruno Cheong, St Remy, Avenue Charles de Gaulle et Avenue Francois Mitterand",
+      "district": "flacq",
+      "from": "2024-12-04T04:30:00.000Z",
+      "to": "2024-12-04T05:30:00.000Z",
+      "id": "33ab51b26c00d6e239297d51b84f7fc5"
+    },
+    {
+      "date": "Le mercredi 4 décembre 2024 de  09:45:00 à  11:30:00",
+      "locality": "GRANDE RETRAITE",
+      "localitySlug": "grande-retraite",
+      "streets": "GRANDE RETRAITE,EN PARTIE BON ACCUEILLE",
+      "district": "flacq",
+      "from": "2024-12-04T05:45:00.000Z",
+      "to": "2024-12-04T07:30:00.000Z",
+      "id": "3ea87743dffec8677854a9e69a249c95"
+    },
+    {
+      "date": "Le mercredi 4 décembre 2024 de  09:00:00 à  15:30:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "MORC PLAINE DE GERSINY",
+      "district": "flacq",
+      "from": "2024-12-04T05:00:00.000Z",
+      "to": "2024-12-04T11:30:00.000Z",
+      "id": "57786e59550131b3e6272bcd35d45a21"
+    },
+    {
+      "date": "Le mercredi 4 décembre 2024 de  09:30:00 à  14:00:00",
+      "locality": "LE BOUCHON",
+      "localitySlug": "le-bouchon",
+      "streets": "LE BOUCHON",
+      "district": "grandport",
+      "from": "2024-12-04T05:30:00.000Z",
+      "to": "2024-12-04T10:00:00.000Z",
+      "id": "52b68522c9931b9894ad5c5cc3cc8864"
+    },
+    {
+      "date": "Le mercredi 4 décembre 2024 de  16:00:00 à  18:00:00",
+      "locality": "MOKA",
+      "localitySlug": "moka",
+      "streets": "Round about Telfair, Morc Gentilly, Railway Moka, Chantenay et Dr Pillot",
+      "district": "moka",
+      "from": "2024-12-04T12:00:00.000Z",
+      "to": "2024-12-04T14:00:00.000Z",
+      "id": "a88e928675d5d14263900e97894cb894"
+    },
+    {
+      "date": "Le mercredi 4 décembre 2024 de  14:30:00 à  18:00:00",
+      "locality": "GENTILLY- MOKA",
+      "localitySlug": "gentilly-moka",
+      "streets": "Gentilly estate, Helvetia et Morc Gentilly",
+      "district": "moka",
+      "from": "2024-12-04T10:30:00.000Z",
+      "to": "2024-12-04T14:00:00.000Z",
+      "id": "cc860f1e4d69ecc3fa93d7dc988d9604"
+    },
+    {
+      "date": "Le mercredi 4 décembre 2024 de  09:00:00 à  14:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "dans les périmètres des rues suivantes : Cite St Luc, Cite Bourg, Cite Atlee, La Colombe, Jasmin, Federick bonnefin, Labrasserie, une partie de Derby et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2024-12-04T05:00:00.000Z",
+      "to": "2024-12-04T10:00:00.000Z",
+      "id": "bf901c1fe7222b04d29e8e0fc9fe0c5c"
+    },
+    {
+      "date": "Le mercredi 4 décembre 2024 de  15:30:00 à  17:30:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "PERRUCHE, CONDE AND SURROUNDINGS",
+      "district": "portlouis",
+      "from": "2024-12-04T11:30:00.000Z",
+      "to": "2024-12-04T13:30:00.000Z",
+      "id": "882cbe9e7eb940a50238405a35054f05"
+    },
+    {
+      "date": "Le mercredi 4 décembre 2024 de  10:00:00 à  11:30:00",
+      "locality": "ILE D-AMBRE",
+      "localitySlug": "ile-d-ambre",
+      "streets": "ILE DAMBRE,PANCHAVATI,MONLOISIR,AMITIE,DESJARSDIN,BOIS MORANT",
+      "district": "rivieredurempart",
+      "from": "2024-12-04T06:00:00.000Z",
+      "to": "2024-12-04T07:30:00.000Z",
+      "id": "839e8c468873b754e85c56bbb4dbe039"
+    }
+  ]
+}

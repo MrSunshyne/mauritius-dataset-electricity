@@ -1,0 +1,39 @@
+{
+  "slug": "la-brasserie",
+  "name": "LA BRASSERIE",
+  "district": "plainewilhems",
+  "generated": "2025-12-30T19:07:15.705Z",
+  "outageCount": 4,
+  "firstOutage": "2023-11-17",
+  "lastOutage": "2025-02-02",
+  "outages": [
+    {
+      "date": "Le dimanche 2 février 2025 de  08:30:00 à  16:00:00",
+      "streets": "Forest-Side et La Brasserie habitant dans les périmètres et rues suivantes : Résidence La Brasserie, Résidence Bourg, Résidence la Colombe, Résidence Jasmin, Résidence Atlee et les ruelles avoisinantes",
+      "from": "2025-02-02T04:30:00.000Z",
+      "to": "2025-02-02T12:00:00.000Z",
+      "id": "85596602b1c44016fb9ade2c917eb148"
+    },
+    {
+      "date": "Le lundi 27 janvier 2025 de  08:30:00 à  16:00:00",
+      "streets": "dans les environs de Residence La Brasserie",
+      "from": "2025-01-27T04:30:00.000Z",
+      "to": "2025-01-27T12:00:00.000Z",
+      "id": "3f2706cfac0405fd9fadeae04b1606a7"
+    },
+    {
+      "date": "Le jeudi 23 janvier 2025 de  08:30:00 à  16:00:00",
+      "streets": "dans les environs de la Brasserie",
+      "from": "2025-01-23T04:30:00.000Z",
+      "to": "2025-01-23T12:00:00.000Z",
+      "id": "5c77f2ac202113eda5fdea1dfb904952"
+    },
+    {
+      "date": "Le vendredi 17 novembre 2023 de  08:30:00 à  11:00:00",
+      "streets": "LA BRASSERIE BIGARA",
+      "from": "2023-11-17T04:30:00.000Z",
+      "to": "2023-11-17T07:00:00.000Z",
+      "id": "5f52231e1528e2b3b31d9f79ff92c2b7"
+    }
+  ]
+}

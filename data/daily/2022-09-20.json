@@ -1,0 +1,28 @@
+{
+  "date": "2022-09-20",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.486Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mardi 20 septembre 2022 de  08:30:00 à  17:00:00",
+      "locality": "PETIT SABLE",
+      "localitySlug": "petit-sable",
+      "streets": "Petit Sable, Grand Sable et  une partie de Bambous Virieux & Pointe du Diable",
+      "district": "grandport",
+      "from": "2022-09-20T04:30:00.000Z",
+      "to": "2022-09-20T13:00:00.000Z",
+      "id": "b874fb9b4ea2c48847d813c6560876f9"
+    },
+    {
+      "date": "Le mardi 20 septembre 2022 de  09:00:00 à  13:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "dans les environs du place Taxi et Restaurant La Jonque",
+      "district": "rivieredurempart",
+      "from": "2022-09-20T05:00:00.000Z",
+      "to": "2022-09-20T09:00:00.000Z",
+      "id": "dc77d16f345ef3987769ed84b266232c"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "trois-boutiques-triolet",
+  "name": "TROIS BOUTIQUES TRIOLET",
+  "district": "pamplemousses",
+  "generated": "2025-12-30T19:07:15.873Z",
+  "outageCount": 2,
+  "firstOutage": "2022-03-16",
+  "lastOutage": "2023-07-13",
+  "outages": [
+    {
+      "date": "Le jeudi 13 juillet 2023 de  19:30:00 à  00:00:00",
+      "streets": "TROIS BOUTIQUES TRIOLET",
+      "from": "2023-07-13T15:30:00.000Z",
+      "to": "2023-07-12T20:00:00.000Z",
+      "id": "30e72adc2996b57d5b03cfa4e186e92d"
+    },
+    {
+      "date": "Le mercredi 16 mars 2022 de  14:15:00 à  15:45:00",
+      "streets": "REGION SURROUNDING NPF TRIOLET",
+      "from": "2022-03-16T10:15:00.000Z",
+      "to": "2022-03-16T11:45:00.000Z",
+      "id": "82edf685fc29c011a3dad224dbde7532"
+    }
+  ]
+}

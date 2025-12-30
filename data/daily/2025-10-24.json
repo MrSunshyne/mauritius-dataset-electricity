@@ -1,0 +1,58 @@
+{
+  "date": "2025-10-24",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.527Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le vendredi 24 octobre 2025 de  09:45:00 à  11:00:00",
+      "locality": "GRANDE RETRAITE",
+      "localitySlug": "grande-retraite",
+      "streets": "PART OF GRANDE RETRAITE",
+      "district": "flacq",
+      "from": "2025-10-24T05:45:00.000Z",
+      "to": "2025-10-24T07:00:00.000Z",
+      "id": "e5dc31e6ae546693fc99db573145b440"
+    },
+    {
+      "date": "Le vendredi 24 octobre 2025 de  09:30:00 à  11:00:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "PART OF LA MARIE & MORC POUSSON",
+      "district": "plainewilhems",
+      "from": "2025-10-24T05:30:00.000Z",
+      "to": "2025-10-24T07:00:00.000Z",
+      "id": "3dc42a63a409d1a8b88d29b890434d9e"
+    },
+    {
+      "date": "Le vendredi 24 octobre 2025 de  09:00:00 à  14:00:00",
+      "locality": "LA CAVERNE",
+      "localitySlug": "la-caverne",
+      "streets": "RTE ABBATOIRE LA CAVERNE",
+      "district": "plainewilhems",
+      "from": "2025-10-24T05:00:00.000Z",
+      "to": "2025-10-24T10:00:00.000Z",
+      "id": "36a4d5ca77899555f08c11d2b81c8de2"
+    },
+    {
+      "date": "Le vendredi 24 octobre 2025 de  12:00:00 à  15:00:00",
+      "locality": "BONNE TERRE",
+      "localitySlug": "bonne-terre",
+      "streets": "REMY OLLIER MORC FLEURIOT BONNE TERRE",
+      "district": "plainewilhems",
+      "from": "2025-10-24T08:00:00.000Z",
+      "to": "2025-10-24T11:00:00.000Z",
+      "id": "dff4a1a6d7d190c86380a11c13695af7"
+    },
+    {
+      "date": "Le vendredi 24 octobre 2025 de  10:20:00 à  11:30:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "MGR.LEEN ST, DESROCHES ST AND SURROUNDINGS",
+      "district": "portlouis",
+      "from": "2025-10-24T06:20:00.000Z",
+      "to": "2025-10-24T07:30:00.000Z",
+      "id": "b99438fdb89bbc7a967f4c4a1b3db3de"
+    }
+  ]
+}

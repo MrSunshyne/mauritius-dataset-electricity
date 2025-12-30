@@ -1,0 +1,25 @@
+{
+  "slug": "riche-en-eau",
+  "name": "RICHE EN EAU",
+  "district": "grandport",
+  "generated": "2025-12-30T19:07:15.822Z",
+  "outageCount": 2,
+  "firstOutage": "2022-09-28",
+  "lastOutage": "2025-07-04",
+  "outages": [
+    {
+      "date": "Le vendredi 4 juillet 2025 de  09:20:00 à  12:00:00",
+      "streets": "Beau Jardin,ex Sugar Estate,Staff Quaters",
+      "from": "2025-07-04T05:20:00.000Z",
+      "to": "2025-07-04T08:00:00.000Z",
+      "id": "3e7b9c35b31401d38678e6dd3231c0af"
+    },
+    {
+      "date": "Le mercredi 28 septembre 2022 de  09:00:00 à  16:00:00",
+      "streets": "Riche En Eau habitant dans le périmètre et les rues suivantes: Beau Jardin, Camp Beton et Staff Quarters Riche En Eau",
+      "from": "2022-09-28T05:00:00.000Z",
+      "to": "2022-09-28T12:00:00.000Z",
+      "id": "0a46d8c66085dad624fe7bf64a4af6a1"
+    }
+  ]
+}

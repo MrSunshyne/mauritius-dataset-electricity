@@ -1,0 +1,78 @@
+{
+  "date": "2022-10-08",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.486Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le samedi 8 octobre 2022 de  08:30:00 à  16:30:00",
+      "locality": "CASCAVEL",
+      "localitySlug": "cascavel",
+      "streets": "CWA Cascavelle, West Coast International School et Sparc Sports Complex",
+      "district": "blackriver",
+      "from": "2022-10-08T04:30:00.000Z",
+      "to": "2022-10-08T12:30:00.000Z",
+      "id": "a13d5cfddd2b9c109afb58ba6a46e834"
+    },
+    {
+      "date": "Le samedi 8 octobre 2022 de  10:00:00 à  12:00:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "dans les environs de Azuri, Poste La Fayette and Radisson Blue Hotel",
+      "district": "blackriver",
+      "from": "2022-10-08T06:00:00.000Z",
+      "to": "2022-10-08T08:00:00.000Z",
+      "id": "bec6d2cc5db245332a040f3583fd3473"
+    },
+    {
+      "date": "Le samedi 8 octobre 2022 de  08:30:00 à  15:00:00",
+      "locality": "ARSENAL",
+      "localitySlug": "arsenal",
+      "streets": "route malakoff,balaclava road,royal",
+      "district": "pamplemousses",
+      "from": "2022-10-08T04:30:00.000Z",
+      "to": "2022-10-08T11:00:00.000Z",
+      "id": "bad87eb2be17501170014b959fd3e9b1"
+    },
+    {
+      "date": "Le samedi 8 octobre 2022 de  00:00:00 à  00:00:00",
+      "locality": "ESPERANCE PITON",
+      "localitySlug": "esperance-piton",
+      "streets": "le village dEsperance Piton",
+      "district": "pamplemousses",
+      "from": "2022-10-07T20:00:00.000Z",
+      "to": "2022-10-06T20:00:00.000Z",
+      "id": "949a5959f719c3382cb57ff10db3927f"
+    },
+    {
+      "date": "Le samedi 8 octobre 2022 de  08:30:00 à  15:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "LES ABONNES HABITANT LA TOUR KOENIG DANS LES ENVIRONS DE NHDC GRIVE ET EPERVIER",
+      "district": "portlouis",
+      "from": "2022-10-08T04:30:00.000Z",
+      "to": "2022-10-08T11:00:00.000Z",
+      "id": "dc13772280aa95b91c9a843fbc898bcb"
+    },
+    {
+      "date": "Le samedi 8 octobre 2022 de  08:30:00 à  15:00:00",
+      "locality": "PLAINE DES ROCHES",
+      "localitySlug": "plaine-des-roches",
+      "streets": "le village de Plaine des Roches",
+      "district": "rivieredurempart",
+      "from": "2022-10-08T04:30:00.000Z",
+      "to": "2022-10-08T11:00:00.000Z",
+      "id": "9b43c4c1fe4255c3a4ad7a00aad87d06"
+    },
+    {
+      "date": "Le samedi 8 octobre 2022 de  10:00:00 à  12:00:00",
+      "locality": "ROCHES NOIRES",
+      "localitySlug": "roches-noires",
+      "streets": "dans les environs de Azuri, Poste La Fayette and Radisson Blue Hotel",
+      "district": "rivieredurempart",
+      "from": "2022-10-08T06:00:00.000Z",
+      "to": "2022-10-08T08:00:00.000Z",
+      "id": "fc61167fb981588efdc1084ebf99986a"
+    }
+  ]
+}

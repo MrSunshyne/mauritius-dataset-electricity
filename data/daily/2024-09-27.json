@@ -1,0 +1,68 @@
+{
+  "date": "2024-09-27",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.513Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le vendredi 27 septembre 2024 de  08:30:00 à  17:00:00",
+      "locality": "FERNEY",
+      "localitySlug": "ferney",
+      "streets": "Ferney",
+      "district": "grandport",
+      "from": "2024-09-27T04:30:00.000Z",
+      "to": "2024-09-27T13:00:00.000Z",
+      "id": "83809e1a25aba36afabff7a437391ccd"
+    },
+    {
+      "date": "Le vendredi 27 septembre 2024 de  09:00:00 à  12:00:00",
+      "locality": "CANDOS VACOAS",
+      "localitySlug": "candos-vacoas",
+      "streets": "Boundary Road, Morc Dookhun Candos, une partie de Augum Lane, Rughoo Lane, une partie Avenue La Paix et les ruelles avoisinates",
+      "district": "plainewilhems",
+      "from": "2024-09-27T05:00:00.000Z",
+      "to": "2024-09-27T08:00:00.000Z",
+      "id": "307969669f8891608469eb114fbabcda"
+    },
+    {
+      "date": "Le vendredi 27 septembre 2024 de  14:30:00 à  16:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "Morc Ghurburrun,Petit Verger Pointe aux Sables",
+      "district": "portlouis",
+      "from": "2024-09-27T10:30:00.000Z",
+      "to": "2024-09-27T12:00:00.000Z",
+      "id": "53401c2a69da686f6914ed8d45dcb0eb"
+    },
+    {
+      "date": "Le vendredi 27 septembre 2024 de  08:30:00 à  15:30:00",
+      "locality": "POINTE AUX CANONNIERS",
+      "localitySlug": "pointe-aux-canonniers",
+      "streets": "CASE GOON ROAD AND COASTAL ROAD, POINTE AUX CANNONIERS",
+      "district": "rivieredurempart",
+      "from": "2024-09-27T04:30:00.000Z",
+      "to": "2024-09-27T11:30:00.000Z",
+      "id": "fd3e79e7b24d539f5239e2e9491ccded"
+    },
+    {
+      "date": "Le vendredi 27 septembre 2024 de  17:00:00 à  22:00:00",
+      "locality": "CALODYNE",
+      "localitySlug": "calodyne",
+      "streets": "St Francois & Calodyne",
+      "district": "rivieredurempart",
+      "from": "2024-09-27T13:00:00.000Z",
+      "to": "2024-09-27T18:00:00.000Z",
+      "id": "08873ac4336e39c989cf9637f669a2ba"
+    },
+    {
+      "date": "Le vendredi 27 septembre 2024 de  09:30:00 à  11:30:00",
+      "locality": "TYACK",
+      "localitySlug": "tyack",
+      "streets": "MORC BLUEPRINT 2",
+      "district": "savanne",
+      "from": "2024-09-27T05:30:00.000Z",
+      "to": "2024-09-27T07:30:00.000Z",
+      "id": "6b20f59a672a4e3b1e52633b9fb2f4c5"
+    }
+  ]
+}

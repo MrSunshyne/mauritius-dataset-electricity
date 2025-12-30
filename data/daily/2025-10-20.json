@@ -1,0 +1,38 @@
+{
+  "date": "2025-10-20",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.527Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le lundi 20 octobre 2025 de  16:50:00 à  17:30:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "VILLAGE VANILLA TAMARIN",
+      "district": "blackriver",
+      "from": "2025-10-20T12:50:00.000Z",
+      "to": "2025-10-20T13:30:00.000Z",
+      "id": "d1db423528f1d37df3af189c9e48a949"
+    },
+    {
+      "date": "Le lundi 20 octobre 2025 de  17:15:00 à  18:00:00",
+      "locality": "CAMP DE MASQUE",
+      "localitySlug": "camp-de-masque",
+      "streets": "MORC VRS UNITE CAMP DE MASQUE",
+      "district": "flacq",
+      "from": "2025-10-20T13:15:00.000Z",
+      "to": "2025-10-20T14:00:00.000Z",
+      "id": "58515769fa7f7222c95f5c830baa2e30"
+    },
+    {
+      "date": "Le lundi 20 octobre 2025 de  18:15:00 à  20:30:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "LE FLAMMANT & SURROUNDINGS",
+      "district": "rivieredurempart",
+      "from": "2025-10-20T14:15:00.000Z",
+      "to": "2025-10-20T16:30:00.000Z",
+      "id": "db831c8ab43617ade5b29afc1095b613"
+    }
+  ]
+}

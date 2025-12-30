@@ -1,0 +1,58 @@
+{
+  "date": "2022-12-18",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.489Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le dimanche 18 décembre 2022 de  08:30:00 à  17:00:00",
+      "locality": "NOUVELLE FRANCE",
+      "localitySlug": "nouvelle-france",
+      "streets": "Nouvelle France habitant dans le périmètre et les rues suivantes: Savanne Road, School Lane, Kanpur Lane, Aubeeluck Lane, Ramdin Lane, et une partie de Grand Port Road Nouvelle France",
+      "district": "grandport",
+      "from": "2022-12-18T04:30:00.000Z",
+      "to": "2022-12-18T13:00:00.000Z",
+      "id": "5d7b399b575f86e1ac35b2d34316eb00"
+    },
+    {
+      "date": "Le dimanche 18 décembre 2022 de  09:00:00 à  16:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "La Louise, Les Ave Bigaignon, Station de Police La Louis et Wellington",
+      "district": "plainewilhems",
+      "from": "2022-12-18T05:00:00.000Z",
+      "to": "2022-12-18T12:00:00.000Z",
+      "id": "a1e7f8a1efbe53504b09db292101f756"
+    },
+    {
+      "date": "Le dimanche 18 décembre 2022 de  07:00:00 à  12:30:00",
+      "locality": "MARE LONGUE",
+      "localitySlug": "mare-longue",
+      "streets": "LE REGION MARE LONGUE",
+      "district": "plainewilhems",
+      "from": "2022-12-18T03:00:00.000Z",
+      "to": "2022-12-18T08:30:00.000Z",
+      "id": "3703fd527b528f704a9250fe6271e610"
+    },
+    {
+      "date": "Le dimanche 18 décembre 2022 de  09:00:00 à  14:00:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "MON MASCAL,ST FRANCOIS,PETIT RAFFRAY",
+      "district": "rivieredurempart",
+      "from": "2022-12-18T05:00:00.000Z",
+      "to": "2022-12-18T10:00:00.000Z",
+      "id": "f3684a21b8b985433ac88b1f952ecbf6"
+    },
+    {
+      "date": "Le dimanche 18 décembre 2022 de  08:30:00 à  15:00:00",
+      "locality": "SAINT AUBIN",
+      "localitySlug": "saint-aubin",
+      "streets": "St Aubin Village",
+      "district": "savanne",
+      "from": "2022-12-18T04:30:00.000Z",
+      "to": "2022-12-18T11:00:00.000Z",
+      "id": "231d1e946cc96bfe72882595eb4d2d21"
+    }
+  ]
+}

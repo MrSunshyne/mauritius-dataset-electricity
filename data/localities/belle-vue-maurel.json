@@ -1,0 +1,67 @@
+{
+  "slug": "belle-vue-maurel",
+  "name": "BELLE VUE MAUREL",
+  "district": "rivieredurempart",
+  "generated": "2025-12-30T19:07:15.580Z",
+  "outageCount": 8,
+  "firstOutage": "2023-01-17",
+  "lastOutage": "2025-02-24",
+  "outages": [
+    {
+      "date": "Le lundi 24 février 2025 de  00:30:00 à  02:30:00",
+      "streets": "REGION NEARBY PETITE SUPERMARKET AND PATISSERIE MARDAY",
+      "from": "2025-02-23T20:30:00.000Z",
+      "to": "2025-02-22T22:30:00.000Z",
+      "id": "55c28da2e5e00a1eed3249b1b5e457c8"
+    },
+    {
+      "date": "Le mercredi 31 juillet 2024 de  09:30:00 à  14:00:00",
+      "streets": "DAFFODIL STREET -LATANIER RD BELLE VUE MAUREL",
+      "from": "2024-07-31T05:30:00.000Z",
+      "to": "2024-07-31T10:00:00.000Z",
+      "id": "47d2694f1436e54f832a325ece88b540"
+    },
+    {
+      "date": "Le lundi 29 juillet 2024 de  10:00:00 à  15:00:00",
+      "streets": "Route royale et les alentours",
+      "from": "2024-07-29T06:00:00.000Z",
+      "to": "2024-07-29T11:00:00.000Z",
+      "id": "f7d6e6c5a884e035aa64ca86ee971924"
+    },
+    {
+      "date": "Le lundi 6 novembre 2023 de  20:30:00 à  22:30:00",
+      "streets": "BEL VUE MAUREL AUSTREY LANE, GOBIN LANE",
+      "from": "2023-11-06T16:30:00.000Z",
+      "to": "2023-11-06T18:30:00.000Z",
+      "id": "2c897f4e4a8c430fbce53283227505ee"
+    },
+    {
+      "date": "Le dimanche 9 juillet 2023 de  08:30:00 à  15:30:00",
+      "streets": "LES ABONNES DE BELLE VUE MAUREL",
+      "from": "2023-07-09T04:30:00.000Z",
+      "to": "2023-07-09T11:30:00.000Z",
+      "id": "98ab051916ff3f09f4bf1d13aa4130a0"
+    },
+    {
+      "date": "Le dimanche 7 mai 2023 de  08:00:00 à  15:30:00",
+      "streets": "Une partie du village de Belle Vue Maurel",
+      "from": "2023-05-07T04:00:00.000Z",
+      "to": "2023-05-07T11:30:00.000Z",
+      "id": "f3c1f5f32f0f52b921642a7d8f34a86e"
+    },
+    {
+      "date": "Le samedi 28 janvier 2023 de  10:15:00 à  13:15:00",
+      "streets": "belle vue maurel",
+      "from": "2023-01-28T06:15:00.000Z",
+      "to": "2023-01-28T09:15:00.000Z",
+      "id": "06c1c1afd572874625a163a5ffc089db"
+    },
+    {
+      "date": "Le mardi 17 janvier 2023 de  09:00:00 à  15:00:00",
+      "streets": "ROYAL ROAD,TEMPLE ROAD NR GARDEN",
+      "from": "2023-01-17T05:00:00.000Z",
+      "to": "2023-01-17T11:00:00.000Z",
+      "id": "043af3298e0e682242a6be13a5f01697"
+    }
+  ]
+}

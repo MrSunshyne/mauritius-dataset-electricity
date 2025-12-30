@@ -1,0 +1,68 @@
+{
+  "date": "2023-04-14",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.493Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le vendredi 14 avril 2023 de  11:00:00 à  16:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC SAFELAND FLIC EN FLAC",
+      "district": "blackriver",
+      "from": "2023-04-14T07:00:00.000Z",
+      "to": "2023-04-14T12:00:00.000Z",
+      "id": "2ea1d0c85bc2077e95d166966268bd3e"
+    },
+    {
+      "date": "Le vendredi 14 avril 2023 de  14:15:00 à  16:30:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "TERRE ROUGE NEAR WINNERS",
+      "district": "pamplemousses",
+      "from": "2023-04-14T10:15:00.000Z",
+      "to": "2023-04-14T12:30:00.000Z",
+      "id": "d88d36b9c6caa4a1b15b29bd4ed91b25"
+    },
+    {
+      "date": "Le vendredi 14 avril 2023 de  08:30:00 à  12:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Solferino No 1 et No 2, une partie de Route Vingta No. 1, Kistoo Lane, et les environs",
+      "district": "plainewilhems",
+      "from": "2023-04-14T04:30:00.000Z",
+      "to": "2023-04-14T08:00:00.000Z",
+      "id": "373d39ddc47c40ca5449f108b9e8030d"
+    },
+    {
+      "date": "Le vendredi 14 avril 2023 de  10:15:00 à  11:15:00",
+      "locality": "BELLE ROSE  ( Q BORNES )",
+      "localitySlug": "belle-rose",
+      "streets": "AVENUE ST LOUIS ET COUVENT DE BELLE ROSE",
+      "district": "plainewilhems",
+      "from": "2023-04-14T06:15:00.000Z",
+      "to": "2023-04-14T07:15:00.000Z",
+      "id": "e493467f2c167ed8bd979fde44b26f7e"
+    },
+    {
+      "date": "Le vendredi 14 avril 2023 de  09:00:00 à  14:00:00",
+      "locality": "MON LOISIR",
+      "localitySlug": "mon-loisir",
+      "streets": "dans les environs du Route Royale",
+      "district": "rivieredurempart",
+      "from": "2023-04-14T05:00:00.000Z",
+      "to": "2023-04-14T10:00:00.000Z",
+      "id": "ed1da1f97bbd234f903a9e694c6a74b6"
+    },
+    {
+      "date": "Le vendredi 14 avril 2023 de  09:00:00 à  14:00:00",
+      "locality": "AMITIE",
+      "localitySlug": "amitie",
+      "streets": "dans les environs du Route Royale",
+      "district": "rivieredurempart",
+      "from": "2023-04-14T05:00:00.000Z",
+      "to": "2023-04-14T10:00:00.000Z",
+      "id": "9e3b6e679cc5c1a9caf2d3ef88c55a44"
+    }
+  ]
+}

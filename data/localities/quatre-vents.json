@@ -1,0 +1,46 @@
+{
+  "slug": "quatre-vents",
+  "name": "QUATRE VENTS(RODRIGUES)",
+  "district": "rodrigues",
+  "generated": "2025-12-30T19:07:15.814Z",
+  "outageCount": 5,
+  "firstOutage": "2024-02-15",
+  "lastOutage": "2025-08-05",
+  "outages": [
+    {
+      "date": "Le mardi 5 août 2025 de  09:00:00 à  14:00:00",
+      "streets": "Quatre Vent , Dans Sammy , Papayes et Marechal",
+      "from": "2025-08-05T05:00:00.000Z",
+      "to": "2025-08-05T10:00:00.000Z",
+      "id": "09fbcbb340571bb71be9cc2ba37e0a28"
+    },
+    {
+      "date": "Le jeudi 13 mars 2025 de  09:00:00 à  12:00:00",
+      "streets": "Dans Samy et Montagne Tonnerre",
+      "from": "2025-03-13T05:00:00.000Z",
+      "to": "2025-03-13T08:00:00.000Z",
+      "id": "f12e54f10aeede12add5a68175923b05"
+    },
+    {
+      "date": "Le jeudi 22 février 2024 de  12:00:00 à  15:30:00",
+      "streets": "Dans Samy, Quatre Vents, Papayes, Montagne Du Sable, Grand La Fouche Mangues et Manick",
+      "from": "2024-02-22T08:00:00.000Z",
+      "to": "2024-02-22T11:30:00.000Z",
+      "id": "82c4357e12975df78f0ef4940f593a7e"
+    },
+    {
+      "date": "Le samedi 17 février 2024 de  08:30:00 à  15:00:00",
+      "streets": "Quatre Vents, Dans Samy, Papayes et Marechal",
+      "from": "2024-02-17T04:30:00.000Z",
+      "to": "2024-02-17T11:00:00.000Z",
+      "id": "c5a4b0066680b13b796938205b247a50"
+    },
+    {
+      "date": "Le jeudi 15 février 2024 de  12:00:00 à  15:00:00",
+      "streets": "Quatre Vents, Papayes, Marechal, Mangues, Montagne Du Sable, Grand La Fouche Mangues et Manick",
+      "from": "2024-02-15T08:00:00.000Z",
+      "to": "2024-02-15T11:00:00.000Z",
+      "id": "1fe42824ef916fcdeb2812a44e5de169"
+    }
+  ]
+}

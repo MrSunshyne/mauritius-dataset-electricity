@@ -1,0 +1,68 @@
+{
+  "date": "2022-08-24",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.485Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le mercredi 24 août 2022 de  08:30:00 à  15:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "AVE FOLLES HERBES, AVE BRICOLEUR, CAMP RODRIGUE ET UNE PARTIE DE LAVE CENTRAL",
+      "district": "blackriver",
+      "from": "2022-08-24T04:30:00.000Z",
+      "to": "2022-08-24T11:30:00.000Z",
+      "id": "10b78399815cb6e4309ab87be2727e1a"
+    },
+    {
+      "date": "Le mercredi 24 août 2022 de  09:00:00 à  16:30:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "DANS LES ENVIRONS DE MORC SOOBRAH",
+      "district": "portlouis",
+      "from": "2022-08-24T05:00:00.000Z",
+      "to": "2022-08-24T12:30:00.000Z",
+      "id": "2b3bf22d58057c8dde0e52637fb93972"
+    },
+    {
+      "date": "Le mercredi 24 août 2022 de  15:30:00 à  16:30:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "DANS LES ENVIRONS DE MORC KOENIG, MORC GHURBURRUN, MORC VERGER LES BAINS, VERGER SUR MER, ET FOYER TROCHETIA",
+      "district": "portlouis",
+      "from": "2022-08-24T11:30:00.000Z",
+      "to": "2022-08-24T12:30:00.000Z",
+      "id": "8a8cc40e6d4ea7bd23c08fc6e0778747"
+    },
+    {
+      "date": "Le mercredi 24 août 2022 de  08:30:00 à  09:30:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "DANS LES ENVIRONS DE MORC KOENIG, MORC GHURBURRUN, MORC VERGER LES BAINS, VERGER SUR MER, ET FOYER TROCHETIA",
+      "district": "portlouis",
+      "from": "2022-08-24T04:30:00.000Z",
+      "to": "2022-08-24T05:30:00.000Z",
+      "id": "19a359704ac4e181dfc48d79c6f3097d"
+    },
+    {
+      "date": "Le mercredi 24 août 2022 de  10:15:00 à  12:30:00",
+      "locality": "ROCHE BOIS",
+      "localitySlug": "roche-bois",
+      "streets": "ROUTE DESBOUCHERS",
+      "district": "portlouis",
+      "from": "2022-08-24T06:15:00.000Z",
+      "to": "2022-08-24T08:30:00.000Z",
+      "id": "9d922e1bd1efdc7da6bc78500900a0bf"
+    },
+    {
+      "date": "Le mercredi 24 août 2022 de  09:00:00 à  16:00:00",
+      "locality": "BAIE DU CAP",
+      "localitySlug": "baie-du-cap",
+      "streets": "CHOISY ET BAIE DU CAP",
+      "district": "savanne",
+      "from": "2022-08-24T05:00:00.000Z",
+      "to": "2022-08-24T12:00:00.000Z",
+      "id": "e57c568986ceb273a3ba66dda508fca3"
+    }
+  ]
+}

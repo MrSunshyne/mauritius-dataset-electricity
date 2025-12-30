@@ -1,0 +1,38 @@
+{
+  "date": "2022-08-19",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.485Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le vendredi 19 août 2022 de  08:30:00 à  14:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "Ave Nenuphares, Loday Road, L’Hotel Villa Caroline, Pasadena Complex, Gold Coast Complex, Les Peupliers Complex et une partie de la route cotière Flic en Flac",
+      "district": "blackriver",
+      "from": "2022-08-19T04:30:00.000Z",
+      "to": "2022-08-19T10:30:00.000Z",
+      "id": "a7b2ec61c13afc920e71d4d91f843f84"
+    },
+    {
+      "date": "Le vendredi 19 août 2022 de  09:00:00 à  15:00:00",
+      "locality": "MELROSE",
+      "localitySlug": "melrose",
+      "streets": "Les abonnés de Melrose habitant les rues suivantes : NHDC Melrose, School, Sir Kher Jagatsingh, Jagriti, Ramphul, Cooperative, Camp de Masque, Shivajee, Orchidée, Sir Satcam Boolell, Dahlia, Crémation Ground, Bus Stop, Ittoo, Morcellement Mon Plaisir et les ruelles avoisinantes",
+      "district": "moka",
+      "from": "2022-08-19T05:00:00.000Z",
+      "to": "2022-08-19T11:00:00.000Z",
+      "id": "0adceb407871565ff433f6ed4342cf10"
+    },
+    {
+      "date": "Le vendredi 19 août 2022 de  15:00:00 à  16:30:00",
+      "locality": "BELL VILLAGE",
+      "localitySlug": "bell-village",
+      "streets": "POLICE QUARTERS BELL V1LLAGE",
+      "district": "portlouis",
+      "from": "2022-08-19T11:00:00.000Z",
+      "to": "2022-08-19T12:30:00.000Z",
+      "id": "0851f6cf8c59c4f60bdd2138c6e8513c"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "malabar",
+  "name": "MALABAR(RODRIGUES)",
+  "district": "rodrigues",
+  "generated": "2025-12-30T19:07:15.729Z",
+  "outageCount": 3,
+  "firstOutage": "2025-02-15",
+  "lastOutage": "2025-02-25",
+  "outages": [
+    {
+      "date": "Le mardi 25 février 2025 de  12:00:00 à  13:00:00",
+      "streets": "Soupir et Mont Plaisir",
+      "from": "2025-02-25T08:00:00.000Z",
+      "to": "2025-02-25T09:00:00.000Z",
+      "id": "175f1ee46ea7e5943fadddcc54cc8014"
+    },
+    {
+      "date": "Le vendredi 21 février 2025 de  08:30:00 à  14:30:00",
+      "streets": "Soupir, Le Chou et Mont Plaisir",
+      "from": "2025-02-21T04:30:00.000Z",
+      "to": "2025-02-21T10:30:00.000Z",
+      "id": "5aff39d7bf8cd1ae16f2b3ad2b625133"
+    },
+    {
+      "date": "Le samedi 15 février 2025 de  08:30:00 à  14:30:00",
+      "streets": "Soupir, Le Chou et mont plaisir",
+      "from": "2025-02-15T04:30:00.000Z",
+      "to": "2025-02-15T10:30:00.000Z",
+      "id": "2ac9b4369173e2eaa9dc41e39161084d"
+    }
+  ]
+}

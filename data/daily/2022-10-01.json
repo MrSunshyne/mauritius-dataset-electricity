@@ -1,0 +1,58 @@
+{
+  "date": "2022-10-01",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.486Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le samedi 1 octobre 2022 de  09:00:00 à  12:00:00",
+      "locality": "QUARTIER MILITAIRE",
+      "localitySlug": "quartier-militaire",
+      "streets": "Les abonnés du village de Quartier Militaire habitant les rues et les régions suivantes : Partie de la Route Royale de Quartier Militaire, Cite Bonne Veine et les ruelles avoisinantes",
+      "district": "moka",
+      "from": "2022-10-01T05:00:00.000Z",
+      "to": "2022-10-01T08:00:00.000Z",
+      "id": "3725ab07ee319a8e3328021b71489837"
+    },
+    {
+      "date": "Le samedi 1 octobre 2022 de  14:00:00 à  15:00:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "S. K. Chady Ave, Balgobin Ave, Maurice Raffray Ave, Maingard Ave, Ave Manguier, Dayot Ave, Raymond Rivet Ave, Ave Flamboyant et les environs",
+      "district": "plainewilhems",
+      "from": "2022-10-01T10:00:00.000Z",
+      "to": "2022-10-01T11:00:00.000Z",
+      "id": "d12b3c6fd56f9d82c36605605e991ce9"
+    },
+    {
+      "date": "Le samedi 1 octobre 2022 de  08:30:00 à  09:30:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "S. K. Chady Ave, Balgobin Ave, Maurice Raffray Ave, Maingard Ave, Ave Manguier, Dayot Ave, Raymond Rivet Ave, Ave Flamboyant et les environs",
+      "district": "plainewilhems",
+      "from": "2022-10-01T04:30:00.000Z",
+      "to": "2022-10-01T05:30:00.000Z",
+      "id": "4579689fb230fba7a07c1594ace2bebc"
+    },
+    {
+      "date": "Le samedi 1 octobre 2022 de  08:30:00 à  16:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Ave Brodie, Ave Dr Monple, Ave Mgr Leen et les environs",
+      "district": "plainewilhems",
+      "from": "2022-10-01T04:30:00.000Z",
+      "to": "2022-10-01T12:00:00.000Z",
+      "id": "c1cdcde636f1ea74bea8158fdf17f8e1"
+    },
+    {
+      "date": "Le samedi 1 octobre 2022 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "CITRON DONIS,EAU VANNEE",
+      "district": "rodrigues",
+      "from": "2022-10-01T04:30:00.000Z",
+      "to": "2022-10-01T11:00:00.000Z",
+      "id": "0716732407f473c39b5d525b1ef8289e"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "2024-10-12",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.514Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le samedi 12 octobre 2024 de  08:30:00 à  14:30:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "DANS LES ENVIRONS DE ALBION ROAD, MORC RAWAT, MORC RAMDANEE, NHDC GROS CAILLOUX, NHDC VETIVER ET LOBIN LANE",
+      "district": "blackriver",
+      "from": "2024-10-12T04:30:00.000Z",
+      "to": "2024-10-12T10:30:00.000Z",
+      "id": "ac9fa05dda36989fddda55ab7fd508f2"
+    },
+    {
+      "date": "Le samedi 12 octobre 2024 de  08:30:00 à  15:00:00",
+      "locality": "ARSENAL",
+      "localitySlug": "arsenal",
+      "streets": "ARSENAL",
+      "district": "pamplemousses",
+      "from": "2024-10-12T04:30:00.000Z",
+      "to": "2024-10-12T11:00:00.000Z",
+      "id": "ccd911a4074daaf8ad099db5939b3092"
+    },
+    {
+      "date": "Le samedi 12 octobre 2024 de  08:30:00 à  14:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "MORC PEERUN, TERRE ROUGE",
+      "district": "pamplemousses",
+      "from": "2024-10-12T04:30:00.000Z",
+      "to": "2024-10-12T10:00:00.000Z",
+      "id": "02cc782605e0d41f74fab6bbe535bc06"
+    },
+    {
+      "date": "Le samedi 12 octobre 2024 de  08:30:00 à  16:00:00",
+      "locality": "SAINT MARTIN R-HILL",
+      "localitySlug": "saint-martin-r-hill",
+      "streets": "Porker et les environs",
+      "district": "plainewilhems",
+      "from": "2024-10-12T04:30:00.000Z",
+      "to": "2024-10-12T12:00:00.000Z",
+      "id": "9ba9b675ac9df3d22f292d578b720846"
+    },
+    {
+      "date": "Le samedi 12 octobre 2024 de  08:30:00 à  15:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "une partie de la rue Couvent et une partie de la rue Tout Court.",
+      "district": "plainewilhems",
+      "from": "2024-10-12T04:30:00.000Z",
+      "to": "2024-10-12T11:00:00.000Z",
+      "id": "e11bd66a322f3f76a6e8fe241de22799"
+    },
+    {
+      "date": "Le samedi 12 octobre 2024 de  08:30:00 à  15:00:00",
+      "locality": "ROCHE TERRE",
+      "localitySlug": "roche-terre",
+      "streets": "DANS LES ENVIRONS DE LA ROUTE ROYAL, FLEUR DE LYS, RESERVOIR ROAD ET MUNGUR ROAD",
+      "district": "rivieredurempart",
+      "from": "2024-10-12T04:30:00.000Z",
+      "to": "2024-10-12T11:00:00.000Z",
+      "id": "fdbb21fd540dbf016ae223909aa38221"
+    },
+    {
+      "date": "Le samedi 12 octobre 2024 de  08:30:00 à  16:00:00",
+      "locality": "BENARES",
+      "localitySlug": "benares",
+      "streets": "WHOLE VILLAGE",
+      "district": "savanne",
+      "from": "2024-10-12T04:30:00.000Z",
+      "to": "2024-10-12T12:00:00.000Z",
+      "id": "d8b87d56cf28bcaccb8e9c5290529c7d"
+    }
+  ]
+}

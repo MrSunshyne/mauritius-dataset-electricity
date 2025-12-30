@@ -1,0 +1,39 @@
+{
+  "slug": "canal-dayot",
+  "name": "CANAL DAYOT",
+  "district": "portlouis",
+  "generated": "2025-12-30T19:07:15.612Z",
+  "outageCount": 4,
+  "firstOutage": "2022-10-09",
+  "lastOutage": "2024-11-21",
+  "outages": [
+    {
+      "date": "Le jeudi 21 novembre 2024 de  16:30:00 à  18:00:00",
+      "streets": "LES ABONEES HABITANT CANAL DAYOT",
+      "from": "2024-11-21T12:30:00.000Z",
+      "to": "2024-11-21T14:00:00.000Z",
+      "id": "af430e727a955b0d844368abe6fb2f14"
+    },
+    {
+      "date": "Le lundi 29 avril 2024 de  16:00:00 à  16:30:00",
+      "streets": "LES ABONNES DE CANAL DAYOT",
+      "from": "2024-04-29T12:00:00.000Z",
+      "to": "2024-04-29T12:30:00.000Z",
+      "id": "720bd62b1ad4d770ed7793e2f21b2cf3"
+    },
+    {
+      "date": "Le dimanche 5 novembre 2023 de  10:00:00 à  15:00:00",
+      "streets": "LES ABONNES DE CANAL DAYOT, GRNW.",
+      "from": "2023-11-05T06:00:00.000Z",
+      "to": "2023-11-05T11:00:00.000Z",
+      "id": "f7d4cbed8649ad2a9c366d06f76eaf97"
+    },
+    {
+      "date": "Le dimanche 9 octobre 2022 de  08:30:00 à  15:30:00",
+      "streets": "DANS LES ENVIRONS DE CANAL DAYOT",
+      "from": "2022-10-09T04:30:00.000Z",
+      "to": "2022-10-09T11:30:00.000Z",
+      "id": "ab3056786fdf74fbd1708a9fa38c289f"
+    }
+  ]
+}

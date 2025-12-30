@@ -1,0 +1,108 @@
+{
+  "date": "2023-06-08",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.495Z",
+  "outageCount": 10,
+  "outages": [
+    {
+      "date": "Le jeudi 8 juin 2023 de  11:00:00 à  16:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC ANNA- LAVE MOULIN CASSE, AVE DES TRUITES, AVE DES MARLINS, AVE DES MEROUS, AVE DES MARSOUINS, AVE DES CAPITAINES, AVE SUNSET ET AVE SOUFFLEUR",
+      "district": "blackriver",
+      "from": "2023-06-08T07:00:00.000Z",
+      "to": "2023-06-08T12:30:00.000Z",
+      "id": "d29eefe2c6182bd59b0bf65e7dd0dcc5"
+    },
+    {
+      "date": "Le jeudi 8 juin 2023 de  08:30:00 à  17:30:00",
+      "locality": "CASCAVEL",
+      "localitySlug": "cascavel",
+      "streets": "XAVIER VILLAGE, MORC VRS XAVIER, BAOBAB LANE, CASCAVELLE BRANCH ROAD, CWA PALMYRE ET PIVOT BOULTERRE",
+      "district": "blackriver",
+      "from": "2023-06-08T04:30:00.000Z",
+      "to": "2023-06-08T13:30:00.000Z",
+      "id": "3666db1c912360338a827f2f6f5f3f51"
+    },
+    {
+      "date": "Le jeudi 8 juin 2023 de  10:15:00 à  16:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "FROM LAJOLIETTE TOWARDS MAIN ROAD UP TO POLICE STATION",
+      "district": "blackriver",
+      "from": "2023-06-08T06:15:00.000Z",
+      "to": "2023-06-08T12:00:00.000Z",
+      "id": "5f0b0420aeeabcf735959a3eca8c2b8a"
+    },
+    {
+      "date": "Le jeudi 8 juin 2023 de  10:30:00 à  11:00:00",
+      "locality": "PALMAR",
+      "localitySlug": "palmar",
+      "streets": "APPARTMENT",
+      "district": "flacq",
+      "from": "2023-06-08T06:30:00.000Z",
+      "to": "2023-06-08T07:00:00.000Z",
+      "id": "03824e93e804f5f262982ef8da728db3"
+    },
+    {
+      "date": "Le jeudi 8 juin 2023 de  12:30:00 à  14:30:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "ROSE BELLE DANS LES ENVIRONS DE RAILWAY ROAD ET TELEGU TEMPLE ROAD ET LES RUELLES AVOISINANTES.",
+      "district": "grandport",
+      "from": "2023-06-08T08:30:00.000Z",
+      "to": "2023-06-08T10:30:00.000Z",
+      "id": "f7ab84221b8238f6c229e660086ab43b"
+    },
+    {
+      "date": "Le jeudi 8 juin 2023 de  13:00:00 à  16:00:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "UNE PARTIE DE RUE LABOURDONNAIS, CHEMIN HOLLANDAIS ET LES RUELLES AVOISINANTES.",
+      "district": "grandport",
+      "from": "2023-06-08T09:00:00.000Z",
+      "to": "2023-06-08T12:00:00.000Z",
+      "id": "5ab50ba1f731985f845209eb7a5712aa"
+    },
+    {
+      "date": "Le jeudi 8 juin 2023 de  10:00:00 à  11:00:00",
+      "locality": "MELROSE",
+      "localitySlug": "melrose",
+      "streets": "PART OF MELROSE VILLAGE",
+      "district": "moka",
+      "from": "2023-06-08T06:00:00.000Z",
+      "to": "2023-06-08T07:00:00.000Z",
+      "id": "18e88553506ea794894f27d8fcaf752c"
+    },
+    {
+      "date": "Le jeudi 8 juin 2023 de  14:00:00 à  23:00:00",
+      "locality": "CITE LA CURE",
+      "localitySlug": "cite-la-cure",
+      "streets": "WHOLE OF CITE LA CURE AND WHOLE OF MORCELLEMENT LA VALLEE SAINTE CROIX.",
+      "district": "portlouis",
+      "from": "2023-06-08T10:00:00.000Z",
+      "to": "2023-06-08T19:00:00.000Z",
+      "id": "cacc91c8fbcf4cb9641ee29c66df73db"
+    },
+    {
+      "date": "Le jeudi 8 juin 2023 de  09:00:00 à  17:00:00",
+      "locality": "LA SALETTE",
+      "localitySlug": "la-salette",
+      "streets": "LA SALETTE NEAR CHURCH",
+      "district": "rivieredurempart",
+      "from": "2023-06-08T05:00:00.000Z",
+      "to": "2023-06-08T13:00:00.000Z",
+      "id": "536160bce2d302fd6c9978512f4b6d66"
+    },
+    {
+      "date": "Le jeudi 8 juin 2023 de  14:15:00 à  16:15:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "SCHEONFIELD BRANCH ROAD RIVIERE DU REMPART VERS POUDRE D OR VILLAGE ET POUDRE D OR HAMLET.",
+      "district": "rivieredurempart",
+      "from": "2023-06-08T10:15:00.000Z",
+      "to": "2023-06-08T12:15:00.000Z",
+      "id": "904780037d62f9d47537b0b6c4c4ae98"
+    }
+  ]
+}

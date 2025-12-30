@@ -1,0 +1,68 @@
+{
+  "date": "2022-10-31",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.487Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le lundi 31 octobre 2022 de  18:30:00 à  22:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "AVE DES PAILLE EN QUEUE FLIC EN FLAC",
+      "district": "blackriver",
+      "from": "2022-10-31T14:30:00.000Z",
+      "to": "2022-10-31T18:30:00.000Z",
+      "id": "2af13edc1e602d499b3884df380d7483"
+    },
+    {
+      "date": "Le lundi 31 octobre 2022 de  20:00:00 à  22:00:00",
+      "locality": "POSTE DE FLACQ",
+      "localitySlug": "poste-de-flacq",
+      "streets": "CHOISY ROAD POSTE DE FLACK",
+      "district": "flacq",
+      "from": "2022-10-31T16:00:00.000Z",
+      "to": "2022-10-31T18:00:00.000Z",
+      "id": "f5fff1ba722028c40399ef0363880b90"
+    },
+    {
+      "date": "Le lundi 31 octobre 2022 de  08:45:00 à  14:00:00",
+      "locality": "BEAU VALLON",
+      "localitySlug": "beau-vallon",
+      "streets": "CITE,KOVIL REGION,ROYAL RD,SAI BABA RD",
+      "district": "grandport",
+      "from": "2022-10-31T04:45:00.000Z",
+      "to": "2022-10-31T10:00:00.000Z",
+      "id": "6d26efdca22efd6563aefac7ad1a29e7"
+    },
+    {
+      "date": "Le lundi 31 octobre 2022 de  09:45:00 à  15:00:00",
+      "locality": "BEAU BOIS",
+      "localitySlug": "beau-bois",
+      "streets": "BEAU BOIS",
+      "district": "moka",
+      "from": "2022-10-31T05:45:00.000Z",
+      "to": "2022-10-31T11:00:00.000Z",
+      "id": "44647b6d0ba0c6f8daed6e2cad33c585"
+    },
+    {
+      "date": "Le lundi 31 octobre 2022 de  18:00:00 à  23:00:00",
+      "locality": "CASTEL VACOAS",
+      "localitySlug": "castel-vacoas",
+      "streets": "ALLEE BRILLANT CASTEL",
+      "district": "plainewilhems",
+      "from": "2022-10-31T14:00:00.000Z",
+      "to": "2022-10-31T19:00:00.000Z",
+      "id": "1701112009c8167cf8e44df257a69449"
+    },
+    {
+      "date": "Le lundi 31 octobre 2022 de  08:30:00 à  13:00:00",
+      "locality": "SAINT FRANCOIS",
+      "localitySlug": "saint-francois",
+      "streets": "ssr street,coastal rd,delcourt street",
+      "district": "portlouis",
+      "from": "2022-10-31T04:30:00.000Z",
+      "to": "2022-10-31T09:00:00.000Z",
+      "id": "8e68b44ba18bace1610219d515592d63"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "date": "2022-07-15",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.484Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le vendredi 15 juillet 2022 de  08:30:00 à  16:30:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "MORC CARLOS",
+      "district": "blackriver",
+      "from": "2022-07-15T04:30:00.000Z",
+      "to": "2022-07-15T12:30:00.000Z",
+      "id": "fdd6e54664093d8a011baca0243e8dc3"
+    },
+    {
+      "date": "Le vendredi 15 juillet 2022 de  08:30:00 à  10:30:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "Les abonnés de La Marie habitant les rues et les régions suivantes : Partie de la Route Royale de La Marie, Partie de Morcellement Pousson et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-07-15T04:30:00.000Z",
+      "to": "2022-07-15T06:30:00.000Z",
+      "id": "7dbab55b606e1d59d25997eddc503b52"
+    }
+  ]
+}

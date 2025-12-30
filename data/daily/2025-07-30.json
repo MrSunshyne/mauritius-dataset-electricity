@@ -1,0 +1,48 @@
+{
+  "date": "2025-07-30",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.524Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mercredi 30 juillet 2025 de  08:30:00 à  17:00:00",
+      "locality": "POSTE DE FLACQ",
+      "localitySlug": "poste-de-flacq",
+      "streets": "Les abonnes de Argy, Nehru Nagar et Poste de Flacq, dans les environs de Chemin Jardin, Montagne Chat Rd, Railway Rd, Camp Poorun Rd, Cremation Rd, Kashinath Rd, Camp Raffia et Hermitage",
+      "district": "flacq",
+      "from": "2025-07-30T04:30:00.000Z",
+      "to": "2025-07-30T13:00:00.000Z",
+      "id": "54e63e52917d94ed284aebccb2f856c7"
+    },
+    {
+      "date": "Le mercredi 30 juillet 2025 de  09:00:00 à  12:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "Royal,Bois D-oiseaux,Courteau Roads",
+      "district": "grandport",
+      "from": "2025-07-30T05:00:00.000Z",
+      "to": "2025-07-30T08:00:00.000Z",
+      "id": "a8de48a077327a34b578c54e42c85ff0"
+    },
+    {
+      "date": "Le mercredi 30 juillet 2025 de  08:30:00 à  16:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "Les abonnés d’habitant dans les environs suivants : COROMANDEL, BELVEDER, 5 MILLE, ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2025-07-30T04:30:00.000Z",
+      "to": "2025-07-30T12:00:00.000Z",
+      "id": "f163dad4a018b6393be504abe4b474d5"
+    },
+    {
+      "date": "Le mercredi 30 juillet 2025 de  09:00:00 à  15:00:00",
+      "locality": "BEL OMBRE",
+      "localitySlug": "bel-ombre",
+      "streets": "Morcellement Belle Riviere Bel Ombre",
+      "district": "savanne",
+      "from": "2025-07-30T05:00:00.000Z",
+      "to": "2025-07-30T11:00:00.000Z",
+      "id": "5bac417b638a7cedbd1f837afe22741b"
+    }
+  ]
+}

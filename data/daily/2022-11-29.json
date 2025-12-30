@@ -1,0 +1,38 @@
+{
+  "date": "2022-11-29",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.488Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mardi 29 novembre 2022 de  08:30:00 à  17:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC ANNA",
+      "district": "blackriver",
+      "from": "2022-11-29T04:30:00.000Z",
+      "to": "2022-11-29T13:30:00.000Z",
+      "id": "60f5f85537e8ac502a55d5870ebeb16a"
+    },
+    {
+      "date": "Le mardi 29 novembre 2022 de  08:30:00 à  12:00:00",
+      "locality": "QUARTIER MILITAIRE",
+      "localitySlug": "quartier-militaire",
+      "streets": "Les abonnés du village de Quartier Militaire habitant les rues et les régions suivantes : Partie de la Route Royale près du marcher et les ruelles avoisinantes",
+      "district": "moka",
+      "from": "2022-11-29T04:30:00.000Z",
+      "to": "2022-11-29T08:00:00.000Z",
+      "id": "6b5b2d07283296810ff2352b6b38b526"
+    },
+    {
+      "date": "Le mardi 29 novembre 2022 de  09:00:00 à  15:00:00",
+      "locality": "BAIE DU CAP",
+      "localitySlug": "baie-du-cap",
+      "streets": "Bel Ombre, St. Martin Baie Du Cap",
+      "district": "savanne",
+      "from": "2022-11-29T05:00:00.000Z",
+      "to": "2022-11-29T11:00:00.000Z",
+      "id": "3d7aadf8922f96daf5ef28014fb1e5a2"
+    }
+  ]
+}

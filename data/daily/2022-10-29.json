@@ -1,0 +1,58 @@
+{
+  "date": "2022-10-29",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.487Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le samedi 29 octobre 2022 de  09:15:00 à  10:30:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "LES SALINES PILOT",
+      "district": "blackriver",
+      "from": "2022-10-29T05:15:00.000Z",
+      "to": "2022-10-29T06:30:00.000Z",
+      "id": "3490af195408aa3ddb10bf787e37e425"
+    },
+    {
+      "date": "Le samedi 29 octobre 2022 de  15:00:00 à  16:00:00",
+      "locality": "TRIANON",
+      "localitySlug": "trianon",
+      "streets": "TRIANON, CONVENTION CENTRE, HUA LIEN, PALLADIUM, MARGARINE AND SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2022-10-29T11:00:00.000Z",
+      "to": "2022-10-29T12:00:00.000Z",
+      "id": "fdcb98c20d96d8380c22f88c4c022f09"
+    },
+    {
+      "date": "Le samedi 29 octobre 2022 de  09:00:00 à  10:00:00",
+      "locality": "TRIANON",
+      "localitySlug": "trianon",
+      "streets": "TRIANON, CONVENTION CENTRE, HUA LIEN, PALLADIUM, MARGARINE AND SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2022-10-29T05:00:00.000Z",
+      "to": "2022-10-29T06:00:00.000Z",
+      "id": "879133841e0a8cc4c53f5dc24231ab84"
+    },
+    {
+      "date": "Le samedi 29 octobre 2022 de  08:30:00 à  15:30:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "PETIT RAFFRAY, MONT MASCAL, DARUTY, EXOTICA ET RESTAURANT AMIGOS",
+      "district": "rivieredurempart",
+      "from": "2022-10-29T04:30:00.000Z",
+      "to": "2022-10-29T11:30:00.000Z",
+      "id": "7b12f4b47ec9d5bc67996795c6d4aded"
+    },
+    {
+      "date": "Le samedi 29 octobre 2022 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "BAIE TOPAZE, MONTAGNE CROUPIER, MONTAGNE PLATE ET CAMP PINTADE",
+      "district": "rodrigues",
+      "from": "2022-10-29T04:30:00.000Z",
+      "to": "2022-10-29T11:00:00.000Z",
+      "id": "f6ddcf6fcf6b10605f8da71dc65de38a"
+    }
+  ]
+}

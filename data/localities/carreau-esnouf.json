@@ -1,0 +1,25 @@
+{
+  "slug": "carreau-esnouf",
+  "name": "CARREAU ESNOUF",
+  "district": "grandport",
+  "generated": "2025-12-30T19:07:15.617Z",
+  "outageCount": 2,
+  "firstOutage": "2025-08-11",
+  "lastOutage": "2025-12-05",
+  "outages": [
+    {
+      "date": "Le vendredi 5 décembre 2025 de  09:00:00 à  16:00:00",
+      "streets": "Carreau Esnouf",
+      "from": "2025-12-05T05:00:00.000Z",
+      "to": "2025-12-05T12:00:00.000Z",
+      "id": "a1d14df8276d4f54fbb8edffad1767fa"
+    },
+    {
+      "date": "Le lundi 11 août 2025 de  09:30:00 à  13:00:00",
+      "streets": "Carreau Esnoufs et les endroits avoisinantes",
+      "from": "2025-08-11T05:30:00.000Z",
+      "to": "2025-08-11T09:00:00.000Z",
+      "id": "e43dadc7fe3c1015cd5b1f2f339b2c7c"
+    }
+  ]
+}

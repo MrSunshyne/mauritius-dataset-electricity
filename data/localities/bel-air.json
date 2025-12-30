@@ -1,0 +1,410 @@
+{
+  "slug": "bel-air",
+  "name": "BEL AIR",
+  "district": "flacq",
+  "generated": "2025-12-30T19:07:15.571Z",
+  "outageCount": 57,
+  "firstOutage": "2022-06-04",
+  "lastOutage": "2025-12-06",
+  "outages": [
+    {
+      "date": "Le samedi 6 décembre 2025 de  08:15:00 à  15:00:00",
+      "streets": "Bel Air dans le périmètre de La Lucie Roy, Morc Lotus et NSLD Bel Air.",
+      "from": "2025-12-06T04:15:00.000Z",
+      "to": "2025-12-06T11:00:00.000Z",
+      "id": "476a960f60a191fa31c25e7ddabfd52f"
+    },
+    {
+      "date": "Le mercredi 3 décembre 2025 de  07:30:00 à  10:30:00",
+      "streets": "PETIT CHEMIN BEL AIR",
+      "from": "2025-12-03T03:30:00.000Z",
+      "to": "2025-12-03T06:30:00.000Z",
+      "id": "f514722171e57cd4e00e8f6bc9842853"
+    },
+    {
+      "date": "Le lundi 24 novembre 2025 de  13:00:00 à  19:00:00",
+      "streets": "MORC LA LUCIE,CLEMENCIA,BELLE ROSE,LA POMPE CWA",
+      "from": "2025-11-24T09:00:00.000Z",
+      "to": "2025-11-24T15:00:00.000Z",
+      "id": "88767ede511a39ad4cd098bfbc742238"
+    },
+    {
+      "date": "Le lundi 24 novembre 2025 de  08:00:00 à  13:00:00",
+      "streets": "MORC LA LUCIE,CLAVET,CLEMENCIA,OLIVIA,BELLERIVE",
+      "from": "2025-11-24T04:00:00.000Z",
+      "to": "2025-11-24T09:00:00.000Z",
+      "id": "ea70837dad900da19700adb6244d2f86"
+    },
+    {
+      "date": "Le jeudi 6 novembre 2025 de  09:00:00 à  17:00:00",
+      "streets": "La Lucie Roy, Morc Lotus et NSLD Bel Air",
+      "from": "2025-11-06T05:00:00.000Z",
+      "to": "2025-11-06T13:00:00.000Z",
+      "id": "512abda6e725749a682d5dfb678e0e39"
+    },
+    {
+      "date": "Le mercredi 5 novembre 2025 de  09:00:00 à  17:00:00",
+      "streets": "La Lucie Roy, Morc Lotus et NSLD Bel Air",
+      "from": "2025-11-05T05:00:00.000Z",
+      "to": "2025-11-05T13:00:00.000Z",
+      "id": "d54ab554540fd189ff848361868dcbc7"
+    },
+    {
+      "date": "Le mardi 28 octobre 2025 de  09:00:00 à  17:00:00",
+      "streets": "dans les périmètres de La Lucie Roy, Morc Lotus, NSLD Bel Air, Morc Le Florent, Route Royale Ernest Florent et Chemin Gandhi",
+      "from": "2025-10-28T05:00:00.000Z",
+      "to": "2025-10-28T13:00:00.000Z",
+      "id": "1ec6a40366f5ec7aae12686b3d1b364f"
+    },
+    {
+      "date": "Le jeudi 24 juillet 2025 de  10:00:00 à  13:30:00",
+      "streets": "CAMP LA SERRE,PERE DORBEC",
+      "from": "2025-07-24T06:00:00.000Z",
+      "to": "2025-07-24T09:30:00.000Z",
+      "id": "9753d24debcd6ff508e5d0cd96445d9f"
+    },
+    {
+      "date": "Le dimanche 23 février 2025 de  20:30:00 à  21:00:00",
+      "streets": "CHEMIN LA FORGE, PETIT CHEMIN BEL AIR RIV SECHE AND SURROUNDINGS",
+      "from": "2025-02-23T16:30:00.000Z",
+      "to": "2025-02-23T17:00:00.000Z",
+      "id": "7a75f254a7f1da002b92cbaeb9cb9f7f"
+    },
+    {
+      "date": "Le samedi 8 février 2025 de  08:30:00 à  17:00:00",
+      "streets": "Village de Bel Air dans les environs de Station de Police, Clency Rd, Route Royale près de la MCB, Clinic, St Michel, Morc. Indian Oil, La Lucie Roy, Morc. Lotus, NSLD, Morc. Le Florent, Morc. Dilchand, Morc. Marousem et Petit Chemin.",
+      "from": "2025-02-08T04:30:00.000Z",
+      "to": "2025-02-08T13:00:00.000Z",
+      "id": "b1de7d398bf83e9da0b9d89f43358464"
+    },
+    {
+      "date": "Le mardi 14 janvier 2025 de  09:30:00 à  10:30:00",
+      "streets": "LA LUCY BUILDING AND SURROUNDINGS",
+      "from": "2025-01-14T05:30:00.000Z",
+      "to": "2025-01-14T06:30:00.000Z",
+      "id": "5540c3729535f6864072ae1f775b0fbe"
+    },
+    {
+      "date": "Le mardi 7 janvier 2025 de  09:30:00 à  14:30:00",
+      "streets": "PETIT CHEMIN,ROYAL RD NEAR MCB",
+      "from": "2025-01-07T05:30:00.000Z",
+      "to": "2025-01-07T10:30:00.000Z",
+      "id": "d32c978877ba397e9c4762c76e5383cd"
+    },
+    {
+      "date": "Le lundi 6 janvier 2025 de  09:30:00 à  10:30:00",
+      "streets": "PETIT CHEMIN ET ROYAL ROAD",
+      "from": "2025-01-06T05:30:00.000Z",
+      "to": "2025-01-06T06:30:00.000Z",
+      "id": "b98b578416d93ca89075b96d87a0d529"
+    },
+    {
+      "date": "Le mercredi 6 novembre 2024 de  15:30:00 à  18:00:00",
+      "streets": "Petit Chemin, Avenue Victoire et les chemin avoisinante",
+      "from": "2024-11-06T11:30:00.000Z",
+      "to": "2024-11-06T14:00:00.000Z",
+      "id": "ce06ac77664b9f157a760b0dc3cd9f78"
+    },
+    {
+      "date": "Le mardi 29 octobre 2024 de  09:00:00 à  14:00:00",
+      "streets": "Village de Bel Air dans les environs de la route royale, Bakery rd et Leglise.",
+      "from": "2024-10-29T05:00:00.000Z",
+      "to": "2024-10-29T10:00:00.000Z",
+      "id": "871a159e3b6550ba605cf7fc3cb2c1da"
+    },
+    {
+      "date": "Le dimanche 6 octobre 2024 de  08:30:00 à  17:30:00",
+      "streets": "REGION BEL AIR",
+      "from": "2024-10-06T04:30:00.000Z",
+      "to": "2024-10-06T13:30:00.000Z",
+      "id": "eb6c4f390563c39b7b923057ab6bba55"
+    },
+    {
+      "date": "Le dimanche 6 octobre 2024 de  08:00:00 à  14:00:00",
+      "streets": "REGION BELAIR",
+      "from": "2024-10-06T04:00:00.000Z",
+      "to": "2024-10-06T10:00:00.000Z",
+      "id": "705fefe060e759515b5e1b6dc5d06b48"
+    },
+    {
+      "date": "Le mardi 1 octobre 2024 de  13:30:00 à  16:00:00",
+      "streets": "LA LUCIE BUILDING BEL AIR.",
+      "from": "2024-10-01T09:30:00.000Z",
+      "to": "2024-10-01T12:00:00.000Z",
+      "id": "8e32bbc34ad2d44619ffc2eaca500465"
+    },
+    {
+      "date": "Le jeudi 19 septembre 2024 de  08:30:00 à  15:00:00",
+      "streets": "Bel Air et Olivia dans les environs de Deep River, Trois illots, CWA Boyjanath, MCML et La Nourice.",
+      "from": "2024-09-19T04:30:00.000Z",
+      "to": "2024-09-19T11:00:00.000Z",
+      "id": "f4ac946a5450cf6768d484f6244d4720"
+    },
+    {
+      "date": "Le jeudi 29 août 2024 de  14:00:00 à  15:00:00",
+      "streets": "Station de Police, Morc Marousem, Medi Clinic, St Michel, Morc Indian Oil, La Lucie Roy, Morc Lotus, NSLD, Morc le Florent et une partie du village Ernest Florent",
+      "from": "2024-08-29T10:00:00.000Z",
+      "to": "2024-08-29T11:00:00.000Z",
+      "id": "7ef83ac87455a39c4a95068c06f57134"
+    },
+    {
+      "date": "Le jeudi 29 août 2024 de  08:30:00 à  15:00:00",
+      "streets": "Morc Dilchand, Clency Rd, Route Royale pres de MCB et Petit chemin",
+      "from": "2024-08-29T04:30:00.000Z",
+      "to": "2024-08-29T11:00:00.000Z",
+      "id": "984cf35ace804c185c82e683249913eb"
+    },
+    {
+      "date": "Le jeudi 1 août 2024 de  14:00:00 à  16:00:00",
+      "streets": "MORC VRS ET CLEMENCIA.",
+      "from": "2024-08-01T10:00:00.000Z",
+      "to": "2024-08-01T12:00:00.000Z",
+      "id": "9ebcf9bcad05f2d6eded3b316d1a9bc5"
+    },
+    {
+      "date": "Le jeudi 20 juin 2024 de  20:15:00 à  21:00:00",
+      "streets": "REGION NEARBY WINNERS",
+      "from": "2024-06-20T16:15:00.000Z",
+      "to": "2024-06-20T17:00:00.000Z",
+      "id": "86e3408e77207552df9a555df979a7d0"
+    },
+    {
+      "date": "Le mercredi 12 juin 2024 de  10:00:00 à  12:00:00",
+      "streets": "LYCEE BEL AIR",
+      "from": "2024-06-12T06:00:00.000Z",
+      "to": "2024-06-12T08:00:00.000Z",
+      "id": "6238c7db0f53f5dac203ae42e28aedc6"
+    },
+    {
+      "date": "Le jeudi 23 mai 2024 de  08:45:00 à  17:00:00",
+      "streets": "Bel Air dans le périmètre de la Route Royale près de L’Église St Esprit, Camp La Serpe, Ave Joseph Victoire et Chemin Boulanger",
+      "from": "2024-05-23T04:45:00.000Z",
+      "to": "2024-05-23T13:00:00.000Z",
+      "id": "9b1afab36004e1fa53d17c3f86b8bf5e"
+    },
+    {
+      "date": "Le lundi 13 mai 2024 de  15:00:00 à  16:00:00",
+      "streets": "LA LUCIE BLDG, MORC PONT LARDIER,SSS BEL AIR ET LES ALENTOURS",
+      "from": "2024-05-13T11:00:00.000Z",
+      "to": "2024-05-13T12:00:00.000Z",
+      "id": "70b29f6dc81e0ed3c8b0efcd3b8689b9"
+    },
+    {
+      "date": "Le mercredi 8 mai 2024 de  09:00:00 à  14:00:00",
+      "streets": "Bel-Air: Clency Rd, Route royale pres de MCB, Station de police, Petit Chemin, Morc Marousem, MediClinic, St Michel, Morc Indian Oil, Morc Dilchand, La lucie Roy, morc Lotus, NSLD et Morc Le Florent.",
+      "from": "2024-05-08T05:00:00.000Z",
+      "to": "2024-05-08T10:00:00.000Z",
+      "id": "0b7d3b3f25a844bbcef90fa482c23dcc"
+    },
+    {
+      "date": "Le vendredi 3 mai 2024 de  10:10:00 à  11:15:00",
+      "streets": "DANS LES ALENTOURS DE LA BOUTIQUE TEOKA, DORBECK STREET, NUTHOO RD",
+      "from": "2024-05-03T06:10:00.000Z",
+      "to": "2024-05-03T07:15:00.000Z",
+      "id": "d68c262b6fa5c295f7716b1423c22674"
+    },
+    {
+      "date": "Le vendredi 3 mai 2024 de  09:35:00 à  11:45:00",
+      "streets": "MORC LA LUCIE DANS LES ALENTOURS DU TAMIL TEMPLE",
+      "from": "2024-05-03T05:35:00.000Z",
+      "to": "2024-05-03T07:45:00.000Z",
+      "id": "b8bbe12d3674276fa9a2b5d5ed5f2f07"
+    },
+    {
+      "date": "Le mardi 19 mars 2024 de  08:15:00 à  17:00:00",
+      "streets": "Bel Air dans les perimetre de Camp La Serpe, Supermarché Jowahir, Partie de la route royale, Ecole RCA, SWF Leglise, Ave Victoire et les region avoisinantes.",
+      "from": "2024-03-19T04:15:00.000Z",
+      "to": "2024-03-19T13:00:00.000Z",
+      "id": "edf6c5d8e3a805e768e9ccb17a028865"
+    },
+    {
+      "date": "Le mardi 27 février 2024 de  18:30:00 à  21:00:00",
+      "streets": "PETIT CHEMIN,CHEMIN LA FORGE",
+      "from": "2024-02-27T14:30:00.000Z",
+      "to": "2024-02-27T17:00:00.000Z",
+      "id": "ff3db9adca0595072046dee2b211c2e5"
+    },
+    {
+      "date": "Le jeudi 4 janvier 2024 de  10:00:00 à  14:00:00",
+      "streets": "CAROLINE BEL AIR RIVIERE SECHE",
+      "from": "2024-01-04T06:00:00.000Z",
+      "to": "2024-01-04T10:00:00.000Z",
+      "id": "81e320f7df388ede3004248756e9cd1a"
+    },
+    {
+      "date": "Le lundi 25 décembre 2023 de  21:30:00 à  00:00:00",
+      "streets": "ST MICHEL BEL AIR",
+      "from": "2023-12-25T17:30:00.000Z",
+      "to": "2023-12-24T20:00:00.000Z",
+      "id": "e4db1a10bb162e7e971a647561acf372"
+    },
+    {
+      "date": "Le vendredi 8 décembre 2023 de  14:50:00 à  17:30:00",
+      "streets": "BEL AIR PETIT CHEMIN,MORC MAROUSEM,MORC LA LUCIE, ET LES ENVIRON",
+      "from": "2023-12-08T10:50:00.000Z",
+      "to": "2023-12-08T13:30:00.000Z",
+      "id": "823ef06ff94ccd3ad8d408d8465c43e5"
+    },
+    {
+      "date": "Le vendredi 8 décembre 2023 de  08:00:00 à  10:30:00",
+      "streets": "BEL AIR",
+      "from": "2023-12-08T04:00:00.000Z",
+      "to": "2023-12-08T06:30:00.000Z",
+      "id": "a970d9b4b9d42901e7a8eb12d746a22e"
+    },
+    {
+      "date": "Le jeudi 9 novembre 2023 de  12:00:00 à  17:00:00",
+      "streets": "LA LUCIE ROY",
+      "from": "2023-11-09T08:00:00.000Z",
+      "to": "2023-11-09T13:00:00.000Z",
+      "id": "55eb396470f2710e122377ae61bbdcf7"
+    },
+    {
+      "date": "Le samedi 4 novembre 2023 de  08:15:00 à  15:00:00",
+      "streets": "Les abonnes du village de Pont Lardier Bel-Air Riviere Seche dans les environs du centre communautaire et les Morcellements avoisinantes.",
+      "from": "2023-11-04T04:15:00.000Z",
+      "to": "2023-11-04T11:00:00.000Z",
+      "id": "1459553a688beed1911ad252e308e375"
+    },
+    {
+      "date": "Le samedi 14 octobre 2023 de  08:30:00 à  15:00:00",
+      "streets": "Bel-Air Riviere Seche dans les perimetres de la Rue St Michel et Dalwar",
+      "from": "2023-10-14T04:30:00.000Z",
+      "to": "2023-10-14T11:00:00.000Z",
+      "id": "1fa26f56ef086ed718b75a7333c5c33e"
+    },
+    {
+      "date": "Le lundi 31 juillet 2023 de  09:00:00 à  17:45:00",
+      "streets": "dans les perimetres de la Route Royale, leglise, chemin boulangerie, chemin barran, supermarche jowahir, winners et Camp la Serpe",
+      "from": "2023-07-31T05:00:00.000Z",
+      "to": "2023-07-31T13:45:00.000Z",
+      "id": "b38dc3ee766b8cd6ec9de9e17a653a42"
+    },
+    {
+      "date": "Le vendredi 28 juillet 2023 de  08:30:00 à  16:00:00",
+      "streets": "Dans les environs de Rte Royal, LEglise, Winners, Supermarche jowaheer et Mosque",
+      "from": "2023-07-28T04:30:00.000Z",
+      "to": "2023-07-28T12:00:00.000Z",
+      "id": "f9bc06cb19e0396526c5065766681212"
+    },
+    {
+      "date": "Le jeudi 27 juillet 2023 de  08:30:00 à  17:00:00",
+      "streets": "DANS LES ENVIRONS DE LEGLISE ET CHEMIN BOULAGERIE.",
+      "from": "2023-07-27T04:30:00.000Z",
+      "to": "2023-07-27T13:00:00.000Z",
+      "id": "d6b8e238ed74a69b7bcca948482521da"
+    },
+    {
+      "date": "Le jeudi 27 avril 2023 de  04:00:00 à  05:30:00",
+      "streets": "Bel air,La Lucie Roy,St Michel,Pont Lardier,Morc Dilchand",
+      "from": "2023-04-27T00:00:00.000Z",
+      "to": "2023-04-27T01:30:00.000Z",
+      "id": "57158e7f381c4bbe2db0762044dc29a4"
+    },
+    {
+      "date": "Le vendredi 31 mars 2023 de  08:15:00 à  17:00:00",
+      "streets": "Les abonnés habitant à Bel-Air Riviere Seche dans les périmètres de       Pont Lardier, Route Royale La Lucie Building, Belle Rose et  Clemencia.",
+      "from": "2023-03-31T04:15:00.000Z",
+      "to": "2023-03-31T13:00:00.000Z",
+      "id": "c55e202a1d0c0dd0f9dfba82cac5a277"
+    },
+    {
+      "date": "Le jeudi 30 mars 2023 de  08:15:00 à  17:00:00",
+      "streets": "Les abonnés habitant à Bel-Air Riviere Seche dans les périmètres de       Pont Lardier, Route Royale La Lucie Building, Belle Rose et  Clemencia.",
+      "from": "2023-03-30T04:15:00.000Z",
+      "to": "2023-03-30T13:00:00.000Z",
+      "id": "9d5244ad0c20ac76c54e0b5b33225a3b"
+    },
+    {
+      "date": "Le samedi 18 mars 2023 de  08:15:00 à  17:00:00",
+      "streets": "Les abonnes habitant a Bel-Air Riviere Seche dans les perimetres de la Route Royale La Lucie Bel-Air Riviere Seche, Belle Rose et Clemencia",
+      "from": "2023-03-18T04:15:00.000Z",
+      "to": "2023-03-18T13:00:00.000Z",
+      "id": "07dce223937639d86bb3fa828296389e"
+    },
+    {
+      "date": "Le mercredi 22 février 2023 de  09:30:00 à  13:30:00",
+      "streets": "MORC LA LUCIE,SSS BELAIR",
+      "from": "2023-02-22T05:30:00.000Z",
+      "to": "2023-02-22T09:30:00.000Z",
+      "id": "43d7b462f4808c0c8ff56beb3c6d9860"
+    },
+    {
+      "date": "Le jeudi 9 février 2023 de  14:00:00 à  18:00:00",
+      "streets": "REGION NEAR SSS",
+      "from": "2023-02-09T10:00:00.000Z",
+      "to": "2023-02-09T14:00:00.000Z",
+      "id": "1d44f83580d714f489f19ddfdd0dce6b"
+    },
+    {
+      "date": "Le vendredi 3 février 2023 de  16:30:00 à  20:00:00",
+      "streets": "MORC LA LUCIE,",
+      "from": "2023-02-03T12:30:00.000Z",
+      "to": "2023-02-03T16:00:00.000Z",
+      "id": "3e83ad1edbfe152e568e1399b160d193"
+    },
+    {
+      "date": "Le lundi 19 décembre 2022 de  14:30:00 à  16:30:00",
+      "streets": "PETIT CHEMIN BEL AIR",
+      "from": "2022-12-19T10:30:00.000Z",
+      "to": "2022-12-19T12:30:00.000Z",
+      "id": "3b6b38f6857ba6829c499f0713ccc79b"
+    },
+    {
+      "date": "Le vendredi 9 décembre 2022 de  15:00:00 à  16:00:00",
+      "streets": "MCB, Petit Chemin, Station de Police, Morc Marousen, St Michel et La Lucie Roy",
+      "from": "2022-12-09T11:00:00.000Z",
+      "to": "2022-12-09T12:00:00.000Z",
+      "id": "ba0da624b2f62f3e5fe41ac285001228"
+    },
+    {
+      "date": "Le vendredi 9 décembre 2022 de  08:30:00 à  09:30:00",
+      "streets": "MCB, Petit Chemin, Station de Police, Morc Marousen, St Michel et La Lucie Roy",
+      "from": "2022-12-09T04:30:00.000Z",
+      "to": "2022-12-09T05:30:00.000Z",
+      "id": "851407fbb40dfe207cf658320c750132"
+    },
+    {
+      "date": "Le lundi 5 décembre 2022 de  09:45:00 à  14:00:00",
+      "streets": "CAMP RENAUD, DEEP RIVER AND SURROUNDING REGION",
+      "from": "2022-12-05T05:45:00.000Z",
+      "to": "2022-12-05T10:00:00.000Z",
+      "id": "71bb0ad05b00ef3b568b9955701be3a3"
+    },
+    {
+      "date": "Le lundi 29 août 2022 de  09:30:00 à  16:00:00",
+      "streets": "MORC DEELACHAND RAILWAY ROAD BEL AIR",
+      "from": "2022-08-29T05:30:00.000Z",
+      "to": "2022-08-29T12:00:00.000Z",
+      "id": "d416d8624e3fc6cc3fe85e89cda74dd5"
+    },
+    {
+      "date": "Le jeudi 4 août 2022 de  12:00:00 à  13:30:00",
+      "streets": "BEL AIR",
+      "from": "2022-08-04T08:00:00.000Z",
+      "to": "2022-08-04T09:30:00.000Z",
+      "id": "b3bb66ea48c5b57dbc82e06415b0d16b"
+    },
+    {
+      "date": "Le jeudi 30 juin 2022 de  08:30:00 à  17:00:00",
+      "streets": "Les abonnés habitant à Bel-Air Riviere Seche dans les périmètres de Dispensaire De Bel-Air, Morcellement Dalwar, Cite CHA, Morcellement Roy, Supermarché Jowahir, Winners, Camp La Serpe et L’Eglise St Esprit",
+      "from": "2022-06-30T04:30:00.000Z",
+      "to": "2022-06-30T13:00:00.000Z",
+      "id": "dc291c79d7094053366de499911c6019"
+    },
+    {
+      "date": "Le samedi 4 juin 2022 de  15:00:00 à  17:00:00",
+      "streets": "Les abonnés de La Route Royale Bel-Air Riviere Seche dans les environs de la Banque MCB et Morcellement Dilchand Railway Road",
+      "from": "2022-06-04T11:00:00.000Z",
+      "to": "2022-06-04T13:00:00.000Z",
+      "id": "692130efd28882c845f1030392421372"
+    },
+    {
+      "date": "Le samedi 4 juin 2022 de  08:15:00 à  17:00:00",
+      "streets": "Les abonnés habitant à  Bel-Air Riviere Seche dans les périmètres de La Lucie Roy, Morcellement  Maroussem, Petit Chemin, Basic Training Centre, La Station-Service Indian Oil et La Station Police De Bel-Air",
+      "from": "2022-06-04T04:15:00.000Z",
+      "to": "2022-06-04T13:00:00.000Z",
+      "id": "0204e11a6acc3dbd8c8bd4b805c40b4a"
+    }
+  ]
+}

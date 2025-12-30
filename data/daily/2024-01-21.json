@@ -1,0 +1,208 @@
+{
+  "date": "2024-01-21",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.503Z",
+  "outageCount": 20,
+  "outages": [
+    {
+      "date": "Le dimanche 21 janvier 2024 de  12:45:00 à  13:45:00",
+      "locality": "CHAMAREL",
+      "localitySlug": "chamarel",
+      "streets": "CHAMAREL",
+      "district": "blackriver",
+      "from": "2024-01-21T08:45:00.000Z",
+      "to": "2024-01-21T09:45:00.000Z",
+      "id": "f7aa7a2a50d46cf1fc5fb655f89f16b0"
+    },
+    {
+      "date": "Le dimanche 21 janvier 2024 de  09:00:00 à  13:00:00",
+      "locality": "MONT IDA",
+      "localitySlug": "mont-ida",
+      "streets": "Les abonnes du village de Mont Ida et les rues avoisinantes.",
+      "district": "flacq",
+      "from": "2024-01-21T05:00:00.000Z",
+      "to": "2024-01-21T09:00:00.000Z",
+      "id": "5092d937293ca3aa78f2fb970cabe7d9"
+    },
+    {
+      "date": "Le dimanche 21 janvier 2024 de  13:00:00 à  15:00:00",
+      "locality": "BELLE MARE",
+      "localitySlug": "belle-mare",
+      "streets": "BELLE MARE",
+      "district": "flacq",
+      "from": "2024-01-21T09:00:00.000Z",
+      "to": "2024-01-21T11:00:00.000Z",
+      "id": "98851b076ffb8334993b965867460652"
+    },
+    {
+      "date": "Le dimanche 21 janvier 2024 de  09:00:00 à  12:00:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "ROSE BELLE",
+      "district": "grandport",
+      "from": "2024-01-21T05:00:00.000Z",
+      "to": "2024-01-21T08:00:00.000Z",
+      "id": "0bee671446ccfda38b8a4fdfba2f0b58"
+    },
+    {
+      "date": "Le dimanche 21 janvier 2024 de  13:45:00 à  15:00:00",
+      "locality": "DAGOTIERE",
+      "localitySlug": "dagotiere",
+      "streets": "NHDC DAGOTIERE",
+      "district": "moka",
+      "from": "2024-01-21T09:45:00.000Z",
+      "to": "2024-01-21T11:00:00.000Z",
+      "id": "450f142cce7207b3fc552225260e0bab"
+    },
+    {
+      "date": "Le dimanche 21 janvier 2024 de  08:00:00 à  15:30:00",
+      "locality": "ESPERANCE PITON",
+      "localitySlug": "esperance-piton",
+      "streets": "le village de Esperance Piton, Piton Bon Espoir et La Paix Piton",
+      "district": "pamplemousses",
+      "from": "2024-01-21T04:00:00.000Z",
+      "to": "2024-01-21T11:30:00.000Z",
+      "id": "59d30d179bf38844bbb4b80d48c4f935"
+    },
+    {
+      "date": "Le dimanche 21 janvier 2024 de  08:00:00 à  15:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "Region Solitude et Une Partie de Triolet",
+      "district": "pamplemousses",
+      "from": "2024-01-21T04:00:00.000Z",
+      "to": "2024-01-21T11:00:00.000Z",
+      "id": "c3642d20ae503d765c7bf3b8df47b744"
+    },
+    {
+      "date": "Le dimanche 21 janvier 2024 de  08:00:00 à  11:00:00",
+      "locality": "CONGOMAH",
+      "localitySlug": "congomah",
+      "streets": "village Congomah",
+      "district": "pamplemousses",
+      "from": "2024-01-21T04:00:00.000Z",
+      "to": "2024-01-21T07:00:00.000Z",
+      "id": "5c99ceb795570b132a393a734ac6ec14"
+    },
+    {
+      "date": "Le dimanche 21 janvier 2024 de  08:00:00 à  11:00:00",
+      "locality": "D-EPINAY",
+      "localitySlug": "d-epinay",
+      "streets": "Village Depinay",
+      "district": "pamplemousses",
+      "from": "2024-01-21T04:00:00.000Z",
+      "to": "2024-01-21T07:00:00.000Z",
+      "id": "d959963e2311bb39caef8d0504e93df9"
+    },
+    {
+      "date": "Le dimanche 21 janvier 2024 de  13:30:00 à  17:00:00",
+      "locality": "PETIT CAMP",
+      "localitySlug": "petit-camp",
+      "streets": "Petit Camp, Valentina, Zone Industrielle Phoenix",
+      "district": "plainewilhems",
+      "from": "2024-01-21T09:30:00.000Z",
+      "to": "2024-01-21T13:00:00.000Z",
+      "id": "1b75d91e687c2b3a0b0587312bce0399"
+    },
+    {
+      "date": "Le dimanche 21 janvier 2024 de  08:30:00 à  12:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Morcellement Hardy, Morcellement Résidence Trianon, Morcellement River Edge, Appartements Jet Seven",
+      "district": "plainewilhems",
+      "from": "2024-01-21T04:30:00.000Z",
+      "to": "2024-01-21T08:00:00.000Z",
+      "id": "03cf32d534f66988ddbee6b70db2c04d"
+    },
+    {
+      "date": "Le dimanche 21 janvier 2024 de  08:30:00 à  16:00:00",
+      "locality": "SAINT MARTIN R-HILL",
+      "localitySlug": "saint-martin-r-hill",
+      "streets": "CWA ST MARTIN, PORKER ST MARTIN ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2024-01-21T04:30:00.000Z",
+      "to": "2024-01-21T12:00:00.000Z",
+      "id": "0996c2079f50126a4d55922ab0d1527e"
+    },
+    {
+      "date": "Le dimanche 21 janvier 2024 de  09:30:00 à  11:30:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "FLOREAL,QUEEN MARY,KING GEORGE 5,JONH KENEDY,",
+      "district": "plainewilhems",
+      "from": "2024-01-21T05:30:00.000Z",
+      "to": "2024-01-21T07:30:00.000Z",
+      "id": "eab1138d9c21d34001bb8080525b2adc"
+    },
+    {
+      "date": "Le dimanche 21 janvier 2024 de  09:00:00 à  15:00:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "LA MARIE, LA BRASSERIE, JET RANCH, MARE AUX VACOAS, GRAND BASSIN",
+      "district": "plainewilhems",
+      "from": "2024-01-21T05:00:00.000Z",
+      "to": "2024-01-21T11:00:00.000Z",
+      "id": "c3eac4f0a6f8c084d311fb05019f5da7"
+    },
+    {
+      "date": "Le dimanche 21 janvier 2024 de  09:00:00 à  10:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "RUE LEES, RUE WILLOUGBY, RUE HIGGINSON, COMMERSSON CUREPIPE",
+      "district": "plainewilhems",
+      "from": "2024-01-21T05:00:00.000Z",
+      "to": "2024-01-21T06:00:00.000Z",
+      "id": "933987cc040d4dc8de831fe1672c6c96"
+    },
+    {
+      "date": "Le dimanche 21 janvier 2024 de  12:20:00 à  13:30:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": "MORC CAMPHRIER EAU COULEE",
+      "district": "plainewilhems",
+      "from": "2024-01-21T08:20:00.000Z",
+      "to": "2024-01-21T09:30:00.000Z",
+      "id": "11fd162518b3f08fa268c436503b1bea"
+    },
+    {
+      "date": "Le dimanche 21 janvier 2024 de  14:55:00 à  17:30:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "JEEWOONARAIN ROAD, JUGNAUTH LANE",
+      "district": "plainewilhems",
+      "from": "2024-01-21T10:55:00.000Z",
+      "to": "2024-01-21T13:30:00.000Z",
+      "id": "9284805db71a30b9f84f7d9e15480a73"
+    },
+    {
+      "date": "Le dimanche 21 janvier 2024 de  16:00:00 à  17:30:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": "EAU COULEE, Engrais Martial, CASTEL",
+      "district": "plainewilhems",
+      "from": "2024-01-21T12:00:00.000Z",
+      "to": "2024-01-21T13:30:00.000Z",
+      "id": "50b8fc56955f8cea7daea33915dbe7b4"
+    },
+    {
+      "date": "Le dimanche 21 janvier 2024 de  13:10:00 à  15:45:00",
+      "locality": "RIAMBEL",
+      "localitySlug": "riambel",
+      "streets": "RIAMBEL",
+      "district": "savanne",
+      "from": "2024-01-21T09:10:00.000Z",
+      "to": "2024-01-21T11:45:00.000Z",
+      "id": "4610c48687ae18adad9e85fde9aa928d"
+    },
+    {
+      "date": "Le dimanche 21 janvier 2024 de  08:00:00 à  15:30:00",
+      "locality": "MAPOU",
+      "localitySlug": "mapou",
+      "streets": "le village de Mapou",
+      "district": "rodrigues",
+      "from": "2024-01-21T04:00:00.000Z",
+      "to": "2024-01-21T11:30:00.000Z",
+      "id": "882b605756c0e838c57b4328b2f04b09"
+    }
+  ]
+}

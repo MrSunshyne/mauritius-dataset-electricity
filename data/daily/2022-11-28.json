@@ -1,0 +1,88 @@
+{
+  "date": "2022-11-28",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.488Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le lundi 28 novembre 2022 de  16:00:00 à  17:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "PETITE RIVIERE ET CITE RICHELIEU",
+      "district": "blackriver",
+      "from": "2022-11-28T12:00:00.000Z",
+      "to": "2022-11-28T13:00:00.000Z",
+      "id": "572849a1183891e8a5c197ac24ac9a62"
+    },
+    {
+      "date": "Le lundi 28 novembre 2022 de  09:00:00 à  17:00:00",
+      "locality": "RIVIERE DES CREOLES",
+      "localitySlug": "riviere-des-creoles",
+      "streets": "RIVIERE DES CREOLES",
+      "district": "grandport",
+      "from": "2022-11-28T05:00:00.000Z",
+      "to": "2022-11-28T13:00:00.000Z",
+      "id": "ad5b5db39bb0b11a1214151349b0bb9c"
+    },
+    {
+      "date": "Le lundi 28 novembre 2022 de  15:30:00 à  17:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "TOMBEAU BAY NEAR SIMLA SUPERMARKET",
+      "district": "pamplemousses",
+      "from": "2022-11-28T11:30:00.000Z",
+      "to": "2022-11-28T13:00:00.000Z",
+      "id": "05f81a8d19212092be3bc44b071537ea"
+    },
+    {
+      "date": "Le lundi 28 novembre 2022 de  09:00:00 à  11:00:00",
+      "locality": "EBENE",
+      "localitySlug": "ebene",
+      "streets": "MORC EBENE NEAR KOVIL",
+      "district": "plainewilhems",
+      "from": "2022-11-28T05:00:00.000Z",
+      "to": "2022-11-28T07:00:00.000Z",
+      "id": "3c9a4ffd3770245f9b7fcd66567f134a"
+    },
+    {
+      "date": "Le lundi 28 novembre 2022 de  10:30:00 à  15:30:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "HAREWOOD PARK BEAU BASSIN",
+      "district": "plainewilhems",
+      "from": "2022-11-28T06:30:00.000Z",
+      "to": "2022-11-28T11:30:00.000Z",
+      "id": "270896467a61b4417fc734ad57bc4062"
+    },
+    {
+      "date": "Le lundi 28 novembre 2022 de  13:30:00 à  16:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "CITE KENNEDY",
+      "district": "plainewilhems",
+      "from": "2022-11-28T09:30:00.000Z",
+      "to": "2022-11-28T12:00:00.000Z",
+      "id": "36a69de5312bf881b5f1f1e9a77a3049"
+    },
+    {
+      "date": "Le lundi 28 novembre 2022 de  14:00:00 à  16:00:00",
+      "locality": "ROCHE BOIS",
+      "localitySlug": "roche-bois",
+      "streets": "DEBOUCHER AND ALLEE TAMARIN ROHE BOIS",
+      "district": "portlouis",
+      "from": "2022-11-28T10:00:00.000Z",
+      "to": "2022-11-28T12:00:00.000Z",
+      "id": "1a40458f3d4897a9074221e12837401a"
+    },
+    {
+      "date": "Le lundi 28 novembre 2022 de  16:00:00 à  17:30:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "LES CHARMOSES PETIT RAFFRAY ET ROUILLARD",
+      "district": "rivieredurempart",
+      "from": "2022-11-28T12:00:00.000Z",
+      "to": "2022-11-28T13:30:00.000Z",
+      "id": "77b631ef7b67e2bd96a3c47da182ae54"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2022-12-30",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.489Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le vendredi 30 décembre 2022 de  09:30:00 à  11:30:00",
+      "locality": "CONSTANCE",
+      "localitySlug": "constance",
+      "streets": "BELLE VUE ALANDY",
+      "district": "flacq",
+      "from": "2022-12-30T05:30:00.000Z",
+      "to": "2022-12-30T07:30:00.000Z",
+      "id": "90d1a319017ec0f55be74c00cf0cb710"
+    },
+    {
+      "date": "Le vendredi 30 décembre 2022 de  17:25:00 à  20:45:00",
+      "locality": "BALACLAVA",
+      "localitySlug": "balaclava",
+      "streets": "DOMAINE DU VIEUX BANIAN AND SURROUNDING",
+      "district": "pamplemousses",
+      "from": "2022-12-30T13:25:00.000Z",
+      "to": "2022-12-30T16:45:00.000Z",
+      "id": "b28f979d39322af203fb313d0d0ac443"
+    },
+    {
+      "date": "Le vendredi 30 décembre 2022 de  10:45:00 à  13:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVE RAMDHANY,AVE KOWLESSURRTE BASSINQUATRE BORNES",
+      "district": "plainewilhems",
+      "from": "2022-12-30T06:45:00.000Z",
+      "to": "2022-12-30T09:30:00.000Z",
+      "id": "30424c41e07f7b3cc34c05ff93930fe7"
+    },
+    {
+      "date": "Le vendredi 30 décembre 2022 de  18:30:00 à  20:00:00",
+      "locality": "VALLEE PITOT",
+      "localitySlug": "vallee-pitot",
+      "streets": "BOULEVARD HUGON,REGION IN VICINITY OF PAGODA",
+      "district": "portlouis",
+      "from": "2022-12-30T14:30:00.000Z",
+      "to": "2022-12-30T16:00:00.000Z",
+      "id": "e0a9b19206ec5573bf0dadf462641178"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2024-11-26",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.515Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mardi 26 novembre 2024 de  14:55:00 à  16:30:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "TROU AUX BICHESPTE AUX BICHES",
+      "district": "pamplemousses",
+      "from": "2024-11-26T10:55:00.000Z",
+      "to": "2024-11-26T12:30:00.000Z",
+      "id": "edd2248ada274ca0256e2d607c65f027"
+    },
+    {
+      "date": "Le mardi 26 novembre 2024 de  15:00:00 à  17:30:00",
+      "locality": "VALENTINA",
+      "localitySlug": "valentina",
+      "streets": "The Cubicle, Innodis, Birger Technology Operation Center, Supercash et CWA Valentina",
+      "district": "plainewilhems",
+      "from": "2024-11-26T11:00:00.000Z",
+      "to": "2024-11-26T13:30:00.000Z",
+      "id": "004a7b6e987aef357c27fd61b3407486"
+    },
+    {
+      "date": "Le mardi 26 novembre 2024 de  10:10:00 à  11:30:00",
+      "locality": "CITE MALHERBES",
+      "localitySlug": "cite-malherbes",
+      "streets": "WHOLE REGION",
+      "district": "plainewilhems",
+      "from": "2024-11-26T06:10:00.000Z",
+      "to": "2024-11-26T07:30:00.000Z",
+      "id": "746483440766ceaf3a5ea490e596a357"
+    },
+    {
+      "date": "Le mardi 26 novembre 2024 de  09:00:00 à  15:30:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "PTE AZURE, STEPHEN LANE, COASTAL ROAD, PEREYBERE NEAR WINNERS",
+      "district": "rivieredurempart",
+      "from": "2024-11-26T05:00:00.000Z",
+      "to": "2024-11-26T11:30:00.000Z",
+      "id": "016920c77951447d9dccf8dc58832f25"
+    },
+    {
+      "date": "Le mardi 26 novembre 2024 de  08:30:00 à  17:00:00",
+      "locality": "LA FLORA",
+      "localitySlug": "la-flora",
+      "streets": "le village de la Flora",
+      "district": "savanne",
+      "from": "2024-11-26T04:30:00.000Z",
+      "to": "2024-11-26T13:00:00.000Z",
+      "id": "8880c5d59629baa5d94434ea40f7e464"
+    }
+  ]
+}

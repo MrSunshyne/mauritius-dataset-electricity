@@ -1,0 +1,58 @@
+{
+  "date": "2022-07-18",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.484Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le lundi 18 juillet 2022 de  16:00:00 à  18:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "DANS LES ENVIRONS DUNE PARTIE DE LA ROUTE ROYALE ET RUE LA JOLIETTE",
+      "district": "blackriver",
+      "from": "2022-07-18T12:00:00.000Z",
+      "to": "2022-07-18T14:00:00.000Z",
+      "id": "c906c499b9f43c8e08f5512f7afb85a7"
+    },
+    {
+      "date": "Le lundi 18 juillet 2022 de  13:00:00 à  14:00:00",
+      "locality": "ARSENAL",
+      "localitySlug": "arsenal",
+      "streets": "ARSENAL A CALEBASSES",
+      "district": "pamplemousses",
+      "from": "2022-07-18T09:00:00.000Z",
+      "to": "2022-07-18T10:00:00.000Z",
+      "id": "ec9c9293808e9c25f09aa355fd0d9f0f"
+    },
+    {
+      "date": "Le lundi 18 juillet 2022 de  10:00:00 à  17:00:00",
+      "locality": "CITE CHEBEL",
+      "localitySlug": "cite-chebel",
+      "streets": "CITE CHEBEL-CHEBEC",
+      "district": "plainewilhems",
+      "from": "2022-07-18T06:00:00.000Z",
+      "to": "2022-07-18T13:00:00.000Z",
+      "id": "7719818d3c958b50d99f19a87388efec"
+    },
+    {
+      "date": "Le lundi 18 juillet 2022 de  12:15:00 à  13:30:00",
+      "locality": "SODNAC",
+      "localitySlug": "sodnac",
+      "streets": "HILLCREST,FLAMANDS,HIRONDELLE SODNAC",
+      "district": "plainewilhems",
+      "from": "2022-07-18T08:15:00.000Z",
+      "to": "2022-07-18T09:30:00.000Z",
+      "id": "fe2eb3c24e0049e0cc9fafeb1311a4f4"
+    },
+    {
+      "date": "Le lundi 18 juillet 2022 de  11:00:00 à  13:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "ARYA MANDIR RD GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2022-07-18T07:00:00.000Z",
+      "to": "2022-07-18T09:00:00.000Z",
+      "id": "5ec89f94b45d1fd502c38865d0c5811f"
+    }
+  ]
+}

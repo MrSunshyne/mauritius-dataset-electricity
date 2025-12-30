@@ -1,0 +1,68 @@
+{
+  "date": "2023-01-30",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.490Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le lundi 30 janvier 2023 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC DE CHAZAL-AVE DES PERROQUETS, AVE DES TOURTEREAUX, AVE DES BENGALIS, AVE DES OIES, AVE DES MANGUIERS ET AVE DES MOUETTES",
+      "district": "blackriver",
+      "from": "2023-01-30T04:30:00.000Z",
+      "to": "2023-01-30T11:30:00.000Z",
+      "id": "adaaaa49194de2766465b7228d8d032c"
+    },
+    {
+      "date": "Le lundi 30 janvier 2023 de  18:00:00 à  20:30:00",
+      "locality": "SODNAC",
+      "localitySlug": "sodnac",
+      "streets": "AVENUE HILL CREST SODNAC",
+      "district": "plainewilhems",
+      "from": "2023-01-30T14:00:00.000Z",
+      "to": "2023-01-30T16:30:00.000Z",
+      "id": "9a8bfe27b7b7792d0396ec4b746d26de"
+    },
+    {
+      "date": "Le lundi 30 janvier 2023 de  16:00:00 à  17:00:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "LES ABONNES DE GRAND GAUBE",
+      "district": "rivieredurempart",
+      "from": "2023-01-30T12:00:00.000Z",
+      "to": "2023-01-30T13:00:00.000Z",
+      "id": "3d213ad44e73fdcceb0daf106c09f7d7"
+    },
+    {
+      "date": "Le lundi 30 janvier 2023 de  16:00:00 à  17:00:00",
+      "locality": "REUNION MAUREL",
+      "localitySlug": "reunion-maurel",
+      "streets": "LES ABONNES DE REUNION MAUREL",
+      "district": "rivieredurempart",
+      "from": "2023-01-30T12:00:00.000Z",
+      "to": "2023-01-30T13:00:00.000Z",
+      "id": "34ac1494020f8c1efb36efbdfc1c33e5"
+    },
+    {
+      "date": "Le lundi 30 janvier 2023 de  16:00:00 à  17:00:00",
+      "locality": "ROCHE TERRE",
+      "localitySlug": "roche-terre",
+      "streets": "LES ABONNES DE ROCHE TERRE",
+      "district": "rivieredurempart",
+      "from": "2023-01-30T12:00:00.000Z",
+      "to": "2023-01-30T13:00:00.000Z",
+      "id": "0442169249d0cb660b8984b2b360dff3"
+    },
+    {
+      "date": "Le lundi 30 janvier 2023 de  16:00:00 à  17:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "LES ABONNES DE GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2023-01-30T12:00:00.000Z",
+      "to": "2023-01-30T13:00:00.000Z",
+      "id": "d1d132203d0b513a8f54202f9efdc818"
+    }
+  ]
+}

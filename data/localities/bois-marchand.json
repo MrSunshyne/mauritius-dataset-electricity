@@ -1,0 +1,60 @@
+{
+  "slug": "bois-marchand",
+  "name": "BOIS MARCHAND",
+  "district": "pamplemousses",
+  "generated": "2025-12-30T19:07:15.586Z",
+  "outageCount": 7,
+  "firstOutage": "2023-08-27",
+  "lastOutage": "2025-12-09",
+  "outages": [
+    {
+      "date": "Le mardi 9 décembre 2025 de  09:30:00 à  15:00:00",
+      "streets": "BOIS MARCHAND",
+      "from": "2025-12-09T05:30:00.000Z",
+      "to": "2025-12-09T11:00:00.000Z",
+      "id": "7d201b8b180b8f7347e3c43a842feb12"
+    },
+    {
+      "date": "Le mercredi 3 septembre 2025 de  13:45:00 à  14:30:00",
+      "streets": "BOIS MARCHAND",
+      "from": "2025-09-03T09:45:00.000Z",
+      "to": "2025-09-03T10:30:00.000Z",
+      "id": "7b66e1f4d5ef2bd6643f6aef19382a83"
+    },
+    {
+      "date": "Le samedi 30 novembre 2024 de  09:45:00 à  11:00:00",
+      "streets": "CITE BOIS MARCHAND.",
+      "from": "2024-11-30T05:45:00.000Z",
+      "to": "2024-11-30T07:00:00.000Z",
+      "id": "bd55a9283a43b48f9e14c4b5eb6e6e22"
+    },
+    {
+      "date": "Le lundi 15 juillet 2024 de  14:30:00 à  16:30:00",
+      "streets": "Bois Marchand",
+      "from": "2024-07-15T10:30:00.000Z",
+      "to": "2024-07-15T12:30:00.000Z",
+      "id": "3ebea1059d7d1b6b72d36cebbedae699"
+    },
+    {
+      "date": "Le samedi 24 février 2024 de  10:45:00 à  12:30:00",
+      "streets": "Bois Marchand",
+      "from": "2024-02-24T06:45:00.000Z",
+      "to": "2024-02-24T08:30:00.000Z",
+      "id": "fc6f6537c8824964f0ee1c33413659f1"
+    },
+    {
+      "date": "Le mardi 23 janvier 2024 de  12:00:00 à  13:00:00",
+      "streets": "BOIS MARCHAND ET EN PARTIE RL ROAD CROISEE MT LONGUE",
+      "from": "2024-01-23T08:00:00.000Z",
+      "to": "2024-01-23T09:00:00.000Z",
+      "id": "8722f2aadd502b7d087d9bde683f3d29"
+    },
+    {
+      "date": "Le dimanche 27 août 2023 de  08:30:00 à  15:00:00",
+      "streets": "Bois Marchand, Cité Florida, La Croisée de Montagne Longue, Une partie de Route Royale Terre Rouge",
+      "from": "2023-08-27T04:30:00.000Z",
+      "to": "2023-08-27T11:00:00.000Z",
+      "id": "87ae58813b1b1c57ca43dc927339b34a"
+    }
+  ]
+}

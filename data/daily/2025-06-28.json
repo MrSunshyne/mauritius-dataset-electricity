@@ -1,0 +1,38 @@
+{
+  "date": "2025-06-28",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.522Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le samedi 28 juin 2025 de  08:40:00 à  09:30:00",
+      "locality": "RIVIERE DU POSTE",
+      "localitySlug": "riviere-du-poste",
+      "streets": "Nr Community Centre",
+      "district": "grandport",
+      "from": "2025-06-28T04:40:00.000Z",
+      "to": "2025-06-28T05:30:00.000Z",
+      "id": "10ecc34130225cee526e68bf8e63b5f1"
+    },
+    {
+      "date": "Le samedi 28 juin 2025 de  07:20:00 à  14:30:00",
+      "locality": "PETIT VERGER P AUX SABLES",
+      "localitySlug": "petit-verger-p-aux-sables",
+      "streets": "Avenues Sunny Hill,Colbert,Bosquet,Trochetia,Coqueluches,Morc Rey et les environs",
+      "district": "portlouis",
+      "from": "2025-06-28T03:20:00.000Z",
+      "to": "2025-06-28T10:30:00.000Z",
+      "id": "8a04b4b36758a1c80cfd949d360b13bf"
+    },
+    {
+      "date": "Le samedi 28 juin 2025 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "POINTE COTTON",
+      "district": "rodrigues",
+      "from": "2025-06-28T04:30:00.000Z",
+      "to": "2025-06-28T11:00:00.000Z",
+      "id": "224397ab64d748274de67d37d073ae71"
+    }
+  ]
+}

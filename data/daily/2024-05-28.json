@@ -1,0 +1,48 @@
+{
+  "date": "2024-05-28",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.508Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mardi 28 mai 2024 de  10:30:00 à  12:00:00",
+      "locality": "VALLEE PITOT",
+      "localitySlug": "vallee-pitot",
+      "streets": "DANS LES ENVIRONS DE EID GAH, BOULEVARD HUGON, BOULEVARD PITOT, CRIMEA, MORC GOOLAMALLY ET CHALET",
+      "district": "portlouis",
+      "from": "2024-05-28T06:30:00.000Z",
+      "to": "2024-05-28T08:00:00.000Z",
+      "id": "2c7312033c0f3b94ac51830b18b0aff3"
+    },
+    {
+      "date": "Le mardi 28 mai 2024 de  10:20:00 à  12:30:00",
+      "locality": "CASSIS",
+      "localitySlug": "cassis",
+      "streets": "PART OF CASSIS",
+      "district": "portlouis",
+      "from": "2024-05-28T06:20:00.000Z",
+      "to": "2024-05-28T08:30:00.000Z",
+      "id": "2c07639959a7794f2e056003bbe8b0a4"
+    },
+    {
+      "date": "Le mardi 28 mai 2024 de  08:30:00 à  16:00:00",
+      "locality": "BUTTES AUX PAPAYES",
+      "localitySlug": "buttes-aux-papayes",
+      "streets": "LES ABONNES DE DOMAINE DE BELLE VUE.",
+      "district": "rivieredurempart",
+      "from": "2024-05-28T04:30:00.000Z",
+      "to": "2024-05-28T12:00:00.000Z",
+      "id": "db3be32cb638ef0f2c7ea16ecbc5de7f"
+    },
+    {
+      "date": "Le mardi 28 mai 2024 de  09:45:00 à  12:00:00",
+      "locality": "UPPER VALE",
+      "localitySlug": "upper-vale",
+      "streets": "SSR Road & Morc Sucre D-Or",
+      "district": "rivieredurempart",
+      "from": "2024-05-28T05:45:00.000Z",
+      "to": "2024-05-28T08:00:00.000Z",
+      "id": "2496465a8034575794038aa5f6198495"
+    }
+  ]
+}

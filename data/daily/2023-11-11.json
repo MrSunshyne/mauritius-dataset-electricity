@@ -1,0 +1,88 @@
+{
+  "date": "2023-11-11",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.501Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le samedi 11 novembre 2023 de  19:45:00 à  00:00:00",
+      "locality": "LA GAULETTE",
+      "localitySlug": "la-gaulette",
+      "streets": "LA GAULETTE, LE MORNE, COTTEAU RAFFIN. (FEEDER TRIP)",
+      "district": "blackriver",
+      "from": "2023-11-11T15:45:00.000Z",
+      "to": "2023-11-10T20:00:00.000Z",
+      "id": "cb3c2217a7322371af1d610119c601f4"
+    },
+    {
+      "date": "Le samedi 11 novembre 2023 de  07:00:00 à  14:00:00",
+      "locality": "SEBASTOPOL",
+      "localitySlug": "sebastopol",
+      "streets": "DOMAINE ETOILE",
+      "district": "flacq",
+      "from": "2023-11-11T03:00:00.000Z",
+      "to": "2023-11-11T10:00:00.000Z",
+      "id": "0ff9ba4e4f6343b00563752740305fa7"
+    },
+    {
+      "date": "Le samedi 11 novembre 2023 de  08:30:00 à  10:00:00",
+      "locality": "EBENE",
+      "localitySlug": "ebene",
+      "streets": "MORC EBENE, EBENE SQUARE ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2023-11-11T04:30:00.000Z",
+      "to": "2023-11-11T06:00:00.000Z",
+      "id": "75ffc0bc46267b785cce2113d185ef6d"
+    },
+    {
+      "date": "Le samedi 11 novembre 2023 de  10:30:00 à  16:00:00",
+      "locality": "EBENE",
+      "localitySlug": "ebene",
+      "streets": "MORC EBENE ET DANS LES ALENTOURS DE EBENE SQUARE",
+      "district": "plainewilhems",
+      "from": "2023-11-11T06:30:00.000Z",
+      "to": "2023-11-11T12:00:00.000Z",
+      "id": "b5559fba5996d425eadd44e294a0815c"
+    },
+    {
+      "date": "Le samedi 11 novembre 2023 de  11:30:00 à  16:00:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "ROBERT REY ROCHES BRUNES",
+      "district": "plainewilhems",
+      "from": "2023-11-11T07:30:00.000Z",
+      "to": "2023-11-11T12:00:00.000Z",
+      "id": "9c27e3fff54ccb7ddcc1741678d6da02"
+    },
+    {
+      "date": "Le samedi 11 novembre 2023 de  07:30:00 à  19:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "GRAND BAIE SOTTISE ROAD ET LES REGIONS AVOISINANT",
+      "district": "rivieredurempart",
+      "from": "2023-11-11T03:30:00.000Z",
+      "to": "2023-11-11T15:00:00.000Z",
+      "id": "79a577d5761c93a834119dcf88aecdb9"
+    },
+    {
+      "date": "Le samedi 11 novembre 2023 de  11:00:00 à  22:30:00",
+      "locality": "BAIN BOEUF",
+      "localitySlug": "bain-boeuf",
+      "streets": "RESIDENCE LE JARDIN LA PLAGE PUBLIC BAIN BOEUF",
+      "district": "rivieredurempart",
+      "from": "2023-11-11T07:00:00.000Z",
+      "to": "2023-11-11T18:30:00.000Z",
+      "id": "4c9c45f77dd1cdfddc64613db2e02f6b"
+    },
+    {
+      "date": "Le samedi 11 novembre 2023 de  19:45:00 à  00:00:00",
+      "locality": "BAIE DU CAP",
+      "localitySlug": "baie-du-cap",
+      "streets": "BEL OMBRE, BAIE DU CAP.(FEEDER TRIP)",
+      "district": "savanne",
+      "from": "2023-11-11T15:45:00.000Z",
+      "to": "2023-11-10T20:00:00.000Z",
+      "id": "bc07569e44db51c22566629e62da4e38"
+    }
+  ]
+}

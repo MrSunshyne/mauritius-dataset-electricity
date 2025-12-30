@@ -1,0 +1,68 @@
+{
+  "date": "2024-03-02",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.505Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le samedi 2 mars 2024 de  08:30:00 à  16:30:00",
+      "locality": "CASCAVEL",
+      "localitySlug": "cascavel",
+      "streets": "XAVIER VILLAGE, MORC VRS XAVIER, BAOBAB LANE, CASCAVELLE BRANCH ROAD, CWA PALMYRE ET PIVOT BOULTERRE",
+      "district": "blackriver",
+      "from": "2024-03-02T04:30:00.000Z",
+      "to": "2024-03-02T12:30:00.000Z",
+      "id": "87d13548524bf7a4ac5329f211780de7"
+    },
+    {
+      "date": "Le samedi 2 mars 2024 de  08:30:00 à  16:00:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "MORC L’AVENIR VRS 2 ET LES ENVIRONS",
+      "district": "moka",
+      "from": "2024-03-02T04:30:00.000Z",
+      "to": "2024-03-02T12:00:00.000Z",
+      "id": "6ad8b87c1f8dbcc02bc5c1fd6c19bd03"
+    },
+    {
+      "date": "Le samedi 2 mars 2024 de  08:30:00 à  16:00:00",
+      "locality": "SOLFERINO",
+      "localitySlug": "solferino",
+      "streets": "Pave Rd,Tanuja Lane,Hibiscus Rd No. 1,2,3",
+      "district": "plainewilhems",
+      "from": "2024-03-02T04:30:00.000Z",
+      "to": "2024-03-02T12:00:00.000Z",
+      "id": "012425cc23765d6a6dab4ac0c256b489"
+    },
+    {
+      "date": "Le samedi 2 mars 2024 de  08:30:00 à  16:00:00",
+      "locality": "MORC RAFFRAY GUIBIES",
+      "localitySlug": "morc-raffray-guibies",
+      "streets": "DANS LES ENVIRONS DE ANSE COURTOIS, DES AVENUES PERDRIX 1,2,3,4,5 ET PERRUCHE 1",
+      "district": "portlouis",
+      "from": "2024-03-02T04:30:00.000Z",
+      "to": "2024-03-02T12:00:00.000Z",
+      "id": "cc0ddd1f80d6b27d2bbae05538c00833"
+    },
+    {
+      "date": "Le samedi 2 mars 2024 de  08:30:00 à  14:30:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "dans les environs de Cap Mayeux",
+      "district": "rivieredurempart",
+      "from": "2024-03-02T04:30:00.000Z",
+      "to": "2024-03-02T10:30:00.000Z",
+      "id": "4144047e0e645e209980440505b4eb5b"
+    },
+    {
+      "date": "Le samedi 2 mars 2024 de  08:30:00 à  15:00:00",
+      "locality": "CITRON DONIS(RODRIGUES)",
+      "localitySlug": "citron-donis",
+      "streets": "Eau Vannee",
+      "district": "rodrigues",
+      "from": "2024-03-02T04:30:00.000Z",
+      "to": "2024-03-02T11:00:00.000Z",
+      "id": "ccf9ba4b95b3737e75ec1d0f17d8fbb3"
+    }
+  ]
+}

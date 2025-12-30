@@ -1,0 +1,68 @@
+{
+  "date": "2024-06-04",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.509Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le mardi 4 juin 2024 de  09:00:00 à  16:00:00",
+      "locality": "MEDINE BAMBOUS",
+      "localitySlug": "medine-bambous",
+      "streets": "BAY LILLE, LA VALETTE SME, POULTRY ET LES ALENTOURS",
+      "district": "blackriver",
+      "from": "2024-06-04T05:00:00.000Z",
+      "to": "2024-06-04T12:00:00.000Z",
+      "id": "6a6d381dabe7d91f9e94564792f4c8da"
+    },
+    {
+      "date": "Le mardi 4 juin 2024 de  08:30:00 à  17:00:00",
+      "locality": "VILLENOIRE",
+      "localitySlug": "villenoire",
+      "streets": "Ville Noire & Petit Bel Air habitant dans le périmètre et les rues suivantes: Ruisseau Delice, NHDC Ville Noire, CHA Ville Noire, VRS No I & II, Morcellement Blue Print Ville Noire, NHDC Petit Bel Air et Petit Bel air Village",
+      "district": "grandport",
+      "from": "2024-06-04T04:30:00.000Z",
+      "to": "2024-06-04T13:00:00.000Z",
+      "id": "70480bbad98d3db61a25ebc36e069c59"
+    },
+    {
+      "date": "Le mardi 4 juin 2024 de  15:25:00 à  16:00:00",
+      "locality": "BAGATELLE",
+      "localitySlug": "bagatelle",
+      "streets": "BAGATELLE OFFICE, BAGATELLE DAM, WATER TREATMENT PLANT",
+      "district": "moka",
+      "from": "2024-06-04T11:25:00.000Z",
+      "to": "2024-06-04T12:00:00.000Z",
+      "id": "c7a76b1520700c4ab72e1b7aa67ec5df"
+    },
+    {
+      "date": "Le mardi 4 juin 2024 de  09:30:00 à  13:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "ROGOOPUTH LANE PALMA ET DANS LES ALENTOURS DE LA BOUTIQUE BEEKAREE",
+      "district": "plainewilhems",
+      "from": "2024-06-04T05:30:00.000Z",
+      "to": "2024-06-04T09:00:00.000Z",
+      "id": "8b4d8e34ddfa6b70fc402c9d1ca1f1d8"
+    },
+    {
+      "date": "Le mardi 4 juin 2024 de  16:00:00 à  18:00:00",
+      "locality": "SIGNAL MOUNTAIN",
+      "localitySlug": "signal-mountain",
+      "streets": "LES ABONNES DE SIGNAL MOUNTAIN",
+      "district": "portlouis",
+      "from": "2024-06-04T12:00:00.000Z",
+      "to": "2024-06-04T14:00:00.000Z",
+      "id": "6f89bf76dbf99faa583a5896ed85679a"
+    },
+    {
+      "date": "Le mardi 4 juin 2024 de  08:30:00 à  15:00:00",
+      "locality": "SURINAM",
+      "localitySlug": "surinam",
+      "streets": "Martiniere et Surinam",
+      "district": "savanne",
+      "from": "2024-06-04T04:30:00.000Z",
+      "to": "2024-06-04T11:00:00.000Z",
+      "id": "0a2621b4659d20f6dc087c566f37bf68"
+    }
+  ]
+}

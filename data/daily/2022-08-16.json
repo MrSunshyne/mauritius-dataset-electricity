@@ -1,0 +1,68 @@
+{
+  "date": "2022-08-16",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.485Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le mardi 16 août 2022 de  09:00:00 à  15:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "LAMUSSE RD PLAINE MAGNIEN",
+      "district": "grandport",
+      "from": "2022-08-16T05:00:00.000Z",
+      "to": "2022-08-16T11:00:00.000Z",
+      "id": "fccffce9ccc81aafe8b73d30741ebbea"
+    },
+    {
+      "date": "Le mardi 16 août 2022 de  18:00:00 à  23:30:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "LAMUSSE ROAD PLAINE MAGNIEN",
+      "district": "grandport",
+      "from": "2022-08-16T14:00:00.000Z",
+      "to": "2022-08-16T19:30:00.000Z",
+      "id": "f1d80fbbc8a84fbaf9bc7e838b1b84f5"
+    },
+    {
+      "date": "Le mardi 16 août 2022 de  17:00:00 à  19:00:00",
+      "locality": "RICHE TERRE",
+      "localitySlug": "riche-terre",
+      "streets": "INDUSTRIAL ZONE RICHE TERRE",
+      "district": "pamplemousses",
+      "from": "2022-08-16T13:00:00.000Z",
+      "to": "2022-08-16T15:00:00.000Z",
+      "id": "3d0b33ebe4c48431ddba09454b751599"
+    },
+    {
+      "date": "Le mardi 16 août 2022 de  09:00:00 à  12:00:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "MAHATMA GANDHI RD PETIT RAFFRAY",
+      "district": "rivieredurempart",
+      "from": "2022-08-16T05:00:00.000Z",
+      "to": "2022-08-16T08:00:00.000Z",
+      "id": "b57f3e7a295e0e1aa88e8c66d1f4d967"
+    },
+    {
+      "date": "Le mardi 16 août 2022 de  21:00:00 à  01:30:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "MANILLALL ROAD,SWARAJ ROAD PETIT RAFFRAY ET DANS LES ENVIRONS.",
+      "district": "rivieredurempart",
+      "from": "2022-08-16T17:00:00.000Z",
+      "to": "2022-08-15T21:30:00.000Z",
+      "id": "d910651a593f1a01b02c7cd168ba3600"
+    },
+    {
+      "date": "Le mardi 16 août 2022 de  09:00:00 à  15:00:00",
+      "locality": "BEL OMBRE",
+      "localitySlug": "bel-ombre",
+      "streets": "Les villages de Bel Ombre et de Baie du Cap",
+      "district": "savanne",
+      "from": "2022-08-16T05:00:00.000Z",
+      "to": "2022-08-16T11:00:00.000Z",
+      "id": "e469dc6d1d6ad11659f78a5b1f82796e"
+    }
+  ]
+}

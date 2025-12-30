@@ -1,0 +1,78 @@
+{
+  "date": "2022-09-14",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.486Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le mercredi 14 septembre 2022 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "Morc Safeland, Ave des Cygognes",
+      "district": "blackriver",
+      "from": "2022-09-14T04:30:00.000Z",
+      "to": "2022-09-14T11:30:00.000Z",
+      "id": "4dab78ec8818285256087d7509faac6b"
+    },
+    {
+      "date": "Le mercredi 14 septembre 2022 de  09:00:00 à  12:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "ELIZABETH VILLE TOMBEAU BAY",
+      "district": "pamplemousses",
+      "from": "2022-09-14T05:00:00.000Z",
+      "to": "2022-09-14T08:00:00.000Z",
+      "id": "267b628223efb6287e38c8df0f4eb5ca"
+    },
+    {
+      "date": "Le mercredi 14 septembre 2022 de  16:00:00 à  18:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Barkly, Rue Jasmin, Rue Geranium, Rue Herchenroder, SSS Marcel Cabon, PSSA, Rue Narcisse, Prison Beau-Bassin, Brown Sequard Hospital, Piscine Serge Alfred, Agriculture Barkly, CWA Barkly, en partie Route Royale, Pope Hennessy et Rue Barkly Asylum",
+      "district": "plainewilhems",
+      "from": "2022-09-14T12:00:00.000Z",
+      "to": "2022-09-14T14:00:00.000Z",
+      "id": "f829e66f8804c3271a414333de9990b4"
+    },
+    {
+      "date": "Le mercredi 14 septembre 2022 de  11:00:00 à  15:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "TEMPLE LANE COROMANDEL",
+      "district": "plainewilhems",
+      "from": "2022-09-14T07:00:00.000Z",
+      "to": "2022-09-14T11:00:00.000Z",
+      "id": "849b4d8f79233a18f3f16d7cbac798c5"
+    },
+    {
+      "date": "Le mercredi 14 septembre 2022 de  12:00:00 à  16:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "MELDRUM, EMILE SAUZIER, IMPASSE NARAINEN",
+      "district": "plainewilhems",
+      "from": "2022-09-14T08:00:00.000Z",
+      "to": "2022-09-14T12:00:00.000Z",
+      "id": "a567512add8e35b0811f7a7abf46b1d7"
+    },
+    {
+      "date": "Le mercredi 14 septembre 2022 de  15:00:00 à  19:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "ROUTE DU CLUB VACOAS",
+      "district": "plainewilhems",
+      "from": "2022-09-14T11:00:00.000Z",
+      "to": "2022-09-14T15:00:00.000Z",
+      "id": "64f617b594a0f8613fadd9e2d0a731c6"
+    },
+    {
+      "date": "Le mercredi 14 septembre 2022 de  09:00:00 à  12:00:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "VILLAGE DE SOULLIAC",
+      "district": "savanne",
+      "from": "2022-09-14T05:00:00.000Z",
+      "to": "2022-09-14T08:00:00.000Z",
+      "id": "8f7f18f5c727cf71da2a72eeec0224a4"
+    }
+  ]
+}

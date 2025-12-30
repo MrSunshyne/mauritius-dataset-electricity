@@ -1,0 +1,53 @@
+{
+  "slug": "gros-bois",
+  "name": "GROS BOIS",
+  "district": "grandport",
+  "generated": "2025-12-30T19:07:15.692Z",
+  "outageCount": 6,
+  "firstOutage": "2022-03-17",
+  "lastOutage": "2025-07-25",
+  "outages": [
+    {
+      "date": "Le vendredi 25 juillet 2025 de  09:00:00 à  16:00:00",
+      "streets": "Gros Bois Village",
+      "from": "2025-07-25T05:00:00.000Z",
+      "to": "2025-07-25T12:00:00.000Z",
+      "id": "0d7d7a2f4271a9e19dcc05b0814af0a2"
+    },
+    {
+      "date": "Le mercredi 21 février 2024 de  10:30:00 à  14:00:00",
+      "streets": "MORC GROS BOIS-DISPENSARY RD NEW GROVE=MORC MAURIPARK NEW GROVE",
+      "from": "2024-02-21T06:30:00.000Z",
+      "to": "2024-02-21T10:00:00.000Z",
+      "id": "d969713dd38912a03bae6c127df27c1b"
+    },
+    {
+      "date": "Le dimanche 11 février 2024 de  18:30:00 à  20:30:00",
+      "streets": "GROS BOIS",
+      "from": "2024-02-11T14:30:00.000Z",
+      "to": "2024-02-11T16:30:00.000Z",
+      "id": "a08a580ff6bf82d585571874f08c5bf2"
+    },
+    {
+      "date": "Le dimanche 5 novembre 2023 de  08:30:00 à  16:00:00",
+      "streets": "Grand Bois et Bois Cheri",
+      "from": "2023-11-05T04:30:00.000Z",
+      "to": "2023-11-05T12:00:00.000Z",
+      "id": "34057dc46b445befd635cd7384b70eab"
+    },
+    {
+      "date": "Le mardi 9 mai 2023 de  09:00:00 à  12:00:00",
+      "streets": "LES VERGES DE GROS BOIS",
+      "from": "2023-05-09T05:00:00.000Z",
+      "to": "2023-05-09T08:00:00.000Z",
+      "id": "8b8d996bf15b7dcdffdb8e434c385de8"
+    },
+    {
+      "date": "Le jeudi 17 mars 2022 de  08:30:00 à  15:00:00",
+      "streets": "Morcellement Les Vergers Gros Bois",
+      "from": "2022-03-17T04:30:00.000Z",
+      "to": "2022-03-17T11:00:00.000Z",
+      "id": "fb7936db87871754b6c30764a2264d76"
+    }
+  ]
+}

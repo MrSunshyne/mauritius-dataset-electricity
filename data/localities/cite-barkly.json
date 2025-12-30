@@ -1,0 +1,25 @@
+{
+  "slug": "cite-barkly",
+  "name": "CITE BARKLY",
+  "district": "plainewilhems",
+  "generated": "2025-12-30T19:07:15.631Z",
+  "outageCount": 2,
+  "firstOutage": "2024-01-19",
+  "lastOutage": "2024-02-20",
+  "outages": [
+    {
+      "date": "Le mardi 20 février 2024 de  16:00:00 à  17:00:00",
+      "streets": "PSSA,CWA,SERGE ALFRED POOL,MENTAL,PRISON AND NEARBY REGION",
+      "from": "2024-02-20T12:00:00.000Z",
+      "to": "2024-02-20T13:00:00.000Z",
+      "id": "633751fe57b1b0b3d771716a544556e5"
+    },
+    {
+      "date": "Le vendredi 19 janvier 2024 de  16:15:00 à  19:00:00",
+      "streets": "METRO PASSENGER TERMINAL,AVE HORTENSIA AND NEARBY REGIONCHEBEL,NARCISSE,E GODER B BASSIN",
+      "from": "2024-01-19T12:15:00.000Z",
+      "to": "2024-01-19T15:00:00.000Z",
+      "id": "f909f442d12de7c3620c0982c3e6105d"
+    }
+  ]
+}

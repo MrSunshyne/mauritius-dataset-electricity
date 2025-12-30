@@ -1,0 +1,58 @@
+{
+  "date": "2025-11-12",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.528Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mercredi 12 novembre 2025 de  08:30:00 à  15:30:00",
+      "locality": "MEDINE BAMBOUS",
+      "localitySlug": "medine-bambous",
+      "streets": "LA MECQUE RD, PIVOT LAMITIE, LA MECQUE VILLAGE, DOG BREEDERS ET PIVOT BOIS PIPE",
+      "district": "blackriver",
+      "from": "2025-11-12T04:30:00.000Z",
+      "to": "2025-11-12T11:30:00.000Z",
+      "id": "082d4a9deaa62fdc34a0a8a395bef99c"
+    },
+    {
+      "date": "Le mercredi 12 novembre 2025 de  12:45:00 à  13:45:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "ALLEE TAMARIN ST, VAUDAGNE ST ET LES ENVIRONS",
+      "district": "blackriver",
+      "from": "2025-11-12T08:45:00.000Z",
+      "to": "2025-11-12T09:45:00.000Z",
+      "id": "ec16cad152b78f7cb850e4ea30d38672"
+    },
+    {
+      "date": "Le mercredi 12 novembre 2025 de  12:15:00 à  13:45:00",
+      "locality": "CHAMAREL",
+      "localitySlug": "chamarel",
+      "streets": "Chamarel,Le Morne,Case Noyale,La Gaulette,Cotteau Raffin,Riviere Noire",
+      "district": "blackriver",
+      "from": "2025-11-12T08:15:00.000Z",
+      "to": "2025-11-12T09:45:00.000Z",
+      "id": "55ba4b57bb594e1d9ff74ff2aeb3d6a2"
+    },
+    {
+      "date": "Le mercredi 12 novembre 2025 de  09:45:00 à  12:00:00",
+      "locality": "CREVE COEUR",
+      "localitySlug": "creve-coeur",
+      "streets": "Terminus Creve Coeur",
+      "district": "pamplemousses",
+      "from": "2025-11-12T05:45:00.000Z",
+      "to": "2025-11-12T08:00:00.000Z",
+      "id": "98ade7403d7df1b8df5f749df16d8f35"
+    },
+    {
+      "date": "Le mercredi 12 novembre 2025 de  15:00:00 à  16:00:00",
+      "locality": "ROCHES NOIRES",
+      "localitySlug": "roches-noires",
+      "streets": "BRANCH RD,ROYAL RD NEAR GOVT SCHOOL",
+      "district": "rivieredurempart",
+      "from": "2025-11-12T11:00:00.000Z",
+      "to": "2025-11-12T12:00:00.000Z",
+      "id": "085d970ef3fcc958833ee4e8e4f686cd"
+    }
+  ]
+}

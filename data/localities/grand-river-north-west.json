@@ -1,0 +1,74 @@
+{
+  "slug": "grand-river-north-west",
+  "name": "GRAND RIVER NORTH WEST",
+  "district": "blackriver",
+  "generated": "2025-12-30T19:07:15.686Z",
+  "outageCount": 9,
+  "firstOutage": "2024-04-29",
+  "lastOutage": "2025-11-06",
+  "outages": [
+    {
+      "date": "Le jeudi 6 novembre 2025 de  12:00:00 à  17:00:00",
+      "streets": "GRANDE RIVIERE NEAR BOARSTAL",
+      "from": "2025-11-06T08:00:00.000Z",
+      "to": "2025-11-06T13:00:00.000Z",
+      "id": "d28ef33fc2a4da068a671d1791458b17"
+    },
+    {
+      "date": "Le jeudi 3 juillet 2025 de  16:00:00 à  17:00:00",
+      "streets": "LES ABONNES DE GRNW",
+      "from": "2025-07-03T12:00:00.000Z",
+      "to": "2025-07-03T13:00:00.000Z",
+      "id": "bea7cd52ab7fa947ce2a917f6bfc97da"
+    },
+    {
+      "date": "Le jeudi 26 juin 2025 de  09:00:00 à  15:00:00",
+      "streets": "DANS LES ENVIRONS DE PAILLES ROAD ET UNE PARTIE DE BATTERIE ROAD",
+      "from": "2025-06-26T05:00:00.000Z",
+      "to": "2025-06-26T11:00:00.000Z",
+      "id": "15636cb0726c63aa41235b41b6629f1a"
+    },
+    {
+      "date": "Le mercredi 19 février 2025 de  16:00:00 à  18:00:00",
+      "streets": "UNE PARTIE DE LA ROUTE ROYAL",
+      "from": "2025-02-19T12:00:00.000Z",
+      "to": "2025-02-19T14:00:00.000Z",
+      "id": "cd58b3c956af3894355810f84e3473f5"
+    },
+    {
+      "date": "Le jeudi 21 novembre 2024 de  16:30:00 à  18:00:00",
+      "streets": "LES ABONNES HABITANT GRNW DANS LES ENVIRONS DE RESIDENCE BORSTAL",
+      "from": "2024-11-21T12:30:00.000Z",
+      "to": "2024-11-21T14:00:00.000Z",
+      "id": "a9a72b1e22d5317290a554971e878c2d"
+    },
+    {
+      "date": "Le mardi 22 octobre 2024 de  16:00:00 à  18:10:00",
+      "streets": "Residence Mauvillac,GRNW",
+      "from": "2024-10-22T12:00:00.000Z",
+      "to": "2024-10-22T14:10:00.000Z",
+      "id": "9c754ebc4cb3641870232ec6b4d51165"
+    },
+    {
+      "date": "Le jeudi 17 octobre 2024 de  09:30:00 à  14:30:00",
+      "streets": "LES ABONNES HABITANT PAILLES ROAD DANS LES ENVIRONS DE RESIDENCE MAUVILAC",
+      "from": "2024-10-17T05:30:00.000Z",
+      "to": "2024-10-17T10:30:00.000Z",
+      "id": "18f1f1f8be471902682ab4032888d16e"
+    },
+    {
+      "date": "Le mardi 2 juillet 2024 de  16:00:00 à  17:00:00",
+      "streets": "DANS LES ENVIRONS DE RESIDENCE BORSTAL, MONTEE S, CHANTIER DE PLAISANCE, NIS TRADING, GRNW PRISON, KALACHAND BEDDING WORLD ET COROMANDEL METRO EXPRESS STATION",
+      "from": "2024-07-02T12:00:00.000Z",
+      "to": "2024-07-02T13:00:00.000Z",
+      "id": "942637016935474587966401a010d9c9"
+    },
+    {
+      "date": "Le lundi 29 avril 2024 de  16:00:00 à  16:30:00",
+      "streets": "DANS LES ENVIRONS DE LA ROUTE ROYAL ET RESIDENCE BORSTAL",
+      "from": "2024-04-29T12:00:00.000Z",
+      "to": "2024-04-29T12:30:00.000Z",
+      "id": "95836d803b441a88db05f3225b276b1b"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2025-11-28",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.528Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le vendredi 28 novembre 2025 de  15:00:00 à  19:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "AVE GUY ROZEMONT, ROBERT EDWARD HART, DR FERRIERE, PANCHO LANE, CHASTEAUNEUF ET AVE BRADSHAW.",
+      "district": "plainewilhems",
+      "from": "2025-11-28T11:00:00.000Z",
+      "to": "2025-11-28T15:00:00.000Z",
+      "id": "401fe9b2b76dc457c6c211df1df18169"
+    },
+    {
+      "date": "Le vendredi 28 novembre 2025 de  09:20:00 à  12:00:00",
+      "locality": "TOUR KOENIG",
+      "localitySlug": "tour-koenig",
+      "streets": "RUE COQUILLAGE, LA TOURELLE ET LES ALENTOURS",
+      "district": "portlouis",
+      "from": "2025-11-28T05:20:00.000Z",
+      "to": "2025-11-28T08:00:00.000Z",
+      "id": "b31e041920b99f68f5e2d08fdd12cc9b"
+    },
+    {
+      "date": "Le vendredi 28 novembre 2025 de  10:00:00 à  12:00:00",
+      "locality": "CAMP YOLOFF",
+      "localitySlug": "camp-yoloff",
+      "streets": "ARAB ST, MILITARY ST ET LES ALENTOURS",
+      "district": "portlouis",
+      "from": "2025-11-28T06:00:00.000Z",
+      "to": "2025-11-28T08:00:00.000Z",
+      "id": "f8a2bc858f7f1f265154cc99b94d03a4"
+    },
+    {
+      "date": "Le vendredi 28 novembre 2025 de  14:00:00 à  15:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "RUE DR BEAUGEARD, ST JAMES, RUE MADAGASCAR, RUE LA GAIETE ET LES ENVIRONS.",
+      "district": "portlouis",
+      "from": "2025-11-28T10:00:00.000Z",
+      "to": "2025-11-28T11:00:00.000Z",
+      "id": "2dc811a9939aa6696792927630f07a6a"
+    },
+    {
+      "date": "Le vendredi 28 novembre 2025 de  08:30:00 à  10:00:00",
+      "locality": "ENGLISH BAY(RODRIGUES)",
+      "localitySlug": "english-bay",
+      "streets": "Terre Rouge (Morcellement), Caverne Provert et Jean Tac",
+      "district": "rodrigues",
+      "from": "2025-11-28T04:30:00.000Z",
+      "to": "2025-11-28T06:00:00.000Z",
+      "id": "44c1754005665209c1e1e53d410884a7"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "2022-12-27",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.489Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le mardi 27 décembre 2022 de  11:00:00 à  12:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "NONDLOLL LANE, PLATFORM LANE PETITE RIVIERE",
+      "district": "blackriver",
+      "from": "2022-12-27T07:00:00.000Z",
+      "to": "2022-12-27T08:00:00.000Z",
+      "id": "2e8b58d879402a1ef6a9240bf537763c"
+    },
+    {
+      "date": "Le mardi 27 décembre 2022 de  09:30:00 à  11:00:00",
+      "locality": "CONSTANCE",
+      "localitySlug": "constance",
+      "streets": "BELLE VUE ALLENDY, CONSTANCE",
+      "district": "flacq",
+      "from": "2022-12-27T05:30:00.000Z",
+      "to": "2022-12-27T07:00:00.000Z",
+      "id": "a577459fa452d9e1bc742498c579e6fc"
+    },
+    {
+      "date": "Le mardi 27 décembre 2022 de  17:00:00 à  00:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "MLLE LAURE TERRE ROUGE-FLORIDA LANE",
+      "district": "pamplemousses",
+      "from": "2022-12-27T13:00:00.000Z",
+      "to": "2022-12-26T20:00:00.000Z",
+      "id": "d8e1e8c8242dd08b3d4264ff14ee6d41"
+    },
+    {
+      "date": "Le mardi 27 décembre 2022 de  10:30:00 à  13:00:00",
+      "locality": "MARE LONGUE",
+      "localitySlug": "mare-longue",
+      "streets": "MARE LONGUE,CLOSEL,  TAMARIND FALLS, MONT SIMONET",
+      "district": "plainewilhems",
+      "from": "2022-12-27T06:30:00.000Z",
+      "to": "2022-12-27T09:00:00.000Z",
+      "id": "131fb258bf97190716891af4c5cbd82c"
+    },
+    {
+      "date": "Le mardi 27 décembre 2022 de  13:00:00 à  15:30:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "BOUNDARY NEAR AQUARELLE",
+      "district": "plainewilhems",
+      "from": "2022-12-27T09:00:00.000Z",
+      "to": "2022-12-27T11:30:00.000Z",
+      "id": "1ef81b432a4bf35cc68857ddf98c6a76"
+    },
+    {
+      "date": "Le mardi 27 décembre 2022 de  14:25:00 à  16:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "COOWAR, LABOURDONNAIS, LORETO CONVENT STREETS",
+      "district": "plainewilhems",
+      "from": "2022-12-27T10:25:00.000Z",
+      "to": "2022-12-27T12:00:00.000Z",
+      "id": "5cbcad91e7a5f510fdd19069780a6875"
+    },
+    {
+      "date": "Le mardi 27 décembre 2022 de  08:30:00 à  14:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "ENVIRONS MORC SWAN ET EDEN COVE",
+      "district": "rivieredurempart",
+      "from": "2022-12-27T04:30:00.000Z",
+      "to": "2022-12-27T10:00:00.000Z",
+      "id": "1ea3470d77c440dbfa2bc79ca05edb09"
+    }
+  ]
+}

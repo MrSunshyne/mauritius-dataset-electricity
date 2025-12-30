@@ -1,0 +1,58 @@
+{
+  "date": "2024-03-29",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.506Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le vendredi 29 mars 2024 de  08:30:00 à  16:30:00",
+      "locality": "LA MIVOIE",
+      "localitySlug": "la-mivoie",
+      "streets": "LA MIVOIE ET LA PRENEUSE",
+      "district": "blackriver",
+      "from": "2024-03-29T04:30:00.000Z",
+      "to": "2024-03-29T12:30:00.000Z",
+      "id": "e82d3db3c7e06733e09d2879ab0ccf41"
+    },
+    {
+      "date": "Le vendredi 29 mars 2024 de  09:40:00 à  16:00:00",
+      "locality": "UNION PARK",
+      "localitySlug": "union-park",
+      "streets": "PUIT RD, BAITKA RD, MORC VRS",
+      "district": "grandport",
+      "from": "2024-03-29T05:40:00.000Z",
+      "to": "2024-03-29T12:00:00.000Z",
+      "id": "21551bafecf4d672a3618e0762e3b034"
+    },
+    {
+      "date": "Le vendredi 29 mars 2024 de  09:55:00 à  12:00:00",
+      "locality": "COTE D-OR",
+      "localitySlug": "cote-d-or",
+      "streets": "CAMP AUGUS",
+      "district": "moka",
+      "from": "2024-03-29T05:55:00.000Z",
+      "to": "2024-03-29T08:00:00.000Z",
+      "id": "72f6993f1203ed73ee358d9c6c6ee0bc"
+    },
+    {
+      "date": "Le vendredi 29 mars 2024 de  09:30:00 à  15:00:00",
+      "locality": "TREFLES",
+      "localitySlug": "trefles",
+      "streets": "KANDA LANE, DR JEETOO, AVE MARGUERITE",
+      "district": "plainewilhems",
+      "from": "2024-03-29T05:30:00.000Z",
+      "to": "2024-03-29T11:00:00.000Z",
+      "id": "595aac5b580841efcdd3b366752eeb6d"
+    },
+    {
+      "date": "Le vendredi 29 mars 2024 de  09:30:00 à  15:00:00",
+      "locality": "ROCHE BOIS",
+      "localitySlug": "roche-bois",
+      "streets": "BALISAGE RD",
+      "district": "portlouis",
+      "from": "2024-03-29T05:30:00.000Z",
+      "to": "2024-03-29T11:00:00.000Z",
+      "id": "c77f7dbf90945c2189ae6db8098301da"
+    }
+  ]
+}

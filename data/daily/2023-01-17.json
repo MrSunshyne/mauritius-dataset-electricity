@@ -1,0 +1,58 @@
+{
+  "date": "2023-01-17",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.490Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mardi 17 janvier 2023 de  08:30:00 à  12:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC BISMIC-AVE PIC PIC, AVE DES COCOTIERS, AVE DES COCOTIERS NO 2 ET UNE PARTIE DE AVE DES AIGLES",
+      "district": "blackriver",
+      "from": "2023-01-17T04:30:00.000Z",
+      "to": "2023-01-17T08:00:00.000Z",
+      "id": "46ac52ed6dd660d17c0ace4113dee5b4"
+    },
+    {
+      "date": "Le mardi 17 janvier 2023 de  11:30:00 à  13:30:00",
+      "locality": "NOUVELLE DECOUVERTE",
+      "localitySlug": "nouvelle-decouverte",
+      "streets": "LESCALIER BRANCH ROAD NOUVELLE DECOUVERTE",
+      "district": "moka",
+      "from": "2023-01-17T07:30:00.000Z",
+      "to": "2023-01-17T09:30:00.000Z",
+      "id": "e33a68ac11d608d72b84ff932fdd22fa"
+    },
+    {
+      "date": "Le mardi 17 janvier 2023 de  17:00:00 à  19:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "BASSIN ROAD",
+      "district": "plainewilhems",
+      "from": "2023-01-17T13:00:00.000Z",
+      "to": "2023-01-17T15:00:00.000Z",
+      "id": "7b8ac132fedd6c06d2c2f0b08a3d0e65"
+    },
+    {
+      "date": "Le mardi 17 janvier 2023 de  09:00:00 à  15:00:00",
+      "locality": "BELLE VUE MAUREL",
+      "localitySlug": "belle-vue-maurel",
+      "streets": "ROYAL ROAD,TEMPLE ROAD NR GARDEN",
+      "district": "rivieredurempart",
+      "from": "2023-01-17T05:00:00.000Z",
+      "to": "2023-01-17T11:00:00.000Z",
+      "id": "043af3298e0e682242a6be13a5f01697"
+    },
+    {
+      "date": "Le mardi 17 janvier 2023 de  09:00:00 à  15:00:00",
+      "locality": "CHEMIN GRENIER",
+      "localitySlug": "chemin-grenier",
+      "streets": "CAMP LILAS ,CAMP BARBE ,CAMP CHARLOTTE",
+      "district": "savanne",
+      "from": "2023-01-17T05:00:00.000Z",
+      "to": "2023-01-17T11:00:00.000Z",
+      "id": "91ca6606ffb2537d726803445028cdc1"
+    }
+  ]
+}

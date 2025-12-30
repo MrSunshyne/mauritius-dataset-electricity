@@ -1,0 +1,88 @@
+{
+  "date": "2024-03-23",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.506Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le samedi 23 mars 2024 de  10:20:00 à  11:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC BISMIC",
+      "district": "blackriver",
+      "from": "2024-03-23T06:20:00.000Z",
+      "to": "2024-03-23T07:30:00.000Z",
+      "id": "b6ea7eb5933394307cec5c3fa69ba791"
+    },
+    {
+      "date": "Le samedi 23 mars 2024 de  09:30:00 à  11:30:00",
+      "locality": "CAROLINE BEL AIR",
+      "localitySlug": "caroline-bel-air",
+      "streets": "CHEMIN DESCOMBES CAROLINE",
+      "district": "flacq",
+      "from": "2024-03-23T05:30:00.000Z",
+      "to": "2024-03-23T07:30:00.000Z",
+      "id": "d4f53505e38d0f7aa44ba03d25511ecf"
+    },
+    {
+      "date": "Le samedi 23 mars 2024 de  10:00:00 à  12:00:00",
+      "locality": "MON GOUT",
+      "localitySlug": "mon-gout",
+      "streets": "PART OF MON GOUT, KALIMAYE RD, FROM MON GOUT TO DEPINAY",
+      "district": "pamplemousses",
+      "from": "2024-03-23T06:00:00.000Z",
+      "to": "2024-03-23T08:00:00.000Z",
+      "id": "f4606ad6fd35e50c4ea200748405cd98"
+    },
+    {
+      "date": "Le samedi 23 mars 2024 de  08:30:00 à  12:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Rue Dollar, Labourdonnais, Inkerman, Edward Vii, La PLace, Queen Street, Gladstone, Remono, Stevenson et Blondeau",
+      "district": "plainewilhems",
+      "from": "2024-03-23T04:30:00.000Z",
+      "to": "2024-03-23T08:00:00.000Z",
+      "id": "1200641e93c22d2fc976325a76648c0e"
+    },
+    {
+      "date": "Le samedi 23 mars 2024 de  08:30:00 à  15:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "une partie de Route Granum, Morcellement Sauba ,Wilson Lane, Mudaliar road",
+      "district": "plainewilhems",
+      "from": "2024-03-23T04:30:00.000Z",
+      "to": "2024-03-23T11:00:00.000Z",
+      "id": "cbac81359486c97d82e3d9ab9ec2490a"
+    },
+    {
+      "date": "Le samedi 23 mars 2024 de  12:30:00 à  15:30:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "CHEMIN DUPONT ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2024-03-23T08:30:00.000Z",
+      "to": "2024-03-23T11:30:00.000Z",
+      "id": "8b99cb129a7950e1fee8c47cf171f8cd"
+    },
+    {
+      "date": "Le samedi 23 mars 2024 de  09:00:00 à  13:00:00",
+      "locality": "PETIT VERGER P AUX SABLES",
+      "localitySlug": "petit-verger-p-aux-sables",
+      "streets": "NHDC PTE AUX SABLES",
+      "district": "portlouis",
+      "from": "2024-03-23T05:00:00.000Z",
+      "to": "2024-03-23T09:00:00.000Z",
+      "id": "19381a0cf6090eb74fcc4ee8636701e3"
+    },
+    {
+      "date": "Le samedi 23 mars 2024 de  08:30:00 à  15:00:00",
+      "locality": "PIMENTS(RODRIGUES)",
+      "localitySlug": "piments",
+      "streets": "Reposoir, Baie Topaze, Montagne Croupier et Camp Pintade",
+      "district": "rodrigues",
+      "from": "2024-03-23T04:30:00.000Z",
+      "to": "2024-03-23T11:00:00.000Z",
+      "id": "322c4ff7ac1298c0b704fef376aff09e"
+    }
+  ]
+}

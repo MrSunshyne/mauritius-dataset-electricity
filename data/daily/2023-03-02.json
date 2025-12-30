@@ -1,0 +1,68 @@
+{
+  "date": "2023-03-02",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.491Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le jeudi 2 mars 2023 de  10:00:00 à  15:30:00",
+      "locality": "LA PRENEUSE",
+      "localitySlug": "la-preneuse",
+      "streets": "LA PRENEUSE",
+      "district": "blackriver",
+      "from": "2023-03-02T06:00:00.000Z",
+      "to": "2023-03-02T11:30:00.000Z",
+      "id": "78ccb1d2d3b3544da9186a03f2b5cf3c"
+    },
+    {
+      "date": "Le jeudi 2 mars 2023 de  09:00:00 à  11:00:00",
+      "locality": "HOLLYROOD",
+      "localitySlug": "hollyrood",
+      "streets": "RESERVOIR RD-ROYAL RD HOLLYROOD",
+      "district": "plainewilhems",
+      "from": "2023-03-02T05:00:00.000Z",
+      "to": "2023-03-02T07:00:00.000Z",
+      "id": "007ff7b0afed5c49acf7c96ce0f970d4"
+    },
+    {
+      "date": "Le jeudi 2 mars 2023 de  09:00:00 à  16:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVE STANLEY, AVE GLADSTONE",
+      "district": "plainewilhems",
+      "from": "2023-03-02T05:00:00.000Z",
+      "to": "2023-03-02T12:00:00.000Z",
+      "id": "37f88a24ff4957aebb75c6d1b0dae70a"
+    },
+    {
+      "date": "Le jeudi 2 mars 2023 de  15:00:00 à  17:30:00",
+      "locality": "CITE ANOSKA",
+      "localitySlug": "cite-anoska",
+      "streets": "CITE ANOUSKA 16IEM MILLE -RES MON BOIS",
+      "district": "plainewilhems",
+      "from": "2023-03-02T11:00:00.000Z",
+      "to": "2023-03-02T13:30:00.000Z",
+      "id": "eb9e70c450819faf2d642edd2bbb12bc"
+    },
+    {
+      "date": "Le jeudi 2 mars 2023 de  18:45:00 à  20:15:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "ROCHES BRUNES,PLAISANCE,MONTROCHES",
+      "district": "plainewilhems",
+      "from": "2023-03-02T14:45:00.000Z",
+      "to": "2023-03-02T16:15:00.000Z",
+      "id": "e2449a6e3fb5fb0f83e4d40187382e32"
+    },
+    {
+      "date": "Le jeudi 2 mars 2023 de  09:00:00 à  10:00:00",
+      "locality": "RIVIERE DES ANGUILLES",
+      "localitySlug": "riviere-des-anguilles",
+      "streets": "Le village de Riviere des Anguilles",
+      "district": "savanne",
+      "from": "2023-03-02T05:00:00.000Z",
+      "to": "2023-03-02T06:00:00.000Z",
+      "id": "e949b8f7e154b86466be6c363cb779f0"
+    }
+  ]
+}

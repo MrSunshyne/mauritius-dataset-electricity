@@ -1,0 +1,48 @@
+{
+  "date": "2024-11-23",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.515Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le samedi 23 novembre 2024 de  07:00:00 à  00:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "BASALT LANE, FROM WINNERS TO KOVIL, KJW LANE, ORIENT ROAD, NEERUNJUN LANE, SCHOOL LANE AND SURROUNDINGS",
+      "district": "pamplemousses",
+      "from": "2024-11-23T03:00:00.000Z",
+      "to": "2024-11-22T20:00:00.000Z",
+      "id": "a1a8a9d4edf559a74f658ff18be55612"
+    },
+    {
+      "date": "Le samedi 23 novembre 2024 de  08:30:00 à  16:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "Morcellement Residentiel",
+      "district": "plainewilhems",
+      "from": "2024-11-23T04:30:00.000Z",
+      "to": "2024-11-23T12:00:00.000Z",
+      "id": "851d9779ed1440ec8bbee8218168a577"
+    },
+    {
+      "date": "Le samedi 23 novembre 2024 de  08:30:00 à  16:00:00",
+      "locality": "CAMP FOUQUEREAUX",
+      "localitySlug": "camp-fouquereaux",
+      "streets": "Reservoir Rd, une partie de St Antoine, Nunloll Lane, Virginia Lane, Iris Lane No 1 & 2",
+      "district": "plainewilhems",
+      "from": "2024-11-23T04:30:00.000Z",
+      "to": "2024-11-23T12:00:00.000Z",
+      "id": "54a6832cc6c62d496bd508490da1bbeb"
+    },
+    {
+      "date": "Le samedi 23 novembre 2024 de  09:40:00 à  13:00:00",
+      "locality": "CASSIS",
+      "localitySlug": "cassis",
+      "streets": "BAIN DES DAMES",
+      "district": "portlouis",
+      "from": "2024-11-23T05:40:00.000Z",
+      "to": "2024-11-23T09:00:00.000Z",
+      "id": "c840c3d30553366d8b3bfdf78ebe6608"
+    }
+  ]
+}

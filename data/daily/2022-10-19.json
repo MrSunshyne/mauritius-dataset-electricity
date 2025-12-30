@@ -1,0 +1,48 @@
+{
+  "date": "2022-10-19",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.487Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mercredi 19 octobre 2022 de  08:30:00 à  16:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "Morc Anna - Ave des Baleines, Ave des Cateaux, une partie de Ave Souffleur",
+      "district": "blackriver",
+      "from": "2022-10-19T04:30:00.000Z",
+      "to": "2022-10-19T12:30:00.000Z",
+      "id": "dc82b373ab8393f39d6658cedd7a3176"
+    },
+    {
+      "date": "Le mercredi 19 octobre 2022 de  02:00:00 à  15:00:00",
+      "locality": "VILLENOIRE",
+      "localitySlug": "villenoire",
+      "streets": "VILLENOIRE",
+      "district": "grandport",
+      "from": "2022-10-18T22:00:00.000Z",
+      "to": "2022-10-18T11:00:00.000Z",
+      "id": "2b62b1d715a08f6259c62117db2823b5"
+    },
+    {
+      "date": "Le mercredi 19 octobre 2022 de  08:30:00 à  12:00:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": "Les abonnés d’Eau-Coulée, Curepipe habitant les rues et les régions suivantes: Impasse morcellement Camphriers, partie de Camp Levieux et  les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-10-19T04:30:00.000Z",
+      "to": "2022-10-19T08:00:00.000Z",
+      "id": "c2f007ce540b74cb6b5759f20be74502"
+    },
+    {
+      "date": "Le mercredi 19 octobre 2022 de  15:00:00 à  18:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "En Partie Mare Gravier, Ave Tournesol, Dr Mollier et Dookun Lane",
+      "district": "plainewilhems",
+      "from": "2022-10-19T11:00:00.000Z",
+      "to": "2022-10-19T14:00:00.000Z",
+      "id": "7a9dcaa341935d54f96535b5e4548da7"
+    }
+  ]
+}

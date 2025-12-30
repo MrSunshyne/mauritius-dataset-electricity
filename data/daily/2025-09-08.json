@@ -1,0 +1,28 @@
+{
+  "date": "2025-09-08",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.525Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le lundi 8 septembre 2025 de  13:00:00 à  15:00:00",
+      "locality": "VALLEE PITOT",
+      "localitySlug": "vallee-pitot",
+      "streets": "INKERMAN VALLEE PITOT",
+      "district": "portlouis",
+      "from": "2025-09-08T09:00:00.000Z",
+      "to": "2025-09-08T11:00:00.000Z",
+      "id": "adc375ce9eaddced95735d1a674e2138"
+    },
+    {
+      "date": "Le lundi 8 septembre 2025 de  13:00:00 à  15:00:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "FIRST RD-SCHOENFELD RD- LA CLEMENCE RIVIERE DU REMPART",
+      "district": "rivieredurempart",
+      "from": "2025-09-08T09:00:00.000Z",
+      "to": "2025-09-08T11:00:00.000Z",
+      "id": "7d26e23b35da2a7d3299bf87427c1a30"
+    }
+  ]
+}

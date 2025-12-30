@@ -1,0 +1,48 @@
+{
+  "date": "2022-11-25",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.488Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le vendredi 25 novembre 2022 de  08:30:00 à  16:30:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "MORC RAMDANEE",
+      "district": "blackriver",
+      "from": "2022-11-25T04:30:00.000Z",
+      "to": "2022-11-25T12:30:00.000Z",
+      "id": "9d91c182d9ba924d982d8aa5d1a4c942"
+    },
+    {
+      "date": "Le vendredi 25 novembre 2022 de  09:00:00 à  15:00:00",
+      "locality": "BONNE MERE",
+      "localitySlug": "bonne-mere",
+      "streets": "Bonne Mere",
+      "district": "flacq",
+      "from": "2022-11-25T05:00:00.000Z",
+      "to": "2022-11-25T11:00:00.000Z",
+      "id": "044333f65c0dcbbcb220c71c4eea50f9"
+    },
+    {
+      "date": "Le vendredi 25 novembre 2022 de  08:30:00 à  12:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes : Partie de Morcellement Adam, avenue Les Camphriers et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-11-25T04:30:00.000Z",
+      "to": "2022-11-25T08:00:00.000Z",
+      "id": "cb440cb0e570e0aee78da208c6538815"
+    },
+    {
+      "date": "Le vendredi 25 novembre 2022 de  08:30:00 à  10:30:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "schoenfeld road and nearby region",
+      "district": "rivieredurempart",
+      "from": "2022-11-25T04:30:00.000Z",
+      "to": "2022-11-25T06:30:00.000Z",
+      "id": "080227b07e2db70d6c88970242dd6b09"
+    }
+  ]
+}

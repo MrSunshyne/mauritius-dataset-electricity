@@ -1,0 +1,48 @@
+{
+  "date": "2022-05-24",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.482Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mardi 24 mai 2022 de  08:30:00 à  10:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC SAFELAND, AVE RADAR, AVE DES FLAMBOYANTS, AVE DES HIRONDELLES, MORC LI YAO, AVE BEGONIAS, AVE CAMELIAS ET MORC PALMYRE",
+      "district": "blackriver",
+      "from": "2022-05-24T04:30:00.000Z",
+      "to": "2022-05-24T06:00:00.000Z",
+      "id": "f34240b5547fa80533f30a342728d8da"
+    },
+    {
+      "date": "Le mardi 24 mai 2022 de  10:00:00 à  15:00:00",
+      "locality": "CAMP THOREL",
+      "localitySlug": "camp-thorel",
+      "streets": "CAMP THOREL",
+      "district": "moka",
+      "from": "2022-05-24T06:00:00.000Z",
+      "to": "2022-05-24T11:00:00.000Z",
+      "id": "8ddf392c5f707adf847f9780e4f6afed"
+    },
+    {
+      "date": "Le mardi 24 mai 2022 de  12:00:00 à  13:30:00",
+      "locality": "QUARTIER MILITAIRE",
+      "localitySlug": "quartier-militaire",
+      "streets": "Bethuel Rd Quartier Militaire",
+      "district": "moka",
+      "from": "2022-05-24T08:00:00.000Z",
+      "to": "2022-05-24T09:30:00.000Z",
+      "id": "9e69f25d30674bdbbd024b1287b8fb32"
+    },
+    {
+      "date": "Le mardi 24 mai 2022 de  11:30:00 à  14:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "Swadesh Lane Vallee des Pretres",
+      "district": "portlouis",
+      "from": "2022-05-24T07:30:00.000Z",
+      "to": "2022-05-24T10:00:00.000Z",
+      "id": "eec9b65e0c110767ff82d2ea068bd68d"
+    }
+  ]
+}

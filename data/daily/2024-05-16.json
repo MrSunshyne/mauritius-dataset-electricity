@@ -1,0 +1,108 @@
+{
+  "date": "2024-05-16",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.508Z",
+  "outageCount": 10,
+  "outages": [
+    {
+      "date": "Le jeudi 16 mai 2024 de  09:05:00 à  12:00:00",
+      "locality": "CAROLINE BEL AIR",
+      "localitySlug": "caroline-bel-air",
+      "streets": "Le village Caroline: Route Royale, Avenue Descombes, Avenue Gandhi, Avenue Ramloll, Avenue Allaman et les chemin avoisinant",
+      "district": "flacq",
+      "from": "2024-05-16T05:05:00.000Z",
+      "to": "2024-05-16T08:00:00.000Z",
+      "id": "80a8429c0675ee65522ee3b2c65dbe93"
+    },
+    {
+      "date": "Le jeudi 16 mai 2024 de  08:30:00 à  17:00:00",
+      "locality": "NOUVELLE FRANCE",
+      "localitySlug": "nouvelle-france",
+      "streets": "Nouvelle France habitant dans le périmètre et les rues suivantes: Bundhoo Lane, Dawol Lane, Sookari Lane, NHDC Nouvelle France, Kanpur Lane, Nav Hind Lane, Community Centre Lane, Sookari Lane, Aubeeluck Lane et une partie de Savanne Road & Grand Port Road",
+      "district": "grandport",
+      "from": "2024-05-16T04:30:00.000Z",
+      "to": "2024-05-16T13:00:00.000Z",
+      "id": "3d16e596d8ba9ece9e930bd3326d7a64"
+    },
+    {
+      "date": "Le jeudi 16 mai 2024 de  14:00:00 à  15:00:00",
+      "locality": "NOUVELLE DECOUVERTE",
+      "localitySlug": "nouvelle-decouverte",
+      "streets": "Nouvelle Decouverte, Ripailles et Beau-Bois",
+      "district": "moka",
+      "from": "2024-05-16T10:00:00.000Z",
+      "to": "2024-05-16T11:00:00.000Z",
+      "id": "ea0fb9eb969dcb7c7606cd748e0994b6"
+    },
+    {
+      "date": "Le jeudi 16 mai 2024 de  12:00:00 à  16:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Imperial Garden, Pets Concern Mauritius, Phoenix Heights Residence, Hillcrest Park Apartments, Parkside South Apartments, J&J Auditorium, GIBBS Ltd, Cavendish Institute, Auto City Car Showroom, CWA Borehole Socota",
+      "district": "plainewilhems",
+      "from": "2024-05-16T08:00:00.000Z",
+      "to": "2024-05-16T12:00:00.000Z",
+      "id": "b5e6fdb9b1aaa6a32a857b41294b4da1"
+    },
+    {
+      "date": "Le jeudi 16 mai 2024 de  15:00:00 à  17:00:00",
+      "locality": "16EME MILE",
+      "localitySlug": "16eme-mile",
+      "streets": "Hollyrood No. 1, une partie de Route Quinze-Cantons No. 2, une partie de Route Dévergués, une partie de Route La Marie",
+      "district": "plainewilhems",
+      "from": "2024-05-16T11:00:00.000Z",
+      "to": "2024-05-16T13:00:00.000Z",
+      "id": "d598ef03c80a0af7915bc899352a57ce"
+    },
+    {
+      "date": "Le jeudi 16 mai 2024 de  15:00:00 à  17:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "HOLLYROOD NO.1, UNE PARTIE DE ROUTE DEVERGUES, UNE PARTIE DE ROUTE LA MARIE ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2024-05-16T11:00:00.000Z",
+      "to": "2024-05-16T13:00:00.000Z",
+      "id": "0205e0e8d9072fb7e24dc01f8846cd23"
+    },
+    {
+      "date": "Le jeudi 16 mai 2024 de  17:30:00 à  18:15:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "AVENUE QUEEN MARRY FLOREAL",
+      "district": "plainewilhems",
+      "from": "2024-05-16T13:30:00.000Z",
+      "to": "2024-05-16T14:15:00.000Z",
+      "id": "384862e96c957e0b2a12e3ba7aef5412"
+    },
+    {
+      "date": "Le jeudi 16 mai 2024 de  10:00:00 à  13:15:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "Caro Lalo",
+      "district": "portlouis",
+      "from": "2024-05-16T06:00:00.000Z",
+      "to": "2024-05-16T09:15:00.000Z",
+      "id": "d699bd68e07dfa12966d1d5b1f9d2955"
+    },
+    {
+      "date": "Le jeudi 16 mai 2024 de  09:45:00 à  11:45:00",
+      "locality": "CALODYNE",
+      "localitySlug": "calodyne",
+      "streets": "Les alentours de Baising Rise,Zilwa Attitude Hotel",
+      "district": "rivieredurempart",
+      "from": "2024-05-16T05:45:00.000Z",
+      "to": "2024-05-16T07:45:00.000Z",
+      "id": "bacc43611320e9c0bb7576c4fbbcf09f"
+    },
+    {
+      "date": "Le jeudi 16 mai 2024 de  08:30:00 à  12:00:00",
+      "locality": "BAIE DU NORD(RODRIGUES)",
+      "localitySlug": "baie-du-nord",
+      "streets": "Baie Diamant, Anse Goeland and baie Malgache",
+      "district": "rodrigues",
+      "from": "2024-05-16T04:30:00.000Z",
+      "to": "2024-05-16T08:00:00.000Z",
+      "id": "44ce5eed60cc78fd66c0703f8ec96f23"
+    }
+  ]
+}

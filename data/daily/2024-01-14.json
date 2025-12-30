@@ -1,0 +1,98 @@
+{
+  "date": "2024-01-14",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.503Z",
+  "outageCount": 9,
+  "outages": [
+    {
+      "date": "Le dimanche 14 janvier 2024 de  08:30:00 à  15:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "Ave Limit, Ave Lavandière, Ave des Fleurs, Ave Mangue Vert Doux, Geoffroy Branch Road, NHDC Bambous, La Zone Industrielle Bambous, Réservoir et Crématorium Montagne St Pierre, CWA Eaux Bonnes, UBP et Premix Concrete Ltd",
+      "district": "blackriver",
+      "from": "2024-01-14T04:30:00.000Z",
+      "to": "2024-01-14T11:30:00.000Z",
+      "id": "c47a19a55ccfc65020be2e1b0b44b134"
+    },
+    {
+      "date": "Le dimanche 14 janvier 2024 de  08:20:00 à  09:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "MORC VRS BAMBOUS,BEHIND WINNERS",
+      "district": "blackriver",
+      "from": "2024-01-14T04:20:00.000Z",
+      "to": "2024-01-14T05:30:00.000Z",
+      "id": "cebe42584b9f9cd5629fcd44044bcd79"
+    },
+    {
+      "date": "Le dimanche 14 janvier 2024 de  10:20:00 à  11:20:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "CITE LA FERME BAMBOUS",
+      "district": "blackriver",
+      "from": "2024-01-14T06:20:00.000Z",
+      "to": "2024-01-14T07:20:00.000Z",
+      "id": "9c50f84fba5c7bf04320332f5d3e857c"
+    },
+    {
+      "date": "Le dimanche 14 janvier 2024 de  12:00:00 à  14:30:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "CITE LA CHAUX 2 MAHEBOURG",
+      "district": "grandport",
+      "from": "2024-01-14T08:00:00.000Z",
+      "to": "2024-01-14T10:30:00.000Z",
+      "id": "74fa7d5e2de87c04db0b4511a47f2949"
+    },
+    {
+      "date": "Le dimanche 14 janvier 2024 de  08:30:00 à  15:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave Cecille Hall, Les Champires, Park Lane, Hydepark, Ave Telfair, Newry Complexe et les environs",
+      "district": "plainewilhems",
+      "from": "2024-01-14T04:30:00.000Z",
+      "to": "2024-01-14T11:30:00.000Z",
+      "id": "bec246dd4ba8537392f693e06fd678bd"
+    },
+    {
+      "date": "Le dimanche 14 janvier 2024 de  10:00:00 à  12:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave Odette Ernest, Stevenson, Duperre, Louvet, College St Esprit, Clinique St Esprit, Ave Labourdonnais, Sir Virgil Naz, Darwin et Willoughby",
+      "district": "plainewilhems",
+      "from": "2024-01-14T06:00:00.000Z",
+      "to": "2024-01-14T08:00:00.000Z",
+      "id": "7e14ae4378025f60a6d4e3364ccd791f"
+    },
+    {
+      "date": "Le dimanche 14 janvier 2024 de  12:00:00 à  17:00:00",
+      "locality": "COROMONDEL - IND ZONE",
+      "localitySlug": "coromondel-ind-zone",
+      "streets": "ZONE INDUSTRIELLE COROMANDEL",
+      "district": "plainewilhems",
+      "from": "2024-01-14T08:00:00.000Z",
+      "to": "2024-01-14T13:00:00.000Z",
+      "id": "289b92ade29685931d273410454f245d"
+    },
+    {
+      "date": "Le dimanche 14 janvier 2024 de  10:15:00 à  11:15:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "OLD MILL ROAD PEREYBERE",
+      "district": "rivieredurempart",
+      "from": "2024-01-14T06:15:00.000Z",
+      "to": "2024-01-14T07:15:00.000Z",
+      "id": "6a4721c962af0504bf88e7cc8ee097d3"
+    },
+    {
+      "date": "Le dimanche 14 janvier 2024 de  13:30:00 à  16:00:00",
+      "locality": "ESPERANCE TREBUCHET",
+      "localitySlug": "esperance-trebuchet",
+      "streets": "Esperance Trebuchet & Poudre dOr Hamlet",
+      "district": "rivieredurempart",
+      "from": "2024-01-14T09:30:00.000Z",
+      "to": "2024-01-14T12:00:00.000Z",
+      "id": "ca4c5e60dc5dea8f6eb9ffeca61fdff6"
+    }
+  ]
+}

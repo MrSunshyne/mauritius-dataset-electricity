@@ -1,0 +1,28 @@
+{
+  "date": "2023-08-01",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.497Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mardi 1 août 2023 de  08:30:00 à  16:30:00",
+      "locality": "ESPERANCE TREBUCHET",
+      "localitySlug": "esperance-trebuchet",
+      "streets": "DANS LES ENVIRONS DE MADAME BARBE, ANAND ROAD, RAJAH ROAD ET SCHOOL LANE",
+      "district": "rivieredurempart",
+      "from": "2023-08-01T04:30:00.000Z",
+      "to": "2023-08-01T12:30:00.000Z",
+      "id": "5385e46c1f5da7daeb26d8d294a89a9e"
+    },
+    {
+      "date": "Le mardi 1 août 2023 de  08:30:00 à  10:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Mangues, Montagne Du Sable et Fond Baie Malgache",
+      "district": "rodrigues",
+      "from": "2023-08-01T04:30:00.000Z",
+      "to": "2023-08-01T06:00:00.000Z",
+      "id": "2f12e380b355f0b99a2853eeb8fedc63"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "date": "2024-06-07",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.509Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le vendredi 7 juin 2024 de  08:30:00 à  17:00:00",
+      "locality": "GRAND BEL AIR",
+      "localitySlug": "grand-bel-air",
+      "streets": "Grand Bel Air habitant dans le périmètre et les rues suivantes: Morcellement Grand Bel Air, Pumping Courbevoie une partie de Grand Bel Air",
+      "district": "flacq",
+      "from": "2024-06-07T04:30:00.000Z",
+      "to": "2024-06-07T13:00:00.000Z",
+      "id": "a42608e5179133765b67803a8e1610d3"
+    },
+    {
+      "date": "Le vendredi 7 juin 2024 de  11:00:00 à  17:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "une partie de  Bonne Terre, Remi Ollier, Morc Fleuriot, Partie de Solferino No. 1, 2 et No. 3, Parie de Vingta No. 2 et No. 3, Kistoo Lane",
+      "district": "plainewilhems",
+      "from": "2024-06-07T07:00:00.000Z",
+      "to": "2024-06-07T13:30:00.000Z",
+      "id": "5bce2939aaeecd9586dada058ace78ea"
+    },
+    {
+      "date": "Le vendredi 7 juin 2024 de  02:00:00 à  10:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "CHEMIN 20 PIEDS LA MARE RONDE PEREYBERE",
+      "district": "rivieredurempart",
+      "from": "2024-06-06T22:00:00.000Z",
+      "to": "2024-06-06T06:00:00.000Z",
+      "id": "84dfe4ebbc54422c6a176a769a5a862a"
+    }
+  ]
+}

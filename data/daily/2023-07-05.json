@@ -1,0 +1,48 @@
+{
+  "date": "2023-07-05",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.496Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mercredi 5 juillet 2023 de  08:30:00 à  16:30:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "MORC BLACKROCK, MORC BELOGUET, MORC INVESTORS, MORC MAINGARD ET MORC DOMAIN",
+      "district": "blackriver",
+      "from": "2023-07-05T04:30:00.000Z",
+      "to": "2023-07-05T12:30:00.000Z",
+      "id": "ebd0dbf6c4b4b8fe6a602d9a5acadb2c"
+    },
+    {
+      "date": "Le mercredi 5 juillet 2023 de  10:00:00 à  15:00:00",
+      "locality": "BELLE MARE",
+      "localitySlug": "belle-mare",
+      "streets": "BELLE MARE",
+      "district": "flacq",
+      "from": "2023-07-05T06:00:00.000Z",
+      "to": "2023-07-05T11:00:00.000Z",
+      "id": "59d37e2eca6b0cd4413060ee7b59fb49"
+    },
+    {
+      "date": "Le mercredi 5 juillet 2023 de  09:00:00 à  15:00:00",
+      "locality": "MONTAGNE BLANCHE",
+      "localitySlug": "montagne-blanche",
+      "streets": "Les abonnés du village de Montagne Blanche habitant les rues et régions suivantes : Sans Souci, Church et les ruelles avoisinantes sont avisés que la fourniture d’énergie électrique sera interrompue entre 09 :00 et  15:00 heures le mercredi 05 juillet 2023",
+      "district": "moka",
+      "from": "2023-07-05T05:00:00.000Z",
+      "to": "2023-07-05T11:00:00.000Z",
+      "id": "798c0c928a9d69625b0fe7d5f91aae9b"
+    },
+    {
+      "date": "Le mercredi 5 juillet 2023 de  20:30:00 à  22:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "RESIDENCE CANDOS,AVE COLLIN,AVE LA PAIX,AND NEARBY REGION",
+      "district": "plainewilhems",
+      "from": "2023-07-05T16:30:00.000Z",
+      "to": "2023-07-05T18:30:00.000Z",
+      "id": "38596680534df31671a51417c873b946"
+    }
+  ]
+}

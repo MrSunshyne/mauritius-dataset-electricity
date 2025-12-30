@@ -1,0 +1,78 @@
+{
+  "date": "2025-01-24",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.518Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le vendredi 24 janvier 2025 de  09:45:00 à  10:10:00",
+      "locality": "RIVIERE DU POSTE",
+      "localitySlug": "riviere-du-poste",
+      "streets": "RIVIERE DU POSTE",
+      "district": "grandport",
+      "from": "2025-01-24T05:45:00.000Z",
+      "to": "2025-01-24T06:10:00.000Z",
+      "id": "eb5ce01505f820c45475b97997276ab6"
+    },
+    {
+      "date": "Le vendredi 24 janvier 2025 de  13:28:00 à  15:30:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "HOSPITAL ROAD, GOPALA LANE ET LES ALENTOURS",
+      "district": "grandport",
+      "from": "2025-01-24T09:28:00.000Z",
+      "to": "2025-01-24T11:30:00.000Z",
+      "id": "3a9d1f36b38ccfbf5184c4292b5cfe3d"
+    },
+    {
+      "date": "Le vendredi 24 janvier 2025 de  09:30:00 à  12:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "PETUNIA AVE,TULIP AVE",
+      "district": "plainewilhems",
+      "from": "2025-01-24T05:30:00.000Z",
+      "to": "2025-01-24T08:00:00.000Z",
+      "id": "f428606f1ee3515599b246a14a40c188"
+    },
+    {
+      "date": "Le vendredi 24 janvier 2025 de  15:00:00 à  16:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Kalimaye, La Source, Gungamah, Mere Theresa, Morc Nuckcheddy",
+      "district": "plainewilhems",
+      "from": "2025-01-24T11:00:00.000Z",
+      "to": "2025-01-24T12:00:00.000Z",
+      "id": "76ebdfe61a3cae5551498f16a54b78c8"
+    },
+    {
+      "date": "Le vendredi 24 janvier 2025 de  13:10:00 à  14:30:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "AVE PETUNIA, XINIA, GERANIUM ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2025-01-24T09:10:00.000Z",
+      "to": "2025-01-24T10:30:00.000Z",
+      "id": "f2b497fe07424be90d08c5950e53457d"
+    },
+    {
+      "date": "Le vendredi 24 janvier 2025 de  16:00:00 à  17:30:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "AVE TULIP COROMANDEL NR MOSQUE",
+      "district": "plainewilhems",
+      "from": "2025-01-24T12:00:00.000Z",
+      "to": "2025-01-24T13:30:00.000Z",
+      "id": "3955f0d67e482c8d3dccad3e3dac7dea"
+    },
+    {
+      "date": "Le vendredi 24 janvier 2025 de  08:30:00 à  16:00:00",
+      "locality": "CHAMOUNY",
+      "localitySlug": "chamouny",
+      "streets": "Camp Fany, Camp Goolbar et Rama Road",
+      "district": "savanne",
+      "from": "2025-01-24T04:30:00.000Z",
+      "to": "2025-01-24T12:00:00.000Z",
+      "id": "112e87b32d4a241e75dc8edbf9497752"
+    }
+  ]
+}

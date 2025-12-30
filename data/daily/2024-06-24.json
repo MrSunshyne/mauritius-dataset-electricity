@@ -1,0 +1,28 @@
+{
+  "date": "2024-06-24",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.509Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le lundi 24 juin 2024 de  10:35:00 à  11:35:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "VIRGIL NAZ ST, BERNARDIN DE ST PIERRE ST ET LES ALENTOURS DE LORETTE",
+      "district": "plainewilhems",
+      "from": "2024-06-24T06:35:00.000Z",
+      "to": "2024-06-24T07:35:00.000Z",
+      "id": "145494bffe9395fc7e0e3cbfa9fd6a9d"
+    },
+    {
+      "date": "Le lundi 24 juin 2024 de  15:00:00 à  17:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "Medi Clinic, Morc Montreal 1 & 2, Chapman View, Ave Black Molly, Angel Fish, Police Quarters NO 1&NO 2, Ave Balsamine, Ave Middle Rd, Ave Saranvilla, Ave Petunia, Ave Longanier, Route Royale et les environs",
+      "district": "plainewilhems",
+      "from": "2024-06-24T11:00:00.000Z",
+      "to": "2024-06-24T13:00:00.000Z",
+      "id": "1c70effc18c4aadca8c05364b344a4d6"
+    }
+  ]
+}

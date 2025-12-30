@@ -1,0 +1,38 @@
+{
+  "date": "2023-10-24",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.500Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mardi 24 octobre 2023 de  09:00:00 à  17:00:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "La Marie habitant dans le Morcellement Poussons",
+      "district": "plainewilhems",
+      "from": "2023-10-24T05:00:00.000Z",
+      "to": "2023-10-24T13:00:00.000Z",
+      "id": "adc29666aadb67927c80f24285a2403a"
+    },
+    {
+      "date": "Le mardi 24 octobre 2023 de  21:30:00 à  01:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVENUE DES ROSIERS, SSR AVENUE, AVENUE DES GLAIEULS, TRIANON 1, TRIANON 2, AVENUE DES MANGUIERS,AVENUE GOYAVIERS, AVENUE JACARANDAS, AVENUE CAPUCINES ET LES RUELLES AVOISINANTES.",
+      "district": "plainewilhems",
+      "from": "2023-10-24T17:30:00.000Z",
+      "to": "2023-10-23T21:00:00.000Z",
+      "id": "615bdaed5dea9cbd1ef7ef599c13a0b6"
+    },
+    {
+      "date": "Le mardi 24 octobre 2023 de  13:35:00 à  14:45:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "PAILLES AVE CARDINAL 5 MORC RAFFRAY",
+      "district": "portlouis",
+      "from": "2023-10-24T09:35:00.000Z",
+      "to": "2023-10-24T10:45:00.000Z",
+      "id": "44ec606a4675f35241c95d5c7a7dd224"
+    }
+  ]
+}

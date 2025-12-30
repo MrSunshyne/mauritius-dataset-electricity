@@ -1,0 +1,88 @@
+{
+  "date": "2023-03-19",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.492Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le dimanche 19 mars 2023 de  08:30:00 à  16:30:00",
+      "locality": "CASCAVEL",
+      "localitySlug": "cascavel",
+      "streets": "XAVIER, CASCAVELLE VILLAGE, CLARENCE, CASELA, BASSIN FLEUR, CAMPEMENT DE WOLMAR ET BIODIA",
+      "district": "blackriver",
+      "from": "2023-03-19T04:30:00.000Z",
+      "to": "2023-03-19T12:30:00.000Z",
+      "id": "451f636c689290d0739f245a21b2d1ae"
+    },
+    {
+      "date": "Le dimanche 19 mars 2023 de  09:00:00 à  14:30:00",
+      "locality": "VILLENOIRE",
+      "localitySlug": "villenoire",
+      "streets": "Morcellement VRS 2 Blue Print Ville Noire",
+      "district": "grandport",
+      "from": "2023-03-19T05:00:00.000Z",
+      "to": "2023-03-19T10:30:00.000Z",
+      "id": "9bc316ab351170f1d41aef0aab477f35"
+    },
+    {
+      "date": "Le dimanche 19 mars 2023 de  08:30:00 à  14:30:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "Route Côtière Trou Aux Biches, Morc Ellayah, Morc Sagittaire, Morc Tobago, Morc Trinidad, Morcellement Ramdanee, Route Père Laval et Route Côtière Pointe Aux Biches",
+      "district": "pamplemousses",
+      "from": "2023-03-19T04:30:00.000Z",
+      "to": "2023-03-19T10:30:00.000Z",
+      "id": "a27204f3bbb487fd6c6c1c4888e9dc31"
+    },
+    {
+      "date": "Le dimanche 19 mars 2023 de  08:30:00 à  16:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Rue Mascarehnas, Ave R. Goblet, Ave G. Fropier, Elie & Sons, Lovely home, Res. Chaterelle, Rue Max Rohan, en partie rue Pere Laval, Rue Marcel Ducasse, Rue Venkatasamy, rue de Rosnay, Rue Mgr Leen, Rue Meldrum, Ville Soeur et les environs",
+      "district": "plainewilhems",
+      "from": "2023-03-19T04:30:00.000Z",
+      "to": "2023-03-19T12:00:00.000Z",
+      "id": "8e13e45e828af4f84013a8f5e05f6d6f"
+    },
+    {
+      "date": "Le dimanche 19 mars 2023 de  15:00:00 à  16:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Ave Brodie, Dr Monple, Rue Jasmin, Rue Dayot, Rue Mazerieux, La Fontaine, Raymont Rivet, Pope Henessy, Rue Subramanien Bharati, Rue Salamat Khan Chady, Rue Colonel Draper, Rue Napier Broom, flat Beau-Bassin Hight, Res. Symphony, Res. Palm Plaza, Nokia Building et les environs",
+      "district": "plainewilhems",
+      "from": "2023-03-19T11:00:00.000Z",
+      "to": "2023-03-19T12:00:00.000Z",
+      "id": "291f96c2d41e8ff690cf7bdda095eaf1"
+    },
+    {
+      "date": "Le dimanche 19 mars 2023 de  08:30:00 à  16:00:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "LES ABONNES DE GUIBIES HABITANT DANS LES ENVIRONS DE CLAUDE DELAITRE, ANSE COURTOIS, MORC LE ROC, MORC AGNIS 1 & 2, AVENUE TOPAZE, MORC CHOONEEA ET MORC TIMBSERVE",
+      "district": "portlouis",
+      "from": "2023-03-19T04:30:00.000Z",
+      "to": "2023-03-19T12:00:00.000Z",
+      "id": "d00b81447c18158b222f3ce356f562ec"
+    },
+    {
+      "date": "Le dimanche 19 mars 2023 de  09:00:00 à  15:00:00",
+      "locality": "LE HOCHET",
+      "localitySlug": "le-hochet",
+      "streets": "DANS LES ENVIRONS DE LA RUE LA PLAINE ET UDHIN LANE",
+      "district": "portlouis",
+      "from": "2023-03-19T05:00:00.000Z",
+      "to": "2023-03-19T11:00:00.000Z",
+      "id": "d5d0a8846199727944b5bb4469a7cc6d"
+    },
+    {
+      "date": "Le dimanche 19 mars 2023 de  08:30:00 à  15:00:00",
+      "locality": "BATIMARAIS",
+      "localitySlug": "batimarais",
+      "streets": "Le village de Batimarais",
+      "district": "savanne",
+      "from": "2023-03-19T04:30:00.000Z",
+      "to": "2023-03-19T11:00:00.000Z",
+      "id": "d074f85994fb212e47223c434d9f39ea"
+    }
+  ]
+}

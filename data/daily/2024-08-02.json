@@ -1,0 +1,48 @@
+{
+  "date": "2024-08-02",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.511Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le vendredi 2 août 2024 de  08:30:00 à  17:00:00",
+      "locality": "OLIVIA",
+      "localitySlug": "olivia",
+      "streets": "Olivia dans les environs de la Route Royale, Boutique Charlie et Chemin LEcole.",
+      "district": "flacq",
+      "from": "2024-08-02T04:30:00.000Z",
+      "to": "2024-08-02T13:00:00.000Z",
+      "id": "cc9e5f148f73f61f1a6b07a4dac30340"
+    },
+    {
+      "date": "Le vendredi 2 août 2024 de  16:00:00 à  18:00:00",
+      "locality": "OLIVIA",
+      "localitySlug": "olivia",
+      "streets": "OLIVIA",
+      "district": "flacq",
+      "from": "2024-08-02T12:00:00.000Z",
+      "to": "2024-08-02T14:00:00.000Z",
+      "id": "dde690973b79ee2a2ef17d2764e6bad2"
+    },
+    {
+      "date": "Le vendredi 2 août 2024 de  10:00:00 à  12:00:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "CAMP MAPOU",
+      "district": "plainewilhems",
+      "from": "2024-08-02T06:00:00.000Z",
+      "to": "2024-08-02T08:00:00.000Z",
+      "id": "8fadc51b77cffa51666de13d8453a824"
+    },
+    {
+      "date": "Le vendredi 2 août 2024 de  08:30:00 à  15:30:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "dans les environs de Morc Swan et Coastal Rd",
+      "district": "rivieredurempart",
+      "from": "2024-08-02T04:30:00.000Z",
+      "to": "2024-08-02T11:30:00.000Z",
+      "id": "37ac06c42c47591db6a3998b0310c565"
+    }
+  ]
+}

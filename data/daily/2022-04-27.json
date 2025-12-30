@@ -1,0 +1,28 @@
+{
+  "date": "2022-04-27",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.481Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mercredi 27 avril 2022 de  08:30:00 à  17:00:00",
+      "locality": "POSTE LAFAYETTE",
+      "localitySlug": "poste-lafayette",
+      "streets": "les abonnés habitant à  Poste la Fayette dans les périmètres de Bras D’eau, Le Nid, Maison D’été, Jalsa Beach, Telecom, Hotel Radisson Blue et Eastern Blue",
+      "district": "flacq",
+      "from": "2022-04-27T04:30:00.000Z",
+      "to": "2022-04-27T13:00:00.000Z",
+      "id": "51e55167798286133a12ef7de9b7bf3d"
+    },
+    {
+      "date": "Le mercredi 27 avril 2022 de  08:30:00 à  16:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Willoughby Road Vacoas",
+      "district": "plainewilhems",
+      "from": "2022-04-27T04:30:00.000Z",
+      "to": "2022-04-27T12:00:00.000Z",
+      "id": "69b8d2e397cd5ef26d238c48e39d03d1"
+    }
+  ]
+}

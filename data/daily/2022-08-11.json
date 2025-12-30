@@ -1,0 +1,48 @@
+{
+  "date": "2022-08-11",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.485Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le jeudi 11 août 2022 de  09:00:00 à  16:00:00",
+      "locality": "PETIT SABLE",
+      "localitySlug": "petit-sable",
+      "streets": "Petit Sable, une partie de Bambous Virieux & une partie de  Grand Sable",
+      "district": "grandport",
+      "from": "2022-08-11T05:00:00.000Z",
+      "to": "2022-08-11T12:00:00.000Z",
+      "id": "723a25a33becae4354919b7ed0e923d7"
+    },
+    {
+      "date": "Le jeudi 11 août 2022 de  13:10:00 à  14:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "ROYAL ROAD  NEAR TELECOM",
+      "district": "plainewilhems",
+      "from": "2022-08-11T09:10:00.000Z",
+      "to": "2022-08-11T10:00:00.000Z",
+      "id": "59fe65d941535b0b0bae707309b31149"
+    },
+    {
+      "date": "Le jeudi 11 août 2022 de  15:30:00 à  17:30:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "GEORGES GUIBERT--SAUZIER ST--MELDRUM",
+      "district": "plainewilhems",
+      "from": "2022-08-11T11:30:00.000Z",
+      "to": "2022-08-11T13:30:00.000Z",
+      "id": "0c8abf7086c93a8c2354ad8543b6be15"
+    },
+    {
+      "date": "Le jeudi 11 août 2022 de  16:30:00 à  17:30:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "POINTE AUX SABLES near POLICE STATION",
+      "district": "portlouis",
+      "from": "2022-08-11T12:30:00.000Z",
+      "to": "2022-08-11T13:30:00.000Z",
+      "id": "b9be892d38565cf697886167719d6907"
+    }
+  ]
+}

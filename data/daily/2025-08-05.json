@@ -1,0 +1,58 @@
+{
+  "date": "2025-08-05",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.524Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mardi 5 août 2025 de  10:00:00 à  13:00:00",
+      "locality": "BEAU CHAMP FLACQ",
+      "localitySlug": "beau-champ-flacq",
+      "streets": "Les abonnés de Beau Champs et Grande Riviere Sud Est.",
+      "district": "flacq",
+      "from": "2025-08-05T06:00:00.000Z",
+      "to": "2025-08-05T09:00:00.000Z",
+      "id": "425157108838f4da0ff7b75c012e61d0"
+    },
+    {
+      "date": "Le mardi 5 août 2025 de  13:30:00 à  15:30:00",
+      "locality": "BEAU CHAMP FLACQ",
+      "localitySlug": "beau-champ-flacq",
+      "streets": "Les abonnés de Beau Champs et Grande Riviere Sud Est.",
+      "district": "flacq",
+      "from": "2025-08-05T09:30:00.000Z",
+      "to": "2025-08-05T11:30:00.000Z",
+      "id": "d95801fcd88d69c12110fcef68757255"
+    },
+    {
+      "date": "Le mardi 5 août 2025 de  16:00:00 à  18:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "EX REMY ROSE HILL, DA PATTEN, NEW ARAB TOWN, MAYFAIR, NALLA STORE, BAZAR RHILL,",
+      "district": "plainewilhems",
+      "from": "2025-08-05T12:00:00.000Z",
+      "to": "2025-08-05T14:00:00.000Z",
+      "id": "9a7309708ac42d53fbf53df3cd783e28"
+    },
+    {
+      "date": "Le mardi 5 août 2025 de  13:45:00 à  15:00:00",
+      "locality": "COTTAGE",
+      "localitySlug": "cottage",
+      "streets": "THIRUVALLUVAR ST",
+      "district": "rivieredurempart",
+      "from": "2025-08-05T09:45:00.000Z",
+      "to": "2025-08-05T11:00:00.000Z",
+      "id": "aaee6c3caa2df55bc427cd663dc2210c"
+    },
+    {
+      "date": "Le mardi 5 août 2025 de  09:00:00 à  14:00:00",
+      "locality": "QUATRE VENTS(RODRIGUES)",
+      "localitySlug": "quatre-vents",
+      "streets": "Quatre Vent , Dans Sammy , Papayes et Marechal",
+      "district": "rodrigues",
+      "from": "2025-08-05T05:00:00.000Z",
+      "to": "2025-08-05T10:00:00.000Z",
+      "id": "09fbcbb340571bb71be9cc2ba37e0a28"
+    }
+  ]
+}

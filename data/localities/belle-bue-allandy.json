@@ -1,0 +1,46 @@
+{
+  "slug": "belle-bue-allandy",
+  "name": "BELLE BUE ALLANDY",
+  "district": "flacq",
+  "generated": "2025-12-30T19:07:15.574Z",
+  "outageCount": 5,
+  "firstOutage": "2023-01-12",
+  "lastOutage": "2025-12-15",
+  "outages": [
+    {
+      "date": "Le lundi 15 décembre 2025 de  10:10:00 à  11:15:00",
+      "streets": "Constance Hospitality",
+      "from": "2025-12-15T06:10:00.000Z",
+      "to": "2025-12-15T07:15:00.000Z",
+      "id": "17574528b39acabd0ae10a630e602d25"
+    },
+    {
+      "date": "Le mardi 22 juillet 2025 de  08:30:00 à  15:00:00",
+      "streets": "TOWARDS KOVIL",
+      "from": "2025-07-22T04:30:00.000Z",
+      "to": "2025-07-22T11:00:00.000Z",
+      "id": "3263afad2158ec1a03ae02a44a861adf"
+    },
+    {
+      "date": "Le jeudi 23 novembre 2023 de  08:30:00 à  16:00:00",
+      "streets": "Les abonnes du village Belle Vue Allendy et Riviere Francoise",
+      "from": "2023-11-23T04:30:00.000Z",
+      "to": "2023-11-23T12:00:00.000Z",
+      "id": "91e1fd73c0280a1efafbde2c1f34e9bf"
+    },
+    {
+      "date": "Le mercredi 8 novembre 2023 de  08:30:00 à  17:00:00",
+      "streets": "Les abonnes du village de Belle Vue Allendy et Riviere Francoise",
+      "from": "2023-11-08T04:30:00.000Z",
+      "to": "2023-11-08T13:00:00.000Z",
+      "id": "2bec543fd35addd053d9dd27aaefbd08"
+    },
+    {
+      "date": "Le jeudi 12 janvier 2023 de  09:00:00 à  16:00:00",
+      "streets": "Les abonnés habitant à Belle Vue Allendy et Club House Constance",
+      "from": "2023-01-12T05:00:00.000Z",
+      "to": "2023-01-12T12:00:00.000Z",
+      "id": "3ee01219bd7435065a43d7a61ce6e72f"
+    }
+  ]
+}

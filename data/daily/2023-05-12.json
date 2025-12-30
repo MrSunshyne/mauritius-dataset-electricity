@@ -1,0 +1,38 @@
+{
+  "date": "2023-05-12",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.494Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le vendredi 12 mai 2023 de  09:00:00 à  11:00:00",
+      "locality": "SOLITUDE",
+      "localitySlug": "solitude",
+      "streets": "SOLITUDE TOWARDS KALIMAYE",
+      "district": "pamplemousses",
+      "from": "2023-05-12T05:00:00.000Z",
+      "to": "2023-05-12T07:00:00.000Z",
+      "id": "78ae45453b693f1734d259178825113e"
+    },
+    {
+      "date": "Le vendredi 12 mai 2023 de  09:00:00 à  18:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "ROBINSON,CAMP CAVAL CUREPIPE",
+      "district": "plainewilhems",
+      "from": "2023-05-12T05:00:00.000Z",
+      "to": "2023-05-12T14:00:00.000Z",
+      "id": "88e1de31385fef4fc87f6042eda605d9"
+    },
+    {
+      "date": "Le vendredi 12 mai 2023 de  09:00:00 à  10:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "AVE THOMSON VACOAS",
+      "district": "plainewilhems",
+      "from": "2023-05-12T05:00:00.000Z",
+      "to": "2023-05-12T06:00:00.000Z",
+      "id": "05f1bd07b8cdf9957ba65bed9dbfa464"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "date": "2023-05-17",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.494Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mercredi 17 mai 2023 de  10:00:00 à  12:00:00",
+      "locality": "TOUR KOENIG",
+      "localitySlug": "tour-koenig",
+      "streets": "NEAR IVTB LA TOUR KOENIG",
+      "district": "portlouis",
+      "from": "2023-05-17T06:00:00.000Z",
+      "to": "2023-05-17T08:00:00.000Z",
+      "id": "7f28f82575daf2a30a1b01c2168359dd"
+    },
+    {
+      "date": "Le mercredi 17 mai 2023 de  09:00:00 à  16:00:00",
+      "locality": "RIAMBEL",
+      "localitySlug": "riambel",
+      "streets": "Morcellement Dunputh et Cent Lis Sur Mer Riambel",
+      "district": "savanne",
+      "from": "2023-05-17T05:00:00.000Z",
+      "to": "2023-05-17T12:00:00.000Z",
+      "id": "566c303e37a03b87050fce3f980fb93c"
+    }
+  ]
+}

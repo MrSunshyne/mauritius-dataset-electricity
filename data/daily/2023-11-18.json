@@ -1,0 +1,68 @@
+{
+  "date": "2023-11-18",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.501Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le samedi 18 novembre 2023 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "Ave des Aiglons, Ave Carol et Ave des Flamants",
+      "district": "blackriver",
+      "from": "2023-11-18T04:30:00.000Z",
+      "to": "2023-11-18T11:30:00.000Z",
+      "id": "2deb3a92bea2ca3986ff3a11a7c48ff9"
+    },
+    {
+      "date": "Le samedi 18 novembre 2023 de  04:00:00 à  16:00:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "Rues Charles de Gaulles,Francois Mitterand,Seeraullee,Market,St Ursule et les environs",
+      "district": "flacq",
+      "from": "2023-11-18T00:00:00.000Z",
+      "to": "2023-11-18T12:00:00.000Z",
+      "id": "0fb4a30216e4a1406226ebaa9b72811f"
+    },
+    {
+      "date": "Le samedi 18 novembre 2023 de  09:00:00 à  15:00:00",
+      "locality": "VALTON",
+      "localitySlug": "valton",
+      "streets": "Valton",
+      "district": "pamplemousses",
+      "from": "2023-11-18T05:00:00.000Z",
+      "to": "2023-11-18T11:00:00.000Z",
+      "id": "a8a8056c611a3899752e230664cb2165"
+    },
+    {
+      "date": "Le samedi 18 novembre 2023 de  08:30:00 à  17:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "PLAISANCE, DEROSNAY, VENKATASAMY, MELDRUM, RAOUL LEJEUNE, MONNERON, MASCARENAS, HAJEE HALAMAN, RATSITATANE, ROYAL RD NEAR 5-PLUS, EN PARTIE DE PLEVITZ ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2023-11-18T04:30:00.000Z",
+      "to": "2023-11-18T13:00:00.000Z",
+      "id": "9a946175782f89db8423f25f7157354c"
+    },
+    {
+      "date": "Le samedi 18 novembre 2023 de  09:00:00 à  15:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "NHDC PALMA, PLASPAK",
+      "district": "plainewilhems",
+      "from": "2023-11-18T05:00:00.000Z",
+      "to": "2023-11-18T11:00:00.000Z",
+      "id": "fc66cced240b35ad19b0b9a2060a9e3d"
+    },
+    {
+      "date": "Le samedi 18 novembre 2023 de  08:30:00 à  15:30:00",
+      "locality": "PLAINE DES ROCHES",
+      "localitySlug": "plaine-des-roches",
+      "streets": "dans les environs de Dispensary road et Branch Road",
+      "district": "rivieredurempart",
+      "from": "2023-11-18T04:30:00.000Z",
+      "to": "2023-11-18T11:30:00.000Z",
+      "id": "92752df6db7fd25193a308d0f7aac0cc"
+    }
+  ]
+}

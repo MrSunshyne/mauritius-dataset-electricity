@@ -1,0 +1,78 @@
+{
+  "date": "2024-06-22",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.509Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le samedi 22 juin 2024 de  09:30:00 à  11:30:00",
+      "locality": "MEDINE CAMP DE MASQUE",
+      "localitySlug": "medine-camp-de-masque",
+      "streets": "MEDINE CAMP DE MASQUE,MONTIDA,MELEROSE,SEBASTOPOL,MONTAGNE BLANCHE,PETIT PAQUET",
+      "district": "flacq",
+      "from": "2024-06-22T05:30:00.000Z",
+      "to": "2024-06-22T07:30:00.000Z",
+      "id": "2ab304bf56d9805d7834a408eeb592da"
+    },
+    {
+      "date": "Le samedi 22 juin 2024 de  13:15:00 à  15:30:00",
+      "locality": "CAMP DES EMBREVADES",
+      "localitySlug": "camp-des-embrevades",
+      "streets": "FROM ILOT IN DIRECTION CAMP DES EMBREVADES",
+      "district": "pamplemousses",
+      "from": "2024-06-22T09:15:00.000Z",
+      "to": "2024-06-22T11:30:00.000Z",
+      "id": "da26750baa87661c19f3575124614865"
+    },
+    {
+      "date": "Le samedi 22 juin 2024 de  08:15:00 à  16:00:00",
+      "locality": "SAINT PAUL",
+      "localitySlug": "saint-paul",
+      "streets": "Morcellement L’Eclézio et Morcellement Benydin une partie de Rabindranath Tagore Avenue, une partie de Nilkant Mandir Avenue",
+      "district": "plainewilhems",
+      "from": "2024-06-22T04:15:00.000Z",
+      "to": "2024-06-22T12:00:00.000Z",
+      "id": "fbf2e65f976a88acd5d17e7ecfe26465"
+    },
+    {
+      "date": "Le samedi 22 juin 2024 de  23:00:00 à  03:00:00",
+      "locality": "WOOTUN",
+      "localitySlug": "wootun",
+      "streets": "RES LILY WOOTUN",
+      "district": "plainewilhems",
+      "from": "2024-06-22T19:00:00.000Z",
+      "to": "2024-06-21T23:00:00.000Z",
+      "id": "6a939ce42655c50b70c26fce176dc18c"
+    },
+    {
+      "date": "Le samedi 22 juin 2024 de  15:00:00 à  16:00:00",
+      "locality": "POMPEE(RODRIGUES)",
+      "localitySlug": "pompee",
+      "streets": "Camp Paul",
+      "district": "rodrigues",
+      "from": "2024-06-22T11:00:00.000Z",
+      "to": "2024-06-22T12:00:00.000Z",
+      "id": "06a47e8a122137a071cb1a9d9ace15c6"
+    },
+    {
+      "date": "Le samedi 22 juin 2024 de  08:00:00 à  09:00:00",
+      "locality": "POMPEE(RODRIGUES)",
+      "localitySlug": "pompee",
+      "streets": "Camp Paul",
+      "district": "rodrigues",
+      "from": "2024-06-22T04:00:00.000Z",
+      "to": "2024-06-22T05:00:00.000Z",
+      "id": "afe9476942e78537760495309a8933b6"
+    },
+    {
+      "date": "Le samedi 22 juin 2024 de  08:30:00 à  10:00:00",
+      "locality": "BAIE TOPAZE(RODRIGUES)",
+      "localitySlug": "baie-topaze",
+      "streets": "LAFERME,PIMENT,REPOSOIR,BAIE TOPAZE,CAMP PINTADE,BAIE DUNORD,ANSE GOELANDE,BAY MALGACHE BAIE DIAMANT",
+      "district": "rodrigues",
+      "from": "2024-06-22T04:30:00.000Z",
+      "to": "2024-06-22T06:00:00.000Z",
+      "id": "0c0a96eb7def65bbda127e2aa1e29995"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "date": "2025-10-06",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.526Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le lundi 6 octobre 2025 de  08:45:00 à  11:00:00",
+      "locality": "ECROIGNARD",
+      "localitySlug": "ecroignard",
+      "streets": "VILLAGE HALL AND SURROUNDINGS",
+      "district": "flacq",
+      "from": "2025-10-06T04:45:00.000Z",
+      "to": "2025-10-06T07:00:00.000Z",
+      "id": "3158dcd32b6122affa3f763b7ae69108"
+    },
+    {
+      "date": "Le lundi 6 octobre 2025 de  08:30:00 à  14:00:00",
+      "locality": "SAINT HILAIRE",
+      "localitySlug": "saint-hilaire",
+      "streets": "CENT GAULETTES, JUHOOR ST, MORC ST HENRI ET UNE PARTIE DE ROUTE ROYALE SU HUBERT",
+      "district": "grandport",
+      "from": "2025-10-06T04:30:00.000Z",
+      "to": "2025-10-06T10:00:00.000Z",
+      "id": "8ebe8f73166ea6e9a21d6c11eb8c14e0"
+    },
+    {
+      "date": "Le lundi 6 octobre 2025 de  09:00:00 à  14:00:00",
+      "locality": "RIVIERE DES CREOLES",
+      "localitySlug": "riviere-des-creoles",
+      "streets": "PART OF RIVIERE DES CREOLES",
+      "district": "grandport",
+      "from": "2025-10-06T05:00:00.000Z",
+      "to": "2025-10-06T10:00:00.000Z",
+      "id": "4200fb4dc72c3e9dc68fc08ace372ce0"
+    },
+    {
+      "date": "Le lundi 6 octobre 2025 de  16:00:00 à  18:30:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Ave Labourdonnais, Ave La Place, Stevenson, Lucien de Chazal, Inkerman, Blondeau et les environs",
+      "district": "plainewilhems",
+      "from": "2025-10-06T12:00:00.000Z",
+      "to": "2025-10-06T14:30:00.000Z",
+      "id": "503f2dbef27f8d65b07ecb5592cc2798"
+    },
+    {
+      "date": "Le lundi 6 octobre 2025 de  16:00:00 à  17:15:00",
+      "locality": "CAMP FOUQUEREAUX",
+      "localitySlug": "camp-fouquereaux",
+      "streets": "Reservoir Rd,Camp Fouquereaux",
+      "district": "plainewilhems",
+      "from": "2025-10-06T12:00:00.000Z",
+      "to": "2025-10-06T13:15:00.000Z",
+      "id": "841ddb9afcc6e730f2ba34ed7c4f516a"
+    },
+    {
+      "date": "Le lundi 6 octobre 2025 de  15:00:00 à  18:30:00",
+      "locality": "POINTE AUX CANONNIERS",
+      "localitySlug": "pointe-aux-canonniers",
+      "streets": "ENTIERE REGION DE POINTE AUX CANNONIERS",
+      "district": "rivieredurempart",
+      "from": "2025-10-06T11:00:00.000Z",
+      "to": "2025-10-06T14:30:00.000Z",
+      "id": "01d301c7c0fd6868ec75b32a8bd4864e"
+    }
+  ]
+}

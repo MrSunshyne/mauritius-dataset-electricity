@@ -1,0 +1,67 @@
+{
+  "slug": "pont-blanc",
+  "name": "PONT BLANC",
+  "district": "flacq",
+  "generated": "2025-12-30T19:07:15.801Z",
+  "outageCount": 8,
+  "firstOutage": "2024-03-14",
+  "lastOutage": "2024-12-15",
+  "outages": [
+    {
+      "date": "Le dimanche 15 décembre 2024 de  15:45:00 à  19:00:00",
+      "streets": "FROM MOSQUE TILL NEW FILLING.",
+      "from": "2024-12-15T11:45:00.000Z",
+      "to": "2024-12-15T15:00:00.000Z",
+      "id": "e0c677e466b71052face56039a188794"
+    },
+    {
+      "date": "Le mercredi 11 décembre 2024 de  09:00:00 à  11:30:00",
+      "streets": "PONT BLANC",
+      "from": "2024-12-11T05:00:00.000Z",
+      "to": "2024-12-11T07:30:00.000Z",
+      "id": "4f2b0e140d96ff729b1db6d559d3f278"
+    },
+    {
+      "date": "Le lundi 28 octobre 2024 de  09:00:00 à  12:00:00",
+      "streets": "Village de Pont Blanc",
+      "from": "2024-10-28T05:00:00.000Z",
+      "to": "2024-10-28T08:00:00.000Z",
+      "id": "b78ea6e2cdb9523166b5531f528ecdd3"
+    },
+    {
+      "date": "Le mercredi 2 octobre 2024 de  07:00:00 à  17:00:00",
+      "streets": "PONT BLANC ET PETITE RETRAITE",
+      "from": "2024-10-02T03:00:00.000Z",
+      "to": "2024-10-02T13:00:00.000Z",
+      "id": "c7a025ffe5a015637f3223002ea69f73"
+    },
+    {
+      "date": "Le dimanche 1 septembre 2024 de  08:30:00 à  16:00:00",
+      "streets": "Pont Blanc Village",
+      "from": "2024-09-01T04:30:00.000Z",
+      "to": "2024-09-01T12:00:00.000Z",
+      "id": "1d1fe2e3893337d351c06bc922bee14b"
+    },
+    {
+      "date": "Le dimanche 2 juin 2024 de  08:30:00 à  16:00:00",
+      "streets": "Village de Pont Blanc.",
+      "from": "2024-06-02T04:30:00.000Z",
+      "to": "2024-06-02T12:00:00.000Z",
+      "id": "3e7376536800c3c50250b5b1fbc4e22d"
+    },
+    {
+      "date": "Le jeudi 21 mars 2024 de  09:00:00 à  17:00:00",
+      "streets": "Village De Pont Blanc",
+      "from": "2024-03-21T05:00:00.000Z",
+      "to": "2024-03-21T13:00:00.000Z",
+      "id": "e24550d56db0700c6cea7a27c909502c"
+    },
+    {
+      "date": "Le jeudi 14 mars 2024 de  09:00:00 à  15:00:00",
+      "streets": "Le Village de Pont Blanc",
+      "from": "2024-03-14T05:00:00.000Z",
+      "to": "2024-03-14T11:00:00.000Z",
+      "id": "7b90aa8a5e098230937019bb1fd6a3a7"
+    }
+  ]
+}

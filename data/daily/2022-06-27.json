@@ -1,0 +1,38 @@
+{
+  "date": "2022-06-27",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.483Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le lundi 27 juin 2022 de  08:30:00 à  16:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "AVE DES BALEINES, AVE DES BRETONS, AVE DES CATEAUX, UNE PARTIE DE AVE SOUFFLEUR ET AVE SUNSET",
+      "district": "blackriver",
+      "from": "2022-06-27T04:30:00.000Z",
+      "to": "2022-06-27T12:30:00.000Z",
+      "id": "e0c6a63e707824da994951a71bc82ad5"
+    },
+    {
+      "date": "Le lundi 27 juin 2022 de  19:30:00 à  21:30:00",
+      "locality": "HOLLYROOD",
+      "localitySlug": "hollyrood",
+      "streets": "HOLLYROOD NO:1",
+      "district": "plainewilhems",
+      "from": "2022-06-27T15:30:00.000Z",
+      "to": "2022-06-27T17:30:00.000Z",
+      "id": "609921b160264cceecfb8c926b3bf016"
+    },
+    {
+      "date": "Le lundi 27 juin 2022 de  12:00:00 à  16:00:00",
+      "locality": "ENGLISH BAY(RODRIGUES)",
+      "localitySlug": "english-bay",
+      "streets": "English Bay",
+      "district": "rodrigues",
+      "from": "2022-06-27T08:00:00.000Z",
+      "to": "2022-06-27T12:00:00.000Z",
+      "id": "c67a75ee8e1b9b1205c7fcef394b126a"
+    }
+  ]
+}

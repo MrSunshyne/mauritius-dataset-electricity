@@ -1,0 +1,68 @@
+{
+  "date": "2025-11-10",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.528Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le lundi 10 novembre 2025 de  10:10:00 à  12:10:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "GAMMA CIVIC,POULTRY-UPTO 6 CUSTOMERS",
+      "district": "blackriver",
+      "from": "2025-11-10T06:10:00.000Z",
+      "to": "2025-11-10T08:10:00.000Z",
+      "id": "73bd255a8886c6f6d4c5652646818205"
+    },
+    {
+      "date": "Le lundi 10 novembre 2025 de  13:30:00 à  15:00:00",
+      "locality": "CASE NOYALE",
+      "localitySlug": "case-noyale",
+      "streets": "CASE NOYALE",
+      "district": "blackriver",
+      "from": "2025-11-10T09:30:00.000Z",
+      "to": "2025-11-10T11:00:00.000Z",
+      "id": "c95d86769e8085601d560df5e4480791"
+    },
+    {
+      "date": "Le lundi 10 novembre 2025 de  21:00:00 à  00:00:00",
+      "locality": "CHAMAREL",
+      "localitySlug": "chamarel",
+      "streets": "DESIRE RD-ROYAL RD CHAMAREL",
+      "district": "blackriver",
+      "from": "2025-11-10T17:00:00.000Z",
+      "to": "2025-11-09T20:00:00.000Z",
+      "id": "0124f419bea6a818e67ac17c6d246f74"
+    },
+    {
+      "date": "Le lundi 10 novembre 2025 de  09:30:00 à  11:30:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "9eme Mille,Sewraz Govt School,TRIOLET",
+      "district": "pamplemousses",
+      "from": "2025-11-10T05:30:00.000Z",
+      "to": "2025-11-10T07:30:00.000Z",
+      "id": "833b9aef54d84af43be0f802565b496e"
+    },
+    {
+      "date": "Le lundi 10 novembre 2025 de  15:30:00 à  17:00:00",
+      "locality": "CANTON NANCY",
+      "localitySlug": "canton-nancy",
+      "streets": "LES ABONNES DE CANTON NANCY.",
+      "district": "pamplemousses",
+      "from": "2025-11-10T11:30:00.000Z",
+      "to": "2025-11-10T13:00:00.000Z",
+      "id": "7ab5c4b62b38284f7967b4a8f9ebed2e"
+    },
+    {
+      "date": "Le lundi 10 novembre 2025 de  14:30:00 à  17:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Bassin, Boodram, NHDC Bassin et Morc Bassin",
+      "district": "plainewilhems",
+      "from": "2025-11-10T10:30:00.000Z",
+      "to": "2025-11-10T13:30:00.000Z",
+      "id": "3470df68619d5a2412d48e6a494f8b58"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Mauritius Electricity Power Outages Dataset",
+  "description": "Automatically updated dataset of power outages in Mauritius",
+  "source": "https://ceb.mu/customer-corner/power-outage-information",
+  "repository": "https://github.com/MrSunshyne/mauritius-dataset-electricity",
+  "generated": "2025-12-30T19:07:17.195Z",
+  "timezone": "Indian/Mauritius",
+  "schema": {
+    "version": "2.0"
+  },
+  "files": {
+    "full": {
+      "path": "power-outages.json",
+      "description": "Complete historical data"
+    },
+    "latest": {
+      "path": "power-outages.latest.json",
+      "description": "Today's outages (including completed) and future scheduled outages"
+    },
+    "daily": {
+      "index": "daily/index.json",
+      "description": "Outages grouped by date"
+    },
+    "localities": {
+      "index": "localities/index.json",
+      "description": "Outages grouped by locality"
+    }
+  },
+  "stats": {
+    "totalOutages": 8781,
+    "dateRange": {
+      "from": "2022-03-11",
+      "to": "2025-12-30"
+    },
+    "districtCount": 10,
+    "localityCount": 459
+  }
+}

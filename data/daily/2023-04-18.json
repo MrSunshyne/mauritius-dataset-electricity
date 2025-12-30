@@ -1,0 +1,28 @@
+{
+  "date": "2023-04-18",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.493Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mardi 18 avril 2023 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC ANNA- AVE DES CACHALOTS, IMPASSE DES CACHALOTS ET UNE PARTIE DE LAVENUE SUNSET",
+      "district": "blackriver",
+      "from": "2023-04-18T04:30:00.000Z",
+      "to": "2023-04-18T11:30:00.000Z",
+      "id": "8b2a2fb0e60f2f598df359e1860d864c"
+    },
+    {
+      "date": "Le mardi 18 avril 2023 de  10:00:00 à  15:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Partie de Charles Renaud de sa jonction avec Lapeyrousse Street jusqu’à D’Epinay Street et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-04-18T06:00:00.000Z",
+      "to": "2023-04-18T11:00:00.000Z",
+      "id": "3fac5b2afc9a3855d7559c98fe723335"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "beau-plan",
+  "name": "BEAU PLAN",
+  "district": "pamplemousses",
+  "generated": "2025-12-30T19:07:15.567Z",
+  "outageCount": 4,
+  "firstOutage": "2023-06-07",
+  "lastOutage": "2025-10-03",
+  "outages": [
+    {
+      "date": "Le vendredi 3 octobre 2025 de  00:00:00 à  19:00:00",
+      "streets": "LES MUGUETS BEAU PLAN",
+      "from": "2025-10-02T20:00:00.000Z",
+      "to": "2025-10-02T15:00:00.000Z",
+      "id": "a34eff4fcc888e02505f0bd063f665e2"
+    },
+    {
+      "date": "Le jeudi 2 octobre 2025 de  07:00:00 à  00:00:00",
+      "streets": "ES MUGUETS BEAU PLAN",
+      "from": "2025-10-02T03:00:00.000Z",
+      "to": "2025-10-01T20:00:00.000Z",
+      "id": "c789be67fa483a17f13df7efca125e7d"
+    },
+    {
+      "date": "Le jeudi 12 septembre 2024 de  09:00:00 à  14:00:00",
+      "streets": "Beau Plan dans les environs de Island Fertiliser, Evapo et Beau Plan Business Park",
+      "from": "2024-09-12T05:00:00.000Z",
+      "to": "2024-09-12T10:00:00.000Z",
+      "id": "83e009a1096f6e98b55f74f0448621bf"
+    },
+    {
+      "date": "Le mercredi 7 juin 2023 de  08:30:00 à  17:00:00",
+      "streets": "Morc Le Muguet, Morc Le park et regions avoisinant",
+      "from": "2023-06-07T04:30:00.000Z",
+      "to": "2023-06-07T13:00:00.000Z",
+      "id": "d94692730ab2c39250a23b6ddaa05abd"
+    }
+  ]
+}

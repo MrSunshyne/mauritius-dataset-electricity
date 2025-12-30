@@ -1,0 +1,39 @@
+{
+  "slug": "camp-carol-kenya",
+  "name": "CAMP CAROL KENYA",
+  "district": "grandport",
+  "generated": "2025-12-30T19:07:15.597Z",
+  "outageCount": 4,
+  "firstOutage": "2022-10-05",
+  "lastOutage": "2024-08-29",
+  "outages": [
+    {
+      "date": "Le jeudi 29 août 2024 de  09:00:00 à  12:30:00",
+      "streets": "CAMP CAROL KENYA",
+      "from": "2024-08-29T05:00:00.000Z",
+      "to": "2024-08-29T08:30:00.000Z",
+      "id": "5a48c0954ade59bcf7a65a846748826e"
+    },
+    {
+      "date": "Le vendredi 9 décembre 2022 de  11:00:00 à  14:00:00",
+      "streets": "Camp Carol, Kenya & Le Bouchon",
+      "from": "2022-12-09T07:00:00.000Z",
+      "to": "2022-12-09T10:00:00.000Z",
+      "id": "deaab578aa8e5e73c6fb44c6fb4ff7c0"
+    },
+    {
+      "date": "Le jeudi 24 novembre 2022 de  05:30:00 à  09:00:00",
+      "streets": "CAMP CAROL,LE BOUCHON",
+      "from": "2022-11-24T01:30:00.000Z",
+      "to": "2022-11-24T05:00:00.000Z",
+      "id": "525729e77134fe18c78ab59d352aad76"
+    },
+    {
+      "date": "Le mercredi 5 octobre 2022 de  09:30:00 à  12:00:00",
+      "streets": "Camp Carol Le Bouchon",
+      "from": "2022-10-05T05:30:00.000Z",
+      "to": "2022-10-05T08:00:00.000Z",
+      "id": "80eeb5f6a06ab90bce304efa4f2009a3"
+    }
+  ]
+}

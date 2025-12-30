@@ -1,0 +1,58 @@
+{
+  "date": "2025-02-03",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.518Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le lundi 3 février 2025 de  12:00:00 à  13:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "MORC TERRE ALBION",
+      "district": "blackriver",
+      "from": "2025-02-03T08:00:00.000Z",
+      "to": "2025-02-03T09:00:00.000Z",
+      "id": "d27ea0e49fc463adb75c5f73633578b3"
+    },
+    {
+      "date": "Le lundi 3 février 2025 de  09:00:00 à  11:00:00",
+      "locality": "VUILLEMIN Q.MILITAIRE",
+      "localitySlug": "vuillemin-qmilitaire",
+      "streets": "VUILLEMIN NHDC",
+      "district": "moka",
+      "from": "2025-02-03T05:00:00.000Z",
+      "to": "2025-02-03T07:00:00.000Z",
+      "id": "2a6ed8a2e87bb78e0551844bb8e6d9dd"
+    },
+    {
+      "date": "Le lundi 3 février 2025 de  11:00:00 à  13:00:00",
+      "locality": "FOND DU SAC",
+      "localitySlug": "fond-du-sac",
+      "streets": "TAGORE RD FOND DU SAC",
+      "district": "pamplemousses",
+      "from": "2025-02-03T07:00:00.000Z",
+      "to": "2025-02-03T09:00:00.000Z",
+      "id": "d688e209f7fe256eeaa5154869b577bf"
+    },
+    {
+      "date": "Le lundi 3 février 2025 de  15:35:00 à  23:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "TRIOLET..Japonnais,TBS,Beedassy,Market Roads",
+      "district": "pamplemousses",
+      "from": "2025-02-03T11:35:00.000Z",
+      "to": "2025-02-03T19:00:00.000Z",
+      "id": "9956aa7c2fd3457dfb856a15ca7656ff"
+    },
+    {
+      "date": "Le lundi 3 février 2025 de  16:15:00 à  17:15:00",
+      "locality": "SODNAC",
+      "localitySlug": "sodnac",
+      "streets": "HILL CREST, FAUCON, PIGEON,ROSSIGNOL,COLOMBE,VILLENEUVE APPT, DREAMTON PARK,",
+      "district": "plainewilhems",
+      "from": "2025-02-03T12:15:00.000Z",
+      "to": "2025-02-03T13:15:00.000Z",
+      "id": "94c970104fbd37a645bfab0a45f9a16b"
+    }
+  ]
+}

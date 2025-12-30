@@ -1,0 +1,58 @@
+{
+  "date": "2022-12-05",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.488Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le lundi 5 décembre 2022 de  08:30:00 à  16:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC ANNA",
+      "district": "blackriver",
+      "from": "2022-12-05T04:30:00.000Z",
+      "to": "2022-12-05T12:30:00.000Z",
+      "id": "e0814aaf4af1e36a5ce2ac9299f02970"
+    },
+    {
+      "date": "Le lundi 5 décembre 2022 de  06:45:00 à  09:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "FLIC EN FLAC,BAMBOUS",
+      "district": "blackriver",
+      "from": "2022-12-05T02:45:00.000Z",
+      "to": "2022-12-05T05:00:00.000Z",
+      "id": "104e284602f4dc951bd0cee0c7387732"
+    },
+    {
+      "date": "Le lundi 5 décembre 2022 de  13:30:00 à  17:00:00",
+      "locality": "GROS CAILLOUX",
+      "localitySlug": "gros-cailloux",
+      "streets": "RESIDENCE VETIVER",
+      "district": "blackriver",
+      "from": "2022-12-05T09:30:00.000Z",
+      "to": "2022-12-05T13:00:00.000Z",
+      "id": "f7e614789ee0f0acb3b558e9db4ab832"
+    },
+    {
+      "date": "Le lundi 5 décembre 2022 de  11:45:00 à  13:30:00",
+      "locality": "LALLMATIE",
+      "localitySlug": "lallmatie",
+      "streets": "NEHRU ROAD",
+      "district": "flacq",
+      "from": "2022-12-05T07:45:00.000Z",
+      "to": "2022-12-05T09:30:00.000Z",
+      "id": "22ca5e45048d46bf344de43d1634a9f9"
+    },
+    {
+      "date": "Le lundi 5 décembre 2022 de  09:45:00 à  14:00:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "CAMP RENAUD, DEEP RIVER AND SURROUNDING REGION",
+      "district": "flacq",
+      "from": "2022-12-05T05:45:00.000Z",
+      "to": "2022-12-05T10:00:00.000Z",
+      "id": "71bb0ad05b00ef3b568b9955701be3a3"
+    }
+  ]
+}

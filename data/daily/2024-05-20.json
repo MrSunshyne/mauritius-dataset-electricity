@@ -1,0 +1,38 @@
+{
+  "date": "2024-05-20",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.508Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le lundi 20 mai 2024 de  09:00:00 à  16:00:00",
+      "locality": "MONTAGNE BLANCHE",
+      "localitySlug": "montagne-blanche",
+      "streets": "Morcellement Sans Souci",
+      "district": "moka",
+      "from": "2024-05-20T05:00:00.000Z",
+      "to": "2024-05-20T12:00:00.000Z",
+      "id": "9e382ebb2b00b6c29d7d9284c6433d8f"
+    },
+    {
+      "date": "Le lundi 20 mai 2024 de  13:00:00 à  14:00:00",
+      "locality": "NOUVELLE DECOUVERTE",
+      "localitySlug": "nouvelle-decouverte",
+      "streets": "RAJABALLY ROAD ET LES ALENTOURS",
+      "district": "moka",
+      "from": "2024-05-20T09:00:00.000Z",
+      "to": "2024-05-20T10:00:00.000Z",
+      "id": "4dbd2d183ad3d12933a69031ad3cc091"
+    },
+    {
+      "date": "Le lundi 20 mai 2024 de  12:15:00 à  17:00:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "Mellville",
+      "district": "rivieredurempart",
+      "from": "2024-05-20T08:15:00.000Z",
+      "to": "2024-05-20T13:00:00.000Z",
+      "id": "90517e6f30d14caa32356b3c4cacc602"
+    }
+  ]
+}

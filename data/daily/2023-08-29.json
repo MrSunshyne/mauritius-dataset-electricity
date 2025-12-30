@@ -1,0 +1,68 @@
+{
+  "date": "2023-08-29",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.498Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le mardi 29 août 2023 de  08:30:00 à  17:00:00",
+      "locality": "EAU BLEUE TOSTEE",
+      "localitySlug": "eau-bleue-tostee",
+      "streets": "Eau Bleu Tostée & CWA Pumping Station at Cluny",
+      "district": "grandport",
+      "from": "2023-08-29T04:30:00.000Z",
+      "to": "2023-08-29T13:00:00.000Z",
+      "id": "26b3832948c5f2cff8ba5729fc0ac0bf"
+    },
+    {
+      "date": "Le mardi 29 août 2023 de  09:00:00 à  16:00:00",
+      "locality": "ALLEE BRILLANT VACOAS",
+      "localitySlug": "allee-brillant-vacoas",
+      "streets": "une partie de Hanoomanjee Lane, une partie de Espitalier Noel Street, Suroop Lane",
+      "district": "plainewilhems",
+      "from": "2023-08-29T05:00:00.000Z",
+      "to": "2023-08-29T12:00:00.000Z",
+      "id": "528d246f07b69fe44a077c00086dac08"
+    },
+    {
+      "date": "Le mardi 29 août 2023 de  08:30:00 à  16:00:00",
+      "locality": "MARE LONGUE",
+      "localitySlug": "mare-longue",
+      "streets": "MARE LONGUE AND TAMARIND FALLS",
+      "district": "plainewilhems",
+      "from": "2023-08-29T04:30:00.000Z",
+      "to": "2023-08-29T12:00:00.000Z",
+      "id": "4daa5e5a9d54af993295558fed0600f9"
+    },
+    {
+      "date": "Le mardi 29 août 2023 de  08:30:00 à  16:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "FOREST LANE",
+      "district": "plainewilhems",
+      "from": "2023-08-29T04:30:00.000Z",
+      "to": "2023-08-29T12:00:00.000Z",
+      "id": "17b17a7c6b76a57b63597a7d4602cf99"
+    },
+    {
+      "date": "Le mardi 29 août 2023 de  20:45:00 à  01:00:00",
+      "locality": "RESIDENCE KENNEDY",
+      "localitySlug": "residence-kennedy",
+      "streets": "BASSIN,CANDOS,HILARY BLOOD.CHB EGALITE,MGR LEEN",
+      "district": "plainewilhems",
+      "from": "2023-08-29T16:45:00.000Z",
+      "to": "2023-08-28T21:00:00.000Z",
+      "id": "4aca74cf07867bf6b8306194cefc4d23"
+    },
+    {
+      "date": "Le mardi 29 août 2023 de  08:00:00 à  12:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Pointe Lherbe, Accacia, Baie Aux Huitre, Pointe Laguel, Baie Diamant, Baie Malgache, Anse Goeland et Baie Du Nord",
+      "district": "rodrigues",
+      "from": "2023-08-29T04:00:00.000Z",
+      "to": "2023-08-29T08:00:00.000Z",
+      "id": "dc02880da760e9514452cb908e23ac2d"
+    }
+  ]
+}

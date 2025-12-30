@@ -1,0 +1,74 @@
+{
+  "slug": "circonstance",
+  "name": "CIRCONSTANCE",
+  "district": "moka",
+  "generated": "2025-12-30T19:07:15.629Z",
+  "outageCount": 9,
+  "firstOutage": "2023-04-13",
+  "lastOutage": "2025-06-29",
+  "outages": [
+    {
+      "date": "Le dimanche 29 juin 2025 de  08:30:00 à  15:00:00",
+      "streets": "Shivala Rd, Tamil Temple, Ste Catherine, Chemin Lamarre, Morc Desmarais et Cemetery Rd",
+      "from": "2025-06-29T04:30:00.000Z",
+      "to": "2025-06-29T11:00:00.000Z",
+      "id": "9b37bb8117a1c02148d07ec80ce02fca"
+    },
+    {
+      "date": "Le mardi 11 mars 2025 de  09:30:00 à  11:00:00",
+      "streets": "RESIDENCE CIRCONSTANCE ST PIERRE, SOCIAL CENTER AND SURROUNGINGS",
+      "from": "2025-03-11T05:30:00.000Z",
+      "to": "2025-03-11T07:00:00.000Z",
+      "id": "9b678a0b90a6d4ebf9ad515de4ce4394"
+    },
+    {
+      "date": "Le mardi 29 octobre 2024 de  10:00:00 à  11:00:00",
+      "streets": "CIRCONSTANCE ST PIERRE NR CEMETRY",
+      "from": "2024-10-29T06:00:00.000Z",
+      "to": "2024-10-29T07:00:00.000Z",
+      "id": "f49545e865eb1a53ecf9760dd17f2c14"
+    },
+    {
+      "date": "Le lundi 6 novembre 2023 de  20:30:00 à  22:30:00",
+      "streets": "RES VIGNOLE CIRCONSTANCE ST PIERRE",
+      "from": "2023-11-06T16:30:00.000Z",
+      "to": "2023-11-06T18:30:00.000Z",
+      "id": "160173b0d5d8a97794e29aa647245e92"
+    },
+    {
+      "date": "Le samedi 26 août 2023 de  12:00:00 à  13:00:00",
+      "streets": "CIRCONSTANCE CHEMIN LA MARE ET ENVIRONS",
+      "from": "2023-08-26T08:00:00.000Z",
+      "to": "2023-08-26T09:00:00.000Z",
+      "id": "6d2e841c8c935c228cb73155b0faac35"
+    },
+    {
+      "date": "Le lundi 12 juin 2023 de  09:00:00 à  11:00:00",
+      "streets": "CIRCONSTANCE ST PIERRE",
+      "from": "2023-06-12T05:00:00.000Z",
+      "to": "2023-06-12T07:00:00.000Z",
+      "id": "7a468cded349f5b6516b118e7f04e910"
+    },
+    {
+      "date": "Le mardi 16 mai 2023 de  15:00:00 à  16:30:00",
+      "streets": "LPG, ROYAL RD UPTO BADAL RD,PART OF CEMETERY RD",
+      "from": "2023-05-16T11:00:00.000Z",
+      "to": "2023-05-16T12:30:00.000Z",
+      "id": "3a55c25e1455148cf0c30e0b84b4d621"
+    },
+    {
+      "date": "Le dimanche 7 mai 2023 de  08:30:00 à  16:00:00",
+      "streets": "NHDC LOW COST CIRCONSTANCE",
+      "from": "2023-05-07T04:30:00.000Z",
+      "to": "2023-05-07T12:00:00.000Z",
+      "id": "a7a480efbe8d138f17c071b6e43efd98"
+    },
+    {
+      "date": "Le jeudi 13 avril 2023 de  08:30:00 à  14:00:00",
+      "streets": "CIRCONSTANCE ST PIERRE ,DREAMPRICE, LPG GARMENT ET LES ENVIRONS",
+      "from": "2023-04-13T04:30:00.000Z",
+      "to": "2023-04-13T10:00:00.000Z",
+      "id": "fe226f0c556fb119fa3703f01a5fe468"
+    }
+  ]
+}

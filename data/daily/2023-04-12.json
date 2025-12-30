@@ -1,0 +1,68 @@
+{
+  "date": "2023-04-12",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.493Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le mercredi 12 avril 2023 de  08:30:00 à  12:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Solferino No. 1, et No. 2, une partie de Route Vingta No. 1, Kistoo Lane",
+      "district": "plainewilhems",
+      "from": "2023-04-12T04:30:00.000Z",
+      "to": "2023-04-12T08:00:00.000Z",
+      "id": "cb8b9bed1b00b84929060530f837102b"
+    },
+    {
+      "date": "Le mercredi 12 avril 2023 de  09:00:00 à  10:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "VENDERMECH ROSE HILL",
+      "district": "plainewilhems",
+      "from": "2023-04-12T05:00:00.000Z",
+      "to": "2023-04-12T06:00:00.000Z",
+      "id": "c9d936a138c76929edf0c9a9060f447b"
+    },
+    {
+      "date": "Le mercredi 12 avril 2023 de  19:00:00 à  20:30:00",
+      "locality": "CAMP LEVIEUX ( R HILL )",
+      "localitySlug": "camp-levieux",
+      "streets": "AVENUE CRETIN",
+      "district": "plainewilhems",
+      "from": "2023-04-12T15:00:00.000Z",
+      "to": "2023-04-12T16:30:00.000Z",
+      "id": "373fee59602210261ec55aacef5f7780"
+    },
+    {
+      "date": "Le mercredi 12 avril 2023 de  20:00:00 à  22:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "LA RUE LECLEZIO,RITTER,RUE HIGGINSON",
+      "district": "plainewilhems",
+      "from": "2023-04-12T16:00:00.000Z",
+      "to": "2023-04-12T18:00:00.000Z",
+      "id": "760dadfb84ac5ca730a613dcb0091ebe"
+    },
+    {
+      "date": "Le mercredi 12 avril 2023 de  09:00:00 à  14:30:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "DANS LES ENVIRONS DE LA RUE SAINTE MARIE",
+      "district": "portlouis",
+      "from": "2023-04-12T05:00:00.000Z",
+      "to": "2023-04-12T10:30:00.000Z",
+      "id": "64c6aca7c7891ecf5b4595a69fefc94b"
+    },
+    {
+      "date": "Le mercredi 12 avril 2023 de  12:30:00 à  16:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "DOMAINE DU MOULIN",
+      "district": "rivieredurempart",
+      "from": "2023-04-12T08:30:00.000Z",
+      "to": "2023-04-12T12:00:00.000Z",
+      "id": "5452bab9ec465ab485ecbb349f7b5776"
+    }
+  ]
+}

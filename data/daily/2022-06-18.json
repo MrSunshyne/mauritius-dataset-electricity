@@ -1,0 +1,48 @@
+{
+  "date": "2022-06-18",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.483Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le samedi 18 juin 2022 de  08:30:00 à  16:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "MONTAGNE ST PIERRE ET UNE PARTIE DE LA ZONE INDUSTRIELLE DE BAMBOUS",
+      "district": "blackriver",
+      "from": "2022-06-18T04:30:00.000Z",
+      "to": "2022-06-18T12:30:00.000Z",
+      "id": "c4db54794b41dc00bee0f22757a7a395"
+    },
+    {
+      "date": "Le samedi 18 juin 2022 de  12:15:00 à  13:45:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Vingta 2 & 3",
+      "district": "plainewilhems",
+      "from": "2022-06-18T08:15:00.000Z",
+      "to": "2022-06-18T09:45:00.000Z",
+      "id": "3a40958b4eaa304ede6119cb7f9c094c"
+    },
+    {
+      "date": "Le samedi 18 juin 2022 de  08:30:00 à  14:30:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "Morc Rampal and Part Vingt Pieds Road",
+      "district": "rivieredurempart",
+      "from": "2022-06-18T04:30:00.000Z",
+      "to": "2022-06-18T10:30:00.000Z",
+      "id": "e00428081eb6d85070d69fcb055573b8"
+    },
+    {
+      "date": "Le samedi 18 juin 2022 de  08:30:00 à  15:30:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Coromandel, Batatran, Gravier et Anse Femi",
+      "district": "rodrigues",
+      "from": "2022-06-18T04:30:00.000Z",
+      "to": "2022-06-18T11:30:00.000Z",
+      "id": "02701941508a026f9424df17d8227879"
+    }
+  ]
+}

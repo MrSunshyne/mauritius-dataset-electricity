@@ -1,0 +1,53 @@
+{
+  "slug": "haute-rive",
+  "name": "HAUTE RIVE",
+  "district": "rivieredurempart",
+  "generated": "2025-12-30T19:07:15.694Z",
+  "outageCount": 6,
+  "firstOutage": "2022-04-08",
+  "lastOutage": "2024-11-27",
+  "outages": [
+    {
+      "date": "Le mercredi 27 novembre 2024 de  11:15:00 à  12:30:00",
+      "streets": "HAUTE RIVE, POINTES DES LASCARS",
+      "from": "2024-11-27T07:15:00.000Z",
+      "to": "2024-11-27T08:30:00.000Z",
+      "id": "dffff7f46471ca4201616fab56bd0d2b"
+    },
+    {
+      "date": "Le vendredi 19 janvier 2024 de  13:45:00 à  15:15:00",
+      "streets": "Haute Rive",
+      "from": "2024-01-19T09:45:00.000Z",
+      "to": "2024-01-19T11:15:00.000Z",
+      "id": "dcf428f00110c60fcf5c709fa13c08f5"
+    },
+    {
+      "date": "Le vendredi 27 octobre 2023 de  08:30:00 à  17:30:00",
+      "streets": "dans les environs de Haute Rive",
+      "from": "2023-10-27T04:30:00.000Z",
+      "to": "2023-10-27T13:30:00.000Z",
+      "id": "d032ec98b7462139ceb7864f2d6036e3"
+    },
+    {
+      "date": "Le dimanche 24 septembre 2023 de  08:30:00 à  16:00:00",
+      "streets": "le village dHaute Rive",
+      "from": "2023-09-24T04:30:00.000Z",
+      "to": "2023-09-24T12:00:00.000Z",
+      "id": "ed6b926f1a8860cd10f6110a616138f0"
+    },
+    {
+      "date": "Le samedi 23 septembre 2023 de  08:30:00 à  14:30:00",
+      "streets": "le village dHaute Rive",
+      "from": "2023-09-23T04:30:00.000Z",
+      "to": "2023-09-23T10:30:00.000Z",
+      "id": "26c6cb1d76062bea93cd9e7d7a7c318d"
+    },
+    {
+      "date": "Le vendredi 8 avril 2022 de  08:30:00 à  15:30:00",
+      "streets": "dans les environs dAzuri",
+      "from": "2022-04-08T04:30:00.000Z",
+      "to": "2022-04-08T11:30:00.000Z",
+      "id": "0c97ce5c2f775ea09d48cea0f2c7c36d"
+    }
+  ]
+}

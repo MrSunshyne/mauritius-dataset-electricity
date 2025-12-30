@@ -1,0 +1,60 @@
+{
+  "slug": "mesnil",
+  "name": "MESNIL",
+  "district": "plainewilhems",
+  "generated": "2025-12-30T19:07:15.743Z",
+  "outageCount": 7,
+  "firstOutage": "2022-08-10",
+  "lastOutage": "2025-11-16",
+  "outages": [
+    {
+      "date": "Le dimanche 16 novembre 2025 de  11:00:00 à  14:00:00",
+      "streets": "Avenue Pere Laval, CTR Lane, Partie de Mesnil, Sonah Lane",
+      "from": "2025-11-16T07:00:00.000Z",
+      "to": "2025-11-16T10:00:00.000Z",
+      "id": "7c4731722545ba5f988971bf3ee87b99"
+    },
+    {
+      "date": "Le dimanche 16 novembre 2025 de  08:30:00 à  11:00:00",
+      "streets": "Dhunny Lane No. 1 et No.2",
+      "from": "2025-11-16T04:30:00.000Z",
+      "to": "2025-11-16T07:00:00.000Z",
+      "id": "8d417ee09f5e40ebba9c68a07ee34230"
+    },
+    {
+      "date": "Le jeudi 31 juillet 2025 de  08:30:00 à  16:00:00",
+      "streets": "Partie de Parisot Branch Road et les ruelles avoisinantes",
+      "from": "2025-07-31T04:30:00.000Z",
+      "to": "2025-07-31T12:00:00.000Z",
+      "id": "dbf029b2de07ee7cf9962fb32e472b4c"
+    },
+    {
+      "date": "Le vendredi 6 septembre 2024 de  09:00:00 à  10:00:00",
+      "streets": "PARRISOT MESNIL",
+      "from": "2024-09-06T05:00:00.000Z",
+      "to": "2024-09-06T06:00:00.000Z",
+      "id": "b1359c776f53ea321a15d86236305a86"
+    },
+    {
+      "date": "Le jeudi 12 octobre 2023 de  15:30:00 à  17:30:00",
+      "streets": "LES ABONNES DE MESNIL HABITANT DANS LES ENVIRONS DE : RABINDRANATH TAGORE AVENUE, SOLEIL DOR No 1, No 2, No 3 ET LES ENVIRONS.",
+      "from": "2023-10-12T11:30:00.000Z",
+      "to": "2023-10-12T13:30:00.000Z",
+      "id": "c1d6d377db81438ec66289441b73d36e"
+    },
+    {
+      "date": "Le vendredi 4 août 2023 de  09:00:00 à  14:00:00",
+      "streets": "PARISOT MESNIL",
+      "from": "2023-08-04T05:00:00.000Z",
+      "to": "2023-08-04T10:00:00.000Z",
+      "id": "2efeab866df043576d0c4bcc60e99b62"
+    },
+    {
+      "date": "Le mercredi 10 août 2022 de  09:00:00 à  11:00:00",
+      "streets": "PARISOT MESNIL",
+      "from": "2022-08-10T05:00:00.000Z",
+      "to": "2022-08-10T07:00:00.000Z",
+      "id": "b5724849c4a04580d40c7da46a2f23f9"
+    }
+  ]
+}

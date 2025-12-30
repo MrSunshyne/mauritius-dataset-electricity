@@ -1,0 +1,88 @@
+{
+  "date": "2025-09-04",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.525Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le jeudi 4 septembre 2025 de  09:00:00 à  16:30:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "MORC SPENDID VIEW, MORC KNN, SUMMER PROPERTY, BEAU SOLEIL, RESIDENCE LA CROISETTE, SILVER CAMELIA, MORC SERENIS, CURLY WILLOW, MARGUERITE ET LES ENVIRONS",
+      "district": "blackriver",
+      "from": "2025-09-04T05:00:00.000Z",
+      "to": "2025-09-04T12:30:00.000Z",
+      "id": "bea1df67ec941ac057c19ed446ef4f1c"
+    },
+    {
+      "date": "Le jeudi 4 septembre 2025 de  09:00:00 à  12:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "Route St Joseph, Camp La Boue Terre Rouge, Morcellement Peerun, NHDC, Nelson Mandela Road et Morcellement Greenpark",
+      "district": "pamplemousses",
+      "from": "2025-09-04T05:00:00.000Z",
+      "to": "2025-09-04T08:00:00.000Z",
+      "id": "b71ef2ea08b1ab3ca0af5b6db5789d51"
+    },
+    {
+      "date": "Le jeudi 4 septembre 2025 de  12:00:00 à  15:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "dans les environs de Remodo Street",
+      "district": "plainewilhems",
+      "from": "2025-09-04T08:00:00.000Z",
+      "to": "2025-09-04T11:00:00.000Z",
+      "id": "060a7c43112cb45266d48edb5f2273d8"
+    },
+    {
+      "date": "Le jeudi 4 septembre 2025 de  08:30:00 à  16:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Thommy Pitot et en partie Route Royale",
+      "district": "plainewilhems",
+      "from": "2025-09-04T04:30:00.000Z",
+      "to": "2025-09-04T12:00:00.000Z",
+      "id": "9bae132dc3428fcf6bce008eda6add87"
+    },
+    {
+      "date": "Le jeudi 4 septembre 2025 de  14:30:00 à  18:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "DANS LES ENVIRONS DES RUES SAINTE MARIE, EMILE BASSET, MAMODE HOSSEN, CAPITAINE PONTRE, LE CORNU, PIETON PERE LAVAL, BASSIN ROAD ET MORC LA VALLEE",
+      "district": "portlouis",
+      "from": "2025-09-04T10:30:00.000Z",
+      "to": "2025-09-04T14:00:00.000Z",
+      "id": "d922e49f54641e0991599e8f025a73cc"
+    },
+    {
+      "date": "Le jeudi 4 septembre 2025 de  09:30:00 à  10:30:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "COASTAL RD",
+      "district": "rivieredurempart",
+      "from": "2025-09-04T05:30:00.000Z",
+      "to": "2025-09-04T06:30:00.000Z",
+      "id": "4af47fa0b68aed99677bd8a2add2d06b"
+    },
+    {
+      "date": "Le jeudi 4 septembre 2025 de  20:00:00 à  21:30:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "CHEMIN BAZAR ET LES ENVIRONS.",
+      "district": "rivieredurempart",
+      "from": "2025-09-04T16:00:00.000Z",
+      "to": "2025-09-04T17:30:00.000Z",
+      "id": "7c1c7b94ddd1771eed7348849d124c62"
+    },
+    {
+      "date": "Le jeudi 4 septembre 2025 de  12:00:00 à  14:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LA FERME CITRON, LA FERME, PISTACHE,PIMENTS, REPOSOIR,BAIE TOPAZE ET CAMP PINDADE",
+      "district": "rodrigues",
+      "from": "2025-09-04T08:00:00.000Z",
+      "to": "2025-09-04T10:00:00.000Z",
+      "id": "f84ca244f4b90243f1727deb2f555cde"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2023-12-14",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.502Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le jeudi 14 décembre 2023 de  13:00:00 à  17:00:00",
+      "locality": "CLOSEL",
+      "localitySlug": "closel",
+      "streets": "CLOSEL PHOENIX",
+      "district": "plainewilhems",
+      "from": "2023-12-14T09:00:00.000Z",
+      "to": "2023-12-14T13:00:00.000Z",
+      "id": "9287110f7eb13fd212fb33fdc63836b8"
+    },
+    {
+      "date": "Le jeudi 14 décembre 2023 de  08:30:00 à  16:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Premsingh Baboolall, Pacific shop, en partie Route Royale Beau-Bassin, Stevenhill et les environs",
+      "district": "plainewilhems",
+      "from": "2023-12-14T04:30:00.000Z",
+      "to": "2023-12-14T12:00:00.000Z",
+      "id": "ced5d07600eaa5537a8dfa38efdb7dfb"
+    },
+    {
+      "date": "Le jeudi 14 décembre 2023 de  16:00:00 à  17:30:00",
+      "locality": "ROCHE BOIS",
+      "localitySlug": "roche-bois",
+      "streets": "RUE DESBOUCHER ROCHES BOIS DANS LES ENRIVONS ANCIENT QUARANTAINE.",
+      "district": "portlouis",
+      "from": "2023-12-14T12:00:00.000Z",
+      "to": "2023-12-14T13:30:00.000Z",
+      "id": "f074ad7467d3b154cc56c9e843e365d3"
+    },
+    {
+      "date": "Le jeudi 14 décembre 2023 de  09:00:00 à  15:00:00",
+      "locality": "CHAMOUNY",
+      "localitySlug": "chamouny",
+      "streets": "Camp Fanny et Camp Goolbar",
+      "district": "savanne",
+      "from": "2023-12-14T05:00:00.000Z",
+      "to": "2023-12-14T11:00:00.000Z",
+      "id": "b09c212211d047f593c213498467748f"
+    },
+    {
+      "date": "Le jeudi 14 décembre 2023 de  15:00:00 à  17:00:00",
+      "locality": "RIVIERE DES ANGUILLES",
+      "localitySlug": "riviere-des-anguilles",
+      "streets": "WHOLE OF RIVIERE DES ANGUILLES.",
+      "district": "savanne",
+      "from": "2023-12-14T11:00:00.000Z",
+      "to": "2023-12-14T13:00:00.000Z",
+      "id": "f5fef68c49a4d98a735d0bb2e4d10181"
+    }
+  ]
+}

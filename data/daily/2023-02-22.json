@@ -1,0 +1,78 @@
+{
+  "date": "2023-02-22",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.491Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le mercredi 22 février 2023 de  09:30:00 à  13:30:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "MORC LA LUCIE,SSS BELAIR",
+      "district": "flacq",
+      "from": "2023-02-22T05:30:00.000Z",
+      "to": "2023-02-22T09:30:00.000Z",
+      "id": "43d7b462f4808c0c8ff56beb3c6d9860"
+    },
+    {
+      "date": "Le mercredi 22 février 2023 de  09:00:00 à  11:00:00",
+      "locality": "MONTAGNE BLANCHE",
+      "localitySlug": "montagne-blanche",
+      "streets": "Village de Montagne Blanche, Sans Souci et une partie de Melrose",
+      "district": "moka",
+      "from": "2023-02-22T05:00:00.000Z",
+      "to": "2023-02-22T07:00:00.000Z",
+      "id": "9021b64cd51fa975a40d3fc569ed7d2f"
+    },
+    {
+      "date": "Le mercredi 22 février 2023 de  09:45:00 à  12:30:00",
+      "locality": "PLAINE VERTE",
+      "localitySlug": "plaine-verte",
+      "streets": "LA RUE DIEGO GARCIA,LA RUE LAPAIX,RUE CHINA",
+      "district": "portlouis",
+      "from": "2023-02-22T05:45:00.000Z",
+      "to": "2023-02-22T08:30:00.000Z",
+      "id": "0dbbbdd10dd18d11f17a2e23dc071676"
+    },
+    {
+      "date": "Le mercredi 22 février 2023 de  15:30:00 à  17:30:00",
+      "locality": "LE HOCHET",
+      "localitySlug": "le-hochet",
+      "streets": "Les abonnés habitant Morcellement Raffray, Lois Lane, New St Marie, Morcellement Manick, KJW Lane, Basalt Lane, Dr Manilall, Dhanush Lane, Morcellement Goolamally, Veerasamy Iyer et Royal Road à Le Hochet",
+      "district": "portlouis",
+      "from": "2023-02-22T11:30:00.000Z",
+      "to": "2023-02-22T13:30:00.000Z",
+      "id": "3634283bb3be909f35ce5c225d59e3c6"
+    },
+    {
+      "date": "Le mercredi 22 février 2023 de  16:30:00 à  17:30:00",
+      "locality": "PLAINE LAUZUN",
+      "localitySlug": "plaine-lauzun",
+      "streets": "DBM,CANAL DAYOT",
+      "district": "portlouis",
+      "from": "2023-02-22T12:30:00.000Z",
+      "to": "2023-02-22T13:30:00.000Z",
+      "id": "8cbf88dd5872e1293e6abd42b38941d7"
+    },
+    {
+      "date": "Le mercredi 22 février 2023 de  18:15:00 à  20:30:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "REGION IN THE VICINITY OF CHALLENGER AVE,MORC GHURBURRUN",
+      "district": "portlouis",
+      "from": "2023-02-22T14:15:00.000Z",
+      "to": "2023-02-22T16:30:00.000Z",
+      "id": "4cdb789a8d617d73910a2ed82bfdf574"
+    },
+    {
+      "date": "Le mercredi 22 février 2023 de  09:00:00 à  12:30:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "MORC PETIT VILLAGE",
+      "district": "rivieredurempart",
+      "from": "2023-02-22T05:00:00.000Z",
+      "to": "2023-02-22T08:30:00.000Z",
+      "id": "080c5d4cf3e5cbd13089e17081f70874"
+    }
+  ]
+}

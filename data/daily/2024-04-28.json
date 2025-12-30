@@ -1,0 +1,68 @@
+{
+  "date": "2024-04-28",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.507Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le dimanche 28 avril 2024 de  08:30:00 à  12:00:00",
+      "locality": "COTE D-OR",
+      "localitySlug": "cote-d-or",
+      "streets": "Morc Lhonro Cote D’or",
+      "district": "moka",
+      "from": "2024-04-28T04:30:00.000Z",
+      "to": "2024-04-28T08:00:00.000Z",
+      "id": "a2260de26fc4f5fce3cce8571551c974"
+    },
+    {
+      "date": "Le dimanche 28 avril 2024 de  08:30:00 à  11:00:00",
+      "locality": "DUBREUIL",
+      "localitySlug": "dubreuil",
+      "streets": "Village de Dubreuil",
+      "district": "moka",
+      "from": "2024-04-28T04:30:00.000Z",
+      "to": "2024-04-28T07:00:00.000Z",
+      "id": "106d120f646601b760e19be2420fe038"
+    },
+    {
+      "date": "Le dimanche 28 avril 2024 de  08:00:00 à  16:00:00",
+      "locality": "NOTRE DAME",
+      "localitySlug": "notre-dame",
+      "streets": "NOTRE DAME, MONTAGNE LONGUE, CAMP LA BOUE, CREVE COEUR, THOMASIN, BOIS PIGNOLET ET LES ENVIRONS",
+      "district": "pamplemousses",
+      "from": "2024-04-28T04:00:00.000Z",
+      "to": "2024-04-28T12:00:00.000Z",
+      "id": "d4e3ab7c551e87d50adb7ab23133f668"
+    },
+    {
+      "date": "Le dimanche 28 avril 2024 de  08:15:00 à  17:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Cité Palmerstone, Palmerston Road, Hassan Raffa Street, Hazareesingh Lane, Robinson Road No. 1 et No. 2, Sir Abdul Razack Mohamed Centre QSC",
+      "district": "plainewilhems",
+      "from": "2024-04-28T04:15:00.000Z",
+      "to": "2024-04-28T13:00:00.000Z",
+      "id": "6ed0733f58bf6c60eaf614f77eeae3d4"
+    },
+    {
+      "date": "Le dimanche 28 avril 2024 de  08:30:00 à  15:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "MAURICE MARTIN RD, SEENEEVASSEN RD, ICERY ET LES ALENTOURS DE SSS",
+      "district": "plainewilhems",
+      "from": "2024-04-28T04:30:00.000Z",
+      "to": "2024-04-28T11:00:00.000Z",
+      "id": "00a5fa89cde00299b0cb029aa17da3b2"
+    },
+    {
+      "date": "Le dimanche 28 avril 2024 de  19:15:00 à  21:30:00",
+      "locality": "RIVIERE DES ANGUILLES",
+      "localitySlug": "riviere-des-anguilles",
+      "streets": "ST AUBIN-TYACK-BRITANIA-SAVANNAH-BENARES-BATIMARAIS-M TABAC-RIV DU POST-LESCALIER-PT BELAIR-R.ANGUILLES - RIAMBEL -",
+      "district": "savanne",
+      "from": "2024-04-28T15:15:00.000Z",
+      "to": "2024-04-28T17:30:00.000Z",
+      "id": "94f5d1c5c1d8b5df7d713e639aab49da"
+    }
+  ]
+}

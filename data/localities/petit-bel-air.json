@@ -1,0 +1,53 @@
+{
+  "slug": "petit-bel-air",
+  "name": "PETIT BEL AIR",
+  "district": "grandport",
+  "generated": "2025-12-30T19:07:15.774Z",
+  "outageCount": 6,
+  "firstOutage": "2022-08-12",
+  "lastOutage": "2024-10-28",
+  "outages": [
+    {
+      "date": "Le lundi 28 octobre 2024 de  09:00:00 à  15:00:00",
+      "streets": "Village de Petit Bel Air et en partie de Ville Noir",
+      "from": "2024-10-28T05:00:00.000Z",
+      "to": "2024-10-28T11:00:00.000Z",
+      "id": "09b42791502172a9fb5ed1978378254b"
+    },
+    {
+      "date": "Le dimanche 23 juillet 2023 de  08:30:00 à  17:00:00",
+      "streets": "NHDC PETIT BELAIR",
+      "from": "2023-07-23T04:30:00.000Z",
+      "to": "2023-07-23T13:00:00.000Z",
+      "id": "4715be109888edb029cc883d29cbd08c"
+    },
+    {
+      "date": "Le samedi 17 juin 2023 de  13:00:00 à  16:00:00",
+      "streets": "PETIT BEL AIR",
+      "from": "2023-06-17T09:00:00.000Z",
+      "to": "2023-06-17T12:00:00.000Z",
+      "id": "41e643933951fd063c3e0fede6004785"
+    },
+    {
+      "date": "Le jeudi 3 novembre 2022 de  15:30:00 à  19:00:00",
+      "streets": "Petit Bel Air & Ville Noire",
+      "from": "2022-11-03T11:30:00.000Z",
+      "to": "2022-11-03T15:00:00.000Z",
+      "id": "9525b60470edf3397b0a0928b83e329d"
+    },
+    {
+      "date": "Le dimanche 21 août 2022 de  08:30:00 à  16:00:00",
+      "streets": "Petit Bel Air habitant dans le périmètre et les rues suivantes: Cemetry Road, Shaktimata Road et une partie de la Route Royale Petit Bel Air (près du cimetière)",
+      "from": "2022-08-21T04:30:00.000Z",
+      "to": "2022-08-21T12:00:00.000Z",
+      "id": "e09184606531a327d795722daa5794c4"
+    },
+    {
+      "date": "Le vendredi 12 août 2022 de  08:30:00 à  16:00:00",
+      "streets": "Petit Bel Air habitant dans le périmètre et les rues suivantes: Ruisseau Délices Street, Pandit Sahadeo Street, Kowlessur Street, Bissoondoyal Street, Cemetry Street et une partie de la Route Royale Petit Bel Air",
+      "from": "2022-08-12T04:30:00.000Z",
+      "to": "2022-08-12T12:00:00.000Z",
+      "id": "983da2963caf874c984b8350b0273062"
+    }
+  ]
+}

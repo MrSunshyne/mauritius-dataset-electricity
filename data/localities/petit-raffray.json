@@ -1,0 +1,501 @@
+{
+  "slug": "petit-raffray",
+  "name": "PETIT RAFFRAY",
+  "district": "rivieredurempart",
+  "generated": "2025-12-30T19:07:15.778Z",
+  "outageCount": 70,
+  "firstOutage": "2022-03-25",
+  "lastOutage": "2025-12-15",
+  "outages": [
+    {
+      "date": "Le lundi 15 décembre 2025 de  18:15:00 à  22:00:00",
+      "streets": "CAMP DOMAIN RD PETITE RAFFRAY",
+      "from": "2025-12-15T14:15:00.000Z",
+      "to": "2025-12-15T18:00:00.000Z",
+      "id": "e6ce10fe773d7091ec37c5350d3ee2fb"
+    },
+    {
+      "date": "Le dimanche 14 décembre 2025 de  16:30:00 à  20:00:00",
+      "streets": "MAHATMA GANDHI ROAD AND SURROUNDINGS",
+      "from": "2025-12-14T12:30:00.000Z",
+      "to": "2025-12-14T16:00:00.000Z",
+      "id": "4f3154d787ae9844a8e319bfd303395d"
+    },
+    {
+      "date": "Le samedi 13 décembre 2025 de  08:30:00 à  15:00:00",
+      "streets": "UNION DARUTY-LES CHARMOSE PETIT RAFFRAY",
+      "from": "2025-12-13T04:30:00.000Z",
+      "to": "2025-12-13T11:00:00.000Z",
+      "id": "8e3b6029cb1d14cb4adcf0776bcde7d9"
+    },
+    {
+      "date": "Le mardi 9 décembre 2025 de  13:15:00 à  14:30:00",
+      "streets": "PETIT RAFFRAY/DARUTY",
+      "from": "2025-12-09T09:15:00.000Z",
+      "to": "2025-12-09T10:30:00.000Z",
+      "id": "e8e6e9a30a3dcd77beb9a0438c10897b"
+    },
+    {
+      "date": "Le mardi 9 décembre 2025 de  09:00:00 à  15:00:00",
+      "streets": "SSR ROAD AND PART OF ROYAL ROAD PETIT RAFFRAY- WORK TO BE CARRIED BY STO KHARUG",
+      "from": "2025-12-09T05:00:00.000Z",
+      "to": "2025-12-09T11:00:00.000Z",
+      "id": "64bb6ec89ae456fe08f5ef54fdc2bbe1"
+    },
+    {
+      "date": "Le dimanche 7 décembre 2025 de  08:30:00 à  10:00:00",
+      "streets": "PAVE ROAD ET LES ALENTOURS",
+      "from": "2025-12-07T04:30:00.000Z",
+      "to": "2025-12-07T06:00:00.000Z",
+      "id": "7cb1b26619214c067d81c1d2abd38c23"
+    },
+    {
+      "date": "Le mardi 25 novembre 2025 de  14:00:00 à  15:30:00",
+      "streets": "FORM RESTAURANT TI TONTON TO VALE",
+      "from": "2025-11-25T10:00:00.000Z",
+      "to": "2025-11-25T11:30:00.000Z",
+      "id": "3386e3803a35a1b492486382fd1313f2"
+    },
+    {
+      "date": "Le dimanche 9 novembre 2025 de  08:30:00 à  15:00:00",
+      "streets": "REGION PETIT RAFFRAY ET DARUTY",
+      "from": "2025-11-09T04:30:00.000Z",
+      "to": "2025-11-09T11:00:00.000Z",
+      "id": "d91e983d1b1c06962a563f1bdd92c9b9"
+    },
+    {
+      "date": "Le jeudi 6 novembre 2025 de  15:00:00 à  17:00:00",
+      "streets": "MONT MASCAL AND SURROUNDINGS",
+      "from": "2025-11-06T11:00:00.000Z",
+      "to": "2025-11-06T13:00:00.000Z",
+      "id": "46a2edfd7b287533d6ed3e16f6648c56"
+    },
+    {
+      "date": "Le mardi 21 octobre 2025 de  15:00:00 à  18:30:00",
+      "streets": "MON MASCAL PETIT RAFFRAY",
+      "from": "2025-10-21T11:00:00.000Z",
+      "to": "2025-10-21T14:30:00.000Z",
+      "id": "14588c316b09db61491f7b0b5b11ac14"
+    },
+    {
+      "date": "Le dimanche 12 octobre 2025 de  08:30:00 à  15:30:00",
+      "streets": "ENIERE REGION DE PETIT RAFFRAY ET DARUTY",
+      "from": "2025-10-12T04:30:00.000Z",
+      "to": "2025-10-12T11:30:00.000Z",
+      "id": "9531491898800f3994c7b0907a301008"
+    },
+    {
+      "date": "Le lundi 1 septembre 2025 de  13:00:00 à  14:30:00",
+      "streets": "GOWREESUNKUR RD-ROYAL RD PETIT RAFFRAY",
+      "from": "2025-09-01T09:00:00.000Z",
+      "to": "2025-09-01T10:30:00.000Z",
+      "id": "41e63b76262b25d6c4b3620dba6ceafe"
+    },
+    {
+      "date": "Le mardi 26 août 2025 de  09:00:00 à  15:00:00",
+      "streets": "ST FRANCOIS, MORCELLEMENT GOWREESUNKUR, MORCELLEMENT ANATH, EXOTICA PEPEINIERE AND IN THE VICINITY",
+      "from": "2025-08-26T05:00:00.000Z",
+      "to": "2025-08-26T11:00:00.000Z",
+      "id": "9cf250366ec650f0b1e4c6a69ad8b2df"
+    },
+    {
+      "date": "Le jeudi 14 août 2025 de  14:10:00 à  16:10:00",
+      "streets": "MORC GAWREESANKAR ET EN PARTIE DARUTY",
+      "from": "2025-08-14T10:10:00.000Z",
+      "to": "2025-08-14T12:10:00.000Z",
+      "id": "0e4361dfbc12174448b2d2e4049921e1"
+    },
+    {
+      "date": "Le dimanche 10 août 2025 de  20:45:00 à  00:00:00",
+      "streets": "MAHATMA GANDHI RD, INDIRA GANDHI RD, EN PARTIE ROYAL ROAD ET LES ALENTOURS",
+      "from": "2025-08-10T16:45:00.000Z",
+      "to": "2025-08-09T20:00:00.000Z",
+      "id": "2d3c5bb8253a538c70c2f24a66acaaf9"
+    },
+    {
+      "date": "Le vendredi 18 juillet 2025 de  09:00:00 à  14:30:00",
+      "streets": "MON MASCAL ROAD, DR MANILALL ROAD",
+      "from": "2025-07-18T05:00:00.000Z",
+      "to": "2025-07-18T10:30:00.000Z",
+      "id": "5b8e5fd3443ff3962491e4989d1fde63"
+    },
+    {
+      "date": "Le samedi 12 juillet 2025 de  08:10:00 à  10:00:00",
+      "streets": "Mont Mascal",
+      "from": "2025-07-12T04:10:00.000Z",
+      "to": "2025-07-12T06:00:00.000Z",
+      "id": "62c433b4675d7912ff0ec3752b9d4393"
+    },
+    {
+      "date": "Le jeudi 3 juillet 2025 de  14:00:00 à  17:00:00",
+      "streets": "WHOLE AREA OF PETIT RAFFRAY",
+      "from": "2025-07-03T10:00:00.000Z",
+      "to": "2025-07-03T13:00:00.000Z",
+      "id": "c7c533a9de737f3d9316054242580ee6"
+    },
+    {
+      "date": "Le mardi 24 juin 2025 de  14:30:00 à  16:30:00",
+      "streets": "ENTIERE REGION PETIT RAFFRAY ET ST FRANCOIS",
+      "from": "2025-06-24T10:30:00.000Z",
+      "to": "2025-06-24T12:30:00.000Z",
+      "id": "4c2e6c7c3bb420c3f9c20944f6f3c40a"
+    },
+    {
+      "date": "Le jeudi 17 avril 2025 de  08:30:00 à  15:30:00",
+      "streets": "MON MASCAL PETIT RAFFRAY",
+      "from": "2025-04-17T04:30:00.000Z",
+      "to": "2025-04-17T11:30:00.000Z",
+      "id": "b8c17792d6fb6e1ac39c63c4d24b56c8"
+    },
+    {
+      "date": "Le lundi 14 avril 2025 de  15:30:00 à  21:00:00",
+      "streets": "QUEEN ELIZABETH ROAD -NARAD RD- ROYAL RD PETIT RAFFRAY",
+      "from": "2025-04-14T11:30:00.000Z",
+      "to": "2025-04-14T17:00:00.000Z",
+      "id": "44fe3d39498c58d347b302b3a813c08c"
+    },
+    {
+      "date": "Le vendredi 4 avril 2025 de  10:20:00 à  13:00:00",
+      "streets": "M.GANDHI RD",
+      "from": "2025-04-04T06:20:00.000Z",
+      "to": "2025-04-04T09:00:00.000Z",
+      "id": "f53e1c3559c2eadf9979292537688b62"
+    },
+    {
+      "date": "Le mardi 18 mars 2025 de  09:30:00 à  11:30:00",
+      "streets": "MON MASCAL AND SURROUNDINDS",
+      "from": "2025-03-18T05:30:00.000Z",
+      "to": "2025-03-18T07:30:00.000Z",
+      "id": "ddf44064381528d9e4828d9fa3a1344c"
+    },
+    {
+      "date": "Le samedi 8 mars 2025 de  14:00:00 à  17:00:00",
+      "streets": "BEEAHARRY RD,DISPENSARY RD,MAHARANA PRATAB",
+      "from": "2025-03-08T10:00:00.000Z",
+      "to": "2025-03-08T13:00:00.000Z",
+      "id": "70756e10073edfe1fb76ea56a140b4b6"
+    },
+    {
+      "date": "Le dimanche 9 février 2025 de  08:30:00 à  15:30:00",
+      "streets": "Rouillard, Petit Raffray et Reunion Maurel",
+      "from": "2025-02-09T04:30:00.000Z",
+      "to": "2025-02-09T11:30:00.000Z",
+      "id": "0f4cf4fbb158c7c81772cd671aaff4aa"
+    },
+    {
+      "date": "Le jeudi 30 janvier 2025 de  15:30:00 à  17:30:00",
+      "streets": "MON MASCAL AND PETIT RAFFRAY AREA",
+      "from": "2025-01-30T11:30:00.000Z",
+      "to": "2025-01-30T13:30:00.000Z",
+      "id": "504e4cf368afa53f7f59ed67e8684693"
+    },
+    {
+      "date": "Le jeudi 30 janvier 2025 de  14:30:00 à  15:30:00",
+      "streets": "BEEHARRY ROAD, ASTON VILLA RD, ET EN PARTIE ROYAL ROAD",
+      "from": "2025-01-30T10:30:00.000Z",
+      "to": "2025-01-30T11:30:00.000Z",
+      "id": "18b1595a493c41ab7bb486db8ca8f9f8"
+    },
+    {
+      "date": "Le mardi 28 janvier 2025 de  08:30:00 à  14:00:00",
+      "streets": "PETIT RAFFRAY-MOULIN A VENT",
+      "from": "2025-01-28T04:30:00.000Z",
+      "to": "2025-01-28T10:00:00.000Z",
+      "id": "d4cb4fceef15776996279f1dd2c94a57"
+    },
+    {
+      "date": "Le mercredi 22 janvier 2025 de  16:00:00 à  17:00:00",
+      "streets": "PART OF PETIT RAFFRAY",
+      "from": "2025-01-22T12:00:00.000Z",
+      "to": "2025-01-22T13:00:00.000Z",
+      "id": "268d23d01a78dc0874851d0b5f6cc289"
+    },
+    {
+      "date": "Le dimanche 8 décembre 2024 de  21:00:00 à  00:30:00",
+      "streets": "ROYAL ROAD PETIT RAFFRAY",
+      "from": "2024-12-08T17:00:00.000Z",
+      "to": "2024-12-07T20:30:00.000Z",
+      "id": "fd0ae46d01a519eb8686b70e3a005679"
+    },
+    {
+      "date": "Le vendredi 25 octobre 2024 de  04:00:00 à  13:00:00",
+      "streets": "PETIT RAFFRAY AREA",
+      "from": "2024-10-25T00:00:00.000Z",
+      "to": "2024-10-25T09:00:00.000Z",
+      "id": "40b642c8ea7521d84573e4f34e8bc383"
+    },
+    {
+      "date": "Le mardi 1 octobre 2024 de  09:30:00 à  14:00:00",
+      "streets": "PETIT RAFFRAY",
+      "from": "2024-10-01T05:30:00.000Z",
+      "to": "2024-10-01T10:00:00.000Z",
+      "id": "1280de45bda5a1427a3451e37ebda9b8"
+    },
+    {
+      "date": "Le mardi 25 juin 2024 de  14:20:00 à  16:00:00",
+      "streets": "PETIT RAFFRAY",
+      "from": "2024-06-25T10:20:00.000Z",
+      "to": "2024-06-25T12:00:00.000Z",
+      "id": "080333ad0c7929a757604f5041fc9ed1"
+    },
+    {
+      "date": "Le samedi 1 juin 2024 de  11:00:00 à  14:00:00",
+      "streets": "Maharana Pratap & Royal Roads",
+      "from": "2024-06-01T07:00:00.000Z",
+      "to": "2024-06-01T10:00:00.000Z",
+      "id": "3cca19759073db1a3f8ca14dac001306"
+    },
+    {
+      "date": "Le dimanche 12 mai 2024 de  08:30:00 à  15:30:00",
+      "streets": "dans les environs dAlcedo",
+      "from": "2024-05-12T04:30:00.000Z",
+      "to": "2024-05-12T11:30:00.000Z",
+      "id": "ebecccd84672a7b574b95c71bf1adf6a"
+    },
+    {
+      "date": "Le mardi 26 mars 2024 de  09:30:00 à  11:00:00",
+      "streets": "MAHATMA GANDHI LANE",
+      "from": "2024-03-26T05:30:00.000Z",
+      "to": "2024-03-26T07:00:00.000Z",
+      "id": "2fe12ccf024bed8cf2b36802e98ea639"
+    },
+    {
+      "date": "Le mercredi 13 mars 2024 de  10:50:00 à  12:50:00",
+      "streets": "QUEEN ELIZABETH ST ET EN PARTIE ROYAL ROAD",
+      "from": "2024-03-13T06:50:00.000Z",
+      "to": "2024-03-13T08:50:00.000Z",
+      "id": "43fe594265b7984d5f4cbf53b1c3de74"
+    },
+    {
+      "date": "Le samedi 2 mars 2024 de  08:30:00 à  14:30:00",
+      "streets": "dans les environs de Cap Mayeux",
+      "from": "2024-03-02T04:30:00.000Z",
+      "to": "2024-03-02T10:30:00.000Z",
+      "id": "4144047e0e645e209980440505b4eb5b"
+    },
+    {
+      "date": "Le mardi 6 février 2024 de  17:00:00 à  21:00:00",
+      "streets": "PETIT RAFFRAY DANS LES ENVIRONS VILLAGE HALL ET TERRAIN FOOTBALL.",
+      "from": "2024-02-06T13:00:00.000Z",
+      "to": "2024-02-06T17:00:00.000Z",
+      "id": "4b618ddf7318fe7a74172376d39850c8"
+    },
+    {
+      "date": "Le jeudi 25 janvier 2024 de  10:20:00 à  12:30:00",
+      "streets": "NEHRU RD ETLES ALENTOURS DE RESTAURANT CALYPTUS",
+      "from": "2024-01-25T06:20:00.000Z",
+      "to": "2024-01-25T08:30:00.000Z",
+      "id": "c5113b2df5b9e531c24fae1bef9d61fc"
+    },
+    {
+      "date": "Le mercredi 13 décembre 2023 de  11:00:00 à  19:00:00",
+      "streets": "PETIT RAFFRAY",
+      "from": "2023-12-13T07:00:00.000Z",
+      "to": "2023-12-13T15:00:00.000Z",
+      "id": "43f9f6f5eb87fc24e82e865da8164dc2"
+    },
+    {
+      "date": "Le mercredi 8 novembre 2023 de  15:00:00 à  17:00:00",
+      "streets": "VERS DARUTY",
+      "from": "2023-11-08T11:00:00.000Z",
+      "to": "2023-11-08T13:00:00.000Z",
+      "id": "1bfa45522e077deb5ae28100b6deb7af"
+    },
+    {
+      "date": "Le mardi 10 octobre 2023 de  08:30:00 à  09:45:00",
+      "streets": "ROYAL ROAD PRTIT RAFFRAY & LES ENVIRONS DE VILLAGE HALL",
+      "from": "2023-10-10T04:30:00.000Z",
+      "to": "2023-10-10T05:45:00.000Z",
+      "id": "27a135a82d096dfbbc75fe63d459644b"
+    },
+    {
+      "date": "Le dimanche 8 octobre 2023 de  08:30:00 à  15:30:00",
+      "streets": "DANS LES ENVIRONS DE ST FRANCOIS ROAD ET MORC GOWREESUNKUR",
+      "from": "2023-10-08T04:30:00.000Z",
+      "to": "2023-10-08T11:30:00.000Z",
+      "id": "1898876777074582f27148cb7f5c8643"
+    },
+    {
+      "date": "Le mercredi 13 septembre 2023 de  15:00:00 à  17:00:00",
+      "streets": "PAVE ROAD VERS FOOTBALL GROUND",
+      "from": "2023-09-13T11:00:00.000Z",
+      "to": "2023-09-13T13:00:00.000Z",
+      "id": "32eedee12efce6577c7328b5255c02ba"
+    },
+    {
+      "date": "Le lundi 11 septembre 2023 de  13:55:00 à  14:55:00",
+      "streets": "SCHOOL LANE AND NARAZ ROAD.",
+      "from": "2023-09-11T09:55:00.000Z",
+      "to": "2023-09-11T10:55:00.000Z",
+      "id": "d188cc106150bfb6c004ae12a50c9fdf"
+    },
+    {
+      "date": "Le samedi 9 septembre 2023 de  08:00:00 à  10:00:00",
+      "streets": "SCHOOL RD PETIT RAFFRAY",
+      "from": "2023-09-09T04:00:00.000Z",
+      "to": "2023-09-09T06:00:00.000Z",
+      "id": "245474411905e0672d29fd6d250c07f4"
+    },
+    {
+      "date": "Le mardi 4 juillet 2023 de  08:30:00 à  15:30:00",
+      "streets": "dans les environs de Daruty",
+      "from": "2023-07-04T04:30:00.000Z",
+      "to": "2023-07-04T11:30:00.000Z",
+      "id": "cc08e93dab8663194ed7d666867a7e46"
+    },
+    {
+      "date": "Le mardi 27 juin 2023 de  08:30:00 à  13:00:00",
+      "streets": "LES ABONNES DE MON MASCAL PETIT RAFFRAY HABITANT DANS LES ENVIRONS DES RUES HAWAIA VILLA ET THEVENEAU",
+      "from": "2023-06-27T04:30:00.000Z",
+      "to": "2023-06-27T09:00:00.000Z",
+      "id": "a800f86a6977e6369215323771ec7f08"
+    },
+    {
+      "date": "Le mardi 20 juin 2023 de  08:30:00 à  15:30:00",
+      "streets": "dans les environs de Mon Mascal",
+      "from": "2023-06-20T04:30:00.000Z",
+      "to": "2023-06-20T11:30:00.000Z",
+      "id": "8b62cd7628980c8e7e5ac39f282a10b8"
+    },
+    {
+      "date": "Le jeudi 25 mai 2023 de  08:30:00 à  14:00:00",
+      "streets": "Dans les environs de Daruty, SSR Road et Island Milk",
+      "from": "2023-05-25T04:30:00.000Z",
+      "to": "2023-05-25T10:00:00.000Z",
+      "id": "ed4d964cf12333c9948998c76607c097"
+    },
+    {
+      "date": "Le jeudi 27 avril 2023 de  11:00:00 à  12:30:00",
+      "streets": "le Village de Petit Raffray",
+      "from": "2023-04-27T07:00:00.000Z",
+      "to": "2023-04-27T08:30:00.000Z",
+      "id": "6cd1026162d0dc3a83f29c8fe3ab1452"
+    },
+    {
+      "date": "Le samedi 15 avril 2023 de  09:00:00 à  14:00:00",
+      "streets": "dans les environs de Mahatma Gandhi road",
+      "from": "2023-04-15T05:00:00.000Z",
+      "to": "2023-04-15T10:00:00.000Z",
+      "id": "e6292e3d18579d0a7b05a9e60dc3b640"
+    },
+    {
+      "date": "Le jeudi 6 avril 2023 de  14:00:00 à  17:30:00",
+      "streets": "MARE SECHE, MONT MASCAL, PARTIE DE CHEMIN 20 PIEDS PEREYBERE DANS LES ENVIRON DE CASSASOLA 2",
+      "from": "2023-04-06T10:00:00.000Z",
+      "to": "2023-04-06T13:30:00.000Z",
+      "id": "b5838f2753d5a374590350c79b16b7b6"
+    },
+    {
+      "date": "Le dimanche 2 avril 2023 de  08:30:00 à  16:00:00",
+      "streets": "BUTTE AUX PAPAYES-ROILLARD-CIRCLE SQUARE-LES CHARMOSES-REUNION MAUREL-TROIS BRAS-ROCHE TERRE-GRAND GAUBE",
+      "from": "2023-04-02T04:30:00.000Z",
+      "to": "2023-04-02T12:00:00.000Z",
+      "id": "8f4a9770373ab219e33344ac0b9d06d5"
+    },
+    {
+      "date": "Le mercredi 29 mars 2023 de  09:00:00 à  15:30:00",
+      "streets": "dans les environs de La Foret Daruty",
+      "from": "2023-03-29T05:00:00.000Z",
+      "to": "2023-03-29T11:30:00.000Z",
+      "id": "b452bbfb1ea31734ba43f9d2f552abcf"
+    },
+    {
+      "date": "Le mardi 21 février 2023 de  16:05:00 à  17:00:00",
+      "streets": "PETIT RAFFRAY,PAVILLON,CAP MALHEUREUX,ST FRANCOIS,CALODYNE",
+      "from": "2023-02-21T12:05:00.000Z",
+      "to": "2023-02-21T13:00:00.000Z",
+      "id": "488bd143c36a50893bd167c6a2c20379"
+    },
+    {
+      "date": "Le mardi 21 février 2023 de  09:00:00 à  15:00:00",
+      "streets": "PETIT RAFFRAY,PAVILLON,GRAND GAUBE,CALODYNE",
+      "from": "2023-02-21T05:00:00.000Z",
+      "to": "2023-02-21T11:00:00.000Z",
+      "id": "7d058211bee579ae8ddfe6216c42c5a0"
+    },
+    {
+      "date": "Le samedi 28 janvier 2023 de  09:15:00 à  15:30:00",
+      "streets": "UP TO GRAND GAUBE",
+      "from": "2023-01-28T05:15:00.000Z",
+      "to": "2023-01-28T11:30:00.000Z",
+      "id": "18a3ed7b4800af03e46dbf6023581fa2"
+    },
+    {
+      "date": "Le dimanche 18 décembre 2022 de  09:00:00 à  14:00:00",
+      "streets": "MON MASCAL,ST FRANCOIS,PETIT RAFFRAY",
+      "from": "2022-12-18T05:00:00.000Z",
+      "to": "2022-12-18T10:00:00.000Z",
+      "id": "f3684a21b8b985433ac88b1f952ecbf6"
+    },
+    {
+      "date": "Le lundi 28 novembre 2022 de  16:00:00 à  17:30:00",
+      "streets": "LES CHARMOSES PETIT RAFFRAY ET ROUILLARD",
+      "from": "2022-11-28T12:00:00.000Z",
+      "to": "2022-11-28T13:30:00.000Z",
+      "id": "77b631ef7b67e2bd96a3c47da182ae54"
+    },
+    {
+      "date": "Le mardi 1 novembre 2022 de  08:30:00 à  15:30:00",
+      "streets": "LES ABONNES DE PETIT RAFFRAY HABITANT DANS LES ENVIRONS DE MONT MASCAL, DARUTY, EXOTICA ET RESTAURANT AMIGOS",
+      "from": "2022-11-01T04:30:00.000Z",
+      "to": "2022-11-01T11:30:00.000Z",
+      "id": "445864e805cea37441ac83d4115631ab"
+    },
+    {
+      "date": "Le samedi 29 octobre 2022 de  08:30:00 à  15:30:00",
+      "streets": "PETIT RAFFRAY, MONT MASCAL, DARUTY, EXOTICA ET RESTAURANT AMIGOS",
+      "from": "2022-10-29T04:30:00.000Z",
+      "to": "2022-10-29T11:30:00.000Z",
+      "id": "7b12f4b47ec9d5bc67996795c6d4aded"
+    },
+    {
+      "date": "Le dimanche 9 octobre 2022 de  08:30:00 à  15:30:00",
+      "streets": "dans les environs de Reunion Maurel,",
+      "from": "2022-10-09T04:30:00.000Z",
+      "to": "2022-10-09T11:30:00.000Z",
+      "id": "6a8337f8dffbf25e6d19cfcab1bc4195"
+    },
+    {
+      "date": "Le jeudi 6 octobre 2022 de  08:30:00 à  15:30:00",
+      "streets": "Camp Domaingue, Pavé rd . Restaurant Amigo et Route Royale",
+      "from": "2022-10-06T04:30:00.000Z",
+      "to": "2022-10-06T11:30:00.000Z",
+      "id": "48077b05dc8841282960f0d9b03e756d"
+    },
+    {
+      "date": "Le samedi 27 août 2022 de  07:00:00 à  12:00:00",
+      "streets": "CHARMOSE,DARUTY.",
+      "from": "2022-08-27T03:00:00.000Z",
+      "to": "2022-08-27T08:00:00.000Z",
+      "id": "0b7d660564483045ac5896c499ff4555"
+    },
+    {
+      "date": "Le mardi 16 août 2022 de  21:00:00 à  01:30:00",
+      "streets": "MANILLALL ROAD,SWARAJ ROAD PETIT RAFFRAY ET DANS LES ENVIRONS.",
+      "from": "2022-08-16T17:00:00.000Z",
+      "to": "2022-08-15T21:30:00.000Z",
+      "id": "d910651a593f1a01b02c7cd168ba3600"
+    },
+    {
+      "date": "Le mardi 16 août 2022 de  09:00:00 à  12:00:00",
+      "streets": "MAHATMA GANDHI RD PETIT RAFFRAY",
+      "from": "2022-08-16T05:00:00.000Z",
+      "to": "2022-08-16T08:00:00.000Z",
+      "id": "b57f3e7a295e0e1aa88e8c66d1f4d967"
+    },
+    {
+      "date": "Le mardi 31 mai 2022 de  09:00:00 à  12:00:00",
+      "streets": "Petit Raffray",
+      "from": "2022-05-31T05:00:00.000Z",
+      "to": "2022-05-31T08:00:00.000Z",
+      "id": "739395df12ebba5632364821b49e8db1"
+    },
+    {
+      "date": "Le vendredi 25 mars 2022 de  07:00:00 à  11:30:00",
+      "streets": "REUNION MAUREL/PETIT RAFFRAY/MONMASCAL",
+      "from": "2022-03-25T03:00:00.000Z",
+      "to": "2022-03-25T07:30:00.000Z",
+      "id": "6261f4f159d58cd5f38ffe7818e18650"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "lesur",
+  "name": "LESUR",
+  "district": "plainewilhems",
+  "generated": "2025-12-30T19:07:15.725Z",
+  "outageCount": 5,
+  "firstOutage": "2022-04-12",
+  "lastOutage": "2024-12-05",
+  "outages": [
+    {
+      "date": "Le jeudi 5 décembre 2024 de  09:30:00 à  14:00:00",
+      "streets": "LESUR",
+      "from": "2024-12-05T05:30:00.000Z",
+      "to": "2024-12-05T10:00:00.000Z",
+      "id": "ed771399702dab02887d7f57acbdf041"
+    },
+    {
+      "date": "Le jeudi 2 mai 2024 de  10:00:00 à  11:30:00",
+      "streets": "LESUR EN DIRECTION DE MT BLANCHE",
+      "from": "2024-05-02T06:00:00.000Z",
+      "to": "2024-05-02T07:30:00.000Z",
+      "id": "187e7df490446ecb4adb0f801e821400"
+    },
+    {
+      "date": "Le jeudi 10 août 2023 de  09:00:00 à  15:00:00",
+      "streets": "Les abonnés du village de Lesur, Sébastopol habitant les rues suivantes : Route royale Lesur, Beekoo, Kalimaye, Baitka, Cemetry, Cité Edc et les ruelles avoisinantes",
+      "from": "2023-08-10T05:00:00.000Z",
+      "to": "2023-08-10T11:00:00.000Z",
+      "id": "6c65ab9b5a7e61b999e5b76fa8c0cf1c"
+    },
+    {
+      "date": "Le vendredi 4 août 2023 de  09:00:00 à  15:00:00",
+      "streets": "Les abonnés du village de Lesur, Sébastopol habitant les rues suivantes : Route Royale Lesur, Beekoo, Kalimaye, Baitka, Cemetry, Cité Edc et les ruelles avoisinantes",
+      "from": "2023-08-04T05:00:00.000Z",
+      "to": "2023-08-04T11:00:00.000Z",
+      "id": "63c2e31cdb18c40d28d2c665f8b122dc"
+    },
+    {
+      "date": "Le mardi 12 avril 2022 de  12:00:00 à  15:00:00",
+      "streets": "Les abonnés du villages de Lessur, Sébastopol et Cent Gaulettes habitant les rues et les régions suivantes : Route Royal Lessur, Beekoo, Kalimaye, Baitha Cemetery, Cité EDC, Boobun, Parot, Kestrel, Seetaram, Kewal, Parsad, Camp Sonar, Bosquet, Mosquée, Subron, Tourist, Cent Gaulettes, Boodhun, New Heaven, Soodin, Clavette Madhoo  et les ruelles avoisinantes",
+      "from": "2022-04-12T08:00:00.000Z",
+      "to": "2022-04-12T11:00:00.000Z",
+      "id": "bae52f731702b7f37db429fce335ff5f"
+    }
+  ]
+}

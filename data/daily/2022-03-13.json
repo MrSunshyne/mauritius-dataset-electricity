@@ -1,0 +1,58 @@
+{
+  "date": "2022-03-13",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.479Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le dimanche 13 mars 2022 de  09:30:00 à  13:00:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "AVE DES MARLINS, AVE DES CAMPECHES, AVE DES BONITES ET UNE PARTIE DE BLACK ROCK ROAD",
+      "district": "blackriver",
+      "from": "2022-03-13T05:30:00.000Z",
+      "to": "2022-03-13T09:00:00.000Z",
+      "id": "e562a818d6d27163396e3c0069fd51c9"
+    },
+    {
+      "date": "Le dimanche 13 mars 2022 de  08:00:00 à  17:00:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "Morc Plaine Des Gersigny, Camp Maness, L’hôpital de Flacq, Courts Mammouth, Aegle Clinique et Station de Police",
+      "district": "flacq",
+      "from": "2022-03-13T04:00:00.000Z",
+      "to": "2022-03-13T13:00:00.000Z",
+      "id": "25577b77a6624f09696f2cc16c45ff02"
+    },
+    {
+      "date": "Le dimanche 13 mars 2022 de  08:30:00 à  16:00:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "La Laura Village, Malinga, Morc VRS 1,2,3, Roselyn Cottage, Fail LAvenir, CWA Beau-Bois, Ripailles, Azaree, MTS Ripailles, Rajabally Nouvelle Decouverte, Fodder, MOA et Government School",
+      "district": "moka",
+      "from": "2022-03-13T04:30:00.000Z",
+      "to": "2022-03-13T12:00:00.000Z",
+      "id": "a91a80b72dcbb6e5a7eb8e072823955f"
+    },
+    {
+      "date": "Le dimanche 13 mars 2022 de  08:30:00 à  15:00:00",
+      "locality": "PETITE POINTE AUX PIMENTS",
+      "localitySlug": "petite-pointe-aux-piments",
+      "streets": "Morcellement VRS et NHDC low cost",
+      "district": "pamplemousses",
+      "from": "2022-03-13T04:30:00.000Z",
+      "to": "2022-03-13T11:00:00.000Z",
+      "id": "c99a61171e618d52bdee834011f80445"
+    },
+    {
+      "date": "Le dimanche 13 mars 2022 de  08:30:00 à  15:30:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "LES ABONNES DE GUIBIES HABITANT DANS LES ENVIRONS DE CLAUDE DELAITRE, MORC LE ROC, ANSE COURTOIS, MORC ST MAURICE ET MORC RAFFRAY",
+      "district": "portlouis",
+      "from": "2022-03-13T04:30:00.000Z",
+      "to": "2022-03-13T11:30:00.000Z",
+      "id": "de30d387dbd230b3f36b4b0b988d2103"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "2024-04-27",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.507Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le samedi 27 avril 2024 de  08:30:00 à  17:00:00",
+      "locality": "BELLE MARE",
+      "localitySlug": "belle-mare",
+      "streets": "Une partie des Hotels de Belle Mare et Palmar",
+      "district": "flacq",
+      "from": "2024-04-27T04:30:00.000Z",
+      "to": "2024-04-27T13:00:00.000Z",
+      "id": "fcc7b7470dd96204e435783f1da7824e"
+    },
+    {
+      "date": "Le samedi 27 avril 2024 de  08:30:00 à  17:00:00",
+      "locality": "PALMAR",
+      "localitySlug": "palmar",
+      "streets": "Les abonnes du village de la route cotiere Palmar",
+      "district": "flacq",
+      "from": "2024-04-27T04:30:00.000Z",
+      "to": "2024-04-27T13:00:00.000Z",
+      "id": "6622a48baaa7a334752c67368037cf8b"
+    },
+    {
+      "date": "Le samedi 27 avril 2024 de  09:30:00 à  14:30:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "HERMITAGE COROMANDEL",
+      "district": "plainewilhems",
+      "from": "2024-04-27T05:30:00.000Z",
+      "to": "2024-04-27T10:30:00.000Z",
+      "id": "9b9544d98689212fe3e3431115de0051"
+    },
+    {
+      "date": "Le samedi 27 avril 2024 de  08:30:00 à  15:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "DANS LES ENVIRONS DES RUES CHAUSSEE, DR FERRIERE, AFRASIA, KFC, IBL, CERNE HOUSE ET DBM",
+      "district": "portlouis",
+      "from": "2024-04-27T04:30:00.000Z",
+      "to": "2024-04-27T11:00:00.000Z",
+      "id": "fb489738e6109c3016ca82f13e26f6f3"
+    },
+    {
+      "date": "Le samedi 27 avril 2024 de  09:00:00 à  11:30:00",
+      "locality": "TYACK",
+      "localitySlug": "tyack",
+      "streets": "TYACK",
+      "district": "savanne",
+      "from": "2024-04-27T05:00:00.000Z",
+      "to": "2024-04-27T07:30:00.000Z",
+      "id": "833ca6e568d6f1f85bcc32eb370d1f7c"
+    },
+    {
+      "date": "Le samedi 27 avril 2024 de  08:30:00 à  15:00:00",
+      "locality": "POINTE AUX CANONNIERS",
+      "localitySlug": "pointe-aux-canonniers",
+      "streets": "dans les environs de La Colline Road",
+      "district": "rodrigues",
+      "from": "2024-04-27T04:30:00.000Z",
+      "to": "2024-04-27T11:00:00.000Z",
+      "id": "fb8d4ea3c26b7d195d3325778f9ba61e"
+    },
+    {
+      "date": "Le samedi 27 avril 2024 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LES ABONNES DE SAINT FRANCOIS, ANSE ALI ET PATATE THEOPHILE.",
+      "district": "rodrigues",
+      "from": "2024-04-27T04:30:00.000Z",
+      "to": "2024-04-27T11:00:00.000Z",
+      "id": "decd7bc0da011fb9336f4d96e4ba661b"
+    }
+  ]
+}

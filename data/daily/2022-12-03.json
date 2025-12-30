@@ -1,0 +1,38 @@
+{
+  "date": "2022-12-03",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.488Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le samedi 3 décembre 2022 de  09:00:00 à  12:00:00",
+      "locality": "CAMP FOUQUEREAUX",
+      "localitySlug": "camp-fouquereaux",
+      "streets": "RESERVOIRE RD CAMP FOUQUEREAUX",
+      "district": "plainewilhems",
+      "from": "2022-12-03T05:00:00.000Z",
+      "to": "2022-12-03T08:00:00.000Z",
+      "id": "d8fd00896035ace81e20dbdd0e40a79b"
+    },
+    {
+      "date": "Le samedi 3 décembre 2022 de  12:30:00 à  15:00:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "BASSIN RD HIGHLANDS",
+      "district": "plainewilhems",
+      "from": "2022-12-03T08:30:00.000Z",
+      "to": "2022-12-03T11:00:00.000Z",
+      "id": "15a43e2026def6b21940107bb13a0848"
+    },
+    {
+      "date": "Le samedi 3 décembre 2022 de  09:00:00 à  14:00:00",
+      "locality": "SAINT AUBIN",
+      "localitySlug": "saint-aubin",
+      "streets": "Ducomer St. Aubin",
+      "district": "savanne",
+      "from": "2022-12-03T05:00:00.000Z",
+      "to": "2022-12-03T10:00:00.000Z",
+      "id": "43506ef0d75885ce14c4f0338696f7cf"
+    }
+  ]
+}

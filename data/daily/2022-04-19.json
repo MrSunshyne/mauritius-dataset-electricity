@@ -1,0 +1,38 @@
+{
+  "date": "2022-04-19",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.481Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mardi 19 avril 2022 de  10:45:00 à  13:30:00",
+      "locality": "CITE RICHELIEU",
+      "localitySlug": "cite-richelieu",
+      "streets": "Cite Richelieu",
+      "district": "blackriver",
+      "from": "2022-04-19T06:45:00.000Z",
+      "to": "2022-04-19T09:30:00.000Z",
+      "id": "7e143b46d18d915b55cb54be13739713"
+    },
+    {
+      "date": "Le mardi 19 avril 2022 de  09:45:00 à  12:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "15 Cantons Vacoas",
+      "district": "plainewilhems",
+      "from": "2022-04-19T05:45:00.000Z",
+      "to": "2022-04-19T08:30:00.000Z",
+      "id": "9a9bb1efde841623b69ee2dcbe15ba53"
+    },
+    {
+      "date": "Le mardi 19 avril 2022 de  09:30:00 à  10:30:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Napier Broome Beau Bassin",
+      "district": "plainewilhems",
+      "from": "2022-04-19T05:30:00.000Z",
+      "to": "2022-04-19T06:30:00.000Z",
+      "id": "8bb9c6a94784d44035d47aa651366f22"
+    }
+  ]
+}

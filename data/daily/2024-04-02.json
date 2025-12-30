@@ -1,0 +1,38 @@
+{
+  "date": "2024-04-02",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.506Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mardi 2 avril 2024 de  09:20:00 à  11:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "BASSIN RD, COORPERATIVE RD, OOGAR LANE AND SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2024-04-02T05:20:00.000Z",
+      "to": "2024-04-02T07:30:00.000Z",
+      "id": "00cd48df98c2c71329cc18b366bdf3aa"
+    },
+    {
+      "date": "Le mardi 2 avril 2024 de  10:00:00 à  10:30:00",
+      "locality": "CAP MALHEUREUX",
+      "localitySlug": "cap-malheureux",
+      "streets": "PAVILLION, CALODYN, ST FRANCOIS",
+      "district": "rivieredurempart",
+      "from": "2024-04-02T06:00:00.000Z",
+      "to": "2024-04-02T06:30:00.000Z",
+      "id": "11371d93a52ecee63294ce4dc5b1107f"
+    },
+    {
+      "date": "Le mardi 2 avril 2024 de  10:00:00 à  14:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LES ABONNES DE THAMBES, MONTAGNE MALGACHE, PETIT BRULEE ET GRANDE MONTAGNE.",
+      "district": "rodrigues",
+      "from": "2024-04-02T06:00:00.000Z",
+      "to": "2024-04-02T10:00:00.000Z",
+      "id": "5bdc23d6fd9cb0f54f7bcdf6109b7cfe"
+    }
+  ]
+}

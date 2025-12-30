@@ -1,0 +1,58 @@
+{
+  "date": "2024-05-15",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.508Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mercredi 15 mai 2024 de  09:00:00 à  17:00:00",
+      "locality": "L-AVENTURE",
+      "localitySlug": "l-aventure",
+      "streets": "le village de Laventure dans les périmètres des avenues suivent : Radhakissoon, Dyal, Shivala, Kalimaye, Rahman et Route Royale",
+      "district": "flacq",
+      "from": "2024-05-15T05:00:00.000Z",
+      "to": "2024-05-15T13:00:00.000Z",
+      "id": "242196e1acc819d7bb1cc8fb5006fbcd"
+    },
+    {
+      "date": "Le mercredi 15 mai 2024 de  09:00:00 à  16:00:00",
+      "locality": "LONG MOUNTAIN",
+      "localitySlug": "long-mountain",
+      "streets": "MONTAGNE LONG DANS LES ENVIRONS DE LECOLE DU GOUVERNEMENT, CHEMIN DE PLEVITZ ET LONG MOUNTAIN COOPERATIVE CREDIT UNION",
+      "district": "pamplemousses",
+      "from": "2024-05-15T05:00:00.000Z",
+      "to": "2024-05-15T12:00:00.000Z",
+      "id": "ff2e8e10eb788a3d56cfc880262bc152"
+    },
+    {
+      "date": "Le mercredi 15 mai 2024 de  09:30:00 à  11:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "ST JEAN : ROUTE ROYALE, RUE ST LOUIS, DANS LES ENVIRONS CENTREPOINT, RUE ARYA SAMAJ ET DANS LES ENVIRONS ECOLE RCA ST LOUIS.",
+      "district": "plainewilhems",
+      "from": "2024-05-15T05:30:00.000Z",
+      "to": "2024-05-15T07:00:00.000Z",
+      "id": "1177316b5c2e300d02fd8b422978505c"
+    },
+    {
+      "date": "Le mercredi 15 mai 2024 de  09:30:00 à  10:15:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "RUE ROBERT REY, RUE MATIN LUTHER KING ET LES RUELLES AVOISINANTES.",
+      "district": "plainewilhems",
+      "from": "2024-05-15T05:30:00.000Z",
+      "to": "2024-05-15T06:15:00.000Z",
+      "id": "8b5274a3e549b0dd616e2a03076ae4bc"
+    },
+    {
+      "date": "Le mercredi 15 mai 2024 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "SAINT FRANCOIS, ANSE ALI, MORC PATATE THEOPHILE",
+      "district": "rodrigues",
+      "from": "2024-05-15T04:30:00.000Z",
+      "to": "2024-05-15T11:00:00.000Z",
+      "id": "75666094280b9c10967e3983549c1ef1"
+    }
+  ]
+}

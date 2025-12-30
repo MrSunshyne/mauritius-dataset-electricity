@@ -1,0 +1,58 @@
+{
+  "date": "2023-09-14",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.499Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le jeudi 14 septembre 2023 de  06:30:00 à  15:30:00",
+      "locality": "ARSENAL",
+      "localitySlug": "arsenal",
+      "streets": "LES ABONNES DE ARSENAL- CALEBASSE BRANCH ROAD ET DANS LES ENVIRONS DALLEE BADAMIER, JUNCTION HUB ET HUMAN SERVICE TRUST",
+      "district": "pamplemousses",
+      "from": "2023-09-14T02:30:00.000Z",
+      "to": "2023-09-14T11:30:00.000Z",
+      "id": "49e1ae87d4aab18d84c4cd43a9fdc495"
+    },
+    {
+      "date": "Le jeudi 14 septembre 2023 de  12:00:00 à  16:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "Parti de Mohabeer Mungar Street",
+      "district": "plainewilhems",
+      "from": "2023-09-14T08:00:00.000Z",
+      "to": "2023-09-14T12:00:00.000Z",
+      "id": "8550d3600ed5215d8a468e62a741b64d"
+    },
+    {
+      "date": "Le jeudi 14 septembre 2023 de  09:00:00 à  15:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "LES ABONNES DE TERRASSON PTE AUX SABLES HABITANT DANS LES ENVIRONS DES RUES JOHN KENNETH NELSON, SPARROW, BOUGAINVILLE, LAURIERS, IRIS ET DE LA ROUTE ROYAL",
+      "district": "portlouis",
+      "from": "2023-09-14T05:00:00.000Z",
+      "to": "2023-09-14T11:00:00.000Z",
+      "id": "c28a3437b6ca07f71465cd2d1406c1de"
+    },
+    {
+      "date": "Le jeudi 14 septembre 2023 de  18:15:00 à  00:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "PEREYBERE,BAIN BOEUF,CAP MALHEUREUX AND NEARBY ISOLATED REGIONS",
+      "district": "rivieredurempart",
+      "from": "2023-09-14T14:15:00.000Z",
+      "to": "2023-09-13T20:00:00.000Z",
+      "id": "9eaed173bbe35846e9b5b4f142e588c3"
+    },
+    {
+      "date": "Le jeudi 14 septembre 2023 de  13:00:00 à  16:00:00",
+      "locality": "CHEMIN GRENIER",
+      "localitySlug": "chemin-grenier",
+      "streets": "Le village de chemin grenier",
+      "district": "savanne",
+      "from": "2023-09-14T09:00:00.000Z",
+      "to": "2023-09-14T12:00:00.000Z",
+      "id": "a264cfc25577fa2eee2d8bdbaf357f49"
+    }
+  ]
+}

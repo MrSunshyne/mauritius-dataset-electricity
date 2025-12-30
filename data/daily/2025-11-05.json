@@ -1,0 +1,78 @@
+{
+  "date": "2025-11-05",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.527Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le mercredi 5 novembre 2025 de  08:00:00 à  09:45:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "FROM PETITE RIVIERE TO RICHELIEU",
+      "district": "blackriver",
+      "from": "2025-11-05T04:00:00.000Z",
+      "to": "2025-11-05T05:45:00.000Z",
+      "id": "682d9bb9e0b49b67aa2f8fb346ea6389"
+    },
+    {
+      "date": "Le mercredi 5 novembre 2025 de  09:00:00 à  17:00:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "La Lucie Roy, Morc Lotus et NSLD Bel Air",
+      "district": "flacq",
+      "from": "2025-11-05T05:00:00.000Z",
+      "to": "2025-11-05T13:00:00.000Z",
+      "id": "d54ab554540fd189ff848361868dcbc7"
+    },
+    {
+      "date": "Le mercredi 5 novembre 2025 de  09:30:00 à  12:00:00",
+      "locality": "GRAND SABLE",
+      "localitySlug": "grand-sable",
+      "streets": "PART OF GRAND SABLE",
+      "district": "grandport",
+      "from": "2025-11-05T05:30:00.000Z",
+      "to": "2025-11-05T08:00:00.000Z",
+      "id": "f646571ca2af7f9b1a031b9f099f0b1a"
+    },
+    {
+      "date": "Le mercredi 5 novembre 2025 de  12:45:00 à  15:00:00",
+      "locality": "PLAINE DES PAPAYES",
+      "localitySlug": "plaine-des-papayes",
+      "streets": "Royal Rd,towards Bois Mangues,Police Station",
+      "district": "pamplemousses",
+      "from": "2025-11-05T08:45:00.000Z",
+      "to": "2025-11-05T11:00:00.000Z",
+      "id": "4519a3e34cb22310ede8b7e785f9b12a"
+    },
+    {
+      "date": "Le mercredi 5 novembre 2025 de  14:30:00 à  16:30:00",
+      "locality": "PLAINE DES PAPAYES",
+      "localitySlug": "plaine-des-papayes",
+      "streets": "PART OF MORCELLEMENT RAMPHUL AND TOWARDS COOPERATIVE ROAD.",
+      "district": "pamplemousses",
+      "from": "2025-11-05T10:30:00.000Z",
+      "to": "2025-11-05T12:30:00.000Z",
+      "id": "eafefdab439906ded850c477dcf9e26d"
+    },
+    {
+      "date": "Le mercredi 5 novembre 2025 de  09:00:00 à  12:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Petit Camp",
+      "district": "plainewilhems",
+      "from": "2025-11-05T05:00:00.000Z",
+      "to": "2025-11-05T08:00:00.000Z",
+      "id": "1a298376be61fa05d2bde49f2a49a188"
+    },
+    {
+      "date": "Le mercredi 5 novembre 2025 de  09:50:00 à  15:00:00",
+      "locality": "ALMA",
+      "localitySlug": "alma",
+      "streets": "PART OF ALMA",
+      "district": "portlouis",
+      "from": "2025-11-05T05:50:00.000Z",
+      "to": "2025-11-05T11:00:00.000Z",
+      "id": "915c82949755380b6421c128a73365d4"
+    }
+  ]
+}

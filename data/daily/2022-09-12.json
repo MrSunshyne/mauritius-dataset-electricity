@@ -1,0 +1,58 @@
+{
+  "date": "2022-09-12",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.486Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le lundi 12 septembre 2022 de  14:40:00 à  17:30:00",
+      "locality": "BOIS PIGNOLET",
+      "localitySlug": "bois-pignolet",
+      "streets": "WHOLE REGION",
+      "district": "pamplemousses",
+      "from": "2022-09-12T10:40:00.000Z",
+      "to": "2022-09-12T13:30:00.000Z",
+      "id": "34fc9e6f0b457f2e04a0f97d68cd9c2a"
+    },
+    {
+      "date": "Le lundi 12 septembre 2022 de  09:45:00 à  14:00:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "SCHOOL LANE,JACKSON LANE ,JAYLALL LANE,ROYAL RD UPTO KALIMAYE",
+      "district": "plainewilhems",
+      "from": "2022-09-12T05:45:00.000Z",
+      "to": "2022-09-12T10:00:00.000Z",
+      "id": "dcc77a417a80bbdf0af7f74eeba4bc4b"
+    },
+    {
+      "date": "Le lundi 12 septembre 2022 de  14:00:00 à  18:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "En Partie Route Royale Chebel, Usine Resultant et Belvedere",
+      "district": "plainewilhems",
+      "from": "2022-09-12T10:00:00.000Z",
+      "to": "2022-09-12T14:00:00.000Z",
+      "id": "a0ec9453103f0058b714ed2b091f7af2"
+    },
+    {
+      "date": "Le lundi 12 septembre 2022 de  12:15:00 à  14:15:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "CLOSEL",
+      "district": "plainewilhems",
+      "from": "2022-09-12T08:15:00.000Z",
+      "to": "2022-09-12T10:15:00.000Z",
+      "id": "bbfc81ac9d4497d68517ba9287b1366b"
+    },
+    {
+      "date": "Le lundi 12 septembre 2022 de  10:30:00 à  15:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "SCHOOL ROAD",
+      "district": "portlouis",
+      "from": "2022-09-12T06:30:00.000Z",
+      "to": "2022-09-12T11:00:00.000Z",
+      "id": "1754dd84390cf59f8aa427e1bd9b611a"
+    }
+  ]
+}

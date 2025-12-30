@@ -1,0 +1,68 @@
+{
+  "date": "2023-04-16",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.493Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le dimanche 16 avril 2023 de  09:30:00 à  14:00:00",
+      "locality": "VILLENOIRE",
+      "localitySlug": "villenoire",
+      "streets": "Morcellement Blue Print Ville Noire",
+      "district": "grandport",
+      "from": "2023-04-16T05:30:00.000Z",
+      "to": "2023-04-16T10:00:00.000Z",
+      "id": "36cef21685ea582376d713bbb0eda9b8"
+    },
+    {
+      "date": "Le dimanche 16 avril 2023 de  08:30:00 à  16:00:00",
+      "locality": "MOKA",
+      "localitySlug": "moka",
+      "streets": "GENTILLY BRANCH ROAD, MORC RAMNARAIN 2, MORC RAMNARAIN CHANTENAY",
+      "district": "moka",
+      "from": "2023-04-16T04:30:00.000Z",
+      "to": "2023-04-16T12:00:00.000Z",
+      "id": "f381425c2c132eb29e58e44efd81157b"
+    },
+    {
+      "date": "Le dimanche 16 avril 2023 de  15:00:00 à  17:00:00",
+      "locality": "CAMP MARCELIN",
+      "localitySlug": "camp-marcelin",
+      "streets": "Les abonnés habitant en partie du village de Bramsthan, Ecroignard et Camp Ithier",
+      "district": "moka",
+      "from": "2023-04-16T11:00:00.000Z",
+      "to": "2023-04-16T13:00:00.000Z",
+      "id": "2a51c5dc6d96a17543cb10fc9594a2c1"
+    },
+    {
+      "date": "Le dimanche 16 avril 2023 de  08:15:00 à  17:00:00",
+      "locality": "CAMP MARCELIN",
+      "localitySlug": "camp-marcelin",
+      "streets": "Les abonnés habitant à Camp Marcelin, NHDC Quatre Cocos, en partie     du village Camp Ithier et Isidore Rose",
+      "district": "moka",
+      "from": "2023-04-16T04:15:00.000Z",
+      "to": "2023-04-16T13:00:00.000Z",
+      "id": "24e6213da0ebe96529fcc57ce5cca438"
+    },
+    {
+      "date": "Le dimanche 16 avril 2023 de  08:30:00 à  14:00:00",
+      "locality": "RICHE TERRE",
+      "localitySlug": "riche-terre",
+      "streets": "DANS LES ENVIRONS DE LA RUE OURSIN ET PONT BRUNIQUEL",
+      "district": "pamplemousses",
+      "from": "2023-04-16T04:30:00.000Z",
+      "to": "2023-04-16T10:00:00.000Z",
+      "id": "2f89794f2bbf509f9b5841b7182928ed"
+    },
+    {
+      "date": "Le dimanche 16 avril 2023 de  08:30:00 à  16:30:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "IMPASSE BOULLE-LAMALETIE RD-MAUREL RD-IMPASSE BAISSAC-MORC SENEVILLE-CHARLES LEES-IMPASSE HENRY-DUPERE RD-DR MAURICE CURE RD-COMMERSON RD-WILLOUGBY RD-MORC DALLAIS-VICTOR HUGO RD-HIGINSON RD-ANDERSON RD-MAIGROT RD-LES RUELLES AVAOISINANTES",
+      "district": "plainewilhems",
+      "from": "2023-04-16T04:30:00.000Z",
+      "to": "2023-04-16T12:30:00.000Z",
+      "id": "5e5e88c3a43058bd58106695b4f55367"
+    }
+  ]
+}

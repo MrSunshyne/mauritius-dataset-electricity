@@ -1,0 +1,38 @@
+{
+  "date": "2025-12-24",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.530Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mercredi 24 décembre 2025 de  08:40:00 à  10:00:00",
+      "locality": "SODNAC",
+      "localitySlug": "sodnac",
+      "streets": "AVE TRISTAN DAVIS, IBIS, YLANG YLANG AND SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2025-12-24T04:40:00.000Z",
+      "to": "2025-12-24T06:00:00.000Z",
+      "id": "a2575ae14f5f1395ae5658e16679a286"
+    },
+    {
+      "date": "Le mercredi 24 décembre 2025 de  09:00:00 à  11:30:00",
+      "locality": "LA SALINE",
+      "localitySlug": "la-saline",
+      "streets": "PART OF LA SALINE",
+      "district": "portlouis",
+      "from": "2025-12-24T05:00:00.000Z",
+      "to": "2025-12-24T07:30:00.000Z",
+      "id": "a14d7d6c8b7d4ee7bce6ec5f911b6e57"
+    },
+    {
+      "date": "Le mercredi 24 décembre 2025 de  18:00:00 à  22:00:00",
+      "locality": "UPPER VALE",
+      "localitySlug": "upper-vale",
+      "streets": "RAMGOOLAM ROAD, SSR ROAD ET LES ENVIRONS.",
+      "district": "rivieredurempart",
+      "from": "2025-12-24T14:00:00.000Z",
+      "to": "2025-12-24T18:00:00.000Z",
+      "id": "b37e25a9be51787e643fd0b985e3e7b2"
+    }
+  ]
+}

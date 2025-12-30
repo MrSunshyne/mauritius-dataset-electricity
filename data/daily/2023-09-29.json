@@ -1,0 +1,38 @@
+{
+  "date": "2023-09-29",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.499Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le vendredi 29 septembre 2023 de  08:30:00 à  12:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "Morcellement Antelme, Morcellement Mooneyan, partie de Morcellement Piat",
+      "district": "plainewilhems",
+      "from": "2023-09-29T04:30:00.000Z",
+      "to": "2023-09-29T08:00:00.000Z",
+      "id": "3713f418e6d467e5757ff17aeda06af3"
+    },
+    {
+      "date": "Le vendredi 29 septembre 2023 de  16:00:00 à  18:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Réunion, Camp Koyrill, La Vanille, partie de Tres Bon No. 1, 2, 3 et 4, Bernica Lane, Grassy Road, Morc Munbodh, Morcellement Highrise",
+      "district": "plainewilhems",
+      "from": "2023-09-29T12:00:00.000Z",
+      "to": "2023-09-29T14:00:00.000Z",
+      "id": "6488ea20b082912b0a58309e269c23f9"
+    },
+    {
+      "date": "Le vendredi 29 septembre 2023 de  16:30:00 à  18:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "LES ABONNES DE BERNICA RD, TRES BON RD, GRASSY RD, MORC HIGH RISE ET MORC MUNBODHE.",
+      "district": "plainewilhems",
+      "from": "2023-09-29T12:30:00.000Z",
+      "to": "2023-09-29T14:00:00.000Z",
+      "id": "66814d782abf6163dcbbc913fc0da690"
+    }
+  ]
+}

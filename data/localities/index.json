@@ -1,0 +1,4138 @@
+{
+  "generated": "2025-12-30T19:07:15.893Z",
+  "description": "All outages grouped by locality",
+  "localityCount": 459,
+  "localities": [
+    {
+      "slug": "16eme-mile",
+      "name": "16EME MILE",
+      "district": "plainewilhems",
+      "outageCount": 48,
+      "file": "16eme-mile.json",
+      "firstOutage": "2022-05-31",
+      "lastOutage": "2025-12-29"
+    },
+    {
+      "slug": "abercrombie",
+      "name": "ABERCROMBIE",
+      "district": "portlouis",
+      "outageCount": 2,
+      "file": "abercrombie.json",
+      "firstOutage": "2025-07-20",
+      "lastOutage": "2025-09-01"
+    },
+    {
+      "slug": "albion",
+      "name": "ALBION",
+      "district": "blackriver",
+      "outageCount": 94,
+      "file": "albion.json",
+      "firstOutage": "2022-06-06",
+      "lastOutage": "2025-12-30"
+    },
+    {
+      "slug": "allee-brillant-castel",
+      "name": "ALLEE BRILLANT CASTEL",
+      "district": "plainewilhems",
+      "outageCount": 7,
+      "file": "allee-brillant-castel.json",
+      "firstOutage": "2023-07-06",
+      "lastOutage": "2025-12-18"
+    },
+    {
+      "slug": "allee-brillant-vacoas",
+      "name": "ALLEE BRILLANT VACOAS",
+      "district": "plainewilhems",
+      "outageCount": 10,
+      "file": "allee-brillant-vacoas.json",
+      "firstOutage": "2023-02-05",
+      "lastOutage": "2024-07-28"
+    },
+    {
+      "slug": "alma",
+      "name": "ALMA",
+      "district": "portlouis",
+      "outageCount": 4,
+      "file": "alma.json",
+      "firstOutage": "2023-05-09",
+      "lastOutage": "2025-12-23"
+    },
+    {
+      "slug": "amaury",
+      "name": "AMAURY",
+      "district": "rivieredurempart",
+      "outageCount": 23,
+      "file": "amaury.json",
+      "firstOutage": "2022-06-30",
+      "lastOutage": "2025-12-30"
+    },
+    {
+      "slug": "amitie",
+      "name": "AMITIE",
+      "district": "rivieredurempart",
+      "outageCount": 12,
+      "file": "amitie.json",
+      "firstOutage": "2022-04-28",
+      "lastOutage": "2025-12-05"
+    },
+    {
+      "slug": "anse-jonchee",
+      "name": "ANSE JONCHEE",
+      "district": "grandport",
+      "outageCount": 11,
+      "file": "anse-jonchee.json",
+      "firstOutage": "2022-05-26",
+      "lastOutage": "2025-11-26"
+    },
+    {
+      "slug": "anse-la-raie",
+      "name": "ANSE LA RAIE",
+      "district": "rivieredurempart",
+      "outageCount": 12,
+      "file": "anse-la-raie.json",
+      "firstOutage": "2022-09-25",
+      "lastOutage": "2025-12-14"
+    },
+    {
+      "slug": "anse-quitor",
+      "name": "ANSE QUITOR(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 2,
+      "file": "anse-quitor.json",
+      "firstOutage": "2025-03-22",
+      "lastOutage": "2025-03-22"
+    },
+    {
+      "slug": "argy",
+      "name": "ARGY",
+      "district": "flacq",
+      "outageCount": 23,
+      "file": "argy.json",
+      "firstOutage": "2023-04-27",
+      "lastOutage": "2025-12-10"
+    },
+    {
+      "slug": "arsenal",
+      "name": "ARSENAL",
+      "district": "pamplemousses",
+      "outageCount": 50,
+      "file": "arsenal.json",
+      "firstOutage": "2022-05-25",
+      "lastOutage": "2025-12-09"
+    },
+    {
+      "slug": "bagatelle",
+      "name": "BAGATELLE",
+      "district": "moka",
+      "outageCount": 2,
+      "file": "bagatelle.json",
+      "firstOutage": "2023-12-09",
+      "lastOutage": "2024-06-04"
+    },
+    {
+      "slug": "baie-du-cap",
+      "name": "BAIE DU CAP",
+      "district": "savanne",
+      "outageCount": 28,
+      "file": "baie-du-cap.json",
+      "firstOutage": "2022-06-29",
+      "lastOutage": "2025-12-18"
+    },
+    {
+      "slug": "baie-du-nord",
+      "name": "BAIE DU NORD(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 3,
+      "file": "baie-du-nord.json",
+      "firstOutage": "2024-05-16",
+      "lastOutage": "2025-01-18"
+    },
+    {
+      "slug": "baie-lascar",
+      "name": "BAIE LASCAR(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 2,
+      "file": "baie-lascar.json",
+      "firstOutage": "2025-02-06",
+      "lastOutage": "2025-03-05"
+    },
+    {
+      "slug": "baie-topaze",
+      "name": "BAIE TOPAZE(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 2,
+      "file": "baie-topaze.json",
+      "firstOutage": "2024-06-22",
+      "lastOutage": "2025-10-23"
+    },
+    {
+      "slug": "bain-boeuf",
+      "name": "BAIN BOEUF",
+      "district": "rivieredurempart",
+      "outageCount": 19,
+      "file": "bain-boeuf.json",
+      "firstOutage": "2022-07-14",
+      "lastOutage": "2025-08-15"
+    },
+    {
+      "slug": "bain-des-dames",
+      "name": "BAIN DES DAMES",
+      "district": "portlouis",
+      "outageCount": 2,
+      "file": "bain-des-dames.json",
+      "firstOutage": "2022-11-15",
+      "lastOutage": "2024-12-01"
+    },
+    {
+      "slug": "balaclava",
+      "name": "BALACLAVA",
+      "district": "pamplemousses",
+      "outageCount": 21,
+      "file": "balaclava.json",
+      "firstOutage": "2022-05-19",
+      "lastOutage": "2025-12-02"
+    },
+    {
+      "slug": "baladirou",
+      "name": "BALADIROU(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 4,
+      "file": "baladirou.json",
+      "firstOutage": "2023-10-18",
+      "lastOutage": "2025-12-20"
+    },
+    {
+      "slug": "balisson",
+      "name": "BALISSON",
+      "district": "grandport",
+      "outageCount": 7,
+      "file": "balisson.json",
+      "firstOutage": "2022-03-22",
+      "lastOutage": "2025-07-15"
+    },
+    {
+      "slug": "bambous",
+      "name": "BAMBOUS",
+      "district": "blackriver",
+      "outageCount": 104,
+      "file": "bambous.json",
+      "firstOutage": "2022-04-12",
+      "lastOutage": "2025-11-16"
+    },
+    {
+      "slug": "bambous-virieux",
+      "name": "BAMBOUS VIRIEUX",
+      "district": "grandport",
+      "outageCount": 6,
+      "file": "bambous-virieux.json",
+      "firstOutage": "2023-04-07",
+      "lastOutage": "2025-11-26"
+    },
+    {
+      "slug": "bananes",
+      "name": "BANANES",
+      "district": "savanne",
+      "outageCount": 9,
+      "file": "bananes.json",
+      "firstOutage": "2022-03-14",
+      "lastOutage": "2025-09-21"
+    },
+    {
+      "slug": "bar-le-duc",
+      "name": "BAR LE DUC",
+      "district": "moka",
+      "outageCount": 3,
+      "file": "bar-le-duc.json",
+      "firstOutage": "2023-12-20",
+      "lastOutage": "2025-12-23"
+    },
+    {
+      "slug": "barlow",
+      "name": "BARLOW",
+      "district": "rivieredurempart",
+      "outageCount": 2,
+      "file": "barlow.json",
+      "firstOutage": "2023-07-09",
+      "lastOutage": "2024-11-04"
+    },
+    {
+      "slug": "batatran",
+      "name": "BATATRAN(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 2,
+      "file": "batatran.json",
+      "firstOutage": "2024-08-24",
+      "lastOutage": "2024-08-24"
+    },
+    {
+      "slug": "batimarais",
+      "name": "BATIMARAIS",
+      "district": "savanne",
+      "outageCount": 14,
+      "file": "batimarais.json",
+      "firstOutage": "2022-04-14",
+      "lastOutage": "2025-10-15"
+    },
+    {
+      "slug": "bay-malgache",
+      "name": "BAY MALGACHE(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 4,
+      "file": "bay-malgache.json",
+      "firstOutage": "2023-10-21",
+      "lastOutage": "2025-02-08"
+    },
+    {
+      "slug": "beau-bassin",
+      "name": "BEAU BASSIN",
+      "district": "plainewilhems",
+      "outageCount": 152,
+      "file": "beau-bassin.json",
+      "firstOutage": "2022-03-25",
+      "lastOutage": "2025-12-14"
+    },
+    {
+      "slug": "beau-bois",
+      "name": "BEAU BOIS",
+      "district": "moka",
+      "outageCount": 3,
+      "file": "beau-bois.json",
+      "firstOutage": "2022-10-31",
+      "lastOutage": "2024-06-13"
+    },
+    {
+      "slug": "beau-champ-flacq",
+      "name": "BEAU CHAMP FLACQ",
+      "district": "flacq",
+      "outageCount": 16,
+      "file": "beau-champ-flacq.json",
+      "firstOutage": "2022-03-23",
+      "lastOutage": "2025-12-09"
+    },
+    {
+      "slug": "beau-champ-south",
+      "name": "BEAU CHAMP SOUTH",
+      "district": "flacq",
+      "outageCount": 1,
+      "file": "beau-champ-south.json",
+      "firstOutage": "2023-09-24",
+      "lastOutage": "2023-09-24"
+    },
+    {
+      "slug": "beau-plan",
+      "name": "BEAU PLAN",
+      "district": "pamplemousses",
+      "outageCount": 4,
+      "file": "beau-plan.json",
+      "firstOutage": "2023-06-07",
+      "lastOutage": "2025-10-03"
+    },
+    {
+      "slug": "beau-sejour-belle-rose",
+      "name": "BEAU SEJOUR BELLE-ROSE",
+      "district": "plainewilhems",
+      "outageCount": 4,
+      "file": "beau-sejour-belle-rose.json",
+      "firstOutage": "2022-07-13",
+      "lastOutage": "2024-03-01"
+    },
+    {
+      "slug": "beau-sejour-piton",
+      "name": "BEAU SEJOUR PITON",
+      "district": "pamplemousses",
+      "outageCount": 1,
+      "file": "beau-sejour-piton.json",
+      "firstOutage": "2023-08-19",
+      "lastOutage": "2023-08-19"
+    },
+    {
+      "slug": "beau-songe",
+      "name": "BEAU SONGE",
+      "district": "blackriver",
+      "outageCount": 19,
+      "file": "beau-songe.json",
+      "firstOutage": "2023-05-09",
+      "lastOutage": "2025-12-16"
+    },
+    {
+      "slug": "beau-vallon",
+      "name": "BEAU VALLON",
+      "district": "grandport",
+      "outageCount": 14,
+      "file": "beau-vallon.json",
+      "firstOutage": "2022-06-06",
+      "lastOutage": "2025-03-08"
+    },
+    {
+      "slug": "bel-air",
+      "name": "BEL AIR",
+      "district": "flacq",
+      "outageCount": 57,
+      "file": "bel-air.json",
+      "firstOutage": "2022-06-04",
+      "lastOutage": "2025-12-06"
+    },
+    {
+      "slug": "bel-etang",
+      "name": "BEL ETANG",
+      "district": "flacq",
+      "outageCount": 5,
+      "file": "bel-etang.json",
+      "firstOutage": "2022-08-28",
+      "lastOutage": "2025-01-23"
+    },
+    {
+      "slug": "bel-ombre",
+      "name": "BEL OMBRE",
+      "district": "savanne",
+      "outageCount": 18,
+      "file": "bel-ombre.json",
+      "firstOutage": "2022-05-15",
+      "lastOutage": "2025-10-09"
+    },
+    {
+      "slug": "bell-village",
+      "name": "BELL VILLAGE",
+      "district": "portlouis",
+      "outageCount": 10,
+      "file": "bell-village.json",
+      "firstOutage": "2022-08-19",
+      "lastOutage": "2025-06-26"
+    },
+    {
+      "slug": "belle-bue-allandy",
+      "name": "BELLE BUE ALLANDY",
+      "district": "flacq",
+      "outageCount": 5,
+      "file": "belle-bue-allandy.json",
+      "firstOutage": "2023-01-12",
+      "lastOutage": "2025-12-15"
+    },
+    {
+      "slug": "belle-etoile",
+      "name": "BELLE ETOILE",
+      "district": "plainewilhems",
+      "outageCount": 2,
+      "file": "belle-etoile.json",
+      "firstOutage": "2022-11-24",
+      "lastOutage": "2025-08-06"
+    },
+    {
+      "slug": "belle-mare",
+      "name": "BELLE MARE",
+      "district": "flacq",
+      "outageCount": 27,
+      "file": "belle-mare.json",
+      "firstOutage": "2022-08-07",
+      "lastOutage": "2025-09-07"
+    },
+    {
+      "slug": "belle-rive",
+      "name": "BELLE RIVE ( KEWAL NAGAR )",
+      "district": "flacq",
+      "outageCount": 5,
+      "file": "belle-rive.json",
+      "firstOutage": "2023-05-18",
+      "lastOutage": "2024-10-11"
+    },
+    {
+      "slug": "belle-rive-curepipe",
+      "name": "BELLE RIVE CUREPIPE",
+      "district": "plainewilhems",
+      "outageCount": 4,
+      "file": "belle-rive-curepipe.json",
+      "firstOutage": "2024-04-19",
+      "lastOutage": "2024-09-16"
+    },
+    {
+      "slug": "belle-rose",
+      "name": "BELLE ROSE  ( Q BORNES )",
+      "district": "flacq",
+      "outageCount": 27,
+      "file": "belle-rose.json",
+      "firstOutage": "2022-08-31",
+      "lastOutage": "2025-12-13"
+    },
+    {
+      "slug": "belle-terre",
+      "name": "BELLE TERRE",
+      "district": "plainewilhems",
+      "outageCount": 8,
+      "file": "belle-terre.json",
+      "firstOutage": "2023-08-25",
+      "lastOutage": "2025-11-04"
+    },
+    {
+      "slug": "belle-vue-harel",
+      "name": "BELLE VUE HAREL",
+      "district": "pamplemousses",
+      "outageCount": 6,
+      "file": "belle-vue-harel.json",
+      "firstOutage": "2022-06-06",
+      "lastOutage": "2025-02-25"
+    },
+    {
+      "slug": "belle-vue-maurel",
+      "name": "BELLE VUE MAUREL",
+      "district": "rivieredurempart",
+      "outageCount": 8,
+      "file": "belle-vue-maurel.json",
+      "firstOutage": "2023-01-17",
+      "lastOutage": "2025-02-24"
+    },
+    {
+      "slug": "belle-vue-pilot",
+      "name": "BELLE VUE PILOT",
+      "district": "pamplemousses",
+      "outageCount": 1,
+      "file": "belle-vue-pilot.json",
+      "firstOutage": "2022-11-30",
+      "lastOutage": "2022-11-30"
+    },
+    {
+      "slug": "belvedere",
+      "name": "BELVEDERE ( BEAU BASSIN )",
+      "district": "flacq",
+      "outageCount": 9,
+      "file": "belvedere.json",
+      "firstOutage": "2023-01-21",
+      "lastOutage": "2025-01-22"
+    },
+    {
+      "slug": "benares",
+      "name": "BENARES",
+      "district": "savanne",
+      "outageCount": 6,
+      "file": "benares.json",
+      "firstOutage": "2023-10-11",
+      "lastOutage": "2025-09-23"
+    },
+    {
+      "slug": "berthaud",
+      "name": "BERTHAUD",
+      "district": "plainewilhems",
+      "outageCount": 2,
+      "file": "berthaud.json",
+      "firstOutage": "2024-07-16",
+      "lastOutage": "2024-11-13"
+    },
+    {
+      "slug": "blue-bay",
+      "name": "BLUE BAY",
+      "district": "grandport",
+      "outageCount": 30,
+      "file": "blue-bay.json",
+      "firstOutage": "2022-05-15",
+      "lastOutage": "2025-11-14"
+    },
+    {
+      "slug": "bois-cheri",
+      "name": "BOIS CHERI",
+      "district": "savanne",
+      "outageCount": 29,
+      "file": "bois-cheri.json",
+      "firstOutage": "2022-03-20",
+      "lastOutage": "2025-12-14"
+    },
+    {
+      "slug": "bois-des-amourettes",
+      "name": "BOIS DES AMOURETTES",
+      "district": "grandport",
+      "outageCount": 5,
+      "file": "bois-des-amourettes.json",
+      "firstOutage": "2022-05-08",
+      "lastOutage": "2025-11-23"
+    },
+    {
+      "slug": "bois-mangues",
+      "name": "BOIS MANGUES",
+      "district": "pamplemousses",
+      "outageCount": 1,
+      "file": "bois-mangues.json",
+      "firstOutage": "2024-07-07",
+      "lastOutage": "2024-07-07"
+    },
+    {
+      "slug": "bois-marchand",
+      "name": "BOIS MARCHAND",
+      "district": "pamplemousses",
+      "outageCount": 7,
+      "file": "bois-marchand.json",
+      "firstOutage": "2023-08-27",
+      "lastOutage": "2025-12-09"
+    },
+    {
+      "slug": "bois-pignolet",
+      "name": "BOIS PIGNOLET",
+      "district": "pamplemousses",
+      "outageCount": 15,
+      "file": "bois-pignolet.json",
+      "firstOutage": "2022-04-01",
+      "lastOutage": "2025-11-26"
+    },
+    {
+      "slug": "bois-rouge",
+      "name": "BOIS ROUGE",
+      "district": "pamplemousses",
+      "outageCount": 13,
+      "file": "bois-rouge.json",
+      "firstOutage": "2022-07-28",
+      "lastOutage": "2025-08-03"
+    },
+    {
+      "slug": "bon-acceuil",
+      "name": "BON  ACCEUIL",
+      "district": "flacq",
+      "outageCount": 12,
+      "file": "bon-acceuil.json",
+      "firstOutage": "2022-03-29",
+      "lastOutage": "2025-03-18"
+    },
+    {
+      "slug": "bonne-mere",
+      "name": "BONNE MERE",
+      "district": "flacq",
+      "outageCount": 12,
+      "file": "bonne-mere.json",
+      "firstOutage": "2022-08-14",
+      "lastOutage": "2025-07-31"
+    },
+    {
+      "slug": "bonne-terre",
+      "name": "BONNE TERRE",
+      "district": "plainewilhems",
+      "outageCount": 13,
+      "file": "bonne-terre.json",
+      "firstOutage": "2022-03-20",
+      "lastOutage": "2025-10-24"
+    },
+    {
+      "slug": "bonne-veine",
+      "name": "BONNE VEINE",
+      "district": "moka",
+      "outageCount": 1,
+      "file": "bonne-veine.json",
+      "firstOutage": "2024-08-13",
+      "lastOutage": "2024-08-13"
+    },
+    {
+      "slug": "boulet-rouge",
+      "name": "BOULET ROUGE",
+      "district": "flacq",
+      "outageCount": 11,
+      "file": "boulet-rouge.json",
+      "firstOutage": "2022-12-14",
+      "lastOutage": "2025-11-25"
+    },
+    {
+      "slug": "boulingrin",
+      "name": "BOULINGRIN",
+      "district": "pamplemousses",
+      "outageCount": 5,
+      "file": "boulingrin.json",
+      "firstOutage": "2023-04-03",
+      "lastOutage": "2025-07-10"
+    },
+    {
+      "slug": "bramsthan",
+      "name": "BRAMSTHAN",
+      "district": "flacq",
+      "outageCount": 12,
+      "file": "bramsthan.json",
+      "firstOutage": "2022-05-02",
+      "lastOutage": "2025-12-07"
+    },
+    {
+      "slug": "brisee-verdiere",
+      "name": "BRISEE VERDIERE",
+      "district": "flacq",
+      "outageCount": 13,
+      "file": "brisee-verdiere.json",
+      "firstOutage": "2022-07-27",
+      "lastOutage": "2025-10-02"
+    },
+    {
+      "slug": "britannia",
+      "name": "BRITANNIA",
+      "district": "plainewilhems",
+      "outageCount": 17,
+      "file": "britannia.json",
+      "firstOutage": "2023-04-02",
+      "lastOutage": "2025-10-07"
+    },
+    {
+      "slug": "buttes-aux-papayes",
+      "name": "BUTTES AUX PAPAYES",
+      "district": "rivieredurempart",
+      "outageCount": 5,
+      "file": "buttes-aux-papayes.json",
+      "firstOutage": "2023-08-23",
+      "lastOutage": "2025-03-26"
+    },
+    {
+      "slug": "calebasses",
+      "name": "CALEBASSES",
+      "district": "pamplemousses",
+      "outageCount": 29,
+      "file": "calebasses.json",
+      "firstOutage": "2022-05-15",
+      "lastOutage": "2025-10-30"
+    },
+    {
+      "slug": "calodyne",
+      "name": "CALODYNE",
+      "district": "rivieredurempart",
+      "outageCount": 30,
+      "file": "calodyne.json",
+      "firstOutage": "2022-09-10",
+      "lastOutage": "2025-12-14"
+    },
+    {
+      "slug": "camp-carol-kenya",
+      "name": "CAMP CAROL KENYA",
+      "district": "grandport",
+      "outageCount": 4,
+      "file": "camp-carol-kenya.json",
+      "firstOutage": "2022-10-05",
+      "lastOutage": "2024-08-29"
+    },
+    {
+      "slug": "camp-chapelon",
+      "name": "CAMP CHAPELON",
+      "district": "portlouis",
+      "outageCount": 2,
+      "file": "camp-chapelon.json",
+      "firstOutage": "2022-03-16",
+      "lastOutage": "2025-01-16"
+    },
+    {
+      "slug": "camp-de-masque",
+      "name": "CAMP DE MASQUE",
+      "district": "flacq",
+      "outageCount": 13,
+      "file": "camp-de-masque.json",
+      "firstOutage": "2022-07-09",
+      "lastOutage": "2025-10-20"
+    },
+    {
+      "slug": "camp-de-masque-pave",
+      "name": "CAMP DE MASQUE PAVE",
+      "district": "flacq",
+      "outageCount": 9,
+      "file": "camp-de-masque-pave.json",
+      "firstOutage": "2022-09-07",
+      "lastOutage": "2025-09-02"
+    },
+    {
+      "slug": "camp-des-embrevades",
+      "name": "CAMP DES EMBREVADES",
+      "district": "pamplemousses",
+      "outageCount": 15,
+      "file": "camp-des-embrevades.json",
+      "firstOutage": "2022-11-05",
+      "lastOutage": "2025-11-07"
+    },
+    {
+      "slug": "camp-diable",
+      "name": "CAMP DIABLE",
+      "district": "savanne",
+      "outageCount": 23,
+      "file": "camp-diable.json",
+      "firstOutage": "2022-03-27",
+      "lastOutage": "2025-12-30"
+    },
+    {
+      "slug": "camp-du-roi",
+      "name": "CAMP DU ROI(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 6,
+      "file": "camp-du-roi.json",
+      "firstOutage": "2025-02-15",
+      "lastOutage": "2025-12-27"
+    },
+    {
+      "slug": "camp-fouquereaux",
+      "name": "CAMP FOUQUEREAUX",
+      "district": "plainewilhems",
+      "outageCount": 32,
+      "file": "camp-fouquereaux.json",
+      "firstOutage": "2022-03-31",
+      "lastOutage": "2025-12-12"
+    },
+    {
+      "slug": "camp-garreau",
+      "name": "CAMP GARREAU",
+      "district": "flacq",
+      "outageCount": 1,
+      "file": "camp-garreau.json",
+      "firstOutage": "2025-02-05",
+      "lastOutage": "2025-02-05"
+    },
+    {
+      "slug": "camp-ithier",
+      "name": "CAMP ITHIER",
+      "district": "flacq",
+      "outageCount": 17,
+      "file": "camp-ithier.json",
+      "firstOutage": "2022-05-12",
+      "lastOutage": "2025-12-29"
+    },
+    {
+      "slug": "camp-la-boue-terre-rouge",
+      "name": "CAMP LA BOUE -TERRE ROUGE",
+      "district": "pamplemousses",
+      "outageCount": 2,
+      "file": "camp-la-boue-terre-rouge.json",
+      "firstOutage": "2024-05-09",
+      "lastOutage": "2024-06-01"
+    },
+    {
+      "slug": "camp-la-boue-vallee-du-paradis",
+      "name": "CAMP LA BOUE- VALLEE DU PARADIS",
+      "district": "pamplemousses",
+      "outageCount": 3,
+      "file": "camp-la-boue-vallee-du-paradis.json",
+      "firstOutage": "2025-04-15",
+      "lastOutage": "2025-10-09"
+    },
+    {
+      "slug": "camp-le-juge",
+      "name": "CAMP LE JUGE",
+      "district": "plainewilhems",
+      "outageCount": 1,
+      "file": "camp-le-juge.json",
+      "firstOutage": "2024-06-14",
+      "lastOutage": "2024-06-14"
+    },
+    {
+      "slug": "camp-levieux",
+      "name": "CAMP LEVIEUX ( CUREPIPE )",
+      "district": "plainewilhems",
+      "outageCount": 20,
+      "file": "camp-levieux.json",
+      "firstOutage": "2022-05-25",
+      "lastOutage": "2025-11-19"
+    },
+    {
+      "slug": "camp-mapou",
+      "name": "CAMP MAPOU",
+      "district": "plainewilhems",
+      "outageCount": 2,
+      "file": "camp-mapou.json",
+      "firstOutage": "2024-11-14",
+      "lastOutage": "2025-11-29"
+    },
+    {
+      "slug": "camp-marcelin",
+      "name": "CAMP MARCELIN",
+      "district": "moka",
+      "outageCount": 3,
+      "file": "camp-marcelin.json",
+      "firstOutage": "2023-04-16",
+      "lastOutage": "2023-12-13"
+    },
+    {
+      "slug": "camp-pecheurs",
+      "name": "CAMP PECHEURS",
+      "district": "flacq",
+      "outageCount": 1,
+      "file": "camp-pecheurs.json",
+      "firstOutage": "2023-07-24",
+      "lastOutage": "2023-07-24"
+    },
+    {
+      "slug": "camp-roches",
+      "name": "CAMP ROCHES",
+      "district": "plainewilhems",
+      "outageCount": 1,
+      "file": "camp-roches.json",
+      "firstOutage": "2025-04-07",
+      "lastOutage": "2025-04-07"
+    },
+    {
+      "slug": "camp-thorel",
+      "name": "CAMP THOREL",
+      "district": "moka",
+      "outageCount": 19,
+      "file": "camp-thorel.json",
+      "firstOutage": "2022-05-06",
+      "lastOutage": "2025-08-03"
+    },
+    {
+      "slug": "camp-yoloff",
+      "name": "CAMP YOLOFF",
+      "district": "portlouis",
+      "outageCount": 9,
+      "file": "camp-yoloff.json",
+      "firstOutage": "2023-04-02",
+      "lastOutage": "2025-11-28"
+    },
+    {
+      "slug": "canal-dayot",
+      "name": "CANAL DAYOT",
+      "district": "portlouis",
+      "outageCount": 4,
+      "file": "canal-dayot.json",
+      "firstOutage": "2022-10-09",
+      "lastOutage": "2024-11-21"
+    },
+    {
+      "slug": "candos-q-bornes",
+      "name": "CANDOS Q BORNES",
+      "district": "plainewilhems",
+      "outageCount": 7,
+      "file": "candos-q-bornes.json",
+      "firstOutage": "2022-06-22",
+      "lastOutage": "2025-11-06"
+    },
+    {
+      "slug": "candos-vacoas",
+      "name": "CANDOS VACOAS",
+      "district": "plainewilhems",
+      "outageCount": 10,
+      "file": "candos-vacoas.json",
+      "firstOutage": "2022-06-21",
+      "lastOutage": "2025-12-19"
+    },
+    {
+      "slug": "canot",
+      "name": "CANOT",
+      "district": "blackriver",
+      "outageCount": 5,
+      "file": "canot.json",
+      "firstOutage": "2022-11-08",
+      "lastOutage": "2025-12-17"
+    },
+    {
+      "slug": "canton-nancy",
+      "name": "CANTON NANCY",
+      "district": "pamplemousses",
+      "outageCount": 10,
+      "file": "canton-nancy.json",
+      "firstOutage": "2023-04-19",
+      "lastOutage": "2025-11-10"
+    },
+    {
+      "slug": "cap-malheureux",
+      "name": "CAP MALHEUREUX",
+      "district": "rivieredurempart",
+      "outageCount": 46,
+      "file": "cap-malheureux.json",
+      "firstOutage": "2022-07-14",
+      "lastOutage": "2025-12-19"
+    },
+    {
+      "slug": "caroline-bel-air",
+      "name": "CAROLINE BEL AIR",
+      "district": "flacq",
+      "outageCount": 38,
+      "file": "caroline-bel-air.json",
+      "firstOutage": "2022-06-01",
+      "lastOutage": "2025-09-03"
+    },
+    {
+      "slug": "carreau-esnouf",
+      "name": "CARREAU ESNOUF",
+      "district": "grandport",
+      "outageCount": 2,
+      "file": "carreau-esnouf.json",
+      "firstOutage": "2025-08-11",
+      "lastOutage": "2025-12-05"
+    },
+    {
+      "slug": "carreau-laliane",
+      "name": "CARREAU LALIANE",
+      "district": "plainewilhems",
+      "outageCount": 16,
+      "file": "carreau-laliane.json",
+      "firstOutage": "2022-03-20",
+      "lastOutage": "2024-10-02"
+    },
+    {
+      "slug": "cascade-jean-louis",
+      "name": "CASCADE JEAN LOUIS(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 1,
+      "file": "cascade-jean-louis.json",
+      "firstOutage": "2025-04-07",
+      "lastOutage": "2025-04-07"
+    },
+    {
+      "slug": "cascavel",
+      "name": "CASCAVEL",
+      "district": "blackriver",
+      "outageCount": 40,
+      "file": "cascavel.json",
+      "firstOutage": "2022-05-19",
+      "lastOutage": "2025-12-01"
+    },
+    {
+      "slug": "case-noyale",
+      "name": "CASE NOYALE",
+      "district": "blackriver",
+      "outageCount": 4,
+      "file": "case-noyale.json",
+      "firstOutage": "2023-11-10",
+      "lastOutage": "2025-11-10"
+    },
+    {
+      "slug": "cassis",
+      "name": "CASSIS",
+      "district": "portlouis",
+      "outageCount": 31,
+      "file": "cassis.json",
+      "firstOutage": "2022-04-12",
+      "lastOutage": "2025-12-26"
+    },
+    {
+      "slug": "castel-vacoas",
+      "name": "CASTEL VACOAS",
+      "district": "plainewilhems",
+      "outageCount": 15,
+      "file": "castel-vacoas.json",
+      "firstOutage": "2022-04-28",
+      "lastOutage": "2025-08-26"
+    },
+    {
+      "slug": "cavern-provert",
+      "name": "CAVERN PROVERT(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 2,
+      "file": "cavern-provert.json",
+      "firstOutage": "2025-01-15",
+      "lastOutage": "2025-12-11"
+    },
+    {
+      "slug": "central-flacq",
+      "name": "CENTRAL FLACQ",
+      "district": "flacq",
+      "outageCount": 66,
+      "file": "central-flacq.json",
+      "firstOutage": "2022-03-13",
+      "lastOutage": "2025-11-20"
+    },
+    {
+      "slug": "chamarel",
+      "name": "CHAMAREL",
+      "district": "blackriver",
+      "outageCount": 34,
+      "file": "chamarel.json",
+      "firstOutage": "2022-03-24",
+      "lastOutage": "2025-12-29"
+    },
+    {
+      "slug": "chamouny",
+      "name": "CHAMOUNY",
+      "district": "savanne",
+      "outageCount": 18,
+      "file": "chamouny.json",
+      "firstOutage": "2022-07-24",
+      "lastOutage": "2025-03-16"
+    },
+    {
+      "slug": "chemin-grenier",
+      "name": "CHEMIN GRENIER",
+      "district": "savanne",
+      "outageCount": 53,
+      "file": "chemin-grenier.json",
+      "firstOutage": "2022-05-22",
+      "lastOutage": "2025-12-30"
+    },
+    {
+      "slug": "choisy-baie-du-cap",
+      "name": "CHOISY - BAIE DU CAP",
+      "district": "savanne",
+      "outageCount": 3,
+      "file": "choisy-baie-du-cap.json",
+      "firstOutage": "2022-08-08",
+      "lastOutage": "2025-07-26"
+    },
+    {
+      "slug": "cinq-arpents",
+      "name": "CINQ ARPENTS",
+      "district": "plainewilhems",
+      "outageCount": 6,
+      "file": "cinq-arpents.json",
+      "firstOutage": "2022-06-05",
+      "lastOutage": "2024-12-30"
+    },
+    {
+      "slug": "circonstance",
+      "name": "CIRCONSTANCE",
+      "district": "moka",
+      "outageCount": 9,
+      "file": "circonstance.json",
+      "firstOutage": "2023-04-13",
+      "lastOutage": "2025-06-29"
+    },
+    {
+      "slug": "cite-anoska",
+      "name": "CITE ANOSKA",
+      "district": "plainewilhems",
+      "outageCount": 1,
+      "file": "cite-anoska.json",
+      "firstOutage": "2023-03-02",
+      "lastOutage": "2023-03-02"
+    },
+    {
+      "slug": "cite-atlee",
+      "name": "CITE ATLEE",
+      "district": "plainewilhems",
+      "outageCount": 3,
+      "file": "cite-atlee.json",
+      "firstOutage": "2022-04-05",
+      "lastOutage": "2025-12-30"
+    },
+    {
+      "slug": "cite-barkly",
+      "name": "CITE BARKLY",
+      "district": "plainewilhems",
+      "outageCount": 2,
+      "file": "cite-barkly.json",
+      "firstOutage": "2024-01-19",
+      "lastOutage": "2024-02-20"
+    },
+    {
+      "slug": "cite-chebel",
+      "name": "CITE CHEBEL",
+      "district": "plainewilhems",
+      "outageCount": 27,
+      "file": "cite-chebel.json",
+      "firstOutage": "2022-03-15",
+      "lastOutage": "2025-10-13"
+    },
+    {
+      "slug": "cite-l-oiseau",
+      "name": "CITE L-OISEAU",
+      "district": "plainewilhems",
+      "outageCount": 3,
+      "file": "cite-l-oiseau.json",
+      "firstOutage": "2022-06-02",
+      "lastOutage": "2025-08-27"
+    },
+    {
+      "slug": "cite-la-brasserie",
+      "name": "CITE LA BRASSERIE",
+      "district": "plainewilhems",
+      "outageCount": 1,
+      "file": "cite-la-brasserie.json",
+      "firstOutage": "2023-10-01",
+      "lastOutage": "2023-10-01"
+    },
+    {
+      "slug": "cite-la-caverne",
+      "name": "CITE LA CAVERNE",
+      "district": "plainewilhems",
+      "outageCount": 3,
+      "file": "cite-la-caverne.json",
+      "firstOutage": "2023-05-18",
+      "lastOutage": "2024-11-18"
+    },
+    {
+      "slug": "cite-la-cure",
+      "name": "CITE LA CURE",
+      "district": "portlouis",
+      "outageCount": 29,
+      "file": "cite-la-cure.json",
+      "firstOutage": "2022-09-03",
+      "lastOutage": "2025-11-25"
+    },
+    {
+      "slug": "cite-malherbes",
+      "name": "CITE MALHERBES",
+      "district": "plainewilhems",
+      "outageCount": 9,
+      "file": "cite-malherbes.json",
+      "firstOutage": "2022-04-12",
+      "lastOutage": "2025-07-20"
+    },
+    {
+      "slug": "cite-richelieu",
+      "name": "CITE RICHELIEU",
+      "district": "blackriver",
+      "outageCount": 7,
+      "file": "cite-richelieu.json",
+      "firstOutage": "2022-04-19",
+      "lastOutage": "2025-08-08"
+    },
+    {
+      "slug": "cite-vallijee",
+      "name": "CITE VALLIJEE",
+      "district": "portlouis",
+      "outageCount": 3,
+      "file": "cite-vallijee.json",
+      "firstOutage": "2022-12-11",
+      "lastOutage": "2025-02-09"
+    },
+    {
+      "slug": "citron-donis",
+      "name": "CITRON DONIS(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 3,
+      "file": "citron-donis.json",
+      "firstOutage": "2024-02-17",
+      "lastOutage": "2025-02-20"
+    },
+    {
+      "slug": "citronelle",
+      "name": "CITRONELLE(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 2,
+      "file": "citronelle.json",
+      "firstOutage": "2024-06-20",
+      "lastOutage": "2025-12-06"
+    },
+    {
+      "slug": "clavet",
+      "name": "CLAVET",
+      "district": "flacq",
+      "outageCount": 2,
+      "file": "clavet.json",
+      "firstOutage": "2024-09-04",
+      "lastOutage": "2024-10-11"
+    },
+    {
+      "slug": "clemencia",
+      "name": "CLEMENCIA",
+      "district": "flacq",
+      "outageCount": 8,
+      "file": "clemencia.json",
+      "firstOutage": "2022-03-17",
+      "lastOutage": "2025-11-24"
+    },
+    {
+      "slug": "closel",
+      "name": "CLOSEL",
+      "district": "plainewilhems",
+      "outageCount": 8,
+      "file": "closel.json",
+      "firstOutage": "2022-12-17",
+      "lastOutage": "2025-03-23"
+    },
+    {
+      "slug": "cluny",
+      "name": "CLUNY",
+      "district": "grandport",
+      "outageCount": 11,
+      "file": "cluny.json",
+      "firstOutage": "2022-05-07",
+      "lastOutage": "2025-10-26"
+    },
+    {
+      "slug": "congomah",
+      "name": "CONGOMAH",
+      "district": "pamplemousses",
+      "outageCount": 19,
+      "file": "congomah.json",
+      "firstOutage": "2022-08-01",
+      "lastOutage": "2025-12-23"
+    },
+    {
+      "slug": "constance",
+      "name": "CONSTANCE",
+      "district": "flacq",
+      "outageCount": 7,
+      "file": "constance.json",
+      "firstOutage": "2022-09-18",
+      "lastOutage": "2025-02-28"
+    },
+    {
+      "slug": "corail-petite-butte",
+      "name": "CORAIL PETITE BUTTE(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 1,
+      "file": "corail-petite-butte.json",
+      "firstOutage": "2023-04-07",
+      "lastOutage": "2023-04-07"
+    },
+    {
+      "slug": "coromandel-rhill",
+      "name": "COROMANDEL - R.HILL",
+      "district": "plainewilhems",
+      "outageCount": 71,
+      "file": "coromandel-rhill.json",
+      "firstOutage": "2022-04-08",
+      "lastOutage": "2025-12-07"
+    },
+    {
+      "slug": "coromondel-ind-zone",
+      "name": "COROMONDEL - IND ZONE",
+      "district": "plainewilhems",
+      "outageCount": 6,
+      "file": "coromondel-ind-zone.json",
+      "firstOutage": "2024-01-14",
+      "lastOutage": "2025-12-08"
+    },
+    {
+      "slug": "cote-d-or",
+      "name": "COTE D-OR",
+      "district": "moka",
+      "outageCount": 24,
+      "file": "cote-d-or.json",
+      "firstOutage": "2022-05-22",
+      "lastOutage": "2025-12-18"
+    },
+    {
+      "slug": "coteau-raffin",
+      "name": "COTEAU RAFFIN",
+      "district": "blackriver",
+      "outageCount": 1,
+      "file": "coteau-raffin.json",
+      "firstOutage": "2025-07-02",
+      "lastOutage": "2025-07-02"
+    },
+    {
+      "slug": "cottage",
+      "name": "COTTAGE",
+      "district": "rivieredurempart",
+      "outageCount": 36,
+      "file": "cottage.json",
+      "firstOutage": "2022-04-07",
+      "lastOutage": "2025-08-19"
+    },
+    {
+      "slug": "creve-coeur",
+      "name": "CREVE COEUR",
+      "district": "pamplemousses",
+      "outageCount": 24,
+      "file": "creve-coeur.json",
+      "firstOutage": "2022-04-02",
+      "lastOutage": "2025-11-20"
+    },
+    {
+      "slug": "curepipe",
+      "name": "CUREPIPE",
+      "district": "plainewilhems",
+      "outageCount": 192,
+      "file": "curepipe.json",
+      "firstOutage": "2022-03-27",
+      "lastOutage": "2025-12-16"
+    },
+    {
+      "slug": "d-epinay",
+      "name": "D-EPINAY",
+      "district": "pamplemousses",
+      "outageCount": 14,
+      "file": "d-epinay.json",
+      "firstOutage": "2022-08-01",
+      "lastOutage": "2025-09-03"
+    },
+    {
+      "slug": "dagotiere",
+      "name": "DAGOTIERE",
+      "district": "moka",
+      "outageCount": 22,
+      "file": "dagotiere.json",
+      "firstOutage": "2022-04-24",
+      "lastOutage": "2025-12-23"
+    },
+    {
+      "slug": "dans-coco",
+      "name": "DANS COCO(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 1,
+      "file": "dans-coco.json",
+      "firstOutage": "2025-11-08",
+      "lastOutage": "2025-11-08"
+    },
+    {
+      "slug": "deep-river-beau-champ",
+      "name": "DEEP RIVER BEAU CHAMP",
+      "district": "flacq",
+      "outageCount": 7,
+      "file": "deep-river-beau-champ.json",
+      "firstOutage": "2022-10-23",
+      "lastOutage": "2024-08-13"
+    },
+    {
+      "slug": "deux-bras-new-grove",
+      "name": "DEUX BRAS- NEW GROVE",
+      "district": "grandport",
+      "outageCount": 11,
+      "file": "deux-bras-new-grove.json",
+      "firstOutage": "2022-09-02",
+      "lastOutage": "2025-03-26"
+    },
+    {
+      "slug": "deux-freres",
+      "name": "DEUX FRERES",
+      "district": "flacq",
+      "outageCount": 8,
+      "file": "deux-freres.json",
+      "firstOutage": "2023-02-15",
+      "lastOutage": "2025-11-20"
+    },
+    {
+      "slug": "dubreuil",
+      "name": "DUBREUIL",
+      "district": "moka",
+      "outageCount": 20,
+      "file": "dubreuil.json",
+      "firstOutage": "2022-08-13",
+      "lastOutage": "2025-12-09"
+    },
+    {
+      "slug": "eau-bleue-tostee",
+      "name": "EAU BLEUE TOSTEE",
+      "district": "grandport",
+      "outageCount": 1,
+      "file": "eau-bleue-tostee.json",
+      "firstOutage": "2023-08-29",
+      "lastOutage": "2023-08-29"
+    },
+    {
+      "slug": "eau-bonne",
+      "name": "EAU BONNE",
+      "district": "blackriver",
+      "outageCount": 1,
+      "file": "eau-bonne.json",
+      "firstOutage": "2023-04-07",
+      "lastOutage": "2023-04-07"
+    },
+    {
+      "slug": "eau-coulee",
+      "name": "EAU COULEE",
+      "district": "plainewilhems",
+      "outageCount": 55,
+      "file": "eau-coulee.json",
+      "firstOutage": "2022-03-23",
+      "lastOutage": "2025-11-22"
+    },
+    {
+      "slug": "eau-vannee",
+      "name": "EAU VANNEE(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 1,
+      "file": "eau-vannee.json",
+      "firstOutage": "2023-07-16",
+      "lastOutage": "2023-07-16"
+    },
+    {
+      "slug": "ebene",
+      "name": "EBENE",
+      "district": "plainewilhems",
+      "outageCount": 21,
+      "file": "ebene.json",
+      "firstOutage": "2022-04-25",
+      "lastOutage": "2025-12-19"
+    },
+    {
+      "slug": "ecroignard",
+      "name": "ECROIGNARD",
+      "district": "flacq",
+      "outageCount": 5,
+      "file": "ecroignard.json",
+      "firstOutage": "2023-05-13",
+      "lastOutage": "2025-10-06"
+    },
+    {
+      "slug": "english-bay",
+      "name": "ENGLISH BAY(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 7,
+      "file": "english-bay.json",
+      "firstOutage": "2022-06-24",
+      "lastOutage": "2025-11-28"
+    },
+    {
+      "slug": "engrais-martial",
+      "name": "ENGRAIS MARTIAL",
+      "district": "plainewilhems",
+      "outageCount": 3,
+      "file": "engrais-martial.json",
+      "firstOutage": "2024-05-09",
+      "lastOutage": "2025-10-25"
+    },
+    {
+      "slug": "ernest-florent",
+      "name": "ERNEST FLORENT",
+      "district": "flacq",
+      "outageCount": 9,
+      "file": "ernest-florent.json",
+      "firstOutage": "2022-03-25",
+      "lastOutage": "2024-08-30"
+    },
+    {
+      "slug": "esperance-piton",
+      "name": "ESPERANCE PITON",
+      "district": "pamplemousses",
+      "outageCount": 6,
+      "file": "esperance-piton.json",
+      "firstOutage": "2022-10-08",
+      "lastOutage": "2025-08-16"
+    },
+    {
+      "slug": "esperance-trebuchet",
+      "name": "ESPERANCE TREBUCHET",
+      "district": "rivieredurempart",
+      "outageCount": 23,
+      "file": "esperance-trebuchet.json",
+      "firstOutage": "2022-03-14",
+      "lastOutage": "2025-12-14"
+    },
+    {
+      "slug": "ferney",
+      "name": "FERNEY",
+      "district": "grandport",
+      "outageCount": 7,
+      "file": "ferney.json",
+      "firstOutage": "2024-09-02",
+      "lastOutage": "2025-12-07"
+    },
+    {
+      "slug": "flic-en-flac",
+      "name": "FLIC-EN-FLAC",
+      "district": "blackriver",
+      "outageCount": 205,
+      "file": "flic-en-flac.json",
+      "firstOutage": "2022-03-16",
+      "lastOutage": "2025-12-22"
+    },
+    {
+      "slug": "floreal",
+      "name": "FLOREAL",
+      "district": "plainewilhems",
+      "outageCount": 75,
+      "file": "floreal.json",
+      "firstOutage": "2022-03-31",
+      "lastOutage": "2025-12-22"
+    },
+    {
+      "slug": "fond-du-sac",
+      "name": "FOND DU SAC",
+      "district": "pamplemousses",
+      "outageCount": 37,
+      "file": "fond-du-sac.json",
+      "firstOutage": "2022-06-16",
+      "lastOutage": "2025-10-31"
+    },
+    {
+      "slug": "fond-la-bonte",
+      "name": "FOND LA BONTE(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 1,
+      "file": "fond-la-bonte.json",
+      "firstOutage": "2024-02-08",
+      "lastOutage": "2024-02-08"
+    },
+    {
+      "slug": "forest-side",
+      "name": "FOREST SIDE",
+      "district": "plainewilhems",
+      "outageCount": 90,
+      "file": "forest-side.json",
+      "firstOutage": "2022-07-03",
+      "lastOutage": "2025-12-14"
+    },
+    {
+      "slug": "fuel-village",
+      "name": "FUEL VILLAGE",
+      "district": "flacq",
+      "outageCount": 7,
+      "file": "fuel-village.json",
+      "firstOutage": "2023-01-21",
+      "lastOutage": "2025-07-04"
+    },
+    {
+      "slug": "gentilly-moka",
+      "name": "GENTILLY- MOKA",
+      "district": "moka",
+      "outageCount": 9,
+      "file": "gentilly-moka.json",
+      "firstOutage": "2023-02-24",
+      "lastOutage": "2025-12-05"
+    },
+    {
+      "slug": "glen-park",
+      "name": "GLEN PARK",
+      "district": "plainewilhems",
+      "outageCount": 36,
+      "file": "glen-park.json",
+      "firstOutage": "2022-04-26",
+      "lastOutage": "2025-07-16"
+    },
+    {
+      "slug": "gokhoolah",
+      "name": "GOKHOOLAH",
+      "district": "rivieredurempart",
+      "outageCount": 6,
+      "file": "gokhoolah.json",
+      "firstOutage": "2023-07-09",
+      "lastOutage": "2025-11-24"
+    },
+    {
+      "slug": "goodlands",
+      "name": "GOODLANDS",
+      "district": "rivieredurempart",
+      "outageCount": 113,
+      "file": "goodlands.json",
+      "firstOutage": "2022-03-27",
+      "lastOutage": "2025-12-15"
+    },
+    {
+      "slug": "grand-bassin",
+      "name": "GRAND BASSIN",
+      "district": "savanne",
+      "outageCount": 3,
+      "file": "grand-bassin.json",
+      "firstOutage": "2022-12-04",
+      "lastOutage": "2024-11-17"
+    },
+    {
+      "slug": "grand-bay",
+      "name": "GRAND BAY",
+      "district": "rivieredurempart",
+      "outageCount": 91,
+      "file": "grand-bay.json",
+      "firstOutage": "2022-03-20",
+      "lastOutage": "2025-12-30"
+    },
+    {
+      "slug": "grand-bel-air",
+      "name": "GRAND BEL AIR",
+      "district": "flacq",
+      "outageCount": 28,
+      "file": "grand-bel-air.json",
+      "firstOutage": "2022-06-14",
+      "lastOutage": "2025-12-30"
+    },
+    {
+      "slug": "grand-bois",
+      "name": "GRAND BOIS",
+      "district": "savanne",
+      "outageCount": 14,
+      "file": "grand-bois.json",
+      "firstOutage": "2022-09-15",
+      "lastOutage": "2025-10-01"
+    },
+    {
+      "slug": "grand-gaube",
+      "name": "GRAND GAUBE",
+      "district": "rivieredurempart",
+      "outageCount": 59,
+      "file": "grand-gaube.json",
+      "firstOutage": "2022-06-11",
+      "lastOutage": "2025-12-23"
+    },
+    {
+      "slug": "grand-la-fouche-corail",
+      "name": "GRAND LA FOUCHE CORAIL(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 2,
+      "file": "grand-la-fouche-corail.json",
+      "firstOutage": "2024-03-22",
+      "lastOutage": "2025-04-07"
+    },
+    {
+      "slug": "grand-river-north-west",
+      "name": "GRAND RIVER NORTH WEST",
+      "district": "blackriver",
+      "outageCount": 9,
+      "file": "grand-river-north-west.json",
+      "firstOutage": "2024-04-29",
+      "lastOutage": "2025-11-06"
+    },
+    {
+      "slug": "grand-sable",
+      "name": "GRAND SABLE",
+      "district": "grandport",
+      "outageCount": 11,
+      "file": "grand-sable.json",
+      "firstOutage": "2022-11-30",
+      "lastOutage": "2025-12-01"
+    },
+    {
+      "slug": "grande-montagne",
+      "name": "GRANDE MONTAGNE(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 3,
+      "file": "grande-montagne.json",
+      "firstOutage": "2022-08-02",
+      "lastOutage": "2024-03-06"
+    },
+    {
+      "slug": "grande-pointe-aux-piments",
+      "name": "GRANDE POINTE AUX PIMENTS",
+      "district": "pamplemousses",
+      "outageCount": 9,
+      "file": "grande-pointe-aux-piments.json",
+      "firstOutage": "2022-04-16",
+      "lastOutage": "2025-06-20"
+    },
+    {
+      "slug": "grande-retraite",
+      "name": "GRANDE RETRAITE",
+      "district": "flacq",
+      "outageCount": 6,
+      "file": "grande-retraite.json",
+      "firstOutage": "2024-02-11",
+      "lastOutage": "2025-10-24"
+    },
+    {
+      "slug": "grande-riviere-sud-est",
+      "name": "GRANDE RIVIERE SUD EST",
+      "district": "flacq",
+      "outageCount": 9,
+      "file": "grande-riviere-sud-est.json",
+      "firstOutage": "2022-09-30",
+      "lastOutage": "2025-03-04"
+    },
+    {
+      "slug": "graviers",
+      "name": "GRAVIERS(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 2,
+      "file": "graviers.json",
+      "firstOutage": "2024-08-24",
+      "lastOutage": "2025-11-22"
+    },
+    {
+      "slug": "gris-gris",
+      "name": "GRIS GRIS",
+      "district": "savanne",
+      "outageCount": 1,
+      "file": "gris-gris.json",
+      "firstOutage": "2025-10-16",
+      "lastOutage": "2025-10-16"
+    },
+    {
+      "slug": "gros-billot",
+      "name": "GROS BILLOT",
+      "district": "grandport",
+      "outageCount": 4,
+      "file": "gros-billot.json",
+      "firstOutage": "2022-04-21",
+      "lastOutage": "2025-03-27"
+    },
+    {
+      "slug": "gros-bois",
+      "name": "GROS BOIS",
+      "district": "grandport",
+      "outageCount": 6,
+      "file": "gros-bois.json",
+      "firstOutage": "2022-03-17",
+      "lastOutage": "2025-07-25"
+    },
+    {
+      "slug": "gros-cailloux",
+      "name": "GROS CAILLOUX",
+      "district": "blackriver",
+      "outageCount": 21,
+      "file": "gros-cailloux.json",
+      "firstOutage": "2022-06-05",
+      "lastOutage": "2025-12-18"
+    },
+    {
+      "slug": "haute-rive",
+      "name": "HAUTE RIVE",
+      "district": "rivieredurempart",
+      "outageCount": 6,
+      "file": "haute-rive.json",
+      "firstOutage": "2022-04-08",
+      "lastOutage": "2024-11-27"
+    },
+    {
+      "slug": "helvetia",
+      "name": "HELVETIA",
+      "district": "moka",
+      "outageCount": 9,
+      "file": "helvetia.json",
+      "firstOutage": "2022-09-03",
+      "lastOutage": "2024-10-04"
+    },
+    {
+      "slug": "henrietta",
+      "name": "HENRIETTA",
+      "district": "plainewilhems",
+      "outageCount": 71,
+      "file": "henrietta.json",
+      "firstOutage": "2022-07-14",
+      "lastOutage": "2025-12-18"
+    },
+    {
+      "slug": "hermitage",
+      "name": "HERMITAGE ( PANCHVATI )",
+      "district": "rivieredurempart",
+      "outageCount": 2,
+      "file": "hermitage.json",
+      "firstOutage": "2023-10-22",
+      "lastOutage": "2024-04-20"
+    },
+    {
+      "slug": "hermitage-phoenix",
+      "name": "HERMITAGE PHOENIX",
+      "district": "plainewilhems",
+      "outageCount": 27,
+      "file": "hermitage-phoenix.json",
+      "firstOutage": "2022-09-10",
+      "lastOutage": "2025-12-26"
+    },
+    {
+      "slug": "highlands",
+      "name": "HIGHLANDS",
+      "district": "plainewilhems",
+      "outageCount": 63,
+      "file": "highlands.json",
+      "firstOutage": "2022-04-13",
+      "lastOutage": "2025-12-11"
+    },
+    {
+      "slug": "hollyrood",
+      "name": "HOLLYROOD",
+      "district": "plainewilhems",
+      "outageCount": 33,
+      "file": "hollyrood.json",
+      "firstOutage": "2022-05-17",
+      "lastOutage": "2025-12-20"
+    },
+    {
+      "slug": "ile-d-ambre",
+      "name": "ILE D-AMBRE",
+      "district": "rivieredurempart",
+      "outageCount": 7,
+      "file": "ile-d-ambre.json",
+      "firstOutage": "2023-05-07",
+      "lastOutage": "2024-12-04"
+    },
+    {
+      "slug": "ilot",
+      "name": "ILOT",
+      "district": "pamplemousses",
+      "outageCount": 14,
+      "file": "ilot.json",
+      "firstOutage": "2022-07-26",
+      "lastOutage": "2025-10-02"
+    },
+    {
+      "slug": "isidore-rose",
+      "name": "ISIDORE ROSE",
+      "district": "flacq",
+      "outageCount": 14,
+      "file": "isidore-rose.json",
+      "firstOutage": "2022-05-09",
+      "lastOutage": "2025-04-07"
+    },
+    {
+      "slug": "khoyratty",
+      "name": "KHOYRATTY",
+      "district": "pamplemousses",
+      "outageCount": 26,
+      "file": "khoyratty.json",
+      "firstOutage": "2022-06-06",
+      "lastOutage": "2025-10-16"
+    },
+    {
+      "slug": "l-assurance",
+      "name": "L-ASSURANCE",
+      "district": "moka",
+      "outageCount": 14,
+      "file": "l-assurance.json",
+      "firstOutage": "2022-05-11",
+      "lastOutage": "2025-12-19"
+    },
+    {
+      "slug": "l-aventure",
+      "name": "L-AVENTURE",
+      "district": "flacq",
+      "outageCount": 17,
+      "file": "l-aventure.json",
+      "firstOutage": "2024-05-15",
+      "lastOutage": "2025-11-08"
+    },
+    {
+      "slug": "l-escalier",
+      "name": "L-ESCALIER",
+      "district": "savanne",
+      "outageCount": 21,
+      "file": "l-escalier.json",
+      "firstOutage": "2022-03-30",
+      "lastOutage": "2025-12-30"
+    },
+    {
+      "slug": "l-esperance-qmilitaire",
+      "name": "L-ESPERANCE Q.MILITAIRE",
+      "district": "moka",
+      "outageCount": 8,
+      "file": "l-esperance-qmilitaire.json",
+      "firstOutage": "2022-06-17",
+      "lastOutage": "2025-08-13"
+    },
+    {
+      "slug": "la-barraque",
+      "name": "LA BARRAQUE",
+      "district": "grandport",
+      "outageCount": 2,
+      "file": "la-barraque.json",
+      "firstOutage": "2023-03-23",
+      "lastOutage": "2024-05-10"
+    },
+    {
+      "slug": "la-brasserie",
+      "name": "LA BRASSERIE",
+      "district": "plainewilhems",
+      "outageCount": 4,
+      "file": "la-brasserie.json",
+      "firstOutage": "2023-11-17",
+      "lastOutage": "2025-02-02"
+    },
+    {
+      "slug": "la-caverne",
+      "name": "LA CAVERNE",
+      "district": "plainewilhems",
+      "outageCount": 25,
+      "file": "la-caverne.json",
+      "firstOutage": "2022-03-22",
+      "lastOutage": "2025-12-22"
+    },
+    {
+      "slug": "la-chaumiere",
+      "name": "LA CHAUMIERE",
+      "district": "plainewilhems",
+      "outageCount": 7,
+      "file": "la-chaumiere.json",
+      "firstOutage": "2022-09-26",
+      "lastOutage": "2025-12-22"
+    },
+    {
+      "slug": "la-ferme",
+      "name": "LA FERME(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 5,
+      "file": "la-ferme.json",
+      "firstOutage": "2023-11-03",
+      "lastOutage": "2025-04-03"
+    },
+    {
+      "slug": "la-ferme-bambous",
+      "name": "LA FERME BAMBOUS",
+      "district": "blackriver",
+      "outageCount": 1,
+      "file": "la-ferme-bambous.json",
+      "firstOutage": "2023-01-29",
+      "lastOutage": "2023-01-29"
+    },
+    {
+      "slug": "la-flora",
+      "name": "LA FLORA",
+      "district": "savanne",
+      "outageCount": 29,
+      "file": "la-flora.json",
+      "firstOutage": "2022-10-09",
+      "lastOutage": "2025-12-14"
+    },
+    {
+      "slug": "la-gaulette",
+      "name": "LA GAULETTE",
+      "district": "blackriver",
+      "outageCount": 12,
+      "file": "la-gaulette.json",
+      "firstOutage": "2022-07-20",
+      "lastOutage": "2025-03-20"
+    },
+    {
+      "slug": "la-laura",
+      "name": "LA LAURA (BEL AIR)",
+      "district": "flacq",
+      "outageCount": 4,
+      "file": "la-laura.json",
+      "firstOutage": "2023-01-04",
+      "lastOutage": "2024-08-01"
+    },
+    {
+      "slug": "la-laura-saint-pierre",
+      "name": "LA LAURA SAINT PIERRE",
+      "district": "moka",
+      "outageCount": 18,
+      "file": "la-laura-saint-pierre.json",
+      "firstOutage": "2022-11-23",
+      "lastOutage": "2025-12-14"
+    },
+    {
+      "slug": "la-louisa",
+      "name": "LA LOUISA",
+      "district": "pamplemousses",
+      "outageCount": 2,
+      "file": "la-louisa.json",
+      "firstOutage": "2023-05-20",
+      "lastOutage": "2023-05-20"
+    },
+    {
+      "slug": "la-marie",
+      "name": "LA MARIE",
+      "district": "plainewilhems",
+      "outageCount": 50,
+      "file": "la-marie.json",
+      "firstOutage": "2022-07-07",
+      "lastOutage": "2025-11-13"
+    },
+    {
+      "slug": "la-mivoie",
+      "name": "LA MIVOIE",
+      "district": "blackriver",
+      "outageCount": 12,
+      "file": "la-mivoie.json",
+      "firstOutage": "2022-03-11",
+      "lastOutage": "2025-12-02"
+    },
+    {
+      "slug": "la-nourrice",
+      "name": "LA NOURRICE",
+      "district": "flacq",
+      "outageCount": 2,
+      "file": "la-nourrice.json",
+      "firstOutage": "2024-12-18",
+      "lastOutage": "2025-08-14"
+    },
+    {
+      "slug": "la-preneuse",
+      "name": "LA PRENEUSE",
+      "district": "blackriver",
+      "outageCount": 26,
+      "file": "la-preneuse.json",
+      "firstOutage": "2022-03-23",
+      "lastOutage": "2025-11-11"
+    },
+    {
+      "slug": "la-rosa",
+      "name": "LA ROSA",
+      "district": "grandport",
+      "outageCount": 8,
+      "file": "la-rosa.json",
+      "firstOutage": "2022-03-21",
+      "lastOutage": "2025-10-12"
+    },
+    {
+      "slug": "la-salette",
+      "name": "LA SALETTE",
+      "district": "rivieredurempart",
+      "outageCount": 1,
+      "file": "la-salette.json",
+      "firstOutage": "2023-06-08",
+      "lastOutage": "2023-06-08"
+    },
+    {
+      "slug": "la-saline",
+      "name": "LA SALINE",
+      "district": "portlouis",
+      "outageCount": 4,
+      "file": "la-saline.json",
+      "firstOutage": "2022-05-02",
+      "lastOutage": "2025-12-24"
+    },
+    {
+      "slug": "la-sourdine",
+      "name": "LA SOURDINE",
+      "district": "grandport",
+      "outageCount": 3,
+      "file": "la-sourdine.json",
+      "firstOutage": "2023-02-13",
+      "lastOutage": "2024-01-19"
+    },
+    {
+      "slug": "labourdonnais",
+      "name": "LABOURDONNAIS",
+      "district": "rivieredurempart",
+      "outageCount": 5,
+      "file": "labourdonnais.json",
+      "firstOutage": "2023-05-21",
+      "lastOutage": "2025-03-23"
+    },
+    {
+      "slug": "lallmatie",
+      "name": "LALLMATIE",
+      "district": "flacq",
+      "outageCount": 25,
+      "file": "lallmatie.json",
+      "firstOutage": "2022-10-04",
+      "lastOutage": "2025-11-22"
+    },
+    {
+      "slug": "lataniers",
+      "name": "LATANIERS(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 2,
+      "file": "lataniers.json",
+      "firstOutage": "2023-11-09",
+      "lastOutage": "2024-03-18"
+    },
+    {
+      "slug": "latapie",
+      "name": "LATAPIE",
+      "district": "flacq",
+      "outageCount": 1,
+      "file": "latapie.json",
+      "firstOutage": "2022-10-04",
+      "lastOutage": "2022-10-04"
+    },
+    {
+      "slug": "le-bouchon",
+      "name": "LE BOUCHON",
+      "district": "grandport",
+      "outageCount": 14,
+      "file": "le-bouchon.json",
+      "firstOutage": "2022-06-28",
+      "lastOutage": "2025-10-02"
+    },
+    {
+      "slug": "le-chaland",
+      "name": "LE CHALAND",
+      "district": "grandport",
+      "outageCount": 4,
+      "file": "le-chaland.json",
+      "firstOutage": "2022-06-02",
+      "lastOutage": "2024-06-08"
+    },
+    {
+      "slug": "le-goulet",
+      "name": "LE GOULET",
+      "district": "pamplemousses",
+      "outageCount": 5,
+      "file": "le-goulet.json",
+      "firstOutage": "2022-07-25",
+      "lastOutage": "2025-07-03"
+    },
+    {
+      "slug": "le-hochet",
+      "name": "LE HOCHET",
+      "district": "portlouis",
+      "outageCount": 24,
+      "file": "le-hochet.json",
+      "firstOutage": "2022-04-18",
+      "lastOutage": "2025-10-09"
+    },
+    {
+      "slug": "le-morne",
+      "name": "LE MORNE",
+      "district": "blackriver",
+      "outageCount": 11,
+      "file": "le-morne.json",
+      "firstOutage": "2022-05-25",
+      "lastOutage": "2025-12-13"
+    },
+    {
+      "slug": "les-casernrs-curepipe",
+      "name": "LES CASERNRS CUREPIPE",
+      "district": "plainewilhems",
+      "outageCount": 2,
+      "file": "les-casernrs-curepipe.json",
+      "firstOutage": "2023-02-06",
+      "lastOutage": "2023-10-01"
+    },
+    {
+      "slug": "les-mariannes",
+      "name": "LES MARIANNES",
+      "district": "pamplemousses",
+      "outageCount": 2,
+      "file": "les-mariannes.json",
+      "firstOutage": "2022-08-01",
+      "lastOutage": "2024-05-29"
+    },
+    {
+      "slug": "lesur",
+      "name": "LESUR",
+      "district": "plainewilhems",
+      "outageCount": 5,
+      "file": "lesur.json",
+      "firstOutage": "2022-04-12",
+      "lastOutage": "2024-12-05"
+    },
+    {
+      "slug": "ligne-berthaud",
+      "name": "LIGNE BERTHAUD",
+      "district": "plainewilhems",
+      "outageCount": 1,
+      "file": "ligne-berthaud.json",
+      "firstOutage": "2025-03-07",
+      "lastOutage": "2025-03-07"
+    },
+    {
+      "slug": "long-mountain",
+      "name": "LONG MOUNTAIN",
+      "district": "pamplemousses",
+      "outageCount": 26,
+      "file": "long-mountain.json",
+      "firstOutage": "2022-05-26",
+      "lastOutage": "2025-04-14"
+    },
+    {
+      "slug": "lower-vale",
+      "name": "LOWER VALE",
+      "district": "rivieredurempart",
+      "outageCount": 13,
+      "file": "lower-vale.json",
+      "firstOutage": "2022-08-18",
+      "lastOutage": "2025-12-12"
+    },
+    {
+      "slug": "mahebourg",
+      "name": "MAHEBOURG",
+      "district": "grandport",
+      "outageCount": 68,
+      "file": "mahebourg.json",
+      "firstOutage": "2022-04-07",
+      "lastOutage": "2025-12-12"
+    },
+    {
+      "slug": "malabar",
+      "name": "MALABAR(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 3,
+      "file": "malabar.json",
+      "firstOutage": "2025-02-15",
+      "lastOutage": "2025-02-25"
+    },
+    {
+      "slug": "malakoff",
+      "name": "MALAKOFF",
+      "district": "portlouis",
+      "outageCount": 2,
+      "file": "malakoff.json",
+      "firstOutage": "2024-07-26",
+      "lastOutage": "2025-03-26"
+    },
+    {
+      "slug": "malinga",
+      "name": "MALINGA",
+      "district": "moka",
+      "outageCount": 1,
+      "file": "malinga.json",
+      "firstOutage": "2025-04-14",
+      "lastOutage": "2025-04-14"
+    },
+    {
+      "slug": "mangues",
+      "name": "MANGUES(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 3,
+      "file": "mangues.json",
+      "firstOutage": "2025-03-20",
+      "lastOutage": "2025-03-29"
+    },
+    {
+      "slug": "mapou",
+      "name": "MAPOU",
+      "district": "rivieredurempart",
+      "outageCount": 11,
+      "file": "mapou.json",
+      "firstOutage": "2022-05-22",
+      "lastOutage": "2025-02-05"
+    },
+    {
+      "slug": "mapou-leclezio",
+      "name": "MAPOU LECLEZIO",
+      "district": "rivieredurempart",
+      "outageCount": 2,
+      "file": "mapou-leclezio.json",
+      "firstOutage": "2023-02-09",
+      "lastOutage": "2024-11-30"
+    },
+    {
+      "slug": "mare-aux-vacoas",
+      "name": "MARE AUX VACOAS",
+      "district": "plainewilhems",
+      "outageCount": 1,
+      "file": "mare-aux-vacoas.json",
+      "firstOutage": "2025-12-17",
+      "lastOutage": "2025-12-17"
+    },
+    {
+      "slug": "mare-d-albert",
+      "name": "MARE D-ALBERT",
+      "district": "grandport",
+      "outageCount": 23,
+      "file": "mare-d-albert.json",
+      "firstOutage": "2022-03-31",
+      "lastOutage": "2025-12-12"
+    },
+    {
+      "slug": "mare-gravier",
+      "name": "MARE GRAVIER",
+      "district": "plainewilhems",
+      "outageCount": 4,
+      "file": "mare-gravier.json",
+      "firstOutage": "2022-12-09",
+      "lastOutage": "2024-10-21"
+    },
+    {
+      "slug": "mare-la-chaux",
+      "name": "MARE LA CHAUX",
+      "district": "flacq",
+      "outageCount": 2,
+      "file": "mare-la-chaux.json",
+      "firstOutage": "2023-08-14",
+      "lastOutage": "2024-01-06"
+    },
+    {
+      "slug": "mare-longue",
+      "name": "MARE LONGUE",
+      "district": "plainewilhems",
+      "outageCount": 8,
+      "file": "mare-longue.json",
+      "firstOutage": "2022-08-27",
+      "lastOutage": "2025-09-02"
+    },
+    {
+      "slug": "mare-tabac",
+      "name": "MARE TABAC",
+      "district": "grandport",
+      "outageCount": 20,
+      "file": "mare-tabac.json",
+      "firstOutage": "2022-04-28",
+      "lastOutage": "2025-12-19"
+    },
+    {
+      "slug": "marechal",
+      "name": "MARECHAL(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 1,
+      "file": "marechal.json",
+      "firstOutage": "2024-03-28",
+      "lastOutage": "2024-03-28"
+    },
+    {
+      "slug": "marie-jeannie",
+      "name": "MARIE JEANNIE",
+      "district": "grandport",
+      "outageCount": 1,
+      "file": "marie-jeannie.json",
+      "firstOutage": "2025-11-26",
+      "lastOutage": "2025-11-26"
+    },
+    {
+      "slug": "medine-bambous",
+      "name": "MEDINE BAMBOUS",
+      "district": "blackriver",
+      "outageCount": 11,
+      "file": "medine-bambous.json",
+      "firstOutage": "2022-04-12",
+      "lastOutage": "2025-12-03"
+    },
+    {
+      "slug": "medine-camp-de-masque",
+      "name": "MEDINE CAMP DE MASQUE",
+      "district": "flacq",
+      "outageCount": 13,
+      "file": "medine-camp-de-masque.json",
+      "firstOutage": "2022-12-11",
+      "lastOutage": "2025-08-19"
+    },
+    {
+      "slug": "melrose",
+      "name": "MELROSE",
+      "district": "moka",
+      "outageCount": 17,
+      "file": "melrose.json",
+      "firstOutage": "2022-05-27",
+      "lastOutage": "2025-12-17"
+    },
+    {
+      "slug": "melviile",
+      "name": "MELVIILE",
+      "district": "rivieredurempart",
+      "outageCount": 11,
+      "file": "melviile.json",
+      "firstOutage": "2022-08-26",
+      "lastOutage": "2025-12-29"
+    },
+    {
+      "slug": "mer-rouge",
+      "name": "MER ROUGE",
+      "district": "portlouis",
+      "outageCount": 7,
+      "file": "mer-rouge.json",
+      "firstOutage": "2024-10-20",
+      "lastOutage": "2025-12-21"
+    },
+    {
+      "slug": "mesnil",
+      "name": "MESNIL",
+      "district": "plainewilhems",
+      "outageCount": 7,
+      "file": "mesnil.json",
+      "firstOutage": "2022-08-10",
+      "lastOutage": "2025-11-16"
+    },
+    {
+      "slug": "midlands",
+      "name": "MIDLANDS",
+      "district": "plainewilhems",
+      "outageCount": 23,
+      "file": "midlands.json",
+      "firstOutage": "2022-06-10",
+      "lastOutage": "2025-11-30"
+    },
+    {
+      "slug": "mlle-jeanne",
+      "name": "MLLE JEANNE",
+      "district": "rivieredurempart",
+      "outageCount": 1,
+      "file": "mlle-jeanne.json",
+      "firstOutage": "2025-08-13",
+      "lastOutage": "2025-08-13"
+    },
+    {
+      "slug": "mlle-laure",
+      "name": "MLLE LAURE",
+      "district": "portlouis",
+      "outageCount": 7,
+      "file": "mlle-laure.json",
+      "firstOutage": "2022-11-26",
+      "lastOutage": "2025-11-22"
+    },
+    {
+      "slug": "mme-azor",
+      "name": "MME AZOR",
+      "district": "rivieredurempart",
+      "outageCount": 3,
+      "file": "mme-azor.json",
+      "firstOutage": "2022-05-20",
+      "lastOutage": "2023-05-05"
+    },
+    {
+      "slug": "moka",
+      "name": "MOKA",
+      "district": "moka",
+      "outageCount": 59,
+      "file": "moka.json",
+      "firstOutage": "2022-06-13",
+      "lastOutage": "2025-12-20"
+    },
+    {
+      "slug": "mon-choisy",
+      "name": "MON CHOISY",
+      "district": "pamplemousses",
+      "outageCount": 29,
+      "file": "mon-choisy.json",
+      "firstOutage": "2022-05-21",
+      "lastOutage": "2025-12-22"
+    },
+    {
+      "slug": "mon-desert-mon-tresor",
+      "name": "MON DESERT MON TRESOR",
+      "district": "grandport",
+      "outageCount": 1,
+      "file": "mon-desert-mon-tresor.json",
+      "firstOutage": "2024-03-17",
+      "lastOutage": "2024-03-17"
+    },
+    {
+      "slug": "mon-gout",
+      "name": "MON GOUT",
+      "district": "pamplemousses",
+      "outageCount": 12,
+      "file": "mon-gout.json",
+      "firstOutage": "2022-06-08",
+      "lastOutage": "2025-12-22"
+    },
+    {
+      "slug": "mon-loisir",
+      "name": "MON LOISIR",
+      "district": "rivieredurempart",
+      "outageCount": 7,
+      "file": "mon-loisir.json",
+      "firstOutage": "2022-12-04",
+      "lastOutage": "2024-09-28"
+    },
+    {
+      "slug": "mon-songe",
+      "name": "MON SONGE",
+      "district": "rivieredurempart",
+      "outageCount": 2,
+      "file": "mon-songe.json",
+      "firstOutage": "2022-03-25",
+      "lastOutage": "2023-04-06"
+    },
+    {
+      "slug": "mont-blanc",
+      "name": "MONT BLANC",
+      "district": "plainewilhems",
+      "outageCount": 5,
+      "file": "mont-blanc.json",
+      "firstOutage": "2022-10-14",
+      "lastOutage": "2025-10-09"
+    },
+    {
+      "slug": "mont-fertille",
+      "name": "MONT FERTILLE",
+      "district": "grandport",
+      "outageCount": 2,
+      "file": "mont-fertille.json",
+      "firstOutage": "2025-03-06",
+      "lastOutage": "2025-10-28"
+    },
+    {
+      "slug": "mont-ida",
+      "name": "MONT IDA",
+      "district": "flacq",
+      "outageCount": 11,
+      "file": "mont-ida.json",
+      "firstOutage": "2022-10-17",
+      "lastOutage": "2025-10-14"
+    },
+    {
+      "slug": "mont-piton",
+      "name": "MONT PITON",
+      "district": "pamplemousses",
+      "outageCount": 3,
+      "file": "mont-piton.json",
+      "firstOutage": "2023-05-08",
+      "lastOutage": "2023-12-21"
+    },
+    {
+      "slug": "mont-roches",
+      "name": "MONT ROCHES",
+      "district": "plainewilhems",
+      "outageCount": 18,
+      "file": "mont-roches.json",
+      "firstOutage": "2022-05-08",
+      "lastOutage": "2025-08-19"
+    },
+    {
+      "slug": "mont-simonet",
+      "name": "MONT  SIMONET",
+      "district": "blackriver",
+      "outageCount": 2,
+      "file": "mont-simonet.json",
+      "firstOutage": "2022-05-07",
+      "lastOutage": "2023-03-27"
+    },
+    {
+      "slug": "montagne-blanche",
+      "name": "MONTAGNE BLANCHE",
+      "district": "moka",
+      "outageCount": 41,
+      "file": "montagne-blanche.json",
+      "firstOutage": "2022-03-23",
+      "lastOutage": "2025-09-17"
+    },
+    {
+      "slug": "montagne-cabris-est",
+      "name": "MONTAGNE CABRIS EST(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 1,
+      "file": "montagne-cabris-est.json",
+      "firstOutage": "2023-08-24",
+      "lastOutage": "2023-08-24"
+    },
+    {
+      "slug": "montagne-charlot",
+      "name": "MONTAGNE CHARLOT(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 1,
+      "file": "montagne-charlot.json",
+      "firstOutage": "2024-03-05",
+      "lastOutage": "2024-03-05"
+    },
+    {
+      "slug": "montagne-fanal",
+      "name": "MONTAGNE FANAL(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 1,
+      "file": "montagne-fanal.json",
+      "firstOutage": "2024-03-16",
+      "lastOutage": "2024-03-16"
+    },
+    {
+      "slug": "montagne-ory",
+      "name": "MONTAGNE ORY",
+      "district": "moka",
+      "outageCount": 11,
+      "file": "montagne-ory.json",
+      "firstOutage": "2023-01-14",
+      "lastOutage": "2025-02-09"
+    },
+    {
+      "slug": "montebello",
+      "name": "MONTEBELLO",
+      "district": "moka",
+      "outageCount": 4,
+      "file": "montebello.json",
+      "firstOutage": "2023-03-26",
+      "lastOutage": "2023-12-10"
+    },
+    {
+      "slug": "morc-raffray-guibies",
+      "name": "MORC RAFFRAY GUIBIES",
+      "district": "portlouis",
+      "outageCount": 12,
+      "file": "morc-raffray-guibies.json",
+      "firstOutage": "2023-09-19",
+      "lastOutage": "2025-12-13"
+    },
+    {
+      "slug": "morc-raffray-le-hochet",
+      "name": "MORC RAFFRAY LE HOCHET",
+      "district": "portlouis",
+      "outageCount": 1,
+      "file": "morc-raffray-le-hochet.json",
+      "firstOutage": "2025-01-14",
+      "lastOutage": "2025-01-14"
+    },
+    {
+      "slug": "morc-saint-andre",
+      "name": "MORC SAINT ANDRE",
+      "district": "pamplemousses",
+      "outageCount": 39,
+      "file": "morc-saint-andre.json",
+      "firstOutage": "2022-04-12",
+      "lastOutage": "2025-12-10"
+    },
+    {
+      "slug": "mount",
+      "name": "MOUNT",
+      "district": "pamplemousses",
+      "outageCount": 6,
+      "file": "mount.json",
+      "firstOutage": "2022-10-14",
+      "lastOutage": "2025-12-11"
+    },
+    {
+      "slug": "mourouk",
+      "name": "MOUROUK(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 6,
+      "file": "mourouk.json",
+      "firstOutage": "2023-05-06",
+      "lastOutage": "2025-04-04"
+    },
+    {
+      "slug": "mtlubin",
+      "name": "MT.LUBIN(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 2,
+      "file": "mtlubin.json",
+      "firstOutage": "2024-06-20",
+      "lastOutage": "2025-09-13"
+    },
+    {
+      "slug": "new-grove",
+      "name": "NEW GROVE",
+      "district": "grandport",
+      "outageCount": 25,
+      "file": "new-grove.json",
+      "firstOutage": "2022-05-12",
+      "lastOutage": "2025-12-23"
+    },
+    {
+      "slug": "notre-dame",
+      "name": "NOTRE DAME",
+      "district": "pamplemousses",
+      "outageCount": 33,
+      "file": "notre-dame.json",
+      "firstOutage": "2022-03-20",
+      "lastOutage": "2025-12-10"
+    },
+    {
+      "slug": "nouvelle-decouverte",
+      "name": "NOUVELLE DECOUVERTE",
+      "district": "moka",
+      "outageCount": 24,
+      "file": "nouvelle-decouverte.json",
+      "firstOutage": "2022-12-13",
+      "lastOutage": "2025-12-02"
+    },
+    {
+      "slug": "nouvelle-france",
+      "name": "NOUVELLE FRANCE",
+      "district": "grandport",
+      "outageCount": 30,
+      "file": "nouvelle-france.json",
+      "firstOutage": "2022-05-12",
+      "lastOutage": "2025-11-13"
+    },
+    {
+      "slug": "olivia",
+      "name": "OLIVIA",
+      "district": "flacq",
+      "outageCount": 19,
+      "file": "olivia.json",
+      "firstOutage": "2023-06-17",
+      "lastOutage": "2025-11-18"
+    },
+    {
+      "slug": "oyster-bay",
+      "name": "OYSTER BAY(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 1,
+      "file": "oyster-bay.json",
+      "firstOutage": "2024-01-19",
+      "lastOutage": "2024-01-19"
+    },
+    {
+      "slug": "pailles",
+      "name": "PAILLES",
+      "district": "portlouis",
+      "outageCount": 65,
+      "file": "pailles.json",
+      "firstOutage": "2022-03-13",
+      "lastOutage": "2025-12-11"
+    },
+    {
+      "slug": "paillotte",
+      "name": "PAILLOTTE",
+      "district": "plainewilhems",
+      "outageCount": 9,
+      "file": "paillotte.json",
+      "firstOutage": "2023-11-22",
+      "lastOutage": "2025-11-06"
+    },
+    {
+      "slug": "palma",
+      "name": "PALMA",
+      "district": "plainewilhems",
+      "outageCount": 52,
+      "file": "palma.json",
+      "firstOutage": "2022-04-12",
+      "lastOutage": "2025-11-03"
+    },
+    {
+      "slug": "palmar",
+      "name": "PALMAR",
+      "district": "flacq",
+      "outageCount": 15,
+      "file": "palmar.json",
+      "firstOutage": "2022-10-21",
+      "lastOutage": "2025-10-16"
+    },
+    {
+      "slug": "pamplemousses",
+      "name": "PAMPLEMOUSSES",
+      "district": "pamplemousses",
+      "outageCount": 53,
+      "file": "pamplemousses.json",
+      "firstOutage": "2022-05-08",
+      "lastOutage": "2025-10-07"
+    },
+    {
+      "slug": "patate-theophille",
+      "name": "PATATE THEOPHILLE(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 4,
+      "file": "patate-theophille.json",
+      "firstOutage": "2023-05-23",
+      "lastOutage": "2025-02-22"
+    },
+    {
+      "slug": "pavillon",
+      "name": "PAVILLON",
+      "district": "plainewilhems",
+      "outageCount": 21,
+      "file": "pavillon.json",
+      "firstOutage": "2022-04-06",
+      "lastOutage": "2025-09-11"
+    },
+    {
+      "slug": "pellegrin-sebastopol",
+      "name": "PELLEGRIN SEBASTOPOL",
+      "district": "flacq",
+      "outageCount": 3,
+      "file": "pellegrin-sebastopol.json",
+      "firstOutage": "2022-05-15",
+      "lastOutage": "2025-12-17"
+    },
+    {
+      "slug": "pereybere",
+      "name": "PEREYBERE",
+      "district": "rivieredurempart",
+      "outageCount": 87,
+      "file": "pereybere.json",
+      "firstOutage": "2022-03-25",
+      "lastOutage": "2025-12-10"
+    },
+    {
+      "slug": "petit-bel-air",
+      "name": "PETIT BEL AIR",
+      "district": "grandport",
+      "outageCount": 6,
+      "file": "petit-bel-air.json",
+      "firstOutage": "2022-08-12",
+      "lastOutage": "2024-10-28"
+    },
+    {
+      "slug": "petit-bois",
+      "name": "PETIT BOIS",
+      "district": "flacq",
+      "outageCount": 4,
+      "file": "petit-bois.json",
+      "firstOutage": "2023-05-06",
+      "lastOutage": "2024-07-25"
+    },
+    {
+      "slug": "petit-camp",
+      "name": "PETIT CAMP",
+      "district": "plainewilhems",
+      "outageCount": 22,
+      "file": "petit-camp.json",
+      "firstOutage": "2022-04-12",
+      "lastOutage": "2025-12-14"
+    },
+    {
+      "slug": "petit-gabriel",
+      "name": "PETIT GABRIEL(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 1,
+      "file": "petit-gabriel.json",
+      "firstOutage": "2024-02-29",
+      "lastOutage": "2024-02-29"
+    },
+    {
+      "slug": "petit-paquet",
+      "name": "PETIT PAQUET",
+      "district": "flacq",
+      "outageCount": 12,
+      "file": "petit-paquet.json",
+      "firstOutage": "2022-05-15",
+      "lastOutage": "2025-12-17"
+    },
+    {
+      "slug": "petit-raffray",
+      "name": "PETIT RAFFRAY",
+      "district": "rivieredurempart",
+      "outageCount": 70,
+      "file": "petit-raffray.json",
+      "firstOutage": "2022-03-25",
+      "lastOutage": "2025-12-15"
+    },
+    {
+      "slug": "petit-sable",
+      "name": "PETIT SABLE",
+      "district": "grandport",
+      "outageCount": 11,
+      "file": "petit-sable.json",
+      "firstOutage": "2022-08-11",
+      "lastOutage": "2025-12-14"
+    },
+    {
+      "slug": "petit-verger-p-aux-sables",
+      "name": "PETIT VERGER P AUX SABLES",
+      "district": "portlouis",
+      "outageCount": 11,
+      "file": "petit-verger-p-aux-sables.json",
+      "firstOutage": "2022-04-12",
+      "lastOutage": "2025-06-28"
+    },
+    {
+      "slug": "petit-verger-saint-pierre",
+      "name": "PETIT VERGER SAINT PIERRE",
+      "district": "moka",
+      "outageCount": 11,
+      "file": "petit-verger-saint-pierre.json",
+      "firstOutage": "2022-07-07",
+      "lastOutage": "2024-11-01"
+    },
+    {
+      "slug": "petite-julie",
+      "name": "PETITE JULIE",
+      "district": "pamplemousses",
+      "outageCount": 8,
+      "file": "petite-julie.json",
+      "firstOutage": "2022-07-23",
+      "lastOutage": "2025-12-23"
+    },
+    {
+      "slug": "petite-pointe-aux-piments",
+      "name": "PETITE POINTE AUX PIMENTS",
+      "district": "pamplemousses",
+      "outageCount": 9,
+      "file": "petite-pointe-aux-piments.json",
+      "firstOutage": "2022-03-13",
+      "lastOutage": "2025-08-27"
+    },
+    {
+      "slug": "petite-retraite",
+      "name": "PETITE RETRAITE",
+      "district": "flacq",
+      "outageCount": 8,
+      "file": "petite-retraite.json",
+      "firstOutage": "2022-10-28",
+      "lastOutage": "2025-12-14"
+    },
+    {
+      "slug": "petite-riviere",
+      "name": "PETITE RIVIERE",
+      "district": "blackriver",
+      "outageCount": 76,
+      "file": "petite-riviere.json",
+      "firstOutage": "2022-05-28",
+      "lastOutage": "2025-12-11"
+    },
+    {
+      "slug": "petite-riviere-noire",
+      "name": "PETITE RIVIERE NOIRE",
+      "district": "plainewilhems",
+      "outageCount": 2,
+      "file": "petite-riviere-noire.json",
+      "firstOutage": "2022-09-23",
+      "lastOutage": "2024-03-05"
+    },
+    {
+      "slug": "phoenix",
+      "name": "PHOENIX",
+      "district": "plainewilhems",
+      "outageCount": 92,
+      "file": "phoenix.json",
+      "firstOutage": "2022-03-20",
+      "lastOutage": "2025-11-05"
+    },
+    {
+      "slug": "pierrefonds",
+      "name": "PIERREFONDS",
+      "district": "plainewilhems",
+      "outageCount": 3,
+      "file": "pierrefonds.json",
+      "firstOutage": "2025-08-07",
+      "lastOutage": "2025-12-17"
+    },
+    {
+      "slug": "piments",
+      "name": "PIMENTS(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 2,
+      "file": "piments.json",
+      "firstOutage": "2024-03-23",
+      "lastOutage": "2025-03-07"
+    },
+    {
+      "slug": "plaine-chanpagne",
+      "name": "PLAINE CHANPAGNE",
+      "district": "blackriver",
+      "outageCount": 4,
+      "file": "plaine-chanpagne.json",
+      "firstOutage": "2022-06-23",
+      "lastOutage": "2025-07-02"
+    },
+    {
+      "slug": "plaine-corail",
+      "name": "PLAINE CORAIL(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 3,
+      "file": "plaine-corail.json",
+      "firstOutage": "2025-03-22",
+      "lastOutage": "2025-07-11"
+    },
+    {
+      "slug": "plaine-de-gersigny",
+      "name": "PLAINE DE GERSIGNY",
+      "district": "flacq",
+      "outageCount": 4,
+      "file": "plaine-de-gersigny.json",
+      "firstOutage": "2024-10-09",
+      "lastOutage": "2025-10-15"
+    },
+    {
+      "slug": "plaine-des-papayes",
+      "name": "PLAINE DES PAPAYES",
+      "district": "pamplemousses",
+      "outageCount": 33,
+      "file": "plaine-des-papayes.json",
+      "firstOutage": "2022-05-22",
+      "lastOutage": "2025-12-29"
+    },
+    {
+      "slug": "plaine-des-roches",
+      "name": "PLAINE DES ROCHES",
+      "district": "rivieredurempart",
+      "outageCount": 27,
+      "file": "plaine-des-roches.json",
+      "firstOutage": "2022-04-24",
+      "lastOutage": "2025-12-25"
+    },
+    {
+      "slug": "plaine-lauzun",
+      "name": "PLAINE LAUZUN",
+      "district": "portlouis",
+      "outageCount": 6,
+      "file": "plaine-lauzun.json",
+      "firstOutage": "2022-04-13",
+      "lastOutage": "2024-06-16"
+    },
+    {
+      "slug": "plaine-magnien",
+      "name": "PLAINE MAGNIEN",
+      "district": "grandport",
+      "outageCount": 50,
+      "file": "plaine-magnien.json",
+      "firstOutage": "2022-06-08",
+      "lastOutage": "2025-12-19"
+    },
+    {
+      "slug": "plaine-verte",
+      "name": "PLAINE VERTE",
+      "district": "portlouis",
+      "outageCount": 20,
+      "file": "plaine-verte.json",
+      "firstOutage": "2022-12-21",
+      "lastOutage": "2025-08-20"
+    },
+    {
+      "slug": "plaisance-rose-hill",
+      "name": "PLAISANCE ROSE HILL",
+      "district": "plainewilhems",
+      "outageCount": 5,
+      "file": "plaisance-rose-hill.json",
+      "firstOutage": "2022-07-13",
+      "lastOutage": "2024-03-05"
+    },
+    {
+      "slug": "plein-bois",
+      "name": "PLEIN BOIS",
+      "district": "grandport",
+      "outageCount": 3,
+      "file": "plein-bois.json",
+      "firstOutage": "2023-11-23",
+      "lastOutage": "2024-07-26"
+    },
+    {
+      "slug": "pointe-aux-canonniers",
+      "name": "POINTE AUX CANONNIERS",
+      "district": "rivieredurempart",
+      "outageCount": 45,
+      "file": "pointe-aux-canonniers.json",
+      "firstOutage": "2022-04-15",
+      "lastOutage": "2025-12-25"
+    },
+    {
+      "slug": "pointe-aux-feuilles",
+      "name": "POINTE AUX FEUILLES",
+      "district": "flacq",
+      "outageCount": 4,
+      "file": "pointe-aux-feuilles.json",
+      "firstOutage": "2023-02-08",
+      "lastOutage": "2025-09-19"
+    },
+    {
+      "slug": "pointe-aux-piments",
+      "name": "POINTE AUX PIMENTS",
+      "district": "pamplemousses",
+      "outageCount": 1,
+      "file": "pointe-aux-piments.json",
+      "firstOutage": "1970-01-01",
+      "lastOutage": "1970-01-01"
+    },
+    {
+      "slug": "pointe-aux-sables",
+      "name": "POINTE AUX SABLES",
+      "district": "portlouis",
+      "outageCount": 124,
+      "file": "pointe-aux-sables.json",
+      "firstOutage": "2022-03-30",
+      "lastOutage": "2025-12-17"
+    },
+    {
+      "slug": "pointe-d-esny",
+      "name": "POINTE D-ESNY",
+      "district": "grandport",
+      "outageCount": 6,
+      "file": "pointe-d-esny.json",
+      "firstOutage": "2022-05-12",
+      "lastOutage": "2025-03-27"
+    },
+    {
+      "slug": "pointe-de-flacq",
+      "name": "POINTE DE FLACQ",
+      "district": "flacq",
+      "outageCount": 5,
+      "file": "pointe-de-flacq.json",
+      "firstOutage": "2023-04-03",
+      "lastOutage": "2025-09-01"
+    },
+    {
+      "slug": "pointe-des-lascars",
+      "name": "POINTE DES LASCARS",
+      "district": "rivieredurempart",
+      "outageCount": 9,
+      "file": "pointe-des-lascars.json",
+      "firstOutage": "2022-07-06",
+      "lastOutage": "2024-03-22"
+    },
+    {
+      "slug": "pompee",
+      "name": "POMPEE(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 9,
+      "file": "pompee.json",
+      "firstOutage": "2022-05-14",
+      "lastOutage": "2025-12-19"
+    },
+    {
+      "slug": "pomponette",
+      "name": "POMPONETTE",
+      "district": "savanne",
+      "outageCount": 2,
+      "file": "pomponette.json",
+      "firstOutage": "2023-03-08",
+      "lastOutage": "2025-07-19"
+    },
+    {
+      "slug": "pont-blanc",
+      "name": "PONT BLANC",
+      "district": "flacq",
+      "outageCount": 8,
+      "file": "pont-blanc.json",
+      "firstOutage": "2024-03-14",
+      "lastOutage": "2024-12-15"
+    },
+    {
+      "slug": "pont-lardier",
+      "name": "PONT LARDIER",
+      "district": "flacq",
+      "outageCount": 5,
+      "file": "pont-lardier.json",
+      "firstOutage": "2023-10-31",
+      "lastOutage": "2025-01-31"
+    },
+    {
+      "slug": "pont-praslin",
+      "name": "PONT PRASLIN",
+      "district": "pamplemousses",
+      "outageCount": 1,
+      "file": "pont-praslin.json",
+      "firstOutage": "2024-01-11",
+      "lastOutage": "2024-01-11"
+    },
+    {
+      "slug": "port-louis",
+      "name": "PORT-LOUIS",
+      "district": "portlouis",
+      "outageCount": 99,
+      "file": "port-louis.json",
+      "firstOutage": "2022-03-21",
+      "lastOutage": "2025-12-14"
+    },
+    {
+      "slug": "port-mathurin",
+      "name": "PORT MATHURIN(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 8,
+      "file": "port-mathurin.json",
+      "firstOutage": "2022-04-13",
+      "lastOutage": "2025-01-27"
+    },
+    {
+      "slug": "poste-de-flacq",
+      "name": "POSTE DE FLACQ",
+      "district": "flacq",
+      "outageCount": 32,
+      "file": "poste-de-flacq.json",
+      "firstOutage": "2022-06-12",
+      "lastOutage": "2025-12-09"
+    },
+    {
+      "slug": "poste-lafayette",
+      "name": "POSTE LAFAYETTE",
+      "district": "flacq",
+      "outageCount": 34,
+      "file": "poste-lafayette.json",
+      "firstOutage": "2022-03-24",
+      "lastOutage": "2025-12-15"
+    },
+    {
+      "slug": "powder-mill",
+      "name": "POWDER MILL",
+      "district": "pamplemousses",
+      "outageCount": 3,
+      "file": "powder-mill.json",
+      "firstOutage": "2024-10-03",
+      "lastOutage": "2025-09-02"
+    },
+    {
+      "slug": "providence-bois-des-amourettes",
+      "name": "PROVIDENCE BOIS DES AMOURETTES",
+      "district": "grandport",
+      "outageCount": 2,
+      "file": "providence-bois-des-amourettes.json",
+      "firstOutage": "2022-03-20",
+      "lastOutage": "2023-10-03"
+    },
+    {
+      "slug": "providence-la-porte",
+      "name": "PROVIDENCE LA PORTE",
+      "district": "flacq",
+      "outageCount": 2,
+      "file": "providence-la-porte.json",
+      "firstOutage": "2022-04-05",
+      "lastOutage": "2023-11-05"
+    },
+    {
+      "slug": "providence-quartier-militaire",
+      "name": "PROVIDENCE QUARTIER MILITAIRE",
+      "district": "moka",
+      "outageCount": 12,
+      "file": "providence-quartier-militaire.json",
+      "firstOutage": "2022-09-18",
+      "lastOutage": "2025-12-02"
+    },
+    {
+      "slug": "quartier-militaire",
+      "name": "QUARTIER MILITAIRE",
+      "district": "moka",
+      "outageCount": 42,
+      "file": "quartier-militaire.json",
+      "firstOutage": "2022-03-21",
+      "lastOutage": "2025-10-07"
+    },
+    {
+      "slug": "quatre-bornes",
+      "name": "QUATRE-BORNES",
+      "district": "plainewilhems",
+      "outageCount": 334,
+      "file": "quatre-bornes.json",
+      "firstOutage": "2022-04-01",
+      "lastOutage": "2025-12-30"
+    },
+    {
+      "slug": "quatre-carreaux",
+      "name": "QUATRE CARREAUX",
+      "district": "plainewilhems",
+      "outageCount": 1,
+      "file": "quatre-carreaux.json",
+      "firstOutage": "2023-10-19",
+      "lastOutage": "2023-10-19"
+    },
+    {
+      "slug": "quatre-cocos",
+      "name": "QUATRE COCOS",
+      "district": "flacq",
+      "outageCount": 18,
+      "file": "quatre-cocos.json",
+      "firstOutage": "2022-05-20",
+      "lastOutage": "2025-07-08"
+    },
+    {
+      "slug": "quatre-soeurs",
+      "name": "QUATRE SOEURS",
+      "district": "flacq",
+      "outageCount": 7,
+      "file": "quatre-soeurs.json",
+      "firstOutage": "2022-08-10",
+      "lastOutage": "2025-12-18"
+    },
+    {
+      "slug": "quatre-vents",
+      "name": "QUATRE VENTS(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 5,
+      "file": "quatre-vents.json",
+      "firstOutage": "2024-02-15",
+      "lastOutage": "2025-08-05"
+    },
+    {
+      "slug": "quay-d",
+      "name": "QUAY D",
+      "district": "portlouis",
+      "outageCount": 5,
+      "file": "quay-d.json",
+      "firstOutage": "2022-06-26",
+      "lastOutage": "2025-08-24"
+    },
+    {
+      "slug": "queen-victoria",
+      "name": "QUEEN VICTORIA",
+      "district": "flacq",
+      "outageCount": 6,
+      "file": "queen-victoria.json",
+      "firstOutage": "2022-04-21",
+      "lastOutage": "2025-06-20"
+    },
+    {
+      "slug": "quinze-cantons",
+      "name": "QUINZE CANTONS",
+      "district": "plainewilhems",
+      "outageCount": 7,
+      "file": "quinze-cantons.json",
+      "firstOutage": "2022-05-13",
+      "lastOutage": "2025-09-30"
+    },
+    {
+      "slug": "ramp-le-moirt",
+      "name": "RAMP LE MOIRT",
+      "district": "grandport",
+      "outageCount": 1,
+      "file": "ramp-le-moirt.json",
+      "firstOutage": "2022-10-18",
+      "lastOutage": "2022-10-18"
+    },
+    {
+      "slug": "reduit",
+      "name": "REDUIT",
+      "district": "moka",
+      "outageCount": 11,
+      "file": "reduit.json",
+      "firstOutage": "2022-05-08",
+      "lastOutage": "2025-01-22"
+    },
+    {
+      "slug": "residence-kennedy",
+      "name": "RESIDENCE KENNEDY",
+      "district": "plainewilhems",
+      "outageCount": 1,
+      "file": "residence-kennedy.json",
+      "firstOutage": "2023-08-29",
+      "lastOutage": "2023-08-29"
+    },
+    {
+      "slug": "reunion-maurel",
+      "name": "REUNION MAUREL",
+      "district": "rivieredurempart",
+      "outageCount": 8,
+      "file": "reunion-maurel.json",
+      "firstOutage": "2022-11-27",
+      "lastOutage": "2025-11-09"
+    },
+    {
+      "slug": "reunion-vacoas",
+      "name": "REUNION VACOAS",
+      "district": "plainewilhems",
+      "outageCount": 6,
+      "file": "reunion-vacoas.json",
+      "firstOutage": "2024-01-23",
+      "lastOutage": "2024-10-15"
+    },
+    {
+      "slug": "riambel",
+      "name": "RIAMBEL",
+      "district": "savanne",
+      "outageCount": 26,
+      "file": "riambel.json",
+      "firstOutage": "2022-03-20",
+      "lastOutage": "2025-12-28"
+    },
+    {
+      "slug": "riche-bois",
+      "name": "RICHE BOIS",
+      "district": "savanne",
+      "outageCount": 3,
+      "file": "riche-bois.json",
+      "firstOutage": "2025-08-27",
+      "lastOutage": "2025-11-06"
+    },
+    {
+      "slug": "riche-en-eau",
+      "name": "RICHE EN EAU",
+      "district": "grandport",
+      "outageCount": 2,
+      "file": "riche-en-eau.json",
+      "firstOutage": "2022-09-28",
+      "lastOutage": "2025-07-04"
+    },
+    {
+      "slug": "riche-terre",
+      "name": "RICHE TERRE",
+      "district": "pamplemousses",
+      "outageCount": 30,
+      "file": "riche-terre.json",
+      "firstOutage": "2022-04-03",
+      "lastOutage": "2025-10-02"
+    },
+    {
+      "slug": "richelieu",
+      "name": "RICHELIEU",
+      "district": "plainewilhems",
+      "outageCount": 3,
+      "file": "richelieu.json",
+      "firstOutage": "2023-11-08",
+      "lastOutage": "2024-12-09"
+    },
+    {
+      "slug": "richemare",
+      "name": "RICHEMARE",
+      "district": "flacq",
+      "outageCount": 26,
+      "file": "richemare.json",
+      "firstOutage": "2022-04-13",
+      "lastOutage": "2025-11-25"
+    },
+    {
+      "slug": "richfond",
+      "name": "RICHFOND",
+      "district": "flacq",
+      "outageCount": 2,
+      "file": "richfond.json",
+      "firstOutage": "2025-01-19",
+      "lastOutage": "2025-10-15"
+    },
+    {
+      "slug": "ripailles",
+      "name": "RIPAILLES",
+      "district": "moka",
+      "outageCount": 3,
+      "file": "ripailles.json",
+      "firstOutage": "2023-10-09",
+      "lastOutage": "2025-12-20"
+    },
+    {
+      "slug": "riviere-banane",
+      "name": "RIVIERE BANANE(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 5,
+      "file": "riviere-banane.json",
+      "firstOutage": "2022-06-25",
+      "lastOutage": "2025-01-23"
+    },
+    {
+      "slug": "riviere-baptiste-st-pierre",
+      "name": "RIVIERE BAPTISTE ST PIERRE",
+      "district": "moka",
+      "outageCount": 1,
+      "file": "riviere-baptiste-st-pierre.json",
+      "firstOutage": "2022-07-16",
+      "lastOutage": "2022-07-16"
+    },
+    {
+      "slug": "riviere-coco",
+      "name": "RIVIERE COCO(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 1,
+      "file": "riviere-coco.json",
+      "firstOutage": "2023-03-11",
+      "lastOutage": "2023-03-11"
+    },
+    {
+      "slug": "riviere-des-anguilles",
+      "name": "RIVIERE DES ANGUILLES",
+      "district": "savanne",
+      "outageCount": 39,
+      "file": "riviere-des-anguilles.json",
+      "firstOutage": "2022-04-13",
+      "lastOutage": "2025-12-16"
+    },
+    {
+      "slug": "riviere-des-creoles",
+      "name": "RIVIERE DES CREOLES",
+      "district": "grandport",
+      "outageCount": 19,
+      "file": "riviere-des-creoles.json",
+      "firstOutage": "2022-06-30",
+      "lastOutage": "2025-12-02"
+    },
+    {
+      "slug": "riviere-des-galets",
+      "name": "RIVIERE DES GALETS",
+      "district": "savanne",
+      "outageCount": 9,
+      "file": "riviere-des-galets.json",
+      "firstOutage": "2022-06-12",
+      "lastOutage": "2025-09-30"
+    },
+    {
+      "slug": "riviere-du-poste",
+      "name": "RIVIERE DU POSTE",
+      "district": "grandport",
+      "outageCount": 15,
+      "file": "riviere-du-poste.json",
+      "firstOutage": "2022-09-24",
+      "lastOutage": "2025-09-18"
+    },
+    {
+      "slug": "riviere-du-rempart",
+      "name": "RIVIERE DU REMPART",
+      "district": "rivieredurempart",
+      "outageCount": 41,
+      "file": "riviere-du-rempart.json",
+      "firstOutage": "2022-03-20",
+      "lastOutage": "2025-12-29"
+    },
+    {
+      "slug": "riviere-noire",
+      "name": "RIVIERE NOIRE",
+      "district": "blackriver",
+      "outageCount": 40,
+      "file": "riviere-noire.json",
+      "firstOutage": "2022-06-03",
+      "lastOutage": "2025-12-21"
+    },
+    {
+      "slug": "roche-bois",
+      "name": "ROCHE BOIS",
+      "district": "portlouis",
+      "outageCount": 36,
+      "file": "roche-bois.json",
+      "firstOutage": "2022-04-30",
+      "lastOutage": "2025-12-11"
+    },
+    {
+      "slug": "roche-bon-dieu",
+      "name": "ROCHE BON DIEU(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 1,
+      "file": "roche-bon-dieu.json",
+      "firstOutage": "2024-07-26",
+      "lastOutage": "2024-07-26"
+    },
+    {
+      "slug": "roche-terre",
+      "name": "ROCHE TERRE",
+      "district": "rivieredurempart",
+      "outageCount": 31,
+      "file": "roche-terre.json",
+      "firstOutage": "2022-05-30",
+      "lastOutage": "2025-12-07"
+    },
+    {
+      "slug": "roches-brunes",
+      "name": "ROCHES BRUNES",
+      "district": "plainewilhems",
+      "outageCount": 20,
+      "file": "roches-brunes.json",
+      "firstOutage": "2022-10-01",
+      "lastOutage": "2025-11-24"
+    },
+    {
+      "slug": "roches-noires",
+      "name": "ROCHES NOIRES",
+      "district": "rivieredurempart",
+      "outageCount": 27,
+      "file": "roches-noires.json",
+      "firstOutage": "2022-06-03",
+      "lastOutage": "2025-12-30"
+    },
+    {
+      "slug": "rodrigues",
+      "name": "RODRIGUES",
+      "district": "rodrigues",
+      "outageCount": 185,
+      "file": "rodrigues.json",
+      "firstOutage": "2022-03-15",
+      "lastOutage": "2025-09-27"
+    },
+    {
+      "slug": "rose-belle",
+      "name": "ROSE BELLE",
+      "district": "grandport",
+      "outageCount": 73,
+      "file": "rose-belle.json",
+      "firstOutage": "2022-05-12",
+      "lastOutage": "2025-12-11"
+    },
+    {
+      "slug": "rose-hill",
+      "name": "ROSE-HILL",
+      "district": "plainewilhems",
+      "outageCount": 119,
+      "file": "rose-hill.json",
+      "firstOutage": "2022-05-20",
+      "lastOutage": "2025-12-20"
+    },
+    {
+      "slug": "roseaux",
+      "name": "ROSEAUX(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 1,
+      "file": "roseaux.json",
+      "firstOutage": "2025-03-27",
+      "lastOutage": "2025-03-27"
+    },
+    {
+      "slug": "rouillard",
+      "name": "ROUILLARD",
+      "district": "pamplemousses",
+      "outageCount": 5,
+      "file": "rouillard.json",
+      "firstOutage": "2022-05-08",
+      "lastOutage": "2023-09-13"
+    },
+    {
+      "slug": "saint-antoine",
+      "name": "SAINT ANTOINE",
+      "district": "rivieredurempart",
+      "outageCount": 8,
+      "file": "saint-antoine.json",
+      "firstOutage": "2023-11-21",
+      "lastOutage": "2025-11-20"
+    },
+    {
+      "slug": "saint-aubin",
+      "name": "SAINT AUBIN",
+      "district": "savanne",
+      "outageCount": 16,
+      "file": "saint-aubin.json",
+      "firstOutage": "2022-12-03",
+      "lastOutage": "2025-12-11"
+    },
+    {
+      "slug": "saint-francois",
+      "name": "SAINT FRANCOIS",
+      "district": "portlouis",
+      "outageCount": 21,
+      "file": "saint-francois.json",
+      "firstOutage": "2022-05-12",
+      "lastOutage": "2025-12-23"
+    },
+    {
+      "slug": "saint-gabriel",
+      "name": "SAINT GABRIEL(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 1,
+      "file": "saint-gabriel.json",
+      "firstOutage": "2025-12-06",
+      "lastOutage": "2025-12-06"
+    },
+    {
+      "slug": "saint-hilaire",
+      "name": "SAINT HILAIRE",
+      "district": "grandport",
+      "outageCount": 6,
+      "file": "saint-hilaire.json",
+      "firstOutage": "2023-04-03",
+      "lastOutage": "2025-10-06"
+    },
+    {
+      "slug": "saint-hubert",
+      "name": "SAINT HUBERT",
+      "district": "grandport",
+      "outageCount": 12,
+      "file": "saint-hubert.json",
+      "firstOutage": "2022-05-13",
+      "lastOutage": "2025-10-16"
+    },
+    {
+      "slug": "saint-joseph",
+      "name": "SAINT JOSEPH",
+      "district": "portlouis",
+      "outageCount": 5,
+      "file": "saint-joseph.json",
+      "firstOutage": "2022-09-18",
+      "lastOutage": "2023-02-15"
+    },
+    {
+      "slug": "saint-julien-village",
+      "name": "SAINT JULIEN VILLAGE",
+      "district": "flacq",
+      "outageCount": 12,
+      "file": "saint-julien-village.json",
+      "firstOutage": "2023-01-04",
+      "lastOutage": "2025-11-06"
+    },
+    {
+      "slug": "saint-martin-r-hill",
+      "name": "SAINT MARTIN R-HILL",
+      "district": "plainewilhems",
+      "outageCount": 22,
+      "file": "saint-martin-r-hill.json",
+      "firstOutage": "2022-05-28",
+      "lastOutage": "2025-12-18"
+    },
+    {
+      "slug": "saint-paul",
+      "name": "SAINT PAUL",
+      "district": "plainewilhems",
+      "outageCount": 41,
+      "file": "saint-paul.json",
+      "firstOutage": "2022-04-28",
+      "lastOutage": "2025-11-08"
+    },
+    {
+      "slug": "saint-pierre",
+      "name": "SAINT PIERRE",
+      "district": "moka",
+      "outageCount": 54,
+      "file": "saint-pierre.json",
+      "firstOutage": "2022-03-13",
+      "lastOutage": "2025-11-11"
+    },
+    {
+      "slug": "sainte-croix",
+      "name": "SAINTE CROIX",
+      "district": "portlouis",
+      "outageCount": 66,
+      "file": "sainte-croix.json",
+      "firstOutage": "2022-04-26",
+      "lastOutage": "2025-10-09"
+    },
+    {
+      "slug": "salazie",
+      "name": "SALAZIE",
+      "district": "flacq",
+      "outageCount": 3,
+      "file": "salazie.json",
+      "firstOutage": "2023-04-19",
+      "lastOutage": "2023-11-27"
+    },
+    {
+      "slug": "sauveterre",
+      "name": "SAUVETERRE",
+      "district": "grandport",
+      "outageCount": 1,
+      "file": "sauveterre.json",
+      "firstOutage": "2022-09-23",
+      "lastOutage": "2022-09-23"
+    },
+    {
+      "slug": "savannah",
+      "name": "SAVANNAH",
+      "district": "savanne",
+      "outageCount": 1,
+      "file": "savannah.json",
+      "firstOutage": "2025-12-06",
+      "lastOutage": "2025-12-06"
+    },
+    {
+      "slug": "sebastopol",
+      "name": "SEBASTOPOL",
+      "district": "flacq",
+      "outageCount": 15,
+      "file": "sebastopol.json",
+      "firstOutage": "2022-04-12",
+      "lastOutage": "2025-12-10"
+    },
+    {
+      "slug": "seneville",
+      "name": "SENEVILLE",
+      "district": "savanne",
+      "outageCount": 1,
+      "file": "seneville.json",
+      "firstOutage": "2024-07-29",
+      "lastOutage": "2024-07-29"
+    },
+    {
+      "slug": "signal-mountain",
+      "name": "SIGNAL MOUNTAIN",
+      "district": "portlouis",
+      "outageCount": 1,
+      "file": "signal-mountain.json",
+      "firstOutage": "2024-06-04",
+      "lastOutage": "2024-06-04"
+    },
+    {
+      "slug": "sodnac",
+      "name": "SODNAC",
+      "district": "plainewilhems",
+      "outageCount": 34,
+      "file": "sodnac.json",
+      "firstOutage": "2022-05-30",
+      "lastOutage": "2025-12-24"
+    },
+    {
+      "slug": "solferino",
+      "name": "SOLFERINO",
+      "district": "plainewilhems",
+      "outageCount": 18,
+      "file": "solferino.json",
+      "firstOutage": "2022-05-06",
+      "lastOutage": "2025-09-26"
+    },
+    {
+      "slug": "solitude",
+      "name": "SOLITUDE",
+      "district": "pamplemousses",
+      "outageCount": 25,
+      "file": "solitude.json",
+      "firstOutage": "2022-04-16",
+      "lastOutage": "2025-12-16"
+    },
+    {
+      "slug": "songes",
+      "name": "SONGES(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 4,
+      "file": "songes.json",
+      "firstOutage": "2023-10-06",
+      "lastOutage": "2025-10-30"
+    },
+    {
+      "slug": "soreze",
+      "name": "SOREZE",
+      "district": "moka",
+      "outageCount": 10,
+      "file": "soreze.json",
+      "firstOutage": "2023-03-15",
+      "lastOutage": "2025-11-23"
+    },
+    {
+      "slug": "sottise",
+      "name": "SOTTISE",
+      "district": "rivieredurempart",
+      "outageCount": 8,
+      "file": "sottise.json",
+      "firstOutage": "2022-08-12",
+      "lastOutage": "2024-10-01"
+    },
+    {
+      "slug": "souillac",
+      "name": "SOUILLAC",
+      "district": "savanne",
+      "outageCount": 65,
+      "file": "souillac.json",
+      "firstOutage": "2022-06-05",
+      "lastOutage": "2025-11-15"
+    },
+    {
+      "slug": "stanley",
+      "name": "STANLEY",
+      "district": "plainewilhems",
+      "outageCount": 11,
+      "file": "stanley.json",
+      "firstOutage": "2022-08-29",
+      "lastOutage": "2025-11-15"
+    },
+    {
+      "slug": "surinam",
+      "name": "SURINAM",
+      "district": "savanne",
+      "outageCount": 46,
+      "file": "surinam.json",
+      "firstOutage": "2022-05-08",
+      "lastOutage": "2025-12-06"
+    },
+    {
+      "slug": "tamarin",
+      "name": "TAMARIN",
+      "district": "blackriver",
+      "outageCount": 63,
+      "file": "tamarin.json",
+      "firstOutage": "2022-03-13",
+      "lastOutage": "2025-12-22"
+    },
+    {
+      "slug": "tamarind-falls",
+      "name": "TAMARIND FALLS",
+      "district": "blackriver",
+      "outageCount": 5,
+      "file": "tamarind-falls.json",
+      "firstOutage": "2023-03-15",
+      "lastOutage": "2024-07-16"
+    },
+    {
+      "slug": "tambes",
+      "name": "TAMBES(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 2,
+      "file": "tambes.json",
+      "firstOutage": "2025-10-25",
+      "lastOutage": "2025-10-31"
+    },
+    {
+      "slug": "telfair-moka",
+      "name": "TELFAIR- MOKA",
+      "district": "moka",
+      "outageCount": 3,
+      "file": "telfair-moka.json",
+      "firstOutage": "2023-05-15",
+      "lastOutage": "2024-11-17"
+    },
+    {
+      "slug": "terracine",
+      "name": "TERRACINE",
+      "district": "savanne",
+      "outageCount": 1,
+      "file": "terracine.json",
+      "firstOutage": "2025-01-17",
+      "lastOutage": "2025-01-17"
+    },
+    {
+      "slug": "terrasson",
+      "name": "TERRASSON",
+      "district": "portlouis",
+      "outageCount": 1,
+      "file": "terrasson.json",
+      "firstOutage": "2024-12-07",
+      "lastOutage": "2024-12-07"
+    },
+    {
+      "slug": "terre-rouge",
+      "name": "TERRE ROUGE",
+      "district": "pamplemousses",
+      "outageCount": 96,
+      "file": "terre-rouge.json",
+      "firstOutage": "2022-03-14",
+      "lastOutage": "2025-12-26"
+    },
+    {
+      "slug": "tombeau-bay",
+      "name": "TOMBEAU BAY",
+      "district": "pamplemousses",
+      "outageCount": 121,
+      "file": "tombeau-bay.json",
+      "firstOutage": "2022-03-27",
+      "lastOutage": "2025-12-15"
+    },
+    {
+      "slug": "tour-koenig",
+      "name": "TOUR KOENIG",
+      "district": "portlouis",
+      "outageCount": 19,
+      "file": "tour-koenig.json",
+      "firstOutage": "2022-11-05",
+      "lastOutage": "2025-11-28"
+    },
+    {
+      "slug": "tranquebar",
+      "name": "TRANQUEBAR",
+      "district": "portlouis",
+      "outageCount": 18,
+      "file": "tranquebar.json",
+      "firstOutage": "2022-06-20",
+      "lastOutage": "2025-10-15"
+    },
+    {
+      "slug": "trefles",
+      "name": "TREFLES",
+      "district": "plainewilhems",
+      "outageCount": 17,
+      "file": "trefles.json",
+      "firstOutage": "2022-09-25",
+      "lastOutage": "2025-12-14"
+    },
+    {
+      "slug": "tres-bon",
+      "name": "TRES BON",
+      "district": "plainewilhems",
+      "outageCount": 1,
+      "file": "tres-bon.json",
+      "firstOutage": "2024-11-12",
+      "lastOutage": "2024-11-12"
+    },
+    {
+      "slug": "trianon",
+      "name": "TRIANON",
+      "district": "plainewilhems",
+      "outageCount": 29,
+      "file": "trianon.json",
+      "firstOutage": "2022-04-01",
+      "lastOutage": "2025-12-21"
+    },
+    {
+      "slug": "triolet",
+      "name": "TRIOLET",
+      "district": "pamplemousses",
+      "outageCount": 95,
+      "file": "triolet.json",
+      "firstOutage": "2022-04-08",
+      "lastOutage": "2025-12-21"
+    },
+    {
+      "slug": "trois-boutiques-triolet",
+      "name": "TROIS BOUTIQUES TRIOLET",
+      "district": "pamplemousses",
+      "outageCount": 2,
+      "file": "trois-boutiques-triolet.json",
+      "firstOutage": "2022-03-16",
+      "lastOutage": "2023-07-13"
+    },
+    {
+      "slug": "trois-boutiques-union-vale",
+      "name": "TROIS BOUTIQUES UNION VALE",
+      "district": "grandport",
+      "outageCount": 15,
+      "file": "trois-boutiques-union-vale.json",
+      "firstOutage": "2022-05-12",
+      "lastOutage": "2025-12-17"
+    },
+    {
+      "slug": "trou-aux-biches",
+      "name": "TROU AUX BICHES",
+      "district": "pamplemousses",
+      "outageCount": 51,
+      "file": "trou-aux-biches.json",
+      "firstOutage": "2022-04-10",
+      "lastOutage": "2025-12-19"
+    },
+    {
+      "slug": "trou-d-eau-douce",
+      "name": "TROU D-EAU DOUCE",
+      "district": "flacq",
+      "outageCount": 1,
+      "file": "trou-d-eau-douce.json",
+      "firstOutage": "2025-10-27",
+      "lastOutage": "2025-10-27"
+    },
+    {
+      "slug": "tyack",
+      "name": "TYACK",
+      "district": "savanne",
+      "outageCount": 30,
+      "file": "tyack.json",
+      "firstOutage": "2022-05-08",
+      "lastOutage": "2025-12-30"
+    },
+    {
+      "slug": "union",
+      "name": "UNION",
+      "district": "portlouis",
+      "outageCount": 2,
+      "file": "union.json",
+      "firstOutage": "2024-07-26",
+      "lastOutage": "2025-07-13"
+    },
+    {
+      "slug": "union-park",
+      "name": "UNION PARK",
+      "district": "grandport",
+      "outageCount": 25,
+      "file": "union-park.json",
+      "firstOutage": "2022-03-28",
+      "lastOutage": "2025-12-30"
+    },
+    {
+      "slug": "union-vale",
+      "name": "UNION VALE",
+      "district": "grandport",
+      "outageCount": 2,
+      "file": "union-vale.json",
+      "firstOutage": "2025-03-19",
+      "lastOutage": "2025-08-17"
+    },
+    {
+      "slug": "upper-dagotiere",
+      "name": "UPPER DAGOTIERE",
+      "district": "moka",
+      "outageCount": 12,
+      "file": "upper-dagotiere.json",
+      "firstOutage": "2022-06-07",
+      "lastOutage": "2025-10-23"
+    },
+    {
+      "slug": "upper-vale",
+      "name": "UPPER VALE",
+      "district": "rivieredurempart",
+      "outageCount": 18,
+      "file": "upper-vale.json",
+      "firstOutage": "2022-04-05",
+      "lastOutage": "2025-12-24"
+    },
+    {
+      "slug": "vacoas",
+      "name": "VACOAS",
+      "district": "plainewilhems",
+      "outageCount": 218,
+      "file": "vacoas.json",
+      "firstOutage": "2022-03-17",
+      "lastOutage": "2025-12-10"
+    },
+    {
+      "slug": "valentina",
+      "name": "VALENTINA",
+      "district": "plainewilhems",
+      "outageCount": 10,
+      "file": "valentina.json",
+      "firstOutage": "2022-12-01",
+      "lastOutage": "2025-11-22"
+    },
+    {
+      "slug": "valetta",
+      "name": "VALETTA",
+      "district": "moka",
+      "outageCount": 16,
+      "file": "valetta.json",
+      "firstOutage": "2022-11-24",
+      "lastOutage": "2025-12-04"
+    },
+    {
+      "slug": "vallee-des-pretres",
+      "name": "VALLEE DES PRETRES",
+      "district": "portlouis",
+      "outageCount": 66,
+      "file": "vallee-des-pretres.json",
+      "firstOutage": "2022-03-27",
+      "lastOutage": "2025-10-12"
+    },
+    {
+      "slug": "vallee-pitot",
+      "name": "VALLEE PITOT",
+      "district": "portlouis",
+      "outageCount": 31,
+      "file": "vallee-pitot.json",
+      "firstOutage": "2022-04-01",
+      "lastOutage": "2025-12-20"
+    },
+    {
+      "slug": "valton",
+      "name": "VALTON",
+      "district": "pamplemousses",
+      "outageCount": 1,
+      "file": "valton.json",
+      "firstOutage": "2023-11-18",
+      "lastOutage": "2023-11-18"
+    },
+    {
+      "slug": "vangard",
+      "name": "VANGARD(RODRIGUES)",
+      "district": "rodrigues",
+      "outageCount": 1,
+      "file": "vangard.json",
+      "firstOutage": "2024-02-24",
+      "lastOutage": "2024-02-24"
+    },
+    {
+      "slug": "verdun",
+      "name": "VERDUN",
+      "district": "moka",
+      "outageCount": 26,
+      "file": "verdun.json",
+      "firstOutage": "2022-04-24",
+      "lastOutage": "2025-10-02"
+    },
+    {
+      "slug": "vieux-grand-port",
+      "name": "VIEUX GRAND PORT",
+      "district": "grandport",
+      "outageCount": 8,
+      "file": "vieux-grand-port.json",
+      "firstOutage": "2022-04-13",
+      "lastOutage": "2025-12-05"
+    },
+    {
+      "slug": "villebague",
+      "name": "VILLEBAGUE",
+      "district": "pamplemousses",
+      "outageCount": 6,
+      "file": "villebague.json",
+      "firstOutage": "2022-12-11",
+      "lastOutage": "2025-07-12"
+    },
+    {
+      "slug": "villenoire",
+      "name": "VILLENOIRE",
+      "district": "grandport",
+      "outageCount": 46,
+      "file": "villenoire.json",
+      "firstOutage": "2022-06-10",
+      "lastOutage": "2025-10-31"
+    },
+    {
+      "slug": "vuillemin-qmilitaire",
+      "name": "VUILLEMIN Q.MILITAIRE",
+      "district": "moka",
+      "outageCount": 7,
+      "file": "vuillemin-qmilitaire.json",
+      "firstOutage": "2022-05-22",
+      "lastOutage": "2025-09-26"
+    },
+    {
+      "slug": "wolmar",
+      "name": "WOLMAR",
+      "district": "blackriver",
+      "outageCount": 6,
+      "file": "wolmar.json",
+      "firstOutage": "2023-10-11",
+      "lastOutage": "2025-12-11"
+    },
+    {
+      "slug": "wootun",
+      "name": "WOOTUN",
+      "district": "plainewilhems",
+      "outageCount": 19,
+      "file": "wootun.json",
+      "firstOutage": "2022-08-05",
+      "lastOutage": "2025-12-18"
+    },
+    {
+      "slug": "xavier",
+      "name": "XAVIER",
+      "district": "portlouis",
+      "outageCount": 1,
+      "file": "xavier.json",
+      "firstOutage": "2025-09-17",
+      "lastOutage": "2025-09-17"
+    },
+    {
+      "slug": "yemen",
+      "name": "YEMEN",
+      "district": "blackriver",
+      "outageCount": 8,
+      "file": "yemen.json",
+      "firstOutage": "2022-05-13",
+      "lastOutage": "2025-10-07"
+    }
+  ]
+}

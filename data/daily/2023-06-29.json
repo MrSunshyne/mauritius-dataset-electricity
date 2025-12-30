@@ -1,0 +1,88 @@
+{
+  "date": "2023-06-29",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.496Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le jeudi 29 juin 2023 de  08:30:00 à  16:30:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "MORC RAMDANEE",
+      "district": "blackriver",
+      "from": "2023-06-29T04:30:00.000Z",
+      "to": "2023-06-29T12:30:00.000Z",
+      "id": "2a74aa497f1fd27a68f7e9a7a48f8195"
+    },
+    {
+      "date": "Le jeudi 29 juin 2023 de  14:00:00 à  17:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "DANS LES ENVIRONS DE CAMP DES EMBREVADES, RESIDENCE CHA, DE LA ROUTE ROYALE ET UNE PARTIE DE ALBION ROAD",
+      "district": "blackriver",
+      "from": "2023-06-29T10:00:00.000Z",
+      "to": "2023-06-29T13:00:00.000Z",
+      "id": "686ef00f744796540f3e63c90fdce3ab"
+    },
+    {
+      "date": "Le jeudi 29 juin 2023 de  17:00:00 à  20:30:00",
+      "locality": "RICHEMARE",
+      "localitySlug": "richemare",
+      "streets": "RICHE MARE",
+      "district": "flacq",
+      "from": "2023-06-29T13:00:00.000Z",
+      "to": "2023-06-29T16:30:00.000Z",
+      "id": "4ce83400377cd80de20ca3471c101804"
+    },
+    {
+      "date": "Le jeudi 29 juin 2023 de  18:30:00 à  20:00:00",
+      "locality": "OLIVIA",
+      "localitySlug": "olivia",
+      "streets": "OLIVIA",
+      "district": "flacq",
+      "from": "2023-06-29T14:30:00.000Z",
+      "to": "2023-06-29T16:00:00.000Z",
+      "id": "9c8af3b85a6172b155757a8d8267a024"
+    },
+    {
+      "date": "Le jeudi 29 juin 2023 de  10:00:00 à  15:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "CHEMIN VIEUX MOULIN CASSEE PEREYBERE",
+      "district": "rivieredurempart",
+      "from": "2023-06-29T06:00:00.000Z",
+      "to": "2023-06-29T11:00:00.000Z",
+      "id": "71c39ee8ac540143d4fb285b0b371ba1"
+    },
+    {
+      "date": "Le jeudi 29 juin 2023 de  13:30:00 à  17:00:00",
+      "locality": "CHEMIN GRENIER",
+      "localitySlug": "chemin-grenier",
+      "streets": "Chemin Grenier, Camp Fany, Camp Goolbar et Camp Lilas,",
+      "district": "savanne",
+      "from": "2023-06-29T09:30:00.000Z",
+      "to": "2023-06-29T13:00:00.000Z",
+      "id": "7ee4f2512d18aa25af99f55edafdebf6"
+    },
+    {
+      "date": "Le jeudi 29 juin 2023 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Sygangue,Araukaria,Champs,Orange",
+      "district": "rodrigues",
+      "from": "2023-06-29T04:30:00.000Z",
+      "to": "2023-06-29T11:00:00.000Z",
+      "id": "7e4b1ee186b548dac4bfe32ad90f563d"
+    },
+    {
+      "date": "Le jeudi 29 juin 2023 de  09:00:00 à  15:30:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "PAPAYES-QUATRE VENTS",
+      "district": "rodrigues",
+      "from": "2023-06-29T05:00:00.000Z",
+      "to": "2023-06-29T11:30:00.000Z",
+      "id": "ee617b31e796115afca863fddf32c0cc"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "date": "2023-09-06",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.498Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le mercredi 6 septembre 2023 de  00:00:00 à  00:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "ROYAL ROAD PHOENIX ET RIVERSIDE PHOENIX",
+      "district": "plainewilhems",
+      "from": "2023-09-05T20:00:00.000Z",
+      "to": "2023-09-04T20:00:00.000Z",
+      "id": "cbed91da206c3787194d0d3e21e020a9"
+    },
+    {
+      "date": "Le mercredi 6 septembre 2023 de  10:00:00 à  11:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "LES ABONNES DE CITE KENNEDY : RUE HILARY BLOOD, RUE IQBAL, RUE EGALITE ET LES RUELLES AVOISINANTES.",
+      "district": "plainewilhems",
+      "from": "2023-09-06T06:00:00.000Z",
+      "to": "2023-09-06T07:30:00.000Z",
+      "id": "d68b39fcb61aca2a123fb4f5c9ac5ac4"
+    },
+    {
+      "date": "Le mercredi 6 septembre 2023 de  12:30:00 à  14:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "PART OF POPE HENNESSY ST NEAR TRAFFIC LIGHTS.",
+      "district": "plainewilhems",
+      "from": "2023-09-06T08:30:00.000Z",
+      "to": "2023-09-06T10:00:00.000Z",
+      "id": "ad2a43a5ccffdcdecb7baef2435f5c4e"
+    },
+    {
+      "date": "Le mercredi 6 septembre 2023 de  13:30:00 à  16:30:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "MORC VRS SAGITTAIRE POINTE AUX SABLES.",
+      "district": "portlouis",
+      "from": "2023-09-06T09:30:00.000Z",
+      "to": "2023-09-06T12:30:00.000Z",
+      "id": "b803f2e3e303e0b10026a3a6ccd85d35"
+    },
+    {
+      "date": "Le mercredi 6 septembre 2023 de  09:15:00 à  13:00:00",
+      "locality": "ESPERANCE TREBUCHET",
+      "localitySlug": "esperance-trebuchet",
+      "streets": "RAJAH ROAD, ANAND ROAD, MADAME BARBE ET LE RUELLES AVOISINANTES.",
+      "district": "rivieredurempart",
+      "from": "2023-09-06T05:15:00.000Z",
+      "to": "2023-09-06T09:00:00.000Z",
+      "id": "40610d3b2bbd2258f0a3bf526b5c3b0d"
+    },
+    {
+      "date": "Le mercredi 6 septembre 2023 de  13:15:00 à  15:30:00",
+      "locality": "POINTE AUX CANONNIERS",
+      "localitySlug": "pointe-aux-canonniers",
+      "streets": "X-CLUB ROAD, POINTE AUX CANONNIERS.",
+      "district": "rodrigues",
+      "from": "2023-09-06T09:15:00.000Z",
+      "to": "2023-09-06T11:30:00.000Z",
+      "id": "4db48fd6013d15999aee453fda9fb774"
+    }
+  ]
+}

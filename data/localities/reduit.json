@@ -1,0 +1,88 @@
+{
+  "slug": "reduit",
+  "name": "REDUIT",
+  "district": "moka",
+  "generated": "2025-12-30T19:07:15.817Z",
+  "outageCount": 11,
+  "firstOutage": "2022-05-08",
+  "lastOutage": "2025-01-22",
+  "outages": [
+    {
+      "date": "Le mercredi 22 janvier 2025 de  14:30:00 à  16:30:00",
+      "streets": "CLINIQUE MAURICIENNE ET LES ENVIRONS",
+      "from": "2025-01-22T10:30:00.000Z",
+      "to": "2025-01-22T12:30:00.000Z",
+      "id": "8587ac186da2eb94cf7b2e95bae8f763"
+    },
+    {
+      "date": "Le samedi 26 octobre 2024 de  07:00:00 à  15:00:00",
+      "streets": "REGION SURROUNDING CLINIC MAURICIENNE & AGRICULTURE",
+      "from": "2024-10-26T03:00:00.000Z",
+      "to": "2024-10-26T11:00:00.000Z",
+      "id": "dae8e554007fea869b45908b0ec93e1d"
+    },
+    {
+      "date": "Le lundi 2 septembre 2024 de  09:30:00 à  12:00:00",
+      "streets": "FAREI et les alentours",
+      "from": "2024-09-02T05:30:00.000Z",
+      "to": "2024-09-02T08:00:00.000Z",
+      "id": "7d1e8b7236cac26b96d606fa2df04d80"
+    },
+    {
+      "date": "Le lundi 22 juillet 2024 de  16:20:00 à  17:20:00",
+      "streets": "CLINIQUE MAURICIENNE AGRICULTURE,MSIRI,ENTOMOLOGY",
+      "from": "2024-07-22T12:20:00.000Z",
+      "to": "2024-07-22T13:20:00.000Z",
+      "id": "15c94baf7e249f3a105e0f95cb3f0241"
+    },
+    {
+      "date": "Le mardi 9 janvier 2024 de  16:00:00 à  19:00:00",
+      "streets": "moka,gentilly,helvetia",
+      "from": "2024-01-09T12:00:00.000Z",
+      "to": "2024-01-09T15:00:00.000Z",
+      "id": "58f5d3b56a4336da36fdc5eae89b8647"
+    },
+    {
+      "date": "Le jeudi 28 septembre 2023 de  18:00:00 à  19:30:00",
+      "streets": "AVENUE SOOBIAH REDUIT",
+      "from": "2023-09-28T14:00:00.000Z",
+      "to": "2023-09-28T15:30:00.000Z",
+      "id": "e24f7885b4afa51fd96d2f0fc82c7525"
+    },
+    {
+      "date": "Le mardi 8 novembre 2022 de  11:15:00 à  12:15:00",
+      "streets": "AVE SOOBIAH REDUIT",
+      "from": "2022-11-08T07:15:00.000Z",
+      "to": "2022-11-08T08:15:00.000Z",
+      "id": "ddf4f8b2f603b2341c5db333cc276cf8"
+    },
+    {
+      "date": "Le jeudi 23 juin 2022 de  14:00:00 à  17:30:00",
+      "streets": "Martindale, Tamil League et Soobiah Lane",
+      "from": "2022-06-23T10:00:00.000Z",
+      "to": "2022-06-23T13:30:00.000Z",
+      "id": "15e5b0268c7fc8b051578e03a5bfd9e2"
+    },
+    {
+      "date": "Le dimanche 22 mai 2022 de  08:30:00 à  15:00:00",
+      "streets": "MSIRI, UOM Registrar et Clinique Mauricienne",
+      "from": "2022-05-22T04:30:00.000Z",
+      "to": "2022-05-22T11:00:00.000Z",
+      "id": "60ed9a0aa381eb1f7ee1152e5c132be8"
+    },
+    {
+      "date": "Le vendredi 13 mai 2022 de  08:30:00 à  15:30:00",
+      "streets": "FAREI",
+      "from": "2022-05-13T04:30:00.000Z",
+      "to": "2022-05-13T11:30:00.000Z",
+      "id": "8c7486465d97600bce7334f4c6b8b57f"
+    },
+    {
+      "date": "Le dimanche 8 mai 2022 de  08:30:00 à  12:00:00",
+      "streets": "UOM , TAMIL LEAGUE ,SOOBIAH LANE",
+      "from": "2022-05-08T04:30:00.000Z",
+      "to": "2022-05-08T08:00:00.000Z",
+      "id": "15bb8afe27838adfaeb88372f4b0c228"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2023-09-15",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.499Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le vendredi 15 septembre 2023 de  20:30:00 à  22:00:00",
+      "locality": "MORC SAINT ANDRE",
+      "localitySlug": "morc-saint-andre",
+      "streets": "KALIMAYE ROAD",
+      "district": "pamplemousses",
+      "from": "2023-09-15T16:30:00.000Z",
+      "to": "2023-09-15T18:00:00.000Z",
+      "id": "7706a1c049e6b925ee9f10e899077d6d"
+    },
+    {
+      "date": "Le vendredi 15 septembre 2023 de  08:30:00 à  15:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Morc Ramdanee, Cite Joachim, Morc La Grotte, Rue Auguste Esnouf , Haut Plateau Street , General Hall Street , L. Moutia Street, Morc Coombes , Morc Filao Lane, Morc de Rosnay, Parathian Lane , Filaos Street,  Partie de Edgard Laurent Street,  Partie de Ligne Berthaud,  Partie de Route Du Jardin et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-09-15T04:30:00.000Z",
+      "to": "2023-09-15T11:00:00.000Z",
+      "id": "505fe837cf19c29c55ae74be91e87660"
+    },
+    {
+      "date": "Le vendredi 15 septembre 2023 de  08:45:00 à  10:00:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "CAMP MAPOU HENRIETA",
+      "district": "plainewilhems",
+      "from": "2023-09-15T04:45:00.000Z",
+      "to": "2023-09-15T06:00:00.000Z",
+      "id": "e9dbfbbca32fbf08f68ebcc3f57446dd"
+    },
+    {
+      "date": "Le vendredi 15 septembre 2023 de  15:20:00 à  17:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "ROYAL ROAD ST JEAN",
+      "district": "plainewilhems",
+      "from": "2023-09-15T11:20:00.000Z",
+      "to": "2023-09-15T13:00:00.000Z",
+      "id": "8ab8ea7f6235b7527125cc9d41e13d7e"
+    },
+    {
+      "date": "Le vendredi 15 septembre 2023 de  15:00:00 à  17:30:00",
+      "locality": "BOIS CHERI",
+      "localitySlug": "bois-cheri",
+      "streets": "BUILDING ROAD BOIS CHERI",
+      "district": "savanne",
+      "from": "2023-09-15T11:00:00.000Z",
+      "to": "2023-09-15T13:30:00.000Z",
+      "id": "d3704d511c928f3c12923086b4bc1ebd"
+    }
+  ]
+}

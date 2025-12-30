@@ -1,0 +1,58 @@
+{
+  "date": "2022-05-28",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.482Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le samedi 28 mai 2022 de  08:30:00 à  10:30:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "LES ABONNES DE PETIT VERGER PTE RIVIERE HABITANT DANS LES ENVIRONS DE NHDC GROS CAILLOUX, ALBION ROAD ET UNE PARTIE DE BLACK RIVER ROAD",
+      "district": "blackriver",
+      "from": "2022-05-28T04:30:00.000Z",
+      "to": "2022-05-28T06:30:00.000Z",
+      "id": "1d942dad96e2e689c92e5ea8ce68f53c"
+    },
+    {
+      "date": "Le samedi 28 mai 2022 de  12:00:00 à  14:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "LES ABONNES DE PETIT VERGER PTE RIVIERE HABITANT DANS LES ENVIRONS DE NHDC GROS CAILLOUX, ALBION ROAD ET UNE PARTIE DE BLACK RIVER ROAD",
+      "district": "blackriver",
+      "from": "2022-05-28T08:00:00.000Z",
+      "to": "2022-05-28T10:00:00.000Z",
+      "id": "5d80b4165b14e7fdd5841b5337e2cde0"
+    },
+    {
+      "date": "Le samedi 28 mai 2022 de  08:30:00 à  16:00:00",
+      "locality": "SAINT MARTIN R-HILL",
+      "localitySlug": "saint-martin-r-hill",
+      "streets": "PORKER ST MARTIN, CWA ST MARTIN, ST MARTIN PUMP ET GENERAL CONSTRUCTION",
+      "district": "plainewilhems",
+      "from": "2022-05-28T04:30:00.000Z",
+      "to": "2022-05-28T12:00:00.000Z",
+      "id": "5bdb2ac975abd988ae2c6093becdc810"
+    },
+    {
+      "date": "Le samedi 28 mai 2022 de  08:30:00 à  15:00:00",
+      "locality": "CITE CHEBEL",
+      "localitySlug": "cite-chebel",
+      "streets": "Chebel, Edgar Nairac, Raoul Rivet et Venkatasamy",
+      "district": "plainewilhems",
+      "from": "2022-05-28T04:30:00.000Z",
+      "to": "2022-05-28T11:00:00.000Z",
+      "id": "c24fef6c67192c566d127dc73b2f1efe"
+    },
+    {
+      "date": "Le samedi 28 mai 2022 de  08:30:00 à  14:30:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "LES ABONNES HABITANT LES FLAMMANTS PEREYBERE DANS LES ENVIRONS DES RUES MUGUETS ET LOISEAU DE PARADIS",
+      "district": "rivieredurempart",
+      "from": "2022-05-28T04:30:00.000Z",
+      "to": "2022-05-28T10:30:00.000Z",
+      "id": "fb12d5d71126df966f6a92bc1ebba162"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "date": "2022-12-07",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.489Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mercredi 7 décembre 2022 de  08:30:00 à  16:30:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "TAMARIN",
+      "district": "blackriver",
+      "from": "2022-12-07T04:30:00.000Z",
+      "to": "2022-12-07T12:30:00.000Z",
+      "id": "e69fc10cfc0980916be2fe06d4c8d452"
+    },
+    {
+      "date": "Le mercredi 7 décembre 2022 de  12:00:00 à  15:00:00",
+      "locality": "PLAINE DES PAPAYES",
+      "localitySlug": "plaine-des-papayes",
+      "streets": "Les abonnes habitant Eros,Paline Des APpayes,Ramdanee lane et dans les environ de station de Police",
+      "district": "pamplemousses",
+      "from": "2022-12-07T08:00:00.000Z",
+      "to": "2022-12-07T11:00:00.000Z",
+      "id": "4726b78ea75dfdd9020596a54109e7ac"
+    },
+    {
+      "date": "Le mercredi 7 décembre 2022 de  09:00:00 à  15:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVE NAZ-AVE OLLIER-AVE VICTORIA-AVE ANTHELME-AVE MURRAY -BOUNDARY QUATRE BORNES",
+      "district": "plainewilhems",
+      "from": "2022-12-07T05:00:00.000Z",
+      "to": "2022-12-07T11:00:00.000Z",
+      "id": "d16c769377b2fcb8c97ad13759ce9c55"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "2025-01-13",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.517Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le lundi 13 janvier 2025 de  09:00:00 à  14:00:00",
+      "locality": "CHAMAREL",
+      "localitySlug": "chamarel",
+      "streets": "CHAMAREL",
+      "district": "blackriver",
+      "from": "2025-01-13T05:00:00.000Z",
+      "to": "2025-01-13T10:00:00.000Z",
+      "id": "649aea30c10135d9869fbffce27edbff"
+    },
+    {
+      "date": "Le lundi 13 janvier 2025 de  12:00:00 à  14:00:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "MORC LA COLOMBRE BOULET ROUGE",
+      "district": "flacq",
+      "from": "2025-01-13T08:00:00.000Z",
+      "to": "2025-01-13T10:00:00.000Z",
+      "id": "e5cbf29b53d7a9dc28edcadd819bf717"
+    },
+    {
+      "date": "Le lundi 13 janvier 2025 de  10:30:00 à  13:00:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "IN REGION TELEGU TEMPLE",
+      "district": "grandport",
+      "from": "2025-01-13T06:30:00.000Z",
+      "to": "2025-01-13T09:00:00.000Z",
+      "id": "015012cc594b4d831bdbc67cd3abee5e"
+    },
+    {
+      "date": "Le lundi 13 janvier 2025 de  10:00:00 à  12:00:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "Trou aux Biches Coastal Rd, Morc Ramdanee, Pte aux Biches, Morc Fairways et Mon Choisy dans les environs de PLM Azur et Choisy Les Bains",
+      "district": "pamplemousses",
+      "from": "2025-01-13T06:00:00.000Z",
+      "to": "2025-01-13T08:00:00.000Z",
+      "id": "407b438552653a99774a0a44e745e43a"
+    },
+    {
+      "date": "Le lundi 13 janvier 2025 de  09:30:00 à  13:00:00",
+      "locality": "PETITE POINTE AUX PIMENTS",
+      "localitySlug": "petite-pointe-aux-piments",
+      "streets": "COASTAL RD AND NEARBY REGION",
+      "district": "pamplemousses",
+      "from": "2025-01-13T05:30:00.000Z",
+      "to": "2025-01-13T09:00:00.000Z",
+      "id": "fb3b14a3a80b1c7e68b9a40746d72cdd"
+    },
+    {
+      "date": "Le lundi 13 janvier 2025 de  14:00:00 à  17:30:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Sir Abdul Razack Mohamed Centre, Robinson Road N0. 1 et N0. 2",
+      "district": "plainewilhems",
+      "from": "2025-01-13T10:00:00.000Z",
+      "to": "2025-01-13T13:30:00.000Z",
+      "id": "660c0c1ce04aa177c9bc818d45ab2960"
+    },
+    {
+      "date": "Le lundi 13 janvier 2025 de  11:55:00 à  17:45:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "DANS LES ALENTOURS DE MORC REY",
+      "district": "portlouis",
+      "from": "2025-01-13T07:55:00.000Z",
+      "to": "2025-01-13T13:45:00.000Z",
+      "id": "09bc3148e0e5778980f6fe1244d7a646"
+    }
+  ]
+}

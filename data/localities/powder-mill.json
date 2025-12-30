@@ -1,0 +1,32 @@
+{
+  "slug": "powder-mill",
+  "name": "POWDER MILL",
+  "district": "pamplemousses",
+  "generated": "2025-12-30T19:07:15.806Z",
+  "outageCount": 3,
+  "firstOutage": "2024-10-03",
+  "lastOutage": "2025-09-02",
+  "outages": [
+    {
+      "date": "Le mardi 2 septembre 2025 de  09:00:00 à  15:00:00",
+      "streets": "SBM, DANS LES ALENTOURS DE SSRN HOSPITAL, POULTRY, CAR WASH",
+      "from": "2025-09-02T05:00:00.000Z",
+      "to": "2025-09-02T11:00:00.000Z",
+      "id": "56f7a9d4ea83b6c49a102d2ba233d0f6"
+    },
+    {
+      "date": "Le dimanche 22 juin 2025 de  08:00:00 à  17:00:00",
+      "streets": "DANS LES ENVIRONS DE LHOPITAL SSRN ET RIVIERE CITRON",
+      "from": "2025-06-22T04:00:00.000Z",
+      "to": "2025-06-22T13:00:00.000Z",
+      "id": "20b60e2951f9e5e48a621946fcaa82b9"
+    },
+    {
+      "date": "Le jeudi 3 octobre 2024 de  08:30:00 à  14:00:00",
+      "streets": "POWDER MILL ROAD, BEAU PLAN BUSINESS PARK, CWA BEAU PLAN, STP , ISLAND FERTILIZER, GRAYS DISTILLERY & EVAPO",
+      "from": "2024-10-03T04:30:00.000Z",
+      "to": "2024-10-03T10:00:00.000Z",
+      "id": "b49c5a2d7bd64ba5fa6eff48e125015d"
+    }
+  ]
+}

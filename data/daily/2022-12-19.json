@@ -1,0 +1,48 @@
+{
+  "date": "2022-12-19",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.489Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le lundi 19 décembre 2022 de  08:30:00 à  09:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "INDUSRIAL ZONE BAMBOUS",
+      "district": "blackriver",
+      "from": "2022-12-19T04:30:00.000Z",
+      "to": "2022-12-19T05:30:00.000Z",
+      "id": "63eb22708f6f0d2bad9a7f8d49750547"
+    },
+    {
+      "date": "Le lundi 19 décembre 2022 de  10:00:00 à  12:00:00",
+      "locality": "POSTE LAFAYETTE",
+      "localitySlug": "poste-lafayette",
+      "streets": "LES ENVIRONS DE POSTE LAFAYETTE",
+      "district": "flacq",
+      "from": "2022-12-19T06:00:00.000Z",
+      "to": "2022-12-19T08:00:00.000Z",
+      "id": "4dd5b5f2acd2da18d80b7cfb6fdf0a3e"
+    },
+    {
+      "date": "Le lundi 19 décembre 2022 de  14:30:00 à  16:30:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "PETIT CHEMIN BEL AIR",
+      "district": "flacq",
+      "from": "2022-12-19T10:30:00.000Z",
+      "to": "2022-12-19T12:30:00.000Z",
+      "id": "3b6b38f6857ba6829c499f0713ccc79b"
+    },
+    {
+      "date": "Le lundi 19 décembre 2022 de  09:00:00 à  15:00:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": "MORC CAMP FRIER EAU COULEE",
+      "district": "plainewilhems",
+      "from": "2022-12-19T05:00:00.000Z",
+      "to": "2022-12-19T11:00:00.000Z",
+      "id": "70661d79dc96bb9c784d7e11061ac958"
+    }
+  ]
+}

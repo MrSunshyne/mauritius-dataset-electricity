@@ -1,0 +1,48 @@
+{
+  "date": "2023-12-12",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.502Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mardi 12 décembre 2023 de  15:30:00 à  18:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "MACNAMARA RD-FUSIA RD-JOYSUREE RD PETITE RIVIERE",
+      "district": "blackriver",
+      "from": "2023-12-12T11:30:00.000Z",
+      "to": "2023-12-12T14:00:00.000Z",
+      "id": "6e19ee428f60fe0b8429d599ae89bfbf"
+    },
+    {
+      "date": "Le mardi 12 décembre 2023 de  08:30:00 à  16:00:00",
+      "locality": "ERNEST FLORENT",
+      "localitySlug": "ernest-florent",
+      "streets": "Les abonnes du village de la Route Royale Ernest Florent et les rues avoisinantes",
+      "district": "flacq",
+      "from": "2023-12-12T04:30:00.000Z",
+      "to": "2023-12-12T12:00:00.000Z",
+      "id": "cb770ac16ceba07ae2a46fafc67e4873"
+    },
+    {
+      "date": "Le mardi 12 décembre 2023 de  14:00:00 à  17:00:00",
+      "locality": "SAINT PAUL",
+      "localitySlug": "saint-paul",
+      "streets": "Morcellement L’Eclézio une partie de Rabindranath Tagore Avenue, une partie de Nilkant Mandir Avenue",
+      "district": "plainewilhems",
+      "from": "2023-12-12T10:00:00.000Z",
+      "to": "2023-12-12T13:00:00.000Z",
+      "id": "65af130d2a4f579de87a4b70eb46d61c"
+    },
+    {
+      "date": "Le mardi 12 décembre 2023 de  10:30:00 à  12:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "TERASSON POINTE AUX SABLES",
+      "district": "portlouis",
+      "from": "2023-12-12T06:30:00.000Z",
+      "to": "2023-12-12T08:00:00.000Z",
+      "id": "e58fbce2e96b2b2a994bfa36d30f8dbd"
+    }
+  ]
+}

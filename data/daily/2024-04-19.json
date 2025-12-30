@@ -1,0 +1,98 @@
+{
+  "date": "2024-04-19",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.507Z",
+  "outageCount": 9,
+  "outages": [
+    {
+      "date": "Le vendredi 19 avril 2024 de  15:55:00 à  18:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "MORC CANOT, MORC KNN, LES DOMES D ALBION ET LES ENVIRONS.",
+      "district": "blackriver",
+      "from": "2024-04-19T11:55:00.000Z",
+      "to": "2024-04-19T14:00:00.000Z",
+      "id": "b0d07c42f960f4d0f789c116d0f56926"
+    },
+    {
+      "date": "Le vendredi 19 avril 2024 de  20:40:00 à  21:45:00",
+      "locality": "CAMP DE MASQUE",
+      "localitySlug": "camp-de-masque",
+      "streets": "MORC VRS UNITE CAMP DE MASQUE",
+      "district": "flacq",
+      "from": "2024-04-19T16:40:00.000Z",
+      "to": "2024-04-19T17:45:00.000Z",
+      "id": "3ae03f74279579936291502e709e9efe"
+    },
+    {
+      "date": "Le vendredi 19 avril 2024 de  16:00:00 à  17:00:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "INDEPENDENCE ST ET LES ALENTOURS DE SBM",
+      "district": "pamplemousses",
+      "from": "2024-04-19T12:00:00.000Z",
+      "to": "2024-04-19T13:00:00.000Z",
+      "id": "78088dc450a23e1052f809092982b33e"
+    },
+    {
+      "date": "Le vendredi 19 avril 2024 de  12:00:00 à  16:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Arthur des Bessy Road, Theveneau Avenue, Mohabeer Mungur Street, Sir Pierre Simonet Street et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2024-04-19T08:00:00.000Z",
+      "to": "2024-04-19T12:00:00.000Z",
+      "id": "580a47d58b4c0dd0f0cbec3f28caf5ed"
+    },
+    {
+      "date": "Le vendredi 19 avril 2024 de  08:30:00 à  15:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "La Rue Couvent, General De Gaulle St, une partie de Quartier Militaire Road, une partie de Mgr Leen Street et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2024-04-19T04:30:00.000Z",
+      "to": "2024-04-19T11:00:00.000Z",
+      "id": "522ba034cfc2652ae8967c4486edf48c"
+    },
+    {
+      "date": "Le vendredi 19 avril 2024 de  09:00:00 à  14:00:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": "La Mairee Street, Chummun lane, Gauffray Road et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2024-04-19T05:00:00.000Z",
+      "to": "2024-04-19T10:00:00.000Z",
+      "id": "1ddf6ec4c601e84c793380e90248d107"
+    },
+    {
+      "date": "Le vendredi 19 avril 2024 de  18:10:00 à  19:10:00",
+      "locality": "BELLE RIVE CUREPIPE",
+      "localitySlug": "belle-rive-curepipe",
+      "streets": "CARREAU CHAPEAU BELLE RIVE",
+      "district": "plainewilhems",
+      "from": "2024-04-19T14:10:00.000Z",
+      "to": "2024-04-19T15:10:00.000Z",
+      "id": "964d2ea783c86c88119fa2e12feb2bc7"
+    },
+    {
+      "date": "Le vendredi 19 avril 2024 de  09:45:00 à  12:00:00",
+      "locality": "ROCHE BOIS",
+      "localitySlug": "roche-bois",
+      "streets": "LA PLAINE KAYA,STREET A,STREET B",
+      "district": "portlouis",
+      "from": "2024-04-19T05:45:00.000Z",
+      "to": "2024-04-19T08:00:00.000Z",
+      "id": "7be82be4a948ad368e60a970a5c0282b"
+    },
+    {
+      "date": "Le vendredi 19 avril 2024 de  11:00:00 à  13:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "SCHOOL LANE ,PAUL ET VIRGINIE VALLEY DES PRETE",
+      "district": "portlouis",
+      "from": "2024-04-19T07:00:00.000Z",
+      "to": "2024-04-19T09:00:00.000Z",
+      "id": "fa4af3b78b8040404ac56ca0e6925dd1"
+    }
+  ]
+}

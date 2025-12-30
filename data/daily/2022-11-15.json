@@ -1,0 +1,58 @@
+{
+  "date": "2022-11-15",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.488Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mardi 15 novembre 2022 de  08:30:00 à  15:30:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "Les Abonnee habitant Cinema Cassee, Prince Des Galles, Princess Anne, Seeneevassen Road et 8eme Miles a Triolet",
+      "district": "pamplemousses",
+      "from": "2022-11-15T04:30:00.000Z",
+      "to": "2022-11-15T11:30:00.000Z",
+      "id": "2d4fe9db224175a358aed095f818ed44"
+    },
+    {
+      "date": "Le mardi 15 novembre 2022 de  09:15:00 à  10:30:00",
+      "locality": "CAMP FOUQUEREAUX",
+      "localitySlug": "camp-fouquereaux",
+      "streets": "IN THE VICINITY OF SHAMBOOLALL GOVT SCHOOL",
+      "district": "plainewilhems",
+      "from": "2022-11-15T05:15:00.000Z",
+      "to": "2022-11-15T06:30:00.000Z",
+      "id": "c406a0456ae1ae3bd5c7bd0689aaa792"
+    },
+    {
+      "date": "Le mardi 15 novembre 2022 de  11:15:00 à  14:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "FLAT GUILLARD POINTE AUX SABLES",
+      "district": "portlouis",
+      "from": "2022-11-15T07:15:00.000Z",
+      "to": "2022-11-15T10:00:00.000Z",
+      "id": "416eb88325a0e8cd7a21708f529baf35"
+    },
+    {
+      "date": "Le mardi 15 novembre 2022 de  15:45:00 à  17:45:00",
+      "locality": "BAIN DES DAMES",
+      "localitySlug": "bain-des-dames",
+      "streets": "BAIN DES DAMES CASSIS",
+      "district": "portlouis",
+      "from": "2022-11-15T11:45:00.000Z",
+      "to": "2022-11-15T13:45:00.000Z",
+      "id": "c5eb10dfbb64796417efde84e138ad6e"
+    },
+    {
+      "date": "Le mardi 15 novembre 2022 de  11:30:00 à  13:30:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "DOMAINE DU MOULIN",
+      "district": "rivieredurempart",
+      "from": "2022-11-15T07:30:00.000Z",
+      "to": "2022-11-15T09:30:00.000Z",
+      "id": "03c48adb3363bd1e59e8c94a8677d2fd"
+    }
+  ]
+}

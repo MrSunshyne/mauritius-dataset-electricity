@@ -1,0 +1,53 @@
+{
+  "slug": "saint-hilaire",
+  "name": "SAINT HILAIRE",
+  "district": "grandport",
+  "generated": "2025-12-30T19:07:15.844Z",
+  "outageCount": 6,
+  "firstOutage": "2023-04-03",
+  "lastOutage": "2025-10-06",
+  "outages": [
+    {
+      "date": "Le lundi 6 octobre 2025 de  08:30:00 à  14:00:00",
+      "streets": "CENT GAULETTES, JUHOOR ST, MORC ST HENRI ET UNE PARTIE DE ROUTE ROYALE SU HUBERT",
+      "from": "2025-10-06T04:30:00.000Z",
+      "to": "2025-10-06T10:00:00.000Z",
+      "id": "8ebe8f73166ea6e9a21d6c11eb8c14e0"
+    },
+    {
+      "date": "Le mardi 8 juillet 2025 de  11:00:00 à  16:00:00",
+      "streets": "(i)\tSaint Hilaire habitant dans le périmètre et les rues suivantes:Juhoor Lane, Vanapillay Lane, Kalachand Lane et une partie de la Route Royale Saint Hilaire (ii)\tSaint Hubert habitant dans le périmètre et les rues suivantes: Ramdoss Lane, Ramaya Lane, Ghoorpantur Lane et une partie de la Route Royale Saint Hubert",
+      "from": "2025-07-08T07:00:00.000Z",
+      "to": "2025-07-08T12:00:00.000Z",
+      "id": "fe43512563806a278f993bed2edf4878"
+    },
+    {
+      "date": "Le dimanche 26 novembre 2023 de  09:30:00 à  14:00:00",
+      "streets": "Saint Hilaire habitant dans le périmètre et les rues suivantes: Morcellement St Henri Saint Hilaire, Chemin Juhoor et une partie de la Route Royale vers Saint Hubert",
+      "from": "2023-11-26T05:30:00.000Z",
+      "to": "2023-11-26T10:00:00.000Z",
+      "id": "43349cf2d9229dcfa9a218e9abdfc4be"
+    },
+    {
+      "date": "Le dimanche 29 octobre 2023 de  09:30:00 à  14:00:00",
+      "streets": "Rue Cent Gaulettes",
+      "from": "2023-10-29T05:30:00.000Z",
+      "to": "2023-10-29T10:00:00.000Z",
+      "id": "a3e0d5c9105bb6474763fd1fcaa63724"
+    },
+    {
+      "date": "Le mercredi 5 avril 2023 de  09:00:00 à  16:00:00",
+      "streets": "SAINT HILAIRE,ST HUBERT ,CENT GAULETTE",
+      "from": "2023-04-05T05:00:00.000Z",
+      "to": "2023-04-05T12:00:00.000Z",
+      "id": "6043b5028d79d4b83e9c862e25fd1417"
+    },
+    {
+      "date": "Le lundi 3 avril 2023 de  09:00:00 à  15:00:00",
+      "streets": "Saint Hilaire et une partie de Saint Hubert",
+      "from": "2023-04-03T05:00:00.000Z",
+      "to": "2023-04-03T11:00:00.000Z",
+      "id": "e0112cace4295f3945feea14759663fa"
+    }
+  ]
+}

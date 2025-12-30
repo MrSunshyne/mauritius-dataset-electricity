@@ -1,0 +1,88 @@
+{
+  "date": "2022-05-18",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.482Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le mercredi 18 mai 2022 de  17:45:00 à  22:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "AVE ALOUETTES,PERRUCHES @ MORC RICHLAND",
+      "district": "blackriver",
+      "from": "2022-05-18T13:45:00.000Z",
+      "to": "2022-05-18T18:00:00.000Z",
+      "id": "f69e81779551596ef34471ae4bbdeb43"
+    },
+    {
+      "date": "Le mercredi 18 mai 2022 de  13:00:00 à  15:00:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "MAISON BLANCHE PAMPLEMOUSSES",
+      "district": "pamplemousses",
+      "from": "2022-05-18T09:00:00.000Z",
+      "to": "2022-05-18T11:00:00.000Z",
+      "id": "5fd9a8b179a03f653e344459fe9ac7f8"
+    },
+    {
+      "date": "Le mercredi 18 mai 2022 de  16:00:00 à  17:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "SCHOOL RD TOMBEAU BAY NR NHDC",
+      "district": "pamplemousses",
+      "from": "2022-05-18T12:00:00.000Z",
+      "to": "2022-05-18T13:00:00.000Z",
+      "id": "b8cef8065d561d7f12cd1640a6681444"
+    },
+    {
+      "date": "Le mercredi 18 mai 2022 de  08:30:00 à  15:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "Montreal en partie Jasmins, Ylang Ylang, Marguerite et Iris",
+      "district": "plainewilhems",
+      "from": "2022-05-18T04:30:00.000Z",
+      "to": "2022-05-18T11:00:00.000Z",
+      "id": "4e19f12882fcf15c10123f22766f06f1"
+    },
+    {
+      "date": "Le mercredi 18 mai 2022 de  08:30:00 à  16:00:00",
+      "locality": "CITE CHEBEL",
+      "localitySlug": "cite-chebel",
+      "streets": "Chebeque Residence Lotus",
+      "district": "plainewilhems",
+      "from": "2022-05-18T04:30:00.000Z",
+      "to": "2022-05-18T12:00:00.000Z",
+      "id": "a7def952570337cbdd0d6f46c1b67619"
+    },
+    {
+      "date": "Le mercredi 18 mai 2022 de  09:00:00 à  14:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Partie de Commerson, partie de Morcellement Senneville, Impasse Boullée et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-05-18T05:00:00.000Z",
+      "to": "2022-05-18T10:00:00.000Z",
+      "id": "a552f49c1c39eb4693367621f13fc6ae"
+    },
+    {
+      "date": "Le mercredi 18 mai 2022 de  09:30:00 à  18:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "WILLOUGHBY ROAD",
+      "district": "plainewilhems",
+      "from": "2022-05-18T05:30:00.000Z",
+      "to": "2022-05-18T14:00:00.000Z",
+      "id": "6fb3414ac6eb390c91845867923dcefb"
+    },
+    {
+      "date": "Le mercredi 18 mai 2022 de  10:00:00 à  13:00:00",
+      "locality": "VALLEE PITOT",
+      "localitySlug": "vallee-pitot",
+      "streets": "CRIMEA VALLEE PITOT-BLVD HUGON V PITOT",
+      "district": "portlouis",
+      "from": "2022-05-18T06:00:00.000Z",
+      "to": "2022-05-18T09:00:00.000Z",
+      "id": "4aa5a700256309fbc186ef409372bc3f"
+    }
+  ]
+}

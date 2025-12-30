@@ -1,0 +1,78 @@
+{
+  "date": "2023-04-17",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.493Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le lundi 17 avril 2023 de  16:00:00 à  18:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "TERRE ALBION",
+      "district": "blackriver",
+      "from": "2023-04-17T12:00:00.000Z",
+      "to": "2023-04-17T14:00:00.000Z",
+      "id": "e290c40bf75f792ebf1c46403536a4e4"
+    },
+    {
+      "date": "Le lundi 17 avril 2023 de  18:30:00 à  21:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC PALMYRE FLIC EN FLAC",
+      "district": "blackriver",
+      "from": "2023-04-17T14:30:00.000Z",
+      "to": "2023-04-17T17:30:00.000Z",
+      "id": "cf3b5960881a4bb9fb982149792e937b"
+    },
+    {
+      "date": "Le lundi 17 avril 2023 de  11:00:00 à  12:30:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "Neerunjun Lane,Royal Road(Nr Dream Price)",
+      "district": "pamplemousses",
+      "from": "2023-04-17T07:00:00.000Z",
+      "to": "2023-04-17T08:30:00.000Z",
+      "id": "bb0cbd83a248ddbfc30d2aee09bc40b9"
+    },
+    {
+      "date": "Le lundi 17 avril 2023 de  09:00:00 à  11:00:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "Morc MTMD (Nr KOVIL)",
+      "district": "plainewilhems",
+      "from": "2023-04-17T05:00:00.000Z",
+      "to": "2023-04-17T07:00:00.000Z",
+      "id": "9076aa9ecb3d107793b12014139c4022"
+    },
+    {
+      "date": "Le lundi 17 avril 2023 de  16:40:00 à  20:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "HILLCREST ,ROSIGNOL",
+      "district": "plainewilhems",
+      "from": "2023-04-17T12:40:00.000Z",
+      "to": "2023-04-17T16:00:00.000Z",
+      "id": "c528ec603149e6ad936a9a1ebf8ed16a"
+    },
+    {
+      "date": "Le lundi 17 avril 2023 de  20:00:00 à  21:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "RUE ORCHIDEE ,ROSIER,SSRQUATRE BORNE",
+      "district": "plainewilhems",
+      "from": "2023-04-17T16:00:00.000Z",
+      "to": "2023-04-17T17:30:00.000Z",
+      "id": "b847edac75a3f5600ad49e26ed9d6295"
+    },
+    {
+      "date": "Le lundi 17 avril 2023 de  17:45:00 à  20:30:00",
+      "locality": "LE HOCHET",
+      "localitySlug": "le-hochet",
+      "streets": "TAGORE LANE LE HOCHET",
+      "district": "portlouis",
+      "from": "2023-04-17T13:45:00.000Z",
+      "to": "2023-04-17T16:30:00.000Z",
+      "id": "e7366c5d82791e02f8de656dc8b64d3b"
+    }
+  ]
+}

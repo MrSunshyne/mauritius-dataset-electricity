@@ -1,0 +1,48 @@
+{
+  "date": "2025-02-23",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.520Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le dimanche 23 février 2025 de  08:00:00 à  13:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "SPLENDID VIEW ALBION",
+      "district": "blackriver",
+      "from": "2025-02-23T04:00:00.000Z",
+      "to": "2025-02-23T09:00:00.000Z",
+      "id": "3caa174b81c517989e6bd7ababa3b7de"
+    },
+    {
+      "date": "Le dimanche 23 février 2025 de  20:30:00 à  21:00:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "CHEMIN LA FORGE, PETIT CHEMIN BEL AIR RIV SECHE AND SURROUNDINGS",
+      "district": "flacq",
+      "from": "2025-02-23T16:30:00.000Z",
+      "to": "2025-02-23T17:00:00.000Z",
+      "id": "7a75f254a7f1da002b92cbaeb9cb9f7f"
+    },
+    {
+      "date": "Le dimanche 23 février 2025 de  08:30:00 à  15:30:00",
+      "locality": "MOKA",
+      "localitySlug": "moka",
+      "streets": "Bois Cheri Rd, Francois Woo, Kheedaran et en partie Petit Verger Branch Rd",
+      "district": "moka",
+      "from": "2025-02-23T04:30:00.000Z",
+      "to": "2025-02-23T11:30:00.000Z",
+      "id": "ccd3786e2add91788f511a26be1dc46a"
+    },
+    {
+      "date": "Le dimanche 23 février 2025 de  08:00:00 à  16:00:00",
+      "locality": "MORC SAINT ANDRE",
+      "localitySlug": "morc-saint-andre",
+      "streets": "Morcellement St Andre",
+      "district": "pamplemousses",
+      "from": "2025-02-23T04:00:00.000Z",
+      "to": "2025-02-23T12:00:00.000Z",
+      "id": "9c9a1ca5ab7aca002abcf58221967e9d"
+    }
+  ]
+}

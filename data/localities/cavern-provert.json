@@ -1,0 +1,25 @@
+{
+  "slug": "cavern-provert",
+  "name": "CAVERN PROVERT(RODRIGUES)",
+  "district": "rodrigues",
+  "generated": "2025-12-30T19:07:15.623Z",
+  "outageCount": 2,
+  "firstOutage": "2025-01-15",
+  "lastOutage": "2025-12-11",
+  "outages": [
+    {
+      "date": "Le jeudi 11 décembre 2025 de  08:30:00 à  18:00:00",
+      "streets": "Jean Tac, Terre Rouge (Morcellement), Anse Aux Anglais et Pointe Venus",
+      "from": "2025-12-11T04:30:00.000Z",
+      "to": "2025-12-11T14:00:00.000Z",
+      "id": "9d92cee90df534dc836c2d8f6c43a4f5"
+    },
+    {
+      "date": "Le mercredi 15 janvier 2025 de  08:00:00 à  15:00:00",
+      "streets": "Jean Tac-Planned",
+      "from": "2025-01-15T04:00:00.000Z",
+      "to": "2025-01-15T11:00:00.000Z",
+      "id": "f49112503152bb299c9aacad0d074a28"
+    }
+  ]
+}

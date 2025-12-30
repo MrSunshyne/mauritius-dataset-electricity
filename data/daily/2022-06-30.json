@@ -1,0 +1,98 @@
+{
+  "date": "2022-06-30",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.483Z",
+  "outageCount": 9,
+  "outages": [
+    {
+      "date": "Le jeudi 30 juin 2022 de  08:30:00 à  17:00:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "Les abonnés habitant à Bel-Air Riviere Seche dans les périmètres de Dispensaire De Bel-Air, Morcellement Dalwar, Cite CHA, Morcellement Roy, Supermarché Jowahir, Winners, Camp La Serpe et L’Eglise St Esprit",
+      "district": "flacq",
+      "from": "2022-06-30T04:30:00.000Z",
+      "to": "2022-06-30T13:00:00.000Z",
+      "id": "dc291c79d7094053366de499911c6019"
+    },
+    {
+      "date": "Le jeudi 30 juin 2022 de  08:30:00 à  17:00:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "Rose Belle habitant dans le périmètre et les rues suivantes: Morcellement Orchidées, Madame Lolo, Market Lane, Chemin Dispensaire, Kulpoo Lane, EDC Rose Belle, Railway Road, Chemin Mongelaard et une partie de la Route Royale Rose Belle",
+      "district": "grandport",
+      "from": "2022-06-30T04:30:00.000Z",
+      "to": "2022-06-30T13:00:00.000Z",
+      "id": "d19b3d6cea441d173effb9880990406d"
+    },
+    {
+      "date": "Le jeudi 30 juin 2022 de  09:00:00 à  00:00:00",
+      "locality": "VILLENOIRE",
+      "localitySlug": "villenoire",
+      "streets": "Ville Noire (Une partie)",
+      "district": "grandport",
+      "from": "2022-06-30T05:00:00.000Z",
+      "to": "2022-06-29T20:00:00.000Z",
+      "id": "aa04c28680db12429b7687f3b348214f"
+    },
+    {
+      "date": "Le jeudi 30 juin 2022 de  13:00:00 à  14:30:00",
+      "locality": "RIVIERE DES CREOLES",
+      "localitySlug": "riviere-des-creoles",
+      "streets": "Morc VRS Riviere des Creoles",
+      "district": "grandport",
+      "from": "2022-06-30T09:00:00.000Z",
+      "to": "2022-06-30T10:30:00.000Z",
+      "id": "c261426ec7bdd500902ac75190c2aafe"
+    },
+    {
+      "date": "Le jeudi 30 juin 2022 de  14:00:00 à  17:00:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "Morc Purmessur,  Residence  Val D’Oise , Mosque Road , une partie de Tout court Road",
+      "district": "plainewilhems",
+      "from": "2022-06-30T10:00:00.000Z",
+      "to": "2022-06-30T13:00:00.000Z",
+      "id": "93f398328d3cb460b6bdb48787585376"
+    },
+    {
+      "date": "Le jeudi 30 juin 2022 de  08:30:00 à  14:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "dans les environs de Morc Petit Village",
+      "district": "rivieredurempart",
+      "from": "2022-06-30T04:30:00.000Z",
+      "to": "2022-06-30T10:00:00.000Z",
+      "id": "77796c4a301fdc63c98767fa12ca71bf"
+    },
+    {
+      "date": "Le jeudi 30 juin 2022 de  09:00:00 à  15:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "Coastal Road Grand Bay",
+      "district": "rivieredurempart",
+      "from": "2022-06-30T05:00:00.000Z",
+      "to": "2022-06-30T11:00:00.000Z",
+      "id": "874c1b5cc56aa03eecfc7e3369c20b70"
+    },
+    {
+      "date": "Le jeudi 30 juin 2022 de  12:45:00 à  15:00:00",
+      "locality": "AMAURY",
+      "localitySlug": "amaury",
+      "streets": "Temple Rd Amaury",
+      "district": "rivieredurempart",
+      "from": "2022-06-30T08:45:00.000Z",
+      "to": "2022-06-30T11:00:00.000Z",
+      "id": "2240e97cfc1263bb8efeae6de9c91ef0"
+    },
+    {
+      "date": "Le jeudi 30 juin 2022 de  09:00:00 à  11:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Oranges, Vainqueur,Dans Bebe et Chateau DEau",
+      "district": "rodrigues",
+      "from": "2022-06-30T05:00:00.000Z",
+      "to": "2022-06-30T07:00:00.000Z",
+      "id": "9a3e61a3355b26a8af2f9c43fcb4390e"
+    }
+  ]
+}

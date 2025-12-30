@@ -1,0 +1,58 @@
+{
+  "date": "2025-03-17",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.521Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le lundi 17 mars 2025 de  11:30:00 à  12:45:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "MADAME LOLO ROSEBELLE,MORC ORCHIDEE,ROYAL ROAD",
+      "district": "grandport",
+      "from": "2025-03-17T07:30:00.000Z",
+      "to": "2025-03-17T08:45:00.000Z",
+      "id": "bea33ffa5621920d2a2a1f3ae00db497"
+    },
+    {
+      "date": "Le lundi 17 mars 2025 de  15:00:00 à  16:30:00",
+      "locality": "CITE LA CURE",
+      "localitySlug": "cite-la-cure",
+      "streets": "LES ABONNES HABITANT RESIDENCE LA CURE",
+      "district": "portlouis",
+      "from": "2025-03-17T11:00:00.000Z",
+      "to": "2025-03-17T12:30:00.000Z",
+      "id": "ea1504fca6ac77a0554745ba0d1725b5"
+    },
+    {
+      "date": "Le lundi 17 mars 2025 de  15:00:00 à  16:30:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "LES ABONNES HABITANT VALLEE DES PRETRES",
+      "district": "portlouis",
+      "from": "2025-03-17T11:00:00.000Z",
+      "to": "2025-03-17T12:30:00.000Z",
+      "id": "944a8bf6a468084ae22f1376511c6b5f"
+    },
+    {
+      "date": "Le lundi 17 mars 2025 de  10:30:00 à  14:00:00",
+      "locality": "AMAURY",
+      "localitySlug": "amaury",
+      "streets": "MORC BEAU CLIMAT, PART OF BOIS ZAKO",
+      "district": "rivieredurempart",
+      "from": "2025-03-17T06:30:00.000Z",
+      "to": "2025-03-17T10:00:00.000Z",
+      "id": "82bf3cc04162d81f4cbca4198b864a2a"
+    },
+    {
+      "date": "Le lundi 17 mars 2025 de  08:30:00 à  17:00:00",
+      "locality": "SAINT AUBIN",
+      "localitySlug": "saint-aubin",
+      "streets": "Saint Aubin – Morc. La Digue Saint Aubin",
+      "district": "savanne",
+      "from": "2025-03-17T04:30:00.000Z",
+      "to": "2025-03-17T13:00:00.000Z",
+      "id": "ea71267b5e4397126cd7861cba3f9dc9"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2023-02-24",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.491Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le vendredi 24 février 2023 de  08:30:00 à  16:30:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "LA MIVOIE ET MORC CARLOS",
+      "district": "blackriver",
+      "from": "2023-02-24T04:30:00.000Z",
+      "to": "2023-02-24T12:30:00.000Z",
+      "id": "0b28eefac5cbadf506f2e32191338162"
+    },
+    {
+      "date": "Le vendredi 24 février 2023 de  09:00:00 à  15:00:00",
+      "locality": "GENTILLY- MOKA",
+      "localitySlug": "gentilly-moka",
+      "streets": "GENTILLY MOKA",
+      "district": "moka",
+      "from": "2023-02-24T05:00:00.000Z",
+      "to": "2023-02-24T11:00:00.000Z",
+      "id": "79c2c907ef1f401aff004ffd95eae8d0"
+    },
+    {
+      "date": "Le vendredi 24 février 2023 de  08:30:00 à  16:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "une partie de Route Granum, Morcellement Sauba ,Wilson Lane, Mudaliar Road et les environs",
+      "district": "plainewilhems",
+      "from": "2023-02-24T04:30:00.000Z",
+      "to": "2023-02-24T12:30:00.000Z",
+      "id": "487fa1bcba095259f0adb983cdcd9399"
+    },
+    {
+      "date": "Le vendredi 24 février 2023 de  09:00:00 à  15:00:00",
+      "locality": "CHAMOUNY",
+      "localitySlug": "chamouny",
+      "streets": "Tamil Temple Road et School Road",
+      "district": "savanne",
+      "from": "2023-02-24T05:00:00.000Z",
+      "to": "2023-02-24T11:00:00.000Z",
+      "id": "b6f0232eefb1f8600144ad6ec3685aa6"
+    },
+    {
+      "date": "Le vendredi 24 février 2023 de  09:00:00 à  15:00:00",
+      "locality": "BAIE DU CAP",
+      "localitySlug": "baie-du-cap",
+      "streets": "BAIE DU CAP",
+      "district": "savanne",
+      "from": "2023-02-24T05:00:00.000Z",
+      "to": "2023-02-24T11:00:00.000Z",
+      "id": "3ec5398febe30687c0aeb0c57d6ac9ef"
+    }
+  ]
+}

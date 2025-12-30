@@ -1,0 +1,108 @@
+{
+  "date": "2025-01-07",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.517Z",
+  "outageCount": 10,
+  "outages": [
+    {
+      "date": "Le mardi 7 janvier 2025 de  08:55:00 à  12:00:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "MORC CARLOS, AVE PECHEUR ET LES ALENTOURS",
+      "district": "blackriver",
+      "from": "2025-01-07T04:55:00.000Z",
+      "to": "2025-01-07T08:00:00.000Z",
+      "id": "ff3a66ddfa8bfe182371afc5eac6cfe0"
+    },
+    {
+      "date": "Le mardi 7 janvier 2025 de  09:30:00 à  14:30:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "PETIT CHEMIN,ROYAL RD NEAR MCB",
+      "district": "flacq",
+      "from": "2025-01-07T05:30:00.000Z",
+      "to": "2025-01-07T10:30:00.000Z",
+      "id": "d32c978877ba397e9c4762c76e5383cd"
+    },
+    {
+      "date": "Le mardi 7 janvier 2025 de  08:30:00 à  17:00:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "Jawaharlall Nehru Hospital,Gajanam Temple et Seedeni Road, Rose Belle",
+      "district": "grandport",
+      "from": "2025-01-07T04:30:00.000Z",
+      "to": "2025-01-07T13:00:00.000Z",
+      "id": "c92063df6b9b8ff6405642a568d0f8d7"
+    },
+    {
+      "date": "Le mardi 7 janvier 2025 de  08:30:00 à  15:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Ave Morison, Ave Gaston Vellin, en partie Route Royale Beau-Bassin et les environs",
+      "district": "plainewilhems",
+      "from": "2025-01-07T04:30:00.000Z",
+      "to": "2025-01-07T11:00:00.000Z",
+      "id": "9cca5608182ec47d5e200b3f87cbbdda"
+    },
+    {
+      "date": "Le mardi 7 janvier 2025 de  16:15:00 à  18:15:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "ROYAL RD,PAVE D-AMOUR,RICHELIEU BRCH ROAD,MORC HERMITAGE",
+      "district": "plainewilhems",
+      "from": "2025-01-07T12:15:00.000Z",
+      "to": "2025-01-07T14:15:00.000Z",
+      "id": "c9b851cf53c0725f3dc03c8932b1d836"
+    },
+    {
+      "date": "Le mardi 7 janvier 2025 de  21:15:00 à  22:15:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "LAMARIE",
+      "district": "plainewilhems",
+      "from": "2025-01-07T17:15:00.000Z",
+      "to": "2025-01-07T18:15:00.000Z",
+      "id": "d704ce1337254e8edc60ca57e3603edb"
+    },
+    {
+      "date": "Le mardi 7 janvier 2025 de  21:00:00 à  01:00:00",
+      "locality": "ROCHE BOIS",
+      "localitySlug": "roche-bois",
+      "streets": "CHEMIN DESCARRIERES, CHEMIN ST MARTIN, CHEMIN DESBOUCHERS ET LES ENVIRONS.",
+      "district": "portlouis",
+      "from": "2025-01-07T17:00:00.000Z",
+      "to": "2025-01-06T21:00:00.000Z",
+      "id": "6ae7d066a0eb3a3fc31dba681541f77b"
+    },
+    {
+      "date": "Le mardi 7 janvier 2025 de  14:00:00 à  16:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "CHEMIN VINGT PIEDS, PEREYBERE, CAP MALHEUREUX, ST FRANCOIS, CALODYNE, GRAND GAUBE",
+      "district": "rivieredurempart",
+      "from": "2025-01-07T10:00:00.000Z",
+      "to": "2025-01-07T12:00:00.000Z",
+      "id": "24b6703a021c6cd603f4ccd1866062a5"
+    },
+    {
+      "date": "Le mardi 7 janvier 2025 de  20:30:00 à  02:00:00",
+      "locality": "CAP MALHEUREUX",
+      "localitySlug": "cap-malheureux",
+      "streets": "ALLEE MANGUIER CAO MALHEUREUX",
+      "district": "rivieredurempart",
+      "from": "2025-01-07T16:30:00.000Z",
+      "to": "2025-01-06T22:00:00.000Z",
+      "id": "ceed6085e34f3e761504cbe9e141ebb2"
+    },
+    {
+      "date": "Le mardi 7 janvier 2025 de  21:00:00 à  00:30:00",
+      "locality": "TYACK",
+      "localitySlug": "tyack",
+      "streets": "ST AUBIN,RIVIERE DES ANGUILLES,TYACK,BRITANIA,MARE TABAC",
+      "district": "savanne",
+      "from": "2025-01-07T17:00:00.000Z",
+      "to": "2025-01-06T20:30:00.000Z",
+      "id": "11eae8a6e36312e886b5a0ed6a5975f0"
+    }
+  ]
+}

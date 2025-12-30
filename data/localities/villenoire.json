@@ -1,0 +1,333 @@
+{
+  "slug": "villenoire",
+  "name": "VILLENOIRE",
+  "district": "grandport",
+  "generated": "2025-12-30T19:07:15.889Z",
+  "outageCount": 46,
+  "firstOutage": "2022-06-10",
+  "lastOutage": "2025-10-31",
+  "outages": [
+    {
+      "date": "Le vendredi 31 octobre 2025 de  09:00:00 à  15:00:00",
+      "streets": "MORC VRS VILLENOIRE",
+      "from": "2025-10-31T05:00:00.000Z",
+      "to": "2025-10-31T11:00:00.000Z",
+      "id": "f22e6fcd1e92aafa89305e8aadde8430"
+    },
+    {
+      "date": "Le lundi 13 octobre 2025 de  14:00:00 à  15:30:00",
+      "streets": "MORC RUISSEAU DES DELICES AND SURROUNDINGS",
+      "from": "2025-10-13T10:00:00.000Z",
+      "to": "2025-10-13T11:30:00.000Z",
+      "id": "f34d960edd58d50257c8e539b541d4fc"
+    },
+    {
+      "date": "Le vendredi 10 octobre 2025 de  12:30:00 à  14:30:00",
+      "streets": "MORC BLUE PRINT..TOWARDS GRAND BEL AIR",
+      "from": "2025-10-10T08:30:00.000Z",
+      "to": "2025-10-10T10:30:00.000Z",
+      "id": "35310a50a19b534d34e9a058c685aa76"
+    },
+    {
+      "date": "Le vendredi 10 octobre 2025 de  09:00:00 à  11:00:00",
+      "streets": "MORC BLUE PRINT",
+      "from": "2025-10-10T05:00:00.000Z",
+      "to": "2025-10-10T07:00:00.000Z",
+      "id": "121d12b8a1758e4dfe91e9a7e909aa89"
+    },
+    {
+      "date": "Le lundi 29 septembre 2025 de  14:00:00 à  17:00:00",
+      "streets": "CITE AND SURROUNDING",
+      "from": "2025-09-29T10:00:00.000Z",
+      "to": "2025-09-29T13:00:00.000Z",
+      "id": "9a5535c4ae7c3756b31f7c98e4c37aa7"
+    },
+    {
+      "date": "Le jeudi 17 juillet 2025 de  05:00:00 à  13:00:00",
+      "streets": "MORC VRS",
+      "from": "2025-07-17T01:00:00.000Z",
+      "to": "2025-07-17T09:00:00.000Z",
+      "id": "e8987c0e988955ed2b8cc24741c61712"
+    },
+    {
+      "date": "Le mercredi 15 janvier 2025 de  15:25:00 à  16:00:00",
+      "streets": "NHDC VILLENOIRE.-Unplanned",
+      "from": "2025-01-15T11:25:00.000Z",
+      "to": "2025-01-15T12:00:00.000Z",
+      "id": "30bcfae5a19062d94ba0c12549e6de54"
+    },
+    {
+      "date": "Le mercredi 15 janvier 2025 de  09:30:00 à  12:00:00",
+      "streets": "NHDC-Unplanned",
+      "from": "2025-01-15T05:30:00.000Z",
+      "to": "2025-01-15T08:00:00.000Z",
+      "id": "d34de747a7a8b5b5ef3faa0a6061bd88"
+    },
+    {
+      "date": "Le mardi 15 octobre 2024 de  09:00:00 à  11:15:00",
+      "streets": "NHDC,VilleNoire",
+      "from": "2024-10-15T05:00:00.000Z",
+      "to": "2024-10-15T07:15:00.000Z",
+      "id": "17bdff8d700f6c34f52f4bb7e07d67e6"
+    },
+    {
+      "date": "Le jeudi 19 septembre 2024 de  18:55:00 à  20:30:00",
+      "streets": "VILLENOIRE",
+      "from": "2024-09-19T14:55:00.000Z",
+      "to": "2024-09-19T16:30:00.000Z",
+      "id": "e210e04e2f44393f175a8c6f5eb10a3d"
+    },
+    {
+      "date": "Le dimanche 23 juin 2024 de  09:00:00 à  12:00:00",
+      "streets": "MOEC DELICE VILLENOIRE",
+      "from": "2024-06-23T05:00:00.000Z",
+      "to": "2024-06-23T08:00:00.000Z",
+      "id": "b15370352731ba24437ba4085f8bf89d"
+    },
+    {
+      "date": "Le mardi 4 juin 2024 de  08:30:00 à  17:00:00",
+      "streets": "Ville Noire & Petit Bel Air habitant dans le périmètre et les rues suivantes: Ruisseau Delice, NHDC Ville Noire, CHA Ville Noire, VRS No I & II, Morcellement Blue Print Ville Noire, NHDC Petit Bel Air et Petit Bel air Village",
+      "from": "2024-06-04T04:30:00.000Z",
+      "to": "2024-06-04T13:00:00.000Z",
+      "id": "70480bbad98d3db61a25ebc36e069c59"
+    },
+    {
+      "date": "Le vendredi 1 mars 2024 de  14:00:00 à  17:00:00",
+      "streets": "Morcellement VRS 1, 2, 3 & 4 et une partie de Ville Noire",
+      "from": "2024-03-01T10:00:00.000Z",
+      "to": "2024-03-01T13:00:00.000Z",
+      "id": "67c0f841cf5bb5d65eac33fd929227ab"
+    },
+    {
+      "date": "Le jeudi 7 décembre 2023 de  08:30:00 à  17:00:00",
+      "streets": "Ruisseau Delices Ville Noire",
+      "from": "2023-12-07T04:30:00.000Z",
+      "to": "2023-12-07T13:00:00.000Z",
+      "id": "8d731a124b7503dcfdf9be959efe61ab"
+    },
+    {
+      "date": "Le jeudi 5 octobre 2023 de  16:00:00 à  00:00:00",
+      "streets": "RUE BAZAR VILLE NOIR MAHEBOURG",
+      "from": "2023-10-05T12:00:00.000Z",
+      "to": "2023-10-04T20:00:00.000Z",
+      "id": "72121f2d2ce40fd2cfaa980c8ff70b56"
+    },
+    {
+      "date": "Le dimanche 1 octobre 2023 de  09:00:00 à  11:00:00",
+      "streets": "Ville Noire habitant dans le périmètre et les rues suivantes: Bazaar Street, St Martin Street, Boulangerie Street, Dassoo Street et les rues avoisinantes",
+      "from": "2023-10-01T05:00:00.000Z",
+      "to": "2023-10-01T07:00:00.000Z",
+      "id": "31550a559f8539fabfacedeab1ec2104"
+    },
+    {
+      "date": "Le lundi 11 septembre 2023 de  05:00:00 à  12:00:00",
+      "streets": "MORC RUISSEAU DELICES VILLE NOIRE",
+      "from": "2023-09-11T01:00:00.000Z",
+      "to": "2023-09-11T08:00:00.000Z",
+      "id": "befc1af72ef5fa47093554b4c64c94c8"
+    },
+    {
+      "date": "Le dimanche 27 août 2023 de  08:30:00 à  17:00:00",
+      "streets": "Ville Noire habitant dans le périmètre et les rues suivantes: Morcellement Ruisseau Delices, CHA Ville Noire et une partie Petit Bel Air",
+      "from": "2023-08-27T04:30:00.000Z",
+      "to": "2023-08-27T13:00:00.000Z",
+      "id": "d2fca41cdc7d0154c8a3e41a4c13a74e"
+    },
+    {
+      "date": "Le dimanche 23 juillet 2023 de  08:30:00 à  17:00:00",
+      "streets": "Morcellement Ruisseau Delices Ville Noire & NHDC Petit Bel Air",
+      "from": "2023-07-23T04:30:00.000Z",
+      "to": "2023-07-23T13:00:00.000Z",
+      "id": "083f10dc9c79349b0b86a6df317d8e3b"
+    },
+    {
+      "date": "Le lundi 12 juin 2023 de  09:00:00 à  15:30:00",
+      "streets": "VILLENOIRE",
+      "from": "2023-06-12T05:00:00.000Z",
+      "to": "2023-06-12T11:30:00.000Z",
+      "id": "2966959538b23666b48f97c18104497b"
+    },
+    {
+      "date": "Le dimanche 11 juin 2023 de  09:30:00 à  14:00:00",
+      "streets": "Ville Noire habitant dans le périmètre et les rues suivantes: CHA Ville Noire, Chemin La Grotte, Chemin vers Riche Eau, une partie de la Route Royale Ville Noire et les régions avoisinantes",
+      "from": "2023-06-11T05:30:00.000Z",
+      "to": "2023-06-11T10:00:00.000Z",
+      "id": "b165f812dcc45f79c813718373a966c2"
+    },
+    {
+      "date": "Le dimanche 4 juin 2023 de  09:30:00 à  14:00:00",
+      "streets": "Ville Noire habitant dans le périmètre et les rues suivantes: Chemin Fabien, Usine Rault, Chemin One way vers Mahebourg, une partie de Morcellement Ville Noire, une partie de la Route Royale Ville Noire et les régions avoisinantes",
+      "from": "2023-06-04T05:30:00.000Z",
+      "to": "2023-06-04T10:00:00.000Z",
+      "id": "3ab0280219cf5615a0633a14f9e5b29e"
+    },
+    {
+      "date": "Le dimanche 21 mai 2023 de  09:30:00 à  14:00:00",
+      "streets": "Ville Noire habitant dans le périmètre et les rues suivantes: Boulangerie Road, Saint Martin Street, Bazaar Street, Bambous Street, Rafael Street, Aigrettes Street, Reben Street",
+      "from": "2023-05-21T05:30:00.000Z",
+      "to": "2023-05-21T10:00:00.000Z",
+      "id": "fdfebaf9488a2dff246f06f6bcc3768b"
+    },
+    {
+      "date": "Le dimanche 14 mai 2023 de  09:30:00 à  14:00:00",
+      "streets": "Ville Noire habitant dans le périmètre et les rues suivantes: Matabadul Road, Hospital Street, Chemin Magasin, Des Limite Road, Champagne Road, Quincaillerie Vassen, Siva Aluminium et Social Centre Road",
+      "from": "2023-05-14T05:30:00.000Z",
+      "to": "2023-05-14T10:00:00.000Z",
+      "id": "ca8da279fb4ad034c32d14faca9db6b1"
+    },
+    {
+      "date": "Le dimanche 7 mai 2023 de  09:30:00 à  14:30:00",
+      "streets": "MORCELLEMENT RUISSEAU DELICES VILLE NOIRE",
+      "from": "2023-05-07T05:30:00.000Z",
+      "to": "2023-05-07T10:30:00.000Z",
+      "id": "ad8bac95e625c6bd1103075c64a511ce"
+    },
+    {
+      "date": "Le dimanche 30 avril 2023 de  09:30:00 à  14:30:00",
+      "streets": "Morcellement VRS Ville Noire et Morcellement Blue Print Ville Noire",
+      "from": "2023-04-30T05:30:00.000Z",
+      "to": "2023-04-30T10:30:00.000Z",
+      "id": "a4ce381346cc0ec83047aded8a50446e"
+    },
+    {
+      "date": "Le mardi 25 avril 2023 de  09:30:00 à  17:00:00",
+      "streets": "Morcellement Ruisseau Delices Ville Noire",
+      "from": "2023-04-25T05:30:00.000Z",
+      "to": "2023-04-25T13:00:00.000Z",
+      "id": "8737ae5b635e198cbc2c09875ed081b2"
+    },
+    {
+      "date": "Le dimanche 23 avril 2023 de  09:30:00 à  14:00:00",
+      "streets": "Morcellement VRS et Morcellement Blue Print Ville Noire",
+      "from": "2023-04-23T05:30:00.000Z",
+      "to": "2023-04-23T10:00:00.000Z",
+      "id": "2b8b6901196610891327ddac2136b109"
+    },
+    {
+      "date": "Le dimanche 16 avril 2023 de  09:30:00 à  14:00:00",
+      "streets": "Morcellement Blue Print Ville Noire",
+      "from": "2023-04-16T05:30:00.000Z",
+      "to": "2023-04-16T10:00:00.000Z",
+      "id": "36cef21685ea582376d713bbb0eda9b8"
+    },
+    {
+      "date": "Le dimanche 2 avril 2023 de  09:30:00 à  14:00:00",
+      "streets": "Morcellement VRS Ville Noire",
+      "from": "2023-04-02T05:30:00.000Z",
+      "to": "2023-04-02T10:00:00.000Z",
+      "id": "4ef9a907d37ecf8f90bb11c974d849b2"
+    },
+    {
+      "date": "Le dimanche 26 mars 2023 de  09:30:00 à  14:00:00",
+      "streets": "Morcellement VRS Ville Noire",
+      "from": "2023-03-26T05:30:00.000Z",
+      "to": "2023-03-26T10:00:00.000Z",
+      "id": "f88fd64f267837616cb06eb513021808"
+    },
+    {
+      "date": "Le samedi 25 mars 2023 de  08:30:00 à  17:00:00",
+      "streets": "Morcellement Blue Print Ville Noire et NHDC Petit Bel-Air",
+      "from": "2023-03-25T04:30:00.000Z",
+      "to": "2023-03-25T13:00:00.000Z",
+      "id": "70b589ef2591ac461f2ba798b33d4dcb"
+    },
+    {
+      "date": "Le dimanche 19 mars 2023 de  09:00:00 à  14:30:00",
+      "streets": "Morcellement VRS 2 Blue Print Ville Noire",
+      "from": "2023-03-19T05:00:00.000Z",
+      "to": "2023-03-19T10:30:00.000Z",
+      "id": "9bc316ab351170f1d41aef0aab477f35"
+    },
+    {
+      "date": "Le dimanche 5 mars 2023 de  09:00:00 à  14:30:00",
+      "streets": "Morcellement Blue Print Ville Noire",
+      "from": "2023-03-05T05:00:00.000Z",
+      "to": "2023-03-05T10:30:00.000Z",
+      "id": "41a5f63b5d056a2894a327ffaf6ee93f"
+    },
+    {
+      "date": "Le dimanche 19 février 2023 de  09:30:00 à  14:30:00",
+      "streets": "Morcellement Blue Print Ville Noire",
+      "from": "2023-02-19T05:30:00.000Z",
+      "to": "2023-02-19T10:30:00.000Z",
+      "id": "2edb5b688992f7cba0e2c192f0042a0a"
+    },
+    {
+      "date": "Le dimanche 12 février 2023 de  09:30:00 à  14:00:00",
+      "streets": "Morcellement VRS Ville Noire",
+      "from": "2023-02-12T05:30:00.000Z",
+      "to": "2023-02-12T10:00:00.000Z",
+      "id": "3b92f4124efeca578f29a9bcca5dd4c9"
+    },
+    {
+      "date": "Le dimanche 5 février 2023 de  09:30:00 à  14:00:00",
+      "streets": "Morcellement VRS Ville Noire",
+      "from": "2023-02-05T05:30:00.000Z",
+      "to": "2023-02-05T10:00:00.000Z",
+      "id": "11a4b869d86b7a5e5d07fdba220db4cd"
+    },
+    {
+      "date": "Le dimanche 29 janvier 2023 de  09:30:00 à  14:00:00",
+      "streets": "Morcellement VRS Ville Noire",
+      "from": "2023-01-29T05:30:00.000Z",
+      "to": "2023-01-29T10:00:00.000Z",
+      "id": "9fa76a9d8ff8e6d17618129c3c4118bf"
+    },
+    {
+      "date": "Le samedi 28 janvier 2023 de  09:30:00 à  14:00:00",
+      "streets": "Morcellement VRS Ville Noire",
+      "from": "2023-01-28T05:30:00.000Z",
+      "to": "2023-01-28T10:00:00.000Z",
+      "id": "7776cfdbcd39d615b07da487fb6a7b27"
+    },
+    {
+      "date": "Le mardi 24 janvier 2023 de  08:30:00 à  13:00:00",
+      "streets": "RUISSEAU DE LISE VILLENOIRE",
+      "from": "2023-01-24T04:30:00.000Z",
+      "to": "2023-01-24T09:00:00.000Z",
+      "id": "e038652040c14b10d1b3b204d6bc9b02"
+    },
+    {
+      "date": "Le vendredi 4 novembre 2022 de  09:00:00 à  13:00:00",
+      "streets": "Morcellement VRS Ville Noire",
+      "from": "2022-11-04T05:00:00.000Z",
+      "to": "2022-11-04T09:00:00.000Z",
+      "id": "6a11458b0584fbf2d99d41b71feae856"
+    },
+    {
+      "date": "Le mercredi 19 octobre 2022 de  02:00:00 à  15:00:00",
+      "streets": "VILLENOIRE",
+      "from": "2022-10-18T22:00:00.000Z",
+      "to": "2022-10-18T11:00:00.000Z",
+      "id": "2b62b1d715a08f6259c62117db2823b5"
+    },
+    {
+      "date": "Le mardi 4 octobre 2022 de  13:00:00 à  17:00:00",
+      "streets": "VILLENOIRE",
+      "from": "2022-10-04T09:00:00.000Z",
+      "to": "2022-10-04T13:00:00.000Z",
+      "id": "31321ce4abacbb38c24baa23f0e7ece5"
+    },
+    {
+      "date": "Le jeudi 18 août 2022 de  10:35:00 à  11:30:00",
+      "streets": "FABIEN STREET,PART OF VILLE NOIRE",
+      "from": "2022-08-18T06:35:00.000Z",
+      "to": "2022-08-18T07:30:00.000Z",
+      "id": "bc0acc489f00c62d37eded5de4b52d0b"
+    },
+    {
+      "date": "Le jeudi 30 juin 2022 de  09:00:00 à  00:00:00",
+      "streets": "Ville Noire (Une partie)",
+      "from": "2022-06-30T05:00:00.000Z",
+      "to": "2022-06-29T20:00:00.000Z",
+      "id": "aa04c28680db12429b7687f3b348214f"
+    },
+    {
+      "date": "Le vendredi 10 juin 2022 de  09:00:00 à  11:00:00",
+      "streets": "MORC RUISSEAU DELICE VILLENOIRE",
+      "from": "2022-06-10T05:00:00.000Z",
+      "to": "2022-06-10T07:00:00.000Z",
+      "id": "2d69c4f1836d3d9f9b56d293f51c27e6"
+    }
+  ]
+}

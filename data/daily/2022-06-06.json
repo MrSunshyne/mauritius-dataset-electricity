@@ -1,0 +1,78 @@
+{
+  "date": "2022-06-06",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.483Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le lundi 6 juin 2022 de  11:00:00 à  16:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "ALBION PHARE",
+      "district": "blackriver",
+      "from": "2022-06-06T07:00:00.000Z",
+      "to": "2022-06-06T12:00:00.000Z",
+      "id": "c6cbf3872b776a49a6c415a39b6a3285"
+    },
+    {
+      "date": "Le lundi 6 juin 2022 de  10:30:00 à  13:00:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "Morc Vrs Plaine de Gersigny Flacq",
+      "district": "flacq",
+      "from": "2022-06-06T06:30:00.000Z",
+      "to": "2022-06-06T09:00:00.000Z",
+      "id": "a45d39de0b0f698de22e92e759b08c2f"
+    },
+    {
+      "date": "Le lundi 6 juin 2022 de  15:15:00 à  16:45:00",
+      "locality": "BEAU VALLON",
+      "localitySlug": "beau-vallon",
+      "streets": "Beau Vallon",
+      "district": "grandport",
+      "from": "2022-06-06T11:15:00.000Z",
+      "to": "2022-06-06T12:45:00.000Z",
+      "id": "25b7c3cb075c96aa6bf19ea45268f671"
+    },
+    {
+      "date": "Le lundi 6 juin 2022 de  10:00:00 à  12:30:00",
+      "locality": "MORC SAINT ANDRE",
+      "localitySlug": "morc-saint-andre",
+      "streets": "Morc St Andre",
+      "district": "pamplemousses",
+      "from": "2022-06-06T06:00:00.000Z",
+      "to": "2022-06-06T08:30:00.000Z",
+      "id": "f1e058b6696c4ae1d445ea6a1f4b31c5"
+    },
+    {
+      "date": "Le lundi 6 juin 2022 de  10:15:00 à  11:45:00",
+      "locality": "BELLE VUE HAREL",
+      "localitySlug": "belle-vue-harel",
+      "streets": "Terra Belle Vue Harel",
+      "district": "pamplemousses",
+      "from": "2022-06-06T06:15:00.000Z",
+      "to": "2022-06-06T07:45:00.000Z",
+      "id": "3e3e13eee20bd3a47869d877458fc772"
+    },
+    {
+      "date": "Le lundi 6 juin 2022 de  15:15:00 à  17:45:00",
+      "locality": "KHOYRATTY",
+      "localitySlug": "khoyratty",
+      "streets": "Khoyratty",
+      "district": "pamplemousses",
+      "from": "2022-06-06T11:15:00.000Z",
+      "to": "2022-06-06T13:45:00.000Z",
+      "id": "19743fc983fbceacc9a8af9912256165"
+    },
+    {
+      "date": "Le lundi 6 juin 2022 de  09:00:00 à  11:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Leclezio Street",
+      "district": "plainewilhems",
+      "from": "2022-06-06T05:00:00.000Z",
+      "to": "2022-06-06T07:00:00.000Z",
+      "id": "fb39ad299a011a95f901c5440b220c2c"
+    }
+  ]
+}

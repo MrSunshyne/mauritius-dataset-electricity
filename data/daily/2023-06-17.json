@@ -1,0 +1,118 @@
+{
+  "date": "2023-06-17",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.495Z",
+  "outageCount": 11,
+  "outages": [
+    {
+      "date": "Le samedi 17 juin 2023 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC SAFELAND-AVE DES CIGOGNES, AVE DES ROSSIGNOLES, AVE CANARIES, AVE DES PIGEONS, AVE CATEAUX VERT ET UNE PARTIE DE LAVE CARRIERE",
+      "district": "blackriver",
+      "from": "2023-06-17T04:30:00.000Z",
+      "to": "2023-06-17T11:30:00.000Z",
+      "id": "a74e63b2b02c42444c132999daa56bc5"
+    },
+    {
+      "date": "Le samedi 17 juin 2023 de  09:00:00 à  14:00:00",
+      "locality": "OLIVIA",
+      "localitySlug": "olivia",
+      "streets": "CITE OLIVIA",
+      "district": "flacq",
+      "from": "2023-06-17T05:00:00.000Z",
+      "to": "2023-06-17T10:00:00.000Z",
+      "id": "6ee54b731a344cc92dbdbb416f979d9f"
+    },
+    {
+      "date": "Le samedi 17 juin 2023 de  13:00:00 à  16:00:00",
+      "locality": "MARE TABAC",
+      "localitySlug": "mare-tabac",
+      "streets": "MARE TABAC",
+      "district": "grandport",
+      "from": "2023-06-17T09:00:00.000Z",
+      "to": "2023-06-17T12:00:00.000Z",
+      "id": "409ff287b909de491a19053ad8db1a83"
+    },
+    {
+      "date": "Le samedi 17 juin 2023 de  13:00:00 à  16:00:00",
+      "locality": "PETIT BEL AIR",
+      "localitySlug": "petit-bel-air",
+      "streets": "PETIT BEL AIR",
+      "district": "grandport",
+      "from": "2023-06-17T09:00:00.000Z",
+      "to": "2023-06-17T12:00:00.000Z",
+      "id": "41e643933951fd063c3e0fede6004785"
+    },
+    {
+      "date": "Le samedi 17 juin 2023 de  14:30:00 à  18:30:00",
+      "locality": "CONGOMAH",
+      "localitySlug": "congomah",
+      "streets": "CONGOMAH,LE MARRIANNES,DEPINAY",
+      "district": "pamplemousses",
+      "from": "2023-06-17T10:30:00.000Z",
+      "to": "2023-06-17T14:30:00.000Z",
+      "id": "860ce43edfab541c10032e696e64b276"
+    },
+    {
+      "date": "Le samedi 17 juin 2023 de  08:30:00 à  16:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "MITD House, Ocean Factory Shop, Warwick Private Bank, Phoenix Car Gallery",
+      "district": "plainewilhems",
+      "from": "2023-06-17T04:30:00.000Z",
+      "to": "2023-06-17T12:00:00.000Z",
+      "id": "d67c97504ce6341b73940b57218410e6"
+    },
+    {
+      "date": "Le samedi 17 juin 2023 de  08:30:00 à  16:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "Hermitage, Panorama Lane et Cascade",
+      "district": "plainewilhems",
+      "from": "2023-06-17T04:30:00.000Z",
+      "to": "2023-06-17T12:00:00.000Z",
+      "id": "b0e33563aa928af79566673c7bc9ceda"
+    },
+    {
+      "date": "Le samedi 17 juin 2023 de  09:00:00 à  14:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "MORC ILOIS POINTE AUX SABLES",
+      "district": "portlouis",
+      "from": "2023-06-17T05:00:00.000Z",
+      "to": "2023-06-17T10:00:00.000Z",
+      "id": "deaa2da71e924468b8acf20eccd958cb"
+    },
+    {
+      "date": "Le samedi 17 juin 2023 de  10:00:00 à  14:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "CANAL BATHURST ST CROIX",
+      "district": "portlouis",
+      "from": "2023-06-17T06:00:00.000Z",
+      "to": "2023-06-17T10:00:00.000Z",
+      "id": "09edadf6d51aa6969d7833de34449b5b"
+    },
+    {
+      "date": "Le samedi 17 juin 2023 de  13:30:00 à  15:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "CHEMIN GERANIUM/TOPIZE LANE GRAND BAY",
+      "district": "rivieredurempart",
+      "from": "2023-06-17T09:30:00.000Z",
+      "to": "2023-06-17T11:00:00.000Z",
+      "id": "a196a0f97cdb4e468a790cd4a3dc597c"
+    },
+    {
+      "date": "Le samedi 17 juin 2023 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "VENGAR,CITRONELLE.TERRE ROUGE",
+      "district": "rodrigues",
+      "from": "2023-06-17T04:30:00.000Z",
+      "to": "2023-06-17T11:00:00.000Z",
+      "id": "1c88202b17ac6fde17a02baf3b88cd1e"
+    }
+  ]
+}

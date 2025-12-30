@@ -1,0 +1,67 @@
+{
+  "slug": "mare-longue",
+  "name": "MARE LONGUE",
+  "district": "plainewilhems",
+  "generated": "2025-12-30T19:07:15.736Z",
+  "outageCount": 8,
+  "firstOutage": "2022-08-27",
+  "lastOutage": "2025-09-02",
+  "outages": [
+    {
+      "date": "Le mardi 2 septembre 2025 de  10:45:00 à  11:45:00",
+      "streets": "MON SIMONET",
+      "from": "2025-09-02T06:45:00.000Z",
+      "to": "2025-09-02T07:45:00.000Z",
+      "id": "76e8e77bb345247ac39c44a5df63a644"
+    },
+    {
+      "date": "Le mardi 14 janvier 2025 de  19:30:00 à  01:45:00",
+      "streets": "ROYAL ROAD MONTAGNE LONGUE",
+      "from": "2025-01-14T15:30:00.000Z",
+      "to": "2025-01-13T21:45:00.000Z",
+      "id": "817e678e993ebac309b01a6e58686318"
+    },
+    {
+      "date": "Le mardi 19 mars 2024 de  09:00:00 à  16:30:00",
+      "streets": "MARE LONGUE",
+      "from": "2024-03-19T05:00:00.000Z",
+      "to": "2024-03-19T12:30:00.000Z",
+      "id": "3c7c824ee09acffc81fcfc21446dddaa"
+    },
+    {
+      "date": "Le mardi 29 août 2023 de  08:30:00 à  16:00:00",
+      "streets": "MARE LONGUE AND TAMARIND FALLS",
+      "from": "2023-08-29T04:30:00.000Z",
+      "to": "2023-08-29T12:00:00.000Z",
+      "id": "4daa5e5a9d54af993295558fed0600f9"
+    },
+    {
+      "date": "Le jeudi 13 avril 2023 de  09:00:00 à  15:00:00",
+      "streets": "CLOSEL AND MARE LONGUE",
+      "from": "2023-04-13T05:00:00.000Z",
+      "to": "2023-04-13T11:00:00.000Z",
+      "id": "bd97eecb37077ea67e2ccf9e37a31e67"
+    },
+    {
+      "date": "Le mardi 27 décembre 2022 de  10:30:00 à  13:00:00",
+      "streets": "MARE LONGUE,CLOSEL,  TAMARIND FALLS, MONT SIMONET",
+      "from": "2022-12-27T06:30:00.000Z",
+      "to": "2022-12-27T09:00:00.000Z",
+      "id": "131fb258bf97190716891af4c5cbd82c"
+    },
+    {
+      "date": "Le dimanche 18 décembre 2022 de  07:00:00 à  12:30:00",
+      "streets": "LE REGION MARE LONGUE",
+      "from": "2022-12-18T03:00:00.000Z",
+      "to": "2022-12-18T08:30:00.000Z",
+      "id": "3703fd527b528f704a9250fe6271e610"
+    },
+    {
+      "date": "Le samedi 27 août 2022 de  09:00:00 à  14:00:00",
+      "streets": "MARE LONGUE/SIMONET",
+      "from": "2022-08-27T05:00:00.000Z",
+      "to": "2022-08-27T10:00:00.000Z",
+      "id": "8415d94ee12b572b8db0478fb4cdd053"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2025-11-30",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.529Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le dimanche 30 novembre 2025 de  09:00:00 à  12:00:00",
+      "locality": "DUBREUIL",
+      "localitySlug": "dubreuil",
+      "streets": "RESIDENCE DUBREUIL-VILLAGE DUBREUIL",
+      "district": "moka",
+      "from": "2025-11-30T05:00:00.000Z",
+      "to": "2025-11-30T08:00:00.000Z",
+      "id": "234a0a9628ffec90011a501fde2aa629"
+    },
+    {
+      "date": "Le dimanche 30 novembre 2025 de  12:00:00 à  14:00:00",
+      "locality": "DUBREUIL",
+      "localitySlug": "dubreuil",
+      "streets": "RESIDENCE DUBREUIL-VILLAGE DUBREUIL",
+      "district": "moka",
+      "from": "2025-11-30T08:00:00.000Z",
+      "to": "2025-11-30T10:00:00.000Z",
+      "id": "0098225b16cc9c9bc4e164481548d2d0"
+    },
+    {
+      "date": "Le dimanche 30 novembre 2025 de  08:00:00 à  14:00:00",
+      "locality": "COROMONDEL - IND ZONE",
+      "localitySlug": "coromondel-ind-zone",
+      "streets": "LES ABONNES DE LA ZONE INDUSTRIELLE DE COROMANDEL",
+      "district": "plainewilhems",
+      "from": "2025-11-30T04:00:00.000Z",
+      "to": "2025-11-30T10:00:00.000Z",
+      "id": "250bc8d8a5eb349d50129283321d546e"
+    },
+    {
+      "date": "Le dimanche 30 novembre 2025 de  12:50:00 à  14:00:00",
+      "locality": "MIDLANDS",
+      "localitySlug": "midlands",
+      "streets": "MORC SEEBANY AND SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2025-11-30T08:50:00.000Z",
+      "to": "2025-11-30T10:00:00.000Z",
+      "id": "504109f2abfb92524747502241fe56c8"
+    },
+    {
+      "date": "Le dimanche 30 novembre 2025 de  08:30:00 à  15:00:00",
+      "locality": "RIAMBEL",
+      "localitySlug": "riambel",
+      "streets": "Morcellement Omnicane Riambel et Pomponette Riambel",
+      "district": "savanne",
+      "from": "2025-11-30T04:30:00.000Z",
+      "to": "2025-11-30T11:00:00.000Z",
+      "id": "469b63b784e75eab1bbcf3c24df92bc8"
+    }
+  ]
+}

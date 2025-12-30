@@ -1,0 +1,68 @@
+{
+  "date": "2024-11-18",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.515Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le lundi 18 novembre 2024 de  11:25:00 à  12:00:00",
+      "locality": "PETIT PAQUET",
+      "localitySlug": "petit-paquet",
+      "streets": "MOSQUE RD ET LES ALENTOURS",
+      "district": "flacq",
+      "from": "2024-11-18T07:25:00.000Z",
+      "to": "2024-11-18T08:00:00.000Z",
+      "id": "35df19431ac3ba367cd9705ae25ab3f4"
+    },
+    {
+      "date": "Le lundi 18 novembre 2024 de  09:00:00 à  13:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "MORC MON DESERT ROAD PLAINE MAGNIEN",
+      "district": "grandport",
+      "from": "2024-11-18T05:00:00.000Z",
+      "to": "2024-11-18T09:00:00.000Z",
+      "id": "cf2dc75fd00dfa23d6e3d97a74fbd46e"
+    },
+    {
+      "date": "Le lundi 18 novembre 2024 de  01:30:00 à  12:00:00",
+      "locality": "PETITE POINTE AUX PIMENTS",
+      "localitySlug": "petite-pointe-aux-piments",
+      "streets": "ROYAL ROAD /MUSLIM ROAD PETITE POINTE AUX PIMENT",
+      "district": "pamplemousses",
+      "from": "2024-11-17T21:30:00.000Z",
+      "to": "2024-11-17T08:00:00.000Z",
+      "id": "60a74f1fd7d5412f67875cb76cadec0c"
+    },
+    {
+      "date": "Le lundi 18 novembre 2024 de  08:30:00 à  12:00:00",
+      "locality": "PETITE POINTE AUX PIMENTS",
+      "localitySlug": "petite-pointe-aux-piments",
+      "streets": "ROYAL ROAD /MUSLIM ROAD PETITE POINTE AUX PIMENT",
+      "district": "pamplemousses",
+      "from": "2024-11-18T04:30:00.000Z",
+      "to": "2024-11-18T08:00:00.000Z",
+      "id": "45a196f4608f87b5a2ea6fae72d44402"
+    },
+    {
+      "date": "Le lundi 18 novembre 2024 de  09:00:00 à  11:00:00",
+      "locality": "CITE LA CAVERNE",
+      "localitySlug": "cite-la-caverne",
+      "streets": "LA CAVERNE 3",
+      "district": "plainewilhems",
+      "from": "2024-11-18T05:00:00.000Z",
+      "to": "2024-11-18T07:00:00.000Z",
+      "id": "3a1c6e789782f2eadccf8a858d72a8f9"
+    },
+    {
+      "date": "Le lundi 18 novembre 2024 de  14:30:00 à  16:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "Stephen Rd",
+      "district": "rivieredurempart",
+      "from": "2024-11-18T10:30:00.000Z",
+      "to": "2024-11-18T12:00:00.000Z",
+      "id": "a3f43db126de349a65b843dc160517a6"
+    }
+  ]
+}

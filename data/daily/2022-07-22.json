@@ -1,0 +1,78 @@
+{
+  "date": "2022-07-22",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.484Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le vendredi 22 juillet 2022 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "AVE ALBATROSS, AVE DES MANGUIERS ET UNE PARTIE DE LAVE CARRIERE",
+      "district": "blackriver",
+      "from": "2022-07-22T04:30:00.000Z",
+      "to": "2022-07-22T11:30:00.000Z",
+      "id": "63ba3f8b0404b847d62459613978b900"
+    },
+    {
+      "date": "Le vendredi 22 juillet 2022 de  09:30:00 à  11:00:00",
+      "locality": "PLAINE DES PAPAYES",
+      "localitySlug": "plaine-des-papayes",
+      "streets": "JAYPAL RD-SEEBUNDHUN RD PLAINE DES PAPAYES",
+      "district": "pamplemousses",
+      "from": "2022-07-22T05:30:00.000Z",
+      "to": "2022-07-22T07:00:00.000Z",
+      "id": "d250a380c52f937fc6fec52f383b6e0d"
+    },
+    {
+      "date": "Le vendredi 22 juillet 2022 de  09:00:00 à  14:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "En partie Route Royale, Maganlall Desai et les environs",
+      "district": "plainewilhems",
+      "from": "2022-07-22T05:00:00.000Z",
+      "to": "2022-07-22T10:00:00.000Z",
+      "id": "6ad871f8a693e22238543c9198c40b55"
+    },
+    {
+      "date": "Le vendredi 22 juillet 2022 de  00:00:00 à  00:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Partie de Jerningham, Impasse Simonet et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-07-21T20:00:00.000Z",
+      "to": "2022-07-20T20:00:00.000Z",
+      "id": "38a6e8607b8add928f55e0f87798b40c"
+    },
+    {
+      "date": "Le vendredi 22 juillet 2022 de  12:00:00 à  14:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Notre Dame de Lourdes St, Boodhun St, Thomy Pitot et en partie Route Royale Rose-Hill du Coté 361, Magasin Timol, Leoville LHomme et Inkerman St",
+      "district": "plainewilhems",
+      "from": "2022-07-22T08:00:00.000Z",
+      "to": "2022-07-22T10:00:00.000Z",
+      "id": "38b662f50ca39022c7b18341dc969ba3"
+    },
+    {
+      "date": "Le vendredi 22 juillet 2022 de  08:30:00 à  17:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "dans les environs de Telegu temple rd, Cite st Claire, Charles Dickens rd et sentoza rd",
+      "district": "rivieredurempart",
+      "from": "2022-07-22T04:30:00.000Z",
+      "to": "2022-07-22T13:00:00.000Z",
+      "id": "e7e07a6daf1cf6e07e01d147dfac2255"
+    },
+    {
+      "date": "Le vendredi 22 juillet 2022 de  09:00:00 à  15:00:00",
+      "locality": "AMAURY",
+      "localitySlug": "amaury",
+      "streets": "CITE AMAURY",
+      "district": "rivieredurempart",
+      "from": "2022-07-22T05:00:00.000Z",
+      "to": "2022-07-22T11:00:00.000Z",
+      "id": "388795899417d25ecfef4dfeae011392"
+    }
+  ]
+}

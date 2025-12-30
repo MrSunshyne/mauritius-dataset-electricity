@@ -1,0 +1,78 @@
+{
+  "date": "2022-08-31",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.485Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le mercredi 31 août 2022 de  09:00:00 à  17:00:00",
+      "locality": "PETIT SABLE",
+      "localitySlug": "petit-sable",
+      "streets": "Petit Sable, Grand Sable et  une partie de Bambous Virieux & Pointe aux Feuilles",
+      "district": "grandport",
+      "from": "2022-08-31T05:00:00.000Z",
+      "to": "2022-08-31T13:00:00.000Z",
+      "id": "41007c7a666492411ceb6ab29370c981"
+    },
+    {
+      "date": "Le mercredi 31 août 2022 de  08:30:00 à  15:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "EN PARTIE LA RUE SOUPRAMANIEN, RUE LABOURDONNAIS, INKERMAN, PRINCE DS GALLES, GLADSTONE",
+      "district": "plainewilhems",
+      "from": "2022-08-31T04:30:00.000Z",
+      "to": "2022-08-31T11:00:00.000Z",
+      "id": "b4e2dba4820a681899ecec5db105f3a6"
+    },
+    {
+      "date": "Le mercredi 31 août 2022 de  13:35:00 à  14:05:00",
+      "locality": "GLEN PARK",
+      "localitySlug": "glen-park",
+      "streets": "BAGHAT ROAD",
+      "district": "plainewilhems",
+      "from": "2022-08-31T09:35:00.000Z",
+      "to": "2022-08-31T10:05:00.000Z",
+      "id": "202973d1a9ba95ed83f5836d745620ba"
+    },
+    {
+      "date": "Le mercredi 31 août 2022 de  15:10:00 à  16:30:00",
+      "locality": "BELLE ROSE  ( Q BORNES )",
+      "localitySlug": "belle-rose",
+      "streets": "CHANGE OF TX GREEN CROSS ROYAL ROAD",
+      "district": "plainewilhems",
+      "from": "2022-08-31T11:10:00.000Z",
+      "to": "2022-08-31T12:30:00.000Z",
+      "id": "7510a09ba2fcdb860b4dd2eac800952c"
+    },
+    {
+      "date": "Le mercredi 31 août 2022 de  09:30:00 à  14:00:00",
+      "locality": "ROCHES NOIRES",
+      "localitySlug": "roches-noires",
+      "streets": "dans les environs de coastal road et Post Lafayette",
+      "district": "rivieredurempart",
+      "from": "2022-08-31T05:30:00.000Z",
+      "to": "2022-08-31T10:00:00.000Z",
+      "id": "c96d83f11c4dc16334f8100560176e58"
+    },
+    {
+      "date": "Le mercredi 31 août 2022 de  09:00:00 à  14:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "GRANDE MONTAGE ET BRULE",
+      "district": "rodrigues",
+      "from": "2022-08-31T05:00:00.000Z",
+      "to": "2022-08-31T10:00:00.000Z",
+      "id": "72265726c85d87710e7ceeabf706756d"
+    },
+    {
+      "date": "Le mercredi 31 août 2022 de  09:00:00 à  14:00:00",
+      "locality": "GRANDE MONTAGNE(RODRIGUES)",
+      "localitySlug": "grande-montagne",
+      "streets": "BRULE",
+      "district": "rodrigues",
+      "from": "2022-08-31T05:00:00.000Z",
+      "to": "2022-08-31T10:00:00.000Z",
+      "id": "0f0c433ae3e6674fdaf4a95972ab4b80"
+    }
+  ]
+}

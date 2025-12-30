@@ -1,0 +1,68 @@
+{
+  "date": "2023-12-04",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.502Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le lundi 4 décembre 2023 de  10:45:00 à  12:00:00",
+      "locality": "POSTE LAFAYETTE",
+      "localitySlug": "poste-lafayette",
+      "streets": "COASTAL ROAD POSTE LA FAYETTE",
+      "district": "flacq",
+      "from": "2023-12-04T06:45:00.000Z",
+      "to": "2023-12-04T08:00:00.000Z",
+      "id": "0de6df94f97c58fdc70ea9ac34b6efef"
+    },
+    {
+      "date": "Le lundi 4 décembre 2023 de  09:00:00 à  13:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "STEVENSON RD LES CASERNES CUREPIPE",
+      "district": "plainewilhems",
+      "from": "2023-12-04T05:00:00.000Z",
+      "to": "2023-12-04T09:00:00.000Z",
+      "id": "c4899b2962a487318a06ad237e21d169"
+    },
+    {
+      "date": "Le lundi 4 décembre 2023 de  13:05:00 à  14:05:00",
+      "locality": "MIDLANDS",
+      "localitySlug": "midlands",
+      "streets": "ROYAL ROAD MIDLANDS",
+      "district": "plainewilhems",
+      "from": "2023-12-04T09:05:00.000Z",
+      "to": "2023-12-04T10:05:00.000Z",
+      "id": "a24a0663159dca5af16276e682b44275"
+    },
+    {
+      "date": "Le lundi 4 décembre 2023 de  13:05:00 à  15:15:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "FLAT GUILLARD PETIT VERGER PTE AUX SABLES",
+      "district": "portlouis",
+      "from": "2023-12-04T09:05:00.000Z",
+      "to": "2023-12-04T11:15:00.000Z",
+      "id": "f2d9d287d28f2d16b3ab71f7b20207c3"
+    },
+    {
+      "date": "Le lundi 4 décembre 2023 de  12:00:00 à  14:00:00",
+      "locality": "CAP MALHEUREUX",
+      "localitySlug": "cap-malheureux",
+      "streets": "PAVILLIONS CAP MALHEUREUX NR KOVIL",
+      "district": "rivieredurempart",
+      "from": "2023-12-04T08:00:00.000Z",
+      "to": "2023-12-04T10:00:00.000Z",
+      "id": "d3357252a43305141e24fd93d6f75910"
+    },
+    {
+      "date": "Le lundi 4 décembre 2023 de  18:45:00 à  21:30:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "ROYAL ROAD GRAND BAY NR ZOOMANIA AND RESTAURANT CAPITAINE",
+      "district": "rivieredurempart",
+      "from": "2023-12-04T14:45:00.000Z",
+      "to": "2023-12-04T17:30:00.000Z",
+      "id": "7ec3ab4df1ea1bf45a1953c97f8f550d"
+    }
+  ]
+}

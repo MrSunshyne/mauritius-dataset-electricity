@@ -1,0 +1,58 @@
+{
+  "date": "2024-07-08",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.510Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le lundi 8 juillet 2024 de  10:00:00 à  12:00:00",
+      "locality": "CAMP DE MASQUE PAVE",
+      "localitySlug": "camp-de-masque-pave",
+      "streets": "PETIT CABANE ET KEWAL NAGAR.",
+      "district": "flacq",
+      "from": "2024-07-08T06:00:00.000Z",
+      "to": "2024-07-08T08:00:00.000Z",
+      "id": "f6977995e589cb189e41b7393fb1f247"
+    },
+    {
+      "date": "Le lundi 8 juillet 2024 de  15:00:00 à  17:00:00",
+      "locality": "LONG MOUNTAIN",
+      "localitySlug": "long-mountain",
+      "streets": "Montagne Longue, Camp La Boue, Creve Coeur et Boulingrin",
+      "district": "pamplemousses",
+      "from": "2024-07-08T11:00:00.000Z",
+      "to": "2024-07-08T13:00:00.000Z",
+      "id": "691fe9dc7b3bb97f86a720059e0f9c1d"
+    },
+    {
+      "date": "Le lundi 8 juillet 2024 de  06:00:00 à  07:00:00",
+      "locality": "CITE MALHERBES",
+      "localitySlug": "cite-malherbes",
+      "streets": "CIte Malherbes and Wooton",
+      "district": "plainewilhems",
+      "from": "2024-07-08T02:00:00.000Z",
+      "to": "2024-07-08T03:00:00.000Z",
+      "id": "5b42cd2f79fcc8490599999cdeb0cd19"
+    },
+    {
+      "date": "Le lundi 8 juillet 2024 de  08:00:00 à  16:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "La rue Couvent- Lavender Hill Street",
+      "district": "plainewilhems",
+      "from": "2024-07-08T04:00:00.000Z",
+      "to": "2024-07-08T12:00:00.000Z",
+      "id": "cb6ce649bee76215dc7bba90cfac19fb"
+    },
+    {
+      "date": "Le lundi 8 juillet 2024 de  16:00:00 à  17:00:00",
+      "locality": "ILE D-AMBRE",
+      "localitySlug": "ile-d-ambre",
+      "streets": "PANCHAVATI,ILE D-AMBRE",
+      "district": "rivieredurempart",
+      "from": "2024-07-08T12:00:00.000Z",
+      "to": "2024-07-08T13:00:00.000Z",
+      "id": "d82d759b74f6caf9220c15645e2e0ba1"
+    }
+  ]
+}

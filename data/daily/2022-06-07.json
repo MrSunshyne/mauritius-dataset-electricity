@@ -1,0 +1,58 @@
+{
+  "date": "2022-06-07",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.483Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mardi 7 juin 2022 de  08:30:00 à  17:00:00",
+      "locality": "CLUNY",
+      "localitySlug": "cluny",
+      "streets": "Cluny & Beemanique",
+      "district": "grandport",
+      "from": "2022-06-07T04:30:00.000Z",
+      "to": "2022-06-07T13:00:00.000Z",
+      "id": "f2a1af7ba841a080e92eef737f5371f7"
+    },
+    {
+      "date": "Le mardi 7 juin 2022 de  09:45:00 à  12:00:00",
+      "locality": "UPPER DAGOTIERE",
+      "localitySlug": "upper-dagotiere",
+      "streets": "UPPER DAGOTIERE",
+      "district": "moka",
+      "from": "2022-06-07T05:45:00.000Z",
+      "to": "2022-06-07T08:00:00.000Z",
+      "id": "fe1887afe5a14099b62b478123babba0"
+    },
+    {
+      "date": "Le mardi 7 juin 2022 de  08:30:00 à  12:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "Ave Jasmin et les environs",
+      "district": "plainewilhems",
+      "from": "2022-06-07T04:30:00.000Z",
+      "to": "2022-06-07T08:00:00.000Z",
+      "id": "f58f93e4f60464ef3fc14e21b40ca2e5"
+    },
+    {
+      "date": "Le mardi 7 juin 2022 de  12:00:00 à  15:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Napier Broom et Colonel Draper",
+      "district": "plainewilhems",
+      "from": "2022-06-07T08:00:00.000Z",
+      "to": "2022-06-07T11:00:00.000Z",
+      "id": "08f59a08fc55f8eebdd2220cd6a0ed4b"
+    },
+    {
+      "date": "Le mardi 7 juin 2022 de  12:00:00 à  16:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Anse Raffin,Tamarin,Riviere Coco,Ile Michel et Grand Var",
+      "district": "rodrigues",
+      "from": "2022-06-07T08:00:00.000Z",
+      "to": "2022-06-07T12:00:00.000Z",
+      "id": "118c280b5424b8c8a42a52c8f91e308b"
+    }
+  ]
+}

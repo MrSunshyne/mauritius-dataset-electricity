@@ -1,0 +1,78 @@
+{
+  "date": "2022-08-06",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.484Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le samedi 6 août 2022 de  08:30:00 à  16:00:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "Circonstance, LAgrement, Morc Frangipane 1 & 2, LAvenir Shivala, LAvenir School Lane et CWA Verdun",
+      "district": "moka",
+      "from": "2022-08-06T04:30:00.000Z",
+      "to": "2022-08-06T12:00:00.000Z",
+      "id": "5ecadf4edd2c5fe29ce0a05412ae8485"
+    },
+    {
+      "date": "Le samedi 6 août 2022 de  08:30:00 à  14:00:00",
+      "locality": "CAMP FOUQUEREAUX",
+      "localitySlug": "camp-fouquereaux",
+      "streets": "Morc Soobratty, une partie de Tout Court Road",
+      "district": "plainewilhems",
+      "from": "2022-08-06T04:30:00.000Z",
+      "to": "2022-08-06T10:00:00.000Z",
+      "id": "5387c87c1fc0d18d5ac2bd33a54add98"
+    },
+    {
+      "date": "Le samedi 6 août 2022 de  08:30:00 à  16:00:00",
+      "locality": "SAINT MARTIN R-HILL",
+      "localitySlug": "saint-martin-r-hill",
+      "streets": "Porker St Martin, Jardin St Martin, Village St Martin et les environs",
+      "district": "plainewilhems",
+      "from": "2022-08-06T04:30:00.000Z",
+      "to": "2022-08-06T12:00:00.000Z",
+      "id": "4c2ba95eca3ba0eb9880504a07843c44"
+    },
+    {
+      "date": "Le samedi 6 août 2022 de  08:30:00 à  16:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "RESDENCE LE VIEUX TAMARINIER,ZONE INDUSTRIELLE",
+      "district": "rivieredurempart",
+      "from": "2022-08-06T04:30:00.000Z",
+      "to": "2022-08-06T12:00:00.000Z",
+      "id": "c3ab100bcafe7311d47ef72d389ca1c0"
+    },
+    {
+      "date": "Le samedi 6 août 2022 de  15:00:00 à  16:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Vangard, Citronelle et Sygangue",
+      "district": "rodrigues",
+      "from": "2022-08-06T11:00:00.000Z",
+      "to": "2022-08-06T12:00:00.000Z",
+      "id": "be249a874d26242ac4928ea28915a291"
+    },
+    {
+      "date": "Le samedi 6 août 2022 de  08:30:00 à  15:30:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Trefles, Trois Soleil,Patates Theophile et Montagne Cabris Est",
+      "district": "rodrigues",
+      "from": "2022-08-06T04:30:00.000Z",
+      "to": "2022-08-06T11:30:00.000Z",
+      "id": "98dac50501bbf83e29a4cfc719bee956"
+    },
+    {
+      "date": "Le samedi 6 août 2022 de  14:30:00 à  15:30:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Nassola, Montagne Bois Noir, Montagne Malgache, Petit Brule, Grande Montagne, Coromandel, Saponaire, Batatran, Graviers, Brule, Roche Bon Dieu, Anse Ally, Pointe Coton et Saint Francois",
+      "district": "rodrigues",
+      "from": "2022-08-06T10:30:00.000Z",
+      "to": "2022-08-06T11:30:00.000Z",
+      "id": "47662b31121d71761d8360a6fc78f4e5"
+    }
+  ]
+}

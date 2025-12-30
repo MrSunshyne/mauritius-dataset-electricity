@@ -1,0 +1,32 @@
+{
+  "slug": "engrais-martial",
+  "name": "ENGRAIS MARTIAL",
+  "district": "plainewilhems",
+  "generated": "2025-12-30T19:07:15.669Z",
+  "outageCount": 3,
+  "firstOutage": "2024-05-09",
+  "lastOutage": "2025-10-25",
+  "outages": [
+    {
+      "date": "Le samedi 25 octobre 2025 de  13:20:00 à  15:20:00",
+      "streets": "WHOLE REGION",
+      "from": "2025-10-25T09:20:00.000Z",
+      "to": "2025-10-25T11:20:00.000Z",
+      "id": "1b31cb6060fab676e163fc8779d6af8a"
+    },
+    {
+      "date": "Le jeudi 9 mai 2024 de  14:00:00 à  15:00:00",
+      "streets": "Morcellement Gobin, Engrais Martial Road, Cite Souchon, Gautray, Appaya, Ackbar et les ruelles avoisinantes",
+      "from": "2024-05-09T10:00:00.000Z",
+      "to": "2024-05-09T11:00:00.000Z",
+      "id": "c0176e101fe6e9caa3a807fae859f6f8"
+    },
+    {
+      "date": "Le jeudi 9 mai 2024 de  13:00:00 à  15:00:00",
+      "streets": "Morcellement Gobin, Engrais Martial Road, Cite Souchon, Gautray, Appaya, Ackbar et les ruelles avoisinantes",
+      "from": "2024-05-09T09:00:00.000Z",
+      "to": "2024-05-09T11:00:00.000Z",
+      "id": "333d894d9ab38abd99debd19dbe0bf8f"
+    }
+  ]
+}

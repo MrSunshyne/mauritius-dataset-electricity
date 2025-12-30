@@ -1,0 +1,46 @@
+{
+  "slug": "le-goulet",
+  "name": "LE GOULET",
+  "district": "pamplemousses",
+  "generated": "2025-12-30T19:07:15.722Z",
+  "outageCount": 5,
+  "firstOutage": "2022-07-25",
+  "lastOutage": "2025-07-03",
+  "outages": [
+    {
+      "date": "Le jeudi 3 juillet 2025 de  09:00:00 à  17:00:00",
+      "streets": "DANS LES ENVIRONS DE SAINT JOSEPH ROAD TOMBEAU BAY",
+      "from": "2025-07-03T05:00:00.000Z",
+      "to": "2025-07-03T13:00:00.000Z",
+      "id": "709cfcecd47d430482d4b41952617abf"
+    },
+    {
+      "date": "Le jeudi 27 mars 2025 de  09:00:00 à  12:00:00",
+      "streets": "LE GOULET ARSENAL",
+      "from": "2025-03-27T05:00:00.000Z",
+      "to": "2025-03-27T08:00:00.000Z",
+      "id": "6615754cf776775332c73148b891a6b8"
+    },
+    {
+      "date": "Le lundi 13 novembre 2023 de  15:30:00 à  16:30:00",
+      "streets": "Le Goulet Area, le Goulet Public Beach, Petit Gamin, Royal Park, Angsana Hotel, Maritim Hotel, Le Victoria Hotel, Intercontinental Hotel, Westin Hotel, Oberoi Hotel, Morc Le Vieux Banian, Baie Aux Tortue Area, Morc Harmony, Part of Pointe Aux Piments, Morc Holiday Promo",
+      "from": "2023-11-13T11:30:00.000Z",
+      "to": "2023-11-13T12:30:00.000Z",
+      "id": "ce6db96f0de7815162de13e6a406e5b7"
+    },
+    {
+      "date": "Le mercredi 21 décembre 2022 de  09:30:00 à  12:00:00",
+      "streets": "les abonnes habitant Petit Gamin et la Bain et Le Goulet",
+      "from": "2022-12-21T05:30:00.000Z",
+      "to": "2022-12-21T08:00:00.000Z",
+      "id": "813f16a45df9c165d9bf7f2c21a3fc19"
+    },
+    {
+      "date": "Le lundi 25 juillet 2022 de  11:15:00 à  12:45:00",
+      "streets": "TOMBEAU BAY RD,LE GOULET",
+      "from": "2022-07-25T07:15:00.000Z",
+      "to": "2022-07-25T08:45:00.000Z",
+      "id": "f481eeb594711e0769cebf8ee9d3af53"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "plaisance-rose-hill",
+  "name": "PLAISANCE ROSE HILL",
+  "district": "plainewilhems",
+  "generated": "2025-12-30T19:07:15.793Z",
+  "outageCount": 5,
+  "firstOutage": "2022-07-13",
+  "lastOutage": "2024-03-05",
+  "outages": [
+    {
+      "date": "Le mardi 5 mars 2024 de  10:20:00 à  12:00:00",
+      "streets": "MARIE CLEMENCE ST ET LES RUELLES ALENTOURS",
+      "from": "2024-03-05T06:20:00.000Z",
+      "to": "2024-03-05T08:00:00.000Z",
+      "id": "c7d47688dac88423f8062cc50b64c7e4"
+    },
+    {
+      "date": "Le mardi 7 novembre 2023 de  09:15:00 à  11:30:00",
+      "streets": "MARIE CLEMENCE ST, F MATTUR ST,I GOOMANY ST,MAXIME REMY,R BRUNES",
+      "from": "2023-11-07T05:15:00.000Z",
+      "to": "2023-11-07T07:30:00.000Z",
+      "id": "fd57d7d3eb68dbca9a5bc863160fa9ec"
+    },
+    {
+      "date": "Le mercredi 14 décembre 2022 de  09:15:00 à  12:30:00",
+      "streets": "MARTIN LUTHER KING, SISTER MARIE CLEMENCE PLAISANCE",
+      "from": "2022-12-14T05:15:00.000Z",
+      "to": "2022-12-14T08:30:00.000Z",
+      "id": "5d8c667cf5c3a51683474459eb9a8b7a"
+    },
+    {
+      "date": "Le jeudi 29 septembre 2022 de  08:45:00 à  10:30:00",
+      "streets": "AVE ABATTOIR,DE PLEVITZ ST",
+      "from": "2022-09-29T04:45:00.000Z",
+      "to": "2022-09-29T06:30:00.000Z",
+      "id": "126c1c68b1bf11dc3ea46c88f0884ba2"
+    },
+    {
+      "date": "Le mercredi 13 juillet 2022 de  15:15:00 à  17:15:00",
+      "streets": "ADOLPHE DE PLEVITZ STREET",
+      "from": "2022-07-13T11:15:00.000Z",
+      "to": "2022-07-13T13:15:00.000Z",
+      "id": "d121a7aafd5b6c30b9a0bc148752ab80"
+    }
+  ]
+}

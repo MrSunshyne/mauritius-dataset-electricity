@@ -1,0 +1,38 @@
+{
+  "date": "2022-10-15",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.487Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le samedi 15 octobre 2022 de  08:30:00 à  16:30:00",
+      "locality": "CASCAVEL",
+      "localitySlug": "cascavel",
+      "streets": "CWA Cascavelle,West Coast International School et Sparc Sports Complex",
+      "district": "blackriver",
+      "from": "2022-10-15T04:30:00.000Z",
+      "to": "2022-10-15T12:30:00.000Z",
+      "id": "3be73f4426d9ec24b0547d9d932fe88b"
+    },
+    {
+      "date": "Le samedi 15 octobre 2022 de  08:30:00 à  14:00:00",
+      "locality": "BELLE VUE HAREL",
+      "localitySlug": "belle-vue-harel",
+      "streets": "LES ABONNES DE BELLE VUE SUGAR ESTATE",
+      "district": "pamplemousses",
+      "from": "2022-10-15T04:30:00.000Z",
+      "to": "2022-10-15T10:00:00.000Z",
+      "id": "100b8dc085dd152f62ac9e93eb8c76ea"
+    },
+    {
+      "date": "Le samedi 15 octobre 2022 de  08:30:00 à  15:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "LES ABONNES DE LA TOUR KOENIG HABITANT DANS LES ENVIRONS DE NHDC BENGALI ET COLIBRI",
+      "district": "portlouis",
+      "from": "2022-10-15T04:30:00.000Z",
+      "to": "2022-10-15T11:00:00.000Z",
+      "id": "1b53e5f8670a4e02dc69d156272ae02d"
+    }
+  ]
+}

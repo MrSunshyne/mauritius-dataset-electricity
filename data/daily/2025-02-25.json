@@ -1,0 +1,48 @@
+{
+  "date": "2025-02-25",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.520Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mardi 25 février 2025 de  10:00:00 à  14:00:00",
+      "locality": "BELLE VUE HAREL",
+      "localitySlug": "belle-vue-harel",
+      "streets": "MORC DOMAINE BELLE VUE",
+      "district": "pamplemousses",
+      "from": "2025-02-25T06:00:00.000Z",
+      "to": "2025-02-25T10:00:00.000Z",
+      "id": "86baf82123b90a09761bd78a9cab245c"
+    },
+    {
+      "date": "Le mardi 25 février 2025 de  11:00:00 à  13:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "La Louise dan les alentours de King Dragon",
+      "district": "plainewilhems",
+      "from": "2025-02-25T07:00:00.000Z",
+      "to": "2025-02-25T09:00:00.000Z",
+      "id": "424a657df99c9ace7603fce5475b5374"
+    },
+    {
+      "date": "Le mardi 25 février 2025 de  14:30:00 à  19:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "COROMANDEL : CHEMINS PAVE D-AMOUR, PANORAMA, RICHELIEU BRANCH ROAD, JUPITER, MORC GANESS, MORC APPADOO ET LES ENVIRONS.",
+      "district": "plainewilhems",
+      "from": "2025-02-25T10:30:00.000Z",
+      "to": "2025-02-25T15:00:00.000Z",
+      "id": "ce9743b3287c250c252f10714870c131"
+    },
+    {
+      "date": "Le mardi 25 février 2025 de  12:00:00 à  13:00:00",
+      "locality": "MALABAR(RODRIGUES)",
+      "localitySlug": "malabar",
+      "streets": "Soupir et Mont Plaisir",
+      "district": "rodrigues",
+      "from": "2025-02-25T08:00:00.000Z",
+      "to": "2025-02-25T09:00:00.000Z",
+      "id": "175f1ee46ea7e5943fadddcc54cc8014"
+    }
+  ]
+}

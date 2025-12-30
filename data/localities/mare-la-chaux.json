@@ -1,0 +1,25 @@
+{
+  "slug": "mare-la-chaux",
+  "name": "MARE LA CHAUX",
+  "district": "flacq",
+  "generated": "2025-12-30T19:07:15.735Z",
+  "outageCount": 2,
+  "firstOutage": "2023-08-14",
+  "lastOutage": "2024-01-06",
+  "outages": [
+    {
+      "date": "Le samedi 6 janvier 2024 de  03:15:00 à  12:00:00",
+      "streets": "QUATRE COCOS ROAD",
+      "from": "2024-01-05T23:15:00.000Z",
+      "to": "2024-01-05T08:00:00.000Z",
+      "id": "534a23cb7025a61bf0a17089363499f0"
+    },
+    {
+      "date": "Le lundi 14 août 2023 de  09:15:00 à  10:30:00",
+      "streets": "WHOLE MARE LA CHAUX",
+      "from": "2023-08-14T05:15:00.000Z",
+      "to": "2023-08-14T06:30:00.000Z",
+      "id": "184df8e7389b869fc1085ad7d619926d"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "mont-fertille",
+  "name": "MONT FERTILLE",
+  "district": "grandport",
+  "generated": "2025-12-30T19:07:15.751Z",
+  "outageCount": 2,
+  "firstOutage": "2025-03-06",
+  "lastOutage": "2025-10-28",
+  "outages": [
+    {
+      "date": "Le mardi 28 octobre 2025 de  09:00:00 à  11:00:00",
+      "streets": "LETORD RD MONT FERTILLE",
+      "from": "2025-10-28T05:00:00.000Z",
+      "to": "2025-10-28T07:00:00.000Z",
+      "id": "0dcbd2d6ab8a045b85a66e31877a0c1e"
+    },
+    {
+      "date": "Le jeudi 6 mars 2025 de  11:45:00 à  17:00:00",
+      "streets": "Route Royale,Parasol",
+      "from": "2025-03-06T07:45:00.000Z",
+      "to": "2025-03-06T13:00:00.000Z",
+      "id": "9ccb31913f3804fea5f31c7f19dc3e04"
+    }
+  ]
+}

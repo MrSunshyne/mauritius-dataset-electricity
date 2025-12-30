@@ -1,0 +1,88 @@
+{
+  "date": "2024-02-20",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.505Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le mardi 20 février 2024 de  15:00:00 à  18:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "WOLMAR- CHASSEE WOLMAR, AVE CARRIERE, AVE DES TOURTEREAUX, HOTEL PEARL BEACH, SUN PLAZA ET COASTAL ROAD",
+      "district": "blackriver",
+      "from": "2024-02-20T11:00:00.000Z",
+      "to": "2024-02-20T14:00:00.000Z",
+      "id": "1b6e16ef3030a3bd1c74371af468c8cc"
+    },
+    {
+      "date": "Le mardi 20 février 2024 de  10:50:00 à  14:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "VILLAGE HALL STREET TERRE ROUGE-MORC SHEIK DAWOOD BOIS PIGNOLET",
+      "district": "pamplemousses",
+      "from": "2024-02-20T06:50:00.000Z",
+      "to": "2024-02-20T10:00:00.000Z",
+      "id": "09b315a8ba326af05fc5e2a7825e7dfa"
+    },
+    {
+      "date": "Le mardi 20 février 2024 de  08:30:00 à  12:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Anfield Lane et Tout Court lane",
+      "district": "plainewilhems",
+      "from": "2024-02-20T04:30:00.000Z",
+      "to": "2024-02-20T08:00:00.000Z",
+      "id": "e3b1125c76ffdf250b0fd79588796ef7"
+    },
+    {
+      "date": "Le mardi 20 février 2024 de  13:30:00 à  17:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Rue Remi Ollier,JS Academy,Cemetery",
+      "district": "plainewilhems",
+      "from": "2024-02-20T09:30:00.000Z",
+      "to": "2024-02-20T13:00:00.000Z",
+      "id": "8348ca438b31836b06702304f680e37a"
+    },
+    {
+      "date": "Le mardi 20 février 2024 de  13:30:00 à  17:00:00",
+      "locality": "WOOTUN",
+      "localitySlug": "wootun",
+      "streets": "Morc Richwood",
+      "district": "plainewilhems",
+      "from": "2024-02-20T09:30:00.000Z",
+      "to": "2024-02-20T13:00:00.000Z",
+      "id": "53b9a96a2fc386682de21588070b713b"
+    },
+    {
+      "date": "Le mardi 20 février 2024 de  16:00:00 à  17:00:00",
+      "locality": "CITE BARKLY",
+      "localitySlug": "cite-barkly",
+      "streets": "PSSA,CWA,SERGE ALFRED POOL,MENTAL,PRISON AND NEARBY REGION",
+      "district": "plainewilhems",
+      "from": "2024-02-20T12:00:00.000Z",
+      "to": "2024-02-20T13:00:00.000Z",
+      "id": "633751fe57b1b0b3d771716a544556e5"
+    },
+    {
+      "date": "Le mardi 20 février 2024 de  08:30:00 à  11:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "MADAME AZOR -MORC ST ANTOINE GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2024-02-20T04:30:00.000Z",
+      "to": "2024-02-20T07:00:00.000Z",
+      "id": "9e9e42a51b1d23833b2cad20480f5a5f"
+    },
+    {
+      "date": "Le mardi 20 février 2024 de  08:30:00 à  11:00:00",
+      "locality": "PORT MATHURIN(RODRIGUES)",
+      "localitySlug": "port-mathurin",
+      "streets": "Port Mathurin, Fond La Digue, Pointe Canon, Creve Coeur et Roseaux",
+      "district": "rodrigues",
+      "from": "2024-02-20T04:30:00.000Z",
+      "to": "2024-02-20T07:00:00.000Z",
+      "id": "58ce8df3f495b7ae9d5e00f35144e64e"
+    }
+  ]
+}

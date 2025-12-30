@@ -1,0 +1,68 @@
+{
+  "date": "2024-07-05",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.510Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le vendredi 5 juillet 2024 de  08:30:00 à  16:30:00",
+      "locality": "TAMARIND FALLS",
+      "localitySlug": "tamarind-falls",
+      "streets": "TAMARIND FALLS ET MARE LONGUE.",
+      "district": "blackriver",
+      "from": "2024-07-05T04:30:00.000Z",
+      "to": "2024-07-05T12:30:00.000Z",
+      "id": "6987a11811ee260fd07c307f216668ce"
+    },
+    {
+      "date": "Le vendredi 5 juillet 2024 de  08:30:00 à  17:00:00",
+      "locality": "OLIVIA",
+      "localitySlug": "olivia",
+      "streets": "Village Olivia pres de la boutique Charli, Chemin LÉcole, Camp Jackrie, Plaine banane, NSLD Olivia, Route Royale,Chemin Roussette et Terrain de Foot.",
+      "district": "flacq",
+      "from": "2024-07-05T04:30:00.000Z",
+      "to": "2024-07-05T13:00:00.000Z",
+      "id": "617dc546f159590122d4f9f06ac04318"
+    },
+    {
+      "date": "Le vendredi 5 juillet 2024 de  09:30:00 à  12:00:00",
+      "locality": "BOULINGRIN",
+      "localitySlug": "boulingrin",
+      "streets": "BOULINGRIN MONTAGNE LONGUE",
+      "district": "pamplemousses",
+      "from": "2024-07-05T05:30:00.000Z",
+      "to": "2024-07-05T08:00:00.000Z",
+      "id": "07077495e7b99efe575e4bd0965a5fce"
+    },
+    {
+      "date": "Le vendredi 5 juillet 2024 de  16:00:00 à  17:30:00",
+      "locality": "KHOYRATTY",
+      "localitySlug": "khoyratty",
+      "streets": "KHOYRATTY & MLLE LAURE",
+      "district": "pamplemousses",
+      "from": "2024-07-05T12:00:00.000Z",
+      "to": "2024-07-05T13:30:00.000Z",
+      "id": "87d45918d5c3ded4657c0660de51399b"
+    },
+    {
+      "date": "Le vendredi 5 juillet 2024 de  09:00:00 à  16:30:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "UNE PARTIE HIGHLAND ROSE",
+      "district": "plainewilhems",
+      "from": "2024-07-05T05:00:00.000Z",
+      "to": "2024-07-05T12:30:00.000Z",
+      "id": "f0e88cb8ed8e8be1ae9b4d2b466df9ee"
+    },
+    {
+      "date": "Le vendredi 5 juillet 2024 de  14:00:00 à  17:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Conte de LIsle, Dr Ferriere et en partie Hugnin",
+      "district": "plainewilhems",
+      "from": "2024-07-05T10:00:00.000Z",
+      "to": "2024-07-05T13:00:00.000Z",
+      "id": "b9fd41a1df397d2541988b22ae4ad7c6"
+    }
+  ]
+}

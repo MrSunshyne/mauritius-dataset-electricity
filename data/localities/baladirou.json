@@ -1,0 +1,39 @@
+{
+  "slug": "baladirou",
+  "name": "BALADIROU(RODRIGUES)",
+  "district": "rodrigues",
+  "generated": "2025-12-30T19:07:15.556Z",
+  "outageCount": 4,
+  "firstOutage": "2023-10-18",
+  "lastOutage": "2025-12-20",
+  "outages": [
+    {
+      "date": "Le samedi 20 décembre 2025 de  08:30:00 à  15:00:00",
+      "streets": "Montagne Goyaves, Dans Bebe, Oranges, Jean Tac, Caverne Provert, Terre Rouge, Anse Aux Anglais et Pointe Venus",
+      "from": "2025-12-20T04:30:00.000Z",
+      "to": "2025-12-20T11:00:00.000Z",
+      "id": "2b43205b130a7522a012b0ab71c7c68e"
+    },
+    {
+      "date": "Le vendredi 19 décembre 2025 de  08:00:00 à  10:00:00",
+      "streets": "Montagne Goyaves, Dans Bebe, Oranges, Jean Tac, Caverne Provert, Terre Rouge, Anse Aux Anglais et Pointe Venus",
+      "from": "2025-12-19T04:00:00.000Z",
+      "to": "2025-12-19T06:00:00.000Z",
+      "id": "f384366acb2b350eda5b0c0456b3181a"
+    },
+    {
+      "date": "Le mercredi 18 octobre 2023 de  14:00:00 à  16:00:00",
+      "streets": "Jean Tac, Baladirou, Montagne Goyaves et Dans Bebe",
+      "from": "2023-10-18T10:00:00.000Z",
+      "to": "2023-10-18T12:00:00.000Z",
+      "id": "af1cf18806a7d0435ac513a5833f47e5"
+    },
+    {
+      "date": "Le mercredi 18 octobre 2023 de  08:00:00 à  09:00:00",
+      "streets": "Jean Tac, Baladirou, Montagne Goyaves et Dans Bebe",
+      "from": "2023-10-18T04:00:00.000Z",
+      "to": "2023-10-18T05:00:00.000Z",
+      "id": "d31611f550286895cbb0f203a16c9264"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2025-08-12",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.524Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mardi 12 août 2025 de  09:30:00 à  13:00:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "MORC ORCHIDEE ROSE BELLE",
+      "district": "grandport",
+      "from": "2025-08-12T05:30:00.000Z",
+      "to": "2025-08-12T09:00:00.000Z",
+      "id": "70bc4dc7a7bd3217391366c5bd37f58c"
+    },
+    {
+      "date": "Le mardi 12 août 2025 de  08:30:00 à  15:00:00",
+      "locality": "VALETTA",
+      "localitySlug": "valetta",
+      "streets": "dans les environs de Morc VRS",
+      "district": "moka",
+      "from": "2025-08-12T04:30:00.000Z",
+      "to": "2025-08-12T11:00:00.000Z",
+      "id": "8b927395864bab0b09ad99f86801e011"
+    },
+    {
+      "date": "Le mardi 12 août 2025 de  08:00:00 à  12:00:00",
+      "locality": "NOTRE DAME",
+      "localitySlug": "notre-dame",
+      "streets": "LE VILLAGE DE NOTRE DAME",
+      "district": "pamplemousses",
+      "from": "2025-08-12T04:00:00.000Z",
+      "to": "2025-08-12T08:00:00.000Z",
+      "id": "fd95db987321d8b0c482eb5911b09c9b"
+    },
+    {
+      "date": "Le mardi 12 août 2025 de  09:00:00 à  16:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "CELICOURT ANTELME AND NEARBY REGION",
+      "district": "plainewilhems",
+      "from": "2025-08-12T05:00:00.000Z",
+      "to": "2025-08-12T12:00:00.000Z",
+      "id": "4160d56aceda7c4447efd3e7bf3c9901"
+    },
+    {
+      "date": "Le mardi 12 août 2025 de  10:00:00 à  13:00:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "COASTAL ROAD GRAND GAUBE",
+      "district": "rivieredurempart",
+      "from": "2025-08-12T06:00:00.000Z",
+      "to": "2025-08-12T09:00:00.000Z",
+      "id": "b0701ead39fac1bbef169de5fe22e117"
+    }
+  ]
+}

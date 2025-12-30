@@ -1,0 +1,68 @@
+{
+  "date": "2022-03-27",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.480Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le dimanche 27 mars 2022 de  08:30:00 à  12:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "LES ABONNES DE BAIE DU TOMBEAU HABITANT DANS LES ENVIRONS DE LA ROUTE COTIERE, MORC FON SING, MORC ZENITH, MORC HAPPY VALLEY, ROUILLARD LANE ET SCHOOL LANE",
+      "district": "pamplemousses",
+      "from": "2022-03-27T04:30:00.000Z",
+      "to": "2022-03-27T08:00:00.000Z",
+      "id": "533dad658bd7719d063115e746b9aa74"
+    },
+    {
+      "date": "Le dimanche 27 mars 2022 de  08:30:00 à  16:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes: Sai Baba, Rajcoomar, Stretcher, Cere, Malherbes, partie de Clément Charoux, partie d’Abbé de La Caille, Impasse Le Breton, partie de Leclezio et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-03-27T04:30:00.000Z",
+      "to": "2022-03-27T12:00:00.000Z",
+      "id": "97f41c02259680076bfe5f9efbd2e534"
+    },
+    {
+      "date": "Le dimanche 27 mars 2022 de  09:00:00 à  00:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "5EME BEAU BASSIN + CHEBEL",
+      "district": "plainewilhems",
+      "from": "2022-03-27T05:00:00.000Z",
+      "to": "2022-03-26T20:00:00.000Z",
+      "id": "189d45eb8cba54448017811ba0a5341e"
+    },
+    {
+      "date": "Le dimanche 27 mars 2022 de  11:00:00 à  14:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "LES ABONNES HABITANT UPPER VALLEE DES PRETRES",
+      "district": "portlouis",
+      "from": "2022-03-27T07:00:00.000Z",
+      "to": "2022-03-27T10:00:00.000Z",
+      "id": "b82c53b71003dcfc8c02793af8384980"
+    },
+    {
+      "date": "Le dimanche 27 mars 2022 de  08:30:00 à  15:30:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "dans les environs de Mapou Leclezio, Reservoir road,Firemount, Route Royale, Toorabally lane, St Antoine, Morc Petit Village, Mlle Jeanne et Morc Vieux Tamarinier",
+      "district": "rivieredurempart",
+      "from": "2022-03-27T04:30:00.000Z",
+      "to": "2022-03-27T11:30:00.000Z",
+      "id": "917df0249b0e50e5b1a62deb76ca75eb"
+    },
+    {
+      "date": "Le dimanche 27 mars 2022 de  09:00:00 à  14:00:00",
+      "locality": "CAMP DIABLE",
+      "localitySlug": "camp-diable",
+      "streets": "CAMP DIABLE + PART OF MON CHOISY",
+      "district": "savanne",
+      "from": "2022-03-27T05:00:00.000Z",
+      "to": "2022-03-27T10:00:00.000Z",
+      "id": "97015d084c2969c0ace8f2c71afb0541"
+    }
+  ]
+}

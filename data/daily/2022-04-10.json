@@ -1,0 +1,78 @@
+{
+  "date": "2022-04-10",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.481Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le dimanche 10 avril 2022 de  08:30:00 à  15:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC SAFELANDFLIC EN FLAC",
+      "district": "blackriver",
+      "from": "2022-04-10T04:30:00.000Z",
+      "to": "2022-04-10T11:00:00.000Z",
+      "id": "7e03312b4645729f3d99069d2e3f56ee"
+    },
+    {
+      "date": "Le dimanche 10 avril 2022 de  08:30:00 à  14:00:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "les abonnes dans les environ de cote ouest a morcellement Jhubboo",
+      "district": "pamplemousses",
+      "from": "2022-04-10T04:30:00.000Z",
+      "to": "2022-04-10T10:00:00.000Z",
+      "id": "5e28b546c1c6188d8a300ee2d19be2b8"
+    },
+    {
+      "date": "Le dimanche 10 avril 2022 de  08:30:00 à  16:00:00",
+      "locality": "CAMP FOUQUEREAUX",
+      "localitySlug": "camp-fouquereaux",
+      "streets": "Terre Rouge Road, une partie de St Antoine Road, Almadinah Road, Toorab Lane, Morc Soobratty, Choony Lane, Dalia Lane , Parisot Branch Road, une partie de Hermitage Branch Road , une partie de  Tout Court Road",
+      "district": "plainewilhems",
+      "from": "2022-04-10T04:30:00.000Z",
+      "to": "2022-04-10T12:00:00.000Z",
+      "id": "1e49c5debf599763590da6c3618f357a"
+    },
+    {
+      "date": "Le dimanche 10 avril 2022 de  15:00:00 à  17:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "Les abonnés de Floréal habitant dans le périmètre et les environs des rues suivantes ; Seebaruth, Dunputh,  Jhuree,  Dairy,  Mississipi, Beedassy, Floreal Business Center, partie de John Kennedy, partie de Ernest Harel  et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-04-10T11:00:00.000Z",
+      "to": "2022-04-10T13:00:00.000Z",
+      "id": "7ed6fadd9dd5f6d8be6d016be2c723ce"
+    },
+    {
+      "date": "Le dimanche 10 avril 2022 de  09:00:00 à  17:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "En partie Talipot",
+      "district": "plainewilhems",
+      "from": "2022-04-10T05:00:00.000Z",
+      "to": "2022-04-10T13:00:00.000Z",
+      "id": "66f42474f7e4f2176d52244518e303ba"
+    },
+    {
+      "date": "Le dimanche 10 avril 2022 de  15:00:00 à  16:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Tristan dAvice, Cossigny, Talipot, Rosier, La Lucia, en partie Route St Jean, Capucine et Orchidee",
+      "district": "plainewilhems",
+      "from": "2022-04-10T11:00:00.000Z",
+      "to": "2022-04-10T12:00:00.000Z",
+      "id": "9d8a6997b4ed5fe2e156c3e88fcbe409"
+    },
+    {
+      "date": "Le dimanche 10 avril 2022 de  08:30:00 à  15:30:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "LES ABONNES HABITANT PORT LOUIS DANS LES ENVIRONS DE MGR LEEN, DENTRECASTEAUX, A F TANK WEN, FIELD, ARMAND ESNOUF ET BELVEDERE",
+      "district": "portlouis",
+      "from": "2022-04-10T04:30:00.000Z",
+      "to": "2022-04-10T11:30:00.000Z",
+      "id": "f269067c141674b0784f8e8cc7ed3dda"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "date": "2024-05-24",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.508Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le vendredi 24 mai 2024 de  09:50:00 à  10:30:00",
+      "locality": "BEAU SONGE",
+      "localitySlug": "beau-songe",
+      "streets": "MORC PIERREFONDS ET LES ALENTOURS",
+      "district": "blackriver",
+      "from": "2024-05-24T05:50:00.000Z",
+      "to": "2024-05-24T06:30:00.000Z",
+      "id": "e592b78d37ba97838df2603bea7e7c36"
+    },
+    {
+      "date": "Le vendredi 24 mai 2024 de  09:00:00 à  17:00:00",
+      "locality": "ISIDORE ROSE",
+      "localitySlug": "isidore-rose",
+      "streets": "le village de Isidore Rose, Camp Marcelin et dans les périmètres des avenues suivent à Quatre cocos : NHDC, Church Lane et Avenue Camélia",
+      "district": "flacq",
+      "from": "2024-05-24T05:00:00.000Z",
+      "to": "2024-05-24T13:00:00.000Z",
+      "id": "a3208b5676bcca3677d4758795e0e7aa"
+    },
+    {
+      "date": "Le vendredi 24 mai 2024 de  09:15:00 à  11:15:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "VILLAGE COUNCIL LANE ET LES ALENTOURS",
+      "district": "pamplemousses",
+      "from": "2024-05-24T05:15:00.000Z",
+      "to": "2024-05-24T07:15:00.000Z",
+      "id": "03f121346bb1e2c18ba9db9cae1e9301"
+    },
+    {
+      "date": "Le vendredi 24 mai 2024 de  13:00:00 à  15:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Curepipe – Saint Clement habitant dans les périmètres et rues suivants : Une partie de Saint Clement Street, Park Hotel Lane, Rue Dupin, Flat St Clerment Court et Residence Bonneval",
+      "district": "plainewilhems",
+      "from": "2024-05-24T09:00:00.000Z",
+      "to": "2024-05-24T11:00:00.000Z",
+      "id": "7c8f85f5a469389db09f873cfd5a4d3b"
+    },
+    {
+      "date": "Le vendredi 24 mai 2024 de  09:00:00 à  15:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés Camp Caval habitant dans les périmètres et rues suivants : Kestrel 1 & 2, Community Centre, Terre Coupée et Mosque Road",
+      "district": "plainewilhems",
+      "from": "2024-05-24T05:00:00.000Z",
+      "to": "2024-05-24T11:00:00.000Z",
+      "id": "9f047393a7c9b51d804fe9e147f92211"
+    },
+    {
+      "date": "Le vendredi 24 mai 2024 de  14:00:00 à  15:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "FROM AVENUE BERTHAUD TILL UP TO AVENUE OLLIER.",
+      "district": "plainewilhems",
+      "from": "2024-05-24T10:00:00.000Z",
+      "to": "2024-05-24T11:00:00.000Z",
+      "id": "08a1b82a9b36499419a52ebfbfeb1734"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "date": "2023-07-14",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.496Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le vendredi 14 juillet 2023 de  10:00:00 à  11:00:00",
+      "locality": "QUATRE COCOS",
+      "localitySlug": "quatre-cocos",
+      "streets": "QUATRE COCOS",
+      "district": "flacq",
+      "from": "2023-07-14T06:00:00.000Z",
+      "to": "2023-07-14T07:00:00.000Z",
+      "id": "263e506bc138db4fd76e62c30416b88a"
+    },
+    {
+      "date": "Le vendredi 14 juillet 2023 de  09:00:00 à  16:00:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "Residence Le Bosquet",
+      "district": "grandport",
+      "from": "2023-07-14T05:00:00.000Z",
+      "to": "2023-07-14T12:00:00.000Z",
+      "id": "f854cd50eccd61ed30bbf3fe55f61ff7"
+    },
+    {
+      "date": "Le vendredi 14 juillet 2023 de  16:00:00 à  18:00:00",
+      "locality": "MON CHOISY",
+      "localitySlug": "mon-choisy",
+      "streets": "MON CHOISY",
+      "district": "pamplemousses",
+      "from": "2023-07-14T12:00:00.000Z",
+      "to": "2023-07-14T14:00:00.000Z",
+      "id": "aeeb04d5df8b4f6dee615030fc123c1b"
+    },
+    {
+      "date": "Le vendredi 14 juillet 2023 de  08:30:00 à  16:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "ETIENE LARCHE, GABRIELE PITOT ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2023-07-14T04:30:00.000Z",
+      "to": "2023-07-14T12:00:00.000Z",
+      "id": "5754c33f32652011ed7c066f5b958178"
+    },
+    {
+      "date": "Le vendredi 14 juillet 2023 de  09:00:00 à  10:30:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "ROUTE ROYALE,  INKERMAN,  SUNNEE MOSQUE  ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2023-07-14T05:00:00.000Z",
+      "to": "2023-07-14T06:30:00.000Z",
+      "id": "8fcd625b4a22b74204f80693d27b0992"
+    },
+    {
+      "date": "Le vendredi 14 juillet 2023 de  08:30:00 à  15:30:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "dans les environs de Great VNC, Varcity, Aviation Civile, Bagranti, Residences Hurrangee et dUrban Gym",
+      "district": "rivieredurempart",
+      "from": "2023-07-14T04:30:00.000Z",
+      "to": "2023-07-14T11:30:00.000Z",
+      "id": "60feb5700f0c0ebbd132db29a8bb2d2f"
+    }
+  ]
+}

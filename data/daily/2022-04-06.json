@@ -1,0 +1,78 @@
+{
+  "date": "2022-04-06",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.481Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le mercredi 6 avril 2022 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "Morc St Jacques---Ave St Jacques,Ave St Paul,Ave St Pierre,Ave des Rosiers,Ave des Letchiers,Ave des Frangipanes,Ave des Alamandas,Ave des Palmiers et Ave des Capucines",
+      "district": "blackriver",
+      "from": "2022-04-06T04:30:00.000Z",
+      "to": "2022-04-06T11:30:00.000Z",
+      "id": "b1a4300ad759b9c7b2247047b7353732"
+    },
+    {
+      "date": "Le mercredi 6 avril 2022 de  08:30:00 à  16:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Angus Lane No. 1 et No. 2, Lucien De Chazal Avenue, Riverwalk Lane, Grannum Road, Hanoomanjee Lane",
+      "district": "plainewilhems",
+      "from": "2022-04-06T04:30:00.000Z",
+      "to": "2022-04-06T12:00:00.000Z",
+      "id": "e6d05907f54b652c2a5ec0b2d6300d7e"
+    },
+    {
+      "date": "Le mercredi 6 avril 2022 de  08:30:00 à  16:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "Angus Lane No. 1 et No. 2, Lucien De Chazal Avenue, Riverwalk Lane, Grannum Road, Hanoomanjee Lane",
+      "district": "plainewilhems",
+      "from": "2022-04-06T04:30:00.000Z",
+      "to": "2022-04-06T12:00:00.000Z",
+      "id": "3b95f8b56fcef74a76798617a26ebe72"
+    },
+    {
+      "date": "Le mercredi 6 avril 2022 de  11:30:00 à  13:30:00",
+      "locality": "PAVILLON",
+      "localitySlug": "pavillon",
+      "streets": "CITE EDC PAVILLON",
+      "district": "plainewilhems",
+      "from": "2022-04-06T07:30:00.000Z",
+      "to": "2022-04-06T09:30:00.000Z",
+      "id": "ad08260f5b3dec7d366db5d191840689"
+    },
+    {
+      "date": "Le mercredi 6 avril 2022 de  08:30:00 à  15:30:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "DANS LES ENVIRONS DE MORC SOOBRAH ET KENSINGTON",
+      "district": "portlouis",
+      "from": "2022-04-06T04:30:00.000Z",
+      "to": "2022-04-06T11:30:00.000Z",
+      "id": "a7287463bf9f96c73ce17186ce9e1b10"
+    },
+    {
+      "date": "Le mercredi 6 avril 2022 de  09:00:00 à  13:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "MORC SOOBRAH PTE AX SABLES",
+      "district": "portlouis",
+      "from": "2022-04-06T05:00:00.000Z",
+      "to": "2022-04-06T09:00:00.000Z",
+      "id": "0ba16e3efb582e9d68161bf57deba496"
+    },
+    {
+      "date": "Le mercredi 6 avril 2022 de  13:00:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Songe,Anse Baleine,Parc Tortue",
+      "district": "rodrigues",
+      "from": "2022-04-06T09:00:00.000Z",
+      "to": "2022-04-06T11:00:00.000Z",
+      "id": "52d43c871cb3c57ea75da493465248d5"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2023-06-22",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.496Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le jeudi 22 juin 2023 de  08:30:00 à  17:00:00",
+      "locality": "DEUX FRERES",
+      "localitySlug": "deux-freres",
+      "streets": "Deux Frères et une partie de Quatre Soeurs",
+      "district": "flacq",
+      "from": "2023-06-22T04:30:00.000Z",
+      "to": "2023-06-22T13:00:00.000Z",
+      "id": "4a4929416955103544b33ae72ee265aa"
+    },
+    {
+      "date": "Le jeudi 22 juin 2023 de  13:00:00 à  17:00:00",
+      "locality": "LA CAVERNE",
+      "localitySlug": "la-caverne",
+      "streets": "Cite La Caverne, NHDC La Caverne, La Caverne No. 1 et No. 2, Morcellement Triton,  Chemin Mission, Avenue Charles de Gaulles, Morcellement Lagesse",
+      "district": "plainewilhems",
+      "from": "2023-06-22T09:00:00.000Z",
+      "to": "2023-06-22T13:00:00.000Z",
+      "id": "c8c85388efc912fdfbb70f4747b30cfe"
+    },
+    {
+      "date": "Le jeudi 22 juin 2023 de  09:00:00 à  16:00:00",
+      "locality": "STANLEY",
+      "localitySlug": "stanley",
+      "streets": "EMILE LAVAL-CRETIN STANLEY ROSE HILL",
+      "district": "plainewilhems",
+      "from": "2023-06-22T05:00:00.000Z",
+      "to": "2023-06-22T12:00:00.000Z",
+      "id": "b22b9ff52f158492fc765ef4e65195d9"
+    },
+    {
+      "date": "Le jeudi 22 juin 2023 de  09:00:00 à  13:00:00",
+      "locality": "PETIT VERGER P AUX SABLES",
+      "localitySlug": "petit-verger-p-aux-sables",
+      "streets": "AVE NARCISSE POINTE AUX SABLES",
+      "district": "portlouis",
+      "from": "2023-06-22T05:00:00.000Z",
+      "to": "2023-06-22T09:00:00.000Z",
+      "id": "f4ac3a51bf787e245909564b1e7327d6"
+    },
+    {
+      "date": "Le jeudi 22 juin 2023 de  15:00:00 à  16:00:00",
+      "locality": "LA FLORA",
+      "localitySlug": "la-flora",
+      "streets": "Ramsahye St,Jogee St,Part of Royal Rd",
+      "district": "savanne",
+      "from": "2023-06-22T11:00:00.000Z",
+      "to": "2023-06-22T12:00:00.000Z",
+      "id": "b4dd2cef33f86ef1084cf8334dcc868f"
+    }
+  ]
+}

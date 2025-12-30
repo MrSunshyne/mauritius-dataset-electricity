@@ -1,0 +1,78 @@
+{
+  "date": "2023-06-15",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.495Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le jeudi 15 juin 2023 de  09:00:00 à  14:30:00",
+      "locality": "CASCAVEL",
+      "localitySlug": "cascavel",
+      "streets": "ROYAL ROAD XAVIER, MORC VRS XAVIER, BAOBAB LANE, CASCAVELLE BRANCH ROAD ET CASCAVELLE GOVERNMENT SCHOOL",
+      "district": "blackriver",
+      "from": "2023-06-15T05:00:00.000Z",
+      "to": "2023-06-15T10:30:00.000Z",
+      "id": "f5cde16d5814e2dbe14931ccda08d17c"
+    },
+    {
+      "date": "Le jeudi 15 juin 2023 de  15:00:00 à  22:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC ST JACQUES",
+      "district": "blackriver",
+      "from": "2023-06-15T11:00:00.000Z",
+      "to": "2023-06-15T18:00:00.000Z",
+      "id": "a2cb58d373d98e7452330bd8159413c3"
+    },
+    {
+      "date": "Le jeudi 15 juin 2023 de  15:30:00 à  17:00:00",
+      "locality": "QUATRE COCOS",
+      "localitySlug": "quatre-cocos",
+      "streets": "Les abonnés de Quatre Cocos et Mare La chaux",
+      "district": "flacq",
+      "from": "2023-06-15T11:30:00.000Z",
+      "to": "2023-06-15T13:00:00.000Z",
+      "id": "87224205a3595e398bd6660a2161b660"
+    },
+    {
+      "date": "Le jeudi 15 juin 2023 de  08:30:00 à  09:30:00",
+      "locality": "QUATRE COCOS",
+      "localitySlug": "quatre-cocos",
+      "streets": "Les abonnés de Quatre Cocos et Mare La chaux",
+      "district": "flacq",
+      "from": "2023-06-15T04:30:00.000Z",
+      "to": "2023-06-15T05:30:00.000Z",
+      "id": "ab9557d4d6c4987acb60fca82a4055b6"
+    },
+    {
+      "date": "Le jeudi 15 juin 2023 de  08:30:00 à  17:00:00",
+      "locality": "PALMAR",
+      "localitySlug": "palmar",
+      "streets": "Les abonnés du village de Palmar",
+      "district": "flacq",
+      "from": "2023-06-15T04:30:00.000Z",
+      "to": "2023-06-15T13:00:00.000Z",
+      "id": "85c273f400c9eb9acef57633311ce065"
+    },
+    {
+      "date": "Le jeudi 15 juin 2023 de  13:00:00 à  17:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "LES ABONNES DE MORC ILOIS BAIE DU TOMBEAU HABITANT DANS LES ENVIRONS DES RUES CORMORAN, LILE MOPATE, TROIS FRERE ET DIEGO GARCIA",
+      "district": "pamplemousses",
+      "from": "2023-06-15T09:00:00.000Z",
+      "to": "2023-06-15T13:00:00.000Z",
+      "id": "b385bb9f5e5fbb78fdc9e20a4ff1b4c7"
+    },
+    {
+      "date": "Le jeudi 15 juin 2023 de  08:30:00 à  12:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Impasse Henri et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-06-15T04:30:00.000Z",
+      "to": "2023-06-15T08:00:00.000Z",
+      "id": "bdfa613b6fd91274042e0f58a36bac60"
+    }
+  ]
+}

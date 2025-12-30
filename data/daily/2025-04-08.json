@@ -1,0 +1,38 @@
+{
+  "date": "2025-04-08",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.521Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mardi 8 avril 2025 de  09:30:00 à  11:00:00",
+      "locality": "BELLE MARE",
+      "localitySlug": "belle-mare",
+      "streets": "Village de Belle Mare dans les environs de la Route royale, Ambre Hotel, La Veranda Hotel et La Residence Hotel.",
+      "district": "flacq",
+      "from": "2025-04-08T05:30:00.000Z",
+      "to": "2025-04-08T07:00:00.000Z",
+      "id": "9ac1efbbe8d026d1c04a7edcc65eb226"
+    },
+    {
+      "date": "Le mardi 8 avril 2025 de  09:00:00 à  13:00:00",
+      "locality": "EBENE",
+      "localitySlug": "ebene",
+      "streets": "HOUSING ESTATE MORC EBENE DANS LES ALENTOURS DE KOVIL, GYM ET LA RUE EUCALYPTUS",
+      "district": "plainewilhems",
+      "from": "2025-04-08T05:00:00.000Z",
+      "to": "2025-04-08T09:00:00.000Z",
+      "id": "d34cb4e2fe8000e5f1f1c2c310bfaadf"
+    },
+    {
+      "date": "Le mardi 8 avril 2025 de  09:00:00 à  15:00:00",
+      "locality": "SAINT ANTOINE",
+      "localitySlug": "saint-antoine",
+      "streets": "MORC PETIT VILLAGE ST ANTOINE GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2025-04-08T05:00:00.000Z",
+      "to": "2025-04-08T11:00:00.000Z",
+      "id": "3da7106b7c85ed1147bbd8f0c4cfe45f"
+    }
+  ]
+}

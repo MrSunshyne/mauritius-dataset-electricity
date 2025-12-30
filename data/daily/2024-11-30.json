@@ -1,0 +1,48 @@
+{
+  "date": "2024-11-30",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.516Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le samedi 30 novembre 2024 de  09:00:00 à  16:00:00",
+      "locality": "COTE D-OR",
+      "localitySlug": "cote-d-or",
+      "streets": "une partie de Cote DOr village, Morc Lonhro, VRS Cote Dor, NSLD Cote DOr",
+      "district": "moka",
+      "from": "2024-11-30T05:00:00.000Z",
+      "to": "2024-11-30T12:00:00.000Z",
+      "id": "b1eee5bd23171f33757cef824f17591c"
+    },
+    {
+      "date": "Le samedi 30 novembre 2024 de  09:45:00 à  11:00:00",
+      "locality": "BOIS MARCHAND",
+      "localitySlug": "bois-marchand",
+      "streets": "CITE BOIS MARCHAND.",
+      "district": "pamplemousses",
+      "from": "2024-11-30T05:45:00.000Z",
+      "to": "2024-11-30T07:00:00.000Z",
+      "id": "bd55a9283a43b48f9e14c4b5eb6e6e22"
+    },
+    {
+      "date": "Le samedi 30 novembre 2024 de  05:00:00 à  14:00:00",
+      "locality": "MAPOU LECLEZIO",
+      "localitySlug": "mapou-leclezio",
+      "streets": "MAPOU LECLEZIO ET BOIS ROUGE GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2024-11-30T01:00:00.000Z",
+      "to": "2024-11-30T10:00:00.000Z",
+      "id": "b018cd0518e2465aebdbeecb2598b04b"
+    },
+    {
+      "date": "Le samedi 30 novembre 2024 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "PATATE THEOPHILE, TROIS SOLEIL, MONTAGNE CABRIS EST",
+      "district": "rodrigues",
+      "from": "2024-11-30T04:30:00.000Z",
+      "to": "2024-11-30T11:00:00.000Z",
+      "id": "e5cb94367e4031be7d98d052a23e4471"
+    }
+  ]
+}

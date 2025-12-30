@@ -1,0 +1,28 @@
+{
+  "date": "2022-09-02",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.485Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le vendredi 2 septembre 2022 de  09:00:00 à  16:00:00",
+      "locality": "DEUX BRAS- NEW GROVE",
+      "localitySlug": "deux-bras-new-grove",
+      "streets": "Deux Bras habitant dans le périmètre et les rues suivantes: Morcellement VRS Deux Bras et la Route Royale Deux Bras",
+      "district": "grandport",
+      "from": "2022-09-02T05:00:00.000Z",
+      "to": "2022-09-02T12:00:00.000Z",
+      "id": "89839a30a4eda6eaac25d54630891aa0"
+    },
+    {
+      "date": "Le vendredi 2 septembre 2022 de  08:30:00 à  14:00:00",
+      "locality": "16EME MILE",
+      "localitySlug": "16eme-mile",
+      "streets": "Les abonnés du village de 16eme Mile Forest-Side habitant les rues suivantes : Coriolis, Issory, Modely, Sajeebun, Bajo, Ramparad, Oomah, Ramzoo, morcellement Soobanee et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-09-02T04:30:00.000Z",
+      "to": "2022-09-02T10:00:00.000Z",
+      "id": "23f20fccbe9c63d75e4495bbee58fb5d"
+    }
+  ]
+}

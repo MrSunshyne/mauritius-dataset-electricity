@@ -1,0 +1,68 @@
+{
+  "date": "2024-07-25",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.511Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le jeudi 25 juillet 2024 de  08:30:00 à  13:00:00",
+      "locality": "BEAU SONGE",
+      "localitySlug": "beau-songe",
+      "streets": "LA ROUTE ROYALE, EX PENETRON, AVENUE DES BENGALIS, AVENUE VENUS, AVENUE PERE LAVAL, AVE MERE THERESA, MORC DOOKUN ET CWA BEAU SONGES",
+      "district": "blackriver",
+      "from": "2024-07-25T04:30:00.000Z",
+      "to": "2024-07-25T09:00:00.000Z",
+      "id": "1e4284437815b765fefc21058a702b90"
+    },
+    {
+      "date": "Le jeudi 25 juillet 2024 de  08:30:00 à  16:00:00",
+      "locality": "LA LAURA (BEL AIR)",
+      "localitySlug": "la-laura",
+      "streets": "La Laura dans les environs de Pivot, Atics, Arcpo et Fast Stone Crusher.",
+      "district": "flacq",
+      "from": "2024-07-25T04:30:00.000Z",
+      "to": "2024-07-25T12:00:00.000Z",
+      "id": "4fad37bf49baf0733956666bfc316142"
+    },
+    {
+      "date": "Le jeudi 25 juillet 2024 de  14:45:00 à  16:45:00",
+      "locality": "PETIT BOIS",
+      "localitySlug": "petit-bois",
+      "streets": "LES ABONNES DE PETIT BOIS VILLAGE.",
+      "district": "flacq",
+      "from": "2024-07-25T10:45:00.000Z",
+      "to": "2024-07-25T12:45:00.000Z",
+      "id": "ceaf584fcb24ef93a3e72784bcfa4606"
+    },
+    {
+      "date": "Le jeudi 25 juillet 2024 de  08:30:00 à  16:00:00",
+      "locality": "BELLE RIVE CUREPIPE",
+      "localitySlug": "belle-rive-curepipe",
+      "streets": "village La Fileuse de Belle Rive et NHDC Wooton",
+      "district": "plainewilhems",
+      "from": "2024-07-25T04:30:00.000Z",
+      "to": "2024-07-25T12:00:00.000Z",
+      "id": "0153486ec1961cd2818d0f138da6a371"
+    },
+    {
+      "date": "Le jeudi 25 juillet 2024 de  15:00:00 à  17:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "une partie de Route Thompson, Morcellement Ramdanee,  Route Cantin, Avenue Nanapragassen, Camp Bombaye No. 1 et No. 2, Route Moreau, Chemin Latour, Chemin La Touche, une partie de Route John-Kennedy, une partie de Route St-Paul, une partie de Route Ligne-Berthaud",
+      "district": "plainewilhems",
+      "from": "2024-07-25T11:00:00.000Z",
+      "to": "2024-07-25T13:30:00.000Z",
+      "id": "8dc1923cab2fcc8540ae1a0cdc18133a"
+    },
+    {
+      "date": "Le jeudi 25 juillet 2024 de  07:00:00 à  08:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave Boundary, Farquhar, C. Antelme, Res. Beau Sejour, Res. Pere Laval et les environs",
+      "district": "plainewilhems",
+      "from": "2024-07-25T03:00:00.000Z",
+      "to": "2024-07-25T04:00:00.000Z",
+      "id": "3ea4fecc68ad528f2cbfa11d6324f755"
+    }
+  ]
+}

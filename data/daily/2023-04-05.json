@@ -1,0 +1,58 @@
+{
+  "date": "2023-04-05",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.493Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mercredi 5 avril 2023 de  09:30:00 à  11:30:00",
+      "locality": "SEBASTOPOL",
+      "localitySlug": "sebastopol",
+      "streets": "CHEMIN CENT GAULETTE SEBASTOPOL",
+      "district": "flacq",
+      "from": "2023-04-05T05:30:00.000Z",
+      "to": "2023-04-05T07:30:00.000Z",
+      "id": "02dc6ded539a6556e6753a8e5c638187"
+    },
+    {
+      "date": "Le mercredi 5 avril 2023 de  09:00:00 à  16:00:00",
+      "locality": "SAINT HILAIRE",
+      "localitySlug": "saint-hilaire",
+      "streets": "SAINT HILAIRE,ST HUBERT ,CENT GAULETTE",
+      "district": "grandport",
+      "from": "2023-04-05T05:00:00.000Z",
+      "to": "2023-04-05T12:00:00.000Z",
+      "id": "6043b5028d79d4b83e9c862e25fd1417"
+    },
+    {
+      "date": "Le mercredi 5 avril 2023 de  12:30:00 à  15:00:00",
+      "locality": "CAMP FOUQUEREAUX",
+      "localitySlug": "camp-fouquereaux",
+      "streets": ": Réservoir Road, une partie de St Antoine Road,  Morc Ramanah, Morc Giquel, Morc Chummun, Constatin Lane, une partie de Ram Lane, une partie de Galea Road et Galea Road No. 1, Prayag Lane",
+      "district": "plainewilhems",
+      "from": "2023-04-05T08:30:00.000Z",
+      "to": "2023-04-05T11:00:00.000Z",
+      "id": "2e462e8716b9cba2cc93f324b380567c"
+    },
+    {
+      "date": "Le mercredi 5 avril 2023 de  12:30:00 à  15:00:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": ": Réservoir Road, une partie de St Antoine Road,  Morc Ramanah, Morc Giquel, Morc Chummun, Constatin Lane, une partie de Ram Lane, une partie de Galea Road et Galea Road No. 1, Prayag Lane",
+      "district": "plainewilhems",
+      "from": "2023-04-05T08:30:00.000Z",
+      "to": "2023-04-05T11:00:00.000Z",
+      "id": "401d582c4c61c8178bc2b8b02382581a"
+    },
+    {
+      "date": "Le mercredi 5 avril 2023 de  08:30:00 à  12:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Quinze-Cantons No.1, Cite La Caverne, NHDC La Caverne, Résidence Rosano, Residence Sunsetville, La Caverne No. 1, Morcellement Triton, une partie chemin Bègues, Chemin Mission",
+      "district": "plainewilhems",
+      "from": "2023-04-05T04:30:00.000Z",
+      "to": "2023-04-05T08:30:00.000Z",
+      "id": "6e74353a8aa6ab55211e2cb6c0f75e1a"
+    }
+  ]
+}

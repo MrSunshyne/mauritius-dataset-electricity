@@ -1,0 +1,48 @@
+{
+  "date": "2023-07-01",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.496Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le samedi 1 juillet 2023 de  14:00:00 à  18:00:00",
+      "locality": "DAGOTIERE",
+      "localitySlug": "dagotiere",
+      "streets": "SCHOOL RD DAGOTIERE",
+      "district": "moka",
+      "from": "2023-07-01T10:00:00.000Z",
+      "to": "2023-07-01T14:00:00.000Z",
+      "id": "7ed249f2b3e21a0271f30c1214578e8a"
+    },
+    {
+      "date": "Le samedi 1 juillet 2023 de  09:00:00 à  14:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "MORC ILOIS PTE AUX SABLES",
+      "district": "portlouis",
+      "from": "2023-07-01T05:00:00.000Z",
+      "to": "2023-07-01T10:00:00.000Z",
+      "id": "6f8c035c0d66c842f4aedaf712cca66c"
+    },
+    {
+      "date": "Le samedi 1 juillet 2023 de  08:30:00 à  15:30:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "dans les environs de vingt pieds road",
+      "district": "rivieredurempart",
+      "from": "2023-07-01T04:30:00.000Z",
+      "to": "2023-07-01T11:30:00.000Z",
+      "id": "843b7cb58fb7f6a1f2c6c2007b07df6d"
+    },
+    {
+      "date": "Le samedi 1 juillet 2023 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LES ABONNES DE GRAND VAR, ILE MICHEL, RIVIERE COCO ET TAMARIN",
+      "district": "rodrigues",
+      "from": "2023-07-01T04:30:00.000Z",
+      "to": "2023-07-01T11:00:00.000Z",
+      "id": "9be3fd3dce635cf2759f9e90c0c28c39"
+    }
+  ]
+}

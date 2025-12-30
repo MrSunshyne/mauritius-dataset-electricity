@@ -1,0 +1,68 @@
+{
+  "date": "2022-08-28",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.485Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le dimanche 28 août 2022 de  09:00:00 à  14:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "AVE RADAR, AVE DES COLOMBES, AVE DES AIGRETTES, AVE DES CANARIES, AVE DES AIGLONS, AVE DES PERDRIX, AVE DES BENGALIS ET LES AVE CATEAUX VERT 1 ET 2",
+      "district": "blackriver",
+      "from": "2022-08-28T05:00:00.000Z",
+      "to": "2022-08-28T10:00:00.000Z",
+      "id": "4de3c2a9e49c0904f5c3c710c76c9dfc"
+    },
+    {
+      "date": "Le dimanche 28 août 2022 de  08:30:00 à  16:00:00",
+      "locality": "PETIT PAQUET",
+      "localitySlug": "petit-paquet",
+      "streets": "Les abonnés du village de Petit Paquet",
+      "district": "flacq",
+      "from": "2022-08-28T04:30:00.000Z",
+      "to": "2022-08-28T12:00:00.000Z",
+      "id": "d1e88e7d3f33b838f44fb1d604f1289b"
+    },
+    {
+      "date": "Le dimanche 28 août 2022 de  08:00:00 à  17:00:00",
+      "locality": "BEL ETANG",
+      "localitySlug": "bel-etang",
+      "streets": "Village de Bel Etang",
+      "district": "flacq",
+      "from": "2022-08-28T04:00:00.000Z",
+      "to": "2022-08-28T13:00:00.000Z",
+      "id": "1941aa142cd24923df261c6cc11f5378"
+    },
+    {
+      "date": "Le dimanche 28 août 2022 de  08:30:00 à  17:00:00",
+      "locality": "BLUE BAY",
+      "localitySlug": "blue-bay",
+      "streets": "Blue Bay habitant dans le périmètre et les rues suivantes: Blue Blay Link Road, Carbigeuaux Street, Bonites Street, Aigrettes Street, Marlin Street, Dorade Street, Carangue Street, Ourite Street, Cordonnier Street, Pointe D’Esny Road, Lotissement Blue Bay, Coastal Road, Police Station, Coast Guard et Morcellement Blue Bay",
+      "district": "grandport",
+      "from": "2022-08-28T04:30:00.000Z",
+      "to": "2022-08-28T13:00:00.000Z",
+      "id": "9644c5f47cc4a2a559b204f7a92959ad"
+    },
+    {
+      "date": "Le dimanche 28 août 2022 de  08:30:00 à  15:00:00",
+      "locality": "RIAMBEL",
+      "localitySlug": "riambel",
+      "streets": "Riambel Surinam, Cite Des Dieux Riambel et Riambel Coast Road",
+      "district": "savanne",
+      "from": "2022-08-28T04:30:00.000Z",
+      "to": "2022-08-28T11:00:00.000Z",
+      "id": "988adc9d4718e6acb5d615974982b290"
+    },
+    {
+      "date": "Le dimanche 28 août 2022 de  08:30:00 à  15:00:00",
+      "locality": "CAMP DIABLE",
+      "localitySlug": "camp-diable",
+      "streets": "Camp Diable, Bamboo Road, Ilot et Colmar",
+      "district": "savanne",
+      "from": "2022-08-28T04:30:00.000Z",
+      "to": "2022-08-28T11:00:00.000Z",
+      "id": "c7cd3fa9985982031a3d0b434add4e1e"
+    }
+  ]
+}

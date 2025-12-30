@@ -1,0 +1,48 @@
+{
+  "date": "2023-07-26",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.497Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mercredi 26 juillet 2023 de  09:00:00 à  15:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "Les abonnés de Forest-Side habitant les régions et les rues suivantes: Partie de La Brasserie Road, Mellish Street, Derby Street, Derby lane, Derby Avenue et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-07-26T05:00:00.000Z",
+      "to": "2023-07-26T11:00:00.000Z",
+      "id": "aa8553355d1ed60d686bab6f2980cd34"
+    },
+    {
+      "date": "Le mercredi 26 juillet 2023 de  09:15:00 à  13:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Residence Vuillemin near football playground",
+      "district": "plainewilhems",
+      "from": "2023-07-26T05:15:00.000Z",
+      "to": "2023-07-26T09:00:00.000Z",
+      "id": "4bc8b50d5b42bf3487aed0250fc364a4"
+    },
+    {
+      "date": "Le mercredi 26 juillet 2023 de  16:30:00 à  18:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "RUE VANDERMESH DANS LES ENVIRONS COLLEGE QEC.",
+      "district": "plainewilhems",
+      "from": "2023-07-26T12:30:00.000Z",
+      "to": "2023-07-26T14:00:00.000Z",
+      "id": "e31e7c8b72117f3c971ae7d527c3477b"
+    },
+    {
+      "date": "Le mercredi 26 juillet 2023 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Grand La Fouche Corail",
+      "district": "rodrigues",
+      "from": "2023-07-26T04:30:00.000Z",
+      "to": "2023-07-26T11:00:00.000Z",
+      "id": "2e94efbffa6d58a0bd1e214b17bd63b9"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2024-08-31",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.512Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le samedi 31 août 2024 de  08:30:00 à  15:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "Ave Splendid View et Morc Richwood",
+      "district": "blackriver",
+      "from": "2024-08-31T04:30:00.000Z",
+      "to": "2024-08-31T11:00:00.000Z",
+      "id": "5e8d1b6117d8b67f238b361b5d8dfb2d"
+    },
+    {
+      "date": "Le samedi 31 août 2024 de  08:30:00 à  16:00:00",
+      "locality": "BELLE MARE",
+      "localitySlug": "belle-mare",
+      "streets": "Morc Constance",
+      "district": "flacq",
+      "from": "2024-08-31T04:30:00.000Z",
+      "to": "2024-08-31T12:00:00.000Z",
+      "id": "5e256d27831e9584b6b4502b1b0304a6"
+    },
+    {
+      "date": "Le samedi 31 août 2024 de  12:50:00 à  14:30:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "Residence Dool,une partie de Le Hochet",
+      "district": "pamplemousses",
+      "from": "2024-08-31T08:50:00.000Z",
+      "to": "2024-08-31T10:30:00.000Z",
+      "id": "af6aa7efa884721a4ffead6099e71ff2"
+    },
+    {
+      "date": "Le samedi 31 août 2024 de  14:00:00 à  15:15:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "VALLEE DES PRETRES DANS LES ENVIRONS TERMINUS ET AUX ALENTOUR NEEL.",
+      "district": "portlouis",
+      "from": "2024-08-31T10:00:00.000Z",
+      "to": "2024-08-31T11:15:00.000Z",
+      "id": "6791997c498a6eb4193aca527c392368"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "quay-d",
+  "name": "QUAY D",
+  "district": "portlouis",
+  "generated": "2025-12-30T19:07:15.815Z",
+  "outageCount": 5,
+  "firstOutage": "2022-06-26",
+  "lastOutage": "2025-08-24",
+  "outages": [
+    {
+      "date": "Le dimanche 24 août 2025 de  08:30:00 à  15:30:00",
+      "streets": "DANS LES ENVIRONS DE EX-MOLASSES, NATIONAL COAST GUARD, NADEN HALL ET MOULIN DE LA CONCORDE",
+      "from": "2025-08-24T04:30:00.000Z",
+      "to": "2025-08-24T11:30:00.000Z",
+      "id": "97224bb3a625e504e98fd189b477e3a6"
+    },
+    {
+      "date": "Le samedi 23 août 2025 de  08:30:00 à  15:30:00",
+      "streets": "DANS LES ENVIRONS DE EX-MOLASSES, NATIONAL COAST GUARD, NADEN HALL ET MOULIN DE LA CONCORDE",
+      "from": "2025-08-23T04:30:00.000Z",
+      "to": "2025-08-23T11:30:00.000Z",
+      "id": "f11e3bac88dea0c3c75fccc71d7a4fd7"
+    },
+    {
+      "date": "Le vendredi 15 décembre 2023 de  08:30:00 à  15:30:00",
+      "streets": "LES ABONNES DE QUAY D MER ROUGE DANS LES ENVIRONS DE FROID DE MASCAREIGNES, HASSEN TAHER, KEN LEE, TOTAL ET R STACK",
+      "from": "2023-12-15T04:30:00.000Z",
+      "to": "2023-12-15T11:30:00.000Z",
+      "id": "d17644a140c17740ba9a790cf2c702b0"
+    },
+    {
+      "date": "Le dimanche 15 janvier 2023 de  08:30:00 à  15:30:00",
+      "streets": "LES ABONNES DE QUAY D MER ROUGE DANS LES ENVIRONS DE FROID DE MASCAREIGNES, HASSEN TAHER, KEN LEE, TOTAL ET R STACK",
+      "from": "2023-01-15T04:30:00.000Z",
+      "to": "2023-01-15T11:30:00.000Z",
+      "id": "c08109ade649346b22a733e3105e54f7"
+    },
+    {
+      "date": "Le dimanche 26 juin 2022 de  08:00:00 à  15:30:00",
+      "streets": "DANS LES ENVIRONS DE MELASSE, TAYLOR SMITH,CURRIMJEE, MOULIN DE LA CONCORDE, FROID DE MASCAREIGNES, ACQUALIA, COAST GUARD, POLICE GATE, CAPITAINERIE, PALLAGIC, PIM INDUSTRY, ENGEN, TOTAL, MOROIL, VIVO ENERGY ET STATE TRADING CORPORATION",
+      "from": "2022-06-26T04:00:00.000Z",
+      "to": "2022-06-26T11:30:00.000Z",
+      "id": "e6fae5fc06fa47fc104a3c7356098987"
+    }
+  ]
+}

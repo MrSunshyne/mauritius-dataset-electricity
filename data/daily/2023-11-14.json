@@ -1,0 +1,68 @@
+{
+  "date": "2023-11-14",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.501Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le mardi 14 novembre 2023 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "AVE DES COLOMBES, AVE DES AIGRETTES, AVE DES CANARIES, AVE DES AIGLONS, AVE DES PERDRIX, AVE DES BENGALIS, AVE CAROL ET AVE DES FLAMANTS",
+      "district": "blackriver",
+      "from": "2023-11-14T04:30:00.000Z",
+      "to": "2023-11-14T11:30:00.000Z",
+      "id": "fd963cefdca421175050ff5fc4b4d985"
+    },
+    {
+      "date": "Le mardi 14 novembre 2023 de  20:10:00 à  22:10:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "CAMP BENOIT,ALLEE TAMARIN",
+      "district": "blackriver",
+      "from": "2023-11-14T16:10:00.000Z",
+      "to": "2023-11-14T18:10:00.000Z",
+      "id": "664ee74e8032f85f50218356c7a74d92"
+    },
+    {
+      "date": "Le mardi 14 novembre 2023 de  09:00:00 à  14:00:00",
+      "locality": "PETIT SABLE",
+      "localitySlug": "petit-sable",
+      "streets": "PETIT SABLE",
+      "district": "grandport",
+      "from": "2023-11-14T05:00:00.000Z",
+      "to": "2023-11-14T10:00:00.000Z",
+      "id": "17bc8d86064a85017e35e51b250c8eaa"
+    },
+    {
+      "date": "Le mardi 14 novembre 2023 de  13:30:00 à  14:30:00",
+      "locality": "ANSE JONCHEE",
+      "localitySlug": "anse-jonchee",
+      "streets": "anse jonche,terre cafe",
+      "district": "grandport",
+      "from": "2023-11-14T09:30:00.000Z",
+      "to": "2023-11-14T10:30:00.000Z",
+      "id": "4f91a8f69c14d50c581040265670ca59"
+    },
+    {
+      "date": "Le mardi 14 novembre 2023 de  08:30:00 à  12:00:00",
+      "locality": "QUARTIER MILITAIRE",
+      "localitySlug": "quartier-militaire",
+      "streets": "Léscalier Road, partie de Route Royale et School Road",
+      "district": "moka",
+      "from": "2023-11-14T04:30:00.000Z",
+      "to": "2023-11-14T08:00:00.000Z",
+      "id": "28a8f508488f23cef63092e5111474fa"
+    },
+    {
+      "date": "Le mardi 14 novembre 2023 de  20:50:00 à  22:50:00",
+      "locality": "MOUNT",
+      "localitySlug": "mount",
+      "streets": "MON PITON,MOUNT",
+      "district": "pamplemousses",
+      "from": "2023-11-14T16:50:00.000Z",
+      "to": "2023-11-14T18:50:00.000Z",
+      "id": "50734d3c827bbc366173e44a1476d4af"
+    }
+  ]
+}

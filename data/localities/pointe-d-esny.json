@@ -1,0 +1,53 @@
+{
+  "slug": "pointe-d-esny",
+  "name": "POINTE D-ESNY",
+  "district": "grandport",
+  "generated": "2025-12-30T19:07:15.798Z",
+  "outageCount": 6,
+  "firstOutage": "2022-05-12",
+  "lastOutage": "2025-03-27",
+  "outages": [
+    {
+      "date": "Le jeudi 27 mars 2025 de  08:30:00 à  10:00:00",
+      "streets": "COASTAL ROAD POINTE DESNY",
+      "from": "2025-03-27T04:30:00.000Z",
+      "to": "2025-03-27T06:00:00.000Z",
+      "id": "8d1fad39c9fa7f12bcebe6047003c798"
+    },
+    {
+      "date": "Le jeudi 13 juin 2024 de  09:40:00 à  10:30:00",
+      "streets": "Pointe DEsny,Pointe Gerome,Residence la Chaux,Blue Bay,Mahebourg en partie",
+      "from": "2024-06-13T05:40:00.000Z",
+      "to": "2024-06-13T06:30:00.000Z",
+      "id": "0975ce0f2cfb438445c51f793e6f9ed7"
+    },
+    {
+      "date": "Le mercredi 11 janvier 2023 de  10:00:00 à  15:00:00",
+      "streets": "POINTE DESNY",
+      "from": "2023-01-11T06:00:00.000Z",
+      "to": "2023-01-11T11:00:00.000Z",
+      "id": "f1dffa74010db7a56b788a589f4d1a83"
+    },
+    {
+      "date": "Le lundi 26 décembre 2022 de  09:00:00 à  12:00:00",
+      "streets": "BLUE BAY",
+      "from": "2022-12-26T05:00:00.000Z",
+      "to": "2022-12-26T08:00:00.000Z",
+      "id": "4f5832206686c7bb561175443bd19fb5"
+    },
+    {
+      "date": "Le samedi 24 décembre 2022 de  07:00:00 à  09:00:00",
+      "streets": "BLUE BAY,POINTE DESNY",
+      "from": "2022-12-24T03:00:00.000Z",
+      "to": "2022-12-24T05:00:00.000Z",
+      "id": "54a3d982f98d7df78c3f3f80a9d1fbae"
+    },
+    {
+      "date": "Le jeudi 12 mai 2022 de  16:00:00 à  18:00:00",
+      "streets": "Carreau Esnouf, Desplaces Villages, Morcellement Holiday Inn, Le Chaland, Camp Carol Le Bouchon, Morcellement Blue Bay et Coastal Road Pointe D’Esny",
+      "from": "2022-05-12T12:00:00.000Z",
+      "to": "2022-05-12T14:00:00.000Z",
+      "id": "0114045ea865b9a6075ad65ad76cea4f"
+    }
+  ]
+}

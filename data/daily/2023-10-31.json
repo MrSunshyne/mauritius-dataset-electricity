@@ -1,0 +1,138 @@
+{
+  "date": "2023-10-31",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.500Z",
+  "outageCount": 13,
+  "outages": [
+    {
+      "date": "Le mardi 31 octobre 2023 de  09:15:00 à  13:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC SAFELAND",
+      "district": "blackriver",
+      "from": "2023-10-31T05:15:00.000Z",
+      "to": "2023-10-31T09:00:00.000Z",
+      "id": "dfbdd04aead348cb785f664efbf1ebe0"
+    },
+    {
+      "date": "Le mardi 31 octobre 2023 de  10:00:00 à  13:00:00",
+      "locality": "PONT LARDIER",
+      "localitySlug": "pont-lardier",
+      "streets": "PONT LARDIER",
+      "district": "flacq",
+      "from": "2023-10-31T06:00:00.000Z",
+      "to": "2023-10-31T09:00:00.000Z",
+      "id": "dc292f614939ebdcbe7687542e821899"
+    },
+    {
+      "date": "Le mardi 31 octobre 2023 de  09:45:00 à  13:30:00",
+      "locality": "BEAU VALLON",
+      "localitySlug": "beau-vallon",
+      "streets": "School Rd,Ex Grove Industry & Morc EDF",
+      "district": "grandport",
+      "from": "2023-10-31T05:45:00.000Z",
+      "to": "2023-10-31T09:30:00.000Z",
+      "id": "9b466b68882bc5e8f42d18109a4a9de8"
+    },
+    {
+      "date": "Le mardi 31 octobre 2023 de  12:30:00 à  13:30:00",
+      "locality": "GENTILLY- MOKA",
+      "localitySlug": "gentilly-moka",
+      "streets": "DR PILOT ST OPPOSITE GENTILLY ESTATE",
+      "district": "moka",
+      "from": "2023-10-31T08:30:00.000Z",
+      "to": "2023-10-31T09:30:00.000Z",
+      "id": "2696c60f4c2ee6a9cd7177a5207d6488"
+    },
+    {
+      "date": "Le mardi 31 octobre 2023 de  09:00:00 à  12:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "Terre Rouge,Camp La Boue,St Joseph, Nelson Mandela, Bois Marchand, Cité CHA, Cité Dool, DBM Industrila Zone, Baptiste Lane, Morc Foondun, Dans les environs de Station De Police De Terre Rouge",
+      "district": "pamplemousses",
+      "from": "2023-10-31T05:00:00.000Z",
+      "to": "2023-10-31T08:00:00.000Z",
+      "id": "9c26ec3eaf1a1e0e48e4dd2e3b0772c3"
+    },
+    {
+      "date": "Le mardi 31 octobre 2023 de  21:45:00 à  23:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "TRIOLET, SOTTISE, TROU AUX BICHES, BOIS CHANDELLE, MON CHOISY ET SOLITUDE.",
+      "district": "pamplemousses",
+      "from": "2023-10-31T17:45:00.000Z",
+      "to": "2023-10-31T19:00:00.000Z",
+      "id": "0986e0a76451da6d99fd35d40965b0b2"
+    },
+    {
+      "date": "Le mardi 31 octobre 2023 de  09:00:00 à  15:00:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "La Marie habitant les régions et les rues suivantes : Morcellement  Seetaram, Accacia No 2, 3 et 5, Impasse Sai et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-10-31T05:00:00.000Z",
+      "to": "2023-10-31T11:00:00.000Z",
+      "id": "1bf6c887182aea0902ed5adec0dace6f"
+    },
+    {
+      "date": "Le mardi 31 octobre 2023 de  08:30:00 à  16:00:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "NHDC Camp Mapou, une partie de Camp-Roches, Bhagat lane, une partie de chemin Dévergués, une partie de Camp Fidèles",
+      "district": "plainewilhems",
+      "from": "2023-10-31T04:30:00.000Z",
+      "to": "2023-10-31T12:00:00.000Z",
+      "id": "7f98d97dd60673506baf5c80954d125e"
+    },
+    {
+      "date": "Le mardi 31 octobre 2023 de  14:20:00 à  15:10:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "VACOAS LA CAVERNE NO:1",
+      "district": "plainewilhems",
+      "from": "2023-10-31T10:20:00.000Z",
+      "to": "2023-10-31T11:10:00.000Z",
+      "id": "aeaeb616d477ee2248424e4d58dce9c1"
+    },
+    {
+      "date": "Le mardi 31 octobre 2023 de  14:00:00 à  19:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "DANS LES ENVIRONS BERNARDIN DE ST PIERRE PRES LA BOUTIQUE RAMDIN/ECOLE MATERNELLE AVANT CHITRAKOOT.",
+      "district": "portlouis",
+      "from": "2023-10-31T10:00:00.000Z",
+      "to": "2023-10-31T15:00:00.000Z",
+      "id": "c69f7222303e53904871c4a84c30d42a"
+    },
+    {
+      "date": "Le mardi 31 octobre 2023 de  19:20:00 à  23:20:00",
+      "locality": "ROCHE BOIS",
+      "localitySlug": "roche-bois",
+      "streets": "LA ROUTE ABATTOIR ET LES RUELLES AVOISINANTES.",
+      "district": "portlouis",
+      "from": "2023-10-31T15:20:00.000Z",
+      "to": "2023-10-31T19:20:00.000Z",
+      "id": "8ec69b5a45d669b727ad46afe58f79d3"
+    },
+    {
+      "date": "Le mardi 31 octobre 2023 de  09:00:00 à  18:00:00",
+      "locality": "BOIS CHERI",
+      "localitySlug": "bois-cheri",
+      "streets": "Le Village de Bois Cheri",
+      "district": "savanne",
+      "from": "2023-10-31T05:00:00.000Z",
+      "to": "2023-10-31T14:00:00.000Z",
+      "id": "a97817a6f7d018a983cbac24a9941b01"
+    },
+    {
+      "date": "Le mardi 31 octobre 2023 de  09:00:00 à  16:00:00",
+      "locality": "CHEMIN GRENIER",
+      "localitySlug": "chemin-grenier",
+      "streets": "BELLE VUE",
+      "district": "savanne",
+      "from": "2023-10-31T05:00:00.000Z",
+      "to": "2023-10-31T12:00:00.000Z",
+      "id": "7fb3665e3135edb8d88c45980e36e490"
+    }
+  ]
+}

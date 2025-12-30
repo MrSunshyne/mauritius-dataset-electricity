@@ -1,0 +1,38 @@
+{
+  "date": "2023-01-16",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.490Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le lundi 16 janvier 2023 de  08:30:00 à  16:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "St Geran, en partie Victory et Brick Empire",
+      "district": "blackriver",
+      "from": "2023-01-16T04:30:00.000Z",
+      "to": "2023-01-16T12:00:00.000Z",
+      "id": "94367dbd8a9266bae3791f4f9335d8e0"
+    },
+    {
+      "date": "Le lundi 16 janvier 2023 de  13:05:00 à  14:05:00",
+      "locality": "MONTAGNE BLANCHE",
+      "localitySlug": "montagne-blanche",
+      "streets": "QUEENS,PART OF ROYAL RD",
+      "district": "moka",
+      "from": "2023-01-16T09:05:00.000Z",
+      "to": "2023-01-16T10:05:00.000Z",
+      "id": "eb7c02b8ba2e67620a95c1bdb54bf3c9"
+    },
+    {
+      "date": "Le lundi 16 janvier 2023 de  15:00:00 à  17:00:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "URGENT _ Les abonnés de La Marie habitant les régions et les rues suivantes : Morcellement  Seetaram, Accacia No 2, 3 et 5, Impasse Sai et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2023-01-16T11:00:00.000Z",
+      "to": "2023-01-16T13:00:00.000Z",
+      "id": "f156664f7f3a67b1dd5df20846cacbf2"
+    }
+  ]
+}

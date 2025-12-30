@@ -1,0 +1,704 @@
+{
+  "slug": "port-louis",
+  "name": "PORT-LOUIS",
+  "district": "portlouis",
+  "generated": "2025-12-30T19:07:15.803Z",
+  "outageCount": 99,
+  "firstOutage": "2022-03-21",
+  "lastOutage": "2025-12-14",
+  "outages": [
+    {
+      "date": "Le dimanche 14 décembre 2025 de  08:30:00 à  15:00:00",
+      "streets": "DANS LES ENVIRONS DES RUES WELLINGTON ET LABOURDONNAIS",
+      "from": "2025-12-14T04:30:00.000Z",
+      "to": "2025-12-14T11:00:00.000Z",
+      "id": "8c0b777cdcfcfe3fc00cc96971ba53fc"
+    },
+    {
+      "date": "Le vendredi 12 décembre 2025 de  06:00:00 à  11:00:00",
+      "streets": "LA CORDERIE ST, BOURBON ST & LA REINE ST",
+      "from": "2025-12-12T02:00:00.000Z",
+      "to": "2025-12-12T07:00:00.000Z",
+      "id": "25244d61a32bf7bea921157886c451db"
+    },
+    {
+      "date": "Le dimanche 7 décembre 2025 de  08:30:00 à  15:00:00",
+      "streets": "DANS LES ENVIRONS DES RUES WELLINGTON ET LABOURDONNAIS",
+      "from": "2025-12-07T04:30:00.000Z",
+      "to": "2025-12-07T11:00:00.000Z",
+      "id": "a127e6c927119e9bdb423d45f11a98e3"
+    },
+    {
+      "date": "Le mardi 2 décembre 2025 de  14:00:00 à  15:30:00",
+      "streets": "ABBE DE ROULLET, COTTON ST & SURROUNDINGS",
+      "from": "2025-12-02T10:00:00.000Z",
+      "to": "2025-12-02T11:30:00.000Z",
+      "id": "71971d3f01c0fba8d00bff73985686cc"
+    },
+    {
+      "date": "Le vendredi 28 novembre 2025 de  14:00:00 à  15:00:00",
+      "streets": "RUE DR BEAUGEARD, ST JAMES, RUE MADAGASCAR, RUE LA GAIETE ET LES ENVIRONS.",
+      "from": "2025-11-28T10:00:00.000Z",
+      "to": "2025-11-28T11:00:00.000Z",
+      "id": "2dc811a9939aa6696792927630f07a6a"
+    },
+    {
+      "date": "Le jeudi 6 novembre 2025 de  18:30:00 à  19:30:00",
+      "streets": "MGR LEEN, LAGAIETE, DICKENS,GRAVEL,J.CONRAD",
+      "from": "2025-11-06T14:30:00.000Z",
+      "to": "2025-11-06T15:30:00.000Z",
+      "id": "b7aec554e745052c6959aedf62e32826"
+    },
+    {
+      "date": "Le dimanche 26 octobre 2025 de  08:30:00 à  15:00:00",
+      "streets": "DANS LES ENVIRONS DES RUES LA GAIETE, GABRIEL MONTENOT, UNE PARTIE DE MARE BARTHELEMY, RAOUL RIVET ET BEAUGEARD",
+      "from": "2025-10-26T04:30:00.000Z",
+      "to": "2025-10-26T11:00:00.000Z",
+      "id": "a3e81524aaac7e7eae7231a065991f9f"
+    },
+    {
+      "date": "Le vendredi 24 octobre 2025 de  10:20:00 à  11:30:00",
+      "streets": "MGR.LEEN ST, DESROCHES ST AND SURROUNDINGS",
+      "from": "2025-10-24T06:20:00.000Z",
+      "to": "2025-10-24T07:30:00.000Z",
+      "id": "b99438fdb89bbc7a967f4c4a1b3db3de"
+    },
+    {
+      "date": "Le dimanche 28 septembre 2025 de  08:30:00 à  14:30:00",
+      "streets": "DANS LES ENVIRONS DES RUES BOULEVARD RIVALTZ, COOK ET UNE PARTIE DE WELLINGTON ET HARRIS",
+      "from": "2025-09-28T04:30:00.000Z",
+      "to": "2025-09-28T10:30:00.000Z",
+      "id": "5fc96f939de043e31f65980b50f232c9"
+    },
+    {
+      "date": "Le mardi 23 septembre 2025 de  13:00:00 à  14:30:00",
+      "streets": "R RIVET ST,HARRIS",
+      "from": "2025-09-23T09:00:00.000Z",
+      "to": "2025-09-23T10:30:00.000Z",
+      "id": "9403bf9a7fb0eb0a0babefeaa7fb9b0f"
+    },
+    {
+      "date": "Le dimanche 7 septembre 2025 de  08:30:00 à  15:30:00",
+      "streets": "DANS LES ENVIRONS DES RUES PAUL ET VIRGINIE, SIR EDGAR LAURENT, MADRAS, NYON, CALCUTTA, LENEPVEU ET DR HASSEN SAKIR",
+      "from": "2025-09-07T04:30:00.000Z",
+      "to": "2025-09-07T11:30:00.000Z",
+      "id": "e299524224d898d1e6223b8d736877b6"
+    },
+    {
+      "date": "Le lundi 18 août 2025 de  09:00:00 à  15:30:00",
+      "streets": "DANS LES ENVIRONS DES RUES MADRAS, SERANG, BENARES, BOMBAY, CALCUTTA, LEONCE LOISEAU ET UNE PARTIE DE REMY OLLIER",
+      "from": "2025-08-18T05:00:00.000Z",
+      "to": "2025-08-18T11:30:00.000Z",
+      "id": "d8f2b4cff4893c983a3f9383495d1529"
+    },
+    {
+      "date": "Le samedi 2 août 2025 de  08:30:00 à  14:30:00",
+      "streets": "DANS LES ENVIRONS DES RUES SAINT DENIS, DUCLOS, PANDIT GAYASING ET WASHERWOMAN",
+      "from": "2025-08-02T04:30:00.000Z",
+      "to": "2025-08-02T10:30:00.000Z",
+      "id": "0992249c77b55dac1fd04bf714f5ac6d"
+    },
+    {
+      "date": "Le samedi 26 juillet 2025 de  08:30:00 à  15:30:00",
+      "streets": "DANS LES ENVIRONS DES RUES BRABANT, JOHANNA, EDGAR AUBERT, ODETTE ERNEST, VICTOR KVERN, TANNER, AL MADINA ET UNE PARTIE DE LA RUE MGR LEEN",
+      "from": "2025-07-26T04:30:00.000Z",
+      "to": "2025-07-26T11:30:00.000Z",
+      "id": "40f63d5d13f63cb11bd7e592675b440f"
+    },
+    {
+      "date": "Le mercredi 16 juillet 2025 de  18:00:00 à  09:00:00",
+      "streets": "ROYAL STREET,L PASTEUR ST",
+      "from": "2025-07-16T14:00:00.000Z",
+      "to": "2025-07-16T05:00:00.000Z",
+      "id": "8b0317d5556a9a450c7e9194449cac06"
+    },
+    {
+      "date": "Le jeudi 3 juillet 2025 de  13:30:00 à  18:00:00",
+      "streets": "EMMANUEL ANQUETIL, EN PARTIE LA RUE DAVID ET LA RUE ROYAL, BATIMENT FORTUNE 8",
+      "from": "2025-07-03T09:30:00.000Z",
+      "to": "2025-07-03T14:00:00.000Z",
+      "id": "74e607cb6f50f272d36d02c579a6dba1"
+    },
+    {
+      "date": "Le vendredi 20 juin 2025 de  11:45:00 à  13:45:00",
+      "streets": "JUMMAH MOSQUE ST ET LES ALENTOURS",
+      "from": "2025-06-20T07:45:00.000Z",
+      "to": "2025-06-20T09:45:00.000Z",
+      "id": "992a940835c97d96d0647ccd4e39ca04"
+    },
+    {
+      "date": "Le vendredi 28 mars 2025 de  09:45:00 à  10:45:00",
+      "streets": "La Paix,Arsenal,Nyon,Inkerman",
+      "from": "2025-03-28T05:45:00.000Z",
+      "to": "2025-03-28T06:45:00.000Z",
+      "id": "61fd02543731d169a81b7c9e5e2331cc"
+    },
+    {
+      "date": "Le mercredi 26 mars 2025 de  09:25:00 à  10:25:00",
+      "streets": "JADE COURT DEFORGES STREET",
+      "from": "2025-03-26T05:25:00.000Z",
+      "to": "2025-03-26T06:25:00.000Z",
+      "id": "6d2d4353e1f7bfdb5fbebe621b2d1a41"
+    },
+    {
+      "date": "Le dimanche 23 mars 2025 de  08:30:00 à  18:00:00",
+      "streets": "LES ABONNES HABITANT PORT LOUIS WARD IV DANS LES ENVIRONS DES RUES RAOUL RIVET, DESROCHES, DARTOIS, BANCILHON, MAYER, ANTONIO, LABOURDONNAIS ENNISKILLEN, HARRIS, HENRI LE SIDANER, NAHABOO SOLIM ET DECOURCY",
+      "from": "2025-03-23T04:30:00.000Z",
+      "to": "2025-03-23T14:00:00.000Z",
+      "id": "fc93e70cb132fc19cceb22b6ed209de5"
+    },
+    {
+      "date": "Le lundi 10 mars 2025 de  15:15:00 à  16:15:00",
+      "streets": "DANS LES ALENTOURS DE CAUDAN",
+      "from": "2025-03-10T11:15:00.000Z",
+      "to": "2025-03-10T12:15:00.000Z",
+      "id": "1de0dbd0d8e58f3b89832db94d7cd8d0"
+    },
+    {
+      "date": "Le jeudi 6 mars 2025 de  10:15:00 à  15:00:00",
+      "streets": "Rues Corneille,Shakespere et les alentours de Champ de Mars",
+      "from": "2025-03-06T06:15:00.000Z",
+      "to": "2025-03-06T11:00:00.000Z",
+      "id": "6ff3a9d1087d3e5be4ceb734a458cc92"
+    },
+    {
+      "date": "Le vendredi 21 février 2025 de  09:30:00 à  10:30:00",
+      "streets": "FORT VICTORIA, CASSIS RD AND SURROUNDINGS",
+      "from": "2025-02-21T05:30:00.000Z",
+      "to": "2025-02-21T06:30:00.000Z",
+      "id": "2d914bd4b5b0c61ac87a3261549e995c"
+    },
+    {
+      "date": "Le lundi 17 février 2025 de  17:15:00 à  18:00:00",
+      "streets": "FORT VICTORIA, BAIN DES DAMES RD AND SURROUNDINGS",
+      "from": "2025-02-17T13:15:00.000Z",
+      "to": "2025-02-17T14:00:00.000Z",
+      "id": "6a333aa08bcfa6b440a95488095d64ec"
+    },
+    {
+      "date": "Le vendredi 31 janvier 2025 de  09:55:00 à  11:00:00",
+      "streets": "INKERMAN ST, CHINA ST DANS LES ALENTOURS DE CITADEL",
+      "from": "2025-01-31T05:55:00.000Z",
+      "to": "2025-01-31T07:00:00.000Z",
+      "id": "0fb4d5cc66a9ceb970bbfa0564573cc1"
+    },
+    {
+      "date": "Le dimanche 26 janvier 2025 de  08:30:00 à  15:30:00",
+      "streets": "DANS LES ENVIRONS DES RUES RAOUL RIVET, DESROCHES, HENRI LE SIDANER, NAHABOO SOLIM ET DECOURCY",
+      "from": "2025-01-26T04:30:00.000Z",
+      "to": "2025-01-26T11:30:00.000Z",
+      "id": "b5b7ddd8e8bdaa30635aea3e3194c32b"
+    },
+    {
+      "date": "Le vendredi 3 janvier 2025 de  10:48:00 à  11:30:00",
+      "streets": "EDITH CAVELL STREET DIRECTION SUN TRUST",
+      "from": "2025-01-03T06:48:00.000Z",
+      "to": "2025-01-03T07:30:00.000Z",
+      "id": "e1e9ed7aeb42646c2e57153cda842155"
+    },
+    {
+      "date": "Le mercredi 18 décembre 2024 de  09:00:00 à  14:00:00",
+      "streets": "RUE WELLINGTON PORT LOUIS",
+      "from": "2024-12-18T05:00:00.000Z",
+      "to": "2024-12-18T10:00:00.000Z",
+      "id": "225acae141ade26e183bcc0abeb9e12d"
+    },
+    {
+      "date": "Le samedi 14 décembre 2024 de  19:00:00 à  23:00:00",
+      "streets": "DANS LES ENVIRONS RUE D-ENTRECASTEAUX, TANK WEN ET MONSEIGNEUR LEEN.",
+      "from": "2024-12-14T15:00:00.000Z",
+      "to": "2024-12-14T19:00:00.000Z",
+      "id": "2169dc0701752ba071c67bb447984089"
+    },
+    {
+      "date": "Le mardi 10 décembre 2024 de  10:00:00 à  13:00:00",
+      "streets": "LA BUTTE, MOHAMED HOSSEN ST, TANK WEN, MGR. LEEN AND SURROUNDINGS",
+      "from": "2024-12-10T06:00:00.000Z",
+      "to": "2024-12-10T09:00:00.000Z",
+      "id": "fdac9d6796301450853485ceb3b2dc96"
+    },
+    {
+      "date": "Le vendredi 15 novembre 2024 de  17:00:00 à  18:00:00",
+      "streets": "LEOVILLE LHOMME, L.PASTEUR,J RIVIERE STEETS",
+      "from": "2024-11-15T13:00:00.000Z",
+      "to": "2024-11-15T14:00:00.000Z",
+      "id": "d557b58099fb9f66ed9de07a4763e215"
+    },
+    {
+      "date": "Le vendredi 25 octobre 2024 de  09:15:00 à  12:00:00",
+      "streets": "WARD 4, REINE DE LA PAIX AND SURROUNDINGS",
+      "from": "2024-10-25T05:15:00.000Z",
+      "to": "2024-10-25T08:00:00.000Z",
+      "id": "32b5f49bf1111e76e8ccc61dc781fb11"
+    },
+    {
+      "date": "Le mercredi 23 octobre 2024 de  09:40:00 à  10:30:00",
+      "streets": "ST DENIS ST,DUCLOS ST",
+      "from": "2024-10-23T05:40:00.000Z",
+      "to": "2024-10-23T06:30:00.000Z",
+      "id": "25bdbc40f5f53e29ad117d0c7038677e"
+    },
+    {
+      "date": "Le lundi 21 octobre 2024 de  09:45:00 à  10:30:00",
+      "streets": "KEENOO SQUARE-FAARQUHAR ST,J RIVIERE ST",
+      "from": "2024-10-21T05:45:00.000Z",
+      "to": "2024-10-21T06:30:00.000Z",
+      "id": "1fc6764d9c79e20b429781f7243e6a7c"
+    },
+    {
+      "date": "Le mardi 1 octobre 2024 de  09:55:00 à  12:00:00",
+      "streets": "RUE LA GAIETE, RUE BEAUGEARD, RAOUL RIVET",
+      "from": "2024-10-01T05:55:00.000Z",
+      "to": "2024-10-01T08:00:00.000Z",
+      "id": "3b7bb6ea94cf723c78a36c7588d60ec6"
+    },
+    {
+      "date": "Le lundi 30 septembre 2024 de  10:20:00 à  12:00:00",
+      "streets": "TEN KWEN, MGR LEEN",
+      "from": "2024-09-30T06:20:00.000Z",
+      "to": "2024-09-30T08:00:00.000Z",
+      "id": "719af565e84d9335afc8a7e465babf87"
+    },
+    {
+      "date": "Le dimanche 29 septembre 2024 de  13:00:00 à  15:00:00",
+      "streets": "RAOUL RIVET/DECOURCY",
+      "from": "2024-09-29T09:00:00.000Z",
+      "to": "2024-09-29T11:00:00.000Z",
+      "id": "33a2e593f555fa6742ccd5564ccca0f1"
+    },
+    {
+      "date": "Le dimanche 29 septembre 2024 de  09:00:00 à  13:00:00",
+      "streets": "RUE RAOUL RIVET-RUE DARTOIS-RUE TERNAY PORT LOUIS",
+      "from": "2024-09-29T05:00:00.000Z",
+      "to": "2024-09-29T09:00:00.000Z",
+      "id": "580c5a83cecec588e2cc406919d95b96"
+    },
+    {
+      "date": "Le dimanche 22 septembre 2024 de  14:10:00 à  14:45:00",
+      "streets": "DESROCHES,TERNAY,D ARTOIS,BEAUGEARD",
+      "from": "2024-09-22T10:10:00.000Z",
+      "to": "2024-09-22T10:45:00.000Z",
+      "id": "4089014adb592c87c9caf8dfd30bcf9d"
+    },
+    {
+      "date": "Le dimanche 22 septembre 2024 de  09:00:00 à  15:00:00",
+      "streets": "RAOUL RIVET, HARRIS ST ET LES ALENTOURS",
+      "from": "2024-09-22T05:00:00.000Z",
+      "to": "2024-09-22T11:00:00.000Z",
+      "id": "f9311171fab64a07c87d9ac66e5762bf"
+    },
+    {
+      "date": "Le vendredi 30 août 2024 de  09:00:00 à  13:00:00",
+      "streets": "RUE WILLINGTON PORT LOUIS",
+      "from": "2024-08-30T05:00:00.000Z",
+      "to": "2024-08-30T09:00:00.000Z",
+      "id": "e047d0d7b31b64c8a689122e268d70ad"
+    },
+    {
+      "date": "Le mercredi 21 août 2024 de  16:00:00 à  17:15:00",
+      "streets": "ROUTE NICOLAY NEAR FILLING, PART OF CITE BRIQUETTERIE AND AGRA.",
+      "from": "2024-08-21T12:00:00.000Z",
+      "to": "2024-08-21T13:15:00.000Z",
+      "id": "10baba914a0dade66f5d6cc80f254fe4"
+    },
+    {
+      "date": "Le mercredi 21 août 2024 de  15:00:00 à  16:00:00",
+      "streets": "ROUTE NICOLAY, PART OF CITE BRIQUETTERIE AND ROUTE DES PAMPLEMOUSSES.",
+      "from": "2024-08-21T11:00:00.000Z",
+      "to": "2024-08-21T12:00:00.000Z",
+      "id": "37eacbefd261473e374c9072bb2d10da"
+    },
+    {
+      "date": "Le mercredi 7 août 2024 de  09:00:00 à  14:30:00",
+      "streets": "dans les environs de route Auguste Rouget",
+      "from": "2024-08-07T05:00:00.000Z",
+      "to": "2024-08-07T10:30:00.000Z",
+      "id": "cc6448c10764188e6e5a39b3fb6366af"
+    },
+    {
+      "date": "Le mercredi 24 juillet 2024 de  12:45:00 à  14:30:00",
+      "streets": "RUE DAUPHINE ET VIRGIL NAZ",
+      "from": "2024-07-24T08:45:00.000Z",
+      "to": "2024-07-24T10:30:00.000Z",
+      "id": "38169dd06612de7e7d7717ca904e69a9"
+    },
+    {
+      "date": "Le mercredi 24 juillet 2024 de  09:25:00 à  10:30:00",
+      "streets": "EUGENE LAURENT ET LES ALENTOURS",
+      "from": "2024-07-24T05:25:00.000Z",
+      "to": "2024-07-24T06:30:00.000Z",
+      "id": "9ccedd1e2e0606efcad3daac01f1f30a"
+    },
+    {
+      "date": "Le dimanche 21 juillet 2024 de  09:15:00 à  13:00:00",
+      "streets": "FROM QUINC PARDESSY TO FILLING TOTAL",
+      "from": "2024-07-21T05:15:00.000Z",
+      "to": "2024-07-21T09:00:00.000Z",
+      "id": "14078fca3f19d16ccf004208f018d5fd"
+    },
+    {
+      "date": "Le samedi 13 juillet 2024 de  09:45:00 à  14:00:00",
+      "streets": "Rues Al Madina,Odette Ernest,Victor Kvern,Souillac",
+      "from": "2024-07-13T05:45:00.000Z",
+      "to": "2024-07-13T10:00:00.000Z",
+      "id": "8a974e5d27e2045292381ce1270ce250"
+    },
+    {
+      "date": "Le dimanche 16 juin 2024 de  09:30:00 à  11:30:00",
+      "streets": "MONSEIGNEUR LEEN",
+      "from": "2024-06-16T05:30:00.000Z",
+      "to": "2024-06-16T07:30:00.000Z",
+      "id": "e69fd6969d133eed3fc86c8f21727e38"
+    },
+    {
+      "date": "Le samedi 25 mai 2024 de  08:30:00 à  14:30:00",
+      "streets": "BRABANT STREET, HONDA, LONDON WAY ET LES ALENTOURS",
+      "from": "2024-05-25T04:30:00.000Z",
+      "to": "2024-05-25T10:30:00.000Z",
+      "id": "2f005a409bf55e5fd6208fd0e17ad134"
+    },
+    {
+      "date": "Le dimanche 5 mai 2024 de  08:30:00 à  16:30:00",
+      "streets": "DANS LES ENVIRONS DES RUES MAGON, MCB, MADRAS, CALCUTTA, GHOON, HASSEN HOSSEN,DR GOOMANY, PAUL ET VIRGINIE, LENEPVEU, SIR EDGAR LAURENT, ET CITY CLINIC",
+      "from": "2024-05-05T04:30:00.000Z",
+      "to": "2024-05-05T12:30:00.000Z",
+      "id": "f9a07b15d5ca04ff9e8eb95c333e3a52"
+    },
+    {
+      "date": "Le samedi 27 avril 2024 de  08:30:00 à  15:00:00",
+      "streets": "DANS LES ENVIRONS DES RUES CHAUSSEE, DR FERRIERE, AFRASIA, KFC, IBL, CERNE HOUSE ET DBM",
+      "from": "2024-04-27T04:30:00.000Z",
+      "to": "2024-04-27T11:00:00.000Z",
+      "id": "fb489738e6109c3016ca82f13e26f6f3"
+    },
+    {
+      "date": "Le jeudi 28 mars 2024 de  09:15:00 à  13:00:00",
+      "streets": "APPT CARDINAL & ALOUETTE HARBOUR VIEW",
+      "from": "2024-03-28T05:15:00.000Z",
+      "to": "2024-03-28T09:00:00.000Z",
+      "id": "8e5389e1fbc990255a3f20d29208d22f"
+    },
+    {
+      "date": "Le lundi 18 mars 2024 de  15:15:00 à  16:45:00",
+      "streets": "ROUTE MILITAIRE PORT LOUIS DANS LES ENVIRONS CROWN LAND.",
+      "from": "2024-03-18T11:15:00.000Z",
+      "to": "2024-03-18T12:45:00.000Z",
+      "id": "2d27ad9133fcf3a97c51e0c9993be26d"
+    },
+    {
+      "date": "Le dimanche 18 février 2024 de  08:30:00 à  15:30:00",
+      "streets": "DANS LES ENVIRONS DE CHISTY SHIFA CLINIC ET UNE PARTIE DE LA RUE POUDRIERE, LABOURDONNAIS ET SHAN E ISLAM",
+      "from": "2024-02-18T04:30:00.000Z",
+      "to": "2024-02-18T11:30:00.000Z",
+      "id": "5be9fa49b8dc0a7d35323785e1e87551"
+    },
+    {
+      "date": "Le samedi 17 février 2024 de  08:00:00 à  14:00:00",
+      "streets": "DANS LES ENVIRONS DES RUES VELORE, SERANG, MAHARATTA ET LITTLE BRIDGE",
+      "from": "2024-02-17T04:00:00.000Z",
+      "to": "2024-02-17T10:00:00.000Z",
+      "id": "3a33a2fbc99656ef5b950f6668ea87db"
+    },
+    {
+      "date": "Le samedi 3 février 2024 de  13:00:00 à  16:00:00",
+      "streets": "RUE CODERIE-RUE LA REINE PORT LOUIS",
+      "from": "2024-02-03T09:00:00.000Z",
+      "to": "2024-02-03T12:00:00.000Z",
+      "id": "88fb50940a677de989f8e360a79f1903"
+    },
+    {
+      "date": "Le mercredi 31 janvier 2024 de  11:00:00 à  12:00:00",
+      "streets": "EMMANUEL ANQUETIL, QUEEN ST, FARQUHAR ST, ET LE CENTRE DE PORT LOUIS",
+      "from": "2024-01-31T07:00:00.000Z",
+      "to": "2024-01-31T08:00:00.000Z",
+      "id": "c657798343028051c8c1fa5fb65e1556"
+    },
+    {
+      "date": "Le mercredi 10 janvier 2024 de  16:00:00 à  20:00:00",
+      "streets": "RUE DARTOIS,TERNEY,LABOURDONNAIS,DECOURSY,BANCHILLON.",
+      "from": "2024-01-10T12:00:00.000Z",
+      "to": "2024-01-10T16:00:00.000Z",
+      "id": "e4e3c81f39432b7386d2f8d4e3d4a50d"
+    },
+    {
+      "date": "Le vendredi 5 janvier 2024 de  09:00:00 à  11:30:00",
+      "streets": "LA RUE DES ROCHES, LA RUE BOZAR, WARD 4 NEAR JEETOO HOSPITAL",
+      "from": "2024-01-05T05:00:00.000Z",
+      "to": "2024-01-05T07:30:00.000Z",
+      "id": "541674d75d1ad9f1cde12187ecf38dda"
+    },
+    {
+      "date": "Le lundi 18 décembre 2023 de  16:05:00 à  16:45:00",
+      "streets": "CORDERIE ST JUSQUA BAZAR CENTRALE ET LES ALENTOURS",
+      "from": "2023-12-18T12:05:00.000Z",
+      "to": "2023-12-18T12:45:00.000Z",
+      "id": "8c90f9add014367a92d22ebac24f66e2"
+    },
+    {
+      "date": "Le samedi 2 décembre 2023 de  11:00:00 à  12:00:00",
+      "streets": "SIR VIRGILE NAZ",
+      "from": "2023-12-02T07:00:00.000Z",
+      "to": "2023-12-02T08:00:00.000Z",
+      "id": "234082acf439faff8235aa80ddc71ac8"
+    },
+    {
+      "date": "Le dimanche 26 novembre 2023 de  07:00:00 à  16:00:00",
+      "streets": "RUE ROYALE, RUE EMMANUEL ANQUETIL. (LV UG CABLE FAULTY).",
+      "from": "2023-11-26T03:00:00.000Z",
+      "to": "2023-11-26T12:00:00.000Z",
+      "id": "6633568c75955d4a3ba2df8d0b375cae"
+    },
+    {
+      "date": "Le samedi 25 novembre 2023 de  18:00:00 à  22:00:00",
+      "streets": "RUE ROYALE, RUE EMMANUEL ANQUETIL.",
+      "from": "2023-11-25T14:00:00.000Z",
+      "to": "2023-11-25T18:00:00.000Z",
+      "id": "7b37a7df8102b893cc2f52d96f105193"
+    },
+    {
+      "date": "Le jeudi 28 septembre 2023 de  09:30:00 à  13:00:00",
+      "streets": "MGR LEEN REINE DE LA PAIX-RUE ST JAMES",
+      "from": "2023-09-28T05:30:00.000Z",
+      "to": "2023-09-28T09:00:00.000Z",
+      "id": "91cf67df153dda720c31b599f60c0d89"
+    },
+    {
+      "date": "Le samedi 16 septembre 2023 de  08:30:00 à  15:30:00",
+      "streets": "DANS LES ENVIRONS DES RUES GOA, NICOLAY, PERIMBE,SERANG ET MADURA",
+      "from": "2023-09-16T04:30:00.000Z",
+      "to": "2023-09-16T11:30:00.000Z",
+      "id": "78cb6a66de8b63f1da7b87854f21de46"
+    },
+    {
+      "date": "Le mercredi 23 août 2023 de  09:00:00 à  13:00:00",
+      "streets": "RUE CANAL",
+      "from": "2023-08-23T05:00:00.000Z",
+      "to": "2023-08-23T09:00:00.000Z",
+      "id": "0aef11a7635530e7a8e830ee66f47a7a"
+    },
+    {
+      "date": "Le dimanche 30 juillet 2023 de  08:30:00 à  13:00:00",
+      "streets": "DANS LES ENVIRONS DES RUES VOLCY POUGNET, TERNAY ET DESROCHES",
+      "from": "2023-07-30T04:30:00.000Z",
+      "to": "2023-07-30T09:00:00.000Z",
+      "id": "d8398843c3a20d894f9490af91be24e1"
+    },
+    {
+      "date": "Le dimanche 23 juillet 2023 de  08:30:00 à  13:00:00",
+      "streets": "DANS LES ENVIRONS DES RUES VOLCY POUGNET, TERNAY, ET DESROCHES",
+      "from": "2023-07-23T04:30:00.000Z",
+      "to": "2023-07-23T09:00:00.000Z",
+      "id": "8d5c03d2f22d3e8470837fa0749a3f52"
+    },
+    {
+      "date": "Le samedi 15 juillet 2023 de  08:30:00 à  15:30:00",
+      "streets": "DANS LES ENVIRONS DES RUES ST DENIS, POUDRIERE, LABOURDONNAIS ET SHAN E ISLAM",
+      "from": "2023-07-15T04:30:00.000Z",
+      "to": "2023-07-15T11:30:00.000Z",
+      "id": "88494577b7b841a068e1f3725ecba9d8"
+    },
+    {
+      "date": "Le dimanche 9 juillet 2023 de  08:30:00 à  15:30:00",
+      "streets": "DANS LES ENVIRONS DES RUES LA PAIX, DIORE, DUGARREAU, INKERMAN, ET ARSENAL",
+      "from": "2023-07-09T04:30:00.000Z",
+      "to": "2023-07-09T11:30:00.000Z",
+      "id": "2d70ca92b644782040d4c81d63006ac7"
+    },
+    {
+      "date": "Le dimanche 18 juin 2023 de  08:30:00 à  13:00:00",
+      "streets": "DANS LES ENVIRONS DES RUES VOLCY POUGNET, TERNAY ET DESROCHES",
+      "from": "2023-06-18T04:30:00.000Z",
+      "to": "2023-06-18T09:00:00.000Z",
+      "id": "645a8b95b4a0c8f6c93058d1aa16ce37"
+    },
+    {
+      "date": "Le dimanche 4 juin 2023 de  08:30:00 à  13:30:00",
+      "streets": "DANS LES ENVIRONS DES RUES RAOUL RIVET, BEAUGEARD ET DESROCHES",
+      "from": "2023-06-04T04:30:00.000Z",
+      "to": "2023-06-04T09:30:00.000Z",
+      "id": "4268b4352303bfb7caf326997a442159"
+    },
+    {
+      "date": "Le mardi 16 mai 2023 de  16:00:00 à  17:00:00",
+      "streets": "WARD IV",
+      "from": "2023-05-16T12:00:00.000Z",
+      "to": "2023-05-16T13:00:00.000Z",
+      "id": "5d5a9167b1deba96012d9743824f4438"
+    },
+    {
+      "date": "Le samedi 4 mars 2023 de  08:30:00 à  14:00:00",
+      "streets": "DANS LES ENVIRONS DES RUES NICOLAY, MADURA,PATNA,GOA,VELORE,MUNICIPALITY, PALLIACA,YOLOFF,BORNEO,LITTLE BRIDGE, SUMATRA, CALICUT ET ALEPPO",
+      "from": "2023-03-04T04:30:00.000Z",
+      "to": "2023-03-04T10:00:00.000Z",
+      "id": "a199dcd05f477a88a5d58d7789984b38"
+    },
+    {
+      "date": "Le jeudi 2 février 2023 de  16:45:00 à  18:45:00",
+      "streets": "RUE DESCHARTES ET LES ENVIRONS.",
+      "from": "2023-02-02T12:45:00.000Z",
+      "to": "2023-02-02T14:45:00.000Z",
+      "id": "425e41ae7111ad297cd46585a0292f2d"
+    },
+    {
+      "date": "Le samedi 21 janvier 2023 de  11:00:00 à  12:00:00",
+      "streets": "WASHERWOMAN,GAYASING,ALLEE MANGUES",
+      "from": "2023-01-21T07:00:00.000Z",
+      "to": "2023-01-21T08:00:00.000Z",
+      "id": "0f2d369cccb09bfb652005a5fdc66cb2"
+    },
+    {
+      "date": "Le samedi 14 janvier 2023 de  11:00:00 à  14:30:00",
+      "streets": "RUE MADAME,RUE MERE BARTHELEMY",
+      "from": "2023-01-14T07:00:00.000Z",
+      "to": "2023-01-14T10:30:00.000Z",
+      "id": "cd6259c39dab47aee9f19c0bf664e0a1"
+    },
+    {
+      "date": "Le vendredi 13 janvier 2023 de  16:00:00 à  17:00:00",
+      "streets": "RTE NICOLAY PORT LOUIS",
+      "from": "2023-01-13T12:00:00.000Z",
+      "to": "2023-01-13T13:00:00.000Z",
+      "id": "03f7f32c127e125a5033318ede0ab7fc"
+    },
+    {
+      "date": "Le mercredi 11 janvier 2023 de  13:00:00 à  14:00:00",
+      "streets": "PAUL ET VIRGINIE ST,CITE NMARTIAL",
+      "from": "2023-01-11T09:00:00.000Z",
+      "to": "2023-01-11T10:00:00.000Z",
+      "id": "667e72bf23b9254b849766cc86919adb"
+    },
+    {
+      "date": "Le vendredi 23 décembre 2022 de  18:00:00 à  20:00:00",
+      "streets": "ROYAL ROAD AND ADJACENT STREETS INCLUDING CHINA TOWN,FORT VICTORIA",
+      "from": "2022-12-23T14:00:00.000Z",
+      "to": "2022-12-23T16:00:00.000Z",
+      "id": "c04c7b6accd00cb432f1cc818dc13391"
+    },
+    {
+      "date": "Le vendredi 23 décembre 2022 de  11:30:00 à  12:30:00",
+      "streets": "LES ENVIRONS DE BELL VILLAGE DEPUIS KOVIL VERS VENUS PORT LOUIS",
+      "from": "2022-12-23T07:30:00.000Z",
+      "to": "2022-12-23T08:30:00.000Z",
+      "id": "d69d27d17e92e95e15abebe1a68cb47c"
+    },
+    {
+      "date": "Le dimanche 4 décembre 2022 de  08:45:00 à  15:30:00",
+      "streets": "NICOLAY RD R BOIS/STE CROIX",
+      "from": "2022-12-04T04:45:00.000Z",
+      "to": "2022-12-04T11:30:00.000Z",
+      "id": "6d7ef37489a9a79683dfe6478e0df64f"
+    },
+    {
+      "date": "Le jeudi 24 novembre 2022 de  18:00:00 à  22:00:00",
+      "streets": "GORAH ISSAC ST AND SURROUNDING REGION",
+      "from": "2022-11-24T14:00:00.000Z",
+      "to": "2022-11-24T18:00:00.000Z",
+      "id": "a68fd5a0bf750a52df3bc4f71f2cce58"
+    },
+    {
+      "date": "Le dimanche 6 novembre 2022 de  08:30:00 à  14:00:00",
+      "streets": "LES ABONNES DE PORT LOUID HABITANT DANS LES ENVIRONS DES RUES MAGON, SIR EDGAR LAURENT, PAUL ET VIRGINIE, DIORE, LA PAIX, ARSENAL ET NYON",
+      "from": "2022-11-06T04:30:00.000Z",
+      "to": "2022-11-06T10:00:00.000Z",
+      "id": "fb2732a2a3f0f3a7c5797970fd784941"
+    },
+    {
+      "date": "Le lundi 10 octobre 2022 de  17:00:00 à  18:00:00",
+      "streets": "RUE SUFFREN-RUE LEGLISE-RUE LABOURDONNAIS-RUE POPENESSY PORT LOUIS",
+      "from": "2022-10-10T13:00:00.000Z",
+      "to": "2022-10-10T14:00:00.000Z",
+      "id": "0eadbd002d35ca15573e32576fc030b7"
+    },
+    {
+      "date": "Le dimanche 18 septembre 2022 de  08:30:00 à  16:00:00",
+      "streets": "DANS LES ENVIRONS DES RUES KWAN TEE, SERAPHINE, UP TOWER ET BAGGED SUGAR STORAGE",
+      "from": "2022-09-18T04:30:00.000Z",
+      "to": "2022-09-18T12:00:00.000Z",
+      "id": "ed8a38d20444afe4e2fb49fc6774600f"
+    },
+    {
+      "date": "Le jeudi 18 août 2022 de  14:30:00 à  15:30:00",
+      "streets": "HARRIS STREET,BANCILLON STREET.",
+      "from": "2022-08-18T10:30:00.000Z",
+      "to": "2022-08-18T11:30:00.000Z",
+      "id": "10a53e21f3e50be2ef155a574f2b83a4"
+    },
+    {
+      "date": "Le vendredi 24 juin 2022 de  10:00:00 à  16:00:00",
+      "streets": "Mere Barthelemy et Rue Dartois",
+      "from": "2022-06-24T06:00:00.000Z",
+      "to": "2022-06-24T12:00:00.000Z",
+      "id": "4b0c4858b6258ab332770f60a0612941"
+    },
+    {
+      "date": "Le dimanche 12 juin 2022 de  17:00:00 à  17:45:00",
+      "streets": "LES ABONNES HABITANT CAUDAN PORT LOUIS DANS LES ENVIRONS DE LA RUE KWAN TEE ET UP TOWER",
+      "from": "2022-06-12T13:00:00.000Z",
+      "to": "2022-06-12T13:45:00.000Z",
+      "id": "26c5e2db7448b3c8d41888e003f88d64"
+    },
+    {
+      "date": "Le dimanche 12 juin 2022 de  08:30:00 à  14:00:00",
+      "streets": "LES ABONNES HABITANT PORT LOUIS DANS LES ENVIRONS DES RUES PAUL ET VIRGINIE, SIR EDGAR LAURENT ET MAGON",
+      "from": "2022-06-12T04:30:00.000Z",
+      "to": "2022-06-12T10:00:00.000Z",
+      "id": "9f15df2ea49f83e7a61cc62163358870"
+    },
+    {
+      "date": "Le dimanche 12 juin 2022 de  08:00:00 à  08:45:00",
+      "streets": "LES ABONNES HABITANT CAUDAN PORT LOUIS DANS LES ENVIRONS DE LA RUE KWAN TEE ET UP TOWER",
+      "from": "2022-06-12T04:00:00.000Z",
+      "to": "2022-06-12T04:45:00.000Z",
+      "id": "d11a41462447860043dbfdad3020e583"
+    },
+    {
+      "date": "Le samedi 11 juin 2022 de  08:15:00 à  09:15:00",
+      "streets": "Labourdonnais St James Court",
+      "from": "2022-06-11T04:15:00.000Z",
+      "to": "2022-06-11T05:15:00.000Z",
+      "id": "5fd42f5bd9d988796859194cefb080f9"
+    },
+    {
+      "date": "Le dimanche 5 juin 2022 de  08:30:00 à  15:30:00",
+      "streets": "LES ABONNES HABITANT PORT LOUIS DANS LES ENVIRONS DES RUES MAHARATTA, CALCUTTA, BENARES,BOMBAY,SERANG ET MAGON",
+      "from": "2022-06-05T04:30:00.000Z",
+      "to": "2022-06-05T11:30:00.000Z",
+      "id": "c7c728a84b5702aa21c4a5929888eda4"
+    },
+    {
+      "date": "Le samedi 4 juin 2022 de  09:30:00 à  11:00:00",
+      "streets": "LES ABONNES HABITANT PORT LOUIS DANS LES ENVIRONS DES RUES MAHARATTA, CALCUTTA, BENARES,BOMBAY,SERANG ET MAGON",
+      "from": "2022-06-04T05:30:00.000Z",
+      "to": "2022-06-04T07:00:00.000Z",
+      "id": "910105a75bc515f6a87c85d4ad3c912a"
+    },
+    {
+      "date": "Le dimanche 15 mai 2022 de  08:30:00 à  16:00:00",
+      "streets": "LES ABONNES DE PORT LOUIS HABITANT DANS LES ENVIRONS DES RUES MGR LEEN, DENTRECASTEAUX, A F TANK WEN, FIELD, ARMAND ESNOUF ET BELVEDERE",
+      "from": "2022-05-15T04:30:00.000Z",
+      "to": "2022-05-15T12:00:00.000Z",
+      "id": "45a227e28e0853db440a88b0f6b8c06c"
+    },
+    {
+      "date": "Le dimanche 24 avril 2022 de  08:30:00 à  15:30:00",
+      "streets": "DANS LES ENVIRONS DES RUES MGR LEEN, DENTRECASTEAUX,A F TANK WEN, FIELD, ARMAND ESNOUF ET BELVEDERE",
+      "from": "2022-04-24T04:30:00.000Z",
+      "to": "2022-04-24T11:30:00.000Z",
+      "id": "d6b7b4ba1b77eb2bb42008e4979a9713"
+    },
+    {
+      "date": "Le dimanche 10 avril 2022 de  08:30:00 à  15:30:00",
+      "streets": "LES ABONNES HABITANT PORT LOUIS DANS LES ENVIRONS DE MGR LEEN, DENTRECASTEAUX, A F TANK WEN, FIELD, ARMAND ESNOUF ET BELVEDERE",
+      "from": "2022-04-10T04:30:00.000Z",
+      "to": "2022-04-10T11:30:00.000Z",
+      "id": "f269067c141674b0784f8e8cc7ed3dda"
+    },
+    {
+      "date": "Le lundi 21 mars 2022 de  00:00:00 à  00:00:00",
+      "streets": "CHINA",
+      "from": "2022-03-20T20:00:00.000Z",
+      "to": "2022-03-19T20:00:00.000Z",
+      "id": "0e8ed3387d19048d1887e976d2f1bb75"
+    }
+  ]
+}

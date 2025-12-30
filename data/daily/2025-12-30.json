@@ -1,0 +1,148 @@
+{
+  "date": "2025-12-30",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.530Z",
+  "outageCount": 14,
+  "outages": [
+    {
+      "date": "Le mardi 30 décembre 2025 de  05:50:00 à  13:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "Morc Beerjeeraz,Morc Raffray,Petite Montagne",
+      "district": "blackriver",
+      "from": "2025-12-30T01:50:00.000Z",
+      "to": "2025-12-30T09:00:00.000Z",
+      "id": "f535eca446c454756b8c507bd593794a"
+    },
+    {
+      "date": "Le mardi 30 décembre 2025 de  10:00:00 à  12:00:00",
+      "locality": "GRAND BEL AIR",
+      "localitySlug": "grand-bel-air",
+      "streets": "NHDC, ROYAL ROAD AND PART OF MORC RUISSEAU DELICE",
+      "district": "flacq",
+      "from": "2025-12-30T06:00:00.000Z",
+      "to": "2025-12-30T08:00:00.000Z",
+      "id": "2f3a9076cf9b7fdf7fd2c509c6205800"
+    },
+    {
+      "date": "Le mardi 30 décembre 2025 de  20:20:00 à  22:20:00",
+      "locality": "UNION PARK",
+      "localitySlug": "union-park",
+      "streets": "CHEMIN PUITS",
+      "district": "grandport",
+      "from": "2025-12-30T16:20:00.000Z",
+      "to": "2025-12-30T18:20:00.000Z",
+      "id": "2a4d8f05526e07bff43c7ff1c2b4c923"
+    },
+    {
+      "date": "Le mardi 30 décembre 2025 de  18:45:00 à  20:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVE STANLEY",
+      "district": "plainewilhems",
+      "from": "2025-12-30T14:45:00.000Z",
+      "to": "2025-12-30T16:30:00.000Z",
+      "id": "36bd3f924c3865c905e8bc58d182088c"
+    },
+    {
+      "date": "Le mardi 30 décembre 2025 de  21:15:00 à  22:15:00",
+      "locality": "CITE ATLEE",
+      "localitySlug": "cite-atlee",
+      "streets": "CITE ATLEE",
+      "district": "plainewilhems",
+      "from": "2025-12-30T17:15:00.000Z",
+      "to": "2025-12-30T18:15:00.000Z",
+      "id": "6ab37e77cde9400735b603685b307dc0"
+    },
+    {
+      "date": "Le mardi 30 décembre 2025 de  09:30:00 à  11:30:00",
+      "locality": "ROCHES NOIRES",
+      "localitySlug": "roches-noires",
+      "streets": "Royal,John Milton,School Roads",
+      "district": "rivieredurempart",
+      "from": "2025-12-30T05:30:00.000Z",
+      "to": "2025-12-30T07:30:00.000Z",
+      "id": "5209df1ce8f57f279b9cb901603360e2"
+    },
+    {
+      "date": "Le mardi 30 décembre 2025 de  00:30:00 à  10:00:00",
+      "locality": "AMAURY",
+      "localitySlug": "amaury",
+      "streets": "Temple Road",
+      "district": "rivieredurempart",
+      "from": "2025-12-29T20:30:00.000Z",
+      "to": "2025-12-29T06:00:00.000Z",
+      "id": "8c689cc6e9be8b0d9e3034c59dd259b2"
+    },
+    {
+      "date": "Le mardi 30 décembre 2025 de  14:00:00 à  15:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "MORC BOUCAN",
+      "district": "rivieredurempart",
+      "from": "2025-12-30T10:00:00.000Z",
+      "to": "2025-12-30T11:00:00.000Z",
+      "id": "cc8e72c150872705b85cd92bdcc0acab"
+    },
+    {
+      "date": "Le mardi 30 décembre 2025 de  04:00:00 à  10:00:00",
+      "locality": "TYACK",
+      "localitySlug": "tyack",
+      "streets": "Morc Blueprint/VRS",
+      "district": "savanne",
+      "from": "2025-12-30T00:00:00.000Z",
+      "to": "2025-12-30T06:00:00.000Z",
+      "id": "4386e2acf17838ed022035cd6c190d13"
+    },
+    {
+      "date": "Le mardi 30 décembre 2025 de  10:00:00 à  14:00:00",
+      "locality": "TYACK",
+      "localitySlug": "tyack",
+      "streets": "Morc Blueprint/VRS",
+      "district": "savanne",
+      "from": "2025-12-30T06:00:00.000Z",
+      "to": "2025-12-30T10:00:00.000Z",
+      "id": "2d32d66a640c3ecc467abdf6d2369d76"
+    },
+    {
+      "date": "Le mardi 30 décembre 2025 de  12:30:00 à  17:00:00",
+      "locality": "L-ESCALIER",
+      "localitySlug": "l-escalier",
+      "streets": "MORC LA SOURDINE",
+      "district": "savanne",
+      "from": "2025-12-30T08:30:00.000Z",
+      "to": "2025-12-30T13:00:00.000Z",
+      "id": "bb07b0344afc7fb021a05f1d74a1224c"
+    },
+    {
+      "date": "Le mardi 30 décembre 2025 de  14:25:00 à  15:15:00",
+      "locality": "SAINT FELIX",
+      "localitySlug": "saint-felix",
+      "streets": "BEL AIR ST FELIX",
+      "district": "savanne",
+      "from": "2025-12-30T10:25:00.000Z",
+      "to": "2025-12-30T11:15:00.000Z",
+      "id": "628f7b4a5a8cb7b5b824dbef3ac514b9"
+    },
+    {
+      "date": "Le mardi 30 décembre 2025 de  15:50:00 à  17:50:00",
+      "locality": "CAMP DIABLE",
+      "localitySlug": "camp-diable",
+      "streets": "ENL",
+      "district": "savanne",
+      "from": "2025-12-30T11:50:00.000Z",
+      "to": "2025-12-30T13:50:00.000Z",
+      "id": "48314052d12bad710ac225037e27a0fe"
+    },
+    {
+      "date": "Le mardi 30 décembre 2025 de  18:00:00 à  19:00:00",
+      "locality": "CHEMIN GRENIER",
+      "localitySlug": "chemin-grenier",
+      "streets": "CHEMIN GRENIER",
+      "district": "savanne",
+      "from": "2025-12-30T14:00:00.000Z",
+      "to": "2025-12-30T15:00:00.000Z",
+      "id": "bd4933e60ea7eddca5263d3167f08fa7"
+    }
+  ]
+}

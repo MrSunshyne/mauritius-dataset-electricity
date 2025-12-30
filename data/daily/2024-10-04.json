@@ -1,0 +1,68 @@
+{
+  "date": "2024-10-04",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.513Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le vendredi 4 octobre 2024 de  11:00:00 à  16:00:00",
+      "locality": "LE BOUCHON",
+      "localitySlug": "le-bouchon",
+      "streets": "LA CHAPELLE STREET LE BOUCHON AND NEAR BY ROAD",
+      "district": "grandport",
+      "from": "2024-10-04T07:00:00.000Z",
+      "to": "2024-10-04T12:00:00.000Z",
+      "id": "2262e5017f111094895e8b4b863000b5"
+    },
+    {
+      "date": "Le vendredi 4 octobre 2024 de  13:00:00 à  14:30:00",
+      "locality": "HELVETIA",
+      "localitySlug": "helvetia",
+      "streets": "MORC MERRY TOWN HELVETIA",
+      "district": "moka",
+      "from": "2024-10-04T09:00:00.000Z",
+      "to": "2024-10-04T10:30:00.000Z",
+      "id": "055126c98f2092ff8fee90ceeb08130e"
+    },
+    {
+      "date": "Le vendredi 4 octobre 2024 de  14:30:00 à  16:30:00",
+      "locality": "KHOYRATTY",
+      "localitySlug": "khoyratty",
+      "streets": "OLD FLACQ ROAD.",
+      "district": "pamplemousses",
+      "from": "2024-10-04T10:30:00.000Z",
+      "to": "2024-10-04T12:30:00.000Z",
+      "id": "3748383cca97b9b78e4a37bb276f1fb4"
+    },
+    {
+      "date": "Le vendredi 4 octobre 2024 de  09:00:00 à  10:30:00",
+      "locality": "CAMP FOUQUEREAUX",
+      "localitySlug": "camp-fouquereaux",
+      "streets": "ROYAL ROAD,PERCEE LANE,GALEA CAMP FOUQUERAUX",
+      "district": "plainewilhems",
+      "from": "2024-10-04T05:00:00.000Z",
+      "to": "2024-10-04T06:30:00.000Z",
+      "id": "f5b22f402bca18ed302669dd08edec1d"
+    },
+    {
+      "date": "Le vendredi 4 octobre 2024 de  18:00:00 à  20:00:00",
+      "locality": "GLEN PARK",
+      "localitySlug": "glen-park",
+      "streets": "MORC EDOO,REMPART LANE",
+      "district": "plainewilhems",
+      "from": "2024-10-04T14:00:00.000Z",
+      "to": "2024-10-04T16:00:00.000Z",
+      "id": "fac9a4d86d12cc255f6d681f80443219"
+    },
+    {
+      "date": "Le vendredi 4 octobre 2024 de  09:00:00 à  15:00:00",
+      "locality": "SURINAM",
+      "localitySlug": "surinam",
+      "streets": "Martiniere et Sept Croisees Surinam",
+      "district": "savanne",
+      "from": "2024-10-04T05:00:00.000Z",
+      "to": "2024-10-04T11:00:00.000Z",
+      "id": "6c5aabc305c468ed9a5c2d44e4eaa4b4"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "2025-09-09",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.525Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le mardi 9 septembre 2025 de  09:00:00 à  16:00:00",
+      "locality": "MARE TABAC",
+      "localitySlug": "mare-tabac",
+      "streets": "Mare Tabac & Joli Bois",
+      "district": "grandport",
+      "from": "2025-09-09T05:00:00.000Z",
+      "to": "2025-09-09T12:00:00.000Z",
+      "id": "53789a01b361e99cb1f12e2b7d6b22c6"
+    },
+    {
+      "date": "Le mardi 9 septembre 2025 de  10:20:00 à  12:30:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "Chapman View",
+      "district": "plainewilhems",
+      "from": "2025-09-09T06:20:00.000Z",
+      "to": "2025-09-09T08:30:00.000Z",
+      "id": "1ca0917332fe796f166140c3a98b736a"
+    },
+    {
+      "date": "Le mardi 9 septembre 2025 de  16:00:00 à  18:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave Seeneevassen, Ave Poussepasse, NHDC Palma, Gopal Lane, Ave La Ferme et les environs",
+      "district": "plainewilhems",
+      "from": "2025-09-09T12:00:00.000Z",
+      "to": "2025-09-09T14:00:00.000Z",
+      "id": "0354132a69a28954610ca49100e3a4b1"
+    },
+    {
+      "date": "Le mardi 9 septembre 2025 de  15:40:00 à  18:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "MORC GOOLAMALLY, CHEMIN PAUL ET VIRGINIE ET LES ENVIRONS.",
+      "district": "portlouis",
+      "from": "2025-09-09T11:40:00.000Z",
+      "to": "2025-09-09T14:00:00.000Z",
+      "id": "fac00363e7b8d2e715127dade59f1639"
+    },
+    {
+      "date": "Le mardi 9 septembre 2025 de  21:30:00 à  01:30:00",
+      "locality": "SAINT FRANCOIS",
+      "localitySlug": "saint-francois",
+      "streets": "EXOTICA ST FRANCOIS",
+      "district": "portlouis",
+      "from": "2025-09-09T17:30:00.000Z",
+      "to": "2025-09-08T21:30:00.000Z",
+      "id": "302a0c1333ddc54c46edf01073194a92"
+    },
+    {
+      "date": "Le mardi 9 septembre 2025 de  09:00:00 à  10:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "Royal Road",
+      "district": "rivieredurempart",
+      "from": "2025-09-09T05:00:00.000Z",
+      "to": "2025-09-09T06:00:00.000Z",
+      "id": "1843d0eb057f95704bf32468488ad768"
+    },
+    {
+      "date": "Le mardi 9 septembre 2025 de  16:00:00 à  17:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "EN PARTIE GOODLANDS, POUDRE D-OR HAMLET, POUDRE D-OR VILLAGE ET ESPERANCE TREBUCHET.",
+      "district": "rivieredurempart",
+      "from": "2025-09-09T12:00:00.000Z",
+      "to": "2025-09-09T13:00:00.000Z",
+      "id": "a6adaa70f9298646ab3584839d0f9a05"
+    }
+  ]
+}

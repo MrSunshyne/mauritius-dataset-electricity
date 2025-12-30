@@ -1,0 +1,68 @@
+{
+  "date": "2025-09-24",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.526Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le mercredi 24 septembre 2025 de  08:45:00 à  17:00:00",
+      "locality": "RICHEMARE",
+      "localitySlug": "richemare",
+      "streets": "RICHE MARE et ARGY dans le périmètre de CEMETRY Rd, La Boutique Coco, et Morc Le Vieux Moulin",
+      "district": "flacq",
+      "from": "2025-09-24T04:45:00.000Z",
+      "to": "2025-09-24T13:00:00.000Z",
+      "id": "de6864c7975c238b8ae675ea0c569dbb"
+    },
+    {
+      "date": "Le mercredi 24 septembre 2025 de  09:00:00 à  16:00:00",
+      "locality": "MARE D-ALBERT",
+      "localitySlug": "mare-d-albert",
+      "streets": "MORC RAULT- NEAR PISCINE",
+      "district": "grandport",
+      "from": "2025-09-24T05:00:00.000Z",
+      "to": "2025-09-24T12:00:00.000Z",
+      "id": "2e6e719ce2f546e5b80c700f188de960"
+    },
+    {
+      "date": "Le mercredi 24 septembre 2025 de  08:30:00 à  13:00:00",
+      "locality": "ANSE JONCHEE",
+      "localitySlug": "anse-jonchee",
+      "streets": "ANSE JONCHE",
+      "district": "grandport",
+      "from": "2025-09-24T04:30:00.000Z",
+      "to": "2025-09-24T09:00:00.000Z",
+      "id": "be7d9cb7b19d414c38ef6806a5471cd0"
+    },
+    {
+      "date": "Le mercredi 24 septembre 2025 de  00:00:00 à  15:00:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "ARYA MANDIR RD ET DANS LES ALENTOURS DE CIMETIERE",
+      "district": "rivieredurempart",
+      "from": "2025-09-23T20:00:00.000Z",
+      "to": "2025-09-23T11:00:00.000Z",
+      "id": "0b675b29a12712a6a75dd5b3481741ee"
+    },
+    {
+      "date": "Le mercredi 24 septembre 2025 de  09:00:00 à  15:00:00",
+      "locality": "TYACK",
+      "localitySlug": "tyack",
+      "streets": "Le village de Tyack",
+      "district": "savanne",
+      "from": "2025-09-24T05:00:00.000Z",
+      "to": "2025-09-24T11:00:00.000Z",
+      "id": "612834bcddf862ff2f05eba2278174e3"
+    },
+    {
+      "date": "Le mercredi 24 septembre 2025 de  09:00:00 à  15:00:00",
+      "locality": "SAINT AUBIN",
+      "localitySlug": "saint-aubin",
+      "streets": "Le village de Ducomer Union St. Aubin et Morcellement Souillac Beluga",
+      "district": "savanne",
+      "from": "2025-09-24T05:00:00.000Z",
+      "to": "2025-09-24T11:00:00.000Z",
+      "id": "39048d3c9f13499a43810ead2040136a"
+    }
+  ]
+}

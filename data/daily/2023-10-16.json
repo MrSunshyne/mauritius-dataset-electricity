@@ -1,0 +1,58 @@
+{
+  "date": "2023-10-16",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.500Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le lundi 16 octobre 2023 de  12:00:00 à  15:00:00",
+      "locality": "L-ASSURANCE",
+      "localitySlug": "l-assurance",
+      "streets": "Les abonnés du village de L’Assurance, Dagotiere",
+      "district": "moka",
+      "from": "2023-10-16T08:00:00.000Z",
+      "to": "2023-10-16T11:00:00.000Z",
+      "id": "d9d57a39d14d247133e75b8c28ef2de6"
+    },
+    {
+      "date": "Le lundi 16 octobre 2023 de  11:30:00 à  16:00:00",
+      "locality": "CAMP DES EMBREVADES",
+      "localitySlug": "camp-des-embrevades",
+      "streets": "CAMP DES EMBREVADES ET CANTON NANCY",
+      "district": "pamplemousses",
+      "from": "2023-10-16T07:30:00.000Z",
+      "to": "2023-10-16T12:00:00.000Z",
+      "id": "1ddf140865019e67cac01cc3ac1ec358"
+    },
+    {
+      "date": "Le lundi 16 octobre 2023 de  16:45:00 à  18:00:00",
+      "locality": "CAMP FOUQUEREAUX",
+      "localitySlug": "camp-fouquereaux",
+      "streets": "RESERVOIRE ROAD ET LES RUES SUIVAANTES.",
+      "district": "plainewilhems",
+      "from": "2023-10-16T12:45:00.000Z",
+      "to": "2023-10-16T14:00:00.000Z",
+      "id": "086220bf4aac305a5950b4779f06a118"
+    },
+    {
+      "date": "Le lundi 16 octobre 2023 de  09:30:00 à  13:00:00",
+      "locality": "AMAURY",
+      "localitySlug": "amaury",
+      "streets": "dans les environs de Magasin Trustworthy",
+      "district": "rivieredurempart",
+      "from": "2023-10-16T05:30:00.000Z",
+      "to": "2023-10-16T09:00:00.000Z",
+      "id": "acdc776421c3bda825d2f427858836e3"
+    },
+    {
+      "date": "Le lundi 16 octobre 2023 de  13:15:00 à  15:30:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "BOIS ROUGE GOODLANDS DANS LES ENVIRONS DE LECOLE BOIS ROUGE ET ASTORIA ROAD",
+      "district": "rivieredurempart",
+      "from": "2023-10-16T09:15:00.000Z",
+      "to": "2023-10-16T11:30:00.000Z",
+      "id": "1e175543be73021c726f149f4c67cf00"
+    }
+  ]
+}

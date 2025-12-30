@@ -1,0 +1,48 @@
+{
+  "date": "2024-02-10",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.504Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le samedi 10 février 2024 de  10:30:00 à  11:30:00",
+      "locality": "COTE D-OR",
+      "localitySlug": "cote-d-or",
+      "streets": "VILLAGE COTE DOR",
+      "district": "moka",
+      "from": "2024-02-10T06:30:00.000Z",
+      "to": "2024-02-10T07:30:00.000Z",
+      "id": "0e14318400332c26d1f9ea9ccbcf0eb4"
+    },
+    {
+      "date": "Le samedi 10 février 2024 de  08:30:00 à  14:30:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "Pointe aux Biches, Morc. Ramdanee, Pointe aux Piments, Residence Mon Iles et dans les environs de Senior Citizen a Trou aux Biches",
+      "district": "pamplemousses",
+      "from": "2024-02-10T04:30:00.000Z",
+      "to": "2024-02-10T10:30:00.000Z",
+      "id": "471f745016e763f9bb501c1975e7d020"
+    },
+    {
+      "date": "Le samedi 10 février 2024 de  08:30:00 à  16:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "La Seringue Ave, en partie Route Palma, Pierrefonds et Palma SSS",
+      "district": "plainewilhems",
+      "from": "2024-02-10T04:30:00.000Z",
+      "to": "2024-02-10T12:00:00.000Z",
+      "id": "827d3deec1f45efe015a348ac08ff9e7"
+    },
+    {
+      "date": "Le samedi 10 février 2024 de  08:30:00 à  15:30:00",
+      "locality": "SAINT MARTIN R-HILL",
+      "localitySlug": "saint-martin-r-hill",
+      "streets": "Les Jardin St Martin, Kovil Chaumiere, BEM, Master Breeder et Soreefarm",
+      "district": "plainewilhems",
+      "from": "2024-02-10T04:30:00.000Z",
+      "to": "2024-02-10T11:30:00.000Z",
+      "id": "5f7b6060e38fe438179e5eae58fc12fe"
+    }
+  ]
+}

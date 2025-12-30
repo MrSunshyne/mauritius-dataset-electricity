@@ -1,0 +1,58 @@
+{
+  "date": "2025-08-18",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.524Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le lundi 18 août 2025 de  11:00:00 à  15:00:00",
+      "locality": "TROIS BOUTIQUES UNION VALE",
+      "localitySlug": "trois-boutiques-union-vale",
+      "streets": "TROIS BOUTIQUE UNION VALE",
+      "district": "grandport",
+      "from": "2025-08-18T07:00:00.000Z",
+      "to": "2025-08-18T11:00:00.000Z",
+      "id": "31f4dfe1b4ba7693ea0ca31924cfb2ae"
+    },
+    {
+      "date": "Le lundi 18 août 2025 de  10:00:00 à  14:00:00",
+      "locality": "MARE D-ALBERT",
+      "localitySlug": "mare-d-albert",
+      "streets": "MARE DALBER",
+      "district": "grandport",
+      "from": "2025-08-18T06:00:00.000Z",
+      "to": "2025-08-18T10:00:00.000Z",
+      "id": "13dd0ac2f5df705208d76f505e8f0c14"
+    },
+    {
+      "date": "Le lundi 18 août 2025 de  13:00:00 à  20:30:00",
+      "locality": "PETIT CAMP",
+      "localitySlug": "petit-camp",
+      "streets": "PETIT CAMP",
+      "district": "plainewilhems",
+      "from": "2025-08-18T09:00:00.000Z",
+      "to": "2025-08-18T16:30:00.000Z",
+      "id": "312ce343f7644ffe62c0e3c64aa34aad"
+    },
+    {
+      "date": "Le lundi 18 août 2025 de  09:00:00 à  15:30:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "DANS LES ENVIRONS DES RUES MADRAS, SERANG, BENARES, BOMBAY, CALCUTTA, LEONCE LOISEAU ET UNE PARTIE DE REMY OLLIER",
+      "district": "portlouis",
+      "from": "2025-08-18T05:00:00.000Z",
+      "to": "2025-08-18T11:30:00.000Z",
+      "id": "d8f2b4cff4893c983a3f9383495d1529"
+    },
+    {
+      "date": "Le lundi 18 août 2025 de  10:00:00 à  11:00:00",
+      "locality": "LOWER VALE",
+      "localitySlug": "lower-vale",
+      "streets": "SOHAWON RD-ROYAL RD LOWER VALE",
+      "district": "rivieredurempart",
+      "from": "2025-08-18T06:00:00.000Z",
+      "to": "2025-08-18T07:00:00.000Z",
+      "id": "2dbe8b7f2eeffbaa207e0afae6ab1d81"
+    }
+  ]
+}

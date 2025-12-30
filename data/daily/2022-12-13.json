@@ -1,0 +1,78 @@
+{
+  "date": "2022-12-13",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.489Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le mardi 13 décembre 2022 de  09:00:00 à  12:00:00",
+      "locality": "NOUVELLE DECOUVERTE",
+      "localitySlug": "nouvelle-decouverte",
+      "streets": "ROYAL RD NOUVELLE DECOUVERTE",
+      "district": "moka",
+      "from": "2022-12-13T05:00:00.000Z",
+      "to": "2022-12-13T08:00:00.000Z",
+      "id": "388901feeb3036c130d3326635539ea3"
+    },
+    {
+      "date": "Le mardi 13 décembre 2022 de  04:00:00 à  13:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "SCHOOL RD LE HOCHET TERRE ROUGR",
+      "district": "pamplemousses",
+      "from": "2022-12-13T00:00:00.000Z",
+      "to": "2022-12-13T09:00:00.000Z",
+      "id": "79c92017dd014cb6b43d5950dd6867c4"
+    },
+    {
+      "date": "Le mardi 13 décembre 2022 de  10:00:00 à  13:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "BASSIN ROAD",
+      "district": "plainewilhems",
+      "from": "2022-12-13T06:00:00.000Z",
+      "to": "2022-12-13T09:00:00.000Z",
+      "id": "176408dc90c36dc3b01cf70a1b4a94ab"
+    },
+    {
+      "date": "Le mardi 13 décembre 2022 de  10:00:00 à  14:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "MARE GRAVIER ,IMPASS GOPAL,DOOKUN,DR MOLLIER,EDGAR ADOLPHE",
+      "district": "plainewilhems",
+      "from": "2022-12-13T06:00:00.000Z",
+      "to": "2022-12-13T10:00:00.000Z",
+      "id": "1204b78ec8a0034e363ccf53a234e246"
+    },
+    {
+      "date": "Le mardi 13 décembre 2022 de  12:30:00 à  14:00:00",
+      "locality": "SAINT PAUL",
+      "localitySlug": "saint-paul",
+      "streets": "AVENUE OSMAN ST PAUL",
+      "district": "plainewilhems",
+      "from": "2022-12-13T08:30:00.000Z",
+      "to": "2022-12-13T10:00:00.000Z",
+      "id": "5a6a90a0b90ade94f4b2b40a2af8119a"
+    },
+    {
+      "date": "Le mardi 13 décembre 2022 de  12:30:00 à  14:30:00",
+      "locality": "CANDOS Q BORNES",
+      "localitySlug": "candos-q-bornes",
+      "streets": "CANDOS",
+      "district": "plainewilhems",
+      "from": "2022-12-13T08:30:00.000Z",
+      "to": "2022-12-13T10:30:00.000Z",
+      "id": "00ea75a29b8e449ab5bec4b87b884aaa"
+    },
+    {
+      "date": "Le mardi 13 décembre 2022 de  09:00:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LA FERME,PISTACHE",
+      "district": "rodrigues",
+      "from": "2022-12-13T05:00:00.000Z",
+      "to": "2022-12-13T11:00:00.000Z",
+      "id": "f34858da961847545be768c82778b1e1"
+    }
+  ]
+}

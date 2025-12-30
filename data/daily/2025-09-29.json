@@ -1,0 +1,38 @@
+{
+  "date": "2025-09-29",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.526Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le lundi 29 septembre 2025 de  13:40:00 à  14:40:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "AVENUE ST GERAN ET AVENUE ALBATROS.",
+      "district": "blackriver",
+      "from": "2025-09-29T09:40:00.000Z",
+      "to": "2025-09-29T10:40:00.000Z",
+      "id": "258b230f3f6482c4acb09a284f65f03e"
+    },
+    {
+      "date": "Le lundi 29 septembre 2025 de  14:00:00 à  17:00:00",
+      "locality": "VILLENOIRE",
+      "localitySlug": "villenoire",
+      "streets": "CITE AND SURROUNDING",
+      "district": "grandport",
+      "from": "2025-09-29T10:00:00.000Z",
+      "to": "2025-09-29T13:00:00.000Z",
+      "id": "9a5535c4ae7c3756b31f7c98e4c37aa7"
+    },
+    {
+      "date": "Le lundi 29 septembre 2025 de  15:00:00 à  17:30:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "DANS LES ENVIRONS DE MORC COPRIM, MORC CONCORDE, MORC LA COCHEYLE, RESIDENCE FLORIDA, LAND SETTLEMENT ET UNE PARTIE DE PORT CHAMBLY",
+      "district": "pamplemousses",
+      "from": "2025-09-29T11:00:00.000Z",
+      "to": "2025-09-29T13:30:00.000Z",
+      "id": "86d1206bd5f871205491578280f3ad85"
+    }
+  ]
+}

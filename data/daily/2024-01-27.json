@@ -1,0 +1,118 @@
+{
+  "date": "2024-01-27",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.504Z",
+  "outageCount": 11,
+  "outages": [
+    {
+      "date": "Le samedi 27 janvier 2024 de  08:30:00 à  15:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "Ave Limit, Ave Lavandière, Ave des Fleurs, Ave Mangue Vert Doux, Geoffroy Branch Road, NHDC Bambous, La Zone Industrielle Bambous, Réservoir et Crematoriun Montagne St Pierre et CWA Eaux Bonnes",
+      "district": "blackriver",
+      "from": "2024-01-27T04:30:00.000Z",
+      "to": "2024-01-27T11:30:00.000Z",
+      "id": "d15c6ac2fd35ff72da0ba3b2169ee120"
+    },
+    {
+      "date": "Le samedi 27 janvier 2024 de  13:00:00 à  18:00:00",
+      "locality": "PETIT PAQUET",
+      "localitySlug": "petit-paquet",
+      "streets": "Petit Paquet et Pellegrin",
+      "district": "flacq",
+      "from": "2024-01-27T09:00:00.000Z",
+      "to": "2024-01-27T14:00:00.000Z",
+      "id": "d6a4373cb72d1cddb486ad2f5bfd7fdc"
+    },
+    {
+      "date": "Le samedi 27 janvier 2024 de  11:20:00 à  13:00:00",
+      "locality": "PETIT PAQUET",
+      "localitySlug": "petit-paquet",
+      "streets": "POULTRY",
+      "district": "flacq",
+      "from": "2024-01-27T07:20:00.000Z",
+      "to": "2024-01-27T09:00:00.000Z",
+      "id": "39890bafe04ba5622bd9134859efc87c"
+    },
+    {
+      "date": "Le samedi 27 janvier 2024 de  08:30:00 à  16:00:00",
+      "locality": "TROIS BOUTIQUES UNION VALE",
+      "localitySlug": "trois-boutiques-union-vale",
+      "streets": "Trois Boutiques habitant dans le périmètre et les rues suivantes: Morcellement Palmiers Trois Boutiques, Morcellement Deux Places et Carreau Esnouf Village",
+      "district": "grandport",
+      "from": "2024-01-27T04:30:00.000Z",
+      "to": "2024-01-27T12:00:00.000Z",
+      "id": "0a1d6ac446c2c791ce13a77d7eae70e5"
+    },
+    {
+      "date": "Le samedi 27 janvier 2024 de  10:00:00 à  12:00:00",
+      "locality": "MOKA",
+      "localitySlug": "moka",
+      "streets": "GENTILLY",
+      "district": "moka",
+      "from": "2024-01-27T06:00:00.000Z",
+      "to": "2024-01-27T08:00:00.000Z",
+      "id": "b4d5bf889e7dfe079ee6d3383aadb629"
+    },
+    {
+      "date": "Le samedi 27 janvier 2024 de  10:05:00 à  11:30:00",
+      "locality": "QUARTIER MILITAIRE",
+      "localitySlug": "quartier-militaire",
+      "streets": "C VUILLEMIN",
+      "district": "moka",
+      "from": "2024-01-27T06:05:00.000Z",
+      "to": "2024-01-27T07:30:00.000Z",
+      "id": "82f80c1f6bc4687113730f1e68d22845"
+    },
+    {
+      "date": "Le samedi 27 janvier 2024 de  08:30:00 à  14:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "MORC GREEN PARKDANS LES ENVIRONS DE MOSQUE AL MUNAWWARAH ET JAMAL TECH",
+      "district": "pamplemousses",
+      "from": "2024-01-27T04:30:00.000Z",
+      "to": "2024-01-27T10:00:00.000Z",
+      "id": "af8c15ef1b7b8bec5adcb4c48c7f8bcb"
+    },
+    {
+      "date": "Le samedi 27 janvier 2024 de  08:30:00 à  16:00:00",
+      "locality": "CITE CHEBEL",
+      "localitySlug": "cite-chebel",
+      "streets": "Chebel, Res. Chebeque, Res. Lotus, Ave Venkatasamy, Ave Raoul Rivet, Ave E. Nairac, Ave Pommier, Chebel Branch Rd",
+      "district": "plainewilhems",
+      "from": "2024-01-27T04:30:00.000Z",
+      "to": "2024-01-27T12:00:00.000Z",
+      "id": "96f06eddad73bf636a59c89d98c31fad"
+    },
+    {
+      "date": "Le samedi 27 janvier 2024 de  09:30:00 à  13:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "CAPT PONTRE",
+      "district": "portlouis",
+      "from": "2024-01-27T05:30:00.000Z",
+      "to": "2024-01-27T09:00:00.000Z",
+      "id": "1d33a5e27e0b2bc655be8c0e2da3b9c4"
+    },
+    {
+      "date": "Le samedi 27 janvier 2024 de  09:00:00 à  10:30:00",
+      "locality": "LE HOCHET",
+      "localitySlug": "le-hochet",
+      "streets": "MORC RAFFRAY",
+      "district": "portlouis",
+      "from": "2024-01-27T05:00:00.000Z",
+      "to": "2024-01-27T06:30:00.000Z",
+      "id": "1b5223ae2acc0127703e15742dbdfb49"
+    },
+    {
+      "date": "Le samedi 27 janvier 2024 de  13:00:00 à  14:00:00",
+      "locality": "SOTTISE",
+      "localitySlug": "sottise",
+      "streets": "FROM TRIOLET TO SOTTISE",
+      "district": "rivieredurempart",
+      "from": "2024-01-27T09:00:00.000Z",
+      "to": "2024-01-27T10:00:00.000Z",
+      "id": "5a94429f235124228fe8172c3ad2c1c3"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "date": "2022-09-05",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.485Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le lundi 5 septembre 2022 de  16:00:00 à  17:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Quinze-Cantons No. 1 et No. 2, Cite La Caverne, NHDC La Caverne, Residence Rosano, Residence Sunsetville, La Caverne No. 1, Morcellement Triton, Hollyrood No. 2, Chemin Seebaluck, une partie de Route La Marie, une partie du Route Très-Bon, Padaruth Lane",
+      "district": "plainewilhems",
+      "from": "2022-09-05T12:00:00.000Z",
+      "to": "2022-09-05T13:00:00.000Z",
+      "id": "c7f13087458fd7befc918143594605c0"
+    },
+    {
+      "date": "Le lundi 5 septembre 2022 de  15:30:00 à  17:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Curepipe habitant les rues et les régions suivantes : Meldrum, Emile Sauzier, Impasse Narainen, Résidence Les Platanes, Partie de Georges Guibert et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-09-05T11:30:00.000Z",
+      "to": "2022-09-05T13:00:00.000Z",
+      "id": "09819943a278075d724e395607628e76"
+    }
+  ]
+}

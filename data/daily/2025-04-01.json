@@ -1,0 +1,38 @@
+{
+  "date": "2025-04-01",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.521Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mardi 1 avril 2025 de  14:00:00 à  18:00:00",
+      "locality": "GRANDE POINTE AUX PIMENTS",
+      "localitySlug": "grande-pointe-aux-piments",
+      "streets": "GRANDE PTE AUX PIMENTS",
+      "district": "pamplemousses",
+      "from": "2025-04-01T10:00:00.000Z",
+      "to": "2025-04-01T14:00:00.000Z",
+      "id": "2941c95ad5f55ac67e46e8522b68fbbc"
+    },
+    {
+      "date": "Le mardi 1 avril 2025 de  13:00:00 à  16:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "DANS LA REGION DE VACOAS",
+      "district": "plainewilhems",
+      "from": "2025-04-01T09:00:00.000Z",
+      "to": "2025-04-01T12:00:00.000Z",
+      "id": "36b5cdad856f912891b94c989c4b42ba"
+    },
+    {
+      "date": "Le mardi 1 avril 2025 de  18:40:00 à  19:40:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": "EN PARTIE ENGRAIS MARTIAL, MORCELLEMENT SOUCHON, CHEMIN LAPEYROUSSE, CANTIN, NAVI ET LES ENVIRONS.",
+      "district": "plainewilhems",
+      "from": "2025-04-01T14:40:00.000Z",
+      "to": "2025-04-01T15:40:00.000Z",
+      "id": "0af54a3b97f5e505b506f5905f9c71d3"
+    }
+  ]
+}

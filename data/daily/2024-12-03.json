@@ -1,0 +1,48 @@
+{
+  "date": "2024-12-03",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.516Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mardi 3 décembre 2024 de  08:30:00 à  16:30:00",
+      "locality": "CHAMAREL",
+      "localitySlug": "chamarel",
+      "streets": "CHAMAREL",
+      "district": "blackriver",
+      "from": "2024-12-03T04:30:00.000Z",
+      "to": "2024-12-03T12:30:00.000Z",
+      "id": "51b3ddb8c2f5d9e269a7da92895d59be"
+    },
+    {
+      "date": "Le mardi 3 décembre 2024 de  09:00:00 à  10:30:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "WHOLE VILLAGE",
+      "district": "blackriver",
+      "from": "2024-12-03T05:00:00.000Z",
+      "to": "2024-12-03T06:30:00.000Z",
+      "id": "76c21e5b336d98adf0a479719b7bf170"
+    },
+    {
+      "date": "Le mardi 3 décembre 2024 de  08:30:00 à  16:00:00",
+      "locality": "MONT IDA",
+      "localitySlug": "mont-ida",
+      "streets": "Bengalis Rd, Social Security Office et une partie de la Route Royale",
+      "district": "flacq",
+      "from": "2024-12-03T04:30:00.000Z",
+      "to": "2024-12-03T12:00:00.000Z",
+      "id": "9ac40b27fde1927723bcb4714eb3cb60"
+    },
+    {
+      "date": "Le mardi 3 décembre 2024 de  15:00:00 à  17:30:00",
+      "locality": "LA LAURA SAINT PIERRE",
+      "localitySlug": "la-laura-saint-pierre",
+      "streets": "LA LAURA RIVIERE BAPTISTE ST PIERRE",
+      "district": "moka",
+      "from": "2024-12-03T11:00:00.000Z",
+      "to": "2024-12-03T13:30:00.000Z",
+      "id": "1679a5de63c9fa794c4ec2b0f01515a8"
+    }
+  ]
+}

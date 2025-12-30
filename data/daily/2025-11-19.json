@@ -1,0 +1,108 @@
+{
+  "date": "2025-11-19",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.528Z",
+  "outageCount": 10,
+  "outages": [
+    {
+      "date": "Le mercredi 19 novembre 2025 de  09:00:00 à  13:00:00",
+      "locality": "MEDINE BAMBOUS",
+      "localitySlug": "medine-bambous",
+      "streets": "LA MEC MEDINE",
+      "district": "blackriver",
+      "from": "2025-11-19T05:00:00.000Z",
+      "to": "2025-11-19T09:00:00.000Z",
+      "id": "495a28bf542da142f8601548ef7b9d73"
+    },
+    {
+      "date": "Le mercredi 19 novembre 2025 de  15:30:00 à  18:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "DANS LES ENVIIRONS DE MORC COPRIM, MORC CONCORDE, MORC LA COCHEYLE, RESIDENCE FLORIDA, LAND SETTLEMENT ET UNE PARTIE DE PORT CHAMBLY",
+      "district": "pamplemousses",
+      "from": "2025-11-19T11:30:00.000Z",
+      "to": "2025-11-19T14:00:00.000Z",
+      "id": "bf06dff742cb479339e062ba0893ac71"
+    },
+    {
+      "date": "Le mercredi 19 novembre 2025 de  09:00:00 à  16:00:00",
+      "locality": "CAMP LEVIEUX ( R HILL )",
+      "localitySlug": "camp-levieux",
+      "streets": "NHDC GERANIUM-FLAMBOYANT CAMP LEVIEUX",
+      "district": "plainewilhems",
+      "from": "2025-11-19T05:00:00.000Z",
+      "to": "2025-11-19T12:00:00.000Z",
+      "id": "e5e3d4b14e5f8656948171ec9246ad4f"
+    },
+    {
+      "date": "Le mercredi 19 novembre 2025 de  16:45:00 à  19:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "MORC DOTMAN ALLEE BRILLANT FLOREAL",
+      "district": "plainewilhems",
+      "from": "2025-11-19T12:45:00.000Z",
+      "to": "2025-11-19T15:00:00.000Z",
+      "id": "d871ef2e6a200e34c138df8a6e9e87c2"
+    },
+    {
+      "date": "Le mercredi 19 novembre 2025 de  09:30:00 à  13:00:00",
+      "locality": "CASSIS",
+      "localitySlug": "cassis",
+      "streets": "RTE MENAGERIE-RTE ST MARIE CASSIS",
+      "district": "portlouis",
+      "from": "2025-11-19T05:30:00.000Z",
+      "to": "2025-11-19T09:00:00.000Z",
+      "id": "3e139b72e22b42d9bf28cfbc39f05dca"
+    },
+    {
+      "date": "Le mercredi 19 novembre 2025 de  09:30:00 à  13:00:00",
+      "locality": "CITE LA CURE",
+      "localitySlug": "cite-la-cure",
+      "streets": "NHDC LA CURE",
+      "district": "portlouis",
+      "from": "2025-11-19T05:30:00.000Z",
+      "to": "2025-11-19T09:00:00.000Z",
+      "id": "ea3ae4a04eb141c223499e805f4bcca1"
+    },
+    {
+      "date": "Le mercredi 19 novembre 2025 de  09:00:00 à  15:30:00",
+      "locality": "MELVIILE",
+      "localitySlug": "melviile",
+      "streets": "ROCHE TERRE, GRAND GAUBE AND MELVILLE",
+      "district": "rivieredurempart",
+      "from": "2025-11-19T05:00:00.000Z",
+      "to": "2025-11-19T11:30:00.000Z",
+      "id": "eae13c0e5b678a3445ea3c845e3c526a"
+    },
+    {
+      "date": "Le mercredi 19 novembre 2025 de  09:00:00 à  15:30:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "ROCHE TERRE, GRAND GAUBE AND MELVILLE",
+      "district": "rivieredurempart",
+      "from": "2025-11-19T05:00:00.000Z",
+      "to": "2025-11-19T11:30:00.000Z",
+      "id": "d8481d3bde8fa2d3fc660b647a9018c8"
+    },
+    {
+      "date": "Le mercredi 19 novembre 2025 de  09:00:00 à  15:30:00",
+      "locality": "ROCHE TERRE",
+      "localitySlug": "roche-terre",
+      "streets": "ROCHE TERRE, GRAND GAUBE AND MELVILLE",
+      "district": "rivieredurempart",
+      "from": "2025-11-19T05:00:00.000Z",
+      "to": "2025-11-19T11:30:00.000Z",
+      "id": "afc113e788aee3b355d7ef0cff35a7b9"
+    },
+    {
+      "date": "Le mercredi 19 novembre 2025 de  09:30:00 à  11:30:00",
+      "locality": "POINTE AUX CANONNIERS",
+      "localitySlug": "pointe-aux-canonniers",
+      "streets": "MORC A TOUCHER PATISSERIE LE FOURNIL",
+      "district": "rivieredurempart",
+      "from": "2025-11-19T05:30:00.000Z",
+      "to": "2025-11-19T07:30:00.000Z",
+      "id": "8740227722d4ca0394e3587091512434"
+    }
+  ]
+}

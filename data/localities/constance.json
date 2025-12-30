@@ -1,0 +1,60 @@
+{
+  "slug": "constance",
+  "name": "CONSTANCE",
+  "district": "flacq",
+  "generated": "2025-12-30T19:07:15.648Z",
+  "outageCount": 7,
+  "firstOutage": "2022-09-18",
+  "lastOutage": "2025-02-28",
+  "outages": [
+    {
+      "date": "Le vendredi 28 février 2025 de  10:20:00 à  12:30:00",
+      "streets": "ARTISAN, LE COMPTOIRE, MILL CONSTANCE AND SURROUNDINGS",
+      "from": "2025-02-28T06:20:00.000Z",
+      "to": "2025-02-28T08:30:00.000Z",
+      "id": "6eb06702009aa51c77443dd26529c65b"
+    },
+    {
+      "date": "Le vendredi 6 septembre 2024 de  12:00:00 à  15:00:00",
+      "streets": "MORC CONSTANCE",
+      "from": "2024-09-06T08:00:00.000Z",
+      "to": "2024-09-06T11:00:00.000Z",
+      "id": "669658cb2ce531a248baa0957a0d423b"
+    },
+    {
+      "date": "Le dimanche 17 mars 2024 de  08:00:00 à  11:00:00",
+      "streets": "BELLE VUE ALLANDY",
+      "from": "2024-03-17T04:00:00.000Z",
+      "to": "2024-03-17T07:00:00.000Z",
+      "id": "b2b17801e1fec8433ee46391933cea06"
+    },
+    {
+      "date": "Le mardi 23 janvier 2024 de  09:30:00 à  14:00:00",
+      "streets": "CAMP ARTISAN CONSTANCE",
+      "from": "2024-01-23T05:30:00.000Z",
+      "to": "2024-01-23T10:00:00.000Z",
+      "id": "e8a556371eacc50133673b4d4e3daee0"
+    },
+    {
+      "date": "Le vendredi 30 décembre 2022 de  09:30:00 à  11:30:00",
+      "streets": "BELLE VUE ALANDY",
+      "from": "2022-12-30T05:30:00.000Z",
+      "to": "2022-12-30T07:30:00.000Z",
+      "id": "90d1a319017ec0f55be74c00cf0cb710"
+    },
+    {
+      "date": "Le mardi 27 décembre 2022 de  09:30:00 à  11:00:00",
+      "streets": "BELLE VUE ALLENDY, CONSTANCE",
+      "from": "2022-12-27T05:30:00.000Z",
+      "to": "2022-12-27T07:00:00.000Z",
+      "id": "a577459fa452d9e1bc742498c579e6fc"
+    },
+    {
+      "date": "Le dimanche 18 septembre 2022 de  08:00:00 à  16:00:00",
+      "streets": "Belle Vue Allendy and Riviere Francoise",
+      "from": "2022-09-18T04:00:00.000Z",
+      "to": "2022-09-18T12:00:00.000Z",
+      "id": "f3a596cdc53f10b4cdae4fe02bc797f5"
+    }
+  ]
+}

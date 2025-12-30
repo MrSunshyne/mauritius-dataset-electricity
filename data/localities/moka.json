@@ -1,0 +1,424 @@
+{
+  "slug": "moka",
+  "name": "MOKA",
+  "district": "moka",
+  "generated": "2025-12-30T19:07:15.746Z",
+  "outageCount": 59,
+  "firstOutage": "2022-06-13",
+  "lastOutage": "2025-12-20",
+  "outages": [
+    {
+      "date": "Le samedi 20 décembre 2025 de  14:15:00 à  15:15:00",
+      "streets": "MINISSY,CAMP AUGUSTE",
+      "from": "2025-12-20T10:15:00.000Z",
+      "to": "2025-12-20T11:15:00.000Z",
+      "id": "79a36e91e2eedfb261e1d462d6e9698b"
+    },
+    {
+      "date": "Le samedi 20 décembre 2025 de  08:30:00 à  10:00:00",
+      "streets": "NR HOSPITAL MOKA",
+      "from": "2025-12-20T04:30:00.000Z",
+      "to": "2025-12-20T06:00:00.000Z",
+      "id": "949cf8e29c850897e2a20a30b069297a"
+    },
+    {
+      "date": "Le lundi 15 décembre 2025 de  09:30:00 à  13:00:00",
+      "streets": "Chanteney,Morc Ramnarain,Gentilly",
+      "from": "2025-12-15T05:30:00.000Z",
+      "to": "2025-12-15T09:00:00.000Z",
+      "id": "82cd3d342ac4fd43d2d1d2a740798d5b"
+    },
+    {
+      "date": "Le samedi 6 décembre 2025 de  08:15:00 à  15:00:00",
+      "streets": "Morc Bagatelle Estate, Morc Eureka, Leclezio Avenue et Morc La Ravin",
+      "from": "2025-12-06T04:15:00.000Z",
+      "to": "2025-12-06T11:00:00.000Z",
+      "id": "2bb5030fccb1a86b6a1b61c922717b20"
+    },
+    {
+      "date": "Le vendredi 21 novembre 2025 de  09:20:00 à  15:00:00",
+      "streets": "GENTILLY BR ROAD, MORC RAMNARAIN ET LES ALENTOURS",
+      "from": "2025-11-21T05:20:00.000Z",
+      "to": "2025-11-21T11:00:00.000Z",
+      "id": "fedc8212eebb76baafab2d1bc0bb245d"
+    },
+    {
+      "date": "Le dimanche 26 octobre 2025 de  08:30:00 à  15:30:00",
+      "streets": "GENTILLY ROAD, RAILWAY, GENTILLY BRANCH ROAD, MORC GENTILLY ET LES ENVIRONS",
+      "from": "2025-10-26T04:30:00.000Z",
+      "to": "2025-10-26T11:30:00.000Z",
+      "id": "fa79e3eafba328e03b2c0c2de6f45434"
+    },
+    {
+      "date": "Le vendredi 19 septembre 2025 de  00:00:00 à  22:00:00",
+      "streets": "VERDANT GARDEN",
+      "from": "2025-09-18T20:00:00.000Z",
+      "to": "2025-09-18T18:00:00.000Z",
+      "id": "7dc176080a87e022e7ffb51928f84b9a"
+    },
+    {
+      "date": "Le dimanche 7 septembre 2025 de  08:30:00 à  15:00:00",
+      "streets": "Chemin Leclezio, Chemin Mount Ory et en partie Agriculture Marketing Board",
+      "from": "2025-09-07T04:30:00.000Z",
+      "to": "2025-09-07T11:00:00.000Z",
+      "id": "4991dd739de35089bdfb63ea79bbd78e"
+    },
+    {
+      "date": "Le dimanche 31 août 2025 de  08:55:00 à  14:00:00",
+      "streets": "MORC LE BOCAGE ET LES ALENTOURS",
+      "from": "2025-08-31T04:55:00.000Z",
+      "to": "2025-08-31T10:00:00.000Z",
+      "id": "d0f605e55357212acfb4b7856c740045"
+    },
+    {
+      "date": "Le samedi 23 août 2025 de  08:30:00 à  15:30:00",
+      "streets": "VALORY, CAMP SAMY, CHA CAMP SAMY, CAMP LASERPE ET EN PARTIE RT?BOIS CHERI",
+      "from": "2025-08-23T04:30:00.000Z",
+      "to": "2025-08-23T11:30:00.000Z",
+      "id": "9ee33859a7a64d6471018a9ad39e8e0f"
+    },
+    {
+      "date": "Le samedi 16 août 2025 de  08:30:00 à  11:00:00",
+      "streets": "MGI, EURO CRM ET LES ALENTOURS",
+      "from": "2025-08-16T04:30:00.000Z",
+      "to": "2025-08-16T07:00:00.000Z",
+      "id": "3bba4d02086a16881d88e716d921c75a"
+    },
+    {
+      "date": "Le dimanche 20 juillet 2025 de  17:20:00 à  22:00:00",
+      "streets": "GENTILLY MOKA NEAR MIROVERRE",
+      "from": "2025-07-20T13:20:00.000Z",
+      "to": "2025-07-20T18:00:00.000Z",
+      "id": "2878eceb8748639a03104e778f8955f7"
+    },
+    {
+      "date": "Le dimanche 20 juillet 2025 de  08:30:00 à  15:30:00",
+      "streets": "TELFAIR, MORC. ESPRAL, RAILWAY STREET, MORC. GENTILLY, GENTILLYBRANCH ROAD, RES. HELVETIA ET MORC. MERRYTOWN sont avisés que la",
+      "from": "2025-07-20T04:30:00.000Z",
+      "to": "2025-07-20T11:30:00.000Z",
+      "id": "9cb1667949dfb885cc261abf842d1cdc"
+    },
+    {
+      "date": "Le dimanche 13 juillet 2025 de  08:30:00 à  15:00:00",
+      "streets": "Ave Leclezio, Eureka, Camp Samy, Morc Bagatelle, Le Ravin et Le Bocage",
+      "from": "2025-07-13T04:30:00.000Z",
+      "to": "2025-07-13T11:00:00.000Z",
+      "id": "232bf8f0c63b1536d4aed076984ac99f"
+    },
+    {
+      "date": "Le dimanche 6 avril 2025 de  06:00:00 à  12:00:00",
+      "streets": "BOIS CHERIE ROAD ET DANS LES ALENTOURS DE QUINCAILLERIE LEPEP",
+      "from": "2025-04-06T02:00:00.000Z",
+      "to": "2025-04-06T08:00:00.000Z",
+      "id": "732e7ee05eb6d0b1752136097191bd78"
+    },
+    {
+      "date": "Le samedi 1 mars 2025 de  08:30:00 à  12:00:00",
+      "streets": "RTE BOIS CHERIE-RIVIERE BAPTIST ST PIERRE",
+      "from": "2025-03-01T04:30:00.000Z",
+      "to": "2025-03-01T08:00:00.000Z",
+      "id": "5c1552e7796f122ab01d9a2602c63ff3"
+    },
+    {
+      "date": "Le dimanche 23 février 2025 de  08:30:00 à  15:30:00",
+      "streets": "Bois Cheri Rd, Francois Woo, Kheedaran et en partie Petit Verger Branch Rd",
+      "from": "2025-02-23T04:30:00.000Z",
+      "to": "2025-02-23T11:30:00.000Z",
+      "id": "ccd3786e2add91788f511a26be1dc46a"
+    },
+    {
+      "date": "Le dimanche 16 février 2025 de  09:00:00 à  15:00:00",
+      "streets": "STATION POLICE, EYE HOSPITAL, ET DANS LES ALENTOURS DE AMB",
+      "from": "2025-02-16T05:00:00.000Z",
+      "to": "2025-02-16T11:00:00.000Z",
+      "id": "5a61584cea7320dfef35c6f26e71a4bb"
+    },
+    {
+      "date": "Le dimanche 19 janvier 2025 de  08:30:00 à  17:00:00",
+      "streets": "CHA Telfair, PWC Building et CWA Telfair",
+      "from": "2025-01-19T04:30:00.000Z",
+      "to": "2025-01-19T13:00:00.000Z",
+      "id": "f03027b12ade6de7831c346033d51de1"
+    },
+    {
+      "date": "Le samedi 11 janvier 2025 de  08:30:00 à  15:30:00",
+      "streets": "Le Ravin 1 & 2, Islamic Centre, Mount Ory et Bois Cheri Rd",
+      "from": "2025-01-11T04:30:00.000Z",
+      "to": "2025-01-11T11:30:00.000Z",
+      "id": "4f942e48cd6f4371111eba4dc6a0b61c"
+    },
+    {
+      "date": "Le jeudi 9 janvier 2025 de  16:00:00 à  17:00:00",
+      "streets": "BOIS CHERI ROAD MOKA ET LES ENVIRONS.",
+      "from": "2025-01-09T12:00:00.000Z",
+      "to": "2025-01-09T13:00:00.000Z",
+      "id": "9a76b38739bf2abca3d78a9aa18e09a9"
+    },
+    {
+      "date": "Le mercredi 4 décembre 2024 de  16:00:00 à  18:00:00",
+      "streets": "Round about Telfair, Morc Gentilly, Railway Moka, Chantenay et Dr Pillot",
+      "from": "2024-12-04T12:00:00.000Z",
+      "to": "2024-12-04T14:00:00.000Z",
+      "id": "a88e928675d5d14263900e97894cb894"
+    },
+    {
+      "date": "Le dimanche 20 octobre 2024 de  08:30:00 à  15:30:00",
+      "streets": "Telfair, Morc Gentilly, Morc Espral, Railway et Gentilly",
+      "from": "2024-10-20T04:30:00.000Z",
+      "to": "2024-10-20T11:30:00.000Z",
+      "id": "10f705ad0266e199c78cebb6a5bee937"
+    },
+    {
+      "date": "Le mardi 15 octobre 2024 de  00:01:00 à  05:00:00",
+      "streets": "CWA CAMP AUGUSTE ALSO KNOWN AS BAGATELE DAM BY CWA OFFICER",
+      "from": "2024-10-14T20:01:00.000Z",
+      "to": "2024-10-14T01:00:00.000Z",
+      "id": "ddd2890de0c3d7e4a5acfc9af54ada95"
+    },
+    {
+      "date": "Le lundi 14 octobre 2024 de  16:00:00 à  00:00:00",
+      "streets": "CWA CAMP AUGUSTE ALSO KNOWN AS BAGATELE DAM BY CWA OFFICER",
+      "from": "2024-10-14T12:00:00.000Z",
+      "to": "2024-10-13T20:00:00.000Z",
+      "id": "9058007028c870f551d6ce8e06935e45"
+    },
+    {
+      "date": "Le jeudi 10 octobre 2024 de  16:30:00 à  18:00:00",
+      "streets": "GENTILLY, DR PIVAULT,IN VICINITY CHANTENAY, MIROVERRE",
+      "from": "2024-10-10T12:30:00.000Z",
+      "to": "2024-10-10T14:00:00.000Z",
+      "id": "04e092f83928d24c4c58619f8a6bf253"
+    },
+    {
+      "date": "Le dimanche 29 septembre 2024 de  08:30:00 à  16:00:00",
+      "streets": "Telfair, Gentilly et Helvetia",
+      "from": "2024-09-29T04:30:00.000Z",
+      "to": "2024-09-29T12:00:00.000Z",
+      "id": "b80dbc0f1b2e582134fc482be3fea713"
+    },
+    {
+      "date": "Le samedi 14 septembre 2024 de  08:30:00 à  16:00:00",
+      "streets": "Gentilly Estate,Minissy(Cwa/Poultry)Residence Telfair",
+      "from": "2024-09-14T04:30:00.000Z",
+      "to": "2024-09-14T12:00:00.000Z",
+      "id": "97ee171c5c0b21cee4379a203ccab85c"
+    },
+    {
+      "date": "Le samedi 24 août 2024 de  10:25:00 à  11:00:00",
+      "streets": "GENTILLY MOKA /LA PUMP MINISSY",
+      "from": "2024-08-24T06:25:00.000Z",
+      "to": "2024-08-24T07:00:00.000Z",
+      "id": "d203c24d0e8f58f7fab87a7d2930637d"
+    },
+    {
+      "date": "Le mercredi 14 août 2024 de  09:45:00 à  16:00:00",
+      "streets": "Morc Eureka,MOKA",
+      "from": "2024-08-14T05:45:00.000Z",
+      "to": "2024-08-14T12:00:00.000Z",
+      "id": "dd941b9c8cb72386829f298b3a1272ab"
+    },
+    {
+      "date": "Le dimanche 4 août 2024 de  08:30:00 à  16:00:00",
+      "streets": "Gentilly, Railway et Morc Gentilly",
+      "from": "2024-08-04T04:30:00.000Z",
+      "to": "2024-08-04T12:00:00.000Z",
+      "id": "f880bf7bc3bb31a1f175ca5c4816bc00"
+    },
+    {
+      "date": "Le dimanche 28 juillet 2024 de  08:30:00 à  16:00:00",
+      "streets": "Eureka, Morc Eureka, La Ravin et Morc Bagatelle",
+      "from": "2024-07-28T04:30:00.000Z",
+      "to": "2024-07-28T12:00:00.000Z",
+      "id": "7848ed263e70cc7f169ad64e027c6216"
+    },
+    {
+      "date": "Le dimanche 21 juillet 2024 de  08:30:00 à  16:00:00",
+      "streets": "Telfair, Gentilly, Railway et Morc Gentilly",
+      "from": "2024-07-21T04:30:00.000Z",
+      "to": "2024-07-21T12:00:00.000Z",
+      "id": "917fc3776b398d66f2cfffb475e7defa"
+    },
+    {
+      "date": "Le samedi 8 juin 2024 de  08:30:00 à  16:00:00",
+      "streets": "Telfair, Gentilly, Morc Gentilly, Railway et en partie Helvetia",
+      "from": "2024-06-08T04:30:00.000Z",
+      "to": "2024-06-08T12:00:00.000Z",
+      "id": "db7c45de85c84bf4aee3748b1d9e19c9"
+    },
+    {
+      "date": "Le vendredi 3 mai 2024 de  15:30:00 à  17:00:00",
+      "streets": "ROUTE BOIS CHERIE,CHATEAU VALORY,CAMP LA SERPE",
+      "from": "2024-05-03T11:30:00.000Z",
+      "to": "2024-05-03T13:00:00.000Z",
+      "id": "19cb86d6116c8359558290500e116cac"
+    },
+    {
+      "date": "Le dimanche 7 avril 2024 de  08:30:00 à  16:00:00",
+      "streets": "Ave Leclezio, Mt Ory et les environs de AMB",
+      "from": "2024-04-07T04:30:00.000Z",
+      "to": "2024-04-07T12:00:00.000Z",
+      "id": "2822ddc21655446424acaa042b889fa7"
+    },
+    {
+      "date": "Le dimanche 25 février 2024 de  08:30:00 à  16:00:00",
+      "streets": "Morc Bagatelle, Le Ravin 1 & 2, Eureka et en partie Pont Souillac",
+      "from": "2024-02-25T04:30:00.000Z",
+      "to": "2024-02-25T12:00:00.000Z",
+      "id": "0fd730e44c6f66c7736b3dbbdc3bffc8"
+    },
+    {
+      "date": "Le mercredi 21 février 2024 de  14:15:00 à  16:30:00",
+      "streets": "BOIS CHERIE ROAD MOKA, LAGREMENT, CIRCONTANCE, MALINGA, BEAU BOIS, PETIT VERGER, ST PIERRE",
+      "from": "2024-02-21T10:15:00.000Z",
+      "to": "2024-02-21T12:30:00.000Z",
+      "id": "cd24254085ac6377475e96f44255023e"
+    },
+    {
+      "date": "Le samedi 17 février 2024 de  08:30:00 à  16:00:00",
+      "streets": "Eureka et Morc Bagatelle",
+      "from": "2024-02-17T04:30:00.000Z",
+      "to": "2024-02-17T12:00:00.000Z",
+      "id": "0f558ad1aabec22d4239ac74e60541ac"
+    },
+    {
+      "date": "Le samedi 27 janvier 2024 de  10:00:00 à  12:00:00",
+      "streets": "GENTILLY",
+      "from": "2024-01-27T06:00:00.000Z",
+      "to": "2024-01-27T08:00:00.000Z",
+      "id": "b4d5bf889e7dfe079ee6d3383aadb629"
+    },
+    {
+      "date": "Le jeudi 18 janvier 2024 de  16:50:00 à  17:50:00",
+      "streets": "RESIDENCE TELFAIR",
+      "from": "2024-01-18T12:50:00.000Z",
+      "to": "2024-01-18T13:50:00.000Z",
+      "id": "b50c4feeaad642ff7e9fe2fa5ceeb439"
+    },
+    {
+      "date": "Le mercredi 17 janvier 2024 de  18:15:00 à  19:15:00",
+      "streets": "DANS LES ENVIRONS DU BOCAGE.",
+      "from": "2024-01-17T14:15:00.000Z",
+      "to": "2024-01-17T15:15:00.000Z",
+      "id": "ad97f15cc337320fff59febe58a61a2e"
+    },
+    {
+      "date": "Le mardi 9 janvier 2024 de  16:00:00 à  19:00:00",
+      "streets": "moka,gentilly,helvetia",
+      "from": "2024-01-09T12:00:00.000Z",
+      "to": "2024-01-09T15:00:00.000Z",
+      "id": "1bad9e14d9ac9d96fe51183b59f93e85"
+    },
+    {
+      "date": "Le jeudi 28 décembre 2023 de  19:00:00 à  21:30:00",
+      "streets": "TELFAIR, VINSON LANE AND NEARBY REGION",
+      "from": "2023-12-28T15:00:00.000Z",
+      "to": "2023-12-28T17:30:00.000Z",
+      "id": "5a7900a967dd16477bf58254c2f65dd9"
+    },
+    {
+      "date": "Le jeudi 9 novembre 2023 de  08:15:00 à  13:30:00",
+      "streets": "FAIL MINISSY 1 & 2, CWA MINISSY, CAMP AUGUSTE, CHARLES TELFAIR, MORC GENTILLY NO 1 & 2",
+      "from": "2023-11-09T04:15:00.000Z",
+      "to": "2023-11-09T09:30:00.000Z",
+      "id": "bef70d3d463579384e8fe8f41b347586"
+    },
+    {
+      "date": "Le dimanche 3 septembre 2023 de  09:10:00 à  11:10:00",
+      "streets": "LES ABONNES DE CHEMIN CHITSON, GENTILLY MOKA.",
+      "from": "2023-09-03T05:10:00.000Z",
+      "to": "2023-09-03T07:10:00.000Z",
+      "id": "3a7b38219f783d0516ddb041a0444eaf"
+    },
+    {
+      "date": "Le dimanche 6 août 2023 de  08:30:00 à  16:00:00",
+      "streets": "Vinson Lane, SQL, Morc Ray et les environs",
+      "from": "2023-08-06T04:30:00.000Z",
+      "to": "2023-08-06T12:00:00.000Z",
+      "id": "d30ed28a782420e67a94080fad497dbb"
+    },
+    {
+      "date": "Le mercredi 3 mai 2023 de  09:00:00 à  16:00:00",
+      "streets": "EUREKA MOKA",
+      "from": "2023-05-03T05:00:00.000Z",
+      "to": "2023-05-03T12:00:00.000Z",
+      "id": "3dd2c19b7021cd65a33bb06d5bb4a341"
+    },
+    {
+      "date": "Le dimanche 16 avril 2023 de  08:30:00 à  16:00:00",
+      "streets": "GENTILLY BRANCH ROAD, MORC RAMNARAIN 2, MORC RAMNARAIN CHANTENAY",
+      "from": "2023-04-16T04:30:00.000Z",
+      "to": "2023-04-16T12:00:00.000Z",
+      "id": "f381425c2c132eb29e58e44efd81157b"
+    },
+    {
+      "date": "Le jeudi 13 avril 2023 de  13:30:00 à  18:00:00",
+      "streets": "VINCENT ROAD,ROYAL ROAD MOKA",
+      "from": "2023-04-13T09:30:00.000Z",
+      "to": "2023-04-13T14:00:00.000Z",
+      "id": "a7011afde1e698ccb8ad347b1415f303"
+    },
+    {
+      "date": "Le vendredi 31 mars 2023 de  02:30:00 à  09:30:00",
+      "streets": "GENTILLY ESTATE/HELVETIA",
+      "from": "2023-03-30T22:30:00.000Z",
+      "to": "2023-03-30T05:30:00.000Z",
+      "id": "2fda5d0873e027b665fea1d109a04fc2"
+    },
+    {
+      "date": "Le jeudi 23 février 2023 de  15:30:00 à  16:30:00",
+      "streets": "ROUTE BOIS CHERIS,EUREKA,HOSPITAL NEAR AMB.",
+      "from": "2023-02-23T11:30:00.000Z",
+      "to": "2023-02-23T12:30:00.000Z",
+      "id": "28d3fe137732bcaf10b4910954e97ade"
+    },
+    {
+      "date": "Le vendredi 13 janvier 2023 de  10:00:00 à  11:00:00",
+      "streets": "GENTILLY MOKA",
+      "from": "2023-01-13T06:00:00.000Z",
+      "to": "2023-01-13T07:00:00.000Z",
+      "id": "f1a46442aec9b0175f65db0789b562e3"
+    },
+    {
+      "date": "Le jeudi 8 décembre 2022 de  15:00:00 à  16:30:00",
+      "streets": "PETIT VERGER BRANCH ROAD GENTILLY MOKA NEAR FRANCOIS WOO",
+      "from": "2022-12-08T11:00:00.000Z",
+      "to": "2022-12-08T12:30:00.000Z",
+      "id": "c073d8b96567fb9a5d47726392a3d02d"
+    },
+    {
+      "date": "Le dimanche 20 novembre 2022 de  08:30:00 à  16:00:00",
+      "streets": "Route Bois Cheri, Camp Laserpe, Chateau Valory, Moka Eye Hospital, Moka Police Station, Piracy Court Moka, SQL, Moka Bridge et dans les environs",
+      "from": "2022-11-20T04:30:00.000Z",
+      "to": "2022-11-20T12:00:00.000Z",
+      "id": "52726ad14075e8b3e1835f460fda7ae9"
+    },
+    {
+      "date": "Le samedi 13 août 2022 de  08:30:00 à  16:00:00",
+      "streets": "Telfair, Gentilly, Helvetia et dans les environs",
+      "from": "2022-08-13T04:30:00.000Z",
+      "to": "2022-08-13T12:00:00.000Z",
+      "id": "b582fb6c232969aa0a6a800df046f7ac"
+    },
+    {
+      "date": "Le dimanche 24 juillet 2022 de  08:30:00 à  16:30:00",
+      "streets": "CAMP LA SERPE--CAMP SAMY--LE BOCAGE--CLAVIS--BOIS CHERI ROAD and SURROUNDINGS",
+      "from": "2022-07-24T04:30:00.000Z",
+      "to": "2022-07-24T12:30:00.000Z",
+      "id": "63f33ab5533a642c0fc69196f5870704"
+    },
+    {
+      "date": "Le mercredi 6 juillet 2022 de  09:00:00 à  16:00:00",
+      "streets": "BOIS CHERI ROAD + CAMP SAMY",
+      "from": "2022-07-06T05:00:00.000Z",
+      "to": "2022-07-06T12:00:00.000Z",
+      "id": "fba15dfed6ce612ab2cfa6e4f7290b53"
+    },
+    {
+      "date": "Le lundi 13 juin 2022 de  12:00:00 à  16:00:00",
+      "streets": "CAMP SAMY",
+      "from": "2022-06-13T08:00:00.000Z",
+      "to": "2022-06-13T12:00:00.000Z",
+      "id": "d3bb84ac7a0abc816848112dc45d2c1c"
+    }
+  ]
+}

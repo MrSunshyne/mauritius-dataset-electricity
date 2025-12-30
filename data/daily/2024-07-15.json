@@ -1,0 +1,38 @@
+{
+  "date": "2024-07-15",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.510Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le lundi 15 juillet 2024 de  10:15:00 à  12:00:00",
+      "locality": "BRISEE VERDIERE",
+      "localitySlug": "brisee-verdiere",
+      "streets": "BRISEE VERDIERE",
+      "district": "flacq",
+      "from": "2024-07-15T06:15:00.000Z",
+      "to": "2024-07-15T08:00:00.000Z",
+      "id": "4ab9e514ed7c73fc3405d556c25a76be"
+    },
+    {
+      "date": "Le lundi 15 juillet 2024 de  09:00:00 à  12:00:00",
+      "locality": "SAINT HUBERT",
+      "localitySlug": "saint-hubert",
+      "streets": "school lane, dussoye lane, part of royal road, camp albert 1 & 2",
+      "district": "grandport",
+      "from": "2024-07-15T05:00:00.000Z",
+      "to": "2024-07-15T08:00:00.000Z",
+      "id": "9e8f9755df458708483986b65282e93d"
+    },
+    {
+      "date": "Le lundi 15 juillet 2024 de  14:30:00 à  16:30:00",
+      "locality": "BOIS MARCHAND",
+      "localitySlug": "bois-marchand",
+      "streets": "Bois Marchand",
+      "district": "pamplemousses",
+      "from": "2024-07-15T10:30:00.000Z",
+      "to": "2024-07-15T12:30:00.000Z",
+      "id": "3ebea1059d7d1b6b72d36cebbedae699"
+    }
+  ]
+}

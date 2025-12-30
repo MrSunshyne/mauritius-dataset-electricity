@@ -1,0 +1,88 @@
+{
+  "date": "2022-06-17",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.483Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le vendredi 17 juin 2022 de  08:30:00 à  17:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "AVE DE LA TOURELLE, AVE DES TROIS MAMELLES, AVE DU MORNE, RUE DE LILE AUX CERFS ET RUE DE LILE AUX FLAMANDS",
+      "district": "blackriver",
+      "from": "2022-06-17T04:30:00.000Z",
+      "to": "2022-06-17T13:00:00.000Z",
+      "id": "9548dea55e07d22bffb74636c35c9fe0"
+    },
+    {
+      "date": "Le vendredi 17 juin 2022 de  15:00:00 à  18:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "TERRE ALBION",
+      "district": "blackriver",
+      "from": "2022-06-17T11:00:00.000Z",
+      "to": "2022-06-17T14:00:00.000Z",
+      "id": "904366545ef245e9a961c7a6ee9ab4c9"
+    },
+    {
+      "date": "Le vendredi 17 juin 2022 de  09:00:00 à  17:00:00",
+      "locality": "UNION PARK",
+      "localitySlug": "union-park",
+      "streets": "Plaine Magnien habitant dans le périmètre et les rues suivantes: Morcellement VRS, Morcellement BluePrint et Chemin Mon Desert  Plaine Magnien",
+      "district": "grandport",
+      "from": "2022-06-17T05:00:00.000Z",
+      "to": "2022-06-17T13:00:00.000Z",
+      "id": "97664850d2c1b6bc8188ea74aa4cc5e7"
+    },
+    {
+      "date": "Le vendredi 17 juin 2022 de  10:00:00 à  12:00:00",
+      "locality": "L-ESPERANCE Q.MILITAIRE",
+      "localitySlug": "l-esperance-qmilitaire",
+      "streets": "LESPERANCE",
+      "district": "moka",
+      "from": "2022-06-17T06:00:00.000Z",
+      "to": "2022-06-17T08:00:00.000Z",
+      "id": "a4b3148c93118253d07613ca71523b91"
+    },
+    {
+      "date": "Le vendredi 17 juin 2022 de  08:30:00 à  12:00:00",
+      "locality": "MIDLANDS",
+      "localitySlug": "midlands",
+      "streets": "La Chapelle Lane, Rajoo Street, Nadal Street, Surdhoo Street, Ramlochurn Street et Shivaji Street",
+      "district": "plainewilhems",
+      "from": "2022-06-17T04:30:00.000Z",
+      "to": "2022-06-17T08:00:00.000Z",
+      "id": "682a62413314406017c0dbfc9a4ec528"
+    },
+    {
+      "date": "Le vendredi 17 juin 2022 de  16:30:00 à  18:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVENUE PALMIER QUATRE BORNES",
+      "district": "plainewilhems",
+      "from": "2022-06-17T12:30:00.000Z",
+      "to": "2022-06-17T14:00:00.000Z",
+      "id": "a43453233c671e7789e2ef58e5c459cc"
+    },
+    {
+      "date": "Le vendredi 17 juin 2022 de  09:00:00 à  12:30:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "LES ABONNES HABITANT VALLEE DES PRETRES DANS LES ENVIRONS DE MORC SEEKDAUR",
+      "district": "portlouis",
+      "from": "2022-06-17T05:00:00.000Z",
+      "to": "2022-06-17T08:30:00.000Z",
+      "id": "deedf2b8e3113f0ddcd7d0bcef9fc897"
+    },
+    {
+      "date": "Le vendredi 17 juin 2022 de  11:00:00 à  16:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "Capitaine Pontre Ste Croix",
+      "district": "portlouis",
+      "from": "2022-06-17T07:00:00.000Z",
+      "to": "2022-06-17T12:00:00.000Z",
+      "id": "89cba545b5e307d2305ac1d9e3011d8b"
+    }
+  ]
+}

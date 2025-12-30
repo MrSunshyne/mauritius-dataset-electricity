@@ -1,0 +1,78 @@
+{
+  "date": "2023-04-23",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.493Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le dimanche 23 avril 2023 de  17:30:00 à  18:30:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "PR MARGARET,NUNDLOLL,MEDI CLINIC,PHARMACY",
+      "district": "blackriver",
+      "from": "2023-04-23T13:30:00.000Z",
+      "to": "2023-04-23T14:30:00.000Z",
+      "id": "f9498c59eb4ae2d571e4dc3ff615a1c1"
+    },
+    {
+      "date": "Le dimanche 23 avril 2023 de  09:30:00 à  14:00:00",
+      "locality": "VILLENOIRE",
+      "localitySlug": "villenoire",
+      "streets": "Morcellement VRS et Morcellement Blue Print Ville Noire",
+      "district": "grandport",
+      "from": "2023-04-23T05:30:00.000Z",
+      "to": "2023-04-23T10:00:00.000Z",
+      "id": "2b8b6901196610891327ddac2136b109"
+    },
+    {
+      "date": "Le dimanche 23 avril 2023 de  08:30:00 à  16:00:00",
+      "locality": "RICHE TERRE",
+      "localitySlug": "riche-terre",
+      "streets": "DANS LES ENVIRONS DE LA ZONE INDUSTRIEL DE JIN FEI",
+      "district": "pamplemousses",
+      "from": "2023-04-23T04:30:00.000Z",
+      "to": "2023-04-23T12:00:00.000Z",
+      "id": "3bf365a5fd84f0323914d313a037c626"
+    },
+    {
+      "date": "Le dimanche 23 avril 2023 de  08:30:00 à  16:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "UNE PARTIE DE PORT CHAMBLY ET SAINT JOSEPH ROAD",
+      "district": "pamplemousses",
+      "from": "2023-04-23T04:30:00.000Z",
+      "to": "2023-04-23T12:00:00.000Z",
+      "id": "589510b5b04958292e684963eca29f30"
+    },
+    {
+      "date": "Le dimanche 23 avril 2023 de  14:30:00 à  15:30:00",
+      "locality": "BALACLAVA",
+      "localitySlug": "balaclava",
+      "streets": "Petit Gamin, Balaclava, Intercontinentale Hotel, Le Jadis, Royal Park et Maritime Hotel",
+      "district": "pamplemousses",
+      "from": "2023-04-23T10:30:00.000Z",
+      "to": "2023-04-23T11:30:00.000Z",
+      "id": "f9405888ba0773c681e7f2c03e87101d"
+    },
+    {
+      "date": "Le dimanche 23 avril 2023 de  08:30:00 à  09:30:00",
+      "locality": "BALACLAVA",
+      "localitySlug": "balaclava",
+      "streets": "Petit Gamin, Balaclava,  Intercontinentale Hotel, Le Jadis, Royal Park et  Maritime Hotel",
+      "district": "pamplemousses",
+      "from": "2023-04-23T04:30:00.000Z",
+      "to": "2023-04-23T05:30:00.000Z",
+      "id": "a12b88268b657dd90cdf84b7494e5a61"
+    },
+    {
+      "date": "Le dimanche 23 avril 2023 de  09:00:00 à  09:45:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "BASSIN QUATRE BORNES",
+      "district": "plainewilhems",
+      "from": "2023-04-23T05:00:00.000Z",
+      "to": "2023-04-23T05:45:00.000Z",
+      "id": "51ddb98d8b83c72c5d54383b614edbb1"
+    }
+  ]
+}

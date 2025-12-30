@@ -1,0 +1,78 @@
+{
+  "date": "2025-12-20",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.530Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le samedi 20 décembre 2025 de  08:30:00 à  10:00:00",
+      "locality": "MOKA",
+      "localitySlug": "moka",
+      "streets": "NR HOSPITAL MOKA",
+      "district": "moka",
+      "from": "2025-12-20T04:30:00.000Z",
+      "to": "2025-12-20T06:00:00.000Z",
+      "id": "949cf8e29c850897e2a20a30b069297a"
+    },
+    {
+      "date": "Le samedi 20 décembre 2025 de  10:30:00 à  13:00:00",
+      "locality": "RIPAILLES",
+      "localitySlug": "ripailles",
+      "streets": "LESCALIER RD -ROYAL RD RIPAILLES",
+      "district": "moka",
+      "from": "2025-12-20T06:30:00.000Z",
+      "to": "2025-12-20T09:00:00.000Z",
+      "id": "245b61c5fb3b18b920746e23e67e3a3b"
+    },
+    {
+      "date": "Le samedi 20 décembre 2025 de  14:15:00 à  15:15:00",
+      "locality": "MOKA",
+      "localitySlug": "moka",
+      "streets": "MINISSY,CAMP AUGUSTE",
+      "district": "moka",
+      "from": "2025-12-20T10:15:00.000Z",
+      "to": "2025-12-20T11:15:00.000Z",
+      "id": "79a36e91e2eedfb261e1d462d6e9698b"
+    },
+    {
+      "date": "Le samedi 20 décembre 2025 de  09:00:00 à  10:30:00",
+      "locality": "HOLLYROOD",
+      "localitySlug": "hollyrood",
+      "streets": "NANAPRAGASSEN RD HOLLYROOD",
+      "district": "plainewilhems",
+      "from": "2025-12-20T05:00:00.000Z",
+      "to": "2025-12-20T06:30:00.000Z",
+      "id": "2041985aa712c638cac8113d6bd548e7"
+    },
+    {
+      "date": "Le samedi 20 décembre 2025 de  14:00:00 à  18:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "DUNCAN,ELIAS,ROYAL ROAD,RUE NALLA.near arab town/market",
+      "district": "plainewilhems",
+      "from": "2025-12-20T10:00:00.000Z",
+      "to": "2025-12-20T14:00:00.000Z",
+      "id": "dce0bf2c4e6ca6f673911b376c839526"
+    },
+    {
+      "date": "Le samedi 20 décembre 2025 de  06:50:00 à  12:00:00",
+      "locality": "VALLEE PITOT",
+      "localitySlug": "vallee-pitot",
+      "streets": "RUE CHALET ET LES ALENTOURS",
+      "district": "portlouis",
+      "from": "2025-12-20T02:50:00.000Z",
+      "to": "2025-12-20T08:00:00.000Z",
+      "id": "098d244c7cc994051ad2d6666161dda4"
+    },
+    {
+      "date": "Le samedi 20 décembre 2025 de  08:30:00 à  15:00:00",
+      "locality": "BALADIROU(RODRIGUES)",
+      "localitySlug": "baladirou",
+      "streets": "Montagne Goyaves, Dans Bebe, Oranges, Jean Tac, Caverne Provert, Terre Rouge, Anse Aux Anglais et Pointe Venus",
+      "district": "rodrigues",
+      "from": "2025-12-20T04:30:00.000Z",
+      "to": "2025-12-20T11:00:00.000Z",
+      "id": "2b43205b130a7522a012b0ab71c7c68e"
+    }
+  ]
+}

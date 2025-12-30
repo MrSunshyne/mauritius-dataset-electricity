@@ -1,0 +1,25 @@
+{
+  "slug": "providence-la-porte",
+  "name": "PROVIDENCE LA PORTE",
+  "district": "flacq",
+  "generated": "2025-12-30T19:07:15.807Z",
+  "outageCount": 2,
+  "firstOutage": "2022-04-05",
+  "lastOutage": "2023-11-05",
+  "outages": [
+    {
+      "date": "Le dimanche 5 novembre 2023 de  18:30:00 à  22:00:00",
+      "streets": "PROVIDENCE SUR MER",
+      "from": "2023-11-05T14:30:00.000Z",
+      "to": "2023-11-05T18:00:00.000Z",
+      "id": "fcd5bb5854acb85a79dc28a7450cd8d5"
+    },
+    {
+      "date": "Le mardi 5 avril 2022 de  10:00:00 à  11:30:00",
+      "streets": "PRIVIDENCE LAPORTE",
+      "from": "2022-04-05T06:00:00.000Z",
+      "to": "2022-04-05T07:30:00.000Z",
+      "id": "83517d44d87de50dc6f96895af69ad11"
+    }
+  ]
+}

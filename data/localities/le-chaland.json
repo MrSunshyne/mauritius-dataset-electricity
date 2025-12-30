@@ -1,0 +1,39 @@
+{
+  "slug": "le-chaland",
+  "name": "LE CHALAND",
+  "district": "grandport",
+  "generated": "2025-12-30T19:07:15.721Z",
+  "outageCount": 4,
+  "firstOutage": "2022-06-02",
+  "lastOutage": "2024-06-08",
+  "outages": [
+    {
+      "date": "Le samedi 8 juin 2024 de  08:30:00 à  15:00:00",
+      "streets": "Le Chaland",
+      "from": "2024-06-08T04:30:00.000Z",
+      "to": "2024-06-08T11:00:00.000Z",
+      "id": "91f925a6d24e6d3181849bcf111cbb92"
+    },
+    {
+      "date": "Le mardi 14 juin 2022 de  08:30:00 à  17:00:00",
+      "streets": "Providence, une partie de Bois Des Amourettes et une partie de Anse Jonchée",
+      "from": "2022-06-14T04:30:00.000Z",
+      "to": "2022-06-14T13:00:00.000Z",
+      "id": "d3a54b526be6ec25fb800dea473e8bf1"
+    },
+    {
+      "date": "Le dimanche 12 juin 2022 de  08:30:00 à  16:00:00",
+      "streets": "Le Chaland habitant dans le périmètre et les rues suivantes: Diving School,  Hotel Shandrani, Training School (NCG) et Currimjee Office",
+      "from": "2022-06-12T04:30:00.000Z",
+      "to": "2022-06-12T12:00:00.000Z",
+      "id": "44ff251a79ac0383c37f803fb100a014"
+    },
+    {
+      "date": "Le jeudi 2 juin 2022 de  09:00:00 à  12:00:00",
+      "streets": "Le Chaland habitant dans le périmètre et les rues suivantes: Diving School, Traning School (NCG) et Administrative Block Anantara",
+      "from": "2022-06-02T05:00:00.000Z",
+      "to": "2022-06-02T08:00:00.000Z",
+      "id": "462c84ca226d494deec4011261a6615c"
+    }
+  ]
+}

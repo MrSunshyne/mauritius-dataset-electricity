@@ -1,0 +1,78 @@
+{
+  "date": "2022-12-01",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.488Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le jeudi 1 décembre 2022 de  08:30:00 à  17:30:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "MORC RAMDANEE",
+      "district": "blackriver",
+      "from": "2022-12-01T04:30:00.000Z",
+      "to": "2022-12-01T13:30:00.000Z",
+      "id": "e6c68d8baa0868f4d0c3c46cf04284c4"
+    },
+    {
+      "date": "Le jeudi 1 décembre 2022 de  14:00:00 à  18:00:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "LAGREMENT,CIRCONSTANCE ST PIERRE",
+      "district": "moka",
+      "from": "2022-12-01T10:00:00.000Z",
+      "to": "2022-12-01T14:00:00.000Z",
+      "id": "eeff311a29e920c27e384e35d55e03a2"
+    },
+    {
+      "date": "Le jeudi 1 décembre 2022 de  09:00:00 à  11:00:00",
+      "locality": "CAMP DES EMBREVADES",
+      "localitySlug": "camp-des-embrevades",
+      "streets": "CAMP DES EMBRAVADES PAMPLEMOUSSES",
+      "district": "pamplemousses",
+      "from": "2022-12-01T05:00:00.000Z",
+      "to": "2022-12-01T07:00:00.000Z",
+      "id": "e9e28c51c815958160c27cd55ad81070"
+    },
+    {
+      "date": "Le jeudi 1 décembre 2022 de  07:00:00 à  16:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "NEW DOCKERS VILLAGE T.BAY",
+      "district": "pamplemousses",
+      "from": "2022-12-01T03:00:00.000Z",
+      "to": "2022-12-01T12:00:00.000Z",
+      "id": "b7d32f06c6d5ea023fe10fba94ed9153"
+    },
+    {
+      "date": "Le jeudi 1 décembre 2022 de  11:00:00 à  17:30:00",
+      "locality": "RICHE TERRE",
+      "localitySlug": "riche-terre",
+      "streets": "INDUSTRIAL ZONE RICHE TERRE",
+      "district": "pamplemousses",
+      "from": "2022-12-01T07:00:00.000Z",
+      "to": "2022-12-01T13:30:00.000Z",
+      "id": "33366e27dfe9241b6fd5cc0ad8c270bb"
+    },
+    {
+      "date": "Le jeudi 1 décembre 2022 de  15:00:00 à  17:00:00",
+      "locality": "VALENTINA",
+      "localitySlug": "valentina",
+      "streets": "ZONE INDUSTRIEL VALENTINA",
+      "district": "plainewilhems",
+      "from": "2022-12-01T11:00:00.000Z",
+      "to": "2022-12-01T13:00:00.000Z",
+      "id": "812ba5d1f1edea8f2ae8a6dc20549478"
+    },
+    {
+      "date": "Le jeudi 1 décembre 2022 de  09:00:00 à  15:00:00",
+      "locality": "CHEMIN GRENIER",
+      "localitySlug": "chemin-grenier",
+      "streets": "Lotus Road et Farlight",
+      "district": "savanne",
+      "from": "2022-12-01T05:00:00.000Z",
+      "to": "2022-12-01T11:00:00.000Z",
+      "id": "fbc60b7a61aa3cde58ca3319943b185e"
+    }
+  ]
+}

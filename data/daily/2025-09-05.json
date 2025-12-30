@@ -1,0 +1,78 @@
+{
+  "date": "2025-09-05",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.525Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le vendredi 5 septembre 2025 de  09:00:00 à  11:00:00",
+      "locality": "LE MORNE",
+      "localitySlug": "le-morne",
+      "streets": "LE MORNE, LA PRAIRIE",
+      "district": "blackriver",
+      "from": "2025-09-05T05:00:00.000Z",
+      "to": "2025-09-05T07:00:00.000Z",
+      "id": "8235c58105c05c0afa0a94445e75c600"
+    },
+    {
+      "date": "Le vendredi 5 septembre 2025 de  10:15:00 à  11:00:00",
+      "locality": "ARSENAL",
+      "localitySlug": "arsenal",
+      "streets": "DANS LES ALENTOURS DE NOUVEAU ECOLE LE NID",
+      "district": "pamplemousses",
+      "from": "2025-09-05T06:15:00.000Z",
+      "to": "2025-09-05T07:00:00.000Z",
+      "id": "1c18136951196449aefb3d19d777e4e7"
+    },
+    {
+      "date": "Le vendredi 5 septembre 2025 de  09:50:00 à  10:45:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "CUPRUS LANE, BERTHAUD LANE ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2025-09-05T05:50:00.000Z",
+      "to": "2025-09-05T06:45:00.000Z",
+      "id": "a355bbb4cba5d9a6da095ea60f9bf7e7"
+    },
+    {
+      "date": "Le vendredi 5 septembre 2025 de  16:00:00 à  17:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "CHATEAU NEUF BEAU BASSIN",
+      "district": "plainewilhems",
+      "from": "2025-09-05T12:00:00.000Z",
+      "to": "2025-09-05T13:00:00.000Z",
+      "id": "94b6f36aceddcacbaf97c326be32297d"
+    },
+    {
+      "date": "Le vendredi 5 septembre 2025 de  09:00:00 à  15:30:00",
+      "locality": "CAP MALHEUREUX",
+      "localitySlug": "cap-malheureux",
+      "streets": "PAZANAY MALLAI ROAD, PAVILLION",
+      "district": "rivieredurempart",
+      "from": "2025-09-05T05:00:00.000Z",
+      "to": "2025-09-05T11:30:00.000Z",
+      "id": "3a7e24fdfdd4fb91ae4ac6a244606790"
+    },
+    {
+      "date": "Le vendredi 5 septembre 2025 de  08:30:00 à  11:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LES ABONNES DE GRAND VAR, PETITE BUTTE ET POINTE VINGT TOUR.",
+      "district": "rodrigues",
+      "from": "2025-09-05T04:30:00.000Z",
+      "to": "2025-09-05T07:00:00.000Z",
+      "id": "01db2e0d250a3c6932409a6ccb758181"
+    },
+    {
+      "date": "Le vendredi 5 septembre 2025 de  12:00:00 à  14:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LES ABONNES DE LA FERME CITRON, LA FERME, PISTACHES, PIMENT, REPOSOIRE, BAIE TOPAZE ET CAMP PINTADE.",
+      "district": "rodrigues",
+      "from": "2025-09-05T08:00:00.000Z",
+      "to": "2025-09-05T10:00:00.000Z",
+      "id": "a07bc6d997a1e3b51541507ca382d8c4"
+    }
+  ]
+}

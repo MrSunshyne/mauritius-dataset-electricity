@@ -1,0 +1,32 @@
+{
+  "slug": "riche-bois",
+  "name": "RICHE BOIS",
+  "district": "savanne",
+  "generated": "2025-12-30T19:07:15.821Z",
+  "outageCount": 3,
+  "firstOutage": "2025-08-27",
+  "lastOutage": "2025-11-06",
+  "outages": [
+    {
+      "date": "Le jeudi 6 novembre 2025 de  12:00:00 à  17:00:00",
+      "streets": "RUE DESPEROUX,DEBOUCHERS ROCHESBOIS",
+      "from": "2025-11-06T08:00:00.000Z",
+      "to": "2025-11-06T13:00:00.000Z",
+      "id": "0da7094a8d510df9e384778d1a68c6e7"
+    },
+    {
+      "date": "Le lundi 1 septembre 2025 de  10:30:00 à  12:30:00",
+      "streets": "DESBOUCHERS ST, DESPEROUX ST ET LES ALENTOURS",
+      "from": "2025-09-01T06:30:00.000Z",
+      "to": "2025-09-01T08:30:00.000Z",
+      "id": "5a74aa36e0c5b9193207234dfcd582d6"
+    },
+    {
+      "date": "Le mercredi 27 août 2025 de  09:45:00 à  12:00:00",
+      "streets": "LA RUE DEBOUCHER",
+      "from": "2025-08-27T05:45:00.000Z",
+      "to": "2025-08-27T08:00:00.000Z",
+      "id": "ef72fd6fb3345c21ea01b7d2e1c03a0f"
+    }
+  ]
+}

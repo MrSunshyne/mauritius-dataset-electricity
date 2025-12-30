@@ -1,0 +1,58 @@
+{
+  "date": "2022-09-04",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.485Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le dimanche 4 septembre 2022 de  08:30:00 à  15:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "RESIDENCE LA FERME, LA COUR DE JUSTICE DE BAMBOUS, LE STADE GERMAIN COMARMOND ET LA CHAUMIERE TRANSFER STATION",
+      "district": "blackriver",
+      "from": "2022-09-04T04:30:00.000Z",
+      "to": "2022-09-04T11:30:00.000Z",
+      "id": "d448aee45c082f0dc9bb13c110252bbd"
+    },
+    {
+      "date": "Le dimanche 4 septembre 2022 de  08:15:00 à  17:00:00",
+      "locality": "ISIDORE ROSE",
+      "localitySlug": "isidore-rose",
+      "streets": "Isidore Rose dans les perimetres Isidore Rose Pave et Morcellement Pricom",
+      "district": "flacq",
+      "from": "2022-09-04T04:15:00.000Z",
+      "to": "2022-09-04T13:00:00.000Z",
+      "id": "6f6a5fe867119641cbc9997fec3c9356"
+    },
+    {
+      "date": "Le dimanche 4 septembre 2022 de  08:30:00 à  16:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Curepipe habitant les régions et les rues suivantes : Résidences Malherbes A et B, NHDC Malherbes, Morcellement Malherbes, Les Préverts, partie de Couvent de Lorette, partie de Clément Charoux  et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-09-04T04:30:00.000Z",
+      "to": "2022-09-04T12:00:00.000Z",
+      "id": "56c2f033ed2fe833eb0cf2a4de74df09"
+    },
+    {
+      "date": "Le dimanche 4 septembre 2022 de  08:30:00 à  16:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Palmerstone Road, Cité Palmerstone, une partie de Hazareesingh Lane, Hassan Raffa Street, Sayed Hossen Avenue Phoenix, Salabee lane, Ramputh Lane,  une partie de Pandit Jawaharlal Nehru Avenue, Beekawoo Lane, Bundhoo Lane, Sir Abdul Razack Mohamed Centre",
+      "district": "plainewilhems",
+      "from": "2022-09-04T04:30:00.000Z",
+      "to": "2022-09-04T12:00:00.000Z",
+      "id": "673f3f55ed0d2c0d6e5fd790d2926a1d"
+    },
+    {
+      "date": "Le dimanche 4 septembre 2022 de  08:30:00 à  16:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "COROMANDEL NEAR WINNERS",
+      "district": "plainewilhems",
+      "from": "2022-09-04T04:30:00.000Z",
+      "to": "2022-09-04T12:00:00.000Z",
+      "id": "a752019bd10d8297e26862eb76c14eb3"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "2023-05-27",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.495Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le samedi 27 mai 2023 de  08:30:00 à  13:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "Splendid View, Ave Curly Willow, Ave Begonia, Ave Sunflower et les environs",
+      "district": "blackriver",
+      "from": "2023-05-27T04:30:00.000Z",
+      "to": "2023-05-27T09:00:00.000Z",
+      "id": "74b70da6dcec6319ede6a97f7cb552f6"
+    },
+    {
+      "date": "Le samedi 27 mai 2023 de  15:00:00 à  16:00:00",
+      "locality": "NOUVELLE FRANCE",
+      "localitySlug": "nouvelle-france",
+      "streets": "DISPENSARY RD,KALIMAYE RD,LAMUSSE RD",
+      "district": "grandport",
+      "from": "2023-05-27T11:00:00.000Z",
+      "to": "2023-05-27T12:00:00.000Z",
+      "id": "c1ead4a2c73b22540eaa2db366948382"
+    },
+    {
+      "date": "Le samedi 27 mai 2023 de  08:00:00 à  15:00:00",
+      "locality": "NOTRE DAME",
+      "localitySlug": "notre-dame",
+      "streets": "Church Road Notre_dame",
+      "district": "pamplemousses",
+      "from": "2023-05-27T04:00:00.000Z",
+      "to": "2023-05-27T11:00:00.000Z",
+      "id": "3b836f4ceac930f6c566f78a30b40d73"
+    },
+    {
+      "date": "Le samedi 27 mai 2023 de  14:00:00 à  15:00:00",
+      "locality": "SOLFERINO",
+      "localitySlug": "solferino",
+      "streets": "SOLFERINO NO, 4: Morcellement Eden, une partie de Solferino No. 4.",
+      "district": "plainewilhems",
+      "from": "2023-05-27T10:00:00.000Z",
+      "to": "2023-05-27T11:00:00.000Z",
+      "id": "7341165e28bd1c4358c9cde6b0033f0c"
+    },
+    {
+      "date": "Le samedi 27 mai 2023 de  08:15:00 à  16:00:00",
+      "locality": "SOLFERINO",
+      "localitySlug": "solferino",
+      "streets": "Dookun Solferino No. 5, une partie de Solferino No. 4, Route Royale Camp Pave, Pommiers lane, Kalimaye lane, Hibuscus lane No. 1, No. 2 et No. 3, Cemetery Road",
+      "district": "plainewilhems",
+      "from": "2023-05-27T04:15:00.000Z",
+      "to": "2023-05-27T12:00:00.000Z",
+      "id": "64bdfe568bb9d02840ad647aac027c71"
+    },
+    {
+      "date": "Le samedi 27 mai 2023 de  12:00:00 à  13:00:00",
+      "locality": "POINTE AUX CANONNIERS",
+      "localitySlug": "pointe-aux-canonniers",
+      "streets": "LES ABONNES DE POINTE AUX CANONNIERS",
+      "district": "rodrigues",
+      "from": "2023-05-27T08:00:00.000Z",
+      "to": "2023-05-27T09:00:00.000Z",
+      "id": "a7609b265327aa1955e1a615d54957d6"
+    },
+    {
+      "date": "Le samedi 27 mai 2023 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LES ABONNES DE FOND LA DIGUE, CREVE COEUR ET TERRE ROUGE.",
+      "district": "rodrigues",
+      "from": "2023-05-27T04:30:00.000Z",
+      "to": "2023-05-27T11:00:00.000Z",
+      "id": "9217fd960c2d7a0ecb0b89645015c88e"
+    }
+  ]
+}

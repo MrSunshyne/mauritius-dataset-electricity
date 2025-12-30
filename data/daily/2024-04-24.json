@@ -1,0 +1,68 @@
+{
+  "date": "2024-04-24",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.507Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le mercredi 24 avril 2024 de  15:00:00 à  18:00:00",
+      "locality": "GROS CAILLOUX",
+      "localitySlug": "gros-cailloux",
+      "streets": "Allee Mangue, Bosquet Road, Proxy Fresh, Espace Jardin, en partie Chebel Branch Rd et les environs",
+      "district": "blackriver",
+      "from": "2024-04-24T11:00:00.000Z",
+      "to": "2024-04-24T14:00:00.000Z",
+      "id": "824eb4caeeee351a10a2eadf465acf45"
+    },
+    {
+      "date": "Le mercredi 24 avril 2024 de  09:00:00 à  12:00:00",
+      "locality": "MORC SAINT ANDRE",
+      "localitySlug": "morc-saint-andre",
+      "streets": "KALIMAYE RD-HAMLET RD MORC ST ANDRE",
+      "district": "pamplemousses",
+      "from": "2024-04-24T05:00:00.000Z",
+      "to": "2024-04-24T08:00:00.000Z",
+      "id": "8653366ac2980febd2e3a255d06dac5a"
+    },
+    {
+      "date": "Le mercredi 24 avril 2024 de  14:38:00 à  16:00:00",
+      "locality": "ARSENAL",
+      "localitySlug": "arsenal",
+      "streets": "LES ABONNES DE ARSENAL VILLAGE.",
+      "district": "pamplemousses",
+      "from": "2024-04-24T10:38:00.000Z",
+      "to": "2024-04-24T12:00:00.000Z",
+      "id": "28bc1224df6c5438c157a8ab78b62d56"
+    },
+    {
+      "date": "Le mercredi 24 avril 2024 de  09:00:00 à  16:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "Morcellement Leclezio",
+      "district": "plainewilhems",
+      "from": "2024-04-24T05:00:00.000Z",
+      "to": "2024-04-24T12:00:00.000Z",
+      "id": "42b32be60292acc8929a7d054b45762a"
+    },
+    {
+      "date": "Le mercredi 24 avril 2024 de  09:00:00 à  15:30:00",
+      "locality": "COTTAGE",
+      "localitySlug": "cottage",
+      "streets": "dans les environs de Residence CHA.",
+      "district": "rivieredurempart",
+      "from": "2024-04-24T05:00:00.000Z",
+      "to": "2024-04-24T11:30:00.000Z",
+      "id": "ff02010386b61630dcfb48c115570921"
+    },
+    {
+      "date": "Le mercredi 24 avril 2024 de  13:15:00 à  14:30:00",
+      "locality": "CAP MALHEUREUX",
+      "localitySlug": "cap-malheureux",
+      "streets": "MON MASCAL",
+      "district": "rivieredurempart",
+      "from": "2024-04-24T09:15:00.000Z",
+      "to": "2024-04-24T10:30:00.000Z",
+      "id": "ae3f1a7322469f59ddb1c88417f18d9a"
+    }
+  ]
+}

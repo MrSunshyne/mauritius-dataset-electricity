@@ -1,0 +1,58 @@
+{
+  "date": "2024-01-08",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.503Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le lundi 8 janvier 2024 de  20:00:00 à  22:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC PALMYRE",
+      "district": "blackriver",
+      "from": "2024-01-08T16:00:00.000Z",
+      "to": "2024-01-08T18:00:00.000Z",
+      "id": "57615822a0ce330068e8829ae6df1e5c"
+    },
+    {
+      "date": "Le lundi 8 janvier 2024 de  15:30:00 à  18:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "PLAINE MAGNIEN",
+      "district": "grandport",
+      "from": "2024-01-08T11:30:00.000Z",
+      "to": "2024-01-08T14:00:00.000Z",
+      "id": "16dbbebf613b564d50c37c23a56bb8e3"
+    },
+    {
+      "date": "Le lundi 8 janvier 2024 de  11:50:00 à  15:30:00",
+      "locality": "CAMP FOUQUEREAUX",
+      "localitySlug": "camp-fouquereaux",
+      "streets": "Hermitage,Belle Rive Rd,Morc Fareedun,Cinq Arpents,Tout Court Rd,",
+      "district": "plainewilhems",
+      "from": "2024-01-08T07:50:00.000Z",
+      "to": "2024-01-08T11:30:00.000Z",
+      "id": "7964a484f780b1f48abd38c8d1a45ccf"
+    },
+    {
+      "date": "Le lundi 8 janvier 2024 de  20:00:00 à  22:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "PALMA,BASSIN",
+      "district": "plainewilhems",
+      "from": "2024-01-08T16:00:00.000Z",
+      "to": "2024-01-08T18:00:00.000Z",
+      "id": "3d4b87636c3098aa0cac4495c5036cff"
+    },
+    {
+      "date": "Le lundi 8 janvier 2024 de  16:00:00 à  17:00:00",
+      "locality": "CAMP YOLOFF",
+      "localitySlug": "camp-yoloff",
+      "streets": "CAMP YOLOFF REGION",
+      "district": "portlouis",
+      "from": "2024-01-08T12:00:00.000Z",
+      "to": "2024-01-08T13:00:00.000Z",
+      "id": "27132d3a5c63f81adf3aeec2bdff83ae"
+    }
+  ]
+}

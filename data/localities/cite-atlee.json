@@ -1,0 +1,32 @@
+{
+  "slug": "cite-atlee",
+  "name": "CITE ATLEE",
+  "district": "plainewilhems",
+  "generated": "2025-12-30T19:07:15.630Z",
+  "outageCount": 3,
+  "firstOutage": "2022-04-05",
+  "lastOutage": "2025-12-30",
+  "outages": [
+    {
+      "date": "Le mardi 30 décembre 2025 de  21:15:00 à  22:15:00",
+      "streets": "CITE ATLEE",
+      "from": "2025-12-30T17:15:00.000Z",
+      "to": "2025-12-30T18:15:00.000Z",
+      "id": "6ab37e77cde9400735b603685b307dc0"
+    },
+    {
+      "date": "Le dimanche 29 janvier 2023 de  08:30:00 à  15:00:00",
+      "streets": "MOZART LANE CITE LA BRASSERIE FOREST SIDE ,CITE ATLEE",
+      "from": "2023-01-29T04:30:00.000Z",
+      "to": "2023-01-29T11:00:00.000Z",
+      "id": "d17142322b4a54747c7002e4839b5a12"
+    },
+    {
+      "date": "Le mardi 5 avril 2022 de  09:00:00 à  10:30:00",
+      "streets": "CITE ATLEE",
+      "from": "2022-04-05T05:00:00.000Z",
+      "to": "2022-04-05T06:30:00.000Z",
+      "id": "2817eeec73729acf606a17e970cea6f6"
+    }
+  ]
+}

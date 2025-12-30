@@ -1,0 +1,53 @@
+{
+  "slug": "coromondel-ind-zone",
+  "name": "COROMONDEL - IND ZONE",
+  "district": "plainewilhems",
+  "generated": "2025-12-30T19:07:15.651Z",
+  "outageCount": 6,
+  "firstOutage": "2024-01-14",
+  "lastOutage": "2025-12-08",
+  "outages": [
+    {
+      "date": "Le lundi 8 décembre 2025 de  19:00:00 à  23:00:00",
+      "streets": "MONTE EST COROMANDEL",
+      "from": "2025-12-08T15:00:00.000Z",
+      "to": "2025-12-08T19:00:00.000Z",
+      "id": "07a12eca12656d830571e1f49aef7cbd"
+    },
+    {
+      "date": "Le dimanche 30 novembre 2025 de  08:00:00 à  14:00:00",
+      "streets": "LES ABONNES DE LA ZONE INDUSTRIELLE DE COROMANDEL",
+      "from": "2025-11-30T04:00:00.000Z",
+      "to": "2025-11-30T10:00:00.000Z",
+      "id": "250bc8d8a5eb349d50129283321d546e"
+    },
+    {
+      "date": "Le mardi 19 novembre 2024 de  16:30:00 à  17:15:00",
+      "streets": "COROMANDEL IND ZONE",
+      "from": "2024-11-19T12:30:00.000Z",
+      "to": "2024-11-19T13:15:00.000Z",
+      "id": "8a48de425c9caa768880d9ae36318be4"
+    },
+    {
+      "date": "Le jeudi 13 juin 2024 de  09:50:00 à  10:30:00",
+      "streets": "Industrial Zone Coromandel",
+      "from": "2024-06-13T05:50:00.000Z",
+      "to": "2024-06-13T06:30:00.000Z",
+      "id": "d4f91e5de9a1f8e1796376a0d35ec3b3"
+    },
+    {
+      "date": "Le mercredi 12 juin 2024 de  17:00:00 à  18:00:00",
+      "streets": "ZONE INDUSTRIELLE COROMANDEL.",
+      "from": "2024-06-12T13:00:00.000Z",
+      "to": "2024-06-12T14:00:00.000Z",
+      "id": "ad200941c389e39807f6a66d1c5e8898"
+    },
+    {
+      "date": "Le dimanche 14 janvier 2024 de  12:00:00 à  17:00:00",
+      "streets": "ZONE INDUSTRIELLE COROMANDEL",
+      "from": "2024-01-14T08:00:00.000Z",
+      "to": "2024-01-14T13:00:00.000Z",
+      "id": "289b92ade29685931d273410454f245d"
+    }
+  ]
+}

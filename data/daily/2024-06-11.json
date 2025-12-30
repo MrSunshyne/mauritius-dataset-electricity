@@ -1,0 +1,68 @@
+{
+  "date": "2024-06-11",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.509Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le mardi 11 juin 2024 de  09:50:00 à  11:50:00",
+      "locality": "LA GAULETTE",
+      "localitySlug": "la-gaulette",
+      "streets": "LA GAULETTE DANS LES ENVIRONS DE L-EGLISE.",
+      "district": "blackriver",
+      "from": "2024-06-11T05:50:00.000Z",
+      "to": "2024-06-11T07:50:00.000Z",
+      "id": "161820b25b2b5d1886748f3033db0caa"
+    },
+    {
+      "date": "Le mardi 11 juin 2024 de  08:30:00 à  17:00:00",
+      "locality": "RIVIERE DES CREOLES",
+      "localitySlug": "riviere-des-creoles",
+      "streets": "Rivière Des Créoles habitant dans le périmètre et les rues suivantes: Rishi Dayanand Street, Vulture Street, Nightingale Street, Peacock Street, Hirondelle Street, Paille En Queue et Morcellement Ferney",
+      "district": "grandport",
+      "from": "2024-06-11T04:30:00.000Z",
+      "to": "2024-06-11T13:00:00.000Z",
+      "id": "ac8769111257ee47f5962f9f6c17b5b8"
+    },
+    {
+      "date": "Le mardi 11 juin 2024 de  09:50:00 à  15:00:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "MORC BLUEPRINT HIGHLANDS.",
+      "district": "plainewilhems",
+      "from": "2024-06-11T05:50:00.000Z",
+      "to": "2024-06-11T11:00:00.000Z",
+      "id": "60e5e09ab60e2850e572603a7e4e79bb"
+    },
+    {
+      "date": "Le mardi 11 juin 2024 de  09:00:00 à  16:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Une partie de Saint Clement Street, Une partie de Gustav Bestel et une partie d’Edgard Laurent Street",
+      "district": "plainewilhems",
+      "from": "2024-06-11T05:00:00.000Z",
+      "to": "2024-06-11T12:00:00.000Z",
+      "id": "8ec35f1305fe66da297ea62814eb9800"
+    },
+    {
+      "date": "Le mardi 11 juin 2024 de  13:15:00 à  14:30:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "CHEMIN RAGHOOPUTH, MANILALL BEEHARRY, EN PARTIE RUE EUCALYPTUS ET EN PARTIE RUE CANAL.",
+      "district": "plainewilhems",
+      "from": "2024-06-11T09:15:00.000Z",
+      "to": "2024-06-11T10:30:00.000Z",
+      "id": "6f62203ba9d03683f907779442971605"
+    },
+    {
+      "date": "Le mardi 11 juin 2024 de  11:00:00 à  13:30:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "ROYAL ROAD VALLEE DES PRETRE DANS LES ENVIRONS CIMETIERE SIPAILLES BRULEE.",
+      "district": "portlouis",
+      "from": "2024-06-11T07:00:00.000Z",
+      "to": "2024-06-11T09:30:00.000Z",
+      "id": "72032339e6890d8f36e44fe44e22e2fb"
+    }
+  ]
+}

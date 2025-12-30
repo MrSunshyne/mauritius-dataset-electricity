@@ -1,0 +1,78 @@
+{
+  "date": "2022-11-13",
+  "timezone": "Indian/Mauritius",
+  "generated": "2025-12-30T19:07:15.488Z",
+  "outageCount": 7,
+  "outages": [
+    {
+      "date": "Le dimanche 13 novembre 2022 de  19:30:00 à  20:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "VILLA CAROLINE",
+      "district": "blackriver",
+      "from": "2022-11-13T15:30:00.000Z",
+      "to": "2022-11-13T16:30:00.000Z",
+      "id": "d1234dd040c249c6166fe03792f52bb3"
+    },
+    {
+      "date": "Le dimanche 13 novembre 2022 de  08:30:00 à  16:30:00",
+      "locality": "CAROLINE BEL AIR",
+      "localitySlug": "caroline-bel-air",
+      "streets": "CAROLINE",
+      "district": "flacq",
+      "from": "2022-11-13T04:30:00.000Z",
+      "to": "2022-11-13T12:30:00.000Z",
+      "id": "9ea64a3c4454e835b3f9d9cfb7216d4b"
+    },
+    {
+      "date": "Le dimanche 13 novembre 2022 de  08:30:00 à  17:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "Plaine Magnien habitant dans le périmètre et les rues suivantes: Awatar Lane, Balance Road, une partie de Grotto Lane et une partie de la Route Royale Plaine Magnien",
+      "district": "grandport",
+      "from": "2022-11-13T04:30:00.000Z",
+      "to": "2022-11-13T13:00:00.000Z",
+      "id": "bee8b61e41f0cfa18d9158be1a5cf54a"
+    },
+    {
+      "date": "Le dimanche 13 novembre 2022 de  08:30:00 à  15:30:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "Les abonnés habitant dès Route Côtière Trou Aux Biches, Morcellement Sagittaire Trou Aux Biches, Morcellement Ellayah, Morcellement Tobago, Route Père Laval, Morcellement Astitva, Morcellement Ramdanee et Route Côtière Pointe Aux Biches",
+      "district": "pamplemousses",
+      "from": "2022-11-13T04:30:00.000Z",
+      "to": "2022-11-13T11:30:00.000Z",
+      "id": "b0f7ef5e77845fe674bf0a6f8c311974"
+    },
+    {
+      "date": "Le dimanche 13 novembre 2022 de  08:30:00 à  16:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Les abonnés de Les Casernes, Curepipe habitant les rues et les régions suivantes : Partie de Robinson, School, Hard Line, Morcellement Riverland, Oconor, Cité Casernes et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2022-11-13T04:30:00.000Z",
+      "to": "2022-11-13T12:00:00.000Z",
+      "id": "472763cf811072301a3dd7960271c9ca"
+    },
+    {
+      "date": "Le dimanche 13 novembre 2022 de  08:30:00 à  16:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "Morcellement Medine, Morcellement GIDC, une partie de Route Ligne-Berthaud, Pandamanikum Lane, Chellapen Lane, une partie de Route Sadally, Molvi Lane",
+      "district": "plainewilhems",
+      "from": "2022-11-13T04:30:00.000Z",
+      "to": "2022-11-13T12:00:00.000Z",
+      "id": "5672898fd89a06f71137b7187b6ec831"
+    },
+    {
+      "date": "Le dimanche 13 novembre 2022 de  08:30:00 à  16:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Morcellement Medine, Morcellement GIDC, une partie de Route Ligne-Berthaud, Pandamanikum Lane, Chellapen Lane, une partie de Route Sadally, Molvi Lane",
+      "district": "plainewilhems",
+      "from": "2022-11-13T04:30:00.000Z",
+      "to": "2022-11-13T12:00:00.000Z",
+      "id": "3c625303b8afd7698ae7b5213a60b655"
+    }
+  ]
+}
