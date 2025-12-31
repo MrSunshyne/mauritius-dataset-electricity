@@ -1,9 +1,19 @@
 {
   "date": "2025-12-31",
   "timezone": "Indian/Mauritius",
-  "generated": "2025-12-31T06:01:48.877Z",
-  "outageCount": 1,
+  "generated": "2025-12-31T07:02:54.154Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le mercredi 31 décembre 2025 de  11:00:00 à  12:00:00",
+      "locality": "GRAND BEL AIR",
+      "localitySlug": "grand-bel-air",
+      "streets": "MORC VRS",
+      "district": "flacq",
+      "from": "2025-12-31T07:00:00.000Z",
+      "to": "2025-12-31T08:00:00.000Z",
+      "id": "84481ba88107a3dcab2499ceb35d93c0"
+    },
     {
       "date": "Le mercredi 31 décembre 2025 de  09:15:00 à  11:15:00",
       "locality": "TROU AUX BICHES",

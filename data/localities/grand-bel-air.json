@@ -2,11 +2,18 @@
   "slug": "grand-bel-air",
   "name": "GRAND BEL AIR",
   "district": "flacq",
-  "generated": "2025-12-31T06:01:49.028Z",
-  "outageCount": 28,
+  "generated": "2025-12-31T07:02:54.307Z",
+  "outageCount": 29,
   "firstOutage": "2022-06-14",
-  "lastOutage": "2025-12-30",
+  "lastOutage": "2025-12-31",
   "outages": [
+    {
+      "date": "Le mercredi 31 décembre 2025 de  11:00:00 à  12:00:00",
+      "streets": "MORC VRS",
+      "from": "2025-12-31T07:00:00.000Z",
+      "to": "2025-12-31T08:00:00.000Z",
+      "id": "84481ba88107a3dcab2499ceb35d93c0"
+    },
     {
       "date": "Le mardi 30 décembre 2025 de  10:00:00 à  12:00:00",
       "streets": "NHDC, ROYAL ROAD AND PART OF MORC RUISSEAU DELICE",
