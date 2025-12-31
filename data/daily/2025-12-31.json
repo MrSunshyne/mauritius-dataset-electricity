@@ -1,8 +1,8 @@
 {
   "date": "2025-12-31",
   "timezone": "Indian/Mauritius",
-  "generated": "2025-12-31T09:02:54.011Z",
-  "outageCount": 2,
+  "generated": "2025-12-31T10:01:10.512Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le mercredi 31 décembre 2025 de  11:00:00 à  12:00:00",
@@ -23,6 +23,16 @@
       "from": "2025-12-31T05:15:00.000Z",
       "to": "2025-12-31T07:15:00.000Z",
       "id": "c487e9c84b0b914d49ad2ffad562615a"
+    },
+    {
+      "date": "Le mercredi 31 décembre 2025 de  13:45:00 à  15:00:00",
+      "locality": "CAMP DIABLE",
+      "localitySlug": "camp-diable",
+      "streets": "PART OF CAMP DIABLE",
+      "district": "savanne",
+      "from": "2025-12-31T09:45:00.000Z",
+      "to": "2025-12-31T11:00:00.000Z",
+      "id": "472e4bb7a41c55a42b910f2943260a60"
     }
   ]
 }
