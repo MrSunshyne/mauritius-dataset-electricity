@@ -2,11 +2,18 @@
   "slug": "trou-aux-biches",
   "name": "TROU AUX BICHES",
   "district": "pamplemousses",
-  "generated": "2025-12-30T19:07:53.034Z",
-  "outageCount": 51,
+  "generated": "2025-12-31T06:01:49.236Z",
+  "outageCount": 52,
   "firstOutage": "2022-04-10",
-  "lastOutage": "2025-12-19",
+  "lastOutage": "2025-12-31",
   "outages": [
+    {
+      "date": "Le mercredi 31 décembre 2025 de  09:15:00 à  11:15:00",
+      "streets": "TROU AUX BICHES VILLAGE FROM SUPERMARKET POPO UP TO NEMORIN GOVT SCHOOL",
+      "from": "2025-12-31T05:15:00.000Z",
+      "to": "2025-12-31T07:15:00.000Z",
+      "id": "c487e9c84b0b914d49ad2ffad562615a"
+    },
     {
       "date": "Le vendredi 19 décembre 2025 de  12:30:00 à  14:00:00",
       "streets": "MORC JUBHOO TROU AUX BICHES",
