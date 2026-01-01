@@ -1,9 +1,19 @@
 {
   "date": "2026-01-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-01T12:01:57.370Z",
-  "outageCount": 3,
+  "generated": "2026-01-01T13:11:20.756Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le jeudi 1 janvier 2026 de  15:20:00 à  18:30:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "MORC NEW TOWN",
+      "district": "plainewilhems",
+      "from": "2026-01-01T11:20:00.000Z",
+      "to": "2026-01-01T14:30:00.000Z",
+      "id": "f4a582498cccccd899e32de52ae48bab"
+    },
     {
       "date": "Le jeudi 1 janvier 2026 de  09:40:00 à  10:30:00",
       "locality": "RIVIERE DU REMPART",

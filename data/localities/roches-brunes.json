@@ -2,11 +2,18 @@
   "slug": "roches-brunes",
   "name": "ROCHES BRUNES",
   "district": "plainewilhems",
-  "generated": "2026-01-01T12:01:57.687Z",
-  "outageCount": 20,
+  "generated": "2026-01-01T13:11:21.082Z",
+  "outageCount": 21,
   "firstOutage": "2022-10-01",
-  "lastOutage": "2025-11-24",
+  "lastOutage": "2026-01-01",
   "outages": [
+    {
+      "date": "Le jeudi 1 janvier 2026 de  15:20:00 à  18:30:00",
+      "streets": "MORC NEW TOWN",
+      "from": "2026-01-01T11:20:00.000Z",
+      "to": "2026-01-01T14:30:00.000Z",
+      "id": "f4a582498cccccd899e32de52ae48bab"
+    },
     {
       "date": "Le lundi 24 novembre 2025 de  08:30:00 à  17:00:00",
       "streets": "Ave Aldrin, Ave des Flamboyants, Ave La Comete, Ave Armstrong, Ave Roches-Brunes et les environs",
