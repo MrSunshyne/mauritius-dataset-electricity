@@ -1,8 +1,8 @@
 {
   "date": "2026-01-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-01T11:00:58.466Z",
-  "outageCount": 1,
+  "generated": "2026-01-01T12:01:57.370Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le jeudi 1 janvier 2026 de  09:40:00 à  10:30:00",
@@ -13,6 +13,26 @@
       "from": "2026-01-01T05:40:00.000Z",
       "to": "2026-01-01T06:30:00.000Z",
       "id": "19252c45785069f6474f5a97870aac8c"
+    },
+    {
+      "date": "Le jeudi 1 janvier 2026 de  15:20:00 à  18:30:00",
+      "locality": "ROCHES NOIRES",
+      "localitySlug": "roches-noires",
+      "streets": "MORC NEW TOWN",
+      "district": "rivieredurempart",
+      "from": "2026-01-01T11:20:00.000Z",
+      "to": "2026-01-01T14:30:00.000Z",
+      "id": "f34f54df499c47d071f7ab294cfbce25"
+    },
+    {
+      "date": "Le jeudi 1 janvier 2026 de  15:15:00 à  18:15:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "MORC SWAN AND SURROUNDINGS",
+      "district": "rivieredurempart",
+      "from": "2026-01-01T11:15:00.000Z",
+      "to": "2026-01-01T14:15:00.000Z",
+      "id": "415ba53bc859fe69293b43e43b5db736"
     }
   ]
 }

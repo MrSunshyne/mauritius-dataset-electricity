@@ -2,11 +2,18 @@
   "slug": "roches-noires",
   "name": "ROCHES NOIRES",
   "district": "rivieredurempart",
-  "generated": "2026-01-01T11:00:58.785Z",
-  "outageCount": 27,
+  "generated": "2026-01-01T12:01:57.688Z",
+  "outageCount": 28,
   "firstOutage": "2022-06-03",
-  "lastOutage": "2025-12-30",
+  "lastOutage": "2026-01-01",
   "outages": [
+    {
+      "date": "Le jeudi 1 janvier 2026 de  15:20:00 à  18:30:00",
+      "streets": "MORC NEW TOWN",
+      "from": "2026-01-01T11:20:00.000Z",
+      "to": "2026-01-01T14:30:00.000Z",
+      "id": "f34f54df499c47d071f7ab294cfbce25"
+    },
     {
       "date": "Le mardi 30 décembre 2025 de  09:30:00 à  11:30:00",
       "streets": "Royal,John Milton,School Roads",
