@@ -1,8 +1,8 @@
 {
   "date": "2026-01-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-01T14:01:02.661Z",
-  "outageCount": 4,
+  "generated": "2026-01-01T15:01:13.324Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le jeudi 1 janvier 2026 de  15:20:00 à  18:30:00",
@@ -43,6 +43,16 @@
       "from": "2026-01-01T11:15:00.000Z",
       "to": "2026-01-01T14:15:00.000Z",
       "id": "415ba53bc859fe69293b43e43b5db736"
+    },
+    {
+      "date": "Le jeudi 1 janvier 2026 de  17:00:00 à  20:30:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "REGION GRAND GAUBE",
+      "district": "rivieredurempart",
+      "from": "2026-01-01T13:00:00.000Z",
+      "to": "2026-01-01T16:30:00.000Z",
+      "id": "29e2cdaaebe4be34efa16f771ec249a6"
     }
   ]
 }
