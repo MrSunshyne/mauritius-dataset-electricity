@@ -2,11 +2,18 @@
   "slug": "saint-pierre",
   "name": "SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-01-01T18:01:41.824Z",
-  "outageCount": 54,
+  "generated": "2026-01-02T06:01:59.256Z",
+  "outageCount": 55,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2025-11-11",
+  "lastOutage": "2026-01-02",
   "outages": [
+    {
+      "date": "Le vendredi 2 janvier 2026 de  09:00:00 à  11:00:00",
+      "streets": "REGION REDUIT/MOKA/SAINT PIERRE",
+      "from": "2026-01-02T05:00:00.000Z",
+      "to": "2026-01-02T07:00:00.000Z",
+      "id": "4014f83f2b4db573c658ef4df9060630"
+    },
     {
       "date": "Le mardi 11 novembre 2025 de  16:00:00 à  17:30:00",
       "streets": "MORCELLEMENT BLUEPRINT, CIRCONSTANCE, VILLAGE DE L-AVENIR, SCHOOL LANE, MOHIT ROAD ET MORC VRS No 1.",

@@ -1,0 +1,28 @@
+{
+  "date": "2026-01-02",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-01-02T06:01:58.938Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le vendredi 2 janvier 2026 de  09:00:00 à  11:00:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "REGION REDUIT/MOKA/SAINT PIERRE",
+      "district": "moka",
+      "from": "2026-01-02T05:00:00.000Z",
+      "to": "2026-01-02T07:00:00.000Z",
+      "id": "4014f83f2b4db573c658ef4df9060630"
+    },
+    {
+      "date": "Le vendredi 2 janvier 2026 de  07:00:00 à  11:00:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "FLEURY SUR MER TROU AUX BICHES",
+      "district": "pamplemousses",
+      "from": "2026-01-02T03:00:00.000Z",
+      "to": "2026-01-02T07:00:00.000Z",
+      "id": "73fefb6078ac2142e33df18f8d75f205"
+    }
+  ]
+}
