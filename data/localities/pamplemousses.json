@@ -2,11 +2,18 @@
   "slug": "pamplemousses",
   "name": "PAMPLEMOUSSES",
   "district": "pamplemousses",
-  "generated": "2026-01-03T06:01:11.051Z",
-  "outageCount": 53,
+  "generated": "2026-01-03T07:01:34.464Z",
+  "outageCount": 54,
   "firstOutage": "2022-05-08",
-  "lastOutage": "2025-10-07",
+  "lastOutage": "2026-01-03",
   "outages": [
+    {
+      "date": "Le samedi 3 janvier 2026 de  10:40:00 à  14:00:00",
+      "streets": "6EME MILLE PAMPLEMOUSSES-CALEBASSES DANS LES ENVIRONS ANGEL BOOKSHOP.",
+      "from": "2026-01-03T06:40:00.000Z",
+      "to": "2026-01-03T10:00:00.000Z",
+      "id": "4af41ddd971c0477e322bd5b56626b7d"
+    },
     {
       "date": "Le mardi 7 octobre 2025 de  10:40:00 à  11:45:00",
       "streets": "CITE EDC",
