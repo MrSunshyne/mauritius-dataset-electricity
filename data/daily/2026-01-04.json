@@ -1,8 +1,8 @@
 {
   "date": "2026-01-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-04T09:01:08.207Z",
-  "outageCount": 2,
+  "generated": "2026-01-04T10:01:00.344Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le dimanche 4 janvier 2026 de  10:40:00 à  13:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-01-04T06:40:00.000Z",
       "to": "2026-01-04T09:00:00.000Z",
       "id": "69c83292f4bfab05f0884e5de12e60cb"
+    },
+    {
+      "date": "Le dimanche 4 janvier 2026 de  13:45:00 à  18:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "GUY ROSEMON ST, BERTHAUD ST, DR MANILALL ST, DR JEETOO ST, CRETIN ST, STANLEY, BOUNDARY RD ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2026-01-04T09:45:00.000Z",
+      "to": "2026-01-04T14:00:00.000Z",
+      "id": "38d951a29ff1bc907958e6405252989a"
     },
     {
       "date": "Le dimanche 4 janvier 2026 de  12:10:00 à  14:15:00",

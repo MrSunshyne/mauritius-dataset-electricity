@@ -2,11 +2,18 @@
   "slug": "beau-bassin",
   "name": "BEAU BASSIN",
   "district": "plainewilhems",
-  "generated": "2026-01-04T09:01:08.245Z",
-  "outageCount": 152,
+  "generated": "2026-01-04T10:01:00.381Z",
+  "outageCount": 153,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2025-12-14",
+  "lastOutage": "2026-01-04",
   "outages": [
+    {
+      "date": "Le dimanche 4 janvier 2026 de  13:45:00 à  18:00:00",
+      "streets": "GUY ROSEMON ST, BERTHAUD ST, DR MANILALL ST, DR JEETOO ST, CRETIN ST, STANLEY, BOUNDARY RD ET LES ALENTOURS",
+      "from": "2026-01-04T09:45:00.000Z",
+      "to": "2026-01-04T14:00:00.000Z",
+      "id": "38d951a29ff1bc907958e6405252989a"
+    },
     {
       "date": "Le dimanche 14 décembre 2025 de  08:30:00 à  15:30:00",
       "streets": "Dupont St, Morrison St, Maganlall Desai, M. de Medine St, Beyte St, Dr S. Peerbye St et Impasse Dupont",
