@@ -2,11 +2,18 @@
   "slug": "beau-songe",
   "name": "BEAU SONGE",
   "district": "blackriver",
-  "generated": "2026-01-04T06:01:56.061Z",
-  "outageCount": 19,
+  "generated": "2026-01-04T07:02:32.578Z",
+  "outageCount": 20,
   "firstOutage": "2023-05-09",
-  "lastOutage": "2025-12-16",
+  "lastOutage": "2026-01-04",
   "outages": [
+    {
+      "date": "Le dimanche 4 janvier 2026 de  10:40:00 à  13:00:00",
+      "streets": "VILLAGE BEAU SONGE",
+      "from": "2026-01-04T06:40:00.000Z",
+      "to": "2026-01-04T09:00:00.000Z",
+      "id": "69c83292f4bfab05f0884e5de12e60cb"
+    },
     {
       "date": "Le mardi 16 décembre 2025 de  08:30:00 à  15:30:00",
       "streets": "VILLAGE DE BEAUX SONGES, NSLD BEAUX SONGES ET CWA BEAUX SONGES",
