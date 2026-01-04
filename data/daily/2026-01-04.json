@@ -1,8 +1,8 @@
 {
   "date": "2026-01-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-04T08:01:06.047Z",
-  "outageCount": 1,
+  "generated": "2026-01-04T09:01:08.207Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le dimanche 4 janvier 2026 de  10:40:00 à  13:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-01-04T06:40:00.000Z",
       "to": "2026-01-04T09:00:00.000Z",
       "id": "69c83292f4bfab05f0884e5de12e60cb"
+    },
+    {
+      "date": "Le dimanche 4 janvier 2026 de  12:10:00 à  14:15:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "ROYAL ROAD ET DANS LES ALENTOURS DE ANIMALIA",
+      "district": "rivieredurempart",
+      "from": "2026-01-04T08:10:00.000Z",
+      "to": "2026-01-04T10:15:00.000Z",
+      "id": "6fd743842a680a9d25ff49538742ce06"
     }
   ]
 }
