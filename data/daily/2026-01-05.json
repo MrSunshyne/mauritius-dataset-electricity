@@ -1,8 +1,8 @@
 {
   "date": "2026-01-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-05T12:02:02.582Z",
-  "outageCount": 5,
+  "generated": "2026-01-05T13:14:13.195Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le lundi 5 janvier 2026 de  09:30:00 à  12:30:00",
@@ -43,6 +43,16 @@
       "from": "2026-01-05T05:30:00.000Z",
       "to": "2026-01-05T07:00:00.000Z",
       "id": "39c629f0f83511ac4c7d43004d1e3e46"
+    },
+    {
+      "date": "Le lundi 5 janvier 2026 de  16:00:00 à  20:00:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "CHEMIN MOSQUE, CHEMIN CAMPEMENT ET LES ENVIRONS.",
+      "district": "plainewilhems",
+      "from": "2026-01-05T12:00:00.000Z",
+      "to": "2026-01-05T16:00:00.000Z",
+      "id": "412566bb34ab3650c05a34e0b13e5445"
     },
     {
       "date": "Le lundi 5 janvier 2026 de  10:54:00 à  13:00:00",

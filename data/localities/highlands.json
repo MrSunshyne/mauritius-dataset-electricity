@@ -2,11 +2,18 @@
   "slug": "highlands",
   "name": "HIGHLANDS",
   "district": "plainewilhems",
-  "generated": "2026-01-05T12:02:02.750Z",
-  "outageCount": 63,
+  "generated": "2026-01-05T13:14:13.360Z",
+  "outageCount": 64,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2025-12-11",
+  "lastOutage": "2026-01-05",
   "outages": [
+    {
+      "date": "Le lundi 5 janvier 2026 de  16:00:00 à  20:00:00",
+      "streets": "CHEMIN MOSQUE, CHEMIN CAMPEMENT ET LES ENVIRONS.",
+      "from": "2026-01-05T12:00:00.000Z",
+      "to": "2026-01-05T16:00:00.000Z",
+      "id": "412566bb34ab3650c05a34e0b13e5445"
+    },
     {
       "date": "Le jeudi 11 décembre 2025 de  12:15:00 à  17:00:00",
       "streets": "TOUT COURT LANE",
