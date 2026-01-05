@@ -2,11 +2,18 @@
   "slug": "bois-cheri",
   "name": "BOIS CHERI",
   "district": "savanne",
-  "generated": "2026-01-05T06:03:20.804Z",
-  "outageCount": 29,
+  "generated": "2026-01-05T07:06:36.340Z",
+  "outageCount": 30,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2025-12-14",
+  "lastOutage": "2026-01-05",
   "outages": [
+    {
+      "date": "Le lundi 5 janvier 2026 de  10:54:00 à  12:54:00",
+      "streets": "near school,cooky jar",
+      "from": "2026-01-05T06:54:00.000Z",
+      "to": "2026-01-05T08:54:00.000Z",
+      "id": "9184c950420d21f264cee8c6901b11f5"
+    },
     {
       "date": "Le dimanche 14 décembre 2025 de  12:00:00 à  14:00:00",
       "streets": "REGION BOIS CHERIE,LA FLORA,NOUVELLE FRANCE,MARE TABAC,BEAU CLIMAT.GRAND BOIS.GROS BOIS",

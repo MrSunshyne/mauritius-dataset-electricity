@@ -1,8 +1,8 @@
 {
   "date": "2026-01-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-05T06:03:20.747Z",
-  "outageCount": 3,
+  "generated": "2026-01-05T07:06:36.282Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le lundi 5 janvier 2026 de  09:30:00 à  12:30:00",
@@ -25,6 +25,16 @@
       "id": "a4785a3e22646608b41535f948f6b0b5"
     },
     {
+      "date": "Le lundi 5 janvier 2026 de  10:30:00 à  11:30:00",
+      "locality": "UPPER DAGOTIERE",
+      "localitySlug": "upper-dagotiere",
+      "streets": "upper dagotiere",
+      "district": "moka",
+      "from": "2026-01-05T06:30:00.000Z",
+      "to": "2026-01-05T07:30:00.000Z",
+      "id": "0890ad1696065e409e418c78286d629a"
+    },
+    {
       "date": "Le lundi 5 janvier 2026 de  09:30:00 à  11:00:00",
       "locality": "WOOTUN",
       "localitySlug": "wootun",
@@ -33,6 +43,16 @@
       "from": "2026-01-05T05:30:00.000Z",
       "to": "2026-01-05T07:00:00.000Z",
       "id": "39c629f0f83511ac4c7d43004d1e3e46"
+    },
+    {
+      "date": "Le lundi 5 janvier 2026 de  10:54:00 à  12:54:00",
+      "locality": "BOIS CHERI",
+      "localitySlug": "bois-cheri",
+      "streets": "near school,cooky jar",
+      "district": "savanne",
+      "from": "2026-01-05T06:54:00.000Z",
+      "to": "2026-01-05T08:54:00.000Z",
+      "id": "9184c950420d21f264cee8c6901b11f5"
     }
   ]
 }

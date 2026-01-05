@@ -2,11 +2,18 @@
   "slug": "upper-dagotiere",
   "name": "UPPER DAGOTIERE",
   "district": "moka",
-  "generated": "2026-01-05T06:03:21.115Z",
-  "outageCount": 12,
+  "generated": "2026-01-05T07:06:36.643Z",
+  "outageCount": 13,
   "firstOutage": "2022-06-07",
-  "lastOutage": "2025-10-23",
+  "lastOutage": "2026-01-05",
   "outages": [
+    {
+      "date": "Le lundi 5 janvier 2026 de  10:30:00 à  11:30:00",
+      "streets": "upper dagotiere",
+      "from": "2026-01-05T06:30:00.000Z",
+      "to": "2026-01-05T07:30:00.000Z",
+      "id": "0890ad1696065e409e418c78286d629a"
+    },
     {
       "date": "Le jeudi 23 octobre 2025 de  09:30:00 à  14:00:00",
       "streets": "dans les périmètres et rues suivantes : NHDC Dagotiere, Dausoa road et avoisinantes",

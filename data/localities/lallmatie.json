@@ -2,11 +2,18 @@
   "slug": "lallmatie",
   "name": "LALLMATIE",
   "district": "flacq",
-  "generated": "2026-01-05T06:03:20.939Z",
-  "outageCount": 25,
+  "generated": "2026-01-05T07:06:36.471Z",
+  "outageCount": 26,
   "firstOutage": "2022-10-04",
-  "lastOutage": "2025-11-22",
+  "lastOutage": "2026-01-06",
   "outages": [
+    {
+      "date": "Le mardi 6 janvier 2026 de  08:30:00 à  15:00:00",
+      "streets": "LALLMATIE, DANS LES ENVIRONS DE GIRODAY, MAHATMA RD, ET EN PARTIE MISSION CROSS RD.",
+      "from": "2026-01-06T04:30:00.000Z",
+      "to": "2026-01-06T11:00:00.000Z",
+      "id": "3bb86a460574697547c468736a6b0e85"
+    },
     {
       "date": "Le samedi 22 novembre 2025 de  09:15:00 à  15:00:00",
       "streets": "BEECHOOK,BRANCH,MAHATMA RDS,SWEAT SUN LALLMATIE",
