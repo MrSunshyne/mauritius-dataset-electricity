@@ -2,11 +2,18 @@
   "slug": "saint-hubert",
   "name": "SAINT HUBERT",
   "district": "grandport",
-  "generated": "2026-01-04T18:01:05.558Z",
-  "outageCount": 12,
+  "generated": "2026-01-05T06:03:21.078Z",
+  "outageCount": 13,
   "firstOutage": "2022-05-13",
-  "lastOutage": "2025-10-16",
+  "lastOutage": "2026-01-05",
   "outages": [
+    {
+      "date": "Le lundi 5 janvier 2026 de  09:10:00 à  11:00:00",
+      "streets": "MORC HENRY, JAUWOO LANE, VANAPILLAY ST AND PART OF ROYAL ROAD",
+      "from": "2026-01-05T05:10:00.000Z",
+      "to": "2026-01-05T07:00:00.000Z",
+      "id": "a4785a3e22646608b41535f948f6b0b5"
+    },
     {
       "date": "Le jeudi 16 octobre 2025 de  08:30:00 à  14:00:00",
       "streets": "Saint Hubert & Mare Chicose",

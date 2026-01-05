@@ -2,11 +2,18 @@
   "slug": "wootun",
   "name": "WOOTUN",
   "district": "plainewilhems",
-  "generated": "2026-01-04T18:01:05.609Z",
-  "outageCount": 19,
+  "generated": "2026-01-05T06:03:21.129Z",
+  "outageCount": 20,
   "firstOutage": "2022-08-05",
-  "lastOutage": "2025-12-18",
+  "lastOutage": "2026-01-05",
   "outages": [
+    {
+      "date": "Le lundi 5 janvier 2026 de  09:30:00 à  11:00:00",
+      "streets": "dans les environs de Morc Richwood",
+      "from": "2026-01-05T05:30:00.000Z",
+      "to": "2026-01-05T07:00:00.000Z",
+      "id": "39c629f0f83511ac4c7d43004d1e3e46"
+    },
     {
       "date": "Le jeudi 18 décembre 2025 de  13:30:00 à  15:00:00",
       "streets": "dans les environs de NHDC Lily et Surat",

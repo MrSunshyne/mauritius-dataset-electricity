@@ -2,11 +2,18 @@
   "slug": "mahebourg",
   "name": "MAHEBOURG",
   "district": "grandport",
-  "generated": "2026-01-04T18:01:05.431Z",
-  "outageCount": 68,
+  "generated": "2026-01-05T06:03:20.950Z",
+  "outageCount": 69,
   "firstOutage": "2022-04-07",
-  "lastOutage": "2025-12-12",
+  "lastOutage": "2026-01-05",
   "outages": [
+    {
+      "date": "Le lundi 5 janvier 2026 de  09:30:00 à  12:30:00",
+      "streets": "DOOLAR LANE, ROBILLARD LANE & NATIVE LODGE & SPA",
+      "from": "2026-01-05T05:30:00.000Z",
+      "to": "2026-01-05T08:30:00.000Z",
+      "id": "4dd0ad6360ab6d8ced65aed533a7afdf"
+    },
     {
       "date": "Le vendredi 12 décembre 2025 de  10:45:00 à  12:00:00",
       "streets": "PART OF MAHEBOURG",
