@@ -1,8 +1,8 @@
 {
   "date": "2026-01-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-06T12:02:05.622Z",
-  "outageCount": 2,
+  "generated": "2026-01-06T13:12:44.863Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le jeudi 8 janvier 2026 de  08:45:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-01-08T04:45:00.000Z",
       "to": "2026-01-08T13:00:00.000Z",
       "id": "601c15a49188c1c5e501a730a2913e65"
+    },
+    {
+      "date": "Le jeudi 8 janvier 2026 de  16:00:00 à  17:00:00",
+      "locality": "TROU D-EAU DOUCE",
+      "localitySlug": "trou-d-eau-douce",
+      "streets": "Trou D’Eau Douce dans le périmètre de Coastal Rd, La Pelouse, Le Mao, Four a Chaud, Cite Millionaire, Route Royale, Nowbuth Rd Et Le Chemin avoisinante",
+      "district": "flacq",
+      "from": "2026-01-08T12:00:00.000Z",
+      "to": "2026-01-08T13:00:00.000Z",
+      "id": "3d653ec9f311110071575e4493c34b4c"
     },
     {
       "date": "Le jeudi 8 janvier 2026 de  12:00:00 à  16:00:00",

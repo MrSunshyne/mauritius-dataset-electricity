@@ -2,11 +2,18 @@
   "slug": "trou-d-eau-douce",
   "name": "TROU D-EAU DOUCE",
   "district": "flacq",
-  "generated": "2026-01-06T12:02:05.984Z",
-  "outageCount": 2,
+  "generated": "2026-01-06T13:12:45.223Z",
+  "outageCount": 3,
   "firstOutage": "2025-10-27",
   "lastOutage": "2026-01-08",
   "outages": [
+    {
+      "date": "Le jeudi 8 janvier 2026 de  16:00:00 à  17:00:00",
+      "streets": "Trou D’Eau Douce dans le périmètre de Coastal Rd, La Pelouse, Le Mao, Four a Chaud, Cite Millionaire, Route Royale, Nowbuth Rd Et Le Chemin avoisinante",
+      "from": "2026-01-08T12:00:00.000Z",
+      "to": "2026-01-08T13:00:00.000Z",
+      "id": "3d653ec9f311110071575e4493c34b4c"
+    },
     {
       "date": "Le jeudi 8 janvier 2026 de  08:45:00 à  17:00:00",
       "streets": "Trou D’Eau Douce dans le périmètre de La Pelouse jusqu’au La route côtiere Palmar près l’hôtel C Mauritius",
