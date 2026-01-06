@@ -2,11 +2,18 @@
   "slug": "flic-en-flac",
   "name": "FLIC-EN-FLAC",
   "district": "blackriver",
-  "generated": "2026-01-06T09:03:32.137Z",
-  "outageCount": 205,
+  "generated": "2026-01-06T10:01:43.068Z",
+  "outageCount": 206,
   "firstOutage": "2022-03-16",
-  "lastOutage": "2025-12-22",
+  "lastOutage": "2026-01-06",
   "outages": [
+    {
+      "date": "Le mardi 6 janvier 2026 de  13:30:00 à  14:30:00",
+      "streets": "Morc Anna & Bismic",
+      "from": "2026-01-06T09:30:00.000Z",
+      "to": "2026-01-06T10:30:00.000Z",
+      "id": "5bd44bc1d71470b237b46b05e415ec08"
+    },
     {
       "date": "Le lundi 22 décembre 2025 de  08:30:00 à  15:30:00",
       "streets": "WOLMAR- ROUTE COTIERE WOLMAR, PEARL BEACH HOTEL, AVE CARRIERE, AVE DES MANGUIERS, CAP OUEST, PIVOT BASSIN FLEUR, EMTEL CLARENCE ET CHASSEE DE WOLMAR",
