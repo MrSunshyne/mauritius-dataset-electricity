@@ -2,11 +2,18 @@
   "slug": "trou-d-eau-douce",
   "name": "TROU D-EAU DOUCE",
   "district": "flacq",
-  "generated": "2026-01-06T11:00:56.194Z",
-  "outageCount": 1,
+  "generated": "2026-01-06T12:02:05.984Z",
+  "outageCount": 2,
   "firstOutage": "2025-10-27",
-  "lastOutage": "2025-10-27",
+  "lastOutage": "2026-01-08",
   "outages": [
+    {
+      "date": "Le jeudi 8 janvier 2026 de  08:45:00 à  17:00:00",
+      "streets": "Trou D’Eau Douce dans le périmètre de La Pelouse jusqu’au La route côtiere Palmar près l’hôtel C Mauritius",
+      "from": "2026-01-08T04:45:00.000Z",
+      "to": "2026-01-08T13:00:00.000Z",
+      "id": "601c15a49188c1c5e501a730a2913e65"
+    },
     {
       "date": "Le lundi 27 octobre 2025 de  09:15:00 à  14:00:00",
       "streets": "CHASEE BEAU RIVAGE, TOUESSROK HOTEL, MORC DALAIS ET LES ALENTOURS",
