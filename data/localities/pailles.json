@@ -2,11 +2,18 @@
   "slug": "pailles",
   "name": "PAILLES",
   "district": "portlouis",
-  "generated": "2026-01-05T18:01:50.104Z",
-  "outageCount": 65,
+  "generated": "2026-01-06T06:01:50.730Z",
+  "outageCount": 66,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2025-12-11",
+  "lastOutage": "2026-01-06",
   "outages": [
+    {
+      "date": "Le mardi 6 janvier 2026 de  06:35:00 à  10:00:00",
+      "streets": "CLAUDE DE LAITRE PAILLES",
+      "from": "2026-01-06T02:35:00.000Z",
+      "to": "2026-01-06T06:00:00.000Z",
+      "id": "d05132b87c62cfe88045d47db163ab0b"
+    },
     {
       "date": "Le jeudi 11 décembre 2025 de  15:20:00 à  16:30:00",
       "streets": "Part Pailles Road",

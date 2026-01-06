@@ -2,11 +2,18 @@
   "slug": "balaclava",
   "name": "BALACLAVA",
   "district": "pamplemousses",
-  "generated": "2026-01-05T18:01:49.891Z",
-  "outageCount": 21,
+  "generated": "2026-01-06T06:01:50.517Z",
+  "outageCount": 22,
   "firstOutage": "2022-05-19",
-  "lastOutage": "2025-12-02",
+  "lastOutage": "2026-01-06",
   "outages": [
+    {
+      "date": "Le mardi 6 janvier 2026 de  09:00:00 à  14:00:00",
+      "streets": "MORC HOLIDAY RESIDENCE RIVERSIDE",
+      "from": "2026-01-06T05:00:00.000Z",
+      "to": "2026-01-06T10:00:00.000Z",
+      "id": "aa0769436c9ce2fd470a857c6f3fc3b3"
+    },
     {
       "date": "Le mardi 2 décembre 2025 de  13:00:00 à  16:00:00",
       "streets": "BALACLAVA ET UNE PARTIE DE POINTE AUX PIMENTS",

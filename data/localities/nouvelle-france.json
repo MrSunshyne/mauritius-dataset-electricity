@@ -2,11 +2,18 @@
   "slug": "nouvelle-france",
   "name": "NOUVELLE FRANCE",
   "district": "grandport",
-  "generated": "2026-01-05T18:01:50.101Z",
-  "outageCount": 30,
+  "generated": "2026-01-06T06:01:50.727Z",
+  "outageCount": 31,
   "firstOutage": "2022-05-12",
-  "lastOutage": "2025-11-13",
+  "lastOutage": "2026-01-13",
   "outages": [
+    {
+      "date": "Le mardi 13 janvier 2026 de  09:00:00 à  17:00:00",
+      "streets": "Une partie du Link Road, Comlone Street, Dabydoyal Street, Morajee Street, La Forge Street, Morcellement MTMD et une partie de la Route Royale Pont Colville",
+      "from": "2026-01-13T05:00:00.000Z",
+      "to": "2026-01-13T13:00:00.000Z",
+      "id": "0df1d8c3721d1baefa4b4bf7f6536d35"
+    },
     {
       "date": "Le jeudi 13 novembre 2025 de  09:00:00 à  09:45:00",
       "streets": "NOUVELLE FRANCE",

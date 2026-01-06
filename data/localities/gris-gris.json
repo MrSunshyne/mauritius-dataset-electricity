@@ -2,11 +2,18 @@
   "slug": "gris-gris",
   "name": "GRIS GRIS",
   "district": "savanne",
-  "generated": "2026-01-05T18:01:50.022Z",
-  "outageCount": 1,
+  "generated": "2026-01-06T06:01:50.651Z",
+  "outageCount": 2,
   "firstOutage": "2025-10-16",
-  "lastOutage": "2025-10-16",
+  "lastOutage": "2026-01-06",
   "outages": [
+    {
+      "date": "Le mardi 6 janvier 2026 de  09:20:00 à  10:30:00",
+      "streets": "PART OF GRIS GRIS",
+      "from": "2026-01-06T05:20:00.000Z",
+      "to": "2026-01-06T06:30:00.000Z",
+      "id": "a589b6770f021905ec4ebd0e30bd478c"
+    },
     {
       "date": "Le jeudi 16 octobre 2025 de  09:00:00 à  15:00:00",
       "streets": "Le village de Gris Gris et Morcellement Gris Gris",

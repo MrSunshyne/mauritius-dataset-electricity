@@ -1,8 +1,8 @@
 {
   "date": "2026-01-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-05T18:01:49.866Z",
-  "outageCount": 1,
+  "generated": "2026-01-06T06:01:50.490Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le mardi 6 janvier 2026 de  08:30:00 à  15:00:00",
@@ -13,6 +13,46 @@
       "from": "2026-01-06T04:30:00.000Z",
       "to": "2026-01-06T11:00:00.000Z",
       "id": "3bb86a460574697547c468736a6b0e85"
+    },
+    {
+      "date": "Le mardi 6 janvier 2026 de  09:00:00 à  14:00:00",
+      "locality": "BALACLAVA",
+      "localitySlug": "balaclava",
+      "streets": "MORC HOLIDAY RESIDENCE RIVERSIDE",
+      "district": "pamplemousses",
+      "from": "2026-01-06T05:00:00.000Z",
+      "to": "2026-01-06T10:00:00.000Z",
+      "id": "aa0769436c9ce2fd470a857c6f3fc3b3"
+    },
+    {
+      "date": "Le mardi 6 janvier 2026 de  09:00:00 à  12:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "RUE PASTEUR, PART OF ROYAL ROAD, EX MBC ROAD",
+      "district": "plainewilhems",
+      "from": "2026-01-06T05:00:00.000Z",
+      "to": "2026-01-06T08:00:00.000Z",
+      "id": "a34aa0d79d9c1023e281e8e75689c3af"
+    },
+    {
+      "date": "Le mardi 6 janvier 2026 de  06:35:00 à  10:00:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "CLAUDE DE LAITRE PAILLES",
+      "district": "portlouis",
+      "from": "2026-01-06T02:35:00.000Z",
+      "to": "2026-01-06T06:00:00.000Z",
+      "id": "d05132b87c62cfe88045d47db163ab0b"
+    },
+    {
+      "date": "Le mardi 6 janvier 2026 de  09:20:00 à  10:30:00",
+      "locality": "GRIS GRIS",
+      "localitySlug": "gris-gris",
+      "streets": "PART OF GRIS GRIS",
+      "district": "savanne",
+      "from": "2026-01-06T05:20:00.000Z",
+      "to": "2026-01-06T06:30:00.000Z",
+      "id": "a589b6770f021905ec4ebd0e30bd478c"
     }
   ]
 }
