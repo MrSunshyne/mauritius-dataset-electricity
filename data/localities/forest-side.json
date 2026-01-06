@@ -2,11 +2,18 @@
   "slug": "forest-side",
   "name": "FOREST SIDE",
   "district": "plainewilhems",
-  "generated": "2026-01-06T08:01:50.156Z",
-  "outageCount": 90,
+  "generated": "2026-01-06T09:03:32.141Z",
+  "outageCount": 91,
   "firstOutage": "2022-07-03",
-  "lastOutage": "2025-12-14",
+  "lastOutage": "2026-01-06",
   "outages": [
+    {
+      "date": "Le mardi 6 janvier 2026 de  12:30:00 à  15:30:00",
+      "streets": "CITE ANOUSHKA 16EME MILE",
+      "from": "2026-01-06T08:30:00.000Z",
+      "to": "2026-01-06T11:30:00.000Z",
+      "id": "3507c20e59622594e49d76764708c29f"
+    },
     {
       "date": "Le dimanche 14 décembre 2025 de  08:30:00 à  16:00:00",
       "streets": "Maurice Martin street, Icery Road, Seeneevassen Street et les environs",

@@ -1,8 +1,8 @@
 {
   "date": "2026-01-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-06T08:01:50.011Z",
-  "outageCount": 5,
+  "generated": "2026-01-06T09:03:31.999Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le mardi 6 janvier 2026 de  08:30:00 à  15:00:00",
@@ -15,6 +15,16 @@
       "id": "3bb86a460574697547c468736a6b0e85"
     },
     {
+      "date": "Le mardi 6 janvier 2026 de  12:20:00 à  14:30:00",
+      "locality": "CAROLINE BEL AIR",
+      "localitySlug": "caroline-bel-air",
+      "streets": "MORC CAUNHYE CHEMIN BALANCE",
+      "district": "flacq",
+      "from": "2026-01-06T08:20:00.000Z",
+      "to": "2026-01-06T10:30:00.000Z",
+      "id": "39b2dcbecd2848eb685dfd1afa98e587"
+    },
+    {
       "date": "Le mardi 6 janvier 2026 de  09:00:00 à  14:00:00",
       "locality": "BALACLAVA",
       "localitySlug": "balaclava",
@@ -25,14 +35,24 @@
       "id": "aa0769436c9ce2fd470a857c6f3fc3b3"
     },
     {
-      "date": "Le mardi 6 janvier 2026 de  09:00:00 à  12:00:00",
+      "date": "Le mardi 6 janvier 2026 de  09:00:00 à  14:00:00",
       "locality": "CUREPIPE",
       "localitySlug": "curepipe",
       "streets": "RUE PASTEUR, PART OF ROYAL ROAD, EX MBC ROAD",
       "district": "plainewilhems",
       "from": "2026-01-06T05:00:00.000Z",
-      "to": "2026-01-06T08:00:00.000Z",
-      "id": "a34aa0d79d9c1023e281e8e75689c3af"
+      "to": "2026-01-06T10:00:00.000Z",
+      "id": "3e01ccf23643142db3be9b9f8dd3ffb8"
+    },
+    {
+      "date": "Le mardi 6 janvier 2026 de  12:30:00 à  15:30:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "CITE ANOUSHKA 16EME MILE",
+      "district": "plainewilhems",
+      "from": "2026-01-06T08:30:00.000Z",
+      "to": "2026-01-06T11:30:00.000Z",
+      "id": "3507c20e59622594e49d76764708c29f"
     },
     {
       "date": "Le mardi 6 janvier 2026 de  06:35:00 à  10:00:00",

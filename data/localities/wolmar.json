@@ -2,11 +2,18 @@
   "slug": "wolmar",
   "name": "WOLMAR",
   "district": "blackriver",
-  "generated": "2026-01-06T08:01:50.374Z",
-  "outageCount": 6,
+  "generated": "2026-01-06T09:03:32.376Z",
+  "outageCount": 7,
   "firstOutage": "2023-10-11",
-  "lastOutage": "2025-12-11",
+  "lastOutage": "2026-01-09",
   "outages": [
+    {
+      "date": "Le vendredi 9 janvier 2026 de  08:30:00 à  15:30:00",
+      "streets": "ROUTE COTIERE WOLMAR, PEARL BEACH HOTEL, AVE CARRIERE, AVE DES MANGUIERS, CAP OUEST, PIVOT BASSIN FLEUR, EMTEL CLARENCE ET CHASSEE DE WOLMAR",
+      "from": "2026-01-09T04:30:00.000Z",
+      "to": "2026-01-09T11:30:00.000Z",
+      "id": "3b85101c773981903796769f9a2ad211"
+    },
     {
       "date": "Le jeudi 11 décembre 2025 de  08:30:00 à  17:15:00",
       "streets": "ROUTE COTIERE WOLMAR, PEARL BEACH HOTEL, AVE CARRIERE, AVE DES MANGUIERS, CAP OUEST, PIVOT BASSIN FLEUR, EMTEL CLARENCE ET CHASSEE DE WOLMAR",
