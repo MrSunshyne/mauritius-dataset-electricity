@@ -2,11 +2,18 @@
   "slug": "carreau-laliane",
   "name": "CARREAU LALIANE",
   "district": "plainewilhems",
-  "generated": "2026-01-07T14:02:19.597Z",
-  "outageCount": 16,
+  "generated": "2026-01-07T15:01:55.715Z",
+  "outageCount": 17,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2024-10-02",
+  "lastOutage": "2026-01-07",
   "outages": [
+    {
+      "date": "Le mercredi 7 janvier 2026 de  18:00:00 à  22:00:00",
+      "streets": "CARREAU LALLIANE",
+      "from": "2026-01-07T14:00:00.000Z",
+      "to": "2026-01-07T18:00:00.000Z",
+      "id": "c20c13b3b515716efb4e145dd5cfa7ba"
+    },
     {
       "date": "Le mercredi 2 octobre 2024 de  14:30:00 à  17:00:00",
       "streets": "une partie de Carreau Lalianne Road, Seetohul Lane, Dayal Lane, Tegally Lane, Seegum Lane, Ramphul Lane, Acuba Lane, Callychurn Lane, une partie de Remi Ollier.",

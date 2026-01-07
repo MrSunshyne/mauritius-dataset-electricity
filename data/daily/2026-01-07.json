@@ -1,8 +1,8 @@
 {
   "date": "2026-01-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-07T14:02:19.512Z",
-  "outageCount": 10,
+  "generated": "2026-01-07T15:01:55.625Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le mercredi 7 janvier 2026 de  15:30:00 à  17:00:00",
@@ -93,6 +93,16 @@
       "from": "2026-01-07T11:30:00.000Z",
       "to": "2026-01-07T12:30:00.000Z",
       "id": "ce34051c7bed79336e3a8fe0e758134a"
+    },
+    {
+      "date": "Le mercredi 7 janvier 2026 de  18:00:00 à  22:00:00",
+      "locality": "CARREAU LALIANE",
+      "localitySlug": "carreau-laliane",
+      "streets": "CARREAU LALLIANE",
+      "district": "plainewilhems",
+      "from": "2026-01-07T14:00:00.000Z",
+      "to": "2026-01-07T18:00:00.000Z",
+      "id": "c20c13b3b515716efb4e145dd5cfa7ba"
     },
     {
       "date": "Le mercredi 7 janvier 2026 de  14:45:00 à  17:00:00",
