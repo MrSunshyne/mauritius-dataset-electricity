@@ -2,11 +2,18 @@
   "slug": "arsenal",
   "name": "ARSENAL",
   "district": "pamplemousses",
-  "generated": "2026-01-07T09:04:29.411Z",
-  "outageCount": 50,
+  "generated": "2026-01-07T10:01:00.904Z",
+  "outageCount": 51,
   "firstOutage": "2022-05-25",
-  "lastOutage": "2025-12-09",
+  "lastOutage": "2026-01-07",
   "outages": [
+    {
+      "date": "Le mercredi 7 janvier 2026 de  13:00:00 à  16:00:00",
+      "streets": "ROYAL ROAD, PIMENT ROUGE AND SURROUNDINGS",
+      "from": "2026-01-07T09:00:00.000Z",
+      "to": "2026-01-07T12:00:00.000Z",
+      "id": "cb48547944cfc9ae586b0ca9bf668935"
+    },
     {
       "date": "Le mardi 9 décembre 2025 de  00:00:00 à  13:00:00",
       "streets": "DHANA LANE, ROYAL ROAD, MUDHOO LANE ET LES ALENTOURS",

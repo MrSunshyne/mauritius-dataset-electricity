@@ -2,11 +2,18 @@
   "slug": "highlands",
   "name": "HIGHLANDS",
   "district": "plainewilhems",
-  "generated": "2026-01-07T09:04:29.559Z",
-  "outageCount": 64,
+  "generated": "2026-01-07T10:01:01.051Z",
+  "outageCount": 65,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2026-01-05",
+  "lastOutage": "2026-01-10",
   "outages": [
+    {
+      "date": "Le samedi 10 janvier 2026 de  08:30:00 à  16:00:00",
+      "streets": "Sorefan Lane, une partie de Boundary Road, une partie de Tout Court Road, Mosque Road, Dilmohamed Lane, Peerally Lane, Morc Parmessur et Morc Valdoise",
+      "from": "2026-01-10T04:30:00.000Z",
+      "to": "2026-01-10T12:00:00.000Z",
+      "id": "88ebad645ea98f4bdfa5f0681a1860ad"
+    },
     {
       "date": "Le lundi 5 janvier 2026 de  16:00:00 à  23:00:00",
       "streets": "CHEMIN MOSQUE, CHEMIN CAMPEMENT ET LES ENVIRONS.",

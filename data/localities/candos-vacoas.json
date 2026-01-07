@@ -2,11 +2,18 @@
   "slug": "candos-vacoas",
   "name": "CANDOS VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-01-07T09:04:29.479Z",
-  "outageCount": 11,
+  "generated": "2026-01-07T10:01:00.971Z",
+  "outageCount": 12,
   "firstOutage": "2022-06-21",
-  "lastOutage": "2026-01-08",
+  "lastOutage": "2026-01-10",
   "outages": [
+    {
+      "date": "Le samedi 10 janvier 2026 de  09:00:00 à  12:00:00",
+      "streets": "Lall Surry Lahadoor Ave Candos",
+      "from": "2026-01-10T05:00:00.000Z",
+      "to": "2026-01-10T08:00:00.000Z",
+      "id": "f86b398e114f2e72f38f2566f97689b3"
+    },
     {
       "date": "Le jeudi 8 janvier 2026 de  12:00:00 à  16:00:00",
       "streets": "Lall Bahadur Shastri Road, Candos",

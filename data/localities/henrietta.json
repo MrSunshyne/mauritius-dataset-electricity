@@ -2,11 +2,18 @@
   "slug": "henrietta",
   "name": "HENRIETTA",
   "district": "plainewilhems",
-  "generated": "2026-01-07T09:04:29.556Z",
-  "outageCount": 71,
+  "generated": "2026-01-07T10:01:01.048Z",
+  "outageCount": 72,
   "firstOutage": "2022-07-14",
-  "lastOutage": "2025-12-18",
+  "lastOutage": "2026-01-11",
   "outages": [
+    {
+      "date": "Le dimanche 11 janvier 2026 de  08:30:00 à  14:00:00",
+      "streets": "Morc Les Manguires Henrietta",
+      "from": "2026-01-11T04:30:00.000Z",
+      "to": "2026-01-11T10:00:00.000Z",
+      "id": "c45e92816270543c53d40382060a9456"
+    },
     {
       "date": "Le jeudi 18 décembre 2025 de  08:30:00 à  17:00:00",
       "streets": "HENRIETTA ET GLEN PARK: Roshni Lane, Morcellement Edoo, une partie du Route Caldwell, une partie de Chemin Caverne, Carreau Songe",

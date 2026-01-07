@@ -1,8 +1,8 @@
 {
   "date": "2026-01-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-07T09:04:29.391Z",
-  "outageCount": 2,
+  "generated": "2026-01-07T10:01:00.882Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le mercredi 7 janvier 2026 de  09:00:00 à  16:00:00",
@@ -15,6 +15,26 @@
       "id": "b073035773e77f152770319a698b4c64"
     },
     {
+      "date": "Le mercredi 7 janvier 2026 de  13:15:00 à  15:00:00",
+      "locality": "NOUVELLE FRANCE",
+      "localitySlug": "nouvelle-france",
+      "streets": "TX MDMT,SAVANNE RD,MAMOOJEE",
+      "district": "grandport",
+      "from": "2026-01-07T09:15:00.000Z",
+      "to": "2026-01-07T11:00:00.000Z",
+      "id": "2cfa02f22408328cf7b4274222cd95e8"
+    },
+    {
+      "date": "Le mercredi 7 janvier 2026 de  13:00:00 à  16:00:00",
+      "locality": "ARSENAL",
+      "localitySlug": "arsenal",
+      "streets": "ROYAL ROAD, PIMENT ROUGE AND SURROUNDINGS",
+      "district": "pamplemousses",
+      "from": "2026-01-07T09:00:00.000Z",
+      "to": "2026-01-07T12:00:00.000Z",
+      "id": "cb48547944cfc9ae586b0ca9bf668935"
+    },
+    {
       "date": "Le mercredi 7 janvier 2026 de  10:35:00 à  14:00:00",
       "locality": "VACOAS",
       "localitySlug": "vacoas",
@@ -23,6 +43,16 @@
       "from": "2026-01-07T06:35:00.000Z",
       "to": "2026-01-07T10:00:00.000Z",
       "id": "a6c1e534d31797861550709628ba9b62"
+    },
+    {
+      "date": "Le mercredi 7 janvier 2026 de  14:30:00 à  15:30:00",
+      "locality": "WOOTUN",
+      "localitySlug": "wootun",
+      "streets": "Morcellement Richwood",
+      "district": "plainewilhems",
+      "from": "2026-01-07T10:30:00.000Z",
+      "to": "2026-01-07T11:30:00.000Z",
+      "id": "8d0962c2965b98c89e28198952cd7b32"
     }
   ]
 }

@@ -1,0 +1,28 @@
+{
+  "date": "2026-01-11",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-01-07T10:01:00.882Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le dimanche 11 janvier 2026 de  08:30:00 à  17:00:00",
+      "locality": "CAMP FOUQUEREAUX",
+      "localitySlug": "camp-fouquereaux",
+      "streets": "Hotensia Lane, St Antoine Rd, une partie de Hermitage Branch Rd, une partie de Reservoir Road, une partie de Tout Court Rd, Terre Rouge Rd, Al Madina, Toorab Lane, Jhungeer Lane, Morc. Soobratty, Ibis Lane, Choony Lane, Dhalia Lane et une partie de Parisot Branch Rd",
+      "district": "plainewilhems",
+      "from": "2026-01-11T04:30:00.000Z",
+      "to": "2026-01-11T13:00:00.000Z",
+      "id": "b44e354cd9e25db772303eea85ed7eea"
+    },
+    {
+      "date": "Le dimanche 11 janvier 2026 de  08:30:00 à  14:00:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "Morc Les Manguires Henrietta",
+      "district": "plainewilhems",
+      "from": "2026-01-11T04:30:00.000Z",
+      "to": "2026-01-11T10:00:00.000Z",
+      "id": "c45e92816270543c53d40382060a9456"
+    }
+  ]
+}

@@ -1,9 +1,29 @@
 {
   "date": "2026-01-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-07T09:04:29.391Z",
-  "outageCount": 2,
+  "generated": "2026-01-07T10:01:00.882Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le samedi 10 janvier 2026 de  08:30:00 à  16:00:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "Sorefan Lane, une partie de Boundary Road, une partie de Tout Court Road, Mosque Road, Dilmohamed Lane, Peerally Lane, Morc Parmessur et Morc Valdoise",
+      "district": "plainewilhems",
+      "from": "2026-01-10T04:30:00.000Z",
+      "to": "2026-01-10T12:00:00.000Z",
+      "id": "88ebad645ea98f4bdfa5f0681a1860ad"
+    },
+    {
+      "date": "Le samedi 10 janvier 2026 de  09:00:00 à  12:00:00",
+      "locality": "CANDOS VACOAS",
+      "localitySlug": "candos-vacoas",
+      "streets": "Lall Surry Lahadoor Ave Candos",
+      "district": "plainewilhems",
+      "from": "2026-01-10T05:00:00.000Z",
+      "to": "2026-01-10T08:00:00.000Z",
+      "id": "f86b398e114f2e72f38f2566f97689b3"
+    },
     {
       "date": "Le samedi 10 janvier 2026 de  08:30:00 à  15:00:00",
       "locality": "PEREYBERE",

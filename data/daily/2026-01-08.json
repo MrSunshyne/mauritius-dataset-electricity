@@ -1,9 +1,19 @@
 {
   "date": "2026-01-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-07T09:04:29.391Z",
-  "outageCount": 3,
+  "generated": "2026-01-07T10:01:00.882Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le jeudi 8 janvier 2026 de  11:00:00 à  14:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "Morc Splendid View, Morc KNN, Summer Property, Beau Soleil, Residence La Croisette, Sliver Camelia, Morc Serenis, Curly Willow, Marguerite et les environs",
+      "district": "blackriver",
+      "from": "2026-01-08T07:00:00.000Z",
+      "to": "2026-01-08T10:00:00.000Z",
+      "id": "0e0bd9dcf7ff4136fca80459600edcd7"
+    },
     {
       "date": "Le jeudi 8 janvier 2026 de  08:45:00 à  17:00:00",
       "locality": "TROU D-EAU DOUCE",

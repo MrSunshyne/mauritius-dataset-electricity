@@ -2,11 +2,18 @@
   "slug": "wootun",
   "name": "WOOTUN",
   "district": "plainewilhems",
-  "generated": "2026-01-07T09:04:29.773Z",
-  "outageCount": 20,
+  "generated": "2026-01-07T10:01:01.260Z",
+  "outageCount": 21,
   "firstOutage": "2022-08-05",
-  "lastOutage": "2026-01-05",
+  "lastOutage": "2026-01-07",
   "outages": [
+    {
+      "date": "Le mercredi 7 janvier 2026 de  14:30:00 à  15:30:00",
+      "streets": "Morcellement Richwood",
+      "from": "2026-01-07T10:30:00.000Z",
+      "to": "2026-01-07T11:30:00.000Z",
+      "id": "8d0962c2965b98c89e28198952cd7b32"
+    },
     {
       "date": "Le lundi 5 janvier 2026 de  09:30:00 à  11:00:00",
       "streets": "dans les environs de Morc Richwood",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-07T09:04:29.775Z",
+  "generated": "2026-01-07T10:01:01.262Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -25,10 +25,10 @@
       "slug": "albion",
       "name": "ALBION",
       "district": "blackriver",
-      "outageCount": 94,
+      "outageCount": 95,
       "file": "albion.json",
       "firstOutage": "2022-06-06",
-      "lastOutage": "2025-12-30"
+      "lastOutage": "2026-01-08"
     },
     {
       "slug": "allee-brillant-castel",
@@ -115,10 +115,10 @@
       "slug": "arsenal",
       "name": "ARSENAL",
       "district": "pamplemousses",
-      "outageCount": 50,
+      "outageCount": 51,
       "file": "arsenal.json",
       "firstOutage": "2022-05-25",
-      "lastOutage": "2025-12-09"
+      "lastOutage": "2026-01-07"
     },
     {
       "slug": "bagatelle",
@@ -754,10 +754,10 @@
       "slug": "camp-fouquereaux",
       "name": "CAMP FOUQUEREAUX",
       "district": "plainewilhems",
-      "outageCount": 32,
+      "outageCount": 33,
       "file": "camp-fouquereaux.json",
       "firstOutage": "2022-03-31",
-      "lastOutage": "2025-12-12"
+      "lastOutage": "2026-01-11"
     },
     {
       "slug": "camp-garreau",
@@ -889,10 +889,10 @@
       "slug": "candos-vacoas",
       "name": "CANDOS VACOAS",
       "district": "plainewilhems",
-      "outageCount": 11,
+      "outageCount": 12,
       "file": "candos-vacoas.json",
       "firstOutage": "2022-06-21",
-      "lastOutage": "2026-01-08"
+      "lastOutage": "2026-01-10"
     },
     {
       "slug": "canot",
@@ -1744,10 +1744,10 @@
       "slug": "henrietta",
       "name": "HENRIETTA",
       "district": "plainewilhems",
-      "outageCount": 71,
+      "outageCount": 72,
       "file": "henrietta.json",
       "firstOutage": "2022-07-14",
-      "lastOutage": "2025-12-18"
+      "lastOutage": "2026-01-11"
     },
     {
       "slug": "hermitage",
@@ -1771,10 +1771,10 @@
       "slug": "highlands",
       "name": "HIGHLANDS",
       "district": "plainewilhems",
-      "outageCount": 64,
+      "outageCount": 65,
       "file": "highlands.json",
       "firstOutage": "2022-04-13",
-      "lastOutage": "2026-01-05"
+      "lastOutage": "2026-01-10"
     },
     {
       "slug": "hollyrood",
@@ -2635,7 +2635,7 @@
       "slug": "nouvelle-france",
       "name": "NOUVELLE FRANCE",
       "district": "grandport",
-      "outageCount": 31,
+      "outageCount": 32,
       "file": "nouvelle-france.json",
       "firstOutage": "2022-05-12",
       "lastOutage": "2026-01-13"
@@ -4111,10 +4111,10 @@
       "slug": "wootun",
       "name": "WOOTUN",
       "district": "plainewilhems",
-      "outageCount": 20,
+      "outageCount": 21,
       "file": "wootun.json",
       "firstOutage": "2022-08-05",
-      "lastOutage": "2026-01-05"
+      "lastOutage": "2026-01-07"
     },
     {
       "slug": "xavier",
