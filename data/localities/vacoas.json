@@ -2,11 +2,18 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-01-07T06:01:57.339Z",
-  "outageCount": 218,
+  "generated": "2026-01-07T07:03:42.695Z",
+  "outageCount": 219,
   "firstOutage": "2022-03-17",
-  "lastOutage": "2025-12-10",
+  "lastOutage": "2026-01-07",
   "outages": [
+    {
+      "date": "Le mercredi 7 janvier 2026 de  10:35:00 à  14:00:00",
+      "streets": "15 CANTON, SUNSET VILLE, PART OF LA CAVERNE, MORC BEHR, MORC JOONAS, RESIDENCE ROSANO, NHDC LA CAVERNE",
+      "from": "2026-01-07T06:35:00.000Z",
+      "to": "2026-01-07T10:00:00.000Z",
+      "id": "a6c1e534d31797861550709628ba9b62"
+    },
     {
       "date": "Le mercredi 10 décembre 2025 de  09:45:00 à  12:15:00",
       "streets": "Vingta No 2",

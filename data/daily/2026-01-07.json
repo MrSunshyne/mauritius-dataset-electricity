@@ -1,8 +1,8 @@
 {
   "date": "2026-01-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-07T06:01:56.968Z",
-  "outageCount": 1,
+  "generated": "2026-01-07T07:03:42.328Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le mercredi 7 janvier 2026 de  09:00:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-01-07T05:00:00.000Z",
       "to": "2026-01-07T12:00:00.000Z",
       "id": "b073035773e77f152770319a698b4c64"
+    },
+    {
+      "date": "Le mercredi 7 janvier 2026 de  10:35:00 à  14:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "15 CANTON, SUNSET VILLE, PART OF LA CAVERNE, MORC BEHR, MORC JOONAS, RESIDENCE ROSANO, NHDC LA CAVERNE",
+      "district": "plainewilhems",
+      "from": "2026-01-07T06:35:00.000Z",
+      "to": "2026-01-07T10:00:00.000Z",
+      "id": "a6c1e534d31797861550709628ba9b62"
     }
   ]
 }
