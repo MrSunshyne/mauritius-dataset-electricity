@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-07T11:00:54.873Z",
+  "generated": "2026-01-07T12:02:03.407Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -25,7 +25,7 @@
       "slug": "albion",
       "name": "ALBION",
       "district": "blackriver",
-      "outageCount": 95,
+      "outageCount": 96,
       "file": "albion.json",
       "firstOutage": "2022-06-06",
       "lastOutage": "2026-01-08"
@@ -1663,10 +1663,10 @@
       "slug": "grande-retraite",
       "name": "GRANDE RETRAITE",
       "district": "flacq",
-      "outageCount": 6,
+      "outageCount": 7,
       "file": "grande-retraite.json",
       "firstOutage": "2024-02-11",
-      "lastOutage": "2025-10-24"
+      "lastOutage": "2026-01-07"
     },
     {
       "slug": "grande-riviere-sud-est",
@@ -4111,7 +4111,7 @@
       "slug": "wootun",
       "name": "WOOTUN",
       "district": "plainewilhems",
-      "outageCount": 21,
+      "outageCount": 22,
       "file": "wootun.json",
       "firstOutage": "2022-08-05",
       "lastOutage": "2026-01-07"

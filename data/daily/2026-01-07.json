@@ -1,9 +1,19 @@
 {
   "date": "2026-01-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-07T11:00:54.491Z",
-  "outageCount": 7,
+  "generated": "2026-01-07T12:02:03.001Z",
+  "outageCount": 10,
   "outages": [
+    {
+      "date": "Le mercredi 7 janvier 2026 de  15:30:00 à  17:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "morc Terre d-Albion near ave des cygnes",
+      "district": "blackriver",
+      "from": "2026-01-07T11:30:00.000Z",
+      "to": "2026-01-07T13:00:00.000Z",
+      "id": "bdd4d7a87d6033df8c1be1e067a5685e"
+    },
     {
       "date": "Le mercredi 7 janvier 2026 de  09:00:00 à  16:00:00",
       "locality": "PETITE RETRAITE",
@@ -13,6 +23,16 @@
       "from": "2026-01-07T05:00:00.000Z",
       "to": "2026-01-07T12:00:00.000Z",
       "id": "b073035773e77f152770319a698b4c64"
+    },
+    {
+      "date": "Le mercredi 7 janvier 2026 de  15:30:00 à  16:30:00",
+      "locality": "GRANDE RETRAITE",
+      "localitySlug": "grande-retraite",
+      "streets": "vers laventure",
+      "district": "flacq",
+      "from": "2026-01-07T11:30:00.000Z",
+      "to": "2026-01-07T12:30:00.000Z",
+      "id": "69f622f4bbb240678c969e1dd6f8f292"
     },
     {
       "date": "Le mercredi 7 janvier 2026 de  13:15:00 à  15:00:00",
@@ -63,6 +83,16 @@
       "from": "2026-01-07T10:30:00.000Z",
       "to": "2026-01-07T11:30:00.000Z",
       "id": "8d0962c2965b98c89e28198952cd7b32"
+    },
+    {
+      "date": "Le mercredi 7 janvier 2026 de  15:30:00 à  16:30:00",
+      "locality": "WOOTUN",
+      "localitySlug": "wootun",
+      "streets": "Morcellement Richwood",
+      "district": "plainewilhems",
+      "from": "2026-01-07T11:30:00.000Z",
+      "to": "2026-01-07T12:30:00.000Z",
+      "id": "ce34051c7bed79336e3a8fe0e758134a"
     },
     {
       "date": "Le mercredi 7 janvier 2026 de  14:45:00 à  17:00:00",

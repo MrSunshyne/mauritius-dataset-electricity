@@ -2,11 +2,18 @@
   "slug": "grande-retraite",
   "name": "GRANDE RETRAITE",
   "district": "flacq",
-  "generated": "2026-01-07T11:00:54.650Z",
-  "outageCount": 6,
+  "generated": "2026-01-07T12:02:03.184Z",
+  "outageCount": 7,
   "firstOutage": "2024-02-11",
-  "lastOutage": "2025-10-24",
+  "lastOutage": "2026-01-07",
   "outages": [
+    {
+      "date": "Le mercredi 7 janvier 2026 de  15:30:00 à  16:30:00",
+      "streets": "vers laventure",
+      "from": "2026-01-07T11:30:00.000Z",
+      "to": "2026-01-07T12:30:00.000Z",
+      "id": "69f622f4bbb240678c969e1dd6f8f292"
+    },
     {
       "date": "Le vendredi 24 octobre 2025 de  09:45:00 à  11:00:00",
       "streets": "PART OF GRANDE RETRAITE",

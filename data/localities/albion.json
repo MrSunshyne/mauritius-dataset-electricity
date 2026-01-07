@@ -2,8 +2,8 @@
   "slug": "albion",
   "name": "ALBION",
   "district": "blackriver",
-  "generated": "2026-01-07T11:00:54.504Z",
-  "outageCount": 95,
+  "generated": "2026-01-07T12:02:03.013Z",
+  "outageCount": 96,
   "firstOutage": "2022-06-06",
   "lastOutage": "2026-01-08",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-01-08T07:00:00.000Z",
       "to": "2026-01-08T10:00:00.000Z",
       "id": "0e0bd9dcf7ff4136fca80459600edcd7"
+    },
+    {
+      "date": "Le mercredi 7 janvier 2026 de  15:30:00 à  17:00:00",
+      "streets": "morc Terre d-Albion near ave des cygnes",
+      "from": "2026-01-07T11:30:00.000Z",
+      "to": "2026-01-07T13:00:00.000Z",
+      "id": "bdd4d7a87d6033df8c1be1e067a5685e"
     },
     {
       "date": "Le mardi 30 décembre 2025 de  05:50:00 à  13:00:00",
