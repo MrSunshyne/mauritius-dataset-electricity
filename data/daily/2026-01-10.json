@@ -1,0 +1,28 @@
+{
+  "date": "2026-01-10",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-01-07T08:01:50.379Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le samedi 10 janvier 2026 de  08:30:00 à  15:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "LA RUE COSTALE PEREYBERE, IMPASSE JOLICOEUR, LHOTEL HIBISCUS ET PARADISE COVE - OFFICIER EN CHARGE- STO KHARUG DE SECTION GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2026-01-10T04:30:00.000Z",
+      "to": "2026-01-10T11:00:00.000Z",
+      "id": "d7e9f508c27e3932fd38084a19fedc0b"
+    },
+    {
+      "date": "Le samedi 10 janvier 2026 de  08:30:00 à  15:00:00",
+      "locality": "PLAINE DES ROCHES",
+      "localitySlug": "plaine-des-roches",
+      "streets": "DANS LES ENVIRONS DE EX-RESTAURANT MANGUE BLANC ET ROUTE ROYALE PLAINE DES ROCHES VERS LAVENTURE- INSPECTEUR EN CHARGE - STO RUSMAULLY DE SECTION GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2026-01-10T04:30:00.000Z",
+      "to": "2026-01-10T11:00:00.000Z",
+      "id": "097723570cc9bdd8e493ec715c153b48"
+    }
+  ]
+}

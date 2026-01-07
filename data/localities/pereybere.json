@@ -2,11 +2,18 @@
   "slug": "pereybere",
   "name": "PEREYBERE",
   "district": "rivieredurempart",
-  "generated": "2026-01-07T07:03:42.578Z",
-  "outageCount": 88,
+  "generated": "2026-01-07T08:01:50.625Z",
+  "outageCount": 89,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-01-01",
+  "lastOutage": "2026-01-10",
   "outages": [
+    {
+      "date": "Le samedi 10 janvier 2026 de  08:30:00 à  15:00:00",
+      "streets": "LA RUE COSTALE PEREYBERE, IMPASSE JOLICOEUR, LHOTEL HIBISCUS ET PARADISE COVE - OFFICIER EN CHARGE- STO KHARUG DE SECTION GOODLANDS",
+      "from": "2026-01-10T04:30:00.000Z",
+      "to": "2026-01-10T11:00:00.000Z",
+      "id": "d7e9f508c27e3932fd38084a19fedc0b"
+    },
     {
       "date": "Le jeudi 1 janvier 2026 de  15:15:00 à  18:15:00",
       "streets": "MORC SWAN AND SURROUNDINGS",

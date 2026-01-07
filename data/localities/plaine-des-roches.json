@@ -2,11 +2,18 @@
   "slug": "plaine-des-roches",
   "name": "PLAINE DES ROCHES",
   "district": "rivieredurempart",
-  "generated": "2026-01-07T07:03:42.596Z",
-  "outageCount": 27,
+  "generated": "2026-01-07T08:01:50.643Z",
+  "outageCount": 28,
   "firstOutage": "2022-04-24",
-  "lastOutage": "2025-12-25",
+  "lastOutage": "2026-01-10",
   "outages": [
+    {
+      "date": "Le samedi 10 janvier 2026 de  08:30:00 à  15:00:00",
+      "streets": "DANS LES ENVIRONS DE EX-RESTAURANT MANGUE BLANC ET ROUTE ROYALE PLAINE DES ROCHES VERS LAVENTURE- INSPECTEUR EN CHARGE - STO RUSMAULLY DE SECTION GOODLANDS",
+      "from": "2026-01-10T04:30:00.000Z",
+      "to": "2026-01-10T11:00:00.000Z",
+      "id": "097723570cc9bdd8e493ec715c153b48"
+    },
     {
       "date": "Le jeudi 25 décembre 2025 de  19:50:00 à  23:00:00",
       "streets": "SENEQUE ROAD ROYAL ROAD EN PARTIE NEAR SCHOOL",
