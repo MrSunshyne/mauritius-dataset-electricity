@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-07T10:01:01.262Z",
+  "generated": "2026-01-07T11:00:54.873Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -115,7 +115,7 @@
       "slug": "arsenal",
       "name": "ARSENAL",
       "district": "pamplemousses",
-      "outageCount": 51,
+      "outageCount": 52,
       "file": "arsenal.json",
       "firstOutage": "2022-05-25",
       "lastOutage": "2026-01-07"
@@ -700,10 +700,10 @@
       "slug": "camp-chapelon",
       "name": "CAMP CHAPELON",
       "district": "portlouis",
-      "outageCount": 2,
+      "outageCount": 3,
       "file": "camp-chapelon.json",
       "firstOutage": "2022-03-16",
-      "lastOutage": "2025-01-16"
+      "lastOutage": "2026-01-07"
     },
     {
       "slug": "camp-de-masque",

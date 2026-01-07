@@ -1,8 +1,8 @@
 {
   "date": "2026-01-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-07T10:01:00.882Z",
-  "outageCount": 5,
+  "generated": "2026-01-07T11:00:54.491Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le mercredi 7 janvier 2026 de  09:00:00 à  16:00:00",
@@ -35,6 +35,16 @@
       "id": "cb48547944cfc9ae586b0ca9bf668935"
     },
     {
+      "date": "Le mercredi 7 janvier 2026 de  14:45:00 à  17:00:00",
+      "locality": "ARSENAL",
+      "localitySlug": "arsenal",
+      "streets": "NEAR STATION CEB",
+      "district": "pamplemousses",
+      "from": "2026-01-07T10:45:00.000Z",
+      "to": "2026-01-07T13:00:00.000Z",
+      "id": "d36fddcbdc7669da463630da8d681e5e"
+    },
+    {
       "date": "Le mercredi 7 janvier 2026 de  10:35:00 à  14:00:00",
       "locality": "VACOAS",
       "localitySlug": "vacoas",
@@ -53,6 +63,16 @@
       "from": "2026-01-07T10:30:00.000Z",
       "to": "2026-01-07T11:30:00.000Z",
       "id": "8d0962c2965b98c89e28198952cd7b32"
+    },
+    {
+      "date": "Le mercredi 7 janvier 2026 de  14:45:00 à  17:00:00",
+      "locality": "CAMP CHAPELON",
+      "localitySlug": "camp-chapelon",
+      "streets": "CAMP CHAPELON/ZONE INDUSTRIAL COROMANDEL",
+      "district": "portlouis",
+      "from": "2026-01-07T10:45:00.000Z",
+      "to": "2026-01-07T13:00:00.000Z",
+      "id": "8f224e8febeb44789be7b1d8fc122200"
     }
   ]
 }

@@ -2,11 +2,18 @@
   "slug": "arsenal",
   "name": "ARSENAL",
   "district": "pamplemousses",
-  "generated": "2026-01-07T10:01:00.904Z",
-  "outageCount": 51,
+  "generated": "2026-01-07T11:00:54.512Z",
+  "outageCount": 52,
   "firstOutage": "2022-05-25",
   "lastOutage": "2026-01-07",
   "outages": [
+    {
+      "date": "Le mercredi 7 janvier 2026 de  14:45:00 à  17:00:00",
+      "streets": "NEAR STATION CEB",
+      "from": "2026-01-07T10:45:00.000Z",
+      "to": "2026-01-07T13:00:00.000Z",
+      "id": "d36fddcbdc7669da463630da8d681e5e"
+    },
     {
       "date": "Le mercredi 7 janvier 2026 de  13:00:00 à  16:00:00",
       "streets": "ROYAL ROAD, PIMENT ROUGE AND SURROUNDINGS",

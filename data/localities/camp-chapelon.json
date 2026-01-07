@@ -2,11 +2,18 @@
   "slug": "camp-chapelon",
   "name": "CAMP CHAPELON",
   "district": "portlouis",
-  "generated": "2026-01-07T10:01:00.956Z",
-  "outageCount": 2,
+  "generated": "2026-01-07T11:00:54.563Z",
+  "outageCount": 3,
   "firstOutage": "2022-03-16",
-  "lastOutage": "2025-01-16",
+  "lastOutage": "2026-01-07",
   "outages": [
+    {
+      "date": "Le mercredi 7 janvier 2026 de  14:45:00 à  17:00:00",
+      "streets": "CAMP CHAPELON/ZONE INDUSTRIAL COROMANDEL",
+      "from": "2026-01-07T10:45:00.000Z",
+      "to": "2026-01-07T13:00:00.000Z",
+      "id": "8f224e8febeb44789be7b1d8fc122200"
+    },
     {
       "date": "Le jeudi 16 janvier 2025 de  10:00:00 à  11:30:00",
       "streets": "R STEIN AND SURROUNDING REGION",
