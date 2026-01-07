@@ -1,8 +1,8 @@
 {
   "date": "2026-01-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-07T16:02:17.297Z",
-  "outageCount": 12,
+  "generated": "2026-01-07T17:04:00.727Z",
+  "outageCount": 14,
   "outages": [
     {
       "date": "Le mercredi 7 janvier 2026 de  15:30:00 à  17:00:00",
@@ -123,6 +123,26 @@
       "from": "2026-01-07T10:45:00.000Z",
       "to": "2026-01-07T13:00:00.000Z",
       "id": "8f224e8febeb44789be7b1d8fc122200"
+    },
+    {
+      "date": "Le mercredi 7 janvier 2026 de  20:20:00 à  22:00:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "AVENUE DODO PAILLES",
+      "district": "portlouis",
+      "from": "2026-01-07T16:20:00.000Z",
+      "to": "2026-01-07T18:00:00.000Z",
+      "id": "10c6c37ff2e98ac7b29d036db72b8451"
+    },
+    {
+      "date": "Le mercredi 7 janvier 2026 de  20:00:00 à  22:00:00",
+      "locality": "BAIE DU CAP",
+      "localitySlug": "baie-du-cap",
+      "streets": "BAIE DU CAP",
+      "district": "savanne",
+      "from": "2026-01-07T16:00:00.000Z",
+      "to": "2026-01-07T18:00:00.000Z",
+      "id": "63b6c5eeba0206fb72a105ad3990d7fe"
     }
   ]
 }
