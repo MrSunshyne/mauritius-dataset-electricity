@@ -2,11 +2,18 @@
   "slug": "paillotte",
   "name": "PAILLOTTE",
   "district": "plainewilhems",
-  "generated": "2026-01-07T15:01:55.867Z",
-  "outageCount": 9,
+  "generated": "2026-01-07T16:02:17.551Z",
+  "outageCount": 10,
   "firstOutage": "2023-11-22",
-  "lastOutage": "2025-11-06",
+  "lastOutage": "2026-01-07",
   "outages": [
+    {
+      "date": "Le mercredi 7 janvier 2026 de  18:00:00 à  22:00:00",
+      "streets": "PAILLOTTE",
+      "from": "2026-01-07T14:00:00.000Z",
+      "to": "2026-01-07T18:00:00.000Z",
+      "id": "d1b42451a8932bc44bf0a275681805a5"
+    },
     {
       "date": "Le jeudi 6 novembre 2025 de  15:30:00 à  18:00:00",
       "streets": "MON DESIR,WILSON",

@@ -1,8 +1,8 @@
 {
   "date": "2026-01-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-07T15:01:55.625Z",
-  "outageCount": 11,
+  "generated": "2026-01-07T16:02:17.297Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le mercredi 7 janvier 2026 de  15:30:00 à  17:00:00",
@@ -103,6 +103,16 @@
       "from": "2026-01-07T14:00:00.000Z",
       "to": "2026-01-07T18:00:00.000Z",
       "id": "c20c13b3b515716efb4e145dd5cfa7ba"
+    },
+    {
+      "date": "Le mercredi 7 janvier 2026 de  18:00:00 à  22:00:00",
+      "locality": "PAILLOTTE",
+      "localitySlug": "paillotte",
+      "streets": "PAILLOTTE",
+      "district": "plainewilhems",
+      "from": "2026-01-07T14:00:00.000Z",
+      "to": "2026-01-07T18:00:00.000Z",
+      "id": "d1b42451a8932bc44bf0a275681805a5"
     },
     {
       "date": "Le mercredi 7 janvier 2026 de  14:45:00 à  17:00:00",
