@@ -1,8 +1,8 @@
 {
   "date": "2026-01-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-08T07:03:31.944Z",
-  "outageCount": 9,
+  "generated": "2026-01-08T08:01:24.952Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le jeudi 8 janvier 2026 de  11:00:00 à  14:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-01-08T06:00:00.000Z",
       "to": "2026-01-08T11:00:00.000Z",
       "id": "407830853290a48a93ecdb3ffe9e2253"
+    },
+    {
+      "date": "Le jeudi 8 janvier 2026 de  11:00:00 à  14:00:00",
+      "locality": "SOLITUDE",
+      "localitySlug": "solitude",
+      "streets": "ROYAL ROAD, JUDIVADOO STREET, KOVIL AND SURROUNDINGS",
+      "district": "pamplemousses",
+      "from": "2026-01-08T07:00:00.000Z",
+      "to": "2026-01-08T10:00:00.000Z",
+      "id": "1eed8358b125e1341fe9322292e56c5c"
     },
     {
       "date": "Le jeudi 8 janvier 2026 de  12:00:00 à  16:00:00",
