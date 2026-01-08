@@ -1,8 +1,8 @@
 {
   "date": "2026-01-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-08T11:01:07.708Z",
-  "outageCount": 12,
+  "generated": "2026-01-08T12:01:59.263Z",
+  "outageCount": 14,
   "outages": [
     {
       "date": "Le jeudi 8 janvier 2026 de  11:00:00 à  14:00:00",
@@ -35,14 +35,14 @@
       "id": "3d653ec9f311110071575e4493c34b4c"
     },
     {
-      "date": "Le jeudi 8 janvier 2026 de  13:00:00 à  14:00:00",
+      "date": "Le jeudi 8 janvier 2026 de  13:00:00 à  18:00:00",
       "locality": "BELLE MARE",
       "localitySlug": "belle-mare",
-      "streets": "BELLE MARE, ISIDORE ROSE, QUATRE COCOS, PALMAR, CENTRAL FLACQ, BOULET ROUGE, P.D.GERSIGNY, RICHE MARE",
+      "streets": "BELLE MARE, PALMAR",
       "district": "flacq",
       "from": "2026-01-08T09:00:00.000Z",
-      "to": "2026-01-08T10:00:00.000Z",
-      "id": "a2307150781814d9a94c65a47de66c32"
+      "to": "2026-01-08T14:00:00.000Z",
+      "id": "6363f2e2b8ffe37808c3f7658e606d2b"
     },
     {
       "date": "Le jeudi 8 janvier 2026 de  14:20:00 à  16:45:00",
@@ -53,6 +53,16 @@
       "from": "2026-01-08T10:20:00.000Z",
       "to": "2026-01-08T12:45:00.000Z",
       "id": "46523c905b2d69786ebb87f01b3ae6f4"
+    },
+    {
+      "date": "Le jeudi 8 janvier 2026 de  14:00:00 à  18:00:00",
+      "locality": "BOULET ROUGE",
+      "localitySlug": "boulet-rouge",
+      "streets": "Belle Mare, Shanti Nagar et Coastal Rd Palmar.",
+      "district": "flacq",
+      "from": "2026-01-08T10:00:00.000Z",
+      "to": "2026-01-08T14:00:00.000Z",
+      "id": "0b9af7f37539188c4f3bc06efa14f750"
     },
     {
       "date": "Le jeudi 8 janvier 2026 de  10:00:00 à  15:00:00",
@@ -113,6 +123,16 @@
       "from": "2026-01-08T06:30:00.000Z",
       "to": "2026-01-08T07:15:00.000Z",
       "id": "a77fed51a0c8184c0f830763263e306e"
+    },
+    {
+      "date": "Le jeudi 8 janvier 2026 de  15:55:00 à  17:15:00",
+      "locality": "MONT ROCHES",
+      "localitySlug": "mont-roches",
+      "streets": "ROYAL ROAD, RAYMOND RIVET, NEAR KOVIL, SAVE MAX ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2026-01-08T11:55:00.000Z",
+      "to": "2026-01-08T13:15:00.000Z",
+      "id": "a11fdf01319eab6a2a5ab39143d6ee67"
     },
     {
       "date": "Le jeudi 8 janvier 2026 de  09:25:00 à  11:30:00",

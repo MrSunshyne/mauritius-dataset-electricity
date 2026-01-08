@@ -2,11 +2,18 @@
   "slug": "mont-roches",
   "name": "MONT ROCHES",
   "district": "plainewilhems",
-  "generated": "2026-01-08T11:01:07.929Z",
-  "outageCount": 18,
+  "generated": "2026-01-08T12:01:59.484Z",
+  "outageCount": 19,
   "firstOutage": "2022-05-08",
-  "lastOutage": "2025-08-19",
+  "lastOutage": "2026-01-08",
   "outages": [
+    {
+      "date": "Le jeudi 8 janvier 2026 de  15:55:00 à  17:15:00",
+      "streets": "ROYAL ROAD, RAYMOND RIVET, NEAR KOVIL, SAVE MAX ET LES ALENTOURS",
+      "from": "2026-01-08T11:55:00.000Z",
+      "to": "2026-01-08T13:15:00.000Z",
+      "id": "a11fdf01319eab6a2a5ab39143d6ee67"
+    },
     {
       "date": "Le mardi 19 août 2025 de  18:15:00 à  20:00:00",
       "streets": "AVE MADAME,AVE MANGUIERS AND NEARBY REGION MONT ROCHES",
