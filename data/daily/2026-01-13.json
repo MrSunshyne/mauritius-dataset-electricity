@@ -1,9 +1,19 @@
 {
   "date": "2026-01-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-07T18:01:16.688Z",
-  "outageCount": 1,
+  "generated": "2026-01-08T06:01:49.754Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le mardi 13 janvier 2026 de  08:30:00 à  16:30:00",
+      "locality": "WOLMAR",
+      "localitySlug": "wolmar",
+      "streets": "ROUTE COTIERE WOLMAR, PEARL BEACH HOTEL, AVE CARRIERE, AVE DES MANGUIERS, CAP OUEST, PIVOT BASSIN FLEUR, EMTEL CLARENCE ET CHASSEE DE WOLMAR",
+      "district": "blackriver",
+      "from": "2026-01-13T04:30:00.000Z",
+      "to": "2026-01-13T12:30:00.000Z",
+      "id": "990022a06fdd4298c2eae5498811b388"
+    },
     {
       "date": "Le mardi 13 janvier 2026 de  09:00:00 à  17:00:00",
       "locality": "NOUVELLE FRANCE",

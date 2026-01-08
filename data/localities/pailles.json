@@ -2,11 +2,18 @@
   "slug": "pailles",
   "name": "PAILLES",
   "district": "portlouis",
-  "generated": "2026-01-07T18:01:16.927Z",
-  "outageCount": 67,
+  "generated": "2026-01-08T06:01:49.994Z",
+  "outageCount": 68,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-01-07",
+  "lastOutage": "2026-01-08",
   "outages": [
+    {
+      "date": "Le jeudi 8 janvier 2026 de  09:25:00 à  11:30:00",
+      "streets": "AVE PERRUCHE AND SURROUNDINGS",
+      "from": "2026-01-08T05:25:00.000Z",
+      "to": "2026-01-08T07:30:00.000Z",
+      "id": "78d30b83cba25d9cafc2facfd7a8f78b"
+    },
     {
       "date": "Le mercredi 7 janvier 2026 de  20:20:00 à  22:00:00",
       "streets": "AVENUE DODO PAILLES",

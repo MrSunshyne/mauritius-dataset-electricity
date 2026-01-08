@@ -1,8 +1,8 @@
 {
   "date": "2026-01-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-07T18:01:16.688Z",
-  "outageCount": 4,
+  "generated": "2026-01-08T06:01:49.754Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le jeudi 8 janvier 2026 de  11:00:00 à  14:00:00",
@@ -43,6 +43,36 @@
       "from": "2026-01-08T08:00:00.000Z",
       "to": "2026-01-08T12:00:00.000Z",
       "id": "570ef2376b4573164c4fee47295c5236"
+    },
+    {
+      "date": "Le jeudi 8 janvier 2026 de  09:30:00 à  12:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "WILLOUGHBY & PALMERSTONE",
+      "district": "plainewilhems",
+      "from": "2026-01-08T05:30:00.000Z",
+      "to": "2026-01-08T08:00:00.000Z",
+      "id": "b33b9f6a5c8b787228159e35f66e9dee"
+    },
+    {
+      "date": "Le jeudi 8 janvier 2026 de  09:00:00 à  09:45:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": "CAMPHRIER EAU COULEE",
+      "district": "plainewilhems",
+      "from": "2026-01-08T05:00:00.000Z",
+      "to": "2026-01-08T05:45:00.000Z",
+      "id": "f1884353cbad49fb742e96f6f49f2ae7"
+    },
+    {
+      "date": "Le jeudi 8 janvier 2026 de  09:25:00 à  11:30:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "AVE PERRUCHE AND SURROUNDINGS",
+      "district": "portlouis",
+      "from": "2026-01-08T05:25:00.000Z",
+      "to": "2026-01-08T07:30:00.000Z",
+      "id": "78d30b83cba25d9cafc2facfd7a8f78b"
     }
   ]
 }

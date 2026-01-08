@@ -2,11 +2,18 @@
   "slug": "eau-coulee",
   "name": "EAU COULEE",
   "district": "plainewilhems",
-  "generated": "2026-01-07T18:01:16.817Z",
-  "outageCount": 56,
+  "generated": "2026-01-08T06:01:49.886Z",
+  "outageCount": 57,
   "firstOutage": "2022-03-23",
-  "lastOutage": "2026-01-03",
+  "lastOutage": "2026-01-08",
   "outages": [
+    {
+      "date": "Le jeudi 8 janvier 2026 de  09:00:00 à  09:45:00",
+      "streets": "CAMPHRIER EAU COULEE",
+      "from": "2026-01-08T05:00:00.000Z",
+      "to": "2026-01-08T05:45:00.000Z",
+      "id": "f1884353cbad49fb742e96f6f49f2ae7"
+    },
     {
       "date": "Le samedi 3 janvier 2026 de  20:30:00 à  22:30:00",
       "streets": "EAU COULEE, PART OF CUREPIPE, ENGRAI CATHAN, CASTEL, ENGRAIS MARTIAL",
