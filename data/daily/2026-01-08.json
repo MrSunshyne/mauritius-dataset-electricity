@@ -1,8 +1,8 @@
 {
   "date": "2026-01-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-08T09:04:02.471Z",
-  "outageCount": 10,
+  "generated": "2026-01-08T10:01:44.905Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le jeudi 8 janvier 2026 de  11:00:00 à  14:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-01-08T12:00:00.000Z",
       "to": "2026-01-08T13:00:00.000Z",
       "id": "3d653ec9f311110071575e4493c34b4c"
+    },
+    {
+      "date": "Le jeudi 8 janvier 2026 de  13:00:00 à  14:00:00",
+      "locality": "BELLE MARE",
+      "localitySlug": "belle-mare",
+      "streets": "BELLE MARE, ISIDORE ROSE, QUATRE COCOS, PALMAR, CENTRAL FLACQ, BOULET ROUGE, P.D.GERSIGNY, RICHE MARE",
+      "district": "flacq",
+      "from": "2026-01-08T09:00:00.000Z",
+      "to": "2026-01-08T10:00:00.000Z",
+      "id": "a2307150781814d9a94c65a47de66c32"
     },
     {
       "date": "Le jeudi 8 janvier 2026 de  10:00:00 à  15:00:00",

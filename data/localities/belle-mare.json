@@ -2,11 +2,18 @@
   "slug": "belle-mare",
   "name": "BELLE MARE",
   "district": "flacq",
-  "generated": "2026-01-08T09:04:02.516Z",
-  "outageCount": 27,
+  "generated": "2026-01-08T10:01:44.955Z",
+  "outageCount": 28,
   "firstOutage": "2022-08-07",
-  "lastOutage": "2025-09-07",
+  "lastOutage": "2026-01-08",
   "outages": [
+    {
+      "date": "Le jeudi 8 janvier 2026 de  13:00:00 à  14:00:00",
+      "streets": "BELLE MARE, ISIDORE ROSE, QUATRE COCOS, PALMAR, CENTRAL FLACQ, BOULET ROUGE, P.D.GERSIGNY, RICHE MARE",
+      "from": "2026-01-08T09:00:00.000Z",
+      "to": "2026-01-08T10:00:00.000Z",
+      "id": "a2307150781814d9a94c65a47de66c32"
+    },
     {
       "date": "Le dimanche 7 septembre 2025 de  08:45:00 à  16:00:00",
       "streets": "Belle Mare dans le périmètre de Hotel Residence jusqu’au Hotel Ambre.",
