@@ -1,8 +1,8 @@
 {
   "date": "2026-01-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-08T14:02:45.643Z",
-  "outageCount": 15,
+  "generated": "2026-01-08T15:02:19.501Z",
+  "outageCount": 16,
   "outages": [
     {
       "date": "Le jeudi 8 janvier 2026 de  11:00:00 à  14:00:00",
@@ -15,34 +15,34 @@
       "id": "0e0bd9dcf7ff4136fca80459600edcd7"
     },
     {
-      "date": "Le jeudi 8 janvier 2026 de  08:45:00 à  18:30:00",
+      "date": "Le jeudi 8 janvier 2026 de  08:45:00 à  19:00:00",
       "locality": "TROU D-EAU DOUCE",
       "localitySlug": "trou-d-eau-douce",
       "streets": "Trou D’Eau Douce dans le périmètre de La Pelouse jusqu’au La route côtiere Palmar près l’hôtel C Mauritius",
       "district": "flacq",
       "from": "2026-01-08T04:45:00.000Z",
-      "to": "2026-01-08T14:30:00.000Z",
-      "id": "e672c9d9fabf87a72e3a54f67f839f41"
+      "to": "2026-01-08T15:00:00.000Z",
+      "id": "f76e17825462b658e66968d38e5f92f7"
     },
     {
-      "date": "Le jeudi 8 janvier 2026 de  16:00:00 à  18:30:00",
+      "date": "Le jeudi 8 janvier 2026 de  16:00:00 à  19:00:00",
       "locality": "TROU D-EAU DOUCE",
       "localitySlug": "trou-d-eau-douce",
       "streets": "Trou D’Eau Douce dans le périmètre de Coastal Rd, La Pelouse, Le Mao, Four a Chaud, Cite Millionaire, Route Royale, Nowbuth Rd Et Le Chemin avoisinante",
       "district": "flacq",
       "from": "2026-01-08T12:00:00.000Z",
-      "to": "2026-01-08T14:30:00.000Z",
-      "id": "cd7264dca8dec72fbbd6784d24884475"
+      "to": "2026-01-08T15:00:00.000Z",
+      "id": "220db00e29e3f32b0879b41b4840b976"
     },
     {
-      "date": "Le jeudi 8 janvier 2026 de  13:00:00 à  18:00:00",
+      "date": "Le jeudi 8 janvier 2026 de  13:00:00 à  19:00:00",
       "locality": "BELLE MARE",
       "localitySlug": "belle-mare",
       "streets": "BELLE MARE, PALMAR",
       "district": "flacq",
       "from": "2026-01-08T09:00:00.000Z",
-      "to": "2026-01-08T14:00:00.000Z",
-      "id": "6363f2e2b8ffe37808c3f7658e606d2b"
+      "to": "2026-01-08T15:00:00.000Z",
+      "id": "22f0f67e686c40d8766375761ef58b16"
     },
     {
       "date": "Le jeudi 8 janvier 2026 de  14:20:00 à  17:30:00",
@@ -55,14 +55,14 @@
       "id": "5f76bd9ee1c4a6095e06725dfd95c343"
     },
     {
-      "date": "Le jeudi 8 janvier 2026 de  14:00:00 à  18:00:00",
+      "date": "Le jeudi 8 janvier 2026 de  14:00:00 à  19:00:00",
       "locality": "BOULET ROUGE",
       "localitySlug": "boulet-rouge",
       "streets": "Belle Mare, Shanti Nagar et Coastal Rd Palmar.",
       "district": "flacq",
       "from": "2026-01-08T10:00:00.000Z",
-      "to": "2026-01-08T14:00:00.000Z",
-      "id": "0b9af7f37539188c4f3bc06efa14f750"
+      "to": "2026-01-08T15:00:00.000Z",
+      "id": "836f18a9f458f2011ce41d200b2de783"
     },
     {
       "date": "Le jeudi 8 janvier 2026 de  10:00:00 à  15:00:00",
@@ -93,6 +93,16 @@
       "from": "2026-01-08T07:00:00.000Z",
       "to": "2026-01-08T11:00:00.000Z",
       "id": "22a29fd79e1280a1aeb64dc0b8830b39"
+    },
+    {
+      "date": "Le jeudi 8 janvier 2026 de  17:30:00 à  23:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "WINNERS, BASALT, SCHOOL LANE, KJW LANE, DREAM PRICE ET LES ALENTOURS",
+      "district": "pamplemousses",
+      "from": "2026-01-08T13:30:00.000Z",
+      "to": "2026-01-08T19:00:00.000Z",
+      "id": "21a88a317b93fbecf1aecc759a7bd570"
     },
     {
       "date": "Le jeudi 8 janvier 2026 de  12:00:00 à  16:00:00",

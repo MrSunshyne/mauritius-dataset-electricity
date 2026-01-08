@@ -2,11 +2,18 @@
   "slug": "terre-rouge",
   "name": "TERRE ROUGE",
   "district": "pamplemousses",
-  "generated": "2026-01-08T14:02:45.993Z",
-  "outageCount": 96,
+  "generated": "2026-01-08T15:02:19.835Z",
+  "outageCount": 97,
   "firstOutage": "2022-03-14",
-  "lastOutage": "2025-12-26",
+  "lastOutage": "2026-01-08",
   "outages": [
+    {
+      "date": "Le jeudi 8 janvier 2026 de  17:30:00 à  23:00:00",
+      "streets": "WINNERS, BASALT, SCHOOL LANE, KJW LANE, DREAM PRICE ET LES ALENTOURS",
+      "from": "2026-01-08T13:30:00.000Z",
+      "to": "2026-01-08T19:00:00.000Z",
+      "id": "21a88a317b93fbecf1aecc759a7bd570"
+    },
     {
       "date": "Le vendredi 26 décembre 2025 de  20:00:00 à  23:00:00",
       "streets": "TERRE ROUGE, ST JOSEPH, NOTRE DAME, MONTAGNE LONGUE, BOIS PIGNOLET, KHOYRATTY",
