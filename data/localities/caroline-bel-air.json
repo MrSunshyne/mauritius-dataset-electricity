@@ -2,11 +2,18 @@
   "slug": "caroline-bel-air",
   "name": "CAROLINE BEL AIR",
   "district": "flacq",
-  "generated": "2026-01-08T10:01:44.998Z",
-  "outageCount": 39,
+  "generated": "2026-01-08T11:01:07.797Z",
+  "outageCount": 40,
   "firstOutage": "2022-06-01",
-  "lastOutage": "2026-01-06",
+  "lastOutage": "2026-01-08",
   "outages": [
+    {
+      "date": "Le jeudi 8 janvier 2026 de  14:20:00 à  16:45:00",
+      "streets": "MAMET ROAD ET LES ALENTOURS",
+      "from": "2026-01-08T10:20:00.000Z",
+      "to": "2026-01-08T12:45:00.000Z",
+      "id": "46523c905b2d69786ebb87f01b3ae6f4"
+    },
     {
       "date": "Le mardi 6 janvier 2026 de  12:20:00 à  14:30:00",
       "streets": "MORC CAUNHYE CHEMIN BALANCE",

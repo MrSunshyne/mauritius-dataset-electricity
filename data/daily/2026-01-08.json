@@ -1,8 +1,8 @@
 {
   "date": "2026-01-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-08T10:01:44.905Z",
-  "outageCount": 11,
+  "generated": "2026-01-08T11:01:07.708Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le jeudi 8 janvier 2026 de  11:00:00 à  14:00:00",
@@ -45,6 +45,16 @@
       "id": "a2307150781814d9a94c65a47de66c32"
     },
     {
+      "date": "Le jeudi 8 janvier 2026 de  14:20:00 à  16:45:00",
+      "locality": "CAROLINE BEL AIR",
+      "localitySlug": "caroline-bel-air",
+      "streets": "MAMET ROAD ET LES ALENTOURS",
+      "district": "flacq",
+      "from": "2026-01-08T10:20:00.000Z",
+      "to": "2026-01-08T12:45:00.000Z",
+      "id": "46523c905b2d69786ebb87f01b3ae6f4"
+    },
+    {
       "date": "Le jeudi 8 janvier 2026 de  10:00:00 à  15:00:00",
       "locality": "MAHEBOURG",
       "localitySlug": "mahebourg",
@@ -55,14 +65,14 @@
       "id": "407830853290a48a93ecdb3ffe9e2253"
     },
     {
-      "date": "Le jeudi 8 janvier 2026 de  11:00:00 à  14:00:00",
+      "date": "Le jeudi 8 janvier 2026 de  11:00:00 à  15:00:00",
       "locality": "SOLITUDE",
       "localitySlug": "solitude",
       "streets": "ROYAL ROAD, JUDIVADOO STREET, KOVIL AND SURROUNDINGS",
       "district": "pamplemousses",
       "from": "2026-01-08T07:00:00.000Z",
-      "to": "2026-01-08T10:00:00.000Z",
-      "id": "1eed8358b125e1341fe9322292e56c5c"
+      "to": "2026-01-08T11:00:00.000Z",
+      "id": "22a29fd79e1280a1aeb64dc0b8830b39"
     },
     {
       "date": "Le jeudi 8 janvier 2026 de  12:00:00 à  16:00:00",
