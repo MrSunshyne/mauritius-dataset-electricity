@@ -2,11 +2,18 @@
   "slug": "floreal",
   "name": "FLOREAL",
   "district": "plainewilhems",
-  "generated": "2026-01-08T06:01:49.896Z",
-  "outageCount": 75,
+  "generated": "2026-01-08T07:03:32.085Z",
+  "outageCount": 76,
   "firstOutage": "2022-03-31",
-  "lastOutage": "2025-12-22",
+  "lastOutage": "2026-01-08",
   "outages": [
+    {
+      "date": "Le jeudi 8 janvier 2026 de  10:30:00 à  11:15:00",
+      "streets": "LA RUE THEVNEAU, MOHABIR MANGAR STREET",
+      "from": "2026-01-08T06:30:00.000Z",
+      "to": "2026-01-08T07:15:00.000Z",
+      "id": "a77fed51a0c8184c0f830763263e306e"
+    },
     {
       "date": "Le lundi 22 décembre 2025 de  16:15:00 à  17:20:00",
       "streets": "FLAT HEIGHTS, RENESENCE, MORC LA VANILLE, MORC GUIMBEAU ET LES ALENTOURS",

@@ -1,8 +1,8 @@
 {
   "date": "2026-01-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-08T06:01:49.754Z",
-  "outageCount": 7,
+  "generated": "2026-01-08T07:03:31.944Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le jeudi 8 janvier 2026 de  11:00:00 à  14:00:00",
@@ -35,6 +35,16 @@
       "id": "3d653ec9f311110071575e4493c34b4c"
     },
     {
+      "date": "Le jeudi 8 janvier 2026 de  10:00:00 à  15:00:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "CHOUFLEUR, DEBARCADERE AND SURROUNDINGS",
+      "district": "grandport",
+      "from": "2026-01-08T06:00:00.000Z",
+      "to": "2026-01-08T11:00:00.000Z",
+      "id": "407830853290a48a93ecdb3ffe9e2253"
+    },
+    {
       "date": "Le jeudi 8 janvier 2026 de  12:00:00 à  16:00:00",
       "locality": "CANDOS VACOAS",
       "localitySlug": "candos-vacoas",
@@ -63,6 +73,16 @@
       "from": "2026-01-08T05:00:00.000Z",
       "to": "2026-01-08T05:45:00.000Z",
       "id": "f1884353cbad49fb742e96f6f49f2ae7"
+    },
+    {
+      "date": "Le jeudi 8 janvier 2026 de  10:30:00 à  11:15:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "LA RUE THEVNEAU, MOHABIR MANGAR STREET",
+      "district": "plainewilhems",
+      "from": "2026-01-08T06:30:00.000Z",
+      "to": "2026-01-08T07:15:00.000Z",
+      "id": "a77fed51a0c8184c0f830763263e306e"
     },
     {
       "date": "Le jeudi 8 janvier 2026 de  09:25:00 à  11:30:00",

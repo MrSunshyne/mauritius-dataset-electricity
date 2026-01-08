@@ -2,11 +2,18 @@
   "slug": "mahebourg",
   "name": "MAHEBOURG",
   "district": "grandport",
-  "generated": "2026-01-08T06:01:49.955Z",
-  "outageCount": 69,
+  "generated": "2026-01-08T07:03:32.143Z",
+  "outageCount": 70,
   "firstOutage": "2022-04-07",
-  "lastOutage": "2026-01-05",
+  "lastOutage": "2026-01-08",
   "outages": [
+    {
+      "date": "Le jeudi 8 janvier 2026 de  10:00:00 à  15:00:00",
+      "streets": "CHOUFLEUR, DEBARCADERE AND SURROUNDINGS",
+      "from": "2026-01-08T06:00:00.000Z",
+      "to": "2026-01-08T11:00:00.000Z",
+      "id": "407830853290a48a93ecdb3ffe9e2253"
+    },
     {
       "date": "Le lundi 5 janvier 2026 de  09:30:00 à  12:30:00",
       "streets": "DOOLAR LANE, ROBILLARD LANE & NATIVE LODGE & SPA",

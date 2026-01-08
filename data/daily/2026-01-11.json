@@ -1,8 +1,8 @@
 {
   "date": "2026-01-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-08T06:01:49.754Z",
-  "outageCount": 2,
+  "generated": "2026-01-08T07:03:31.944Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le dimanche 11 janvier 2026 de  08:30:00 à  17:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-01-11T04:30:00.000Z",
       "to": "2026-01-11T10:00:00.000Z",
       "id": "c45e92816270543c53d40382060a9456"
+    },
+    {
+      "date": "Le dimanche 11 janvier 2026 de  08:30:00 à  16:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "Morcellement Antelme, Morcellement Lumina, Morcellement Moonyen et Morcellement Leclezio",
+      "district": "plainewilhems",
+      "from": "2026-01-11T04:30:00.000Z",
+      "to": "2026-01-11T12:00:00.000Z",
+      "id": "de6b456ff701dfc49c6d7cb46d6787b6"
     }
   ]
 }
