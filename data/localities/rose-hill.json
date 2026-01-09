@@ -2,11 +2,18 @@
   "slug": "rose-hill",
   "name": "ROSE-HILL",
   "district": "plainewilhems",
-  "generated": "2026-01-08T18:01:26.870Z",
-  "outageCount": 119,
+  "generated": "2026-01-09T06:01:50.017Z",
+  "outageCount": 120,
   "firstOutage": "2022-05-20",
-  "lastOutage": "2025-12-20",
+  "lastOutage": "2026-01-09",
   "outages": [
+    {
+      "date": "Le vendredi 9 janvier 2026 de  06:00:00 à  10:00:00",
+      "streets": "STEVENSON, BOUNDARY, CRETIN AND SURROUNDINGS",
+      "from": "2026-01-09T02:00:00.000Z",
+      "to": "2026-01-09T06:00:00.000Z",
+      "id": "45f10498098b0c9c502955525823094a"
+    },
     {
       "date": "Le samedi 20 décembre 2025 de  14:00:00 à  18:00:00",
       "streets": "DUNCAN,ELIAS,ROYAL ROAD,RUE NALLA.near arab town/market",

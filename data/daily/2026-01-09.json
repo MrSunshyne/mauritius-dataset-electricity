@@ -1,8 +1,8 @@
 {
   "date": "2026-01-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-08T18:01:26.563Z",
-  "outageCount": 1,
+  "generated": "2026-01-09T06:01:49.709Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le vendredi 9 janvier 2026 de  08:30:00 à  15:30:00",
@@ -13,6 +13,26 @@
       "from": "2026-01-09T04:30:00.000Z",
       "to": "2026-01-09T11:30:00.000Z",
       "id": "3b85101c773981903796769f9a2ad211"
+    },
+    {
+      "date": "Le vendredi 9 janvier 2026 de  07:00:00 à  13:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "RESIDENCE SAINT JACQUES",
+      "district": "blackriver",
+      "from": "2026-01-09T03:00:00.000Z",
+      "to": "2026-01-09T09:00:00.000Z",
+      "id": "37225b7eeb2def0a6dffdf5447ac10c1"
+    },
+    {
+      "date": "Le vendredi 9 janvier 2026 de  06:00:00 à  10:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "STEVENSON, BOUNDARY, CRETIN AND SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2026-01-09T02:00:00.000Z",
+      "to": "2026-01-09T06:00:00.000Z",
+      "id": "45f10498098b0c9c502955525823094a"
     }
   ]
 }

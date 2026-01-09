@@ -1,8 +1,8 @@
 {
   "date": "2026-01-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-08T18:01:26.564Z",
-  "outageCount": 6,
+  "generated": "2026-01-09T06:01:49.709Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le samedi 10 janvier 2026 de  08:30:00 à  13:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-01-10T06:00:00.000Z",
       "to": "2026-01-10T10:00:00.000Z",
       "id": "74f5f84ae7866c91418cce9e8fb5ebe8"
+    },
+    {
+      "date": "Le samedi 10 janvier 2026 de  08:30:00 à  15:30:00",
+      "locality": "PLAINE DES PAPAYES",
+      "localitySlug": "plaine-des-papayes",
+      "streets": "DANS LES ENVIRONS DE MORC RAMPHUL A PL DES PAPAYES",
+      "district": "pamplemousses",
+      "from": "2026-01-10T04:30:00.000Z",
+      "to": "2026-01-10T11:30:00.000Z",
+      "id": "4040601a8bd1e52386f9b0730f14be4e"
     },
     {
       "date": "Le samedi 10 janvier 2026 de  08:30:00 à  16:00:00",

@@ -2,11 +2,18 @@
   "slug": "rose-belle",
   "name": "ROSE BELLE",
   "district": "grandport",
-  "generated": "2026-01-08T18:01:26.868Z",
-  "outageCount": 73,
+  "generated": "2026-01-09T06:01:50.016Z",
+  "outageCount": 74,
   "firstOutage": "2022-05-12",
-  "lastOutage": "2025-12-11",
+  "lastOutage": "2026-01-15",
   "outages": [
+    {
+      "date": "Le jeudi 15 janvier 2026 de  09:00:00 à  17:00:00",
+      "streets": "Rose Belle habitant dans le périmètre et les rues suivantes : Morcellement Haton, VRS Orchidee, Madame Lolo, MITD Rose Belle, Ajanta Road, Capitol Dream Mall, Cité EDC Madame Lolo, La Gare Street, Kulpoo Lane, Railway Road, Mongelard Road et une partie de la Route Royale Rose Belle",
+      "from": "2026-01-15T05:00:00.000Z",
+      "to": "2026-01-15T13:00:00.000Z",
+      "id": "8564ec42ac53f2b0cb03437b343ead4a"
+    },
     {
       "date": "Le jeudi 11 décembre 2025 de  13:00:00 à  17:00:00",
       "streets": "Rose Belle habitant dans le périmètre et les rues suivantes: Chemin Capitol, Old Market Lane et une partie de la Route Royale Rose Belle",

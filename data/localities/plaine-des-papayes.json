@@ -2,11 +2,18 @@
   "slug": "plaine-des-papayes",
   "name": "PLAINE DES PAPAYES",
   "district": "pamplemousses",
-  "generated": "2026-01-08T18:01:26.818Z",
-  "outageCount": 33,
+  "generated": "2026-01-09T06:01:49.965Z",
+  "outageCount": 34,
   "firstOutage": "2022-05-22",
-  "lastOutage": "2025-12-29",
+  "lastOutage": "2026-01-10",
   "outages": [
+    {
+      "date": "Le samedi 10 janvier 2026 de  08:30:00 à  15:30:00",
+      "streets": "DANS LES ENVIRONS DE MORC RAMPHUL A PL DES PAPAYES",
+      "from": "2026-01-10T04:30:00.000Z",
+      "to": "2026-01-10T11:30:00.000Z",
+      "id": "4040601a8bd1e52386f9b0730f14be4e"
+    },
     {
       "date": "Le lundi 29 décembre 2025 de  22:00:00 à  02:00:00",
       "streets": "JINNAH RD-RAMGOLAM ROAD-ROYAL RD PLAINE DES PAPAYES",
