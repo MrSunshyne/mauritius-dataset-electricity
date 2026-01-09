@@ -1,8 +1,8 @@
 {
   "date": "2026-01-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-09T11:01:12.816Z",
-  "outageCount": 7,
+  "generated": "2026-01-09T12:02:01.903Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le samedi 10 janvier 2026 de  08:30:00 à  13:00:00",
@@ -73,6 +73,26 @@
       "from": "2026-01-10T04:30:00.000Z",
       "to": "2026-01-10T11:00:00.000Z",
       "id": "097723570cc9bdd8e493ec715c153b48"
+    },
+    {
+      "date": "Le samedi 10 janvier 2026 de  14:00:00 à  15:00:00",
+      "locality": "PETIT GABRIEL(RODRIGUES)",
+      "localitySlug": "petit-gabriel",
+      "streets": "Bigarade, Citron Donis, Malartic, Bassin Gallard, Eau Vanée, Fond La Bonté et Fond Baie Aux Huitres",
+      "district": "rodrigues",
+      "from": "2026-01-10T10:00:00.000Z",
+      "to": "2026-01-10T11:00:00.000Z",
+      "id": "150f6dfeb5ae33bb2a0a838069f759dc"
+    },
+    {
+      "date": "Le samedi 10 janvier 2026 de  08:00:00 à  09:00:00",
+      "locality": "PETIT GABRIEL(RODRIGUES)",
+      "localitySlug": "petit-gabriel",
+      "streets": "Bigarade, Citron Donis, Malartic, Bassin Gallard, Eau Vanée, Fond La Bonté et Fond Baie Aux Huitres",
+      "district": "rodrigues",
+      "from": "2026-01-10T04:00:00.000Z",
+      "to": "2026-01-10T05:00:00.000Z",
+      "id": "7b66d8a0c0a35237ec8aba5cf2e39629"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "date": "2026-01-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-09T11:01:12.816Z",
-  "outageCount": 2,
+  "generated": "2026-01-09T12:02:01.903Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le mardi 13 janvier 2026 de  08:30:00 à  16:30:00",
@@ -23,6 +23,16 @@
       "from": "2026-01-13T05:00:00.000Z",
       "to": "2026-01-13T13:00:00.000Z",
       "id": "0df1d8c3721d1baefa4b4bf7f6536d35"
+    },
+    {
+      "date": "Le mardi 13 janvier 2026 de  09:00:00 à  16:00:00",
+      "locality": "LA FLORA",
+      "localitySlug": "la-flora",
+      "streets": "La région et perimètre de Beau Climat et de Wireless Road La Flora",
+      "district": "savanne",
+      "from": "2026-01-13T05:00:00.000Z",
+      "to": "2026-01-13T12:00:00.000Z",
+      "id": "c485ff7e0d0c3492d70b857802fcc1af"
     }
   ]
 }

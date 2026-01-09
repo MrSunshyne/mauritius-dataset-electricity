@@ -2,11 +2,18 @@
   "slug": "la-flora",
   "name": "LA FLORA",
   "district": "savanne",
-  "generated": "2026-01-09T11:01:12.988Z",
-  "outageCount": 29,
+  "generated": "2026-01-09T12:02:02.082Z",
+  "outageCount": 30,
   "firstOutage": "2022-10-09",
-  "lastOutage": "2025-12-14",
+  "lastOutage": "2026-01-13",
   "outages": [
+    {
+      "date": "Le mardi 13 janvier 2026 de  09:00:00 à  16:00:00",
+      "streets": "La région et perimètre de Beau Climat et de Wireless Road La Flora",
+      "from": "2026-01-13T05:00:00.000Z",
+      "to": "2026-01-13T12:00:00.000Z",
+      "id": "c485ff7e0d0c3492d70b857802fcc1af"
+    },
     {
       "date": "Le dimanche 14 décembre 2025 de  08:00:00 à  15:00:00",
       "streets": "La Flora habitant dans les environs de School Lane, Kutwaroo Lane, Seebaruth Lane, Matoo Lane, Boston Lane, Vivekananda Lane et Pamplemousse Lane",
