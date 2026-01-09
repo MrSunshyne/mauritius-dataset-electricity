@@ -2,11 +2,18 @@
   "slug": "wootun",
   "name": "WOOTUN",
   "district": "plainewilhems",
-  "generated": "2026-01-09T09:03:58.554Z",
-  "outageCount": 22,
+  "generated": "2026-01-09T10:01:15.300Z",
+  "outageCount": 23,
   "firstOutage": "2022-08-05",
-  "lastOutage": "2026-01-07",
+  "lastOutage": "2026-01-09",
   "outages": [
+    {
+      "date": "Le vendredi 9 janvier 2026 de  13:30:00 à  14:45:00",
+      "streets": "PINEWOOD GARDEN, INDIAN OIL ET LES ALENTOURS",
+      "from": "2026-01-09T09:30:00.000Z",
+      "to": "2026-01-09T10:45:00.000Z",
+      "id": "6306313eb4ea863be92ef9d79bb32cc9"
+    },
     {
       "date": "Le mercredi 7 janvier 2026 de  15:30:00 à  16:30:00",
       "streets": "Morcellement Richwood",
