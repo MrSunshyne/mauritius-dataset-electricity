@@ -2,8 +2,8 @@
   "slug": "pereybere",
   "name": "PEREYBERE",
   "district": "rivieredurempart",
-  "generated": "2026-01-09T10:01:15.179Z",
-  "outageCount": 89,
+  "generated": "2026-01-09T11:01:13.053Z",
+  "outageCount": 90,
   "firstOutage": "2022-03-25",
   "lastOutage": "2026-01-10",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-01-10T04:30:00.000Z",
       "to": "2026-01-10T11:00:00.000Z",
       "id": "d7e9f508c27e3932fd38084a19fedc0b"
+    },
+    {
+      "date": "Le vendredi 9 janvier 2026 de  14:00:00 à  16:00:00",
+      "streets": "ROUTE ROYALE CHEMIN VINGT PIED, LE PAIX ROAD ET LES ALENTOURS.",
+      "from": "2026-01-09T10:00:00.000Z",
+      "to": "2026-01-09T12:00:00.000Z",
+      "id": "e3fa501188abaa38ad1425611acf6631"
     },
     {
       "date": "Le jeudi 1 janvier 2026 de  15:15:00 à  18:15:00",

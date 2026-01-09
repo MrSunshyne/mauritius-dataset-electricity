@@ -2,11 +2,18 @@
   "slug": "eau-coulee",
   "name": "EAU COULEE",
   "district": "plainewilhems",
-  "generated": "2026-01-09T10:01:15.069Z",
-  "outageCount": 57,
+  "generated": "2026-01-09T11:01:12.943Z",
+  "outageCount": 58,
   "firstOutage": "2022-03-23",
-  "lastOutage": "2026-01-08",
+  "lastOutage": "2026-01-12",
   "outages": [
+    {
+      "date": "Le lundi 12 janvier 2026 de  09:00:00 à  15:00:00",
+      "streets": "dans les périmètres et rues suivante : Abbe Laval Street et Charles Cheron Street",
+      "from": "2026-01-12T05:00:00.000Z",
+      "to": "2026-01-12T11:00:00.000Z",
+      "id": "ecd351ce0bdf042b60e6657ba8846fec"
+    },
     {
       "date": "Le jeudi 8 janvier 2026 de  09:00:00 à  09:45:00",
       "streets": "CAMPHRIER EAU COULEE",

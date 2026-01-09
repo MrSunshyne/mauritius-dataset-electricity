@@ -1,8 +1,8 @@
 {
   "date": "2026-01-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-09T10:01:14.939Z",
-  "outageCount": 5,
+  "generated": "2026-01-09T11:01:12.815Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le vendredi 9 janvier 2026 de  08:30:00 à  15:30:00",
@@ -53,6 +53,16 @@
       "from": "2026-01-09T09:30:00.000Z",
       "to": "2026-01-09T10:45:00.000Z",
       "id": "6306313eb4ea863be92ef9d79bb32cc9"
+    },
+    {
+      "date": "Le vendredi 9 janvier 2026 de  14:00:00 à  16:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "ROUTE ROYALE CHEMIN VINGT PIED, LE PAIX ROAD ET LES ALENTOURS.",
+      "district": "rivieredurempart",
+      "from": "2026-01-09T10:00:00.000Z",
+      "to": "2026-01-09T12:00:00.000Z",
+      "id": "e3fa501188abaa38ad1425611acf6631"
     }
   ]
 }
