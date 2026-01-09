@@ -2,11 +2,18 @@
   "slug": "camp-de-masque",
   "name": "CAMP DE MASQUE",
   "district": "flacq",
-  "generated": "2026-01-09T07:04:03.808Z",
-  "outageCount": 13,
+  "generated": "2026-01-09T08:01:55.385Z",
+  "outageCount": 14,
   "firstOutage": "2022-07-09",
-  "lastOutage": "2025-10-20",
+  "lastOutage": "2026-01-09",
   "outages": [
+    {
+      "date": "Le vendredi 9 janvier 2026 de  10:45:00 à  12:00:00",
+      "streets": "BALANCE JOHN RD, ROYAL ROAD",
+      "from": "2026-01-09T06:45:00.000Z",
+      "to": "2026-01-09T08:00:00.000Z",
+      "id": "07b2ef2c4f7a6bcfa5bbd1f632d68c85"
+    },
     {
       "date": "Le lundi 20 octobre 2025 de  17:15:00 à  18:00:00",
       "streets": "MORC VRS UNITE CAMP DE MASQUE",

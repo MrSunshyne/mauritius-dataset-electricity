@@ -1,8 +1,8 @@
 {
   "date": "2026-01-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-09T07:04:03.735Z",
-  "outageCount": 3,
+  "generated": "2026-01-09T08:01:55.302Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le vendredi 9 janvier 2026 de  08:30:00 à  15:30:00",
@@ -23,6 +23,16 @@
       "from": "2026-01-09T03:00:00.000Z",
       "to": "2026-01-09T09:00:00.000Z",
       "id": "37225b7eeb2def0a6dffdf5447ac10c1"
+    },
+    {
+      "date": "Le vendredi 9 janvier 2026 de  10:45:00 à  12:00:00",
+      "locality": "CAMP DE MASQUE",
+      "localitySlug": "camp-de-masque",
+      "streets": "BALANCE JOHN RD, ROYAL ROAD",
+      "district": "flacq",
+      "from": "2026-01-09T06:45:00.000Z",
+      "to": "2026-01-09T08:00:00.000Z",
+      "id": "07b2ef2c4f7a6bcfa5bbd1f632d68c85"
     },
     {
       "date": "Le vendredi 9 janvier 2026 de  06:00:00 à  10:00:00",
