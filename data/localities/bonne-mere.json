@@ -2,11 +2,18 @@
   "slug": "bonne-mere",
   "name": "BONNE MERE",
   "district": "flacq",
-  "generated": "2026-01-09T18:01:56.871Z",
-  "outageCount": 12,
+  "generated": "2026-01-10T06:01:17.220Z",
+  "outageCount": 13,
   "firstOutage": "2022-08-14",
-  "lastOutage": "2025-07-31",
+  "lastOutage": "2026-01-10",
   "outages": [
+    {
+      "date": "Le samedi 10 janvier 2026 de  09:30:00 à  12:30:00",
+      "streets": "BONNE MERE EN DIRECTION DE LALLMATIE, SHIVALA RD ET DANS LES ALENTOURS DE LA BOUTIQUE KANAYA",
+      "from": "2026-01-10T05:30:00.000Z",
+      "to": "2026-01-10T08:30:00.000Z",
+      "id": "4ae65d6a3119bd37cbe230f3a61d309e"
+    },
     {
       "date": "Le jeudi 31 juillet 2025 de  11:00:00 à  11:30:00",
       "streets": "MORC BLUE PRINT BONNE MERE",

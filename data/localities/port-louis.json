@@ -2,11 +2,18 @@
   "slug": "port-louis",
   "name": "PORT-LOUIS",
   "district": "portlouis",
-  "generated": "2026-01-09T18:01:57.078Z",
-  "outageCount": 99,
+  "generated": "2026-01-10T06:01:17.431Z",
+  "outageCount": 100,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2025-12-14",
+  "lastOutage": "2026-01-10",
   "outages": [
+    {
+      "date": "Le samedi 10 janvier 2026 de  08:45:00 à  10:15:00",
+      "streets": "ST LOUIS ST, POIVRE ST ET LES ALENTOURS",
+      "from": "2026-01-10T04:45:00.000Z",
+      "to": "2026-01-10T06:15:00.000Z",
+      "id": "c87d37327531e316832513c2dfbad384"
+    },
     {
       "date": "Le dimanche 14 décembre 2025 de  08:30:00 à  15:00:00",
       "streets": "DANS LES ENVIRONS DES RUES WELLINGTON ET LABOURDONNAIS",
