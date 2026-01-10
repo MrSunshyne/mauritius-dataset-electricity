@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-01-10T17:00:59.891Z",
-  "outageCount": 95,
+  "generated": "2026-01-10T18:01:09.196Z",
+  "outageCount": 96,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2025-12-21",
+  "lastOutage": "2026-01-10",
   "outages": [
+    {
+      "date": "Le samedi 10 janvier 2026 de  21:30:00 à  02:00:00",
+      "streets": "SHIAVALA RD TRIOLET",
+      "from": "2026-01-10T17:30:00.000Z",
+      "to": "2026-01-09T22:00:00.000Z",
+      "id": "8d2b803ae09e0927f6a43f30908e2a0b"
+    },
     {
       "date": "Le dimanche 21 décembre 2025 de  15:00:00 à  18:00:00",
       "streets": "TBS LANE ET LES ALENTOURS",

@@ -1,8 +1,8 @@
 {
   "date": "2026-01-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-10T17:00:59.551Z",
-  "outageCount": 13,
+  "generated": "2026-01-10T18:01:08.855Z",
+  "outageCount": 14,
   "outages": [
     {
       "date": "Le samedi 10 janvier 2026 de  08:30:00 à  13:00:00",
@@ -63,6 +63,16 @@
       "from": "2026-01-10T04:30:00.000Z",
       "to": "2026-01-10T11:30:00.000Z",
       "id": "4040601a8bd1e52386f9b0730f14be4e"
+    },
+    {
+      "date": "Le samedi 10 janvier 2026 de  21:30:00 à  02:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "SHIAVALA RD TRIOLET",
+      "district": "pamplemousses",
+      "from": "2026-01-10T17:30:00.000Z",
+      "to": "2026-01-09T22:00:00.000Z",
+      "id": "8d2b803ae09e0927f6a43f30908e2a0b"
     },
     {
       "date": "Le samedi 10 janvier 2026 de  08:30:00 à  16:00:00",
