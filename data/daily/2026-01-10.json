@@ -1,8 +1,8 @@
 {
   "date": "2026-01-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-10T16:00:56.930Z",
-  "outageCount": 12,
+  "generated": "2026-01-10T17:00:59.551Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le samedi 10 janvier 2026 de  08:30:00 à  13:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-01-10T05:30:00.000Z",
       "to": "2026-01-10T08:30:00.000Z",
       "id": "4ae65d6a3119bd37cbe230f3a61d309e"
+    },
+    {
+      "date": "Le samedi 10 janvier 2026 de  19:00:00 à  23:00:00",
+      "locality": "CARREAU ACCACIA",
+      "localitySlug": "carreau-accacia",
+      "streets": "CARREAU ACCACIA DANS LES ENVIRONS SHIVALA ET CHEMIN PONT.",
+      "district": "grandport",
+      "from": "2026-01-10T15:00:00.000Z",
+      "to": "2026-01-10T19:00:00.000Z",
+      "id": "4077c667b331aa6c1140d09aa63187cb"
     },
     {
       "date": "Le samedi 10 janvier 2026 de  08:30:00 à  15:00:00",
