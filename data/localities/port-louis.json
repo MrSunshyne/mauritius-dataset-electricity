@@ -2,11 +2,18 @@
   "slug": "port-louis",
   "name": "PORT-LOUIS",
   "district": "portlouis",
-  "generated": "2026-01-11T10:01:01.340Z",
-  "outageCount": 100,
+  "generated": "2026-01-11T11:01:04.691Z",
+  "outageCount": 101,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-01-10",
+  "lastOutage": "2026-01-11",
   "outages": [
+    {
+      "date": "Le dimanche 11 janvier 2026 de  14:30:00 à  15:15:00",
+      "streets": "CHEMIN KWAN TEE LES SALINES ET LES RUELLES AVOISINANTES.",
+      "from": "2026-01-11T10:30:00.000Z",
+      "to": "2026-01-11T11:15:00.000Z",
+      "id": "9fc510c512567446c41e461f30a1f6ee"
+    },
     {
       "date": "Le samedi 10 janvier 2026 de  08:45:00 à  10:15:00",
       "streets": "ST LOUIS ST, POIVRE ST ET LES ALENTOURS",

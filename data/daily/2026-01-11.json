@@ -1,8 +1,8 @@
 {
   "date": "2026-01-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-11T10:01:01.053Z",
-  "outageCount": 8,
+  "generated": "2026-01-11T11:01:04.416Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le dimanche 11 janvier 2026 de  08:30:00 à  12:00:00",
@@ -83,6 +83,16 @@
       "from": "2026-01-11T05:00:00.000Z",
       "to": "2026-01-11T05:30:00.000Z",
       "id": "a259be49d6bd1b3c33193cc03ee22f26"
+    },
+    {
+      "date": "Le dimanche 11 janvier 2026 de  14:30:00 à  15:15:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "CHEMIN KWAN TEE LES SALINES ET LES RUELLES AVOISINANTES.",
+      "district": "portlouis",
+      "from": "2026-01-11T10:30:00.000Z",
+      "to": "2026-01-11T11:15:00.000Z",
+      "id": "9fc510c512567446c41e461f30a1f6ee"
     }
   ]
 }
