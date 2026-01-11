@@ -2,11 +2,18 @@
   "slug": "poste-lafayette",
   "name": "POSTE LAFAYETTE",
   "district": "flacq",
-  "generated": "2026-01-10T18:01:09.129Z",
-  "outageCount": 34,
+  "generated": "2026-01-11T06:01:52.221Z",
+  "outageCount": 35,
   "firstOutage": "2022-03-24",
-  "lastOutage": "2025-12-15",
+  "lastOutage": "2026-01-11",
   "outages": [
+    {
+      "date": "Le dimanche 11 janvier 2026 de  08:30:00 à  12:00:00",
+      "streets": "Residence Le Nid",
+      "from": "2026-01-11T04:30:00.000Z",
+      "to": "2026-01-11T08:00:00.000Z",
+      "id": "4341b1b998bd77665878d901f1bd06fa"
+    },
     {
       "date": "Le lundi 15 décembre 2025 de  00:23:00 à  14:00:00",
       "streets": "Roche Noires & Poste Lafayette",

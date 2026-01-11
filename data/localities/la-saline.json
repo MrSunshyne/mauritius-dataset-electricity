@@ -2,11 +2,18 @@
   "slug": "la-saline",
   "name": "LA SALINE",
   "district": "portlouis",
-  "generated": "2026-01-10T18:01:09.040Z",
-  "outageCount": 4,
+  "generated": "2026-01-11T06:01:52.126Z",
+  "outageCount": 5,
   "firstOutage": "2022-05-02",
-  "lastOutage": "2025-12-24",
+  "lastOutage": "2026-01-11",
   "outages": [
+    {
+      "date": "Le dimanche 11 janvier 2026 de  09:00:00 à  09:30:00",
+      "streets": "Rue Kwan Tee",
+      "from": "2026-01-11T05:00:00.000Z",
+      "to": "2026-01-11T05:30:00.000Z",
+      "id": "a259be49d6bd1b3c33193cc03ee22f26"
+    },
     {
       "date": "Le mercredi 24 décembre 2025 de  09:00:00 à  11:30:00",
       "streets": "PART OF LA SALINE",

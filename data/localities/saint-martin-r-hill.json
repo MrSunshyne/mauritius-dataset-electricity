@@ -2,11 +2,18 @@
   "slug": "saint-martin-r-hill",
   "name": "SAINT MARTIN R-HILL",
   "district": "plainewilhems",
-  "generated": "2026-01-10T18:01:09.172Z",
-  "outageCount": 22,
+  "generated": "2026-01-11T06:01:52.266Z",
+  "outageCount": 23,
   "firstOutage": "2022-05-28",
-  "lastOutage": "2025-12-18",
+  "lastOutage": "2026-01-11",
   "outages": [
+    {
+      "date": "Le dimanche 11 janvier 2026 de  08:30:00 à  15:00:00",
+      "streets": "PORKER ST MARTIN, CWA ST MARTIN, LA POMPE ST ANTOINE MEDINE ST MARTIN, MARTIN, GENERAL CONSTRUCTION ET LES ENVIRONS",
+      "from": "2026-01-11T04:30:00.000Z",
+      "to": "2026-01-11T11:00:00.000Z",
+      "id": "fe49f7c33f935313b5c139bfc8384084"
+    },
     {
       "date": "Le jeudi 18 décembre 2025 de  16:00:00 à  16:30:00",
       "streets": "SOCOVIA,PORKER,CWA",

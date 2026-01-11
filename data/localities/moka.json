@@ -2,11 +2,18 @@
   "slug": "moka",
   "name": "MOKA",
   "district": "moka",
-  "generated": "2026-01-10T18:01:09.069Z",
-  "outageCount": 60,
+  "generated": "2026-01-11T06:01:52.157Z",
+  "outageCount": 61,
   "firstOutage": "2022-06-13",
-  "lastOutage": "2026-01-10",
+  "lastOutage": "2026-01-11",
   "outages": [
+    {
+      "date": "Le dimanche 11 janvier 2026 de  08:45:00 à  14:00:00",
+      "streets": "Bois Cheri Rd,Deux Collones,Francois Woo",
+      "from": "2026-01-11T04:45:00.000Z",
+      "to": "2026-01-11T10:00:00.000Z",
+      "id": "97d238d9ce6f77ff8a71019b96c9bc7e"
+    },
     {
       "date": "Le samedi 10 janvier 2026 de  08:30:00 à  15:00:00",
       "streets": "RTE BOIS CHERI, CAMP SAMY, FRANCHOIS HU, DEUX COLONE",
