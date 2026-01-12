@@ -1,8 +1,8 @@
 {
   "date": "2026-01-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-11T18:01:18.657Z",
-  "outageCount": 2,
+  "generated": "2026-01-12T06:02:16.982Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le lundi 12 janvier 2026 de  09:00:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-01-12T05:00:00.000Z",
       "to": "2026-01-12T11:00:00.000Z",
       "id": "ecd351ce0bdf042b60e6657ba8846fec"
+    },
+    {
+      "date": "Le lundi 12 janvier 2026 de  09:00:00 à  11:00:00",
+      "locality": "BELLE ROSE  ( Q BORNES )",
+      "localitySlug": "belle-rose",
+      "streets": "ST LOUIS RD-EBEN ROAD-BROD AVE-ROYAL RD ST JEAN BELLE ROSE",
+      "district": "plainewilhems",
+      "from": "2026-01-12T05:00:00.000Z",
+      "to": "2026-01-12T07:00:00.000Z",
+      "id": "bcd36142daa8ce3058184f43088f8376"
     },
     {
       "date": "Le lundi 12 janvier 2026 de  09:00:00 à  15:30:00",

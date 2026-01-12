@@ -2,11 +2,18 @@
   "slug": "belle-rose",
   "name": "BELLE ROSE  ( Q BORNES )",
   "district": "flacq",
-  "generated": "2026-01-11T18:01:18.709Z",
-  "outageCount": 27,
+  "generated": "2026-01-12T06:02:17.033Z",
+  "outageCount": 28,
   "firstOutage": "2022-08-31",
-  "lastOutage": "2025-12-13",
+  "lastOutage": "2026-01-12",
   "outages": [
+    {
+      "date": "Le lundi 12 janvier 2026 de  09:00:00 à  11:00:00",
+      "streets": "ST LOUIS RD-EBEN ROAD-BROD AVE-ROYAL RD ST JEAN BELLE ROSE",
+      "from": "2026-01-12T05:00:00.000Z",
+      "to": "2026-01-12T07:00:00.000Z",
+      "id": "bcd36142daa8ce3058184f43088f8376"
+    },
     {
       "date": "Le samedi 13 décembre 2025 de  10:45:00 à  11:45:00",
       "streets": "AVENUE NAZ ET LES ENVIRONS",
