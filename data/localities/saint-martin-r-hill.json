@@ -2,11 +2,18 @@
   "slug": "saint-martin-r-hill",
   "name": "SAINT MARTIN R-HILL",
   "district": "plainewilhems",
-  "generated": "2026-01-12T06:02:17.298Z",
-  "outageCount": 23,
+  "generated": "2026-01-12T07:05:39.927Z",
+  "outageCount": 24,
   "firstOutage": "2022-05-28",
-  "lastOutage": "2026-01-11",
+  "lastOutage": "2026-01-12",
   "outages": [
+    {
+      "date": "Le lundi 12 janvier 2026 de  09:30:00 à  15:00:00",
+      "streets": "RAMNARAIN RD-POKER-JARDIN ST MARTIN",
+      "from": "2026-01-12T05:30:00.000Z",
+      "to": "2026-01-12T11:00:00.000Z",
+      "id": "d4140336cd926ff0ccf2be37fe676e4e"
+    },
     {
       "date": "Le dimanche 11 janvier 2026 de  08:30:00 à  15:00:00",
       "streets": "PORKER ST MARTIN, CWA ST MARTIN, LA POMPE ST ANTOINE MEDINE ST MARTIN, MARTIN, GENERAL CONSTRUCTION ET LES ENVIRONS",
