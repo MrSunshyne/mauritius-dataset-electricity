@@ -2,11 +2,18 @@
   "slug": "sainte-croix",
   "name": "SAINTE CROIX",
   "district": "portlouis",
-  "generated": "2026-01-12T11:01:43.120Z",
-  "outageCount": 66,
+  "generated": "2026-01-12T12:01:57.682Z",
+  "outageCount": 67,
   "firstOutage": "2022-04-26",
-  "lastOutage": "2025-10-09",
+  "lastOutage": "2026-01-12",
   "outages": [
+    {
+      "date": "Le lundi 12 janvier 2026 de  15:45:00 à  18:00:00",
+      "streets": "DUCRAY ST,PEROS BANHOS ST,PAMPLEMOUSSES ST,CAPITAINE ST,TROMELIN ST",
+      "from": "2026-01-12T11:45:00.000Z",
+      "to": "2026-01-12T14:00:00.000Z",
+      "id": "0d6329f6915f4d7dba54c8b8ebfa2a9a"
+    },
     {
       "date": "Le jeudi 9 octobre 2025 de  09:00:00 à  12:30:00",
       "streets": "NEW STE MARIE ROAD STE CROIX",

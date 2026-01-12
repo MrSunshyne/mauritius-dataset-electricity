@@ -1,8 +1,8 @@
 {
   "date": "2026-01-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-12T11:01:42.802Z",
-  "outageCount": 5,
+  "generated": "2026-01-12T12:01:57.361Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le lundi 12 janvier 2026 de  09:00:00 à  15:00:00",
@@ -25,14 +25,14 @@
       "id": "f629c426e6f9fa16088c6adcb251f0c7"
     },
     {
-      "date": "Le lundi 12 janvier 2026 de  09:30:00 à  15:00:00",
+      "date": "Le lundi 12 janvier 2026 de  09:30:00 à  16:30:00",
       "locality": "SAINT MARTIN R-HILL",
       "localitySlug": "saint-martin-r-hill",
       "streets": "RAMNARAIN RD-POKER-JARDIN ST MARTIN",
       "district": "plainewilhems",
       "from": "2026-01-12T05:30:00.000Z",
-      "to": "2026-01-12T11:00:00.000Z",
-      "id": "d4140336cd926ff0ccf2be37fe676e4e"
+      "to": "2026-01-12T12:30:00.000Z",
+      "id": "c947a7c12879daf1ed1752d158cd9aab"
     },
     {
       "date": "Le lundi 12 janvier 2026 de  11:00:00 à  16:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-01-12T07:00:00.000Z",
       "to": "2026-01-12T12:00:00.000Z",
       "id": "37a13c22c141000e3c0641600b4c261b"
+    },
+    {
+      "date": "Le lundi 12 janvier 2026 de  15:45:00 à  18:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "DUCRAY ST,PEROS BANHOS ST,PAMPLEMOUSSES ST,CAPITAINE ST,TROMELIN ST",
+      "district": "portlouis",
+      "from": "2026-01-12T11:45:00.000Z",
+      "to": "2026-01-12T14:00:00.000Z",
+      "id": "0d6329f6915f4d7dba54c8b8ebfa2a9a"
     },
     {
       "date": "Le lundi 12 janvier 2026 de  09:00:00 à  15:30:00",
