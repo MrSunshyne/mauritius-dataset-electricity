@@ -2,11 +2,18 @@
   "slug": "sodnac",
   "name": "SODNAC",
   "district": "plainewilhems",
-  "generated": "2026-01-12T09:04:40.771Z",
-  "outageCount": 34,
+  "generated": "2026-01-12T10:02:18.903Z",
+  "outageCount": 35,
   "firstOutage": "2022-05-30",
-  "lastOutage": "2025-12-24",
+  "lastOutage": "2026-01-12",
   "outages": [
+    {
+      "date": "Le lundi 12 janvier 2026 de  11:00:00 à  16:00:00",
+      "streets": "AVENUE PERRUCHES,EPERVIER,FLAMMANTS SODNAC",
+      "from": "2026-01-12T07:00:00.000Z",
+      "to": "2026-01-12T12:00:00.000Z",
+      "id": "37a13c22c141000e3c0641600b4c261b"
+    },
     {
       "date": "Le mercredi 24 décembre 2025 de  08:40:00 à  10:00:00",
       "streets": "AVE TRISTAN DAVIS, IBIS, YLANG YLANG AND SURROUNDINGS",

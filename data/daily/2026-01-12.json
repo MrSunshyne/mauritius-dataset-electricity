@@ -1,8 +1,8 @@
 {
   "date": "2026-01-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-12T09:04:40.441Z",
-  "outageCount": 4,
+  "generated": "2026-01-12T10:02:18.570Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le lundi 12 janvier 2026 de  09:00:00 à  15:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-01-12T05:30:00.000Z",
       "to": "2026-01-12T11:00:00.000Z",
       "id": "d4140336cd926ff0ccf2be37fe676e4e"
+    },
+    {
+      "date": "Le lundi 12 janvier 2026 de  11:00:00 à  16:00:00",
+      "locality": "SODNAC",
+      "localitySlug": "sodnac",
+      "streets": "AVENUE PERRUCHES,EPERVIER,FLAMMANTS SODNAC",
+      "district": "plainewilhems",
+      "from": "2026-01-12T07:00:00.000Z",
+      "to": "2026-01-12T12:00:00.000Z",
+      "id": "37a13c22c141000e3c0641600b4c261b"
     },
     {
       "date": "Le lundi 12 janvier 2026 de  09:00:00 à  15:30:00",
