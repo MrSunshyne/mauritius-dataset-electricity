@@ -1,8 +1,8 @@
 {
   "date": "2026-01-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-13T06:01:57.676Z",
-  "outageCount": 4,
+  "generated": "2026-01-13T07:04:08.706Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le mardi 13 janvier 2026 de  08:30:00 à  16:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-01-13T04:30:00.000Z",
       "to": "2026-01-13T12:30:00.000Z",
       "id": "990022a06fdd4298c2eae5498811b388"
+    },
+    {
+      "date": "Le mardi 13 janvier 2026 de  09:30:00 à  11:30:00",
+      "locality": "POSTE DE FLACQ",
+      "localitySlug": "poste-de-flacq",
+      "streets": "KASHINATH MANDIR RD POSTE DE FLACQ",
+      "district": "flacq",
+      "from": "2026-01-13T05:30:00.000Z",
+      "to": "2026-01-13T07:30:00.000Z",
+      "id": "f4bf7d927467bfa8cd1c910ba653f7f3"
     },
     {
       "date": "Le mardi 13 janvier 2026 de  09:00:00 à  17:00:00",

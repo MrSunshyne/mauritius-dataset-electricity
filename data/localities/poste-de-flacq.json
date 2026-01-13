@@ -2,11 +2,18 @@
   "slug": "poste-de-flacq",
   "name": "POSTE DE FLACQ",
   "district": "flacq",
-  "generated": "2026-01-13T06:01:57.946Z",
-  "outageCount": 32,
+  "generated": "2026-01-13T07:04:08.983Z",
+  "outageCount": 33,
   "firstOutage": "2022-06-12",
-  "lastOutage": "2025-12-09",
+  "lastOutage": "2026-01-13",
   "outages": [
+    {
+      "date": "Le mardi 13 janvier 2026 de  09:30:00 à  11:30:00",
+      "streets": "KASHINATH MANDIR RD POSTE DE FLACQ",
+      "from": "2026-01-13T05:30:00.000Z",
+      "to": "2026-01-13T07:30:00.000Z",
+      "id": "f4bf7d927467bfa8cd1c910ba653f7f3"
+    },
     {
       "date": "Le mardi 9 décembre 2025 de  10:00:00 à  11:30:00",
       "streets": "ROYAL ROAD ET LES RUELLES ALENTOURS",
