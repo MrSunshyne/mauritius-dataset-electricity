@@ -2,11 +2,18 @@
   "slug": "bel-air",
   "name": "BEL AIR",
   "district": "flacq",
-  "generated": "2026-01-13T09:04:01.695Z",
-  "outageCount": 57,
+  "generated": "2026-01-13T10:01:01.775Z",
+  "outageCount": 58,
   "firstOutage": "2022-06-04",
-  "lastOutage": "2025-12-06",
+  "lastOutage": "2026-01-13",
   "outages": [
+    {
+      "date": "Le mardi 13 janvier 2026 de  13:00:00 à  16:00:00",
+      "streets": "MORC LA CHEMINER, MORC SSS BEL AIR",
+      "from": "2026-01-13T09:00:00.000Z",
+      "to": "2026-01-13T12:00:00.000Z",
+      "id": "6671cd041239ae3a8537c70b37b532ea"
+    },
     {
       "date": "Le samedi 6 décembre 2025 de  08:15:00 à  15:00:00",
       "streets": "Bel Air dans le périmètre de La Lucie Roy, Morc Lotus et NSLD Bel Air.",

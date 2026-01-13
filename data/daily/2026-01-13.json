@@ -1,8 +1,8 @@
 {
   "date": "2026-01-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-13T09:04:01.653Z",
-  "outageCount": 6,
+  "generated": "2026-01-13T10:01:01.733Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le mardi 13 janvier 2026 de  08:30:00 à  16:30:00",
@@ -35,6 +35,16 @@
       "id": "23d0b1a8d0af6d341d3f42f1b0620adc"
     },
     {
+      "date": "Le mardi 13 janvier 2026 de  13:00:00 à  16:00:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "MORC LA CHEMINER, MORC SSS BEL AIR",
+      "district": "flacq",
+      "from": "2026-01-13T09:00:00.000Z",
+      "to": "2026-01-13T12:00:00.000Z",
+      "id": "6671cd041239ae3a8537c70b37b532ea"
+    },
+    {
       "date": "Le mardi 13 janvier 2026 de  09:00:00 à  17:00:00",
       "locality": "NOUVELLE FRANCE",
       "localitySlug": "nouvelle-france",
@@ -43,6 +53,16 @@
       "from": "2026-01-13T05:00:00.000Z",
       "to": "2026-01-13T13:00:00.000Z",
       "id": "0df1d8c3721d1baefa4b4bf7f6536d35"
+    },
+    {
+      "date": "Le mardi 13 janvier 2026 de  16:00:00 à  17:30:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Ave Jeetoo, Ave Manilall, en partie Ave Guy Rosemont, Ave Berthaud, Ave Assemblé, Ave Corps de Garde, Ave Cretin et les environs",
+      "district": "plainewilhems",
+      "from": "2026-01-13T12:00:00.000Z",
+      "to": "2026-01-13T13:30:00.000Z",
+      "id": "499ad46065e7d5fa2415c8998cab1861"
     },
     {
       "date": "Le mardi 13 janvier 2026 de  10:00:00 à  12:00:00",

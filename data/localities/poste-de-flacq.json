@@ -2,11 +2,18 @@
   "slug": "poste-de-flacq",
   "name": "POSTE DE FLACQ",
   "district": "flacq",
-  "generated": "2026-01-13T09:04:01.931Z",
-  "outageCount": 33,
+  "generated": "2026-01-13T10:01:02.009Z",
+  "outageCount": 34,
   "firstOutage": "2022-06-12",
-  "lastOutage": "2026-01-13",
+  "lastOutage": "2026-01-14",
   "outages": [
+    {
+      "date": "Le mercredi 14 janvier 2026 de  08:30:00 à  14:00:00",
+      "streets": "Providence La porte, Poste de Flacq",
+      "from": "2026-01-14T04:30:00.000Z",
+      "to": "2026-01-14T10:00:00.000Z",
+      "id": "4e4d8ca223da946158613d6fa60ac1f4"
+    },
     {
       "date": "Le mardi 13 janvier 2026 de  09:30:00 à  11:30:00",
       "streets": "KASHINATH MANDIR RD POSTE DE FLACQ",

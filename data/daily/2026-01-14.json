@@ -1,9 +1,19 @@
 {
   "date": "2026-01-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-13T09:04:01.653Z",
-  "outageCount": 1,
+  "generated": "2026-01-13T10:01:01.734Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le mercredi 14 janvier 2026 de  08:30:00 à  14:00:00",
+      "locality": "POSTE DE FLACQ",
+      "localitySlug": "poste-de-flacq",
+      "streets": "Providence La porte, Poste de Flacq",
+      "district": "flacq",
+      "from": "2026-01-14T04:30:00.000Z",
+      "to": "2026-01-14T10:00:00.000Z",
+      "id": "4e4d8ca223da946158613d6fa60ac1f4"
+    },
     {
       "date": "Le mercredi 14 janvier 2026 de  09:00:00 à  15:00:00",
       "locality": "LA BRASSERIE",
