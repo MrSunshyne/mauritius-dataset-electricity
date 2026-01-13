@@ -1,8 +1,8 @@
 {
   "date": "2026-01-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-13T08:01:19.607Z",
-  "outageCount": 5,
+  "generated": "2026-01-13T09:04:01.653Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le mardi 13 janvier 2026 de  08:30:00 à  16:30:00",
@@ -23,6 +23,16 @@
       "from": "2026-01-13T05:30:00.000Z",
       "to": "2026-01-13T07:30:00.000Z",
       "id": "f4bf7d927467bfa8cd1c910ba653f7f3"
+    },
+    {
+      "date": "Le mardi 13 janvier 2026 de  12:35:00 à  14:00:00",
+      "locality": "PETITE RETRAITE",
+      "localitySlug": "petite-retraite",
+      "streets": "PETITE RETRAITE",
+      "district": "flacq",
+      "from": "2026-01-13T08:35:00.000Z",
+      "to": "2026-01-13T10:00:00.000Z",
+      "id": "23d0b1a8d0af6d341d3f42f1b0620adc"
     },
     {
       "date": "Le mardi 13 janvier 2026 de  09:00:00 à  17:00:00",

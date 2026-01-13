@@ -2,11 +2,18 @@
   "slug": "petite-retraite",
   "name": "PETITE RETRAITE",
   "district": "flacq",
-  "generated": "2026-01-13T08:01:19.846Z",
-  "outageCount": 9,
+  "generated": "2026-01-13T09:04:01.907Z",
+  "outageCount": 10,
   "firstOutage": "2022-10-28",
-  "lastOutage": "2026-01-07",
+  "lastOutage": "2026-01-13",
   "outages": [
+    {
+      "date": "Le mardi 13 janvier 2026 de  12:35:00 à  14:00:00",
+      "streets": "PETITE RETRAITE",
+      "from": "2026-01-13T08:35:00.000Z",
+      "to": "2026-01-13T10:00:00.000Z",
+      "id": "23d0b1a8d0af6d341d3f42f1b0620adc"
+    },
     {
       "date": "Le mercredi 7 janvier 2026 de  09:00:00 à  16:00:00",
       "streets": "Petite Retraite dans le périmètre de Poultry , UBP, Rolex, Eastern Examination Centre.",
