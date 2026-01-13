@@ -1,8 +1,8 @@
 {
   "date": "2026-01-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-12T18:01:53.023Z",
-  "outageCount": 3,
+  "generated": "2026-01-13T06:01:57.676Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le mardi 13 janvier 2026 de  08:30:00 à  16:30:00",
@@ -23,6 +23,16 @@
       "from": "2026-01-13T05:00:00.000Z",
       "to": "2026-01-13T13:00:00.000Z",
       "id": "0df1d8c3721d1baefa4b4bf7f6536d35"
+    },
+    {
+      "date": "Le mardi 13 janvier 2026 de  10:00:00 à  12:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "LA RUE COSTALES, LES FLAMMANTS PEREYBERE- OFFICIER EN CHARGE- STO KHARUG POUR LA SECTION DE GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2026-01-13T06:00:00.000Z",
+      "to": "2026-01-13T08:00:00.000Z",
+      "id": "94126cd39750f1b91f85f1933881d96f"
     },
     {
       "date": "Le mardi 13 janvier 2026 de  09:00:00 à  16:00:00",

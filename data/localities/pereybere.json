@@ -2,11 +2,18 @@
   "slug": "pereybere",
   "name": "PEREYBERE",
   "district": "rivieredurempart",
-  "generated": "2026-01-12T18:01:53.269Z",
-  "outageCount": 90,
+  "generated": "2026-01-13T06:01:57.915Z",
+  "outageCount": 91,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-01-10",
+  "lastOutage": "2026-01-13",
   "outages": [
+    {
+      "date": "Le mardi 13 janvier 2026 de  10:00:00 à  12:00:00",
+      "streets": "LA RUE COSTALES, LES FLAMMANTS PEREYBERE- OFFICIER EN CHARGE- STO KHARUG POUR LA SECTION DE GOODLANDS",
+      "from": "2026-01-13T06:00:00.000Z",
+      "to": "2026-01-13T08:00:00.000Z",
+      "id": "94126cd39750f1b91f85f1933881d96f"
+    },
     {
       "date": "Le samedi 10 janvier 2026 de  08:30:00 à  15:00:00",
       "streets": "LA RUE COSTALE PEREYBERE, IMPASSE JOLICOEUR, LHOTEL HIBISCUS ET PARADISE COVE - OFFICIER EN CHARGE- STO KHARUG DE SECTION GOODLANDS",

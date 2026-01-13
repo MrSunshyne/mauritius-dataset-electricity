@@ -1,8 +1,8 @@
 {
   "date": "2026-01-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-12T18:01:53.023Z",
-  "outageCount": 1,
+  "generated": "2026-01-13T06:01:57.676Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le jeudi 15 janvier 2026 de  09:00:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-01-15T05:00:00.000Z",
       "to": "2026-01-15T13:00:00.000Z",
       "id": "8564ec42ac53f2b0cb03437b343ead4a"
+    },
+    {
+      "date": "Le jeudi 15 janvier 2026 de  09:00:00 à  15:30:00",
+      "locality": "CHAMOUNY",
+      "localitySlug": "chamouny",
+      "streets": "Mont Blanc Chamouny",
+      "district": "savanne",
+      "from": "2026-01-15T05:00:00.000Z",
+      "to": "2026-01-15T11:30:00.000Z",
+      "id": "8699a7c586825a41072629d20eeff33c"
     }
   ]
 }

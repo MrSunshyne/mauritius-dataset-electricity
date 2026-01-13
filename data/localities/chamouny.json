@@ -2,11 +2,18 @@
   "slug": "chamouny",
   "name": "CHAMOUNY",
   "district": "savanne",
-  "generated": "2026-01-12T18:01:53.124Z",
-  "outageCount": 18,
+  "generated": "2026-01-13T06:01:57.772Z",
+  "outageCount": 19,
   "firstOutage": "2022-07-24",
-  "lastOutage": "2025-03-16",
+  "lastOutage": "2026-01-15",
   "outages": [
+    {
+      "date": "Le jeudi 15 janvier 2026 de  09:00:00 à  15:30:00",
+      "streets": "Mont Blanc Chamouny",
+      "from": "2026-01-15T05:00:00.000Z",
+      "to": "2026-01-15T11:30:00.000Z",
+      "id": "8699a7c586825a41072629d20eeff33c"
+    },
     {
       "date": "Le dimanche 16 mars 2025 de  08:30:00 à  15:00:00",
       "streets": "Chamouny, Camp Fany, Camp Goolbar, Camp Lilas, Rama Road et Mont Carmel",
