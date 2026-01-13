@@ -1,8 +1,8 @@
 {
   "date": "2026-01-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-13T16:02:30.824Z",
-  "outageCount": 10,
+  "generated": "2026-01-13T17:04:50.825Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le mardi 13 janvier 2026 de  08:30:00 à  16:30:00",
@@ -63,6 +63,16 @@
       "from": "2026-01-13T13:20:00.000Z",
       "to": "2026-01-13T17:00:00.000Z",
       "id": "32cd44ee65666798dd96056aeb16a18b"
+    },
+    {
+      "date": "Le mardi 13 janvier 2026 de  20:55:00 à  22:55:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "ROYAL RD(NEAR BOTANICAL GARDEN AND EMPIRE BOOKSHOP",
+      "district": "pamplemousses",
+      "from": "2026-01-13T16:55:00.000Z",
+      "to": "2026-01-13T18:55:00.000Z",
+      "id": "c9535c811c0f386dbd0c88041d6a0cb0"
     },
     {
       "date": "Le mardi 13 janvier 2026 de  16:00:00 à  17:30:00",
