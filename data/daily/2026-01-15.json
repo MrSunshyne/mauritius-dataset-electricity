@@ -1,8 +1,8 @@
 {
   "date": "2026-01-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-13T11:01:30.112Z",
-  "outageCount": 2,
+  "generated": "2026-01-13T12:02:03.410Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le jeudi 15 janvier 2026 de  09:00:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-01-15T05:00:00.000Z",
       "to": "2026-01-15T13:00:00.000Z",
       "id": "8564ec42ac53f2b0cb03437b343ead4a"
+    },
+    {
+      "date": "Le jeudi 15 janvier 2026 de  09:00:00 à  16:00:00",
+      "locality": "RIVIERE DU POSTE",
+      "localitySlug": "riviere-du-poste",
+      "streets": "Camp Siajee, Riviere Du Poste et Joli Bois",
+      "district": "grandport",
+      "from": "2026-01-15T05:00:00.000Z",
+      "to": "2026-01-15T12:00:00.000Z",
+      "id": "239f4a4dad1f9d62f85cdec57c9f621e"
     },
     {
       "date": "Le jeudi 15 janvier 2026 de  09:00:00 à  15:30:00",

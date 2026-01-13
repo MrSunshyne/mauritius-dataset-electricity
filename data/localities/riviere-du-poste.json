@@ -2,11 +2,18 @@
   "slug": "riviere-du-poste",
   "name": "RIVIERE DU POSTE",
   "district": "grandport",
-  "generated": "2026-01-13T11:01:30.418Z",
-  "outageCount": 15,
+  "generated": "2026-01-13T12:02:03.719Z",
+  "outageCount": 16,
   "firstOutage": "2022-09-24",
-  "lastOutage": "2025-09-18",
+  "lastOutage": "2026-01-15",
   "outages": [
+    {
+      "date": "Le jeudi 15 janvier 2026 de  09:00:00 à  16:00:00",
+      "streets": "Camp Siajee, Riviere Du Poste et Joli Bois",
+      "from": "2026-01-15T05:00:00.000Z",
+      "to": "2026-01-15T12:00:00.000Z",
+      "id": "239f4a4dad1f9d62f85cdec57c9f621e"
+    },
     {
       "date": "Le jeudi 18 septembre 2025 de  09:00:00 à  15:00:00",
       "streets": "Le village de Riviere Du Poste et Joli Bois",
