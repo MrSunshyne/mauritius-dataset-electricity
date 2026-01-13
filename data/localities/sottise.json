@@ -2,11 +2,18 @@
   "slug": "sottise",
   "name": "SOTTISE",
   "district": "rivieredurempart",
-  "generated": "2026-01-13T14:03:04.794Z",
-  "outageCount": 8,
+  "generated": "2026-01-13T15:02:42.264Z",
+  "outageCount": 9,
   "firstOutage": "2022-08-12",
-  "lastOutage": "2024-10-01",
+  "lastOutage": "2026-01-13",
   "outages": [
+    {
+      "date": "Le mardi 13 janvier 2026 de  18:30:00 à  21:00:00",
+      "streets": "PART OF SOTTISE, GRAND BAIE & PEREYBERE",
+      "from": "2026-01-13T14:30:00.000Z",
+      "to": "2026-01-13T17:00:00.000Z",
+      "id": "18f44e29856fd92ec426e8683492e0dc"
+    },
     {
       "date": "Le mardi 1 octobre 2024 de  09:30:00 à  14:00:00",
       "streets": "SOTTISE",

@@ -1,8 +1,8 @@
 {
   "date": "2026-01-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-13T14:03:04.456Z",
-  "outageCount": 8,
+  "generated": "2026-01-13T15:02:41.929Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le mardi 13 janvier 2026 de  08:30:00 à  16:30:00",
@@ -55,6 +55,16 @@
       "id": "0df1d8c3721d1baefa4b4bf7f6536d35"
     },
     {
+      "date": "Le mardi 13 janvier 2026 de  17:20:00 à  21:00:00",
+      "locality": "UNION PARK",
+      "localitySlug": "union-park",
+      "streets": "MORC VRS, MIT & LES RESIDENCES, PARBO HALL AND SURROUNDINGS & PART OF NOUVELLE FRANCE",
+      "district": "grandport",
+      "from": "2026-01-13T13:20:00.000Z",
+      "to": "2026-01-13T17:00:00.000Z",
+      "id": "32cd44ee65666798dd96056aeb16a18b"
+    },
+    {
       "date": "Le mardi 13 janvier 2026 de  16:00:00 à  17:30:00",
       "locality": "ROSE-HILL",
       "localitySlug": "rose-hill",
@@ -73,6 +83,16 @@
       "from": "2026-01-13T06:00:00.000Z",
       "to": "2026-01-13T08:00:00.000Z",
       "id": "94126cd39750f1b91f85f1933881d96f"
+    },
+    {
+      "date": "Le mardi 13 janvier 2026 de  18:30:00 à  21:00:00",
+      "locality": "SOTTISE",
+      "localitySlug": "sottise",
+      "streets": "PART OF SOTTISE, GRAND BAIE & PEREYBERE",
+      "district": "rivieredurempart",
+      "from": "2026-01-13T14:30:00.000Z",
+      "to": "2026-01-13T17:00:00.000Z",
+      "id": "18f44e29856fd92ec426e8683492e0dc"
     },
     {
       "date": "Le mardi 13 janvier 2026 de  09:00:00 à  16:00:00",
