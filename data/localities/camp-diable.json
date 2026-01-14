@@ -2,11 +2,18 @@
   "slug": "camp-diable",
   "name": "CAMP DIABLE",
   "district": "savanne",
-  "generated": "2026-01-14T11:01:46.056Z",
-  "outageCount": 24,
+  "generated": "2026-01-14T12:01:55.989Z",
+  "outageCount": 25,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2025-12-31",
+  "lastOutage": "2026-01-14",
   "outages": [
+    {
+      "date": "Le mercredi 14 janvier 2026 de  15:30:00 à  16:45:00",
+      "streets": "PART OF CAMP DIABLE",
+      "from": "2026-01-14T11:30:00.000Z",
+      "to": "2026-01-14T12:45:00.000Z",
+      "id": "abb2727fe0de1c2c53a2d3c80008b02b"
+    },
     {
       "date": "Le mercredi 31 décembre 2025 de  13:45:00 à  15:00:00",
       "streets": "PART OF CAMP DIABLE",

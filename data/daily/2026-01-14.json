@@ -1,8 +1,8 @@
 {
   "date": "2026-01-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-14T11:01:45.984Z",
-  "outageCount": 6,
+  "generated": "2026-01-14T12:01:55.912Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le mercredi 14 janvier 2026 de  08:30:00 à  14:00:00",
@@ -63,6 +63,26 @@
       "from": "2026-01-14T10:00:00.000Z",
       "to": "2026-01-14T14:00:00.000Z",
       "id": "c8c6d189b88e6366bbae21e7f3b80c54"
+    },
+    {
+      "date": "Le mercredi 14 janvier 2026 de  15:20:00 à  16:30:00",
+      "locality": "CITE CHEBEL",
+      "localitySlug": "cite-chebel",
+      "streets": "PILLAY ROAD, KOVIL AND SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2026-01-14T11:20:00.000Z",
+      "to": "2026-01-14T12:30:00.000Z",
+      "id": "884e5cc7a1a42af12dabf99266d5f8fc"
+    },
+    {
+      "date": "Le mercredi 14 janvier 2026 de  15:30:00 à  16:45:00",
+      "locality": "CAMP DIABLE",
+      "localitySlug": "camp-diable",
+      "streets": "PART OF CAMP DIABLE",
+      "district": "savanne",
+      "from": "2026-01-14T11:30:00.000Z",
+      "to": "2026-01-14T12:45:00.000Z",
+      "id": "abb2727fe0de1c2c53a2d3c80008b02b"
     }
   ]
 }

@@ -2,11 +2,18 @@
   "slug": "cite-chebel",
   "name": "CITE CHEBEL",
   "district": "plainewilhems",
-  "generated": "2026-01-14T11:01:46.086Z",
-  "outageCount": 27,
+  "generated": "2026-01-14T12:01:56.019Z",
+  "outageCount": 28,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2025-10-13",
+  "lastOutage": "2026-01-14",
   "outages": [
+    {
+      "date": "Le mercredi 14 janvier 2026 de  15:20:00 à  16:30:00",
+      "streets": "PILLAY ROAD, KOVIL AND SURROUNDINGS",
+      "from": "2026-01-14T11:20:00.000Z",
+      "to": "2026-01-14T12:30:00.000Z",
+      "id": "884e5cc7a1a42af12dabf99266d5f8fc"
+    },
     {
       "date": "Le lundi 13 octobre 2025 de  16:30:00 à  17:30:00",
       "streets": "LA REPRISE,PRISON RICHELIEU,CAMP BERTLO, PILLAY ENGINEERING, RESIDENCE TROCHETIA,RESIDENCE BARKLY, MORC LA CONFIANCE",
