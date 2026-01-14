@@ -1,8 +1,8 @@
 {
   "date": "2026-01-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-14T16:01:58.902Z",
-  "outageCount": 10,
+  "generated": "2026-01-14T17:04:56.338Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le mercredi 14 janvier 2026 de  08:30:00 à  14:00:00",
@@ -93,6 +93,16 @@
       "from": "2026-01-14T11:20:00.000Z",
       "to": "2026-01-14T12:30:00.000Z",
       "id": "884e5cc7a1a42af12dabf99266d5f8fc"
+    },
+    {
+      "date": "Le mercredi 14 janvier 2026 de  20:35:00 à  22:35:00",
+      "locality": "COTTAGE",
+      "localitySlug": "cottage",
+      "streets": "RAMNARAIN RD AND NEARBY REGION",
+      "district": "rivieredurempart",
+      "from": "2026-01-14T16:35:00.000Z",
+      "to": "2026-01-14T18:35:00.000Z",
+      "id": "809d67608a6abf5b01086a2f663aa066"
     },
     {
       "date": "Le mercredi 14 janvier 2026 de  15:30:00 à  16:45:00",

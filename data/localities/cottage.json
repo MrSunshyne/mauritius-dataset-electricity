@@ -2,11 +2,18 @@
   "slug": "cottage",
   "name": "COTTAGE",
   "district": "rivieredurempart",
-  "generated": "2026-01-14T16:01:59.026Z",
-  "outageCount": 36,
+  "generated": "2026-01-14T17:04:56.458Z",
+  "outageCount": 37,
   "firstOutage": "2022-04-07",
-  "lastOutage": "2025-08-19",
+  "lastOutage": "2026-01-14",
   "outages": [
+    {
+      "date": "Le mercredi 14 janvier 2026 de  20:35:00 à  22:35:00",
+      "streets": "RAMNARAIN RD AND NEARBY REGION",
+      "from": "2026-01-14T16:35:00.000Z",
+      "to": "2026-01-14T18:35:00.000Z",
+      "id": "809d67608a6abf5b01086a2f663aa066"
+    },
     {
       "date": "Le mardi 19 août 2025 de  12:50:00 à  15:00:00",
       "streets": "BISSOONDOYAL ROAD COTTAGE",
