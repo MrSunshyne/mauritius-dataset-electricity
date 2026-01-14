@@ -2,11 +2,18 @@
   "slug": "camp-fouquereaux",
   "name": "CAMP FOUQUEREAUX",
   "district": "plainewilhems",
-  "generated": "2026-01-14T06:01:59.480Z",
-  "outageCount": 33,
+  "generated": "2026-01-14T07:03:53.028Z",
+  "outageCount": 34,
   "firstOutage": "2022-03-31",
-  "lastOutage": "2026-01-11",
+  "lastOutage": "2026-01-14",
   "outages": [
+    {
+      "date": "Le mercredi 14 janvier 2026 de  10:30:00 à  12:00:00",
+      "streets": "ROTAL RD, ALMADINA LANE ET LES ALENTOURS",
+      "from": "2026-01-14T06:30:00.000Z",
+      "to": "2026-01-14T08:00:00.000Z",
+      "id": "fb19a99b4b629d3160d5f74069bf26cf"
+    },
     {
       "date": "Le dimanche 11 janvier 2026 de  08:30:00 à  17:00:00",
       "streets": "Hotensia Lane, St Antoine Rd, une partie de Hermitage Branch Rd, une partie de Reservoir Road, une partie de Tout Court Rd, Terre Rouge Rd, Al Madina, Toorab Lane, Jhungeer Lane, Morc. Soobratty, Ibis Lane, Choony Lane, Dhalia Lane et une partie de Parisot Branch Rd",

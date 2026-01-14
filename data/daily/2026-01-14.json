@@ -1,8 +1,8 @@
 {
   "date": "2026-01-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-14T06:01:59.405Z",
-  "outageCount": 2,
+  "generated": "2026-01-14T07:03:52.955Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le mercredi 14 janvier 2026 de  08:30:00 à  14:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-01-14T05:00:00.000Z",
       "to": "2026-01-14T11:00:00.000Z",
       "id": "38bd8bdf687ccc3852d96fa0d7d52506"
+    },
+    {
+      "date": "Le mercredi 14 janvier 2026 de  10:30:00 à  12:00:00",
+      "locality": "CAMP FOUQUEREAUX",
+      "localitySlug": "camp-fouquereaux",
+      "streets": "ROTAL RD, ALMADINA LANE ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2026-01-14T06:30:00.000Z",
+      "to": "2026-01-14T08:00:00.000Z",
+      "id": "fb19a99b4b629d3160d5f74069bf26cf"
     }
   ]
 }
