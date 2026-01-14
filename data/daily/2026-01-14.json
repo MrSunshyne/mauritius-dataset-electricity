@@ -1,8 +1,8 @@
 {
   "date": "2026-01-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-14T14:03:09.942Z",
-  "outageCount": 9,
+  "generated": "2026-01-14T15:02:53.432Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le mercredi 14 janvier 2026 de  08:30:00 à  14:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-01-14T12:00:00.000Z",
       "to": "2026-01-14T18:00:00.000Z",
       "id": "2bdf0c8fecea5cb3350a671180eb2ad9"
+    },
+    {
+      "date": "Le mercredi 14 janvier 2026 de  18:45:00 à  21:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "MON DESERT AND SURROUNDINGS",
+      "district": "grandport",
+      "from": "2026-01-14T14:45:00.000Z",
+      "to": "2026-01-14T17:00:00.000Z",
+      "id": "19e0de8f93c67e92a01f3ec189cc5cde"
     },
     {
       "date": "Le mercredi 14 janvier 2026 de  13:30:00 à  16:30:00",

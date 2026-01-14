@@ -2,11 +2,18 @@
   "slug": "plaine-magnien",
   "name": "PLAINE MAGNIEN",
   "district": "grandport",
-  "generated": "2026-01-14T14:03:10.194Z",
-  "outageCount": 50,
+  "generated": "2026-01-14T15:02:53.693Z",
+  "outageCount": 51,
   "firstOutage": "2022-06-08",
-  "lastOutage": "2025-12-19",
+  "lastOutage": "2026-01-14",
   "outages": [
+    {
+      "date": "Le mercredi 14 janvier 2026 de  18:45:00 à  21:00:00",
+      "streets": "MON DESERT AND SURROUNDINGS",
+      "from": "2026-01-14T14:45:00.000Z",
+      "to": "2026-01-14T17:00:00.000Z",
+      "id": "19e0de8f93c67e92a01f3ec189cc5cde"
+    },
     {
       "date": "Le vendredi 19 décembre 2025 de  12:00:00 à  15:30:00",
       "streets": "COUTEAU LANE AND SURROUNDINGS",
