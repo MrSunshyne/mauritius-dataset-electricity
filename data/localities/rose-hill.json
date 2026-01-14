@@ -2,11 +2,18 @@
   "slug": "rose-hill",
   "name": "ROSE-HILL",
   "district": "plainewilhems",
-  "generated": "2026-01-14T08:01:41.731Z",
-  "outageCount": 122,
+  "generated": "2026-01-14T09:04:14.879Z",
+  "outageCount": 123,
   "firstOutage": "2022-05-20",
-  "lastOutage": "2026-01-13",
+  "lastOutage": "2026-01-14",
   "outages": [
+    {
+      "date": "Le mercredi 14 janvier 2026 de  13:30:00 à  15:00:00",
+      "streets": "Ave Jeetoo, Ave Manilall, en partie Ave Guy Rosemont, Ave Berthaud, Ave Assemblé, Ave Corps de Garde, Ave Cretin et les environs",
+      "from": "2026-01-14T09:30:00.000Z",
+      "to": "2026-01-14T11:00:00.000Z",
+      "id": "3e5ede7e0ab231033b064f0ef0f90bff"
+    },
     {
       "date": "Le mardi 13 janvier 2026 de  16:00:00 à  17:30:00",
       "streets": "Ave Jeetoo, Ave Manilall, en partie Ave Guy Rosemont, Ave Berthaud, Ave Assemblé, Ave Corps de Garde, Ave Cretin et les environs",

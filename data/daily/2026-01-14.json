@@ -1,8 +1,8 @@
 {
   "date": "2026-01-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-14T08:01:41.422Z",
-  "outageCount": 3,
+  "generated": "2026-01-14T09:04:14.576Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le mercredi 14 janvier 2026 de  08:30:00 à  14:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-01-14T06:30:00.000Z",
       "to": "2026-01-14T08:00:00.000Z",
       "id": "fb19a99b4b629d3160d5f74069bf26cf"
+    },
+    {
+      "date": "Le mercredi 14 janvier 2026 de  13:30:00 à  15:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Ave Jeetoo, Ave Manilall, en partie Ave Guy Rosemont, Ave Berthaud, Ave Assemblé, Ave Corps de Garde, Ave Cretin et les environs",
+      "district": "plainewilhems",
+      "from": "2026-01-14T09:30:00.000Z",
+      "to": "2026-01-14T11:00:00.000Z",
+      "id": "3e5ede7e0ab231033b064f0ef0f90bff"
     }
   ]
 }
