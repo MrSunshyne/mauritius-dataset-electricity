@@ -1,8 +1,8 @@
 {
   "date": "2026-01-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-14T13:14:22.613Z",
-  "outageCount": 8,
+  "generated": "2026-01-14T14:03:09.942Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le mercredi 14 janvier 2026 de  08:30:00 à  14:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-01-14T04:30:00.000Z",
       "to": "2026-01-14T10:00:00.000Z",
       "id": "4e4d8ca223da946158613d6fa60ac1f4"
+    },
+    {
+      "date": "Le mercredi 14 janvier 2026 de  16:00:00 à  22:00:00",
+      "locality": "UNION PARK",
+      "localitySlug": "union-park",
+      "streets": "BAITKA ROAD UNION PARK",
+      "district": "grandport",
+      "from": "2026-01-14T12:00:00.000Z",
+      "to": "2026-01-14T18:00:00.000Z",
+      "id": "2bdf0c8fecea5cb3350a671180eb2ad9"
     },
     {
       "date": "Le mercredi 14 janvier 2026 de  13:30:00 à  16:30:00",
