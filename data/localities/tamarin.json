@@ -2,11 +2,18 @@
   "slug": "tamarin",
   "name": "TAMARIN",
   "district": "blackriver",
-  "generated": "2026-01-14T09:04:14.901Z",
-  "outageCount": 63,
+  "generated": "2026-01-14T10:01:35.915Z",
+  "outageCount": 64,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2025-12-22",
+  "lastOutage": "2026-01-16",
   "outages": [
+    {
+      "date": "Le vendredi 16 janvier 2026 de  08:30:00 à  16:30:00",
+      "streets": "TAMARIN",
+      "from": "2026-01-16T04:30:00.000Z",
+      "to": "2026-01-16T12:30:00.000Z",
+      "id": "c54ad1d14bbfafc01a67bacfea56e54b"
+    },
     {
       "date": "Le lundi 22 décembre 2025 de  21:35:00 à  22:45:00",
       "streets": "AVENUE MULLER/JACARANDAS/CORDONIER",

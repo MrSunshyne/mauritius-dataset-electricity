@@ -1,8 +1,8 @@
 {
   "date": "2026-01-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-14T09:04:14.576Z",
-  "outageCount": 4,
+  "generated": "2026-01-14T10:01:35.589Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le mercredi 14 janvier 2026 de  08:30:00 à  14:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-01-14T04:30:00.000Z",
       "to": "2026-01-14T10:00:00.000Z",
       "id": "4e4d8ca223da946158613d6fa60ac1f4"
+    },
+    {
+      "date": "Le mercredi 14 janvier 2026 de  13:30:00 à  16:30:00",
+      "locality": "PONT PRASLIN",
+      "localitySlug": "pont-praslin",
+      "streets": "PONT PRASLIN, MARE D-AUSTRALIA, VILLE BAGUE, PETITE JULIE",
+      "district": "pamplemousses",
+      "from": "2026-01-14T09:30:00.000Z",
+      "to": "2026-01-14T12:30:00.000Z",
+      "id": "c856e1487d688b4f3068958dc33b47d5"
     },
     {
       "date": "Le mercredi 14 janvier 2026 de  09:00:00 à  15:00:00",
@@ -43,6 +53,16 @@
       "from": "2026-01-14T09:30:00.000Z",
       "to": "2026-01-14T11:00:00.000Z",
       "id": "3e5ede7e0ab231033b064f0ef0f90bff"
+    },
+    {
+      "date": "Le mercredi 14 janvier 2026 de  14:00:00 à  18:00:00",
+      "locality": "HERMITAGE PHOENIX",
+      "localitySlug": "hermitage-phoenix",
+      "streets": "CHEMIN BELLERIVE HERMITAGES",
+      "district": "plainewilhems",
+      "from": "2026-01-14T10:00:00.000Z",
+      "to": "2026-01-14T14:00:00.000Z",
+      "id": "c8c6d189b88e6366bbae21e7f3b80c54"
     }
   ]
 }

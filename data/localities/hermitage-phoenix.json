@@ -2,11 +2,18 @@
   "slug": "hermitage-phoenix",
   "name": "HERMITAGE PHOENIX",
   "district": "plainewilhems",
-  "generated": "2026-01-14T09:04:14.737Z",
-  "outageCount": 27,
+  "generated": "2026-01-14T10:01:35.751Z",
+  "outageCount": 28,
   "firstOutage": "2022-09-10",
-  "lastOutage": "2025-12-26",
+  "lastOutage": "2026-01-14",
   "outages": [
+    {
+      "date": "Le mercredi 14 janvier 2026 de  14:00:00 à  18:00:00",
+      "streets": "CHEMIN BELLERIVE HERMITAGES",
+      "from": "2026-01-14T10:00:00.000Z",
+      "to": "2026-01-14T14:00:00.000Z",
+      "id": "c8c6d189b88e6366bbae21e7f3b80c54"
+    },
     {
       "date": "Le vendredi 26 décembre 2025 de  17:00:00 à  18:30:00",
       "streets": "PLAINE DES HERMITAGE, NEAR ORCHARD KIDS",

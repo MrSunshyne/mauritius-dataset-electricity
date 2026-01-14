@@ -2,11 +2,18 @@
   "slug": "pont-praslin",
   "name": "PONT PRASLIN",
   "district": "pamplemousses",
-  "generated": "2026-01-14T09:04:14.842Z",
-  "outageCount": 1,
+  "generated": "2026-01-14T10:01:35.855Z",
+  "outageCount": 2,
   "firstOutage": "2024-01-11",
-  "lastOutage": "2024-01-11",
+  "lastOutage": "2026-01-14",
   "outages": [
+    {
+      "date": "Le mercredi 14 janvier 2026 de  13:30:00 à  16:30:00",
+      "streets": "PONT PRASLIN, MARE D-AUSTRALIA, VILLE BAGUE, PETITE JULIE",
+      "from": "2026-01-14T09:30:00.000Z",
+      "to": "2026-01-14T12:30:00.000Z",
+      "id": "c856e1487d688b4f3068958dc33b47d5"
+    },
     {
       "date": "Le jeudi 11 janvier 2024 de  18:30:00 à  23:00:00",
       "streets": "LES HABITANTS DE PONT PRASLIN.",
