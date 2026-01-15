@@ -1,8 +1,8 @@
 {
   "date": "2026-01-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-15T16:04:32.876Z",
-  "outageCount": 12,
+  "generated": "2026-01-15T17:07:41.807Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le jeudi 15 janvier 2026 de  10:00:00 à  15:00:00",
@@ -63,6 +63,16 @@
       "from": "2026-01-15T05:00:00.000Z",
       "to": "2026-01-15T12:00:00.000Z",
       "id": "239f4a4dad1f9d62f85cdec57c9f621e"
+    },
+    {
+      "date": "Le jeudi 15 janvier 2026 de  20:30:00 à  01:30:00",
+      "locality": "LE BOUCHON",
+      "localitySlug": "le-bouchon",
+      "streets": "LE BOUCHON ET CAMP CAROL.",
+      "district": "grandport",
+      "from": "2026-01-15T16:30:00.000Z",
+      "to": "2026-01-14T21:30:00.000Z",
+      "id": "01e8466b971aa5a01d55fe2d4a17d3a0"
     },
     {
       "date": "Le jeudi 15 janvier 2026 de  09:15:00 à  10:00:00",
