@@ -2,11 +2,18 @@
   "slug": "chemin-grenier",
   "name": "CHEMIN GRENIER",
   "district": "savanne",
-  "generated": "2026-01-15T10:01:03.523Z",
-  "outageCount": 53,
+  "generated": "2026-01-15T11:01:12.235Z",
+  "outageCount": 54,
   "firstOutage": "2022-05-22",
-  "lastOutage": "2025-12-30",
+  "lastOutage": "2026-01-18",
   "outages": [
+    {
+      "date": "Le dimanche 18 janvier 2026 de  09:00:00 à  15:30:00",
+      "streets": "Chamouny, Rama Road, Camp Goolbar, Camp Lilas, Camp Fany et Mont Carmel Chemin Grenier",
+      "from": "2026-01-18T05:00:00.000Z",
+      "to": "2026-01-18T11:30:00.000Z",
+      "id": "d65284d18d0dfc2a172a5eb0a37604de"
+    },
     {
       "date": "Le mardi 30 décembre 2025 de  18:00:00 à  19:00:00",
       "streets": "CHEMIN GRENIER",

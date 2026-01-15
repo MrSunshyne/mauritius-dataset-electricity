@@ -2,11 +2,18 @@
   "slug": "gros-cailloux",
   "name": "GROS CAILLOUX",
   "district": "blackriver",
-  "generated": "2026-01-15T10:01:03.584Z",
-  "outageCount": 21,
+  "generated": "2026-01-15T11:01:12.295Z",
+  "outageCount": 22,
   "firstOutage": "2022-06-05",
-  "lastOutage": "2025-12-18",
+  "lastOutage": "2026-01-18",
   "outages": [
+    {
+      "date": "Le dimanche 18 janvier 2026 de  08:30:00 à  15:00:00",
+      "streets": "Allee Manguiers, Allee Roussaille, La Source Lane, Jugessur Lane, Jagatsing Lane, Impasse Juggoo, Bosquet Rd, Sophie Lane, Espace Jardin, Quality Decor, Morc Domah et les environs",
+      "from": "2026-01-18T04:30:00.000Z",
+      "to": "2026-01-18T11:00:00.000Z",
+      "id": "7d60704c50a84a261571d5f5b54640f2"
+    },
     {
       "date": "Le jeudi 18 décembre 2025 de  09:45:00 à  10:15:00",
       "streets": "Gros Cailloux & St Martin",

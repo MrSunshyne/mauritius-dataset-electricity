@@ -2,11 +2,18 @@
   "slug": "roches-brunes",
   "name": "ROCHES BRUNES",
   "district": "plainewilhems",
-  "generated": "2026-01-15T10:01:03.732Z",
-  "outageCount": 21,
+  "generated": "2026-01-15T11:01:12.448Z",
+  "outageCount": 22,
   "firstOutage": "2022-10-01",
-  "lastOutage": "2026-01-01",
+  "lastOutage": "2026-01-16",
   "outages": [
+    {
+      "date": "Le vendredi 16 janvier 2026 de  14:00:00 à  17:00:00",
+      "streets": "Allee Mangue, Ave Jasmin, Ave Pere Arekium, Ave Maurice Raffray, en partie Rene Maingard et les environs",
+      "from": "2026-01-16T10:00:00.000Z",
+      "to": "2026-01-16T13:00:00.000Z",
+      "id": "a6d4e0a05daf6756280e065bf3ba1dba"
+    },
     {
       "date": "Le jeudi 1 janvier 2026 de  15:20:00 à  18:30:00",
       "streets": "MORC NEW TOWN",

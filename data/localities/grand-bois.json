@@ -2,11 +2,18 @@
   "slug": "grand-bois",
   "name": "GRAND BOIS",
   "district": "savanne",
-  "generated": "2026-01-15T10:01:03.575Z",
-  "outageCount": 14,
+  "generated": "2026-01-15T11:01:12.286Z",
+  "outageCount": 15,
   "firstOutage": "2022-09-15",
-  "lastOutage": "2025-10-01",
+  "lastOutage": "2026-01-18",
   "outages": [
+    {
+      "date": "Le dimanche 18 janvier 2026 de  09:00:00 à  15:00:00",
+      "streets": "Grand Bois et Bois Cheri",
+      "from": "2026-01-18T05:00:00.000Z",
+      "to": "2026-01-18T11:00:00.000Z",
+      "id": "1a1b6f659400c755c313a75548436ca4"
+    },
     {
       "date": "Le mercredi 1 octobre 2025 de  09:20:00 à  10:45:00",
       "streets": "PART OF GRAND BOIS",

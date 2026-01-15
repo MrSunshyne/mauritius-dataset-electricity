@@ -1,9 +1,19 @@
 {
   "date": "2026-01-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-15T10:01:03.427Z",
-  "outageCount": 1,
+  "generated": "2026-01-15T11:01:12.134Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le dimanche 18 janvier 2026 de  08:30:00 à  15:00:00",
+      "locality": "GROS CAILLOUX",
+      "localitySlug": "gros-cailloux",
+      "streets": "Allee Manguiers, Allee Roussaille, La Source Lane, Jugessur Lane, Jagatsing Lane, Impasse Juggoo, Bosquet Rd, Sophie Lane, Espace Jardin, Quality Decor, Morc Domah et les environs",
+      "district": "blackriver",
+      "from": "2026-01-18T04:30:00.000Z",
+      "to": "2026-01-18T11:00:00.000Z",
+      "id": "7d60704c50a84a261571d5f5b54640f2"
+    },
     {
       "date": "Le dimanche 18 janvier 2026 de  08:30:00 à  17:00:00",
       "locality": "VACOAS",
@@ -13,6 +23,26 @@
       "from": "2026-01-18T04:30:00.000Z",
       "to": "2026-01-18T13:00:00.000Z",
       "id": "f67a1ac2087a9cceea433e9ee337e320"
+    },
+    {
+      "date": "Le dimanche 18 janvier 2026 de  09:00:00 à  15:00:00",
+      "locality": "GRAND BOIS",
+      "localitySlug": "grand-bois",
+      "streets": "Grand Bois et Bois Cheri",
+      "district": "savanne",
+      "from": "2026-01-18T05:00:00.000Z",
+      "to": "2026-01-18T11:00:00.000Z",
+      "id": "1a1b6f659400c755c313a75548436ca4"
+    },
+    {
+      "date": "Le dimanche 18 janvier 2026 de  09:00:00 à  15:30:00",
+      "locality": "CHEMIN GRENIER",
+      "localitySlug": "chemin-grenier",
+      "streets": "Chamouny, Rama Road, Camp Goolbar, Camp Lilas, Camp Fany et Mont Carmel Chemin Grenier",
+      "district": "savanne",
+      "from": "2026-01-18T05:00:00.000Z",
+      "to": "2026-01-18T11:30:00.000Z",
+      "id": "d65284d18d0dfc2a172a5eb0a37604de"
     }
   ]
 }

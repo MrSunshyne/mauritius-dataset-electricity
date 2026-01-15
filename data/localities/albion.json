@@ -2,11 +2,18 @@
   "slug": "albion",
   "name": "ALBION",
   "district": "blackriver",
-  "generated": "2026-01-15T10:01:03.438Z",
-  "outageCount": 96,
+  "generated": "2026-01-15T11:01:12.145Z",
+  "outageCount": 97,
   "firstOutage": "2022-06-06",
-  "lastOutage": "2026-01-08",
+  "lastOutage": "2026-01-17",
   "outages": [
+    {
+      "date": "Le samedi 17 janvier 2026 de  08:30:00 à  15:00:00",
+      "streets": "Camp Creole, Ave Pelican, Ave Flamingo, Ave Albatros, Ave Condor, Ave Vally, Ave Belle Eau, Ave La Source et les environs",
+      "from": "2026-01-17T04:30:00.000Z",
+      "to": "2026-01-17T11:00:00.000Z",
+      "id": "4dadaa234cc809af506b2948770d70fa"
+    },
     {
       "date": "Le jeudi 8 janvier 2026 de  11:00:00 à  14:00:00",
       "streets": "Morc Splendid View, Morc KNN, Summer Property, Beau Soleil, Residence La Croisette, Sliver Camelia, Morc Serenis, Curly Willow, Marguerite et les environs",

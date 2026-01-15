@@ -1,8 +1,8 @@
 {
   "date": "2026-01-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-15T10:01:03.427Z",
-  "outageCount": 1,
+  "generated": "2026-01-15T11:01:12.134Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le vendredi 16 janvier 2026 de  08:30:00 à  16:30:00",
@@ -13,6 +13,26 @@
       "from": "2026-01-16T04:30:00.000Z",
       "to": "2026-01-16T12:30:00.000Z",
       "id": "c54ad1d14bbfafc01a67bacfea56e54b"
+    },
+    {
+      "date": "Le vendredi 16 janvier 2026 de  09:30:00 à  14:00:00",
+      "locality": "SEBASTOPOL",
+      "localitySlug": "sebastopol",
+      "streets": "dans les environs de Lesur",
+      "district": "flacq",
+      "from": "2026-01-16T05:30:00.000Z",
+      "to": "2026-01-16T10:00:00.000Z",
+      "id": "20a16df17dbd63494362d4be5a9eef96"
+    },
+    {
+      "date": "Le vendredi 16 janvier 2026 de  14:00:00 à  17:00:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "Allee Mangue, Ave Jasmin, Ave Pere Arekium, Ave Maurice Raffray, en partie Rene Maingard et les environs",
+      "district": "plainewilhems",
+      "from": "2026-01-16T10:00:00.000Z",
+      "to": "2026-01-16T13:00:00.000Z",
+      "id": "a6d4e0a05daf6756280e065bf3ba1dba"
     }
   ]
 }
