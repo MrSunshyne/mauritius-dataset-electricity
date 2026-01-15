@@ -2,11 +2,18 @@
   "slug": "la-marie",
   "name": "LA MARIE",
   "district": "plainewilhems",
-  "generated": "2026-01-15T13:13:44.111Z",
-  "outageCount": 50,
+  "generated": "2026-01-15T14:02:48.037Z",
+  "outageCount": 51,
   "firstOutage": "2022-07-07",
-  "lastOutage": "2025-11-13",
+  "lastOutage": "2026-01-15",
   "outages": [
+    {
+      "date": "Le jeudi 15 janvier 2026 de  17:30:00 à  19:00:00",
+      "streets": "FOREST LANE ET LES ALENTOURS",
+      "from": "2026-01-15T13:30:00.000Z",
+      "to": "2026-01-15T15:00:00.000Z",
+      "id": "2122cae472d02c7a6b35b094fb2705f8"
+    },
     {
       "date": "Le jeudi 13 novembre 2025 de  09:00:00 à  15:00:00",
       "streets": "dans les environs de Morc Pousson.",

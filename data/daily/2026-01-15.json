@@ -1,8 +1,8 @@
 {
   "date": "2026-01-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-15T13:13:43.930Z",
-  "outageCount": 11,
+  "generated": "2026-01-15T14:02:47.861Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le jeudi 15 janvier 2026 de  10:00:00 à  15:00:00",
@@ -85,14 +85,24 @@
       "id": "c2394dbc76a483f7ada9252fd6b7c2ae"
     },
     {
-      "date": "Le jeudi 15 janvier 2026 de  16:05:00 à  17:45:00",
+      "date": "Le jeudi 15 janvier 2026 de  17:30:00 à  19:00:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "FOREST LANE ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2026-01-15T13:30:00.000Z",
+      "to": "2026-01-15T15:00:00.000Z",
+      "id": "2122cae472d02c7a6b35b094fb2705f8"
+    },
+    {
+      "date": "Le jeudi 15 janvier 2026 de  16:05:00 à  19:00:00",
       "locality": "CAMP CHAPELON",
       "localitySlug": "camp-chapelon",
       "streets": "EN PARTIE CAMP CHAPELON, PAILLES ROAD, BATA ET ISLAND ICE COROMANDEL.",
       "district": "portlouis",
       "from": "2026-01-15T12:05:00.000Z",
-      "to": "2026-01-15T13:45:00.000Z",
-      "id": "307e44da1c8f78c9ec5fa9fa91ec4ac5"
+      "to": "2026-01-15T15:00:00.000Z",
+      "id": "953d6fdaa4ea7c9752c250ea29cfca46"
     },
     {
       "date": "Le jeudi 15 janvier 2026 de  09:00:00 à  16:00:00",
