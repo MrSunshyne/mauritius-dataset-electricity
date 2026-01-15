@@ -2,11 +2,18 @@
   "slug": "camp-de-masque-pave",
   "name": "CAMP DE MASQUE PAVE",
   "district": "flacq",
-  "generated": "2026-01-14T18:01:10.165Z",
-  "outageCount": 9,
+  "generated": "2026-01-15T06:01:55.556Z",
+  "outageCount": 10,
   "firstOutage": "2022-09-07",
-  "lastOutage": "2025-09-02",
+  "lastOutage": "2026-01-15",
   "outages": [
+    {
+      "date": "Le jeudi 15 janvier 2026 de  09:00:00 à  14:00:00",
+      "streets": "MORC FUEL VRS CAMP DE MASCQUE PAVE",
+      "from": "2026-01-15T05:00:00.000Z",
+      "to": "2026-01-15T10:00:00.000Z",
+      "id": "add2e13de7b3669f3a5ee84f4659b9f9"
+    },
     {
       "date": "Le mardi 2 septembre 2025 de  09:05:00 à  11:10:00",
       "streets": "MARE GOYAVES",

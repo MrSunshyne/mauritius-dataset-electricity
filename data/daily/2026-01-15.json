@@ -1,9 +1,29 @@
 {
   "date": "2026-01-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-14T18:01:10.091Z",
-  "outageCount": 3,
+  "generated": "2026-01-15T06:01:55.484Z",
+  "outageCount": 8,
   "outages": [
+    {
+      "date": "Le jeudi 15 janvier 2026 de  10:00:00 à  14:00:00",
+      "locality": "CHAMAREL",
+      "localitySlug": "chamarel",
+      "streets": "REGION CHAMAREL",
+      "district": "blackriver",
+      "from": "2026-01-15T06:00:00.000Z",
+      "to": "2026-01-15T10:00:00.000Z",
+      "id": "42d036f172c555d60b753b8465949acb"
+    },
+    {
+      "date": "Le jeudi 15 janvier 2026 de  09:00:00 à  14:00:00",
+      "locality": "CAMP DE MASQUE PAVE",
+      "localitySlug": "camp-de-masque-pave",
+      "streets": "MORC FUEL VRS CAMP DE MASCQUE PAVE",
+      "district": "flacq",
+      "from": "2026-01-15T05:00:00.000Z",
+      "to": "2026-01-15T10:00:00.000Z",
+      "id": "add2e13de7b3669f3a5ee84f4659b9f9"
+    },
     {
       "date": "Le jeudi 15 janvier 2026 de  09:00:00 à  17:00:00",
       "locality": "ROSE BELLE",
@@ -23,6 +43,36 @@
       "from": "2026-01-15T05:00:00.000Z",
       "to": "2026-01-15T12:00:00.000Z",
       "id": "239f4a4dad1f9d62f85cdec57c9f621e"
+    },
+    {
+      "date": "Le jeudi 15 janvier 2026 de  09:15:00 à  10:00:00",
+      "locality": "VILLEBAGUE",
+      "localitySlug": "villebague",
+      "streets": "MARE DAUSTRALIA,VILLE BAGUE,PONT PRASLIN,PETITE JULIE",
+      "district": "pamplemousses",
+      "from": "2026-01-15T05:15:00.000Z",
+      "to": "2026-01-15T06:00:00.000Z",
+      "id": "56507d62a7c1630058a313e9908ed17d"
+    },
+    {
+      "date": "Le jeudi 15 janvier 2026 de  00:15:00 à  02:15:00",
+      "locality": "BALACLAVA",
+      "localitySlug": "balaclava",
+      "streets": "BALACLAVA,GRANDE POINTE AUX PIMENTS",
+      "district": "pamplemousses",
+      "from": "2026-01-14T20:15:00.000Z",
+      "to": "2026-01-13T22:15:00.000Z",
+      "id": "c2394dbc76a483f7ada9252fd6b7c2ae"
+    },
+    {
+      "date": "Le jeudi 15 janvier 2026 de  09:00:00 à  16:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "MORCELLEMNT GERANIUM GRAND BAY- OFFICIER EN CHARGE POUR LA SECTION DE GOODLANDS- STO KHARUG",
+      "district": "rivieredurempart",
+      "from": "2026-01-15T05:00:00.000Z",
+      "to": "2026-01-15T12:00:00.000Z",
+      "id": "3db20e5a5ddc8d9cf06ca65f6e69b43e"
     },
     {
       "date": "Le jeudi 15 janvier 2026 de  09:00:00 à  15:30:00",

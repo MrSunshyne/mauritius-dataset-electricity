@@ -2,11 +2,18 @@
   "slug": "chamarel",
   "name": "CHAMAREL",
   "district": "blackriver",
-  "generated": "2026-01-14T18:01:10.190Z",
-  "outageCount": 34,
+  "generated": "2026-01-15T06:01:55.581Z",
+  "outageCount": 35,
   "firstOutage": "2022-03-24",
-  "lastOutage": "2025-12-29",
+  "lastOutage": "2026-01-15",
   "outages": [
+    {
+      "date": "Le jeudi 15 janvier 2026 de  10:00:00 à  14:00:00",
+      "streets": "REGION CHAMAREL",
+      "from": "2026-01-15T06:00:00.000Z",
+      "to": "2026-01-15T10:00:00.000Z",
+      "id": "42d036f172c555d60b753b8465949acb"
+    },
     {
       "date": "Le lundi 29 décembre 2025 de  09:15:00 à  12:00:00",
       "streets": "AVENUE ROULEAU ET JACKIE LENOIR",

@@ -2,11 +2,18 @@
   "slug": "grand-bay",
   "name": "GRAND BAY",
   "district": "rivieredurempart",
-  "generated": "2026-01-14T18:01:10.241Z",
-  "outageCount": 92,
+  "generated": "2026-01-15T06:01:55.632Z",
+  "outageCount": 93,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-01-04",
+  "lastOutage": "2026-01-15",
   "outages": [
+    {
+      "date": "Le jeudi 15 janvier 2026 de  09:00:00 à  16:00:00",
+      "streets": "MORCELLEMNT GERANIUM GRAND BAY- OFFICIER EN CHARGE POUR LA SECTION DE GOODLANDS- STO KHARUG",
+      "from": "2026-01-15T05:00:00.000Z",
+      "to": "2026-01-15T12:00:00.000Z",
+      "id": "3db20e5a5ddc8d9cf06ca65f6e69b43e"
+    },
     {
       "date": "Le dimanche 4 janvier 2026 de  12:10:00 à  14:15:00",
       "streets": "ROYAL ROAD ET DANS LES ALENTOURS DE ANIMALIA",

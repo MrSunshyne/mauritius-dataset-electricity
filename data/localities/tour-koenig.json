@@ -2,11 +2,18 @@
   "slug": "tour-koenig",
   "name": "TOUR KOENIG",
   "district": "portlouis",
-  "generated": "2026-01-14T18:01:10.426Z",
-  "outageCount": 19,
+  "generated": "2026-01-15T06:01:55.829Z",
+  "outageCount": 20,
   "firstOutage": "2022-11-05",
-  "lastOutage": "2025-11-28",
+  "lastOutage": "2026-01-17",
   "outages": [
+    {
+      "date": "Le samedi 17 janvier 2026 de  08:30:00 à  15:00:00",
+      "streets": "LES ABONNES DE LA TOUR KOENIG DANS LES ENVIRONS DÁVENUE PEUPLIERS",
+      "from": "2026-01-17T04:30:00.000Z",
+      "to": "2026-01-17T11:00:00.000Z",
+      "id": "b3eced77c943c428fee789b8fd6442c8"
+    },
     {
       "date": "Le vendredi 28 novembre 2025 de  09:20:00 à  12:00:00",
       "streets": "RUE COQUILLAGE, LA TOURELLE ET LES ALENTOURS",
