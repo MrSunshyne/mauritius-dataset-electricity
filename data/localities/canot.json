@@ -2,11 +2,18 @@
   "slug": "canot",
   "name": "CANOT",
   "district": "blackriver",
-  "generated": "2026-01-15T11:01:12.219Z",
-  "outageCount": 5,
+  "generated": "2026-01-15T12:02:00.692Z",
+  "outageCount": 6,
   "firstOutage": "2022-11-08",
-  "lastOutage": "2025-12-17",
+  "lastOutage": "2026-01-15",
   "outages": [
+    {
+      "date": "Le jeudi 15 janvier 2026 de  15:00:00 à  17:00:00",
+      "streets": "LE VILLAGE DE CANOT.",
+      "from": "2026-01-15T11:00:00.000Z",
+      "to": "2026-01-15T13:00:00.000Z",
+      "id": "fb776ea7afdd92590baae7fafe77fbbc"
+    },
     {
       "date": "Le mercredi 17 décembre 2025 de  17:20:00 à  18:00:00",
       "streets": "VILLAGE CANOT, DOME D ALBION, MORC MEDINE",

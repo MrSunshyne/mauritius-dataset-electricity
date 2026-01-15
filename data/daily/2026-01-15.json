@@ -1,8 +1,8 @@
 {
   "date": "2026-01-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-15T11:01:12.133Z",
-  "outageCount": 9,
+  "generated": "2026-01-15T12:02:00.606Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le jeudi 15 janvier 2026 de  10:00:00 à  15:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-01-15T06:00:00.000Z",
       "to": "2026-01-15T06:45:00.000Z",
       "id": "c195b16bd5658b8956b9cbf6fdde1021"
+    },
+    {
+      "date": "Le jeudi 15 janvier 2026 de  15:00:00 à  17:00:00",
+      "locality": "CANOT",
+      "localitySlug": "canot",
+      "streets": "LE VILLAGE DE CANOT.",
+      "district": "blackriver",
+      "from": "2026-01-15T11:00:00.000Z",
+      "to": "2026-01-15T13:00:00.000Z",
+      "id": "fb776ea7afdd92590baae7fafe77fbbc"
     },
     {
       "date": "Le jeudi 15 janvier 2026 de  09:00:00 à  14:00:00",

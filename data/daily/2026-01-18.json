@@ -1,8 +1,8 @@
 {
   "date": "2026-01-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-15T11:01:12.134Z",
-  "outageCount": 4,
+  "generated": "2026-01-15T12:02:00.607Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le dimanche 18 janvier 2026 de  08:30:00 à  15:00:00",
@@ -15,6 +15,16 @@
       "id": "7d60704c50a84a261571d5f5b54640f2"
     },
     {
+      "date": "Le dimanche 18 janvier 2026 de  09:00:00 à  17:00:00",
+      "locality": "MARE D-ALBERT",
+      "localitySlug": "mare-d-albert",
+      "streets": "Mare D’Albert habitant dans le périmètre et les rues suivantes: Gandhi Road, Fabric Road, Morcellement Gokhool Rampe Le Moirt, Résidence Turquoise et Résidence Grove Mare D’Albert",
+      "district": "grandport",
+      "from": "2026-01-18T05:00:00.000Z",
+      "to": "2026-01-18T13:00:00.000Z",
+      "id": "94d7398a753a07cd1fdc6f1c32988f71"
+    },
+    {
       "date": "Le dimanche 18 janvier 2026 de  08:30:00 à  17:00:00",
       "locality": "VACOAS",
       "localitySlug": "vacoas",
@@ -23,6 +33,26 @@
       "from": "2026-01-18T04:30:00.000Z",
       "to": "2026-01-18T13:00:00.000Z",
       "id": "f67a1ac2087a9cceea433e9ee337e320"
+    },
+    {
+      "date": "Le dimanche 18 janvier 2026 de  08:30:00 à  16:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "dans les périmètres et rues suivante : St Clement, Route du Jardin, Garden Village, Bernadin de St Pierre, Flat Dodo, Lislet Geoffrey, Morc Basset, St Clement court et une partie de Cardinal et A. Esnouf Street",
+      "district": "plainewilhems",
+      "from": "2026-01-18T04:30:00.000Z",
+      "to": "2026-01-18T12:00:00.000Z",
+      "id": "731115cdda2df50f0894a670bc696aa4"
+    },
+    {
+      "date": "Le dimanche 18 janvier 2026 de  08:30:00 à  16:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "dans les périmètres et rues suivante : Résidence St Luc, Résidence Bourg, Résidence Attlee, NHDC La Colombe, NHDC Jasmin, une partie de Bonnefin Street, Morc Rogers, Morc Ramalingum, Camp Le Juge, Résidence La Brasserie et Camp Bombaye",
+      "district": "plainewilhems",
+      "from": "2026-01-18T04:30:00.000Z",
+      "to": "2026-01-18T12:00:00.000Z",
+      "id": "aba2fb4f6fba3ce21fd4c12c22c0d80d"
     },
     {
       "date": "Le dimanche 18 janvier 2026 de  09:00:00 à  15:00:00",
