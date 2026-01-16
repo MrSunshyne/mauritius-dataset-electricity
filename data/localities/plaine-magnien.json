@@ -2,8 +2,8 @@
   "slug": "plaine-magnien",
   "name": "PLAINE MAGNIEN",
   "district": "grandport",
-  "generated": "2026-01-16T17:03:46.371Z",
-  "outageCount": 52,
+  "generated": "2026-01-16T18:01:16.215Z",
+  "outageCount": 53,
   "firstOutage": "2022-06-08",
   "lastOutage": "2026-01-17",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-01-17T05:00:00.000Z",
       "to": "2026-01-17T08:00:00.000Z",
       "id": "ee3a7b4f3d330c6b34993516299fec70"
+    },
+    {
+      "date": "Le vendredi 16 janvier 2026 de  21:00:00 à  23:00:00",
+      "streets": "AWATAR LANE -ROYAL RD PLAINE MAGNIEN-AIRPORT",
+      "from": "2026-01-16T17:00:00.000Z",
+      "to": "2026-01-16T19:00:00.000Z",
+      "id": "d0ba0a9911c72951c3b4f564d3f08256"
     },
     {
       "date": "Le mercredi 14 janvier 2026 de  18:45:00 à  21:00:00",

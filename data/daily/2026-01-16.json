@@ -1,8 +1,8 @@
 {
   "date": "2026-01-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-16T17:03:46.110Z",
-  "outageCount": 7,
+  "generated": "2026-01-16T18:01:15.956Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le vendredi 16 janvier 2026 de  08:30:00 à  16:30:00",
@@ -33,6 +33,16 @@
       "from": "2026-01-16T12:00:00.000Z",
       "to": "2026-01-16T14:00:00.000Z",
       "id": "ed7f95ec95e36a05501d39608ceb8a85"
+    },
+    {
+      "date": "Le vendredi 16 janvier 2026 de  21:00:00 à  23:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "AWATAR LANE -ROYAL RD PLAINE MAGNIEN-AIRPORT",
+      "district": "grandport",
+      "from": "2026-01-16T17:00:00.000Z",
+      "to": "2026-01-16T19:00:00.000Z",
+      "id": "d0ba0a9911c72951c3b4f564d3f08256"
     },
     {
       "date": "Le vendredi 16 janvier 2026 de  17:00:00 à  19:00:00",
