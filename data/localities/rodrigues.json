@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-01-15T18:04:17.431Z",
-  "outageCount": 185,
+  "generated": "2026-01-16T06:02:04.775Z",
+  "outageCount": 186,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2025-09-27",
+  "lastOutage": "2026-01-16",
   "outages": [
+    {
+      "date": "Le vendredi 16 janvier 2026 de  15:00:00 à  16:00:00",
+      "streets": "POINTE MONIER,CAMP DU ROI,HAUTEUR ACACIA,JARDIN MAMZEL,L-UNION,LE CHOU",
+      "from": "2026-01-16T11:00:00.000Z",
+      "to": "2026-01-16T12:00:00.000Z",
+      "id": "c4aa1a1f8882488a234f11f10b3d9259"
+    },
     {
       "date": "Le samedi 27 septembre 2025 de  08:30:00 à  15:00:00",
       "streets": "SAINT GABRIEL-LATANIERS-SAINTE FAMILLE RODRIGUES",
