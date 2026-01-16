@@ -2,11 +2,18 @@
   "slug": "rose-hill",
   "name": "ROSE-HILL",
   "district": "plainewilhems",
-  "generated": "2026-01-16T06:02:04.778Z",
-  "outageCount": 123,
+  "generated": "2026-01-16T07:04:38.745Z",
+  "outageCount": 124,
   "firstOutage": "2022-05-20",
-  "lastOutage": "2026-01-14",
+  "lastOutage": "2026-01-16",
   "outages": [
+    {
+      "date": "Le vendredi 16 janvier 2026 de  10:15:00 à  12:00:00",
+      "streets": "WILLOUGHBY ST,F RAOUL ST,IMP CELESTIN,FARQUHAR ST",
+      "from": "2026-01-16T06:15:00.000Z",
+      "to": "2026-01-16T08:00:00.000Z",
+      "id": "16d471a77507c2ebd84f243f8d105f7f"
+    },
     {
       "date": "Le mercredi 14 janvier 2026 de  13:30:00 à  15:00:00",
       "streets": "Ave Jeetoo, Ave Manilall, en partie Ave Guy Rosemont, Ave Berthaud, Ave Assemblé, Ave Corps de Garde, Ave Cretin et les environs",

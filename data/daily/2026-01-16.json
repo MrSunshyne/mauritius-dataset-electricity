@@ -1,8 +1,8 @@
 {
   "date": "2026-01-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-16T06:02:04.473Z",
-  "outageCount": 4,
+  "generated": "2026-01-16T07:04:38.439Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le vendredi 16 janvier 2026 de  08:30:00 à  16:30:00",
@@ -33,6 +33,16 @@
       "from": "2026-01-16T10:00:00.000Z",
       "to": "2026-01-16T13:00:00.000Z",
       "id": "a6d4e0a05daf6756280e065bf3ba1dba"
+    },
+    {
+      "date": "Le vendredi 16 janvier 2026 de  10:15:00 à  12:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "WILLOUGHBY ST,F RAOUL ST,IMP CELESTIN,FARQUHAR ST",
+      "district": "plainewilhems",
+      "from": "2026-01-16T06:15:00.000Z",
+      "to": "2026-01-16T08:00:00.000Z",
+      "id": "16d471a77507c2ebd84f243f8d105f7f"
     },
     {
       "date": "Le vendredi 16 janvier 2026 de  15:00:00 à  16:00:00",
