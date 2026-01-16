@@ -2,11 +2,18 @@
   "slug": "petite-retraite",
   "name": "PETITE RETRAITE",
   "district": "flacq",
-  "generated": "2026-01-16T12:01:57.793Z",
-  "outageCount": 10,
+  "generated": "2026-01-16T13:13:08.146Z",
+  "outageCount": 11,
   "firstOutage": "2022-10-28",
-  "lastOutage": "2026-01-13",
+  "lastOutage": "2026-01-21",
   "outages": [
+    {
+      "date": "Le mercredi 21 janvier 2026 de  08:30:00 à  16:30:00",
+      "streets": "Dans le périmètre et rues suivante : d’Incinerateur, Golden Chicken Poultry , UBP, Rolex, Eastern Examination Centre, Mont Ida Slaughter House et Eastern Stone Crusher.",
+      "from": "2026-01-21T04:30:00.000Z",
+      "to": "2026-01-21T12:30:00.000Z",
+      "id": "5e2db605b5f81dd54f7517e678fee882"
+    },
     {
       "date": "Le mardi 13 janvier 2026 de  12:35:00 à  14:00:00",
       "streets": "PETITE RETRAITE",

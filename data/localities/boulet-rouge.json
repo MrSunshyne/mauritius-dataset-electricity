@@ -2,11 +2,18 @@
   "slug": "boulet-rouge",
   "name": "BOULET ROUGE",
   "district": "flacq",
-  "generated": "2026-01-16T12:01:57.611Z",
-  "outageCount": 12,
+  "generated": "2026-01-16T13:13:07.962Z",
+  "outageCount": 13,
   "firstOutage": "2022-12-14",
-  "lastOutage": "2026-01-08",
+  "lastOutage": "2026-01-16",
   "outages": [
+    {
+      "date": "Le vendredi 16 janvier 2026 de  16:00:00 à  18:00:00",
+      "streets": "BOULET ROUGE FLACQ",
+      "from": "2026-01-16T12:00:00.000Z",
+      "to": "2026-01-16T14:00:00.000Z",
+      "id": "ed7f95ec95e36a05501d39608ceb8a85"
+    },
     {
       "date": "Le jeudi 8 janvier 2026 de  14:00:00 à  19:00:00",
       "streets": "Belle Mare, Shanti Nagar et Coastal Rd Palmar.",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-16T12:01:57.905Z",
+  "generated": "2026-01-16T13:13:08.257Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -619,10 +619,10 @@
       "slug": "boulet-rouge",
       "name": "BOULET ROUGE",
       "district": "flacq",
-      "outageCount": 12,
+      "outageCount": 13,
       "file": "boulet-rouge.json",
       "firstOutage": "2022-12-14",
-      "lastOutage": "2026-01-08"
+      "lastOutage": "2026-01-16"
     },
     {
       "slug": "boulingrin",
@@ -2842,10 +2842,10 @@
       "slug": "petite-retraite",
       "name": "PETITE RETRAITE",
       "district": "flacq",
-      "outageCount": 10,
+      "outageCount": 11,
       "file": "petite-retraite.json",
       "firstOutage": "2022-10-28",
-      "lastOutage": "2026-01-13"
+      "lastOutage": "2026-01-21"
     },
     {
       "slug": "petite-riviere",
@@ -3319,10 +3319,10 @@
       "slug": "riche-terre",
       "name": "RICHE TERRE",
       "district": "pamplemousses",
-      "outageCount": 30,
+      "outageCount": 31,
       "file": "riche-terre.json",
       "firstOutage": "2022-04-03",
-      "lastOutage": "2025-10-02"
+      "lastOutage": "2026-01-16"
     },
     {
       "slug": "richelieu",

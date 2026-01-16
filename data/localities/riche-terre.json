@@ -2,11 +2,18 @@
   "slug": "riche-terre",
   "name": "RICHE TERRE",
   "district": "pamplemousses",
-  "generated": "2026-01-16T12:01:57.835Z",
-  "outageCount": 30,
+  "generated": "2026-01-16T13:13:08.187Z",
+  "outageCount": 31,
   "firstOutage": "2022-04-03",
-  "lastOutage": "2025-10-02",
+  "lastOutage": "2026-01-16",
   "outages": [
+    {
+      "date": "Le vendredi 16 janvier 2026 de  17:00:00 à  19:00:00",
+      "streets": "CITE ROMA RICHE TERRE ET  EN PARTIE RICHE TERRE ROAD",
+      "from": "2026-01-16T13:00:00.000Z",
+      "to": "2026-01-16T15:00:00.000Z",
+      "id": "38300f958023682086af6b656260ef7d"
+    },
     {
       "date": "Le jeudi 2 octobre 2025 de  16:35:00 à  17:45:00",
       "streets": "EN PARTIE RICHE TERRE RD, SUSHIL LANE, EN PARTIE MUSLIM CEMETERY",

@@ -1,8 +1,8 @@
 {
   "date": "2026-01-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-16T12:01:57.549Z",
-  "outageCount": 5,
+  "generated": "2026-01-16T13:13:07.900Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le vendredi 16 janvier 2026 de  08:30:00 à  16:30:00",
@@ -23,6 +23,26 @@
       "from": "2026-01-16T05:30:00.000Z",
       "to": "2026-01-16T10:00:00.000Z",
       "id": "20a16df17dbd63494362d4be5a9eef96"
+    },
+    {
+      "date": "Le vendredi 16 janvier 2026 de  16:00:00 à  18:00:00",
+      "locality": "BOULET ROUGE",
+      "localitySlug": "boulet-rouge",
+      "streets": "BOULET ROUGE FLACQ",
+      "district": "flacq",
+      "from": "2026-01-16T12:00:00.000Z",
+      "to": "2026-01-16T14:00:00.000Z",
+      "id": "ed7f95ec95e36a05501d39608ceb8a85"
+    },
+    {
+      "date": "Le vendredi 16 janvier 2026 de  17:00:00 à  19:00:00",
+      "locality": "RICHE TERRE",
+      "localitySlug": "riche-terre",
+      "streets": "CITE ROMA RICHE TERRE ET  EN PARTIE RICHE TERRE ROAD",
+      "district": "pamplemousses",
+      "from": "2026-01-16T13:00:00.000Z",
+      "to": "2026-01-16T15:00:00.000Z",
+      "id": "38300f958023682086af6b656260ef7d"
     },
     {
       "date": "Le vendredi 16 janvier 2026 de  14:00:00 à  17:00:00",
