@@ -2,11 +2,18 @@
   "slug": "saint-aubin",
   "name": "SAINT AUBIN",
   "district": "savanne",
-  "generated": "2026-01-16T09:03:08.907Z",
-  "outageCount": 16,
+  "generated": "2026-01-16T10:01:11.086Z",
+  "outageCount": 17,
   "firstOutage": "2022-12-03",
-  "lastOutage": "2025-12-11",
+  "lastOutage": "2026-01-20",
   "outages": [
+    {
+      "date": "Le mardi 20 janvier 2026 de  09:00:00 à  15:30:00",
+      "streets": "Ducomer Union St Aubin",
+      "from": "2026-01-20T05:00:00.000Z",
+      "to": "2026-01-20T11:30:00.000Z",
+      "id": "bece6098b5a97bd8f12d6805d8a7156c"
+    },
     {
       "date": "Le jeudi 11 décembre 2025 de  16:00:00 à  18:00:00",
       "streets": "Morc VRS Saint Aubin",
