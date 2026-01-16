@@ -2,11 +2,18 @@
   "slug": "nouvelle-france",
   "name": "NOUVELLE FRANCE",
   "district": "grandport",
-  "generated": "2026-01-16T07:04:38.669Z",
-  "outageCount": 32,
+  "generated": "2026-01-16T08:01:25.779Z",
+  "outageCount": 33,
   "firstOutage": "2022-05-12",
-  "lastOutage": "2026-01-13",
+  "lastOutage": "2026-01-22",
   "outages": [
+    {
+      "date": "Le jeudi 22 janvier 2026 de  08:30:00 à  16:00:00",
+      "streets": "Nouvelle France habitant dans le périmètre et les rues suivantes: Lamusse Road, Kovil Lane, Satsen Lane, Baitka Lane, Aubeeluck Lane, Morcellement Nababsingh, Police Station Nouvelle France, Sik Yuen Store, La Chartreuse Usine, Phoenix Beverage Usine, NHDC Nouvelle France, une partie de Grand Port Road et une partie de Savanne Road Nouvelle France",
+      "from": "2026-01-22T04:30:00.000Z",
+      "to": "2026-01-22T12:00:00.000Z",
+      "id": "103bc62a0cf53c65d800f000252510eb"
+    },
     {
       "date": "Le mardi 13 janvier 2026 de  09:00:00 à  17:00:00",
       "streets": "Une partie du Link Road, Comlone Street, Dabydoyal Street, Morajee Street, La Forge Street, Morcellement MTMD et une partie de la Route Royale Pont Colville",

@@ -2,11 +2,18 @@
   "slug": "rose-belle",
   "name": "ROSE BELLE",
   "district": "grandport",
-  "generated": "2026-01-16T07:04:38.743Z",
-  "outageCount": 74,
+  "generated": "2026-01-16T08:01:25.858Z",
+  "outageCount": 75,
   "firstOutage": "2022-05-12",
-  "lastOutage": "2026-01-15",
+  "lastOutage": "2026-01-25",
   "outages": [
+    {
+      "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  16:00:00",
+      "streets": "Rose Belle habitant dans le périmètre et les rues suivantes: Marie Jeannie Road, ABSA Bank, CWA Office, State Bank, Vieux Moulin Mall, Police Head Quarters (South), Morcellement Orchidée, Morcellement Haton, une partie de Madam Lolo Street et une partie de la Route Royale Rose Belle",
+      "from": "2026-01-25T04:30:00.000Z",
+      "to": "2026-01-25T12:00:00.000Z",
+      "id": "4b23ce7471d88e5ad0e02e6ea5b53f8f"
+    },
     {
       "date": "Le jeudi 15 janvier 2026 de  09:00:00 à  17:00:00",
       "streets": "Rose Belle habitant dans le périmètre et les rues suivantes : Morcellement Haton, VRS Orchidee, Madame Lolo, MITD Rose Belle, Ajanta Road, Capitol Dream Mall, Cité EDC Madame Lolo, La Gare Street, Kulpoo Lane, Railway Road, Mongelard Road et une partie de la Route Royale Rose Belle",
