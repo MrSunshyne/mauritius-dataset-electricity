@@ -2,11 +2,18 @@
   "slug": "plaine-magnien",
   "name": "PLAINE MAGNIEN",
   "district": "grandport",
-  "generated": "2026-01-16T10:01:11.035Z",
-  "outageCount": 51,
+  "generated": "2026-01-16T11:00:59.130Z",
+  "outageCount": 52,
   "firstOutage": "2022-06-08",
-  "lastOutage": "2026-01-14",
+  "lastOutage": "2026-01-17",
   "outages": [
+    {
+      "date": "Le samedi 17 janvier 2026 de  09:00:00 à  12:00:00",
+      "streets": "Plaine Magnien habitant dans le périmètre et les rues suivantes: Morcellement VRS Mont Desert Road Plaine Magnien, CWA Mont Desert Mon Tresor, CWA Borehole Plaisance, MTS Plaisance et Residences Les Palmares",
+      "from": "2026-01-17T05:00:00.000Z",
+      "to": "2026-01-17T08:00:00.000Z",
+      "id": "ee3a7b4f3d330c6b34993516299fec70"
+    },
     {
       "date": "Le mercredi 14 janvier 2026 de  18:45:00 à  21:00:00",
       "streets": "MON DESERT AND SURROUNDINGS",

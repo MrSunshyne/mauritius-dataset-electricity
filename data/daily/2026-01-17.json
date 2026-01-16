@@ -1,8 +1,8 @@
 {
   "date": "2026-01-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-16T10:01:10.778Z",
-  "outageCount": 4,
+  "generated": "2026-01-16T11:00:58.873Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le samedi 17 janvier 2026 de  08:30:00 à  15:30:00",
@@ -25,6 +25,16 @@
       "id": "4dadaa234cc809af506b2948770d70fa"
     },
     {
+      "date": "Le samedi 17 janvier 2026 de  09:00:00 à  12:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "Plaine Magnien habitant dans le périmètre et les rues suivantes: Morcellement VRS Mont Desert Road Plaine Magnien, CWA Mont Desert Mon Tresor, CWA Borehole Plaisance, MTS Plaisance et Residences Les Palmares",
+      "district": "grandport",
+      "from": "2026-01-17T05:00:00.000Z",
+      "to": "2026-01-17T08:00:00.000Z",
+      "id": "ee3a7b4f3d330c6b34993516299fec70"
+    },
+    {
       "date": "Le samedi 17 janvier 2026 de  08:30:00 à  15:30:00",
       "locality": "SAINT PIERRE",
       "localitySlug": "saint-pierre",
@@ -33,6 +43,16 @@
       "from": "2026-01-17T04:30:00.000Z",
       "to": "2026-01-17T11:30:00.000Z",
       "id": "7a2c94ea0c1fa34252644bd7647863db"
+    },
+    {
+      "date": "Le samedi 17 janvier 2026 de  08:30:00 à  13:30:00",
+      "locality": "CANDOS VACOAS",
+      "localitySlug": "candos-vacoas",
+      "streets": "Morcellement Dookun, Boundary Lane, Rue la Gentillesse, Impasse de la Bienveillance",
+      "district": "plainewilhems",
+      "from": "2026-01-17T04:30:00.000Z",
+      "to": "2026-01-17T09:30:00.000Z",
+      "id": "e9ac306d88a7eaba903494bcbb2c064d"
     },
     {
       "date": "Le samedi 17 janvier 2026 de  08:30:00 à  15:00:00",

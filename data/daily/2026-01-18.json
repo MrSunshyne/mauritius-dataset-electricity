@@ -1,8 +1,8 @@
 {
   "date": "2026-01-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-16T10:01:10.778Z",
-  "outageCount": 8,
+  "generated": "2026-01-16T11:00:58.873Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le dimanche 18 janvier 2026 de  08:30:00 à  15:00:00",
@@ -63,6 +63,16 @@
       "from": "2026-01-18T04:30:00.000Z",
       "to": "2026-01-18T12:00:00.000Z",
       "id": "aba2fb4f6fba3ce21fd4c12c22c0d80d"
+    },
+    {
+      "date": "Le dimanche 18 janvier 2026 de  09:00:00 à  11:00:00",
+      "locality": "CANDOS VACOAS",
+      "localitySlug": "candos-vacoas",
+      "streets": "Ragoo Lane",
+      "district": "plainewilhems",
+      "from": "2026-01-18T05:00:00.000Z",
+      "to": "2026-01-18T07:00:00.000Z",
+      "id": "34a7a93578e3dcd737d1894c96396435"
     },
     {
       "date": "Le dimanche 18 janvier 2026 de  09:00:00 à  15:00:00",

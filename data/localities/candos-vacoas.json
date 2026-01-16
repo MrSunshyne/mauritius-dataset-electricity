@@ -2,11 +2,25 @@
   "slug": "candos-vacoas",
   "name": "CANDOS VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-01-16T10:01:10.865Z",
-  "outageCount": 12,
+  "generated": "2026-01-16T11:00:58.959Z",
+  "outageCount": 14,
   "firstOutage": "2022-06-21",
-  "lastOutage": "2026-01-10",
+  "lastOutage": "2026-01-18",
   "outages": [
+    {
+      "date": "Le dimanche 18 janvier 2026 de  09:00:00 à  11:00:00",
+      "streets": "Ragoo Lane",
+      "from": "2026-01-18T05:00:00.000Z",
+      "to": "2026-01-18T07:00:00.000Z",
+      "id": "34a7a93578e3dcd737d1894c96396435"
+    },
+    {
+      "date": "Le samedi 17 janvier 2026 de  08:30:00 à  13:30:00",
+      "streets": "Morcellement Dookun, Boundary Lane, Rue la Gentillesse, Impasse de la Bienveillance",
+      "from": "2026-01-17T04:30:00.000Z",
+      "to": "2026-01-17T09:30:00.000Z",
+      "id": "e9ac306d88a7eaba903494bcbb2c064d"
+    },
     {
       "date": "Le samedi 10 janvier 2026 de  09:00:00 à  12:00:00",
       "streets": "Lall Surry Lahadoor Ave Candos",
