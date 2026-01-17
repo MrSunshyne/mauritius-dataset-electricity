@@ -1,8 +1,8 @@
 {
   "date": "2026-01-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-16T18:01:15.956Z",
-  "outageCount": 8,
+  "generated": "2026-01-17T06:01:54.834Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le samedi 17 janvier 2026 de  08:30:00 à  15:30:00",
@@ -23,6 +23,16 @@
       "from": "2026-01-17T04:30:00.000Z",
       "to": "2026-01-17T11:00:00.000Z",
       "id": "4dadaa234cc809af506b2948770d70fa"
+    },
+    {
+      "date": "Le samedi 17 janvier 2026 de  09:00:00 à  11:00:00",
+      "locality": "CAMP DE MASQUE",
+      "localitySlug": "camp-de-masque",
+      "streets": "MORC VRS",
+      "district": "flacq",
+      "from": "2026-01-17T05:00:00.000Z",
+      "to": "2026-01-17T07:00:00.000Z",
+      "id": "42e7f7fb4417b804e5dd9fd503385dbb"
     },
     {
       "date": "Le samedi 17 janvier 2026 de  09:00:00 à  12:00:00",
@@ -63,6 +73,16 @@
       "from": "2026-01-17T04:30:00.000Z",
       "to": "2026-01-17T11:00:00.000Z",
       "id": "b3eced77c943c428fee789b8fd6442c8"
+    },
+    {
+      "date": "Le samedi 17 janvier 2026 de  08:30:00 à  14:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "ROYAL ROAD FROM S.A.Q.JEELANI MOSQUE TO TERMINUS",
+      "district": "portlouis",
+      "from": "2026-01-17T04:30:00.000Z",
+      "to": "2026-01-17T10:00:00.000Z",
+      "id": "db0855a9a7e64cd44680d4fab156de94"
     },
     {
       "date": "Le samedi 17 janvier 2026 de  15:00:00 à  16:00:00",

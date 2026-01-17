@@ -2,11 +2,18 @@
   "slug": "vallee-des-pretres",
   "name": "VALLEE DES PRETRES",
   "district": "portlouis",
-  "generated": "2026-01-16T18:01:16.311Z",
-  "outageCount": 66,
+  "generated": "2026-01-17T06:01:55.186Z",
+  "outageCount": 67,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2025-10-12",
+  "lastOutage": "2026-01-17",
   "outages": [
+    {
+      "date": "Le samedi 17 janvier 2026 de  08:30:00 à  14:00:00",
+      "streets": "ROYAL ROAD FROM S.A.Q.JEELANI MOSQUE TO TERMINUS",
+      "from": "2026-01-17T04:30:00.000Z",
+      "to": "2026-01-17T10:00:00.000Z",
+      "id": "db0855a9a7e64cd44680d4fab156de94"
+    },
     {
       "date": "Le dimanche 12 octobre 2025 de  08:30:00 à  15:00:00",
       "streets": "LES ABONNES HABITANT VALLEE DES PRETRES",
