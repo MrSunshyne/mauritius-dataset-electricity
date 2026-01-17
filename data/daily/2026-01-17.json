@@ -1,8 +1,8 @@
 {
   "date": "2026-01-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-17T10:00:55.791Z",
-  "outageCount": 11,
+  "generated": "2026-01-17T11:01:00.407Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le samedi 17 janvier 2026 de  08:30:00 à  15:30:00",
@@ -75,14 +75,14 @@
       "id": "e9ac306d88a7eaba903494bcbb2c064d"
     },
     {
-      "date": "Le samedi 17 janvier 2026 de  08:30:00 à  15:00:00",
+      "date": "Le samedi 17 janvier 2026 de  08:30:00 à  16:00:00",
       "locality": "TOUR KOENIG",
       "localitySlug": "tour-koenig",
       "streets": "LES ABONNES DE LA TOUR KOENIG DANS LES ENVIRONS DÁVENUE PEUPLIERS",
       "district": "portlouis",
       "from": "2026-01-17T04:30:00.000Z",
-      "to": "2026-01-17T11:00:00.000Z",
-      "id": "b3eced77c943c428fee789b8fd6442c8"
+      "to": "2026-01-17T12:00:00.000Z",
+      "id": "c5d4038156e366a2820784f56c0f929f"
     },
     {
       "date": "Le samedi 17 janvier 2026 de  08:30:00 à  14:00:00",
@@ -93,6 +93,16 @@
       "from": "2026-01-17T04:30:00.000Z",
       "to": "2026-01-17T10:00:00.000Z",
       "id": "db0855a9a7e64cd44680d4fab156de94"
+    },
+    {
+      "date": "Le samedi 17 janvier 2026 de  13:15:00 à  16:30:00",
+      "locality": "PLAINE VERTE",
+      "localitySlug": "plaine-verte",
+      "streets": "EN PARTIE CHEMIN BENARES, EN PARTIE RUE PAGODA, EN PARTIE CHEMIN CORPS DE GARDE, EN PARTIE ROUTE DES PAMPLEMOUSSES ET LES RUELLES AVOISINANTES.",
+      "district": "portlouis",
+      "from": "2026-01-17T09:15:00.000Z",
+      "to": "2026-01-17T12:30:00.000Z",
+      "id": "27fc5a9aefb3641becd1a7fddc4a9cb0"
     },
     {
       "date": "Le samedi 17 janvier 2026 de  15:00:00 à  16:00:00",
