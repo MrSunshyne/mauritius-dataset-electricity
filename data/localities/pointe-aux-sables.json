@@ -2,11 +2,18 @@
   "slug": "pointe-aux-sables",
   "name": "POINTE AUX SABLES",
   "district": "portlouis",
-  "generated": "2026-01-17T11:01:00.663Z",
-  "outageCount": 124,
+  "generated": "2026-01-17T12:01:43.884Z",
+  "outageCount": 125,
   "firstOutage": "2022-03-30",
-  "lastOutage": "2025-12-17",
+  "lastOutage": "2026-01-17",
   "outages": [
+    {
+      "date": "Le samedi 17 janvier 2026 de  14:45:00 à  18:00:00",
+      "streets": "Morc Ghurburrun,Petit Verger Pointe aux Sables",
+      "from": "2026-01-17T10:45:00.000Z",
+      "to": "2026-01-17T14:00:00.000Z",
+      "id": "1375e23e663ea4bf77b8cb4412d14e8b"
+    },
     {
       "date": "Le mercredi 17 décembre 2025 de  09:30:00 à  16:00:00",
       "streets": "LES ABONNES DE POINTE AUX SABLES HABITANT DANS LES ENVIRONS DES AVENUES GOLDEN, ACCACIAS, CATELYAS, NENUPHAR, CACTUS, TROCHETTIAS, JAMALAC, COQUELUCHES, TECOMA, LATANA ET ALAMANDAS",

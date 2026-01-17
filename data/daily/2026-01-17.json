@@ -1,8 +1,8 @@
 {
   "date": "2026-01-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-17T11:01:00.407Z",
-  "outageCount": 12,
+  "generated": "2026-01-17T12:01:43.615Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le samedi 17 janvier 2026 de  08:30:00 à  15:30:00",
@@ -45,14 +45,14 @@
       "id": "ee3a7b4f3d330c6b34993516299fec70"
     },
     {
-      "date": "Le samedi 17 janvier 2026 de  08:30:00 à  15:30:00",
+      "date": "Le samedi 17 janvier 2026 de  08:30:00 à  17:00:00",
       "locality": "SAINT PIERRE",
       "localitySlug": "saint-pierre",
       "streets": "La Laura Village, Roselyn Cottage, La Laura Serviette, Malenga et CWA Malenga",
       "district": "moka",
       "from": "2026-01-17T04:30:00.000Z",
-      "to": "2026-01-17T11:30:00.000Z",
-      "id": "7a2c94ea0c1fa34252644bd7647863db"
+      "to": "2026-01-17T13:00:00.000Z",
+      "id": "2bbd9b45dac31640790785da34318de6"
     },
     {
       "date": "Le samedi 17 janvier 2026 de  12:35:00 à  14:45:00",
@@ -103,6 +103,16 @@
       "from": "2026-01-17T09:15:00.000Z",
       "to": "2026-01-17T12:30:00.000Z",
       "id": "27fc5a9aefb3641becd1a7fddc4a9cb0"
+    },
+    {
+      "date": "Le samedi 17 janvier 2026 de  14:45:00 à  18:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "Morc Ghurburrun,Petit Verger Pointe aux Sables",
+      "district": "portlouis",
+      "from": "2026-01-17T10:45:00.000Z",
+      "to": "2026-01-17T14:00:00.000Z",
+      "id": "1375e23e663ea4bf77b8cb4412d14e8b"
     },
     {
       "date": "Le samedi 17 janvier 2026 de  15:00:00 à  16:00:00",
