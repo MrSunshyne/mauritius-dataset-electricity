@@ -2,11 +2,18 @@
   "slug": "port-louis",
   "name": "PORT-LOUIS",
   "district": "portlouis",
-  "generated": "2026-01-17T18:01:43.387Z",
-  "outageCount": 101,
+  "generated": "2026-01-18T06:01:49.587Z",
+  "outageCount": 102,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-01-11",
+  "lastOutage": "2026-01-18",
   "outages": [
+    {
+      "date": "Le dimanche 18 janvier 2026 de  09:00:00 à  13:00:00",
+      "streets": "RUE DAVID-RUE R SEENEEVASSEN PORT LOUIS",
+      "from": "2026-01-18T05:00:00.000Z",
+      "to": "2026-01-18T09:00:00.000Z",
+      "id": "02da382761d792e7d6c3838d59a39e42"
+    },
     {
       "date": "Le dimanche 11 janvier 2026 de  14:30:00 à  15:15:00",
       "streets": "CHEMIN KWAN TEE LES SALINES ET LES RUELLES AVOISINANTES.",
