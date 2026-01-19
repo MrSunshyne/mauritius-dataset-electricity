@@ -2,11 +2,18 @@
   "slug": "henrietta",
   "name": "HENRIETTA",
   "district": "plainewilhems",
-  "generated": "2026-01-19T12:02:01.639Z",
-  "outageCount": 72,
+  "generated": "2026-01-19T13:15:40.728Z",
+  "outageCount": 73,
   "firstOutage": "2022-07-14",
-  "lastOutage": "2026-01-11",
+  "lastOutage": "2026-01-20",
   "outages": [
+    {
+      "date": "Le mardi 20 janvier 2026 de  08:30:00 à  15:30:00",
+      "streets": "Henrietta / la MarieMorcellement Manguier Royale",
+      "from": "2026-01-20T04:30:00.000Z",
+      "to": "2026-01-20T11:30:00.000Z",
+      "id": "3d57bc1393d1bbb1d2a83bc1c19256e3"
+    },
     {
       "date": "Le dimanche 11 janvier 2026 de  08:30:00 à  14:00:00",
       "streets": "Morc Les Manguires Henrietta",

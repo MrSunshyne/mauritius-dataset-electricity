@@ -1,8 +1,8 @@
 {
   "date": "2026-01-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-19T12:02:01.476Z",
-  "outageCount": 3,
+  "generated": "2026-01-19T13:15:40.561Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le jeudi 22 janvier 2026 de  08:30:00 à  16:30:00",
@@ -33,6 +33,16 @@
       "from": "2026-01-22T04:30:00.000Z",
       "to": "2026-01-22T12:00:00.000Z",
       "id": "103bc62a0cf53c65d800f000252510eb"
+    },
+    {
+      "date": "Le jeudi 22 janvier 2026 de  09:00:00 à  15:30:00",
+      "locality": "TERRACINE",
+      "localitySlug": "terracine",
+      "streets": "Morcellement Champ Fleuri, Morcellement Lady Barkly Souillac, Morcellement Terracine et NHDC Terracine",
+      "district": "savanne",
+      "from": "2026-01-22T05:00:00.000Z",
+      "to": "2026-01-22T11:30:00.000Z",
+      "id": "f8f8fabbadf0e2db10c2a7ca357cc8d0"
     }
   ]
 }

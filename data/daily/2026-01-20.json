@@ -1,9 +1,19 @@
 {
   "date": "2026-01-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-19T12:02:01.476Z",
-  "outageCount": 1,
+  "generated": "2026-01-19T13:15:40.561Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le mardi 20 janvier 2026 de  08:30:00 à  15:30:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "Henrietta / la MarieMorcellement Manguier Royale",
+      "district": "plainewilhems",
+      "from": "2026-01-20T04:30:00.000Z",
+      "to": "2026-01-20T11:30:00.000Z",
+      "id": "3d57bc1393d1bbb1d2a83bc1c19256e3"
+    },
     {
       "date": "Le mardi 20 janvier 2026 de  09:00:00 à  15:30:00",
       "locality": "SAINT AUBIN",

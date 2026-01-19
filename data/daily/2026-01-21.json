@@ -1,8 +1,8 @@
 {
   "date": "2026-01-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-19T12:02:01.476Z",
-  "outageCount": 2,
+  "generated": "2026-01-19T13:15:40.561Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le mercredi 21 janvier 2026 de  08:30:00 à  16:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-01-21T04:30:00.000Z",
       "to": "2026-01-21T12:30:00.000Z",
       "id": "5e2db605b5f81dd54f7517e678fee882"
+    },
+    {
+      "date": "Le mercredi 21 janvier 2026 de  09:00:00 à  15:30:00",
+      "locality": "BEAU CHAMP SOUTH",
+      "localitySlug": "beau-champ-south",
+      "streets": "Beau Champ Bel Ombre et Morcellement Belle Riviere",
+      "district": "flacq",
+      "from": "2026-01-21T05:00:00.000Z",
+      "to": "2026-01-21T11:30:00.000Z",
+      "id": "69e92ec65501c653509540fe3b090eeb"
     },
     {
       "date": "Le mercredi 21 janvier 2026 de  15:00:00 à  17:00:00",
