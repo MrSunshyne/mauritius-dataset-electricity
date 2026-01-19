@@ -1,8 +1,8 @@
 {
   "date": "2026-01-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-19T13:15:40.561Z",
-  "outageCount": 8,
+  "generated": "2026-01-19T14:04:44.209Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le lundi 19 janvier 2026 de  14:00:00 à  17:00:00",
@@ -73,6 +73,16 @@
       "from": "2026-01-19T11:40:00.000Z",
       "to": "2026-01-19T12:30:00.000Z",
       "id": "9406cd2a97fa372c05faba41ffc191c8"
+    },
+    {
+      "date": "Le lundi 19 janvier 2026 de  17:40:00 à  18:45:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "POLICE STATION AND NEARBY REGION",
+      "district": "portlouis",
+      "from": "2026-01-19T13:40:00.000Z",
+      "to": "2026-01-19T14:45:00.000Z",
+      "id": "a2abc06df39935c1ffe56c297253db33"
     },
     {
       "date": "Le lundi 19 janvier 2026 de  09:00:00 à  15:30:00",
