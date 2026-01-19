@@ -1,9 +1,19 @@
 {
   "date": "2026-01-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-19T11:02:23.536Z",
-  "outageCount": 6,
+  "generated": "2026-01-19T12:02:01.476Z",
+  "outageCount": 8,
   "outages": [
+    {
+      "date": "Le lundi 19 janvier 2026 de  14:00:00 à  17:00:00",
+      "locality": "WOLMAR",
+      "localitySlug": "wolmar",
+      "streets": "WOLMAR FLIC EN FLAC",
+      "district": "blackriver",
+      "from": "2026-01-19T10:00:00.000Z",
+      "to": "2026-01-19T13:00:00.000Z",
+      "id": "8c20323b19b5d58801a1ea50b2152982"
+    },
     {
       "date": "Le lundi 19 janvier 2026 de  10:00:00 à  12:00:00",
       "locality": "MEDINE CAMP DE MASQUE",
@@ -53,6 +63,16 @@
       "from": "2026-01-19T10:20:00.000Z",
       "to": "2026-01-19T11:30:00.000Z",
       "id": "b95ad428d2957f48d81a85a69709ac69"
+    },
+    {
+      "date": "Le lundi 19 janvier 2026 de  15:40:00 à  16:30:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "LENNARDS ST, MARTINGALE ST,BRUNETTE R/RD,VUILLEMIN",
+      "district": "plainewilhems",
+      "from": "2026-01-19T11:40:00.000Z",
+      "to": "2026-01-19T12:30:00.000Z",
+      "id": "9406cd2a97fa372c05faba41ffc191c8"
     },
     {
       "date": "Le lundi 19 janvier 2026 de  09:00:00 à  15:30:00",

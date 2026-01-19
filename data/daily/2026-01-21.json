@@ -1,8 +1,8 @@
 {
   "date": "2026-01-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-19T11:02:23.537Z",
-  "outageCount": 1,
+  "generated": "2026-01-19T12:02:01.476Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le mercredi 21 janvier 2026 de  08:30:00 à  16:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-01-21T04:30:00.000Z",
       "to": "2026-01-21T12:30:00.000Z",
       "id": "5e2db605b5f81dd54f7517e678fee882"
+    },
+    {
+      "date": "Le mercredi 21 janvier 2026 de  15:00:00 à  17:00:00",
+      "locality": "MONTAGNE BLANCHE",
+      "localitySlug": "montagne-blanche",
+      "streets": "NHDC Montagne Blanche et Morcellement Sans Souci",
+      "district": "moka",
+      "from": "2026-01-21T11:00:00.000Z",
+      "to": "2026-01-21T13:00:00.000Z",
+      "id": "5f7da650cf6fadb2042dc189cd31d30a"
     }
   ]
 }

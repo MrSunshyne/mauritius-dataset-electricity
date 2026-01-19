@@ -2,11 +2,18 @@
   "slug": "montagne-blanche",
   "name": "MONTAGNE BLANCHE",
   "district": "moka",
-  "generated": "2026-01-19T11:02:23.762Z",
-  "outageCount": 41,
+  "generated": "2026-01-19T12:02:01.702Z",
+  "outageCount": 42,
   "firstOutage": "2022-03-23",
-  "lastOutage": "2025-09-17",
+  "lastOutage": "2026-01-21",
   "outages": [
+    {
+      "date": "Le mercredi 21 janvier 2026 de  15:00:00 à  17:00:00",
+      "streets": "NHDC Montagne Blanche et Morcellement Sans Souci",
+      "from": "2026-01-21T11:00:00.000Z",
+      "to": "2026-01-21T13:00:00.000Z",
+      "id": "5f7da650cf6fadb2042dc189cd31d30a"
+    },
     {
       "date": "Le mercredi 17 septembre 2025 de  20:30:00 à  00:30:00",
       "streets": "TANCREL ROAD MONTAGNE BLANCHE",

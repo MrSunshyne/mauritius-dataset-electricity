@@ -2,11 +2,18 @@
   "slug": "wolmar",
   "name": "WOLMAR",
   "district": "blackriver",
-  "generated": "2026-01-19T11:02:23.908Z",
-  "outageCount": 8,
+  "generated": "2026-01-19T12:02:01.849Z",
+  "outageCount": 9,
   "firstOutage": "2023-10-11",
-  "lastOutage": "2026-01-13",
+  "lastOutage": "2026-01-19",
   "outages": [
+    {
+      "date": "Le lundi 19 janvier 2026 de  14:00:00 à  17:00:00",
+      "streets": "WOLMAR FLIC EN FLAC",
+      "from": "2026-01-19T10:00:00.000Z",
+      "to": "2026-01-19T13:00:00.000Z",
+      "id": "8c20323b19b5d58801a1ea50b2152982"
+    },
     {
       "date": "Le mardi 13 janvier 2026 de  08:30:00 à  16:30:00",
       "streets": "ROUTE COTIERE WOLMAR, PEARL BEACH HOTEL, AVE CARRIERE, AVE DES MANGUIERS, CAP OUEST, PIVOT BASSIN FLEUR, EMTEL CLARENCE ET CHASSEE DE WOLMAR",

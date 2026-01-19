@@ -2,11 +2,18 @@
   "slug": "beau-bassin",
   "name": "BEAU BASSIN",
   "district": "plainewilhems",
-  "generated": "2026-01-19T11:02:23.572Z",
-  "outageCount": 154,
+  "generated": "2026-01-19T12:02:01.511Z",
+  "outageCount": 155,
   "firstOutage": "2022-03-25",
   "lastOutage": "2026-01-19",
   "outages": [
+    {
+      "date": "Le lundi 19 janvier 2026 de  15:40:00 à  16:30:00",
+      "streets": "LENNARDS ST, MARTINGALE ST,BRUNETTE R/RD,VUILLEMIN",
+      "from": "2026-01-19T11:40:00.000Z",
+      "to": "2026-01-19T12:30:00.000Z",
+      "id": "9406cd2a97fa372c05faba41ffc191c8"
+    },
     {
       "date": "Le lundi 19 janvier 2026 de  14:20:00 à  15:30:00",
       "streets": "REID ST, RENNARDS, R/RD,VUILLEMIN",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-19T11:02:23.911Z",
+  "generated": "2026-01-19T12:02:01.852Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -286,7 +286,7 @@
       "slug": "beau-bassin",
       "name": "BEAU BASSIN",
       "district": "plainewilhems",
-      "outageCount": 154,
+      "outageCount": 155,
       "file": "beau-bassin.json",
       "firstOutage": "2022-03-25",
       "lastOutage": "2026-01-19"
@@ -2500,10 +2500,10 @@
       "slug": "montagne-blanche",
       "name": "MONTAGNE BLANCHE",
       "district": "moka",
-      "outageCount": 41,
+      "outageCount": 42,
       "file": "montagne-blanche.json",
       "firstOutage": "2022-03-23",
-      "lastOutage": "2025-09-17"
+      "lastOutage": "2026-01-21"
     },
     {
       "slug": "montagne-cabris-est",
@@ -4102,10 +4102,10 @@
       "slug": "wolmar",
       "name": "WOLMAR",
       "district": "blackriver",
-      "outageCount": 8,
+      "outageCount": 9,
       "file": "wolmar.json",
       "firstOutage": "2023-10-11",
-      "lastOutage": "2026-01-13"
+      "lastOutage": "2026-01-19"
     },
     {
       "slug": "wootun",
