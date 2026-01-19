@@ -1,8 +1,8 @@
 {
   "date": "2026-01-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-19T10:02:53.379Z",
-  "outageCount": 5,
+  "generated": "2026-01-19T11:02:23.536Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le lundi 19 janvier 2026 de  10:00:00 à  12:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-01-19T06:00:00.000Z",
       "to": "2026-01-19T06:45:00.000Z",
       "id": "ac68d9b0a9d058e37ebe126762b3dad0"
+    },
+    {
+      "date": "Le lundi 19 janvier 2026 de  14:20:00 à  15:30:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "REID ST, RENNARDS, R/RD,VUILLEMIN",
+      "district": "plainewilhems",
+      "from": "2026-01-19T10:20:00.000Z",
+      "to": "2026-01-19T11:30:00.000Z",
+      "id": "b95ad428d2957f48d81a85a69709ac69"
     },
     {
       "date": "Le lundi 19 janvier 2026 de  09:00:00 à  15:30:00",

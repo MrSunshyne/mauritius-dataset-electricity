@@ -2,11 +2,18 @@
   "slug": "beau-bassin",
   "name": "BEAU BASSIN",
   "district": "plainewilhems",
-  "generated": "2026-01-19T10:02:53.412Z",
-  "outageCount": 153,
+  "generated": "2026-01-19T11:02:23.572Z",
+  "outageCount": 154,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-01-04",
+  "lastOutage": "2026-01-19",
   "outages": [
+    {
+      "date": "Le lundi 19 janvier 2026 de  14:20:00 à  15:30:00",
+      "streets": "REID ST, RENNARDS, R/RD,VUILLEMIN",
+      "from": "2026-01-19T10:20:00.000Z",
+      "to": "2026-01-19T11:30:00.000Z",
+      "id": "b95ad428d2957f48d81a85a69709ac69"
+    },
     {
       "date": "Le dimanche 4 janvier 2026 de  13:45:00 à  18:00:00",
       "streets": "GUY ROSEMON ST, BERTHAUD ST, DR MANILALL ST, DR JEETOO ST, CRETIN ST, STANLEY, BOUNDARY RD ET LES ALENTOURS",
