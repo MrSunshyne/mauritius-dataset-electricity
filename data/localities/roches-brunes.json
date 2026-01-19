@@ -2,11 +2,18 @@
   "slug": "roches-brunes",
   "name": "ROCHES BRUNES",
   "district": "plainewilhems",
-  "generated": "2026-01-19T06:03:30.057Z",
-  "outageCount": 22,
+  "generated": "2026-01-19T07:06:47.805Z",
+  "outageCount": 23,
   "firstOutage": "2022-10-01",
-  "lastOutage": "2026-01-16",
+  "lastOutage": "2026-01-19",
   "outages": [
+    {
+      "date": "Le lundi 19 janvier 2026 de  10:00:00 à  10:45:00",
+      "streets": "CAMP LEVIEUX,ROCHES BRUNES,MERE TERESA PLAISANCE",
+      "from": "2026-01-19T06:00:00.000Z",
+      "to": "2026-01-19T06:45:00.000Z",
+      "id": "ac68d9b0a9d058e37ebe126762b3dad0"
+    },
     {
       "date": "Le vendredi 16 janvier 2026 de  14:00:00 à  17:00:00",
       "streets": "Allee Mangue, Ave Jasmin, Ave Pere Arekium, Ave Maurice Raffray, en partie Rene Maingard et les environs",

@@ -1,8 +1,8 @@
 {
   "date": "2026-01-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-19T06:03:29.750Z",
-  "outageCount": 3,
+  "generated": "2026-01-19T07:06:47.493Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le lundi 19 janvier 2026 de  10:00:00 à  12:00:00",
@@ -16,6 +16,16 @@
     },
     {
       "date": "Le lundi 19 janvier 2026 de  10:00:00 à  12:00:00",
+      "locality": "UNION PARK",
+      "localitySlug": "union-park",
+      "streets": "CHEMIN LACHEMINEE UNION PARK",
+      "district": "grandport",
+      "from": "2026-01-19T06:00:00.000Z",
+      "to": "2026-01-19T08:00:00.000Z",
+      "id": "efca38c18ab95f3fe7dbd6209b04388d"
+    },
+    {
+      "date": "Le lundi 19 janvier 2026 de  10:00:00 à  12:00:00",
       "locality": "REDUIT",
       "localitySlug": "reduit",
       "streets": "REDUIT",
@@ -23,6 +33,16 @@
       "from": "2026-01-19T06:00:00.000Z",
       "to": "2026-01-19T08:00:00.000Z",
       "id": "37b6ec3e6fec92c05b8e86cdd37d01d9"
+    },
+    {
+      "date": "Le lundi 19 janvier 2026 de  10:00:00 à  10:45:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "CAMP LEVIEUX,ROCHES BRUNES,MERE TERESA PLAISANCE",
+      "district": "plainewilhems",
+      "from": "2026-01-19T06:00:00.000Z",
+      "to": "2026-01-19T06:45:00.000Z",
+      "id": "ac68d9b0a9d058e37ebe126762b3dad0"
     },
     {
       "date": "Le lundi 19 janvier 2026 de  09:00:00 à  15:30:00",

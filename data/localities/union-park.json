@@ -2,11 +2,18 @@
   "slug": "union-park",
   "name": "UNION PARK",
   "district": "grandport",
-  "generated": "2026-01-19T06:03:30.103Z",
-  "outageCount": 27,
+  "generated": "2026-01-19T07:06:47.852Z",
+  "outageCount": 28,
   "firstOutage": "2022-03-28",
-  "lastOutage": "2026-01-14",
+  "lastOutage": "2026-01-19",
   "outages": [
+    {
+      "date": "Le lundi 19 janvier 2026 de  10:00:00 à  12:00:00",
+      "streets": "CHEMIN LACHEMINEE UNION PARK",
+      "from": "2026-01-19T06:00:00.000Z",
+      "to": "2026-01-19T08:00:00.000Z",
+      "id": "efca38c18ab95f3fe7dbd6209b04388d"
+    },
     {
       "date": "Le mercredi 14 janvier 2026 de  16:00:00 à  22:00:00",
       "streets": "BAITKA ROAD UNION PARK",

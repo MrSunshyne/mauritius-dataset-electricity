@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-19T06:03:30.119Z",
+  "generated": "2026-01-19T07:06:47.867Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -430,10 +430,10 @@
       "slug": "belle-rive",
       "name": "BELLE RIVE ( KEWAL NAGAR )",
       "district": "flacq",
-      "outageCount": 5,
+      "outageCount": 6,
       "file": "belle-rive.json",
       "firstOutage": "2023-05-18",
-      "lastOutage": "2024-10-11"
+      "lastOutage": "2026-01-22"
     },
     {
       "slug": "belle-rive-curepipe",
@@ -3472,10 +3472,10 @@
       "slug": "roches-brunes",
       "name": "ROCHES BRUNES",
       "district": "plainewilhems",
-      "outageCount": 22,
+      "outageCount": 23,
       "file": "roches-brunes.json",
       "firstOutage": "2022-10-01",
-      "lastOutage": "2026-01-16"
+      "lastOutage": "2026-01-19"
     },
     {
       "slug": "roches-noires",
@@ -3778,10 +3778,10 @@
       "slug": "tamarin",
       "name": "TAMARIN",
       "district": "blackriver",
-      "outageCount": 64,
+      "outageCount": 65,
       "file": "tamarin.json",
       "firstOutage": "2022-03-13",
-      "lastOutage": "2026-01-16"
+      "lastOutage": "2026-01-22"
     },
     {
       "slug": "tamarind-falls",
@@ -3958,10 +3958,10 @@
       "slug": "union-park",
       "name": "UNION PARK",
       "district": "grandport",
-      "outageCount": 27,
+      "outageCount": 28,
       "file": "union-park.json",
       "firstOutage": "2022-03-28",
-      "lastOutage": "2026-01-14"
+      "lastOutage": "2026-01-19"
     },
     {
       "slug": "union-vale",

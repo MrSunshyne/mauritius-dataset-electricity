@@ -2,11 +2,18 @@
   "slug": "tamarin",
   "name": "TAMARIN",
   "district": "blackriver",
-  "generated": "2026-01-19T06:03:30.086Z",
-  "outageCount": 64,
+  "generated": "2026-01-19T07:06:47.834Z",
+  "outageCount": 65,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-01-16",
+  "lastOutage": "2026-01-22",
   "outages": [
+    {
+      "date": "Le jeudi 22 janvier 2026 de  08:30:00 à  16:30:00",
+      "streets": "TAMARIN",
+      "from": "2026-01-22T04:30:00.000Z",
+      "to": "2026-01-22T12:30:00.000Z",
+      "id": "615bd7bd90b3adc322a048986d44a722"
+    },
     {
       "date": "Le vendredi 16 janvier 2026 de  08:30:00 à  16:30:00",
       "streets": "TAMARIN",
