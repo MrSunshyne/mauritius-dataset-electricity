@@ -1,9 +1,29 @@
 {
   "date": "2026-01-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-18T18:01:39.595Z",
-  "outageCount": 1,
+  "generated": "2026-01-19T06:03:29.750Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le lundi 19 janvier 2026 de  10:00:00 à  12:00:00",
+      "locality": "MEDINE CAMP DE MASQUE",
+      "localitySlug": "medine-camp-de-masque",
+      "streets": "ROYAL ROAD CAMP DE MASQUES",
+      "district": "flacq",
+      "from": "2026-01-19T06:00:00.000Z",
+      "to": "2026-01-19T08:00:00.000Z",
+      "id": "4b0b971742d03d772bc5521009c623cf"
+    },
+    {
+      "date": "Le lundi 19 janvier 2026 de  10:00:00 à  12:00:00",
+      "locality": "REDUIT",
+      "localitySlug": "reduit",
+      "streets": "REDUIT",
+      "district": "moka",
+      "from": "2026-01-19T06:00:00.000Z",
+      "to": "2026-01-19T08:00:00.000Z",
+      "id": "37b6ec3e6fec92c05b8e86cdd37d01d9"
+    },
     {
       "date": "Le lundi 19 janvier 2026 de  09:00:00 à  15:30:00",
       "locality": "CHAMOUNY",

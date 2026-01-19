@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-18T18:01:39.949Z",
+  "generated": "2026-01-19T06:03:30.119Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -1492,7 +1492,7 @@
       "slug": "floreal",
       "name": "FLOREAL",
       "district": "plainewilhems",
-      "outageCount": 77,
+      "outageCount": 78,
       "file": "floreal.json",
       "firstOutage": "2022-03-31",
       "lastOutage": "2026-02-08"
@@ -2311,10 +2311,10 @@
       "slug": "medine-camp-de-masque",
       "name": "MEDINE CAMP DE MASQUE",
       "district": "flacq",
-      "outageCount": 13,
+      "outageCount": 14,
       "file": "medine-camp-de-masque.json",
       "firstOutage": "2022-12-11",
-      "lastOutage": "2025-08-19"
+      "lastOutage": "2026-01-19"
     },
     {
       "slug": "melrose",
@@ -3256,10 +3256,10 @@
       "slug": "reduit",
       "name": "REDUIT",
       "district": "moka",
-      "outageCount": 11,
+      "outageCount": 12,
       "file": "reduit.json",
       "firstOutage": "2022-05-08",
-      "lastOutage": "2025-01-22"
+      "lastOutage": "2026-01-19"
     },
     {
       "slug": "residence-kennedy",

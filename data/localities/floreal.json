@@ -2,8 +2,8 @@
   "slug": "floreal",
   "name": "FLOREAL",
   "district": "plainewilhems",
-  "generated": "2026-01-18T18:01:39.732Z",
-  "outageCount": 77,
+  "generated": "2026-01-19T06:03:29.886Z",
+  "outageCount": 78,
   "firstOutage": "2022-03-31",
   "lastOutage": "2026-02-08",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-02-08T04:30:00.000Z",
       "to": "2026-02-08T13:00:00.000Z",
       "id": "cdd90308bfd336d5cd9c973025423748"
+    },
+    {
+      "date": "Le samedi 24 janvier 2026 de  08:30:00 à  17:00:00",
+      "streets": "Angus Road, Lucien de Chazal Avenue, Riverwalk, Grannum Road, Dodo Lane, une partie de Suroop Lane, une partie de Beesoon Lane, Bryant Lane, Impasse Kasenally",
+      "from": "2026-01-24T04:30:00.000Z",
+      "to": "2026-01-24T13:00:00.000Z",
+      "id": "e6098b022b40b97b5db55c37a895390e"
     },
     {
       "date": "Le jeudi 8 janvier 2026 de  10:30:00 à  11:15:00",

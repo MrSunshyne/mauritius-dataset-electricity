@@ -2,11 +2,18 @@
   "slug": "reduit",
   "name": "REDUIT",
   "district": "moka",
-  "generated": "2026-01-18T18:01:39.875Z",
-  "outageCount": 11,
+  "generated": "2026-01-19T06:03:30.039Z",
+  "outageCount": 12,
   "firstOutage": "2022-05-08",
-  "lastOutage": "2025-01-22",
+  "lastOutage": "2026-01-19",
   "outages": [
+    {
+      "date": "Le lundi 19 janvier 2026 de  10:00:00 à  12:00:00",
+      "streets": "REDUIT",
+      "from": "2026-01-19T06:00:00.000Z",
+      "to": "2026-01-19T08:00:00.000Z",
+      "id": "37b6ec3e6fec92c05b8e86cdd37d01d9"
+    },
     {
       "date": "Le mercredi 22 janvier 2025 de  14:30:00 à  16:30:00",
       "streets": "CLINIQUE MAURICIENNE ET LES ENVIRONS",
