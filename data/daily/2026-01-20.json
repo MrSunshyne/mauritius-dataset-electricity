@@ -1,8 +1,8 @@
 {
   "date": "2026-01-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-19T18:02:00.935Z",
-  "outageCount": 2,
+  "generated": "2026-01-20T06:02:24.188Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le mardi 20 janvier 2026 de  08:30:00 à  15:30:00",
@@ -13,6 +13,26 @@
       "from": "2026-01-20T04:30:00.000Z",
       "to": "2026-01-20T11:30:00.000Z",
       "id": "3d57bc1393d1bbb1d2a83bc1c19256e3"
+    },
+    {
+      "date": "Le mardi 20 janvier 2026 de  09:00:00 à  15:00:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "Dans les environs de Morc Pousson",
+      "district": "plainewilhems",
+      "from": "2026-01-20T05:00:00.000Z",
+      "to": "2026-01-20T11:00:00.000Z",
+      "id": "da5cafa38f1d81f46e10b6250c754ebb"
+    },
+    {
+      "date": "Le mardi 20 janvier 2026 de  09:45:00 à  12:30:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "SCHOENFIELD ROAD NR GOVT SCHOOL",
+      "district": "rivieredurempart",
+      "from": "2026-01-20T05:45:00.000Z",
+      "to": "2026-01-20T08:30:00.000Z",
+      "id": "5b80b50757f919f6604840f96d2b53fa"
     },
     {
       "date": "Le mardi 20 janvier 2026 de  09:00:00 à  15:30:00",

@@ -1,8 +1,8 @@
 {
   "date": "2026-01-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-19T18:02:00.935Z",
-  "outageCount": 4,
+  "generated": "2026-01-20T06:02:24.188Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le jeudi 22 janvier 2026 de  08:30:00 à  16:30:00",
@@ -33,6 +33,26 @@
       "from": "2026-01-22T04:30:00.000Z",
       "to": "2026-01-22T12:00:00.000Z",
       "id": "103bc62a0cf53c65d800f000252510eb"
+    },
+    {
+      "date": "Le jeudi 22 janvier 2026 de  08:30:00 à  17:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Espace La Concorde, Rue de la Concorde, Ave Piranhas, NSLD Camp Levieux et les environs",
+      "district": "plainewilhems",
+      "from": "2026-01-22T04:30:00.000Z",
+      "to": "2026-01-22T13:00:00.000Z",
+      "id": "22f62096eaa740ff3cd708cabf3074ee"
+    },
+    {
+      "date": "Le jeudi 22 janvier 2026 de  08:30:00 à  15:00:00",
+      "locality": "16EME MILE",
+      "localitySlug": "16eme-mile",
+      "streets": "dans les périmètres et rues suivantes : Morc Soobany, Coriolis et Rampersad lane",
+      "district": "plainewilhems",
+      "from": "2026-01-22T04:30:00.000Z",
+      "to": "2026-01-22T11:00:00.000Z",
+      "id": "d7e9b998948521dba7ddc1f48392a375"
     },
     {
       "date": "Le jeudi 22 janvier 2026 de  09:00:00 à  15:30:00",

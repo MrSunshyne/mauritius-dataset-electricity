@@ -2,11 +2,18 @@
   "slug": "mon-gout",
   "name": "MON GOUT",
   "district": "pamplemousses",
-  "generated": "2026-01-19T18:02:01.156Z",
-  "outageCount": 12,
+  "generated": "2026-01-20T06:02:24.404Z",
+  "outageCount": 13,
   "firstOutage": "2022-06-08",
-  "lastOutage": "2025-12-22",
+  "lastOutage": "2026-01-21",
   "outages": [
+    {
+      "date": "Le mercredi 21 janvier 2026 de  09:30:00 à  14:30:00",
+      "streets": "MON GOUT",
+      "from": "2026-01-21T05:30:00.000Z",
+      "to": "2026-01-21T10:30:00.000Z",
+      "id": "ef929d0afd8b479fcbbfc5c71ce8ccfc"
+    },
     {
       "date": "Le lundi 22 décembre 2025 de  16:20:00 à  18:00:00",
       "streets": "EN PARTIE ROYAL RD, MOSQUE RD, RIVERSIDE LANE ET LES ALENTOURS",

@@ -2,11 +2,18 @@
   "slug": "riviere-du-rempart",
   "name": "RIVIERE DU REMPART",
   "district": "rivieredurempart",
-  "generated": "2026-01-19T18:02:01.244Z",
-  "outageCount": 42,
+  "generated": "2026-01-20T06:02:24.493Z",
+  "outageCount": 43,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-01-01",
+  "lastOutage": "2026-01-20",
   "outages": [
+    {
+      "date": "Le mardi 20 janvier 2026 de  09:45:00 à  12:30:00",
+      "streets": "SCHOENFIELD ROAD NR GOVT SCHOOL",
+      "from": "2026-01-20T05:45:00.000Z",
+      "to": "2026-01-20T08:30:00.000Z",
+      "id": "5b80b50757f919f6604840f96d2b53fa"
+    },
     {
       "date": "Le jeudi 1 janvier 2026 de  09:40:00 à  10:30:00",
       "streets": "PART OF RIVIERE DU REMPART",

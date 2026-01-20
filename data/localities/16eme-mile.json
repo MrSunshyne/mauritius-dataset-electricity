@@ -2,11 +2,18 @@
   "slug": "16eme-mile",
   "name": "16EME MILE",
   "district": "plainewilhems",
-  "generated": "2026-01-19T18:02:00.946Z",
-  "outageCount": 48,
+  "generated": "2026-01-20T06:02:24.198Z",
+  "outageCount": 49,
   "firstOutage": "2022-05-31",
-  "lastOutage": "2025-12-29",
+  "lastOutage": "2026-01-22",
   "outages": [
+    {
+      "date": "Le jeudi 22 janvier 2026 de  08:30:00 à  15:00:00",
+      "streets": "dans les périmètres et rues suivantes : Morc Soobany, Coriolis et Rampersad lane",
+      "from": "2026-01-22T04:30:00.000Z",
+      "to": "2026-01-22T11:00:00.000Z",
+      "id": "d7e9b998948521dba7ddc1f48392a375"
+    },
     {
       "date": "Le lundi 29 décembre 2025 de  22:00:00 à  01:00:00",
       "streets": "MORC DOMAH 16EME MILLE FOREST SIDE",
