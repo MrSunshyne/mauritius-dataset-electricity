@@ -2,11 +2,18 @@
   "slug": "plaine-des-papayes",
   "name": "PLAINE DES PAPAYES",
   "district": "pamplemousses",
-  "generated": "2026-01-20T07:05:48.096Z",
-  "outageCount": 34,
+  "generated": "2026-01-20T08:01:52.971Z",
+  "outageCount": 35,
   "firstOutage": "2022-05-22",
-  "lastOutage": "2026-01-10",
+  "lastOutage": "2026-01-20",
   "outages": [
+    {
+      "date": "Le mardi 20 janvier 2026 de  09:00:00 à  13:00:00",
+      "streets": "NEAR COSMOSPOLITAINE COLLEGE",
+      "from": "2026-01-20T05:00:00.000Z",
+      "to": "2026-01-20T09:00:00.000Z",
+      "id": "55386b17cd1aa6b2a871dd81517226c1"
+    },
     {
       "date": "Le samedi 10 janvier 2026 de  08:30:00 à  15:30:00",
       "streets": "DANS LES ENVIRONS DE MORC RAMPHUL A PL DES PAPAYES",

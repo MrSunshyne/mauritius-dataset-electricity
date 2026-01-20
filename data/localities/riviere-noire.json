@@ -2,11 +2,18 @@
   "slug": "riviere-noire",
   "name": "RIVIERE NOIRE",
   "district": "blackriver",
-  "generated": "2026-01-20T07:05:48.139Z",
-  "outageCount": 40,
+  "generated": "2026-01-20T08:01:53.015Z",
+  "outageCount": 41,
   "firstOutage": "2022-06-03",
-  "lastOutage": "2025-12-21",
+  "lastOutage": "2026-01-20",
   "outages": [
+    {
+      "date": "Le mardi 20 janvier 2026 de  11:00:00 à  12:30:00",
+      "streets": "RIVIERE NOIRE",
+      "from": "2026-01-20T07:00:00.000Z",
+      "to": "2026-01-20T08:30:00.000Z",
+      "id": "62a64c253efe2d092d5f47fc1bd50805"
+    },
     {
       "date": "Le dimanche 21 décembre 2025 de  17:45:00 à  18:30:00",
       "streets": "SALINE PILOT",
