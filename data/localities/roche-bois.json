@@ -2,11 +2,18 @@
   "slug": "roche-bois",
   "name": "ROCHE BOIS",
   "district": "portlouis",
-  "generated": "2026-01-20T11:02:53.178Z",
-  "outageCount": 36,
+  "generated": "2026-01-20T12:02:02.552Z",
+  "outageCount": 37,
   "firstOutage": "2022-04-30",
-  "lastOutage": "2025-12-11",
+  "lastOutage": "2026-01-20",
   "outages": [
+    {
+      "date": "Le mardi 20 janvier 2026 de  15:00:00 à  18:00:00",
+      "streets": "STE FAMILLE, BATTERIE CASSEE AND SURROUNDINGS",
+      "from": "2026-01-20T11:00:00.000Z",
+      "to": "2026-01-20T14:00:00.000Z",
+      "id": "3b7c2bb64c3762611b60341b25bc5f08"
+    },
     {
       "date": "Le jeudi 11 décembre 2025 de  21:00:00 à  02:00:00",
       "streets": "CITEE R.BOIS",
