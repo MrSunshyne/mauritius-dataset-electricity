@@ -2,11 +2,18 @@
   "slug": "le-morne",
   "name": "LE MORNE",
   "district": "blackriver",
-  "generated": "2026-01-20T09:05:57.886Z",
-  "outageCount": 11,
+  "generated": "2026-01-20T10:02:34.260Z",
+  "outageCount": 12,
   "firstOutage": "2022-05-25",
-  "lastOutage": "2025-12-13",
+  "lastOutage": "2026-01-20",
   "outages": [
+    {
+      "date": "Le mardi 20 janvier 2026 de  13:00:00 à  14:30:00",
+      "streets": "DILO POURRI ET LES ALENTOURS",
+      "from": "2026-01-20T09:00:00.000Z",
+      "to": "2026-01-20T10:30:00.000Z",
+      "id": "7d70aa747394c49cd8c0d377adae6346"
+    },
     {
       "date": "Le samedi 13 décembre 2025 de  13:30:00 à  18:00:00",
       "streets": "MORC CAMBIER",

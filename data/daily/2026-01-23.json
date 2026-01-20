@@ -1,8 +1,8 @@
 {
   "date": "2026-01-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-20T09:05:57.698Z",
-  "outageCount": 1,
+  "generated": "2026-01-20T10:02:34.068Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le vendredi 23 janvier 2026 de  09:00:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-01-23T05:00:00.000Z",
       "to": "2026-01-23T11:00:00.000Z",
       "id": "64fe1c6976a857d4fa1caa9dc6a3e985"
+    },
+    {
+      "date": "Le vendredi 23 janvier 2026 de  09:00:00 à  15:30:00",
+      "locality": "TERRACINE",
+      "localitySlug": "terracine",
+      "streets": "Trois Bras Surinam et Terracine",
+      "district": "savanne",
+      "from": "2026-01-23T05:00:00.000Z",
+      "to": "2026-01-23T11:30:00.000Z",
+      "id": "73ab4a0c071a5b6d704d71fb039db8e7"
     }
   ]
 }

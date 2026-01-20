@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-20T09:05:58.054Z",
+  "generated": "2026-01-20T10:02:34.431Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -2104,10 +2104,10 @@
       "slug": "le-morne",
       "name": "LE MORNE",
       "district": "blackriver",
-      "outageCount": 11,
+      "outageCount": 12,
       "file": "le-morne.json",
       "firstOutage": "2022-05-25",
-      "lastOutage": "2025-12-13"
+      "lastOutage": "2026-01-20"
     },
     {
       "slug": "les-casernrs-curepipe",
@@ -3805,19 +3805,19 @@
       "slug": "telfair-moka",
       "name": "TELFAIR- MOKA",
       "district": "moka",
-      "outageCount": 3,
+      "outageCount": 4,
       "file": "telfair-moka.json",
       "firstOutage": "2023-05-15",
-      "lastOutage": "2024-11-17"
+      "lastOutage": "2026-01-20"
     },
     {
       "slug": "terracine",
       "name": "TERRACINE",
       "district": "savanne",
-      "outageCount": 2,
+      "outageCount": 3,
       "file": "terracine.json",
       "firstOutage": "2025-01-17",
-      "lastOutage": "2026-01-22"
+      "lastOutage": "2026-01-23"
     },
     {
       "slug": "terrasson",

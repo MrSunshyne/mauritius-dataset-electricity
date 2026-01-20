@@ -2,11 +2,18 @@
   "slug": "telfair-moka",
   "name": "TELFAIR- MOKA",
   "district": "moka",
-  "generated": "2026-01-20T09:05:58.025Z",
-  "outageCount": 3,
+  "generated": "2026-01-20T10:02:34.401Z",
+  "outageCount": 4,
   "firstOutage": "2023-05-15",
-  "lastOutage": "2024-11-17",
+  "lastOutage": "2026-01-20",
   "outages": [
+    {
+      "date": "Le mardi 20 janvier 2026 de  13:30:00 à  16:00:00",
+      "streets": "TELFAIR MOKA",
+      "from": "2026-01-20T09:30:00.000Z",
+      "to": "2026-01-20T12:00:00.000Z",
+      "id": "272eb57a3e74645ad71f4b830ea97cf1"
+    },
     {
       "date": "Le dimanche 17 novembre 2024 de  07:00:00 à  15:30:00",
       "streets": "Telfair, Railway, Morc Gentilly, Morc Espral, en partie Helvetia",
