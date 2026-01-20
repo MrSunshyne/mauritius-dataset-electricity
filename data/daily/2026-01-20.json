@@ -1,9 +1,29 @@
 {
   "date": "2026-01-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-20T06:02:24.188Z",
-  "outageCount": 4,
+  "generated": "2026-01-20T07:05:47.833Z",
+  "outageCount": 8,
   "outages": [
+    {
+      "date": "Le mardi 20 janvier 2026 de  10:00:00 à  13:30:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "RUE TOURTERELLE,PAILL EN QUEUE ROULLARD",
+      "district": "pamplemousses",
+      "from": "2026-01-20T06:00:00.000Z",
+      "to": "2026-01-20T09:30:00.000Z",
+      "id": "f9a8eca564ce01d1128c9a6a96c46a13"
+    },
+    {
+      "date": "Le mardi 20 janvier 2026 de  09:45:00 à  14:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "BON AIR ROAD TRIOLET",
+      "district": "pamplemousses",
+      "from": "2026-01-20T05:45:00.000Z",
+      "to": "2026-01-20T10:00:00.000Z",
+      "id": "a9a921b7c92470616fcfe2698c761578"
+    },
     {
       "date": "Le mardi 20 janvier 2026 de  08:30:00 à  15:30:00",
       "locality": "HENRIETTA",
@@ -25,6 +45,16 @@
       "id": "da5cafa38f1d81f46e10b6250c754ebb"
     },
     {
+      "date": "Le mardi 20 janvier 2026 de  15:00:00 à  17:30:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "SOS Village, Flat Selucia, Vuillemin, Dr Lesur, Khodabacus Ave, Phillipe Raoul Ave, Maudave Ave, Residence Vuillemin, NHDC Vuillemin, Dr Reid, Mahadeo Biltoo, Duperre, Chasteuneuf et les environs",
+      "district": "plainewilhems",
+      "from": "2026-01-20T11:00:00.000Z",
+      "to": "2026-01-20T13:30:00.000Z",
+      "id": "31e852a23204eaa1ed0b9e4118cfff60"
+    },
+    {
       "date": "Le mardi 20 janvier 2026 de  09:45:00 à  12:30:00",
       "locality": "RIVIERE DU REMPART",
       "localitySlug": "riviere-du-rempart",
@@ -33,6 +63,16 @@
       "from": "2026-01-20T05:45:00.000Z",
       "to": "2026-01-20T08:30:00.000Z",
       "id": "5b80b50757f919f6604840f96d2b53fa"
+    },
+    {
+      "date": "Le mardi 20 janvier 2026 de  10:20:00 à  12:00:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "TEMPLE ROAD NEAR COLLGE UNIVERSAL",
+      "district": "rivieredurempart",
+      "from": "2026-01-20T06:20:00.000Z",
+      "to": "2026-01-20T08:00:00.000Z",
+      "id": "fbc059792304cf1447c694b0ed48129a"
     },
     {
       "date": "Le mardi 20 janvier 2026 de  09:00:00 à  15:30:00",

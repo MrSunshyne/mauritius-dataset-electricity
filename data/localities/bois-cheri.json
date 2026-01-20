@@ -2,11 +2,18 @@
   "slug": "bois-cheri",
   "name": "BOIS CHERI",
   "district": "savanne",
-  "generated": "2026-01-20T06:02:24.243Z",
-  "outageCount": 30,
+  "generated": "2026-01-20T07:05:47.890Z",
+  "outageCount": 31,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-01-05",
+  "lastOutage": "2026-01-22",
   "outages": [
+    {
+      "date": "Le jeudi 22 janvier 2026 de  09:00:00 à  15:00:00",
+      "streets": "Bois Cheri et le perimètre de Mambahal Road, EDC, Dhunputh Lane, School Lane, Cooperative Road, Morc Tea Estate, Auckla Lane, Bois Cheri Tea Estate, Main Road and towards Post Office",
+      "from": "2026-01-22T05:00:00.000Z",
+      "to": "2026-01-22T11:00:00.000Z",
+      "id": "88c0d41394a909b008dc768a1b66f2ca"
+    },
     {
       "date": "Le lundi 5 janvier 2026 de  10:54:00 à  13:00:00",
       "streets": "near school,cooky jar.MAMBAHAL",

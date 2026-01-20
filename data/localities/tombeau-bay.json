@@ -2,11 +2,18 @@
   "slug": "tombeau-bay",
   "name": "TOMBEAU BAY",
   "district": "pamplemousses",
-  "generated": "2026-01-20T06:02:24.533Z",
-  "outageCount": 121,
+  "generated": "2026-01-20T07:05:48.176Z",
+  "outageCount": 122,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2025-12-15",
+  "lastOutage": "2026-01-20",
   "outages": [
+    {
+      "date": "Le mardi 20 janvier 2026 de  10:00:00 à  13:30:00",
+      "streets": "RUE TOURTERELLE,PAILL EN QUEUE ROULLARD",
+      "from": "2026-01-20T06:00:00.000Z",
+      "to": "2026-01-20T09:30:00.000Z",
+      "id": "f9a8eca564ce01d1128c9a6a96c46a13"
+    },
     {
       "date": "Le lundi 15 décembre 2025 de  17:00:00 à  21:00:00",
       "streets": "JASMIN RD TOMBEAU BAY",

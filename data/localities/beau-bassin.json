@@ -2,11 +2,18 @@
   "slug": "beau-bassin",
   "name": "BEAU BASSIN",
   "district": "plainewilhems",
-  "generated": "2026-01-20T06:02:24.222Z",
-  "outageCount": 155,
+  "generated": "2026-01-20T07:05:47.869Z",
+  "outageCount": 156,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-01-19",
+  "lastOutage": "2026-01-20",
   "outages": [
+    {
+      "date": "Le mardi 20 janvier 2026 de  15:00:00 à  17:30:00",
+      "streets": "SOS Village, Flat Selucia, Vuillemin, Dr Lesur, Khodabacus Ave, Phillipe Raoul Ave, Maudave Ave, Residence Vuillemin, NHDC Vuillemin, Dr Reid, Mahadeo Biltoo, Duperre, Chasteuneuf et les environs",
+      "from": "2026-01-20T11:00:00.000Z",
+      "to": "2026-01-20T13:30:00.000Z",
+      "id": "31e852a23204eaa1ed0b9e4118cfff60"
+    },
     {
       "date": "Le lundi 19 janvier 2026 de  15:40:00 à  16:30:00",
       "streets": "LENNARDS ST, MARTINGALE ST,BRUNETTE R/RD,VUILLEMIN",

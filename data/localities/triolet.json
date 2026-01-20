@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-01-20T06:02:24.543Z",
-  "outageCount": 96,
+  "generated": "2026-01-20T07:05:48.181Z",
+  "outageCount": 97,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-01-10",
+  "lastOutage": "2026-01-20",
   "outages": [
+    {
+      "date": "Le mardi 20 janvier 2026 de  09:45:00 à  14:00:00",
+      "streets": "BON AIR ROAD TRIOLET",
+      "from": "2026-01-20T05:45:00.000Z",
+      "to": "2026-01-20T10:00:00.000Z",
+      "id": "a9a921b7c92470616fcfe2698c761578"
+    },
     {
       "date": "Le samedi 10 janvier 2026 de  21:30:00 à  02:00:00",
       "streets": "SHIAVALA RD TRIOLET",

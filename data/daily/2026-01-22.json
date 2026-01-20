@@ -1,8 +1,8 @@
 {
   "date": "2026-01-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-20T06:02:24.188Z",
-  "outageCount": 6,
+  "generated": "2026-01-20T07:05:47.833Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le jeudi 22 janvier 2026 de  08:30:00 à  16:30:00",
@@ -63,6 +63,16 @@
       "from": "2026-01-22T05:00:00.000Z",
       "to": "2026-01-22T11:30:00.000Z",
       "id": "f8f8fabbadf0e2db10c2a7ca357cc8d0"
+    },
+    {
+      "date": "Le jeudi 22 janvier 2026 de  09:00:00 à  15:00:00",
+      "locality": "BOIS CHERI",
+      "localitySlug": "bois-cheri",
+      "streets": "Bois Cheri et le perimètre de Mambahal Road, EDC, Dhunputh Lane, School Lane, Cooperative Road, Morc Tea Estate, Auckla Lane, Bois Cheri Tea Estate, Main Road and towards Post Office",
+      "district": "savanne",
+      "from": "2026-01-22T05:00:00.000Z",
+      "to": "2026-01-22T11:00:00.000Z",
+      "id": "88c0d41394a909b008dc768a1b66f2ca"
     }
   ]
 }
