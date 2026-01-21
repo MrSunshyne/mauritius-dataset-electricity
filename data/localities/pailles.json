@@ -2,11 +2,18 @@
   "slug": "pailles",
   "name": "PAILLES",
   "district": "portlouis",
-  "generated": "2026-01-21T17:18:42.416Z",
-  "outageCount": 69,
+  "generated": "2026-01-21T18:10:06.577Z",
+  "outageCount": 70,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-01-19",
+  "lastOutage": "2026-01-21",
   "outages": [
+    {
+      "date": "Le mercredi 21 janvier 2026 de  22:00:00 à  01:00:00",
+      "streets": "AVE BENGALI, COLLINE, SAWMY VIVEKANANDA, LES GUIBIES, MORC RAFFRAY AND SURROUNDINGS",
+      "from": "2026-01-21T18:00:00.000Z",
+      "to": "2026-01-20T21:00:00.000Z",
+      "id": "1927fb273b432ace7a19add475ff16d2"
+    },
     {
       "date": "Le lundi 19 janvier 2026 de  17:40:00 à  18:45:00",
       "streets": "POLICE STATION AND NEARBY REGION",

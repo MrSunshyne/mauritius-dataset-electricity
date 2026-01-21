@@ -1,8 +1,8 @@
 {
   "date": "2026-01-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-21T17:18:42.175Z",
-  "outageCount": 16,
+  "generated": "2026-01-21T18:10:06.344Z",
+  "outageCount": 18,
   "outages": [
     {
       "date": "Le mercredi 21 janvier 2026 de  10:00:00 à  13:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-01-21T06:00:00.000Z",
       "to": "2026-01-21T09:00:00.000Z",
       "id": "27ae85d8627c0857db1a348aca66c1a9"
+    },
+    {
+      "date": "Le mercredi 21 janvier 2026 de  21:00:00 à  23:00:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "PART OF BAMBOUS",
+      "district": "blackriver",
+      "from": "2026-01-21T17:00:00.000Z",
+      "to": "2026-01-21T19:00:00.000Z",
+      "id": "17a6cdc46e06e8ac3002ceea948cfd93"
     },
     {
       "date": "Le mercredi 21 janvier 2026 de  08:30:00 à  16:30:00",
@@ -153,6 +163,16 @@
       "from": "2026-01-21T13:00:00.000Z",
       "to": "2026-01-21T15:00:00.000Z",
       "id": "1f2349740ecb9192a87c42afd755e9b8"
+    },
+    {
+      "date": "Le mercredi 21 janvier 2026 de  22:00:00 à  01:00:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "AVE BENGALI, COLLINE, SAWMY VIVEKANANDA, LES GUIBIES, MORC RAFFRAY AND SURROUNDINGS",
+      "district": "portlouis",
+      "from": "2026-01-21T18:00:00.000Z",
+      "to": "2026-01-20T21:00:00.000Z",
+      "id": "1927fb273b432ace7a19add475ff16d2"
     },
     {
       "date": "Le mercredi 21 janvier 2026 de  09:30:00 à  12:00:00",

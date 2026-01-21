@@ -2,11 +2,18 @@
   "slug": "bambous",
   "name": "BAMBOUS",
   "district": "blackriver",
-  "generated": "2026-01-21T17:18:42.204Z",
-  "outageCount": 105,
+  "generated": "2026-01-21T18:10:06.373Z",
+  "outageCount": 106,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-01-17",
+  "lastOutage": "2026-01-21",
   "outages": [
+    {
+      "date": "Le mercredi 21 janvier 2026 de  21:00:00 à  23:00:00",
+      "streets": "PART OF BAMBOUS",
+      "from": "2026-01-21T17:00:00.000Z",
+      "to": "2026-01-21T19:00:00.000Z",
+      "id": "17a6cdc46e06e8ac3002ceea948cfd93"
+    },
     {
       "date": "Le samedi 17 janvier 2026 de  08:30:00 à  15:30:00",
       "streets": "ZONE INDUSTRIELLE BAMBOUS, BRDC, AVE LIMIT, AVE DES FLEURS, AVE LAVANDIERE, NHDC BAMBOUS, RESIDENCES GEOFFROY, RESIDENCES BAMBOULA, MORC VRS BAMBOUS ET UNE PARTIE DE LA ROUTE GEOFFROY",
