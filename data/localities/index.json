@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-21T06:02:16.604Z",
+  "generated": "2026-01-21T07:06:02.506Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -25,10 +25,10 @@
       "slug": "albion",
       "name": "ALBION",
       "district": "blackriver",
-      "outageCount": 97,
+      "outageCount": 98,
       "file": "albion.json",
       "firstOutage": "2022-06-06",
-      "lastOutage": "2026-01-17"
+      "lastOutage": "2026-01-21"
     },
     {
       "slug": "allee-brillant-castel",
@@ -2851,10 +2851,10 @@
       "slug": "petite-riviere",
       "name": "PETITE RIVIERE",
       "district": "blackriver",
-      "outageCount": 77,
+      "outageCount": 78,
       "file": "petite-riviere.json",
       "firstOutage": "2022-05-28",
-      "lastOutage": "2026-01-15"
+      "lastOutage": "2026-01-25"
     },
     {
       "slug": "petite-riviere-noire",
@@ -3634,10 +3634,10 @@
       "slug": "sainte-croix",
       "name": "SAINTE CROIX",
       "district": "portlouis",
-      "outageCount": 67,
+      "outageCount": 69,
       "file": "sainte-croix.json",
       "firstOutage": "2022-04-26",
-      "lastOutage": "2026-01-12"
+      "lastOutage": "2026-01-25"
     },
     {
       "slug": "salazie",

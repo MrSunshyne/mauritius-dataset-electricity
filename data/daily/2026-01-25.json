@@ -1,9 +1,19 @@
 {
   "date": "2026-01-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-21T06:02:16.237Z",
-  "outageCount": 2,
+  "generated": "2026-01-21T07:06:02.150Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  15:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "DANS LES ENVIRONS DE ALBION ROAD, LOBIN LANE, NHDC VETIVER, MORC RAMDANEE, LA FORGE, FOYER FIAT ET UNE PARTIE DE LA ROUTE ROYALE",
+      "district": "blackriver",
+      "from": "2026-01-25T04:30:00.000Z",
+      "to": "2026-01-25T11:00:00.000Z",
+      "id": "2fd03f4ec8ba5e12cc6c2dcf68a30c7c"
+    },
     {
       "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  16:00:00",
       "locality": "ROSE BELLE",
@@ -23,6 +33,16 @@
       "from": "2026-01-25T04:30:00.000Z",
       "to": "2026-01-25T13:00:00.000Z",
       "id": "ae9dd8e231a220e7840d987bdf8faeca"
+    },
+    {
+      "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  15:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "DANS LES ENVIRONS DES RUES PAUL TAUREAU, MARIAMEN TEMPLE, COCOTERIE, DUCRAY, RESIDENCE BRIQUETTERIE, ABERCOMBIE, SAINTE MARIE, UDHIN LANE, SHIVALA ROAD ET RESIDENCE ROMA",
+      "district": "portlouis",
+      "from": "2026-01-25T04:30:00.000Z",
+      "to": "2026-01-25T11:00:00.000Z",
+      "id": "c1c5d48900dc8329e6e93ab1adef82bb"
     }
   ]
 }

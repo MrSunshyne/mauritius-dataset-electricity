@@ -1,8 +1,8 @@
 {
   "date": "2026-01-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-21T06:02:16.237Z",
-  "outageCount": 7,
+  "generated": "2026-01-21T07:06:02.150Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le jeudi 22 janvier 2026 de  08:30:00 à  16:30:00",
@@ -53,6 +53,16 @@
       "from": "2026-01-22T04:30:00.000Z",
       "to": "2026-01-22T11:00:00.000Z",
       "id": "d7e9b998948521dba7ddc1f48392a375"
+    },
+    {
+      "date": "Le jeudi 22 janvier 2026 de  09:00:00 à  13:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "DANS LES ENVIRONS DES RUES PIETON PERE LAVAL, EMILE BASSET ET ROUTE BASSIN",
+      "district": "portlouis",
+      "from": "2026-01-22T05:00:00.000Z",
+      "to": "2026-01-22T09:00:00.000Z",
+      "id": "e08a96b163de47c4297cc70ffbcde0af"
     },
     {
       "date": "Le jeudi 22 janvier 2026 de  09:00:00 à  15:30:00",

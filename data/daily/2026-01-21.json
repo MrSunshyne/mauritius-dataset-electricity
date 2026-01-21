@@ -1,9 +1,19 @@
 {
   "date": "2026-01-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-21T06:02:16.237Z",
-  "outageCount": 8,
+  "generated": "2026-01-21T07:06:02.150Z",
+  "outageCount": 9,
   "outages": [
+    {
+      "date": "Le mercredi 21 janvier 2026 de  10:00:00 à  13:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "MORC TERRE ALBION",
+      "district": "blackriver",
+      "from": "2026-01-21T06:00:00.000Z",
+      "to": "2026-01-21T09:00:00.000Z",
+      "id": "27ae85d8627c0857db1a348aca66c1a9"
+    },
     {
       "date": "Le mercredi 21 janvier 2026 de  08:30:00 à  16:30:00",
       "locality": "PETITE RETRAITE",
