@@ -2,11 +2,18 @@
   "slug": "belle-vue-harel",
   "name": "BELLE VUE HAREL",
   "district": "pamplemousses",
-  "generated": "2026-01-21T15:04:45.682Z",
-  "outageCount": 6,
+  "generated": "2026-01-21T16:04:35.003Z",
+  "outageCount": 7,
   "firstOutage": "2022-06-06",
-  "lastOutage": "2025-02-25",
+  "lastOutage": "2026-01-21",
   "outages": [
+    {
+      "date": "Le mercredi 21 janvier 2026 de  17:00:00 à  22:30:00",
+      "streets": "MORC HILL SIDE BELLE VUE HAREL",
+      "from": "2026-01-21T13:00:00.000Z",
+      "to": "2026-01-21T18:30:00.000Z",
+      "id": "4eb404bb66808c547dce857cc9fc6a76"
+    },
     {
       "date": "Le mardi 25 février 2025 de  10:00:00 à  14:00:00",
       "streets": "MORC DOMAINE BELLE VUE",
