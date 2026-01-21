@@ -1,8 +1,8 @@
 {
   "date": "2026-01-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-21T11:03:21.786Z",
-  "outageCount": 1,
+  "generated": "2026-01-21T12:02:01.540Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le samedi 24 janvier 2026 de  08:30:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-01-24T04:30:00.000Z",
       "to": "2026-01-24T13:00:00.000Z",
       "id": "e6098b022b40b97b5db55c37a895390e"
+    },
+    {
+      "date": "Le samedi 24 janvier 2026 de  08:30:00 à  16:00:00",
+      "locality": "PETIT CAMP",
+      "localitySlug": "petit-camp",
+      "streets": "PETIT CAMP PHOENIX",
+      "district": "plainewilhems",
+      "from": "2026-01-24T04:30:00.000Z",
+      "to": "2026-01-24T12:00:00.000Z",
+      "id": "b23a2e8804ac66e76accac6bef106bdb"
     }
   ]
 }

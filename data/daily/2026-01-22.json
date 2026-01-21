@@ -1,8 +1,8 @@
 {
   "date": "2026-01-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-21T11:03:21.785Z",
-  "outageCount": 8,
+  "generated": "2026-01-21T12:02:01.540Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le jeudi 22 janvier 2026 de  08:30:00 à  16:30:00",
@@ -53,6 +53,16 @@
       "from": "2026-01-22T04:30:00.000Z",
       "to": "2026-01-22T11:00:00.000Z",
       "id": "d7e9b998948521dba7ddc1f48392a375"
+    },
+    {
+      "date": "Le jeudi 22 janvier 2026 de  15:00:00 à  18:00:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "Railway Road, Dispensary Road, Morc Omnicane",
+      "district": "plainewilhems",
+      "from": "2026-01-22T11:00:00.000Z",
+      "to": "2026-01-22T14:00:00.000Z",
+      "id": "794795cf004bbfeeeab5bd1a9b22a8f3"
     },
     {
       "date": "Le jeudi 22 janvier 2026 de  09:00:00 à  13:00:00",

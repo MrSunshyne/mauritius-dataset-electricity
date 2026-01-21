@@ -1,8 +1,8 @@
 {
   "date": "2026-01-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-21T11:03:21.785Z",
-  "outageCount": 14,
+  "generated": "2026-01-21T12:02:01.540Z",
+  "outageCount": 15,
   "outages": [
     {
       "date": "Le mercredi 21 janvier 2026 de  10:00:00 à  13:00:00",
@@ -95,14 +95,14 @@
       "id": "002a493089998ec7654ea57ea477eb02"
     },
     {
-      "date": "Le mercredi 21 janvier 2026 de  14:45:00 à  16:00:00",
+      "date": "Le mercredi 21 janvier 2026 de  14:45:00 à  16:30:00",
       "locality": "BEAU BASSIN",
       "localitySlug": "beau-bassin",
       "streets": "ROYAL ROAD, BABOOLALL RD, DANS LES ALENTOURS DE LA CROISEE CHEBEL",
       "district": "plainewilhems",
       "from": "2026-01-21T10:45:00.000Z",
-      "to": "2026-01-21T12:00:00.000Z",
-      "id": "eb71333b11b88b322cd860f4cb1a6984"
+      "to": "2026-01-21T12:30:00.000Z",
+      "id": "2feba03da9d0ff5da3708f182a8c4175"
     },
     {
       "date": "Le mercredi 21 janvier 2026 de  15:00:00 à  16:00:00",
@@ -113,6 +113,16 @@
       "from": "2026-01-21T11:00:00.000Z",
       "to": "2026-01-21T12:00:00.000Z",
       "id": "b7d61556623faf42233b988b5660959b"
+    },
+    {
+      "date": "Le mercredi 21 janvier 2026 de  15:30:00 à  16:45:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "HARBOUR VIEW 2, EDGAR ADOLPHE ET LES AENVIRONS, CHEMIN INTERMART ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2026-01-21T11:30:00.000Z",
+      "to": "2026-01-21T12:45:00.000Z",
+      "id": "d45f6577d7e8ea0a536129a00cf89e99"
     },
     {
       "date": "Le mercredi 21 janvier 2026 de  08:50:00 à  11:00:00",
