@@ -1,8 +1,8 @@
 {
   "date": "2026-01-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-20T18:02:12.685Z",
-  "outageCount": 4,
+  "generated": "2026-01-21T06:02:16.237Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le mercredi 21 janvier 2026 de  08:30:00 à  16:30:00",
@@ -25,6 +25,16 @@
       "id": "69e92ec65501c653509540fe3b090eeb"
     },
     {
+      "date": "Le mercredi 21 janvier 2026 de  08:30:00 à  15:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "BALANCE PLAINE MAGNIEN",
+      "district": "grandport",
+      "from": "2026-01-21T04:30:00.000Z",
+      "to": "2026-01-21T11:00:00.000Z",
+      "id": "322b71b1145f292096c3d3583a8a3b1f"
+    },
+    {
       "date": "Le mercredi 21 janvier 2026 de  15:00:00 à  17:00:00",
       "locality": "MONTAGNE BLANCHE",
       "localitySlug": "montagne-blanche",
@@ -43,6 +53,36 @@
       "from": "2026-01-21T05:30:00.000Z",
       "to": "2026-01-21T10:30:00.000Z",
       "id": "ef929d0afd8b479fcbbfc5c71ce8ccfc"
+    },
+    {
+      "date": "Le mercredi 21 janvier 2026 de  10:00:00 à  15:00:00",
+      "locality": "EBENE",
+      "localitySlug": "ebene",
+      "streets": "Ave Lavendiere, Eperviere et Batisseur",
+      "district": "plainewilhems",
+      "from": "2026-01-21T06:00:00.000Z",
+      "to": "2026-01-21T11:00:00.000Z",
+      "id": "002a493089998ec7654ea57ea477eb02"
+    },
+    {
+      "date": "Le mercredi 21 janvier 2026 de  08:50:00 à  11:00:00",
+      "locality": "CASSIS",
+      "localitySlug": "cassis",
+      "streets": "NEAR LEGLISE AND DRY CLEANING",
+      "district": "portlouis",
+      "from": "2026-01-21T04:50:00.000Z",
+      "to": "2026-01-21T07:00:00.000Z",
+      "id": "ecd3aa4ea80e31c052e8dd1e78bab5e9"
+    },
+    {
+      "date": "Le mercredi 21 janvier 2026 de  09:30:00 à  12:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "SENTOZA RD GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2026-01-21T05:30:00.000Z",
+      "to": "2026-01-21T08:00:00.000Z",
+      "id": "879c4544c52b22eea11b1ecafa0dd07a"
     }
   ]
 }

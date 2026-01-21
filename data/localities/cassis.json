@@ -2,11 +2,18 @@
   "slug": "cassis",
   "name": "CASSIS",
   "district": "portlouis",
-  "generated": "2026-01-20T18:02:12.778Z",
-  "outageCount": 31,
+  "generated": "2026-01-21T06:02:16.329Z",
+  "outageCount": 32,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2025-12-26",
+  "lastOutage": "2026-01-21",
   "outages": [
+    {
+      "date": "Le mercredi 21 janvier 2026 de  08:50:00 à  11:00:00",
+      "streets": "NEAR LEGLISE AND DRY CLEANING",
+      "from": "2026-01-21T04:50:00.000Z",
+      "to": "2026-01-21T07:00:00.000Z",
+      "id": "ecd3aa4ea80e31c052e8dd1e78bab5e9"
+    },
     {
       "date": "Le vendredi 26 décembre 2025 de  09:30:00 à  12:00:00",
       "streets": "KWAN TEE CASSIS",

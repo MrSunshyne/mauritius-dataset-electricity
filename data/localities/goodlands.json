@@ -2,11 +2,18 @@
   "slug": "goodlands",
   "name": "GOODLANDS",
   "district": "rivieredurempart",
-  "generated": "2026-01-20T18:02:12.831Z",
-  "outageCount": 113,
+  "generated": "2026-01-21T06:02:16.381Z",
+  "outageCount": 114,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2025-12-15",
+  "lastOutage": "2026-01-21",
   "outages": [
+    {
+      "date": "Le mercredi 21 janvier 2026 de  09:30:00 à  12:00:00",
+      "streets": "SENTOZA RD GOODLANDS",
+      "from": "2026-01-21T05:30:00.000Z",
+      "to": "2026-01-21T08:00:00.000Z",
+      "id": "879c4544c52b22eea11b1ecafa0dd07a"
+    },
     {
       "date": "Le lundi 15 décembre 2025 de  09:30:00 à  12:00:00",
       "streets": "Goodlands,Grand Gaube,Roche Terre,Petit Raffray",
