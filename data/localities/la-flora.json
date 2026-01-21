@@ -2,11 +2,18 @@
   "slug": "la-flora",
   "name": "LA FLORA",
   "district": "savanne",
-  "generated": "2026-01-21T09:04:38.805Z",
-  "outageCount": 30,
+  "generated": "2026-01-21T10:02:25.730Z",
+  "outageCount": 31,
   "firstOutage": "2022-10-09",
-  "lastOutage": "2026-01-13",
+  "lastOutage": "2026-01-23",
   "outages": [
+    {
+      "date": "Le vendredi 23 janvier 2026 de  09:00:00 à  16:00:00",
+      "streets": "La Flora et Grand Bois",
+      "from": "2026-01-23T05:00:00.000Z",
+      "to": "2026-01-23T12:00:00.000Z",
+      "id": "a1f73ab20878261776e0359e743113d0"
+    },
     {
       "date": "Le mardi 13 janvier 2026 de  09:00:00 à  16:00:00",
       "streets": "La région et perimètre de Beau Climat et de Wireless Road La Flora",

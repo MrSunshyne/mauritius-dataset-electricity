@@ -2,11 +2,18 @@
   "slug": "beau-vallon",
   "name": "BEAU VALLON",
   "district": "grandport",
-  "generated": "2026-01-21T09:04:38.671Z",
-  "outageCount": 14,
+  "generated": "2026-01-21T10:02:25.594Z",
+  "outageCount": 15,
   "firstOutage": "2022-06-06",
-  "lastOutage": "2025-03-08",
+  "lastOutage": "2026-01-21",
   "outages": [
+    {
+      "date": "Le mercredi 21 janvier 2026 de  14:00:00 à  14:45:00",
+      "streets": "TOMBEAU BAY RD, EN PARTIE ROYAL RD ET DANS LES ALENTOURS DE MUSEE",
+      "from": "2026-01-21T10:00:00.000Z",
+      "to": "2026-01-21T10:45:00.000Z",
+      "id": "cdd2461ed6cd4d9fdc04d4ce9f2cae63"
+    },
     {
       "date": "Le samedi 8 mars 2025 de  11:00:00 à  14:00:00",
       "streets": "GROVE BEAU VALLON",

@@ -1,8 +1,8 @@
 {
   "date": "2026-01-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-21T09:04:38.629Z",
-  "outageCount": 9,
+  "generated": "2026-01-21T10:02:25.553Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le mercredi 21 janvier 2026 de  10:00:00 à  13:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-01-21T04:30:00.000Z",
       "to": "2026-01-21T11:00:00.000Z",
       "id": "322b71b1145f292096c3d3583a8a3b1f"
+    },
+    {
+      "date": "Le mercredi 21 janvier 2026 de  14:00:00 à  14:45:00",
+      "locality": "BEAU VALLON",
+      "localitySlug": "beau-vallon",
+      "streets": "TOMBEAU BAY RD, EN PARTIE ROYAL RD ET DANS LES ALENTOURS DE MUSEE",
+      "district": "grandport",
+      "from": "2026-01-21T10:00:00.000Z",
+      "to": "2026-01-21T10:45:00.000Z",
+      "id": "cdd2461ed6cd4d9fdc04d4ce9f2cae63"
     },
     {
       "date": "Le mercredi 21 janvier 2026 de  15:00:00 à  17:00:00",

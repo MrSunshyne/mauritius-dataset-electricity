@@ -1,8 +1,8 @@
 {
   "date": "2026-01-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-21T09:04:38.630Z",
-  "outageCount": 2,
+  "generated": "2026-01-21T10:02:25.553Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le vendredi 23 janvier 2026 de  09:00:00 à  15:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-01-23T05:00:00.000Z",
       "to": "2026-01-23T11:30:00.000Z",
       "id": "73ab4a0c071a5b6d704d71fb039db8e7"
+    },
+    {
+      "date": "Le vendredi 23 janvier 2026 de  09:00:00 à  16:00:00",
+      "locality": "LA FLORA",
+      "localitySlug": "la-flora",
+      "streets": "La Flora et Grand Bois",
+      "district": "savanne",
+      "from": "2026-01-23T05:00:00.000Z",
+      "to": "2026-01-23T12:00:00.000Z",
+      "id": "a1f73ab20878261776e0359e743113d0"
     }
   ]
 }
