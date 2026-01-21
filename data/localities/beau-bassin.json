@@ -2,11 +2,18 @@
   "slug": "beau-bassin",
   "name": "BEAU BASSIN",
   "district": "plainewilhems",
-  "generated": "2026-01-21T10:02:25.588Z",
-  "outageCount": 156,
+  "generated": "2026-01-21T11:03:21.819Z",
+  "outageCount": 157,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-01-20",
+  "lastOutage": "2026-01-21",
   "outages": [
+    {
+      "date": "Le mercredi 21 janvier 2026 de  14:45:00 à  16:00:00",
+      "streets": "ROYAL ROAD, BABOOLALL RD, DANS LES ALENTOURS DE LA CROISEE CHEBEL",
+      "from": "2026-01-21T10:45:00.000Z",
+      "to": "2026-01-21T12:00:00.000Z",
+      "id": "eb71333b11b88b322cd860f4cb1a6984"
+    },
     {
       "date": "Le mardi 20 janvier 2026 de  15:00:00 à  17:30:00",
       "streets": "SOS Village, Flat Selucia, Vuillemin, Dr Lesur, Khodabacus Ave, Phillipe Raoul Ave, Maudave Ave, Residence Vuillemin, NHDC Vuillemin, Dr Reid, Mahadeo Biltoo, Duperre, Chasteuneuf et les environs",

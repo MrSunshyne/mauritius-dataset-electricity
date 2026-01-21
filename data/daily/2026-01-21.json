@@ -1,8 +1,8 @@
 {
   "date": "2026-01-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-21T10:02:25.553Z",
-  "outageCount": 10,
+  "generated": "2026-01-21T11:03:21.785Z",
+  "outageCount": 14,
   "outages": [
     {
       "date": "Le mercredi 21 janvier 2026 de  10:00:00 à  13:00:00",
@@ -75,6 +75,16 @@
       "id": "ef929d0afd8b479fcbbfc5c71ce8ccfc"
     },
     {
+      "date": "Le mercredi 21 janvier 2026 de  15:00:00 à  17:30:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "TROU AUX BICHES",
+      "district": "pamplemousses",
+      "from": "2026-01-21T11:00:00.000Z",
+      "to": "2026-01-21T13:30:00.000Z",
+      "id": "bd79f8542216261735eb021cafd76905"
+    },
+    {
       "date": "Le mercredi 21 janvier 2026 de  10:00:00 à  15:00:00",
       "locality": "EBENE",
       "localitySlug": "ebene",
@@ -85,6 +95,26 @@
       "id": "002a493089998ec7654ea57ea477eb02"
     },
     {
+      "date": "Le mercredi 21 janvier 2026 de  14:45:00 à  16:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "ROYAL ROAD, BABOOLALL RD, DANS LES ALENTOURS DE LA CROISEE CHEBEL",
+      "district": "plainewilhems",
+      "from": "2026-01-21T10:45:00.000Z",
+      "to": "2026-01-21T12:00:00.000Z",
+      "id": "eb71333b11b88b322cd860f4cb1a6984"
+    },
+    {
+      "date": "Le mercredi 21 janvier 2026 de  15:00:00 à  16:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "MORC NARAIN, ASSEMBLY LANE, CHEMIN CORPS DE GARDE ET LES ENVIRONS.",
+      "district": "plainewilhems",
+      "from": "2026-01-21T11:00:00.000Z",
+      "to": "2026-01-21T12:00:00.000Z",
+      "id": "b7d61556623faf42233b988b5660959b"
+    },
+    {
       "date": "Le mercredi 21 janvier 2026 de  08:50:00 à  11:00:00",
       "locality": "CASSIS",
       "localitySlug": "cassis",
@@ -93,6 +123,16 @@
       "from": "2026-01-21T04:50:00.000Z",
       "to": "2026-01-21T07:00:00.000Z",
       "id": "ecd3aa4ea80e31c052e8dd1e78bab5e9"
+    },
+    {
+      "date": "Le mercredi 21 janvier 2026 de  17:00:00 à  19:00:00",
+      "locality": "TOUR KOENIG",
+      "localitySlug": "tour-koenig",
+      "streets": "DANS LES ENVIRONS DES AVENUES CONCORDE ET PEUPLIERS",
+      "district": "portlouis",
+      "from": "2026-01-21T13:00:00.000Z",
+      "to": "2026-01-21T15:00:00.000Z",
+      "id": "1f2349740ecb9192a87c42afd755e9b8"
     },
     {
       "date": "Le mercredi 21 janvier 2026 de  09:30:00 à  12:00:00",
