@@ -2,8 +2,8 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-01-22T08:02:12.482Z",
-  "outageCount": 196,
+  "generated": "2026-01-22T09:05:47.645Z",
+  "outageCount": 197,
   "firstOutage": "2022-03-27",
   "lastOutage": "2026-01-25",
   "outages": [
@@ -20,6 +20,13 @@
       "from": "2026-01-23T04:30:00.000Z",
       "to": "2026-01-23T12:00:00.000Z",
       "id": "34e45d040ddbb48329d1cbd1e52dbf83"
+    },
+    {
+      "date": "Le jeudi 22 janvier 2026 de  13:00:00 à  14:15:00",
+      "streets": "Rues Bougainvilles,Mazarieux,Farquhar et les environs",
+      "from": "2026-01-22T09:00:00.000Z",
+      "to": "2026-01-22T10:15:00.000Z",
+      "id": "3727b5b8a23f7cca020696c5d6225238"
     },
     {
       "date": "Le dimanche 18 janvier 2026 de  08:30:00 à  16:00:00",

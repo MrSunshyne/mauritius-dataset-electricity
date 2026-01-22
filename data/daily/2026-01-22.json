@@ -1,8 +1,8 @@
 {
   "date": "2026-01-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-22T08:02:12.360Z",
-  "outageCount": 12,
+  "generated": "2026-01-22T09:05:47.523Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le jeudi 22 janvier 2026 de  08:30:00 à  16:30:00",
@@ -83,6 +83,16 @@
       "from": "2026-01-22T05:30:00.000Z",
       "to": "2026-01-22T10:00:00.000Z",
       "id": "d0e04db2c04160834246b14618a7d772"
+    },
+    {
+      "date": "Le jeudi 22 janvier 2026 de  13:00:00 à  14:15:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Rues Bougainvilles,Mazarieux,Farquhar et les environs",
+      "district": "plainewilhems",
+      "from": "2026-01-22T09:00:00.000Z",
+      "to": "2026-01-22T10:15:00.000Z",
+      "id": "3727b5b8a23f7cca020696c5d6225238"
     },
     {
       "date": "Le jeudi 22 janvier 2026 de  09:00:00 à  13:00:00",
