@@ -1,8 +1,8 @@
 {
   "date": "2026-01-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-22T12:02:01.298Z",
-  "outageCount": 13,
+  "generated": "2026-01-22T13:15:55.373Z",
+  "outageCount": 14,
   "outages": [
     {
       "date": "Le jeudi 22 janvier 2026 de  08:30:00 à  16:30:00",
@@ -133,6 +133,16 @@
       "from": "2026-01-22T05:00:00.000Z",
       "to": "2026-01-22T11:00:00.000Z",
       "id": "88c0d41394a909b008dc768a1b66f2ca"
+    },
+    {
+      "date": "Le jeudi 22 janvier 2026 de  16:55:00 à  19:30:00",
+      "locality": "L-ESCALIER",
+      "localitySlug": "l-escalier",
+      "streets": "MORC LA SOURDINE ET CEMETERY RD",
+      "district": "savanne",
+      "from": "2026-01-22T12:55:00.000Z",
+      "to": "2026-01-22T15:30:00.000Z",
+      "id": "a4040cbeafefc71eede2d8df065af086"
     }
   ]
 }

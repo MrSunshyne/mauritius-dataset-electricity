@@ -2,11 +2,18 @@
   "slug": "l-escalier",
   "name": "L-ESCALIER",
   "district": "savanne",
-  "generated": "2026-01-22T12:02:01.470Z",
-  "outageCount": 21,
+  "generated": "2026-01-22T13:15:55.550Z",
+  "outageCount": 22,
   "firstOutage": "2022-03-30",
-  "lastOutage": "2025-12-30",
+  "lastOutage": "2026-01-22",
   "outages": [
+    {
+      "date": "Le jeudi 22 janvier 2026 de  16:55:00 à  19:30:00",
+      "streets": "MORC LA SOURDINE ET CEMETERY RD",
+      "from": "2026-01-22T12:55:00.000Z",
+      "to": "2026-01-22T15:30:00.000Z",
+      "id": "a4040cbeafefc71eede2d8df065af086"
+    },
     {
       "date": "Le mardi 30 décembre 2025 de  12:30:00 à  17:00:00",
       "streets": "MORC LA SOURDINE",
