@@ -2,11 +2,18 @@
   "slug": "verdun",
   "name": "VERDUN",
   "district": "moka",
-  "generated": "2026-01-21T18:10:06.697Z",
-  "outageCount": 27,
+  "generated": "2026-01-22T06:02:10.473Z",
+  "outageCount": 28,
   "firstOutage": "2022-04-24",
-  "lastOutage": "2026-01-18",
+  "lastOutage": "2026-01-22",
   "outages": [
+    {
+      "date": "Le jeudi 22 janvier 2026 de  00:35:00 à  15:30:00",
+      "streets": "CHA VERDUN ROYAL RD VERDUN",
+      "from": "2026-01-21T20:35:00.000Z",
+      "to": "2026-01-21T11:30:00.000Z",
+      "id": "fa17d52a895512f278c2db20a8d9a2ca"
+    },
     {
       "date": "Le dimanche 18 janvier 2026 de  08:30:00 à  15:30:00",
       "streets": "Main Road, Rue Rose, Morc MSA, Morc MDA, CHA Verdun et Avipro",

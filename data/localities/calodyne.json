@@ -2,11 +2,18 @@
   "slug": "calodyne",
   "name": "CALODYNE",
   "district": "rivieredurempart",
-  "generated": "2026-01-21T18:10:06.412Z",
-  "outageCount": 30,
+  "generated": "2026-01-22T06:02:10.151Z",
+  "outageCount": 31,
   "firstOutage": "2022-09-10",
-  "lastOutage": "2025-12-14",
+  "lastOutage": "2026-01-22",
   "outages": [
+    {
+      "date": "Le jeudi 22 janvier 2026 de  05:00:00 à  14:00:00",
+      "streets": "CHEVREAUX LANE-ROYAL RD CALODYNE",
+      "from": "2026-01-22T01:00:00.000Z",
+      "to": "2026-01-22T10:00:00.000Z",
+      "id": "2d8832963c08d50d2df1ececea3e0fbd"
+    },
     {
       "date": "Le dimanche 14 décembre 2025 de  08:30:00 à  15:30:00",
       "streets": "WHOLE AREA OF CALODYNE - OFFICER IN CHARGE PTO G VADAMALAY FOR GOODLANDS SECTION",

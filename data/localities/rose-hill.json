@@ -2,11 +2,18 @@
   "slug": "rose-hill",
   "name": "ROSE-HILL",
   "district": "plainewilhems",
-  "generated": "2026-01-21T18:10:06.650Z",
-  "outageCount": 126,
+  "generated": "2026-01-22T06:02:10.422Z",
+  "outageCount": 127,
   "firstOutage": "2022-05-20",
   "lastOutage": "2026-01-22",
   "outages": [
+    {
+      "date": "Le jeudi 22 janvier 2026 de  09:30:00 à  11:30:00",
+      "streets": "Rues Edisson,Capitaine Bruce",
+      "from": "2026-01-22T05:30:00.000Z",
+      "to": "2026-01-22T07:30:00.000Z",
+      "id": "b4c57738ffd56dd0e4d8691c6ca45434"
+    },
     {
       "date": "Le jeudi 22 janvier 2026 de  08:30:00 à  17:00:00",
       "streets": "Espace La Concorde, Rue de la Concorde, Ave Piranhas, NSLD Camp Levieux et les environs",

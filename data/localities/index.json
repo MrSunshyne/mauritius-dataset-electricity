@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-21T18:10:06.704Z",
+  "generated": "2026-01-22T06:02:10.481Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -7,10 +7,10 @@
       "slug": "16eme-mile",
       "name": "16EME MILE",
       "district": "plainewilhems",
-      "outageCount": 49,
+      "outageCount": 50,
       "file": "16eme-mile.json",
       "firstOutage": "2022-05-31",
-      "lastOutage": "2026-01-22"
+      "lastOutage": "2026-01-25"
     },
     {
       "slug": "abercrombie",
@@ -682,10 +682,10 @@
       "slug": "calodyne",
       "name": "CALODYNE",
       "district": "rivieredurempart",
-      "outageCount": 30,
+      "outageCount": 31,
       "file": "calodyne.json",
       "firstOutage": "2022-09-10",
-      "lastOutage": "2025-12-14"
+      "lastOutage": "2026-01-22"
     },
     {
       "slug": "camp-carol-kenya",
@@ -1303,10 +1303,10 @@
       "slug": "curepipe",
       "name": "CUREPIPE",
       "district": "plainewilhems",
-      "outageCount": 194,
+      "outageCount": 195,
       "file": "curepipe.json",
       "firstOutage": "2022-03-27",
-      "lastOutage": "2026-01-18"
+      "lastOutage": "2026-01-23"
     },
     {
       "slug": "d-epinay",
@@ -3508,7 +3508,7 @@
       "slug": "rose-hill",
       "name": "ROSE-HILL",
       "district": "plainewilhems",
-      "outageCount": 126,
+      "outageCount": 127,
       "file": "rose-hill.json",
       "firstOutage": "2022-05-20",
       "lastOutage": "2026-01-22"
@@ -3544,10 +3544,10 @@
       "slug": "saint-aubin",
       "name": "SAINT AUBIN",
       "district": "savanne",
-      "outageCount": 17,
+      "outageCount": 18,
       "file": "saint-aubin.json",
       "firstOutage": "2022-12-03",
-      "lastOutage": "2026-01-20"
+      "lastOutage": "2026-01-25"
     },
     {
       "slug": "saint-francois",
@@ -3940,10 +3940,10 @@
       "slug": "tyack",
       "name": "TYACK",
       "district": "savanne",
-      "outageCount": 30,
+      "outageCount": 31,
       "file": "tyack.json",
       "firstOutage": "2022-05-08",
-      "lastOutage": "2025-12-30"
+      "lastOutage": "2026-01-24"
     },
     {
       "slug": "union",
@@ -4057,10 +4057,10 @@
       "slug": "verdun",
       "name": "VERDUN",
       "district": "moka",
-      "outageCount": 27,
+      "outageCount": 28,
       "file": "verdun.json",
       "firstOutage": "2022-04-24",
-      "lastOutage": "2026-01-18"
+      "lastOutage": "2026-01-22"
     },
     {
       "slug": "vieux-grand-port",

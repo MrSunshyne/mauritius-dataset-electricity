@@ -1,8 +1,8 @@
 {
   "date": "2026-01-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-21T18:10:06.344Z",
-  "outageCount": 4,
+  "generated": "2026-01-22T06:02:10.077Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  15:00:00",
@@ -35,6 +35,16 @@
       "id": "ae9dd8e231a220e7840d987bdf8faeca"
     },
     {
+      "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  15:30:00",
+      "locality": "16EME MILE",
+      "localitySlug": "16eme-mile",
+      "streets": "dans les périmètres et rues suivante : Village de 16eme Mille, Residence Anoushka et Morcellement Domah",
+      "district": "plainewilhems",
+      "from": "2026-01-25T04:30:00.000Z",
+      "to": "2026-01-25T11:30:00.000Z",
+      "id": "45b0fc87c1091f5857d02ca447189569"
+    },
+    {
       "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  15:00:00",
       "locality": "SAINTE CROIX",
       "localitySlug": "sainte-croix",
@@ -43,6 +53,16 @@
       "from": "2026-01-25T04:30:00.000Z",
       "to": "2026-01-25T11:00:00.000Z",
       "id": "c1c5d48900dc8329e6e93ab1adef82bb"
+    },
+    {
+      "date": "Le dimanche 25 janvier 2026 de  09:00:00 à  15:00:00",
+      "locality": "SAINT AUBIN",
+      "localitySlug": "saint-aubin",
+      "streets": "Le village de St Aubin et de Rivières Des Anguilles de la région et périmètre de Senneville Road, Prud’homme Road, Maisonnette Road, Railway Road, Morc. BASF, ainsi qu’une partie de la Route Royale",
+      "district": "savanne",
+      "from": "2026-01-25T05:00:00.000Z",
+      "to": "2026-01-25T11:00:00.000Z",
+      "id": "77e2a72e6aaed540708aca8d0729c32d"
     }
   ]
 }

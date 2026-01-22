@@ -1,8 +1,8 @@
 {
   "date": "2026-01-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-21T18:10:06.344Z",
-  "outageCount": 2,
+  "generated": "2026-01-22T06:02:10.077Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le samedi 24 janvier 2026 de  08:30:00 à  17:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-01-24T04:30:00.000Z",
       "to": "2026-01-24T12:00:00.000Z",
       "id": "b23a2e8804ac66e76accac6bef106bdb"
+    },
+    {
+      "date": "Le samedi 24 janvier 2026 de  09:00:00 à  15:00:00",
+      "locality": "TYACK",
+      "localitySlug": "tyack",
+      "streets": "Le village de Tyack",
+      "district": "savanne",
+      "from": "2026-01-24T05:00:00.000Z",
+      "to": "2026-01-24T11:00:00.000Z",
+      "id": "7c58a00b497c745eef1162e57c337b30"
     }
   ]
 }

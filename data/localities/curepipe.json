@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-01-21T18:10:06.466Z",
-  "outageCount": 194,
+  "generated": "2026-01-22T06:02:10.213Z",
+  "outageCount": 195,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-01-18",
+  "lastOutage": "2026-01-23",
   "outages": [
+    {
+      "date": "Le vendredi 23 janvier 2026 de  08:30:00 à  16:00:00",
+      "streets": "dans les périmètres et rues suivante :, Edgar Laurent, Stevenson street, Morcellement Ramdanee, Résidence Joachim, Morc Coombes, Morcellement La Grotte, Les Casernes, General Hall, Parathian, Robinson street, Robinson riverside, Morc Riverland et une partie de ligne Berthaud et d’Esnouf Street",
+      "from": "2026-01-23T04:30:00.000Z",
+      "to": "2026-01-23T12:00:00.000Z",
+      "id": "34e45d040ddbb48329d1cbd1e52dbf83"
+    },
     {
       "date": "Le dimanche 18 janvier 2026 de  08:30:00 à  16:00:00",
       "streets": "dans les périmètres et rues suivante : St Clement, Route du Jardin, Garden Village, Bernadin de St Pierre, Flat Dodo, Lislet Geoffrey, Morc Basset, St Clement court et une partie de Cardinal et A. Esnouf Street",

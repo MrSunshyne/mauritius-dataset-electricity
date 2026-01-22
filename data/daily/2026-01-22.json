@@ -1,8 +1,8 @@
 {
   "date": "2026-01-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-21T18:10:06.344Z",
-  "outageCount": 9,
+  "generated": "2026-01-22T06:02:10.077Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le jeudi 22 janvier 2026 de  08:30:00 à  16:30:00",
@@ -35,6 +35,16 @@
       "id": "103bc62a0cf53c65d800f000252510eb"
     },
     {
+      "date": "Le jeudi 22 janvier 2026 de  00:35:00 à  15:30:00",
+      "locality": "VERDUN",
+      "localitySlug": "verdun",
+      "streets": "CHA VERDUN ROYAL RD VERDUN",
+      "district": "moka",
+      "from": "2026-01-21T20:35:00.000Z",
+      "to": "2026-01-21T11:30:00.000Z",
+      "id": "fa17d52a895512f278c2db20a8d9a2ca"
+    },
+    {
       "date": "Le jeudi 22 janvier 2026 de  08:30:00 à  17:00:00",
       "locality": "ROSE-HILL",
       "localitySlug": "rose-hill",
@@ -65,6 +75,16 @@
       "id": "794795cf004bbfeeeab5bd1a9b22a8f3"
     },
     {
+      "date": "Le jeudi 22 janvier 2026 de  09:30:00 à  11:30:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Rues Edisson,Capitaine Bruce",
+      "district": "plainewilhems",
+      "from": "2026-01-22T05:30:00.000Z",
+      "to": "2026-01-22T07:30:00.000Z",
+      "id": "b4c57738ffd56dd0e4d8691c6ca45434"
+    },
+    {
       "date": "Le jeudi 22 janvier 2026 de  09:00:00 à  13:00:00",
       "locality": "SAINTE CROIX",
       "localitySlug": "sainte-croix",
@@ -73,6 +93,16 @@
       "from": "2026-01-22T05:00:00.000Z",
       "to": "2026-01-22T09:00:00.000Z",
       "id": "e08a96b163de47c4297cc70ffbcde0af"
+    },
+    {
+      "date": "Le jeudi 22 janvier 2026 de  05:00:00 à  14:00:00",
+      "locality": "CALODYNE",
+      "localitySlug": "calodyne",
+      "streets": "CHEVREAUX LANE-ROYAL RD CALODYNE",
+      "district": "rivieredurempart",
+      "from": "2026-01-22T01:00:00.000Z",
+      "to": "2026-01-22T10:00:00.000Z",
+      "id": "2d8832963c08d50d2df1ececea3e0fbd"
     },
     {
       "date": "Le jeudi 22 janvier 2026 de  09:00:00 à  15:30:00",

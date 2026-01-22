@@ -1,8 +1,8 @@
 {
   "date": "2026-01-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-21T18:10:06.344Z",
-  "outageCount": 3,
+  "generated": "2026-01-22T06:02:10.077Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le vendredi 23 janvier 2026 de  09:00:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-01-23T05:00:00.000Z",
       "to": "2026-01-23T11:00:00.000Z",
       "id": "64fe1c6976a857d4fa1caa9dc6a3e985"
+    },
+    {
+      "date": "Le vendredi 23 janvier 2026 de  08:30:00 à  16:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "dans les périmètres et rues suivante :, Edgar Laurent, Stevenson street, Morcellement Ramdanee, Résidence Joachim, Morc Coombes, Morcellement La Grotte, Les Casernes, General Hall, Parathian, Robinson street, Robinson riverside, Morc Riverland et une partie de ligne Berthaud et d’Esnouf Street",
+      "district": "plainewilhems",
+      "from": "2026-01-23T04:30:00.000Z",
+      "to": "2026-01-23T12:00:00.000Z",
+      "id": "34e45d040ddbb48329d1cbd1e52dbf83"
     },
     {
       "date": "Le vendredi 23 janvier 2026 de  09:00:00 à  15:30:00",
