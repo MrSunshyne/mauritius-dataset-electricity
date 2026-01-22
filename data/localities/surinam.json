@@ -2,11 +2,18 @@
   "slug": "surinam",
   "name": "SURINAM",
   "district": "savanne",
-  "generated": "2026-01-22T09:05:47.849Z",
-  "outageCount": 46,
+  "generated": "2026-01-22T11:02:55.200Z",
+  "outageCount": 47,
   "firstOutage": "2022-05-08",
-  "lastOutage": "2025-12-06",
+  "lastOutage": "2026-01-25",
   "outages": [
+    {
+      "date": "Le dimanche 25 janvier 2026 de  09:00:00 à  15:30:00",
+      "streets": "Le village de Surinam, Morcellement Thanacoody, Morcellement Lai Moon, Morcellement Dalais, Riambel Coast Road et NHDC Riambel",
+      "from": "2026-01-25T05:00:00.000Z",
+      "to": "2026-01-25T11:30:00.000Z",
+      "id": "d45b7ce1a8119f50f1809c72ed3bcd73"
+    },
     {
       "date": "Le samedi 6 décembre 2025 de  07:00:00 à  13:00:00",
       "streets": "CAMY ROAD ,MORC DIDI RIAMBEL SURINAM",

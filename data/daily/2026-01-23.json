@@ -1,8 +1,8 @@
 {
   "date": "2026-01-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-22T09:05:47.523Z",
-  "outageCount": 4,
+  "generated": "2026-01-22T11:02:54.879Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le vendredi 23 janvier 2026 de  09:00:00 à  15:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-01-23T05:00:00.000Z",
       "to": "2026-01-23T12:00:00.000Z",
       "id": "a1f73ab20878261776e0359e743113d0"
+    },
+    {
+      "date": "Le vendredi 23 janvier 2026 de  08:30:00 à  15:00:00",
+      "locality": "BAIE TOPAZE(RODRIGUES)",
+      "localitySlug": "baie-topaze",
+      "streets": "CAMP PINTADE ET PLAINE MAO",
+      "district": "rodrigues",
+      "from": "2026-01-23T04:30:00.000Z",
+      "to": "2026-01-23T11:00:00.000Z",
+      "id": "3448ced41d1c55201410edc6099b327e"
     }
   ]
 }

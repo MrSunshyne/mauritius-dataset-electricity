@@ -2,11 +2,18 @@
   "slug": "oyster-bay",
   "name": "OYSTER BAY(RODRIGUES)",
   "district": "rodrigues",
-  "generated": "2026-01-22T09:05:47.755Z",
-  "outageCount": 1,
+  "generated": "2026-01-22T11:02:55.106Z",
+  "outageCount": 2,
   "firstOutage": "2024-01-19",
-  "lastOutage": "2024-01-19",
+  "lastOutage": "2026-01-24",
   "outages": [
+    {
+      "date": "Le samedi 24 janvier 2026 de  09:00:00 à  14:00:00",
+      "streets": "ACCACIA, ALLE TAMARIN ET POINTE LAGUEL",
+      "from": "2026-01-24T05:00:00.000Z",
+      "to": "2026-01-24T10:00:00.000Z",
+      "id": "b2d6c46c0945ea0945fe023e23bc58a5"
+    },
     {
       "date": "Le vendredi 19 janvier 2024 de  14:00:00 à  15:00:00",
       "streets": "Pointe LHerbe, Accacia, Baie Aux Huitres, Pointe Laguel, Baie Diamand, Baie Malgache, Anse Goeland et Baie Du Nord",

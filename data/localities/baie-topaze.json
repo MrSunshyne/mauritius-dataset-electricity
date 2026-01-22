@@ -2,11 +2,18 @@
   "slug": "baie-topaze",
   "name": "BAIE TOPAZE(RODRIGUES)",
   "district": "rodrigues",
-  "generated": "2026-01-22T09:05:47.547Z",
-  "outageCount": 2,
+  "generated": "2026-01-22T11:02:54.904Z",
+  "outageCount": 3,
   "firstOutage": "2024-06-22",
-  "lastOutage": "2025-10-23",
+  "lastOutage": "2026-01-23",
   "outages": [
+    {
+      "date": "Le vendredi 23 janvier 2026 de  08:30:00 à  15:00:00",
+      "streets": "CAMP PINTADE ET PLAINE MAO",
+      "from": "2026-01-23T04:30:00.000Z",
+      "to": "2026-01-23T11:00:00.000Z",
+      "id": "3448ced41d1c55201410edc6099b327e"
+    },
     {
       "date": "Le jeudi 23 octobre 2025 de  09:00:00 à  14:00:00",
       "streets": "CAMP PINTADE ET REPOSOIR",

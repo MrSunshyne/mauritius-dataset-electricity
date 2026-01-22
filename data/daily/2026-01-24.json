@@ -1,8 +1,8 @@
 {
   "date": "2026-01-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-22T09:05:47.524Z",
-  "outageCount": 3,
+  "generated": "2026-01-22T11:02:54.879Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le samedi 24 janvier 2026 de  08:30:00 à  17:00:00",
@@ -33,6 +33,26 @@
       "from": "2026-01-24T05:00:00.000Z",
       "to": "2026-01-24T11:00:00.000Z",
       "id": "7c58a00b497c745eef1162e57c337b30"
+    },
+    {
+      "date": "Le samedi 24 janvier 2026 de  09:00:00 à  15:30:00",
+      "locality": "RIAMBEL",
+      "localitySlug": "riambel",
+      "streets": "Riambel Surinam, Pomponette Riambel et Belle Vue Chemin Grenier",
+      "district": "savanne",
+      "from": "2026-01-24T05:00:00.000Z",
+      "to": "2026-01-24T11:30:00.000Z",
+      "id": "4e645fee8e36f2e31da835d9218d0427"
+    },
+    {
+      "date": "Le samedi 24 janvier 2026 de  09:00:00 à  14:00:00",
+      "locality": "OYSTER BAY(RODRIGUES)",
+      "localitySlug": "oyster-bay",
+      "streets": "ACCACIA, ALLE TAMARIN ET POINTE LAGUEL",
+      "district": "rodrigues",
+      "from": "2026-01-24T05:00:00.000Z",
+      "to": "2026-01-24T10:00:00.000Z",
+      "id": "b2d6c46c0945ea0945fe023e23bc58a5"
     }
   ]
 }
