@@ -2,11 +2,18 @@
   "slug": "calodyne",
   "name": "CALODYNE",
   "district": "rivieredurempart",
-  "generated": "2026-01-22T06:02:10.151Z",
-  "outageCount": 31,
+  "generated": "2026-01-22T07:04:59.965Z",
+  "outageCount": 32,
   "firstOutage": "2022-09-10",
-  "lastOutage": "2026-01-22",
+  "lastOutage": "2026-01-25",
   "outages": [
+    {
+      "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  15:30:00",
+      "streets": "ENTIERE REGION DE CALODYNE ET ST FRANCOIS",
+      "from": "2026-01-25T04:30:00.000Z",
+      "to": "2026-01-25T11:30:00.000Z",
+      "id": "cb74dfd14a8f5e8f338a28f9167d36d1"
+    },
     {
       "date": "Le jeudi 22 janvier 2026 de  05:00:00 à  14:00:00",
       "streets": "CHEVREAUX LANE-ROYAL RD CALODYNE",

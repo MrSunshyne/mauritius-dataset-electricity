@@ -1,8 +1,8 @@
 {
   "date": "2026-01-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-22T06:02:10.077Z",
-  "outageCount": 6,
+  "generated": "2026-01-22T07:04:59.897Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  15:00:00",
@@ -45,6 +45,16 @@
       "id": "45b0fc87c1091f5857d02ca447189569"
     },
     {
+      "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  14:30:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Flat La Marquise, Flat Eight Lights et Le Camelia",
+      "district": "plainewilhems",
+      "from": "2026-01-25T04:30:00.000Z",
+      "to": "2026-01-25T10:30:00.000Z",
+      "id": "94d62a69211a217bd22ed46f01f2bc95"
+    },
+    {
       "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  15:00:00",
       "locality": "SAINTE CROIX",
       "localitySlug": "sainte-croix",
@@ -53,6 +63,36 @@
       "from": "2026-01-25T04:30:00.000Z",
       "to": "2026-01-25T11:00:00.000Z",
       "id": "c1c5d48900dc8329e6e93ab1adef82bb"
+    },
+    {
+      "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  15:30:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "MON MASCAL PETIT RAFFRAY",
+      "district": "rivieredurempart",
+      "from": "2026-01-25T04:30:00.000Z",
+      "to": "2026-01-25T11:30:00.000Z",
+      "id": "d2cf10c4916d6f4d2616a60ca4947387"
+    },
+    {
+      "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  15:30:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "20 PIED ROAD, CASASOLA NO 2, MORCELLEMENT NORLAND AND MARGEOT",
+      "district": "rivieredurempart",
+      "from": "2026-01-25T04:30:00.000Z",
+      "to": "2026-01-25T11:30:00.000Z",
+      "id": "9e214a9855a48c2b69744dfcce41f38e"
+    },
+    {
+      "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  15:30:00",
+      "locality": "CALODYNE",
+      "localitySlug": "calodyne",
+      "streets": "ENTIERE REGION DE CALODYNE ET ST FRANCOIS",
+      "district": "rivieredurempart",
+      "from": "2026-01-25T04:30:00.000Z",
+      "to": "2026-01-25T11:30:00.000Z",
+      "id": "cb74dfd14a8f5e8f338a28f9167d36d1"
     },
     {
       "date": "Le dimanche 25 janvier 2026 de  09:00:00 à  15:00:00",
