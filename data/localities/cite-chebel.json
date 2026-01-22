@@ -2,11 +2,18 @@
   "slug": "cite-chebel",
   "name": "CITE CHEBEL",
   "district": "plainewilhems",
-  "generated": "2026-01-22T14:06:50.098Z",
-  "outageCount": 28,
+  "generated": "2026-01-22T15:04:35.865Z",
+  "outageCount": 29,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-01-14",
+  "lastOutage": "2026-01-22",
   "outages": [
+    {
+      "date": "Le jeudi 22 janvier 2026 de  18:15:00 à  22:00:00",
+      "streets": "RESIDENCE TROCHETIA, KOVIL CHEBEL, PRISON RICHELIEU, CAMP BERTLOT ET DANS LES ENVIRONS DE CHEBEL BRANCH ROAD",
+      "from": "2026-01-22T14:15:00.000Z",
+      "to": "2026-01-22T18:00:00.000Z",
+      "id": "ad2481b0e606cf56eb3ba8fe9c1f824d"
+    },
     {
       "date": "Le mercredi 14 janvier 2026 de  15:20:00 à  16:30:00",
       "streets": "PILLAY ROAD, KOVIL AND SURROUNDINGS",
