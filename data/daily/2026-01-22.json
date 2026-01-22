@@ -1,8 +1,8 @@
 {
   "date": "2026-01-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-22T13:15:55.373Z",
-  "outageCount": 14,
+  "generated": "2026-01-22T14:06:49.993Z",
+  "outageCount": 15,
   "outages": [
     {
       "date": "Le jeudi 22 janvier 2026 de  08:30:00 à  16:30:00",
@@ -93,6 +93,16 @@
       "from": "2026-01-22T09:00:00.000Z",
       "to": "2026-01-22T10:15:00.000Z",
       "id": "3727b5b8a23f7cca020696c5d6225238"
+    },
+    {
+      "date": "Le jeudi 22 janvier 2026 de  17:35:00 à  20:30:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "HIGHLANDS",
+      "district": "plainewilhems",
+      "from": "2026-01-22T13:35:00.000Z",
+      "to": "2026-01-22T16:30:00.000Z",
+      "id": "07c9d929bc3dfa157bbb12b53d858740"
     },
     {
       "date": "Le jeudi 22 janvier 2026 de  09:00:00 à  13:00:00",
