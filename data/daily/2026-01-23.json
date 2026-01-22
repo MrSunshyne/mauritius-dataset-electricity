@@ -1,9 +1,19 @@
 {
   "date": "2026-01-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-22T11:02:54.879Z",
-  "outageCount": 5,
+  "generated": "2026-01-22T12:02:01.298Z",
+  "outageCount": 7,
   "outages": [
+    {
+      "date": "Le vendredi 23 janvier 2026 de  09:00:00 à  12:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "Dans les environs de Princess Anne, Prince des Galles, Simla Way, Derningham, SSS Triolet et Pointe aux Piments",
+      "district": "pamplemousses",
+      "from": "2026-01-23T05:00:00.000Z",
+      "to": "2026-01-23T08:00:00.000Z",
+      "id": "43ca65275bac9dc5dfb6ce5d52f517ef"
+    },
     {
       "date": "Le vendredi 23 janvier 2026 de  09:00:00 à  15:00:00",
       "locality": "VACOAS",
@@ -23,6 +33,16 @@
       "from": "2026-01-23T04:30:00.000Z",
       "to": "2026-01-23T12:00:00.000Z",
       "id": "34e45d040ddbb48329d1cbd1e52dbf83"
+    },
+    {
+      "date": "Le vendredi 23 janvier 2026 de  15:30:00 à  18:00:00",
+      "locality": "CASSIS",
+      "localitySlug": "cassis",
+      "streets": "DANS LES ENVIRONS DE LA RUE JEAN BAPTISTE LAMASSE",
+      "district": "portlouis",
+      "from": "2026-01-23T11:30:00.000Z",
+      "to": "2026-01-23T14:00:00.000Z",
+      "id": "0f94dc397ba7706c3c08a703f8cba15a"
     },
     {
       "date": "Le vendredi 23 janvier 2026 de  09:00:00 à  15:30:00",

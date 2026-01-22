@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-01-22T11:02:55.211Z",
-  "outageCount": 97,
+  "generated": "2026-01-22T12:02:01.641Z",
+  "outageCount": 98,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-01-20",
+  "lastOutage": "2026-01-23",
   "outages": [
+    {
+      "date": "Le vendredi 23 janvier 2026 de  09:00:00 à  12:00:00",
+      "streets": "Dans les environs de Princess Anne, Prince des Galles, Simla Way, Derningham, SSS Triolet et Pointe aux Piments",
+      "from": "2026-01-23T05:00:00.000Z",
+      "to": "2026-01-23T08:00:00.000Z",
+      "id": "43ca65275bac9dc5dfb6ce5d52f517ef"
+    },
     {
       "date": "Le mardi 20 janvier 2026 de  09:45:00 à  14:00:00",
       "streets": "BON AIR ROAD TRIOLET",

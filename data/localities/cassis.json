@@ -2,11 +2,18 @@
   "slug": "cassis",
   "name": "CASSIS",
   "district": "portlouis",
-  "generated": "2026-01-22T11:02:54.971Z",
-  "outageCount": 32,
+  "generated": "2026-01-22T12:02:01.392Z",
+  "outageCount": 33,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-01-21",
+  "lastOutage": "2026-01-23",
   "outages": [
+    {
+      "date": "Le vendredi 23 janvier 2026 de  15:30:00 à  18:00:00",
+      "streets": "DANS LES ENVIRONS DE LA RUE JEAN BAPTISTE LAMASSE",
+      "from": "2026-01-23T11:30:00.000Z",
+      "to": "2026-01-23T14:00:00.000Z",
+      "id": "0f94dc397ba7706c3c08a703f8cba15a"
+    },
     {
       "date": "Le mercredi 21 janvier 2026 de  08:50:00 à  11:00:00",
       "streets": "NEAR LEGLISE AND DRY CLEANING",
