@@ -1,9 +1,19 @@
 {
   "date": "2026-01-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-22T18:01:58.483Z",
-  "outageCount": 5,
+  "generated": "2026-01-23T06:01:54.098Z",
+  "outageCount": 7,
   "outages": [
+    {
+      "date": "Le samedi 24 janvier 2026 de  08:30:00 à  15:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "ALLEE TAMARIN, AVE VAUDAGNE, ALLEE JACQUES, AVE BOUNDARY, AVE BELLE ISLE, AVE DES MANGUIERS, AVE DE LINDEPENDENCE, WINNERS BAMBOUS, MORC BELLE ISLE OSMAN, MORC WINNERS ET UNE PARTIE DE LA BLACK RIVER ROAD BAMBOUS",
+      "district": "blackriver",
+      "from": "2026-01-24T04:30:00.000Z",
+      "to": "2026-01-24T11:30:00.000Z",
+      "id": "78120de96513a4a8bbb8cf4d95c3d612"
+    },
     {
       "date": "Le samedi 24 janvier 2026 de  08:30:00 à  17:00:00",
       "locality": "FLOREAL",
@@ -23,6 +33,16 @@
       "from": "2026-01-24T04:30:00.000Z",
       "to": "2026-01-24T12:00:00.000Z",
       "id": "b23a2e8804ac66e76accac6bef106bdb"
+    },
+    {
+      "date": "Le samedi 24 janvier 2026 de  09:00:00 à  14:00:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "Camp Mapou et les environs",
+      "district": "plainewilhems",
+      "from": "2026-01-24T05:00:00.000Z",
+      "to": "2026-01-24T10:00:00.000Z",
+      "id": "680f80225f4d63ecc80882ebb28830c3"
     },
     {
       "date": "Le samedi 24 janvier 2026 de  09:00:00 à  15:00:00",

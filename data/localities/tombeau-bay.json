@@ -2,11 +2,18 @@
   "slug": "tombeau-bay",
   "name": "TOMBEAU BAY",
   "district": "pamplemousses",
-  "generated": "2026-01-22T18:01:58.819Z",
-  "outageCount": 122,
+  "generated": "2026-01-23T06:01:54.425Z",
+  "outageCount": 123,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-01-20",
+  "lastOutage": "2026-01-23",
   "outages": [
+    {
+      "date": "Le vendredi 23 janvier 2026 de  09:50:00 à  11:00:00",
+      "streets": "ELISABETH VILLE, COMORANS, CARBES, CAPITAINES AVE, SIMLA WAY AND PART OF ROYAL ROAD",
+      "from": "2026-01-23T05:50:00.000Z",
+      "to": "2026-01-23T07:00:00.000Z",
+      "id": "4f5ebc6cee34f6f532378eb29b23d569"
+    },
     {
       "date": "Le mardi 20 janvier 2026 de  10:00:00 à  13:30:00",
       "streets": "RUE TOURTERELLE,PAILL EN QUEUE ROULLARD",

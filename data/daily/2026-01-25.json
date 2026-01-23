@@ -1,8 +1,8 @@
 {
   "date": "2026-01-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-22T18:01:58.484Z",
-  "outageCount": 11,
+  "generated": "2026-01-23T06:01:54.098Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  15:00:00",
@@ -53,6 +53,26 @@
       "from": "2026-01-25T04:30:00.000Z",
       "to": "2026-01-25T10:30:00.000Z",
       "id": "94d62a69211a217bd22ed46f01f2bc95"
+    },
+    {
+      "date": "Le dimanche 25 janvier 2026 de  12:00:00 à  16:00:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "Camp Mapou , Henrietta Village, Morcellement Seetaram, une partie de Camp-Roches, Camp Bellin No. 2 et No. 3, Cite EDC Henrietta, Camp Fidele",
+      "district": "plainewilhems",
+      "from": "2026-01-25T08:00:00.000Z",
+      "to": "2026-01-25T12:00:00.000Z",
+      "id": "ce4ea7afe9fde044d6611756d8b8eac0"
+    },
+    {
+      "date": "Le dimanche 25 janvier 2026 de  09:00:00 à  15:30:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "NSLD BOARD CASCADE ET VRS BOARD CASCADE ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2026-01-25T05:00:00.000Z",
+      "to": "2026-01-25T11:30:00.000Z",
+      "id": "db7c7a6624d96159caec8e3f2be58b3e"
     },
     {
       "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  15:00:00",

@@ -2,11 +2,18 @@
   "slug": "bambous",
   "name": "BAMBOUS",
   "district": "blackriver",
-  "generated": "2026-01-22T18:01:58.515Z",
-  "outageCount": 106,
+  "generated": "2026-01-23T06:01:54.127Z",
+  "outageCount": 107,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-01-21",
+  "lastOutage": "2026-01-24",
   "outages": [
+    {
+      "date": "Le samedi 24 janvier 2026 de  08:30:00 à  15:30:00",
+      "streets": "ALLEE TAMARIN, AVE VAUDAGNE, ALLEE JACQUES, AVE BOUNDARY, AVE BELLE ISLE, AVE DES MANGUIERS, AVE DE LINDEPENDENCE, WINNERS BAMBOUS, MORC BELLE ISLE OSMAN, MORC WINNERS ET UNE PARTIE DE LA BLACK RIVER ROAD BAMBOUS",
+      "from": "2026-01-24T04:30:00.000Z",
+      "to": "2026-01-24T11:30:00.000Z",
+      "id": "78120de96513a4a8bbb8cf4d95c3d612"
+    },
     {
       "date": "Le mercredi 21 janvier 2026 de  21:00:00 à  23:00:00",
       "streets": "PART OF BAMBOUS",

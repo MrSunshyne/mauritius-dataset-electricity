@@ -1,8 +1,8 @@
 {
   "date": "2026-01-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-22T18:01:58.483Z",
-  "outageCount": 7,
+  "generated": "2026-01-23T06:01:54.098Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le vendredi 23 janvier 2026 de  09:00:00 à  12:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-01-23T05:00:00.000Z",
       "to": "2026-01-23T08:00:00.000Z",
       "id": "43ca65275bac9dc5dfb6ce5d52f517ef"
+    },
+    {
+      "date": "Le vendredi 23 janvier 2026 de  09:50:00 à  11:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "ELISABETH VILLE, COMORANS, CARBES, CAPITAINES AVE, SIMLA WAY AND PART OF ROYAL ROAD",
+      "district": "pamplemousses",
+      "from": "2026-01-23T05:50:00.000Z",
+      "to": "2026-01-23T07:00:00.000Z",
+      "id": "4f5ebc6cee34f6f532378eb29b23d569"
     },
     {
       "date": "Le vendredi 23 janvier 2026 de  09:00:00 à  15:00:00",
