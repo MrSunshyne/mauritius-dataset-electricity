@@ -1,8 +1,8 @@
 {
   "date": "2026-01-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-23T11:02:00.641Z",
-  "outageCount": 13,
+  "generated": "2026-01-23T12:01:59.342Z",
+  "outageCount": 16,
   "outages": [
     {
       "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  15:00:00",
@@ -73,6 +73,36 @@
       "from": "2026-01-25T05:00:00.000Z",
       "to": "2026-01-25T11:30:00.000Z",
       "id": "db7c7a6624d96159caec8e3f2be58b3e"
+    },
+    {
+      "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  15:00:00",
+      "locality": "CITE BARKLY",
+      "localitySlug": "cite-barkly",
+      "streets": "Prison Beau-Bassin, Ave Jasmin, Ave Cosmos, Ave Barkly Asylum, Res. Barkly, La Rue Herchenroder, MOA Barkly, Piscine Serge Alfred, RYC, Rivet et les environs",
+      "district": "plainewilhems",
+      "from": "2026-01-25T04:30:00.000Z",
+      "to": "2026-01-25T11:00:00.000Z",
+      "id": "586c09b308ce46266ab493d58a3cc19a"
+    },
+    {
+      "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  12:00:00",
+      "locality": "MONT ROCHES",
+      "localitySlug": "mont-roches",
+      "streets": "Bakorysing, School Lane, Verge Bissambar, en partie Raymond Rivet et les environs",
+      "district": "plainewilhems",
+      "from": "2026-01-25T04:30:00.000Z",
+      "to": "2026-01-25T08:00:00.000Z",
+      "id": "adb32d97c99868402743f99da3a4e544"
+    },
+    {
+      "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  15:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave Beau Sejour, Wilson complex, Ave Colleville, en partie Ave Wilson et les environs",
+      "district": "plainewilhems",
+      "from": "2026-01-25T04:30:00.000Z",
+      "to": "2026-01-25T11:00:00.000Z",
+      "id": "f919c627218e4ca5aee5833e624a9fcc"
     },
     {
       "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  15:00:00",

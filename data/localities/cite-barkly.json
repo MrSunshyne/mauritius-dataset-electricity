@@ -2,11 +2,18 @@
   "slug": "cite-barkly",
   "name": "CITE BARKLY",
   "district": "plainewilhems",
-  "generated": "2026-01-23T11:02:00.747Z",
-  "outageCount": 2,
+  "generated": "2026-01-23T12:01:59.445Z",
+  "outageCount": 3,
   "firstOutage": "2024-01-19",
-  "lastOutage": "2024-02-20",
+  "lastOutage": "2026-01-25",
   "outages": [
+    {
+      "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  15:00:00",
+      "streets": "Prison Beau-Bassin, Ave Jasmin, Ave Cosmos, Ave Barkly Asylum, Res. Barkly, La Rue Herchenroder, MOA Barkly, Piscine Serge Alfred, RYC, Rivet et les environs",
+      "from": "2026-01-25T04:30:00.000Z",
+      "to": "2026-01-25T11:00:00.000Z",
+      "id": "586c09b308ce46266ab493d58a3cc19a"
+    },
     {
       "date": "Le mardi 20 février 2024 de  16:00:00 à  17:00:00",
       "streets": "PSSA,CWA,SERGE ALFRED POOL,MENTAL,PRISON AND NEARBY REGION",

@@ -2,11 +2,18 @@
   "slug": "coromandel-rhill",
   "name": "COROMANDEL - R.HILL",
   "district": "plainewilhems",
-  "generated": "2026-01-23T11:02:00.760Z",
-  "outageCount": 71,
+  "generated": "2026-01-23T12:01:59.457Z",
+  "outageCount": 72,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2025-12-07",
+  "lastOutage": "2026-01-24",
   "outages": [
+    {
+      "date": "Le samedi 24 janvier 2026 de  08:30:00 à  15:00:00",
+      "streets": "Pave dAmour, Ramnarain lane et les environs",
+      "from": "2026-01-24T04:30:00.000Z",
+      "to": "2026-01-24T11:00:00.000Z",
+      "id": "6a526f0b308bfdbe5c79458091a73585"
+    },
     {
       "date": "Le dimanche 7 décembre 2025 de  08:30:00 à  15:00:00",
       "streets": "en partie Ave Cerisier, Ave Balsamine, Ave Hibiscus et les environs",

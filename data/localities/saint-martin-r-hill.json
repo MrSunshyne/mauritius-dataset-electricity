@@ -2,11 +2,18 @@
   "slug": "saint-martin-r-hill",
   "name": "SAINT MARTIN R-HILL",
   "district": "plainewilhems",
-  "generated": "2026-01-23T11:02:00.961Z",
-  "outageCount": 24,
+  "generated": "2026-01-23T12:01:59.652Z",
+  "outageCount": 25,
   "firstOutage": "2022-05-28",
-  "lastOutage": "2026-01-12",
+  "lastOutage": "2026-01-24",
   "outages": [
+    {
+      "date": "Le samedi 24 janvier 2026 de  08:30:00 à  16:00:00",
+      "streets": "Jardin St Martin, Porker, Ramnarain Rd et les environs",
+      "from": "2026-01-24T04:30:00.000Z",
+      "to": "2026-01-24T12:00:00.000Z",
+      "id": "6861ef63872e974bbcc1cc6916ad11c1"
+    },
     {
       "date": "Le lundi 12 janvier 2026 de  09:30:00 à  16:30:00",
       "streets": "RAMNARAIN RD-POKER-JARDIN ST MARTIN",

@@ -2,11 +2,18 @@
   "slug": "mont-roches",
   "name": "MONT ROCHES",
   "district": "plainewilhems",
-  "generated": "2026-01-23T11:02:00.862Z",
-  "outageCount": 20,
+  "generated": "2026-01-23T12:01:59.556Z",
+  "outageCount": 21,
   "firstOutage": "2022-05-08",
-  "lastOutage": "2026-01-23",
+  "lastOutage": "2026-01-25",
   "outages": [
+    {
+      "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  12:00:00",
+      "streets": "Bakorysing, School Lane, Verge Bissambar, en partie Raymond Rivet et les environs",
+      "from": "2026-01-25T04:30:00.000Z",
+      "to": "2026-01-25T08:00:00.000Z",
+      "id": "adb32d97c99868402743f99da3a4e544"
+    },
     {
       "date": "Le vendredi 23 janvier 2026 de  14:30:00 à  16:00:00",
       "streets": "CHEMIN KANAKIAH, CHEMIN ARTHUR MAURICE ET LES ENVIRONS.",
