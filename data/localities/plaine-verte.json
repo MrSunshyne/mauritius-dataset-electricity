@@ -2,11 +2,18 @@
   "slug": "plaine-verte",
   "name": "PLAINE VERTE",
   "district": "portlouis",
-  "generated": "2026-01-23T13:14:38.658Z",
-  "outageCount": 22,
+  "generated": "2026-01-23T14:03:40.568Z",
+  "outageCount": 23,
   "firstOutage": "2022-12-21",
   "lastOutage": "2026-01-23",
   "outages": [
+    {
+      "date": "Le vendredi 23 janvier 2026 de  18:00:00 à  19:30:00",
+      "streets": "CHEMIN CANAL BATHURST AND LES RUELLES AVOISINANTES.",
+      "from": "2026-01-23T14:00:00.000Z",
+      "to": "2026-01-23T15:30:00.000Z",
+      "id": "8eb7bb1dc77170e784eeeacc45fe8436"
+    },
     {
       "date": "Le vendredi 23 janvier 2026 de  10:15:00 à  15:00:00",
       "streets": "CANAL BATHURST AND SURROUNDINGS",

@@ -1,8 +1,8 @@
 {
   "date": "2026-01-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-23T13:14:38.396Z",
-  "outageCount": 12,
+  "generated": "2026-01-23T14:03:40.310Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le vendredi 23 janvier 2026 de  09:00:00 à  12:00:00",
@@ -93,6 +93,16 @@
       "from": "2026-01-23T06:15:00.000Z",
       "to": "2026-01-23T11:00:00.000Z",
       "id": "c3fcfee9f8ca98a8eedd2af2db2e6b6d"
+    },
+    {
+      "date": "Le vendredi 23 janvier 2026 de  18:00:00 à  19:30:00",
+      "locality": "PLAINE VERTE",
+      "localitySlug": "plaine-verte",
+      "streets": "CHEMIN CANAL BATHURST AND LES RUELLES AVOISINANTES.",
+      "district": "portlouis",
+      "from": "2026-01-23T14:00:00.000Z",
+      "to": "2026-01-23T15:30:00.000Z",
+      "id": "8eb7bb1dc77170e784eeeacc45fe8436"
     },
     {
       "date": "Le vendredi 23 janvier 2026 de  09:00:00 à  15:30:00",
