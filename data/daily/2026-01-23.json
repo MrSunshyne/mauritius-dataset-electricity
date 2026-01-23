@@ -1,8 +1,8 @@
 {
   "date": "2026-01-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-23T10:01:23.072Z",
-  "outageCount": 11,
+  "generated": "2026-01-23T11:02:00.641Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le vendredi 23 janvier 2026 de  09:00:00 à  12:00:00",
@@ -63,6 +63,16 @@
       "from": "2026-01-23T07:15:00.000Z",
       "to": "2026-01-23T09:15:00.000Z",
       "id": "aa528a66413a2530907465e4631fa2b4"
+    },
+    {
+      "date": "Le vendredi 23 janvier 2026 de  14:30:00 à  16:00:00",
+      "locality": "MONT ROCHES",
+      "localitySlug": "mont-roches",
+      "streets": "CHEMIN KANAKIAH, CHEMIN ARTHUR MAURICE ET LES ENVIRONS.",
+      "district": "plainewilhems",
+      "from": "2026-01-23T10:30:00.000Z",
+      "to": "2026-01-23T12:00:00.000Z",
+      "id": "1ccf70ccb0f2c0ac6559112162b1209c"
     },
     {
       "date": "Le vendredi 23 janvier 2026 de  15:30:00 à  18:00:00",
