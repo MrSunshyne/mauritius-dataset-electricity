@@ -1,8 +1,8 @@
 {
   "date": "2026-01-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-23T06:01:54.098Z",
-  "outageCount": 8,
+  "generated": "2026-01-23T07:04:22.285Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le vendredi 23 janvier 2026 de  09:00:00 à  12:00:00",
@@ -25,6 +25,16 @@
       "id": "4f5ebc6cee34f6f532378eb29b23d569"
     },
     {
+      "date": "Le vendredi 23 janvier 2026 de  10:00:00 à  16:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "MAHATMA GANDHI ROAD AND SURROUNDINGS",
+      "district": "pamplemousses",
+      "from": "2026-01-23T06:00:00.000Z",
+      "to": "2026-01-23T12:00:00.000Z",
+      "id": "15b3e9058506e22edb4b21155e077df0"
+    },
+    {
       "date": "Le vendredi 23 janvier 2026 de  09:00:00 à  15:00:00",
       "locality": "VACOAS",
       "localitySlug": "vacoas",
@@ -45,6 +55,16 @@
       "id": "34e45d040ddbb48329d1cbd1e52dbf83"
     },
     {
+      "date": "Le vendredi 23 janvier 2026 de  11:15:00 à  13:15:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "Cremation Road,La Marie",
+      "district": "plainewilhems",
+      "from": "2026-01-23T07:15:00.000Z",
+      "to": "2026-01-23T09:15:00.000Z",
+      "id": "aa528a66413a2530907465e4631fa2b4"
+    },
+    {
       "date": "Le vendredi 23 janvier 2026 de  15:30:00 à  18:00:00",
       "locality": "CASSIS",
       "localitySlug": "cassis",
@@ -53,6 +73,16 @@
       "from": "2026-01-23T11:30:00.000Z",
       "to": "2026-01-23T14:00:00.000Z",
       "id": "0f94dc397ba7706c3c08a703f8cba15a"
+    },
+    {
+      "date": "Le vendredi 23 janvier 2026 de  10:15:00 à  15:00:00",
+      "locality": "PLAINE VERTE",
+      "localitySlug": "plaine-verte",
+      "streets": "CANAL BATHURST AND SURROUNDINGS",
+      "district": "portlouis",
+      "from": "2026-01-23T06:15:00.000Z",
+      "to": "2026-01-23T11:00:00.000Z",
+      "id": "c3fcfee9f8ca98a8eedd2af2db2e6b6d"
     },
     {
       "date": "Le vendredi 23 janvier 2026 de  09:00:00 à  15:30:00",

@@ -2,11 +2,18 @@
   "slug": "plaine-verte",
   "name": "PLAINE VERTE",
   "district": "portlouis",
-  "generated": "2026-01-23T06:01:54.351Z",
-  "outageCount": 21,
+  "generated": "2026-01-23T07:04:22.541Z",
+  "outageCount": 22,
   "firstOutage": "2022-12-21",
-  "lastOutage": "2026-01-17",
+  "lastOutage": "2026-01-23",
   "outages": [
+    {
+      "date": "Le vendredi 23 janvier 2026 de  10:15:00 à  15:00:00",
+      "streets": "CANAL BATHURST AND SURROUNDINGS",
+      "from": "2026-01-23T06:15:00.000Z",
+      "to": "2026-01-23T11:00:00.000Z",
+      "id": "c3fcfee9f8ca98a8eedd2af2db2e6b6d"
+    },
     {
       "date": "Le samedi 17 janvier 2026 de  13:15:00 à  16:30:00",
       "streets": "EN PARTIE CHEMIN BENARES, EN PARTIE RUE PAGODA, EN PARTIE CHEMIN CORPS DE GARDE, EN PARTIE ROUTE DES PAMPLEMOUSSES ET LES RUELLES AVOISINANTES.",

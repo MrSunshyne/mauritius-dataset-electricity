@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-01-23T06:01:54.430Z",
-  "outageCount": 98,
+  "generated": "2026-01-23T07:04:22.623Z",
+  "outageCount": 99,
   "firstOutage": "2022-04-08",
   "lastOutage": "2026-01-23",
   "outages": [
+    {
+      "date": "Le vendredi 23 janvier 2026 de  10:00:00 à  16:00:00",
+      "streets": "MAHATMA GANDHI ROAD AND SURROUNDINGS",
+      "from": "2026-01-23T06:00:00.000Z",
+      "to": "2026-01-23T12:00:00.000Z",
+      "id": "15b3e9058506e22edb4b21155e077df0"
+    },
     {
       "date": "Le vendredi 23 janvier 2026 de  09:00:00 à  12:00:00",
       "streets": "Dans les environs de Princess Anne, Prince des Galles, Simla Way, Derningham, SSS Triolet et Pointe aux Piments",
