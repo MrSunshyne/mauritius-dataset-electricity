@@ -1,8 +1,8 @@
 {
   "date": "2026-01-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-23T18:01:48.691Z",
-  "outageCount": 9,
+  "generated": "2026-01-24T06:01:12.732Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le samedi 24 janvier 2026 de  08:30:00 à  15:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-01-24T04:30:00.000Z",
       "to": "2026-01-24T11:30:00.000Z",
       "id": "78120de96513a4a8bbb8cf4d95c3d612"
+    },
+    {
+      "date": "Le samedi 24 janvier 2026 de  09:00:00 à  12:00:00",
+      "locality": "CLAVET",
+      "localitySlug": "clavet",
+      "streets": "PART OF CLAVET",
+      "district": "flacq",
+      "from": "2026-01-24T05:00:00.000Z",
+      "to": "2026-01-24T08:00:00.000Z",
+      "id": "ac2c2450fcd05cf14aba428e07c14bfb"
     },
     {
       "date": "Le samedi 24 janvier 2026 de  08:30:00 à  17:00:00",
