@@ -2,11 +2,18 @@
   "slug": "riviere-des-anguilles",
   "name": "RIVIERE DES ANGUILLES",
   "district": "savanne",
-  "generated": "2026-01-24T07:02:15.445Z",
-  "outageCount": 39,
+  "generated": "2026-01-24T08:01:03.776Z",
+  "outageCount": 40,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2025-12-16",
+  "lastOutage": "2026-01-24",
   "outages": [
+    {
+      "date": "Le samedi 24 janvier 2026 de  09:00:00 à  13:00:00",
+      "streets": "MORC BEL AIR NHDC RIVIERE DES ANGUILLES",
+      "from": "2026-01-24T05:00:00.000Z",
+      "to": "2026-01-24T09:00:00.000Z",
+      "id": "a0ab83dac88e7ffc1b7c77736ac0f591"
+    },
     {
       "date": "Le mardi 16 décembre 2025 de  15:30:00 à  17:30:00",
       "streets": "Riviere des Anguilles habitant dans le périmètre et les rues suivantes: quartiers Prudhomme, La Baraque Road, Railway Road et SSR Road Rivières des Anguilles",
