@@ -2,11 +2,18 @@
   "slug": "tombeau-bay",
   "name": "TOMBEAU BAY",
   "district": "pamplemousses",
-  "generated": "2026-01-24T06:01:13.062Z",
-  "outageCount": 123,
+  "generated": "2026-01-24T07:02:15.487Z",
+  "outageCount": 124,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-01-23",
+  "lastOutage": "2026-01-24",
   "outages": [
+    {
+      "date": "Le samedi 24 janvier 2026 de  10:00:00 à  11:30:00",
+      "streets": "MORC MADHOO,MACADAM,NHDC",
+      "from": "2026-01-24T06:00:00.000Z",
+      "to": "2026-01-24T07:30:00.000Z",
+      "id": "862ddd2c53f3e5850e2b282234597677"
+    },
     {
       "date": "Le vendredi 23 janvier 2026 de  09:50:00 à  11:00:00",
       "streets": "ELISABETH VILLE, COMORANS, CARBES, CAPITAINES AVE, SIMLA WAY AND PART OF ROYAL ROAD",

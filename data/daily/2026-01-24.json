@@ -1,8 +1,8 @@
 {
   "date": "2026-01-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-24T06:01:12.732Z",
-  "outageCount": 10,
+  "generated": "2026-01-24T07:02:15.147Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le samedi 24 janvier 2026 de  08:30:00 à  15:30:00",
@@ -23,6 +23,16 @@
       "from": "2026-01-24T05:00:00.000Z",
       "to": "2026-01-24T08:00:00.000Z",
       "id": "ac2c2450fcd05cf14aba428e07c14bfb"
+    },
+    {
+      "date": "Le samedi 24 janvier 2026 de  10:00:00 à  11:30:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "MORC MADHOO,MACADAM,NHDC",
+      "district": "pamplemousses",
+      "from": "2026-01-24T06:00:00.000Z",
+      "to": "2026-01-24T07:30:00.000Z",
+      "id": "862ddd2c53f3e5850e2b282234597677"
     },
     {
       "date": "Le samedi 24 janvier 2026 de  08:30:00 à  17:00:00",
