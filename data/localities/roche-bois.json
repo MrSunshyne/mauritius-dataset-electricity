@@ -2,11 +2,18 @@
   "slug": "roche-bois",
   "name": "ROCHE BOIS",
   "district": "portlouis",
-  "generated": "2026-01-24T08:01:03.781Z",
-  "outageCount": 37,
+  "generated": "2026-01-24T09:01:06.855Z",
+  "outageCount": 38,
   "firstOutage": "2022-04-30",
-  "lastOutage": "2026-01-20",
+  "lastOutage": "2026-01-24",
   "outages": [
+    {
+      "date": "Le samedi 24 janvier 2026 de  12:00:00 à  14:00:00",
+      "streets": "RUE DECARRIERE/DESPIERRE/ST MARTIN",
+      "from": "2026-01-24T08:00:00.000Z",
+      "to": "2026-01-24T10:00:00.000Z",
+      "id": "6a811d9f04b1b08cc936b967cdeb7b2c"
+    },
     {
       "date": "Le mardi 20 janvier 2026 de  15:00:00 à  18:00:00",
       "streets": "STE FAMILLE, BATTERIE CASSEE AND SURROUNDINGS",

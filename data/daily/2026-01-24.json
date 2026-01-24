@@ -1,8 +1,8 @@
 {
   "date": "2026-01-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-24T08:01:03.482Z",
-  "outageCount": 12,
+  "generated": "2026-01-24T09:01:06.552Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le samedi 24 janvier 2026 de  08:30:00 à  15:30:00",
@@ -83,6 +83,16 @@
       "from": "2026-01-24T04:30:00.000Z",
       "to": "2026-01-24T12:00:00.000Z",
       "id": "6861ef63872e974bbcc1cc6916ad11c1"
+    },
+    {
+      "date": "Le samedi 24 janvier 2026 de  12:00:00 à  14:00:00",
+      "locality": "ROCHE BOIS",
+      "localitySlug": "roche-bois",
+      "streets": "RUE DECARRIERE/DESPIERRE/ST MARTIN",
+      "district": "portlouis",
+      "from": "2026-01-24T08:00:00.000Z",
+      "to": "2026-01-24T10:00:00.000Z",
+      "id": "6a811d9f04b1b08cc936b967cdeb7b2c"
     },
     {
       "date": "Le samedi 24 janvier 2026 de  09:00:00 à  15:00:00",
