@@ -1,8 +1,8 @@
 {
   "date": "2026-01-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-24T14:01:02.481Z",
-  "outageCount": 16,
+  "generated": "2026-01-24T15:01:01.181Z",
+  "outageCount": 17,
   "outages": [
     {
       "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  15:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-01-25T04:30:00.000Z",
       "to": "2026-01-25T12:00:00.000Z",
       "id": "4b23ce7471d88e5ad0e02e6ea5b53f8f"
+    },
+    {
+      "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  15:00:00",
+      "locality": "NOUVELLE FRANCE",
+      "localitySlug": "nouvelle-france",
+      "streets": "CORIOLIS,MIDLANDS",
+      "district": "grandport",
+      "from": "2026-01-25T04:30:00.000Z",
+      "to": "2026-01-25T11:00:00.000Z",
+      "id": "9b9092164bd367904ea8e2aab39eb360"
     },
     {
       "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  17:00:00",
