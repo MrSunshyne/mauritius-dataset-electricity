@@ -1,8 +1,8 @@
 {
   "date": "2026-01-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-24T17:00:56.159Z",
-  "outageCount": 13,
+  "generated": "2026-01-24T18:01:15.424Z",
+  "outageCount": 14,
   "outages": [
     {
       "date": "Le samedi 24 janvier 2026 de  08:30:00 à  15:30:00",
@@ -33,6 +33,16 @@
       "from": "2026-01-24T06:00:00.000Z",
       "to": "2026-01-24T07:30:00.000Z",
       "id": "862ddd2c53f3e5850e2b282234597677"
+    },
+    {
+      "date": "Le samedi 24 janvier 2026 de  21:00:00 à  01:00:00",
+      "locality": "BOIS ROUGE",
+      "localitySlug": "bois-rouge",
+      "streets": "ROUTE ROYALE, DR MANILALL ET LES ENVIRONS.",
+      "district": "pamplemousses",
+      "from": "2026-01-24T17:00:00.000Z",
+      "to": "2026-01-23T21:00:00.000Z",
+      "id": "3883da405d93b1e5983fedcc1126e23d"
     },
     {
       "date": "Le samedi 24 janvier 2026 de  08:30:00 à  17:00:00",

@@ -2,11 +2,18 @@
   "slug": "bois-rouge",
   "name": "BOIS ROUGE",
   "district": "pamplemousses",
-  "generated": "2026-01-24T17:00:56.220Z",
-  "outageCount": 13,
+  "generated": "2026-01-24T18:01:15.482Z",
+  "outageCount": 14,
   "firstOutage": "2022-07-28",
-  "lastOutage": "2025-08-03",
+  "lastOutage": "2026-01-24",
   "outages": [
+    {
+      "date": "Le samedi 24 janvier 2026 de  21:00:00 à  01:00:00",
+      "streets": "ROUTE ROYALE, DR MANILALL ET LES ENVIRONS.",
+      "from": "2026-01-24T17:00:00.000Z",
+      "to": "2026-01-23T21:00:00.000Z",
+      "id": "3883da405d93b1e5983fedcc1126e23d"
+    },
     {
       "date": "Le dimanche 3 août 2025 de  20:00:00 à  01:30:00",
       "streets": "BOIS ROUGE/BEAU PLAN",
