@@ -2,11 +2,18 @@
   "slug": "la-marie",
   "name": "LA MARIE",
   "district": "plainewilhems",
-  "generated": "2026-01-25T09:01:00.067Z",
-  "outageCount": 53,
+  "generated": "2026-01-25T10:01:01.462Z",
+  "outageCount": 54,
   "firstOutage": "2022-07-07",
-  "lastOutage": "2026-01-23",
+  "lastOutage": "2026-01-25",
   "outages": [
+    {
+      "date": "Le dimanche 25 janvier 2026 de  14:00:00 à  16:00:00",
+      "streets": "BERTHAUD LANE/CYPRUS LANE",
+      "from": "2026-01-25T10:00:00.000Z",
+      "to": "2026-01-25T12:00:00.000Z",
+      "id": "aeba4fb6a37f373e702067f744f9803c"
+    },
     {
       "date": "Le vendredi 23 janvier 2026 de  11:15:00 à  13:15:00",
       "streets": "Cremation Road,La Marie",
