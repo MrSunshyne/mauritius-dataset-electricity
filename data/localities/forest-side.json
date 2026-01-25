@@ -2,11 +2,18 @@
   "slug": "forest-side",
   "name": "FOREST SIDE",
   "district": "plainewilhems",
-  "generated": "2026-01-25T14:00:57.436Z",
-  "outageCount": 93,
+  "generated": "2026-01-25T15:00:56.409Z",
+  "outageCount": 94,
   "firstOutage": "2022-07-03",
-  "lastOutage": "2026-01-18",
+  "lastOutage": "2026-01-25",
   "outages": [
+    {
+      "date": "Le dimanche 25 janvier 2026 de  18:00:00 à  20:00:00",
+      "streets": "Rues Icery,Maurice Martin,NLTA",
+      "from": "2026-01-25T14:00:00.000Z",
+      "to": "2026-01-25T16:00:00.000Z",
+      "id": "e307f55b6f88853c2978ccbee9cfd6ac"
+    },
     {
       "date": "Le dimanche 18 janvier 2026 de  08:30:00 à  16:00:00",
       "streets": "dans les périmètres et rues suivante : Résidence St Luc, Résidence Bourg, Résidence Attlee, NHDC La Colombe, NHDC Jasmin, une partie de Bonnefin Street, Morc Rogers, Morc Ramalingum, Camp Le Juge, Résidence La Brasserie et Camp Bombaye",
