@@ -2,11 +2,18 @@
   "slug": "roche-terre",
   "name": "ROCHE TERRE",
   "district": "rivieredurempart",
-  "generated": "2026-01-25T18:01:16.972Z",
-  "outageCount": 31,
+  "generated": "2026-01-26T06:02:47.164Z",
+  "outageCount": 32,
   "firstOutage": "2022-05-30",
-  "lastOutage": "2025-12-07",
+  "lastOutage": "2026-01-28",
   "outages": [
+    {
+      "date": "Le mercredi 28 janvier 2026 de  08:30:00 à  15:30:00",
+      "streets": "ENTIERE REGION DE ROCHE TERRE",
+      "from": "2026-01-28T04:30:00.000Z",
+      "to": "2026-01-28T11:30:00.000Z",
+      "id": "7faf7260cb27705d26ec2a9e47550436"
+    },
     {
       "date": "Le dimanche 7 décembre 2025 de  17:40:00 à  00:00:00",
       "streets": "Roche Terre",

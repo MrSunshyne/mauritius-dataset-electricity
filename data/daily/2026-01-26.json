@@ -1,9 +1,29 @@
 {
   "date": "2026-01-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-25T18:01:16.655Z",
-  "outageCount": 1,
+  "generated": "2026-01-26T06:02:46.857Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le lundi 26 janvier 2026 de  06:00:00 à  11:00:00",
+      "locality": "GRANDE RIVIERE SUD EST",
+      "localitySlug": "grande-riviere-sud-est",
+      "streets": "GRANDE RIVIERE SUD EST",
+      "district": "flacq",
+      "from": "2026-01-26T02:00:00.000Z",
+      "to": "2026-01-26T07:00:00.000Z",
+      "id": "e88ba0773f440897c63d970cf0ef7fb8"
+    },
+    {
+      "date": "Le lundi 26 janvier 2026 de  09:30:00 à  13:00:00",
+      "locality": "TRANQUEBAR",
+      "localitySlug": "tranquebar",
+      "streets": "G. GIQUEL ST-MAYER ST T-BAR",
+      "district": "portlouis",
+      "from": "2026-01-26T05:30:00.000Z",
+      "to": "2026-01-26T09:00:00.000Z",
+      "id": "f9b0e2bb633f6467879d5088695088e4"
+    },
     {
       "date": "Le lundi 26 janvier 2026 de  09:00:00 à  15:30:00",
       "locality": "SOUILLAC",

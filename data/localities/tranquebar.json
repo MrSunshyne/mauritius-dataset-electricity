@@ -2,11 +2,18 @@
   "slug": "tranquebar",
   "name": "TRANQUEBAR",
   "district": "portlouis",
-  "generated": "2026-01-25T18:01:17.012Z",
-  "outageCount": 18,
+  "generated": "2026-01-26T06:02:47.203Z",
+  "outageCount": 19,
   "firstOutage": "2022-06-20",
-  "lastOutage": "2025-10-15",
+  "lastOutage": "2026-01-26",
   "outages": [
+    {
+      "date": "Le lundi 26 janvier 2026 de  09:30:00 à  13:00:00",
+      "streets": "G. GIQUEL ST-MAYER ST T-BAR",
+      "from": "2026-01-26T05:30:00.000Z",
+      "to": "2026-01-26T09:00:00.000Z",
+      "id": "f9b0e2bb633f6467879d5088695088e4"
+    },
     {
       "date": "Le mercredi 15 octobre 2025 de  08:30:00 à  17:15:00",
       "streets": "DANS LES ENVIRONS DE JULES MALLAC, BATHFIELD, LANGLOIS, CREMATION ET CROWN LAND TORY, CHATEAU D-EAU.",
