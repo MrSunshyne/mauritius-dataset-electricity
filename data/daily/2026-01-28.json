@@ -1,9 +1,29 @@
 {
   "date": "2026-01-28",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-26T06:02:46.857Z",
-  "outageCount": 1,
+  "generated": "2026-01-26T07:06:27.744Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le mercredi 28 janvier 2026 de  09:00:00 à  15:00:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "dans les environs de Morcellement Manguier Royal",
+      "district": "plainewilhems",
+      "from": "2026-01-28T05:00:00.000Z",
+      "to": "2026-01-28T11:00:00.000Z",
+      "id": "330bd7010e9811cef4c4ef3f29c97438"
+    },
+    {
+      "date": "Le mercredi 28 janvier 2026 de  09:00:00 à  15:00:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "Dans les environs de Morcellement Pousson",
+      "district": "plainewilhems",
+      "from": "2026-01-28T05:00:00.000Z",
+      "to": "2026-01-28T11:00:00.000Z",
+      "id": "381d8bc14621d3739070c9db23dd8787"
+    },
     {
       "date": "Le mercredi 28 janvier 2026 de  08:30:00 à  15:30:00",
       "locality": "ROCHE TERRE",

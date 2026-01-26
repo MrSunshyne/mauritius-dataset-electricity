@@ -2,11 +2,18 @@
   "slug": "henrietta",
   "name": "HENRIETTA",
   "district": "plainewilhems",
-  "generated": "2026-01-26T06:02:47.018Z",
-  "outageCount": 76,
+  "generated": "2026-01-26T07:06:27.902Z",
+  "outageCount": 77,
   "firstOutage": "2022-07-14",
-  "lastOutage": "2026-01-25",
+  "lastOutage": "2026-01-28",
   "outages": [
+    {
+      "date": "Le mercredi 28 janvier 2026 de  09:00:00 à  15:00:00",
+      "streets": "dans les environs de Morcellement Manguier Royal",
+      "from": "2026-01-28T05:00:00.000Z",
+      "to": "2026-01-28T11:00:00.000Z",
+      "id": "330bd7010e9811cef4c4ef3f29c97438"
+    },
     {
       "date": "Le dimanche 25 janvier 2026 de  12:00:00 à  16:00:00",
       "streets": "Camp Mapou , Henrietta Village, Morcellement Seetaram, une partie de Camp-Roches, Camp Bellin No. 2 et No. 3, Cite EDC Henrietta, Camp Fidele",

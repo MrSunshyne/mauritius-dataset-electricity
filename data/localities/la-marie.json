@@ -2,11 +2,25 @@
   "slug": "la-marie",
   "name": "LA MARIE",
   "district": "plainewilhems",
-  "generated": "2026-01-26T06:02:47.037Z",
-  "outageCount": 54,
+  "generated": "2026-01-26T07:06:27.921Z",
+  "outageCount": 56,
   "firstOutage": "2022-07-07",
-  "lastOutage": "2026-01-25",
+  "lastOutage": "2026-01-28",
   "outages": [
+    {
+      "date": "Le mercredi 28 janvier 2026 de  09:00:00 à  15:00:00",
+      "streets": "Dans les environs de Morcellement Pousson",
+      "from": "2026-01-28T05:00:00.000Z",
+      "to": "2026-01-28T11:00:00.000Z",
+      "id": "381d8bc14621d3739070c9db23dd8787"
+    },
+    {
+      "date": "Le mardi 27 janvier 2026 de  09:00:00 à  15:00:00",
+      "streets": "dans les environs de Beard",
+      "from": "2026-01-27T05:00:00.000Z",
+      "to": "2026-01-27T11:00:00.000Z",
+      "id": "7bfbe9153f91f71c43fc19485d022045"
+    },
     {
       "date": "Le dimanche 25 janvier 2026 de  14:00:00 à  16:00:00",
       "streets": "BERTHAUD LANE/CYPRUS LANE",
