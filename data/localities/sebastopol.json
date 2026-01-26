@@ -2,11 +2,18 @@
   "slug": "sebastopol",
   "name": "SEBASTOPOL",
   "district": "flacq",
-  "generated": "2026-01-26T09:05:34.285Z",
-  "outageCount": 16,
+  "generated": "2026-01-26T10:02:37.966Z",
+  "outageCount": 17,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-01-16",
+  "lastOutage": "2026-01-26",
   "outages": [
+    {
+      "date": "Le lundi 26 janvier 2026 de  13:45:00 à  14:30:00",
+      "streets": "CENT GAULETTE, LESUR,  SEBASTOPOL",
+      "from": "2026-01-26T09:45:00.000Z",
+      "to": "2026-01-26T10:30:00.000Z",
+      "id": "5e4b0c8bedd3c41be55ab4983da8c3c1"
+    },
     {
       "date": "Le vendredi 16 janvier 2026 de  09:30:00 à  14:00:00",
       "streets": "dans les environs de Lesur",
