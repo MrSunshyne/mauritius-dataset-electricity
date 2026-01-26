@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-01-26T11:02:20.020Z",
-  "outageCount": 335,
+  "generated": "2026-01-26T12:02:05.911Z",
+  "outageCount": 336,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-01-25",
+  "lastOutage": "2026-01-26",
   "outages": [
+    {
+      "date": "Le lundi 26 janvier 2026 de  15:50:00 à  17:00:00",
+      "streets": "AVE SEENEEVASSEN, MARYGOLD AND SURROUNDINGS",
+      "from": "2026-01-26T11:50:00.000Z",
+      "to": "2026-01-26T13:00:00.000Z",
+      "id": "d2d62c42cf1ddab7fd110df19b2b0f9e"
+    },
     {
       "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  15:00:00",
       "streets": "Ave Beau Sejour, Wilson complex, Ave Colleville, en partie Ave Wilson et les environs",

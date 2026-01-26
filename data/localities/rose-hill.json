@@ -2,11 +2,18 @@
   "slug": "rose-hill",
   "name": "ROSE-HILL",
   "district": "plainewilhems",
-  "generated": "2026-01-26T11:02:20.048Z",
-  "outageCount": 128,
+  "generated": "2026-01-26T12:02:05.939Z",
+  "outageCount": 129,
   "firstOutage": "2022-05-20",
-  "lastOutage": "2026-01-26",
+  "lastOutage": "2026-01-28",
   "outages": [
+    {
+      "date": "Le mercredi 28 janvier 2026 de  09:00:00 à  17:00:00",
+      "streets": "NHDC Begonia, Dahlia, Eglantine, Flamboyant, Chrysantheme et les environs",
+      "from": "2026-01-28T05:00:00.000Z",
+      "to": "2026-01-28T13:00:00.000Z",
+      "id": "d819797527bd8d238ee87424e7d50619"
+    },
     {
       "date": "Le lundi 26 janvier 2026 de  13:00:00 à  14:00:00",
       "streets": "Ave G. Rozemont, Ave Panchoo, Bradshaw, Dr Ferriere et les environs",

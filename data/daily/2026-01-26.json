@@ -1,8 +1,8 @@
 {
   "date": "2026-01-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-26T11:02:19.747Z",
-  "outageCount": 7,
+  "generated": "2026-01-26T12:02:05.638Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le lundi 26 janvier 2026 de  06:00:00 à  11:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-01-26T10:30:00.000Z",
       "to": "2026-01-26T13:00:00.000Z",
       "id": "9ab9a014bea68a98d6e7159bcf1d13ef"
+    },
+    {
+      "date": "Le lundi 26 janvier 2026 de  15:50:00 à  17:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVE SEENEEVASSEN, MARYGOLD AND SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2026-01-26T11:50:00.000Z",
+      "to": "2026-01-26T13:00:00.000Z",
+      "id": "d2d62c42cf1ddab7fd110df19b2b0f9e"
     },
     {
       "date": "Le lundi 26 janvier 2026 de  09:30:00 à  13:00:00",
