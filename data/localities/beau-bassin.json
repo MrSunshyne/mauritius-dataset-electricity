@@ -2,11 +2,18 @@
   "slug": "beau-bassin",
   "name": "BEAU BASSIN",
   "district": "plainewilhems",
-  "generated": "2026-01-26T10:02:37.670Z",
-  "outageCount": 158,
+  "generated": "2026-01-26T11:02:19.781Z",
+  "outageCount": 159,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-01-21",
+  "lastOutage": "2026-01-26",
   "outages": [
+    {
+      "date": "Le lundi 26 janvier 2026 de  14:30:00 à  17:00:00",
+      "streets": "CHATEAU NEUF, DR REID TOWARDS LA CONFIANCE",
+      "from": "2026-01-26T10:30:00.000Z",
+      "to": "2026-01-26T13:00:00.000Z",
+      "id": "9ab9a014bea68a98d6e7159bcf1d13ef"
+    },
     {
       "date": "Le mercredi 21 janvier 2026 de  15:30:00 à  16:45:00",
       "streets": "HARBOUR VIEW 2, EDGAR ADOLPHE ET LES AENVIRONS, CHEMIN INTERMART ET LES ENVIRONS",

@@ -1,9 +1,19 @@
 {
   "date": "2026-01-28",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-26T10:02:37.632Z",
-  "outageCount": 3,
+  "generated": "2026-01-26T11:02:19.747Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le mercredi 28 janvier 2026 de  09:00:00 à  16:00:00",
+      "locality": "LA ROSA",
+      "localitySlug": "la-rosa",
+      "streets": "La Rosa et Gros Bois habitant dans le périmètre et les rues suivantes: Morcellement Ramsahye, Morcellement Kalimaye, Résidence Le Bosquet, Morcellement Savannah, Gros Bois Link Road La Rosa, Les Vergers de Gros Bois et Shell Pumping Station Gros Bois",
+      "district": "grandport",
+      "from": "2026-01-28T05:00:00.000Z",
+      "to": "2026-01-28T12:00:00.000Z",
+      "id": "f8034ec639189f7d832b0c3cda59c2c7"
+    },
     {
       "date": "Le mercredi 28 janvier 2026 de  09:00:00 à  15:00:00",
       "locality": "HENRIETTA",

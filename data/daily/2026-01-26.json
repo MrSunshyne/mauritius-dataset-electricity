@@ -1,8 +1,8 @@
 {
   "date": "2026-01-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-26T10:02:37.632Z",
-  "outageCount": 6,
+  "generated": "2026-01-26T11:02:19.747Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le lundi 26 janvier 2026 de  06:00:00 à  11:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-01-26T07:00:00.000Z",
       "to": "2026-01-26T09:00:00.000Z",
       "id": "f724bb55bacdfba06e9f30eb615fff75"
+    },
+    {
+      "date": "Le lundi 26 janvier 2026 de  14:30:00 à  17:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "CHATEAU NEUF, DR REID TOWARDS LA CONFIANCE",
+      "district": "plainewilhems",
+      "from": "2026-01-26T10:30:00.000Z",
+      "to": "2026-01-26T13:00:00.000Z",
+      "id": "9ab9a014bea68a98d6e7159bcf1d13ef"
     },
     {
       "date": "Le lundi 26 janvier 2026 de  09:30:00 à  13:00:00",

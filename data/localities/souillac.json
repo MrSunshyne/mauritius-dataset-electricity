@@ -2,11 +2,25 @@
   "slug": "souillac",
   "name": "SOUILLAC",
   "district": "savanne",
-  "generated": "2026-01-26T10:02:37.973Z",
-  "outageCount": 66,
+  "generated": "2026-01-26T11:02:20.068Z",
+  "outageCount": 68,
   "firstOutage": "2022-06-05",
-  "lastOutage": "2026-01-26",
+  "lastOutage": "2026-01-27",
   "outages": [
+    {
+      "date": "Le mardi 27 janvier 2026 de  15:30:00 à  18:30:00",
+      "streets": "Souillac et Morcellement Gris Gris",
+      "from": "2026-01-27T11:30:00.000Z",
+      "to": "2026-01-27T14:30:00.000Z",
+      "id": "b211037f00e46c34df612aed9d5973bd"
+    },
+    {
+      "date": "Le mardi 27 janvier 2026 de  09:00:00 à  12:00:00",
+      "streets": "Souillac et Morcellement Gris Gris",
+      "from": "2026-01-27T05:00:00.000Z",
+      "to": "2026-01-27T08:00:00.000Z",
+      "id": "5b172271e125d83865b89662411016f6"
+    },
     {
       "date": "Le lundi 26 janvier 2026 de  09:00:00 à  15:30:00",
       "streets": "Morcellement Beluga Souillac",

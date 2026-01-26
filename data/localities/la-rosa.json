@@ -2,11 +2,25 @@
   "slug": "la-rosa",
   "name": "LA ROSA",
   "district": "grandport",
-  "generated": "2026-01-26T10:02:37.818Z",
-  "outageCount": 8,
+  "generated": "2026-01-26T11:02:19.926Z",
+  "outageCount": 10,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2025-10-12",
+  "lastOutage": "2026-01-30",
   "outages": [
+    {
+      "date": "Le vendredi 30 janvier 2026 de  09:00:00 à  16:00:00",
+      "streets": "La Rosa habitant dans le périmètre et les rues suivantes: Morcellement Ramsahye, Morcellement Kalimaye, Résidence Le Bosquet, Morcellement Savannah et Gros Bois Link Road La Rosa",
+      "from": "2026-01-30T05:00:00.000Z",
+      "to": "2026-01-30T12:00:00.000Z",
+      "id": "654c8f8e5127d10b0840779406784c35"
+    },
+    {
+      "date": "Le mercredi 28 janvier 2026 de  09:00:00 à  16:00:00",
+      "streets": "La Rosa et Gros Bois habitant dans le périmètre et les rues suivantes: Morcellement Ramsahye, Morcellement Kalimaye, Résidence Le Bosquet, Morcellement Savannah, Gros Bois Link Road La Rosa, Les Vergers de Gros Bois et Shell Pumping Station Gros Bois",
+      "from": "2026-01-28T05:00:00.000Z",
+      "to": "2026-01-28T12:00:00.000Z",
+      "id": "f8034ec639189f7d832b0c3cda59c2c7"
+    },
     {
       "date": "Le dimanche 12 octobre 2025 de  09:00:00 à  17:00:00",
       "streets": "La Rosa habitant dans le périmètre et les rues suivantes : Morcellement Kalimaye, Residence Le Bosquet, Morcellment Gungah, Gros Bois Road et La Rosa Village",
