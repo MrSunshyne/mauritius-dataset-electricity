@@ -2,11 +2,18 @@
   "slug": "palma",
   "name": "PALMA",
   "district": "plainewilhems",
-  "generated": "2026-01-26T07:06:27.979Z",
-  "outageCount": 52,
+  "generated": "2026-01-26T08:01:48.993Z",
+  "outageCount": 53,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2025-11-03",
+  "lastOutage": "2026-01-26",
   "outages": [
+    {
+      "date": "Le lundi 26 janvier 2026 de  11:00:00 à  13:00:00",
+      "streets": "RTE PALMA Q BORNES",
+      "from": "2026-01-26T07:00:00.000Z",
+      "to": "2026-01-26T09:00:00.000Z",
+      "id": "f724bb55bacdfba06e9f30eb615fff75"
+    },
     {
       "date": "Le lundi 3 novembre 2025 de  09:30:00 à  12:00:00",
       "streets": "SOOBARAH LANE-NHDC PALMA",

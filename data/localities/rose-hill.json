@@ -2,11 +2,18 @@
   "slug": "rose-hill",
   "name": "ROSE-HILL",
   "district": "plainewilhems",
-  "generated": "2026-01-26T07:06:28.054Z",
-  "outageCount": 127,
+  "generated": "2026-01-26T08:01:49.060Z",
+  "outageCount": 128,
   "firstOutage": "2022-05-20",
-  "lastOutage": "2026-01-22",
+  "lastOutage": "2026-01-26",
   "outages": [
+    {
+      "date": "Le lundi 26 janvier 2026 de  13:00:00 à  14:00:00",
+      "streets": "Ave G. Rozemont, Ave Panchoo, Bradshaw, Dr Ferriere et les environs",
+      "from": "2026-01-26T09:00:00.000Z",
+      "to": "2026-01-26T10:00:00.000Z",
+      "id": "581e5367ecda7bdff28a11023169904a"
+    },
     {
       "date": "Le jeudi 22 janvier 2026 de  09:30:00 à  14:00:00",
       "streets": "Rues Edisson,Capitaine Bruce",

@@ -1,8 +1,8 @@
 {
   "date": "2026-01-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-26T07:06:27.743Z",
-  "outageCount": 3,
+  "generated": "2026-01-26T08:01:48.766Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le lundi 26 janvier 2026 de  06:00:00 à  11:00:00",
@@ -13,6 +13,26 @@
       "from": "2026-01-26T02:00:00.000Z",
       "to": "2026-01-26T07:00:00.000Z",
       "id": "e88ba0773f440897c63d970cf0ef7fb8"
+    },
+    {
+      "date": "Le lundi 26 janvier 2026 de  13:00:00 à  14:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Ave G. Rozemont, Ave Panchoo, Bradshaw, Dr Ferriere et les environs",
+      "district": "plainewilhems",
+      "from": "2026-01-26T09:00:00.000Z",
+      "to": "2026-01-26T10:00:00.000Z",
+      "id": "581e5367ecda7bdff28a11023169904a"
+    },
+    {
+      "date": "Le lundi 26 janvier 2026 de  11:00:00 à  13:00:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "RTE PALMA Q BORNES",
+      "district": "plainewilhems",
+      "from": "2026-01-26T07:00:00.000Z",
+      "to": "2026-01-26T09:00:00.000Z",
+      "id": "f724bb55bacdfba06e9f30eb615fff75"
     },
     {
       "date": "Le lundi 26 janvier 2026 de  09:30:00 à  13:00:00",
