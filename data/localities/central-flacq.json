@@ -2,11 +2,18 @@
   "slug": "central-flacq",
   "name": "CENTRAL FLACQ",
   "district": "flacq",
-  "generated": "2026-01-27T14:06:42.863Z",
-  "outageCount": 66,
+  "generated": "2026-01-27T15:05:26.513Z",
+  "outageCount": 67,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2025-11-20",
+  "lastOutage": "2026-01-27",
   "outages": [
+    {
+      "date": "Le mardi 27 janvier 2026 de  18:30:00 à  22:30:00",
+      "streets": "DOMAINE LA COLOMBE.",
+      "from": "2026-01-27T14:30:00.000Z",
+      "to": "2026-01-27T18:30:00.000Z",
+      "id": "980b995efaadb9c773b2f709eb6e7be7"
+    },
     {
       "date": "Le jeudi 20 novembre 2025 de  10:00:00 à  12:30:00",
       "streets": "LA SOURCE CENTRE DE FLACQ",
