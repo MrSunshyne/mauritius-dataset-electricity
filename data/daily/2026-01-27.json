@@ -1,8 +1,8 @@
 {
   "date": "2026-01-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-27T17:05:05.344Z",
-  "outageCount": 15,
+  "generated": "2026-01-27T18:02:53.434Z",
+  "outageCount": 16,
   "outages": [
     {
       "date": "Le mardi 27 janvier 2026 de  15:10:00 à  16:15:00",
@@ -133,6 +133,16 @@
       "from": "2026-01-27T10:00:00.000Z",
       "to": "2026-01-27T12:00:00.000Z",
       "id": "a4ad599bc5f1c3fb1c45ea46dd143168"
+    },
+    {
+      "date": "Le mardi 27 janvier 2026 de  10:15:00 à  00:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "SWAMY DAYANAND ROAD AND SURROUNDINGS",
+      "district": "rivieredurempart",
+      "from": "2026-01-27T06:15:00.000Z",
+      "to": "2026-01-26T20:00:00.000Z",
+      "id": "cb7e1ea87e005aaa5c4aaf08fe34896d"
     },
     {
       "date": "Le mardi 27 janvier 2026 de  15:30:00 à  18:30:00",
