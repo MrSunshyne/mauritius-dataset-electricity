@@ -1,8 +1,8 @@
 {
   "date": "2026-01-28",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-27T09:05:25.589Z",
-  "outageCount": 5,
+  "generated": "2026-01-27T10:02:24.101Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le mercredi 28 janvier 2026 de  09:00:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-01-28T05:00:00.000Z",
       "to": "2026-01-28T12:00:00.000Z",
       "id": "f8034ec639189f7d832b0c3cda59c2c7"
+    },
+    {
+      "date": "Le mercredi 28 janvier 2026 de  08:30:00 à  14:00:00",
+      "locality": "SOLITUDE",
+      "localitySlug": "solitude",
+      "streets": "Dans les environs de Kovil Solitude et Filling Total et Route Royal",
+      "district": "pamplemousses",
+      "from": "2026-01-28T04:30:00.000Z",
+      "to": "2026-01-28T10:00:00.000Z",
+      "id": "494bd59820d08acd16d04ac0b687d625"
     },
     {
       "date": "Le mercredi 28 janvier 2026 de  09:00:00 à  15:00:00",

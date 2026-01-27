@@ -1,8 +1,8 @@
 {
   "date": "2026-01-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-27T09:05:25.589Z",
-  "outageCount": 8,
+  "generated": "2026-01-27T10:02:24.101Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le mardi 27 janvier 2026 de  10:30:00 à  11:15:00",
@@ -63,6 +63,16 @@
       "from": "2026-01-27T06:45:00.000Z",
       "to": "2026-01-27T07:45:00.000Z",
       "id": "89068eef4f5310e12d710c6ba0540f67"
+    },
+    {
+      "date": "Le mardi 27 janvier 2026 de  14:00:00 à  16:00:00",
+      "locality": "ROCHES NOIRES",
+      "localitySlug": "roches-noires",
+      "streets": "SIDING ROAD, BRANCH ROAD ET LES ENVIRONS.",
+      "district": "rivieredurempart",
+      "from": "2026-01-27T10:00:00.000Z",
+      "to": "2026-01-27T12:00:00.000Z",
+      "id": "a4ad599bc5f1c3fb1c45ea46dd143168"
     },
     {
       "date": "Le mardi 27 janvier 2026 de  15:30:00 à  18:30:00",
