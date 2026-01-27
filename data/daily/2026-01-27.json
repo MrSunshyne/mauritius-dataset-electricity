@@ -1,8 +1,8 @@
 {
   "date": "2026-01-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-27T16:02:41.962Z",
-  "outageCount": 14,
+  "generated": "2026-01-27T17:05:05.344Z",
+  "outageCount": 15,
   "outages": [
     {
       "date": "Le mardi 27 janvier 2026 de  15:10:00 à  16:15:00",
@@ -63,6 +63,16 @@
       "from": "2026-01-27T11:00:00.000Z",
       "to": "2026-01-27T13:00:00.000Z",
       "id": "9eb59e51bf47b60f48810b2eeaefb9ac"
+    },
+    {
+      "date": "Le mardi 27 janvier 2026 de  20:50:00 à  22:30:00",
+      "locality": "CALEBASSES",
+      "localitySlug": "calebasses",
+      "streets": "BADAMIER RD-DHANILALLRD CALBASSES",
+      "district": "pamplemousses",
+      "from": "2026-01-27T16:50:00.000Z",
+      "to": "2026-01-27T18:30:00.000Z",
+      "id": "9e3aaf345c41737d0e18e9094946432e"
     },
     {
       "date": "Le mardi 27 janvier 2026 de  09:00:00 à  15:00:00",

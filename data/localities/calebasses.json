@@ -2,11 +2,18 @@
   "slug": "calebasses",
   "name": "CALEBASSES",
   "district": "pamplemousses",
-  "generated": "2026-01-27T16:02:42.030Z",
-  "outageCount": 29,
+  "generated": "2026-01-27T17:05:05.413Z",
+  "outageCount": 30,
   "firstOutage": "2022-05-15",
-  "lastOutage": "2025-10-30",
+  "lastOutage": "2026-01-27",
   "outages": [
+    {
+      "date": "Le mardi 27 janvier 2026 de  20:50:00 à  22:30:00",
+      "streets": "BADAMIER RD-DHANILALLRD CALBASSES",
+      "from": "2026-01-27T16:50:00.000Z",
+      "to": "2026-01-27T18:30:00.000Z",
+      "id": "9e3aaf345c41737d0e18e9094946432e"
+    },
     {
       "date": "Le jeudi 30 octobre 2025 de  06:00:00 à  20:00:00",
       "streets": "PIN POINT COMPLEX, CHEMIN VERDUN, MOTORWAY EN DIRECTION CALEBASSES ET EN PARTIE CALEBASSES.",
