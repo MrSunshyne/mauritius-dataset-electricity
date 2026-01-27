@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-27T06:02:04.738Z",
+  "generated": "2026-01-27T07:05:35.788Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -205,10 +205,10 @@
       "slug": "balisson",
       "name": "BALISSON",
       "district": "grandport",
-      "outageCount": 7,
+      "outageCount": 8,
       "file": "balisson.json",
       "firstOutage": "2022-03-22",
-      "lastOutage": "2025-07-15"
+      "lastOutage": "2026-01-27"
     },
     {
       "slug": "bambous",
@@ -700,10 +700,10 @@
       "slug": "camp-chapelon",
       "name": "CAMP CHAPELON",
       "district": "portlouis",
-      "outageCount": 4,
+      "outageCount": 5,
       "file": "camp-chapelon.json",
       "firstOutage": "2022-03-16",
-      "lastOutage": "2026-01-15"
+      "lastOutage": "2026-01-27"
     },
     {
       "slug": "camp-de-masque",
@@ -4030,10 +4030,10 @@
       "slug": "vallee-pitot",
       "name": "VALLEE PITOT",
       "district": "portlouis",
-      "outageCount": 31,
+      "outageCount": 32,
       "file": "vallee-pitot.json",
       "firstOutage": "2022-04-01",
-      "lastOutage": "2025-12-20"
+      "lastOutage": "2026-01-27"
     },
     {
       "slug": "valton",

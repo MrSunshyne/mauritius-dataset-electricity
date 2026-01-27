@@ -2,11 +2,18 @@
   "slug": "vallee-pitot",
   "name": "VALLEE PITOT",
   "district": "portlouis",
-  "generated": "2026-01-27T06:02:04.730Z",
-  "outageCount": 31,
+  "generated": "2026-01-27T07:05:35.780Z",
+  "outageCount": 32,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2025-12-20",
+  "lastOutage": "2026-01-27",
   "outages": [
+    {
+      "date": "Le mardi 27 janvier 2026 de  10:50:00 à  12:30:00",
+      "streets": "CHALET ST, EID GAH ST, ALMA ST ET LES ALENTOURS",
+      "from": "2026-01-27T06:50:00.000Z",
+      "to": "2026-01-27T08:30:00.000Z",
+      "id": "525764db1bbb0aa779ba54033d2752a2"
+    },
     {
       "date": "Le samedi 20 décembre 2025 de  06:50:00 à  12:00:00",
       "streets": "RUE CHALET ET LES ALENTOURS",

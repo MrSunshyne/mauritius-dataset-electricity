@@ -2,11 +2,18 @@
   "slug": "camp-chapelon",
   "name": "CAMP CHAPELON",
   "district": "portlouis",
-  "generated": "2026-01-27T06:02:04.439Z",
-  "outageCount": 4,
+  "generated": "2026-01-27T07:05:35.495Z",
+  "outageCount": 5,
   "firstOutage": "2022-03-16",
-  "lastOutage": "2026-01-15",
+  "lastOutage": "2026-01-27",
   "outages": [
+    {
+      "date": "Le mardi 27 janvier 2026 de  10:45:00 à  11:45:00",
+      "streets": "CAMP CHAPELON",
+      "from": "2026-01-27T06:45:00.000Z",
+      "to": "2026-01-27T07:45:00.000Z",
+      "id": "89068eef4f5310e12d710c6ba0540f67"
+    },
     {
       "date": "Le jeudi 15 janvier 2026 de  16:05:00 à  19:00:00",
       "streets": "EN PARTIE CAMP CHAPELON, PAILLES ROAD, BATA ET ISLAND ICE COROMANDEL.",

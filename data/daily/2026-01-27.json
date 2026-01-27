@@ -1,9 +1,19 @@
 {
   "date": "2026-01-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-27T06:02:04.370Z",
-  "outageCount": 3,
+  "generated": "2026-01-27T07:05:35.419Z",
+  "outageCount": 6,
   "outages": [
+    {
+      "date": "Le mardi 27 janvier 2026 de  10:30:00 à  11:15:00",
+      "locality": "BALISSON",
+      "localitySlug": "balisson",
+      "streets": "BALISSON",
+      "district": "grandport",
+      "from": "2026-01-27T06:30:00.000Z",
+      "to": "2026-01-27T07:15:00.000Z",
+      "id": "b4d4c587cc35d6a6aa2fe402bcd3ba33"
+    },
     {
       "date": "Le mardi 27 janvier 2026 de  09:00:00 à  15:00:00",
       "locality": "LA MARIE",
@@ -13,6 +23,26 @@
       "from": "2026-01-27T05:00:00.000Z",
       "to": "2026-01-27T11:00:00.000Z",
       "id": "7bfbe9153f91f71c43fc19485d022045"
+    },
+    {
+      "date": "Le mardi 27 janvier 2026 de  10:50:00 à  12:30:00",
+      "locality": "VALLEE PITOT",
+      "localitySlug": "vallee-pitot",
+      "streets": "CHALET ST, EID GAH ST, ALMA ST ET LES ALENTOURS",
+      "district": "portlouis",
+      "from": "2026-01-27T06:50:00.000Z",
+      "to": "2026-01-27T08:30:00.000Z",
+      "id": "525764db1bbb0aa779ba54033d2752a2"
+    },
+    {
+      "date": "Le mardi 27 janvier 2026 de  10:45:00 à  11:45:00",
+      "locality": "CAMP CHAPELON",
+      "localitySlug": "camp-chapelon",
+      "streets": "CAMP CHAPELON",
+      "district": "portlouis",
+      "from": "2026-01-27T06:45:00.000Z",
+      "to": "2026-01-27T07:45:00.000Z",
+      "id": "89068eef4f5310e12d710c6ba0540f67"
     },
     {
       "date": "Le mardi 27 janvier 2026 de  15:30:00 à  18:30:00",
