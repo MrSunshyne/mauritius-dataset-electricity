@@ -2,11 +2,18 @@
   "slug": "notre-dame",
   "name": "NOTRE DAME",
   "district": "pamplemousses",
-  "generated": "2026-01-27T10:02:24.332Z",
-  "outageCount": 33,
+  "generated": "2026-01-27T11:03:09.447Z",
+  "outageCount": 34,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2025-12-10",
+  "lastOutage": "2026-01-27",
   "outages": [
+    {
+      "date": "Le mardi 27 janvier 2026 de  15:00:00 à  17:00:00",
+      "streets": "NOORANI SIDDIQUI LANE, DANS LES ENVIRONS NHDC.",
+      "from": "2026-01-27T11:00:00.000Z",
+      "to": "2026-01-27T13:00:00.000Z",
+      "id": "9eb59e51bf47b60f48810b2eeaefb9ac"
+    },
     {
       "date": "Le mercredi 10 décembre 2025 de  13:40:00 à  15:30:00",
       "streets": "DUCRAY ROAD EN DIRECTION MONTAGNE.",

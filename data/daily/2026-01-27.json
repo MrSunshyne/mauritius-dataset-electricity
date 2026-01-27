@@ -1,8 +1,8 @@
 {
   "date": "2026-01-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-27T10:02:24.101Z",
-  "outageCount": 9,
+  "generated": "2026-01-27T11:03:09.215Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le mardi 27 janvier 2026 de  10:30:00 à  11:15:00",
@@ -25,6 +25,16 @@
       "id": "da2d3e65c85bd5613ef9de1556042469"
     },
     {
+      "date": "Le mardi 27 janvier 2026 de  15:00:00 à  17:00:00",
+      "locality": "NOTRE DAME",
+      "localitySlug": "notre-dame",
+      "streets": "NOORANI SIDDIQUI LANE, DANS LES ENVIRONS NHDC.",
+      "district": "pamplemousses",
+      "from": "2026-01-27T11:00:00.000Z",
+      "to": "2026-01-27T13:00:00.000Z",
+      "id": "9eb59e51bf47b60f48810b2eeaefb9ac"
+    },
+    {
       "date": "Le mardi 27 janvier 2026 de  09:00:00 à  15:00:00",
       "locality": "LA MARIE",
       "localitySlug": "la-marie",
@@ -35,14 +45,24 @@
       "id": "7bfbe9153f91f71c43fc19485d022045"
     },
     {
-      "date": "Le mardi 27 janvier 2026 de  11:10:00 à  14:00:00",
+      "date": "Le mardi 27 janvier 2026 de  11:10:00 à  15:15:00",
       "locality": "ROSE-HILL",
       "localitySlug": "rose-hill",
       "streets": "AVE GUY ROSEMON, DR FERRIERE, GUJADHUR ST ET LES ALENTOURS",
       "district": "plainewilhems",
       "from": "2026-01-27T07:10:00.000Z",
-      "to": "2026-01-27T10:00:00.000Z",
-      "id": "fee3d73c5b2e3e0cc0773c505f83de9d"
+      "to": "2026-01-27T11:15:00.000Z",
+      "id": "bfbd4689532efd129cc395e579435442"
+    },
+    {
+      "date": "Le mardi 27 janvier 2026 de  15:30:00 à  17:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Ave G. Rozemont, Ave Panchoo, Bradshaw, Dr Ferriere et les environs",
+      "district": "plainewilhems",
+      "from": "2026-01-27T11:30:00.000Z",
+      "to": "2026-01-27T13:00:00.000Z",
+      "id": "c22398e47c60d89ef048e2745dc4ac5f"
     },
     {
       "date": "Le mardi 27 janvier 2026 de  10:50:00 à  12:30:00",

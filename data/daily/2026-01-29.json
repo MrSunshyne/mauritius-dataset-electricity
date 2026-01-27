@@ -1,8 +1,8 @@
 {
   "date": "2026-01-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-27T10:02:24.101Z",
-  "outageCount": 3,
+  "generated": "2026-01-27T11:03:09.215Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le jeudi 29 janvier 2026 de  08:30:00 à  15:30:00",
@@ -23,6 +23,16 @@
       "from": "2026-01-29T04:30:00.000Z",
       "to": "2026-01-29T11:30:00.000Z",
       "id": "822893e8ea87da58bba67beed2fe19d1"
+    },
+    {
+      "date": "Le jeudi 29 janvier 2026 de  09:00:00 à  17:30:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Hajee Alaman, en partie Ave Pigeot, Adolphe de Plevitz, Separation, Quorum Plaisance et les environs",
+      "district": "plainewilhems",
+      "from": "2026-01-29T05:00:00.000Z",
+      "to": "2026-01-29T13:30:00.000Z",
+      "id": "10c958f058a9903a3f04093ceb157795"
     },
     {
       "date": "Le jeudi 29 janvier 2026 de  09:00:00 à  15:30:00",
