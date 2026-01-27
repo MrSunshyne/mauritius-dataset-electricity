@@ -2,11 +2,18 @@
   "slug": "16eme-mile",
   "name": "16EME MILE",
   "district": "plainewilhems",
-  "generated": "2026-01-26T18:02:07.456Z",
-  "outageCount": 50,
+  "generated": "2026-01-27T06:02:04.380Z",
+  "outageCount": 51,
   "firstOutage": "2022-05-31",
-  "lastOutage": "2026-01-25",
+  "lastOutage": "2026-01-29",
   "outages": [
+    {
+      "date": "Le jeudi 29 janvier 2026 de  08:30:00 à  15:30:00",
+      "streets": "ENTIERE REGION DE ROCHES NOIRES",
+      "from": "2026-01-29T04:30:00.000Z",
+      "to": "2026-01-29T11:30:00.000Z",
+      "id": "822893e8ea87da58bba67beed2fe19d1"
+    },
     {
       "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  15:30:00",
       "streets": "dans les périmètres et rues suivante : Village de 16eme Mille, Residence Anoushka et Morcellement Domah",

@@ -1,9 +1,29 @@
 {
   "date": "2026-01-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-26T18:02:07.444Z",
-  "outageCount": 1,
+  "generated": "2026-01-27T06:02:04.370Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le jeudi 29 janvier 2026 de  08:30:00 à  15:30:00",
+      "locality": "POSTE LAFAYETTE",
+      "localitySlug": "poste-lafayette",
+      "streets": "ENIERE REGION DE POSTE LA FAYETTE",
+      "district": "flacq",
+      "from": "2026-01-29T04:30:00.000Z",
+      "to": "2026-01-29T11:30:00.000Z",
+      "id": "6631f328d9f7432567b4ca2d8618b3af"
+    },
+    {
+      "date": "Le jeudi 29 janvier 2026 de  08:30:00 à  15:30:00",
+      "locality": "16EME MILE",
+      "localitySlug": "16eme-mile",
+      "streets": "ENTIERE REGION DE ROCHES NOIRES",
+      "district": "plainewilhems",
+      "from": "2026-01-29T04:30:00.000Z",
+      "to": "2026-01-29T11:30:00.000Z",
+      "id": "822893e8ea87da58bba67beed2fe19d1"
+    },
     {
       "date": "Le jeudi 29 janvier 2026 de  09:00:00 à  15:30:00",
       "locality": "CHEMIN GRENIER",
