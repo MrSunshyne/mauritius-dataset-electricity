@@ -1,9 +1,19 @@
 {
   "date": "2026-01-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-27T11:03:09.215Z",
-  "outageCount": 11,
+  "generated": "2026-01-27T12:01:58.126Z",
+  "outageCount": 12,
   "outages": [
+    {
+      "date": "Le mardi 27 janvier 2026 de  15:10:00 à  16:15:00",
+      "locality": "GROS CAILLOUX",
+      "localitySlug": "gros-cailloux",
+      "streets": "ROUTE ROYALE MORC DOMAH DANS LES ENVIRONS QUALITY DECOR.",
+      "district": "blackriver",
+      "from": "2026-01-27T11:10:00.000Z",
+      "to": "2026-01-27T12:15:00.000Z",
+      "id": "22082184f2033848445a851bc16684c4"
+    },
     {
       "date": "Le mardi 27 janvier 2026 de  10:30:00 à  11:15:00",
       "locality": "BALISSON",

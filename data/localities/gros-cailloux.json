@@ -2,11 +2,18 @@
   "slug": "gros-cailloux",
   "name": "GROS CAILLOUX",
   "district": "blackriver",
-  "generated": "2026-01-27T11:03:09.375Z",
-  "outageCount": 22,
+  "generated": "2026-01-27T12:01:58.291Z",
+  "outageCount": 23,
   "firstOutage": "2022-06-05",
-  "lastOutage": "2026-01-18",
+  "lastOutage": "2026-01-27",
   "outages": [
+    {
+      "date": "Le mardi 27 janvier 2026 de  15:10:00 à  16:15:00",
+      "streets": "ROUTE ROYALE MORC DOMAH DANS LES ENVIRONS QUALITY DECOR.",
+      "from": "2026-01-27T11:10:00.000Z",
+      "to": "2026-01-27T12:15:00.000Z",
+      "id": "22082184f2033848445a851bc16684c4"
+    },
     {
       "date": "Le dimanche 18 janvier 2026 de  08:30:00 à  15:00:00",
       "streets": "Allee Manguiers, Allee Roussaille, La Source Lane, Jugessur Lane, Jagatsing Lane, Impasse Juggoo, Bosquet Rd, Sophie Lane, Espace Jardin, Quality Decor, Morc Domah et les environs",

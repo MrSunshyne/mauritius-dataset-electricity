@@ -1,8 +1,8 @@
 {
   "date": "2026-01-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-27T11:03:09.215Z",
-  "outageCount": 4,
+  "generated": "2026-01-27T12:01:58.126Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le jeudi 29 janvier 2026 de  08:30:00 à  15:30:00",
@@ -33,6 +33,16 @@
       "from": "2026-01-29T05:00:00.000Z",
       "to": "2026-01-29T13:30:00.000Z",
       "id": "10c958f058a9903a3f04093ceb157795"
+    },
+    {
+      "date": "Le jeudi 29 janvier 2026 de  08:30:00 à  15:30:00",
+      "locality": "ROCHES NOIRES",
+      "localitySlug": "roches-noires",
+      "streets": "ENTIERE REGION DE ROCHES NOIRES",
+      "district": "rivieredurempart",
+      "from": "2026-01-29T04:30:00.000Z",
+      "to": "2026-01-29T11:30:00.000Z",
+      "id": "b60b3b073b6c2944979c62d791866925"
     },
     {
       "date": "Le jeudi 29 janvier 2026 de  09:00:00 à  15:30:00",
