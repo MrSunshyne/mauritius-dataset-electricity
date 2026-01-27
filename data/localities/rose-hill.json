@@ -2,8 +2,8 @@
   "slug": "rose-hill",
   "name": "ROSE-HILL",
   "district": "plainewilhems",
-  "generated": "2026-01-27T07:05:35.734Z",
-  "outageCount": 129,
+  "generated": "2026-01-27T08:01:27.680Z",
+  "outageCount": 130,
   "firstOutage": "2022-05-20",
   "lastOutage": "2026-01-28",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-01-28T05:00:00.000Z",
       "to": "2026-01-28T13:00:00.000Z",
       "id": "d819797527bd8d238ee87424e7d50619"
+    },
+    {
+      "date": "Le mardi 27 janvier 2026 de  11:10:00 à  14:00:00",
+      "streets": "AVE GUY ROSEMON, DR FERRIERE, GUJADHUR ST ET LES ALENTOURS",
+      "from": "2026-01-27T07:10:00.000Z",
+      "to": "2026-01-27T10:00:00.000Z",
+      "id": "fee3d73c5b2e3e0cc0773c505f83de9d"
     },
     {
       "date": "Le lundi 26 janvier 2026 de  13:00:00 à  14:00:00",
