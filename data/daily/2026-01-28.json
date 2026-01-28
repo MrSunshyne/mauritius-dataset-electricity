@@ -1,8 +1,8 @@
 {
   "date": "2026-01-28",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-28T08:01:55.369Z",
-  "outageCount": 12,
+  "generated": "2026-01-28T09:06:05.802Z",
+  "outageCount": 14,
   "outages": [
     {
       "date": "Le mercredi 28 janvier 2026 de  09:00:00 à  16:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-01-28T03:35:00.000Z",
       "to": "2026-01-28T04:45:00.000Z",
       "id": "6092d9d566d268447e82bfb58c5970da"
+    },
+    {
+      "date": "Le mercredi 28 janvier 2026 de  12:45:00 à  15:00:00",
+      "locality": "UNION PARK",
+      "localitySlug": "union-park",
+      "streets": "Union Park,Part Nouvelle France",
+      "district": "grandport",
+      "from": "2026-01-28T08:45:00.000Z",
+      "to": "2026-01-28T11:00:00.000Z",
+      "id": "36584715679575a855ec312c82576fd4"
     },
     {
       "date": "Le mercredi 28 janvier 2026 de  08:30:00 à  14:00:00",
@@ -103,6 +113,16 @@
       "from": "2026-01-28T10:30:00.000Z",
       "to": "2026-01-28T11:30:00.000Z",
       "id": "9b1273881ae6c455aaeab590a07494f2"
+    },
+    {
+      "date": "Le mercredi 28 janvier 2026 de  12:15:00 à  13:15:00",
+      "locality": "CITE MALHERBES",
+      "localitySlug": "cite-malherbes",
+      "streets": "MALHERBES",
+      "district": "plainewilhems",
+      "from": "2026-01-28T08:15:00.000Z",
+      "to": "2026-01-28T09:15:00.000Z",
+      "id": "a5aeb90c00e13ffc34c28b9cf87786d3"
     },
     {
       "date": "Le mercredi 28 janvier 2026 de  09:30:00 à  10:45:00",

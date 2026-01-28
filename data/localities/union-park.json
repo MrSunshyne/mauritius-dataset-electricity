@@ -2,11 +2,18 @@
   "slug": "union-park",
   "name": "UNION PARK",
   "district": "grandport",
-  "generated": "2026-01-28T08:01:55.734Z",
-  "outageCount": 28,
+  "generated": "2026-01-28T09:06:06.148Z",
+  "outageCount": 29,
   "firstOutage": "2022-03-28",
-  "lastOutage": "2026-01-19",
+  "lastOutage": "2026-01-28",
   "outages": [
+    {
+      "date": "Le mercredi 28 janvier 2026 de  12:45:00 à  15:00:00",
+      "streets": "Union Park,Part Nouvelle France",
+      "from": "2026-01-28T08:45:00.000Z",
+      "to": "2026-01-28T11:00:00.000Z",
+      "id": "36584715679575a855ec312c82576fd4"
+    },
     {
       "date": "Le lundi 19 janvier 2026 de  10:00:00 à  12:00:00",
       "streets": "CHEMIN LACHEMINEE UNION PARK",
