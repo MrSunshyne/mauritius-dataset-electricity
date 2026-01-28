@@ -2,11 +2,18 @@
   "slug": "nouvelle-france",
   "name": "NOUVELLE FRANCE",
   "district": "grandport",
-  "generated": "2026-01-28T10:02:50.676Z",
-  "outageCount": 34,
+  "generated": "2026-01-28T11:03:25.768Z",
+  "outageCount": 35,
   "firstOutage": "2022-05-12",
-  "lastOutage": "2026-01-25",
+  "lastOutage": "2026-02-01",
   "outages": [
+    {
+      "date": "Le dimanche 1 février 2026 de  08:30:00 à  16:00:00",
+      "streets": "Beemanique et Motorway Nouvelle France habitant dans le périmètre et les rues suivantes: Zone Industriel Beemanique et une partie d’Autoroute Nouvelle France",
+      "from": "2026-02-01T04:30:00.000Z",
+      "to": "2026-02-01T12:00:00.000Z",
+      "id": "a2aae2b13717827811a521129c925433"
+    },
     {
       "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  15:00:00",
       "streets": "CORIOLIS,MIDLANDS",

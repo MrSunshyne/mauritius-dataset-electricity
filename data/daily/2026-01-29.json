@@ -1,8 +1,8 @@
 {
   "date": "2026-01-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-28T10:02:50.444Z",
-  "outageCount": 6,
+  "generated": "2026-01-28T11:03:25.525Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le jeudi 29 janvier 2026 de  08:30:00 à  15:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-01-29T04:30:00.000Z",
       "to": "2026-01-29T11:30:00.000Z",
       "id": "6631f328d9f7432567b4ca2d8618b3af"
+    },
+    {
+      "date": "Le jeudi 29 janvier 2026 de  08:30:00 à  16:00:00",
+      "locality": "MARE TABAC",
+      "localitySlug": "mare-tabac",
+      "streets": "Le village de Mare Tabac",
+      "district": "grandport",
+      "from": "2026-01-29T04:30:00.000Z",
+      "to": "2026-01-29T12:00:00.000Z",
+      "id": "073cd94de1cbc961b5c2af27882dae73"
     },
     {
       "date": "Le jeudi 29 janvier 2026 de  08:30:00 à  15:30:00",
