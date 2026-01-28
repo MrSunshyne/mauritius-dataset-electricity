@@ -2,11 +2,18 @@
   "slug": "pointe-aux-sables",
   "name": "POINTE AUX SABLES",
   "district": "portlouis",
-  "generated": "2026-01-27T18:02:53.704Z",
-  "outageCount": 125,
+  "generated": "2026-01-28T06:02:36.398Z",
+  "outageCount": 126,
   "firstOutage": "2022-03-30",
-  "lastOutage": "2026-01-17",
+  "lastOutage": "2026-01-28",
   "outages": [
+    {
+      "date": "Le mercredi 28 janvier 2026 de  09:30:00 à  10:45:00",
+      "streets": "MORC ILLOIS",
+      "from": "2026-01-28T05:30:00.000Z",
+      "to": "2026-01-28T06:45:00.000Z",
+      "id": "8b788af6a734787e776ed5e369156562"
+    },
     {
       "date": "Le samedi 17 janvier 2026 de  14:45:00 à  18:00:00",
       "streets": "Morc Ghurburrun,Petit Verger Pointe aux Sables",

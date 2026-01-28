@@ -2,11 +2,18 @@
   "slug": "petit-bel-air",
   "name": "PETIT BEL AIR",
   "district": "grandport",
-  "generated": "2026-01-27T18:02:53.681Z",
-  "outageCount": 6,
+  "generated": "2026-01-28T06:02:36.374Z",
+  "outageCount": 7,
   "firstOutage": "2022-08-12",
-  "lastOutage": "2024-10-28",
+  "lastOutage": "2026-01-28",
   "outages": [
+    {
+      "date": "Le mercredi 28 janvier 2026 de  07:35:00 à  08:45:00",
+      "streets": "EN PARTIE PETIT BEL AIR",
+      "from": "2026-01-28T03:35:00.000Z",
+      "to": "2026-01-28T04:45:00.000Z",
+      "id": "6092d9d566d268447e82bfb58c5970da"
+    },
     {
       "date": "Le lundi 28 octobre 2024 de  09:00:00 à  15:00:00",
       "streets": "Village de Petit Bel Air et en partie de Ville Noir",

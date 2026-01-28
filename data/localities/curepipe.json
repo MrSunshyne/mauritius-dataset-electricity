@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-01-27T18:02:53.560Z",
-  "outageCount": 197,
+  "generated": "2026-01-28T06:02:36.248Z",
+  "outageCount": 198,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-01-25",
+  "lastOutage": "2026-01-28",
   "outages": [
+    {
+      "date": "Le mercredi 28 janvier 2026 de  12:00:00 à  13:30:00",
+      "streets": "RUE LEES JUSQUA MALHERBES, RUE LA CROIX ET LES ALENTOURS",
+      "from": "2026-01-28T08:00:00.000Z",
+      "to": "2026-01-28T09:30:00.000Z",
+      "id": "4a60d62777efe68dbd966a42ab6ae9f0"
+    },
     {
       "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  14:30:00",
       "streets": "Flat La Marquise, Flat Eight Lights et Le Camelia",

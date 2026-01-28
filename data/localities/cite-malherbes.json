@@ -2,11 +2,18 @@
   "slug": "cite-malherbes",
   "name": "CITE MALHERBES",
   "district": "plainewilhems",
-  "generated": "2026-01-27T18:02:53.546Z",
-  "outageCount": 9,
+  "generated": "2026-01-28T06:02:36.233Z",
+  "outageCount": 10,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2025-07-20",
+  "lastOutage": "2026-01-28",
   "outages": [
+    {
+      "date": "Le mercredi 28 janvier 2026 de  09:10:00 à  10:10:00",
+      "streets": "MALHERBES",
+      "from": "2026-01-28T05:10:00.000Z",
+      "to": "2026-01-28T06:10:00.000Z",
+      "id": "9b3fe8fcb5ad30d0805b1955e3bc1bde"
+    },
     {
       "date": "Le dimanche 20 juillet 2025 de  08:30:00 à  16:00:00",
       "streets": "dans les environs de Hawk Street, Labourdonnais Street, D Street, E Street, F Street, L Street, Résidence Prevert et les ruelles avoisinantes",
