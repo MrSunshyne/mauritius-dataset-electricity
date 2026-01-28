@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-28T07:05:06.275Z",
+  "generated": "2026-01-28T08:01:55.752Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -979,10 +979,10 @@
       "slug": "cassis",
       "name": "CASSIS",
       "district": "portlouis",
-      "outageCount": 33,
+      "outageCount": 34,
       "file": "cassis.json",
       "firstOutage": "2022-04-12",
-      "lastOutage": "2026-01-23"
+      "lastOutage": "2026-01-29"
     },
     {
       "slug": "castel-vacoas",
@@ -1303,7 +1303,7 @@
       "slug": "curepipe",
       "name": "CUREPIPE",
       "district": "plainewilhems",
-      "outageCount": 198,
+      "outageCount": 199,
       "file": "curepipe.json",
       "firstOutage": "2022-03-27",
       "lastOutage": "2026-01-28"

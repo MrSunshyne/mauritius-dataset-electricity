@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-01-28T07:05:06.015Z",
-  "outageCount": 198,
+  "generated": "2026-01-28T08:01:55.499Z",
+  "outageCount": 199,
   "firstOutage": "2022-03-27",
   "lastOutage": "2026-01-28",
   "outages": [
+    {
+      "date": "Le mercredi 28 janvier 2026 de  14:30:00 à  15:30:00",
+      "streets": "Lees Street, Anderson Street, Willoughby Street, Commerson St, la Croix street, Baissac Avenue, Murel Lane, lamaletie Lane et Morcellement Senneville",
+      "from": "2026-01-28T10:30:00.000Z",
+      "to": "2026-01-28T11:30:00.000Z",
+      "id": "9b1273881ae6c455aaeab590a07494f2"
+    },
     {
       "date": "Le mercredi 28 janvier 2026 de  12:00:00 à  13:30:00",
       "streets": "RUE LEES JUSQUA MALHERBES, RUE LA CROIX ET LES ALENTOURS",

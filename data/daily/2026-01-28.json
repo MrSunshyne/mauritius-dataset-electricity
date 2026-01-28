@@ -1,8 +1,8 @@
 {
   "date": "2026-01-28",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-28T07:05:05.887Z",
-  "outageCount": 11,
+  "generated": "2026-01-28T08:01:55.369Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le mercredi 28 janvier 2026 de  09:00:00 à  16:00:00",
@@ -93,6 +93,16 @@
       "from": "2026-01-28T05:10:00.000Z",
       "to": "2026-01-28T06:10:00.000Z",
       "id": "9b3fe8fcb5ad30d0805b1955e3bc1bde"
+    },
+    {
+      "date": "Le mercredi 28 janvier 2026 de  14:30:00 à  15:30:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Lees Street, Anderson Street, Willoughby Street, Commerson St, la Croix street, Baissac Avenue, Murel Lane, lamaletie Lane et Morcellement Senneville",
+      "district": "plainewilhems",
+      "from": "2026-01-28T10:30:00.000Z",
+      "to": "2026-01-28T11:30:00.000Z",
+      "id": "9b1273881ae6c455aaeab590a07494f2"
     },
     {
       "date": "Le mercredi 28 janvier 2026 de  09:30:00 à  10:45:00",
