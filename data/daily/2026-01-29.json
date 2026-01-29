@@ -1,8 +1,8 @@
 {
   "date": "2026-01-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-29T10:09:00.007Z",
-  "outageCount": 11,
+  "generated": "2026-01-29T11:07:58.040Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le jeudi 29 janvier 2026 de  08:30:00 à  15:30:00",
@@ -83,6 +83,16 @@
       "from": "2026-01-29T09:00:00.000Z",
       "to": "2026-01-29T10:00:00.000Z",
       "id": "adc3790895aea86a628e3eb59c425fcf"
+    },
+    {
+      "date": "Le jeudi 29 janvier 2026 de  15:00:00 à  17:30:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "SOS VILLAGE, FLAT SELUCIA, VUILLEMIN, DR LESUR, KHODABACUS AVE, PHILLIPE RAOUL AVE, MAUDAVE AVE, DREAM PRICE BBASIIN, RESIDENCE VUILLEMIN, NHDC VUILLEMIN, DR REID, MAHADEO BILTOO, DUPERRE, CHATEUNEUF ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2026-01-29T11:00:00.000Z",
+      "to": "2026-01-29T13:30:00.000Z",
+      "id": "53ef7fa629270ceb34346bf13779ec51"
     },
     {
       "date": "Le jeudi 29 janvier 2026 de  15:00:00 à  18:00:00",
