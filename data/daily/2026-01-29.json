@@ -1,8 +1,8 @@
 {
   "date": "2026-01-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-29T16:07:16.611Z",
-  "outageCount": 13,
+  "generated": "2026-01-29T17:10:52.914Z",
+  "outageCount": 15,
   "outages": [
     {
       "date": "Le jeudi 29 janvier 2026 de  08:30:00 à  15:30:00",
@@ -123,6 +123,26 @@
       "from": "2026-01-29T04:30:00.000Z",
       "to": "2026-01-29T11:30:00.000Z",
       "id": "b60b3b073b6c2944979c62d791866925"
+    },
+    {
+      "date": "Le jeudi 29 janvier 2026 de  20:30:00 à  01:00:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "MAUREL RD RIVIERE DU REMPART",
+      "district": "rivieredurempart",
+      "from": "2026-01-29T16:30:00.000Z",
+      "to": "2026-01-28T21:00:00.000Z",
+      "id": "ae80bb57ea13e366e68008a0faa18454"
+    },
+    {
+      "date": "Le jeudi 29 janvier 2026 de  21:00:00 à  01:00:00",
+      "locality": "PLAINE DES ROCHES",
+      "localitySlug": "plaine-des-roches",
+      "streets": "ROYAL RD PL DES ROCHES NR RESTAURANT MANGUE BLANC",
+      "district": "rivieredurempart",
+      "from": "2026-01-29T17:00:00.000Z",
+      "to": "2026-01-28T21:00:00.000Z",
+      "id": "233b0974a9ef1bffd9c86a91d49c541f"
     },
     {
       "date": "Le jeudi 29 janvier 2026 de  09:00:00 à  15:30:00",

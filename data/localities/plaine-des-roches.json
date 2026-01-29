@@ -2,11 +2,18 @@
   "slug": "plaine-des-roches",
   "name": "PLAINE DES ROCHES",
   "district": "rivieredurempart",
-  "generated": "2026-01-29T16:07:16.872Z",
-  "outageCount": 28,
+  "generated": "2026-01-29T17:10:53.182Z",
+  "outageCount": 29,
   "firstOutage": "2022-04-24",
-  "lastOutage": "2026-01-10",
+  "lastOutage": "2026-01-29",
   "outages": [
+    {
+      "date": "Le jeudi 29 janvier 2026 de  21:00:00 à  01:00:00",
+      "streets": "ROYAL RD PL DES ROCHES NR RESTAURANT MANGUE BLANC",
+      "from": "2026-01-29T17:00:00.000Z",
+      "to": "2026-01-28T21:00:00.000Z",
+      "id": "233b0974a9ef1bffd9c86a91d49c541f"
+    },
     {
       "date": "Le samedi 10 janvier 2026 de  08:30:00 à  15:00:00",
       "streets": "DANS LES ENVIRONS DE EX-RESTAURANT MANGUE BLANC ET ROUTE ROYALE PLAINE DES ROCHES VERS LAVENTURE- INSPECTEUR EN CHARGE - STO RUSMAULLY DE SECTION GOODLANDS",

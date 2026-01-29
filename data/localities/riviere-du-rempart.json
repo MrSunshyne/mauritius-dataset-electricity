@@ -2,11 +2,18 @@
   "slug": "riviere-du-rempart",
   "name": "RIVIERE DU REMPART",
   "district": "rivieredurempart",
-  "generated": "2026-01-29T16:07:16.915Z",
-  "outageCount": 44,
+  "generated": "2026-01-29T17:10:53.227Z",
+  "outageCount": 45,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-01-20",
+  "lastOutage": "2026-01-29",
   "outages": [
+    {
+      "date": "Le jeudi 29 janvier 2026 de  20:30:00 à  01:00:00",
+      "streets": "MAUREL RD RIVIERE DU REMPART",
+      "from": "2026-01-29T16:30:00.000Z",
+      "to": "2026-01-28T21:00:00.000Z",
+      "id": "ae80bb57ea13e366e68008a0faa18454"
+    },
     {
       "date": "Le mardi 20 janvier 2026 de  10:20:00 à  12:00:00",
       "streets": "TEMPLE ROAD NEAR COLLGE UNIVERSAL",
