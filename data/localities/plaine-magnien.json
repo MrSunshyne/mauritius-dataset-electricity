@@ -2,11 +2,18 @@
   "slug": "plaine-magnien",
   "name": "PLAINE MAGNIEN",
   "district": "grandport",
-  "generated": "2026-01-29T06:09:38.018Z",
-  "outageCount": 54,
+  "generated": "2026-01-29T07:13:52.267Z",
+  "outageCount": 55,
   "firstOutage": "2022-06-08",
-  "lastOutage": "2026-01-21",
+  "lastOutage": "2026-01-29",
   "outages": [
+    {
+      "date": "Le jeudi 29 janvier 2026 de  11:00:00 à  12:00:00",
+      "streets": "RICHE AUX COPEAUX",
+      "from": "2026-01-29T07:00:00.000Z",
+      "to": "2026-01-29T08:00:00.000Z",
+      "id": "fc611fa9f335bce01771c06ef4f7c804"
+    },
     {
       "date": "Le mercredi 21 janvier 2026 de  08:30:00 à  15:00:00",
       "streets": "BALANCE PLAINE MAGNIEN",

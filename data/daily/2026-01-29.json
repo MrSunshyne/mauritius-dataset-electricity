@@ -1,8 +1,8 @@
 {
   "date": "2026-01-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-29T06:09:37.776Z",
-  "outageCount": 8,
+  "generated": "2026-01-29T07:13:51.999Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le jeudi 29 janvier 2026 de  08:30:00 à  15:30:00",
@@ -23,6 +23,16 @@
       "from": "2026-01-29T04:30:00.000Z",
       "to": "2026-01-29T12:00:00.000Z",
       "id": "073cd94de1cbc961b5c2af27882dae73"
+    },
+    {
+      "date": "Le jeudi 29 janvier 2026 de  11:00:00 à  12:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "RICHE AUX COPEAUX",
+      "district": "grandport",
+      "from": "2026-01-29T07:00:00.000Z",
+      "to": "2026-01-29T08:00:00.000Z",
+      "id": "fc611fa9f335bce01771c06ef4f7c804"
     },
     {
       "date": "Le jeudi 29 janvier 2026 de  00:00:00 à  04:00:00",
@@ -53,6 +63,16 @@
       "from": "2026-01-29T05:00:00.000Z",
       "to": "2026-01-29T13:30:00.000Z",
       "id": "10c958f058a9903a3f04093ceb157795"
+    },
+    {
+      "date": "Le jeudi 29 janvier 2026 de  10:15:00 à  11:45:00",
+      "locality": "ALLEE BRILLANT VACOAS",
+      "localitySlug": "allee-brillant-vacoas",
+      "streets": "ALLEE BRILLANT VACOAS",
+      "district": "plainewilhems",
+      "from": "2026-01-29T06:15:00.000Z",
+      "to": "2026-01-29T07:45:00.000Z",
+      "id": "669f3885a9d7738190f7340a0417d4fa"
     },
     {
       "date": "Le jeudi 29 janvier 2026 de  15:00:00 à  18:00:00",

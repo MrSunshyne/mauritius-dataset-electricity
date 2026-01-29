@@ -2,11 +2,18 @@
   "slug": "allee-brillant-vacoas",
   "name": "ALLEE BRILLANT VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-01-29T06:09:37.791Z",
-  "outageCount": 10,
+  "generated": "2026-01-29T07:13:52.012Z",
+  "outageCount": 11,
   "firstOutage": "2023-02-05",
-  "lastOutage": "2024-07-28",
+  "lastOutage": "2026-01-29",
   "outages": [
+    {
+      "date": "Le jeudi 29 janvier 2026 de  10:15:00 à  11:45:00",
+      "streets": "ALLEE BRILLANT VACOAS",
+      "from": "2026-01-29T06:15:00.000Z",
+      "to": "2026-01-29T07:45:00.000Z",
+      "id": "669f3885a9d7738190f7340a0417d4fa"
+    },
     {
       "date": "Le dimanche 28 juillet 2024 de  08:30:00 à  17:00:00",
       "streets": "Morcellement d’Hotman, une partie de Hanoomanjee Lane, une partie de Espitalier Street, une partie de Sooben Lane, Skylark Lane, Balamoody Lane, Mootoo Lane",
