@@ -2,11 +2,18 @@
   "slug": "palma",
   "name": "PALMA",
   "district": "plainewilhems",
-  "generated": "2026-01-29T11:07:58.284Z",
-  "outageCount": 53,
+  "generated": "2026-01-29T12:04:14.024Z",
+  "outageCount": 54,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-01-26",
+  "lastOutage": "2026-01-29",
   "outages": [
+    {
+      "date": "Le jeudi 29 janvier 2026 de  15:45:00 à  18:00:00",
+      "streets": "CHEMIN RAGOOPUTH, EN PARTIE CHEMIN BEEKHARRY ET LES ENVIRONS.",
+      "from": "2026-01-29T11:45:00.000Z",
+      "to": "2026-01-29T14:00:00.000Z",
+      "id": "58676b9922603eedf041c0bb6f590393"
+    },
     {
       "date": "Le lundi 26 janvier 2026 de  11:00:00 à  13:00:00",
       "streets": "RTE PALMA Q BORNES",

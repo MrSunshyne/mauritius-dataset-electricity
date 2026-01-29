@@ -1,8 +1,8 @@
 {
   "date": "2026-01-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-29T11:07:58.040Z",
-  "outageCount": 12,
+  "generated": "2026-01-29T12:04:13.784Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le jeudi 29 janvier 2026 de  08:30:00 à  15:30:00",
@@ -93,6 +93,16 @@
       "from": "2026-01-29T11:00:00.000Z",
       "to": "2026-01-29T13:30:00.000Z",
       "id": "53ef7fa629270ceb34346bf13779ec51"
+    },
+    {
+      "date": "Le jeudi 29 janvier 2026 de  15:45:00 à  18:00:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "CHEMIN RAGOOPUTH, EN PARTIE CHEMIN BEEKHARRY ET LES ENVIRONS.",
+      "district": "plainewilhems",
+      "from": "2026-01-29T11:45:00.000Z",
+      "to": "2026-01-29T14:00:00.000Z",
+      "id": "58676b9922603eedf041c0bb6f590393"
     },
     {
       "date": "Le jeudi 29 janvier 2026 de  15:00:00 à  18:00:00",

@@ -2,11 +2,18 @@
   "slug": "baie-topaze",
   "name": "BAIE TOPAZE(RODRIGUES)",
   "district": "rodrigues",
-  "generated": "2026-01-29T11:07:58.067Z",
-  "outageCount": 3,
+  "generated": "2026-01-29T12:04:13.809Z",
+  "outageCount": 4,
   "firstOutage": "2024-06-22",
-  "lastOutage": "2026-01-23",
+  "lastOutage": "2026-01-30",
   "outages": [
+    {
+      "date": "Le vendredi 30 janvier 2026 de  08:30:00 à  15:00:00",
+      "streets": "Camp Pintade, Montagne Croupier,Montagne Plate et Plaine Mao",
+      "from": "2026-01-30T04:30:00.000Z",
+      "to": "2026-01-30T11:00:00.000Z",
+      "id": "bd4cfb0dbd13f10165507208c6c68156"
+    },
     {
       "date": "Le vendredi 23 janvier 2026 de  08:30:00 à  15:00:00",
       "streets": "CAMP PINTADE ET PLAINE MAO",

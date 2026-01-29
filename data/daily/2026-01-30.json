@@ -1,8 +1,8 @@
 {
   "date": "2026-01-30",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-29T11:07:58.040Z",
-  "outageCount": 1,
+  "generated": "2026-01-29T12:04:13.784Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le vendredi 30 janvier 2026 de  09:00:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-01-30T05:00:00.000Z",
       "to": "2026-01-30T12:00:00.000Z",
       "id": "654c8f8e5127d10b0840779406784c35"
+    },
+    {
+      "date": "Le vendredi 30 janvier 2026 de  08:30:00 à  15:00:00",
+      "locality": "BAIE TOPAZE(RODRIGUES)",
+      "localitySlug": "baie-topaze",
+      "streets": "Camp Pintade, Montagne Croupier,Montagne Plate et Plaine Mao",
+      "district": "rodrigues",
+      "from": "2026-01-30T04:30:00.000Z",
+      "to": "2026-01-30T11:00:00.000Z",
+      "id": "bd4cfb0dbd13f10165507208c6c68156"
     }
   ]
 }

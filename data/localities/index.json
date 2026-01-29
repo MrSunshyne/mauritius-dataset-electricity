@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-29T11:07:58.414Z",
+  "generated": "2026-01-29T12:04:14.152Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -160,10 +160,10 @@
       "slug": "baie-topaze",
       "name": "BAIE TOPAZE(RODRIGUES)",
       "district": "rodrigues",
-      "outageCount": 3,
+      "outageCount": 4,
       "file": "baie-topaze.json",
       "firstOutage": "2024-06-22",
-      "lastOutage": "2026-01-23"
+      "lastOutage": "2026-01-30"
     },
     {
       "slug": "bain-boeuf",
@@ -2680,10 +2680,10 @@
       "slug": "palma",
       "name": "PALMA",
       "district": "plainewilhems",
-      "outageCount": 53,
+      "outageCount": 54,
       "file": "palma.json",
       "firstOutage": "2022-04-12",
-      "lastOutage": "2026-01-26"
+      "lastOutage": "2026-01-29"
     },
     {
       "slug": "palmar",
