@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-01-28T18:03:28.268Z",
-  "outageCount": 99,
+  "generated": "2026-01-29T06:09:38.096Z",
+  "outageCount": 100,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-01-23",
+  "lastOutage": "2026-01-29",
   "outages": [
+    {
+      "date": "Le jeudi 29 janvier 2026 de  00:00:00 à  04:00:00",
+      "streets": "9EME MILE TRIOLET",
+      "from": "2026-01-28T20:00:00.000Z",
+      "to": "2026-01-28T00:00:00.000Z",
+      "id": "605a07f28b71f4f9de5cd98370ca9524"
+    },
     {
       "date": "Le vendredi 23 janvier 2026 de  10:00:00 à  16:00:00",
       "streets": "MAHATMA GANDHI ROAD AND SURROUNDINGS",
