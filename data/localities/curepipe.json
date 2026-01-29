@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-01-29T08:05:42.473Z",
-  "outageCount": 199,
+  "generated": "2026-01-29T09:10:00.932Z",
+  "outageCount": 200,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-01-28",
+  "lastOutage": "2026-01-29",
   "outages": [
+    {
+      "date": "Le jeudi 29 janvier 2026 de  13:00:00 à  14:00:00",
+      "streets": "dans les environs de Pierre Simonet, Edward Rouillard, Ave Pellicans, Ramguttee Lane et Morcellement Eden Rock",
+      "from": "2026-01-29T09:00:00.000Z",
+      "to": "2026-01-29T10:00:00.000Z",
+      "id": "adc3790895aea86a628e3eb59c425fcf"
+    },
     {
       "date": "Le mercredi 28 janvier 2026 de  14:30:00 à  15:30:00",
       "streets": "Lees Street, Anderson Street, Willoughby Street, Commerson St, la Croix street, Baissac Avenue, Murel Lane, lamaletie Lane et Morcellement Senneville",

@@ -1,8 +1,8 @@
 {
   "date": "2026-01-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-29T08:05:42.350Z",
-  "outageCount": 10,
+  "generated": "2026-01-29T09:10:00.806Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le jeudi 29 janvier 2026 de  08:30:00 à  15:30:00",
@@ -73,6 +73,16 @@
       "from": "2026-01-29T06:15:00.000Z",
       "to": "2026-01-29T07:45:00.000Z",
       "id": "669f3885a9d7738190f7340a0417d4fa"
+    },
+    {
+      "date": "Le jeudi 29 janvier 2026 de  13:00:00 à  14:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "dans les environs de Pierre Simonet, Edward Rouillard, Ave Pellicans, Ramguttee Lane et Morcellement Eden Rock",
+      "district": "plainewilhems",
+      "from": "2026-01-29T09:00:00.000Z",
+      "to": "2026-01-29T10:00:00.000Z",
+      "id": "adc3790895aea86a628e3eb59c425fcf"
     },
     {
       "date": "Le jeudi 29 janvier 2026 de  15:00:00 à  18:00:00",
