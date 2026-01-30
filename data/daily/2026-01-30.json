@@ -1,8 +1,8 @@
 {
   "date": "2026-01-30",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-29T18:06:56.500Z",
-  "outageCount": 2,
+  "generated": "2026-01-30T06:10:23.449Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le vendredi 30 janvier 2026 de  09:00:00 à  16:00:00",
@@ -13,6 +13,36 @@
       "from": "2026-01-30T05:00:00.000Z",
       "to": "2026-01-30T12:00:00.000Z",
       "id": "654c8f8e5127d10b0840779406784c35"
+    },
+    {
+      "date": "Le vendredi 30 janvier 2026 de  07:00:00 à  10:00:00",
+      "locality": "FOND DU SAC",
+      "localitySlug": "fond-du-sac",
+      "streets": "SOOBASH CHANDRA BOSE STREET AND SURROUNDINGS",
+      "district": "pamplemousses",
+      "from": "2026-01-30T03:00:00.000Z",
+      "to": "2026-01-30T06:00:00.000Z",
+      "id": "0bf100b1eb8fde01ed60120c5c302a0a"
+    },
+    {
+      "date": "Le vendredi 30 janvier 2026 de  09:30:00 à  11:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "AVE GORDON, ANTHELME, EDISSON, THIERRY AND AMBROSE",
+      "district": "plainewilhems",
+      "from": "2026-01-30T05:30:00.000Z",
+      "to": "2026-01-30T07:00:00.000Z",
+      "id": "965edd7f79dffab9896611b85daddc97"
+    },
+    {
+      "date": "Le vendredi 30 janvier 2026 de  10:00:00 à  11:30:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "COASTAL ROAD AND SURROUNDINGS",
+      "district": "rivieredurempart",
+      "from": "2026-01-30T06:00:00.000Z",
+      "to": "2026-01-30T07:30:00.000Z",
+      "id": "6d598b5149e14568469216ba0af6da63"
     },
     {
       "date": "Le vendredi 30 janvier 2026 de  08:30:00 à  15:00:00",
