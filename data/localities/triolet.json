@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-01-30T17:09:44.180Z",
-  "outageCount": 100,
+  "generated": "2026-01-30T18:06:06.295Z",
+  "outageCount": 101,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-01-29",
+  "lastOutage": "2026-01-30",
   "outages": [
+    {
+      "date": "Le vendredi 30 janvier 2026 de  21:00:00 à  01:00:00",
+      "streets": "9EME MILLE TRIOLET : MAHESHWAR NAGRI RD, RAMJUTTUN LANE, ROYAL RD ET LES ENVIRONS.",
+      "from": "2026-01-30T17:00:00.000Z",
+      "to": "2026-01-29T21:00:00.000Z",
+      "id": "c58d3c952d84c0e9eda357ef9e913424"
+    },
     {
       "date": "Le jeudi 29 janvier 2026 de  00:00:00 à  04:00:00",
       "streets": "9EME MILE TRIOLET",

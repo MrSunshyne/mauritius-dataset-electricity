@@ -2,11 +2,18 @@
   "slug": "surinam",
   "name": "SURINAM",
   "district": "savanne",
-  "generated": "2026-01-30T17:09:44.169Z",
-  "outageCount": 47,
+  "generated": "2026-01-30T18:06:06.283Z",
+  "outageCount": 48,
   "firstOutage": "2022-05-08",
-  "lastOutage": "2026-01-25",
+  "lastOutage": "2026-02-02",
   "outages": [
+    {
+      "date": "Le lundi 2 février 2026 de  09:00:00 à  15:00:00",
+      "streets": "Martiniere et Sept Croisees Surinam",
+      "from": "2026-02-02T05:00:00.000Z",
+      "to": "2026-02-02T11:00:00.000Z",
+      "id": "e638289e001518d6784cfba7664801cd"
+    },
     {
       "date": "Le dimanche 25 janvier 2026 de  09:00:00 à  15:30:00",
       "streets": "Le village de Surinam, Morcellement Thanacoody, Morcellement Lai Moon, Morcellement Dalais, Riambel Coast Road et NHDC Riambel",

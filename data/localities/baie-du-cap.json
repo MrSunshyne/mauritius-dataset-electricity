@@ -2,11 +2,18 @@
   "slug": "baie-du-cap",
   "name": "BAIE DU CAP",
   "district": "savanne",
-  "generated": "2026-01-30T17:09:43.857Z",
-  "outageCount": 29,
+  "generated": "2026-01-30T18:06:05.961Z",
+  "outageCount": 30,
   "firstOutage": "2022-06-29",
-  "lastOutage": "2026-01-07",
+  "lastOutage": "2026-02-03",
   "outages": [
+    {
+      "date": "Le mardi 3 février 2026 de  09:00:00 à  15:30:00",
+      "streets": "St. Martin Baie Du Cap et Bel Ombre",
+      "from": "2026-02-03T05:00:00.000Z",
+      "to": "2026-02-03T11:30:00.000Z",
+      "id": "72fc3b0c98f04ded9bd06e51dfec4ccf"
+    },
     {
       "date": "Le mercredi 7 janvier 2026 de  20:00:00 à  22:00:00",
       "streets": "BAIE DU CAP",

@@ -1,8 +1,8 @@
 {
   "date": "2026-01-30",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-30T17:09:43.833Z",
-  "outageCount": 6,
+  "generated": "2026-01-30T18:06:05.936Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le vendredi 30 janvier 2026 de  09:00:00 à  16:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-01-30T05:00:00.000Z",
       "to": "2026-01-30T10:00:00.000Z",
       "id": "62b96bf22b41b94d0d29fc7d1da577d2"
+    },
+    {
+      "date": "Le vendredi 30 janvier 2026 de  21:00:00 à  01:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "9EME MILLE TRIOLET : MAHESHWAR NAGRI RD, RAMJUTTUN LANE, ROYAL RD ET LES ENVIRONS.",
+      "district": "pamplemousses",
+      "from": "2026-01-30T17:00:00.000Z",
+      "to": "2026-01-29T21:00:00.000Z",
+      "id": "c58d3c952d84c0e9eda357ef9e913424"
     },
     {
       "date": "Le vendredi 30 janvier 2026 de  09:30:00 à  11:00:00",

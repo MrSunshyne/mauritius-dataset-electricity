@@ -1,8 +1,8 @@
 {
   "date": "2026-02-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-30T17:09:43.833Z",
-  "outageCount": 1,
+  "generated": "2026-01-30T18:06:05.936Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le mardi 3 février 2026 de  08:30:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-02-03T04:30:00.000Z",
       "to": "2026-02-03T12:00:00.000Z",
       "id": "7db42acb6e1945e9abd121950c9a4b03"
+    },
+    {
+      "date": "Le mardi 3 février 2026 de  09:00:00 à  15:30:00",
+      "locality": "BAIE DU CAP",
+      "localitySlug": "baie-du-cap",
+      "streets": "St. Martin Baie Du Cap et Bel Ombre",
+      "district": "savanne",
+      "from": "2026-02-03T05:00:00.000Z",
+      "to": "2026-02-03T11:30:00.000Z",
+      "id": "72fc3b0c98f04ded9bd06e51dfec4ccf"
     }
   ]
 }

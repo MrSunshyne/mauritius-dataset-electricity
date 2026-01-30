@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-30T17:09:44.201Z",
+  "generated": "2026-01-30T18:06:06.315Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -133,10 +133,10 @@
       "slug": "baie-du-cap",
       "name": "BAIE DU CAP",
       "district": "savanne",
-      "outageCount": 29,
+      "outageCount": 30,
       "file": "baie-du-cap.json",
       "firstOutage": "2022-06-29",
-      "lastOutage": "2026-01-07"
+      "lastOutage": "2026-02-03"
     },
     {
       "slug": "baie-du-nord",
@@ -3769,10 +3769,10 @@
       "slug": "surinam",
       "name": "SURINAM",
       "district": "savanne",
-      "outageCount": 47,
+      "outageCount": 48,
       "file": "surinam.json",
       "firstOutage": "2022-05-08",
-      "lastOutage": "2026-01-25"
+      "lastOutage": "2026-02-02"
     },
     {
       "slug": "tamarin",
@@ -3895,10 +3895,10 @@
       "slug": "triolet",
       "name": "TRIOLET",
       "district": "pamplemousses",
-      "outageCount": 100,
+      "outageCount": 101,
       "file": "triolet.json",
       "firstOutage": "2022-04-08",
-      "lastOutage": "2026-01-29"
+      "lastOutage": "2026-01-30"
     },
     {
       "slug": "trois-boutiques-triolet",
