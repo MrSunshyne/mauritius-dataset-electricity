@@ -1,8 +1,8 @@
 {
   "date": "2026-01-30",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-30T08:05:08.843Z",
-  "outageCount": 5,
+  "generated": "2026-01-30T09:08:31.942Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le vendredi 30 janvier 2026 de  09:00:00 à  16:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-01-30T03:00:00.000Z",
       "to": "2026-01-30T06:00:00.000Z",
       "id": "0bf100b1eb8fde01ed60120c5c302a0a"
+    },
+    {
+      "date": "Le vendredi 30 janvier 2026 de  09:00:00 à  14:00:00",
+      "locality": "MORC SAINT ANDRE",
+      "localitySlug": "morc-saint-andre",
+      "streets": "HAMLET ROAD MORC ST ANDRE",
+      "district": "pamplemousses",
+      "from": "2026-01-30T05:00:00.000Z",
+      "to": "2026-01-30T10:00:00.000Z",
+      "id": "62b96bf22b41b94d0d29fc7d1da577d2"
     },
     {
       "date": "Le vendredi 30 janvier 2026 de  09:30:00 à  11:00:00",
