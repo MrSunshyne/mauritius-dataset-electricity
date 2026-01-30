@@ -2,11 +2,18 @@
   "slug": "midlands",
   "name": "MIDLANDS",
   "district": "plainewilhems",
-  "generated": "2026-01-30T10:06:19.895Z",
-  "outageCount": 23,
+  "generated": "2026-01-30T11:06:45.193Z",
+  "outageCount": 24,
   "firstOutage": "2022-06-10",
-  "lastOutage": "2025-11-30",
+  "lastOutage": "2026-02-03",
   "outages": [
+    {
+      "date": "Le mardi 3 février 2026 de  08:30:00 à  16:00:00",
+      "streets": "Le village de Midlands",
+      "from": "2026-02-03T04:30:00.000Z",
+      "to": "2026-02-03T12:00:00.000Z",
+      "id": "7db42acb6e1945e9abd121950c9a4b03"
+    },
     {
       "date": "Le dimanche 30 novembre 2025 de  12:50:00 à  14:00:00",
       "streets": "MORC SEEBANY AND SURROUNDINGS",
