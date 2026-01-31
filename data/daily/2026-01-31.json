@@ -1,8 +1,8 @@
 {
   "date": "2026-01-31",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-31T07:07:03.479Z",
-  "outageCount": 3,
+  "generated": "2026-01-31T08:01:51.209Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le samedi 31 janvier 2026 de  08:30:00 à  13:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-01-31T04:30:00.000Z",
       "to": "2026-01-31T09:00:00.000Z",
       "id": "c0b55506b9c9d4989a5633299b269997"
+    },
+    {
+      "date": "Le samedi 31 janvier 2026 de  12:00:00 à  16:00:00",
+      "locality": "CALODYNE",
+      "localitySlug": "calodyne",
+      "streets": "CHEVREAU LANE CALODYNE",
+      "district": "rivieredurempart",
+      "from": "2026-01-31T08:00:00.000Z",
+      "to": "2026-01-31T12:00:00.000Z",
+      "id": "299d3e456997323ff9fc7ea6d52140b3"
     },
     {
       "date": "Le samedi 31 janvier 2026 de  09:00:00 à  15:30:00",

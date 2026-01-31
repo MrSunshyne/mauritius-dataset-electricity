@@ -2,11 +2,18 @@
   "slug": "calodyne",
   "name": "CALODYNE",
   "district": "rivieredurempart",
-  "generated": "2026-01-31T07:07:03.548Z",
-  "outageCount": 32,
+  "generated": "2026-01-31T08:01:51.302Z",
+  "outageCount": 33,
   "firstOutage": "2022-09-10",
-  "lastOutage": "2026-01-25",
+  "lastOutage": "2026-01-31",
   "outages": [
+    {
+      "date": "Le samedi 31 janvier 2026 de  12:00:00 à  16:00:00",
+      "streets": "CHEVREAU LANE CALODYNE",
+      "from": "2026-01-31T08:00:00.000Z",
+      "to": "2026-01-31T12:00:00.000Z",
+      "id": "299d3e456997323ff9fc7ea6d52140b3"
+    },
     {
       "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  15:30:00",
       "streets": "ENTIERE REGION DE CALODYNE ET ST FRANCOIS",
