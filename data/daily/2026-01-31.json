@@ -1,8 +1,8 @@
 {
   "date": "2026-01-31",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-31T11:02:16.140Z",
-  "outageCount": 4,
+  "generated": "2026-01-31T12:01:54.707Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le samedi 31 janvier 2026 de  08:30:00 à  13:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-01-31T04:30:00.000Z",
       "to": "2026-01-31T09:00:00.000Z",
       "id": "c0b55506b9c9d4989a5633299b269997"
+    },
+    {
+      "date": "Le samedi 31 janvier 2026 de  15:00:00 à  20:00:00",
+      "locality": "PLAINE DES PAPAYES",
+      "localitySlug": "plaine-des-papayes",
+      "streets": "JINNAH ROAD AND SURROUNDINGS",
+      "district": "pamplemousses",
+      "from": "2026-01-31T11:00:00.000Z",
+      "to": "2026-01-31T16:00:00.000Z",
+      "id": "8efb856bdd175c3a1828eecec07a64be"
     },
     {
       "date": "Le samedi 31 janvier 2026 de  12:00:00 à  16:00:00",
