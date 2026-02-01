@@ -1,8 +1,8 @@
 {
   "date": "2026-02-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-01T17:03:38.886Z",
-  "outageCount": 3,
+  "generated": "2026-02-01T18:01:48.290Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le dimanche 1 février 2026 de  18:00:00 à  22:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-02-01T05:00:00.000Z",
       "to": "2026-02-01T07:15:00.000Z",
       "id": "86451910704ea2e857b3bc0b261aab7a"
+    },
+    {
+      "date": "Le dimanche 1 février 2026 de  21:00:00 à  22:00:00",
+      "locality": "PETIT CAMP",
+      "localitySlug": "petit-camp",
+      "streets": "RESIDENCE RIVER ISLAND PETIT CAMP",
+      "district": "plainewilhems",
+      "from": "2026-02-01T17:00:00.000Z",
+      "to": "2026-02-01T18:00:00.000Z",
+      "id": "f06b4792d26e1e082c8ea43570e91474"
     }
   ]
 }
