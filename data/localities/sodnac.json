@@ -2,11 +2,18 @@
   "slug": "sodnac",
   "name": "SODNAC",
   "district": "plainewilhems",
-  "generated": "2026-01-31T18:01:00.949Z",
-  "outageCount": 35,
+  "generated": "2026-02-01T06:13:00.068Z",
+  "outageCount": 36,
   "firstOutage": "2022-05-30",
-  "lastOutage": "2026-01-12",
+  "lastOutage": "2026-02-01",
   "outages": [
+    {
+      "date": "Le dimanche 1 février 2026 de  09:00:00 à  10:00:00",
+      "streets": "AVE LONGANIERS-AVE SODNAC-HILL CRESET-NHDC SODNAC",
+      "from": "2026-02-01T05:00:00.000Z",
+      "to": "2026-02-01T06:00:00.000Z",
+      "id": "f75615c0442a4673124f98adf2f73f74"
+    },
     {
       "date": "Le lundi 12 janvier 2026 de  11:00:00 à  16:00:00",
       "streets": "AVENUE PERRUCHES,EPERVIER,FLAMMANTS SODNAC",

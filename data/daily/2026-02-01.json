@@ -1,8 +1,8 @@
 {
   "date": "2026-02-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-01-31T18:01:00.611Z",
-  "outageCount": 1,
+  "generated": "2026-02-01T06:12:59.717Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le dimanche 1 février 2026 de  08:30:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-02-01T04:30:00.000Z",
       "to": "2026-02-01T12:00:00.000Z",
       "id": "a2aae2b13717827811a521129c925433"
+    },
+    {
+      "date": "Le dimanche 1 février 2026 de  09:00:00 à  10:00:00",
+      "locality": "SODNAC",
+      "localitySlug": "sodnac",
+      "streets": "AVE LONGANIERS-AVE SODNAC-HILL CRESET-NHDC SODNAC",
+      "district": "plainewilhems",
+      "from": "2026-02-01T05:00:00.000Z",
+      "to": "2026-02-01T06:00:00.000Z",
+      "id": "f75615c0442a4673124f98adf2f73f74"
     }
   ]
 }
