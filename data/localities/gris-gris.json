@@ -2,11 +2,18 @@
   "slug": "gris-gris",
   "name": "GRIS GRIS",
   "district": "savanne",
-  "generated": "2026-02-02T11:12:47.403Z",
-  "outageCount": 4,
+  "generated": "2026-02-02T12:04:19.968Z",
+  "outageCount": 5,
   "firstOutage": "2025-10-16",
-  "lastOutage": "2026-01-31",
+  "lastOutage": "2026-02-03",
   "outages": [
+    {
+      "date": "Le mardi 3 février 2026 de  15:00:00 à  18:30:00",
+      "streets": "Gris Gris Souillac, CHA Gris Gris et Domaine Gris Gris",
+      "from": "2026-02-03T11:00:00.000Z",
+      "to": "2026-02-03T14:30:00.000Z",
+      "id": "300a3acdae28bdb398636c4630d3bc47"
+    },
     {
       "date": "Le samedi 31 janvier 2026 de  09:00:00 à  15:30:00",
       "streets": "Gris Gris Souillac, CHA Gris Gris et Domaine Gris Gris",

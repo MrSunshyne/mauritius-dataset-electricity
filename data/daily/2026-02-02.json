@@ -1,8 +1,8 @@
 {
   "date": "2026-02-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-02T11:12:47.253Z",
-  "outageCount": 6,
+  "generated": "2026-02-02T12:04:19.808Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le lundi 2 février 2026 de  00:00:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-02-01T20:00:00.000Z",
       "to": "2026-02-01T11:00:00.000Z",
       "id": "94ddc3ed53a7961c9bde7e9e0def71cf"
+    },
+    {
+      "date": "Le lundi 2 février 2026 de  15:50:00 à  17:30:00",
+      "locality": "MALINGA",
+      "localitySlug": "malinga",
+      "streets": "MALINGA",
+      "district": "moka",
+      "from": "2026-02-02T11:50:00.000Z",
+      "to": "2026-02-02T13:30:00.000Z",
+      "id": "7838e9102ef9038af50a8793ce00470c"
     },
     {
       "date": "Le lundi 2 février 2026 de  13:40:00 à  17:00:00",
@@ -43,6 +53,16 @@
       "from": "2026-02-02T05:30:00.000Z",
       "to": "2026-02-02T10:00:00.000Z",
       "id": "83384e08c541f6395090159a98f52504"
+    },
+    {
+      "date": "Le lundi 2 février 2026 de  15:15:00 à  16:30:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "CHEMIN MAX ROHAN, CHEMIN DE ROSNAY ET LES ENVIRONS.",
+      "district": "plainewilhems",
+      "from": "2026-02-02T11:15:00.000Z",
+      "to": "2026-02-02T12:30:00.000Z",
+      "id": "8de247e9ef6bc1823fe0cfb594d20220"
     },
     {
       "date": "Le lundi 2 février 2026 de  09:00:00 à  15:00:00",

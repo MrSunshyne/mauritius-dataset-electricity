@@ -2,11 +2,18 @@
   "slug": "roches-brunes",
   "name": "ROCHES BRUNES",
   "district": "plainewilhems",
-  "generated": "2026-02-02T11:12:47.545Z",
-  "outageCount": 23,
+  "generated": "2026-02-02T12:04:20.125Z",
+  "outageCount": 24,
   "firstOutage": "2022-10-01",
-  "lastOutage": "2026-01-19",
+  "lastOutage": "2026-02-02",
   "outages": [
+    {
+      "date": "Le lundi 2 février 2026 de  15:15:00 à  16:30:00",
+      "streets": "CHEMIN MAX ROHAN, CHEMIN DE ROSNAY ET LES ENVIRONS.",
+      "from": "2026-02-02T11:15:00.000Z",
+      "to": "2026-02-02T12:30:00.000Z",
+      "id": "8de247e9ef6bc1823fe0cfb594d20220"
+    },
     {
       "date": "Le lundi 19 janvier 2026 de  10:00:00 à  10:45:00",
       "streets": "CAMP LEVIEUX,ROCHES BRUNES,MERE TERESA PLAISANCE",

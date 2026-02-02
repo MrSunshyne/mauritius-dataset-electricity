@@ -1,8 +1,8 @@
 {
   "date": "2026-02-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-02T11:12:47.253Z",
-  "outageCount": 5,
+  "generated": "2026-02-02T12:04:19.808Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le mardi 3 février 2026 de  15:00:00 à  17:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-02-03T05:00:00.000Z",
       "to": "2026-02-03T11:30:00.000Z",
       "id": "72fc3b0c98f04ded9bd06e51dfec4ccf"
+    },
+    {
+      "date": "Le mardi 3 février 2026 de  15:00:00 à  18:30:00",
+      "locality": "GRIS GRIS",
+      "localitySlug": "gris-gris",
+      "streets": "Gris Gris Souillac, CHA Gris Gris et Domaine Gris Gris",
+      "district": "savanne",
+      "from": "2026-02-03T11:00:00.000Z",
+      "to": "2026-02-03T14:30:00.000Z",
+      "id": "300a3acdae28bdb398636c4630d3bc47"
     }
   ]
 }
