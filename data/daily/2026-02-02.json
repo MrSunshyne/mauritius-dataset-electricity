@@ -1,8 +1,8 @@
 {
   "date": "2026-02-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-02T09:12:17.762Z",
-  "outageCount": 4,
+  "generated": "2026-02-02T10:12:59.193Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le lundi 2 février 2026 de  00:00:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-02-01T20:00:00.000Z",
       "to": "2026-02-01T11:00:00.000Z",
       "id": "94ddc3ed53a7961c9bde7e9e0def71cf"
+    },
+    {
+      "date": "Le lundi 2 février 2026 de  13:40:00 à  17:00:00",
+      "locality": "BOIS MANGUES",
+      "localitySlug": "bois-mangues",
+      "streets": "MORC VRS BOIS MANGUES : MIDDLE ROAD, RESERVOIR ROAD ET LES ENVIRONS.",
+      "district": "pamplemousses",
+      "from": "2026-02-02T09:40:00.000Z",
+      "to": "2026-02-02T13:00:00.000Z",
+      "id": "23daeb90c2fb887544d0e3a532951ca9"
     },
     {
       "date": "Le lundi 2 février 2026 de  16:00:00 à  18:00:00",
@@ -43,6 +53,16 @@
       "from": "2026-02-02T05:00:00.000Z",
       "to": "2026-02-02T11:00:00.000Z",
       "id": "e638289e001518d6784cfba7664801cd"
+    },
+    {
+      "date": "Le lundi 2 février 2026 de  13:40:00 à  18:00:00",
+      "locality": "L-ESCALIER",
+      "localitySlug": "l-escalier",
+      "streets": "MORCELLEMENT LA SOURDINE.",
+      "district": "savanne",
+      "from": "2026-02-02T09:40:00.000Z",
+      "to": "2026-02-02T14:00:00.000Z",
+      "id": "19a1cdcd8af12fbbd94645b5a65c8707"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-02T09:12:18.141Z",
+  "generated": "2026-02-02T10:12:59.562Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -547,10 +547,10 @@
       "slug": "bois-mangues",
       "name": "BOIS MANGUES",
       "district": "pamplemousses",
-      "outageCount": 1,
+      "outageCount": 2,
       "file": "bois-mangues.json",
       "firstOutage": "2024-07-07",
-      "lastOutage": "2024-07-07"
+      "lastOutage": "2026-02-02"
     },
     {
       "slug": "bois-marchand",
@@ -1843,10 +1843,10 @@
       "slug": "l-escalier",
       "name": "L-ESCALIER",
       "district": "savanne",
-      "outageCount": 23,
+      "outageCount": 24,
       "file": "l-escalier.json",
       "firstOutage": "2022-03-30",
-      "lastOutage": "2026-01-28"
+      "lastOutage": "2026-02-02"
     },
     {
       "slug": "l-esperance-qmilitaire",
@@ -3895,10 +3895,10 @@
       "slug": "triolet",
       "name": "TRIOLET",
       "district": "pamplemousses",
-      "outageCount": 101,
+      "outageCount": 102,
       "file": "triolet.json",
       "firstOutage": "2022-04-08",
-      "lastOutage": "2026-01-30"
+      "lastOutage": "2026-02-03"
     },
     {
       "slug": "trois-boutiques-triolet",
@@ -3922,10 +3922,10 @@
       "slug": "trou-aux-biches",
       "name": "TROU AUX BICHES",
       "district": "pamplemousses",
-      "outageCount": 54,
+      "outageCount": 55,
       "file": "trou-aux-biches.json",
       "firstOutage": "2022-04-10",
-      "lastOutage": "2026-01-21"
+      "lastOutage": "2026-02-03"
     },
     {
       "slug": "trou-d-eau-douce",

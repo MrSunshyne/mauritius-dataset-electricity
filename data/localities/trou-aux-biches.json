@@ -2,11 +2,18 @@
   "slug": "trou-aux-biches",
   "name": "TROU AUX BICHES",
   "district": "pamplemousses",
-  "generated": "2026-02-02T09:12:18.123Z",
-  "outageCount": 54,
+  "generated": "2026-02-02T10:12:59.544Z",
+  "outageCount": 55,
   "firstOutage": "2022-04-10",
-  "lastOutage": "2026-01-21",
+  "lastOutage": "2026-02-03",
   "outages": [
+    {
+      "date": "Le mardi 3 février 2026 de  15:00:00 à  17:00:00",
+      "streets": "Dans les environs de Supermarche POPO et Trio Road et POINTE AUX BICHES",
+      "from": "2026-02-03T11:00:00.000Z",
+      "to": "2026-02-03T13:00:00.000Z",
+      "id": "c6409479b7d4642d14ef52c19e5c5a2d"
+    },
     {
       "date": "Le mercredi 21 janvier 2026 de  15:00:00 à  17:30:00",
       "streets": "TROU AUX BICHES",

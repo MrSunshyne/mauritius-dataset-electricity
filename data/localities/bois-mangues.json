@@ -2,11 +2,18 @@
   "slug": "bois-mangues",
   "name": "BOIS MANGUES",
   "district": "pamplemousses",
-  "generated": "2026-02-02T09:12:17.823Z",
-  "outageCount": 1,
+  "generated": "2026-02-02T10:12:59.251Z",
+  "outageCount": 2,
   "firstOutage": "2024-07-07",
-  "lastOutage": "2024-07-07",
+  "lastOutage": "2026-02-02",
   "outages": [
+    {
+      "date": "Le lundi 2 février 2026 de  13:40:00 à  17:00:00",
+      "streets": "MORC VRS BOIS MANGUES : MIDDLE ROAD, RESERVOIR ROAD ET LES ENVIRONS.",
+      "from": "2026-02-02T09:40:00.000Z",
+      "to": "2026-02-02T13:00:00.000Z",
+      "id": "23daeb90c2fb887544d0e3a532951ca9"
+    },
     {
       "date": "Le dimanche 7 juillet 2024 de  07:30:00 à  16:00:00",
       "streets": "MORC RAMPHUL,BOIS MANGUES AND NHDC BOIS MANGUES",
