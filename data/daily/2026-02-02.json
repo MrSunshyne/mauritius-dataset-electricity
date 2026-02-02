@@ -1,9 +1,39 @@
 {
   "date": "2026-02-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-01T18:01:48.290Z",
-  "outageCount": 1,
+  "generated": "2026-02-02T06:17:29.177Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le lundi 2 février 2026 de  00:00:00 à  10:00:00",
+      "locality": "LA BARRAQUE",
+      "localitySlug": "la-barraque",
+      "streets": "STAFF QUARTERS LA BARRAQUE",
+      "district": "grandport",
+      "from": "2026-02-01T20:00:00.000Z",
+      "to": "2026-02-01T06:00:00.000Z",
+      "id": "8751570b08f47f4c27df5f9037d34786"
+    },
+    {
+      "date": "Le lundi 2 février 2026 de  16:00:00 à  18:00:00",
+      "locality": "CAMP LEVIEUX ( R HILL )",
+      "localitySlug": "camp-levieux",
+      "streets": "Espace Concorde, Morc Newtown et NSLD Camp Levieux",
+      "district": "plainewilhems",
+      "from": "2026-02-02T12:00:00.000Z",
+      "to": "2026-02-02T14:00:00.000Z",
+      "id": "762864a39fb931a204278763c5613f08"
+    },
+    {
+      "date": "Le lundi 2 février 2026 de  09:30:00 à  14:00:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "LA MARIE",
+      "district": "plainewilhems",
+      "from": "2026-02-02T05:30:00.000Z",
+      "to": "2026-02-02T10:00:00.000Z",
+      "id": "83384e08c541f6395090159a98f52504"
+    },
     {
       "date": "Le lundi 2 février 2026 de  09:00:00 à  15:00:00",
       "locality": "SURINAM",
