@@ -1,8 +1,8 @@
 {
   "date": "2026-02-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-02T12:04:19.808Z",
-  "outageCount": 8,
+  "generated": "2026-02-02T13:23:15.111Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le lundi 2 février 2026 de  00:00:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-02-01T20:00:00.000Z",
       "to": "2026-02-01T11:00:00.000Z",
       "id": "94ddc3ed53a7961c9bde7e9e0def71cf"
+    },
+    {
+      "date": "Le lundi 2 février 2026 de  16:40:00 à  18:40:00",
+      "locality": "LA ROSA",
+      "localitySlug": "la-rosa",
+      "streets": "LINK ROAD LA ROSA.",
+      "district": "grandport",
+      "from": "2026-02-02T12:40:00.000Z",
+      "to": "2026-02-02T14:40:00.000Z",
+      "id": "3f26c40a565bb494c494bd942fb8be6c"
     },
     {
       "date": "Le lundi 2 février 2026 de  15:50:00 à  17:30:00",
@@ -75,14 +85,14 @@
       "id": "e638289e001518d6784cfba7664801cd"
     },
     {
-      "date": "Le lundi 2 février 2026 de  13:40:00 à  18:00:00",
+      "date": "Le lundi 2 février 2026 de  13:40:00 à  20:00:00",
       "locality": "L-ESCALIER",
       "localitySlug": "l-escalier",
       "streets": "MORCELLEMENT LA SOURDINE.",
       "district": "savanne",
       "from": "2026-02-02T09:40:00.000Z",
-      "to": "2026-02-02T14:00:00.000Z",
-      "id": "19a1cdcd8af12fbbd94645b5a65c8707"
+      "to": "2026-02-02T16:00:00.000Z",
+      "id": "2563b98315731d00119c42efbdba8ad2"
     }
   ]
 }

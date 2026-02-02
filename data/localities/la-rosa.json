@@ -2,11 +2,18 @@
   "slug": "la-rosa",
   "name": "LA ROSA",
   "district": "grandport",
-  "generated": "2026-02-02T12:04:19.995Z",
-  "outageCount": 10,
+  "generated": "2026-02-02T13:23:15.300Z",
+  "outageCount": 11,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-01-30",
+  "lastOutage": "2026-02-02",
   "outages": [
+    {
+      "date": "Le lundi 2 février 2026 de  16:40:00 à  18:40:00",
+      "streets": "LINK ROAD LA ROSA.",
+      "from": "2026-02-02T12:40:00.000Z",
+      "to": "2026-02-02T14:40:00.000Z",
+      "id": "3f26c40a565bb494c494bd942fb8be6c"
+    },
     {
       "date": "Le vendredi 30 janvier 2026 de  09:00:00 à  16:00:00",
       "streets": "La Rosa habitant dans le périmètre et les rues suivantes: Morcellement Ramsahye, Morcellement Kalimaye, Résidence Le Bosquet, Morcellement Savannah et Gros Bois Link Road La Rosa",
