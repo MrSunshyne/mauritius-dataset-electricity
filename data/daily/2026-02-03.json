@@ -1,8 +1,8 @@
 {
   "date": "2026-02-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-02T08:07:52.055Z",
-  "outageCount": 2,
+  "generated": "2026-02-02T09:12:17.762Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le mardi 3 février 2026 de  08:30:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-02-03T04:30:00.000Z",
       "to": "2026-02-03T12:00:00.000Z",
       "id": "7db42acb6e1945e9abd121950c9a4b03"
+    },
+    {
+      "date": "Le mardi 3 février 2026 de  15:00:00 à  18:00:00",
+      "locality": "PETIT CAMP",
+      "localitySlug": "petit-camp",
+      "streets": "Morc Hardy, Morc Damree et partie de Petit Camp",
+      "district": "plainewilhems",
+      "from": "2026-02-03T11:00:00.000Z",
+      "to": "2026-02-03T14:00:00.000Z",
+      "id": "2d9e242e88fc3ac683e7c17ffe8c8259"
     },
     {
       "date": "Le mardi 3 février 2026 de  09:00:00 à  15:30:00",

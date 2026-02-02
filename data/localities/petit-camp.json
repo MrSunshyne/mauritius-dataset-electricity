@@ -2,11 +2,18 @@
   "slug": "petit-camp",
   "name": "PETIT CAMP",
   "district": "plainewilhems",
-  "generated": "2026-02-02T08:07:52.285Z",
-  "outageCount": 24,
+  "generated": "2026-02-02T09:12:18.020Z",
+  "outageCount": 25,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-02-01",
+  "lastOutage": "2026-02-03",
   "outages": [
+    {
+      "date": "Le mardi 3 février 2026 de  15:00:00 à  18:00:00",
+      "streets": "Morc Hardy, Morc Damree et partie de Petit Camp",
+      "from": "2026-02-03T11:00:00.000Z",
+      "to": "2026-02-03T14:00:00.000Z",
+      "id": "2d9e242e88fc3ac683e7c17ffe8c8259"
+    },
     {
       "date": "Le dimanche 1 février 2026 de  21:00:00 à  22:00:00",
       "streets": "RESIDENCE RIVER ISLAND PETIT CAMP",
