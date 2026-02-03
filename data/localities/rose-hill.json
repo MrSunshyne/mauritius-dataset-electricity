@@ -2,11 +2,18 @@
   "slug": "rose-hill",
   "name": "ROSE-HILL",
   "district": "plainewilhems",
-  "generated": "2026-02-03T10:09:21.619Z",
-  "outageCount": 133,
+  "generated": "2026-02-03T11:10:10.145Z",
+  "outageCount": 134,
   "firstOutage": "2022-05-20",
-  "lastOutage": "2026-01-30",
+  "lastOutage": "2026-02-03",
   "outages": [
+    {
+      "date": "Le mardi 3 février 2026 de  15:00:00 à  17:30:00",
+      "streets": "CHEMINS LABOURDONNAIS, PRINCE CHARLES, SOOPRAMANIEN, GLADSTONE ET EN PARTIE EDWARD 7.",
+      "from": "2026-02-03T11:00:00.000Z",
+      "to": "2026-02-03T13:30:00.000Z",
+      "id": "76f65ffe8b2d3e53dba103d806810c71"
+    },
     {
       "date": "Le vendredi 30 janvier 2026 de  09:30:00 à  11:00:00",
       "streets": "AVE GORDON, ANTHELME, EDISSON, THIERRY AND AMBROSE",
