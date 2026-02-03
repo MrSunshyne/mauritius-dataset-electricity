@@ -2,11 +2,18 @@
   "slug": "wolmar",
   "name": "WOLMAR",
   "district": "blackriver",
-  "generated": "2026-02-03T06:12:12.626Z",
-  "outageCount": 9,
+  "generated": "2026-02-03T07:14:47.448Z",
+  "outageCount": 10,
   "firstOutage": "2023-10-11",
-  "lastOutage": "2026-01-19",
+  "lastOutage": "2026-02-04",
   "outages": [
+    {
+      "date": "Le mercredi 4 février 2026 de  08:30:00 à  15:30:00",
+      "streets": "PIVOT BASSIN FLEUR, EMTEL CLARENCE ET CHASSEE DE WOLMAR",
+      "from": "2026-02-04T04:30:00.000Z",
+      "to": "2026-02-04T11:30:00.000Z",
+      "id": "8e445761e6471a7cd5615e66e4299148"
+    },
     {
       "date": "Le lundi 19 janvier 2026 de  14:00:00 à  17:00:00",
       "streets": "WOLMAR FLIC EN FLAC",

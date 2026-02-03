@@ -1,9 +1,19 @@
 {
   "date": "2026-02-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-03T06:12:12.248Z",
-  "outageCount": 1,
+  "generated": "2026-02-03T07:14:47.072Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le mercredi 4 février 2026 de  08:30:00 à  15:30:00",
+      "locality": "WOLMAR",
+      "localitySlug": "wolmar",
+      "streets": "PIVOT BASSIN FLEUR, EMTEL CLARENCE ET CHASSEE DE WOLMAR",
+      "district": "blackriver",
+      "from": "2026-02-04T04:30:00.000Z",
+      "to": "2026-02-04T11:30:00.000Z",
+      "id": "8e445761e6471a7cd5615e66e4299148"
+    },
     {
       "date": "Le mercredi 4 février 2026 de  09:00:00 à  15:30:00",
       "locality": "BAIE DU CAP",

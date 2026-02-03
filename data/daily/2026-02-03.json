@@ -1,8 +1,8 @@
 {
   "date": "2026-02-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-03T06:12:12.248Z",
-  "outageCount": 10,
+  "generated": "2026-02-03T07:14:47.072Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le mardi 3 février 2026 de  09:30:00 à  10:00:00",
@@ -103,6 +103,16 @@
       "from": "2026-02-03T11:00:00.000Z",
       "to": "2026-02-03T14:30:00.000Z",
       "id": "300a3acdae28bdb398636c4630d3bc47"
+    },
+    {
+      "date": "Le mardi 3 février 2026 de  12:00:00 à  15:00:00",
+      "locality": "L-ESCALIER",
+      "localitySlug": "l-escalier",
+      "streets": "L’Escalier habitant dans le périmètre et les rues suivantes: Staff Quarters La Baraque L’Escalier",
+      "district": "savanne",
+      "from": "2026-02-03T08:00:00.000Z",
+      "to": "2026-02-03T11:00:00.000Z",
+      "id": "1ea9404387d0b7a43bf5d15436a9ebdb"
     }
   ]
 }

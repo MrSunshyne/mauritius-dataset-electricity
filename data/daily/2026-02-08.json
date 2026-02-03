@@ -1,8 +1,8 @@
 {
   "date": "2026-02-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-03T06:12:12.248Z",
-  "outageCount": 1,
+  "generated": "2026-02-03T07:14:47.072Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le dimanche 8 février 2026 de  08:30:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-02-08T04:30:00.000Z",
       "to": "2026-02-08T13:00:00.000Z",
       "id": "cdd90308bfd336d5cd9c973025423748"
+    },
+    {
+      "date": "Le dimanche 8 février 2026 de  09:00:00 à  17:00:00",
+      "locality": "L-ESCALIER",
+      "localitySlug": "l-escalier",
+      "streets": "L’Escalier habitant dans le périmètre et les rues suivantes: Khoratty Lane, Sooben Lane, Bhujhun Lane, Cader Bava Lane, Bodye Lane, Nadal lane, Cemetry Lane, Morcellement La Sourdine, Savannah, Bassin Tronche et une partie de la Route Royale L’Escalier",
+      "district": "savanne",
+      "from": "2026-02-08T05:00:00.000Z",
+      "to": "2026-02-08T13:00:00.000Z",
+      "id": "5663f476ac1e9af3a4c3af5b38e522a7"
     }
   ]
 }
