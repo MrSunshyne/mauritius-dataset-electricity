@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-02-02T18:07:39.688Z",
-  "outageCount": 200,
+  "generated": "2026-02-03T06:12:12.379Z",
+  "outageCount": 201,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-01-29",
+  "lastOutage": "2026-02-03",
   "outages": [
+    {
+      "date": "Le mardi 3 février 2026 de  09:50:00 à  11:45:00",
+      "streets": "Sir William Newton,Gaetan Duval,Dr Edwards Streets",
+      "from": "2026-02-03T05:50:00.000Z",
+      "to": "2026-02-03T07:45:00.000Z",
+      "id": "ba6dfd6b111d4da5f7d74a76fbf0312e"
+    },
     {
       "date": "Le jeudi 29 janvier 2026 de  13:00:00 à  14:00:00",
       "streets": "dans les environs de Pierre Simonet, Edward Rouillard, Ave Pellicans, Ramguttee Lane et Morcellement Eden Rock",

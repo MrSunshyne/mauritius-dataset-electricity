@@ -1,9 +1,29 @@
 {
   "date": "2026-02-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-02T18:07:39.562Z",
-  "outageCount": 6,
+  "generated": "2026-02-03T06:12:12.248Z",
+  "outageCount": 10,
   "outages": [
+    {
+      "date": "Le mardi 3 février 2026 de  09:30:00 à  10:00:00",
+      "locality": "BON  ACCEUIL",
+      "localitySlug": "bon-acceuil",
+      "streets": "Latapie Rd",
+      "district": "flacq",
+      "from": "2026-02-03T05:30:00.000Z",
+      "to": "2026-02-03T06:00:00.000Z",
+      "id": "456bad5fd72b8065638403aa9788c400"
+    },
+    {
+      "date": "Le mardi 3 février 2026 de  10:00:00 à  13:00:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "Residence Mon Rose,Balisson",
+      "district": "grandport",
+      "from": "2026-02-03T06:00:00.000Z",
+      "to": "2026-02-03T09:00:00.000Z",
+      "id": "1be9f328f893f7cb8b581e4e17ce6bbd"
+    },
     {
       "date": "Le mardi 3 février 2026 de  15:00:00 à  17:00:00",
       "locality": "TRIOLET",
@@ -43,6 +63,26 @@
       "from": "2026-02-03T11:00:00.000Z",
       "to": "2026-02-03T14:00:00.000Z",
       "id": "2d9e242e88fc3ac683e7c17ffe8c8259"
+    },
+    {
+      "date": "Le mardi 3 février 2026 de  09:50:00 à  11:45:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Sir William Newton,Gaetan Duval,Dr Edwards Streets",
+      "district": "plainewilhems",
+      "from": "2026-02-03T05:50:00.000Z",
+      "to": "2026-02-03T07:45:00.000Z",
+      "id": "ba6dfd6b111d4da5f7d74a76fbf0312e"
+    },
+    {
+      "date": "Le mardi 3 février 2026 de  08:30:00 à  12:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "GRANUM VACOAS",
+      "district": "plainewilhems",
+      "from": "2026-02-03T04:30:00.000Z",
+      "to": "2026-02-03T08:00:00.000Z",
+      "id": "caebd731aeed6ae6b733020889188224"
     },
     {
       "date": "Le mardi 3 février 2026 de  09:00:00 à  15:30:00",

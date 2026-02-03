@@ -2,11 +2,18 @@
   "slug": "sebastopol",
   "name": "SEBASTOPOL",
   "district": "flacq",
-  "generated": "2026-02-02T18:07:39.905Z",
-  "outageCount": 17,
+  "generated": "2026-02-03T06:12:12.587Z",
+  "outageCount": 18,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-01-26",
+  "lastOutage": "2026-02-05",
   "outages": [
+    {
+      "date": "Le jeudi 5 février 2026 de  09:00:00 à  15:00:00",
+      "streets": "Résidence Opale et Clavet Road",
+      "from": "2026-02-05T05:00:00.000Z",
+      "to": "2026-02-05T11:00:00.000Z",
+      "id": "21ba85914e6730cf2500f0ce13ef78e1"
+    },
     {
       "date": "Le lundi 26 janvier 2026 de  13:45:00 à  14:30:00",
       "streets": "CENT GAULETTE, LESUR,  SEBASTOPOL",

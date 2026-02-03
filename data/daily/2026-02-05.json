@@ -1,9 +1,19 @@
 {
   "date": "2026-02-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-02T18:07:39.562Z",
-  "outageCount": 2,
+  "generated": "2026-02-03T06:12:12.248Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le jeudi 5 février 2026 de  09:00:00 à  15:00:00",
+      "locality": "SEBASTOPOL",
+      "localitySlug": "sebastopol",
+      "streets": "Résidence Opale et Clavet Road",
+      "district": "flacq",
+      "from": "2026-02-05T05:00:00.000Z",
+      "to": "2026-02-05T11:00:00.000Z",
+      "id": "21ba85914e6730cf2500f0ce13ef78e1"
+    },
     {
       "date": "Le jeudi 5 février 2026 de  09:00:00 à  17:00:00",
       "locality": "UNION PARK",

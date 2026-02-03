@@ -2,11 +2,18 @@
   "slug": "rose-belle",
   "name": "ROSE BELLE",
   "district": "grandport",
-  "generated": "2026-02-02T18:07:39.888Z",
-  "outageCount": 75,
+  "generated": "2026-02-03T06:12:12.571Z",
+  "outageCount": 76,
   "firstOutage": "2022-05-12",
-  "lastOutage": "2026-01-25",
+  "lastOutage": "2026-02-03",
   "outages": [
+    {
+      "date": "Le mardi 3 février 2026 de  10:00:00 à  13:00:00",
+      "streets": "Residence Mon Rose,Balisson",
+      "from": "2026-02-03T06:00:00.000Z",
+      "to": "2026-02-03T09:00:00.000Z",
+      "id": "1be9f328f893f7cb8b581e4e17ce6bbd"
+    },
     {
       "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  17:30:00",
       "streets": "MORC HATON,VRS,ORCHIDEE",

@@ -2,11 +2,18 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-02-02T18:07:39.939Z",
-  "outageCount": 222,
+  "generated": "2026-02-03T06:12:12.616Z",
+  "outageCount": 223,
   "firstOutage": "2022-03-17",
-  "lastOutage": "2026-01-23",
+  "lastOutage": "2026-02-03",
   "outages": [
+    {
+      "date": "Le mardi 3 février 2026 de  08:30:00 à  12:00:00",
+      "streets": "GRANUM VACOAS",
+      "from": "2026-02-03T04:30:00.000Z",
+      "to": "2026-02-03T08:00:00.000Z",
+      "id": "caebd731aeed6ae6b733020889188224"
+    },
     {
       "date": "Le vendredi 23 janvier 2026 de  09:00:00 à  15:00:00",
       "streets": "une partie de Emmanuel Gerard Avenue, une partie de Couvent de Lorette Avenue",
