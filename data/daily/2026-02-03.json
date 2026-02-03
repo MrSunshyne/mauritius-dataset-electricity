@@ -1,8 +1,8 @@
 {
   "date": "2026-02-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-03T16:13:41.785Z",
-  "outageCount": 13,
+  "generated": "2026-02-03T17:15:52.875Z",
+  "outageCount": 14,
   "outages": [
     {
       "date": "Le mardi 3 février 2026 de  09:30:00 à  10:00:00",
@@ -93,6 +93,16 @@
       "from": "2026-02-03T11:00:00.000Z",
       "to": "2026-02-03T13:30:00.000Z",
       "id": "76f65ffe8b2d3e53dba103d806810c71"
+    },
+    {
+      "date": "Le mardi 3 février 2026 de  20:45:00 à  21:30:00",
+      "locality": "LE HOCHET",
+      "localitySlug": "le-hochet",
+      "streets": "KJW LE HOCHET AND STREET NEARBY",
+      "district": "portlouis",
+      "from": "2026-02-03T16:45:00.000Z",
+      "to": "2026-02-03T17:30:00.000Z",
+      "id": "45f45957ecd641ed66a6524ac9ad8de2"
     },
     {
       "date": "Le mardi 3 février 2026 de  09:00:00 à  15:30:00",

@@ -2,11 +2,18 @@
   "slug": "le-hochet",
   "name": "LE HOCHET",
   "district": "portlouis",
-  "generated": "2026-02-03T16:13:41.985Z",
-  "outageCount": 24,
+  "generated": "2026-02-03T17:15:53.053Z",
+  "outageCount": 25,
   "firstOutage": "2022-04-18",
-  "lastOutage": "2025-10-09",
+  "lastOutage": "2026-02-03",
   "outages": [
+    {
+      "date": "Le mardi 3 février 2026 de  20:45:00 à  21:30:00",
+      "streets": "KJW LE HOCHET AND STREET NEARBY",
+      "from": "2026-02-03T16:45:00.000Z",
+      "to": "2026-02-03T17:30:00.000Z",
+      "id": "45f45957ecd641ed66a6524ac9ad8de2"
+    },
     {
       "date": "Le jeudi 9 octobre 2025 de  09:00:00 à  12:30:00",
       "streets": "MORC MANICK LE HOCHET",
