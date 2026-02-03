@@ -2,11 +2,18 @@
   "slug": "terre-rouge",
   "name": "TERRE ROUGE",
   "district": "pamplemousses",
-  "generated": "2026-02-03T17:15:53.186Z",
-  "outageCount": 97,
+  "generated": "2026-02-03T18:13:01.015Z",
+  "outageCount": 98,
   "firstOutage": "2022-03-14",
-  "lastOutage": "2026-01-08",
+  "lastOutage": "2026-02-03",
   "outages": [
+    {
+      "date": "Le mardi 3 février 2026 de  21:30:00 à  00:45:00",
+      "streets": "FLORIDA LANE TERRE ROUGE",
+      "from": "2026-02-03T17:30:00.000Z",
+      "to": "2026-02-02T20:45:00.000Z",
+      "id": "b86b77acab44a764e57231c843e2aba4"
+    },
     {
       "date": "Le jeudi 8 janvier 2026 de  17:30:00 à  23:00:00",
       "streets": "WINNERS, BASALT, SCHOOL LANE, KJW LANE, DREAM PRICE ET LES ALENTOURS",

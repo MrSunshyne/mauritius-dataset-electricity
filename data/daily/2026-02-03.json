@@ -1,8 +1,8 @@
 {
   "date": "2026-02-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-03T17:15:52.875Z",
-  "outageCount": 14,
+  "generated": "2026-02-03T18:13:00.703Z",
+  "outageCount": 15,
   "outages": [
     {
       "date": "Le mardi 3 février 2026 de  09:30:00 à  10:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-02-03T11:00:00.000Z",
       "to": "2026-02-03T13:00:00.000Z",
       "id": "c6409479b7d4642d14ef52c19e5c5a2d"
+    },
+    {
+      "date": "Le mardi 3 février 2026 de  21:30:00 à  00:45:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "FLORIDA LANE TERRE ROUGE",
+      "district": "pamplemousses",
+      "from": "2026-02-03T17:30:00.000Z",
+      "to": "2026-02-02T20:45:00.000Z",
+      "id": "b86b77acab44a764e57231c843e2aba4"
     },
     {
       "date": "Le mardi 3 février 2026 de  08:30:00 à  16:00:00",
