@@ -2,8 +2,8 @@
   "slug": "l-escalier",
   "name": "L-ESCALIER",
   "district": "savanne",
-  "generated": "2026-02-03T14:14:08.235Z",
-  "outageCount": 26,
+  "generated": "2026-02-03T15:12:26.133Z",
+  "outageCount": 27,
   "firstOutage": "2022-03-30",
   "lastOutage": "2026-02-08",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-02-08T05:00:00.000Z",
       "to": "2026-02-08T13:00:00.000Z",
       "id": "5663f476ac1e9af3a4c3af5b38e522a7"
+    },
+    {
+      "date": "Le mardi 3 février 2026 de  14:00:00 à  21:00:00",
+      "streets": "ROUTE ROYALE DANS LES ENVIRONS BANQUE SBM, CHARLES LANE ET LES CHEMINS AVOISINANTS.",
+      "from": "2026-02-03T10:00:00.000Z",
+      "to": "2026-02-03T17:00:00.000Z",
+      "id": "94051c88104c1ba921212824ab339dc0"
     },
     {
       "date": "Le mardi 3 février 2026 de  12:00:00 à  17:30:00",
