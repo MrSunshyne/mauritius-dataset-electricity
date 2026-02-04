@@ -1,8 +1,8 @@
 {
   "date": "2026-02-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-04T12:04:32.778Z",
-  "outageCount": 9,
+  "generated": "2026-02-04T13:23:52.695Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le mercredi 4 février 2026 de  08:30:00 à  15:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-02-04T04:30:00.000Z",
       "to": "2026-02-04T11:30:00.000Z",
       "id": "8e445761e6471a7cd5615e66e4299148"
+    },
+    {
+      "date": "Le mercredi 4 février 2026 de  16:30:00 à  17:30:00",
+      "locality": "GRAND RIVER NORTH WEST",
+      "localitySlug": "grand-river-north-west",
+      "streets": "OLD PAILLES RD,BATA,ICE SUPPLY,SUNRAY",
+      "district": "blackriver",
+      "from": "2026-02-04T12:30:00.000Z",
+      "to": "2026-02-04T13:30:00.000Z",
+      "id": "6e060e7516c7485d14221b560452e45c"
     },
     {
       "date": "Le mercredi 4 février 2026 de  09:05:00 à  16:00:00",
@@ -45,6 +55,26 @@
       "id": "94c741a4637f48b2e6632644dd5204c7"
     },
     {
+      "date": "Le mercredi 4 février 2026 de  16:20:00 à  17:30:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "APRES ST MALO EN DIRECTION FINITION BAIE DE TOMBEAU.",
+      "district": "pamplemousses",
+      "from": "2026-02-04T12:20:00.000Z",
+      "to": "2026-02-04T13:30:00.000Z",
+      "id": "96736ffc46827237413467cef73acea1"
+    },
+    {
+      "date": "Le mercredi 4 février 2026 de  16:00:00 à  20:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "ROUTE ROYALE DANS LES ENVIRONS STATION DE POLICE ET LA POSTE.",
+      "district": "pamplemousses",
+      "from": "2026-02-04T12:00:00.000Z",
+      "to": "2026-02-04T16:00:00.000Z",
+      "id": "001d66aa08965ab711d3da08d3113f77"
+    },
+    {
       "date": "Le mercredi 4 février 2026 de  14:30:00 à  17:30:00",
       "locality": "ROSE-HILL",
       "localitySlug": "rose-hill",
@@ -63,6 +93,16 @@
       "from": "2026-02-04T10:15:00.000Z",
       "to": "2026-02-04T12:00:00.000Z",
       "id": "1a880d2c014b79241a37986468b47e7c"
+    },
+    {
+      "date": "Le mercredi 4 février 2026 de  16:25:00 à  17:30:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "PIERREFONDS PALMA EN DIRECTION ECOLE SSS.",
+      "district": "plainewilhems",
+      "from": "2026-02-04T12:25:00.000Z",
+      "to": "2026-02-04T13:30:00.000Z",
+      "id": "62293fa1bb51a483c962671b84c16cc7"
     },
     {
       "date": "Le mercredi 4 février 2026 de  10:00:00 à  13:00:00",
