@@ -1,8 +1,8 @@
 {
   "date": "2026-02-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-04T11:09:43.533Z",
-  "outageCount": 7,
+  "generated": "2026-02-04T12:04:32.778Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le mercredi 4 février 2026 de  08:30:00 à  15:30:00",
@@ -23,6 +23,26 @@
       "from": "2026-02-04T05:05:00.000Z",
       "to": "2026-02-04T12:00:00.000Z",
       "id": "e74163404921c8c6d0838055f7e59568"
+    },
+    {
+      "date": "Le mercredi 4 février 2026 de  16:00:00 à  17:30:00",
+      "locality": "LA LAURA SAINT PIERRE",
+      "localitySlug": "la-laura-saint-pierre",
+      "streets": "CHEMIN RIVERSIDE, CHEMIN PIETER BOTH ET LES ENVIRONS.",
+      "district": "moka",
+      "from": "2026-02-04T12:00:00.000Z",
+      "to": "2026-02-04T13:30:00.000Z",
+      "id": "21282ac121c873377bdf4448ced8e811"
+    },
+    {
+      "date": "Le mercredi 4 février 2026 de  15:23:00 à  17:00:00",
+      "locality": "CALEBASSES",
+      "localitySlug": "calebasses",
+      "streets": "L-ESPOIR RD,MOTORWAY, SHIVALA,ROYAL RD",
+      "district": "pamplemousses",
+      "from": "2026-02-04T11:23:00.000Z",
+      "to": "2026-02-04T13:00:00.000Z",
+      "id": "94c741a4637f48b2e6632644dd5204c7"
     },
     {
       "date": "Le mercredi 4 février 2026 de  14:30:00 à  17:30:00",
