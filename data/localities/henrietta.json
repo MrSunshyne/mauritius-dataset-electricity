@@ -2,8 +2,8 @@
   "slug": "henrietta",
   "name": "HENRIETTA",
   "district": "plainewilhems",
-  "generated": "2026-02-04T14:13:18.844Z",
-  "outageCount": 78,
+  "generated": "2026-02-04T15:11:45.507Z",
+  "outageCount": 79,
   "firstOutage": "2022-07-14",
   "lastOutage": "2026-02-08",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-02-08T04:30:00.000Z",
       "to": "2026-02-08T09:00:00.000Z",
       "id": "108580b28c792347e577509517e46861"
+    },
+    {
+      "date": "Le mercredi 4 février 2026 de  18:30:00 à  20:00:00",
+      "streets": "CAMP MAPOU, CAMP FIDELE ET DANS ENVIRONS NHDC.",
+      "from": "2026-02-04T14:30:00.000Z",
+      "to": "2026-02-04T16:00:00.000Z",
+      "id": "ee82864f82562ede6f61705670f8ac62"
     },
     {
       "date": "Le mercredi 28 janvier 2026 de  09:00:00 à  15:00:00",

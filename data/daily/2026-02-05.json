@@ -1,8 +1,8 @@
 {
   "date": "2026-02-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-04T14:13:18.677Z",
-  "outageCount": 6,
+  "generated": "2026-02-04T15:11:45.342Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le jeudi 5 février 2026 de  09:00:00 à  15:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-02-05T04:30:00.000Z",
       "to": "2026-02-05T13:30:00.000Z",
       "id": "faf01a4d48263caf02b039f57f4b856e"
+    },
+    {
+      "date": "Le jeudi 5 février 2026 de  08:30:00 à  09:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave Hillcrest,Ave Rossignol,Ave Faucon et les environs",
+      "district": "plainewilhems",
+      "from": "2026-02-05T04:30:00.000Z",
+      "to": "2026-02-05T05:30:00.000Z",
+      "id": "9a9e07fa9496e1b14502b9066c3cba82"
     },
     {
       "date": "Le jeudi 5 février 2026 de  09:00:00 à  15:30:00",
