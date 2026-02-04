@@ -2,11 +2,18 @@
   "slug": "rose-hill",
   "name": "ROSE-HILL",
   "district": "plainewilhems",
-  "generated": "2026-02-04T10:11:00.228Z",
-  "outageCount": 134,
+  "generated": "2026-02-04T11:09:43.855Z",
+  "outageCount": 135,
   "firstOutage": "2022-05-20",
-  "lastOutage": "2026-02-03",
+  "lastOutage": "2026-02-04",
   "outages": [
+    {
+      "date": "Le mercredi 4 février 2026 de  14:30:00 à  17:30:00",
+      "streets": "LA PLACE ST,SHANTILALL DANJEE,PART OF LABOURDONNAIS",
+      "from": "2026-02-04T10:30:00.000Z",
+      "to": "2026-02-04T13:30:00.000Z",
+      "id": "2817cae73bbf0319eac665ceb71c3de4"
+    },
     {
       "date": "Le mardi 3 février 2026 de  15:00:00 à  17:30:00",
       "streets": "CHEMINS LABOURDONNAIS, PRINCE CHARLES, SOOPRAMANIEN, GLADSTONE ET EN PARTIE EDWARD 7.",

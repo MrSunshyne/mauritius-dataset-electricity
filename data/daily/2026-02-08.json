@@ -1,8 +1,8 @@
 {
   "date": "2026-02-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-04T10:10:59.937Z",
-  "outageCount": 2,
+  "generated": "2026-02-04T11:09:43.533Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le dimanche 8 février 2026 de  08:30:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-02-08T04:30:00.000Z",
       "to": "2026-02-08T13:00:00.000Z",
       "id": "cdd90308bfd336d5cd9c973025423748"
+    },
+    {
+      "date": "Le dimanche 8 février 2026 de  08:30:00 à  13:00:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "NHDC Mapoo et les environs",
+      "district": "plainewilhems",
+      "from": "2026-02-08T04:30:00.000Z",
+      "to": "2026-02-08T09:00:00.000Z",
+      "id": "108580b28c792347e577509517e46861"
     },
     {
       "date": "Le dimanche 8 février 2026 de  09:00:00 à  17:00:00",

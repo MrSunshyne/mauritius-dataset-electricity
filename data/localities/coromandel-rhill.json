@@ -2,11 +2,18 @@
   "slug": "coromandel-rhill",
   "name": "COROMANDEL - R.HILL",
   "district": "plainewilhems",
-  "generated": "2026-02-04T10:11:00.049Z",
-  "outageCount": 72,
+  "generated": "2026-02-04T11:09:43.658Z",
+  "outageCount": 73,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-01-24",
+  "lastOutage": "2026-02-04",
   "outages": [
+    {
+      "date": "Le mercredi 4 février 2026 de  14:15:00 à  16:00:00",
+      "streets": "MORC CHAPMAN VIEW : CHEMIN EMPEREUR ET LES CHEMINS AVOISINANTS.",
+      "from": "2026-02-04T10:15:00.000Z",
+      "to": "2026-02-04T12:00:00.000Z",
+      "id": "1a880d2c014b79241a37986468b47e7c"
+    },
     {
       "date": "Le samedi 24 janvier 2026 de  08:30:00 à  15:00:00",
       "streets": "Pave dAmour, Ramnarain lane et les environs",

@@ -2,11 +2,18 @@
   "slug": "henrietta",
   "name": "HENRIETTA",
   "district": "plainewilhems",
-  "generated": "2026-02-04T10:11:00.089Z",
-  "outageCount": 77,
+  "generated": "2026-02-04T11:09:43.703Z",
+  "outageCount": 78,
   "firstOutage": "2022-07-14",
-  "lastOutage": "2026-01-28",
+  "lastOutage": "2026-02-08",
   "outages": [
+    {
+      "date": "Le dimanche 8 février 2026 de  08:30:00 à  13:00:00",
+      "streets": "NHDC Mapoo et les environs",
+      "from": "2026-02-08T04:30:00.000Z",
+      "to": "2026-02-08T09:00:00.000Z",
+      "id": "108580b28c792347e577509517e46861"
+    },
     {
       "date": "Le mercredi 28 janvier 2026 de  09:00:00 à  15:00:00",
       "streets": "dans les environs de Morcellement Manguier Royal",

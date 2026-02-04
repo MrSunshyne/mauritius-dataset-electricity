@@ -2,11 +2,25 @@
   "slug": "vallee-des-pretres",
   "name": "VALLEE DES PRETRES",
   "district": "portlouis",
-  "generated": "2026-02-04T10:11:00.270Z",
-  "outageCount": 68,
+  "generated": "2026-02-04T11:09:43.901Z",
+  "outageCount": 70,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-02-04",
+  "lastOutage": "2026-02-07",
   "outages": [
+    {
+      "date": "Le samedi 7 février 2026 de  12:00:00 à  14:00:00",
+      "streets": "DANS LES ENVIRONS DE NHDC VALLEE DES PRETRES, NHDC CHA, DES RUES BERNARDIN DE ST PIERRE ET PAUL ET VIRGINIE",
+      "from": "2026-02-07T08:00:00.000Z",
+      "to": "2026-02-07T10:00:00.000Z",
+      "id": "f9605264d7f793cd7523293de42388fe"
+    },
+    {
+      "date": "Le samedi 7 février 2026 de  10:00:00 à  14:00:00",
+      "streets": "DANS LES ENVIRONS DE CHITRAKOOT, DES RUES VALMICKY ET CAROLINE",
+      "from": "2026-02-07T06:00:00.000Z",
+      "to": "2026-02-07T10:00:00.000Z",
+      "id": "1d181f34a26c002e59e88e93c3e417ac"
+    },
     {
       "date": "Le mercredi 4 février 2026 de  10:00:00 à  13:00:00",
       "streets": "DANES LES ALENTOURS DE COLLEGE LABOURDONNAIS, CWA ET NHDC",

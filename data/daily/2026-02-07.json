@@ -1,0 +1,28 @@
+{
+  "date": "2026-02-07",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-02-04T11:09:43.533Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le samedi 7 février 2026 de  10:00:00 à  14:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "DANS LES ENVIRONS DE CHITRAKOOT, DES RUES VALMICKY ET CAROLINE",
+      "district": "portlouis",
+      "from": "2026-02-07T06:00:00.000Z",
+      "to": "2026-02-07T10:00:00.000Z",
+      "id": "1d181f34a26c002e59e88e93c3e417ac"
+    },
+    {
+      "date": "Le samedi 7 février 2026 de  12:00:00 à  14:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "DANS LES ENVIRONS DE NHDC VALLEE DES PRETRES, NHDC CHA, DES RUES BERNARDIN DE ST PIERRE ET PAUL ET VIRGINIE",
+      "district": "portlouis",
+      "from": "2026-02-07T08:00:00.000Z",
+      "to": "2026-02-07T10:00:00.000Z",
+      "id": "f9605264d7f793cd7523293de42388fe"
+    }
+  ]
+}
