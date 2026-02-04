@@ -2,11 +2,18 @@
   "slug": "sodnac",
   "name": "SODNAC",
   "district": "plainewilhems",
-  "generated": "2026-02-04T13:23:53.041Z",
-  "outageCount": 36,
+  "generated": "2026-02-04T14:13:19.020Z",
+  "outageCount": 37,
   "firstOutage": "2022-05-30",
-  "lastOutage": "2026-02-01",
+  "lastOutage": "2026-02-05",
   "outages": [
+    {
+      "date": "Le jeudi 5 février 2026 de  08:30:00 à  17:30:00",
+      "streets": "NHDC Villeneuve,Dreamton Park",
+      "from": "2026-02-05T04:30:00.000Z",
+      "to": "2026-02-05T13:30:00.000Z",
+      "id": "faf01a4d48263caf02b039f57f4b856e"
+    },
     {
       "date": "Le dimanche 1 février 2026 de  09:00:00 à  11:15:00",
       "streets": "AVE LONGANIERS-AVE SODNAC-HILL CRESET-NHDC SODNAC",

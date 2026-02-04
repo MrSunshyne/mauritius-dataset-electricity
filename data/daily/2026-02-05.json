@@ -1,8 +1,8 @@
 {
   "date": "2026-02-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-04T13:23:52.695Z",
-  "outageCount": 4,
+  "generated": "2026-02-04T14:13:18.677Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le jeudi 5 février 2026 de  09:00:00 à  15:00:00",
@@ -33,6 +33,26 @@
       "from": "2026-02-05T04:30:00.000Z",
       "to": "2026-02-05T11:00:00.000Z",
       "id": "78a7315cc78ebc6699a00b7918558e98"
+    },
+    {
+      "date": "Le jeudi 5 février 2026 de  16:00:00 à  17:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave Hillcrest,Ave Rossignol,Ave Faucon et les environs",
+      "district": "plainewilhems",
+      "from": "2026-02-05T12:00:00.000Z",
+      "to": "2026-02-05T13:30:00.000Z",
+      "id": "ee79929af7e362e67d3f570b11ed7413"
+    },
+    {
+      "date": "Le jeudi 5 février 2026 de  08:30:00 à  17:30:00",
+      "locality": "SODNAC",
+      "localitySlug": "sodnac",
+      "streets": "NHDC Villeneuve,Dreamton Park",
+      "district": "plainewilhems",
+      "from": "2026-02-05T04:30:00.000Z",
+      "to": "2026-02-05T13:30:00.000Z",
+      "id": "faf01a4d48263caf02b039f57f4b856e"
     },
     {
       "date": "Le jeudi 5 février 2026 de  09:00:00 à  15:30:00",

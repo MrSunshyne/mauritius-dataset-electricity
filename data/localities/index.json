@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-04T13:23:53.082Z",
+  "generated": "2026-02-04T14:13:19.063Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -3175,10 +3175,10 @@
       "slug": "quatre-bornes",
       "name": "QUATRE-BORNES",
       "district": "plainewilhems",
-      "outageCount": 336,
+      "outageCount": 337,
       "file": "quatre-bornes.json",
       "firstOutage": "2022-04-01",
-      "lastOutage": "2026-01-26"
+      "lastOutage": "2026-02-05"
     },
     {
       "slug": "quatre-carreaux",
@@ -3697,10 +3697,10 @@
       "slug": "sodnac",
       "name": "SODNAC",
       "district": "plainewilhems",
-      "outageCount": 36,
+      "outageCount": 37,
       "file": "sodnac.json",
       "firstOutage": "2022-05-30",
-      "lastOutage": "2026-02-01"
+      "lastOutage": "2026-02-05"
     },
     {
       "slug": "solferino",
@@ -3841,7 +3841,7 @@
       "slug": "tombeau-bay",
       "name": "TOMBEAU BAY",
       "district": "pamplemousses",
-      "outageCount": 126,
+      "outageCount": 127,
       "file": "tombeau-bay.json",
       "firstOutage": "2022-03-27",
       "lastOutage": "2026-02-04"

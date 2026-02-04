@@ -2,11 +2,18 @@
   "slug": "tombeau-bay",
   "name": "TOMBEAU BAY",
   "district": "pamplemousses",
-  "generated": "2026-02-04T13:23:53.057Z",
-  "outageCount": 126,
+  "generated": "2026-02-04T14:13:19.036Z",
+  "outageCount": 127,
   "firstOutage": "2022-03-27",
   "lastOutage": "2026-02-04",
   "outages": [
+    {
+      "date": "Le mercredi 4 février 2026 de  17:30:00 à  18:30:00",
+      "streets": "SCHOOL LANE, COASTAL ROAD ET MORCELLEMENT SWAN.",
+      "from": "2026-02-04T13:30:00.000Z",
+      "to": "2026-02-04T14:30:00.000Z",
+      "id": "49b443908b0cabdbe1927c07b829d222"
+    },
     {
       "date": "Le mercredi 4 février 2026 de  16:20:00 à  17:30:00",
       "streets": "APRES ST MALO EN DIRECTION FINITION BAIE DE TOMBEAU.",
