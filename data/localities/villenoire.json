@@ -2,11 +2,18 @@
   "slug": "villenoire",
   "name": "VILLENOIRE",
   "district": "grandport",
-  "generated": "2026-02-04T07:14:52.541Z",
-  "outageCount": 48,
+  "generated": "2026-02-04T08:06:44.943Z",
+  "outageCount": 49,
   "firstOutage": "2022-06-10",
-  "lastOutage": "2026-01-28",
+  "lastOutage": "2026-02-04",
   "outages": [
+    {
+      "date": "Le mercredi 4 février 2026 de  09:05:00 à  14:00:00",
+      "streets": "Ville Noire",
+      "from": "2026-02-04T05:05:00.000Z",
+      "to": "2026-02-04T10:00:00.000Z",
+      "id": "c586a696eb4cda38fe8094cb7d10de98"
+    },
     {
       "date": "Le mercredi 28 janvier 2026 de  07:35:00 à  08:45:00",
       "streets": "EN PARTIE VILLENOIRE",

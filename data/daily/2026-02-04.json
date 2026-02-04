@@ -1,8 +1,8 @@
 {
   "date": "2026-02-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-04T07:14:52.163Z",
-  "outageCount": 2,
+  "generated": "2026-02-04T08:06:44.580Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le mercredi 4 février 2026 de  08:30:00 à  15:30:00",
@@ -15,6 +15,26 @@
       "id": "8e445761e6471a7cd5615e66e4299148"
     },
     {
+      "date": "Le mercredi 4 février 2026 de  09:05:00 à  14:00:00",
+      "locality": "VILLENOIRE",
+      "localitySlug": "villenoire",
+      "streets": "Ville Noire",
+      "district": "grandport",
+      "from": "2026-02-04T05:05:00.000Z",
+      "to": "2026-02-04T10:00:00.000Z",
+      "id": "c586a696eb4cda38fe8094cb7d10de98"
+    },
+    {
+      "date": "Le mercredi 4 février 2026 de  10:00:00 à  13:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "DANES LES ALENTOURS DE COLLEGE LABOURDONNAIS, CWA ET NHDC",
+      "district": "portlouis",
+      "from": "2026-02-04T06:00:00.000Z",
+      "to": "2026-02-04T09:00:00.000Z",
+      "id": "8b319a2febf920bbbe8cf20f8ea94cca"
+    },
+    {
       "date": "Le mercredi 4 février 2026 de  09:00:00 à  15:30:00",
       "locality": "BAIE DU CAP",
       "localitySlug": "baie-du-cap",
@@ -23,6 +43,16 @@
       "from": "2026-02-04T05:00:00.000Z",
       "to": "2026-02-04T11:30:00.000Z",
       "id": "b7ace7eb8dd11f6e393d9f206468c931"
+    },
+    {
+      "date": "Le mercredi 4 février 2026 de  10:20:00 à  14:00:00",
+      "locality": "L-ESCALIER",
+      "localitySlug": "l-escalier",
+      "streets": "Morc Tagore,La Sourdine",
+      "district": "savanne",
+      "from": "2026-02-04T06:20:00.000Z",
+      "to": "2026-02-04T10:00:00.000Z",
+      "id": "b7d9240d3e9458575367e60f027f04a2"
     }
   ]
 }
