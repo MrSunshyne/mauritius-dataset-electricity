@@ -2,11 +2,18 @@
   "slug": "villebague",
   "name": "VILLEBAGUE",
   "district": "pamplemousses",
-  "generated": "2026-02-03T18:13:01.035Z",
-  "outageCount": 7,
+  "generated": "2026-02-04T06:11:41.558Z",
+  "outageCount": 8,
   "firstOutage": "2022-12-11",
-  "lastOutage": "2026-01-15",
+  "lastOutage": "2026-02-05",
   "outages": [
+    {
+      "date": "Le jeudi 5 février 2026 de  08:30:00 à  15:00:00",
+      "streets": "",
+      "from": "2026-02-05T04:30:00.000Z",
+      "to": "2026-02-05T11:00:00.000Z",
+      "id": "78a7315cc78ebc6699a00b7918558e98"
+    },
     {
       "date": "Le jeudi 15 janvier 2026 de  09:15:00 à  10:00:00",
       "streets": "MARE DAUSTRALIA,VILLE BAGUE,PONT PRASLIN,PETITE JULIE",
