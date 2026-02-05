@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-02-05T06:15:39.867Z",
-  "outageCount": 338,
+  "generated": "2026-02-05T07:18:49.492Z",
+  "outageCount": 339,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-02-05",
+  "lastOutage": "2026-02-06",
   "outages": [
+    {
+      "date": "Le vendredi 6 février 2026 de  09:00:00 à  15:00:00",
+      "streets": "Appadoo Lane, Morc Chooroomooney, Boulaky, en partie Route Bassin et Mgr Leen",
+      "from": "2026-02-06T05:00:00.000Z",
+      "to": "2026-02-06T11:00:00.000Z",
+      "id": "45fd6dce495315a53df8f698c217579b"
+    },
     {
       "date": "Le jeudi 5 février 2026 de  16:00:00 à  17:30:00",
       "streets": "Ave Hillcrest,Ave Rossignol,Ave Faucon et les environs",

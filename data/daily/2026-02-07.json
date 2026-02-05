@@ -1,8 +1,8 @@
 {
   "date": "2026-02-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-05T06:15:39.602Z",
-  "outageCount": 4,
+  "generated": "2026-02-05T07:18:49.197Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le samedi 7 février 2026 de  08:30:00 à  15:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-02-07T04:30:00.000Z",
       "to": "2026-02-07T11:30:00.000Z",
       "id": "dd350610a34dea565661c6de99050f8a"
+    },
+    {
+      "date": "Le samedi 7 février 2026 de  08:30:00 à  16:00:00",
+      "locality": "BLUE BAY",
+      "localitySlug": "blue-bay",
+      "streets": "Pointe D’Esny et Blue Bay habitant dans le périmètre et les rues suivantes: Pointe D’Esny, Blue Bay Police Station et dans les alentours de la Plage de Blue Bay",
+      "district": "grandport",
+      "from": "2026-02-07T04:30:00.000Z",
+      "to": "2026-02-07T12:00:00.000Z",
+      "id": "64fd2366348d3c941d34a15cc83e53f3"
     },
     {
       "date": "Le samedi 7 février 2026 de  10:00:00 à  14:00:00",
