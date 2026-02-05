@@ -2,11 +2,18 @@
   "slug": "sainte-croix",
   "name": "SAINTE CROIX",
   "district": "portlouis",
-  "generated": "2026-02-04T18:10:46.741Z",
-  "outageCount": 69,
+  "generated": "2026-02-05T06:15:39.905Z",
+  "outageCount": 70,
   "firstOutage": "2022-04-26",
-  "lastOutage": "2026-01-25",
+  "lastOutage": "2026-02-07",
   "outages": [
+    {
+      "date": "Le samedi 7 février 2026 de  08:30:00 à  14:00:00",
+      "streets": "DANS LES ENVIRONS DES RUES ALLEE PERE LAVAL, EUGENE, NEW SAINTE MARIE ET ISIDORE BOUQUET",
+      "from": "2026-02-07T04:30:00.000Z",
+      "to": "2026-02-07T10:00:00.000Z",
+      "id": "b741600d0e5f6629e1c6f12cbc08ad0c"
+    },
     {
       "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  15:00:00",
       "streets": "DANS LES ENVIRONS DES RUES PAUL TAUREAU, MARIAMEN TEMPLE, COCOTERIE, DUCRAY, RESIDENCE BRIQUETTERIE, ABERCOMBIE, SAINTE MARIE, UDHIN LANE, SHIVALA ROAD ET RESIDENCE ROMA",

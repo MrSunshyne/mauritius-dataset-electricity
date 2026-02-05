@@ -2,11 +2,18 @@
   "slug": "belle-rive-curepipe",
   "name": "BELLE RIVE CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-02-04T18:10:46.444Z",
-  "outageCount": 4,
+  "generated": "2026-02-05T06:15:39.650Z",
+  "outageCount": 5,
   "firstOutage": "2024-04-19",
-  "lastOutage": "2024-09-16",
+  "lastOutage": "2026-02-05",
   "outages": [
+    {
+      "date": "Le jeudi 5 février 2026 de  09:10:00 à  14:00:00",
+      "streets": "DANS LES ENVIRONS CHASSEE ET LA FERME.",
+      "from": "2026-02-05T05:10:00.000Z",
+      "to": "2026-02-05T10:00:00.000Z",
+      "id": "4cd94e929630782da0fd12231a2a5742"
+    },
     {
       "date": "Le lundi 16 septembre 2024 de  16:00:00 à  18:00:00",
       "streets": "La Fileuse",

@@ -1,8 +1,8 @@
 {
   "date": "2026-02-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-04T18:10:46.391Z",
-  "outageCount": 7,
+  "generated": "2026-02-05T06:15:39.602Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le jeudi 5 février 2026 de  09:00:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-02-05T05:00:00.000Z",
       "to": "2026-02-05T11:00:00.000Z",
       "id": "21ba85914e6730cf2500f0ce13ef78e1"
+    },
+    {
+      "date": "Le jeudi 5 février 2026 de  12:30:00 à  14:00:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "New Market Rd, Old Market Rd Central Flacq.",
+      "district": "flacq",
+      "from": "2026-02-05T08:30:00.000Z",
+      "to": "2026-02-05T10:00:00.000Z",
+      "id": "1c4de227de527bc93bb77634c7bb0674"
     },
     {
       "date": "Le jeudi 5 février 2026 de  09:00:00 à  17:00:00",
@@ -55,14 +65,34 @@
       "id": "faf01a4d48263caf02b039f57f4b856e"
     },
     {
-      "date": "Le jeudi 5 février 2026 de  08:30:00 à  09:30:00",
+      "date": "Le jeudi 5 février 2026 de  08:30:00 à  11:00:00",
       "locality": "QUATRE-BORNES",
       "localitySlug": "quatre-bornes",
       "streets": "Ave Hillcrest,Ave Rossignol,Ave Faucon et les environs",
       "district": "plainewilhems",
       "from": "2026-02-05T04:30:00.000Z",
-      "to": "2026-02-05T05:30:00.000Z",
-      "id": "9a9e07fa9496e1b14502b9066c3cba82"
+      "to": "2026-02-05T07:00:00.000Z",
+      "id": "da279c111908b15e33f62aba68a8daa8"
+    },
+    {
+      "date": "Le jeudi 5 février 2026 de  09:10:00 à  14:00:00",
+      "locality": "BELLE RIVE CUREPIPE",
+      "localitySlug": "belle-rive-curepipe",
+      "streets": "DANS LES ENVIRONS CHASSEE ET LA FERME.",
+      "district": "plainewilhems",
+      "from": "2026-02-05T05:10:00.000Z",
+      "to": "2026-02-05T10:00:00.000Z",
+      "id": "4cd94e929630782da0fd12231a2a5742"
+    },
+    {
+      "date": "Le jeudi 5 février 2026 de  10:00:00 à  11:00:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "CITE CHEMIN BRULEE PAILLES DANS LES ENVIRONS DREAMPRICE.",
+      "district": "portlouis",
+      "from": "2026-02-05T06:00:00.000Z",
+      "to": "2026-02-05T07:00:00.000Z",
+      "id": "d1838350ac21a09803c50225a68a6541"
     },
     {
       "date": "Le jeudi 5 février 2026 de  09:00:00 à  15:30:00",

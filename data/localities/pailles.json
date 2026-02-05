@@ -2,11 +2,18 @@
   "slug": "pailles",
   "name": "PAILLES",
   "district": "portlouis",
-  "generated": "2026-02-04T18:10:46.644Z",
-  "outageCount": 70,
+  "generated": "2026-02-05T06:15:39.825Z",
+  "outageCount": 71,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-01-21",
+  "lastOutage": "2026-02-05",
   "outages": [
+    {
+      "date": "Le jeudi 5 février 2026 de  10:00:00 à  11:00:00",
+      "streets": "CITE CHEMIN BRULEE PAILLES DANS LES ENVIRONS DREAMPRICE.",
+      "from": "2026-02-05T06:00:00.000Z",
+      "to": "2026-02-05T07:00:00.000Z",
+      "id": "d1838350ac21a09803c50225a68a6541"
+    },
     {
       "date": "Le mercredi 21 janvier 2026 de  22:00:00 à  01:00:00",
       "streets": "AVE BENGALI, COLLINE, SAWMY VIVEKANANDA, LES GUIBIES, MORC RAFFRAY AND SURROUNDINGS",

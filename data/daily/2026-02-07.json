@@ -1,9 +1,19 @@
 {
   "date": "2026-02-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-04T18:10:46.391Z",
-  "outageCount": 2,
+  "generated": "2026-02-05T06:15:39.602Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le samedi 7 février 2026 de  08:30:00 à  15:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "ALLEE TAMARIN, AVE VAUDAGNE, ALLEE JACQUES, AVE BOUNDARY, AVE BELE ISLE, AVE DES MANGUIERS, AVE DE LINDEPENDENCE, WINNERS BAMBOUS, MORC BELLE ISLE OSMAN, MORC WINNERS ET UNE PARTIE DE LA BLACK RIVER ROAD BAMBOUS",
+      "district": "blackriver",
+      "from": "2026-02-07T04:30:00.000Z",
+      "to": "2026-02-07T11:30:00.000Z",
+      "id": "dd350610a34dea565661c6de99050f8a"
+    },
     {
       "date": "Le samedi 7 février 2026 de  10:00:00 à  14:00:00",
       "locality": "VALLEE DES PRETRES",
@@ -23,6 +33,16 @@
       "from": "2026-02-07T08:00:00.000Z",
       "to": "2026-02-07T10:00:00.000Z",
       "id": "f9605264d7f793cd7523293de42388fe"
+    },
+    {
+      "date": "Le samedi 7 février 2026 de  08:30:00 à  14:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "DANS LES ENVIRONS DES RUES ALLEE PERE LAVAL, EUGENE, NEW SAINTE MARIE ET ISIDORE BOUQUET",
+      "district": "portlouis",
+      "from": "2026-02-07T04:30:00.000Z",
+      "to": "2026-02-07T10:00:00.000Z",
+      "id": "b741600d0e5f6629e1c6f12cbc08ad0c"
     }
   ]
 }
