@@ -2,11 +2,18 @@
   "slug": "rose-hill",
   "name": "ROSE-HILL",
   "district": "plainewilhems",
-  "generated": "2026-02-05T10:11:25.650Z",
-  "outageCount": 135,
+  "generated": "2026-02-05T11:11:02.178Z",
+  "outageCount": 136,
   "firstOutage": "2022-05-20",
-  "lastOutage": "2026-02-04",
+  "lastOutage": "2026-02-07",
   "outages": [
+    {
+      "date": "Le samedi 7 février 2026 de  08:30:00 à  15:00:00",
+      "streets": "Ave Nubee, Rue Madame, en partie Ave Berthaud, Ave Toureau, Ave Baitka, Ave Cretin, Prince Charles, Ste Anne, Ave Panchoo, Ave Jinnah et les environs",
+      "from": "2026-02-07T04:30:00.000Z",
+      "to": "2026-02-07T11:00:00.000Z",
+      "id": "74283a47aed539d5cec24ce61ac85221"
+    },
     {
       "date": "Le mercredi 4 février 2026 de  14:30:00 à  17:30:00",
       "streets": "LA PLACE ST,SHANTILALL DANJEE,PART OF LABOURDONNAIS",

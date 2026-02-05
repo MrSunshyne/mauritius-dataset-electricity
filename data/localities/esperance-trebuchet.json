@@ -2,11 +2,18 @@
   "slug": "esperance-trebuchet",
   "name": "ESPERANCE TREBUCHET",
   "district": "rivieredurempart",
-  "generated": "2026-02-05T10:11:25.467Z",
-  "outageCount": 23,
+  "generated": "2026-02-05T11:11:01.966Z",
+  "outageCount": 24,
   "firstOutage": "2022-03-14",
-  "lastOutage": "2025-12-14",
+  "lastOutage": "2026-02-05",
   "outages": [
+    {
+      "date": "Le jeudi 5 février 2026 de  15:00:00 à  17:00:00",
+      "streets": "Royal Road,Towards Shivala",
+      "from": "2026-02-05T11:00:00.000Z",
+      "to": "2026-02-05T13:00:00.000Z",
+      "id": "61259f9dd73308cc3f8258cf4b061602"
+    },
     {
       "date": "Le dimanche 14 décembre 2025 de  08:30:00 à  13:00:00",
       "streets": "MME BARBE, ANAND ROAD, RAJA ROAD, SCHOOL ROAD AND DIAGONAL ROAD, LESPERANCE TREBUCHET- OFFICER IN CHARGE STO RUSMAULLY FOR GOODLANDS SECTION",

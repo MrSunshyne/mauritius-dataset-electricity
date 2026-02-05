@@ -1,8 +1,8 @@
 {
   "date": "2026-02-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-05T10:11:25.329Z",
-  "outageCount": 5,
+  "generated": "2026-02-05T11:11:01.828Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le samedi 7 février 2026 de  08:30:00 à  15:30:00",
@@ -23,6 +23,16 @@
       "from": "2026-02-07T04:30:00.000Z",
       "to": "2026-02-07T12:00:00.000Z",
       "id": "64fd2366348d3c941d34a15cc83e53f3"
+    },
+    {
+      "date": "Le samedi 7 février 2026 de  08:30:00 à  15:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Ave Nubee, Rue Madame, en partie Ave Berthaud, Ave Toureau, Ave Baitka, Ave Cretin, Prince Charles, Ste Anne, Ave Panchoo, Ave Jinnah et les environs",
+      "district": "plainewilhems",
+      "from": "2026-02-07T04:30:00.000Z",
+      "to": "2026-02-07T11:00:00.000Z",
+      "id": "74283a47aed539d5cec24ce61ac85221"
     },
     {
       "date": "Le samedi 7 février 2026 de  10:00:00 à  14:00:00",

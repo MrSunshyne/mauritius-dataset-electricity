@@ -1,8 +1,8 @@
 {
   "date": "2026-02-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-05T10:11:25.329Z",
-  "outageCount": 3,
+  "generated": "2026-02-05T11:11:01.828Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le dimanche 8 février 2026 de  08:30:00 à  17:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-02-08T04:30:00.000Z",
       "to": "2026-02-08T09:00:00.000Z",
       "id": "108580b28c792347e577509517e46861"
+    },
+    {
+      "date": "Le dimanche 8 février 2026 de  08:30:00 à  15:00:00",
+      "locality": "TOUR KOENIG",
+      "localitySlug": "tour-koenig",
+      "streets": "DANS LES ENVIRONS DÁVENUE LA TOUR KOENIG ET LA ZONE INDUSTRIELLE",
+      "district": "portlouis",
+      "from": "2026-02-08T04:30:00.000Z",
+      "to": "2026-02-08T11:00:00.000Z",
+      "id": "8cf259a153f1f16cea6ea761e7422859"
     },
     {
       "date": "Le dimanche 8 février 2026 de  09:00:00 à  17:00:00",

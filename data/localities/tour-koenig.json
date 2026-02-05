@@ -2,11 +2,18 @@
   "slug": "tour-koenig",
   "name": "TOUR KOENIG",
   "district": "portlouis",
-  "generated": "2026-02-05T10:11:25.682Z",
-  "outageCount": 21,
+  "generated": "2026-02-05T11:11:02.210Z",
+  "outageCount": 22,
   "firstOutage": "2022-11-05",
-  "lastOutage": "2026-01-21",
+  "lastOutage": "2026-02-08",
   "outages": [
+    {
+      "date": "Le dimanche 8 février 2026 de  08:30:00 à  15:00:00",
+      "streets": "DANS LES ENVIRONS DÁVENUE LA TOUR KOENIG ET LA ZONE INDUSTRIELLE",
+      "from": "2026-02-08T04:30:00.000Z",
+      "to": "2026-02-08T11:00:00.000Z",
+      "id": "8cf259a153f1f16cea6ea761e7422859"
+    },
     {
       "date": "Le mercredi 21 janvier 2026 de  17:00:00 à  19:00:00",
       "streets": "DANS LES ENVIRONS DES AVENUES CONCORDE ET PEUPLIERS",

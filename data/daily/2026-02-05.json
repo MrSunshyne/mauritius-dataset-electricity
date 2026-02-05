@@ -1,8 +1,8 @@
 {
   "date": "2026-02-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-05T10:11:25.329Z",
-  "outageCount": 12,
+  "generated": "2026-02-05T11:11:01.828Z",
+  "outageCount": 14,
   "outages": [
     {
       "date": "Le jeudi 5 février 2026 de  13:00:00 à  14:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-02-05T09:00:00.000Z",
       "to": "2026-02-05T10:00:00.000Z",
       "id": "8c2503faee330881d43c458ae837ebdb"
+    },
+    {
+      "date": "Le jeudi 5 février 2026 de  14:00:00 à  17:00:00",
+      "locality": "GROS CAILLOUX",
+      "localitySlug": "gros-cailloux",
+      "streets": "Royal Road,Bosquet Rds",
+      "district": "blackriver",
+      "from": "2026-02-05T10:00:00.000Z",
+      "to": "2026-02-05T13:00:00.000Z",
+      "id": "5d29ec837a38f1c7d88e4dbd06bf412f"
     },
     {
       "date": "Le jeudi 5 février 2026 de  09:00:00 à  15:00:00",
@@ -113,6 +123,16 @@
       "from": "2026-02-05T06:00:00.000Z",
       "to": "2026-02-05T07:00:00.000Z",
       "id": "d1838350ac21a09803c50225a68a6541"
+    },
+    {
+      "date": "Le jeudi 5 février 2026 de  15:00:00 à  17:00:00",
+      "locality": "ESPERANCE TREBUCHET",
+      "localitySlug": "esperance-trebuchet",
+      "streets": "Royal Road,Towards Shivala",
+      "district": "rivieredurempart",
+      "from": "2026-02-05T11:00:00.000Z",
+      "to": "2026-02-05T13:00:00.000Z",
+      "id": "61259f9dd73308cc3f8258cf4b061602"
     },
     {
       "date": "Le jeudi 5 février 2026 de  09:00:00 à  15:30:00",
