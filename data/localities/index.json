@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-05T08:08:13.114Z",
+  "generated": "2026-02-05T09:12:39.166Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -1006,7 +1006,7 @@
       "slug": "central-flacq",
       "name": "CENTRAL FLACQ",
       "district": "flacq",
-      "outageCount": 68,
+      "outageCount": 69,
       "file": "central-flacq.json",
       "firstOutage": "2022-03-13",
       "lastOutage": "2026-02-05"
@@ -1483,10 +1483,10 @@
       "slug": "flic-en-flac",
       "name": "FLIC-EN-FLAC",
       "district": "blackriver",
-      "outageCount": 209,
+      "outageCount": 210,
       "file": "flic-en-flac.json",
       "firstOutage": "2022-03-16",
-      "lastOutage": "2026-01-10"
+      "lastOutage": "2026-02-05"
     },
     {
       "slug": "floreal",

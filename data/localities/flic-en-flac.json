@@ -2,11 +2,18 @@
   "slug": "flic-en-flac",
   "name": "FLIC-EN-FLAC",
   "district": "blackriver",
-  "generated": "2026-02-05T08:08:12.870Z",
-  "outageCount": 209,
+  "generated": "2026-02-05T09:12:38.924Z",
+  "outageCount": 210,
   "firstOutage": "2022-03-16",
-  "lastOutage": "2026-01-10",
+  "lastOutage": "2026-02-05",
   "outages": [
+    {
+      "date": "Le jeudi 5 février 2026 de  13:00:00 à  14:00:00",
+      "streets": "MORC ST JACQUES : CHEMIN GLAIEUL ET LES ALENTOURS.",
+      "from": "2026-02-05T09:00:00.000Z",
+      "to": "2026-02-05T10:00:00.000Z",
+      "id": "8c2503faee330881d43c458ae837ebdb"
+    },
     {
       "date": "Le samedi 10 janvier 2026 de  10:00:00 à  14:00:00",
       "streets": "AVE DES COLOMBES, AVE DES AIGLONS, AVE DES PERDRIX ET AVE DES CANARIS",

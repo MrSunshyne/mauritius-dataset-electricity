@@ -2,11 +2,18 @@
   "slug": "central-flacq",
   "name": "CENTRAL FLACQ",
   "district": "flacq",
-  "generated": "2026-02-05T08:08:12.828Z",
-  "outageCount": 68,
+  "generated": "2026-02-05T09:12:38.882Z",
+  "outageCount": 69,
   "firstOutage": "2022-03-13",
   "lastOutage": "2026-02-05",
   "outages": [
+    {
+      "date": "Le jeudi 5 février 2026 de  13:10:00 à  14:30:00",
+      "streets": "DANS LES ENVIRONS WINNERS, EMCAR, ARCADE VIRGINIE, LA GARE ET LES ENVIRONS.",
+      "from": "2026-02-05T09:10:00.000Z",
+      "to": "2026-02-05T10:30:00.000Z",
+      "id": "b8ea3e3adffa0cae15fb40f1ca9527bb"
+    },
     {
       "date": "Le jeudi 5 février 2026 de  12:30:00 à  14:00:00",
       "streets": "New Market Rd, Old Market Rd Central Flacq.",

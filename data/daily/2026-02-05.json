@@ -1,9 +1,19 @@
 {
   "date": "2026-02-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-05T08:08:12.727Z",
-  "outageCount": 10,
+  "generated": "2026-02-05T09:12:38.784Z",
+  "outageCount": 12,
   "outages": [
+    {
+      "date": "Le jeudi 5 février 2026 de  13:00:00 à  14:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC ST JACQUES : CHEMIN GLAIEUL ET LES ALENTOURS.",
+      "district": "blackriver",
+      "from": "2026-02-05T09:00:00.000Z",
+      "to": "2026-02-05T10:00:00.000Z",
+      "id": "8c2503faee330881d43c458ae837ebdb"
+    },
     {
       "date": "Le jeudi 5 février 2026 de  09:00:00 à  15:00:00",
       "locality": "SEBASTOPOL",
@@ -23,6 +33,16 @@
       "from": "2026-02-05T08:30:00.000Z",
       "to": "2026-02-05T10:00:00.000Z",
       "id": "1c4de227de527bc93bb77634c7bb0674"
+    },
+    {
+      "date": "Le jeudi 5 février 2026 de  13:10:00 à  14:30:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "DANS LES ENVIRONS WINNERS, EMCAR, ARCADE VIRGINIE, LA GARE ET LES ENVIRONS.",
+      "district": "flacq",
+      "from": "2026-02-05T09:10:00.000Z",
+      "to": "2026-02-05T10:30:00.000Z",
+      "id": "b8ea3e3adffa0cae15fb40f1ca9527bb"
     },
     {
       "date": "Le jeudi 5 février 2026 de  09:00:00 à  17:00:00",
