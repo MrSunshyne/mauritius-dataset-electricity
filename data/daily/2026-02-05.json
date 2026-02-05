@@ -1,8 +1,8 @@
 {
   "date": "2026-02-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-05T11:11:01.828Z",
-  "outageCount": 14,
+  "generated": "2026-02-05T12:05:43.052Z",
+  "outageCount": 15,
   "outages": [
     {
       "date": "Le jeudi 5 février 2026 de  13:00:00 à  14:00:00",
@@ -63,6 +63,16 @@
       "from": "2026-02-05T05:00:00.000Z",
       "to": "2026-02-05T13:00:00.000Z",
       "id": "a93f3ee13307653e8e29f38ca28690bf"
+    },
+    {
+      "date": "Le jeudi 5 février 2026 de  16:00:00 à  17:00:00",
+      "locality": "NOUVELLE DECOUVERTE",
+      "localitySlug": "nouvelle-decouverte",
+      "streets": "SCHOOL LANE AND NEARBY REGION",
+      "district": "moka",
+      "from": "2026-02-05T12:00:00.000Z",
+      "to": "2026-02-05T13:00:00.000Z",
+      "id": "33b511e6e51f3ebdf9816fe5c154710d"
     },
     {
       "date": "Le jeudi 5 février 2026 de  08:30:00 à  15:00:00",
