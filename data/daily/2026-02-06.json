@@ -1,9 +1,39 @@
 {
   "date": "2026-02-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-05T18:12:19.803Z",
-  "outageCount": 2,
+  "generated": "2026-02-06T06:13:14.917Z",
+  "outageCount": 7,
   "outages": [
+    {
+      "date": "Le vendredi 6 février 2026 de  09:00:00 à  12:00:00",
+      "locality": "POSTE DE FLACQ",
+      "localitySlug": "poste-de-flacq",
+      "streets": "KASINATH ROAD POSTE DE FLAC",
+      "district": "flacq",
+      "from": "2026-02-06T05:00:00.000Z",
+      "to": "2026-02-06T08:00:00.000Z",
+      "id": "1ccd00e91849d71c2c064eb1bb67727a"
+    },
+    {
+      "date": "Le vendredi 6 février 2026 de  09:00:00 à  12:00:00",
+      "locality": "VIEUX GRAND PORT",
+      "localitySlug": "vieux-grand-port",
+      "streets": "GRAND PORT",
+      "district": "grandport",
+      "from": "2026-02-06T05:00:00.000Z",
+      "to": "2026-02-06T08:00:00.000Z",
+      "id": "362412a8251a14b4457d7f2ec6870210"
+    },
+    {
+      "date": "Le vendredi 6 février 2026 de  08:30:00 à  11:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "MORC FOONDUN, BASALT LANE & UBP",
+      "district": "pamplemousses",
+      "from": "2026-02-06T04:30:00.000Z",
+      "to": "2026-02-06T07:00:00.000Z",
+      "id": "89ec65f72da6526d3eb8e4634e0ee827"
+    },
     {
       "date": "Le vendredi 6 février 2026 de  09:00:00 à  15:00:00",
       "locality": "QUATRE-BORNES",
@@ -15,6 +45,16 @@
       "id": "45fd6dce495315a53df8f698c217579b"
     },
     {
+      "date": "Le vendredi 6 février 2026 de  09:00:00 à  11:00:00",
+      "locality": "BELLE ETOILE",
+      "localitySlug": "belle-etoile",
+      "streets": "FAIL, Poultry, Morc Kashinath, Kashinath Mandir Bel Etoile.",
+      "district": "plainewilhems",
+      "from": "2026-02-06T05:00:00.000Z",
+      "to": "2026-02-06T07:00:00.000Z",
+      "id": "7b950ea619714f9bb775170e8974b328"
+    },
+    {
       "date": "Le vendredi 6 février 2026 de  08:30:00 à  15:30:00",
       "locality": "POINTE AUX CANONNIERS",
       "localitySlug": "pointe-aux-canonniers",
@@ -23,6 +63,16 @@
       "from": "2026-02-06T04:30:00.000Z",
       "to": "2026-02-06T11:30:00.000Z",
       "id": "d24dd45a09fbc5ce6cf93d9af8239c88"
+    },
+    {
+      "date": "Le vendredi 6 février 2026 de  13:00:00 à  16:30:00",
+      "locality": "POINTE AUX CANONNIERS",
+      "localitySlug": "pointe-aux-canonniers",
+      "streets": "Entiere Region de Pointe Aux Cannoniers, Hotel Club Med et Hotel P aux Cannoniers",
+      "district": "rivieredurempart",
+      "from": "2026-02-06T09:00:00.000Z",
+      "to": "2026-02-06T12:30:00.000Z",
+      "id": "3260ff0d860d2b5a5e89973fa5bb91ff"
     }
   ]
 }

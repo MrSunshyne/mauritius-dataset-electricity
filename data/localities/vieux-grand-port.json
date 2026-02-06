@@ -2,11 +2,18 @@
   "slug": "vieux-grand-port",
   "name": "VIEUX GRAND PORT",
   "district": "grandport",
-  "generated": "2026-02-05T18:12:20.181Z",
-  "outageCount": 8,
+  "generated": "2026-02-06T06:13:15.277Z",
+  "outageCount": 9,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2025-12-05",
+  "lastOutage": "2026-02-06",
   "outages": [
+    {
+      "date": "Le vendredi 6 février 2026 de  09:00:00 à  12:00:00",
+      "streets": "GRAND PORT",
+      "from": "2026-02-06T05:00:00.000Z",
+      "to": "2026-02-06T08:00:00.000Z",
+      "id": "362412a8251a14b4457d7f2ec6870210"
+    },
     {
       "date": "Le vendredi 5 décembre 2025 de  11:00:00 à  16:30:00",
       "streets": "LES ABONNES DE VIEUX GRAND PORT ET BOIS DES AMOURETTES.",

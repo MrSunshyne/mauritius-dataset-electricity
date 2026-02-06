@@ -2,11 +2,18 @@
   "slug": "terre-rouge",
   "name": "TERRE ROUGE",
   "district": "pamplemousses",
-  "generated": "2026-02-05T18:12:20.160Z",
-  "outageCount": 98,
+  "generated": "2026-02-06T06:13:15.255Z",
+  "outageCount": 99,
   "firstOutage": "2022-03-14",
-  "lastOutage": "2026-02-03",
+  "lastOutage": "2026-02-06",
   "outages": [
+    {
+      "date": "Le vendredi 6 février 2026 de  08:30:00 à  11:00:00",
+      "streets": "MORC FOONDUN, BASALT LANE & UBP",
+      "from": "2026-02-06T04:30:00.000Z",
+      "to": "2026-02-06T07:00:00.000Z",
+      "id": "89ec65f72da6526d3eb8e4634e0ee827"
+    },
     {
       "date": "Le mardi 3 février 2026 de  21:30:00 à  00:45:00",
       "streets": "FLORIDA LANE TERRE ROUGE",

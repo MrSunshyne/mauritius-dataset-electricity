@@ -2,11 +2,18 @@
   "slug": "pointe-aux-canonniers",
   "name": "POINTE AUX CANONNIERS",
   "district": "rivieredurempart",
-  "generated": "2026-02-05T18:12:20.079Z",
-  "outageCount": 46,
+  "generated": "2026-02-06T06:13:15.182Z",
+  "outageCount": 47,
   "firstOutage": "2022-04-15",
   "lastOutage": "2026-02-06",
   "outages": [
+    {
+      "date": "Le vendredi 6 février 2026 de  13:00:00 à  16:30:00",
+      "streets": "Entiere Region de Pointe Aux Cannoniers, Hotel Club Med et Hotel P aux Cannoniers",
+      "from": "2026-02-06T09:00:00.000Z",
+      "to": "2026-02-06T12:30:00.000Z",
+      "id": "3260ff0d860d2b5a5e89973fa5bb91ff"
+    },
     {
       "date": "Le vendredi 6 février 2026 de  08:30:00 à  15:30:00",
       "streets": "Entiere Region de Pointe Aux Cannoniers, Hotel Club Med et Hotel P aux Cannoniers",

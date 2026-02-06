@@ -2,11 +2,18 @@
   "slug": "poste-de-flacq",
   "name": "POSTE DE FLACQ",
   "district": "flacq",
-  "generated": "2026-02-05T18:12:20.090Z",
-  "outageCount": 34,
+  "generated": "2026-02-06T06:13:15.193Z",
+  "outageCount": 35,
   "firstOutage": "2022-06-12",
-  "lastOutage": "2026-01-14",
+  "lastOutage": "2026-02-06",
   "outages": [
+    {
+      "date": "Le vendredi 6 février 2026 de  09:00:00 à  12:00:00",
+      "streets": "KASINATH ROAD POSTE DE FLAC",
+      "from": "2026-02-06T05:00:00.000Z",
+      "to": "2026-02-06T08:00:00.000Z",
+      "id": "1ccd00e91849d71c2c064eb1bb67727a"
+    },
     {
       "date": "Le mercredi 14 janvier 2026 de  08:30:00 à  14:00:00",
       "streets": "Providence La porte, Poste de Flacq",

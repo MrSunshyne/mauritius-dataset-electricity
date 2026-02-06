@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-05T18:12:20.187Z",
+  "generated": "2026-02-06T06:13:15.282Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -412,10 +412,10 @@
       "slug": "belle-etoile",
       "name": "BELLE ETOILE",
       "district": "plainewilhems",
-      "outageCount": 2,
+      "outageCount": 3,
       "file": "belle-etoile.json",
       "firstOutage": "2022-11-24",
-      "lastOutage": "2025-08-06"
+      "lastOutage": "2026-02-06"
     },
     {
       "slug": "belle-mare",
@@ -2986,7 +2986,7 @@
       "slug": "pointe-aux-canonniers",
       "name": "POINTE AUX CANONNIERS",
       "district": "rivieredurempart",
-      "outageCount": 46,
+      "outageCount": 47,
       "file": "pointe-aux-canonniers.json",
       "firstOutage": "2022-04-15",
       "lastOutage": "2026-02-06"
@@ -3112,10 +3112,10 @@
       "slug": "poste-de-flacq",
       "name": "POSTE DE FLACQ",
       "district": "flacq",
-      "outageCount": 34,
+      "outageCount": 35,
       "file": "poste-de-flacq.json",
       "firstOutage": "2022-06-12",
-      "lastOutage": "2026-01-14"
+      "lastOutage": "2026-02-06"
     },
     {
       "slug": "poste-lafayette",
@@ -3832,10 +3832,10 @@
       "slug": "terre-rouge",
       "name": "TERRE ROUGE",
       "district": "pamplemousses",
-      "outageCount": 98,
+      "outageCount": 99,
       "file": "terre-rouge.json",
       "firstOutage": "2022-03-14",
-      "lastOutage": "2026-02-03"
+      "lastOutage": "2026-02-06"
     },
     {
       "slug": "tombeau-bay",
@@ -4066,10 +4066,10 @@
       "slug": "vieux-grand-port",
       "name": "VIEUX GRAND PORT",
       "district": "grandport",
-      "outageCount": 8,
+      "outageCount": 9,
       "file": "vieux-grand-port.json",
       "firstOutage": "2022-04-13",
-      "lastOutage": "2025-12-05"
+      "lastOutage": "2026-02-06"
     },
     {
       "slug": "villebague",
