@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-06T11:10:10.911Z",
+  "generated": "2026-02-06T12:04:53.606Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -25,10 +25,10 @@
       "slug": "albion",
       "name": "ALBION",
       "district": "blackriver",
-      "outageCount": 100,
+      "outageCount": 101,
       "file": "albion.json",
       "firstOutage": "2022-06-06",
-      "lastOutage": "2026-02-01"
+      "lastOutage": "2026-02-07"
     },
     {
       "slug": "allee-brillant-castel",
@@ -286,10 +286,10 @@
       "slug": "beau-bassin",
       "name": "BEAU BASSIN",
       "district": "plainewilhems",
-      "outageCount": 160,
+      "outageCount": 163,
       "file": "beau-bassin.json",
       "firstOutage": "2022-03-25",
-      "lastOutage": "2026-01-29"
+      "lastOutage": "2026-02-08"
     },
     {
       "slug": "beau-bois",
@@ -2482,10 +2482,10 @@
       "slug": "mont-roches",
       "name": "MONT ROCHES",
       "district": "plainewilhems",
-      "outageCount": 21,
+      "outageCount": 22,
       "file": "mont-roches.json",
       "firstOutage": "2022-05-08",
-      "lastOutage": "2026-01-25"
+      "lastOutage": "2026-02-08"
     },
     {
       "slug": "mont-simonet",
@@ -3508,10 +3508,10 @@
       "slug": "rose-hill",
       "name": "ROSE-HILL",
       "district": "plainewilhems",
-      "outageCount": 136,
+      "outageCount": 137,
       "file": "rose-hill.json",
       "firstOutage": "2022-05-20",
-      "lastOutage": "2026-02-07"
+      "lastOutage": "2026-02-08"
     },
     {
       "slug": "roseaux",

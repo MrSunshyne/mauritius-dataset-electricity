@@ -1,8 +1,8 @@
 {
   "date": "2026-02-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-06T11:10:10.529Z",
-  "outageCount": 7,
+  "generated": "2026-02-06T12:04:53.242Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le samedi 7 février 2026 de  08:30:00 à  15:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-02-07T04:30:00.000Z",
       "to": "2026-02-07T11:30:00.000Z",
       "id": "dd350610a34dea565661c6de99050f8a"
+    },
+    {
+      "date": "Le samedi 7 février 2026 de  08:30:00 à  15:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "Camp Creole, Ave Pelican, Ave Flamingo, Ave Albatros, Ave Condor, Ave Vally, Ave Belle Eau, Ave La Source et les environs",
+      "district": "blackriver",
+      "from": "2026-02-07T04:30:00.000Z",
+      "to": "2026-02-07T11:00:00.000Z",
+      "id": "488d199a4f5b00d747e05575c0ef34e0"
     },
     {
       "date": "Le samedi 7 février 2026 de  08:30:00 à  16:00:00",

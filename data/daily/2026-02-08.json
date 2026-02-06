@@ -1,8 +1,8 @@
 {
   "date": "2026-02-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-06T11:10:10.530Z",
-  "outageCount": 6,
+  "generated": "2026-02-06T12:04:53.242Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le dimanche 8 février 2026 de  08:30:00 à  17:00:00",
@@ -23,6 +23,46 @@
       "from": "2026-02-08T04:30:00.000Z",
       "to": "2026-02-08T09:00:00.000Z",
       "id": "108580b28c792347e577509517e46861"
+    },
+    {
+      "date": "Le dimanche 8 février 2026 de  08:30:00 à  15:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Leoville LHomme, Gladstone, DEpinay, en partie Dr M. Cure, Prince des Galles, Remono et les environs",
+      "district": "plainewilhems",
+      "from": "2026-02-08T04:30:00.000Z",
+      "to": "2026-02-08T11:00:00.000Z",
+      "id": "e34240a3f1940e941b1cfbb7c5bda1f2"
+    },
+    {
+      "date": "Le dimanche 8 février 2026 de  13:30:00 à  14:30:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Prison Beau-Bassin, Ave Jasmin, Ave Cosmos, Ave Barkly Asylum, Res. Barkly, La Rue Herchenroder, MOA Barkly, Piscine Serge Alfred, RYC, Rivet et les environs",
+      "district": "plainewilhems",
+      "from": "2026-02-08T09:30:00.000Z",
+      "to": "2026-02-08T10:30:00.000Z",
+      "id": "0e3adafbdc3a542bba0d84885ea9c326"
+    },
+    {
+      "date": "Le dimanche 8 février 2026 de  08:30:00 à  09:30:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Prison Beau-Bassin, Ave Jasmin, Ave Cosmos, Ave Barkly Asylum, Res. Barkly, La Rue Herchenroder, MOA Barkly, Piscine Serge Alfred, RYC, Rivet et les environs",
+      "district": "plainewilhems",
+      "from": "2026-02-08T04:30:00.000Z",
+      "to": "2026-02-08T05:30:00.000Z",
+      "id": "728291035c72b7baf05ce1e13e9fdcbd"
+    },
+    {
+      "date": "Le dimanche 8 février 2026 de  08:30:00 à  14:00:00",
+      "locality": "MONT ROCHES",
+      "localitySlug": "mont-roches",
+      "streets": "Bakorysing, School Lane, Verge Bisambar, en partie Raymond Rivet et les environs",
+      "district": "plainewilhems",
+      "from": "2026-02-08T04:30:00.000Z",
+      "to": "2026-02-08T10:00:00.000Z",
+      "id": "c47c8131cc84e3ec35c6b6b5ff591eb2"
     },
     {
       "date": "Le dimanche 8 février 2026 de  08:30:00 à  15:00:00",

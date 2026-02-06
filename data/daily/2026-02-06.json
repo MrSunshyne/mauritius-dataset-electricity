@@ -1,8 +1,8 @@
 {
   "date": "2026-02-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-06T11:10:10.529Z",
-  "outageCount": 11,
+  "generated": "2026-02-06T12:04:53.242Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le vendredi 6 février 2026 de  09:00:00 à  12:00:00",
@@ -83,6 +83,16 @@
       "from": "2026-02-06T05:00:00.000Z",
       "to": "2026-02-06T07:00:00.000Z",
       "id": "7b950ea619714f9bb775170e8974b328"
+    },
+    {
+      "date": "Le vendredi 6 février 2026 de  15:30:00 à  17:30:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "MARCELLE LETANG, DR MOLIERRE, CYRIL LECKING, BISSAWON BHIKOO AND SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2026-02-06T11:30:00.000Z",
+      "to": "2026-02-06T13:30:00.000Z",
+      "id": "0c1ba8f57eb17cef033dca0d11039bc6"
     },
     {
       "date": "Le vendredi 6 février 2026 de  08:30:00 à  15:30:00",

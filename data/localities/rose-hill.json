@@ -2,11 +2,18 @@
   "slug": "rose-hill",
   "name": "ROSE-HILL",
   "district": "plainewilhems",
-  "generated": "2026-02-06T11:10:10.856Z",
-  "outageCount": 136,
+  "generated": "2026-02-06T12:04:53.551Z",
+  "outageCount": 137,
   "firstOutage": "2022-05-20",
-  "lastOutage": "2026-02-07",
+  "lastOutage": "2026-02-08",
   "outages": [
+    {
+      "date": "Le dimanche 8 février 2026 de  08:30:00 à  15:00:00",
+      "streets": "Leoville LHomme, Gladstone, DEpinay, en partie Dr M. Cure, Prince des Galles, Remono et les environs",
+      "from": "2026-02-08T04:30:00.000Z",
+      "to": "2026-02-08T11:00:00.000Z",
+      "id": "e34240a3f1940e941b1cfbb7c5bda1f2"
+    },
     {
       "date": "Le samedi 7 février 2026 de  08:30:00 à  15:00:00",
       "streets": "Ave Nubee, Rue Madame, en partie Ave Berthaud, Ave Toureau, Ave Baitka, Ave Cretin, Prince Charles, Ste Anne, Ave Panchoo, Ave Jinnah et les environs",

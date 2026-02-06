@@ -2,11 +2,32 @@
   "slug": "beau-bassin",
   "name": "BEAU BASSIN",
   "district": "plainewilhems",
-  "generated": "2026-02-06T11:10:10.566Z",
-  "outageCount": 160,
+  "generated": "2026-02-06T12:04:53.280Z",
+  "outageCount": 163,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-01-29",
+  "lastOutage": "2026-02-08",
   "outages": [
+    {
+      "date": "Le dimanche 8 février 2026 de  13:30:00 à  14:30:00",
+      "streets": "Prison Beau-Bassin, Ave Jasmin, Ave Cosmos, Ave Barkly Asylum, Res. Barkly, La Rue Herchenroder, MOA Barkly, Piscine Serge Alfred, RYC, Rivet et les environs",
+      "from": "2026-02-08T09:30:00.000Z",
+      "to": "2026-02-08T10:30:00.000Z",
+      "id": "0e3adafbdc3a542bba0d84885ea9c326"
+    },
+    {
+      "date": "Le dimanche 8 février 2026 de  08:30:00 à  09:30:00",
+      "streets": "Prison Beau-Bassin, Ave Jasmin, Ave Cosmos, Ave Barkly Asylum, Res. Barkly, La Rue Herchenroder, MOA Barkly, Piscine Serge Alfred, RYC, Rivet et les environs",
+      "from": "2026-02-08T04:30:00.000Z",
+      "to": "2026-02-08T05:30:00.000Z",
+      "id": "728291035c72b7baf05ce1e13e9fdcbd"
+    },
+    {
+      "date": "Le vendredi 6 février 2026 de  15:30:00 à  17:30:00",
+      "streets": "MARCELLE LETANG, DR MOLIERRE, CYRIL LECKING, BISSAWON BHIKOO AND SURROUNDINGS",
+      "from": "2026-02-06T11:30:00.000Z",
+      "to": "2026-02-06T13:30:00.000Z",
+      "id": "0c1ba8f57eb17cef033dca0d11039bc6"
+    },
     {
       "date": "Le jeudi 29 janvier 2026 de  15:00:00 à  17:30:00",
       "streets": "SOS VILLAGE, FLAT SELUCIA, VUILLEMIN, DR LESUR, KHODABACUS AVE, PHILLIPE RAOUL AVE, MAUDAVE AVE, DREAM PRICE BBASIIN, RESIDENCE VUILLEMIN, NHDC VUILLEMIN, DR REID, MAHADEO BILTOO, DUPERRE, CHATEUNEUF ET LES ENVIRONS",
