@@ -2,11 +2,25 @@
   "slug": "trou-aux-biches",
   "name": "TROU AUX BICHES",
   "district": "pamplemousses",
-  "generated": "2026-02-06T06:13:15.264Z",
-  "outageCount": 55,
+  "generated": "2026-02-06T07:16:18.777Z",
+  "outageCount": 57,
   "firstOutage": "2022-04-10",
-  "lastOutage": "2026-02-03",
+  "lastOutage": "2026-02-06",
   "outages": [
+    {
+      "date": "Le vendredi 6 février 2026 de  11:00:00 à  12:00:00",
+      "streets": "COASTAL RD TROU AUX BICHES-MORC MON CHOISY",
+      "from": "2026-02-06T07:00:00.000Z",
+      "to": "2026-02-06T08:00:00.000Z",
+      "id": "5449ed46e3f510bf66c99262623baac8"
+    },
+    {
+      "date": "Le vendredi 6 février 2026 de  10:50:00 à  12:00:00",
+      "streets": "POINTE AUX BICHES, 9EME MILE TRIOLET ET 20 PIEDS ROAD",
+      "from": "2026-02-06T06:50:00.000Z",
+      "to": "2026-02-06T08:00:00.000Z",
+      "id": "adc8baa37342213a11ca48f8864895d2"
+    },
     {
       "date": "Le mardi 3 février 2026 de  15:00:00 à  17:00:00",
       "streets": "Dans les environs de Supermarche POPO et Trio Road et POINTE AUX BICHES",

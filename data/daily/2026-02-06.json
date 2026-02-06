@@ -1,8 +1,8 @@
 {
   "date": "2026-02-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-06T06:13:14.917Z",
-  "outageCount": 7,
+  "generated": "2026-02-06T07:16:18.425Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le vendredi 6 février 2026 de  09:00:00 à  12:00:00",
@@ -33,6 +33,36 @@
       "from": "2026-02-06T04:30:00.000Z",
       "to": "2026-02-06T07:00:00.000Z",
       "id": "89ec65f72da6526d3eb8e4634e0ee827"
+    },
+    {
+      "date": "Le vendredi 6 février 2026 de  11:00:00 à  12:00:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "COASTAL RD TROU AUX BICHES-MORC MON CHOISY",
+      "district": "pamplemousses",
+      "from": "2026-02-06T07:00:00.000Z",
+      "to": "2026-02-06T08:00:00.000Z",
+      "id": "5449ed46e3f510bf66c99262623baac8"
+    },
+    {
+      "date": "Le vendredi 6 février 2026 de  10:50:00 à  12:00:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "POINTE AUX BICHES, 9EME MILE TRIOLET ET 20 PIEDS ROAD",
+      "district": "pamplemousses",
+      "from": "2026-02-06T06:50:00.000Z",
+      "to": "2026-02-06T08:00:00.000Z",
+      "id": "adc8baa37342213a11ca48f8864895d2"
+    },
+    {
+      "date": "Le vendredi 6 février 2026 de  10:30:00 à  14:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "MAHATMAGHANDI ROAD TRIOLET",
+      "district": "pamplemousses",
+      "from": "2026-02-06T06:30:00.000Z",
+      "to": "2026-02-06T10:00:00.000Z",
+      "id": "3c46dc04e68757fc209e1bc8b1b5fdcd"
     },
     {
       "date": "Le vendredi 6 février 2026 de  09:00:00 à  15:00:00",

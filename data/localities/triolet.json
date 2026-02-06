@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-02-06T06:13:15.261Z",
-  "outageCount": 102,
+  "generated": "2026-02-06T07:16:18.775Z",
+  "outageCount": 103,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-02-03",
+  "lastOutage": "2026-02-06",
   "outages": [
+    {
+      "date": "Le vendredi 6 février 2026 de  10:30:00 à  14:00:00",
+      "streets": "MAHATMAGHANDI ROAD TRIOLET",
+      "from": "2026-02-06T06:30:00.000Z",
+      "to": "2026-02-06T10:00:00.000Z",
+      "id": "3c46dc04e68757fc209e1bc8b1b5fdcd"
+    },
     {
       "date": "Le mardi 3 février 2026 de  15:00:00 à  17:00:00",
       "streets": "9eme Mille",
