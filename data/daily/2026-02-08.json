@@ -1,8 +1,8 @@
 {
   "date": "2026-02-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-06T09:11:56.063Z",
-  "outageCount": 4,
+  "generated": "2026-02-06T10:10:33.328Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le dimanche 8 février 2026 de  08:30:00 à  17:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-02-08T04:30:00.000Z",
       "to": "2026-02-08T11:00:00.000Z",
       "id": "8cf259a153f1f16cea6ea761e7422859"
+    },
+    {
+      "date": "Le dimanche 8 février 2026 de  08:30:00 à  15:30:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "TOORABALLY ROAD, MORC ST ANTOINE, MME AZOR, MLLE JEANNE, MORC PETIT VILLAGE, PLATEAU ROAD, ST ANTOINE COMPOUND, TRIANGLE ROAD, GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2026-02-08T04:30:00.000Z",
+      "to": "2026-02-08T11:30:00.000Z",
+      "id": "ee9194f7f32de6bdd6af052d52b1c802"
     },
     {
       "date": "Le dimanche 8 février 2026 de  09:00:00 à  17:00:00",

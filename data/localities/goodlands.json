@@ -2,11 +2,18 @@
   "slug": "goodlands",
   "name": "GOODLANDS",
   "district": "rivieredurempart",
-  "generated": "2026-02-06T09:11:56.212Z",
-  "outageCount": 114,
+  "generated": "2026-02-06T10:10:33.478Z",
+  "outageCount": 115,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-01-21",
+  "lastOutage": "2026-02-08",
   "outages": [
+    {
+      "date": "Le dimanche 8 février 2026 de  08:30:00 à  15:30:00",
+      "streets": "TOORABALLY ROAD, MORC ST ANTOINE, MME AZOR, MLLE JEANNE, MORC PETIT VILLAGE, PLATEAU ROAD, ST ANTOINE COMPOUND, TRIANGLE ROAD, GOODLANDS",
+      "from": "2026-02-08T04:30:00.000Z",
+      "to": "2026-02-08T11:30:00.000Z",
+      "id": "ee9194f7f32de6bdd6af052d52b1c802"
+    },
     {
       "date": "Le mercredi 21 janvier 2026 de  09:30:00 à  12:00:00",
       "streets": "SENTOZA RD GOODLANDS",
