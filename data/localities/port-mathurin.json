@@ -2,11 +2,18 @@
   "slug": "port-mathurin",
   "name": "PORT MATHURIN(RODRIGUES)",
   "district": "rodrigues",
-  "generated": "2026-02-06T10:10:33.606Z",
-  "outageCount": 8,
+  "generated": "2026-02-06T11:10:10.819Z",
+  "outageCount": 9,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2025-01-27",
+  "lastOutage": "2026-02-07",
   "outages": [
+    {
+      "date": "Le samedi 7 février 2026 de  08:30:00 à  14:00:00",
+      "streets": "Port Mathurin",
+      "from": "2026-02-07T04:30:00.000Z",
+      "to": "2026-02-07T10:00:00.000Z",
+      "id": "8b862f22f5bd2146fc9589b8c39ec240"
+    },
     {
       "date": "Le lundi 27 janvier 2025 de  14:00:00 à  16:00:00",
       "streets": "Port Mathurin dans les environs de Passenger Terminal, Supermarche Roussety et Alfred Northcombs",

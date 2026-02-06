@@ -1,8 +1,8 @@
 {
   "date": "2026-02-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-06T10:10:33.328Z",
-  "outageCount": 10,
+  "generated": "2026-02-06T11:10:10.529Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le vendredi 6 février 2026 de  09:00:00 à  12:00:00",
@@ -103,6 +103,16 @@
       "from": "2026-02-06T09:00:00.000Z",
       "to": "2026-02-06T12:30:00.000Z",
       "id": "3260ff0d860d2b5a5e89973fa5bb91ff"
+    },
+    {
+      "date": "Le vendredi 6 février 2026 de  14:00:00 à  15:00:00",
+      "locality": "BAIE DU CAP",
+      "localitySlug": "baie-du-cap",
+      "streets": "PART OF BAIE DU CAP",
+      "district": "savanne",
+      "from": "2026-02-06T10:00:00.000Z",
+      "to": "2026-02-06T11:00:00.000Z",
+      "id": "02a1e17c6fd5bc751e3f71dcc1faba5a"
     }
   ]
 }

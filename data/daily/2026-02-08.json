@@ -1,8 +1,8 @@
 {
   "date": "2026-02-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-06T10:10:33.328Z",
-  "outageCount": 5,
+  "generated": "2026-02-06T11:10:10.530Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le dimanche 8 février 2026 de  08:30:00 à  17:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-02-08T05:00:00.000Z",
       "to": "2026-02-08T13:00:00.000Z",
       "id": "5663f476ac1e9af3a4c3af5b38e522a7"
+    },
+    {
+      "date": "Le dimanche 8 février 2026 de  08:30:00 à  14:00:00",
+      "locality": "CAMP DU ROI(RODRIGUES)",
+      "localitySlug": "camp-du-roi",
+      "streets": "Pointe Monier et Fond La Digue",
+      "district": "rodrigues",
+      "from": "2026-02-08T04:30:00.000Z",
+      "to": "2026-02-08T10:00:00.000Z",
+      "id": "f257bf7712504aa468f2ce906ab94a02"
     }
   ]
 }

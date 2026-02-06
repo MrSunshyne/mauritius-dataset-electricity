@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-06T10:10:33.698Z",
+  "generated": "2026-02-06T11:10:10.911Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -133,10 +133,10 @@
       "slug": "baie-du-cap",
       "name": "BAIE DU CAP",
       "district": "savanne",
-      "outageCount": 32,
+      "outageCount": 33,
       "file": "baie-du-cap.json",
       "firstOutage": "2022-06-29",
-      "lastOutage": "2026-02-05"
+      "lastOutage": "2026-02-06"
     },
     {
       "slug": "baie-du-nord",
@@ -745,10 +745,10 @@
       "slug": "camp-du-roi",
       "name": "CAMP DU ROI(RODRIGUES)",
       "district": "rodrigues",
-      "outageCount": 8,
+      "outageCount": 9,
       "file": "camp-du-roi.json",
       "firstOutage": "2025-02-15",
-      "lastOutage": "2026-01-17"
+      "lastOutage": "2026-02-08"
     },
     {
       "slug": "camp-fouquereaux",
@@ -3103,10 +3103,10 @@
       "slug": "port-mathurin",
       "name": "PORT MATHURIN(RODRIGUES)",
       "district": "rodrigues",
-      "outageCount": 8,
+      "outageCount": 9,
       "file": "port-mathurin.json",
       "firstOutage": "2022-04-13",
-      "lastOutage": "2025-01-27"
+      "lastOutage": "2026-02-07"
     },
     {
       "slug": "poste-de-flacq",
