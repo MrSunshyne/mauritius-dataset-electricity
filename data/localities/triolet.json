@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-02-07T15:03:19.529Z",
-  "outageCount": 105,
+  "generated": "2026-02-07T16:02:21.943Z",
+  "outageCount": 106,
   "firstOutage": "2022-04-08",
   "lastOutage": "2026-02-07",
   "outages": [
+    {
+      "date": "Le samedi 7 février 2026 de  19:00:00 à  23:00:00",
+      "streets": "DERNINGHAM ROAD,SEENEEVASSEN TRIOLET",
+      "from": "2026-02-07T15:00:00.000Z",
+      "to": "2026-02-07T19:00:00.000Z",
+      "id": "d6b1f88c4ac4d9503ed6336a5b1e8590"
+    },
     {
       "date": "Le samedi 7 février 2026 de  15:00:00 à  18:00:00",
       "streets": "DISPENSARY ROAD & SURROUNDINGS",

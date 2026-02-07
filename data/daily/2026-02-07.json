@@ -1,8 +1,8 @@
 {
   "date": "2026-02-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-07T15:03:19.167Z",
-  "outageCount": 13,
+  "generated": "2026-02-07T16:02:21.586Z",
+  "outageCount": 14,
   "outages": [
     {
       "date": "Le samedi 7 février 2026 de  08:30:00 à  15:30:00",
@@ -53,6 +53,16 @@
       "from": "2026-02-07T11:00:00.000Z",
       "to": "2026-02-07T14:00:00.000Z",
       "id": "de5a004b6ab8c5588fe7544f077815fa"
+    },
+    {
+      "date": "Le samedi 7 février 2026 de  19:00:00 à  23:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "DERNINGHAM ROAD,SEENEEVASSEN TRIOLET",
+      "district": "pamplemousses",
+      "from": "2026-02-07T15:00:00.000Z",
+      "to": "2026-02-07T19:00:00.000Z",
+      "id": "d6b1f88c4ac4d9503ed6336a5b1e8590"
     },
     {
       "date": "Le samedi 7 février 2026 de  08:30:00 à  15:00:00",
