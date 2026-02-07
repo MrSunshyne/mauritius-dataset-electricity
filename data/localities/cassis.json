@@ -2,11 +2,18 @@
   "slug": "cassis",
   "name": "CASSIS",
   "district": "portlouis",
-  "generated": "2026-02-07T10:02:01.631Z",
-  "outageCount": 34,
+  "generated": "2026-02-07T11:02:26.714Z",
+  "outageCount": 35,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-01-29",
+  "lastOutage": "2026-02-07",
   "outages": [
+    {
+      "date": "Le samedi 7 février 2026 de  14:00:00 à  15:30:00",
+      "streets": "ROUTE MENAGERIE ET LES ALENTOURS",
+      "from": "2026-02-07T10:00:00.000Z",
+      "to": "2026-02-07T11:30:00.000Z",
+      "id": "23c3b061afc4221422654477122f4001"
+    },
     {
       "date": "Le jeudi 29 janvier 2026 de  15:00:00 à  18:00:00",
       "streets": "DANS LES ENVIRONS DE LA RUE JEAN BAPTISTE LAMASSE",

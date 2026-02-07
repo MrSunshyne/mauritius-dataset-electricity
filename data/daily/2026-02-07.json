@@ -1,8 +1,8 @@
 {
   "date": "2026-02-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-07T10:02:01.533Z",
-  "outageCount": 11,
+  "generated": "2026-02-07T11:02:26.620Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le samedi 7 février 2026 de  08:30:00 à  15:30:00",
@@ -83,6 +83,16 @@
       "from": "2026-02-07T04:30:00.000Z",
       "to": "2026-02-07T10:00:00.000Z",
       "id": "b741600d0e5f6629e1c6f12cbc08ad0c"
+    },
+    {
+      "date": "Le samedi 7 février 2026 de  14:00:00 à  15:30:00",
+      "locality": "CASSIS",
+      "localitySlug": "cassis",
+      "streets": "ROUTE MENAGERIE ET LES ALENTOURS",
+      "district": "portlouis",
+      "from": "2026-02-07T10:00:00.000Z",
+      "to": "2026-02-07T11:30:00.000Z",
+      "id": "23c3b061afc4221422654477122f4001"
     },
     {
       "date": "Le samedi 7 février 2026 de  09:00:00 à  13:00:00",
