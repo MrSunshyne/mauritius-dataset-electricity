@@ -1,8 +1,8 @@
 {
   "date": "2026-02-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-07T11:02:26.620Z",
-  "outageCount": 12,
+  "generated": "2026-02-07T12:01:59.472Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le samedi 7 février 2026 de  08:30:00 à  15:30:00",
@@ -43,6 +43,16 @@
       "from": "2026-02-07T07:45:00.000Z",
       "to": "2026-02-07T09:30:00.000Z",
       "id": "42f1b146ef0c5841fde8cb92cb391085"
+    },
+    {
+      "date": "Le samedi 7 février 2026 de  15:00:00 à  18:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "DISPENSARY ROAD & SURROUNDINGS",
+      "district": "pamplemousses",
+      "from": "2026-02-07T11:00:00.000Z",
+      "to": "2026-02-07T14:00:00.000Z",
+      "id": "de5a004b6ab8c5588fe7544f077815fa"
     },
     {
       "date": "Le samedi 7 février 2026 de  08:30:00 à  15:00:00",
@@ -115,14 +125,14 @@
       "id": "50f8d884b3f951d244cbb239ba3d1389"
     },
     {
-      "date": "Le samedi 7 février 2026 de  08:30:00 à  14:00:00",
+      "date": "Le samedi 7 février 2026 de  08:30:00 à  16:00:00",
       "locality": "PORT MATHURIN(RODRIGUES)",
       "localitySlug": "port-mathurin",
       "streets": "Port Mathurin",
       "district": "rodrigues",
       "from": "2026-02-07T04:30:00.000Z",
-      "to": "2026-02-07T10:00:00.000Z",
-      "id": "8b862f22f5bd2146fc9589b8c39ec240"
+      "to": "2026-02-07T12:00:00.000Z",
+      "id": "27911fdf8534f548fb66774756c3372c"
     }
   ]
 }

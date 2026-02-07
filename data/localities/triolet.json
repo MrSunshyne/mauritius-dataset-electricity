@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-02-07T11:02:26.958Z",
-  "outageCount": 104,
+  "generated": "2026-02-07T12:01:59.816Z",
+  "outageCount": 105,
   "firstOutage": "2022-04-08",
   "lastOutage": "2026-02-07",
   "outages": [
+    {
+      "date": "Le samedi 7 février 2026 de  15:00:00 à  18:00:00",
+      "streets": "DISPENSARY ROAD & SURROUNDINGS",
+      "from": "2026-02-07T11:00:00.000Z",
+      "to": "2026-02-07T14:00:00.000Z",
+      "id": "de5a004b6ab8c5588fe7544f077815fa"
+    },
     {
       "date": "Le samedi 7 février 2026 de  11:45:00 à  13:30:00",
       "streets": "TAGORE RD-SEWRAJ RD TRIOLET",
