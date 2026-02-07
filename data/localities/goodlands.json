@@ -2,8 +2,8 @@
   "slug": "goodlands",
   "name": "GOODLANDS",
   "district": "rivieredurempart",
-  "generated": "2026-02-07T07:10:43.245Z",
-  "outageCount": 115,
+  "generated": "2026-02-07T08:02:33.942Z",
+  "outageCount": 116,
   "firstOutage": "2022-03-27",
   "lastOutage": "2026-02-08",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-02-08T04:30:00.000Z",
       "to": "2026-02-08T11:30:00.000Z",
       "id": "ee9194f7f32de6bdd6af052d52b1c802"
+    },
+    {
+      "date": "Le samedi 7 février 2026 de  09:00:00 à  13:00:00",
+      "streets": "BALKAN RD GOODLANDS",
+      "from": "2026-02-07T05:00:00.000Z",
+      "to": "2026-02-07T09:00:00.000Z",
+      "id": "7564358b15e13aa407ab830d8e896cb3"
     },
     {
       "date": "Le mercredi 21 janvier 2026 de  09:30:00 à  12:00:00",

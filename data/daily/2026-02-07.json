@@ -1,8 +1,8 @@
 {
   "date": "2026-02-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-07T07:10:43.098Z",
-  "outageCount": 8,
+  "generated": "2026-02-07T08:02:33.791Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le samedi 7 février 2026 de  08:30:00 à  15:30:00",
@@ -33,6 +33,16 @@
       "from": "2026-02-07T04:30:00.000Z",
       "to": "2026-02-07T12:00:00.000Z",
       "id": "64fd2366348d3c941d34a15cc83e53f3"
+    },
+    {
+      "date": "Le samedi 7 février 2026 de  11:45:00 à  13:30:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "TAGORE RD-SEWRAJ RD TRIOLET",
+      "district": "pamplemousses",
+      "from": "2026-02-07T07:45:00.000Z",
+      "to": "2026-02-07T09:30:00.000Z",
+      "id": "42f1b146ef0c5841fde8cb92cb391085"
     },
     {
       "date": "Le samedi 7 février 2026 de  08:30:00 à  15:00:00",
@@ -73,6 +83,26 @@
       "from": "2026-02-07T04:30:00.000Z",
       "to": "2026-02-07T10:00:00.000Z",
       "id": "b741600d0e5f6629e1c6f12cbc08ad0c"
+    },
+    {
+      "date": "Le samedi 7 février 2026 de  09:00:00 à  13:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "BALKAN RD GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2026-02-07T05:00:00.000Z",
+      "to": "2026-02-07T09:00:00.000Z",
+      "id": "7564358b15e13aa407ab830d8e896cb3"
+    },
+    {
+      "date": "Le samedi 7 février 2026 de  11:15:00 à  16:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "GERANIUM RD G BAY",
+      "district": "rivieredurempart",
+      "from": "2026-02-07T07:15:00.000Z",
+      "to": "2026-02-07T12:00:00.000Z",
+      "id": "50f8d884b3f951d244cbb239ba3d1389"
     },
     {
       "date": "Le samedi 7 février 2026 de  08:30:00 à  14:00:00",

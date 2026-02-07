@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-07T07:10:43.460Z",
+  "generated": "2026-02-07T08:02:34.161Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -1564,7 +1564,7 @@
       "slug": "goodlands",
       "name": "GOODLANDS",
       "district": "rivieredurempart",
-      "outageCount": 115,
+      "outageCount": 116,
       "file": "goodlands.json",
       "firstOutage": "2022-03-27",
       "lastOutage": "2026-02-08"
@@ -1582,10 +1582,10 @@
       "slug": "grand-bay",
       "name": "GRAND BAY",
       "district": "rivieredurempart",
-      "outageCount": 95,
+      "outageCount": 96,
       "file": "grand-bay.json",
       "firstOutage": "2022-03-20",
-      "lastOutage": "2026-01-30"
+      "lastOutage": "2026-02-07"
     },
     {
       "slug": "grand-bel-air",
@@ -3895,10 +3895,10 @@
       "slug": "triolet",
       "name": "TRIOLET",
       "district": "pamplemousses",
-      "outageCount": 103,
+      "outageCount": 104,
       "file": "triolet.json",
       "firstOutage": "2022-04-08",
-      "lastOutage": "2026-02-06"
+      "lastOutage": "2026-02-07"
     },
     {
       "slug": "trois-boutiques-triolet",

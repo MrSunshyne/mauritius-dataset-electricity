@@ -2,11 +2,18 @@
   "slug": "grand-bay",
   "name": "GRAND BAY",
   "district": "rivieredurempart",
-  "generated": "2026-02-07T07:10:43.247Z",
-  "outageCount": 95,
+  "generated": "2026-02-07T08:02:33.944Z",
+  "outageCount": 96,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-01-30",
+  "lastOutage": "2026-02-07",
   "outages": [
+    {
+      "date": "Le samedi 7 février 2026 de  11:15:00 à  16:00:00",
+      "streets": "GERANIUM RD G BAY",
+      "from": "2026-02-07T07:15:00.000Z",
+      "to": "2026-02-07T12:00:00.000Z",
+      "id": "50f8d884b3f951d244cbb239ba3d1389"
+    },
     {
       "date": "Le vendredi 30 janvier 2026 de  10:00:00 à  11:30:00",
       "streets": "COASTAL ROAD AND SURROUNDINGS",
