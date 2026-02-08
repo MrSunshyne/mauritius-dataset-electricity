@@ -1,9 +1,19 @@
 {
   "date": "2026-02-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-07T18:02:14.091Z",
-  "outageCount": 10,
+  "generated": "2026-02-08T06:13:29.524Z",
+  "outageCount": 11,
   "outages": [
+    {
+      "date": "Le dimanche 8 février 2026 de  08:00:00 à  12:00:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "MORC LAFALAISE TAMARIN",
+      "district": "blackriver",
+      "from": "2026-02-08T04:00:00.000Z",
+      "to": "2026-02-08T08:00:00.000Z",
+      "id": "f812ac38ffdcae6fc7d634ddc23a7a91"
+    },
     {
       "date": "Le dimanche 8 février 2026 de  08:30:00 à  17:00:00",
       "locality": "FLOREAL",

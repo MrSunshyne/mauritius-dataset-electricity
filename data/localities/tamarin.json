@@ -2,11 +2,18 @@
   "slug": "tamarin",
   "name": "TAMARIN",
   "district": "blackriver",
-  "generated": "2026-02-07T18:02:14.411Z",
-  "outageCount": 65,
+  "generated": "2026-02-08T06:13:29.874Z",
+  "outageCount": 66,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-01-22",
+  "lastOutage": "2026-02-08",
   "outages": [
+    {
+      "date": "Le dimanche 8 février 2026 de  08:00:00 à  12:00:00",
+      "streets": "MORC LAFALAISE TAMARIN",
+      "from": "2026-02-08T04:00:00.000Z",
+      "to": "2026-02-08T08:00:00.000Z",
+      "id": "f812ac38ffdcae6fc7d634ddc23a7a91"
+    },
     {
       "date": "Le jeudi 22 janvier 2026 de  08:30:00 à  16:30:00",
       "streets": "TAMARIN",
