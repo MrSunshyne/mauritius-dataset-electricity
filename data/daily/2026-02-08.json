@@ -1,8 +1,8 @@
 {
   "date": "2026-02-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-08T10:01:54.345Z",
-  "outageCount": 11,
+  "generated": "2026-02-08T11:03:11.360Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le dimanche 8 février 2026 de  08:00:00 à  12:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-02-08T04:00:00.000Z",
       "to": "2026-02-08T08:00:00.000Z",
       "id": "f812ac38ffdcae6fc7d634ddc23a7a91"
+    },
+    {
+      "date": "Le dimanche 8 février 2026 de  14:00:00 à  15:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "DISPENSARY RD TRIOLET ET LES ENVIRONS",
+      "district": "pamplemousses",
+      "from": "2026-02-08T10:00:00.000Z",
+      "to": "2026-02-08T11:00:00.000Z",
+      "id": "1610d0359a8816a8e577f06100912cd9"
     },
     {
       "date": "Le dimanche 8 février 2026 de  08:30:00 à  17:00:00",
