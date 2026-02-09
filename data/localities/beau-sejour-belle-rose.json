@@ -2,11 +2,18 @@
   "slug": "beau-sejour-belle-rose",
   "name": "BEAU SEJOUR BELLE-ROSE",
   "district": "plainewilhems",
-  "generated": "2026-02-09T10:18:21.873Z",
-  "outageCount": 4,
+  "generated": "2026-02-09T11:14:37.213Z",
+  "outageCount": 5,
   "firstOutage": "2022-07-13",
-  "lastOutage": "2024-03-01",
+  "lastOutage": "2026-02-09",
   "outages": [
+    {
+      "date": "Le lundi 9 février 2026 de  14:45:00 à  16:30:00",
+      "streets": "CHEMIN KOORARAM, CHEMIN SIR VIRGIL NAZ ET LES ALENTOURS.",
+      "from": "2026-02-09T10:45:00.000Z",
+      "to": "2026-02-09T12:30:00.000Z",
+      "id": "72a8b1792a032761473783298692b884"
+    },
     {
       "date": "Le vendredi 1 mars 2024 de  15:00:00 à  17:00:00",
       "streets": "AVE OLLIER, AVE DR CASTEL, COMSI INSURANCE, NAMO INDIA ET LES ENVIRONS",

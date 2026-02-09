@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-02-09T10:18:22.119Z",
-  "outageCount": 339,
+  "generated": "2026-02-09T11:14:37.457Z",
+  "outageCount": 340,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-02-06",
+  "lastOutage": "2026-02-10",
   "outages": [
+    {
+      "date": "Le mardi 10 février 2026 de  09:00:00 à  15:00:00",
+      "streets": "Morc Foondun, Chemin Machine, Route Bassin, CWA Bore hole 432, 435 et Irrigation Bore Hole 433, 436, 439",
+      "from": "2026-02-10T05:00:00.000Z",
+      "to": "2026-02-10T11:00:00.000Z",
+      "id": "763fb292d14c646f2d912c781fc662cf"
+    },
     {
       "date": "Le vendredi 6 février 2026 de  09:00:00 à  18:00:00",
       "streets": "Appadoo Lane, Morc Chooroomooney, Boulaky, en partie Route Bassin et Mgr Leen",

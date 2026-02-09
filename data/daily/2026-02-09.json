@@ -1,8 +1,8 @@
 {
   "date": "2026-02-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-09T10:18:21.834Z",
-  "outageCount": 2,
+  "generated": "2026-02-09T11:14:37.173Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le lundi 9 février 2026 de  09:00:00 à  10:00:00",
@@ -23,6 +23,26 @@
       "from": "2026-02-09T07:00:00.000Z",
       "to": "2026-02-09T10:00:00.000Z",
       "id": "d846b1885494a86f26da5902b3cb5680"
+    },
+    {
+      "date": "Le lundi 9 février 2026 de  14:45:00 à  16:30:00",
+      "locality": "BEAU SEJOUR BELLE-ROSE",
+      "localitySlug": "beau-sejour-belle-rose",
+      "streets": "CHEMIN KOORARAM, CHEMIN SIR VIRGIL NAZ ET LES ALENTOURS.",
+      "district": "plainewilhems",
+      "from": "2026-02-09T10:45:00.000Z",
+      "to": "2026-02-09T12:30:00.000Z",
+      "id": "72a8b1792a032761473783298692b884"
+    },
+    {
+      "date": "Le lundi 9 février 2026 de  15:00:00 à  17:30:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "GLADSTONE ST,SHOLAY ST, LAPLACE ST EN PARTIE",
+      "district": "plainewilhems",
+      "from": "2026-02-09T11:00:00.000Z",
+      "to": "2026-02-09T13:30:00.000Z",
+      "id": "eb631f2ddb81c392ead77f68e5a08680"
     }
   ]
 }
