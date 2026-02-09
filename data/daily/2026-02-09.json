@@ -1,8 +1,8 @@
 {
   "date": "2026-02-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-09T07:21:20.093Z",
-  "outageCount": 1,
+  "generated": "2026-02-09T08:09:32.157Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le lundi 9 février 2026 de  09:00:00 à  10:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-02-09T05:00:00.000Z",
       "to": "2026-02-09T06:00:00.000Z",
       "id": "08b2aaf4e56e50deffba993a34b785a3"
+    },
+    {
+      "date": "Le lundi 9 février 2026 de  11:00:00 à  14:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "CHEMIN DISPENSAIRE TRIOLET",
+      "district": "pamplemousses",
+      "from": "2026-02-09T07:00:00.000Z",
+      "to": "2026-02-09T10:00:00.000Z",
+      "id": "d846b1885494a86f26da5902b3cb5680"
     }
   ]
 }
