@@ -1,8 +1,8 @@
 {
   "date": "2026-02-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-09T11:14:37.173Z",
-  "outageCount": 4,
+  "generated": "2026-02-09T12:09:13.465Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le lundi 9 février 2026 de  09:00:00 à  10:00:00",
@@ -15,14 +15,14 @@
       "id": "08b2aaf4e56e50deffba993a34b785a3"
     },
     {
-      "date": "Le lundi 9 février 2026 de  11:00:00 à  14:00:00",
+      "date": "Le lundi 9 février 2026 de  11:00:00 à  18:00:00",
       "locality": "TRIOLET",
       "localitySlug": "triolet",
       "streets": "CHEMIN DISPENSAIRE TRIOLET",
       "district": "pamplemousses",
       "from": "2026-02-09T07:00:00.000Z",
-      "to": "2026-02-09T10:00:00.000Z",
-      "id": "d846b1885494a86f26da5902b3cb5680"
+      "to": "2026-02-09T14:00:00.000Z",
+      "id": "e372ac4563bbe3e1cc2253915b8b205d"
     },
     {
       "date": "Le lundi 9 février 2026 de  14:45:00 à  16:30:00",
@@ -43,6 +43,16 @@
       "from": "2026-02-09T11:00:00.000Z",
       "to": "2026-02-09T13:30:00.000Z",
       "id": "eb631f2ddb81c392ead77f68e5a08680"
+    },
+    {
+      "date": "Le lundi 9 février 2026 de  16:00:00 à  17:30:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "dr reid st,duperre st,pasteur st,prunette st,dalit gopal st",
+      "district": "plainewilhems",
+      "from": "2026-02-09T12:00:00.000Z",
+      "to": "2026-02-09T13:30:00.000Z",
+      "id": "a9eaf5030b39c3717170dd2958655c31"
     }
   ]
 }

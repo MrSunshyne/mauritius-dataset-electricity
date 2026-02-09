@@ -2,11 +2,18 @@
   "slug": "beau-bassin",
   "name": "BEAU BASSIN",
   "district": "plainewilhems",
-  "generated": "2026-02-09T11:14:37.209Z",
-  "outageCount": 163,
+  "generated": "2026-02-09T12:09:13.500Z",
+  "outageCount": 164,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-02-08",
+  "lastOutage": "2026-02-09",
   "outages": [
+    {
+      "date": "Le lundi 9 février 2026 de  16:00:00 à  17:30:00",
+      "streets": "dr reid st,duperre st,pasteur st,prunette st,dalit gopal st",
+      "from": "2026-02-09T12:00:00.000Z",
+      "to": "2026-02-09T13:30:00.000Z",
+      "id": "a9eaf5030b39c3717170dd2958655c31"
+    },
     {
       "date": "Le dimanche 8 février 2026 de  13:30:00 à  14:30:00",
       "streets": "Prison Beau-Bassin, Ave Jasmin, Ave Cosmos, Ave Barkly Asylum, Res. Barkly, La Rue Herchenroder, MOA Barkly, Piscine Serge Alfred, RYC, Rivet et les environs",
