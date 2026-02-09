@@ -2,11 +2,18 @@
   "slug": "tamarin",
   "name": "TAMARIN",
   "district": "blackriver",
-  "generated": "2026-02-08T18:03:10.256Z",
-  "outageCount": 66,
+  "generated": "2026-02-09T06:19:35.870Z",
+  "outageCount": 67,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-02-08",
+  "lastOutage": "2026-02-09",
   "outages": [
+    {
+      "date": "Le lundi 9 février 2026 de  09:00:00 à  10:00:00",
+      "streets": "TAMARIN NR SCHOOL",
+      "from": "2026-02-09T05:00:00.000Z",
+      "to": "2026-02-09T06:00:00.000Z",
+      "id": "08b2aaf4e56e50deffba993a34b785a3"
+    },
     {
       "date": "Le dimanche 8 février 2026 de  08:00:00 à  12:00:00",
       "streets": "MORC LAFALAISE TAMARIN",
