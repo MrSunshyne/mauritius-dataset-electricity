@@ -2,11 +2,18 @@
   "slug": "beau-bassin",
   "name": "BEAU BASSIN",
   "district": "plainewilhems",
-  "generated": "2026-02-10T09:15:59.772Z",
-  "outageCount": 164,
+  "generated": "2026-02-10T10:15:27.611Z",
+  "outageCount": 165,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-02-09",
+  "lastOutage": "2026-02-12",
   "outages": [
+    {
+      "date": "Le jeudi 12 février 2026 de  13:00:00 à  17:00:00",
+      "streets": "Ave Cossigny, Ave Sir Walter Besant, Louis Lechelle, Ave Poivre, Le Tabernacle, Bio Sante Ville Soeur, Caprice Gervais et les environs",
+      "from": "2026-02-12T09:00:00.000Z",
+      "to": "2026-02-12T13:00:00.000Z",
+      "id": "fd68334327c54e94509d1ea0eecbc9aa"
+    },
     {
       "date": "Le lundi 9 février 2026 de  16:00:00 à  17:30:00",
       "streets": "dr reid st,duperre st,pasteur st,prunette st,dalit gopal st",
