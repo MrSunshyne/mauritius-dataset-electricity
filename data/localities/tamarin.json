@@ -2,11 +2,18 @@
   "slug": "tamarin",
   "name": "TAMARIN",
   "district": "blackriver",
-  "generated": "2026-02-10T07:21:48.909Z",
-  "outageCount": 67,
+  "generated": "2026-02-10T08:10:14.381Z",
+  "outageCount": 68,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-02-09",
+  "lastOutage": "2026-02-13",
   "outages": [
+    {
+      "date": "Le vendredi 13 février 2026 de  08:30:00 à  16:30:00",
+      "streets": "BLACKROCK, MORC INVESTOR, MORC DE JARDIN, MORC BELOGUET, MORC TERMINALIA ET MORC DOMAIN",
+      "from": "2026-02-13T04:30:00.000Z",
+      "to": "2026-02-13T12:30:00.000Z",
+      "id": "be6736367cb505884e6d8c9863b3d577"
+    },
     {
       "date": "Le lundi 9 février 2026 de  09:00:00 à  10:00:00",
       "streets": "TAMARIN NR SCHOOL",
