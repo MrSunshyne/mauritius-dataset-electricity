@@ -1,8 +1,8 @@
 {
   "date": "2026-02-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-10T11:16:01.652Z",
-  "outageCount": 1,
+  "generated": "2026-02-10T12:10:48.976Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le vendredi 13 février 2026 de  08:30:00 à  16:30:00",
@@ -13,6 +13,26 @@
       "from": "2026-02-13T04:30:00.000Z",
       "to": "2026-02-13T12:30:00.000Z",
       "id": "be6736367cb505884e6d8c9863b3d577"
+    },
+    {
+      "date": "Le vendredi 13 février 2026 de  09:30:00 à  15:30:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "Dans les environs de Mahatma Gandhi street",
+      "district": "pamplemousses",
+      "from": "2026-02-13T05:30:00.000Z",
+      "to": "2026-02-13T11:30:00.000Z",
+      "id": "c9397654d5b41fc2dae7eddcb670b161"
+    },
+    {
+      "date": "Le vendredi 13 février 2026 de  12:00:00 à  17:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "Angus Lane, une partie de Grannum Road, une partie de Riverwalk, une partie de Floreal Road, une partie de Suroop Lane, une partie de Beesoon Lane, Bryant Lane, Impassse Kasenally",
+      "district": "plainewilhems",
+      "from": "2026-02-13T08:00:00.000Z",
+      "to": "2026-02-13T13:00:00.000Z",
+      "id": "2fa380bfb989595d05e4cfc26c95ed34"
     }
   ]
 }

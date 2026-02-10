@@ -2,11 +2,18 @@
   "slug": "moka",
   "name": "MOKA",
   "district": "moka",
-  "generated": "2026-02-10T11:16:01.874Z",
-  "outageCount": 61,
+  "generated": "2026-02-10T12:10:49.194Z",
+  "outageCount": 62,
   "firstOutage": "2022-06-13",
-  "lastOutage": "2026-01-11",
+  "lastOutage": "2026-02-10",
   "outages": [
+    {
+      "date": "Le mardi 10 février 2026 de  15:45:00 à  17:00:00",
+      "streets": "POULTRY MINISSYCWA",
+      "from": "2026-02-10T11:45:00.000Z",
+      "to": "2026-02-10T13:00:00.000Z",
+      "id": "891407df5d1c2b57e001b5186745404d"
+    },
     {
       "date": "Le dimanche 11 janvier 2026 de  08:45:00 à  14:00:00",
       "streets": "Bois Cheri Rd,Deux Collones,Francois Woo",

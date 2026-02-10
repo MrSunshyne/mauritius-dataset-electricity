@@ -1,9 +1,19 @@
 {
   "date": "2026-02-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-10T11:16:01.652Z",
-  "outageCount": 2,
+  "generated": "2026-02-10T12:10:48.976Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le mardi 10 février 2026 de  15:45:00 à  17:00:00",
+      "locality": "MOKA",
+      "localitySlug": "moka",
+      "streets": "POULTRY MINISSYCWA",
+      "district": "moka",
+      "from": "2026-02-10T11:45:00.000Z",
+      "to": "2026-02-10T13:00:00.000Z",
+      "id": "891407df5d1c2b57e001b5186745404d"
+    },
     {
       "date": "Le mardi 10 février 2026 de  10:30:00 à  15:30:00",
       "locality": "NOTRE DAME",
@@ -15,14 +25,14 @@
       "id": "0e9c9d1f3605f115e701ef1bf4825bae"
     },
     {
-      "date": "Le mardi 10 février 2026 de  09:00:00 à  15:00:00",
+      "date": "Le mardi 10 février 2026 de  09:00:00 à  17:00:00",
       "locality": "QUATRE-BORNES",
       "localitySlug": "quatre-bornes",
       "streets": "Morc Foondun, Chemin Machine, Route Bassin, CWA Bore hole 432, 435 et Irrigation Bore Hole 433, 436, 439",
       "district": "plainewilhems",
       "from": "2026-02-10T05:00:00.000Z",
-      "to": "2026-02-10T11:00:00.000Z",
-      "id": "763fb292d14c646f2d912c781fc662cf"
+      "to": "2026-02-10T13:00:00.000Z",
+      "id": "b06f3c405bb8a9db7231140e6054337b"
     }
   ]
 }
