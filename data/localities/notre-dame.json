@@ -2,11 +2,18 @@
   "slug": "notre-dame",
   "name": "NOTRE DAME",
   "district": "pamplemousses",
-  "generated": "2026-02-10T06:19:50.831Z",
-  "outageCount": 35,
+  "generated": "2026-02-10T07:21:48.810Z",
+  "outageCount": 36,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-01-29",
+  "lastOutage": "2026-02-10",
   "outages": [
+    {
+      "date": "Le mardi 10 février 2026 de  10:30:00 à  15:30:00",
+      "streets": "Mosque Road",
+      "from": "2026-02-10T06:30:00.000Z",
+      "to": "2026-02-10T11:30:00.000Z",
+      "id": "0e9c9d1f3605f115e701ef1bf4825bae"
+    },
     {
       "date": "Le jeudi 29 janvier 2026 de  21:30:00 à  01:00:00",
       "streets": "ROYAL ROAD NOTRE DAME",

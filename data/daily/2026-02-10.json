@@ -1,9 +1,19 @@
 {
   "date": "2026-02-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-10T06:19:50.589Z",
-  "outageCount": 1,
+  "generated": "2026-02-10T07:21:48.595Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le mardi 10 février 2026 de  10:30:00 à  15:30:00",
+      "locality": "NOTRE DAME",
+      "localitySlug": "notre-dame",
+      "streets": "Mosque Road",
+      "district": "pamplemousses",
+      "from": "2026-02-10T06:30:00.000Z",
+      "to": "2026-02-10T11:30:00.000Z",
+      "id": "0e9c9d1f3605f115e701ef1bf4825bae"
+    },
     {
       "date": "Le mardi 10 février 2026 de  09:00:00 à  15:00:00",
       "locality": "QUATRE-BORNES",
