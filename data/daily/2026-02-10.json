@@ -1,9 +1,19 @@
 {
   "date": "2026-02-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-10T16:19:05.112Z",
-  "outageCount": 3,
+  "generated": "2026-02-10T17:19:48.863Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le mardi 10 février 2026 de  20:30:00 à  21:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "ROUTE GEOFFROY DANS LES ENVIRONS COLLEGE JSS ET ROUTE ROYALE DANS LES ENVIRONS BOUTIQUE CAPRICORNE.",
+      "district": "blackriver",
+      "from": "2026-02-10T16:30:00.000Z",
+      "to": "2026-02-10T17:30:00.000Z",
+      "id": "2b4f3137d9a03c777e83034ebefbe601"
+    },
     {
       "date": "Le mardi 10 février 2026 de  15:45:00 à  17:00:00",
       "locality": "MOKA",

@@ -2,11 +2,18 @@
   "slug": "bambous",
   "name": "BAMBOUS",
   "district": "blackriver",
-  "generated": "2026-02-10T16:19:05.142Z",
-  "outageCount": 108,
+  "generated": "2026-02-10T17:19:48.895Z",
+  "outageCount": 109,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-02-07",
+  "lastOutage": "2026-02-10",
   "outages": [
+    {
+      "date": "Le mardi 10 février 2026 de  20:30:00 à  21:30:00",
+      "streets": "ROUTE GEOFFROY DANS LES ENVIRONS COLLEGE JSS ET ROUTE ROYALE DANS LES ENVIRONS BOUTIQUE CAPRICORNE.",
+      "from": "2026-02-10T16:30:00.000Z",
+      "to": "2026-02-10T17:30:00.000Z",
+      "id": "2b4f3137d9a03c777e83034ebefbe601"
+    },
     {
       "date": "Le samedi 7 février 2026 de  08:30:00 à  15:30:00",
       "streets": "ALLEE TAMARIN, AVE VAUDAGNE, ALLEE JACQUES, AVE BOUNDARY, AVE BELE ISLE, AVE DES MANGUIERS, AVE DE LINDEPENDENCE, WINNERS BAMBOUS, MORC BELLE ISLE OSMAN, MORC WINNERS ET UNE PARTIE DE LA BLACK RIVER ROAD BAMBOUS",
