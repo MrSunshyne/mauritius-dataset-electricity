@@ -1,8 +1,8 @@
 {
   "date": "2026-02-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-10T10:15:27.575Z",
-  "outageCount": 1,
+  "generated": "2026-02-10T11:16:01.652Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le jeudi 12 février 2026 de  13:00:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-02-12T09:00:00.000Z",
       "to": "2026-02-12T13:00:00.000Z",
       "id": "fd68334327c54e94509d1ea0eecbc9aa"
+    },
+    {
+      "date": "Le jeudi 12 février 2026 de  09:00:00 à  17:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Ratsitatane, Fareed Muttur, en partie Prince Charles, Ave La Reine, Mere Theresa et les environs",
+      "district": "plainewilhems",
+      "from": "2026-02-12T05:00:00.000Z",
+      "to": "2026-02-12T13:00:00.000Z",
+      "id": "186c4a9708953c32d0fb52b9fb272651"
     }
   ]
 }
