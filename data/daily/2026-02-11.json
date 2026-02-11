@@ -1,18 +1,18 @@
 {
   "date": "2026-02-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-11T09:13:51.804Z",
-  "outageCount": 13,
+  "generated": "2026-02-11T10:14:30.451Z",
+  "outageCount": 14,
   "outages": [
     {
-      "date": "Le mercredi 11 février 2026 de  11:45:00 à  14:00:00",
+      "date": "Le mercredi 11 février 2026 de  11:45:00 à  16:00:00",
       "locality": "BALISSON",
       "localitySlug": "balisson",
-      "streets": "MORC VRS & NHDC",
+      "streets": "MORC VRS & NHDC BALLISSON UNION PARK",
       "district": "grandport",
       "from": "2026-02-11T07:45:00.000Z",
-      "to": "2026-02-11T10:00:00.000Z",
-      "id": "b14dcdb0a2411092c0b3325d3cc82282"
+      "to": "2026-02-11T12:00:00.000Z",
+      "id": "60950619e854d259402318a8c653c9f5"
     },
     {
       "date": "Le mercredi 11 février 2026 de  11:50:00 à  13:00:00",
@@ -63,6 +63,16 @@
       "from": "2026-02-11T04:30:00.000Z",
       "to": "2026-02-11T06:30:00.000Z",
       "id": "fec0bacaf4ae876a8375474c5d43bfaa"
+    },
+    {
+      "date": "Le mercredi 11 février 2026 de  13:00:00 à  16:30:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "ZONE INDUSTRIELLE LA TOUR KOENIG",
+      "district": "portlouis",
+      "from": "2026-02-11T09:00:00.000Z",
+      "to": "2026-02-11T12:30:00.000Z",
+      "id": "732c1854ee260cfc6bc2d708eebc0c06"
     },
     {
       "date": "Le mercredi 11 février 2026 de  09:30:00 à  11:30:00",

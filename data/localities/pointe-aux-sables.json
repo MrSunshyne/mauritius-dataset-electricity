@@ -2,11 +2,18 @@
   "slug": "pointe-aux-sables",
   "name": "POINTE AUX SABLES",
   "district": "portlouis",
-  "generated": "2026-02-11T09:13:52.087Z",
-  "outageCount": 126,
+  "generated": "2026-02-11T10:14:30.696Z",
+  "outageCount": 127,
   "firstOutage": "2022-03-30",
-  "lastOutage": "2026-01-28",
+  "lastOutage": "2026-02-11",
   "outages": [
+    {
+      "date": "Le mercredi 11 février 2026 de  13:00:00 à  16:30:00",
+      "streets": "ZONE INDUSTRIELLE LA TOUR KOENIG",
+      "from": "2026-02-11T09:00:00.000Z",
+      "to": "2026-02-11T12:30:00.000Z",
+      "id": "732c1854ee260cfc6bc2d708eebc0c06"
+    },
     {
       "date": "Le mercredi 28 janvier 2026 de  09:30:00 à  10:45:00",
       "streets": "MORC ILLOIS",
