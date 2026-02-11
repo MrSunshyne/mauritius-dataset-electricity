@@ -1,8 +1,8 @@
 {
   "date": "2026-02-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-11T08:09:28.431Z",
-  "outageCount": 12,
+  "generated": "2026-02-11T09:13:51.804Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le mercredi 11 février 2026 de  11:45:00 à  14:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-02-11T06:00:00.000Z",
       "to": "2026-02-11T10:00:00.000Z",
       "id": "fa4b605f5768cdfd78d1e4073d1bd40a"
+    },
+    {
+      "date": "Le mercredi 11 février 2026 de  13:00:00 à  14:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVENUE HITHCOCK GLADESTONE/VITORIA GROOVE",
+      "district": "plainewilhems",
+      "from": "2026-02-11T09:00:00.000Z",
+      "to": "2026-02-11T10:30:00.000Z",
+      "id": "fcc34647f69b347c9270811df49babbc"
     },
     {
       "date": "Le mercredi 11 février 2026 de  08:30:00 à  10:30:00",

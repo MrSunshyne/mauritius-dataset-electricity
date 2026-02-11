@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-02-11T08:09:28.723Z",
-  "outageCount": 340,
+  "generated": "2026-02-11T09:13:52.102Z",
+  "outageCount": 341,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-02-10",
+  "lastOutage": "2026-02-11",
   "outages": [
+    {
+      "date": "Le mercredi 11 février 2026 de  13:00:00 à  14:30:00",
+      "streets": "AVENUE HITHCOCK GLADESTONE/VITORIA GROOVE",
+      "from": "2026-02-11T09:00:00.000Z",
+      "to": "2026-02-11T10:30:00.000Z",
+      "id": "fcc34647f69b347c9270811df49babbc"
+    },
     {
       "date": "Le mardi 10 février 2026 de  09:00:00 à  18:00:00",
       "streets": "Morc Foondun, Chemin Machine, Route Bassin, CWA Bore hole 432, 435 et Irrigation Bore Hole 433, 436, 439",
