@@ -2,11 +2,18 @@
   "slug": "riviere-du-rempart",
   "name": "RIVIERE DU REMPART",
   "district": "rivieredurempart",
-  "generated": "2026-02-10T18:16:56.241Z",
-  "outageCount": 45,
+  "generated": "2026-02-11T06:19:11.858Z",
+  "outageCount": 46,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-01-29",
+  "lastOutage": "2026-02-11",
   "outages": [
+    {
+      "date": "Le mercredi 11 février 2026 de  09:00:00 à  15:00:00",
+      "streets": "NUNKA ROAD, MORC LE RAVIN RIVIERE DU REMPART",
+      "from": "2026-02-11T05:00:00.000Z",
+      "to": "2026-02-11T11:00:00.000Z",
+      "id": "c8eea4fd196b8a8146e01107a5799673"
+    },
     {
       "date": "Le jeudi 29 janvier 2026 de  20:30:00 à  01:00:00",
       "streets": "MAUREL RD RIVIERE DU REMPART",

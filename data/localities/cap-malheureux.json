@@ -2,11 +2,18 @@
   "slug": "cap-malheureux",
   "name": "CAP MALHEUREUX",
   "district": "rivieredurempart",
-  "generated": "2026-02-10T18:16:56.027Z",
-  "outageCount": 46,
+  "generated": "2026-02-11T06:19:11.648Z",
+  "outageCount": 47,
   "firstOutage": "2022-07-14",
-  "lastOutage": "2025-12-19",
+  "lastOutage": "2026-02-11",
   "outages": [
+    {
+      "date": "Le mercredi 11 février 2026 de  09:30:00 à  11:30:00",
+      "streets": "COIN DE MIRE",
+      "from": "2026-02-11T05:30:00.000Z",
+      "to": "2026-02-11T07:30:00.000Z",
+      "id": "93b42cfb25ef88d5cef39e555d36744e"
+    },
     {
       "date": "Le vendredi 19 décembre 2025 de  10:30:00 à  13:00:00",
       "streets": "MON MASCAL-CAP MAILLIEUX PETIT RAFFRAY",

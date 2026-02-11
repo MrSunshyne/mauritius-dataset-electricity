@@ -1,8 +1,8 @@
 {
   "date": "2026-02-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-10T18:16:55.936Z",
-  "outageCount": 3,
+  "generated": "2026-02-11T06:19:11.557Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le jeudi 12 février 2026 de  09:30:00 à  14:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-02-12T05:00:00.000Z",
       "to": "2026-02-12T13:00:00.000Z",
       "id": "186c4a9708953c32d0fb52b9fb272651"
+    },
+    {
+      "date": "Le jeudi 12 février 2026 de  09:00:00 à  14:00:00",
+      "locality": "BALADIROU(RODRIGUES)",
+      "localitySlug": "baladirou",
+      "streets": "Jean Tac, Baladirou, Montagne Goyaves, Dans Bebe, Orange et Deux Goyaves",
+      "district": "rodrigues",
+      "from": "2026-02-12T05:00:00.000Z",
+      "to": "2026-02-12T10:00:00.000Z",
+      "id": "e7b102a39867ee038e234c42ddcc71a8"
     }
   ]
 }

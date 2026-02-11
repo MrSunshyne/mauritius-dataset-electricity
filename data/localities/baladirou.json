@@ -2,11 +2,18 @@
   "slug": "baladirou",
   "name": "BALADIROU(RODRIGUES)",
   "district": "rodrigues",
-  "generated": "2026-02-10T18:16:55.967Z",
-  "outageCount": 4,
+  "generated": "2026-02-11T06:19:11.583Z",
+  "outageCount": 5,
   "firstOutage": "2023-10-18",
-  "lastOutage": "2025-12-20",
+  "lastOutage": "2026-02-12",
   "outages": [
+    {
+      "date": "Le jeudi 12 février 2026 de  09:00:00 à  14:00:00",
+      "streets": "Jean Tac, Baladirou, Montagne Goyaves, Dans Bebe, Orange et Deux Goyaves",
+      "from": "2026-02-12T05:00:00.000Z",
+      "to": "2026-02-12T10:00:00.000Z",
+      "id": "e7b102a39867ee038e234c42ddcc71a8"
+    },
     {
       "date": "Le samedi 20 décembre 2025 de  08:30:00 à  15:00:00",
       "streets": "Montagne Goyaves, Dans Bebe, Oranges, Jean Tac, Caverne Provert, Terre Rouge, Anse Aux Anglais et Pointe Venus",

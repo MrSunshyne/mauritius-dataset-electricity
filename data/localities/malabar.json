@@ -2,11 +2,18 @@
   "slug": "malabar",
   "name": "MALABAR(RODRIGUES)",
   "district": "rodrigues",
-  "generated": "2026-02-10T18:16:56.134Z",
-  "outageCount": 3,
+  "generated": "2026-02-11T06:19:11.754Z",
+  "outageCount": 4,
   "firstOutage": "2025-02-15",
-  "lastOutage": "2025-02-25",
+  "lastOutage": "2026-02-11",
   "outages": [
+    {
+      "date": "Le mercredi 11 février 2026 de  12:00:00 à  13:00:00",
+      "streets": "MALABAR",
+      "from": "2026-02-11T08:00:00.000Z",
+      "to": "2026-02-11T09:00:00.000Z",
+      "id": "9419518c0d2ea7fdb5acf43de6c898d2"
+    },
     {
       "date": "Le mardi 25 février 2025 de  12:00:00 à  13:00:00",
       "streets": "Soupir et Mont Plaisir",

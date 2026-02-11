@@ -2,11 +2,18 @@
   "slug": "cassis",
   "name": "CASSIS",
   "district": "portlouis",
-  "generated": "2026-02-10T18:16:56.032Z",
-  "outageCount": 35,
+  "generated": "2026-02-11T06:19:11.653Z",
+  "outageCount": 36,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-02-07",
+  "lastOutage": "2026-02-11",
   "outages": [
+    {
+      "date": "Le mercredi 11 février 2026 de  08:30:00 à  10:30:00",
+      "streets": "MENAGERIE ST, CHURCH AND SURROUNDINGS",
+      "from": "2026-02-11T04:30:00.000Z",
+      "to": "2026-02-11T06:30:00.000Z",
+      "id": "fec0bacaf4ae876a8375474c5d43bfaa"
+    },
     {
       "date": "Le samedi 7 février 2026 de  14:00:00 à  15:30:00",
       "streets": "ROUTE MENAGERIE ET LES ALENTOURS",

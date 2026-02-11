@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-02-10T18:16:56.247Z",
-  "outageCount": 186,
+  "generated": "2026-02-11T06:19:11.865Z",
+  "outageCount": 187,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-01-16",
+  "lastOutage": "2026-02-11",
   "outages": [
+    {
+      "date": "Le mercredi 11 février 2026 de  08:30:00 à  15:00:00",
+      "streets": "BRULE & GRANDE MONTAGNE",
+      "from": "2026-02-11T04:30:00.000Z",
+      "to": "2026-02-11T11:00:00.000Z",
+      "id": "85a34afccc53c048808dc2088fce590e"
+    },
     {
       "date": "Le vendredi 16 janvier 2026 de  15:00:00 à  16:00:00",
       "streets": "POINTE MONIER,CAMP DU ROI,HAUTEUR ACACIA,JARDIN MAMZEL,L-UNION,LE CHOU",

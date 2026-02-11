@@ -1,8 +1,8 @@
 {
   "date": "2026-02-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-10T18:16:55.936Z",
-  "outageCount": 1,
+  "generated": "2026-02-11T06:19:11.557Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le mercredi 11 février 2026 de  09:30:00 à  15:30:00",
@@ -13,6 +13,76 @@
       "from": "2026-02-11T05:30:00.000Z",
       "to": "2026-02-11T11:30:00.000Z",
       "id": "74cb0d49616de0f11673738032c81d1f"
+    },
+    {
+      "date": "Le mercredi 11 février 2026 de  10:00:00 à  14:00:00",
+      "locality": "CANTON NANCY",
+      "localitySlug": "canton-nancy",
+      "streets": "PART OF CANTON NANCY",
+      "district": "pamplemousses",
+      "from": "2026-02-11T06:00:00.000Z",
+      "to": "2026-02-11T10:00:00.000Z",
+      "id": "fa4b605f5768cdfd78d1e4073d1bd40a"
+    },
+    {
+      "date": "Le mercredi 11 février 2026 de  08:30:00 à  10:30:00",
+      "locality": "CASSIS",
+      "localitySlug": "cassis",
+      "streets": "MENAGERIE ST, CHURCH AND SURROUNDINGS",
+      "district": "portlouis",
+      "from": "2026-02-11T04:30:00.000Z",
+      "to": "2026-02-11T06:30:00.000Z",
+      "id": "fec0bacaf4ae876a8375474c5d43bfaa"
+    },
+    {
+      "date": "Le mercredi 11 février 2026 de  09:30:00 à  11:30:00",
+      "locality": "CAP MALHEUREUX",
+      "localitySlug": "cap-malheureux",
+      "streets": "COIN DE MIRE",
+      "district": "rivieredurempart",
+      "from": "2026-02-11T05:30:00.000Z",
+      "to": "2026-02-11T07:30:00.000Z",
+      "id": "93b42cfb25ef88d5cef39e555d36744e"
+    },
+    {
+      "date": "Le mercredi 11 février 2026 de  09:00:00 à  15:00:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "NUNKA ROAD, MORC LE RAVIN RIVIERE DU REMPART",
+      "district": "rivieredurempart",
+      "from": "2026-02-11T05:00:00.000Z",
+      "to": "2026-02-11T11:00:00.000Z",
+      "id": "c8eea4fd196b8a8146e01107a5799673"
+    },
+    {
+      "date": "Le mercredi 11 février 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "BRULE & GRANDE MONTAGNE",
+      "district": "rodrigues",
+      "from": "2026-02-11T04:30:00.000Z",
+      "to": "2026-02-11T11:00:00.000Z",
+      "id": "85a34afccc53c048808dc2088fce590e"
+    },
+    {
+      "date": "Le mercredi 11 février 2026 de  12:00:00 à  13:00:00",
+      "locality": "MALABAR(RODRIGUES)",
+      "localitySlug": "malabar",
+      "streets": "MALABAR",
+      "district": "rodrigues",
+      "from": "2026-02-11T08:00:00.000Z",
+      "to": "2026-02-11T09:00:00.000Z",
+      "id": "9419518c0d2ea7fdb5acf43de6c898d2"
+    },
+    {
+      "date": "Le mercredi 11 février 2026 de  08:30:00 à  15:00:00",
+      "locality": "GRANDE MONTAGNE(RODRIGUES)",
+      "localitySlug": "grande-montagne",
+      "streets": "BRULE",
+      "district": "rodrigues",
+      "from": "2026-02-11T04:30:00.000Z",
+      "to": "2026-02-11T11:00:00.000Z",
+      "id": "b9f3b20f69a73d3fa5cee5e88a90483b"
     }
   ]
 }

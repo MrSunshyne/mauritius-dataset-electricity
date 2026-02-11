@@ -2,11 +2,18 @@
   "slug": "canton-nancy",
   "name": "CANTON NANCY",
   "district": "pamplemousses",
-  "generated": "2026-02-10T18:16:56.026Z",
-  "outageCount": 10,
+  "generated": "2026-02-11T06:19:11.647Z",
+  "outageCount": 11,
   "firstOutage": "2023-04-19",
-  "lastOutage": "2025-11-10",
+  "lastOutage": "2026-02-11",
   "outages": [
+    {
+      "date": "Le mercredi 11 février 2026 de  10:00:00 à  14:00:00",
+      "streets": "PART OF CANTON NANCY",
+      "from": "2026-02-11T06:00:00.000Z",
+      "to": "2026-02-11T10:00:00.000Z",
+      "id": "fa4b605f5768cdfd78d1e4073d1bd40a"
+    },
     {
       "date": "Le lundi 10 novembre 2025 de  15:30:00 à  17:00:00",
       "streets": "LES ABONNES DE CANTON NANCY.",

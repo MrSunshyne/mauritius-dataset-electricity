@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-10T18:16:56.304Z",
+  "generated": "2026-02-11T06:19:11.922Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -196,10 +196,10 @@
       "slug": "baladirou",
       "name": "BALADIROU(RODRIGUES)",
       "district": "rodrigues",
-      "outageCount": 4,
+      "outageCount": 5,
       "file": "baladirou.json",
       "firstOutage": "2023-10-18",
-      "lastOutage": "2025-12-20"
+      "lastOutage": "2026-02-12"
     },
     {
       "slug": "balisson",
@@ -907,19 +907,19 @@
       "slug": "canton-nancy",
       "name": "CANTON NANCY",
       "district": "pamplemousses",
-      "outageCount": 10,
+      "outageCount": 11,
       "file": "canton-nancy.json",
       "firstOutage": "2023-04-19",
-      "lastOutage": "2025-11-10"
+      "lastOutage": "2026-02-11"
     },
     {
       "slug": "cap-malheureux",
       "name": "CAP MALHEUREUX",
       "district": "rivieredurempart",
-      "outageCount": 46,
+      "outageCount": 47,
       "file": "cap-malheureux.json",
       "firstOutage": "2022-07-14",
-      "lastOutage": "2025-12-19"
+      "lastOutage": "2026-02-11"
     },
     {
       "slug": "caroline-bel-air",
@@ -979,10 +979,10 @@
       "slug": "cassis",
       "name": "CASSIS",
       "district": "portlouis",
-      "outageCount": 35,
+      "outageCount": 36,
       "file": "cassis.json",
       "firstOutage": "2022-04-12",
-      "lastOutage": "2026-02-07"
+      "lastOutage": "2026-02-11"
     },
     {
       "slug": "castel-vacoas",
@@ -1645,10 +1645,10 @@
       "slug": "grande-montagne",
       "name": "GRANDE MONTAGNE(RODRIGUES)",
       "district": "rodrigues",
-      "outageCount": 3,
+      "outageCount": 4,
       "file": "grande-montagne.json",
       "firstOutage": "2022-08-02",
-      "lastOutage": "2024-03-06"
+      "lastOutage": "2026-02-11"
     },
     {
       "slug": "grande-pointe-aux-piments",
@@ -2176,10 +2176,10 @@
       "slug": "malabar",
       "name": "MALABAR(RODRIGUES)",
       "district": "rodrigues",
-      "outageCount": 3,
+      "outageCount": 4,
       "file": "malabar.json",
       "firstOutage": "2025-02-15",
-      "lastOutage": "2025-02-25"
+      "lastOutage": "2026-02-11"
     },
     {
       "slug": "malakoff",
@@ -3427,10 +3427,10 @@
       "slug": "riviere-du-rempart",
       "name": "RIVIERE DU REMPART",
       "district": "rivieredurempart",
-      "outageCount": 45,
+      "outageCount": 46,
       "file": "riviere-du-rempart.json",
       "firstOutage": "2022-03-20",
-      "lastOutage": "2026-01-29"
+      "lastOutage": "2026-02-11"
     },
     {
       "slug": "riviere-noire",
@@ -3490,10 +3490,10 @@
       "slug": "rodrigues",
       "name": "RODRIGUES",
       "district": "rodrigues",
-      "outageCount": 186,
+      "outageCount": 187,
       "file": "rodrigues.json",
       "firstOutage": "2022-03-15",
-      "lastOutage": "2026-01-16"
+      "lastOutage": "2026-02-11"
     },
     {
       "slug": "rose-belle",

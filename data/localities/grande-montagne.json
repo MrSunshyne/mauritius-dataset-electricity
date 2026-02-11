@@ -2,11 +2,18 @@
   "slug": "grande-montagne",
   "name": "GRANDE MONTAGNE(RODRIGUES)",
   "district": "rodrigues",
-  "generated": "2026-02-10T18:16:56.091Z",
-  "outageCount": 3,
+  "generated": "2026-02-11T06:19:11.711Z",
+  "outageCount": 4,
   "firstOutage": "2022-08-02",
-  "lastOutage": "2024-03-06",
+  "lastOutage": "2026-02-11",
   "outages": [
+    {
+      "date": "Le mercredi 11 février 2026 de  08:30:00 à  15:00:00",
+      "streets": "BRULE",
+      "from": "2026-02-11T04:30:00.000Z",
+      "to": "2026-02-11T11:00:00.000Z",
+      "id": "b9f3b20f69a73d3fa5cee5e88a90483b"
+    },
     {
       "date": "Le mercredi 6 mars 2024 de  11:00:00 à  14:00:00",
       "streets": "Montagne Limon, Palissade, Nassola, Montagne Bois Noir, Montagne Malgache, Tambes, Grande Montagne, Petit Brule, Coromandel, Batatran, Graviers, Anse Femi, Var Brule,Bel Air,Riviere Banane,Trefle, Trois Soleil, Patate Theophile,Roche Bon Dieu,Saint Francois, Pointe Coton, Anse Ali et Montagne Cabris Est",
