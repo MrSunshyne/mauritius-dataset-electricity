@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-11T07:20:15.412Z",
+  "generated": "2026-02-11T08:09:28.808Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -205,10 +205,10 @@
       "slug": "balisson",
       "name": "BALISSON",
       "district": "grandport",
-      "outageCount": 8,
+      "outageCount": 9,
       "file": "balisson.json",
       "firstOutage": "2022-03-22",
-      "lastOutage": "2026-01-27"
+      "lastOutage": "2026-02-11"
     },
     {
       "slug": "bambous",
@@ -2347,10 +2347,10 @@
       "slug": "mesnil",
       "name": "MESNIL",
       "district": "plainewilhems",
-      "outageCount": 7,
+      "outageCount": 8,
       "file": "mesnil.json",
       "firstOutage": "2022-08-10",
-      "lastOutage": "2025-11-16"
+      "lastOutage": "2026-02-12"
     },
     {
       "slug": "midlands",
@@ -2626,10 +2626,10 @@
       "slug": "nouvelle-decouverte",
       "name": "NOUVELLE DECOUVERTE",
       "district": "moka",
-      "outageCount": 25,
+      "outageCount": 26,
       "file": "nouvelle-decouverte.json",
       "firstOutage": "2022-12-13",
-      "lastOutage": "2026-02-05"
+      "lastOutage": "2026-02-11"
     },
     {
       "slug": "nouvelle-france",

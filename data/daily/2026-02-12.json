@@ -1,8 +1,8 @@
 {
   "date": "2026-02-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-11T07:20:15.030Z",
-  "outageCount": 4,
+  "generated": "2026-02-11T08:09:28.431Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le jeudi 12 février 2026 de  09:30:00 à  14:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-02-12T05:00:00.000Z",
       "to": "2026-02-12T13:00:00.000Z",
       "id": "186c4a9708953c32d0fb52b9fb272651"
+    },
+    {
+      "date": "Le jeudi 12 février 2026 de  14:00:00 à  18:00:00",
+      "locality": "MESNIL",
+      "localitySlug": "mesnil",
+      "streets": "Route Royal Mesnil, une partie de Route Parisot, une partie de Route Tagore.",
+      "district": "plainewilhems",
+      "from": "2026-02-12T10:00:00.000Z",
+      "to": "2026-02-12T14:00:00.000Z",
+      "id": "8ba0cd89ad8ff23df92b0f1f268e1d74"
     },
     {
       "date": "Le jeudi 12 février 2026 de  09:00:00 à  14:00:00",

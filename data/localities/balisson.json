@@ -2,11 +2,18 @@
   "slug": "balisson",
   "name": "BALISSON",
   "district": "grandport",
-  "generated": "2026-02-11T07:20:15.059Z",
-  "outageCount": 8,
+  "generated": "2026-02-11T08:09:28.462Z",
+  "outageCount": 9,
   "firstOutage": "2022-03-22",
-  "lastOutage": "2026-01-27",
+  "lastOutage": "2026-02-11",
   "outages": [
+    {
+      "date": "Le mercredi 11 février 2026 de  11:45:00 à  14:00:00",
+      "streets": "MORC VRS & NHDC",
+      "from": "2026-02-11T07:45:00.000Z",
+      "to": "2026-02-11T10:00:00.000Z",
+      "id": "b14dcdb0a2411092c0b3325d3cc82282"
+    },
     {
       "date": "Le mardi 27 janvier 2026 de  10:30:00 à  11:15:00",
       "streets": "BALISSON",

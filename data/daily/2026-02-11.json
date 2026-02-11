@@ -1,9 +1,29 @@
 {
   "date": "2026-02-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-11T07:20:15.030Z",
-  "outageCount": 10,
+  "generated": "2026-02-11T08:09:28.431Z",
+  "outageCount": 12,
   "outages": [
+    {
+      "date": "Le mercredi 11 février 2026 de  11:45:00 à  14:00:00",
+      "locality": "BALISSON",
+      "localitySlug": "balisson",
+      "streets": "MORC VRS & NHDC",
+      "district": "grandport",
+      "from": "2026-02-11T07:45:00.000Z",
+      "to": "2026-02-11T10:00:00.000Z",
+      "id": "b14dcdb0a2411092c0b3325d3cc82282"
+    },
+    {
+      "date": "Le mercredi 11 février 2026 de  11:50:00 à  13:00:00",
+      "locality": "NOUVELLE DECOUVERTE",
+      "localitySlug": "nouvelle-decouverte",
+      "streets": "SHIVALA ROAD, SCHOOL ROAD, ROYAL ROAD",
+      "district": "moka",
+      "from": "2026-02-11T07:50:00.000Z",
+      "to": "2026-02-11T09:00:00.000Z",
+      "id": "56144adb061cb6a59024eec9af389f82"
+    },
     {
       "date": "Le mercredi 11 février 2026 de  09:30:00 à  15:30:00",
       "locality": "TRIOLET",

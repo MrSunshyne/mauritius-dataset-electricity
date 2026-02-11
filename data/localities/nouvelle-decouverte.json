@@ -2,11 +2,18 @@
   "slug": "nouvelle-decouverte",
   "name": "NOUVELLE DECOUVERTE",
   "district": "moka",
-  "generated": "2026-02-11T07:20:15.272Z",
-  "outageCount": 25,
+  "generated": "2026-02-11T08:09:28.673Z",
+  "outageCount": 26,
   "firstOutage": "2022-12-13",
-  "lastOutage": "2026-02-05",
+  "lastOutage": "2026-02-11",
   "outages": [
+    {
+      "date": "Le mercredi 11 février 2026 de  11:50:00 à  13:00:00",
+      "streets": "SHIVALA ROAD, SCHOOL ROAD, ROYAL ROAD",
+      "from": "2026-02-11T07:50:00.000Z",
+      "to": "2026-02-11T09:00:00.000Z",
+      "id": "56144adb061cb6a59024eec9af389f82"
+    },
     {
       "date": "Le jeudi 5 février 2026 de  16:00:00 à  17:00:00",
       "streets": "SCHOOL LANE AND NEARBY REGION",

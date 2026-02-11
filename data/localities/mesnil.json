@@ -2,11 +2,18 @@
   "slug": "mesnil",
   "name": "MESNIL",
   "district": "plainewilhems",
-  "generated": "2026-02-11T07:20:15.248Z",
-  "outageCount": 7,
+  "generated": "2026-02-11T08:09:28.649Z",
+  "outageCount": 8,
   "firstOutage": "2022-08-10",
-  "lastOutage": "2025-11-16",
+  "lastOutage": "2026-02-12",
   "outages": [
+    {
+      "date": "Le jeudi 12 février 2026 de  14:00:00 à  18:00:00",
+      "streets": "Route Royal Mesnil, une partie de Route Parisot, une partie de Route Tagore.",
+      "from": "2026-02-12T10:00:00.000Z",
+      "to": "2026-02-12T14:00:00.000Z",
+      "id": "8ba0cd89ad8ff23df92b0f1f268e1d74"
+    },
     {
       "date": "Le dimanche 16 novembre 2025 de  11:00:00 à  14:00:00",
       "streets": "Avenue Pere Laval, CTR Lane, Partie de Mesnil, Sonah Lane",
