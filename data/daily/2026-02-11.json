@@ -1,8 +1,8 @@
 {
   "date": "2026-02-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-11T06:19:11.557Z",
-  "outageCount": 8,
+  "generated": "2026-02-11T07:20:15.030Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le mercredi 11 février 2026 de  09:30:00 à  15:30:00",
@@ -53,6 +53,26 @@
       "from": "2026-02-11T05:00:00.000Z",
       "to": "2026-02-11T11:00:00.000Z",
       "id": "c8eea4fd196b8a8146e01107a5799673"
+    },
+    {
+      "date": "Le mercredi 11 février 2026 de  10:55:00 à  13:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "KHEJOO ROAD, SOCIAL WELFARE CENTER & SURROUNDINGS",
+      "district": "rivieredurempart",
+      "from": "2026-02-11T06:55:00.000Z",
+      "to": "2026-02-11T09:00:00.000Z",
+      "id": "871d2076d10075b4a1a16287778f682e"
+    },
+    {
+      "date": "Le mercredi 11 février 2026 de  10:20:00 à  11:30:00",
+      "locality": "MAPOU LECLEZIO",
+      "localitySlug": "mapou-leclezio",
+      "streets": "INDUSTRIAL ZONE",
+      "district": "rivieredurempart",
+      "from": "2026-02-11T06:20:00.000Z",
+      "to": "2026-02-11T07:30:00.000Z",
+      "id": "9d194d284fcc8d611d1f2feda7c3479a"
     },
     {
       "date": "Le mercredi 11 février 2026 de  08:30:00 à  15:00:00",

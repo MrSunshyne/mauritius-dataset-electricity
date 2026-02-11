@@ -2,11 +2,18 @@
   "slug": "goodlands",
   "name": "GOODLANDS",
   "district": "rivieredurempart",
-  "generated": "2026-02-11T06:19:11.704Z",
-  "outageCount": 116,
+  "generated": "2026-02-11T07:20:15.180Z",
+  "outageCount": 117,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-02-08",
+  "lastOutage": "2026-02-11",
   "outages": [
+    {
+      "date": "Le mercredi 11 février 2026 de  10:55:00 à  13:00:00",
+      "streets": "KHEJOO ROAD, SOCIAL WELFARE CENTER & SURROUNDINGS",
+      "from": "2026-02-11T06:55:00.000Z",
+      "to": "2026-02-11T09:00:00.000Z",
+      "id": "871d2076d10075b4a1a16287778f682e"
+    },
     {
       "date": "Le dimanche 8 février 2026 de  08:30:00 à  15:30:00",
       "streets": "TOORABALLY ROAD, MORC ST ANTOINE, MME AZOR, MLLE JEANNE, MORC PETIT VILLAGE, PLATEAU ROAD, ST ANTOINE COMPOUND, TRIANGLE ROAD, GOODLANDS",
