@@ -1,9 +1,19 @@
 {
   "date": "2026-02-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-11T11:14:07.295Z",
-  "outageCount": 16,
+  "generated": "2026-02-11T12:09:28.503Z",
+  "outageCount": 17,
   "outages": [
+    {
+      "date": "Le mercredi 11 février 2026 de  15:35:00 à  17:45:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "DANS LES ENVIRONS NHDC LA LUCIE BEL AIR.",
+      "district": "flacq",
+      "from": "2026-02-11T11:35:00.000Z",
+      "to": "2026-02-11T13:45:00.000Z",
+      "id": "dc56c35708a353bdffae458a3602f019"
+    },
     {
       "date": "Le mercredi 11 février 2026 de  11:45:00 à  16:00:00",
       "locality": "BALISSON",

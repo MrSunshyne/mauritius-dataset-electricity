@@ -2,11 +2,18 @@
   "slug": "bel-air",
   "name": "BEL AIR",
   "district": "flacq",
-  "generated": "2026-02-11T11:14:07.338Z",
-  "outageCount": 58,
+  "generated": "2026-02-11T12:09:28.547Z",
+  "outageCount": 59,
   "firstOutage": "2022-06-04",
-  "lastOutage": "2026-01-13",
+  "lastOutage": "2026-02-11",
   "outages": [
+    {
+      "date": "Le mercredi 11 février 2026 de  15:35:00 à  17:45:00",
+      "streets": "DANS LES ENVIRONS NHDC LA LUCIE BEL AIR.",
+      "from": "2026-02-11T11:35:00.000Z",
+      "to": "2026-02-11T13:45:00.000Z",
+      "id": "dc56c35708a353bdffae458a3602f019"
+    },
     {
       "date": "Le mardi 13 janvier 2026 de  13:00:00 à  16:00:00",
       "streets": "MORC LA CHEMINER, MORC SSS BEL AIR",
