@@ -2,11 +2,18 @@
   "slug": "saint-pierre",
   "name": "SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-02-11T10:14:30.746Z",
-  "outageCount": 56,
+  "generated": "2026-02-11T11:14:07.616Z",
+  "outageCount": 57,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-01-17",
+  "lastOutage": "2026-02-11",
   "outages": [
+    {
+      "date": "Le mercredi 11 février 2026 de  14:45:00 à  16:15:00",
+      "streets": "CHEMIN MONT FLEURI, CHEMIN BADAL ET LES ALENTOURS.",
+      "from": "2026-02-11T10:45:00.000Z",
+      "to": "2026-02-11T12:15:00.000Z",
+      "id": "3b26eab0878a5ef0db6a1e66dbc89aa8"
+    },
     {
       "date": "Le samedi 17 janvier 2026 de  08:30:00 à  17:45:00",
       "streets": "La Laura Village, Roselyn Cottage, La Laura Serviette, Malenga et CWA Malenga",

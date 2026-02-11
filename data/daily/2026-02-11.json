@@ -1,8 +1,8 @@
 {
   "date": "2026-02-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-11T10:14:30.451Z",
-  "outageCount": 14,
+  "generated": "2026-02-11T11:14:07.295Z",
+  "outageCount": 16,
   "outages": [
     {
       "date": "Le mercredi 11 février 2026 de  11:45:00 à  16:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-02-11T07:50:00.000Z",
       "to": "2026-02-11T09:00:00.000Z",
       "id": "56144adb061cb6a59024eec9af389f82"
+    },
+    {
+      "date": "Le mercredi 11 février 2026 de  14:45:00 à  16:15:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "CHEMIN MONT FLEURI, CHEMIN BADAL ET LES ALENTOURS.",
+      "district": "moka",
+      "from": "2026-02-11T10:45:00.000Z",
+      "to": "2026-02-11T12:15:00.000Z",
+      "id": "3b26eab0878a5ef0db6a1e66dbc89aa8"
     },
     {
       "date": "Le mercredi 11 février 2026 de  09:30:00 à  15:30:00",
@@ -53,6 +63,16 @@
       "from": "2026-02-11T09:00:00.000Z",
       "to": "2026-02-11T10:30:00.000Z",
       "id": "fcc34647f69b347c9270811df49babbc"
+    },
+    {
+      "date": "Le mercredi 11 février 2026 de  15:10:00 à  15:45:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "ROUTE BASSIN ET LES COMPLEXES COMMERCIAUX DANS LES ALENTOURS.",
+      "district": "plainewilhems",
+      "from": "2026-02-11T11:10:00.000Z",
+      "to": "2026-02-11T11:45:00.000Z",
+      "id": "8aa9cf7e95129aba606d2bb0a4943b4e"
     },
     {
       "date": "Le mercredi 11 février 2026 de  08:30:00 à  10:30:00",

@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-02-11T10:14:30.709Z",
-  "outageCount": 341,
+  "generated": "2026-02-11T11:14:07.577Z",
+  "outageCount": 342,
   "firstOutage": "2022-04-01",
   "lastOutage": "2026-02-11",
   "outages": [
+    {
+      "date": "Le mercredi 11 février 2026 de  15:10:00 à  15:45:00",
+      "streets": "ROUTE BASSIN ET LES COMPLEXES COMMERCIAUX DANS LES ALENTOURS.",
+      "from": "2026-02-11T11:10:00.000Z",
+      "to": "2026-02-11T11:45:00.000Z",
+      "id": "8aa9cf7e95129aba606d2bb0a4943b4e"
+    },
     {
       "date": "Le mercredi 11 février 2026 de  13:00:00 à  14:30:00",
       "streets": "AVENUE HITHCOCK GLADESTONE/VITORIA GROOVE",
