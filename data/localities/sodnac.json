@@ -2,11 +2,18 @@
   "slug": "sodnac",
   "name": "SODNAC",
   "district": "plainewilhems",
-  "generated": "2026-02-12T10:12:58.289Z",
-  "outageCount": 37,
+  "generated": "2026-02-12T11:13:24.337Z",
+  "outageCount": 38,
   "firstOutage": "2022-05-30",
-  "lastOutage": "2026-02-05",
+  "lastOutage": "2026-02-12",
   "outages": [
+    {
+      "date": "Le jeudi 12 février 2026 de  14:00:00 à  17:00:00",
+      "streets": "AVE ALOUETTE, BENGALI, HILLCREST & SURROUNDINGS",
+      "from": "2026-02-12T10:00:00.000Z",
+      "to": "2026-02-12T13:00:00.000Z",
+      "id": "1b63f1490aefbdb61571858d777d3a5f"
+    },
     {
       "date": "Le jeudi 5 février 2026 de  08:30:00 à  17:30:00",
       "streets": "NHDC Villeneuve,Dreamton Park",

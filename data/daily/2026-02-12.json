@@ -1,8 +1,8 @@
 {
   "date": "2026-02-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-12T10:12:57.958Z",
-  "outageCount": 7,
+  "generated": "2026-02-12T11:13:24.007Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le jeudi 12 février 2026 de  10:00:00 à  12:30:00",
@@ -53,6 +53,26 @@
       "from": "2026-02-12T10:00:00.000Z",
       "to": "2026-02-12T14:00:00.000Z",
       "id": "8ba0cd89ad8ff23df92b0f1f268e1d74"
+    },
+    {
+      "date": "Le jeudi 12 février 2026 de  14:00:00 à  17:00:00",
+      "locality": "SODNAC",
+      "localitySlug": "sodnac",
+      "streets": "AVE ALOUETTE, BENGALI, HILLCREST & SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2026-02-12T10:00:00.000Z",
+      "to": "2026-02-12T13:00:00.000Z",
+      "id": "1b63f1490aefbdb61571858d777d3a5f"
+    },
+    {
+      "date": "Le jeudi 12 février 2026 de  14:00:00 à  18:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "IDRIS GOOMANY, TRICHNAPOLY, DIEGO GARSIA AND SURROUNDINGS",
+      "district": "portlouis",
+      "from": "2026-02-12T10:00:00.000Z",
+      "to": "2026-02-12T14:00:00.000Z",
+      "id": "299f0c4db5029882f858629bbd8a034b"
     },
     {
       "date": "Le jeudi 12 février 2026 de  09:30:00 à  11:00:00",

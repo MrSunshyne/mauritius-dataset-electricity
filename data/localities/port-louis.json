@@ -2,11 +2,18 @@
   "slug": "port-louis",
   "name": "PORT-LOUIS",
   "district": "portlouis",
-  "generated": "2026-02-12T10:12:58.237Z",
-  "outageCount": 102,
+  "generated": "2026-02-12T11:13:24.283Z",
+  "outageCount": 103,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-01-18",
+  "lastOutage": "2026-02-12",
   "outages": [
+    {
+      "date": "Le jeudi 12 février 2026 de  14:00:00 à  18:00:00",
+      "streets": "IDRIS GOOMANY, TRICHNAPOLY, DIEGO GARSIA AND SURROUNDINGS",
+      "from": "2026-02-12T10:00:00.000Z",
+      "to": "2026-02-12T14:00:00.000Z",
+      "id": "299f0c4db5029882f858629bbd8a034b"
+    },
     {
       "date": "Le dimanche 18 janvier 2026 de  09:00:00 à  13:00:00",
       "streets": "RUE DAVID-RUE R SEENEEVASSEN PORT LOUIS",
