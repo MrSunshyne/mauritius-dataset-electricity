@@ -1,9 +1,19 @@
 {
   "date": "2026-02-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-11T18:14:46.945Z",
-  "outageCount": 5,
+  "generated": "2026-02-12T06:18:25.588Z",
+  "outageCount": 7,
   "outages": [
+    {
+      "date": "Le jeudi 12 février 2026 de  10:00:00 à  12:30:00",
+      "locality": "NOUVELLE DECOUVERTE",
+      "localitySlug": "nouvelle-decouverte",
+      "streets": "SCHOOL ROAD NOUVELLE DECOUVERTE",
+      "district": "moka",
+      "from": "2026-02-12T06:00:00.000Z",
+      "to": "2026-02-12T08:30:00.000Z",
+      "id": "38dd4dfb16b8d688be090a8abf103a28"
+    },
     {
       "date": "Le jeudi 12 février 2026 de  09:30:00 à  14:00:00",
       "locality": "TRIOLET",
@@ -43,6 +53,16 @@
       "from": "2026-02-12T10:00:00.000Z",
       "to": "2026-02-12T14:00:00.000Z",
       "id": "8ba0cd89ad8ff23df92b0f1f268e1d74"
+    },
+    {
+      "date": "Le jeudi 12 février 2026 de  09:30:00 à  11:00:00",
+      "locality": "RIAMBEL",
+      "localitySlug": "riambel",
+      "streets": "ESCALE DU SUD RIAMBEL",
+      "district": "savanne",
+      "from": "2026-02-12T05:30:00.000Z",
+      "to": "2026-02-12T07:00:00.000Z",
+      "id": "f37fb2dd208cfc1af183098949989fad"
     },
     {
       "date": "Le jeudi 12 février 2026 de  09:00:00 à  14:00:00",

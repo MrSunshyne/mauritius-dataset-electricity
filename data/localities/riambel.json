@@ -2,11 +2,18 @@
   "slug": "riambel",
   "name": "RIAMBEL",
   "district": "savanne",
-  "generated": "2026-02-11T18:14:47.246Z",
-  "outageCount": 27,
+  "generated": "2026-02-12T06:18:25.883Z",
+  "outageCount": 28,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-01-24",
+  "lastOutage": "2026-02-12",
   "outages": [
+    {
+      "date": "Le jeudi 12 février 2026 de  09:30:00 à  11:00:00",
+      "streets": "ESCALE DU SUD RIAMBEL",
+      "from": "2026-02-12T05:30:00.000Z",
+      "to": "2026-02-12T07:00:00.000Z",
+      "id": "f37fb2dd208cfc1af183098949989fad"
+    },
     {
       "date": "Le samedi 24 janvier 2026 de  09:00:00 à  15:30:00",
       "streets": "Riambel Surinam, Pomponette Riambel et Belle Vue Chemin Grenier",
