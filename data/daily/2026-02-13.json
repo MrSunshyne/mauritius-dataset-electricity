@@ -1,8 +1,8 @@
 {
   "date": "2026-02-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-13T09:12:07.056Z",
-  "outageCount": 5,
+  "generated": "2026-02-13T10:11:10.126Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le vendredi 13 février 2026 de  08:30:00 à  16:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-02-13T04:30:00.000Z",
       "to": "2026-02-13T12:30:00.000Z",
       "id": "be6736367cb505884e6d8c9863b3d577"
+    },
+    {
+      "date": "Le vendredi 13 février 2026 de  13:15:00 à  17:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "Morc Terre D-Albion..Ave des Cygnes,Peroquet  et les ruelles avoisinantes",
+      "district": "blackriver",
+      "from": "2026-02-13T09:15:00.000Z",
+      "to": "2026-02-13T13:00:00.000Z",
+      "id": "e55b3d2cdccfe5348e0d3de8efc59b9e"
     },
     {
       "date": "Le vendredi 13 février 2026 de  09:30:00 à  15:30:00",

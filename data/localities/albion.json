@@ -2,11 +2,18 @@
   "slug": "albion",
   "name": "ALBION",
   "district": "blackriver",
-  "generated": "2026-02-13T09:12:07.071Z",
-  "outageCount": 101,
+  "generated": "2026-02-13T10:11:10.141Z",
+  "outageCount": 102,
   "firstOutage": "2022-06-06",
-  "lastOutage": "2026-02-07",
+  "lastOutage": "2026-02-13",
   "outages": [
+    {
+      "date": "Le vendredi 13 février 2026 de  13:15:00 à  17:00:00",
+      "streets": "Morc Terre D-Albion..Ave des Cygnes,Peroquet  et les ruelles avoisinantes",
+      "from": "2026-02-13T09:15:00.000Z",
+      "to": "2026-02-13T13:00:00.000Z",
+      "id": "e55b3d2cdccfe5348e0d3de8efc59b9e"
+    },
     {
       "date": "Le samedi 7 février 2026 de  08:30:00 à  15:00:00",
       "streets": "Camp Creole, Ave Pelican, Ave Flamingo, Ave Albatros, Ave Condor, Ave Vally, Ave Belle Eau, Ave La Source et les environs",
