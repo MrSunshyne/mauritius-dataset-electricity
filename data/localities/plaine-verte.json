@@ -2,11 +2,18 @@
   "slug": "plaine-verte",
   "name": "PLAINE VERTE",
   "district": "portlouis",
-  "generated": "2026-02-12T18:14:00.211Z",
-  "outageCount": 23,
+  "generated": "2026-02-13T06:17:00.364Z",
+  "outageCount": 24,
   "firstOutage": "2022-12-21",
-  "lastOutage": "2026-01-23",
+  "lastOutage": "2026-02-13",
   "outages": [
+    {
+      "date": "Le vendredi 13 février 2026 de  09:25:00 à  11:00:00",
+      "streets": "Rues Diego Garcia,Magon et les ruelles avoisinantes",
+      "from": "2026-02-13T05:25:00.000Z",
+      "to": "2026-02-13T07:00:00.000Z",
+      "id": "a4efd29584a9866744bf739ce8b7f32f"
+    },
     {
       "date": "Le vendredi 23 janvier 2026 de  18:00:00 à  19:30:00",
       "streets": "CHEMIN CANAL BATHURST AND LES RUELLES AVOISINANTES.",
