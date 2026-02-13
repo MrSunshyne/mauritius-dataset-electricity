@@ -1,8 +1,8 @@
 {
   "date": "2026-02-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-13T13:24:13.287Z",
-  "outageCount": 7,
+  "generated": "2026-02-13T14:13:17.052Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le vendredi 13 février 2026 de  08:30:00 à  16:30:00",
@@ -63,6 +63,16 @@
       "from": "2026-02-13T12:30:00.000Z",
       "to": "2026-02-13T13:15:00.000Z",
       "id": "c5a3a4293d106fe701ab3fde9aaeecf6"
+    },
+    {
+      "date": "Le vendredi 13 février 2026 de  17:15:00 à  18:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "BOUNDARY, ST PATRICK, CONTE DES LISLE, ROBERT EDOUARD AND SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2026-02-13T13:15:00.000Z",
+      "to": "2026-02-13T14:30:00.000Z",
+      "id": "c94541827362bc468b5c1a7da6bdfcac"
     },
     {
       "date": "Le vendredi 13 février 2026 de  09:25:00 à  11:00:00",
