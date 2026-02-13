@@ -2,11 +2,18 @@
   "slug": "highlands",
   "name": "HIGHLANDS",
   "district": "plainewilhems",
-  "generated": "2026-02-13T11:10:12.083Z",
-  "outageCount": 67,
+  "generated": "2026-02-13T12:04:26.217Z",
+  "outageCount": 68,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2026-01-22",
+  "lastOutage": "2026-02-18",
   "outages": [
+    {
+      "date": "Le mercredi 18 février 2026 de  08:30:00 à  16:00:00",
+      "streets": "Une partie de Moque Road, Morc Parmessur et Morc Valdoise",
+      "from": "2026-02-18T04:30:00.000Z",
+      "to": "2026-02-18T12:00:00.000Z",
+      "id": "9fb3693f542991acfd7c82b55482e125"
+    },
     {
       "date": "Le jeudi 22 janvier 2026 de  17:35:00 à  20:30:00",
       "streets": "HIGHLANDS",
