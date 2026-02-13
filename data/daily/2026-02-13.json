@@ -1,8 +1,8 @@
 {
   "date": "2026-02-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-13T12:04:26.057Z",
-  "outageCount": 6,
+  "generated": "2026-02-13T13:24:13.287Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le vendredi 13 février 2026 de  08:30:00 à  16:30:00",
@@ -53,6 +53,16 @@
       "from": "2026-02-13T08:00:00.000Z",
       "to": "2026-02-13T13:00:00.000Z",
       "id": "2fa380bfb989595d05e4cfc26c95ed34"
+    },
+    {
+      "date": "Le vendredi 13 février 2026 de  16:30:00 à  17:15:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "BOUNDARY, CITE PERE LAVAL, CITE BEAU SEJOURS ET LES ALENTOURS DE WINNERS",
+      "district": "plainewilhems",
+      "from": "2026-02-13T12:30:00.000Z",
+      "to": "2026-02-13T13:15:00.000Z",
+      "id": "c5a3a4293d106fe701ab3fde9aaeecf6"
     },
     {
       "date": "Le vendredi 13 février 2026 de  09:25:00 à  11:00:00",

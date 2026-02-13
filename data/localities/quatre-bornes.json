@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-02-13T12:04:26.324Z",
-  "outageCount": 342,
+  "generated": "2026-02-13T13:24:13.582Z",
+  "outageCount": 343,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-02-11",
+  "lastOutage": "2026-02-13",
   "outages": [
+    {
+      "date": "Le vendredi 13 février 2026 de  16:30:00 à  17:15:00",
+      "streets": "BOUNDARY, CITE PERE LAVAL, CITE BEAU SEJOURS ET LES ALENTOURS DE WINNERS",
+      "from": "2026-02-13T12:30:00.000Z",
+      "to": "2026-02-13T13:15:00.000Z",
+      "id": "c5a3a4293d106fe701ab3fde9aaeecf6"
+    },
     {
       "date": "Le mercredi 11 février 2026 de  15:10:00 à  15:45:00",
       "streets": "ROUTE BASSIN ET LES COMPLEXES COMMERCIAUX DANS LES ALENTOURS.",
