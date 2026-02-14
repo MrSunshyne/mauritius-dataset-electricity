@@ -2,11 +2,18 @@
   "slug": "port-louis",
   "name": "PORT-LOUIS",
   "district": "portlouis",
-  "generated": "2026-02-14T17:04:35.090Z",
-  "outageCount": 103,
+  "generated": "2026-02-14T18:01:46.454Z",
+  "outageCount": 104,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-02-12",
+  "lastOutage": "2026-02-14",
   "outages": [
+    {
+      "date": "Le samedi 14 février 2026 de  20:12:00 à  02:00:00",
+      "streets": "Part of Military Road (Centre), Paul Taureau, NHDC Vallee Des Pretes, Ste Croix (St Gabriel, Ste Marie, Cite La Cure, Morc. La Vallee), Pere Laval, Capitaine Pontre, Morc Raffray Le Hochet Terre Rouge.",
+      "from": "2026-02-14T16:12:00.000Z",
+      "to": "2026-02-13T22:00:00.000Z",
+      "id": "198aa9ed352ea0a01a6cde6aea8717e2"
+    },
     {
       "date": "Le jeudi 12 février 2026 de  14:00:00 à  18:00:00",
       "streets": "IDRIS GOOMANY, TRICHNAPOLY, DIEGO GARSIA AND SURROUNDINGS",
