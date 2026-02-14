@@ -2,11 +2,18 @@
   "slug": "gentilly-moka",
   "name": "GENTILLY- MOKA",
   "district": "moka",
-  "generated": "2026-02-13T18:08:17.892Z",
-  "outageCount": 9,
+  "generated": "2026-02-14T06:09:11.255Z",
+  "outageCount": 10,
   "firstOutage": "2023-02-24",
-  "lastOutage": "2025-12-05",
+  "lastOutage": "2026-02-14",
   "outages": [
+    {
+      "date": "Le samedi 14 février 2026 de  08:45:00 à  13:00:00",
+      "streets": "MORC GENTILLY-TELFAIR-CWA CAMP AUGUSTE- CWA MINISSI MOKA",
+      "from": "2026-02-14T04:45:00.000Z",
+      "to": "2026-02-14T09:00:00.000Z",
+      "id": "2b8a15dba0f87ba98da9038e5718bcc3"
+    },
     {
       "date": "Le vendredi 5 décembre 2025 de  15:00:00 à  17:30:00",
       "streets": "MORC RAMNARAIN, CHANTENAY, GENTILLY BRANCH ROAD.",

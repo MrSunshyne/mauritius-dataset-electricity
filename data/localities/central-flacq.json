@@ -2,11 +2,18 @@
   "slug": "central-flacq",
   "name": "CENTRAL FLACQ",
   "district": "flacq",
-  "generated": "2026-02-13T18:08:17.847Z",
-  "outageCount": 69,
+  "generated": "2026-02-14T06:09:11.206Z",
+  "outageCount": 70,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-02-05",
+  "lastOutage": "2026-02-14",
   "outages": [
+    {
+      "date": "Le samedi 14 février 2026 de  09:00:00 à  13:00:00",
+      "streets": "ROYAL RD FLACQ NR POLICE STATION",
+      "from": "2026-02-14T05:00:00.000Z",
+      "to": "2026-02-14T09:00:00.000Z",
+      "id": "592b57f6668486eea59891269cd91609"
+    },
     {
       "date": "Le jeudi 5 février 2026 de  13:10:00 à  14:30:00",
       "streets": "DANS LES ENVIRONS WINNERS, EMCAR, ARCADE VIRGINIE, LA GARE ET LES ENVIRONS.",
