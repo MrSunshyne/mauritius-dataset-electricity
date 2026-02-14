@@ -1,8 +1,8 @@
 {
   "date": "2026-02-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-14T11:02:55.030Z",
-  "outageCount": 2,
+  "generated": "2026-02-14T12:02:01.212Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le samedi 14 février 2026 de  09:00:00 à  13:00:00",
@@ -23,6 +23,26 @@
       "from": "2026-02-14T04:45:00.000Z",
       "to": "2026-02-14T09:00:00.000Z",
       "id": "2b8a15dba0f87ba98da9038e5718bcc3"
+    },
+    {
+      "date": "Le samedi 14 février 2026 de  15:00:00 à  19:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "FLORIDA TOMBEAU BAY",
+      "district": "pamplemousses",
+      "from": "2026-02-14T11:00:00.000Z",
+      "to": "2026-02-14T15:00:00.000Z",
+      "id": "609cc571a9706b7f35127528ccec8edc"
+    },
+    {
+      "date": "Le samedi 14 février 2026 de  13:45:00 à  18:00:00",
+      "locality": "RIVIERE CITRON",
+      "localitySlug": "riviere-citron",
+      "streets": "RIVIERE CITRON PAMPLEMOUSSES",
+      "district": "pamplemousses",
+      "from": "2026-02-14T09:45:00.000Z",
+      "to": "2026-02-14T14:00:00.000Z",
+      "id": "e1aaa9a2f89b531ab20046dbe22eaf46"
     }
   ]
 }
