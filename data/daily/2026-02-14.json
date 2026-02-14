@@ -1,8 +1,8 @@
 {
   "date": "2026-02-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-14T16:02:19.661Z",
-  "outageCount": 4,
+  "generated": "2026-02-14T17:04:34.808Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le samedi 14 février 2026 de  09:00:00 à  13:00:00",
@@ -43,6 +43,26 @@
       "from": "2026-02-14T09:45:00.000Z",
       "to": "2026-02-14T14:00:00.000Z",
       "id": "e1aaa9a2f89b531ab20046dbe22eaf46"
+    },
+    {
+      "date": "Le samedi 14 février 2026 de  18:00:00 à  22:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "CHEMIN 20 PIEDS EN DIRECTION CAP MALHEUREUX, PETIT RAFFRAY, GRAND GAUBE.",
+      "district": "rivieredurempart",
+      "from": "2026-02-14T14:00:00.000Z",
+      "to": "2026-02-14T18:00:00.000Z",
+      "id": "5fb9fd0d5bf580da7ee1dae2564f595b"
+    },
+    {
+      "date": "Le samedi 14 février 2026 de  19:30:00 à  22:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "MORC ST ANTOINE GOODLANDS.",
+      "district": "rivieredurempart",
+      "from": "2026-02-14T15:30:00.000Z",
+      "to": "2026-02-14T18:00:00.000Z",
+      "id": "9e8336d1b3d2265067eabd2d94a3dd9b"
     }
   ]
 }

@@ -2,11 +2,18 @@
   "slug": "goodlands",
   "name": "GOODLANDS",
   "district": "rivieredurempart",
-  "generated": "2026-02-14T16:02:19.833Z",
-  "outageCount": 117,
+  "generated": "2026-02-14T17:04:34.962Z",
+  "outageCount": 118,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-02-11",
+  "lastOutage": "2026-02-14",
   "outages": [
+    {
+      "date": "Le samedi 14 février 2026 de  19:30:00 à  22:00:00",
+      "streets": "MORC ST ANTOINE GOODLANDS.",
+      "from": "2026-02-14T15:30:00.000Z",
+      "to": "2026-02-14T18:00:00.000Z",
+      "id": "9e8336d1b3d2265067eabd2d94a3dd9b"
+    },
     {
       "date": "Le mercredi 11 février 2026 de  10:55:00 à  13:00:00",
       "streets": "KHEJOO ROAD, SOCIAL WELFARE CENTER & SURROUNDINGS",

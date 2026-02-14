@@ -2,11 +2,18 @@
   "slug": "grand-bay",
   "name": "GRAND BAY",
   "district": "rivieredurempart",
-  "generated": "2026-02-14T16:02:19.835Z",
-  "outageCount": 96,
+  "generated": "2026-02-14T17:04:34.964Z",
+  "outageCount": 97,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-02-07",
+  "lastOutage": "2026-02-14",
   "outages": [
+    {
+      "date": "Le samedi 14 février 2026 de  18:00:00 à  22:00:00",
+      "streets": "CHEMIN 20 PIEDS EN DIRECTION CAP MALHEUREUX, PETIT RAFFRAY, GRAND GAUBE.",
+      "from": "2026-02-14T14:00:00.000Z",
+      "to": "2026-02-14T18:00:00.000Z",
+      "id": "5fb9fd0d5bf580da7ee1dae2564f595b"
+    },
     {
       "date": "Le samedi 7 février 2026 de  11:15:00 à  16:00:00",
       "streets": "GERANIUM RD G BAY",
