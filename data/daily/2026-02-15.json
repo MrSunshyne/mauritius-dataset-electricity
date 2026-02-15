@@ -1,8 +1,8 @@
 {
   "date": "2026-02-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-15T11:03:26.239Z",
-  "outageCount": 2,
+  "generated": "2026-02-15T12:02:07.219Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le dimanche 15 février 2026 de  14:35:00 à  16:35:00",
@@ -13,6 +13,16 @@
       "from": "2026-02-15T10:35:00.000Z",
       "to": "2026-02-15T12:35:00.000Z",
       "id": "36c11c38d965908f999e473a29047842"
+    },
+    {
+      "date": "Le dimanche 15 février 2026 de  14:15:00 à  18:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "MORCELLEMENT REY, COASTAL ROAD INCLUDING P.AUX SABLES POLICE STATION, DEBARCADERE, UP TILL AW WONG LA TOUR KOENIG.",
+      "district": "portlouis",
+      "from": "2026-02-15T10:15:00.000Z",
+      "to": "2026-02-15T14:00:00.000Z",
+      "id": "c302876043acbe7a47a69a707ea5962b"
     },
     {
       "date": "Le dimanche 15 février 2026 de  14:00:00 à  15:03:00",
