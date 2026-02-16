@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-15T18:02:20.853Z",
+  "generated": "2026-02-16T06:18:37.065Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -25,10 +25,10 @@
       "slug": "albion",
       "name": "ALBION",
       "district": "blackriver",
-      "outageCount": 102,
+      "outageCount": 103,
       "file": "albion.json",
       "firstOutage": "2022-06-06",
-      "lastOutage": "2026-02-13"
+      "lastOutage": "2026-02-16"
     },
     {
       "slug": "allee-brillant-castel",
@@ -2923,19 +2923,19 @@
       "slug": "plaine-des-papayes",
       "name": "PLAINE DES PAPAYES",
       "district": "pamplemousses",
-      "outageCount": 36,
+      "outageCount": 37,
       "file": "plaine-des-papayes.json",
       "firstOutage": "2022-05-22",
-      "lastOutage": "2026-01-31"
+      "lastOutage": "2026-02-16"
     },
     {
       "slug": "plaine-des-roches",
       "name": "PLAINE DES ROCHES",
       "district": "rivieredurempart",
-      "outageCount": 29,
+      "outageCount": 30,
       "file": "plaine-des-roches.json",
       "firstOutage": "2022-04-24",
-      "lastOutage": "2026-01-29"
+      "lastOutage": "2026-02-16"
     },
     {
       "slug": "plaine-lauzun",
@@ -3040,10 +3040,10 @@
       "slug": "pointe-des-lascars",
       "name": "POINTE DES LASCARS",
       "district": "rivieredurempart",
-      "outageCount": 9,
+      "outageCount": 10,
       "file": "pointe-des-lascars.json",
       "firstOutage": "2022-07-06",
-      "lastOutage": "2024-03-22"
+      "lastOutage": "2026-02-16"
     },
     {
       "slug": "pompee",
@@ -3121,10 +3121,10 @@
       "slug": "poste-lafayette",
       "name": "POSTE LAFAYETTE",
       "district": "flacq",
-      "outageCount": 36,
+      "outageCount": 37,
       "file": "poste-lafayette.json",
       "firstOutage": "2022-03-24",
-      "lastOutage": "2026-01-29"
+      "lastOutage": "2026-02-16"
     },
     {
       "slug": "powder-mill",
@@ -3427,10 +3427,10 @@
       "slug": "riviere-du-rempart",
       "name": "RIVIERE DU REMPART",
       "district": "rivieredurempart",
-      "outageCount": 46,
+      "outageCount": 47,
       "file": "riviere-du-rempart.json",
       "firstOutage": "2022-03-20",
-      "lastOutage": "2026-02-11"
+      "lastOutage": "2026-02-16"
     },
     {
       "slug": "riviere-noire",
@@ -3481,10 +3481,10 @@
       "slug": "roches-noires",
       "name": "ROCHES NOIRES",
       "district": "rivieredurempart",
-      "outageCount": 30,
+      "outageCount": 31,
       "file": "roches-noires.json",
       "firstOutage": "2022-06-03",
-      "lastOutage": "2026-01-29"
+      "lastOutage": "2026-02-16"
     },
     {
       "slug": "rodrigues",
@@ -3895,10 +3895,10 @@
       "slug": "triolet",
       "name": "TRIOLET",
       "district": "pamplemousses",
-      "outageCount": 111,
+      "outageCount": 112,
       "file": "triolet.json",
       "firstOutage": "2022-04-08",
-      "lastOutage": "2026-02-13"
+      "lastOutage": "2026-02-16"
     },
     {
       "slug": "trois-boutiques-triolet",

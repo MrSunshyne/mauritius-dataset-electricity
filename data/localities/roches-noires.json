@@ -2,11 +2,18 @@
   "slug": "roches-noires",
   "name": "ROCHES NOIRES",
   "district": "rivieredurempart",
-  "generated": "2026-02-15T18:02:20.792Z",
-  "outageCount": 30,
+  "generated": "2026-02-16T06:18:37.004Z",
+  "outageCount": 31,
   "firstOutage": "2022-06-03",
-  "lastOutage": "2026-01-29",
+  "lastOutage": "2026-02-16",
   "outages": [
+    {
+      "date": "Le lundi 16 février 2026 de  06:00:00 à  12:00:00",
+      "streets": "",
+      "from": "2026-02-16T02:00:00.000Z",
+      "to": "2026-02-16T08:00:00.000Z",
+      "id": "85c97b070df6af21d27972169abf113b"
+    },
     {
       "date": "Le jeudi 29 janvier 2026 de  08:30:00 à  15:30:00",
       "streets": "ENTIERE REGION DE ROCHES NOIRES",
