@@ -1,8 +1,8 @@
 {
   "date": "2026-02-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-16T17:12:12.414Z",
-  "outageCount": 10,
+  "generated": "2026-02-16T18:06:52.295Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le lundi 16 février 2026 de  04:20:00 à  10:00:00",
@@ -53,6 +53,26 @@
       "from": "2026-02-16T12:45:00.000Z",
       "to": "2026-02-16T13:30:00.000Z",
       "id": "832d3b1742c78f74b8dd0d1917103c8e"
+    },
+    {
+      "date": "Le lundi 16 février 2026 de  22:00:00 à  23:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "FLOREAL RD-HANUMANJEE RD FLOREAL",
+      "district": "plainewilhems",
+      "from": "2026-02-16T18:00:00.000Z",
+      "to": "2026-02-16T19:00:00.000Z",
+      "id": "5b6b6f9b151648aca802eebbb4b4ea3b"
+    },
+    {
+      "date": "Le lundi 16 février 2026 de  20:15:00 à  00:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "RUE SERGE ALFRED -ROYAL RD BEAU BASSIN",
+      "district": "plainewilhems",
+      "from": "2026-02-16T16:15:00.000Z",
+      "to": "2026-02-15T20:00:00.000Z",
+      "id": "50b57786ae68fd6deab28e749a2258be"
     },
     {
       "date": "Le lundi 16 février 2026 de  19:45:00 à  22:15:00",

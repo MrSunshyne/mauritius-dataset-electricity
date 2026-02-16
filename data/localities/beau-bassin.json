@@ -2,11 +2,18 @@
   "slug": "beau-bassin",
   "name": "BEAU BASSIN",
   "district": "plainewilhems",
-  "generated": "2026-02-16T17:12:12.452Z",
-  "outageCount": 165,
+  "generated": "2026-02-16T18:06:52.335Z",
+  "outageCount": 166,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-02-12",
+  "lastOutage": "2026-02-16",
   "outages": [
+    {
+      "date": "Le lundi 16 février 2026 de  20:15:00 à  00:00:00",
+      "streets": "RUE SERGE ALFRED -ROYAL RD BEAU BASSIN",
+      "from": "2026-02-16T16:15:00.000Z",
+      "to": "2026-02-15T20:00:00.000Z",
+      "id": "50b57786ae68fd6deab28e749a2258be"
+    },
     {
       "date": "Le jeudi 12 février 2026 de  13:00:00 à  17:00:00",
       "streets": "Ave Cossigny, Ave Sir Walter Besant, Louis Lechelle, Ave Poivre, Le Tabernacle, Bio Sante Ville Soeur, Caprice Gervais et les environs",
