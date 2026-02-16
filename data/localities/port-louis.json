@@ -2,11 +2,18 @@
   "slug": "port-louis",
   "name": "PORT-LOUIS",
   "district": "portlouis",
-  "generated": "2026-02-16T15:11:24.188Z",
-  "outageCount": 104,
+  "generated": "2026-02-16T16:09:43.980Z",
+  "outageCount": 105,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-02-14",
+  "lastOutage": "2026-02-16",
   "outages": [
+    {
+      "date": "Le lundi 16 février 2026 de  19:45:00 à  22:15:00",
+      "streets": "ODETTE ERNEST ET LES ALENTOURS",
+      "from": "2026-02-16T15:45:00.000Z",
+      "to": "2026-02-16T18:15:00.000Z",
+      "id": "db0286ed0e1ea25e25997e648143c94b"
+    },
     {
       "date": "Le samedi 14 février 2026 de  20:12:00 à  02:00:00",
       "streets": "Part of Military Road (Centre), Paul Taureau, NHDC Vallee Des Pretes, Ste Croix (St Gabriel, Ste Marie, Cite La Cure, Morc. La Vallee), Pere Laval, Capitaine Pontre, Morc Raffray Le Hochet Terre Rouge.",
