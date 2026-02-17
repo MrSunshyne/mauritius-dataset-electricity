@@ -2,11 +2,18 @@
   "slug": "mont-piton",
   "name": "MONT PITON",
   "district": "pamplemousses",
-  "generated": "2026-02-17T17:19:09.110Z",
-  "outageCount": 3,
+  "generated": "2026-02-17T18:13:30.546Z",
+  "outageCount": 4,
   "firstOutage": "2023-05-08",
-  "lastOutage": "2023-12-21",
+  "lastOutage": "2026-02-17",
   "outages": [
+    {
+      "date": "Le mardi 17 février 2026 de  21:30:00 à  23:00:00",
+      "streets": "MONT PITON ET EN PARTIE MOUNT",
+      "from": "2026-02-17T17:30:00.000Z",
+      "to": "2026-02-17T19:00:00.000Z",
+      "id": "74e54e3477b5f918d7058a012fe70954"
+    },
     {
       "date": "Le jeudi 21 décembre 2023 de  14:30:00 à  18:30:00",
       "streets": "MONT PITON PHASE 1 & 2AND SURROUNDINGS",
