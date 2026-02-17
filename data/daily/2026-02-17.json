@@ -1,18 +1,28 @@
 {
   "date": "2026-02-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-17T11:12:51.142Z",
-  "outageCount": 1,
+  "generated": "2026-02-17T12:06:21.743Z",
+  "outageCount": 2,
   "outages": [
     {
-      "date": "Le mardi 17 février 2026 de  10:05:00 à  16:00:00",
+      "date": "Le mardi 17 février 2026 de  15:30:00 à  19:30:00",
+      "locality": "MON CHOISY",
+      "localitySlug": "mon-choisy",
+      "streets": "MORC SAGITTAIRE",
+      "district": "pamplemousses",
+      "from": "2026-02-17T11:30:00.000Z",
+      "to": "2026-02-17T15:30:00.000Z",
+      "id": "fcb9a2a0a65527a1603bb6238113dd69"
+    },
+    {
+      "date": "Le mardi 17 février 2026 de  10:05:00 à  17:30:00",
       "locality": "ROCHES NOIRES",
       "localitySlug": "roches-noires",
-      "streets": "Roche Noires,Haute Rive,Bras D-Eau Poste Lafayette",
+      "streets": "Roche Noires,Haute Rive,Bras D-Eau Poste Lafayette, Pointe des lascars",
       "district": "rivieredurempart",
       "from": "2026-02-17T06:05:00.000Z",
-      "to": "2026-02-17T12:00:00.000Z",
-      "id": "cfb4759770d349c94b22ff46870381d1"
+      "to": "2026-02-17T13:30:00.000Z",
+      "id": "589edc0cb82bf65de0dc33a0a76d339a"
     }
   ]
 }

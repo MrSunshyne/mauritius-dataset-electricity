@@ -2,11 +2,18 @@
   "slug": "mon-choisy",
   "name": "MON CHOISY",
   "district": "pamplemousses",
-  "generated": "2026-02-17T11:12:51.366Z",
-  "outageCount": 29,
+  "generated": "2026-02-17T12:06:21.948Z",
+  "outageCount": 30,
   "firstOutage": "2022-05-21",
-  "lastOutage": "2025-12-22",
+  "lastOutage": "2026-02-17",
   "outages": [
+    {
+      "date": "Le mardi 17 février 2026 de  15:30:00 à  19:30:00",
+      "streets": "MORC SAGITTAIRE",
+      "from": "2026-02-17T11:30:00.000Z",
+      "to": "2026-02-17T15:30:00.000Z",
+      "id": "fcb9a2a0a65527a1603bb6238113dd69"
+    },
     {
       "date": "Le lundi 22 décembre 2025 de  09:00:00 à  10:00:00",
       "streets": "COASTAL RD MON CHOISY",
