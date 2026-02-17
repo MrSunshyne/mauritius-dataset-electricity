@@ -2,11 +2,18 @@
   "slug": "roches-noires",
   "name": "ROCHES NOIRES",
   "district": "rivieredurempart",
-  "generated": "2026-02-17T07:18:33.102Z",
-  "outageCount": 31,
+  "generated": "2026-02-17T08:09:13.642Z",
+  "outageCount": 32,
   "firstOutage": "2022-06-03",
-  "lastOutage": "2026-02-16",
+  "lastOutage": "2026-02-17",
   "outages": [
+    {
+      "date": "Le mardi 17 février 2026 de  10:05:00 à  16:00:00",
+      "streets": "Roche Noires,Haute Rive,Bras D-Eau Poste Lafayette",
+      "from": "2026-02-17T06:05:00.000Z",
+      "to": "2026-02-17T12:00:00.000Z",
+      "id": "cfb4759770d349c94b22ff46870381d1"
+    },
     {
       "date": "Le lundi 16 février 2026 de  06:00:00 à  12:00:00",
       "streets": "",
