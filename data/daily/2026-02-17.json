@@ -1,8 +1,8 @@
 {
   "date": "2026-02-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-17T12:06:21.743Z",
-  "outageCount": 2,
+  "generated": "2026-02-17T13:25:37.418Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le mardi 17 février 2026 de  15:30:00 à  19:30:00",
@@ -23,6 +23,16 @@
       "from": "2026-02-17T06:05:00.000Z",
       "to": "2026-02-17T13:30:00.000Z",
       "id": "589edc0cb82bf65de0dc33a0a76d339a"
+    },
+    {
+      "date": "Le mardi 17 février 2026 de  16:25:00 à  17:30:00",
+      "locality": "PLAINE DES ROCHES",
+      "localitySlug": "plaine-des-roches",
+      "streets": "PLAINE DES ROCHES, RIVIERE DU REMPART",
+      "district": "rivieredurempart",
+      "from": "2026-02-17T12:25:00.000Z",
+      "to": "2026-02-17T13:30:00.000Z",
+      "id": "2f55b5bfe3d718d0748fbe88669eae05"
     }
   ]
 }

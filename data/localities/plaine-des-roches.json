@@ -2,11 +2,18 @@
   "slug": "plaine-des-roches",
   "name": "PLAINE DES ROCHES",
   "district": "rivieredurempart",
-  "generated": "2026-02-17T12:06:21.989Z",
-  "outageCount": 30,
+  "generated": "2026-02-17T13:25:37.686Z",
+  "outageCount": 31,
   "firstOutage": "2022-04-24",
-  "lastOutage": "2026-02-16",
+  "lastOutage": "2026-02-17",
   "outages": [
+    {
+      "date": "Le mardi 17 février 2026 de  16:25:00 à  17:30:00",
+      "streets": "PLAINE DES ROCHES, RIVIERE DU REMPART",
+      "from": "2026-02-17T12:25:00.000Z",
+      "to": "2026-02-17T13:30:00.000Z",
+      "id": "2f55b5bfe3d718d0748fbe88669eae05"
+    },
     {
       "date": "Le lundi 16 février 2026 de  06:00:00 à  12:00:00",
       "streets": "",
