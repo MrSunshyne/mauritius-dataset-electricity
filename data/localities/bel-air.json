@@ -2,11 +2,18 @@
   "slug": "bel-air",
   "name": "BEL AIR",
   "district": "flacq",
-  "generated": "2026-02-18T09:12:47.127Z",
-  "outageCount": 60,
+  "generated": "2026-02-18T10:12:36.370Z",
+  "outageCount": 61,
   "firstOutage": "2022-06-04",
   "lastOutage": "2026-02-19",
   "outages": [
+    {
+      "date": "Le jeudi 19 février 2026 de  16:00:00 à  17:00:00",
+      "streets": "BEL Air,dans le perimetre de Route Royale pres de LEglise St Esprit, Camp La Serpe, Ave Joseph Victoire, Chemin Boulanger et Winners.",
+      "from": "2026-02-19T12:00:00.000Z",
+      "to": "2026-02-19T13:00:00.000Z",
+      "id": "d720176ed7c9798b38d532b02c9f1a2b"
+    },
     {
       "date": "Le jeudi 19 février 2026 de  08:45:00 à  17:00:00",
       "streets": "BEL Air, dans le perimetre de Route Royale pres du supermarche Winners,Supermarche Jowahir et les chemins avoisinante.",

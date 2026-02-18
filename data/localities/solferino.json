@@ -2,11 +2,18 @@
   "slug": "solferino",
   "name": "SOLFERINO",
   "district": "plainewilhems",
-  "generated": "2026-02-18T09:12:47.412Z",
-  "outageCount": 18,
+  "generated": "2026-02-18T10:12:36.657Z",
+  "outageCount": 19,
   "firstOutage": "2022-05-06",
-  "lastOutage": "2025-09-26",
+  "lastOutage": "2026-02-18",
   "outages": [
+    {
+      "date": "Le mercredi 18 février 2026 de  07:00:00 à  15:00:00",
+      "streets": "SOLFERINO 5",
+      "from": "2026-02-18T03:00:00.000Z",
+      "to": "2026-02-18T11:00:00.000Z",
+      "id": "903d77d33b0c8560200e0ae88a50f441"
+    },
     {
       "date": "Le vendredi 26 septembre 2025 de  15:00:00 à  18:00:00",
       "streets": "Solferino No. 5, Camp Pave Road, Tanuja Lane, Hibiscus No. 1, No. 2, No. 3, Morc Edene, Partie de Bhuttoo",

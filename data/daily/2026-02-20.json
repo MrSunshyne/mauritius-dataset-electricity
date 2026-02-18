@@ -1,8 +1,8 @@
 {
   "date": "2026-02-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-18T09:12:47.079Z",
-  "outageCount": 1,
+  "generated": "2026-02-18T10:12:36.325Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le vendredi 20 février 2026 de  09:00:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-02-20T05:00:00.000Z",
       "to": "2026-02-20T13:00:00.000Z",
       "id": "abb3be5bd38fd061b1a28c2fbe727bb7"
+    },
+    {
+      "date": "Le vendredi 20 février 2026 de  09:30:00 à  16:00:00",
+      "locality": "POINTE AUX CANONNIERS",
+      "localitySlug": "pointe-aux-canonniers",
+      "streets": "Pointe Aux Cannoniers Area , Reservoir Road , Coastal Road , Laurier’s Road Grand Bay",
+      "district": "rivieredurempart",
+      "from": "2026-02-20T05:30:00.000Z",
+      "to": "2026-02-20T12:00:00.000Z",
+      "id": "cd46daff219c07ab83e6601c726ab89d"
     }
   ]
 }

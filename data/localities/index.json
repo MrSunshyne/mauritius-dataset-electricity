@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-18T09:12:47.449Z",
+  "generated": "2026-02-18T10:12:36.695Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -367,7 +367,7 @@
       "slug": "bel-air",
       "name": "BEL AIR",
       "district": "flacq",
-      "outageCount": 60,
+      "outageCount": 61,
       "file": "bel-air.json",
       "firstOutage": "2022-06-04",
       "lastOutage": "2026-02-19"
@@ -2986,10 +2986,10 @@
       "slug": "pointe-aux-canonniers",
       "name": "POINTE AUX CANONNIERS",
       "district": "rivieredurempart",
-      "outageCount": 47,
+      "outageCount": 48,
       "file": "pointe-aux-canonniers.json",
       "firstOutage": "2022-04-15",
-      "lastOutage": "2026-02-06"
+      "lastOutage": "2026-02-20"
     },
     {
       "slug": "pointe-aux-feuilles",
@@ -3706,10 +3706,10 @@
       "slug": "solferino",
       "name": "SOLFERINO",
       "district": "plainewilhems",
-      "outageCount": 18,
+      "outageCount": 19,
       "file": "solferino.json",
       "firstOutage": "2022-05-06",
-      "lastOutage": "2025-09-26"
+      "lastOutage": "2026-02-18"
     },
     {
       "slug": "solitude",

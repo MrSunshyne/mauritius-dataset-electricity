@@ -1,8 +1,8 @@
 {
   "date": "2026-02-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-18T09:12:47.079Z",
-  "outageCount": 2,
+  "generated": "2026-02-18T10:12:36.325Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le jeudi 19 février 2026 de  08:45:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-02-19T04:45:00.000Z",
       "to": "2026-02-19T13:00:00.000Z",
       "id": "bfe808883aca0018de211dbf044babdb"
+    },
+    {
+      "date": "Le jeudi 19 février 2026 de  16:00:00 à  17:00:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "BEL Air,dans le perimetre de Route Royale pres de LEglise St Esprit, Camp La Serpe, Ave Joseph Victoire, Chemin Boulanger et Winners.",
+      "district": "flacq",
+      "from": "2026-02-19T12:00:00.000Z",
+      "to": "2026-02-19T13:00:00.000Z",
+      "id": "d720176ed7c9798b38d532b02c9f1a2b"
     },
     {
       "date": "Le jeudi 19 février 2026 de  10:00:00 à  13:00:00",

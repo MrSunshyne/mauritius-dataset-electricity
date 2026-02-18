@@ -2,11 +2,18 @@
   "slug": "pointe-aux-canonniers",
   "name": "POINTE AUX CANONNIERS",
   "district": "rivieredurempart",
-  "generated": "2026-02-18T09:12:47.346Z",
-  "outageCount": 47,
+  "generated": "2026-02-18T10:12:36.593Z",
+  "outageCount": 48,
   "firstOutage": "2022-04-15",
-  "lastOutage": "2026-02-06",
+  "lastOutage": "2026-02-20",
   "outages": [
+    {
+      "date": "Le vendredi 20 février 2026 de  09:30:00 à  16:00:00",
+      "streets": "Pointe Aux Cannoniers Area , Reservoir Road , Coastal Road , Laurier’s Road Grand Bay",
+      "from": "2026-02-20T05:30:00.000Z",
+      "to": "2026-02-20T12:00:00.000Z",
+      "id": "cd46daff219c07ab83e6601c726ab89d"
+    },
     {
       "date": "Le vendredi 6 février 2026 de  13:00:00 à  16:30:00",
       "streets": "Entiere Region de Pointe Aux Cannoniers, Hotel Club Med et Hotel P aux Cannoniers",

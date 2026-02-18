@@ -1,8 +1,8 @@
 {
   "date": "2026-02-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-18T09:12:47.079Z",
-  "outageCount": 5,
+  "generated": "2026-02-18T10:12:36.325Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le mercredi 18 février 2026 de  11:00:00 à  12:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-02-18T05:45:00.000Z",
       "to": "2026-02-18T07:15:00.000Z",
       "id": "b502a4bb8ddf5da05280ea6b685114b4"
+    },
+    {
+      "date": "Le mercredi 18 février 2026 de  07:00:00 à  15:00:00",
+      "locality": "SOLFERINO",
+      "localitySlug": "solferino",
+      "streets": "SOLFERINO 5",
+      "district": "plainewilhems",
+      "from": "2026-02-18T03:00:00.000Z",
+      "to": "2026-02-18T11:00:00.000Z",
+      "id": "903d77d33b0c8560200e0ae88a50f441"
     },
     {
       "date": "Le mercredi 18 février 2026 de  15:00:00 à  18:00:00",
