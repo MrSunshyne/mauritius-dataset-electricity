@@ -2,11 +2,18 @@
   "slug": "vallee-des-pretres",
   "name": "VALLEE DES PRETRES",
   "district": "portlouis",
-  "generated": "2026-02-18T06:18:03.077Z",
-  "outageCount": 70,
+  "generated": "2026-02-18T07:19:12.868Z",
+  "outageCount": 71,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-02-07",
+  "lastOutage": "2026-02-21",
   "outages": [
+    {
+      "date": "Le samedi 21 février 2026 de  08:30:00 à  15:30:00",
+      "streets": "DANS LES ENVIRONS DE NHDC VALLEE DES PRETRES, NHDC CHA ET UNE PARTIE DE CARO LALO",
+      "from": "2026-02-21T04:30:00.000Z",
+      "to": "2026-02-21T11:30:00.000Z",
+      "id": "85539a258ff610dfd454376539ed5b70"
+    },
     {
       "date": "Le samedi 7 février 2026 de  12:00:00 à  14:00:00",
       "streets": "DANS LES ENVIRONS DE NHDC VALLEE DES PRETRES, NHDC CHA, DES RUES BERNARDIN DE ST PIERRE ET PAUL ET VIRGINIE",

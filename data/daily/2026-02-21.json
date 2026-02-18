@@ -1,0 +1,28 @@
+{
+  "date": "2026-02-21",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-02-18T07:19:12.537Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le samedi 21 février 2026 de  08:30:00 à  15:30:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "DANS LES ENVIRONS DE MORC LA VALLEE, PIETON PERE LAVAL ET LE CORNU",
+      "district": "portlouis",
+      "from": "2026-02-21T04:30:00.000Z",
+      "to": "2026-02-21T11:30:00.000Z",
+      "id": "0a04c086e8761408640c22caa97dcfe9"
+    },
+    {
+      "date": "Le samedi 21 février 2026 de  08:30:00 à  15:30:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "DANS LES ENVIRONS DE NHDC VALLEE DES PRETRES, NHDC CHA ET UNE PARTIE DE CARO LALO",
+      "district": "portlouis",
+      "from": "2026-02-21T04:30:00.000Z",
+      "to": "2026-02-21T11:30:00.000Z",
+      "id": "85539a258ff610dfd454376539ed5b70"
+    }
+  ]
+}
