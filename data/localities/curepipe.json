@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-02-17T18:13:30.448Z",
-  "outageCount": 201,
+  "generated": "2026-02-18T06:18:02.841Z",
+  "outageCount": 202,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-02-03",
+  "lastOutage": "2026-02-18",
   "outages": [
+    {
+      "date": "Le mercredi 18 février 2026 de  09:45:00 à  11:15:00",
+      "streets": "JAFFAR LANE,CORIOLIS ROAD 16EME MILE FOREST SIDE",
+      "from": "2026-02-18T05:45:00.000Z",
+      "to": "2026-02-18T07:15:00.000Z",
+      "id": "b502a4bb8ddf5da05280ea6b685114b4"
+    },
     {
       "date": "Le mardi 3 février 2026 de  09:50:00 à  11:45:00",
       "streets": "Sir William Newton,Gaetan Duval,Dr Edwards Streets",

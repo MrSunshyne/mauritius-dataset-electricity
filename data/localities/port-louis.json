@@ -2,11 +2,18 @@
   "slug": "port-louis",
   "name": "PORT-LOUIS",
   "district": "portlouis",
-  "generated": "2026-02-17T18:13:30.600Z",
-  "outageCount": 105,
+  "generated": "2026-02-18T06:18:02.993Z",
+  "outageCount": 106,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-02-16",
+  "lastOutage": "2026-02-18",
   "outages": [
+    {
+      "date": "Le mercredi 18 février 2026 de  15:00:00 à  18:00:00",
+      "streets": "DANS LES ENVIRONS DES RUES GORAH ISSAC, DIEGO GARCIA, TRICHNAPOLY, RAJPAUL, HASSEN SAKIR, PAUL ET VIRGINIE ET LA ROUTE MILITAIRE",
+      "from": "2026-02-18T11:00:00.000Z",
+      "to": "2026-02-18T14:00:00.000Z",
+      "id": "d69c929e3abc20376bd450915063d0e1"
+    },
     {
       "date": "Le lundi 16 février 2026 de  19:45:00 à  22:15:00",
       "streets": "ODETTE ERNEST ET LES ALENTOURS",

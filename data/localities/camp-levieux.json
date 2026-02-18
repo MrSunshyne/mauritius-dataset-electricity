@@ -2,11 +2,18 @@
   "slug": "camp-levieux",
   "name": "CAMP LEVIEUX ( CUREPIPE )",
   "district": "plainewilhems",
-  "generated": "2026-02-17T18:13:30.404Z",
-  "outageCount": 21,
+  "generated": "2026-02-18T06:18:02.799Z",
+  "outageCount": 22,
   "firstOutage": "2022-05-25",
-  "lastOutage": "2026-02-02",
+  "lastOutage": "2026-02-18",
   "outages": [
+    {
+      "date": "Le mercredi 18 février 2026 de  09:45:00 à  14:00:00",
+      "streets": "ASSEMBLY LANE,CRETIN LANE CAMP LEVIEUX ROSE HILL",
+      "from": "2026-02-18T05:45:00.000Z",
+      "to": "2026-02-18T10:00:00.000Z",
+      "id": "96ab4b8f30797c6ba54d6795ae80f146"
+    },
     {
       "date": "Le lundi 2 février 2026 de  16:00:00 à  18:00:00",
       "streets": "Espace Concorde, Morc Newtown et NSLD Camp Levieux",

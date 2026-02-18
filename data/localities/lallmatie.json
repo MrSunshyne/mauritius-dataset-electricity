@@ -2,11 +2,18 @@
   "slug": "lallmatie",
   "name": "LALLMATIE",
   "district": "flacq",
-  "generated": "2026-02-17T18:13:30.512Z",
-  "outageCount": 26,
+  "generated": "2026-02-18T06:18:02.905Z",
+  "outageCount": 27,
   "firstOutage": "2022-10-04",
-  "lastOutage": "2026-01-06",
+  "lastOutage": "2026-02-18",
   "outages": [
+    {
+      "date": "Le mercredi 18 février 2026 de  11:00:00 à  12:00:00",
+      "streets": "Grand Bas fond towards Lallmatie",
+      "from": "2026-02-18T07:00:00.000Z",
+      "to": "2026-02-18T08:00:00.000Z",
+      "id": "258b416b7a1f32c12ced3091f82e5e30"
+    },
     {
       "date": "Le mardi 6 janvier 2026 de  08:30:00 à  15:00:00",
       "streets": "LALLMATIE, DANS LES ENVIRONS DE GIRODAY, MAHATMA RD, ET EN PARTIE MISSION CROSS RD.",
