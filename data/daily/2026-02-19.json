@@ -1,8 +1,8 @@
 {
   "date": "2026-02-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-18T11:13:02.252Z",
-  "outageCount": 3,
+  "generated": "2026-02-18T12:06:18.761Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le jeudi 19 février 2026 de  08:45:00 à  17:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-02-19T12:00:00.000Z",
       "to": "2026-02-19T13:00:00.000Z",
       "id": "d720176ed7c9798b38d532b02c9f1a2b"
+    },
+    {
+      "date": "Le jeudi 19 février 2026 de  09:00:00 à  17:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Quorum Separation, Pere Dufay, De Chazal, Hajee Allamun, deplevitz, en partie Pigeot, Sister Marie Clemence et les environs",
+      "district": "plainewilhems",
+      "from": "2026-02-19T05:00:00.000Z",
+      "to": "2026-02-19T13:00:00.000Z",
+      "id": "4edd1780d93617ff96e3d39a90b388c5"
     },
     {
       "date": "Le jeudi 19 février 2026 de  10:00:00 à  13:00:00",

@@ -2,11 +2,18 @@
   "slug": "rose-hill",
   "name": "ROSE-HILL",
   "district": "plainewilhems",
-  "generated": "2026-02-18T11:13:02.576Z",
-  "outageCount": 139,
+  "generated": "2026-02-18T12:06:19.079Z",
+  "outageCount": 140,
   "firstOutage": "2022-05-20",
-  "lastOutage": "2026-02-12",
+  "lastOutage": "2026-02-19",
   "outages": [
+    {
+      "date": "Le jeudi 19 février 2026 de  09:00:00 à  17:00:00",
+      "streets": "Quorum Separation, Pere Dufay, De Chazal, Hajee Allamun, deplevitz, en partie Pigeot, Sister Marie Clemence et les environs",
+      "from": "2026-02-19T05:00:00.000Z",
+      "to": "2026-02-19T13:00:00.000Z",
+      "id": "4edd1780d93617ff96e3d39a90b388c5"
+    },
     {
       "date": "Le jeudi 12 février 2026 de  09:00:00 à  17:00:00",
       "streets": "Ratsitatane, Fareed Muttur, en partie Prince Charles, Ave La Reine, Mere Theresa et les environs",
