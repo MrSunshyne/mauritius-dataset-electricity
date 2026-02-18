@@ -1,8 +1,8 @@
 {
   "date": "2026-02-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-18T08:08:47.073Z",
-  "outageCount": 1,
+  "generated": "2026-02-18T09:12:47.079Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le jeudi 19 février 2026 de  08:45:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-02-19T04:45:00.000Z",
       "to": "2026-02-19T13:00:00.000Z",
       "id": "bfe808883aca0018de211dbf044babdb"
+    },
+    {
+      "date": "Le jeudi 19 février 2026 de  10:00:00 à  13:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "DANS LES ENVIRONS DES RUES GORAH ISSAC, DIEGO GARCIA, TRICHNAPOLY, RAJPAUL, HASSEN SAKIR, PAUL ET VIRGINIE ET LA ROUTE MILITAIRE",
+      "district": "portlouis",
+      "from": "2026-02-19T06:00:00.000Z",
+      "to": "2026-02-19T09:00:00.000Z",
+      "id": "ffcdb64213570883413b5ddf68ff9b58"
     }
   ]
 }

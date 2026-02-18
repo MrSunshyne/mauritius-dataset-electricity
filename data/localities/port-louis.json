@@ -2,11 +2,18 @@
   "slug": "port-louis",
   "name": "PORT-LOUIS",
   "district": "portlouis",
-  "generated": "2026-02-18T08:08:47.353Z",
-  "outageCount": 106,
+  "generated": "2026-02-18T09:12:47.356Z",
+  "outageCount": 107,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-02-18",
+  "lastOutage": "2026-02-19",
   "outages": [
+    {
+      "date": "Le jeudi 19 février 2026 de  10:00:00 à  13:00:00",
+      "streets": "DANS LES ENVIRONS DES RUES GORAH ISSAC, DIEGO GARCIA, TRICHNAPOLY, RAJPAUL, HASSEN SAKIR, PAUL ET VIRGINIE ET LA ROUTE MILITAIRE",
+      "from": "2026-02-19T06:00:00.000Z",
+      "to": "2026-02-19T09:00:00.000Z",
+      "id": "ffcdb64213570883413b5ddf68ff9b58"
+    },
     {
       "date": "Le mercredi 18 février 2026 de  15:00:00 à  18:00:00",
       "streets": "DANS LES ENVIRONS DES RUES GORAH ISSAC, DIEGO GARCIA, TRICHNAPOLY, RAJPAUL, HASSEN SAKIR, PAUL ET VIRGINIE ET LA ROUTE MILITAIRE",
