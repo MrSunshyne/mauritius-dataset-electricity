@@ -2,11 +2,18 @@
   "slug": "providence-quartier-militaire",
   "name": "PROVIDENCE QUARTIER MILITAIRE",
   "district": "moka",
-  "generated": "2026-02-18T10:12:36.608Z",
-  "outageCount": 12,
+  "generated": "2026-02-18T11:13:02.543Z",
+  "outageCount": 13,
   "firstOutage": "2022-09-18",
-  "lastOutage": "2025-12-02",
+  "lastOutage": "2026-02-18",
   "outages": [
+    {
+      "date": "Le mercredi 18 février 2026 de  13:00:00 à  15:30:00",
+      "streets": "ROUTE 16",
+      "from": "2026-02-18T09:00:00.000Z",
+      "to": "2026-02-18T11:30:00.000Z",
+      "id": "c27261c98255f223d3cc3588cfac51cf"
+    },
     {
       "date": "Le mardi 2 décembre 2025 de  08:30:00 à  16:00:00",
       "streets": "Tamil Temple Road, Leon Road, Swami Sivananda Road, Shivala Road, Bombay Road et Morc Providence No. 3",
