@@ -2,8 +2,8 @@
   "slug": "roche-terre",
   "name": "ROCHE TERRE",
   "district": "rivieredurempart",
-  "generated": "2026-02-19T16:13:52.473Z",
-  "outageCount": 33,
+  "generated": "2026-02-19T17:16:58.083Z",
+  "outageCount": 34,
   "firstOutage": "2022-05-30",
   "lastOutage": "2026-02-21",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-02-21T04:30:00.000Z",
       "to": "2026-02-21T11:30:00.000Z",
       "id": "cbe66e8e393ca0abf6b28032d7b88007"
+    },
+    {
+      "date": "Le jeudi 19 février 2026 de  18:00:00 à  22:00:00",
+      "streets": "LATOUR ROAD ROCHETERRE",
+      "from": "2026-02-19T14:00:00.000Z",
+      "to": "2026-02-19T18:00:00.000Z",
+      "id": "cfaff31e510c71873f08f12dfcc944f2"
     },
     {
       "date": "Le mercredi 28 janvier 2026 de  08:30:00 à  15:30:00",

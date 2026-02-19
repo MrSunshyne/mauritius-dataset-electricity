@@ -1,8 +1,8 @@
 {
   "date": "2026-02-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-19T16:13:52.162Z",
-  "outageCount": 21,
+  "generated": "2026-02-19T17:16:57.776Z",
+  "outageCount": 22,
   "outages": [
     {
       "date": "Le jeudi 19 février 2026 de  10:00:00 à  16:30:00",
@@ -213,6 +213,16 @@
       "from": "2026-02-19T13:20:00.000Z",
       "to": "2026-02-19T14:00:00.000Z",
       "id": "cbc8e98795c759b452d7c0257775b72b"
+    },
+    {
+      "date": "Le jeudi 19 février 2026 de  18:00:00 à  22:00:00",
+      "locality": "ROCHE TERRE",
+      "localitySlug": "roche-terre",
+      "streets": "LATOUR ROAD ROCHETERRE",
+      "district": "rivieredurempart",
+      "from": "2026-02-19T14:00:00.000Z",
+      "to": "2026-02-19T18:00:00.000Z",
+      "id": "cfaff31e510c71873f08f12dfcc944f2"
     }
   ]
 }
