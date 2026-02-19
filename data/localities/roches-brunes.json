@@ -2,11 +2,18 @@
   "slug": "roches-brunes",
   "name": "ROCHES BRUNES",
   "district": "plainewilhems",
-  "generated": "2026-02-19T12:07:02.685Z",
-  "outageCount": 24,
+  "generated": "2026-02-19T13:27:14.381Z",
+  "outageCount": 25,
   "firstOutage": "2022-10-01",
-  "lastOutage": "2026-02-02",
+  "lastOutage": "2026-02-19",
   "outages": [
+    {
+      "date": "Le jeudi 19 février 2026 de  16:40:00 à  17:30:00",
+      "streets": "ROCHES BRUNES ,PLAISANCE,RTE HUGNIN,EN PARTIE BEAU BASSIN",
+      "from": "2026-02-19T12:40:00.000Z",
+      "to": "2026-02-19T13:30:00.000Z",
+      "id": "699069ba8e3d9b49ee61b76b6902484e"
+    },
     {
       "date": "Le lundi 2 février 2026 de  15:15:00 à  16:30:00",
       "streets": "CHEMIN MAX ROHAN, CHEMIN DE ROSNAY ET LES ENVIRONS.",

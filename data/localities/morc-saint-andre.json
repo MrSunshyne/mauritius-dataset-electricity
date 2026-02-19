@@ -2,11 +2,18 @@
   "slug": "morc-saint-andre",
   "name": "MORC SAINT ANDRE",
   "district": "pamplemousses",
-  "generated": "2026-02-19T12:07:02.603Z",
-  "outageCount": 40,
+  "generated": "2026-02-19T13:27:14.301Z",
+  "outageCount": 41,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-01-30",
+  "lastOutage": "2026-02-19",
   "outages": [
+    {
+      "date": "Le jeudi 19 février 2026 de  15:30:00 à  19:00:00",
+      "streets": "HAMLET ROAD MORC ST ANDRE",
+      "from": "2026-02-19T11:30:00.000Z",
+      "to": "2026-02-19T15:00:00.000Z",
+      "id": "dfe47bc2b2883ccb37b0a34f06157eae"
+    },
     {
       "date": "Le vendredi 30 janvier 2026 de  09:00:00 à  14:00:00",
       "streets": "HAMLET ROAD MORC ST ANDRE",

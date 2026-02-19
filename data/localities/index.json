@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-19T12:07:02.747Z",
+  "generated": "2026-02-19T13:27:14.443Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -2572,10 +2572,10 @@
       "slug": "morc-saint-andre",
       "name": "MORC SAINT ANDRE",
       "district": "pamplemousses",
-      "outageCount": 40,
+      "outageCount": 41,
       "file": "morc-saint-andre.json",
       "firstOutage": "2022-04-12",
-      "lastOutage": "2026-01-30"
+      "lastOutage": "2026-02-19"
     },
     {
       "slug": "mount",
@@ -3472,10 +3472,10 @@
       "slug": "roches-brunes",
       "name": "ROCHES BRUNES",
       "district": "plainewilhems",
-      "outageCount": 24,
+      "outageCount": 25,
       "file": "roches-brunes.json",
       "firstOutage": "2022-10-01",
-      "lastOutage": "2026-02-02"
+      "lastOutage": "2026-02-19"
     },
     {
       "slug": "roches-noires",
@@ -3634,7 +3634,7 @@
       "slug": "sainte-croix",
       "name": "SAINTE CROIX",
       "district": "portlouis",
-      "outageCount": 71,
+      "outageCount": 72,
       "file": "sainte-croix.json",
       "firstOutage": "2022-04-26",
       "lastOutage": "2026-02-21"

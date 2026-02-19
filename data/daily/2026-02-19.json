@@ -1,8 +1,8 @@
 {
   "date": "2026-02-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-19T12:07:02.366Z",
-  "outageCount": 16,
+  "generated": "2026-02-19T13:27:14.065Z",
+  "outageCount": 19,
   "outages": [
     {
       "date": "Le jeudi 19 février 2026 de  10:00:00 à  16:30:00",
@@ -25,14 +25,14 @@
       "id": "bfe808883aca0018de211dbf044babdb"
     },
     {
-      "date": "Le jeudi 19 février 2026 de  16:00:00 à  17:00:00",
+      "date": "Le jeudi 19 février 2026 de  16:00:00 à  17:30:00",
       "locality": "BEL AIR",
       "localitySlug": "bel-air",
-      "streets": "BEL Air,dans le perimetre de Route Royale pres de LEglise St Esprit, Camp La Serpe, Ave Joseph Victoire, Chemin Boulanger et Winners.",
+      "streets": "BEL Air,dans le perimetre de Route Royale pres de LEglise St Esprit, Camp La Serpe, Ave Joseph Victoire, Chemin Boulanger et Winners.Petit Chemin",
       "district": "flacq",
       "from": "2026-02-19T12:00:00.000Z",
-      "to": "2026-02-19T13:00:00.000Z",
-      "id": "d720176ed7c9798b38d532b02c9f1a2b"
+      "to": "2026-02-19T13:30:00.000Z",
+      "id": "ae6e6e8534417999252fee3b606421bd"
     },
     {
       "date": "Le jeudi 19 février 2026 de  15:00:00 à  16:00:00",
@@ -95,6 +95,16 @@
       "id": "7ab3de34aa2f249f39f5516f535625e9"
     },
     {
+      "date": "Le jeudi 19 février 2026 de  15:30:00 à  19:00:00",
+      "locality": "MORC SAINT ANDRE",
+      "localitySlug": "morc-saint-andre",
+      "streets": "HAMLET ROAD MORC ST ANDRE",
+      "district": "pamplemousses",
+      "from": "2026-02-19T11:30:00.000Z",
+      "to": "2026-02-19T15:00:00.000Z",
+      "id": "dfe47bc2b2883ccb37b0a34f06157eae"
+    },
+    {
       "date": "Le jeudi 19 février 2026 de  09:00:00 à  17:00:00",
       "locality": "ROSE-HILL",
       "localitySlug": "rose-hill",
@@ -123,6 +133,16 @@
       "from": "2026-02-19T11:20:00.000Z",
       "to": "2026-02-19T12:20:00.000Z",
       "id": "22a79337d78430897b327d5b52be6530"
+    },
+    {
+      "date": "Le jeudi 19 février 2026 de  16:40:00 à  17:30:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "ROCHES BRUNES ,PLAISANCE,RTE HUGNIN,EN PARTIE BEAU BASSIN",
+      "district": "plainewilhems",
+      "from": "2026-02-19T12:40:00.000Z",
+      "to": "2026-02-19T13:30:00.000Z",
+      "id": "699069ba8e3d9b49ee61b76b6902484e"
     },
     {
       "date": "Le jeudi 19 février 2026 de  10:00:00 à  13:00:00",
@@ -163,6 +183,16 @@
       "from": "2026-02-19T11:50:00.000Z",
       "to": "2026-02-19T13:00:00.000Z",
       "id": "75b97d24558619c18d2fb55086076609"
+    },
+    {
+      "date": "Le jeudi 19 février 2026 de  17:20:00 à  18:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "CANAL BATHURST AND SURROUNDINGS",
+      "district": "portlouis",
+      "from": "2026-02-19T13:20:00.000Z",
+      "to": "2026-02-19T14:00:00.000Z",
+      "id": "cbc8e98795c759b452d7c0257775b72b"
     }
   ]
 }

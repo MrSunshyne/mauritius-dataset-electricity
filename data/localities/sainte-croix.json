@@ -2,8 +2,8 @@
   "slug": "sainte-croix",
   "name": "SAINTE CROIX",
   "district": "portlouis",
-  "generated": "2026-02-19T12:07:02.701Z",
-  "outageCount": 71,
+  "generated": "2026-02-19T13:27:14.398Z",
+  "outageCount": 72,
   "firstOutage": "2022-04-26",
   "lastOutage": "2026-02-21",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-02-21T04:30:00.000Z",
       "to": "2026-02-21T11:30:00.000Z",
       "id": "0a04c086e8761408640c22caa97dcfe9"
+    },
+    {
+      "date": "Le jeudi 19 février 2026 de  17:20:00 à  18:00:00",
+      "streets": "CANAL BATHURST AND SURROUNDINGS",
+      "from": "2026-02-19T13:20:00.000Z",
+      "to": "2026-02-19T14:00:00.000Z",
+      "id": "cbc8e98795c759b452d7c0257775b72b"
     },
     {
       "date": "Le samedi 7 février 2026 de  08:30:00 à  14:00:00",
