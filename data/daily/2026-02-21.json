@@ -1,9 +1,19 @@
 {
   "date": "2026-02-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-19T10:12:13.919Z",
-  "outageCount": 6,
+  "generated": "2026-02-19T11:13:12.366Z",
+  "outageCount": 7,
   "outages": [
+    {
+      "date": "Le samedi 21 février 2026 de  08:30:00 à  15:30:00",
+      "locality": "PETIT VERGER SAINT PIERRE",
+      "localitySlug": "petit-verger-saint-pierre",
+      "streets": "PETIT VERGER BRANCH RD, NICHOLAS RD,HAPPINESS RD, MADHOO LANE, CAPRICE LANE, GENTILLY BRANCH RD, MORC RAMNARAIN ET LES ENVIRONS",
+      "district": "moka",
+      "from": "2026-02-21T04:30:00.000Z",
+      "to": "2026-02-21T11:30:00.000Z",
+      "id": "f05cc1588f9645cd239c4cda759af38b"
+    },
     {
       "date": "Le samedi 21 février 2026 de  09:00:00 à  15:00:00",
       "locality": "QUATRE-BORNES",

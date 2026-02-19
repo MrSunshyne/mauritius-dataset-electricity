@@ -1,8 +1,8 @@
 {
   "date": "2026-02-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-19T10:12:13.919Z",
-  "outageCount": 11,
+  "generated": "2026-02-19T11:13:12.366Z",
+  "outageCount": 14,
   "outages": [
     {
       "date": "Le jeudi 19 février 2026 de  10:00:00 à  15:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-02-19T12:00:00.000Z",
       "to": "2026-02-19T13:00:00.000Z",
       "id": "d720176ed7c9798b38d532b02c9f1a2b"
+    },
+    {
+      "date": "Le jeudi 19 février 2026 de  15:00:00 à  16:00:00",
+      "locality": "OLIVIA",
+      "localitySlug": "olivia",
+      "streets": "PART OF OLIVIA",
+      "district": "flacq",
+      "from": "2026-02-19T11:00:00.000Z",
+      "to": "2026-02-19T12:00:00.000Z",
+      "id": "429c43f5c367fd7b587400ee1f250875"
     },
     {
       "date": "Le jeudi 19 février 2026 de  10:00:00 à  13:00:00",
@@ -95,6 +105,16 @@
       "id": "4edd1780d93617ff96e3d39a90b388c5"
     },
     {
+      "date": "Le jeudi 19 février 2026 de  15:00:00 à  17:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "Edouard Rouillard, Pierre Simonet, Ramguty Lane, Pelican Lane et ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2026-02-19T11:00:00.000Z",
+      "to": "2026-02-19T13:00:00.000Z",
+      "id": "c11673b9c07ad26f8ac146912017df2a"
+    },
+    {
       "date": "Le jeudi 19 février 2026 de  10:00:00 à  13:00:00",
       "locality": "PORT-LOUIS",
       "localitySlug": "port-louis",
@@ -113,6 +133,16 @@
       "from": "2026-02-19T09:30:00.000Z",
       "to": "2026-02-19T11:30:00.000Z",
       "id": "dabed9274432cf7ba26a78538737f6c5"
+    },
+    {
+      "date": "Le jeudi 19 février 2026 de  14:20:00 à  15:30:00",
+      "locality": "CASSIS",
+      "localitySlug": "cassis",
+      "streets": "MENAGERIE RD AND SURROUNDINGS",
+      "district": "portlouis",
+      "from": "2026-02-19T10:20:00.000Z",
+      "to": "2026-02-19T11:30:00.000Z",
+      "id": "e20b64f0aeeb19c7644bec66a168e92d"
     }
   ]
 }

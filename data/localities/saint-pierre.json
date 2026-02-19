@@ -2,11 +2,18 @@
   "slug": "saint-pierre",
   "name": "SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-02-19T10:12:14.260Z",
-  "outageCount": 57,
+  "generated": "2026-02-19T11:13:12.693Z",
+  "outageCount": 58,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-02-11",
+  "lastOutage": "2026-02-22",
   "outages": [
+    {
+      "date": "Le dimanche 22 février 2026 de  08:30:00 à  15:30:00",
+      "streets": "LÁGREMENT ET CIRCONSTANCE ST PIERRE - MDA ESTATE, CEMETRY RD,NHDC VINYOL, ST CATHERINE RESIDENCE, TEMPLE LANE, CHEMIN LA MARE,MORC DEMARAIS, SHIVALA RD",
+      "from": "2026-02-22T04:30:00.000Z",
+      "to": "2026-02-22T11:30:00.000Z",
+      "id": "3448c3731cc7b5313658f352907df16f"
+    },
     {
       "date": "Le mercredi 11 février 2026 de  14:45:00 à  16:15:00",
       "streets": "CHEMIN MONT FLEURI, CHEMIN BADAL ET LES ALENTOURS.",

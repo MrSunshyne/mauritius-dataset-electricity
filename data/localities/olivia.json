@@ -2,11 +2,18 @@
   "slug": "olivia",
   "name": "OLIVIA",
   "district": "flacq",
-  "generated": "2026-02-19T10:12:14.168Z",
-  "outageCount": 19,
+  "generated": "2026-02-19T11:13:12.606Z",
+  "outageCount": 20,
   "firstOutage": "2023-06-17",
-  "lastOutage": "2025-11-18",
+  "lastOutage": "2026-02-19",
   "outages": [
+    {
+      "date": "Le jeudi 19 février 2026 de  15:00:00 à  16:00:00",
+      "streets": "PART OF OLIVIA",
+      "from": "2026-02-19T11:00:00.000Z",
+      "to": "2026-02-19T12:00:00.000Z",
+      "id": "429c43f5c367fd7b587400ee1f250875"
+    },
     {
       "date": "Le mardi 18 novembre 2025 de  09:00:00 à  10:30:00",
       "streets": "PART OF OLIVIA",

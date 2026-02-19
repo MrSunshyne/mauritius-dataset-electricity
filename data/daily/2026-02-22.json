@@ -1,8 +1,8 @@
 {
   "date": "2026-02-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-19T10:12:13.919Z",
-  "outageCount": 2,
+  "generated": "2026-02-19T11:13:12.366Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le dimanche 22 février 2026 de  08:30:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-02-22T04:30:00.000Z",
       "to": "2026-02-22T13:00:00.000Z",
       "id": "1c96fe7b3661da1b0ee6ccfd985e6259"
+    },
+    {
+      "date": "Le dimanche 22 février 2026 de  08:30:00 à  15:30:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "LÁGREMENT ET CIRCONSTANCE ST PIERRE - MDA ESTATE, CEMETRY RD,NHDC VINYOL, ST CATHERINE RESIDENCE, TEMPLE LANE, CHEMIN LA MARE,MORC DEMARAIS, SHIVALA RD",
+      "district": "moka",
+      "from": "2026-02-22T04:30:00.000Z",
+      "to": "2026-02-22T11:30:00.000Z",
+      "id": "3448c3731cc7b5313658f352907df16f"
     },
     {
       "date": "Le dimanche 22 février 2026 de  08:30:00 à  14:30:00",

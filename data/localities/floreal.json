@@ -2,11 +2,18 @@
   "slug": "floreal",
   "name": "FLOREAL",
   "district": "plainewilhems",
-  "generated": "2026-02-19T10:12:14.067Z",
-  "outageCount": 80,
+  "generated": "2026-02-19T11:13:12.510Z",
+  "outageCount": 81,
   "firstOutage": "2022-03-31",
-  "lastOutage": "2026-02-16",
+  "lastOutage": "2026-02-19",
   "outages": [
+    {
+      "date": "Le jeudi 19 février 2026 de  15:00:00 à  17:00:00",
+      "streets": "Edouard Rouillard, Pierre Simonet, Ramguty Lane, Pelican Lane et ruelles avoisinantes",
+      "from": "2026-02-19T11:00:00.000Z",
+      "to": "2026-02-19T13:00:00.000Z",
+      "id": "c11673b9c07ad26f8ac146912017df2a"
+    },
     {
       "date": "Le lundi 16 février 2026 de  22:00:00 à  23:00:00",
       "streets": "FLOREAL RD-HANUMANJEE RD FLOREAL",
