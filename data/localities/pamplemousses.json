@@ -2,11 +2,18 @@
   "slug": "pamplemousses",
   "name": "PAMPLEMOUSSES",
   "district": "pamplemousses",
-  "generated": "2026-02-19T09:12:24.166Z",
-  "outageCount": 55,
+  "generated": "2026-02-19T10:12:14.174Z",
+  "outageCount": 56,
   "firstOutage": "2022-05-08",
-  "lastOutage": "2026-01-13",
+  "lastOutage": "2026-02-19",
   "outages": [
+    {
+      "date": "Le jeudi 19 février 2026 de  14:00:00 à  15:30:00",
+      "streets": "PAMPLEMOUSSES, CALEBASS, BEAU PLAN, SSS, HAMSTEAD AND SURROUNDINGS",
+      "from": "2026-02-19T10:00:00.000Z",
+      "to": "2026-02-19T11:30:00.000Z",
+      "id": "7ab3de34aa2f249f39f5516f535625e9"
+    },
     {
       "date": "Le mardi 13 janvier 2026 de  20:55:00 à  22:55:00",
       "streets": "ROYAL RD(NEAR BOTANICAL GARDEN AND EMPIRE BOOKSHOP",

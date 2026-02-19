@@ -2,8 +2,8 @@
   "slug": "vallee-des-pretres",
   "name": "VALLEE DES PRETRES",
   "district": "portlouis",
-  "generated": "2026-02-19T09:12:24.290Z",
-  "outageCount": 71,
+  "generated": "2026-02-19T10:12:14.297Z",
+  "outageCount": 72,
   "firstOutage": "2022-03-27",
   "lastOutage": "2026-02-21",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-02-21T04:30:00.000Z",
       "to": "2026-02-21T11:30:00.000Z",
       "id": "85539a258ff610dfd454376539ed5b70"
+    },
+    {
+      "date": "Le jeudi 19 février 2026 de  13:30:00 à  15:30:00",
+      "streets": "CAROLINE",
+      "from": "2026-02-19T09:30:00.000Z",
+      "to": "2026-02-19T11:30:00.000Z",
+      "id": "dabed9274432cf7ba26a78538737f6c5"
     },
     {
       "date": "Le samedi 7 février 2026 de  12:00:00 à  14:00:00",

@@ -1,8 +1,8 @@
 {
   "date": "2026-02-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-19T09:12:23.905Z",
-  "outageCount": 9,
+  "generated": "2026-02-19T10:12:13.919Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le jeudi 19 février 2026 de  10:00:00 à  15:00:00",
@@ -75,6 +75,16 @@
       "id": "249269083426b75ecf0961dfd7df113c"
     },
     {
+      "date": "Le jeudi 19 février 2026 de  14:00:00 à  15:30:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "PAMPLEMOUSSES, CALEBASS, BEAU PLAN, SSS, HAMSTEAD AND SURROUNDINGS",
+      "district": "pamplemousses",
+      "from": "2026-02-19T10:00:00.000Z",
+      "to": "2026-02-19T11:30:00.000Z",
+      "id": "7ab3de34aa2f249f39f5516f535625e9"
+    },
+    {
       "date": "Le jeudi 19 février 2026 de  09:00:00 à  17:00:00",
       "locality": "ROSE-HILL",
       "localitySlug": "rose-hill",
@@ -93,6 +103,16 @@
       "from": "2026-02-19T06:00:00.000Z",
       "to": "2026-02-19T09:00:00.000Z",
       "id": "ffcdb64213570883413b5ddf68ff9b58"
+    },
+    {
+      "date": "Le jeudi 19 février 2026 de  13:30:00 à  15:30:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "CAROLINE",
+      "district": "portlouis",
+      "from": "2026-02-19T09:30:00.000Z",
+      "to": "2026-02-19T11:30:00.000Z",
+      "id": "dabed9274432cf7ba26a78538737f6c5"
     }
   ]
 }
