@@ -2,11 +2,18 @@
   "slug": "poste-de-flacq",
   "name": "POSTE DE FLACQ",
   "district": "flacq",
-  "generated": "2026-02-19T06:17:57.248Z",
-  "outageCount": 35,
+  "generated": "2026-02-19T07:19:07.266Z",
+  "outageCount": 36,
   "firstOutage": "2022-06-12",
-  "lastOutage": "2026-02-06",
+  "lastOutage": "2026-02-22",
   "outages": [
+    {
+      "date": "Le dimanche 22 février 2026 de  08:30:00 à  17:00:00",
+      "streets": "Poste De Flacq, Nehru Nagar et Argy, dans le périmètre de Route Royal, Chemin Jardin, Montagne Chat Road, Camp Poorun Road, Cremation Road, Kashinath Road et dans les environs de Camp Raffia.",
+      "from": "2026-02-22T04:30:00.000Z",
+      "to": "2026-02-22T13:00:00.000Z",
+      "id": "1c96fe7b3661da1b0ee6ccfd985e6259"
+    },
     {
       "date": "Le vendredi 6 février 2026 de  09:00:00 à  12:00:00",
       "streets": "KASINATH ROAD POSTE DE FLAC",

@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-02-19T06:17:57.322Z",
-  "outageCount": 112,
+  "generated": "2026-02-19T07:19:07.346Z",
+  "outageCount": 113,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-02-16",
+  "lastOutage": "2026-02-19",
   "outages": [
+    {
+      "date": "Le jeudi 19 février 2026 de  09:30:00 à  15:30:00",
+      "streets": "Dispensary road",
+      "from": "2026-02-19T05:30:00.000Z",
+      "to": "2026-02-19T11:30:00.000Z",
+      "id": "ef35b6e3834a345830b5f2bbaac2cdd6"
+    },
     {
       "date": "Le lundi 16 février 2026 de  03:00:00 à  07:00:00",
       "streets": "ROYAL ROAD 9EME TRIOLET NR TARIQ SNACK/TERMINUS",

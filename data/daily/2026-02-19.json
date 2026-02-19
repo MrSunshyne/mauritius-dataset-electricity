@@ -1,8 +1,8 @@
 {
   "date": "2026-02-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-19T06:17:56.954Z",
-  "outageCount": 7,
+  "generated": "2026-02-19T07:19:06.968Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le jeudi 19 février 2026 de  10:00:00 à  15:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-02-19T09:00:00.000Z",
       "to": "2026-02-19T10:00:00.000Z",
       "id": "b778439b980b04b0ee209746068ad991"
+    },
+    {
+      "date": "Le jeudi 19 février 2026 de  09:30:00 à  15:30:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "Dispensary road",
+      "district": "pamplemousses",
+      "from": "2026-02-19T05:30:00.000Z",
+      "to": "2026-02-19T11:30:00.000Z",
+      "id": "ef35b6e3834a345830b5f2bbaac2cdd6"
     },
     {
       "date": "Le jeudi 19 février 2026 de  09:00:00 à  17:00:00",
