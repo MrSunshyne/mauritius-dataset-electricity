@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-19T11:13:12.740Z",
+  "generated": "2026-02-19T12:07:02.747Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -2869,10 +2869,10 @@
       "slug": "phoenix",
       "name": "PHOENIX",
       "district": "plainewilhems",
-      "outageCount": 92,
+      "outageCount": 93,
       "file": "phoenix.json",
       "firstOutage": "2022-03-20",
-      "lastOutage": "2025-11-05"
+      "lastOutage": "2026-02-19"
     },
     {
       "slug": "pierrefonds",
@@ -4021,7 +4021,7 @@
       "slug": "vallee-des-pretres",
       "name": "VALLEE DES PRETRES",
       "district": "portlouis",
-      "outageCount": 72,
+      "outageCount": 73,
       "file": "vallee-des-pretres.json",
       "firstOutage": "2022-03-27",
       "lastOutage": "2026-02-21"

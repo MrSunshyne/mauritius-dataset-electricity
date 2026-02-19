@@ -1,18 +1,18 @@
 {
   "date": "2026-02-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-19T11:13:12.366Z",
-  "outageCount": 14,
+  "generated": "2026-02-19T12:07:02.366Z",
+  "outageCount": 16,
   "outages": [
     {
-      "date": "Le jeudi 19 février 2026 de  10:00:00 à  15:00:00",
+      "date": "Le jeudi 19 février 2026 de  10:00:00 à  16:30:00",
       "locality": "FLIC-EN-FLAC",
       "localitySlug": "flic-en-flac",
       "streets": "AVE MERL-AVE PERRUCHE-AVE PAILLE EN QUEUE FLIC EN FLAC",
       "district": "blackriver",
       "from": "2026-02-19T06:00:00.000Z",
-      "to": "2026-02-19T11:00:00.000Z",
-      "id": "76a46ed89ebc7ec4595db271ace83dad"
+      "to": "2026-02-19T12:30:00.000Z",
+      "id": "5751bf6884abf19edb43381f214b8d99"
     },
     {
       "date": "Le jeudi 19 février 2026 de  08:45:00 à  17:00:00",
@@ -115,6 +115,16 @@
       "id": "c11673b9c07ad26f8ac146912017df2a"
     },
     {
+      "date": "Le jeudi 19 février 2026 de  15:20:00 à  16:20:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "ROYAL ROAD NEAR MOSQUE",
+      "district": "plainewilhems",
+      "from": "2026-02-19T11:20:00.000Z",
+      "to": "2026-02-19T12:20:00.000Z",
+      "id": "22a79337d78430897b327d5b52be6530"
+    },
+    {
       "date": "Le jeudi 19 février 2026 de  10:00:00 à  13:00:00",
       "locality": "PORT-LOUIS",
       "localitySlug": "port-louis",
@@ -143,6 +153,16 @@
       "from": "2026-02-19T10:20:00.000Z",
       "to": "2026-02-19T11:30:00.000Z",
       "id": "e20b64f0aeeb19c7644bec66a168e92d"
+    },
+    {
+      "date": "Le jeudi 19 février 2026 de  15:50:00 à  17:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "CARREAU LALO, ROYAL ROAD AND SURROUNDINGS",
+      "district": "portlouis",
+      "from": "2026-02-19T11:50:00.000Z",
+      "to": "2026-02-19T13:00:00.000Z",
+      "id": "75b97d24558619c18d2fb55086076609"
     }
   ]
 }
