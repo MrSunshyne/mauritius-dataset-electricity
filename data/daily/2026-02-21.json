@@ -1,8 +1,8 @@
 {
   "date": "2026-02-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-18T18:10:24.572Z",
-  "outageCount": 2,
+  "generated": "2026-02-19T06:17:56.954Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le samedi 21 février 2026 de  08:30:00 à  15:30:00",
@@ -23,6 +23,36 @@
       "from": "2026-02-21T04:30:00.000Z",
       "to": "2026-02-21T11:30:00.000Z",
       "id": "85539a258ff610dfd454376539ed5b70"
+    },
+    {
+      "date": "Le samedi 21 février 2026 de  08:30:00 à  15:30:00",
+      "locality": "MELVIILE",
+      "localitySlug": "melviile",
+      "streets": "ENTIERE REGION DE MELVILLE",
+      "district": "rivieredurempart",
+      "from": "2026-02-21T04:30:00.000Z",
+      "to": "2026-02-21T11:30:00.000Z",
+      "id": "c0b2853b45073884f92c776612a9a519"
+    },
+    {
+      "date": "Le samedi 21 février 2026 de  08:30:00 à  15:30:00",
+      "locality": "ROCHE TERRE",
+      "localitySlug": "roche-terre",
+      "streets": "BATOOLALL ROAD, LA TOUR ROAD ET SHIVALA ROAD, ROCHE TERRE",
+      "district": "rivieredurempart",
+      "from": "2026-02-21T04:30:00.000Z",
+      "to": "2026-02-21T11:30:00.000Z",
+      "id": "cbe66e8e393ca0abf6b28032d7b88007"
+    },
+    {
+      "date": "Le samedi 21 février 2026 de  08:30:00 à  15:30:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "ENTIERE REGION DE GRAND GAUBE",
+      "district": "rivieredurempart",
+      "from": "2026-02-21T04:30:00.000Z",
+      "to": "2026-02-21T11:30:00.000Z",
+      "id": "cd40c125e635f5b063c08c5af03e092e"
     }
   ]
 }

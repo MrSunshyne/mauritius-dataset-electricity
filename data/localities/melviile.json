@@ -2,11 +2,18 @@
   "slug": "melviile",
   "name": "MELVIILE",
   "district": "rivieredurempart",
-  "generated": "2026-02-18T18:10:24.787Z",
-  "outageCount": 11,
+  "generated": "2026-02-19T06:17:57.175Z",
+  "outageCount": 12,
   "firstOutage": "2022-08-26",
-  "lastOutage": "2025-12-29",
+  "lastOutage": "2026-02-21",
   "outages": [
+    {
+      "date": "Le samedi 21 février 2026 de  08:30:00 à  15:30:00",
+      "streets": "ENTIERE REGION DE MELVILLE",
+      "from": "2026-02-21T04:30:00.000Z",
+      "to": "2026-02-21T11:30:00.000Z",
+      "id": "c0b2853b45073884f92c776612a9a519"
+    },
     {
       "date": "Le lundi 29 décembre 2025 de  11:00:00 à  17:00:00",
       "streets": "LES ABONNES DE MELVILLE GRAND GAUBE DANS LES ALENTOURS VILLA OCEAN PRES LA PLAGE.",

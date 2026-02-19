@@ -1,9 +1,19 @@
 {
   "date": "2026-02-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-18T18:10:24.572Z",
-  "outageCount": 4,
+  "generated": "2026-02-19T06:17:56.954Z",
+  "outageCount": 7,
   "outages": [
+    {
+      "date": "Le jeudi 19 février 2026 de  10:00:00 à  15:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "AVE MERL-AVE PERRUCHE-AVE PAILLE EN QUEUE FLIC EN FLAC",
+      "district": "blackriver",
+      "from": "2026-02-19T06:00:00.000Z",
+      "to": "2026-02-19T11:00:00.000Z",
+      "id": "76a46ed89ebc7ec4595db271ace83dad"
+    },
     {
       "date": "Le jeudi 19 février 2026 de  08:45:00 à  17:00:00",
       "locality": "BEL AIR",
@@ -23,6 +33,26 @@
       "from": "2026-02-19T12:00:00.000Z",
       "to": "2026-02-19T13:00:00.000Z",
       "id": "d720176ed7c9798b38d532b02c9f1a2b"
+    },
+    {
+      "date": "Le jeudi 19 février 2026 de  10:00:00 à  13:00:00",
+      "locality": "GROS BOIS",
+      "localitySlug": "gros-bois",
+      "streets": "GROS BOIS VERGER BLK A",
+      "district": "grandport",
+      "from": "2026-02-19T06:00:00.000Z",
+      "to": "2026-02-19T09:00:00.000Z",
+      "id": "3364bec52b2be46b55ecf17736f90df8"
+    },
+    {
+      "date": "Le jeudi 19 février 2026 de  13:00:00 à  14:00:00",
+      "locality": "DAGOTIERE",
+      "localitySlug": "dagotiere",
+      "streets": "Village L’Assurance, Lower Dagotiere et une partie Valetta",
+      "district": "moka",
+      "from": "2026-02-19T09:00:00.000Z",
+      "to": "2026-02-19T10:00:00.000Z",
+      "id": "b778439b980b04b0ee209746068ad991"
     },
     {
       "date": "Le jeudi 19 février 2026 de  09:00:00 à  17:00:00",

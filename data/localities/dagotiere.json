@@ -2,11 +2,18 @@
   "slug": "dagotiere",
   "name": "DAGOTIERE",
   "district": "moka",
-  "generated": "2026-02-18T18:10:24.700Z",
-  "outageCount": 22,
+  "generated": "2026-02-19T06:17:57.085Z",
+  "outageCount": 23,
   "firstOutage": "2022-04-24",
-  "lastOutage": "2025-12-23",
+  "lastOutage": "2026-02-19",
   "outages": [
+    {
+      "date": "Le jeudi 19 février 2026 de  13:00:00 à  14:00:00",
+      "streets": "Village L’Assurance, Lower Dagotiere et une partie Valetta",
+      "from": "2026-02-19T09:00:00.000Z",
+      "to": "2026-02-19T10:00:00.000Z",
+      "id": "b778439b980b04b0ee209746068ad991"
+    },
     {
       "date": "Le mardi 23 décembre 2025 de  09:00:00 à  12:00:00",
       "streets": "dans les environs de NHDC Résidences Upper Dagotière et NHDC Résidences Lavande",

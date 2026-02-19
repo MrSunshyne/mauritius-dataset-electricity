@@ -2,11 +2,18 @@
   "slug": "grand-gaube",
   "name": "GRAND GAUBE",
   "district": "rivieredurempart",
-  "generated": "2026-02-18T18:10:24.727Z",
-  "outageCount": 60,
+  "generated": "2026-02-19T06:17:57.112Z",
+  "outageCount": 61,
   "firstOutage": "2022-06-11",
-  "lastOutage": "2026-01-01",
+  "lastOutage": "2026-02-21",
   "outages": [
+    {
+      "date": "Le samedi 21 février 2026 de  08:30:00 à  15:30:00",
+      "streets": "ENTIERE REGION DE GRAND GAUBE",
+      "from": "2026-02-21T04:30:00.000Z",
+      "to": "2026-02-21T11:30:00.000Z",
+      "id": "cd40c125e635f5b063c08c5af03e092e"
+    },
     {
       "date": "Le jeudi 1 janvier 2026 de  17:00:00 à  21:30:00",
       "streets": "REGION GRAND GAUBE",
