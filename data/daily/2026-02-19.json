@@ -1,8 +1,8 @@
 {
   "date": "2026-02-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-19T07:19:06.968Z",
-  "outageCount": 8,
+  "generated": "2026-02-19T07:27:02.282Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le jeudi 19 février 2026 de  10:00:00 à  15:00:00",
@@ -63,6 +63,16 @@
       "from": "2026-02-19T05:30:00.000Z",
       "to": "2026-02-19T11:30:00.000Z",
       "id": "ef35b6e3834a345830b5f2bbaac2cdd6"
+    },
+    {
+      "date": "Le jeudi 19 février 2026 de  11:00:00 à  13:00:00",
+      "locality": "NOTRE DAME",
+      "localitySlug": "notre-dame",
+      "streets": "D09 RESIDENCE BAILLACHE -ROYAL RD NOTRE DAME",
+      "district": "pamplemousses",
+      "from": "2026-02-19T07:00:00.000Z",
+      "to": "2026-02-19T09:00:00.000Z",
+      "id": "249269083426b75ecf0961dfd7df113c"
     },
     {
       "date": "Le jeudi 19 février 2026 de  09:00:00 à  17:00:00",

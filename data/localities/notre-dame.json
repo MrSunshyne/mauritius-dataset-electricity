@@ -2,11 +2,18 @@
   "slug": "notre-dame",
   "name": "NOTRE DAME",
   "district": "pamplemousses",
-  "generated": "2026-02-19T07:19:07.220Z",
-  "outageCount": 36,
+  "generated": "2026-02-19T07:27:02.536Z",
+  "outageCount": 37,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-02-10",
+  "lastOutage": "2026-02-19",
   "outages": [
+    {
+      "date": "Le jeudi 19 février 2026 de  11:00:00 à  13:00:00",
+      "streets": "D09 RESIDENCE BAILLACHE -ROYAL RD NOTRE DAME",
+      "from": "2026-02-19T07:00:00.000Z",
+      "to": "2026-02-19T09:00:00.000Z",
+      "id": "249269083426b75ecf0961dfd7df113c"
+    },
     {
       "date": "Le mardi 10 février 2026 de  10:30:00 à  15:30:00",
       "streets": "Mosque Road",
