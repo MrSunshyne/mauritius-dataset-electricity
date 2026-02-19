@@ -1,8 +1,8 @@
 {
   "date": "2026-02-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-19T13:27:14.065Z",
-  "outageCount": 19,
+  "generated": "2026-02-19T14:16:52.576Z",
+  "outageCount": 20,
   "outages": [
     {
       "date": "Le jeudi 19 février 2026 de  10:00:00 à  16:30:00",
@@ -103,6 +103,16 @@
       "from": "2026-02-19T11:30:00.000Z",
       "to": "2026-02-19T15:00:00.000Z",
       "id": "dfe47bc2b2883ccb37b0a34f06157eae"
+    },
+    {
+      "date": "Le jeudi 19 février 2026 de  17:30:00 à  19:00:00",
+      "locality": "BALACLAVA",
+      "localitySlug": "balaclava",
+      "streets": "POINTE AUX PIMENT/JAPANESE ROAD TRIOLET/BALACLAVA",
+      "district": "pamplemousses",
+      "from": "2026-02-19T13:30:00.000Z",
+      "to": "2026-02-19T15:00:00.000Z",
+      "id": "426ea8755a7c9e81a52f76278f531ebb"
     },
     {
       "date": "Le jeudi 19 février 2026 de  09:00:00 à  17:00:00",
