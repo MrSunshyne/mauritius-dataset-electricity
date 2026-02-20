@@ -1,8 +1,8 @@
 {
   "date": "2026-02-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-20T11:08:21.951Z",
-  "outageCount": 7,
+  "generated": "2026-02-20T12:04:52.940Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le vendredi 20 février 2026 de  09:00:00 à  17:00:00",
@@ -55,6 +55,26 @@
       "id": "09f8f463e66bb88eee6fcba6dc37e051"
     },
     {
+      "date": "Le vendredi 20 février 2026 de  15:00:00 à  17:00:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "MORC ROCHE BRUNES",
+      "district": "plainewilhems",
+      "from": "2026-02-20T11:00:00.000Z",
+      "to": "2026-02-20T13:00:00.000Z",
+      "id": "b4775c7bc4ae578bb6c9f670175ee9d5"
+    },
+    {
+      "date": "Le vendredi 20 février 2026 de  15:00:00 à  18:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "CHEMIN PARISOT NEAR MOSQUE/PEEROO ROAD",
+      "district": "plainewilhems",
+      "from": "2026-02-20T11:00:00.000Z",
+      "to": "2026-02-20T14:00:00.000Z",
+      "id": "32a6569a802ff09f13f0b47a2324bf77"
+    },
+    {
       "date": "Le vendredi 20 février 2026 de  07:00:00 à  12:00:00",
       "locality": "SAINTE CROIX",
       "localitySlug": "sainte-croix",
@@ -65,14 +85,14 @@
       "id": "617e613f677669439969be16b4950129"
     },
     {
-      "date": "Le vendredi 20 février 2026 de  09:30:00 à  16:00:00",
+      "date": "Le vendredi 20 février 2026 de  09:30:00 à  18:00:00",
       "locality": "POINTE AUX CANONNIERS",
       "localitySlug": "pointe-aux-canonniers",
-      "streets": "Pointe Aux Cannoniers Area , Reservoir Road , Coastal Road , Laurier’s Road Grand Bay",
+      "streets": "Pointe Aux Cannoniers Area , Reservoir Road , Coastal Road , Laurier’s Road Grand Bay KOVIL LANE/MORC SAGITTAIRE MON CHOISY",
       "district": "rivieredurempart",
       "from": "2026-02-20T05:30:00.000Z",
-      "to": "2026-02-20T12:00:00.000Z",
-      "id": "cd46daff219c07ab83e6601c726ab89d"
+      "to": "2026-02-20T14:00:00.000Z",
+      "id": "3f47b12629fa0c58fa5b1e9c11c115a3"
     }
   ]
 }

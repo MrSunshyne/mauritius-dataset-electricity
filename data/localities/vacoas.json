@@ -2,11 +2,18 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-02-20T11:08:22.312Z",
-  "outageCount": 224,
+  "generated": "2026-02-20T12:04:53.301Z",
+  "outageCount": 225,
   "firstOutage": "2022-03-17",
   "lastOutage": "2026-02-20",
   "outages": [
+    {
+      "date": "Le vendredi 20 février 2026 de  15:00:00 à  18:00:00",
+      "streets": "CHEMIN PARISOT NEAR MOSQUE/PEEROO ROAD",
+      "from": "2026-02-20T11:00:00.000Z",
+      "to": "2026-02-20T14:00:00.000Z",
+      "id": "32a6569a802ff09f13f0b47a2324bf77"
+    },
     {
       "date": "Le vendredi 20 février 2026 de  12:20:00 à  14:30:00",
       "streets": "MOOTOO LANE/GRANUM ROAD",

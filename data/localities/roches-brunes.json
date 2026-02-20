@@ -2,11 +2,18 @@
   "slug": "roches-brunes",
   "name": "ROCHES BRUNES",
   "district": "plainewilhems",
-  "generated": "2026-02-20T11:08:22.265Z",
-  "outageCount": 25,
+  "generated": "2026-02-20T12:04:53.255Z",
+  "outageCount": 26,
   "firstOutage": "2022-10-01",
-  "lastOutage": "2026-02-19",
+  "lastOutage": "2026-02-20",
   "outages": [
+    {
+      "date": "Le vendredi 20 février 2026 de  15:00:00 à  17:00:00",
+      "streets": "MORC ROCHE BRUNES",
+      "from": "2026-02-20T11:00:00.000Z",
+      "to": "2026-02-20T13:00:00.000Z",
+      "id": "b4775c7bc4ae578bb6c9f670175ee9d5"
+    },
     {
       "date": "Le jeudi 19 février 2026 de  16:40:00 à  17:30:00",
       "streets": "ROCHES BRUNES ,PLAISANCE,RTE HUGNIN,EN PARTIE BEAU BASSIN",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-20T11:08:22.326Z",
+  "generated": "2026-02-20T12:04:53.314Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -3472,10 +3472,10 @@
       "slug": "roches-brunes",
       "name": "ROCHES BRUNES",
       "district": "plainewilhems",
-      "outageCount": 25,
+      "outageCount": 26,
       "file": "roches-brunes.json",
       "firstOutage": "2022-10-01",
-      "lastOutage": "2026-02-19"
+      "lastOutage": "2026-02-20"
     },
     {
       "slug": "roches-noires",
@@ -3994,7 +3994,7 @@
       "slug": "vacoas",
       "name": "VACOAS",
       "district": "plainewilhems",
-      "outageCount": 224,
+      "outageCount": 225,
       "file": "vacoas.json",
       "firstOutage": "2022-03-17",
       "lastOutage": "2026-02-20"
