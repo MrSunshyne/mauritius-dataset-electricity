@@ -1,8 +1,8 @@
 {
   "date": "2026-02-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-20T07:17:19.780Z",
-  "outageCount": 4,
+  "generated": "2026-02-20T08:07:54.658Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le dimanche 22 février 2026 de  08:30:00 à  17:00:00",
@@ -33,6 +33,36 @@
       "from": "2026-02-22T04:30:00.000Z",
       "to": "2026-02-22T10:30:00.000Z",
       "id": "2b5c20ee6ba0b16778ed89516a21e630"
+    },
+    {
+      "date": "Le dimanche 22 février 2026 de  08:00:00 à  13:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Inkerman et en partie Route Royale",
+      "district": "plainewilhems",
+      "from": "2026-02-22T04:00:00.000Z",
+      "to": "2026-02-22T09:00:00.000Z",
+      "id": "d7919f1f613e24607d2b6adb6873ac9d"
+    },
+    {
+      "date": "Le dimanche 22 février 2026 de  08:30:00 à  15:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Ave Sivananda, Ave Couacaud, Ave Etienne, Ave Gabriel Pitot, Morc Du Perou, Flat Mont Royal et les environs",
+      "district": "plainewilhems",
+      "from": "2026-02-22T04:30:00.000Z",
+      "to": "2026-02-22T11:00:00.000Z",
+      "id": "ddfc9ef62db665af2e803e3cc40d15b9"
+    },
+    {
+      "date": "Le dimanche 22 février 2026 de  13:30:00 à  14:30:00",
+      "locality": "SODNAC",
+      "localitySlug": "sodnac",
+      "streets": "Ave Hirondelle et Ave Kiwi",
+      "district": "plainewilhems",
+      "from": "2026-02-22T09:30:00.000Z",
+      "to": "2026-02-22T10:30:00.000Z",
+      "id": "43602bbcda9bb74c523dcdfd8c1beb1d"
     },
     {
       "date": "Le dimanche 22 février 2026 de  08:00:00 à  10:00:00",

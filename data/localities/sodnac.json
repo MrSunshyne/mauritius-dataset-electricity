@@ -2,11 +2,18 @@
   "slug": "sodnac",
   "name": "SODNAC",
   "district": "plainewilhems",
-  "generated": "2026-02-20T07:17:20.107Z",
-  "outageCount": 39,
+  "generated": "2026-02-20T08:07:54.960Z",
+  "outageCount": 40,
   "firstOutage": "2022-05-30",
-  "lastOutage": "2026-02-16",
+  "lastOutage": "2026-02-22",
   "outages": [
+    {
+      "date": "Le dimanche 22 février 2026 de  13:30:00 à  14:30:00",
+      "streets": "Ave Hirondelle et Ave Kiwi",
+      "from": "2026-02-22T09:30:00.000Z",
+      "to": "2026-02-22T10:30:00.000Z",
+      "id": "43602bbcda9bb74c523dcdfd8c1beb1d"
+    },
     {
       "date": "Le lundi 16 février 2026 de  16:45:00 à  17:30:00",
       "streets": "AVENUE HIRONDELLE, AVENUE KIWI ET LES ENVIRONS.",
