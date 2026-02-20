@@ -1,8 +1,8 @@
 {
   "date": "2026-02-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-20T08:07:54.658Z",
-  "outageCount": 5,
+  "generated": "2026-02-20T09:10:06.596Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le vendredi 20 février 2026 de  09:00:00 à  17:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-02-20T05:15:00.000Z",
       "to": "2026-02-20T07:30:00.000Z",
       "id": "b2e3e8cb28b1cae694979d5f776a098a"
+    },
+    {
+      "date": "Le vendredi 20 février 2026 de  12:20:00 à  14:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "MOOTOO LANE/GRANUM ROAD",
+      "district": "plainewilhems",
+      "from": "2026-02-20T08:20:00.000Z",
+      "to": "2026-02-20T10:30:00.000Z",
+      "id": "09f8f463e66bb88eee6fcba6dc37e051"
     },
     {
       "date": "Le vendredi 20 février 2026 de  07:00:00 à  12:00:00",

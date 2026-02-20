@@ -2,11 +2,18 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-02-20T08:07:54.985Z",
-  "outageCount": 223,
+  "generated": "2026-02-20T09:10:06.946Z",
+  "outageCount": 224,
   "firstOutage": "2022-03-17",
-  "lastOutage": "2026-02-03",
+  "lastOutage": "2026-02-20",
   "outages": [
+    {
+      "date": "Le vendredi 20 février 2026 de  12:20:00 à  14:30:00",
+      "streets": "MOOTOO LANE/GRANUM ROAD",
+      "from": "2026-02-20T08:20:00.000Z",
+      "to": "2026-02-20T10:30:00.000Z",
+      "id": "09f8f463e66bb88eee6fcba6dc37e051"
+    },
     {
       "date": "Le mardi 3 février 2026 de  08:30:00 à  12:00:00",
       "streets": "GRANUM VACOAS",
