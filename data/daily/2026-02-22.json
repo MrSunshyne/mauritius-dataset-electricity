@@ -1,8 +1,8 @@
 {
   "date": "2026-02-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-20T06:13:55.241Z",
-  "outageCount": 3,
+  "generated": "2026-02-20T07:17:19.780Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le dimanche 22 février 2026 de  08:30:00 à  17:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-02-22T04:30:00.000Z",
       "to": "2026-02-22T10:30:00.000Z",
       "id": "2b5c20ee6ba0b16778ed89516a21e630"
+    },
+    {
+      "date": "Le dimanche 22 février 2026 de  08:00:00 à  10:00:00",
+      "locality": "PLAINE VERTE",
+      "localitySlug": "plaine-verte",
+      "streets": "DANS LES ENVIRONS DE MAMODE ALLY COURT, EMEMBUX BUILDING, EGLISE SAINT PAUL, DES RUES CALCUTTA, LEONCE LÓISEAU ET UNE PARTIE DE LA RUE MAGON",
+      "district": "portlouis",
+      "from": "2026-02-22T04:00:00.000Z",
+      "to": "2026-02-22T06:00:00.000Z",
+      "id": "d3f8ce15c28a603a1bcf45f9d1898dee"
     }
   ]
 }
