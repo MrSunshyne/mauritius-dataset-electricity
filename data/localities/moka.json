@@ -2,11 +2,18 @@
   "slug": "moka",
   "name": "MOKA",
   "district": "moka",
-  "generated": "2026-02-20T09:10:06.809Z",
-  "outageCount": 62,
+  "generated": "2026-02-20T10:08:25.666Z",
+  "outageCount": 63,
   "firstOutage": "2022-06-13",
-  "lastOutage": "2026-02-10",
+  "lastOutage": "2026-02-20",
   "outages": [
+    {
+      "date": "Le vendredi 20 février 2026 de  15:30:00 à  17:30:00",
+      "streets": "Railway, Gentilly Branch Road, Morc Gentilly, Telfair et en partie Helvetia",
+      "from": "2026-02-20T11:30:00.000Z",
+      "to": "2026-02-20T13:30:00.000Z",
+      "id": "eeb813f2847a12a332d3a22f71bc4da5"
+    },
     {
       "date": "Le mardi 10 février 2026 de  15:45:00 à  17:00:00",
       "streets": "POULTRY MINISSYCWA",
