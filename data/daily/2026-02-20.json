@@ -1,8 +1,8 @@
 {
   "date": "2026-02-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-20T12:04:52.940Z",
-  "outageCount": 9,
+  "generated": "2026-02-20T13:22:58.007Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le vendredi 20 février 2026 de  09:00:00 à  17:00:00",
@@ -93,6 +93,26 @@
       "from": "2026-02-20T05:30:00.000Z",
       "to": "2026-02-20T14:00:00.000Z",
       "id": "3f47b12629fa0c58fa5b1e9c11c115a3"
+    },
+    {
+      "date": "Le vendredi 20 février 2026 de  09:30:00 à  18:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "RESERVOIR ROAD GRAND BAY",
+      "district": "rivieredurempart",
+      "from": "2026-02-20T05:30:00.000Z",
+      "to": "2026-02-20T14:00:00.000Z",
+      "id": "98dba4548b1e53296fdce8ba75233b39"
+    },
+    {
+      "date": "Le vendredi 20 février 2026 de  11:00:00 à  19:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "LA RUE BALI PEREYBERE",
+      "district": "rivieredurempart",
+      "from": "2026-02-20T07:00:00.000Z",
+      "to": "2026-02-20T15:00:00.000Z",
+      "id": "11e4107898b41266f4371148d98d5340"
     }
   ]
 }

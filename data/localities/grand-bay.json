@@ -2,11 +2,18 @@
   "slug": "grand-bay",
   "name": "GRAND BAY",
   "district": "rivieredurempart",
-  "generated": "2026-02-20T12:04:53.096Z",
-  "outageCount": 97,
+  "generated": "2026-02-20T13:22:58.161Z",
+  "outageCount": 98,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-02-14",
+  "lastOutage": "2026-02-20",
   "outages": [
+    {
+      "date": "Le vendredi 20 février 2026 de  09:30:00 à  18:00:00",
+      "streets": "RESERVOIR ROAD GRAND BAY",
+      "from": "2026-02-20T05:30:00.000Z",
+      "to": "2026-02-20T14:00:00.000Z",
+      "id": "98dba4548b1e53296fdce8ba75233b39"
+    },
     {
       "date": "Le samedi 14 février 2026 de  18:00:00 à  22:00:00",
       "streets": "CHEMIN 20 PIEDS EN DIRECTION CAP MALHEUREUX, PETIT RAFFRAY, GRAND GAUBE.",

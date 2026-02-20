@@ -2,11 +2,18 @@
   "slug": "pereybere",
   "name": "PEREYBERE",
   "district": "rivieredurempart",
-  "generated": "2026-02-20T12:04:53.190Z",
-  "outageCount": 92,
+  "generated": "2026-02-20T13:22:58.257Z",
+  "outageCount": 93,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-01-25",
+  "lastOutage": "2026-02-20",
   "outages": [
+    {
+      "date": "Le vendredi 20 février 2026 de  11:00:00 à  19:00:00",
+      "streets": "LA RUE BALI PEREYBERE",
+      "from": "2026-02-20T07:00:00.000Z",
+      "to": "2026-02-20T15:00:00.000Z",
+      "id": "11e4107898b41266f4371148d98d5340"
+    },
     {
       "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  15:30:00",
       "streets": "20 PIED ROAD, CASASOLA NO 2, MORCELLEMENT NORLAND AND MARGEOT",
