@@ -1,8 +1,8 @@
 {
   "date": "2026-02-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-20T10:08:25.449Z",
-  "outageCount": 8,
+  "generated": "2026-02-20T11:08:21.951Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le samedi 21 février 2026 de  08:30:00 à  15:30:00",
@@ -23,6 +23,16 @@
       "from": "2026-02-21T04:30:00.000Z",
       "to": "2026-02-21T11:30:00.000Z",
       "id": "f05cc1588f9645cd239c4cda759af38b"
+    },
+    {
+      "date": "Le samedi 21 février 2026 de  08:30:00 à  15:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "Mahatma Gandhi road",
+      "district": "pamplemousses",
+      "from": "2026-02-21T04:30:00.000Z",
+      "to": "2026-02-21T11:00:00.000Z",
+      "id": "ef3fc3c3774e09a06244f2082e64bfe6"
     },
     {
       "date": "Le samedi 21 février 2026 de  09:00:00 à  15:00:00",

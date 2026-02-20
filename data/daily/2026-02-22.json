@@ -1,8 +1,8 @@
 {
   "date": "2026-02-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-20T10:08:25.449Z",
-  "outageCount": 7,
+  "generated": "2026-02-20T11:08:21.951Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le dimanche 22 février 2026 de  08:30:00 à  17:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-02-22T04:30:00.000Z",
       "to": "2026-02-22T10:30:00.000Z",
       "id": "2b5c20ee6ba0b16778ed89516a21e630"
+    },
+    {
+      "date": "Le dimanche 22 février 2026 de  08:00:00 à  14:00:00",
+      "locality": "CREVE COEUR",
+      "localitySlug": "creve-coeur",
+      "streets": "Robinson road et Morc Nouvelle Industrie",
+      "district": "pamplemousses",
+      "from": "2026-02-22T04:00:00.000Z",
+      "to": "2026-02-22T10:00:00.000Z",
+      "id": "f0226bf7c359db3b5631667b27a5d391"
     },
     {
       "date": "Le dimanche 22 février 2026 de  08:00:00 à  13:00:00",
