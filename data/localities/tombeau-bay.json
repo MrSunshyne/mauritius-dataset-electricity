@@ -2,8 +2,8 @@
   "slug": "tombeau-bay",
   "name": "TOMBEAU BAY",
   "district": "pamplemousses",
-  "generated": "2026-02-19T18:12:48.243Z",
-  "outageCount": 130,
+  "generated": "2026-02-20T06:13:55.561Z",
+  "outageCount": 131,
   "firstOutage": "2022-03-27",
   "lastOutage": "2026-02-22",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-02-22T04:30:00.000Z",
       "to": "2026-02-22T10:30:00.000Z",
       "id": "2b5c20ee6ba0b16778ed89516a21e630"
+    },
+    {
+      "date": "Le vendredi 20 février 2026 de  10:00:00 à  11:00:00",
+      "streets": "ELIZABETH VILLE",
+      "from": "2026-02-20T06:00:00.000Z",
+      "to": "2026-02-20T07:00:00.000Z",
+      "id": "6ae4a6a93dbe928adb9ba15d270684f8"
     },
     {
       "date": "Le samedi 14 février 2026 de  15:00:00 à  21:15:00",

@@ -2,8 +2,8 @@
   "slug": "sainte-croix",
   "name": "SAINTE CROIX",
   "district": "portlouis",
-  "generated": "2026-02-19T18:12:48.225Z",
-  "outageCount": 72,
+  "generated": "2026-02-20T06:13:55.544Z",
+  "outageCount": 73,
   "firstOutage": "2022-04-26",
   "lastOutage": "2026-02-21",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-02-21T04:30:00.000Z",
       "to": "2026-02-21T11:30:00.000Z",
       "id": "0a04c086e8761408640c22caa97dcfe9"
+    },
+    {
+      "date": "Le vendredi 20 février 2026 de  07:00:00 à  12:00:00",
+      "streets": "DANS LES ENVIRONS DE LA RUE GABRIEL BOUIC",
+      "from": "2026-02-20T03:00:00.000Z",
+      "to": "2026-02-20T08:00:00.000Z",
+      "id": "617e613f677669439969be16b4950129"
     },
     {
       "date": "Le jeudi 19 février 2026 de  17:20:00 à  18:00:00",

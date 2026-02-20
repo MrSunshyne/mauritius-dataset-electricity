@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-02-19T18:12:48.248Z",
-  "outageCount": 113,
+  "generated": "2026-02-20T06:13:55.566Z",
+  "outageCount": 114,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-02-19",
+  "lastOutage": "2026-02-20",
   "outages": [
+    {
+      "date": "Le vendredi 20 février 2026 de  09:15:00 à  11:30:00",
+      "streets": "DISPENSARY ROAD TRIOLET",
+      "from": "2026-02-20T05:15:00.000Z",
+      "to": "2026-02-20T07:30:00.000Z",
+      "id": "b2e3e8cb28b1cae694979d5f776a098a"
+    },
     {
       "date": "Le jeudi 19 février 2026 de  09:30:00 à  15:30:00",
       "streets": "Dispensary road",

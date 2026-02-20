@@ -1,9 +1,19 @@
 {
   "date": "2026-02-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-19T18:12:47.898Z",
-  "outageCount": 7,
+  "generated": "2026-02-20T06:13:55.241Z",
+  "outageCount": 8,
   "outages": [
+    {
+      "date": "Le samedi 21 février 2026 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC ANNA - AVE MOULIN CASSE, AVE DES TRUITES, AVE DES MARLINS, AVE DES MEROUS, AVE DES MARSOUINS, AVE DES CAPITAINES, AVE SUNSET ET AVE SOUFFLEUR",
+      "district": "blackriver",
+      "from": "2026-02-21T04:30:00.000Z",
+      "to": "2026-02-21T11:30:00.000Z",
+      "id": "0ae5edb1669dc7c7ad9f6416379a2d0e"
+    },
     {
       "date": "Le samedi 21 février 2026 de  08:30:00 à  15:30:00",
       "locality": "PETIT VERGER SAINT PIERRE",

@@ -1,8 +1,8 @@
 {
   "date": "2026-02-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-19T18:12:47.898Z",
-  "outageCount": 2,
+  "generated": "2026-02-20T06:13:55.241Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le vendredi 20 février 2026 de  09:00:00 à  17:00:00",
@@ -13,6 +13,36 @@
       "from": "2026-02-20T05:00:00.000Z",
       "to": "2026-02-20T13:00:00.000Z",
       "id": "abb3be5bd38fd061b1a28c2fbe727bb7"
+    },
+    {
+      "date": "Le vendredi 20 février 2026 de  10:00:00 à  11:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "ELIZABETH VILLE",
+      "district": "pamplemousses",
+      "from": "2026-02-20T06:00:00.000Z",
+      "to": "2026-02-20T07:00:00.000Z",
+      "id": "6ae4a6a93dbe928adb9ba15d270684f8"
+    },
+    {
+      "date": "Le vendredi 20 février 2026 de  09:15:00 à  11:30:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "DISPENSARY ROAD TRIOLET",
+      "district": "pamplemousses",
+      "from": "2026-02-20T05:15:00.000Z",
+      "to": "2026-02-20T07:30:00.000Z",
+      "id": "b2e3e8cb28b1cae694979d5f776a098a"
+    },
+    {
+      "date": "Le vendredi 20 février 2026 de  07:00:00 à  12:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "DANS LES ENVIRONS DE LA RUE GABRIEL BOUIC",
+      "district": "portlouis",
+      "from": "2026-02-20T03:00:00.000Z",
+      "to": "2026-02-20T08:00:00.000Z",
+      "id": "617e613f677669439969be16b4950129"
     },
     {
       "date": "Le vendredi 20 février 2026 de  09:30:00 à  16:00:00",

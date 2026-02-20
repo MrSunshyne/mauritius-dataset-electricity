@@ -2,11 +2,18 @@
   "slug": "flic-en-flac",
   "name": "FLIC-EN-FLAC",
   "district": "blackriver",
-  "generated": "2026-02-19T18:12:48.039Z",
-  "outageCount": 211,
+  "generated": "2026-02-20T06:13:55.372Z",
+  "outageCount": 212,
   "firstOutage": "2022-03-16",
-  "lastOutage": "2026-02-19",
+  "lastOutage": "2026-02-21",
   "outages": [
+    {
+      "date": "Le samedi 21 février 2026 de  08:30:00 à  15:30:00",
+      "streets": "MORC ANNA - AVE MOULIN CASSE, AVE DES TRUITES, AVE DES MARLINS, AVE DES MEROUS, AVE DES MARSOUINS, AVE DES CAPITAINES, AVE SUNSET ET AVE SOUFFLEUR",
+      "from": "2026-02-21T04:30:00.000Z",
+      "to": "2026-02-21T11:30:00.000Z",
+      "id": "0ae5edb1669dc7c7ad9f6416379a2d0e"
+    },
     {
       "date": "Le jeudi 19 février 2026 de  10:00:00 à  16:30:00",
       "streets": "AVE MERL-AVE PERRUCHE-AVE PAILLE EN QUEUE FLIC EN FLAC",
