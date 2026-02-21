@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-21T13:15:10.533Z",
+  "generated": "2026-02-21T14:03:55.219Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -1924,10 +1924,10 @@
       "slug": "la-gaulette",
       "name": "LA GAULETTE",
       "district": "blackriver",
-      "outageCount": 12,
+      "outageCount": 13,
       "file": "la-gaulette.json",
       "firstOutage": "2022-07-20",
-      "lastOutage": "2025-03-20"
+      "lastOutage": "2026-02-21"
     },
     {
       "slug": "la-laura",
@@ -3895,7 +3895,7 @@
       "slug": "triolet",
       "name": "TRIOLET",
       "district": "pamplemousses",
-      "outageCount": 115,
+      "outageCount": 116,
       "file": "triolet.json",
       "firstOutage": "2022-04-08",
       "lastOutage": "2026-02-21"

@@ -1,8 +1,8 @@
 {
   "date": "2026-02-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-21T13:15:10.182Z",
-  "outageCount": 14,
+  "generated": "2026-02-21T14:03:54.835Z",
+  "outageCount": 16,
   "outages": [
     {
       "date": "Le samedi 21 février 2026 de  08:30:00 à  15:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-02-21T04:30:00.000Z",
       "to": "2026-02-21T11:30:00.000Z",
       "id": "0ae5edb1669dc7c7ad9f6416379a2d0e"
+    },
+    {
+      "date": "Le samedi 21 février 2026 de  17:00:00 à  22:00:00",
+      "locality": "LA GAULETTE",
+      "localitySlug": "la-gaulette",
+      "streets": "La Gaulette, Cotteau Raffin, part of Le Morne (Le Morne Village, Dilo Pourrie), part of La Prairie et Baie du Cap.",
+      "district": "blackriver",
+      "from": "2026-02-21T13:00:00.000Z",
+      "to": "2026-02-21T18:00:00.000Z",
+      "id": "48c3eaf10df4b0daf022b02a0a76b4ab"
     },
     {
       "date": "Le samedi 21 février 2026 de  08:50:00 à  16:30:00",
@@ -43,6 +53,16 @@
       "from": "2026-02-21T04:30:00.000Z",
       "to": "2026-02-21T11:00:00.000Z",
       "id": "ef3fc3c3774e09a06244f2082e64bfe6"
+    },
+    {
+      "date": "Le samedi 21 février 2026 de  17:00:00 à  22:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "JOHN KENNEDY STREET 9TH MILE TRIOLET",
+      "district": "pamplemousses",
+      "from": "2026-02-21T13:00:00.000Z",
+      "to": "2026-02-21T18:00:00.000Z",
+      "id": "6d90bb91e4dc0a61e06081a8df21cfc9"
     },
     {
       "date": "Le samedi 21 février 2026 de  09:00:00 à  15:00:00",
