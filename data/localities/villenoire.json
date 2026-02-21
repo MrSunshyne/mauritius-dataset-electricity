@@ -2,11 +2,18 @@
   "slug": "villenoire",
   "name": "VILLENOIRE",
   "district": "grandport",
-  "generated": "2026-02-20T18:07:32.737Z",
-  "outageCount": 49,
+  "generated": "2026-02-21T06:07:45.426Z",
+  "outageCount": 50,
   "firstOutage": "2022-06-10",
-  "lastOutage": "2026-02-04",
+  "lastOutage": "2026-02-21",
   "outages": [
+    {
+      "date": "Le samedi 21 février 2026 de  08:50:00 à  11:30:00",
+      "streets": "RUE BAZAR ET LES ALENTOURS",
+      "from": "2026-02-21T04:50:00.000Z",
+      "to": "2026-02-21T07:30:00.000Z",
+      "id": "4934f4fe332b40791d65b32b8f031030"
+    },
     {
       "date": "Le mercredi 4 février 2026 de  09:05:00 à  16:00:00",
       "streets": "Ville Noire",

@@ -1,8 +1,8 @@
 {
   "date": "2026-02-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-20T18:07:32.378Z",
-  "outageCount": 8,
+  "generated": "2026-02-21T06:07:45.049Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le dimanche 22 février 2026 de  08:30:00 à  17:00:00",
@@ -73,6 +73,16 @@
       "from": "2026-02-22T09:30:00.000Z",
       "to": "2026-02-22T10:30:00.000Z",
       "id": "43602bbcda9bb74c523dcdfd8c1beb1d"
+    },
+    {
+      "date": "Le dimanche 22 février 2026 de  08:30:00 à  17:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "une partie de Route Lamberty, Dr Chinranjiv Bardwaj Avenue, partie de Sivananda Avenue, une partie de Jackson Road, partie de J. Kennedy Avenue, Sonah Lane, Marazzi Lane, Avenue Eugene Gregoire",
+      "district": "plainewilhems",
+      "from": "2026-02-22T04:30:00.000Z",
+      "to": "2026-02-22T13:00:00.000Z",
+      "id": "485e5e9f075ba24d67ffa611d9ac1cc8"
     },
     {
       "date": "Le dimanche 22 février 2026 de  08:00:00 à  10:00:00",

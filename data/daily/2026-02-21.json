@@ -1,8 +1,8 @@
 {
   "date": "2026-02-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-20T18:07:32.378Z",
-  "outageCount": 9,
+  "generated": "2026-02-21T06:07:45.049Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le samedi 21 février 2026 de  08:30:00 à  15:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-02-21T04:30:00.000Z",
       "to": "2026-02-21T11:30:00.000Z",
       "id": "0ae5edb1669dc7c7ad9f6416379a2d0e"
+    },
+    {
+      "date": "Le samedi 21 février 2026 de  08:50:00 à  11:30:00",
+      "locality": "VILLENOIRE",
+      "localitySlug": "villenoire",
+      "streets": "RUE BAZAR ET LES ALENTOURS",
+      "district": "grandport",
+      "from": "2026-02-21T04:50:00.000Z",
+      "to": "2026-02-21T07:30:00.000Z",
+      "id": "4934f4fe332b40791d65b32b8f031030"
     },
     {
       "date": "Le samedi 21 février 2026 de  08:30:00 à  15:30:00",
@@ -93,6 +103,16 @@
       "from": "2026-02-21T04:30:00.000Z",
       "to": "2026-02-21T11:30:00.000Z",
       "id": "cd40c125e635f5b063c08c5af03e092e"
+    },
+    {
+      "date": "Le samedi 21 février 2026 de  08:45:00 à  11:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "UNE PARTIE DE GRAND BAIE ET UNE PARTIE DE PEREYBERE DANS LES ALENTOUTS DE VOLLA DEL SOL",
+      "district": "rivieredurempart",
+      "from": "2026-02-21T04:45:00.000Z",
+      "to": "2026-02-21T07:00:00.000Z",
+      "id": "6ec1e32a704fe08c15c7596a6f98b700"
     }
   ]
 }
