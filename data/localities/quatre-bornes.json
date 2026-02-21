@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-02-21T08:02:16.043Z",
-  "outageCount": 345,
+  "generated": "2026-02-21T09:04:52.864Z",
+  "outageCount": 346,
   "firstOutage": "2022-04-01",
   "lastOutage": "2026-02-21",
   "outages": [
+    {
+      "date": "Le samedi 21 février 2026 de  13:00:00 à  17:00:00",
+      "streets": "MSGR LEEN LA LOUISE QUATRE BORNES",
+      "from": "2026-02-21T09:00:00.000Z",
+      "to": "2026-02-21T13:00:00.000Z",
+      "id": "a5e952a244b30a54a6d9d65c50cfd6b4"
+    },
     {
       "date": "Le samedi 21 février 2026 de  09:00:00 à  15:00:00",
       "streets": "St Jean, Nightingale et en partie Ave Draper",

@@ -2,11 +2,18 @@
   "slug": "grand-bois",
   "name": "GRAND BOIS",
   "district": "savanne",
-  "generated": "2026-02-21T08:02:15.903Z",
-  "outageCount": 15,
+  "generated": "2026-02-21T09:04:52.725Z",
+  "outageCount": 16,
   "firstOutage": "2022-09-15",
-  "lastOutage": "2026-01-18",
+  "lastOutage": "2026-02-21",
   "outages": [
+    {
+      "date": "Le samedi 21 février 2026 de  11:00:00 à  17:00:00",
+      "streets": "YOUNG TOW-TELECOM-GRAND BOIS",
+      "from": "2026-02-21T07:00:00.000Z",
+      "to": "2026-02-21T13:00:00.000Z",
+      "id": "0cdf1b4accf112836ac0137980c1b751"
+    },
     {
       "date": "Le dimanche 18 janvier 2026 de  09:00:00 à  15:00:00",
       "streets": "Grand Bois et Bois Cheri",

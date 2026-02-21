@@ -1,8 +1,8 @@
 {
   "date": "2026-02-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-21T08:02:15.747Z",
-  "outageCount": 11,
+  "generated": "2026-02-21T09:04:52.569Z",
+  "outageCount": 14,
   "outages": [
     {
       "date": "Le samedi 21 février 2026 de  08:30:00 à  15:30:00",
@@ -53,6 +53,26 @@
       "from": "2026-02-21T05:00:00.000Z",
       "to": "2026-02-21T11:00:00.000Z",
       "id": "c5747772bc304079e17190fb0709e218"
+    },
+    {
+      "date": "Le samedi 21 février 2026 de  13:00:00 à  17:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "MSGR LEEN LA LOUISE QUATRE BORNES",
+      "district": "plainewilhems",
+      "from": "2026-02-21T09:00:00.000Z",
+      "to": "2026-02-21T13:00:00.000Z",
+      "id": "a5e952a244b30a54a6d9d65c50cfd6b4"
+    },
+    {
+      "date": "Le samedi 21 février 2026 de  11:00:00 à  15:00:00",
+      "locality": "VALENTINA",
+      "localitySlug": "valentina",
+      "streets": "FIXON IND- CWA ZONE IND- VALENTINA",
+      "district": "plainewilhems",
+      "from": "2026-02-21T07:00:00.000Z",
+      "to": "2026-02-21T11:00:00.000Z",
+      "id": "348ff22d41c0a2db1a2f2fab19036c35"
     },
     {
       "date": "Le samedi 21 février 2026 de  08:30:00 à  15:30:00",
@@ -113,6 +133,16 @@
       "from": "2026-02-21T04:45:00.000Z",
       "to": "2026-02-21T07:00:00.000Z",
       "id": "6ec1e32a704fe08c15c7596a6f98b700"
+    },
+    {
+      "date": "Le samedi 21 février 2026 de  11:00:00 à  17:00:00",
+      "locality": "GRAND BOIS",
+      "localitySlug": "grand-bois",
+      "streets": "YOUNG TOW-TELECOM-GRAND BOIS",
+      "district": "savanne",
+      "from": "2026-02-21T07:00:00.000Z",
+      "to": "2026-02-21T13:00:00.000Z",
+      "id": "0cdf1b4accf112836ac0137980c1b751"
     }
   ]
 }
