@@ -1,8 +1,8 @@
 {
   "date": "2026-02-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-21T14:03:54.835Z",
-  "outageCount": 16,
+  "generated": "2026-02-21T15:02:55.111Z",
+  "outageCount": 17,
   "outages": [
     {
       "date": "Le samedi 21 février 2026 de  08:30:00 à  15:30:00",
@@ -23,6 +23,16 @@
       "from": "2026-02-21T13:00:00.000Z",
       "to": "2026-02-21T18:00:00.000Z",
       "id": "48c3eaf10df4b0daf022b02a0a76b4ab"
+    },
+    {
+      "date": "Le samedi 21 février 2026 de  17:00:00 à  22:00:00",
+      "locality": "LE MORNE",
+      "localitySlug": "le-morne",
+      "streets": "LE MORNE VILLAGE ET DILO POURIE.",
+      "district": "blackriver",
+      "from": "2026-02-21T13:00:00.000Z",
+      "to": "2026-02-21T18:00:00.000Z",
+      "id": "c86fe81938db8a66b7fbd6656c0feb1d"
     },
     {
       "date": "Le samedi 21 février 2026 de  08:50:00 à  16:30:00",
