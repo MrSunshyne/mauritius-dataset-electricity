@@ -2,11 +2,18 @@
   "slug": "vallee-des-pretres",
   "name": "VALLEE DES PRETRES",
   "district": "portlouis",
-  "generated": "2026-02-22T07:12:47.755Z",
-  "outageCount": 73,
+  "generated": "2026-02-22T08:02:26.794Z",
+  "outageCount": 74,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-02-21",
+  "lastOutage": "2026-02-22",
   "outages": [
+    {
+      "date": "Le dimanche 22 février 2026 de  11:20:00 à  12:30:00",
+      "streets": "STE CROIX, VALLEE DES PRETRES, CAPT PONTRE, MORC LA VALLEE, CITE LA CURE, LE CORNUE ET LES ALENTOURS",
+      "from": "2026-02-22T07:20:00.000Z",
+      "to": "2026-02-22T08:30:00.000Z",
+      "id": "ac1e385cb09fd4fd8d9d5035da94a510"
+    },
     {
       "date": "Le samedi 21 février 2026 de  08:30:00 à  15:30:00",
       "streets": "DANS LES ENVIRONS DE NHDC VALLEE DES PRETRES, NHDC CHA ET UNE PARTIE DE CARO LALO",
