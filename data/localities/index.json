@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-21T18:02:21.604Z",
+  "generated": "2026-02-22T06:11:12.352Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -151,10 +151,10 @@
       "slug": "baie-lascar",
       "name": "BAIE LASCAR(RODRIGUES)",
       "district": "rodrigues",
-      "outageCount": 2,
+      "outageCount": 3,
       "file": "baie-lascar.json",
       "firstOutage": "2025-02-06",
-      "lastOutage": "2025-03-05"
+      "lastOutage": "2026-02-22"
     },
     {
       "slug": "baie-topaze",
@@ -2878,10 +2878,10 @@
       "slug": "pierrefonds",
       "name": "PIERREFONDS",
       "district": "plainewilhems",
-      "outageCount": 3,
+      "outageCount": 4,
       "file": "pierrefonds.json",
       "firstOutage": "2025-08-07",
-      "lastOutage": "2025-12-17"
+      "lastOutage": "2026-02-22"
     },
     {
       "slug": "piments",
@@ -3013,10 +3013,10 @@
       "slug": "pointe-aux-sables",
       "name": "POINTE AUX SABLES",
       "district": "portlouis",
-      "outageCount": 129,
+      "outageCount": 130,
       "file": "pointe-aux-sables.json",
       "firstOutage": "2022-03-30",
-      "lastOutage": "2026-02-15"
+      "lastOutage": "2026-02-22"
     },
     {
       "slug": "pointe-d-esny",

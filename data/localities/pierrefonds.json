@@ -2,11 +2,18 @@
   "slug": "pierrefonds",
   "name": "PIERREFONDS",
   "district": "plainewilhems",
-  "generated": "2026-02-21T18:02:21.497Z",
-  "outageCount": 3,
+  "generated": "2026-02-22T06:11:12.237Z",
+  "outageCount": 4,
   "firstOutage": "2025-08-07",
-  "lastOutage": "2025-12-17",
+  "lastOutage": "2026-02-22",
   "outages": [
+    {
+      "date": "Le dimanche 22 février 2026 de  10:10:00 à  10:40:00",
+      "streets": "MORC PIERREFONDS",
+      "from": "2026-02-22T06:10:00.000Z",
+      "to": "2026-02-22T06:40:00.000Z",
+      "id": "47e2a00091754948e93bb708e8b5d441"
+    },
     {
       "date": "Le mercredi 17 décembre 2025 de  09:15:00 à  10:30:00",
       "streets": "PART OF PIERREFONDS",

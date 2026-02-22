@@ -2,11 +2,18 @@
   "slug": "pointe-aux-sables",
   "name": "POINTE AUX SABLES",
   "district": "portlouis",
-  "generated": "2026-02-21T18:02:21.508Z",
-  "outageCount": 129,
+  "generated": "2026-02-22T06:11:12.249Z",
+  "outageCount": 130,
   "firstOutage": "2022-03-30",
-  "lastOutage": "2026-02-15",
+  "lastOutage": "2026-02-22",
   "outages": [
+    {
+      "date": "Le dimanche 22 février 2026 de  06:00:00 à  12:00:00",
+      "streets": "PETIT VERGER, MORC KENNICK, MORC SAGITTAIRE, MORC GARBURRUN AND SURROUNDINGS",
+      "from": "2026-02-22T02:00:00.000Z",
+      "to": "2026-02-22T08:00:00.000Z",
+      "id": "7e5e08d59d0d9fa745289332304470e2"
+    },
     {
       "date": "Le dimanche 15 février 2026 de  14:35:00 à  16:35:00",
       "streets": "PETIT VERGER, MORC GURBURRUN, DANS LA TOURELLE TOUR KOENIG ET LES ALENTOURS.",
