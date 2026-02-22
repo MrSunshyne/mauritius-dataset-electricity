@@ -1,9 +1,19 @@
 {
   "date": "2026-02-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-22T14:04:56.059Z",
-  "outageCount": 14,
+  "generated": "2026-02-22T15:03:12.746Z",
+  "outageCount": 15,
   "outages": [
+    {
+      "date": "Le dimanche 22 février 2026 de  18:45:00 à  20:00:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "NHDC BAMBOUS DANS LES ENVIRONS DU DISTRICT COUNCIL DE BAMBOUS.",
+      "district": "blackriver",
+      "from": "2026-02-22T14:45:00.000Z",
+      "to": "2026-02-22T16:00:00.000Z",
+      "id": "fd2ca2d57c4f00f5884ce76b5d4e2a68"
+    },
     {
       "date": "Le dimanche 22 février 2026 de  08:30:00 à  17:00:00",
       "locality": "POSTE DE FLACQ",
