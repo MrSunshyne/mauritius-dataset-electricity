@@ -2,11 +2,18 @@
   "slug": "providence-quartier-militaire",
   "name": "PROVIDENCE QUARTIER MILITAIRE",
   "district": "moka",
-  "generated": "2026-02-23T07:21:18.761Z",
-  "outageCount": 13,
+  "generated": "2026-02-23T08:09:25.746Z",
+  "outageCount": 14,
   "firstOutage": "2022-09-18",
-  "lastOutage": "2026-02-18",
+  "lastOutage": "2026-02-24",
   "outages": [
+    {
+      "date": "Le mardi 24 février 2026 de  09:00:00 à  11:00:00",
+      "streets": "Royal Road Providence, Part of Railway Road, SSR Road and Tagore Road",
+      "from": "2026-02-24T05:00:00.000Z",
+      "to": "2026-02-24T07:00:00.000Z",
+      "id": "17d5843357125ea4760670265a2aecea"
+    },
     {
       "date": "Le mercredi 18 février 2026 de  13:00:00 à  15:30:00",
       "streets": "ROUTE 16",

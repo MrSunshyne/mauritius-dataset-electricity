@@ -2,11 +2,18 @@
   "slug": "l-aventure",
   "name": "L-AVENTURE",
   "district": "flacq",
-  "generated": "2026-02-23T07:21:18.651Z",
-  "outageCount": 18,
+  "generated": "2026-02-23T08:09:25.638Z",
+  "outageCount": 19,
   "firstOutage": "2024-05-15",
-  "lastOutage": "2026-02-20",
+  "lastOutage": "2026-02-23",
   "outages": [
+    {
+      "date": "Le lundi 23 février 2026 de  12:00:00 à  14:00:00",
+      "streets": "PART OF LAVENTURE",
+      "from": "2026-02-23T08:00:00.000Z",
+      "to": "2026-02-23T10:00:00.000Z",
+      "id": "46b8332b8a0c513228477e91ccaaa979"
+    },
     {
       "date": "Le vendredi 20 février 2026 de  09:00:00 à  17:00:00",
       "streets": "Laventure, de Eastern Stone Crusher, Eastern Fitness Centre, Rolex Recycler et Golden Chicken Poultry.",

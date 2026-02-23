@@ -1,8 +1,8 @@
 {
   "date": "2026-02-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-23T07:21:18.475Z",
-  "outageCount": 7,
+  "generated": "2026-02-23T08:09:25.469Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le lundi 23 février 2026 de  09:00:00 à  10:40:00",
@@ -13,6 +13,16 @@
       "from": "2026-02-23T05:00:00.000Z",
       "to": "2026-02-23T06:40:00.000Z",
       "id": "549885e6873c6185c6a1d95e495124a9"
+    },
+    {
+      "date": "Le lundi 23 février 2026 de  12:00:00 à  14:00:00",
+      "locality": "L-AVENTURE",
+      "localitySlug": "l-aventure",
+      "streets": "PART OF LAVENTURE",
+      "district": "flacq",
+      "from": "2026-02-23T08:00:00.000Z",
+      "to": "2026-02-23T10:00:00.000Z",
+      "id": "46b8332b8a0c513228477e91ccaaa979"
     },
     {
       "date": "Le lundi 23 février 2026 de  09:45:00 à  12:00:00",
