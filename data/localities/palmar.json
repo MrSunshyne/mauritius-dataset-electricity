@@ -2,11 +2,18 @@
   "slug": "palmar",
   "name": "PALMAR",
   "district": "flacq",
-  "generated": "2026-02-22T18:02:12.655Z",
-  "outageCount": 15,
+  "generated": "2026-02-23T06:18:45.505Z",
+  "outageCount": 16,
   "firstOutage": "2022-10-21",
-  "lastOutage": "2025-10-16",
+  "lastOutage": "2026-02-23",
   "outages": [
+    {
+      "date": "Le lundi 23 février 2026 de  09:00:00 à  10:40:00",
+      "streets": "Coastal Road Palmar",
+      "from": "2026-02-23T05:00:00.000Z",
+      "to": "2026-02-23T06:40:00.000Z",
+      "id": "549885e6873c6185c6a1d95e495124a9"
+    },
     {
       "date": "Le jeudi 16 octobre 2025 de  21:30:00 à  11:30:00",
       "streets": "PALMAR",

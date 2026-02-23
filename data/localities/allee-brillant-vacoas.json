@@ -2,11 +2,18 @@
   "slug": "allee-brillant-vacoas",
   "name": "ALLEE BRILLANT VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-02-22T18:02:12.422Z",
-  "outageCount": 11,
+  "generated": "2026-02-23T06:18:45.267Z",
+  "outageCount": 12,
   "firstOutage": "2023-02-05",
-  "lastOutage": "2026-01-29",
+  "lastOutage": "2026-02-23",
   "outages": [
+    {
+      "date": "Le lundi 23 février 2026 de  09:00:00 à  10:30:00",
+      "streets": "HANOOMANJEE LANE",
+      "from": "2026-02-23T05:00:00.000Z",
+      "to": "2026-02-23T06:30:00.000Z",
+      "id": "8b77e162c4d578b40b265109a16d580a"
+    },
     {
       "date": "Le jeudi 29 janvier 2026 de  10:15:00 à  11:45:00",
       "streets": "ALLEE BRILLANT VACOAS",

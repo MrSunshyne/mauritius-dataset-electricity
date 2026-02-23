@@ -2,11 +2,18 @@
   "slug": "roche-bois",
   "name": "ROCHE BOIS",
   "district": "portlouis",
-  "generated": "2026-02-22T18:02:12.725Z",
-  "outageCount": 38,
+  "generated": "2026-02-23T06:18:45.576Z",
+  "outageCount": 39,
   "firstOutage": "2022-04-30",
-  "lastOutage": "2026-01-24",
+  "lastOutage": "2026-02-23",
   "outages": [
+    {
+      "date": "Le lundi 23 février 2026 de  09:30:00 à  14:00:00",
+      "streets": "CARO CALIPTUS, PART OF BATTERIE CASSEE",
+      "from": "2026-02-23T05:30:00.000Z",
+      "to": "2026-02-23T10:00:00.000Z",
+      "id": "6a8d9ca1955c893c337cddb228df8df9"
+    },
     {
       "date": "Le samedi 24 janvier 2026 de  12:00:00 à  14:00:00",
       "streets": "RUE DECARRIERE/DESPIERRE/ST MARTIN",

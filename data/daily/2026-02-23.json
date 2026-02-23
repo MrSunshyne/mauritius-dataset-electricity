@@ -1,0 +1,68 @@
+{
+  "date": "2026-02-23",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-02-23T06:18:45.251Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le lundi 23 février 2026 de  09:00:00 à  10:40:00",
+      "locality": "PALMAR",
+      "localitySlug": "palmar",
+      "streets": "Coastal Road Palmar",
+      "district": "flacq",
+      "from": "2026-02-23T05:00:00.000Z",
+      "to": "2026-02-23T06:40:00.000Z",
+      "id": "549885e6873c6185c6a1d95e495124a9"
+    },
+    {
+      "date": "Le lundi 23 février 2026 de  09:45:00 à  12:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "CITE TOLE",
+      "district": "pamplemousses",
+      "from": "2026-02-23T05:45:00.000Z",
+      "to": "2026-02-23T08:00:00.000Z",
+      "id": "64e1522d5993cab2166b21246188d25d"
+    },
+    {
+      "date": "Le lundi 23 février 2026 de  09:00:00 à  10:30:00",
+      "locality": "ALLEE BRILLANT VACOAS",
+      "localitySlug": "allee-brillant-vacoas",
+      "streets": "HANOOMANJEE LANE",
+      "district": "plainewilhems",
+      "from": "2026-02-23T05:00:00.000Z",
+      "to": "2026-02-23T06:30:00.000Z",
+      "id": "8b77e162c4d578b40b265109a16d580a"
+    },
+    {
+      "date": "Le lundi 23 février 2026 de  08:50:00 à  09:30:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "GORDON ST, CELICOURT ANTHELME, EDISSON, RHT AND SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2026-02-23T04:50:00.000Z",
+      "to": "2026-02-23T05:30:00.000Z",
+      "id": "ab1e11925d55987355ae1c2a95d67ad2"
+    },
+    {
+      "date": "Le lundi 23 février 2026 de  09:30:00 à  14:00:00",
+      "locality": "ROCHE BOIS",
+      "localitySlug": "roche-bois",
+      "streets": "CARO CALIPTUS, PART OF BATTERIE CASSEE",
+      "district": "portlouis",
+      "from": "2026-02-23T05:30:00.000Z",
+      "to": "2026-02-23T10:00:00.000Z",
+      "id": "6a8d9ca1955c893c337cddb228df8df9"
+    },
+    {
+      "date": "Le lundi 23 février 2026 de  09:40:00 à  10:30:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "PAVE ROAD AND SURROUNDINGS",
+      "district": "rivieredurempart",
+      "from": "2026-02-23T05:40:00.000Z",
+      "to": "2026-02-23T06:30:00.000Z",
+      "id": "c6f9b4f06c539d974ea91b908a38ae35"
+    }
+  ]
+}
