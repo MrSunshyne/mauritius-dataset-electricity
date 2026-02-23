@@ -2,11 +2,18 @@
   "slug": "mapou",
   "name": "MAPOU",
   "district": "rivieredurempart",
-  "generated": "2026-02-23T06:18:45.459Z",
-  "outageCount": 11,
+  "generated": "2026-02-23T07:21:18.681Z",
+  "outageCount": 12,
   "firstOutage": "2022-05-22",
-  "lastOutage": "2025-02-05",
+  "lastOutage": "2026-02-23",
   "outages": [
+    {
+      "date": "Le lundi 23 février 2026 de  11:00:00 à  14:00:00",
+      "streets": "MAPOU LE FERRET",
+      "from": "2026-02-23T07:00:00.000Z",
+      "to": "2026-02-23T10:00:00.000Z",
+      "id": "cef1dc063d75100d7ebc6acfcb40c85d"
+    },
     {
       "date": "Le mercredi 5 février 2025 de  12:00:00 à  16:00:00",
       "streets": "POST OFFICE RD MAPOU",

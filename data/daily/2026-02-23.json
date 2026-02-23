@@ -1,8 +1,8 @@
 {
   "date": "2026-02-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-23T06:18:45.251Z",
-  "outageCount": 6,
+  "generated": "2026-02-23T07:21:18.475Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le lundi 23 février 2026 de  09:00:00 à  10:40:00",
@@ -63,6 +63,16 @@
       "from": "2026-02-23T05:40:00.000Z",
       "to": "2026-02-23T06:30:00.000Z",
       "id": "c6f9b4f06c539d974ea91b908a38ae35"
+    },
+    {
+      "date": "Le lundi 23 février 2026 de  11:00:00 à  14:00:00",
+      "locality": "MAPOU",
+      "localitySlug": "mapou",
+      "streets": "MAPOU LE FERRET",
+      "district": "rivieredurempart",
+      "from": "2026-02-23T07:00:00.000Z",
+      "to": "2026-02-23T10:00:00.000Z",
+      "id": "cef1dc063d75100d7ebc6acfcb40c85d"
     }
   ]
 }
