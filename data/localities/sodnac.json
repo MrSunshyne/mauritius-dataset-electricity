@@ -2,11 +2,18 @@
   "slug": "sodnac",
   "name": "SODNAC",
   "district": "plainewilhems",
-  "generated": "2026-02-23T17:20:30.487Z",
-  "outageCount": 41,
+  "generated": "2026-02-23T18:16:32.486Z",
+  "outageCount": 42,
   "firstOutage": "2022-05-30",
-  "lastOutage": "2026-02-22",
+  "lastOutage": "2026-02-23",
   "outages": [
+    {
+      "date": "Le lundi 23 février 2026 de  21:00:00 à  00:00:00",
+      "streets": "DREAMTON PARK",
+      "from": "2026-02-23T17:00:00.000Z",
+      "to": "2026-02-22T20:00:00.000Z",
+      "id": "cd2b483ad3a84a30aa2ec6bd98cf5157"
+    },
     {
       "date": "Le dimanche 22 février 2026 de  13:30:00 à  14:30:00",
       "streets": "Ave Hirondelle et Ave Kiwi",

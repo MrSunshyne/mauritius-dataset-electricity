@@ -2,11 +2,18 @@
   "slug": "pavillon",
   "name": "PAVILLON",
   "district": "plainewilhems",
-  "generated": "2026-02-23T17:20:30.394Z",
-  "outageCount": 21,
+  "generated": "2026-02-23T18:16:32.400Z",
+  "outageCount": 22,
   "firstOutage": "2022-04-06",
-  "lastOutage": "2025-09-11",
+  "lastOutage": "2026-02-23",
   "outages": [
+    {
+      "date": "Le lundi 23 février 2026 de  21:00:00 à  00:00:00",
+      "streets": "PAVILLON CAP MALHEUREUX",
+      "from": "2026-02-23T17:00:00.000Z",
+      "to": "2026-02-22T20:00:00.000Z",
+      "id": "1ee2ecc73e141ca4c7153217df18a0cd"
+    },
     {
       "date": "Le jeudi 11 septembre 2025 de  09:45:00 à  17:00:00",
       "streets": "WHOLE VILLAGE",

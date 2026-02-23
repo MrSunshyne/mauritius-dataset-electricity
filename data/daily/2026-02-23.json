@@ -1,8 +1,8 @@
 {
   "date": "2026-02-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-23T17:20:30.142Z",
-  "outageCount": 11,
+  "generated": "2026-02-23T18:16:32.158Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le lundi 23 février 2026 de  18:30:00 à  22:30:00",
@@ -83,6 +83,26 @@
       "from": "2026-02-23T11:50:00.000Z",
       "to": "2026-02-23T14:50:00.000Z",
       "id": "cea7a3ebc0c101cf779644ec5433a855"
+    },
+    {
+      "date": "Le lundi 23 février 2026 de  21:00:00 à  00:00:00",
+      "locality": "PAVILLON",
+      "localitySlug": "pavillon",
+      "streets": "PAVILLON CAP MALHEUREUX",
+      "district": "plainewilhems",
+      "from": "2026-02-23T17:00:00.000Z",
+      "to": "2026-02-22T20:00:00.000Z",
+      "id": "1ee2ecc73e141ca4c7153217df18a0cd"
+    },
+    {
+      "date": "Le lundi 23 février 2026 de  21:00:00 à  00:00:00",
+      "locality": "SODNAC",
+      "localitySlug": "sodnac",
+      "streets": "DREAMTON PARK",
+      "district": "plainewilhems",
+      "from": "2026-02-23T17:00:00.000Z",
+      "to": "2026-02-22T20:00:00.000Z",
+      "id": "cd2b483ad3a84a30aa2ec6bd98cf5157"
     },
     {
       "date": "Le lundi 23 février 2026 de  09:30:00 à  14:00:00",
