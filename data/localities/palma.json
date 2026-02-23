@@ -2,11 +2,18 @@
   "slug": "palma",
   "name": "PALMA",
   "district": "plainewilhems",
-  "generated": "2026-02-23T11:13:11.743Z",
-  "outageCount": 55,
+  "generated": "2026-02-23T12:06:19.669Z",
+  "outageCount": 56,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-02-04",
+  "lastOutage": "2026-02-23",
   "outages": [
+    {
+      "date": "Le lundi 23 février 2026 de  15:50:00 à  18:50:00",
+      "streets": "PALMA, BASSIN, MERRYTOWN, SOFERINO 5 DANS LES ENVIRONS SLAUGHTER HOUSE.",
+      "from": "2026-02-23T11:50:00.000Z",
+      "to": "2026-02-23T14:50:00.000Z",
+      "id": "cea7a3ebc0c101cf779644ec5433a855"
+    },
     {
       "date": "Le mercredi 4 février 2026 de  16:25:00 à  17:30:00",
       "streets": "PIERREFONDS PALMA EN DIRECTION ECOLE SSS.",

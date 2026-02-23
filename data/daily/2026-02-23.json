@@ -1,8 +1,8 @@
 {
   "date": "2026-02-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-23T11:13:11.487Z",
-  "outageCount": 9,
+  "generated": "2026-02-23T12:06:19.424Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le lundi 23 février 2026 de  09:00:00 à  10:40:00",
@@ -63,6 +63,16 @@
       "from": "2026-02-23T04:50:00.000Z",
       "to": "2026-02-23T05:30:00.000Z",
       "id": "ab1e11925d55987355ae1c2a95d67ad2"
+    },
+    {
+      "date": "Le lundi 23 février 2026 de  15:50:00 à  18:50:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "PALMA, BASSIN, MERRYTOWN, SOFERINO 5 DANS LES ENVIRONS SLAUGHTER HOUSE.",
+      "district": "plainewilhems",
+      "from": "2026-02-23T11:50:00.000Z",
+      "to": "2026-02-23T14:50:00.000Z",
+      "id": "cea7a3ebc0c101cf779644ec5433a855"
     },
     {
       "date": "Le lundi 23 février 2026 de  09:30:00 à  14:00:00",
