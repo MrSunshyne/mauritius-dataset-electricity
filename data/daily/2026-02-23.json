@@ -1,8 +1,8 @@
 {
   "date": "2026-02-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-23T09:14:12.200Z",
-  "outageCount": 8,
+  "generated": "2026-02-23T10:15:26.756Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le lundi 23 février 2026 de  09:00:00 à  10:40:00",
@@ -33,6 +33,16 @@
       "from": "2026-02-23T05:45:00.000Z",
       "to": "2026-02-23T08:00:00.000Z",
       "id": "64e1522d5993cab2166b21246188d25d"
+    },
+    {
+      "date": "Le lundi 23 février 2026 de  13:45:00 à  15:45:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "MORCELLEMENT JHUBOO.",
+      "district": "pamplemousses",
+      "from": "2026-02-23T09:45:00.000Z",
+      "to": "2026-02-23T11:45:00.000Z",
+      "id": "ea5a923f8f5c58b4e7a8f5028d814480"
     },
     {
       "date": "Le lundi 23 février 2026 de  09:00:00 à  10:30:00",

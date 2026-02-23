@@ -2,11 +2,18 @@
   "slug": "trou-aux-biches",
   "name": "TROU AUX BICHES",
   "district": "pamplemousses",
-  "generated": "2026-02-23T09:14:12.563Z",
-  "outageCount": 57,
+  "generated": "2026-02-23T10:15:27.108Z",
+  "outageCount": 58,
   "firstOutage": "2022-04-10",
-  "lastOutage": "2026-02-06",
+  "lastOutage": "2026-02-23",
   "outages": [
+    {
+      "date": "Le lundi 23 février 2026 de  13:45:00 à  15:45:00",
+      "streets": "MORCELLEMENT JHUBOO.",
+      "from": "2026-02-23T09:45:00.000Z",
+      "to": "2026-02-23T11:45:00.000Z",
+      "id": "ea5a923f8f5c58b4e7a8f5028d814480"
+    },
     {
       "date": "Le vendredi 6 février 2026 de  11:00:00 à  12:00:00",
       "streets": "COASTAL RD TROU AUX BICHES-MORC MON CHOISY",

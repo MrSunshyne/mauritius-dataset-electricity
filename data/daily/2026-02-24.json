@@ -1,9 +1,19 @@
 {
   "date": "2026-02-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-23T09:14:12.200Z",
-  "outageCount": 1,
+  "generated": "2026-02-23T10:15:26.756Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le mardi 24 février 2026 de  09:30:00 à  12:30:00",
+      "locality": "PETIT PAQUET",
+      "localitySlug": "petit-paquet",
+      "streets": "Near Mosque",
+      "district": "flacq",
+      "from": "2026-02-24T05:30:00.000Z",
+      "to": "2026-02-24T08:30:00.000Z",
+      "id": "ede13d0ffc57f5d0d3ea30ffe00c44ad"
+    },
     {
       "date": "Le mardi 24 février 2026 de  09:00:00 à  11:00:00",
       "locality": "PROVIDENCE QUARTIER MILITAIRE",
