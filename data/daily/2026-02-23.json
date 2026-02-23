@@ -1,9 +1,19 @@
 {
   "date": "2026-02-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-23T14:16:13.128Z",
-  "outageCount": 10,
+  "generated": "2026-02-23T15:13:38.220Z",
+  "outageCount": 11,
   "outages": [
+    {
+      "date": "Le lundi 23 février 2026 de  18:30:00 à  22:30:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "CAMP CREOLE : RUE MARCEL CABON ET DANS LES ALENTOURS DE L-ECOLE.",
+      "district": "blackriver",
+      "from": "2026-02-23T14:30:00.000Z",
+      "to": "2026-02-23T18:30:00.000Z",
+      "id": "8242ef08bb996993cf754358df03dcf0"
+    },
     {
       "date": "Le lundi 23 février 2026 de  09:00:00 à  10:40:00",
       "locality": "PALMAR",

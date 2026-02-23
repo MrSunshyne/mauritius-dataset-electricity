@@ -2,11 +2,18 @@
   "slug": "albion",
   "name": "ALBION",
   "district": "blackriver",
-  "generated": "2026-02-23T14:16:13.141Z",
-  "outageCount": 103,
+  "generated": "2026-02-23T15:13:38.236Z",
+  "outageCount": 104,
   "firstOutage": "2022-06-06",
-  "lastOutage": "2026-02-16",
+  "lastOutage": "2026-02-23",
   "outages": [
+    {
+      "date": "Le lundi 23 février 2026 de  18:30:00 à  22:30:00",
+      "streets": "CAMP CREOLE : RUE MARCEL CABON ET DANS LES ALENTOURS DE L-ECOLE.",
+      "from": "2026-02-23T14:30:00.000Z",
+      "to": "2026-02-23T18:30:00.000Z",
+      "id": "8242ef08bb996993cf754358df03dcf0"
+    },
     {
       "date": "Le lundi 16 février 2026 de  04:20:00 à  10:00:00",
       "streets": "MORC TERRE ALBION",
