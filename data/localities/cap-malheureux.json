@@ -2,11 +2,18 @@
   "slug": "cap-malheureux",
   "name": "CAP MALHEUREUX",
   "district": "rivieredurempart",
-  "generated": "2026-02-24T14:17:42.866Z",
-  "outageCount": 48,
+  "generated": "2026-02-24T15:15:56.127Z",
+  "outageCount": 49,
   "firstOutage": "2022-07-14",
-  "lastOutage": "2026-02-15",
+  "lastOutage": "2026-02-24",
   "outages": [
+    {
+      "date": "Le mardi 24 février 2026 de  18:00:00 à  22:00:00",
+      "streets": "MARIAMEN TEMPLE ROAD PAVE CAP MALHEUREUX",
+      "from": "2026-02-24T14:00:00.000Z",
+      "to": "2026-02-24T18:00:00.000Z",
+      "id": "f294fe6f5e7aec97928175ee3935410a"
+    },
     {
       "date": "Le dimanche 15 février 2026 de  14:00:00 à  15:03:00",
       "streets": "CHEMIN PAZZANI MALAYE ET CHEMIN MARIAMEN TEMPLE.",

@@ -1,8 +1,8 @@
 {
   "date": "2026-02-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-24T14:17:42.780Z",
-  "outageCount": 13,
+  "generated": "2026-02-24T15:15:56.041Z",
+  "outageCount": 14,
   "outages": [
     {
       "date": "Le mardi 24 février 2026 de  09:30:00 à  15:00:00",
@@ -133,6 +133,16 @@
       "from": "2026-02-24T08:20:00.000Z",
       "to": "2026-02-24T14:00:00.000Z",
       "id": "b4b2472d380ec1687a5a90e474697616"
+    },
+    {
+      "date": "Le mardi 24 février 2026 de  18:00:00 à  22:00:00",
+      "locality": "CAP MALHEUREUX",
+      "localitySlug": "cap-malheureux",
+      "streets": "MARIAMEN TEMPLE ROAD PAVE CAP MALHEUREUX",
+      "district": "rivieredurempart",
+      "from": "2026-02-24T14:00:00.000Z",
+      "to": "2026-02-24T18:00:00.000Z",
+      "id": "f294fe6f5e7aec97928175ee3935410a"
     }
   ]
 }
