@@ -2,11 +2,18 @@
   "slug": "upper-vale",
   "name": "UPPER VALE",
   "district": "rivieredurempart",
-  "generated": "2026-02-24T08:09:35.677Z",
-  "outageCount": 18,
+  "generated": "2026-02-24T09:14:08.317Z",
+  "outageCount": 19,
   "firstOutage": "2022-04-05",
-  "lastOutage": "2025-12-24",
+  "lastOutage": "2026-02-24",
   "outages": [
+    {
+      "date": "Le mardi 24 février 2026 de  12:30:00 à  18:00:00",
+      "streets": "LOWER VALE AND UPPER VALE, PART OF  MONT MASCAL",
+      "from": "2026-02-24T08:30:00.000Z",
+      "to": "2026-02-24T14:00:00.000Z",
+      "id": "03f10b488970e21f8a178d8bdf9dd327"
+    },
     {
       "date": "Le mercredi 24 décembre 2025 de  18:00:00 à  22:00:00",
       "streets": "RAMGOOLAM ROAD, SSR ROAD ET LES ENVIRONS.",

@@ -1,8 +1,8 @@
 {
   "date": "2026-02-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-24T08:09:35.303Z",
-  "outageCount": 10,
+  "generated": "2026-02-24T09:14:07.958Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le mardi 24 février 2026 de  09:30:00 à  15:00:00",
@@ -103,6 +103,26 @@
       "from": "2026-02-24T07:20:00.000Z",
       "to": "2026-02-24T08:30:00.000Z",
       "id": "a26e50f40560e34b1e537472f7654f05"
+    },
+    {
+      "date": "Le mardi 24 février 2026 de  12:30:00 à  18:00:00",
+      "locality": "UPPER VALE",
+      "localitySlug": "upper-vale",
+      "streets": "LOWER VALE AND UPPER VALE, PART OF  MONT MASCAL",
+      "district": "rivieredurempart",
+      "from": "2026-02-24T08:30:00.000Z",
+      "to": "2026-02-24T14:00:00.000Z",
+      "id": "03f10b488970e21f8a178d8bdf9dd327"
+    },
+    {
+      "date": "Le mardi 24 février 2026 de  12:20:00 à  18:00:00",
+      "locality": "LOWER VALE",
+      "localitySlug": "lower-vale",
+      "streets": "LOWER VALE, UPPER VALE AND PART OF MON MASCAL PETIT RAFFRAY",
+      "district": "rivieredurempart",
+      "from": "2026-02-24T08:20:00.000Z",
+      "to": "2026-02-24T14:00:00.000Z",
+      "id": "b4b2472d380ec1687a5a90e474697616"
     }
   ]
 }
