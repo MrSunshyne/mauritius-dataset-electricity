@@ -2,11 +2,18 @@
   "slug": "port-louis",
   "name": "PORT-LOUIS",
   "district": "portlouis",
-  "generated": "2026-02-23T18:16:32.432Z",
-  "outageCount": 107,
+  "generated": "2026-02-24T06:17:05.573Z",
+  "outageCount": 108,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-02-19",
+  "lastOutage": "2026-02-24",
   "outages": [
+    {
+      "date": "Le mardi 24 février 2026 de  09:45:00 à  10:45:00",
+      "streets": "RAOUL RIVET",
+      "from": "2026-02-24T05:45:00.000Z",
+      "to": "2026-02-24T06:45:00.000Z",
+      "id": "346ae22446328b81a8a05d908e9317cf"
+    },
     {
       "date": "Le jeudi 19 février 2026 de  10:00:00 à  13:00:00",
       "streets": "DANS LES ENVIRONS DES RUES GORAH ISSAC, DIEGO GARCIA, TRICHNAPOLY, RAJPAUL, HASSEN SAKIR, PAUL ET VIRGINIE ET LA ROUTE MILITAIRE",

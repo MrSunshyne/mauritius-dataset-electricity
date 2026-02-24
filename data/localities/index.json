@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-23T18:16:32.524Z",
+  "generated": "2026-02-24T06:17:05.668Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -700,10 +700,10 @@
       "slug": "camp-chapelon",
       "name": "CAMP CHAPELON",
       "district": "portlouis",
-      "outageCount": 5,
+      "outageCount": 6,
       "file": "camp-chapelon.json",
       "firstOutage": "2022-03-16",
-      "lastOutage": "2026-01-27"
+      "lastOutage": "2026-02-24"
     },
     {
       "slug": "camp-de-masque",
@@ -1393,10 +1393,10 @@
       "slug": "eau-coulee",
       "name": "EAU COULEE",
       "district": "plainewilhems",
-      "outageCount": 58,
+      "outageCount": 59,
       "file": "eau-coulee.json",
       "firstOutage": "2022-03-23",
-      "lastOutage": "2026-01-12"
+      "lastOutage": "2026-02-24"
     },
     {
       "slug": "eau-vannee",
@@ -1843,10 +1843,10 @@
       "slug": "l-escalier",
       "name": "L-ESCALIER",
       "district": "savanne",
-      "outageCount": 28,
+      "outageCount": 29,
       "file": "l-escalier.json",
       "firstOutage": "2022-03-30",
-      "lastOutage": "2026-02-08"
+      "lastOutage": "2026-02-26"
     },
     {
       "slug": "l-esperance-qmilitaire",
@@ -3094,10 +3094,10 @@
       "slug": "port-louis",
       "name": "PORT-LOUIS",
       "district": "portlouis",
-      "outageCount": 107,
+      "outageCount": 108,
       "file": "port-louis.json",
       "firstOutage": "2022-03-21",
-      "lastOutage": "2026-02-19"
+      "lastOutage": "2026-02-24"
     },
     {
       "slug": "port-mathurin",
@@ -3895,10 +3895,10 @@
       "slug": "triolet",
       "name": "TRIOLET",
       "district": "pamplemousses",
-      "outageCount": 116,
+      "outageCount": 117,
       "file": "triolet.json",
       "firstOutage": "2022-04-08",
-      "lastOutage": "2026-02-21"
+      "lastOutage": "2026-02-26"
     },
     {
       "slug": "trois-boutiques-triolet",
@@ -3958,10 +3958,10 @@
       "slug": "union-park",
       "name": "UNION PARK",
       "district": "grandport",
-      "outageCount": 30,
+      "outageCount": 31,
       "file": "union-park.json",
       "firstOutage": "2022-03-28",
-      "lastOutage": "2026-02-05"
+      "lastOutage": "2026-02-27"
     },
     {
       "slug": "union-vale",

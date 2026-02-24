@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-02-23T18:16:32.503Z",
-  "outageCount": 116,
+  "generated": "2026-02-24T06:17:05.647Z",
+  "outageCount": 117,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-02-21",
+  "lastOutage": "2026-02-26",
   "outages": [
+    {
+      "date": "Le jeudi 26 février 2026 de  09:00:00 à  15:00:00",
+      "streets": "Dans les environs de Mahatma Gandhi road",
+      "from": "2026-02-26T05:00:00.000Z",
+      "to": "2026-02-26T11:00:00.000Z",
+      "id": "f18b554744af9428a8e6b5c09703b12b"
+    },
     {
       "date": "Le samedi 21 février 2026 de  17:00:00 à  22:00:00",
       "streets": "JOHN KENNEDY STREET 9TH MILE TRIOLET",

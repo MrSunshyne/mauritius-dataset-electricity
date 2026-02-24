@@ -2,11 +2,18 @@
   "slug": "l-escalier",
   "name": "L-ESCALIER",
   "district": "savanne",
-  "generated": "2026-02-23T18:16:32.328Z",
-  "outageCount": 28,
+  "generated": "2026-02-24T06:17:05.464Z",
+  "outageCount": 29,
   "firstOutage": "2022-03-30",
-  "lastOutage": "2026-02-08",
+  "lastOutage": "2026-02-26",
   "outages": [
+    {
+      "date": "Le jeudi 26 février 2026 de  08:30:00 à  16:00:00",
+      "streets": "L’Escalier habitant dans le périmètre et les rues suivantes: Morcellement VRS La Sourdine, Station de Police La Sourdine, Bureau Savannah, Poultry Savannah et les régions avoisinantes",
+      "from": "2026-02-26T04:30:00.000Z",
+      "to": "2026-02-26T12:00:00.000Z",
+      "id": "c6fb32af804fb6007c024949be733e4e"
+    },
     {
       "date": "Le dimanche 8 février 2026 de  09:00:00 à  17:00:00",
       "streets": "L’Escalier habitant dans le périmètre et les rues suivantes: Khoratty Lane, Sooben Lane, Bhujhun Lane, Cader Bava Lane, Bodye Lane, Nadal lane, Cemetry Lane, Morcellement La Sourdine, Savannah, Bassin Tronche et une partie de la Route Royale L’Escalier",

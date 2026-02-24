@@ -1,8 +1,8 @@
 {
   "date": "2026-02-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-23T18:16:32.158Z",
-  "outageCount": 2,
+  "generated": "2026-02-24T06:17:05.287Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le mardi 24 février 2026 de  09:30:00 à  12:30:00",
@@ -23,6 +23,36 @@
       "from": "2026-02-24T05:00:00.000Z",
       "to": "2026-02-24T07:00:00.000Z",
       "id": "17d5843357125ea4760670265a2aecea"
+    },
+    {
+      "date": "Le mardi 24 février 2026 de  09:40:00 à  11:30:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": "LA PEROUSE",
+      "district": "plainewilhems",
+      "from": "2026-02-24T05:40:00.000Z",
+      "to": "2026-02-24T07:30:00.000Z",
+      "id": "f547db5ac513d45aaadf7552b85f35cf"
+    },
+    {
+      "date": "Le mardi 24 février 2026 de  09:45:00 à  10:45:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "RAOUL RIVET",
+      "district": "portlouis",
+      "from": "2026-02-24T05:45:00.000Z",
+      "to": "2026-02-24T06:45:00.000Z",
+      "id": "346ae22446328b81a8a05d908e9317cf"
+    },
+    {
+      "date": "Le mardi 24 février 2026 de  09:15:00 à  10:15:00",
+      "locality": "CAMP CHAPELON",
+      "localitySlug": "camp-chapelon",
+      "streets": "PART OF CAMP CHAPELON",
+      "district": "portlouis",
+      "from": "2026-02-24T05:15:00.000Z",
+      "to": "2026-02-24T06:15:00.000Z",
+      "id": "545f0ee897e40c4bf25461b917234cad"
     }
   ]
 }

@@ -2,11 +2,18 @@
   "slug": "eau-coulee",
   "name": "EAU COULEE",
   "district": "plainewilhems",
-  "generated": "2026-02-23T18:16:32.288Z",
-  "outageCount": 58,
+  "generated": "2026-02-24T06:17:05.423Z",
+  "outageCount": 59,
   "firstOutage": "2022-03-23",
-  "lastOutage": "2026-01-12",
+  "lastOutage": "2026-02-24",
   "outages": [
+    {
+      "date": "Le mardi 24 février 2026 de  09:40:00 à  11:30:00",
+      "streets": "LA PEROUSE",
+      "from": "2026-02-24T05:40:00.000Z",
+      "to": "2026-02-24T07:30:00.000Z",
+      "id": "f547db5ac513d45aaadf7552b85f35cf"
+    },
     {
       "date": "Le lundi 12 janvier 2026 de  09:00:00 à  15:00:00",
       "streets": "dans les périmètres et rues suivante : Abbe Laval Street et Charles Cheron Street",
