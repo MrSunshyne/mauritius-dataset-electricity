@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-24T06:17:05.668Z",
+  "generated": "2026-02-24T07:18:59.878Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -556,10 +556,10 @@
       "slug": "bois-marchand",
       "name": "BOIS MARCHAND",
       "district": "pamplemousses",
-      "outageCount": 7,
+      "outageCount": 8,
       "file": "bois-marchand.json",
       "firstOutage": "2023-08-27",
-      "lastOutage": "2025-12-09"
+      "lastOutage": "2026-02-24"
     },
     {
       "slug": "bois-pignolet",
@@ -1303,10 +1303,10 @@
       "slug": "curepipe",
       "name": "CUREPIPE",
       "district": "plainewilhems",
-      "outageCount": 202,
+      "outageCount": 203,
       "file": "curepipe.json",
       "firstOutage": "2022-03-27",
-      "lastOutage": "2026-02-18"
+      "lastOutage": "2026-02-24"
     },
     {
       "slug": "d-epinay",
@@ -3013,10 +3013,10 @@
       "slug": "pointe-aux-sables",
       "name": "POINTE AUX SABLES",
       "district": "portlouis",
-      "outageCount": 130,
+      "outageCount": 131,
       "file": "pointe-aux-sables.json",
       "firstOutage": "2022-03-30",
-      "lastOutage": "2026-02-22"
+      "lastOutage": "2026-02-24"
     },
     {
       "slug": "pointe-d-esny",
@@ -3094,7 +3094,7 @@
       "slug": "port-louis",
       "name": "PORT-LOUIS",
       "district": "portlouis",
-      "outageCount": 108,
+      "outageCount": 109,
       "file": "port-louis.json",
       "firstOutage": "2022-03-21",
       "lastOutage": "2026-02-24"

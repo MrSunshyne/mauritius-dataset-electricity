@@ -2,11 +2,18 @@
   "slug": "pointe-aux-sables",
   "name": "POINTE AUX SABLES",
   "district": "portlouis",
-  "generated": "2026-02-24T06:17:05.566Z",
-  "outageCount": 130,
+  "generated": "2026-02-24T07:18:59.779Z",
+  "outageCount": 131,
   "firstOutage": "2022-03-30",
-  "lastOutage": "2026-02-22",
+  "lastOutage": "2026-02-24",
   "outages": [
+    {
+      "date": "Le mardi 24 février 2026 de  11:00:00 à  12:00:00",
+      "streets": "AVE PEUPLIERS, LAFAYETTE, PAILLE EN QUEUE, NEAR LONDON WAY",
+      "from": "2026-02-24T07:00:00.000Z",
+      "to": "2026-02-24T08:00:00.000Z",
+      "id": "c68a9832a6c8cafa12c7ded444a2f41b"
+    },
     {
       "date": "Le dimanche 22 février 2026 de  06:00:00 à  12:00:00",
       "streets": "PETIT VERGER, MORC KENNICK, MORC SAGITTAIRE, MORC GARBURRUN AND SURROUNDINGS",

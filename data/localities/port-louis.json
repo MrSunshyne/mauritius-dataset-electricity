@@ -2,11 +2,18 @@
   "slug": "port-louis",
   "name": "PORT-LOUIS",
   "district": "portlouis",
-  "generated": "2026-02-24T06:17:05.573Z",
-  "outageCount": 108,
+  "generated": "2026-02-24T07:18:59.786Z",
+  "outageCount": 109,
   "firstOutage": "2022-03-21",
   "lastOutage": "2026-02-24",
   "outages": [
+    {
+      "date": "Le mardi 24 février 2026 de  10:45:00 à  12:00:00",
+      "streets": "RAOUL RIVET, CONDE, ENTRECASTEAUX AND SURROUNDINGS",
+      "from": "2026-02-24T06:45:00.000Z",
+      "to": "2026-02-24T08:00:00.000Z",
+      "id": "4df1151c5810599a8901744b207d0aa1"
+    },
     {
       "date": "Le mardi 24 février 2026 de  09:45:00 à  10:45:00",
       "streets": "RAOUL RIVET",

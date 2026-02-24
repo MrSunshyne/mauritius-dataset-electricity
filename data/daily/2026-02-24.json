@@ -1,18 +1,18 @@
 {
   "date": "2026-02-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-24T06:17:05.287Z",
-  "outageCount": 5,
+  "generated": "2026-02-24T07:18:59.514Z",
+  "outageCount": 9,
   "outages": [
     {
-      "date": "Le mardi 24 février 2026 de  09:30:00 à  12:30:00",
+      "date": "Le mardi 24 février 2026 de  09:30:00 à  15:00:00",
       "locality": "PETIT PAQUET",
       "localitySlug": "petit-paquet",
       "streets": "Near Mosque",
       "district": "flacq",
       "from": "2026-02-24T05:30:00.000Z",
-      "to": "2026-02-24T08:30:00.000Z",
-      "id": "ede13d0ffc57f5d0d3ea30ffe00c44ad"
+      "to": "2026-02-24T11:00:00.000Z",
+      "id": "a3f3c9919d924f8ff33c90573bbfc0e4"
     },
     {
       "date": "Le mardi 24 février 2026 de  09:00:00 à  11:00:00",
@@ -25,6 +25,16 @@
       "id": "17d5843357125ea4760670265a2aecea"
     },
     {
+      "date": "Le mardi 24 février 2026 de  11:00:00 à  12:00:00",
+      "locality": "BOIS MARCHAND",
+      "localitySlug": "bois-marchand",
+      "streets": "ROYAL ROAD, SCHOOL LANE AND SURROUNDINGS",
+      "district": "pamplemousses",
+      "from": "2026-02-24T07:00:00.000Z",
+      "to": "2026-02-24T08:00:00.000Z",
+      "id": "f92c65c11369d016ff198299712d155e"
+    },
+    {
       "date": "Le mardi 24 février 2026 de  09:40:00 à  11:30:00",
       "locality": "EAU COULEE",
       "localitySlug": "eau-coulee",
@@ -33,6 +43,16 @@
       "from": "2026-02-24T05:40:00.000Z",
       "to": "2026-02-24T07:30:00.000Z",
       "id": "f547db5ac513d45aaadf7552b85f35cf"
+    },
+    {
+      "date": "Le mardi 24 février 2026 de  11:00:00 à  14:30:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "SIR GAETAN DUVAL ROAD AND SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2026-02-24T07:00:00.000Z",
+      "to": "2026-02-24T10:30:00.000Z",
+      "id": "68ed6e7c724c3ebdc2a1b5be3f8d3a77"
     },
     {
       "date": "Le mardi 24 février 2026 de  09:45:00 à  10:45:00",
@@ -53,6 +73,26 @@
       "from": "2026-02-24T05:15:00.000Z",
       "to": "2026-02-24T06:15:00.000Z",
       "id": "545f0ee897e40c4bf25461b917234cad"
+    },
+    {
+      "date": "Le mardi 24 février 2026 de  11:00:00 à  12:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "AVE PEUPLIERS, LAFAYETTE, PAILLE EN QUEUE, NEAR LONDON WAY",
+      "district": "portlouis",
+      "from": "2026-02-24T07:00:00.000Z",
+      "to": "2026-02-24T08:00:00.000Z",
+      "id": "c68a9832a6c8cafa12c7ded444a2f41b"
+    },
+    {
+      "date": "Le mardi 24 février 2026 de  10:45:00 à  12:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "RAOUL RIVET, CONDE, ENTRECASTEAUX AND SURROUNDINGS",
+      "district": "portlouis",
+      "from": "2026-02-24T06:45:00.000Z",
+      "to": "2026-02-24T08:00:00.000Z",
+      "id": "4df1151c5810599a8901744b207d0aa1"
     }
   ]
 }

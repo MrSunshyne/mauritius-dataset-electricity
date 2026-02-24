@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-02-24T06:17:05.415Z",
-  "outageCount": 202,
+  "generated": "2026-02-24T07:18:59.635Z",
+  "outageCount": 203,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-02-18",
+  "lastOutage": "2026-02-24",
   "outages": [
+    {
+      "date": "Le mardi 24 février 2026 de  11:00:00 à  14:30:00",
+      "streets": "SIR GAETAN DUVAL ROAD AND SURROUNDINGS",
+      "from": "2026-02-24T07:00:00.000Z",
+      "to": "2026-02-24T10:30:00.000Z",
+      "id": "68ed6e7c724c3ebdc2a1b5be3f8d3a77"
+    },
     {
       "date": "Le mercredi 18 février 2026 de  09:45:00 à  11:15:00",
       "streets": "JAFFAR LANE,CORIOLIS ROAD 16EME MILE FOREST SIDE",
