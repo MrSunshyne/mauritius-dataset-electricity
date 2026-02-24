@@ -2,8 +2,8 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-02-24T10:13:32.382Z",
-  "outageCount": 117,
+  "generated": "2026-02-24T11:13:13.672Z",
+  "outageCount": 118,
   "firstOutage": "2022-04-08",
   "lastOutage": "2026-02-26",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-02-26T05:00:00.000Z",
       "to": "2026-02-26T11:00:00.000Z",
       "id": "f18b554744af9428a8e6b5c09703b12b"
+    },
+    {
+      "date": "Le mardi 24 février 2026 de  15:10:00 à  17:10:00",
+      "streets": "DISPENSARY RD NEAR KALIMAYE(NEW TX NO:2)",
+      "from": "2026-02-24T11:10:00.000Z",
+      "to": "2026-02-24T13:10:00.000Z",
+      "id": "551a0a7a1dc6e7d3340b46e35e7ffd9d"
     },
     {
       "date": "Le samedi 21 février 2026 de  17:00:00 à  22:00:00",

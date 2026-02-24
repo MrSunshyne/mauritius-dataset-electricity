@@ -1,8 +1,8 @@
 {
   "date": "2026-02-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-24T10:13:32.036Z",
-  "outageCount": 12,
+  "generated": "2026-02-24T11:13:13.323Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le mardi 24 février 2026 de  09:30:00 à  15:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-02-24T07:00:00.000Z",
       "to": "2026-02-24T08:00:00.000Z",
       "id": "f92c65c11369d016ff198299712d155e"
+    },
+    {
+      "date": "Le mardi 24 février 2026 de  15:10:00 à  17:10:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "DISPENSARY RD NEAR KALIMAYE(NEW TX NO:2)",
+      "district": "pamplemousses",
+      "from": "2026-02-24T11:10:00.000Z",
+      "to": "2026-02-24T13:10:00.000Z",
+      "id": "551a0a7a1dc6e7d3340b46e35e7ffd9d"
     },
     {
       "date": "Le mardi 24 février 2026 de  09:40:00 à  11:30:00",
