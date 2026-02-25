@@ -2,11 +2,18 @@
   "slug": "roches-brunes",
   "name": "ROCHES BRUNES",
   "district": "plainewilhems",
-  "generated": "2026-02-24T18:14:51.691Z",
-  "outageCount": 26,
+  "generated": "2026-02-25T06:19:14.048Z",
+  "outageCount": 27,
   "firstOutage": "2022-10-01",
-  "lastOutage": "2026-02-20",
+  "lastOutage": "2026-02-25",
   "outages": [
+    {
+      "date": "Le mercredi 25 février 2026 de  10:00:00 à  11:00:00",
+      "streets": "MOUNT PLEASANT ROCHES BRUNES",
+      "from": "2026-02-25T06:00:00.000Z",
+      "to": "2026-02-25T07:00:00.000Z",
+      "id": "fae8da93170c4d3ecc23031511a6cde2"
+    },
     {
       "date": "Le vendredi 20 février 2026 de  15:00:00 à  17:00:00",
       "streets": "MORC ROCHE BRUNES",

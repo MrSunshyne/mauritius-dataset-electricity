@@ -2,11 +2,18 @@
   "slug": "cluny",
   "name": "CLUNY",
   "district": "grandport",
-  "generated": "2026-02-24T18:14:51.485Z",
-  "outageCount": 11,
+  "generated": "2026-02-25T06:19:13.855Z",
+  "outageCount": 12,
   "firstOutage": "2022-05-07",
-  "lastOutage": "2025-10-26",
+  "lastOutage": "2026-03-03",
   "outages": [
+    {
+      "date": "Le mardi 3 mars 2026 de  09:00:00 à  15:00:00",
+      "streets": "Eau Bleu Tostée Cluny, CWA Cluny (Reservoir & Pompe)",
+      "from": "2026-03-03T05:00:00.000Z",
+      "to": "2026-03-03T11:00:00.000Z",
+      "id": "c6fe06ef4f72de41f273d79d46b8fee0"
+    },
     {
       "date": "Le dimanche 26 octobre 2025 de  08:30:00 à  17:00:00",
       "streets": "Zone Industriel Beemanique",

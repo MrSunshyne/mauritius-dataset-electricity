@@ -1,0 +1,58 @@
+{
+  "date": "2026-02-25",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-02-25T06:19:13.741Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le mercredi 25 février 2026 de  10:00:00 à  15:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "FLAT BHUNJUN ST JEAN",
+      "district": "plainewilhems",
+      "from": "2026-02-25T06:00:00.000Z",
+      "to": "2026-02-25T11:30:00.000Z",
+      "id": "13e521caf1c70cdc8282c061d2c09a0c"
+    },
+    {
+      "date": "Le mercredi 25 février 2026 de  10:00:00 à  11:00:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "MOUNT PLEASANT ROCHES BRUNES",
+      "district": "plainewilhems",
+      "from": "2026-02-25T06:00:00.000Z",
+      "to": "2026-02-25T07:00:00.000Z",
+      "id": "fae8da93170c4d3ecc23031511a6cde2"
+    },
+    {
+      "date": "Le mercredi 25 février 2026 de  09:00:00 à  11:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "DR REED ST-PINK PIGEON  ST MORC LA CONFIANCE BEAU BASSIN",
+      "district": "plainewilhems",
+      "from": "2026-02-25T05:00:00.000Z",
+      "to": "2026-02-25T07:00:00.000Z",
+      "id": "479939e6c3eaba2804b25df6d3f67407"
+    },
+    {
+      "date": "Le mercredi 25 février 2026 de  10:00:00 à  11:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "RUE VELORE PORT LOUIS",
+      "district": "portlouis",
+      "from": "2026-02-25T06:00:00.000Z",
+      "to": "2026-02-25T07:00:00.000Z",
+      "id": "4c6947dedc38be407bcf1c5b6660988e"
+    },
+    {
+      "date": "Le mercredi 25 février 2026 de  08:00:00 à  09:00:00",
+      "locality": "PLAINE VERTE",
+      "localitySlug": "plaine-verte",
+      "streets": "PART OF PLAINE VERTE",
+      "district": "portlouis",
+      "from": "2026-02-25T04:00:00.000Z",
+      "to": "2026-02-25T05:00:00.000Z",
+      "id": "7737d4e5d3fd065592fea6b20caf254a"
+    }
+  ]
+}

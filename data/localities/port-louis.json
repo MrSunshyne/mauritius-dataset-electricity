@@ -2,11 +2,18 @@
   "slug": "port-louis",
   "name": "PORT-LOUIS",
   "district": "portlouis",
-  "generated": "2026-02-24T18:14:51.656Z",
-  "outageCount": 110,
+  "generated": "2026-02-25T06:19:14.015Z",
+  "outageCount": 111,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-02-24",
+  "lastOutage": "2026-02-25",
   "outages": [
+    {
+      "date": "Le mercredi 25 février 2026 de  10:00:00 à  11:00:00",
+      "streets": "RUE VELORE PORT LOUIS",
+      "from": "2026-02-25T06:00:00.000Z",
+      "to": "2026-02-25T07:00:00.000Z",
+      "id": "4c6947dedc38be407bcf1c5b6660988e"
+    },
     {
       "date": "Le mardi 24 février 2026 de  11:20:00 à  12:30:00",
       "streets": "RAOUL RIVET, CONDE, ENTRECASTEAUX AND SURROUNDINGS",

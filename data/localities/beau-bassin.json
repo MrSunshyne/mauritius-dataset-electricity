@@ -2,11 +2,18 @@
   "slug": "beau-bassin",
   "name": "BEAU BASSIN",
   "district": "plainewilhems",
-  "generated": "2026-02-24T18:14:51.404Z",
-  "outageCount": 166,
+  "generated": "2026-02-25T06:19:13.776Z",
+  "outageCount": 167,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-02-16",
+  "lastOutage": "2026-02-25",
   "outages": [
+    {
+      "date": "Le mercredi 25 février 2026 de  09:00:00 à  11:00:00",
+      "streets": "DR REED ST-PINK PIGEON  ST MORC LA CONFIANCE BEAU BASSIN",
+      "from": "2026-02-25T05:00:00.000Z",
+      "to": "2026-02-25T07:00:00.000Z",
+      "id": "479939e6c3eaba2804b25df6d3f67407"
+    },
     {
       "date": "Le lundi 16 février 2026 de  20:15:00 à  00:00:00",
       "streets": "RUE SERGE ALFRED -ROYAL RD BEAU BASSIN",
