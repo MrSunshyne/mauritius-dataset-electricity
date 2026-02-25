@@ -2,11 +2,18 @@
   "slug": "mon-choisy",
   "name": "MON CHOISY",
   "district": "pamplemousses",
-  "generated": "2026-02-25T12:07:00.483Z",
-  "outageCount": 30,
+  "generated": "2026-02-25T13:26:52.695Z",
+  "outageCount": 31,
   "firstOutage": "2022-05-21",
-  "lastOutage": "2026-02-17",
+  "lastOutage": "2026-03-01",
   "outages": [
+    {
+      "date": "Le dimanche 1 mars 2026 de  08:30:00 à  15:00:00",
+      "streets": "Dans les alentours des hotels suivant: Casuarina, Coral Azur, Mystic et Morc Choisy et Morc Romatally",
+      "from": "2026-03-01T04:30:00.000Z",
+      "to": "2026-03-01T11:00:00.000Z",
+      "id": "39ece1ed88f4c6d08debc95c63b6598e"
+    },
     {
       "date": "Le mardi 17 février 2026 de  15:30:00 à  19:30:00",
       "streets": "MORC SAGITTAIRE",

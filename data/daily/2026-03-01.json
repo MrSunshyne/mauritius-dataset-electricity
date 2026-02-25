@@ -1,8 +1,8 @@
 {
   "date": "2026-03-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-25T12:07:00.253Z",
-  "outageCount": 1,
+  "generated": "2026-02-25T13:26:52.479Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le dimanche 1 mars 2026 de  08:30:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-03-01T04:30:00.000Z",
       "to": "2026-03-01T11:00:00.000Z",
       "id": "f0d004e3af9817477ec044b22059a916"
+    },
+    {
+      "date": "Le dimanche 1 mars 2026 de  08:30:00 à  15:00:00",
+      "locality": "MON CHOISY",
+      "localitySlug": "mon-choisy",
+      "streets": "Dans les alentours des hotels suivant: Casuarina, Coral Azur, Mystic et Morc Choisy et Morc Romatally",
+      "district": "pamplemousses",
+      "from": "2026-03-01T04:30:00.000Z",
+      "to": "2026-03-01T11:00:00.000Z",
+      "id": "39ece1ed88f4c6d08debc95c63b6598e"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "date": "2026-02-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-25T12:07:00.253Z",
-  "outageCount": 11,
+  "generated": "2026-02-25T13:26:52.479Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le mercredi 25 février 2026 de  14:20:00 à  18:00:00",
@@ -73,6 +73,16 @@
       "from": "2026-02-25T11:00:00.000Z",
       "to": "2026-02-25T11:25:00.000Z",
       "id": "6c66120784c299209c91ecec1dfa286c"
+    },
+    {
+      "date": "Le mercredi 25 février 2026 de  17:00:00 à  17:45:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "ST JEAN DANS LES ALENTOURS DE FLAT BUNJUN",
+      "district": "plainewilhems",
+      "from": "2026-02-25T13:00:00.000Z",
+      "to": "2026-02-25T13:45:00.000Z",
+      "id": "f64afda9bb0c650d4ae214e9a03db3be"
     },
     {
       "date": "Le mercredi 25 février 2026 de  10:00:00 à  11:00:00",
