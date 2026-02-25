@@ -2,11 +2,18 @@
   "slug": "petite-riviere",
   "name": "PETITE RIVIERE",
   "district": "blackriver",
-  "generated": "2026-02-25T08:09:55.014Z",
-  "outageCount": 78,
+  "generated": "2026-02-25T09:14:20.228Z",
+  "outageCount": 79,
   "firstOutage": "2022-05-28",
-  "lastOutage": "2026-01-25",
+  "lastOutage": "2026-02-28",
   "outages": [
+    {
+      "date": "Le samedi 28 février 2026 de  09:00:00 à  14:00:00",
+      "streets": "LES ABONNES DE MONTEE S PTE RIVIERE HABITANT DANS LES ENVIRONS DE CAMP BENOIT ROAD, MORC CHADY, GOLDSMITH ET UNE PARTIE DE TRISTAN PEZZET, AVENUE UNITE ET BLACK RIVER ROAD",
+      "from": "2026-02-28T05:00:00.000Z",
+      "to": "2026-02-28T10:00:00.000Z",
+      "id": "797cfb8c0740a06602082654f1f2aeb5"
+    },
     {
       "date": "Le dimanche 25 janvier 2026 de  08:30:00 à  15:00:00",
       "streets": "DANS LES ENVIRONS DE ALBION ROAD, LOBIN LANE, NHDC VETIVER, MORC RAMDANEE, LA FORGE, FOYER FIAT ET UNE PARTIE DE LA ROUTE ROYALE",

@@ -1,0 +1,28 @@
+{
+  "date": "2026-02-28",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-02-25T09:14:19.991Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le samedi 28 février 2026 de  09:00:00 à  14:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "LES ABONNES DE MONTEE S PTE RIVIERE HABITANT DANS LES ENVIRONS DE CAMP BENOIT ROAD, MORC CHADY, GOLDSMITH ET UNE PARTIE DE TRISTAN PEZZET, AVENUE UNITE ET BLACK RIVER ROAD",
+      "district": "blackriver",
+      "from": "2026-02-28T05:00:00.000Z",
+      "to": "2026-02-28T10:00:00.000Z",
+      "id": "797cfb8c0740a06602082654f1f2aeb5"
+    },
+    {
+      "date": "Le samedi 28 février 2026 de  09:00:00 à  14:00:00",
+      "locality": "TOUR KOENIG",
+      "localitySlug": "tour-koenig",
+      "streets": "DANS LES ENVIRONS DE LA RUE CONCORDE",
+      "district": "portlouis",
+      "from": "2026-02-28T05:00:00.000Z",
+      "to": "2026-02-28T10:00:00.000Z",
+      "id": "2e06a785b990fb0e08abdfd0f16281a5"
+    }
+  ]
+}
