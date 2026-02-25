@@ -2,11 +2,18 @@
   "slug": "goodlands",
   "name": "GOODLANDS",
   "district": "rivieredurempart",
-  "generated": "2026-02-25T16:21:11.792Z",
-  "outageCount": 118,
+  "generated": "2026-02-25T17:19:55.191Z",
+  "outageCount": 119,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-02-14",
+  "lastOutage": "2026-02-25",
   "outages": [
+    {
+      "date": "Le mercredi 25 février 2026 de  21:00:00 à  23:00:00",
+      "streets": "DOMAINE DU MOULIN.",
+      "from": "2026-02-25T17:00:00.000Z",
+      "to": "2026-02-25T19:00:00.000Z",
+      "id": "0242c2bbe23a68c155df7f78df6aed7d"
+    },
     {
       "date": "Le samedi 14 février 2026 de  19:30:00 à  22:00:00",
       "streets": "MORC ST ANTOINE GOODLANDS.",
