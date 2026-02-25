@@ -2,11 +2,18 @@
   "slug": "flic-en-flac",
   "name": "FLIC-EN-FLAC",
   "district": "blackriver",
-  "generated": "2026-02-25T06:19:13.879Z",
-  "outageCount": 212,
+  "generated": "2026-02-25T07:19:03.869Z",
+  "outageCount": 213,
   "firstOutage": "2022-03-16",
-  "lastOutage": "2026-02-21",
+  "lastOutage": "2026-02-27",
   "outages": [
+    {
+      "date": "Le vendredi 27 février 2026 de  08:30:00 à  15:30:00",
+      "streets": "MORC BISMIC- AVE DES CACATOES, AVE DES FAUCONS, AVE DES CARDINAUX, AVE DES SERIN, AVE PIC PIC, AVE DES AIGLES, AVE DES HERONS ET AVE DES COCOTIERS",
+      "from": "2026-02-27T04:30:00.000Z",
+      "to": "2026-02-27T11:30:00.000Z",
+      "id": "56bedf58210c562449127133aa1ff3bc"
+    },
     {
       "date": "Le samedi 21 février 2026 de  08:30:00 à  15:30:00",
       "streets": "MORC ANNA - AVE MOULIN CASSE, AVE DES TRUITES, AVE DES MARLINS, AVE DES MEROUS, AVE DES MARSOUINS, AVE DES CAPITAINES, AVE SUNSET ET AVE SOUFFLEUR",

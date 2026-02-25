@@ -2,11 +2,18 @@
   "slug": "riviere-du-rempart",
   "name": "RIVIERE DU REMPART",
   "district": "rivieredurempart",
-  "generated": "2026-02-25T06:19:14.044Z",
-  "outageCount": 48,
+  "generated": "2026-02-25T07:19:04.040Z",
+  "outageCount": 49,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-02-23",
+  "lastOutage": "2026-02-25",
   "outages": [
+    {
+      "date": "Le mercredi 25 février 2026 de  10:30:00 à  12:00:00",
+      "streets": "PAVE RD-JUGNATH RD RIVIERE DU REMPART",
+      "from": "2026-02-25T06:30:00.000Z",
+      "to": "2026-02-25T08:00:00.000Z",
+      "id": "2afd5496b8d9cd9e0ee83bc32ec7e25f"
+    },
     {
       "date": "Le lundi 23 février 2026 de  09:40:00 à  10:30:00",
       "streets": "PAVE ROAD AND SURROUNDINGS",

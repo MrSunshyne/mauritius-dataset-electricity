@@ -1,9 +1,19 @@
 {
   "date": "2026-02-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-25T06:19:13.741Z",
-  "outageCount": 1,
+  "generated": "2026-02-25T07:19:03.728Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le vendredi 27 février 2026 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC BISMIC- AVE DES CACATOES, AVE DES FAUCONS, AVE DES CARDINAUX, AVE DES SERIN, AVE PIC PIC, AVE DES AIGLES, AVE DES HERONS ET AVE DES COCOTIERS",
+      "district": "blackriver",
+      "from": "2026-02-27T04:30:00.000Z",
+      "to": "2026-02-27T11:30:00.000Z",
+      "id": "56bedf58210c562449127133aa1ff3bc"
+    },
     {
       "date": "Le vendredi 27 février 2026 de  09:00:00 à  15:00:00",
       "locality": "UNION PARK",

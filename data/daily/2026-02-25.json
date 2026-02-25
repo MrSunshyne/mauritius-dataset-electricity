@@ -1,8 +1,8 @@
 {
   "date": "2026-02-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-25T06:19:13.741Z",
-  "outageCount": 5,
+  "generated": "2026-02-25T07:19:03.728Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le mercredi 25 février 2026 de  10:00:00 à  15:30:00",
@@ -35,6 +35,16 @@
       "id": "479939e6c3eaba2804b25df6d3f67407"
     },
     {
+      "date": "Le mercredi 25 février 2026 de  13:00:00 à  14:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "Part of Joory Lane and Seebaruth Lane",
+      "district": "plainewilhems",
+      "from": "2026-02-25T09:00:00.000Z",
+      "to": "2026-02-25T10:00:00.000Z",
+      "id": "d2b4e69c820857a32225dfe13b4b5acc"
+    },
+    {
       "date": "Le mercredi 25 février 2026 de  10:00:00 à  11:00:00",
       "locality": "PORT-LOUIS",
       "localitySlug": "port-louis",
@@ -53,6 +63,16 @@
       "from": "2026-02-25T04:00:00.000Z",
       "to": "2026-02-25T05:00:00.000Z",
       "id": "7737d4e5d3fd065592fea6b20caf254a"
+    },
+    {
+      "date": "Le mercredi 25 février 2026 de  10:30:00 à  12:00:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "PAVE RD-JUGNATH RD RIVIERE DU REMPART",
+      "district": "rivieredurempart",
+      "from": "2026-02-25T06:30:00.000Z",
+      "to": "2026-02-25T08:00:00.000Z",
+      "id": "2afd5496b8d9cd9e0ee83bc32ec7e25f"
     }
   ]
 }
