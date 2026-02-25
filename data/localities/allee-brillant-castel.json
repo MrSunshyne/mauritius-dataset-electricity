@@ -2,11 +2,18 @@
   "slug": "allee-brillant-castel",
   "name": "ALLEE BRILLANT CASTEL",
   "district": "plainewilhems",
-  "generated": "2026-02-25T10:15:12.018Z",
-  "outageCount": 7,
+  "generated": "2026-02-25T11:13:51.764Z",
+  "outageCount": 8,
   "firstOutage": "2023-07-06",
-  "lastOutage": "2025-12-18",
+  "lastOutage": "2026-02-26",
   "outages": [
+    {
+      "date": "Le jeudi 26 février 2026 de  11:30:00 à  12:45:00",
+      "streets": "Nabab Lane, Valentia Lane",
+      "from": "2026-02-26T07:30:00.000Z",
+      "to": "2026-02-26T08:45:00.000Z",
+      "id": "b150217d399cd54e4287198bbc83e93b"
+    },
     {
       "date": "Le jeudi 18 décembre 2025 de  13:00:00 à  17:00:00",
       "streets": "ALLEE BRILLANT CASTEL ET CITE LOYSEAU: Morc Sonah, Nabab Lane, Valentia Lane, une partie de Louis Souchon Streets, Disha Lane, Technical Lane, Froberville Lane, Hanoomanjee Lane",

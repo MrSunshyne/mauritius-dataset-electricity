@@ -2,11 +2,18 @@
   "slug": "barlow",
   "name": "BARLOW",
   "district": "rivieredurempart",
-  "generated": "2026-02-25T10:15:12.037Z",
-  "outageCount": 2,
+  "generated": "2026-02-25T11:13:51.783Z",
+  "outageCount": 3,
   "firstOutage": "2023-07-09",
-  "lastOutage": "2024-11-04",
+  "lastOutage": "2026-02-25",
   "outages": [
+    {
+      "date": "Le mercredi 25 février 2026 de  14:20:00 à  16:30:00",
+      "streets": "EN PARTIE VILLAGE BARLOW ET BEL VUE MAUREL",
+      "from": "2026-02-25T10:20:00.000Z",
+      "to": "2026-02-25T12:30:00.000Z",
+      "id": "5150ddd94d3922278e82cca08e414638"
+    },
     {
       "date": "Le lundi 4 novembre 2024 de  09:30:00 à  12:30:00",
       "streets": "ROYAL ROAD BARLOW",

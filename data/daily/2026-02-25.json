@@ -1,9 +1,19 @@
 {
   "date": "2026-02-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-25T10:15:12.004Z",
-  "outageCount": 8,
+  "generated": "2026-02-25T11:13:51.750Z",
+  "outageCount": 11,
   "outages": [
+    {
+      "date": "Le mercredi 25 février 2026 de  14:20:00 à  18:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "MORC TARA , VILLAGE COUNCIL RD ET LES ALENTOURS",
+      "district": "pamplemousses",
+      "from": "2026-02-25T10:20:00.000Z",
+      "to": "2026-02-25T14:00:00.000Z",
+      "id": "03fffafbd774b6e1a0095ce977a313bb"
+    },
     {
       "date": "Le mercredi 25 février 2026 de  10:00:00 à  15:30:00",
       "locality": "QUATRE-BORNES",
@@ -55,6 +65,16 @@
       "id": "d56be9f434d919801ac971ac42d37c5a"
     },
     {
+      "date": "Le mercredi 25 février 2026 de  15:00:00 à  15:25:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "BOUNDARY R HILL KANDA LANE, CACTUS LANE, LA RUE ORCHIDEE ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2026-02-25T11:00:00.000Z",
+      "to": "2026-02-25T11:25:00.000Z",
+      "id": "6c66120784c299209c91ecec1dfa286c"
+    },
+    {
       "date": "Le mercredi 25 février 2026 de  10:00:00 à  11:00:00",
       "locality": "PORT-LOUIS",
       "localitySlug": "port-louis",
@@ -83,6 +103,16 @@
       "from": "2026-02-25T06:30:00.000Z",
       "to": "2026-02-25T08:00:00.000Z",
       "id": "2afd5496b8d9cd9e0ee83bc32ec7e25f"
+    },
+    {
+      "date": "Le mercredi 25 février 2026 de  14:20:00 à  16:30:00",
+      "locality": "BARLOW",
+      "localitySlug": "barlow",
+      "streets": "EN PARTIE VILLAGE BARLOW ET BEL VUE MAUREL",
+      "district": "rivieredurempart",
+      "from": "2026-02-25T10:20:00.000Z",
+      "to": "2026-02-25T12:30:00.000Z",
+      "id": "5150ddd94d3922278e82cca08e414638"
     }
   ]
 }

@@ -2,11 +2,18 @@
   "slug": "terre-rouge",
   "name": "TERRE ROUGE",
   "district": "pamplemousses",
-  "generated": "2026-02-25T10:15:12.362Z",
-  "outageCount": 100,
+  "generated": "2026-02-25T11:13:52.086Z",
+  "outageCount": 101,
   "firstOutage": "2022-03-14",
-  "lastOutage": "2026-02-23",
+  "lastOutage": "2026-02-25",
   "outages": [
+    {
+      "date": "Le mercredi 25 février 2026 de  14:20:00 à  18:00:00",
+      "streets": "MORC TARA , VILLAGE COUNCIL RD ET LES ALENTOURS",
+      "from": "2026-02-25T10:20:00.000Z",
+      "to": "2026-02-25T14:00:00.000Z",
+      "id": "03fffafbd774b6e1a0095ce977a313bb"
+    },
     {
       "date": "Le lundi 23 février 2026 de  09:45:00 à  12:00:00",
       "streets": "CITE TOLE",
