@@ -1,8 +1,8 @@
 {
   "date": "2026-02-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-26T10:13:16.049Z",
-  "outageCount": 9,
+  "generated": "2026-02-26T11:13:10.284Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le jeudi 26 février 2026 de  11:30:00 à  13:00:00",
@@ -73,6 +73,16 @@
       "from": "2026-02-26T04:00:00.000Z",
       "to": "2026-02-26T06:30:00.000Z",
       "id": "3743d4be846c7c325a34e98cb6f03f46"
+    },
+    {
+      "date": "Le jeudi 26 février 2026 de  14:40:00 à  15:15:00",
+      "locality": "AMITIE",
+      "localitySlug": "amitie",
+      "streets": "BRAMSTHAN RD ET EN PARTIE ONE WAY RD ET LES ALENTOURS",
+      "district": "rivieredurempart",
+      "from": "2026-02-26T10:40:00.000Z",
+      "to": "2026-02-26T11:15:00.000Z",
+      "id": "c5856cdf9f724b21fa147a5c6e078ea8"
     },
     {
       "date": "Le jeudi 26 février 2026 de  08:30:00 à  16:00:00",

@@ -2,11 +2,18 @@
   "slug": "amitie",
   "name": "AMITIE",
   "district": "rivieredurempart",
-  "generated": "2026-02-26T10:13:16.069Z",
-  "outageCount": 12,
+  "generated": "2026-02-26T11:13:10.306Z",
+  "outageCount": 13,
   "firstOutage": "2022-04-28",
-  "lastOutage": "2025-12-05",
+  "lastOutage": "2026-02-26",
   "outages": [
+    {
+      "date": "Le jeudi 26 février 2026 de  14:40:00 à  15:15:00",
+      "streets": "BRAMSTHAN RD ET EN PARTIE ONE WAY RD ET LES ALENTOURS",
+      "from": "2026-02-26T10:40:00.000Z",
+      "to": "2026-02-26T11:15:00.000Z",
+      "id": "c5856cdf9f724b21fa147a5c6e078ea8"
+    },
     {
       "date": "Le vendredi 5 décembre 2025 de  00:30:00 à  12:00:00",
       "streets": "HIBISCUS LANE AMITIE",
