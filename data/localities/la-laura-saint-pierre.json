@@ -2,11 +2,18 @@
   "slug": "la-laura-saint-pierre",
   "name": "LA LAURA SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-02-26T09:13:09.837Z",
-  "outageCount": 19,
+  "generated": "2026-02-26T10:13:16.232Z",
+  "outageCount": 20,
   "firstOutage": "2022-11-23",
-  "lastOutage": "2026-02-04",
+  "lastOutage": "2026-02-28",
   "outages": [
+    {
+      "date": "Le samedi 28 février 2026 de  08:30:00 à  15:30:00",
+      "streets": "Village Malenga, Village La Laura et Roselyn Cottage",
+      "from": "2026-02-28T04:30:00.000Z",
+      "to": "2026-02-28T11:30:00.000Z",
+      "id": "bb9dbf15c5949d919246ebd7b21ec417"
+    },
     {
       "date": "Le mercredi 4 février 2026 de  16:00:00 à  17:30:00",
       "streets": "CHEMIN RIVERSIDE, CHEMIN PIETER BOTH ET LES ENVIRONS.",
