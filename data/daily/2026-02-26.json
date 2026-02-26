@@ -1,8 +1,8 @@
 {
   "date": "2026-02-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-26T16:14:51.798Z",
-  "outageCount": 10,
+  "generated": "2026-02-26T17:19:43.008Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le jeudi 26 février 2026 de  11:30:00 à  13:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-02-26T07:30:00.000Z",
       "to": "2026-02-26T13:00:00.000Z",
       "id": "6159fc7427f7673fa6d03099cfc33998"
+    },
+    {
+      "date": "Le jeudi 26 février 2026 de  20:50:00 à  00:30:00",
+      "locality": "SOLITUDE",
+      "localitySlug": "solitude",
+      "streets": "BURDWAZ ROAD SOLITUDE",
+      "district": "pamplemousses",
+      "from": "2026-02-26T16:50:00.000Z",
+      "to": "2026-02-25T20:30:00.000Z",
+      "id": "8528392cfd4d50486e6a3830a7959a5c"
     },
     {
       "date": "Le jeudi 26 février 2026 de  09:00:00 à  16:00:00",
