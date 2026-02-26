@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-02-25T18:17:18.813Z",
-  "outageCount": 203,
+  "generated": "2026-02-26T06:16:44.854Z",
+  "outageCount": 204,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-02-24",
+  "lastOutage": "2026-03-01",
   "outages": [
+    {
+      "date": "Le dimanche 1 mars 2026 de  08:30:00 à  15:30:00",
+      "streets": "dans les périmètres et rues suivantes : Lees St, Montochio Lane, Anderson St, Willouby St, Commerson St, La Croix St, Hugginson St, Nahabou St, Victor Hugo St, Baissac St, Maurel St, La Maletie St, Dalais St, Morc Senneville, Maxime Boulet St, Impasse Henry, Satar Lane, Impasse Maigrot, Ducrais St et Duperé St",
+      "from": "2026-03-01T04:30:00.000Z",
+      "to": "2026-03-01T11:30:00.000Z",
+      "id": "688eaca6a4a8b90845928a21da92b299"
+    },
     {
       "date": "Le mardi 24 février 2026 de  11:00:00 à  14:30:00",
       "streets": "SIR GAETAN DUVAL ROAD AND SURROUNDINGS",

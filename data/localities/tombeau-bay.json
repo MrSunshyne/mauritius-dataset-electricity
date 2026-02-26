@@ -2,11 +2,18 @@
   "slug": "tombeau-bay",
   "name": "TOMBEAU BAY",
   "district": "pamplemousses",
-  "generated": "2026-02-25T18:17:19.038Z",
-  "outageCount": 131,
+  "generated": "2026-02-26T06:16:45.075Z",
+  "outageCount": 132,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-02-22",
+  "lastOutage": "2026-02-26",
   "outages": [
+    {
+      "date": "Le jeudi 26 février 2026 de  08:50:00 à  17:00:00",
+      "streets": "CITE FLORIDA",
+      "from": "2026-02-26T04:50:00.000Z",
+      "to": "2026-02-26T13:00:00.000Z",
+      "id": "3b9094918faf895e2754b1094fa7f137"
+    },
     {
       "date": "Le dimanche 22 février 2026 de  08:30:00 à  14:30:00",
       "streets": "DANS LES ENVIRONS DE MORC COPRIM, MORC CONCORDE, MORC LA COCHEYLE, RESIDENCE FLORIDA, LAND SETTLEMENT, SAINT JOSEPH ROAD ET UNE PARTIE DE LA ROUTE COTIERE",

@@ -1,8 +1,8 @@
 {
   "date": "2026-03-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-25T18:17:18.687Z",
-  "outageCount": 2,
+  "generated": "2026-02-26T06:16:44.724Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le dimanche 1 mars 2026 de  08:30:00 à  15:00:00",
@@ -23,6 +23,36 @@
       "from": "2026-03-01T04:30:00.000Z",
       "to": "2026-03-01T11:00:00.000Z",
       "id": "39ece1ed88f4c6d08debc95c63b6598e"
+    },
+    {
+      "date": "Le dimanche 1 mars 2026 de  08:30:00 à  15:30:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "dans les périmètres et rues suivantes : Lees St, Montochio Lane, Anderson St, Willouby St, Commerson St, La Croix St, Hugginson St, Nahabou St, Victor Hugo St, Baissac St, Maurel St, La Maletie St, Dalais St, Morc Senneville, Maxime Boulet St, Impasse Henry, Satar Lane, Impasse Maigrot, Ducrais St et Duperé St",
+      "district": "plainewilhems",
+      "from": "2026-03-01T04:30:00.000Z",
+      "to": "2026-03-01T11:30:00.000Z",
+      "id": "688eaca6a4a8b90845928a21da92b299"
+    },
+    {
+      "date": "Le dimanche 1 mars 2026 de  13:00:00 à  14:00:00",
+      "locality": "TRANQUEBAR",
+      "localitySlug": "tranquebar",
+      "streets": "DANS LES ENVIRONS DES RUES CHATEAU DEAU, MAHATMA GANDHI, FRERE FELIX DE VALOIS ET PANDIT DHOORUNDUR",
+      "district": "portlouis",
+      "from": "2026-03-01T09:00:00.000Z",
+      "to": "2026-03-01T10:00:00.000Z",
+      "id": "5c521b2e244d6b3188b690c0f9018b5d"
+    },
+    {
+      "date": "Le dimanche 1 mars 2026 de  08:30:00 à  14:30:00",
+      "locality": "BELLE VUE MAUREL",
+      "localitySlug": "belle-vue-maurel",
+      "streets": "RUES ROYALE, SHIVALA, MORCELLEMENT CASIMIR, BELLE VUE MAUREL",
+      "district": "rivieredurempart",
+      "from": "2026-03-01T04:30:00.000Z",
+      "to": "2026-03-01T10:30:00.000Z",
+      "id": "7e8a6497910d1a5aa256aebb54aff279"
     }
   ]
 }

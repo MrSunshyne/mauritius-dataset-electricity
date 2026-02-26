@@ -1,8 +1,8 @@
 {
   "date": "2026-02-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-25T18:17:18.687Z",
-  "outageCount": 4,
+  "generated": "2026-02-26T06:16:44.724Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le jeudi 26 février 2026 de  09:00:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-02-26T05:00:00.000Z",
       "to": "2026-02-26T11:00:00.000Z",
       "id": "f18b554744af9428a8e6b5c09703b12b"
+    },
+    {
+      "date": "Le jeudi 26 février 2026 de  08:50:00 à  17:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "CITE FLORIDA",
+      "district": "pamplemousses",
+      "from": "2026-02-26T04:50:00.000Z",
+      "to": "2026-02-26T13:00:00.000Z",
+      "id": "3b9094918faf895e2754b1094fa7f137"
     },
     {
       "date": "Le jeudi 26 février 2026 de  09:00:00 à  16:00:00",
@@ -35,6 +45,16 @@
       "id": "b150217d399cd54e4287198bbc83e93b"
     },
     {
+      "date": "Le jeudi 26 février 2026 de  08:00:00 à  10:30:00",
+      "locality": "PLAINE VERTE",
+      "localitySlug": "plaine-verte",
+      "streets": "MAGON ST, ST FRANCOIS, NEAR DREAMPRICE",
+      "district": "portlouis",
+      "from": "2026-02-26T04:00:00.000Z",
+      "to": "2026-02-26T06:30:00.000Z",
+      "id": "3743d4be846c7c325a34e98cb6f03f46"
+    },
+    {
       "date": "Le jeudi 26 février 2026 de  08:30:00 à  16:00:00",
       "locality": "L-ESCALIER",
       "localitySlug": "l-escalier",
@@ -43,6 +63,16 @@
       "from": "2026-02-26T04:30:00.000Z",
       "to": "2026-02-26T12:00:00.000Z",
       "id": "c6fb32af804fb6007c024949be733e4e"
+    },
+    {
+      "date": "Le jeudi 26 février 2026 de  09:30:00 à  13:00:00",
+      "locality": "CHAMOUNY",
+      "localitySlug": "chamouny",
+      "streets": "RIVER WALK RD-SAWMILL CHAMOUNY",
+      "district": "savanne",
+      "from": "2026-02-26T05:30:00.000Z",
+      "to": "2026-02-26T09:00:00.000Z",
+      "id": "99f5e6e67762736ba131900179561492"
     }
   ]
 }

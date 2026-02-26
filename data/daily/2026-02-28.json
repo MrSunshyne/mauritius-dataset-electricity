@@ -1,8 +1,8 @@
 {
   "date": "2026-02-28",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-25T18:17:18.687Z",
-  "outageCount": 2,
+  "generated": "2026-02-26T06:16:44.724Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le samedi 28 février 2026 de  09:00:00 à  14:00:00",
@@ -23,6 +23,36 @@
       "from": "2026-02-28T05:00:00.000Z",
       "to": "2026-02-28T10:00:00.000Z",
       "id": "2e06a785b990fb0e08abdfd0f16281a5"
+    },
+    {
+      "date": "Le samedi 28 février 2026 de  09:00:00 à  10:00:00",
+      "locality": "TRANQUEBAR",
+      "localitySlug": "tranquebar",
+      "streets": "DANS LES ENVIRONS DES RUES CHATEAU DEAU, MAHATMA GANDHI, FRERE FELIX DE VALOIS ET PANDIT DHOORUNDUR",
+      "district": "portlouis",
+      "from": "2026-02-28T05:00:00.000Z",
+      "to": "2026-02-28T06:00:00.000Z",
+      "id": "43078ce1b89e54417fd43309b6a18b95"
+    },
+    {
+      "date": "Le samedi 28 février 2026 de  09:00:00 à  14:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "RUE GERANIUM GRAND BAY",
+      "district": "rivieredurempart",
+      "from": "2026-02-28T05:00:00.000Z",
+      "to": "2026-02-28T10:00:00.000Z",
+      "id": "67b55de935da87d46fb57b3f226974e1"
+    },
+    {
+      "date": "Le samedi 28 février 2026 de  08:30:00 à  15:30:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "JAGNAUTH ROAD, PAVE ROAD, JOOMUN ROAD RIVIERE DU REMPART",
+      "district": "rivieredurempart",
+      "from": "2026-02-28T04:30:00.000Z",
+      "to": "2026-02-28T11:30:00.000Z",
+      "id": "7762587f92d8c275e2641cce82abc749"
     }
   ]
 }

@@ -2,11 +2,18 @@
   "slug": "mapou",
   "name": "MAPOU",
   "district": "rivieredurempart",
-  "generated": "2026-02-25T18:17:18.893Z",
-  "outageCount": 12,
+  "generated": "2026-02-26T06:16:44.932Z",
+  "outageCount": 13,
   "firstOutage": "2022-05-22",
-  "lastOutage": "2026-02-23",
+  "lastOutage": "2026-03-02",
   "outages": [
+    {
+      "date": "Le lundi 2 mars 2026 de  08:30:00 à  16:00:00",
+      "streets": "Mapou Le Ferrette et Pumping Station, Mapou",
+      "from": "2026-03-02T04:30:00.000Z",
+      "to": "2026-03-02T12:00:00.000Z",
+      "id": "106418280789b0e41423ee1dee5543da"
+    },
     {
       "date": "Le lundi 23 février 2026 de  11:00:00 à  14:00:00",
       "streets": "MAPOU LE FERRET",

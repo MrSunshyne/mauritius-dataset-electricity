@@ -2,11 +2,25 @@
   "slug": "tranquebar",
   "name": "TRANQUEBAR",
   "district": "portlouis",
-  "generated": "2026-02-25T18:17:19.040Z",
-  "outageCount": 19,
+  "generated": "2026-02-26T06:16:45.077Z",
+  "outageCount": 21,
   "firstOutage": "2022-06-20",
-  "lastOutage": "2026-01-26",
+  "lastOutage": "2026-03-01",
   "outages": [
+    {
+      "date": "Le dimanche 1 mars 2026 de  13:00:00 à  14:00:00",
+      "streets": "DANS LES ENVIRONS DES RUES CHATEAU DEAU, MAHATMA GANDHI, FRERE FELIX DE VALOIS ET PANDIT DHOORUNDUR",
+      "from": "2026-03-01T09:00:00.000Z",
+      "to": "2026-03-01T10:00:00.000Z",
+      "id": "5c521b2e244d6b3188b690c0f9018b5d"
+    },
+    {
+      "date": "Le samedi 28 février 2026 de  09:00:00 à  10:00:00",
+      "streets": "DANS LES ENVIRONS DES RUES CHATEAU DEAU, MAHATMA GANDHI, FRERE FELIX DE VALOIS ET PANDIT DHOORUNDUR",
+      "from": "2026-02-28T05:00:00.000Z",
+      "to": "2026-02-28T06:00:00.000Z",
+      "id": "43078ce1b89e54417fd43309b6a18b95"
+    },
     {
       "date": "Le lundi 26 janvier 2026 de  09:30:00 à  13:00:00",
       "streets": "G. GIQUEL ST-MAYER ST T-BAR",
