@@ -2,11 +2,18 @@
   "slug": "valetta",
   "name": "VALETTA",
   "district": "moka",
-  "generated": "2026-02-26T07:18:52.127Z",
-  "outageCount": 16,
+  "generated": "2026-02-26T08:08:50.803Z",
+  "outageCount": 17,
   "firstOutage": "2022-11-24",
-  "lastOutage": "2025-12-04",
+  "lastOutage": "2026-02-26",
   "outages": [
+    {
+      "date": "Le jeudi 26 février 2026 de  11:30:00 à  13:00:00",
+      "streets": "LA DIGUE-VAYAPOOREE RD-ROYAL RD VALETTE",
+      "from": "2026-02-26T07:30:00.000Z",
+      "to": "2026-02-26T09:00:00.000Z",
+      "id": "039708cdc2ad33e4e8d87e9f12977d8e"
+    },
     {
       "date": "Le jeudi 4 décembre 2025 de  09:00:00 à  14:00:00",
       "streets": "VRS Valetta",

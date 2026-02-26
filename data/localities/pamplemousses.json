@@ -2,11 +2,18 @@
   "slug": "pamplemousses",
   "name": "PAMPLEMOUSSES",
   "district": "pamplemousses",
-  "generated": "2026-02-26T07:18:52.011Z",
-  "outageCount": 56,
+  "generated": "2026-02-26T08:08:50.694Z",
+  "outageCount": 57,
   "firstOutage": "2022-05-08",
-  "lastOutage": "2026-02-19",
+  "lastOutage": "2026-02-26",
   "outages": [
+    {
+      "date": "Le jeudi 26 février 2026 de  11:30:00 à  17:00:00",
+      "streets": "CANTON NANCY STREETPAMPLEMOUSSES",
+      "from": "2026-02-26T07:30:00.000Z",
+      "to": "2026-02-26T13:00:00.000Z",
+      "id": "6159fc7427f7673fa6d03099cfc33998"
+    },
     {
       "date": "Le jeudi 19 février 2026 de  14:00:00 à  15:30:00",
       "streets": "PAMPLEMOUSSES, CALEBASS, BEAU PLAN, SSS, HAMSTEAD AND SURROUNDINGS",
