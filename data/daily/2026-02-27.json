@@ -1,8 +1,8 @@
 {
   "date": "2026-02-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-27T11:08:59.918Z",
-  "outageCount": 3,
+  "generated": "2026-02-27T12:04:40.334Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le vendredi 27 février 2026 de  08:30:00 à  15:30:00",
@@ -33,6 +33,16 @@
       "from": "2026-02-27T05:40:00.000Z",
       "to": "2026-02-27T06:45:00.000Z",
       "id": "8f702858b05fe860bb37377e660b2422"
+    },
+    {
+      "date": "Le vendredi 27 février 2026 de  15:40:00 à  18:00:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "PART OF PAILLES ROAD, PART OF CAMP CHAPELON, SOREZE, MONTEBELLO, PART OF GRNW.",
+      "district": "portlouis",
+      "from": "2026-02-27T11:40:00.000Z",
+      "to": "2026-02-27T14:00:00.000Z",
+      "id": "aa1cd13be16b2c5a0165dc38b7d0ea1c"
     }
   ]
 }
