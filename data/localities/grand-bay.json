@@ -2,8 +2,8 @@
   "slug": "grand-bay",
   "name": "GRAND BAY",
   "district": "rivieredurempart",
-  "generated": "2026-02-27T13:22:37.831Z",
-  "outageCount": 99,
+  "generated": "2026-02-27T14:11:02.392Z",
+  "outageCount": 100,
   "firstOutage": "2022-03-20",
   "lastOutage": "2026-02-28",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-02-28T05:00:00.000Z",
       "to": "2026-02-28T10:00:00.000Z",
       "id": "67b55de935da87d46fb57b3f226974e1"
+    },
+    {
+      "date": "Le vendredi 27 février 2026 de  15:30:00 à  21:00:00",
+      "streets": "DOMAINE DE GRAND BAIE A L-ARRIERE MON CHOISY MALL.",
+      "from": "2026-02-27T11:30:00.000Z",
+      "to": "2026-02-27T17:00:00.000Z",
+      "id": "090660ef13999608c79d5043de0f4bc7"
     },
     {
       "date": "Le vendredi 20 février 2026 de  09:30:00 à  18:00:00",

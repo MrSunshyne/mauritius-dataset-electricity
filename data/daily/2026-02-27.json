@@ -1,8 +1,8 @@
 {
   "date": "2026-02-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-27T13:22:37.684Z",
-  "outageCount": 5,
+  "generated": "2026-02-27T14:11:02.215Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le vendredi 27 février 2026 de  08:30:00 à  15:30:00",
@@ -35,14 +35,14 @@
       "id": "8f702858b05fe860bb37377e660b2422"
     },
     {
-      "date": "Le vendredi 27 février 2026 de  15:40:00 à  18:00:00",
+      "date": "Le vendredi 27 février 2026 de  15:40:00 à  19:30:00",
       "locality": "PAILLES",
       "localitySlug": "pailles",
-      "streets": "PART OF PAILLES ROAD, PART OF CAMP CHAPELON, SOREZE, MONTEBELLO, PART OF GRNW.",
+      "streets": "PART OF PAILLES ROAD, PART OF CAMP CHAPELON, SOREZE, MONTEBELLO, CITE JONCTION, MICHEAL LEAL, CWA CHLORINATION.",
       "district": "portlouis",
       "from": "2026-02-27T11:40:00.000Z",
-      "to": "2026-02-27T14:00:00.000Z",
-      "id": "aa1cd13be16b2c5a0165dc38b7d0ea1c"
+      "to": "2026-02-27T15:30:00.000Z",
+      "id": "a7bca7e496adc2e12007d829f9b824f8"
     },
     {
       "date": "Le vendredi 27 février 2026 de  16:05:00 à  18:30:00",
@@ -53,6 +53,16 @@
       "from": "2026-02-27T12:05:00.000Z",
       "to": "2026-02-27T14:30:00.000Z",
       "id": "57617f99ae78c8ea3003fe00ae47e521"
+    },
+    {
+      "date": "Le vendredi 27 février 2026 de  15:30:00 à  21:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "DOMAINE DE GRAND BAIE A L-ARRIERE MON CHOISY MALL.",
+      "district": "rivieredurempart",
+      "from": "2026-02-27T11:30:00.000Z",
+      "to": "2026-02-27T17:00:00.000Z",
+      "id": "090660ef13999608c79d5043de0f4bc7"
     }
   ]
 }
