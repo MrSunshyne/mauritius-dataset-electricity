@@ -2,11 +2,18 @@
   "slug": "vallee-pitot",
   "name": "VALLEE PITOT",
   "district": "portlouis",
-  "generated": "2026-02-27T07:16:14.387Z",
-  "outageCount": 32,
+  "generated": "2026-02-27T08:07:36.617Z",
+  "outageCount": 33,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-01-27",
+  "lastOutage": "2026-03-02",
   "outages": [
+    {
+      "date": "Le lundi 2 mars 2026 de  08:30:00 à  12:00:00",
+      "streets": "DANS LES ENVIRONS DES RUES ALMA, CHALET ET CROWN LAND",
+      "from": "2026-03-02T04:30:00.000Z",
+      "to": "2026-03-02T08:00:00.000Z",
+      "id": "60ec59c884520a23b9b3a709d2920758"
+    },
     {
       "date": "Le mardi 27 janvier 2026 de  10:50:00 à  12:30:00",
       "streets": "CHALET ST, EID GAH ST, ALMA ST ET LES ALENTOURS",
