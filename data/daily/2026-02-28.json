@@ -1,8 +1,8 @@
 {
   "date": "2026-02-28",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-27T10:09:19.204Z",
-  "outageCount": 7,
+  "generated": "2026-02-27T11:08:59.918Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le samedi 28 février 2026 de  09:00:00 à  14:00:00",
@@ -73,6 +73,16 @@
       "from": "2026-02-28T04:30:00.000Z",
       "to": "2026-02-28T11:30:00.000Z",
       "id": "7762587f92d8c275e2641cce82abc749"
+    },
+    {
+      "date": "Le samedi 28 février 2026 de  08:30:00 à  15:00:00",
+      "locality": "CREVE COEUR(RODRIGUES)",
+      "localitySlug": "creve-coeur",
+      "streets": "ROSEAUX",
+      "district": "rodrigues",
+      "from": "2026-02-28T04:30:00.000Z",
+      "to": "2026-02-28T11:00:00.000Z",
+      "id": "867e709885dc9436adf9f7584ff404f7"
     }
   ]
 }

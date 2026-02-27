@@ -2,11 +2,18 @@
   "slug": "english-bay",
   "name": "ENGLISH BAY(RODRIGUES)",
   "district": "rodrigues",
-  "generated": "2026-02-27T10:09:19.339Z",
-  "outageCount": 7,
+  "generated": "2026-02-27T11:09:00.054Z",
+  "outageCount": 8,
   "firstOutage": "2022-06-24",
-  "lastOutage": "2025-11-28",
+  "lastOutage": "2026-03-01",
   "outages": [
+    {
+      "date": "Le dimanche 1 mars 2026 de  08:30:00 à  15:00:00",
+      "streets": "JEAN TAC",
+      "from": "2026-03-01T04:30:00.000Z",
+      "to": "2026-03-01T11:00:00.000Z",
+      "id": "72fbaa837a7dea5d3b6d06af41a35918"
+    },
     {
       "date": "Le vendredi 28 novembre 2025 de  08:30:00 à  10:00:00",
       "streets": "Terre Rouge (Morcellement), Caverne Provert et Jean Tac",
