@@ -2,11 +2,18 @@
   "slug": "cite-chebel",
   "name": "CITE CHEBEL",
   "district": "plainewilhems",
-  "generated": "2026-02-27T09:10:38.565Z",
-  "outageCount": 29,
+  "generated": "2026-02-27T10:09:19.310Z",
+  "outageCount": 30,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-01-22",
+  "lastOutage": "2026-02-28",
   "outages": [
+    {
+      "date": "Le samedi 28 février 2026 de  08:30:00 à  14:00:00",
+      "streets": "Ave Parakeet, Ave Pink Pigeon et les environs",
+      "from": "2026-02-28T04:30:00.000Z",
+      "to": "2026-02-28T10:00:00.000Z",
+      "id": "6b4dc7fc3e31d90a400b9d5a0643f6d6"
+    },
     {
       "date": "Le jeudi 22 janvier 2026 de  18:15:00 à  22:00:00",
       "streets": "RESIDENCE TROCHETIA, KOVIL CHEBEL, PRISON RICHELIEU, CAMP BERTLOT ET DANS LES ENVIRONS DE CHEBEL BRANCH ROAD",

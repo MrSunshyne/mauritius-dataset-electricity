@@ -1,8 +1,8 @@
 {
   "date": "2026-03-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-27T09:10:38.461Z",
-  "outageCount": 5,
+  "generated": "2026-02-27T10:09:19.204Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le dimanche 1 mars 2026 de  08:30:00 à  15:00:00",
@@ -33,6 +33,36 @@
       "from": "2026-03-01T04:30:00.000Z",
       "to": "2026-03-01T11:30:00.000Z",
       "id": "688eaca6a4a8b90845928a21da92b299"
+    },
+    {
+      "date": "Le dimanche 1 mars 2026 de  08:30:00 à  15:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave Buswell, Commerson, Impasse La Coste, Hydepark Complex, Park Lane, Le Camphrier Complex, Ornix Complex et Newry Complex",
+      "district": "plainewilhems",
+      "from": "2026-03-01T04:30:00.000Z",
+      "to": "2026-03-01T11:00:00.000Z",
+      "id": "8eadf69d39d291338943925d721d21f0"
+    },
+    {
+      "date": "Le dimanche 1 mars 2026 de  08:30:00 à  12:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Vandermeersch, Ave Suffren, Flat Conal et les environs",
+      "district": "plainewilhems",
+      "from": "2026-03-01T04:30:00.000Z",
+      "to": "2026-03-01T08:00:00.000Z",
+      "id": "5114874c0cd8a1adca7394c74aade4b0"
+    },
+    {
+      "date": "Le dimanche 1 mars 2026 de  11:00:00 à  14:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Ave Sholtoo Douglas, Ave Napier Broom et les environs",
+      "district": "plainewilhems",
+      "from": "2026-03-01T07:00:00.000Z",
+      "to": "2026-03-01T10:00:00.000Z",
+      "id": "ba63f423a1cb9adcec20230fd2990b53"
     },
     {
       "date": "Le dimanche 1 mars 2026 de  13:00:00 à  14:00:00",
