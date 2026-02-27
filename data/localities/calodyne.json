@@ -2,11 +2,18 @@
   "slug": "calodyne",
   "name": "CALODYNE",
   "district": "rivieredurempart",
-  "generated": "2026-02-27T12:04:40.409Z",
-  "outageCount": 33,
+  "generated": "2026-02-27T13:22:37.754Z",
+  "outageCount": 34,
   "firstOutage": "2022-09-10",
-  "lastOutage": "2026-01-31",
+  "lastOutage": "2026-02-27",
   "outages": [
+    {
+      "date": "Le vendredi 27 février 2026 de  16:05:00 à  18:30:00",
+      "streets": "CHEMIN MIRABELLE CALODYNE SUR MER.",
+      "from": "2026-02-27T12:05:00.000Z",
+      "to": "2026-02-27T14:30:00.000Z",
+      "id": "57617f99ae78c8ea3003fe00ae47e521"
+    },
     {
       "date": "Le samedi 31 janvier 2026 de  12:00:00 à  16:00:00",
       "streets": "CHEVREAU LANE CALODYNE",

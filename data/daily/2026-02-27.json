@@ -1,8 +1,8 @@
 {
   "date": "2026-02-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-27T12:04:40.334Z",
-  "outageCount": 4,
+  "generated": "2026-02-27T13:22:37.684Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le vendredi 27 février 2026 de  08:30:00 à  15:30:00",
@@ -43,6 +43,16 @@
       "from": "2026-02-27T11:40:00.000Z",
       "to": "2026-02-27T14:00:00.000Z",
       "id": "aa1cd13be16b2c5a0165dc38b7d0ea1c"
+    },
+    {
+      "date": "Le vendredi 27 février 2026 de  16:05:00 à  18:30:00",
+      "locality": "CALODYNE",
+      "localitySlug": "calodyne",
+      "streets": "CHEMIN MIRABELLE CALODYNE SUR MER.",
+      "district": "rivieredurempart",
+      "from": "2026-02-27T12:05:00.000Z",
+      "to": "2026-02-27T14:30:00.000Z",
+      "id": "57617f99ae78c8ea3003fe00ae47e521"
     }
   ]
 }
