@@ -1,8 +1,8 @@
 {
   "date": "2026-02-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-26T18:11:01.865Z",
-  "outageCount": 2,
+  "generated": "2026-02-27T06:12:55.236Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le vendredi 27 février 2026 de  08:30:00 à  15:30:00",
@@ -23,6 +23,16 @@
       "from": "2026-02-27T05:00:00.000Z",
       "to": "2026-02-27T11:00:00.000Z",
       "id": "a23e37d97fe6007994793a14e2bea9c4"
+    },
+    {
+      "date": "Le vendredi 27 février 2026 de  09:40:00 à  10:45:00",
+      "locality": "CINQ ARPENTS",
+      "localitySlug": "cinq-arpents",
+      "streets": "CINQ ARPENTS",
+      "district": "plainewilhems",
+      "from": "2026-02-27T05:40:00.000Z",
+      "to": "2026-02-27T06:45:00.000Z",
+      "id": "8f702858b05fe860bb37377e660b2422"
     }
   ]
 }

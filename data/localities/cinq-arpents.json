@@ -2,11 +2,18 @@
   "slug": "cinq-arpents",
   "name": "CINQ ARPENTS",
   "district": "plainewilhems",
-  "generated": "2026-02-26T18:11:01.967Z",
-  "outageCount": 6,
+  "generated": "2026-02-27T06:12:55.340Z",
+  "outageCount": 7,
   "firstOutage": "2022-06-05",
-  "lastOutage": "2024-12-30",
+  "lastOutage": "2026-02-27",
   "outages": [
+    {
+      "date": "Le vendredi 27 février 2026 de  09:40:00 à  10:45:00",
+      "streets": "CINQ ARPENTS",
+      "from": "2026-02-27T05:40:00.000Z",
+      "to": "2026-02-27T06:45:00.000Z",
+      "id": "8f702858b05fe860bb37377e660b2422"
+    },
     {
       "date": "Le lundi 30 décembre 2024 de  09:00:00 à  16:00:00",
       "streets": "Cinq Arpents",
