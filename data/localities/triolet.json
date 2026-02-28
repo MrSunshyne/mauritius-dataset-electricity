@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-02-27T18:06:22.657Z",
-  "outageCount": 118,
+  "generated": "2026-02-28T06:03:41.198Z",
+  "outageCount": 119,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-02-26",
+  "lastOutage": "2026-02-28",
   "outages": [
+    {
+      "date": "Le samedi 28 février 2026 de  02:30:00 à  12:00:00",
+      "streets": "M.GANDI RD,N D DE FATIMA RD,TBS LANE,TERMINUS",
+      "from": "2026-02-27T22:30:00.000Z",
+      "to": "2026-02-27T08:00:00.000Z",
+      "id": "f5680e4dedd857c2b975a47b11e14bb3"
+    },
     {
       "date": "Le jeudi 26 février 2026 de  09:00:00 à  15:00:00",
       "streets": "Dans les environs de Mahatma Gandhi road",

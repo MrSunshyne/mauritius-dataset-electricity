@@ -1,8 +1,8 @@
 {
   "date": "2026-02-28",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-27T18:06:22.308Z",
-  "outageCount": 8,
+  "generated": "2026-02-28T06:03:40.838Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le samedi 28 février 2026 de  09:00:00 à  14:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-02-28T04:30:00.000Z",
       "to": "2026-02-28T11:30:00.000Z",
       "id": "bb9dbf15c5949d919246ebd7b21ec417"
+    },
+    {
+      "date": "Le samedi 28 février 2026 de  02:30:00 à  12:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "M.GANDI RD,N D DE FATIMA RD,TBS LANE,TERMINUS",
+      "district": "pamplemousses",
+      "from": "2026-02-27T22:30:00.000Z",
+      "to": "2026-02-27T08:00:00.000Z",
+      "id": "f5680e4dedd857c2b975a47b11e14bb3"
     },
     {
       "date": "Le samedi 28 février 2026 de  08:30:00 à  14:00:00",
