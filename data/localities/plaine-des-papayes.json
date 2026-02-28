@@ -2,11 +2,18 @@
   "slug": "plaine-des-papayes",
   "name": "PLAINE DES PAPAYES",
   "district": "pamplemousses",
-  "generated": "2026-02-28T15:01:01.256Z",
-  "outageCount": 37,
+  "generated": "2026-02-28T16:01:25.957Z",
+  "outageCount": 38,
   "firstOutage": "2022-05-22",
-  "lastOutage": "2026-02-16",
+  "lastOutage": "2026-02-28",
   "outages": [
+    {
+      "date": "Le samedi 28 février 2026 de  18:40:00 à  23:00:00",
+      "streets": "CAMP MARAZ RD ET LES ALENTOURS.",
+      "from": "2026-02-28T14:40:00.000Z",
+      "to": "2026-02-28T19:00:00.000Z",
+      "id": "3e841c8442445155cd589a72879b1718"
+    },
     {
       "date": "Le lundi 16 février 2026 de  02:00:00 à  12:00:00",
       "streets": "PL DES PAPAYES",
