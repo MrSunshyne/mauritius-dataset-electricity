@@ -2,11 +2,18 @@
   "slug": "argy",
   "name": "ARGY",
   "district": "flacq",
-  "generated": "2026-02-28T06:03:40.859Z",
-  "outageCount": 23,
+  "generated": "2026-02-28T07:06:11.908Z",
+  "outageCount": 24,
   "firstOutage": "2023-04-27",
-  "lastOutage": "2025-12-10",
+  "lastOutage": "2026-02-28",
   "outages": [
+    {
+      "date": "Le samedi 28 février 2026 de  10:55:00 à  14:00:00",
+      "streets": "ARGT, RICHE MARE, BOULET ROUGE, LA SOUCE",
+      "from": "2026-02-28T06:55:00.000Z",
+      "to": "2026-02-28T10:00:00.000Z",
+      "id": "b3766f819fd6eadd6563798da01238f5"
+    },
     {
       "date": "Le mercredi 10 décembre 2025 de  14:00:00 à  17:00:00",
       "streets": "ARGY, NEHRU NAGAR, LA PORTE PROVIDENCE.",
