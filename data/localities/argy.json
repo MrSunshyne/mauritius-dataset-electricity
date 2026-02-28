@@ -2,11 +2,18 @@
   "slug": "argy",
   "name": "ARGY",
   "district": "flacq",
-  "generated": "2026-02-28T09:03:12.131Z",
-  "outageCount": 24,
+  "generated": "2026-02-28T10:01:03.978Z",
+  "outageCount": 25,
   "firstOutage": "2023-04-27",
-  "lastOutage": "2026-02-28",
+  "lastOutage": "2026-03-01",
   "outages": [
+    {
+      "date": "Le dimanche 1 mars 2026 de  00:00:00 à  16:00:00",
+      "streets": "CWA",
+      "from": "2026-02-28T20:00:00.000Z",
+      "to": "2026-02-28T12:00:00.000Z",
+      "id": "92117d98dfa84ed3a9e27a779cf82e5c"
+    },
     {
       "date": "Le samedi 28 février 2026 de  10:55:00 à  14:00:00",
       "streets": "ARGT, RICHE MARE, BOULET ROUGE, LA SOUCE",

@@ -1,9 +1,19 @@
 {
   "date": "2026-03-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-28T09:03:12.111Z",
-  "outageCount": 9,
+  "generated": "2026-02-28T10:01:03.958Z",
+  "outageCount": 10,
   "outages": [
+    {
+      "date": "Le dimanche 1 mars 2026 de  00:00:00 à  16:00:00",
+      "locality": "ARGY",
+      "localitySlug": "argy",
+      "streets": "CWA",
+      "district": "flacq",
+      "from": "2026-02-28T20:00:00.000Z",
+      "to": "2026-02-28T12:00:00.000Z",
+      "id": "92117d98dfa84ed3a9e27a779cf82e5c"
+    },
     {
       "date": "Le dimanche 1 mars 2026 de  08:30:00 à  15:00:00",
       "locality": "ARSENAL",
