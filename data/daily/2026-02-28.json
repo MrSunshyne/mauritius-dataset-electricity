@@ -1,8 +1,8 @@
 {
   "date": "2026-02-28",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-02-28T17:01:27.640Z",
-  "outageCount": 11,
+  "generated": "2026-02-28T18:01:48.010Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le samedi 28 février 2026 de  09:00:00 à  14:00:00",
@@ -35,6 +35,16 @@
       "id": "bb9dbf15c5949d919246ebd7b21ec417"
     },
     {
+      "date": "Le samedi 28 février 2026 de  21:00:00 à  02:00:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "CHEMIN ROUSETTE-BRANCHE RD- ROYAL RD PETIT VERGER ST PIERRE",
+      "district": "moka",
+      "from": "2026-02-28T17:00:00.000Z",
+      "to": "2026-02-27T22:00:00.000Z",
+      "id": "258ca0ed7c4ff8345883a621b56109fe"
+    },
+    {
       "date": "Le samedi 28 février 2026 de  02:30:00 à  12:00:00",
       "locality": "TRIOLET",
       "localitySlug": "triolet",
@@ -53,6 +63,16 @@
       "from": "2026-02-28T14:40:00.000Z",
       "to": "2026-02-28T19:00:00.000Z",
       "id": "3e841c8442445155cd589a72879b1718"
+    },
+    {
+      "date": "Le samedi 28 février 2026 de  21:30:00 à  02:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "SHIVALAH RD TRIOLET",
+      "district": "pamplemousses",
+      "from": "2026-02-28T17:30:00.000Z",
+      "to": "2026-02-27T22:00:00.000Z",
+      "id": "ed92fcc982d60e36046a11341d82786e"
     },
     {
       "date": "Le samedi 28 février 2026 de  08:30:00 à  14:00:00",

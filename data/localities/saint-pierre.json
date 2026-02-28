@@ -2,11 +2,18 @@
   "slug": "saint-pierre",
   "name": "SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-02-28T17:01:27.968Z",
-  "outageCount": 58,
+  "generated": "2026-02-28T18:01:48.330Z",
+  "outageCount": 59,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-02-22",
+  "lastOutage": "2026-02-28",
   "outages": [
+    {
+      "date": "Le samedi 28 février 2026 de  21:00:00 à  02:00:00",
+      "streets": "CHEMIN ROUSETTE-BRANCHE RD- ROYAL RD PETIT VERGER ST PIERRE",
+      "from": "2026-02-28T17:00:00.000Z",
+      "to": "2026-02-27T22:00:00.000Z",
+      "id": "258ca0ed7c4ff8345883a621b56109fe"
+    },
     {
       "date": "Le dimanche 22 février 2026 de  08:30:00 à  15:30:00",
       "streets": "LÁGREMENT ET CIRCONSTANCE ST PIERRE - MDA ESTATE, CEMETRY RD,NHDC VINYOL, ST CATHERINE RESIDENCE, TEMPLE LANE, CHEMIN LA MARE,MORC DEMARAIS, SHIVALA RD",
