@@ -2,11 +2,18 @@
   "slug": "amaury",
   "name": "AMAURY",
   "district": "rivieredurempart",
-  "generated": "2026-03-01T09:03:41.467Z",
-  "outageCount": 23,
+  "generated": "2026-03-01T10:01:46.934Z",
+  "outageCount": 24,
   "firstOutage": "2022-06-30",
-  "lastOutage": "2025-12-30",
+  "lastOutage": "2026-03-01",
   "outages": [
+    {
+      "date": "Le dimanche 1 mars 2026 de  13:40:00 à  17:30:00",
+      "streets": "ROYAL ROAD DANS LES ENVIRONS SUPERMARCHE CRAZY PRICE, SHIVALA ROAD ET LES ALENTOURS.",
+      "from": "2026-03-01T09:40:00.000Z",
+      "to": "2026-03-01T13:30:00.000Z",
+      "id": "16621e5260263f51b941eda02c331433"
+    },
     {
       "date": "Le mardi 30 décembre 2025 de  00:30:00 à  10:00:00",
       "streets": "Temple Road",
