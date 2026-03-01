@@ -1,8 +1,8 @@
 {
   "date": "2026-03-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-01T07:11:21.917Z",
-  "outageCount": 12,
+  "generated": "2026-03-01T08:01:46.152Z",
+  "outageCount": 14,
   "outages": [
     {
       "date": "Le dimanche 1 mars 2026 de  00:00:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-02-28T20:00:00.000Z",
       "to": "2026-02-28T12:00:00.000Z",
       "id": "92117d98dfa84ed3a9e27a779cf82e5c"
+    },
+    {
+      "date": "Le dimanche 1 mars 2026 de  11:45:00 à  12:30:00",
+      "locality": "ARGY",
+      "localitySlug": "argy",
+      "streets": "MOSTLY COMMERCIAL CUSTOMERS(ABOUT 10)",
+      "district": "flacq",
+      "from": "2026-03-01T07:45:00.000Z",
+      "to": "2026-03-01T08:30:00.000Z",
+      "id": "7f1f90fb7771a9bc91aee705ed687200"
     },
     {
       "date": "Le dimanche 1 mars 2026 de  08:30:00 à  15:00:00",
@@ -83,6 +93,16 @@
       "from": "2026-03-01T07:00:00.000Z",
       "to": "2026-03-01T10:00:00.000Z",
       "id": "ba63f423a1cb9adcec20230fd2990b53"
+    },
+    {
+      "date": "Le dimanche 1 mars 2026 de  11:30:00 à  13:30:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "ROYAL RD,SOOBARAH LANR,BISSESSUR LANE AND NEARBY REGION",
+      "district": "plainewilhems",
+      "from": "2026-03-01T07:30:00.000Z",
+      "to": "2026-03-01T09:30:00.000Z",
+      "id": "fe6d1345ee997e9f364174ef34377180"
     },
     {
       "date": "Le dimanche 1 mars 2026 de  13:00:00 à  14:00:00",

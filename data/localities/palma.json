@@ -2,11 +2,18 @@
   "slug": "palma",
   "name": "PALMA",
   "district": "plainewilhems",
-  "generated": "2026-03-01T07:11:22.176Z",
-  "outageCount": 56,
+  "generated": "2026-03-01T08:01:46.387Z",
+  "outageCount": 57,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-02-23",
+  "lastOutage": "2026-03-01",
   "outages": [
+    {
+      "date": "Le dimanche 1 mars 2026 de  11:30:00 à  13:30:00",
+      "streets": "ROYAL RD,SOOBARAH LANR,BISSESSUR LANE AND NEARBY REGION",
+      "from": "2026-03-01T07:30:00.000Z",
+      "to": "2026-03-01T09:30:00.000Z",
+      "id": "fe6d1345ee997e9f364174ef34377180"
+    },
     {
       "date": "Le lundi 23 février 2026 de  15:50:00 à  18:50:00",
       "streets": "PALMA, BASSIN, MERRYTOWN, SOFERINO 5 DANS LES ENVIRONS SLAUGHTER HOUSE.",

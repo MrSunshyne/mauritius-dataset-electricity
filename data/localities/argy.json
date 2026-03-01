@@ -2,11 +2,18 @@
   "slug": "argy",
   "name": "ARGY",
   "district": "flacq",
-  "generated": "2026-03-01T07:11:21.941Z",
-  "outageCount": 25,
+  "generated": "2026-03-01T08:01:46.172Z",
+  "outageCount": 26,
   "firstOutage": "2023-04-27",
   "lastOutage": "2026-03-01",
   "outages": [
+    {
+      "date": "Le dimanche 1 mars 2026 de  11:45:00 à  12:30:00",
+      "streets": "MOSTLY COMMERCIAL CUSTOMERS(ABOUT 10)",
+      "from": "2026-03-01T07:45:00.000Z",
+      "to": "2026-03-01T08:30:00.000Z",
+      "id": "7f1f90fb7771a9bc91aee705ed687200"
+    },
     {
       "date": "Le dimanche 1 mars 2026 de  00:00:00 à  16:00:00",
       "streets": "CWA",
