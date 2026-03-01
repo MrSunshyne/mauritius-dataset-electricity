@@ -2,11 +2,18 @@
   "slug": "riviere-du-rempart",
   "name": "RIVIERE DU REMPART",
   "district": "rivieredurempart",
-  "generated": "2026-02-28T18:01:48.311Z",
-  "outageCount": 50,
+  "generated": "2026-03-01T06:10:07.829Z",
+  "outageCount": 51,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-02-28",
+  "lastOutage": "2026-03-01",
   "outages": [
+    {
+      "date": "Le dimanche 1 mars 2026 de  09:15:00 à  10:30:00",
+      "streets": "PART OF GANDHI SQUARE, TEMPLE RD,ROYAL RD(FILLING, POOL UP TO UTCHANAH)",
+      "from": "2026-03-01T05:15:00.000Z",
+      "to": "2026-03-01T06:30:00.000Z",
+      "id": "42884b9db8f2924b543ff0ab6e11644a"
+    },
     {
       "date": "Le samedi 28 février 2026 de  08:30:00 à  15:30:00",
       "streets": "JAGNAUTH ROAD, PAVE ROAD, JOOMUN ROAD RIVIERE DU REMPART",

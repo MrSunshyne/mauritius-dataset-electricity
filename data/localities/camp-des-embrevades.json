@@ -2,11 +2,18 @@
   "slug": "camp-des-embrevades",
   "name": "CAMP DES EMBREVADES",
   "district": "pamplemousses",
-  "generated": "2026-02-28T18:01:48.084Z",
-  "outageCount": 15,
+  "generated": "2026-03-01T06:10:07.574Z",
+  "outageCount": 16,
   "firstOutage": "2022-11-05",
-  "lastOutage": "2025-11-07",
+  "lastOutage": "2026-03-01",
   "outages": [
+    {
+      "date": "Le dimanche 1 mars 2026 de  09:00:00 à  12:00:00",
+      "streets": "WHOLE REGION",
+      "from": "2026-03-01T05:00:00.000Z",
+      "to": "2026-03-01T08:00:00.000Z",
+      "id": "30441025faf9d79a31affdacad59b472"
+    },
     {
       "date": "Le vendredi 7 novembre 2025 de  10:15:00 à  12:00:00",
       "streets": "Lebreton,Camp des Embrevades",
