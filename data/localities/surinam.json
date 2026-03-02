@@ -2,11 +2,18 @@
   "slug": "surinam",
   "name": "SURINAM",
   "district": "savanne",
-  "generated": "2026-03-02T12:04:43.000Z",
-  "outageCount": 49,
+  "generated": "2026-03-02T13:23:11.678Z",
+  "outageCount": 50,
   "firstOutage": "2022-05-08",
-  "lastOutage": "2026-02-25",
+  "lastOutage": "2026-03-03",
   "outages": [
+    {
+      "date": "Le mardi 3 mars 2026 de  09:00:00 à  13:30:00",
+      "streets": "Sept Croisees Surinam",
+      "from": "2026-03-03T05:00:00.000Z",
+      "to": "2026-03-03T09:30:00.000Z",
+      "id": "57b92a8befaa11d5fabd9bf888c79bab"
+    },
     {
       "date": "Le mercredi 25 février 2026 de  20:15:00 à  23:30:00",
       "streets": "KOWLESSUR ROAD, PRUNES ROAD, ROCHESTER FALL ROAD ET DANS LES ENVIRONS.",

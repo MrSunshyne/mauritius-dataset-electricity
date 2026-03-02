@@ -1,8 +1,8 @@
 {
   "date": "2026-03-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-02T12:04:42.658Z",
-  "outageCount": 4,
+  "generated": "2026-03-02T13:23:11.340Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le mardi 3 mars 2026 de  09:00:00 à  15:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-03-03T04:30:00.000Z",
       "to": "2026-03-03T11:30:00.000Z",
       "id": "0bb19dd30c329e860883b894acf48fd0"
+    },
+    {
+      "date": "Le mardi 3 mars 2026 de  09:00:00 à  13:30:00",
+      "locality": "SURINAM",
+      "localitySlug": "surinam",
+      "streets": "Sept Croisees Surinam",
+      "district": "savanne",
+      "from": "2026-03-03T05:00:00.000Z",
+      "to": "2026-03-03T09:30:00.000Z",
+      "id": "57b92a8befaa11d5fabd9bf888c79bab"
     }
   ]
 }
