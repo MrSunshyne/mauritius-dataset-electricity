@@ -2,11 +2,25 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-03-02T11:11:26.998Z",
-  "outageCount": 350,
+  "generated": "2026-03-02T12:04:42.945Z",
+  "outageCount": 352,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-03-02",
+  "lastOutage": "2026-03-05",
   "outages": [
+    {
+      "date": "Le jeudi 5 mars 2026 de  16:00:00 à  18:00:00",
+      "streets": "AVE SEENEEVASSEN, LA FERME, GOPAL LANE, PLASPAX, LA SOURCE, NHDC PALMA, EN PARTIE ROUTE PALMA, CHEMIN MACHINE",
+      "from": "2026-03-05T12:00:00.000Z",
+      "to": "2026-03-05T14:00:00.000Z",
+      "id": "8ad1616b4d2ff10ea405663ce043348a"
+    },
+    {
+      "date": "Le mardi 3 mars 2026 de  16:00:00 à  18:00:00",
+      "streets": "AVE SEENEEVASSEN, LA FERME, GOPAL LANE, PLASPAX, LA SOURCE, NHDC PALMA, EN PARTIE ROUTE PALMA, CHEMIN MACHINE",
+      "from": "2026-03-03T12:00:00.000Z",
+      "to": "2026-03-03T14:00:00.000Z",
+      "id": "5f60800543e8c8b7965159361b4d5cc0"
+    },
     {
       "date": "Le lundi 2 mars 2026 de  09:30:00 à  12:30:00",
       "streets": "CASQUETTE ROAD, PALMA JUNCTION ROAD AND SURROUNDINGS",
