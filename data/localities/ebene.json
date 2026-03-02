@@ -2,11 +2,18 @@
   "slug": "ebene",
   "name": "EBENE",
   "district": "plainewilhems",
-  "generated": "2026-03-02T09:12:23.639Z",
-  "outageCount": 22,
+  "generated": "2026-03-02T10:12:43.931Z",
+  "outageCount": 23,
   "firstOutage": "2022-04-25",
-  "lastOutage": "2026-01-21",
+  "lastOutage": "2026-03-02",
   "outages": [
+    {
+      "date": "Le lundi 2 mars 2026 de  13:40:00 à  14:40:00",
+      "streets": "NEAR NEXTERACOM",
+      "from": "2026-03-02T09:40:00.000Z",
+      "to": "2026-03-02T10:40:00.000Z",
+      "id": "fe6c6e1a401c8aa1c886e5bf0579816b"
+    },
     {
       "date": "Le mercredi 21 janvier 2026 de  10:00:00 à  15:00:00",
       "streets": "Ave Lavendiere, Eperviere et Batisseur",
