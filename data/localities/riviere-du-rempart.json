@@ -2,11 +2,18 @@
   "slug": "riviere-du-rempart",
   "name": "RIVIERE DU REMPART",
   "district": "rivieredurempart",
-  "generated": "2026-03-01T18:01:52.814Z",
-  "outageCount": 51,
+  "generated": "2026-03-02T06:13:03.604Z",
+  "outageCount": 52,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-03-01",
+  "lastOutage": "2026-03-03",
   "outages": [
+    {
+      "date": "Le mardi 3 mars 2026 de  08:30:00 à  15:30:00",
+      "streets": "REGION AFFECTEES SONT RUES BASSIN, JAGNATH, PAVE ET JOOMUN RIVIERE DU REMPART",
+      "from": "2026-03-03T04:30:00.000Z",
+      "to": "2026-03-03T11:30:00.000Z",
+      "id": "0bb19dd30c329e860883b894acf48fd0"
+    },
     {
       "date": "Le dimanche 1 mars 2026 de  09:15:00 à  10:30:00",
       "streets": "PART OF GANDHI SQUARE, TEMPLE RD,ROYAL RD(FILLING, POOL UP TO UTCHANAH)",

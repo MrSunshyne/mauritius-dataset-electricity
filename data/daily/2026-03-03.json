@@ -1,8 +1,8 @@
 {
   "date": "2026-03-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-01T18:01:52.515Z",
-  "outageCount": 2,
+  "generated": "2026-03-02T06:13:03.308Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le mardi 3 mars 2026 de  09:00:00 à  15:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-03-03T05:00:00.000Z",
       "to": "2026-03-03T11:00:00.000Z",
       "id": "a15d94e0c6c110519c9d98c9cd28a6aa"
+    },
+    {
+      "date": "Le mardi 3 mars 2026 de  08:30:00 à  15:30:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "REGION AFFECTEES SONT RUES BASSIN, JAGNATH, PAVE ET JOOMUN RIVIERE DU REMPART",
+      "district": "rivieredurempart",
+      "from": "2026-03-03T04:30:00.000Z",
+      "to": "2026-03-03T11:30:00.000Z",
+      "id": "0bb19dd30c329e860883b894acf48fd0"
     }
   ]
 }

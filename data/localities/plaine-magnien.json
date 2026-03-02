@@ -2,11 +2,18 @@
   "slug": "plaine-magnien",
   "name": "PLAINE MAGNIEN",
   "district": "grandport",
-  "generated": "2026-03-01T18:01:52.773Z",
-  "outageCount": 55,
+  "generated": "2026-03-02T06:13:03.563Z",
+  "outageCount": 56,
   "firstOutage": "2022-06-08",
-  "lastOutage": "2026-01-29",
+  "lastOutage": "2026-03-02",
   "outages": [
+    {
+      "date": "Le lundi 2 mars 2026 de  14:00:00 à  17:00:00",
+      "streets": "Plaine Magnien habitant dans le périmètre et les rues suivantes: Paul Langois Street et Chemin L’Escalier Plaine Magnien",
+      "from": "2026-03-02T10:00:00.000Z",
+      "to": "2026-03-02T13:00:00.000Z",
+      "id": "5942d233978a13c8107f674730ee6a77"
+    },
     {
       "date": "Le jeudi 29 janvier 2026 de  11:00:00 à  12:00:00",
       "streets": "RICHE AUX COPEAUX",

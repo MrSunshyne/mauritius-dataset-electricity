@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-03-01T18:01:52.794Z",
-  "outageCount": 349,
+  "generated": "2026-03-02T06:13:03.583Z",
+  "outageCount": 350,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-03-01",
+  "lastOutage": "2026-03-02",
   "outages": [
+    {
+      "date": "Le lundi 2 mars 2026 de  09:30:00 à  12:30:00",
+      "streets": "CASQUETTE ROAD, PALMA JUNCTION ROAD AND SURROUNDINGS",
+      "from": "2026-03-02T05:30:00.000Z",
+      "to": "2026-03-02T08:30:00.000Z",
+      "id": "6b358defa07b9098bfe313760e3a0516"
+    },
     {
       "date": "Le dimanche 1 mars 2026 de  08:30:00 à  15:00:00",
       "streets": "Ave Buswell, Commerson, Impasse La Coste, Hydepark Complex, Park Lane, Le Camphrier Complex, Ornix Complex et Newry Complex",

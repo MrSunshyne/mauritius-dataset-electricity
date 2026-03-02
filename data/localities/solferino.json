@@ -2,11 +2,18 @@
   "slug": "solferino",
   "name": "SOLFERINO",
   "district": "plainewilhems",
-  "generated": "2026-03-01T18:01:52.840Z",
-  "outageCount": 19,
+  "generated": "2026-03-02T06:13:03.628Z",
+  "outageCount": 20,
   "firstOutage": "2022-05-06",
-  "lastOutage": "2026-02-18",
+  "lastOutage": "2026-03-02",
   "outages": [
+    {
+      "date": "Le lundi 2 mars 2026 de  09:40:00 à  11:00:00",
+      "streets": "SOLFERINO 5, NHDC AND SURROUNDINGS",
+      "from": "2026-03-02T05:40:00.000Z",
+      "to": "2026-03-02T07:00:00.000Z",
+      "id": "3f24b858c2af4d9bfa5ed0405d969008"
+    },
     {
       "date": "Le mercredi 18 février 2026 de  07:00:00 à  18:00:00",
       "streets": "SOLFERINO 5",

@@ -1,9 +1,49 @@
 {
   "date": "2026-03-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-01T18:01:52.515Z",
-  "outageCount": 2,
+  "generated": "2026-03-02T06:13:03.308Z",
+  "outageCount": 6,
   "outages": [
+    {
+      "date": "Le lundi 2 mars 2026 de  09:00:00 à  12:00:00",
+      "locality": "LE BOUCHON",
+      "localitySlug": "le-bouchon",
+      "streets": "PART OF LE BOUCHON",
+      "district": "grandport",
+      "from": "2026-03-02T05:00:00.000Z",
+      "to": "2026-03-02T08:00:00.000Z",
+      "id": "f8cf7a30e135d142da61fb261ed40d10"
+    },
+    {
+      "date": "Le lundi 2 mars 2026 de  14:00:00 à  17:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "Plaine Magnien habitant dans le périmètre et les rues suivantes: Paul Langois Street et Chemin L’Escalier Plaine Magnien",
+      "district": "grandport",
+      "from": "2026-03-02T10:00:00.000Z",
+      "to": "2026-03-02T13:00:00.000Z",
+      "id": "5942d233978a13c8107f674730ee6a77"
+    },
+    {
+      "date": "Le lundi 2 mars 2026 de  09:40:00 à  11:00:00",
+      "locality": "SOLFERINO",
+      "localitySlug": "solferino",
+      "streets": "SOLFERINO 5, NHDC AND SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2026-03-02T05:40:00.000Z",
+      "to": "2026-03-02T07:00:00.000Z",
+      "id": "3f24b858c2af4d9bfa5ed0405d969008"
+    },
+    {
+      "date": "Le lundi 2 mars 2026 de  09:30:00 à  12:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "CASQUETTE ROAD, PALMA JUNCTION ROAD AND SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2026-03-02T05:30:00.000Z",
+      "to": "2026-03-02T08:30:00.000Z",
+      "id": "6b358defa07b9098bfe313760e3a0516"
+    },
     {
       "date": "Le lundi 2 mars 2026 de  08:30:00 à  12:00:00",
       "locality": "VALLEE PITOT",
