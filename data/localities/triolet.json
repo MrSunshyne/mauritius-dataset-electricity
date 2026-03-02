@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-03-02T06:13:03.645Z",
-  "outageCount": 120,
+  "generated": "2026-03-02T07:18:08.922Z",
+  "outageCount": 121,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-02-28",
+  "lastOutage": "2026-03-02",
   "outages": [
+    {
+      "date": "Le lundi 2 mars 2026 de  10:15:00 à  11:30:00",
+      "streets": "MAHATMA GANDHI ROAD",
+      "from": "2026-03-02T06:15:00.000Z",
+      "to": "2026-03-02T07:30:00.000Z",
+      "id": "4c725aa39b249e6368eb1edf1946ad33"
+    },
     {
       "date": "Le samedi 28 février 2026 de  21:30:00 à  02:00:00",
       "streets": "SHIVALAH RD TRIOLET",
