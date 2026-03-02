@@ -1,8 +1,8 @@
 {
   "date": "2026-03-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-02T10:12:43.799Z",
-  "outageCount": 10,
+  "generated": "2026-03-02T11:11:26.714Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le lundi 2 mars 2026 de  09:00:00 à  12:00:00",
@@ -63,6 +63,26 @@
       "from": "2026-03-02T09:40:00.000Z",
       "to": "2026-03-02T10:40:00.000Z",
       "id": "fe6c6e1a401c8aa1c886e5bf0579816b"
+    },
+    {
+      "date": "Le lundi 2 mars 2026 de  15:00:00 à  17:30:00",
+      "locality": "CITE BARKLY",
+      "localitySlug": "cite-barkly",
+      "streets": "MIN  AGRICULTURE, PISCINE, PSSA AND OTHER CUSTOMERS IN STREET",
+      "district": "plainewilhems",
+      "from": "2026-03-02T11:00:00.000Z",
+      "to": "2026-03-02T13:30:00.000Z",
+      "id": "1723250c90f81ea8b77769424e6bb37e"
+    },
+    {
+      "date": "Le lundi 2 mars 2026 de  15:00:00 à  17:30:00",
+      "locality": "EBENE",
+      "localitySlug": "ebene",
+      "streets": "mitd",
+      "district": "plainewilhems",
+      "from": "2026-03-02T11:00:00.000Z",
+      "to": "2026-03-02T13:30:00.000Z",
+      "id": "04f640a98717a8199dd8cca2d5f77d76"
     },
     {
       "date": "Le lundi 2 mars 2026 de  08:30:00 à  12:00:00",

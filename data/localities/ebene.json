@@ -2,11 +2,18 @@
   "slug": "ebene",
   "name": "EBENE",
   "district": "plainewilhems",
-  "generated": "2026-03-02T10:12:43.931Z",
-  "outageCount": 23,
+  "generated": "2026-03-02T11:11:26.848Z",
+  "outageCount": 24,
   "firstOutage": "2022-04-25",
   "lastOutage": "2026-03-02",
   "outages": [
+    {
+      "date": "Le lundi 2 mars 2026 de  15:00:00 à  17:30:00",
+      "streets": "mitd",
+      "from": "2026-03-02T11:00:00.000Z",
+      "to": "2026-03-02T13:30:00.000Z",
+      "id": "04f640a98717a8199dd8cca2d5f77d76"
+    },
     {
       "date": "Le lundi 2 mars 2026 de  13:40:00 à  14:40:00",
       "streets": "NEAR NEXTERACOM",
