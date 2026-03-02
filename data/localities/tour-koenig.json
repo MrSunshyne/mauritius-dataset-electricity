@@ -2,11 +2,18 @@
   "slug": "tour-koenig",
   "name": "TOUR KOENIG",
   "district": "portlouis",
-  "generated": "2026-03-02T07:18:08.918Z",
-  "outageCount": 23,
+  "generated": "2026-03-02T08:07:42.922Z",
+  "outageCount": 24,
   "firstOutage": "2022-11-05",
-  "lastOutage": "2026-02-28",
+  "lastOutage": "2026-03-02",
   "outages": [
+    {
+      "date": "Le lundi 2 mars 2026 de  11:20:00 à  12:20:00",
+      "streets": "MARGETITTE ROAD & SURROUNDINGS",
+      "from": "2026-03-02T07:20:00.000Z",
+      "to": "2026-03-02T08:20:00.000Z",
+      "id": "172b532566c30e68b8061ef520e8cf46"
+    },
     {
       "date": "Le samedi 28 février 2026 de  09:00:00 à  14:00:00",
       "streets": "DANS LES ENVIRONS DE LA RUE CONCORDE",

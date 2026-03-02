@@ -1,8 +1,8 @@
 {
   "date": "2026-03-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-02T07:18:08.577Z",
-  "outageCount": 7,
+  "generated": "2026-03-02T08:07:42.584Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le lundi 2 mars 2026 de  09:00:00 à  12:00:00",
@@ -63,6 +63,26 @@
       "from": "2026-03-02T04:30:00.000Z",
       "to": "2026-03-02T08:00:00.000Z",
       "id": "60ec59c884520a23b9b3a709d2920758"
+    },
+    {
+      "date": "Le lundi 2 mars 2026 de  11:40:00 à  13:40:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "AVE BADAMIERS,AVE OLIVIERS AND NEARBY REGION",
+      "district": "portlouis",
+      "from": "2026-03-02T07:40:00.000Z",
+      "to": "2026-03-02T09:40:00.000Z",
+      "id": "4cfe9e8eead3f746f13b0573c667a568"
+    },
+    {
+      "date": "Le lundi 2 mars 2026 de  11:20:00 à  12:20:00",
+      "locality": "TOUR KOENIG",
+      "localitySlug": "tour-koenig",
+      "streets": "MARGETITTE ROAD & SURROUNDINGS",
+      "district": "portlouis",
+      "from": "2026-03-02T07:20:00.000Z",
+      "to": "2026-03-02T08:20:00.000Z",
+      "id": "172b532566c30e68b8061ef520e8cf46"
     },
     {
       "date": "Le lundi 2 mars 2026 de  08:30:00 à  16:00:00",

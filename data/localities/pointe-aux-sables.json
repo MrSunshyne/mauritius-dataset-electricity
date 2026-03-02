@@ -2,11 +2,18 @@
   "slug": "pointe-aux-sables",
   "name": "POINTE AUX SABLES",
   "district": "portlouis",
-  "generated": "2026-03-02T07:18:08.844Z",
-  "outageCount": 131,
+  "generated": "2026-03-02T08:07:42.850Z",
+  "outageCount": 132,
   "firstOutage": "2022-03-30",
-  "lastOutage": "2026-02-24",
+  "lastOutage": "2026-03-02",
   "outages": [
+    {
+      "date": "Le lundi 2 mars 2026 de  11:40:00 à  13:40:00",
+      "streets": "AVE BADAMIERS,AVE OLIVIERS AND NEARBY REGION",
+      "from": "2026-03-02T07:40:00.000Z",
+      "to": "2026-03-02T09:40:00.000Z",
+      "id": "4cfe9e8eead3f746f13b0573c667a568"
+    },
     {
       "date": "Le mardi 24 février 2026 de  11:00:00 à  12:00:00",
       "streets": "AVE PEUPLIERS, LAFAYETTE, PAILLE EN QUEUE, NEAR LONDON WAY",
