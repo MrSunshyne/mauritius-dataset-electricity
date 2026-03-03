@@ -1,8 +1,8 @@
 {
   "date": "2026-03-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-03T12:04:30.527Z",
-  "outageCount": 10,
+  "generated": "2026-03-03T13:22:24.071Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le mardi 3 mars 2026 de  11:00:00 à  18:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-03-03T09:50:00.000Z",
       "to": "2026-03-03T10:45:00.000Z",
       "id": "68b2a20e9a0f6b692c4d426c2177a489"
+    },
+    {
+      "date": "Le mardi 3 mars 2026 de  16:35:00 à  17:15:00",
+      "locality": "MEDINE CAMP DE MASQUE",
+      "localitySlug": "medine-camp-de-masque",
+      "streets": "MEDINE CAMP DE MASQUE",
+      "district": "flacq",
+      "from": "2026-03-03T12:35:00.000Z",
+      "to": "2026-03-03T13:15:00.000Z",
+      "id": "c195276ca8b9aba97c6002db2b53eed5"
     },
     {
       "date": "Le mardi 3 mars 2026 de  09:00:00 à  15:00:00",

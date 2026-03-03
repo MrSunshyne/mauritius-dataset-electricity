@@ -2,11 +2,18 @@
   "slug": "medine-camp-de-masque",
   "name": "MEDINE CAMP DE MASQUE",
   "district": "flacq",
-  "generated": "2026-03-03T12:04:30.725Z",
-  "outageCount": 15,
+  "generated": "2026-03-03T13:22:24.288Z",
+  "outageCount": 16,
   "firstOutage": "2022-12-11",
   "lastOutage": "2026-03-03",
   "outages": [
+    {
+      "date": "Le mardi 3 mars 2026 de  16:35:00 à  17:15:00",
+      "streets": "MEDINE CAMP DE MASQUE",
+      "from": "2026-03-03T12:35:00.000Z",
+      "to": "2026-03-03T13:15:00.000Z",
+      "id": "c195276ca8b9aba97c6002db2b53eed5"
+    },
     {
       "date": "Le mardi 3 mars 2026 de  13:50:00 à  14:45:00",
       "streets": "MEDINE CAMP DE MASQUE",
