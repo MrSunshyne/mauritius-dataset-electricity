@@ -1,9 +1,19 @@
 {
   "date": "2026-03-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-03T09:10:24.520Z",
-  "outageCount": 1,
+  "generated": "2026-03-03T10:09:32.614Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le jeudi 5 mars 2026 de  09:00:00 à  15:00:00",
+      "locality": "UNION PARK",
+      "localitySlug": "union-park",
+      "streets": "Morcellement SIT Union Park/Nouvelle France",
+      "district": "grandport",
+      "from": "2026-03-05T05:00:00.000Z",
+      "to": "2026-03-05T11:00:00.000Z",
+      "id": "ff8f910214d53d24ad6ce05d7807d943"
+    },
     {
       "date": "Le jeudi 5 mars 2026 de  16:00:00 à  18:00:00",
       "locality": "QUATRE-BORNES",

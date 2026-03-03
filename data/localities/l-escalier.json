@@ -2,11 +2,18 @@
   "slug": "l-escalier",
   "name": "L-ESCALIER",
   "district": "savanne",
-  "generated": "2026-03-03T09:10:24.688Z",
-  "outageCount": 29,
+  "generated": "2026-03-03T10:09:32.785Z",
+  "outageCount": 30,
   "firstOutage": "2022-03-30",
-  "lastOutage": "2026-02-26",
+  "lastOutage": "2026-03-08",
   "outages": [
+    {
+      "date": "Le dimanche 8 mars 2026 de  09:00:00 à  14:00:00",
+      "streets": "L’Escalier habitant dans le périmètre et les rues suivantes: Staff Quarters La Baraque L’Escalier et Omnicane Industrial Zones La Baraque",
+      "from": "2026-03-08T05:00:00.000Z",
+      "to": "2026-03-08T10:00:00.000Z",
+      "id": "baf5c8777778c859f6328a7c8dcde661"
+    },
     {
       "date": "Le jeudi 26 février 2026 de  08:30:00 à  16:00:00",
       "streets": "L’Escalier habitant dans le périmètre et les rues suivantes: Morcellement VRS La Sourdine, Station de Police La Sourdine, Bureau Savannah, Poultry Savannah et les régions avoisinantes",

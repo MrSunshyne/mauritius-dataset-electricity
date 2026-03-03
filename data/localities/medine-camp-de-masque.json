@@ -2,11 +2,18 @@
   "slug": "medine-camp-de-masque",
   "name": "MEDINE CAMP DE MASQUE",
   "district": "flacq",
-  "generated": "2026-03-03T09:10:24.725Z",
-  "outageCount": 14,
+  "generated": "2026-03-03T10:09:32.823Z",
+  "outageCount": 15,
   "firstOutage": "2022-12-11",
-  "lastOutage": "2026-01-19",
+  "lastOutage": "2026-03-03",
   "outages": [
+    {
+      "date": "Le mardi 3 mars 2026 de  13:50:00 à  14:45:00",
+      "streets": "MEDINE CAMP DE MASQUE",
+      "from": "2026-03-03T09:50:00.000Z",
+      "to": "2026-03-03T10:45:00.000Z",
+      "id": "68b2a20e9a0f6b692c4d426c2177a489"
+    },
     {
       "date": "Le lundi 19 janvier 2026 de  10:00:00 à  12:00:00",
       "streets": "ROYAL ROAD CAMP DE MASQUES",
