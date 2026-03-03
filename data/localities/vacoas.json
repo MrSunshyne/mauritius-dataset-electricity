@@ -2,11 +2,18 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-03-02T18:08:43.955Z",
-  "outageCount": 226,
+  "generated": "2026-03-03T06:11:24.504Z",
+  "outageCount": 227,
   "firstOutage": "2022-03-17",
-  "lastOutage": "2026-02-22",
+  "lastOutage": "2026-03-03",
   "outages": [
+    {
+      "date": "Le mardi 3 mars 2026 de  09:00:00 à  16:00:00",
+      "streets": "GYMKHANA ESD",
+      "from": "2026-03-03T05:00:00.000Z",
+      "to": "2026-03-03T12:00:00.000Z",
+      "id": "deced1e27307d89f6084671d052a988a"
+    },
     {
       "date": "Le dimanche 22 février 2026 de  08:30:00 à  17:00:00",
       "streets": "une partie de Route Lamberty, Dr Chinranjiv Bardwaj Avenue, partie de Sivananda Avenue, une partie de Jackson Road, partie de J. Kennedy Avenue, Sonah Lane, Marazzi Lane, Avenue Eugene Gregoire",
