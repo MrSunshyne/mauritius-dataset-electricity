@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-03T11:08:48.985Z",
+  "generated": "2026-03-03T12:04:30.884Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -286,10 +286,10 @@
       "slug": "beau-bassin",
       "name": "BEAU BASSIN",
       "district": "plainewilhems",
-      "outageCount": 169,
+      "outageCount": 170,
       "file": "beau-bassin.json",
       "firstOutage": "2022-03-25",
-      "lastOutage": "2026-03-01"
+      "lastOutage": "2026-03-03"
     },
     {
       "slug": "beau-bois",
@@ -1375,7 +1375,7 @@
       "slug": "eau-bleue-tostee",
       "name": "EAU BLEUE TOSTEE",
       "district": "grandport",
-      "outageCount": 2,
+      "outageCount": 3,
       "file": "eau-bleue-tostee.json",
       "firstOutage": "2023-08-29",
       "lastOutage": "2026-03-09"
@@ -3958,10 +3958,10 @@
       "slug": "union-park",
       "name": "UNION PARK",
       "district": "grandport",
-      "outageCount": 32,
+      "outageCount": 33,
       "file": "union-park.json",
       "firstOutage": "2022-03-28",
-      "lastOutage": "2026-03-05"
+      "lastOutage": "2026-03-09"
     },
     {
       "slug": "union-vale",

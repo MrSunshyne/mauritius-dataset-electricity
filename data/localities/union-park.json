@@ -2,11 +2,18 @@
   "slug": "union-park",
   "name": "UNION PARK",
   "district": "grandport",
-  "generated": "2026-03-03T11:08:48.970Z",
-  "outageCount": 32,
+  "generated": "2026-03-03T12:04:30.869Z",
+  "outageCount": 33,
   "firstOutage": "2022-03-28",
-  "lastOutage": "2026-03-05",
+  "lastOutage": "2026-03-09",
   "outages": [
+    {
+      "date": "Le lundi 9 mars 2026 de  09:00:00 à  15:00:00",
+      "streets": "Morcellement SIT Union Park/Nouvelle France",
+      "from": "2026-03-09T05:00:00.000Z",
+      "to": "2026-03-09T11:00:00.000Z",
+      "id": "cd086f733392511f75923cd37fd1cae2"
+    },
     {
       "date": "Le jeudi 5 mars 2026 de  09:00:00 à  15:00:00",
       "streets": "Morcellement SIT Union Park/Nouvelle France",

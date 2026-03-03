@@ -1,8 +1,8 @@
 {
   "date": "2026-03-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-03T11:08:48.638Z",
-  "outageCount": 2,
+  "generated": "2026-03-03T12:04:30.527Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le jeudi 5 mars 2026 de  09:00:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-03-05T05:00:00.000Z",
       "to": "2026-03-05T11:00:00.000Z",
       "id": "ff8f910214d53d24ad6ce05d7807d943"
+    },
+    {
+      "date": "Le jeudi 5 mars 2026 de  09:00:00 à  15:00:00",
+      "locality": "EAU BLEUE TOSTEE",
+      "localitySlug": "eau-bleue-tostee",
+      "streets": "Eau Bleu Tostée Cluny, CWA Cluny (Reservoir & Pompe)",
+      "district": "grandport",
+      "from": "2026-03-05T05:00:00.000Z",
+      "to": "2026-03-05T11:00:00.000Z",
+      "id": "442517be1c1ef53cdc1d66ff3cdaf25f"
     },
     {
       "date": "Le jeudi 5 mars 2026 de  16:00:00 à  18:00:00",

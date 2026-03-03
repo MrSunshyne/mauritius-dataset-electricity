@@ -2,11 +2,18 @@
   "slug": "beau-bassin",
   "name": "BEAU BASSIN",
   "district": "plainewilhems",
-  "generated": "2026-03-03T11:08:48.673Z",
-  "outageCount": 169,
+  "generated": "2026-03-03T12:04:30.564Z",
+  "outageCount": 170,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-03-01",
+  "lastOutage": "2026-03-03",
   "outages": [
+    {
+      "date": "Le mardi 3 mars 2026 de  15:00:00 à  17:30:00",
+      "streets": "MARCEL LETANG, CYRIL LECKING, ROYAL ROAD TO DR LESUR ST",
+      "from": "2026-03-03T11:00:00.000Z",
+      "to": "2026-03-03T13:30:00.000Z",
+      "id": "3e5cec9008d6e70572008593007f7800"
+    },
     {
       "date": "Le dimanche 1 mars 2026 de  11:00:00 à  14:00:00",
       "streets": "Ave Sholtoo Douglas, Ave Napier Broom et les environs",

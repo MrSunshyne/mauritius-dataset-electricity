@@ -1,8 +1,8 @@
 {
   "date": "2026-03-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-03T11:08:48.638Z",
-  "outageCount": 1,
+  "generated": "2026-03-03T12:04:30.527Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le lundi 9 mars 2026 de  09:00:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-03-09T05:00:00.000Z",
       "to": "2026-03-09T11:00:00.000Z",
       "id": "79f970e4395e93763f90cc55af6a1b81"
+    },
+    {
+      "date": "Le lundi 9 mars 2026 de  09:00:00 à  15:00:00",
+      "locality": "UNION PARK",
+      "localitySlug": "union-park",
+      "streets": "Morcellement SIT Union Park/Nouvelle France",
+      "district": "grandport",
+      "from": "2026-03-09T05:00:00.000Z",
+      "to": "2026-03-09T11:00:00.000Z",
+      "id": "cd086f733392511f75923cd37fd1cae2"
     }
   ]
 }
