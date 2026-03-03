@@ -2,11 +2,18 @@
   "slug": "le-hochet",
   "name": "LE HOCHET",
   "district": "portlouis",
-  "generated": "2026-03-03T16:11:01.623Z",
-  "outageCount": 25,
+  "generated": "2026-03-03T17:13:24.831Z",
+  "outageCount": 26,
   "firstOutage": "2022-04-18",
-  "lastOutage": "2026-02-03",
+  "lastOutage": "2026-03-03",
   "outages": [
+    {
+      "date": "Le mardi 3 mars 2026 de  20:45:00 à  22:45:00",
+      "streets": "BASALT RD,DILAWAR RD,J.LEGRIS RD AND NEARBY REGION",
+      "from": "2026-03-03T16:45:00.000Z",
+      "to": "2026-03-03T18:45:00.000Z",
+      "id": "9315d5d42f34b7799f1f972353efd1ab"
+    },
     {
       "date": "Le mardi 3 février 2026 de  20:45:00 à  21:30:00",
       "streets": "KJW LE HOCHET AND STREET NEARBY",

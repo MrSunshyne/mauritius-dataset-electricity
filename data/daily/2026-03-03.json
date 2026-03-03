@@ -1,8 +1,8 @@
 {
   "date": "2026-03-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-03T16:11:01.427Z",
-  "outageCount": 11,
+  "generated": "2026-03-03T17:13:24.632Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le mardi 3 mars 2026 de  11:00:00 à  18:00:00",
@@ -83,6 +83,16 @@
       "from": "2026-03-03T11:00:00.000Z",
       "to": "2026-03-03T13:30:00.000Z",
       "id": "3e5cec9008d6e70572008593007f7800"
+    },
+    {
+      "date": "Le mardi 3 mars 2026 de  20:45:00 à  22:45:00",
+      "locality": "LE HOCHET",
+      "localitySlug": "le-hochet",
+      "streets": "BASALT RD,DILAWAR RD,J.LEGRIS RD AND NEARBY REGION",
+      "district": "portlouis",
+      "from": "2026-03-03T16:45:00.000Z",
+      "to": "2026-03-03T18:45:00.000Z",
+      "id": "9315d5d42f34b7799f1f972353efd1ab"
     },
     {
       "date": "Le mardi 3 mars 2026 de  08:30:00 à  15:30:00",
