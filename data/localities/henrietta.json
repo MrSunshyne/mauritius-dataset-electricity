@@ -2,11 +2,18 @@
   "slug": "henrietta",
   "name": "HENRIETTA",
   "district": "plainewilhems",
-  "generated": "2026-03-04T10:07:33.479Z",
-  "outageCount": 79,
+  "generated": "2026-03-04T11:06:56.844Z",
+  "outageCount": 80,
   "firstOutage": "2022-07-14",
-  "lastOutage": "2026-02-08",
+  "lastOutage": "2026-03-06",
   "outages": [
+    {
+      "date": "Le vendredi 6 mars 2026 de  08:30:00 à  16:30:00",
+      "streets": "HENRIETTA ET MARE LONGUE: Mare-Longue Tamarind Falls",
+      "from": "2026-03-06T04:30:00.000Z",
+      "to": "2026-03-06T12:30:00.000Z",
+      "id": "b64281ae9c4dc7f8123d99fbb285b363"
+    },
     {
       "date": "Le dimanche 8 février 2026 de  08:30:00 à  13:00:00",
       "streets": "NHDC Mapoo et les environs",

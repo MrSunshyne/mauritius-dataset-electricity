@@ -2,11 +2,18 @@
   "slug": "rose-hill",
   "name": "ROSE-HILL",
   "district": "plainewilhems",
-  "generated": "2026-03-04T10:07:33.630Z",
-  "outageCount": 146,
+  "generated": "2026-03-04T11:06:56.995Z",
+  "outageCount": 147,
   "firstOutage": "2022-05-20",
   "lastOutage": "2026-03-04",
   "outages": [
+    {
+      "date": "Le mercredi 4 mars 2026 de  14:45:00 à  17:00:00",
+      "streets": "AVE EDISON, ANTHELME, THIERRY AND SURROUNDINGS",
+      "from": "2026-03-04T10:45:00.000Z",
+      "to": "2026-03-04T13:00:00.000Z",
+      "id": "a25659dce93808653fcf549e674ba478"
+    },
     {
       "date": "Le mercredi 4 mars 2026 de  10:00:00 à  13:00:00",
       "streets": "GLADSTONE RD-LABOURDONNAIS RD ROSE HILL",

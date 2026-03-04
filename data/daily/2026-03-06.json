@@ -1,0 +1,28 @@
+{
+  "date": "2026-03-06",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-03-04T11:06:56.682Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le vendredi 6 mars 2026 de  16:00:00 à  18:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Industrial Zone Phoenix",
+      "district": "plainewilhems",
+      "from": "2026-03-06T12:00:00.000Z",
+      "to": "2026-03-06T14:00:00.000Z",
+      "id": "3d46efe091ab1c1c3c83823e122508f3"
+    },
+    {
+      "date": "Le vendredi 6 mars 2026 de  08:30:00 à  16:30:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "HENRIETTA ET MARE LONGUE: Mare-Longue Tamarind Falls",
+      "district": "plainewilhems",
+      "from": "2026-03-06T04:30:00.000Z",
+      "to": "2026-03-06T12:30:00.000Z",
+      "id": "b64281ae9c4dc7f8123d99fbb285b363"
+    }
+  ]
+}
