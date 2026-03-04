@@ -2,11 +2,18 @@
   "slug": "rose-hill",
   "name": "ROSE-HILL",
   "district": "plainewilhems",
-  "generated": "2026-03-04T06:09:46.703Z",
-  "outageCount": 145,
+  "generated": "2026-03-04T07:13:02.921Z",
+  "outageCount": 146,
   "firstOutage": "2022-05-20",
   "lastOutage": "2026-03-04",
   "outages": [
+    {
+      "date": "Le mercredi 4 mars 2026 de  10:00:00 à  13:00:00",
+      "streets": "GLADSTONE RD-LABOURDONNAIS RD ROSE HILL",
+      "from": "2026-03-04T06:00:00.000Z",
+      "to": "2026-03-04T09:00:00.000Z",
+      "id": "b73d7330d6fb64e32139dc3ac91e6537"
+    },
     {
       "date": "Le mercredi 4 mars 2026 de  09:30:00 à  10:30:00",
       "streets": "AMBROSE ST, EDGAR LAURENT, ET DANS LES ALENTOURS DE DR RAMTOHUL",
