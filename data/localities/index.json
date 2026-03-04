@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-04T11:06:57.049Z",
+  "generated": "2026-03-04T12:04:05.961Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -115,10 +115,10 @@
       "slug": "arsenal",
       "name": "ARSENAL",
       "district": "pamplemousses",
-      "outageCount": 53,
+      "outageCount": 54,
       "file": "arsenal.json",
       "firstOutage": "2022-05-25",
-      "lastOutage": "2026-03-01"
+      "lastOutage": "2026-03-08"
     },
     {
       "slug": "bagatelle",
@@ -3094,10 +3094,10 @@
       "slug": "port-louis",
       "name": "PORT-LOUIS",
       "district": "portlouis",
-      "outageCount": 111,
+      "outageCount": 112,
       "file": "port-louis.json",
       "firstOutage": "2022-03-21",
-      "lastOutage": "2026-02-25"
+      "lastOutage": "2026-03-08"
     },
     {
       "slug": "port-mathurin",
@@ -3175,7 +3175,7 @@
       "slug": "quatre-bornes",
       "name": "QUATRE-BORNES",
       "district": "plainewilhems",
-      "outageCount": 352,
+      "outageCount": 353,
       "file": "quatre-bornes.json",
       "firstOutage": "2022-04-01",
       "lastOutage": "2026-03-05"
@@ -3319,10 +3319,10 @@
       "slug": "riche-terre",
       "name": "RICHE TERRE",
       "district": "pamplemousses",
-      "outageCount": 32,
+      "outageCount": 33,
       "file": "riche-terre.json",
       "firstOutage": "2022-04-03",
-      "lastOutage": "2026-03-04"
+      "lastOutage": "2026-03-07"
     },
     {
       "slug": "richelieu",
@@ -3832,10 +3832,10 @@
       "slug": "terre-rouge",
       "name": "TERRE ROUGE",
       "district": "pamplemousses",
-      "outageCount": 101,
+      "outageCount": 102,
       "file": "terre-rouge.json",
       "firstOutage": "2022-03-14",
-      "lastOutage": "2026-02-25"
+      "lastOutage": "2026-03-04"
     },
     {
       "slug": "tombeau-bay",
