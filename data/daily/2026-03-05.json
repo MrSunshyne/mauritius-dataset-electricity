@@ -1,9 +1,19 @@
 {
   "date": "2026-03-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-04T09:08:54.644Z",
-  "outageCount": 3,
+  "generated": "2026-03-04T10:07:33.317Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le jeudi 5 mars 2026 de  08:30:00 à  16:30:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "MORC CARLOS ET LA MIVOIE",
+      "district": "blackriver",
+      "from": "2026-03-05T04:30:00.000Z",
+      "to": "2026-03-05T12:30:00.000Z",
+      "id": "070407ba9d70226a1087317624c1db35"
+    },
     {
       "date": "Le jeudi 5 mars 2026 de  09:00:00 à  15:00:00",
       "locality": "UNION PARK",
@@ -23,6 +33,16 @@
       "from": "2026-03-05T05:00:00.000Z",
       "to": "2026-03-05T11:00:00.000Z",
       "id": "442517be1c1ef53cdc1d66ff3cdaf25f"
+    },
+    {
+      "date": "Le jeudi 5 mars 2026 de  09:00:00 à  14:00:00",
+      "locality": "SOLITUDE",
+      "localitySlug": "solitude",
+      "streets": "DANS LES ENVIRONS DE FILLING TOTAL ET KOVIL DE SOLITUDE",
+      "district": "pamplemousses",
+      "from": "2026-03-05T05:00:00.000Z",
+      "to": "2026-03-05T10:00:00.000Z",
+      "id": "cc2e6b86ff79fd8a605382048b452a93"
     },
     {
       "date": "Le jeudi 5 mars 2026 de  16:00:00 à  18:00:00",

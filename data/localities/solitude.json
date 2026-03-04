@@ -2,11 +2,18 @@
   "slug": "solitude",
   "name": "SOLITUDE",
   "district": "pamplemousses",
-  "generated": "2026-03-04T09:08:54.987Z",
-  "outageCount": 28,
+  "generated": "2026-03-04T10:07:33.647Z",
+  "outageCount": 29,
   "firstOutage": "2022-04-16",
-  "lastOutage": "2026-02-26",
+  "lastOutage": "2026-03-05",
   "outages": [
+    {
+      "date": "Le jeudi 5 mars 2026 de  09:00:00 à  14:00:00",
+      "streets": "DANS LES ENVIRONS DE FILLING TOTAL ET KOVIL DE SOLITUDE",
+      "from": "2026-03-05T05:00:00.000Z",
+      "to": "2026-03-05T10:00:00.000Z",
+      "id": "cc2e6b86ff79fd8a605382048b452a93"
+    },
     {
       "date": "Le jeudi 26 février 2026 de  20:50:00 à  00:30:00",
       "streets": "BURDWAZ ROAD SOLITUDE",
