@@ -2,11 +2,18 @@
   "slug": "mare-d-albert",
   "name": "MARE D-ALBERT",
   "district": "grandport",
-  "generated": "2026-03-03T18:09:47.743Z",
-  "outageCount": 24,
+  "generated": "2026-03-04T06:09:46.603Z",
+  "outageCount": 25,
   "firstOutage": "2022-03-31",
-  "lastOutage": "2026-01-18",
+  "lastOutage": "2026-03-08",
   "outages": [
+    {
+      "date": "Le dimanche 8 mars 2026 de  09:00:00 à  15:00:00",
+      "streets": "Mare D’Albert habitant dans le périmètre et les rues suivantes:NHDC Hortensia Mare D’Albert",
+      "from": "2026-03-08T05:00:00.000Z",
+      "to": "2026-03-08T11:00:00.000Z",
+      "id": "794f14cefc891ad5437395b06a206383"
+    },
     {
       "date": "Le dimanche 18 janvier 2026 de  09:00:00 à  17:00:00",
       "streets": "Mare D’Albert habitant dans le périmètre et les rues suivantes: Gandhi Road, Fabric Road, Morcellement Gokhool Rampe Le Moirt, Résidence Turquoise et Résidence Grove Mare D’Albert",

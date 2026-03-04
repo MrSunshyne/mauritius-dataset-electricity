@@ -1,9 +1,19 @@
 {
   "date": "2026-03-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-03T18:09:47.542Z",
-  "outageCount": 1,
+  "generated": "2026-03-04T06:09:46.416Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le dimanche 8 mars 2026 de  09:00:00 à  15:00:00",
+      "locality": "MARE D-ALBERT",
+      "localitySlug": "mare-d-albert",
+      "streets": "Mare D’Albert habitant dans le périmètre et les rues suivantes:NHDC Hortensia Mare D’Albert",
+      "district": "grandport",
+      "from": "2026-03-08T05:00:00.000Z",
+      "to": "2026-03-08T11:00:00.000Z",
+      "id": "794f14cefc891ad5437395b06a206383"
+    },
     {
       "date": "Le dimanche 8 mars 2026 de  09:00:00 à  14:00:00",
       "locality": "L-ESCALIER",

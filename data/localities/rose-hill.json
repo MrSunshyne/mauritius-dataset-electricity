@@ -2,11 +2,18 @@
   "slug": "rose-hill",
   "name": "ROSE-HILL",
   "district": "plainewilhems",
-  "generated": "2026-03-03T18:09:47.857Z",
-  "outageCount": 144,
+  "generated": "2026-03-04T06:09:46.703Z",
+  "outageCount": 145,
   "firstOutage": "2022-05-20",
-  "lastOutage": "2026-02-25",
+  "lastOutage": "2026-03-04",
   "outages": [
+    {
+      "date": "Le mercredi 4 mars 2026 de  09:30:00 à  10:30:00",
+      "streets": "AMBROSE ST, EDGAR LAURENT, ET DANS LES ALENTOURS DE DR RAMTOHUL",
+      "from": "2026-03-04T05:30:00.000Z",
+      "to": "2026-03-04T06:30:00.000Z",
+      "id": "e74368057e0f98bbb85e3cf878512e5a"
+    },
     {
       "date": "Le mercredi 25 février 2026 de  15:00:00 à  15:25:00",
       "streets": "BOUNDARY R HILL KANDA LANE, CACTUS LANE, LA RUE ORCHIDEE ET LES ALENTOURS",

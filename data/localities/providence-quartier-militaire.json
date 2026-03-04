@@ -2,11 +2,18 @@
   "slug": "providence-quartier-militaire",
   "name": "PROVIDENCE QUARTIER MILITAIRE",
   "district": "moka",
-  "generated": "2026-03-03T18:09:47.824Z",
-  "outageCount": 15,
+  "generated": "2026-03-04T06:09:46.673Z",
+  "outageCount": 16,
   "firstOutage": "2022-09-18",
-  "lastOutage": "2026-03-03",
+  "lastOutage": "2026-03-04",
   "outages": [
+    {
+      "date": "Le mercredi 4 mars 2026 de  09:45:00 à  10:45:00",
+      "streets": "SHIVALAH RD-KALIMAYE RD PROVIDENCE Q MILITAIRE",
+      "from": "2026-03-04T05:45:00.000Z",
+      "to": "2026-03-04T06:45:00.000Z",
+      "id": "38496299e604188ee7c431271d3d3f88"
+    },
     {
       "date": "Le mardi 3 mars 2026 de  09:00:00 à  15:00:00",
       "streets": "les périmètres et rues suivantes : Swami Sivananda Road, Shivala Road, Kalimaye Road et Bombaye Road",

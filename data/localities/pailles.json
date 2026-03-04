@@ -2,11 +2,18 @@
   "slug": "pailles",
   "name": "PAILLES",
   "district": "portlouis",
-  "generated": "2026-03-03T18:09:47.780Z",
-  "outageCount": 72,
+  "generated": "2026-03-04T06:09:46.634Z",
+  "outageCount": 73,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-02-27",
+  "lastOutage": "2026-03-04",
   "outages": [
+    {
+      "date": "Le mercredi 4 mars 2026 de  09:30:00 à  11:30:00",
+      "streets": "GUIBIES",
+      "from": "2026-03-04T05:30:00.000Z",
+      "to": "2026-03-04T07:30:00.000Z",
+      "id": "398c16fb4fee95b4fbd4aedf2b86e8f3"
+    },
     {
       "date": "Le vendredi 27 février 2026 de  15:40:00 à  19:30:00",
       "streets": "PART OF PAILLES ROAD, PART OF CAMP CHAPELON, SOREZE, MONTEBELLO, CITE JONCTION, MICHEAL LEAL, CWA CHLORINATION.",

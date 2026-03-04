@@ -2,11 +2,18 @@
   "slug": "lower-vale",
   "name": "LOWER VALE",
   "district": "rivieredurempart",
-  "generated": "2026-03-03T18:09:47.737Z",
-  "outageCount": 14,
+  "generated": "2026-03-04T06:09:46.597Z",
+  "outageCount": 15,
   "firstOutage": "2022-08-18",
-  "lastOutage": "2026-02-24",
+  "lastOutage": "2026-03-04",
   "outages": [
+    {
+      "date": "Le mercredi 4 mars 2026 de  09:05:00 à  12:00:00",
+      "streets": "LOWER VALE",
+      "from": "2026-03-04T05:05:00.000Z",
+      "to": "2026-03-04T08:00:00.000Z",
+      "id": "afc69f6531c169d6aec95639d05c599a"
+    },
     {
       "date": "Le mardi 24 février 2026 de  12:20:00 à  18:00:00",
       "streets": "LOWER VALE, UPPER VALE AND PART OF MON MASCAL PETIT RAFFRAY",
