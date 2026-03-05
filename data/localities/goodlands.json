@@ -2,11 +2,18 @@
   "slug": "goodlands",
   "name": "GOODLANDS",
   "district": "rivieredurempart",
-  "generated": "2026-03-05T11:09:51.025Z",
-  "outageCount": 119,
+  "generated": "2026-03-05T12:05:23.469Z",
+  "outageCount": 120,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-02-25",
+  "lastOutage": "2026-03-07",
   "outages": [
+    {
+      "date": "Le samedi 7 mars 2026 de  08:30:00 à  15:00:00",
+      "streets": "MORCELLEMENT DOMAINE DU MOULIN, GOODLANDS",
+      "from": "2026-03-07T04:30:00.000Z",
+      "to": "2026-03-07T11:00:00.000Z",
+      "id": "36225e6959202a234ebfa0b9e7b77688"
+    },
     {
       "date": "Le mercredi 25 février 2026 de  21:00:00 à  23:00:00",
       "streets": "DOMAINE DU MOULIN.",
