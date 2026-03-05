@@ -1,8 +1,8 @@
 {
   "date": "2026-03-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-05T06:11:19.133Z",
-  "outageCount": 8,
+  "generated": "2026-03-05T07:14:49.764Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le jeudi 5 mars 2026 de  08:30:00 à  16:30:00",
@@ -75,6 +75,16 @@
       "id": "7acdc9fa8501cc66129958876c2b534c"
     },
     {
+      "date": "Le jeudi 5 mars 2026 de  10:00:00 à  14:00:00",
+      "locality": "PLAISANCE ROSE HILL",
+      "localitySlug": "plaisance-rose-hill",
+      "streets": "AVENUE ST LOUIS/GIRODAY/PIGEOT",
+      "district": "plainewilhems",
+      "from": "2026-03-05T06:00:00.000Z",
+      "to": "2026-03-05T10:00:00.000Z",
+      "id": "e0a4ee92ed42bc36c67002a16d226207"
+    },
+    {
       "date": "Le jeudi 5 mars 2026 de  08:30:00 à  14:00:00",
       "locality": "PEREYBERE",
       "localitySlug": "pereybere",
@@ -83,6 +93,16 @@
       "from": "2026-03-05T04:30:00.000Z",
       "to": "2026-03-05T10:00:00.000Z",
       "id": "c96738b8cca6ce7cd4e772aae58454eb"
+    },
+    {
+      "date": "Le jeudi 5 mars 2026 de  10:45:00 à  12:00:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "TEMPLE RD RIVIERE DU REMPART",
+      "district": "rivieredurempart",
+      "from": "2026-03-05T06:45:00.000Z",
+      "to": "2026-03-05T08:00:00.000Z",
+      "id": "344a855574b689587b7a1d07cc767403"
     }
   ]
 }

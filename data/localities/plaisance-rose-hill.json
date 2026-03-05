@@ -2,11 +2,18 @@
   "slug": "plaisance-rose-hill",
   "name": "PLAISANCE ROSE HILL",
   "district": "plainewilhems",
-  "generated": "2026-03-05T06:11:19.377Z",
-  "outageCount": 7,
+  "generated": "2026-03-05T07:14:50.029Z",
+  "outageCount": 8,
   "firstOutage": "2022-07-13",
-  "lastOutage": "2026-03-04",
+  "lastOutage": "2026-03-05",
   "outages": [
+    {
+      "date": "Le jeudi 5 mars 2026 de  10:00:00 à  14:00:00",
+      "streets": "AVENUE ST LOUIS/GIRODAY/PIGEOT",
+      "from": "2026-03-05T06:00:00.000Z",
+      "to": "2026-03-05T10:00:00.000Z",
+      "id": "e0a4ee92ed42bc36c67002a16d226207"
+    },
     {
       "date": "Le mercredi 4 mars 2026 de  20:00:00 à  00:30:00",
       "streets": "PLAISANCE LA RUE PIGEOT/SISTER MARIE CLEMENCE /GIRODAY",
