@@ -2,11 +2,18 @@
   "slug": "nouvelle-france",
   "name": "NOUVELLE FRANCE",
   "district": "grandport",
-  "generated": "2026-03-05T08:05:50.667Z",
-  "outageCount": 35,
+  "generated": "2026-03-05T09:10:10.965Z",
+  "outageCount": 36,
   "firstOutage": "2022-05-12",
-  "lastOutage": "2026-02-01",
+  "lastOutage": "2026-03-05",
   "outages": [
+    {
+      "date": "Le jeudi 5 mars 2026 de  12:50:00 à  16:00:00",
+      "streets": "MORC NOUVELLE FRANCE NEAR PARBEAU,MORC SIT",
+      "from": "2026-03-05T08:50:00.000Z",
+      "to": "2026-03-05T12:00:00.000Z",
+      "id": "d9add66879a3cfe02c8e910d758d52cc"
+    },
     {
       "date": "Le dimanche 1 février 2026 de  08:30:00 à  16:00:00",
       "streets": "Beemanique et Motorway Nouvelle France habitant dans le périmètre et les rues suivantes: Zone Industriel Beemanique et une partie d’Autoroute Nouvelle France",

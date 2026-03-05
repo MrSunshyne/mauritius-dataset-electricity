@@ -2,11 +2,18 @@
   "slug": "dagotiere",
   "name": "DAGOTIERE",
   "district": "moka",
-  "generated": "2026-03-05T08:05:50.559Z",
-  "outageCount": 23,
+  "generated": "2026-03-05T09:10:10.853Z",
+  "outageCount": 24,
   "firstOutage": "2022-04-24",
-  "lastOutage": "2026-02-19",
+  "lastOutage": "2026-03-05",
   "outages": [
+    {
+      "date": "Le jeudi 5 mars 2026 de  13:00:00 à  14:00:00",
+      "streets": "SCHOOL ROAD DAGOTIERE",
+      "from": "2026-03-05T09:00:00.000Z",
+      "to": "2026-03-05T10:00:00.000Z",
+      "id": "cf19f74715da2f9d3ef34a1063eddc8e"
+    },
     {
       "date": "Le jeudi 19 février 2026 de  13:00:00 à  14:00:00",
       "streets": "Village L’Assurance, Lower Dagotiere et une partie Valetta",

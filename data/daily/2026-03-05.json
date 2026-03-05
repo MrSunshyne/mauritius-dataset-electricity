@@ -1,8 +1,8 @@
 {
   "date": "2026-03-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-05T08:05:50.434Z",
-  "outageCount": 10,
+  "generated": "2026-03-05T09:10:10.730Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le jeudi 5 mars 2026 de  08:30:00 à  16:30:00",
@@ -43,6 +43,26 @@
       "from": "2026-03-05T05:00:00.000Z",
       "to": "2026-03-05T09:00:00.000Z",
       "id": "a36fec9116ab2d57eec25656a9a644d8"
+    },
+    {
+      "date": "Le jeudi 5 mars 2026 de  12:50:00 à  16:00:00",
+      "locality": "NOUVELLE FRANCE",
+      "localitySlug": "nouvelle-france",
+      "streets": "MORC NOUVELLE FRANCE NEAR PARBEAU,MORC SIT",
+      "district": "grandport",
+      "from": "2026-03-05T08:50:00.000Z",
+      "to": "2026-03-05T12:00:00.000Z",
+      "id": "d9add66879a3cfe02c8e910d758d52cc"
+    },
+    {
+      "date": "Le jeudi 5 mars 2026 de  13:00:00 à  14:00:00",
+      "locality": "DAGOTIERE",
+      "localitySlug": "dagotiere",
+      "streets": "SCHOOL ROAD DAGOTIERE",
+      "district": "moka",
+      "from": "2026-03-05T09:00:00.000Z",
+      "to": "2026-03-05T10:00:00.000Z",
+      "id": "cf19f74715da2f9d3ef34a1063eddc8e"
     },
     {
       "date": "Le jeudi 5 mars 2026 de  09:00:00 à  14:00:00",
