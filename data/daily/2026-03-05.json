@@ -1,8 +1,8 @@
 {
   "date": "2026-03-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-05T10:10:16.624Z",
-  "outageCount": 12,
+  "generated": "2026-03-05T11:09:50.878Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le jeudi 5 mars 2026 de  08:30:00 à  16:30:00",
@@ -73,6 +73,16 @@
       "from": "2026-03-05T05:00:00.000Z",
       "to": "2026-03-05T10:00:00.000Z",
       "id": "cc2e6b86ff79fd8a605382048b452a93"
+    },
+    {
+      "date": "Le jeudi 5 mars 2026 de  14:20:00 à  17:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "MORC BEAU RIVAGE : CHEMINS COQUILLAGE, RED REEF, NEPTUNE, ETOILE DE MER, NAUTILUS ET LES ENVIRONS.",
+      "district": "pamplemousses",
+      "from": "2026-03-05T10:20:00.000Z",
+      "to": "2026-03-05T13:00:00.000Z",
+      "id": "67debe6c694b27a864a43cf3b5d75201"
     },
     {
       "date": "Le jeudi 5 mars 2026 de  16:00:00 à  18:00:00",

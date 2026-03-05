@@ -2,11 +2,18 @@
   "slug": "tombeau-bay",
   "name": "TOMBEAU BAY",
   "district": "pamplemousses",
-  "generated": "2026-03-05T10:10:16.964Z",
-  "outageCount": 132,
+  "generated": "2026-03-05T11:09:51.218Z",
+  "outageCount": 133,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-02-26",
+  "lastOutage": "2026-03-05",
   "outages": [
+    {
+      "date": "Le jeudi 5 mars 2026 de  14:20:00 à  17:00:00",
+      "streets": "MORC BEAU RIVAGE : CHEMINS COQUILLAGE, RED REEF, NEPTUNE, ETOILE DE MER, NAUTILUS ET LES ENVIRONS.",
+      "from": "2026-03-05T10:20:00.000Z",
+      "to": "2026-03-05T13:00:00.000Z",
+      "id": "67debe6c694b27a864a43cf3b5d75201"
+    },
     {
       "date": "Le jeudi 26 février 2026 de  08:50:00 à  17:00:00",
       "streets": "CITE FLORIDA",
