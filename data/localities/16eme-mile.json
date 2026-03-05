@@ -2,11 +2,18 @@
   "slug": "16eme-mile",
   "name": "16EME MILE",
   "district": "plainewilhems",
-  "generated": "2026-03-04T18:08:21.295Z",
-  "outageCount": 51,
+  "generated": "2026-03-05T06:11:19.146Z",
+  "outageCount": 52,
   "firstOutage": "2022-05-31",
-  "lastOutage": "2026-01-29",
+  "lastOutage": "2026-03-05",
   "outages": [
+    {
+      "date": "Le jeudi 5 mars 2026 de  09:00:00 à  15:00:00",
+      "streets": "MORC PITON LONG CHAMPS CORIOLIS RD 16EME MILL FOREST SIDE",
+      "from": "2026-03-05T05:00:00.000Z",
+      "to": "2026-03-05T11:00:00.000Z",
+      "id": "7acdc9fa8501cc66129958876c2b534c"
+    },
     {
       "date": "Le jeudi 29 janvier 2026 de  08:30:00 à  15:30:00",
       "streets": "ENTIERE REGION DE ROCHES NOIRES",

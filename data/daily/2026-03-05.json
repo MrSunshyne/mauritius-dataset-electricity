@@ -1,8 +1,8 @@
 {
   "date": "2026-03-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-04T18:08:21.281Z",
-  "outageCount": 5,
+  "generated": "2026-03-05T06:11:19.133Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le jeudi 5 mars 2026 de  08:30:00 à  16:30:00",
@@ -35,6 +35,16 @@
       "id": "442517be1c1ef53cdc1d66ff3cdaf25f"
     },
     {
+      "date": "Le jeudi 5 mars 2026 de  09:00:00 à  13:00:00",
+      "locality": "VIEUX GRAND PORT",
+      "localitySlug": "vieux-grand-port",
+      "streets": "CHEMIN STATION VIEW GRAND PORT",
+      "district": "grandport",
+      "from": "2026-03-05T05:00:00.000Z",
+      "to": "2026-03-05T09:00:00.000Z",
+      "id": "a36fec9116ab2d57eec25656a9a644d8"
+    },
+    {
       "date": "Le jeudi 5 mars 2026 de  09:00:00 à  14:00:00",
       "locality": "SOLITUDE",
       "localitySlug": "solitude",
@@ -53,6 +63,26 @@
       "from": "2026-03-05T12:00:00.000Z",
       "to": "2026-03-05T14:00:00.000Z",
       "id": "8ad1616b4d2ff10ea405663ce043348a"
+    },
+    {
+      "date": "Le jeudi 5 mars 2026 de  09:00:00 à  15:00:00",
+      "locality": "16EME MILE",
+      "localitySlug": "16eme-mile",
+      "streets": "MORC PITON LONG CHAMPS CORIOLIS RD 16EME MILL FOREST SIDE",
+      "district": "plainewilhems",
+      "from": "2026-03-05T05:00:00.000Z",
+      "to": "2026-03-05T11:00:00.000Z",
+      "id": "7acdc9fa8501cc66129958876c2b534c"
+    },
+    {
+      "date": "Le jeudi 5 mars 2026 de  08:30:00 à  14:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "BALI ROAD  VIEUX MOULIN PEREYBERE",
+      "district": "rivieredurempart",
+      "from": "2026-03-05T04:30:00.000Z",
+      "to": "2026-03-05T10:00:00.000Z",
+      "id": "c96738b8cca6ce7cd4e772aae58454eb"
     }
   ]
 }
