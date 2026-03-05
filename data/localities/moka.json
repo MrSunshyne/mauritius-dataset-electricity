@@ -2,11 +2,18 @@
   "slug": "moka",
   "name": "MOKA",
   "district": "moka",
-  "generated": "2026-03-05T07:14:49.980Z",
-  "outageCount": 63,
+  "generated": "2026-03-05T08:05:50.647Z",
+  "outageCount": 64,
   "firstOutage": "2022-06-13",
-  "lastOutage": "2026-02-20",
+  "lastOutage": "2026-03-07",
   "outages": [
+    {
+      "date": "Le samedi 7 mars 2026 de  08:30:00 à  15:30:00",
+      "streets": "Morc Bagatelle Estate, Morc Eureka, Leclezio Ave et Morc La Ravin",
+      "from": "2026-03-07T04:30:00.000Z",
+      "to": "2026-03-07T11:30:00.000Z",
+      "id": "d2fbdd784e9b3ef3f4c7ac7b919e08bd"
+    },
     {
       "date": "Le vendredi 20 février 2026 de  15:30:00 à  17:30:00",
       "streets": "Railway, Gentilly Branch Road, Morc Gentilly, Telfair et en partie Helvetia",

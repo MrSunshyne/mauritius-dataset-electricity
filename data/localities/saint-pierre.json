@@ -2,11 +2,18 @@
   "slug": "saint-pierre",
   "name": "SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-03-05T07:14:50.087Z",
-  "outageCount": 59,
+  "generated": "2026-03-05T08:05:50.753Z",
+  "outageCount": 60,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-02-28",
+  "lastOutage": "2026-03-08",
   "outages": [
+    {
+      "date": "Le dimanche 8 mars 2026 de  08:30:00 à  15:30:00",
+      "streets": "Route Bois Cheri, Riviere Baptiste, Francois Woo, en partie St Pierre et Le Pouce",
+      "from": "2026-03-08T04:30:00.000Z",
+      "to": "2026-03-08T11:30:00.000Z",
+      "id": "19529770a9a85bf6d610d711a5d0aa79"
+    },
     {
       "date": "Le samedi 28 février 2026 de  21:00:00 à  02:00:00",
       "streets": "CHEMIN ROUSETTE-BRANCHE RD- ROYAL RD PETIT VERGER ST PIERRE",

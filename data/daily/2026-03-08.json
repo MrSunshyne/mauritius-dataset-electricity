@@ -1,8 +1,8 @@
 {
   "date": "2026-03-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-05T07:14:49.764Z",
-  "outageCount": 6,
+  "generated": "2026-03-05T08:05:50.434Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le dimanche 8 mars 2026 de  09:00:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-03-08T05:00:00.000Z",
       "to": "2026-03-08T11:00:00.000Z",
       "id": "794f14cefc891ad5437395b06a206383"
+    },
+    {
+      "date": "Le dimanche 8 mars 2026 de  08:30:00 à  15:30:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "Route Bois Cheri, Riviere Baptiste, Francois Woo, en partie St Pierre et Le Pouce",
+      "district": "moka",
+      "from": "2026-03-08T04:30:00.000Z",
+      "to": "2026-03-08T11:30:00.000Z",
+      "id": "19529770a9a85bf6d610d711a5d0aa79"
     },
     {
       "date": "Le dimanche 8 mars 2026 de  08:30:00 à  15:00:00",
@@ -43,6 +53,16 @@
       "from": "2026-03-08T04:30:00.000Z",
       "to": "2026-03-08T12:00:00.000Z",
       "id": "dbfa594db1276e9c42b8d5eb827377e4"
+    },
+    {
+      "date": "Le dimanche 8 mars 2026 de  08:30:00 à  15:00:00",
+      "locality": "CITE CHEBEL",
+      "localitySlug": "cite-chebel",
+      "streets": "Ave Parakeet, Ave Pink Pigeon et les environs",
+      "district": "plainewilhems",
+      "from": "2026-03-08T04:30:00.000Z",
+      "to": "2026-03-08T11:00:00.000Z",
+      "id": "ab1ee4154dea976ae153c4a2eedd1a61"
     },
     {
       "date": "Le dimanche 8 mars 2026 de  08:30:00 à  14:00:00",
