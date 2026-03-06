@@ -1,9 +1,19 @@
 {
   "date": "2026-03-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-06T12:04:00.424Z",
-  "outageCount": 6,
+  "generated": "2026-03-06T13:21:06.879Z",
+  "outageCount": 7,
   "outages": [
+    {
+      "date": "Le vendredi 6 mars 2026 de  17:00:00 à  19:00:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "UNE PARTIE DE RIV NOIRE",
+      "district": "blackriver",
+      "from": "2026-03-06T13:00:00.000Z",
+      "to": "2026-03-06T15:00:00.000Z",
+      "id": "b6d07e18b8eb5b06a3f216d336d8c333"
+    },
     {
       "date": "Le vendredi 6 mars 2026 de  15:00:00 à  17:00:00",
       "locality": "VILLENOIRE",
