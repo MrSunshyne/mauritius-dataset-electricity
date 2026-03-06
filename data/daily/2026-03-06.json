@@ -1,8 +1,8 @@
 {
   "date": "2026-03-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-06T08:04:39.849Z",
-  "outageCount": 3,
+  "generated": "2026-03-06T09:08:04.663Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le vendredi 6 mars 2026 de  00:30:00 à  04:30:00",
@@ -33,6 +33,16 @@
       "from": "2026-03-06T04:30:00.000Z",
       "to": "2026-03-06T12:30:00.000Z",
       "id": "b64281ae9c4dc7f8123d99fbb285b363"
+    },
+    {
+      "date": "Le vendredi 6 mars 2026 de  10:00:00 à  14:30:00",
+      "locality": "CALODYNE",
+      "localitySlug": "calodyne",
+      "streets": "BUTTE A LHERBE CALODYNE",
+      "district": "rivieredurempart",
+      "from": "2026-03-06T06:00:00.000Z",
+      "to": "2026-03-06T10:30:00.000Z",
+      "id": "cafcb1c484fb76f09df9d001fac8dfa4"
     }
   ]
 }

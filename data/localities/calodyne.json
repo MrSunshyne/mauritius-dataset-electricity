@@ -2,11 +2,18 @@
   "slug": "calodyne",
   "name": "CALODYNE",
   "district": "rivieredurempart",
-  "generated": "2026-03-06T08:04:39.921Z",
-  "outageCount": 34,
+  "generated": "2026-03-06T09:08:04.729Z",
+  "outageCount": 35,
   "firstOutage": "2022-09-10",
-  "lastOutage": "2026-02-27",
+  "lastOutage": "2026-03-06",
   "outages": [
+    {
+      "date": "Le vendredi 6 mars 2026 de  10:00:00 à  14:30:00",
+      "streets": "BUTTE A LHERBE CALODYNE",
+      "from": "2026-03-06T06:00:00.000Z",
+      "to": "2026-03-06T10:30:00.000Z",
+      "id": "cafcb1c484fb76f09df9d001fac8dfa4"
+    },
     {
       "date": "Le vendredi 27 février 2026 de  16:05:00 à  18:30:00",
       "streets": "CHEMIN MIRABELLE CALODYNE SUR MER.",
