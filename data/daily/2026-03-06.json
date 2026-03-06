@@ -1,9 +1,19 @@
 {
   "date": "2026-03-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-06T10:06:43.249Z",
-  "outageCount": 4,
+  "generated": "2026-03-06T11:06:12.723Z",
+  "outageCount": 6,
   "outages": [
+    {
+      "date": "Le vendredi 6 mars 2026 de  15:00:00 à  17:00:00",
+      "locality": "VILLENOIRE",
+      "localitySlug": "villenoire",
+      "streets": "MORC VRS",
+      "district": "grandport",
+      "from": "2026-03-06T11:00:00.000Z",
+      "to": "2026-03-06T13:00:00.000Z",
+      "id": "0fb1424e046958af8de18ca9380cf2f8"
+    },
     {
       "date": "Le vendredi 6 mars 2026 de  00:30:00 à  04:30:00",
       "locality": "TRIOLET",
@@ -13,6 +23,16 @@
       "from": "2026-03-05T20:30:00.000Z",
       "to": "2026-03-05T00:30:00.000Z",
       "id": "b50486b85260be2b968e9be5fba7e922"
+    },
+    {
+      "date": "Le vendredi 6 mars 2026 de  15:00:00 à  17:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "CAMP LILAS ET LES ALENTOURS",
+      "district": "pamplemousses",
+      "from": "2026-03-06T11:00:00.000Z",
+      "to": "2026-03-06T13:00:00.000Z",
+      "id": "519df4466c26dec6fe9b59da3bdc00a9"
     },
     {
       "date": "Le vendredi 6 mars 2026 de  16:00:00 à  18:00:00",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-06T10:06:43.610Z",
+  "generated": "2026-03-06T11:06:13.090Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -3895,7 +3895,7 @@
       "slug": "triolet",
       "name": "TRIOLET",
       "district": "pamplemousses",
-      "outageCount": 124,
+      "outageCount": 125,
       "file": "triolet.json",
       "firstOutage": "2022-04-08",
       "lastOutage": "2026-03-08"
@@ -4084,10 +4084,10 @@
       "slug": "villenoire",
       "name": "VILLENOIRE",
       "district": "grandport",
-      "outageCount": 50,
+      "outageCount": 51,
       "file": "villenoire.json",
       "firstOutage": "2022-06-10",
-      "lastOutage": "2026-02-21"
+      "lastOutage": "2026-03-06"
     },
     {
       "slug": "vuillemin-qmilitaire",

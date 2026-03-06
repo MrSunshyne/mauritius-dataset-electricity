@@ -2,8 +2,8 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-03-06T10:06:43.588Z",
-  "outageCount": 124,
+  "generated": "2026-03-06T11:06:13.068Z",
+  "outageCount": 125,
   "firstOutage": "2022-04-08",
   "lastOutage": "2026-03-08",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-03-08T04:30:00.000Z",
       "to": "2026-03-08T10:30:00.000Z",
       "id": "4b76906158d0350367ff495eb5169765"
+    },
+    {
+      "date": "Le vendredi 6 mars 2026 de  15:00:00 à  17:00:00",
+      "streets": "CAMP LILAS ET LES ALENTOURS",
+      "from": "2026-03-06T11:00:00.000Z",
+      "to": "2026-03-06T13:00:00.000Z",
+      "id": "519df4466c26dec6fe9b59da3bdc00a9"
     },
     {
       "date": "Le vendredi 6 mars 2026 de  00:30:00 à  04:30:00",
