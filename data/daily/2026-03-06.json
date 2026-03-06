@@ -1,9 +1,19 @@
 {
   "date": "2026-03-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-05T18:31:00.584Z",
-  "outageCount": 2,
+  "generated": "2026-03-06T06:10:20.295Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le vendredi 6 mars 2026 de  00:30:00 à  04:30:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "CAMP LILA, JAPANESE ROAD AND SURROUNDINGS",
+      "district": "pamplemousses",
+      "from": "2026-03-05T20:30:00.000Z",
+      "to": "2026-03-05T00:30:00.000Z",
+      "id": "b50486b85260be2b968e9be5fba7e922"
+    },
     {
       "date": "Le vendredi 6 mars 2026 de  16:00:00 à  18:00:00",
       "locality": "PHOENIX",
