@@ -1,8 +1,8 @@
 {
   "date": "2026-03-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-07T06:05:03.004Z",
-  "outageCount": 6,
+  "generated": "2026-03-07T07:07:28.341Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le samedi 7 mars 2026 de  08:30:00 à  15:30:00",
@@ -63,6 +63,26 @@
       "from": "2026-03-07T04:30:00.000Z",
       "to": "2026-03-07T11:00:00.000Z",
       "id": "36225e6959202a234ebfa0b9e7b77688"
+    },
+    {
+      "date": "Le samedi 7 mars 2026 de  10:30:00 à  15:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "SWAMI DAYANAND ROAD AND SURROUNDINGS",
+      "district": "rivieredurempart",
+      "from": "2026-03-07T06:30:00.000Z",
+      "to": "2026-03-07T11:00:00.000Z",
+      "id": "f8a3ce11e9d43e567af15a02d090e019"
+    },
+    {
+      "date": "Le samedi 7 mars 2026 de  08:30:00 à  15:30:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "POINTE LHERBE, ACCACIA",
+      "district": "rodrigues",
+      "from": "2026-03-07T04:30:00.000Z",
+      "to": "2026-03-07T11:30:00.000Z",
+      "id": "95d287e1582ff1b6b51902507e95daa6"
     }
   ]
 }

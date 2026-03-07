@@ -2,11 +2,18 @@
   "slug": "grand-bay",
   "name": "GRAND BAY",
   "district": "rivieredurempart",
-  "generated": "2026-03-07T06:05:03.141Z",
-  "outageCount": 101,
+  "generated": "2026-03-07T07:07:28.497Z",
+  "outageCount": 102,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-03-05",
+  "lastOutage": "2026-03-07",
   "outages": [
+    {
+      "date": "Le samedi 7 mars 2026 de  10:30:00 à  15:00:00",
+      "streets": "SWAMI DAYANAND ROAD AND SURROUNDINGS",
+      "from": "2026-03-07T06:30:00.000Z",
+      "to": "2026-03-07T11:00:00.000Z",
+      "id": "f8a3ce11e9d43e567af15a02d090e019"
+    },
     {
       "date": "Le jeudi 5 mars 2026 de  22:00:00 à  23:15:00",
       "streets": "GERANIUM ROAD AND SURROUNDINGS",
