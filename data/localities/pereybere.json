@@ -2,11 +2,25 @@
   "slug": "pereybere",
   "name": "PEREYBERE",
   "district": "rivieredurempart",
-  "generated": "2026-03-07T07:07:28.592Z",
-  "outageCount": 95,
+  "generated": "2026-03-07T08:01:51.100Z",
+  "outageCount": 97,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-03-05",
+  "lastOutage": "2026-03-07",
   "outages": [
+    {
+      "date": "Le samedi 7 mars 2026 de  11:45:00 à  12:30:00",
+      "streets": "MORC SWAN, OLD MILL ROAD, COASTAL ROAD AND SURROUNDINGS",
+      "from": "2026-03-07T07:45:00.000Z",
+      "to": "2026-03-07T08:30:00.000Z",
+      "id": "55bb1c1acb8f446baa88ddaaa13d6392"
+    },
+    {
+      "date": "Le samedi 7 mars 2026 de  11:15:00 à  12:30:00",
+      "streets": "OLD MILL ROAD AND SURROUNDINGS",
+      "from": "2026-03-07T07:15:00.000Z",
+      "to": "2026-03-07T08:30:00.000Z",
+      "id": "65b74c8e1b14ede27cea2cd7d983fd4a"
+    },
     {
       "date": "Le jeudi 5 mars 2026 de  08:30:00 à  14:00:00",
       "streets": "BALI ROAD  VIEUX MOULIN PEREYBERE",

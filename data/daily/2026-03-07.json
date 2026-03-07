@@ -1,8 +1,8 @@
 {
   "date": "2026-03-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-07T07:07:28.341Z",
-  "outageCount": 8,
+  "generated": "2026-03-07T08:01:50.862Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le samedi 7 mars 2026 de  08:30:00 à  15:30:00",
@@ -73,6 +73,26 @@
       "from": "2026-03-07T06:30:00.000Z",
       "to": "2026-03-07T11:00:00.000Z",
       "id": "f8a3ce11e9d43e567af15a02d090e019"
+    },
+    {
+      "date": "Le samedi 7 mars 2026 de  11:45:00 à  12:30:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "MORC SWAN, OLD MILL ROAD, COASTAL ROAD AND SURROUNDINGS",
+      "district": "rivieredurempart",
+      "from": "2026-03-07T07:45:00.000Z",
+      "to": "2026-03-07T08:30:00.000Z",
+      "id": "55bb1c1acb8f446baa88ddaaa13d6392"
+    },
+    {
+      "date": "Le samedi 7 mars 2026 de  11:15:00 à  12:30:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "OLD MILL ROAD AND SURROUNDINGS",
+      "district": "rivieredurempart",
+      "from": "2026-03-07T07:15:00.000Z",
+      "to": "2026-03-07T08:30:00.000Z",
+      "id": "65b74c8e1b14ede27cea2cd7d983fd4a"
     },
     {
       "date": "Le samedi 7 mars 2026 de  08:30:00 à  15:30:00",
