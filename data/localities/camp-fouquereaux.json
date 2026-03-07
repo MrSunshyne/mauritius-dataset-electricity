@@ -2,11 +2,18 @@
   "slug": "camp-fouquereaux",
   "name": "CAMP FOUQUEREAUX",
   "district": "plainewilhems",
-  "generated": "2026-03-07T14:02:25.341Z",
-  "outageCount": 35,
+  "generated": "2026-03-07T15:01:36.801Z",
+  "outageCount": 36,
   "firstOutage": "2022-03-31",
   "lastOutage": "2026-03-07",
   "outages": [
+    {
+      "date": "Le samedi 7 mars 2026 de  17:45:00 à  21:00:00",
+      "streets": "En partie Camp Fouquereaux (St Antoine Road, Terre Rouge Road), Plaines des Hermitages, Hermitage, Cinq Arpents, Morc Aurea, Morc Fareedun, part of Belle Rive, part of Cote dOr (NHDC Cote dOr).",
+      "from": "2026-03-07T13:45:00.000Z",
+      "to": "2026-03-07T17:00:00.000Z",
+      "id": "f771ee51020d598aefc3631edf57ad5e"
+    },
     {
       "date": "Le samedi 7 mars 2026 de  08:30:00 à  16:00:00",
       "streets": "Réservoir Road, Une partie de St Antoine Road, Nunloll Lane, Virginia Lane, Iris Lane No. 1 & No. 2",
