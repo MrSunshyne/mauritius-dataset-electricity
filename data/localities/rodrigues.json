@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-03-08T06:08:36.193Z",
-  "outageCount": 188,
+  "generated": "2026-03-08T07:09:57.605Z",
+  "outageCount": 189,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-03-07",
+  "lastOutage": "2026-03-08",
   "outages": [
+    {
+      "date": "Le dimanche 8 mars 2026 de  08:30:00 à  15:30:00",
+      "streets": "GRAND BAIE, JEAN TAC, ENGLISH BAY, MON VENUS & PART OF TERRE ROUGE",
+      "from": "2026-03-08T04:30:00.000Z",
+      "to": "2026-03-08T11:30:00.000Z",
+      "id": "8c0acf7c4a21d7e426accebf8058a2e3"
+    },
     {
       "date": "Le samedi 7 mars 2026 de  08:30:00 à  15:30:00",
       "streets": "POINTE LHERBE, ACCACIA",

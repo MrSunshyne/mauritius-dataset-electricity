@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-08T06:08:36.250Z",
+  "generated": "2026-03-08T07:09:57.662Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -1420,10 +1420,10 @@
       "slug": "ecroignard",
       "name": "ECROIGNARD",
       "district": "flacq",
-      "outageCount": 5,
+      "outageCount": 6,
       "file": "ecroignard.json",
       "firstOutage": "2023-05-13",
-      "lastOutage": "2025-10-06"
+      "lastOutage": "2026-03-08"
     },
     {
       "slug": "english-bay",
@@ -3490,10 +3490,10 @@
       "slug": "rodrigues",
       "name": "RODRIGUES",
       "district": "rodrigues",
-      "outageCount": 188,
+      "outageCount": 189,
       "file": "rodrigues.json",
       "firstOutage": "2022-03-15",
-      "lastOutage": "2026-03-07"
+      "lastOutage": "2026-03-08"
     },
     {
       "slug": "rose-belle",

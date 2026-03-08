@@ -2,11 +2,18 @@
   "slug": "ecroignard",
   "name": "ECROIGNARD",
   "district": "flacq",
-  "generated": "2026-03-08T06:08:36.019Z",
-  "outageCount": 5,
+  "generated": "2026-03-08T07:09:57.430Z",
+  "outageCount": 6,
   "firstOutage": "2023-05-13",
-  "lastOutage": "2025-10-06",
+  "lastOutage": "2026-03-08",
   "outages": [
+    {
+      "date": "Le dimanche 8 mars 2026 de  10:30:00 à  13:30:00",
+      "streets": "DISPENSARY ROAD",
+      "from": "2026-03-08T06:30:00.000Z",
+      "to": "2026-03-08T09:30:00.000Z",
+      "id": "f29399a2a483199a51c35c8a28c321d4"
+    },
     {
       "date": "Le lundi 6 octobre 2025 de  08:45:00 à  11:00:00",
       "streets": "VILLAGE HALL AND SURROUNDINGS",
