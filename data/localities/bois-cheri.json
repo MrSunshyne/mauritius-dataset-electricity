@@ -2,11 +2,18 @@
   "slug": "bois-cheri",
   "name": "BOIS CHERI",
   "district": "savanne",
-  "generated": "2026-03-08T08:02:13.304Z",
-  "outageCount": 31,
+  "generated": "2026-03-08T09:03:56.633Z",
+  "outageCount": 32,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-01-22",
+  "lastOutage": "2026-03-08",
   "outages": [
+    {
+      "date": "Le dimanche 8 mars 2026 de  12:30:00 à  15:30:00",
+      "streets": "N. France, Beau Climat La Flora, Grand Bois, Bois Cherie, Avalon, Grand Bassin, Petrin and Varangue sur Monde",
+      "from": "2026-03-08T08:30:00.000Z",
+      "to": "2026-03-08T11:30:00.000Z",
+      "id": "f4c33c9f6bbe07c09135dafccc892767"
+    },
     {
       "date": "Le jeudi 22 janvier 2026 de  09:00:00 à  15:00:00",
       "streets": "Bois Cheri et le perimètre de Mambahal Road, EDC, Dhunputh Lane, School Lane, Cooperative Road, Morc Tea Estate, Auckla Lane, Bois Cheri Tea Estate, Main Road and towards Post Office",

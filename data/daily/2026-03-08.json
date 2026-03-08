@@ -1,8 +1,8 @@
 {
   "date": "2026-03-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-08T08:02:13.243Z",
-  "outageCount": 14,
+  "generated": "2026-03-08T09:03:56.572Z",
+  "outageCount": 16,
   "outages": [
     {
       "date": "Le dimanche 8 mars 2026 de  10:30:00 à  13:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-03-08T06:30:00.000Z",
       "to": "2026-03-08T09:30:00.000Z",
       "id": "f29399a2a483199a51c35c8a28c321d4"
+    },
+    {
+      "date": "Le dimanche 8 mars 2026 de  12:50:00 à  16:00:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "HERMITAGE",
+      "district": "flacq",
+      "from": "2026-03-08T08:50:00.000Z",
+      "to": "2026-03-08T12:00:00.000Z",
+      "id": "9dd6276c8cb538b8ceca724512d45aed"
     },
     {
       "date": "Le dimanche 8 mars 2026 de  09:00:00 à  15:00:00",
@@ -133,6 +143,16 @@
       "from": "2026-03-08T05:00:00.000Z",
       "to": "2026-03-08T10:00:00.000Z",
       "id": "baf5c8777778c859f6328a7c8dcde661"
+    },
+    {
+      "date": "Le dimanche 8 mars 2026 de  12:30:00 à  15:30:00",
+      "locality": "BOIS CHERI",
+      "localitySlug": "bois-cheri",
+      "streets": "N. France, Beau Climat La Flora, Grand Bois, Bois Cherie, Avalon, Grand Bassin, Petrin and Varangue sur Monde",
+      "district": "savanne",
+      "from": "2026-03-08T08:30:00.000Z",
+      "to": "2026-03-08T11:30:00.000Z",
+      "id": "f4c33c9f6bbe07c09135dafccc892767"
     },
     {
       "date": "Le dimanche 8 mars 2026 de  08:30:00 à  15:30:00",
