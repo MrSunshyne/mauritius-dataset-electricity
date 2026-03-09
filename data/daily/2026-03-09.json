@@ -1,8 +1,8 @@
 {
   "date": "2026-03-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-09T06:16:15.685Z",
-  "outageCount": 7,
+  "generated": "2026-03-09T07:19:35.864Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le lundi 9 mars 2026 de  08:30:00 à  16:30:00",
@@ -73,6 +73,16 @@
       "from": "2026-03-09T05:00:00.000Z",
       "to": "2026-03-09T08:30:00.000Z",
       "id": "f26d6c6b2d257f67af8703d164c2243d"
+    },
+    {
+      "date": "Le lundi 9 mars 2026 de  10:00:00 à  12:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "ALLEE BRILLANT",
+      "district": "plainewilhems",
+      "from": "2026-03-09T06:00:00.000Z",
+      "to": "2026-03-09T08:00:00.000Z",
+      "id": "d49a29dee7d934714ad59a6a3d9c0cce"
     }
   ]
 }

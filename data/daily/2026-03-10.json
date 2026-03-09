@@ -1,8 +1,8 @@
 {
   "date": "2026-03-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-09T06:16:15.685Z",
-  "outageCount": 1,
+  "generated": "2026-03-09T07:19:35.864Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le mardi 10 mars 2026 de  08:30:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-03-10T04:30:00.000Z",
       "to": "2026-03-10T13:00:00.000Z",
       "id": "1053d12c714502dcaf93a5762b759912"
+    },
+    {
+      "date": "Le mardi 10 mars 2026 de  09:00:00 à  15:30:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "LES PERIMETRES DE JOHN KENNEDY ROAD, GRAND GAUBE",
+      "district": "rivieredurempart",
+      "from": "2026-03-10T05:00:00.000Z",
+      "to": "2026-03-10T11:30:00.000Z",
+      "id": "7da7b8b5449455a7da73485bb3b0353c"
     }
   ]
 }

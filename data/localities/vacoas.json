@@ -2,11 +2,18 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-03-09T06:16:16.021Z",
-  "outageCount": 228,
+  "generated": "2026-03-09T07:19:36.213Z",
+  "outageCount": 229,
   "firstOutage": "2022-03-17",
   "lastOutage": "2026-03-09",
   "outages": [
+    {
+      "date": "Le lundi 9 mars 2026 de  10:00:00 à  12:00:00",
+      "streets": "ALLEE BRILLANT",
+      "from": "2026-03-09T06:00:00.000Z",
+      "to": "2026-03-09T08:00:00.000Z",
+      "id": "d49a29dee7d934714ad59a6a3d9c0cce"
+    },
     {
       "date": "Le lundi 9 mars 2026 de  09:00:00 à  12:30:00",
       "streets": "VACOAS ET GLEN PARK:Route Engrais, Camp Koyri, Route Bernica, Morcellement Medine, Route Très-Bon No. 1, 2, 3 et No. 4, une partie de Route Cantin, Camp La Vanille",

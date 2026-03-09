@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-09T06:16:16.032Z",
+  "generated": "2026-03-09T07:19:36.226Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -1609,10 +1609,10 @@
       "slug": "grand-gaube",
       "name": "GRAND GAUBE",
       "district": "rivieredurempart",
-      "outageCount": 61,
+      "outageCount": 62,
       "file": "grand-gaube.json",
       "firstOutage": "2022-06-11",
-      "lastOutage": "2026-02-21"
+      "lastOutage": "2026-03-10"
     },
     {
       "slug": "grand-la-fouche-corail",
@@ -3994,7 +3994,7 @@
       "slug": "vacoas",
       "name": "VACOAS",
       "district": "plainewilhems",
-      "outageCount": 228,
+      "outageCount": 229,
       "file": "vacoas.json",
       "firstOutage": "2022-03-17",
       "lastOutage": "2026-03-09"

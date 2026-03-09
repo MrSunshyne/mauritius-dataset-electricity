@@ -2,11 +2,18 @@
   "slug": "grand-gaube",
   "name": "GRAND GAUBE",
   "district": "rivieredurempart",
-  "generated": "2026-03-09T06:16:15.828Z",
-  "outageCount": 61,
+  "generated": "2026-03-09T07:19:36.012Z",
+  "outageCount": 62,
   "firstOutage": "2022-06-11",
-  "lastOutage": "2026-02-21",
+  "lastOutage": "2026-03-10",
   "outages": [
+    {
+      "date": "Le mardi 10 mars 2026 de  09:00:00 à  15:30:00",
+      "streets": "LES PERIMETRES DE JOHN KENNEDY ROAD, GRAND GAUBE",
+      "from": "2026-03-10T05:00:00.000Z",
+      "to": "2026-03-10T11:30:00.000Z",
+      "id": "7da7b8b5449455a7da73485bb3b0353c"
+    },
     {
       "date": "Le samedi 21 février 2026 de  08:30:00 à  15:30:00",
       "streets": "ENTIERE REGION DE GRAND GAUBE",
