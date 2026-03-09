@@ -1,9 +1,19 @@
 {
   "date": "2026-03-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-08T18:01:47.796Z",
-  "outageCount": 2,
+  "generated": "2026-03-09T06:16:15.685Z",
+  "outageCount": 7,
   "outages": [
+    {
+      "date": "Le lundi 9 mars 2026 de  08:30:00 à  16:30:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "RIVIERE NOIRE",
+      "district": "blackriver",
+      "from": "2026-03-09T04:30:00.000Z",
+      "to": "2026-03-09T12:30:00.000Z",
+      "id": "2a6c6fe15604ac868ec8a6370e44a69f"
+    },
     {
       "date": "Le lundi 9 mars 2026 de  09:00:00 à  15:00:00",
       "locality": "EAU BLEUE TOSTEE",
@@ -23,6 +33,46 @@
       "from": "2026-03-09T05:00:00.000Z",
       "to": "2026-03-09T11:00:00.000Z",
       "id": "cd086f733392511f75923cd37fd1cae2"
+    },
+    {
+      "date": "Le lundi 9 mars 2026 de  10:00:00 à  12:00:00",
+      "locality": "COTE D-OR",
+      "localitySlug": "cote-d-or",
+      "streets": "Morcellement Plaine de L’Hérmitage et Morcellement VRS 5 Arpents Côte D’or",
+      "district": "moka",
+      "from": "2026-03-09T06:00:00.000Z",
+      "to": "2026-03-09T08:00:00.000Z",
+      "id": "370713d1b3c7387d12dc0c2521721cfd"
+    },
+    {
+      "date": "Le lundi 9 mars 2026 de  11:00:00 à  12:00:00",
+      "locality": "CALEBASSES",
+      "localitySlug": "calebasses",
+      "streets": "ET KHORATTY",
+      "district": "pamplemousses",
+      "from": "2026-03-09T07:00:00.000Z",
+      "to": "2026-03-09T08:00:00.000Z",
+      "id": "3c99eabd8c50d552b9ec3dd5ed319f65"
+    },
+    {
+      "date": "Le lundi 9 mars 2026 de  01:00:00 à  04:30:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "ROUTE ROYALE 8EME MILLE DANS LES ENVIRONS INTERNATIONAL COLLEGE/MOSQUE ET LES ENVIRONS.",
+      "district": "pamplemousses",
+      "from": "2026-03-08T21:00:00.000Z",
+      "to": "2026-03-08T00:30:00.000Z",
+      "id": "b2cce5de351d2c86bc57dda9fedaeee8"
+    },
+    {
+      "date": "Le lundi 9 mars 2026 de  09:00:00 à  12:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "VACOAS ET GLEN PARK:Route Engrais, Camp Koyri, Route Bernica, Morcellement Medine, Route Très-Bon No. 1, 2, 3 et No. 4, une partie de Route Cantin, Camp La Vanille",
+      "district": "plainewilhems",
+      "from": "2026-03-09T05:00:00.000Z",
+      "to": "2026-03-09T08:30:00.000Z",
+      "id": "f26d6c6b2d257f67af8703d164c2243d"
     }
   ]
 }

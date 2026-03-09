@@ -2,11 +2,18 @@
   "slug": "belle-mare",
   "name": "BELLE MARE",
   "district": "flacq",
-  "generated": "2026-03-08T18:01:47.866Z",
-  "outageCount": 28,
+  "generated": "2026-03-09T06:16:15.733Z",
+  "outageCount": 29,
   "firstOutage": "2022-08-07",
-  "lastOutage": "2026-01-08",
+  "lastOutage": "2026-03-10",
   "outages": [
+    {
+      "date": "Le mardi 10 mars 2026 de  08:30:00 à  17:00:00",
+      "streets": "Belle Mare dans les périmètres de Dahlia, Jasmin, Kalnia, Cremation Road, Route Royal, Shani Nagar Road, et dans les environs de station de police",
+      "from": "2026-03-10T04:30:00.000Z",
+      "to": "2026-03-10T13:00:00.000Z",
+      "id": "1053d12c714502dcaf93a5762b759912"
+    },
     {
       "date": "Le jeudi 8 janvier 2026 de  13:00:00 à  19:00:00",
       "streets": "BELLE MARE, PALMAR",

@@ -2,11 +2,18 @@
   "slug": "riviere-noire",
   "name": "RIVIERE NOIRE",
   "district": "blackriver",
-  "generated": "2026-03-08T18:01:48.149Z",
-  "outageCount": 42,
+  "generated": "2026-03-09T06:16:15.973Z",
+  "outageCount": 43,
   "firstOutage": "2022-06-03",
-  "lastOutage": "2026-03-06",
+  "lastOutage": "2026-03-09",
   "outages": [
+    {
+      "date": "Le lundi 9 mars 2026 de  08:30:00 à  16:30:00",
+      "streets": "RIVIERE NOIRE",
+      "from": "2026-03-09T04:30:00.000Z",
+      "to": "2026-03-09T12:30:00.000Z",
+      "id": "2a6c6fe15604ac868ec8a6370e44a69f"
+    },
     {
       "date": "Le vendredi 6 mars 2026 de  17:00:00 à  19:00:00",
       "streets": "UNE PARTIE DE RIV NOIRE",

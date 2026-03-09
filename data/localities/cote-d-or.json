@@ -2,11 +2,18 @@
   "slug": "cote-d-or",
   "name": "COTE D-OR",
   "district": "moka",
-  "generated": "2026-03-08T18:01:47.940Z",
-  "outageCount": 24,
+  "generated": "2026-03-09T06:16:15.798Z",
+  "outageCount": 25,
   "firstOutage": "2022-05-22",
-  "lastOutage": "2025-12-18",
+  "lastOutage": "2026-03-09",
   "outages": [
+    {
+      "date": "Le lundi 9 mars 2026 de  10:00:00 à  12:00:00",
+      "streets": "Morcellement Plaine de L’Hérmitage et Morcellement VRS 5 Arpents Côte D’or",
+      "from": "2026-03-09T06:00:00.000Z",
+      "to": "2026-03-09T08:00:00.000Z",
+      "id": "370713d1b3c7387d12dc0c2521721cfd"
+    },
     {
       "date": "Le jeudi 18 décembre 2025 de  09:45:00 à  13:30:00",
       "streets": "Cote DOr",

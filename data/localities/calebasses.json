@@ -2,11 +2,18 @@
   "slug": "calebasses",
   "name": "CALEBASSES",
   "district": "pamplemousses",
-  "generated": "2026-03-08T18:01:47.888Z",
-  "outageCount": 31,
+  "generated": "2026-03-09T06:16:15.752Z",
+  "outageCount": 32,
   "firstOutage": "2022-05-15",
-  "lastOutage": "2026-02-04",
+  "lastOutage": "2026-03-09",
   "outages": [
+    {
+      "date": "Le lundi 9 mars 2026 de  11:00:00 à  12:00:00",
+      "streets": "ET KHORATTY",
+      "from": "2026-03-09T07:00:00.000Z",
+      "to": "2026-03-09T08:00:00.000Z",
+      "id": "3c99eabd8c50d552b9ec3dd5ed319f65"
+    },
     {
       "date": "Le mercredi 4 février 2026 de  15:23:00 à  17:00:00",
       "streets": "L-ESPOIR RD,MOTORWAY, SHIVALA,ROYAL RD",

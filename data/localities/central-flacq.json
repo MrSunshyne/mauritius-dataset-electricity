@@ -2,11 +2,18 @@
   "slug": "central-flacq",
   "name": "CENTRAL FLACQ",
   "district": "flacq",
-  "generated": "2026-03-08T18:01:47.917Z",
-  "outageCount": 71,
+  "generated": "2026-03-09T06:16:15.778Z",
+  "outageCount": 72,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-03-08",
+  "lastOutage": "2026-03-11",
   "outages": [
+    {
+      "date": "Le mercredi 11 mars 2026 de  08:30:00 à  15:00:00",
+      "streets": "Flacq dans les périmètres de Casamally Rd, Francois Mitterand et dans les environs d’Eglise St Ursule",
+      "from": "2026-03-11T04:30:00.000Z",
+      "to": "2026-03-11T11:00:00.000Z",
+      "id": "86241a5b2ab4f5cd856abf235daa9190"
+    },
     {
       "date": "Le dimanche 8 mars 2026 de  12:50:00 à  16:00:00",
       "streets": "HERMITAGE",
