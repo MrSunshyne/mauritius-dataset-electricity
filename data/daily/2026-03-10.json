@@ -1,8 +1,8 @@
 {
   "date": "2026-03-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-09T10:13:07.330Z",
-  "outageCount": 3,
+  "generated": "2026-03-09T11:11:44.606Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le mardi 10 mars 2026 de  08:30:00 à  15:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-03-10T04:30:00.000Z",
       "to": "2026-03-10T11:30:00.000Z",
       "id": "7010ec8f908d5f1c045d676752633429"
+    },
+    {
+      "date": "Le mardi 10 mars 2026 de  14:00:00 à  18:30:00",
+      "locality": "BEAU SONGE",
+      "localitySlug": "beau-songe",
+      "streets": "SITE NSLD BEAUX SONGES ET CWA A BEAUX SONGES",
+      "district": "blackriver",
+      "from": "2026-03-10T10:00:00.000Z",
+      "to": "2026-03-10T14:30:00.000Z",
+      "id": "e57c3c6954232259dcd6e775ec8e8fb9"
     },
     {
       "date": "Le mardi 10 mars 2026 de  08:30:00 à  17:00:00",
