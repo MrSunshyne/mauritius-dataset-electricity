@@ -1,9 +1,19 @@
 {
   "date": "2026-03-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-09T09:12:06.402Z",
-  "outageCount": 2,
+  "generated": "2026-03-09T10:13:07.330Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le mardi 10 mars 2026 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "AVE LODAY, SHIVALA LANE ET UNE PARTIE DE FLIC EN FLAC ROAD",
+      "district": "blackriver",
+      "from": "2026-03-10T04:30:00.000Z",
+      "to": "2026-03-10T11:30:00.000Z",
+      "id": "7010ec8f908d5f1c045d676752633429"
+    },
     {
       "date": "Le mardi 10 mars 2026 de  08:30:00 à  17:00:00",
       "locality": "BELLE MARE",

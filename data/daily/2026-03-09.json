@@ -1,8 +1,8 @@
 {
   "date": "2026-03-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-09T09:12:06.402Z",
-  "outageCount": 8,
+  "generated": "2026-03-09T10:13:07.330Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le lundi 9 mars 2026 de  08:30:00 à  16:30:00",
@@ -83,6 +83,16 @@
       "from": "2026-03-09T06:00:00.000Z",
       "to": "2026-03-09T08:00:00.000Z",
       "id": "d49a29dee7d934714ad59a6a3d9c0cce"
+    },
+    {
+      "date": "Le lundi 9 mars 2026 de  13:45:00 à  15:00:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "AVE CONDE 2",
+      "district": "portlouis",
+      "from": "2026-03-09T09:45:00.000Z",
+      "to": "2026-03-09T11:00:00.000Z",
+      "id": "2e23ee9b4674375b837e9e934eced78a"
     }
   ]
 }

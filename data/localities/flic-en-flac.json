@@ -2,11 +2,18 @@
   "slug": "flic-en-flac",
   "name": "FLIC-EN-FLAC",
   "district": "blackriver",
-  "generated": "2026-03-09T09:12:06.539Z",
-  "outageCount": 213,
+  "generated": "2026-03-09T10:13:07.490Z",
+  "outageCount": 214,
   "firstOutage": "2022-03-16",
-  "lastOutage": "2026-02-27",
+  "lastOutage": "2026-03-10",
   "outages": [
+    {
+      "date": "Le mardi 10 mars 2026 de  08:30:00 à  15:30:00",
+      "streets": "AVE LODAY, SHIVALA LANE ET UNE PARTIE DE FLIC EN FLAC ROAD",
+      "from": "2026-03-10T04:30:00.000Z",
+      "to": "2026-03-10T11:30:00.000Z",
+      "id": "7010ec8f908d5f1c045d676752633429"
+    },
     {
       "date": "Le vendredi 27 février 2026 de  08:30:00 à  15:30:00",
       "streets": "MORC BISMIC- AVE DES CACATOES, AVE DES FAUCONS, AVE DES CARDINAUX, AVE DES SERIN, AVE PIC PIC, AVE DES AIGLES, AVE DES HERONS ET AVE DES COCOTIERS",
