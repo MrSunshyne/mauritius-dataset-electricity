@@ -2,11 +2,18 @@
   "slug": "cite-chebel",
   "name": "CITE CHEBEL",
   "district": "plainewilhems",
-  "generated": "2026-03-10T06:09:36.066Z",
-  "outageCount": 31,
+  "generated": "2026-03-10T07:13:39.143Z",
+  "outageCount": 32,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-03-08",
+  "lastOutage": "2026-03-11",
   "outages": [
+    {
+      "date": "Le mercredi 11 mars 2026 de  09:00:00 à  15:00:00",
+      "streets": "Ave Parakeet, Ave Pink Pigeon et les environs",
+      "from": "2026-03-11T05:00:00.000Z",
+      "to": "2026-03-11T11:00:00.000Z",
+      "id": "a581bc04531d6b604ae48fa6e84563bd"
+    },
     {
       "date": "Le dimanche 8 mars 2026 de  08:30:00 à  16:00:00",
       "streets": "Ave Parakeet, Ave Pink Pigeon et les environs",

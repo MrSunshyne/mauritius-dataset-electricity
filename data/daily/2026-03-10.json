@@ -1,8 +1,8 @@
 {
   "date": "2026-03-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-10T06:09:35.959Z",
-  "outageCount": 8,
+  "generated": "2026-03-10T07:13:39.037Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le mardi 10 mars 2026 de  08:30:00 à  15:30:00",
@@ -33,6 +33,16 @@
       "from": "2026-03-10T04:30:00.000Z",
       "to": "2026-03-10T13:00:00.000Z",
       "id": "1053d12c714502dcaf93a5762b759912"
+    },
+    {
+      "date": "Le mardi 10 mars 2026 de  15:30:00 à  17:30:00",
+      "locality": "NOUVELLE DECOUVERTE",
+      "localitySlug": "nouvelle-decouverte",
+      "streets": "Nouvelle Decouverte, MOA, Azaree, Bar Le Duc, Rajabally, MTS Ripaille, Sino Hydro, Reith Residence, Forget et Nouvelle Decouverte school",
+      "district": "moka",
+      "from": "2026-03-10T11:30:00.000Z",
+      "to": "2026-03-10T13:30:00.000Z",
+      "id": "f3cdaf001019ce7234048b326377a0fb"
     },
     {
       "date": "Le mardi 10 mars 2026 de  10:00:00 à  11:00:00",

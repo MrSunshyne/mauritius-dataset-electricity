@@ -2,11 +2,18 @@
   "slug": "nouvelle-decouverte",
   "name": "NOUVELLE DECOUVERTE",
   "district": "moka",
-  "generated": "2026-03-10T06:09:36.192Z",
-  "outageCount": 27,
+  "generated": "2026-03-10T07:13:39.271Z",
+  "outageCount": 28,
   "firstOutage": "2022-12-13",
-  "lastOutage": "2026-02-12",
+  "lastOutage": "2026-03-10",
   "outages": [
+    {
+      "date": "Le mardi 10 mars 2026 de  15:30:00 à  17:30:00",
+      "streets": "Nouvelle Decouverte, MOA, Azaree, Bar Le Duc, Rajabally, MTS Ripaille, Sino Hydro, Reith Residence, Forget et Nouvelle Decouverte school",
+      "from": "2026-03-10T11:30:00.000Z",
+      "to": "2026-03-10T13:30:00.000Z",
+      "id": "f3cdaf001019ce7234048b326377a0fb"
+    },
     {
       "date": "Le jeudi 12 février 2026 de  10:00:00 à  12:30:00",
       "streets": "SCHOOL ROAD NOUVELLE DECOUVERTE",

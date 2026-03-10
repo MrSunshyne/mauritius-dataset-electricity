@@ -1,8 +1,8 @@
 {
   "date": "2026-03-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-10T06:09:35.959Z",
-  "outageCount": 1,
+  "generated": "2026-03-10T07:13:39.037Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le mercredi 11 mars 2026 de  08:30:00 à  15:00:00",
@@ -13,6 +13,26 @@
       "from": "2026-03-11T04:30:00.000Z",
       "to": "2026-03-11T11:00:00.000Z",
       "id": "86241a5b2ab4f5cd856abf235daa9190"
+    },
+    {
+      "date": "Le mercredi 11 mars 2026 de  09:00:00 à  12:00:00",
+      "locality": "PETIT CAMP",
+      "localitySlug": "petit-camp",
+      "streets": "PETIT CAMP  ET PHOENIX: Sofia Lane No. 1, Sofia Lane No. 2, Sofia Lane No. 3, Morc. Damree et une partie de Petit Camp",
+      "district": "plainewilhems",
+      "from": "2026-03-11T05:00:00.000Z",
+      "to": "2026-03-11T08:00:00.000Z",
+      "id": "b294d9cb28baa0ce666021cd34e099a9"
+    },
+    {
+      "date": "Le mercredi 11 mars 2026 de  09:00:00 à  15:00:00",
+      "locality": "CITE CHEBEL",
+      "localitySlug": "cite-chebel",
+      "streets": "Ave Parakeet, Ave Pink Pigeon et les environs",
+      "district": "plainewilhems",
+      "from": "2026-03-11T05:00:00.000Z",
+      "to": "2026-03-11T11:00:00.000Z",
+      "id": "a581bc04531d6b604ae48fa6e84563bd"
     }
   ]
 }
