@@ -2,11 +2,18 @@
   "slug": "tranquebar",
   "name": "TRANQUEBAR",
   "district": "portlouis",
-  "generated": "2026-03-10T11:09:37.957Z",
-  "outageCount": 22,
+  "generated": "2026-03-10T12:04:43.214Z",
+  "outageCount": 23,
   "firstOutage": "2022-06-20",
-  "lastOutage": "2026-03-01",
+  "lastOutage": "2026-03-10",
   "outages": [
+    {
+      "date": "Le mardi 10 mars 2026 de  15:00:00 à  15:45:00",
+      "streets": "BANGLADESH",
+      "from": "2026-03-10T11:00:00.000Z",
+      "to": "2026-03-10T11:45:00.000Z",
+      "id": "c22f1c73f02ebb9b816ff4604cc0f42d"
+    },
     {
       "date": "Le dimanche 1 mars 2026 de  14:00:00 à  15:00:00",
       "streets": "DANS LES ENVIRONS DES RUES CHATEAU DEAU, MAHATMA GANDHI, FRERE FELIX DE VALOIS ET PANDIT DHOORUNDUR",

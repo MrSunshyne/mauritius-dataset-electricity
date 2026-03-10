@@ -2,11 +2,18 @@
   "slug": "mont-roches",
   "name": "MONT ROCHES",
   "district": "plainewilhems",
-  "generated": "2026-03-10T11:09:37.836Z",
-  "outageCount": 22,
+  "generated": "2026-03-10T12:04:43.094Z",
+  "outageCount": 23,
   "firstOutage": "2022-05-08",
-  "lastOutage": "2026-02-08",
+  "lastOutage": "2026-03-10",
   "outages": [
+    {
+      "date": "Le mardi 10 mars 2026 de  15:00:00 à  17:30:00",
+      "streets": "MORC PILLAY, BAKORYSINGH, NEAR PRISON",
+      "from": "2026-03-10T11:00:00.000Z",
+      "to": "2026-03-10T13:30:00.000Z",
+      "id": "a21a1bbe9e90b350550241887e5b9d4b"
+    },
     {
       "date": "Le dimanche 8 février 2026 de  08:30:00 à  14:00:00",
       "streets": "Bakorysing, School Lane, Verge Bisambar, en partie Raymond Rivet et les environs",

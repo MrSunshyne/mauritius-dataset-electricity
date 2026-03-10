@@ -1,8 +1,8 @@
 {
   "date": "2026-03-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-10T11:09:37.614Z",
-  "outageCount": 13,
+  "generated": "2026-03-10T12:04:42.872Z",
+  "outageCount": 15,
   "outages": [
     {
       "date": "Le mardi 10 mars 2026 de  08:30:00 à  15:30:00",
@@ -85,6 +85,16 @@
       "id": "eb9e4487ef211d2bffb8b94c9b20f8a4"
     },
     {
+      "date": "Le mardi 10 mars 2026 de  15:00:00 à  17:30:00",
+      "locality": "MONT ROCHES",
+      "localitySlug": "mont-roches",
+      "streets": "MORC PILLAY, BAKORYSINGH, NEAR PRISON",
+      "district": "plainewilhems",
+      "from": "2026-03-10T11:00:00.000Z",
+      "to": "2026-03-10T13:30:00.000Z",
+      "id": "a21a1bbe9e90b350550241887e5b9d4b"
+    },
+    {
       "date": "Le mardi 10 mars 2026 de  09:40:00 à  10:45:00",
       "locality": "PAILLES",
       "localitySlug": "pailles",
@@ -103,6 +113,16 @@
       "from": "2026-03-10T08:00:00.000Z",
       "to": "2026-03-10T09:30:00.000Z",
       "id": "6336985eebab7bc9ba944aaf3fa5f829"
+    },
+    {
+      "date": "Le mardi 10 mars 2026 de  15:00:00 à  15:45:00",
+      "locality": "TRANQUEBAR",
+      "localitySlug": "tranquebar",
+      "streets": "BANGLADESH",
+      "district": "portlouis",
+      "from": "2026-03-10T11:00:00.000Z",
+      "to": "2026-03-10T11:45:00.000Z",
+      "id": "c22f1c73f02ebb9b816ff4604cc0f42d"
     },
     {
       "date": "Le mardi 10 mars 2026 de  09:00:00 à  15:30:00",
