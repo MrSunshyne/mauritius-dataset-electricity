@@ -1,8 +1,8 @@
 {
   "date": "2026-03-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-09T18:10:55.744Z",
-  "outageCount": 4,
+  "generated": "2026-03-10T06:09:35.959Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le mardi 10 mars 2026 de  08:30:00 à  15:30:00",
@@ -35,6 +35,36 @@
       "id": "1053d12c714502dcaf93a5762b759912"
     },
     {
+      "date": "Le mardi 10 mars 2026 de  10:00:00 à  11:00:00",
+      "locality": "WOOTUN",
+      "localitySlug": "wootun",
+      "streets": "MORC PINEWOOD",
+      "district": "plainewilhems",
+      "from": "2026-03-10T06:00:00.000Z",
+      "to": "2026-03-10T07:00:00.000Z",
+      "id": "f32a6f421919baa28b390dd2fe8a15f4"
+    },
+    {
+      "date": "Le mardi 10 mars 2026 de  10:00:00 à  11:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "MORC VALAYDON ET WINNERS",
+      "district": "plainewilhems",
+      "from": "2026-03-10T06:00:00.000Z",
+      "to": "2026-03-10T07:00:00.000Z",
+      "id": "2511dcf9cd16374b12c511f81f4fdb45"
+    },
+    {
+      "date": "Le mardi 10 mars 2026 de  09:40:00 à  10:45:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "GUIBIES",
+      "district": "portlouis",
+      "from": "2026-03-10T05:40:00.000Z",
+      "to": "2026-03-10T06:45:00.000Z",
+      "id": "fcad2280ba6162ca80d4edf55e2aec6b"
+    },
+    {
       "date": "Le mardi 10 mars 2026 de  09:00:00 à  15:30:00",
       "locality": "GRAND GAUBE",
       "localitySlug": "grand-gaube",
@@ -43,6 +73,16 @@
       "from": "2026-03-10T05:00:00.000Z",
       "to": "2026-03-10T11:30:00.000Z",
       "id": "7da7b8b5449455a7da73485bb3b0353c"
+    },
+    {
+      "date": "Le mardi 10 mars 2026 de  09:00:00 à  16:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "CAMP PINTADE, MONT CROUPIER, BAIE TOPAZE",
+      "district": "rodrigues",
+      "from": "2026-03-10T05:00:00.000Z",
+      "to": "2026-03-10T12:00:00.000Z",
+      "id": "a0cf7dddf1f825f7095648bf842b74a1"
     }
   ]
 }

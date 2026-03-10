@@ -2,11 +2,18 @@
   "slug": "wootun",
   "name": "WOOTUN",
   "district": "plainewilhems",
-  "generated": "2026-03-09T18:10:56.113Z",
-  "outageCount": 23,
+  "generated": "2026-03-10T06:09:36.325Z",
+  "outageCount": 24,
   "firstOutage": "2022-08-05",
-  "lastOutage": "2026-01-09",
+  "lastOutage": "2026-03-10",
   "outages": [
+    {
+      "date": "Le mardi 10 mars 2026 de  10:00:00 à  11:00:00",
+      "streets": "MORC PINEWOOD",
+      "from": "2026-03-10T06:00:00.000Z",
+      "to": "2026-03-10T07:00:00.000Z",
+      "id": "f32a6f421919baa28b390dd2fe8a15f4"
+    },
     {
       "date": "Le vendredi 9 janvier 2026 de  13:30:00 à  14:45:00",
       "streets": "PINEWOOD GARDEN, INDIAN OIL ET LES ALENTOURS",

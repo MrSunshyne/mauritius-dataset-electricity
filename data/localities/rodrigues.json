@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-03-09T18:10:56.057Z",
-  "outageCount": 189,
+  "generated": "2026-03-10T06:09:36.269Z",
+  "outageCount": 190,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-03-08",
+  "lastOutage": "2026-03-10",
   "outages": [
+    {
+      "date": "Le mardi 10 mars 2026 de  09:00:00 à  16:00:00",
+      "streets": "CAMP PINTADE, MONT CROUPIER, BAIE TOPAZE",
+      "from": "2026-03-10T05:00:00.000Z",
+      "to": "2026-03-10T12:00:00.000Z",
+      "id": "a0cf7dddf1f825f7095648bf842b74a1"
+    },
     {
       "date": "Le dimanche 8 mars 2026 de  08:30:00 à  15:30:00",
       "streets": "GRAND BAIE, JEAN TAC, ENGLISH BAY, MON VENUS & PART OF TERRE ROUGE",

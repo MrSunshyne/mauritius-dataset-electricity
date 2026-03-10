@@ -2,11 +2,18 @@
   "slug": "pailles",
   "name": "PAILLES",
   "district": "portlouis",
-  "generated": "2026-03-09T18:10:55.983Z",
-  "outageCount": 74,
+  "generated": "2026-03-10T06:09:36.196Z",
+  "outageCount": 75,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-03-09",
+  "lastOutage": "2026-03-10",
   "outages": [
+    {
+      "date": "Le mardi 10 mars 2026 de  09:40:00 à  10:45:00",
+      "streets": "GUIBIES",
+      "from": "2026-03-10T05:40:00.000Z",
+      "to": "2026-03-10T06:45:00.000Z",
+      "id": "fcad2280ba6162ca80d4edf55e2aec6b"
+    },
     {
       "date": "Le lundi 9 mars 2026 de  13:45:00 à  15:00:00",
       "streets": "AVE CONDE 2",
