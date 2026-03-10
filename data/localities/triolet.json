@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-03-10T10:10:04.130Z",
-  "outageCount": 126,
+  "generated": "2026-03-10T11:09:37.960Z",
+  "outageCount": 127,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-03-09",
+  "lastOutage": "2026-03-10",
   "outages": [
+    {
+      "date": "Le mardi 10 mars 2026 de  14:20:00 à  15:10:00",
+      "streets": "TRIOLET 9TH MILE, TROU AUX BICHES, TRIO ROAD & COASTAL ROAD",
+      "from": "2026-03-10T10:20:00.000Z",
+      "to": "2026-03-10T11:10:00.000Z",
+      "id": "4f1cd5ff0c36d3e666e00fe9a0c308af"
+    },
     {
       "date": "Le lundi 9 mars 2026 de  01:00:00 à  04:30:00",
       "streets": "ROUTE ROYALE 8EME MILLE DANS LES ENVIRONS INTERNATIONAL COLLEGE/MOSQUE ET LES ENVIRONS.",
