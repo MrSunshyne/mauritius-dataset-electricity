@@ -2,11 +2,18 @@
   "slug": "plaine-des-roches",
   "name": "PLAINE DES ROCHES",
   "district": "rivieredurempart",
-  "generated": "2026-03-10T09:11:17.540Z",
-  "outageCount": 31,
+  "generated": "2026-03-10T10:10:04.029Z",
+  "outageCount": 32,
   "firstOutage": "2022-04-24",
-  "lastOutage": "2026-02-17",
+  "lastOutage": "2026-03-10",
   "outages": [
+    {
+      "date": "Le mardi 10 mars 2026 de  14:00:00 à  16:00:00",
+      "streets": "BRANCH ROAD, DISPENSARY ROAD, RAPID SERVICE LTD & SURROUNDINGS",
+      "from": "2026-03-10T10:00:00.000Z",
+      "to": "2026-03-10T12:00:00.000Z",
+      "id": "0d211cd031f3835831094f7579a5f682"
+    },
     {
       "date": "Le mardi 17 février 2026 de  16:25:00 à  17:30:00",
       "streets": "PLAINE DES ROCHES, RIVIERE DU REMPART",

@@ -1,8 +1,8 @@
 {
   "date": "2026-03-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-10T09:11:17.275Z",
-  "outageCount": 11,
+  "generated": "2026-03-10T10:10:03.751Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le mardi 10 mars 2026 de  08:30:00 à  15:30:00",
@@ -103,6 +103,16 @@
       "from": "2026-03-10T05:00:00.000Z",
       "to": "2026-03-10T11:30:00.000Z",
       "id": "7da7b8b5449455a7da73485bb3b0353c"
+    },
+    {
+      "date": "Le mardi 10 mars 2026 de  14:00:00 à  16:00:00",
+      "locality": "PLAINE DES ROCHES",
+      "localitySlug": "plaine-des-roches",
+      "streets": "BRANCH ROAD, DISPENSARY ROAD, RAPID SERVICE LTD & SURROUNDINGS",
+      "district": "rivieredurempart",
+      "from": "2026-03-10T10:00:00.000Z",
+      "to": "2026-03-10T12:00:00.000Z",
+      "id": "0d211cd031f3835831094f7579a5f682"
     },
     {
       "date": "Le mardi 10 mars 2026 de  09:00:00 à  16:00:00",
