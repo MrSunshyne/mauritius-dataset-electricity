@@ -1,0 +1,28 @@
+{
+  "date": "2026-03-16",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-03-11T11:09:33.915Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le lundi 16 mars 2026 de  11:00:00 à  16:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "Morc St Jacques: Ave St Jacques, Ave St Paul, Ave St Pierre, Ave des Alamandas, Ave des Glaieuls, Ave des Filaos, Ave des Capucines, Ave des Peupliers, Ave des Rosiers et Ave des Letchiers",
+      "district": "blackriver",
+      "from": "2026-03-16T07:00:00.000Z",
+      "to": "2026-03-16T12:30:00.000Z",
+      "id": "7788fce44f8b9b8439144b054db6e0b1"
+    },
+    {
+      "date": "Le lundi 16 mars 2026 de  08:30:00 à  16:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "Morc de Chazal: Ave des Pelicans, Ave des Albatros, Ave des Mouettes, Ave des Perroquets, Ave des Kestrels et une partie de Ave Carriere",
+      "district": "blackriver",
+      "from": "2026-03-16T04:30:00.000Z",
+      "to": "2026-03-16T12:00:00.000Z",
+      "id": "d114d1f9342464c8b944a26432dc5be1"
+    }
+  ]
+}
