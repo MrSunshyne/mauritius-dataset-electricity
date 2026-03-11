@@ -2,11 +2,18 @@
   "slug": "arsenal",
   "name": "ARSENAL",
   "district": "pamplemousses",
-  "generated": "2026-03-11T08:06:53.130Z",
-  "outageCount": 54,
+  "generated": "2026-03-11T09:10:32.791Z",
+  "outageCount": 55,
   "firstOutage": "2022-05-25",
-  "lastOutage": "2026-03-08",
+  "lastOutage": "2026-03-14",
   "outages": [
+    {
+      "date": "Le samedi 14 mars 2026 de  08:30:00 à  13:00:00",
+      "streets": "DANS LES ENVIRONS DE BM HALL ET LUX BLANCHISSERIE",
+      "from": "2026-03-14T04:30:00.000Z",
+      "to": "2026-03-14T09:00:00.000Z",
+      "id": "426590b4e7109249bdc71285daef4e0c"
+    },
     {
       "date": "Le dimanche 8 mars 2026 de  08:30:00 à  15:00:00",
       "streets": "LES ABONNES DE SAINT JOSEPH ARSENAL HABITANT DANS LES ENVIRONS DUNE PARTIE DE LA ROUTE ROYALE",
