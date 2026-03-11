@@ -1,8 +1,8 @@
 {
   "date": "2026-03-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-11T12:05:27.297Z",
-  "outageCount": 8,
+  "generated": "2026-03-11T13:25:02.714Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le mercredi 11 mars 2026 de  08:30:00 à  15:00:00",
@@ -63,6 +63,16 @@
       "from": "2026-03-11T07:00:00.000Z",
       "to": "2026-03-11T09:00:00.000Z",
       "id": "e26cad17e3f08e9453747749154812c3"
+    },
+    {
+      "date": "Le mercredi 11 mars 2026 de  17:00:00 à  22:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "Part of Military Road, Paul Taureau, NHDC Vallee Des Pretes, Ste Croix (St Gabriel, Ste Marie, Cite La Cure, Morc. La Vallee), Pere Laval, Capitaine Pontre, Morc Raffray Le Hochet T.Rouge.",
+      "district": "portlouis",
+      "from": "2026-03-11T13:00:00.000Z",
+      "to": "2026-03-11T18:00:00.000Z",
+      "id": "ed277275808cb222594127420e48d7a0"
     },
     {
       "date": "Le mercredi 11 mars 2026 de  14:00:00 à  15:00:00",

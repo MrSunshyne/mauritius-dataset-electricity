@@ -2,11 +2,18 @@
   "slug": "plaine-des-roches",
   "name": "PLAINE DES ROCHES",
   "district": "rivieredurempart",
-  "generated": "2026-03-11T12:05:27.557Z",
-  "outageCount": 32,
+  "generated": "2026-03-11T13:25:02.977Z",
+  "outageCount": 33,
   "firstOutage": "2022-04-24",
-  "lastOutage": "2026-03-10",
+  "lastOutage": "2026-03-15",
   "outages": [
+    {
+      "date": "Le dimanche 15 mars 2026 de  08:30:00 à  15:00:00",
+      "streets": "ROUTE ROYALE PLAINES DES ROCHES AUX ALENTOURS DE MANGUE BLANC",
+      "from": "2026-03-15T04:30:00.000Z",
+      "to": "2026-03-15T11:00:00.000Z",
+      "id": "9810c692fac22d57df105c9c70d694a7"
+    },
     {
       "date": "Le mardi 10 mars 2026 de  14:00:00 à  16:00:00",
       "streets": "BRANCH ROAD, DISPENSARY ROAD, RAPID SERVICE LTD & SURROUNDINGS",
