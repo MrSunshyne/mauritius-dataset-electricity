@@ -2,11 +2,25 @@
   "slug": "16eme-mile",
   "name": "16EME MILE",
   "district": "plainewilhems",
-  "generated": "2026-03-10T18:10:54.269Z",
-  "outageCount": 52,
+  "generated": "2026-03-11T06:11:14.358Z",
+  "outageCount": 54,
   "firstOutage": "2022-05-31",
-  "lastOutage": "2026-03-05",
+  "lastOutage": "2026-03-15",
   "outages": [
+    {
+      "date": "Le dimanche 15 mars 2026 de  12:00:00 à  15:00:00",
+      "streets": "dans les environs de Residence Mon Bois",
+      "from": "2026-03-15T08:00:00.000Z",
+      "to": "2026-03-15T11:00:00.000Z",
+      "id": "05de4ee0b7ff3d80a154d4b9974f0be4"
+    },
+    {
+      "date": "Le dimanche 15 mars 2026 de  08:00:00 à  12:00:00",
+      "streets": "dans les environs de Residence Anoushka",
+      "from": "2026-03-15T04:00:00.000Z",
+      "to": "2026-03-15T08:00:00.000Z",
+      "id": "e8043f19a2875c4ce0bd1be6a4b1cc5f"
+    },
     {
       "date": "Le jeudi 5 mars 2026 de  09:00:00 à  15:00:00",
       "streets": "MORC PITON LONG CHAMPS CORIOLIS RD 16EME MILL FOREST SIDE",

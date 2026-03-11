@@ -1,0 +1,28 @@
+{
+  "date": "2026-03-14",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-03-11T06:11:14.347Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le samedi 14 mars 2026 de  09:00:00 à  16:00:00",
+      "locality": "PETIT PAQUET",
+      "localitySlug": "petit-paquet",
+      "streets": "dans les environs de Petit Paquet Montagne Blanche",
+      "district": "flacq",
+      "from": "2026-03-14T05:00:00.000Z",
+      "to": "2026-03-14T12:00:00.000Z",
+      "id": "b3288ea54edffa2fcc37629af84b2173"
+    },
+    {
+      "date": "Le samedi 14 mars 2026 de  08:30:00 à  15:00:00",
+      "locality": "RICHE TERRE",
+      "localitySlug": "riche-terre",
+      "streets": "DANS LES ENVIRONS DE SUBASH CHANDRA BOSS STREET, SHIVALA ROAD, TAGORE ROAD ET RICHE TERRE ROAD",
+      "district": "pamplemousses",
+      "from": "2026-03-14T04:30:00.000Z",
+      "to": "2026-03-14T11:00:00.000Z",
+      "id": "4a6d81a6b543a9b4503ae2437f6c2102"
+    }
+  ]
+}

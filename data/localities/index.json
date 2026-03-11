@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-10T18:10:54.627Z",
+  "generated": "2026-03-11T06:11:14.715Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -7,10 +7,10 @@
       "slug": "16eme-mile",
       "name": "16EME MILE",
       "district": "plainewilhems",
-      "outageCount": 52,
+      "outageCount": 54,
       "file": "16eme-mile.json",
       "firstOutage": "2022-05-31",
-      "lastOutage": "2026-03-05"
+      "lastOutage": "2026-03-15"
     },
     {
       "slug": "abercrombie",
@@ -196,10 +196,10 @@
       "slug": "baladirou",
       "name": "BALADIROU(RODRIGUES)",
       "district": "rodrigues",
-      "outageCount": 5,
+      "outageCount": 6,
       "file": "baladirou.json",
       "firstOutage": "2023-10-18",
-      "lastOutage": "2026-02-12"
+      "lastOutage": "2026-03-11"
     },
     {
       "slug": "balisson",
@@ -754,10 +754,10 @@
       "slug": "camp-fouquereaux",
       "name": "CAMP FOUQUEREAUX",
       "district": "plainewilhems",
-      "outageCount": 36,
+      "outageCount": 37,
       "file": "camp-fouquereaux.json",
       "firstOutage": "2022-03-31",
-      "lastOutage": "2026-03-07"
+      "lastOutage": "2026-03-11"
     },
     {
       "slug": "camp-garreau",
@@ -2500,10 +2500,10 @@
       "slug": "montagne-blanche",
       "name": "MONTAGNE BLANCHE",
       "district": "moka",
-      "outageCount": 42,
+      "outageCount": 43,
       "file": "montagne-blanche.json",
       "firstOutage": "2022-03-23",
-      "lastOutage": "2026-01-21"
+      "lastOutage": "2026-03-15"
     },
     {
       "slug": "montagne-cabris-est",
@@ -2662,10 +2662,10 @@
       "slug": "pailles",
       "name": "PAILLES",
       "district": "portlouis",
-      "outageCount": 75,
+      "outageCount": 76,
       "file": "pailles.json",
       "firstOutage": "2022-03-13",
-      "lastOutage": "2026-03-10"
+      "lastOutage": "2026-03-11"
     },
     {
       "slug": "paillotte",
@@ -2779,10 +2779,10 @@
       "slug": "petit-paquet",
       "name": "PETIT PAQUET",
       "district": "flacq",
-      "outageCount": 13,
+      "outageCount": 14,
       "file": "petit-paquet.json",
       "firstOutage": "2022-05-15",
-      "lastOutage": "2026-02-24"
+      "lastOutage": "2026-03-14"
     },
     {
       "slug": "petit-raffray",
@@ -3319,10 +3319,10 @@
       "slug": "riche-terre",
       "name": "RICHE TERRE",
       "district": "pamplemousses",
-      "outageCount": 33,
+      "outageCount": 35,
       "file": "riche-terre.json",
       "firstOutage": "2022-04-03",
-      "lastOutage": "2026-03-07"
+      "lastOutage": "2026-03-15"
     },
     {
       "slug": "richelieu",
@@ -3832,10 +3832,10 @@
       "slug": "terre-rouge",
       "name": "TERRE ROUGE",
       "district": "pamplemousses",
-      "outageCount": 103,
+      "outageCount": 104,
       "file": "terre-rouge.json",
       "firstOutage": "2022-03-14",
-      "lastOutage": "2026-03-04"
+      "lastOutage": "2026-03-11"
     },
     {
       "slug": "tombeau-bay",

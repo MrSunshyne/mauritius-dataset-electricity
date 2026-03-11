@@ -2,11 +2,18 @@
   "slug": "pailles",
   "name": "PAILLES",
   "district": "portlouis",
-  "generated": "2026-03-10T18:10:54.494Z",
-  "outageCount": 75,
+  "generated": "2026-03-11T06:11:14.583Z",
+  "outageCount": 76,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-03-10",
+  "lastOutage": "2026-03-11",
   "outages": [
+    {
+      "date": "Le mercredi 11 mars 2026 de  11:00:00 à  13:00:00",
+      "streets": "DODO 1/DODO 2 CHEMIN CONDE PAILLE",
+      "from": "2026-03-11T07:00:00.000Z",
+      "to": "2026-03-11T09:00:00.000Z",
+      "id": "e26cad17e3f08e9453747749154812c3"
+    },
     {
       "date": "Le mardi 10 mars 2026 de  09:40:00 à  10:45:00",
       "streets": "GUIBIES",

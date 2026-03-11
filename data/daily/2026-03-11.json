@@ -1,8 +1,8 @@
 {
   "date": "2026-03-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-10T18:10:54.254Z",
-  "outageCount": 3,
+  "generated": "2026-03-11T06:11:14.347Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le mercredi 11 mars 2026 de  08:30:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-03-11T04:30:00.000Z",
       "to": "2026-03-11T11:00:00.000Z",
       "id": "86241a5b2ab4f5cd856abf235daa9190"
+    },
+    {
+      "date": "Le mercredi 11 mars 2026 de  09:00:00 à  12:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "CAMP LA BOUE TERRE ROUGE",
+      "district": "pamplemousses",
+      "from": "2026-03-11T05:00:00.000Z",
+      "to": "2026-03-11T08:00:00.000Z",
+      "id": "745ffe1ca201fcc8babc3287fcb3eedc"
     },
     {
       "date": "Le mercredi 11 mars 2026 de  09:00:00 à  12:00:00",
@@ -33,6 +43,36 @@
       "from": "2026-03-11T05:00:00.000Z",
       "to": "2026-03-11T11:00:00.000Z",
       "id": "a581bc04531d6b604ae48fa6e84563bd"
+    },
+    {
+      "date": "Le mercredi 11 mars 2026 de  09:45:00 à  11:00:00",
+      "locality": "CAMP FOUQUEREAUX",
+      "localitySlug": "camp-fouquereaux",
+      "streets": "CAMP FOUQUERAUX",
+      "district": "plainewilhems",
+      "from": "2026-03-11T05:45:00.000Z",
+      "to": "2026-03-11T07:00:00.000Z",
+      "id": "1728cd44601a1f1bea0efd415f31041f"
+    },
+    {
+      "date": "Le mercredi 11 mars 2026 de  11:00:00 à  13:00:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "DODO 1/DODO 2 CHEMIN CONDE PAILLE",
+      "district": "portlouis",
+      "from": "2026-03-11T07:00:00.000Z",
+      "to": "2026-03-11T09:00:00.000Z",
+      "id": "e26cad17e3f08e9453747749154812c3"
+    },
+    {
+      "date": "Le mercredi 11 mars 2026 de  15:00:00 à  16:00:00",
+      "locality": "BALADIROU(RODRIGUES)",
+      "localitySlug": "baladirou",
+      "streets": "Jean Tac, Montagne Goyaves, Dans Bebe,Orange",
+      "district": "rodrigues",
+      "from": "2026-03-11T11:00:00.000Z",
+      "to": "2026-03-11T12:00:00.000Z",
+      "id": "0a052dd9850f0b805a3ff3abec6f1b0a"
     }
   ]
 }

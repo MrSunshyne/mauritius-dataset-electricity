@@ -1,9 +1,29 @@
 {
   "date": "2026-03-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-10T18:10:54.254Z",
-  "outageCount": 1,
+  "generated": "2026-03-11T06:11:14.347Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le dimanche 15 mars 2026 de  09:00:00 à  16:00:00",
+      "locality": "MONTAGNE BLANCHE",
+      "localitySlug": "montagne-blanche",
+      "streets": "de Montagne Blanche Bel Air rd, Old Railway track, EDC Mt Blanche, Beedassy Lane, Charbon Road et Health Centre",
+      "district": "moka",
+      "from": "2026-03-15T05:00:00.000Z",
+      "to": "2026-03-15T12:00:00.000Z",
+      "id": "9342f0afdc85c257bc9da23771cef2f9"
+    },
+    {
+      "date": "Le dimanche 15 mars 2026 de  08:30:00 à  16:00:00",
+      "locality": "RICHE TERRE",
+      "localitySlug": "riche-terre",
+      "streets": "DANS LES ENVIRONS DE LA ZONE INDUSTRIELLE DE RICHE TERRE ET RICHE TERRE ROAD",
+      "district": "pamplemousses",
+      "from": "2026-03-15T04:30:00.000Z",
+      "to": "2026-03-15T12:00:00.000Z",
+      "id": "6a1eb438edde37e7ae0e47bfe8630c49"
+    },
     {
       "date": "Le dimanche 15 mars 2026 de  08:30:00 à  17:00:00",
       "locality": "VACOAS",
@@ -13,6 +33,26 @@
       "from": "2026-03-15T04:30:00.000Z",
       "to": "2026-03-15T13:00:00.000Z",
       "id": "b9589784a57387fc6115d8a3f379b1c3"
+    },
+    {
+      "date": "Le dimanche 15 mars 2026 de  12:00:00 à  15:00:00",
+      "locality": "16EME MILE",
+      "localitySlug": "16eme-mile",
+      "streets": "dans les environs de Residence Mon Bois",
+      "district": "plainewilhems",
+      "from": "2026-03-15T08:00:00.000Z",
+      "to": "2026-03-15T11:00:00.000Z",
+      "id": "05de4ee0b7ff3d80a154d4b9974f0be4"
+    },
+    {
+      "date": "Le dimanche 15 mars 2026 de  08:00:00 à  12:00:00",
+      "locality": "16EME MILE",
+      "localitySlug": "16eme-mile",
+      "streets": "dans les environs de Residence Anoushka",
+      "district": "plainewilhems",
+      "from": "2026-03-15T04:00:00.000Z",
+      "to": "2026-03-15T08:00:00.000Z",
+      "id": "e8043f19a2875c4ce0bd1be6a4b1cc5f"
     }
   ]
 }
