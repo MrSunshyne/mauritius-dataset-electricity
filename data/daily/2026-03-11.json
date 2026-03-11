@@ -1,8 +1,8 @@
 {
   "date": "2026-03-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-11T09:10:32.770Z",
-  "outageCount": 7,
+  "generated": "2026-03-11T10:10:21.698Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le mercredi 11 mars 2026 de  08:30:00 à  15:00:00",
@@ -25,14 +25,14 @@
       "id": "745ffe1ca201fcc8babc3287fcb3eedc"
     },
     {
-      "date": "Le mercredi 11 mars 2026 de  09:00:00 à  12:00:00",
+      "date": "Le mercredi 11 mars 2026 de  09:00:00 à  13:30:00",
       "locality": "PETIT CAMP",
       "localitySlug": "petit-camp",
       "streets": "PETIT CAMP  ET PHOENIX: Sofia Lane No. 1, Sofia Lane No. 2, Sofia Lane No. 3, Morc. Damree et une partie de Petit Camp",
       "district": "plainewilhems",
       "from": "2026-03-11T05:00:00.000Z",
-      "to": "2026-03-11T08:00:00.000Z",
-      "id": "b294d9cb28baa0ce666021cd34e099a9"
+      "to": "2026-03-11T09:30:00.000Z",
+      "id": "4aaf4495e96d3ec5e14d1240c1320e42"
     },
     {
       "date": "Le mercredi 11 mars 2026 de  09:00:00 à  15:00:00",
@@ -63,6 +63,16 @@
       "from": "2026-03-11T07:00:00.000Z",
       "to": "2026-03-11T09:00:00.000Z",
       "id": "e26cad17e3f08e9453747749154812c3"
+    },
+    {
+      "date": "Le mercredi 11 mars 2026 de  14:00:00 à  15:00:00",
+      "locality": "MELVIILE",
+      "localitySlug": "melviile",
+      "streets": "CHEMIN SIN FAT MELVILLE GRAND GAUBE.",
+      "district": "rivieredurempart",
+      "from": "2026-03-11T10:00:00.000Z",
+      "to": "2026-03-11T11:00:00.000Z",
+      "id": "586ddf9912fd925f050635618f6a039f"
     },
     {
       "date": "Le mercredi 11 mars 2026 de  15:00:00 à  16:00:00",

@@ -2,11 +2,18 @@
   "slug": "melviile",
   "name": "MELVIILE",
   "district": "rivieredurempart",
-  "generated": "2026-03-11T09:10:32.980Z",
-  "outageCount": 12,
+  "generated": "2026-03-11T10:10:21.906Z",
+  "outageCount": 13,
   "firstOutage": "2022-08-26",
-  "lastOutage": "2026-02-21",
+  "lastOutage": "2026-03-11",
   "outages": [
+    {
+      "date": "Le mercredi 11 mars 2026 de  14:00:00 à  15:00:00",
+      "streets": "CHEMIN SIN FAT MELVILLE GRAND GAUBE.",
+      "from": "2026-03-11T10:00:00.000Z",
+      "to": "2026-03-11T11:00:00.000Z",
+      "id": "586ddf9912fd925f050635618f6a039f"
+    },
     {
       "date": "Le samedi 21 février 2026 de  08:30:00 à  15:30:00",
       "streets": "ENTIERE REGION DE MELVILLE",

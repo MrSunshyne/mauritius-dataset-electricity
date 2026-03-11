@@ -1,8 +1,8 @@
 {
   "date": "2026-03-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-11T09:10:32.771Z",
-  "outageCount": 5,
+  "generated": "2026-03-11T10:10:21.699Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le dimanche 15 mars 2026 de  09:00:00 à  16:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-03-15T04:00:00.000Z",
       "to": "2026-03-15T08:00:00.000Z",
       "id": "e8043f19a2875c4ce0bd1be6a4b1cc5f"
+    },
+    {
+      "date": "Le dimanche 15 mars 2026 de  08:30:00 à  15:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "LES ABONNES DE MORC VRS ET MORC SAGITAIRE POINTE AUX SABLES HABITANT DANS LES ENVIRONS DES AVENUES BIBASSIERS, BOIGAMOTIERS, BANANIERS, CITRONNIERS, FIGUIERS, COCOTIERS, CERISIERS, CHATAIGNIERS, GOYAVIERS, GRENADIERS, DATTIERS, JACQUIERS, LITCHIERS, MURIERS, TAMARINIERS, NOISETIERS ET ORANGERS",
+      "district": "portlouis",
+      "from": "2026-03-15T04:30:00.000Z",
+      "to": "2026-03-15T11:00:00.000Z",
+      "id": "b5c78142483fde4922d82f0f03802e2d"
     }
   ]
 }
