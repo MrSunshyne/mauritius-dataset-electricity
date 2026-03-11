@@ -2,11 +2,18 @@
   "slug": "bambous",
   "name": "BAMBOUS",
   "district": "blackriver",
-  "generated": "2026-03-11T06:11:14.378Z",
-  "outageCount": 110,
+  "generated": "2026-03-11T07:15:12.422Z",
+  "outageCount": 111,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-02-22",
+  "lastOutage": "2026-03-13",
   "outages": [
+    {
+      "date": "Le vendredi 13 mars 2026 de  09:00:00 à  16:00:00",
+      "streets": "LA ZONE INDUSTRIELLE DE BAMBOUS, MONTAGNE ST PIERRE CREMATORIUM ET CWA EAUX BONNES",
+      "from": "2026-03-13T05:00:00.000Z",
+      "to": "2026-03-13T12:00:00.000Z",
+      "id": "85fda50346125ac633a5bf85cb222853"
+    },
     {
       "date": "Le dimanche 22 février 2026 de  18:45:00 à  20:00:00",
       "streets": "NHDC BAMBOUS DANS LES ENVIRONS DU DISTRICT COUNCIL DE BAMBOUS.",
