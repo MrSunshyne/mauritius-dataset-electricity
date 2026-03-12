@@ -2,11 +2,18 @@
   "slug": "ernest-florent",
   "name": "ERNEST FLORENT",
   "district": "flacq",
-  "generated": "2026-03-12T10:10:43.783Z",
-  "outageCount": 9,
+  "generated": "2026-03-12T11:09:05.483Z",
+  "outageCount": 10,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2024-08-30",
+  "lastOutage": "2026-03-12",
   "outages": [
+    {
+      "date": "Le jeudi 12 mars 2026 de  14:25:00 à  16:30:00",
+      "streets": "ERNEST FLORENT : SCHOOL LANE, GANDHI LANE ET LES ENVIRONS.",
+      "from": "2026-03-12T10:25:00.000Z",
+      "to": "2026-03-12T12:30:00.000Z",
+      "id": "124f62302738330ad19d985134f6bd84"
+    },
     {
       "date": "Le vendredi 30 août 2024 de  08:30:00 à  15:00:00",
       "streets": "Route Royale et les chemins avoisinants",
