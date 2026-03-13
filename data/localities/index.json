@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-12T18:11:47.924Z",
+  "generated": "2026-03-13T06:11:33.797Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -25,10 +25,10 @@
       "slug": "albion",
       "name": "ALBION",
       "district": "blackriver",
-      "outageCount": 104,
+      "outageCount": 105,
       "file": "albion.json",
       "firstOutage": "2022-06-06",
-      "lastOutage": "2026-02-23"
+      "lastOutage": "2026-03-13"
     },
     {
       "slug": "allee-brillant-castel",
@@ -1609,10 +1609,10 @@
       "slug": "grand-gaube",
       "name": "GRAND GAUBE",
       "district": "rivieredurempart",
-      "outageCount": 62,
+      "outageCount": 63,
       "file": "grand-gaube.json",
       "firstOutage": "2022-06-11",
-      "lastOutage": "2026-03-10"
+      "lastOutage": "2026-03-13"
     },
     {
       "slug": "grand-la-fouche-corail",
@@ -3958,10 +3958,10 @@
       "slug": "union-park",
       "name": "UNION PARK",
       "district": "grandport",
-      "outageCount": 33,
+      "outageCount": 34,
       "file": "union-park.json",
       "firstOutage": "2022-03-28",
-      "lastOutage": "2026-03-09"
+      "lastOutage": "2026-03-13"
     },
     {
       "slug": "union-vale",

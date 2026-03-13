@@ -2,11 +2,18 @@
   "slug": "union-park",
   "name": "UNION PARK",
   "district": "grandport",
-  "generated": "2026-03-12T18:11:47.909Z",
-  "outageCount": 33,
+  "generated": "2026-03-13T06:11:33.780Z",
+  "outageCount": 34,
   "firstOutage": "2022-03-28",
-  "lastOutage": "2026-03-09",
+  "lastOutage": "2026-03-13",
   "outages": [
+    {
+      "date": "Le vendredi 13 mars 2026 de  09:20:00 à  14:00:00",
+      "streets": "MORC UNION PARK NEAR KALIMAYE",
+      "from": "2026-03-13T05:20:00.000Z",
+      "to": "2026-03-13T10:00:00.000Z",
+      "id": "adf506dd76f657c50775e7217c08e1fd"
+    },
     {
       "date": "Le lundi 9 mars 2026 de  09:00:00 à  15:00:00",
       "streets": "Morcellement SIT Union Park/Nouvelle France",

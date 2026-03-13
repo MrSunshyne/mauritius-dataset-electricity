@@ -2,11 +2,18 @@
   "slug": "albion",
   "name": "ALBION",
   "district": "blackriver",
-  "generated": "2026-03-12T18:11:47.577Z",
-  "outageCount": 104,
+  "generated": "2026-03-13T06:11:33.436Z",
+  "outageCount": 105,
   "firstOutage": "2022-06-06",
-  "lastOutage": "2026-02-23",
+  "lastOutage": "2026-03-13",
   "outages": [
+    {
+      "date": "Le vendredi 13 mars 2026 de  09:45:00 à  11:00:00",
+      "streets": "AVE MERLE, ALOUETTE, DALIAH & SURROUNDINGS",
+      "from": "2026-03-13T05:45:00.000Z",
+      "to": "2026-03-13T07:00:00.000Z",
+      "id": "b246c33c8cc8f116ad6be6802310228a"
+    },
     {
       "date": "Le lundi 23 février 2026 de  18:30:00 à  22:30:00",
       "streets": "CAMP CREOLE : RUE MARCEL CABON ET DANS LES ALENTOURS DE L-ECOLE.",

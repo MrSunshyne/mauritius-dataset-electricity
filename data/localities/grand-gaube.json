@@ -2,11 +2,18 @@
   "slug": "grand-gaube",
   "name": "GRAND GAUBE",
   "district": "rivieredurempart",
-  "generated": "2026-03-12T18:11:47.712Z",
-  "outageCount": 62,
+  "generated": "2026-03-13T06:11:33.577Z",
+  "outageCount": 63,
   "firstOutage": "2022-06-11",
-  "lastOutage": "2026-03-10",
+  "lastOutage": "2026-03-13",
   "outages": [
+    {
+      "date": "Le vendredi 13 mars 2026 de  09:45:00 à  12:30:00",
+      "streets": "Royal(Nr Telecom),Indira Gandhi,Reservoir Roads",
+      "from": "2026-03-13T05:45:00.000Z",
+      "to": "2026-03-13T08:30:00.000Z",
+      "id": "ac1f88eedfe1c73fc7dc48374987caa8"
+    },
     {
       "date": "Le mardi 10 mars 2026 de  09:00:00 à  15:30:00",
       "streets": "LES PERIMETRES DE JOHN KENNEDY ROAD, GRAND GAUBE",
