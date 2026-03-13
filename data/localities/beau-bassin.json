@@ -2,11 +2,18 @@
   "slug": "beau-bassin",
   "name": "BEAU BASSIN",
   "district": "plainewilhems",
-  "generated": "2026-03-13T10:06:55.196Z",
-  "outageCount": 172,
+  "generated": "2026-03-13T11:08:09.631Z",
+  "outageCount": 173,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-03-08",
+  "lastOutage": "2026-03-13",
   "outages": [
+    {
+      "date": "Le vendredi 13 mars 2026 de  15:00:00 à  17:30:00",
+      "streets": "RUE MARCELLE L-ETANG, ROGER PIZZANI, CHEMIN PATEL ET LES ENVIRONS.",
+      "from": "2026-03-13T11:00:00.000Z",
+      "to": "2026-03-13T13:30:00.000Z",
+      "id": "d302504893bff66d0c86df08e200131d"
+    },
     {
       "date": "Le dimanche 8 mars 2026 de  14:00:00 à  15:00:00",
       "streets": "Chebel, Barkly, Colonel Maingard, en partie Pope Henessy, Dumat, Ave Schuman, Ave Commerson, Ave Pasteur, Morc La Confiance et les environs",

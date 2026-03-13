@@ -2,11 +2,18 @@
   "slug": "hermitage-phoenix",
   "name": "HERMITAGE PHOENIX",
   "district": "plainewilhems",
-  "generated": "2026-03-13T10:06:55.324Z",
-  "outageCount": 28,
+  "generated": "2026-03-13T11:08:09.758Z",
+  "outageCount": 29,
   "firstOutage": "2022-09-10",
-  "lastOutage": "2026-01-14",
+  "lastOutage": "2026-03-14",
   "outages": [
+    {
+      "date": "Le samedi 14 mars 2026 de  09:00:00 à  16:00:00",
+      "streets": "Morc. Blueprint Plaine des Hermitages, Morc. VRS Plaine Des Hermitages, Avenue Paille en Queue et Avenue Bulbul",
+      "from": "2026-03-14T05:00:00.000Z",
+      "to": "2026-03-14T12:00:00.000Z",
+      "id": "4c60e7214f0ccebb92ea355497e16ed7"
+    },
     {
       "date": "Le mercredi 14 janvier 2026 de  14:00:00 à  18:00:00",
       "streets": "CHEMIN BELLERIVE HERMITAGES",

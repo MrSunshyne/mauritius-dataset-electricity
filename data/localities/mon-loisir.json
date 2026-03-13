@@ -2,11 +2,18 @@
   "slug": "mon-loisir",
   "name": "MON LOISIR",
   "district": "rivieredurempart",
-  "generated": "2026-03-13T10:06:55.379Z",
-  "outageCount": 7,
+  "generated": "2026-03-13T11:08:09.811Z",
+  "outageCount": 8,
   "firstOutage": "2022-12-04",
-  "lastOutage": "2024-09-28",
+  "lastOutage": "2026-03-13",
   "outages": [
+    {
+      "date": "Le vendredi 13 mars 2026 de  15:00:00 à  16:30:00",
+      "streets": "MON LOISIR ET EN PARTIE L-AMITIE.",
+      "from": "2026-03-13T11:00:00.000Z",
+      "to": "2026-03-13T12:30:00.000Z",
+      "id": "10dff1565bb62c6271ebeaf3be666e2e"
+    },
     {
       "date": "Le samedi 28 septembre 2024 de  06:00:00 à  11:30:00",
       "streets": "ROYAL ROAD DESJARDIN MONLOISIR/LAMITIE",

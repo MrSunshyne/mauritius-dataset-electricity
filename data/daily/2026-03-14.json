@@ -1,8 +1,8 @@
 {
   "date": "2026-03-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-13T10:06:55.155Z",
-  "outageCount": 4,
+  "generated": "2026-03-13T11:08:09.593Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le samedi 14 mars 2026 de  09:00:00 à  16:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-03-14T04:30:00.000Z",
       "to": "2026-03-14T10:30:00.000Z",
       "id": "8c56366dcc2261f09b56e972e5daa999"
+    },
+    {
+      "date": "Le samedi 14 mars 2026 de  09:00:00 à  16:00:00",
+      "locality": "HERMITAGE PHOENIX",
+      "localitySlug": "hermitage-phoenix",
+      "streets": "Morc. Blueprint Plaine des Hermitages, Morc. VRS Plaine Des Hermitages, Avenue Paille en Queue et Avenue Bulbul",
+      "district": "plainewilhems",
+      "from": "2026-03-14T05:00:00.000Z",
+      "to": "2026-03-14T12:00:00.000Z",
+      "id": "4c60e7214f0ccebb92ea355497e16ed7"
     }
   ]
 }
