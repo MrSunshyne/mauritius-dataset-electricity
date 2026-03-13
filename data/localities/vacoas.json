@@ -2,8 +2,8 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-03-13T06:11:33.784Z",
-  "outageCount": 230,
+  "generated": "2026-03-13T07:15:53.989Z",
+  "outageCount": 231,
   "firstOutage": "2022-03-17",
   "lastOutage": "2026-03-15",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-03-15T04:30:00.000Z",
       "to": "2026-03-15T13:00:00.000Z",
       "id": "b9589784a57387fc6115d8a3f379b1c3"
+    },
+    {
+      "date": "Le vendredi 13 mars 2026 de  10:30:00 à  11:15:00",
+      "streets": "VINGTA 2 & 3, HOTEL MODERN & SURROUNDINGS",
+      "from": "2026-03-13T06:30:00.000Z",
+      "to": "2026-03-13T07:15:00.000Z",
+      "id": "3194a58772bfd36d48730fd2cbb79052"
     },
     {
       "date": "Le lundi 9 mars 2026 de  10:00:00 à  12:00:00",

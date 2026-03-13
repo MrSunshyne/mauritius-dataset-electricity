@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-13T06:11:33.797Z",
+  "generated": "2026-03-13T07:15:54.002Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -1249,10 +1249,10 @@
       "slug": "coromandel-rhill",
       "name": "COROMANDEL - R.HILL",
       "district": "plainewilhems",
-      "outageCount": 74,
+      "outageCount": 75,
       "file": "coromandel-rhill.json",
       "firstOutage": "2022-04-08",
-      "lastOutage": "2026-03-07"
+      "lastOutage": "2026-03-14"
     },
     {
       "slug": "coromondel-ind-zone",
@@ -3175,10 +3175,10 @@
       "slug": "quatre-bornes",
       "name": "QUATRE-BORNES",
       "district": "plainewilhems",
-      "outageCount": 354,
+      "outageCount": 356,
       "file": "quatre-bornes.json",
       "firstOutage": "2022-04-01",
-      "lastOutage": "2026-03-10"
+      "lastOutage": "2026-03-15"
     },
     {
       "slug": "quatre-carreaux",
@@ -3994,7 +3994,7 @@
       "slug": "vacoas",
       "name": "VACOAS",
       "district": "plainewilhems",
-      "outageCount": 230,
+      "outageCount": 231,
       "file": "vacoas.json",
       "firstOutage": "2022-03-17",
       "lastOutage": "2026-03-15"

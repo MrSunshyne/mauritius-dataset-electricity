@@ -2,11 +2,25 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-03-13T06:11:33.711Z",
-  "outageCount": 354,
+  "generated": "2026-03-13T07:15:53.915Z",
+  "outageCount": 356,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-03-10",
+  "lastOutage": "2026-03-15",
   "outages": [
+    {
+      "date": "Le dimanche 15 mars 2026 de  14:00:00 à  15:00:00",
+      "streets": "NHDC Bassin et Morc Bassin",
+      "from": "2026-03-15T10:00:00.000Z",
+      "to": "2026-03-15T11:00:00.000Z",
+      "id": "a2f771f781f544d344e696368b952e4e"
+    },
+    {
+      "date": "Le dimanche 15 mars 2026 de  08:30:00 à  15:00:00",
+      "streets": "Ave Boodhram, en partie Solferino No 5 et Route Bassin",
+      "from": "2026-03-15T04:30:00.000Z",
+      "to": "2026-03-15T11:00:00.000Z",
+      "id": "0f74e0a061058331dda01b90f910ff9c"
+    },
     {
       "date": "Le mardi 10 mars 2026 de  16:00:00 à  17:30:00",
       "streets": "En partie Ave dEpinay, Palmier, Orchidee, Capucines et en partie St Jean Road",

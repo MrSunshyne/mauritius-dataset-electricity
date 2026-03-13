@@ -1,8 +1,8 @@
 {
   "date": "2026-03-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-13T06:11:33.418Z",
-  "outageCount": 7,
+  "generated": "2026-03-13T07:15:53.623Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le dimanche 15 mars 2026 de  09:00:00 à  16:00:00",
@@ -53,6 +53,26 @@
       "from": "2026-03-15T04:00:00.000Z",
       "to": "2026-03-15T08:00:00.000Z",
       "id": "e8043f19a2875c4ce0bd1be6a4b1cc5f"
+    },
+    {
+      "date": "Le dimanche 15 mars 2026 de  14:00:00 à  15:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "NHDC Bassin et Morc Bassin",
+      "district": "plainewilhems",
+      "from": "2026-03-15T10:00:00.000Z",
+      "to": "2026-03-15T11:00:00.000Z",
+      "id": "a2f771f781f544d344e696368b952e4e"
+    },
+    {
+      "date": "Le dimanche 15 mars 2026 de  08:30:00 à  15:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave Boodhram, en partie Solferino No 5 et Route Bassin",
+      "district": "plainewilhems",
+      "from": "2026-03-15T04:30:00.000Z",
+      "to": "2026-03-15T11:00:00.000Z",
+      "id": "0f74e0a061058331dda01b90f910ff9c"
     },
     {
       "date": "Le dimanche 15 mars 2026 de  08:30:00 à  15:00:00",

@@ -1,8 +1,8 @@
 {
   "date": "2026-03-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-13T06:11:33.418Z",
-  "outageCount": 3,
+  "generated": "2026-03-13T07:15:53.623Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le samedi 14 mars 2026 de  09:00:00 à  16:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-03-14T04:30:00.000Z",
       "to": "2026-03-14T09:00:00.000Z",
       "id": "426590b4e7109249bdc71285daef4e0c"
+    },
+    {
+      "date": "Le samedi 14 mars 2026 de  08:30:00 à  14:30:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "Chapman View, Angel Fish, Black Molly et les environs",
+      "district": "plainewilhems",
+      "from": "2026-03-14T04:30:00.000Z",
+      "to": "2026-03-14T10:30:00.000Z",
+      "id": "8c56366dcc2261f09b56e972e5daa999"
     }
   ]
 }

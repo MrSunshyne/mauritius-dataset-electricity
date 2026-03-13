@@ -2,11 +2,18 @@
   "slug": "coromandel-rhill",
   "name": "COROMANDEL - R.HILL",
   "district": "plainewilhems",
-  "generated": "2026-03-13T06:11:33.543Z",
-  "outageCount": 74,
+  "generated": "2026-03-13T07:15:53.746Z",
+  "outageCount": 75,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-03-07",
+  "lastOutage": "2026-03-14",
   "outages": [
+    {
+      "date": "Le samedi 14 mars 2026 de  08:30:00 à  14:30:00",
+      "streets": "Chapman View, Angel Fish, Black Molly et les environs",
+      "from": "2026-03-14T04:30:00.000Z",
+      "to": "2026-03-14T10:30:00.000Z",
+      "id": "8c56366dcc2261f09b56e972e5daa999"
+    },
     {
       "date": "Le samedi 7 mars 2026 de  08:30:00 à  15:00:00",
       "streets": "Chapman View, Angel fish, Black Molly et les environs",
