@@ -2,11 +2,18 @@
   "slug": "notre-dame",
   "name": "NOTRE DAME",
   "district": "pamplemousses",
-  "generated": "2026-03-14T06:10:07.633Z",
-  "outageCount": 37,
+  "generated": "2026-03-14T07:12:23.378Z",
+  "outageCount": 38,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-02-19",
+  "lastOutage": "2026-03-14",
   "outages": [
+    {
+      "date": "Le samedi 14 mars 2026 de  10:30:00 à  12:30:00",
+      "streets": "TEELUCK LANE,KITCHIN, CHURCH ROAD TOWARDS PAMPLEMOUSSES",
+      "from": "2026-03-14T06:30:00.000Z",
+      "to": "2026-03-14T08:30:00.000Z",
+      "id": "7c3acf2c5e467c15073f519676013f51"
+    },
     {
       "date": "Le jeudi 19 février 2026 de  11:00:00 à  13:00:00",
       "streets": "D09 RESIDENCE BAILLACHE -ROYAL RD NOTRE DAME",

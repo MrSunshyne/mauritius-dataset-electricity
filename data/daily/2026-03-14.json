@@ -1,8 +1,8 @@
 {
   "date": "2026-03-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-14T06:10:07.392Z",
-  "outageCount": 8,
+  "generated": "2026-03-14T07:12:23.150Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le samedi 14 mars 2026 de  09:00:00 à  16:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-03-14T04:30:00.000Z",
       "to": "2026-03-14T09:00:00.000Z",
       "id": "426590b4e7109249bdc71285daef4e0c"
+    },
+    {
+      "date": "Le samedi 14 mars 2026 de  10:30:00 à  12:30:00",
+      "locality": "NOTRE DAME",
+      "localitySlug": "notre-dame",
+      "streets": "TEELUCK LANE,KITCHIN, CHURCH ROAD TOWARDS PAMPLEMOUSSES",
+      "district": "pamplemousses",
+      "from": "2026-03-14T06:30:00.000Z",
+      "to": "2026-03-14T08:30:00.000Z",
+      "id": "7c3acf2c5e467c15073f519676013f51"
     },
     {
       "date": "Le samedi 14 mars 2026 de  08:30:00 à  14:30:00",
