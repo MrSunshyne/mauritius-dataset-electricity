@@ -1,8 +1,8 @@
 {
   "date": "2026-03-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-14T10:03:00.544Z",
-  "outageCount": 11,
+  "generated": "2026-03-14T11:03:02.312Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le samedi 14 mars 2026 de  09:00:00 à  16:00:00",
@@ -93,6 +93,16 @@
       "from": "2026-03-14T09:00:00.000Z",
       "to": "2026-03-14T11:00:00.000Z",
       "id": "d2317d2149e1f365b86d3f50d22fb461"
+    },
+    {
+      "date": "Le samedi 14 mars 2026 de  14:00:00 à  19:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "CHARLES DICKEN /ROYAL ROAD NEAR ARCADE ELLAPEN,TELECOM ,HURRY STORE,MCB.",
+      "district": "rivieredurempart",
+      "from": "2026-03-14T10:00:00.000Z",
+      "to": "2026-03-14T15:00:00.000Z",
+      "id": "2ddc1cf3e280208a3669e90a2e623e49"
     },
     {
       "date": "Le samedi 14 mars 2026 de  08:00:00 à  09:00:00",
