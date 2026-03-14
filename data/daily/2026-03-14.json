@@ -1,9 +1,19 @@
 {
   "date": "2026-03-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-14T17:04:29.436Z",
-  "outageCount": 12,
+  "generated": "2026-03-14T18:03:06.720Z",
+  "outageCount": 13,
   "outages": [
+    {
+      "date": "Le samedi 14 mars 2026 de  21:00:00 à  01:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC DE CHAZAL : AVENUE DES TOURTEREAUX, DANS LES ENVIRONS BEACH APARTMENT ET LES ALENTOURS.",
+      "district": "blackriver",
+      "from": "2026-03-14T17:00:00.000Z",
+      "to": "2026-03-13T21:30:00.000Z",
+      "id": "a9f8f90a2965516d917b60cb1ea9d456"
+    },
     {
       "date": "Le samedi 14 mars 2026 de  09:00:00 à  16:00:00",
       "locality": "PETIT PAQUET",
