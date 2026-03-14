@@ -1,8 +1,8 @@
 {
   "date": "2026-03-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-13T18:06:29.275Z",
-  "outageCount": 5,
+  "generated": "2026-03-14T06:10:07.392Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le samedi 14 mars 2026 de  09:00:00 à  16:00:00",
@@ -53,6 +53,36 @@
       "from": "2026-03-14T05:00:00.000Z",
       "to": "2026-03-14T12:00:00.000Z",
       "id": "4c60e7214f0ccebb92ea355497e16ed7"
+    },
+    {
+      "date": "Le samedi 14 mars 2026 de  08:20:00 à  14:30:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "MTC CHAMP DE MARS & SURROUNDINGS",
+      "district": "portlouis",
+      "from": "2026-03-14T04:20:00.000Z",
+      "to": "2026-03-14T10:30:00.000Z",
+      "id": "8bf7498e4f6b527fd744be10f3ba7c76"
+    },
+    {
+      "date": "Le samedi 14 mars 2026 de  08:00:00 à  09:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "JEAN TAC, BALADIROU, MONTAGNE GOYAVES & DANS BEBE",
+      "district": "rodrigues",
+      "from": "2026-03-14T04:00:00.000Z",
+      "to": "2026-03-14T05:00:00.000Z",
+      "id": "4c461569e29f4848b772fd69ed58bc00"
+    },
+    {
+      "date": "Le samedi 14 mars 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "FOND LA BONTE & FOND BAIE AUX HUITRES",
+      "district": "rodrigues",
+      "from": "2026-03-14T04:30:00.000Z",
+      "to": "2026-03-14T11:00:00.000Z",
+      "id": "f9abdeb51a0a2c6ac5a7255afc81c166"
     }
   ]
 }

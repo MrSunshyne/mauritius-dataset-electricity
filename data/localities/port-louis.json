@@ -2,11 +2,18 @@
   "slug": "port-louis",
   "name": "PORT-LOUIS",
   "district": "portlouis",
-  "generated": "2026-03-13T18:06:29.546Z",
-  "outageCount": 113,
+  "generated": "2026-03-14T06:10:07.675Z",
+  "outageCount": 114,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-03-08",
+  "lastOutage": "2026-03-14",
   "outages": [
+    {
+      "date": "Le samedi 14 mars 2026 de  08:20:00 à  14:30:00",
+      "streets": "MTC CHAMP DE MARS & SURROUNDINGS",
+      "from": "2026-03-14T04:20:00.000Z",
+      "to": "2026-03-14T10:30:00.000Z",
+      "id": "8bf7498e4f6b527fd744be10f3ba7c76"
+    },
     {
       "date": "Le dimanche 8 mars 2026 de  08:30:00 à  14:00:00",
       "streets": "DANS LES ENVIRONS DE LA RUE WELLINGTON ET FLAT GOLDEN VALLEY",
