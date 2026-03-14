@@ -1,8 +1,8 @@
 {
   "date": "2026-03-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-14T09:06:07.931Z",
-  "outageCount": 10,
+  "generated": "2026-03-14T10:03:00.544Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le samedi 14 mars 2026 de  09:00:00 à  16:00:00",
@@ -83,6 +83,16 @@
       "from": "2026-03-14T04:20:00.000Z",
       "to": "2026-03-14T10:30:00.000Z",
       "id": "8bf7498e4f6b527fd744be10f3ba7c76"
+    },
+    {
+      "date": "Le samedi 14 mars 2026 de  13:00:00 à  15:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "MOULIN CASSER, RES TEKOMA, BALI RD, CHEMIN VINGT PIED & SURROUNDINGS VIEUX MOULIN",
+      "district": "rivieredurempart",
+      "from": "2026-03-14T09:00:00.000Z",
+      "to": "2026-03-14T11:00:00.000Z",
+      "id": "d2317d2149e1f365b86d3f50d22fb461"
     },
     {
       "date": "Le samedi 14 mars 2026 de  08:00:00 à  09:00:00",
