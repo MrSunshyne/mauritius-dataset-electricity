@@ -1,8 +1,8 @@
 {
   "date": "2026-03-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-14T08:03:36.097Z",
-  "outageCount": 9,
+  "generated": "2026-03-14T09:06:07.931Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le samedi 14 mars 2026 de  09:00:00 à  16:00:00",
@@ -63,6 +63,16 @@
       "from": "2026-03-14T05:00:00.000Z",
       "to": "2026-03-14T12:00:00.000Z",
       "id": "4c60e7214f0ccebb92ea355497e16ed7"
+    },
+    {
+      "date": "Le samedi 14 mars 2026 de  12:45:00 à  14:00:00",
+      "locality": "TRIANON",
+      "localitySlug": "trianon",
+      "streets": "PALLADIUM, MORC EBENE & SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2026-03-14T08:45:00.000Z",
+      "to": "2026-03-14T10:00:00.000Z",
+      "id": "890b737451bfcb90f751d3c434023d6b"
     },
     {
       "date": "Le samedi 14 mars 2026 de  08:20:00 à  14:30:00",

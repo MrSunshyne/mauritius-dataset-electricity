@@ -2,11 +2,18 @@
   "slug": "trianon",
   "name": "TRIANON",
   "district": "plainewilhems",
-  "generated": "2026-03-14T08:03:36.439Z",
-  "outageCount": 29,
+  "generated": "2026-03-14T09:06:08.291Z",
+  "outageCount": 30,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2025-12-21",
+  "lastOutage": "2026-03-14",
   "outages": [
+    {
+      "date": "Le samedi 14 mars 2026 de  12:45:00 à  14:00:00",
+      "streets": "PALLADIUM, MORC EBENE & SURROUNDINGS",
+      "from": "2026-03-14T08:45:00.000Z",
+      "to": "2026-03-14T10:00:00.000Z",
+      "id": "890b737451bfcb90f751d3c434023d6b"
+    },
     {
       "date": "Le dimanche 21 décembre 2025 de  08:15:00 à  14:00:00",
       "streets": "RM Garden,Hua Lien,Frigonoor,Convention Centre,CEB Meter Lab",
