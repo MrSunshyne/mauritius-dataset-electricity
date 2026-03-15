@@ -2,11 +2,18 @@
   "slug": "villenoire",
   "name": "VILLENOIRE",
   "district": "grandport",
-  "generated": "2026-03-15T15:04:17.870Z",
-  "outageCount": 51,
+  "generated": "2026-03-15T16:02:59.867Z",
+  "outageCount": 52,
   "firstOutage": "2022-06-10",
-  "lastOutage": "2026-03-06",
+  "lastOutage": "2026-03-15",
   "outages": [
+    {
+      "date": "Le dimanche 15 mars 2026 de  19:25:00 à  21:00:00",
+      "streets": "PART OF VILLENOIRE",
+      "from": "2026-03-15T15:25:00.000Z",
+      "to": "2026-03-15T17:00:00.000Z",
+      "id": "4e1b120db9b2b2006bb67aac9a6d62a7"
+    },
     {
       "date": "Le vendredi 6 mars 2026 de  15:00:00 à  17:00:00",
       "streets": "MORC VRS",
