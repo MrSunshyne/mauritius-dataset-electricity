@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-03-14T18:03:07.009Z",
-  "outageCount": 192,
+  "generated": "2026-03-15T06:15:50.234Z",
+  "outageCount": 193,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-03-14",
+  "lastOutage": "2026-03-15",
   "outages": [
+    {
+      "date": "Le dimanche 15 mars 2026 de  08:30:00 à  15:00:00",
+      "streets": "POINTE LA GUEULE, BAIE AUX HUITRES, ACCACIA",
+      "from": "2026-03-15T04:30:00.000Z",
+      "to": "2026-03-15T11:00:00.000Z",
+      "id": "de26440f5988146a0edfac5187802d74"
+    },
     {
       "date": "Le samedi 14 mars 2026 de  08:30:00 à  15:00:00",
       "streets": "FOND LA BONTE & FOND BAIE AUX HUITRES",

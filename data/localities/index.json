@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-14T18:03:07.063Z",
+  "generated": "2026-03-15T06:15:50.293Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -2122,10 +2122,10 @@
       "slug": "les-mariannes",
       "name": "LES MARIANNES",
       "district": "pamplemousses",
-      "outageCount": 2,
+      "outageCount": 3,
       "file": "les-mariannes.json",
       "firstOutage": "2022-08-01",
-      "lastOutage": "2024-05-29"
+      "lastOutage": "2026-03-15"
     },
     {
       "slug": "lesur",
@@ -2734,10 +2734,10 @@
       "slug": "pereybere",
       "name": "PEREYBERE",
       "district": "rivieredurempart",
-      "outageCount": 98,
+      "outageCount": 99,
       "file": "pereybere.json",
       "firstOutage": "2022-03-25",
-      "lastOutage": "2026-03-14"
+      "lastOutage": "2026-03-15"
     },
     {
       "slug": "petit-bel-air",
@@ -3490,10 +3490,10 @@
       "slug": "rodrigues",
       "name": "RODRIGUES",
       "district": "rodrigues",
-      "outageCount": 192,
+      "outageCount": 193,
       "file": "rodrigues.json",
       "firstOutage": "2022-03-15",
-      "lastOutage": "2026-03-14"
+      "lastOutage": "2026-03-15"
     },
     {
       "slug": "rose-belle",

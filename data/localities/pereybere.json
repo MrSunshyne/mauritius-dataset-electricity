@@ -2,11 +2,18 @@
   "slug": "pereybere",
   "name": "PEREYBERE",
   "district": "rivieredurempart",
-  "generated": "2026-03-14T18:03:06.948Z",
-  "outageCount": 98,
+  "generated": "2026-03-15T06:15:50.166Z",
+  "outageCount": 99,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-03-14",
+  "lastOutage": "2026-03-15",
   "outages": [
+    {
+      "date": "Le dimanche 15 mars 2026 de  08:40:00 à  16:00:00",
+      "streets": "PEREYBERE",
+      "from": "2026-03-15T04:40:00.000Z",
+      "to": "2026-03-15T12:00:00.000Z",
+      "id": "066a512162abac44f188f2033850aeda"
+    },
     {
       "date": "Le samedi 14 mars 2026 de  13:00:00 à  15:00:00",
       "streets": "MOULIN CASSER, RES TEKOMA, BALI RD, CHEMIN VINGT PIED & SURROUNDINGS VIEUX MOULIN",

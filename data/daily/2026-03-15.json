@@ -1,8 +1,8 @@
 {
   "date": "2026-03-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-14T18:03:06.720Z",
-  "outageCount": 9,
+  "generated": "2026-03-15T06:15:49.915Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le dimanche 15 mars 2026 de  09:00:00 à  16:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-03-15T04:30:00.000Z",
       "to": "2026-03-15T12:00:00.000Z",
       "id": "6a1eb438edde37e7ae0e47bfe8630c49"
+    },
+    {
+      "date": "Le dimanche 15 mars 2026 de  10:00:00 à  12:00:00",
+      "locality": "LES MARIANNES",
+      "localitySlug": "les-mariannes",
+      "streets": "VILLAGE LES MARIANNE",
+      "district": "pamplemousses",
+      "from": "2026-03-15T06:00:00.000Z",
+      "to": "2026-03-15T08:00:00.000Z",
+      "id": "ab75e49d3180162509e1f77303f5b39b"
     },
     {
       "date": "Le dimanche 15 mars 2026 de  08:30:00 à  17:00:00",
@@ -93,6 +103,26 @@
       "from": "2026-03-15T04:30:00.000Z",
       "to": "2026-03-15T11:00:00.000Z",
       "id": "9810c692fac22d57df105c9c70d694a7"
+    },
+    {
+      "date": "Le dimanche 15 mars 2026 de  08:40:00 à  16:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "PEREYBERE",
+      "district": "rivieredurempart",
+      "from": "2026-03-15T04:40:00.000Z",
+      "to": "2026-03-15T12:00:00.000Z",
+      "id": "066a512162abac44f188f2033850aeda"
+    },
+    {
+      "date": "Le dimanche 15 mars 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "POINTE LA GUEULE, BAIE AUX HUITRES, ACCACIA",
+      "district": "rodrigues",
+      "from": "2026-03-15T04:30:00.000Z",
+      "to": "2026-03-15T11:00:00.000Z",
+      "id": "de26440f5988146a0edfac5187802d74"
     }
   ]
 }
