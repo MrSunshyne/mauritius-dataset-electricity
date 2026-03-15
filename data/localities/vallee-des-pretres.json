@@ -2,11 +2,18 @@
   "slug": "vallee-des-pretres",
   "name": "VALLEE DES PRETRES",
   "district": "portlouis",
-  "generated": "2026-03-15T09:06:52.856Z",
-  "outageCount": 75,
+  "generated": "2026-03-15T10:03:27.733Z",
+  "outageCount": 76,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-03-11",
+  "lastOutage": "2026-03-15",
   "outages": [
+    {
+      "date": "Le dimanche 15 mars 2026 de  13:15:00 à  15:00:00",
+      "streets": "ROYAL ROAD VALLEY DES PRETES NR LA POSTE",
+      "from": "2026-03-15T09:15:00.000Z",
+      "to": "2026-03-15T11:00:00.000Z",
+      "id": "d6a4ecf8f35031bbe5ddea15a536ebfb"
+    },
     {
       "date": "Le mercredi 11 mars 2026 de  17:00:00 à  22:00:00",
       "streets": "Part of Military Road, Paul Taureau, NHDC Vallee Des Pretes, Ste Croix (St Gabriel, Ste Marie, Cite La Cure, Morc. La Vallee), Pere Laval, Capitaine Pontre, Morc Raffray Le Hochet T.Rouge.",

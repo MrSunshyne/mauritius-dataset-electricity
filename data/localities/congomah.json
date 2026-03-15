@@ -2,11 +2,18 @@
   "slug": "congomah",
   "name": "CONGOMAH",
   "district": "pamplemousses",
-  "generated": "2026-03-15T09:06:52.626Z",
-  "outageCount": 19,
+  "generated": "2026-03-15T10:03:27.488Z",
+  "outageCount": 20,
   "firstOutage": "2022-08-01",
-  "lastOutage": "2025-12-23",
+  "lastOutage": "2026-03-15",
   "outages": [
+    {
+      "date": "Le dimanche 15 mars 2026 de  13:00:00 à  14:30:00",
+      "streets": "BELVEDERE ROAD CONGOMAH",
+      "from": "2026-03-15T09:00:00.000Z",
+      "to": "2026-03-15T10:30:00.000Z",
+      "id": "6a862f4a80afcc9e5c92061a64bfb08a"
+    },
     {
       "date": "Le mardi 23 décembre 2025 de  11:25:00 à  13:00:00",
       "streets": "VILLE BAGUE, CONGOMAH, ILOT, DEPINAY, PETITE JULIE",
