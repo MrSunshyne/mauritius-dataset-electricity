@@ -2,11 +2,18 @@
   "slug": "terre-rouge",
   "name": "TERRE ROUGE",
   "district": "pamplemousses",
-  "generated": "2026-03-16T13:28:05.907Z",
-  "outageCount": 104,
+  "generated": "2026-03-16T14:23:52.110Z",
+  "outageCount": 105,
   "firstOutage": "2022-03-14",
-  "lastOutage": "2026-03-11",
+  "lastOutage": "2026-03-16",
   "outages": [
+    {
+      "date": "Le lundi 16 mars 2026 de  17:30:00 à  22:30:00",
+      "streets": "COPAIN LANE TERRE ROUGE",
+      "from": "2026-03-16T13:30:00.000Z",
+      "to": "2026-03-16T18:30:00.000Z",
+      "id": "cb0aeda311f56464c210107d610ff489"
+    },
     {
       "date": "Le mercredi 11 mars 2026 de  09:00:00 à  12:00:00",
       "streets": "CAMP LA BOUE TERRE ROUGE",

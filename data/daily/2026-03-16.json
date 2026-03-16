@@ -1,8 +1,8 @@
 {
   "date": "2026-03-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-16T13:28:05.558Z",
-  "outageCount": 8,
+  "generated": "2026-03-16T14:23:51.790Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le lundi 16 mars 2026 de  11:00:00 à  16:30:00",
@@ -33,6 +33,16 @@
       "from": "2026-03-16T07:00:00.000Z",
       "to": "2026-03-16T12:00:00.000Z",
       "id": "548a8daa1d8538ed7bfb791414bf3a48"
+    },
+    {
+      "date": "Le lundi 16 mars 2026 de  17:30:00 à  22:30:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "COPAIN LANE TERRE ROUGE",
+      "district": "pamplemousses",
+      "from": "2026-03-16T13:30:00.000Z",
+      "to": "2026-03-16T18:30:00.000Z",
+      "id": "cb0aeda311f56464c210107d610ff489"
     },
     {
       "date": "Le lundi 16 mars 2026 de  11:00:00 à  17:00:00",
