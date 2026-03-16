@@ -1,8 +1,8 @@
 {
   "date": "2026-03-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-15T18:03:14.133Z",
-  "outageCount": 2,
+  "generated": "2026-03-16T06:26:05.226Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le lundi 16 mars 2026 de  11:00:00 à  16:30:00",
@@ -23,6 +23,16 @@
       "from": "2026-03-16T04:30:00.000Z",
       "to": "2026-03-16T12:00:00.000Z",
       "id": "d114d1f9342464c8b944a26432dc5be1"
+    },
+    {
+      "date": "Le lundi 16 mars 2026 de  09:00:00 à  12:00:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "ROYAL RD GRAND GAUBE",
+      "district": "rivieredurempart",
+      "from": "2026-03-16T05:00:00.000Z",
+      "to": "2026-03-16T08:00:00.000Z",
+      "id": "4ddf9a00248c68bbac672774e0a133c8"
     }
   ]
 }
