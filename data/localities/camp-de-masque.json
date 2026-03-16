@@ -2,11 +2,18 @@
   "slug": "camp-de-masque",
   "name": "CAMP DE MASQUE",
   "district": "flacq",
-  "generated": "2026-03-16T06:26:05.301Z",
-  "outageCount": 15,
+  "generated": "2026-03-16T07:28:04.886Z",
+  "outageCount": 16,
   "firstOutage": "2022-07-09",
-  "lastOutage": "2026-01-17",
+  "lastOutage": "2026-03-16",
   "outages": [
+    {
+      "date": "Le lundi 16 mars 2026 de  11:00:00 à  16:00:00",
+      "streets": "Camp De masque, Balance John, Camp de Masque Pave area, Unite and Petite Cabane.",
+      "from": "2026-03-16T07:00:00.000Z",
+      "to": "2026-03-16T12:00:00.000Z",
+      "id": "548a8daa1d8538ed7bfb791414bf3a48"
+    },
     {
       "date": "Le samedi 17 janvier 2026 de  09:00:00 à  11:00:00",
       "streets": "MORC VRS",

@@ -1,8 +1,8 @@
 {
   "date": "2026-03-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-16T06:26:05.226Z",
-  "outageCount": 3,
+  "generated": "2026-03-16T07:28:04.811Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le lundi 16 mars 2026 de  11:00:00 à  16:30:00",
@@ -23,6 +23,16 @@
       "from": "2026-03-16T04:30:00.000Z",
       "to": "2026-03-16T12:00:00.000Z",
       "id": "d114d1f9342464c8b944a26432dc5be1"
+    },
+    {
+      "date": "Le lundi 16 mars 2026 de  11:00:00 à  16:00:00",
+      "locality": "CAMP DE MASQUE",
+      "localitySlug": "camp-de-masque",
+      "streets": "Camp De masque, Balance John, Camp de Masque Pave area, Unite and Petite Cabane.",
+      "district": "flacq",
+      "from": "2026-03-16T07:00:00.000Z",
+      "to": "2026-03-16T12:00:00.000Z",
+      "id": "548a8daa1d8538ed7bfb791414bf3a48"
     },
     {
       "date": "Le lundi 16 mars 2026 de  09:00:00 à  12:00:00",
