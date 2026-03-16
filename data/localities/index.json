@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-16T09:18:08.338Z",
+  "generated": "2026-03-16T10:18:08.025Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -1771,7 +1771,7 @@
       "slug": "highlands",
       "name": "HIGHLANDS",
       "district": "plainewilhems",
-      "outageCount": 69,
+      "outageCount": 70,
       "file": "highlands.json",
       "firstOutage": "2022-04-13",
       "lastOutage": "2026-03-16"
@@ -2743,10 +2743,10 @@
       "slug": "petit-bel-air",
       "name": "PETIT BEL AIR",
       "district": "grandport",
-      "outageCount": 7,
+      "outageCount": 8,
       "file": "petit-bel-air.json",
       "firstOutage": "2022-08-12",
-      "lastOutage": "2026-01-28"
+      "lastOutage": "2026-03-17"
     },
     {
       "slug": "petit-bois",
@@ -4084,10 +4084,10 @@
       "slug": "villenoire",
       "name": "VILLENOIRE",
       "district": "grandport",
-      "outageCount": 52,
+      "outageCount": 53,
       "file": "villenoire.json",
       "firstOutage": "2022-06-10",
-      "lastOutage": "2026-03-15"
+      "lastOutage": "2026-03-17"
     },
     {
       "slug": "vuillemin-qmilitaire",

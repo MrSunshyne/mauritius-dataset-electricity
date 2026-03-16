@@ -2,11 +2,18 @@
   "slug": "highlands",
   "name": "HIGHLANDS",
   "district": "plainewilhems",
-  "generated": "2026-03-16T09:18:08.137Z",
-  "outageCount": 69,
+  "generated": "2026-03-16T10:18:07.812Z",
+  "outageCount": 70,
   "firstOutage": "2022-04-13",
   "lastOutage": "2026-03-16",
   "outages": [
+    {
+      "date": "Le lundi 16 mars 2026 de  14:30:00 à  17:00:00",
+      "streets": "Royal Road Highlands, Une partie de Morc VRS Highlands",
+      "from": "2026-03-16T10:30:00.000Z",
+      "to": "2026-03-16T13:00:00.000Z",
+      "id": "1ca61146407a8ba85347e8a68110ac95"
+    },
     {
       "date": "Le lundi 16 mars 2026 de  11:00:00 à  17:00:00",
       "streets": "DANS LES ALENTOURS DE PATISSERIE M&K",

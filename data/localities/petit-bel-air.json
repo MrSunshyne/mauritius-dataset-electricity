@@ -2,11 +2,18 @@
   "slug": "petit-bel-air",
   "name": "PETIT BEL AIR",
   "district": "grandport",
-  "generated": "2026-03-16T09:18:08.215Z",
-  "outageCount": 7,
+  "generated": "2026-03-16T10:18:07.897Z",
+  "outageCount": 8,
   "firstOutage": "2022-08-12",
-  "lastOutage": "2026-01-28",
+  "lastOutage": "2026-03-17",
   "outages": [
+    {
+      "date": "Le mardi 17 mars 2026 de  09:00:00 à  11:00:00",
+      "streets": "(i)Petit Bel Air habitant dans le périmètre et les rues suivantes: Père Laval Road, Cremation Road, Rishi Dayanand Road, Chuckravanen Street et La Route Royale Petit Bel Air",
+      "from": "2026-03-17T05:00:00.000Z",
+      "to": "2026-03-17T07:00:00.000Z",
+      "id": "f94003d9dc1cfda0076b04fcc187c8f1"
+    },
     {
       "date": "Le mercredi 28 janvier 2026 de  07:35:00 à  08:45:00",
       "streets": "EN PARTIE PETIT BEL AIR",

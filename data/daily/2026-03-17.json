@@ -1,9 +1,29 @@
 {
   "date": "2026-03-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-16T09:18:07.971Z",
-  "outageCount": 1,
+  "generated": "2026-03-16T10:18:07.639Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le mardi 17 mars 2026 de  09:00:00 à  11:00:00",
+      "locality": "VILLENOIRE",
+      "localitySlug": "villenoire",
+      "streets": "(ii)\tVille Noire habitant dans le périmètre et les rues suivantes: Magasin Street, Des Limites Street, Champagne Street, Matabadul Road, Singaren Street, Usine Manioc, Fabien Street et Bamboo Street",
+      "district": "grandport",
+      "from": "2026-03-17T05:00:00.000Z",
+      "to": "2026-03-17T07:00:00.000Z",
+      "id": "55915d2766cc99a287678c74f2b35a3e"
+    },
+    {
+      "date": "Le mardi 17 mars 2026 de  09:00:00 à  11:00:00",
+      "locality": "PETIT BEL AIR",
+      "localitySlug": "petit-bel-air",
+      "streets": "(i)Petit Bel Air habitant dans le périmètre et les rues suivantes: Père Laval Road, Cremation Road, Rishi Dayanand Road, Chuckravanen Street et La Route Royale Petit Bel Air",
+      "district": "grandport",
+      "from": "2026-03-17T05:00:00.000Z",
+      "to": "2026-03-17T07:00:00.000Z",
+      "id": "f94003d9dc1cfda0076b04fcc187c8f1"
+    },
     {
       "date": "Le mardi 17 mars 2026 de  09:30:00 à  15:00:00",
       "locality": "SAINTE CROIX",
