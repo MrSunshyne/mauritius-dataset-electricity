@@ -2,11 +2,18 @@
   "slug": "vallee-des-pretres",
   "name": "VALLEE DES PRETRES",
   "district": "portlouis",
-  "generated": "2026-03-16T10:18:08.015Z",
-  "outageCount": 76,
+  "generated": "2026-03-16T11:15:39.113Z",
+  "outageCount": 77,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-03-15",
+  "lastOutage": "2026-03-16",
   "outages": [
+    {
+      "date": "Le lundi 16 mars 2026 de  14:45:00 à  15:45:00",
+      "streets": "CHEMIN BERNARDIN ST PIERRE ET CHEMIN CAROLINE.",
+      "from": "2026-03-16T10:45:00.000Z",
+      "to": "2026-03-16T11:45:00.000Z",
+      "id": "46cdec19845bfd91a37077fa77b3a33f"
+    },
     {
       "date": "Le dimanche 15 mars 2026 de  13:15:00 à  15:00:00",
       "streets": "ROYAL ROAD VALLEY DES PRETES NR LA POSTE",

@@ -1,8 +1,8 @@
 {
   "date": "2026-03-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-16T10:18:07.639Z",
-  "outageCount": 7,
+  "generated": "2026-03-16T11:15:38.732Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le lundi 16 mars 2026 de  11:00:00 à  16:30:00",
@@ -53,6 +53,16 @@
       "from": "2026-03-16T10:30:00.000Z",
       "to": "2026-03-16T13:00:00.000Z",
       "id": "1ca61146407a8ba85347e8a68110ac95"
+    },
+    {
+      "date": "Le lundi 16 mars 2026 de  14:45:00 à  15:45:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "CHEMIN BERNARDIN ST PIERRE ET CHEMIN CAROLINE.",
+      "district": "portlouis",
+      "from": "2026-03-16T10:45:00.000Z",
+      "to": "2026-03-16T11:45:00.000Z",
+      "id": "46cdec19845bfd91a37077fa77b3a33f"
     },
     {
       "date": "Le lundi 16 mars 2026 de  09:00:00 à  12:00:00",
