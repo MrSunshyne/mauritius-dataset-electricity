@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-03-16T07:28:05.125Z",
-  "outageCount": 193,
+  "generated": "2026-03-16T08:17:39.153Z",
+  "outageCount": 194,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-03-15",
+  "lastOutage": "2026-03-16",
   "outages": [
+    {
+      "date": "Le lundi 16 mars 2026 de  09:00:00 à  16:00:00",
+      "streets": "PORT SUD EST, SONGES",
+      "from": "2026-03-16T05:00:00.000Z",
+      "to": "2026-03-16T12:00:00.000Z",
+      "id": "1ad8cb1b07580b28dbcdc9d15962acf4"
+    },
     {
       "date": "Le dimanche 15 mars 2026 de  08:30:00 à  15:00:00",
       "streets": "POINTE LA GUEULE, BAIE AUX HUITRES, ACCACIA",

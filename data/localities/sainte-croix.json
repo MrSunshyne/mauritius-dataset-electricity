@@ -2,11 +2,18 @@
   "slug": "sainte-croix",
   "name": "SAINTE CROIX",
   "district": "portlouis",
-  "generated": "2026-03-16T07:28:05.137Z",
-  "outageCount": 73,
+  "generated": "2026-03-16T08:17:39.167Z",
+  "outageCount": 74,
   "firstOutage": "2022-04-26",
-  "lastOutage": "2026-02-21",
+  "lastOutage": "2026-03-17",
   "outages": [
+    {
+      "date": "Le mardi 17 mars 2026 de  09:30:00 à  15:00:00",
+      "streets": "LES ABONNES DE BATTERIE CASSEE SAINTE CROIX HABITANT DANS LES ENVIRONS DES RUES SAINTE FAMILLE ET JULUIS BOUGHERAT",
+      "from": "2026-03-17T05:30:00.000Z",
+      "to": "2026-03-17T11:00:00.000Z",
+      "id": "ed54212dd1ed9a58b6f5738984b04122"
+    },
     {
       "date": "Le samedi 21 février 2026 de  08:30:00 à  15:30:00",
       "streets": "DANS LES ENVIRONS DE MORC LA VALLEE, PIETON PERE LAVAL ET LE CORNU",

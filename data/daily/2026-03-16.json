@@ -1,8 +1,8 @@
 {
   "date": "2026-03-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-16T07:28:04.811Z",
-  "outageCount": 4,
+  "generated": "2026-03-16T08:17:38.842Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le lundi 16 mars 2026 de  11:00:00 à  16:30:00",
@@ -35,6 +35,16 @@
       "id": "548a8daa1d8538ed7bfb791414bf3a48"
     },
     {
+      "date": "Le lundi 16 mars 2026 de  11:00:00 à  17:00:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "DANS LES ALENTOURS DE PATISSERIE M&K",
+      "district": "plainewilhems",
+      "from": "2026-03-16T07:00:00.000Z",
+      "to": "2026-03-16T13:00:00.000Z",
+      "id": "f949afdf1dd8cfaae3cb0328e0b75768"
+    },
+    {
       "date": "Le lundi 16 mars 2026 de  09:00:00 à  12:00:00",
       "locality": "GRAND GAUBE",
       "localitySlug": "grand-gaube",
@@ -43,6 +53,16 @@
       "from": "2026-03-16T05:00:00.000Z",
       "to": "2026-03-16T08:00:00.000Z",
       "id": "4ddf9a00248c68bbac672774e0a133c8"
+    },
+    {
+      "date": "Le lundi 16 mars 2026 de  09:00:00 à  16:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "PORT SUD EST, SONGES",
+      "district": "rodrigues",
+      "from": "2026-03-16T05:00:00.000Z",
+      "to": "2026-03-16T12:00:00.000Z",
+      "id": "1ad8cb1b07580b28dbcdc9d15962acf4"
     }
   ]
 }

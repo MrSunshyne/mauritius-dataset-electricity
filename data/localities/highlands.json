@@ -2,11 +2,18 @@
   "slug": "highlands",
   "name": "HIGHLANDS",
   "district": "plainewilhems",
-  "generated": "2026-03-16T07:28:04.980Z",
-  "outageCount": 68,
+  "generated": "2026-03-16T08:17:39.007Z",
+  "outageCount": 69,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2026-02-18",
+  "lastOutage": "2026-03-16",
   "outages": [
+    {
+      "date": "Le lundi 16 mars 2026 de  11:00:00 à  17:00:00",
+      "streets": "DANS LES ALENTOURS DE PATISSERIE M&K",
+      "from": "2026-03-16T07:00:00.000Z",
+      "to": "2026-03-16T13:00:00.000Z",
+      "id": "f949afdf1dd8cfaae3cb0328e0b75768"
+    },
     {
       "date": "Le mercredi 18 février 2026 de  08:30:00 à  16:00:00",
       "streets": "Une partie de Moque Road, Morc Parmessur et Morc Valdoise",
