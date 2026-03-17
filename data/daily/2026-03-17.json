@@ -1,8 +1,8 @@
 {
   "date": "2026-03-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-17T10:13:30.416Z",
-  "outageCount": 8,
+  "generated": "2026-03-17T11:13:55.142Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le mardi 17 mars 2026 de  09:00:00 à  11:00:00",
@@ -73,6 +73,26 @@
       "from": "2026-03-17T08:00:00.000Z",
       "to": "2026-03-17T10:00:00.000Z",
       "id": "8af7ec06442f55e3a6874689941fcd11"
+    },
+    {
+      "date": "Le mardi 17 mars 2026 de  15:00:00 à  17:00:00",
+      "locality": "SOLFERINO",
+      "localitySlug": "solferino",
+      "streets": "SOLFERINO No 5 : DANS LES ENVIRONS L-ECOLE ET TERRAIN FOOTBALL.",
+      "district": "plainewilhems",
+      "from": "2026-03-17T11:00:00.000Z",
+      "to": "2026-03-17T13:00:00.000Z",
+      "id": "2e08994ee7393aabfb0a729b735ce0f0"
+    },
+    {
+      "date": "Le mardi 17 mars 2026 de  15:00:00 à  17:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "RUE ANTHELME, RUE MURRAY, RUE GIROUD ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2026-03-17T11:00:00.000Z",
+      "to": "2026-03-17T13:30:00.000Z",
+      "id": "b26539959fb0d49057ade02c3fce5f18"
     },
     {
       "date": "Le mardi 17 mars 2026 de  09:30:00 à  15:00:00",

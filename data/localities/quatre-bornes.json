@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-03-17T10:13:30.710Z",
-  "outageCount": 356,
+  "generated": "2026-03-17T11:13:55.439Z",
+  "outageCount": 357,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-03-15",
+  "lastOutage": "2026-03-17",
   "outages": [
+    {
+      "date": "Le mardi 17 mars 2026 de  15:00:00 à  17:30:00",
+      "streets": "RUE ANTHELME, RUE MURRAY, RUE GIROUD ET LES ALENTOURS",
+      "from": "2026-03-17T11:00:00.000Z",
+      "to": "2026-03-17T13:30:00.000Z",
+      "id": "b26539959fb0d49057ade02c3fce5f18"
+    },
     {
       "date": "Le dimanche 15 mars 2026 de  14:00:00 à  15:00:00",
       "streets": "NHDC Bassin et Morc Bassin",
