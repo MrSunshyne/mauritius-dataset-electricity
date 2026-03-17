@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-03-16T18:14:54.811Z",
-  "outageCount": 204,
+  "generated": "2026-03-17T06:17:45.983Z",
+  "outageCount": 205,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-03-01",
+  "lastOutage": "2026-03-17",
   "outages": [
+    {
+      "date": "Le mardi 17 mars 2026 de  12:00:00 à  14:00:00",
+      "streets": "dans les environs de Gajadhur Road, Leclezio Road, Reservoir Road, Rue Malherbes et Dream Price",
+      "from": "2026-03-17T08:00:00.000Z",
+      "to": "2026-03-17T10:00:00.000Z",
+      "id": "8af7ec06442f55e3a6874689941fcd11"
+    },
     {
       "date": "Le dimanche 1 mars 2026 de  08:30:00 à  15:30:00",
       "streets": "dans les périmètres et rues suivantes : Lees St, Montochio Lane, Anderson St, Willouby St, Commerson St, La Croix St, Hugginson St, Nahabou St, Victor Hugo St, Baissac St, Maurel St, La Maletie St, Dalais St, Morc Senneville, Maxime Boulet St, Impasse Henry, Satar Lane, Impasse Maigrot, Ducrais St et Duperé St",

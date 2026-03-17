@@ -2,11 +2,18 @@
   "slug": "pereybere",
   "name": "PEREYBERE",
   "district": "rivieredurempart",
-  "generated": "2026-03-16T18:14:54.920Z",
-  "outageCount": 99,
+  "generated": "2026-03-17T06:17:46.106Z",
+  "outageCount": 100,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-03-15",
+  "lastOutage": "2026-03-18",
   "outages": [
+    {
+      "date": "Le mercredi 18 mars 2026 de  08:30:00 à  15:00:00",
+      "streets": "20 PIEDS ROAD GRAND BAY AND OLD MILL ROAD & COASTAL ROAD PEREYBERE",
+      "from": "2026-03-18T04:30:00.000Z",
+      "to": "2026-03-18T11:00:00.000Z",
+      "id": "64c768c8fd7327d78b32285e52c3e0b9"
+    },
     {
       "date": "Le dimanche 15 mars 2026 de  08:40:00 à  17:15:00",
       "streets": "PEREYBERE",

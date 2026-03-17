@@ -2,11 +2,18 @@
   "slug": "rose-belle",
   "name": "ROSE BELLE",
   "district": "grandport",
-  "generated": "2026-03-16T18:14:54.982Z",
-  "outageCount": 76,
+  "generated": "2026-03-17T06:17:46.175Z",
+  "outageCount": 77,
   "firstOutage": "2022-05-12",
-  "lastOutage": "2026-02-03",
+  "lastOutage": "2026-03-17",
   "outages": [
+    {
+      "date": "Le mardi 17 mars 2026 de  09:30:00 à  11:30:00",
+      "streets": "ROYAL ROAD ROSEBELLE NR STATION POLICE",
+      "from": "2026-03-17T05:30:00.000Z",
+      "to": "2026-03-17T07:30:00.000Z",
+      "id": "78a4895cf5d121a4a251c6761b81f7fd"
+    },
     {
       "date": "Le mardi 3 février 2026 de  10:00:00 à  13:00:00",
       "streets": "Residence Mon Rose,Balisson",
