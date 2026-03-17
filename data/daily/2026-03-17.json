@@ -1,8 +1,8 @@
 {
   "date": "2026-03-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-17T09:14:47.066Z",
-  "outageCount": 7,
+  "generated": "2026-03-17T10:13:30.416Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le mardi 17 mars 2026 de  09:00:00 à  11:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-03-17T08:00:00.000Z",
       "to": "2026-03-17T11:00:00.000Z",
       "id": "1d99120a52a35c46642ef1762b64d33a"
+    },
+    {
+      "date": "Le mardi 17 mars 2026 de  15:00:00 à  17:30:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "Morc Frangipanes 2, LPG, Circonstance, Crematorium, Site & Services, NHDC Low cost, MSA, Shivala LAgrement, Cite St Catherine, Temple Rd et Market Lane",
+      "district": "moka",
+      "from": "2026-03-17T11:00:00.000Z",
+      "to": "2026-03-17T13:30:00.000Z",
+      "id": "4ca8aef850ba93a8a4d72d1efbd8c11d"
     },
     {
       "date": "Le mardi 17 mars 2026 de  10:30:00 à  12:00:00",

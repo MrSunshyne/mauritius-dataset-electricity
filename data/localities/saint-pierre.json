@@ -2,11 +2,18 @@
   "slug": "saint-pierre",
   "name": "SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-03-17T09:14:47.406Z",
-  "outageCount": 61,
+  "generated": "2026-03-17T10:13:30.751Z",
+  "outageCount": 62,
   "firstOutage": "2022-03-13",
   "lastOutage": "2026-03-17",
   "outages": [
+    {
+      "date": "Le mardi 17 mars 2026 de  15:00:00 à  17:30:00",
+      "streets": "Morc Frangipanes 2, LPG, Circonstance, Crematorium, Site & Services, NHDC Low cost, MSA, Shivala LAgrement, Cite St Catherine, Temple Rd et Market Lane",
+      "from": "2026-03-17T11:00:00.000Z",
+      "to": "2026-03-17T13:30:00.000Z",
+      "id": "4ca8aef850ba93a8a4d72d1efbd8c11d"
+    },
     {
       "date": "Le mardi 17 mars 2026 de  12:00:00 à  15:00:00",
       "streets": "RIVIERE BAPTISTE RD LALAURA ST PIERRE",
