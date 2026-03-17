@@ -2,11 +2,18 @@
   "slug": "saint-pierre",
   "name": "SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-03-17T08:10:17.473Z",
-  "outageCount": 60,
+  "generated": "2026-03-17T09:14:47.406Z",
+  "outageCount": 61,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-03-08",
+  "lastOutage": "2026-03-17",
   "outages": [
+    {
+      "date": "Le mardi 17 mars 2026 de  12:00:00 à  15:00:00",
+      "streets": "RIVIERE BAPTISTE RD LALAURA ST PIERRE",
+      "from": "2026-03-17T08:00:00.000Z",
+      "to": "2026-03-17T11:00:00.000Z",
+      "id": "1d99120a52a35c46642ef1762b64d33a"
+    },
     {
       "date": "Le dimanche 8 mars 2026 de  08:30:00 à  15:30:00",
       "streets": "Route Bois Cheri, Riviere Baptiste, Francois Woo, en partie St Pierre et Le Pouce",

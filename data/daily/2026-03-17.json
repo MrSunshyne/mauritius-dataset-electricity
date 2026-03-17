@@ -1,8 +1,8 @@
 {
   "date": "2026-03-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-17T08:10:17.146Z",
-  "outageCount": 6,
+  "generated": "2026-03-17T09:14:47.066Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le mardi 17 mars 2026 de  09:00:00 à  11:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-03-17T05:30:00.000Z",
       "to": "2026-03-17T07:30:00.000Z",
       "id": "78a4895cf5d121a4a251c6761b81f7fd"
+    },
+    {
+      "date": "Le mardi 17 mars 2026 de  12:00:00 à  15:00:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "RIVIERE BAPTISTE RD LALAURA ST PIERRE",
+      "district": "moka",
+      "from": "2026-03-17T08:00:00.000Z",
+      "to": "2026-03-17T11:00:00.000Z",
+      "id": "1d99120a52a35c46642ef1762b64d33a"
     },
     {
       "date": "Le mardi 17 mars 2026 de  10:30:00 à  12:00:00",
