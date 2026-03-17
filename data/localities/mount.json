@@ -2,11 +2,18 @@
   "slug": "mount",
   "name": "MOUNT",
   "district": "pamplemousses",
-  "generated": "2026-03-17T11:13:55.383Z",
-  "outageCount": 6,
+  "generated": "2026-03-17T12:09:13.340Z",
+  "outageCount": 7,
   "firstOutage": "2022-10-14",
-  "lastOutage": "2025-12-11",
+  "lastOutage": "2026-03-17",
   "outages": [
+    {
+      "date": "Le mardi 17 mars 2026 de  15:15:00 à  17:00:00",
+      "streets": "MOUNT TOWARDS ROYAL ROAD MONT GOUT NEAR MORC JHOKOO ET EN PARTIE MORC MAISON BLANCHE.",
+      "from": "2026-03-17T11:15:00.000Z",
+      "to": "2026-03-17T13:00:00.000Z",
+      "id": "8aa642cb8c1e344af8794d7e61d14b78"
+    },
     {
       "date": "Le jeudi 11 décembre 2025 de  21:30:00 à  09:30:00",
       "streets": "CHEMIN MON PITON MOUNT",

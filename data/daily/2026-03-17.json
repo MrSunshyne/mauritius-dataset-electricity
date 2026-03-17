@@ -1,8 +1,8 @@
 {
   "date": "2026-03-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-17T11:13:55.142Z",
-  "outageCount": 10,
+  "generated": "2026-03-17T12:09:13.078Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le mardi 17 mars 2026 de  09:00:00 à  11:00:00",
@@ -63,6 +63,16 @@
       "from": "2026-03-17T06:30:00.000Z",
       "to": "2026-03-17T08:00:00.000Z",
       "id": "2b7f250ad00bc15d504138fae31510a3"
+    },
+    {
+      "date": "Le mardi 17 mars 2026 de  15:15:00 à  17:00:00",
+      "locality": "MOUNT",
+      "localitySlug": "mount",
+      "streets": "MOUNT TOWARDS ROYAL ROAD MONT GOUT NEAR MORC JHOKOO ET EN PARTIE MORC MAISON BLANCHE.",
+      "district": "pamplemousses",
+      "from": "2026-03-17T11:15:00.000Z",
+      "to": "2026-03-17T13:00:00.000Z",
+      "id": "8aa642cb8c1e344af8794d7e61d14b78"
     },
     {
       "date": "Le mardi 17 mars 2026 de  12:00:00 à  14:00:00",
