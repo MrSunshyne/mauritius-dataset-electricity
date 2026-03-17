@@ -1,8 +1,8 @@
 {
   "date": "2026-03-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-17T06:17:45.856Z",
-  "outageCount": 5,
+  "generated": "2026-03-17T07:19:55.956Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le mardi 17 mars 2026 de  09:00:00 à  11:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-03-17T05:30:00.000Z",
       "to": "2026-03-17T07:30:00.000Z",
       "id": "78a4895cf5d121a4a251c6761b81f7fd"
+    },
+    {
+      "date": "Le mardi 17 mars 2026 de  10:30:00 à  12:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "SHIV PRAKASH LANE-PRINCE DE GALLES 7TH MILE TRIOLET",
+      "district": "pamplemousses",
+      "from": "2026-03-17T06:30:00.000Z",
+      "to": "2026-03-17T08:00:00.000Z",
+      "id": "2b7f250ad00bc15d504138fae31510a3"
     },
     {
       "date": "Le mardi 17 mars 2026 de  12:00:00 à  14:00:00",

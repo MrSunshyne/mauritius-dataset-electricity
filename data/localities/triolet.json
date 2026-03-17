@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-03-17T06:17:46.212Z",
-  "outageCount": 127,
+  "generated": "2026-03-17T07:19:56.299Z",
+  "outageCount": 128,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-03-10",
+  "lastOutage": "2026-03-17",
   "outages": [
+    {
+      "date": "Le mardi 17 mars 2026 de  10:30:00 à  12:00:00",
+      "streets": "SHIV PRAKASH LANE-PRINCE DE GALLES 7TH MILE TRIOLET",
+      "from": "2026-03-17T06:30:00.000Z",
+      "to": "2026-03-17T08:00:00.000Z",
+      "id": "2b7f250ad00bc15d504138fae31510a3"
+    },
     {
       "date": "Le mardi 10 mars 2026 de  14:20:00 à  15:10:00",
       "streets": "TRIOLET 9TH MILE, TROU AUX BICHES, TRIO ROAD & COASTAL ROAD",
