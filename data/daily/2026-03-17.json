@@ -1,8 +1,8 @@
 {
   "date": "2026-03-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-17T15:19:26.573Z",
-  "outageCount": 11,
+  "generated": "2026-03-17T16:19:42.987Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le mardi 17 mars 2026 de  09:00:00 à  11:00:00",
@@ -73,6 +73,16 @@
       "from": "2026-03-17T11:15:00.000Z",
       "to": "2026-03-17T13:00:00.000Z",
       "id": "8aa642cb8c1e344af8794d7e61d14b78"
+    },
+    {
+      "date": "Le mardi 17 mars 2026 de  17:00:00 à  00:00:00",
+      "locality": "CALEBASSES",
+      "localitySlug": "calebasses",
+      "streets": "CHEMIN ARSENAL, CHEMIN COUVENT, TAGORE LANE, SUBASH LANE ET LES ALENTOURS.",
+      "district": "pamplemousses",
+      "from": "2026-03-17T13:00:00.000Z",
+      "to": "2026-03-16T20:00:00.000Z",
+      "id": "256706f1ea9d330127689bfe95e33867"
     },
     {
       "date": "Le mardi 17 mars 2026 de  12:00:00 à  14:00:00",

@@ -2,11 +2,18 @@
   "slug": "calebasses",
   "name": "CALEBASSES",
   "district": "pamplemousses",
-  "generated": "2026-03-17T15:19:26.647Z",
-  "outageCount": 32,
+  "generated": "2026-03-17T16:19:43.056Z",
+  "outageCount": 33,
   "firstOutage": "2022-05-15",
-  "lastOutage": "2026-03-09",
+  "lastOutage": "2026-03-17",
   "outages": [
+    {
+      "date": "Le mardi 17 mars 2026 de  17:00:00 à  00:00:00",
+      "streets": "CHEMIN ARSENAL, CHEMIN COUVENT, TAGORE LANE, SUBASH LANE ET LES ALENTOURS.",
+      "from": "2026-03-17T13:00:00.000Z",
+      "to": "2026-03-16T20:00:00.000Z",
+      "id": "256706f1ea9d330127689bfe95e33867"
+    },
     {
       "date": "Le lundi 9 mars 2026 de  11:00:00 à  12:00:00",
       "streets": "ET KHORATTY",
