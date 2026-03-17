@@ -1,8 +1,8 @@
 {
   "date": "2026-03-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-17T16:19:42.987Z",
-  "outageCount": 12,
+  "generated": "2026-03-17T17:19:54.146Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le mardi 17 mars 2026 de  09:00:00 à  11:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-03-17T05:30:00.000Z",
       "to": "2026-03-17T07:30:00.000Z",
       "id": "78a4895cf5d121a4a251c6761b81f7fd"
+    },
+    {
+      "date": "Le mardi 17 mars 2026 de  21:00:00 à  00:30:00",
+      "locality": "RIVIERE DES CREOLES",
+      "localitySlug": "riviere-des-creoles",
+      "streets": "MORC VRS RIVIERE DE CREOLE",
+      "district": "grandport",
+      "from": "2026-03-17T17:00:00.000Z",
+      "to": "2026-03-16T20:30:00.000Z",
+      "id": "5b831d44ae2ca9d9153db6506d9c764f"
     },
     {
       "date": "Le mardi 17 mars 2026 de  12:00:00 à  15:00:00",
