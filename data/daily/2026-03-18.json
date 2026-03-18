@@ -1,8 +1,8 @@
 {
   "date": "2026-03-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-18T16:19:38.867Z",
-  "outageCount": 9,
+  "generated": "2026-03-18T17:19:34.874Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le mercredi 18 mars 2026 de  09:30:00 à  11:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-03-18T06:00:00.000Z",
       "to": "2026-03-18T10:00:00.000Z",
       "id": "46b73a2e810236077e7a06d174a80123"
+    },
+    {
+      "date": "Le mercredi 18 mars 2026 de  19:00:00 à  00:30:00",
+      "locality": "CLUNY",
+      "localitySlug": "cluny",
+      "streets": "CLUNY",
+      "district": "grandport",
+      "from": "2026-03-18T15:00:00.000Z",
+      "to": "2026-03-17T20:30:00.000Z",
+      "id": "78c97959373910af1329e8fee984c8c0"
     },
     {
       "date": "Le mercredi 18 mars 2026 de  09:15:00 à  17:00:00",
