@@ -1,8 +1,8 @@
 {
   "date": "2026-03-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-18T11:14:00.460Z",
-  "outageCount": 7,
+  "generated": "2026-03-18T12:10:05.826Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le mercredi 18 mars 2026 de  09:30:00 à  11:00:00",
@@ -45,14 +45,14 @@
       "id": "46b73a2e810236077e7a06d174a80123"
     },
     {
-      "date": "Le mercredi 18 mars 2026 de  09:15:00 à  15:30:00",
+      "date": "Le mercredi 18 mars 2026 de  09:15:00 à  17:00:00",
       "locality": "QUATRE-BORNES",
       "localitySlug": "quatre-bornes",
-      "streets": "Residence Pere Laval",
+      "streets": "Residence Pere Laval-OLLIER RD-FARQUAR RD QUATRE BORNES",
       "district": "plainewilhems",
       "from": "2026-03-18T05:15:00.000Z",
-      "to": "2026-03-18T11:30:00.000Z",
-      "id": "f8feba67ff3e2ca8e0856ed9fa243cb8"
+      "to": "2026-03-18T13:00:00.000Z",
+      "id": "e9cf6a8a184c62041f0733aa3529584c"
     },
     {
       "date": "Le mercredi 18 mars 2026 de  09:00:00 à  13:00:00",
@@ -65,14 +65,24 @@
       "id": "1f4868e3d7b5b369b6513a0deea2a2d2"
     },
     {
-      "date": "Le mercredi 18 mars 2026 de  08:30:00 à  15:00:00",
+      "date": "Le mercredi 18 mars 2026 de  16:00:00 à  17:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVE STANLEY, AVE ANTELME,TOMBEAU LANE, CONTE DE LISLE, EN PARTIE AVE OLLIER ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2026-03-18T12:00:00.000Z",
+      "to": "2026-03-18T13:00:00.000Z",
+      "id": "6b924ae9d07d8280c5d296f1ddd32876"
+    },
+    {
+      "date": "Le mercredi 18 mars 2026 de  08:30:00 à  17:00:00",
       "locality": "PEREYBERE",
       "localitySlug": "pereybere",
-      "streets": "20 PIEDS ROAD GRAND BAY AND OLD MILL ROAD & COASTAL ROAD PEREYBERE",
+      "streets": "20 PIEDS ROAD GRAND BAY AND OLD MILL ROAD & MORC SWAN-COASTAL ROAD PEREYBERE",
       "district": "rivieredurempart",
       "from": "2026-03-18T04:30:00.000Z",
-      "to": "2026-03-18T11:00:00.000Z",
-      "id": "64c768c8fd7327d78b32285e52c3e0b9"
+      "to": "2026-03-18T13:00:00.000Z",
+      "id": "8f16b80dad3a7298b48a8d7137fbd496"
     }
   ]
 }

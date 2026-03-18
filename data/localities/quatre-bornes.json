@@ -2,17 +2,24 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-03-18T11:14:00.746Z",
-  "outageCount": 358,
+  "generated": "2026-03-18T12:10:06.114Z",
+  "outageCount": 359,
   "firstOutage": "2022-04-01",
   "lastOutage": "2026-03-18",
   "outages": [
     {
-      "date": "Le mercredi 18 mars 2026 de  09:15:00 à  15:30:00",
-      "streets": "Residence Pere Laval",
+      "date": "Le mercredi 18 mars 2026 de  16:00:00 à  17:00:00",
+      "streets": "AVE STANLEY, AVE ANTELME,TOMBEAU LANE, CONTE DE LISLE, EN PARTIE AVE OLLIER ET LES ENVIRONS",
+      "from": "2026-03-18T12:00:00.000Z",
+      "to": "2026-03-18T13:00:00.000Z",
+      "id": "6b924ae9d07d8280c5d296f1ddd32876"
+    },
+    {
+      "date": "Le mercredi 18 mars 2026 de  09:15:00 à  17:00:00",
+      "streets": "Residence Pere Laval-OLLIER RD-FARQUAR RD QUATRE BORNES",
       "from": "2026-03-18T05:15:00.000Z",
-      "to": "2026-03-18T11:30:00.000Z",
-      "id": "f8feba67ff3e2ca8e0856ed9fa243cb8"
+      "to": "2026-03-18T13:00:00.000Z",
+      "id": "e9cf6a8a184c62041f0733aa3529584c"
     },
     {
       "date": "Le mardi 17 mars 2026 de  15:00:00 à  17:30:00",
