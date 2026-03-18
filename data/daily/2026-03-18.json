@@ -1,8 +1,8 @@
 {
   "date": "2026-03-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-18T06:18:17.725Z",
-  "outageCount": 5,
+  "generated": "2026-03-18T07:19:50.620Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le mercredi 18 mars 2026 de  09:30:00 à  11:00:00",
@@ -25,14 +25,24 @@
       "id": "ee52e2c758f3f6189668cae4f14db776"
     },
     {
-      "date": "Le mercredi 18 mars 2026 de  09:15:00 à  10:15:00",
+      "date": "Le mercredi 18 mars 2026 de  10:00:00 à  14:00:00",
+      "locality": "ANSE JONCHEE",
+      "localitySlug": "anse-jonchee",
+      "streets": "PART OF ANSE JONCHEE",
+      "district": "grandport",
+      "from": "2026-03-18T06:00:00.000Z",
+      "to": "2026-03-18T10:00:00.000Z",
+      "id": "46b73a2e810236077e7a06d174a80123"
+    },
+    {
+      "date": "Le mercredi 18 mars 2026 de  09:15:00 à  15:30:00",
       "locality": "QUATRE-BORNES",
       "localitySlug": "quatre-bornes",
-      "streets": "Ave Farquhar, Ave C. Antelme, Ave Stanley et en partie Ave Ollier",
+      "streets": "Residence Pere Laval",
       "district": "plainewilhems",
       "from": "2026-03-18T05:15:00.000Z",
-      "to": "2026-03-18T06:15:00.000Z",
-      "id": "1ebf636dd743e27a272434f48d0d10e0"
+      "to": "2026-03-18T11:30:00.000Z",
+      "id": "f8feba67ff3e2ca8e0856ed9fa243cb8"
     },
     {
       "date": "Le mercredi 18 mars 2026 de  09:00:00 à  13:00:00",
