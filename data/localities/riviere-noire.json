@@ -2,11 +2,18 @@
   "slug": "riviere-noire",
   "name": "RIVIERE NOIRE",
   "district": "blackriver",
-  "generated": "2026-03-18T17:19:35.182Z",
-  "outageCount": 43,
+  "generated": "2026-03-18T18:15:23.501Z",
+  "outageCount": 44,
   "firstOutage": "2022-06-03",
-  "lastOutage": "2026-03-09",
+  "lastOutage": "2026-03-18",
   "outages": [
+    {
+      "date": "Le mercredi 18 mars 2026 de  22:00:00 à  01:30:00",
+      "streets": "LA BALISE TAMARIN.RIVEIRE NOIRE",
+      "from": "2026-03-18T18:00:00.000Z",
+      "to": "2026-03-17T21:30:00.000Z",
+      "id": "5af4b1ba4cc8d1827f8e13aa58a4d1a0"
+    },
     {
       "date": "Le lundi 9 mars 2026 de  08:30:00 à  16:30:00",
       "streets": "RIVIERE NOIRE",

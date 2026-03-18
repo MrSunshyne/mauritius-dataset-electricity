@@ -2,11 +2,18 @@
   "slug": "l-aventure",
   "name": "L-AVENTURE",
   "district": "flacq",
-  "generated": "2026-03-18T17:19:35.047Z",
-  "outageCount": 19,
+  "generated": "2026-03-18T18:15:23.357Z",
+  "outageCount": 20,
   "firstOutage": "2024-05-15",
-  "lastOutage": "2026-02-23",
+  "lastOutage": "2026-03-18",
   "outages": [
+    {
+      "date": "Le mercredi 18 mars 2026 de  20:00:00 à  00:30:00",
+      "streets": "REGION LAVENTURE,GRANDE RETRAITE,PONT BLANC.POSTE DEFLACQ,BELLEMARE,POINTE DE FLAC",
+      "from": "2026-03-18T16:00:00.000Z",
+      "to": "2026-03-17T20:30:00.000Z",
+      "id": "ac440ab5438e195fd43e255667519db7"
+    },
     {
       "date": "Le lundi 23 février 2026 de  12:00:00 à  14:00:00",
       "streets": "PART OF LAVENTURE",

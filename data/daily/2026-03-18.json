@@ -1,8 +1,8 @@
 {
   "date": "2026-03-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-18T17:19:34.874Z",
-  "outageCount": 10,
+  "generated": "2026-03-18T18:15:23.177Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le mercredi 18 mars 2026 de  09:30:00 à  11:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-03-18T05:30:00.000Z",
       "to": "2026-03-18T07:00:00.000Z",
       "id": "5fc45bc40c0d847404cee8f1a7a52483"
+    },
+    {
+      "date": "Le mercredi 18 mars 2026 de  22:00:00 à  01:30:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "LA BALISE TAMARIN.RIVEIRE NOIRE",
+      "district": "blackriver",
+      "from": "2026-03-18T18:00:00.000Z",
+      "to": "2026-03-17T21:30:00.000Z",
+      "id": "5af4b1ba4cc8d1827f8e13aa58a4d1a0"
     },
     {
       "date": "Le mercredi 18 mars 2026 de  15:00:00 à  17:00:00",
@@ -33,6 +43,16 @@
       "from": "2026-03-18T13:00:00.000Z",
       "to": "2026-03-18T15:00:00.000Z",
       "id": "4718b09c40cc717438b60def83ddc95b"
+    },
+    {
+      "date": "Le mercredi 18 mars 2026 de  20:00:00 à  00:30:00",
+      "locality": "L-AVENTURE",
+      "localitySlug": "l-aventure",
+      "streets": "REGION LAVENTURE,GRANDE RETRAITE,PONT BLANC.POSTE DEFLACQ,BELLEMARE,POINTE DE FLAC",
+      "district": "flacq",
+      "from": "2026-03-18T16:00:00.000Z",
+      "to": "2026-03-17T20:30:00.000Z",
+      "id": "ac440ab5438e195fd43e255667519db7"
     },
     {
       "date": "Le mercredi 18 mars 2026 de  09:00:00 à  15:00:00",
@@ -93,6 +113,16 @@
       "from": "2026-03-18T12:00:00.000Z",
       "to": "2026-03-18T13:00:00.000Z",
       "id": "6b924ae9d07d8280c5d296f1ddd32876"
+    },
+    {
+      "date": "Le mercredi 18 mars 2026 de  20:00:00 à  23:00:00",
+      "locality": "CAMP CHAPELON",
+      "localitySlug": "camp-chapelon",
+      "streets": "CAMP CHAPELON PAILLES",
+      "district": "portlouis",
+      "from": "2026-03-18T16:00:00.000Z",
+      "to": "2026-03-18T19:00:00.000Z",
+      "id": "54385b660fd809bf010df1afe1c9dc18"
     },
     {
       "date": "Le mercredi 18 mars 2026 de  08:30:00 à  17:00:00",
