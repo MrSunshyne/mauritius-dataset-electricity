@@ -2,11 +2,18 @@
   "slug": "saint-pierre",
   "name": "SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-03-18T09:14:14.430Z",
-  "outageCount": 62,
+  "generated": "2026-03-18T10:15:19.770Z",
+  "outageCount": 63,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-03-17",
+  "lastOutage": "2026-03-22",
   "outages": [
+    {
+      "date": "Le dimanche 22 mars 2026 de  08:30:00 à  15:00:00",
+      "streets": "Zone Industrielle, Plastinax, Panache et Associated Textile",
+      "from": "2026-03-22T04:30:00.000Z",
+      "to": "2026-03-22T11:00:00.000Z",
+      "id": "01fbd8649dd64d3917ecdabf3d9ea48a"
+    },
     {
       "date": "Le mardi 17 mars 2026 de  15:00:00 à  17:30:00",
       "streets": "Morc Frangipanes 2, LPG, Circonstance, Crematorium, Site & Services, NHDC Low cost, MSA, Shivala LAgrement, Cite St Catherine, Temple Rd et Market Lane",
