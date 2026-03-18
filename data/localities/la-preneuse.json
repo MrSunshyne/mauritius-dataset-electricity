@@ -2,11 +2,18 @@
   "slug": "la-preneuse",
   "name": "LA PRENEUSE",
   "district": "blackriver",
-  "generated": "2026-03-17T18:13:59.540Z",
-  "outageCount": 26,
+  "generated": "2026-03-18T06:18:17.908Z",
+  "outageCount": 27,
   "firstOutage": "2022-03-23",
-  "lastOutage": "2025-11-11",
+  "lastOutage": "2026-03-18",
   "outages": [
+    {
+      "date": "Le mercredi 18 mars 2026 de  09:30:00 à  11:00:00",
+      "streets": "LA PRENEUSE",
+      "from": "2026-03-18T05:30:00.000Z",
+      "to": "2026-03-18T07:00:00.000Z",
+      "id": "5fc45bc40c0d847404cee8f1a7a52483"
+    },
     {
       "date": "Le mardi 11 novembre 2025 de  09:50:00 à  10:30:00",
       "streets": "PART OF LA PREUNEUSE & LA MIVOIE",

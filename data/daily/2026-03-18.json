@@ -1,9 +1,49 @@
 {
   "date": "2026-03-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-17T18:13:59.359Z",
-  "outageCount": 1,
+  "generated": "2026-03-18T06:18:17.725Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le mercredi 18 mars 2026 de  09:30:00 à  11:00:00",
+      "locality": "LA PRENEUSE",
+      "localitySlug": "la-preneuse",
+      "streets": "LA PRENEUSE",
+      "district": "blackriver",
+      "from": "2026-03-18T05:30:00.000Z",
+      "to": "2026-03-18T07:00:00.000Z",
+      "id": "5fc45bc40c0d847404cee8f1a7a52483"
+    },
+    {
+      "date": "Le mercredi 18 mars 2026 de  09:00:00 à  15:00:00",
+      "locality": "VILLENOIRE",
+      "localitySlug": "villenoire",
+      "streets": "Ville Noire habitant dans le périmètre et les rues suivantes: VRS Ville Noire, NHDC Ville Noire et Morcellement Blue Print Ville Noire",
+      "district": "grandport",
+      "from": "2026-03-18T05:00:00.000Z",
+      "to": "2026-03-18T11:00:00.000Z",
+      "id": "ee52e2c758f3f6189668cae4f14db776"
+    },
+    {
+      "date": "Le mercredi 18 mars 2026 de  09:15:00 à  10:15:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave Farquhar, Ave C. Antelme, Ave Stanley et en partie Ave Ollier",
+      "district": "plainewilhems",
+      "from": "2026-03-18T05:15:00.000Z",
+      "to": "2026-03-18T06:15:00.000Z",
+      "id": "1ebf636dd743e27a272434f48d0d10e0"
+    },
+    {
+      "date": "Le mercredi 18 mars 2026 de  09:00:00 à  13:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "Part of Joory Lane, Seebaruth lane, Riviére Seche, Dhunputh Lane, Bedassy Lane and the neighborhood",
+      "district": "plainewilhems",
+      "from": "2026-03-18T05:00:00.000Z",
+      "to": "2026-03-18T09:00:00.000Z",
+      "id": "1f4868e3d7b5b369b6513a0deea2a2d2"
+    },
     {
       "date": "Le mercredi 18 mars 2026 de  08:30:00 à  15:00:00",
       "locality": "PEREYBERE",

@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-03-17T18:13:59.639Z",
-  "outageCount": 357,
+  "generated": "2026-03-18T06:18:18.009Z",
+  "outageCount": 358,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-03-17",
+  "lastOutage": "2026-03-18",
   "outages": [
+    {
+      "date": "Le mercredi 18 mars 2026 de  09:15:00 à  10:15:00",
+      "streets": "Ave Farquhar, Ave C. Antelme, Ave Stanley et en partie Ave Ollier",
+      "from": "2026-03-18T05:15:00.000Z",
+      "to": "2026-03-18T06:15:00.000Z",
+      "id": "1ebf636dd743e27a272434f48d0d10e0"
+    },
     {
       "date": "Le mardi 17 mars 2026 de  15:00:00 à  17:30:00",
       "streets": "RUE ANTHELME, RUE MURRAY, RUE GIROUD ET LES ALENTOURS",
