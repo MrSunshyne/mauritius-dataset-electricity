@@ -1,8 +1,8 @@
 {
   "date": "2026-03-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-18T10:15:19.447Z",
-  "outageCount": 6,
+  "generated": "2026-03-18T11:14:00.460Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le mercredi 18 mars 2026 de  09:30:00 à  11:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-03-18T05:30:00.000Z",
       "to": "2026-03-18T07:00:00.000Z",
       "id": "5fc45bc40c0d847404cee8f1a7a52483"
+    },
+    {
+      "date": "Le mercredi 18 mars 2026 de  15:00:00 à  17:00:00",
+      "locality": "TROU D-EAU DOUCE",
+      "localitySlug": "trou-d-eau-douce",
+      "streets": "Trou D-Eau Douce towards Palmar",
+      "district": "flacq",
+      "from": "2026-03-18T11:00:00.000Z",
+      "to": "2026-03-18T13:00:00.000Z",
+      "id": "bf4347d1d8e25e0da710c5b09cdc1d34"
     },
     {
       "date": "Le mercredi 18 mars 2026 de  09:00:00 à  15:00:00",
