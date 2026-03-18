@@ -2,11 +2,18 @@
   "slug": "belvedere",
   "name": "BELVEDERE ( BEAU BASSIN )",
   "district": "flacq",
-  "generated": "2026-03-18T12:10:05.885Z",
-  "outageCount": 9,
+  "generated": "2026-03-18T13:28:10.377Z",
+  "outageCount": 10,
   "firstOutage": "2023-01-21",
-  "lastOutage": "2025-01-22",
+  "lastOutage": "2026-03-18",
   "outages": [
+    {
+      "date": "Le mercredi 18 mars 2026 de  17:00:00 à  19:00:00",
+      "streets": "MOSQUE ROAD, ROUTE ROYALE.",
+      "from": "2026-03-18T13:00:00.000Z",
+      "to": "2026-03-18T15:00:00.000Z",
+      "id": "4718b09c40cc717438b60def83ddc95b"
+    },
     {
       "date": "Le mercredi 22 janvier 2025 de  09:15:00 à  11:15:00",
       "streets": "LALLMATIE NEAR MOSQUE",

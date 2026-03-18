@@ -1,8 +1,8 @@
 {
   "date": "2026-03-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-18T12:10:05.826Z",
-  "outageCount": 8,
+  "generated": "2026-03-18T13:28:10.318Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le mercredi 18 mars 2026 de  09:30:00 à  11:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-03-18T11:00:00.000Z",
       "to": "2026-03-18T13:00:00.000Z",
       "id": "bf4347d1d8e25e0da710c5b09cdc1d34"
+    },
+    {
+      "date": "Le mercredi 18 mars 2026 de  17:00:00 à  19:00:00",
+      "locality": "BELVEDERE ( LALLMATIE )",
+      "localitySlug": "belvedere",
+      "streets": "MOSQUE ROAD, ROUTE ROYALE.",
+      "district": "flacq",
+      "from": "2026-03-18T13:00:00.000Z",
+      "to": "2026-03-18T15:00:00.000Z",
+      "id": "4718b09c40cc717438b60def83ddc95b"
     },
     {
       "date": "Le mercredi 18 mars 2026 de  09:00:00 à  15:00:00",
