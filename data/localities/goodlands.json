@@ -2,11 +2,18 @@
   "slug": "goodlands",
   "name": "GOODLANDS",
   "district": "rivieredurempart",
-  "generated": "2026-03-18T18:15:23.332Z",
-  "outageCount": 121,
+  "generated": "2026-03-19T06:16:19.106Z",
+  "outageCount": 122,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-03-14",
+  "lastOutage": "2026-03-19",
   "outages": [
+    {
+      "date": "Le jeudi 19 mars 2026 de  00:00:00 à  10:00:00",
+      "streets": "DORMITORY AT BYPASS GOODLANDS",
+      "from": "2026-03-18T20:00:00.000Z",
+      "to": "2026-03-18T06:00:00.000Z",
+      "id": "8196498be4195b46b9cefee130ad0aef"
+    },
     {
       "date": "Le samedi 14 mars 2026 de  14:00:00 à  19:00:00",
       "streets": "CHARLES DICKEN /ROYAL ROAD NEAR ARCADE ELLAPEN,TELECOM ,HURRY STORE,MCB.",
