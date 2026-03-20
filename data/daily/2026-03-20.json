@@ -1,8 +1,8 @@
 {
   "date": "2026-03-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-20T07:16:28.000Z",
-  "outageCount": 6,
+  "generated": "2026-03-20T08:07:34.416Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le vendredi 20 mars 2026 de  11:00:00 à  14:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-03-20T05:00:00.000Z",
       "to": "2026-03-20T11:00:00.000Z",
       "id": "e9a4ea86ba7a25806c9dbd0723b2542d"
+    },
+    {
+      "date": "Le vendredi 20 mars 2026 de  12:00:00 à  14:30:00",
+      "locality": "PLEIN BOIS",
+      "localitySlug": "plein-bois",
+      "streets": "PLEIN BOIS/MALAKOFF",
+      "district": "grandport",
+      "from": "2026-03-20T08:00:00.000Z",
+      "to": "2026-03-20T10:30:00.000Z",
+      "id": "de2e78abb812bc17c08326cafbcc1b63"
     },
     {
       "date": "Le vendredi 20 mars 2026 de  10:30:00 à  13:30:00",
