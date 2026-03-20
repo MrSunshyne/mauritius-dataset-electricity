@@ -2,11 +2,18 @@
   "slug": "camp-chapelon",
   "name": "CAMP CHAPELON",
   "district": "portlouis",
-  "generated": "2026-03-19T18:11:42.048Z",
-  "outageCount": 7,
+  "generated": "2026-03-20T06:13:38.718Z",
+  "outageCount": 8,
   "firstOutage": "2022-03-16",
-  "lastOutage": "2026-03-18",
+  "lastOutage": "2026-03-20",
   "outages": [
+    {
+      "date": "Le vendredi 20 mars 2026 de  09:40:00 à  10:45:00",
+      "streets": "MADRASSA RD AND NEARBY REGION",
+      "from": "2026-03-20T05:40:00.000Z",
+      "to": "2026-03-20T06:45:00.000Z",
+      "id": "55bf3fa94c14d55d83e2123df7022639"
+    },
     {
       "date": "Le mercredi 18 mars 2026 de  20:00:00 à  23:00:00",
       "streets": "CAMP CHAPELON PAILLES",

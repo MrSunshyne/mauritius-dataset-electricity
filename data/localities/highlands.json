@@ -2,11 +2,18 @@
   "slug": "highlands",
   "name": "HIGHLANDS",
   "district": "plainewilhems",
-  "generated": "2026-03-19T18:11:42.145Z",
-  "outageCount": 70,
+  "generated": "2026-03-20T06:13:38.802Z",
+  "outageCount": 71,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2026-03-16",
+  "lastOutage": "2026-03-20",
   "outages": [
+    {
+      "date": "Le vendredi 20 mars 2026 de  10:00:00 à  11:00:00",
+      "streets": "Morcellement Plaine de Hermitage, Morcellement VRS 5 Arpents Côte D’or",
+      "from": "2026-03-20T06:00:00.000Z",
+      "to": "2026-03-20T07:00:00.000Z",
+      "id": "1e73f17c3d9137ca1cc0e2f1618cd732"
+    },
     {
       "date": "Le lundi 16 mars 2026 de  14:30:00 à  17:00:00",
       "streets": "Royal Road Highlands, Une partie de Morc VRS Highlands",

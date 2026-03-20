@@ -1,8 +1,8 @@
 {
   "date": "2026-03-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-19T18:11:41.974Z",
-  "outageCount": 1,
+  "generated": "2026-03-20T06:13:38.649Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le vendredi 20 mars 2026 de  09:00:00 à  15:00:00",
@@ -13,6 +13,26 @@
       "from": "2026-03-20T05:00:00.000Z",
       "to": "2026-03-20T11:00:00.000Z",
       "id": "e9a4ea86ba7a25806c9dbd0723b2542d"
+    },
+    {
+      "date": "Le vendredi 20 mars 2026 de  10:00:00 à  11:00:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "Morcellement Plaine de Hermitage, Morcellement VRS 5 Arpents Côte D’or",
+      "district": "plainewilhems",
+      "from": "2026-03-20T06:00:00.000Z",
+      "to": "2026-03-20T07:00:00.000Z",
+      "id": "1e73f17c3d9137ca1cc0e2f1618cd732"
+    },
+    {
+      "date": "Le vendredi 20 mars 2026 de  09:40:00 à  10:45:00",
+      "locality": "CAMP CHAPELON",
+      "localitySlug": "camp-chapelon",
+      "streets": "MADRASSA RD AND NEARBY REGION",
+      "district": "portlouis",
+      "from": "2026-03-20T05:40:00.000Z",
+      "to": "2026-03-20T06:45:00.000Z",
+      "id": "55bf3fa94c14d55d83e2123df7022639"
     }
   ]
 }
