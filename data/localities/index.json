@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-20T06:13:38.988Z",
+  "generated": "2026-03-20T07:16:28.387Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -115,10 +115,10 @@
       "slug": "arsenal",
       "name": "ARSENAL",
       "district": "pamplemousses",
-      "outageCount": 55,
+      "outageCount": 56,
       "file": "arsenal.json",
       "firstOutage": "2022-05-25",
-      "lastOutage": "2026-03-14"
+      "lastOutage": "2026-03-20"
     },
     {
       "slug": "bagatelle",
@@ -214,10 +214,10 @@
       "slug": "bambous",
       "name": "BAMBOUS",
       "district": "blackriver",
-      "outageCount": 111,
+      "outageCount": 112,
       "file": "bambous.json",
       "firstOutage": "2022-04-12",
-      "lastOutage": "2026-03-13"
+      "lastOutage": "2026-03-20"
     },
     {
       "slug": "bambous-virieux",
@@ -3427,10 +3427,10 @@
       "slug": "riviere-du-rempart",
       "name": "RIVIERE DU REMPART",
       "district": "rivieredurempart",
-      "outageCount": 53,
+      "outageCount": 54,
       "file": "riviere-du-rempart.json",
       "firstOutage": "2022-03-20",
-      "lastOutage": "2026-03-05"
+      "lastOutage": "2026-03-20"
     },
     {
       "slug": "riviere-noire",
