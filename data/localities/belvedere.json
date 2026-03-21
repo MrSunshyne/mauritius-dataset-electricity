@@ -2,11 +2,18 @@
   "slug": "belvedere",
   "name": "BELVEDERE ( BEAU BASSIN )",
   "district": "flacq",
-  "generated": "2026-03-21T16:02:13.111Z",
-  "outageCount": 10,
+  "generated": "2026-03-21T17:03:47.547Z",
+  "outageCount": 11,
   "firstOutage": "2023-01-21",
-  "lastOutage": "2026-03-18",
+  "lastOutage": "2026-03-21",
   "outages": [
+    {
+      "date": "Le samedi 21 mars 2026 de  20:20:00 à  22:30:00",
+      "streets": "Pont Bon Dieu,Belvedere,Bon Accueil Branch Rd,Part Brisee Verdiere",
+      "from": "2026-03-21T16:20:00.000Z",
+      "to": "2026-03-21T18:30:00.000Z",
+      "id": "c72dddb9efc97b5a69228c85ba23952c"
+    },
     {
       "date": "Le mercredi 18 mars 2026 de  17:00:00 à  19:00:00",
       "streets": "MOSQUE ROAD, ROUTE ROYALE.",
