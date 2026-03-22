@@ -2,11 +2,18 @@
   "slug": "souillac",
   "name": "SOUILLAC",
   "district": "savanne",
-  "generated": "2026-03-21T18:03:04.173Z",
-  "outageCount": 68,
+  "generated": "2026-03-22T06:12:56.902Z",
+  "outageCount": 69,
   "firstOutage": "2022-06-05",
-  "lastOutage": "2026-01-27",
+  "lastOutage": "2026-03-22",
   "outages": [
+    {
+      "date": "Le dimanche 22 mars 2026 de  03:00:00 à  11:00:00",
+      "streets": "LADY BARKLY,BRISE DE MER,NHDC,TERRACINE",
+      "from": "2026-03-21T23:00:00.000Z",
+      "to": "2026-03-21T07:00:00.000Z",
+      "id": "b929771b42b4545a509f357d037904a0"
+    },
     {
       "date": "Le mardi 27 janvier 2026 de  15:30:00 à  18:30:00",
       "streets": "Souillac et Morcellement Gris Gris",
