@@ -1,8 +1,8 @@
 {
   "date": "2026-03-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-23T13:27:30.557Z",
-  "outageCount": 4,
+  "generated": "2026-03-23T14:21:06.835Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le lundi 23 mars 2026 de  09:20:00 à  12:20:00",
@@ -43,6 +43,16 @@
       "from": "2026-03-23T10:00:00.000Z",
       "to": "2026-03-23T14:00:00.000Z",
       "id": "cfe00296bfe3638d8c3a0f186ca198bb"
+    },
+    {
+      "date": "Le lundi 23 mars 2026 de  14:30:00 à  21:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "ILE MICHEL, GRAND VAR, POINTE 20 TOURS ET PETITE BUTTE.",
+      "district": "rodrigues",
+      "from": "2026-03-23T10:30:00.000Z",
+      "to": "2026-03-23T17:00:00.000Z",
+      "id": "ad3122aa952dbeda1a70e7d3f9b43f1e"
     }
   ]
 }

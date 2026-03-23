@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-03-23T13:27:30.875Z",
-  "outageCount": 194,
+  "generated": "2026-03-23T14:21:07.119Z",
+  "outageCount": 195,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-03-16",
+  "lastOutage": "2026-03-23",
   "outages": [
+    {
+      "date": "Le lundi 23 mars 2026 de  14:30:00 à  21:00:00",
+      "streets": "ILE MICHEL, GRAND VAR, POINTE 20 TOURS ET PETITE BUTTE.",
+      "from": "2026-03-23T10:30:00.000Z",
+      "to": "2026-03-23T17:00:00.000Z",
+      "id": "ad3122aa952dbeda1a70e7d3f9b43f1e"
+    },
     {
       "date": "Le lundi 16 mars 2026 de  09:00:00 à  16:00:00",
       "streets": "PORT SUD EST, SONGES",
