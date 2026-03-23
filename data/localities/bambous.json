@@ -2,11 +2,18 @@
   "slug": "bambous",
   "name": "BAMBOUS",
   "district": "blackriver",
-  "generated": "2026-03-23T06:19:46.994Z",
-  "outageCount": 112,
+  "generated": "2026-03-23T07:25:55.559Z",
+  "outageCount": 113,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-03-20",
+  "lastOutage": "2026-03-27",
   "outages": [
+    {
+      "date": "Le vendredi 27 mars 2026 de  08:30:00 à  15:30:00",
+      "streets": "Allée Tamarin, Ave Boundary, Ave Belle Isle, Ave des Manguiers et Ave des Brigands",
+      "from": "2026-03-27T04:30:00.000Z",
+      "to": "2026-03-27T11:30:00.000Z",
+      "id": "75d152c8aaee1b2f6dd4d72a1e643df4"
+    },
     {
       "date": "Le vendredi 20 mars 2026 de  11:00:00 à  14:00:00",
       "streets": "ROUTE GEOFROY BAMBOUS",

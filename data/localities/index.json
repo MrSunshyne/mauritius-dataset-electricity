@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-23T06:19:47.300Z",
+  "generated": "2026-03-23T07:25:55.869Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -214,10 +214,10 @@
       "slug": "bambous",
       "name": "BAMBOUS",
       "district": "blackriver",
-      "outageCount": 112,
+      "outageCount": 113,
       "file": "bambous.json",
       "firstOutage": "2022-04-12",
-      "lastOutage": "2026-03-20"
+      "lastOutage": "2026-03-27"
     },
     {
       "slug": "bambous-virieux",
@@ -3508,10 +3508,10 @@
       "slug": "rose-hill",
       "name": "ROSE-HILL",
       "district": "plainewilhems",
-      "outageCount": 147,
+      "outageCount": 148,
       "file": "rose-hill.json",
       "firstOutage": "2022-05-20",
-      "lastOutage": "2026-03-04"
+      "lastOutage": "2026-03-25"
     },
     {
       "slug": "roseaux",
