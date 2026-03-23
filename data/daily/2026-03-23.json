@@ -1,8 +1,8 @@
 {
   "date": "2026-03-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-23T07:25:55.527Z",
-  "outageCount": 3,
+  "generated": "2026-03-23T08:14:08.324Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le lundi 23 mars 2026 de  09:20:00 à  12:20:00",
@@ -33,6 +33,16 @@
       "from": "2026-03-23T05:00:00.000Z",
       "to": "2026-03-23T10:00:00.000Z",
       "id": "d0cb432426c13703cd1a55c4c264ec75"
+    },
+    {
+      "date": "Le lundi 23 mars 2026 de  14:00:00 à  18:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "une partie de Phoenix, Ex- Railway Road, Robinson Road N0. 1 et N0. 2, Sir Abdul Razack Mohamed Centre QSC",
+      "district": "plainewilhems",
+      "from": "2026-03-23T10:00:00.000Z",
+      "to": "2026-03-23T14:00:00.000Z",
+      "id": "cfe00296bfe3638d8c3a0f186ca198bb"
     }
   ]
 }
