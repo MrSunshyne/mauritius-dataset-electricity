@@ -2,11 +2,18 @@
   "slug": "souillac",
   "name": "SOUILLAC",
   "district": "savanne",
-  "generated": "2026-03-23T16:15:16.664Z",
-  "outageCount": 69,
+  "generated": "2026-03-23T17:14:33.063Z",
+  "outageCount": 70,
   "firstOutage": "2022-06-05",
-  "lastOutage": "2026-03-22",
+  "lastOutage": "2026-03-23",
   "outages": [
+    {
+      "date": "Le lundi 23 mars 2026 de  20:30:00 à  22:30:00",
+      "streets": "Souillac, Surinam, Riambel, Pomponette, St Felix, Chemin Grenier, Camp Charlot.",
+      "from": "2026-03-23T16:30:00.000Z",
+      "to": "2026-03-23T18:30:00.000Z",
+      "id": "878a60a5848287cf691131bb6bb53af9"
+    },
     {
       "date": "Le dimanche 22 mars 2026 de  03:00:00 à  13:00:00",
       "streets": "LADY BARKLY,BRISE DE MER,NHDC,TERRACINE",

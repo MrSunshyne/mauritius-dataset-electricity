@@ -1,8 +1,8 @@
 {
   "date": "2026-03-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-23T16:15:16.328Z",
-  "outageCount": 5,
+  "generated": "2026-03-23T17:14:32.708Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le lundi 23 mars 2026 de  09:20:00 à  12:20:00",
@@ -43,6 +43,16 @@
       "from": "2026-03-23T10:00:00.000Z",
       "to": "2026-03-23T14:00:00.000Z",
       "id": "cfe00296bfe3638d8c3a0f186ca198bb"
+    },
+    {
+      "date": "Le lundi 23 mars 2026 de  20:30:00 à  22:30:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "Souillac, Surinam, Riambel, Pomponette, St Felix, Chemin Grenier, Camp Charlot.",
+      "district": "savanne",
+      "from": "2026-03-23T16:30:00.000Z",
+      "to": "2026-03-23T18:30:00.000Z",
+      "id": "878a60a5848287cf691131bb6bb53af9"
     },
     {
       "date": "Le lundi 23 mars 2026 de  14:30:00 à  21:00:00",
