@@ -2,11 +2,18 @@
   "slug": "congomah",
   "name": "CONGOMAH",
   "district": "pamplemousses",
-  "generated": "2026-03-22T18:03:22.912Z",
-  "outageCount": 20,
+  "generated": "2026-03-23T06:19:47.069Z",
+  "outageCount": 21,
   "firstOutage": "2022-08-01",
-  "lastOutage": "2026-03-15",
+  "lastOutage": "2026-03-23",
   "outages": [
+    {
+      "date": "Le lundi 23 mars 2026 de  09:50:00 à  12:00:00",
+      "streets": "BELVEDERE ROAD ET LES ALENTOURS",
+      "from": "2026-03-23T05:50:00.000Z",
+      "to": "2026-03-23T08:00:00.000Z",
+      "id": "a33a07c227f09f217b91b6c7c0db1707"
+    },
     {
       "date": "Le dimanche 15 mars 2026 de  13:00:00 à  14:30:00",
       "streets": "BELVEDERE ROAD CONGOMAH",

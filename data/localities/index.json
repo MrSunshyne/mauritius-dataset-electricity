@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-22T18:03:23.141Z",
+  "generated": "2026-03-23T06:19:47.300Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -1222,10 +1222,10 @@
       "slug": "congomah",
       "name": "CONGOMAH",
       "district": "pamplemousses",
-      "outageCount": 20,
+      "outageCount": 21,
       "file": "congomah.json",
       "firstOutage": "2022-08-01",
-      "lastOutage": "2026-03-15"
+      "lastOutage": "2026-03-23"
     },
     {
       "slug": "constance",
@@ -3778,10 +3778,10 @@
       "slug": "tamarin",
       "name": "TAMARIN",
       "district": "blackriver",
-      "outageCount": 69,
+      "outageCount": 70,
       "file": "tamarin.json",
       "firstOutage": "2022-03-13",
-      "lastOutage": "2026-03-05"
+      "lastOutage": "2026-03-23"
     },
     {
       "slug": "tamarind-falls",

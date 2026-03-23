@@ -1,9 +1,29 @@
 {
   "date": "2026-03-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-22T18:03:22.787Z",
-  "outageCount": 1,
+  "generated": "2026-03-23T06:19:46.961Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le lundi 23 mars 2026 de  09:20:00 à  12:20:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "MORC CARLOS 1",
+      "district": "blackriver",
+      "from": "2026-03-23T05:20:00.000Z",
+      "to": "2026-03-23T08:20:00.000Z",
+      "id": "cd8c44d98a27702883895126b6b70305"
+    },
+    {
+      "date": "Le lundi 23 mars 2026 de  09:50:00 à  12:00:00",
+      "locality": "CONGOMAH",
+      "localitySlug": "congomah",
+      "streets": "BELVEDERE ROAD ET LES ALENTOURS",
+      "district": "pamplemousses",
+      "from": "2026-03-23T05:50:00.000Z",
+      "to": "2026-03-23T08:00:00.000Z",
+      "id": "a33a07c227f09f217b91b6c7c0db1707"
+    },
     {
       "date": "Le lundi 23 mars 2026 de  09:00:00 à  14:00:00",
       "locality": "QUATRE-BORNES",

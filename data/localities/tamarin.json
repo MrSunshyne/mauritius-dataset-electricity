@@ -2,11 +2,18 @@
   "slug": "tamarin",
   "name": "TAMARIN",
   "district": "blackriver",
-  "generated": "2026-03-22T18:03:23.112Z",
-  "outageCount": 69,
+  "generated": "2026-03-23T06:19:47.270Z",
+  "outageCount": 70,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-03-05",
+  "lastOutage": "2026-03-23",
   "outages": [
+    {
+      "date": "Le lundi 23 mars 2026 de  09:20:00 à  12:20:00",
+      "streets": "MORC CARLOS 1",
+      "from": "2026-03-23T05:20:00.000Z",
+      "to": "2026-03-23T08:20:00.000Z",
+      "id": "cd8c44d98a27702883895126b6b70305"
+    },
     {
       "date": "Le jeudi 5 mars 2026 de  08:30:00 à  16:30:00",
       "streets": "MORC CARLOS ET LA MIVOIE",
