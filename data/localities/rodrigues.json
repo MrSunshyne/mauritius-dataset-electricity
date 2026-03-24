@@ -2,11 +2,25 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-03-24T12:09:54.380Z",
-  "outageCount": 195,
+  "generated": "2026-03-24T13:27:56.812Z",
+  "outageCount": 197,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-03-23",
+  "lastOutage": "2026-03-26",
   "outages": [
+    {
+      "date": "Le jeudi 26 mars 2026 de  12:00:00 à  14:00:00",
+      "streets": "LES ABONNES DE SOUPIR, MALABAR, MONT PLAISIR, SAINTE FAMILLE, LATANIER ET SAINT GABRIEL.",
+      "from": "2026-03-26T08:00:00.000Z",
+      "to": "2026-03-26T10:00:00.000Z",
+      "id": "11f56cd7817bbcc36139622e8ecfe7f2"
+    },
+    {
+      "date": "Le mercredi 25 mars 2026 de  09:00:00 à  12:00:00",
+      "streets": "LES ABONNES DE PALISSADE, NASSOLA, MONTAGNE BOIS NOIR, PETIT BRULEE, BRULEE, MONTAGNE MALGACHE, THAMBES,GRANDE MONTAGNE, COROMANDEL, BATATRAN, GRAVIERS, VAR BRULEE, BEL AIR ET RIVIERE BANANE.",
+      "from": "2026-03-25T05:00:00.000Z",
+      "to": "2026-03-25T08:00:00.000Z",
+      "id": "309d242b07db656f82cecf388fb49532"
+    },
     {
       "date": "Le lundi 23 mars 2026 de  14:30:00 à  21:00:00",
       "streets": "ILE MICHEL, GRAND VAR, POINTE 20 TOURS ET PETITE BUTTE.",

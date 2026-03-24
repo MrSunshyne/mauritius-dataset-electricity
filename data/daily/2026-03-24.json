@@ -1,9 +1,19 @@
 {
   "date": "2026-03-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-24T12:09:54.036Z",
-  "outageCount": 3,
+  "generated": "2026-03-24T13:27:56.491Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le mardi 24 mars 2026 de  17:10:00 à  18:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "ALBION RD CAMP BETHEL PETIT RIVIERE.",
+      "district": "blackriver",
+      "from": "2026-03-24T13:10:00.000Z",
+      "to": "2026-03-24T14:00:00.000Z",
+      "id": "d8121f756d5adc3367da3ac0b5c2f524"
+    },
     {
       "date": "Le mardi 24 mars 2026 de  09:00:00 à  16:00:00",
       "locality": "SAINT HUBERT",
@@ -33,6 +43,16 @@
       "from": "2026-03-24T11:45:00.000Z",
       "to": "2026-03-24T13:00:00.000Z",
       "id": "1af525347909ab1790f0e57b6ba53196"
+    },
+    {
+      "date": "Le mardi 24 mars 2026 de  16:20:00 à  18:00:00",
+      "locality": "CAP MALHEUREUX",
+      "localitySlug": "cap-malheureux",
+      "streets": "PAVILLON ROAD PAZZANI MALAYE DANS LES ENVIRONS SUPERMARCHE PARIS ET RESTAURANT AMIGOS.",
+      "district": "rivieredurempart",
+      "from": "2026-03-24T12:20:00.000Z",
+      "to": "2026-03-24T14:00:00.000Z",
+      "id": "11954f937f072520c16733864ac11913"
     }
   ]
 }

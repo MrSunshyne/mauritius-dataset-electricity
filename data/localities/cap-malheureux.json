@@ -2,11 +2,18 @@
   "slug": "cap-malheureux",
   "name": "CAP MALHEUREUX",
   "district": "rivieredurempart",
-  "generated": "2026-03-24T12:09:54.129Z",
-  "outageCount": 49,
+  "generated": "2026-03-24T13:27:56.584Z",
+  "outageCount": 50,
   "firstOutage": "2022-07-14",
-  "lastOutage": "2026-02-24",
+  "lastOutage": "2026-03-24",
   "outages": [
+    {
+      "date": "Le mardi 24 mars 2026 de  16:20:00 à  18:00:00",
+      "streets": "PAVILLON ROAD PAZZANI MALAYE DANS LES ENVIRONS SUPERMARCHE PARIS ET RESTAURANT AMIGOS.",
+      "from": "2026-03-24T12:20:00.000Z",
+      "to": "2026-03-24T14:00:00.000Z",
+      "id": "11954f937f072520c16733864ac11913"
+    },
     {
       "date": "Le mardi 24 février 2026 de  18:00:00 à  22:00:00",
       "streets": "MARIAMEN TEMPLE ROAD PAVE CAP MALHEUREUX",

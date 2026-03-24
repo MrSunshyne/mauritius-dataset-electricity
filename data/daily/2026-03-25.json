@@ -1,8 +1,8 @@
 {
   "date": "2026-03-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-24T12:09:54.036Z",
-  "outageCount": 2,
+  "generated": "2026-03-24T13:27:56.491Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le mercredi 25 mars 2026 de  09:00:00 à  17:30:00",
@@ -23,6 +23,16 @@
       "from": "2026-03-25T11:45:00.000Z",
       "to": "2026-03-25T13:00:00.000Z",
       "id": "c9af3fc65a060557deab04214eff71a7"
+    },
+    {
+      "date": "Le mercredi 25 mars 2026 de  09:00:00 à  12:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LES ABONNES DE PALISSADE, NASSOLA, MONTAGNE BOIS NOIR, PETIT BRULEE, BRULEE, MONTAGNE MALGACHE, THAMBES,GRANDE MONTAGNE, COROMANDEL, BATATRAN, GRAVIERS, VAR BRULEE, BEL AIR ET RIVIERE BANANE.",
+      "district": "rodrigues",
+      "from": "2026-03-25T05:00:00.000Z",
+      "to": "2026-03-25T08:00:00.000Z",
+      "id": "309d242b07db656f82cecf388fb49532"
     }
   ]
 }

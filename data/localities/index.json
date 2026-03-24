@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-24T12:09:54.439Z",
+  "generated": "2026-03-24T13:27:56.871Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -916,10 +916,10 @@
       "slug": "cap-malheureux",
       "name": "CAP MALHEUREUX",
       "district": "rivieredurempart",
-      "outageCount": 49,
+      "outageCount": 50,
       "file": "cap-malheureux.json",
       "firstOutage": "2022-07-14",
-      "lastOutage": "2026-02-24"
+      "lastOutage": "2026-03-24"
     },
     {
       "slug": "caroline-bel-air",
@@ -2851,10 +2851,10 @@
       "slug": "petite-riviere",
       "name": "PETITE RIVIERE",
       "district": "blackriver",
-      "outageCount": 79,
+      "outageCount": 80,
       "file": "petite-riviere.json",
       "firstOutage": "2022-05-28",
-      "lastOutage": "2026-02-28"
+      "lastOutage": "2026-03-24"
     },
     {
       "slug": "petite-riviere-noire",
@@ -3490,10 +3490,10 @@
       "slug": "rodrigues",
       "name": "RODRIGUES",
       "district": "rodrigues",
-      "outageCount": 195,
+      "outageCount": 197,
       "file": "rodrigues.json",
       "firstOutage": "2022-03-15",
-      "lastOutage": "2026-03-23"
+      "lastOutage": "2026-03-26"
     },
     {
       "slug": "rose-belle",
