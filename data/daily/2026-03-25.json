@@ -1,8 +1,8 @@
 {
   "date": "2026-03-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-24T09:14:47.480Z",
-  "outageCount": 1,
+  "generated": "2026-03-24T10:14:01.587Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le mercredi 25 mars 2026 de  09:00:00 à  17:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-03-25T05:00:00.000Z",
       "to": "2026-03-25T13:30:00.000Z",
       "id": "06e84d75e2d54fbaf39ca5f267065a4e"
+    },
+    {
+      "date": "Le mercredi 25 mars 2026 de  15:45:00 à  17:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "En partie G. Rozemont, Ave Jeetoo, Ave Manilall, Ave C. de Garde et les environs",
+      "district": "plainewilhems",
+      "from": "2026-03-25T11:45:00.000Z",
+      "to": "2026-03-25T13:00:00.000Z",
+      "id": "c9af3fc65a060557deab04214eff71a7"
     }
   ]
 }
