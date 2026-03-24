@@ -1,8 +1,8 @@
 {
   "date": "2026-03-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-23T18:12:07.613Z",
-  "outageCount": 1,
+  "generated": "2026-03-24T06:18:08.818Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le mardi 24 mars 2026 de  09:00:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-03-24T05:00:00.000Z",
       "to": "2026-03-24T12:00:00.000Z",
       "id": "141c44c50703c5d9d195f3bcf1423fc0"
+    },
+    {
+      "date": "Le mardi 24 mars 2026 de  08:30:00 à  16:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "EDGAR ADOLPHE,CYRIL LEKNING RD,RAOUL FOLREAU ,RAYMOND AROOLAPEN,SUNFLOWER STREETS BEAU BASSIN",
+      "district": "plainewilhems",
+      "from": "2026-03-24T04:30:00.000Z",
+      "to": "2026-03-24T12:00:00.000Z",
+      "id": "b3f2a202c9f6d125797d95779fc69262"
     }
   ]
 }

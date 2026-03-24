@@ -2,11 +2,18 @@
   "slug": "beau-bassin",
   "name": "BEAU BASSIN",
   "district": "plainewilhems",
-  "generated": "2026-03-23T18:12:07.647Z",
-  "outageCount": 173,
+  "generated": "2026-03-24T06:18:08.855Z",
+  "outageCount": 174,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-03-13",
+  "lastOutage": "2026-03-24",
   "outages": [
+    {
+      "date": "Le mardi 24 mars 2026 de  08:30:00 à  16:00:00",
+      "streets": "EDGAR ADOLPHE,CYRIL LEKNING RD,RAOUL FOLREAU ,RAYMOND AROOLAPEN,SUNFLOWER STREETS BEAU BASSIN",
+      "from": "2026-03-24T04:30:00.000Z",
+      "to": "2026-03-24T12:00:00.000Z",
+      "id": "b3f2a202c9f6d125797d95779fc69262"
+    },
     {
       "date": "Le vendredi 13 mars 2026 de  15:00:00 à  17:30:00",
       "streets": "RUE MARCELLE L-ETANG, ROGER PIZZANI, CHEMIN PATEL ET LES ENVIRONS.",
