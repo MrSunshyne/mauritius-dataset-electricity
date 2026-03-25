@@ -2,11 +2,18 @@
   "slug": "phoenix",
   "name": "PHOENIX",
   "district": "plainewilhems",
-  "generated": "2026-03-25T13:27:45.465Z",
-  "outageCount": 96,
+  "generated": "2026-03-25T14:22:25.363Z",
+  "outageCount": 97,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-03-23",
+  "lastOutage": "2026-03-25",
   "outages": [
+    {
+      "date": "Le mercredi 25 mars 2026 de  17:15:00 à  21:00:00",
+      "streets": "Part of Phoenix Industrial Zone, part of Valentina, Petit Camp, Parkside Appartment, Le Meritt Appartment, Flat Jet Seven & part of Phoenix (Shrila Prabhupada Street & Les Halles)",
+      "from": "2026-03-25T13:15:00.000Z",
+      "to": "2026-03-25T17:00:00.000Z",
+      "id": "fd1b5967d047079caba2fe0d457e5fc6"
+    },
     {
       "date": "Le lundi 23 mars 2026 de  14:00:00 à  18:00:00",
       "streets": "une partie de Phoenix, Ex- Railway Road, Robinson Road N0. 1 et N0. 2, Sir Abdul Razack Mohamed Centre QSC",

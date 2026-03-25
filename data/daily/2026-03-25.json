@@ -1,8 +1,8 @@
 {
   "date": "2026-03-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-25T13:27:45.207Z",
-  "outageCount": 12,
+  "generated": "2026-03-25T14:22:25.096Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le mercredi 25 mars 2026 de  10:10:00 à  11:10:00",
@@ -73,6 +73,16 @@
       "from": "2026-03-25T11:30:00.000Z",
       "to": "2026-03-25T15:00:00.000Z",
       "id": "de73ae4c1b147f251e8ada93da98521e"
+    },
+    {
+      "date": "Le mercredi 25 mars 2026 de  17:15:00 à  21:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Part of Phoenix Industrial Zone, part of Valentina, Petit Camp, Parkside Appartment, Le Meritt Appartment, Flat Jet Seven & part of Phoenix (Shrila Prabhupada Street & Les Halles)",
+      "district": "plainewilhems",
+      "from": "2026-03-25T13:15:00.000Z",
+      "to": "2026-03-25T17:00:00.000Z",
+      "id": "fd1b5967d047079caba2fe0d457e5fc6"
     },
     {
       "date": "Le mercredi 25 mars 2026 de  10:00:00 à  11:00:00",
