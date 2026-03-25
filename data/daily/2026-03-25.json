@@ -1,8 +1,8 @@
 {
   "date": "2026-03-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-25T08:10:23.752Z",
-  "outageCount": 10,
+  "generated": "2026-03-25T09:14:40.962Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le mercredi 25 mars 2026 de  10:10:00 à  11:10:00",
@@ -83,6 +83,16 @@
       "from": "2026-03-25T07:00:00.000Z",
       "to": "2026-03-25T08:00:00.000Z",
       "id": "dc786277fac47b3c77498cf585ce2398"
+    },
+    {
+      "date": "Le mercredi 25 mars 2026 de  12:30:00 à  14:00:00",
+      "locality": "CAMP CHAPELON",
+      "localitySlug": "camp-chapelon",
+      "streets": "Rues Madrassa,Senneville,Lungut..",
+      "district": "portlouis",
+      "from": "2026-03-25T08:30:00.000Z",
+      "to": "2026-03-25T10:00:00.000Z",
+      "id": "22c479b51e9356655d1617fcffa5d277"
     },
     {
       "date": "Le mercredi 25 mars 2026 de  09:00:00 à  15:30:00",

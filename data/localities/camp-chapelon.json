@@ -2,11 +2,18 @@
   "slug": "camp-chapelon",
   "name": "CAMP CHAPELON",
   "district": "portlouis",
-  "generated": "2026-03-25T08:10:23.829Z",
-  "outageCount": 8,
+  "generated": "2026-03-25T09:14:41.038Z",
+  "outageCount": 9,
   "firstOutage": "2022-03-16",
-  "lastOutage": "2026-03-20",
+  "lastOutage": "2026-03-25",
   "outages": [
+    {
+      "date": "Le mercredi 25 mars 2026 de  12:30:00 à  14:00:00",
+      "streets": "Rues Madrassa,Senneville,Lungut..",
+      "from": "2026-03-25T08:30:00.000Z",
+      "to": "2026-03-25T10:00:00.000Z",
+      "id": "22c479b51e9356655d1617fcffa5d277"
+    },
     {
       "date": "Le vendredi 20 mars 2026 de  09:40:00 à  10:45:00",
       "streets": "MADRASSA RD AND NEARBY REGION",
