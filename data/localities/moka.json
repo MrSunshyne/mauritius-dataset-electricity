@@ -2,11 +2,18 @@
   "slug": "moka",
   "name": "MOKA",
   "district": "moka",
-  "generated": "2026-03-25T06:17:57.709Z",
-  "outageCount": 64,
+  "generated": "2026-03-25T07:19:53.864Z",
+  "outageCount": 65,
   "firstOutage": "2022-06-13",
-  "lastOutage": "2026-03-07",
+  "lastOutage": "2026-03-25",
   "outages": [
+    {
+      "date": "Le mercredi 25 mars 2026 de  09:00:00 à  17:00:00",
+      "streets": "MORC GENTILLY 1,2 , CTI 1,2, FOOD & ALLIED 1,2, PV FARM, CWA CAMP AUGUSTE, CWA MINISSY",
+      "from": "2026-03-25T05:00:00.000Z",
+      "to": "2026-03-25T13:00:00.000Z",
+      "id": "f685ac21a2558fa62dc4455ac3ed30e1"
+    },
     {
       "date": "Le samedi 7 mars 2026 de  08:30:00 à  15:30:00",
       "streets": "Morc Bagatelle Estate, Morc Eureka, Leclezio Ave et Morc La Ravin",

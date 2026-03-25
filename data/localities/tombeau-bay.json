@@ -2,11 +2,18 @@
   "slug": "tombeau-bay",
   "name": "TOMBEAU BAY",
   "district": "pamplemousses",
-  "generated": "2026-03-25T06:17:57.840Z",
-  "outageCount": 133,
+  "generated": "2026-03-25T07:19:53.991Z",
+  "outageCount": 134,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-03-05",
+  "lastOutage": "2026-03-29",
   "outages": [
+    {
+      "date": "Le dimanche 29 mars 2026 de  08:30:00 à  14:30:00",
+      "streets": "DANS LES ENVIRONS DE MORC COPRIM, MORC CONCORDE, MORC LA COCHEYLE, RESIDENCE FLORIDA, LAND SETTLEMENT, SAINT JOSEPH ROAD ET UNE PARTIE DE LA ROUTE COTIERE",
+      "from": "2026-03-29T04:30:00.000Z",
+      "to": "2026-03-29T10:30:00.000Z",
+      "id": "f7cdbcba39f12e2d99fc46ab59046abd"
+    },
     {
       "date": "Le jeudi 5 mars 2026 de  14:20:00 à  17:00:00",
       "streets": "MORC BEAU RIVAGE : CHEMINS COQUILLAGE, RED REEF, NEPTUNE, ETOILE DE MER, NAUTILUS ET LES ENVIRONS.",

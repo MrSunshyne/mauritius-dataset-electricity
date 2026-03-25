@@ -2,11 +2,18 @@
   "slug": "vallee-des-pretres",
   "name": "VALLEE DES PRETRES",
   "district": "portlouis",
-  "generated": "2026-03-25T06:17:57.857Z",
-  "outageCount": 77,
+  "generated": "2026-03-25T07:19:54.008Z",
+  "outageCount": 78,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-03-16",
+  "lastOutage": "2026-03-25",
   "outages": [
+    {
+      "date": "Le mercredi 25 mars 2026 de  11:00:00 à  12:00:00",
+      "streets": "Bernandin de St Pierre",
+      "from": "2026-03-25T07:00:00.000Z",
+      "to": "2026-03-25T08:00:00.000Z",
+      "id": "dc786277fac47b3c77498cf585ce2398"
+    },
     {
       "date": "Le lundi 16 mars 2026 de  14:45:00 à  15:45:00",
       "streets": "CHEMIN BERNARDIN ST PIERRE ET CHEMIN CAROLINE.",

@@ -1,8 +1,8 @@
 {
   "date": "2026-03-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-25T06:17:57.486Z",
-  "outageCount": 8,
+  "generated": "2026-03-25T07:19:53.644Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le mercredi 25 mars 2026 de  10:10:00 à  11:10:00",
@@ -13,6 +13,16 @@
       "from": "2026-03-25T06:10:00.000Z",
       "to": "2026-03-25T07:10:00.000Z",
       "id": "ad2b34ae5dac026d73232a5881b2de11"
+    },
+    {
+      "date": "Le mercredi 25 mars 2026 de  09:00:00 à  17:00:00",
+      "locality": "MOKA",
+      "localitySlug": "moka",
+      "streets": "MORC GENTILLY 1,2 , CTI 1,2, FOOD & ALLIED 1,2, PV FARM, CWA CAMP AUGUSTE, CWA MINISSY",
+      "district": "moka",
+      "from": "2026-03-25T05:00:00.000Z",
+      "to": "2026-03-25T13:00:00.000Z",
+      "id": "f685ac21a2558fa62dc4455ac3ed30e1"
     },
     {
       "date": "Le mercredi 25 mars 2026 de  09:00:00 à  17:30:00",
@@ -63,6 +73,16 @@
       "from": "2026-03-25T06:00:00.000Z",
       "to": "2026-03-25T07:00:00.000Z",
       "id": "441507035051d4d871568da0368b7305"
+    },
+    {
+      "date": "Le mercredi 25 mars 2026 de  11:00:00 à  12:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "Bernandin de St Pierre",
+      "district": "portlouis",
+      "from": "2026-03-25T07:00:00.000Z",
+      "to": "2026-03-25T08:00:00.000Z",
+      "id": "dc786277fac47b3c77498cf585ce2398"
     },
     {
       "date": "Le mercredi 25 mars 2026 de  09:00:00 à  15:30:00",

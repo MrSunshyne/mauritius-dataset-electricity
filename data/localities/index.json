@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-25T06:17:57.867Z",
+  "generated": "2026-03-25T07:19:54.018Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -2392,10 +2392,10 @@
       "slug": "moka",
       "name": "MOKA",
       "district": "moka",
-      "outageCount": 64,
+      "outageCount": 65,
       "file": "moka.json",
       "firstOutage": "2022-06-13",
-      "lastOutage": "2026-03-07"
+      "lastOutage": "2026-03-25"
     },
     {
       "slug": "mon-choisy",
@@ -3841,10 +3841,10 @@
       "slug": "tombeau-bay",
       "name": "TOMBEAU BAY",
       "district": "pamplemousses",
-      "outageCount": 133,
+      "outageCount": 134,
       "file": "tombeau-bay.json",
       "firstOutage": "2022-03-27",
-      "lastOutage": "2026-03-05"
+      "lastOutage": "2026-03-29"
     },
     {
       "slug": "tour-koenig",
@@ -4021,10 +4021,10 @@
       "slug": "vallee-des-pretres",
       "name": "VALLEE DES PRETRES",
       "district": "portlouis",
-      "outageCount": 77,
+      "outageCount": 78,
       "file": "vallee-des-pretres.json",
       "firstOutage": "2022-03-27",
-      "lastOutage": "2026-03-16"
+      "lastOutage": "2026-03-25"
     },
     {
       "slug": "vallee-pitot",
