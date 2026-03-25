@@ -2,11 +2,18 @@
   "slug": "forest-side",
   "name": "FOREST SIDE",
   "district": "plainewilhems",
-  "generated": "2026-03-25T12:09:18.366Z",
-  "outageCount": 95,
+  "generated": "2026-03-25T13:27:45.354Z",
+  "outageCount": 96,
   "firstOutage": "2022-07-03",
-  "lastOutage": "2026-03-10",
+  "lastOutage": "2026-03-25",
   "outages": [
+    {
+      "date": "Le mercredi 25 mars 2026 de  15:30:00 à  19:00:00",
+      "streets": "CITE ATLEE.",
+      "from": "2026-03-25T11:30:00.000Z",
+      "to": "2026-03-25T15:00:00.000Z",
+      "id": "de73ae4c1b147f251e8ada93da98521e"
+    },
     {
       "date": "Le mardi 10 mars 2026 de  10:00:00 à  11:00:00",
       "streets": "MORC VALAYDON ET WINNERS",

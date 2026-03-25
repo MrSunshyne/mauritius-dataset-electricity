@@ -1,8 +1,8 @@
 {
   "date": "2026-03-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-25T12:09:18.215Z",
-  "outageCount": 11,
+  "generated": "2026-03-25T13:27:45.207Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le mercredi 25 mars 2026 de  10:10:00 à  11:10:00",
@@ -63,6 +63,16 @@
       "from": "2026-03-25T06:00:00.000Z",
       "to": "2026-03-25T11:00:00.000Z",
       "id": "adc5206a72d5b14589126d5c5aa641e7"
+    },
+    {
+      "date": "Le mercredi 25 mars 2026 de  15:30:00 à  19:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "CITE ATLEE.",
+      "district": "plainewilhems",
+      "from": "2026-03-25T11:30:00.000Z",
+      "to": "2026-03-25T15:00:00.000Z",
+      "id": "de73ae4c1b147f251e8ada93da98521e"
     },
     {
       "date": "Le mercredi 25 mars 2026 de  10:00:00 à  11:00:00",
