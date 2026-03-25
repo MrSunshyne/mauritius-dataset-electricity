@@ -1,9 +1,39 @@
 {
   "date": "2026-03-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-24T18:13:56.825Z",
-  "outageCount": 1,
+  "generated": "2026-03-25T06:17:57.486Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le jeudi 26 mars 2026 de  09:00:00 à  13:30:00",
+      "locality": "LATAPIE",
+      "localitySlug": "latapie",
+      "streets": "Route Royale de Latapie, Dans les environs de la Pharmacie.",
+      "district": "flacq",
+      "from": "2026-03-26T05:00:00.000Z",
+      "to": "2026-03-26T09:30:00.000Z",
+      "id": "3a7610a2694cadb25908c20e4c7a1e70"
+    },
+    {
+      "date": "Le jeudi 26 mars 2026 de  16:00:00 à  18:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "dans les environs de SBM, Bank One, Melrose Palace,361 et Poncini",
+      "district": "plainewilhems",
+      "from": "2026-03-26T12:00:00.000Z",
+      "to": "2026-03-26T14:00:00.000Z",
+      "id": "3bfa2c0765559c70ba95cf06ede0645a"
+    },
+    {
+      "date": "Le jeudi 26 mars 2026 de  14:00:00 à  15:30:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "dans les environs de Galaxy",
+      "district": "plainewilhems",
+      "from": "2026-03-26T10:00:00.000Z",
+      "to": "2026-03-26T11:30:00.000Z",
+      "id": "ca6c1ff679c2e0b5e806b96b2ebd2565"
+    },
     {
       "date": "Le jeudi 26 mars 2026 de  12:00:00 à  14:00:00",
       "locality": "RODRIGUES",

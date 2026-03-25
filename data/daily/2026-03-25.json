@@ -1,9 +1,19 @@
 {
   "date": "2026-03-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-24T18:13:56.825Z",
-  "outageCount": 3,
+  "generated": "2026-03-25T06:17:57.486Z",
+  "outageCount": 8,
   "outages": [
+    {
+      "date": "Le mercredi 25 mars 2026 de  10:10:00 à  11:10:00",
+      "locality": "VALETTA",
+      "localitySlug": "valetta",
+      "streets": "Valetta LA DIGUE",
+      "district": "moka",
+      "from": "2026-03-25T06:10:00.000Z",
+      "to": "2026-03-25T07:10:00.000Z",
+      "id": "ad2b34ae5dac026d73232a5881b2de11"
+    },
     {
       "date": "Le mercredi 25 mars 2026 de  09:00:00 à  17:30:00",
       "locality": "ROSE-HILL",
@@ -23,6 +33,46 @@
       "from": "2026-03-25T11:45:00.000Z",
       "to": "2026-03-25T13:00:00.000Z",
       "id": "c9af3fc65a060557deab04214eff71a7"
+    },
+    {
+      "date": "Le mercredi 25 mars 2026 de  09:00:00 à  12:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Quinze Cantons",
+      "district": "plainewilhems",
+      "from": "2026-03-25T05:00:00.000Z",
+      "to": "2026-03-25T08:00:00.000Z",
+      "id": "1c3a62a4c20f9983cfe6b4590a602137"
+    },
+    {
+      "date": "Le mercredi 25 mars 2026 de  10:00:00 à  15:00:00",
+      "locality": "SOLFERINO",
+      "localitySlug": "solferino",
+      "streets": "une partie de Solferino No 5",
+      "district": "plainewilhems",
+      "from": "2026-03-25T06:00:00.000Z",
+      "to": "2026-03-25T11:00:00.000Z",
+      "id": "adc5206a72d5b14589126d5c5aa641e7"
+    },
+    {
+      "date": "Le mercredi 25 mars 2026 de  10:00:00 à  11:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "Nr Apollo,Aves Azize Edoo,St Pierre",
+      "district": "portlouis",
+      "from": "2026-03-25T06:00:00.000Z",
+      "to": "2026-03-25T07:00:00.000Z",
+      "id": "441507035051d4d871568da0368b7305"
+    },
+    {
+      "date": "Le mercredi 25 mars 2026 de  09:00:00 à  15:30:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "John Kennedy Grand Gaube",
+      "district": "rivieredurempart",
+      "from": "2026-03-25T05:00:00.000Z",
+      "to": "2026-03-25T11:30:00.000Z",
+      "id": "b4067ee6abc2c55a6cf5b891670db795"
     },
     {
       "date": "Le mercredi 25 mars 2026 de  09:00:00 à  12:00:00",

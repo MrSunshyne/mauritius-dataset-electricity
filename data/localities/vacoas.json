@@ -2,11 +2,18 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-03-24T18:13:57.188Z",
-  "outageCount": 231,
+  "generated": "2026-03-25T06:17:57.854Z",
+  "outageCount": 232,
   "firstOutage": "2022-03-17",
-  "lastOutage": "2026-03-15",
+  "lastOutage": "2026-03-25",
   "outages": [
+    {
+      "date": "Le mercredi 25 mars 2026 de  09:00:00 à  12:00:00",
+      "streets": "Quinze Cantons",
+      "from": "2026-03-25T05:00:00.000Z",
+      "to": "2026-03-25T08:00:00.000Z",
+      "id": "1c3a62a4c20f9983cfe6b4590a602137"
+    },
     {
       "date": "Le dimanche 15 mars 2026 de  08:30:00 à  17:00:00",
       "streets": "Cite La Caverne, NHDC La Caverne, une partie de La Caverne No. 1, Morcellement Triton, Chemin Mission, Residence Rosano, Residence Sunsetville, Morcellement Ber, Quinze-Cantons No. 1, Mootoo Lane, Appalise Lane No.1, 2, 3 et 4, Daboo Lane, Mothai Lane, une partie de Route La Marie",

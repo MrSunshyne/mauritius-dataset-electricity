@@ -2,11 +2,18 @@
   "slug": "latapie",
   "name": "LATAPIE",
   "district": "flacq",
-  "generated": "2026-03-24T18:13:57.017Z",
-  "outageCount": 1,
+  "generated": "2026-03-25T06:17:57.681Z",
+  "outageCount": 2,
   "firstOutage": "2022-10-04",
-  "lastOutage": "2022-10-04",
+  "lastOutage": "2026-03-26",
   "outages": [
+    {
+      "date": "Le jeudi 26 mars 2026 de  09:00:00 à  13:30:00",
+      "streets": "Route Royale de Latapie, Dans les environs de la Pharmacie.",
+      "from": "2026-03-26T05:00:00.000Z",
+      "to": "2026-03-26T09:30:00.000Z",
+      "id": "3a7610a2694cadb25908c20e4c7a1e70"
+    },
     {
       "date": "Le mardi 4 octobre 2022 de  11:00:00 à  17:00:00",
       "streets": "LATAPIE RD BRISEE VERDIERE",

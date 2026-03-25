@@ -2,11 +2,18 @@
   "slug": "grand-gaube",
   "name": "GRAND GAUBE",
   "district": "rivieredurempart",
-  "generated": "2026-03-24T18:13:56.980Z",
-  "outageCount": 64,
+  "generated": "2026-03-25T06:17:57.643Z",
+  "outageCount": 65,
   "firstOutage": "2022-06-11",
-  "lastOutage": "2026-03-16",
+  "lastOutage": "2026-03-25",
   "outages": [
+    {
+      "date": "Le mercredi 25 mars 2026 de  09:00:00 à  15:30:00",
+      "streets": "John Kennedy Grand Gaube",
+      "from": "2026-03-25T05:00:00.000Z",
+      "to": "2026-03-25T11:30:00.000Z",
+      "id": "b4067ee6abc2c55a6cf5b891670db795"
+    },
     {
       "date": "Le lundi 16 mars 2026 de  09:00:00 à  12:00:00",
       "streets": "ROYAL RD GRAND GAUBE",

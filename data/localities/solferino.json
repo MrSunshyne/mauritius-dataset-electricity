@@ -2,11 +2,18 @@
   "slug": "solferino",
   "name": "SOLFERINO",
   "district": "plainewilhems",
-  "generated": "2026-03-24T18:13:57.161Z",
-  "outageCount": 21,
+  "generated": "2026-03-25T06:17:57.827Z",
+  "outageCount": 22,
   "firstOutage": "2022-05-06",
-  "lastOutage": "2026-03-17",
+  "lastOutage": "2026-03-25",
   "outages": [
+    {
+      "date": "Le mercredi 25 mars 2026 de  10:00:00 à  15:00:00",
+      "streets": "une partie de Solferino No 5",
+      "from": "2026-03-25T06:00:00.000Z",
+      "to": "2026-03-25T11:00:00.000Z",
+      "id": "adc5206a72d5b14589126d5c5aa641e7"
+    },
     {
       "date": "Le mardi 17 mars 2026 de  15:00:00 à  17:00:00",
       "streets": "SOLFERINO No 5 : DANS LES ENVIRONS L-ECOLE ET TERRAIN FOOTBALL.",

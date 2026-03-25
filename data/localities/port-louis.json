@@ -2,11 +2,18 @@
   "slug": "port-louis",
   "name": "PORT-LOUIS",
   "district": "portlouis",
-  "generated": "2026-03-24T18:13:57.105Z",
-  "outageCount": 114,
+  "generated": "2026-03-25T06:17:57.770Z",
+  "outageCount": 115,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-03-14",
+  "lastOutage": "2026-03-25",
   "outages": [
+    {
+      "date": "Le mercredi 25 mars 2026 de  10:00:00 à  11:00:00",
+      "streets": "Nr Apollo,Aves Azize Edoo,St Pierre",
+      "from": "2026-03-25T06:00:00.000Z",
+      "to": "2026-03-25T07:00:00.000Z",
+      "id": "441507035051d4d871568da0368b7305"
+    },
     {
       "date": "Le samedi 14 mars 2026 de  08:20:00 à  14:30:00",
       "streets": "MTC CHAMP DE MARS & SURROUNDINGS",

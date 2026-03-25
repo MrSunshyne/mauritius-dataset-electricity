@@ -2,11 +2,25 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-03-24T18:13:56.952Z",
-  "outageCount": 205,
+  "generated": "2026-03-25T06:17:57.614Z",
+  "outageCount": 207,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-03-17",
+  "lastOutage": "2026-03-26",
   "outages": [
+    {
+      "date": "Le jeudi 26 mars 2026 de  16:00:00 à  18:00:00",
+      "streets": "dans les environs de SBM, Bank One, Melrose Palace,361 et Poncini",
+      "from": "2026-03-26T12:00:00.000Z",
+      "to": "2026-03-26T14:00:00.000Z",
+      "id": "3bfa2c0765559c70ba95cf06ede0645a"
+    },
+    {
+      "date": "Le jeudi 26 mars 2026 de  14:00:00 à  15:30:00",
+      "streets": "dans les environs de Galaxy",
+      "from": "2026-03-26T10:00:00.000Z",
+      "to": "2026-03-26T11:30:00.000Z",
+      "id": "ca6c1ff679c2e0b5e806b96b2ebd2565"
+    },
     {
       "date": "Le mardi 17 mars 2026 de  12:00:00 à  14:00:00",
       "streets": "dans les environs de Gajadhur Road, Leclezio Road, Reservoir Road, Rue Malherbes et Dream Price",
