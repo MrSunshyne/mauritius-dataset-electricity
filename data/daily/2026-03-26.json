@@ -1,8 +1,8 @@
 {
   "date": "2026-03-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-26T16:22:03.963Z",
-  "outageCount": 11,
+  "generated": "2026-03-26T17:20:01.972Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le jeudi 26 mars 2026 de  09:45:00 à  11:45:00",
@@ -63,6 +63,16 @@
       "from": "2026-03-26T16:00:00.000Z",
       "to": "2026-03-26T19:00:00.000Z",
       "id": "08b45ec233652a736eeb66e56fa4799b"
+    },
+    {
+      "date": "Le jeudi 26 mars 2026 de  20:00:00 à  00:00:00",
+      "locality": "CAMP LEVIEUX ( R HILL )",
+      "localitySlug": "camp-levieux",
+      "streets": "UNE PARTIE DE NHDC DAHLIA",
+      "district": "plainewilhems",
+      "from": "2026-03-26T16:00:00.000Z",
+      "to": "2026-03-25T20:00:00.000Z",
+      "id": "31be4180dabe0ae374f1c1088d435981"
     },
     {
       "date": "Le jeudi 26 mars 2026 de  09:00:00 à  14:00:00",
