@@ -1,8 +1,8 @@
 {
   "date": "2026-03-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-26T15:24:23.972Z",
-  "outageCount": 10,
+  "generated": "2026-03-26T16:22:03.963Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le jeudi 26 mars 2026 de  09:45:00 à  11:45:00",
@@ -53,6 +53,16 @@
       "from": "2026-03-26T06:00:00.000Z",
       "to": "2026-03-26T11:00:00.000Z",
       "id": "6b2d299363c14bc4fa475597c05b16ce"
+    },
+    {
+      "date": "Le jeudi 26 mars 2026 de  20:00:00 à  23:00:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "CAMP MAPOU No 1, EN PARTIE CAMP MAPOU No 2 ET ANTENNE EMTEL.",
+      "district": "plainewilhems",
+      "from": "2026-03-26T16:00:00.000Z",
+      "to": "2026-03-26T19:00:00.000Z",
+      "id": "08b45ec233652a736eeb66e56fa4799b"
     },
     {
       "date": "Le jeudi 26 mars 2026 de  09:00:00 à  14:00:00",
