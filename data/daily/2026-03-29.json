@@ -1,8 +1,8 @@
 {
   "date": "2026-03-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-26T08:13:11.726Z",
-  "outageCount": 2,
+  "generated": "2026-03-26T09:17:22.441Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le dimanche 29 mars 2026 de  08:30:00 à  14:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-03-29T04:30:00.000Z",
       "to": "2026-03-29T10:30:00.000Z",
       "id": "f7cdbcba39f12e2d99fc46ab59046abd"
+    },
+    {
+      "date": "Le dimanche 29 mars 2026 de  08:30:00 à  15:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "Dans les environs de Rte St Joseph, Morc Peerun, Morc Green Park, Camp La Boue et les régions avoisinantes",
+      "district": "pamplemousses",
+      "from": "2026-03-29T04:30:00.000Z",
+      "to": "2026-03-29T11:00:00.000Z",
+      "id": "cb12e58914ec111ab521e101bde56631"
     },
     {
       "date": "Le dimanche 29 mars 2026 de  08:30:00 à  16:00:00",
