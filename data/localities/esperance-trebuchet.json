@@ -2,11 +2,18 @@
   "slug": "esperance-trebuchet",
   "name": "ESPERANCE TREBUCHET",
   "district": "rivieredurempart",
-  "generated": "2026-03-25T18:14:29.523Z",
-  "outageCount": 24,
+  "generated": "2026-03-26T06:20:16.811Z",
+  "outageCount": 25,
   "firstOutage": "2022-03-14",
-  "lastOutage": "2026-02-05",
+  "lastOutage": "2026-03-26",
   "outages": [
+    {
+      "date": "Le jeudi 26 mars 2026 de  09:30:00 à  11:30:00",
+      "streets": "R/RD VERS SHIVALA",
+      "from": "2026-03-26T05:30:00.000Z",
+      "to": "2026-03-26T07:30:00.000Z",
+      "id": "30c2bc277e173cc53600584128313558"
+    },
     {
       "date": "Le jeudi 5 février 2026 de  15:00:00 à  17:00:00",
       "streets": "Royal Road,Towards Shivala",

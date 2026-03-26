@@ -1,9 +1,19 @@
 {
   "date": "2026-03-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-25T18:14:29.380Z",
-  "outageCount": 5,
+  "generated": "2026-03-26T06:20:16.677Z",
+  "outageCount": 7,
   "outages": [
+    {
+      "date": "Le jeudi 26 mars 2026 de  09:45:00 à  11:45:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "TAMARIN VILLAGE",
+      "district": "blackriver",
+      "from": "2026-03-26T05:45:00.000Z",
+      "to": "2026-03-26T07:45:00.000Z",
+      "id": "a0f5a66efd4e35e809b89ba4e16c73c7"
+    },
     {
       "date": "Le jeudi 26 mars 2026 de  09:00:00 à  13:30:00",
       "locality": "LATAPIE",
@@ -43,6 +53,16 @@
       "from": "2026-03-26T05:00:00.000Z",
       "to": "2026-03-26T10:00:00.000Z",
       "id": "f98914e51b2e393962057715f534ba53"
+    },
+    {
+      "date": "Le jeudi 26 mars 2026 de  09:30:00 à  11:30:00",
+      "locality": "ESPERANCE TREBUCHET",
+      "localitySlug": "esperance-trebuchet",
+      "streets": "R/RD VERS SHIVALA",
+      "district": "rivieredurempart",
+      "from": "2026-03-26T05:30:00.000Z",
+      "to": "2026-03-26T07:30:00.000Z",
+      "id": "30c2bc277e173cc53600584128313558"
     },
     {
       "date": "Le jeudi 26 mars 2026 de  12:00:00 à  14:00:00",

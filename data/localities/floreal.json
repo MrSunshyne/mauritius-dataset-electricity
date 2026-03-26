@@ -2,11 +2,18 @@
   "slug": "floreal",
   "name": "FLOREAL",
   "district": "plainewilhems",
-  "generated": "2026-03-25T18:14:29.527Z",
-  "outageCount": 83,
+  "generated": "2026-03-26T06:20:16.815Z",
+  "outageCount": 84,
   "firstOutage": "2022-03-31",
-  "lastOutage": "2026-03-18",
+  "lastOutage": "2026-03-29",
   "outages": [
+    {
+      "date": "Le dimanche 29 mars 2026 de  08:30:00 à  16:00:00",
+      "streets": "dans les environs de Dr Mayer Street, Pigeon Lane, Morc Beau Site, Edwards Hughes Street, Flat Crater, Flat Belvedère No1 & No2, une partie de Pelican Street, Deborgh Edwards Street, Georges Guibert Street et Rue La Hausse de la Louvrière",
+      "from": "2026-03-29T04:30:00.000Z",
+      "to": "2026-03-29T12:00:00.000Z",
+      "id": "392b11a4440855d6000a95bbcfe4e7fb"
+    },
     {
       "date": "Le mercredi 18 mars 2026 de  09:00:00 à  13:00:00",
       "streets": "Part of Joory Lane, Seebaruth lane, Riviére Seche, Dhunputh Lane, Bedassy Lane and the neighborhood",
