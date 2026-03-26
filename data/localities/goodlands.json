@@ -2,11 +2,18 @@
   "slug": "goodlands",
   "name": "GOODLANDS",
   "district": "rivieredurempart",
-  "generated": "2026-03-26T09:17:22.588Z",
-  "outageCount": 122,
+  "generated": "2026-03-26T10:16:21.516Z",
+  "outageCount": 123,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-03-19",
+  "lastOutage": "2026-03-26",
   "outages": [
+    {
+      "date": "Le jeudi 26 mars 2026 de  12:00:00 à  17:00:00",
+      "streets": "MAMZELLE JEANNE,PETIT VILLAGE ,GRAND GAUBE,ROCHETERRE",
+      "from": "2026-03-26T08:00:00.000Z",
+      "to": "2026-03-26T13:00:00.000Z",
+      "id": "5fdde388f92b12237381e5b7f6367ec2"
+    },
     {
       "date": "Le jeudi 19 mars 2026 de  00:00:00 à  10:00:00",
       "streets": "DORMITORY AT BYPASS GOODLANDS",
