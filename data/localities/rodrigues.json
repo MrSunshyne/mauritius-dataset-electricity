@@ -2,11 +2,25 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-03-26T12:11:54.730Z",
-  "outageCount": 197,
+  "generated": "2026-03-26T13:28:09.916Z",
+  "outageCount": 199,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-03-26",
+  "lastOutage": "2026-03-27",
   "outages": [
+    {
+      "date": "Le vendredi 27 mars 2026 de  12:00:00 à  14:00:00",
+      "streets": "LES ABONNES DE MONT LUBIN ET MONT LIMON.",
+      "from": "2026-03-27T08:00:00.000Z",
+      "to": "2026-03-27T10:00:00.000Z",
+      "id": "8d7e3eba7f6e5d716307990b4e581e58"
+    },
+    {
+      "date": "Le vendredi 27 mars 2026 de  09:00:00 à  14:00:00",
+      "streets": "LES ABONNES DE ROCHE BON DIEU.",
+      "from": "2026-03-27T05:00:00.000Z",
+      "to": "2026-03-27T10:00:00.000Z",
+      "id": "4d3d12872beb2c0b84b1ef55dc4d2c86"
+    },
     {
       "date": "Le jeudi 26 mars 2026 de  12:00:00 à  14:00:00",
       "streets": "LES ABONNES DE SOUPIR, MALABAR, MONT PLAISIR, SAINTE FAMILLE, LATANIER ET SAINT GABRIEL.",

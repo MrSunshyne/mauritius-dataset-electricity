@@ -1,8 +1,8 @@
 {
   "date": "2026-03-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-26T12:11:54.399Z",
-  "outageCount": 1,
+  "generated": "2026-03-26T13:28:09.603Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le vendredi 27 mars 2026 de  08:30:00 à  15:30:00",
@@ -13,6 +13,26 @@
       "from": "2026-03-27T04:30:00.000Z",
       "to": "2026-03-27T11:30:00.000Z",
       "id": "75d152c8aaee1b2f6dd4d72a1e643df4"
+    },
+    {
+      "date": "Le vendredi 27 mars 2026 de  12:00:00 à  14:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LES ABONNES DE MONT LUBIN ET MONT LIMON.",
+      "district": "rodrigues",
+      "from": "2026-03-27T08:00:00.000Z",
+      "to": "2026-03-27T10:00:00.000Z",
+      "id": "8d7e3eba7f6e5d716307990b4e581e58"
+    },
+    {
+      "date": "Le vendredi 27 mars 2026 de  09:00:00 à  14:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LES ABONNES DE ROCHE BON DIEU.",
+      "district": "rodrigues",
+      "from": "2026-03-27T05:00:00.000Z",
+      "to": "2026-03-27T10:00:00.000Z",
+      "id": "4d3d12872beb2c0b84b1ef55dc4d2c86"
     }
   ]
 }
