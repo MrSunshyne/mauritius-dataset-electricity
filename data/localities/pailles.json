@@ -2,11 +2,18 @@
   "slug": "pailles",
   "name": "PAILLES",
   "district": "portlouis",
-  "generated": "2026-03-26T06:20:16.912Z",
-  "outageCount": 76,
+  "generated": "2026-03-26T07:24:31.183Z",
+  "outageCount": 77,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-03-11",
+  "lastOutage": "2026-03-26",
   "outages": [
+    {
+      "date": "Le jeudi 26 mars 2026 de  10:00:00 à  12:30:00",
+      "streets": "CAMP CHAPELON PAILLES",
+      "from": "2026-03-26T06:00:00.000Z",
+      "to": "2026-03-26T08:30:00.000Z",
+      "id": "652750d54bf11ba27c6d7e0e0e5d3f90"
+    },
     {
       "date": "Le mercredi 11 mars 2026 de  11:00:00 à  13:00:00",
       "streets": "DODO 1/DODO 2 CHEMIN CONDE PAILLE",
