@@ -2,11 +2,18 @@
   "slug": "mahebourg",
   "name": "MAHEBOURG",
   "district": "grandport",
-  "generated": "2026-03-26T18:15:22.742Z",
-  "outageCount": 70,
+  "generated": "2026-03-27T06:21:09.100Z",
+  "outageCount": 71,
   "firstOutage": "2022-04-07",
-  "lastOutage": "2026-01-08",
+  "lastOutage": "2026-03-27",
   "outages": [
+    {
+      "date": "Le vendredi 27 mars 2026 de  09:35:00 à  12:00:00",
+      "streets": "EN PARTIE RUE VILLENEUVE, EN PARTIE RUE MAURICE ET LES ALENTOURS.",
+      "from": "2026-03-27T05:35:00.000Z",
+      "to": "2026-03-27T08:00:00.000Z",
+      "id": "f5a95d673b6cf986bc442b3d4c8225f7"
+    },
     {
       "date": "Le jeudi 8 janvier 2026 de  10:00:00 à  15:00:00",
       "streets": "CHOUFLEUR, DEBARCADERE AND SURROUNDINGS",

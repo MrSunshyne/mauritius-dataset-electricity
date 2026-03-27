@@ -2,11 +2,18 @@
   "slug": "richelieu",
   "name": "RICHELIEU",
   "district": "plainewilhems",
-  "generated": "2026-03-26T18:15:22.833Z",
-  "outageCount": 3,
+  "generated": "2026-03-27T06:21:09.201Z",
+  "outageCount": 4,
   "firstOutage": "2023-11-08",
-  "lastOutage": "2024-12-09",
+  "lastOutage": "2026-03-27",
   "outages": [
+    {
+      "date": "Le vendredi 27 mars 2026 de  10:15:00 à  11:45:00",
+      "streets": "ROUTE ROYALE DANS LES ENVIRONS SNACK GAETAN ET CHAND LANE.",
+      "from": "2026-03-27T06:15:00.000Z",
+      "to": "2026-03-27T07:45:00.000Z",
+      "id": "fbf3a5f1417cca1fa4a2c4e911439af7"
+    },
     {
       "date": "Le lundi 9 décembre 2024 de  15:35:00 à  17:00:00",
       "streets": "RUE BEETHOVEN, RUE MAHATMA GANDHI ET LES RUELLES AVOISINANTES.",

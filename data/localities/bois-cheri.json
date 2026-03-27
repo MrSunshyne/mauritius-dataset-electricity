@@ -2,11 +2,18 @@
   "slug": "bois-cheri",
   "name": "BOIS CHERI",
   "district": "savanne",
-  "generated": "2026-03-26T18:15:22.617Z",
-  "outageCount": 32,
+  "generated": "2026-03-27T06:21:08.961Z",
+  "outageCount": 33,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-03-08",
+  "lastOutage": "2026-03-27",
   "outages": [
+    {
+      "date": "Le vendredi 27 mars 2026 de  10:00:00 à  11:30:00",
+      "streets": "DANS LES ENVIRONS LA POSTE.",
+      "from": "2026-03-27T06:00:00.000Z",
+      "to": "2026-03-27T07:30:00.000Z",
+      "id": "a8a30f5b6e706cabe72a55696de0a499"
+    },
     {
       "date": "Le dimanche 8 mars 2026 de  12:30:00 à  15:30:00",
       "streets": "N. France, Beau Climat La Flora, Grand Bois, Bois Cherie, Avalon, Grand Bassin, Petrin and Varangue sur Monde",

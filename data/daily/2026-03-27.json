@@ -1,8 +1,8 @@
 {
   "date": "2026-03-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-26T18:15:22.560Z",
-  "outageCount": 4,
+  "generated": "2026-03-27T06:21:08.899Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le vendredi 27 mars 2026 de  08:30:00 à  15:30:00",
@@ -15,6 +15,26 @@
       "id": "75d152c8aaee1b2f6dd4d72a1e643df4"
     },
     {
+      "date": "Le vendredi 27 mars 2026 de  09:35:00 à  12:00:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "EN PARTIE RUE VILLENEUVE, EN PARTIE RUE MAURICE ET LES ALENTOURS.",
+      "district": "grandport",
+      "from": "2026-03-27T05:35:00.000Z",
+      "to": "2026-03-27T08:00:00.000Z",
+      "id": "f5a95d673b6cf986bc442b3d4c8225f7"
+    },
+    {
+      "date": "Le vendredi 27 mars 2026 de  09:20:00 à  11:30:00",
+      "locality": "CREVE COEUR",
+      "localitySlug": "creve-coeur",
+      "streets": "RIVALLAND ROAD DANS LES ENVIRONS KALIMAYE.",
+      "district": "pamplemousses",
+      "from": "2026-03-27T05:20:00.000Z",
+      "to": "2026-03-27T07:30:00.000Z",
+      "id": "d9b0da5b5c90524c5267aeb7eea9d3cb"
+    },
+    {
       "date": "Le vendredi 27 mars 2026 de  00:00:00 à  12:00:00",
       "locality": "CAMP LEVIEUX ( R HILL )",
       "localitySlug": "camp-levieux",
@@ -23,6 +43,46 @@
       "from": "2026-03-26T20:00:00.000Z",
       "to": "2026-03-26T08:00:00.000Z",
       "id": "d590399a8b544091d7f9e0a3fb571809"
+    },
+    {
+      "date": "Le vendredi 27 mars 2026 de  10:15:00 à  11:45:00",
+      "locality": "RICHELIEU",
+      "localitySlug": "richelieu",
+      "streets": "ROUTE ROYALE DANS LES ENVIRONS SNACK GAETAN ET CHAND LANE.",
+      "district": "plainewilhems",
+      "from": "2026-03-27T06:15:00.000Z",
+      "to": "2026-03-27T07:45:00.000Z",
+      "id": "fbf3a5f1417cca1fa4a2c4e911439af7"
+    },
+    {
+      "date": "Le vendredi 27 mars 2026 de  10:00:00 à  11:00:00",
+      "locality": "ESPERANCE TREBUCHET",
+      "localitySlug": "esperance-trebuchet",
+      "streets": "PARTIE ROUTE ROYALE, LUXMI RD ET LES ALENTOURS.",
+      "district": "rivieredurempart",
+      "from": "2026-03-27T06:00:00.000Z",
+      "to": "2026-03-27T07:00:00.000Z",
+      "id": "5a51b30ced821b6a20f73ec8e5dd7155"
+    },
+    {
+      "date": "Le vendredi 27 mars 2026 de  10:00:00 à  12:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "APARTMENT AQUAMARINE BEHIND SUPER U.",
+      "district": "rivieredurempart",
+      "from": "2026-03-27T06:00:00.000Z",
+      "to": "2026-03-27T08:00:00.000Z",
+      "id": "79970ae4bb4bec621400d501b3d5852b"
+    },
+    {
+      "date": "Le vendredi 27 mars 2026 de  10:00:00 à  11:30:00",
+      "locality": "BOIS CHERI",
+      "localitySlug": "bois-cheri",
+      "streets": "DANS LES ENVIRONS LA POSTE.",
+      "district": "savanne",
+      "from": "2026-03-27T06:00:00.000Z",
+      "to": "2026-03-27T07:30:00.000Z",
+      "id": "a8a30f5b6e706cabe72a55696de0a499"
     },
     {
       "date": "Le vendredi 27 mars 2026 de  12:00:00 à  14:00:00",

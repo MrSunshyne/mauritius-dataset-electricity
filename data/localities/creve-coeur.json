@@ -2,11 +2,18 @@
   "slug": "creve-coeur",
   "name": "CREVE COEUR",
   "district": "pamplemousses",
-  "generated": "2026-03-26T18:15:22.672Z",
-  "outageCount": 27,
+  "generated": "2026-03-27T06:21:09.024Z",
+  "outageCount": 28,
   "firstOutage": "2022-04-02",
-  "lastOutage": "2026-02-28",
+  "lastOutage": "2026-03-27",
   "outages": [
+    {
+      "date": "Le vendredi 27 mars 2026 de  09:20:00 à  11:30:00",
+      "streets": "RIVALLAND ROAD DANS LES ENVIRONS KALIMAYE.",
+      "from": "2026-03-27T05:20:00.000Z",
+      "to": "2026-03-27T07:30:00.000Z",
+      "id": "d9b0da5b5c90524c5267aeb7eea9d3cb"
+    },
     {
       "date": "Le samedi 28 février 2026 de  08:30:00 à  15:00:00",
       "streets": "ROSEAUX",

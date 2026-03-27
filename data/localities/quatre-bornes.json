@@ -2,11 +2,25 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-03-26T18:15:22.821Z",
-  "outageCount": 360,
+  "generated": "2026-03-27T06:21:09.187Z",
+  "outageCount": 362,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-03-23",
+  "lastOutage": "2026-03-28",
   "outages": [
+    {
+      "date": "Le samedi 28 mars 2026 de  14:00:00 à  15:00:00",
+      "streets": "Labourdonnais, Stevenson, Murphy, Darwin, Summertime, Odette Ernest et en partie Ave Naz, Berthaud, Route Royale Paloma et Filling Total",
+      "from": "2026-03-28T10:00:00.000Z",
+      "to": "2026-03-28T11:00:00.000Z",
+      "id": "3d5535076d8fc4eaf3488624b522f090"
+    },
+    {
+      "date": "Le samedi 28 mars 2026 de  08:00:00 à  15:00:00",
+      "streets": "Ave Balgobin, en partie Ave Bernardin de St Pierre, Ave Naz, Appartement Le Palmiste et Res. Naz",
+      "from": "2026-03-28T04:00:00.000Z",
+      "to": "2026-03-28T11:00:00.000Z",
+      "id": "0f4b74b58151a683542e055f00929b35"
+    },
     {
       "date": "Le lundi 23 mars 2026 de  09:00:00 à  14:00:00",
       "streets": "En partie Morcellement Belzyme, MFA, APEIM et Racing Club de Maurice",

@@ -2,11 +2,18 @@
   "slug": "esperance-trebuchet",
   "name": "ESPERANCE TREBUCHET",
   "district": "rivieredurempart",
-  "generated": "2026-03-26T18:15:22.687Z",
-  "outageCount": 25,
+  "generated": "2026-03-27T06:21:09.039Z",
+  "outageCount": 26,
   "firstOutage": "2022-03-14",
-  "lastOutage": "2026-03-26",
+  "lastOutage": "2026-03-27",
   "outages": [
+    {
+      "date": "Le vendredi 27 mars 2026 de  10:00:00 à  11:00:00",
+      "streets": "PARTIE ROUTE ROYALE, LUXMI RD ET LES ALENTOURS.",
+      "from": "2026-03-27T06:00:00.000Z",
+      "to": "2026-03-27T07:00:00.000Z",
+      "id": "5a51b30ced821b6a20f73ec8e5dd7155"
+    },
     {
       "date": "Le jeudi 26 mars 2026 de  09:30:00 à  11:30:00",
       "streets": "R/RD VERS SHIVALA",
