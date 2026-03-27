@@ -1,8 +1,8 @@
 {
   "date": "2026-03-28",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-27T07:23:21.933Z",
-  "outageCount": 2,
+  "generated": "2026-03-27T08:11:00.420Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le samedi 28 mars 2026 de  14:00:00 à  15:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-03-28T04:00:00.000Z",
       "to": "2026-03-28T11:00:00.000Z",
       "id": "0f4b74b58151a683542e055f00929b35"
+    },
+    {
+      "date": "Le samedi 28 mars 2026 de  08:30:00 à  14:00:00",
+      "locality": "CITE CHEBEL",
+      "localitySlug": "cite-chebel",
+      "streets": "Ave Parakeet, Ave Pink Pigeon, Morc La Confiance et les environs",
+      "district": "plainewilhems",
+      "from": "2026-03-28T04:30:00.000Z",
+      "to": "2026-03-28T10:00:00.000Z",
+      "id": "ec258ad9a35a6bdb75568abfa594ca1b"
     }
   ]
 }

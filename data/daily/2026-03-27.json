@@ -1,8 +1,8 @@
 {
   "date": "2026-03-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-27T07:23:21.933Z",
-  "outageCount": 11,
+  "generated": "2026-03-27T08:11:00.419Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le vendredi 27 mars 2026 de  08:30:00 à  15:30:00",
@@ -83,6 +83,26 @@
       "from": "2026-03-27T06:00:00.000Z",
       "to": "2026-03-27T08:00:00.000Z",
       "id": "79970ae4bb4bec621400d501b3d5852b"
+    },
+    {
+      "date": "Le vendredi 27 mars 2026 de  11:00:00 à  16:00:00",
+      "locality": "ROCHES NOIRES",
+      "localitySlug": "roches-noires",
+      "streets": "ROCHES NOIRES, POSTE LAFAYETTE [BRAS D-EAU].",
+      "district": "rivieredurempart",
+      "from": "2026-03-27T07:00:00.000Z",
+      "to": "2026-03-27T12:00:00.000Z",
+      "id": "df71ba60d0848573d1630d84430b24e4"
+    },
+    {
+      "date": "Le vendredi 27 mars 2026 de  11:30:00 à  12:30:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "AFTER SUPER U TOWARDS BAZAR GRAND BAY.",
+      "district": "rivieredurempart",
+      "from": "2026-03-27T07:30:00.000Z",
+      "to": "2026-03-27T08:30:00.000Z",
+      "id": "6676c4d5954d1b9ace1dbf446b153406"
     },
     {
       "date": "Le vendredi 27 mars 2026 de  10:00:00 à  11:30:00",

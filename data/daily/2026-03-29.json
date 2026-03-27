@@ -1,8 +1,8 @@
 {
   "date": "2026-03-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-27T07:23:21.933Z",
-  "outageCount": 3,
+  "generated": "2026-03-27T08:11:00.420Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le dimanche 29 mars 2026 de  08:30:00 à  14:30:00",
@@ -33,6 +33,16 @@
       "from": "2026-03-29T04:30:00.000Z",
       "to": "2026-03-29T12:00:00.000Z",
       "id": "392b11a4440855d6000a95bbcfe4e7fb"
+    },
+    {
+      "date": "Le dimanche 29 mars 2026 de  08:30:00 à  14:30:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Ave Sivananda, Ave Couacad, Ave Etienne, Ave Gabriel Pitot, Morc du Perou, Flat Mont Royal et les environs",
+      "district": "plainewilhems",
+      "from": "2026-03-29T04:30:00.000Z",
+      "to": "2026-03-29T10:30:00.000Z",
+      "id": "aa69888cb5f28327996be4eeab9bf00a"
     }
   ]
 }

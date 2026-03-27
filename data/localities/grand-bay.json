@@ -2,11 +2,18 @@
   "slug": "grand-bay",
   "name": "GRAND BAY",
   "district": "rivieredurempart",
-  "generated": "2026-03-27T07:23:22.086Z",
-  "outageCount": 103,
+  "generated": "2026-03-27T08:11:00.573Z",
+  "outageCount": 104,
   "firstOutage": "2022-03-20",
   "lastOutage": "2026-03-27",
   "outages": [
+    {
+      "date": "Le vendredi 27 mars 2026 de  11:30:00 à  12:30:00",
+      "streets": "AFTER SUPER U TOWARDS BAZAR GRAND BAY.",
+      "from": "2026-03-27T07:30:00.000Z",
+      "to": "2026-03-27T08:30:00.000Z",
+      "id": "6676c4d5954d1b9ace1dbf446b153406"
+    },
     {
       "date": "Le vendredi 27 mars 2026 de  10:00:00 à  12:00:00",
       "streets": "APARTMENT AQUAMARINE BEHIND SUPER U.",

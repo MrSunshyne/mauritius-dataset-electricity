@@ -2,11 +2,18 @@
   "slug": "cite-chebel",
   "name": "CITE CHEBEL",
   "district": "plainewilhems",
-  "generated": "2026-03-27T07:23:22.043Z",
-  "outageCount": 32,
+  "generated": "2026-03-27T08:11:00.529Z",
+  "outageCount": 33,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-03-11",
+  "lastOutage": "2026-03-28",
   "outages": [
+    {
+      "date": "Le samedi 28 mars 2026 de  08:30:00 à  14:00:00",
+      "streets": "Ave Parakeet, Ave Pink Pigeon, Morc La Confiance et les environs",
+      "from": "2026-03-28T04:30:00.000Z",
+      "to": "2026-03-28T10:00:00.000Z",
+      "id": "ec258ad9a35a6bdb75568abfa594ca1b"
+    },
     {
       "date": "Le mercredi 11 mars 2026 de  09:00:00 à  15:00:00",
       "streets": "Ave Parakeet, Ave Pink Pigeon et les environs",
