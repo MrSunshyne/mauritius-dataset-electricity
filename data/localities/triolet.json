@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-03-27T06:21:09.252Z",
-  "outageCount": 129,
+  "generated": "2026-03-27T07:23:22.284Z",
+  "outageCount": 130,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-03-24",
+  "lastOutage": "2026-03-27",
   "outages": [
+    {
+      "date": "Le vendredi 27 mars 2026 de  10:00:00 à  14:00:00",
+      "streets": "9EME MILLE : ROUTE ROYALE DANS LES ENVIRONS GALAXY AND SAVEMART.",
+      "from": "2026-03-27T06:00:00.000Z",
+      "to": "2026-03-27T10:00:00.000Z",
+      "id": "0643b612b5f688d51de1fe0a269a58ca"
+    },
     {
       "date": "Le mardi 24 mars 2026 de  19:45:00 à  23:45:00",
       "streets": "7EME MILLE TRIOLET : PRINCE OF WALES RD, SHIV PRAKASH MANDHIR RD DANS LES ENVIRONS SHIVALA.",

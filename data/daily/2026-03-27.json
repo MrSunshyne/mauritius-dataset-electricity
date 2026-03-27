@@ -1,8 +1,8 @@
 {
   "date": "2026-03-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-27T06:21:08.899Z",
-  "outageCount": 10,
+  "generated": "2026-03-27T07:23:21.933Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le vendredi 27 mars 2026 de  08:30:00 à  15:30:00",
@@ -33,6 +33,16 @@
       "from": "2026-03-27T05:20:00.000Z",
       "to": "2026-03-27T07:30:00.000Z",
       "id": "d9b0da5b5c90524c5267aeb7eea9d3cb"
+    },
+    {
+      "date": "Le vendredi 27 mars 2026 de  10:00:00 à  14:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "9EME MILLE : ROUTE ROYALE DANS LES ENVIRONS GALAXY AND SAVEMART.",
+      "district": "pamplemousses",
+      "from": "2026-03-27T06:00:00.000Z",
+      "to": "2026-03-27T10:00:00.000Z",
+      "id": "0643b612b5f688d51de1fe0a269a58ca"
     },
     {
       "date": "Le vendredi 27 mars 2026 de  00:00:00 à  12:00:00",
