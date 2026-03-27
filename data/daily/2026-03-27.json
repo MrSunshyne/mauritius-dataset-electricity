@@ -1,8 +1,8 @@
 {
   "date": "2026-03-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-27T16:13:58.804Z",
-  "outageCount": 14,
+  "generated": "2026-03-27T17:15:09.139Z",
+  "outageCount": 16,
   "outages": [
     {
       "date": "Le vendredi 27 mars 2026 de  08:30:00 à  15:30:00",
@@ -123,6 +123,26 @@
       "from": "2026-03-27T06:00:00.000Z",
       "to": "2026-03-27T07:30:00.000Z",
       "id": "a8a30f5b6e706cabe72a55696de0a499"
+    },
+    {
+      "date": "Le vendredi 27 mars 2026 de  21:00:00 à  23:00:00",
+      "locality": "CHAMOUNY",
+      "localitySlug": "chamouny",
+      "streets": "CHAMOUNY",
+      "district": "savanne",
+      "from": "2026-03-27T17:00:00.000Z",
+      "to": "2026-03-27T19:00:00.000Z",
+      "id": "129357bd142d4e83b3748a7c62bf1483"
+    },
+    {
+      "date": "Le vendredi 27 mars 2026 de  21:00:00 à  23:00:00",
+      "locality": "CHEMIN GRENIER",
+      "localitySlug": "chemin-grenier",
+      "streets": "CHEMIN GRENIER",
+      "district": "savanne",
+      "from": "2026-03-27T17:00:00.000Z",
+      "to": "2026-03-27T19:00:00.000Z",
+      "id": "566486cbbcc6368ec7faa0ff5127e38b"
     },
     {
       "date": "Le vendredi 27 mars 2026 de  12:00:00 à  14:00:00",

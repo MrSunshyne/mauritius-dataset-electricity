@@ -2,11 +2,18 @@
   "slug": "chamouny",
   "name": "CHAMOUNY",
   "district": "savanne",
-  "generated": "2026-03-27T16:13:58.909Z",
-  "outageCount": 21,
+  "generated": "2026-03-27T17:15:09.241Z",
+  "outageCount": 22,
   "firstOutage": "2022-07-24",
-  "lastOutage": "2026-02-26",
+  "lastOutage": "2026-03-27",
   "outages": [
+    {
+      "date": "Le vendredi 27 mars 2026 de  21:00:00 à  23:00:00",
+      "streets": "CHAMOUNY",
+      "from": "2026-03-27T17:00:00.000Z",
+      "to": "2026-03-27T19:00:00.000Z",
+      "id": "129357bd142d4e83b3748a7c62bf1483"
+    },
     {
       "date": "Le jeudi 26 février 2026 de  09:30:00 à  13:00:00",
       "streets": "RIVER WALK RD-SAWMILL CHAMOUNY",
