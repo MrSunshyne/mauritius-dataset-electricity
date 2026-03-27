@@ -2,8 +2,8 @@
   "slug": "tombeau-bay",
   "name": "TOMBEAU BAY",
   "district": "pamplemousses",
-  "generated": "2026-03-27T14:17:47.104Z",
-  "outageCount": 134,
+  "generated": "2026-03-27T15:14:28.420Z",
+  "outageCount": 135,
   "firstOutage": "2022-03-27",
   "lastOutage": "2026-03-29",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-03-29T04:30:00.000Z",
       "to": "2026-03-29T10:30:00.000Z",
       "id": "f7cdbcba39f12e2d99fc46ab59046abd"
+    },
+    {
+      "date": "Le vendredi 27 mars 2026 de  18:45:00 à  00:00:00",
+      "streets": "Morc Ilois,Macadam,Calamar,Mouscadier et les régions avoisinantes",
+      "from": "2026-03-27T14:45:00.000Z",
+      "to": "2026-03-26T20:00:00.000Z",
+      "id": "a1995c9cc37d88606ddc03ac748775cb"
     },
     {
       "date": "Le jeudi 5 mars 2026 de  14:20:00 à  17:00:00",

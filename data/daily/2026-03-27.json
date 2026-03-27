@@ -1,8 +1,8 @@
 {
   "date": "2026-03-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-27T14:17:46.767Z",
-  "outageCount": 13,
+  "generated": "2026-03-27T15:14:28.109Z",
+  "outageCount": 14,
   "outages": [
     {
       "date": "Le vendredi 27 mars 2026 de  08:30:00 à  15:30:00",
@@ -43,6 +43,16 @@
       "from": "2026-03-27T06:00:00.000Z",
       "to": "2026-03-27T10:00:00.000Z",
       "id": "0643b612b5f688d51de1fe0a269a58ca"
+    },
+    {
+      "date": "Le vendredi 27 mars 2026 de  18:45:00 à  00:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "Morc Ilois,Macadam,Calamar,Mouscadier et les régions avoisinantes",
+      "district": "pamplemousses",
+      "from": "2026-03-27T14:45:00.000Z",
+      "to": "2026-03-26T20:00:00.000Z",
+      "id": "a1995c9cc37d88606ddc03ac748775cb"
     },
     {
       "date": "Le vendredi 27 mars 2026 de  00:00:00 à  12:00:00",
