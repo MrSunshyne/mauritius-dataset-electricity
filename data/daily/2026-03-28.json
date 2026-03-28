@@ -1,8 +1,8 @@
 {
   "date": "2026-03-28",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-28T15:05:09.143Z",
-  "outageCount": 6,
+  "generated": "2026-03-28T16:04:10.559Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le samedi 28 mars 2026 de  14:00:00 à  18:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-03-28T10:00:00.000Z",
       "to": "2026-03-28T14:00:00.000Z",
       "id": "ac1cee2131c6d752d0f3d743ad54765b"
+    },
+    {
+      "date": "Le samedi 28 mars 2026 de  19:45:00 à  22:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "CHEMIN MACADAM NEAR NHDC",
+      "district": "pamplemousses",
+      "from": "2026-03-28T15:45:00.000Z",
+      "to": "2026-03-28T18:00:00.000Z",
+      "id": "b6e66239ec95fdbddc07989b73ba8217"
     },
     {
       "date": "Le samedi 28 mars 2026 de  14:00:00 à  15:00:00",

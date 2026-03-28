@@ -2,8 +2,8 @@
   "slug": "tombeau-bay",
   "name": "TOMBEAU BAY",
   "district": "pamplemousses",
-  "generated": "2026-03-28T15:05:09.494Z",
-  "outageCount": 135,
+  "generated": "2026-03-28T16:04:10.899Z",
+  "outageCount": 136,
   "firstOutage": "2022-03-27",
   "lastOutage": "2026-03-29",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-03-29T04:30:00.000Z",
       "to": "2026-03-29T10:30:00.000Z",
       "id": "f7cdbcba39f12e2d99fc46ab59046abd"
+    },
+    {
+      "date": "Le samedi 28 mars 2026 de  19:45:00 à  22:00:00",
+      "streets": "CHEMIN MACADAM NEAR NHDC",
+      "from": "2026-03-28T15:45:00.000Z",
+      "to": "2026-03-28T18:00:00.000Z",
+      "id": "b6e66239ec95fdbddc07989b73ba8217"
     },
     {
       "date": "Le vendredi 27 mars 2026 de  18:45:00 à  00:00:00",
