@@ -2,11 +2,18 @@
   "slug": "grand-gaube",
   "name": "GRAND GAUBE",
   "district": "rivieredurempart",
-  "generated": "2026-03-28T11:04:49.240Z",
-  "outageCount": 65,
+  "generated": "2026-03-28T12:04:12.660Z",
+  "outageCount": 66,
   "firstOutage": "2022-06-11",
-  "lastOutage": "2026-03-25",
+  "lastOutage": "2026-03-28",
   "outages": [
+    {
+      "date": "Le samedi 28 mars 2026 de  15:45:00 à  17:30:00",
+      "streets": "ARYA MANDIR ROAD GRAND GAUBE ,AVENUE LAURIER CALODYNE",
+      "from": "2026-03-28T11:45:00.000Z",
+      "to": "2026-03-28T13:30:00.000Z",
+      "id": "bb4d8bf78acea5de7765b3cb3af8f78c"
+    },
     {
       "date": "Le mercredi 25 mars 2026 de  09:00:00 à  15:30:00",
       "streets": "John Kennedy Grand Gaube",
