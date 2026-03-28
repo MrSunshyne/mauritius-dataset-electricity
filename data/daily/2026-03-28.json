@@ -1,9 +1,19 @@
 {
   "date": "2026-03-28",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-28T10:05:57.392Z",
-  "outageCount": 4,
+  "generated": "2026-03-28T11:04:49.089Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le samedi 28 mars 2026 de  14:00:00 à  16:00:00",
+      "locality": "DAGOTIERE",
+      "localitySlug": "dagotiere",
+      "streets": "PROVIDENCE ,MELROSE,QUARTIER MILITAIRE,ALMA,VALETTA",
+      "district": "moka",
+      "from": "2026-03-28T10:00:00.000Z",
+      "to": "2026-03-28T12:00:00.000Z",
+      "id": "6d85944b5ec816e889c9ed76a8008fc5"
+    },
     {
       "date": "Le samedi 28 mars 2026 de  14:00:00 à  15:00:00",
       "locality": "QUATRE-BORNES",

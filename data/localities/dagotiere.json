@@ -2,11 +2,18 @@
   "slug": "dagotiere",
   "name": "DAGOTIERE",
   "district": "moka",
-  "generated": "2026-03-28T10:05:57.516Z",
-  "outageCount": 24,
+  "generated": "2026-03-28T11:04:49.214Z",
+  "outageCount": 25,
   "firstOutage": "2022-04-24",
-  "lastOutage": "2026-03-05",
+  "lastOutage": "2026-03-28",
   "outages": [
+    {
+      "date": "Le samedi 28 mars 2026 de  14:00:00 à  16:00:00",
+      "streets": "PROVIDENCE ,MELROSE,QUARTIER MILITAIRE,ALMA,VALETTA",
+      "from": "2026-03-28T10:00:00.000Z",
+      "to": "2026-03-28T12:00:00.000Z",
+      "id": "6d85944b5ec816e889c9ed76a8008fc5"
+    },
     {
       "date": "Le jeudi 5 mars 2026 de  13:00:00 à  14:00:00",
       "streets": "SCHOOL ROAD DAGOTIERE",
