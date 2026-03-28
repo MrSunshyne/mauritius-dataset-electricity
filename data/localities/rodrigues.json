@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-03-27T18:13:07.165Z",
-  "outageCount": 199,
+  "generated": "2026-03-28T06:16:04.811Z",
+  "outageCount": 200,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-03-27",
+  "lastOutage": "2026-03-28",
   "outages": [
+    {
+      "date": "Le samedi 28 mars 2026 de  09:00:00 à  15:00:00",
+      "streets": "POINTE LAGUEL, BAIE AUX HUITRES ET ACCACIA",
+      "from": "2026-03-28T05:00:00.000Z",
+      "to": "2026-03-28T11:00:00.000Z",
+      "id": "931a7eed249ecd596fb7d13741db0831"
+    },
     {
       "date": "Le vendredi 27 mars 2026 de  12:00:00 à  14:00:00",
       "streets": "LES ABONNES DE MONT LUBIN ET MONT LIMON.",
