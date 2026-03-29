@@ -1,8 +1,8 @@
 {
   "date": "2026-03-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-29T14:08:24.156Z",
-  "outageCount": 9,
+  "generated": "2026-03-29T15:05:36.231Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le dimanche 29 mars 2026 de  13:40:00 à  16:00:00",
@@ -73,6 +73,16 @@
       "from": "2026-03-29T04:30:00.000Z",
       "to": "2026-03-29T11:30:00.000Z",
       "id": "f0047b96da3d0c42d9481f004171af2d"
+    },
+    {
+      "date": "Le dimanche 29 mars 2026 de  18:30:00 à  22:00:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "MAHARANA PRATAP ROAD PETIT RAFFRAY",
+      "district": "rivieredurempart",
+      "from": "2026-03-29T14:30:00.000Z",
+      "to": "2026-03-29T18:00:00.000Z",
+      "id": "8ce7e78b053ad5fbdb45343b4a13ffd3"
     },
     {
       "date": "Le dimanche 29 mars 2026 de  15:00:00 à  22:00:00",

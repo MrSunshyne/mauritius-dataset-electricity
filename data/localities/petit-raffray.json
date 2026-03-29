@@ -2,11 +2,18 @@
   "slug": "petit-raffray",
   "name": "PETIT RAFFRAY",
   "district": "rivieredurempart",
-  "generated": "2026-03-29T14:08:24.387Z",
-  "outageCount": 72,
+  "generated": "2026-03-29T15:05:36.506Z",
+  "outageCount": 73,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-03-03",
+  "lastOutage": "2026-03-29",
   "outages": [
+    {
+      "date": "Le dimanche 29 mars 2026 de  18:30:00 à  22:00:00",
+      "streets": "MAHARANA PRATAP ROAD PETIT RAFFRAY",
+      "from": "2026-03-29T14:30:00.000Z",
+      "to": "2026-03-29T18:00:00.000Z",
+      "id": "8ce7e78b053ad5fbdb45343b4a13ffd3"
+    },
     {
       "date": "Le mardi 3 mars 2026 de  09:00:00 à  13:00:00",
       "streets": "PETIT RAFFRAY INDIRA GANDHI ROAD-MAHATMA GANDHI RD",
