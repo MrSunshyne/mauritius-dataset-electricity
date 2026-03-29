@@ -2,11 +2,18 @@
   "slug": "plaine-magnien",
   "name": "PLAINE MAGNIEN",
   "district": "grandport",
-  "generated": "2026-03-29T09:09:12.787Z",
-  "outageCount": 56,
+  "generated": "2026-03-29T10:05:45.744Z",
+  "outageCount": 57,
   "firstOutage": "2022-06-08",
-  "lastOutage": "2026-03-02",
+  "lastOutage": "2026-03-29",
   "outages": [
+    {
+      "date": "Le dimanche 29 mars 2026 de  13:40:00 à  16:00:00",
+      "streets": "CHEMIN MON DESIR ET LES ALENTOURS",
+      "from": "2026-03-29T09:40:00.000Z",
+      "to": "2026-03-29T12:00:00.000Z",
+      "id": "de87e148458df0e72c9334fee3caa51f"
+    },
     {
       "date": "Le lundi 2 mars 2026 de  14:00:00 à  17:00:00",
       "streets": "Plaine Magnien habitant dans le périmètre et les rues suivantes: Paul Langois Street et Chemin L’Escalier Plaine Magnien",
