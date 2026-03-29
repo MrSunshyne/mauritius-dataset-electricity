@@ -1,8 +1,8 @@
 {
   "date": "2026-03-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-28T18:03:49.461Z",
-  "outageCount": 5,
+  "generated": "2026-03-29T06:19:22.506Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le dimanche 29 mars 2026 de  08:30:00 à  14:30:00",
@@ -53,6 +53,16 @@
       "from": "2026-03-29T04:30:00.000Z",
       "to": "2026-03-29T11:30:00.000Z",
       "id": "f0047b96da3d0c42d9481f004171af2d"
+    },
+    {
+      "date": "Le dimanche 29 mars 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "BAIE MALGACHE, BAIE DIAMANT",
+      "district": "rodrigues",
+      "from": "2026-03-29T04:30:00.000Z",
+      "to": "2026-03-29T11:00:00.000Z",
+      "id": "8d811e3a8d1188945cf3d91d80dfa42a"
     }
   ]
 }
