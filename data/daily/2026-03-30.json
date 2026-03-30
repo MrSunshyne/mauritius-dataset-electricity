@@ -1,8 +1,8 @@
 {
   "date": "2026-03-30",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-30T10:25:30.055Z",
-  "outageCount": 1,
+  "generated": "2026-03-30T11:19:40.006Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le lundi 30 mars 2026 de  11:00:00 à  13:00:00",
@@ -13,6 +13,36 @@
       "from": "2026-03-30T07:00:00.000Z",
       "to": "2026-03-30T09:00:00.000Z",
       "id": "4b5152ec9fdee4e70213227e723b1910"
+    },
+    {
+      "date": "Le lundi 30 mars 2026 de  15:20:00 à  18:30:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "FLOREAL EN PARTIE DANS LES ALENTOURS DE TELECOM ET ADAMAS, MANGALKHAN",
+      "district": "plainewilhems",
+      "from": "2026-03-30T11:20:00.000Z",
+      "to": "2026-03-30T14:30:00.000Z",
+      "id": "d05c3e055d03e0a5b23e7676a6422757"
+    },
+    {
+      "date": "Le lundi 30 mars 2026 de  14:30:00 à  16:00:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": "ENGRAIS CATHAN ET LES ENVIRONS.",
+      "district": "plainewilhems",
+      "from": "2026-03-30T10:30:00.000Z",
+      "to": "2026-03-30T12:00:00.000Z",
+      "id": "f56071027acb9b087ec768a0678e7817"
+    },
+    {
+      "date": "Le lundi 30 mars 2026 de  15:15:00 à  17:15:00",
+      "locality": "BANANES",
+      "localitySlug": "bananes",
+      "streets": "BANANES, CWA, CLUNY",
+      "district": "savanne",
+      "from": "2026-03-30T11:15:00.000Z",
+      "to": "2026-03-30T13:15:00.000Z",
+      "id": "cb5c768637607d0c577a66bf0039fef3"
     }
   ]
 }

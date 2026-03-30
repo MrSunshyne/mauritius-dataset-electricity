@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-30T10:25:30.423Z",
+  "generated": "2026-03-30T11:19:40.370Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -232,10 +232,10 @@
       "slug": "bananes",
       "name": "BANANES",
       "district": "savanne",
-      "outageCount": 9,
+      "outageCount": 10,
       "file": "bananes.json",
       "firstOutage": "2022-03-14",
-      "lastOutage": "2025-09-21"
+      "lastOutage": "2026-03-30"
     },
     {
       "slug": "bar-le-duc",
@@ -1393,10 +1393,10 @@
       "slug": "eau-coulee",
       "name": "EAU COULEE",
       "district": "plainewilhems",
-      "outageCount": 60,
+      "outageCount": 61,
       "file": "eau-coulee.json",
       "firstOutage": "2022-03-23",
-      "lastOutage": "2026-03-08"
+      "lastOutage": "2026-03-30"
     },
     {
       "slug": "eau-vannee",
@@ -1492,10 +1492,10 @@
       "slug": "floreal",
       "name": "FLOREAL",
       "district": "plainewilhems",
-      "outageCount": 84,
+      "outageCount": 85,
       "file": "floreal.json",
       "firstOutage": "2022-03-31",
-      "lastOutage": "2026-03-29"
+      "lastOutage": "2026-03-30"
     },
     {
       "slug": "fond-du-sac",

@@ -2,11 +2,18 @@
   "slug": "eau-coulee",
   "name": "EAU COULEE",
   "district": "plainewilhems",
-  "generated": "2026-03-30T10:25:30.187Z",
-  "outageCount": 60,
+  "generated": "2026-03-30T11:19:40.134Z",
+  "outageCount": 61,
   "firstOutage": "2022-03-23",
-  "lastOutage": "2026-03-08",
+  "lastOutage": "2026-03-30",
   "outages": [
+    {
+      "date": "Le lundi 30 mars 2026 de  14:30:00 à  16:00:00",
+      "streets": "ENGRAIS CATHAN ET LES ENVIRONS.",
+      "from": "2026-03-30T10:30:00.000Z",
+      "to": "2026-03-30T12:00:00.000Z",
+      "id": "f56071027acb9b087ec768a0678e7817"
+    },
     {
       "date": "Le dimanche 8 mars 2026 de  08:30:00 à  16:00:00",
       "streets": "dans les périmètres de Quartier Militaire Road, Ghoorun Road, Dhilchand Road, Morc Baptiste, Gilbert Joson Street, Camp Levieux, Morc Chummun, Giquel Street, Camp Dhoby, Engrais Cathan Street, Morc Camphrier et Morc Adam",
