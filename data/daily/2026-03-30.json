@@ -1,8 +1,8 @@
 {
   "date": "2026-03-30",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-30T16:17:27.004Z",
-  "outageCount": 4,
+  "generated": "2026-03-30T17:16:03.770Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le lundi 30 mars 2026 de  11:00:00 à  13:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-03-30T10:30:00.000Z",
       "to": "2026-03-30T12:00:00.000Z",
       "id": "f56071027acb9b087ec768a0678e7817"
+    },
+    {
+      "date": "Le lundi 30 mars 2026 de  20:00:00 à  00:30:00",
+      "locality": "SAINT ANTOINE",
+      "localitySlug": "saint-antoine",
+      "streets": "MORC ST ANTOINE",
+      "district": "rivieredurempart",
+      "from": "2026-03-30T16:00:00.000Z",
+      "to": "2026-03-29T20:30:00.000Z",
+      "id": "6d0313d5138f5a6ab89cd2430e3874d8"
     },
     {
       "date": "Le lundi 30 mars 2026 de  15:15:00 à  17:15:00",
