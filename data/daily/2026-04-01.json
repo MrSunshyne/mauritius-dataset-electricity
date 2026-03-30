@@ -1,9 +1,19 @@
 {
   "date": "2026-04-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-30T06:30:28.378Z",
-  "outageCount": 3,
+  "generated": "2026-03-30T07:28:44.666Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le mercredi 1 avril 2026 de  09:30:00 à  15:30:00",
+      "locality": "MORC RAFFRAY GUIBIES",
+      "localitySlug": "morc-raffray-guibies",
+      "streets": "LES ABONNES DE MORC RAFFRAY GUIBIES HABITANTDANS LES ENVIRONS DES AVENUES AGNIS 1,2, DODO 1,2, PERROQUET 1,2,3,4,5, JUPITER, MERCURY, TOPAZE, ANSE COURTOIS, CLAUDE DELAITRE ET UNE PARTIE DE MORC LE ROC",
+      "district": "portlouis",
+      "from": "2026-04-01T05:30:00.000Z",
+      "to": "2026-04-01T11:30:00.000Z",
+      "id": "ad3a1b8fd2f5b7a2480cc586301c1aea"
+    },
     {
       "date": "Le mercredi 1 avril 2026 de  08:30:00 à  15:30:00",
       "locality": "ROCHE TERRE",

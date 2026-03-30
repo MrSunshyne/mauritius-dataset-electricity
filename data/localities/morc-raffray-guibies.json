@@ -2,11 +2,18 @@
   "slug": "morc-raffray-guibies",
   "name": "MORC RAFFRAY GUIBIES",
   "district": "portlouis",
-  "generated": "2026-03-30T06:30:28.614Z",
-  "outageCount": 12,
+  "generated": "2026-03-30T07:28:44.898Z",
+  "outageCount": 13,
   "firstOutage": "2023-09-19",
-  "lastOutage": "2025-12-13",
+  "lastOutage": "2026-04-01",
   "outages": [
+    {
+      "date": "Le mercredi 1 avril 2026 de  09:30:00 à  15:30:00",
+      "streets": "LES ABONNES DE MORC RAFFRAY GUIBIES HABITANTDANS LES ENVIRONS DES AVENUES AGNIS 1,2, DODO 1,2, PERROQUET 1,2,3,4,5, JUPITER, MERCURY, TOPAZE, ANSE COURTOIS, CLAUDE DELAITRE ET UNE PARTIE DE MORC LE ROC",
+      "from": "2026-04-01T05:30:00.000Z",
+      "to": "2026-04-01T11:30:00.000Z",
+      "id": "ad3a1b8fd2f5b7a2480cc586301c1aea"
+    },
     {
       "date": "Le samedi 13 décembre 2025 de  14:00:00 à  14:45:00",
       "streets": "DANS LES ENVIRONS DES AVENUES PERRUCHE 1,2,3,4, PERDRIX 1,2,3,4, CARDINAL 1,2,3 ET UNE PARTIE DE CLAUDE DELAITRE",
