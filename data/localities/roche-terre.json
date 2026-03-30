@@ -2,11 +2,18 @@
   "slug": "roche-terre",
   "name": "ROCHE TERRE",
   "district": "rivieredurempart",
-  "generated": "2026-03-29T18:04:46.161Z",
-  "outageCount": 34,
+  "generated": "2026-03-30T06:30:28.697Z",
+  "outageCount": 35,
   "firstOutage": "2022-05-30",
-  "lastOutage": "2026-02-21",
+  "lastOutage": "2026-04-01",
   "outages": [
+    {
+      "date": "Le mercredi 1 avril 2026 de  08:30:00 à  15:30:00",
+      "streets": "DANS LES PERIMETRES DE BATOOLALL ROAD, ROCHE TERRE",
+      "from": "2026-04-01T04:30:00.000Z",
+      "to": "2026-04-01T11:30:00.000Z",
+      "id": "006a7571c5e3e19f601ce083d49c3997"
+    },
     {
       "date": "Le samedi 21 février 2026 de  08:30:00 à  15:30:00",
       "streets": "BATOOLALL ROAD, LA TOUR ROAD ET SHIVALA ROAD, ROCHE TERRE",
