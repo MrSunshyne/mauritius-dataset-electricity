@@ -1,9 +1,19 @@
 {
   "date": "2026-04-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-31T08:18:08.900Z",
-  "outageCount": 4,
+  "generated": "2026-03-31T09:19:53.573Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le mercredi 1 avril 2026 de  09:00:00 à  17:30:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Ave Sister Marie Clemence, Ave Fareed Muttur, Ave Dr Piarroux et les environs",
+      "district": "plainewilhems",
+      "from": "2026-04-01T05:00:00.000Z",
+      "to": "2026-04-01T13:30:00.000Z",
+      "id": "f9d5b159f59a781151ac7ab1f18d3d19"
+    },
     {
       "date": "Le mercredi 1 avril 2026 de  09:30:00 à  15:30:00",
       "locality": "MORC RAFFRAY GUIBIES",
