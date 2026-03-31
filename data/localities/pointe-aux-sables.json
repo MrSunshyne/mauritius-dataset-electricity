@@ -2,11 +2,18 @@
   "slug": "pointe-aux-sables",
   "name": "POINTE AUX SABLES",
   "district": "portlouis",
-  "generated": "2026-03-31T09:19:53.843Z",
-  "outageCount": 133,
+  "generated": "2026-03-31T10:17:50.384Z",
+  "outageCount": 134,
   "firstOutage": "2022-03-30",
-  "lastOutage": "2026-03-15",
+  "lastOutage": "2026-03-31",
   "outages": [
+    {
+      "date": "Le mardi 31 mars 2026 de  13:30:00 à  17:00:00",
+      "streets": "DANS LES ALENTOURS DE VERGER MANGUE ET CENTRE VIEILESSE",
+      "from": "2026-03-31T09:30:00.000Z",
+      "to": "2026-03-31T13:00:00.000Z",
+      "id": "605eee58e87a67ed7e9e165e1b3f150e"
+    },
     {
       "date": "Le dimanche 15 mars 2026 de  08:30:00 à  15:00:00",
       "streets": "LES ABONNES DE MORC VRS ET MORC SAGITAIRE POINTE AUX SABLES HABITANT DANS LES ENVIRONS DES AVENUES BIBASSIERS, BOIGAMOTIERS, BANANIERS, CITRONNIERS, FIGUIERS, COCOTIERS, CERISIERS, CHATAIGNIERS, GOYAVIERS, GRENADIERS, DATTIERS, JACQUIERS, LITCHIERS, MURIERS, TAMARINIERS, NOISETIERS ET ORANGERS",
