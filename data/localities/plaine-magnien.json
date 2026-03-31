@@ -2,11 +2,18 @@
   "slug": "plaine-magnien",
   "name": "PLAINE MAGNIEN",
   "district": "grandport",
-  "generated": "2026-03-31T11:15:20.873Z",
-  "outageCount": 57,
+  "generated": "2026-03-31T12:11:54.224Z",
+  "outageCount": 58,
   "firstOutage": "2022-06-08",
-  "lastOutage": "2026-03-29",
+  "lastOutage": "2026-04-02",
   "outages": [
+    {
+      "date": "Le jeudi 2 avril 2026 de  09:00:00 à  15:00:00",
+      "streets": "Morcellement Mon Desert Sugar Estate Plaine Magnien habitant dans le périmètre et les rues suivantes: Anthurium Street, Mimosa Hortensia Street, Lilas Street, Frangipane Street et Glaieul Street Plaine Magnien",
+      "from": "2026-04-02T05:00:00.000Z",
+      "to": "2026-04-02T11:00:00.000Z",
+      "id": "d9de186a094f173167781cebe3848083"
+    },
     {
       "date": "Le dimanche 29 mars 2026 de  13:40:00 à  16:00:00",
       "streets": "CHEMIN MON DESIR ET LES ALENTOURS",
