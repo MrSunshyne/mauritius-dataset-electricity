@@ -2,11 +2,18 @@
   "slug": "gros-bois",
   "name": "GROS BOIS",
   "district": "grandport",
-  "generated": "2026-03-30T18:13:56.994Z",
-  "outageCount": 7,
+  "generated": "2026-03-31T06:23:37.820Z",
+  "outageCount": 8,
   "firstOutage": "2022-03-17",
-  "lastOutage": "2026-02-19",
+  "lastOutage": "2026-03-31",
   "outages": [
+    {
+      "date": "Le mardi 31 mars 2026 de  09:15:00 à  12:00:00",
+      "streets": "Verger de Gros Bois Zone A",
+      "from": "2026-03-31T05:15:00.000Z",
+      "to": "2026-03-31T08:00:00.000Z",
+      "id": "6ee6987ee0a6517834bbffc7fa92829b"
+    },
     {
       "date": "Le jeudi 19 février 2026 de  10:00:00 à  13:00:00",
       "streets": "GROS BOIS VERGER BLK A",

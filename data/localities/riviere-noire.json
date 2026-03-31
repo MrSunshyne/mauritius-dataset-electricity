@@ -2,11 +2,18 @@
   "slug": "riviere-noire",
   "name": "RIVIERE NOIRE",
   "district": "blackriver",
-  "generated": "2026-03-30T18:13:57.129Z",
-  "outageCount": 44,
+  "generated": "2026-03-31T06:23:37.965Z",
+  "outageCount": 45,
   "firstOutage": "2022-06-03",
-  "lastOutage": "2026-03-18",
+  "lastOutage": "2026-03-31",
   "outages": [
+    {
+      "date": "Le mardi 31 mars 2026 de  09:50:00 à  12:00:00",
+      "streets": "Morc Ramdanee & Morc Seneville",
+      "from": "2026-03-31T05:50:00.000Z",
+      "to": "2026-03-31T08:00:00.000Z",
+      "id": "e82293a62764b501ad5bad1c5d6e4236"
+    },
     {
       "date": "Le mercredi 18 mars 2026 de  22:00:00 à  01:30:00",
       "streets": "LA BALISE TAMARIN.RIVEIRE NOIRE",

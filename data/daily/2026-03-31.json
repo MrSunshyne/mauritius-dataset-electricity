@@ -1,0 +1,38 @@
+{
+  "date": "2026-03-31",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-03-31T06:23:37.661Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mardi 31 mars 2026 de  09:50:00 à  12:00:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "Morc Ramdanee & Morc Seneville",
+      "district": "blackriver",
+      "from": "2026-03-31T05:50:00.000Z",
+      "to": "2026-03-31T08:00:00.000Z",
+      "id": "e82293a62764b501ad5bad1c5d6e4236"
+    },
+    {
+      "date": "Le mardi 31 mars 2026 de  09:15:00 à  12:00:00",
+      "locality": "GROS BOIS",
+      "localitySlug": "gros-bois",
+      "streets": "Verger de Gros Bois Zone A",
+      "district": "grandport",
+      "from": "2026-03-31T05:15:00.000Z",
+      "to": "2026-03-31T08:00:00.000Z",
+      "id": "6ee6987ee0a6517834bbffc7fa92829b"
+    },
+    {
+      "date": "Le mardi 31 mars 2026 de  09:00:00 à  12:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "CASA FLORIDA",
+      "district": "rivieredurempart",
+      "from": "2026-03-31T05:00:00.000Z",
+      "to": "2026-03-31T08:00:00.000Z",
+      "id": "97a3741bd113fc9e4ef3fbf16312deb1"
+    }
+  ]
+}

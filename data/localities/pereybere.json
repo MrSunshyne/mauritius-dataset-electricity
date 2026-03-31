@@ -2,11 +2,18 @@
   "slug": "pereybere",
   "name": "PEREYBERE",
   "district": "rivieredurempart",
-  "generated": "2026-03-30T18:13:57.072Z",
-  "outageCount": 100,
+  "generated": "2026-03-31T06:23:37.904Z",
+  "outageCount": 101,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-03-18",
+  "lastOutage": "2026-03-31",
   "outages": [
+    {
+      "date": "Le mardi 31 mars 2026 de  09:00:00 à  12:00:00",
+      "streets": "CASA FLORIDA",
+      "from": "2026-03-31T05:00:00.000Z",
+      "to": "2026-03-31T08:00:00.000Z",
+      "id": "97a3741bd113fc9e4ef3fbf16312deb1"
+    },
     {
       "date": "Le mercredi 18 mars 2026 de  08:30:00 à  17:00:00",
       "streets": "20 PIEDS ROAD GRAND BAY AND OLD MILL ROAD & MORC SWAN-COASTAL ROAD PEREYBERE",
