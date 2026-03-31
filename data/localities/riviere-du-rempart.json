@@ -2,11 +2,18 @@
   "slug": "riviere-du-rempart",
   "name": "RIVIERE DU REMPART",
   "district": "rivieredurempart",
-  "generated": "2026-03-31T13:28:28.123Z",
-  "outageCount": 54,
+  "generated": "2026-03-31T14:27:59.342Z",
+  "outageCount": 55,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-03-20",
+  "lastOutage": "2026-03-31",
   "outages": [
+    {
+      "date": "Le mardi 31 mars 2026 de  17:00:00 à  21:30:00",
+      "streets": "CITE CIM EN FACE KALACHAND.",
+      "from": "2026-03-31T13:00:00.000Z",
+      "to": "2026-03-31T17:30:00.000Z",
+      "id": "2e39d0abdc60c952b44daea547fc6b44"
+    },
     {
       "date": "Le vendredi 20 mars 2026 de  10:00:00 à  12:30:00",
       "streets": "JUGNAUTH ROAD RIVIERE DU REMPART",

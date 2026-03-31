@@ -1,8 +1,8 @@
 {
   "date": "2026-03-31",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-31T13:28:27.818Z",
-  "outageCount": 4,
+  "generated": "2026-03-31T14:27:59.009Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le mardi 31 mars 2026 de  09:50:00 à  12:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-03-31T05:00:00.000Z",
       "to": "2026-03-31T08:00:00.000Z",
       "id": "97a3741bd113fc9e4ef3fbf16312deb1"
+    },
+    {
+      "date": "Le mardi 31 mars 2026 de  17:00:00 à  21:30:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "CITE CIM EN FACE KALACHAND.",
+      "district": "rivieredurempart",
+      "from": "2026-03-31T13:00:00.000Z",
+      "to": "2026-03-31T17:30:00.000Z",
+      "id": "2e39d0abdc60c952b44daea547fc6b44"
     }
   ]
 }
