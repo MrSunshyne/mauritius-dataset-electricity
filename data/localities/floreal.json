@@ -2,11 +2,18 @@
   "slug": "floreal",
   "name": "FLOREAL",
   "district": "plainewilhems",
-  "generated": "2026-04-01T06:28:54.638Z",
-  "outageCount": 86,
+  "generated": "2026-04-01T07:28:21.986Z",
+  "outageCount": 87,
   "firstOutage": "2022-03-31",
   "lastOutage": "2026-04-01",
   "outages": [
+    {
+      "date": "Le mercredi 1 avril 2026 de  10:45:00 à  13:00:00",
+      "streets": "FLAT LEVIEUX, EDOUARD DE BURGH LANE, NEAR POLICE STATION",
+      "from": "2026-04-01T06:45:00.000Z",
+      "to": "2026-04-01T09:00:00.000Z",
+      "id": "c8ce95d5d865c8931da3b9469a544e5b"
+    },
     {
       "date": "Le mercredi 1 avril 2026 de  09:00:00 à  12:00:00",
       "streets": "Dairy Lane, une partie de Jorry Lane, Une partie de Royal Road Floreal et une partie DErnest Harel street",

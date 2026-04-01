@@ -1,8 +1,8 @@
 {
   "date": "2026-04-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-01T06:28:54.492Z",
-  "outageCount": 8,
+  "generated": "2026-04-01T07:28:21.844Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le mercredi 1 avril 2026 de  09:00:00 à  17:30:00",
@@ -25,6 +25,16 @@
       "id": "cafd79a04df6a06ac914e70080f938a7"
     },
     {
+      "date": "Le mercredi 1 avril 2026 de  10:45:00 à  13:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "FLAT LEVIEUX, EDOUARD DE BURGH LANE, NEAR POLICE STATION",
+      "district": "plainewilhems",
+      "from": "2026-04-01T06:45:00.000Z",
+      "to": "2026-04-01T09:00:00.000Z",
+      "id": "c8ce95d5d865c8931da3b9469a544e5b"
+    },
+    {
       "date": "Le mercredi 1 avril 2026 de  09:30:00 à  15:30:00",
       "locality": "MORC RAFFRAY GUIBIES",
       "localitySlug": "morc-raffray-guibies",
@@ -35,14 +45,14 @@
       "id": "ad3a1b8fd2f5b7a2480cc586301c1aea"
     },
     {
-      "date": "Le mercredi 1 avril 2026 de  10:00:00 à  12:00:00",
+      "date": "Le mercredi 1 avril 2026 de  10:00:00 à  14:00:00",
       "locality": "POINTE AUX SABLES",
       "localitySlug": "pointe-aux-sables",
       "streets": "RESIDENCE COQUILLAGE",
       "district": "portlouis",
       "from": "2026-04-01T06:00:00.000Z",
-      "to": "2026-04-01T08:00:00.000Z",
-      "id": "be7decc3dc91af9da4920bc0825e6f70"
+      "to": "2026-04-01T10:00:00.000Z",
+      "id": "e1dac8d607bb27d4c597c4bd8de97a0d"
     },
     {
       "date": "Le mercredi 1 avril 2026 de  08:30:00 à  15:30:00",
