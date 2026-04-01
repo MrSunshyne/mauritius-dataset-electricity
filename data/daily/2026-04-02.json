@@ -1,8 +1,8 @@
 {
   "date": "2026-04-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-01T07:28:21.844Z",
-  "outageCount": 3,
+  "generated": "2026-04-01T08:22:55.698Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le jeudi 2 avril 2026 de  09:00:00 à  15:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-04-02T09:00:00.000Z",
       "to": "2026-04-02T11:00:00.000Z",
       "id": "6ff0d0688d4aad0220cfe3d622c4e708"
+    },
+    {
+      "date": "Le jeudi 2 avril 2026 de  08:30:00 à  15:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave Dansant, S. V. Murugan et les environs",
+      "district": "plainewilhems",
+      "from": "2026-04-02T04:30:00.000Z",
+      "to": "2026-04-02T11:00:00.000Z",
+      "id": "0cb68c7f985fcceeb5fd450f3ee64f87"
     }
   ]
 }

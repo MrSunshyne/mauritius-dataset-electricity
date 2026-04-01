@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-04-01T07:28:22.129Z",
-  "outageCount": 362,
+  "generated": "2026-04-01T08:22:55.982Z",
+  "outageCount": 363,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-03-28",
+  "lastOutage": "2026-04-02",
   "outages": [
+    {
+      "date": "Le jeudi 2 avril 2026 de  08:30:00 à  15:00:00",
+      "streets": "Ave Dansant, S. V. Murugan et les environs",
+      "from": "2026-04-02T04:30:00.000Z",
+      "to": "2026-04-02T11:00:00.000Z",
+      "id": "0cb68c7f985fcceeb5fd450f3ee64f87"
+    },
     {
       "date": "Le samedi 28 mars 2026 de  14:00:00 à  15:00:00",
       "streets": "Labourdonnais, Stevenson, Murphy, Darwin, Summertime, Odette Ernest et en partie Ave Naz, Berthaud, Route Royale Paloma et Filling Total",
