@@ -2,11 +2,18 @@
   "slug": "fond-du-sac",
   "name": "FOND DU SAC",
   "district": "pamplemousses",
-  "generated": "2026-04-01T09:22:02.763Z",
-  "outageCount": 39,
+  "generated": "2026-04-01T10:18:11.922Z",
+  "outageCount": 40,
   "firstOutage": "2022-06-16",
-  "lastOutage": "2026-01-30",
+  "lastOutage": "2026-04-01",
   "outages": [
+    {
+      "date": "Le mercredi 1 avril 2026 de  15:00:00 à  17:00:00",
+      "streets": "Fond Du Sac",
+      "from": "2026-04-01T11:00:00.000Z",
+      "to": "2026-04-01T13:00:00.000Z",
+      "id": "ef8f7c31a8857b2472e28af7ecb2b613"
+    },
     {
       "date": "Le vendredi 30 janvier 2026 de  07:00:00 à  10:00:00",
       "streets": "SOOBASH CHANDRA BOSE STREET AND SURROUNDINGS",

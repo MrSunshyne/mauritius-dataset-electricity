@@ -1,9 +1,19 @@
 {
   "date": "2026-04-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-01T09:22:02.611Z",
-  "outageCount": 9,
+  "generated": "2026-04-01T10:18:11.776Z",
+  "outageCount": 10,
   "outages": [
+    {
+      "date": "Le mercredi 1 avril 2026 de  15:00:00 à  17:00:00",
+      "locality": "FOND DU SAC",
+      "localitySlug": "fond-du-sac",
+      "streets": "Fond Du Sac",
+      "district": "pamplemousses",
+      "from": "2026-04-01T11:00:00.000Z",
+      "to": "2026-04-01T13:00:00.000Z",
+      "id": "ef8f7c31a8857b2472e28af7ecb2b613"
+    },
     {
       "date": "Le mercredi 1 avril 2026 de  09:00:00 à  17:30:00",
       "locality": "ROSE-HILL",
