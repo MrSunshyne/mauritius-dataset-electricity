@@ -2,11 +2,18 @@
   "slug": "bambous",
   "name": "BAMBOUS",
   "district": "blackriver",
-  "generated": "2026-04-01T13:28:24.954Z",
-  "outageCount": 113,
+  "generated": "2026-04-01T14:28:29.033Z",
+  "outageCount": 114,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-03-27",
+  "lastOutage": "2026-04-01",
   "outages": [
+    {
+      "date": "Le mercredi 1 avril 2026 de  17:30:00 à  18:00:00",
+      "streets": "CITE LAFERME BAMBOUS",
+      "from": "2026-04-01T13:30:00.000Z",
+      "to": "2026-04-01T14:00:00.000Z",
+      "id": "0df683450eecbb0b0699b3e06fba8725"
+    },
     {
       "date": "Le vendredi 27 mars 2026 de  08:30:00 à  15:30:00",
       "streets": "Allée Tamarin, Ave Boundary, Ave Belle Isle, Ave des Manguiers et Ave des Brigands",
