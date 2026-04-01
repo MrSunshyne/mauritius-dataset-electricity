@@ -2,11 +2,18 @@
   "slug": "mahebourg",
   "name": "MAHEBOURG",
   "district": "grandport",
-  "generated": "2026-04-01T16:16:05.307Z",
-  "outageCount": 72,
+  "generated": "2026-04-01T17:15:32.718Z",
+  "outageCount": 73,
   "firstOutage": "2022-04-07",
-  "lastOutage": "2026-03-29",
+  "lastOutage": "2026-04-01",
   "outages": [
+    {
+      "date": "Le mercredi 1 avril 2026 de  20:00:00 à  00:30:00",
+      "streets": "MAHEBOURGH,VILLE NOIRE ,PETIT BEL AIR",
+      "from": "2026-04-01T16:00:00.000Z",
+      "to": "2026-03-31T20:30:00.000Z",
+      "id": "01d2b8ce95de74a74ad4c389880abd25"
+    },
     {
       "date": "Le dimanche 29 mars 2026 de  15:00:00 à  22:00:00",
       "streets": "OFFRET LANE-GOORDIN LANE  MAHEBOURG",
