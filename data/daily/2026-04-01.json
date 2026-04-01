@@ -1,9 +1,19 @@
 {
   "date": "2026-04-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-01T10:18:11.776Z",
-  "outageCount": 10,
+  "generated": "2026-04-01T11:17:17.630Z",
+  "outageCount": 11,
   "outages": [
+    {
+      "date": "Le mercredi 1 avril 2026 de  15:00:00 à  17:00:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "LE VILLAGE DE TAMARIN.",
+      "district": "blackriver",
+      "from": "2026-04-01T11:00:00.000Z",
+      "to": "2026-04-01T13:00:00.000Z",
+      "id": "f8c72452c1ea0188f3b5de65388c6b40"
+    },
     {
       "date": "Le mercredi 1 avril 2026 de  15:00:00 à  17:00:00",
       "locality": "FOND DU SAC",
