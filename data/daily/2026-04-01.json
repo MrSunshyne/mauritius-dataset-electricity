@@ -1,8 +1,8 @@
 {
   "date": "2026-04-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-31T18:13:42.681Z",
-  "outageCount": 5,
+  "generated": "2026-04-01T06:28:54.492Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le mercredi 1 avril 2026 de  09:00:00 à  17:30:00",
@@ -15,6 +15,16 @@
       "id": "f9d5b159f59a781151ac7ab1f18d3d19"
     },
     {
+      "date": "Le mercredi 1 avril 2026 de  09:00:00 à  12:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "Dairy Lane, une partie de Jorry Lane, Une partie de Royal Road Floreal et une partie DErnest Harel street",
+      "district": "plainewilhems",
+      "from": "2026-04-01T05:00:00.000Z",
+      "to": "2026-04-01T08:00:00.000Z",
+      "id": "cafd79a04df6a06ac914e70080f938a7"
+    },
+    {
       "date": "Le mercredi 1 avril 2026 de  09:30:00 à  15:30:00",
       "locality": "MORC RAFFRAY GUIBIES",
       "localitySlug": "morc-raffray-guibies",
@@ -23,6 +33,16 @@
       "from": "2026-04-01T05:30:00.000Z",
       "to": "2026-04-01T11:30:00.000Z",
       "id": "ad3a1b8fd2f5b7a2480cc586301c1aea"
+    },
+    {
+      "date": "Le mercredi 1 avril 2026 de  10:00:00 à  12:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "RESIDENCE COQUILLAGE",
+      "district": "portlouis",
+      "from": "2026-04-01T06:00:00.000Z",
+      "to": "2026-04-01T08:00:00.000Z",
+      "id": "be7decc3dc91af9da4920bc0825e6f70"
     },
     {
       "date": "Le mercredi 1 avril 2026 de  08:30:00 à  15:30:00",
@@ -53,6 +73,16 @@
       "from": "2026-04-01T04:30:00.000Z",
       "to": "2026-04-01T11:30:00.000Z",
       "id": "6c0329f23cdc7cee86bf884bc6320095"
+    },
+    {
+      "date": "Le mercredi 1 avril 2026 de  10:00:00 à  13:30:00",
+      "locality": "BAIN BOEUF",
+      "localitySlug": "bain-boeuf",
+      "streets": "BALA LANE, KALIMAYE LANE AND SURROUNDINGS",
+      "district": "rivieredurempart",
+      "from": "2026-04-01T06:00:00.000Z",
+      "to": "2026-04-01T09:30:00.000Z",
+      "id": "81f81b838f4d9d79839dc7a06495c9bd"
     }
   ]
 }

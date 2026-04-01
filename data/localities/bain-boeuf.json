@@ -2,11 +2,18 @@
   "slug": "bain-boeuf",
   "name": "BAIN BOEUF",
   "district": "rivieredurempart",
-  "generated": "2026-03-31T18:13:42.709Z",
-  "outageCount": 19,
+  "generated": "2026-04-01T06:28:54.520Z",
+  "outageCount": 20,
   "firstOutage": "2022-07-14",
-  "lastOutage": "2025-08-15",
+  "lastOutage": "2026-04-01",
   "outages": [
+    {
+      "date": "Le mercredi 1 avril 2026 de  10:00:00 à  13:30:00",
+      "streets": "BALA LANE, KALIMAYE LANE AND SURROUNDINGS",
+      "from": "2026-04-01T06:00:00.000Z",
+      "to": "2026-04-01T09:30:00.000Z",
+      "id": "81f81b838f4d9d79839dc7a06495c9bd"
+    },
     {
       "date": "Le vendredi 15 août 2025 de  09:15:00 à  10:30:00",
       "streets": "MACUMBA",

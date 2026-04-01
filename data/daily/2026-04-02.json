@@ -1,8 +1,8 @@
 {
   "date": "2026-04-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-03-31T18:13:42.681Z",
-  "outageCount": 1,
+  "generated": "2026-04-01T06:28:54.492Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le jeudi 2 avril 2026 de  09:00:00 à  15:00:00",
@@ -13,6 +13,26 @@
       "from": "2026-04-02T05:00:00.000Z",
       "to": "2026-04-02T11:00:00.000Z",
       "id": "d9de186a094f173167781cebe3848083"
+    },
+    {
+      "date": "Le jeudi 2 avril 2026 de  09:00:00 à  15:00:00",
+      "locality": "SOLFERINO",
+      "localitySlug": "solferino",
+      "streets": "une partie de Solférino 5.",
+      "district": "plainewilhems",
+      "from": "2026-04-02T05:00:00.000Z",
+      "to": "2026-04-02T11:00:00.000Z",
+      "id": "d34ce5596ef5be95697b6d0a5df36302"
+    },
+    {
+      "date": "Le jeudi 2 avril 2026 de  13:00:00 à  15:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "une partie de Route Royal phoenix",
+      "district": "plainewilhems",
+      "from": "2026-04-02T09:00:00.000Z",
+      "to": "2026-04-02T11:00:00.000Z",
+      "id": "6ff0d0688d4aad0220cfe3d622c4e708"
     }
   ]
 }

@@ -2,11 +2,18 @@
   "slug": "phoenix",
   "name": "PHOENIX",
   "district": "plainewilhems",
-  "generated": "2026-03-31T18:13:42.941Z",
-  "outageCount": 97,
+  "generated": "2026-04-01T06:28:54.759Z",
+  "outageCount": 98,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-03-25",
+  "lastOutage": "2026-04-02",
   "outages": [
+    {
+      "date": "Le jeudi 2 avril 2026 de  13:00:00 à  15:00:00",
+      "streets": "une partie de Route Royal phoenix",
+      "from": "2026-04-02T09:00:00.000Z",
+      "to": "2026-04-02T11:00:00.000Z",
+      "id": "6ff0d0688d4aad0220cfe3d622c4e708"
+    },
     {
       "date": "Le mercredi 25 mars 2026 de  17:15:00 à  21:00:00",
       "streets": "Part of Phoenix Industrial Zone, part of Valentina, Petit Camp, Parkside Appartment, Le Meritt Appartment, Flat Jet Seven & part of Phoenix (Shrila Prabhupada Street & Les Halles)",
