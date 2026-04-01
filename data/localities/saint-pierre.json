@@ -2,11 +2,18 @@
   "slug": "saint-pierre",
   "name": "SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-04-01T11:17:17.951Z",
-  "outageCount": 63,
+  "generated": "2026-04-01T12:11:48.927Z",
+  "outageCount": 64,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-03-22",
+  "lastOutage": "2026-04-01",
   "outages": [
+    {
+      "date": "Le mercredi 1 avril 2026 de  15:30:00 à  17:00:00",
+      "streets": "ROYAL ROAD UP TILL MOSQUE, SCHOOL LANE AND THE SURROUNDINGS.",
+      "from": "2026-04-01T11:30:00.000Z",
+      "to": "2026-04-01T13:00:00.000Z",
+      "id": "351a13348503b4b8ebcd9b5b2c6fdde3"
+    },
     {
       "date": "Le dimanche 22 mars 2026 de  08:30:00 à  15:00:00",
       "streets": "Zone Industrielle, Plastinax, Panache et Associated Textile",

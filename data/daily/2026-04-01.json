@@ -1,8 +1,8 @@
 {
   "date": "2026-04-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-01T11:17:17.630Z",
-  "outageCount": 11,
+  "generated": "2026-04-01T12:11:48.622Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le mercredi 1 avril 2026 de  15:00:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-04-01T11:00:00.000Z",
       "to": "2026-04-01T13:00:00.000Z",
       "id": "f8c72452c1ea0188f3b5de65388c6b40"
+    },
+    {
+      "date": "Le mercredi 1 avril 2026 de  15:30:00 à  17:00:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "ROYAL ROAD UP TILL MOSQUE, SCHOOL LANE AND THE SURROUNDINGS.",
+      "district": "moka",
+      "from": "2026-04-01T11:30:00.000Z",
+      "to": "2026-04-01T13:00:00.000Z",
+      "id": "351a13348503b4b8ebcd9b5b2c6fdde3"
     },
     {
       "date": "Le mercredi 1 avril 2026 de  15:00:00 à  17:00:00",
