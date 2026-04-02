@@ -2,11 +2,18 @@
   "slug": "albion",
   "name": "ALBION",
   "district": "blackriver",
-  "generated": "2026-04-02T11:14:27.595Z",
-  "outageCount": 107,
+  "generated": "2026-04-02T12:11:59.016Z",
+  "outageCount": 108,
   "firstOutage": "2022-06-06",
   "lastOutage": "2026-04-02",
   "outages": [
+    {
+      "date": "Le jeudi 2 avril 2026 de  15:00:00 à  16:00:00",
+      "streets": "EN PARTIE MORC DE CHAZAL ALBION, AVE EMPEREUR, AVE MULET, AVE BARACUDA, AVE MARLIN, AVE EMPEREUR, FISHRIES ALBION ET LES ENVIRONS",
+      "from": "2026-04-02T11:00:00.000Z",
+      "to": "2026-04-02T12:00:00.000Z",
+      "id": "843f719f1bda6e959c748e08dfa06089"
+    },
     {
       "date": "Le jeudi 2 avril 2026 de  14:00:00 à  15:00:00",
       "streets": "EN PARTIE MORC DE CHAZAL ALBION, AVE EMPEREUR, AVE MULET, AVE BARACUDA, AVE MARLIN, AVE EMPEREUR, FISHRIES ALBION ET LES ENVIRONS",

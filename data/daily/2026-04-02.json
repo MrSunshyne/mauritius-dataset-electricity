@@ -1,8 +1,8 @@
 {
   "date": "2026-04-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-02T11:14:27.577Z",
-  "outageCount": 9,
+  "generated": "2026-04-02T12:11:58.999Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le jeudi 2 avril 2026 de  14:00:00 à  15:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-04-01T20:00:00.000Z",
       "to": "2026-04-01T03:00:00.000Z",
       "id": "fcc59354f973640e77cc7be19e28ae6e"
+    },
+    {
+      "date": "Le jeudi 2 avril 2026 de  15:00:00 à  16:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "EN PARTIE MORC DE CHAZAL ALBION, AVE EMPEREUR, AVE MULET, AVE BARACUDA, AVE MARLIN, AVE EMPEREUR, FISHRIES ALBION ET LES ENVIRONS",
+      "district": "blackriver",
+      "from": "2026-04-02T11:00:00.000Z",
+      "to": "2026-04-02T12:00:00.000Z",
+      "id": "843f719f1bda6e959c748e08dfa06089"
     },
     {
       "date": "Le jeudi 2 avril 2026 de  09:00:00 à  15:00:00",
