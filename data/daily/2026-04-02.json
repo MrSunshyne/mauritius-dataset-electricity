@@ -1,9 +1,39 @@
 {
   "date": "2026-04-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-01T18:12:16.726Z",
-  "outageCount": 4,
+  "generated": "2026-04-02T06:20:52.364Z",
+  "outageCount": 9,
   "outages": [
+    {
+      "date": "Le jeudi 2 avril 2026 de  14:00:00 à  15:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "EN PARTIE MORC DE CHAZAL ALBION, AVE EMPEREUR, AVE MULET, AVE BARACUDA, AVE MARLIN, AVE EMPEREUR, FISHRIES ALBION ET LES ENVIRONS",
+      "district": "blackriver",
+      "from": "2026-04-02T10:00:00.000Z",
+      "to": "2026-04-02T11:00:00.000Z",
+      "id": "922b837c717f25c15b274c5a001c78d0"
+    },
+    {
+      "date": "Le jeudi 2 avril 2026 de  08:30:00 à  09:30:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "EN PARTIE MORC DE CHAZAL ALBION, AVE EMPEREUR, AVE MULET, AVE BARACUDA, AVE MARLIN, AVE EMPEREUR, FISHRIES ALBION ET LES ENVIRONS",
+      "district": "blackriver",
+      "from": "2026-04-02T04:30:00.000Z",
+      "to": "2026-04-02T05:30:00.000Z",
+      "id": "e1900c69641fb5a9c50aadf6659dbe3d"
+    },
+    {
+      "date": "Le jeudi 2 avril 2026 de  00:00:00 à  07:00:00",
+      "locality": "CHAMAREL",
+      "localitySlug": "chamarel",
+      "streets": "VARANGUE SUR MONDE PLAINE CHAMPAGNE",
+      "district": "blackriver",
+      "from": "2026-04-01T20:00:00.000Z",
+      "to": "2026-04-01T03:00:00.000Z",
+      "id": "fcc59354f973640e77cc7be19e28ae6e"
+    },
     {
       "date": "Le jeudi 2 avril 2026 de  09:00:00 à  15:00:00",
       "locality": "PLAINE MAGNIEN",
@@ -43,6 +73,26 @@
       "from": "2026-04-02T04:30:00.000Z",
       "to": "2026-04-02T11:00:00.000Z",
       "id": "0cb68c7f985fcceeb5fd450f3ee64f87"
+    },
+    {
+      "date": "Le jeudi 2 avril 2026 de  09:00:00 à  14:00:00",
+      "locality": "WOOTUN",
+      "localitySlug": "wootun",
+      "streets": "dans les environs de LImpasse Ramjeeawon et Tout Court Road",
+      "district": "plainewilhems",
+      "from": "2026-04-02T05:00:00.000Z",
+      "to": "2026-04-02T10:00:00.000Z",
+      "id": "e24abc8bc556719bd631ffd5ef3b8fab"
+    },
+    {
+      "date": "Le jeudi 2 avril 2026 de  09:00:00 à  12:00:00",
+      "locality": "PLAINE DES ROCHES",
+      "localitySlug": "plaine-des-roches",
+      "streets": "UPPER PLAINES DE ROCHES AFTER SCHOOL VER LAVENTURE",
+      "district": "rivieredurempart",
+      "from": "2026-04-02T05:00:00.000Z",
+      "to": "2026-04-02T08:00:00.000Z",
+      "id": "986304910be44081f105fc279d1f7fda"
     }
   ]
 }

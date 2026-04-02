@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-01T18:12:17.096Z",
+  "generated": "2026-04-02T06:20:52.745Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -25,10 +25,10 @@
       "slug": "albion",
       "name": "ALBION",
       "district": "blackriver",
-      "outageCount": 105,
+      "outageCount": 107,
       "file": "albion.json",
       "firstOutage": "2022-06-06",
-      "lastOutage": "2026-03-13"
+      "lastOutage": "2026-04-02"
     },
     {
       "slug": "allee-brillant-castel",
@@ -979,10 +979,10 @@
       "slug": "cassis",
       "name": "CASSIS",
       "district": "portlouis",
-      "outageCount": 37,
+      "outageCount": 38,
       "file": "cassis.json",
       "firstOutage": "2022-04-12",
-      "lastOutage": "2026-02-19"
+      "lastOutage": "2026-04-04"
     },
     {
       "slug": "castel-vacoas",
@@ -1015,10 +1015,10 @@
       "slug": "chamarel",
       "name": "CHAMAREL",
       "district": "blackriver",
-      "outageCount": 36,
+      "outageCount": 37,
       "file": "chamarel.json",
       "firstOutage": "2022-03-24",
-      "lastOutage": "2026-04-01"
+      "lastOutage": "2026-04-02"
     },
     {
       "slug": "chamouny",
@@ -2932,10 +2932,10 @@
       "slug": "plaine-des-roches",
       "name": "PLAINE DES ROCHES",
       "district": "rivieredurempart",
-      "outageCount": 33,
+      "outageCount": 34,
       "file": "plaine-des-roches.json",
       "firstOutage": "2022-04-24",
-      "lastOutage": "2026-03-15"
+      "lastOutage": "2026-04-02"
     },
     {
       "slug": "plaine-lauzun",
@@ -4111,10 +4111,10 @@
       "slug": "wootun",
       "name": "WOOTUN",
       "district": "plainewilhems",
-      "outageCount": 24,
+      "outageCount": 25,
       "file": "wootun.json",
       "firstOutage": "2022-08-05",
-      "lastOutage": "2026-03-10"
+      "lastOutage": "2026-04-02"
     },
     {
       "slug": "xavier",

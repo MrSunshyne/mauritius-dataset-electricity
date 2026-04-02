@@ -2,11 +2,18 @@
   "slug": "plaine-des-roches",
   "name": "PLAINE DES ROCHES",
   "district": "rivieredurempart",
-  "generated": "2026-04-01T18:12:16.988Z",
-  "outageCount": 33,
+  "generated": "2026-04-02T06:20:52.633Z",
+  "outageCount": 34,
   "firstOutage": "2022-04-24",
-  "lastOutage": "2026-03-15",
+  "lastOutage": "2026-04-02",
   "outages": [
+    {
+      "date": "Le jeudi 2 avril 2026 de  09:00:00 à  12:00:00",
+      "streets": "UPPER PLAINES DE ROCHES AFTER SCHOOL VER LAVENTURE",
+      "from": "2026-04-02T05:00:00.000Z",
+      "to": "2026-04-02T08:00:00.000Z",
+      "id": "986304910be44081f105fc279d1f7fda"
+    },
     {
       "date": "Le dimanche 15 mars 2026 de  08:30:00 à  15:00:00",
       "streets": "ROUTE ROYALE PLAINES DES ROCHES AUX ALENTOURS DE MANGUE BLANC",

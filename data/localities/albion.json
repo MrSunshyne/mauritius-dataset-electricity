@@ -2,11 +2,25 @@
   "slug": "albion",
   "name": "ALBION",
   "district": "blackriver",
-  "generated": "2026-04-01T18:12:16.744Z",
-  "outageCount": 105,
+  "generated": "2026-04-02T06:20:52.381Z",
+  "outageCount": 107,
   "firstOutage": "2022-06-06",
-  "lastOutage": "2026-03-13",
+  "lastOutage": "2026-04-02",
   "outages": [
+    {
+      "date": "Le jeudi 2 avril 2026 de  14:00:00 à  15:00:00",
+      "streets": "EN PARTIE MORC DE CHAZAL ALBION, AVE EMPEREUR, AVE MULET, AVE BARACUDA, AVE MARLIN, AVE EMPEREUR, FISHRIES ALBION ET LES ENVIRONS",
+      "from": "2026-04-02T10:00:00.000Z",
+      "to": "2026-04-02T11:00:00.000Z",
+      "id": "922b837c717f25c15b274c5a001c78d0"
+    },
+    {
+      "date": "Le jeudi 2 avril 2026 de  08:30:00 à  09:30:00",
+      "streets": "EN PARTIE MORC DE CHAZAL ALBION, AVE EMPEREUR, AVE MULET, AVE BARACUDA, AVE MARLIN, AVE EMPEREUR, FISHRIES ALBION ET LES ENVIRONS",
+      "from": "2026-04-02T04:30:00.000Z",
+      "to": "2026-04-02T05:30:00.000Z",
+      "id": "e1900c69641fb5a9c50aadf6659dbe3d"
+    },
     {
       "date": "Le vendredi 13 mars 2026 de  09:45:00 à  11:00:00",
       "streets": "AVE MERLE, ALOUETTE, DALIAH & SURROUNDINGS",

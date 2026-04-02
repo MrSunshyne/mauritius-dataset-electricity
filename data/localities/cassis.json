@@ -2,11 +2,18 @@
   "slug": "cassis",
   "name": "CASSIS",
   "district": "portlouis",
-  "generated": "2026-04-01T18:12:16.822Z",
-  "outageCount": 37,
+  "generated": "2026-04-02T06:20:52.461Z",
+  "outageCount": 38,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-02-19",
+  "lastOutage": "2026-04-04",
   "outages": [
+    {
+      "date": "Le samedi 4 avril 2026 de  08:30:00 à  11:30:00",
+      "streets": "DANS LES ENVIRONS DES RUES KWAN TEE, EUGENE ET UNE PARTIE DE RESERVES",
+      "from": "2026-04-04T04:30:00.000Z",
+      "to": "2026-04-04T07:30:00.000Z",
+      "id": "1f8982a9d67b22f31e32343088ed3c8a"
+    },
     {
       "date": "Le jeudi 19 février 2026 de  14:20:00 à  15:30:00",
       "streets": "MENAGERIE RD AND SURROUNDINGS",

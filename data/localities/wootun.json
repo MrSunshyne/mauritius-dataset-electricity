@@ -2,11 +2,18 @@
   "slug": "wootun",
   "name": "WOOTUN",
   "district": "plainewilhems",
-  "generated": "2026-04-01T18:12:17.094Z",
-  "outageCount": 24,
+  "generated": "2026-04-02T06:20:52.743Z",
+  "outageCount": 25,
   "firstOutage": "2022-08-05",
-  "lastOutage": "2026-03-10",
+  "lastOutage": "2026-04-02",
   "outages": [
+    {
+      "date": "Le jeudi 2 avril 2026 de  09:00:00 à  14:00:00",
+      "streets": "dans les environs de LImpasse Ramjeeawon et Tout Court Road",
+      "from": "2026-04-02T05:00:00.000Z",
+      "to": "2026-04-02T10:00:00.000Z",
+      "id": "e24abc8bc556719bd631ffd5ef3b8fab"
+    },
     {
       "date": "Le mardi 10 mars 2026 de  10:00:00 à  11:00:00",
       "streets": "MORC PINEWOOD",
