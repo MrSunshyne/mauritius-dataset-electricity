@@ -2,11 +2,18 @@
   "slug": "anse-jonchee",
   "name": "ANSE JONCHEE",
   "district": "grandport",
-  "generated": "2026-04-02T16:16:03.361Z",
-  "outageCount": 12,
+  "generated": "2026-04-02T17:14:13.842Z",
+  "outageCount": 13,
   "firstOutage": "2022-05-26",
-  "lastOutage": "2026-03-18",
+  "lastOutage": "2026-04-02",
   "outages": [
+    {
+      "date": "Le jeudi 2 avril 2026 de  21:00:00 à  23:30:00",
+      "streets": "PART OF ANSE JONCHEE",
+      "from": "2026-04-02T17:00:00.000Z",
+      "to": "2026-04-02T19:30:00.000Z",
+      "id": "a69115c1a90898118d0202c57e26465c"
+    },
     {
       "date": "Le mercredi 18 mars 2026 de  10:00:00 à  14:00:00",
       "streets": "PART OF ANSE JONCHEE",

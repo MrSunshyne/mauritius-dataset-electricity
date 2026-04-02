@@ -2,11 +2,18 @@
   "slug": "goodlands",
   "name": "GOODLANDS",
   "district": "rivieredurempart",
-  "generated": "2026-04-02T16:16:03.486Z",
-  "outageCount": 123,
+  "generated": "2026-04-02T17:14:13.966Z",
+  "outageCount": 124,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-03-26",
+  "lastOutage": "2026-04-02",
   "outages": [
+    {
+      "date": "Le jeudi 2 avril 2026 de  20:50:00 à  00:00:00",
+      "streets": "MORC PETIT VILLAGE",
+      "from": "2026-04-02T16:50:00.000Z",
+      "to": "2026-04-01T20:00:00.000Z",
+      "id": "4412f74de31ce312bfb5bed19d9cdddb"
+    },
     {
       "date": "Le jeudi 26 mars 2026 de  12:00:00 à  20:30:00",
       "streets": "MAMZELLE JEANNE,PETIT VILLAGE ,GRAND GAUBE,ROCHETERRE",

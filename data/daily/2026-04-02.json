@@ -1,8 +1,8 @@
 {
   "date": "2026-04-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-02T16:16:03.339Z",
-  "outageCount": 10,
+  "generated": "2026-04-02T17:14:13.823Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le jeudi 2 avril 2026 de  14:00:00 à  15:00:00",
@@ -55,6 +55,16 @@
       "id": "d9de186a094f173167781cebe3848083"
     },
     {
+      "date": "Le jeudi 2 avril 2026 de  21:00:00 à  23:30:00",
+      "locality": "ANSE JONCHEE",
+      "localitySlug": "anse-jonchee",
+      "streets": "PART OF ANSE JONCHEE",
+      "district": "grandport",
+      "from": "2026-04-02T17:00:00.000Z",
+      "to": "2026-04-02T19:30:00.000Z",
+      "id": "a69115c1a90898118d0202c57e26465c"
+    },
+    {
       "date": "Le jeudi 2 avril 2026 de  09:00:00 à  15:00:00",
       "locality": "SOLFERINO",
       "localitySlug": "solferino",
@@ -103,6 +113,16 @@
       "from": "2026-04-02T05:00:00.000Z",
       "to": "2026-04-02T08:00:00.000Z",
       "id": "986304910be44081f105fc279d1f7fda"
+    },
+    {
+      "date": "Le jeudi 2 avril 2026 de  20:50:00 à  00:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "MORC PETIT VILLAGE",
+      "district": "rivieredurempart",
+      "from": "2026-04-02T16:50:00.000Z",
+      "to": "2026-04-01T20:00:00.000Z",
+      "id": "4412f74de31ce312bfb5bed19d9cdddb"
     }
   ]
 }
