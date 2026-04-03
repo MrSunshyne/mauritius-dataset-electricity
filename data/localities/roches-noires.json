@@ -2,11 +2,18 @@
   "slug": "roches-noires",
   "name": "ROCHES NOIRES",
   "district": "rivieredurempart",
-  "generated": "2026-04-03T14:13:01.475Z",
-  "outageCount": 33,
+  "generated": "2026-04-03T15:12:00.606Z",
+  "outageCount": 34,
   "firstOutage": "2022-06-03",
-  "lastOutage": "2026-03-27",
+  "lastOutage": "2026-04-03",
   "outages": [
+    {
+      "date": "Le vendredi 3 avril 2026 de  18:20:00 à  23:00:00",
+      "streets": "NEW ROAD AND SURROUNDINGS",
+      "from": "2026-04-03T14:20:00.000Z",
+      "to": "2026-04-03T19:00:00.000Z",
+      "id": "1a69004affd64552191d2f5e9d3fb343"
+    },
     {
       "date": "Le vendredi 27 mars 2026 de  11:00:00 à  16:00:00",
       "streets": "ROCHES NOIRES, POSTE LAFAYETTE [BRAS D-EAU].",

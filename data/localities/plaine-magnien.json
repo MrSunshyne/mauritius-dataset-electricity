@@ -2,11 +2,18 @@
   "slug": "plaine-magnien",
   "name": "PLAINE MAGNIEN",
   "district": "grandport",
-  "generated": "2026-04-03T14:13:01.433Z",
-  "outageCount": 58,
+  "generated": "2026-04-03T15:12:00.558Z",
+  "outageCount": 59,
   "firstOutage": "2022-06-08",
-  "lastOutage": "2026-04-02",
+  "lastOutage": "2026-04-03",
   "outages": [
+    {
+      "date": "Le vendredi 3 avril 2026 de  18:20:00 à  21:30:00",
+      "streets": "PART OF ROYAL ROAD, ALLEE COCO, EX-MARKET ROAD AND SURROUNDINGS",
+      "from": "2026-04-03T14:20:00.000Z",
+      "to": "2026-04-03T17:30:00.000Z",
+      "id": "68ab49a9ed604a8f7ecfd5a399ae4b45"
+    },
     {
       "date": "Le jeudi 2 avril 2026 de  09:00:00 à  15:00:00",
       "streets": "Morcellement Mon Desert Sugar Estate Plaine Magnien habitant dans le périmètre et les rues suivantes: Anthurium Street, Mimosa Hortensia Street, Lilas Street, Frangipane Street et Glaieul Street Plaine Magnien",

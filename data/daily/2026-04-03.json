@@ -1,8 +1,8 @@
 {
   "date": "2026-04-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-03T14:13:01.192Z",
-  "outageCount": 8,
+  "generated": "2026-04-03T15:12:00.287Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le vendredi 3 avril 2026 de  09:45:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-04-03T05:45:00.000Z",
       "to": "2026-04-03T11:00:00.000Z",
       "id": "c8607a7d61313a29951b84a05cd53137"
+    },
+    {
+      "date": "Le vendredi 3 avril 2026 de  18:20:00 à  21:30:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "PART OF ROYAL ROAD, ALLEE COCO, EX-MARKET ROAD AND SURROUNDINGS",
+      "district": "grandport",
+      "from": "2026-04-03T14:20:00.000Z",
+      "to": "2026-04-03T17:30:00.000Z",
+      "id": "68ab49a9ed604a8f7ecfd5a399ae4b45"
     },
     {
       "date": "Le vendredi 3 avril 2026 de  09:00:00 à  13:00:00",
@@ -83,6 +93,16 @@
       "from": "2026-04-03T04:30:00.000Z",
       "to": "2026-04-03T08:00:00.000Z",
       "id": "fcd1ebfb484b5f2de857b7a713788678"
+    },
+    {
+      "date": "Le vendredi 3 avril 2026 de  18:20:00 à  23:00:00",
+      "locality": "ROCHES NOIRES",
+      "localitySlug": "roches-noires",
+      "streets": "NEW ROAD AND SURROUNDINGS",
+      "district": "rivieredurempart",
+      "from": "2026-04-03T14:20:00.000Z",
+      "to": "2026-04-03T19:00:00.000Z",
+      "id": "1a69004affd64552191d2f5e9d3fb343"
     }
   ]
 }
