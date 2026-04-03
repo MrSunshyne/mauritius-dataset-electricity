@@ -1,0 +1,68 @@
+{
+  "date": "2026-04-03",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-04-03T06:20:59.037Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le vendredi 3 avril 2026 de  09:45:00 à  15:00:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "Morc SIT,Towards Bhujoharry College",
+      "district": "grandport",
+      "from": "2026-04-03T05:45:00.000Z",
+      "to": "2026-04-03T11:00:00.000Z",
+      "id": "c8607a7d61313a29951b84a05cd53137"
+    },
+    {
+      "date": "Le vendredi 3 avril 2026 de  09:00:00 à  13:00:00",
+      "locality": "KHOYRATTY",
+      "localitySlug": "khoyratty",
+      "streets": "OLD FLACQ RD KHOYRATTY",
+      "district": "pamplemousses",
+      "from": "2026-04-03T05:00:00.000Z",
+      "to": "2026-04-03T09:00:00.000Z",
+      "id": "b8eb9da4b45db7deb478cbd7fa41241e"
+    },
+    {
+      "date": "Le vendredi 3 avril 2026 de  06:00:00 à  10:00:00",
+      "locality": "MOUNT",
+      "localitySlug": "mount",
+      "streets": "CARTON NANCY-CAMP DES EMBRAVADES-BELLE SOURCES PAMPLEMOUSSES",
+      "district": "pamplemousses",
+      "from": "2026-04-03T02:00:00.000Z",
+      "to": "2026-04-03T06:00:00.000Z",
+      "id": "2b7158b57fa36ae0c2df6505d3a0c29b"
+    },
+    {
+      "date": "Le vendredi 3 avril 2026 de  15:00:00 à  19:00:00",
+      "locality": "LA BRASSERIE",
+      "localitySlug": "la-brasserie",
+      "streets": "dans les environs de La Brasserie Road et Résidences La Brasserie",
+      "district": "plainewilhems",
+      "from": "2026-04-03T11:00:00.000Z",
+      "to": "2026-04-03T15:00:00.000Z",
+      "id": "596b13eb38a28f4509c8308828cc8352"
+    },
+    {
+      "date": "Le vendredi 3 avril 2026 de  09:00:00 à  13:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "RUE FARQUAR-RUE LA REINE-RUE CORDERIE PORT LOUIS",
+      "district": "portlouis",
+      "from": "2026-04-03T05:00:00.000Z",
+      "to": "2026-04-03T09:00:00.000Z",
+      "id": "5748c0088c9212fbee299e56a3a225c8"
+    },
+    {
+      "date": "Le vendredi 3 avril 2026 de  08:30:00 à  12:00:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "CITE EDC -ROYAL RD RIVIERE DU REMPART",
+      "district": "rivieredurempart",
+      "from": "2026-04-03T04:30:00.000Z",
+      "to": "2026-04-03T08:00:00.000Z",
+      "id": "fcd1ebfb484b5f2de857b7a713788678"
+    }
+  ]
+}

@@ -2,11 +2,18 @@
   "slug": "riviere-du-rempart",
   "name": "RIVIERE DU REMPART",
   "district": "rivieredurempart",
-  "generated": "2026-04-02T18:11:49.984Z",
-  "outageCount": 55,
+  "generated": "2026-04-03T06:20:59.346Z",
+  "outageCount": 56,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-03-31",
+  "lastOutage": "2026-04-03",
   "outages": [
+    {
+      "date": "Le vendredi 3 avril 2026 de  08:30:00 à  12:00:00",
+      "streets": "CITE EDC -ROYAL RD RIVIERE DU REMPART",
+      "from": "2026-04-03T04:30:00.000Z",
+      "to": "2026-04-03T08:00:00.000Z",
+      "id": "fcd1ebfb484b5f2de857b7a713788678"
+    },
     {
       "date": "Le mardi 31 mars 2026 de  17:00:00 à  21:30:00",
       "streets": "CITE CIM EN FACE KALACHAND.",

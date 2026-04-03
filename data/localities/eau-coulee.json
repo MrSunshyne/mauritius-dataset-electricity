@@ -2,11 +2,18 @@
   "slug": "eau-coulee",
   "name": "EAU COULEE",
   "district": "plainewilhems",
-  "generated": "2026-04-02T18:11:49.811Z",
-  "outageCount": 61,
+  "generated": "2026-04-03T06:20:59.170Z",
+  "outageCount": 62,
   "firstOutage": "2022-03-23",
-  "lastOutage": "2026-03-30",
+  "lastOutage": "2026-04-06",
   "outages": [
+    {
+      "date": "Le lundi 6 avril 2026 de  09:00:00 à  12:00:00",
+      "streets": "Abbe Laval Street, Louis Lazar Street, Charles Cheron Street et ruelles avoisinantes",
+      "from": "2026-04-06T05:00:00.000Z",
+      "to": "2026-04-06T08:00:00.000Z",
+      "id": "12186bf5b034d9f039ae150864daa3f9"
+    },
     {
       "date": "Le lundi 30 mars 2026 de  14:30:00 à  16:00:00",
       "streets": "ENGRAIS CATHAN ET LES ENVIRONS.",

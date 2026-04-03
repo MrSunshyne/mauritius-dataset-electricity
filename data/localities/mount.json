@@ -2,11 +2,18 @@
   "slug": "mount",
   "name": "MOUNT",
   "district": "pamplemousses",
-  "generated": "2026-04-02T18:11:49.909Z",
-  "outageCount": 7,
+  "generated": "2026-04-03T06:20:59.269Z",
+  "outageCount": 8,
   "firstOutage": "2022-10-14",
-  "lastOutage": "2026-03-17",
+  "lastOutage": "2026-04-03",
   "outages": [
+    {
+      "date": "Le vendredi 3 avril 2026 de  06:00:00 à  10:00:00",
+      "streets": "CARTON NANCY-CAMP DES EMBRAVADES-BELLE SOURCES PAMPLEMOUSSES",
+      "from": "2026-04-03T02:00:00.000Z",
+      "to": "2026-04-03T06:00:00.000Z",
+      "id": "2b7158b57fa36ae0c2df6505d3a0c29b"
+    },
     {
       "date": "Le mardi 17 mars 2026 de  15:15:00 à  17:00:00",
       "streets": "MOUNT TOWARDS ROYAL ROAD MONT GOUT NEAR MORC JHOKOO ET EN PARTIE MORC MAISON BLANCHE.",
