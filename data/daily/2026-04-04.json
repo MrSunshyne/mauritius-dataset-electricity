@@ -1,8 +1,8 @@
 {
   "date": "2026-04-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-03T11:12:36.056Z",
-  "outageCount": 3,
+  "generated": "2026-04-03T12:06:49.931Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le samedi 4 avril 2026 de  08:30:00 à  14:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-04-04T04:30:00.000Z",
       "to": "2026-04-04T07:30:00.000Z",
       "id": "1f8982a9d67b22f31e32343088ed3c8a"
+    },
+    {
+      "date": "Le samedi 4 avril 2026 de  08:30:00 à  14:30:00",
+      "locality": "GRAND LA FOUCHE CORAIL(RODRIGUES)",
+      "localitySlug": "grand-la-fouche-corail",
+      "streets": "Grand La Fouche Corail",
+      "district": "rodrigues",
+      "from": "2026-04-04T04:30:00.000Z",
+      "to": "2026-04-04T10:30:00.000Z",
+      "id": "68dc38ebb4b2a538ec158944b9e4fd82"
     }
   ]
 }
