@@ -1,8 +1,8 @@
 {
   "date": "2026-04-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-03T10:11:17.960Z",
-  "outageCount": 2,
+  "generated": "2026-04-03T11:12:36.056Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le samedi 4 avril 2026 de  08:30:00 à  14:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-04-04T04:30:00.000Z",
       "to": "2026-04-04T10:00:00.000Z",
       "id": "a8274c534238ff345ab87e47ef69eac1"
+    },
+    {
+      "date": "Le samedi 4 avril 2026 de  08:30:00 à  14:30:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "Morc St Daniel et les environs",
+      "district": "plainewilhems",
+      "from": "2026-04-04T04:30:00.000Z",
+      "to": "2026-04-04T10:30:00.000Z",
+      "id": "73ea9177002b3adbe525b2d9abc7f7d3"
     },
     {
       "date": "Le samedi 4 avril 2026 de  08:30:00 à  11:30:00",
