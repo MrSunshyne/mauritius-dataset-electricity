@@ -2,11 +2,18 @@
   "slug": "highlands",
   "name": "HIGHLANDS",
   "district": "plainewilhems",
-  "generated": "2026-04-03T13:25:27.402Z",
-  "outageCount": 71,
+  "generated": "2026-04-03T14:13:01.343Z",
+  "outageCount": 72,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2026-03-20",
+  "lastOutage": "2026-04-03",
   "outages": [
+    {
+      "date": "Le vendredi 3 avril 2026 de  18:00:00 à  21:00:00",
+      "streets": "MORC BLUEPRINT",
+      "from": "2026-04-03T14:00:00.000Z",
+      "to": "2026-04-03T17:00:00.000Z",
+      "id": "113ad9e3b850a0959269060deb187645"
+    },
     {
       "date": "Le vendredi 20 mars 2026 de  10:00:00 à  11:00:00",
       "streets": "Morcellement Plaine de Hermitage, Morcellement VRS 5 Arpents Côte D’or",
