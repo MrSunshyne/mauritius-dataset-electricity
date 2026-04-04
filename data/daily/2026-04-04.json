@@ -1,8 +1,8 @@
 {
   "date": "2026-04-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-04T12:04:10.317Z",
-  "outageCount": 10,
+  "generated": "2026-04-04T13:20:54.638Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le samedi 4 avril 2026 de  10:45:00 à  13:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-04-04T04:30:00.000Z",
       "to": "2026-04-04T10:00:00.000Z",
       "id": "a8274c534238ff345ab87e47ef69eac1"
+    },
+    {
+      "date": "Le samedi 4 avril 2026 de  16:00:00 à  21:00:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "MORC ASVIVA TROU AUX BICHES",
+      "district": "pamplemousses",
+      "from": "2026-04-04T12:00:00.000Z",
+      "to": "2026-04-04T17:00:00.000Z",
+      "id": "141afa4ec7d2fba1493aa1fc15991f36"
     },
     {
       "date": "Le samedi 4 avril 2026 de  08:30:00 à  16:15:00",
