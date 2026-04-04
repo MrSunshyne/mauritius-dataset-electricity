@@ -1,8 +1,8 @@
 {
   "date": "2026-04-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-04T10:06:32.161Z",
-  "outageCount": 9,
+  "generated": "2026-04-04T11:06:07.112Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le samedi 4 avril 2026 de  10:45:00 à  13:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-04-04T04:30:00.000Z",
       "to": "2026-04-04T10:30:00.000Z",
       "id": "72df4d03a4d74929cfc7a1041a89c5de"
+    },
+    {
+      "date": "Le samedi 4 avril 2026 de  14:00:00 à  16:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "RUE IGNACE/INKERMAN",
+      "district": "plainewilhems",
+      "from": "2026-04-04T10:00:00.000Z",
+      "to": "2026-04-04T12:00:00.000Z",
+      "id": "09250b0ccba28bc27aca6dce533dd5b8"
     },
     {
       "date": "Le samedi 4 avril 2026 de  08:30:00 à  11:30:00",
