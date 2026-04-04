@@ -2,11 +2,18 @@
   "slug": "soreze",
   "name": "SOREZE",
   "district": "moka",
-  "generated": "2026-04-04T06:16:59.763Z",
-  "outageCount": 10,
+  "generated": "2026-04-04T07:19:24.585Z",
+  "outageCount": 11,
   "firstOutage": "2023-03-15",
-  "lastOutage": "2025-11-23",
+  "lastOutage": "2026-04-04",
   "outages": [
+    {
+      "date": "Le samedi 4 avril 2026 de  10:45:00 à  13:00:00",
+      "streets": "SOREZE",
+      "from": "2026-04-04T06:45:00.000Z",
+      "to": "2026-04-04T09:00:00.000Z",
+      "id": "775f24c713d53342779c3eadf335d512"
+    },
     {
       "date": "Le dimanche 23 novembre 2025 de  08:30:00 à  15:30:00",
       "streets": "DANS LES ENVIRONS DES AVENUES CAPITAINE, ROUGET, MULLET, BABONNE, MARLIN, DORADE, CROISSANT, LA PERLE, CARANGUE, KING FISH, FLAMBOYANT, MICHAEL LEAL, MORC SANDO ET DOMAINE SAINT LOUIS",

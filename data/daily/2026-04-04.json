@@ -1,9 +1,19 @@
 {
   "date": "2026-04-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-04T06:16:59.425Z",
-  "outageCount": 8,
+  "generated": "2026-04-04T07:19:24.255Z",
+  "outageCount": 9,
   "outages": [
+    {
+      "date": "Le samedi 4 avril 2026 de  10:45:00 à  13:00:00",
+      "locality": "SOREZE",
+      "localitySlug": "soreze",
+      "streets": "SOREZE",
+      "district": "moka",
+      "from": "2026-04-04T06:45:00.000Z",
+      "to": "2026-04-04T09:00:00.000Z",
+      "id": "775f24c713d53342779c3eadf335d512"
+    },
     {
       "date": "Le samedi 4 avril 2026 de  08:30:00 à  14:00:00",
       "locality": "SOLITUDE",
