@@ -1,9 +1,19 @@
 {
   "date": "2026-04-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-04T17:06:50.168Z",
-  "outageCount": 11,
+  "generated": "2026-04-04T18:04:32.993Z",
+  "outageCount": 13,
   "outages": [
+    {
+      "date": "Le samedi 4 avril 2026 de  21:20:00 à  22:30:00",
+      "locality": "EAU BONNE",
+      "localitySlug": "eau-bonne",
+      "streets": "CREMATION, CWA & SURROUNDINGS",
+      "district": "blackriver",
+      "from": "2026-04-04T17:20:00.000Z",
+      "to": "2026-04-04T18:30:00.000Z",
+      "id": "eddb9fd254c5f6e77eb27cb0f6bf2722"
+    },
     {
       "date": "Le samedi 4 avril 2026 de  10:45:00 à  13:00:00",
       "locality": "SOREZE",
@@ -25,14 +35,14 @@
       "id": "a8274c534238ff345ab87e47ef69eac1"
     },
     {
-      "date": "Le samedi 4 avril 2026 de  16:00:00 à  21:00:00",
+      "date": "Le samedi 4 avril 2026 de  16:00:00 à  21:45:00",
       "locality": "TROU AUX BICHES",
       "localitySlug": "trou-aux-biches",
       "streets": "MORC ASVIVA TROU AUX BICHES",
       "district": "pamplemousses",
       "from": "2026-04-04T12:00:00.000Z",
-      "to": "2026-04-04T17:00:00.000Z",
-      "id": "141afa4ec7d2fba1493aa1fc15991f36"
+      "to": "2026-04-04T17:45:00.000Z",
+      "id": "a7e6fb4411cabecf7bf994eb1ab51e88"
     },
     {
       "date": "Le samedi 4 avril 2026 de  08:30:00 à  16:15:00",
@@ -73,6 +83,16 @@
       "from": "2026-04-04T10:00:00.000Z",
       "to": "2026-04-04T12:00:00.000Z",
       "id": "09250b0ccba28bc27aca6dce533dd5b8"
+    },
+    {
+      "date": "Le samedi 4 avril 2026 de  21:30:00 à  23:00:00",
+      "locality": "ALLEE BRILLANT CASTEL",
+      "localitySlug": "allee-brillant-castel",
+      "streets": "ALLEE BRILLANT CASTEL NEAR MOSQUE",
+      "district": "plainewilhems",
+      "from": "2026-04-04T17:30:00.000Z",
+      "to": "2026-04-04T19:00:00.000Z",
+      "id": "ab3616b1fcd1eb4414c23b699763a0e5"
     },
     {
       "date": "Le samedi 4 avril 2026 de  08:30:00 à  11:30:00",

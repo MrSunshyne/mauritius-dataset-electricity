@@ -2,11 +2,18 @@
   "slug": "allee-brillant-castel",
   "name": "ALLEE BRILLANT CASTEL",
   "district": "plainewilhems",
-  "generated": "2026-04-04T17:06:50.185Z",
-  "outageCount": 8,
+  "generated": "2026-04-04T18:04:33.013Z",
+  "outageCount": 9,
   "firstOutage": "2023-07-06",
-  "lastOutage": "2026-02-26",
+  "lastOutage": "2026-04-04",
   "outages": [
+    {
+      "date": "Le samedi 4 avril 2026 de  21:30:00 à  23:00:00",
+      "streets": "ALLEE BRILLANT CASTEL NEAR MOSQUE",
+      "from": "2026-04-04T17:30:00.000Z",
+      "to": "2026-04-04T19:00:00.000Z",
+      "id": "ab3616b1fcd1eb4414c23b699763a0e5"
+    },
     {
       "date": "Le jeudi 26 février 2026 de  11:30:00 à  12:45:00",
       "streets": "Nabab Lane, Valentia Lane",

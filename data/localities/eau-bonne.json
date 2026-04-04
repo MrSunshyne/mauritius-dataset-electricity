@@ -2,11 +2,18 @@
   "slug": "eau-bonne",
   "name": "EAU BONNE",
   "district": "blackriver",
-  "generated": "2026-04-04T17:06:50.304Z",
-  "outageCount": 1,
+  "generated": "2026-04-04T18:04:33.116Z",
+  "outageCount": 2,
   "firstOutage": "2023-04-07",
-  "lastOutage": "2023-04-07",
+  "lastOutage": "2026-04-04",
   "outages": [
+    {
+      "date": "Le samedi 4 avril 2026 de  21:20:00 à  22:30:00",
+      "streets": "CREMATION, CWA & SURROUNDINGS",
+      "from": "2026-04-04T17:20:00.000Z",
+      "to": "2026-04-04T18:30:00.000Z",
+      "id": "eddb9fd254c5f6e77eb27cb0f6bf2722"
+    },
     {
       "date": "Le vendredi 7 avril 2023 de  09:00:00 à  12:00:00",
       "streets": "EAU BONNE BAMBOUS",
