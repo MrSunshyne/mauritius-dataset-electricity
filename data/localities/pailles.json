@@ -2,11 +2,18 @@
   "slug": "pailles",
   "name": "PAILLES",
   "district": "portlouis",
-  "generated": "2026-04-03T18:07:31.905Z",
-  "outageCount": 77,
+  "generated": "2026-04-04T06:16:59.667Z",
+  "outageCount": 78,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-03-26",
+  "lastOutage": "2026-04-04",
   "outages": [
+    {
+      "date": "Le samedi 4 avril 2026 de  09:00:00 à  11:00:00",
+      "streets": "BENGALI 1-CLAUDE DELAITRE PAILLES",
+      "from": "2026-04-04T05:00:00.000Z",
+      "to": "2026-04-04T07:00:00.000Z",
+      "id": "1f60f677037a869d3aeb1b90c83b8aa8"
+    },
     {
       "date": "Le jeudi 26 mars 2026 de  10:00:00 à  12:30:00",
       "streets": "CAMP CHAPELON PAILLES",

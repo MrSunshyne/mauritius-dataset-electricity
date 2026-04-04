@@ -1,8 +1,8 @@
 {
   "date": "2026-04-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-03T18:07:31.658Z",
-  "outageCount": 4,
+  "generated": "2026-04-04T06:16:59.425Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le samedi 4 avril 2026 de  08:30:00 à  14:00:00",
@@ -25,6 +25,26 @@
       "id": "73ea9177002b3adbe525b2d9abc7f7d3"
     },
     {
+      "date": "Le samedi 4 avril 2026 de  09:30:00 à  13:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "BLACK MOLLY MORC CHAPMAN COROMANDEL",
+      "district": "plainewilhems",
+      "from": "2026-04-04T05:30:00.000Z",
+      "to": "2026-04-04T09:00:00.000Z",
+      "id": "3a6c4bf40655555439120b66a161d15b"
+    },
+    {
+      "date": "Le samedi 4 avril 2026 de  08:30:00 à  14:30:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "COROMANDEL CHAPMAN VIEW, AVE BLACK MOLLY, AVE ANGEL FISH et LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2026-04-04T04:30:00.000Z",
+      "to": "2026-04-04T10:30:00.000Z",
+      "id": "72df4d03a4d74929cfc7a1041a89c5de"
+    },
+    {
       "date": "Le samedi 4 avril 2026 de  08:30:00 à  11:30:00",
       "locality": "CASSIS",
       "localitySlug": "cassis",
@@ -33,6 +53,26 @@
       "from": "2026-04-04T04:30:00.000Z",
       "to": "2026-04-04T07:30:00.000Z",
       "id": "1f8982a9d67b22f31e32343088ed3c8a"
+    },
+    {
+      "date": "Le samedi 4 avril 2026 de  09:00:00 à  11:00:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "BENGALI 1-CLAUDE DELAITRE PAILLES",
+      "district": "portlouis",
+      "from": "2026-04-04T05:00:00.000Z",
+      "to": "2026-04-04T07:00:00.000Z",
+      "id": "1f60f677037a869d3aeb1b90c83b8aa8"
+    },
+    {
+      "date": "Le samedi 4 avril 2026 de  09:00:00 à  11:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "RESERVOIR RD GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2026-04-04T05:00:00.000Z",
+      "to": "2026-04-04T07:00:00.000Z",
+      "id": "2ecc6c7a2804f41f66892307a26c6ea7"
     },
     {
       "date": "Le samedi 4 avril 2026 de  08:30:00 à  14:30:00",

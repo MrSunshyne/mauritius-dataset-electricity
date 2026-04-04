@@ -2,11 +2,25 @@
   "slug": "coromandel-rhill",
   "name": "COROMANDEL - R.HILL",
   "district": "plainewilhems",
-  "generated": "2026-04-03T18:07:31.779Z",
-  "outageCount": 76,
+  "generated": "2026-04-04T06:16:59.545Z",
+  "outageCount": 78,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-03-26",
+  "lastOutage": "2026-04-04",
   "outages": [
+    {
+      "date": "Le samedi 4 avril 2026 de  09:30:00 à  13:00:00",
+      "streets": "BLACK MOLLY MORC CHAPMAN COROMANDEL",
+      "from": "2026-04-04T05:30:00.000Z",
+      "to": "2026-04-04T09:00:00.000Z",
+      "id": "3a6c4bf40655555439120b66a161d15b"
+    },
+    {
+      "date": "Le samedi 4 avril 2026 de  08:30:00 à  14:30:00",
+      "streets": "COROMANDEL CHAPMAN VIEW, AVE BLACK MOLLY, AVE ANGEL FISH et LES ENVIRONS",
+      "from": "2026-04-04T04:30:00.000Z",
+      "to": "2026-04-04T10:30:00.000Z",
+      "id": "72df4d03a4d74929cfc7a1041a89c5de"
+    },
     {
       "date": "Le jeudi 26 mars 2026 de  10:00:00 à  15:00:00",
       "streets": "COROMANDEL CHAPMAN VIEW, GUPPY AVE, CAT FISH AVE, PENGUIN FISH AVE, DISCUS AVE et LES ENVIRONS",

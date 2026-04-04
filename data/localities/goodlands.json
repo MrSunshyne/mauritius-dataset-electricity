@@ -2,11 +2,18 @@
   "slug": "goodlands",
   "name": "GOODLANDS",
   "district": "rivieredurempart",
-  "generated": "2026-04-03T18:07:31.810Z",
-  "outageCount": 124,
+  "generated": "2026-04-04T06:16:59.575Z",
+  "outageCount": 125,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-04-02",
+  "lastOutage": "2026-04-04",
   "outages": [
+    {
+      "date": "Le samedi 4 avril 2026 de  09:00:00 à  11:00:00",
+      "streets": "RESERVOIR RD GOODLANDS",
+      "from": "2026-04-04T05:00:00.000Z",
+      "to": "2026-04-04T07:00:00.000Z",
+      "id": "2ecc6c7a2804f41f66892307a26c6ea7"
+    },
     {
       "date": "Le jeudi 2 avril 2026 de  20:50:00 à  00:00:00",
       "streets": "MORC PETIT VILLAGE",
