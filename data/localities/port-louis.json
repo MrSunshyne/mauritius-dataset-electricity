@@ -2,11 +2,18 @@
   "slug": "port-louis",
   "name": "PORT-LOUIS",
   "district": "portlouis",
-  "generated": "2026-04-05T07:22:13.321Z",
-  "outageCount": 116,
+  "generated": "2026-04-05T08:07:28.690Z",
+  "outageCount": 117,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-04-03",
+  "lastOutage": "2026-04-05",
   "outages": [
+    {
+      "date": "Le dimanche 5 avril 2026 de  12:00:00 à  13:15:00",
+      "streets": "JOHN KENNEDY ST, P.LOUIS EN FACE BATIMENT PAILLE EN QUEUE [AIR MAURITIUS].",
+      "from": "2026-04-05T08:00:00.000Z",
+      "to": "2026-04-05T09:15:00.000Z",
+      "id": "d8605bb11d8ce243db8571c354061476"
+    },
     {
       "date": "Le vendredi 3 avril 2026 de  09:00:00 à  13:00:00",
       "streets": "RUE FARQUAR-RUE LA REINE-RUE CORDERIE PORT LOUIS",
