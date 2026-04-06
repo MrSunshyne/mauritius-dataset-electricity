@@ -1,8 +1,8 @@
 {
   "date": "2026-04-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-05T18:05:09.281Z",
-  "outageCount": 1,
+  "generated": "2026-04-06T06:30:53.104Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le lundi 6 avril 2026 de  09:00:00 à  12:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-04-06T05:00:00.000Z",
       "to": "2026-04-06T08:00:00.000Z",
       "id": "12186bf5b034d9f039ae150864daa3f9"
+    },
+    {
+      "date": "Le lundi 6 avril 2026 de  09:00:00 à  12:00:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "Aston Villa st,Hortensia st,Sea View and surroundings",
+      "district": "rivieredurempart",
+      "from": "2026-04-06T05:00:00.000Z",
+      "to": "2026-04-06T08:00:00.000Z",
+      "id": "b0f46981e74912f259ce1d563147be90"
     }
   ]
 }

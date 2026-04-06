@@ -2,11 +2,18 @@
   "slug": "petit-raffray",
   "name": "PETIT RAFFRAY",
   "district": "rivieredurempart",
-  "generated": "2026-04-05T18:05:09.533Z",
-  "outageCount": 73,
+  "generated": "2026-04-06T06:30:53.377Z",
+  "outageCount": 74,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-03-29",
+  "lastOutage": "2026-04-06",
   "outages": [
+    {
+      "date": "Le lundi 6 avril 2026 de  09:00:00 à  12:00:00",
+      "streets": "Aston Villa st,Hortensia st,Sea View and surroundings",
+      "from": "2026-04-06T05:00:00.000Z",
+      "to": "2026-04-06T08:00:00.000Z",
+      "id": "b0f46981e74912f259ce1d563147be90"
+    },
     {
       "date": "Le dimanche 29 mars 2026 de  18:30:00 à  22:00:00",
       "streets": "MAHARANA PRATAP ROAD PETIT RAFFRAY",

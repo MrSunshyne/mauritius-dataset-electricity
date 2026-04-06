@@ -2,11 +2,18 @@
   "slug": "melviile",
   "name": "MELVIILE",
   "district": "rivieredurempart",
-  "generated": "2026-04-05T18:05:09.488Z",
-  "outageCount": 14,
+  "generated": "2026-04-06T06:30:53.336Z",
+  "outageCount": 15,
   "firstOutage": "2022-08-26",
-  "lastOutage": "2026-04-01",
+  "lastOutage": "2026-04-08",
   "outages": [
+    {
+      "date": "Le mercredi 8 avril 2026 de  09:00:00 à  14:30:00",
+      "streets": "ENTIERE REGION DE MELVILLE",
+      "from": "2026-04-08T05:00:00.000Z",
+      "to": "2026-04-08T10:30:00.000Z",
+      "id": "f20bf248f8c0134c42ecb9419bd4aac7"
+    },
     {
       "date": "Le mercredi 1 avril 2026 de  08:30:00 à  15:30:00",
       "streets": "ENTIERE REGION DE MELVILLE",
