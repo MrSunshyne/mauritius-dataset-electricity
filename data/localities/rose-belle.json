@@ -2,11 +2,18 @@
   "slug": "rose-belle",
   "name": "ROSE BELLE",
   "district": "grandport",
-  "generated": "2026-04-06T18:13:33.493Z",
-  "outageCount": 78,
+  "generated": "2026-04-07T06:25:39.093Z",
+  "outageCount": 79,
   "firstOutage": "2022-05-12",
-  "lastOutage": "2026-04-03",
+  "lastOutage": "2026-04-07",
   "outages": [
+    {
+      "date": "Le mardi 7 avril 2026 de  09:00:00 à  16:00:00",
+      "streets": "Rose Belle et Balisson habitant dans le périmètre et les rues suivantes: Shivala Road, Lalljee Road, Royalest Road, Marie Jeannie, Morcellement Orchidées, Morcellement VRS et une partie de la Route Royale Balisson",
+      "from": "2026-04-07T05:00:00.000Z",
+      "to": "2026-04-07T12:00:00.000Z",
+      "id": "db7028b01a1fa4dc288f6abb3133e9fe"
+    },
     {
       "date": "Le vendredi 3 avril 2026 de  09:45:00 à  15:00:00",
       "streets": "Morc SIT,Towards Bhujoharry College",

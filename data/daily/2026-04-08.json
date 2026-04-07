@@ -1,9 +1,19 @@
 {
   "date": "2026-04-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-06T18:13:33.175Z",
-  "outageCount": 5,
+  "generated": "2026-04-07T06:25:38.780Z",
+  "outageCount": 6,
   "outages": [
+    {
+      "date": "Le mercredi 8 avril 2026 de  08:30:00 à  14:00:00",
+      "locality": "MONTAGNE BLANCHE",
+      "localitySlug": "montagne-blanche",
+      "streets": "dans les environs de EDC Montagne Blanche, Railway Road(nr Youth Centre) and Charbon Road",
+      "district": "moka",
+      "from": "2026-04-08T04:30:00.000Z",
+      "to": "2026-04-08T10:00:00.000Z",
+      "id": "c549ba70e290991ac3cb188b4a85f291"
+    },
     {
       "date": "Le mercredi 8 avril 2026 de  16:00:00 à  17:30:00",
       "locality": "ROSE-HILL",

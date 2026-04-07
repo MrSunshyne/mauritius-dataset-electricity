@@ -2,11 +2,18 @@
   "slug": "coromandel-rhill",
   "name": "COROMANDEL - R.HILL",
   "district": "plainewilhems",
-  "generated": "2026-04-06T18:13:33.296Z",
-  "outageCount": 78,
+  "generated": "2026-04-07T06:25:38.897Z",
+  "outageCount": 79,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-04-04",
+  "lastOutage": "2026-04-07",
   "outages": [
+    {
+      "date": "Le mardi 7 avril 2026 de  09:00:00 à  15:30:00",
+      "streets": "COROMANDEL CHAPMAN VIEW, AVE, AVE EMPEREUR, AVE GUPPY, AVE CAT FISH, AVE DISCUS, AVE CARDINAL, AVE PARADISE FISH, AVE GOLDEN FISH et LES ENVIRONS",
+      "from": "2026-04-07T05:00:00.000Z",
+      "to": "2026-04-07T11:30:00.000Z",
+      "id": "43b6388825861917577e1c16d5f46b0e"
+    },
     {
       "date": "Le samedi 4 avril 2026 de  09:30:00 à  13:00:00",
       "streets": "BLACK MOLLY MORC CHAPMAN COROMANDEL",

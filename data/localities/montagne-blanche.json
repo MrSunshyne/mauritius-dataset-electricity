@@ -2,11 +2,18 @@
   "slug": "montagne-blanche",
   "name": "MONTAGNE BLANCHE",
   "district": "moka",
-  "generated": "2026-04-06T18:13:33.404Z",
-  "outageCount": 43,
+  "generated": "2026-04-07T06:25:39.004Z",
+  "outageCount": 44,
   "firstOutage": "2022-03-23",
-  "lastOutage": "2026-03-15",
+  "lastOutage": "2026-04-08",
   "outages": [
+    {
+      "date": "Le mercredi 8 avril 2026 de  08:30:00 à  14:00:00",
+      "streets": "dans les environs de EDC Montagne Blanche, Railway Road(nr Youth Centre) and Charbon Road",
+      "from": "2026-04-08T04:30:00.000Z",
+      "to": "2026-04-08T10:00:00.000Z",
+      "id": "c549ba70e290991ac3cb188b4a85f291"
+    },
     {
       "date": "Le dimanche 15 mars 2026 de  09:00:00 à  16:00:00",
       "streets": "de Montagne Blanche Bel Air rd, Old Railway track, EDC Mt Blanche, Beedassy Lane, Charbon Road et Health Centre",

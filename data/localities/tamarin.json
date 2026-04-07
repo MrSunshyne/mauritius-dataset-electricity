@@ -2,11 +2,18 @@
   "slug": "tamarin",
   "name": "TAMARIN",
   "district": "blackriver",
-  "generated": "2026-04-06T18:13:33.518Z",
-  "outageCount": 72,
+  "generated": "2026-04-07T06:25:39.118Z",
+  "outageCount": 73,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-04-01",
+  "lastOutage": "2026-04-07",
   "outages": [
+    {
+      "date": "Le mardi 7 avril 2026 de  09:20:00 à  13:00:00",
+      "streets": "ROYAL ROAD & SURROUNDINGS",
+      "from": "2026-04-07T05:20:00.000Z",
+      "to": "2026-04-07T09:00:00.000Z",
+      "id": "2052bf93bd3b8d3f1a206e163eb73147"
+    },
     {
       "date": "Le mercredi 1 avril 2026 de  15:00:00 à  17:00:00",
       "streets": "LE VILLAGE DE TAMARIN.",

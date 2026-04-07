@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-04-06T18:13:33.301Z",
-  "outageCount": 207,
+  "generated": "2026-04-07T06:25:38.902Z",
+  "outageCount": 208,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-03-26",
+  "lastOutage": "2026-04-10",
   "outages": [
+    {
+      "date": "Le vendredi 10 avril 2026 de  09:00:00 à  15:00:00",
+      "streets": "dans les périmetres et les rues suivantes ; Perfect Alignment Tyres, Tout Court Lane et Ghoorun Lane",
+      "from": "2026-04-10T05:00:00.000Z",
+      "to": "2026-04-10T11:00:00.000Z",
+      "id": "cf89dd9b3921bd856528d29d87d3b11e"
+    },
     {
       "date": "Le jeudi 26 mars 2026 de  16:00:00 à  18:00:00",
       "streets": "dans les environs de SBM, Bank One, Melrose Palace,361 et Poncini",

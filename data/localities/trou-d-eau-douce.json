@@ -2,11 +2,18 @@
   "slug": "trou-d-eau-douce",
   "name": "TROU D-EAU DOUCE",
   "district": "flacq",
-  "generated": "2026-04-06T18:13:33.533Z",
-  "outageCount": 4,
+  "generated": "2026-04-07T06:25:39.132Z",
+  "outageCount": 5,
   "firstOutage": "2025-10-27",
-  "lastOutage": "2026-03-18",
+  "lastOutage": "2026-04-07",
   "outages": [
+    {
+      "date": "Le mardi 7 avril 2026 de  09:20:00 à  10:10:00",
+      "streets": "COASTAL ROAD & SURROUNDINGS",
+      "from": "2026-04-07T05:20:00.000Z",
+      "to": "2026-04-07T06:10:00.000Z",
+      "id": "e2b583e4355891313a33e4876200aca8"
+    },
     {
       "date": "Le mercredi 18 mars 2026 de  15:00:00 à  17:00:00",
       "streets": "Trou D-Eau Douce towards Palmar",
