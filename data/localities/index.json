@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-07T14:29:33.576Z",
+  "generated": "2026-04-07T15:24:52.016Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -3427,10 +3427,10 @@
       "slug": "riviere-du-rempart",
       "name": "RIVIERE DU REMPART",
       "district": "rivieredurempart",
-      "outageCount": 56,
+      "outageCount": 57,
       "file": "riviere-du-rempart.json",
       "firstOutage": "2022-03-20",
-      "lastOutage": "2026-04-03"
+      "lastOutage": "2026-04-07"
     },
     {
       "slug": "riviere-noire",
@@ -3499,7 +3499,7 @@
       "slug": "rose-belle",
       "name": "ROSE BELLE",
       "district": "grandport",
-      "outageCount": 79,
+      "outageCount": 80,
       "file": "rose-belle.json",
       "firstOutage": "2022-05-12",
       "lastOutage": "2026-04-07"
