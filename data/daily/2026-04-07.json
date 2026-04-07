@@ -1,8 +1,8 @@
 {
   "date": "2026-04-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-07T12:12:07.826Z",
-  "outageCount": 10,
+  "generated": "2026-04-07T13:28:18.445Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le mardi 7 avril 2026 de  09:20:00 à  13:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-04-07T04:30:00.000Z",
       "to": "2026-04-07T08:00:00.000Z",
       "id": "5649f15cf1abd6b549e31eaf431cffa0"
+    },
+    {
+      "date": "Le mardi 7 avril 2026 de  17:00:00 à  21:00:00",
+      "locality": "QUARTIER MILITAIRE",
+      "localitySlug": "quartier-militaire",
+      "streets": "BOMBAY RD ET DANS LES ALENTOURS.",
+      "district": "moka",
+      "from": "2026-04-07T13:00:00.000Z",
+      "to": "2026-04-07T17:00:00.000Z",
+      "id": "5966271baa90d5dc6c93da34fed0e883"
     },
     {
       "date": "Le mardi 7 avril 2026 de  02:00:00 à  04:00:00",
