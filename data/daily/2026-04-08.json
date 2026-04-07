@@ -1,8 +1,8 @@
 {
   "date": "2026-04-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-07T11:17:19.467Z",
-  "outageCount": 6,
+  "generated": "2026-04-07T12:12:07.826Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le mercredi 8 avril 2026 de  08:30:00 à  14:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-04-08T05:00:00.000Z",
       "to": "2026-04-08T13:30:00.000Z",
       "id": "d8f9f30d8464097c993a3d26f1f8e144"
+    },
+    {
+      "date": "Le mercredi 8 avril 2026 de  08:30:00 à  09:30:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "EN PARTIE AVE CRETIN, RES. NEPTUNE, EN PARTIE AVE RATSITATANE ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2026-04-08T04:30:00.000Z",
+      "to": "2026-04-08T05:30:00.000Z",
+      "id": "9c1473ab9a2dbee21f66a1d15f91190f"
     },
     {
       "date": "Le mercredi 8 avril 2026 de  09:00:00 à  14:30:00",
