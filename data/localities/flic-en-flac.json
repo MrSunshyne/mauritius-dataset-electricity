@@ -2,11 +2,18 @@
   "slug": "flic-en-flac",
   "name": "FLIC-EN-FLAC",
   "district": "blackriver",
-  "generated": "2026-04-07T16:19:20.271Z",
-  "outageCount": 217,
+  "generated": "2026-04-07T17:18:42.217Z",
+  "outageCount": 218,
   "firstOutage": "2022-03-16",
-  "lastOutage": "2026-03-16",
+  "lastOutage": "2026-04-07",
   "outages": [
+    {
+      "date": "Le mardi 7 avril 2026 de  20:45:00 à  23:15:00",
+      "streets": "AVENUE KESTREL, AVENUE CYGOGNE ET LES ALENTOURS.",
+      "from": "2026-04-07T16:45:00.000Z",
+      "to": "2026-04-07T19:15:00.000Z",
+      "id": "504b188f27fac95293890c65ea6b1730"
+    },
     {
       "date": "Le lundi 16 mars 2026 de  11:00:00 à  16:30:00",
       "streets": "Morc St Jacques: Ave St Jacques, Ave St Paul, Ave St Pierre, Ave des Alamandas, Ave des Glaieuls, Ave des Filaos, Ave des Capucines, Ave des Peupliers, Ave des Rosiers et Ave des Letchiers",

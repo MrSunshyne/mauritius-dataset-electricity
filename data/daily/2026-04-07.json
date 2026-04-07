@@ -1,8 +1,8 @@
 {
   "date": "2026-04-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-07T16:19:20.145Z",
-  "outageCount": 14,
+  "generated": "2026-04-07T17:18:42.077Z",
+  "outageCount": 15,
   "outages": [
     {
       "date": "Le mardi 7 avril 2026 de  09:20:00 à  13:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-04-07T05:20:00.000Z",
       "to": "2026-04-07T09:00:00.000Z",
       "id": "2052bf93bd3b8d3f1a206e163eb73147"
+    },
+    {
+      "date": "Le mardi 7 avril 2026 de  20:45:00 à  23:15:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "AVENUE KESTREL, AVENUE CYGOGNE ET LES ALENTOURS.",
+      "district": "blackriver",
+      "from": "2026-04-07T16:45:00.000Z",
+      "to": "2026-04-07T19:15:00.000Z",
+      "id": "504b188f27fac95293890c65ea6b1730"
     },
     {
       "date": "Le mardi 7 avril 2026 de  09:20:00 à  10:10:00",
@@ -45,14 +55,14 @@
       "id": "5649f15cf1abd6b549e31eaf431cffa0"
     },
     {
-      "date": "Le mardi 7 avril 2026 de  18:00:00 à  22:00:00",
+      "date": "Le mardi 7 avril 2026 de  18:00:00 à  22:30:00",
       "locality": "ROSE BELLE",
       "localitySlug": "rose-belle",
-      "streets": "MADAME LOLO",
+      "streets": "MADAME LOLO, MONGELARD, SUPERCASH ET CASINO.",
       "district": "grandport",
       "from": "2026-04-07T14:00:00.000Z",
-      "to": "2026-04-07T18:00:00.000Z",
-      "id": "0e17d10d5b9d980efc2653c69f11fb24"
+      "to": "2026-04-07T18:30:00.000Z",
+      "id": "66648972394828d246216d6a735543d3"
     },
     {
       "date": "Le mardi 7 avril 2026 de  17:00:00 à  21:00:00",
