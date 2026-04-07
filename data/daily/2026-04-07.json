@@ -1,8 +1,8 @@
 {
   "date": "2026-04-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-07T08:21:24.306Z",
-  "outageCount": 9,
+  "generated": "2026-04-07T09:21:09.595Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le mardi 7 avril 2026 de  09:20:00 à  13:00:00",
@@ -93,6 +93,16 @@
       "from": "2026-04-07T01:00:00.000Z",
       "to": "2026-04-07T07:00:00.000Z",
       "id": "4f1f75963b6d802885d6980b45dc1326"
+    },
+    {
+      "date": "Le mardi 7 avril 2026 de  12:45:00 à  15:00:00",
+      "locality": "L-ESCALIER",
+      "localitySlug": "l-escalier",
+      "streets": "Morc Tagore",
+      "district": "savanne",
+      "from": "2026-04-07T08:45:00.000Z",
+      "to": "2026-04-07T11:00:00.000Z",
+      "id": "5c390205e3fad72405ae26ae2a7e6eab"
     }
   ]
 }
