@@ -2,11 +2,18 @@
   "slug": "poste-de-flacq",
   "name": "POSTE DE FLACQ",
   "district": "flacq",
-  "generated": "2026-04-08T11:17:31.337Z",
-  "outageCount": 36,
+  "generated": "2026-04-08T12:12:20.242Z",
+  "outageCount": 37,
   "firstOutage": "2022-06-12",
-  "lastOutage": "2026-02-22",
+  "lastOutage": "2026-04-09",
   "outages": [
+    {
+      "date": "Le jeudi 9 avril 2026 de  08:30:00 à  17:00:00",
+      "streets": "POSTE DE FLACQ DANS LE PERIMETRE DE ROYAL ROAD, KASHINATH ROAD ET BELLE ETOILE WEDDING HALL.",
+      "from": "2026-04-09T04:30:00.000Z",
+      "to": "2026-04-09T13:00:00.000Z",
+      "id": "d02687b7e661374eb480b3dbeeec44c0"
+    },
     {
       "date": "Le dimanche 22 février 2026 de  08:30:00 à  17:00:00",
       "streets": "Poste De Flacq, Nehru Nagar et Argy, dans le périmètre de Route Royal, Chemin Jardin, Montagne Chat Road, Camp Poorun Road, Cremation Road, Kashinath Road et dans les environs de Camp Raffia.",

@@ -2,11 +2,18 @@
   "slug": "solferino",
   "name": "SOLFERINO",
   "district": "plainewilhems",
-  "generated": "2026-04-08T11:17:31.393Z",
-  "outageCount": 23,
+  "generated": "2026-04-08T12:12:20.296Z",
+  "outageCount": 24,
   "firstOutage": "2022-05-06",
-  "lastOutage": "2026-04-02",
+  "lastOutage": "2026-04-09",
   "outages": [
+    {
+      "date": "Le jeudi 9 avril 2026 de  09:00:00 à  15:00:00",
+      "streets": "SOLFERINO NO. 5",
+      "from": "2026-04-09T05:00:00.000Z",
+      "to": "2026-04-09T11:00:00.000Z",
+      "id": "18b8618271fb21182dfc00fa91ae5d0f"
+    },
     {
       "date": "Le jeudi 2 avril 2026 de  09:00:00 à  15:00:00",
       "streets": "une partie de Solférino 5.",

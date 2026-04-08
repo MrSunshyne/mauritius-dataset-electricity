@@ -2,11 +2,18 @@
   "slug": "bramsthan",
   "name": "BRAMSTHAN",
   "district": "flacq",
-  "generated": "2026-04-08T11:17:31.120Z",
-  "outageCount": 12,
+  "generated": "2026-04-08T12:12:20.033Z",
+  "outageCount": 13,
   "firstOutage": "2022-05-02",
-  "lastOutage": "2025-12-07",
+  "lastOutage": "2026-04-12",
   "outages": [
+    {
+      "date": "Le dimanche 12 avril 2026 de  08:15:00 à  16:00:00",
+      "streets": "village de Bramsthan et Shivala Rd, Nanka Rd, Kalipa Rd et Doutal Rd.",
+      "from": "2026-04-12T04:15:00.000Z",
+      "to": "2026-04-12T12:00:00.000Z",
+      "id": "59c0f8bbb13c4940627159acbfb59d87"
+    },
     {
       "date": "Le dimanche 7 décembre 2025 de  08:15:00 à  15:00:00",
       "streets": "Morc Bramsthan, Ecroignard, Camp Ithier, La Laura et Fast Stone Crusher.",

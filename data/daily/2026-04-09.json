@@ -1,9 +1,29 @@
 {
   "date": "2026-04-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-08T11:17:31.049Z",
-  "outageCount": 1,
+  "generated": "2026-04-08T12:12:19.966Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le jeudi 9 avril 2026 de  08:30:00 à  17:00:00",
+      "locality": "POSTE DE FLACQ",
+      "localitySlug": "poste-de-flacq",
+      "streets": "POSTE DE FLACQ DANS LE PERIMETRE DE ROYAL ROAD, KASHINATH ROAD ET BELLE ETOILE WEDDING HALL.",
+      "district": "flacq",
+      "from": "2026-04-09T04:30:00.000Z",
+      "to": "2026-04-09T13:00:00.000Z",
+      "id": "d02687b7e661374eb480b3dbeeec44c0"
+    },
+    {
+      "date": "Le jeudi 9 avril 2026 de  09:00:00 à  15:00:00",
+      "locality": "SOLFERINO",
+      "localitySlug": "solferino",
+      "streets": "SOLFERINO NO. 5",
+      "district": "plainewilhems",
+      "from": "2026-04-09T05:00:00.000Z",
+      "to": "2026-04-09T11:00:00.000Z",
+      "id": "18b8618271fb21182dfc00fa91ae5d0f"
+    },
     {
       "date": "Le jeudi 9 avril 2026 de  12:00:00 à  17:00:00",
       "locality": "GRAND BOIS",
