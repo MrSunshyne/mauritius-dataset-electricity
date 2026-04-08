@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-04-07T18:14:17.205Z",
-  "outageCount": 201,
+  "generated": "2026-04-08T06:26:23.174Z",
+  "outageCount": 202,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-03-29",
+  "lastOutage": "2026-04-08",
   "outages": [
+    {
+      "date": "Le mercredi 8 avril 2026 de  00:00:00 à  12:00:00",
+      "streets": "ACCACIAS ET UNE PARTIE DE BAIE AUX HUITRES",
+      "from": "2026-04-07T20:00:00.000Z",
+      "to": "2026-04-07T08:00:00.000Z",
+      "id": "6d62a4e415628c6113b93d99533777b0"
+    },
     {
       "date": "Le dimanche 29 mars 2026 de  08:30:00 à  15:00:00",
       "streets": "BAIE MALGACHE, BAIE DIAMANT",

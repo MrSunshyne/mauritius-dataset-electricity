@@ -2,11 +2,18 @@
   "slug": "quartier-militaire",
   "name": "QUARTIER MILITAIRE",
   "district": "moka",
-  "generated": "2026-04-07T18:14:17.176Z",
-  "outageCount": 43,
+  "generated": "2026-04-08T06:26:23.145Z",
+  "outageCount": 44,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-04-07",
+  "lastOutage": "2026-04-08",
   "outages": [
+    {
+      "date": "Le mercredi 8 avril 2026 de  09:15:00 à  12:15:00",
+      "streets": "IN REGION SURROUNDING LA GARE,BECHARD ST ETC",
+      "from": "2026-04-08T05:15:00.000Z",
+      "to": "2026-04-08T08:15:00.000Z",
+      "id": "7d821012dec741979ee2d704a6d1b9e6"
+    },
     {
       "date": "Le mardi 7 avril 2026 de  17:00:00 à  22:00:00",
       "streets": "BOMBAY RD, BETUEL RD ET DANS LES ALENTOURS.",

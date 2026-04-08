@@ -1,8 +1,8 @@
 {
   "date": "2026-04-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-07T18:14:16.897Z",
-  "outageCount": 7,
+  "generated": "2026-04-08T06:26:22.861Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le mercredi 8 avril 2026 de  08:30:00 à  14:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-04-08T04:30:00.000Z",
       "to": "2026-04-08T10:00:00.000Z",
       "id": "c549ba70e290991ac3cb188b4a85f291"
+    },
+    {
+      "date": "Le mercredi 8 avril 2026 de  09:15:00 à  12:15:00",
+      "locality": "QUARTIER MILITAIRE",
+      "localitySlug": "quartier-militaire",
+      "streets": "IN REGION SURROUNDING LA GARE,BECHARD ST ETC",
+      "district": "moka",
+      "from": "2026-04-08T05:15:00.000Z",
+      "to": "2026-04-08T08:15:00.000Z",
+      "id": "7d821012dec741979ee2d704a6d1b9e6"
     },
     {
       "date": "Le mercredi 8 avril 2026 de  16:00:00 à  17:30:00",
@@ -73,6 +83,16 @@
       "from": "2026-04-08T05:00:00.000Z",
       "to": "2026-04-08T10:30:00.000Z",
       "id": "a2bd8da8f67f365e2152bd788857557c"
+    },
+    {
+      "date": "Le mercredi 8 avril 2026 de  00:00:00 à  12:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "ACCACIAS ET UNE PARTIE DE BAIE AUX HUITRES",
+      "district": "rodrigues",
+      "from": "2026-04-07T20:00:00.000Z",
+      "to": "2026-04-07T08:00:00.000Z",
+      "id": "6d62a4e415628c6113b93d99533777b0"
     }
   ]
 }
