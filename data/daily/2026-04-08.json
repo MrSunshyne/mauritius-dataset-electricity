@@ -1,8 +1,8 @@
 {
   "date": "2026-04-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-08T09:20:39.928Z",
-  "outageCount": 10,
+  "generated": "2026-04-08T10:19:34.104Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le mercredi 8 avril 2026 de  10:45:00 à  14:00:00",
@@ -63,6 +63,16 @@
       "from": "2026-04-08T04:30:00.000Z",
       "to": "2026-04-08T05:30:00.000Z",
       "id": "9c1473ab9a2dbee21f66a1d15f91190f"
+    },
+    {
+      "date": "Le mercredi 8 avril 2026 de  14:00:00 à  17:00:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "Pont St Louis",
+      "district": "portlouis",
+      "from": "2026-04-08T10:00:00.000Z",
+      "to": "2026-04-08T13:00:00.000Z",
+      "id": "737e1e46f418364d26dce78260ca839a"
     },
     {
       "date": "Le mercredi 8 avril 2026 de  09:00:00 à  14:30:00",

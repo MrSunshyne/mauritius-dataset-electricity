@@ -2,11 +2,18 @@
   "slug": "pailles",
   "name": "PAILLES",
   "district": "portlouis",
-  "generated": "2026-04-08T09:20:40.165Z",
-  "outageCount": 78,
+  "generated": "2026-04-08T10:19:34.323Z",
+  "outageCount": 79,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-04-04",
+  "lastOutage": "2026-04-08",
   "outages": [
+    {
+      "date": "Le mercredi 8 avril 2026 de  14:00:00 à  17:00:00",
+      "streets": "Pont St Louis",
+      "from": "2026-04-08T10:00:00.000Z",
+      "to": "2026-04-08T13:00:00.000Z",
+      "id": "737e1e46f418364d26dce78260ca839a"
+    },
     {
       "date": "Le samedi 4 avril 2026 de  09:00:00 à  11:00:00",
       "streets": "BENGALI 1-CLAUDE DELAITRE PAILLES",
