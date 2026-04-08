@@ -2,11 +2,18 @@
   "slug": "mahebourg",
   "name": "MAHEBOURG",
   "district": "grandport",
-  "generated": "2026-04-08T06:26:23.060Z",
-  "outageCount": 73,
+  "generated": "2026-04-08T07:28:16.841Z",
+  "outageCount": 74,
   "firstOutage": "2022-04-07",
-  "lastOutage": "2026-04-01",
+  "lastOutage": "2026-04-08",
   "outages": [
+    {
+      "date": "Le mercredi 8 avril 2026 de  10:45:00 à  14:00:00",
+      "streets": "DOLLAR,RAMNARAIN,CARANGUE,ROBILLARD",
+      "from": "2026-04-08T06:45:00.000Z",
+      "to": "2026-04-08T10:00:00.000Z",
+      "id": "492d2b427a54772911259d56f313a078"
+    },
     {
       "date": "Le mercredi 1 avril 2026 de  20:00:00 à  00:30:00",
       "streets": "MAHEBOURGH,VILLE NOIRE ,PETIT BEL AIR",
