@@ -2,11 +2,18 @@
   "slug": "cinq-arpents",
   "name": "CINQ ARPENTS",
   "district": "plainewilhems",
-  "generated": "2026-04-08T17:21:16.614Z",
-  "outageCount": 7,
+  "generated": "2026-04-08T18:19:59.849Z",
+  "outageCount": 8,
   "firstOutage": "2022-06-05",
-  "lastOutage": "2026-02-27",
+  "lastOutage": "2026-04-08",
   "outages": [
+    {
+      "date": "Le mercredi 8 avril 2026 de  22:00:00 à  00:00:00",
+      "streets": "MORC DOMAH, CINQ ARPENTS RD.",
+      "from": "2026-04-08T18:00:00.000Z",
+      "to": "2026-04-07T20:00:00.000Z",
+      "id": "848ccc244fa243bef1a89d359b2f132f"
+    },
     {
       "date": "Le vendredi 27 février 2026 de  09:40:00 à  10:45:00",
       "streets": "CINQ ARPENTS",

@@ -2,11 +2,25 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-04-08T17:21:16.825Z",
-  "outageCount": 202,
+  "generated": "2026-04-08T18:20:00.057Z",
+  "outageCount": 204,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-04-08",
+  "lastOutage": "2026-04-09",
   "outages": [
+    {
+      "date": "Le jeudi 9 avril 2026 de  00:00:00 à  10:00:00",
+      "streets": "LES ABONNES DE SOUPIRS.",
+      "from": "2026-04-08T20:00:00.000Z",
+      "to": "2026-04-08T06:00:00.000Z",
+      "id": "9687d086fbbc515a2009a05bd10b2e0b"
+    },
+    {
+      "date": "Le mercredi 8 avril 2026 de  19:00:00 à  00:00:00",
+      "streets": "LES ABONNES DE SOUPIRS.",
+      "from": "2026-04-08T15:00:00.000Z",
+      "to": "2026-04-07T20:00:00.000Z",
+      "id": "9b9c4534964c2adda4a1394f4f496c72"
+    },
     {
       "date": "Le mercredi 8 avril 2026 de  00:00:00 à  12:00:00",
       "streets": "ACCACIAS ET UNE PARTIE DE BAIE AUX HUITRES",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-08T17:21:16.884Z",
+  "generated": "2026-04-08T18:20:00.116Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -61,10 +61,10 @@
       "slug": "amaury",
       "name": "AMAURY",
       "district": "rivieredurempart",
-      "outageCount": 24,
+      "outageCount": 25,
       "file": "amaury.json",
       "firstOutage": "2022-06-30",
-      "lastOutage": "2026-03-01"
+      "lastOutage": "2026-04-08"
     },
     {
       "slug": "amitie",
@@ -1051,10 +1051,10 @@
       "slug": "cinq-arpents",
       "name": "CINQ ARPENTS",
       "district": "plainewilhems",
-      "outageCount": 7,
+      "outageCount": 8,
       "file": "cinq-arpents.json",
       "firstOutage": "2022-06-05",
-      "lastOutage": "2026-02-27"
+      "lastOutage": "2026-04-08"
     },
     {
       "slug": "circonstance",
@@ -3490,10 +3490,10 @@
       "slug": "rodrigues",
       "name": "RODRIGUES",
       "district": "rodrigues",
-      "outageCount": 202,
+      "outageCount": 204,
       "file": "rodrigues.json",
       "firstOutage": "2022-03-15",
-      "lastOutage": "2026-04-08"
+      "lastOutage": "2026-04-09"
     },
     {
       "slug": "rose-belle",

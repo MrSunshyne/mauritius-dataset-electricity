@@ -1,8 +1,8 @@
 {
   "date": "2026-04-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-08T17:21:16.511Z",
-  "outageCount": 12,
+  "generated": "2026-04-08T18:19:59.751Z",
+  "outageCount": 15,
   "outages": [
     {
       "date": "Le mercredi 8 avril 2026 de  10:45:00 à  14:00:00",
@@ -75,6 +75,16 @@
       "id": "33b9de55a39abccd06bcc205e26d5a6a"
     },
     {
+      "date": "Le mercredi 8 avril 2026 de  22:00:00 à  00:00:00",
+      "locality": "CINQ ARPENTS",
+      "localitySlug": "cinq-arpents",
+      "streets": "MORC DOMAH, CINQ ARPENTS RD.",
+      "district": "plainewilhems",
+      "from": "2026-04-08T18:00:00.000Z",
+      "to": "2026-04-07T20:00:00.000Z",
+      "id": "848ccc244fa243bef1a89d359b2f132f"
+    },
+    {
       "date": "Le mercredi 8 avril 2026 de  14:00:00 à  17:00:00",
       "locality": "PAILLES",
       "localitySlug": "pailles",
@@ -115,6 +125,16 @@
       "id": "a2bd8da8f67f365e2152bd788857557c"
     },
     {
+      "date": "Le mercredi 8 avril 2026 de  22:00:00 à  02:00:00",
+      "locality": "AMAURY",
+      "localitySlug": "amaury",
+      "streets": "ROYAL ROAD, TEMPLE ROAD ET DANS LES ENVIRONS MOSQUE/KOVIL.",
+      "district": "rivieredurempart",
+      "from": "2026-04-08T18:00:00.000Z",
+      "to": "2026-04-07T22:00:00.000Z",
+      "id": "f09762087e7f01498972baa764d16c8b"
+    },
+    {
       "date": "Le mercredi 8 avril 2026 de  00:00:00 à  12:00:00",
       "locality": "RODRIGUES",
       "localitySlug": "rodrigues",
@@ -123,6 +143,16 @@
       "from": "2026-04-07T20:00:00.000Z",
       "to": "2026-04-07T08:00:00.000Z",
       "id": "6d62a4e415628c6113b93d99533777b0"
+    },
+    {
+      "date": "Le mercredi 8 avril 2026 de  19:00:00 à  00:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LES ABONNES DE SOUPIRS.",
+      "district": "rodrigues",
+      "from": "2026-04-08T15:00:00.000Z",
+      "to": "2026-04-07T20:00:00.000Z",
+      "id": "9b9c4534964c2adda4a1394f4f496c72"
     }
   ]
 }
