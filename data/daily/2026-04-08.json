@@ -1,8 +1,8 @@
 {
   "date": "2026-04-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-08T16:21:47.554Z",
-  "outageCount": 11,
+  "generated": "2026-04-08T17:21:16.511Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le mercredi 8 avril 2026 de  10:45:00 à  14:00:00",
@@ -63,6 +63,16 @@
       "from": "2026-04-08T04:30:00.000Z",
       "to": "2026-04-08T05:30:00.000Z",
       "id": "9c1473ab9a2dbee21f66a1d15f91190f"
+    },
+    {
+      "date": "Le mercredi 8 avril 2026 de  20:00:00 à  02:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "PHOENIX HEIGHTS, HILLCREST PARK AND SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2026-04-08T16:00:00.000Z",
+      "to": "2026-04-07T22:00:00.000Z",
+      "id": "33b9de55a39abccd06bcc205e26d5a6a"
     },
     {
       "date": "Le mercredi 8 avril 2026 de  14:00:00 à  17:00:00",
