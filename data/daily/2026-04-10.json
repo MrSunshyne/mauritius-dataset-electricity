@@ -1,9 +1,19 @@
 {
   "date": "2026-04-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-08T13:28:52.209Z",
-  "outageCount": 1,
+  "generated": "2026-04-08T14:30:20.877Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le vendredi 10 avril 2026 de  08:00:00 à  15:00:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "Mahebourg habitant dans le périmètre et les rues suivantes: Tombeau Lane, Ramnarain lane, Gopala Lane et Karan Lane",
+      "district": "grandport",
+      "from": "2026-04-10T04:00:00.000Z",
+      "to": "2026-04-10T11:00:00.000Z",
+      "id": "783489ff9c31158874fbbaacd300a171"
+    },
     {
       "date": "Le vendredi 10 avril 2026 de  09:00:00 à  15:00:00",
       "locality": "CUREPIPE",
