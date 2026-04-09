@@ -1,8 +1,8 @@
 {
   "date": "2026-04-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-09T07:28:35.329Z",
-  "outageCount": 7,
+  "generated": "2026-04-09T08:26:07.053Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le jeudi 9 avril 2026 de  08:30:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-04-09T04:30:00.000Z",
       "to": "2026-04-09T13:00:00.000Z",
       "id": "d02687b7e661374eb480b3dbeeec44c0"
+    },
+    {
+      "date": "Le jeudi 9 avril 2026 de  12:15:00 à  14:15:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "MORC RAMDHANY ET LES ALENTOURS",
+      "district": "pamplemousses",
+      "from": "2026-04-09T08:15:00.000Z",
+      "to": "2026-04-09T10:15:00.000Z",
+      "id": "8f4475c0348577569e52a1c5fdccd860"
     },
     {
       "date": "Le jeudi 9 avril 2026 de  09:00:00 à  15:00:00",
