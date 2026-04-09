@@ -2,11 +2,18 @@
   "slug": "plaine-lauzun",
   "name": "PLAINE LAUZUN",
   "district": "portlouis",
-  "generated": "2026-04-09T11:18:19.463Z",
-  "outageCount": 6,
+  "generated": "2026-04-09T12:13:04.656Z",
+  "outageCount": 7,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2024-06-16",
+  "lastOutage": "2026-04-09",
   "outages": [
+    {
+      "date": "Le jeudi 9 avril 2026 de  16:00:00 à  18:00:00",
+      "streets": "LA ZONE INDUSTRIELLE DE PLAINE LAUZUN",
+      "from": "2026-04-09T12:00:00.000Z",
+      "to": "2026-04-09T14:00:00.000Z",
+      "id": "650c7b7b8262a43f3a39f09fbfe77a23"
+    },
     {
       "date": "Le dimanche 16 juin 2024 de  09:30:00 à  10:30:00",
       "streets": "IND ZONE PL LAUZANQUEENS WEAR",

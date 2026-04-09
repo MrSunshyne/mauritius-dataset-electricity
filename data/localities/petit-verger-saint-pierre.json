@@ -2,11 +2,18 @@
   "slug": "petit-verger-saint-pierre",
   "name": "PETIT VERGER SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-04-09T11:18:19.451Z",
-  "outageCount": 12,
+  "generated": "2026-04-09T12:13:04.646Z",
+  "outageCount": 13,
   "firstOutage": "2022-07-07",
-  "lastOutage": "2026-02-21",
+  "lastOutage": "2026-04-09",
   "outages": [
+    {
+      "date": "Le jeudi 9 avril 2026 de  15:30:00 à  18:30:00",
+      "streets": "PART OF PETIT VERGER SAINT PIERRE",
+      "from": "2026-04-09T11:30:00.000Z",
+      "to": "2026-04-09T14:30:00.000Z",
+      "id": "9f3621c60dd7f331c754dff5eff57254"
+    },
     {
       "date": "Le samedi 21 février 2026 de  08:30:00 à  15:30:00",
       "streets": "PETIT VERGER BRANCH RD, NICHOLAS RD,HAPPINESS RD, MADHOO LANE, CAPRICE LANE, GENTILLY BRANCH RD, MORC RAMNARAIN ET LES ENVIRONS",

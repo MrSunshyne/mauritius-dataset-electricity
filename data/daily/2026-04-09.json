@@ -1,8 +1,8 @@
 {
   "date": "2026-04-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-09T11:18:19.196Z",
-  "outageCount": 8,
+  "generated": "2026-04-09T12:13:04.421Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le jeudi 9 avril 2026 de  08:30:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-04-09T04:30:00.000Z",
       "to": "2026-04-09T13:00:00.000Z",
       "id": "d02687b7e661374eb480b3dbeeec44c0"
+    },
+    {
+      "date": "Le jeudi 9 avril 2026 de  15:30:00 à  18:30:00",
+      "locality": "PETIT VERGER SAINT PIERRE",
+      "localitySlug": "petit-verger-saint-pierre",
+      "streets": "PART OF PETIT VERGER SAINT PIERRE",
+      "district": "moka",
+      "from": "2026-04-09T11:30:00.000Z",
+      "to": "2026-04-09T14:30:00.000Z",
+      "id": "9f3621c60dd7f331c754dff5eff57254"
     },
     {
       "date": "Le jeudi 9 avril 2026 de  12:15:00 à  14:15:00",
@@ -63,6 +73,16 @@
       "from": "2026-04-09T07:00:00.000Z",
       "to": "2026-04-09T11:00:00.000Z",
       "id": "ac2ae49befb649234487c98aa9ee6eec"
+    },
+    {
+      "date": "Le jeudi 9 avril 2026 de  16:00:00 à  18:00:00",
+      "locality": "PLAINE LAUZUN",
+      "localitySlug": "plaine-lauzun",
+      "streets": "LA ZONE INDUSTRIELLE DE PLAINE LAUZUN",
+      "district": "portlouis",
+      "from": "2026-04-09T12:00:00.000Z",
+      "to": "2026-04-09T14:00:00.000Z",
+      "id": "650c7b7b8262a43f3a39f09fbfe77a23"
     },
     {
       "date": "Le jeudi 9 avril 2026 de  12:00:00 à  17:00:00",
