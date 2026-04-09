@@ -1,8 +1,8 @@
 {
   "date": "2026-04-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-08T18:19:59.751Z",
-  "outageCount": 2,
+  "generated": "2026-04-09T06:27:19.325Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le dimanche 12 avril 2026 de  08:15:00 à  15:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-04-12T04:15:00.000Z",
       "to": "2026-04-12T12:00:00.000Z",
       "id": "59c0f8bbb13c4940627159acbfb59d87"
+    },
+    {
+      "date": "Le dimanche 12 avril 2026 de  08:00:00 à  15:00:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "DANS LES PERIMETRES DE MAHATMA GANDHI LANE PETIT RAFFRAY",
+      "district": "rivieredurempart",
+      "from": "2026-04-12T04:00:00.000Z",
+      "to": "2026-04-12T11:00:00.000Z",
+      "id": "c67b51d00e536d55aeec7cff9fc42bf3"
     }
   ]
 }

@@ -2,11 +2,18 @@
   "slug": "sainte-croix",
   "name": "SAINTE CROIX",
   "district": "portlouis",
-  "generated": "2026-04-08T18:20:00.071Z",
-  "outageCount": 75,
+  "generated": "2026-04-09T06:27:19.654Z",
+  "outageCount": 76,
   "firstOutage": "2022-04-26",
-  "lastOutage": "2026-03-26",
+  "lastOutage": "2026-04-09",
   "outages": [
+    {
+      "date": "Le jeudi 9 avril 2026 de  09:15:00 à  11:15:00",
+      "streets": "NICOLAY RD DANS LES ALENTOURS DE KAYLASSON",
+      "from": "2026-04-09T05:15:00.000Z",
+      "to": "2026-04-09T07:15:00.000Z",
+      "id": "e2a47bec5c30421bf7f0b22263895528"
+    },
     {
       "date": "Le jeudi 26 mars 2026 de  09:00:00 à  14:00:00",
       "streets": "LES ABONNES HABITANT RESIDENCE BRIQUETTERIE SAINTE CROIX DANS LES ENVIRONS DES RUES FREGATE, ABERCOMBIE, BOISEE ET LA BRIQUETTERIE",

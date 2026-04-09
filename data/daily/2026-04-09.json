@@ -1,8 +1,8 @@
 {
   "date": "2026-04-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-08T18:19:59.751Z",
-  "outageCount": 4,
+  "generated": "2026-04-09T06:27:19.325Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le jeudi 9 avril 2026 de  08:30:00 à  17:00:00",
@@ -23,6 +23,26 @@
       "from": "2026-04-09T05:00:00.000Z",
       "to": "2026-04-09T11:00:00.000Z",
       "id": "18b8618271fb21182dfc00fa91ae5d0f"
+    },
+    {
+      "date": "Le jeudi 9 avril 2026 de  13:30:00 à  17:30:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "BBASSIN, DE ROSNAY, ESSAIE DAVID,STEIN,MONTGOMERY,ABBE MAZUR et LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2026-04-09T09:30:00.000Z",
+      "to": "2026-04-09T13:30:00.000Z",
+      "id": "12d8e3cb0f627fac8b44f759dd270321"
+    },
+    {
+      "date": "Le jeudi 9 avril 2026 de  09:15:00 à  11:15:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "NICOLAY RD DANS LES ALENTOURS DE KAYLASSON",
+      "district": "portlouis",
+      "from": "2026-04-09T05:15:00.000Z",
+      "to": "2026-04-09T07:15:00.000Z",
+      "id": "e2a47bec5c30421bf7f0b22263895528"
     },
     {
       "date": "Le jeudi 9 avril 2026 de  12:00:00 à  17:00:00",
