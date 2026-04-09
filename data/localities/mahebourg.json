@@ -2,8 +2,8 @@
   "slug": "mahebourg",
   "name": "MAHEBOURG",
   "district": "grandport",
-  "generated": "2026-04-09T13:28:43.997Z",
-  "outageCount": 75,
+  "generated": "2026-04-09T14:32:54.260Z",
+  "outageCount": 76,
   "firstOutage": "2022-04-07",
   "lastOutage": "2026-04-10",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-04-10T04:00:00.000Z",
       "to": "2026-04-10T11:00:00.000Z",
       "id": "783489ff9c31158874fbbaacd300a171"
+    },
+    {
+      "date": "Le jeudi 9 avril 2026 de  18:30:00 à  22:00:00",
+      "streets": "TOMBEAU LANE, KARAN LANE AND SURROUNDINGS",
+      "from": "2026-04-09T14:30:00.000Z",
+      "to": "2026-04-09T18:00:00.000Z",
+      "id": "94b5ba76734ec40ed66222eef52c8d28"
     },
     {
       "date": "Le mercredi 8 avril 2026 de  10:45:00 à  14:00:00",

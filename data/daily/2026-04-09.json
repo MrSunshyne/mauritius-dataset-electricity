@@ -1,8 +1,8 @@
 {
   "date": "2026-04-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-09T13:28:43.814Z",
-  "outageCount": 10,
+  "generated": "2026-04-09T14:32:54.077Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le jeudi 9 avril 2026 de  08:30:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-04-09T04:30:00.000Z",
       "to": "2026-04-09T13:00:00.000Z",
       "id": "d02687b7e661374eb480b3dbeeec44c0"
+    },
+    {
+      "date": "Le jeudi 9 avril 2026 de  18:30:00 à  22:00:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "TOMBEAU LANE, KARAN LANE AND SURROUNDINGS",
+      "district": "grandport",
+      "from": "2026-04-09T14:30:00.000Z",
+      "to": "2026-04-09T18:00:00.000Z",
+      "id": "94b5ba76734ec40ed66222eef52c8d28"
     },
     {
       "date": "Le jeudi 9 avril 2026 de  15:30:00 à  18:30:00",
