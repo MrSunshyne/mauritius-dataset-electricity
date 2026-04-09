@@ -1,8 +1,8 @@
 {
   "date": "2026-04-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-09T08:26:07.053Z",
-  "outageCount": 3,
+  "generated": "2026-04-09T09:23:51.541Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le dimanche 12 avril 2026 de  08:15:00 à  15:00:00",
@@ -23,6 +23,26 @@
       "from": "2026-04-12T04:15:00.000Z",
       "to": "2026-04-12T12:00:00.000Z",
       "id": "59c0f8bbb13c4940627159acbfb59d87"
+    },
+    {
+      "date": "Le dimanche 12 avril 2026 de  08:30:00 à  16:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "habitant dans les périmetres et les rues suivantes ; Brown Sequard Street, Flat Les Cezannes, Flat Albi, Flat Val de L’Ore, Gabriel Froppier, Gustav Bestel Street, Robert Edward Hart Street, Morc Belloquet, Park Hotel, Morc Laurent Lane, D.Henri Robert Street et Morc Daruty",
+      "district": "plainewilhems",
+      "from": "2026-04-12T04:30:00.000Z",
+      "to": "2026-04-12T12:00:00.000Z",
+      "id": "1ec79b4ab0fc3477bf8a7c2e1b06232b"
+    },
+    {
+      "date": "Le dimanche 12 avril 2026 de  08:30:00 à  16:00:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": "habitant dans les périmetres et les rues suivantes ; Charles Regnaud Street, Farquhar Street, Abée Laval, D’Epinay Street, Dove Street, Lapeyrousse, Dorasamy Lane, Sterling, Charles Cheron, Bougainville, Goburdhun Lane, Sooben Lane et Hassenjee Lane",
+      "district": "plainewilhems",
+      "from": "2026-04-12T04:30:00.000Z",
+      "to": "2026-04-12T12:00:00.000Z",
+      "id": "18755a45ab2d9fda95a93561d55f09bc"
     },
     {
       "date": "Le dimanche 12 avril 2026 de  08:00:00 à  15:00:00",
