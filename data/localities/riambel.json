@@ -2,11 +2,18 @@
   "slug": "riambel",
   "name": "RIAMBEL",
   "district": "savanne",
-  "generated": "2026-04-09T10:22:00.647Z",
-  "outageCount": 28,
+  "generated": "2026-04-09T11:18:19.495Z",
+  "outageCount": 29,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-02-12",
+  "lastOutage": "2026-04-11",
   "outages": [
+    {
+      "date": "Le samedi 11 avril 2026 de  08:30:00 à  17:00:00",
+      "streets": "Pomponette Riambel et Morcellement Omnicane St Felix",
+      "from": "2026-04-11T04:30:00.000Z",
+      "to": "2026-04-11T13:00:00.000Z",
+      "id": "414e530b7b7bd7dbff7a0ff4571b5df3"
+    },
     {
       "date": "Le jeudi 12 février 2026 de  09:30:00 à  11:00:00",
       "streets": "ESCALE DU SUD RIAMBEL",
