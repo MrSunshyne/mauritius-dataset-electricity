@@ -2,11 +2,18 @@
   "slug": "cite-la-cure",
   "name": "CITE LA CURE",
   "district": "portlouis",
-  "generated": "2026-04-09T06:27:19.435Z",
-  "outageCount": 29,
+  "generated": "2026-04-09T07:28:35.427Z",
+  "outageCount": 30,
   "firstOutage": "2022-09-03",
-  "lastOutage": "2025-11-25",
+  "lastOutage": "2026-04-09",
   "outages": [
+    {
+      "date": "Le jeudi 9 avril 2026 de  11:00:00 à  15:00:00",
+      "streets": "ROBERT SCOTT CITE LA CURE",
+      "from": "2026-04-09T07:00:00.000Z",
+      "to": "2026-04-09T11:00:00.000Z",
+      "id": "ac2ae49befb649234487c98aa9ee6eec"
+    },
     {
       "date": "Le mardi 25 novembre 2025 de  15:30:00 à  18:00:00",
       "streets": "PART OF CITE LA CURE",

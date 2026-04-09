@@ -1,8 +1,8 @@
 {
   "date": "2026-04-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-09T06:27:19.325Z",
-  "outageCount": 6,
+  "generated": "2026-04-09T07:28:35.329Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le jeudi 9 avril 2026 de  08:30:00 à  17:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-04-09T05:15:00.000Z",
       "to": "2026-04-09T07:15:00.000Z",
       "id": "e2a47bec5c30421bf7f0b22263895528"
+    },
+    {
+      "date": "Le jeudi 9 avril 2026 de  11:00:00 à  15:00:00",
+      "locality": "CITE LA CURE",
+      "localitySlug": "cite-la-cure",
+      "streets": "ROBERT SCOTT CITE LA CURE",
+      "district": "portlouis",
+      "from": "2026-04-09T07:00:00.000Z",
+      "to": "2026-04-09T11:00:00.000Z",
+      "id": "ac2ae49befb649234487c98aa9ee6eec"
     },
     {
       "date": "Le jeudi 9 avril 2026 de  12:00:00 à  17:00:00",
