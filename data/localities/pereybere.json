@@ -2,11 +2,18 @@
   "slug": "pereybere",
   "name": "PEREYBERE",
   "district": "rivieredurempart",
-  "generated": "2026-04-09T14:32:54.304Z",
-  "outageCount": 102,
+  "generated": "2026-04-09T15:27:41.850Z",
+  "outageCount": 103,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-04-05",
+  "lastOutage": "2026-04-09",
   "outages": [
+    {
+      "date": "Le jeudi 9 avril 2026 de  18:30:00 à  23:30:00",
+      "streets": "RUE BALI PEREYBERE",
+      "from": "2026-04-09T14:30:00.000Z",
+      "to": "2026-04-09T19:30:00.000Z",
+      "id": "f2d564f90909988a326ef55c76e5376f"
+    },
     {
       "date": "Le dimanche 5 avril 2026 de  19:00:00 à  00:00:00",
       "streets": "RESIDENCE FRANGIPANIERPEREYBERE ET LES ALENTOURS",

@@ -1,8 +1,8 @@
 {
   "date": "2026-04-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-09T14:32:54.077Z",
-  "outageCount": 11,
+  "generated": "2026-04-09T15:27:41.605Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le jeudi 9 avril 2026 de  08:30:00 à  17:00:00",
@@ -93,6 +93,16 @@
       "from": "2026-04-09T12:00:00.000Z",
       "to": "2026-04-09T14:00:00.000Z",
       "id": "650c7b7b8262a43f3a39f09fbfe77a23"
+    },
+    {
+      "date": "Le jeudi 9 avril 2026 de  18:30:00 à  23:30:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "RUE BALI PEREYBERE",
+      "district": "rivieredurempart",
+      "from": "2026-04-09T14:30:00.000Z",
+      "to": "2026-04-09T19:30:00.000Z",
+      "id": "f2d564f90909988a326ef55c76e5376f"
     },
     {
       "date": "Le jeudi 9 avril 2026 de  12:00:00 à  17:00:00",
