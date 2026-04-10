@@ -2,11 +2,25 @@
   "slug": "phoenix",
   "name": "PHOENIX",
   "district": "plainewilhems",
-  "generated": "2026-04-10T09:23:28.868Z",
-  "outageCount": 100,
+  "generated": "2026-04-10T10:18:26.939Z",
+  "outageCount": 102,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-04-10",
+  "lastOutage": "2026-04-18",
   "outages": [
+    {
+      "date": "Le samedi 18 avril 2026 de  08:30:00 à  16:00:00",
+      "streets": "Birger Technologie Opération Center, Innodis, CWA Phoenix, The Cubicle",
+      "from": "2026-04-18T04:30:00.000Z",
+      "to": "2026-04-18T12:00:00.000Z",
+      "id": "6a3d9ef3b0f0654771a9e4b190a3770d"
+    },
+    {
+      "date": "Le mardi 14 avril 2026 de  15:00:00 à  18:00:00",
+      "streets": "Ex- Railway Road, Robinson Road N0. 1 et N0. 2, Sir Abdul Razack Mohamed Centre QSC",
+      "from": "2026-04-14T11:00:00.000Z",
+      "to": "2026-04-14T14:00:00.000Z",
+      "id": "6c318b74d99a37e48cf05cd22d14e3bc"
+    },
     {
       "date": "Le vendredi 10 avril 2026 de  09:00:00 à  10:30:00",
       "streets": "DANS LES ALENTOURS DE LOLO",
