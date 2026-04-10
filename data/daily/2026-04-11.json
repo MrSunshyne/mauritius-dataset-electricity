@@ -1,8 +1,8 @@
 {
   "date": "2026-04-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-10T11:15:31.929Z",
-  "outageCount": 4,
+  "generated": "2026-04-10T12:11:02.579Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le samedi 11 avril 2026 de  08:30:00 à  15:30:00",
@@ -43,6 +43,16 @@
       "from": "2026-04-11T04:30:00.000Z",
       "to": "2026-04-11T13:00:00.000Z",
       "id": "414e530b7b7bd7dbff7a0ff4571b5df3"
+    },
+    {
+      "date": "Le samedi 11 avril 2026 de  08:30:00 à  15:00:00",
+      "locality": "GRAND LA FOUCHE CORAIL(RODRIGUES)",
+      "localitySlug": "grand-la-fouche-corail",
+      "streets": "LA FERME CITRON",
+      "district": "rodrigues",
+      "from": "2026-04-11T04:30:00.000Z",
+      "to": "2026-04-11T11:00:00.000Z",
+      "id": "c96a69576dfd0479ce615ebf3361be09"
     }
   ]
 }

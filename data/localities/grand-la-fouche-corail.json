@@ -2,11 +2,18 @@
   "slug": "grand-la-fouche-corail",
   "name": "GRAND LA FOUCHE CORAIL(RODRIGUES)",
   "district": "rodrigues",
-  "generated": "2026-04-10T11:15:32.076Z",
-  "outageCount": 3,
+  "generated": "2026-04-10T12:11:02.736Z",
+  "outageCount": 4,
   "firstOutage": "2024-03-22",
-  "lastOutage": "2026-04-04",
+  "lastOutage": "2026-04-11",
   "outages": [
+    {
+      "date": "Le samedi 11 avril 2026 de  08:30:00 à  15:00:00",
+      "streets": "LA FERME CITRON",
+      "from": "2026-04-11T04:30:00.000Z",
+      "to": "2026-04-11T11:00:00.000Z",
+      "id": "c96a69576dfd0479ce615ebf3361be09"
+    },
     {
       "date": "Le samedi 4 avril 2026 de  08:30:00 à  14:30:00",
       "streets": "Grand La Fouche Corail",
