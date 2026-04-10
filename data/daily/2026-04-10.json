@@ -1,8 +1,8 @@
 {
   "date": "2026-04-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-10T06:30:54.417Z",
-  "outageCount": 5,
+  "generated": "2026-04-10T07:29:12.111Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le vendredi 10 avril 2026 de  08:00:00 à  15:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-04-10T11:30:00.000Z",
       "to": "2026-04-10T13:00:00.000Z",
       "id": "34699b1feeacd66bc95821795c961dc9"
+    },
+    {
+      "date": "Le vendredi 10 avril 2026 de  10:40:00 à  12:00:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "jogana lane, cite st catherine, mongolia lane et les aletours",
+      "district": "moka",
+      "from": "2026-04-10T06:40:00.000Z",
+      "to": "2026-04-10T08:00:00.000Z",
+      "id": "b23dc4b63992a696271a14679fdf815e"
     },
     {
       "date": "Le vendredi 10 avril 2026 de  09:00:00 à  15:00:00",

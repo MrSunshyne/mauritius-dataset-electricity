@@ -2,11 +2,18 @@
   "slug": "valetta",
   "name": "VALETTA",
   "district": "moka",
-  "generated": "2026-04-10T06:30:54.774Z",
-  "outageCount": 18,
+  "generated": "2026-04-10T07:29:12.471Z",
+  "outageCount": 19,
   "firstOutage": "2022-11-24",
-  "lastOutage": "2026-03-25",
+  "lastOutage": "2026-04-13",
   "outages": [
+    {
+      "date": "Le lundi 13 avril 2026 de  11:00:00 à  15:00:00",
+      "streets": "dans les environs de VRS Valetta",
+      "from": "2026-04-13T07:00:00.000Z",
+      "to": "2026-04-13T11:00:00.000Z",
+      "id": "ef308b751aa1e30cb9f136afa1d27558"
+    },
     {
       "date": "Le mercredi 25 mars 2026 de  10:10:00 à  11:10:00",
       "streets": "Valetta LA DIGUE",

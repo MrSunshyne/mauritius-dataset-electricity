@@ -1,8 +1,8 @@
 {
   "date": "2026-04-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-10T06:30:54.417Z",
-  "outageCount": 1,
+  "generated": "2026-04-10T07:29:12.112Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le lundi 13 avril 2026 de  09:00:00 à  16:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-04-13T05:00:00.000Z",
       "to": "2026-04-13T12:30:00.000Z",
       "id": "a60afeeee4e5596c0babe67c30d33433"
+    },
+    {
+      "date": "Le lundi 13 avril 2026 de  11:00:00 à  15:00:00",
+      "locality": "VALETTA",
+      "localitySlug": "valetta",
+      "streets": "dans les environs de VRS Valetta",
+      "district": "moka",
+      "from": "2026-04-13T07:00:00.000Z",
+      "to": "2026-04-13T11:00:00.000Z",
+      "id": "ef308b751aa1e30cb9f136afa1d27558"
     }
   ]
 }

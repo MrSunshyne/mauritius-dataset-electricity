@@ -2,11 +2,18 @@
   "slug": "saint-pierre",
   "name": "SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-04-10T06:30:54.738Z",
-  "outageCount": 64,
+  "generated": "2026-04-10T07:29:12.434Z",
+  "outageCount": 65,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-04-01",
+  "lastOutage": "2026-04-10",
   "outages": [
+    {
+      "date": "Le vendredi 10 avril 2026 de  10:40:00 à  12:00:00",
+      "streets": "jogana lane, cite st catherine, mongolia lane et les aletours",
+      "from": "2026-04-10T06:40:00.000Z",
+      "to": "2026-04-10T08:00:00.000Z",
+      "id": "b23dc4b63992a696271a14679fdf815e"
+    },
     {
       "date": "Le mercredi 1 avril 2026 de  15:30:00 à  17:00:00",
       "streets": "ROYAL ROAD UP TILL MOSQUE, SCHOOL LANE AND THE SURROUNDINGS.",
