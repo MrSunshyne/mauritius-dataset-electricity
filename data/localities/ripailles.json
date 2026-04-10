@@ -2,11 +2,18 @@
   "slug": "ripailles",
   "name": "RIPAILLES",
   "district": "moka",
-  "generated": "2026-04-09T18:16:28.866Z",
-  "outageCount": 3,
+  "generated": "2026-04-10T06:30:54.714Z",
+  "outageCount": 4,
   "firstOutage": "2023-10-09",
-  "lastOutage": "2025-12-20",
+  "lastOutage": "2026-04-10",
   "outages": [
+    {
+      "date": "Le vendredi 10 avril 2026 de  15:30:00 à  17:00:00",
+      "streets": "Beau-Bois, Ripailles, Cemetery Rd, LEscalier Branch Road, Nouvelle Decouverte et Bar Le Duc",
+      "from": "2026-04-10T11:30:00.000Z",
+      "to": "2026-04-10T13:00:00.000Z",
+      "id": "34699b1feeacd66bc95821795c961dc9"
+    },
     {
       "date": "Le samedi 20 décembre 2025 de  10:30:00 à  13:00:00",
       "streets": "LESCALIER RD -ROYAL RD RIPAILLES",

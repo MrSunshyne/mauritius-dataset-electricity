@@ -2,11 +2,18 @@
   "slug": "phoenix",
   "name": "PHOENIX",
   "district": "plainewilhems",
-  "generated": "2026-04-09T18:16:28.827Z",
-  "outageCount": 99,
+  "generated": "2026-04-10T06:30:54.671Z",
+  "outageCount": 100,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-04-08",
+  "lastOutage": "2026-04-10",
   "outages": [
+    {
+      "date": "Le vendredi 10 avril 2026 de  09:00:00 à  10:30:00",
+      "streets": "DANS LES ALENTOURS DE LOLO",
+      "from": "2026-04-10T05:00:00.000Z",
+      "to": "2026-04-10T06:30:00.000Z",
+      "id": "f65d4445bf245c97eafd4a1f9c09aa27"
+    },
     {
       "date": "Le mercredi 8 avril 2026 de  20:00:00 à  02:00:00",
       "streets": "PHOENIX HEIGHTS, HILLCREST PARK AND SURROUNDINGS",

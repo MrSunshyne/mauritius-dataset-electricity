@@ -2,8 +2,8 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-04-09T18:16:28.706Z",
-  "outageCount": 209,
+  "generated": "2026-04-10T06:30:54.543Z",
+  "outageCount": 210,
   "firstOutage": "2022-03-27",
   "lastOutage": "2026-04-12",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-04-12T04:30:00.000Z",
       "to": "2026-04-12T12:00:00.000Z",
       "id": "1ec79b4ab0fc3477bf8a7c2e1b06232b"
+    },
+    {
+      "date": "Le samedi 11 avril 2026 de  08:30:00 à  15:30:00",
+      "streets": "dans les périmetres et les rues suivantes : La Lees Street et Corson Tea Factory",
+      "from": "2026-04-11T04:30:00.000Z",
+      "to": "2026-04-11T11:30:00.000Z",
+      "id": "4d8673ceef78b560f8cc5e6da90f64ab"
     },
     {
       "date": "Le vendredi 10 avril 2026 de  09:00:00 à  15:00:00",

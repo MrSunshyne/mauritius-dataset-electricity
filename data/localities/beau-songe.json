@@ -2,11 +2,18 @@
   "slug": "beau-songe",
   "name": "BEAU SONGE",
   "district": "blackriver",
-  "generated": "2026-04-09T18:16:28.636Z",
-  "outageCount": 21,
+  "generated": "2026-04-10T06:30:54.466Z",
+  "outageCount": 22,
   "firstOutage": "2023-05-09",
-  "lastOutage": "2026-03-10",
+  "lastOutage": "2026-04-13",
   "outages": [
+    {
+      "date": "Le lundi 13 avril 2026 de  09:00:00 à  16:30:00",
+      "streets": "",
+      "from": "2026-04-13T05:00:00.000Z",
+      "to": "2026-04-13T12:30:00.000Z",
+      "id": "a60afeeee4e5596c0babe67c30d33433"
+    },
     {
       "date": "Le mardi 10 mars 2026 de  14:00:00 à  18:30:00",
       "streets": "SITE NSLD BEAUX SONGES ET CWA A BEAUX SONGES",

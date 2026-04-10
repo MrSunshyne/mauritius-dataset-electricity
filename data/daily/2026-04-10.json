@@ -1,8 +1,8 @@
 {
   "date": "2026-04-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-09T18:16:28.595Z",
-  "outageCount": 2,
+  "generated": "2026-04-10T06:30:54.417Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le vendredi 10 avril 2026 de  08:00:00 à  15:00:00",
@@ -15,6 +15,16 @@
       "id": "783489ff9c31158874fbbaacd300a171"
     },
     {
+      "date": "Le vendredi 10 avril 2026 de  15:30:00 à  17:00:00",
+      "locality": "RIPAILLES",
+      "localitySlug": "ripailles",
+      "streets": "Beau-Bois, Ripailles, Cemetery Rd, LEscalier Branch Road, Nouvelle Decouverte et Bar Le Duc",
+      "district": "moka",
+      "from": "2026-04-10T11:30:00.000Z",
+      "to": "2026-04-10T13:00:00.000Z",
+      "id": "34699b1feeacd66bc95821795c961dc9"
+    },
+    {
       "date": "Le vendredi 10 avril 2026 de  09:00:00 à  15:00:00",
       "locality": "CUREPIPE",
       "localitySlug": "curepipe",
@@ -23,6 +33,26 @@
       "from": "2026-04-10T05:00:00.000Z",
       "to": "2026-04-10T11:00:00.000Z",
       "id": "cf89dd9b3921bd856528d29d87d3b11e"
+    },
+    {
+      "date": "Le vendredi 10 avril 2026 de  09:00:00 à  10:30:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "DANS LES ALENTOURS DE LOLO",
+      "district": "plainewilhems",
+      "from": "2026-04-10T05:00:00.000Z",
+      "to": "2026-04-10T06:30:00.000Z",
+      "id": "f65d4445bf245c97eafd4a1f9c09aa27"
+    },
+    {
+      "date": "Le vendredi 10 avril 2026 de  10:00:00 à  11:00:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "PAVE RD ET LES ALENTOURS",
+      "district": "rivieredurempart",
+      "from": "2026-04-10T06:00:00.000Z",
+      "to": "2026-04-10T07:00:00.000Z",
+      "id": "836dd632c34c0fb7fe549c24e10862fc"
     }
   ]
 }

@@ -2,11 +2,18 @@
   "slug": "grand-bois",
   "name": "GRAND BOIS",
   "district": "savanne",
-  "generated": "2026-04-09T18:16:28.731Z",
-  "outageCount": 17,
+  "generated": "2026-04-10T06:30:54.571Z",
+  "outageCount": 18,
   "firstOutage": "2022-09-15",
-  "lastOutage": "2026-04-09",
+  "lastOutage": "2026-04-12",
   "outages": [
+    {
+      "date": "Le dimanche 12 avril 2026 de  08:30:00 à  15:00:00",
+      "streets": "GRAND BOIS",
+      "from": "2026-04-12T04:30:00.000Z",
+      "to": "2026-04-12T11:00:00.000Z",
+      "id": "ddc432ef4147608bdfce4d7c4f179864"
+    },
     {
       "date": "Le jeudi 9 avril 2026 de  12:00:00 à  17:00:00",
       "streets": "GRAND BOIS",

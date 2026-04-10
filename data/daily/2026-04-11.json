@@ -1,9 +1,39 @@
 {
   "date": "2026-04-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-09T18:16:28.595Z",
-  "outageCount": 1,
+  "generated": "2026-04-10T06:30:54.417Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le samedi 11 avril 2026 de  08:30:00 à  15:30:00",
+      "locality": "ESPERANCE PITON",
+      "localitySlug": "esperance-piton",
+      "streets": "ENTIERE REGION DE ESPERANCE PITON",
+      "district": "pamplemousses",
+      "from": "2026-04-11T04:30:00.000Z",
+      "to": "2026-04-11T11:30:00.000Z",
+      "id": "5c69bec70fca2f14997cedf649876d2e"
+    },
+    {
+      "date": "Le samedi 11 avril 2026 de  08:30:00 à  15:30:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "dans les périmetres et les rues suivantes : La Lees Street et Corson Tea Factory",
+      "district": "plainewilhems",
+      "from": "2026-04-11T04:30:00.000Z",
+      "to": "2026-04-11T11:30:00.000Z",
+      "id": "4d8673ceef78b560f8cc5e6da90f64ab"
+    },
+    {
+      "date": "Le samedi 11 avril 2026 de  08:30:00 à  15:00:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "ENTIERE REGION DE DARUTY",
+      "district": "rivieredurempart",
+      "from": "2026-04-11T04:30:00.000Z",
+      "to": "2026-04-11T11:00:00.000Z",
+      "id": "7bd2827a5eaaea9441dcfad244652fbe"
+    },
     {
       "date": "Le samedi 11 avril 2026 de  08:30:00 à  17:00:00",
       "locality": "RIAMBEL",

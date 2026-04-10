@@ -1,8 +1,8 @@
 {
   "date": "2026-04-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-09T18:16:28.595Z",
-  "outageCount": 5,
+  "generated": "2026-04-10T06:30:54.417Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le dimanche 12 avril 2026 de  08:15:00 à  15:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-04-12T04:00:00.000Z",
       "to": "2026-04-12T11:00:00.000Z",
       "id": "c67b51d00e536d55aeec7cff9fc42bf3"
+    },
+    {
+      "date": "Le dimanche 12 avril 2026 de  08:30:00 à  15:00:00",
+      "locality": "GRAND BOIS",
+      "localitySlug": "grand-bois",
+      "streets": "GRAND BOIS",
+      "district": "savanne",
+      "from": "2026-04-12T04:30:00.000Z",
+      "to": "2026-04-12T11:00:00.000Z",
+      "id": "ddc432ef4147608bdfce4d7c4f179864"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "slug": "petit-raffray",
   "name": "PETIT RAFFRAY",
   "district": "rivieredurempart",
-  "generated": "2026-04-09T18:16:28.820Z",
-  "outageCount": 75,
+  "generated": "2026-04-10T06:30:54.665Z",
+  "outageCount": 77,
   "firstOutage": "2022-03-25",
   "lastOutage": "2026-04-12",
   "outages": [
@@ -13,6 +13,20 @@
       "from": "2026-04-12T04:00:00.000Z",
       "to": "2026-04-12T11:00:00.000Z",
       "id": "c67b51d00e536d55aeec7cff9fc42bf3"
+    },
+    {
+      "date": "Le samedi 11 avril 2026 de  08:30:00 à  15:00:00",
+      "streets": "ENTIERE REGION DE DARUTY",
+      "from": "2026-04-11T04:30:00.000Z",
+      "to": "2026-04-11T11:00:00.000Z",
+      "id": "7bd2827a5eaaea9441dcfad244652fbe"
+    },
+    {
+      "date": "Le vendredi 10 avril 2026 de  10:00:00 à  11:00:00",
+      "streets": "PAVE RD ET LES ALENTOURS",
+      "from": "2026-04-10T06:00:00.000Z",
+      "to": "2026-04-10T07:00:00.000Z",
+      "id": "836dd632c34c0fb7fe549c24e10862fc"
     },
     {
       "date": "Le lundi 6 avril 2026 de  09:00:00 à  12:00:00",

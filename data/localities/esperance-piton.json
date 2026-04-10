@@ -2,11 +2,18 @@
   "slug": "esperance-piton",
   "name": "ESPERANCE PITON",
   "district": "pamplemousses",
-  "generated": "2026-04-09T18:16:28.718Z",
-  "outageCount": 6,
+  "generated": "2026-04-10T06:30:54.555Z",
+  "outageCount": 7,
   "firstOutage": "2022-10-08",
-  "lastOutage": "2025-08-16",
+  "lastOutage": "2026-04-11",
   "outages": [
+    {
+      "date": "Le samedi 11 avril 2026 de  08:30:00 à  15:30:00",
+      "streets": "ENTIERE REGION DE ESPERANCE PITON",
+      "from": "2026-04-11T04:30:00.000Z",
+      "to": "2026-04-11T11:30:00.000Z",
+      "id": "5c69bec70fca2f14997cedf649876d2e"
+    },
     {
       "date": "Le samedi 16 août 2025 de  09:00:00 à  16:00:00",
       "streets": "MORC BOOLAKY, CWA LESPERANCE PITON, CREMATION ROAD, MAURICE MARTIN, LESPERANCE PITON",
