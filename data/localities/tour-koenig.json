@@ -2,11 +2,18 @@
   "slug": "tour-koenig",
   "name": "TOUR KOENIG",
   "district": "portlouis",
-  "generated": "2026-04-10T07:29:12.453Z",
-  "outageCount": 24,
+  "generated": "2026-04-10T08:26:16.607Z",
+  "outageCount": 25,
   "firstOutage": "2022-11-05",
-  "lastOutage": "2026-03-02",
+  "lastOutage": "2026-04-10",
   "outages": [
+    {
+      "date": "Le vendredi 10 avril 2026 de  11:50:00 à  14:00:00",
+      "streets": "DANS LES ALENTOURS DE EGLISE ST MATHIEU",
+      "from": "2026-04-10T07:50:00.000Z",
+      "to": "2026-04-10T10:00:00.000Z",
+      "id": "f7d17ee0910c09a98fd73311e5623f62"
+    },
     {
       "date": "Le lundi 2 mars 2026 de  11:20:00 à  12:20:00",
       "streets": "MARGETITTE ROAD & SURROUNDINGS",
