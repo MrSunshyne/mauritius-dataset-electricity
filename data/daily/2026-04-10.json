@@ -1,8 +1,8 @@
 {
   "date": "2026-04-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-10T08:26:16.255Z",
-  "outageCount": 7,
+  "generated": "2026-04-10T09:23:28.608Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le vendredi 10 avril 2026 de  08:00:00 à  15:00:00",
@@ -73,6 +73,16 @@
       "from": "2026-04-10T06:00:00.000Z",
       "to": "2026-04-10T07:00:00.000Z",
       "id": "836dd632c34c0fb7fe549c24e10862fc"
+    },
+    {
+      "date": "Le vendredi 10 avril 2026 de  12:30:00 à  14:30:00",
+      "locality": "MELVIILE",
+      "localitySlug": "melviile",
+      "streets": "MELLEVILLE",
+      "district": "rivieredurempart",
+      "from": "2026-04-10T08:30:00.000Z",
+      "to": "2026-04-10T10:30:00.000Z",
+      "id": "3fccbe2ebb58c92ed8419926b0de4c32"
     }
   ]
 }
