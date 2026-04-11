@@ -1,8 +1,8 @@
 {
   "date": "2026-04-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-11T15:07:01.102Z",
-  "outageCount": 9,
+  "generated": "2026-04-11T16:05:08.164Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le samedi 11 avril 2026 de  08:30:00 à  12:00:00",
@@ -73,6 +73,16 @@
       "from": "2026-04-11T04:30:00.000Z",
       "to": "2026-04-11T11:00:00.000Z",
       "id": "7bd2827a5eaaea9441dcfad244652fbe"
+    },
+    {
+      "date": "Le samedi 11 avril 2026 de  18:50:00 à  22:00:00",
+      "locality": "CAP MALHEUREUX",
+      "localitySlug": "cap-malheureux",
+      "streets": "20 Pied Road Grand Bay, Pavillon , Cap Malheureux ,  Bain Boeuf ,  St Francois , Calodyne , Butte  A Lherbe,Grand Gaube, Petit Raffray.",
+      "district": "rivieredurempart",
+      "from": "2026-04-11T14:50:00.000Z",
+      "to": "2026-04-11T18:00:00.000Z",
+      "id": "ca3d42441f9570a65c67494a4f3ef040"
     },
     {
       "date": "Le samedi 11 avril 2026 de  08:30:00 à  17:00:00",

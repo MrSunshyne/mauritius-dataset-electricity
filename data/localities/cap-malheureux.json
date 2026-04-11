@@ -2,11 +2,18 @@
   "slug": "cap-malheureux",
   "name": "CAP MALHEUREUX",
   "district": "rivieredurempart",
-  "generated": "2026-04-11T15:07:01.191Z",
-  "outageCount": 51,
+  "generated": "2026-04-11T16:05:08.252Z",
+  "outageCount": 52,
   "firstOutage": "2022-07-14",
-  "lastOutage": "2026-04-07",
+  "lastOutage": "2026-04-11",
   "outages": [
+    {
+      "date": "Le samedi 11 avril 2026 de  18:50:00 à  22:00:00",
+      "streets": "20 Pied Road Grand Bay, Pavillon , Cap Malheureux ,  Bain Boeuf ,  St Francois , Calodyne , Butte  A Lherbe,Grand Gaube, Petit Raffray.",
+      "from": "2026-04-11T14:50:00.000Z",
+      "to": "2026-04-11T18:00:00.000Z",
+      "id": "ca3d42441f9570a65c67494a4f3ef040"
+    },
     {
       "date": "Le mardi 7 avril 2026 de  05:00:00 à  11:00:00",
       "streets": "Mosque,Mariamen Temple,Royal Roads",
