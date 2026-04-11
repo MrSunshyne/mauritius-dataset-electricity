@@ -2,11 +2,18 @@
   "slug": "mon-choisy",
   "name": "MON CHOISY",
   "district": "pamplemousses",
-  "generated": "2026-04-11T16:05:08.379Z",
-  "outageCount": 31,
+  "generated": "2026-04-11T17:07:32.764Z",
+  "outageCount": 32,
   "firstOutage": "2022-05-21",
-  "lastOutage": "2026-03-01",
+  "lastOutage": "2026-04-11",
   "outages": [
+    {
+      "date": "Le samedi 11 avril 2026 de  20:47:00 à  00:00:00",
+      "streets": "EN PARTIE MORC VRS MON CHOISY VIS A VIS TERRAIN GOLF.",
+      "from": "2026-04-11T16:47:00.000Z",
+      "to": "2026-04-10T20:00:00.000Z",
+      "id": "199437e3d77dc9513ec27f61976e6252"
+    },
     {
       "date": "Le dimanche 1 mars 2026 de  08:30:00 à  15:00:00",
       "streets": "Dans les alentours des hotels suivant: Casuarina, Coral Azur, Mystic et Morc Choisy et Morc Romatally",

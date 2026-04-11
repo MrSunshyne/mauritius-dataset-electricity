@@ -1,8 +1,8 @@
 {
   "date": "2026-04-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-11T16:05:08.164Z",
-  "outageCount": 10,
+  "generated": "2026-04-11T17:07:32.550Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le samedi 11 avril 2026 de  08:30:00 à  12:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-04-11T04:30:00.000Z",
       "to": "2026-04-11T11:30:00.000Z",
       "id": "5c69bec70fca2f14997cedf649876d2e"
+    },
+    {
+      "date": "Le samedi 11 avril 2026 de  20:47:00 à  00:00:00",
+      "locality": "MON CHOISY",
+      "localitySlug": "mon-choisy",
+      "streets": "EN PARTIE MORC VRS MON CHOISY VIS A VIS TERRAIN GOLF.",
+      "district": "pamplemousses",
+      "from": "2026-04-11T16:47:00.000Z",
+      "to": "2026-04-10T20:00:00.000Z",
+      "id": "199437e3d77dc9513ec27f61976e6252"
     },
     {
       "date": "Le samedi 11 avril 2026 de  08:30:00 à  15:30:00",
