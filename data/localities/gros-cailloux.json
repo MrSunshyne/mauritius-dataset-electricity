@@ -2,11 +2,18 @@
   "slug": "gros-cailloux",
   "name": "GROS CAILLOUX",
   "district": "blackriver",
-  "generated": "2026-04-10T18:11:49.841Z",
-  "outageCount": 25,
+  "generated": "2026-04-11T06:17:50.633Z",
+  "outageCount": 26,
   "firstOutage": "2022-06-05",
-  "lastOutage": "2026-02-05",
+  "lastOutage": "2026-04-11",
   "outages": [
+    {
+      "date": "Le samedi 11 avril 2026 de  08:30:00 à  12:00:00",
+      "streets": "JAGATSINGH RD ET LES ENVIRONS",
+      "from": "2026-04-11T04:30:00.000Z",
+      "to": "2026-04-11T08:00:00.000Z",
+      "id": "073026763c5cba9138e6038198ba18b4"
+    },
     {
       "date": "Le jeudi 5 février 2026 de  14:00:00 à  17:00:00",
       "streets": "Royal Road,Bosquet Rds",

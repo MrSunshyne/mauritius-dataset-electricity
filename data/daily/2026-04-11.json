@@ -1,9 +1,29 @@
 {
   "date": "2026-04-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-10T18:11:49.690Z",
-  "outageCount": 5,
+  "generated": "2026-04-11T06:17:50.471Z",
+  "outageCount": 9,
   "outages": [
+    {
+      "date": "Le samedi 11 avril 2026 de  08:30:00 à  12:00:00",
+      "locality": "GROS CAILLOUX",
+      "localitySlug": "gros-cailloux",
+      "streets": "JAGATSINGH RD ET LES ENVIRONS",
+      "district": "blackriver",
+      "from": "2026-04-11T04:30:00.000Z",
+      "to": "2026-04-11T08:00:00.000Z",
+      "id": "073026763c5cba9138e6038198ba18b4"
+    },
+    {
+      "date": "Le samedi 11 avril 2026 de  08:30:00 à  15:30:00",
+      "locality": "VERDUN",
+      "localitySlug": "verdun",
+      "streets": "VILLAGE VERDUN EN ENTIER",
+      "district": "moka",
+      "from": "2026-04-11T04:30:00.000Z",
+      "to": "2026-04-11T11:30:00.000Z",
+      "id": "778766bfb42ed40cc5ee94b654828a05"
+    },
     {
       "date": "Le samedi 11 avril 2026 de  08:30:00 à  15:30:00",
       "locality": "ESPERANCE PITON",
@@ -23,6 +43,26 @@
       "from": "2026-04-11T04:30:00.000Z",
       "to": "2026-04-11T11:30:00.000Z",
       "id": "4d8673ceef78b560f8cc5e6da90f64ab"
+    },
+    {
+      "date": "Le samedi 11 avril 2026 de  08:00:00 à  15:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVE BALGOBIN ET APARTEMENT LE PALMISTE",
+      "district": "plainewilhems",
+      "from": "2026-04-11T04:00:00.000Z",
+      "to": "2026-04-11T11:00:00.000Z",
+      "id": "a8e35cd87d08a26d7f927fcbba51861e"
+    },
+    {
+      "date": "Le samedi 11 avril 2026 de  14:00:00 à  15:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "VIEUX QUATRE BORNES ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2026-04-11T10:00:00.000Z",
+      "to": "2026-04-11T11:00:00.000Z",
+      "id": "2abee0aac4c6be3228594cfe452a8a3a"
     },
     {
       "date": "Le samedi 11 avril 2026 de  08:30:00 à  15:00:00",

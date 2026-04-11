@@ -2,11 +2,18 @@
   "slug": "verdun",
   "name": "VERDUN",
   "district": "moka",
-  "generated": "2026-04-10T18:11:50.050Z",
-  "outageCount": 28,
+  "generated": "2026-04-11T06:17:50.836Z",
+  "outageCount": 29,
   "firstOutage": "2022-04-24",
-  "lastOutage": "2026-01-22",
+  "lastOutage": "2026-04-11",
   "outages": [
+    {
+      "date": "Le samedi 11 avril 2026 de  08:30:00 à  15:30:00",
+      "streets": "VILLAGE VERDUN EN ENTIER",
+      "from": "2026-04-11T04:30:00.000Z",
+      "to": "2026-04-11T11:30:00.000Z",
+      "id": "778766bfb42ed40cc5ee94b654828a05"
+    },
     {
       "date": "Le jeudi 22 janvier 2026 de  00:35:00 à  15:30:00",
       "streets": "CHA VERDUN ROYAL RD VERDUN",

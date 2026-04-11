@@ -2,11 +2,25 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-04-10T18:11:49.959Z",
-  "outageCount": 363,
+  "generated": "2026-04-11T06:17:50.755Z",
+  "outageCount": 365,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-04-02",
+  "lastOutage": "2026-04-11",
   "outages": [
+    {
+      "date": "Le samedi 11 avril 2026 de  14:00:00 à  15:00:00",
+      "streets": "VIEUX QUATRE BORNES ET LES ENVIRONS",
+      "from": "2026-04-11T10:00:00.000Z",
+      "to": "2026-04-11T11:00:00.000Z",
+      "id": "2abee0aac4c6be3228594cfe452a8a3a"
+    },
+    {
+      "date": "Le samedi 11 avril 2026 de  08:00:00 à  15:00:00",
+      "streets": "AVE BALGOBIN ET APARTEMENT LE PALMISTE",
+      "from": "2026-04-11T04:00:00.000Z",
+      "to": "2026-04-11T11:00:00.000Z",
+      "id": "a8e35cd87d08a26d7f927fcbba51861e"
+    },
     {
       "date": "Le jeudi 2 avril 2026 de  08:30:00 à  17:20:00",
       "streets": "Ave Dansant, S. V. Murugan et les environs",
