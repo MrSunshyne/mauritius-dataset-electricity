@@ -1,8 +1,8 @@
 {
   "date": "2026-04-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-12T12:06:03.875Z",
-  "outageCount": 8,
+  "generated": "2026-04-12T13:23:34.210Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le dimanche 12 avril 2026 de  08:15:00 à  15:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-04-12T04:15:00.000Z",
       "to": "2026-04-12T12:00:00.000Z",
       "id": "59c0f8bbb13c4940627159acbfb59d87"
+    },
+    {
+      "date": "Le dimanche 12 avril 2026 de  16:00:00 à  20:00:00",
+      "locality": "BON  ACCEUIL",
+      "localitySlug": "bon-acceuil",
+      "streets": "SCHOOL LANE LATAPIE DANS LES ENVIRONS ECOLE GOUVERNMENT, ROYAL ROAD, RAMAKRISHNA ROAD, QUATRE BORD ROAD ET GRANDE RETRAITE.",
+      "district": "flacq",
+      "from": "2026-04-12T12:00:00.000Z",
+      "to": "2026-04-12T16:00:00.000Z",
+      "id": "9242818865d03906d1a46483eb543427"
     },
     {
       "date": "Le dimanche 12 avril 2026 de  08:30:00 à  14:00:00",
