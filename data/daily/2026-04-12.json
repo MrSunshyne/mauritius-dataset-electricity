@@ -1,8 +1,8 @@
 {
   "date": "2026-04-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-12T17:08:18.621Z",
-  "outageCount": 11,
+  "generated": "2026-04-12T18:07:30.798Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le dimanche 12 avril 2026 de  08:15:00 à  15:00:00",
@@ -35,6 +35,16 @@
       "id": "9242818865d03906d1a46483eb543427"
     },
     {
+      "date": "Le dimanche 12 avril 2026 de  21:30:00 à  02:00:00",
+      "locality": "BELLE ROSE ( CLEMENCIA )",
+      "localitySlug": "belle-rose",
+      "streets": "BRANCH ROAD BELLE ROSE CLEMENCIA",
+      "district": "flacq",
+      "from": "2026-04-12T17:30:00.000Z",
+      "to": "2026-04-11T22:00:00.000Z",
+      "id": "08d4efba71a690a5b196d614037e3753"
+    },
+    {
       "date": "Le dimanche 12 avril 2026 de  08:30:00 à  14:00:00",
       "locality": "GRANDE POINTE AUX PIMENTS",
       "localitySlug": "grande-pointe-aux-piments",
@@ -43,6 +53,16 @@
       "from": "2026-04-12T04:30:00.000Z",
       "to": "2026-04-12T10:00:00.000Z",
       "id": "1c2536d400f0fc52afaff847275535f6"
+    },
+    {
+      "date": "Le dimanche 12 avril 2026 de  21:30:00 à  02:00:00",
+      "locality": "MON CHOISY",
+      "localitySlug": "mon-choisy",
+      "streets": "MORC VRSMON CHOISY",
+      "district": "pamplemousses",
+      "from": "2026-04-12T17:30:00.000Z",
+      "to": "2026-04-11T22:00:00.000Z",
+      "id": "6c79d2345f15304d8470724cfe4fc97a"
     },
     {
       "date": "Le dimanche 12 avril 2026 de  08:30:00 à  16:00:00",

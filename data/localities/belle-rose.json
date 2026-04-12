@@ -2,11 +2,18 @@
   "slug": "belle-rose",
   "name": "BELLE ROSE  ( Q BORNES )",
   "district": "flacq",
-  "generated": "2026-04-12T17:08:18.674Z",
-  "outageCount": 28,
+  "generated": "2026-04-12T18:07:30.850Z",
+  "outageCount": 29,
   "firstOutage": "2022-08-31",
-  "lastOutage": "2026-01-12",
+  "lastOutage": "2026-04-12",
   "outages": [
+    {
+      "date": "Le dimanche 12 avril 2026 de  21:30:00 à  02:00:00",
+      "streets": "BRANCH ROAD BELLE ROSE CLEMENCIA",
+      "from": "2026-04-12T17:30:00.000Z",
+      "to": "2026-04-11T22:00:00.000Z",
+      "id": "08d4efba71a690a5b196d614037e3753"
+    },
     {
       "date": "Le lundi 12 janvier 2026 de  09:00:00 à  14:00:00",
       "streets": "ST LOUIS RD-EBEN ROAD-BROD AVE-ROYAL RD ST JEAN BELLE ROSE",
