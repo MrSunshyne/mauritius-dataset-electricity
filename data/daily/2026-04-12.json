@@ -1,8 +1,8 @@
 {
   "date": "2026-04-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-12T10:10:49.138Z",
-  "outageCount": 7,
+  "generated": "2026-04-12T11:10:01.022Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le dimanche 12 avril 2026 de  08:15:00 à  15:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-04-12T04:30:00.000Z",
       "to": "2026-04-12T12:00:00.000Z",
       "id": "18755a45ab2d9fda95a93561d55f09bc"
+    },
+    {
+      "date": "Le dimanche 12 avril 2026 de  13:00:00 à  17:30:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "MORC BLUEPRINT HIGHLANDS, MORC OMNICANE HIGHLANDS, CMT VALENTINA, EX-SONIA WEAR VALENTINA, USINE SYLEX VALENTINA ET STORE COURTS MAMMOUTH VALENTINA.",
+      "district": "plainewilhems",
+      "from": "2026-04-12T09:00:00.000Z",
+      "to": "2026-04-12T13:30:00.000Z",
+      "id": "c97d4668d7ddf3e6b9e27a808f386dda"
     },
     {
       "date": "Le dimanche 12 avril 2026 de  08:00:00 à  15:00:00",
