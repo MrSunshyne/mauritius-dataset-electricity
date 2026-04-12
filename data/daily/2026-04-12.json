@@ -1,8 +1,8 @@
 {
   "date": "2026-04-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-11T18:05:22.567Z",
-  "outageCount": 6,
+  "generated": "2026-04-12T06:27:26.111Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le dimanche 12 avril 2026 de  08:15:00 à  15:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-04-12T04:15:00.000Z",
       "to": "2026-04-12T12:00:00.000Z",
       "id": "59c0f8bbb13c4940627159acbfb59d87"
+    },
+    {
+      "date": "Le dimanche 12 avril 2026 de  08:30:00 à  11:30:00",
+      "locality": "GRANDE POINTE AUX PIMENTS",
+      "localitySlug": "grande-pointe-aux-piments",
+      "streets": "Royal Road,NHDC",
+      "district": "pamplemousses",
+      "from": "2026-04-12T04:30:00.000Z",
+      "to": "2026-04-12T07:30:00.000Z",
+      "id": "0313da95f49fca98a91d82028195d098"
     },
     {
       "date": "Le dimanche 12 avril 2026 de  08:30:00 à  16:00:00",
