@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-13T11:25:42.738Z",
+  "generated": "2026-04-13T12:15:56.868Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -412,10 +412,10 @@
       "slug": "belle-etoile",
       "name": "BELLE ETOILE",
       "district": "plainewilhems",
-      "outageCount": 3,
+      "outageCount": 4,
       "file": "belle-etoile.json",
       "firstOutage": "2022-11-24",
-      "lastOutage": "2026-02-06"
+      "lastOutage": "2026-04-13"
     },
     {
       "slug": "belle-mare",
@@ -1249,10 +1249,10 @@
       "slug": "coromandel-rhill",
       "name": "COROMANDEL - R.HILL",
       "district": "plainewilhems",
-      "outageCount": 79,
+      "outageCount": 81,
       "file": "coromandel-rhill.json",
       "firstOutage": "2022-04-08",
-      "lastOutage": "2026-04-07"
+      "lastOutage": "2026-04-14"
     },
     {
       "slug": "coromondel-ind-zone",
@@ -3931,10 +3931,10 @@
       "slug": "trou-d-eau-douce",
       "name": "TROU D-EAU DOUCE",
       "district": "flacq",
-      "outageCount": 5,
+      "outageCount": 6,
       "file": "trou-d-eau-douce.json",
       "firstOutage": "2025-10-27",
-      "lastOutage": "2026-04-07"
+      "lastOutage": "2026-04-13"
     },
     {
       "slug": "tyack",

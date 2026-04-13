@@ -2,11 +2,18 @@
   "slug": "trou-d-eau-douce",
   "name": "TROU D-EAU DOUCE",
   "district": "flacq",
-  "generated": "2026-04-13T11:25:42.720Z",
-  "outageCount": 5,
+  "generated": "2026-04-13T12:15:56.850Z",
+  "outageCount": 6,
   "firstOutage": "2025-10-27",
-  "lastOutage": "2026-04-07",
+  "lastOutage": "2026-04-13",
   "outages": [
+    {
+      "date": "Le lundi 13 avril 2026 de  15:00:00 à  18:00:00",
+      "streets": "ROYAL ROAD TROU DEAU DOUCE NEAR FOUR A CHAUX",
+      "from": "2026-04-13T11:00:00.000Z",
+      "to": "2026-04-13T14:00:00.000Z",
+      "id": "e813d1c80b61d5dc754fbc9375f767c6"
+    },
     {
       "date": "Le mardi 7 avril 2026 de  09:20:00 à  10:10:00",
       "streets": "COASTAL ROAD & SURROUNDINGS",

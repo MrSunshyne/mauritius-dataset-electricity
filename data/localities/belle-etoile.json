@@ -2,11 +2,18 @@
   "slug": "belle-etoile",
   "name": "BELLE ETOILE",
   "district": "plainewilhems",
-  "generated": "2026-04-13T11:25:42.419Z",
-  "outageCount": 3,
+  "generated": "2026-04-13T12:15:56.542Z",
+  "outageCount": 4,
   "firstOutage": "2022-11-24",
-  "lastOutage": "2026-02-06",
+  "lastOutage": "2026-04-13",
   "outages": [
+    {
+      "date": "Le lundi 13 avril 2026 de  15:00:00 à  18:00:00",
+      "streets": "BELLE ETOILE",
+      "from": "2026-04-13T11:00:00.000Z",
+      "to": "2026-04-13T14:00:00.000Z",
+      "id": "75fe6c32209d08170cf34b641a8397a2"
+    },
     {
       "date": "Le vendredi 6 février 2026 de  09:00:00 à  11:00:00",
       "streets": "FAIL, Poultry, Morc Kashinath, Kashinath Mandir Bel Etoile.",

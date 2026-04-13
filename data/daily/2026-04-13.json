@@ -1,8 +1,8 @@
 {
   "date": "2026-04-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-13T11:25:42.368Z",
-  "outageCount": 9,
+  "generated": "2026-04-13T12:15:56.492Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le lundi 13 avril 2026 de  09:00:00 à  16:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-04-13T05:00:00.000Z",
       "to": "2026-04-13T12:30:00.000Z",
       "id": "a60afeeee4e5596c0babe67c30d33433"
+    },
+    {
+      "date": "Le lundi 13 avril 2026 de  15:00:00 à  18:00:00",
+      "locality": "TROU D-EAU DOUCE",
+      "localitySlug": "trou-d-eau-douce",
+      "streets": "ROYAL ROAD TROU DEAU DOUCE NEAR FOUR A CHAUX",
+      "district": "flacq",
+      "from": "2026-04-13T11:00:00.000Z",
+      "to": "2026-04-13T14:00:00.000Z",
+      "id": "e813d1c80b61d5dc754fbc9375f767c6"
     },
     {
       "date": "Le lundi 13 avril 2026 de  11:00:00 à  15:00:00",
@@ -63,6 +73,16 @@
       "from": "2026-04-13T07:15:00.000Z",
       "to": "2026-04-13T08:15:00.000Z",
       "id": "629be839f7e33b9721c9fdc413add47d"
+    },
+    {
+      "date": "Le lundi 13 avril 2026 de  15:00:00 à  18:00:00",
+      "locality": "BELLE ETOILE",
+      "localitySlug": "belle-etoile",
+      "streets": "BELLE ETOILE",
+      "district": "plainewilhems",
+      "from": "2026-04-13T11:00:00.000Z",
+      "to": "2026-04-13T14:00:00.000Z",
+      "id": "75fe6c32209d08170cf34b641a8397a2"
     },
     {
       "date": "Le lundi 13 avril 2026 de  10:30:00 à  15:00:00",
