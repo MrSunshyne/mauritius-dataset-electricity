@@ -1,8 +1,8 @@
 {
   "date": "2026-04-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-13T08:36:45.892Z",
-  "outageCount": 8,
+  "generated": "2026-04-13T09:31:09.655Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le lundi 13 avril 2026 de  09:00:00 à  16:30:00",
@@ -73,6 +73,16 @@
       "from": "2026-04-13T06:30:00.000Z",
       "to": "2026-04-13T11:00:00.000Z",
       "id": "ce0b72347f1af99a8dfe9a543356a743"
+    },
+    {
+      "date": "Le lundi 13 avril 2026 de  13:25:00 à  14:25:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "RAOUL RIVET STREET",
+      "district": "portlouis",
+      "from": "2026-04-13T09:25:00.000Z",
+      "to": "2026-04-13T10:25:00.000Z",
+      "id": "1571cc2de94bad44d4096ddb14ea10b1"
     },
     {
       "date": "Le lundi 13 avril 2026 de  06:50:00 à  12:00:00",

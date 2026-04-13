@@ -2,11 +2,18 @@
   "slug": "port-louis",
   "name": "PORT-LOUIS",
   "district": "portlouis",
-  "generated": "2026-04-13T08:36:46.160Z",
-  "outageCount": 117,
+  "generated": "2026-04-13T09:31:09.941Z",
+  "outageCount": 118,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-04-05",
+  "lastOutage": "2026-04-13",
   "outages": [
+    {
+      "date": "Le lundi 13 avril 2026 de  13:25:00 à  14:25:00",
+      "streets": "RAOUL RIVET STREET",
+      "from": "2026-04-13T09:25:00.000Z",
+      "to": "2026-04-13T10:25:00.000Z",
+      "id": "1571cc2de94bad44d4096ddb14ea10b1"
+    },
     {
       "date": "Le dimanche 5 avril 2026 de  12:00:00 à  13:15:00",
       "streets": "JOHN KENNEDY ST, P.LOUIS EN FACE BATIMENT PAILLE EN QUEUE [AIR MAURITIUS].",
