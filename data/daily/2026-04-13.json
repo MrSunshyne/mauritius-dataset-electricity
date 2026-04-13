@@ -1,8 +1,8 @@
 {
   "date": "2026-04-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-13T06:37:14.291Z",
-  "outageCount": 7,
+  "generated": "2026-04-13T07:31:34.923Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le lundi 13 avril 2026 de  09:00:00 à  16:30:00",
@@ -53,6 +53,16 @@
       "from": "2026-04-13T06:15:00.000Z",
       "to": "2026-04-13T07:15:00.000Z",
       "id": "35db930e75072f3b753a3ecef463c74d"
+    },
+    {
+      "date": "Le lundi 13 avril 2026 de  11:15:00 à  12:15:00",
+      "locality": "CLOSEL",
+      "localitySlug": "closel",
+      "streets": "MAIN RD",
+      "district": "plainewilhems",
+      "from": "2026-04-13T07:15:00.000Z",
+      "to": "2026-04-13T08:15:00.000Z",
+      "id": "629be839f7e33b9721c9fdc413add47d"
     },
     {
       "date": "Le lundi 13 avril 2026 de  10:30:00 à  15:00:00",

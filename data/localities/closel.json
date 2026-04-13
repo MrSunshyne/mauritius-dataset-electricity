@@ -2,11 +2,18 @@
   "slug": "closel",
   "name": "CLOSEL",
   "district": "plainewilhems",
-  "generated": "2026-04-13T06:37:14.406Z",
-  "outageCount": 8,
+  "generated": "2026-04-13T07:31:35.041Z",
+  "outageCount": 9,
   "firstOutage": "2022-12-17",
-  "lastOutage": "2025-03-23",
+  "lastOutage": "2026-04-13",
   "outages": [
+    {
+      "date": "Le lundi 13 avril 2026 de  11:15:00 à  12:15:00",
+      "streets": "MAIN RD",
+      "from": "2026-04-13T07:15:00.000Z",
+      "to": "2026-04-13T08:15:00.000Z",
+      "id": "629be839f7e33b9721c9fdc413add47d"
+    },
     {
       "date": "Le dimanche 23 mars 2025 de  08:30:00 à  17:00:00",
       "streets": "Route St Paul, une partie de ligne Berthaud, une partie de Route Lamberty, Reverand Cannon Canning Street, une partie de Emmanuel Gerard Lane Rue Azor Adelaïde, Avenue Brown Sequard, Avenue Brelu Brelu, Clairfonds Vacoas No. 1, No. 2 et No. 3, Dr Chiranjiv Bhardwaj Avenue, Partie de Sivananda Avenue, Mahant Kabir Temple Road",
