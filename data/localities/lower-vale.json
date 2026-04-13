@@ -2,11 +2,18 @@
   "slug": "lower-vale",
   "name": "LOWER VALE",
   "district": "rivieredurempart",
-  "generated": "2026-04-12T18:07:30.988Z",
-  "outageCount": 15,
+  "generated": "2026-04-13T06:37:14.490Z",
+  "outageCount": 16,
   "firstOutage": "2022-08-18",
-  "lastOutage": "2026-03-04",
+  "lastOutage": "2026-04-13",
   "outages": [
+    {
+      "date": "Le lundi 13 avril 2026 de  06:50:00 à  12:00:00",
+      "streets": "BAMBOUS ROAD & SURROUNDINGS",
+      "from": "2026-04-13T02:50:00.000Z",
+      "to": "2026-04-13T08:00:00.000Z",
+      "id": "1ce52e7d0853dcf522770b077d81bd62"
+    },
     {
       "date": "Le mercredi 4 mars 2026 de  09:05:00 à  12:00:00",
       "streets": "LOWER VALE",

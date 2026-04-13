@@ -2,11 +2,18 @@
   "slug": "sainte-croix",
   "name": "SAINTE CROIX",
   "district": "portlouis",
-  "generated": "2026-04-12T18:07:31.110Z",
-  "outageCount": 76,
+  "generated": "2026-04-13T06:37:14.622Z",
+  "outageCount": 77,
   "firstOutage": "2022-04-26",
-  "lastOutage": "2026-04-09",
+  "lastOutage": "2026-04-13",
   "outages": [
+    {
+      "date": "Le lundi 13 avril 2026 de  10:30:00 à  15:00:00",
+      "streets": "STE MARIE,STE CROIX RD,ISIDORE BOUQUET,ALLEE P LAVAL",
+      "from": "2026-04-13T06:30:00.000Z",
+      "to": "2026-04-13T11:00:00.000Z",
+      "id": "ce0b72347f1af99a8dfe9a543356a743"
+    },
     {
       "date": "Le jeudi 9 avril 2026 de  09:15:00 à  11:15:00",
       "streets": "NICOLAY RD DANS LES ALENTOURS DE KAYLASSON",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-12T18:07:31.152Z",
+  "generated": "2026-04-13T06:37:14.666Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -2158,10 +2158,10 @@
       "slug": "lower-vale",
       "name": "LOWER VALE",
       "district": "rivieredurempart",
-      "outageCount": 15,
+      "outageCount": 16,
       "file": "lower-vale.json",
       "firstOutage": "2022-08-18",
-      "lastOutage": "2026-03-04"
+      "lastOutage": "2026-04-13"
     },
     {
       "slug": "mahebourg",
@@ -3166,10 +3166,10 @@
       "slug": "quartier-militaire",
       "name": "QUARTIER MILITAIRE",
       "district": "moka",
-      "outageCount": 44,
+      "outageCount": 45,
       "file": "quartier-militaire.json",
       "firstOutage": "2022-03-21",
-      "lastOutage": "2026-04-08"
+      "lastOutage": "2026-04-13"
     },
     {
       "slug": "quatre-bornes",
@@ -3634,10 +3634,10 @@
       "slug": "sainte-croix",
       "name": "SAINTE CROIX",
       "district": "portlouis",
-      "outageCount": 76,
+      "outageCount": 77,
       "file": "sainte-croix.json",
       "firstOutage": "2022-04-26",
-      "lastOutage": "2026-04-09"
+      "lastOutage": "2026-04-13"
     },
     {
       "slug": "salazie",
@@ -3706,10 +3706,10 @@
       "slug": "solferino",
       "name": "SOLFERINO",
       "district": "plainewilhems",
-      "outageCount": 24,
+      "outageCount": 25,
       "file": "solferino.json",
       "firstOutage": "2022-05-06",
-      "lastOutage": "2026-04-09"
+      "lastOutage": "2026-04-13"
     },
     {
       "slug": "solitude",
@@ -4012,7 +4012,7 @@
       "slug": "valetta",
       "name": "VALETTA",
       "district": "moka",
-      "outageCount": 19,
+      "outageCount": 20,
       "file": "valetta.json",
       "firstOutage": "2022-11-24",
       "lastOutage": "2026-04-13"

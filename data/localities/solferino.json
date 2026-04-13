@@ -2,11 +2,18 @@
   "slug": "solferino",
   "name": "SOLFERINO",
   "district": "plainewilhems",
-  "generated": "2026-04-12T18:07:31.116Z",
-  "outageCount": 24,
+  "generated": "2026-04-13T06:37:14.627Z",
+  "outageCount": 25,
   "firstOutage": "2022-05-06",
-  "lastOutage": "2026-04-09",
+  "lastOutage": "2026-04-13",
   "outages": [
+    {
+      "date": "Le lundi 13 avril 2026 de  10:15:00 à  11:15:00",
+      "streets": "NO:1,NO:3,ELAHEEBACCUS LANE",
+      "from": "2026-04-13T06:15:00.000Z",
+      "to": "2026-04-13T07:15:00.000Z",
+      "id": "35db930e75072f3b753a3ecef463c74d"
+    },
     {
       "date": "Le jeudi 9 avril 2026 de  09:00:00 à  15:00:00",
       "streets": "SOLFERINO NO. 5",

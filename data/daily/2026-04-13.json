@@ -1,8 +1,8 @@
 {
   "date": "2026-04-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-12T18:07:30.798Z",
-  "outageCount": 2,
+  "generated": "2026-04-13T06:37:14.291Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le lundi 13 avril 2026 de  09:00:00 à  16:30:00",
@@ -23,6 +23,56 @@
       "from": "2026-04-13T07:00:00.000Z",
       "to": "2026-04-13T11:00:00.000Z",
       "id": "ef308b751aa1e30cb9f136afa1d27558"
+    },
+    {
+      "date": "Le lundi 13 avril 2026 de  09:00:00 à  15:00:00",
+      "locality": "QUARTIER MILITAIRE",
+      "localitySlug": "quartier-militaire",
+      "streets": "dans les environs de Bombay Street et Betuel Street",
+      "district": "moka",
+      "from": "2026-04-13T05:00:00.000Z",
+      "to": "2026-04-13T11:00:00.000Z",
+      "id": "8685daea2676860df6f4de47407c6957"
+    },
+    {
+      "date": "Le lundi 13 avril 2026 de  09:00:00 à  15:00:00",
+      "locality": "VALETTA",
+      "localitySlug": "valetta",
+      "streets": "dans les environs de Wooton et Belle Rive",
+      "district": "moka",
+      "from": "2026-04-13T05:00:00.000Z",
+      "to": "2026-04-13T11:00:00.000Z",
+      "id": "bd20e6bbffa49b0475ccc875669a4714"
+    },
+    {
+      "date": "Le lundi 13 avril 2026 de  10:15:00 à  11:15:00",
+      "locality": "SOLFERINO",
+      "localitySlug": "solferino",
+      "streets": "NO:1,NO:3,ELAHEEBACCUS LANE",
+      "district": "plainewilhems",
+      "from": "2026-04-13T06:15:00.000Z",
+      "to": "2026-04-13T07:15:00.000Z",
+      "id": "35db930e75072f3b753a3ecef463c74d"
+    },
+    {
+      "date": "Le lundi 13 avril 2026 de  10:30:00 à  15:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "STE MARIE,STE CROIX RD,ISIDORE BOUQUET,ALLEE P LAVAL",
+      "district": "portlouis",
+      "from": "2026-04-13T06:30:00.000Z",
+      "to": "2026-04-13T11:00:00.000Z",
+      "id": "ce0b72347f1af99a8dfe9a543356a743"
+    },
+    {
+      "date": "Le lundi 13 avril 2026 de  06:50:00 à  12:00:00",
+      "locality": "LOWER VALE",
+      "localitySlug": "lower-vale",
+      "streets": "BAMBOUS ROAD & SURROUNDINGS",
+      "district": "rivieredurempart",
+      "from": "2026-04-13T02:50:00.000Z",
+      "to": "2026-04-13T08:00:00.000Z",
+      "id": "1ce52e7d0853dcf522770b077d81bd62"
     }
   ]
 }
