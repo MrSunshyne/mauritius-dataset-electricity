@@ -2,11 +2,18 @@
   "slug": "arsenal",
   "name": "ARSENAL",
   "district": "pamplemousses",
-  "generated": "2026-04-14T16:20:54.759Z",
-  "outageCount": 56,
+  "generated": "2026-04-14T17:22:08.905Z",
+  "outageCount": 57,
   "firstOutage": "2022-05-25",
-  "lastOutage": "2026-03-20",
+  "lastOutage": "2026-04-14",
   "outages": [
+    {
+      "date": "Le mardi 14 avril 2026 de  20:40:00 à  01:00:00",
+      "streets": "ROUTE ROYALE ARSENAL DANS LES ENVIRONS TERRAIN FOOTBALL.",
+      "from": "2026-04-14T16:40:00.000Z",
+      "to": "2026-04-13T21:00:00.000Z",
+      "id": "d85f861a23c82869f502447766d9600b"
+    },
     {
       "date": "Le vendredi 20 mars 2026 de  10:30:00 à  13:30:00",
       "streets": "ROYAL,CHEMIN BALACLAVA ARSENAL",

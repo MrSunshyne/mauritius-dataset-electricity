@@ -1,8 +1,8 @@
 {
   "date": "2026-04-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-14T16:20:54.735Z",
-  "outageCount": 11,
+  "generated": "2026-04-14T17:22:08.883Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le mardi 14 avril 2026 de  09:15:00 à  14:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-04-14T05:30:00.000Z",
       "to": "2026-04-14T10:00:00.000Z",
       "id": "7abe28cacff0f2bd02f8c0804a51c39c"
+    },
+    {
+      "date": "Le mardi 14 avril 2026 de  20:40:00 à  01:00:00",
+      "locality": "ARSENAL",
+      "localitySlug": "arsenal",
+      "streets": "ROUTE ROYALE ARSENAL DANS LES ENVIRONS TERRAIN FOOTBALL.",
+      "district": "pamplemousses",
+      "from": "2026-04-14T16:40:00.000Z",
+      "to": "2026-04-13T21:00:00.000Z",
+      "id": "d85f861a23c82869f502447766d9600b"
     },
     {
       "date": "Le mardi 14 avril 2026 de  15:00:00 à  18:00:00",
