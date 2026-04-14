@@ -1,9 +1,29 @@
 {
   "date": "2026-04-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-13T18:20:13.523Z",
-  "outageCount": 3,
+  "generated": "2026-04-14T06:30:40.928Z",
+  "outageCount": 7,
   "outages": [
+    {
+      "date": "Le mardi 14 avril 2026 de  09:15:00 à  14:00:00",
+      "locality": "GROS BILLOT",
+      "localitySlug": "gros-billot",
+      "streets": "BOIS DOISEAU ROAD GROS BILLOT",
+      "district": "grandport",
+      "from": "2026-04-14T05:15:00.000Z",
+      "to": "2026-04-14T10:00:00.000Z",
+      "id": "8a71bf6b8047d4aacb0cf8980b6499ae"
+    },
+    {
+      "date": "Le mardi 14 avril 2026 de  09:30:00 à  14:00:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "KARAN LANE,TOMBEAU LANE MAHEBOURG",
+      "district": "grandport",
+      "from": "2026-04-14T05:30:00.000Z",
+      "to": "2026-04-14T10:00:00.000Z",
+      "id": "7abe28cacff0f2bd02f8c0804a51c39c"
+    },
     {
       "date": "Le mardi 14 avril 2026 de  15:00:00 à  18:00:00",
       "locality": "PHOENIX",
@@ -25,14 +45,34 @@
       "id": "0898e7fc4e58491469e4884fe86550ae"
     },
     {
-      "date": "Le mardi 14 avril 2026 de  08:30:00 à  09:30:00",
+      "date": "Le mardi 14 avril 2026 de  08:30:00 à  15:30:00",
       "locality": "COROMANDEL - R.HILL",
       "localitySlug": "coromandel-rhill",
-      "streets": "Chapman View, Ave Cerisier, Morc Montreal 1 & 2, Police Quarters et les environs",
+      "streets": "Chapman View, Ave Empereur, Ave Guppy, Ave Catfish, Ave Discus, Ave Cardinal, Ave Paradise Fish, Ave Golden Fish, Ave Piranah et les environs",
       "district": "plainewilhems",
       "from": "2026-04-14T04:30:00.000Z",
-      "to": "2026-04-14T05:30:00.000Z",
-      "id": "7275856cb054158bafaca905f3b7ee45"
+      "to": "2026-04-14T11:30:00.000Z",
+      "id": "cb2b62e317b6bd5598d97cb97b4687b2"
+    },
+    {
+      "date": "Le mardi 14 avril 2026 de  10:20:00 à  13:30:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "CHEMIN VINGT PIED, NEAR DOMAINE DES ALIZEES",
+      "district": "rivieredurempart",
+      "from": "2026-04-14T06:20:00.000Z",
+      "to": "2026-04-14T09:30:00.000Z",
+      "id": "08bf996ed8b47ee11035c638f9e43ea7"
+    },
+    {
+      "date": "Le mardi 14 avril 2026 de  10:15:00 à  13:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "MORC UNUTH, RESERVOIR RD AND SURROUNDINGS",
+      "district": "rivieredurempart",
+      "from": "2026-04-14T06:15:00.000Z",
+      "to": "2026-04-14T09:00:00.000Z",
+      "id": "3aa1081f37d45b2959fd9ab0a5742909"
     }
   ]
 }

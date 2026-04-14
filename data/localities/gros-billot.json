@@ -2,11 +2,18 @@
   "slug": "gros-billot",
   "name": "GROS BILLOT",
   "district": "grandport",
-  "generated": "2026-04-13T18:20:13.682Z",
-  "outageCount": 4,
+  "generated": "2026-04-14T06:30:41.085Z",
+  "outageCount": 5,
   "firstOutage": "2022-04-21",
-  "lastOutage": "2025-03-27",
+  "lastOutage": "2026-04-14",
   "outages": [
+    {
+      "date": "Le mardi 14 avril 2026 de  09:15:00 à  14:00:00",
+      "streets": "BOIS DOISEAU ROAD GROS BILLOT",
+      "from": "2026-04-14T05:15:00.000Z",
+      "to": "2026-04-14T10:00:00.000Z",
+      "id": "8a71bf6b8047d4aacb0cf8980b6499ae"
+    },
     {
       "date": "Le jeudi 27 mars 2025 de  14:00:00 à  17:00:00",
       "streets": "Gros Billot - une partie de la Route Royale Gros Billot",

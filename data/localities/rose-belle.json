@@ -2,11 +2,18 @@
   "slug": "rose-belle",
   "name": "ROSE BELLE",
   "district": "grandport",
-  "generated": "2026-04-13T18:20:13.832Z",
-  "outageCount": 80,
+  "generated": "2026-04-14T06:30:41.237Z",
+  "outageCount": 81,
   "firstOutage": "2022-05-12",
-  "lastOutage": "2026-04-07",
+  "lastOutage": "2026-04-16",
   "outages": [
+    {
+      "date": "Le jeudi 16 avril 2026 de  09:00:00 à  17:00:00",
+      "streets": "Rose Belle habitant dans le périmètre et les rues suivantes: Capitol Lane, Old Market Lane et une partie de la Route Royale Rose Belle",
+      "from": "2026-04-16T05:00:00.000Z",
+      "to": "2026-04-16T13:00:00.000Z",
+      "id": "62dbb2d4fdf8784745cc4715476b66e6"
+    },
     {
       "date": "Le mardi 7 avril 2026 de  18:00:00 à  22:30:00",
       "streets": "MADAME LOLO, MONGELARD, SUPERCASH ET CASINO.",

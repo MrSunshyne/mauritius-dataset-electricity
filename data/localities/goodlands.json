@@ -2,11 +2,18 @@
   "slug": "goodlands",
   "name": "GOODLANDS",
   "district": "rivieredurempart",
-  "generated": "2026-04-13T18:20:13.670Z",
-  "outageCount": 125,
+  "generated": "2026-04-14T06:30:41.073Z",
+  "outageCount": 126,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-04-04",
+  "lastOutage": "2026-04-14",
   "outages": [
+    {
+      "date": "Le mardi 14 avril 2026 de  10:15:00 à  13:00:00",
+      "streets": "MORC UNUTH, RESERVOIR RD AND SURROUNDINGS",
+      "from": "2026-04-14T06:15:00.000Z",
+      "to": "2026-04-14T09:00:00.000Z",
+      "id": "3aa1081f37d45b2959fd9ab0a5742909"
+    },
     {
       "date": "Le samedi 4 avril 2026 de  09:00:00 à  11:00:00",
       "streets": "RESERVOIR RD GOODLANDS",
