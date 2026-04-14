@@ -1,8 +1,8 @@
 {
   "date": "2026-04-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-14T12:14:26.335Z",
-  "outageCount": 9,
+  "generated": "2026-04-14T13:29:07.822Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le mardi 14 avril 2026 de  09:15:00 à  14:00:00",
@@ -93,6 +93,26 @@
       "from": "2026-04-14T07:30:00.000Z",
       "to": "2026-04-14T13:00:00.000Z",
       "id": "a5df43850a3789c567a669fef8f7ee45"
+    },
+    {
+      "date": "Le mardi 14 avril 2026 de  13:15:00 à  00:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "GOODLANDS, MORC PETIT VILLAGE VIP, NEW BAZAAR & NEW TRAFFIC CENTRE",
+      "district": "rivieredurempart",
+      "from": "2026-04-14T09:15:00.000Z",
+      "to": "2026-04-13T20:00:00.000Z",
+      "id": "600a92540ed90d8a712cb5f4e9bf78e7"
+    },
+    {
+      "date": "Le mardi 14 avril 2026 de  16:30:00 à  18:30:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "CHEMIN VINGT PIED, NEAR DOMAINE DES ALIZEES",
+      "district": "rivieredurempart",
+      "from": "2026-04-14T12:30:00.000Z",
+      "to": "2026-04-14T14:30:00.000Z",
+      "id": "26950c15e84b56d6c6cb3b4e2e1864e1"
     }
   ]
 }

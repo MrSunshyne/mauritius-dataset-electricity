@@ -2,11 +2,18 @@
   "slug": "grand-bay",
   "name": "GRAND BAY",
   "district": "rivieredurempart",
-  "generated": "2026-04-14T12:14:26.481Z",
-  "outageCount": 105,
+  "generated": "2026-04-14T13:29:07.966Z",
+  "outageCount": 106,
   "firstOutage": "2022-03-20",
   "lastOutage": "2026-04-14",
   "outages": [
+    {
+      "date": "Le mardi 14 avril 2026 de  16:30:00 à  18:30:00",
+      "streets": "CHEMIN VINGT PIED, NEAR DOMAINE DES ALIZEES",
+      "from": "2026-04-14T12:30:00.000Z",
+      "to": "2026-04-14T14:30:00.000Z",
+      "id": "26950c15e84b56d6c6cb3b4e2e1864e1"
+    },
     {
       "date": "Le mardi 14 avril 2026 de  10:20:00 à  13:30:00",
       "streets": "CHEMIN VINGT PIED, NEAR DOMAINE DES ALIZEES",
