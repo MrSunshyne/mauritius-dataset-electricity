@@ -2,11 +2,25 @@
   "slug": "mahebourg",
   "name": "MAHEBOURG",
   "district": "grandport",
-  "generated": "2026-04-14T06:30:41.122Z",
-  "outageCount": 77,
+  "generated": "2026-04-14T07:29:29.320Z",
+  "outageCount": 79,
   "firstOutage": "2022-04-07",
-  "lastOutage": "2026-04-14",
+  "lastOutage": "2026-04-17",
   "outages": [
+    {
+      "date": "Le vendredi 17 avril 2026 de  09:00:00 à  13:30:00",
+      "streets": "Mahebourg habitant dans le périmètre et les rues suivantes: Tombeau Lane, Ramnarain lane, Gopala Lane et Karan Lane",
+      "from": "2026-04-17T05:00:00.000Z",
+      "to": "2026-04-17T09:30:00.000Z",
+      "id": "449176c1229bac336cb4a16d4c1523a7"
+    },
+    {
+      "date": "Le jeudi 16 avril 2026 de  09:00:00 à  13:30:00",
+      "streets": "Mahebourg habitant dans le périmètre et les rues suivantes: Tombeau Lane, Ramnarain lane, Gopala Lane et Karan Lane",
+      "from": "2026-04-16T05:00:00.000Z",
+      "to": "2026-04-16T09:30:00.000Z",
+      "id": "6ab17873c57fb44140e824839eed4cca"
+    },
     {
       "date": "Le mardi 14 avril 2026 de  09:30:00 à  14:00:00",
       "streets": "KARAN LANE,TOMBEAU LANE MAHEBOURG",

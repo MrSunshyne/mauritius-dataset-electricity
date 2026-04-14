@@ -2,11 +2,18 @@
   "slug": "surinam",
   "name": "SURINAM",
   "district": "savanne",
-  "generated": "2026-04-14T06:30:41.261Z",
-  "outageCount": 50,
+  "generated": "2026-04-14T07:29:29.452Z",
+  "outageCount": 51,
   "firstOutage": "2022-05-08",
-  "lastOutage": "2026-03-03",
+  "lastOutage": "2026-04-16",
   "outages": [
+    {
+      "date": "Le jeudi 16 avril 2026 de  08:30:00 à  16:00:00",
+      "streets": "Martinière et Sept Croisées Surinam",
+      "from": "2026-04-16T04:30:00.000Z",
+      "to": "2026-04-16T12:00:00.000Z",
+      "id": "b1a8c65af4009b0032eef4f42c0970c7"
+    },
     {
       "date": "Le mardi 3 mars 2026 de  09:00:00 à  13:30:00",
       "streets": "Sept Croisees Surinam",

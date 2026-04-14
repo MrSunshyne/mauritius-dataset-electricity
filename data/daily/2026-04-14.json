@@ -1,8 +1,8 @@
 {
   "date": "2026-04-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-14T06:30:40.928Z",
-  "outageCount": 7,
+  "generated": "2026-04-14T07:29:29.132Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le mardi 14 avril 2026 de  09:15:00 à  14:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-04-14T04:30:00.000Z",
       "to": "2026-04-14T11:30:00.000Z",
       "id": "cb2b62e317b6bd5598d97cb97b4687b2"
+    },
+    {
+      "date": "Le mardi 14 avril 2026 de  10:45:00 à  12:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "RUE CERISIERS",
+      "district": "portlouis",
+      "from": "2026-04-14T06:45:00.000Z",
+      "to": "2026-04-14T08:00:00.000Z",
+      "id": "49bd248788a2012aa217a93a92ec9efd"
     },
     {
       "date": "Le mardi 14 avril 2026 de  10:20:00 à  13:30:00",

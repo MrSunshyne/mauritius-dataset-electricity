@@ -1,8 +1,8 @@
 {
   "date": "2026-04-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-14T06:30:40.928Z",
-  "outageCount": 2,
+  "generated": "2026-04-14T07:29:29.132Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le jeudi 16 avril 2026 de  09:00:00 à  17:00:00",
@@ -15,6 +15,16 @@
       "id": "62dbb2d4fdf8784745cc4715476b66e6"
     },
     {
+      "date": "Le jeudi 16 avril 2026 de  09:00:00 à  13:30:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "Mahebourg habitant dans le périmètre et les rues suivantes: Tombeau Lane, Ramnarain lane, Gopala Lane et Karan Lane",
+      "district": "grandport",
+      "from": "2026-04-16T05:00:00.000Z",
+      "to": "2026-04-16T09:30:00.000Z",
+      "id": "6ab17873c57fb44140e824839eed4cca"
+    },
+    {
       "date": "Le jeudi 16 avril 2026 de  15:00:00 à  17:30:00",
       "locality": "VACOAS",
       "localitySlug": "vacoas",
@@ -23,6 +33,16 @@
       "from": "2026-04-16T11:00:00.000Z",
       "to": "2026-04-16T13:30:00.000Z",
       "id": "7f2aa5b9fd881bf5a26f3ac1e1d9dfce"
+    },
+    {
+      "date": "Le jeudi 16 avril 2026 de  08:30:00 à  16:00:00",
+      "locality": "SURINAM",
+      "localitySlug": "surinam",
+      "streets": "Martinière et Sept Croisées Surinam",
+      "district": "savanne",
+      "from": "2026-04-16T04:30:00.000Z",
+      "to": "2026-04-16T12:00:00.000Z",
+      "id": "b1a8c65af4009b0032eef4f42c0970c7"
     }
   ]
 }

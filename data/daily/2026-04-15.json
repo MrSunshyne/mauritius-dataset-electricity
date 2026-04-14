@@ -1,8 +1,8 @@
 {
   "date": "2026-04-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-14T06:30:40.928Z",
-  "outageCount": 1,
+  "generated": "2026-04-14T07:29:29.132Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le mercredi 15 avril 2026 de  09:00:00 à  16:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-04-15T05:00:00.000Z",
       "to": "2026-04-15T12:30:00.000Z",
       "id": "50084663478253b4e5a4d28247d047d5"
+    },
+    {
+      "date": "Le mercredi 15 avril 2026 de  08:30:00 à  16:00:00",
+      "locality": "GRIS GRIS",
+      "localitySlug": "gris-gris",
+      "streets": "Morcellement Gris Gris et Domaine Gris Gris",
+      "district": "savanne",
+      "from": "2026-04-15T04:30:00.000Z",
+      "to": "2026-04-15T12:00:00.000Z",
+      "id": "641e3b1b8f3b58451295e096832de3e6"
     }
   ]
 }

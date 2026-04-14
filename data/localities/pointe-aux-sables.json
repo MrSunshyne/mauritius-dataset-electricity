@@ -2,11 +2,18 @@
   "slug": "pointe-aux-sables",
   "name": "POINTE AUX SABLES",
   "district": "portlouis",
-  "generated": "2026-04-14T06:30:41.194Z",
-  "outageCount": 135,
+  "generated": "2026-04-14T07:29:29.388Z",
+  "outageCount": 136,
   "firstOutage": "2022-03-30",
-  "lastOutage": "2026-04-01",
+  "lastOutage": "2026-04-14",
   "outages": [
+    {
+      "date": "Le mardi 14 avril 2026 de  10:45:00 à  12:00:00",
+      "streets": "RUE CERISIERS",
+      "from": "2026-04-14T06:45:00.000Z",
+      "to": "2026-04-14T08:00:00.000Z",
+      "id": "49bd248788a2012aa217a93a92ec9efd"
+    },
     {
       "date": "Le mercredi 1 avril 2026 de  10:00:00 à  14:00:00",
       "streets": "RESIDENCE COQUILLAGE",
