@@ -2,11 +2,18 @@
   "slug": "amitie",
   "name": "AMITIE",
   "district": "rivieredurempart",
-  "generated": "2026-04-15T12:13:58.400Z",
-  "outageCount": 13,
+  "generated": "2026-04-15T13:28:58.849Z",
+  "outageCount": 14,
   "firstOutage": "2022-04-28",
-  "lastOutage": "2026-02-26",
+  "lastOutage": "2026-04-15",
   "outages": [
+    {
+      "date": "Le mercredi 15 avril 2026 de  16:00:00 à  21:00:00",
+      "streets": "ROYAL ROAD AMITIE",
+      "from": "2026-04-15T12:00:00.000Z",
+      "to": "2026-04-15T17:00:00.000Z",
+      "id": "a0688e2d77db0b12baea95a4e10e65d1"
+    },
     {
       "date": "Le jeudi 26 février 2026 de  14:40:00 à  15:15:00",
       "streets": "BRAMSTHAN RD ET EN PARTIE ONE WAY RD ET LES ALENTOURS",
