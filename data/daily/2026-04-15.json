@@ -1,8 +1,8 @@
 {
   "date": "2026-04-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-15T13:28:58.828Z",
-  "outageCount": 12,
+  "generated": "2026-04-15T14:29:34.010Z",
+  "outageCount": 14,
   "outages": [
     {
       "date": "Le mercredi 15 avril 2026 de  09:00:00 à  17:45:00",
@@ -45,6 +45,16 @@
       "id": "e87cbabe0e07db5b29c8d84134b81b36"
     },
     {
+      "date": "Le mercredi 15 avril 2026 de  18:15:00 à  19:30:00",
+      "locality": "RICHE TERRE",
+      "localitySlug": "riche-terre",
+      "streets": "CWA FILATURE,INTEGRITY,LIGHTING MOTORWAY",
+      "district": "pamplemousses",
+      "from": "2026-04-15T14:15:00.000Z",
+      "to": "2026-04-15T15:30:00.000Z",
+      "id": "6311b4d3e54d44dc48fe1ecd2c809cb2"
+    },
+    {
       "date": "Le mercredi 15 avril 2026 de  11:00:00 à  14:00:00",
       "locality": "PHOENIX",
       "localitySlug": "phoenix",
@@ -83,6 +93,16 @@
       "from": "2026-04-15T05:00:00.000Z",
       "to": "2026-04-15T06:00:00.000Z",
       "id": "81fb580b3c5cdc9686fed5b70553254f"
+    },
+    {
+      "date": "Le mercredi 15 avril 2026 de  17:00:00 à  21:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "NEW SAINTE MARIE ROAD SAINTE CROIX",
+      "district": "portlouis",
+      "from": "2026-04-15T13:00:00.000Z",
+      "to": "2026-04-15T17:00:00.000Z",
+      "id": "7e99d5bcc7b07e364205a8350ae2a1de"
     },
     {
       "date": "Le mercredi 15 avril 2026 de  00:00:00 à  18:00:00",
