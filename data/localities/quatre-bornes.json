@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-04-15T10:25:19.348Z",
-  "outageCount": 365,
+  "generated": "2026-04-15T11:18:46.855Z",
+  "outageCount": 366,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-04-11",
+  "lastOutage": "2026-04-15",
   "outages": [
+    {
+      "date": "Le mercredi 15 avril 2026 de  16:00:00 à  17:30:00",
+      "streets": "CELICOURT ANTELME AVE,MURRAY AVE,STANLEY AVE,CONTE DE LYS AVE,AVE OLLIER(EN PARTIE) ,TOMBEAU LANE AND NEARBY REGION",
+      "from": "2026-04-15T12:00:00.000Z",
+      "to": "2026-04-15T13:30:00.000Z",
+      "id": "135a806539235069e367657f66fd4841"
+    },
     {
       "date": "Le samedi 11 avril 2026 de  14:00:00 à  15:00:00",
       "streets": "VIEUX QUATRE BORNES ET LES ENVIRONS",
