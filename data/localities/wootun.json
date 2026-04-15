@@ -2,11 +2,18 @@
   "slug": "wootun",
   "name": "WOOTUN",
   "district": "plainewilhems",
-  "generated": "2026-04-14T18:19:42.235Z",
-  "outageCount": 25,
+  "generated": "2026-04-15T06:31:13.516Z",
+  "outageCount": 26,
   "firstOutage": "2022-08-05",
-  "lastOutage": "2026-04-02",
+  "lastOutage": "2026-04-16",
   "outages": [
+    {
+      "date": "Le jeudi 16 avril 2026 de  09:00:00 à  15:00:00",
+      "streets": "dans les périmetres et les rues suivantes ; Morc SIT Pinewood, Cranberry Lane, Blueberry Lane et Wineberry Lane",
+      "from": "2026-04-16T05:00:00.000Z",
+      "to": "2026-04-16T11:00:00.000Z",
+      "id": "0a78a8e24e7dd02f7b3dccd709e5fd8b"
+    },
     {
       "date": "Le jeudi 2 avril 2026 de  09:00:00 à  16:30:00",
       "streets": "dans les environs de LImpasse Ramjeeawon et Tout Court Road",

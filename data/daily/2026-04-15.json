@@ -1,8 +1,8 @@
 {
   "date": "2026-04-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-14T18:19:41.893Z",
-  "outageCount": 4,
+  "generated": "2026-04-15T06:31:13.147Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le mercredi 15 avril 2026 de  09:00:00 à  16:30:00",
@@ -15,6 +15,26 @@
       "id": "50084663478253b4e5a4d28247d047d5"
     },
     {
+      "date": "Le mercredi 15 avril 2026 de  10:10:00 à  12:30:00",
+      "locality": "RICHFOND",
+      "localitySlug": "richfond",
+      "streets": "PART OF RICHE FOND",
+      "district": "flacq",
+      "from": "2026-04-15T06:10:00.000Z",
+      "to": "2026-04-15T08:30:00.000Z",
+      "id": "679f5c856cb652a645c2dab0d860ebbf"
+    },
+    {
+      "date": "Le mercredi 15 avril 2026 de  09:00:00 à  16:00:00",
+      "locality": "LE CHALAND",
+      "localitySlug": "le-chaland",
+      "streets": "POLICE STATION, NATIONAL COAST GUARD TRAINING SCHOOL",
+      "district": "grandport",
+      "from": "2026-04-15T05:00:00.000Z",
+      "to": "2026-04-15T12:00:00.000Z",
+      "id": "9e4cab0e6670fd7712597b287b0a8ce9"
+    },
+    {
       "date": "Le mercredi 15 avril 2026 de  08:30:00 à  16:00:00",
       "locality": "TRIOLET",
       "localitySlug": "triolet",
@@ -23,6 +43,26 @@
       "from": "2026-04-15T04:30:00.000Z",
       "to": "2026-04-15T12:00:00.000Z",
       "id": "e87cbabe0e07db5b29c8d84134b81b36"
+    },
+    {
+      "date": "Le mercredi 15 avril 2026 de  11:00:00 à  14:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Ex - railway Road, Robinson Road No. 1 et No. 2, Sir Abdool Razack Mohamed Centre QSC et les environs",
+      "district": "plainewilhems",
+      "from": "2026-04-15T07:00:00.000Z",
+      "to": "2026-04-15T10:00:00.000Z",
+      "id": "16f1ad7807874f95a5bd46656f9fb5a4"
+    },
+    {
+      "date": "Le mercredi 15 avril 2026 de  09:00:00 à  10:00:00",
+      "locality": "PLAINE VERTE",
+      "localitySlug": "plaine-verte",
+      "streets": "AVE CALCUTTA, MAGON ST, LOUIS XAVIER STREET & SURROUNDINGS",
+      "district": "portlouis",
+      "from": "2026-04-15T05:00:00.000Z",
+      "to": "2026-04-15T06:00:00.000Z",
+      "id": "81fb580b3c5cdc9686fed5b70553254f"
     },
     {
       "date": "Le mercredi 15 avril 2026 de  00:00:00 à  16:00:00",
@@ -43,6 +83,16 @@
       "from": "2026-04-15T04:30:00.000Z",
       "to": "2026-04-15T12:00:00.000Z",
       "id": "641e3b1b8f3b58451295e096832de3e6"
+    },
+    {
+      "date": "Le mercredi 15 avril 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LES ABONNES DE MONTAGNE CROUPIER.",
+      "district": "rodrigues",
+      "from": "2026-04-15T04:30:00.000Z",
+      "to": "2026-04-15T11:00:00.000Z",
+      "id": "5e91817ef6ff53a11d42fa200252b58a"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "slug": "phoenix",
   "name": "PHOENIX",
   "district": "plainewilhems",
-  "generated": "2026-04-14T18:19:42.130Z",
-  "outageCount": 103,
+  "generated": "2026-04-15T06:31:13.403Z",
+  "outageCount": 104,
   "firstOutage": "2022-03-20",
   "lastOutage": "2026-04-18",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-04-18T04:30:00.000Z",
       "to": "2026-04-18T12:00:00.000Z",
       "id": "6a3d9ef3b0f0654771a9e4b190a3770d"
+    },
+    {
+      "date": "Le mercredi 15 avril 2026 de  11:00:00 à  14:00:00",
+      "streets": "Ex - railway Road, Robinson Road No. 1 et No. 2, Sir Abdool Razack Mohamed Centre QSC et les environs",
+      "from": "2026-04-15T07:00:00.000Z",
+      "to": "2026-04-15T10:00:00.000Z",
+      "id": "16f1ad7807874f95a5bd46656f9fb5a4"
     },
     {
       "date": "Le mardi 14 avril 2026 de  15:00:00 à  18:00:00",

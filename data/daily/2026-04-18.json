@@ -1,9 +1,19 @@
 {
   "date": "2026-04-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-14T18:19:41.893Z",
-  "outageCount": 1,
+  "generated": "2026-04-15T06:31:13.147Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le samedi 18 avril 2026 de  08:30:00 à  16:00:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "Morcellement Le Mahe Mahebourg",
+      "district": "grandport",
+      "from": "2026-04-18T04:30:00.000Z",
+      "to": "2026-04-18T12:00:00.000Z",
+      "id": "ee8f21267aacddacd14b0caa8b88d697"
+    },
     {
       "date": "Le samedi 18 avril 2026 de  08:30:00 à  16:00:00",
       "locality": "PHOENIX",

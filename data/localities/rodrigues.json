@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-04-14T18:19:42.182Z",
-  "outageCount": 204,
+  "generated": "2026-04-15T06:31:13.459Z",
+  "outageCount": 205,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-04-09",
+  "lastOutage": "2026-04-15",
   "outages": [
+    {
+      "date": "Le mercredi 15 avril 2026 de  08:30:00 à  15:00:00",
+      "streets": "LES ABONNES DE MONTAGNE CROUPIER.",
+      "from": "2026-04-15T04:30:00.000Z",
+      "to": "2026-04-15T11:00:00.000Z",
+      "id": "5e91817ef6ff53a11d42fa200252b58a"
+    },
     {
       "date": "Le jeudi 9 avril 2026 de  00:00:00 à  16:00:00",
       "streets": "LES ABONNES DE SOUPIRS.",

@@ -2,11 +2,18 @@
   "slug": "le-chaland",
   "name": "LE CHALAND",
   "district": "grandport",
-  "generated": "2026-04-14T18:19:42.070Z",
-  "outageCount": 4,
+  "generated": "2026-04-15T06:31:13.337Z",
+  "outageCount": 5,
   "firstOutage": "2022-06-02",
-  "lastOutage": "2024-06-08",
+  "lastOutage": "2026-04-15",
   "outages": [
+    {
+      "date": "Le mercredi 15 avril 2026 de  09:00:00 à  16:00:00",
+      "streets": "POLICE STATION, NATIONAL COAST GUARD TRAINING SCHOOL",
+      "from": "2026-04-15T05:00:00.000Z",
+      "to": "2026-04-15T12:00:00.000Z",
+      "id": "9e4cab0e6670fd7712597b287b0a8ce9"
+    },
     {
       "date": "Le samedi 8 juin 2024 de  08:30:00 à  15:00:00",
       "streets": "Le Chaland",

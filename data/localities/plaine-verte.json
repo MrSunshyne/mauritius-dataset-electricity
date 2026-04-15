@@ -2,11 +2,18 @@
   "slug": "plaine-verte",
   "name": "PLAINE VERTE",
   "district": "portlouis",
-  "generated": "2026-04-14T18:19:42.137Z",
-  "outageCount": 27,
+  "generated": "2026-04-15T06:31:13.411Z",
+  "outageCount": 28,
   "firstOutage": "2022-12-21",
-  "lastOutage": "2026-02-26",
+  "lastOutage": "2026-04-15",
   "outages": [
+    {
+      "date": "Le mercredi 15 avril 2026 de  09:00:00 à  10:00:00",
+      "streets": "AVE CALCUTTA, MAGON ST, LOUIS XAVIER STREET & SURROUNDINGS",
+      "from": "2026-04-15T05:00:00.000Z",
+      "to": "2026-04-15T06:00:00.000Z",
+      "id": "81fb580b3c5cdc9686fed5b70553254f"
+    },
     {
       "date": "Le jeudi 26 février 2026 de  08:00:00 à  10:30:00",
       "streets": "MAGON ST, ST FRANCOIS, NEAR DREAMPRICE",

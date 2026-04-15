@@ -2,11 +2,18 @@
   "slug": "mahebourg",
   "name": "MAHEBOURG",
   "district": "grandport",
-  "generated": "2026-04-14T18:19:42.076Z",
-  "outageCount": 79,
+  "generated": "2026-04-15T06:31:13.344Z",
+  "outageCount": 80,
   "firstOutage": "2022-04-07",
-  "lastOutage": "2026-04-17",
+  "lastOutage": "2026-04-18",
   "outages": [
+    {
+      "date": "Le samedi 18 avril 2026 de  08:30:00 à  16:00:00",
+      "streets": "Morcellement Le Mahe Mahebourg",
+      "from": "2026-04-18T04:30:00.000Z",
+      "to": "2026-04-18T12:00:00.000Z",
+      "id": "ee8f21267aacddacd14b0caa8b88d697"
+    },
     {
       "date": "Le vendredi 17 avril 2026 de  09:00:00 à  13:30:00",
       "streets": "Mahebourg habitant dans le périmètre et les rues suivantes: Tombeau Lane, Ramnarain lane, Gopala Lane et Karan Lane",

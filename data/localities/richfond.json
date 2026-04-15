@@ -2,11 +2,18 @@
   "slug": "richfond",
   "name": "RICHFOND",
   "district": "flacq",
-  "generated": "2026-04-14T18:19:42.170Z",
-  "outageCount": 2,
+  "generated": "2026-04-15T06:31:13.447Z",
+  "outageCount": 3,
   "firstOutage": "2025-01-19",
-  "lastOutage": "2025-10-15",
+  "lastOutage": "2026-04-15",
   "outages": [
+    {
+      "date": "Le mercredi 15 avril 2026 de  10:10:00 à  12:30:00",
+      "streets": "PART OF RICHE FOND",
+      "from": "2026-04-15T06:10:00.000Z",
+      "to": "2026-04-15T08:30:00.000Z",
+      "id": "679f5c856cb652a645c2dab0d860ebbf"
+    },
     {
       "date": "Le mercredi 15 octobre 2025 de  13:00:00 à  17:00:00",
       "streets": "RICHFOND",

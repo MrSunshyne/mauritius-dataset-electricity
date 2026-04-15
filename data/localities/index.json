@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-14T18:19:42.236Z",
+  "generated": "2026-04-15T06:31:13.518Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -2077,10 +2077,10 @@
       "slug": "le-chaland",
       "name": "LE CHALAND",
       "district": "grandport",
-      "outageCount": 4,
+      "outageCount": 5,
       "file": "le-chaland.json",
       "firstOutage": "2022-06-02",
-      "lastOutage": "2024-06-08"
+      "lastOutage": "2026-04-15"
     },
     {
       "slug": "le-goulet",
@@ -2167,10 +2167,10 @@
       "slug": "mahebourg",
       "name": "MAHEBOURG",
       "district": "grandport",
-      "outageCount": 79,
+      "outageCount": 80,
       "file": "mahebourg.json",
       "firstOutage": "2022-04-07",
-      "lastOutage": "2026-04-17"
+      "lastOutage": "2026-04-18"
     },
     {
       "slug": "malabar",
@@ -2869,7 +2869,7 @@
       "slug": "phoenix",
       "name": "PHOENIX",
       "district": "plainewilhems",
-      "outageCount": 103,
+      "outageCount": 104,
       "file": "phoenix.json",
       "firstOutage": "2022-03-20",
       "lastOutage": "2026-04-18"
@@ -2959,10 +2959,10 @@
       "slug": "plaine-verte",
       "name": "PLAINE VERTE",
       "district": "portlouis",
-      "outageCount": 27,
+      "outageCount": 28,
       "file": "plaine-verte.json",
       "firstOutage": "2022-12-21",
-      "lastOutage": "2026-02-26"
+      "lastOutage": "2026-04-15"
     },
     {
       "slug": "plaisance-rose-hill",
@@ -3346,10 +3346,10 @@
       "slug": "richfond",
       "name": "RICHFOND",
       "district": "flacq",
-      "outageCount": 2,
+      "outageCount": 3,
       "file": "richfond.json",
       "firstOutage": "2025-01-19",
-      "lastOutage": "2025-10-15"
+      "lastOutage": "2026-04-15"
     },
     {
       "slug": "ripailles",
@@ -3490,10 +3490,10 @@
       "slug": "rodrigues",
       "name": "RODRIGUES",
       "district": "rodrigues",
-      "outageCount": 204,
+      "outageCount": 205,
       "file": "rodrigues.json",
       "firstOutage": "2022-03-15",
-      "lastOutage": "2026-04-09"
+      "lastOutage": "2026-04-15"
     },
     {
       "slug": "rose-belle",
@@ -4111,10 +4111,10 @@
       "slug": "wootun",
       "name": "WOOTUN",
       "district": "plainewilhems",
-      "outageCount": 25,
+      "outageCount": 26,
       "file": "wootun.json",
       "firstOutage": "2022-08-05",
-      "lastOutage": "2026-04-02"
+      "lastOutage": "2026-04-16"
     },
     {
       "slug": "xavier",
