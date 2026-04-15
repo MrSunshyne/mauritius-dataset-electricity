@@ -1,8 +1,8 @@
 {
   "date": "2026-04-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-15T15:22:55.458Z",
-  "outageCount": 14,
+  "generated": "2026-04-15T16:17:57.028Z",
+  "outageCount": 16,
   "outages": [
     {
       "date": "Le mercredi 15 avril 2026 de  09:00:00 à  17:45:00",
@@ -53,6 +53,16 @@
       "from": "2026-04-15T14:15:00.000Z",
       "to": "2026-04-15T15:30:00.000Z",
       "id": "6311b4d3e54d44dc48fe1ecd2c809cb2"
+    },
+    {
+      "date": "Le mercredi 15 avril 2026 de  18:00:00 à  21:00:00",
+      "locality": "SOLITUDE",
+      "localitySlug": "solitude",
+      "streets": "NEAR BRINKS",
+      "district": "pamplemousses",
+      "from": "2026-04-15T14:00:00.000Z",
+      "to": "2026-04-15T17:00:00.000Z",
+      "id": "7c4be203d752adcd0eed42bd629c3dda"
     },
     {
       "date": "Le mercredi 15 avril 2026 de  11:00:00 à  14:00:00",
@@ -123,6 +133,16 @@
       "from": "2026-04-15T12:00:00.000Z",
       "to": "2026-04-15T17:00:00.000Z",
       "id": "a0688e2d77db0b12baea95a4e10e65d1"
+    },
+    {
+      "date": "Le mercredi 15 avril 2026 de  20:15:00 à  21:15:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "GOODLANDS, MORC PETIT VILLAGE VIP, NEW BAZAAR & NEW TRAFFIC CENTRE",
+      "district": "rivieredurempart",
+      "from": "2026-04-15T16:15:00.000Z",
+      "to": "2026-04-15T17:15:00.000Z",
+      "id": "e930da1e5fdef89e431fe143f0d70778"
     },
     {
       "date": "Le mercredi 15 avril 2026 de  08:30:00 à  16:00:00",
