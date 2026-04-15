@@ -1,8 +1,8 @@
 {
   "date": "2026-04-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-15T09:28:01.040Z",
-  "outageCount": 9,
+  "generated": "2026-04-15T10:25:19.065Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le mercredi 15 avril 2026 de  09:00:00 à  16:30:00",
@@ -53,6 +53,16 @@
       "from": "2026-04-15T07:00:00.000Z",
       "to": "2026-04-15T10:00:00.000Z",
       "id": "16f1ad7807874f95a5bd46656f9fb5a4"
+    },
+    {
+      "date": "Le mercredi 15 avril 2026 de  13:00:00 à  15:00:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "MORC LA COMETE AND NEARBY STREET",
+      "district": "plainewilhems",
+      "from": "2026-04-15T09:00:00.000Z",
+      "to": "2026-04-15T11:00:00.000Z",
+      "id": "07462ff9f270fc4b476dafe04a6f56a2"
     },
     {
       "date": "Le mercredi 15 avril 2026 de  09:00:00 à  10:00:00",

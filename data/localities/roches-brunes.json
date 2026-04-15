@@ -2,11 +2,18 @@
   "slug": "roches-brunes",
   "name": "ROCHES BRUNES",
   "district": "plainewilhems",
-  "generated": "2026-04-15T09:28:01.276Z",
-  "outageCount": 28,
+  "generated": "2026-04-15T10:25:19.374Z",
+  "outageCount": 29,
   "firstOutage": "2022-10-01",
-  "lastOutage": "2026-04-04",
+  "lastOutage": "2026-04-15",
   "outages": [
+    {
+      "date": "Le mercredi 15 avril 2026 de  13:00:00 à  15:00:00",
+      "streets": "MORC LA COMETE AND NEARBY STREET",
+      "from": "2026-04-15T09:00:00.000Z",
+      "to": "2026-04-15T11:00:00.000Z",
+      "id": "07462ff9f270fc4b476dafe04a6f56a2"
+    },
     {
       "date": "Le samedi 4 avril 2026 de  08:30:00 à  16:15:00",
       "streets": "Morc St Daniel et les environs",
