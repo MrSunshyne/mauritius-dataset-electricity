@@ -2,11 +2,18 @@
   "slug": "quartier-militaire",
   "name": "QUARTIER MILITAIRE",
   "district": "moka",
-  "generated": "2026-04-15T17:20:45.496Z",
-  "outageCount": 45,
+  "generated": "2026-04-15T18:19:24.673Z",
+  "outageCount": 46,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-04-13",
+  "lastOutage": "2026-04-15",
   "outages": [
+    {
+      "date": "Le mercredi 15 avril 2026 de  21:30:00 à  22:30:00",
+      "streets": "Old Grand Port Road",
+      "from": "2026-04-15T17:30:00.000Z",
+      "to": "2026-04-15T18:30:00.000Z",
+      "id": "5f6e50893b9405fd8d0ba7817802754e"
+    },
     {
       "date": "Le lundi 13 avril 2026 de  09:00:00 à  15:00:00",
       "streets": "dans les environs de Bombay Street et Betuel Street",

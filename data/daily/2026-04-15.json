@@ -1,8 +1,8 @@
 {
   "date": "2026-04-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-15T17:20:45.199Z",
-  "outageCount": 16,
+  "generated": "2026-04-15T18:19:24.392Z",
+  "outageCount": 17,
   "outages": [
     {
       "date": "Le mercredi 15 avril 2026 de  09:00:00 à  17:45:00",
@@ -33,6 +33,16 @@
       "from": "2026-04-15T05:00:00.000Z",
       "to": "2026-04-15T12:00:00.000Z",
       "id": "9e4cab0e6670fd7712597b287b0a8ce9"
+    },
+    {
+      "date": "Le mercredi 15 avril 2026 de  21:30:00 à  22:30:00",
+      "locality": "QUARTIER MILITAIRE",
+      "localitySlug": "quartier-militaire",
+      "streets": "Old Grand Port Road",
+      "district": "moka",
+      "from": "2026-04-15T17:30:00.000Z",
+      "to": "2026-04-15T18:30:00.000Z",
+      "id": "5f6e50893b9405fd8d0ba7817802754e"
     },
     {
       "date": "Le mercredi 15 avril 2026 de  08:30:00 à  16:00:00",
