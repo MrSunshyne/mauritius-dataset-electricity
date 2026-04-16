@@ -2,11 +2,18 @@
   "slug": "lesur",
   "name": "LESUR",
   "district": "plainewilhems",
-  "generated": "2026-04-15T18:19:24.586Z",
-  "outageCount": 5,
+  "generated": "2026-04-16T06:31:38.571Z",
+  "outageCount": 6,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2024-12-05",
+  "lastOutage": "2026-04-16",
   "outages": [
+    {
+      "date": "Le jeudi 16 avril 2026 de  12:00:00 à  15:00:00",
+      "streets": "dans les environs EDC Road",
+      "from": "2026-04-16T08:00:00.000Z",
+      "to": "2026-04-16T11:00:00.000Z",
+      "id": "4bf0909e8d19b6c3c73ed88841d77a1d"
+    },
     {
       "date": "Le jeudi 5 décembre 2024 de  09:30:00 à  14:00:00",
       "streets": "LESUR",

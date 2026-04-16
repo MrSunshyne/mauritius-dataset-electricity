@@ -2,11 +2,18 @@
   "slug": "riche-terre",
   "name": "RICHE TERRE",
   "district": "pamplemousses",
-  "generated": "2026-04-15T18:19:24.687Z",
-  "outageCount": 36,
+  "generated": "2026-04-16T06:31:38.669Z",
+  "outageCount": 37,
   "firstOutage": "2022-04-03",
-  "lastOutage": "2026-04-15",
+  "lastOutage": "2026-04-19",
   "outages": [
+    {
+      "date": "Le dimanche 19 avril 2026 de  08:30:00 à  15:30:00",
+      "streets": "DANS LES ENVIRONS DE SUSHIL LANE, MUSLIM CEMETRY ROAD, IMPASSE ST MICHEL ET RESIDENCE BRIQUETTERIE",
+      "from": "2026-04-19T04:30:00.000Z",
+      "to": "2026-04-19T11:30:00.000Z",
+      "id": "bcc35a18f8c0750c43ad941e2a9f1d78"
+    },
     {
       "date": "Le mercredi 15 avril 2026 de  18:15:00 à  19:30:00",
       "streets": "CWA FILATURE,INTEGRITY,LIGHTING MOTORWAY",

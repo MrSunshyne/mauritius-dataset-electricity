@@ -1,9 +1,49 @@
 {
   "date": "2026-04-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-15T18:19:24.393Z",
-  "outageCount": 1,
+  "generated": "2026-04-16T06:31:38.385Z",
+  "outageCount": 8,
   "outages": [
+    {
+      "date": "Le dimanche 19 avril 2026 de  08:30:00 à  12:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "DANS LES ENVIRONS DE REVEREND CHAMOINE ROAD, EMBREVADES ROAD, ANAZOR ROAD ET UNE PARTIE DE LA ROUTE ROYALE",
+      "district": "blackriver",
+      "from": "2026-04-19T04:30:00.000Z",
+      "to": "2026-04-19T08:00:00.000Z",
+      "id": "90a72de80d3985eee4320580ce401fd3"
+    },
+    {
+      "date": "Le dimanche 19 avril 2026 de  08:30:00 à  16:00:00",
+      "locality": "POSTE LAFAYETTE",
+      "localitySlug": "poste-lafayette",
+      "streets": "TX Le nid- Poste La Fayette dans le périmètre de SEA BEL restaurant, Hollywood residence, Residence Le Nid et Coast Guard (Poste Lafayette).",
+      "district": "flacq",
+      "from": "2026-04-19T04:30:00.000Z",
+      "to": "2026-04-19T12:00:00.000Z",
+      "id": "ae99003123e02742004daaf52ba847e4"
+    },
+    {
+      "date": "Le dimanche 19 avril 2026 de  08:30:00 à  16:00:00",
+      "locality": "DUBREUIL",
+      "localitySlug": "dubreuil",
+      "streets": "dans les environs de La Pipe",
+      "district": "moka",
+      "from": "2026-04-19T04:30:00.000Z",
+      "to": "2026-04-19T12:00:00.000Z",
+      "id": "0c061f258965a9a82d3546232c5baf75"
+    },
+    {
+      "date": "Le dimanche 19 avril 2026 de  08:30:00 à  15:30:00",
+      "locality": "RICHE TERRE",
+      "localitySlug": "riche-terre",
+      "streets": "DANS LES ENVIRONS DE SUSHIL LANE, MUSLIM CEMETRY ROAD, IMPASSE ST MICHEL ET RESIDENCE BRIQUETTERIE",
+      "district": "pamplemousses",
+      "from": "2026-04-19T04:30:00.000Z",
+      "to": "2026-04-19T11:30:00.000Z",
+      "id": "bcc35a18f8c0750c43ad941e2a9f1d78"
+    },
     {
       "date": "Le dimanche 19 avril 2026 de  08:30:00 à  17:00:00",
       "locality": "GLEN PARK",
@@ -13,6 +53,36 @@
       "from": "2026-04-19T04:30:00.000Z",
       "to": "2026-04-19T13:00:00.000Z",
       "id": "7113fec11badc552bb7d770beb2609bf"
+    },
+    {
+      "date": "Le dimanche 19 avril 2026 de  08:00:00 à  18:00:00",
+      "locality": "EBENE",
+      "localitySlug": "ebene",
+      "streets": "Alexandra House & MNS Building",
+      "district": "plainewilhems",
+      "from": "2026-04-19T04:00:00.000Z",
+      "to": "2026-04-19T14:00:00.000Z",
+      "id": "975de0085595c66b22ab7d7d3bfc34e3"
+    },
+    {
+      "date": "Le dimanche 19 avril 2026 de  09:00:00 à  12:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "VINGT PIED ROAD IN THE SURROUNDING OF MORC TASSOT, PEREYBERE",
+      "district": "rivieredurempart",
+      "from": "2026-04-19T05:00:00.000Z",
+      "to": "2026-04-19T08:00:00.000Z",
+      "id": "992ee0ebc63bc24928d10a301f192b34"
+    },
+    {
+      "date": "Le dimanche 19 avril 2026 de  08:00:00 à  15:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "CHEMIN 20 PIED, VILLA DEL SOL & VILLA SEASHELL APPARTENT GRAND BAY",
+      "district": "rivieredurempart",
+      "from": "2026-04-19T04:00:00.000Z",
+      "to": "2026-04-19T11:00:00.000Z",
+      "id": "7c42f0cd714d3569266adb9598e17372"
     }
   ]
 }

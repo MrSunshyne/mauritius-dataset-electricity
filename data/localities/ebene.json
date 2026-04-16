@@ -2,11 +2,18 @@
   "slug": "ebene",
   "name": "EBENE",
   "district": "plainewilhems",
-  "generated": "2026-04-15T18:19:24.526Z",
-  "outageCount": 24,
+  "generated": "2026-04-16T06:31:38.513Z",
+  "outageCount": 25,
   "firstOutage": "2022-04-25",
-  "lastOutage": "2026-03-02",
+  "lastOutage": "2026-04-19",
   "outages": [
+    {
+      "date": "Le dimanche 19 avril 2026 de  08:00:00 à  18:00:00",
+      "streets": "Alexandra House & MNS Building",
+      "from": "2026-04-19T04:00:00.000Z",
+      "to": "2026-04-19T14:00:00.000Z",
+      "id": "975de0085595c66b22ab7d7d3bfc34e3"
+    },
     {
       "date": "Le lundi 2 mars 2026 de  15:00:00 à  17:30:00",
       "streets": "mitd",

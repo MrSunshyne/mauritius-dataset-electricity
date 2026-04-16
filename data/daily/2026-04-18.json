@@ -1,8 +1,8 @@
 {
   "date": "2026-04-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-15T18:19:24.392Z",
-  "outageCount": 2,
+  "generated": "2026-04-16T06:31:38.385Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le samedi 18 avril 2026 de  08:30:00 à  16:00:00",
@@ -23,6 +23,36 @@
       "from": "2026-04-18T04:30:00.000Z",
       "to": "2026-04-18T12:00:00.000Z",
       "id": "6a3d9ef3b0f0654771a9e4b190a3770d"
+    },
+    {
+      "date": "Le samedi 18 avril 2026 de  08:00:00 à  15:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVE BALGOBIN, APPARTEMENT LE PALMISTE",
+      "district": "plainewilhems",
+      "from": "2026-04-18T04:00:00.000Z",
+      "to": "2026-04-18T11:00:00.000Z",
+      "id": "682fdcfd0b8005af58bb7877102a4581"
+    },
+    {
+      "date": "Le samedi 18 avril 2026 de  14:00:00 à  15:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "VIEUX QUATRE BORNES",
+      "district": "plainewilhems",
+      "from": "2026-04-18T10:00:00.000Z",
+      "to": "2026-04-18T11:00:00.000Z",
+      "id": "6e1835fba011f92b9c1039b732cfdcb5"
+    },
+    {
+      "date": "Le samedi 18 avril 2026 de  08:30:00 à  15:30:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "COASTAL ROAD, CASINO, HOTEL ROYAL PALM 7 HOTEL LUX GRAND BAY",
+      "district": "rivieredurempart",
+      "from": "2026-04-18T04:30:00.000Z",
+      "to": "2026-04-18T11:30:00.000Z",
+      "id": "99dbcbab2475f058beeb97831165ff49"
     }
   ]
 }

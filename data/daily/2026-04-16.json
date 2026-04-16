@@ -1,8 +1,8 @@
 {
   "date": "2026-04-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-15T18:19:24.392Z",
-  "outageCount": 5,
+  "generated": "2026-04-16T06:31:38.385Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le jeudi 16 avril 2026 de  09:00:00 à  17:00:00",
@@ -25,6 +25,16 @@
       "id": "6ab17873c57fb44140e824839eed4cca"
     },
     {
+      "date": "Le jeudi 16 avril 2026 de  09:00:00 à  12:00:00",
+      "locality": "POINTE D-ESNY",
+      "localitySlug": "pointe-d-esny",
+      "streets": "COASTAL ROAD & SURROUNDINGS",
+      "district": "grandport",
+      "from": "2026-04-16T05:00:00.000Z",
+      "to": "2026-04-16T08:00:00.000Z",
+      "id": "d1dd2c61fd91439b6a1f9aac5a0a25a4"
+    },
+    {
       "date": "Le jeudi 16 avril 2026 de  15:00:00 à  17:30:00",
       "locality": "VACOAS",
       "localitySlug": "vacoas",
@@ -43,6 +53,26 @@
       "from": "2026-04-16T05:00:00.000Z",
       "to": "2026-04-16T11:00:00.000Z",
       "id": "0a78a8e24e7dd02f7b3dccd709e5fd8b"
+    },
+    {
+      "date": "Le jeudi 16 avril 2026 de  12:00:00 à  16:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "ROSE HILL CENTER, AVE INKERMAN, AND AVE  ST IGNACE",
+      "district": "plainewilhems",
+      "from": "2026-04-16T08:00:00.000Z",
+      "to": "2026-04-16T12:00:00.000Z",
+      "id": "a2703c6db08aa21bdc11ce34e266927a"
+    },
+    {
+      "date": "Le jeudi 16 avril 2026 de  12:00:00 à  15:00:00",
+      "locality": "LESUR",
+      "localitySlug": "lesur",
+      "streets": "dans les environs EDC Road",
+      "district": "plainewilhems",
+      "from": "2026-04-16T08:00:00.000Z",
+      "to": "2026-04-16T11:00:00.000Z",
+      "id": "4bf0909e8d19b6c3c73ed88841d77a1d"
     },
     {
       "date": "Le jeudi 16 avril 2026 de  08:30:00 à  16:00:00",

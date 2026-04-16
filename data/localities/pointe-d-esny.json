@@ -2,11 +2,18 @@
   "slug": "pointe-d-esny",
   "name": "POINTE D-ESNY",
   "district": "grandport",
-  "generated": "2026-04-15T18:19:24.661Z",
-  "outageCount": 6,
+  "generated": "2026-04-16T06:31:38.642Z",
+  "outageCount": 7,
   "firstOutage": "2022-05-12",
-  "lastOutage": "2025-03-27",
+  "lastOutage": "2026-04-16",
   "outages": [
+    {
+      "date": "Le jeudi 16 avril 2026 de  09:00:00 à  12:00:00",
+      "streets": "COASTAL ROAD & SURROUNDINGS",
+      "from": "2026-04-16T05:00:00.000Z",
+      "to": "2026-04-16T08:00:00.000Z",
+      "id": "d1dd2c61fd91439b6a1f9aac5a0a25a4"
+    },
     {
       "date": "Le jeudi 27 mars 2025 de  08:30:00 à  10:00:00",
       "streets": "COASTAL ROAD POINTE DESNY",

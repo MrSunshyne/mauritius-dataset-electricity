@@ -2,11 +2,18 @@
   "slug": "pereybere",
   "name": "PEREYBERE",
   "district": "rivieredurempart",
-  "generated": "2026-04-15T18:19:24.636Z",
-  "outageCount": 103,
+  "generated": "2026-04-16T06:31:38.618Z",
+  "outageCount": 104,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-04-09",
+  "lastOutage": "2026-04-19",
   "outages": [
+    {
+      "date": "Le dimanche 19 avril 2026 de  09:00:00 à  12:00:00",
+      "streets": "VINGT PIED ROAD IN THE SURROUNDING OF MORC TASSOT, PEREYBERE",
+      "from": "2026-04-19T05:00:00.000Z",
+      "to": "2026-04-19T08:00:00.000Z",
+      "id": "992ee0ebc63bc24928d10a301f192b34"
+    },
     {
       "date": "Le jeudi 9 avril 2026 de  18:30:00 à  23:30:00",
       "streets": "RUE BALI PEREYBERE",

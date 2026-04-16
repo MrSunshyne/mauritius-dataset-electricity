@@ -2,11 +2,18 @@
   "slug": "poste-lafayette",
   "name": "POSTE LAFAYETTE",
   "district": "flacq",
-  "generated": "2026-04-15T18:19:24.669Z",
-  "outageCount": 37,
+  "generated": "2026-04-16T06:31:38.650Z",
+  "outageCount": 38,
   "firstOutage": "2022-03-24",
-  "lastOutage": "2026-02-16",
+  "lastOutage": "2026-04-19",
   "outages": [
+    {
+      "date": "Le dimanche 19 avril 2026 de  08:30:00 à  16:00:00",
+      "streets": "TX Le nid- Poste La Fayette dans le périmètre de SEA BEL restaurant, Hollywood residence, Residence Le Nid et Coast Guard (Poste Lafayette).",
+      "from": "2026-04-19T04:30:00.000Z",
+      "to": "2026-04-19T12:00:00.000Z",
+      "id": "ae99003123e02742004daaf52ba847e4"
+    },
     {
       "date": "Le lundi 16 février 2026 de  06:00:00 à  12:00:00",
       "streets": "",

@@ -2,11 +2,25 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-04-15T18:19:24.675Z",
-  "outageCount": 366,
+  "generated": "2026-04-16T06:31:38.656Z",
+  "outageCount": 368,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-04-15",
+  "lastOutage": "2026-04-18",
   "outages": [
+    {
+      "date": "Le samedi 18 avril 2026 de  14:00:00 à  15:00:00",
+      "streets": "VIEUX QUATRE BORNES",
+      "from": "2026-04-18T10:00:00.000Z",
+      "to": "2026-04-18T11:00:00.000Z",
+      "id": "6e1835fba011f92b9c1039b732cfdcb5"
+    },
+    {
+      "date": "Le samedi 18 avril 2026 de  08:00:00 à  15:00:00",
+      "streets": "AVE BALGOBIN, APPARTEMENT LE PALMISTE",
+      "from": "2026-04-18T04:00:00.000Z",
+      "to": "2026-04-18T11:00:00.000Z",
+      "id": "682fdcfd0b8005af58bb7877102a4581"
+    },
     {
       "date": "Le mercredi 15 avril 2026 de  16:00:00 à  17:30:00",
       "streets": "CELICOURT ANTELME AVE,MURRAY AVE,STANLEY AVE,CONTE DE LYS AVE,AVE OLLIER(EN PARTIE) ,TOMBEAU LANE AND NEARBY REGION",
