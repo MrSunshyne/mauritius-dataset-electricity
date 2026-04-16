@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-04-16T09:27:41.808Z",
-  "outageCount": 131,
+  "generated": "2026-04-16T10:24:45.951Z",
+  "outageCount": 132,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-04-15",
+  "lastOutage": "2026-04-17",
   "outages": [
+    {
+      "date": "Le vendredi 17 avril 2026 de  09:00:00 à  11:00:00",
+      "streets": "7eme et 8eme Mile Triolet et une partie de Pointe aux Piments",
+      "from": "2026-04-17T05:00:00.000Z",
+      "to": "2026-04-17T07:00:00.000Z",
+      "id": "6e79ed8debac8a5fa0ea3edcf5862827"
+    },
     {
       "date": "Le mercredi 15 avril 2026 de  08:30:00 à  16:00:00",
       "streets": "20 Pieds Road at Triolet from Fire station till Morc Bois Chandelle and Allee du Golf",

@@ -1,8 +1,8 @@
 {
   "date": "2026-04-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-16T09:27:41.477Z",
-  "outageCount": 1,
+  "generated": "2026-04-16T10:24:45.595Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le vendredi 17 avril 2026 de  09:00:00 à  13:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-04-17T05:00:00.000Z",
       "to": "2026-04-17T09:30:00.000Z",
       "id": "449176c1229bac336cb4a16d4c1523a7"
+    },
+    {
+      "date": "Le vendredi 17 avril 2026 de  09:00:00 à  11:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "7eme et 8eme Mile Triolet et une partie de Pointe aux Piments",
+      "district": "pamplemousses",
+      "from": "2026-04-17T05:00:00.000Z",
+      "to": "2026-04-17T07:00:00.000Z",
+      "id": "6e79ed8debac8a5fa0ea3edcf5862827"
     }
   ]
 }
