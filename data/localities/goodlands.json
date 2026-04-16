@@ -2,11 +2,18 @@
   "slug": "goodlands",
   "name": "GOODLANDS",
   "district": "rivieredurempart",
-  "generated": "2026-04-16T12:15:22.526Z",
-  "outageCount": 129,
+  "generated": "2026-04-16T13:29:22.345Z",
+  "outageCount": 130,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-04-15",
+  "lastOutage": "2026-04-16",
   "outages": [
+    {
+      "date": "Le jeudi 16 avril 2026 de  16:45:00 à  17:30:00",
+      "streets": "PLATEAU ROAD GOODLANDS",
+      "from": "2026-04-16T12:45:00.000Z",
+      "to": "2026-04-16T13:30:00.000Z",
+      "id": "fd8a51c8361c0674fe22d3e429290ef7"
+    },
     {
       "date": "Le mercredi 15 avril 2026 de  20:15:00 à  21:15:00",
       "streets": "GOODLANDS, MORC PETIT VILLAGE VIP, NEW BAZAAR & NEW TRAFFIC CENTRE",

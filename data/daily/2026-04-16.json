@@ -1,18 +1,18 @@
 {
   "date": "2026-04-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-16T12:15:22.382Z",
-  "outageCount": 10,
+  "generated": "2026-04-16T13:29:22.201Z",
+  "outageCount": 11,
   "outages": [
     {
-      "date": "Le jeudi 16 avril 2026 de  09:00:00 à  16:00:00",
+      "date": "Le jeudi 16 avril 2026 de  09:00:00 à  17:30:00",
       "locality": "POSTE DE FLACQ",
       "localitySlug": "poste-de-flacq",
       "streets": "CAMP POORUN.",
       "district": "flacq",
       "from": "2026-04-16T05:00:00.000Z",
-      "to": "2026-04-16T12:00:00.000Z",
-      "id": "5f1fc48b3a1c5955769dd1972ba05795"
+      "to": "2026-04-16T13:30:00.000Z",
+      "id": "dacd11bbc575d6ded63cbc5b41688b5f"
     },
     {
       "date": "Le jeudi 16 avril 2026 de  09:00:00 à  17:00:00",
@@ -83,6 +83,16 @@
       "from": "2026-04-16T08:00:00.000Z",
       "to": "2026-04-16T11:00:00.000Z",
       "id": "4bf0909e8d19b6c3c73ed88841d77a1d"
+    },
+    {
+      "date": "Le jeudi 16 avril 2026 de  16:45:00 à  17:30:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "PLATEAU ROAD GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2026-04-16T12:45:00.000Z",
+      "to": "2026-04-16T13:30:00.000Z",
+      "id": "fd8a51c8361c0674fe22d3e429290ef7"
     },
     {
       "date": "Le jeudi 16 avril 2026 de  08:30:00 à  16:00:00",
