@@ -2,11 +2,18 @@
   "slug": "poste-de-flacq",
   "name": "POSTE DE FLACQ",
   "district": "flacq",
-  "generated": "2026-04-16T06:31:38.649Z",
-  "outageCount": 37,
+  "generated": "2026-04-16T07:29:04.132Z",
+  "outageCount": 38,
   "firstOutage": "2022-06-12",
-  "lastOutage": "2026-04-09",
+  "lastOutage": "2026-04-16",
   "outages": [
+    {
+      "date": "Le jeudi 16 avril 2026 de  09:00:00 à  16:00:00",
+      "streets": "CAMP POORUN.",
+      "from": "2026-04-16T05:00:00.000Z",
+      "to": "2026-04-16T12:00:00.000Z",
+      "id": "5f1fc48b3a1c5955769dd1972ba05795"
+    },
     {
       "date": "Le jeudi 9 avril 2026 de  08:30:00 à  17:00:00",
       "streets": "POSTE DE FLACQ DANS LE PERIMETRE DE ROYAL ROAD, KASHINATH ROAD ET BELLE ETOILE WEDDING HALL.",

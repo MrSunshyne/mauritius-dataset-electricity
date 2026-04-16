@@ -1,9 +1,19 @@
 {
   "date": "2026-04-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-16T06:31:38.385Z",
-  "outageCount": 8,
+  "generated": "2026-04-16T07:29:03.857Z",
+  "outageCount": 10,
   "outages": [
+    {
+      "date": "Le jeudi 16 avril 2026 de  09:00:00 à  16:00:00",
+      "locality": "POSTE DE FLACQ",
+      "localitySlug": "poste-de-flacq",
+      "streets": "CAMP POORUN.",
+      "district": "flacq",
+      "from": "2026-04-16T05:00:00.000Z",
+      "to": "2026-04-16T12:00:00.000Z",
+      "id": "5f1fc48b3a1c5955769dd1972ba05795"
+    },
     {
       "date": "Le jeudi 16 avril 2026 de  09:00:00 à  17:00:00",
       "locality": "ROSE BELLE",
@@ -83,6 +93,16 @@
       "from": "2026-04-16T04:30:00.000Z",
       "to": "2026-04-16T12:00:00.000Z",
       "id": "b1a8c65af4009b0032eef4f42c0970c7"
+    },
+    {
+      "date": "Le jeudi 16 avril 2026 de  10:30:00 à  13:30:00",
+      "locality": "L-ESCALIER",
+      "localitySlug": "l-escalier",
+      "streets": "ROYAL ROAD & SURROUNDINGS",
+      "district": "savanne",
+      "from": "2026-04-16T06:30:00.000Z",
+      "to": "2026-04-16T09:30:00.000Z",
+      "id": "5ef9daad7ec6e181efb1825620b44197"
     }
   ]
 }
