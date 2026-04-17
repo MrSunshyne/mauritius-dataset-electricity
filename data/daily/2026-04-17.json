@@ -1,8 +1,8 @@
 {
   "date": "2026-04-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-17T10:22:52.054Z",
-  "outageCount": 4,
+  "generated": "2026-04-17T11:16:37.520Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le vendredi 17 avril 2026 de  09:00:00 à  13:30:00",
@@ -23,6 +23,16 @@
       "from": "2026-04-17T05:00:00.000Z",
       "to": "2026-04-17T07:00:00.000Z",
       "id": "6e79ed8debac8a5fa0ea3edcf5862827"
+    },
+    {
+      "date": "Le vendredi 17 avril 2026 de  14:42:00 à  16:00:00",
+      "locality": "VILLEBAGUE",
+      "localitySlug": "villebague",
+      "streets": "FROM LA CROISEE RESERVOIR NICOLIERE TILL SHIVALA VILLEBAGUE.",
+      "district": "pamplemousses",
+      "from": "2026-04-17T10:42:00.000Z",
+      "to": "2026-04-17T12:00:00.000Z",
+      "id": "4d941699ab566ef4fbff175167a7be68"
     },
     {
       "date": "Le vendredi 17 avril 2026 de  09:15:00 à  09:40:00",
