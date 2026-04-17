@@ -1,8 +1,8 @@
 {
   "date": "2026-04-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-17T06:31:21.408Z",
-  "outageCount": 8,
+  "generated": "2026-04-17T07:29:23.975Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le dimanche 19 avril 2026 de  08:30:00 à  12:00:00",
@@ -63,6 +63,16 @@
       "from": "2026-04-19T04:00:00.000Z",
       "to": "2026-04-19T14:00:00.000Z",
       "id": "975de0085595c66b22ab7d7d3bfc34e3"
+    },
+    {
+      "date": "Le dimanche 19 avril 2026 de  09:30:00 à  12:00:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "Henrietta Branch Road, Jasmine Lane, School Lane.",
+      "district": "plainewilhems",
+      "from": "2026-04-19T05:30:00.000Z",
+      "to": "2026-04-19T08:00:00.000Z",
+      "id": "3a2188a7e4b79a7e2aab5c7a548c6a9c"
     },
     {
       "date": "Le dimanche 19 avril 2026 de  09:00:00 à  12:00:00",

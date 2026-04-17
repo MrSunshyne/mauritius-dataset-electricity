@@ -1,8 +1,8 @@
 {
   "date": "2026-04-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-17T06:31:21.408Z",
-  "outageCount": 3,
+  "generated": "2026-04-17T07:29:23.975Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le vendredi 17 avril 2026 de  09:00:00 à  13:30:00",
@@ -33,6 +33,16 @@
       "from": "2026-04-17T05:15:00.000Z",
       "to": "2026-04-17T05:40:00.000Z",
       "id": "e347be18aa63693d61784231e77b6d4a"
+    },
+    {
+      "date": "Le vendredi 17 avril 2026 de  10:00:00 à  13:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Rue Brown Sequard",
+      "district": "plainewilhems",
+      "from": "2026-04-17T06:00:00.000Z",
+      "to": "2026-04-17T09:00:00.000Z",
+      "id": "7031ab6614f486739d47b814d1c1dcb4"
     }
   ]
 }

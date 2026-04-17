@@ -2,11 +2,18 @@
   "slug": "coromandel-rhill",
   "name": "COROMANDEL - R.HILL",
   "district": "plainewilhems",
-  "generated": "2026-04-17T06:31:21.527Z",
-  "outageCount": 81,
+  "generated": "2026-04-17T07:29:24.092Z",
+  "outageCount": 82,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-04-14",
+  "lastOutage": "2026-04-18",
   "outages": [
+    {
+      "date": "Le samedi 18 avril 2026 de  08:30:00 à  11:00:00",
+      "streets": "DREAM ON MATTRESS, ROUTE ROYAL COROMANDEL, EN PARTIE RICHELIEU BR RD ET LES ENVIRONS",
+      "from": "2026-04-18T04:30:00.000Z",
+      "to": "2026-04-18T07:00:00.000Z",
+      "id": "8ba0ee0210bd711565af45074b019189"
+    },
     {
       "date": "Le mardi 14 avril 2026 de  14:30:00 à  16:30:00",
       "streets": "Ave Cerisier, Morc Montreal 1 & 2, Police Quarters et les environs",

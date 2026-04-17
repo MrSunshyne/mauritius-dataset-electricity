@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-04-17T06:31:21.533Z",
-  "outageCount": 210,
+  "generated": "2026-04-17T07:29:24.098Z",
+  "outageCount": 211,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-04-12",
+  "lastOutage": "2026-04-17",
   "outages": [
+    {
+      "date": "Le vendredi 17 avril 2026 de  10:00:00 à  13:00:00",
+      "streets": "Rue Brown Sequard",
+      "from": "2026-04-17T06:00:00.000Z",
+      "to": "2026-04-17T09:00:00.000Z",
+      "id": "7031ab6614f486739d47b814d1c1dcb4"
+    },
     {
       "date": "Le dimanche 12 avril 2026 de  08:30:00 à  16:00:00",
       "streets": "habitant dans les périmetres et les rues suivantes ; Brown Sequard Street, Flat Les Cezannes, Flat Albi, Flat Val de L’Ore, Gabriel Froppier, Gustav Bestel Street, Robert Edward Hart Street, Morc Belloquet, Park Hotel, Morc Laurent Lane, D.Henri Robert Street et Morc Daruty",

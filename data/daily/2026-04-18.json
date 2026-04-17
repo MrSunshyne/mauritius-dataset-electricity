@@ -1,8 +1,8 @@
 {
   "date": "2026-04-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-17T06:31:21.408Z",
-  "outageCount": 5,
+  "generated": "2026-04-17T07:29:23.975Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le samedi 18 avril 2026 de  08:30:00 à  16:00:00",
@@ -43,6 +43,26 @@
       "from": "2026-04-18T10:00:00.000Z",
       "to": "2026-04-18T11:00:00.000Z",
       "id": "6e1835fba011f92b9c1039b732cfdcb5"
+    },
+    {
+      "date": "Le samedi 18 avril 2026 de  08:30:00 à  11:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "DREAM ON MATTRESS, ROUTE ROYAL COROMANDEL, EN PARTIE RICHELIEU BR RD ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2026-04-18T04:30:00.000Z",
+      "to": "2026-04-18T07:00:00.000Z",
+      "id": "8ba0ee0210bd711565af45074b019189"
+    },
+    {
+      "date": "Le samedi 18 avril 2026 de  08:30:00 à  14:30:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "BBASSIN, CYRIL LECKNING, MOLLIER, ROGER PEZZANNI ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2026-04-18T04:30:00.000Z",
+      "to": "2026-04-18T10:30:00.000Z",
+      "id": "1ad943baf03e21cd673a42e83ef63550"
     },
     {
       "date": "Le samedi 18 avril 2026 de  08:30:00 à  15:30:00",

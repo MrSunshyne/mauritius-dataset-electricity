@@ -2,11 +2,18 @@
   "slug": "beau-bassin",
   "name": "BEAU BASSIN",
   "district": "plainewilhems",
-  "generated": "2026-04-17T06:31:21.449Z",
-  "outageCount": 175,
+  "generated": "2026-04-17T07:29:24.013Z",
+  "outageCount": 176,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-04-09",
+  "lastOutage": "2026-04-18",
   "outages": [
+    {
+      "date": "Le samedi 18 avril 2026 de  08:30:00 à  14:30:00",
+      "streets": "BBASSIN, CYRIL LECKNING, MOLLIER, ROGER PEZZANNI ET LES ENVIRONS",
+      "from": "2026-04-18T04:30:00.000Z",
+      "to": "2026-04-18T10:30:00.000Z",
+      "id": "1ad943baf03e21cd673a42e83ef63550"
+    },
     {
       "date": "Le jeudi 9 avril 2026 de  13:30:00 à  17:30:00",
       "streets": "BBASSIN, DE ROSNAY, ESSAIE DAVID,STEIN,MONTGOMERY,ABBE MAZUR et LES ENVIRONS",

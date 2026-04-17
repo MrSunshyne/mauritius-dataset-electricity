@@ -2,11 +2,18 @@
   "slug": "henrietta",
   "name": "HENRIETTA",
   "district": "plainewilhems",
-  "generated": "2026-04-17T06:31:21.571Z",
-  "outageCount": 81,
+  "generated": "2026-04-17T07:29:24.136Z",
+  "outageCount": 82,
   "firstOutage": "2022-07-14",
-  "lastOutage": "2026-03-26",
+  "lastOutage": "2026-04-19",
   "outages": [
+    {
+      "date": "Le dimanche 19 avril 2026 de  09:30:00 à  12:00:00",
+      "streets": "Henrietta Branch Road, Jasmine Lane, School Lane.",
+      "from": "2026-04-19T05:30:00.000Z",
+      "to": "2026-04-19T08:00:00.000Z",
+      "id": "3a2188a7e4b79a7e2aab5c7a548c6a9c"
+    },
     {
       "date": "Le jeudi 26 mars 2026 de  20:00:00 à  23:00:00",
       "streets": "CAMP MAPOU No 1, EN PARTIE CAMP MAPOU No 2 ET ANTENNE EMTEL.",
