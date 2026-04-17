@@ -1,8 +1,8 @@
 {
   "date": "2026-04-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-17T13:28:24.443Z",
-  "outageCount": 5,
+  "generated": "2026-04-17T14:23:52.745Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le vendredi 17 avril 2026 de  09:00:00 à  13:30:00",
@@ -33,6 +33,16 @@
       "from": "2026-04-17T10:42:00.000Z",
       "to": "2026-04-17T12:00:00.000Z",
       "id": "4d941699ab566ef4fbff175167a7be68"
+    },
+    {
+      "date": "Le vendredi 17 avril 2026 de  18:00:00 à  23:00:00",
+      "locality": "MORC SAINT ANDRE",
+      "localitySlug": "morc-saint-andre",
+      "streets": "ROUTE ROYALE DANS LES ENVIRONS TERRAIN FOOTBALL.",
+      "district": "pamplemousses",
+      "from": "2026-04-17T14:00:00.000Z",
+      "to": "2026-04-17T19:00:00.000Z",
+      "id": "e95a95f671043e2aabdf0de76fae014a"
     },
     {
       "date": "Le vendredi 17 avril 2026 de  09:15:00 à  09:40:00",

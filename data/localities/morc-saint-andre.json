@@ -2,11 +2,18 @@
   "slug": "morc-saint-andre",
   "name": "MORC SAINT ANDRE",
   "district": "pamplemousses",
-  "generated": "2026-04-17T13:28:24.663Z",
-  "outageCount": 41,
+  "generated": "2026-04-17T14:23:52.978Z",
+  "outageCount": 42,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-02-19",
+  "lastOutage": "2026-04-17",
   "outages": [
+    {
+      "date": "Le vendredi 17 avril 2026 de  18:00:00 à  23:00:00",
+      "streets": "ROUTE ROYALE DANS LES ENVIRONS TERRAIN FOOTBALL.",
+      "from": "2026-04-17T14:00:00.000Z",
+      "to": "2026-04-17T19:00:00.000Z",
+      "id": "e95a95f671043e2aabdf0de76fae014a"
+    },
     {
       "date": "Le jeudi 19 février 2026 de  15:30:00 à  19:00:00",
       "streets": "HAMLET ROAD MORC ST ANDRE",
