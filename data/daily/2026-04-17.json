@@ -1,8 +1,8 @@
 {
   "date": "2026-04-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-16T18:20:01.056Z",
-  "outageCount": 2,
+  "generated": "2026-04-17T06:31:21.408Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le vendredi 17 avril 2026 de  09:00:00 à  13:30:00",
@@ -23,6 +23,16 @@
       "from": "2026-04-17T05:00:00.000Z",
       "to": "2026-04-17T07:00:00.000Z",
       "id": "6e79ed8debac8a5fa0ea3edcf5862827"
+    },
+    {
+      "date": "Le vendredi 17 avril 2026 de  09:15:00 à  09:40:00",
+      "locality": "SODNAC",
+      "localitySlug": "sodnac",
+      "streets": "HILLCREST APPARTMENTS & PHOENIX RESIDENCE",
+      "district": "plainewilhems",
+      "from": "2026-04-17T05:15:00.000Z",
+      "to": "2026-04-17T05:40:00.000Z",
+      "id": "e347be18aa63693d61784231e77b6d4a"
     }
   ]
 }

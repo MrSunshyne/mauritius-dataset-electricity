@@ -2,11 +2,18 @@
   "slug": "sodnac",
   "name": "SODNAC",
   "district": "plainewilhems",
-  "generated": "2026-04-16T18:20:01.369Z",
-  "outageCount": 42,
+  "generated": "2026-04-17T06:31:21.736Z",
+  "outageCount": 43,
   "firstOutage": "2022-05-30",
-  "lastOutage": "2026-02-23",
+  "lastOutage": "2026-04-17",
   "outages": [
+    {
+      "date": "Le vendredi 17 avril 2026 de  09:15:00 à  09:40:00",
+      "streets": "HILLCREST APPARTMENTS & PHOENIX RESIDENCE",
+      "from": "2026-04-17T05:15:00.000Z",
+      "to": "2026-04-17T05:40:00.000Z",
+      "id": "e347be18aa63693d61784231e77b6d4a"
+    },
     {
       "date": "Le lundi 23 février 2026 de  21:00:00 à  00:00:00",
       "streets": "DREAMTON PARK",
