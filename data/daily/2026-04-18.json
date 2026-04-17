@@ -1,8 +1,8 @@
 {
   "date": "2026-04-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-17T11:16:37.520Z",
-  "outageCount": 7,
+  "generated": "2026-04-17T12:13:16.275Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le samedi 18 avril 2026 de  08:30:00 à  16:00:00",
@@ -65,6 +65,16 @@
       "id": "1ad943baf03e21cd673a42e83ef63550"
     },
     {
+      "date": "Le samedi 18 avril 2026 de  10:00:00 à  13:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "ROYAL ROAD CANDOS, EN PARTIE AVE LA PAIX, RESIDENCE CANDOS ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2026-04-18T06:00:00.000Z",
+      "to": "2026-04-18T09:30:00.000Z",
+      "id": "9e4950dd3a916a9b747b22212c7e988e"
+    },
+    {
       "date": "Le samedi 18 avril 2026 de  08:30:00 à  15:30:00",
       "locality": "GRAND BAY",
       "localitySlug": "grand-bay",
@@ -73,6 +83,56 @@
       "from": "2026-04-18T04:30:00.000Z",
       "to": "2026-04-18T11:30:00.000Z",
       "id": "99dbcbab2475f058beeb97831165ff49"
+    },
+    {
+      "date": "Le samedi 18 avril 2026 de  15:00:00 à  16:00:00",
+      "locality": "GRANDE MONTAGNE(RODRIGUES)",
+      "localitySlug": "grande-montagne",
+      "streets": "Brule, Bel Air, Riviere Banane, Coromandel, Batatran, Gravier, Var Brule",
+      "district": "rodrigues",
+      "from": "2026-04-18T11:00:00.000Z",
+      "to": "2026-04-18T12:00:00.000Z",
+      "id": "5334c732de6b9c6d29599f1b126e11db"
+    },
+    {
+      "date": "Le samedi 18 avril 2026 de  08:30:00 à  09:30:00",
+      "locality": "GRANDE MONTAGNE(RODRIGUES)",
+      "localitySlug": "grande-montagne",
+      "streets": "Brule, Bel Air, Riviere Banane, Coromandel, Batatran, Gravier, Var Brule",
+      "district": "rodrigues",
+      "from": "2026-04-18T04:30:00.000Z",
+      "to": "2026-04-18T05:30:00.000Z",
+      "id": "5c04a7b6d5259042187c361cbb1c62eb"
+    },
+    {
+      "date": "Le samedi 18 avril 2026 de  08:30:00 à  16:00:00",
+      "locality": "NASSOLA(RODRIGUES)",
+      "localitySlug": "nassola",
+      "streets": "Palissade, Montagne Bois Noir, Montagne Malgache, Petit Brule, Thambes, Nouvelle Decouverte",
+      "district": "rodrigues",
+      "from": "2026-04-18T04:30:00.000Z",
+      "to": "2026-04-18T12:00:00.000Z",
+      "id": "b4c0176f84d436ea45eb65ef94993f82"
+    },
+    {
+      "date": "Le samedi 18 avril 2026 de  15:00:00 à  16:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LES ABONNES DE GRANDE MONTAGNE, BRULE, BEL AIR, RIVIERE BANANE, COROMANDEL, BATATRAN, GRAVIER ET VAR BRULE.",
+      "district": "rodrigues",
+      "from": "2026-04-18T11:00:00.000Z",
+      "to": "2026-04-18T12:00:00.000Z",
+      "id": "acf7ed48b98a5d2e62a82643fd5bf786"
+    },
+    {
+      "date": "Le samedi 18 avril 2026 de  08:30:00 à  16:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LES ABONNES DE NASSOLA, PALISSADE, MONTAGNE BOIS NOIR, MONTAGNE MALGACHE, PETIT BRULE, THAMBES ET NOUVELLE DECOUVERTE.",
+      "district": "rodrigues",
+      "from": "2026-04-18T04:30:00.000Z",
+      "to": "2026-04-18T12:00:00.000Z",
+      "id": "5a8e9327fe13f1c1ad3c2413791ec387"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-17T11:16:37.890Z",
+  "generated": "2026-04-17T12:13:16.649Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -1645,10 +1645,10 @@
       "slug": "grande-montagne",
       "name": "GRANDE MONTAGNE(RODRIGUES)",
       "district": "rodrigues",
-      "outageCount": 4,
+      "outageCount": 6,
       "file": "grande-montagne.json",
       "firstOutage": "2022-08-02",
-      "lastOutage": "2026-02-11"
+      "lastOutage": "2026-04-18"
     },
     {
       "slug": "grande-pointe-aux-piments",
@@ -3175,7 +3175,7 @@
       "slug": "quatre-bornes",
       "name": "QUATRE-BORNES",
       "district": "plainewilhems",
-      "outageCount": 368,
+      "outageCount": 369,
       "file": "quatre-bornes.json",
       "firstOutage": "2022-04-01",
       "lastOutage": "2026-04-18"
@@ -3490,10 +3490,10 @@
       "slug": "rodrigues",
       "name": "RODRIGUES",
       "district": "rodrigues",
-      "outageCount": 205,
+      "outageCount": 208,
       "file": "rodrigues.json",
       "firstOutage": "2022-03-15",
-      "lastOutage": "2026-04-15"
+      "lastOutage": "2026-04-19"
     },
     {
       "slug": "rose-belle",

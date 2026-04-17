@@ -1,8 +1,8 @@
 {
   "date": "2026-04-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-17T11:16:37.520Z",
-  "outageCount": 9,
+  "generated": "2026-04-17T12:13:16.275Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le dimanche 19 avril 2026 de  08:30:00 à  12:00:00",
@@ -93,6 +93,26 @@
       "from": "2026-04-19T04:00:00.000Z",
       "to": "2026-04-19T11:00:00.000Z",
       "id": "7c42f0cd714d3569266adb9598e17372"
+    },
+    {
+      "date": "Le dimanche 19 avril 2026 de  08:30:00 à  15:00:00",
+      "locality": "SOUPIRS (RODRIGUES)",
+      "localitySlug": "soupirs",
+      "streets": "Montagne Charlot et L’Union",
+      "district": "rodrigues",
+      "from": "2026-04-19T04:30:00.000Z",
+      "to": "2026-04-19T11:00:00.000Z",
+      "id": "35307b487b3dde8df4cb3d4eb72db735"
+    },
+    {
+      "date": "Le dimanche 19 avril 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "LES ABONNES DE SOUPIRS, MONTAGNE CHARLOT ET L-UNION.",
+      "district": "rodrigues",
+      "from": "2026-04-19T04:30:00.000Z",
+      "to": "2026-04-19T11:00:00.000Z",
+      "id": "e5b2a14ab602dd19bf132e3e8de861b6"
     }
   ]
 }

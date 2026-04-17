@@ -2,11 +2,32 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-04-17T11:16:37.832Z",
-  "outageCount": 205,
+  "generated": "2026-04-17T12:13:16.590Z",
+  "outageCount": 208,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-04-15",
+  "lastOutage": "2026-04-19",
   "outages": [
+    {
+      "date": "Le dimanche 19 avril 2026 de  08:30:00 à  15:00:00",
+      "streets": "LES ABONNES DE SOUPIRS, MONTAGNE CHARLOT ET L-UNION.",
+      "from": "2026-04-19T04:30:00.000Z",
+      "to": "2026-04-19T11:00:00.000Z",
+      "id": "e5b2a14ab602dd19bf132e3e8de861b6"
+    },
+    {
+      "date": "Le samedi 18 avril 2026 de  15:00:00 à  16:00:00",
+      "streets": "LES ABONNES DE GRANDE MONTAGNE, BRULE, BEL AIR, RIVIERE BANANE, COROMANDEL, BATATRAN, GRAVIER ET VAR BRULE.",
+      "from": "2026-04-18T11:00:00.000Z",
+      "to": "2026-04-18T12:00:00.000Z",
+      "id": "acf7ed48b98a5d2e62a82643fd5bf786"
+    },
+    {
+      "date": "Le samedi 18 avril 2026 de  08:30:00 à  16:00:00",
+      "streets": "LES ABONNES DE NASSOLA, PALISSADE, MONTAGNE BOIS NOIR, MONTAGNE MALGACHE, PETIT BRULE, THAMBES ET NOUVELLE DECOUVERTE.",
+      "from": "2026-04-18T04:30:00.000Z",
+      "to": "2026-04-18T12:00:00.000Z",
+      "id": "5a8e9327fe13f1c1ad3c2413791ec387"
+    },
     {
       "date": "Le mercredi 15 avril 2026 de  08:30:00 à  15:00:00",
       "streets": "LES ABONNES DE MONTAGNE CROUPIER.",
