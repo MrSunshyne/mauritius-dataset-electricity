@@ -1,8 +1,8 @@
 {
   "date": "2026-04-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-18T12:06:16.830Z",
-  "outageCount": 14,
+  "generated": "2026-04-18T13:24:16.942Z",
+  "outageCount": 15,
   "outages": [
     {
       "date": "Le samedi 18 avril 2026 de  08:30:00 à  17:00:00",
@@ -73,6 +73,16 @@
       "from": "2026-04-18T06:00:00.000Z",
       "to": "2026-04-18T09:30:00.000Z",
       "id": "9e4950dd3a916a9b747b22212c7e988e"
+    },
+    {
+      "date": "Le samedi 18 avril 2026 de  16:30:00 à  20:30:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "CHEMIN VEL GOVINDEN, HIGGINSON, EN PARTIE ROUTE ROYALE DANS LES ENVIRONS FLEURISTE OISEAU DU PARADIS.",
+      "district": "plainewilhems",
+      "from": "2026-04-18T12:30:00.000Z",
+      "to": "2026-04-18T16:30:00.000Z",
+      "id": "4a4fc57fa8e3c640e770d681f8ae80f6"
     },
     {
       "date": "Le samedi 18 avril 2026 de  15:00:00 à  16:15:00",

@@ -2,11 +2,18 @@
   "slug": "beau-bassin",
   "name": "BEAU BASSIN",
   "district": "plainewilhems",
-  "generated": "2026-04-18T12:06:16.867Z",
-  "outageCount": 176,
+  "generated": "2026-04-18T13:24:16.984Z",
+  "outageCount": 177,
   "firstOutage": "2022-03-25",
   "lastOutage": "2026-04-18",
   "outages": [
+    {
+      "date": "Le samedi 18 avril 2026 de  16:30:00 à  20:30:00",
+      "streets": "CHEMIN VEL GOVINDEN, HIGGINSON, EN PARTIE ROUTE ROYALE DANS LES ENVIRONS FLEURISTE OISEAU DU PARADIS.",
+      "from": "2026-04-18T12:30:00.000Z",
+      "to": "2026-04-18T16:30:00.000Z",
+      "id": "4a4fc57fa8e3c640e770d681f8ae80f6"
+    },
     {
       "date": "Le samedi 18 avril 2026 de  08:30:00 à  14:30:00",
       "streets": "BBASSIN, CYRIL LECKNING, MOLLIER, ROGER PEZZANNI ET LES ENVIRONS",
