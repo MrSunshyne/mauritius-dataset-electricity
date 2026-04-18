@@ -2,11 +2,18 @@
   "slug": "roche-bois",
   "name": "ROCHE BOIS",
   "district": "portlouis",
-  "generated": "2026-04-18T10:11:24.069Z",
-  "outageCount": 39,
+  "generated": "2026-04-18T11:10:34.019Z",
+  "outageCount": 40,
   "firstOutage": "2022-04-30",
-  "lastOutage": "2026-02-23",
+  "lastOutage": "2026-04-18",
   "outages": [
+    {
+      "date": "Le samedi 18 avril 2026 de  15:00:00 à  16:15:00",
+      "streets": "Rues Debouchers,La Fortune,Allees Tamarin",
+      "from": "2026-04-18T11:00:00.000Z",
+      "to": "2026-04-18T12:15:00.000Z",
+      "id": "a8f8d12253f5c4d53df136d1d57531df"
+    },
     {
       "date": "Le lundi 23 février 2026 de  09:30:00 à  14:00:00",
       "streets": "CARO CALIPTUS, PART OF BATTERIE CASSEE",
