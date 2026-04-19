@@ -1,18 +1,28 @@
 {
   "date": "2026-04-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-19T09:13:34.056Z",
-  "outageCount": 11,
+  "generated": "2026-04-19T10:11:08.758Z",
+  "outageCount": 12,
   "outages": [
     {
-      "date": "Le dimanche 19 avril 2026 de  08:30:00 à  13:30:00",
+      "date": "Le dimanche 19 avril 2026 de  08:30:00 à  14:30:00",
       "locality": "PETITE RIVIERE",
       "localitySlug": "petite-riviere",
       "streets": "DANS LES ENVIRONS DE REVEREND CHAMOINE CASEY ROAD, EMBREVADES ROAD, ANAZOR ROAD ET UNE PARTIE DE LA ROUTE ROYALE",
       "district": "blackriver",
       "from": "2026-04-19T04:30:00.000Z",
-      "to": "2026-04-19T09:30:00.000Z",
-      "id": "a0af8636ecd841ba47f00c33e753306a"
+      "to": "2026-04-19T10:30:00.000Z",
+      "id": "a4d66def6b8f24b08fd4a506a0a8953a"
+    },
+    {
+      "date": "Le dimanche 19 avril 2026 de  13:40:00 à  14:30:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "DREAMPRICE, TOTE LEPEP, LEGEND HALL ET DANS LES ALENTOURS.",
+      "district": "blackriver",
+      "from": "2026-04-19T09:40:00.000Z",
+      "to": "2026-04-19T10:30:00.000Z",
+      "id": "21bb480db9c5f762ab7e6e53277e4491"
     },
     {
       "date": "Le dimanche 19 avril 2026 de  08:30:00 à  16:00:00",
