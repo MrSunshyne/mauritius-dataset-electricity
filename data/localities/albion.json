@@ -2,11 +2,18 @@
   "slug": "albion",
   "name": "ALBION",
   "district": "blackriver",
-  "generated": "2026-04-19T15:10:53.794Z",
-  "outageCount": 108,
+  "generated": "2026-04-19T16:07:43.570Z",
+  "outageCount": 109,
   "firstOutage": "2022-06-06",
-  "lastOutage": "2026-04-02",
+  "lastOutage": "2026-04-19",
   "outages": [
+    {
+      "date": "Le dimanche 19 avril 2026 de  19:30:00 à  21:30:00",
+      "streets": "CYGOGNES AVE,PERDRIX AVE NEAR MALL",
+      "from": "2026-04-19T15:30:00.000Z",
+      "to": "2026-04-19T17:30:00.000Z",
+      "id": "d13c1601e17667e041c904092ee188b9"
+    },
     {
       "date": "Le jeudi 2 avril 2026 de  15:00:00 à  16:00:00",
       "streets": "EN PARTIE MORC DE CHAZAL ALBION, AVE EMPEREUR, AVE MULET, AVE BARACUDA, AVE MARLIN, AVE EMPEREUR, FISHRIES ALBION ET LES ENVIRONS",
