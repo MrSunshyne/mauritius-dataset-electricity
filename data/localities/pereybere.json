@@ -2,11 +2,18 @@
   "slug": "pereybere",
   "name": "PEREYBERE",
   "district": "rivieredurempart",
-  "generated": "2026-04-19T17:09:34.001Z",
-  "outageCount": 104,
+  "generated": "2026-04-19T18:07:57.560Z",
+  "outageCount": 105,
   "firstOutage": "2022-03-25",
   "lastOutage": "2026-04-19",
   "outages": [
+    {
+      "date": "Le dimanche 19 avril 2026 de  21:15:00 à  01:00:00",
+      "streets": "COASTAL ROAD -LE FLAMMANT PEREYBERE",
+      "from": "2026-04-19T17:15:00.000Z",
+      "to": "2026-04-18T21:00:00.000Z",
+      "id": "0830d8062603eeb9b5076775a190fa9c"
+    },
     {
       "date": "Le dimanche 19 avril 2026 de  09:00:00 à  12:00:00",
       "streets": "VINGT PIED ROAD IN THE SURROUNDING OF MORC TASSOT, PEREYBERE",
