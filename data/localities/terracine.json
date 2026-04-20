@@ -2,11 +2,18 @@
   "slug": "terracine",
   "name": "TERRACINE",
   "district": "savanne",
-  "generated": "2026-04-19T18:07:57.650Z",
-  "outageCount": 3,
+  "generated": "2026-04-20T06:38:21.451Z",
+  "outageCount": 4,
   "firstOutage": "2025-01-17",
-  "lastOutage": "2026-01-23",
+  "lastOutage": "2026-04-20",
   "outages": [
+    {
+      "date": "Le lundi 20 avril 2026 de  09:30:00 à  12:30:00",
+      "streets": "NHDC PIERRE DE SOLEIL TERRACINE",
+      "from": "2026-04-20T05:30:00.000Z",
+      "to": "2026-04-20T08:30:00.000Z",
+      "id": "fa4bae9c09a5b894b7a70b8cb82e0607"
+    },
     {
       "date": "Le vendredi 23 janvier 2026 de  09:00:00 à  15:30:00",
       "streets": "Trois Bras Surinam et Terracine",

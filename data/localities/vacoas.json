@@ -2,11 +2,18 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-04-19T18:07:57.666Z",
-  "outageCount": 233,
+  "generated": "2026-04-20T06:38:21.469Z",
+  "outageCount": 234,
   "firstOutage": "2022-03-17",
-  "lastOutage": "2026-04-16",
+  "lastOutage": "2026-04-22",
   "outages": [
+    {
+      "date": "Le mercredi 22 avril 2026 de  08:30:00 à  12:30:00",
+      "streets": "Morcellement Ramdanee, Route Cantin, Avenue Nanapragassen ,Camp Bombaye No 1 et No 2, Route Moreau, chemin Latour, chemin La Touche, une partie de Route John-Kennedy, une partie de route Thompson, une partie du Route Tres Bon No.5",
+      "from": "2026-04-22T04:30:00.000Z",
+      "to": "2026-04-22T08:30:00.000Z",
+      "id": "6da69af6c7082eb82b092efe73f5409a"
+    },
     {
       "date": "Le jeudi 16 avril 2026 de  15:00:00 à  17:30:00",
       "streets": "une partie de Route St Paul, Regent Complex et les environs",

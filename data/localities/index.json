@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-19T18:07:57.677Z",
+  "generated": "2026-04-20T06:38:21.480Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -3814,10 +3814,10 @@
       "slug": "terracine",
       "name": "TERRACINE",
       "district": "savanne",
-      "outageCount": 3,
+      "outageCount": 4,
       "file": "terracine.json",
       "firstOutage": "2025-01-17",
-      "lastOutage": "2026-01-23"
+      "lastOutage": "2026-04-20"
     },
     {
       "slug": "terrasson",
@@ -3994,10 +3994,10 @@
       "slug": "vacoas",
       "name": "VACOAS",
       "district": "plainewilhems",
-      "outageCount": 233,
+      "outageCount": 234,
       "file": "vacoas.json",
       "firstOutage": "2022-03-17",
-      "lastOutage": "2026-04-16"
+      "lastOutage": "2026-04-22"
     },
     {
       "slug": "valentina",
