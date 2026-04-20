@@ -2,11 +2,18 @@
   "slug": "albion",
   "name": "ALBION",
   "district": "blackriver",
-  "generated": "2026-04-20T10:30:39.076Z",
-  "outageCount": 110,
+  "generated": "2026-04-20T11:26:55.771Z",
+  "outageCount": 111,
   "firstOutage": "2022-06-06",
-  "lastOutage": "2026-04-19",
+  "lastOutage": "2026-04-20",
   "outages": [
+    {
+      "date": "Le lundi 20 avril 2026 de  14:30:00 à  17:00:00",
+      "streets": "Morc Terre D-Albion",
+      "from": "2026-04-20T10:30:00.000Z",
+      "to": "2026-04-20T13:00:00.000Z",
+      "id": "eaed46917b196f475cc66673aa889ce5"
+    },
     {
       "date": "Le dimanche 19 avril 2026 de  21:30:00 à  01:00:00",
       "streets": "MORC. TERRE ALBION ALBION",

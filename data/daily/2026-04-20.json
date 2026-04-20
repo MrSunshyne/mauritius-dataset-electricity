@@ -1,9 +1,19 @@
 {
   "date": "2026-04-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-20T10:30:39.061Z",
-  "outageCount": 4,
+  "generated": "2026-04-20T11:26:55.757Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le lundi 20 avril 2026 de  14:30:00 à  17:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "Morc Terre D-Albion",
+      "district": "blackriver",
+      "from": "2026-04-20T10:30:00.000Z",
+      "to": "2026-04-20T13:00:00.000Z",
+      "id": "eaed46917b196f475cc66673aa889ce5"
+    },
     {
       "date": "Le lundi 20 avril 2026 de  11:00:00 à  16:00:00",
       "locality": "QUATRE-BORNES",
