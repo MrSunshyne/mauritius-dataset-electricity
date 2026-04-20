@@ -2,11 +2,18 @@
   "slug": "mare-tabac",
   "name": "MARE TABAC",
   "district": "grandport",
-  "generated": "2026-04-20T14:30:14.435Z",
-  "outageCount": 22,
+  "generated": "2026-04-20T15:25:51.874Z",
+  "outageCount": 23,
   "firstOutage": "2022-04-28",
   "lastOutage": "2026-04-20",
   "outages": [
+    {
+      "date": "Le lundi 20 avril 2026 de  18:40:00 à  20:15:00",
+      "streets": "Royal Road,NHDC",
+      "from": "2026-04-20T14:40:00.000Z",
+      "to": "2026-04-20T16:15:00.000Z",
+      "id": "801dbad49766c0d12ef6f477f7dbb9da"
+    },
     {
       "date": "Le lundi 20 avril 2026 de  18:00:00 à  19:30:00",
       "streets": "Royal Road,NHDC",

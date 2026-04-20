@@ -1,8 +1,8 @@
 {
   "date": "2026-04-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-20T14:30:14.229Z",
-  "outageCount": 6,
+  "generated": "2026-04-20T15:25:51.671Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le lundi 20 avril 2026 de  14:30:00 à  17:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-04-20T14:00:00.000Z",
       "to": "2026-04-20T15:30:00.000Z",
       "id": "3dc8a77467d7f7254922860adf555aad"
+    },
+    {
+      "date": "Le lundi 20 avril 2026 de  18:40:00 à  20:15:00",
+      "locality": "MARE TABAC",
+      "localitySlug": "mare-tabac",
+      "streets": "Royal Road,NHDC",
+      "district": "grandport",
+      "from": "2026-04-20T14:40:00.000Z",
+      "to": "2026-04-20T16:15:00.000Z",
+      "id": "801dbad49766c0d12ef6f477f7dbb9da"
     },
     {
       "date": "Le lundi 20 avril 2026 de  11:00:00 à  16:00:00",
