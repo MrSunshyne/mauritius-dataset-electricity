@@ -2,11 +2,18 @@
   "slug": "pereybere",
   "name": "PEREYBERE",
   "district": "rivieredurempart",
-  "generated": "2026-04-20T07:32:14.373Z",
-  "outageCount": 105,
+  "generated": "2026-04-20T08:39:58.880Z",
+  "outageCount": 106,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-04-19",
+  "lastOutage": "2026-04-20",
   "outages": [
+    {
+      "date": "Le lundi 20 avril 2026 de  11:40:00 à  14:30:00",
+      "streets": "RES.BLEUE, YOUSOUF RESIDENCE",
+      "from": "2026-04-20T07:40:00.000Z",
+      "to": "2026-04-20T10:30:00.000Z",
+      "id": "948d83907bc819f789b0c6fccb104aff"
+    },
     {
       "date": "Le dimanche 19 avril 2026 de  21:15:00 à  01:00:00",
       "streets": "COASTAL ROAD -LE FLAMMANT PEREYBERE",

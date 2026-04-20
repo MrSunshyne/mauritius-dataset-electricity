@@ -1,8 +1,8 @@
 {
   "date": "2026-04-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-20T07:32:14.128Z",
-  "outageCount": 3,
+  "generated": "2026-04-20T08:39:58.659Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le lundi 20 avril 2026 de  11:00:00 à  16:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-04-20T05:00:00.000Z",
       "to": "2026-04-20T11:30:00.000Z",
       "id": "781fdb60c425830ebe0f668d5e81b9b9"
+    },
+    {
+      "date": "Le lundi 20 avril 2026 de  11:40:00 à  14:30:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "RES.BLEUE, YOUSOUF RESIDENCE",
+      "district": "rivieredurempart",
+      "from": "2026-04-20T07:40:00.000Z",
+      "to": "2026-04-20T10:30:00.000Z",
+      "id": "948d83907bc819f789b0c6fccb104aff"
     },
     {
       "date": "Le lundi 20 avril 2026 de  09:30:00 à  12:30:00",
