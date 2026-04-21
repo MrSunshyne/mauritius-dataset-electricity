@@ -1,9 +1,19 @@
 {
   "date": "2026-04-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-21T09:28:53.960Z",
-  "outageCount": 1,
+  "generated": "2026-04-21T10:26:31.525Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le mercredi 22 avril 2026 de  09:00:00 à  13:00:00",
+      "locality": "MARE D-ALBERT",
+      "localitySlug": "mare-d-albert",
+      "streets": "Mare D’Albert habitant dans le périmètre et les rues suivantes: Rampe Le Moirt, Ramsahok Lane, Allée Coco, Gandhi Road, Kissensingh Road et Meetoo Lane",
+      "district": "grandport",
+      "from": "2026-04-22T05:00:00.000Z",
+      "to": "2026-04-22T09:00:00.000Z",
+      "id": "ae0d597bdba96695b7f770e9830af5f3"
+    },
     {
       "date": "Le mercredi 22 avril 2026 de  08:30:00 à  12:30:00",
       "locality": "VACOAS",

@@ -1,9 +1,19 @@
 {
   "date": "2026-04-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-21T09:28:53.960Z",
-  "outageCount": 3,
+  "generated": "2026-04-21T10:26:31.525Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le mardi 21 avril 2026 de  09:00:00 à  16:30:00",
+      "locality": "BEAU SONGE",
+      "localitySlug": "beau-songe",
+      "streets": "CWA PUMPING STATIONS BEAUX SONGES, BEAUX SONGES IRRIGATION BORE HOLES, MORC DOOKHUN BEAUX SONGES ET BEAUX SONGES VILLAGE",
+      "district": "blackriver",
+      "from": "2026-04-21T05:00:00.000Z",
+      "to": "2026-04-21T12:30:00.000Z",
+      "id": "dbc83d3cbbbd73b8f09e2ff53dbba930"
+    },
     {
       "date": "Le mardi 21 avril 2026 de  08:30:00 à  10:30:00",
       "locality": "BRAMSTHAN",
@@ -13,6 +23,16 @@
       "from": "2026-04-21T04:30:00.000Z",
       "to": "2026-04-21T06:30:00.000Z",
       "id": "541b19daf1472e052a67ead9b3784b7d"
+    },
+    {
+      "date": "Le mardi 21 avril 2026 de  14:00:00 à  17:00:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "DEVEAUX RD, PART OF GENTILLY BRANCH ROAD, PART OF PETIT VERGER BRANCH ROAD",
+      "district": "moka",
+      "from": "2026-04-21T10:00:00.000Z",
+      "to": "2026-04-21T13:00:00.000Z",
+      "id": "fe37a9c2e7f044e38c72d11d4ac05f9f"
     },
     {
       "date": "Le mardi 21 avril 2026 de  15:00:00 à  17:30:00",

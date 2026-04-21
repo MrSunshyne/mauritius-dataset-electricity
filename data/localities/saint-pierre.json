@@ -2,11 +2,18 @@
   "slug": "saint-pierre",
   "name": "SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-04-21T09:28:54.278Z",
-  "outageCount": 65,
+  "generated": "2026-04-21T10:26:31.818Z",
+  "outageCount": 66,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-04-10",
+  "lastOutage": "2026-04-21",
   "outages": [
+    {
+      "date": "Le mardi 21 avril 2026 de  14:00:00 à  17:00:00",
+      "streets": "DEVEAUX RD, PART OF GENTILLY BRANCH ROAD, PART OF PETIT VERGER BRANCH ROAD",
+      "from": "2026-04-21T10:00:00.000Z",
+      "to": "2026-04-21T13:00:00.000Z",
+      "id": "fe37a9c2e7f044e38c72d11d4ac05f9f"
+    },
     {
       "date": "Le vendredi 10 avril 2026 de  10:40:00 à  12:00:00",
       "streets": "jogana lane, cite st catherine, mongolia lane et les aletours",

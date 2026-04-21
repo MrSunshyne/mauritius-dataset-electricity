@@ -2,11 +2,18 @@
   "slug": "l-escalier",
   "name": "L-ESCALIER",
   "district": "savanne",
-  "generated": "2026-04-21T09:28:54.127Z",
-  "outageCount": 33,
+  "generated": "2026-04-21T10:26:31.680Z",
+  "outageCount": 34,
   "firstOutage": "2022-03-30",
-  "lastOutage": "2026-04-16",
+  "lastOutage": "2026-04-26",
   "outages": [
+    {
+      "date": "Le dimanche 26 avril 2026 de  09:00:00 à  17:00:00",
+      "streets": "L’Escalier habitant dans le périmètre et les rues suivantes: Adventist Lane, Gangoo Lane, SSR Lane, Khoyratty Lane, Bhunjun Lane, Cader Bavah Lane, Nadal Lane et Cemetry Lane",
+      "from": "2026-04-26T05:00:00.000Z",
+      "to": "2026-04-26T13:00:00.000Z",
+      "id": "1b3f710f1afc3454cca10760782457e6"
+    },
     {
       "date": "Le jeudi 16 avril 2026 de  10:30:00 à  13:30:00",
       "streets": "ROYAL ROAD & SURROUNDINGS",

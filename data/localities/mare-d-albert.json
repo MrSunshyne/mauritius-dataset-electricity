@@ -2,11 +2,18 @@
   "slug": "mare-d-albert",
   "name": "MARE D-ALBERT",
   "district": "grandport",
-  "generated": "2026-04-21T09:28:54.158Z",
-  "outageCount": 25,
+  "generated": "2026-04-21T10:26:31.708Z",
+  "outageCount": 26,
   "firstOutage": "2022-03-31",
-  "lastOutage": "2026-03-08",
+  "lastOutage": "2026-04-22",
   "outages": [
+    {
+      "date": "Le mercredi 22 avril 2026 de  09:00:00 à  13:00:00",
+      "streets": "Mare D’Albert habitant dans le périmètre et les rues suivantes: Rampe Le Moirt, Ramsahok Lane, Allée Coco, Gandhi Road, Kissensingh Road et Meetoo Lane",
+      "from": "2026-04-22T05:00:00.000Z",
+      "to": "2026-04-22T09:00:00.000Z",
+      "id": "ae0d597bdba96695b7f770e9830af5f3"
+    },
     {
       "date": "Le dimanche 8 mars 2026 de  09:00:00 à  15:00:00",
       "streets": "Mare D’Albert habitant dans le périmètre et les rues suivantes:NHDC Hortensia Mare D’Albert",
