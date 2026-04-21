@@ -1,0 +1,28 @@
+{
+  "date": "2026-04-21",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-04-21T06:31:41.207Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mardi 21 avril 2026 de  08:30:00 à  10:30:00",
+      "locality": "BRAMSTHAN",
+      "localitySlug": "bramsthan",
+      "streets": "MORC LA GAIETE",
+      "district": "flacq",
+      "from": "2026-04-21T04:30:00.000Z",
+      "to": "2026-04-21T06:30:00.000Z",
+      "id": "541b19daf1472e052a67ead9b3784b7d"
+    },
+    {
+      "date": "Le mardi 21 avril 2026 de  09:45:00 à  10:20:00",
+      "locality": "PLAINE VERTE",
+      "localitySlug": "plaine-verte",
+      "streets": "CALCUTTA ST, AIL DORE ST, CALICUT ST ET LES ALENTOURS",
+      "district": "portlouis",
+      "from": "2026-04-21T05:45:00.000Z",
+      "to": "2026-04-21T06:20:00.000Z",
+      "id": "ed6e47c74a741dd0979306da59ce1888"
+    }
+  ]
+}

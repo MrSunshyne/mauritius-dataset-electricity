@@ -2,11 +2,18 @@
   "slug": "bramsthan",
   "name": "BRAMSTHAN",
   "district": "flacq",
-  "generated": "2026-04-20T18:15:13.807Z",
-  "outageCount": 13,
+  "generated": "2026-04-21T06:31:41.274Z",
+  "outageCount": 14,
   "firstOutage": "2022-05-02",
-  "lastOutage": "2026-04-12",
+  "lastOutage": "2026-04-21",
   "outages": [
+    {
+      "date": "Le mardi 21 avril 2026 de  08:30:00 à  10:30:00",
+      "streets": "MORC LA GAIETE",
+      "from": "2026-04-21T04:30:00.000Z",
+      "to": "2026-04-21T06:30:00.000Z",
+      "id": "541b19daf1472e052a67ead9b3784b7d"
+    },
     {
       "date": "Le dimanche 12 avril 2026 de  08:15:00 à  16:00:00",
       "streets": "village de Bramsthan et Shivala Rd, Nanka Rd, Kalipa Rd et Doutal Rd.",

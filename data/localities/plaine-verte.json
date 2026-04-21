@@ -2,11 +2,18 @@
   "slug": "plaine-verte",
   "name": "PLAINE VERTE",
   "district": "portlouis",
-  "generated": "2026-04-20T18:15:13.989Z",
-  "outageCount": 28,
+  "generated": "2026-04-21T06:31:41.470Z",
+  "outageCount": 29,
   "firstOutage": "2022-12-21",
-  "lastOutage": "2026-04-15",
+  "lastOutage": "2026-04-21",
   "outages": [
+    {
+      "date": "Le mardi 21 avril 2026 de  09:45:00 à  10:20:00",
+      "streets": "CALCUTTA ST, AIL DORE ST, CALICUT ST ET LES ALENTOURS",
+      "from": "2026-04-21T05:45:00.000Z",
+      "to": "2026-04-21T06:20:00.000Z",
+      "id": "ed6e47c74a741dd0979306da59ce1888"
+    },
     {
       "date": "Le mercredi 15 avril 2026 de  09:00:00 à  10:00:00",
       "streets": "AVE CALCUTTA, MAGON ST, LOUIS XAVIER STREET & SURROUNDINGS",
