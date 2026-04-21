@@ -2,11 +2,18 @@
   "slug": "solferino",
   "name": "SOLFERINO",
   "district": "plainewilhems",
-  "generated": "2026-04-21T12:15:11.828Z",
-  "outageCount": 25,
+  "generated": "2026-04-21T13:29:18.980Z",
+  "outageCount": 26,
   "firstOutage": "2022-05-06",
-  "lastOutage": "2026-04-13",
+  "lastOutage": "2026-04-22",
   "outages": [
+    {
+      "date": "Le mercredi 22 avril 2026 de  12:00:00 à  17:00:00",
+      "streets": "Bosquet Road, Camp Pavé Road, Hibiscus Lane No. 3 et No. 8, Tanuja Lane, une partie de Solférino No.  4, Tecklall Soobul Lane, Dr Manillal Avenue",
+      "from": "2026-04-22T08:00:00.000Z",
+      "to": "2026-04-22T13:00:00.000Z",
+      "id": "68fa1bfde70f5e00281ab44fc8e81ab2"
+    },
     {
       "date": "Le lundi 13 avril 2026 de  10:15:00 à  11:15:00",
       "streets": "NO:1,NO:3,ELAHEEBACCUS LANE",

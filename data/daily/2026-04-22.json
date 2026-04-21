@@ -1,8 +1,8 @@
 {
   "date": "2026-04-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-21T12:15:11.498Z",
-  "outageCount": 2,
+  "generated": "2026-04-21T13:29:18.640Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le mercredi 22 avril 2026 de  09:00:00 à  13:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-04-22T04:30:00.000Z",
       "to": "2026-04-22T08:30:00.000Z",
       "id": "6da69af6c7082eb82b092efe73f5409a"
+    },
+    {
+      "date": "Le mercredi 22 avril 2026 de  12:00:00 à  17:00:00",
+      "locality": "SOLFERINO",
+      "localitySlug": "solferino",
+      "streets": "Bosquet Road, Camp Pavé Road, Hibiscus Lane No. 3 et No. 8, Tanuja Lane, une partie de Solférino No.  4, Tecklall Soobul Lane, Dr Manillal Avenue",
+      "district": "plainewilhems",
+      "from": "2026-04-22T08:00:00.000Z",
+      "to": "2026-04-22T13:00:00.000Z",
+      "id": "68fa1bfde70f5e00281ab44fc8e81ab2"
     }
   ]
 }
