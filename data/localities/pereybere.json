@@ -2,11 +2,18 @@
   "slug": "pereybere",
   "name": "PEREYBERE",
   "district": "rivieredurempart",
-  "generated": "2026-04-21T13:29:18.891Z",
-  "outageCount": 106,
+  "generated": "2026-04-21T14:30:45.052Z",
+  "outageCount": 107,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-04-20",
+  "lastOutage": "2026-04-21",
   "outages": [
+    {
+      "date": "Le mardi 21 avril 2026 de  18:05:00 à  19:05:00",
+      "streets": "COASTAL RD,OLD MILL RD",
+      "from": "2026-04-21T14:05:00.000Z",
+      "to": "2026-04-21T15:05:00.000Z",
+      "id": "2548af964098d9b535b163bf55592b79"
+    },
     {
       "date": "Le lundi 20 avril 2026 de  11:40:00 à  14:30:00",
       "streets": "RES.BLEUE, YOUSOUF RESIDENCE",

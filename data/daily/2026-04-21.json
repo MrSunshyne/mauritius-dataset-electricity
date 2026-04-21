@@ -1,8 +1,8 @@
 {
   "date": "2026-04-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-21T13:29:18.640Z",
-  "outageCount": 6,
+  "generated": "2026-04-21T14:30:44.805Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le mardi 21 avril 2026 de  09:00:00 à  16:30:00",
@@ -63,6 +63,16 @@
       "from": "2026-04-21T05:45:00.000Z",
       "to": "2026-04-21T06:20:00.000Z",
       "id": "ed6e47c74a741dd0979306da59ce1888"
+    },
+    {
+      "date": "Le mardi 21 avril 2026 de  18:05:00 à  19:05:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "COASTAL RD,OLD MILL RD",
+      "district": "rivieredurempart",
+      "from": "2026-04-21T14:05:00.000Z",
+      "to": "2026-04-21T15:05:00.000Z",
+      "id": "2548af964098d9b535b163bf55592b79"
     }
   ]
 }
