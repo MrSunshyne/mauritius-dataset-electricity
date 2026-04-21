@@ -1,8 +1,8 @@
 {
   "date": "2026-04-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-21T11:22:45.995Z",
-  "outageCount": 5,
+  "generated": "2026-04-21T12:15:11.498Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le mardi 21 avril 2026 de  09:00:00 à  16:30:00",
@@ -43,6 +43,16 @@
       "from": "2026-04-21T11:00:00.000Z",
       "to": "2026-04-21T13:30:00.000Z",
       "id": "e0ebe7ae4498ce172ed8f216c41cffbc"
+    },
+    {
+      "date": "Le mardi 21 avril 2026 de  16:00:00 à  17:15:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "SOOBARAH LANE, CALYPTUS LANE & SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2026-04-21T12:00:00.000Z",
+      "to": "2026-04-21T13:15:00.000Z",
+      "id": "1c82fa27a9f777b6807317ad2c7bd1ed"
     },
     {
       "date": "Le mardi 21 avril 2026 de  09:45:00 à  10:20:00",

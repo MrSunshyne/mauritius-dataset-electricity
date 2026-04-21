@@ -2,11 +2,18 @@
   "slug": "palma",
   "name": "PALMA",
   "district": "plainewilhems",
-  "generated": "2026-04-21T11:22:46.236Z",
-  "outageCount": 58,
+  "generated": "2026-04-21T12:15:11.735Z",
+  "outageCount": 59,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-03-30",
+  "lastOutage": "2026-04-21",
   "outages": [
+    {
+      "date": "Le mardi 21 avril 2026 de  16:00:00 à  17:15:00",
+      "streets": "SOOBARAH LANE, CALYPTUS LANE & SURROUNDINGS",
+      "from": "2026-04-21T12:00:00.000Z",
+      "to": "2026-04-21T13:15:00.000Z",
+      "id": "1c82fa27a9f777b6807317ad2c7bd1ed"
+    },
     {
       "date": "Le lundi 30 mars 2026 de  11:00:00 à  13:00:00",
       "streets": "Western Boundary,Shakti Lane,PALMA",
