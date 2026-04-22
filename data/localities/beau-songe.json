@@ -2,11 +2,18 @@
   "slug": "beau-songe",
   "name": "BEAU SONGE",
   "district": "blackriver",
-  "generated": "2026-04-21T18:17:32.101Z",
-  "outageCount": 24,
+  "generated": "2026-04-22T06:31:55.162Z",
+  "outageCount": 25,
   "firstOutage": "2023-05-09",
-  "lastOutage": "2026-04-21",
+  "lastOutage": "2026-04-22",
   "outages": [
+    {
+      "date": "Le mercredi 22 avril 2026 de  08:03:00 à  16:30:00",
+      "streets": "BEAU SONGE",
+      "from": "2026-04-22T04:03:00.000Z",
+      "to": "2026-04-22T12:30:00.000Z",
+      "id": "2c1889c1fefe0888bf965a123af56ab5"
+    },
     {
       "date": "Le mardi 21 avril 2026 de  09:00:00 à  16:30:00",
       "streets": "CWA PUMPING STATIONS BEAUX SONGES, BEAUX SONGES IRRIGATION BORE HOLES, MORC DOOKHUN BEAUX SONGES ET BEAUX SONGES VILLAGE",

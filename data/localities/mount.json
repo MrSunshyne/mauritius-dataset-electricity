@@ -2,11 +2,18 @@
   "slug": "mount",
   "name": "MOUNT",
   "district": "pamplemousses",
-  "generated": "2026-04-21T18:17:32.278Z",
-  "outageCount": 8,
+  "generated": "2026-04-22T06:31:55.345Z",
+  "outageCount": 9,
   "firstOutage": "2022-10-14",
-  "lastOutage": "2026-04-03",
+  "lastOutage": "2026-04-22",
   "outages": [
+    {
+      "date": "Le mercredi 22 avril 2026 de  09:30:00 à  11:00:00",
+      "streets": "MOUNT SUGAR ESTATE",
+      "from": "2026-04-22T05:30:00.000Z",
+      "to": "2026-04-22T07:00:00.000Z",
+      "id": "30c55cbe146fb3e91132255c2cf17a09"
+    },
     {
       "date": "Le vendredi 3 avril 2026 de  06:00:00 à  15:00:00",
       "streets": "-BOIS ROUGE-MOUNT-MON GOUT-MON PITON-CARTON NANCY-CAMP DES EMBRAVADES-BELLE SOURCES PAMPLEMOUSSES",
