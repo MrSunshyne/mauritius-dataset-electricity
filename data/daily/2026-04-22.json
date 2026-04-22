@@ -1,8 +1,8 @@
 {
   "date": "2026-04-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-22T11:21:41.671Z",
-  "outageCount": 9,
+  "generated": "2026-04-22T12:14:54.857Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le mercredi 22 avril 2026 de  08:03:00 à  16:30:00",
@@ -93,6 +93,26 @@
       "from": "2026-04-22T08:00:00.000Z",
       "to": "2026-04-22T13:00:00.000Z",
       "id": "68fa1bfde70f5e00281ab44fc8e81ab2"
+    },
+    {
+      "date": "Le mercredi 22 avril 2026 de  15:30:00 à  19:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "RUE LECKNING,RAOUL FOLREAU RUE ADOLPHE,MARE GRAVIERE NEAR INTERMART",
+      "district": "plainewilhems",
+      "from": "2026-04-22T11:30:00.000Z",
+      "to": "2026-04-22T15:00:00.000Z",
+      "id": "8e8ba065780f81229cf0b9749014701a"
+    },
+    {
+      "date": "Le mercredi 22 avril 2026 de  16:00:00 à  17:30:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "MONSEIGNEUR LEEN AVE & SURROUNDINGS",
+      "district": "portlouis",
+      "from": "2026-04-22T12:00:00.000Z",
+      "to": "2026-04-22T13:30:00.000Z",
+      "id": "d1a316c9d7669d3a2e1f4c1e0f6dbd24"
     }
   ]
 }
