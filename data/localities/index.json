@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-22T12:14:55.120Z",
+  "generated": "2026-04-22T13:29:08.036Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -538,10 +538,10 @@
       "slug": "bois-des-amourettes",
       "name": "BOIS DES AMOURETTES",
       "district": "grandport",
-      "outageCount": 5,
+      "outageCount": 6,
       "file": "bois-des-amourettes.json",
       "firstOutage": "2022-05-08",
-      "lastOutage": "2025-11-23"
+      "lastOutage": "2026-04-22"
     },
     {
       "slug": "bois-mangues",
@@ -3436,10 +3436,10 @@
       "slug": "riviere-noire",
       "name": "RIVIERE NOIRE",
       "district": "blackriver",
-      "outageCount": 45,
+      "outageCount": 46,
       "file": "riviere-noire.json",
       "firstOutage": "2022-06-03",
-      "lastOutage": "2026-03-31"
+      "lastOutage": "2026-04-22"
     },
     {
       "slug": "roche-bois",
@@ -3985,10 +3985,10 @@
       "slug": "upper-vale",
       "name": "UPPER VALE",
       "district": "rivieredurempart",
-      "outageCount": 20,
+      "outageCount": 22,
       "file": "upper-vale.json",
       "firstOutage": "2022-04-05",
-      "lastOutage": "2026-04-20"
+      "lastOutage": "2026-04-25"
     },
     {
       "slug": "vacoas",

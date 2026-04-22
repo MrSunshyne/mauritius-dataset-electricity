@@ -1,8 +1,8 @@
 {
   "date": "2026-04-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-22T12:14:54.858Z",
-  "outageCount": 2,
+  "generated": "2026-04-22T13:29:07.687Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le samedi 25 avril 2026 de  08:30:00 à  15:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-04-25T04:30:00.000Z",
       "to": "2026-04-25T13:00:00.000Z",
       "id": "950f0c59e574b0dd63950d767eb7c907"
+    },
+    {
+      "date": "Le samedi 25 avril 2026 de  08:30:00 à  15:30:00",
+      "locality": "UPPER VALE",
+      "localitySlug": "upper-vale",
+      "streets": "UPPER VALE, SSR ROAD, MOSQUE ROAD, MORCELLEMENT SHEIKDAUR",
+      "district": "rivieredurempart",
+      "from": "2026-04-25T04:30:00.000Z",
+      "to": "2026-04-25T11:30:00.000Z",
+      "id": "ad382220da427bf638ea828d139ab79e"
     }
   ]
 }

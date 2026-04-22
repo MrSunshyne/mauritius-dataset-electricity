@@ -1,8 +1,8 @@
 {
   "date": "2026-04-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-22T12:14:54.858Z",
-  "outageCount": 1,
+  "generated": "2026-04-22T13:29:07.687Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le jeudi 23 avril 2026 de  15:00:00 à  17:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-04-23T11:00:00.000Z",
       "to": "2026-04-23T13:30:00.000Z",
       "id": "65315c0ef60d107d9114762977eb9a1f"
+    },
+    {
+      "date": "Le jeudi 23 avril 2026 de  08:30:00 à  16:00:00",
+      "locality": "UPPER VALE",
+      "localitySlug": "upper-vale",
+      "streets": "AVENUE PALMERAIE ET RESIDNCE PALMERAIE",
+      "district": "rivieredurempart",
+      "from": "2026-04-23T04:30:00.000Z",
+      "to": "2026-04-23T12:00:00.000Z",
+      "id": "b77e0034afd79b1cfe93ca857cfee389"
     }
   ]
 }

@@ -2,11 +2,25 @@
   "slug": "upper-vale",
   "name": "UPPER VALE",
   "district": "rivieredurempart",
-  "generated": "2026-04-22T12:14:55.111Z",
-  "outageCount": 20,
+  "generated": "2026-04-22T13:29:08.022Z",
+  "outageCount": 22,
   "firstOutage": "2022-04-05",
-  "lastOutage": "2026-04-20",
+  "lastOutage": "2026-04-25",
   "outages": [
+    {
+      "date": "Le samedi 25 avril 2026 de  08:30:00 à  15:30:00",
+      "streets": "UPPER VALE, SSR ROAD, MOSQUE ROAD, MORCELLEMENT SHEIKDAUR",
+      "from": "2026-04-25T04:30:00.000Z",
+      "to": "2026-04-25T11:30:00.000Z",
+      "id": "ad382220da427bf638ea828d139ab79e"
+    },
+    {
+      "date": "Le jeudi 23 avril 2026 de  08:30:00 à  16:00:00",
+      "streets": "AVENUE PALMERAIE ET RESIDNCE PALMERAIE",
+      "from": "2026-04-23T04:30:00.000Z",
+      "to": "2026-04-23T12:00:00.000Z",
+      "id": "b77e0034afd79b1cfe93ca857cfee389"
+    },
     {
       "date": "Le lundi 20 avril 2026 de  09:00:00 à  15:30:00",
       "streets": "REGION DE VALE, SOTTISE ROAD, PALMERAIE, RESIDENCE LIFESTYLE BOULEVARD",
