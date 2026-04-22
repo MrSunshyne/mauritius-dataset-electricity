@@ -2,11 +2,18 @@
   "slug": "coromandel-rhill",
   "name": "COROMANDEL - R.HILL",
   "district": "plainewilhems",
-  "generated": "2026-04-22T14:30:35.781Z",
-  "outageCount": 82,
+  "generated": "2026-04-22T15:24:35.536Z",
+  "outageCount": 83,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-04-18",
+  "lastOutage": "2026-04-23",
   "outages": [
+    {
+      "date": "Le jeudi 23 avril 2026 de  08:30:00 à  15:30:00",
+      "streets": "CHAPMAN VIEW,AVENUE EMPEREUR,GUPPY,CARDINAL,ET LES ENVIRON",
+      "from": "2026-04-23T04:30:00.000Z",
+      "to": "2026-04-23T11:30:00.000Z",
+      "id": "3f9a971ca79a55e84256ad02dc2808fb"
+    },
     {
       "date": "Le samedi 18 avril 2026 de  08:30:00 à  11:00:00",
       "streets": "DREAM ON MATTRESS, ROUTE ROYAL COROMANDEL, EN PARTIE RICHELIEU BR RD ET LES ENVIRONS",
