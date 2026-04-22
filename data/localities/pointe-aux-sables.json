@@ -2,11 +2,18 @@
   "slug": "pointe-aux-sables",
   "name": "POINTE AUX SABLES",
   "district": "portlouis",
-  "generated": "2026-04-22T10:26:12.856Z",
-  "outageCount": 136,
+  "generated": "2026-04-22T11:21:41.938Z",
+  "outageCount": 137,
   "firstOutage": "2022-03-30",
-  "lastOutage": "2026-04-14",
+  "lastOutage": "2026-04-28",
   "outages": [
+    {
+      "date": "Le mardi 28 avril 2026 de  08:45:00 à  15:30:00",
+      "streets": "LES ABONNES DÚNE PARTIE DE KENSINGTON POINTE AUX SABLES",
+      "from": "2026-04-28T04:45:00.000Z",
+      "to": "2026-04-28T11:30:00.000Z",
+      "id": "6c3d86e880efedb5f53e601670a2fc1b"
+    },
     {
       "date": "Le mardi 14 avril 2026 de  10:45:00 à  12:00:00",
       "streets": "RUE CERISIERS",

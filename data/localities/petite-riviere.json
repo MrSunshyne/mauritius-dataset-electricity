@@ -2,11 +2,25 @@
   "slug": "petite-riviere",
   "name": "PETITE RIVIERE",
   "district": "blackriver",
-  "generated": "2026-04-22T10:26:12.841Z",
-  "outageCount": 82,
+  "generated": "2026-04-22T11:21:41.922Z",
+  "outageCount": 84,
   "firstOutage": "2022-05-28",
-  "lastOutage": "2026-04-19",
+  "lastOutage": "2026-04-26",
   "outages": [
+    {
+      "date": "Le dimanche 26 avril 2026 de  08:30:00 à  16:00:00",
+      "streets": "DANS LES ENVIRONS DE RESIDENCE RICHELIEU, DES RUES WINSTON CHURCHILL, BEETHOVEN, MGR LEEN, DAFFODIL, LA JOLIETTE, IQBAL LANE ET UNE PARTIE DE LA ROUTE ROYAL",
+      "from": "2026-04-26T04:30:00.000Z",
+      "to": "2026-04-26T12:00:00.000Z",
+      "id": "0063b0c59a0b6fb5360f38107be0536c"
+    },
+    {
+      "date": "Le samedi 25 avril 2026 de  08:30:00 à  15:00:00",
+      "streets": "DANS LES ENVIRONS DE ALBION ROAD, LOBIN LANE, NHDC VETIVER, MORC RAMDANEE ET MORC RAWAT",
+      "from": "2026-04-25T04:30:00.000Z",
+      "to": "2026-04-25T11:00:00.000Z",
+      "id": "9899578bb95120d15e6b4020448f53b2"
+    },
     {
       "date": "Le dimanche 19 avril 2026 de  13:40:00 à  14:30:00",
       "streets": "DREAMPRICE, TOTE LEPEP, LEGEND HALL ET DANS LES ALENTOURS.",

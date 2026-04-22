@@ -1,9 +1,29 @@
 {
   "date": "2026-04-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-22T10:26:12.602Z",
-  "outageCount": 1,
+  "generated": "2026-04-22T11:21:41.671Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le dimanche 26 avril 2026 de  08:30:00 à  16:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "DANS LES ENVIRONS DE RESIDENCE RICHELIEU, DES RUES WINSTON CHURCHILL, BEETHOVEN, MGR LEEN, DAFFODIL, LA JOLIETTE, IQBAL LANE ET UNE PARTIE DE LA ROUTE ROYAL",
+      "district": "blackriver",
+      "from": "2026-04-26T04:30:00.000Z",
+      "to": "2026-04-26T12:00:00.000Z",
+      "id": "0063b0c59a0b6fb5360f38107be0536c"
+    },
+    {
+      "date": "Le dimanche 26 avril 2026 de  08:30:00 à  12:30:00",
+      "locality": "PLAINE VERTE",
+      "localitySlug": "plaine-verte",
+      "streets": "DANS LES ENVIRONS DES RUES SIR VIRGIL NAZ, ETIENNE PELLEREAU ET UNE PARTIE DE LA RUE NYON",
+      "district": "portlouis",
+      "from": "2026-04-26T04:30:00.000Z",
+      "to": "2026-04-26T08:30:00.000Z",
+      "id": "7d27d9ad00d32c993e641f76d0064933"
+    },
     {
       "date": "Le dimanche 26 avril 2026 de  09:00:00 à  17:00:00",
       "locality": "L-ESCALIER",

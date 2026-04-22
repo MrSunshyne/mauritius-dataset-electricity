@@ -2,11 +2,18 @@
   "slug": "plaine-verte",
   "name": "PLAINE VERTE",
   "district": "portlouis",
-  "generated": "2026-04-22T10:26:12.851Z",
-  "outageCount": 29,
+  "generated": "2026-04-22T11:21:41.933Z",
+  "outageCount": 30,
   "firstOutage": "2022-12-21",
-  "lastOutage": "2026-04-21",
+  "lastOutage": "2026-04-26",
   "outages": [
+    {
+      "date": "Le dimanche 26 avril 2026 de  08:30:00 à  12:30:00",
+      "streets": "DANS LES ENVIRONS DES RUES SIR VIRGIL NAZ, ETIENNE PELLEREAU ET UNE PARTIE DE LA RUE NYON",
+      "from": "2026-04-26T04:30:00.000Z",
+      "to": "2026-04-26T08:30:00.000Z",
+      "id": "7d27d9ad00d32c993e641f76d0064933"
+    },
     {
       "date": "Le mardi 21 avril 2026 de  09:45:00 à  10:20:00",
       "streets": "CALCUTTA ST, AIL DORE ST, CALICUT ST ET LES ALENTOURS",
