@@ -1,8 +1,8 @@
 {
   "date": "2026-04-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-22T06:31:55.120Z",
-  "outageCount": 5,
+  "generated": "2026-04-22T07:29:40.564Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le mercredi 22 avril 2026 de  08:03:00 à  16:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-04-22T04:03:00.000Z",
       "to": "2026-04-22T12:30:00.000Z",
       "id": "2c1889c1fefe0888bf965a123af56ab5"
+    },
+    {
+      "date": "Le mercredi 22 avril 2026 de  10:00:00 à  13:00:00",
+      "locality": "SEBASTOPOL",
+      "localitySlug": "sebastopol",
+      "streets": "PELLEGRIN RD SEBASTOPOL",
+      "district": "flacq",
+      "from": "2026-04-22T06:00:00.000Z",
+      "to": "2026-04-22T09:00:00.000Z",
+      "id": "5bd126082290483a25272ba69bb98186"
     },
     {
       "date": "Le mercredi 22 avril 2026 de  09:00:00 à  13:00:00",
@@ -33,6 +43,16 @@
       "from": "2026-04-22T05:30:00.000Z",
       "to": "2026-04-22T07:00:00.000Z",
       "id": "30c55cbe146fb3e91132255c2cf17a09"
+    },
+    {
+      "date": "Le mercredi 22 avril 2026 de  10:30:00 à  13:30:00",
+      "locality": "LONG MOUNTAIN",
+      "localitySlug": "long-mountain",
+      "streets": "DANS LES ALENTOURS DE CENTRE SOCIALE",
+      "district": "pamplemousses",
+      "from": "2026-04-22T06:30:00.000Z",
+      "to": "2026-04-22T09:30:00.000Z",
+      "id": "ae5566558168347d6de0a6d90c501940"
     },
     {
       "date": "Le mercredi 22 avril 2026 de  08:30:00 à  12:30:00",

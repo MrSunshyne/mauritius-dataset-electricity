@@ -2,11 +2,18 @@
   "slug": "long-mountain",
   "name": "LONG MOUNTAIN",
   "district": "pamplemousses",
-  "generated": "2026-04-22T06:31:55.310Z",
-  "outageCount": 26,
+  "generated": "2026-04-22T07:29:40.757Z",
+  "outageCount": 27,
   "firstOutage": "2022-05-26",
-  "lastOutage": "2025-04-14",
+  "lastOutage": "2026-04-22",
   "outages": [
+    {
+      "date": "Le mercredi 22 avril 2026 de  10:30:00 à  13:30:00",
+      "streets": "DANS LES ALENTOURS DE CENTRE SOCIALE",
+      "from": "2026-04-22T06:30:00.000Z",
+      "to": "2026-04-22T09:30:00.000Z",
+      "id": "ae5566558168347d6de0a6d90c501940"
+    },
     {
       "date": "Le lundi 14 avril 2025 de  19:00:00 à  22:00:00",
       "streets": "FAGOO LANE CAMP LABOUE LONG MOUNTAIN",

@@ -2,11 +2,18 @@
   "slug": "deux-freres",
   "name": "DEUX FRERES",
   "district": "flacq",
-  "generated": "2026-04-22T06:31:55.245Z",
-  "outageCount": 8,
+  "generated": "2026-04-22T07:29:40.692Z",
+  "outageCount": 9,
   "firstOutage": "2023-02-15",
-  "lastOutage": "2025-11-20",
+  "lastOutage": "2026-04-25",
   "outages": [
+    {
+      "date": "Le samedi 25 avril 2026 de  08:30:00 à  17:00:00",
+      "streets": "Deux Frères et une partie de Quatre Sœurs",
+      "from": "2026-04-25T04:30:00.000Z",
+      "to": "2026-04-25T13:00:00.000Z",
+      "id": "950f0c59e574b0dd63950d767eb7c907"
+    },
     {
       "date": "Le jeudi 20 novembre 2025 de  16:15:00 à  18:30:00",
       "streets": "DEUX FRERE ,QUATRE SOEUR,BAMBOUS VIRIEUX ,POINTE AUX FEUILLES,BAIE DU CAP",

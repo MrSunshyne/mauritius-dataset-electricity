@@ -2,11 +2,18 @@
   "slug": "sebastopol",
   "name": "SEBASTOPOL",
   "district": "flacq",
-  "generated": "2026-04-22T06:31:55.440Z",
-  "outageCount": 18,
+  "generated": "2026-04-22T07:29:40.888Z",
+  "outageCount": 19,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-02-05",
+  "lastOutage": "2026-04-22",
   "outages": [
+    {
+      "date": "Le mercredi 22 avril 2026 de  10:00:00 à  13:00:00",
+      "streets": "PELLEGRIN RD SEBASTOPOL",
+      "from": "2026-04-22T06:00:00.000Z",
+      "to": "2026-04-22T09:00:00.000Z",
+      "id": "5bd126082290483a25272ba69bb98186"
+    },
     {
       "date": "Le jeudi 5 février 2026 de  09:00:00 à  15:00:00",
       "streets": "Résidence Opale et Clavet Road",
