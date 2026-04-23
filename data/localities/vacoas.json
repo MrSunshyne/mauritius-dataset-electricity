@@ -2,11 +2,18 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-04-23T11:22:25.525Z",
-  "outageCount": 235,
+  "generated": "2026-04-23T12:15:22.141Z",
+  "outageCount": 236,
   "firstOutage": "2022-03-17",
-  "lastOutage": "2026-04-23",
+  "lastOutage": "2026-04-25",
   "outages": [
+    {
+      "date": "Le samedi 25 avril 2026 de  08:30:00 à  15:30:00",
+      "streets": "Admiralty Residence, SSS Bappoo, SMF Regimenmtal",
+      "from": "2026-04-25T04:30:00.000Z",
+      "to": "2026-04-25T11:30:00.000Z",
+      "id": "7108c99b13663e73057574ea24c70f77"
+    },
     {
       "date": "Le jeudi 23 avril 2026 de  15:00:00 à  17:30:00",
       "streets": "une partie de Route St-Paul et les environs",
