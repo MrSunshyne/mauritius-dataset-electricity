@@ -2,11 +2,18 @@
   "slug": "beau-bassin",
   "name": "BEAU BASSIN",
   "district": "plainewilhems",
-  "generated": "2026-04-23T17:27:45.162Z",
-  "outageCount": 178,
+  "generated": "2026-04-23T18:18:18.275Z",
+  "outageCount": 179,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-04-22",
+  "lastOutage": "2026-04-25",
   "outages": [
+    {
+      "date": "Le samedi 25 avril 2026 de  08:30:00 à  14:30:00",
+      "streets": "BBASSIN, EN PARTIE RUE DU PONT, DR RUE PEERBYE, RUE CLEMENT CHAROUX, RUE RAVI SHANKAR ET LES ENVIRONS",
+      "from": "2026-04-25T04:30:00.000Z",
+      "to": "2026-04-25T10:30:00.000Z",
+      "id": "592bf5f98fea3e97f6070db35ff6d5c2"
+    },
     {
       "date": "Le mercredi 22 avril 2026 de  15:30:00 à  19:00:00",
       "streets": "RUE LECKNING,RAOUL FOLREAU RUE ADOLPHE,MARE GRAVIERE NEAR INTERMART",
