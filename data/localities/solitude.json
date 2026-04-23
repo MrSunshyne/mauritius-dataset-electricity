@@ -2,11 +2,18 @@
   "slug": "solitude",
   "name": "SOLITUDE",
   "district": "pamplemousses",
-  "generated": "2026-04-23T10:27:24.975Z",
-  "outageCount": 31,
+  "generated": "2026-04-23T11:22:25.497Z",
+  "outageCount": 32,
   "firstOutage": "2022-04-16",
-  "lastOutage": "2026-04-15",
+  "lastOutage": "2026-04-23",
   "outages": [
+    {
+      "date": "Le jeudi 23 avril 2026 de  15:00:00 à  17:00:00",
+      "streets": "PART OF SOLITUDE",
+      "from": "2026-04-23T11:00:00.000Z",
+      "to": "2026-04-23T13:00:00.000Z",
+      "id": "201d4567916fee0bb1156205b8a52226"
+    },
     {
       "date": "Le mercredi 15 avril 2026 de  18:00:00 à  21:00:00",
       "streets": "NEAR BRINKS",

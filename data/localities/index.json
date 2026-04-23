@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-23T10:27:25.014Z",
+  "generated": "2026-04-23T11:22:25.539Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -3175,7 +3175,7 @@
       "slug": "quatre-bornes",
       "name": "QUATRE-BORNES",
       "district": "plainewilhems",
-      "outageCount": 371,
+      "outageCount": 372,
       "file": "quatre-bornes.json",
       "firstOutage": "2022-04-01",
       "lastOutage": "2026-04-25"
@@ -3715,10 +3715,10 @@
       "slug": "solitude",
       "name": "SOLITUDE",
       "district": "pamplemousses",
-      "outageCount": 31,
+      "outageCount": 32,
       "file": "solitude.json",
       "firstOutage": "2022-04-16",
-      "lastOutage": "2026-04-15"
+      "lastOutage": "2026-04-23"
     },
     {
       "slug": "songes",
@@ -3850,10 +3850,10 @@
       "slug": "tour-koenig",
       "name": "TOUR KOENIG",
       "district": "portlouis",
-      "outageCount": 25,
+      "outageCount": 26,
       "file": "tour-koenig.json",
       "firstOutage": "2022-11-05",
-      "lastOutage": "2026-04-10"
+      "lastOutage": "2026-04-23"
     },
     {
       "slug": "tranquebar",

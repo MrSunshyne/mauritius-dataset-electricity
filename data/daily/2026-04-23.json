@@ -1,9 +1,19 @@
 {
   "date": "2026-04-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-23T10:27:24.646Z",
-  "outageCount": 6,
+  "generated": "2026-04-23T11:22:25.132Z",
+  "outageCount": 8,
   "outages": [
+    {
+      "date": "Le jeudi 23 avril 2026 de  15:00:00 à  17:00:00",
+      "locality": "SOLITUDE",
+      "localitySlug": "solitude",
+      "streets": "PART OF SOLITUDE",
+      "district": "pamplemousses",
+      "from": "2026-04-23T11:00:00.000Z",
+      "to": "2026-04-23T13:00:00.000Z",
+      "id": "201d4567916fee0bb1156205b8a52226"
+    },
     {
       "date": "Le jeudi 23 avril 2026 de  15:00:00 à  17:30:00",
       "locality": "VACOAS",
@@ -53,6 +63,16 @@
       "from": "2026-04-23T05:00:00.000Z",
       "to": "2026-04-23T06:00:00.000Z",
       "id": "f31e86f263dde5853107380438f778aa"
+    },
+    {
+      "date": "Le jeudi 23 avril 2026 de  15:00:00 à  16:30:00",
+      "locality": "TOUR KOENIG",
+      "localitySlug": "tour-koenig",
+      "streets": "AVE PEUPLIER AND SURROUNDING",
+      "district": "portlouis",
+      "from": "2026-04-23T11:00:00.000Z",
+      "to": "2026-04-23T12:30:00.000Z",
+      "id": "55c647b1050589e60a9a7747f7a06abf"
     },
     {
       "date": "Le jeudi 23 avril 2026 de  08:30:00 à  16:00:00",
