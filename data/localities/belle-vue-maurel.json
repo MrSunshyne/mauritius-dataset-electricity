@@ -2,11 +2,18 @@
   "slug": "belle-vue-maurel",
   "name": "BELLE VUE MAUREL",
   "district": "rivieredurempart",
-  "generated": "2026-04-23T14:40:03.207Z",
-  "outageCount": 10,
+  "generated": "2026-04-23T15:30:43.450Z",
+  "outageCount": 11,
   "firstOutage": "2023-01-17",
   "lastOutage": "2026-04-23",
   "outages": [
+    {
+      "date": "Le jeudi 23 avril 2026 de  18:30:00 à  22:30:00",
+      "streets": "ROUTE ROYALE DANS LES ENVIRONS JARDIN, DISPENSAIRE ET LA POSTE.",
+      "from": "2026-04-23T14:30:00.000Z",
+      "to": "2026-04-23T18:30:00.000Z",
+      "id": "5ece96a419b572b8d4a54306d93fbcba"
+    },
     {
       "date": "Le jeudi 23 avril 2026 de  18:00:00 à  22:00:00",
       "streets": "ROUTE ROYALE, TEMPLE RD DANS LES ENVIRONS JARDIN, DISPENSAIRE ET LA POSTE.",

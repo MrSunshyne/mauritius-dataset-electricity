@@ -1,8 +1,8 @@
 {
   "date": "2026-04-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-23T14:40:03.153Z",
-  "outageCount": 10,
+  "generated": "2026-04-23T15:30:43.402Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le jeudi 23 avril 2026 de  15:00:00 à  17:00:00",
@@ -103,6 +103,16 @@
       "from": "2026-04-23T14:00:00.000Z",
       "to": "2026-04-23T18:00:00.000Z",
       "id": "0bb36b9c32db618c270b4ebe078e1299"
+    },
+    {
+      "date": "Le jeudi 23 avril 2026 de  18:30:00 à  22:30:00",
+      "locality": "BELLE VUE MAUREL",
+      "localitySlug": "belle-vue-maurel",
+      "streets": "ROUTE ROYALE DANS LES ENVIRONS JARDIN, DISPENSAIRE ET LA POSTE.",
+      "district": "rivieredurempart",
+      "from": "2026-04-23T14:30:00.000Z",
+      "to": "2026-04-23T18:30:00.000Z",
+      "id": "5ece96a419b572b8d4a54306d93fbcba"
     }
   ]
 }
