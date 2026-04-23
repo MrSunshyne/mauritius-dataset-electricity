@@ -2,11 +2,18 @@
   "slug": "mare-d-albert",
   "name": "MARE D-ALBERT",
   "district": "grandport",
-  "generated": "2026-04-22T18:17:49.706Z",
-  "outageCount": 26,
+  "generated": "2026-04-23T06:32:25.707Z",
+  "outageCount": 27,
   "firstOutage": "2022-03-31",
-  "lastOutage": "2026-04-22",
+  "lastOutage": "2026-04-26",
   "outages": [
+    {
+      "date": "Le dimanche 26 avril 2026 de  09:00:00 à  17:00:00",
+      "streets": "Mare D’Albert habitant dans le périmètre et les rues suivantes: Rampe Le Moirt et dans les alentours de Crystal Taj Hall Mare D’Albert",
+      "from": "2026-04-26T05:00:00.000Z",
+      "to": "2026-04-26T13:00:00.000Z",
+      "id": "e6b7e19faf2ff9d684b93f97efd618af"
+    },
     {
       "date": "Le mercredi 22 avril 2026 de  09:00:00 à  13:00:00",
       "streets": "Mare D’Albert habitant dans le périmètre et les rues suivantes: Rampe Le Moirt, Ramsahok Lane, Allée Coco, Gandhi Road, Kissensingh Road et Meetoo Lane",

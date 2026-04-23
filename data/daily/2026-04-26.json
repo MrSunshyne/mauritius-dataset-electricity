@@ -1,8 +1,8 @@
 {
   "date": "2026-04-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-22T18:17:49.488Z",
-  "outageCount": 3,
+  "generated": "2026-04-23T06:32:25.502Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le dimanche 26 avril 2026 de  08:30:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-04-26T04:30:00.000Z",
       "to": "2026-04-26T12:00:00.000Z",
       "id": "0063b0c59a0b6fb5360f38107be0536c"
+    },
+    {
+      "date": "Le dimanche 26 avril 2026 de  09:00:00 à  17:00:00",
+      "locality": "MARE D-ALBERT",
+      "localitySlug": "mare-d-albert",
+      "streets": "Mare D’Albert habitant dans le périmètre et les rues suivantes: Rampe Le Moirt et dans les alentours de Crystal Taj Hall Mare D’Albert",
+      "district": "grandport",
+      "from": "2026-04-26T05:00:00.000Z",
+      "to": "2026-04-26T13:00:00.000Z",
+      "id": "e6b7e19faf2ff9d684b93f97efd618af"
     },
     {
       "date": "Le dimanche 26 avril 2026 de  08:30:00 à  12:30:00",

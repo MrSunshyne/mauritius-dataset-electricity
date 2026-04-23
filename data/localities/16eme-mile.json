@@ -2,11 +2,18 @@
   "slug": "16eme-mile",
   "name": "16EME MILE",
   "district": "plainewilhems",
-  "generated": "2026-04-22T18:17:49.503Z",
-  "outageCount": 54,
+  "generated": "2026-04-23T06:32:25.518Z",
+  "outageCount": 55,
   "firstOutage": "2022-05-31",
-  "lastOutage": "2026-03-15",
+  "lastOutage": "2026-04-23",
   "outages": [
+    {
+      "date": "Le jeudi 23 avril 2026 de  10:00:00 à  13:00:00",
+      "streets": "UNE PARTIE DE CITE ANUSHKA",
+      "from": "2026-04-23T06:00:00.000Z",
+      "to": "2026-04-23T09:00:00.000Z",
+      "id": "64d23022dcc3865fe4d87641eea72efb"
+    },
     {
       "date": "Le dimanche 15 mars 2026 de  12:00:00 à  15:00:00",
       "streets": "dans les environs de Residence Mon Bois",
