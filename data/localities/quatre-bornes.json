@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-04-23T09:29:10.012Z",
-  "outageCount": 370,
+  "generated": "2026-04-23T10:27:24.929Z",
+  "outageCount": 371,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-04-20",
+  "lastOutage": "2026-04-25",
   "outages": [
+    {
+      "date": "Le samedi 25 avril 2026 de  08:00:00 à  15:00:00",
+      "streets": "Avenue Balgobin et Appartement Le Palmiste",
+      "from": "2026-04-25T04:00:00.000Z",
+      "to": "2026-04-25T11:00:00.000Z",
+      "id": "0de8e9b5f8d11d6d0903b28f276e7417"
+    },
     {
       "date": "Le lundi 20 avril 2026 de  11:00:00 à  16:00:00",
       "streets": "AVE BERTHAUD, OLLIER & SURROUNDINGS",
