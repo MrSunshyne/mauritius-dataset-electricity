@@ -2,11 +2,18 @@
   "slug": "tour-koenig",
   "name": "TOUR KOENIG",
   "district": "portlouis",
-  "generated": "2026-04-23T12:15:22.128Z",
-  "outageCount": 26,
+  "generated": "2026-04-23T13:29:20.604Z",
+  "outageCount": 27,
   "firstOutage": "2022-11-05",
   "lastOutage": "2026-04-23",
   "outages": [
+    {
+      "date": "Le jeudi 23 avril 2026 de  16:25:00 à  17:30:00",
+      "streets": "AVE PEUPLIER AND SURROUNDING",
+      "from": "2026-04-23T12:25:00.000Z",
+      "to": "2026-04-23T13:30:00.000Z",
+      "id": "6642be7ef343f43a56475c972a7b9d4a"
+    },
     {
       "date": "Le jeudi 23 avril 2026 de  15:00:00 à  16:30:00",
       "streets": "AVE PEUPLIER AND SURROUNDING",
