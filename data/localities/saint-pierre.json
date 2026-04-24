@@ -2,11 +2,18 @@
   "slug": "saint-pierre",
   "name": "SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-04-24T11:22:21.983Z",
-  "outageCount": 66,
+  "generated": "2026-04-24T12:14:38.980Z",
+  "outageCount": 67,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-04-21",
+  "lastOutage": "2026-04-25",
   "outages": [
+    {
+      "date": "Le samedi 25 avril 2026 de  09:00:00 à  14:00:00",
+      "streets": "MOKA CITY, VIVEA BUSINESS PARK, BLOUMAGE, ENL HOUSE, VIVEA CUBICLE AT ST PIERRE",
+      "from": "2026-04-25T05:00:00.000Z",
+      "to": "2026-04-25T10:00:00.000Z",
+      "id": "f9f2f96527fe0f9139e2722b86a0d8c1"
+    },
     {
       "date": "Le mardi 21 avril 2026 de  14:00:00 à  17:00:00",
       "streets": "DEVEAUX RD, PART OF GENTILLY BRANCH ROAD, PART OF PETIT VERGER BRANCH ROAD",
