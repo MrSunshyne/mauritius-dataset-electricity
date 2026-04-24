@@ -1,8 +1,8 @@
 {
   "date": "2026-04-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-24T17:16:49.670Z",
-  "outageCount": 5,
+  "generated": "2026-04-24T18:10:05.352Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le vendredi 24 avril 2026 de  13:30:00 à  19:30:00",
@@ -53,6 +53,16 @@
       "from": "2026-04-24T14:00:00.000Z",
       "to": "2026-04-24T19:00:00.000Z",
       "id": "ce513718035a12e3288e7644caaae87c"
+    },
+    {
+      "date": "Le vendredi 24 avril 2026 de  21:00:00 à  22:30:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "DOMAIN DU MOULIN GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2026-04-24T17:00:00.000Z",
+      "to": "2026-04-24T18:30:00.000Z",
+      "id": "5de69c2f015faa209724b45e4218f9b4"
     }
   ]
 }
