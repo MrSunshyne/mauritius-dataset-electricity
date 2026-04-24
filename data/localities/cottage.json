@@ -2,11 +2,18 @@
   "slug": "cottage",
   "name": "COTTAGE",
   "district": "rivieredurempart",
-  "generated": "2026-04-24T15:23:16.082Z",
-  "outageCount": 38,
+  "generated": "2026-04-24T16:16:15.268Z",
+  "outageCount": 39,
   "firstOutage": "2022-04-07",
-  "lastOutage": "2026-04-14",
+  "lastOutage": "2026-04-24",
   "outages": [
+    {
+      "date": "Le vendredi 24 avril 2026 de  18:00:00 à  23:00:00",
+      "streets": "TEMPLE ROAD ET LES ALENTOURS.",
+      "from": "2026-04-24T14:00:00.000Z",
+      "to": "2026-04-24T19:00:00.000Z",
+      "id": "ce513718035a12e3288e7644caaae87c"
+    },
     {
       "date": "Le mardi 14 avril 2026 de  11:30:00 à  17:00:00",
       "streets": "PART OF COTTAGE",
