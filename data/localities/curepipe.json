@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-04-23T18:18:18.360Z",
-  "outageCount": 211,
+  "generated": "2026-04-24T06:32:54.170Z",
+  "outageCount": 212,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-04-17",
+  "lastOutage": "2026-04-26",
   "outages": [
+    {
+      "date": "Le dimanche 26 avril 2026 de  08:30:00 à  16:00:00",
+      "streets": "dans les périmetres et les rues suivantes ;Résidence Malherbes A, Résidence Malherbes B, Bernandin de St Pierre Street, Leopold Sedar Songhor Street, Mahatma Gandhi Street, une partie de Clement Charoux Street, Résidence Les Preverts, NHDC Malherbes, Morc Malherbes, Chiniah Lane et Ramsahye Lane",
+      "from": "2026-04-26T04:30:00.000Z",
+      "to": "2026-04-26T12:00:00.000Z",
+      "id": "36fa058d0522080688d2442e8b1fd8ce"
+    },
     {
       "date": "Le vendredi 17 avril 2026 de  10:00:00 à  14:45:00",
       "streets": "Rue Brown Sequard",

@@ -2,11 +2,18 @@
   "slug": "petit-raffray",
   "name": "PETIT RAFFRAY",
   "district": "rivieredurempart",
-  "generated": "2026-04-23T18:18:18.486Z",
-  "outageCount": 79,
+  "generated": "2026-04-24T06:32:54.295Z",
+  "outageCount": 80,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-04-12",
+  "lastOutage": "2026-04-24",
   "outages": [
+    {
+      "date": "Le vendredi 24 avril 2026 de  08:45:00 à  12:00:00",
+      "streets": "Morc Gowreesunkur,Reunion Maurel,Petit Raffray",
+      "from": "2026-04-24T04:45:00.000Z",
+      "to": "2026-04-24T08:00:00.000Z",
+      "id": "fa525635579dd8085447e702926cec3e"
+    },
     {
       "date": "Le dimanche 12 avril 2026 de  17:30:00 à  19:30:00",
       "streets": "MON MASCAL, PAVE RD, DR MANILALL ET LES ALENTOURS",

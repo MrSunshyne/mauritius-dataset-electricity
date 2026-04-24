@@ -2,11 +2,18 @@
   "slug": "plaine-magnien",
   "name": "PLAINE MAGNIEN",
   "district": "grandport",
-  "generated": "2026-04-23T18:18:18.500Z",
-  "outageCount": 59,
+  "generated": "2026-04-24T06:32:54.309Z",
+  "outageCount": 60,
   "firstOutage": "2022-06-08",
-  "lastOutage": "2026-04-03",
+  "lastOutage": "2026-04-24",
   "outages": [
+    {
+      "date": "Le vendredi 24 avril 2026 de  08:45:00 à  11:00:00",
+      "streets": "Mamoo,Allee Jacques",
+      "from": "2026-04-24T04:45:00.000Z",
+      "to": "2026-04-24T07:00:00.000Z",
+      "id": "0e0ad8cbb7c64e378cd1e7f7012d81c9"
+    },
     {
       "date": "Le vendredi 3 avril 2026 de  18:20:00 à  21:30:00",
       "streets": "PART OF ROYAL ROAD, ALLEE COCO, EX-MARKET ROAD AND SURROUNDINGS",

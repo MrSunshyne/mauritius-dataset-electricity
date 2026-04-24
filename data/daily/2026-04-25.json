@@ -1,8 +1,8 @@
 {
   "date": "2026-04-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-23T18:18:18.236Z",
-  "outageCount": 7,
+  "generated": "2026-04-24T06:32:54.048Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le samedi 25 avril 2026 de  08:30:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-04-25T04:30:00.000Z",
       "to": "2026-04-25T11:00:00.000Z",
       "id": "9899578bb95120d15e6b4020448f53b2"
+    },
+    {
+      "date": "Le samedi 25 avril 2026 de  12:00:00 à  13:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "DANS LES ENVIRONS DE RESIDENCE RICHELIEU, DES RUES WINSTON CHURCHILL, BEETHOVEN, MGR LEEN, DAFFODIL, LA JOLIETTE, IQBAL LANE ET UNE PARTIE DE LA ROUTE ROYAL",
+      "district": "blackriver",
+      "from": "2026-04-25T08:00:00.000Z",
+      "to": "2026-04-25T09:00:00.000Z",
+      "id": "4ea5648ef440804b08a5c09680327bdd"
     },
     {
       "date": "Le samedi 25 avril 2026 de  08:30:00 à  17:00:00",

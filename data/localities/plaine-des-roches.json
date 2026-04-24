@@ -2,11 +2,18 @@
   "slug": "plaine-des-roches",
   "name": "PLAINE DES ROCHES",
   "district": "rivieredurempart",
-  "generated": "2026-04-23T18:18:18.498Z",
-  "outageCount": 34,
+  "generated": "2026-04-24T06:32:54.307Z",
+  "outageCount": 35,
   "firstOutage": "2022-04-24",
-  "lastOutage": "2026-04-02",
+  "lastOutage": "2026-04-26",
   "outages": [
+    {
+      "date": "Le dimanche 26 avril 2026 de  08:30:00 à  15:00:00",
+      "streets": "PLAINE DES ROCHES, ROYAL ROAD, SENER ROAD, VILLAGE HALL ROAD, JOOMUN ROAD, SOCIAL WELFARE ROAD, KALIMAYE ROAD",
+      "from": "2026-04-26T04:30:00.000Z",
+      "to": "2026-04-26T11:00:00.000Z",
+      "id": "120decff8fa691d1f61c916f10019369"
+    },
     {
       "date": "Le jeudi 2 avril 2026 de  09:00:00 à  12:00:00",
       "streets": "UPPER PLAINES DE ROCHES AFTER SCHOOL VER LAVENTURE",

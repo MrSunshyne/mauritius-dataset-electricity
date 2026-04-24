@@ -1,0 +1,28 @@
+{
+  "date": "2026-04-24",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-04-24T06:32:54.048Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le vendredi 24 avril 2026 de  08:45:00 à  11:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "Mamoo,Allee Jacques",
+      "district": "grandport",
+      "from": "2026-04-24T04:45:00.000Z",
+      "to": "2026-04-24T07:00:00.000Z",
+      "id": "0e0ad8cbb7c64e378cd1e7f7012d81c9"
+    },
+    {
+      "date": "Le vendredi 24 avril 2026 de  08:45:00 à  12:00:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "Morc Gowreesunkur,Reunion Maurel,Petit Raffray",
+      "district": "rivieredurempart",
+      "from": "2026-04-24T04:45:00.000Z",
+      "to": "2026-04-24T08:00:00.000Z",
+      "id": "fa525635579dd8085447e702926cec3e"
+    }
+  ]
+}
