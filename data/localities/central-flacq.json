@@ -2,11 +2,18 @@
   "slug": "central-flacq",
   "name": "CENTRAL FLACQ",
   "district": "flacq",
-  "generated": "2026-04-24T08:36:26.022Z",
-  "outageCount": 72,
+  "generated": "2026-04-24T09:29:36.315Z",
+  "outageCount": 73,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-03-11",
+  "lastOutage": "2026-04-24",
   "outages": [
+    {
+      "date": "Le vendredi 24 avril 2026 de  13:30:00 à  18:00:00",
+      "streets": "LA SOURCE RD, DANS LES PERIMETRES DE ONE-STOP SHOP, SENATOR, KFC, MTS, EMCAR ET WINNERS.",
+      "from": "2026-04-24T09:30:00.000Z",
+      "to": "2026-04-24T14:00:00.000Z",
+      "id": "27bec058b8189b3d468c4e5740952193"
+    },
     {
       "date": "Le mercredi 11 mars 2026 de  08:30:00 à  15:00:00",
       "streets": "Flacq dans les périmètres de Casamally Rd, Francois Mitterand et dans les environs d’Eglise St Ursule",

@@ -1,9 +1,19 @@
 {
   "date": "2026-04-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-24T08:36:25.925Z",
-  "outageCount": 2,
+  "generated": "2026-04-24T09:29:36.244Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le vendredi 24 avril 2026 de  13:30:00 à  18:00:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "LA SOURCE RD, DANS LES PERIMETRES DE ONE-STOP SHOP, SENATOR, KFC, MTS, EMCAR ET WINNERS.",
+      "district": "flacq",
+      "from": "2026-04-24T09:30:00.000Z",
+      "to": "2026-04-24T14:00:00.000Z",
+      "id": "27bec058b8189b3d468c4e5740952193"
+    },
     {
       "date": "Le vendredi 24 avril 2026 de  08:45:00 à  11:00:00",
       "locality": "PLAINE MAGNIEN",
