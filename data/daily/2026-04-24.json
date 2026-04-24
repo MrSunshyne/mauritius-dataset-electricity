@@ -1,8 +1,8 @@
 {
   "date": "2026-04-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-24T14:29:59.840Z",
-  "outageCount": 3,
+  "generated": "2026-04-24T15:23:15.959Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le vendredi 24 avril 2026 de  13:30:00 à  19:30:00",
@@ -23,6 +23,16 @@
       "from": "2026-04-24T04:45:00.000Z",
       "to": "2026-04-24T07:00:00.000Z",
       "id": "0e0ad8cbb7c64e378cd1e7f7012d81c9"
+    },
+    {
+      "date": "Le vendredi 24 avril 2026 de  19:00:00 à  23:00:00",
+      "locality": "VILLEBAGUE",
+      "localitySlug": "villebague",
+      "streets": "EN PARTIE VILLEBAGUE",
+      "district": "pamplemousses",
+      "from": "2026-04-24T15:00:00.000Z",
+      "to": "2026-04-24T19:00:00.000Z",
+      "id": "ba304027a668fc36213ae307415d2b0f"
     },
     {
       "date": "Le vendredi 24 avril 2026 de  08:45:00 à  12:00:00",

@@ -2,11 +2,18 @@
   "slug": "villebague",
   "name": "VILLEBAGUE",
   "district": "pamplemousses",
-  "generated": "2026-04-24T14:30:00.173Z",
-  "outageCount": 9,
+  "generated": "2026-04-24T15:23:16.328Z",
+  "outageCount": 10,
   "firstOutage": "2022-12-11",
-  "lastOutage": "2026-04-17",
+  "lastOutage": "2026-04-24",
   "outages": [
+    {
+      "date": "Le vendredi 24 avril 2026 de  19:00:00 à  23:00:00",
+      "streets": "EN PARTIE VILLEBAGUE",
+      "from": "2026-04-24T15:00:00.000Z",
+      "to": "2026-04-24T19:00:00.000Z",
+      "id": "ba304027a668fc36213ae307415d2b0f"
+    },
     {
       "date": "Le vendredi 17 avril 2026 de  14:42:00 à  16:00:00",
       "streets": "FROM LA CROISEE RESERVOIR NICOLIERE TILL SHIVALA VILLEBAGUE.",
