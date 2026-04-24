@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-24T10:27:47.489Z",
+  "generated": "2026-04-24T11:22:22.029Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -3382,10 +3382,10 @@
       "slug": "riviere-coco",
       "name": "RIVIERE COCO(RODRIGUES)",
       "district": "rodrigues",
-      "outageCount": 1,
+      "outageCount": 2,
       "file": "riviere-coco.json",
       "firstOutage": "2023-03-11",
-      "lastOutage": "2023-03-11"
+      "lastOutage": "2026-04-25"
     },
     {
       "slug": "riviere-des-anguilles",
@@ -3490,10 +3490,10 @@
       "slug": "rodrigues",
       "name": "RODRIGUES",
       "district": "rodrigues",
-      "outageCount": 208,
+      "outageCount": 209,
       "file": "rodrigues.json",
       "firstOutage": "2022-03-15",
-      "lastOutage": "2026-04-19"
+      "lastOutage": "2026-04-26"
     },
     {
       "slug": "rose-belle",

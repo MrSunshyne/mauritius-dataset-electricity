@@ -2,11 +2,18 @@
   "slug": "riviere-coco",
   "name": "RIVIERE COCO(RODRIGUES)",
   "district": "rodrigues",
-  "generated": "2026-04-24T10:27:47.422Z",
-  "outageCount": 1,
+  "generated": "2026-04-24T11:22:21.962Z",
+  "outageCount": 2,
   "firstOutage": "2023-03-11",
-  "lastOutage": "2023-03-11",
+  "lastOutage": "2026-04-25",
   "outages": [
+    {
+      "date": "Le samedi 25 avril 2026 de  08:30:00 à  15:00:00",
+      "streets": "Riviere Coco",
+      "from": "2026-04-25T04:30:00.000Z",
+      "to": "2026-04-25T11:00:00.000Z",
+      "id": "74f36a6e9e78dfa569223f262c6391cc"
+    },
     {
       "date": "Le samedi 11 mars 2023 de  08:30:00 à  15:00:00",
       "streets": "Ile Michel, Grand Var, Petite Butte et Corail",
