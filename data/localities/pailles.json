@@ -2,11 +2,18 @@
   "slug": "pailles",
   "name": "PAILLES",
   "district": "portlouis",
-  "generated": "2026-04-24T18:10:05.590Z",
-  "outageCount": 79,
+  "generated": "2026-04-25T06:25:42.015Z",
+  "outageCount": 80,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-04-08",
+  "lastOutage": "2026-04-25",
   "outages": [
+    {
+      "date": "Le samedi 25 avril 2026 de  00:30:00 à  03:00:00",
+      "streets": "AVE LA PERLE -AVE FLAMBOYANT SOREZE",
+      "from": "2026-04-24T20:30:00.000Z",
+      "to": "2026-04-23T23:00:00.000Z",
+      "id": "7cf8309afa68553104e1df259efda4a1"
+    },
     {
       "date": "Le mercredi 8 avril 2026 de  14:00:00 à  17:00:00",
       "streets": "Pont St Louis",
