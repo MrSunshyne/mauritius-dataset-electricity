@@ -1,8 +1,8 @@
 {
   "date": "2026-04-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-25T06:25:41.781Z",
-  "outageCount": 12,
+  "generated": "2026-04-25T07:27:37.337Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le samedi 25 avril 2026 de  08:30:00 à  15:00:00",
@@ -103,6 +103,16 @@
       "from": "2026-04-24T20:30:00.000Z",
       "to": "2026-04-23T23:00:00.000Z",
       "id": "7cf8309afa68553104e1df259efda4a1"
+    },
+    {
+      "date": "Le samedi 25 avril 2026 de  11:15:00 à  12:15:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "DIORE,ARSENAL,CHINA,INKERMAN,LA PAIX",
+      "district": "portlouis",
+      "from": "2026-04-25T07:15:00.000Z",
+      "to": "2026-04-25T08:15:00.000Z",
+      "id": "da57a4a6c038113cc00a1e8d5608a3fc"
     },
     {
       "date": "Le samedi 25 avril 2026 de  08:30:00 à  15:30:00",
