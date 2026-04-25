@@ -1,8 +1,8 @@
 {
   "date": "2026-04-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-25T07:27:37.337Z",
-  "outageCount": 13,
+  "generated": "2026-04-25T08:15:30.062Z",
+  "outageCount": 14,
   "outages": [
     {
       "date": "Le samedi 25 avril 2026 de  08:30:00 à  15:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-04-25T05:00:00.000Z",
       "to": "2026-04-25T10:00:00.000Z",
       "id": "f9f2f96527fe0f9139e2722b86a0d8c1"
+    },
+    {
+      "date": "Le samedi 25 avril 2026 de  11:50:00 à  15:00:00",
+      "locality": "CALEBASSES",
+      "localitySlug": "calebasses",
+      "streets": "BURMINGHAM LANE AND SURROUNDINGS",
+      "district": "pamplemousses",
+      "from": "2026-04-25T07:50:00.000Z",
+      "to": "2026-04-25T11:00:00.000Z",
+      "id": "1cce9b0be043998a56651294baee5602"
     },
     {
       "date": "Le samedi 25 avril 2026 de  08:00:00 à  15:00:00",
