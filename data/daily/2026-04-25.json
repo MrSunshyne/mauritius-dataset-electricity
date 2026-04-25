@@ -1,8 +1,8 @@
 {
   "date": "2026-04-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-25T10:12:17.602Z",
-  "outageCount": 14,
+  "generated": "2026-04-25T11:13:02.451Z",
+  "outageCount": 15,
   "outages": [
     {
       "date": "Le samedi 25 avril 2026 de  08:30:00 à  15:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-04-25T04:30:00.000Z",
       "to": "2026-04-25T13:00:00.000Z",
       "id": "950f0c59e574b0dd63950d767eb7c907"
+    },
+    {
+      "date": "Le samedi 25 avril 2026 de  13:15:00 à  18:00:00",
+      "locality": "GRANDE RIVIERE SUD EST",
+      "localitySlug": "grande-riviere-sud-est",
+      "streets": "DANS LES ENVIRONS LAGOONA HOTEL, MORC VRS ET EN PARTIE CAMP PECHEURS.",
+      "district": "flacq",
+      "from": "2026-04-25T09:15:00.000Z",
+      "to": "2026-04-25T14:00:00.000Z",
+      "id": "621762022205908766c2737c0434a946"
     },
     {
       "date": "Le samedi 25 avril 2026 de  09:00:00 à  14:00:00",
