@@ -2,11 +2,18 @@
   "slug": "saint-pierre",
   "name": "SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-04-27T08:45:39.803Z",
-  "outageCount": 67,
+  "generated": "2026-04-27T09:41:30.129Z",
+  "outageCount": 68,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-04-25",
+  "lastOutage": "2026-04-27",
   "outages": [
+    {
+      "date": "Le lundi 27 avril 2026 de  15:00:00 à  18:00:00",
+      "streets": "Bois Cheri Rd, Riviere Baptiste, Le Pouce, St Pierre Village, Chemin Tafazul et Chantenay Petit Verger",
+      "from": "2026-04-27T11:00:00.000Z",
+      "to": "2026-04-27T14:00:00.000Z",
+      "id": "6abd052f240b067e1527b35b2df9983c"
+    },
     {
       "date": "Le samedi 25 avril 2026 de  09:00:00 à  14:00:00",
       "streets": "MOKA CITY, VIVEA BUSINESS PARK, BLOUMAGE, ENL HOUSE, VIVEA CUBICLE AT ST PIERRE",
