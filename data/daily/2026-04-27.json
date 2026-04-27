@@ -1,0 +1,48 @@
+{
+  "date": "2026-04-27",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-04-27T06:46:16.395Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le lundi 27 avril 2026 de  10:00:00 à  11:30:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "ROUTE DEPINAY CUREPIPE",
+      "district": "plainewilhems",
+      "from": "2026-04-27T06:00:00.000Z",
+      "to": "2026-04-27T07:30:00.000Z",
+      "id": "be88c100616505e3e56f38092d32fd5e"
+    },
+    {
+      "date": "Le lundi 27 avril 2026 de  10:00:00 à  14:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "RUE COSSIGNY/WELLINGTON",
+      "district": "plainewilhems",
+      "from": "2026-04-27T06:00:00.000Z",
+      "to": "2026-04-27T10:00:00.000Z",
+      "id": "0359835c4a333ce9fb8b40306d0ea183"
+    },
+    {
+      "date": "Le lundi 27 avril 2026 de  10:00:00 à  12:30:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "RUE AMBROSE ROSEHILL",
+      "district": "plainewilhems",
+      "from": "2026-04-27T06:00:00.000Z",
+      "to": "2026-04-27T08:30:00.000Z",
+      "id": "34e497f01a2b805c671dbdce0ae04624"
+    },
+    {
+      "date": "Le lundi 27 avril 2026 de  10:30:00 à  11:30:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "LA CLEMANCE",
+      "district": "rivieredurempart",
+      "from": "2026-04-27T06:30:00.000Z",
+      "to": "2026-04-27T07:30:00.000Z",
+      "id": "67ae31ecbd9995410514d4e945276503"
+    }
+  ]
+}

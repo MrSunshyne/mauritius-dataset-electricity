@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-04-26T18:09:38.501Z",
-  "outageCount": 212,
+  "generated": "2026-04-27T06:46:16.515Z",
+  "outageCount": 213,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-04-26",
+  "lastOutage": "2026-04-27",
   "outages": [
+    {
+      "date": "Le lundi 27 avril 2026 de  10:00:00 à  11:30:00",
+      "streets": "ROUTE DEPINAY CUREPIPE",
+      "from": "2026-04-27T06:00:00.000Z",
+      "to": "2026-04-27T07:30:00.000Z",
+      "id": "be88c100616505e3e56f38092d32fd5e"
+    },
     {
       "date": "Le dimanche 26 avril 2026 de  08:30:00 à  16:00:00",
       "streets": "dans les périmetres et les rues suivantes ;Résidence Malherbes A, Résidence Malherbes B, Bernandin de St Pierre Street, Leopold Sedar Songhor Street, Mahatma Gandhi Street, une partie de Clement Charoux Street, Résidence Les Preverts, NHDC Malherbes, Morc Malherbes, Chiniah Lane et Ramsahye Lane",

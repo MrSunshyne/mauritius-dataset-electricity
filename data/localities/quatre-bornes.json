@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-04-26T18:09:38.643Z",
-  "outageCount": 373,
+  "generated": "2026-04-27T06:46:16.674Z",
+  "outageCount": 374,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-04-25",
+  "lastOutage": "2026-04-27",
   "outages": [
+    {
+      "date": "Le lundi 27 avril 2026 de  10:00:00 à  14:00:00",
+      "streets": "RUE COSSIGNY/WELLINGTON",
+      "from": "2026-04-27T06:00:00.000Z",
+      "to": "2026-04-27T10:00:00.000Z",
+      "id": "0359835c4a333ce9fb8b40306d0ea183"
+    },
     {
       "date": "Le samedi 25 avril 2026 de  13:00:00 à  14:00:00",
       "streets": "Sanaz Court, Naz Court, New Heritage, Ave Brown, Stanley, Residence Avenue et Victoria Groove",

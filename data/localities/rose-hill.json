@@ -2,11 +2,18 @@
   "slug": "rose-hill",
   "name": "ROSE-HILL",
   "district": "plainewilhems",
-  "generated": "2026-04-26T18:09:38.669Z",
-  "outageCount": 160,
+  "generated": "2026-04-27T06:46:16.704Z",
+  "outageCount": 161,
   "firstOutage": "2022-05-20",
-  "lastOutage": "2026-04-23",
+  "lastOutage": "2026-04-27",
   "outages": [
+    {
+      "date": "Le lundi 27 avril 2026 de  10:00:00 à  12:30:00",
+      "streets": "RUE AMBROSE ROSEHILL",
+      "from": "2026-04-27T06:00:00.000Z",
+      "to": "2026-04-27T08:30:00.000Z",
+      "id": "34e497f01a2b805c671dbdce0ae04624"
+    },
     {
       "date": "Le jeudi 23 avril 2026 de  16:00:00 à  17:30:00",
       "streets": "AVE LA CONCORDE, AVE ARIANNE, MORC R.BRUNES, AVE ROCHE BRUNES, MORC NEWTOWN, ESPACE CONCORDE, EN PARTIE AVE RATSITATANE, EN PARTIE AVE CRETIN, AVE SIRIUS ET LES ENVIRONS",
