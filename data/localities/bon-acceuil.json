@@ -2,11 +2,18 @@
   "slug": "bon-acceuil",
   "name": "BON  ACCEUIL",
   "district": "flacq",
-  "generated": "2026-04-27T11:30:35.375Z",
-  "outageCount": 14,
+  "generated": "2026-04-27T12:25:00.169Z",
+  "outageCount": 15,
   "firstOutage": "2022-03-29",
-  "lastOutage": "2026-04-12",
+  "lastOutage": "2026-04-27",
   "outages": [
+    {
+      "date": "Le lundi 27 avril 2026 de  16:15:00 à  21:00:00",
+      "streets": "MISSION CROSS,HARE RAMA HARE KRISHNA,GRAND RETRAITE",
+      "from": "2026-04-27T12:15:00.000Z",
+      "to": "2026-04-27T17:00:00.000Z",
+      "id": "cd15b7cbd0263af74bb07ee62a0edaef"
+    },
     {
       "date": "Le dimanche 12 avril 2026 de  16:00:00 à  20:00:00",
       "streets": "SCHOOL LANE LATAPIE DANS LES ENVIRONS ECOLE GOUVERNMENT, ROYAL ROAD, RAMAKRISHNA ROAD, QUATRE BORD ROAD ET GRANDE RETRAITE.",

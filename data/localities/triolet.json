@@ -2,11 +2,25 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-04-27T11:30:35.640Z",
-  "outageCount": 132,
+  "generated": "2026-04-27T12:25:00.450Z",
+  "outageCount": 134,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-04-17",
+  "lastOutage": "2026-04-28",
   "outages": [
+    {
+      "date": "Le mardi 28 avril 2026 de  12:00:00 à  15:00:00",
+      "streets": "9eme MILE TRIOLET DANS LES ENVIRONS DE HASSEN TAHER",
+      "from": "2026-04-28T08:00:00.000Z",
+      "to": "2026-04-28T11:00:00.000Z",
+      "id": "e14c5e1b5ca93c835755f251f497a3d5"
+    },
+    {
+      "date": "Le mardi 28 avril 2026 de  09:30:00 à  11:00:00",
+      "streets": "BON AIR ROAD, TRIOLET",
+      "from": "2026-04-28T05:30:00.000Z",
+      "to": "2026-04-28T07:00:00.000Z",
+      "id": "8df0fa2adbf6399328802aa05b944966"
+    },
     {
       "date": "Le vendredi 17 avril 2026 de  09:00:00 à  11:00:00",
       "streets": "7eme et 8eme Mile Triolet et une partie de Pointe aux Piments",

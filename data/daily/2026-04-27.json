@@ -1,8 +1,8 @@
 {
   "date": "2026-04-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-27T11:30:35.317Z",
-  "outageCount": 7,
+  "generated": "2026-04-27T12:25:00.108Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le lundi 27 avril 2026 de  14:15:00 à  16:15:00",
@@ -13,6 +13,16 @@
       "from": "2026-04-27T10:15:00.000Z",
       "to": "2026-04-27T12:15:00.000Z",
       "id": "815120e8e3d83038fc35f75b9382e79b"
+    },
+    {
+      "date": "Le lundi 27 avril 2026 de  16:15:00 à  21:00:00",
+      "locality": "BON  ACCEUIL",
+      "localitySlug": "bon-acceuil",
+      "streets": "MISSION CROSS,HARE RAMA HARE KRISHNA,GRAND RETRAITE",
+      "district": "flacq",
+      "from": "2026-04-27T12:15:00.000Z",
+      "to": "2026-04-27T17:00:00.000Z",
+      "id": "cd15b7cbd0263af74bb07ee62a0edaef"
     },
     {
       "date": "Le lundi 27 avril 2026 de  15:00:00 à  18:00:00",
