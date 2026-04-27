@@ -2,11 +2,18 @@
   "slug": "allee-brillant-vacoas",
   "name": "ALLEE BRILLANT VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-04-27T15:30:40.404Z",
-  "outageCount": 12,
+  "generated": "2026-04-27T16:28:41.368Z",
+  "outageCount": 13,
   "firstOutage": "2023-02-05",
-  "lastOutage": "2026-02-23",
+  "lastOutage": "2026-04-27",
   "outages": [
+    {
+      "date": "Le lundi 27 avril 2026 de  20:00:00 à  23:00:00",
+      "streets": "MADRASSA LANE & SURROUNDINGS",
+      "from": "2026-04-27T16:00:00.000Z",
+      "to": "2026-04-27T19:00:00.000Z",
+      "id": "eb1973b7e5cc2dcd8ce4aecd5d057847"
+    },
     {
       "date": "Le lundi 23 février 2026 de  09:00:00 à  10:30:00",
       "streets": "HANOOMANJEE LANE",

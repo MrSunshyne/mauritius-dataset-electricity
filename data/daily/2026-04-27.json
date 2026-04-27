@@ -1,8 +1,8 @@
 {
   "date": "2026-04-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-27T15:30:40.389Z",
-  "outageCount": 10,
+  "generated": "2026-04-27T16:28:41.350Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le lundi 27 avril 2026 de  17:45:00 à  20:00:00",
@@ -73,6 +73,16 @@
       "from": "2026-04-27T06:00:00.000Z",
       "to": "2026-04-27T08:30:00.000Z",
       "id": "34e497f01a2b805c671dbdce0ae04624"
+    },
+    {
+      "date": "Le lundi 27 avril 2026 de  20:00:00 à  23:00:00",
+      "locality": "ALLEE BRILLANT VACOAS",
+      "localitySlug": "allee-brillant-vacoas",
+      "streets": "MADRASSA LANE & SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2026-04-27T16:00:00.000Z",
+      "to": "2026-04-27T19:00:00.000Z",
+      "id": "eb1973b7e5cc2dcd8ce4aecd5d057847"
     },
     {
       "date": "Le lundi 27 avril 2026 de  10:45:00 à  12:00:00",
