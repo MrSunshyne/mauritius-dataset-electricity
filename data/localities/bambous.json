@@ -2,11 +2,18 @@
   "slug": "bambous",
   "name": "BAMBOUS",
   "district": "blackriver",
-  "generated": "2026-04-27T06:46:16.425Z",
-  "outageCount": 114,
+  "generated": "2026-04-27T07:44:05.273Z",
+  "outageCount": 115,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-04-01",
+  "lastOutage": "2026-05-02",
   "outages": [
+    {
+      "date": "Le samedi 2 mai 2026 de  08:30:00 à  14:00:00",
+      "streets": "AVE CENTRALE, AVE EAU BONNE, AVE SAINT-SAUVEUR, AVE DES SOURCES, AVE LAVANDERIE ET AVE LA FERME",
+      "from": "2026-05-02T04:30:00.000Z",
+      "to": "2026-05-02T10:00:00.000Z",
+      "id": "3157da8711403329b65f894d4f9a53e5"
+    },
     {
       "date": "Le mercredi 1 avril 2026 de  17:30:00 à  18:00:00",
       "streets": "CITE LAFERME BAMBOUS",

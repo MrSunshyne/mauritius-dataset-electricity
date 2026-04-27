@@ -2,11 +2,18 @@
   "slug": "vallee-des-pretres",
   "name": "VALLEE DES PRETRES",
   "district": "portlouis",
-  "generated": "2026-04-27T06:46:16.749Z",
-  "outageCount": 78,
+  "generated": "2026-04-27T07:44:05.569Z",
+  "outageCount": 79,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-03-25",
+  "lastOutage": "2026-04-27",
   "outages": [
+    {
+      "date": "Le lundi 27 avril 2026 de  10:45:00 à  12:00:00",
+      "streets": "CARREAU LALO VALLEE DES PRETRES",
+      "from": "2026-04-27T06:45:00.000Z",
+      "to": "2026-04-27T08:00:00.000Z",
+      "id": "c42cb4c28f3d4a875d7109374399cf82"
+    },
     {
       "date": "Le mercredi 25 mars 2026 de  11:00:00 à  12:00:00",
       "streets": "Bernandin de St Pierre",

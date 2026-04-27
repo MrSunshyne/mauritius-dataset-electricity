@@ -1,8 +1,8 @@
 {
   "date": "2026-04-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-27T06:46:16.395Z",
-  "outageCount": 4,
+  "generated": "2026-04-27T07:44:05.243Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le lundi 27 avril 2026 de  10:00:00 à  11:30:00",
@@ -33,6 +33,16 @@
       "from": "2026-04-27T06:00:00.000Z",
       "to": "2026-04-27T08:30:00.000Z",
       "id": "34e497f01a2b805c671dbdce0ae04624"
+    },
+    {
+      "date": "Le lundi 27 avril 2026 de  10:45:00 à  12:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "CARREAU LALO VALLEE DES PRETRES",
+      "district": "portlouis",
+      "from": "2026-04-27T06:45:00.000Z",
+      "to": "2026-04-27T08:00:00.000Z",
+      "id": "c42cb4c28f3d4a875d7109374399cf82"
     },
     {
       "date": "Le lundi 27 avril 2026 de  10:30:00 à  11:30:00",
