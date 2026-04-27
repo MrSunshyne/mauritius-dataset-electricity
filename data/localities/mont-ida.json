@@ -2,11 +2,18 @@
   "slug": "mont-ida",
   "name": "MONT IDA",
   "district": "flacq",
-  "generated": "2026-04-27T09:41:30.037Z",
-  "outageCount": 12,
+  "generated": "2026-04-27T10:35:47.944Z",
+  "outageCount": 13,
   "firstOutage": "2022-10-17",
-  "lastOutage": "2026-03-03",
+  "lastOutage": "2026-04-27",
   "outages": [
+    {
+      "date": "Le lundi 27 avril 2026 de  14:15:00 à  16:15:00",
+      "streets": "MONT IDA",
+      "from": "2026-04-27T10:15:00.000Z",
+      "to": "2026-04-27T12:15:00.000Z",
+      "id": "815120e8e3d83038fc35f75b9382e79b"
+    },
     {
       "date": "Le mardi 3 mars 2026 de  11:00:00 à  18:00:00",
       "streets": "MON IDA BRANCH RD, MON IDA VILLAGE",

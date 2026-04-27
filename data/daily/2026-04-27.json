@@ -1,9 +1,19 @@
 {
   "date": "2026-04-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-27T09:41:29.840Z",
-  "outageCount": 6,
+  "generated": "2026-04-27T10:35:47.747Z",
+  "outageCount": 7,
   "outages": [
+    {
+      "date": "Le lundi 27 avril 2026 de  14:15:00 à  16:15:00",
+      "locality": "MONT IDA",
+      "localitySlug": "mont-ida",
+      "streets": "MONT IDA",
+      "district": "flacq",
+      "from": "2026-04-27T10:15:00.000Z",
+      "to": "2026-04-27T12:15:00.000Z",
+      "id": "815120e8e3d83038fc35f75b9382e79b"
+    },
     {
       "date": "Le lundi 27 avril 2026 de  15:00:00 à  18:00:00",
       "locality": "SAINT PIERRE",
