@@ -1,8 +1,8 @@
 {
   "date": "2026-04-28",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-28T10:36:35.456Z",
-  "outageCount": 10,
+  "generated": "2026-04-28T11:30:56.425Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le mardi 28 avril 2026 de  09:00:00 à  11:00:00",
@@ -83,6 +83,16 @@
       "from": "2026-04-28T08:00:00.000Z",
       "to": "2026-04-28T11:00:00.000Z",
       "id": "e14c5e1b5ca93c835755f251f497a3d5"
+    },
+    {
+      "date": "Le mardi 28 avril 2026 de  15:10:00 à  16:30:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "MAHESWAR NAGRI RD, ROYAL ROAD",
+      "district": "pamplemousses",
+      "from": "2026-04-28T11:10:00.000Z",
+      "to": "2026-04-28T12:30:00.000Z",
+      "id": "dce30e1f6f629bf7235f43223568a60c"
     },
     {
       "date": "Le mardi 28 avril 2026 de  11:00:00 à  15:00:00",
