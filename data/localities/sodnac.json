@@ -2,11 +2,18 @@
   "slug": "sodnac",
   "name": "SODNAC",
   "district": "plainewilhems",
-  "generated": "2026-04-28T11:30:56.755Z",
-  "outageCount": 44,
+  "generated": "2026-04-28T12:29:44.363Z",
+  "outageCount": 45,
   "firstOutage": "2022-05-30",
   "lastOutage": "2026-04-28",
   "outages": [
+    {
+      "date": "Le mardi 28 avril 2026 de  16:00:00 à  19:00:00",
+      "streets": "AVENUE IBIS SODNAC",
+      "from": "2026-04-28T12:00:00.000Z",
+      "to": "2026-04-28T15:00:00.000Z",
+      "id": "1d708a6509104ef635a1d1875fd09a97"
+    },
     {
       "date": "Le mardi 28 avril 2026 de  11:00:00 à  15:00:00",
       "streets": "AVENUE IBIS SODNAC",

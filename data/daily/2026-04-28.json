@@ -1,8 +1,8 @@
 {
   "date": "2026-04-28",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-28T11:30:56.425Z",
-  "outageCount": 11,
+  "generated": "2026-04-28T12:29:44.043Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le mardi 28 avril 2026 de  09:00:00 à  11:00:00",
@@ -65,6 +65,16 @@
       "id": "374bd126165008c832aa91b1a6665fcb"
     },
     {
+      "date": "Le mardi 28 avril 2026 de  16:00:00 à  19:00:00",
+      "locality": "CARREAU ACCACIA",
+      "localitySlug": "carreau-accacia",
+      "streets": "PART OF CARREAU ACCACIA",
+      "district": "grandport",
+      "from": "2026-04-28T12:00:00.000Z",
+      "to": "2026-04-28T15:00:00.000Z",
+      "id": "176c2d79fdfae9a735ea2250ea2b46c9"
+    },
+    {
       "date": "Le mardi 28 avril 2026 de  09:30:00 à  11:00:00",
       "locality": "TRIOLET",
       "localitySlug": "triolet",
@@ -103,6 +113,16 @@
       "from": "2026-04-28T07:00:00.000Z",
       "to": "2026-04-28T11:00:00.000Z",
       "id": "3f73a2f59ab1434f8024061ea096cc9f"
+    },
+    {
+      "date": "Le mardi 28 avril 2026 de  16:00:00 à  19:00:00",
+      "locality": "SODNAC",
+      "localitySlug": "sodnac",
+      "streets": "AVENUE IBIS SODNAC",
+      "district": "plainewilhems",
+      "from": "2026-04-28T12:00:00.000Z",
+      "to": "2026-04-28T15:00:00.000Z",
+      "id": "1d708a6509104ef635a1d1875fd09a97"
     },
     {
       "date": "Le mardi 28 avril 2026 de  08:45:00 à  15:30:00",
