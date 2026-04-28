@@ -2,8 +2,8 @@
   "slug": "bambous",
   "name": "BAMBOUS",
   "district": "blackriver",
-  "generated": "2026-04-27T18:22:02.148Z",
-  "outageCount": 116,
+  "generated": "2026-04-28T06:47:57.175Z",
+  "outageCount": 117,
   "firstOutage": "2022-04-12",
   "lastOutage": "2026-05-02",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-05-02T04:30:00.000Z",
       "to": "2026-05-02T10:00:00.000Z",
       "id": "3157da8711403329b65f894d4f9a53e5"
+    },
+    {
+      "date": "Le mardi 28 avril 2026 de  09:00:00 à  11:00:00",
+      "streets": "AVE CENTRALE, AVE BRICOLEUR, CAMP RODRIGUAIS ET LES ALNTOURS",
+      "from": "2026-04-28T05:00:00.000Z",
+      "to": "2026-04-28T07:00:00.000Z",
+      "id": "e4d69beaebff0ff2d1944938b75b5966"
     },
     {
       "date": "Le lundi 27 avril 2026 de  17:45:00 à  21:20:00",

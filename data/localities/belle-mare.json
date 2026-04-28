@@ -2,11 +2,18 @@
   "slug": "belle-mare",
   "name": "BELLE MARE",
   "district": "flacq",
-  "generated": "2026-04-27T18:22:02.164Z",
-  "outageCount": 29,
+  "generated": "2026-04-28T06:47:57.191Z",
+  "outageCount": 30,
   "firstOutage": "2022-08-07",
-  "lastOutage": "2026-03-10",
+  "lastOutage": "2026-04-29",
   "outages": [
+    {
+      "date": "Le mercredi 29 avril 2026 de  08:30:00 à  17:00:00",
+      "streets": "Pointe de Flacq dans les périmètres de Morc Constance Belle Mare et Golf Irrigation Belle Mare (Deer Hunter Golf Club).",
+      "from": "2026-04-29T04:30:00.000Z",
+      "to": "2026-04-29T13:00:00.000Z",
+      "id": "d3d830e0f8ca89dc2f995c8463aac3b1"
+    },
     {
       "date": "Le mardi 10 mars 2026 de  08:30:00 à  17:00:00",
       "streets": "Belle Mare dans les périmètres de Dahlia, Jasmin, Kalnia, Cremation Road, Route Royal, Shani Nagar Road, et dans les environs de station de police",

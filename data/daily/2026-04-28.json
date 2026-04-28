@@ -1,9 +1,29 @@
 {
   "date": "2026-04-28",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-27T18:22:02.118Z",
-  "outageCount": 4,
+  "generated": "2026-04-28T06:47:57.143Z",
+  "outageCount": 6,
   "outages": [
+    {
+      "date": "Le mardi 28 avril 2026 de  09:00:00 à  11:00:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "AVE CENTRALE, AVE BRICOLEUR, CAMP RODRIGUAIS ET LES ALNTOURS",
+      "district": "blackriver",
+      "from": "2026-04-28T05:00:00.000Z",
+      "to": "2026-04-28T07:00:00.000Z",
+      "id": "e4d69beaebff0ff2d1944938b75b5966"
+    },
+    {
+      "date": "Le mardi 28 avril 2026 de  08:45:00 à  16:00:00",
+      "locality": "BONNE MERE",
+      "localitySlug": "bonne-mere",
+      "streets": "BONNE MERE VILLAGE ET NHDC",
+      "district": "flacq",
+      "from": "2026-04-28T04:45:00.000Z",
+      "to": "2026-04-28T12:00:00.000Z",
+      "id": "ddd748d2ec66e526e1ccea5f54604d77"
+    },
     {
       "date": "Le mardi 28 avril 2026 de  09:00:00 à  15:00:00",
       "locality": "MAHEBOURG",

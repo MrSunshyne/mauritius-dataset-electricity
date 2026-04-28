@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-27T18:22:02.452Z",
+  "generated": "2026-04-28T06:47:57.480Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -214,7 +214,7 @@
       "slug": "bambous",
       "name": "BAMBOUS",
       "district": "blackriver",
-      "outageCount": 116,
+      "outageCount": 117,
       "file": "bambous.json",
       "firstOutage": "2022-04-12",
       "lastOutage": "2026-05-02"
@@ -421,10 +421,10 @@
       "slug": "belle-mare",
       "name": "BELLE MARE",
       "district": "flacq",
-      "outageCount": 29,
+      "outageCount": 30,
       "file": "belle-mare.json",
       "firstOutage": "2022-08-07",
-      "lastOutage": "2026-03-10"
+      "lastOutage": "2026-04-29"
     },
     {
       "slug": "belle-rive",
@@ -592,10 +592,10 @@
       "slug": "bonne-mere",
       "name": "BONNE MERE",
       "district": "flacq",
-      "outageCount": 13,
+      "outageCount": 14,
       "file": "bonne-mere.json",
       "firstOutage": "2022-08-14",
-      "lastOutage": "2026-01-10"
+      "lastOutage": "2026-04-28"
     },
     {
       "slug": "bonne-terre",
