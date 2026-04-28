@@ -2,11 +2,18 @@
   "slug": "poste-de-flacq",
   "name": "POSTE DE FLACQ",
   "district": "flacq",
-  "generated": "2026-04-28T12:29:44.313Z",
-  "outageCount": 38,
+  "generated": "2026-04-28T13:31:29.041Z",
+  "outageCount": 39,
   "firstOutage": "2022-06-12",
-  "lastOutage": "2026-04-16",
+  "lastOutage": "2026-04-28",
   "outages": [
+    {
+      "date": "Le mardi 28 avril 2026 de  13:00:00 à  20:00:00",
+      "streets": "LAPORTE PROVIDENCE",
+      "from": "2026-04-28T09:00:00.000Z",
+      "to": "2026-04-28T16:00:00.000Z",
+      "id": "6d98f0f947f50cd2e8d024862859c988"
+    },
     {
       "date": "Le jeudi 16 avril 2026 de  09:00:00 à  17:30:00",
       "streets": "CAMP POORUN.",
