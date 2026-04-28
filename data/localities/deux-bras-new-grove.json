@@ -2,11 +2,18 @@
   "slug": "deux-bras-new-grove",
   "name": "DEUX BRAS- NEW GROVE",
   "district": "grandport",
-  "generated": "2026-04-28T07:43:47.564Z",
-  "outageCount": 12,
+  "generated": "2026-04-28T08:44:20.609Z",
+  "outageCount": 13,
   "firstOutage": "2022-09-02",
-  "lastOutage": "2026-04-07",
+  "lastOutage": "2026-04-28",
   "outages": [
+    {
+      "date": "Le mardi 28 avril 2026 de  10:00:00 à  16:00:00",
+      "streets": "EN PARTIE DEUX BRAS NEW GROVE",
+      "from": "2026-04-28T06:00:00.000Z",
+      "to": "2026-04-28T12:00:00.000Z",
+      "id": "374bd126165008c832aa91b1a6665fcb"
+    },
     {
       "date": "Le mardi 7 avril 2026 de  08:30:00 à  12:00:00",
       "streets": "DEUX BRAS SUGAR ESTATE",

@@ -1,8 +1,8 @@
 {
   "date": "2026-04-28",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-28T07:43:47.445Z",
-  "outageCount": 8,
+  "generated": "2026-04-28T08:44:20.478Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le mardi 28 avril 2026 de  09:00:00 à  11:00:00",
@@ -25,6 +25,16 @@
       "id": "ddd748d2ec66e526e1ccea5f54604d77"
     },
     {
+      "date": "Le mardi 28 avril 2026 de  09:00:00 à  16:00:00",
+      "locality": "GRAND BEL AIR",
+      "localitySlug": "grand-bel-air",
+      "streets": "GRAND BELAIR",
+      "district": "flacq",
+      "from": "2026-04-28T05:00:00.000Z",
+      "to": "2026-04-28T12:00:00.000Z",
+      "id": "7655903542d61ce72568d855124dd083"
+    },
+    {
       "date": "Le mardi 28 avril 2026 de  09:00:00 à  15:00:00",
       "locality": "MAHEBOURG",
       "localitySlug": "mahebourg",
@@ -43,6 +53,16 @@
       "from": "2026-04-28T06:00:00.000Z",
       "to": "2026-04-28T10:00:00.000Z",
       "id": "9c873919085bc79ad38bdf94d22eebc7"
+    },
+    {
+      "date": "Le mardi 28 avril 2026 de  10:00:00 à  16:00:00",
+      "locality": "DEUX BRAS- NEW GROVE",
+      "localitySlug": "deux-bras-new-grove",
+      "streets": "EN PARTIE DEUX BRAS NEW GROVE",
+      "district": "grandport",
+      "from": "2026-04-28T06:00:00.000Z",
+      "to": "2026-04-28T12:00:00.000Z",
+      "id": "374bd126165008c832aa91b1a6665fcb"
     },
     {
       "date": "Le mardi 28 avril 2026 de  09:30:00 à  11:00:00",

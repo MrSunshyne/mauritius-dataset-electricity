@@ -2,11 +2,18 @@
   "slug": "grand-bel-air",
   "name": "GRAND BEL AIR",
   "district": "flacq",
-  "generated": "2026-04-28T07:43:47.585Z",
-  "outageCount": 29,
+  "generated": "2026-04-28T08:44:20.631Z",
+  "outageCount": 30,
   "firstOutage": "2022-06-14",
-  "lastOutage": "2025-12-31",
+  "lastOutage": "2026-04-28",
   "outages": [
+    {
+      "date": "Le mardi 28 avril 2026 de  09:00:00 à  16:00:00",
+      "streets": "GRAND BELAIR",
+      "from": "2026-04-28T05:00:00.000Z",
+      "to": "2026-04-28T12:00:00.000Z",
+      "id": "7655903542d61ce72568d855124dd083"
+    },
     {
       "date": "Le mercredi 31 décembre 2025 de  11:00:00 à  12:00:00",
       "streets": "MORC VRS",
