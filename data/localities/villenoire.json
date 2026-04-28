@@ -2,11 +2,18 @@
   "slug": "villenoire",
   "name": "VILLENOIRE",
   "district": "grandport",
-  "generated": "2026-04-28T06:47:57.476Z",
-  "outageCount": 55,
+  "generated": "2026-04-28T07:43:47.780Z",
+  "outageCount": 56,
   "firstOutage": "2022-06-10",
-  "lastOutage": "2026-03-20",
+  "lastOutage": "2026-04-28",
   "outages": [
+    {
+      "date": "Le mardi 28 avril 2026 de  10:00:00 à  14:00:00",
+      "streets": "VILLENOIRE",
+      "from": "2026-04-28T06:00:00.000Z",
+      "to": "2026-04-28T10:00:00.000Z",
+      "id": "9c873919085bc79ad38bdf94d22eebc7"
+    },
     {
       "date": "Le vendredi 20 mars 2026 de  09:00:00 à  15:00:00",
       "streets": "Ville Noire habitant dans le périmètre et les rues suivantes: VRS Ville Noire, NHDC Ville Noire et Morcellement Blue Print Ville Noire",

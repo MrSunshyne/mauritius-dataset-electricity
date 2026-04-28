@@ -2,11 +2,18 @@
   "slug": "sodnac",
   "name": "SODNAC",
   "district": "plainewilhems",
-  "generated": "2026-04-28T06:47:57.444Z",
-  "outageCount": 43,
+  "generated": "2026-04-28T07:43:47.747Z",
+  "outageCount": 44,
   "firstOutage": "2022-05-30",
-  "lastOutage": "2026-04-17",
+  "lastOutage": "2026-04-28",
   "outages": [
+    {
+      "date": "Le mardi 28 avril 2026 de  11:00:00 à  15:00:00",
+      "streets": "AVENUE IBIS SODNAC",
+      "from": "2026-04-28T07:00:00.000Z",
+      "to": "2026-04-28T11:00:00.000Z",
+      "id": "3f73a2f59ab1434f8024061ea096cc9f"
+    },
     {
       "date": "Le vendredi 17 avril 2026 de  09:15:00 à  09:40:00",
       "streets": "HILLCREST APPARTMENTS & PHOENIX RESIDENCE",

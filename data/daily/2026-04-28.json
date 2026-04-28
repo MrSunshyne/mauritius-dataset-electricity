@@ -1,8 +1,8 @@
 {
   "date": "2026-04-28",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-28T06:47:57.143Z",
-  "outageCount": 6,
+  "generated": "2026-04-28T07:43:47.445Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le mardi 28 avril 2026 de  09:00:00 à  11:00:00",
@@ -35,6 +35,16 @@
       "id": "afa7ea5f0ad94e73e9fe81ebd665fb17"
     },
     {
+      "date": "Le mardi 28 avril 2026 de  10:00:00 à  14:00:00",
+      "locality": "VILLENOIRE",
+      "localitySlug": "villenoire",
+      "streets": "VILLENOIRE",
+      "district": "grandport",
+      "from": "2026-04-28T06:00:00.000Z",
+      "to": "2026-04-28T10:00:00.000Z",
+      "id": "9c873919085bc79ad38bdf94d22eebc7"
+    },
+    {
       "date": "Le mardi 28 avril 2026 de  09:30:00 à  11:00:00",
       "locality": "TRIOLET",
       "localitySlug": "triolet",
@@ -53,6 +63,16 @@
       "from": "2026-04-28T08:00:00.000Z",
       "to": "2026-04-28T11:00:00.000Z",
       "id": "e14c5e1b5ca93c835755f251f497a3d5"
+    },
+    {
+      "date": "Le mardi 28 avril 2026 de  11:00:00 à  15:00:00",
+      "locality": "SODNAC",
+      "localitySlug": "sodnac",
+      "streets": "AVENUE IBIS SODNAC",
+      "district": "plainewilhems",
+      "from": "2026-04-28T07:00:00.000Z",
+      "to": "2026-04-28T11:00:00.000Z",
+      "id": "3f73a2f59ab1434f8024061ea096cc9f"
     },
     {
       "date": "Le mardi 28 avril 2026 de  08:45:00 à  15:30:00",
