@@ -1,8 +1,8 @@
 {
   "date": "2026-05-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-29T11:28:41.937Z",
-  "outageCount": 1,
+  "generated": "2026-04-29T12:24:47.862Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le samedi 2 mai 2026 de  08:30:00 à  14:00:00",
@@ -13,6 +13,36 @@
       "from": "2026-05-02T04:30:00.000Z",
       "to": "2026-05-02T10:00:00.000Z",
       "id": "3157da8711403329b65f894d4f9a53e5"
+    },
+    {
+      "date": "Le samedi 2 mai 2026 de  13:00:00 à  14:30:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "Dans les environs de Bissessur Lane, Joysary Lane et une partie de la route royale",
+      "district": "blackriver",
+      "from": "2026-05-02T09:00:00.000Z",
+      "to": "2026-05-02T10:30:00.000Z",
+      "id": "5475a022e38c47a881a75fcd223a30b1"
+    },
+    {
+      "date": "Le samedi 2 mai 2026 de  11:30:00 à  15:30:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "Les abonnes habitant Upper Vallee des Pretres dans les environs de Caroline",
+      "district": "portlouis",
+      "from": "2026-05-02T07:30:00.000Z",
+      "to": "2026-05-02T11:30:00.000Z",
+      "id": "2692c78d55145a811c3b359075981ed9"
+    },
+    {
+      "date": "Le samedi 2 mai 2026 de  08:30:00 à  11:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "Les abonnes habitant Upper Vallee des Pretres  dans les environs de Chitrakoot",
+      "district": "portlouis",
+      "from": "2026-05-02T04:30:00.000Z",
+      "to": "2026-05-02T07:00:00.000Z",
+      "id": "761b8e43df33edf3eac7988c6e859fb7"
     }
   ]
 }

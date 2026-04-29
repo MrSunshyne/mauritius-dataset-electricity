@@ -1,8 +1,8 @@
 {
   "date": "2026-05-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-29T11:28:41.937Z",
-  "outageCount": 1,
+  "generated": "2026-04-29T12:24:47.862Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le dimanche 3 mai 2026 de  08:30:00 à  16:00:00",
@@ -13,6 +13,36 @@
       "from": "2026-05-03T04:30:00.000Z",
       "to": "2026-05-03T12:00:00.000Z",
       "id": "a75b2a5db6c32b20cf2f69d30eee74a7"
+    },
+    {
+      "date": "Le dimanche 3 mai 2026 de  08:30:00 à  16:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "Dans les environs de Nundloll Lane, Camp des Embrevades, Princess Margaret, Chumroo Lane, Daffodil Lane, Bissessur Lane, Joysary Lane, Macnamara Lane, Old Trafford Lane et une partie de la route royale",
+      "district": "blackriver",
+      "from": "2026-05-03T04:30:00.000Z",
+      "to": "2026-05-03T12:00:00.000Z",
+      "id": "7c831101602c14cdb6d5e594c2b5fba2"
+    },
+    {
+      "date": "Le dimanche 3 mai 2026 de  08:30:00 à  13:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "Dans les environs des rues Mere Barthelemy, Dártois, Volcy Pougnet et Bolton",
+      "district": "portlouis",
+      "from": "2026-05-03T04:30:00.000Z",
+      "to": "2026-05-03T09:00:00.000Z",
+      "id": "ad7e1334cd9d78e479c7745e19c9c495"
+    },
+    {
+      "date": "Le dimanche 3 mai 2026 de  08:30:00 à  15:30:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "Les abonnes habitant Upper Vallee des Pretres dans les environs de Sandokan",
+      "district": "portlouis",
+      "from": "2026-05-03T04:30:00.000Z",
+      "to": "2026-05-03T11:30:00.000Z",
+      "id": "569fad4d121ab092d60f472219c5eece"
     }
   ]
 }

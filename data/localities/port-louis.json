@@ -2,11 +2,18 @@
   "slug": "port-louis",
   "name": "PORT-LOUIS",
   "district": "portlouis",
-  "generated": "2026-04-29T11:28:42.210Z",
-  "outageCount": 120,
+  "generated": "2026-04-29T12:24:48.060Z",
+  "outageCount": 121,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-04-25",
+  "lastOutage": "2026-05-03",
   "outages": [
+    {
+      "date": "Le dimanche 3 mai 2026 de  08:30:00 à  13:00:00",
+      "streets": "Dans les environs des rues Mere Barthelemy, Dártois, Volcy Pougnet et Bolton",
+      "from": "2026-05-03T04:30:00.000Z",
+      "to": "2026-05-03T09:00:00.000Z",
+      "id": "ad7e1334cd9d78e479c7745e19c9c495"
+    },
     {
       "date": "Le samedi 25 avril 2026 de  11:15:00 à  12:15:00",
       "streets": "DIORE,ARSENAL,CHINA,INKERMAN,LA PAIX",
