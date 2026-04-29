@@ -2,11 +2,18 @@
   "slug": "bambous",
   "name": "BAMBOUS",
   "district": "blackriver",
-  "generated": "2026-04-28T18:26:37.700Z",
-  "outageCount": 117,
+  "generated": "2026-04-29T06:43:40.949Z",
+  "outageCount": 118,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-05-02",
+  "lastOutage": "2026-05-03",
   "outages": [
+    {
+      "date": "Le dimanche 3 mai 2026 de  08:30:00 à  16:00:00",
+      "streets": "RESIDENCE LA FERME, MAGIC DEAL, LE STADE GERMAIN COMARMOND BAMBOUS, POLYECO LTD ET CHAUMIERE TRANSFER STATION",
+      "from": "2026-05-03T04:30:00.000Z",
+      "to": "2026-05-03T12:00:00.000Z",
+      "id": "a75b2a5db6c32b20cf2f69d30eee74a7"
+    },
     {
       "date": "Le samedi 2 mai 2026 de  08:30:00 à  14:00:00",
       "streets": "AVE CENTRALE, AVE EAU BONNE, AVE SAINT-SAUVEUR, AVE DES SOURCES, AVE LAVANDERIE ET AVE LA FERME",

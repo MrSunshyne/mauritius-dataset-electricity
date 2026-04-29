@@ -1,8 +1,8 @@
 {
   "date": "2026-04-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-28T18:26:37.666Z",
-  "outageCount": 1,
+  "generated": "2026-04-29T06:43:40.917Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le mercredi 29 avril 2026 de  08:30:00 à  17:00:00",
@@ -13,6 +13,26 @@
       "from": "2026-04-29T04:30:00.000Z",
       "to": "2026-04-29T13:00:00.000Z",
       "id": "d3d830e0f8ca89dc2f995c8463aac3b1"
+    },
+    {
+      "date": "Le mercredi 29 avril 2026 de  10:00:00 à  15:00:00",
+      "locality": "PETIT VERGER SAINT PIERRE",
+      "localitySlug": "petit-verger-saint-pierre",
+      "streets": "Bois Cheri Road et Roselyn Cottage",
+      "district": "moka",
+      "from": "2026-04-29T06:00:00.000Z",
+      "to": "2026-04-29T11:00:00.000Z",
+      "id": "1ff47e2211bc2eb9becc4d710f4aa511"
+    },
+    {
+      "date": "Le mercredi 29 avril 2026 de  09:30:00 à  16:00:00",
+      "locality": "PETIT VERGER P AUX SABLES",
+      "localitySlug": "petit-verger-p-aux-sables",
+      "streets": "EN PARTIE KENSINGTON PTE AUX SABLES",
+      "district": "portlouis",
+      "from": "2026-04-29T05:30:00.000Z",
+      "to": "2026-04-29T12:00:00.000Z",
+      "id": "841362128247d320d37e78d4612976b2"
     }
   ]
 }

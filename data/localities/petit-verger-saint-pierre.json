@@ -2,11 +2,18 @@
   "slug": "petit-verger-saint-pierre",
   "name": "PETIT VERGER SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-04-28T18:26:37.922Z",
-  "outageCount": 13,
+  "generated": "2026-04-29T06:43:41.143Z",
+  "outageCount": 14,
   "firstOutage": "2022-07-07",
-  "lastOutage": "2026-04-09",
+  "lastOutage": "2026-04-29",
   "outages": [
+    {
+      "date": "Le mercredi 29 avril 2026 de  10:00:00 à  15:00:00",
+      "streets": "Bois Cheri Road et Roselyn Cottage",
+      "from": "2026-04-29T06:00:00.000Z",
+      "to": "2026-04-29T11:00:00.000Z",
+      "id": "1ff47e2211bc2eb9becc4d710f4aa511"
+    },
     {
       "date": "Le jeudi 9 avril 2026 de  15:30:00 à  18:30:00",
       "streets": "PART OF PETIT VERGER SAINT PIERRE",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-28T18:26:38.044Z",
+  "generated": "2026-04-29T06:43:41.247Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -214,10 +214,10 @@
       "slug": "bambous",
       "name": "BAMBOUS",
       "district": "blackriver",
-      "outageCount": 117,
+      "outageCount": 118,
       "file": "bambous.json",
       "firstOutage": "2022-04-12",
-      "lastOutage": "2026-05-02"
+      "lastOutage": "2026-05-03"
     },
     {
       "slug": "bambous-virieux",
@@ -2806,19 +2806,19 @@
       "slug": "petit-verger-p-aux-sables",
       "name": "PETIT VERGER P AUX SABLES",
       "district": "portlouis",
-      "outageCount": 11,
+      "outageCount": 12,
       "file": "petit-verger-p-aux-sables.json",
       "firstOutage": "2022-04-12",
-      "lastOutage": "2025-06-28"
+      "lastOutage": "2026-04-29"
     },
     {
       "slug": "petit-verger-saint-pierre",
       "name": "PETIT VERGER SAINT PIERRE",
       "district": "moka",
-      "outageCount": 13,
+      "outageCount": 14,
       "file": "petit-verger-saint-pierre.json",
       "firstOutage": "2022-07-07",
-      "lastOutage": "2026-04-09"
+      "lastOutage": "2026-04-29"
     },
     {
       "slug": "petite-julie",
