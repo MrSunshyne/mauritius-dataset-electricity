@@ -1,9 +1,19 @@
 {
   "date": "2026-04-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-29T09:38:33.239Z",
-  "outageCount": 4,
+  "generated": "2026-04-29T10:32:54.648Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le mercredi 29 avril 2026 de  13:40:00 à  16:00:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "EAU BONNE,AVENUE VAUDAGNE,SIMONET BAMBOUS",
+      "district": "blackriver",
+      "from": "2026-04-29T09:40:00.000Z",
+      "to": "2026-04-29T12:00:00.000Z",
+      "id": "59d43b2340e46754f4fc6a9e9b266727"
+    },
     {
       "date": "Le mercredi 29 avril 2026 de  08:30:00 à  17:00:00",
       "locality": "BELLE MARE",
