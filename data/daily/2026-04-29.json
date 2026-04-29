@@ -1,8 +1,8 @@
 {
   "date": "2026-04-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-29T10:32:54.648Z",
-  "outageCount": 5,
+  "generated": "2026-04-29T11:28:41.936Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le mercredi 29 avril 2026 de  13:40:00 à  16:00:00",
@@ -25,6 +25,16 @@
       "id": "d3d830e0f8ca89dc2f995c8463aac3b1"
     },
     {
+      "date": "Le mercredi 29 avril 2026 de  15:00:00 à  18:00:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "LA LAURA BEL AIR",
+      "district": "flacq",
+      "from": "2026-04-29T11:00:00.000Z",
+      "to": "2026-04-29T14:00:00.000Z",
+      "id": "00754989ac68036b9c8584a40cfa26b5"
+    },
+    {
       "date": "Le mercredi 29 avril 2026 de  13:00:00 à  15:30:00",
       "locality": "PLAINE MAGNIEN",
       "localitySlug": "plaine-magnien",
@@ -43,6 +53,16 @@
       "from": "2026-04-29T06:00:00.000Z",
       "to": "2026-04-29T11:00:00.000Z",
       "id": "1ff47e2211bc2eb9becc4d710f4aa511"
+    },
+    {
+      "date": "Le mercredi 29 avril 2026 de  15:00:00 à  16:30:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "9EME MILLE DANS LES ENVIRONS HASSEN TAHER.",
+      "district": "pamplemousses",
+      "from": "2026-04-29T11:00:00.000Z",
+      "to": "2026-04-29T12:30:00.000Z",
+      "id": "fcdc7d60ced46875578fa35298ddd18e"
     },
     {
       "date": "Le mercredi 29 avril 2026 de  09:30:00 à  16:00:00",

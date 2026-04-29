@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-04-29T10:32:54.992Z",
-  "outageCount": 135,
+  "generated": "2026-04-29T11:28:42.280Z",
+  "outageCount": 136,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-04-28",
+  "lastOutage": "2026-04-29",
   "outages": [
+    {
+      "date": "Le mercredi 29 avril 2026 de  15:00:00 à  16:30:00",
+      "streets": "9EME MILLE DANS LES ENVIRONS HASSEN TAHER.",
+      "from": "2026-04-29T11:00:00.000Z",
+      "to": "2026-04-29T12:30:00.000Z",
+      "id": "fcdc7d60ced46875578fa35298ddd18e"
+    },
     {
       "date": "Le mardi 28 avril 2026 de  15:10:00 à  16:30:00",
       "streets": "MAHESWAR NAGRI RD, ROYAL ROAD",

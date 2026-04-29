@@ -2,11 +2,18 @@
   "slug": "bel-air",
   "name": "BEL AIR",
   "district": "flacq",
-  "generated": "2026-04-29T10:32:54.693Z",
-  "outageCount": 61,
+  "generated": "2026-04-29T11:28:41.982Z",
+  "outageCount": 62,
   "firstOutage": "2022-06-04",
-  "lastOutage": "2026-02-19",
+  "lastOutage": "2026-04-29",
   "outages": [
+    {
+      "date": "Le mercredi 29 avril 2026 de  15:00:00 à  18:00:00",
+      "streets": "LA LAURA BEL AIR",
+      "from": "2026-04-29T11:00:00.000Z",
+      "to": "2026-04-29T14:00:00.000Z",
+      "id": "00754989ac68036b9c8584a40cfa26b5"
+    },
     {
       "date": "Le jeudi 19 février 2026 de  16:00:00 à  17:30:00",
       "streets": "BEL Air,dans le perimetre de Route Royale pres de LEglise St Esprit, Camp La Serpe, Ave Joseph Victoire, Chemin Boulanger et Winners.Petit Chemin",
