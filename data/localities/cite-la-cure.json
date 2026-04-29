@@ -2,11 +2,18 @@
   "slug": "cite-la-cure",
   "name": "CITE LA CURE",
   "district": "portlouis",
-  "generated": "2026-04-29T16:29:17.523Z",
-  "outageCount": 30,
+  "generated": "2026-04-29T17:28:33.504Z",
+  "outageCount": 31,
   "firstOutage": "2022-09-03",
-  "lastOutage": "2026-04-09",
+  "lastOutage": "2026-04-29",
   "outages": [
+    {
+      "date": "Le mercredi 29 avril 2026 de  20:00:00 à  00:00:00",
+      "streets": "NHDC CITE LA CURE ET LES ALENTOURS.",
+      "from": "2026-04-29T16:00:00.000Z",
+      "to": "2026-04-28T20:00:00.000Z",
+      "id": "6234d59895b04e5af207a2e478344e55"
+    },
     {
       "date": "Le jeudi 9 avril 2026 de  11:00:00 à  15:00:00",
       "streets": "ROBERT SCOTT CITE LA CURE",

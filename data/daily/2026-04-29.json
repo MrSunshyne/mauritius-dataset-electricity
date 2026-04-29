@@ -1,8 +1,8 @@
 {
   "date": "2026-04-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-29T16:29:17.423Z",
-  "outageCount": 8,
+  "generated": "2026-04-29T17:28:33.397Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le mercredi 29 avril 2026 de  13:40:00 à  16:00:00",
@@ -83,6 +83,16 @@
       "from": "2026-04-29T05:30:00.000Z",
       "to": "2026-04-29T12:00:00.000Z",
       "id": "841362128247d320d37e78d4612976b2"
+    },
+    {
+      "date": "Le mercredi 29 avril 2026 de  20:00:00 à  00:00:00",
+      "locality": "CITE LA CURE",
+      "localitySlug": "cite-la-cure",
+      "streets": "NHDC CITE LA CURE ET LES ALENTOURS.",
+      "district": "portlouis",
+      "from": "2026-04-29T16:00:00.000Z",
+      "to": "2026-04-28T20:00:00.000Z",
+      "id": "6234d59895b04e5af207a2e478344e55"
     }
   ]
 }
