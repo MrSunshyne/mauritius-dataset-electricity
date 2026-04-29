@@ -2,11 +2,18 @@
   "slug": "plaine-magnien",
   "name": "PLAINE MAGNIEN",
   "district": "grandport",
-  "generated": "2026-04-29T08:41:16.298Z",
-  "outageCount": 60,
+  "generated": "2026-04-29T09:38:33.500Z",
+  "outageCount": 61,
   "firstOutage": "2022-06-08",
-  "lastOutage": "2026-04-24",
+  "lastOutage": "2026-04-29",
   "outages": [
+    {
+      "date": "Le mercredi 29 avril 2026 de  13:00:00 à  15:30:00",
+      "streets": "BOIS DOISEAUX LANEPLAINE MAGNIEN",
+      "from": "2026-04-29T09:00:00.000Z",
+      "to": "2026-04-29T11:30:00.000Z",
+      "id": "c40e1ed8fc15f395215d644b76ca6a1f"
+    },
     {
       "date": "Le vendredi 24 avril 2026 de  08:45:00 à  11:00:00",
       "streets": "Mamoo,Allee Jacques",

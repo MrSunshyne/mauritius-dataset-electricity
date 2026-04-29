@@ -1,8 +1,8 @@
 {
   "date": "2026-04-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-29T08:41:16.027Z",
-  "outageCount": 3,
+  "generated": "2026-04-29T09:38:33.239Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le mercredi 29 avril 2026 de  08:30:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-04-29T04:30:00.000Z",
       "to": "2026-04-29T13:00:00.000Z",
       "id": "d3d830e0f8ca89dc2f995c8463aac3b1"
+    },
+    {
+      "date": "Le mercredi 29 avril 2026 de  13:00:00 à  15:30:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "BOIS DOISEAUX LANEPLAINE MAGNIEN",
+      "district": "grandport",
+      "from": "2026-04-29T09:00:00.000Z",
+      "to": "2026-04-29T11:30:00.000Z",
+      "id": "c40e1ed8fc15f395215d644b76ca6a1f"
     },
     {
       "date": "Le mercredi 29 avril 2026 de  10:00:00 à  15:00:00",
