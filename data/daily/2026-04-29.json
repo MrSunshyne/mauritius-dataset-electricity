@@ -1,8 +1,8 @@
 {
   "date": "2026-04-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-29T13:30:40.508Z",
-  "outageCount": 7,
+  "generated": "2026-04-29T14:40:57.262Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le mercredi 29 avril 2026 de  13:40:00 à  16:00:00",
@@ -63,6 +63,16 @@
       "from": "2026-04-29T11:00:00.000Z",
       "to": "2026-04-29T12:30:00.000Z",
       "id": "fcdc7d60ced46875578fa35298ddd18e"
+    },
+    {
+      "date": "Le mercredi 29 avril 2026 de  17:30:00 à  21:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "SOLFERINO NO 1 DANS LES ENVIRONS ISHVIN SNACK ET LES ALENTOURS.",
+      "district": "plainewilhems",
+      "from": "2026-04-29T13:30:00.000Z",
+      "to": "2026-04-29T17:00:00.000Z",
+      "id": "29ecc001cf0506ee942ca191deb9a065"
     },
     {
       "date": "Le mercredi 29 avril 2026 de  09:30:00 à  16:00:00",
