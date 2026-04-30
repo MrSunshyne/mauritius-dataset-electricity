@@ -1,18 +1,28 @@
 {
   "date": "2026-04-30",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-30T11:28:39.430Z",
-  "outageCount": 3,
+  "generated": "2026-04-30T12:25:08.985Z",
+  "outageCount": 4,
   "outages": [
     {
-      "date": "Le jeudi 30 avril 2026 de  11:20:00 à  15:30:00",
+      "date": "Le jeudi 30 avril 2026 de  11:20:00 à  16:50:00",
       "locality": "PHOENIX",
       "localitySlug": "phoenix",
       "streets": "Tamil Temple,Iqbal,Riverside,Highlands & Royal Roads,PHOENIX",
       "district": "plainewilhems",
       "from": "2026-04-30T07:20:00.000Z",
-      "to": "2026-04-30T11:30:00.000Z",
-      "id": "e98d5d1ba36482e5f6f4fd68c60b714e"
+      "to": "2026-04-30T12:50:00.000Z",
+      "id": "de2e36680c161a0ca753aad970146142"
+    },
+    {
+      "date": "Le jeudi 30 avril 2026 de  16:00:00 à  17:45:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "UNE PARTIE DE MANGALKHAN ET DANS LES ALENTOURS DE ANCIEN USINE SHIBANI",
+      "district": "plainewilhems",
+      "from": "2026-04-30T12:00:00.000Z",
+      "to": "2026-04-30T13:45:00.000Z",
+      "id": "01975bea03c2616f2d0f4936194407cd"
     },
     {
       "date": "Le jeudi 30 avril 2026 de  09:00:00 à  12:30:00",
