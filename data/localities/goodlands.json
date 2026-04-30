@@ -2,11 +2,18 @@
   "slug": "goodlands",
   "name": "GOODLANDS",
   "district": "rivieredurempart",
-  "generated": "2026-04-29T18:25:02.587Z",
-  "outageCount": 131,
+  "generated": "2026-04-30T06:46:25.715Z",
+  "outageCount": 132,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-04-24",
+  "lastOutage": "2026-04-30",
   "outages": [
+    {
+      "date": "Le jeudi 30 avril 2026 de  09:00:00 à  12:30:00",
+      "streets": "BYPASS G LANDS,MORC UNUTH,RESERVOIR RD",
+      "from": "2026-04-30T05:00:00.000Z",
+      "to": "2026-04-30T08:30:00.000Z",
+      "id": "e5a5d16364775109d376c770f52fee2d"
+    },
     {
       "date": "Le vendredi 24 avril 2026 de  21:00:00 à  22:30:00",
       "streets": "DOMAIN DU MOULIN GOODLANDS",

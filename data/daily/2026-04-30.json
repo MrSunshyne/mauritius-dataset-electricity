@@ -1,9 +1,19 @@
 {
   "date": "2026-04-30",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-29T18:25:02.435Z",
-  "outageCount": 1,
+  "generated": "2026-04-30T06:46:25.569Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le jeudi 30 avril 2026 de  09:00:00 à  12:30:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "BYPASS G LANDS,MORC UNUTH,RESERVOIR RD",
+      "district": "rivieredurempart",
+      "from": "2026-04-30T05:00:00.000Z",
+      "to": "2026-04-30T08:30:00.000Z",
+      "id": "e5a5d16364775109d376c770f52fee2d"
+    },
     {
       "date": "Le jeudi 30 avril 2026 de  09:00:00 à  13:00:00",
       "locality": "CHAMOUNY",

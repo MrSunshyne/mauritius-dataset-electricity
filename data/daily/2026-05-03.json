@@ -1,8 +1,8 @@
 {
   "date": "2026-05-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-29T18:25:02.435Z",
-  "outageCount": 4,
+  "generated": "2026-04-30T06:46:25.569Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le dimanche 3 mai 2026 de  08:30:00 à  16:00:00",
@@ -23,6 +23,36 @@
       "from": "2026-05-03T04:30:00.000Z",
       "to": "2026-05-03T12:00:00.000Z",
       "id": "7c831101602c14cdb6d5e594c2b5fba2"
+    },
+    {
+      "date": "Le dimanche 3 mai 2026 de  08:30:00 à  17:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "une partie de Route Bonne Terre, une partie de route Clairfonds 3,  une parti du route Vingta No 1, une partie du route Mahant Kabir, Morcellement Coorperatives, Residences Rittoo, une partie du Route Solferino No 1,",
+      "district": "plainewilhems",
+      "from": "2026-05-03T04:30:00.000Z",
+      "to": "2026-05-03T13:00:00.000Z",
+      "id": "d5197fee659c994cc4aeb86ec213a065"
+    },
+    {
+      "date": "Le dimanche 3 mai 2026 de  13:00:00 à  16:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Route Tranquille, Pave DAmour, une partie de Route Bonne Terre, une partie de route Clairfonds No1 et 3, une parti du route Vingta No 1,2 et 3, Modern Square, une partie du route ligne Berthaud, une partie du Route Club, Route Jackson, une partie du Route Lamberry",
+      "district": "plainewilhems",
+      "from": "2026-05-03T09:00:00.000Z",
+      "to": "2026-05-03T12:30:00.000Z",
+      "id": "a087843589f8ad746c5000f2378a5e0a"
+    },
+    {
+      "date": "Le dimanche 3 mai 2026 de  08:30:00 à  16:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "les périmetres et les rues suivantes ; Mellish Street, Derby Avenue, Derby Lane, Morc Valaydon, Morc Piat, Pydiah Street, une partie de Frederick Bonnefin Street et une partie de La Brasserie",
+      "district": "plainewilhems",
+      "from": "2026-05-03T04:30:00.000Z",
+      "to": "2026-05-03T12:00:00.000Z",
+      "id": "785cba9fec88642c4ef246683334c114"
     },
     {
       "date": "Le dimanche 3 mai 2026 de  08:30:00 à  13:00:00",
