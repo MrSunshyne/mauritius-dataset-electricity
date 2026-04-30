@@ -1,8 +1,8 @@
 {
   "date": "2026-05-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-30T08:41:23.503Z",
-  "outageCount": 7,
+  "generated": "2026-04-30T09:37:54.780Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le dimanche 3 mai 2026 de  08:30:00 à  16:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-05-03T04:30:00.000Z",
       "to": "2026-05-03T12:00:00.000Z",
       "id": "785cba9fec88642c4ef246683334c114"
+    },
+    {
+      "date": "Le dimanche 3 mai 2026 de  09:00:00 à  14:00:00",
+      "locality": "GLEN PARK",
+      "localitySlug": "glen-park",
+      "streets": "Une partie de NHDC Glen Park",
+      "district": "plainewilhems",
+      "from": "2026-05-03T05:00:00.000Z",
+      "to": "2026-05-03T10:00:00.000Z",
+      "id": "551ccf423456b433928e26be45f8903b"
     },
     {
       "date": "Le dimanche 3 mai 2026 de  08:30:00 à  13:00:00",
