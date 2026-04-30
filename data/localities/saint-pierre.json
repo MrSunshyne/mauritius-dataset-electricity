@@ -2,11 +2,25 @@
   "slug": "saint-pierre",
   "name": "SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-04-30T09:37:55.104Z",
-  "outageCount": 68,
+  "generated": "2026-04-30T10:31:37.511Z",
+  "outageCount": 70,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-04-27",
+  "lastOutage": "2026-05-03",
   "outages": [
+    {
+      "date": "Le dimanche 3 mai 2026 de  08:30:00 à  15:30:00",
+      "streets": "Bois Cheri Rd, Roselyn Cottage, Riviere Baptiste, Petit Verger et Le Pouce",
+      "from": "2026-05-03T04:30:00.000Z",
+      "to": "2026-05-03T11:30:00.000Z",
+      "id": "b38fab1c7234c518f116864478822898"
+    },
+    {
+      "date": "Le samedi 2 mai 2026 de  08:30:00 à  15:00:00",
+      "streets": "Tropic Knits (Industrial Zone) & Les Cocottes",
+      "from": "2026-05-02T04:30:00.000Z",
+      "to": "2026-05-02T11:00:00.000Z",
+      "id": "96baa0e33be41da5d7e56461f0d2e2ae"
+    },
     {
       "date": "Le lundi 27 avril 2026 de  15:00:00 à  18:00:00",
       "streets": "Bois Cheri Rd, Riviere Baptiste, Le Pouce, St Pierre Village, Chemin Tafazul et Chantenay Petit Verger",

@@ -1,8 +1,8 @@
 {
   "date": "2026-05-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-30T09:37:54.780Z",
-  "outageCount": 5,
+  "generated": "2026-04-30T10:31:37.215Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le samedi 2 mai 2026 de  08:30:00 à  14:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-05-02T09:00:00.000Z",
       "to": "2026-05-02T10:30:00.000Z",
       "id": "5475a022e38c47a881a75fcd223a30b1"
+    },
+    {
+      "date": "Le samedi 2 mai 2026 de  08:30:00 à  15:00:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "Tropic Knits (Industrial Zone) & Les Cocottes",
+      "district": "moka",
+      "from": "2026-05-02T04:30:00.000Z",
+      "to": "2026-05-02T11:00:00.000Z",
+      "id": "96baa0e33be41da5d7e56461f0d2e2ae"
     },
     {
       "date": "Le samedi 2 mai 2026 de  08:30:00 à  14:30:00",
