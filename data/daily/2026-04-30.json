@@ -1,8 +1,8 @@
 {
   "date": "2026-04-30",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-30T14:38:04.849Z",
-  "outageCount": 4,
+  "generated": "2026-04-30T15:31:20.598Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le jeudi 30 avril 2026 de  11:20:00 à  16:50:00",
@@ -33,6 +33,16 @@
       "from": "2026-04-30T05:00:00.000Z",
       "to": "2026-04-30T08:30:00.000Z",
       "id": "e5a5d16364775109d376c770f52fee2d"
+    },
+    {
+      "date": "Le jeudi 30 avril 2026 de  18:00:00 à  22:00:00",
+      "locality": "BELLE VUE MAUREL",
+      "localitySlug": "belle-vue-maurel",
+      "streets": "EN PARTIE BELLE VUE MAUREL DANS LES ALENTOURS DU MOSQUE",
+      "district": "rivieredurempart",
+      "from": "2026-04-30T14:00:00.000Z",
+      "to": "2026-04-30T18:00:00.000Z",
+      "id": "15b02bfed7f45773631f84ad57f16236"
     },
     {
       "date": "Le jeudi 30 avril 2026 de  09:00:00 à  13:00:00",
