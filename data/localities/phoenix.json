@@ -2,11 +2,18 @@
   "slug": "phoenix",
   "name": "PHOENIX",
   "district": "plainewilhems",
-  "generated": "2026-04-30T07:42:25.531Z",
-  "outageCount": 104,
+  "generated": "2026-04-30T08:41:23.739Z",
+  "outageCount": 105,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-04-18",
+  "lastOutage": "2026-04-30",
   "outages": [
+    {
+      "date": "Le jeudi 30 avril 2026 de  11:20:00 à  15:30:00",
+      "streets": "Tamil Temple,Iqbal,Riverside,Highlands & Royal Roads,PHOENIX",
+      "from": "2026-04-30T07:20:00.000Z",
+      "to": "2026-04-30T11:30:00.000Z",
+      "id": "e98d5d1ba36482e5f6f4fd68c60b714e"
+    },
     {
       "date": "Le samedi 18 avril 2026 de  08:30:00 à  16:00:00",
       "streets": "Birger Technologie Opération Center, Innodis, CWA Phoenix, The Cubicle",

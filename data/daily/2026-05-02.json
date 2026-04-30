@@ -1,8 +1,8 @@
 {
   "date": "2026-05-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-30T07:42:25.277Z",
-  "outageCount": 4,
+  "generated": "2026-04-30T08:41:23.503Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le samedi 2 mai 2026 de  08:30:00 à  14:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-05-02T09:00:00.000Z",
       "to": "2026-05-02T10:30:00.000Z",
       "id": "5475a022e38c47a881a75fcd223a30b1"
+    },
+    {
+      "date": "Le samedi 2 mai 2026 de  08:30:00 à  14:30:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "COROMANDEL CHAPMAN VIEW, ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2026-05-02T04:30:00.000Z",
+      "to": "2026-05-02T10:30:00.000Z",
+      "id": "e3aba1d0bb4d3e9608151a6de1965392"
     },
     {
       "date": "Le samedi 2 mai 2026 de  11:30:00 à  15:30:00",

@@ -1,9 +1,19 @@
 {
   "date": "2026-04-30",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-04-30T07:42:25.277Z",
-  "outageCount": 2,
+  "generated": "2026-04-30T08:41:23.503Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le jeudi 30 avril 2026 de  11:20:00 à  15:30:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Tamil Temple,Iqbal,Riverside,Highlands & Royal Roads,PHOENIX",
+      "district": "plainewilhems",
+      "from": "2026-04-30T07:20:00.000Z",
+      "to": "2026-04-30T11:30:00.000Z",
+      "id": "e98d5d1ba36482e5f6f4fd68c60b714e"
+    },
     {
       "date": "Le jeudi 30 avril 2026 de  09:00:00 à  12:30:00",
       "locality": "GOODLANDS",

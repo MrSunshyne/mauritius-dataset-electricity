@@ -2,11 +2,18 @@
   "slug": "coromandel-rhill",
   "name": "COROMANDEL - R.HILL",
   "district": "plainewilhems",
-  "generated": "2026-04-30T07:42:25.393Z",
-  "outageCount": 83,
+  "generated": "2026-04-30T08:41:23.612Z",
+  "outageCount": 84,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-04-23",
+  "lastOutage": "2026-05-02",
   "outages": [
+    {
+      "date": "Le samedi 2 mai 2026 de  08:30:00 à  14:30:00",
+      "streets": "COROMANDEL CHAPMAN VIEW, ET LES ENVIRONS",
+      "from": "2026-05-02T04:30:00.000Z",
+      "to": "2026-05-02T10:30:00.000Z",
+      "id": "e3aba1d0bb4d3e9608151a6de1965392"
+    },
     {
       "date": "Le jeudi 23 avril 2026 de  08:30:00 à  15:30:00",
       "streets": "CHAPMAN VIEW,AVENUE EMPEREUR,GUPPY,CARDINAL,ET LES ENVIRON",
