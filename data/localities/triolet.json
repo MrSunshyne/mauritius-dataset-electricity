@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-04-30T18:23:58.469Z",
-  "outageCount": 136,
+  "generated": "2026-05-01T06:48:54.303Z",
+  "outageCount": 137,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-04-29",
+  "lastOutage": "2026-05-01",
   "outages": [
+    {
+      "date": "Le vendredi 1 mai 2026 de  09:00:00 à  13:00:00",
+      "streets": "QUEEN ELIZABETH LANE 7EME MILLE TRIOLET",
+      "from": "2026-05-01T05:00:00.000Z",
+      "to": "2026-05-01T09:00:00.000Z",
+      "id": "8c1f7dd622b63cab81e8d3359fca4871"
+    },
     {
       "date": "Le mercredi 29 avril 2026 de  15:00:00 à  16:30:00",
       "streets": "9EME MILLE DANS LES ENVIRONS HASSEN TAHER.",

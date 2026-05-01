@@ -2,11 +2,18 @@
   "slug": "eau-coulee",
   "name": "EAU COULEE",
   "district": "plainewilhems",
-  "generated": "2026-04-30T18:23:58.270Z",
-  "outageCount": 63,
+  "generated": "2026-05-01T06:48:54.085Z",
+  "outageCount": 64,
   "firstOutage": "2022-03-23",
-  "lastOutage": "2026-04-12",
+  "lastOutage": "2026-05-01",
   "outages": [
+    {
+      "date": "Le vendredi 1 mai 2026 de  09:05:00 à  10:30:00",
+      "streets": "LA MAIREE,EAU COULEE",
+      "from": "2026-05-01T05:05:00.000Z",
+      "to": "2026-05-01T06:30:00.000Z",
+      "id": "c4d5c10989b89b860f0416a0f7085a77"
+    },
     {
       "date": "Le dimanche 12 avril 2026 de  08:30:00 à  16:00:00",
       "streets": "habitant dans les périmetres et les rues suivantes ; Charles Regnaud Street, Farquhar Street, Abée Laval, D’Epinay Street, Dove Street, Lapeyrousse, Dorasamy Lane, Sterling, Charles Cheron, Bougainville, Goburdhun Lane, Sooben Lane et Hassenjee Lane",

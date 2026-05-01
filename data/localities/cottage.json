@@ -2,11 +2,18 @@
   "slug": "cottage",
   "name": "COTTAGE",
   "district": "rivieredurempart",
-  "generated": "2026-04-30T18:23:58.261Z",
-  "outageCount": 39,
+  "generated": "2026-05-01T06:48:54.075Z",
+  "outageCount": 40,
   "firstOutage": "2022-04-07",
-  "lastOutage": "2026-04-24",
+  "lastOutage": "2026-05-01",
   "outages": [
+    {
+      "date": "Le vendredi 1 mai 2026 de  10:00:00 à  15:00:00",
+      "streets": "NHDC RESIDENCE LONGUE CHAMP COTTAGE",
+      "from": "2026-05-01T06:00:00.000Z",
+      "to": "2026-05-01T11:00:00.000Z",
+      "id": "565d87b6a914d5e9d09eaa36655007a9"
+    },
     {
       "date": "Le vendredi 24 avril 2026 de  18:00:00 à  23:00:00",
       "streets": "TEMPLE ROAD ET LES ALENTOURS.",

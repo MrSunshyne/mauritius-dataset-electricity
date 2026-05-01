@@ -1,0 +1,38 @@
+{
+  "date": "2026-05-01",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-05-01T06:48:53.943Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le vendredi 1 mai 2026 de  09:00:00 à  13:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "QUEEN ELIZABETH LANE 7EME MILLE TRIOLET",
+      "district": "pamplemousses",
+      "from": "2026-05-01T05:00:00.000Z",
+      "to": "2026-05-01T09:00:00.000Z",
+      "id": "8c1f7dd622b63cab81e8d3359fca4871"
+    },
+    {
+      "date": "Le vendredi 1 mai 2026 de  09:05:00 à  10:30:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": "LA MAIREE,EAU COULEE",
+      "district": "plainewilhems",
+      "from": "2026-05-01T05:05:00.000Z",
+      "to": "2026-05-01T06:30:00.000Z",
+      "id": "c4d5c10989b89b860f0416a0f7085a77"
+    },
+    {
+      "date": "Le vendredi 1 mai 2026 de  10:00:00 à  15:00:00",
+      "locality": "COTTAGE",
+      "localitySlug": "cottage",
+      "streets": "NHDC RESIDENCE LONGUE CHAMP COTTAGE",
+      "district": "rivieredurempart",
+      "from": "2026-05-01T06:00:00.000Z",
+      "to": "2026-05-01T11:00:00.000Z",
+      "id": "565d87b6a914d5e9d09eaa36655007a9"
+    }
+  ]
+}
