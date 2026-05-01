@@ -1,9 +1,29 @@
 {
   "date": "2026-05-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-01T08:34:48.823Z",
-  "outageCount": 4,
+  "generated": "2026-05-01T09:30:07.675Z",
+  "outageCount": 6,
   "outages": [
+    {
+      "date": "Le vendredi 1 mai 2026 de  12:30:00 à  16:00:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "VILLAGE TAMARIN",
+      "district": "blackriver",
+      "from": "2026-05-01T08:30:00.000Z",
+      "to": "2026-05-01T12:00:00.000Z",
+      "id": "cb07499f8f9966c9eb1ac0813a0f61b4"
+    },
+    {
+      "date": "Le vendredi 1 mai 2026 de  13:15:00 à  16:00:00",
+      "locality": "BRISEE VERDIERE",
+      "localitySlug": "brisee-verdiere",
+      "streets": "BELVEDERE ROAD BRISSEE VERDIERE",
+      "district": "flacq",
+      "from": "2026-05-01T09:15:00.000Z",
+      "to": "2026-05-01T12:00:00.000Z",
+      "id": "f7418330caf714ae9481048c88a67738"
+    },
     {
       "date": "Le vendredi 1 mai 2026 de  11:30:00 à  15:00:00",
       "locality": "PLAINE MAGNIEN",

@@ -2,11 +2,18 @@
   "slug": "brisee-verdiere",
   "name": "BRISEE VERDIERE",
   "district": "flacq",
-  "generated": "2026-05-01T08:34:48.888Z",
-  "outageCount": 13,
+  "generated": "2026-05-01T09:30:07.744Z",
+  "outageCount": 14,
   "firstOutage": "2022-07-27",
-  "lastOutage": "2025-10-02",
+  "lastOutage": "2026-05-01",
   "outages": [
+    {
+      "date": "Le vendredi 1 mai 2026 de  13:15:00 à  16:00:00",
+      "streets": "BELVEDERE ROAD BRISSEE VERDIERE",
+      "from": "2026-05-01T09:15:00.000Z",
+      "to": "2026-05-01T12:00:00.000Z",
+      "id": "f7418330caf714ae9481048c88a67738"
+    },
     {
       "date": "Le jeudi 2 octobre 2025 de  09:00:00 à  14:00:00",
       "streets": "Dans les environs du station de Police de Brisee Verdiere et dans les alentours.",
