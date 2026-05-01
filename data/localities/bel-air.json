@@ -2,11 +2,18 @@
   "slug": "bel-air",
   "name": "BEL AIR",
   "district": "flacq",
-  "generated": "2026-05-01T12:14:18.839Z",
-  "outageCount": 62,
+  "generated": "2026-05-01T13:27:54.713Z",
+  "outageCount": 63,
   "firstOutage": "2022-06-04",
-  "lastOutage": "2026-04-29",
+  "lastOutage": "2026-05-01",
   "outages": [
+    {
+      "date": "Le vendredi 1 mai 2026 de  16:30:00 à  20:30:00",
+      "streets": "MORC ST MICHEL DANS LES ENVIRONS SHIVALA/JARDIN D-ENFANTS.",
+      "from": "2026-05-01T12:30:00.000Z",
+      "to": "2026-05-01T16:30:00.000Z",
+      "id": "6af115cc74861fc236208cadbd2c3f21"
+    },
     {
       "date": "Le mercredi 29 avril 2026 de  15:00:00 à  18:00:00",
       "streets": "LA LAURA BEL AIR",

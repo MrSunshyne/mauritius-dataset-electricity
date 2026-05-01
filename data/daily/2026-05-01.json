@@ -1,8 +1,8 @@
 {
   "date": "2026-05-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-01T12:14:18.793Z",
-  "outageCount": 6,
+  "generated": "2026-05-01T13:27:54.679Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le vendredi 1 mai 2026 de  12:30:00 à  16:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-05-01T09:15:00.000Z",
       "to": "2026-05-01T12:00:00.000Z",
       "id": "f7418330caf714ae9481048c88a67738"
+    },
+    {
+      "date": "Le vendredi 1 mai 2026 de  16:30:00 à  20:30:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "MORC ST MICHEL DANS LES ENVIRONS SHIVALA/JARDIN D-ENFANTS.",
+      "district": "flacq",
+      "from": "2026-05-01T12:30:00.000Z",
+      "to": "2026-05-01T16:30:00.000Z",
+      "id": "6af115cc74861fc236208cadbd2c3f21"
     },
     {
       "date": "Le vendredi 1 mai 2026 de  11:30:00 à  18:00:00",
