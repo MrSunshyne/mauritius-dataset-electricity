@@ -2,11 +2,18 @@
   "slug": "plaine-magnien",
   "name": "PLAINE MAGNIEN",
   "district": "grandport",
-  "generated": "2026-05-01T07:42:29.717Z",
-  "outageCount": 61,
+  "generated": "2026-05-01T08:34:49.077Z",
+  "outageCount": 62,
   "firstOutage": "2022-06-08",
-  "lastOutage": "2026-04-29",
+  "lastOutage": "2026-05-01",
   "outages": [
+    {
+      "date": "Le vendredi 1 mai 2026 de  11:30:00 à  15:00:00",
+      "streets": "EX LE CHALAND RD PLAINE MAGNIEN",
+      "from": "2026-05-01T07:30:00.000Z",
+      "to": "2026-05-01T11:00:00.000Z",
+      "id": "97dd6700ffb21e2fec59b337be1f815d"
+    },
     {
       "date": "Le mercredi 29 avril 2026 de  13:00:00 à  15:30:00",
       "streets": "BOIS DOISEAUX LANEPLAINE MAGNIEN",

@@ -1,9 +1,19 @@
 {
   "date": "2026-05-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-01T07:42:29.480Z",
-  "outageCount": 3,
+  "generated": "2026-05-01T08:34:48.823Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le vendredi 1 mai 2026 de  11:30:00 à  15:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "EX LE CHALAND RD PLAINE MAGNIEN",
+      "district": "grandport",
+      "from": "2026-05-01T07:30:00.000Z",
+      "to": "2026-05-01T11:00:00.000Z",
+      "id": "97dd6700ffb21e2fec59b337be1f815d"
+    },
     {
       "date": "Le vendredi 1 mai 2026 de  09:00:00 à  13:00:00",
       "locality": "TRIOLET",
