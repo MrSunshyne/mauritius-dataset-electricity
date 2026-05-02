@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-05-01T18:17:45.208Z",
-  "outageCount": 374,
+  "generated": "2026-05-02T06:33:49.160Z",
+  "outageCount": 375,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-04-27",
+  "lastOutage": "2026-05-02",
   "outages": [
+    {
+      "date": "Le samedi 2 mai 2026 de  08:30:00 à  13:30:00",
+      "streets": "AVENUE BERTHAUD/DANSANT/RAJCOOMAR/ANTHELME/OLLIER.",
+      "from": "2026-05-02T04:30:00.000Z",
+      "to": "2026-05-02T09:30:00.000Z",
+      "id": "d5820ead70bd25d1672c99ab9eb1822e"
+    },
     {
       "date": "Le lundi 27 avril 2026 de  10:00:00 à  14:00:00",
       "streets": "RUE COSSIGNY/WELLINGTON",

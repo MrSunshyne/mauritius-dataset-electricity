@@ -2,11 +2,18 @@
   "slug": "souillac",
   "name": "SOUILLAC",
   "district": "savanne",
-  "generated": "2026-05-01T18:17:45.260Z",
-  "outageCount": 71,
+  "generated": "2026-05-02T06:33:49.197Z",
+  "outageCount": 72,
   "firstOutage": "2022-06-05",
-  "lastOutage": "2026-04-26",
+  "lastOutage": "2026-05-02",
   "outages": [
+    {
+      "date": "Le samedi 2 mai 2026 de  08:00:00 à  13:30:00",
+      "streets": "BRISE DER MER MORC SANS FLEURI/TERRACINE",
+      "from": "2026-05-02T04:00:00.000Z",
+      "to": "2026-05-02T09:30:00.000Z",
+      "id": "62feb9ad7cc3492fd17c967d8298af75"
+    },
     {
       "date": "Le dimanche 26 avril 2026 de  08:30:00 à  16:00:00",
       "streets": "NHDC Terracine Souillac",
