@@ -1,8 +1,8 @@
 {
   "date": "2026-05-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-02T07:29:29.325Z",
-  "outageCount": 8,
+  "generated": "2026-05-02T08:26:45.615Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le samedi 2 mai 2026 de  08:30:00 à  14:00:00",
@@ -73,6 +73,16 @@
       "from": "2026-05-02T04:30:00.000Z",
       "to": "2026-05-02T07:00:00.000Z",
       "id": "761b8e43df33edf3eac7988c6e859fb7"
+    },
+    {
+      "date": "Le samedi 2 mai 2026 de  12:20:00 à  15:20:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "DEERPAUL ROAD, TELEGU TEMPLE ROAD & SURROUNDINGS, NEAR FRIENDSHIP COLLEGE",
+      "district": "rivieredurempart",
+      "from": "2026-05-02T08:20:00.000Z",
+      "to": "2026-05-02T11:20:00.000Z",
+      "id": "0ce99b608a8949e5e047c41b53c76c7c"
     },
     {
       "date": "Le samedi 2 mai 2026 de  08:00:00 à  13:30:00",

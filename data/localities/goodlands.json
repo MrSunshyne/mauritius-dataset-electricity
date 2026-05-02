@@ -2,11 +2,18 @@
   "slug": "goodlands",
   "name": "GOODLANDS",
   "district": "rivieredurempart",
-  "generated": "2026-05-02T07:29:29.470Z",
-  "outageCount": 132,
+  "generated": "2026-05-02T08:26:45.765Z",
+  "outageCount": 133,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-04-30",
+  "lastOutage": "2026-05-02",
   "outages": [
+    {
+      "date": "Le samedi 2 mai 2026 de  12:20:00 à  15:20:00",
+      "streets": "DEERPAUL ROAD, TELEGU TEMPLE ROAD & SURROUNDINGS, NEAR FRIENDSHIP COLLEGE",
+      "from": "2026-05-02T08:20:00.000Z",
+      "to": "2026-05-02T11:20:00.000Z",
+      "id": "0ce99b608a8949e5e047c41b53c76c7c"
+    },
     {
       "date": "Le jeudi 30 avril 2026 de  09:00:00 à  12:30:00",
       "streets": "BYPASS G LANDS,MORC UNUTH,RESERVOIR RD",
