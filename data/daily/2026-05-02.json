@@ -1,8 +1,8 @@
 {
   "date": "2026-05-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-02T17:13:50.282Z",
-  "outageCount": 10,
+  "generated": "2026-05-02T18:13:05.422Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le samedi 2 mai 2026 de  08:30:00 à  14:00:00",
@@ -93,6 +93,16 @@
       "from": "2026-05-02T08:20:00.000Z",
       "to": "2026-05-02T11:20:00.000Z",
       "id": "0ce99b608a8949e5e047c41b53c76c7c"
+    },
+    {
+      "date": "Le samedi 2 mai 2026 de  21:00:00 à  00:00:00",
+      "locality": "ROCHES NOIRES",
+      "localitySlug": "roches-noires",
+      "streets": "COASTAL ROAD ET LES ALENTOURS.",
+      "district": "rivieredurempart",
+      "from": "2026-05-02T17:00:00.000Z",
+      "to": "2026-05-01T20:00:00.000Z",
+      "id": "1f14be6060c20d3309a43d575d34bbf1"
     },
     {
       "date": "Le samedi 2 mai 2026 de  08:00:00 à  13:30:00",

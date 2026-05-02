@@ -2,11 +2,18 @@
   "slug": "roches-noires",
   "name": "ROCHES NOIRES",
   "district": "rivieredurempart",
-  "generated": "2026-05-02T17:13:50.568Z",
-  "outageCount": 34,
+  "generated": "2026-05-02T18:13:05.709Z",
+  "outageCount": 35,
   "firstOutage": "2022-06-03",
-  "lastOutage": "2026-04-03",
+  "lastOutage": "2026-05-02",
   "outages": [
+    {
+      "date": "Le samedi 2 mai 2026 de  21:00:00 à  00:00:00",
+      "streets": "COASTAL ROAD ET LES ALENTOURS.",
+      "from": "2026-05-02T17:00:00.000Z",
+      "to": "2026-05-01T20:00:00.000Z",
+      "id": "1f14be6060c20d3309a43d575d34bbf1"
+    },
     {
       "date": "Le vendredi 3 avril 2026 de  18:20:00 à  23:00:00",
       "streets": "NEW ROAD AND SURROUNDINGS",
