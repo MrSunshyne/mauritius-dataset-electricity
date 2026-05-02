@@ -2,11 +2,18 @@
   "slug": "grande-riviere-sud-est",
   "name": "GRANDE RIVIERE SUD EST",
   "district": "flacq",
-  "generated": "2026-05-02T15:12:49.631Z",
-  "outageCount": 11,
+  "generated": "2026-05-02T16:12:41.289Z",
+  "outageCount": 12,
   "firstOutage": "2022-09-30",
-  "lastOutage": "2026-04-25",
+  "lastOutage": "2026-05-02",
   "outages": [
+    {
+      "date": "Le samedi 2 mai 2026 de  18:30:00 à  22:00:00",
+      "streets": "BEAU CHAMPS,JUGUN RD,BALANCE RD,CAMP DES PECHEURS,ROYAL RD,PAILLE EN QUEUE",
+      "from": "2026-05-02T14:30:00.000Z",
+      "to": "2026-05-02T18:00:00.000Z",
+      "id": "f79dc9a093c071f420e8acb416e8010f"
+    },
     {
       "date": "Le samedi 25 avril 2026 de  13:15:00 à  21:00:00",
       "streets": "DANS LES ENVIRONS LAGOONA HOTEL, EN PARTIE MORC VRS ET EN PARTIE CAMP PECHEURS.",

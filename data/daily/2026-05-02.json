@@ -1,8 +1,8 @@
 {
   "date": "2026-05-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-02T15:12:49.473Z",
-  "outageCount": 9,
+  "generated": "2026-05-02T16:12:41.133Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le samedi 2 mai 2026 de  08:30:00 à  14:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-05-02T09:00:00.000Z",
       "to": "2026-05-02T10:30:00.000Z",
       "id": "5475a022e38c47a881a75fcd223a30b1"
+    },
+    {
+      "date": "Le samedi 2 mai 2026 de  18:30:00 à  22:00:00",
+      "locality": "GRANDE RIVIERE SUD EST",
+      "localitySlug": "grande-riviere-sud-est",
+      "streets": "BEAU CHAMPS,JUGUN RD,BALANCE RD,CAMP DES PECHEURS,ROYAL RD,PAILLE EN QUEUE",
+      "district": "flacq",
+      "from": "2026-05-02T14:30:00.000Z",
+      "to": "2026-05-02T18:00:00.000Z",
+      "id": "f79dc9a093c071f420e8acb416e8010f"
     },
     {
       "date": "Le samedi 2 mai 2026 de  08:30:00 à  15:00:00",
