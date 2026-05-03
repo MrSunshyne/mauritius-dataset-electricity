@@ -2,11 +2,18 @@
   "slug": "palmar",
   "name": "PALMAR",
   "district": "flacq",
-  "generated": "2026-05-03T06:45:32.179Z",
-  "outageCount": 16,
+  "generated": "2026-05-03T07:33:31.008Z",
+  "outageCount": 17,
   "firstOutage": "2022-10-21",
-  "lastOutage": "2026-02-23",
+  "lastOutage": "2026-05-03",
   "outages": [
+    {
+      "date": "Le dimanche 3 mai 2026 de  11:00:00 à  13:30:00",
+      "streets": "PALMAR,CAMP ITHIER/QUATRE COCO/CAMP MARCELIN/ISIDOROSE/EN PARTIE BELLEMARE",
+      "from": "2026-05-03T07:00:00.000Z",
+      "to": "2026-05-03T09:30:00.000Z",
+      "id": "a48c79b182c88cab4acacb7ec17aa486"
+    },
     {
       "date": "Le lundi 23 février 2026 de  09:00:00 à  10:40:00",
       "streets": "Coastal Road Palmar",
