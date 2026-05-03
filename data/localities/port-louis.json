@@ -2,11 +2,18 @@
   "slug": "port-louis",
   "name": "PORT-LOUIS",
   "district": "portlouis",
-  "generated": "2026-05-03T10:18:13.905Z",
-  "outageCount": 121,
+  "generated": "2026-05-03T11:12:49.129Z",
+  "outageCount": 122,
   "firstOutage": "2022-03-21",
   "lastOutage": "2026-05-03",
   "outages": [
+    {
+      "date": "Le dimanche 3 mai 2026 de  15:00:00 à  18:00:00",
+      "streets": "VOLCY POUGNET STREET, LA RUE MADAME, NEAR JEETOO HOSPITAL",
+      "from": "2026-05-03T11:00:00.000Z",
+      "to": "2026-05-03T14:00:00.000Z",
+      "id": "19ab7518a3fff15789e000613cb03155"
+    },
     {
       "date": "Le dimanche 3 mai 2026 de  08:30:00 à  13:00:00",
       "streets": "Dans les environs des rues Mere Barthelemy, Dártois, Volcy Pougnet et Bolton",
