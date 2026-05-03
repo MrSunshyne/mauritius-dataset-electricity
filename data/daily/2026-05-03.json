@@ -1,8 +1,8 @@
 {
   "date": "2026-05-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-03T12:11:21.806Z",
-  "outageCount": 12,
+  "generated": "2026-05-03T13:27:31.612Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le dimanche 3 mai 2026 de  08:30:00 à  16:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-05-03T07:00:00.000Z",
       "to": "2026-05-03T12:30:00.000Z",
       "id": "06e8123b073999e1b2204224a40a3053"
+    },
+    {
+      "date": "Le dimanche 3 mai 2026 de  16:00:00 à  18:30:00",
+      "locality": "OLIVIA",
+      "localitySlug": "olivia",
+      "streets": "Ernest Florent, Trois Ilots, Olivia, Kewal Nagar, Clavet, Etoile, Belle Rose, Pont Lardier, Clemencia, La Nourice",
+      "district": "flacq",
+      "from": "2026-05-03T12:00:00.000Z",
+      "to": "2026-05-03T14:30:00.000Z",
+      "id": "fea8e4c7fe12f50987c804d26e648fcd"
     },
     {
       "date": "Le dimanche 3 mai 2026 de  08:30:00 à  15:30:00",
