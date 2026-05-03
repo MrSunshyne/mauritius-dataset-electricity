@@ -2,11 +2,18 @@
   "slug": "plaine-des-roches",
   "name": "PLAINE DES ROCHES",
   "district": "rivieredurempart",
-  "generated": "2026-05-03T14:16:35.602Z",
-  "outageCount": 35,
+  "generated": "2026-05-03T15:13:00.632Z",
+  "outageCount": 36,
   "firstOutage": "2022-04-24",
-  "lastOutage": "2026-04-26",
+  "lastOutage": "2026-05-03",
   "outages": [
+    {
+      "date": "Le dimanche 3 mai 2026 de  18:50:00 à  20:50:00",
+      "streets": "SENECK,MOSQUE AND SURROUNDING",
+      "from": "2026-05-03T14:50:00.000Z",
+      "to": "2026-05-03T16:50:00.000Z",
+      "id": "664a3add1533dd42b4afb9c3ea0bac17"
+    },
     {
       "date": "Le dimanche 26 avril 2026 de  08:30:00 à  15:00:00",
       "streets": "PLAINE DES ROCHES, ROYAL ROAD, SENER ROAD, VILLAGE HALL ROAD, JOOMUN ROAD, SOCIAL WELFARE ROAD, KALIMAYE ROAD",
