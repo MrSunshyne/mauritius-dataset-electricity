@@ -2,11 +2,18 @@
   "slug": "sodnac",
   "name": "SODNAC",
   "district": "plainewilhems",
-  "generated": "2026-05-04T06:54:33.934Z",
-  "outageCount": 45,
+  "generated": "2026-05-04T07:54:08.105Z",
+  "outageCount": 46,
   "firstOutage": "2022-05-30",
-  "lastOutage": "2026-04-28",
+  "lastOutage": "2026-05-04",
   "outages": [
+    {
+      "date": "Le lundi 4 mai 2026 de  11:25:00 à  15:00:00",
+      "streets": "HILLCREST SODNAC, AVE CARDINAL ET LES ALENTOURS",
+      "from": "2026-05-04T07:25:00.000Z",
+      "to": "2026-05-04T11:00:00.000Z",
+      "id": "57931135b03c9ff52d8a794500e543e1"
+    },
     {
       "date": "Le mardi 28 avril 2026 de  16:00:00 à  19:00:00",
       "streets": "AVENUE IBIS SODNAC",
