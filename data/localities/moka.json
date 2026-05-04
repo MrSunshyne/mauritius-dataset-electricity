@@ -2,11 +2,18 @@
   "slug": "moka",
   "name": "MOKA",
   "district": "moka",
-  "generated": "2026-05-04T14:40:41.844Z",
-  "outageCount": 66,
+  "generated": "2026-05-04T15:33:52.785Z",
+  "outageCount": 67,
   "firstOutage": "2022-06-13",
   "lastOutage": "2026-05-04",
   "outages": [
+    {
+      "date": "Le lundi 4 mai 2026 de  19:00:00 à  00:00:00",
+      "streets": "CAMP SAMI, BOIS CHERIE ROAD AND SURROUNDINGS",
+      "from": "2026-05-04T15:00:00.000Z",
+      "to": "2026-05-03T20:00:00.000Z",
+      "id": "02dadc03f808d4d755b3702df54aa1c7"
+    },
     {
       "date": "Le lundi 4 mai 2026 de  18:00:00 à  20:00:00",
       "streets": "Soreze, Moka, St Pierre, Lavenir, Verdun, N Decouvert, Malenga, La Laura, Cote Dor Partly",
