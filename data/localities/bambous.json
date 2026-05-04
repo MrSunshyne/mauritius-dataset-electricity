@@ -2,8 +2,8 @@
   "slug": "bambous",
   "name": "BAMBOUS",
   "district": "blackriver",
-  "generated": "2026-05-04T11:31:02.681Z",
-  "outageCount": 120,
+  "generated": "2026-05-04T12:26:17.350Z",
+  "outageCount": 121,
   "firstOutage": "2022-04-12",
   "lastOutage": "2026-05-06",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-05-06T04:30:00.000Z",
       "to": "2026-05-06T11:30:00.000Z",
       "id": "ffe0ed40603766e226a5caa625d449e4"
+    },
+    {
+      "date": "Le lundi 4 mai 2026 de  14:00:00 à  19:00:00",
+      "streets": "AVENUE DES SOURCES, AVENUE ST SAUVEUR, AVENUE CENTRAL ET LES ENVIRONS.",
+      "from": "2026-05-04T10:00:00.000Z",
+      "to": "2026-05-04T15:00:00.000Z",
+      "id": "503aad9e612dee69eaa608492a5a042b"
     },
     {
       "date": "Le dimanche 3 mai 2026 de  08:30:00 à  16:00:00",

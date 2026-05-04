@@ -1,9 +1,19 @@
 {
   "date": "2026-05-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-04T11:31:02.650Z",
-  "outageCount": 3,
+  "generated": "2026-05-04T12:26:17.315Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le lundi 4 mai 2026 de  14:00:00 à  19:00:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "AVENUE DES SOURCES, AVENUE ST SAUVEUR, AVENUE CENTRAL ET LES ENVIRONS.",
+      "district": "blackriver",
+      "from": "2026-05-04T10:00:00.000Z",
+      "to": "2026-05-04T15:00:00.000Z",
+      "id": "503aad9e612dee69eaa608492a5a042b"
+    },
     {
       "date": "Le lundi 4 mai 2026 de  14:20:00 à  16:45:00",
       "locality": "ARSENAL",
@@ -33,6 +43,16 @@
       "from": "2026-05-04T11:30:00.000Z",
       "to": "2026-05-04T12:30:00.000Z",
       "id": "d024a54eb842aa32f177c926896fdaa0"
+    },
+    {
+      "date": "Le lundi 4 mai 2026 de  15:45:00 à  17:00:00",
+      "locality": "CHEMIN GRENIER",
+      "localitySlug": "chemin-grenier",
+      "streets": "AVE WILLIAM LORKER & SURROUNDINGS",
+      "district": "savanne",
+      "from": "2026-05-04T11:45:00.000Z",
+      "to": "2026-05-04T13:00:00.000Z",
+      "id": "d76503c600ddfd4e522d1abd9ffa5b8f"
     }
   ]
 }

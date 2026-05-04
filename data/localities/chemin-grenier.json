@@ -2,11 +2,18 @@
   "slug": "chemin-grenier",
   "name": "CHEMIN GRENIER",
   "district": "savanne",
-  "generated": "2026-05-04T11:31:02.752Z",
-  "outageCount": 56,
+  "generated": "2026-05-04T12:26:17.420Z",
+  "outageCount": 57,
   "firstOutage": "2022-05-22",
-  "lastOutage": "2026-03-27",
+  "lastOutage": "2026-05-04",
   "outages": [
+    {
+      "date": "Le lundi 4 mai 2026 de  15:45:00 à  17:00:00",
+      "streets": "AVE WILLIAM LORKER & SURROUNDINGS",
+      "from": "2026-05-04T11:45:00.000Z",
+      "to": "2026-05-04T13:00:00.000Z",
+      "id": "d76503c600ddfd4e522d1abd9ffa5b8f"
+    },
     {
       "date": "Le vendredi 27 mars 2026 de  21:00:00 à  23:00:00",
       "streets": "CHEMIN GRENIER",
