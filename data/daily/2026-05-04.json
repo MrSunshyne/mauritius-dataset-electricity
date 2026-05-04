@@ -1,8 +1,8 @@
 {
   "date": "2026-05-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-04T10:36:23.283Z",
-  "outageCount": 2,
+  "generated": "2026-05-04T11:31:02.650Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le lundi 4 mai 2026 de  14:20:00 à  16:45:00",
@@ -23,6 +23,16 @@
       "from": "2026-05-04T07:25:00.000Z",
       "to": "2026-05-04T11:00:00.000Z",
       "id": "57931135b03c9ff52d8a794500e543e1"
+    },
+    {
+      "date": "Le lundi 4 mai 2026 de  15:30:00 à  16:30:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "RUE LEES : BUREAU BRINKS, MAURITIUS HOUSING ET MEDICAL HEARING CENTRE.",
+      "district": "plainewilhems",
+      "from": "2026-05-04T11:30:00.000Z",
+      "to": "2026-05-04T12:30:00.000Z",
+      "id": "d024a54eb842aa32f177c926896fdaa0"
     }
   ]
 }

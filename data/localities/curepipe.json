@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-05-04T10:36:23.403Z",
-  "outageCount": 213,
+  "generated": "2026-05-04T11:31:02.774Z",
+  "outageCount": 214,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-04-27",
+  "lastOutage": "2026-05-04",
   "outages": [
+    {
+      "date": "Le lundi 4 mai 2026 de  15:30:00 à  16:30:00",
+      "streets": "RUE LEES : BUREAU BRINKS, MAURITIUS HOUSING ET MEDICAL HEARING CENTRE.",
+      "from": "2026-05-04T11:30:00.000Z",
+      "to": "2026-05-04T12:30:00.000Z",
+      "id": "d024a54eb842aa32f177c926896fdaa0"
+    },
     {
       "date": "Le lundi 27 avril 2026 de  10:00:00 à  11:30:00",
       "streets": "ROUTE DEPINAY CUREPIPE",
