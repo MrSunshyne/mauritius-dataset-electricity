@@ -2,11 +2,18 @@
   "slug": "riviere-du-rempart",
   "name": "RIVIERE DU REMPART",
   "district": "rivieredurempart",
-  "generated": "2026-05-05T15:35:07.796Z",
-  "outageCount": 59,
+  "generated": "2026-05-05T16:28:14.878Z",
+  "outageCount": 60,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-05-04",
+  "lastOutage": "2026-05-05",
   "outages": [
+    {
+      "date": "Le mardi 5 mai 2026 de  20:10:00 à  21:00:00",
+      "streets": "BASSIN RD RIVIERE DU REMPART",
+      "from": "2026-05-05T16:10:00.000Z",
+      "to": "2026-05-05T17:00:00.000Z",
+      "id": "cf9d06fd15db8cfdbb5a3d99bf1ea41e"
+    },
     {
       "date": "Le lundi 4 mai 2026 de  18:30:00 à  22:45:00",
       "streets": "BEEJADHUR STREET & SURROUNDINGS",
