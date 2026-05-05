@@ -2,11 +2,18 @@
   "slug": "beau-bassin",
   "name": "BEAU BASSIN",
   "district": "plainewilhems",
-  "generated": "2026-05-05T11:25:11.677Z",
-  "outageCount": 179,
+  "generated": "2026-05-05T12:18:04.232Z",
+  "outageCount": 180,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-04-25",
+  "lastOutage": "2026-05-05",
   "outages": [
+    {
+      "date": "Le mardi 5 mai 2026 de  15:00:00 à  17:30:00",
+      "streets": "AVE TROTTEUR, HENRY LE MAIRE, MOSQUE RD ET LES ENVIRONS",
+      "from": "2026-05-05T11:00:00.000Z",
+      "to": "2026-05-05T13:30:00.000Z",
+      "id": "c9521c4df51b8b89e8c61b5e5fbdfeaa"
+    },
     {
       "date": "Le samedi 25 avril 2026 de  08:30:00 à  14:30:00",
       "streets": "BBASSIN, EN PARTIE RUE DU PONT, DR RUE PEERBYE, RUE CLEMENT CHAROUX, RUE RAVI SHANKAR ET LES ENVIRONS",
