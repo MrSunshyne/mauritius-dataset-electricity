@@ -2,11 +2,18 @@
   "slug": "dubreuil",
   "name": "DUBREUIL",
   "district": "moka",
-  "generated": "2026-05-04T18:26:17.523Z",
-  "outageCount": 21,
+  "generated": "2026-05-05T06:39:55.693Z",
+  "outageCount": 22,
   "firstOutage": "2022-08-13",
-  "lastOutage": "2026-04-19",
+  "lastOutage": "2026-05-05",
   "outages": [
+    {
+      "date": "Le mardi 5 mai 2026 de  09:00:00 à  16:00:00",
+      "streets": "Le Village de Dubreuil dans les environs de La Pipe",
+      "from": "2026-05-05T05:00:00.000Z",
+      "to": "2026-05-05T12:00:00.000Z",
+      "id": "69be053c0fb3d365572a932be47d962c"
+    },
     {
       "date": "Le dimanche 19 avril 2026 de  08:30:00 à  16:00:00",
       "streets": "dans les environs de La Pipe",

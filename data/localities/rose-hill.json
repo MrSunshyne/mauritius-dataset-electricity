@@ -2,11 +2,18 @@
   "slug": "rose-hill",
   "name": "ROSE-HILL",
   "district": "plainewilhems",
-  "generated": "2026-05-04T18:26:17.708Z",
-  "outageCount": 161,
+  "generated": "2026-05-05T06:39:55.858Z",
+  "outageCount": 162,
   "firstOutage": "2022-05-20",
-  "lastOutage": "2026-04-27",
+  "lastOutage": "2026-05-05",
   "outages": [
+    {
+      "date": "Le mardi 5 mai 2026 de  09:30:00 à  11:30:00",
+      "streets": "ROUTE HUGNIN/AMBROSE",
+      "from": "2026-05-05T05:30:00.000Z",
+      "to": "2026-05-05T07:30:00.000Z",
+      "id": "0e2d9d18603d56a8f0f75699dd509ce6"
+    },
     {
       "date": "Le lundi 27 avril 2026 de  10:00:00 à  12:30:00",
       "streets": "RUE AMBROSE ROSEHILL",

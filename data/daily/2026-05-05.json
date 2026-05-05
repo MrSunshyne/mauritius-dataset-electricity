@@ -1,9 +1,29 @@
 {
   "date": "2026-05-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-04T18:26:17.395Z",
-  "outageCount": 1,
+  "generated": "2026-05-05T06:39:55.577Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le mardi 5 mai 2026 de  09:00:00 à  16:00:00",
+      "locality": "DUBREUIL",
+      "localitySlug": "dubreuil",
+      "streets": "Le Village de Dubreuil dans les environs de La Pipe",
+      "district": "moka",
+      "from": "2026-05-05T05:00:00.000Z",
+      "to": "2026-05-05T12:00:00.000Z",
+      "id": "69be053c0fb3d365572a932be47d962c"
+    },
+    {
+      "date": "Le mardi 5 mai 2026 de  09:30:00 à  11:30:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "ROUTE HUGNIN/AMBROSE",
+      "district": "plainewilhems",
+      "from": "2026-05-05T05:30:00.000Z",
+      "to": "2026-05-05T07:30:00.000Z",
+      "id": "0e2d9d18603d56a8f0f75699dd509ce6"
+    },
     {
       "date": "Le mardi 5 mai 2026 de  09:00:00 à  14:00:00",
       "locality": "MONTAGNE BOIS NOIR(RODRIGUES)",
