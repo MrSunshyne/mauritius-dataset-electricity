@@ -2,11 +2,18 @@
   "slug": "petit-verger-saint-pierre",
   "name": "PETIT VERGER SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-05-05T09:33:08.923Z",
-  "outageCount": 14,
+  "generated": "2026-05-05T10:29:54.078Z",
+  "outageCount": 15,
   "firstOutage": "2022-07-07",
-  "lastOutage": "2026-04-29",
+  "lastOutage": "2026-05-05",
   "outages": [
+    {
+      "date": "Le mardi 5 mai 2026 de  15:30:00 à  17:30:00",
+      "streets": "MTS Telecom, Morc Merrytown, Village Helvetia, Morc Pillay, Morc Desvaux, Morc Ramnarain 2, Morc Ramnarain Chantenay, Morc Jhamna",
+      "from": "2026-05-05T11:30:00.000Z",
+      "to": "2026-05-05T13:30:00.000Z",
+      "id": "8c077b1eee57b2fdbd07dfcfebbaaf49"
+    },
     {
       "date": "Le mercredi 29 avril 2026 de  10:00:00 à  15:00:00",
       "streets": "Bois Cheri Road et Roselyn Cottage",

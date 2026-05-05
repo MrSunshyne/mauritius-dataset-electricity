@@ -2,11 +2,18 @@
   "slug": "camp-levieux",
   "name": "CAMP LEVIEUX ( CUREPIPE )",
   "district": "plainewilhems",
-  "generated": "2026-05-05T09:33:08.774Z",
-  "outageCount": 25,
+  "generated": "2026-05-05T10:29:53.909Z",
+  "outageCount": 26,
   "firstOutage": "2022-05-25",
-  "lastOutage": "2026-03-27",
+  "lastOutage": "2026-05-05",
   "outages": [
+    {
+      "date": "Le mardi 5 mai 2026 de  14:00:00 à  14:30:00",
+      "streets": "NHDC EGLANTINE CAMP LEVIEUX",
+      "from": "2026-05-05T10:00:00.000Z",
+      "to": "2026-05-05T10:30:00.000Z",
+      "id": "ec297e437a478187d9ac2307f09f443a"
+    },
     {
       "date": "Le vendredi 27 mars 2026 de  00:00:00 à  12:00:00",
       "streets": "UNE PARTIE DE NHDC DAHLIA",

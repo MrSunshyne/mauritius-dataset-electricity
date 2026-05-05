@@ -1,8 +1,8 @@
 {
   "date": "2026-05-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-05T09:33:08.699Z",
-  "outageCount": 1,
+  "generated": "2026-05-05T10:29:53.831Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le jeudi 7 mai 2026 de  09:00:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-05-07T05:00:00.000Z",
       "to": "2026-05-07T13:00:00.000Z",
       "id": "131889cfab98dd790c9d34464af9ffe3"
+    },
+    {
+      "date": "Le jeudi 7 mai 2026 de  08:30:00 à  16:00:00",
+      "locality": "RIVIERE DES ANGUILLES",
+      "localitySlug": "riviere-des-anguilles",
+      "streets": "Rivières des Anguilles habitant dans le périmètre et les rues suivantes: Une partie de la Route Royale, Prudhomme, La Baraque Road, Railway Road, Bansing Road, Soyfoo Road, Gopal Lane, Matabadul Road and SSR Road",
+      "district": "savanne",
+      "from": "2026-05-07T04:30:00.000Z",
+      "to": "2026-05-07T12:00:00.000Z",
+      "id": "07d26216333aa16c45d1d98f93711937"
     }
   ]
 }
