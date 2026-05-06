@@ -1,8 +1,8 @@
 {
   "date": "2026-05-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-06T07:45:15.374Z",
-  "outageCount": 1,
+  "generated": "2026-05-06T09:43:27.633Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le dimanche 10 mai 2026 de  08:30:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-05-10T04:30:00.000Z",
       "to": "2026-05-10T13:00:00.000Z",
       "id": "1e9b5983dd6d14799383e8a8e24d67e5"
+    },
+    {
+      "date": "Le dimanche 10 mai 2026 de  09:00:00 à  14:00:00",
+      "locality": "GLEN PARK",
+      "localitySlug": "glen-park",
+      "streets": "Partie de NHDC Glen Park.",
+      "district": "plainewilhems",
+      "from": "2026-05-10T05:00:00.000Z",
+      "to": "2026-05-10T10:00:00.000Z",
+      "id": "20326278124c7779c2f26abd19afa214"
     }
   ]
 }
