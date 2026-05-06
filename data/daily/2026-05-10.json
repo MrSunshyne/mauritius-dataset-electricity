@@ -1,9 +1,19 @@
 {
   "date": "2026-05-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-06T10:37:07.131Z",
-  "outageCount": 2,
+  "generated": "2026-05-06T11:31:40.903Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le dimanche 10 mai 2026 de  08:15:00 à  16:30:00",
+      "locality": "ECROIGNARD",
+      "localitySlug": "ecroignard",
+      "streets": "Village de Ecroignard et dans les périmètres de Rues Joysury, School Rd, Dispensary Rd, Village Hall Rd, Beekmanga Rd, Ramkhelawan Rd et en Partie de la Route Royale.",
+      "district": "flacq",
+      "from": "2026-05-10T04:15:00.000Z",
+      "to": "2026-05-10T12:30:00.000Z",
+      "id": "5f88de7eb47ae53e0225c98b1ccf7cc1"
+    },
     {
       "date": "Le dimanche 10 mai 2026 de  08:30:00 à  17:00:00",
       "locality": "VACOAS",

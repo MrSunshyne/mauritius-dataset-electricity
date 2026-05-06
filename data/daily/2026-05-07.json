@@ -1,8 +1,8 @@
 {
   "date": "2026-05-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-06T10:37:07.131Z",
-  "outageCount": 5,
+  "generated": "2026-05-06T11:31:40.903Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le jeudi 7 mai 2026 de  08:30:00 à  16:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-05-07T04:30:00.000Z",
       "to": "2026-05-07T12:00:00.000Z",
       "id": "07d26216333aa16c45d1d98f93711937"
+    },
+    {
+      "date": "Le jeudi 7 mai 2026 de  08:30:00 à  15:00:00",
+      "locality": "SOUPIRS (RODRIGUES)",
+      "localitySlug": "soupirs",
+      "streets": "Soupirs",
+      "district": "rodrigues",
+      "from": "2026-05-07T04:30:00.000Z",
+      "to": "2026-05-07T11:00:00.000Z",
+      "id": "8d18adb8e16527f113ae027569afa61b"
     }
   ]
 }

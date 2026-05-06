@@ -2,11 +2,18 @@
   "slug": "ecroignard",
   "name": "ECROIGNARD",
   "district": "flacq",
-  "generated": "2026-05-06T10:37:07.256Z",
-  "outageCount": 6,
+  "generated": "2026-05-06T11:31:41.035Z",
+  "outageCount": 7,
   "firstOutage": "2023-05-13",
-  "lastOutage": "2026-03-08",
+  "lastOutage": "2026-05-10",
   "outages": [
+    {
+      "date": "Le dimanche 10 mai 2026 de  08:15:00 à  16:30:00",
+      "streets": "Village de Ecroignard et dans les périmètres de Rues Joysury, School Rd, Dispensary Rd, Village Hall Rd, Beekmanga Rd, Ramkhelawan Rd et en Partie de la Route Royale.",
+      "from": "2026-05-10T04:15:00.000Z",
+      "to": "2026-05-10T12:30:00.000Z",
+      "id": "5f88de7eb47ae53e0225c98b1ccf7cc1"
+    },
     {
       "date": "Le dimanche 8 mars 2026 de  10:30:00 à  13:30:00",
       "streets": "DISPENSARY ROAD",
