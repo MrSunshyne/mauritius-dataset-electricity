@@ -1,9 +1,19 @@
 {
   "date": "2026-05-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-06T11:31:40.903Z",
-  "outageCount": 3,
+  "generated": "2026-05-06T12:29:50.744Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le dimanche 10 mai 2026 de  08:30:00 à  15:30:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "Dans les environs des Avenues Diversite, Liberte, Amandier, Chain, Concorde, Shaw, Dunmaurier, Morc Cheddy et une partie de la route royale",
+      "district": "blackriver",
+      "from": "2026-05-10T04:30:00.000Z",
+      "to": "2026-05-10T11:30:00.000Z",
+      "id": "e83024cfc2cb6973df54462fddd00aa7"
+    },
     {
       "date": "Le dimanche 10 mai 2026 de  08:15:00 à  16:30:00",
       "locality": "ECROIGNARD",
@@ -33,6 +43,16 @@
       "from": "2026-05-10T05:00:00.000Z",
       "to": "2026-05-10T10:00:00.000Z",
       "id": "20326278124c7779c2f26abd19afa214"
+    },
+    {
+      "date": "Le dimanche 10 mai 2026 de  08:30:00 à  14:00:00",
+      "locality": "PLAINE VERTE",
+      "localitySlug": "plaine-verte",
+      "streets": "Les abonnes de Cite Martial Plaine Verte habitant dans les environs des Rues Lataniers, Indian, Hajee Issac Daureeawoo et une partie de la route militaire",
+      "district": "portlouis",
+      "from": "2026-05-10T04:30:00.000Z",
+      "to": "2026-05-10T10:00:00.000Z",
+      "id": "a70968a6b91617efb00e360cbcb4a098"
     }
   ]
 }

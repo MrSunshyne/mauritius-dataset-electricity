@@ -2,11 +2,18 @@
   "slug": "petite-riviere",
   "name": "PETITE RIVIERE",
   "district": "blackriver",
-  "generated": "2026-05-06T11:31:41.157Z",
-  "outageCount": 87,
+  "generated": "2026-05-06T12:29:50.975Z",
+  "outageCount": 88,
   "firstOutage": "2022-05-28",
-  "lastOutage": "2026-05-03",
+  "lastOutage": "2026-05-10",
   "outages": [
+    {
+      "date": "Le dimanche 10 mai 2026 de  08:30:00 à  15:30:00",
+      "streets": "Dans les environs des Avenues Diversite, Liberte, Amandier, Chain, Concorde, Shaw, Dunmaurier, Morc Cheddy et une partie de la route royale",
+      "from": "2026-05-10T04:30:00.000Z",
+      "to": "2026-05-10T11:30:00.000Z",
+      "id": "e83024cfc2cb6973df54462fddd00aa7"
+    },
     {
       "date": "Le dimanche 3 mai 2026 de  08:30:00 à  17:30:00",
       "streets": "Dans les environs de Nundloll Lane, Camp des Embrevades, Princess Margaret, Chumroo Lane, Daffodil Lane, Bissessur Lane, Joysary Lane, Macnamara Lane, Old Trafford Lane et une partie de la route royale",

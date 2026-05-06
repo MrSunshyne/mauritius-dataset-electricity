@@ -2,11 +2,18 @@
   "slug": "plaine-verte",
   "name": "PLAINE VERTE",
   "district": "portlouis",
-  "generated": "2026-05-06T11:31:41.168Z",
-  "outageCount": 30,
+  "generated": "2026-05-06T12:29:50.984Z",
+  "outageCount": 31,
   "firstOutage": "2022-12-21",
-  "lastOutage": "2026-04-26",
+  "lastOutage": "2026-05-10",
   "outages": [
+    {
+      "date": "Le dimanche 10 mai 2026 de  08:30:00 à  14:00:00",
+      "streets": "Les abonnes de Cite Martial Plaine Verte habitant dans les environs des Rues Lataniers, Indian, Hajee Issac Daureeawoo et une partie de la route militaire",
+      "from": "2026-05-10T04:30:00.000Z",
+      "to": "2026-05-10T10:00:00.000Z",
+      "id": "a70968a6b91617efb00e360cbcb4a098"
+    },
     {
       "date": "Le dimanche 26 avril 2026 de  08:30:00 à  12:30:00",
       "streets": "DANS LES ENVIRONS DES RUES SIR VIRGIL NAZ, ETIENNE PELLEREAU ET UNE PARTIE DE LA RUE NYON",
