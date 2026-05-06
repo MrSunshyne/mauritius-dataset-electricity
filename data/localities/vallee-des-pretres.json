@@ -2,11 +2,18 @@
   "slug": "vallee-des-pretres",
   "name": "VALLEE DES PRETRES",
   "district": "portlouis",
-  "generated": "2026-05-05T18:24:18.428Z",
-  "outageCount": 82,
+  "generated": "2026-05-06T06:48:26.166Z",
+  "outageCount": 83,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-05-03",
+  "lastOutage": "2026-05-06",
   "outages": [
+    {
+      "date": "Le mercredi 6 mai 2026 de  10:40:00 à  11:45:00",
+      "streets": "CAROLINE",
+      "from": "2026-05-06T06:40:00.000Z",
+      "to": "2026-05-06T07:45:00.000Z",
+      "id": "77773c557e9c5b1a4b4a474588cfddc1"
+    },
     {
       "date": "Le dimanche 3 mai 2026 de  08:30:00 à  15:30:00",
       "streets": "Les abonnes habitant Upper Vallee des Pretres dans les environs de Sandokan",

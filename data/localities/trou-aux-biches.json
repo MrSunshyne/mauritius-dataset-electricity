@@ -2,11 +2,18 @@
   "slug": "trou-aux-biches",
   "name": "TROU AUX BICHES",
   "district": "pamplemousses",
-  "generated": "2026-05-05T18:24:18.419Z",
-  "outageCount": 60,
+  "generated": "2026-05-06T06:48:26.157Z",
+  "outageCount": 61,
   "firstOutage": "2022-04-10",
-  "lastOutage": "2026-04-09",
+  "lastOutage": "2026-05-06",
   "outages": [
+    {
+      "date": "Le mercredi 6 mai 2026 de  10:15:00 à  12:15:00",
+      "streets": "Grande Pte aux Piments,Trou aux Biches,Morc Mon Ile,Morc Sooroojbali,Morc Fareway,Govt School",
+      "from": "2026-05-06T06:15:00.000Z",
+      "to": "2026-05-06T08:15:00.000Z",
+      "id": "b9fa895dd1639c9f00b31bd3afe9b5cb"
+    },
     {
       "date": "Le jeudi 9 avril 2026 de  12:15:00 à  14:15:00",
       "streets": "MORC RAMDHANY ET LES ALENTOURS",

@@ -1,8 +1,8 @@
 {
   "date": "2026-05-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-05T18:24:18.047Z",
-  "outageCount": 1,
+  "generated": "2026-05-06T06:48:25.812Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le mercredi 6 mai 2026 de  08:30:00 à  15:30:00",
@@ -13,6 +13,56 @@
       "from": "2026-05-06T04:30:00.000Z",
       "to": "2026-05-06T11:30:00.000Z",
       "id": "ffe0ed40603766e226a5caa625d449e4"
+    },
+    {
+      "date": "Le mercredi 6 mai 2026 de  09:00:00 à  15:00:00",
+      "locality": "BOIS DES AMOURETTES",
+      "localitySlug": "bois-des-amourettes",
+      "streets": "Bois Des Amourettes, Providence, Anse Jonchée, Terre Cassée, Grand Port, Belle Vue et Bambous Virieux",
+      "district": "grandport",
+      "from": "2026-05-06T05:00:00.000Z",
+      "to": "2026-05-06T11:00:00.000Z",
+      "id": "0f61454049df0886451577d0d21431e7"
+    },
+    {
+      "date": "Le mercredi 6 mai 2026 de  06:15:00 à  15:00:00",
+      "locality": "FERNEY",
+      "localitySlug": "ferney",
+      "streets": "Ferney,Vieux Grand Port,Bois des Amourettes,Providence,Terre Casse,Anse jonchee et Bambous Virieux",
+      "district": "grandport",
+      "from": "2026-05-06T02:15:00.000Z",
+      "to": "2026-05-06T11:00:00.000Z",
+      "id": "3e15b1052b17d27586cb218c34033343"
+    },
+    {
+      "date": "Le mercredi 6 mai 2026 de  10:15:00 à  12:15:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "Grande Pte aux Piments,Trou aux Biches,Morc Mon Ile,Morc Sooroojbali,Morc Fareway,Govt School",
+      "district": "pamplemousses",
+      "from": "2026-05-06T06:15:00.000Z",
+      "to": "2026-05-06T08:15:00.000Z",
+      "id": "b9fa895dd1639c9f00b31bd3afe9b5cb"
+    },
+    {
+      "date": "Le mercredi 6 mai 2026 de  10:40:00 à  11:45:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "CAROLINE",
+      "district": "portlouis",
+      "from": "2026-05-06T06:40:00.000Z",
+      "to": "2026-05-06T07:45:00.000Z",
+      "id": "77773c557e9c5b1a4b4a474588cfddc1"
+    },
+    {
+      "date": "Le mercredi 6 mai 2026 de  07:00:00 à  09:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "PORT MATHURIN, FOND LA DIGUE, CREVE COEUR ET ROSEAUX",
+      "district": "rodrigues",
+      "from": "2026-05-06T03:00:00.000Z",
+      "to": "2026-05-06T05:00:00.000Z",
+      "id": "1cba0c8551cec81ba41c45e577a49daa"
     }
   ]
 }

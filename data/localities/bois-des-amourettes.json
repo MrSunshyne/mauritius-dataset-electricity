@@ -2,11 +2,18 @@
   "slug": "bois-des-amourettes",
   "name": "BOIS DES AMOURETTES",
   "district": "grandport",
-  "generated": "2026-05-05T18:24:18.107Z",
-  "outageCount": 6,
+  "generated": "2026-05-06T06:48:25.869Z",
+  "outageCount": 7,
   "firstOutage": "2022-05-08",
-  "lastOutage": "2026-04-22",
+  "lastOutage": "2026-05-06",
   "outages": [
+    {
+      "date": "Le mercredi 6 mai 2026 de  09:00:00 à  15:00:00",
+      "streets": "Bois Des Amourettes, Providence, Anse Jonchée, Terre Cassée, Grand Port, Belle Vue et Bambous Virieux",
+      "from": "2026-05-06T05:00:00.000Z",
+      "to": "2026-05-06T11:00:00.000Z",
+      "id": "0f61454049df0886451577d0d21431e7"
+    },
     {
       "date": "Le mercredi 22 avril 2026 de  15:00:00 à  22:00:00",
       "streets": "ROYAL ROAD ANSE JONCHEE,BOIS DES AMOURRETTES",

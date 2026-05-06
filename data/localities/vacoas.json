@@ -2,11 +2,18 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-05-05T18:24:18.425Z",
-  "outageCount": 239,
+  "generated": "2026-05-06T06:48:26.163Z",
+  "outageCount": 240,
   "firstOutage": "2022-03-17",
-  "lastOutage": "2026-05-03",
+  "lastOutage": "2026-05-10",
   "outages": [
+    {
+      "date": "Le dimanche 10 mai 2026 de  08:30:00 à  17:00:00",
+      "streets": "Route Tranquille, Pave d’amour, une partie de Route Bonne -Terre, une partie de Route Clairfonds No. 1 et No. 3, une partie de Route Vingta No. 1, No. 2 et No. 3, Modern Square, une partie de Route Ligne Berthaud, une partie de Route du Club, Route Jackson, une partie de Route Lamberty",
+      "from": "2026-05-10T04:30:00.000Z",
+      "to": "2026-05-10T13:00:00.000Z",
+      "id": "1e9b5983dd6d14799383e8a8e24d67e5"
+    },
     {
       "date": "Le dimanche 3 mai 2026 de  13:00:00 à  16:30:00",
       "streets": "Route Tranquille, Pave DAmour, une partie de Route Bonne Terre, une partie de route Clairfonds No1 et 3, une parti du route Vingta No 1,2 et 3, Modern Square, une partie du route ligne Berthaud, une partie du Route Club, Route Jackson, une partie du Route Lamberry",
