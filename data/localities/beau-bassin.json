@@ -2,11 +2,18 @@
   "slug": "beau-bassin",
   "name": "BEAU BASSIN",
   "district": "plainewilhems",
-  "generated": "2026-05-06T09:43:27.670Z",
-  "outageCount": 180,
+  "generated": "2026-05-06T10:37:07.166Z",
+  "outageCount": 181,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-05-05",
+  "lastOutage": "2026-05-07",
   "outages": [
+    {
+      "date": "Le jeudi 7 mai 2026 de  08:30:00 à  15:30:00",
+      "streets": "Ave Pere Laval, Ave Dessennes, Ave Abbe Harel, Ave G. Bowen, Rue Farquhar, Appartement Bel Canto et les environs",
+      "from": "2026-05-07T04:30:00.000Z",
+      "to": "2026-05-07T11:30:00.000Z",
+      "id": "10792444ebb688f8e4a4033d10b19c3f"
+    },
     {
       "date": "Le mardi 5 mai 2026 de  15:00:00 à  17:30:00",
       "streets": "AVE TROTTEUR, HENRY LE MAIRE, MOSQUE RD ET LES ENVIRONS",
