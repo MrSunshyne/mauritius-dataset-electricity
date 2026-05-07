@@ -2,11 +2,18 @@
   "slug": "verdun",
   "name": "VERDUN",
   "district": "moka",
-  "generated": "2026-05-07T12:30:12.170Z",
-  "outageCount": 29,
+  "generated": "2026-05-07T13:30:32.356Z",
+  "outageCount": 30,
   "firstOutage": "2022-04-24",
-  "lastOutage": "2026-04-11",
+  "lastOutage": "2026-05-07",
   "outages": [
+    {
+      "date": "Le jeudi 7 mai 2026 de  17:00:00 à  22:00:00",
+      "streets": "ROUTE ROYALE DANS LES ENVIRONS INDIAN OIL/CAMERA SAFE CITY, CHEMIN MARGUERITE, CHEMIN ROSE, DANS LES ENVIRONS LA POSTE ET LES ALENTOURS.",
+      "from": "2026-05-07T13:00:00.000Z",
+      "to": "2026-05-07T18:00:00.000Z",
+      "id": "ffb55698762a1b6ae3724585d39c510a"
+    },
     {
       "date": "Le samedi 11 avril 2026 de  08:30:00 à  15:30:00",
       "streets": "VILLAGE VERDUN EN ENTIER",

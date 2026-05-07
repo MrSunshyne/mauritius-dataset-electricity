@@ -1,8 +1,8 @@
 {
   "date": "2026-05-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-07T12:30:11.842Z",
-  "outageCount": 12,
+  "generated": "2026-05-07T13:30:32.012Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le jeudi 7 mai 2026 de  10:10:00 à  12:15:00",
@@ -45,6 +45,16 @@
       "id": "4656fe117a2f8f549873cf9bbc3876fe"
     },
     {
+      "date": "Le jeudi 7 mai 2026 de  17:00:00 à  22:00:00",
+      "locality": "VERDUN",
+      "localitySlug": "verdun",
+      "streets": "ROUTE ROYALE DANS LES ENVIRONS INDIAN OIL/CAMERA SAFE CITY, CHEMIN MARGUERITE, CHEMIN ROSE, DANS LES ENVIRONS LA POSTE ET LES ALENTOURS.",
+      "district": "moka",
+      "from": "2026-05-07T13:00:00.000Z",
+      "to": "2026-05-07T18:00:00.000Z",
+      "id": "ffb55698762a1b6ae3724585d39c510a"
+    },
+    {
       "date": "Le jeudi 7 mai 2026 de  09:00:00 à  14:00:00",
       "locality": "PETITE JULIE",
       "localitySlug": "petite-julie",
@@ -65,14 +75,14 @@
       "id": "d17fcc4041476af8a6793a1614788d51"
     },
     {
-      "date": "Le jeudi 7 mai 2026 de  08:30:00 à  16:45:00",
+      "date": "Le jeudi 7 mai 2026 de  08:30:00 à  17:20:00",
       "locality": "BEAU BASSIN",
       "localitySlug": "beau-bassin",
       "streets": "Ave Pere Laval, Ave Dessennes, Ave Abbe Harel, Ave G. Bowen, Rue Farquhar, Appartement Bel Canto et les environs",
       "district": "plainewilhems",
       "from": "2026-05-07T04:30:00.000Z",
-      "to": "2026-05-07T12:45:00.000Z",
-      "id": "127997cfce0cd060922c941df548dd83"
+      "to": "2026-05-07T13:20:00.000Z",
+      "id": "1ad6441a0106773ad63b570daaf95f1e"
     },
     {
       "date": "Le jeudi 7 mai 2026 de  09:40:00 à  10:30:00",
@@ -105,14 +115,14 @@
       "id": "eb9122e8797df31d76d0165a75b6ae0c"
     },
     {
-      "date": "Le jeudi 7 mai 2026 de  08:30:00 à  16:00:00",
+      "date": "Le jeudi 7 mai 2026 de  08:30:00 à  18:15:00",
       "locality": "RIVIERE DES ANGUILLES",
       "localitySlug": "riviere-des-anguilles",
       "streets": "Rivières des Anguilles habitant dans le périmètre et les rues suivantes: Une partie de la Route Royale, Prudhomme, La Baraque Road, Railway Road, Bansing Road, Soyfoo Road, Gopal Lane, Matabadul Road and SSR Road",
       "district": "savanne",
       "from": "2026-05-07T04:30:00.000Z",
-      "to": "2026-05-07T12:00:00.000Z",
-      "id": "07d26216333aa16c45d1d98f93711937"
+      "to": "2026-05-07T14:15:00.000Z",
+      "id": "18c9010b44d55a31a97df1a73bcfb42c"
     },
     {
       "date": "Le jeudi 7 mai 2026 de  08:30:00 à  15:00:00",
