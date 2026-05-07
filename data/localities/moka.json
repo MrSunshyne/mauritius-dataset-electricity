@@ -2,11 +2,18 @@
   "slug": "moka",
   "name": "MOKA",
   "district": "moka",
-  "generated": "2026-05-07T09:48:07.302Z",
-  "outageCount": 67,
+  "generated": "2026-05-07T10:41:48.117Z",
+  "outageCount": 68,
   "firstOutage": "2022-06-13",
-  "lastOutage": "2026-05-04",
+  "lastOutage": "2026-05-07",
   "outages": [
+    {
+      "date": "Le jeudi 7 mai 2026 de  14:30:00 à  17:00:00",
+      "streets": "Eureka,Moka",
+      "from": "2026-05-07T10:30:00.000Z",
+      "to": "2026-05-07T13:00:00.000Z",
+      "id": "4656fe117a2f8f549873cf9bbc3876fe"
+    },
     {
       "date": "Le lundi 4 mai 2026 de  19:00:00 à  00:00:00",
       "streets": "CAMP SAMI, BOIS CHERIE ROAD AND SURROUNDINGS",
