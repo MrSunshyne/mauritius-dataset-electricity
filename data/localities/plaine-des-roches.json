@@ -2,11 +2,18 @@
   "slug": "plaine-des-roches",
   "name": "PLAINE DES ROCHES",
   "district": "rivieredurempart",
-  "generated": "2026-05-07T15:43:06.325Z",
-  "outageCount": 36,
+  "generated": "2026-05-07T16:31:01.123Z",
+  "outageCount": 37,
   "firstOutage": "2022-04-24",
-  "lastOutage": "2026-05-03",
+  "lastOutage": "2026-05-07",
   "outages": [
+    {
+      "date": "Le jeudi 7 mai 2026 de  20:25:00 à  23:30:00",
+      "streets": "ROUTE ROYALE, DAHLIA LANE ET DANS LES ENVIRONS SUPERMARCHE JUMMUN.",
+      "from": "2026-05-07T16:25:00.000Z",
+      "to": "2026-05-07T19:30:00.000Z",
+      "id": "c649a8f5daa8646930628311a1669a62"
+    },
     {
       "date": "Le dimanche 3 mai 2026 de  18:50:00 à  20:50:00",
       "streets": "SENECK,MOSQUE AND SURROUNDING",
