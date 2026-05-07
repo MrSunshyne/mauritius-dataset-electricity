@@ -1,8 +1,8 @@
 {
   "date": "2026-05-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-07T06:52:46.297Z",
-  "outageCount": 10,
+  "generated": "2026-05-07T07:52:11.083Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le jeudi 7 mai 2026 de  10:10:00 à  12:15:00",
@@ -83,6 +83,16 @@
       "from": "2026-05-07T08:00:00.000Z",
       "to": "2026-05-07T11:00:00.000Z",
       "id": "e9b084010e4f8624c203daa3f2815c28"
+    },
+    {
+      "date": "Le jeudi 7 mai 2026 de  11:00:00 à  14:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "AVE KENSINGTON & SURROUNDINGS",
+      "district": "portlouis",
+      "from": "2026-05-07T07:00:00.000Z",
+      "to": "2026-05-07T10:00:00.000Z",
+      "id": "eb9122e8797df31d76d0165a75b6ae0c"
     },
     {
       "date": "Le jeudi 7 mai 2026 de  08:30:00 à  16:00:00",

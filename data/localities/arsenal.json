@@ -2,11 +2,18 @@
   "slug": "arsenal",
   "name": "ARSENAL",
   "district": "pamplemousses",
-  "generated": "2026-05-07T06:52:46.321Z",
-  "outageCount": 58,
+  "generated": "2026-05-07T07:52:11.108Z",
+  "outageCount": 59,
   "firstOutage": "2022-05-25",
-  "lastOutage": "2026-05-04",
+  "lastOutage": "2026-05-10",
   "outages": [
+    {
+      "date": "Le dimanche 10 mai 2026 de  08:30:00 à  16:00:00",
+      "streets": "Dans les environs dúne partie de la route royale",
+      "from": "2026-05-10T04:30:00.000Z",
+      "to": "2026-05-10T12:00:00.000Z",
+      "id": "aeb9176ae5032c5e2e6891ec08be8313"
+    },
     {
       "date": "Le lundi 4 mai 2026 de  14:20:00 à  16:45:00",
       "streets": "ROYAL ROAD ARSENAL AND BALACLAVA.",
