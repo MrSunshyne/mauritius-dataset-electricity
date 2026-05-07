@@ -2,11 +2,18 @@
   "slug": "palma",
   "name": "PALMA",
   "district": "plainewilhems",
-  "generated": "2026-05-06T18:27:58.844Z",
-  "outageCount": 59,
+  "generated": "2026-05-07T06:52:46.538Z",
+  "outageCount": 60,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-04-21",
+  "lastOutage": "2026-05-07",
   "outages": [
+    {
+      "date": "Le jeudi 7 mai 2026 de  09:40:00 à  10:30:00",
+      "streets": "WESTERN BOUNDARY ET PALMA",
+      "from": "2026-05-07T05:40:00.000Z",
+      "to": "2026-05-07T06:30:00.000Z",
+      "id": "62d23de482f1b117fa7f8776cc121ca7"
+    },
     {
       "date": "Le mardi 21 avril 2026 de  16:00:00 à  17:15:00",
       "streets": "SOOBARAH LANE, CALYPTUS LANE & SURROUNDINGS",

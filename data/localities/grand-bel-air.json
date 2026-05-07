@@ -2,11 +2,18 @@
   "slug": "grand-bel-air",
   "name": "GRAND BEL AIR",
   "district": "flacq",
-  "generated": "2026-05-06T18:27:58.753Z",
-  "outageCount": 30,
+  "generated": "2026-05-07T06:52:46.447Z",
+  "outageCount": 31,
   "firstOutage": "2022-06-14",
-  "lastOutage": "2026-04-28",
+  "lastOutage": "2026-05-10",
   "outages": [
+    {
+      "date": "Le dimanche 10 mai 2026 de  08:30:00 à  17:00:00",
+      "streets": "Grand Bel Air habitant dans le périmètre et les rues suivantes: NHDC Grand Bel Air, School Lane et une partie de la Route Royale Grand Bel Air",
+      "from": "2026-05-10T04:30:00.000Z",
+      "to": "2026-05-10T13:00:00.000Z",
+      "id": "6150786c5d71fa437eae044260abf6c8"
+    },
     {
       "date": "Le mardi 28 avril 2026 de  09:00:00 à  16:00:00",
       "streets": "GRAND BELAIR",

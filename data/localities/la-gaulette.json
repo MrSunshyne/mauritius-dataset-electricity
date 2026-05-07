@@ -2,11 +2,18 @@
   "slug": "la-gaulette",
   "name": "LA GAULETTE",
   "district": "blackriver",
-  "generated": "2026-05-06T18:27:58.781Z",
-  "outageCount": 13,
+  "generated": "2026-05-07T06:52:46.474Z",
+  "outageCount": 14,
   "firstOutage": "2022-07-20",
-  "lastOutage": "2026-02-21",
+  "lastOutage": "2026-05-07",
   "outages": [
+    {
+      "date": "Le jeudi 7 mai 2026 de  10:10:00 à  12:15:00",
+      "streets": "LA GAULETTE",
+      "from": "2026-05-07T06:10:00.000Z",
+      "to": "2026-05-07T08:15:00.000Z",
+      "id": "aeba1b886b421db4382980b49d2ff1fb"
+    },
     {
       "date": "Le samedi 21 février 2026 de  17:00:00 à  22:00:00",
       "streets": "La Gaulette, Cotteau Raffin, part of Le Morne (Le Morne Village, Dilo Pourrie), part of La Prairie et Baie du Cap.",

@@ -2,11 +2,18 @@
   "slug": "forest-side",
   "name": "FOREST SIDE",
   "district": "plainewilhems",
-  "generated": "2026-05-06T18:27:58.746Z",
-  "outageCount": 97,
+  "generated": "2026-05-07T06:52:46.440Z",
+  "outageCount": 98,
   "firstOutage": "2022-07-03",
-  "lastOutage": "2026-05-03",
+  "lastOutage": "2026-05-07",
   "outages": [
+    {
+      "date": "Le jeudi 7 mai 2026 de  12:00:00 à  15:00:00",
+      "streets": "une partie de Frederic Bonnefin St, Gabriel Froppin Street, Cité de Versailles et Pydiah Street",
+      "from": "2026-05-07T08:00:00.000Z",
+      "to": "2026-05-07T11:00:00.000Z",
+      "id": "e9b084010e4f8624c203daa3f2815c28"
+    },
     {
       "date": "Le dimanche 3 mai 2026 de  08:30:00 à  16:00:00",
       "streets": "les périmetres et les rues suivantes ; Mellish Street, Derby Avenue, Derby Lane, Morc Valaydon, Morc Piat, Pydiah Street, une partie de Frederick Bonnefin Street et une partie de La Brasserie",

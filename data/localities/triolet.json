@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-05-06T18:27:58.952Z",
-  "outageCount": 137,
+  "generated": "2026-05-07T06:52:46.648Z",
+  "outageCount": 138,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-05-01",
+  "lastOutage": "2026-05-07",
   "outages": [
+    {
+      "date": "Le jeudi 7 mai 2026 de  10:45:00 à  11:30:00",
+      "streets": "9TH MILE NEAR SAMAD SILENCERS",
+      "from": "2026-05-07T06:45:00.000Z",
+      "to": "2026-05-07T07:30:00.000Z",
+      "id": "d17fcc4041476af8a6793a1614788d51"
+    },
     {
       "date": "Le vendredi 1 mai 2026 de  09:00:00 à  13:00:00",
       "streets": "QUEEN ELIZABETH LANE 7EME MILLE TRIOLET",

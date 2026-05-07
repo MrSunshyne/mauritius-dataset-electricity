@@ -2,11 +2,18 @@
   "slug": "trou-d-eau-douce",
   "name": "TROU D-EAU DOUCE",
   "district": "flacq",
-  "generated": "2026-05-06T18:27:58.955Z",
-  "outageCount": 7,
+  "generated": "2026-05-07T06:52:46.652Z",
+  "outageCount": 8,
   "firstOutage": "2025-10-27",
-  "lastOutage": "2026-05-08",
+  "lastOutage": "2026-05-09",
   "outages": [
+    {
+      "date": "Le samedi 9 mai 2026 de  08:30:00 à  17:00:00",
+      "streets": "Trou D’Eau Douce dans le périmètre de Sept Croise et Morc Poonith.",
+      "from": "2026-05-09T04:30:00.000Z",
+      "to": "2026-05-09T13:00:00.000Z",
+      "id": "ab765a769df0a8c87ba59a9f41ff0c4d"
+    },
     {
       "date": "Le vendredi 8 mai 2026 de  08:30:00 à  17:00:00",
       "streets": "Trou D’Eau Douce dans le périmètre de Sept Croise et Morc Poonith.",

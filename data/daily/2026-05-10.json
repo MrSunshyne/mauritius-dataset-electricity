@@ -1,8 +1,8 @@
 {
   "date": "2026-05-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-06T18:27:58.603Z",
-  "outageCount": 5,
+  "generated": "2026-05-07T06:52:46.297Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le dimanche 10 mai 2026 de  08:30:00 à  15:30:00",
@@ -26,6 +26,16 @@
     },
     {
       "date": "Le dimanche 10 mai 2026 de  08:30:00 à  17:00:00",
+      "locality": "GRAND BEL AIR",
+      "localitySlug": "grand-bel-air",
+      "streets": "Grand Bel Air habitant dans le périmètre et les rues suivantes: NHDC Grand Bel Air, School Lane et une partie de la Route Royale Grand Bel Air",
+      "district": "flacq",
+      "from": "2026-05-10T04:30:00.000Z",
+      "to": "2026-05-10T13:00:00.000Z",
+      "id": "6150786c5d71fa437eae044260abf6c8"
+    },
+    {
+      "date": "Le dimanche 10 mai 2026 de  08:30:00 à  17:00:00",
       "locality": "VACOAS",
       "localitySlug": "vacoas",
       "streets": "Route Tranquille, Pave d’amour, une partie de Route Bonne -Terre, une partie de Route Clairfonds No. 1 et No. 3, une partie de Route Vingta No. 1, No. 2 et No. 3, Modern Square, une partie de Route Ligne Berthaud, une partie de Route du Club, Route Jackson, une partie de Route Lamberty",
@@ -45,6 +55,16 @@
       "id": "20326278124c7779c2f26abd19afa214"
     },
     {
+      "date": "Le dimanche 10 mai 2026 de  08:30:00 à  16:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "dans les environs de Résidence Mangalkhan, Govinden Lane, Espitalier Noel Street, Nelson Street, Balzac Street, Floreal Road et une partie de Beedassy Lane",
+      "district": "plainewilhems",
+      "from": "2026-05-10T04:30:00.000Z",
+      "to": "2026-05-10T12:00:00.000Z",
+      "id": "ce1dc141fea7dcd2a0fbfd53f0647633"
+    },
+    {
       "date": "Le dimanche 10 mai 2026 de  08:30:00 à  14:00:00",
       "locality": "PLAINE VERTE",
       "localitySlug": "plaine-verte",
@@ -53,6 +73,16 @@
       "from": "2026-05-10T04:30:00.000Z",
       "to": "2026-05-10T10:00:00.000Z",
       "id": "a70968a6b91617efb00e360cbcb4a098"
+    },
+    {
+      "date": "Le dimanche 10 mai 2026 de  08:30:00 à  15:30:00",
+      "locality": "POINTE AUX CANONNIERS",
+      "localitySlug": "pointe-aux-canonniers",
+      "streets": "COASTAL ROAD, CASE GOON ROAD, LA POINTE LUXURY LTD - PHASE 2- POINTE AUX CANNONIERS",
+      "district": "rivieredurempart",
+      "from": "2026-05-10T04:30:00.000Z",
+      "to": "2026-05-10T11:30:00.000Z",
+      "id": "49fbbf4c7f35d5d7b0c1beb93178dbf9"
     }
   ]
 }
