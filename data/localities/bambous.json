@@ -2,11 +2,18 @@
   "slug": "bambous",
   "name": "BAMBOUS",
   "district": "blackriver",
-  "generated": "2026-05-07T18:29:03.791Z",
-  "outageCount": 121,
+  "generated": "2026-05-08T06:30:23.119Z",
+  "outageCount": 122,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-05-06",
+  "lastOutage": "2026-05-08",
   "outages": [
+    {
+      "date": "Le vendredi 8 mai 2026 de  08:45:00 à  11:00:00",
+      "streets": "MORC VRS 3 ET EN PARTIE GEOFFROY",
+      "from": "2026-05-08T04:45:00.000Z",
+      "to": "2026-05-08T07:00:00.000Z",
+      "id": "1aaf8154bba4185fce57c39ad353c02a"
+    },
     {
       "date": "Le mercredi 6 mai 2026 de  08:30:00 à  15:30:00",
       "streets": "ALLEE TAMARIN, AVE BOUNDARY, AVE BELLE ISLE, AVE DES MANGUIERS ET AVE DES BRIGANDS",

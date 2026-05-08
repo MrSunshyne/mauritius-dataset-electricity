@@ -1,8 +1,8 @@
 {
   "date": "2026-05-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-07T18:29:03.758Z",
-  "outageCount": 1,
+  "generated": "2026-05-08T06:30:23.087Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le lundi 11 mai 2026 de  08:30:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-05-11T04:30:00.000Z",
       "to": "2026-05-11T12:00:00.000Z",
       "id": "6b87cdd66e89cd321730b4e5972693db"
+    },
+    {
+      "date": "Le lundi 11 mai 2026 de  08:45:00 à  11:00:00",
+      "locality": "CAMP MARCELIN",
+      "localitySlug": "camp-marcelin",
+      "streets": "Camp Marcelin et Quatre Cocos dans le périmètre de NSLD, NHDC, Church Lane, Dasan Street, Avenue Azaléa, High Street, Billar Street & Camelia Avenue.",
+      "district": "moka",
+      "from": "2026-05-11T04:45:00.000Z",
+      "to": "2026-05-11T07:00:00.000Z",
+      "id": "9c8bec26ef57798467e52b9be274e6ad"
     }
   ]
 }

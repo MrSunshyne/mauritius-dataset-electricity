@@ -1,8 +1,8 @@
 {
   "date": "2026-05-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-07T18:29:03.758Z",
-  "outageCount": 2,
+  "generated": "2026-05-08T06:30:23.087Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le samedi 9 mai 2026 de  08:30:00 à  17:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-05-09T04:30:00.000Z",
       "to": "2026-05-09T12:00:00.000Z",
       "id": "03ba84e72d6a71366c00dfa6dc8e10d5"
+    },
+    {
+      "date": "Le samedi 9 mai 2026 de  08:00:00 à  15:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "CASA FLORIDA ROAD, COLENDAVELLOO ROAD, PEREYBERE",
+      "district": "rivieredurempart",
+      "from": "2026-05-09T04:00:00.000Z",
+      "to": "2026-05-09T11:00:00.000Z",
+      "id": "e73e67b19a44476b91077a43839f7f54"
     }
   ]
 }

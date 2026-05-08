@@ -2,11 +2,18 @@
   "slug": "esperance-trebuchet",
   "name": "ESPERANCE TREBUCHET",
   "district": "rivieredurempart",
-  "generated": "2026-05-07T18:29:03.890Z",
-  "outageCount": 26,
+  "generated": "2026-05-08T06:30:23.215Z",
+  "outageCount": 27,
   "firstOutage": "2022-03-14",
-  "lastOutage": "2026-03-27",
+  "lastOutage": "2026-05-10",
   "outages": [
+    {
+      "date": "Le dimanche 10 mai 2026 de  08:30:00 à  15:00:00",
+      "streets": "VRS POUDRE DOR HAMLET, BASALT POUDERE DOR, MADAME BARBE ROAD ESPERANCE TREBUCHET",
+      "from": "2026-05-10T04:30:00.000Z",
+      "to": "2026-05-10T11:00:00.000Z",
+      "id": "24ef9bbdacad0121d739f540b80e673b"
+    },
     {
       "date": "Le vendredi 27 mars 2026 de  10:00:00 à  11:00:00",
       "streets": "PARTIE ROUTE ROYALE, LUXMI RD ET LES ALENTOURS.",

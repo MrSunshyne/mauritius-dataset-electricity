@@ -2,11 +2,18 @@
   "slug": "upper-vale",
   "name": "UPPER VALE",
   "district": "rivieredurempart",
-  "generated": "2026-05-07T18:29:04.095Z",
-  "outageCount": 22,
+  "generated": "2026-05-08T06:30:23.416Z",
+  "outageCount": 23,
   "firstOutage": "2022-04-05",
-  "lastOutage": "2026-04-25",
+  "lastOutage": "2026-05-08",
   "outages": [
+    {
+      "date": "Le vendredi 8 mai 2026 de  10:20:00 à  11:30:00",
+      "streets": "UPPER VALE",
+      "from": "2026-05-08T06:20:00.000Z",
+      "to": "2026-05-08T07:30:00.000Z",
+      "id": "90aaec17410e39e7ca438cb5fff100cc"
+    },
     {
       "date": "Le samedi 25 avril 2026 de  08:30:00 à  15:30:00",
       "streets": "UPPER VALE, SSR ROAD, MOSQUE ROAD, MORCELLEMENT SHEIKDAUR",

@@ -1,8 +1,8 @@
 {
   "date": "2026-05-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-07T18:29:03.758Z",
-  "outageCount": 9,
+  "generated": "2026-05-08T06:30:23.087Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le dimanche 10 mai 2026 de  08:30:00 à  15:30:00",
@@ -93,6 +93,16 @@
       "from": "2026-05-10T04:30:00.000Z",
       "to": "2026-05-10T11:30:00.000Z",
       "id": "49fbbf4c7f35d5d7b0c1beb93178dbf9"
+    },
+    {
+      "date": "Le dimanche 10 mai 2026 de  08:30:00 à  15:00:00",
+      "locality": "ESPERANCE TREBUCHET",
+      "localitySlug": "esperance-trebuchet",
+      "streets": "VRS POUDRE DOR HAMLET, BASALT POUDERE DOR, MADAME BARBE ROAD ESPERANCE TREBUCHET",
+      "district": "rivieredurempart",
+      "from": "2026-05-10T04:30:00.000Z",
+      "to": "2026-05-10T11:00:00.000Z",
+      "id": "24ef9bbdacad0121d739f540b80e673b"
     }
   ]
 }

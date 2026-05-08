@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-07T18:29:04.109Z",
+  "generated": "2026-05-08T06:30:23.429Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -214,10 +214,10 @@
       "slug": "bambous",
       "name": "BAMBOUS",
       "district": "blackriver",
-      "outageCount": 121,
+      "outageCount": 122,
       "file": "bambous.json",
       "firstOutage": "2022-04-12",
-      "lastOutage": "2026-05-06"
+      "lastOutage": "2026-05-08"
     },
     {
       "slug": "bambous-virieux",
@@ -808,10 +808,10 @@
       "slug": "camp-levieux",
       "name": "CAMP LEVIEUX ( CUREPIPE )",
       "district": "plainewilhems",
-      "outageCount": 26,
+      "outageCount": 27,
       "file": "camp-levieux.json",
       "firstOutage": "2022-05-25",
-      "lastOutage": "2026-05-05"
+      "lastOutage": "2026-05-08"
     },
     {
       "slug": "camp-mapou",
@@ -826,10 +826,10 @@
       "slug": "camp-marcelin",
       "name": "CAMP MARCELIN",
       "district": "moka",
-      "outageCount": 3,
+      "outageCount": 4,
       "file": "camp-marcelin.json",
       "firstOutage": "2023-04-16",
-      "lastOutage": "2023-12-13"
+      "lastOutage": "2026-05-11"
     },
     {
       "slug": "camp-pecheurs",
@@ -1465,10 +1465,10 @@
       "slug": "esperance-trebuchet",
       "name": "ESPERANCE TREBUCHET",
       "district": "rivieredurempart",
-      "outageCount": 26,
+      "outageCount": 27,
       "file": "esperance-trebuchet.json",
       "firstOutage": "2022-03-14",
-      "lastOutage": "2026-03-27"
+      "lastOutage": "2026-05-10"
     },
     {
       "slug": "ferney",
@@ -2734,10 +2734,10 @@
       "slug": "pereybere",
       "name": "PEREYBERE",
       "district": "rivieredurempart",
-      "outageCount": 108,
+      "outageCount": 109,
       "file": "pereybere.json",
       "firstOutage": "2022-03-25",
-      "lastOutage": "2026-04-27"
+      "lastOutage": "2026-05-09"
     },
     {
       "slug": "petit-bel-air",
@@ -2950,10 +2950,10 @@
       "slug": "plaine-magnien",
       "name": "PLAINE MAGNIEN",
       "district": "grandport",
-      "outageCount": 62,
+      "outageCount": 63,
       "file": "plaine-magnien.json",
       "firstOutage": "2022-06-08",
-      "lastOutage": "2026-05-01"
+      "lastOutage": "2026-05-08"
     },
     {
       "slug": "plaine-verte",
@@ -3985,10 +3985,10 @@
       "slug": "upper-vale",
       "name": "UPPER VALE",
       "district": "rivieredurempart",
-      "outageCount": 22,
+      "outageCount": 23,
       "file": "upper-vale.json",
       "firstOutage": "2022-04-05",
-      "lastOutage": "2026-04-25"
+      "lastOutage": "2026-05-08"
     },
     {
       "slug": "vacoas",

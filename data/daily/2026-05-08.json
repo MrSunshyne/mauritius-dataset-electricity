@@ -1,9 +1,19 @@
 {
   "date": "2026-05-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-07T18:29:03.758Z",
-  "outageCount": 2,
+  "generated": "2026-05-08T06:30:23.087Z",
+  "outageCount": 6,
   "outages": [
+    {
+      "date": "Le vendredi 8 mai 2026 de  08:45:00 à  11:00:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "MORC VRS 3 ET EN PARTIE GEOFFROY",
+      "district": "blackriver",
+      "from": "2026-05-08T04:45:00.000Z",
+      "to": "2026-05-08T07:00:00.000Z",
+      "id": "1aaf8154bba4185fce57c39ad353c02a"
+    },
     {
       "date": "Le vendredi 8 mai 2026 de  08:30:00 à  17:00:00",
       "locality": "TROU D-EAU DOUCE",
@@ -15,14 +25,44 @@
       "id": "59eb3654e322eab903ce425a370dcbf2"
     },
     {
-      "date": "Le vendredi 8 mai 2026 de  09:00:00 à  11:00:00",
+      "date": "Le vendredi 8 mai 2026 de  09:50:00 à  13:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "CHEMIN ESCALIER ET DANS LES ALENTOURS DE FRANCE BROYER",
+      "district": "grandport",
+      "from": "2026-05-08T05:50:00.000Z",
+      "to": "2026-05-08T09:00:00.000Z",
+      "id": "da6cd6ab5ba0886e0be2bd568d932c16"
+    },
+    {
+      "date": "Le vendredi 8 mai 2026 de  09:00:00 à  12:30:00",
       "locality": "WOOTUN",
       "localitySlug": "wootun",
       "streets": "dans les environs de Morc Pinewood",
       "district": "plainewilhems",
       "from": "2026-05-08T05:00:00.000Z",
-      "to": "2026-05-08T07:00:00.000Z",
-      "id": "360ea10022c46d660fa95d232ef58c95"
+      "to": "2026-05-08T08:30:00.000Z",
+      "id": "e9e985a25be84dfbe45f60187445d4ef"
+    },
+    {
+      "date": "Le vendredi 8 mai 2026 de  09:45:00 à  10:45:00",
+      "locality": "CAMP LEVIEUX ( R HILL )",
+      "localitySlug": "camp-levieux",
+      "streets": "NHDC CAMP LEVIEUX",
+      "district": "plainewilhems",
+      "from": "2026-05-08T05:45:00.000Z",
+      "to": "2026-05-08T06:45:00.000Z",
+      "id": "461ba8b9ee66793d5670b7bff8f0a127"
+    },
+    {
+      "date": "Le vendredi 8 mai 2026 de  10:20:00 à  11:30:00",
+      "locality": "UPPER VALE",
+      "localitySlug": "upper-vale",
+      "streets": "UPPER VALE",
+      "district": "rivieredurempart",
+      "from": "2026-05-08T06:20:00.000Z",
+      "to": "2026-05-08T07:30:00.000Z",
+      "id": "90aaec17410e39e7ca438cb5fff100cc"
     }
   ]
 }

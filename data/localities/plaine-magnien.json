@@ -2,11 +2,18 @@
   "slug": "plaine-magnien",
   "name": "PLAINE MAGNIEN",
   "district": "grandport",
-  "generated": "2026-05-07T18:29:04.009Z",
-  "outageCount": 62,
+  "generated": "2026-05-08T06:30:23.333Z",
+  "outageCount": 63,
   "firstOutage": "2022-06-08",
-  "lastOutage": "2026-05-01",
+  "lastOutage": "2026-05-08",
   "outages": [
+    {
+      "date": "Le vendredi 8 mai 2026 de  09:50:00 à  13:00:00",
+      "streets": "CHEMIN ESCALIER ET DANS LES ALENTOURS DE FRANCE BROYER",
+      "from": "2026-05-08T05:50:00.000Z",
+      "to": "2026-05-08T09:00:00.000Z",
+      "id": "da6cd6ab5ba0886e0be2bd568d932c16"
+    },
     {
       "date": "Le vendredi 1 mai 2026 de  11:30:00 à  18:00:00",
       "streets": "EX LE CHALAND RD PLAINE MAGNIEN",
