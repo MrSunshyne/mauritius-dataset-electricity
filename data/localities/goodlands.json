@@ -2,11 +2,18 @@
   "slug": "goodlands",
   "name": "GOODLANDS",
   "district": "rivieredurempart",
-  "generated": "2026-05-08T08:27:17.530Z",
-  "outageCount": 133,
+  "generated": "2026-05-08T09:28:14.764Z",
+  "outageCount": 134,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-05-02",
+  "lastOutage": "2026-05-08",
   "outages": [
+    {
+      "date": "Le vendredi 8 mai 2026 de  12:30:00 à  13:30:00",
+      "streets": "RAMNAGAR RD ET LES ALENTOURS",
+      "from": "2026-05-08T08:30:00.000Z",
+      "to": "2026-05-08T09:30:00.000Z",
+      "id": "a110ed331ceef70427e54633701743f5"
+    },
     {
       "date": "Le samedi 2 mai 2026 de  12:20:00 à  15:20:00",
       "streets": "DEERPAUL ROAD, TELEGU TEMPLE ROAD & SURROUNDINGS, NEAR FRIENDSHIP COLLEGE",

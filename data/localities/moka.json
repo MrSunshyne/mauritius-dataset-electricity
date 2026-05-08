@@ -2,11 +2,18 @@
   "slug": "moka",
   "name": "MOKA",
   "district": "moka",
-  "generated": "2026-05-08T08:27:17.596Z",
-  "outageCount": 68,
+  "generated": "2026-05-08T09:28:14.830Z",
+  "outageCount": 69,
   "firstOutage": "2022-06-13",
-  "lastOutage": "2026-05-07",
+  "lastOutage": "2026-05-09",
   "outages": [
+    {
+      "date": "Le samedi 9 mai 2026 de  08:30:00 à  15:30:00",
+      "streets": "Ave Leclezio, Morc Bagatelle, Le Ravin et Morc Eureka",
+      "from": "2026-05-09T04:30:00.000Z",
+      "to": "2026-05-09T11:30:00.000Z",
+      "id": "b703cb2eb3e99964fb4e22e45a3d3ee0"
+    },
     {
       "date": "Le jeudi 7 mai 2026 de  14:30:00 à  17:00:00",
       "streets": "Eureka,Moka",

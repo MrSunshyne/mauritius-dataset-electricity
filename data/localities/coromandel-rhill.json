@@ -2,11 +2,18 @@
   "slug": "coromandel-rhill",
   "name": "COROMANDEL - R.HILL",
   "district": "plainewilhems",
-  "generated": "2026-05-08T08:27:17.502Z",
-  "outageCount": 84,
+  "generated": "2026-05-08T09:28:14.735Z",
+  "outageCount": 85,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-05-02",
+  "lastOutage": "2026-05-09",
   "outages": [
+    {
+      "date": "Le samedi 9 mai 2026 de  08:30:00 à  14:30:00",
+      "streets": "Chapman View, Archer Ave, Guppy Ave et les environs",
+      "from": "2026-05-09T04:30:00.000Z",
+      "to": "2026-05-09T10:30:00.000Z",
+      "id": "41652a73198d4d54f0b4278ec7177444"
+    },
     {
       "date": "Le samedi 2 mai 2026 de  08:30:00 à  14:30:00",
       "streets": "COROMANDEL CHAPMAN VIEW, ET LES ENVIRONS",

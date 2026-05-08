@@ -1,8 +1,8 @@
 {
   "date": "2026-05-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-08T08:27:17.383Z",
-  "outageCount": 6,
+  "generated": "2026-05-08T09:28:14.615Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le vendredi 8 mai 2026 de  08:45:00 à  11:00:00",
@@ -63,6 +63,16 @@
       "from": "2026-05-08T06:20:00.000Z",
       "to": "2026-05-08T07:30:00.000Z",
       "id": "90aaec17410e39e7ca438cb5fff100cc"
+    },
+    {
+      "date": "Le vendredi 8 mai 2026 de  12:30:00 à  13:30:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "RAMNAGAR RD ET LES ALENTOURS",
+      "district": "rivieredurempart",
+      "from": "2026-05-08T08:30:00.000Z",
+      "to": "2026-05-08T09:30:00.000Z",
+      "id": "a110ed331ceef70427e54633701743f5"
     }
   ]
 }
