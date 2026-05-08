@@ -2,11 +2,18 @@
   "slug": "sodnac",
   "name": "SODNAC",
   "district": "plainewilhems",
-  "generated": "2026-05-08T16:26:03.308Z",
-  "outageCount": 46,
+  "generated": "2026-05-08T17:27:33.595Z",
+  "outageCount": 47,
   "firstOutage": "2022-05-30",
-  "lastOutage": "2026-05-04",
+  "lastOutage": "2026-05-09",
   "outages": [
+    {
+      "date": "Le samedi 9 mai 2026 de  08:30:00 à  14:30:00",
+      "streets": "Dreamton park et Villeneuve Apartment",
+      "from": "2026-05-09T04:30:00.000Z",
+      "to": "2026-05-09T10:30:00.000Z",
+      "id": "388e5ef892f6c8f448f60060f855afef"
+    },
     {
       "date": "Le lundi 4 mai 2026 de  11:25:00 à  15:00:00",
       "streets": "HILLCREST SODNAC, AVE CARDINAL ET LES ALENTOURS",

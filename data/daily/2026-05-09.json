@@ -1,8 +1,8 @@
 {
   "date": "2026-05-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-08T16:26:02.995Z",
-  "outageCount": 5,
+  "generated": "2026-05-08T17:27:33.264Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le samedi 9 mai 2026 de  08:30:00 à  17:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-05-09T04:30:00.000Z",
       "to": "2026-05-09T10:30:00.000Z",
       "id": "41652a73198d4d54f0b4278ec7177444"
+    },
+    {
+      "date": "Le samedi 9 mai 2026 de  08:30:00 à  14:30:00",
+      "locality": "SODNAC",
+      "localitySlug": "sodnac",
+      "streets": "Dreamton park et Villeneuve Apartment",
+      "district": "plainewilhems",
+      "from": "2026-05-09T04:30:00.000Z",
+      "to": "2026-05-09T10:30:00.000Z",
+      "id": "388e5ef892f6c8f448f60060f855afef"
     },
     {
       "date": "Le samedi 9 mai 2026 de  08:00:00 à  15:00:00",
