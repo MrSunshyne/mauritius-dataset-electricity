@@ -1,8 +1,8 @@
 {
   "date": "2026-05-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-09T14:20:45.049Z",
-  "outageCount": 9,
+  "generated": "2026-05-09T15:16:16.928Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le samedi 9 mai 2026 de  08:30:00 à  17:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-05-09T03:00:00.000Z",
       "to": "2026-05-09T08:00:00.000Z",
       "id": "589ce4e4570fcb19c291dae0a081deed"
+    },
+    {
+      "date": "Le samedi 9 mai 2026 de  18:50:00 à  21:00:00",
+      "locality": "VIEUX GRAND PORT",
+      "localitySlug": "vieux-grand-port",
+      "streets": "VIEUX GRAND PORT, BOIS DES AMOURETTES, BAMBOUS VIRIEUX, GRAND SABLE",
+      "district": "grandport",
+      "from": "2026-05-09T14:50:00.000Z",
+      "to": "2026-05-09T17:00:00.000Z",
+      "id": "1aaba9eafa63769b2a28bfb688afdb99"
     },
     {
       "date": "Le samedi 9 mai 2026 de  08:30:00 à  15:30:00",

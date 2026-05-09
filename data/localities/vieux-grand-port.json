@@ -2,11 +2,18 @@
   "slug": "vieux-grand-port",
   "name": "VIEUX GRAND PORT",
   "district": "grandport",
-  "generated": "2026-05-09T14:20:45.445Z",
-  "outageCount": 10,
+  "generated": "2026-05-09T15:16:17.262Z",
+  "outageCount": 11,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2026-03-05",
+  "lastOutage": "2026-05-09",
   "outages": [
+    {
+      "date": "Le samedi 9 mai 2026 de  18:50:00 à  21:00:00",
+      "streets": "VIEUX GRAND PORT, BOIS DES AMOURETTES, BAMBOUS VIRIEUX, GRAND SABLE",
+      "from": "2026-05-09T14:50:00.000Z",
+      "to": "2026-05-09T17:00:00.000Z",
+      "id": "1aaba9eafa63769b2a28bfb688afdb99"
+    },
     {
       "date": "Le jeudi 5 mars 2026 de  09:00:00 à  13:00:00",
       "streets": "CHEMIN STATION VIEW GRAND PORT",
