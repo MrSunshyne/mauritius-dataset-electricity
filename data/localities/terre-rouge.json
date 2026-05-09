@@ -2,11 +2,18 @@
   "slug": "terre-rouge",
   "name": "TERRE ROUGE",
   "district": "pamplemousses",
-  "generated": "2026-05-08T18:23:40.444Z",
-  "outageCount": 106,
+  "generated": "2026-05-09T06:38:08.011Z",
+  "outageCount": 107,
   "firstOutage": "2022-03-14",
-  "lastOutage": "2026-03-29",
+  "lastOutage": "2026-05-09",
   "outages": [
+    {
+      "date": "Le samedi 9 mai 2026 de  08:30:00 à  15:00:00",
+      "streets": "TERRE ROUGE ET VENGARD RODRIGUES",
+      "from": "2026-05-09T04:30:00.000Z",
+      "to": "2026-05-09T11:00:00.000Z",
+      "id": "dadbd717328daf0a1f72f46effb2a64b"
+    },
     {
       "date": "Le dimanche 29 mars 2026 de  08:30:00 à  15:00:00",
       "streets": "Dans les environs de Rte St Joseph, Morc Peerun, Morc Green Park, Camp La Boue et les régions avoisinantes",

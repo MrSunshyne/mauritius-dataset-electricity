@@ -2,11 +2,18 @@
   "slug": "bonne-terre",
   "name": "BONNE TERRE",
   "district": "plainewilhems",
-  "generated": "2026-05-08T18:23:40.188Z",
-  "outageCount": 14,
+  "generated": "2026-05-09T06:38:07.746Z",
+  "outageCount": 15,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-02-17",
+  "lastOutage": "2026-05-09",
   "outages": [
+    {
+      "date": "Le samedi 9 mai 2026 de  09:00:00 à  10:00:00",
+      "streets": "BONNE TERRE VACOAS",
+      "from": "2026-05-09T05:00:00.000Z",
+      "to": "2026-05-09T06:00:00.000Z",
+      "id": "439ef4cdd15f94e6c4c34dc37b4afa48"
+    },
     {
       "date": "Le mardi 17 février 2026 de  19:25:00 à  22:30:00",
       "streets": "BONNE TERRE",

@@ -1,8 +1,8 @@
 {
   "date": "2026-05-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-08T18:23:40.125Z",
-  "outageCount": 6,
+  "generated": "2026-05-09T06:38:07.684Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le samedi 9 mai 2026 de  08:30:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-05-09T04:30:00.000Z",
       "to": "2026-05-09T13:00:00.000Z",
       "id": "ab765a769df0a8c87ba59a9f41ff0c4d"
+    },
+    {
+      "date": "Le samedi 9 mai 2026 de  07:00:00 à  12:00:00",
+      "locality": "LE BOUCHON",
+      "localitySlug": "le-bouchon",
+      "streets": "CHAPELLE LANE LE BOUCHON",
+      "district": "grandport",
+      "from": "2026-05-09T03:00:00.000Z",
+      "to": "2026-05-09T08:00:00.000Z",
+      "id": "589ce4e4570fcb19c291dae0a081deed"
     },
     {
       "date": "Le samedi 9 mai 2026 de  08:30:00 à  15:30:00",
@@ -55,6 +65,16 @@
       "id": "388e5ef892f6c8f448f60060f855afef"
     },
     {
+      "date": "Le samedi 9 mai 2026 de  09:00:00 à  10:00:00",
+      "locality": "BONNE TERRE",
+      "localitySlug": "bonne-terre",
+      "streets": "BONNE TERRE VACOAS",
+      "district": "plainewilhems",
+      "from": "2026-05-09T05:00:00.000Z",
+      "to": "2026-05-09T06:00:00.000Z",
+      "id": "439ef4cdd15f94e6c4c34dc37b4afa48"
+    },
+    {
       "date": "Le samedi 9 mai 2026 de  08:00:00 à  15:00:00",
       "locality": "PEREYBERE",
       "localitySlug": "pereybere",
@@ -63,6 +83,16 @@
       "from": "2026-05-09T04:00:00.000Z",
       "to": "2026-05-09T11:00:00.000Z",
       "id": "e73e67b19a44476b91077a43839f7f54"
+    },
+    {
+      "date": "Le samedi 9 mai 2026 de  08:30:00 à  15:00:00",
+      "locality": "TERRE ROUGE(RODRIGUES)",
+      "localitySlug": "terre-rouge",
+      "streets": "TERRE ROUGE ET VENGARD RODRIGUES",
+      "district": "rodrigues",
+      "from": "2026-05-09T04:30:00.000Z",
+      "to": "2026-05-09T11:00:00.000Z",
+      "id": "dadbd717328daf0a1f72f46effb2a64b"
     }
   ]
 }

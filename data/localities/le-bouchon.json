@@ -2,11 +2,18 @@
   "slug": "le-bouchon",
   "name": "LE BOUCHON",
   "district": "grandport",
-  "generated": "2026-05-08T18:23:40.301Z",
-  "outageCount": 16,
+  "generated": "2026-05-09T06:38:07.860Z",
+  "outageCount": 17,
   "firstOutage": "2022-06-28",
-  "lastOutage": "2026-03-02",
+  "lastOutage": "2026-05-09",
   "outages": [
+    {
+      "date": "Le samedi 9 mai 2026 de  07:00:00 à  12:00:00",
+      "streets": "CHAPELLE LANE LE BOUCHON",
+      "from": "2026-05-09T03:00:00.000Z",
+      "to": "2026-05-09T08:00:00.000Z",
+      "id": "589ce4e4570fcb19c291dae0a081deed"
+    },
     {
       "date": "Le lundi 2 mars 2026 de  09:00:00 à  12:00:00",
       "streets": "PART OF LE BOUCHON",
