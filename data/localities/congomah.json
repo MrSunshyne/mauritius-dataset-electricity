@@ -2,11 +2,18 @@
   "slug": "congomah",
   "name": "CONGOMAH",
   "district": "pamplemousses",
-  "generated": "2026-05-09T18:14:15.894Z",
-  "outageCount": 21,
+  "generated": "2026-05-10T06:49:03.249Z",
+  "outageCount": 22,
   "firstOutage": "2022-08-01",
-  "lastOutage": "2026-03-23",
+  "lastOutage": "2026-05-10",
   "outages": [
+    {
+      "date": "Le dimanche 10 mai 2026 de  09:30:00 à  01:00:00",
+      "streets": "BLACKBURN RD-ROYAL RD CONGOMAH",
+      "from": "2026-05-10T05:30:00.000Z",
+      "to": "2026-05-09T21:00:00.000Z",
+      "id": "233f353c2afa3490993ae13980607aec"
+    },
     {
       "date": "Le lundi 23 mars 2026 de  09:50:00 à  12:00:00",
       "streets": "BELVEDERE ROAD ET LES ALENTOURS",

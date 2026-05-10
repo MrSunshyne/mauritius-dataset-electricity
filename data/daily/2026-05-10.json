@@ -1,8 +1,8 @@
 {
   "date": "2026-05-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-09T18:14:15.785Z",
-  "outageCount": 10,
+  "generated": "2026-05-10T06:49:03.142Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le dimanche 10 mai 2026 de  08:30:00 à  15:30:00",
@@ -43,6 +43,16 @@
       "from": "2026-05-10T04:30:00.000Z",
       "to": "2026-05-10T12:00:00.000Z",
       "id": "aeb9176ae5032c5e2e6891ec08be8313"
+    },
+    {
+      "date": "Le dimanche 10 mai 2026 de  09:30:00 à  01:00:00",
+      "locality": "CONGOMAH",
+      "localitySlug": "congomah",
+      "streets": "BLACKBURN RD-ROYAL RD CONGOMAH",
+      "district": "pamplemousses",
+      "from": "2026-05-10T05:30:00.000Z",
+      "to": "2026-05-09T21:00:00.000Z",
+      "id": "233f353c2afa3490993ae13980607aec"
     },
     {
       "date": "Le dimanche 10 mai 2026 de  08:30:00 à  17:00:00",
@@ -103,6 +113,16 @@
       "from": "2026-05-10T04:30:00.000Z",
       "to": "2026-05-10T11:00:00.000Z",
       "id": "24ef9bbdacad0121d739f540b80e673b"
+    },
+    {
+      "date": "Le dimanche 10 mai 2026 de  09:00:00 à  11:00:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "VRS 1 SOUILLAC",
+      "district": "savanne",
+      "from": "2026-05-10T05:00:00.000Z",
+      "to": "2026-05-10T07:00:00.000Z",
+      "id": "65ddffb7e1c6e3dcc4154c360053c7c8"
     }
   ]
 }
