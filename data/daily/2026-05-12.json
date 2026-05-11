@@ -1,8 +1,8 @@
 {
   "date": "2026-05-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-11T09:01:16.298Z",
-  "outageCount": 1,
+  "generated": "2026-05-11T10:59:37.508Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le mardi 12 mai 2026 de  09:30:00 à  14:30:00",
@@ -13,6 +13,66 @@
       "from": "2026-05-12T05:30:00.000Z",
       "to": "2026-05-12T10:30:00.000Z",
       "id": "76a1f94c85453b5e4e369e2f3bbdfed2"
+    },
+    {
+      "date": "Le mardi 12 mai 2026 de  08:30:00 à  16:00:00",
+      "locality": "SAINT FRANCOIS",
+      "localitySlug": "saint-francois",
+      "streets": "LE VILLAGE DE SAINT FRANCOIS",
+      "district": "portlouis",
+      "from": "2026-05-12T04:30:00.000Z",
+      "to": "2026-05-12T12:00:00.000Z",
+      "id": "5f5cb3feadc26508c8f5c1ee6a7dcd20"
+    },
+    {
+      "date": "Le mardi 12 mai 2026 de  08:30:00 à  16:00:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "LA ROUTE COTIERE DE GRAND GAUBE",
+      "district": "rivieredurempart",
+      "from": "2026-05-12T04:30:00.000Z",
+      "to": "2026-05-12T12:00:00.000Z",
+      "id": "d28ac8ba82a87b4307cbec12938d2dfb"
+    },
+    {
+      "date": "Le mardi 12 mai 2026 de  08:30:00 à  16:00:00",
+      "locality": "CALODYNE",
+      "localitySlug": "calodyne",
+      "streets": "LE VILLAGE DE CALODYNE",
+      "district": "rivieredurempart",
+      "from": "2026-05-12T04:30:00.000Z",
+      "to": "2026-05-12T12:00:00.000Z",
+      "id": "270a8ba7d79aaadee15efac3375fdb84"
+    },
+    {
+      "date": "Le mardi 12 mai 2026 de  08:30:00 à  16:00:00",
+      "locality": "CAP MALHEUREUX",
+      "localitySlug": "cap-malheureux",
+      "streets": "LE VILLAGE DE CAP MALHEUREUX",
+      "district": "rivieredurempart",
+      "from": "2026-05-12T04:30:00.000Z",
+      "to": "2026-05-12T12:00:00.000Z",
+      "id": "8833add2b3f1b9417e7c77802d17d86d"
+    },
+    {
+      "date": "Le mardi 12 mai 2026 de  08:30:00 à  16:00:00",
+      "locality": "ANSE LA RAIE",
+      "localitySlug": "anse-la-raie",
+      "streets": "LE VILLAGE DE ANSE LA RAIE",
+      "district": "rivieredurempart",
+      "from": "2026-05-12T04:30:00.000Z",
+      "to": "2026-05-12T12:00:00.000Z",
+      "id": "176acca47d28bccefc2c21dc8226374d"
+    },
+    {
+      "date": "Le mardi 12 mai 2026 de  08:30:00 à  16:00:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "DANS LES ENVIRONS DE MONT MASCAL, MARE SECHE ET REUNION MAUREL",
+      "district": "rivieredurempart",
+      "from": "2026-05-12T04:30:00.000Z",
+      "to": "2026-05-12T12:00:00.000Z",
+      "id": "ca6a829520ba7334261ae6eb7a3bdb3e"
     }
   ]
 }

@@ -2,11 +2,18 @@
   "slug": "calodyne",
   "name": "CALODYNE",
   "district": "rivieredurempart",
-  "generated": "2026-05-11T09:01:16.369Z",
-  "outageCount": 35,
+  "generated": "2026-05-11T10:59:37.578Z",
+  "outageCount": 36,
   "firstOutage": "2022-09-10",
-  "lastOutage": "2026-03-06",
+  "lastOutage": "2026-05-12",
   "outages": [
+    {
+      "date": "Le mardi 12 mai 2026 de  08:30:00 à  16:00:00",
+      "streets": "LE VILLAGE DE CALODYNE",
+      "from": "2026-05-12T04:30:00.000Z",
+      "to": "2026-05-12T12:00:00.000Z",
+      "id": "270a8ba7d79aaadee15efac3375fdb84"
+    },
     {
       "date": "Le vendredi 6 mars 2026 de  10:00:00 à  14:30:00",
       "streets": "BUTTE A LHERBE CALODYNE",

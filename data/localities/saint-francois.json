@@ -2,11 +2,18 @@
   "slug": "saint-francois",
   "name": "SAINT FRANCOIS",
   "district": "portlouis",
-  "generated": "2026-05-11T09:01:16.612Z",
-  "outageCount": 21,
+  "generated": "2026-05-11T10:59:37.824Z",
+  "outageCount": 22,
   "firstOutage": "2022-05-12",
-  "lastOutage": "2025-12-23",
+  "lastOutage": "2026-05-12",
   "outages": [
+    {
+      "date": "Le mardi 12 mai 2026 de  08:30:00 à  16:00:00",
+      "streets": "LE VILLAGE DE SAINT FRANCOIS",
+      "from": "2026-05-12T04:30:00.000Z",
+      "to": "2026-05-12T12:00:00.000Z",
+      "id": "5f5cb3feadc26508c8f5c1ee6a7dcd20"
+    },
     {
       "date": "Le mardi 23 décembre 2025 de  09:00:00 à  10:30:00",
       "streets": "TV LANE ET EN PARTIE ROYAL ROAD",

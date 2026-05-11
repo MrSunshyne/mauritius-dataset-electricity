@@ -2,11 +2,18 @@
   "slug": "cap-malheureux",
   "name": "CAP MALHEUREUX",
   "district": "rivieredurempart",
-  "generated": "2026-05-11T09:01:16.388Z",
-  "outageCount": 52,
+  "generated": "2026-05-11T10:59:37.597Z",
+  "outageCount": 53,
   "firstOutage": "2022-07-14",
-  "lastOutage": "2026-04-11",
+  "lastOutage": "2026-05-12",
   "outages": [
+    {
+      "date": "Le mardi 12 mai 2026 de  08:30:00 à  16:00:00",
+      "streets": "LE VILLAGE DE CAP MALHEUREUX",
+      "from": "2026-05-12T04:30:00.000Z",
+      "to": "2026-05-12T12:00:00.000Z",
+      "id": "8833add2b3f1b9417e7c77802d17d86d"
+    },
     {
       "date": "Le samedi 11 avril 2026 de  18:50:00 à  22:00:00",
       "streets": "20 Pied Road Grand Bay, Pavillon , Cap Malheureux ,  Bain Boeuf ,  St Francois , Calodyne , Butte  A Lherbe,Grand Gaube, Petit Raffray.",
