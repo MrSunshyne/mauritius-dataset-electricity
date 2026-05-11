@@ -1,8 +1,8 @@
 {
   "date": "2026-05-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-11T13:51:17.167Z",
-  "outageCount": 5,
+  "generated": "2026-05-11T14:59:11.420Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le lundi 11 mai 2026 de  08:30:00 à  17:00:00",
@@ -35,6 +35,16 @@
       "id": "2fba14714c709b0edb10a68a0b2c922a"
     },
     {
+      "date": "Le lundi 11 mai 2026 de  18:00:00 à  23:00:00",
+      "locality": "LA ROSA",
+      "localitySlug": "la-rosa",
+      "streets": "LA ROSA NEW GROVE : ROUTE ROYALE DANS LES ENVIRONS PHARMACIE/QUINCAILLERIE JAGARNATH.",
+      "district": "grandport",
+      "from": "2026-05-11T14:00:00.000Z",
+      "to": "2026-05-11T19:00:00.000Z",
+      "id": "afb28176f7334c08a65e41d4924dbaba"
+    },
+    {
       "date": "Le lundi 11 mai 2026 de  08:45:00 à  11:00:00",
       "locality": "CAMP MARCELIN",
       "localitySlug": "camp-marcelin",
@@ -53,6 +63,16 @@
       "from": "2026-05-11T05:20:00.000Z",
       "to": "2026-05-11T09:00:00.000Z",
       "id": "222a2b4f0cea7ac19e68c46e896033c5"
+    },
+    {
+      "date": "Le lundi 11 mai 2026 de  18:00:00 à  22:30:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "CHEMIN CENTRE SOCIAL ET DANS LES ENVIRONS L-ECOLE.",
+      "district": "rivieredurempart",
+      "from": "2026-05-11T14:00:00.000Z",
+      "to": "2026-05-11T18:30:00.000Z",
+      "id": "51646f26e105c36e7af7d1bd303862d3"
     }
   ]
 }

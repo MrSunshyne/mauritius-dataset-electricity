@@ -2,11 +2,18 @@
   "slug": "goodlands",
   "name": "GOODLANDS",
   "district": "rivieredurempart",
-  "generated": "2026-05-11T13:51:17.300Z",
-  "outageCount": 134,
+  "generated": "2026-05-11T14:59:11.561Z",
+  "outageCount": 135,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-05-08",
+  "lastOutage": "2026-05-11",
   "outages": [
+    {
+      "date": "Le lundi 11 mai 2026 de  18:00:00 à  22:30:00",
+      "streets": "CHEMIN CENTRE SOCIAL ET DANS LES ENVIRONS L-ECOLE.",
+      "from": "2026-05-11T14:00:00.000Z",
+      "to": "2026-05-11T18:30:00.000Z",
+      "id": "51646f26e105c36e7af7d1bd303862d3"
+    },
     {
       "date": "Le vendredi 8 mai 2026 de  12:30:00 à  13:30:00",
       "streets": "RAMNAGAR RD ET LES ALENTOURS",

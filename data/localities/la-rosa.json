@@ -2,11 +2,18 @@
   "slug": "la-rosa",
   "name": "LA ROSA",
   "district": "grandport",
-  "generated": "2026-05-11T13:51:17.332Z",
-  "outageCount": 11,
+  "generated": "2026-05-11T14:59:11.593Z",
+  "outageCount": 12,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-02-02",
+  "lastOutage": "2026-05-11",
   "outages": [
+    {
+      "date": "Le lundi 11 mai 2026 de  18:00:00 à  23:00:00",
+      "streets": "LA ROSA NEW GROVE : ROUTE ROYALE DANS LES ENVIRONS PHARMACIE/QUINCAILLERIE JAGARNATH.",
+      "from": "2026-05-11T14:00:00.000Z",
+      "to": "2026-05-11T19:00:00.000Z",
+      "id": "afb28176f7334c08a65e41d4924dbaba"
+    },
     {
       "date": "Le lundi 2 février 2026 de  16:40:00 à  18:40:00",
       "streets": "LINK ROAD LA ROSA.",
