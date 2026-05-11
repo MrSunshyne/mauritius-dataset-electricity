@@ -1,8 +1,8 @@
 {
   "date": "2026-05-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-11T16:03:43.228Z",
-  "outageCount": 8,
+  "generated": "2026-05-11T17:36:20.877Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le lundi 11 mai 2026 de  08:30:00 à  17:00:00",
@@ -83,6 +83,16 @@
       "from": "2026-05-11T14:00:00.000Z",
       "to": "2026-05-11T18:30:00.000Z",
       "id": "51646f26e105c36e7af7d1bd303862d3"
+    },
+    {
+      "date": "Le lundi 11 mai 2026 de  20:00:00 à  00:00:00",
+      "locality": "ROCHES NOIRES",
+      "localitySlug": "roches-noires",
+      "streets": "TAGORE LANE ROAD ROYAL RD-NR LA CAVE MADAME ROCHE NOIRES",
+      "district": "rivieredurempart",
+      "from": "2026-05-11T16:00:00.000Z",
+      "to": "2026-05-10T20:00:00.000Z",
+      "id": "5d7ae2adfe5c3f9b1639d9a17e72768c"
     }
   ]
 }
