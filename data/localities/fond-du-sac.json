@@ -2,11 +2,18 @@
   "slug": "fond-du-sac",
   "name": "FOND DU SAC",
   "district": "pamplemousses",
-  "generated": "2026-05-11T14:59:11.555Z",
-  "outageCount": 42,
+  "generated": "2026-05-11T16:03:43.361Z",
+  "outageCount": 43,
   "firstOutage": "2022-06-16",
-  "lastOutage": "2026-04-22",
+  "lastOutage": "2026-05-11",
   "outages": [
+    {
+      "date": "Le lundi 11 mai 2026 de  18:00:00 à  23:00:00",
+      "streets": "ROYAL ROAD, FORBACH ROAD ET DANS LES ENVIRONS DISPENSAIRE/SHIVALA.",
+      "from": "2026-05-11T14:00:00.000Z",
+      "to": "2026-05-11T19:00:00.000Z",
+      "id": "224b88d6c1abe94bd198e258518b4a46"
+    },
     {
       "date": "Le mercredi 22 avril 2026 de  14:50:00 à  17:00:00",
       "streets": "ROYAL ROAD TOWARDS BELLE VUE PILOT & SURROUNDINGS",

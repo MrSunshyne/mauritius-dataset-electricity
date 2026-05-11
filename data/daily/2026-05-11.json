@@ -1,8 +1,8 @@
 {
   "date": "2026-05-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-11T14:59:11.420Z",
-  "outageCount": 7,
+  "generated": "2026-05-11T16:03:43.228Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le lundi 11 mai 2026 de  08:30:00 à  17:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-05-11T04:45:00.000Z",
       "to": "2026-05-11T07:00:00.000Z",
       "id": "9c8bec26ef57798467e52b9be274e6ad"
+    },
+    {
+      "date": "Le lundi 11 mai 2026 de  18:00:00 à  23:00:00",
+      "locality": "FOND DU SAC",
+      "localitySlug": "fond-du-sac",
+      "streets": "ROYAL ROAD, FORBACH ROAD ET DANS LES ENVIRONS DISPENSAIRE/SHIVALA.",
+      "district": "pamplemousses",
+      "from": "2026-05-11T14:00:00.000Z",
+      "to": "2026-05-11T19:00:00.000Z",
+      "id": "224b88d6c1abe94bd198e258518b4a46"
     },
     {
       "date": "Le lundi 11 mai 2026 de  09:20:00 à  13:00:00",
