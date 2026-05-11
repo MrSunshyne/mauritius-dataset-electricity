@@ -2,11 +2,18 @@
   "slug": "melviile",
   "name": "MELVIILE",
   "district": "rivieredurempart",
-  "generated": "2026-05-10T18:14:28.043Z",
-  "outageCount": 16,
+  "generated": "2026-05-11T07:01:56.562Z",
+  "outageCount": 17,
   "firstOutage": "2022-08-26",
-  "lastOutage": "2026-04-10",
+  "lastOutage": "2026-05-11",
   "outages": [
+    {
+      "date": "Le lundi 11 mai 2026 de  09:20:00 à  13:00:00",
+      "streets": "COUAQUAUD BRANCH RD ET LES ALENTOURS",
+      "from": "2026-05-11T05:20:00.000Z",
+      "to": "2026-05-11T09:00:00.000Z",
+      "id": "222a2b4f0cea7ac19e68c46e896033c5"
+    },
     {
       "date": "Le vendredi 10 avril 2026 de  12:30:00 à  14:30:00",
       "streets": "MELLEVILLE",
