@@ -2,11 +2,25 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-05-12T14:52:03.697Z",
-  "outageCount": 210,
+  "generated": "2026-05-12T15:47:22.698Z",
+  "outageCount": 212,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-05-06",
+  "lastOutage": "2026-05-15",
   "outages": [
+    {
+      "date": "Le vendredi 15 mai 2026 de  08:30:00 à  14:00:00",
+      "streets": "LES ABONNES DE REPOSOIRE, PIMENTS, PISTACHES, BAIE TOPAZE, MONTAGNE CROUPIER, MONTAGNE PLATE ET CAMP PINTADE.",
+      "from": "2026-05-15T04:30:00.000Z",
+      "to": "2026-05-15T10:00:00.000Z",
+      "id": "b62cadbaeee7d4585dced326157b18fe"
+    },
+    {
+      "date": "Le jeudi 14 mai 2026 de  09:00:00 à  12:00:00",
+      "streets": "LES ABONNES DE RIVIERE COCO ET ILE MICHEL.",
+      "from": "2026-05-14T05:00:00.000Z",
+      "to": "2026-05-14T08:00:00.000Z",
+      "id": "e3dbbb5a011719cc7c0358a0a3674d0f"
+    },
     {
       "date": "Le mercredi 6 mai 2026 de  07:00:00 à  09:00:00",
       "streets": "PORT MATHURIN, FOND LA DIGUE, CREVE COEUR ET ROSEAUX",
