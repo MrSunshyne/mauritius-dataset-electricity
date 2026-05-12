@@ -2,11 +2,18 @@
   "slug": "coromandel-rhill",
   "name": "COROMANDEL - R.HILL",
   "district": "plainewilhems",
-  "generated": "2026-05-12T09:50:42.372Z",
-  "outageCount": 85,
+  "generated": "2026-05-12T10:45:32.899Z",
+  "outageCount": 86,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-05-09",
+  "lastOutage": "2026-05-14",
   "outages": [
+    {
+      "date": "Le jeudi 14 mai 2026 de  08:30:00 à  15:30:00",
+      "streets": "Chapman View, Ave Black Molly, Ave Angel Fish, Ave Blood Fish, Ave Zinnia, Ave Hibiscus et les environs",
+      "from": "2026-05-14T04:30:00.000Z",
+      "to": "2026-05-14T11:30:00.000Z",
+      "id": "337edce89a513897633e68f4de03b4e0"
+    },
     {
       "date": "Le samedi 9 mai 2026 de  08:30:00 à  14:30:00",
       "streets": "Chapman View, Archer Ave, Guppy Ave et les environs",

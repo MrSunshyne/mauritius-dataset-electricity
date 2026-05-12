@@ -1,8 +1,8 @@
 {
   "date": "2026-05-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-12T09:50:42.262Z",
-  "outageCount": 2,
+  "generated": "2026-05-12T10:45:32.781Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le jeudi 14 mai 2026 de  08:45:00 à  15:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-05-14T05:00:00.000Z",
       "to": "2026-05-14T13:00:00.000Z",
       "id": "26cff02b4c5c4ab54a148910334266ee"
+    },
+    {
+      "date": "Le jeudi 14 mai 2026 de  08:30:00 à  15:30:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "Chapman View, Ave Black Molly, Ave Angel Fish, Ave Blood Fish, Ave Zinnia, Ave Hibiscus et les environs",
+      "district": "plainewilhems",
+      "from": "2026-05-14T04:30:00.000Z",
+      "to": "2026-05-14T11:30:00.000Z",
+      "id": "337edce89a513897633e68f4de03b4e0"
     }
   ]
 }

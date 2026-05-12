@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-05-12T09:50:42.523Z",
-  "outageCount": 375,
+  "generated": "2026-05-12T10:45:33.062Z",
+  "outageCount": 376,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-05-02",
+  "lastOutage": "2026-05-12",
   "outages": [
+    {
+      "date": "Le mardi 12 mai 2026 de  15:30:00 à  17:30:00",
+      "streets": "Ave Palmier, Orchidee, Capuccine, DÉpinay, Victoria, Hennessy",
+      "from": "2026-05-12T11:30:00.000Z",
+      "to": "2026-05-12T13:30:00.000Z",
+      "id": "977810736ea7054212e26d264b9a50f1"
+    },
     {
       "date": "Le samedi 2 mai 2026 de  08:30:00 à  13:30:00",
       "streets": "AVENUE BERTHAUD/DANSANT/RAJCOOMAR/ANTHELME/OLLIER.",

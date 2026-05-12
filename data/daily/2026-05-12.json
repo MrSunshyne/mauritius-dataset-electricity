@@ -1,8 +1,8 @@
 {
   "date": "2026-05-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-12T09:50:42.262Z",
-  "outageCount": 11,
+  "generated": "2026-05-12T10:45:32.781Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le mardi 12 mai 2026 de  09:00:00 à  12:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-05-12T09:30:00.000Z",
       "to": "2026-05-12T13:00:00.000Z",
       "id": "79762c99ecc4bb96109ecb6a9230425c"
+    },
+    {
+      "date": "Le mardi 12 mai 2026 de  15:30:00 à  17:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave Palmier, Orchidee, Capuccine, DÉpinay, Victoria, Hennessy",
+      "district": "plainewilhems",
+      "from": "2026-05-12T11:30:00.000Z",
+      "to": "2026-05-12T13:30:00.000Z",
+      "id": "977810736ea7054212e26d264b9a50f1"
     },
     {
       "date": "Le mardi 12 mai 2026 de  08:30:00 à  16:00:00",
