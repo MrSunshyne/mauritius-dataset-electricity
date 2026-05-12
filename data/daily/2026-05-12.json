@@ -1,8 +1,8 @@
 {
   "date": "2026-05-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-12T16:40:04.520Z",
-  "outageCount": 12,
+  "generated": "2026-05-12T17:37:13.268Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le mardi 12 mai 2026 de  09:00:00 à  12:00:00",
@@ -113,6 +113,16 @@
       "from": "2026-05-12T04:30:00.000Z",
       "to": "2026-05-12T12:00:00.000Z",
       "id": "ca6a829520ba7334261ae6eb7a3bdb3e"
+    },
+    {
+      "date": "Le mardi 12 mai 2026 de  19:00:00 à  01:30:00",
+      "locality": "BAIN BOEUF",
+      "localitySlug": "bain-boeuf",
+      "streets": "BEAU MANGUIER BAIN BOEUF",
+      "district": "rivieredurempart",
+      "from": "2026-05-12T15:00:00.000Z",
+      "to": "2026-05-11T21:30:00.000Z",
+      "id": "afdd93d888b09cdcb5a46d06e4105200"
     },
     {
       "date": "Le mardi 12 mai 2026 de  09:00:00 à  14:00:00",
