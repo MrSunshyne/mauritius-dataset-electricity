@@ -2,11 +2,18 @@
   "slug": "camp-marcelin",
   "name": "CAMP MARCELIN",
   "district": "moka",
-  "generated": "2026-05-11T18:31:49.763Z",
-  "outageCount": 4,
+  "generated": "2026-05-12T06:51:37.864Z",
+  "outageCount": 5,
   "firstOutage": "2023-04-16",
-  "lastOutage": "2026-05-11",
+  "lastOutage": "2026-05-14",
   "outages": [
+    {
+      "date": "Le jeudi 14 mai 2026 de  08:45:00 à  15:00:00",
+      "streets": "Camp Marcelin et Quatre Cocos dans le périmètre de NSLD, NHDC, Church Lane, Dasan Street, Avenue Azaléa, High Street, Billar Street & Camelia Avenue.",
+      "from": "2026-05-14T04:45:00.000Z",
+      "to": "2026-05-14T11:00:00.000Z",
+      "id": "d87da233e3ac66caf668d5a47cc9f608"
+    },
     {
       "date": "Le lundi 11 mai 2026 de  08:45:00 à  11:00:00",
       "streets": "Camp Marcelin et Quatre Cocos dans le périmètre de NSLD, NHDC, Church Lane, Dasan Street, Avenue Azaléa, High Street, Billar Street & Camelia Avenue.",

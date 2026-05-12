@@ -2,11 +2,18 @@
   "slug": "chamarel",
   "name": "CHAMAREL",
   "district": "blackriver",
-  "generated": "2026-05-11T18:31:49.779Z",
-  "outageCount": 37,
+  "generated": "2026-05-12T06:51:37.879Z",
+  "outageCount": 38,
   "firstOutage": "2022-03-24",
-  "lastOutage": "2026-04-02",
+  "lastOutage": "2026-05-12",
   "outages": [
+    {
+      "date": "Le mardi 12 mai 2026 de  09:00:00 à  12:00:00",
+      "streets": "Chamarel",
+      "from": "2026-05-12T05:00:00.000Z",
+      "to": "2026-05-12T08:00:00.000Z",
+      "id": "63c825aedff24cbbee6be3cdbec0e409"
+    },
     {
       "date": "Le jeudi 2 avril 2026 de  00:00:00 à  07:00:00",
       "streets": "VARANGUE SUR MONDE PLAINE CHAMPAGNE",

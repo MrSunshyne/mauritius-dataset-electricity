@@ -2,11 +2,18 @@
   "slug": "riviere-coco",
   "name": "RIVIERE COCO(RODRIGUES)",
   "district": "rodrigues",
-  "generated": "2026-05-11T18:31:49.980Z",
-  "outageCount": 2,
+  "generated": "2026-05-12T06:51:38.062Z",
+  "outageCount": 3,
   "firstOutage": "2023-03-11",
-  "lastOutage": "2026-04-25",
+  "lastOutage": "2026-05-12",
   "outages": [
+    {
+      "date": "Le mardi 12 mai 2026 de  09:00:00 à  14:00:00",
+      "streets": "Riviere Coco et Ile Michel",
+      "from": "2026-05-12T05:00:00.000Z",
+      "to": "2026-05-12T10:00:00.000Z",
+      "id": "047812962ebfe4e9c7a564c7d50c711e"
+    },
     {
       "date": "Le samedi 25 avril 2026 de  08:30:00 à  15:00:00",
       "streets": "Riviere Coco",

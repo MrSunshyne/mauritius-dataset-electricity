@@ -1,9 +1,29 @@
 {
   "date": "2026-05-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-11T18:31:49.681Z",
-  "outageCount": 7,
+  "generated": "2026-05-12T06:51:37.786Z",
+  "outageCount": 10,
   "outages": [
+    {
+      "date": "Le mardi 12 mai 2026 de  09:00:00 à  12:00:00",
+      "locality": "CHAMAREL",
+      "localitySlug": "chamarel",
+      "streets": "Chamarel",
+      "district": "blackriver",
+      "from": "2026-05-12T05:00:00.000Z",
+      "to": "2026-05-12T08:00:00.000Z",
+      "id": "63c825aedff24cbbee6be3cdbec0e409"
+    },
+    {
+      "date": "Le mardi 12 mai 2026 de  09:00:00 à  13:00:00",
+      "locality": "VALETTA",
+      "localitySlug": "valetta",
+      "streets": "MORC VRS VALETTA",
+      "district": "moka",
+      "from": "2026-05-12T05:00:00.000Z",
+      "to": "2026-05-12T09:00:00.000Z",
+      "id": "865762bff41a653c290c5961e1af45fd"
+    },
     {
       "date": "Le mardi 12 mai 2026 de  09:30:00 à  14:30:00",
       "locality": "VILLEBAGUE",
@@ -73,6 +93,16 @@
       "from": "2026-05-12T04:30:00.000Z",
       "to": "2026-05-12T12:00:00.000Z",
       "id": "ca6a829520ba7334261ae6eb7a3bdb3e"
+    },
+    {
+      "date": "Le mardi 12 mai 2026 de  09:00:00 à  14:00:00",
+      "locality": "RIVIERE COCO(RODRIGUES)",
+      "localitySlug": "riviere-coco",
+      "streets": "Riviere Coco et Ile Michel",
+      "district": "rodrigues",
+      "from": "2026-05-12T05:00:00.000Z",
+      "to": "2026-05-12T10:00:00.000Z",
+      "id": "047812962ebfe4e9c7a564c7d50c711e"
     }
   ]
 }
