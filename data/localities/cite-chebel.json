@@ -2,11 +2,18 @@
   "slug": "cite-chebel",
   "name": "CITE CHEBEL",
   "district": "plainewilhems",
-  "generated": "2026-05-12T08:53:47.084Z",
-  "outageCount": 33,
+  "generated": "2026-05-12T09:50:42.361Z",
+  "outageCount": 34,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-03-28",
+  "lastOutage": "2026-05-12",
   "outages": [
+    {
+      "date": "Le mardi 12 mai 2026 de  13:30:00 à  17:00:00",
+      "streets": "CHEBEL BR ROAD, LE BOSQUET, CAMP BERTHLOT, RICHE LIEU OPEN PRISON",
+      "from": "2026-05-12T09:30:00.000Z",
+      "to": "2026-05-12T13:00:00.000Z",
+      "id": "79762c99ecc4bb96109ecb6a9230425c"
+    },
     {
       "date": "Le samedi 28 mars 2026 de  08:30:00 à  14:00:00",
       "streets": "Ave Parakeet, Ave Pink Pigeon, Morc La Confiance et les environs",

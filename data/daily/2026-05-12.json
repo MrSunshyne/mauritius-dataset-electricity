@@ -1,8 +1,8 @@
 {
   "date": "2026-05-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-12T08:53:46.977Z",
-  "outageCount": 10,
+  "generated": "2026-05-12T09:50:42.262Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le mardi 12 mai 2026 de  09:00:00 à  12:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-05-12T05:30:00.000Z",
       "to": "2026-05-12T10:30:00.000Z",
       "id": "76a1f94c85453b5e4e369e2f3bbdfed2"
+    },
+    {
+      "date": "Le mardi 12 mai 2026 de  13:30:00 à  17:00:00",
+      "locality": "CITE CHEBEL",
+      "localitySlug": "cite-chebel",
+      "streets": "CHEBEL BR ROAD, LE BOSQUET, CAMP BERTHLOT, RICHE LIEU OPEN PRISON",
+      "district": "plainewilhems",
+      "from": "2026-05-12T09:30:00.000Z",
+      "to": "2026-05-12T13:00:00.000Z",
+      "id": "79762c99ecc4bb96109ecb6a9230425c"
     },
     {
       "date": "Le mardi 12 mai 2026 de  08:30:00 à  16:00:00",

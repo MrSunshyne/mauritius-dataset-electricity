@@ -1,8 +1,8 @@
 {
   "date": "2026-05-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-12T08:53:46.977Z",
-  "outageCount": 1,
+  "generated": "2026-05-12T09:50:42.262Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le jeudi 14 mai 2026 de  08:45:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-05-14T04:45:00.000Z",
       "to": "2026-05-14T11:00:00.000Z",
       "id": "d87da233e3ac66caf668d5a47cc9f608"
+    },
+    {
+      "date": "Le jeudi 14 mai 2026 de  09:00:00 à  17:00:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "En partie Ave Roches-Brunes, Ave S. K. Chady et les environs",
+      "district": "plainewilhems",
+      "from": "2026-05-14T05:00:00.000Z",
+      "to": "2026-05-14T13:00:00.000Z",
+      "id": "26cff02b4c5c4ab54a148910334266ee"
     }
   ]
 }

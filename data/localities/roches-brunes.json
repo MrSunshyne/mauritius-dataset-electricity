@@ -2,11 +2,18 @@
   "slug": "roches-brunes",
   "name": "ROCHES BRUNES",
   "district": "plainewilhems",
-  "generated": "2026-05-12T08:53:47.287Z",
-  "outageCount": 29,
+  "generated": "2026-05-12T09:50:42.546Z",
+  "outageCount": 30,
   "firstOutage": "2022-10-01",
-  "lastOutage": "2026-04-15",
+  "lastOutage": "2026-05-14",
   "outages": [
+    {
+      "date": "Le jeudi 14 mai 2026 de  09:00:00 à  17:00:00",
+      "streets": "En partie Ave Roches-Brunes, Ave S. K. Chady et les environs",
+      "from": "2026-05-14T05:00:00.000Z",
+      "to": "2026-05-14T13:00:00.000Z",
+      "id": "26cff02b4c5c4ab54a148910334266ee"
+    },
     {
       "date": "Le mercredi 15 avril 2026 de  13:00:00 à  15:00:00",
       "streets": "MORC LA COMETE AND NEARBY STREET",
