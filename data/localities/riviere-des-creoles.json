@@ -2,11 +2,18 @@
   "slug": "riviere-des-creoles",
   "name": "RIVIERE DES CREOLES",
   "district": "grandport",
-  "generated": "2026-05-13T09:03:44.638Z",
-  "outageCount": 20,
+  "generated": "2026-05-13T10:47:22.183Z",
+  "outageCount": 21,
   "firstOutage": "2022-06-30",
-  "lastOutage": "2026-03-17",
+  "lastOutage": "2026-05-13",
   "outages": [
+    {
+      "date": "Le mercredi 13 mai 2026 de  14:15:00 à  15:15:00",
+      "streets": "BON ESPOIR ROAD DANS LES ENVIRONS ECOLE GOUVERNEMENT.",
+      "from": "2026-05-13T10:15:00.000Z",
+      "to": "2026-05-13T11:15:00.000Z",
+      "id": "6c4f6cbdd8eaad3c0a4efbdc358afb2e"
+    },
     {
       "date": "Le mardi 17 mars 2026 de  21:00:00 à  00:30:00",
       "streets": "MORC VRS RIVIERE DE CREOLE",

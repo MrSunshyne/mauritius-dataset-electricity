@@ -1,8 +1,8 @@
 {
   "date": "2026-05-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-13T09:03:44.513Z",
-  "outageCount": 6,
+  "generated": "2026-05-13T10:47:22.059Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le jeudi 14 mai 2026 de  08:45:00 à  16:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-05-14T04:30:00.000Z",
       "to": "2026-05-14T11:30:00.000Z",
       "id": "337edce89a513897633e68f4de03b4e0"
+    },
+    {
+      "date": "Le jeudi 14 mai 2026 de  09:00:00 à  16:00:00",
+      "locality": "L-ESCALIER",
+      "localitySlug": "l-escalier",
+      "streets": "L’Escalier habitant dans le périmètre et les rues suivantes: SSR Lane, Adventist Lane et une partie de la Route Royale L’Escalier",
+      "district": "savanne",
+      "from": "2026-05-14T05:00:00.000Z",
+      "to": "2026-05-14T12:00:00.000Z",
+      "id": "084162bd1b419a2cd895894c863c3154"
     },
     {
       "date": "Le jeudi 14 mai 2026 de  09:00:00 à  12:00:00",

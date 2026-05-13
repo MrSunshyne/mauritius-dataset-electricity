@@ -2,11 +2,18 @@
   "slug": "l-escalier",
   "name": "L-ESCALIER",
   "district": "savanne",
-  "generated": "2026-05-13T09:03:44.588Z",
-  "outageCount": 34,
+  "generated": "2026-05-13T10:47:22.132Z",
+  "outageCount": 35,
   "firstOutage": "2022-03-30",
-  "lastOutage": "2026-04-26",
+  "lastOutage": "2026-05-14",
   "outages": [
+    {
+      "date": "Le jeudi 14 mai 2026 de  09:00:00 à  16:00:00",
+      "streets": "L’Escalier habitant dans le périmètre et les rues suivantes: SSR Lane, Adventist Lane et une partie de la Route Royale L’Escalier",
+      "from": "2026-05-14T05:00:00.000Z",
+      "to": "2026-05-14T12:00:00.000Z",
+      "id": "084162bd1b419a2cd895894c863c3154"
+    },
     {
       "date": "Le dimanche 26 avril 2026 de  09:00:00 à  17:00:00",
       "streets": "L’Escalier habitant dans le périmètre et les rues suivantes: Adventist Lane, Gangoo Lane, SSR Lane, Khoyratty Lane, Bhunjun Lane, Cader Bavah Lane, Nadal Lane et Cemetry Lane",
