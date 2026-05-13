@@ -2,11 +2,18 @@
   "slug": "palma",
   "name": "PALMA",
   "district": "plainewilhems",
-  "generated": "2026-05-13T16:42:22.324Z",
-  "outageCount": 60,
+  "generated": "2026-05-13T17:38:11.283Z",
+  "outageCount": 61,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-05-07",
+  "lastOutage": "2026-05-13",
   "outages": [
+    {
+      "date": "Le mercredi 13 mai 2026 de  20:30:00 à  00:00:00",
+      "streets": "ECALUPTUS LANE-RUE CANAL -RUE CHARLIE-RAGOOPUTH LANE PALMA Q BORNES",
+      "from": "2026-05-13T16:30:00.000Z",
+      "to": "2026-05-12T20:00:00.000Z",
+      "id": "41980a8f787acd802bf1c3ff1468626b"
+    },
     {
       "date": "Le jeudi 7 mai 2026 de  09:40:00 à  10:30:00",
       "streets": "WESTERN BOUNDARY ET PALMA",

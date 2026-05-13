@@ -1,8 +1,8 @@
 {
   "date": "2026-05-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-13T16:42:22.230Z",
-  "outageCount": 6,
+  "generated": "2026-05-13T17:38:11.192Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le mercredi 13 mai 2026 de  09:00:00 à  13:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-05-13T05:45:00.000Z",
       "to": "2026-05-13T10:00:00.000Z",
       "id": "68b95fd164ab4c6b98e44352063a4ff3"
+    },
+    {
+      "date": "Le mercredi 13 mai 2026 de  20:30:00 à  00:00:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "ECALUPTUS LANE-RUE CANAL -RUE CHARLIE-RAGOOPUTH LANE PALMA Q BORNES",
+      "district": "plainewilhems",
+      "from": "2026-05-13T16:30:00.000Z",
+      "to": "2026-05-12T20:00:00.000Z",
+      "id": "41980a8f787acd802bf1c3ff1468626b"
     },
     {
       "date": "Le mercredi 13 mai 2026 de  16:00:00 à  17:30:00",
