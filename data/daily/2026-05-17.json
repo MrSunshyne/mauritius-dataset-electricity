@@ -1,8 +1,8 @@
 {
   "date": "2026-05-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-13T11:40:26.306Z",
-  "outageCount": 1,
+  "generated": "2026-05-13T12:35:40.632Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le dimanche 17 mai 2026 de  08:30:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-05-17T04:30:00.000Z",
       "to": "2026-05-17T12:00:00.000Z",
       "id": "a15bfb2223cceaca0c053306fe477d05"
+    },
+    {
+      "date": "Le dimanche 17 mai 2026 de  09:00:00 à  14:00:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "Miras Lane, Camp Mapou Lane 1, Camp Mapou Lane No.  2, et Partie of Camp Fidèle, Residence la Chapelle",
+      "district": "plainewilhems",
+      "from": "2026-05-17T05:00:00.000Z",
+      "to": "2026-05-17T10:00:00.000Z",
+      "id": "5d386da5c60dc72e95fd330488b820cd"
     }
   ]
 }

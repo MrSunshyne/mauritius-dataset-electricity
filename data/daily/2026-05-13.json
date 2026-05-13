@@ -1,8 +1,8 @@
 {
   "date": "2026-05-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-13T11:40:26.305Z",
-  "outageCount": 5,
+  "generated": "2026-05-13T12:35:40.632Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le mercredi 13 mai 2026 de  09:00:00 à  13:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-05-13T05:45:00.000Z",
       "to": "2026-05-13T10:00:00.000Z",
       "id": "68b95fd164ab4c6b98e44352063a4ff3"
+    },
+    {
+      "date": "Le mercredi 13 mai 2026 de  16:00:00 à  17:30:00",
+      "locality": "BELL VILLAGE",
+      "localitySlug": "bell-village",
+      "streets": "WHOLE OF POLICE QUARTERS, RELAXMASTER AND EMCAR.",
+      "district": "portlouis",
+      "from": "2026-05-13T12:00:00.000Z",
+      "to": "2026-05-13T13:30:00.000Z",
+      "id": "ddad60ee44a474791795c95d150ee7d5"
     },
     {
       "date": "Le mercredi 13 mai 2026 de  08:50:00 à  12:00:00",
