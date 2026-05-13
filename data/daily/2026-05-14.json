@@ -1,8 +1,8 @@
 {
   "date": "2026-05-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-12T18:31:01.879Z",
-  "outageCount": 4,
+  "generated": "2026-05-13T06:55:10.425Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le jeudi 14 mai 2026 de  08:45:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-05-14T04:45:00.000Z",
       "to": "2026-05-14T11:00:00.000Z",
       "id": "d87da233e3ac66caf668d5a47cc9f608"
+    },
+    {
+      "date": "Le jeudi 14 mai 2026 de  09:00:00 à  15:00:00",
+      "locality": "DUBREUIL",
+      "localitySlug": "dubreuil",
+      "streets": "Camp Boolell et ruelles avoisinantes",
+      "district": "moka",
+      "from": "2026-05-14T05:00:00.000Z",
+      "to": "2026-05-14T11:00:00.000Z",
+      "id": "18cc703bdbe59cd6e503c207f3928b4d"
     },
     {
       "date": "Le jeudi 14 mai 2026 de  09:00:00 à  17:00:00",

@@ -2,11 +2,18 @@
   "slug": "bain-boeuf",
   "name": "BAIN BOEUF",
   "district": "rivieredurempart",
-  "generated": "2026-05-12T18:31:01.906Z",
-  "outageCount": 21,
+  "generated": "2026-05-13T06:55:10.442Z",
+  "outageCount": 22,
   "firstOutage": "2022-07-14",
-  "lastOutage": "2026-05-12",
+  "lastOutage": "2026-05-13",
   "outages": [
+    {
+      "date": "Le mercredi 13 mai 2026 de  08:50:00 à  12:00:00",
+      "streets": "MORC BEAU MANGUIER",
+      "from": "2026-05-13T04:50:00.000Z",
+      "to": "2026-05-13T08:00:00.000Z",
+      "id": "3693cfa1dfb1479214ab02828efcf032"
+    },
     {
       "date": "Le mardi 12 mai 2026 de  19:00:00 à  01:30:00",
       "streets": "BEAU MANGUIER BAIN BOEUF",

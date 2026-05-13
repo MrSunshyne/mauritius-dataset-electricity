@@ -2,11 +2,18 @@
   "slug": "plaine-magnien",
   "name": "PLAINE MAGNIEN",
   "district": "grandport",
-  "generated": "2026-05-12T18:31:02.116Z",
-  "outageCount": 63,
+  "generated": "2026-05-13T06:55:10.524Z",
+  "outageCount": 64,
   "firstOutage": "2022-06-08",
-  "lastOutage": "2026-05-08",
+  "lastOutage": "2026-05-13",
   "outages": [
+    {
+      "date": "Le mercredi 13 mai 2026 de  09:00:00 à  13:00:00",
+      "streets": "BOIS DOISEAU ROAD, NAIKO ROAD AND SURROUNDINGS",
+      "from": "2026-05-13T05:00:00.000Z",
+      "to": "2026-05-13T09:00:00.000Z",
+      "id": "f1dee3cb707ddcbaedaf15bd72e62d5e"
+    },
     {
       "date": "Le vendredi 8 mai 2026 de  09:50:00 à  13:00:00",
       "streets": "CHEMIN ESCALIER ET DANS LES ALENTOURS DE FRANCE BROYER",

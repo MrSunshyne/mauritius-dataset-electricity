@@ -2,11 +2,18 @@
   "slug": "dubreuil",
   "name": "DUBREUIL",
   "district": "moka",
-  "generated": "2026-05-12T18:31:01.996Z",
-  "outageCount": 22,
+  "generated": "2026-05-13T06:55:10.477Z",
+  "outageCount": 23,
   "firstOutage": "2022-08-13",
-  "lastOutage": "2026-05-05",
+  "lastOutage": "2026-05-14",
   "outages": [
+    {
+      "date": "Le jeudi 14 mai 2026 de  09:00:00 à  15:00:00",
+      "streets": "Camp Boolell et ruelles avoisinantes",
+      "from": "2026-05-14T05:00:00.000Z",
+      "to": "2026-05-14T11:00:00.000Z",
+      "id": "18cc703bdbe59cd6e503c207f3928b4d"
+    },
     {
       "date": "Le mardi 5 mai 2026 de  09:00:00 à  16:00:00",
       "streets": "Le Village de Dubreuil dans les environs de La Pipe",
