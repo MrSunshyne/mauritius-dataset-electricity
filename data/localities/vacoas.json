@@ -2,11 +2,32 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-05-13T10:47:22.204Z",
-  "outageCount": 240,
+  "generated": "2026-05-13T11:40:26.439Z",
+  "outageCount": 243,
   "firstOutage": "2022-03-17",
-  "lastOutage": "2026-05-10",
+  "lastOutage": "2026-05-24",
   "outages": [
+    {
+      "date": "Le dimanche 24 mai 2026 de  08:30:00 à  17:00:00",
+      "streets": "Ash Complex, Falt Daby, Monte Games Casino",
+      "from": "2026-05-24T04:30:00.000Z",
+      "to": "2026-05-24T13:00:00.000Z",
+      "id": "9a9bd196ed426ebba0a4b4cbca34c8d4"
+    },
+    {
+      "date": "Le dimanche 17 mai 2026 de  08:30:00 à  16:00:00",
+      "streets": "Morcellement Highrise, Side-In Road, Route Grassy, Morcellement Munbode",
+      "from": "2026-05-17T04:30:00.000Z",
+      "to": "2026-05-17T12:00:00.000Z",
+      "id": "a15bfb2223cceaca0c053306fe477d05"
+    },
+    {
+      "date": "Le jeudi 14 mai 2026 de  13:00:00 à  16:30:00",
+      "streets": "Ash Complex, Flat Daby",
+      "from": "2026-05-14T09:00:00.000Z",
+      "to": "2026-05-14T12:30:00.000Z",
+      "id": "1ace020cb4012b8f8f924acedf5b89c7"
+    },
     {
       "date": "Le dimanche 10 mai 2026 de  08:30:00 à  17:00:00",
       "streets": "Route Tranquille, Pave d’amour, une partie de Route Bonne -Terre, une partie de Route Clairfonds No. 1 et No. 3, une partie de Route Vingta No. 1, No. 2 et No. 3, Modern Square, une partie de Route Ligne Berthaud, une partie de Route du Club, Route Jackson, une partie de Route Lamberty",

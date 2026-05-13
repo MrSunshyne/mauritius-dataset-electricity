@@ -2,11 +2,18 @@
   "slug": "henrietta",
   "name": "HENRIETTA",
   "district": "plainewilhems",
-  "generated": "2026-05-13T10:47:22.129Z",
-  "outageCount": 83,
+  "generated": "2026-05-13T11:40:26.369Z",
+  "outageCount": 84,
   "firstOutage": "2022-07-14",
-  "lastOutage": "2026-04-26",
+  "lastOutage": "2026-05-14",
   "outages": [
+    {
+      "date": "Le jeudi 14 mai 2026 de  09:00:00 à  14:00:00",
+      "streets": "Miras Lane, Camp Mapou Lane 1, Camp Mapou Lane No.  2, et Partie of Camp Fidèle, Residence la Chapelle",
+      "from": "2026-05-14T05:00:00.000Z",
+      "to": "2026-05-14T10:00:00.000Z",
+      "id": "2dc80e05fca53d957b9336f45b342462"
+    },
     {
       "date": "Le dimanche 26 avril 2026 de  09:00:00 à  14:00:00",
       "streets": "Bord Cascades, Henrietta, Ragavoodoo Lane, Tooky Lane, Camp Mapou No. 2, morc Seetaram",

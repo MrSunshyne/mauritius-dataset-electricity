@@ -2,11 +2,18 @@
   "slug": "trou-aux-biches",
   "name": "TROU AUX BICHES",
   "district": "pamplemousses",
-  "generated": "2026-05-13T10:47:22.201Z",
-  "outageCount": 61,
+  "generated": "2026-05-13T11:40:26.436Z",
+  "outageCount": 62,
   "firstOutage": "2022-04-10",
-  "lastOutage": "2026-05-06",
+  "lastOutage": "2026-05-13",
   "outages": [
+    {
+      "date": "Le mercredi 13 mai 2026 de  15:30:00 à  17:00:00",
+      "streets": "TROU AUX BICHES VILLAGE : DANS LES ENVIRONS CHEZ POPO SUPERMARKET.",
+      "from": "2026-05-13T11:30:00.000Z",
+      "to": "2026-05-13T13:00:00.000Z",
+      "id": "c2e825eab318a80694b8bcfc6b38deaa"
+    },
     {
       "date": "Le mercredi 6 mai 2026 de  10:15:00 à  12:15:00",
       "streets": "Grande Pte aux Piments,Trou aux Biches,Morc Mon Ile,Morc Sooroojbali,Morc Fareway,Govt School",

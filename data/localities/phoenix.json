@@ -2,11 +2,25 @@
   "slug": "phoenix",
   "name": "PHOENIX",
   "district": "plainewilhems",
-  "generated": "2026-05-13T10:47:22.166Z",
-  "outageCount": 105,
+  "generated": "2026-05-13T11:40:26.401Z",
+  "outageCount": 107,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-04-30",
+  "lastOutage": "2026-05-16",
   "outages": [
+    {
+      "date": "Le samedi 16 mai 2026 de  12:30:00 à  14:00:00",
+      "streets": "Hillcrest et Phoenix Apartments.",
+      "from": "2026-05-16T08:30:00.000Z",
+      "to": "2026-05-16T10:00:00.000Z",
+      "id": "5d09eb77ebe1df41624a4fd8e8304709"
+    },
+    {
+      "date": "Le samedi 16 mai 2026 de  08:30:00 à  09:30:00",
+      "streets": "Hillcrest et Phoenix Apartments.",
+      "from": "2026-05-16T04:30:00.000Z",
+      "to": "2026-05-16T05:30:00.000Z",
+      "id": "6142e9e1e60b5946a649fc142921f4b0"
+    },
     {
       "date": "Le jeudi 30 avril 2026 de  11:20:00 à  16:50:00",
       "streets": "Tamil Temple,Iqbal,Riverside,Highlands & Royal Roads,PHOENIX",

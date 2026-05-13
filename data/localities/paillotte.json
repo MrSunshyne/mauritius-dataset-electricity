@@ -2,11 +2,18 @@
   "slug": "paillotte",
   "name": "PAILLOTTE",
   "district": "plainewilhems",
-  "generated": "2026-05-13T10:47:22.158Z",
-  "outageCount": 11,
+  "generated": "2026-05-13T11:40:26.394Z",
+  "outageCount": 12,
   "firstOutage": "2023-11-22",
-  "lastOutage": "2026-04-07",
+  "lastOutage": "2026-05-14",
   "outages": [
+    {
+      "date": "Le jeudi 14 mai 2026 de  09:00:00 à  13:00:00",
+      "streets": "une partie de Ragoo Lane, une Partie de Rue de la Bonte, lotus Lane, Hibiscus Lane 3",
+      "from": "2026-05-14T05:00:00.000Z",
+      "to": "2026-05-14T09:00:00.000Z",
+      "id": "1f55b37f4042458c90be2a5bdda6392f"
+    },
     {
       "date": "Le mardi 7 avril 2026 de  09:00:00 à  11:00:00",
       "streets": "Royal Rd,Warriors Gym Paillotte,Mon Desir et les environs",

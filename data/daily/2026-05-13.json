@@ -1,8 +1,8 @@
 {
   "date": "2026-05-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-13T10:47:22.059Z",
-  "outageCount": 4,
+  "generated": "2026-05-13T11:40:26.305Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le mercredi 13 mai 2026 de  09:00:00 à  13:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-05-13T10:15:00.000Z",
       "to": "2026-05-13T11:15:00.000Z",
       "id": "6c4f6cbdd8eaad3c0a4efbdc358afb2e"
+    },
+    {
+      "date": "Le mercredi 13 mai 2026 de  15:30:00 à  17:00:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "TROU AUX BICHES VILLAGE : DANS LES ENVIRONS CHEZ POPO SUPERMARKET.",
+      "district": "pamplemousses",
+      "from": "2026-05-13T11:30:00.000Z",
+      "to": "2026-05-13T13:00:00.000Z",
+      "id": "c2e825eab318a80694b8bcfc6b38deaa"
     },
     {
       "date": "Le mercredi 13 mai 2026 de  09:45:00 à  14:00:00",

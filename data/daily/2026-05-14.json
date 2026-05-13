@@ -1,8 +1,8 @@
 {
   "date": "2026-05-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-13T10:47:22.059Z",
-  "outageCount": 7,
+  "generated": "2026-05-13T11:40:26.305Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le jeudi 14 mai 2026 de  08:45:00 à  16:00:00",
@@ -53,6 +53,36 @@
       "from": "2026-05-14T04:30:00.000Z",
       "to": "2026-05-14T11:30:00.000Z",
       "id": "337edce89a513897633e68f4de03b4e0"
+    },
+    {
+      "date": "Le jeudi 14 mai 2026 de  09:00:00 à  13:00:00",
+      "locality": "PAILLOTTE",
+      "localitySlug": "paillotte",
+      "streets": "une partie de Ragoo Lane, une Partie de Rue de la Bonte, lotus Lane, Hibiscus Lane 3",
+      "district": "plainewilhems",
+      "from": "2026-05-14T05:00:00.000Z",
+      "to": "2026-05-14T09:00:00.000Z",
+      "id": "1f55b37f4042458c90be2a5bdda6392f"
+    },
+    {
+      "date": "Le jeudi 14 mai 2026 de  13:00:00 à  16:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Ash Complex, Flat Daby",
+      "district": "plainewilhems",
+      "from": "2026-05-14T09:00:00.000Z",
+      "to": "2026-05-14T12:30:00.000Z",
+      "id": "1ace020cb4012b8f8f924acedf5b89c7"
+    },
+    {
+      "date": "Le jeudi 14 mai 2026 de  09:00:00 à  14:00:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "Miras Lane, Camp Mapou Lane 1, Camp Mapou Lane No.  2, et Partie of Camp Fidèle, Residence la Chapelle",
+      "district": "plainewilhems",
+      "from": "2026-05-14T05:00:00.000Z",
+      "to": "2026-05-14T10:00:00.000Z",
+      "id": "2dc80e05fca53d957b9336f45b342462"
     },
     {
       "date": "Le jeudi 14 mai 2026 de  09:00:00 à  16:00:00",

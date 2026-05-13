@@ -1,0 +1,28 @@
+{
+  "date": "2026-05-16",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-05-13T11:40:26.306Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le samedi 16 mai 2026 de  12:30:00 à  14:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Hillcrest et Phoenix Apartments.",
+      "district": "plainewilhems",
+      "from": "2026-05-16T08:30:00.000Z",
+      "to": "2026-05-16T10:00:00.000Z",
+      "id": "5d09eb77ebe1df41624a4fd8e8304709"
+    },
+    {
+      "date": "Le samedi 16 mai 2026 de  08:30:00 à  09:30:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Hillcrest et Phoenix Apartments.",
+      "district": "plainewilhems",
+      "from": "2026-05-16T04:30:00.000Z",
+      "to": "2026-05-16T05:30:00.000Z",
+      "id": "6142e9e1e60b5946a649fc142921f4b0"
+    }
+  ]
+}
