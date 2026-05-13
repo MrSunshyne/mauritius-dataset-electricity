@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-13T12:35:40.739Z",
+  "generated": "2026-05-13T13:38:47.332Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -115,10 +115,10 @@
       "slug": "arsenal",
       "name": "ARSENAL",
       "district": "pamplemousses",
-      "outageCount": 59,
+      "outageCount": 60,
       "file": "arsenal.json",
       "firstOutage": "2022-05-25",
-      "lastOutage": "2026-05-10"
+      "lastOutage": "2026-05-17"
     },
     {
       "slug": "bagatelle",
@@ -3094,10 +3094,10 @@
       "slug": "port-louis",
       "name": "PORT-LOUIS",
       "district": "portlouis",
-      "outageCount": 122,
+      "outageCount": 123,
       "file": "port-louis.json",
       "firstOutage": "2022-03-21",
-      "lastOutage": "2026-05-03"
+      "lastOutage": "2026-05-17"
     },
     {
       "slug": "port-mathurin",

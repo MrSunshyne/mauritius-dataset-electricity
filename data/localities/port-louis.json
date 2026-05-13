@@ -2,11 +2,18 @@
   "slug": "port-louis",
   "name": "PORT-LOUIS",
   "district": "portlouis",
-  "generated": "2026-05-13T12:35:40.713Z",
-  "outageCount": 122,
+  "generated": "2026-05-13T13:38:47.303Z",
+  "outageCount": 123,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-05-03",
+  "lastOutage": "2026-05-17",
   "outages": [
+    {
+      "date": "Le dimanche 17 mai 2026 de  08:30:00 à  14:30:00",
+      "streets": "Dans les environs des Rues Karikal, Trichnapoly, Malacca, Coringa, Rene Maigrot, une partie de Paul et Virginie et Gorah Issac",
+      "from": "2026-05-17T04:30:00.000Z",
+      "to": "2026-05-17T10:30:00.000Z",
+      "id": "176e9c26465c609914d60972e1d9aa75"
+    },
     {
       "date": "Le dimanche 3 mai 2026 de  15:00:00 à  18:00:00",
       "streets": "VOLCY POUGNET STREET, LA RUE MADAME, NEAR JEETOO HOSPITAL",
