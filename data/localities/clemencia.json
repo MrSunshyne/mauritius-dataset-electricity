@@ -2,11 +2,18 @@
   "slug": "clemencia",
   "name": "CLEMENCIA",
   "district": "flacq",
-  "generated": "2026-05-13T06:55:10.471Z",
-  "outageCount": 9,
+  "generated": "2026-05-13T07:56:59.589Z",
+  "outageCount": 10,
   "firstOutage": "2022-03-17",
-  "lastOutage": "2026-04-28",
+  "lastOutage": "2026-05-14",
   "outages": [
+    {
+      "date": "Le jeudi 14 mai 2026 de  08:45:00 à  16:00:00",
+      "streets": "Village de Belle Rose et Clemencia.",
+      "from": "2026-05-14T04:45:00.000Z",
+      "to": "2026-05-14T12:00:00.000Z",
+      "id": "6ce8b89459606019641d7412879fed0b"
+    },
     {
       "date": "Le mardi 28 avril 2026 de  13:00:00 à  20:00:00",
       "streets": "CLEMENCIA/BELLEROSE",

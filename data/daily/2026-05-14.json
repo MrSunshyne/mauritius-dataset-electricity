@@ -1,9 +1,19 @@
 {
   "date": "2026-05-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-13T06:55:10.425Z",
-  "outageCount": 5,
+  "generated": "2026-05-13T07:56:59.518Z",
+  "outageCount": 6,
   "outages": [
+    {
+      "date": "Le jeudi 14 mai 2026 de  08:45:00 à  16:00:00",
+      "locality": "CLEMENCIA",
+      "localitySlug": "clemencia",
+      "streets": "Village de Belle Rose et Clemencia.",
+      "district": "flacq",
+      "from": "2026-05-14T04:45:00.000Z",
+      "to": "2026-05-14T12:00:00.000Z",
+      "id": "6ce8b89459606019641d7412879fed0b"
+    },
     {
       "date": "Le jeudi 14 mai 2026 de  08:45:00 à  15:00:00",
       "locality": "CAMP MARCELIN",
