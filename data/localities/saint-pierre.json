@@ -2,11 +2,18 @@
   "slug": "saint-pierre",
   "name": "SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-05-14T09:44:38.413Z",
-  "outageCount": 70,
+  "generated": "2026-05-14T10:43:48.083Z",
+  "outageCount": 71,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-05-03",
+  "lastOutage": "2026-05-17",
   "outages": [
+    {
+      "date": "Le dimanche 17 mai 2026 de  08:30:00 à  15:30:00",
+      "streets": "La Laura, Malinga, Beau Bois, Nouvelle Decouverte, Cemetery Rd, Circonstance, NHDC Vyniol et Morc Azalee",
+      "from": "2026-05-17T04:30:00.000Z",
+      "to": "2026-05-17T11:30:00.000Z",
+      "id": "3e7c69be088468977ad3f6d59c5a2948"
+    },
     {
       "date": "Le dimanche 3 mai 2026 de  08:30:00 à  15:30:00",
       "streets": "Bois Cheri Rd, Roselyn Cottage, Riviere Baptiste, Petit Verger et Le Pouce",

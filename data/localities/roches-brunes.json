@@ -2,11 +2,18 @@
   "slug": "roches-brunes",
   "name": "ROCHES BRUNES",
   "district": "plainewilhems",
-  "generated": "2026-05-14T09:44:38.407Z",
-  "outageCount": 30,
+  "generated": "2026-05-14T10:43:48.078Z",
+  "outageCount": 31,
   "firstOutage": "2022-10-01",
-  "lastOutage": "2026-05-14",
+  "lastOutage": "2026-05-16",
   "outages": [
+    {
+      "date": "Le samedi 16 mai 2026 de  08:30:00 à  15:00:00",
+      "streets": "Morcellement St Daniel et les environs",
+      "from": "2026-05-16T04:30:00.000Z",
+      "to": "2026-05-16T11:00:00.000Z",
+      "id": "b86cced5c08355c94229f3ed5d4c5783"
+    },
     {
       "date": "Le jeudi 14 mai 2026 de  09:00:00 à  17:00:00",
       "streets": "En partie Ave Roches-Brunes, Ave S. K. Chady et les environs",

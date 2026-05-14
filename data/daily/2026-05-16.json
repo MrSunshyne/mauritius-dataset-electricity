@@ -1,9 +1,19 @@
 {
   "date": "2026-05-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-14T09:44:38.279Z",
-  "outageCount": 3,
+  "generated": "2026-05-14T10:43:47.971Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le samedi 16 mai 2026 de  08:30:00 à  15:00:00",
+      "locality": "COTE D-OR",
+      "localitySlug": "cote-d-or",
+      "streets": "Technopole, KDA, Verdant, Nexera et Vivacity",
+      "district": "moka",
+      "from": "2026-05-16T04:30:00.000Z",
+      "to": "2026-05-16T11:00:00.000Z",
+      "id": "4f1a226ba2ee720384ac4aeb453090d9"
+    },
     {
       "date": "Le samedi 16 mai 2026 de  08:30:00 à  15:30:00",
       "locality": "MORC SAINT ANDRE",
@@ -33,6 +43,16 @@
       "from": "2026-05-16T04:30:00.000Z",
       "to": "2026-05-16T05:30:00.000Z",
       "id": "6142e9e1e60b5946a649fc142921f4b0"
+    },
+    {
+      "date": "Le samedi 16 mai 2026 de  08:30:00 à  15:00:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "Morcellement St Daniel et les environs",
+      "district": "plainewilhems",
+      "from": "2026-05-16T04:30:00.000Z",
+      "to": "2026-05-16T11:00:00.000Z",
+      "id": "b86cced5c08355c94229f3ed5d4c5783"
     }
   ]
 }

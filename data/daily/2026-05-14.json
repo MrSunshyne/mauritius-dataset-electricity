@@ -1,8 +1,8 @@
 {
   "date": "2026-05-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-14T09:44:38.279Z",
-  "outageCount": 14,
+  "generated": "2026-05-14T10:43:47.971Z",
+  "outageCount": 15,
   "outages": [
     {
       "date": "Le jeudi 14 mai 2026 de  08:45:00 à  16:00:00",
@@ -123,6 +123,16 @@
       "from": "2026-05-14T09:00:00.000Z",
       "to": "2026-05-14T10:30:00.000Z",
       "id": "3ff592442d0f39cd688afbf19278e7d4"
+    },
+    {
+      "date": "Le jeudi 14 mai 2026 de  15:00:00 à  18:00:00",
+      "locality": "16EME MILE",
+      "localitySlug": "16eme-mile",
+      "streets": "MORC PETIT VILLAGE GOODLANDS",
+      "district": "plainewilhems",
+      "from": "2026-05-14T11:00:00.000Z",
+      "to": "2026-05-14T14:00:00.000Z",
+      "id": "22e42d05bfeea930859ade0cee8c8017"
     },
     {
       "date": "Le jeudi 14 mai 2026 de  09:00:00 à  16:00:00",

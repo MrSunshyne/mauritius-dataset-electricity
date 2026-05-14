@@ -2,11 +2,18 @@
   "slug": "16eme-mile",
   "name": "16EME MILE",
   "district": "plainewilhems",
-  "generated": "2026-05-14T09:44:38.295Z",
-  "outageCount": 55,
+  "generated": "2026-05-14T10:43:47.984Z",
+  "outageCount": 56,
   "firstOutage": "2022-05-31",
-  "lastOutage": "2026-04-23",
+  "lastOutage": "2026-05-14",
   "outages": [
+    {
+      "date": "Le jeudi 14 mai 2026 de  15:00:00 à  18:00:00",
+      "streets": "MORC PETIT VILLAGE GOODLANDS",
+      "from": "2026-05-14T11:00:00.000Z",
+      "to": "2026-05-14T14:00:00.000Z",
+      "id": "22e42d05bfeea930859ade0cee8c8017"
+    },
     {
       "date": "Le jeudi 23 avril 2026 de  10:00:00 à  13:00:00",
       "streets": "UNE PARTIE DE CITE ANUSHKA",

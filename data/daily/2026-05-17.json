@@ -1,9 +1,29 @@
 {
   "date": "2026-05-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-14T09:44:38.279Z",
-  "outageCount": 4,
+  "generated": "2026-05-14T10:43:47.971Z",
+  "outageCount": 7,
   "outages": [
+    {
+      "date": "Le dimanche 17 mai 2026 de  08:30:00 à  13:30:00",
+      "locality": "BELLE MARE",
+      "localitySlug": "belle-mare",
+      "streets": "Belle Mare Morc Lakeview.",
+      "district": "flacq",
+      "from": "2026-05-17T04:30:00.000Z",
+      "to": "2026-05-17T09:30:00.000Z",
+      "id": "0b6a34fcfae82e42f05e159953f267d6"
+    },
+    {
+      "date": "Le dimanche 17 mai 2026 de  08:30:00 à  15:30:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "La Laura, Malinga, Beau Bois, Nouvelle Decouverte, Cemetery Rd, Circonstance, NHDC Vyniol et Morc Azalee",
+      "district": "moka",
+      "from": "2026-05-17T04:30:00.000Z",
+      "to": "2026-05-17T11:30:00.000Z",
+      "id": "3e7c69be088468977ad3f6d59c5a2948"
+    },
     {
       "date": "Le dimanche 17 mai 2026 de  08:30:00 à  16:30:00",
       "locality": "ARSENAL",
@@ -33,6 +53,16 @@
       "from": "2026-05-17T05:00:00.000Z",
       "to": "2026-05-17T10:00:00.000Z",
       "id": "5d386da5c60dc72e95fd330488b820cd"
+    },
+    {
+      "date": "Le dimanche 17 mai 2026 de  08:30:00 à  15:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Ave Toureau, Dr Piarroux, Ave Nabee, Ave Filao, Ave Baitka, Ave Ste Anne, en partie Ave Berthaud et les environs",
+      "district": "plainewilhems",
+      "from": "2026-05-17T04:30:00.000Z",
+      "to": "2026-05-17T11:00:00.000Z",
+      "id": "1b85d3409f585d8240ee2737a4d9b9c5"
     },
     {
       "date": "Le dimanche 17 mai 2026 de  08:30:00 à  14:30:00",

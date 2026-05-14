@@ -2,11 +2,18 @@
   "slug": "belle-mare",
   "name": "BELLE MARE",
   "district": "flacq",
-  "generated": "2026-05-14T09:44:38.310Z",
-  "outageCount": 30,
+  "generated": "2026-05-14T10:43:47.998Z",
+  "outageCount": 31,
   "firstOutage": "2022-08-07",
-  "lastOutage": "2026-04-29",
+  "lastOutage": "2026-05-17",
   "outages": [
+    {
+      "date": "Le dimanche 17 mai 2026 de  08:30:00 à  13:30:00",
+      "streets": "Belle Mare Morc Lakeview.",
+      "from": "2026-05-17T04:30:00.000Z",
+      "to": "2026-05-17T09:30:00.000Z",
+      "id": "0b6a34fcfae82e42f05e159953f267d6"
+    },
     {
       "date": "Le mercredi 29 avril 2026 de  08:30:00 à  17:00:00",
       "streets": "Pointe de Flacq dans les périmètres de Morc Constance Belle Mare et Golf Irrigation Belle Mare (Deer Hunter Golf Club).",
