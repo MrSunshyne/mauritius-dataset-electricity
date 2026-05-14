@@ -1,8 +1,8 @@
 {
   "date": "2026-05-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-14T11:31:08.116Z",
-  "outageCount": 17,
+  "generated": "2026-05-14T12:29:52.648Z",
+  "outageCount": 18,
   "outages": [
     {
       "date": "Le jeudi 14 mai 2026 de  08:45:00 à  16:00:00",
@@ -35,6 +35,16 @@
       "id": "78b53528115e0524c5d9582745a22369"
     },
     {
+      "date": "Le jeudi 14 mai 2026 de  15:45:00 à  17:45:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "PLAINE MAGNIEN NEAR POLICE STATION",
+      "district": "grandport",
+      "from": "2026-05-14T11:45:00.000Z",
+      "to": "2026-05-14T13:45:00.000Z",
+      "id": "34468cf257b812189cebefe5c533d0f0"
+    },
+    {
       "date": "Le jeudi 14 mai 2026 de  08:45:00 à  15:00:00",
       "locality": "CAMP MARCELIN",
       "localitySlug": "camp-marcelin",
@@ -65,14 +75,14 @@
       "id": "26cff02b4c5c4ab54a148910334266ee"
     },
     {
-      "date": "Le jeudi 14 mai 2026 de  08:30:00 à  15:30:00",
+      "date": "Le jeudi 14 mai 2026 de  08:30:00 à  17:30:00",
       "locality": "COROMANDEL - R.HILL",
       "localitySlug": "coromandel-rhill",
       "streets": "Chapman View, Ave Black Molly, Ave Angel Fish, Ave Blood Fish, Ave Zinnia, Ave Hibiscus et les environs",
       "district": "plainewilhems",
       "from": "2026-05-14T04:30:00.000Z",
-      "to": "2026-05-14T11:30:00.000Z",
-      "id": "337edce89a513897633e68f4de03b4e0"
+      "to": "2026-05-14T13:30:00.000Z",
+      "id": "2e623045b7efc0f73a5601ae5690b6fe"
     },
     {
       "date": "Le jeudi 14 mai 2026 de  09:00:00 à  13:00:00",
