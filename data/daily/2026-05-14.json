@@ -1,8 +1,8 @@
 {
   "date": "2026-05-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-14T10:43:47.971Z",
-  "outageCount": 15,
+  "generated": "2026-05-14T11:31:08.116Z",
+  "outageCount": 17,
   "outages": [
     {
       "date": "Le jeudi 14 mai 2026 de  08:45:00 à  16:00:00",
@@ -133,6 +133,26 @@
       "from": "2026-05-14T11:00:00.000Z",
       "to": "2026-05-14T14:00:00.000Z",
       "id": "22e42d05bfeea930859ade0cee8c8017"
+    },
+    {
+      "date": "Le jeudi 14 mai 2026 de  15:30:00 à  17:30:00",
+      "locality": "CAMP LEVIEUX ( R HILL )",
+      "localitySlug": "camp-levieux",
+      "streets": "En partie Pigeot et Mere Theresa",
+      "district": "plainewilhems",
+      "from": "2026-05-14T11:30:00.000Z",
+      "to": "2026-05-14T13:30:00.000Z",
+      "id": "2f2cac0e8bbee41732200b22f0736bbe"
+    },
+    {
+      "date": "Le jeudi 14 mai 2026 de  15:00:00 à  18:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "MORC PETIT VILLAGE GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2026-05-14T11:00:00.000Z",
+      "to": "2026-05-14T14:00:00.000Z",
+      "id": "de38ae91b9495d71fb88948c3e4598e9"
     },
     {
       "date": "Le jeudi 14 mai 2026 de  09:00:00 à  16:00:00",

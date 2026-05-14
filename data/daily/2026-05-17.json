@@ -1,9 +1,19 @@
 {
   "date": "2026-05-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-14T10:43:47.971Z",
-  "outageCount": 7,
+  "generated": "2026-05-14T11:31:08.116Z",
+  "outageCount": 8,
   "outages": [
+    {
+      "date": "Le dimanche 17 mai 2026 de  08:15:00 à  15:30:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "OCEANOGRAPHY, SEASCAPE APPARTMENT",
+      "district": "blackriver",
+      "from": "2026-05-17T04:15:00.000Z",
+      "to": "2026-05-17T11:30:00.000Z",
+      "id": "d17b689695c0e78db3f4f2d507ac863e"
+    },
     {
       "date": "Le dimanche 17 mai 2026 de  08:30:00 à  13:30:00",
       "locality": "BELLE MARE",

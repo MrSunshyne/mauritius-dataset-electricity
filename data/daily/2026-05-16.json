@@ -1,8 +1,8 @@
 {
   "date": "2026-05-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-14T10:43:47.971Z",
-  "outageCount": 5,
+  "generated": "2026-05-14T11:31:08.116Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le samedi 16 mai 2026 de  08:30:00 à  15:00:00",
@@ -53,6 +53,26 @@
       "from": "2026-05-16T04:30:00.000Z",
       "to": "2026-05-16T11:00:00.000Z",
       "id": "b86cced5c08355c94229f3ed5d4c5783"
+    },
+    {
+      "date": "Le samedi 16 mai 2026 de  13:30:00 à  14:00:00",
+      "locality": "MONT ROCHES",
+      "localitySlug": "mont-roches",
+      "streets": "MONT ROCHE, BAKORYSING, SCHOOL LANE, VERGE BISAMBAR, EN PARTIE RAYMONT RIVET ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2026-05-16T09:30:00.000Z",
+      "to": "2026-05-16T10:00:00.000Z",
+      "id": "bd6c4156611f7c9ef84ce34d4883b1bd"
+    },
+    {
+      "date": "Le samedi 16 mai 2026 de  08:30:00 à  09:00:00",
+      "locality": "MONT ROCHES",
+      "localitySlug": "mont-roches",
+      "streets": "MONT ROCHE, BAKORYSING, SCHOOL LANE, VERGE BISAMBAR, EN PARTIE RAYMONT RIVET ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2026-05-16T04:30:00.000Z",
+      "to": "2026-05-16T05:00:00.000Z",
+      "id": "30eebe5892738f79f9c1486a8fa162df"
     }
   ]
 }

@@ -2,11 +2,18 @@
   "slug": "goodlands",
   "name": "GOODLANDS",
   "district": "rivieredurempart",
-  "generated": "2026-05-14T10:43:48.028Z",
-  "outageCount": 135,
+  "generated": "2026-05-14T11:31:08.173Z",
+  "outageCount": 136,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-05-11",
+  "lastOutage": "2026-05-14",
   "outages": [
+    {
+      "date": "Le jeudi 14 mai 2026 de  15:00:00 à  18:00:00",
+      "streets": "MORC PETIT VILLAGE GOODLANDS",
+      "from": "2026-05-14T11:00:00.000Z",
+      "to": "2026-05-14T14:00:00.000Z",
+      "id": "de38ae91b9495d71fb88948c3e4598e9"
+    },
     {
       "date": "Le lundi 11 mai 2026 de  18:00:00 à  22:30:00",
       "streets": "CHEMIN CENTRE SOCIAL ET DANS LES ENVIRONS L-ECOLE.",

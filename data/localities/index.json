@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-14T10:43:48.100Z",
+  "generated": "2026-05-14T11:31:08.250Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -25,10 +25,10 @@
       "slug": "albion",
       "name": "ALBION",
       "district": "blackriver",
-      "outageCount": 111,
+      "outageCount": 112,
       "file": "albion.json",
       "firstOutage": "2022-06-06",
-      "lastOutage": "2026-04-20"
+      "lastOutage": "2026-05-17"
     },
     {
       "slug": "allee-brillant-castel",
@@ -808,10 +808,10 @@
       "slug": "camp-levieux",
       "name": "CAMP LEVIEUX ( CUREPIPE )",
       "district": "plainewilhems",
-      "outageCount": 27,
+      "outageCount": 28,
       "file": "camp-levieux.json",
       "firstOutage": "2022-05-25",
-      "lastOutage": "2026-05-08"
+      "lastOutage": "2026-05-14"
     },
     {
       "slug": "camp-mapou",
@@ -1564,10 +1564,10 @@
       "slug": "goodlands",
       "name": "GOODLANDS",
       "district": "rivieredurempart",
-      "outageCount": 135,
+      "outageCount": 136,
       "file": "goodlands.json",
       "firstOutage": "2022-03-27",
-      "lastOutage": "2026-05-11"
+      "lastOutage": "2026-05-14"
     },
     {
       "slug": "grand-bassin",
@@ -2482,10 +2482,10 @@
       "slug": "mont-roches",
       "name": "MONT ROCHES",
       "district": "plainewilhems",
-      "outageCount": 23,
+      "outageCount": 25,
       "file": "mont-roches.json",
       "firstOutage": "2022-05-08",
-      "lastOutage": "2026-03-10"
+      "lastOutage": "2026-05-16"
     },
     {
       "slug": "mont-simonet",
