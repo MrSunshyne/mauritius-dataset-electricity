@@ -1,8 +1,8 @@
 {
   "date": "2026-05-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-14T08:51:57.201Z",
-  "outageCount": 13,
+  "generated": "2026-05-14T09:44:38.279Z",
+  "outageCount": 14,
   "outages": [
     {
       "date": "Le jeudi 14 mai 2026 de  08:45:00 à  16:00:00",
@@ -113,6 +113,16 @@
       "from": "2026-05-14T05:15:00.000Z",
       "to": "2026-05-14T08:00:00.000Z",
       "id": "e424413ceba4f5709abbcc3e532a48fe"
+    },
+    {
+      "date": "Le jeudi 14 mai 2026 de  13:00:00 à  14:30:00",
+      "locality": "PAILLOTTE",
+      "localitySlug": "paillotte",
+      "streets": "RUGHOO LANE PAILLOTTE",
+      "district": "plainewilhems",
+      "from": "2026-05-14T09:00:00.000Z",
+      "to": "2026-05-14T10:30:00.000Z",
+      "id": "3ff592442d0f39cd688afbf19278e7d4"
     },
     {
       "date": "Le jeudi 14 mai 2026 de  09:00:00 à  16:00:00",

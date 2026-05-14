@@ -2,11 +2,18 @@
   "slug": "paillotte",
   "name": "PAILLOTTE",
   "district": "plainewilhems",
-  "generated": "2026-05-14T08:51:57.285Z",
-  "outageCount": 12,
+  "generated": "2026-05-14T09:44:38.379Z",
+  "outageCount": 13,
   "firstOutage": "2023-11-22",
   "lastOutage": "2026-05-14",
   "outages": [
+    {
+      "date": "Le jeudi 14 mai 2026 de  13:00:00 à  14:30:00",
+      "streets": "RUGHOO LANE PAILLOTTE",
+      "from": "2026-05-14T09:00:00.000Z",
+      "to": "2026-05-14T10:30:00.000Z",
+      "id": "3ff592442d0f39cd688afbf19278e7d4"
+    },
     {
       "date": "Le jeudi 14 mai 2026 de  09:00:00 à  13:00:00",
       "streets": "une partie de Ragoo Lane, une Partie de Rue de la Bonte, lotus Lane, Hibiscus Lane 3",
