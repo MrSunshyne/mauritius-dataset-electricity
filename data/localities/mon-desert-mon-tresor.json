@@ -2,11 +2,18 @@
   "slug": "mon-desert-mon-tresor",
   "name": "MON DESERT MON TRESOR",
   "district": "grandport",
-  "generated": "2026-05-13T18:32:24.674Z",
-  "outageCount": 1,
+  "generated": "2026-05-14T06:53:47.735Z",
+  "outageCount": 2,
   "firstOutage": "2024-03-17",
-  "lastOutage": "2024-03-17",
+  "lastOutage": "2026-05-14",
   "outages": [
+    {
+      "date": "Le jeudi 14 mai 2026 de  10:45:00 à  13:00:00",
+      "streets": "MORC MON DESERT MON TRESOR",
+      "from": "2026-05-14T06:45:00.000Z",
+      "to": "2026-05-14T09:00:00.000Z",
+      "id": "78b53528115e0524c5d9582745a22369"
+    },
     {
       "date": "Le dimanche 17 mars 2024 de  08:30:00 à  15:00:00",
       "streets": "Mon Desert Mon Trésor, Morcellement Desplaces, Carreau Esnouf, Union Vale et Desplaces Village",

@@ -2,11 +2,18 @@
   "slug": "morc-saint-andre",
   "name": "MORC SAINT ANDRE",
   "district": "pamplemousses",
-  "generated": "2026-05-13T18:32:24.678Z",
-  "outageCount": 42,
+  "generated": "2026-05-14T06:53:47.740Z",
+  "outageCount": 43,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-04-17",
+  "lastOutage": "2026-05-16",
   "outages": [
+    {
+      "date": "Le samedi 16 mai 2026 de  08:30:00 à  15:30:00",
+      "streets": "Dans les environs de Tagore rd et en partie Dr Manilal rd, SSR rd et la route principale",
+      "from": "2026-05-16T04:30:00.000Z",
+      "to": "2026-05-16T11:30:00.000Z",
+      "id": "749c4a2b590710be1b78fa414e64505a"
+    },
     {
       "date": "Le vendredi 17 avril 2026 de  18:00:00 à  23:00:00",
       "streets": "ROUTE ROYALE DANS LES ENVIRONS TERRAIN FOOTBALL.",

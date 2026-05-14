@@ -1,9 +1,19 @@
 {
   "date": "2026-05-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-13T18:32:24.589Z",
-  "outageCount": 2,
+  "generated": "2026-05-14T06:53:47.651Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le samedi 16 mai 2026 de  08:30:00 à  15:30:00",
+      "locality": "MORC SAINT ANDRE",
+      "localitySlug": "morc-saint-andre",
+      "streets": "Dans les environs de Tagore rd et en partie Dr Manilal rd, SSR rd et la route principale",
+      "district": "pamplemousses",
+      "from": "2026-05-16T04:30:00.000Z",
+      "to": "2026-05-16T11:30:00.000Z",
+      "id": "749c4a2b590710be1b78fa414e64505a"
+    },
     {
       "date": "Le samedi 16 mai 2026 de  12:30:00 à  14:00:00",
       "locality": "PHOENIX",

@@ -1,8 +1,8 @@
 {
   "date": "2026-05-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-13T18:32:24.589Z",
-  "outageCount": 10,
+  "generated": "2026-05-14T06:53:47.651Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le jeudi 14 mai 2026 de  08:45:00 à  16:00:00",
@@ -13,6 +13,26 @@
       "from": "2026-05-14T04:45:00.000Z",
       "to": "2026-05-14T12:00:00.000Z",
       "id": "6ce8b89459606019641d7412879fed0b"
+    },
+    {
+      "date": "Le jeudi 14 mai 2026 de  09:30:00 à  16:00:00",
+      "locality": "LA NOURRICE",
+      "localitySlug": "la-nourrice",
+      "streets": "La Nourrice Area, Poultry, MCML and CWA.",
+      "district": "flacq",
+      "from": "2026-05-14T05:30:00.000Z",
+      "to": "2026-05-14T12:00:00.000Z",
+      "id": "26a123c7b1207ed44a824a960d62204b"
+    },
+    {
+      "date": "Le jeudi 14 mai 2026 de  10:45:00 à  13:00:00",
+      "locality": "MON DESERT MON TRESOR",
+      "localitySlug": "mon-desert-mon-tresor",
+      "streets": "MORC MON DESERT MON TRESOR",
+      "district": "grandport",
+      "from": "2026-05-14T06:45:00.000Z",
+      "to": "2026-05-14T09:00:00.000Z",
+      "id": "78b53528115e0524c5d9582745a22369"
     },
     {
       "date": "Le jeudi 14 mai 2026 de  08:45:00 à  15:00:00",
@@ -83,6 +103,16 @@
       "from": "2026-05-14T05:00:00.000Z",
       "to": "2026-05-14T10:00:00.000Z",
       "id": "2dc80e05fca53d957b9336f45b342462"
+    },
+    {
+      "date": "Le jeudi 14 mai 2026 de  09:15:00 à  12:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "BBASSIN, AVE PERE LAVAL, AVE DESSENNES, AVE ABBE HAREL, AVE G. BOWEN, KFC, APPARTEMENT BEL CANTO, ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2026-05-14T05:15:00.000Z",
+      "to": "2026-05-14T08:00:00.000Z",
+      "id": "e424413ceba4f5709abbcc3e532a48fe"
     },
     {
       "date": "Le jeudi 14 mai 2026 de  09:00:00 à  16:00:00",

@@ -2,11 +2,18 @@
   "slug": "la-nourrice",
   "name": "LA NOURRICE",
   "district": "flacq",
-  "generated": "2026-05-13T18:32:24.661Z",
-  "outageCount": 2,
+  "generated": "2026-05-14T06:53:47.723Z",
+  "outageCount": 3,
   "firstOutage": "2024-12-18",
-  "lastOutage": "2025-08-14",
+  "lastOutage": "2026-05-14",
   "outages": [
+    {
+      "date": "Le jeudi 14 mai 2026 de  09:30:00 à  16:00:00",
+      "streets": "La Nourrice Area, Poultry, MCML and CWA.",
+      "from": "2026-05-14T05:30:00.000Z",
+      "to": "2026-05-14T12:00:00.000Z",
+      "id": "26a123c7b1207ed44a824a960d62204b"
+    },
     {
       "date": "Le jeudi 14 août 2025 de  08:30:00 à  16:00:00",
       "streets": "Les abonnés de La Nourice, MCML, CWA Trois Ilots et Trois Ilots Poultry.",
