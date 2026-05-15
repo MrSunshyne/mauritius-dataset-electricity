@@ -2,11 +2,18 @@
   "slug": "grand-bay",
   "name": "GRAND BAY",
   "district": "rivieredurempart",
-  "generated": "2026-05-15T13:30:33.811Z",
-  "outageCount": 108,
+  "generated": "2026-05-15T14:45:28.528Z",
+  "outageCount": 109,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-04-19",
+  "lastOutage": "2026-05-15",
   "outages": [
+    {
+      "date": "Le vendredi 15 mai 2026 de  18:00:00 à  00:00:00",
+      "streets": "ROYAL ROAD NEAR GLORIA FAST FOOD",
+      "from": "2026-05-15T14:00:00.000Z",
+      "to": "2026-05-14T20:00:00.000Z",
+      "id": "ad8a60cfc912ad47006e987d7c2d5f00"
+    },
     {
       "date": "Le dimanche 19 avril 2026 de  08:00:00 à  15:00:00",
       "streets": "CHEMIN 20 PIED, VILLA DEL SOL & VILLA SEASHELL APPARTENT GRAND BAY",
