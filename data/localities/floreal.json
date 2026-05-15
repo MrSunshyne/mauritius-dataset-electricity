@@ -2,11 +2,18 @@
   "slug": "floreal",
   "name": "FLOREAL",
   "district": "plainewilhems",
-  "generated": "2026-05-15T10:44:54.901Z",
-  "outageCount": 89,
+  "generated": "2026-05-15T11:35:41.155Z",
+  "outageCount": 90,
   "firstOutage": "2022-03-31",
-  "lastOutage": "2026-05-10",
+  "lastOutage": "2026-05-17",
   "outages": [
+    {
+      "date": "Le dimanche 17 mai 2026 de  08:30:00 à  16:00:00",
+      "streets": "De Burgh, Edwards Street King George V Avenue, Mungur Street, Bach Lane, Hesket Heights Street, une partie Queen Mary Ave, une partie de John Kennedy Ave, une partie de Georges Coubert Street, une partie de Lala Lane, une partie de Lucien de Chazal Street, une partie d ? Ernest Harel Street",
+      "from": "2026-05-17T04:30:00.000Z",
+      "to": "2026-05-17T12:00:00.000Z",
+      "id": "028401e324890589c17f9381385879b4"
+    },
     {
       "date": "Le dimanche 10 mai 2026 de  08:30:00 à  16:00:00",
       "streets": "dans les environs de Résidence Mangalkhan, Govinden Lane, Espitalier Noel Street, Nelson Street, Balzac Street, Floreal Road et une partie de Beedassy Lane",

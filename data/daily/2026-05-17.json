@@ -1,8 +1,8 @@
 {
   "date": "2026-05-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-15T10:44:54.842Z",
-  "outageCount": 8,
+  "generated": "2026-05-15T11:35:41.100Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le dimanche 17 mai 2026 de  08:15:00 à  15:30:00",
@@ -23,6 +23,16 @@
       "from": "2026-05-17T04:30:00.000Z",
       "to": "2026-05-17T09:30:00.000Z",
       "id": "0b6a34fcfae82e42f05e159953f267d6"
+    },
+    {
+      "date": "Le dimanche 17 mai 2026 de  09:00:00 à  16:00:00",
+      "locality": "SEBASTOPOL",
+      "localitySlug": "sebastopol",
+      "streets": "Village de Pellegrin, Sébastopol Road, Seetaram Road, Tourist Street, Clavet Road, Soodin Road, Résidences Opal, Bombaye Street",
+      "district": "flacq",
+      "from": "2026-05-17T05:00:00.000Z",
+      "to": "2026-05-17T12:00:00.000Z",
+      "id": "155e2fa7bda4e48ec40f4266735bf0a4"
     },
     {
       "date": "Le dimanche 17 mai 2026 de  08:30:00 à  15:30:00",
@@ -73,6 +83,16 @@
       "from": "2026-05-17T04:30:00.000Z",
       "to": "2026-05-17T11:00:00.000Z",
       "id": "1b85d3409f585d8240ee2737a4d9b9c5"
+    },
+    {
+      "date": "Le dimanche 17 mai 2026 de  08:30:00 à  16:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "De Burgh, Edwards Street King George V Avenue, Mungur Street, Bach Lane, Hesket Heights Street, une partie Queen Mary Ave, une partie de John Kennedy Ave, une partie de Georges Coubert Street, une partie de Lala Lane, une partie de Lucien de Chazal Street, une partie d ? Ernest Harel Street",
+      "district": "plainewilhems",
+      "from": "2026-05-17T04:30:00.000Z",
+      "to": "2026-05-17T12:00:00.000Z",
+      "id": "028401e324890589c17f9381385879b4"
     },
     {
       "date": "Le dimanche 17 mai 2026 de  08:30:00 à  14:30:00",
