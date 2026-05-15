@@ -2,11 +2,25 @@
   "slug": "riambel",
   "name": "RIAMBEL",
   "district": "savanne",
-  "generated": "2026-05-14T18:31:14.034Z",
-  "outageCount": 29,
+  "generated": "2026-05-15T06:59:17.746Z",
+  "outageCount": 31,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-04-11",
+  "lastOutage": "2026-05-19",
   "outages": [
+    {
+      "date": "Le mardi 19 mai 2026 de  09:00:00 à  15:00:00",
+      "streets": "Morcellement Dunputh et Cent Lis Sur Mer Riambel",
+      "from": "2026-05-19T05:00:00.000Z",
+      "to": "2026-05-19T11:00:00.000Z",
+      "id": "dc589a5b96ab946a19c19c5fd8a51bc4"
+    },
+    {
+      "date": "Le lundi 18 mai 2026 de  09:00:00 à  15:00:00",
+      "streets": "Morcellement Thanacoody, Morcellement Lai Moon et NHDC Riambel Surinam",
+      "from": "2026-05-18T05:00:00.000Z",
+      "to": "2026-05-18T11:00:00.000Z",
+      "id": "2afe74996088b289ca33ddadd05f80e9"
+    },
     {
       "date": "Le samedi 11 avril 2026 de  08:30:00 à  17:00:00",
       "streets": "Pomponette Riambel et Morcellement Omnicane St Felix",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-14T18:31:14.065Z",
+  "generated": "2026-05-15T06:59:17.781Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -547,10 +547,10 @@
       "slug": "bois-mangues",
       "name": "BOIS MANGUES",
       "district": "pamplemousses",
-      "outageCount": 2,
+      "outageCount": 3,
       "file": "bois-mangues.json",
       "firstOutage": "2024-07-07",
-      "lastOutage": "2026-02-02"
+      "lastOutage": "2026-05-15"
     },
     {
       "slug": "bois-marchand",
@@ -3292,10 +3292,10 @@
       "slug": "riambel",
       "name": "RIAMBEL",
       "district": "savanne",
-      "outageCount": 29,
+      "outageCount": 31,
       "file": "riambel.json",
       "firstOutage": "2022-03-20",
-      "lastOutage": "2026-04-11"
+      "lastOutage": "2026-05-19"
     },
     {
       "slug": "riche-bois",
@@ -3697,10 +3697,10 @@
       "slug": "sodnac",
       "name": "SODNAC",
       "district": "plainewilhems",
-      "outageCount": 47,
+      "outageCount": 48,
       "file": "sodnac.json",
       "firstOutage": "2022-05-30",
-      "lastOutage": "2026-05-09"
+      "lastOutage": "2026-05-15"
     },
     {
       "slug": "solferino",

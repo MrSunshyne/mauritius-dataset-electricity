@@ -1,9 +1,19 @@
 {
   "date": "2026-05-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-14T18:31:13.918Z",
-  "outageCount": 2,
+  "generated": "2026-05-15T06:59:17.603Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le vendredi 15 mai 2026 de  09:00:00 à  13:00:00",
+      "locality": "TROIS ILOTS",
+      "localitySlug": "trois-ilots",
+      "streets": "TROIS ILOTS OLIVIA",
+      "district": "flacq",
+      "from": "2026-05-15T05:00:00.000Z",
+      "to": "2026-05-15T09:00:00.000Z",
+      "id": "3940cc7e1caad8b23ab1640e49d23209"
+    },
     {
       "date": "Le vendredi 15 mai 2026 de  08:45:00 à  15:00:00",
       "locality": "CAMP MARCELIN",
@@ -13,6 +23,26 @@
       "from": "2026-05-15T04:45:00.000Z",
       "to": "2026-05-15T11:00:00.000Z",
       "id": "cc80ac6c5792a92a92fef710e96e5ae7"
+    },
+    {
+      "date": "Le vendredi 15 mai 2026 de  10:00:00 à  14:00:00",
+      "locality": "BOIS MANGUES",
+      "localitySlug": "bois-mangues",
+      "streets": "MORC BOIS MANGUES",
+      "district": "pamplemousses",
+      "from": "2026-05-15T06:00:00.000Z",
+      "to": "2026-05-15T10:00:00.000Z",
+      "id": "d52fffb5ccfcc7cf32a62e31b4a5af91"
+    },
+    {
+      "date": "Le vendredi 15 mai 2026 de  10:20:00 à  11:30:00",
+      "locality": "SODNAC",
+      "localitySlug": "sodnac",
+      "streets": "AVENUE AZALEE/TULIP TRIANON 1 SODNAC",
+      "district": "plainewilhems",
+      "from": "2026-05-15T06:20:00.000Z",
+      "to": "2026-05-15T07:30:00.000Z",
+      "id": "9c863574a9dc572d89ccdd539f6de3e5"
     },
     {
       "date": "Le vendredi 15 mai 2026 de  08:30:00 à  14:00:00",

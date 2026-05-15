@@ -2,11 +2,18 @@
   "slug": "sodnac",
   "name": "SODNAC",
   "district": "plainewilhems",
-  "generated": "2026-05-14T18:31:14.048Z",
-  "outageCount": 47,
+  "generated": "2026-05-15T06:59:17.763Z",
+  "outageCount": 48,
   "firstOutage": "2022-05-30",
-  "lastOutage": "2026-05-09",
+  "lastOutage": "2026-05-15",
   "outages": [
+    {
+      "date": "Le vendredi 15 mai 2026 de  10:20:00 à  11:30:00",
+      "streets": "AVENUE AZALEE/TULIP TRIANON 1 SODNAC",
+      "from": "2026-05-15T06:20:00.000Z",
+      "to": "2026-05-15T07:30:00.000Z",
+      "id": "9c863574a9dc572d89ccdd539f6de3e5"
+    },
     {
       "date": "Le samedi 9 mai 2026 de  08:30:00 à  14:30:00",
       "streets": "Dreamton park et Villeneuve Apartment",
