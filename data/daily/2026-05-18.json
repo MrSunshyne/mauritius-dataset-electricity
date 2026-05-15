@@ -1,9 +1,19 @@
 {
   "date": "2026-05-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-15T12:30:39.394Z",
-  "outageCount": 1,
+  "generated": "2026-05-15T13:30:33.744Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le lundi 18 mai 2026 de  08:30:00 à  15:00:00",
+      "locality": "MARE D-ALBERT",
+      "localitySlug": "mare-d-albert",
+      "streets": "Mare D’Albert habitant dans le périmètre et les rues suivantes: NHDC Grove, Morcellement Grove et une partie de la Route Royale Mare D’Albert",
+      "district": "grandport",
+      "from": "2026-05-18T04:30:00.000Z",
+      "to": "2026-05-18T11:00:00.000Z",
+      "id": "e4770c7b2914a9495f63b8e4affa3a66"
+    },
     {
       "date": "Le lundi 18 mai 2026 de  09:00:00 à  15:00:00",
       "locality": "RIAMBEL",
