@@ -2,11 +2,18 @@
   "slug": "sodnac",
   "name": "SODNAC",
   "district": "plainewilhems",
-  "generated": "2026-05-15T06:59:17.763Z",
-  "outageCount": 48,
+  "generated": "2026-05-15T09:51:57.841Z",
+  "outageCount": 49,
   "firstOutage": "2022-05-30",
   "lastOutage": "2026-05-15",
   "outages": [
+    {
+      "date": "Le vendredi 15 mai 2026 de  12:00:00 à  14:30:00",
+      "streets": "AVENUE YLANG YLANG MORC TRIANON 2 SODNAC",
+      "from": "2026-05-15T08:00:00.000Z",
+      "to": "2026-05-15T10:30:00.000Z",
+      "id": "304e1d84db39fa1df387f28f09b7ed4b"
+    },
     {
       "date": "Le vendredi 15 mai 2026 de  10:20:00 à  11:30:00",
       "streets": "AVENUE AZALEE/TULIP TRIANON 1 SODNAC",

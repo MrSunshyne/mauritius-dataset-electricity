@@ -1,8 +1,8 @@
 {
   "date": "2026-05-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-15T06:59:17.603Z",
-  "outageCount": 5,
+  "generated": "2026-05-15T09:51:57.721Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le vendredi 15 mai 2026 de  09:00:00 à  13:00:00",
@@ -35,6 +35,26 @@
       "id": "d52fffb5ccfcc7cf32a62e31b4a5af91"
     },
     {
+      "date": "Le vendredi 15 mai 2026 de  13:00:00 à  18:00:00",
+      "locality": "KHOYRATTY",
+      "localitySlug": "khoyratty",
+      "streets": "ROYAL ROAD/OLD FLACQ ROAD KHORATTY",
+      "district": "pamplemousses",
+      "from": "2026-05-15T09:00:00.000Z",
+      "to": "2026-05-15T14:00:00.000Z",
+      "id": "c0a4a759cca380a153ae1a72e77bc7c3"
+    },
+    {
+      "date": "Le vendredi 15 mai 2026 de  12:00:00 à  16:00:00",
+      "locality": "MON CHOISY",
+      "localitySlug": "mon-choisy",
+      "streets": "MORC VRS MON CHOISY",
+      "district": "pamplemousses",
+      "from": "2026-05-15T08:00:00.000Z",
+      "to": "2026-05-15T12:00:00.000Z",
+      "id": "35ac95578e8bdd80f300dcb723ace875"
+    },
+    {
       "date": "Le vendredi 15 mai 2026 de  10:20:00 à  11:30:00",
       "locality": "SODNAC",
       "localitySlug": "sodnac",
@@ -43,6 +63,16 @@
       "from": "2026-05-15T06:20:00.000Z",
       "to": "2026-05-15T07:30:00.000Z",
       "id": "9c863574a9dc572d89ccdd539f6de3e5"
+    },
+    {
+      "date": "Le vendredi 15 mai 2026 de  12:00:00 à  14:30:00",
+      "locality": "SODNAC",
+      "localitySlug": "sodnac",
+      "streets": "AVENUE YLANG YLANG MORC TRIANON 2 SODNAC",
+      "district": "plainewilhems",
+      "from": "2026-05-15T08:00:00.000Z",
+      "to": "2026-05-15T10:30:00.000Z",
+      "id": "304e1d84db39fa1df387f28f09b7ed4b"
     },
     {
       "date": "Le vendredi 15 mai 2026 de  08:30:00 à  14:00:00",

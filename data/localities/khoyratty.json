@@ -2,11 +2,18 @@
   "slug": "khoyratty",
   "name": "KHOYRATTY",
   "district": "pamplemousses",
-  "generated": "2026-05-15T06:59:17.695Z",
-  "outageCount": 27,
+  "generated": "2026-05-15T09:51:57.788Z",
+  "outageCount": 28,
   "firstOutage": "2022-06-06",
-  "lastOutage": "2026-04-03",
+  "lastOutage": "2026-05-15",
   "outages": [
+    {
+      "date": "Le vendredi 15 mai 2026 de  13:00:00 à  18:00:00",
+      "streets": "ROYAL ROAD/OLD FLACQ ROAD KHORATTY",
+      "from": "2026-05-15T09:00:00.000Z",
+      "to": "2026-05-15T14:00:00.000Z",
+      "id": "c0a4a759cca380a153ae1a72e77bc7c3"
+    },
     {
       "date": "Le vendredi 3 avril 2026 de  09:00:00 à  13:00:00",
       "streets": "OLD FLACQ RD KHOYRATTY",

@@ -2,11 +2,18 @@
   "slug": "mon-choisy",
   "name": "MON CHOISY",
   "district": "pamplemousses",
-  "generated": "2026-05-15T06:59:17.713Z",
-  "outageCount": 33,
+  "generated": "2026-05-15T09:51:57.803Z",
+  "outageCount": 34,
   "firstOutage": "2022-05-21",
-  "lastOutage": "2026-04-12",
+  "lastOutage": "2026-05-15",
   "outages": [
+    {
+      "date": "Le vendredi 15 mai 2026 de  12:00:00 à  16:00:00",
+      "streets": "MORC VRS MON CHOISY",
+      "from": "2026-05-15T08:00:00.000Z",
+      "to": "2026-05-15T12:00:00.000Z",
+      "id": "35ac95578e8bdd80f300dcb723ace875"
+    },
     {
       "date": "Le dimanche 12 avril 2026 de  21:30:00 à  02:00:00",
       "streets": "MORC VRSMON CHOISY",
