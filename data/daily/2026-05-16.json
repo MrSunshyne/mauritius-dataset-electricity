@@ -1,9 +1,19 @@
 {
   "date": "2026-05-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-16T06:41:21.625Z",
-  "outageCount": 8,
+  "generated": "2026-05-16T07:34:21.050Z",
+  "outageCount": 9,
   "outages": [
+    {
+      "date": "Le samedi 16 mai 2026 de  11:30:00 à  13:00:00",
+      "locality": "LALLMATIE",
+      "localitySlug": "lallmatie",
+      "streets": "VINOBA ROAD LALLMATIE",
+      "district": "flacq",
+      "from": "2026-05-16T07:30:00.000Z",
+      "to": "2026-05-16T09:00:00.000Z",
+      "id": "c19383fb337489c2ed81d98a7d5560af"
+    },
     {
       "date": "Le samedi 16 mai 2026 de  08:30:00 à  15:00:00",
       "locality": "COTE D-OR",

@@ -2,11 +2,18 @@
   "slug": "lallmatie",
   "name": "LALLMATIE",
   "district": "flacq",
-  "generated": "2026-05-16T06:41:21.696Z",
-  "outageCount": 27,
+  "generated": "2026-05-16T07:34:21.132Z",
+  "outageCount": 28,
   "firstOutage": "2022-10-04",
-  "lastOutage": "2026-02-18",
+  "lastOutage": "2026-05-16",
   "outages": [
+    {
+      "date": "Le samedi 16 mai 2026 de  11:30:00 à  13:00:00",
+      "streets": "VINOBA ROAD LALLMATIE",
+      "from": "2026-05-16T07:30:00.000Z",
+      "to": "2026-05-16T09:00:00.000Z",
+      "id": "c19383fb337489c2ed81d98a7d5560af"
+    },
     {
       "date": "Le mercredi 18 février 2026 de  11:00:00 à  12:00:00",
       "streets": "Grand Bas fond towards Lallmatie",
