@@ -1,8 +1,8 @@
 {
   "date": "2026-05-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-15T18:27:57.172Z",
-  "outageCount": 7,
+  "generated": "2026-05-16T06:41:21.625Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le samedi 16 mai 2026 de  08:30:00 à  15:00:00",
@@ -73,6 +73,16 @@
       "from": "2026-05-16T04:30:00.000Z",
       "to": "2026-05-16T05:00:00.000Z",
       "id": "30eebe5892738f79f9c1486a8fa162df"
+    },
+    {
+      "date": "Le samedi 16 mai 2026 de  09:00:00 à  14:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "MORC ANTHELME, CAMP BOMBAYE, MORC PILOT, MORC LECLEZIO ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2026-05-16T05:00:00.000Z",
+      "to": "2026-05-16T10:00:00.000Z",
+      "id": "f3ddd59268f2c110cc5f4195f1462d63"
     }
   ]
 }
