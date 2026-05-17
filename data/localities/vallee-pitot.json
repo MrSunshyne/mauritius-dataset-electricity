@@ -2,11 +2,18 @@
   "slug": "vallee-pitot",
   "name": "VALLEE PITOT",
   "district": "portlouis",
-  "generated": "2026-05-17T08:39:11.558Z",
-  "outageCount": 34,
+  "generated": "2026-05-17T09:30:24.774Z",
+  "outageCount": 35,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-03-10",
+  "lastOutage": "2026-05-17",
   "outages": [
+    {
+      "date": "Le dimanche 17 mai 2026 de  12:45:00 à  15:45:00",
+      "streets": "BLVD PITOT",
+      "from": "2026-05-17T08:45:00.000Z",
+      "to": "2026-05-17T11:45:00.000Z",
+      "id": "32286908a89a8eaadfe017f90240d751"
+    },
     {
       "date": "Le mardi 10 mars 2026 de  12:00:00 à  13:30:00",
       "streets": "RAJCOOMAR GUJADHUR, CRIMEA ET INKERMAN ST",
