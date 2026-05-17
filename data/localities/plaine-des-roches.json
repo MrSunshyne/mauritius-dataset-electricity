@@ -2,11 +2,18 @@
   "slug": "plaine-des-roches",
   "name": "PLAINE DES ROCHES",
   "district": "rivieredurempart",
-  "generated": "2026-05-17T14:27:30.798Z",
-  "outageCount": 38,
+  "generated": "2026-05-17T15:19:59.332Z",
+  "outageCount": 39,
   "firstOutage": "2022-04-24",
-  "lastOutage": "2026-05-15",
+  "lastOutage": "2026-05-17",
   "outages": [
+    {
+      "date": "Le dimanche 17 mai 2026 de  18:30:00 à  22:30:00",
+      "streets": "ROYAL ROAD PLAINE DEROCHES",
+      "from": "2026-05-17T14:30:00.000Z",
+      "to": "2026-05-17T18:30:00.000Z",
+      "id": "72863857f0ab08c46d0d4dffd10a2daa"
+    },
     {
       "date": "Le vendredi 15 mai 2026 de  17:30:00 à  00:00:00",
       "streets": "SOOKAH ROAD & SURROUNDINGS",

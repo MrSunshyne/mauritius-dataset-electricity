@@ -1,8 +1,8 @@
 {
   "date": "2026-05-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-17T14:27:30.686Z",
-  "outageCount": 13,
+  "generated": "2026-05-17T15:19:59.224Z",
+  "outageCount": 14,
   "outages": [
     {
       "date": "Le dimanche 17 mai 2026 de  08:15:00 à  15:30:00",
@@ -123,6 +123,16 @@
       "from": "2026-05-17T08:45:00.000Z",
       "to": "2026-05-17T11:45:00.000Z",
       "id": "32286908a89a8eaadfe017f90240d751"
+    },
+    {
+      "date": "Le dimanche 17 mai 2026 de  18:30:00 à  22:30:00",
+      "locality": "PLAINE DES ROCHES",
+      "localitySlug": "plaine-des-roches",
+      "streets": "ROYAL ROAD PLAINE DEROCHES",
+      "district": "rivieredurempart",
+      "from": "2026-05-17T14:30:00.000Z",
+      "to": "2026-05-17T18:30:00.000Z",
+      "id": "72863857f0ab08c46d0d4dffd10a2daa"
     },
     {
       "date": "Le dimanche 17 mai 2026 de  08:30:00 à  15:00:00",
