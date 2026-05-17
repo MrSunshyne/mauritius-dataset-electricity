@@ -2,11 +2,18 @@
   "slug": "citronelle",
   "name": "CITRONELLE(RODRIGUES)",
   "district": "rodrigues",
-  "generated": "2026-05-16T18:14:13.183Z",
-  "outageCount": 2,
+  "generated": "2026-05-17T06:52:06.272Z",
+  "outageCount": 3,
   "firstOutage": "2024-06-20",
-  "lastOutage": "2025-12-06",
+  "lastOutage": "2026-05-17",
   "outages": [
+    {
+      "date": "Le dimanche 17 mai 2026 de  08:30:00 à  15:00:00",
+      "streets": "Champs,Cygangue,Camp Baptiste,Mt Limon,Mt Lubin et Citronelle",
+      "from": "2026-05-17T04:30:00.000Z",
+      "to": "2026-05-17T11:00:00.000Z",
+      "id": "3dc8151fd0de99e10679eec6460b8ab8"
+    },
     {
       "date": "Le samedi 6 décembre 2025 de  08:30:00 à  15:00:00",
       "streets": "Citronelle",

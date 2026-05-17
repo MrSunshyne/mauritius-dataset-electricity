@@ -1,8 +1,8 @@
 {
   "date": "2026-05-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-16T18:14:13.139Z",
-  "outageCount": 10,
+  "generated": "2026-05-17T06:52:06.221Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le dimanche 17 mai 2026 de  08:15:00 à  15:30:00",
@@ -103,6 +103,16 @@
       "from": "2026-05-17T04:30:00.000Z",
       "to": "2026-05-17T10:30:00.000Z",
       "id": "176e9c26465c609914d60972e1d9aa75"
+    },
+    {
+      "date": "Le dimanche 17 mai 2026 de  08:30:00 à  15:00:00",
+      "locality": "CITRONELLE(RODRIGUES)",
+      "localitySlug": "citronelle",
+      "streets": "Champs,Cygangue,Camp Baptiste,Mt Limon,Mt Lubin et Citronelle",
+      "district": "rodrigues",
+      "from": "2026-05-17T04:30:00.000Z",
+      "to": "2026-05-17T11:00:00.000Z",
+      "id": "3dc8151fd0de99e10679eec6460b8ab8"
     }
   ]
 }
