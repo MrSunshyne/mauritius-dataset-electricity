@@ -2,8 +2,8 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-05-17T09:30:24.772Z",
-  "outageCount": 243,
+  "generated": "2026-05-17T10:27:09.790Z",
+  "outageCount": 244,
   "firstOutage": "2022-03-17",
   "lastOutage": "2026-05-24",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-05-24T04:30:00.000Z",
       "to": "2026-05-24T13:00:00.000Z",
       "id": "9a9bd196ed426ebba0a4b4cbca34c8d4"
+    },
+    {
+      "date": "Le dimanche 17 mai 2026 de  13:45:00 à  15:00:00",
+      "streets": "JOHN KENNEDY, NICHOLSON, ET DANS LES ALENTOURS DE STATION POLICE",
+      "from": "2026-05-17T09:45:00.000Z",
+      "to": "2026-05-17T11:00:00.000Z",
+      "id": "1c3f17edf1119c489c6b06d62a560574"
     },
     {
       "date": "Le dimanche 17 mai 2026 de  08:30:00 à  16:00:00",

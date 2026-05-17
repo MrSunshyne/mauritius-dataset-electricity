@@ -1,8 +1,8 @@
 {
   "date": "2026-05-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-17T09:30:24.626Z",
-  "outageCount": 12,
+  "generated": "2026-05-17T10:27:09.667Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le dimanche 17 mai 2026 de  08:15:00 à  15:30:00",
@@ -93,6 +93,16 @@
       "from": "2026-05-17T04:30:00.000Z",
       "to": "2026-05-17T12:00:00.000Z",
       "id": "028401e324890589c17f9381385879b4"
+    },
+    {
+      "date": "Le dimanche 17 mai 2026 de  13:45:00 à  15:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "JOHN KENNEDY, NICHOLSON, ET DANS LES ALENTOURS DE STATION POLICE",
+      "district": "plainewilhems",
+      "from": "2026-05-17T09:45:00.000Z",
+      "to": "2026-05-17T11:00:00.000Z",
+      "id": "1c3f17edf1119c489c6b06d62a560574"
     },
     {
       "date": "Le dimanche 17 mai 2026 de  08:30:00 à  14:30:00",
