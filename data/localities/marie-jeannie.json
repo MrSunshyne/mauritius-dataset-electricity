@@ -2,11 +2,18 @@
   "slug": "marie-jeannie",
   "name": "MARIE JEANNIE",
   "district": "grandport",
-  "generated": "2026-05-18T07:13:09.804Z",
-  "outageCount": 1,
+  "generated": "2026-05-18T09:02:53.453Z",
+  "outageCount": 2,
   "firstOutage": "2025-11-26",
-  "lastOutage": "2025-11-26",
+  "lastOutage": "2026-05-20",
   "outages": [
+    {
+      "date": "Le mercredi 20 mai 2026 de  08:30:00 à  17:00:00",
+      "streets": "Balisson et Marie Jeannie habitant dans le périmètre et les rues suivantes: Morcellement Societé du Sud, CHA Marie Jeannie, NHDC Balisson, Junction Road et une partie de Relogement  Mare Chicose",
+      "from": "2026-05-20T04:30:00.000Z",
+      "to": "2026-05-20T13:00:00.000Z",
+      "id": "afe70a361d5f226ed3d6fac14ea8e46b"
+    },
     {
       "date": "Le mercredi 26 novembre 2025 de  13:10:00 à  14:10:00",
       "streets": "MARIE JEANNIE",
