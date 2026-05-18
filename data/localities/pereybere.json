@@ -2,11 +2,18 @@
   "slug": "pereybere",
   "name": "PEREYBERE",
   "district": "rivieredurempart",
-  "generated": "2026-05-17T18:17:05.281Z",
-  "outageCount": 109,
+  "generated": "2026-05-18T07:13:09.819Z",
+  "outageCount": 110,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-05-09",
+  "lastOutage": "2026-05-18",
   "outages": [
+    {
+      "date": "Le lundi 18 mai 2026 de  09:30:00 à  14:30:00",
+      "streets": "VILLA DEL SOL AND SURROUNDING",
+      "from": "2026-05-18T05:30:00.000Z",
+      "to": "2026-05-18T10:30:00.000Z",
+      "id": "6a29b9cb9a62997755da54b33021b33f"
+    },
     {
       "date": "Le samedi 9 mai 2026 de  08:00:00 à  15:00:00",
       "streets": "CASA FLORIDA ROAD, COLENDAVELLOO ROAD, PEREYBERE",

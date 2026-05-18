@@ -1,8 +1,8 @@
 {
   "date": "2026-05-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-17T18:17:05.190Z",
-  "outageCount": 2,
+  "generated": "2026-05-18T07:13:09.712Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le lundi 18 mai 2026 de  08:30:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-05-18T04:30:00.000Z",
       "to": "2026-05-18T11:00:00.000Z",
       "id": "e4770c7b2914a9495f63b8e4affa3a66"
+    },
+    {
+      "date": "Le lundi 18 mai 2026 de  09:30:00 à  14:30:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "VILLA DEL SOL AND SURROUNDING",
+      "district": "rivieredurempart",
+      "from": "2026-05-18T05:30:00.000Z",
+      "to": "2026-05-18T10:30:00.000Z",
+      "id": "6a29b9cb9a62997755da54b33021b33f"
     },
     {
       "date": "Le lundi 18 mai 2026 de  09:00:00 à  15:00:00",

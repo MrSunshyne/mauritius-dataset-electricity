@@ -1,8 +1,8 @@
 {
   "date": "2026-05-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-17T18:17:05.190Z",
-  "outageCount": 1,
+  "generated": "2026-05-18T07:13:09.712Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le dimanche 24 mai 2026 de  08:30:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-05-24T04:30:00.000Z",
       "to": "2026-05-24T13:00:00.000Z",
       "id": "9a9bd196ed426ebba0a4b4cbca34c8d4"
+    },
+    {
+      "date": "Le dimanche 24 mai 2026 de  08:30:00 à  16:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "Dans les environs de Morc Antelme, Morc Desvoyenne, Morc Mooneyenne, Morc Moraby, Morc Hosany, Camp Bombaye, une partie de Morc Piat, Camp Le Juge, Derby Street, Les Residences St Luc, Bourg, La Brasserie, La Colombe, Jasmin et Atlee",
+      "district": "plainewilhems",
+      "from": "2026-05-24T04:30:00.000Z",
+      "to": "2026-05-24T12:00:00.000Z",
+      "id": "9a113d560538e33f338bd84a6e8cef5f"
     }
   ]
 }

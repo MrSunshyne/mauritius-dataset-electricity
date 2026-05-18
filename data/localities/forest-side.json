@@ -2,11 +2,18 @@
   "slug": "forest-side",
   "name": "FOREST SIDE",
   "district": "plainewilhems",
-  "generated": "2026-05-17T18:17:05.248Z",
-  "outageCount": 99,
+  "generated": "2026-05-18T07:13:09.779Z",
+  "outageCount": 100,
   "firstOutage": "2022-07-03",
-  "lastOutage": "2026-05-16",
+  "lastOutage": "2026-05-24",
   "outages": [
+    {
+      "date": "Le dimanche 24 mai 2026 de  08:30:00 à  16:00:00",
+      "streets": "Dans les environs de Morc Antelme, Morc Desvoyenne, Morc Mooneyenne, Morc Moraby, Morc Hosany, Camp Bombaye, une partie de Morc Piat, Camp Le Juge, Derby Street, Les Residences St Luc, Bourg, La Brasserie, La Colombe, Jasmin et Atlee",
+      "from": "2026-05-24T04:30:00.000Z",
+      "to": "2026-05-24T12:00:00.000Z",
+      "id": "9a113d560538e33f338bd84a6e8cef5f"
+    },
     {
       "date": "Le samedi 16 mai 2026 de  09:00:00 à  14:00:00",
       "streets": "MORC ANTHELME, CAMP BOMBAYE, MORC PILOT, MORC LECLEZIO ET LES ALENTOURS",
