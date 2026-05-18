@@ -1,0 +1,28 @@
+{
+  "date": "2026-05-21",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-05-18T11:14:33.493Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le jeudi 21 mai 2026 de  09:00:00 à  16:00:00",
+      "locality": "RIVIERE DU POSTE",
+      "localitySlug": "riviere-du-poste",
+      "streets": "Riviere Du Poste et périmètre de Camp Siajee, Cemetery Road, Boodhoo Lane, Sookal Lane",
+      "district": "grandport",
+      "from": "2026-05-21T05:00:00.000Z",
+      "to": "2026-05-21T12:00:00.000Z",
+      "id": "72d27cedad55718e7cd9b22db9041765"
+    },
+    {
+      "date": "Le jeudi 21 mai 2026 de  13:00:00 à  17:30:00",
+      "locality": "CHEMIN GRENIER",
+      "localitySlug": "chemin-grenier",
+      "streets": "Chemin Grenier",
+      "district": "savanne",
+      "from": "2026-05-21T09:00:00.000Z",
+      "to": "2026-05-21T13:30:00.000Z",
+      "id": "ff94364bc7d802f1b6867c114a523c48"
+    }
+  ]
+}

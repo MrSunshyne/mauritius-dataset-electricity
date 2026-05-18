@@ -2,11 +2,18 @@
   "slug": "britannia",
   "name": "BRITANNIA",
   "district": "plainewilhems",
-  "generated": "2026-05-18T09:02:53.405Z",
-  "outageCount": 17,
+  "generated": "2026-05-18T11:14:33.525Z",
+  "outageCount": 18,
   "firstOutage": "2023-04-02",
-  "lastOutage": "2025-10-07",
+  "lastOutage": "2026-05-19",
   "outages": [
+    {
+      "date": "Le mardi 19 mai 2026 de  09:00:00 à  16:00:00",
+      "streets": "Camp Berthaud, Camp Rampur, Morcellement Britannia et St Avold",
+      "from": "2026-05-19T05:00:00.000Z",
+      "to": "2026-05-19T12:00:00.000Z",
+      "id": "f7523904d5b6134b3b076db382775626"
+    },
     {
       "date": "Le mardi 7 octobre 2025 de  09:00:00 à  15:00:00",
       "streets": "Le village de Riviere Dragon Britannia",

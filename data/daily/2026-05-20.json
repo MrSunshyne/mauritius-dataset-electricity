@@ -1,8 +1,8 @@
 {
   "date": "2026-05-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-18T09:02:53.372Z",
-  "outageCount": 2,
+  "generated": "2026-05-18T11:14:33.493Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le mercredi 20 mai 2026 de  08:30:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-05-20T04:30:00.000Z",
       "to": "2026-05-20T13:00:00.000Z",
       "id": "afe70a361d5f226ed3d6fac14ea8e46b"
+    },
+    {
+      "date": "Le mercredi 20 mai 2026 de  09:00:00 à  16:00:00",
+      "locality": "MARE TABAC",
+      "localitySlug": "mare-tabac",
+      "streets": "Mare Tabac",
+      "district": "grandport",
+      "from": "2026-05-20T05:00:00.000Z",
+      "to": "2026-05-20T12:00:00.000Z",
+      "id": "104f9364c4642c2d29b014da043a4ea1"
     },
     {
       "date": "Le mercredi 20 mai 2026 de  09:00:00 à  16:00:00",

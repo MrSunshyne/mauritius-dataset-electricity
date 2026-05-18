@@ -1,8 +1,8 @@
 {
   "date": "2026-05-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-18T09:02:53.372Z",
-  "outageCount": 3,
+  "generated": "2026-05-18T11:14:33.493Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le lundi 18 mai 2026 de  08:30:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-05-18T04:30:00.000Z",
       "to": "2026-05-18T11:00:00.000Z",
       "id": "e4770c7b2914a9495f63b8e4affa3a66"
+    },
+    {
+      "date": "Le lundi 18 mai 2026 de  14:15:00 à  15:30:00",
+      "locality": "BEAU VALLON",
+      "localitySlug": "beau-vallon",
+      "streets": "DANS LES ALENTOURS DE EX KING SAVERS",
+      "district": "grandport",
+      "from": "2026-05-18T10:15:00.000Z",
+      "to": "2026-05-18T11:30:00.000Z",
+      "id": "9000b1ce82b23f7a00e0855d0fc70f6c"
     },
     {
       "date": "Le lundi 18 mai 2026 de  09:30:00 à  14:30:00",

@@ -1,8 +1,8 @@
 {
   "date": "2026-05-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-18T09:02:53.372Z",
-  "outageCount": 1,
+  "generated": "2026-05-18T11:14:33.493Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le mardi 19 mai 2026 de  09:00:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-05-19T05:00:00.000Z",
       "to": "2026-05-19T11:00:00.000Z",
       "id": "dc589a5b96ab946a19c19c5fd8a51bc4"
+    },
+    {
+      "date": "Le mardi 19 mai 2026 de  09:00:00 à  16:00:00",
+      "locality": "BRITANNIA",
+      "localitySlug": "britannia",
+      "streets": "Camp Berthaud, Camp Rampur, Morcellement Britannia et St Avold",
+      "district": "savanne",
+      "from": "2026-05-19T05:00:00.000Z",
+      "to": "2026-05-19T12:00:00.000Z",
+      "id": "f7523904d5b6134b3b076db382775626"
     }
   ]
 }
