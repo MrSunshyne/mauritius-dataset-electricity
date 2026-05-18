@@ -2,11 +2,18 @@
   "slug": "calebasses",
   "name": "CALEBASSES",
   "district": "pamplemousses",
-  "generated": "2026-05-18T16:12:31.958Z",
-  "outageCount": 34,
+  "generated": "2026-05-18T17:40:11.304Z",
+  "outageCount": 35,
   "firstOutage": "2022-05-15",
-  "lastOutage": "2026-04-25",
+  "lastOutage": "2026-05-18",
   "outages": [
+    {
+      "date": "Le lundi 18 mai 2026 de  20:40:00 à  00:00:00",
+      "streets": "TAGORE RD CALEBASSES/school road",
+      "from": "2026-05-18T16:40:00.000Z",
+      "to": "2026-05-17T20:00:00.000Z",
+      "id": "bca4ef806bcfe8d2b47595271ded2c25"
+    },
     {
       "date": "Le samedi 25 avril 2026 de  11:50:00 à  15:00:00",
       "streets": "BURMINGHAM LANE AND SURROUNDINGS",
