@@ -2,11 +2,18 @@
   "slug": "port-louis",
   "name": "PORT-LOUIS",
   "district": "portlouis",
-  "generated": "2026-05-18T18:30:53.303Z",
-  "outageCount": 123,
+  "generated": "2026-05-19T07:04:39.890Z",
+  "outageCount": 124,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-05-17",
+  "lastOutage": "2026-05-19",
   "outages": [
+    {
+      "date": "Le mardi 19 mai 2026 de  10:00:00 à  12:00:00",
+      "streets": "LES ABONNES HABITANT CITE MARTIAL PORT LOUIS DANS LES ENVIRONS DES RUES ALFRED GELLE, CORINGA, MALACCA, RENE MAIGROT ET UNE PARTIE DE PAUL ET VIRGINIE",
+      "from": "2026-05-19T06:00:00.000Z",
+      "to": "2026-05-19T08:00:00.000Z",
+      "id": "ca22020c5f0c629ae4641f2073978caf"
+    },
     {
       "date": "Le dimanche 17 mai 2026 de  08:30:00 à  14:30:00",
       "streets": "Dans les environs des Rues Karikal, Trichnapoly, Malacca, Coringa, Rene Maigrot, une partie de Paul et Virginie et Gorah Issac",

@@ -2,11 +2,18 @@
   "slug": "plaine-magnien",
   "name": "PLAINE MAGNIEN",
   "district": "grandport",
-  "generated": "2026-05-18T18:30:53.298Z",
-  "outageCount": 65,
+  "generated": "2026-05-19T07:04:39.886Z",
+  "outageCount": 66,
   "firstOutage": "2022-06-08",
-  "lastOutage": "2026-05-14",
+  "lastOutage": "2026-05-21",
   "outages": [
+    {
+      "date": "Le jeudi 21 mai 2026 de  13:00:00 à  16:00:00",
+      "streets": "Plaine Magnien habitant dans le périmètre et les rues suivantes: Cemetry Road, Mamoo Lane, Cassy Lane, Shivala Lane, Allée Jacques Lane, Allée Coco Lane, NPF Building, une partie de la Route Royale Plaine Magnien (aux alentours de – Station de Police, Banque SBM et MCB)",
+      "from": "2026-05-21T09:00:00.000Z",
+      "to": "2026-05-21T12:00:00.000Z",
+      "id": "d36c26f865addfa9b2403b0f6214f8f7"
+    },
     {
       "date": "Le jeudi 14 mai 2026 de  15:45:00 à  17:45:00",
       "streets": "PLAINE MAGNIEN NEAR POLICE STATION",

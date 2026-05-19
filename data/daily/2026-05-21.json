@@ -1,8 +1,8 @@
 {
   "date": "2026-05-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-18T18:30:53.195Z",
-  "outageCount": 2,
+  "generated": "2026-05-19T07:04:39.792Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le jeudi 21 mai 2026 de  09:00:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-05-21T05:00:00.000Z",
       "to": "2026-05-21T12:00:00.000Z",
       "id": "72d27cedad55718e7cd9b22db9041765"
+    },
+    {
+      "date": "Le jeudi 21 mai 2026 de  13:00:00 à  16:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "Plaine Magnien habitant dans le périmètre et les rues suivantes: Cemetry Road, Mamoo Lane, Cassy Lane, Shivala Lane, Allée Jacques Lane, Allée Coco Lane, NPF Building, une partie de la Route Royale Plaine Magnien (aux alentours de – Station de Police, Banque SBM et MCB)",
+      "district": "grandport",
+      "from": "2026-05-21T09:00:00.000Z",
+      "to": "2026-05-21T12:00:00.000Z",
+      "id": "d36c26f865addfa9b2403b0f6214f8f7"
     },
     {
       "date": "Le jeudi 21 mai 2026 de  13:00:00 à  17:30:00",
