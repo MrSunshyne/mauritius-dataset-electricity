@@ -1,8 +1,8 @@
 {
   "date": "2026-05-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-20T11:55:34.516Z",
-  "outageCount": 2,
+  "generated": "2026-05-20T12:44:42.490Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le lundi 25 mai 2026 de  09:00:00 à  11:30:00",
@@ -23,6 +23,16 @@
       "from": "2026-05-25T07:30:00.000Z",
       "to": "2026-05-25T11:00:00.000Z",
       "id": "5aa059e6e6df8952fa6d76156e5044bc"
+    },
+    {
+      "date": "Le lundi 25 mai 2026 de  09:00:00 à  12:00:00",
+      "locality": "DEUX BRAS- NEW GROVE",
+      "localitySlug": "deux-bras-new-grove",
+      "streets": "Deux Bras Sugar Estate",
+      "district": "grandport",
+      "from": "2026-05-25T05:00:00.000Z",
+      "to": "2026-05-25T08:00:00.000Z",
+      "id": "e94f22fb3a2a9298678da7cee14b6682"
     }
   ]
 }
