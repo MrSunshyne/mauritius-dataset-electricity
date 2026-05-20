@@ -1,8 +1,8 @@
 {
   "date": "2026-05-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-20T12:44:42.490Z",
-  "outageCount": 1,
+  "generated": "2026-05-20T13:48:39.820Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le vendredi 22 mai 2026 de  09:00:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-05-22T05:00:00.000Z",
       "to": "2026-05-22T12:00:00.000Z",
       "id": "b60dc214a944a3a34850b4a281ae9fc1"
+    },
+    {
+      "date": "Le vendredi 22 mai 2026 de  11:00:00 à  15:00:00",
+      "locality": "COTE D-OR",
+      "localitySlug": "cote-d-or",
+      "streets": "Morcellement Aurea",
+      "district": "moka",
+      "from": "2026-05-22T07:00:00.000Z",
+      "to": "2026-05-22T11:00:00.000Z",
+      "id": "32271bb3d4b6d719d8a8b389553460a9"
     }
   ]
 }

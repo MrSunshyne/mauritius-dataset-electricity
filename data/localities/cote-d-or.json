@@ -2,11 +2,18 @@
   "slug": "cote-d-or",
   "name": "COTE D-OR",
   "district": "moka",
-  "generated": "2026-05-20T12:44:42.540Z",
-  "outageCount": 26,
+  "generated": "2026-05-20T13:48:39.876Z",
+  "outageCount": 27,
   "firstOutage": "2022-05-22",
-  "lastOutage": "2026-05-16",
+  "lastOutage": "2026-05-22",
   "outages": [
+    {
+      "date": "Le vendredi 22 mai 2026 de  11:00:00 à  15:00:00",
+      "streets": "Morcellement Aurea",
+      "from": "2026-05-22T07:00:00.000Z",
+      "to": "2026-05-22T11:00:00.000Z",
+      "id": "32271bb3d4b6d719d8a8b389553460a9"
+    },
     {
       "date": "Le samedi 16 mai 2026 de  08:30:00 à  15:00:00",
       "streets": "Technopole, KDA, Verdant, Nexera et Vivacity",
