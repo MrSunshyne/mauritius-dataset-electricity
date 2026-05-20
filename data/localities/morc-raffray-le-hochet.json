@@ -2,11 +2,18 @@
   "slug": "morc-raffray-le-hochet",
   "name": "MORC RAFFRAY LE HOCHET",
   "district": "portlouis",
-  "generated": "2026-05-19T18:31:34.020Z",
-  "outageCount": 1,
+  "generated": "2026-05-20T07:04:26.073Z",
+  "outageCount": 2,
   "firstOutage": "2025-01-14",
-  "lastOutage": "2025-01-14",
+  "lastOutage": "2026-05-20",
   "outages": [
+    {
+      "date": "Le mercredi 20 mai 2026 de  09:00:00 à  13:00:00",
+      "streets": "MORC RAFFRAY NEAR GOVT SCHOOL",
+      "from": "2026-05-20T05:00:00.000Z",
+      "to": "2026-05-20T09:00:00.000Z",
+      "id": "92da0731afee6b4705c1aeccc5b9ad80"
+    },
     {
       "date": "Le mardi 14 janvier 2025 de  09:40:00 à  10:20:00",
       "streets": "PART OF MORC RAFFRAY",

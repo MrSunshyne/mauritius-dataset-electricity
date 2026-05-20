@@ -2,11 +2,18 @@
   "slug": "flic-en-flac",
   "name": "FLIC-EN-FLAC",
   "district": "blackriver",
-  "generated": "2026-05-19T18:31:33.988Z",
-  "outageCount": 218,
+  "generated": "2026-05-20T07:04:26.046Z",
+  "outageCount": 219,
   "firstOutage": "2022-03-16",
-  "lastOutage": "2026-04-07",
+  "lastOutage": "2026-05-20",
   "outages": [
+    {
+      "date": "Le mercredi 20 mai 2026 de  10:15:00 à  11:30:00",
+      "streets": "Aves Cygognes,Nenuphar Morc Safeland",
+      "from": "2026-05-20T06:15:00.000Z",
+      "to": "2026-05-20T07:30:00.000Z",
+      "id": "7f34f18eb472c2ba2ad4685704adc6d3"
+    },
     {
       "date": "Le mardi 7 avril 2026 de  20:45:00 à  23:15:00",
       "streets": "AVENUE KESTREL, AVENUE CYGOGNE ET LES ALENTOURS.",

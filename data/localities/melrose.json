@@ -2,11 +2,18 @@
   "slug": "melrose",
   "name": "MELROSE",
   "district": "moka",
-  "generated": "2026-05-19T18:31:34.013Z",
-  "outageCount": 17,
+  "generated": "2026-05-20T07:04:26.068Z",
+  "outageCount": 18,
   "firstOutage": "2022-05-27",
-  "lastOutage": "2025-12-17",
+  "lastOutage": "2026-05-20",
   "outages": [
+    {
+      "date": "Le mercredi 20 mai 2026 de  09:40:00 à  14:00:00",
+      "streets": "NHDC MELROSE",
+      "from": "2026-05-20T05:40:00.000Z",
+      "to": "2026-05-20T10:00:00.000Z",
+      "id": "085c3d250ac47efa9d8ebc0db91edfda"
+    },
     {
       "date": "Le mercredi 17 décembre 2025 de  09:00:00 à  16:30:00",
       "streets": "dans les environs du NHDC Résidence Agathe",

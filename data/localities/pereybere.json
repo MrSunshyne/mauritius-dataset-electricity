@@ -2,11 +2,18 @@
   "slug": "pereybere",
   "name": "PEREYBERE",
   "district": "rivieredurempart",
-  "generated": "2026-05-19T18:31:34.025Z",
-  "outageCount": 110,
+  "generated": "2026-05-20T07:04:26.078Z",
+  "outageCount": 111,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-05-18",
+  "lastOutage": "2026-05-20",
   "outages": [
+    {
+      "date": "Le mercredi 20 mai 2026 de  11:00:00 à  12:15:00",
+      "streets": "VERGER ROAD",
+      "from": "2026-05-20T07:00:00.000Z",
+      "to": "2026-05-20T08:15:00.000Z",
+      "id": "d434c38074bf9dcb79733d7b79293ec9"
+    },
     {
       "date": "Le lundi 18 mai 2026 de  09:30:00 à  14:30:00",
       "streets": "VILLA DEL SOL AND SURROUNDING",

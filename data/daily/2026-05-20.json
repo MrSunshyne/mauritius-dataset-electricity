@@ -1,9 +1,19 @@
 {
   "date": "2026-05-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-19T18:31:33.927Z",
-  "outageCount": 3,
+  "generated": "2026-05-20T07:04:25.991Z",
+  "outageCount": 11,
   "outages": [
+    {
+      "date": "Le mercredi 20 mai 2026 de  10:15:00 à  11:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "Aves Cygognes,Nenuphar Morc Safeland",
+      "district": "blackriver",
+      "from": "2026-05-20T06:15:00.000Z",
+      "to": "2026-05-20T07:30:00.000Z",
+      "id": "7f34f18eb472c2ba2ad4685704adc6d3"
+    },
     {
       "date": "Le mercredi 20 mai 2026 de  08:30:00 à  17:00:00",
       "locality": "MARIE JEANNIE",
@@ -25,6 +35,56 @@
       "id": "104f9364c4642c2d29b014da043a4ea1"
     },
     {
+      "date": "Le mercredi 20 mai 2026 de  09:40:00 à  14:00:00",
+      "locality": "MELROSE",
+      "localitySlug": "melrose",
+      "streets": "NHDC MELROSE",
+      "district": "moka",
+      "from": "2026-05-20T05:40:00.000Z",
+      "to": "2026-05-20T10:00:00.000Z",
+      "id": "085c3d250ac47efa9d8ebc0db91edfda"
+    },
+    {
+      "date": "Le mercredi 20 mai 2026 de  09:00:00 à  17:30:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Ave Hajee Allaman, en partie Sister Marie Clemence, Adolphe de Plevitz, Ratsitatane, de Chazal et les environs",
+      "district": "plainewilhems",
+      "from": "2026-05-20T05:00:00.000Z",
+      "to": "2026-05-20T13:30:00.000Z",
+      "id": "8f89a40ad9f0f5e84ab36ad224c941df"
+    },
+    {
+      "date": "Le mercredi 20 mai 2026 de  08:50:00 à  10:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVE BELLE ROSE, AVE DRAPER TOWARDS BAR VENISE",
+      "district": "plainewilhems",
+      "from": "2026-05-20T04:50:00.000Z",
+      "to": "2026-05-20T06:00:00.000Z",
+      "id": "e0af596fca37f4f2f16afc884078af33"
+    },
+    {
+      "date": "Le mercredi 20 mai 2026 de  16:00:00 à  17:00:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "Morc rogers, Hong Kong Palace et en partie Pope Hennessy",
+      "district": "plainewilhems",
+      "from": "2026-05-20T12:00:00.000Z",
+      "to": "2026-05-20T13:00:00.000Z",
+      "id": "30477b0324369a2ed4ac2e3e38cbc343"
+    },
+    {
+      "date": "Le mercredi 20 mai 2026 de  09:00:00 à  10:00:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "Morc Rogers, Hong Kong Palace et en partie Pope Hennessy",
+      "district": "plainewilhems",
+      "from": "2026-05-20T05:00:00.000Z",
+      "to": "2026-05-20T06:00:00.000Z",
+      "id": "94c7c37b723cb41b9f75827f4fe960b1"
+    },
+    {
       "date": "Le mercredi 20 mai 2026 de  09:00:00 à  16:00:00",
       "locality": "POINTE AUX SABLES",
       "localitySlug": "pointe-aux-sables",
@@ -33,6 +93,26 @@
       "from": "2026-05-20T05:00:00.000Z",
       "to": "2026-05-20T12:00:00.000Z",
       "id": "096922aba99dbb6f9c507c609dec6be8"
+    },
+    {
+      "date": "Le mercredi 20 mai 2026 de  09:00:00 à  13:00:00",
+      "locality": "MORC RAFFRAY LE HOCHET",
+      "localitySlug": "morc-raffray-le-hochet",
+      "streets": "MORC RAFFRAY NEAR GOVT SCHOOL",
+      "district": "portlouis",
+      "from": "2026-05-20T05:00:00.000Z",
+      "to": "2026-05-20T09:00:00.000Z",
+      "id": "92da0731afee6b4705c1aeccc5b9ad80"
+    },
+    {
+      "date": "Le mercredi 20 mai 2026 de  11:00:00 à  12:15:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "VERGER ROAD",
+      "district": "rivieredurempart",
+      "from": "2026-05-20T07:00:00.000Z",
+      "to": "2026-05-20T08:15:00.000Z",
+      "id": "d434c38074bf9dcb79733d7b79293ec9"
     }
   ]
 }

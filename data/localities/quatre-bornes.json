@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-05-19T18:31:34.040Z",
-  "outageCount": 376,
+  "generated": "2026-05-20T07:04:26.091Z",
+  "outageCount": 377,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-05-12",
+  "lastOutage": "2026-05-20",
   "outages": [
+    {
+      "date": "Le mercredi 20 mai 2026 de  08:50:00 à  10:00:00",
+      "streets": "AVE BELLE ROSE, AVE DRAPER TOWARDS BAR VENISE",
+      "from": "2026-05-20T04:50:00.000Z",
+      "to": "2026-05-20T06:00:00.000Z",
+      "id": "e0af596fca37f4f2f16afc884078af33"
+    },
     {
       "date": "Le mardi 12 mai 2026 de  15:30:00 à  17:30:00",
       "streets": "Ave Palmier, Orchidee, Capuccine, DÉpinay, Victoria, Hennessy",
