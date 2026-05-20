@@ -2,11 +2,18 @@
   "slug": "providence-la-porte",
   "name": "PROVIDENCE LA PORTE",
   "district": "flacq",
-  "generated": "2026-05-20T10:13:04.738Z",
-  "outageCount": 4,
+  "generated": "2026-05-20T11:55:34.608Z",
+  "outageCount": 5,
   "firstOutage": "2022-04-05",
-  "lastOutage": "2026-05-11",
+  "lastOutage": "2026-05-22",
   "outages": [
+    {
+      "date": "Le vendredi 22 mai 2026 de  09:00:00 à  16:00:00",
+      "streets": "Providence La Porte.",
+      "from": "2026-05-22T05:00:00.000Z",
+      "to": "2026-05-22T12:00:00.000Z",
+      "id": "b60dc214a944a3a34850b4a281ae9fc1"
+    },
     {
       "date": "Le lundi 11 mai 2026 de  08:30:00 à  17:00:00",
       "streets": "PROVIDENCE LA PORTE",
