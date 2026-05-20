@@ -2,11 +2,18 @@
   "slug": "anse-jonchee",
   "name": "ANSE JONCHEE",
   "district": "grandport",
-  "generated": "2026-05-20T07:04:26.008Z",
-  "outageCount": 13,
+  "generated": "2026-05-20T09:00:13.201Z",
+  "outageCount": 14,
   "firstOutage": "2022-05-26",
-  "lastOutage": "2026-04-02",
+  "lastOutage": "2026-05-25",
   "outages": [
+    {
+      "date": "Le lundi 25 mai 2026 de  11:30:00 à  15:00:00",
+      "streets": "Anse Jonchée, Terre Cassée et une partie de Bambous Virieux",
+      "from": "2026-05-25T07:30:00.000Z",
+      "to": "2026-05-25T11:00:00.000Z",
+      "id": "5aa059e6e6df8952fa6d76156e5044bc"
+    },
     {
       "date": "Le jeudi 2 avril 2026 de  21:00:00 à  23:30:00",
       "streets": "PART OF ANSE JONCHEE",

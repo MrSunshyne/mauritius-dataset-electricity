@@ -1,0 +1,28 @@
+{
+  "date": "2026-05-25",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-05-20T09:00:13.184Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le lundi 25 mai 2026 de  09:00:00 à  11:30:00",
+      "locality": "DEUX FRERES",
+      "localitySlug": "deux-freres",
+      "streets": "Deux Frères et une partie de Quatre Sœurs",
+      "district": "flacq",
+      "from": "2026-05-25T05:00:00.000Z",
+      "to": "2026-05-25T07:30:00.000Z",
+      "id": "d679671a0f3bdcb7ad8b928184ae8b30"
+    },
+    {
+      "date": "Le lundi 25 mai 2026 de  11:30:00 à  15:00:00",
+      "locality": "ANSE JONCHEE",
+      "localitySlug": "anse-jonchee",
+      "streets": "Anse Jonchée, Terre Cassée et une partie de Bambous Virieux",
+      "district": "grandport",
+      "from": "2026-05-25T07:30:00.000Z",
+      "to": "2026-05-25T11:00:00.000Z",
+      "id": "5aa059e6e6df8952fa6d76156e5044bc"
+    }
+  ]
+}
