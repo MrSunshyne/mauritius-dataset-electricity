@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-20T09:00:13.322Z",
+  "generated": "2026-05-20T10:13:04.773Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -2482,10 +2482,10 @@
       "slug": "mont-roches",
       "name": "MONT ROCHES",
       "district": "plainewilhems",
-      "outageCount": 28,
+      "outageCount": 30,
       "file": "mont-roches.json",
       "firstOutage": "2022-05-08",
-      "lastOutage": "2026-05-19"
+      "lastOutage": "2026-05-21"
     },
     {
       "slug": "mont-simonet",
@@ -3994,7 +3994,7 @@
       "slug": "vacoas",
       "name": "VACOAS",
       "district": "plainewilhems",
-      "outageCount": 244,
+      "outageCount": 245,
       "file": "vacoas.json",
       "firstOutage": "2022-03-17",
       "lastOutage": "2026-05-24"
