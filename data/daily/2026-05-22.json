@@ -1,8 +1,8 @@
 {
   "date": "2026-05-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-21T09:01:03.375Z",
-  "outageCount": 2,
+  "generated": "2026-05-21T11:00:22.939Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le vendredi 22 mai 2026 de  09:00:00 à  16:00:00",
@@ -23,6 +23,26 @@
       "from": "2026-05-22T07:00:00.000Z",
       "to": "2026-05-22T11:00:00.000Z",
       "id": "32271bb3d4b6d719d8a8b389553460a9"
+    },
+    {
+      "date": "Le vendredi 22 mai 2026 de  13:00:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "La Ferme Citron",
+      "district": "rodrigues",
+      "from": "2026-05-22T09:00:00.000Z",
+      "to": "2026-05-22T11:00:00.000Z",
+      "id": "9e8bd261d4ea502f2082da839ea66b00"
+    },
+    {
+      "date": "Le vendredi 22 mai 2026 de  10:00:00 à  12:00:00",
+      "locality": "POINTE COTTON(RODRIGUES)",
+      "localitySlug": "pointe-cotton",
+      "streets": "Anse Ali, Saint Francois et Morcellement Roche Bon Dieu",
+      "district": "rodrigues",
+      "from": "2026-05-22T06:00:00.000Z",
+      "to": "2026-05-22T08:00:00.000Z",
+      "id": "e71e1c534cf3c614d2d7d9043ec1689d"
     }
   ]
 }

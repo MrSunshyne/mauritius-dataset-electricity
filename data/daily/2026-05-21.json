@@ -1,8 +1,8 @@
 {
   "date": "2026-05-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-21T09:01:03.375Z",
-  "outageCount": 9,
+  "generated": "2026-05-21T11:00:22.939Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le jeudi 21 mai 2026 de  00:00:00 à  13:00:00",
@@ -15,14 +15,14 @@
       "id": "7ec3975a365e0fdc31cc01c2599ffec8"
     },
     {
-      "date": "Le jeudi 21 mai 2026 de  09:00:00 à  13:00:00",
+      "date": "Le jeudi 21 mai 2026 de  09:00:00 à  15:00:00",
       "locality": "SAINT JULIEN VILLAGE",
       "localitySlug": "saint-julien-village",
       "streets": "NEAR SCHOOL ST JULIEN VILLAGE",
       "district": "flacq",
       "from": "2026-05-21T05:00:00.000Z",
-      "to": "2026-05-21T09:00:00.000Z",
-      "id": "a5ed85bdd0be38e6ced1db31cf049b42"
+      "to": "2026-05-21T11:00:00.000Z",
+      "id": "a87c493503eea0d7b2d574ec85072d55"
     },
     {
       "date": "Le jeudi 21 mai 2026 de  09:00:00 à  16:00:00",
@@ -73,6 +73,16 @@
       "from": "2026-05-21T04:30:00.000Z",
       "to": "2026-05-21T05:00:00.000Z",
       "id": "7d5169ee3d19b2dfa804a32e490f119c"
+    },
+    {
+      "date": "Le jeudi 21 mai 2026 de  14:00:00 à  18:00:00",
+      "locality": "VALLEE PITOT",
+      "localitySlug": "vallee-pitot",
+      "streets": "ALMA STREET & SURROUNDINGS",
+      "district": "portlouis",
+      "from": "2026-05-21T10:00:00.000Z",
+      "to": "2026-05-21T14:00:00.000Z",
+      "id": "cc09303aef829f1a559b573d6345b9dc"
     },
     {
       "date": "Le jeudi 21 mai 2026 de  11:00:00 à  19:00:00",

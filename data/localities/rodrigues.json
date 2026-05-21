@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-05-21T09:01:03.498Z",
-  "outageCount": 212,
+  "generated": "2026-05-21T11:00:23.056Z",
+  "outageCount": 213,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-05-15",
+  "lastOutage": "2026-05-22",
   "outages": [
+    {
+      "date": "Le vendredi 22 mai 2026 de  13:00:00 à  15:00:00",
+      "streets": "La Ferme Citron",
+      "from": "2026-05-22T09:00:00.000Z",
+      "to": "2026-05-22T11:00:00.000Z",
+      "id": "9e8bd261d4ea502f2082da839ea66b00"
+    },
     {
       "date": "Le vendredi 15 mai 2026 de  08:30:00 à  14:00:00",
       "streets": "LES ABONNES DE REPOSOIRE, PIMENTS, PISTACHES, BAIE TOPAZE, MONTAGNE CROUPIER, MONTAGNE PLATE ET CAMP PINTADE.",
