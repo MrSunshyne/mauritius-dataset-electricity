@@ -1,9 +1,29 @@
 {
   "date": "2026-05-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-20T18:45:06.584Z",
-  "outageCount": 5,
+  "generated": "2026-05-21T07:09:09.910Z",
+  "outageCount": 8,
   "outages": [
+    {
+      "date": "Le jeudi 21 mai 2026 de  00:00:00 à  13:00:00",
+      "locality": "GROS CAILLOUX",
+      "localitySlug": "gros-cailloux",
+      "streets": "IRRIGATION SOCIETE NAGALINGUM",
+      "district": "blackriver",
+      "from": "2026-05-20T20:00:00.000Z",
+      "to": "2026-05-20T09:00:00.000Z",
+      "id": "7ec3975a365e0fdc31cc01c2599ffec8"
+    },
+    {
+      "date": "Le jeudi 21 mai 2026 de  09:00:00 à  13:00:00",
+      "locality": "SAINT JULIEN VILLAGE",
+      "localitySlug": "saint-julien-village",
+      "streets": "NEAR SCHOOL ST JULIEN VILLAGE",
+      "district": "flacq",
+      "from": "2026-05-21T05:00:00.000Z",
+      "to": "2026-05-21T09:00:00.000Z",
+      "id": "a5ed85bdd0be38e6ced1db31cf049b42"
+    },
     {
       "date": "Le jeudi 21 mai 2026 de  09:00:00 à  16:00:00",
       "locality": "RIVIERE DU POSTE",
@@ -23,6 +43,16 @@
       "from": "2026-05-21T09:00:00.000Z",
       "to": "2026-05-21T12:00:00.000Z",
       "id": "d36c26f865addfa9b2403b0f6214f8f7"
+    },
+    {
+      "date": "Le jeudi 21 mai 2026 de  09:40:00 à  11:15:00",
+      "locality": "MONT FERTILLE",
+      "localitySlug": "mont-fertille",
+      "streets": "Royal Road Mont Fertile",
+      "district": "grandport",
+      "from": "2026-05-21T05:40:00.000Z",
+      "to": "2026-05-21T07:15:00.000Z",
+      "id": "43e4d1eb73347be35d9124930d826a34"
     },
     {
       "date": "Le jeudi 21 mai 2026 de  15:30:00 à  16:00:00",

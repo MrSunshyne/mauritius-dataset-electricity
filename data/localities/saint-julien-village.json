@@ -2,11 +2,18 @@
   "slug": "saint-julien-village",
   "name": "SAINT JULIEN VILLAGE",
   "district": "flacq",
-  "generated": "2026-05-20T18:45:06.710Z",
-  "outageCount": 12,
+  "generated": "2026-05-21T07:09:10.032Z",
+  "outageCount": 13,
   "firstOutage": "2023-01-04",
-  "lastOutage": "2025-11-06",
+  "lastOutage": "2026-05-21",
   "outages": [
+    {
+      "date": "Le jeudi 21 mai 2026 de  09:00:00 à  13:00:00",
+      "streets": "NEAR SCHOOL ST JULIEN VILLAGE",
+      "from": "2026-05-21T05:00:00.000Z",
+      "to": "2026-05-21T09:00:00.000Z",
+      "id": "a5ed85bdd0be38e6ced1db31cf049b42"
+    },
     {
       "date": "Le jeudi 6 novembre 2025 de  09:00:00 à  14:00:00",
       "streets": "Dans les environs de LEcole du gouvernement St Julien village et la station dessence indian oil",

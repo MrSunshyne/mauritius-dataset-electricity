@@ -2,11 +2,18 @@
   "slug": "mont-fertille",
   "name": "MONT FERTILLE",
   "district": "grandport",
-  "generated": "2026-05-20T18:45:06.672Z",
-  "outageCount": 2,
+  "generated": "2026-05-21T07:09:09.996Z",
+  "outageCount": 3,
   "firstOutage": "2025-03-06",
-  "lastOutage": "2025-10-28",
+  "lastOutage": "2026-05-21",
   "outages": [
+    {
+      "date": "Le jeudi 21 mai 2026 de  09:40:00 à  11:15:00",
+      "streets": "Royal Road Mont Fertile",
+      "from": "2026-05-21T05:40:00.000Z",
+      "to": "2026-05-21T07:15:00.000Z",
+      "id": "43e4d1eb73347be35d9124930d826a34"
+    },
     {
       "date": "Le mardi 28 octobre 2025 de  09:00:00 à  11:00:00",
       "streets": "LETORD RD MONT FERTILLE",
