@@ -1,8 +1,8 @@
 {
   "date": "2026-05-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-21T16:03:04.049Z",
-  "outageCount": 11,
+  "generated": "2026-05-21T17:38:18.771Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le jeudi 21 mai 2026 de  00:00:00 à  13:00:00",
@@ -103,6 +103,16 @@
       "from": "2026-05-21T07:00:00.000Z",
       "to": "2026-05-21T15:00:00.000Z",
       "id": "aed761544ddee3bda2eae4c075e4a6a1"
+    },
+    {
+      "date": "Le jeudi 21 mai 2026 de  21:30:00 à  23:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "AVENUE BIRD VIEW, GEMMA AQUAMARINE ET LES ALENTOURS.",
+      "district": "rivieredurempart",
+      "from": "2026-05-21T17:30:00.000Z",
+      "to": "2026-05-21T19:00:00.000Z",
+      "id": "3056f98d3770ee457bd96789a50a1bde"
     },
     {
       "date": "Le jeudi 21 mai 2026 de  13:00:00 à  17:30:00",

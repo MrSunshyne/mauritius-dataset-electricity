@@ -2,11 +2,18 @@
   "slug": "grand-bay",
   "name": "GRAND BAY",
   "district": "rivieredurempart",
-  "generated": "2026-05-21T16:03:04.110Z",
-  "outageCount": 109,
+  "generated": "2026-05-21T17:38:18.836Z",
+  "outageCount": 110,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-05-15",
+  "lastOutage": "2026-05-21",
   "outages": [
+    {
+      "date": "Le jeudi 21 mai 2026 de  21:30:00 à  23:00:00",
+      "streets": "AVENUE BIRD VIEW, GEMMA AQUAMARINE ET LES ALENTOURS.",
+      "from": "2026-05-21T17:30:00.000Z",
+      "to": "2026-05-21T19:00:00.000Z",
+      "id": "3056f98d3770ee457bd96789a50a1bde"
+    },
     {
       "date": "Le vendredi 15 mai 2026 de  18:00:00 à  00:00:00",
       "streets": "ROYAL ROAD NEAR GLORIA FAST FOOD",
