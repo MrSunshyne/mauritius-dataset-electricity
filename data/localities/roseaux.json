@@ -2,11 +2,18 @@
   "slug": "roseaux",
   "name": "ROSEAUX(RODRIGUES)",
   "district": "rodrigues",
-  "generated": "2026-05-22T16:41:19.825Z",
-  "outageCount": 1,
+  "generated": "2026-05-22T17:31:11.443Z",
+  "outageCount": 2,
   "firstOutage": "2025-03-27",
-  "lastOutage": "2025-03-27",
+  "lastOutage": "2026-05-22",
   "outages": [
+    {
+      "date": "Le vendredi 22 mai 2026 de  20:55:00 à  22:55:00",
+      "streets": "WHOLE REGION",
+      "from": "2026-05-22T16:55:00.000Z",
+      "to": "2026-05-22T18:55:00.000Z",
+      "id": "8a5a26e43f8c2e78fbb7162f860fef72"
+    },
     {
       "date": "Le jeudi 27 mars 2025 de  08:30:00 à  15:00:00",
       "streets": "Roseaux",

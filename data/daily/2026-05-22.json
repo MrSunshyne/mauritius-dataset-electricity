@@ -1,8 +1,8 @@
 {
   "date": "2026-05-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-22T16:41:19.712Z",
-  "outageCount": 14,
+  "generated": "2026-05-22T17:31:11.312Z",
+  "outageCount": 16,
   "outages": [
     {
       "date": "Le vendredi 22 mai 2026 de  09:30:00 à  13:00:00",
@@ -95,6 +95,16 @@
       "id": "409fb267d14344838530bbcf2bec8101"
     },
     {
+      "date": "Le vendredi 22 mai 2026 de  20:50:00 à  22:50:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "HANOOMANJEE LANE,DAIRY LANE AND NEARBY REGION",
+      "district": "plainewilhems",
+      "from": "2026-05-22T16:50:00.000Z",
+      "to": "2026-05-22T18:50:00.000Z",
+      "id": "32a7332df05f98238d381b9cd30ecfd4"
+    },
+    {
       "date": "Le vendredi 22 mai 2026 de  10:45:00 à  11:30:00",
       "locality": "CAMP CHAPELON",
       "localitySlug": "camp-chapelon",
@@ -143,6 +153,16 @@
       "from": "2026-05-22T06:00:00.000Z",
       "to": "2026-05-22T08:00:00.000Z",
       "id": "e71e1c534cf3c614d2d7d9043ec1689d"
+    },
+    {
+      "date": "Le vendredi 22 mai 2026 de  20:55:00 à  22:55:00",
+      "locality": "ROSEAUX(RODRIGUES)",
+      "localitySlug": "roseaux",
+      "streets": "WHOLE REGION",
+      "district": "rodrigues",
+      "from": "2026-05-22T16:55:00.000Z",
+      "to": "2026-05-22T18:55:00.000Z",
+      "id": "8a5a26e43f8c2e78fbb7162f860fef72"
     }
   ]
 }

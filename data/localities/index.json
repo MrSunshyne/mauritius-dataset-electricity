@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-22T16:41:19.845Z",
+  "generated": "2026-05-22T17:31:11.465Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -1492,10 +1492,10 @@
       "slug": "floreal",
       "name": "FLOREAL",
       "district": "plainewilhems",
-      "outageCount": 90,
+      "outageCount": 91,
       "file": "floreal.json",
       "firstOutage": "2022-03-31",
-      "lastOutage": "2026-05-17"
+      "lastOutage": "2026-05-22"
     },
     {
       "slug": "fond-du-sac",
@@ -3517,10 +3517,10 @@
       "slug": "roseaux",
       "name": "ROSEAUX(RODRIGUES)",
       "district": "rodrigues",
-      "outageCount": 1,
+      "outageCount": 2,
       "file": "roseaux.json",
       "firstOutage": "2025-03-27",
-      "lastOutage": "2025-03-27"
+      "lastOutage": "2026-05-22"
     },
     {
       "slug": "rouillard",
