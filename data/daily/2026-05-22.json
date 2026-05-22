@@ -1,8 +1,8 @@
 {
   "date": "2026-05-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-22T07:05:04.568Z",
-  "outageCount": 8,
+  "generated": "2026-05-22T08:59:43.653Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le vendredi 22 mai 2026 de  09:30:00 à  13:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-05-22T07:00:00.000Z",
       "to": "2026-05-22T11:00:00.000Z",
       "id": "32271bb3d4b6d719d8a8b389553460a9"
+    },
+    {
+      "date": "Le vendredi 22 mai 2026 de  15:30:00 à  17:30:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "Morc New Town, en partie Ave Aldrin, en partie Ave Arianne et les environs",
+      "district": "plainewilhems",
+      "from": "2026-05-22T11:30:00.000Z",
+      "to": "2026-05-22T13:30:00.000Z",
+      "id": "bc449acba490f77143659308d60e5dd7"
     },
     {
       "date": "Le vendredi 22 mai 2026 de  10:45:00 à  11:30:00",
