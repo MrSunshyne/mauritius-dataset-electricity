@@ -1,9 +1,19 @@
 {
   "date": "2026-05-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-21T18:32:04.305Z",
-  "outageCount": 4,
+  "generated": "2026-05-22T07:05:04.568Z",
+  "outageCount": 8,
   "outages": [
+    {
+      "date": "Le vendredi 22 mai 2026 de  09:30:00 à  13:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "MORC TERRE ALBION",
+      "district": "blackriver",
+      "from": "2026-05-22T05:30:00.000Z",
+      "to": "2026-05-22T09:00:00.000Z",
+      "id": "0b44d5baa554d523b5052dc661296bc9"
+    },
     {
       "date": "Le vendredi 22 mai 2026 de  09:00:00 à  16:00:00",
       "locality": "PROVIDENCE LA PORTE",
@@ -15,6 +25,26 @@
       "id": "b60dc214a944a3a34850b4a281ae9fc1"
     },
     {
+      "date": "Le vendredi 22 mai 2026 de  09:00:00 à  13:00:00",
+      "locality": "MONT IDA",
+      "localitySlug": "mont-ida",
+      "streets": "Royal Road...Towards School",
+      "district": "flacq",
+      "from": "2026-05-22T05:00:00.000Z",
+      "to": "2026-05-22T09:00:00.000Z",
+      "id": "ced5682e04a91e29e3ac3fcc25985440"
+    },
+    {
+      "date": "Le vendredi 22 mai 2026 de  05:15:00 à  11:45:00",
+      "locality": "TROU D-EAU DOUCE",
+      "localitySlug": "trou-d-eau-douce",
+      "streets": "VICTORIA ROAD ET LES ALENTOURS",
+      "district": "flacq",
+      "from": "2026-05-22T01:15:00.000Z",
+      "to": "2026-05-22T07:45:00.000Z",
+      "id": "7c65ce08f5657d255c5b5071af50d86f"
+    },
+    {
       "date": "Le vendredi 22 mai 2026 de  11:00:00 à  15:00:00",
       "locality": "COTE D-OR",
       "localitySlug": "cote-d-or",
@@ -23,6 +53,16 @@
       "from": "2026-05-22T07:00:00.000Z",
       "to": "2026-05-22T11:00:00.000Z",
       "id": "32271bb3d4b6d719d8a8b389553460a9"
+    },
+    {
+      "date": "Le vendredi 22 mai 2026 de  10:45:00 à  11:30:00",
+      "locality": "CAMP CHAPELON",
+      "localitySlug": "camp-chapelon",
+      "streets": "Volcy de Senneville,Phillipe Roussette,",
+      "district": "portlouis",
+      "from": "2026-05-22T06:45:00.000Z",
+      "to": "2026-05-22T07:30:00.000Z",
+      "id": "9b190bc16a63e5d718ade3c2e0b36719"
     },
     {
       "date": "Le vendredi 22 mai 2026 de  13:00:00 à  15:00:00",

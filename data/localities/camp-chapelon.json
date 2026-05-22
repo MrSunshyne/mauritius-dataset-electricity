@@ -2,11 +2,18 @@
   "slug": "camp-chapelon",
   "name": "CAMP CHAPELON",
   "district": "portlouis",
-  "generated": "2026-05-21T18:32:04.331Z",
-  "outageCount": 9,
+  "generated": "2026-05-22T07:05:04.603Z",
+  "outageCount": 10,
   "firstOutage": "2022-03-16",
-  "lastOutage": "2026-03-25",
+  "lastOutage": "2026-05-22",
   "outages": [
+    {
+      "date": "Le vendredi 22 mai 2026 de  10:45:00 à  11:30:00",
+      "streets": "Volcy de Senneville,Phillipe Roussette,",
+      "from": "2026-05-22T06:45:00.000Z",
+      "to": "2026-05-22T07:30:00.000Z",
+      "id": "9b190bc16a63e5d718ade3c2e0b36719"
+    },
     {
       "date": "Le mercredi 25 mars 2026 de  12:30:00 à  14:00:00",
       "streets": "Rues Madrassa,Senneville,Lungut..",

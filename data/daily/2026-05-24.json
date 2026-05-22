@@ -1,8 +1,8 @@
 {
   "date": "2026-05-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-21T18:32:04.305Z",
-  "outageCount": 4,
+  "generated": "2026-05-22T07:05:04.568Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le dimanche 24 mai 2026 de  08:30:00 à  15:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-05-24T05:00:00.000Z",
       "to": "2026-05-24T08:00:00.000Z",
       "id": "f34ffb315ce4c4450fb0d6ae3b9d366b"
+    },
+    {
+      "date": "Le dimanche 24 mai 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Montagne Bois Noir et Montagne Malgache",
+      "district": "rodrigues",
+      "from": "2026-05-24T04:30:00.000Z",
+      "to": "2026-05-24T11:00:00.000Z",
+      "id": "ec1f6e5539a02b1bbc0ee10444eef5bf"
     }
   ]
 }

@@ -2,11 +2,18 @@
   "slug": "mare-d-albert",
   "name": "MARE D-ALBERT",
   "district": "grandport",
-  "generated": "2026-05-21T18:32:04.364Z",
-  "outageCount": 28,
+  "generated": "2026-05-22T07:05:04.645Z",
+  "outageCount": 29,
   "firstOutage": "2022-03-31",
-  "lastOutage": "2026-05-18",
+  "lastOutage": "2026-05-26",
   "outages": [
+    {
+      "date": "Le mardi 26 mai 2026 de  09:00:00 à  16:00:00",
+      "streets": "Morcellement Fairview et Morcellement Greenview à Mare D’Albert",
+      "from": "2026-05-26T05:00:00.000Z",
+      "to": "2026-05-26T12:00:00.000Z",
+      "id": "63222f516164163fd95ea3ae7dda60a8"
+    },
     {
       "date": "Le lundi 18 mai 2026 de  08:30:00 à  15:00:00",
       "streets": "Mare D’Albert habitant dans le périmètre et les rues suivantes: NHDC Grove, Morcellement Grove et une partie de la Route Royale Mare D’Albert",

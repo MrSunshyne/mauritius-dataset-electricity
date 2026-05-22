@@ -2,11 +2,18 @@
   "slug": "trou-d-eau-douce",
   "name": "TROU D-EAU DOUCE",
   "district": "flacq",
-  "generated": "2026-05-21T18:32:04.405Z",
-  "outageCount": 8,
+  "generated": "2026-05-22T07:05:04.697Z",
+  "outageCount": 9,
   "firstOutage": "2025-10-27",
-  "lastOutage": "2026-05-09",
+  "lastOutage": "2026-05-22",
   "outages": [
+    {
+      "date": "Le vendredi 22 mai 2026 de  05:15:00 à  11:45:00",
+      "streets": "VICTORIA ROAD ET LES ALENTOURS",
+      "from": "2026-05-22T01:15:00.000Z",
+      "to": "2026-05-22T07:45:00.000Z",
+      "id": "7c65ce08f5657d255c5b5071af50d86f"
+    },
     {
       "date": "Le samedi 9 mai 2026 de  08:30:00 à  17:00:00",
       "streets": "Trou D’Eau Douce dans le périmètre de Sept Croise et Morc Poonith.",

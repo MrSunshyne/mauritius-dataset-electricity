@@ -2,11 +2,18 @@
   "slug": "albion",
   "name": "ALBION",
   "district": "blackriver",
-  "generated": "2026-05-21T18:32:04.315Z",
-  "outageCount": 112,
+  "generated": "2026-05-22T07:05:04.583Z",
+  "outageCount": 113,
   "firstOutage": "2022-06-06",
-  "lastOutage": "2026-05-17",
+  "lastOutage": "2026-05-22",
   "outages": [
+    {
+      "date": "Le vendredi 22 mai 2026 de  09:30:00 à  13:00:00",
+      "streets": "MORC TERRE ALBION",
+      "from": "2026-05-22T05:30:00.000Z",
+      "to": "2026-05-22T09:00:00.000Z",
+      "id": "0b44d5baa554d523b5052dc661296bc9"
+    },
     {
       "date": "Le dimanche 17 mai 2026 de  08:15:00 à  15:30:00",
       "streets": "OCEANOGRAPHY, SEASCAPE APPARTMENT",

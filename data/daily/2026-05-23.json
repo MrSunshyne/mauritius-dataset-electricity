@@ -1,8 +1,8 @@
 {
   "date": "2026-05-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-21T18:32:04.305Z",
-  "outageCount": 1,
+  "generated": "2026-05-22T07:05:04.568Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le samedi 23 mai 2026 de  08:30:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-05-23T04:30:00.000Z",
       "to": "2026-05-23T12:00:00.000Z",
       "id": "65a7c6ff7dc6179e191cca900f7a4145"
+    },
+    {
+      "date": "Le samedi 23 mai 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Nassola et Palissade",
+      "district": "rodrigues",
+      "from": "2026-05-23T04:30:00.000Z",
+      "to": "2026-05-23T11:00:00.000Z",
+      "id": "ead845926f1eb0ade9e4fc6d53f8c135"
     }
   ]
 }

@@ -2,11 +2,25 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-05-21T18:32:04.393Z",
-  "outageCount": 213,
+  "generated": "2026-05-22T07:05:04.682Z",
+  "outageCount": 215,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-05-22",
+  "lastOutage": "2026-05-24",
   "outages": [
+    {
+      "date": "Le dimanche 24 mai 2026 de  08:30:00 à  15:00:00",
+      "streets": "Montagne Bois Noir et Montagne Malgache",
+      "from": "2026-05-24T04:30:00.000Z",
+      "to": "2026-05-24T11:00:00.000Z",
+      "id": "ec1f6e5539a02b1bbc0ee10444eef5bf"
+    },
+    {
+      "date": "Le samedi 23 mai 2026 de  08:30:00 à  15:00:00",
+      "streets": "Nassola et Palissade",
+      "from": "2026-05-23T04:30:00.000Z",
+      "to": "2026-05-23T11:00:00.000Z",
+      "id": "ead845926f1eb0ade9e4fc6d53f8c135"
+    },
     {
       "date": "Le vendredi 22 mai 2026 de  13:00:00 à  15:00:00",
       "streets": "La Ferme Citron",

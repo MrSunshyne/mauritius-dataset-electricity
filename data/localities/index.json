@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-21T18:32:04.411Z",
+  "generated": "2026-05-22T07:05:04.705Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -25,10 +25,10 @@
       "slug": "albion",
       "name": "ALBION",
       "district": "blackriver",
-      "outageCount": 112,
+      "outageCount": 113,
       "file": "albion.json",
       "firstOutage": "2022-06-06",
-      "lastOutage": "2026-05-17"
+      "lastOutage": "2026-05-22"
     },
     {
       "slug": "allee-brillant-castel",
@@ -700,10 +700,10 @@
       "slug": "camp-chapelon",
       "name": "CAMP CHAPELON",
       "district": "portlouis",
-      "outageCount": 9,
+      "outageCount": 10,
       "file": "camp-chapelon.json",
       "firstOutage": "2022-03-16",
-      "lastOutage": "2026-03-25"
+      "lastOutage": "2026-05-22"
     },
     {
       "slug": "camp-de-masque",
@@ -2239,10 +2239,10 @@
       "slug": "mare-d-albert",
       "name": "MARE D-ALBERT",
       "district": "grandport",
-      "outageCount": 28,
+      "outageCount": 29,
       "file": "mare-d-albert.json",
       "firstOutage": "2022-03-31",
-      "lastOutage": "2026-05-18"
+      "lastOutage": "2026-05-26"
     },
     {
       "slug": "mare-gravier",
@@ -2464,10 +2464,10 @@
       "slug": "mont-ida",
       "name": "MONT IDA",
       "district": "flacq",
-      "outageCount": 13,
+      "outageCount": 14,
       "file": "mont-ida.json",
       "firstOutage": "2022-10-17",
-      "lastOutage": "2026-04-27"
+      "lastOutage": "2026-05-22"
     },
     {
       "slug": "mont-piton",
@@ -3490,10 +3490,10 @@
       "slug": "rodrigues",
       "name": "RODRIGUES",
       "district": "rodrigues",
-      "outageCount": 213,
+      "outageCount": 215,
       "file": "rodrigues.json",
       "firstOutage": "2022-03-15",
-      "lastOutage": "2026-05-22"
+      "lastOutage": "2026-05-24"
     },
     {
       "slug": "rose-belle",
@@ -3931,10 +3931,10 @@
       "slug": "trou-d-eau-douce",
       "name": "TROU D-EAU DOUCE",
       "district": "flacq",
-      "outageCount": 8,
+      "outageCount": 9,
       "file": "trou-d-eau-douce.json",
       "firstOutage": "2025-10-27",
-      "lastOutage": "2026-05-09"
+      "lastOutage": "2026-05-22"
     },
     {
       "slug": "tyack",
