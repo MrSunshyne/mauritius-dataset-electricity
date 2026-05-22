@@ -2,11 +2,18 @@
   "slug": "roche-terre",
   "name": "ROCHE TERRE",
   "district": "rivieredurempart",
-  "generated": "2026-05-22T08:59:43.765Z",
-  "outageCount": 36,
+  "generated": "2026-05-22T10:10:44.925Z",
+  "outageCount": 37,
   "firstOutage": "2022-05-30",
-  "lastOutage": "2026-04-08",
+  "lastOutage": "2026-05-22",
   "outages": [
+    {
+      "date": "Le vendredi 22 mai 2026 de  13:55:00 à  16:00:00",
+      "streets": "SHIVALA RD EN DIRECTION DE GOODLANDS",
+      "from": "2026-05-22T09:55:00.000Z",
+      "to": "2026-05-22T12:00:00.000Z",
+      "id": "dbcf72190019cd194dfb0b78ebe65b6d"
+    },
     {
       "date": "Le mercredi 8 avril 2026 de  09:00:00 à  14:30:00",
       "streets": "DANS LES PERIMETRES DE RUE BATOOLALL, ROCHE TERRE",

@@ -2,11 +2,18 @@
   "slug": "l-escalier",
   "name": "L-ESCALIER",
   "district": "savanne",
-  "generated": "2026-05-22T08:59:43.718Z",
-  "outageCount": 36,
+  "generated": "2026-05-22T10:10:44.879Z",
+  "outageCount": 37,
   "firstOutage": "2022-03-30",
-  "lastOutage": "2026-05-19",
+  "lastOutage": "2026-05-22",
   "outages": [
+    {
+      "date": "Le vendredi 22 mai 2026 de  13:00:00 à  16:00:00",
+      "streets": "MORC TAGORE",
+      "from": "2026-05-22T09:00:00.000Z",
+      "to": "2026-05-22T12:00:00.000Z",
+      "id": "3d9e0cde1115f7433aba54891ad023b8"
+    },
     {
       "date": "Le mardi 19 mai 2026 de  09:45:00 à  12:00:00",
       "streets": "Ssr & Royal Roads",

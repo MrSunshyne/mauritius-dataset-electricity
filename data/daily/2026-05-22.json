@@ -1,8 +1,8 @@
 {
   "date": "2026-05-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-22T08:59:43.653Z",
-  "outageCount": 9,
+  "generated": "2026-05-22T10:10:44.810Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le vendredi 22 mai 2026 de  09:30:00 à  13:00:00",
@@ -73,6 +73,26 @@
       "from": "2026-05-22T06:45:00.000Z",
       "to": "2026-05-22T07:30:00.000Z",
       "id": "9b190bc16a63e5d718ade3c2e0b36719"
+    },
+    {
+      "date": "Le vendredi 22 mai 2026 de  13:55:00 à  16:00:00",
+      "locality": "ROCHE TERRE",
+      "localitySlug": "roche-terre",
+      "streets": "SHIVALA RD EN DIRECTION DE GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2026-05-22T09:55:00.000Z",
+      "to": "2026-05-22T12:00:00.000Z",
+      "id": "dbcf72190019cd194dfb0b78ebe65b6d"
+    },
+    {
+      "date": "Le vendredi 22 mai 2026 de  13:00:00 à  16:00:00",
+      "locality": "L-ESCALIER",
+      "localitySlug": "l-escalier",
+      "streets": "MORC TAGORE",
+      "district": "savanne",
+      "from": "2026-05-22T09:00:00.000Z",
+      "to": "2026-05-22T12:00:00.000Z",
+      "id": "3d9e0cde1115f7433aba54891ad023b8"
     },
     {
       "date": "Le vendredi 22 mai 2026 de  13:00:00 à  15:00:00",
