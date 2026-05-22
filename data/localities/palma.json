@@ -2,11 +2,18 @@
   "slug": "palma",
   "name": "PALMA",
   "district": "plainewilhems",
-  "generated": "2026-05-22T13:43:34.952Z",
-  "outageCount": 63,
+  "generated": "2026-05-22T14:57:19.881Z",
+  "outageCount": 64,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-05-19",
+  "lastOutage": "2026-05-22",
   "outages": [
+    {
+      "date": "Le vendredi 22 mai 2026 de  17:40:00 à  22:00:00",
+      "streets": "CREMATION RD, AVE BISSESUR ET LES ALENTOURS",
+      "from": "2026-05-22T13:40:00.000Z",
+      "to": "2026-05-22T18:00:00.000Z",
+      "id": "409fb267d14344838530bbcf2bec8101"
+    },
     {
       "date": "Le mardi 19 mai 2026 de  16:00:00 à  17:00:00",
       "streets": "Morc Foondun, Ave Casquette, en partie Ave Kooseal, en Partie Chemin Machine et les environs",
