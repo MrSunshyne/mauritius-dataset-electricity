@@ -1,8 +1,8 @@
 {
   "date": "2026-05-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-22T10:10:44.810Z",
-  "outageCount": 11,
+  "generated": "2026-05-22T11:53:14.871Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le vendredi 22 mai 2026 de  09:30:00 à  13:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-05-22T07:00:00.000Z",
       "to": "2026-05-22T11:00:00.000Z",
       "id": "32271bb3d4b6d719d8a8b389553460a9"
+    },
+    {
+      "date": "Le vendredi 22 mai 2026 de  14:45:00 à  18:00:00",
+      "locality": "BOIS ROUGE",
+      "localitySlug": "bois-rouge",
+      "streets": "ROYAL RD",
+      "district": "pamplemousses",
+      "from": "2026-05-22T10:45:00.000Z",
+      "to": "2026-05-22T14:00:00.000Z",
+      "id": "1d410b37b9c2e229592809b7a2e6bc9a"
     },
     {
       "date": "Le vendredi 22 mai 2026 de  15:30:00 à  17:30:00",
