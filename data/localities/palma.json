@@ -2,11 +2,18 @@
   "slug": "palma",
   "name": "PALMA",
   "district": "plainewilhems",
-  "generated": "2026-05-23T13:28:12.671Z",
-  "outageCount": 64,
+  "generated": "2026-05-23T14:28:42.779Z",
+  "outageCount": 65,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-05-22",
+  "lastOutage": "2026-05-23",
   "outages": [
+    {
+      "date": "Le samedi 23 mai 2026 de  18:20:00 à  19:00:00",
+      "streets": "RTS JACKSON PALMA QUATRE BORNES",
+      "from": "2026-05-23T14:20:00.000Z",
+      "to": "2026-05-23T15:00:00.000Z",
+      "id": "d4bcf0c9fcb22203d7993a8bfcb7b245"
+    },
     {
       "date": "Le vendredi 22 mai 2026 de  17:40:00 à  22:00:00",
       "streets": "CREMATION RD, AVE BISSESUR ET LES ALENTOURS",
