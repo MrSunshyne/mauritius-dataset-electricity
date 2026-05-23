@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-05-23T16:17:16.334Z",
-  "outageCount": 138,
+  "generated": "2026-05-23T17:19:30.090Z",
+  "outageCount": 139,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-05-07",
+  "lastOutage": "2026-05-23",
   "outages": [
+    {
+      "date": "Le samedi 23 mai 2026 de  21:00:00 à  23:00:00",
+      "streets": "TRIO,M NAGRI,SEWRAZ AND NEARBY REGION",
+      "from": "2026-05-23T17:00:00.000Z",
+      "to": "2026-05-23T19:00:00.000Z",
+      "id": "64d6c04fe9a0185e9d40180bbea96d1b"
+    },
     {
       "date": "Le jeudi 7 mai 2026 de  10:45:00 à  11:30:00",
       "streets": "9TH MILE NEAR SAMAD SILENCERS",
