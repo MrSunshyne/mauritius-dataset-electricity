@@ -2,11 +2,18 @@
   "slug": "roche-terre",
   "name": "ROCHE TERRE",
   "district": "rivieredurempart",
-  "generated": "2026-05-23T10:28:06.977Z",
-  "outageCount": 37,
+  "generated": "2026-05-23T11:23:57.608Z",
+  "outageCount": 38,
   "firstOutage": "2022-05-30",
-  "lastOutage": "2026-05-22",
+  "lastOutage": "2026-05-23",
   "outages": [
+    {
+      "date": "Le samedi 23 mai 2026 de  14:50:00 à  19:00:00",
+      "streets": "MAHATMA GANDHI ROAD -EDGARD LAURENT RD- ROYAL RD ROCHE TERRE",
+      "from": "2026-05-23T10:50:00.000Z",
+      "to": "2026-05-23T15:00:00.000Z",
+      "id": "25ee8cf28595b846ef8055cec4ca3b36"
+    },
     {
       "date": "Le vendredi 22 mai 2026 de  13:55:00 à  16:00:00",
       "streets": "SHIVALA RD EN DIRECTION DE GOODLANDS",
