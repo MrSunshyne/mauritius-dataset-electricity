@@ -2,11 +2,18 @@
   "slug": "pointe-aux-canonniers",
   "name": "POINTE AUX CANONNIERS",
   "district": "rivieredurempart",
-  "generated": "2026-05-23T06:49:26.401Z",
-  "outageCount": 50,
+  "generated": "2026-05-23T07:45:58.943Z",
+  "outageCount": 51,
   "firstOutage": "2022-04-15",
-  "lastOutage": "2026-05-10",
+  "lastOutage": "2026-05-23",
   "outages": [
+    {
+      "date": "Le samedi 23 mai 2026 de  10:00:00 à  14:00:00",
+      "streets": "EX CLUB ROAD",
+      "from": "2026-05-23T06:00:00.000Z",
+      "to": "2026-05-23T10:00:00.000Z",
+      "id": "06895b3b6ae4ae40ecf80b6b8174bdcd"
+    },
     {
       "date": "Le dimanche 10 mai 2026 de  08:30:00 à  15:30:00",
       "streets": "COASTAL ROAD, CASE GOON ROAD, LA POINTE LUXURY LTD - PHASE 2- POINTE AUX CANNONIERS",

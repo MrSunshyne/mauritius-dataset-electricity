@@ -1,8 +1,8 @@
 {
   "date": "2026-05-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-23T06:49:26.300Z",
-  "outageCount": 2,
+  "generated": "2026-05-23T07:45:58.862Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le samedi 23 mai 2026 de  08:30:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-05-23T04:30:00.000Z",
       "to": "2026-05-23T12:00:00.000Z",
       "id": "65a7c6ff7dc6179e191cca900f7a4145"
+    },
+    {
+      "date": "Le samedi 23 mai 2026 de  10:00:00 à  14:00:00",
+      "locality": "POINTE AUX CANONNIERS",
+      "localitySlug": "pointe-aux-canonniers",
+      "streets": "EX CLUB ROAD",
+      "district": "rivieredurempart",
+      "from": "2026-05-23T06:00:00.000Z",
+      "to": "2026-05-23T10:00:00.000Z",
+      "id": "06895b3b6ae4ae40ecf80b6b8174bdcd"
     },
     {
       "date": "Le samedi 23 mai 2026 de  08:30:00 à  15:00:00",
