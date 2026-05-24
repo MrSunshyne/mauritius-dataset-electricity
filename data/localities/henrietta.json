@@ -2,11 +2,18 @@
   "slug": "henrietta",
   "name": "HENRIETTA",
   "district": "plainewilhems",
-  "generated": "2026-05-24T15:21:48.852Z",
-  "outageCount": 85,
+  "generated": "2026-05-24T16:17:57.954Z",
+  "outageCount": 86,
   "firstOutage": "2022-07-14",
-  "lastOutage": "2026-05-17",
+  "lastOutage": "2026-05-24",
   "outages": [
+    {
+      "date": "Le dimanche 24 mai 2026 de  19:00:00 à  23:00:00",
+      "streets": "DANS LES ENVIRONS CAMP MAPOU, SOOKEE LANE,CAMP MAPOU ROAD, CHEMIN LA MARIE TOWARDS MORCELLEMENT POUSSON.",
+      "from": "2026-05-24T15:00:00.000Z",
+      "to": "2026-05-24T19:00:00.000Z",
+      "id": "8b8dc99083cc000771d287bfb94f11cb"
+    },
     {
       "date": "Le dimanche 17 mai 2026 de  09:00:00 à  14:00:00",
       "streets": "Miras Lane, Camp Mapou Lane 1, Camp Mapou Lane No.  2, et Partie of Camp Fidèle, Residence la Chapelle",

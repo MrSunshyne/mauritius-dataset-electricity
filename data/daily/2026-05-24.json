@@ -1,8 +1,8 @@
 {
   "date": "2026-05-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-24T15:21:48.790Z",
-  "outageCount": 5,
+  "generated": "2026-05-24T16:17:57.901Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le dimanche 24 mai 2026 de  08:30:00 à  15:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-05-24T05:00:00.000Z",
       "to": "2026-05-24T08:00:00.000Z",
       "id": "f34ffb315ce4c4450fb0d6ae3b9d366b"
+    },
+    {
+      "date": "Le dimanche 24 mai 2026 de  19:00:00 à  23:00:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "DANS LES ENVIRONS CAMP MAPOU, SOOKEE LANE,CAMP MAPOU ROAD, CHEMIN LA MARIE TOWARDS MORCELLEMENT POUSSON.",
+      "district": "plainewilhems",
+      "from": "2026-05-24T15:00:00.000Z",
+      "to": "2026-05-24T19:00:00.000Z",
+      "id": "8b8dc99083cc000771d287bfb94f11cb"
     },
     {
       "date": "Le dimanche 24 mai 2026 de  08:30:00 à  15:00:00",
