@@ -2,11 +2,18 @@
   "slug": "grand-gaube",
   "name": "GRAND GAUBE",
   "district": "rivieredurempart",
-  "generated": "2026-05-24T18:16:42.422Z",
-  "outageCount": 69,
+  "generated": "2026-05-25T07:24:32.680Z",
+  "outageCount": 70,
   "firstOutage": "2022-06-11",
-  "lastOutage": "2026-05-12",
+  "lastOutage": "2026-05-25",
   "outages": [
+    {
+      "date": "Le lundi 25 mai 2026 de  09:45:00 à  12:00:00",
+      "streets": "St Michel & Melville",
+      "from": "2026-05-25T05:45:00.000Z",
+      "to": "2026-05-25T08:00:00.000Z",
+      "id": "556b222161e1b72983b689227872e045"
+    },
     {
       "date": "Le mardi 12 mai 2026 de  08:30:00 à  16:00:00",
       "streets": "LA ROUTE COTIERE DE GRAND GAUBE",

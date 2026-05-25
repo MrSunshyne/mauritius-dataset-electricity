@@ -1,9 +1,19 @@
 {
   "date": "2026-05-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-24T18:16:42.359Z",
-  "outageCount": 1,
+  "generated": "2026-05-25T07:24:32.621Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le mardi 26 mai 2026 de  09:00:00 à  17:00:00",
+      "locality": "POINTE DE FLACQ",
+      "localitySlug": "pointe-de-flacq",
+      "streets": "Morc Constance & Golf.",
+      "district": "flacq",
+      "from": "2026-05-26T05:00:00.000Z",
+      "to": "2026-05-26T13:00:00.000Z",
+      "id": "59fa1c10cfd4a28721bcb050b9ae603f"
+    },
     {
       "date": "Le mardi 26 mai 2026 de  09:00:00 à  16:00:00",
       "locality": "MARE D-ALBERT",

@@ -2,11 +2,18 @@
   "slug": "pointe-de-flacq",
   "name": "POINTE DE FLACQ",
   "district": "flacq",
-  "generated": "2026-05-24T18:16:42.459Z",
-  "outageCount": 5,
+  "generated": "2026-05-25T07:24:32.717Z",
+  "outageCount": 6,
   "firstOutage": "2023-04-03",
-  "lastOutage": "2025-09-01",
+  "lastOutage": "2026-05-26",
   "outages": [
+    {
+      "date": "Le mardi 26 mai 2026 de  09:00:00 à  17:00:00",
+      "streets": "Morc Constance & Golf.",
+      "from": "2026-05-26T05:00:00.000Z",
+      "to": "2026-05-26T13:00:00.000Z",
+      "id": "59fa1c10cfd4a28721bcb050b9ae603f"
+    },
     {
       "date": "Le lundi 1 septembre 2025 de  10:20:00 à  11:30:00",
       "streets": "POINTE DE FLACQ NEAR ST GERAN",
