@@ -1,8 +1,8 @@
 {
   "date": "2026-05-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-25T11:18:14.978Z",
-  "outageCount": 2,
+  "generated": "2026-05-25T13:00:35.431Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le mardi 26 mai 2026 de  09:00:00 à  17:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-05-26T05:00:00.000Z",
       "to": "2026-05-26T12:00:00.000Z",
       "id": "63222f516164163fd95ea3ae7dda60a8"
+    },
+    {
+      "date": "Le mardi 26 mai 2026 de  09:00:00 à  12:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "La Ferme Citron, La Ferme, Baie Topaze, Piments, Camp Pintade, Momtagne Plate, Plaine Maho et Montagne Coupier",
+      "district": "rodrigues",
+      "from": "2026-05-26T05:00:00.000Z",
+      "to": "2026-05-26T08:00:00.000Z",
+      "id": "94b265c5b47d0dec512ed50a268c7f87"
     }
   ]
 }

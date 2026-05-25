@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-05-25T11:18:15.072Z",
-  "outageCount": 215,
+  "generated": "2026-05-25T13:00:35.543Z",
+  "outageCount": 216,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-05-24",
+  "lastOutage": "2026-05-26",
   "outages": [
+    {
+      "date": "Le mardi 26 mai 2026 de  09:00:00 à  12:00:00",
+      "streets": "La Ferme Citron, La Ferme, Baie Topaze, Piments, Camp Pintade, Momtagne Plate, Plaine Maho et Montagne Coupier",
+      "from": "2026-05-26T05:00:00.000Z",
+      "to": "2026-05-26T08:00:00.000Z",
+      "id": "94b265c5b47d0dec512ed50a268c7f87"
+    },
     {
       "date": "Le dimanche 24 mai 2026 de  08:30:00 à  15:00:00",
       "streets": "Montagne Bois Noir et Montagne Malgache",

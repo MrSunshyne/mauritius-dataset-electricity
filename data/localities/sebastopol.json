@@ -2,11 +2,18 @@
   "slug": "sebastopol",
   "name": "SEBASTOPOL",
   "district": "flacq",
-  "generated": "2026-05-25T11:18:15.077Z",
-  "outageCount": 20,
+  "generated": "2026-05-25T13:00:35.549Z",
+  "outageCount": 21,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-05-17",
+  "lastOutage": "2026-05-27",
   "outages": [
+    {
+      "date": "Le mercredi 27 mai 2026 de  09:00:00 à  16:00:00",
+      "streets": "Pellegrin Road, Petit Paquet Branch Road, Camp Bombaye Road, Riverside Road, CentGaulettes Road et les environs.",
+      "from": "2026-05-27T05:00:00.000Z",
+      "to": "2026-05-27T12:00:00.000Z",
+      "id": "0f252ef373a9d525fe612e3ab698dad4"
+    },
     {
       "date": "Le dimanche 17 mai 2026 de  09:00:00 à  16:00:00",
       "streets": "Village de Pellegrin, Sébastopol Road, Seetaram Road, Tourist Street, Clavet Road, Soodin Road, Résidences Opal, Bombaye Street",
