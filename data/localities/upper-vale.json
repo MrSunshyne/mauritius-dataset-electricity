@@ -2,11 +2,18 @@
   "slug": "upper-vale",
   "name": "UPPER VALE",
   "district": "rivieredurempart",
-  "generated": "2026-05-25T15:59:50.862Z",
-  "outageCount": 23,
+  "generated": "2026-05-25T16:50:42.581Z",
+  "outageCount": 24,
   "firstOutage": "2022-04-05",
-  "lastOutage": "2026-05-08",
+  "lastOutage": "2026-05-25",
   "outages": [
+    {
+      "date": "Le lundi 25 mai 2026 de  20:00:00 à  23:00:00",
+      "streets": "VALE DANS LES ALENTOURS DE MASJID - IBNEY TAYYMIYAH",
+      "from": "2026-05-25T16:00:00.000Z",
+      "to": "2026-05-25T19:00:00.000Z",
+      "id": "40f4e3cb7a7aeafb3da48b0fd20ef823"
+    },
     {
       "date": "Le vendredi 8 mai 2026 de  10:20:00 à  11:30:00",
       "streets": "UPPER VALE",
