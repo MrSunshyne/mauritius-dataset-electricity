@@ -1,8 +1,8 @@
 {
   "date": "2026-05-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-25T09:14:05.726Z",
-  "outageCount": 6,
+  "generated": "2026-05-25T11:18:14.978Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le lundi 25 mai 2026 de  09:00:00 à  11:30:00",
@@ -43,6 +43,16 @@
       "from": "2026-05-25T05:30:00.000Z",
       "to": "2026-05-25T07:30:00.000Z",
       "id": "e4621726af9deee7157382b34761724b"
+    },
+    {
+      "date": "Le lundi 25 mai 2026 de  12:00:00 à  16:00:00",
+      "locality": "CITE VALLIJEE",
+      "localitySlug": "cite-vallijee",
+      "streets": "OAKS LANE, RUE FLORIDA, FLAMBOYANT ET LES ALENTOURS.",
+      "district": "portlouis",
+      "from": "2026-05-25T08:00:00.000Z",
+      "to": "2026-05-25T12:00:00.000Z",
+      "id": "9462964125a3556ef5d750cf43000e70"
     },
     {
       "date": "Le lundi 25 mai 2026 de  09:45:00 à  12:00:00",
