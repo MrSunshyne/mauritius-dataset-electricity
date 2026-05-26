@@ -1,8 +1,8 @@
 {
   "date": "2026-05-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-26T15:06:46.038Z",
-  "outageCount": 5,
+  "generated": "2026-05-26T17:02:27.169Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le mardi 26 mai 2026 de  09:00:00 à  17:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-05-26T05:00:00.000Z",
       "to": "2026-05-26T12:00:00.000Z",
       "id": "63222f516164163fd95ea3ae7dda60a8"
+    },
+    {
+      "date": "Le mardi 26 mai 2026 de  18:00:00 à  23:00:00",
+      "locality": "LA CAVERNE",
+      "localitySlug": "la-caverne",
+      "streets": "CHEMIN JEROME TRANQUILLE, BILLARD LANE ET DANS LES ENVIRONS JARDIN D-ENFANTS/ASSEMBLEE DE DIEU.",
+      "district": "plainewilhems",
+      "from": "2026-05-26T14:00:00.000Z",
+      "to": "2026-05-26T19:00:00.000Z",
+      "id": "0edd05566d9f7e306fd31eb9534ffd64"
     },
     {
       "date": "Le mardi 26 mai 2026 de  09:00:00 à  12:00:00",

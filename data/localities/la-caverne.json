@@ -2,11 +2,18 @@
   "slug": "la-caverne",
   "name": "LA CAVERNE",
   "district": "plainewilhems",
-  "generated": "2026-05-26T15:06:46.111Z",
-  "outageCount": 26,
+  "generated": "2026-05-26T17:02:27.245Z",
+  "outageCount": 27,
   "firstOutage": "2022-03-22",
-  "lastOutage": "2026-04-21",
+  "lastOutage": "2026-05-26",
   "outages": [
+    {
+      "date": "Le mardi 26 mai 2026 de  18:00:00 à  23:00:00",
+      "streets": "CHEMIN JEROME TRANQUILLE, BILLARD LANE ET DANS LES ENVIRONS JARDIN D-ENFANTS/ASSEMBLEE DE DIEU.",
+      "from": "2026-05-26T14:00:00.000Z",
+      "to": "2026-05-26T19:00:00.000Z",
+      "id": "0edd05566d9f7e306fd31eb9534ffd64"
+    },
     {
       "date": "Le mardi 21 avril 2026 de  15:00:00 à  17:30:00",
       "streets": "Chemin Mission, une partie de Route La Caverne No.1",
