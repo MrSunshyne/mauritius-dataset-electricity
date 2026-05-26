@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-25T18:28:31.870Z",
+  "generated": "2026-05-26T07:03:44.181Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -934,10 +934,10 @@
       "slug": "carreau-esnouf",
       "name": "CARREAU ESNOUF",
       "district": "grandport",
-      "outageCount": 3,
+      "outageCount": 4,
       "file": "carreau-esnouf.json",
       "firstOutage": "2025-08-11",
-      "lastOutage": "2026-01-15"
+      "lastOutage": "2026-05-27"
     },
     {
       "slug": "carreau-laliane",
@@ -3508,10 +3508,10 @@
       "slug": "rose-hill",
       "name": "ROSE-HILL",
       "district": "plainewilhems",
-      "outageCount": 165,
+      "outageCount": 166,
       "file": "rose-hill.json",
       "firstOutage": "2022-05-20",
-      "lastOutage": "2026-05-20"
+      "lastOutage": "2026-05-27"
     },
     {
       "slug": "roseaux",

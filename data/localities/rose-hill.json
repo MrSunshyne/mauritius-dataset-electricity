@@ -2,11 +2,18 @@
   "slug": "rose-hill",
   "name": "ROSE-HILL",
   "district": "plainewilhems",
-  "generated": "2026-05-25T18:28:31.847Z",
-  "outageCount": 165,
+  "generated": "2026-05-26T07:03:44.159Z",
+  "outageCount": 166,
   "firstOutage": "2022-05-20",
-  "lastOutage": "2026-05-20",
+  "lastOutage": "2026-05-27",
   "outages": [
+    {
+      "date": "Le mercredi 27 mai 2026 de  09:00:00 à  14:30:00",
+      "streets": "Ave Toureau, en partie Ave Dr Piarroux, en partie Ave Berthaud et les environs",
+      "from": "2026-05-27T05:00:00.000Z",
+      "to": "2026-05-27T10:30:00.000Z",
+      "id": "445f4bcb88ed961aa8d593c22aa6698d"
+    },
     {
       "date": "Le mercredi 20 mai 2026 de  09:00:00 à  17:30:00",
       "streets": "Ave Hajee Allaman, en partie Sister Marie Clemence, Adolphe de Plevitz, Ratsitatane, de Chazal et les environs",

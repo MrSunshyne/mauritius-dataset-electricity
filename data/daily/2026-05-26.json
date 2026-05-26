@@ -1,8 +1,8 @@
 {
   "date": "2026-05-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-25T18:28:31.720Z",
-  "outageCount": 3,
+  "generated": "2026-05-26T07:03:44.043Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le mardi 26 mai 2026 de  09:00:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-05-26T05:00:00.000Z",
       "to": "2026-05-26T13:00:00.000Z",
       "id": "59fa1c10cfd4a28721bcb050b9ae603f"
+    },
+    {
+      "date": "Le mardi 26 mai 2026 de  09:00:00 à  15:00:00",
+      "locality": "MARE D-AUSTRALIA",
+      "localitySlug": "mare-d-australia",
+      "streets": "MARE DAUSTRALIA/PONT PRASLIN",
+      "district": "flacq",
+      "from": "2026-05-26T05:00:00.000Z",
+      "to": "2026-05-26T11:00:00.000Z",
+      "id": "40875c8c4224a6987e8fa2c8463b80ab"
     },
     {
       "date": "Le mardi 26 mai 2026 de  09:00:00 à  16:00:00",

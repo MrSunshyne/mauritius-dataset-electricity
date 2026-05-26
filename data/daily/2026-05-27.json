@@ -1,8 +1,8 @@
 {
   "date": "2026-05-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-25T18:28:31.720Z",
-  "outageCount": 1,
+  "generated": "2026-05-26T07:03:44.043Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le mercredi 27 mai 2026 de  09:00:00 à  16:00:00",
@@ -13,6 +13,26 @@
       "from": "2026-05-27T05:00:00.000Z",
       "to": "2026-05-27T12:00:00.000Z",
       "id": "0f252ef373a9d525fe612e3ab698dad4"
+    },
+    {
+      "date": "Le mercredi 27 mai 2026 de  09:00:00 à  16:00:00",
+      "locality": "CARREAU ESNOUF",
+      "localitySlug": "carreau-esnouf",
+      "streets": "Carreau Esnouf",
+      "district": "grandport",
+      "from": "2026-05-27T05:00:00.000Z",
+      "to": "2026-05-27T12:00:00.000Z",
+      "id": "3f8476d07a6b4f3de4bf06b7fa07940b"
+    },
+    {
+      "date": "Le mercredi 27 mai 2026 de  09:00:00 à  14:30:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Ave Toureau, en partie Ave Dr Piarroux, en partie Ave Berthaud et les environs",
+      "district": "plainewilhems",
+      "from": "2026-05-27T05:00:00.000Z",
+      "to": "2026-05-27T10:30:00.000Z",
+      "id": "445f4bcb88ed961aa8d593c22aa6698d"
     }
   ]
 }

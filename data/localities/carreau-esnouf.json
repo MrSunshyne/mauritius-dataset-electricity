@@ -2,11 +2,18 @@
   "slug": "carreau-esnouf",
   "name": "CARREAU ESNOUF",
   "district": "grandport",
-  "generated": "2026-05-25T18:28:31.762Z",
-  "outageCount": 3,
+  "generated": "2026-05-26T07:03:44.084Z",
+  "outageCount": 4,
   "firstOutage": "2025-08-11",
-  "lastOutage": "2026-01-15",
+  "lastOutage": "2026-05-27",
   "outages": [
+    {
+      "date": "Le mercredi 27 mai 2026 de  09:00:00 à  16:00:00",
+      "streets": "Carreau Esnouf",
+      "from": "2026-05-27T05:00:00.000Z",
+      "to": "2026-05-27T12:00:00.000Z",
+      "id": "3f8476d07a6b4f3de4bf06b7fa07940b"
+    },
     {
       "date": "Le jeudi 15 janvier 2026 de  22:00:00 à  01:30:00",
       "streets": "PART OF CARREAU ESNOUF",
