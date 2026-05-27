@@ -2,11 +2,18 @@
   "slug": "flic-en-flac",
   "name": "FLIC-EN-FLAC",
   "district": "blackriver",
-  "generated": "2026-05-27T09:01:27.457Z",
-  "outageCount": 219,
+  "generated": "2026-05-27T11:06:39.415Z",
+  "outageCount": 220,
   "firstOutage": "2022-03-16",
-  "lastOutage": "2026-05-20",
+  "lastOutage": "2026-05-28",
   "outages": [
+    {
+      "date": "Le jeudi 28 mai 2026 de  10:00:00 à  13:00:00",
+      "streets": "PASADENA VILLAGE, ANARI HOTEL, COASTAL ROAD ET FLIC EN FLAC POLICE STATION",
+      "from": "2026-05-28T06:00:00.000Z",
+      "to": "2026-05-28T09:00:00.000Z",
+      "id": "36ee0413042b81d6f04828b9255c4ce9"
+    },
     {
       "date": "Le mercredi 20 mai 2026 de  10:15:00 à  11:30:00",
       "streets": "Aves Cygognes,Nenuphar Morc Safeland",

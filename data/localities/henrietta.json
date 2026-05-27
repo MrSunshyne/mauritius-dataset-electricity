@@ -2,11 +2,18 @@
   "slug": "henrietta",
   "name": "HENRIETTA",
   "district": "plainewilhems",
-  "generated": "2026-05-27T09:01:27.465Z",
-  "outageCount": 86,
+  "generated": "2026-05-27T11:06:39.424Z",
+  "outageCount": 87,
   "firstOutage": "2022-07-14",
-  "lastOutage": "2026-05-24",
+  "lastOutage": "2026-05-30",
   "outages": [
+    {
+      "date": "Le samedi 30 mai 2026 de  09:00:00 à  12:00:00",
+      "streets": "Morc Seegobin",
+      "from": "2026-05-30T05:00:00.000Z",
+      "to": "2026-05-30T08:00:00.000Z",
+      "id": "ae4fd25a0f93140913af8f7df2b8292b"
+    },
     {
       "date": "Le dimanche 24 mai 2026 de  19:00:00 à  23:00:00",
       "streets": "DANS LES ENVIRONS CAMP MAPOU, SOOKEE LANE,CAMP MAPOU ROAD, CHEMIN LA MARIE TOWARDS MORCELLEMENT POUSSON.",
