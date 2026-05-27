@@ -2,11 +2,18 @@
   "slug": "esperance-piton",
   "name": "ESPERANCE PITON",
   "district": "pamplemousses",
-  "generated": "2026-05-27T16:16:00.299Z",
-  "outageCount": 7,
+  "generated": "2026-05-27T17:58:14.092Z",
+  "outageCount": 8,
   "firstOutage": "2022-10-08",
-  "lastOutage": "2026-04-11",
+  "lastOutage": "2026-05-27",
   "outages": [
+    {
+      "date": "Le mercredi 27 mai 2026 de  19:45:00 à  00:00:00",
+      "streets": "EN PARTIE MAURICE MARTIN ROAD, JANSI ROAD ET DANS LES ALENTOURS TERRAIN FOOTBALL/KALIMAYE.",
+      "from": "2026-05-27T15:45:00.000Z",
+      "to": "2026-05-26T20:00:00.000Z",
+      "id": "5aaf4ca70b939c76c371179cb02cdd93"
+    },
     {
       "date": "Le samedi 11 avril 2026 de  08:30:00 à  15:30:00",
       "streets": "ENTIERE REGION DE ESPERANCE PITON",

@@ -1,8 +1,8 @@
 {
   "date": "2026-05-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-27T16:16:00.244Z",
-  "outageCount": 9,
+  "generated": "2026-05-27T17:58:14.036Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le mercredi 27 mai 2026 de  09:00:00 à  16:00:00",
@@ -63,6 +63,16 @@
       "from": "2026-05-27T11:00:00.000Z",
       "to": "2026-05-27T13:00:00.000Z",
       "id": "a3d02c379bb2f8505075eba97f92b07b"
+    },
+    {
+      "date": "Le mercredi 27 mai 2026 de  19:45:00 à  00:00:00",
+      "locality": "ESPERANCE PITON",
+      "localitySlug": "esperance-piton",
+      "streets": "EN PARTIE MAURICE MARTIN ROAD, JANSI ROAD ET DANS LES ALENTOURS TERRAIN FOOTBALL/KALIMAYE.",
+      "district": "pamplemousses",
+      "from": "2026-05-27T15:45:00.000Z",
+      "to": "2026-05-26T20:00:00.000Z",
+      "id": "5aaf4ca70b939c76c371179cb02cdd93"
     },
     {
       "date": "Le mercredi 27 mai 2026 de  09:00:00 à  14:30:00",
