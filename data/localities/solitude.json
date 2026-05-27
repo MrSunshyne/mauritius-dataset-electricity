@@ -2,11 +2,18 @@
   "slug": "solitude",
   "name": "SOLITUDE",
   "district": "pamplemousses",
-  "generated": "2026-05-27T11:06:39.479Z",
-  "outageCount": 32,
+  "generated": "2026-05-27T12:58:19.604Z",
+  "outageCount": 33,
   "firstOutage": "2022-04-16",
-  "lastOutage": "2026-04-23",
+  "lastOutage": "2026-05-27",
   "outages": [
+    {
+      "date": "Le mercredi 27 mai 2026 de  15:00:00 à  17:00:00",
+      "streets": "LOCAM RD ROYAL RD SOLITUDE TRIOLET",
+      "from": "2026-05-27T11:00:00.000Z",
+      "to": "2026-05-27T13:00:00.000Z",
+      "id": "a3d02c379bb2f8505075eba97f92b07b"
+    },
     {
       "date": "Le jeudi 23 avril 2026 de  15:00:00 à  17:00:00",
       "streets": "PART OF SOLITUDE",

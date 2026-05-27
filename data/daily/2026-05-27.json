@@ -1,8 +1,8 @@
 {
   "date": "2026-05-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-27T11:06:39.358Z",
-  "outageCount": 8,
+  "generated": "2026-05-27T12:58:19.487Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le mercredi 27 mai 2026 de  09:00:00 à  16:00:00",
@@ -25,14 +25,14 @@
       "id": "b77426c9a5f2fad21d9ab43806ff39de"
     },
     {
-      "date": "Le mercredi 27 mai 2026 de  09:00:00 à  16:00:00",
+      "date": "Le mercredi 27 mai 2026 de  09:00:00 à  17:00:00",
       "locality": "CARREAU ESNOUF",
       "localitySlug": "carreau-esnouf",
       "streets": "Carreau Esnouf",
       "district": "grandport",
       "from": "2026-05-27T05:00:00.000Z",
-      "to": "2026-05-27T12:00:00.000Z",
-      "id": "3f8476d07a6b4f3de4bf06b7fa07940b"
+      "to": "2026-05-27T13:00:00.000Z",
+      "id": "0a5e83b7bc6c40191c94155c68660d22"
     },
     {
       "date": "Le mercredi 27 mai 2026 de  08:30:00 à  13:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-05-27T08:00:00.000Z",
       "to": "2026-05-27T13:00:00.000Z",
       "id": "87acb15173f6045a6337b10a408bd1f9"
+    },
+    {
+      "date": "Le mercredi 27 mai 2026 de  15:00:00 à  17:00:00",
+      "locality": "SOLITUDE",
+      "localitySlug": "solitude",
+      "streets": "LOCAM RD ROYAL RD SOLITUDE TRIOLET",
+      "district": "pamplemousses",
+      "from": "2026-05-27T11:00:00.000Z",
+      "to": "2026-05-27T13:00:00.000Z",
+      "id": "a3d02c379bb2f8505075eba97f92b07b"
     },
     {
       "date": "Le mercredi 27 mai 2026 de  09:00:00 à  14:30:00",
