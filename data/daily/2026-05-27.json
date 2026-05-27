@@ -1,8 +1,8 @@
 {
   "date": "2026-05-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-26T18:43:22.303Z",
-  "outageCount": 3,
+  "generated": "2026-05-27T07:18:12.084Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le mercredi 27 mai 2026 de  09:00:00 à  16:00:00",
@@ -15,6 +15,16 @@
       "id": "0f252ef373a9d525fe612e3ab698dad4"
     },
     {
+      "date": "Le mercredi 27 mai 2026 de  08:50:00 à  12:00:00",
+      "locality": "POSTE LAFAYETTE",
+      "localitySlug": "poste-lafayette",
+      "streets": "POSTE LAFAYETTE",
+      "district": "flacq",
+      "from": "2026-05-27T04:50:00.000Z",
+      "to": "2026-05-27T08:00:00.000Z",
+      "id": "b77426c9a5f2fad21d9ab43806ff39de"
+    },
+    {
       "date": "Le mercredi 27 mai 2026 de  09:00:00 à  16:00:00",
       "locality": "CARREAU ESNOUF",
       "localitySlug": "carreau-esnouf",
@@ -25,6 +35,16 @@
       "id": "3f8476d07a6b4f3de4bf06b7fa07940b"
     },
     {
+      "date": "Le mercredi 27 mai 2026 de  08:30:00 à  13:00:00",
+      "locality": "MON GOUT",
+      "localitySlug": "mon-gout",
+      "streets": "MONGOUT",
+      "district": "pamplemousses",
+      "from": "2026-05-27T04:30:00.000Z",
+      "to": "2026-05-27T09:00:00.000Z",
+      "id": "4d46fb2c731f8bc09643ac7a30a3097e"
+    },
+    {
       "date": "Le mercredi 27 mai 2026 de  09:00:00 à  14:30:00",
       "locality": "ROSE-HILL",
       "localitySlug": "rose-hill",
@@ -33,6 +53,26 @@
       "from": "2026-05-27T05:00:00.000Z",
       "to": "2026-05-27T10:30:00.000Z",
       "id": "445f4bcb88ed961aa8d593c22aa6698d"
+    },
+    {
+      "date": "Le mercredi 27 mai 2026 de  10:00:00 à  14:00:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "MORC NEW TOWN ROCHE BRUNES",
+      "district": "plainewilhems",
+      "from": "2026-05-27T06:00:00.000Z",
+      "to": "2026-05-27T10:00:00.000Z",
+      "id": "33470577622440ea4c31623973c93625"
+    },
+    {
+      "date": "Le mercredi 27 mai 2026 de  10:00:00 à  14:00:00",
+      "locality": "BELLE TERRE",
+      "localitySlug": "belle-terre",
+      "streets": "MORC BELLE TERRE",
+      "district": "plainewilhems",
+      "from": "2026-05-27T06:00:00.000Z",
+      "to": "2026-05-27T10:00:00.000Z",
+      "id": "fb7345cb9c360f46f40820c904961bf1"
     }
   ]
 }

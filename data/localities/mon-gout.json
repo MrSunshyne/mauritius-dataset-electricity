@@ -2,11 +2,18 @@
   "slug": "mon-gout",
   "name": "MON GOUT",
   "district": "pamplemousses",
-  "generated": "2026-05-26T18:43:22.382Z",
-  "outageCount": 15,
+  "generated": "2026-05-27T07:18:12.163Z",
+  "outageCount": 16,
   "firstOutage": "2022-06-08",
-  "lastOutage": "2026-03-08",
+  "lastOutage": "2026-05-27",
   "outages": [
+    {
+      "date": "Le mercredi 27 mai 2026 de  08:30:00 à  13:00:00",
+      "streets": "MONGOUT",
+      "from": "2026-05-27T04:30:00.000Z",
+      "to": "2026-05-27T09:00:00.000Z",
+      "id": "4d46fb2c731f8bc09643ac7a30a3097e"
+    },
     {
       "date": "Le dimanche 8 mars 2026 de  00:00:00 à  05:00:00",
       "streets": "MON GOUT",

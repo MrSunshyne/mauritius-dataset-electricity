@@ -2,11 +2,18 @@
   "slug": "roches-brunes",
   "name": "ROCHES BRUNES",
   "district": "plainewilhems",
-  "generated": "2026-05-26T18:43:22.413Z",
-  "outageCount": 35,
+  "generated": "2026-05-27T07:18:12.191Z",
+  "outageCount": 36,
   "firstOutage": "2022-10-01",
-  "lastOutage": "2026-05-22",
+  "lastOutage": "2026-05-27",
   "outages": [
+    {
+      "date": "Le mercredi 27 mai 2026 de  10:00:00 à  14:00:00",
+      "streets": "MORC NEW TOWN ROCHE BRUNES",
+      "from": "2026-05-27T06:00:00.000Z",
+      "to": "2026-05-27T10:00:00.000Z",
+      "id": "33470577622440ea4c31623973c93625"
+    },
     {
       "date": "Le vendredi 22 mai 2026 de  16:05:00 à  17:30:00",
       "streets": "RUE ALDRINE, RUE AMSTRONG, RUE ARIANNE, EN PARTIE MORC NEW TOWN",
