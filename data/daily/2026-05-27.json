@@ -1,8 +1,8 @@
 {
   "date": "2026-05-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-27T07:18:12.084Z",
-  "outageCount": 7,
+  "generated": "2026-05-27T09:01:27.401Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le mercredi 27 mai 2026 de  09:00:00 à  16:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-05-27T04:30:00.000Z",
       "to": "2026-05-27T09:00:00.000Z",
       "id": "4d46fb2c731f8bc09643ac7a30a3097e"
+    },
+    {
+      "date": "Le mercredi 27 mai 2026 de  12:00:00 à  17:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "DISPENSARY ROAD TRIOLET",
+      "district": "pamplemousses",
+      "from": "2026-05-27T08:00:00.000Z",
+      "to": "2026-05-27T13:00:00.000Z",
+      "id": "87acb15173f6045a6337b10a408bd1f9"
     },
     {
       "date": "Le mercredi 27 mai 2026 de  09:00:00 à  14:30:00",

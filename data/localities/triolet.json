@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-05-27T07:18:12.205Z",
-  "outageCount": 139,
+  "generated": "2026-05-27T09:01:27.530Z",
+  "outageCount": 140,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-05-23",
+  "lastOutage": "2026-05-27",
   "outages": [
+    {
+      "date": "Le mercredi 27 mai 2026 de  12:00:00 à  17:00:00",
+      "streets": "DISPENSARY ROAD TRIOLET",
+      "from": "2026-05-27T08:00:00.000Z",
+      "to": "2026-05-27T13:00:00.000Z",
+      "id": "87acb15173f6045a6337b10a408bd1f9"
+    },
     {
       "date": "Le samedi 23 mai 2026 de  21:00:00 à  23:00:00",
       "streets": "TRIO,M NAGRI,SEWRAZ AND NEARBY REGION",
