@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-05-28T11:07:30.739Z",
-  "outageCount": 216,
+  "generated": "2026-05-28T13:02:30.378Z",
+  "outageCount": 217,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-05-26",
+  "lastOutage": "2026-05-29",
   "outages": [
+    {
+      "date": "Le vendredi 29 mai 2026 de  11:00:00 à  12:00:00",
+      "streets": "Roche Bon Dieu, Anse Ali, Saint Francois et Pointe Coton",
+      "from": "2026-05-29T07:00:00.000Z",
+      "to": "2026-05-29T08:00:00.000Z",
+      "id": "3758bf934377354ae2d8be9691ab0f9d"
+    },
     {
       "date": "Le mardi 26 mai 2026 de  09:00:00 à  12:00:00",
       "streets": "La Ferme Citron, La Ferme, Baie Topaze, Piments, Camp Pintade, Momtagne Plate, Plaine Maho et Montagne Coupier",

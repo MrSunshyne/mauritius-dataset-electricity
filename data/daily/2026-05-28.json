@@ -1,8 +1,8 @@
 {
   "date": "2026-05-28",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-28T11:07:30.627Z",
-  "outageCount": 2,
+  "generated": "2026-05-28T13:02:30.258Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le jeudi 28 mai 2026 de  10:00:00 à  13:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-05-28T02:00:00.000Z",
       "to": "2026-05-28T12:00:00.000Z",
       "id": "3daf53ceb0c1d68bf02fb7802ee7a390"
+    },
+    {
+      "date": "Le jeudi 28 mai 2026 de  15:15:00 à  18:00:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "SCHOENFEILD RD ET LES ALENTOURS",
+      "district": "rivieredurempart",
+      "from": "2026-05-28T11:15:00.000Z",
+      "to": "2026-05-28T14:00:00.000Z",
+      "id": "264ecb603031bdf677e7c8c0ba29160b"
     }
   ]
 }
