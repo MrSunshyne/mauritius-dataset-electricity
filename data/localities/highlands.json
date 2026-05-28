@@ -2,11 +2,18 @@
   "slug": "highlands",
   "name": "HIGHLANDS",
   "district": "plainewilhems",
-  "generated": "2026-05-28T07:11:19.762Z",
-  "outageCount": 73,
+  "generated": "2026-05-28T09:06:11.611Z",
+  "outageCount": 74,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2026-04-26",
+  "lastOutage": "2026-05-30",
   "outages": [
+    {
+      "date": "Le samedi 30 mai 2026 de  09:00:00 à  12:00:00",
+      "streets": "Morc Raheemeea, Owadally Lane",
+      "from": "2026-05-30T05:00:00.000Z",
+      "to": "2026-05-30T08:00:00.000Z",
+      "id": "255327c1964c80d4a9845e275ee78a40"
+    },
     {
       "date": "Le dimanche 26 avril 2026 de  08:30:00 à  17:00:00",
       "streets": "HIGHLANDS/ BELLE TERRE: Morc. Blue print Highlands, Morc. Apave, Morc. Omnicane, Staff Quaters Highlands, Owadally Lane, Bassin Road, Morc. Lonrho, Tout Court Road, Morc. MTMD No.  1 & No. 2, Morc. VRS Highlands, NHDC Highlands No. 1 & No.  2, Cite 50, Morc. VRS Belle Terre 1,2,3 & 4 et une partie de Belle Terre",
