@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-05-27T18:55:35.264Z",
-  "outageCount": 214,
+  "generated": "2026-05-28T07:11:19.746Z",
+  "outageCount": 215,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-05-04",
+  "lastOutage": "2026-06-01",
   "outages": [
+    {
+      "date": "Le lundi 1 juin 2026 de  09:00:00 à  16:00:00",
+      "streets": "Ferdinand Street,Ls Peyrousse Street,Part of Camp Rouillard and nearby alleys",
+      "from": "2026-06-01T05:00:00.000Z",
+      "to": "2026-06-01T12:00:00.000Z",
+      "id": "c23727cf9a7f80a2f303528f30782681"
+    },
     {
       "date": "Le lundi 4 mai 2026 de  15:30:00 à  16:30:00",
       "streets": "RUE LEES : BUREAU BRINKS, MAURITIUS HOUSING ET MEDICAL HEARING CENTRE.",

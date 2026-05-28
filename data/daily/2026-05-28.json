@@ -1,8 +1,8 @@
 {
   "date": "2026-05-28",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-27T18:55:35.213Z",
-  "outageCount": 1,
+  "generated": "2026-05-28T07:11:19.692Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le jeudi 28 mai 2026 de  10:00:00 à  13:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-05-28T06:00:00.000Z",
       "to": "2026-05-28T09:00:00.000Z",
       "id": "36ee0413042b81d6f04828b9255c4ce9"
+    },
+    {
+      "date": "Le jeudi 28 mai 2026 de  06:00:00 à  16:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "BOUNDARY RD -KOENIG RD -SIR GAETAN DUVAL STADIUM ROSE HILL, BADMINTON COMPLEX",
+      "district": "plainewilhems",
+      "from": "2026-05-28T02:00:00.000Z",
+      "to": "2026-05-28T12:00:00.000Z",
+      "id": "3daf53ceb0c1d68bf02fb7802ee7a390"
     }
   ]
 }
