@@ -1,8 +1,8 @@
 {
   "date": "2026-05-28",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-28T17:08:45.877Z",
-  "outageCount": 3,
+  "generated": "2026-05-28T18:46:15.949Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le jeudi 28 mai 2026 de  10:00:00 à  13:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-05-28T06:00:00.000Z",
       "to": "2026-05-28T09:00:00.000Z",
       "id": "36ee0413042b81d6f04828b9255c4ce9"
+    },
+    {
+      "date": "Le jeudi 28 mai 2026 de  19:50:00 à  00:30:00",
+      "locality": "CREVE COEUR",
+      "localitySlug": "creve-coeur",
+      "streets": "Creve Coeur,Boulingrin & Part Montagne Longue",
+      "district": "pamplemousses",
+      "from": "2026-05-28T15:50:00.000Z",
+      "to": "2026-05-27T20:30:00.000Z",
+      "id": "1d81166d8644d59b10ef146da0201c42"
     },
     {
       "date": "Le jeudi 28 mai 2026 de  06:00:00 à  16:00:00",

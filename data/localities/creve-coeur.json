@@ -2,11 +2,18 @@
   "slug": "creve-coeur",
   "name": "CREVE COEUR",
   "district": "pamplemousses",
-  "generated": "2026-05-28T17:08:45.933Z",
-  "outageCount": 28,
+  "generated": "2026-05-28T18:46:16.001Z",
+  "outageCount": 29,
   "firstOutage": "2022-04-02",
-  "lastOutage": "2026-03-27",
+  "lastOutage": "2026-05-28",
   "outages": [
+    {
+      "date": "Le jeudi 28 mai 2026 de  19:50:00 à  00:30:00",
+      "streets": "Creve Coeur,Boulingrin & Part Montagne Longue",
+      "from": "2026-05-28T15:50:00.000Z",
+      "to": "2026-05-27T20:30:00.000Z",
+      "id": "1d81166d8644d59b10ef146da0201c42"
+    },
     {
       "date": "Le vendredi 27 mars 2026 de  09:20:00 à  11:30:00",
       "streets": "RIVALLAND ROAD DANS LES ENVIRONS KALIMAYE.",
