@@ -1,8 +1,8 @@
 {
   "date": "2026-05-30",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-29T11:00:56.587Z",
-  "outageCount": 2,
+  "generated": "2026-05-29T12:54:55.934Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le samedi 30 mai 2026 de  09:00:00 à  12:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-05-30T05:00:00.000Z",
       "to": "2026-05-30T08:00:00.000Z",
       "id": "255327c1964c80d4a9845e275ee78a40"
+    },
+    {
+      "date": "Le samedi 30 mai 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Petit Brulé, Citronelle et Trèfles",
+      "district": "rodrigues",
+      "from": "2026-05-30T04:30:00.000Z",
+      "to": "2026-05-30T11:00:00.000Z",
+      "id": "ffccba6ecd3d4bff1b93e9e2ef5d3c48"
     }
   ]
 }

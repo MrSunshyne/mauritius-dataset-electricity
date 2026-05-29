@@ -1,8 +1,8 @@
 {
   "date": "2026-06-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-29T11:00:56.587Z",
-  "outageCount": 1,
+  "generated": "2026-05-29T12:54:55.934Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le lundi 1 juin 2026 de  09:00:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-06-01T05:00:00.000Z",
       "to": "2026-06-01T12:00:00.000Z",
       "id": "c23727cf9a7f80a2f303528f30782681"
+    },
+    {
+      "date": "Le lundi 1 juin 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Malartic, Bassin Gallard, Petit Gabriel, Citron Donis, Bigarade, Fond La Bonté,Fond Baie Huitres et Eau Vanne",
+      "district": "rodrigues",
+      "from": "2026-06-01T04:30:00.000Z",
+      "to": "2026-06-01T11:00:00.000Z",
+      "id": "8a55cebdec14add25d82476d84126204"
     }
   ]
 }

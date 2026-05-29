@@ -2,11 +2,25 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-05-29T11:00:56.700Z",
-  "outageCount": 217,
+  "generated": "2026-05-29T12:54:56.059Z",
+  "outageCount": 219,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-05-29",
+  "lastOutage": "2026-06-01",
   "outages": [
+    {
+      "date": "Le lundi 1 juin 2026 de  08:30:00 à  15:00:00",
+      "streets": "Malartic, Bassin Gallard, Petit Gabriel, Citron Donis, Bigarade, Fond La Bonté,Fond Baie Huitres et Eau Vanne",
+      "from": "2026-06-01T04:30:00.000Z",
+      "to": "2026-06-01T11:00:00.000Z",
+      "id": "8a55cebdec14add25d82476d84126204"
+    },
+    {
+      "date": "Le samedi 30 mai 2026 de  08:30:00 à  15:00:00",
+      "streets": "Petit Brulé, Citronelle et Trèfles",
+      "from": "2026-05-30T04:30:00.000Z",
+      "to": "2026-05-30T11:00:00.000Z",
+      "id": "ffccba6ecd3d4bff1b93e9e2ef5d3c48"
+    },
     {
       "date": "Le vendredi 29 mai 2026 de  11:00:00 à  12:00:00",
       "streets": "Roche Bon Dieu, Anse Ali, Saint Francois et Pointe Coton",
