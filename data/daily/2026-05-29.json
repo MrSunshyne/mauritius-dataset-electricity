@@ -1,9 +1,29 @@
 {
   "date": "2026-05-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-28T18:46:15.949Z",
-  "outageCount": 1,
+  "generated": "2026-05-29T07:11:19.512Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le vendredi 29 mai 2026 de  09:00:00 à  13:00:00",
+      "locality": "CAMP ITHIER",
+      "localitySlug": "camp-ithier",
+      "streets": "MAHABALI RD, BHAGWANTH ED ET LES ALENTOURS",
+      "district": "flacq",
+      "from": "2026-05-29T05:00:00.000Z",
+      "to": "2026-05-29T09:00:00.000Z",
+      "id": "51a112acff75c8cdc59d29d0a951acc3"
+    },
+    {
+      "date": "Le vendredi 29 mai 2026 de  10:30:00 à  12:30:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "PLATEAU RD GOODLANDS ET LES ALENTOURS",
+      "district": "rivieredurempart",
+      "from": "2026-05-29T06:30:00.000Z",
+      "to": "2026-05-29T08:30:00.000Z",
+      "id": "2fdb3243c1c0bfb7315d1b500e03df12"
+    },
     {
       "date": "Le vendredi 29 mai 2026 de  11:00:00 à  12:00:00",
       "locality": "RODRIGUES",
