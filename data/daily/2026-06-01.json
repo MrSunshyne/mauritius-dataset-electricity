@@ -1,9 +1,19 @@
 {
   "date": "2026-06-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-05-29T18:46:29.896Z",
-  "outageCount": 2,
+  "generated": "2026-05-30T06:54:24.947Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le lundi 1 juin 2026 de  09:00:00 à  13:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "Mlle Laure, Terre Rouge dans les environs de Shafa Trading",
+      "district": "pamplemousses",
+      "from": "2026-06-01T05:00:00.000Z",
+      "to": "2026-06-01T09:00:00.000Z",
+      "id": "b328bf76118c4af47526096956509d29"
+    },
     {
       "date": "Le lundi 1 juin 2026 de  09:00:00 à  16:00:00",
       "locality": "CUREPIPE",
