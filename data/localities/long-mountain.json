@@ -2,11 +2,18 @@
   "slug": "long-mountain",
   "name": "LONG MOUNTAIN",
   "district": "pamplemousses",
-  "generated": "2026-05-30T13:28:56.551Z",
-  "outageCount": 27,
+  "generated": "2026-05-30T14:28:42.788Z",
+  "outageCount": 28,
   "firstOutage": "2022-05-26",
-  "lastOutage": "2026-04-22",
+  "lastOutage": "2026-05-30",
   "outages": [
+    {
+      "date": "Le samedi 30 mai 2026 de  17:50:00 à  22:00:00",
+      "streets": "VALTON MONTAGNE LONGUE : KUROO LANE ET DANS LES ENVIRONS VINA HALL/EX-COLLEGE BRADLEY.",
+      "from": "2026-05-30T13:50:00.000Z",
+      "to": "2026-05-30T18:00:00.000Z",
+      "id": "253dc58ce4f7eb0ae544757d6241218b"
+    },
     {
       "date": "Le mercredi 22 avril 2026 de  10:30:00 à  13:30:00",
       "streets": "DANS LES ALENTOURS DE CENTRE SOCIALE",
