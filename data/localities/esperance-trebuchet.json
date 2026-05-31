@@ -2,11 +2,18 @@
   "slug": "esperance-trebuchet",
   "name": "ESPERANCE TREBUCHET",
   "district": "rivieredurempart",
-  "generated": "2026-05-30T18:18:04.996Z",
-  "outageCount": 27,
+  "generated": "2026-05-31T07:11:57.675Z",
+  "outageCount": 28,
   "firstOutage": "2022-03-14",
-  "lastOutage": "2026-05-10",
+  "lastOutage": "2026-05-31",
   "outages": [
+    {
+      "date": "Le dimanche 31 mai 2026 de  10:20:00 à  13:30:00",
+      "streets": "NSLD CWA & SURROUNDINGS",
+      "from": "2026-05-31T06:20:00.000Z",
+      "to": "2026-05-31T09:30:00.000Z",
+      "id": "aff80f11527c979ad0083cf57ae0b58a"
+    },
     {
       "date": "Le dimanche 10 mai 2026 de  08:30:00 à  15:00:00",
       "streets": "VRS POUDRE DOR HAMLET, BASALT POUDERE DOR, MADAME BARBE ROAD ESPERANCE TREBUCHET",
