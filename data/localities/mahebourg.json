@@ -2,11 +2,18 @@
   "slug": "mahebourg",
   "name": "MAHEBOURG",
   "district": "grandport",
-  "generated": "2026-05-31T18:19:29.898Z",
-  "outageCount": 81,
+  "generated": "2026-06-01T07:35:15.436Z",
+  "outageCount": 82,
   "firstOutage": "2022-04-07",
-  "lastOutage": "2026-04-28",
+  "lastOutage": "2026-06-04",
   "outages": [
+    {
+      "date": "Le jeudi 4 juin 2026 de  09:00:00 à  16:00:00",
+      "streets": "Shivala Lane Mahebourg",
+      "from": "2026-06-04T05:00:00.000Z",
+      "to": "2026-06-04T12:00:00.000Z",
+      "id": "21aacdadcef37ebc723c1ba593fb79d2"
+    },
     {
       "date": "Le mardi 28 avril 2026 de  09:00:00 à  15:00:00",
       "streets": "Beau Vallon et Mahebourg habitant dans le périmètre et les rues suivantes: Gopeelall Lane, Ramnarain Lane, Impasse Auffray, une partie de (Tombeau Lane, Allée Geude, Gopala Lane, Doolar Lane, Rue du Bamboo, Rue Nyon, Rue Souffleur, Abdool Razack Mohamed Street) et Chemin Grove Industries Beau Vallon",

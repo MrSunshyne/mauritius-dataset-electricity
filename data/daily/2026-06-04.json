@@ -1,0 +1,28 @@
+{
+  "date": "2026-06-04",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-06-01T07:35:15.363Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le jeudi 4 juin 2026 de  09:00:00 à  16:00:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "Shivala Lane Mahebourg",
+      "district": "grandport",
+      "from": "2026-06-04T05:00:00.000Z",
+      "to": "2026-06-04T12:00:00.000Z",
+      "id": "21aacdadcef37ebc723c1ba593fb79d2"
+    },
+    {
+      "date": "Le jeudi 4 juin 2026 de  09:00:00 à  16:00:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "Rose Belle habitant dans le périmètre et les rues suivantes: Gebert Road, Mosque Road, Telegu Lane, Shivala Lane, Ah Quet Lane, Letord Lane, Bhageloo Lane, Parasol Lane, Princess Marguarette Lane No 1 & 2, Mont Fertile, Baramia, Dreamprice New Grove et une partie de la Route Royale New Grove",
+      "district": "grandport",
+      "from": "2026-06-04T05:00:00.000Z",
+      "to": "2026-06-04T12:00:00.000Z",
+      "id": "82dafd49105b82ad77c200e84be6c916"
+    }
+  ]
+}

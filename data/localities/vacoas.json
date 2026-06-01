@@ -2,11 +2,18 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-05-31T18:19:29.955Z",
-  "outageCount": 245,
+  "generated": "2026-06-01T07:35:15.490Z",
+  "outageCount": 246,
   "firstOutage": "2022-03-17",
-  "lastOutage": "2026-05-24",
+  "lastOutage": "2026-06-07",
   "outages": [
+    {
+      "date": "Le dimanche 7 juin 2026 de  08:30:00 à  17:00:00",
+      "streets": "Camp Mumbai No. 1, 2, 3 et 4, Desvergues Road,  Rampart Road, Morcellement Edoo, Perrier Road, Railway Road, La Marie Road, Carreau Songe, Morcellement Galliot, Nathoo Lane, Laloo Lane, Freeland Lane, Buxoo Lane, Camp Tickfine",
+      "from": "2026-06-07T04:30:00.000Z",
+      "to": "2026-06-07T13:00:00.000Z",
+      "id": "8843a3fb1603159911869ba44d7c4e6c"
+    },
     {
       "date": "Le dimanche 24 mai 2026 de  09:00:00 à  12:00:00",
       "streets": "MORC VRS CAMP MAPOU HENRIETTA",

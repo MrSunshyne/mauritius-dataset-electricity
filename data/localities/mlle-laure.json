@@ -2,11 +2,18 @@
   "slug": "mlle-laure",
   "name": "MLLE LAURE",
   "district": "portlouis",
-  "generated": "2026-05-31T18:19:29.902Z",
-  "outageCount": 7,
+  "generated": "2026-06-01T07:35:15.441Z",
+  "outageCount": 8,
   "firstOutage": "2022-11-26",
-  "lastOutage": "2025-11-22",
+  "lastOutage": "2026-06-01",
   "outages": [
+    {
+      "date": "Le lundi 1 juin 2026 de  10:30:00 à  13:30:00",
+      "streets": "MAMZELLE LAURE/EN PARTIE KOYRATTY NEAR ROUND ABOUT.",
+      "from": "2026-06-01T06:30:00.000Z",
+      "to": "2026-06-01T09:30:00.000Z",
+      "id": "8a3683f8d2e05f4d59d9803d09b55681"
+    },
     {
       "date": "Le samedi 22 novembre 2025 de  12:00:00 à  14:00:00",
       "streets": "Bhorut Lane Mlle Laure TERRE ROUGE",

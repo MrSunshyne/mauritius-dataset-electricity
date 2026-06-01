@@ -2,11 +2,18 @@
   "slug": "notre-dame",
   "name": "NOTRE DAME",
   "district": "pamplemousses",
-  "generated": "2026-05-31T18:19:29.909Z",
-  "outageCount": 39,
+  "generated": "2026-06-01T07:35:15.447Z",
+  "outageCount": 40,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-04-03",
+  "lastOutage": "2026-06-01",
   "outages": [
+    {
+      "date": "Le lundi 1 juin 2026 de  09:10:00 à  10:45:00",
+      "streets": "BHUNNOO ROAD AND SURROUNDINGS",
+      "from": "2026-06-01T05:10:00.000Z",
+      "to": "2026-06-01T06:45:00.000Z",
+      "id": "60b4d6dc99e0aee3371fc17fc4477c85"
+    },
     {
       "date": "Le vendredi 3 avril 2026 de  10:30:00 à  12:00:00",
       "streets": "CHURCH ROAD NOTRE DAME",
