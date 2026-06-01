@@ -1,8 +1,8 @@
 {
   "date": "2026-06-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-01T09:43:14.004Z",
-  "outageCount": 2,
+  "generated": "2026-06-01T11:53:55.068Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le jeudi 4 juin 2026 de  09:00:00 à  16:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-06-04T05:00:00.000Z",
       "to": "2026-06-04T12:00:00.000Z",
       "id": "82dafd49105b82ad77c200e84be6c916"
+    },
+    {
+      "date": "Le jeudi 4 juin 2026 de  08:30:00 à  15:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave Giroday, Richard, St Louis, Vincent, Beau-Bois, en partie Hugnin et les environs",
+      "district": "plainewilhems",
+      "from": "2026-06-04T04:30:00.000Z",
+      "to": "2026-06-04T11:00:00.000Z",
+      "id": "3008f9c13a89aff94a4b64844aa0cbe2"
     }
   ]
 }

@@ -2,11 +2,18 @@
   "slug": "plaine-magnien",
   "name": "PLAINE MAGNIEN",
   "district": "grandport",
-  "generated": "2026-06-01T09:43:14.103Z",
-  "outageCount": 66,
+  "generated": "2026-06-01T11:53:55.150Z",
+  "outageCount": 67,
   "firstOutage": "2022-06-08",
-  "lastOutage": "2026-05-21",
+  "lastOutage": "2026-06-01",
   "outages": [
+    {
+      "date": "Le lundi 1 juin 2026 de  13:45:00 à  15:45:00",
+      "streets": "MORC VRS 2 DANS LES ENVIRONS VILLA ST.",
+      "from": "2026-06-01T09:45:00.000Z",
+      "to": "2026-06-01T11:45:00.000Z",
+      "id": "425da5d2c85bc0af7b295f87f0b27941"
+    },
     {
       "date": "Le jeudi 21 mai 2026 de  13:00:00 à  16:00:00",
       "streets": "Plaine Magnien habitant dans le périmètre et les rues suivantes: Cemetry Road, Mamoo Lane, Cassy Lane, Shivala Lane, Allée Jacques Lane, Allée Coco Lane, NPF Building, une partie de la Route Royale Plaine Magnien (aux alentours de – Station de Police, Banque SBM et MCB)",

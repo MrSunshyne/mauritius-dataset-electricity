@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-06-01T09:43:14.111Z",
-  "outageCount": 377,
+  "generated": "2026-06-01T11:53:55.156Z",
+  "outageCount": 378,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-05-20",
+  "lastOutage": "2026-06-04",
   "outages": [
+    {
+      "date": "Le jeudi 4 juin 2026 de  08:30:00 à  15:00:00",
+      "streets": "Ave Giroday, Richard, St Louis, Vincent, Beau-Bois, en partie Hugnin et les environs",
+      "from": "2026-06-04T04:30:00.000Z",
+      "to": "2026-06-04T11:00:00.000Z",
+      "id": "3008f9c13a89aff94a4b64844aa0cbe2"
+    },
     {
       "date": "Le mercredi 20 mai 2026 de  08:50:00 à  10:00:00",
       "streets": "AVE BELLE ROSE, AVE DRAPER TOWARDS BAR VENISE",
