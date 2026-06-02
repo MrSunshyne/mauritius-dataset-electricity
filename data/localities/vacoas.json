@@ -2,8 +2,8 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-06-02T11:24:59.840Z",
-  "outageCount": 248,
+  "generated": "2026-06-02T13:05:14.109Z",
+  "outageCount": 249,
   "firstOutage": "2022-03-17",
   "lastOutage": "2026-06-07",
   "outages": [
@@ -27,6 +27,13 @@
       "from": "2026-06-06T05:00:00.000Z",
       "to": "2026-06-06T13:00:00.000Z",
       "id": "c383b53ecb6b57eca2de4a66730e57fe"
+    },
+    {
+      "date": "Le jeudi 4 juin 2026 de  08:30:00 à  14:00:00",
+      "streets": "Chemin Chellapen, une partie de Route Ligne Berthaud.",
+      "from": "2026-06-04T04:30:00.000Z",
+      "to": "2026-06-04T10:00:00.000Z",
+      "id": "e02a6ff28462a488ba6dc47e62254ffd"
     },
     {
       "date": "Le dimanche 24 mai 2026 de  09:00:00 à  12:00:00",

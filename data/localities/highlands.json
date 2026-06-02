@@ -2,11 +2,18 @@
   "slug": "highlands",
   "name": "HIGHLANDS",
   "district": "plainewilhems",
-  "generated": "2026-06-02T11:24:59.776Z",
-  "outageCount": 74,
+  "generated": "2026-06-02T13:05:14.035Z",
+  "outageCount": 75,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2026-05-30",
+  "lastOutage": "2026-06-07",
   "outages": [
+    {
+      "date": "Le dimanche 7 juin 2026 de  09:00:00 à  12:00:00",
+      "streets": "Morc Raheemeea, Owadally Lane",
+      "from": "2026-06-07T05:00:00.000Z",
+      "to": "2026-06-07T08:00:00.000Z",
+      "id": "d97a245702d90f62c53c03e1896a021f"
+    },
     {
       "date": "Le samedi 30 mai 2026 de  09:00:00 à  12:00:00",
       "streets": "Morc Raheemeea, Owadally Lane",

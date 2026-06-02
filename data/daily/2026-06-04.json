@@ -1,8 +1,8 @@
 {
   "date": "2026-06-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-02T11:24:59.713Z",
-  "outageCount": 4,
+  "generated": "2026-06-02T13:05:13.963Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le jeudi 4 juin 2026 de  09:00:00 à  16:30:00",
@@ -43,6 +43,16 @@
       "from": "2026-06-04T04:30:00.000Z",
       "to": "2026-06-04T11:00:00.000Z",
       "id": "3008f9c13a89aff94a4b64844aa0cbe2"
+    },
+    {
+      "date": "Le jeudi 4 juin 2026 de  08:30:00 à  14:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Chemin Chellapen, une partie de Route Ligne Berthaud.",
+      "district": "plainewilhems",
+      "from": "2026-06-04T04:30:00.000Z",
+      "to": "2026-06-04T10:00:00.000Z",
+      "id": "e02a6ff28462a488ba6dc47e62254ffd"
     }
   ]
 }

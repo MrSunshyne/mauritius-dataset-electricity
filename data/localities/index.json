@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-02T11:24:59.844Z",
+  "generated": "2026-06-02T13:05:14.114Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -1771,10 +1771,10 @@
       "slug": "highlands",
       "name": "HIGHLANDS",
       "district": "plainewilhems",
-      "outageCount": 74,
+      "outageCount": 75,
       "file": "highlands.json",
       "firstOutage": "2022-04-13",
-      "lastOutage": "2026-05-30"
+      "lastOutage": "2026-06-07"
     },
     {
       "slug": "hollyrood",
@@ -3994,7 +3994,7 @@
       "slug": "vacoas",
       "name": "VACOAS",
       "district": "plainewilhems",
-      "outageCount": 248,
+      "outageCount": 249,
       "file": "vacoas.json",
       "firstOutage": "2022-03-17",
       "lastOutage": "2026-06-07"

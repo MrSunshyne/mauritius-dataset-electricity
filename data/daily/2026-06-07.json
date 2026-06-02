@@ -1,8 +1,8 @@
 {
   "date": "2026-06-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-02T11:24:59.713Z",
-  "outageCount": 3,
+  "generated": "2026-06-02T13:05:13.963Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le dimanche 7 juin 2026 de  08:30:00 à  17:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-06-07T07:00:00.000Z",
       "to": "2026-06-07T11:00:00.000Z",
       "id": "8625d9266bccc626dedff51c99a3113d"
+    },
+    {
+      "date": "Le dimanche 7 juin 2026 de  09:00:00 à  12:00:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "Morc Raheemeea, Owadally Lane",
+      "district": "plainewilhems",
+      "from": "2026-06-07T05:00:00.000Z",
+      "to": "2026-06-07T08:00:00.000Z",
+      "id": "d97a245702d90f62c53c03e1896a021f"
     },
     {
       "date": "Le dimanche 7 juin 2026 de  08:30:00 à  14:00:00",
