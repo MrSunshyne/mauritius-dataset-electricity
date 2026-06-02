@@ -2,11 +2,18 @@
   "slug": "saint-paul",
   "name": "SAINT PAUL",
   "district": "plainewilhems",
-  "generated": "2026-06-02T09:20:14.974Z",
-  "outageCount": 41,
+  "generated": "2026-06-02T11:24:59.826Z",
+  "outageCount": 42,
   "firstOutage": "2022-04-28",
-  "lastOutage": "2025-11-08",
+  "lastOutage": "2026-06-05",
   "outages": [
+    {
+      "date": "Le vendredi 5 juin 2026 de  14:30:00 à  16:00:00",
+      "streets": "ST PAUL ET PHOENIXune partie de Rte St Paul, Bechard Lane, Pandit Jawarlall Nehru Road, Sawmill Lane, Edgar Quirin Avenue, Morcellement Noel, Impasse Goomany, une partie de Balgobin Lane, Osman Avenue, Allee Jacques Street, Impasse Lorion, Morc Chambor, Morc Soobratty, Koeing Lane N0. 1, N0. 2 et N0. 3, CWA St Paul",
+      "from": "2026-06-05T10:30:00.000Z",
+      "to": "2026-06-05T12:00:00.000Z",
+      "id": "972998d79bcb357a44896a9478dfcbe4"
+    },
     {
       "date": "Le samedi 8 novembre 2025 de  08:30:00 à  11:00:00",
       "streets": "Morcellement Soobratty",

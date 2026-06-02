@@ -2,11 +2,18 @@
   "slug": "plaine-verte",
   "name": "PLAINE VERTE",
   "district": "portlouis",
-  "generated": "2026-06-02T09:20:14.951Z",
-  "outageCount": 31,
+  "generated": "2026-06-02T11:24:59.806Z",
+  "outageCount": 32,
   "firstOutage": "2022-12-21",
-  "lastOutage": "2026-05-10",
+  "lastOutage": "2026-06-07",
   "outages": [
+    {
+      "date": "Le dimanche 7 juin 2026 de  08:30:00 à  14:00:00",
+      "streets": "DANS LES ENVIRONS DES RUES CANAL BATHURST, GHOON, KARIKAL ET HASSEN HUSSEIN",
+      "from": "2026-06-07T04:30:00.000Z",
+      "to": "2026-06-07T10:00:00.000Z",
+      "id": "609a5a625dff3c458e62627cdd306016"
+    },
     {
       "date": "Le dimanche 10 mai 2026 de  08:30:00 à  14:00:00",
       "streets": "Les abonnes de Cite Martial Plaine Verte habitant dans les environs des Rues Lataniers, Indian, Hajee Issac Daureeawoo et une partie de la route militaire",
