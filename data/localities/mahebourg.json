@@ -2,8 +2,8 @@
   "slug": "mahebourg",
   "name": "MAHEBOURG",
   "district": "grandport",
-  "generated": "2026-06-02T15:16:27.878Z",
-  "outageCount": 82,
+  "generated": "2026-06-02T17:27:54.395Z",
+  "outageCount": 83,
   "firstOutage": "2022-04-07",
   "lastOutage": "2026-06-04",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-06-04T05:00:00.000Z",
       "to": "2026-06-04T12:00:00.000Z",
       "id": "21aacdadcef37ebc723c1ba593fb79d2"
+    },
+    {
+      "date": "Le mardi 2 juin 2026 de  20:25:00 à  23:25:00",
+      "streets": "EN PARTIE RUE VILLENEUVE, EN PARTIE JAYNARAIN ROAD ET LES ENVIRONS.",
+      "from": "2026-06-02T16:25:00.000Z",
+      "to": "2026-06-02T19:25:00.000Z",
+      "id": "123546efcf761753529367061607128f"
     },
     {
       "date": "Le mardi 28 avril 2026 de  09:00:00 à  15:00:00",

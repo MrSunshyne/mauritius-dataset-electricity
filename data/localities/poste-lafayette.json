@@ -2,11 +2,18 @@
   "slug": "poste-lafayette",
   "name": "POSTE LAFAYETTE",
   "district": "flacq",
-  "generated": "2026-06-02T15:16:27.906Z",
-  "outageCount": 39,
+  "generated": "2026-06-02T17:27:54.422Z",
+  "outageCount": 40,
   "firstOutage": "2022-03-24",
-  "lastOutage": "2026-05-27",
+  "lastOutage": "2026-06-02",
   "outages": [
+    {
+      "date": "Le mardi 2 juin 2026 de  21:15:00 à  23:15:00",
+      "streets": "WHOLE VILLAGE OF POSTE LA FAYETTE.",
+      "from": "2026-06-02T17:15:00.000Z",
+      "to": "2026-06-02T19:15:00.000Z",
+      "id": "7ab3f5396d04522842e5d4890eba177d"
+    },
     {
       "date": "Le mercredi 27 mai 2026 de  08:50:00 à  12:00:00",
       "streets": "POSTE LAFAYETTE",
