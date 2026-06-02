@@ -2,11 +2,18 @@
   "slug": "saint-pierre",
   "name": "SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-06-01T18:09:51.682Z",
-  "outageCount": 71,
+  "generated": "2026-06-02T07:31:29.356Z",
+  "outageCount": 72,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-05-17",
+  "lastOutage": "2026-06-02",
   "outages": [
+    {
+      "date": "Le mardi 2 juin 2026 de  09:45:00 à  12:00:00",
+      "streets": "ROUTE BOIS CHERIE PETIT VERGER STPIERRE",
+      "from": "2026-06-02T05:45:00.000Z",
+      "to": "2026-06-02T08:00:00.000Z",
+      "id": "a70f87853279181af3ecf88d7c5235c5"
+    },
     {
       "date": "Le dimanche 17 mai 2026 de  08:30:00 à  15:30:00",
       "streets": "La Laura, Malinga, Beau Bois, Nouvelle Decouverte, Cemetery Rd, Circonstance, NHDC Vyniol et Morc Azalee",

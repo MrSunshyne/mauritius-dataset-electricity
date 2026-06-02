@@ -2,11 +2,18 @@
   "slug": "vallee-pitot",
   "name": "VALLEE PITOT",
   "district": "portlouis",
-  "generated": "2026-06-01T18:09:51.697Z",
-  "outageCount": 36,
+  "generated": "2026-06-02T07:31:29.377Z",
+  "outageCount": 37,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-05-21",
+  "lastOutage": "2026-06-03",
   "outages": [
+    {
+      "date": "Le mercredi 3 juin 2026 de  09:30:00 à  13:00:00",
+      "streets": "DANS LES ENVIRONS DES RUES ALMA, IMPASSE ALMA ET SAUZIER",
+      "from": "2026-06-03T05:30:00.000Z",
+      "to": "2026-06-03T09:00:00.000Z",
+      "id": "d49ea04a16ec6f40d262a48ebbdefeec"
+    },
     {
       "date": "Le jeudi 21 mai 2026 de  14:00:00 à  18:00:00",
       "streets": "ALMA STREET & SURROUNDINGS",

@@ -2,11 +2,18 @@
   "slug": "new-grove",
   "name": "NEW GROVE",
   "district": "grandport",
-  "generated": "2026-06-01T18:09:51.650Z",
-  "outageCount": 25,
+  "generated": "2026-06-02T07:31:29.326Z",
+  "outageCount": 26,
   "firstOutage": "2022-05-12",
-  "lastOutage": "2025-12-23",
+  "lastOutage": "2026-06-02",
   "outages": [
+    {
+      "date": "Le mardi 2 juin 2026 de  08:20:00 à  14:00:00",
+      "streets": "MONT FERTILE NEW GROVE",
+      "from": "2026-06-02T04:20:00.000Z",
+      "to": "2026-06-02T10:00:00.000Z",
+      "id": "bbcfea8ae2f48c3c309276fa590466be"
+    },
     {
       "date": "Le mardi 23 décembre 2025 de  09:00:00 à  15:00:00",
       "streets": "MORC. BALANCE, MORC. SIT, MORC GUNGAH, MAURI FARM POULTRY, ROOPSING ROAD, 2 BRAS ROAD NEW GROVESTO ASLAM KHEDOO",

@@ -1,9 +1,19 @@
 {
   "date": "2026-06-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-01T18:09:51.565Z",
-  "outageCount": 3,
+  "generated": "2026-06-02T07:31:29.242Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le jeudi 4 juin 2026 de  09:00:00 à  16:30:00",
+      "locality": "CHAMAREL",
+      "localitySlug": "chamarel",
+      "streets": "CHAMAREL",
+      "district": "blackriver",
+      "from": "2026-06-04T05:00:00.000Z",
+      "to": "2026-06-04T12:30:00.000Z",
+      "id": "dea005586fac35e744f437004d3b0991"
+    },
     {
       "date": "Le jeudi 4 juin 2026 de  09:00:00 à  16:00:00",
       "locality": "MAHEBOURG",

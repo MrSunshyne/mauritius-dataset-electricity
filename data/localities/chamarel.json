@@ -2,11 +2,18 @@
   "slug": "chamarel",
   "name": "CHAMAREL",
   "district": "blackriver",
-  "generated": "2026-06-01T18:09:51.607Z",
-  "outageCount": 38,
+  "generated": "2026-06-02T07:31:29.284Z",
+  "outageCount": 39,
   "firstOutage": "2022-03-24",
-  "lastOutage": "2026-05-12",
+  "lastOutage": "2026-06-04",
   "outages": [
+    {
+      "date": "Le jeudi 4 juin 2026 de  09:00:00 à  16:30:00",
+      "streets": "CHAMAREL",
+      "from": "2026-06-04T05:00:00.000Z",
+      "to": "2026-06-04T12:30:00.000Z",
+      "id": "dea005586fac35e744f437004d3b0991"
+    },
     {
       "date": "Le mardi 12 mai 2026 de  09:00:00 à  12:00:00",
       "streets": "Chamarel",

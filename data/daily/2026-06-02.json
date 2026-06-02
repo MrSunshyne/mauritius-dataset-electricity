@@ -1,9 +1,29 @@
 {
   "date": "2026-06-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-01T18:09:51.565Z",
-  "outageCount": 2,
+  "generated": "2026-06-02T07:31:29.242Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le mardi 2 juin 2026 de  08:20:00 à  14:00:00",
+      "locality": "NEW GROVE",
+      "localitySlug": "new-grove",
+      "streets": "MONT FERTILE NEW GROVE",
+      "district": "grandport",
+      "from": "2026-06-02T04:20:00.000Z",
+      "to": "2026-06-02T10:00:00.000Z",
+      "id": "bbcfea8ae2f48c3c309276fa590466be"
+    },
+    {
+      "date": "Le mardi 2 juin 2026 de  09:45:00 à  12:00:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "ROUTE BOIS CHERIE PETIT VERGER STPIERRE",
+      "district": "moka",
+      "from": "2026-06-02T05:45:00.000Z",
+      "to": "2026-06-02T08:00:00.000Z",
+      "id": "a70f87853279181af3ecf88d7c5235c5"
+    },
     {
       "date": "Le mardi 2 juin 2026 de  15:30:00 à  16:00:00",
       "locality": "MONT ROCHES",
