@@ -2,11 +2,18 @@
   "slug": "riviere-du-rempart",
   "name": "RIVIERE DU REMPART",
   "district": "rivieredurempart",
-  "generated": "2026-06-03T13:26:02.242Z",
-  "outageCount": 61,
+  "generated": "2026-06-03T15:28:50.721Z",
+  "outageCount": 62,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-05-28",
+  "lastOutage": "2026-06-03",
   "outages": [
+    {
+      "date": "Le mercredi 3 juin 2026 de  18:15:00 à  20:15:00",
+      "streets": "ROYAL RD,SCHOENFELD RD",
+      "from": "2026-06-03T14:15:00.000Z",
+      "to": "2026-06-03T16:15:00.000Z",
+      "id": "8da4cb561139d84f1e2c43ec47e25bdc"
+    },
     {
       "date": "Le jeudi 28 mai 2026 de  15:15:00 à  18:00:00",
       "streets": "SCHOENFEILD RD ET LES ALENTOURS",

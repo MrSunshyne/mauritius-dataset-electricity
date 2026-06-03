@@ -1,8 +1,8 @@
 {
   "date": "2026-06-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-03T13:26:02.134Z",
-  "outageCount": 5,
+  "generated": "2026-06-03T15:28:50.613Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le mercredi 3 juin 2026 de  16:00:00 à  18:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-06-03T09:30:00.000Z",
       "to": "2026-06-03T11:30:00.000Z",
       "id": "6c7245ca0e0962be7a3bfe1948f2007f"
+    },
+    {
+      "date": "Le mercredi 3 juin 2026 de  18:15:00 à  20:15:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "ROYAL RD,SCHOENFELD RD",
+      "district": "rivieredurempart",
+      "from": "2026-06-03T14:15:00.000Z",
+      "to": "2026-06-03T16:15:00.000Z",
+      "id": "8da4cb561139d84f1e2c43ec47e25bdc"
     }
   ]
 }
