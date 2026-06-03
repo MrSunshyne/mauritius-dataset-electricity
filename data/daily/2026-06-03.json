@@ -1,9 +1,19 @@
 {
   "date": "2026-06-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-03T11:32:38.791Z",
-  "outageCount": 4,
+  "generated": "2026-06-03T13:26:02.134Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le mercredi 3 juin 2026 de  16:00:00 à  18:00:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "Ernest Florent, Trois Ilots, Olivia, Kewal Nagar, Clavet, Etoile, Belle Rose, Pont Lardier, Clemencia, La Nourice, DEEP RIVER BEAU CHAMP",
+      "district": "flacq",
+      "from": "2026-06-03T12:00:00.000Z",
+      "to": "2026-06-03T14:00:00.000Z",
+      "id": "a6c0a27755cd219910a78c2b49b00e75"
+    },
     {
       "date": "Le mercredi 3 juin 2026 de  11:40:00 à  16:00:00",
       "locality": "SAINT PIERRE",

@@ -2,11 +2,18 @@
   "slug": "bel-air",
   "name": "BEL AIR",
   "district": "flacq",
-  "generated": "2026-06-03T11:32:38.818Z",
-  "outageCount": 63,
+  "generated": "2026-06-03T13:26:02.162Z",
+  "outageCount": 64,
   "firstOutage": "2022-06-04",
-  "lastOutage": "2026-05-01",
+  "lastOutage": "2026-06-03",
   "outages": [
+    {
+      "date": "Le mercredi 3 juin 2026 de  16:00:00 à  18:00:00",
+      "streets": "Ernest Florent, Trois Ilots, Olivia, Kewal Nagar, Clavet, Etoile, Belle Rose, Pont Lardier, Clemencia, La Nourice, DEEP RIVER BEAU CHAMP",
+      "from": "2026-06-03T12:00:00.000Z",
+      "to": "2026-06-03T14:00:00.000Z",
+      "id": "a6c0a27755cd219910a78c2b49b00e75"
+    },
     {
       "date": "Le vendredi 1 mai 2026 de  16:30:00 à  20:30:00",
       "streets": "MORC ST MICHEL DANS LES ENVIRONS SHIVALA/JARDIN D-ENFANTS.",

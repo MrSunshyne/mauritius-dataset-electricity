@@ -1,8 +1,8 @@
 {
   "date": "2026-06-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-03T11:32:38.791Z",
-  "outageCount": 6,
+  "generated": "2026-06-03T13:26:02.134Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le jeudi 4 juin 2026 de  09:00:00 à  16:30:00",
@@ -63,6 +63,26 @@
       "from": "2026-06-04T04:30:00.000Z",
       "to": "2026-06-04T10:00:00.000Z",
       "id": "e02a6ff28462a488ba6dc47e62254ffd"
+    },
+    {
+      "date": "Le jeudi 4 juin 2026 de  16:00:00 à  17:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "RHT Depot, en partie Ave Hugnin, Ave Edgar Laurent et les environs",
+      "district": "plainewilhems",
+      "from": "2026-06-04T12:00:00.000Z",
+      "to": "2026-06-04T13:00:00.000Z",
+      "id": "075173a44426618da8dab0cdf119562d"
+    },
+    {
+      "date": "Le jeudi 4 juin 2026 de  09:00:00 à  10:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "RHT Depot, en partie Ave Hugnin, Ave Edgar Laurent et les environs",
+      "district": "plainewilhems",
+      "from": "2026-06-04T05:00:00.000Z",
+      "to": "2026-06-04T06:00:00.000Z",
+      "id": "2d1d0aff86e6274071f3aedc86357376"
     }
   ]
 }
