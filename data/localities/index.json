@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-02T19:05:36.076Z",
+  "generated": "2026-06-03T07:33:09.118Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -1303,10 +1303,10 @@
       "slug": "curepipe",
       "name": "CUREPIPE",
       "district": "plainewilhems",
-      "outageCount": 215,
+      "outageCount": 216,
       "file": "curepipe.json",
       "firstOutage": "2022-03-27",
-      "lastOutage": "2026-06-01"
+      "lastOutage": "2026-06-07"
     },
     {
       "slug": "d-epinay",
@@ -1456,10 +1456,10 @@
       "slug": "esperance-piton",
       "name": "ESPERANCE PITON",
       "district": "pamplemousses",
-      "outageCount": 8,
+      "outageCount": 9,
       "file": "esperance-piton.json",
       "firstOutage": "2022-10-08",
-      "lastOutage": "2026-05-27"
+      "lastOutage": "2026-06-03"
     },
     {
       "slug": "esperance-trebuchet",
@@ -1483,10 +1483,10 @@
       "slug": "flic-en-flac",
       "name": "FLIC-EN-FLAC",
       "district": "blackriver",
-      "outageCount": 220,
+      "outageCount": 221,
       "file": "flic-en-flac.json",
       "firstOutage": "2022-03-16",
-      "lastOutage": "2026-05-28"
+      "lastOutage": "2026-06-04"
     },
     {
       "slug": "floreal",

@@ -1,9 +1,19 @@
 {
   "date": "2026-06-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-02T19:05:35.991Z",
-  "outageCount": 1,
+  "generated": "2026-06-03T07:33:08.959Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le mercredi 3 juin 2026 de  10:50:00 à  12:00:00",
+      "locality": "ESPERANCE PITON",
+      "localitySlug": "esperance-piton",
+      "streets": "ROYAL ROAD, FOOTBALL GROUND ROAD, JANKEE RD AND SURROUNDINGS",
+      "district": "pamplemousses",
+      "from": "2026-06-03T06:50:00.000Z",
+      "to": "2026-06-03T08:00:00.000Z",
+      "id": "537329319d31b9ada12ff64774dd969c"
+    },
     {
       "date": "Le mercredi 3 juin 2026 de  09:30:00 à  13:00:00",
       "locality": "VALLEE PITOT",

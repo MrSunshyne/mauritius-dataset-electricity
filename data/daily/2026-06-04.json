@@ -1,8 +1,8 @@
 {
   "date": "2026-06-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-02T19:05:35.991Z",
-  "outageCount": 5,
+  "generated": "2026-06-03T07:33:08.959Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le jeudi 4 juin 2026 de  09:00:00 à  16:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-06-04T05:00:00.000Z",
       "to": "2026-06-04T12:30:00.000Z",
       "id": "dea005586fac35e744f437004d3b0991"
+    },
+    {
+      "date": "Le jeudi 4 juin 2026 de  11:00:00 à  15:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "COASTAL ROAD FLIC EN FLAC, FLIC EN FLAC GOVERNMENT SCHOOL, AVE MOULIN CASSEE ET AVE DES NENUPHARS",
+      "district": "blackriver",
+      "from": "2026-06-04T07:00:00.000Z",
+      "to": "2026-06-04T11:00:00.000Z",
+      "id": "1e4e4166d20348f7283b084adf7c79e2"
     },
     {
       "date": "Le jeudi 4 juin 2026 de  09:00:00 à  16:00:00",

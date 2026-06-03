@@ -1,8 +1,8 @@
 {
   "date": "2026-06-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-02T19:05:35.991Z",
-  "outageCount": 4,
+  "generated": "2026-06-03T07:33:08.959Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le dimanche 7 juin 2026 de  08:30:00 à  17:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-06-07T05:00:00.000Z",
       "to": "2026-06-07T08:00:00.000Z",
       "id": "d97a245702d90f62c53c03e1896a021f"
+    },
+    {
+      "date": "Le dimanche 7 juin 2026 de  08:30:00 à  16:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Dans les environs des Rues Raffray, Jardin, Auguste Esnouf, Lislet Geoffroy, Bernardin de St Pierre, Daruty de Grand Pre, College Lane",
+      "district": "plainewilhems",
+      "from": "2026-06-07T04:30:00.000Z",
+      "to": "2026-06-07T12:00:00.000Z",
+      "id": "6c62fb1f4086a6e8c6ee0121a642a35a"
     },
     {
       "date": "Le dimanche 7 juin 2026 de  08:30:00 à  14:00:00",

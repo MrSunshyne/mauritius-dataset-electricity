@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-06-02T19:05:36.024Z",
-  "outageCount": 215,
+  "generated": "2026-06-03T07:33:09.017Z",
+  "outageCount": 216,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-06-01",
+  "lastOutage": "2026-06-07",
   "outages": [
+    {
+      "date": "Le dimanche 7 juin 2026 de  08:30:00 à  16:00:00",
+      "streets": "Dans les environs des Rues Raffray, Jardin, Auguste Esnouf, Lislet Geoffroy, Bernardin de St Pierre, Daruty de Grand Pre, College Lane",
+      "from": "2026-06-07T04:30:00.000Z",
+      "to": "2026-06-07T12:00:00.000Z",
+      "id": "6c62fb1f4086a6e8c6ee0121a642a35a"
+    },
     {
       "date": "Le lundi 1 juin 2026 de  09:00:00 à  16:00:00",
       "streets": "Ferdinand Street,Ls Peyrousse Street,Part of Camp Rouillard and nearby alleys",

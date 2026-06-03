@@ -2,11 +2,18 @@
   "slug": "flic-en-flac",
   "name": "FLIC-EN-FLAC",
   "district": "blackriver",
-  "generated": "2026-06-02T19:05:36.027Z",
-  "outageCount": 220,
+  "generated": "2026-06-03T07:33:09.023Z",
+  "outageCount": 221,
   "firstOutage": "2022-03-16",
-  "lastOutage": "2026-05-28",
+  "lastOutage": "2026-06-04",
   "outages": [
+    {
+      "date": "Le jeudi 4 juin 2026 de  11:00:00 à  15:00:00",
+      "streets": "COASTAL ROAD FLIC EN FLAC, FLIC EN FLAC GOVERNMENT SCHOOL, AVE MOULIN CASSEE ET AVE DES NENUPHARS",
+      "from": "2026-06-04T07:00:00.000Z",
+      "to": "2026-06-04T11:00:00.000Z",
+      "id": "1e4e4166d20348f7283b084adf7c79e2"
+    },
     {
       "date": "Le jeudi 28 mai 2026 de  10:00:00 à  13:00:00",
       "streets": "PASADENA VILLAGE, ANARI HOTEL, COASTAL ROAD ET FLIC EN FLAC POLICE STATION",
