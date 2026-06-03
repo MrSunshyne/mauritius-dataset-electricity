@@ -1,9 +1,19 @@
 {
   "date": "2026-06-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-03T07:33:08.959Z",
-  "outageCount": 2,
+  "generated": "2026-06-03T09:29:35.080Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le mercredi 3 juin 2026 de  11:40:00 à  16:00:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "CITE ST CATHERINE CIRCONSTANCE ST PIERRE",
+      "district": "moka",
+      "from": "2026-06-03T07:40:00.000Z",
+      "to": "2026-06-03T12:00:00.000Z",
+      "id": "48014af41c312ce2c89efaccdfb81c4b"
+    },
     {
       "date": "Le mercredi 3 juin 2026 de  10:50:00 à  12:00:00",
       "locality": "ESPERANCE PITON",
@@ -15,14 +25,14 @@
       "id": "537329319d31b9ada12ff64774dd969c"
     },
     {
-      "date": "Le mercredi 3 juin 2026 de  09:30:00 à  13:00:00",
+      "date": "Le mercredi 3 juin 2026 de  09:30:00 à  13:30:00",
       "locality": "VALLEE PITOT",
       "localitySlug": "vallee-pitot",
       "streets": "DANS LES ENVIRONS DES RUES ALMA, IMPASSE ALMA ET SAUZIER",
       "district": "portlouis",
       "from": "2026-06-03T05:30:00.000Z",
-      "to": "2026-06-03T09:00:00.000Z",
-      "id": "d49ea04a16ec6f40d262a48ebbdefeec"
+      "to": "2026-06-03T09:30:00.000Z",
+      "id": "a3e31a23983b2710d35603ed8d1d8954"
     }
   ]
 }

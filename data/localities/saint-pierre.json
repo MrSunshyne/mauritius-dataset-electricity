@@ -2,11 +2,18 @@
   "slug": "saint-pierre",
   "name": "SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-06-03T07:33:09.095Z",
-  "outageCount": 72,
+  "generated": "2026-06-03T09:29:35.224Z",
+  "outageCount": 73,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-06-02",
+  "lastOutage": "2026-06-03",
   "outages": [
+    {
+      "date": "Le mercredi 3 juin 2026 de  11:40:00 à  16:00:00",
+      "streets": "CITE ST CATHERINE CIRCONSTANCE ST PIERRE",
+      "from": "2026-06-03T07:40:00.000Z",
+      "to": "2026-06-03T12:00:00.000Z",
+      "id": "48014af41c312ce2c89efaccdfb81c4b"
+    },
     {
       "date": "Le mardi 2 juin 2026 de  09:45:00 à  12:00:00",
       "streets": "ROUTE BOIS CHERIE PETIT VERGER STPIERRE",
