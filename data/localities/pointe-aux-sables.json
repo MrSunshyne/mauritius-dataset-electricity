@@ -2,11 +2,18 @@
   "slug": "pointe-aux-sables",
   "name": "POINTE AUX SABLES",
   "district": "portlouis",
-  "generated": "2026-06-03T09:29:35.201Z",
-  "outageCount": 139,
+  "generated": "2026-06-03T11:32:38.895Z",
+  "outageCount": 140,
   "firstOutage": "2022-03-30",
-  "lastOutage": "2026-05-20",
+  "lastOutage": "2026-06-07",
   "outages": [
+    {
+      "date": "Le dimanche 7 juin 2026 de  08:30:00 à  15:30:00",
+      "streets": "Les abonnes habitant La Tour Koenig dans les environs des Avenues La Tour Koenig, Anemone, Phlox, Multipliant, Muguets, Jasmin, Bauhinia, Andreanum, Portulaccas, Zinnias, Myosotis, Petunia, Croton, Hibiscus, Glaiels, Iris et Geranium",
+      "from": "2026-06-07T04:30:00.000Z",
+      "to": "2026-06-07T11:30:00.000Z",
+      "id": "c62b7c0b7a1c5499ccc879dd98ad6134"
+    },
     {
       "date": "Le mercredi 20 mai 2026 de  09:00:00 à  16:00:00",
       "streets": "LES ABONNES DE KENSINGTON POINTE AUX SABLES",

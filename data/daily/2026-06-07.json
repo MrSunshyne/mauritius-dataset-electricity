@@ -1,8 +1,8 @@
 {
   "date": "2026-06-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-03T09:29:35.080Z",
-  "outageCount": 5,
+  "generated": "2026-06-03T11:32:38.791Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le dimanche 7 juin 2026 de  08:30:00 à  17:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-06-07T04:30:00.000Z",
       "to": "2026-06-07T10:00:00.000Z",
       "id": "609a5a625dff3c458e62627cdd306016"
+    },
+    {
+      "date": "Le dimanche 7 juin 2026 de  08:30:00 à  15:30:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "Les abonnes habitant La Tour Koenig dans les environs des Avenues La Tour Koenig, Anemone, Phlox, Multipliant, Muguets, Jasmin, Bauhinia, Andreanum, Portulaccas, Zinnias, Myosotis, Petunia, Croton, Hibiscus, Glaiels, Iris et Geranium",
+      "district": "portlouis",
+      "from": "2026-06-07T04:30:00.000Z",
+      "to": "2026-06-07T11:30:00.000Z",
+      "id": "c62b7c0b7a1c5499ccc879dd98ad6134"
     }
   ]
 }

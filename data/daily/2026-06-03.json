@@ -1,8 +1,8 @@
 {
   "date": "2026-06-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-03T09:29:35.080Z",
-  "outageCount": 3,
+  "generated": "2026-06-03T11:32:38.791Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le mercredi 3 juin 2026 de  11:40:00 à  16:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-06-03T05:30:00.000Z",
       "to": "2026-06-03T09:30:00.000Z",
       "id": "a3e31a23983b2710d35603ed8d1d8954"
+    },
+    {
+      "date": "Le mercredi 3 juin 2026 de  13:30:00 à  15:30:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "CANAL BATHURST",
+      "district": "portlouis",
+      "from": "2026-06-03T09:30:00.000Z",
+      "to": "2026-06-03T11:30:00.000Z",
+      "id": "6c7245ca0e0962be7a3bfe1948f2007f"
     }
   ]
 }

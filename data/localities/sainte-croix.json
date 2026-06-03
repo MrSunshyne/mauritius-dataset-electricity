@@ -2,11 +2,18 @@
   "slug": "sainte-croix",
   "name": "SAINTE CROIX",
   "district": "portlouis",
-  "generated": "2026-06-03T09:29:35.225Z",
-  "outageCount": 78,
+  "generated": "2026-06-03T11:32:38.920Z",
+  "outageCount": 79,
   "firstOutage": "2022-04-26",
-  "lastOutage": "2026-04-15",
+  "lastOutage": "2026-06-03",
   "outages": [
+    {
+      "date": "Le mercredi 3 juin 2026 de  13:30:00 à  15:30:00",
+      "streets": "CANAL BATHURST",
+      "from": "2026-06-03T09:30:00.000Z",
+      "to": "2026-06-03T11:30:00.000Z",
+      "id": "6c7245ca0e0962be7a3bfe1948f2007f"
+    },
     {
       "date": "Le mercredi 15 avril 2026 de  17:00:00 à  21:00:00",
       "streets": "NEW SAINTE MARIE ROAD SAINTE CROIX",
