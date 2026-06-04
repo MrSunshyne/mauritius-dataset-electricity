@@ -1,8 +1,8 @@
 {
   "date": "2026-06-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-03T19:11:39.556Z",
-  "outageCount": 8,
+  "generated": "2026-06-04T07:29:34.487Z",
+  "outageCount": 16,
   "outages": [
     {
       "date": "Le jeudi 4 juin 2026 de  09:00:00 à  16:30:00",
@@ -23,6 +23,16 @@
       "from": "2026-06-04T07:00:00.000Z",
       "to": "2026-06-04T11:00:00.000Z",
       "id": "1e4e4166d20348f7283b084adf7c79e2"
+    },
+    {
+      "date": "Le jeudi 4 juin 2026 de  08:55:00 à  12:00:00",
+      "locality": "MARE D-AUSTRALIA",
+      "localitySlug": "mare-d-australia",
+      "streets": "UNE PARTIE DE MARE D-AUSTRALIA",
+      "district": "flacq",
+      "from": "2026-06-04T04:55:00.000Z",
+      "to": "2026-06-04T08:00:00.000Z",
+      "id": "58899401155bd54a2b0f35cc12b38a20"
     },
     {
       "date": "Le jeudi 4 juin 2026 de  09:00:00 à  16:00:00",
@@ -83,6 +93,76 @@
       "from": "2026-06-04T05:00:00.000Z",
       "to": "2026-06-04T06:00:00.000Z",
       "id": "2d1d0aff86e6274071f3aedc86357376"
+    },
+    {
+      "date": "Le jeudi 4 juin 2026 de  08:30:00 à  16:00:00",
+      "locality": "16EME MILE",
+      "localitySlug": "16eme-mile",
+      "streets": "Part of  Coriolis Road, Morc Soobanee, NHDC Hyacinthe and nearby allways",
+      "district": "plainewilhems",
+      "from": "2026-06-04T04:30:00.000Z",
+      "to": "2026-06-04T12:00:00.000Z",
+      "id": "8a586ef4a414392c29bc8e98356d498a"
+    },
+    {
+      "date": "Le jeudi 4 juin 2026 de  09:00:00 à  15:00:00",
+      "locality": "WOOTUN",
+      "localitySlug": "wootun",
+      "streets": "Wooton, Tout Court road, Anfield road, Ramjan lane and nearby alleys",
+      "district": "plainewilhems",
+      "from": "2026-06-04T05:00:00.000Z",
+      "to": "2026-06-04T11:00:00.000Z",
+      "id": "7b6b72e41bc4969a3b7f625d43f26b93"
+    },
+    {
+      "date": "Le jeudi 4 juin 2026 de  08:30:00 à  17:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Ave Giroday, Richard, St Louis, Vincent, Beau-Bois, en partie Hugnin et les environs",
+      "district": "plainewilhems",
+      "from": "2026-06-04T04:30:00.000Z",
+      "to": "2026-06-04T13:00:00.000Z",
+      "id": "2ca557a36ae9d0624fce6386e83c72c8"
+    },
+    {
+      "date": "Le jeudi 4 juin 2026 de  10:00:00 à  12:00:00",
+      "locality": "CITE VALLIJEE",
+      "localitySlug": "cite-vallijee",
+      "streets": "RUE MOLIERE, RUE WAGNER, RUE CHOPIN, RUE ROUBENSTEIN ET LES ALENTOURS.",
+      "district": "portlouis",
+      "from": "2026-06-04T06:00:00.000Z",
+      "to": "2026-06-04T08:00:00.000Z",
+      "id": "3e7036f6365e061f51a312bd772a7515"
+    },
+    {
+      "date": "Le jeudi 4 juin 2026 de  10:45:00 à  13:45:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "RUE GERANIUM.",
+      "district": "rivieredurempart",
+      "from": "2026-06-04T06:45:00.000Z",
+      "to": "2026-06-04T09:45:00.000Z",
+      "id": "d9ebeed26fd5a3eccb3e4252515caf9a"
+    },
+    {
+      "date": "Le jeudi 4 juin 2026 de  10:00:00 à  11:00:00",
+      "locality": "BUTTES AUX PAPAYES",
+      "localitySlug": "buttes-aux-papayes",
+      "streets": "MORCELLEMENT HILLSIDE.",
+      "district": "rivieredurempart",
+      "from": "2026-06-04T06:00:00.000Z",
+      "to": "2026-06-04T07:00:00.000Z",
+      "id": "b20f3a87087b6e69f10090ff35a1e41f"
+    },
+    {
+      "date": "Le jeudi 4 juin 2026 de  09:00:00 à  16:00:00",
+      "locality": "BAIE DU CAP",
+      "localitySlug": "baie-du-cap",
+      "streets": "Choisy Baie Du Cap",
+      "district": "savanne",
+      "from": "2026-06-04T05:00:00.000Z",
+      "to": "2026-06-04T12:00:00.000Z",
+      "id": "84ce3e33eeca1549bdb9826cdc828eb8"
     }
   ]
 }

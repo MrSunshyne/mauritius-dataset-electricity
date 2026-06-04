@@ -1,8 +1,8 @@
 {
   "date": "2026-06-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-03T19:11:39.556Z",
-  "outageCount": 1,
+  "generated": "2026-06-04T07:29:34.488Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le vendredi 5 juin 2026 de  14:30:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-06-05T10:30:00.000Z",
       "to": "2026-06-05T12:00:00.000Z",
       "id": "972998d79bcb357a44896a9478dfcbe4"
+    },
+    {
+      "date": "Le vendredi 5 juin 2026 de  09:00:00 à  15:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Bigara, Casernes, Stevenson road and nearby alleys",
+      "district": "plainewilhems",
+      "from": "2026-06-05T05:00:00.000Z",
+      "to": "2026-06-05T11:00:00.000Z",
+      "id": "3256d62605c54ab1ebfaa5e7148080ed"
     }
   ]
 }

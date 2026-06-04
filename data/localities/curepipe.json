@@ -2,8 +2,8 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-06-03T19:11:39.608Z",
-  "outageCount": 216,
+  "generated": "2026-06-04T07:29:34.540Z",
+  "outageCount": 218,
   "firstOutage": "2022-03-27",
   "lastOutage": "2026-06-07",
   "outages": [
@@ -13,6 +13,20 @@
       "from": "2026-06-07T04:30:00.000Z",
       "to": "2026-06-07T12:00:00.000Z",
       "id": "6c62fb1f4086a6e8c6ee0121a642a35a"
+    },
+    {
+      "date": "Le samedi 6 juin 2026 de  08:30:00 à  16:00:00",
+      "streets": "Part of Lees St, Lamaletie St and nearby allways",
+      "from": "2026-06-06T04:30:00.000Z",
+      "to": "2026-06-06T12:00:00.000Z",
+      "id": "d7b4d36e7fdd85a8605fc3cd0694983a"
+    },
+    {
+      "date": "Le vendredi 5 juin 2026 de  09:00:00 à  15:00:00",
+      "streets": "Bigara, Casernes, Stevenson road and nearby alleys",
+      "from": "2026-06-05T05:00:00.000Z",
+      "to": "2026-06-05T11:00:00.000Z",
+      "id": "3256d62605c54ab1ebfaa5e7148080ed"
     },
     {
       "date": "Le lundi 1 juin 2026 de  09:00:00 à  16:00:00",

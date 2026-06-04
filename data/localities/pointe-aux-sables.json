@@ -2,8 +2,8 @@
   "slug": "pointe-aux-sables",
   "name": "POINTE AUX SABLES",
   "district": "portlouis",
-  "generated": "2026-06-03T19:11:39.662Z",
-  "outageCount": 140,
+  "generated": "2026-06-04T07:29:34.592Z",
+  "outageCount": 141,
   "firstOutage": "2022-03-30",
   "lastOutage": "2026-06-07",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-06-07T04:30:00.000Z",
       "to": "2026-06-07T11:30:00.000Z",
       "id": "c62b7c0b7a1c5499ccc879dd98ad6134"
+    },
+    {
+      "date": "Le samedi 6 juin 2026 de  08:30:00 à  15:00:00",
+      "streets": "Les abonnes de Camp Firinga Pointe Aux Sables habitant dans les environs de la rue Jean Blaise",
+      "from": "2026-06-06T04:30:00.000Z",
+      "to": "2026-06-06T11:00:00.000Z",
+      "id": "bfb866c38afba77f1c1cf06a498ba30b"
     },
     {
       "date": "Le mercredi 20 mai 2026 de  09:00:00 à  16:00:00",

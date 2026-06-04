@@ -2,11 +2,18 @@
   "slug": "16eme-mile",
   "name": "16EME MILE",
   "district": "plainewilhems",
-  "generated": "2026-06-03T19:11:39.569Z",
-  "outageCount": 56,
+  "generated": "2026-06-04T07:29:34.504Z",
+  "outageCount": 57,
   "firstOutage": "2022-05-31",
-  "lastOutage": "2026-05-14",
+  "lastOutage": "2026-06-04",
   "outages": [
+    {
+      "date": "Le jeudi 4 juin 2026 de  08:30:00 à  16:00:00",
+      "streets": "Part of  Coriolis Road, Morc Soobanee, NHDC Hyacinthe and nearby allways",
+      "from": "2026-06-04T04:30:00.000Z",
+      "to": "2026-06-04T12:00:00.000Z",
+      "id": "8a586ef4a414392c29bc8e98356d498a"
+    },
     {
       "date": "Le jeudi 14 mai 2026 de  15:00:00 à  18:00:00",
       "streets": "MORC PETIT VILLAGE GOODLANDS",

@@ -2,11 +2,18 @@
   "slug": "flic-en-flac",
   "name": "FLIC-EN-FLAC",
   "district": "blackriver",
-  "generated": "2026-06-03T19:11:39.615Z",
-  "outageCount": 221,
+  "generated": "2026-06-04T07:29:34.546Z",
+  "outageCount": 222,
   "firstOutage": "2022-03-16",
-  "lastOutage": "2026-06-04",
+  "lastOutage": "2026-06-06",
   "outages": [
+    {
+      "date": "Le samedi 6 juin 2026 de  08:30:00 à  15:30:00",
+      "streets": "AVE DES COLOMBES, AVE DES AIGRETTES, AVE DES CANARIES, AVE DES AIGLONS, AVE DES PERDRIX, AVE DES FLAMANTS, AVE DES CORMORANS ET AVE CAROLS",
+      "from": "2026-06-06T04:30:00.000Z",
+      "to": "2026-06-06T11:30:00.000Z",
+      "id": "13c501a528d4c388c4352b4a7d51ea4b"
+    },
     {
       "date": "Le jeudi 4 juin 2026 de  11:00:00 à  15:00:00",
       "streets": "COASTAL ROAD FLIC EN FLAC, FLIC EN FLAC GOVERNMENT SCHOOL, AVE MOULIN CASSEE ET AVE DES NENUPHARS",

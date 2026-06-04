@@ -2,11 +2,18 @@
   "slug": "baie-du-cap",
   "name": "BAIE DU CAP",
   "district": "savanne",
-  "generated": "2026-06-03T19:11:39.573Z",
-  "outageCount": 33,
+  "generated": "2026-06-04T07:29:34.508Z",
+  "outageCount": 34,
   "firstOutage": "2022-06-29",
-  "lastOutage": "2026-02-06",
+  "lastOutage": "2026-06-04",
   "outages": [
+    {
+      "date": "Le jeudi 4 juin 2026 de  09:00:00 à  16:00:00",
+      "streets": "Choisy Baie Du Cap",
+      "from": "2026-06-04T05:00:00.000Z",
+      "to": "2026-06-04T12:00:00.000Z",
+      "id": "84ce3e33eeca1549bdb9826cdc828eb8"
+    },
     {
       "date": "Le vendredi 6 février 2026 de  14:00:00 à  15:00:00",
       "streets": "PART OF BAIE DU CAP",

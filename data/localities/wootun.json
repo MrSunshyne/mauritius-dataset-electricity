@@ -2,11 +2,18 @@
   "slug": "wootun",
   "name": "WOOTUN",
   "district": "plainewilhems",
-  "generated": "2026-06-03T19:11:39.702Z",
-  "outageCount": 27,
+  "generated": "2026-06-04T07:29:34.630Z",
+  "outageCount": 28,
   "firstOutage": "2022-08-05",
-  "lastOutage": "2026-05-08",
+  "lastOutage": "2026-06-04",
   "outages": [
+    {
+      "date": "Le jeudi 4 juin 2026 de  09:00:00 à  15:00:00",
+      "streets": "Wooton, Tout Court road, Anfield road, Ramjan lane and nearby alleys",
+      "from": "2026-06-04T05:00:00.000Z",
+      "to": "2026-06-04T11:00:00.000Z",
+      "id": "7b6b72e41bc4969a3b7f625d43f26b93"
+    },
     {
       "date": "Le vendredi 8 mai 2026 de  09:00:00 à  12:30:00",
       "streets": "dans les environs de Morc Pinewood",

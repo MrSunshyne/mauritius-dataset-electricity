@@ -1,9 +1,19 @@
 {
   "date": "2026-06-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-03T19:11:39.556Z",
-  "outageCount": 1,
+  "generated": "2026-06-04T07:29:34.488Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le samedi 6 juin 2026 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "AVE DES COLOMBES, AVE DES AIGRETTES, AVE DES CANARIES, AVE DES AIGLONS, AVE DES PERDRIX, AVE DES FLAMANTS, AVE DES CORMORANS ET AVE CAROLS",
+      "district": "blackriver",
+      "from": "2026-06-06T04:30:00.000Z",
+      "to": "2026-06-06T11:30:00.000Z",
+      "id": "13c501a528d4c388c4352b4a7d51ea4b"
+    },
     {
       "date": "Le samedi 6 juin 2026 de  09:00:00 à  17:00:00",
       "locality": "VACOAS",
@@ -13,6 +23,26 @@
       "from": "2026-06-06T05:00:00.000Z",
       "to": "2026-06-06T13:00:00.000Z",
       "id": "c383b53ecb6b57eca2de4a66730e57fe"
+    },
+    {
+      "date": "Le samedi 6 juin 2026 de  08:30:00 à  16:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Part of Lees St, Lamaletie St and nearby allways",
+      "district": "plainewilhems",
+      "from": "2026-06-06T04:30:00.000Z",
+      "to": "2026-06-06T12:00:00.000Z",
+      "id": "d7b4d36e7fdd85a8605fc3cd0694983a"
+    },
+    {
+      "date": "Le samedi 6 juin 2026 de  08:30:00 à  15:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "Les abonnes de Camp Firinga Pointe Aux Sables habitant dans les environs de la rue Jean Blaise",
+      "district": "portlouis",
+      "from": "2026-06-06T04:30:00.000Z",
+      "to": "2026-06-06T11:00:00.000Z",
+      "id": "bfb866c38afba77f1c1cf06a498ba30b"
     }
   ]
 }

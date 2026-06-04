@@ -2,11 +2,18 @@
   "slug": "cite-vallijee",
   "name": "CITE VALLIJEE",
   "district": "portlouis",
-  "generated": "2026-06-03T19:11:39.604Z",
-  "outageCount": 4,
+  "generated": "2026-06-04T07:29:34.535Z",
+  "outageCount": 5,
   "firstOutage": "2022-12-11",
-  "lastOutage": "2026-05-25",
+  "lastOutage": "2026-06-04",
   "outages": [
+    {
+      "date": "Le jeudi 4 juin 2026 de  10:00:00 à  12:00:00",
+      "streets": "RUE MOLIERE, RUE WAGNER, RUE CHOPIN, RUE ROUBENSTEIN ET LES ALENTOURS.",
+      "from": "2026-06-04T06:00:00.000Z",
+      "to": "2026-06-04T08:00:00.000Z",
+      "id": "3e7036f6365e061f51a312bd772a7515"
+    },
     {
       "date": "Le lundi 25 mai 2026 de  12:00:00 à  16:00:00",
       "streets": "OAKS LANE, RUE FLORIDA, FLAMBOYANT ET LES ALENTOURS.",
