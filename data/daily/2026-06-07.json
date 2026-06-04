@@ -1,9 +1,49 @@
 {
   "date": "2026-06-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-04T10:59:36.073Z",
-  "outageCount": 7,
+  "generated": "2026-06-04T12:04:10.272Z",
+  "outageCount": 11,
   "outages": [
+    {
+      "date": "Le dimanche 7 juin 2026 de  08:00:00 à  16:00:00",
+      "locality": "CAMP DE MASQUE",
+      "localitySlug": "camp-de-masque",
+      "streets": "Camp De Masque",
+      "district": "flacq",
+      "from": "2026-06-07T04:00:00.000Z",
+      "to": "2026-06-07T12:00:00.000Z",
+      "id": "6755422f01697254398496735c66fe3a"
+    },
+    {
+      "date": "Le dimanche 7 juin 2026 de  14:00:00 à  15:00:00",
+      "locality": "CAMP DE MASQUE PAVE",
+      "localitySlug": "camp-de-masque-pave",
+      "streets": "Camp Sonah, Camp de Masque Pave, Petite Cabane et Unite.",
+      "district": "flacq",
+      "from": "2026-06-07T10:00:00.000Z",
+      "to": "2026-06-07T11:00:00.000Z",
+      "id": "6805f5e020036631abc0f1fc1718ef78"
+    },
+    {
+      "date": "Le dimanche 7 juin 2026 de  08:00:00 à  09:00:00",
+      "locality": "CAMP DE MASQUE PAVE",
+      "localitySlug": "camp-de-masque-pave",
+      "streets": "Camp Sonah, Camp de Masque Pave, Petite Cabane et Unite.",
+      "district": "flacq",
+      "from": "2026-06-07T04:00:00.000Z",
+      "to": "2026-06-07T05:00:00.000Z",
+      "id": "f699f6485538ffc78b8ce3e034a14211"
+    },
+    {
+      "date": "Le dimanche 7 juin 2026 de  08:15:00 à  15:00:00",
+      "locality": "BELLE MARE",
+      "localitySlug": "belle-mare",
+      "streets": "Belle Mare dans le périmètre de Cremation Road et les cheminsavoisinantes.",
+      "district": "flacq",
+      "from": "2026-06-07T04:15:00.000Z",
+      "to": "2026-06-07T11:00:00.000Z",
+      "id": "31cc65b3da85a7ec01b55b05e4dcd504"
+    },
     {
       "date": "Le dimanche 7 juin 2026 de  08:30:00 à  15:30:00",
       "locality": "FOND DU SAC",

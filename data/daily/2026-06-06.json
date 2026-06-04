@@ -1,8 +1,8 @@
 {
   "date": "2026-06-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-04T10:59:36.073Z",
-  "outageCount": 4,
+  "generated": "2026-06-04T12:04:10.272Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le samedi 6 juin 2026 de  08:30:00 à  15:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-06-06T04:30:00.000Z",
       "to": "2026-06-06T11:30:00.000Z",
       "id": "13c501a528d4c388c4352b4a7d51ea4b"
+    },
+    {
+      "date": "Le samedi 6 juin 2026 de  08:15:00 à  16:00:00",
+      "locality": "LA LAURA (BEL AIR)",
+      "localitySlug": "la-laura",
+      "streets": "Village de La Laura dans les environs Fast, Arpco Ltd et Transfer station de District Council de Flacq ex Atics Ltd.",
+      "district": "flacq",
+      "from": "2026-06-06T04:15:00.000Z",
+      "to": "2026-06-06T12:00:00.000Z",
+      "id": "ed0318eef762c9c9c4370228fd25e614"
     },
     {
       "date": "Le samedi 6 juin 2026 de  09:00:00 à  17:00:00",

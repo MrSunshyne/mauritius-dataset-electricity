@@ -2,11 +2,18 @@
   "slug": "la-laura",
   "name": "LA LAURA (BEL AIR)",
   "district": "flacq",
-  "generated": "2026-06-04T10:59:36.150Z",
-  "outageCount": 4,
+  "generated": "2026-06-04T12:04:10.331Z",
+  "outageCount": 5,
   "firstOutage": "2023-01-04",
-  "lastOutage": "2024-08-01",
+  "lastOutage": "2026-06-06",
   "outages": [
+    {
+      "date": "Le samedi 6 juin 2026 de  08:15:00 à  16:00:00",
+      "streets": "Village de La Laura dans les environs Fast, Arpco Ltd et Transfer station de District Council de Flacq ex Atics Ltd.",
+      "from": "2026-06-06T04:15:00.000Z",
+      "to": "2026-06-06T12:00:00.000Z",
+      "id": "ed0318eef762c9c9c4370228fd25e614"
+    },
     {
       "date": "Le jeudi 1 août 2024 de  08:30:00 à  17:00:00",
       "streets": "La Laura( Bel Air) et une partie de la Route Royale.",
