@@ -2,11 +2,18 @@
   "slug": "bain-des-dames",
   "name": "BAIN DES DAMES",
   "district": "portlouis",
-  "generated": "2026-06-04T09:13:40.223Z",
-  "outageCount": 2,
+  "generated": "2026-06-04T10:59:36.097Z",
+  "outageCount": 3,
   "firstOutage": "2022-11-15",
-  "lastOutage": "2024-12-01",
+  "lastOutage": "2026-06-04",
   "outages": [
+    {
+      "date": "Le jeudi 4 juin 2026 de  14:30:00 à  15:30:00",
+      "streets": "COASTAL ROAD.",
+      "from": "2026-06-04T10:30:00.000Z",
+      "to": "2026-06-04T11:30:00.000Z",
+      "id": "4031a95d7e80b74312336174f322ea35"
+    },
     {
       "date": "Le dimanche 1 décembre 2024 de  08:30:00 à  12:00:00",
       "streets": "DANS LES ENVIRONS  DE BAINS DES DAMES",
