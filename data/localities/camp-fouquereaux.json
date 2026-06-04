@@ -2,11 +2,18 @@
   "slug": "camp-fouquereaux",
   "name": "CAMP FOUQUEREAUX",
   "district": "plainewilhems",
-  "generated": "2026-06-04T12:04:10.304Z",
-  "outageCount": 37,
+  "generated": "2026-06-04T13:58:36.295Z",
+  "outageCount": 38,
   "firstOutage": "2022-03-31",
-  "lastOutage": "2026-03-11",
+  "lastOutage": "2026-06-14",
   "outages": [
+    {
+      "date": "Le dimanche 14 juin 2026 de  08:30:00 à  17:00:00",
+      "streets": "une partie de Tout Court Road, Réservoirs Road, Impasse Nundlol, Iris Lane No. 1 et 2, Morcellement Engrais Cathan, Doha Pre Primary School, BRA Gungadin Metal Industry, Vernon Lane, Baza Lane, Morcellement Ramanah, une partie de Camp Fouquereaux Road, une partie de Bisnath Lane, une partie de Galea Road, Constatin Lane",
+      "from": "2026-06-14T04:30:00.000Z",
+      "to": "2026-06-14T13:00:00.000Z",
+      "id": "af0361bee7ee72edd8d3dca290f87536"
+    },
     {
       "date": "Le mercredi 11 mars 2026 de  09:45:00 à  11:00:00",
       "streets": "CAMP FOUQUERAUX",

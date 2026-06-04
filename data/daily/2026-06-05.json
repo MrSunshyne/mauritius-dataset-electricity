@@ -1,8 +1,8 @@
 {
   "date": "2026-06-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-04T12:04:10.272Z",
-  "outageCount": 2,
+  "generated": "2026-06-04T13:58:36.254Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le vendredi 5 juin 2026 de  14:30:00 à  16:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-06-05T05:00:00.000Z",
       "to": "2026-06-05T11:00:00.000Z",
       "id": "3256d62605c54ab1ebfaa5e7148080ed"
+    },
+    {
+      "date": "Le vendredi 5 juin 2026 de  09:00:00 à  15:00:00",
+      "locality": "L-ESCALIER",
+      "localitySlug": "l-escalier",
+      "streets": "L’Escalier habitant dans le périmètre et les rues suivantes: Chatargoon Lane, Riverside Lane, une partie de Camp Tagore et une partie de la Route Royale L’Escalier",
+      "district": "savanne",
+      "from": "2026-06-05T05:00:00.000Z",
+      "to": "2026-06-05T11:00:00.000Z",
+      "id": "18c45dfc980bf2fa2f2452024e4ea3a3"
     }
   ]
 }

@@ -2,11 +2,18 @@
   "slug": "beau-vallon",
   "name": "BEAU VALLON",
   "district": "grandport",
-  "generated": "2026-06-04T12:04:10.296Z",
-  "outageCount": 17,
+  "generated": "2026-06-04T13:58:36.285Z",
+  "outageCount": 18,
   "firstOutage": "2022-06-06",
-  "lastOutage": "2026-05-18",
+  "lastOutage": "2026-06-11",
   "outages": [
+    {
+      "date": "Le jeudi 11 juin 2026 de  09:00:00 à  17:00:00",
+      "streets": "Beau Vallon et Mahebourg habitant dans le périmètre et les rues suivantes: Gopeelall Lane, Ramnarain Lane, Impasse Auffray, une partie de (Tombeau Lane, Allée Geude, Gopala Lane, Doolar Lane, Rue du Bamboo, Rue Nyon, Rue Souffleur, Abdool Razack Mohamed Street) et Chemin Grove Industries Beau Vallon",
+      "from": "2026-06-11T05:00:00.000Z",
+      "to": "2026-06-11T13:00:00.000Z",
+      "id": "7f709cf30d72d5066bc3e526f67f7e5d"
+    },
     {
       "date": "Le lundi 18 mai 2026 de  14:15:00 à  15:30:00",
       "streets": "DANS LES ALENTOURS DE EX KING SAVERS",
