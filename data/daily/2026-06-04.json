@@ -1,8 +1,8 @@
 {
   "date": "2026-06-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-04T07:29:34.487Z",
-  "outageCount": 16,
+  "generated": "2026-06-04T09:13:40.198Z",
+  "outageCount": 18,
   "outages": [
     {
       "date": "Le jeudi 4 juin 2026 de  09:00:00 à  16:30:00",
@@ -125,14 +125,34 @@
       "id": "2ca557a36ae9d0624fce6386e83c72c8"
     },
     {
-      "date": "Le jeudi 4 juin 2026 de  10:00:00 à  12:00:00",
+      "date": "Le jeudi 4 juin 2026 de  12:30:00 à  13:30:00",
+      "locality": "CASTEL VACOAS",
+      "localitySlug": "castel-vacoas",
+      "streets": "HAZAREESING LANE ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2026-06-04T08:30:00.000Z",
+      "to": "2026-06-04T09:30:00.000Z",
+      "id": "e26af7ce06a47a36b1a1add8098a207d"
+    },
+    {
+      "date": "Le jeudi 4 juin 2026 de  10:00:00 à  13:00:00",
       "locality": "CITE VALLIJEE",
       "localitySlug": "cite-vallijee",
       "streets": "RUE MOLIERE, RUE WAGNER, RUE CHOPIN, RUE ROUBENSTEIN ET LES ALENTOURS.",
       "district": "portlouis",
       "from": "2026-06-04T06:00:00.000Z",
-      "to": "2026-06-04T08:00:00.000Z",
-      "id": "3e7036f6365e061f51a312bd772a7515"
+      "to": "2026-06-04T09:00:00.000Z",
+      "id": "2517e6c3a10c460fd30cb37b282658ea"
+    },
+    {
+      "date": "Le jeudi 4 juin 2026 de  12:45:00 à  14:00:00",
+      "locality": "CITE VALLIJEE",
+      "localitySlug": "cite-vallijee",
+      "streets": "RUE BEETHOVEN, RUE DIEGO GARCIA ET UNE PARTIE ROUTE MENAGERIE PRES CLINIQUE.",
+      "district": "portlouis",
+      "from": "2026-06-04T08:45:00.000Z",
+      "to": "2026-06-04T10:00:00.000Z",
+      "id": "6a3620fb6f3abba64e8682bca0c24995"
     },
     {
       "date": "Le jeudi 4 juin 2026 de  10:45:00 à  13:45:00",

@@ -2,11 +2,18 @@
   "slug": "castel-vacoas",
   "name": "CASTEL VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-06-04T07:29:34.531Z",
-  "outageCount": 15,
+  "generated": "2026-06-04T09:13:40.247Z",
+  "outageCount": 16,
   "firstOutage": "2022-04-28",
-  "lastOutage": "2025-08-26",
+  "lastOutage": "2026-06-04",
   "outages": [
+    {
+      "date": "Le jeudi 4 juin 2026 de  12:30:00 à  13:30:00",
+      "streets": "HAZAREESING LANE ET LES ALENTOURS",
+      "from": "2026-06-04T08:30:00.000Z",
+      "to": "2026-06-04T09:30:00.000Z",
+      "id": "e26af7ce06a47a36b1a1add8098a207d"
+    },
     {
       "date": "Le mardi 26 août 2025 de  10:00:00 à  12:00:00",
       "streets": "ALLEE BRILLANT CASTEL",
