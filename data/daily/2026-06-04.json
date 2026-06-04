@@ -1,8 +1,8 @@
 {
   "date": "2026-06-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-04T13:58:36.254Z",
-  "outageCount": 19,
+  "generated": "2026-06-04T15:09:30.670Z",
+  "outageCount": 20,
   "outages": [
     {
       "date": "Le jeudi 4 juin 2026 de  09:00:00 à  16:30:00",
@@ -183,6 +183,16 @@
       "from": "2026-06-04T06:00:00.000Z",
       "to": "2026-06-04T07:00:00.000Z",
       "id": "b20f3a87087b6e69f10090ff35a1e41f"
+    },
+    {
+      "date": "Le jeudi 4 juin 2026 de  18:00:00 à  22:00:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "PANCHAVATI ET POULTRY RASMALLY ILE D-AMBRE.",
+      "district": "rivieredurempart",
+      "from": "2026-06-04T14:00:00.000Z",
+      "to": "2026-06-04T18:00:00.000Z",
+      "id": "832a9ad798506441a66e3248274bdf13"
     },
     {
       "date": "Le jeudi 4 juin 2026 de  09:00:00 à  16:00:00",

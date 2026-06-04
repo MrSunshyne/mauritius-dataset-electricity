@@ -2,11 +2,18 @@
   "slug": "riviere-du-rempart",
   "name": "RIVIERE DU REMPART",
   "district": "rivieredurempart",
-  "generated": "2026-06-04T13:58:36.379Z",
-  "outageCount": 62,
+  "generated": "2026-06-04T15:09:30.778Z",
+  "outageCount": 63,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-06-03",
+  "lastOutage": "2026-06-04",
   "outages": [
+    {
+      "date": "Le jeudi 4 juin 2026 de  18:00:00 à  22:00:00",
+      "streets": "PANCHAVATI ET POULTRY RASMALLY ILE D-AMBRE.",
+      "from": "2026-06-04T14:00:00.000Z",
+      "to": "2026-06-04T18:00:00.000Z",
+      "id": "832a9ad798506441a66e3248274bdf13"
+    },
     {
       "date": "Le mercredi 3 juin 2026 de  18:15:00 à  23:00:00",
       "streets": "ROYAL RD,SCHOENFELD RD",
