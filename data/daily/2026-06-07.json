@@ -1,8 +1,8 @@
 {
   "date": "2026-06-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-05T11:01:28.400Z",
-  "outageCount": 17,
+  "generated": "2026-06-05T12:52:46.971Z",
+  "outageCount": 19,
   "outages": [
     {
       "date": "Le dimanche 7 juin 2026 de  08:00:00 à  15:00:00",
@@ -173,6 +173,26 @@
       "from": "2026-06-07T04:30:00.000Z",
       "to": "2026-06-07T11:30:00.000Z",
       "id": "1dedf116a5ed0e001025514ded8e5e39"
+    },
+    {
+      "date": "Le dimanche 7 juin 2026 de  11:00:00 à  14:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "VINGT PIEDS ROAD, TRIBAL ASSET AND MAUVILAC SURROUNDINGS, GRAND BAY",
+      "district": "rivieredurempart",
+      "from": "2026-06-07T07:00:00.000Z",
+      "to": "2026-06-07T10:00:00.000Z",
+      "id": "15add73943f8fe8f6931867c7d39ec04"
+    },
+    {
+      "date": "Le dimanche 7 juin 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Bel Air et Rivière Banane",
+      "district": "rodrigues",
+      "from": "2026-06-07T04:30:00.000Z",
+      "to": "2026-06-07T11:00:00.000Z",
+      "id": "fe5baf34bfb020cb0f1cb818b4fa78ff"
     }
   ]
 }

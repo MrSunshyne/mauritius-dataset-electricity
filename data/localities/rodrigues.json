@@ -2,11 +2,25 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-06-05T11:01:28.526Z",
-  "outageCount": 219,
+  "generated": "2026-06-05T12:52:47.094Z",
+  "outageCount": 221,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-06-01",
+  "lastOutage": "2026-06-07",
   "outages": [
+    {
+      "date": "Le dimanche 7 juin 2026 de  08:30:00 à  15:00:00",
+      "streets": "Bel Air et Rivière Banane",
+      "from": "2026-06-07T04:30:00.000Z",
+      "to": "2026-06-07T11:00:00.000Z",
+      "id": "fe5baf34bfb020cb0f1cb818b4fa78ff"
+    },
+    {
+      "date": "Le samedi 6 juin 2026 de  08:30:00 à  15:00:00",
+      "streets": "Pointe Coton et Morcellement Roche Bon Dieu",
+      "from": "2026-06-06T04:30:00.000Z",
+      "to": "2026-06-06T11:00:00.000Z",
+      "id": "da85c90ced0554218d30344c80cdfd1b"
+    },
     {
       "date": "Le lundi 1 juin 2026 de  08:30:00 à  15:00:00",
       "streets": "Malartic, Bassin Gallard, Petit Gabriel, Citron Donis, Bigarade, Fond La Bonté,Fond Baie Huitres et Eau Vanne",

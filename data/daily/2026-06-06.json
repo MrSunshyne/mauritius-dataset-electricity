@@ -1,8 +1,8 @@
 {
   "date": "2026-06-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-05T11:01:28.400Z",
-  "outageCount": 7,
+  "generated": "2026-06-05T12:52:46.971Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le samedi 6 juin 2026 de  08:30:00 à  15:30:00",
@@ -73,6 +73,16 @@
       "from": "2026-06-06T04:30:00.000Z",
       "to": "2026-06-06T11:00:00.000Z",
       "id": "bfb866c38afba77f1c1cf06a498ba30b"
+    },
+    {
+      "date": "Le samedi 6 juin 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Pointe Coton et Morcellement Roche Bon Dieu",
+      "district": "rodrigues",
+      "from": "2026-06-06T04:30:00.000Z",
+      "to": "2026-06-06T11:00:00.000Z",
+      "id": "da85c90ced0554218d30344c80cdfd1b"
     }
   ]
 }
