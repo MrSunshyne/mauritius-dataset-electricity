@@ -1,8 +1,8 @@
 {
   "date": "2026-06-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-05T09:01:58.791Z",
-  "outageCount": 5,
+  "generated": "2026-06-05T11:01:28.400Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le samedi 6 juin 2026 de  08:30:00 à  15:30:00",
@@ -25,6 +25,16 @@
       "id": "ed0318eef762c9c9c4370228fd25e614"
     },
     {
+      "date": "Le samedi 6 juin 2026 de  08:30:00 à  15:00:00",
+      "locality": "MOKA",
+      "localitySlug": "moka",
+      "streets": "Helvetia, Morc Montochio, Morc Merry Town et Oxford Lane",
+      "district": "moka",
+      "from": "2026-06-06T04:30:00.000Z",
+      "to": "2026-06-06T11:00:00.000Z",
+      "id": "82b03ddaa5f638d75ebc6de40adb7111"
+    },
+    {
       "date": "Le samedi 6 juin 2026 de  09:00:00 à  17:00:00",
       "locality": "VACOAS",
       "localitySlug": "vacoas",
@@ -43,6 +53,16 @@
       "from": "2026-06-06T04:30:00.000Z",
       "to": "2026-06-06T12:00:00.000Z",
       "id": "d7b4d36e7fdd85a8605fc3cd0694983a"
+    },
+    {
+      "date": "Le samedi 6 juin 2026 de  08:30:00 à  14:30:00",
+      "locality": "MONT ROCHES",
+      "localitySlug": "mont-roches",
+      "streets": "Barkly, Bakorysing, School Lane, Verge Bissambar, Herchenroder, Ave Barkly Asylum, CWA Barkly, Piscine Serge Alfred, en partie Raymond Rivet et les environs",
+      "district": "plainewilhems",
+      "from": "2026-06-06T04:30:00.000Z",
+      "to": "2026-06-06T10:30:00.000Z",
+      "id": "91a1fb243d9397c793546bbe16449d74"
     },
     {
       "date": "Le samedi 6 juin 2026 de  08:30:00 à  15:00:00",

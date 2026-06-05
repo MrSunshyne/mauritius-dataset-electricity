@@ -2,11 +2,25 @@
   "slug": "moka",
   "name": "MOKA",
   "district": "moka",
-  "generated": "2026-06-05T09:01:58.876Z",
-  "outageCount": 69,
+  "generated": "2026-06-05T11:01:28.491Z",
+  "outageCount": 71,
   "firstOutage": "2022-06-13",
-  "lastOutage": "2026-05-09",
+  "lastOutage": "2026-06-07",
   "outages": [
+    {
+      "date": "Le dimanche 7 juin 2026 de  08:30:00 à  15:00:00",
+      "streets": "Moka Rd, Leclezio Ave, Mt Ory et Camp Samy Road",
+      "from": "2026-06-07T04:30:00.000Z",
+      "to": "2026-06-07T11:00:00.000Z",
+      "id": "ca635fb334207449ad75dbb3ae870f80"
+    },
+    {
+      "date": "Le samedi 6 juin 2026 de  08:30:00 à  15:00:00",
+      "streets": "Helvetia, Morc Montochio, Morc Merry Town et Oxford Lane",
+      "from": "2026-06-06T04:30:00.000Z",
+      "to": "2026-06-06T11:00:00.000Z",
+      "id": "82b03ddaa5f638d75ebc6de40adb7111"
+    },
     {
       "date": "Le samedi 9 mai 2026 de  08:30:00 à  15:30:00",
       "streets": "Ave Leclezio, Morc Bagatelle, Le Ravin et Morc Eureka",

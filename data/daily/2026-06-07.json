@@ -1,8 +1,8 @@
 {
   "date": "2026-06-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-05T09:01:58.791Z",
-  "outageCount": 15,
+  "generated": "2026-06-05T11:01:28.400Z",
+  "outageCount": 17,
   "outages": [
     {
       "date": "Le dimanche 7 juin 2026 de  08:00:00 à  15:00:00",
@@ -65,6 +65,16 @@
       "id": "42a1811b2ebfbfa5ab59b3cd9e1a7b6c"
     },
     {
+      "date": "Le dimanche 7 juin 2026 de  08:30:00 à  15:00:00",
+      "locality": "MOKA",
+      "localitySlug": "moka",
+      "streets": "Moka Rd, Leclezio Ave, Mt Ory et Camp Samy Road",
+      "district": "moka",
+      "from": "2026-06-07T04:30:00.000Z",
+      "to": "2026-06-07T11:00:00.000Z",
+      "id": "ca635fb334207449ad75dbb3ae870f80"
+    },
+    {
       "date": "Le dimanche 7 juin 2026 de  08:30:00 à  15:30:00",
       "locality": "FOND DU SAC",
       "localitySlug": "fond-du-sac",
@@ -123,6 +133,16 @@
       "from": "2026-06-07T04:30:00.000Z",
       "to": "2026-06-07T12:00:00.000Z",
       "id": "6c62fb1f4086a6e8c6ee0121a642a35a"
+    },
+    {
+      "date": "Le dimanche 7 juin 2026 de  09:00:00 à  15:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave dEpinay, Capucine, Palmier, Orchidee et Route St Jean",
+      "district": "plainewilhems",
+      "from": "2026-06-07T05:00:00.000Z",
+      "to": "2026-06-07T11:00:00.000Z",
+      "id": "5461b940767c57872b1e0988d5d8a3d7"
     },
     {
       "date": "Le dimanche 7 juin 2026 de  08:30:00 à  14:00:00",

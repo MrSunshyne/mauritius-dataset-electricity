@@ -2,11 +2,18 @@
   "slug": "mont-roches",
   "name": "MONT ROCHES",
   "district": "plainewilhems",
-  "generated": "2026-06-05T09:01:58.879Z",
-  "outageCount": 32,
+  "generated": "2026-06-05T11:01:28.493Z",
+  "outageCount": 33,
   "firstOutage": "2022-05-08",
-  "lastOutage": "2026-06-02",
+  "lastOutage": "2026-06-06",
   "outages": [
+    {
+      "date": "Le samedi 6 juin 2026 de  08:30:00 à  14:30:00",
+      "streets": "Barkly, Bakorysing, School Lane, Verge Bissambar, Herchenroder, Ave Barkly Asylum, CWA Barkly, Piscine Serge Alfred, en partie Raymond Rivet et les environs",
+      "from": "2026-06-06T04:30:00.000Z",
+      "to": "2026-06-06T10:30:00.000Z",
+      "id": "91a1fb243d9397c793546bbe16449d74"
+    },
     {
       "date": "Le mardi 2 juin 2026 de  15:30:00 à  16:00:00",
       "streets": "Mont Roches, Barkly, Bakorysing, School Lane, Verge Bissambar, Herchenroder, Ave Barkly Asylum, CWA Barkly, Piscine Serge Alfred, en partie Raymond Rivet et les environs",
