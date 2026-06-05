@@ -1,9 +1,19 @@
 {
   "date": "2026-06-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-04T18:40:03.062Z",
-  "outageCount": 3,
+  "generated": "2026-06-05T07:21:11.475Z",
+  "outageCount": 6,
   "outages": [
+    {
+      "date": "Le vendredi 5 juin 2026 de  09:00:00 à  12:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "SPLENDID VIEW",
+      "district": "blackriver",
+      "from": "2026-06-05T05:00:00.000Z",
+      "to": "2026-06-05T08:00:00.000Z",
+      "id": "0111f5b9b92c371669b151785d2a1ff3"
+    },
     {
       "date": "Le vendredi 5 juin 2026 de  14:30:00 à  16:00:00",
       "locality": "SAINT PAUL",
@@ -23,6 +33,26 @@
       "from": "2026-06-05T05:00:00.000Z",
       "to": "2026-06-05T11:00:00.000Z",
       "id": "3256d62605c54ab1ebfaa5e7148080ed"
+    },
+    {
+      "date": "Le vendredi 5 juin 2026 de  11:00:00 à  13:00:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "MONT MASCAL ROAD PETIT RAFFRAY",
+      "district": "rivieredurempart",
+      "from": "2026-06-05T07:00:00.000Z",
+      "to": "2026-06-05T09:00:00.000Z",
+      "id": "ddfd0df125d00d2acb70ad15c945098d"
+    },
+    {
+      "date": "Le vendredi 5 juin 2026 de  08:50:00 à  12:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "SHIVAJEE RD, SEWAGE LANE & SURROUNDINGS",
+      "district": "rivieredurempart",
+      "from": "2026-06-05T04:50:00.000Z",
+      "to": "2026-06-05T08:00:00.000Z",
+      "id": "79924386697c186cc37425040e684152"
     },
     {
       "date": "Le vendredi 5 juin 2026 de  09:00:00 à  15:00:00",

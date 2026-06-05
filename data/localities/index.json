@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-04T18:40:03.175Z",
+  "generated": "2026-06-05T07:21:11.605Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -25,10 +25,10 @@
       "slug": "albion",
       "name": "ALBION",
       "district": "blackriver",
-      "outageCount": 113,
+      "outageCount": 114,
       "file": "albion.json",
       "firstOutage": "2022-06-06",
-      "lastOutage": "2026-05-22"
+      "lastOutage": "2026-06-05"
     },
     {
       "slug": "allee-brillant-castel",
@@ -214,10 +214,10 @@
       "slug": "bambous",
       "name": "BAMBOUS",
       "district": "blackriver",
-      "outageCount": 122,
+      "outageCount": 123,
       "file": "bambous.json",
       "firstOutage": "2022-04-12",
-      "lastOutage": "2026-05-08"
+      "lastOutage": "2026-06-07"
     },
     {
       "slug": "bambous-virieux",
@@ -1582,10 +1582,10 @@
       "slug": "grand-bay",
       "name": "GRAND BAY",
       "district": "rivieredurempart",
-      "outageCount": 111,
+      "outageCount": 113,
       "file": "grand-bay.json",
       "firstOutage": "2022-03-20",
-      "lastOutage": "2026-06-04"
+      "lastOutage": "2026-06-07"
     },
     {
       "slug": "grand-bel-air",
@@ -1636,10 +1636,10 @@
       "slug": "grand-sable",
       "name": "GRAND SABLE",
       "district": "grandport",
-      "outageCount": 11,
+      "outageCount": 12,
       "file": "grand-sable.json",
       "firstOutage": "2022-11-30",
-      "lastOutage": "2025-12-01"
+      "lastOutage": "2026-06-08"
     },
     {
       "slug": "grande-montagne",
@@ -2788,10 +2788,10 @@
       "slug": "petit-raffray",
       "name": "PETIT RAFFRAY",
       "district": "rivieredurempart",
-      "outageCount": 81,
+      "outageCount": 82,
       "file": "petit-raffray.json",
       "firstOutage": "2022-03-25",
-      "lastOutage": "2026-05-12"
+      "lastOutage": "2026-06-05"
     },
     {
       "slug": "petit-sable",
@@ -3031,10 +3031,10 @@
       "slug": "pointe-de-flacq",
       "name": "POINTE DE FLACQ",
       "district": "flacq",
-      "outageCount": 6,
+      "outageCount": 7,
       "file": "pointe-de-flacq.json",
       "firstOutage": "2023-04-03",
-      "lastOutage": "2026-05-26"
+      "lastOutage": "2026-06-07"
     },
     {
       "slug": "pointe-des-lascars",
@@ -3319,10 +3319,10 @@
       "slug": "riche-terre",
       "name": "RICHE TERRE",
       "district": "pamplemousses",
-      "outageCount": 37,
+      "outageCount": 38,
       "file": "riche-terre.json",
       "firstOutage": "2022-04-03",
-      "lastOutage": "2026-04-19"
+      "lastOutage": "2026-06-07"
     },
     {
       "slug": "richelieu",

@@ -2,11 +2,18 @@
   "slug": "petit-raffray",
   "name": "PETIT RAFFRAY",
   "district": "rivieredurempart",
-  "generated": "2026-06-04T18:40:03.138Z",
-  "outageCount": 81,
+  "generated": "2026-06-05T07:21:11.562Z",
+  "outageCount": 82,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-05-12",
+  "lastOutage": "2026-06-05",
   "outages": [
+    {
+      "date": "Le vendredi 5 juin 2026 de  11:00:00 à  13:00:00",
+      "streets": "MONT MASCAL ROAD PETIT RAFFRAY",
+      "from": "2026-06-05T07:00:00.000Z",
+      "to": "2026-06-05T09:00:00.000Z",
+      "id": "ddfd0df125d00d2acb70ad15c945098d"
+    },
     {
       "date": "Le mardi 12 mai 2026 de  08:30:00 à  16:00:00",
       "streets": "DANS LES ENVIRONS DE MONT MASCAL, MARE SECHE ET REUNION MAUREL",

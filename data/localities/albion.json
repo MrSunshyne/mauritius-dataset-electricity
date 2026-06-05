@@ -2,11 +2,18 @@
   "slug": "albion",
   "name": "ALBION",
   "district": "blackriver",
-  "generated": "2026-06-04T18:40:03.076Z",
-  "outageCount": 113,
+  "generated": "2026-06-05T07:21:11.491Z",
+  "outageCount": 114,
   "firstOutage": "2022-06-06",
-  "lastOutage": "2026-05-22",
+  "lastOutage": "2026-06-05",
   "outages": [
+    {
+      "date": "Le vendredi 5 juin 2026 de  09:00:00 à  12:00:00",
+      "streets": "SPLENDID VIEW",
+      "from": "2026-06-05T05:00:00.000Z",
+      "to": "2026-06-05T08:00:00.000Z",
+      "id": "0111f5b9b92c371669b151785d2a1ff3"
+    },
     {
       "date": "Le vendredi 22 mai 2026 de  09:30:00 à  13:00:00",
       "streets": "MORC TERRE ALBION",

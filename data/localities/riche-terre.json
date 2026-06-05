@@ -2,11 +2,18 @@
   "slug": "riche-terre",
   "name": "RICHE TERRE",
   "district": "pamplemousses",
-  "generated": "2026-06-04T18:40:03.150Z",
-  "outageCount": 37,
+  "generated": "2026-06-05T07:21:11.577Z",
+  "outageCount": 38,
   "firstOutage": "2022-04-03",
-  "lastOutage": "2026-04-19",
+  "lastOutage": "2026-06-07",
   "outages": [
+    {
+      "date": "Le dimanche 7 juin 2026 de  08:30:00 à  16:00:00",
+      "streets": "Dans les environs de Polytol Paints, Aqualia, Duraco, Meaders Feeds,Convenience Food, Cafe de la Fournaise et Roto Moulders",
+      "from": "2026-06-07T04:30:00.000Z",
+      "to": "2026-06-07T12:00:00.000Z",
+      "id": "17bc50493b6feee16ed5eb9618c3038d"
+    },
     {
       "date": "Le dimanche 19 avril 2026 de  08:30:00 à  15:30:00",
       "streets": "DANS LES ENVIRONS DE SUSHIL LANE, MUSLIM CEMETRY ROAD, IMPASSE ST MICHEL ET RESIDENCE BRIQUETTERIE",
