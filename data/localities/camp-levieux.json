@@ -2,11 +2,18 @@
   "slug": "camp-levieux",
   "name": "CAMP LEVIEUX ( CUREPIPE )",
   "district": "plainewilhems",
-  "generated": "2026-06-06T12:21:25.893Z",
-  "outageCount": 28,
+  "generated": "2026-06-06T13:28:56.938Z",
+  "outageCount": 29,
   "firstOutage": "2022-05-25",
-  "lastOutage": "2026-05-14",
+  "lastOutage": "2026-06-08",
   "outages": [
+    {
+      "date": "Le lundi 8 juin 2026 de  13:30:00 à  17:00:00",
+      "streets": "Ave Neptune, Ave Madras, NHDC Camp Levieux, en partie Ave Ratsitatane, en partie Ave Laconcorde, en partie Cretin, en partie Ave Nubee, Ave Sirius, Morc Seeburn et les environs",
+      "from": "2026-06-08T09:30:00.000Z",
+      "to": "2026-06-08T13:00:00.000Z",
+      "id": "8069095411401947e41153dc919dd4a7"
+    },
     {
       "date": "Le jeudi 14 mai 2026 de  15:30:00 à  17:30:00",
       "streets": "En partie Pigeot et Mere Theresa",

@@ -1,8 +1,8 @@
 {
   "date": "2026-06-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-06T12:21:25.855Z",
-  "outageCount": 1,
+  "generated": "2026-06-06T13:28:56.900Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le lundi 8 juin 2026 de  09:00:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-06-08T05:00:00.000Z",
       "to": "2026-06-08T12:00:00.000Z",
       "id": "4f1c82f3b35c131cfd0247d873d209e8"
+    },
+    {
+      "date": "Le lundi 8 juin 2026 de  13:30:00 à  17:00:00",
+      "locality": "CAMP LEVIEUX ( R HILL )",
+      "localitySlug": "camp-levieux",
+      "streets": "Ave Neptune, Ave Madras, NHDC Camp Levieux, en partie Ave Ratsitatane, en partie Ave Laconcorde, en partie Cretin, en partie Ave Nubee, Ave Sirius, Morc Seeburn et les environs",
+      "district": "plainewilhems",
+      "from": "2026-06-08T09:30:00.000Z",
+      "to": "2026-06-08T13:00:00.000Z",
+      "id": "8069095411401947e41153dc919dd4a7"
     }
   ]
 }
