@@ -1,8 +1,8 @@
 {
   "date": "2026-06-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-06T11:28:23.633Z",
-  "outageCount": 12,
+  "generated": "2026-06-06T12:21:25.855Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le samedi 6 juin 2026 de  08:30:00 à  15:30:00",
@@ -113,6 +113,16 @@
       "from": "2026-06-06T05:15:00.000Z",
       "to": "2026-06-06T10:00:00.000Z",
       "id": "5fea24993107fad088171669883ad59d"
+    },
+    {
+      "date": "Le samedi 6 juin 2026 de  15:15:00 à  18:30:00",
+      "locality": "ESPERANCE TREBUCHET",
+      "localitySlug": "esperance-trebuchet",
+      "streets": "FORBAC ROAD ESPERANCE TREBUCHET",
+      "district": "rivieredurempart",
+      "from": "2026-06-06T11:15:00.000Z",
+      "to": "2026-06-06T14:30:00.000Z",
+      "id": "b50c667966ad0975859f5a01c51243ac"
     },
     {
       "date": "Le samedi 6 juin 2026 de  08:30:00 à  15:00:00",

@@ -2,11 +2,18 @@
   "slug": "esperance-trebuchet",
   "name": "ESPERANCE TREBUCHET",
   "district": "rivieredurempart",
-  "generated": "2026-06-06T11:28:23.694Z",
-  "outageCount": 28,
+  "generated": "2026-06-06T12:21:25.912Z",
+  "outageCount": 29,
   "firstOutage": "2022-03-14",
-  "lastOutage": "2026-05-31",
+  "lastOutage": "2026-06-06",
   "outages": [
+    {
+      "date": "Le samedi 6 juin 2026 de  15:15:00 à  18:30:00",
+      "streets": "FORBAC ROAD ESPERANCE TREBUCHET",
+      "from": "2026-06-06T11:15:00.000Z",
+      "to": "2026-06-06T14:30:00.000Z",
+      "id": "b50c667966ad0975859f5a01c51243ac"
+    },
     {
       "date": "Le dimanche 31 mai 2026 de  10:20:00 à  13:30:00",
       "streets": "NSLD CWA & SURROUNDINGS",
