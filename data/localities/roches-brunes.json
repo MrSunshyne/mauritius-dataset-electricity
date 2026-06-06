@@ -2,11 +2,18 @@
   "slug": "roches-brunes",
   "name": "ROCHES BRUNES",
   "district": "plainewilhems",
-  "generated": "2026-06-05T18:34:19.193Z",
-  "outageCount": 37,
+  "generated": "2026-06-06T06:58:14.116Z",
+  "outageCount": 38,
   "firstOutage": "2022-10-01",
-  "lastOutage": "2026-06-01",
+  "lastOutage": "2026-06-06",
   "outages": [
+    {
+      "date": "Le samedi 6 juin 2026 de  10:30:00 à  11:45:00",
+      "streets": "AVE R.BRUNES, AVE PLUTO, AVE HALLET ET LES ALENTOURS",
+      "from": "2026-06-06T06:30:00.000Z",
+      "to": "2026-06-06T07:45:00.000Z",
+      "id": "6dda9cd20b200d6a4c2d54a570c96543"
+    },
     {
       "date": "Le lundi 1 juin 2026 de  15:30:00 à  17:30:00",
       "streets": "Morc Algomar",

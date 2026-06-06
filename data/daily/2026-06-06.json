@@ -1,8 +1,8 @@
 {
   "date": "2026-06-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-05T18:34:19.085Z",
-  "outageCount": 8,
+  "generated": "2026-06-06T06:58:13.988Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le samedi 6 juin 2026 de  08:30:00 à  15:30:00",
@@ -15,6 +15,16 @@
       "id": "13c501a528d4c388c4352b4a7d51ea4b"
     },
     {
+      "date": "Le samedi 6 juin 2026 de  08:30:00 à  13:00:00",
+      "locality": "MEDINE BAMBOUS",
+      "localitySlug": "medine-bambous",
+      "streets": "BUSINESS PARK",
+      "district": "blackriver",
+      "from": "2026-06-06T04:30:00.000Z",
+      "to": "2026-06-06T09:00:00.000Z",
+      "id": "400a70325e0ec3b5b4a1611093f71d1c"
+    },
+    {
       "date": "Le samedi 6 juin 2026 de  08:15:00 à  16:00:00",
       "locality": "LA LAURA (BEL AIR)",
       "localitySlug": "la-laura",
@@ -23,6 +33,16 @@
       "from": "2026-06-06T04:15:00.000Z",
       "to": "2026-06-06T12:00:00.000Z",
       "id": "ed0318eef762c9c9c4370228fd25e614"
+    },
+    {
+      "date": "Le samedi 6 juin 2026 de  09:30:00 à  15:00:00",
+      "locality": "CAMP DE MASQUE PAVE",
+      "localitySlug": "camp-de-masque-pave",
+      "streets": "ROYAL ROAD, SHIVALA RD ET LES ALENTOURS",
+      "district": "flacq",
+      "from": "2026-06-06T05:30:00.000Z",
+      "to": "2026-06-06T11:00:00.000Z",
+      "id": "8f9abc921095b60d8ab6553cd8371e3a"
     },
     {
       "date": "Le samedi 6 juin 2026 de  08:30:00 à  15:00:00",
@@ -65,6 +85,16 @@
       "id": "91a1fb243d9397c793546bbe16449d74"
     },
     {
+      "date": "Le samedi 6 juin 2026 de  10:30:00 à  11:45:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "AVE R.BRUNES, AVE PLUTO, AVE HALLET ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2026-06-06T06:30:00.000Z",
+      "to": "2026-06-06T07:45:00.000Z",
+      "id": "6dda9cd20b200d6a4c2d54a570c96543"
+    },
+    {
       "date": "Le samedi 6 juin 2026 de  08:30:00 à  15:00:00",
       "locality": "POINTE AUX SABLES",
       "localitySlug": "pointe-aux-sables",
@@ -73,6 +103,16 @@
       "from": "2026-06-06T04:30:00.000Z",
       "to": "2026-06-06T11:00:00.000Z",
       "id": "bfb866c38afba77f1c1cf06a498ba30b"
+    },
+    {
+      "date": "Le samedi 6 juin 2026 de  09:15:00 à  12:00:00",
+      "locality": "POINTE AUX CANONNIERS",
+      "localitySlug": "pointe-aux-canonniers",
+      "streets": "VILLA NIRVANA,VILLA RAMJUTTUN,VILLA ALISSA LA COLLINE",
+      "district": "rivieredurempart",
+      "from": "2026-06-06T05:15:00.000Z",
+      "to": "2026-06-06T08:00:00.000Z",
+      "id": "aedd282e4d7d719dc360d53ecf1721df"
     },
     {
       "date": "Le samedi 6 juin 2026 de  08:30:00 à  15:00:00",

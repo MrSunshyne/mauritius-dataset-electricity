@@ -2,11 +2,18 @@
   "slug": "pointe-aux-canonniers",
   "name": "POINTE AUX CANONNIERS",
   "district": "rivieredurempart",
-  "generated": "2026-06-05T18:34:19.179Z",
-  "outageCount": 51,
+  "generated": "2026-06-06T06:58:14.098Z",
+  "outageCount": 52,
   "firstOutage": "2022-04-15",
-  "lastOutage": "2026-05-23",
+  "lastOutage": "2026-06-06",
   "outages": [
+    {
+      "date": "Le samedi 6 juin 2026 de  09:15:00 à  12:00:00",
+      "streets": "VILLA NIRVANA,VILLA RAMJUTTUN,VILLA ALISSA LA COLLINE",
+      "from": "2026-06-06T05:15:00.000Z",
+      "to": "2026-06-06T08:00:00.000Z",
+      "id": "aedd282e4d7d719dc360d53ecf1721df"
+    },
     {
       "date": "Le samedi 23 mai 2026 de  10:00:00 à  14:00:00",
       "streets": "EX CLUB ROAD",
