@@ -2,11 +2,18 @@
   "slug": "berthaud",
   "name": "BERTHAUD",
   "district": "plainewilhems",
-  "generated": "2026-06-07T11:30:58.961Z",
-  "outageCount": 2,
+  "generated": "2026-06-07T12:26:27.222Z",
+  "outageCount": 3,
   "firstOutage": "2024-07-16",
-  "lastOutage": "2024-11-13",
+  "lastOutage": "2026-06-07",
   "outages": [
+    {
+      "date": "Le dimanche 7 juin 2026 de  16:10:00 à  20:00:00",
+      "streets": "BERTHAUD Q.BORNES : MORC GOOMANY DANS LES ENVIRONS WAREHOUSE kHOODORUTH.",
+      "from": "2026-06-07T12:10:00.000Z",
+      "to": "2026-06-07T16:00:00.000Z",
+      "id": "175b42369234bc4c83dc3e2b59c8bdcd"
+    },
     {
       "date": "Le mercredi 13 novembre 2024 de  10:30:00 à  12:00:00",
       "streets": "Ave Berthaud & Trefles",

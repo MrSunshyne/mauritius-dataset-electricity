@@ -1,8 +1,8 @@
 {
   "date": "2026-06-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-07T11:30:58.930Z",
-  "outageCount": 20,
+  "generated": "2026-06-07T12:26:27.189Z",
+  "outageCount": 21,
   "outages": [
     {
       "date": "Le dimanche 7 juin 2026 de  08:00:00 à  15:00:00",
@@ -143,6 +143,16 @@
       "from": "2026-06-07T05:00:00.000Z",
       "to": "2026-06-07T11:00:00.000Z",
       "id": "5461b940767c57872b1e0988d5d8a3d7"
+    },
+    {
+      "date": "Le dimanche 7 juin 2026 de  16:10:00 à  20:00:00",
+      "locality": "BERTHAUD",
+      "localitySlug": "berthaud",
+      "streets": "BERTHAUD Q.BORNES : MORC GOOMANY DANS LES ENVIRONS WAREHOUSE kHOODORUTH.",
+      "district": "plainewilhems",
+      "from": "2026-06-07T12:10:00.000Z",
+      "to": "2026-06-07T16:00:00.000Z",
+      "id": "175b42369234bc4c83dc3e2b59c8bdcd"
     },
     {
       "date": "Le dimanche 7 juin 2026 de  08:30:00 à  14:00:00",
