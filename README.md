@@ -27,7 +27,8 @@ The aim is to provide a hassle-free way to use the data to build applications.
 - The maintainer of this repository is NOT affiliated with the CEB.
 - The data is automatically fetched from the CEB website but not provided directly by them.
 - The page from which the data is fetched is [publicly available](https://ceb.mu/customer-corner/power-outage-information).
-- The data is fetched at a rate of Once per hour betwee 6AM -6PM. ( i assume nobody updates their site after working hours)
+- The data is fetched at a rate of Once per hour between 6AM - 6PM. ( i assume nobody updates their site after working hours)
+```Actually, they do update the site after working hours. I'm victim of this tonight. the official website at first displayed power will resume at a certain time. After said time, the website was updated and the new time was 2 hours later than said time. I'm not sure how this could be changed without the automation running every hour 24/7. Maybe after 6pm, it somehow checks scheduled resume times and fetch new data at said times or smth? idk? (idk how to make comments on github from my phone, so i'm writing it in the README.md)```
 - The data is made available here under fair use.
 
 ## FAQ
