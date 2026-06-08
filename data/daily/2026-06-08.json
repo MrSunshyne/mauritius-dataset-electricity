@@ -1,8 +1,8 @@
 {
   "date": "2026-06-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-07T18:21:54.908Z",
-  "outageCount": 2,
+  "generated": "2026-06-08T07:31:49.223Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le lundi 8 juin 2026 de  09:00:00 à  16:00:00",
@@ -15,6 +15,26 @@
       "id": "4f1c82f3b35c131cfd0247d873d209e8"
     },
     {
+      "date": "Le lundi 8 juin 2026 de  10:15:00 à  11:30:00",
+      "locality": "MARE TABAC",
+      "localitySlug": "mare-tabac",
+      "streets": "PART OF MARE TABAC",
+      "district": "grandport",
+      "from": "2026-06-08T06:15:00.000Z",
+      "to": "2026-06-08T07:30:00.000Z",
+      "id": "be7873900e12f57ff4335bf9a4a1d7ad"
+    },
+    {
+      "date": "Le lundi 8 juin 2026 de  10:55:00 à  14:00:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "PART OF MORC ASHVIVA",
+      "district": "pamplemousses",
+      "from": "2026-06-08T06:55:00.000Z",
+      "to": "2026-06-08T10:00:00.000Z",
+      "id": "d745932310996956f1cac112a5b21027"
+    },
+    {
       "date": "Le lundi 8 juin 2026 de  13:30:00 à  17:00:00",
       "locality": "CAMP LEVIEUX ( R HILL )",
       "localitySlug": "camp-levieux",
@@ -23,6 +43,16 @@
       "from": "2026-06-08T09:30:00.000Z",
       "to": "2026-06-08T13:00:00.000Z",
       "id": "8069095411401947e41153dc919dd4a7"
+    },
+    {
+      "date": "Le lundi 8 juin 2026 de  11:00:00 à  14:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "ROYAL ROAD NEAR PERLE BLEUE",
+      "district": "portlouis",
+      "from": "2026-06-08T07:00:00.000Z",
+      "to": "2026-06-08T10:00:00.000Z",
+      "id": "39eec9742532d6e97a5be6c6cab6317c"
     }
   ]
 }

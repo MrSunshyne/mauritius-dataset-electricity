@@ -2,11 +2,18 @@
   "slug": "pointe-aux-sables",
   "name": "POINTE AUX SABLES",
   "district": "portlouis",
-  "generated": "2026-06-07T18:21:54.996Z",
-  "outageCount": 141,
+  "generated": "2026-06-08T07:31:49.321Z",
+  "outageCount": 142,
   "firstOutage": "2022-03-30",
-  "lastOutage": "2026-06-07",
+  "lastOutage": "2026-06-08",
   "outages": [
+    {
+      "date": "Le lundi 8 juin 2026 de  11:00:00 à  14:00:00",
+      "streets": "ROYAL ROAD NEAR PERLE BLEUE",
+      "from": "2026-06-08T07:00:00.000Z",
+      "to": "2026-06-08T10:00:00.000Z",
+      "id": "39eec9742532d6e97a5be6c6cab6317c"
+    },
     {
       "date": "Le dimanche 7 juin 2026 de  08:30:00 à  15:30:00",
       "streets": "Les abonnes habitant La Tour Koenig dans les environs des Avenues La Tour Koenig, Anemone, Phlox, Multipliant, Muguets, Jasmin, Bauhinia, Andreanum, Portulaccas, Zinnias, Myosotis, Petunia, Croton, Hibiscus, Glaiels, Iris et Geranium",
