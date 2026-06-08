@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-06-08T09:28:47.005Z",
-  "outageCount": 379,
+  "generated": "2026-06-08T11:32:12.202Z",
+  "outageCount": 380,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-06-07",
+  "lastOutage": "2026-06-11",
   "outages": [
+    {
+      "date": "Le jeudi 11 juin 2026 de  09:00:00 à  17:30:00",
+      "streets": "Ave Victoria, en partie Ave dEpinay, Ave Naz et les environs",
+      "from": "2026-06-11T05:00:00.000Z",
+      "to": "2026-06-11T13:30:00.000Z",
+      "id": "e54a6deeb18e0ccccd3318319a94c76a"
+    },
     {
       "date": "Le dimanche 7 juin 2026 de  09:00:00 à  15:00:00",
       "streets": "Ave dEpinay, Capucine, Palmier, Orchidee et Route St Jean",

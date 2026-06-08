@@ -1,8 +1,8 @@
 {
   "date": "2026-06-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-08T09:28:46.886Z",
-  "outageCount": 1,
+  "generated": "2026-06-08T11:32:12.084Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le jeudi 11 juin 2026 de  09:00:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-06-11T05:00:00.000Z",
       "to": "2026-06-11T13:00:00.000Z",
       "id": "7f709cf30d72d5066bc3e526f67f7e5d"
+    },
+    {
+      "date": "Le jeudi 11 juin 2026 de  09:00:00 à  17:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave Victoria, en partie Ave dEpinay, Ave Naz et les environs",
+      "district": "plainewilhems",
+      "from": "2026-06-11T05:00:00.000Z",
+      "to": "2026-06-11T13:30:00.000Z",
+      "id": "e54a6deeb18e0ccccd3318319a94c76a"
     }
   ]
 }
