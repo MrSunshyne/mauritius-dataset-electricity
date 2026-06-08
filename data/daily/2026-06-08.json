@@ -1,8 +1,8 @@
 {
   "date": "2026-06-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-08T13:19:59.322Z",
-  "outageCount": 5,
+  "generated": "2026-06-08T15:03:19.480Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le lundi 8 juin 2026 de  09:00:00 à  18:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-06-08T06:15:00.000Z",
       "to": "2026-06-08T07:30:00.000Z",
       "id": "be7873900e12f57ff4335bf9a4a1d7ad"
+    },
+    {
+      "date": "Le lundi 8 juin 2026 de  18:00:00 à  19:00:00",
+      "locality": "PLAISANCE AIRPORT",
+      "localitySlug": "plaisance-airport",
+      "streets": "PART OF AIRPORT",
+      "district": "grandport",
+      "from": "2026-06-08T14:00:00.000Z",
+      "to": "2026-06-08T15:00:00.000Z",
+      "id": "df43935645c7ed43bea7107b19e12629"
     },
     {
       "date": "Le lundi 8 juin 2026 de  10:55:00 à  17:00:00",
