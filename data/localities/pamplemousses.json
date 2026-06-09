@@ -2,11 +2,18 @@
   "slug": "pamplemousses",
   "name": "PAMPLEMOUSSES",
   "district": "pamplemousses",
-  "generated": "2026-06-09T09:01:19.387Z",
-  "outageCount": 58,
+  "generated": "2026-06-09T10:59:21.658Z",
+  "outageCount": 59,
   "firstOutage": "2022-05-08",
-  "lastOutage": "2026-04-07",
+  "lastOutage": "2026-06-09",
   "outages": [
+    {
+      "date": "Le mardi 9 juin 2026 de  16:00:00 à  17:00:00",
+      "streets": "LE VILLAGE DE PAMPLEMOUSSES ET BEAU PLAN",
+      "from": "2026-06-09T12:00:00.000Z",
+      "to": "2026-06-09T13:00:00.000Z",
+      "id": "ca37c381df8187d886ec59ee83c851f9"
+    },
     {
       "date": "Le mardi 7 avril 2026 de  17:00:00 à  21:00:00",
       "streets": "NHDC NEPTUNE, MORC DE L-ABRI, MORC MAISON BLANCHE, AVENUE BELLE SOURCE ET LES ALENTOURS.",

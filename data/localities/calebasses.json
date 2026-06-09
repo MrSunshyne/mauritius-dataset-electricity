@@ -2,11 +2,18 @@
   "slug": "calebasses",
   "name": "CALEBASSES",
   "district": "pamplemousses",
-  "generated": "2026-06-09T09:01:19.328Z",
-  "outageCount": 35,
+  "generated": "2026-06-09T10:59:21.599Z",
+  "outageCount": 36,
   "firstOutage": "2022-05-15",
-  "lastOutage": "2026-05-18",
+  "lastOutage": "2026-06-09",
   "outages": [
+    {
+      "date": "Le mardi 9 juin 2026 de  15:00:00 à  16:00:00",
+      "streets": "UNE PARTIE DE CALBASSE EN DIRECTION DE PAMPLEMOUSSES",
+      "from": "2026-06-09T11:00:00.000Z",
+      "to": "2026-06-09T12:00:00.000Z",
+      "id": "8438009dc4377ecd089df9f05dcd6ccd"
+    },
     {
       "date": "Le lundi 18 mai 2026 de  20:40:00 à  00:00:00",
       "streets": "TAGORE RD CALEBASSES/school road",

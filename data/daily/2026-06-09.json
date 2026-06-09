@@ -1,9 +1,39 @@
 {
   "date": "2026-06-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-09T09:01:19.293Z",
-  "outageCount": 2,
+  "generated": "2026-06-09T10:59:21.566Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le mardi 9 juin 2026 de  14:00:00 à  17:00:00",
+      "locality": "MOKA",
+      "localitySlug": "moka",
+      "streets": "CHARLES TELFAIR, LA POMPE MINISSY ET LES ALENTOURS",
+      "district": "moka",
+      "from": "2026-06-09T10:00:00.000Z",
+      "to": "2026-06-09T13:00:00.000Z",
+      "id": "7b0ab4c4852b02de507404ef864fff76"
+    },
+    {
+      "date": "Le mardi 9 juin 2026 de  16:00:00 à  17:00:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "LE VILLAGE DE PAMPLEMOUSSES ET BEAU PLAN",
+      "district": "pamplemousses",
+      "from": "2026-06-09T12:00:00.000Z",
+      "to": "2026-06-09T13:00:00.000Z",
+      "id": "ca37c381df8187d886ec59ee83c851f9"
+    },
+    {
+      "date": "Le mardi 9 juin 2026 de  15:00:00 à  16:00:00",
+      "locality": "CALEBASSES",
+      "localitySlug": "calebasses",
+      "streets": "UNE PARTIE DE CALBASSE EN DIRECTION DE PAMPLEMOUSSES",
+      "district": "pamplemousses",
+      "from": "2026-06-09T11:00:00.000Z",
+      "to": "2026-06-09T12:00:00.000Z",
+      "id": "8438009dc4377ecd089df9f05dcd6ccd"
+    },
     {
       "date": "Le mardi 9 juin 2026 de  08:30:00 à  15:00:00",
       "locality": "COROMANDEL - R.HILL",

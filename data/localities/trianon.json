@@ -2,11 +2,18 @@
   "slug": "trianon",
   "name": "TRIANON",
   "district": "plainewilhems",
-  "generated": "2026-06-09T09:01:19.429Z",
-  "outageCount": 31,
+  "generated": "2026-06-09T10:59:21.697Z",
+  "outageCount": 32,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-05-03",
+  "lastOutage": "2026-06-12",
   "outages": [
+    {
+      "date": "Le vendredi 12 juin 2026 de  15:00:00 à  17:00:00",
+      "streets": "Hua Lien, Trianon Convention Centre, Diabetes Centre, R&M Garden, Anglo African, Pat Frozen, Frigonoor et Arena football pitch",
+      "from": "2026-06-12T11:00:00.000Z",
+      "to": "2026-06-12T13:00:00.000Z",
+      "id": "d1e183d55d7498c2f43e8a95afb332a8"
+    },
     {
       "date": "Le dimanche 3 mai 2026 de  08:30:00 à  14:30:00",
       "streets": "Hualien, Dukesbridge, Patfrozen, Apsa, CEB Meter Lab, Frigonoor, RM Garden et Convention Centre",
