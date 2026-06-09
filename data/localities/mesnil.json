@@ -2,11 +2,18 @@
   "slug": "mesnil",
   "name": "MESNIL",
   "district": "plainewilhems",
-  "generated": "2026-06-08T18:43:38.924Z",
-  "outageCount": 8,
+  "generated": "2026-06-09T07:06:32.507Z",
+  "outageCount": 9,
   "firstOutage": "2022-08-10",
-  "lastOutage": "2026-02-12",
+  "lastOutage": "2026-06-09",
   "outages": [
+    {
+      "date": "Le mardi 9 juin 2026 de  10:00:00 à  12:00:00",
+      "streets": "CTR MESNIL",
+      "from": "2026-06-09T06:00:00.000Z",
+      "to": "2026-06-09T08:00:00.000Z",
+      "id": "cd3ba4782a6caea8135f336f46319189"
+    },
     {
       "date": "Le jeudi 12 février 2026 de  14:00:00 à  18:00:00",
       "streets": "Route Royal Mesnil, une partie de Route Parisot, une partie de Route Tagore.",

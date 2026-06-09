@@ -1,9 +1,19 @@
 {
   "date": "2026-06-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-08T18:43:38.834Z",
-  "outageCount": 2,
+  "generated": "2026-06-09T07:06:32.413Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le jeudi 11 juin 2026 de  08:30:00 à  15:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORCELLEMENT GREEN CREEK - RUE DU COIN DE MIRE, AVE DU CORPS DE GARDES, RUE DE LILE PLATE, RUE DE LILOT GABRIEL ET RESIDENCE BLUE ROCK",
+      "district": "blackriver",
+      "from": "2026-06-11T04:30:00.000Z",
+      "to": "2026-06-11T11:00:00.000Z",
+      "id": "504e54aa33b5000b9f10a114656a7413"
+    },
     {
       "date": "Le jeudi 11 juin 2026 de  09:00:00 à  17:00:00",
       "locality": "BEAU VALLON",

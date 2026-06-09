@@ -2,11 +2,18 @@
   "slug": "flic-en-flac",
   "name": "FLIC-EN-FLAC",
   "district": "blackriver",
-  "generated": "2026-06-08T18:43:38.897Z",
-  "outageCount": 222,
+  "generated": "2026-06-09T07:06:32.468Z",
+  "outageCount": 223,
   "firstOutage": "2022-03-16",
-  "lastOutage": "2026-06-06",
+  "lastOutage": "2026-06-11",
   "outages": [
+    {
+      "date": "Le jeudi 11 juin 2026 de  08:30:00 à  15:00:00",
+      "streets": "MORCELLEMENT GREEN CREEK - RUE DU COIN DE MIRE, AVE DU CORPS DE GARDES, RUE DE LILE PLATE, RUE DE LILOT GABRIEL ET RESIDENCE BLUE ROCK",
+      "from": "2026-06-11T04:30:00.000Z",
+      "to": "2026-06-11T11:00:00.000Z",
+      "id": "504e54aa33b5000b9f10a114656a7413"
+    },
     {
       "date": "Le samedi 6 juin 2026 de  08:30:00 à  15:30:00",
       "streets": "AVE DES COLOMBES, AVE DES AIGRETTES, AVE DES CANARIES, AVE DES AIGLONS, AVE DES PERDRIX, AVE DES FLAMANTS, AVE DES CORMORANS ET AVE CAROLS",

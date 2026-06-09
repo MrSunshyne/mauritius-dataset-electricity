@@ -1,8 +1,8 @@
 {
   "date": "2026-06-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-08T18:43:38.834Z",
-  "outageCount": 1,
+  "generated": "2026-06-09T07:06:32.413Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le mardi 9 juin 2026 de  08:30:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-06-09T04:30:00.000Z",
       "to": "2026-06-09T11:00:00.000Z",
       "id": "76c52212cc3fffa4147649102bc9ebf5"
+    },
+    {
+      "date": "Le mardi 9 juin 2026 de  10:00:00 à  12:00:00",
+      "locality": "MESNIL",
+      "localitySlug": "mesnil",
+      "streets": "CTR MESNIL",
+      "district": "plainewilhems",
+      "from": "2026-06-09T06:00:00.000Z",
+      "to": "2026-06-09T08:00:00.000Z",
+      "id": "cd3ba4782a6caea8135f336f46319189"
     }
   ]
 }
