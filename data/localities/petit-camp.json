@@ -2,11 +2,18 @@
   "slug": "petit-camp",
   "name": "PETIT CAMP",
   "district": "plainewilhems",
-  "generated": "2026-06-09T18:38:00.882Z",
-  "outageCount": 26,
+  "generated": "2026-06-10T07:20:50.984Z",
+  "outageCount": 27,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-03-11",
+  "lastOutage": "2026-06-10",
   "outages": [
+    {
+      "date": "Le mercredi 10 juin 2026 de  12:00:00 à  14:00:00",
+      "streets": "Tennis Court Petit Camp, Morc. Le Noir, Morc. Damree, Sarovar Co. Ltd, Val De Vie, Panagora Warehouse, CWA Petit Camp, Baobab Company Ltd",
+      "from": "2026-06-10T08:00:00.000Z",
+      "to": "2026-06-10T10:00:00.000Z",
+      "id": "ad51181cd455bb5cda9ab7c88df31418"
+    },
     {
       "date": "Le mercredi 11 mars 2026 de  09:00:00 à  13:30:00",
       "streets": "PETIT CAMP  ET PHOENIX: Sofia Lane No. 1, Sofia Lane No. 2, Sofia Lane No. 3, Morc. Damree et une partie de Petit Camp",

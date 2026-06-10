@@ -1,8 +1,8 @@
 {
   "date": "2026-06-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-09T18:38:00.791Z",
-  "outageCount": 3,
+  "generated": "2026-06-10T07:20:50.881Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le jeudi 11 juin 2026 de  08:30:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-06-11T04:30:00.000Z",
       "to": "2026-06-11T11:00:00.000Z",
       "id": "504e54aa33b5000b9f10a114656a7413"
+    },
+    {
+      "date": "Le jeudi 11 juin 2026 de  10:00:00 à  14:00:00",
+      "locality": "SEBASTOPOL",
+      "localitySlug": "sebastopol",
+      "streets": "dans les environs du village de Lesur",
+      "district": "flacq",
+      "from": "2026-06-11T06:00:00.000Z",
+      "to": "2026-06-11T10:00:00.000Z",
+      "id": "3c502b5a2af544366d009a4381394992"
     },
     {
       "date": "Le jeudi 11 juin 2026 de  09:00:00 à  17:00:00",
@@ -33,6 +43,16 @@
       "from": "2026-06-11T05:00:00.000Z",
       "to": "2026-06-11T13:30:00.000Z",
       "id": "e54a6deeb18e0ccccd3318319a94c76a"
+    },
+    {
+      "date": "Le jeudi 11 juin 2026 de  09:00:00 à  15:30:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "LES ABONNES HABITANT CITE JUNCTION PAILLES DANS LES ENVIRONS DÁVENUE TULIP",
+      "district": "portlouis",
+      "from": "2026-06-11T05:00:00.000Z",
+      "to": "2026-06-11T11:30:00.000Z",
+      "id": "6457b975a283c0268255c7672eeebca2"
     }
   ]
 }

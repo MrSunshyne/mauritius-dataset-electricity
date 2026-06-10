@@ -1,9 +1,29 @@
 {
   "date": "2026-06-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-09T18:38:00.791Z",
-  "outageCount": 1,
+  "generated": "2026-06-10T07:20:50.881Z",
+  "outageCount": 7,
   "outages": [
+    {
+      "date": "Le mercredi 10 juin 2026 de  09:50:00 à  17:00:00",
+      "locality": "PLAINE CHANPAGNE",
+      "localitySlug": "plaine-chanpagne",
+      "streets": "PL CHAMPAGNE",
+      "district": "blackriver",
+      "from": "2026-06-10T05:50:00.000Z",
+      "to": "2026-06-10T13:00:00.000Z",
+      "id": "57c8ab370381f9fa794334d819ac702d"
+    },
+    {
+      "date": "Le mercredi 10 juin 2026 de  09:00:00 à  12:00:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "MORC BELOUGET",
+      "district": "blackriver",
+      "from": "2026-06-10T05:00:00.000Z",
+      "to": "2026-06-10T08:00:00.000Z",
+      "id": "2b5950be4f89d33ead3206517a068003"
+    },
     {
       "date": "Le mercredi 10 juin 2026 de  08:30:00 à  09:30:00",
       "locality": "COROMANDEL - R.HILL",
@@ -13,6 +33,46 @@
       "from": "2026-06-10T04:30:00.000Z",
       "to": "2026-06-10T05:30:00.000Z",
       "id": "4b62df39c9a53437d7bb9d950a21736b"
+    },
+    {
+      "date": "Le mercredi 10 juin 2026 de  10:00:00 à  15:00:00",
+      "locality": "BELLE RIVE CUREPIPE",
+      "localitySlug": "belle-rive-curepipe",
+      "streets": "LA FERME ET CHASSEE",
+      "district": "plainewilhems",
+      "from": "2026-06-10T06:00:00.000Z",
+      "to": "2026-06-10T11:00:00.000Z",
+      "id": "447f0ce965e6074887d47e129a4b9e25"
+    },
+    {
+      "date": "Le mercredi 10 juin 2026 de  10:10:00 à  11:15:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "RUE HUGNIN, LA PLAVE, SHOLAY, GLADSTONE, SOOPRAMANIEN ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2026-06-10T06:10:00.000Z",
+      "to": "2026-06-10T07:15:00.000Z",
+      "id": "dbe465f4e84f62e334d0eb01f3ce4953"
+    },
+    {
+      "date": "Le mercredi 10 juin 2026 de  12:00:00 à  14:00:00",
+      "locality": "PETIT CAMP",
+      "localitySlug": "petit-camp",
+      "streets": "Tennis Court Petit Camp, Morc. Le Noir, Morc. Damree, Sarovar Co. Ltd, Val De Vie, Panagora Warehouse, CWA Petit Camp, Baobab Company Ltd",
+      "district": "plainewilhems",
+      "from": "2026-06-10T08:00:00.000Z",
+      "to": "2026-06-10T10:00:00.000Z",
+      "id": "ad51181cd455bb5cda9ab7c88df31418"
+    },
+    {
+      "date": "Le mercredi 10 juin 2026 de  15:00:00 à  17:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Hollyrood No.1, une partie de Route Quinze-Cantons No.2, une partie de Route Desvergues, une partie de Route La Marie, Route Begue, Route Bonnefin, Chemin Reservoir",
+      "district": "plainewilhems",
+      "from": "2026-06-10T11:00:00.000Z",
+      "to": "2026-06-10T13:00:00.000Z",
+      "id": "6b824b9022a2a46a4e1a532de05cb963"
     }
   ]
 }

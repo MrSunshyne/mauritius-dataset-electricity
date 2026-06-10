@@ -2,11 +2,18 @@
   "slug": "rose-hill",
   "name": "ROSE-HILL",
   "district": "plainewilhems",
-  "generated": "2026-06-09T18:38:00.906Z",
-  "outageCount": 170,
+  "generated": "2026-06-10T07:20:51.010Z",
+  "outageCount": 171,
   "firstOutage": "2022-05-20",
-  "lastOutage": "2026-06-04",
+  "lastOutage": "2026-06-10",
   "outages": [
+    {
+      "date": "Le mercredi 10 juin 2026 de  10:10:00 à  11:15:00",
+      "streets": "RUE HUGNIN, LA PLAVE, SHOLAY, GLADSTONE, SOOPRAMANIEN ET LES ALENTOURS",
+      "from": "2026-06-10T06:10:00.000Z",
+      "to": "2026-06-10T07:15:00.000Z",
+      "id": "dbe465f4e84f62e334d0eb01f3ce4953"
+    },
     {
       "date": "Le jeudi 4 juin 2026 de  16:00:00 à  17:00:00",
       "streets": "RHT Depot, en partie Ave Hugnin, Ave Edgar Laurent et les environs",

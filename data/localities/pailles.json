@@ -2,11 +2,18 @@
   "slug": "pailles",
   "name": "PAILLES",
   "district": "portlouis",
-  "generated": "2026-06-09T18:38:00.879Z",
-  "outageCount": 80,
+  "generated": "2026-06-10T07:20:50.980Z",
+  "outageCount": 81,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-04-25",
+  "lastOutage": "2026-06-11",
   "outages": [
+    {
+      "date": "Le jeudi 11 juin 2026 de  09:00:00 à  15:30:00",
+      "streets": "LES ABONNES HABITANT CITE JUNCTION PAILLES DANS LES ENVIRONS DÁVENUE TULIP",
+      "from": "2026-06-11T05:00:00.000Z",
+      "to": "2026-06-11T11:30:00.000Z",
+      "id": "6457b975a283c0268255c7672eeebca2"
+    },
     {
       "date": "Le samedi 25 avril 2026 de  00:30:00 à  03:00:00",
       "streets": "AVE LA PERLE -AVE FLAMBOYANT SOREZE",

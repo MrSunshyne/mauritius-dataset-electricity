@@ -2,11 +2,18 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-06-09T18:38:00.921Z",
-  "outageCount": 249,
+  "generated": "2026-06-10T07:20:51.028Z",
+  "outageCount": 250,
   "firstOutage": "2022-03-17",
-  "lastOutage": "2026-06-07",
+  "lastOutage": "2026-06-10",
   "outages": [
+    {
+      "date": "Le mercredi 10 juin 2026 de  15:00:00 à  17:00:00",
+      "streets": "Hollyrood No.1, une partie de Route Quinze-Cantons No.2, une partie de Route Desvergues, une partie de Route La Marie, Route Begue, Route Bonnefin, Chemin Reservoir",
+      "from": "2026-06-10T11:00:00.000Z",
+      "to": "2026-06-10T13:00:00.000Z",
+      "id": "6b824b9022a2a46a4e1a532de05cb963"
+    },
     {
       "date": "Le dimanche 7 juin 2026 de  11:00:00 à  15:00:00",
       "streets": "REGENT COMPLEX",

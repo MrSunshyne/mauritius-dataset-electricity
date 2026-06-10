@@ -2,11 +2,18 @@
   "slug": "tamarin",
   "name": "TAMARIN",
   "district": "blackriver",
-  "generated": "2026-06-09T18:38:00.914Z",
-  "outageCount": 74,
+  "generated": "2026-06-10T07:20:51.019Z",
+  "outageCount": 75,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-05-01",
+  "lastOutage": "2026-06-10",
   "outages": [
+    {
+      "date": "Le mercredi 10 juin 2026 de  09:00:00 à  12:00:00",
+      "streets": "MORC BELOUGET",
+      "from": "2026-06-10T05:00:00.000Z",
+      "to": "2026-06-10T08:00:00.000Z",
+      "id": "2b5950be4f89d33ead3206517a068003"
+    },
     {
       "date": "Le vendredi 1 mai 2026 de  12:30:00 à  16:00:00",
       "streets": "VILLAGE TAMARIN",

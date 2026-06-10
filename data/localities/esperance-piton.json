@@ -2,11 +2,18 @@
   "slug": "esperance-piton",
   "name": "ESPERANCE PITON",
   "district": "pamplemousses",
-  "generated": "2026-06-09T18:38:00.846Z",
-  "outageCount": 9,
+  "generated": "2026-06-10T07:20:50.944Z",
+  "outageCount": 10,
   "firstOutage": "2022-10-08",
-  "lastOutage": "2026-06-03",
+  "lastOutage": "2026-06-14",
   "outages": [
+    {
+      "date": "Le dimanche 14 juin 2026 de  08:30:00 à  16:00:00",
+      "streets": "ESPERANCE PITON, ENTIERE REGION",
+      "from": "2026-06-14T04:30:00.000Z",
+      "to": "2026-06-14T12:00:00.000Z",
+      "id": "297735b808e9f57eefa260ca467b3688"
+    },
     {
       "date": "Le mercredi 3 juin 2026 de  10:50:00 à  12:00:00",
       "streets": "ROYAL ROAD, FOOTBALL GROUND ROAD, JANKEE RD AND SURROUNDINGS",

@@ -2,11 +2,18 @@
   "slug": "plaine-chanpagne",
   "name": "PLAINE CHANPAGNE",
   "district": "blackriver",
-  "generated": "2026-06-09T18:38:00.886Z",
-  "outageCount": 4,
+  "generated": "2026-06-10T07:20:50.989Z",
+  "outageCount": 5,
   "firstOutage": "2022-06-23",
-  "lastOutage": "2025-07-02",
+  "lastOutage": "2026-06-10",
   "outages": [
+    {
+      "date": "Le mercredi 10 juin 2026 de  09:50:00 à  17:00:00",
+      "streets": "PL CHAMPAGNE",
+      "from": "2026-06-10T05:50:00.000Z",
+      "to": "2026-06-10T13:00:00.000Z",
+      "id": "57c8ab370381f9fa794334d819ac702d"
+    },
     {
       "date": "Le mercredi 2 juillet 2025 de  09:55:00 à  12:00:00",
       "streets": "VARANGUE SUR MONDEDOMAINE ST DENIS",
