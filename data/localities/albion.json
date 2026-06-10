@@ -2,11 +2,25 @@
   "slug": "albion",
   "name": "ALBION",
   "district": "blackriver",
-  "generated": "2026-06-10T09:07:12.016Z",
-  "outageCount": 114,
+  "generated": "2026-06-10T11:10:51.067Z",
+  "outageCount": 116,
   "firstOutage": "2022-06-06",
-  "lastOutage": "2026-06-05",
+  "lastOutage": "2026-06-11",
   "outages": [
+    {
+      "date": "Le jeudi 11 juin 2026 de  14:30:00 à  15:30:00",
+      "streets": "En Partie Morc de Chazal, Ave Empereur, Ave Mullet, Ave Baracuda, Ave Marlin, Fisheries Albion, Oceanography, Club Med, Seascape Apartment, IRS West Coast et les environs",
+      "from": "2026-06-11T10:30:00.000Z",
+      "to": "2026-06-11T11:30:00.000Z",
+      "id": "efb3613f3f3f5a8cbbe3546c49111935"
+    },
+    {
+      "date": "Le jeudi 11 juin 2026 de  09:00:00 à  10:00:00",
+      "streets": "En Partie Morc de Chazal, Ave Empereur, Ave Mullet, Ave Baracuda, Ave Marlin, Fisheries Albion, Oceanography, Club Med, Seascape Apartment, IRS West Coast et les environs",
+      "from": "2026-06-11T05:00:00.000Z",
+      "to": "2026-06-11T06:00:00.000Z",
+      "id": "caa9d955f8b869ad515240d25eeedd2c"
+    },
     {
       "date": "Le vendredi 5 juin 2026 de  09:00:00 à  12:00:00",
       "streets": "SPLENDID VIEW",
