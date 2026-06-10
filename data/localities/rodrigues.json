@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-06-10T11:10:51.164Z",
-  "outageCount": 221,
+  "generated": "2026-06-10T12:59:52.313Z",
+  "outageCount": 222,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-06-07",
+  "lastOutage": "2026-06-11",
   "outages": [
+    {
+      "date": "Le jeudi 11 juin 2026 de  15:30:00 à  16:30:00",
+      "streets": "PORT MATHURIN",
+      "from": "2026-06-11T11:30:00.000Z",
+      "to": "2026-06-11T12:30:00.000Z",
+      "id": "47ca3a8a1dd1eec0c3410ad05cc67f1e"
+    },
     {
       "date": "Le dimanche 7 juin 2026 de  08:30:00 à  15:00:00",
       "streets": "Bel Air et Rivière Banane",
