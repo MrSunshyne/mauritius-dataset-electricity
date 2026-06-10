@@ -1,0 +1,28 @@
+{
+  "date": "2026-06-13",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-06-10T14:11:04.882Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le samedi 13 juin 2026 de  08:00:00 à  16:30:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "UNE PARTIE DE COSSIGNY ST ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2026-06-13T04:00:00.000Z",
+      "to": "2026-06-13T12:30:00.000Z",
+      "id": "6dbdea11db7ee12d58e6ef17409753d2"
+    },
+    {
+      "date": "Le samedi 13 juin 2026 de  15:30:00 à  16:30:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "UNE PARTIE DE COSSIGNY ST, SIR WILLIAM NEWTON ST, NAZ ST, REMONO ST, EMILE SAUZIER ST ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2026-06-13T11:30:00.000Z",
+      "to": "2026-06-13T12:30:00.000Z",
+      "id": "b2b9f82db9f38b3419985c8d6c221d69"
+    }
+  ]
+}

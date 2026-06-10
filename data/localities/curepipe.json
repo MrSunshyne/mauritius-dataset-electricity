@@ -2,11 +2,25 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-06-10T12:59:52.253Z",
-  "outageCount": 218,
+  "generated": "2026-06-10T14:11:04.938Z",
+  "outageCount": 220,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-06-07",
+  "lastOutage": "2026-06-13",
   "outages": [
+    {
+      "date": "Le samedi 13 juin 2026 de  15:30:00 à  16:30:00",
+      "streets": "UNE PARTIE DE COSSIGNY ST, SIR WILLIAM NEWTON ST, NAZ ST, REMONO ST, EMILE SAUZIER ST ET LES ENVIRONS",
+      "from": "2026-06-13T11:30:00.000Z",
+      "to": "2026-06-13T12:30:00.000Z",
+      "id": "b2b9f82db9f38b3419985c8d6c221d69"
+    },
+    {
+      "date": "Le samedi 13 juin 2026 de  08:00:00 à  16:30:00",
+      "streets": "UNE PARTIE DE COSSIGNY ST ET LES ENVIRONS",
+      "from": "2026-06-13T04:00:00.000Z",
+      "to": "2026-06-13T12:30:00.000Z",
+      "id": "6dbdea11db7ee12d58e6ef17409753d2"
+    },
     {
       "date": "Le dimanche 7 juin 2026 de  08:30:00 à  16:00:00",
       "streets": "Dans les environs des Rues Raffray, Jardin, Auguste Esnouf, Lislet Geoffroy, Bernardin de St Pierre, Daruty de Grand Pre, College Lane",
