@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-06-11T11:27:17.849Z",
-  "outageCount": 223,
+  "generated": "2026-06-11T13:07:39.139Z",
+  "outageCount": 224,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-06-11",
+  "lastOutage": "2026-06-12",
   "outages": [
+    {
+      "date": "Le vendredi 12 juin 2026 de  15:30:00 à  16:30:00",
+      "streets": "Port Mathurin",
+      "from": "2026-06-12T11:30:00.000Z",
+      "to": "2026-06-12T12:30:00.000Z",
+      "id": "9941b5e5ba221ec09e4dbc1a0764ea90"
+    },
     {
       "date": "Le jeudi 11 juin 2026 de  15:30:00 à  16:30:00",
       "streets": "PORT MATHURIN",

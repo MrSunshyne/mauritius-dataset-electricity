@@ -1,8 +1,8 @@
 {
   "date": "2026-06-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-11T11:27:17.728Z",
-  "outageCount": 1,
+  "generated": "2026-06-11T13:07:39.026Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le vendredi 12 juin 2026 de  15:00:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-06-12T11:00:00.000Z",
       "to": "2026-06-12T13:00:00.000Z",
       "id": "d1e183d55d7498c2f43e8a95afb332a8"
+    },
+    {
+      "date": "Le vendredi 12 juin 2026 de  15:30:00 à  16:30:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Port Mathurin",
+      "district": "rodrigues",
+      "from": "2026-06-12T11:30:00.000Z",
+      "to": "2026-06-12T12:30:00.000Z",
+      "id": "9941b5e5ba221ec09e4dbc1a0764ea90"
     }
   ]
 }

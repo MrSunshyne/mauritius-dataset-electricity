@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-11T11:27:17.872Z",
+  "generated": "2026-06-11T13:07:39.159Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -25,7 +25,7 @@
       "slug": "albion",
       "name": "ALBION",
       "district": "blackriver",
-      "outageCount": 116,
+      "outageCount": 117,
       "file": "albion.json",
       "firstOutage": "2022-06-06",
       "lastOutage": "2026-06-11"
@@ -2923,10 +2923,10 @@
       "slug": "plaine-des-papayes",
       "name": "PLAINE DES PAPAYES",
       "district": "pamplemousses",
-      "outageCount": 40,
+      "outageCount": 41,
       "file": "plaine-des-papayes.json",
       "firstOutage": "2022-05-22",
-      "lastOutage": "2026-04-07"
+      "lastOutage": "2026-06-13"
     },
     {
       "slug": "plaine-des-roches",
@@ -3490,10 +3490,10 @@
       "slug": "rodrigues",
       "name": "RODRIGUES",
       "district": "rodrigues",
-      "outageCount": 223,
+      "outageCount": 224,
       "file": "rodrigues.json",
       "firstOutage": "2022-03-15",
-      "lastOutage": "2026-06-11"
+      "lastOutage": "2026-06-12"
     },
     {
       "slug": "rose-belle",

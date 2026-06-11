@@ -1,9 +1,19 @@
 {
   "date": "2026-06-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-11T11:27:17.728Z",
-  "outageCount": 3,
+  "generated": "2026-06-11T13:07:39.026Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le samedi 13 juin 2026 de  08:30:00 à  14:00:00",
+      "locality": "PLAINE DES PAPAYES",
+      "localitySlug": "plaine-des-papayes",
+      "streets": "PLAINES DES PAPAYES, MORC VRS PLAINES DES PAPAYES ET BOIS MANGUES",
+      "district": "pamplemousses",
+      "from": "2026-06-13T04:30:00.000Z",
+      "to": "2026-06-13T10:00:00.000Z",
+      "id": "12ce1003b9c534f6cae83176f63890f9"
+    },
     {
       "date": "Le samedi 13 juin 2026 de  08:00:00 à  16:30:00",
       "locality": "CUREPIPE",

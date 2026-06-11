@@ -1,8 +1,8 @@
 {
   "date": "2026-06-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-11T11:27:17.727Z",
-  "outageCount": 16,
+  "generated": "2026-06-11T13:07:39.026Z",
+  "outageCount": 17,
   "outages": [
     {
       "date": "Le jeudi 11 juin 2026 de  08:30:00 à  15:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-06-11T05:00:00.000Z",
       "to": "2026-06-11T08:00:00.000Z",
       "id": "7e68bce998f5193b5b4cea189718fc7e"
+    },
+    {
+      "date": "Le jeudi 11 juin 2026 de  15:30:00 à  16:45:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "En Partie Morc de Chazal, Ave Empereur, Ave Mullet, Ave Baracuda, Ave Marlin, Fisheries Albion, Oceanography, Club Med, Seascape Apartment, IRS West Coast et les environs",
+      "district": "blackriver",
+      "from": "2026-06-11T11:30:00.000Z",
+      "to": "2026-06-11T12:45:00.000Z",
+      "id": "d70b1d037d7449fe406be3d1a3847986"
     },
     {
       "date": "Le jeudi 11 juin 2026 de  10:00:00 à  14:00:00",

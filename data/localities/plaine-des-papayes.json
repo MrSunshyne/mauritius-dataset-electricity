@@ -2,11 +2,18 @@
   "slug": "plaine-des-papayes",
   "name": "PLAINE DES PAPAYES",
   "district": "pamplemousses",
-  "generated": "2026-06-11T11:27:17.830Z",
-  "outageCount": 40,
+  "generated": "2026-06-11T13:07:39.120Z",
+  "outageCount": 41,
   "firstOutage": "2022-05-22",
-  "lastOutage": "2026-04-07",
+  "lastOutage": "2026-06-13",
   "outages": [
+    {
+      "date": "Le samedi 13 juin 2026 de  08:30:00 à  14:00:00",
+      "streets": "PLAINES DES PAPAYES, MORC VRS PLAINES DES PAPAYES ET BOIS MANGUES",
+      "from": "2026-06-13T04:30:00.000Z",
+      "to": "2026-06-13T10:00:00.000Z",
+      "id": "12ce1003b9c534f6cae83176f63890f9"
+    },
     {
       "date": "Le mardi 7 avril 2026 de  02:00:00 à  04:00:00",
       "streets": "BOIS MANGUE-PLAINE DES PAPAYES-CHEMIN BON AIR",
