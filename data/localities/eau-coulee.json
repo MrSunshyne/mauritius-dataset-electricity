@@ -2,11 +2,18 @@
   "slug": "eau-coulee",
   "name": "EAU COULEE",
   "district": "plainewilhems",
-  "generated": "2026-06-10T19:02:29.556Z",
-  "outageCount": 64,
+  "generated": "2026-06-11T07:31:20.208Z",
+  "outageCount": 65,
   "firstOutage": "2022-03-23",
-  "lastOutage": "2026-05-01",
+  "lastOutage": "2026-06-14",
   "outages": [
+    {
+      "date": "Le dimanche 14 juin 2026 de  08:30:00 à  17:00:00",
+      "streets": "Part of Eau Coulee at Quatre Carreaux , Bisnath Rd , Mariamen Temple Rd, Carrow  lane & Engrais Cathan",
+      "from": "2026-06-14T04:30:00.000Z",
+      "to": "2026-06-14T13:00:00.000Z",
+      "id": "134867d1d56903a61c28a9431e6dd08c"
+    },
     {
       "date": "Le vendredi 1 mai 2026 de  09:05:00 à  10:30:00",
       "streets": "LA MAIREE,EAU COULEE",

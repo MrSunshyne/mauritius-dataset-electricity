@@ -1,9 +1,29 @@
 {
   "date": "2026-06-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-10T19:02:29.496Z",
-  "outageCount": 3,
+  "generated": "2026-06-11T07:31:20.152Z",
+  "outageCount": 6,
   "outages": [
+    {
+      "date": "Le dimanche 14 juin 2026 de  08:30:00 à  10:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "Dans les environs de Nndloll Lane, Princess Margaret Street et une partie de Black River Road",
+      "district": "blackriver",
+      "from": "2026-06-14T04:30:00.000Z",
+      "to": "2026-06-14T06:00:00.000Z",
+      "id": "1b719fb0c1a472a9373660cb2a567c9d"
+    },
+    {
+      "date": "Le dimanche 14 juin 2026 de  08:30:00 à  14:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORCELLEMENT ST JACQUES, AVE ST PAUL, AVE ST PIERRE, AVE ST JACQUES, LES APPARTEMENTS MAHINA SUNSET HEIGHTS, STONE & SCONE ET MORCELLEMENT ANNA, AVE DES MARSOUINS ET APPARTEMENT RAMPHUL",
+      "district": "blackriver",
+      "from": "2026-06-14T04:30:00.000Z",
+      "to": "2026-06-14T10:00:00.000Z",
+      "id": "80b8a07a3a86cdcd0a1fd87e9ca54b79"
+    },
     {
       "date": "Le dimanche 14 juin 2026 de  08:30:00 à  16:00:00",
       "locality": "ESPERANCE PITON",
@@ -23,6 +43,16 @@
       "from": "2026-06-14T04:30:00.000Z",
       "to": "2026-06-14T13:00:00.000Z",
       "id": "af0361bee7ee72edd8d3dca290f87536"
+    },
+    {
+      "date": "Le dimanche 14 juin 2026 de  08:30:00 à  17:00:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": "Part of Eau Coulee at Quatre Carreaux , Bisnath Rd , Mariamen Temple Rd, Carrow  lane & Engrais Cathan",
+      "district": "plainewilhems",
+      "from": "2026-06-14T04:30:00.000Z",
+      "to": "2026-06-14T13:00:00.000Z",
+      "id": "134867d1d56903a61c28a9431e6dd08c"
     },
     {
       "date": "Le dimanche 14 juin 2026 de  08:30:00 à  16:00:00",

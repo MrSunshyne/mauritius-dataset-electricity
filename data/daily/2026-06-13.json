@@ -1,8 +1,8 @@
 {
   "date": "2026-06-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-10T19:02:29.496Z",
-  "outageCount": 2,
+  "generated": "2026-06-11T07:31:20.152Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le samedi 13 juin 2026 de  08:00:00 à  16:30:00",
@@ -23,6 +23,16 @@
       "from": "2026-06-13T11:30:00.000Z",
       "to": "2026-06-13T12:30:00.000Z",
       "id": "b2b9f82db9f38b3419985c8d6c221d69"
+    },
+    {
+      "date": "Le samedi 13 juin 2026 de  09:00:00 à  12:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "Dans les environs de Morc Ilois, Debarcadere, Residence Coquillages, Residence La Tourelle, Pigeon Street, Albatross Street, Floribunda Street, Hollycook, Sterling Silver Road et la route cotiere",
+      "district": "portlouis",
+      "from": "2026-06-13T05:00:00.000Z",
+      "to": "2026-06-13T08:00:00.000Z",
+      "id": "d90c7ddc204b655f03eb2e7b8bb9f784"
     }
   ]
 }

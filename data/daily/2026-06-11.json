@@ -1,8 +1,8 @@
 {
   "date": "2026-06-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-10T19:02:29.495Z",
-  "outageCount": 8,
+  "generated": "2026-06-11T07:31:20.152Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le jeudi 11 juin 2026 de  08:30:00 à  15:00:00",
@@ -25,14 +25,24 @@
       "id": "efb3613f3f3f5a8cbbe3546c49111935"
     },
     {
-      "date": "Le jeudi 11 juin 2026 de  09:00:00 à  10:00:00",
+      "date": "Le jeudi 11 juin 2026 de  09:00:00 à  11:00:00",
       "locality": "ALBION",
       "localitySlug": "albion",
       "streets": "En Partie Morc de Chazal, Ave Empereur, Ave Mullet, Ave Baracuda, Ave Marlin, Fisheries Albion, Oceanography, Club Med, Seascape Apartment, IRS West Coast et les environs",
       "district": "blackriver",
       "from": "2026-06-11T05:00:00.000Z",
-      "to": "2026-06-11T06:00:00.000Z",
-      "id": "caa9d955f8b869ad515240d25eeedd2c"
+      "to": "2026-06-11T07:00:00.000Z",
+      "id": "3d6bd91b63d912d2c2f264a882e14e93"
+    },
+    {
+      "date": "Le jeudi 11 juin 2026 de  09:00:00 à  12:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "CITE JONCTION AVENUE TULIP PETITE RIVIERE",
+      "district": "blackriver",
+      "from": "2026-06-11T05:00:00.000Z",
+      "to": "2026-06-11T08:00:00.000Z",
+      "id": "7e68bce998f5193b5b4cea189718fc7e"
     },
     {
       "date": "Le jeudi 11 juin 2026 de  10:00:00 à  14:00:00",
