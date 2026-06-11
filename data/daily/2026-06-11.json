@@ -1,8 +1,8 @@
 {
   "date": "2026-06-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-11T09:22:26.720Z",
-  "outageCount": 10,
+  "generated": "2026-06-11T11:27:17.727Z",
+  "outageCount": 16,
   "outages": [
     {
       "date": "Le jeudi 11 juin 2026 de  08:30:00 à  15:00:00",
@@ -75,6 +75,46 @@
       "id": "e54a6deeb18e0ccccd3318319a94c76a"
     },
     {
+      "date": "Le jeudi 11 juin 2026 de  14:00:00 à  16:30:00",
+      "locality": "CANDOS VACOAS",
+      "localitySlug": "candos-vacoas",
+      "streets": "Lal Bahadur Shastri Road",
+      "district": "plainewilhems",
+      "from": "2026-06-11T10:00:00.000Z",
+      "to": "2026-06-11T12:30:00.000Z",
+      "id": "0307d6a64d85266fae4717e6c004da78"
+    },
+    {
+      "date": "Le jeudi 11 juin 2026 de  14:20:00 à  16:30:00",
+      "locality": "CANDOS VACOAS",
+      "localitySlug": "candos-vacoas",
+      "streets": "LAL BAHADUR SHASTRI RD ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2026-06-11T10:20:00.000Z",
+      "to": "2026-06-11T12:30:00.000Z",
+      "id": "5e87565d824109f5925d2ab518df378b"
+    },
+    {
+      "date": "Le jeudi 11 juin 2026 de  15:00:00 à  16:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave C. Antelme, Murray et les environs",
+      "district": "plainewilhems",
+      "from": "2026-06-11T11:00:00.000Z",
+      "to": "2026-06-11T12:30:00.000Z",
+      "id": "640fdf14ec1bbffcb46e68f75ade5a40"
+    },
+    {
+      "date": "Le jeudi 11 juin 2026 de  16:00:00 à  18:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave dEpinay, Hennessy et les environs",
+      "district": "plainewilhems",
+      "from": "2026-06-11T12:00:00.000Z",
+      "to": "2026-06-11T14:00:00.000Z",
+      "id": "3cc1da7f3fe2281143c2f6dfc584e5fc"
+    },
+    {
       "date": "Le jeudi 11 juin 2026 de  09:00:00 à  15:30:00",
       "locality": "PAILLES",
       "localitySlug": "pailles",
@@ -83,6 +123,26 @@
       "from": "2026-06-11T05:00:00.000Z",
       "to": "2026-06-11T11:30:00.000Z",
       "id": "6457b975a283c0268255c7672eeebca2"
+    },
+    {
+      "date": "Le jeudi 11 juin 2026 de  15:00:00 à  17:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "CHEMIN GOYAVIERS, CHEMIN LATANIERS, CHEMIN CAPTUS ET LES ALENTOURS.",
+      "district": "portlouis",
+      "from": "2026-06-11T11:00:00.000Z",
+      "to": "2026-06-11T13:00:00.000Z",
+      "id": "4dfa678b10cc5ee5bb07d65e522462e2"
+    },
+    {
+      "date": "Le jeudi 11 juin 2026 de  14:00:00 à  17:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "AJAGEER ET LES ALENTOURS",
+      "district": "rivieredurempart",
+      "from": "2026-06-11T10:00:00.000Z",
+      "to": "2026-06-11T13:00:00.000Z",
+      "id": "3a300667766f6085879a01715bd4e396"
     },
     {
       "date": "Le jeudi 11 juin 2026 de  15:30:00 à  16:30:00",

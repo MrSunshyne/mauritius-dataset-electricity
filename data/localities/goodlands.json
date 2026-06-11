@@ -2,11 +2,18 @@
   "slug": "goodlands",
   "name": "GOODLANDS",
   "district": "rivieredurempart",
-  "generated": "2026-06-11T09:22:26.784Z",
-  "outageCount": 137,
+  "generated": "2026-06-11T11:27:17.790Z",
+  "outageCount": 138,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-05-29",
+  "lastOutage": "2026-06-11",
   "outages": [
+    {
+      "date": "Le jeudi 11 juin 2026 de  14:00:00 à  17:00:00",
+      "streets": "AJAGEER ET LES ALENTOURS",
+      "from": "2026-06-11T10:00:00.000Z",
+      "to": "2026-06-11T13:00:00.000Z",
+      "id": "3a300667766f6085879a01715bd4e396"
+    },
     {
       "date": "Le vendredi 29 mai 2026 de  10:30:00 à  12:30:00",
       "streets": "PLATEAU RD GOODLANDS ET LES ALENTOURS",

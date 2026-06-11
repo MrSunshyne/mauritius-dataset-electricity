@@ -2,11 +2,25 @@
   "slug": "candos-vacoas",
   "name": "CANDOS VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-06-11T09:22:26.760Z",
-  "outageCount": 14,
+  "generated": "2026-06-11T11:27:17.769Z",
+  "outageCount": 16,
   "firstOutage": "2022-06-21",
-  "lastOutage": "2026-01-18",
+  "lastOutage": "2026-06-11",
   "outages": [
+    {
+      "date": "Le jeudi 11 juin 2026 de  14:20:00 à  16:30:00",
+      "streets": "LAL BAHADUR SHASTRI RD ET LES ALENTOURS",
+      "from": "2026-06-11T10:20:00.000Z",
+      "to": "2026-06-11T12:30:00.000Z",
+      "id": "5e87565d824109f5925d2ab518df378b"
+    },
+    {
+      "date": "Le jeudi 11 juin 2026 de  14:00:00 à  16:30:00",
+      "streets": "Lal Bahadur Shastri Road",
+      "from": "2026-06-11T10:00:00.000Z",
+      "to": "2026-06-11T12:30:00.000Z",
+      "id": "0307d6a64d85266fae4717e6c004da78"
+    },
     {
       "date": "Le dimanche 18 janvier 2026 de  09:00:00 à  11:00:00",
       "streets": "Ragoo Lane",

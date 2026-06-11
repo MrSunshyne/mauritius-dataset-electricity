@@ -2,11 +2,25 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-06-11T09:22:26.827Z",
-  "outageCount": 380,
+  "generated": "2026-06-11T11:27:17.838Z",
+  "outageCount": 382,
   "firstOutage": "2022-04-01",
   "lastOutage": "2026-06-11",
   "outages": [
+    {
+      "date": "Le jeudi 11 juin 2026 de  16:00:00 à  18:00:00",
+      "streets": "Ave dEpinay, Hennessy et les environs",
+      "from": "2026-06-11T12:00:00.000Z",
+      "to": "2026-06-11T14:00:00.000Z",
+      "id": "3cc1da7f3fe2281143c2f6dfc584e5fc"
+    },
+    {
+      "date": "Le jeudi 11 juin 2026 de  15:00:00 à  16:30:00",
+      "streets": "Ave C. Antelme, Murray et les environs",
+      "from": "2026-06-11T11:00:00.000Z",
+      "to": "2026-06-11T12:30:00.000Z",
+      "id": "640fdf14ec1bbffcb46e68f75ade5a40"
+    },
     {
       "date": "Le jeudi 11 juin 2026 de  09:00:00 à  17:30:00",
       "streets": "Ave Victoria, en partie Ave dEpinay, Ave Naz et les environs",

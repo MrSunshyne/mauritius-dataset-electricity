@@ -2,11 +2,18 @@
   "slug": "vallee-des-pretres",
   "name": "VALLEE DES PRETRES",
   "district": "portlouis",
-  "generated": "2026-06-11T09:22:26.859Z",
-  "outageCount": 83,
+  "generated": "2026-06-11T11:27:17.869Z",
+  "outageCount": 84,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-05-06",
+  "lastOutage": "2026-06-11",
   "outages": [
+    {
+      "date": "Le jeudi 11 juin 2026 de  15:00:00 à  17:00:00",
+      "streets": "CHEMIN GOYAVIERS, CHEMIN LATANIERS, CHEMIN CAPTUS ET LES ALENTOURS.",
+      "from": "2026-06-11T11:00:00.000Z",
+      "to": "2026-06-11T13:00:00.000Z",
+      "id": "4dfa678b10cc5ee5bb07d65e522462e2"
+    },
     {
       "date": "Le mercredi 6 mai 2026 de  10:40:00 à  11:45:00",
       "streets": "CAROLINE",
