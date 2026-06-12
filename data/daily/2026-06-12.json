@@ -1,8 +1,8 @@
 {
   "date": "2026-06-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-12T09:17:54.278Z",
-  "outageCount": 4,
+  "generated": "2026-06-12T11:13:15.445Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le vendredi 12 juin 2026 de  11:00:00 à  12:15:00",
@@ -13,6 +13,16 @@
       "from": "2026-06-12T07:00:00.000Z",
       "to": "2026-06-12T08:15:00.000Z",
       "id": "755baa8fa8adb3130bc309bfc21bcb3e"
+    },
+    {
+      "date": "Le vendredi 12 juin 2026 de  12:00:00 à  17:00:00",
+      "locality": "SALAZIE",
+      "localitySlug": "salazie",
+      "streets": "EN PARTIE SALAZIE, POULTRY, CWA PUMP.",
+      "district": "flacq",
+      "from": "2026-06-12T08:00:00.000Z",
+      "to": "2026-06-12T13:00:00.000Z",
+      "id": "fb83b8fa9a10a328b01b03b32e14d640"
     },
     {
       "date": "Le vendredi 12 juin 2026 de  15:00:00 à  17:00:00",
@@ -33,6 +43,26 @@
       "from": "2026-06-12T06:30:00.000Z",
       "to": "2026-06-12T10:00:00.000Z",
       "id": "727e9907703b97141395d3eb8cc2b683"
+    },
+    {
+      "date": "Le vendredi 12 juin 2026 de  14:45:00 à  16:00:00",
+      "locality": "CARREAU LALIANE",
+      "localitySlug": "carreau-laliane",
+      "streets": "CHEMIN ONE WAY VERS FLIC EN FLAC.",
+      "district": "plainewilhems",
+      "from": "2026-06-12T10:45:00.000Z",
+      "to": "2026-06-12T12:00:00.000Z",
+      "id": "1e0b9dea21a4c61878abcef384ac9e36"
+    },
+    {
+      "date": "Le vendredi 12 juin 2026 de  14:15:00 à  18:00:00",
+      "locality": "EBENE",
+      "localitySlug": "ebene",
+      "streets": "BATIMENT NEXT TOWER.",
+      "district": "plainewilhems",
+      "from": "2026-06-12T10:15:00.000Z",
+      "to": "2026-06-12T14:00:00.000Z",
+      "id": "70344c0d312a66b0c626b70feed7226c"
     },
     {
       "date": "Le vendredi 12 juin 2026 de  15:30:00 à  16:30:00",

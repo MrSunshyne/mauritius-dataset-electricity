@@ -2,11 +2,18 @@
   "slug": "salazie",
   "name": "SALAZIE",
   "district": "flacq",
-  "generated": "2026-06-12T09:17:54.417Z",
-  "outageCount": 3,
+  "generated": "2026-06-12T11:13:15.568Z",
+  "outageCount": 4,
   "firstOutage": "2023-04-19",
-  "lastOutage": "2023-11-27",
+  "lastOutage": "2026-06-12",
   "outages": [
+    {
+      "date": "Le vendredi 12 juin 2026 de  12:00:00 à  17:00:00",
+      "streets": "EN PARTIE SALAZIE, POULTRY, CWA PUMP.",
+      "from": "2026-06-12T08:00:00.000Z",
+      "to": "2026-06-12T13:00:00.000Z",
+      "id": "fb83b8fa9a10a328b01b03b32e14d640"
+    },
     {
       "date": "Le lundi 27 novembre 2023 de  17:30:00 à  21:00:00",
       "streets": "PONT BON DIEU SALAZIE",

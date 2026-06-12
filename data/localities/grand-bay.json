@@ -2,11 +2,18 @@
   "slug": "grand-bay",
   "name": "GRAND BAY",
   "district": "rivieredurempart",
-  "generated": "2026-06-12T09:17:54.346Z",
-  "outageCount": 114,
+  "generated": "2026-06-12T11:13:15.505Z",
+  "outageCount": 115,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-06-07",
+  "lastOutage": "2026-06-14",
   "outages": [
+    {
+      "date": "Le dimanche 14 juin 2026 de  09:00:00 à  12:00:00",
+      "streets": "MORC BOUCON, OPPOSITE LE POLE RESTAURANT, NEAR EX GAJADHUR HOUSE",
+      "from": "2026-06-14T05:00:00.000Z",
+      "to": "2026-06-14T08:00:00.000Z",
+      "id": "8622f2a2e4074d679996318d8d383298"
+    },
     {
       "date": "Le dimanche 7 juin 2026 de  11:00:00 à  14:00:00",
       "streets": "VINGT PIEDS ROAD, TRIBAL ASSET AND MAUVILAC SURROUNDINGS, GRAND BAY",
