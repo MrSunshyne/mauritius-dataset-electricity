@@ -1,8 +1,8 @@
 {
   "date": "2026-06-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-12T11:13:15.445Z",
-  "outageCount": 11,
+  "generated": "2026-06-12T12:59:40.017Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le dimanche 14 juin 2026 de  08:30:00 à  10:00:00",
@@ -113,6 +113,16 @@
       "from": "2026-06-14T05:00:00.000Z",
       "to": "2026-06-14T08:00:00.000Z",
       "id": "8622f2a2e4074d679996318d8d383298"
+    },
+    {
+      "date": "Le dimanche 14 juin 2026 de  08:30:00 à  15:30:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "PATATE THEOPHILE ET TROIS SOLEIL",
+      "district": "rodrigues",
+      "from": "2026-06-14T04:30:00.000Z",
+      "to": "2026-06-14T11:30:00.000Z",
+      "id": "76a46109d3b2d651212eac759202140d"
     }
   ]
 }

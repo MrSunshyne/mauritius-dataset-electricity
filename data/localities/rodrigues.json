@@ -2,11 +2,25 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-06-12T11:13:15.560Z",
-  "outageCount": 224,
+  "generated": "2026-06-12T12:59:40.151Z",
+  "outageCount": 226,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-06-12",
+  "lastOutage": "2026-06-14",
   "outages": [
+    {
+      "date": "Le dimanche 14 juin 2026 de  08:30:00 à  15:30:00",
+      "streets": "PATATE THEOPHILE ET TROIS SOLEIL",
+      "from": "2026-06-14T04:30:00.000Z",
+      "to": "2026-06-14T11:30:00.000Z",
+      "id": "76a46109d3b2d651212eac759202140d"
+    },
+    {
+      "date": "Le samedi 13 juin 2026 de  08:30:00 à  15:30:00",
+      "streets": "GRAVIER ET BATATRAN",
+      "from": "2026-06-13T04:30:00.000Z",
+      "to": "2026-06-13T11:30:00.000Z",
+      "id": "04359e456899f6e8a62dd6b7987c5c47"
+    },
     {
       "date": "Le vendredi 12 juin 2026 de  15:30:00 à  16:30:00",
       "streets": "Port Mathurin",

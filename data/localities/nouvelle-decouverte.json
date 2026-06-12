@@ -2,11 +2,18 @@
   "slug": "nouvelle-decouverte",
   "name": "NOUVELLE DECOUVERTE",
   "district": "moka",
-  "generated": "2026-06-12T11:13:15.533Z",
-  "outageCount": 28,
+  "generated": "2026-06-12T12:59:40.117Z",
+  "outageCount": 29,
   "firstOutage": "2022-12-13",
-  "lastOutage": "2026-03-10",
+  "lastOutage": "2026-06-12",
   "outages": [
+    {
+      "date": "Le vendredi 12 juin 2026 de  15:20:00 à  16:45:00",
+      "streets": "BUMMA ROAD ET UNE PARTIE DE LA ROUTE ROYALE ET LES RUELLES AVOISINANTES.",
+      "from": "2026-06-12T11:20:00.000Z",
+      "to": "2026-06-12T12:45:00.000Z",
+      "id": "f9cb912a7e03120d9bc7c67bb98bff92"
+    },
     {
       "date": "Le mardi 10 mars 2026 de  15:30:00 à  17:30:00",
       "streets": "Nouvelle Decouverte, MOA, Azaree, Bar Le Duc, Rajabally, MTS Ripaille, Sino Hydro, Reith Residence, Forget et Nouvelle Decouverte school",

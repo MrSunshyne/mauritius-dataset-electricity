@@ -1,8 +1,8 @@
 {
   "date": "2026-06-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-12T11:13:15.445Z",
-  "outageCount": 6,
+  "generated": "2026-06-12T12:59:40.017Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le samedi 13 juin 2026 de  08:30:00 à  14:00:00",
@@ -63,6 +63,16 @@
       "from": "2026-06-13T05:00:00.000Z",
       "to": "2026-06-13T08:00:00.000Z",
       "id": "d90c7ddc204b655f03eb2e7b8bb9f784"
+    },
+    {
+      "date": "Le samedi 13 juin 2026 de  08:30:00 à  15:30:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "GRAVIER ET BATATRAN",
+      "district": "rodrigues",
+      "from": "2026-06-13T04:30:00.000Z",
+      "to": "2026-06-13T11:30:00.000Z",
+      "id": "04359e456899f6e8a62dd6b7987c5c47"
     }
   ]
 }
