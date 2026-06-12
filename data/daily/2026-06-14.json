@@ -1,8 +1,8 @@
 {
   "date": "2026-06-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-11T18:53:55.326Z",
-  "outageCount": 6,
+  "generated": "2026-06-12T07:29:28.780Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le dimanche 14 juin 2026 de  08:30:00 à  10:00:00",
@@ -35,6 +35,26 @@
       "id": "297735b808e9f57eefa260ca467b3688"
     },
     {
+      "date": "Le dimanche 14 juin 2026 de  14:00:00 à  15:00:00",
+      "locality": "BALACLAVA",
+      "localitySlug": "balaclava",
+      "streets": "Holiday Promo, Morc Le Vieux Banian et les environs de Ravenala Hotel a Balaclava",
+      "district": "pamplemousses",
+      "from": "2026-06-14T10:00:00.000Z",
+      "to": "2026-06-14T11:00:00.000Z",
+      "id": "5c4929e3e35516bb3ad81108d5125269"
+    },
+    {
+      "date": "Le dimanche 14 juin 2026 de  08:00:00 à  09:00:00",
+      "locality": "BALACLAVA",
+      "localitySlug": "balaclava",
+      "streets": "Holiday Promo, Morc Le Vieux Banian et les environs de Ravenala Hotel a Balaclava",
+      "district": "pamplemousses",
+      "from": "2026-06-14T04:00:00.000Z",
+      "to": "2026-06-14T05:00:00.000Z",
+      "id": "7fff13808618760ec7d782524f19d170"
+    },
+    {
       "date": "Le dimanche 14 juin 2026 de  08:30:00 à  17:00:00",
       "locality": "CAMP FOUQUEREAUX",
       "localitySlug": "camp-fouquereaux",
@@ -53,6 +73,26 @@
       "from": "2026-06-14T04:30:00.000Z",
       "to": "2026-06-14T13:00:00.000Z",
       "id": "134867d1d56903a61c28a9431e6dd08c"
+    },
+    {
+      "date": "Le dimanche 14 juin 2026 de  09:00:00 à  11:30:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "Camp Belin",
+      "district": "plainewilhems",
+      "from": "2026-06-14T05:00:00.000Z",
+      "to": "2026-06-14T07:30:00.000Z",
+      "id": "3fde785995a38f525b7727507acabfcf"
+    },
+    {
+      "date": "Le dimanche 14 juin 2026 de  12:00:00 à  14:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "PHOENIX HEIGHTS",
+      "district": "plainewilhems",
+      "from": "2026-06-14T08:00:00.000Z",
+      "to": "2026-06-14T10:00:00.000Z",
+      "id": "9cdf5f9bc6c338cb6c202105f3373d5b"
     },
     {
       "date": "Le dimanche 14 juin 2026 de  08:30:00 à  16:00:00",

@@ -2,11 +2,18 @@
   "slug": "quatre-soeurs",
   "name": "QUATRE SOEURS",
   "district": "flacq",
-  "generated": "2026-06-11T18:53:55.460Z",
-  "outageCount": 7,
+  "generated": "2026-06-12T07:29:28.895Z",
+  "outageCount": 8,
   "firstOutage": "2022-08-10",
-  "lastOutage": "2025-12-18",
+  "lastOutage": "2026-06-12",
   "outages": [
+    {
+      "date": "Le vendredi 12 juin 2026 de  11:00:00 à  12:15:00",
+      "streets": "Grand Sables,Pte aux Feuilles,Quatre soeurs & Deux Freres",
+      "from": "2026-06-12T07:00:00.000Z",
+      "to": "2026-06-12T08:15:00.000Z",
+      "id": "755baa8fa8adb3130bc309bfc21bcb3e"
+    },
     {
       "date": "Le jeudi 18 décembre 2025 de  09:15:00 à  14:15:00",
       "streets": "QUATRE SOEUR,DEUX FRERES,GRANDE RIVIERE SUD EST,",

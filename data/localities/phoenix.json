@@ -2,11 +2,18 @@
   "slug": "phoenix",
   "name": "PHOENIX",
   "district": "plainewilhems",
-  "generated": "2026-06-11T18:53:55.446Z",
-  "outageCount": 107,
+  "generated": "2026-06-12T07:29:28.883Z",
+  "outageCount": 108,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-05-16",
+  "lastOutage": "2026-06-14",
   "outages": [
+    {
+      "date": "Le dimanche 14 juin 2026 de  12:00:00 à  14:00:00",
+      "streets": "PHOENIX HEIGHTS",
+      "from": "2026-06-14T08:00:00.000Z",
+      "to": "2026-06-14T10:00:00.000Z",
+      "id": "9cdf5f9bc6c338cb6c202105f3373d5b"
+    },
     {
       "date": "Le samedi 16 mai 2026 de  12:30:00 à  14:00:00",
       "streets": "Hillcrest et Phoenix Apartments.",

@@ -2,11 +2,25 @@
   "slug": "henrietta",
   "name": "HENRIETTA",
   "district": "plainewilhems",
-  "generated": "2026-06-11T18:53:55.408Z",
-  "outageCount": 87,
+  "generated": "2026-06-12T07:29:28.851Z",
+  "outageCount": 89,
   "firstOutage": "2022-07-14",
-  "lastOutage": "2026-05-30",
+  "lastOutage": "2026-06-14",
   "outages": [
+    {
+      "date": "Le dimanche 14 juin 2026 de  09:00:00 à  11:30:00",
+      "streets": "Camp Belin",
+      "from": "2026-06-14T05:00:00.000Z",
+      "to": "2026-06-14T07:30:00.000Z",
+      "id": "3fde785995a38f525b7727507acabfcf"
+    },
+    {
+      "date": "Le samedi 13 juin 2026 de  09:00:00 à  12:00:00",
+      "streets": "Camp Roches Street No. 1,Deegambar Lane 1, 2, 3.",
+      "from": "2026-06-13T05:00:00.000Z",
+      "to": "2026-06-13T08:00:00.000Z",
+      "id": "de71993f683170d0f972fc64b2f6d605"
+    },
     {
       "date": "Le samedi 30 mai 2026 de  09:00:00 à  12:00:00",
       "streets": "Morc Seegobin",

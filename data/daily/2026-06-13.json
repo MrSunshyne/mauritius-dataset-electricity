@@ -1,8 +1,8 @@
 {
   "date": "2026-06-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-11T18:53:55.326Z",
-  "outageCount": 4,
+  "generated": "2026-06-12T07:29:28.780Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le samedi 13 juin 2026 de  08:30:00 à  14:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-06-13T11:30:00.000Z",
       "to": "2026-06-13T12:30:00.000Z",
       "id": "b2b9f82db9f38b3419985c8d6c221d69"
+    },
+    {
+      "date": "Le samedi 13 juin 2026 de  09:00:00 à  12:00:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "Camp Roches Street No. 1,Deegambar Lane 1, 2, 3.",
+      "district": "plainewilhems",
+      "from": "2026-06-13T05:00:00.000Z",
+      "to": "2026-06-13T08:00:00.000Z",
+      "id": "de71993f683170d0f972fc64b2f6d605"
     },
     {
       "date": "Le samedi 13 juin 2026 de  09:00:00 à  12:00:00",

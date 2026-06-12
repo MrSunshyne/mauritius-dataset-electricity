@@ -1,9 +1,19 @@
 {
   "date": "2026-06-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-11T18:53:55.326Z",
-  "outageCount": 2,
+  "generated": "2026-06-12T07:29:28.780Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le vendredi 12 juin 2026 de  11:00:00 à  12:15:00",
+      "locality": "QUATRE SOEURS",
+      "localitySlug": "quatre-soeurs",
+      "streets": "Grand Sables,Pte aux Feuilles,Quatre soeurs & Deux Freres",
+      "district": "flacq",
+      "from": "2026-06-12T07:00:00.000Z",
+      "to": "2026-06-12T08:15:00.000Z",
+      "id": "755baa8fa8adb3130bc309bfc21bcb3e"
+    },
     {
       "date": "Le vendredi 12 juin 2026 de  15:00:00 à  17:00:00",
       "locality": "TRIANON",
