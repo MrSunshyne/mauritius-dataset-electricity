@@ -2,11 +2,18 @@
   "slug": "ilot",
   "name": "ILOT",
   "district": "pamplemousses",
-  "generated": "2026-06-12T14:06:06.308Z",
-  "outageCount": 14,
+  "generated": "2026-06-12T16:01:38.699Z",
+  "outageCount": 15,
   "firstOutage": "2022-07-26",
-  "lastOutage": "2025-10-02",
+  "lastOutage": "2026-06-12",
   "outages": [
+    {
+      "date": "Le vendredi 12 juin 2026 de  19:00:00 à  23:00:00",
+      "streets": "ROYAL ROAD, ILOT BRANCH ROAD, MAHATMA GANDHI ROAD ET LES ALENTOURS.",
+      "from": "2026-06-12T15:00:00.000Z",
+      "to": "2026-06-12T19:00:00.000Z",
+      "id": "4e6ab8e46cc8e8008c23fbbb699a6896"
+    },
     {
       "date": "Le jeudi 2 octobre 2025 de  11:00:00 à  14:00:00",
       "streets": "ILOT VILLAGE",
