@@ -2,11 +2,18 @@
   "slug": "beau-bassin",
   "name": "BEAU BASSIN",
   "district": "plainewilhems",
-  "generated": "2026-06-12T07:29:28.805Z",
-  "outageCount": 181,
+  "generated": "2026-06-12T09:17:54.302Z",
+  "outageCount": 182,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-05-07",
+  "lastOutage": "2026-06-13",
   "outages": [
+    {
+      "date": "Le samedi 13 juin 2026 de  08:30:00 à  14:30:00",
+      "streets": "Cyril Leckning, Bissawon Biltoo et les environs",
+      "from": "2026-06-13T04:30:00.000Z",
+      "to": "2026-06-13T10:30:00.000Z",
+      "id": "c8183d280234190f733e2159102fa0cb"
+    },
     {
       "date": "Le jeudi 7 mai 2026 de  08:30:00 à  17:20:00",
       "streets": "Ave Pere Laval, Ave Dessennes, Ave Abbe Harel, Ave G. Bowen, Rue Farquhar, Appartement Bel Canto et les environs",

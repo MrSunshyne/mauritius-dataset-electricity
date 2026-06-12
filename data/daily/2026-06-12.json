@@ -1,8 +1,8 @@
 {
   "date": "2026-06-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-12T07:29:28.780Z",
-  "outageCount": 3,
+  "generated": "2026-06-12T09:17:54.278Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le vendredi 12 juin 2026 de  11:00:00 à  12:15:00",
@@ -23,6 +23,16 @@
       "from": "2026-06-12T11:00:00.000Z",
       "to": "2026-06-12T13:00:00.000Z",
       "id": "d1e183d55d7498c2f43e8a95afb332a8"
+    },
+    {
+      "date": "Le vendredi 12 juin 2026 de  10:30:00 à  14:00:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "Morc Pousson",
+      "district": "plainewilhems",
+      "from": "2026-06-12T06:30:00.000Z",
+      "to": "2026-06-12T10:00:00.000Z",
+      "id": "727e9907703b97141395d3eb8cc2b683"
     },
     {
       "date": "Le vendredi 12 juin 2026 de  15:30:00 à  16:30:00",

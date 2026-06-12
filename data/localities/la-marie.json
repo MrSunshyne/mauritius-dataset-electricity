@@ -2,11 +2,18 @@
   "slug": "la-marie",
   "name": "LA MARIE",
   "district": "plainewilhems",
-  "generated": "2026-06-12T07:29:28.857Z",
-  "outageCount": 57,
+  "generated": "2026-06-12T09:17:54.359Z",
+  "outageCount": 58,
   "firstOutage": "2022-07-07",
-  "lastOutage": "2026-02-02",
+  "lastOutage": "2026-06-12",
   "outages": [
+    {
+      "date": "Le vendredi 12 juin 2026 de  10:30:00 à  14:00:00",
+      "streets": "Morc Pousson",
+      "from": "2026-06-12T06:30:00.000Z",
+      "to": "2026-06-12T10:00:00.000Z",
+      "id": "727e9907703b97141395d3eb8cc2b683"
+    },
     {
       "date": "Le lundi 2 février 2026 de  09:30:00 à  14:00:00",
       "streets": "LA MARIE",

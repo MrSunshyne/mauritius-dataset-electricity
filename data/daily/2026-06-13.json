@@ -1,8 +1,8 @@
 {
   "date": "2026-06-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-12T07:29:28.780Z",
-  "outageCount": 5,
+  "generated": "2026-06-12T09:17:54.278Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le samedi 13 juin 2026 de  08:30:00 à  14:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-06-13T05:00:00.000Z",
       "to": "2026-06-13T08:00:00.000Z",
       "id": "de71993f683170d0f972fc64b2f6d605"
+    },
+    {
+      "date": "Le samedi 13 juin 2026 de  08:30:00 à  14:30:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Cyril Leckning, Bissawon Biltoo et les environs",
+      "district": "plainewilhems",
+      "from": "2026-06-13T04:30:00.000Z",
+      "to": "2026-06-13T10:30:00.000Z",
+      "id": "c8183d280234190f733e2159102fa0cb"
     },
     {
       "date": "Le samedi 13 juin 2026 de  09:00:00 à  12:00:00",
