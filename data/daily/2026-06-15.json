@@ -1,8 +1,8 @@
 {
   "date": "2026-06-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-13T16:26:10.802Z",
-  "outageCount": 3,
+  "generated": "2026-06-13T17:27:51.744Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le lundi 15 juin 2026 de  12:00:00 à  15:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-06-15T08:00:00.000Z",
       "to": "2026-06-15T11:00:00.000Z",
       "id": "5be6a08d9be357ad90a12a2aac4178a7"
+    },
+    {
+      "date": "Le lundi 15 juin 2026 de  12:00:00 à  15:00:00",
+      "locality": "CALODYNE",
+      "localitySlug": "calodyne",
+      "streets": "ENTIERE REGION DE CALODYNE, ST FRANCOIS ET BUTTE A LHERBE",
+      "district": "rivieredurempart",
+      "from": "2026-06-15T08:00:00.000Z",
+      "to": "2026-06-15T11:00:00.000Z",
+      "id": "cf4d5d5c34a3b06bf95ad0ef4ce80704"
     }
   ]
 }
