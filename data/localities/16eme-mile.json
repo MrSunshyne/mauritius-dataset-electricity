@@ -2,11 +2,18 @@
   "slug": "16eme-mile",
   "name": "16EME MILE",
   "district": "plainewilhems",
-  "generated": "2026-06-12T18:34:21.504Z",
-  "outageCount": 57,
+  "generated": "2026-06-13T07:12:13.809Z",
+  "outageCount": 58,
   "firstOutage": "2022-05-31",
-  "lastOutage": "2026-06-04",
+  "lastOutage": "2026-06-15",
   "outages": [
+    {
+      "date": "Le lundi 15 juin 2026 de  12:00:00 à  15:00:00",
+      "streets": "ENTIERE REGION DE CALODYNE, ST FRANCOIS ET BUTTE A LHERBE",
+      "from": "2026-06-15T08:00:00.000Z",
+      "to": "2026-06-15T11:00:00.000Z",
+      "id": "505a04f0f18542b0a0d501252efcd24b"
+    },
     {
       "date": "Le jeudi 4 juin 2026 de  08:30:00 à  16:00:00",
       "streets": "Part of  Coriolis Road, Morc Soobanee, NHDC Hyacinthe and nearby allways",

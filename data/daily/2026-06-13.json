@@ -1,8 +1,8 @@
 {
   "date": "2026-06-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-12T18:34:21.488Z",
-  "outageCount": 7,
+  "generated": "2026-06-13T07:12:13.795Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le samedi 13 juin 2026 de  08:30:00 à  14:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-06-13T04:30:00.000Z",
       "to": "2026-06-13T10:00:00.000Z",
       "id": "12ce1003b9c534f6cae83176f63890f9"
+    },
+    {
+      "date": "Le samedi 13 juin 2026 de  08:50:00 à  18:00:00",
+      "locality": "ARSENAL",
+      "localitySlug": "arsenal",
+      "streets": "WAREHOUSE LOGISTICS & SURROUNDINGS",
+      "district": "pamplemousses",
+      "from": "2026-06-13T04:50:00.000Z",
+      "to": "2026-06-13T14:00:00.000Z",
+      "id": "a34b6722d2f224010e04aa0772dd55ce"
     },
     {
       "date": "Le samedi 13 juin 2026 de  08:00:00 à  16:30:00",
@@ -55,14 +65,24 @@
       "id": "c8183d280234190f733e2159102fa0cb"
     },
     {
-      "date": "Le samedi 13 juin 2026 de  09:00:00 à  12:00:00",
+      "date": "Le samedi 13 juin 2026 de  08:45:00 à  18:00:00",
+      "locality": "EBENE",
+      "localitySlug": "ebene",
+      "streets": "MORC EBENE",
+      "district": "plainewilhems",
+      "from": "2026-06-13T04:45:00.000Z",
+      "to": "2026-06-13T14:00:00.000Z",
+      "id": "4882183d9a4ddc988dcb5177e2ad9689"
+    },
+    {
+      "date": "Le samedi 13 juin 2026 de  09:00:00 à  13:00:00",
       "locality": "POINTE AUX SABLES",
       "localitySlug": "pointe-aux-sables",
       "streets": "Dans les environs de Morc Ilois, Debarcadere, Residence Coquillages, Residence La Tourelle, Pigeon Street, Albatross Street, Floribunda Street, Hollycook, Sterling Silver Road et la route cotiere",
       "district": "portlouis",
       "from": "2026-06-13T05:00:00.000Z",
-      "to": "2026-06-13T08:00:00.000Z",
-      "id": "d90c7ddc204b655f03eb2e7b8bb9f784"
+      "to": "2026-06-13T09:00:00.000Z",
+      "id": "7ad38395e8e7b4baf23bd121b0aea497"
     },
     {
       "date": "Le samedi 13 juin 2026 de  08:30:00 à  15:30:00",

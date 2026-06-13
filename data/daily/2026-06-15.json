@@ -1,0 +1,38 @@
+{
+  "date": "2026-06-15",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-06-13T07:12:13.795Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le lundi 15 juin 2026 de  12:00:00 à  15:00:00",
+      "locality": "16EME MILE",
+      "localitySlug": "16eme-mile",
+      "streets": "ENTIERE REGION DE CALODYNE, ST FRANCOIS ET BUTTE A LHERBE",
+      "district": "plainewilhems",
+      "from": "2026-06-15T08:00:00.000Z",
+      "to": "2026-06-15T11:00:00.000Z",
+      "id": "505a04f0f18542b0a0d501252efcd24b"
+    },
+    {
+      "date": "Le lundi 15 juin 2026 de  08:30:00 à  12:30:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "LA RUE COSTALE DANS LES PERIMETRES DE LA PLAGE PUBLIC DE PEREYEBERE",
+      "district": "rivieredurempart",
+      "from": "2026-06-15T04:30:00.000Z",
+      "to": "2026-06-15T08:30:00.000Z",
+      "id": "f63c8d4ae34b805604fe4d6dab7b4317"
+    },
+    {
+      "date": "Le lundi 15 juin 2026 de  12:00:00 à  15:00:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "ENTIERE REGION DE GRAND GAUBE",
+      "district": "rivieredurempart",
+      "from": "2026-06-15T08:00:00.000Z",
+      "to": "2026-06-15T11:00:00.000Z",
+      "id": "5be6a08d9be357ad90a12a2aac4178a7"
+    }
+  ]
+}

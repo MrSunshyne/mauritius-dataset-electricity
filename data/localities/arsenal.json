@@ -2,11 +2,18 @@
   "slug": "arsenal",
   "name": "ARSENAL",
   "district": "pamplemousses",
-  "generated": "2026-06-12T18:34:21.509Z",
-  "outageCount": 60,
+  "generated": "2026-06-13T07:12:13.813Z",
+  "outageCount": 61,
   "firstOutage": "2022-05-25",
-  "lastOutage": "2026-05-17",
+  "lastOutage": "2026-06-13",
   "outages": [
+    {
+      "date": "Le samedi 13 juin 2026 de  08:50:00 à  18:00:00",
+      "streets": "WAREHOUSE LOGISTICS & SURROUNDINGS",
+      "from": "2026-06-13T04:50:00.000Z",
+      "to": "2026-06-13T14:00:00.000Z",
+      "id": "a34b6722d2f224010e04aa0772dd55ce"
+    },
     {
       "date": "Le dimanche 17 mai 2026 de  08:30:00 à  17:00:00",
       "streets": "Dans les environs dúne partie de la route royale",

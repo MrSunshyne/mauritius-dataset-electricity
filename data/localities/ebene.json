@@ -2,11 +2,18 @@
   "slug": "ebene",
   "name": "EBENE",
   "district": "plainewilhems",
-  "generated": "2026-06-12T18:34:21.552Z",
-  "outageCount": 26,
+  "generated": "2026-06-13T07:12:13.851Z",
+  "outageCount": 27,
   "firstOutage": "2022-04-25",
-  "lastOutage": "2026-06-12",
+  "lastOutage": "2026-06-13",
   "outages": [
+    {
+      "date": "Le samedi 13 juin 2026 de  08:45:00 à  18:00:00",
+      "streets": "MORC EBENE",
+      "from": "2026-06-13T04:45:00.000Z",
+      "to": "2026-06-13T14:00:00.000Z",
+      "id": "4882183d9a4ddc988dcb5177e2ad9689"
+    },
     {
       "date": "Le vendredi 12 juin 2026 de  14:15:00 à  18:00:00",
       "streets": "BATIMENT NEXT TOWER.",
