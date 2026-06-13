@@ -1,9 +1,19 @@
 {
   "date": "2026-06-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-13T08:59:11.527Z",
-  "outageCount": 9,
+  "generated": "2026-06-13T10:03:39.107Z",
+  "outageCount": 11,
   "outages": [
+    {
+      "date": "Le samedi 13 juin 2026 de  13:20:00 à  14:20:00",
+      "locality": "UNION PARK",
+      "localitySlug": "union-park",
+      "streets": "LINK PARBEAU",
+      "district": "grandport",
+      "from": "2026-06-13T09:20:00.000Z",
+      "to": "2026-06-13T10:20:00.000Z",
+      "id": "6cbc651d72a4611e52bc6f6faf0456c8"
+    },
     {
       "date": "Le samedi 13 juin 2026 de  08:30:00 à  14:00:00",
       "locality": "PLAINE DES PAPAYES",
@@ -23,6 +33,16 @@
       "from": "2026-06-13T04:50:00.000Z",
       "to": "2026-06-13T14:00:00.000Z",
       "id": "a34b6722d2f224010e04aa0772dd55ce"
+    },
+    {
+      "date": "Le samedi 13 juin 2026 de  11:15:00 à  16:00:00",
+      "locality": "BOIS ROUGE",
+      "localitySlug": "bois-rouge",
+      "streets": "BOIS ROUGE PAMPLEMOUSSES : DANS LES ENVIRONS ROUTE ROYALE, DR MANILALL.",
+      "district": "pamplemousses",
+      "from": "2026-06-13T07:15:00.000Z",
+      "to": "2026-06-13T12:00:00.000Z",
+      "id": "2eaf3f3c7e9b375c3eba2a80e23bee7b"
     },
     {
       "date": "Le samedi 13 juin 2026 de  08:00:00 à  16:30:00",

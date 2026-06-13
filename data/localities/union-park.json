@@ -2,11 +2,18 @@
   "slug": "union-park",
   "name": "UNION PARK",
   "district": "grandport",
-  "generated": "2026-06-13T08:59:11.656Z",
-  "outageCount": 34,
+  "generated": "2026-06-13T10:03:39.238Z",
+  "outageCount": 35,
   "firstOutage": "2022-03-28",
-  "lastOutage": "2026-03-13",
+  "lastOutage": "2026-06-13",
   "outages": [
+    {
+      "date": "Le samedi 13 juin 2026 de  13:20:00 à  14:20:00",
+      "streets": "LINK PARBEAU",
+      "from": "2026-06-13T09:20:00.000Z",
+      "to": "2026-06-13T10:20:00.000Z",
+      "id": "6cbc651d72a4611e52bc6f6faf0456c8"
+    },
     {
       "date": "Le vendredi 13 mars 2026 de  09:20:00 à  14:00:00",
       "streets": "MORC UNION PARK NEAR KALIMAYE",
