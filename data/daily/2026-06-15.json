@@ -1,9 +1,19 @@
 {
   "date": "2026-06-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-15T07:47:05.196Z",
-  "outageCount": 5,
+  "generated": "2026-06-15T10:01:10.858Z",
+  "outageCount": 6,
   "outages": [
+    {
+      "date": "Le lundi 15 juin 2026 de  11:00:00 à  14:30:00",
+      "locality": "MEDINE CAMP DE MASQUE",
+      "localitySlug": "medine-camp-de-masque",
+      "streets": "MEDINE CAMP DE MASQUE",
+      "district": "flacq",
+      "from": "2026-06-15T07:00:00.000Z",
+      "to": "2026-06-15T10:30:00.000Z",
+      "id": "78deb24c13d179391b0adac597edddc5"
+    },
     {
       "date": "Le lundi 15 juin 2026 de  12:00:00 à  15:00:00",
       "locality": "16EME MILE",
