@@ -1,8 +1,8 @@
 {
   "date": "2026-06-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-15T10:01:10.858Z",
-  "outageCount": 6,
+  "generated": "2026-06-15T12:59:56.523Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le lundi 15 juin 2026 de  11:00:00 à  14:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-06-15T07:00:00.000Z",
       "to": "2026-06-15T10:30:00.000Z",
       "id": "78deb24c13d179391b0adac597edddc5"
+    },
+    {
+      "date": "Le lundi 15 juin 2026 de  14:00:00 à  17:00:00",
+      "locality": "TELFAIR- MOKA",
+      "localitySlug": "telfair-moka",
+      "streets": "CITE TELFAIR, PWC & SURROUNDINGS",
+      "district": "moka",
+      "from": "2026-06-15T10:00:00.000Z",
+      "to": "2026-06-15T13:00:00.000Z",
+      "id": "8e908eb40537646bb4dd20a3487d7af3"
     },
     {
       "date": "Le lundi 15 juin 2026 de  12:00:00 à  15:00:00",
@@ -45,24 +55,24 @@
       "id": "f63c8d4ae34b805604fe4d6dab7b4317"
     },
     {
-      "date": "Le lundi 15 juin 2026 de  12:00:00 à  15:00:00",
+      "date": "Le lundi 15 juin 2026 de  12:00:00 à  17:15:00",
       "locality": "GRAND GAUBE",
       "localitySlug": "grand-gaube",
       "streets": "ENTIERE REGION DE GRAND GAUBE",
       "district": "rivieredurempart",
       "from": "2026-06-15T08:00:00.000Z",
-      "to": "2026-06-15T11:00:00.000Z",
-      "id": "5be6a08d9be357ad90a12a2aac4178a7"
+      "to": "2026-06-15T13:15:00.000Z",
+      "id": "9bcfab8d917c69e2cdcf15889d9f31a0"
     },
     {
-      "date": "Le lundi 15 juin 2026 de  12:00:00 à  15:00:00",
+      "date": "Le lundi 15 juin 2026 de  12:00:00 à  17:15:00",
       "locality": "CALODYNE",
       "localitySlug": "calodyne",
       "streets": "ENTIERE REGION DE CALODYNE, ST FRANCOIS ET BUTTE A LHERBE",
       "district": "rivieredurempart",
       "from": "2026-06-15T08:00:00.000Z",
-      "to": "2026-06-15T11:00:00.000Z",
-      "id": "cf4d5d5c34a3b06bf95ad0ef4ce80704"
+      "to": "2026-06-15T13:15:00.000Z",
+      "id": "ff14ba95498697f16c7e98f8c4cd8fc7"
     }
   ]
 }

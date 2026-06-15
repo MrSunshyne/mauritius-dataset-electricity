@@ -2,11 +2,18 @@
   "slug": "telfair-moka",
   "name": "TELFAIR- MOKA",
   "district": "moka",
-  "generated": "2026-06-15T10:01:10.992Z",
-  "outageCount": 4,
+  "generated": "2026-06-15T12:59:56.656Z",
+  "outageCount": 5,
   "firstOutage": "2023-05-15",
-  "lastOutage": "2026-01-20",
+  "lastOutage": "2026-06-15",
   "outages": [
+    {
+      "date": "Le lundi 15 juin 2026 de  14:00:00 à  17:00:00",
+      "streets": "CITE TELFAIR, PWC & SURROUNDINGS",
+      "from": "2026-06-15T10:00:00.000Z",
+      "to": "2026-06-15T13:00:00.000Z",
+      "id": "8e908eb40537646bb4dd20a3487d7af3"
+    },
     {
       "date": "Le mardi 20 janvier 2026 de  13:30:00 à  16:00:00",
       "streets": "TELFAIR MOKA",

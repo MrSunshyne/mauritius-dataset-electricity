@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-06-15T10:01:10.979Z",
-  "outageCount": 226,
+  "generated": "2026-06-15T12:59:56.645Z",
+  "outageCount": 227,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-06-14",
+  "lastOutage": "2026-06-16",
   "outages": [
+    {
+      "date": "Le mardi 16 juin 2026 de  08:30:00 à  12:00:00",
+      "streets": "Quatre Vents, Dans Samy, Montagne Tonerre",
+      "from": "2026-06-16T04:30:00.000Z",
+      "to": "2026-06-16T08:00:00.000Z",
+      "id": "354d27a465bf33b0ccf29c8afc758b98"
+    },
     {
       "date": "Le dimanche 14 juin 2026 de  08:30:00 à  15:30:00",
       "streets": "PATATE THEOPHILE ET TROIS SOLEIL",

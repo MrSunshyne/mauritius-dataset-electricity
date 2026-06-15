@@ -1,0 +1,28 @@
+{
+  "date": "2026-06-16",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-06-15T12:59:56.523Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mardi 16 juin 2026 de  09:00:00 à  15:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "Morc Raffray, Morc Beerjeeraz, Morc Belle Vue, Ave Ouragan, Ave Victory, Ave St Geran, Ave Shebeck, Ave Brick Empire, Ave Bounty, Ave Albatross, Ave Dahlia, Ave Tulipes, Ave Frangipane, Ave Rose, Ave Oeillets et les environs",
+      "district": "blackriver",
+      "from": "2026-06-16T05:00:00.000Z",
+      "to": "2026-06-16T11:00:00.000Z",
+      "id": "3441dce9cd6c80a7c72547129db8f028"
+    },
+    {
+      "date": "Le mardi 16 juin 2026 de  08:30:00 à  12:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Quatre Vents, Dans Samy, Montagne Tonerre",
+      "district": "rodrigues",
+      "from": "2026-06-16T04:30:00.000Z",
+      "to": "2026-06-16T08:00:00.000Z",
+      "id": "354d27a465bf33b0ccf29c8afc758b98"
+    }
+  ]
+}

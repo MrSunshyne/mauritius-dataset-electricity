@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-15T10:01:11.004Z",
+  "generated": "2026-06-15T12:59:56.669Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -25,10 +25,10 @@
       "slug": "albion",
       "name": "ALBION",
       "district": "blackriver",
-      "outageCount": 117,
+      "outageCount": 118,
       "file": "albion.json",
       "firstOutage": "2022-06-06",
-      "lastOutage": "2026-06-11"
+      "lastOutage": "2026-06-16"
     },
     {
       "slug": "allee-brillant-castel",
@@ -826,10 +826,10 @@
       "slug": "camp-marcelin",
       "name": "CAMP MARCELIN",
       "district": "moka",
-      "outageCount": 6,
+      "outageCount": 7,
       "file": "camp-marcelin.json",
       "firstOutage": "2023-04-16",
-      "lastOutage": "2026-05-15"
+      "lastOutage": "2026-06-17"
     },
     {
       "slug": "camp-pecheurs",
@@ -3490,10 +3490,10 @@
       "slug": "rodrigues",
       "name": "RODRIGUES",
       "district": "rodrigues",
-      "outageCount": 226,
+      "outageCount": 227,
       "file": "rodrigues.json",
       "firstOutage": "2022-03-15",
-      "lastOutage": "2026-06-14"
+      "lastOutage": "2026-06-16"
     },
     {
       "slug": "rose-belle",
@@ -3805,10 +3805,10 @@
       "slug": "telfair-moka",
       "name": "TELFAIR- MOKA",
       "district": "moka",
-      "outageCount": 4,
+      "outageCount": 5,
       "file": "telfair-moka.json",
       "firstOutage": "2023-05-15",
-      "lastOutage": "2026-01-20"
+      "lastOutage": "2026-06-15"
     },
     {
       "slug": "terracine",

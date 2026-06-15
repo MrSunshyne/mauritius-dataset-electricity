@@ -2,11 +2,18 @@
   "slug": "albion",
   "name": "ALBION",
   "district": "blackriver",
-  "generated": "2026-06-15T10:01:10.875Z",
-  "outageCount": 117,
+  "generated": "2026-06-15T12:59:56.540Z",
+  "outageCount": 118,
   "firstOutage": "2022-06-06",
-  "lastOutage": "2026-06-11",
+  "lastOutage": "2026-06-16",
   "outages": [
+    {
+      "date": "Le mardi 16 juin 2026 de  09:00:00 à  15:00:00",
+      "streets": "Morc Raffray, Morc Beerjeeraz, Morc Belle Vue, Ave Ouragan, Ave Victory, Ave St Geran, Ave Shebeck, Ave Brick Empire, Ave Bounty, Ave Albatross, Ave Dahlia, Ave Tulipes, Ave Frangipane, Ave Rose, Ave Oeillets et les environs",
+      "from": "2026-06-16T05:00:00.000Z",
+      "to": "2026-06-16T11:00:00.000Z",
+      "id": "3441dce9cd6c80a7c72547129db8f028"
+    },
     {
       "date": "Le jeudi 11 juin 2026 de  15:30:00 à  16:45:00",
       "streets": "En Partie Morc de Chazal, Ave Empereur, Ave Mullet, Ave Baracuda, Ave Marlin, Fisheries Albion, Oceanography, Club Med, Seascape Apartment, IRS West Coast et les environs",
