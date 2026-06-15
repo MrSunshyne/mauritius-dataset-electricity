@@ -2,11 +2,18 @@
   "slug": "trefles",
   "name": "TREFLES",
   "district": "plainewilhems",
-  "generated": "2026-06-14T18:23:45.930Z",
-  "outageCount": 17,
+  "generated": "2026-06-15T07:47:05.337Z",
+  "outageCount": 18,
   "firstOutage": "2022-09-25",
-  "lastOutage": "2025-12-14",
+  "lastOutage": "2026-06-15",
   "outages": [
+    {
+      "date": "Le lundi 15 juin 2026 de  10:45:00 à  13:45:00",
+      "streets": "TREFLES/CORP DES GARDES",
+      "from": "2026-06-15T06:45:00.000Z",
+      "to": "2026-06-15T09:45:00.000Z",
+      "id": "3cf463c415fb321359ef2019d457e53e"
+    },
     {
       "date": "Le dimanche 14 décembre 2025 de  08:00:00 à  12:30:00",
       "streets": "CACTUS/CANDA LANE BOUNDARY TREFLES",

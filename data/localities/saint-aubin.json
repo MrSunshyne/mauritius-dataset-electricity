@@ -2,11 +2,18 @@
   "slug": "saint-aubin",
   "name": "SAINT AUBIN",
   "district": "savanne",
-  "generated": "2026-06-14T18:23:45.921Z",
-  "outageCount": 18,
+  "generated": "2026-06-15T07:47:05.326Z",
+  "outageCount": 19,
   "firstOutage": "2022-12-03",
-  "lastOutage": "2026-01-25",
+  "lastOutage": "2026-06-18",
   "outages": [
+    {
+      "date": "Le jeudi 18 juin 2026 de  09:00:00 à  15:00:00",
+      "streets": "Ducomer Union St. Aubin et Staff Quarters Union St. Aubin",
+      "from": "2026-06-18T05:00:00.000Z",
+      "to": "2026-06-18T11:00:00.000Z",
+      "id": "925b3d834f6bf5c57d1c59dbce2989c8"
+    },
     {
       "date": "Le dimanche 25 janvier 2026 de  09:00:00 à  15:00:00",
       "streets": "Le village de St Aubin et de Rivières Des Anguilles de la région et périmètre de Senneville Road, Prud’homme Road, Maisonnette Road, Railway Road, Morc. BASF, ainsi qu’une partie de la Route Royale",

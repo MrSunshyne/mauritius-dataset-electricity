@@ -1,8 +1,8 @@
 {
   "date": "2026-06-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-14T18:23:45.807Z",
-  "outageCount": 4,
+  "generated": "2026-06-15T07:47:05.196Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le lundi 15 juin 2026 de  12:00:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-06-15T08:00:00.000Z",
       "to": "2026-06-15T11:00:00.000Z",
       "id": "505a04f0f18542b0a0d501252efcd24b"
+    },
+    {
+      "date": "Le lundi 15 juin 2026 de  10:45:00 à  13:45:00",
+      "locality": "TREFLES",
+      "localitySlug": "trefles",
+      "streets": "TREFLES/CORP DES GARDES",
+      "district": "plainewilhems",
+      "from": "2026-06-15T06:45:00.000Z",
+      "to": "2026-06-15T09:45:00.000Z",
+      "id": "3cf463c415fb321359ef2019d457e53e"
     },
     {
       "date": "Le lundi 15 juin 2026 de  08:30:00 à  12:30:00",
