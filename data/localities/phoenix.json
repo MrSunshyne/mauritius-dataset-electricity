@@ -2,11 +2,18 @@
   "slug": "phoenix",
   "name": "PHOENIX",
   "district": "plainewilhems",
-  "generated": "2026-06-15T19:13:36.432Z",
-  "outageCount": 108,
+  "generated": "2026-06-16T07:48:31.697Z",
+  "outageCount": 109,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-06-14",
+  "lastOutage": "2026-06-21",
   "outages": [
+    {
+      "date": "Le dimanche 21 juin 2026 de  08:30:00 à  16:00:00",
+      "streets": "Imperial Garden,  Candos Leisure Park Avenue, Phoenix Heights Appartments, Hillcrest Appartments, Phoenix Resisdence Appartments, Morcellement Societe Parkland, J & J Auditorium, Pet Concern, GIBBS, Auto City Car Showroom, Premium Care Clinic, Jayson Network, Ltd, Socota Phoenicia, Cavendish Institute",
+      "from": "2026-06-21T04:30:00.000Z",
+      "to": "2026-06-21T12:00:00.000Z",
+      "id": "2cb08ee441d626348a31b52db4345e4f"
+    },
     {
       "date": "Le dimanche 14 juin 2026 de  12:00:00 à  14:00:00",
       "streets": "PHOENIX HEIGHTS",

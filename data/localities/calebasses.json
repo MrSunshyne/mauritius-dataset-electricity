@@ -2,11 +2,18 @@
   "slug": "calebasses",
   "name": "CALEBASSES",
   "district": "pamplemousses",
-  "generated": "2026-06-15T19:13:36.366Z",
-  "outageCount": 36,
+  "generated": "2026-06-16T07:48:31.626Z",
+  "outageCount": 37,
   "firstOutage": "2022-05-15",
-  "lastOutage": "2026-06-09",
+  "lastOutage": "2026-06-16",
   "outages": [
+    {
+      "date": "Le mardi 16 juin 2026 de  09:55:00 à  14:00:00",
+      "streets": "BADAMIER RD",
+      "from": "2026-06-16T05:55:00.000Z",
+      "to": "2026-06-16T10:00:00.000Z",
+      "id": "b621ee824c17408b76692819999aa504"
+    },
     {
       "date": "Le mardi 9 juin 2026 de  15:00:00 à  16:00:00",
       "streets": "UNE PARTIE DE CALBASSE EN DIRECTION DE PAMPLEMOUSSES",

@@ -2,11 +2,18 @@
   "slug": "flic-en-flac",
   "name": "FLIC-EN-FLAC",
   "district": "blackriver",
-  "generated": "2026-06-15T19:13:36.389Z",
-  "outageCount": 224,
+  "generated": "2026-06-16T07:48:31.650Z",
+  "outageCount": 225,
   "firstOutage": "2022-03-16",
-  "lastOutage": "2026-06-14",
+  "lastOutage": "2026-06-17",
   "outages": [
+    {
+      "date": "Le mercredi 17 juin 2026 de  09:00:00 à  12:30:00",
+      "streets": "MORC DE CHAZAL-AVE DES PELICANS, AVE DES OIES, AVE DES TOURTEREAUX ET AVE DES PIVERTS",
+      "from": "2026-06-17T05:00:00.000Z",
+      "to": "2026-06-17T08:30:00.000Z",
+      "id": "f7f44a1c8a5c2321e036b4488dad2556"
+    },
     {
       "date": "Le dimanche 14 juin 2026 de  08:30:00 à  14:00:00",
       "streets": "MORCELLEMENT ST JACQUES, AVE ST PAUL, AVE ST PIERRE, AVE ST JACQUES, LES APPARTEMENTS MAHINA SUNSET HEIGHTS, STONE & SCONE ET MORCELLEMENT ANNA, AVE DES MARSOUINS ET APPARTEMENT RAMPHUL",

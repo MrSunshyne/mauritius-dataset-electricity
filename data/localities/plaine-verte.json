@@ -2,11 +2,18 @@
   "slug": "plaine-verte",
   "name": "PLAINE VERTE",
   "district": "portlouis",
-  "generated": "2026-06-15T19:13:36.435Z",
-  "outageCount": 32,
+  "generated": "2026-06-16T07:48:31.700Z",
+  "outageCount": 33,
   "firstOutage": "2022-12-21",
-  "lastOutage": "2026-06-07",
+  "lastOutage": "2026-06-16",
   "outages": [
+    {
+      "date": "Le mardi 16 juin 2026 de  11:20:00 à  12:00:00",
+      "streets": "PAGODA ST, PAUL & VIRGINIE ST ET LES ALENTOURS",
+      "from": "2026-06-16T07:20:00.000Z",
+      "to": "2026-06-16T08:00:00.000Z",
+      "id": "2db688a4f0d1f6510ec6798cca70ba24"
+    },
     {
       "date": "Le dimanche 7 juin 2026 de  08:30:00 à  14:00:00",
       "streets": "DANS LES ENVIRONS DES RUES CANAL BATHURST, GHOON, KARIKAL ET HASSEN HUSSEIN",

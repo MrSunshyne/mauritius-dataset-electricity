@@ -1,9 +1,29 @@
 {
   "date": "2026-06-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-15T19:13:36.333Z",
-  "outageCount": 1,
+  "generated": "2026-06-16T07:48:31.587Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le jeudi 18 juin 2026 de  09:00:00 à  17:00:00",
+      "locality": "RIVIERE DU POSTE",
+      "localitySlug": "riviere-du-poste",
+      "streets": "Riviere Du Poste et de Joli Bois",
+      "district": "grandport",
+      "from": "2026-06-18T05:00:00.000Z",
+      "to": "2026-06-18T13:00:00.000Z",
+      "id": "33ad55f34917522b6668fb5585e90ae1"
+    },
+    {
+      "date": "Le jeudi 18 juin 2026 de  14:00:00 à  17:00:00",
+      "locality": "PAILLOTTE",
+      "localitySlug": "paillotte",
+      "streets": "une partie de Candos, Vacoas Road, une partie de Solférino NO. 4, Impasse Bécassine",
+      "district": "plainewilhems",
+      "from": "2026-06-18T10:00:00.000Z",
+      "to": "2026-06-18T13:00:00.000Z",
+      "id": "fb7cb56eaec159aa77d7059decd22438"
+    },
     {
       "date": "Le jeudi 18 juin 2026 de  09:00:00 à  15:00:00",
       "locality": "SAINT AUBIN",

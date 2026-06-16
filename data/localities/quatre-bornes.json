@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-06-15T19:13:36.443Z",
-  "outageCount": 382,
+  "generated": "2026-06-16T07:48:31.708Z",
+  "outageCount": 383,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-06-11",
+  "lastOutage": "2026-06-16",
   "outages": [
+    {
+      "date": "Le mardi 16 juin 2026 de  10:30:00 à  13:00:00",
+      "streets": "AVENUE BUSWELL-AVE DOYAN QUATRE BORNES",
+      "from": "2026-06-16T06:30:00.000Z",
+      "to": "2026-06-16T09:00:00.000Z",
+      "id": "4b410b74b2a78c41cf4746bdafedf635"
+    },
     {
       "date": "Le jeudi 11 juin 2026 de  16:00:00 à  18:00:00",
       "streets": "Ave dEpinay, Hennessy et les environs",

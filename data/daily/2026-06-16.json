@@ -1,8 +1,8 @@
 {
   "date": "2026-06-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-15T19:13:36.333Z",
-  "outageCount": 2,
+  "generated": "2026-06-16T07:48:31.586Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le mardi 16 juin 2026 de  09:00:00 à  15:00:00",
@@ -13,6 +13,46 @@
       "from": "2026-06-16T05:00:00.000Z",
       "to": "2026-06-16T11:00:00.000Z",
       "id": "3441dce9cd6c80a7c72547129db8f028"
+    },
+    {
+      "date": "Le mardi 16 juin 2026 de  11:25:00 à  13:30:00",
+      "locality": "RIVIERE DES CREOLES",
+      "localitySlug": "riviere-des-creoles",
+      "streets": "MORC RIVERSIDE, ROYAL RD ET LES ALENTOURS",
+      "district": "grandport",
+      "from": "2026-06-16T07:25:00.000Z",
+      "to": "2026-06-16T09:30:00.000Z",
+      "id": "c907cbbbef27aafe24baff622d1946fa"
+    },
+    {
+      "date": "Le mardi 16 juin 2026 de  09:55:00 à  14:00:00",
+      "locality": "CALEBASSES",
+      "localitySlug": "calebasses",
+      "streets": "BADAMIER RD",
+      "district": "pamplemousses",
+      "from": "2026-06-16T05:55:00.000Z",
+      "to": "2026-06-16T10:00:00.000Z",
+      "id": "b621ee824c17408b76692819999aa504"
+    },
+    {
+      "date": "Le mardi 16 juin 2026 de  10:30:00 à  13:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVENUE BUSWELL-AVE DOYAN QUATRE BORNES",
+      "district": "plainewilhems",
+      "from": "2026-06-16T06:30:00.000Z",
+      "to": "2026-06-16T09:00:00.000Z",
+      "id": "4b410b74b2a78c41cf4746bdafedf635"
+    },
+    {
+      "date": "Le mardi 16 juin 2026 de  11:20:00 à  12:00:00",
+      "locality": "PLAINE VERTE",
+      "localitySlug": "plaine-verte",
+      "streets": "PAGODA ST, PAUL & VIRGINIE ST ET LES ALENTOURS",
+      "district": "portlouis",
+      "from": "2026-06-16T07:20:00.000Z",
+      "to": "2026-06-16T08:00:00.000Z",
+      "id": "2db688a4f0d1f6510ec6798cca70ba24"
     },
     {
       "date": "Le mardi 16 juin 2026 de  08:30:00 à  12:00:00",

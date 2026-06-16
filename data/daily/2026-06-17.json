@@ -1,9 +1,19 @@
 {
   "date": "2026-06-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-15T19:13:36.333Z",
-  "outageCount": 1,
+  "generated": "2026-06-16T07:48:31.587Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le mercredi 17 juin 2026 de  09:00:00 à  12:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC DE CHAZAL-AVE DES PELICANS, AVE DES OIES, AVE DES TOURTEREAUX ET AVE DES PIVERTS",
+      "district": "blackriver",
+      "from": "2026-06-17T05:00:00.000Z",
+      "to": "2026-06-17T08:30:00.000Z",
+      "id": "f7f44a1c8a5c2321e036b4488dad2556"
+    },
     {
       "date": "Le mercredi 17 juin 2026 de  08:45:00 à  17:00:00",
       "locality": "CAMP MARCELIN",

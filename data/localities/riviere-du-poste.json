@@ -2,11 +2,18 @@
   "slug": "riviere-du-poste",
   "name": "RIVIERE DU POSTE",
   "district": "grandport",
-  "generated": "2026-06-15T19:13:36.450Z",
-  "outageCount": 17,
+  "generated": "2026-06-16T07:48:31.715Z",
+  "outageCount": 18,
   "firstOutage": "2022-09-24",
-  "lastOutage": "2026-05-21",
+  "lastOutage": "2026-06-18",
   "outages": [
+    {
+      "date": "Le jeudi 18 juin 2026 de  09:00:00 à  17:00:00",
+      "streets": "Riviere Du Poste et de Joli Bois",
+      "from": "2026-06-18T05:00:00.000Z",
+      "to": "2026-06-18T13:00:00.000Z",
+      "id": "33ad55f34917522b6668fb5585e90ae1"
+    },
     {
       "date": "Le jeudi 21 mai 2026 de  09:00:00 à  16:00:00",
       "streets": "Riviere Du Poste et périmètre de Camp Siajee, Cemetery Road, Boodhoo Lane, Sookal Lane",

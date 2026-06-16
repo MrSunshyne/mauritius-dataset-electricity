@@ -2,11 +2,18 @@
   "slug": "paillotte",
   "name": "PAILLOTTE",
   "district": "plainewilhems",
-  "generated": "2026-06-15T19:13:36.425Z",
-  "outageCount": 13,
+  "generated": "2026-06-16T07:48:31.690Z",
+  "outageCount": 14,
   "firstOutage": "2023-11-22",
-  "lastOutage": "2026-05-14",
+  "lastOutage": "2026-06-18",
   "outages": [
+    {
+      "date": "Le jeudi 18 juin 2026 de  14:00:00 à  17:00:00",
+      "streets": "une partie de Candos, Vacoas Road, une partie de Solférino NO. 4, Impasse Bécassine",
+      "from": "2026-06-18T10:00:00.000Z",
+      "to": "2026-06-18T13:00:00.000Z",
+      "id": "fb7cb56eaec159aa77d7059decd22438"
+    },
     {
       "date": "Le jeudi 14 mai 2026 de  13:00:00 à  14:30:00",
       "streets": "RUGHOO LANE PAILLOTTE",
