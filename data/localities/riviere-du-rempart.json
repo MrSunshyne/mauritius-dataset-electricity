@@ -2,11 +2,18 @@
   "slug": "riviere-du-rempart",
   "name": "RIVIERE DU REMPART",
   "district": "rivieredurempart",
-  "generated": "2026-06-16T09:41:45.329Z",
-  "outageCount": 63,
+  "generated": "2026-06-16T11:43:04.243Z",
+  "outageCount": 64,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-06-04",
+  "lastOutage": "2026-06-16",
   "outages": [
+    {
+      "date": "Le mardi 16 juin 2026 de  15:00:00 à  17:30:00",
+      "streets": "RIVIERE DU REMPART NEAR BUS STATION/FARMERS CENTRE",
+      "from": "2026-06-16T11:00:00.000Z",
+      "to": "2026-06-16T13:30:00.000Z",
+      "id": "16dcfa23a22d23d452d145f9288f9906"
+    },
     {
       "date": "Le jeudi 4 juin 2026 de  18:00:00 à  22:00:00",
       "streets": "PANCHAVATI ET POULTRY RASMALLY ILE D-AMBRE.",

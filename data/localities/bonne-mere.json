@@ -2,11 +2,18 @@
   "slug": "bonne-mere",
   "name": "BONNE MERE",
   "district": "flacq",
-  "generated": "2026-06-16T09:41:45.247Z",
-  "outageCount": 14,
+  "generated": "2026-06-16T11:43:04.164Z",
+  "outageCount": 15,
   "firstOutage": "2022-08-14",
-  "lastOutage": "2026-04-28",
+  "lastOutage": "2026-06-16",
   "outages": [
+    {
+      "date": "Le mardi 16 juin 2026 de  12:00:00 à  16:00:00",
+      "streets": "ROYAL ROAD BONNE MERE",
+      "from": "2026-06-16T08:00:00.000Z",
+      "to": "2026-06-16T12:00:00.000Z",
+      "id": "cc18a92603f13877c859ba22b145b3d3"
+    },
     {
       "date": "Le mardi 28 avril 2026 de  08:45:00 à  16:00:00",
       "streets": "BONNE MERE VILLAGE ET NHDC",

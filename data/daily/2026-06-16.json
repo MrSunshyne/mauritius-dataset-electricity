@@ -1,8 +1,8 @@
 {
   "date": "2026-06-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-16T09:41:45.213Z",
-  "outageCount": 6,
+  "generated": "2026-06-16T11:43:04.132Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le mardi 16 juin 2026 de  09:00:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-06-16T05:00:00.000Z",
       "to": "2026-06-16T11:00:00.000Z",
       "id": "3441dce9cd6c80a7c72547129db8f028"
+    },
+    {
+      "date": "Le mardi 16 juin 2026 de  12:00:00 à  16:00:00",
+      "locality": "BONNE MERE",
+      "localitySlug": "bonne-mere",
+      "streets": "ROYAL ROAD BONNE MERE",
+      "district": "flacq",
+      "from": "2026-06-16T08:00:00.000Z",
+      "to": "2026-06-16T12:00:00.000Z",
+      "id": "cc18a92603f13877c859ba22b145b3d3"
     },
     {
       "date": "Le mardi 16 juin 2026 de  11:25:00 à  13:30:00",
@@ -53,6 +63,16 @@
       "from": "2026-06-16T07:20:00.000Z",
       "to": "2026-06-16T08:00:00.000Z",
       "id": "2db688a4f0d1f6510ec6798cca70ba24"
+    },
+    {
+      "date": "Le mardi 16 juin 2026 de  15:00:00 à  17:30:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "RIVIERE DU REMPART NEAR BUS STATION/FARMERS CENTRE",
+      "district": "rivieredurempart",
+      "from": "2026-06-16T11:00:00.000Z",
+      "to": "2026-06-16T13:30:00.000Z",
+      "id": "16dcfa23a22d23d452d145f9288f9906"
     },
     {
       "date": "Le mardi 16 juin 2026 de  08:30:00 à  12:00:00",
