@@ -1,9 +1,19 @@
 {
   "date": "2026-06-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-17T11:30:16.596Z",
-  "outageCount": 2,
+  "generated": "2026-06-17T13:06:04.702Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le dimanche 21 juin 2026 de  08:15:00 à  16:00:00",
+      "locality": "GRANDE RETRAITE",
+      "localitySlug": "grande-retraite",
+      "streets": "GRANDE RETRAITE, BON ACCUEIL DANS LE PERIMETRE DE LA POSTE, S.S.S ET GYMNASE, ISCKON ET UNE PARTIE DE SACHU COOLEN RD.",
+      "district": "flacq",
+      "from": "2026-06-21T04:15:00.000Z",
+      "to": "2026-06-21T12:00:00.000Z",
+      "id": "b7b56bea088c4f494d196de371bedc15"
+    },
     {
       "date": "Le dimanche 21 juin 2026 de  08:30:00 à  15:00:00",
       "locality": "TOMBEAU BAY",

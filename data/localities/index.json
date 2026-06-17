@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-17T11:30:16.743Z",
+  "generated": "2026-06-17T13:06:04.871Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -1663,10 +1663,10 @@
       "slug": "grande-retraite",
       "name": "GRANDE RETRAITE",
       "district": "flacq",
-      "outageCount": 7,
+      "outageCount": 8,
       "file": "grande-retraite.json",
       "firstOutage": "2024-02-11",
-      "lastOutage": "2026-01-07"
+      "lastOutage": "2026-06-21"
     },
     {
       "slug": "grande-riviere-sud-est",
@@ -2788,10 +2788,10 @@
       "slug": "petit-raffray",
       "name": "PETIT RAFFRAY",
       "district": "rivieredurempart",
-      "outageCount": 82,
+      "outageCount": 83,
       "file": "petit-raffray.json",
       "firstOutage": "2022-03-25",
-      "lastOutage": "2026-06-05"
+      "lastOutage": "2026-06-17"
     },
     {
       "slug": "petit-sable",
