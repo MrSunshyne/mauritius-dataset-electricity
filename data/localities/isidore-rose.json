@@ -2,11 +2,18 @@
   "slug": "isidore-rose",
   "name": "ISIDORE ROSE",
   "district": "flacq",
-  "generated": "2026-06-16T19:07:40.384Z",
-  "outageCount": 14,
+  "generated": "2026-06-17T07:39:59.747Z",
+  "outageCount": 15,
   "firstOutage": "2022-05-09",
-  "lastOutage": "2025-04-07",
+  "lastOutage": "2026-06-17",
   "outages": [
+    {
+      "date": "Le mercredi 17 juin 2026 de  10:30:00 à  14:30:00",
+      "streets": "ISIDORE ROSE",
+      "from": "2026-06-17T06:30:00.000Z",
+      "to": "2026-06-17T10:30:00.000Z",
+      "id": "d5f450933d75334e2aba7fd95f853f3d"
+    },
     {
       "date": "Le lundi 7 avril 2025 de  09:30:00 à  11:00:00",
       "streets": "Village de Isidore Rose, Camp Marcelin, Quatre Cocos et Palmar",

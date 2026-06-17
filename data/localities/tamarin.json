@@ -2,11 +2,18 @@
   "slug": "tamarin",
   "name": "TAMARIN",
   "district": "blackriver",
-  "generated": "2026-06-16T19:07:40.442Z",
-  "outageCount": 75,
+  "generated": "2026-06-17T07:39:59.803Z",
+  "outageCount": 76,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-06-10",
+  "lastOutage": "2026-06-19",
   "outages": [
+    {
+      "date": "Le vendredi 19 juin 2026 de  08:30:00 à  16:30:00",
+      "streets": "AVENUE CAPITAINE, EDC TAMARIN ET VILLAGE TAMARIN",
+      "from": "2026-06-19T04:30:00.000Z",
+      "to": "2026-06-19T12:30:00.000Z",
+      "id": "87b1cbb5a7ab6cf00de4e751cacb9eda"
+    },
     {
       "date": "Le mercredi 10 juin 2026 de  09:00:00 à  12:00:00",
       "streets": "MORC BELOUGET",

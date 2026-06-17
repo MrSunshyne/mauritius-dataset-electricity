@@ -2,11 +2,18 @@
   "slug": "fond-la-bonte",
   "name": "FOND LA BONTE(RODRIGUES)",
   "district": "rodrigues",
-  "generated": "2026-06-16T19:07:40.373Z",
-  "outageCount": 1,
+  "generated": "2026-06-17T07:39:59.736Z",
+  "outageCount": 2,
   "firstOutage": "2024-02-08",
-  "lastOutage": "2024-02-08",
+  "lastOutage": "2026-06-17",
   "outages": [
+    {
+      "date": "Le mercredi 17 juin 2026 de  08:30:00 à  15:00:00",
+      "streets": "Fond la bonte to  Fond Baie aux Huitres",
+      "from": "2026-06-17T04:30:00.000Z",
+      "to": "2026-06-17T11:00:00.000Z",
+      "id": "a9215de06df37fc9370d660809a65e42"
+    },
     {
       "date": "Le jeudi 8 février 2024 de  12:00:00 à  15:30:00",
       "streets": "Fond La Bonte et Fond Baie Aux Huitres",

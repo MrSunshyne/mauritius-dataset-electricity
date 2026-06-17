@@ -2,11 +2,25 @@
   "slug": "grand-bois",
   "name": "GRAND BOIS",
   "district": "savanne",
-  "generated": "2026-06-16T19:07:40.377Z",
-  "outageCount": 19,
+  "generated": "2026-06-17T07:39:59.740Z",
+  "outageCount": 21,
   "firstOutage": "2022-09-15",
-  "lastOutage": "2026-05-25",
+  "lastOutage": "2026-06-17",
   "outages": [
+    {
+      "date": "Le mercredi 17 juin 2026 de  12:30:00 à  13:30:00",
+      "streets": "Morc Grand Bois",
+      "from": "2026-06-17T08:30:00.000Z",
+      "to": "2026-06-17T09:30:00.000Z",
+      "id": "7468af7cf516a03b82efe1553c16ad60"
+    },
+    {
+      "date": "Le mercredi 17 juin 2026 de  10:15:00 à  11:45:00",
+      "streets": "Tivoli towards Camp Banane",
+      "from": "2026-06-17T06:15:00.000Z",
+      "to": "2026-06-17T07:45:00.000Z",
+      "id": "5b77e77ff0f6f94c131590384501a72d"
+    },
     {
       "date": "Le lundi 25 mai 2026 de  05:45:00 à  13:00:00",
       "streets": "Legrand,Royal Roads,Nr CAB",

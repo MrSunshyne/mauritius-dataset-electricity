@@ -1,9 +1,29 @@
 {
   "date": "2026-06-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-16T19:07:40.318Z",
-  "outageCount": 3,
+  "generated": "2026-06-17T07:39:59.680Z",
+  "outageCount": 6,
   "outages": [
+    {
+      "date": "Le jeudi 18 juin 2026 de  09:00:00 à  15:30:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "Astrolab, Cutty Shark, Constitution, Flat Astrolux et les environs",
+      "district": "blackriver",
+      "from": "2026-06-18T05:00:00.000Z",
+      "to": "2026-06-18T11:30:00.000Z",
+      "id": "e4b7f06343310f5506bade329678a1cf"
+    },
+    {
+      "date": "Le jeudi 18 juin 2026 de  15:00:00 à  15:30:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "Morc Raffray, Morc Beerjeeraz, Morc Belle Vue, Ave Ouragan, Ave Victory, Ave St Geran, Ave Bounty, Ave Albatross, Ave Dahlia, Ave Tulipes, Ave Frangipane, Ave Rose, Ave Oeillets et les environs",
+      "district": "blackriver",
+      "from": "2026-06-18T11:00:00.000Z",
+      "to": "2026-06-18T11:30:00.000Z",
+      "id": "19a85c8944523aeb77a55cdd5845d356"
+    },
     {
       "date": "Le jeudi 18 juin 2026 de  09:00:00 à  17:00:00",
       "locality": "RIVIERE DU POSTE",
@@ -23,6 +43,16 @@
       "from": "2026-06-18T10:00:00.000Z",
       "to": "2026-06-18T13:00:00.000Z",
       "id": "fb7cb56eaec159aa77d7059decd22438"
+    },
+    {
+      "date": "Le jeudi 18 juin 2026 de  08:30:00 à  14:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Pumping Station Engen, Indian Oil,Shell ,Mc Donald and Watchman Quarters at La Vigie",
+      "district": "plainewilhems",
+      "from": "2026-06-18T04:30:00.000Z",
+      "to": "2026-06-18T10:00:00.000Z",
+      "id": "347670210a7f0de22f27ec2bbac5e816"
     },
     {
       "date": "Le jeudi 18 juin 2026 de  09:00:00 à  15:00:00",

@@ -2,11 +2,25 @@
   "slug": "albion",
   "name": "ALBION",
   "district": "blackriver",
-  "generated": "2026-06-16T19:07:40.334Z",
-  "outageCount": 118,
+  "generated": "2026-06-17T07:39:59.696Z",
+  "outageCount": 120,
   "firstOutage": "2022-06-06",
-  "lastOutage": "2026-06-16",
+  "lastOutage": "2026-06-18",
   "outages": [
+    {
+      "date": "Le jeudi 18 juin 2026 de  15:00:00 à  15:30:00",
+      "streets": "Morc Raffray, Morc Beerjeeraz, Morc Belle Vue, Ave Ouragan, Ave Victory, Ave St Geran, Ave Bounty, Ave Albatross, Ave Dahlia, Ave Tulipes, Ave Frangipane, Ave Rose, Ave Oeillets et les environs",
+      "from": "2026-06-18T11:00:00.000Z",
+      "to": "2026-06-18T11:30:00.000Z",
+      "id": "19a85c8944523aeb77a55cdd5845d356"
+    },
+    {
+      "date": "Le jeudi 18 juin 2026 de  09:00:00 à  15:30:00",
+      "streets": "Astrolab, Cutty Shark, Constitution, Flat Astrolux et les environs",
+      "from": "2026-06-18T05:00:00.000Z",
+      "to": "2026-06-18T11:30:00.000Z",
+      "id": "e4b7f06343310f5506bade329678a1cf"
+    },
     {
       "date": "Le mardi 16 juin 2026 de  09:00:00 à  15:00:00",
       "streets": "Morc Raffray, Morc Beerjeeraz, Morc Belle Vue, Ave Ouragan, Ave Victory, Ave St Geran, Ave Shebeck, Ave Brick Empire, Ave Bounty, Ave Albatross, Ave Dahlia, Ave Tulipes, Ave Frangipane, Ave Rose, Ave Oeillets et les environs",
