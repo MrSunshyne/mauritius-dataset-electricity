@@ -2,11 +2,18 @@
   "slug": "belle-terre",
   "name": "BELLE TERRE",
   "district": "plainewilhems",
-  "generated": "2026-06-17T09:30:03.624Z",
-  "outageCount": 10,
+  "generated": "2026-06-17T11:30:16.628Z",
+  "outageCount": 11,
   "firstOutage": "2023-08-25",
-  "lastOutage": "2026-05-27",
+  "lastOutage": "2026-06-20",
   "outages": [
+    {
+      "date": "Le samedi 20 juin 2026 de  08:30:00 à  12:00:00",
+      "streets": "BELLE TERRE VILLAGE",
+      "from": "2026-06-20T04:30:00.000Z",
+      "to": "2026-06-20T08:00:00.000Z",
+      "id": "3c5a43f188f4aa01ed25ef86e795eec1"
+    },
     {
       "date": "Le mercredi 27 mai 2026 de  10:00:00 à  14:00:00",
       "streets": "MORC BELLE TERRE",

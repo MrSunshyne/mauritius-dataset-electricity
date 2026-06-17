@@ -1,8 +1,8 @@
 {
   "date": "2026-06-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-17T09:30:03.592Z",
-  "outageCount": 6,
+  "generated": "2026-06-17T11:30:16.596Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le jeudi 18 juin 2026 de  09:00:00 à  15:30:00",
@@ -23,6 +23,26 @@
       "from": "2026-06-18T11:00:00.000Z",
       "to": "2026-06-18T11:30:00.000Z",
       "id": "19a85c8944523aeb77a55cdd5845d356"
+    },
+    {
+      "date": "Le jeudi 18 juin 2026 de  11:00:00 à  13:00:00",
+      "locality": "BELLE ROSE ( CLEMENCIA )",
+      "localitySlug": "belle-rose",
+      "streets": "CWA, Mont Ida Poultry et Belle Rose Poultry.",
+      "district": "flacq",
+      "from": "2026-06-18T07:00:00.000Z",
+      "to": "2026-06-18T09:00:00.000Z",
+      "id": "4655319ecbfa27a9fe3ac952310906f5"
+    },
+    {
+      "date": "Le jeudi 18 juin 2026 de  08:45:00 à  10:30:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "Route Royale, Rustom Rd, Ave Victoire, Camp La Serpe, SupermarchE de Winners, SupermarchE de Jawaheer, Government School, Railway Rd, Morc Roy et une partie de Pont Lardier.",
+      "district": "flacq",
+      "from": "2026-06-18T04:45:00.000Z",
+      "to": "2026-06-18T06:30:00.000Z",
+      "id": "0063377cf9eaddcab6ebe39b9c460fc4"
     },
     {
       "date": "Le jeudi 18 juin 2026 de  09:00:00 à  17:00:00",

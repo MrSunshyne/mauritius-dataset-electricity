@@ -2,11 +2,18 @@
   "slug": "bel-air",
   "name": "BEL AIR",
   "district": "flacq",
-  "generated": "2026-06-17T09:30:03.622Z",
-  "outageCount": 64,
+  "generated": "2026-06-17T11:30:16.626Z",
+  "outageCount": 65,
   "firstOutage": "2022-06-04",
-  "lastOutage": "2026-06-03",
+  "lastOutage": "2026-06-18",
   "outages": [
+    {
+      "date": "Le jeudi 18 juin 2026 de  08:45:00 à  10:30:00",
+      "streets": "Route Royale, Rustom Rd, Ave Victoire, Camp La Serpe, SupermarchE de Winners, SupermarchE de Jawaheer, Government School, Railway Rd, Morc Roy et une partie de Pont Lardier.",
+      "from": "2026-06-18T04:45:00.000Z",
+      "to": "2026-06-18T06:30:00.000Z",
+      "id": "0063377cf9eaddcab6ebe39b9c460fc4"
+    },
     {
       "date": "Le mercredi 3 juin 2026 de  16:00:00 à  18:00:00",
       "streets": "Ernest Florent, Trois Ilots, Olivia, Kewal Nagar, Clavet, Etoile, Belle Rose, Pont Lardier, Clemencia, La Nourice, DEEP RIVER BEAU CHAMP",
