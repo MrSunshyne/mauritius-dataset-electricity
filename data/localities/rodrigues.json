@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-06-18T09:24:51.455Z",
-  "outageCount": 227,
+  "generated": "2026-06-18T11:19:21.505Z",
+  "outageCount": 228,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-06-16",
+  "lastOutage": "2026-06-19",
   "outages": [
+    {
+      "date": "Le vendredi 19 juin 2026 de  09:00:00 à  15:00:00",
+      "streets": "Morcellement Roche Bon Dieu, Anse Ali, Saint Francois,Pointe Coton",
+      "from": "2026-06-19T05:00:00.000Z",
+      "to": "2026-06-19T11:00:00.000Z",
+      "id": "1d41e8d1b2b6f396eb5293b639c8a0fb"
+    },
     {
       "date": "Le mardi 16 juin 2026 de  08:30:00 à  12:00:00",
       "streets": "Quatre Vents, Dans Samy, Montagne Tonerre",

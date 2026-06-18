@@ -1,8 +1,8 @@
 {
   "date": "2026-06-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-18T09:24:51.340Z",
-  "outageCount": 13,
+  "generated": "2026-06-18T11:19:21.394Z",
+  "outageCount": 14,
   "outages": [
     {
       "date": "Le jeudi 18 juin 2026 de  09:00:00 à  15:30:00",
@@ -103,6 +103,16 @@
       "from": "2026-06-18T06:30:00.000Z",
       "to": "2026-06-18T07:00:00.000Z",
       "id": "a18aa4aef120d0cd09a67381a86565b7"
+    },
+    {
+      "date": "Le jeudi 18 juin 2026 de  14:10:00 à  14:50:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "SOLFERIONO 3",
+      "district": "plainewilhems",
+      "from": "2026-06-18T10:10:00.000Z",
+      "to": "2026-06-18T10:50:00.000Z",
+      "id": "91bdd999b5ee969b30a0343752379c4e"
     },
     {
       "date": "Le jeudi 18 juin 2026 de  13:10:00 à  15:00:00",

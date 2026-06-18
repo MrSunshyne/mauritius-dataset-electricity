@@ -2,8 +2,8 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-06-18T09:24:51.472Z",
-  "outageCount": 251,
+  "generated": "2026-06-18T11:19:21.520Z",
+  "outageCount": 252,
   "firstOutage": "2022-03-17",
   "lastOutage": "2026-06-28",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-06-28T04:00:00.000Z",
       "to": "2026-06-28T13:00:00.000Z",
       "id": "9a9fb258cc4ef842d654e3e94eeb408c"
+    },
+    {
+      "date": "Le jeudi 18 juin 2026 de  14:10:00 à  14:50:00",
+      "streets": "SOLFERIONO 3",
+      "from": "2026-06-18T10:10:00.000Z",
+      "to": "2026-06-18T10:50:00.000Z",
+      "id": "91bdd999b5ee969b30a0343752379c4e"
     },
     {
       "date": "Le mercredi 10 juin 2026 de  15:00:00 à  17:00:00",
