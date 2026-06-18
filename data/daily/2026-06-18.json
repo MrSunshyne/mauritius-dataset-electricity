@@ -1,8 +1,8 @@
 {
   "date": "2026-06-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-17T18:43:44.963Z",
-  "outageCount": 8,
+  "generated": "2026-06-18T07:32:06.856Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le jeudi 18 juin 2026 de  09:00:00 à  15:30:00",
@@ -55,6 +55,26 @@
       "id": "33ad55f34917522b6668fb5585e90ae1"
     },
     {
+      "date": "Le jeudi 18 juin 2026 de  09:00:00 à  15:00:00",
+      "locality": "CREVE COEUR",
+      "localitySlug": "creve-coeur",
+      "streets": "TERMINUS CREVE COEUR",
+      "district": "pamplemousses",
+      "from": "2026-06-18T05:00:00.000Z",
+      "to": "2026-06-18T11:00:00.000Z",
+      "id": "05b50aa149db67b6bf53a14c582dbb50"
+    },
+    {
+      "date": "Le jeudi 18 juin 2026 de  08:30:00 à  12:00:00",
+      "locality": "PLAINE DES PAPAYES",
+      "localitySlug": "plaine-des-papayes",
+      "streets": "Bois Mangues",
+      "district": "pamplemousses",
+      "from": "2026-06-18T04:30:00.000Z",
+      "to": "2026-06-18T08:00:00.000Z",
+      "id": "53b76cbca85e5edd64fb89e84fb81dcc"
+    },
+    {
       "date": "Le jeudi 18 juin 2026 de  14:00:00 à  17:00:00",
       "locality": "PAILLOTTE",
       "localitySlug": "paillotte",
@@ -73,6 +93,16 @@
       "from": "2026-06-18T04:30:00.000Z",
       "to": "2026-06-18T10:00:00.000Z",
       "id": "347670210a7f0de22f27ec2bbac5e816"
+    },
+    {
+      "date": "Le jeudi 18 juin 2026 de  10:30:00 à  11:00:00",
+      "locality": "CANDOS Q BORNES",
+      "localitySlug": "candos-q-bornes",
+      "streets": "CITE CANDOS",
+      "district": "plainewilhems",
+      "from": "2026-06-18T06:30:00.000Z",
+      "to": "2026-06-18T07:00:00.000Z",
+      "id": "a18aa4aef120d0cd09a67381a86565b7"
     },
     {
       "date": "Le jeudi 18 juin 2026 de  09:00:00 à  15:00:00",

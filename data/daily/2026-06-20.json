@@ -1,9 +1,19 @@
 {
   "date": "2026-06-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-17T18:43:44.963Z",
-  "outageCount": 1,
+  "generated": "2026-06-18T07:32:06.856Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le samedi 20 juin 2026 de  08:30:00 à  14:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "Princess Anne Road et Sungavalingum Road at 7eme Mile Triolet",
+      "district": "pamplemousses",
+      "from": "2026-06-20T04:30:00.000Z",
+      "to": "2026-06-20T10:00:00.000Z",
+      "id": "f16783bb119003c43ad5382122019c28"
+    },
     {
       "date": "Le samedi 20 juin 2026 de  08:30:00 à  12:00:00",
       "locality": "BELLE TERRE",

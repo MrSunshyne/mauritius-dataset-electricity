@@ -2,11 +2,18 @@
   "slug": "creve-coeur",
   "name": "CREVE COEUR",
   "district": "pamplemousses",
-  "generated": "2026-06-17T18:43:45.014Z",
-  "outageCount": 30,
+  "generated": "2026-06-18T07:32:06.904Z",
+  "outageCount": 31,
   "firstOutage": "2022-04-02",
-  "lastOutage": "2026-06-17",
+  "lastOutage": "2026-06-18",
   "outages": [
+    {
+      "date": "Le jeudi 18 juin 2026 de  09:00:00 à  15:00:00",
+      "streets": "TERMINUS CREVE COEUR",
+      "from": "2026-06-18T05:00:00.000Z",
+      "to": "2026-06-18T11:00:00.000Z",
+      "id": "05b50aa149db67b6bf53a14c582dbb50"
+    },
     {
       "date": "Le mercredi 17 juin 2026 de  14:30:00 à  17:30:00",
       "streets": "DANS LES ALENTOURS DE TERMINUS",

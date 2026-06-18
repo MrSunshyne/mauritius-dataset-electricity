@@ -2,11 +2,18 @@
   "slug": "candos-q-bornes",
   "name": "CANDOS Q BORNES",
   "district": "plainewilhems",
-  "generated": "2026-06-17T18:43:45.004Z",
-  "outageCount": 8,
+  "generated": "2026-06-18T07:32:06.894Z",
+  "outageCount": 9,
   "firstOutage": "2022-06-22",
-  "lastOutage": "2026-02-11",
+  "lastOutage": "2026-06-18",
   "outages": [
+    {
+      "date": "Le jeudi 18 juin 2026 de  10:30:00 à  11:00:00",
+      "streets": "CITE CANDOS",
+      "from": "2026-06-18T06:30:00.000Z",
+      "to": "2026-06-18T07:00:00.000Z",
+      "id": "a18aa4aef120d0cd09a67381a86565b7"
+    },
     {
       "date": "Le mercredi 11 février 2026 de  17:30:00 à  23:00:00",
       "streets": "CHEMIN KINGSTONE, CHEMIN DR CHAPERON, CHEMIN MAZERY ET LES RUELLES AVOISINANTES.",
