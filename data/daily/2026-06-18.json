@@ -1,8 +1,8 @@
 {
   "date": "2026-06-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-18T11:19:21.394Z",
-  "outageCount": 14,
+  "generated": "2026-06-18T12:59:48.399Z",
+  "outageCount": 15,
   "outages": [
     {
       "date": "Le jeudi 18 juin 2026 de  09:00:00 à  15:30:00",
@@ -143,6 +143,16 @@
       "from": "2026-06-18T05:00:00.000Z",
       "to": "2026-06-18T11:00:00.000Z",
       "id": "925b3d834f6bf5c57d1c59dbce2989c8"
+    },
+    {
+      "date": "Le jeudi 18 juin 2026 de  15:00:00 à  18:00:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "Morc Lady Barkly et Morc Terracine",
+      "district": "savanne",
+      "from": "2026-06-18T11:00:00.000Z",
+      "to": "2026-06-18T14:00:00.000Z",
+      "id": "dbf595a5b7fd01edf9148f1c7629b29f"
     }
   ]
 }
