@@ -2,11 +2,18 @@
   "slug": "pailles",
   "name": "PAILLES",
   "district": "portlouis",
-  "generated": "2026-06-18T07:32:06.945Z",
-  "outageCount": 81,
+  "generated": "2026-06-18T09:24:51.428Z",
+  "outageCount": 82,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-06-11",
+  "lastOutage": "2026-06-18",
   "outages": [
+    {
+      "date": "Le jeudi 18 juin 2026 de  12:30:00 à  14:00:00",
+      "streets": "GUIBIES RD PAILLES",
+      "from": "2026-06-18T08:30:00.000Z",
+      "to": "2026-06-18T10:00:00.000Z",
+      "id": "6d1ee450dfbac7020bc1935bedc99187"
+    },
     {
       "date": "Le jeudi 11 juin 2026 de  09:00:00 à  15:30:00",
       "streets": "LES ABONNES HABITANT CITE JUNCTION PAILLES DANS LES ENVIRONS DÁVENUE TULIP",

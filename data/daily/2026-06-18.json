@@ -1,8 +1,8 @@
 {
   "date": "2026-06-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-18T07:32:06.856Z",
-  "outageCount": 11,
+  "generated": "2026-06-18T09:24:51.340Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le jeudi 18 juin 2026 de  09:00:00 à  15:30:00",
@@ -103,6 +103,26 @@
       "from": "2026-06-18T06:30:00.000Z",
       "to": "2026-06-18T07:00:00.000Z",
       "id": "a18aa4aef120d0cd09a67381a86565b7"
+    },
+    {
+      "date": "Le jeudi 18 juin 2026 de  13:10:00 à  15:00:00",
+      "locality": "ROCHE BOIS",
+      "localitySlug": "roche-bois",
+      "streets": "ALLEE TAMARIN, DESBOUCHERS ST, FORTUNE ST, EN PARTIE BALISAGE ST",
+      "district": "portlouis",
+      "from": "2026-06-18T09:10:00.000Z",
+      "to": "2026-06-18T11:00:00.000Z",
+      "id": "6c778d1542a6dc85142a2b786b996681"
+    },
+    {
+      "date": "Le jeudi 18 juin 2026 de  12:30:00 à  14:00:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "GUIBIES RD PAILLES",
+      "district": "portlouis",
+      "from": "2026-06-18T08:30:00.000Z",
+      "to": "2026-06-18T10:00:00.000Z",
+      "id": "6d1ee450dfbac7020bc1935bedc99187"
     },
     {
       "date": "Le jeudi 18 juin 2026 de  09:00:00 à  15:00:00",

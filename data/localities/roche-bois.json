@@ -2,11 +2,18 @@
   "slug": "roche-bois",
   "name": "ROCHE BOIS",
   "district": "portlouis",
-  "generated": "2026-06-18T07:32:06.968Z",
-  "outageCount": 40,
+  "generated": "2026-06-18T09:24:51.454Z",
+  "outageCount": 41,
   "firstOutage": "2022-04-30",
-  "lastOutage": "2026-04-18",
+  "lastOutage": "2026-06-18",
   "outages": [
+    {
+      "date": "Le jeudi 18 juin 2026 de  13:10:00 à  15:00:00",
+      "streets": "ALLEE TAMARIN, DESBOUCHERS ST, FORTUNE ST, EN PARTIE BALISAGE ST",
+      "from": "2026-06-18T09:10:00.000Z",
+      "to": "2026-06-18T11:00:00.000Z",
+      "id": "6c778d1542a6dc85142a2b786b996681"
+    },
     {
       "date": "Le samedi 18 avril 2026 de  15:00:00 à  16:15:00",
       "streets": "Rues Debouchers,La Fortune,Allees Tamarin",
