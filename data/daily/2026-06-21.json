@@ -1,8 +1,8 @@
 {
   "date": "2026-06-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-19T07:43:14.590Z",
-  "outageCount": 3,
+  "generated": "2026-06-19T09:29:27.888Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le dimanche 21 juin 2026 de  08:15:00 à  16:00:00",
@@ -33,6 +33,36 @@
       "from": "2026-06-21T04:30:00.000Z",
       "to": "2026-06-21T12:00:00.000Z",
       "id": "2cb08ee441d626348a31b52db4345e4f"
+    },
+    {
+      "date": "Le dimanche 21 juin 2026 de  09:00:00 à  14:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave Boundary, Conte de LIsle, Robert Edward Hart, Dr Ross, Dr Ferriere et Hitchcock",
+      "district": "plainewilhems",
+      "from": "2026-06-21T05:00:00.000Z",
+      "to": "2026-06-21T10:00:00.000Z",
+      "id": "aff9ed2abfc5ecb6fca4fd53c22ba26a"
+    },
+    {
+      "date": "Le dimanche 21 juin 2026 de  14:00:00 à  14:30:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Dr Lesur, Khodabacus Ave, Philipe Raoul Ave, Maudave Ave, Dreamprice Beau-Bassin, Residence Vuillemin, NHDC Vuillemin, Dr Reid, Mahadeo Biltoo, Duperre, Chasteauneuf et les environs",
+      "district": "plainewilhems",
+      "from": "2026-06-21T10:00:00.000Z",
+      "to": "2026-06-21T10:30:00.000Z",
+      "id": "a6209237a296c635853914f1e2a5b560"
+    },
+    {
+      "date": "Le dimanche 21 juin 2026 de  08:30:00 à  09:30:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Dr Lesur, Khodabacus Ave, Philipe Raoul Ave, Maudave Ave, Dreamprice Beau-Bassin, Residence Vuillemin, NHDC Vuillemin, Dr Reid, Mahadeo Biltoo, Duperre, Chasteauneuf et les environs",
+      "district": "plainewilhems",
+      "from": "2026-06-21T04:30:00.000Z",
+      "to": "2026-06-21T05:30:00.000Z",
+      "id": "76dde12554136f386fb54c566be86043"
     }
   ]
 }

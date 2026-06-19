@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-06-19T07:43:14.695Z",
-  "outageCount": 383,
+  "generated": "2026-06-19T09:29:28.008Z",
+  "outageCount": 384,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-06-16",
+  "lastOutage": "2026-06-21",
   "outages": [
+    {
+      "date": "Le dimanche 21 juin 2026 de  09:00:00 à  14:00:00",
+      "streets": "Ave Boundary, Conte de LIsle, Robert Edward Hart, Dr Ross, Dr Ferriere et Hitchcock",
+      "from": "2026-06-21T05:00:00.000Z",
+      "to": "2026-06-21T10:00:00.000Z",
+      "id": "aff9ed2abfc5ecb6fca4fd53c22ba26a"
+    },
     {
       "date": "Le mardi 16 juin 2026 de  10:30:00 à  13:00:00",
       "streets": "AVENUE BUSWELL-AVE DOYAN QUATRE BORNES",
