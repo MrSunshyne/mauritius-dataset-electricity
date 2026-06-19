@@ -2,11 +2,18 @@
   "slug": "grand-bay",
   "name": "GRAND BAY",
   "district": "rivieredurempart",
-  "generated": "2026-06-19T13:03:55.343Z",
-  "outageCount": 115,
+  "generated": "2026-06-19T14:59:16.842Z",
+  "outageCount": 116,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-06-14",
+  "lastOutage": "2026-06-19",
   "outages": [
+    {
+      "date": "Le vendredi 19 juin 2026 de  17:50:00 à  22:00:00",
+      "streets": "RESERVOIR RD & SURROUNDINGS",
+      "from": "2026-06-19T13:50:00.000Z",
+      "to": "2026-06-19T18:00:00.000Z",
+      "id": "b32a7293ab8515da0330a6e4f0f6e363"
+    },
     {
       "date": "Le dimanche 14 juin 2026 de  09:00:00 à  12:00:00",
       "streets": "MORC BOUCON, OPPOSITE LE POLE RESTAURANT, NEAR EX GAJADHUR HOUSE",
