@@ -2,11 +2,32 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-06-19T11:28:01.461Z",
-  "outageCount": 228,
+  "generated": "2026-06-19T13:03:55.397Z",
+  "outageCount": 231,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-06-19",
+  "lastOutage": "2026-06-21",
   "outages": [
+    {
+      "date": "Le dimanche 21 juin 2026 de  08:30:00 à  15:00:00",
+      "streets": "Graviers et Var Brules",
+      "from": "2026-06-21T04:30:00.000Z",
+      "to": "2026-06-21T11:00:00.000Z",
+      "id": "46e1aa4f3ee5a5310a015b3022f05e95"
+    },
+    {
+      "date": "Le samedi 20 juin 2026 de  08:30:00 à  15:00:00",
+      "streets": "Petit Brule et thambes",
+      "from": "2026-06-20T04:30:00.000Z",
+      "to": "2026-06-20T11:00:00.000Z",
+      "id": "e5a5a5fc80ae2bee7905b42647455dd7"
+    },
+    {
+      "date": "Le samedi 20 juin 2026 de  08:00:00 à  14:00:00",
+      "streets": "Port Mathurin",
+      "from": "2026-06-20T04:00:00.000Z",
+      "to": "2026-06-20T10:00:00.000Z",
+      "id": "4e05dbb6d947b851014a9219c5e007de"
+    },
     {
       "date": "Le vendredi 19 juin 2026 de  09:00:00 à  15:00:00",
       "streets": "Morcellement Roche Bon Dieu, Anse Ali, Saint Francois,Pointe Coton",

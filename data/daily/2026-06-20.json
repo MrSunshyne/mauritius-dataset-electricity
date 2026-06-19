@@ -1,8 +1,8 @@
 {
   "date": "2026-06-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-19T11:28:01.334Z",
-  "outageCount": 3,
+  "generated": "2026-06-19T13:03:55.284Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le samedi 20 juin 2026 de  08:30:00 à  14:00:00",
@@ -33,6 +33,26 @@
       "from": "2026-06-20T04:30:00.000Z",
       "to": "2026-06-20T10:00:00.000Z",
       "id": "4d799dac54249f3082a234eea0133e63"
+    },
+    {
+      "date": "Le samedi 20 juin 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Petit Brule et thambes",
+      "district": "rodrigues",
+      "from": "2026-06-20T04:30:00.000Z",
+      "to": "2026-06-20T11:00:00.000Z",
+      "id": "e5a5a5fc80ae2bee7905b42647455dd7"
+    },
+    {
+      "date": "Le samedi 20 juin 2026 de  08:00:00 à  14:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Port Mathurin",
+      "district": "rodrigues",
+      "from": "2026-06-20T04:00:00.000Z",
+      "to": "2026-06-20T10:00:00.000Z",
+      "id": "4e05dbb6d947b851014a9219c5e007de"
     }
   ]
 }

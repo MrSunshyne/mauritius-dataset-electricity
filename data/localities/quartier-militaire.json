@@ -2,11 +2,18 @@
   "slug": "quartier-militaire",
   "name": "QUARTIER MILITAIRE",
   "district": "moka",
-  "generated": "2026-06-19T11:28:01.449Z",
-  "outageCount": 46,
+  "generated": "2026-06-19T13:03:55.386Z",
+  "outageCount": 47,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-04-15",
+  "lastOutage": "2026-06-19",
   "outages": [
+    {
+      "date": "Le vendredi 19 juin 2026 de  11:40:00 à  20:00:00",
+      "streets": "VUILLEMIN Q.MILITAIRE",
+      "from": "2026-06-19T07:40:00.000Z",
+      "to": "2026-06-19T16:00:00.000Z",
+      "id": "763e91e06455676b274abea26a267c3c"
+    },
     {
       "date": "Le mercredi 15 avril 2026 de  21:30:00 à  22:30:00",
       "streets": "Old Grand Port Road",

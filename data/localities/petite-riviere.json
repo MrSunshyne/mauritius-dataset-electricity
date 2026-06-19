@@ -2,11 +2,18 @@
   "slug": "petite-riviere",
   "name": "PETITE RIVIERE",
   "district": "blackriver",
-  "generated": "2026-06-19T11:28:01.439Z",
-  "outageCount": 90,
+  "generated": "2026-06-19T13:03:55.376Z",
+  "outageCount": 91,
   "firstOutage": "2022-05-28",
-  "lastOutage": "2026-06-14",
+  "lastOutage": "2026-06-19",
   "outages": [
+    {
+      "date": "Le vendredi 19 juin 2026 de  16:50:00 à  21:00:00",
+      "streets": "MORC RAWAT LOBIN LANE & SURROUNDINGS",
+      "from": "2026-06-19T12:50:00.000Z",
+      "to": "2026-06-19T17:00:00.000Z",
+      "id": "71faa48625d95377d2b413a147d11f58"
+    },
     {
       "date": "Le dimanche 14 juin 2026 de  08:30:00 à  11:30:00",
       "streets": "Dans les environs de Nndloll Lane, Princess Margaret Street et une partie de Black River Road",
