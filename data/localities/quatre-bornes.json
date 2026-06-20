@@ -2,8 +2,8 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-06-20T08:58:54.454Z",
-  "outageCount": 385,
+  "generated": "2026-06-20T10:05:25.008Z",
+  "outageCount": 386,
   "firstOutage": "2022-04-01",
   "lastOutage": "2026-06-21",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-06-21T05:00:00.000Z",
       "to": "2026-06-21T10:00:00.000Z",
       "id": "aff9ed2abfc5ecb6fca4fd53c22ba26a"
+    },
+    {
+      "date": "Le samedi 20 juin 2026 de  13:40:00 à  15:45:00",
+      "streets": "AVE SODNAC, AVE GLAEULS, AVE LATANIERS, AVE GOYAVIERS & SURROUNDINGS",
+      "from": "2026-06-20T09:40:00.000Z",
+      "to": "2026-06-20T11:45:00.000Z",
+      "id": "73fc6fa8c03e60aaea26f888cb47bde1"
     },
     {
       "date": "Le samedi 20 juin 2026 de  00:00:00 à  16:00:00",
