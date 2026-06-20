@@ -2,11 +2,18 @@
   "slug": "pamplemousses",
   "name": "PAMPLEMOUSSES",
   "district": "pamplemousses",
-  "generated": "2026-06-19T18:30:53.398Z",
-  "outageCount": 59,
+  "generated": "2026-06-20T07:13:52.223Z",
+  "outageCount": 60,
   "firstOutage": "2022-05-08",
-  "lastOutage": "2026-06-09",
+  "lastOutage": "2026-06-20",
   "outages": [
+    {
+      "date": "Le samedi 20 juin 2026 de  07:00:00 à  13:00:00",
+      "streets": "PAMPLEMOUSSES, BOIS ROUGE, MON GOUT, CAMP DES EMBREVADES, CANTON NANCY",
+      "from": "2026-06-20T03:00:00.000Z",
+      "to": "2026-06-20T09:00:00.000Z",
+      "id": "b045f5c8fc13a8a14a2ab2a80d4d36ba"
+    },
     {
       "date": "Le mardi 9 juin 2026 de  16:00:00 à  17:00:00",
       "streets": "LE VILLAGE DE PAMPLEMOUSSES ET BEAU PLAN",

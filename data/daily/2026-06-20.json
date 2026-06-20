@@ -1,8 +1,8 @@
 {
   "date": "2026-06-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-19T18:30:53.303Z",
-  "outageCount": 5,
+  "generated": "2026-06-20T07:13:52.128Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le samedi 20 juin 2026 de  08:30:00 à  14:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-06-20T04:30:00.000Z",
       "to": "2026-06-20T10:00:00.000Z",
       "id": "f16783bb119003c43ad5382122019c28"
+    },
+    {
+      "date": "Le samedi 20 juin 2026 de  07:00:00 à  13:00:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "PAMPLEMOUSSES, BOIS ROUGE, MON GOUT, CAMP DES EMBREVADES, CANTON NANCY",
+      "district": "pamplemousses",
+      "from": "2026-06-20T03:00:00.000Z",
+      "to": "2026-06-20T09:00:00.000Z",
+      "id": "b045f5c8fc13a8a14a2ab2a80d4d36ba"
     },
     {
       "date": "Le samedi 20 juin 2026 de  08:30:00 à  12:00:00",
@@ -33,6 +43,16 @@
       "from": "2026-06-20T04:30:00.000Z",
       "to": "2026-06-20T10:00:00.000Z",
       "id": "4d799dac54249f3082a234eea0133e63"
+    },
+    {
+      "date": "Le samedi 20 juin 2026 de  00:00:00 à  16:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "super unic,CHEMIN SSR,ORCHIDEE.GLAEIL",
+      "district": "plainewilhems",
+      "from": "2026-06-19T20:00:00.000Z",
+      "to": "2026-06-19T12:00:00.000Z",
+      "id": "bff5063da97c1a26c00b76baad71b3ec"
     },
     {
       "date": "Le samedi 20 juin 2026 de  08:30:00 à  15:00:00",

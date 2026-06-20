@@ -2,8 +2,8 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-06-19T18:30:53.414Z",
-  "outageCount": 384,
+  "generated": "2026-06-20T07:13:52.239Z",
+  "outageCount": 385,
   "firstOutage": "2022-04-01",
   "lastOutage": "2026-06-21",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-06-21T05:00:00.000Z",
       "to": "2026-06-21T10:00:00.000Z",
       "id": "aff9ed2abfc5ecb6fca4fd53c22ba26a"
+    },
+    {
+      "date": "Le samedi 20 juin 2026 de  00:00:00 à  16:00:00",
+      "streets": "super unic,CHEMIN SSR,ORCHIDEE.GLAEIL",
+      "from": "2026-06-19T20:00:00.000Z",
+      "to": "2026-06-19T12:00:00.000Z",
+      "id": "bff5063da97c1a26c00b76baad71b3ec"
     },
     {
       "date": "Le mardi 16 juin 2026 de  10:30:00 à  13:00:00",

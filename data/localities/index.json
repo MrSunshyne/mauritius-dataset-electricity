@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-19T18:30:53.447Z",
+  "generated": "2026-06-20T07:13:52.271Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -2698,10 +2698,10 @@
       "slug": "pamplemousses",
       "name": "PAMPLEMOUSSES",
       "district": "pamplemousses",
-      "outageCount": 59,
+      "outageCount": 60,
       "file": "pamplemousses.json",
       "firstOutage": "2022-05-08",
-      "lastOutage": "2026-06-09"
+      "lastOutage": "2026-06-20"
     },
     {
       "slug": "patate-theophille",
@@ -3175,7 +3175,7 @@
       "slug": "quatre-bornes",
       "name": "QUATRE-BORNES",
       "district": "plainewilhems",
-      "outageCount": 384,
+      "outageCount": 385,
       "file": "quatre-bornes.json",
       "firstOutage": "2022-04-01",
       "lastOutage": "2026-06-21"
