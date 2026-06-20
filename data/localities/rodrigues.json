@@ -2,8 +2,8 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-06-20T07:13:52.250Z",
-  "outageCount": 231,
+  "generated": "2026-06-20T08:58:54.465Z",
+  "outageCount": 232,
   "firstOutage": "2022-03-15",
   "lastOutage": "2026-06-21",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-06-21T04:30:00.000Z",
       "to": "2026-06-21T11:00:00.000Z",
       "id": "46e1aa4f3ee5a5310a015b3022f05e95"
+    },
+    {
+      "date": "Le dimanche 21 juin 2026 de  08:00:00 à  14:00:00",
+      "streets": "Port Mathurin",
+      "from": "2026-06-21T04:00:00.000Z",
+      "to": "2026-06-21T10:00:00.000Z",
+      "id": "0fb231fc5d82eaf985bb421c31da492b"
     },
     {
       "date": "Le samedi 20 juin 2026 de  08:30:00 à  15:00:00",
