@@ -2,11 +2,18 @@
   "slug": "calodyne",
   "name": "CALODYNE",
   "district": "rivieredurempart",
-  "generated": "2026-06-21T09:10:46.253Z",
-  "outageCount": 38,
+  "generated": "2026-06-21T11:00:29.576Z",
+  "outageCount": 39,
   "firstOutage": "2022-09-10",
   "lastOutage": "2026-06-21",
   "outages": [
+    {
+      "date": "Le dimanche 21 juin 2026 de  14:00:00 à  16:30:00",
+      "streets": "CALODYNE",
+      "from": "2026-06-21T10:00:00.000Z",
+      "to": "2026-06-21T12:30:00.000Z",
+      "id": "39ee18331f4ae2ca41bb27c46b4a4445"
+    },
     {
       "date": "Le dimanche 21 juin 2026 de  08:00:00 à  11:30:00",
       "streets": "CALODYNE",

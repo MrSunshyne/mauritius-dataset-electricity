@@ -1,8 +1,8 @@
 {
   "date": "2026-06-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-21T09:10:46.213Z",
-  "outageCount": 16,
+  "generated": "2026-06-21T11:00:29.539Z",
+  "outageCount": 17,
   "outages": [
     {
       "date": "Le dimanche 21 juin 2026 de  08:15:00 à  16:00:00",
@@ -143,6 +143,16 @@
       "from": "2026-06-21T05:00:00.000Z",
       "to": "2026-06-21T10:00:00.000Z",
       "id": "9ea08943ad70a4c52c4c300eb6e1d59e"
+    },
+    {
+      "date": "Le dimanche 21 juin 2026 de  14:00:00 à  16:30:00",
+      "locality": "CALODYNE",
+      "localitySlug": "calodyne",
+      "streets": "CALODYNE",
+      "district": "rivieredurempart",
+      "from": "2026-06-21T10:00:00.000Z",
+      "to": "2026-06-21T12:30:00.000Z",
+      "id": "39ee18331f4ae2ca41bb27c46b4a4445"
     },
     {
       "date": "Le dimanche 21 juin 2026 de  08:30:00 à  15:00:00",
