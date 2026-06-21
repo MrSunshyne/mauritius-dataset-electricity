@@ -2,11 +2,18 @@
   "slug": "calodyne",
   "name": "CALODYNE",
   "district": "rivieredurempart",
-  "generated": "2026-06-20T18:25:04.836Z",
-  "outageCount": 37,
+  "generated": "2026-06-21T07:31:04.327Z",
+  "outageCount": 38,
   "firstOutage": "2022-09-10",
-  "lastOutage": "2026-06-15",
+  "lastOutage": "2026-06-21",
   "outages": [
+    {
+      "date": "Le dimanche 21 juin 2026 de  08:00:00 à  11:30:00",
+      "streets": "CALODYNE",
+      "from": "2026-06-21T04:00:00.000Z",
+      "to": "2026-06-21T07:30:00.000Z",
+      "id": "fc56fd9b261f5a5c169bc9a4facda10c"
+    },
     {
       "date": "Le lundi 15 juin 2026 de  12:00:00 à  17:15:00",
       "streets": "ENTIERE REGION DE CALODYNE, ST FRANCOIS ET BUTTE A LHERBE",

@@ -2,11 +2,18 @@
   "slug": "boulingrin",
   "name": "BOULINGRIN",
   "district": "pamplemousses",
-  "generated": "2026-06-20T18:25:04.834Z",
-  "outageCount": 5,
+  "generated": "2026-06-21T07:31:04.325Z",
+  "outageCount": 6,
   "firstOutage": "2023-04-03",
-  "lastOutage": "2025-07-10",
+  "lastOutage": "2026-06-21",
   "outages": [
+    {
+      "date": "Le dimanche 21 juin 2026 de  08:00:00 à  15:00:00",
+      "streets": "BOULINGRIN",
+      "from": "2026-06-21T04:00:00.000Z",
+      "to": "2026-06-21T11:00:00.000Z",
+      "id": "1e5b974eedb4c492c9920a4406caf44c"
+    },
     {
       "date": "Le jeudi 10 juillet 2025 de  21:00:00 à  00:00:00",
       "streets": "BOULINGRIN",

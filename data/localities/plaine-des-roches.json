@@ -2,11 +2,18 @@
   "slug": "plaine-des-roches",
   "name": "PLAINE DES ROCHES",
   "district": "rivieredurempart",
-  "generated": "2026-06-20T18:25:04.903Z",
-  "outageCount": 40,
+  "generated": "2026-06-21T07:31:04.396Z",
+  "outageCount": 41,
   "firstOutage": "2022-04-24",
-  "lastOutage": "2026-06-17",
+  "lastOutage": "2026-06-21",
   "outages": [
+    {
+      "date": "Le dimanche 21 juin 2026 de  08:30:00 à  14:00:00",
+      "streets": "PLAINE DES ROCHES",
+      "from": "2026-06-21T04:30:00.000Z",
+      "to": "2026-06-21T10:00:00.000Z",
+      "id": "eb90caf2d34ddeae8ec3d46f3a3d23a5"
+    },
     {
       "date": "Le mercredi 17 juin 2026 de  21:00:00 à  00:00:00",
       "streets": "ROYAL ROAD, DALIAH LANE & SURROUNDINGS",
