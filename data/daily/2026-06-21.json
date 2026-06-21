@@ -1,8 +1,8 @@
 {
   "date": "2026-06-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-21T07:31:04.291Z",
-  "outageCount": 13,
+  "generated": "2026-06-21T09:10:46.213Z",
+  "outageCount": 16,
   "outages": [
     {
       "date": "Le dimanche 21 juin 2026 de  08:15:00 à  16:00:00",
@@ -15,14 +15,34 @@
       "id": "b7b56bea088c4f494d196de371bedc15"
     },
     {
-      "date": "Le dimanche 21 juin 2026 de  08:00:00 à  11:30:00",
+      "date": "Le dimanche 21 juin 2026 de  08:00:00 à  15:00:00",
       "locality": "BON  ACCEUIL",
       "localitySlug": "bon-acceuil",
       "streets": "ROYAL ROAD BON ACCUEILLE",
       "district": "flacq",
       "from": "2026-06-21T04:00:00.000Z",
-      "to": "2026-06-21T07:30:00.000Z",
-      "id": "6d4abcbea12800c7abec45e7e1c36c4e"
+      "to": "2026-06-21T11:00:00.000Z",
+      "id": "d5512add2d3f376c4f175aa0c4aba492"
+    },
+    {
+      "date": "Le dimanche 21 juin 2026 de  09:00:00 à  16:00:00",
+      "locality": "CONSTANCE",
+      "localitySlug": "constance",
+      "streets": "CONSTANCE",
+      "district": "flacq",
+      "from": "2026-06-21T05:00:00.000Z",
+      "to": "2026-06-21T12:00:00.000Z",
+      "id": "e0e7d05b55473401c1f000dbb50ea061"
+    },
+    {
+      "date": "Le dimanche 21 juin 2026 de  12:20:00 à  15:00:00",
+      "locality": "BAMBOUS VIRIEUX",
+      "localitySlug": "bambous-virieux",
+      "streets": "BAMBOUS VIRIEUX",
+      "district": "grandport",
+      "from": "2026-06-21T08:20:00.000Z",
+      "to": "2026-06-21T11:00:00.000Z",
+      "id": "66f32a60504e22eb940fbe82c4073ee2"
     },
     {
       "date": "Le dimanche 21 juin 2026 de  08:30:00 à  15:00:00",
@@ -83,6 +103,16 @@
       "from": "2026-06-21T04:30:00.000Z",
       "to": "2026-06-21T11:00:00.000Z",
       "id": "0e6ab7423570265665f7aaf5f01f846e"
+    },
+    {
+      "date": "Le dimanche 21 juin 2026 de  12:00:00 à  13:30:00",
+      "locality": "MIDLANDS",
+      "localitySlug": "midlands",
+      "streets": "VILLAGE MIDLANDS CORIOLIS ROAD/MORC SOOBANY 16EME MILLE",
+      "district": "plainewilhems",
+      "from": "2026-06-21T08:00:00.000Z",
+      "to": "2026-06-21T09:30:00.000Z",
+      "id": "bfce059b2407502590c250248db4becb"
     },
     {
       "date": "Le dimanche 21 juin 2026 de  08:00:00 à  11:30:00",
