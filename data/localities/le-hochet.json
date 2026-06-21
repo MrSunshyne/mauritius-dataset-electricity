@@ -2,11 +2,18 @@
   "slug": "le-hochet",
   "name": "LE HOCHET",
   "district": "portlouis",
-  "generated": "2026-06-21T15:32:06.892Z",
-  "outageCount": 26,
+  "generated": "2026-06-21T16:29:18.461Z",
+  "outageCount": 27,
   "firstOutage": "2022-04-18",
-  "lastOutage": "2026-03-03",
+  "lastOutage": "2026-06-21",
   "outages": [
+    {
+      "date": "Le dimanche 21 juin 2026 de  20:15:00 à  00:00:00",
+      "streets": "AVE ROSIERS,AVE LA FONTAINE,AVE BLEUETS,AVE CAPUCINE,AVE INDEPENDANCE--MORC RAFFRAY TERRE ROUGE",
+      "from": "2026-06-21T16:15:00.000Z",
+      "to": "2026-06-20T20:00:00.000Z",
+      "id": "6028981e3e2fa6f46fd76c9acc0c0df6"
+    },
     {
       "date": "Le mardi 3 mars 2026 de  20:45:00 à  22:45:00",
       "streets": "BASALT RD,DILAWAR RD,J.LEGRIS RD AND NEARBY REGION",

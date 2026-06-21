@@ -2,11 +2,18 @@
   "slug": "pont-praslin",
   "name": "PONT PRASLIN",
   "district": "pamplemousses",
-  "generated": "2026-06-21T15:32:06.920Z",
-  "outageCount": 2,
+  "generated": "2026-06-21T16:29:18.487Z",
+  "outageCount": 3,
   "firstOutage": "2024-01-11",
-  "lastOutage": "2026-01-14",
+  "lastOutage": "2026-06-21",
   "outages": [
+    {
+      "date": "Le dimanche 21 juin 2026 de  19:30:00 à  21:30:00",
+      "streets": "PONT PRASLIN,M D-AUSTRALIA",
+      "from": "2026-06-21T15:30:00.000Z",
+      "to": "2026-06-21T17:30:00.000Z",
+      "id": "e8bde643b17e6a3f8128e164c661e569"
+    },
     {
       "date": "Le mercredi 14 janvier 2026 de  13:30:00 à  16:30:00",
       "streets": "PONT PRASLIN, MARE D-AUSTRALIA, VILLE BAGUE, PETITE JULIE",

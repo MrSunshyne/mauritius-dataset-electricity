@@ -1,8 +1,8 @@
 {
   "date": "2026-06-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-21T15:32:06.814Z",
-  "outageCount": 19,
+  "generated": "2026-06-21T16:29:18.380Z",
+  "outageCount": 21,
   "outages": [
     {
       "date": "Le dimanche 21 juin 2026 de  16:25:00 à  18:25:00",
@@ -75,6 +75,16 @@
       "id": "1e5b974eedb4c492c9920a4406caf44c"
     },
     {
+      "date": "Le dimanche 21 juin 2026 de  19:30:00 à  21:30:00",
+      "locality": "PONT PRASLIN",
+      "localitySlug": "pont-praslin",
+      "streets": "PONT PRASLIN,M D-AUSTRALIA",
+      "district": "pamplemousses",
+      "from": "2026-06-21T15:30:00.000Z",
+      "to": "2026-06-21T17:30:00.000Z",
+      "id": "e8bde643b17e6a3f8128e164c661e569"
+    },
+    {
       "date": "Le dimanche 21 juin 2026 de  08:30:00 à  16:00:00",
       "locality": "PHOENIX",
       "localitySlug": "phoenix",
@@ -133,6 +143,16 @@
       "from": "2026-06-21T10:00:00.000Z",
       "to": "2026-06-21T15:00:00.000Z",
       "id": "2ba54fd049b0536a8af6b5a7d024222c"
+    },
+    {
+      "date": "Le dimanche 21 juin 2026 de  20:15:00 à  00:00:00",
+      "locality": "LE HOCHET",
+      "localitySlug": "le-hochet",
+      "streets": "AVE ROSIERS,AVE LA FONTAINE,AVE BLEUETS,AVE CAPUCINE,AVE INDEPENDANCE--MORC RAFFRAY TERRE ROUGE",
+      "district": "portlouis",
+      "from": "2026-06-21T16:15:00.000Z",
+      "to": "2026-06-20T20:00:00.000Z",
+      "id": "6028981e3e2fa6f46fd76c9acc0c0df6"
     },
     {
       "date": "Le dimanche 21 juin 2026 de  08:00:00 à  11:30:00",
