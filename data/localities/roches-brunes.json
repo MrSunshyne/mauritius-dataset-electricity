@@ -2,11 +2,18 @@
   "slug": "roches-brunes",
   "name": "ROCHES BRUNES",
   "district": "plainewilhems",
-  "generated": "2026-06-21T12:33:13.026Z",
-  "outageCount": 38,
+  "generated": "2026-06-21T13:30:59.448Z",
+  "outageCount": 39,
   "firstOutage": "2022-10-01",
-  "lastOutage": "2026-06-06",
+  "lastOutage": "2026-06-21",
   "outages": [
+    {
+      "date": "Le dimanche 21 juin 2026 de  14:00:00 à  19:00:00",
+      "streets": "MERE TERESA /ROCHES BRUNES",
+      "from": "2026-06-21T10:00:00.000Z",
+      "to": "2026-06-21T15:00:00.000Z",
+      "id": "2ba54fd049b0536a8af6b5a7d024222c"
+    },
     {
       "date": "Le samedi 6 juin 2026 de  10:30:00 à  11:45:00",
       "streets": "AVE R.BRUNES, AVE PLUTO, AVE HALLET ET LES ALENTOURS",

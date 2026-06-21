@@ -1,8 +1,8 @@
 {
   "date": "2026-06-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-21T12:33:12.906Z",
-  "outageCount": 18,
+  "generated": "2026-06-21T13:30:59.336Z",
+  "outageCount": 19,
   "outages": [
     {
       "date": "Le dimanche 21 juin 2026 de  16:25:00 à  18:25:00",
@@ -123,6 +123,16 @@
       "from": "2026-06-21T08:00:00.000Z",
       "to": "2026-06-21T09:30:00.000Z",
       "id": "bfce059b2407502590c250248db4becb"
+    },
+    {
+      "date": "Le dimanche 21 juin 2026 de  14:00:00 à  19:00:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "MERE TERESA /ROCHES BRUNES",
+      "district": "plainewilhems",
+      "from": "2026-06-21T10:00:00.000Z",
+      "to": "2026-06-21T15:00:00.000Z",
+      "id": "2ba54fd049b0536a8af6b5a7d024222c"
     },
     {
       "date": "Le dimanche 21 juin 2026 de  08:00:00 à  11:30:00",
