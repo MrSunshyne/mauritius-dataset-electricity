@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-06-21T18:26:33.563Z",
-  "outageCount": 221,
+  "generated": "2026-06-22T07:48:56.033Z",
+  "outageCount": 222,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-06-18",
+  "lastOutage": "2026-06-22",
   "outages": [
+    {
+      "date": "Le lundi 22 juin 2026 de  09:30:00 à  10:00:00",
+      "streets": "RUE LISLET GEOFFROY, RTE DU JARDIN ET LES ALENTOURS",
+      "from": "2026-06-22T05:30:00.000Z",
+      "to": "2026-06-22T06:00:00.000Z",
+      "id": "62ac2904a87f52ecd091d9095e570f9b"
+    },
     {
       "date": "Le jeudi 18 juin 2026 de  08:30:00 à  14:00:00",
       "streets": "Pumping Station Engen, Indian Oil,Shell ,Mc Donald and Watchman Quarters at La Vigie",

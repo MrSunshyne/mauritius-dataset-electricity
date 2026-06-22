@@ -2,11 +2,18 @@
   "slug": "tamarin",
   "name": "TAMARIN",
   "district": "blackriver",
-  "generated": "2026-06-21T18:26:33.643Z",
-  "outageCount": 76,
+  "generated": "2026-06-22T07:48:56.111Z",
+  "outageCount": 77,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-06-19",
+  "lastOutage": "2026-06-22",
   "outages": [
+    {
+      "date": "Le lundi 22 juin 2026 de  09:45:00 à  10:50:00",
+      "streets": "TAMARINA GOLF",
+      "from": "2026-06-22T05:45:00.000Z",
+      "to": "2026-06-22T06:50:00.000Z",
+      "id": "87f540348f3fffe7aa800e602caa9a68"
+    },
     {
       "date": "Le vendredi 19 juin 2026 de  08:30:00 à  16:30:00",
       "streets": "AVENUE CAPITAINE, EDC TAMARIN ET VILLAGE TAMARIN",

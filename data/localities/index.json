@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-21T18:26:33.656Z",
+  "generated": "2026-06-22T07:48:56.123Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -754,10 +754,10 @@
       "slug": "camp-fouquereaux",
       "name": "CAMP FOUQUEREAUX",
       "district": "plainewilhems",
-      "outageCount": 38,
+      "outageCount": 39,
       "file": "camp-fouquereaux.json",
       "firstOutage": "2022-03-31",
-      "lastOutage": "2026-06-14"
+      "lastOutage": "2026-06-22"
     },
     {
       "slug": "camp-garreau",
@@ -1303,10 +1303,10 @@
       "slug": "curepipe",
       "name": "CUREPIPE",
       "district": "plainewilhems",
-      "outageCount": 221,
+      "outageCount": 222,
       "file": "curepipe.json",
       "firstOutage": "2022-03-27",
-      "lastOutage": "2026-06-18"
+      "lastOutage": "2026-06-22"
     },
     {
       "slug": "d-epinay",
@@ -3778,10 +3778,10 @@
       "slug": "tamarin",
       "name": "TAMARIN",
       "district": "blackriver",
-      "outageCount": 76,
+      "outageCount": 77,
       "file": "tamarin.json",
       "firstOutage": "2022-03-13",
-      "lastOutage": "2026-06-19"
+      "lastOutage": "2026-06-22"
     },
     {
       "slug": "tamarind-falls",
@@ -3994,7 +3994,7 @@
       "slug": "vacoas",
       "name": "VACOAS",
       "district": "plainewilhems",
-      "outageCount": 252,
+      "outageCount": 253,
       "file": "vacoas.json",
       "firstOutage": "2022-03-17",
       "lastOutage": "2026-06-28"

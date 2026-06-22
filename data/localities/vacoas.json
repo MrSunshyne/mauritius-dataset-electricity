@@ -2,8 +2,8 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-06-21T18:26:33.651Z",
-  "outageCount": 252,
+  "generated": "2026-06-22T07:48:56.118Z",
+  "outageCount": 253,
   "firstOutage": "2022-03-17",
   "lastOutage": "2026-06-28",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-06-28T04:00:00.000Z",
       "to": "2026-06-28T13:00:00.000Z",
       "id": "9a9fb258cc4ef842d654e3e94eeb408c"
+    },
+    {
+      "date": "Le lundi 22 juin 2026 de  06:00:00 à  10:30:00",
+      "streets": "MORC GOBURDHUN, SAYED HOSSEN RD, UNJORE LANE ET LES ALENTOURS",
+      "from": "2026-06-22T02:00:00.000Z",
+      "to": "2026-06-22T06:30:00.000Z",
+      "id": "376a67b53a2445d958112357ad87b840"
     },
     {
       "date": "Le jeudi 18 juin 2026 de  14:10:00 à  14:50:00",
