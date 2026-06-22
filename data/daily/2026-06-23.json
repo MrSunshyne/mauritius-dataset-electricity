@@ -1,8 +1,8 @@
 {
   "date": "2026-06-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-22T16:30:49.634Z",
-  "outageCount": 5,
+  "generated": "2026-06-22T18:19:02.978Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le mardi 23 juin 2026 de  17:00:00 à  18:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-06-23T04:30:00.000Z",
       "to": "2026-06-23T05:30:00.000Z",
       "id": "6ed29d8ef41c8929424fd0e34e9cb1b4"
+    },
+    {
+      "date": "Le mardi 23 juin 2026 de  08:30:00 à  15:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "Les Domes DAlbion, Space Fitness Albion,Swim Fit Aquatic School",
+      "district": "blackriver",
+      "from": "2026-06-23T04:30:00.000Z",
+      "to": "2026-06-23T11:00:00.000Z",
+      "id": "55d002794e313e4d484dbed4372ee834"
     },
     {
       "date": "Le mardi 23 juin 2026 de  08:30:00 à  12:00:00",

@@ -2,11 +2,18 @@
   "slug": "albion",
   "name": "ALBION",
   "district": "blackriver",
-  "generated": "2026-06-22T16:30:49.652Z",
-  "outageCount": 121,
+  "generated": "2026-06-22T18:19:02.995Z",
+  "outageCount": 122,
   "firstOutage": "2022-06-06",
-  "lastOutage": "2026-06-21",
+  "lastOutage": "2026-06-23",
   "outages": [
+    {
+      "date": "Le mardi 23 juin 2026 de  08:30:00 à  15:00:00",
+      "streets": "Les Domes DAlbion, Space Fitness Albion,Swim Fit Aquatic School",
+      "from": "2026-06-23T04:30:00.000Z",
+      "to": "2026-06-23T11:00:00.000Z",
+      "id": "55d002794e313e4d484dbed4372ee834"
+    },
     {
       "date": "Le dimanche 21 juin 2026 de  16:25:00 à  18:25:00",
       "streets": "BADAMIERS,AVOCATIERS,LETCHIIERS AND NEARBY REGION",
