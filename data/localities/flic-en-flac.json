@@ -2,11 +2,25 @@
   "slug": "flic-en-flac",
   "name": "FLIC-EN-FLAC",
   "district": "blackriver",
-  "generated": "2026-06-22T09:54:58.882Z",
-  "outageCount": 225,
+  "generated": "2026-06-22T11:59:01.389Z",
+  "outageCount": 227,
   "firstOutage": "2022-03-16",
-  "lastOutage": "2026-06-17",
+  "lastOutage": "2026-06-23",
   "outages": [
+    {
+      "date": "Le mardi 23 juin 2026 de  17:00:00 à  18:00:00",
+      "streets": "WOLMAR-ROUTE COTIERE WOLMAR, PEARL BEACH HOTEL, AVE CARRIERE, AVE DES MANGUIERS ET CAP OUEST",
+      "from": "2026-06-23T13:00:00.000Z",
+      "to": "2026-06-23T14:00:00.000Z",
+      "id": "94dc4ed6ebd450b3c71897df75848f52"
+    },
+    {
+      "date": "Le mardi 23 juin 2026 de  08:30:00 à  09:30:00",
+      "streets": "WOLMAR-ROUTE COTIERE WOLMAR, PEARL BEACH HOTEL, AVE CARRIERE, AVE DES MANGUIERS ET CAP OUEST",
+      "from": "2026-06-23T04:30:00.000Z",
+      "to": "2026-06-23T05:30:00.000Z",
+      "id": "6ed29d8ef41c8929424fd0e34e9cb1b4"
+    },
     {
       "date": "Le mercredi 17 juin 2026 de  09:00:00 à  12:30:00",
       "streets": "MORC DE CHAZAL-AVE DES PELICANS, AVE DES OIES, AVE DES TOURTEREAUX ET AVE DES PIVERTS",

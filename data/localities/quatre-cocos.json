@@ -2,11 +2,18 @@
   "slug": "quatre-cocos",
   "name": "QUATRE COCOS",
   "district": "flacq",
-  "generated": "2026-06-22T09:54:58.938Z",
-  "outageCount": 18,
+  "generated": "2026-06-22T11:59:01.439Z",
+  "outageCount": 19,
   "firstOutage": "2022-05-20",
-  "lastOutage": "2025-07-08",
+  "lastOutage": "2026-06-22",
   "outages": [
+    {
+      "date": "Le lundi 22 juin 2026 de  15:00:00 à  17:00:00",
+      "streets": "Quatre Cocos",
+      "from": "2026-06-22T11:00:00.000Z",
+      "to": "2026-06-22T13:00:00.000Z",
+      "id": "30a8f929cd759dd6b657b224ae80797d"
+    },
     {
       "date": "Le mardi 8 juillet 2025 de  08:30:00 à  17:00:00",
       "streets": "LES ABONNES DE CAMP MARCELIN ET QUATRE COCOS DANS LES ENVIRONS DE NSLD, NHDC, CHURCH LANE, DASAN STREET, AVENUE AZALEA, HIGH STREET, BILLAR & CAMELIA AVENUE.",

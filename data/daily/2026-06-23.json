@@ -1,9 +1,29 @@
 {
   "date": "2026-06-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-22T09:54:58.817Z",
-  "outageCount": 1,
+  "generated": "2026-06-22T11:59:01.335Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le mardi 23 juin 2026 de  17:00:00 à  18:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "WOLMAR-ROUTE COTIERE WOLMAR, PEARL BEACH HOTEL, AVE CARRIERE, AVE DES MANGUIERS ET CAP OUEST",
+      "district": "blackriver",
+      "from": "2026-06-23T13:00:00.000Z",
+      "to": "2026-06-23T14:00:00.000Z",
+      "id": "94dc4ed6ebd450b3c71897df75848f52"
+    },
+    {
+      "date": "Le mardi 23 juin 2026 de  08:30:00 à  09:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "WOLMAR-ROUTE COTIERE WOLMAR, PEARL BEACH HOTEL, AVE CARRIERE, AVE DES MANGUIERS ET CAP OUEST",
+      "district": "blackriver",
+      "from": "2026-06-23T04:30:00.000Z",
+      "to": "2026-06-23T05:30:00.000Z",
+      "id": "6ed29d8ef41c8929424fd0e34e9cb1b4"
+    },
     {
       "date": "Le mardi 23 juin 2026 de  08:30:00 à  12:00:00",
       "locality": "RICHE EN EAU",
@@ -13,6 +33,26 @@
       "from": "2026-06-23T04:30:00.000Z",
       "to": "2026-06-23T08:00:00.000Z",
       "id": "00d08025a08cdf63f29f334552310099"
+    },
+    {
+      "date": "Le mardi 23 juin 2026 de  09:00:00 à  12:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "à Baie Diamant, Baie Malgache, Anse Goeland, Baie Du Nord et Anse Nicolas",
+      "district": "rodrigues",
+      "from": "2026-06-23T05:00:00.000Z",
+      "to": "2026-06-23T08:00:00.000Z",
+      "id": "e3152ca67b2b5b3cd9c2ec57c9a89a4c"
+    },
+    {
+      "date": "Le mardi 23 juin 2026 de  08:30:00 à  16:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Morcellement Songes, Port Sud Est, Mourouck, et Montagne Cherie",
+      "district": "rodrigues",
+      "from": "2026-06-23T04:30:00.000Z",
+      "to": "2026-06-23T12:00:00.000Z",
+      "id": "35043e3f072b424349a486f29378b844"
     }
   ]
 }

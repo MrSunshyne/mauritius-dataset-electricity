@@ -2,11 +2,25 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-06-22T09:54:58.947Z",
-  "outageCount": 232,
+  "generated": "2026-06-22T11:59:01.447Z",
+  "outageCount": 234,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-06-21",
+  "lastOutage": "2026-06-23",
   "outages": [
+    {
+      "date": "Le mardi 23 juin 2026 de  09:00:00 à  12:00:00",
+      "streets": "à Baie Diamant, Baie Malgache, Anse Goeland, Baie Du Nord et Anse Nicolas",
+      "from": "2026-06-23T05:00:00.000Z",
+      "to": "2026-06-23T08:00:00.000Z",
+      "id": "e3152ca67b2b5b3cd9c2ec57c9a89a4c"
+    },
+    {
+      "date": "Le mardi 23 juin 2026 de  08:30:00 à  16:00:00",
+      "streets": "Morcellement Songes, Port Sud Est, Mourouck, et Montagne Cherie",
+      "from": "2026-06-23T04:30:00.000Z",
+      "to": "2026-06-23T12:00:00.000Z",
+      "id": "35043e3f072b424349a486f29378b844"
+    },
     {
       "date": "Le dimanche 21 juin 2026 de  08:30:00 à  15:00:00",
       "streets": "Graviers et Var Brules",
