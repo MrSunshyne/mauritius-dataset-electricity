@@ -1,8 +1,8 @@
 {
   "date": "2026-06-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-22T14:06:17.592Z",
-  "outageCount": 7,
+  "generated": "2026-06-22T16:30:49.634Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le lundi 22 juin 2026 de  09:45:00 à  10:50:00",
@@ -33,6 +33,26 @@
       "from": "2026-06-22T11:00:00.000Z",
       "to": "2026-06-22T13:00:00.000Z",
       "id": "30a8f929cd759dd6b657b224ae80797d"
+    },
+    {
+      "date": "Le lundi 22 juin 2026 de  18:45:00 à  22:00:00",
+      "locality": "MELROSE",
+      "localitySlug": "melrose",
+      "streets": "COORPERATIVE AVE, DALIAH AVE & SURROUNDINGS",
+      "district": "moka",
+      "from": "2026-06-22T14:45:00.000Z",
+      "to": "2026-06-22T18:00:00.000Z",
+      "id": "ce1b7d93275edf86a3eb2cca4e538fb5"
+    },
+    {
+      "date": "Le lundi 22 juin 2026 de  20:00:00 à  00:00:00",
+      "locality": "SOLITUDE",
+      "localitySlug": "solitude",
+      "streets": "NHDC & SURROUNDINGS",
+      "district": "pamplemousses",
+      "from": "2026-06-22T16:00:00.000Z",
+      "to": "2026-06-21T20:00:00.000Z",
+      "id": "008f57c6d8dd1e608dd00c4e868f05bd"
     },
     {
       "date": "Le lundi 22 juin 2026 de  11:00:00 à  12:00:00",

@@ -2,11 +2,18 @@
   "slug": "melrose",
   "name": "MELROSE",
   "district": "moka",
-  "generated": "2026-06-22T14:06:17.671Z",
-  "outageCount": 18,
+  "generated": "2026-06-22T16:30:49.723Z",
+  "outageCount": 19,
   "firstOutage": "2022-05-27",
-  "lastOutage": "2026-05-20",
+  "lastOutage": "2026-06-22",
   "outages": [
+    {
+      "date": "Le lundi 22 juin 2026 de  18:45:00 à  22:00:00",
+      "streets": "COORPERATIVE AVE, DALIAH AVE & SURROUNDINGS",
+      "from": "2026-06-22T14:45:00.000Z",
+      "to": "2026-06-22T18:00:00.000Z",
+      "id": "ce1b7d93275edf86a3eb2cca4e538fb5"
+    },
     {
       "date": "Le mercredi 20 mai 2026 de  09:40:00 à  14:00:00",
       "streets": "NHDC MELROSE",
