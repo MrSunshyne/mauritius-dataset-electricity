@@ -2,11 +2,18 @@
   "slug": "palmar",
   "name": "PALMAR",
   "district": "flacq",
-  "generated": "2026-06-23T10:59:22.284Z",
-  "outageCount": 17,
+  "generated": "2026-06-23T12:04:58.431Z",
+  "outageCount": 18,
   "firstOutage": "2022-10-21",
-  "lastOutage": "2026-05-03",
+  "lastOutage": "2026-06-25",
   "outages": [
+    {
+      "date": "Le jeudi 25 juin 2026 de  09:00:00 à  11:00:00",
+      "streets": "La route côtière près l’hôtel C Mauritius et l’hôtel Seasense.",
+      "from": "2026-06-25T05:00:00.000Z",
+      "to": "2026-06-25T07:00:00.000Z",
+      "id": "2cadb1a21e1fb673907c7e97cb82abd4"
+    },
     {
       "date": "Le dimanche 3 mai 2026 de  11:00:00 à  16:30:00",
       "streets": "PART OF PALMAR, QUATRE COCO, CAMP MARCELIN & ISIDORE ROSE",

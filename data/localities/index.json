@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-23T10:59:22.330Z",
+  "generated": "2026-06-23T12:04:58.475Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -115,10 +115,10 @@
       "slug": "arsenal",
       "name": "ARSENAL",
       "district": "pamplemousses",
-      "outageCount": 61,
+      "outageCount": 62,
       "file": "arsenal.json",
       "firstOutage": "2022-05-25",
-      "lastOutage": "2026-06-13"
+      "lastOutage": "2026-06-23"
     },
     {
       "slug": "bagatelle",
@@ -2689,10 +2689,10 @@
       "slug": "palmar",
       "name": "PALMAR",
       "district": "flacq",
-      "outageCount": 17,
+      "outageCount": 18,
       "file": "palmar.json",
       "firstOutage": "2022-10-21",
-      "lastOutage": "2026-05-03"
+      "lastOutage": "2026-06-25"
     },
     {
       "slug": "pamplemousses",
@@ -3319,10 +3319,10 @@
       "slug": "riche-terre",
       "name": "RICHE TERRE",
       "district": "pamplemousses",
-      "outageCount": 38,
+      "outageCount": 39,
       "file": "riche-terre.json",
       "firstOutage": "2022-04-03",
-      "lastOutage": "2026-06-07"
+      "lastOutage": "2026-06-28"
     },
     {
       "slug": "richelieu",
@@ -3931,10 +3931,10 @@
       "slug": "trou-d-eau-douce",
       "name": "TROU D-EAU DOUCE",
       "district": "flacq",
-      "outageCount": 9,
+      "outageCount": 10,
       "file": "trou-d-eau-douce.json",
       "firstOutage": "2025-10-27",
-      "lastOutage": "2026-05-22"
+      "lastOutage": "2026-06-24"
     },
     {
       "slug": "tyack",

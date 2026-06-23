@@ -1,9 +1,19 @@
 {
   "date": "2026-06-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-23T10:59:22.198Z",
-  "outageCount": 2,
+  "generated": "2026-06-23T12:04:58.344Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le mercredi 24 juin 2026 de  08:45:00 à  12:00:00",
+      "locality": "TROU D-EAU DOUCE",
+      "localitySlug": "trou-d-eau-douce",
+      "streets": "Sept Croise, Morc Dalais et Morc Poonith.",
+      "district": "flacq",
+      "from": "2026-06-24T04:45:00.000Z",
+      "to": "2026-06-24T08:00:00.000Z",
+      "id": "15e473138cf832b1291968233d96b9b1"
+    },
     {
       "date": "Le mercredi 24 juin 2026 de  09:00:00 à  15:30:00",
       "locality": "POINTE AUX SABLES",
