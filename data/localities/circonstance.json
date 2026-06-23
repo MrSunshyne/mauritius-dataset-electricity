@@ -2,11 +2,18 @@
   "slug": "circonstance",
   "name": "CIRCONSTANCE",
   "district": "moka",
-  "generated": "2026-06-23T12:04:58.389Z",
-  "outageCount": 9,
+  "generated": "2026-06-23T13:48:13.372Z",
+  "outageCount": 10,
   "firstOutage": "2023-04-13",
-  "lastOutage": "2025-06-29",
+  "lastOutage": "2026-06-23",
   "outages": [
+    {
+      "date": "Le mardi 23 juin 2026 de  17:15:00 à  18:15:00",
+      "streets": "NHDC CIRCONSTANCE NR DREAM PRICE ST PIERRE",
+      "from": "2026-06-23T13:15:00.000Z",
+      "to": "2026-06-23T14:15:00.000Z",
+      "id": "0befc47017e169d9b0303ea845bdf541"
+    },
     {
       "date": "Le dimanche 29 juin 2025 de  08:30:00 à  15:00:00",
       "streets": "Shivala Rd, Tamil Temple, Ste Catherine, Chemin Lamarre, Morc Desmarais et Cemetery Rd",

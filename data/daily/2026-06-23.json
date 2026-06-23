@@ -1,8 +1,8 @@
 {
   "date": "2026-06-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-23T12:04:58.344Z",
-  "outageCount": 11,
+  "generated": "2026-06-23T13:48:13.327Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le mardi 23 juin 2026 de  17:00:00 à  18:00:00",
@@ -73,6 +73,16 @@
       "from": "2026-06-23T08:30:00.000Z",
       "to": "2026-06-23T10:45:00.000Z",
       "id": "f5d5a309519687b1eefc4ad95cc7cc25"
+    },
+    {
+      "date": "Le mardi 23 juin 2026 de  17:15:00 à  18:15:00",
+      "locality": "CIRCONSTANCE",
+      "localitySlug": "circonstance",
+      "streets": "NHDC CIRCONSTANCE NR DREAM PRICE ST PIERRE",
+      "district": "moka",
+      "from": "2026-06-23T13:15:00.000Z",
+      "to": "2026-06-23T14:15:00.000Z",
+      "id": "0befc47017e169d9b0303ea845bdf541"
     },
     {
       "date": "Le mardi 23 juin 2026 de  09:45:00 à  11:15:00",
