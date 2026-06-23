@@ -1,8 +1,8 @@
 {
   "date": "2026-06-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-23T07:07:05.763Z",
-  "outageCount": 9,
+  "generated": "2026-06-23T09:00:43.147Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le mardi 23 juin 2026 de  17:00:00 à  18:00:00",
@@ -63,6 +63,16 @@
       "from": "2026-06-23T04:30:00.000Z",
       "to": "2026-06-23T08:00:00.000Z",
       "id": "00d08025a08cdf63f29f334552310099"
+    },
+    {
+      "date": "Le mardi 23 juin 2026 de  12:30:00 à  14:45:00",
+      "locality": "MARE TABAC",
+      "localitySlug": "mare-tabac",
+      "streets": "PRABOODYAL ROAD/SSR ROAD",
+      "district": "grandport",
+      "from": "2026-06-23T08:30:00.000Z",
+      "to": "2026-06-23T10:45:00.000Z",
+      "id": "f5d5a309519687b1eefc4ad95cc7cc25"
     },
     {
       "date": "Le mardi 23 juin 2026 de  09:45:00 à  11:15:00",
