@@ -2,11 +2,18 @@
   "slug": "terracine",
   "name": "TERRACINE",
   "district": "savanne",
-  "generated": "2026-06-22T18:19:03.110Z",
-  "outageCount": 4,
+  "generated": "2026-06-23T07:07:05.867Z",
+  "outageCount": 5,
   "firstOutage": "2025-01-17",
-  "lastOutage": "2026-04-20",
+  "lastOutage": "2026-06-25",
   "outages": [
+    {
+      "date": "Le jeudi 25 juin 2026 de  08:30:00 à  15:00:00",
+      "streets": "Morcellement Terracine, Morcellement Lady Barkly Souillac et NHDC Terracine",
+      "from": "2026-06-25T04:30:00.000Z",
+      "to": "2026-06-25T11:00:00.000Z",
+      "id": "d4aafc1258700e1399c92e7a2f573521"
+    },
     {
       "date": "Le lundi 20 avril 2026 de  09:30:00 à  12:30:00",
       "streets": "NHDC PIERRE DE SOLEIL TERRACINE",

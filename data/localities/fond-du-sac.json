@@ -2,11 +2,18 @@
   "slug": "fond-du-sac",
   "name": "FOND DU SAC",
   "district": "pamplemousses",
-  "generated": "2026-06-22T18:19:03.039Z",
-  "outageCount": 44,
+  "generated": "2026-06-23T07:07:05.813Z",
+  "outageCount": 45,
   "firstOutage": "2022-06-16",
-  "lastOutage": "2026-06-07",
+  "lastOutage": "2026-06-23",
   "outages": [
+    {
+      "date": "Le mardi 23 juin 2026 de  09:45:00 à  11:15:00",
+      "streets": "CHEMIN DIAGONAL FONDUSAC",
+      "from": "2026-06-23T05:45:00.000Z",
+      "to": "2026-06-23T07:15:00.000Z",
+      "id": "ec9423e52fd1c7690a20cd91b44c24cd"
+    },
     {
       "date": "Le dimanche 7 juin 2026 de  08:30:00 à  15:30:00",
       "streets": "Fond Du Sac, Rouge Terre dans les environs de Basalt et une partie de Bois Mangues, Morc London Tower",

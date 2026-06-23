@@ -2,11 +2,18 @@
   "slug": "pointe-aux-sables",
   "name": "POINTE AUX SABLES",
   "district": "portlouis",
-  "generated": "2026-06-22T18:19:03.083Z",
-  "outageCount": 143,
+  "generated": "2026-06-23T07:07:05.846Z",
+  "outageCount": 144,
   "firstOutage": "2022-03-30",
-  "lastOutage": "2026-06-13",
+  "lastOutage": "2026-06-24",
   "outages": [
+    {
+      "date": "Le mercredi 24 juin 2026 de  09:00:00 à  15:30:00",
+      "streets": "Dans les environs de Sohun Lane et une partie de la route cotiere",
+      "from": "2026-06-24T05:00:00.000Z",
+      "to": "2026-06-24T11:30:00.000Z",
+      "id": "ad4bf7f756a39b1b4863528f41b4abcf"
+    },
     {
       "date": "Le samedi 13 juin 2026 de  09:00:00 à  13:30:00",
       "streets": "Dans les environs de Morc Ilois, Debarcadere, Residence Coquillages, Residence La Tourelle, Pigeon Street, Albatross Street, Floribunda Street, Hollycook, Sterling Silver Road et la route cotiere",

@@ -1,9 +1,19 @@
 {
   "date": "2026-06-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-22T18:19:02.978Z",
-  "outageCount": 1,
+  "generated": "2026-06-23T07:07:05.763Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le mercredi 24 juin 2026 de  09:00:00 à  15:30:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "Dans les environs de Sohun Lane et une partie de la route cotiere",
+      "district": "portlouis",
+      "from": "2026-06-24T05:00:00.000Z",
+      "to": "2026-06-24T11:30:00.000Z",
+      "id": "ad4bf7f756a39b1b4863528f41b4abcf"
+    },
     {
       "date": "Le mercredi 24 juin 2026 de  09:00:00 à  13:00:00",
       "locality": "PLAINE DES ROCHES",

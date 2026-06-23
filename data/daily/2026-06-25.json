@@ -1,0 +1,28 @@
+{
+  "date": "2026-06-25",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-06-23T07:07:05.764Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le jeudi 25 juin 2026 de  08:30:00 à  16:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Pumping Station Engen, Indian Oil,Shell , Mc Donald and Watchman Quarters at La Vigie",
+      "district": "plainewilhems",
+      "from": "2026-06-25T04:30:00.000Z",
+      "to": "2026-06-25T12:00:00.000Z",
+      "id": "39e8a7199d5564c9535652e943622baa"
+    },
+    {
+      "date": "Le jeudi 25 juin 2026 de  08:30:00 à  15:00:00",
+      "locality": "TERRACINE",
+      "localitySlug": "terracine",
+      "streets": "Morcellement Terracine, Morcellement Lady Barkly Souillac et NHDC Terracine",
+      "district": "savanne",
+      "from": "2026-06-25T04:30:00.000Z",
+      "to": "2026-06-25T11:00:00.000Z",
+      "id": "d4aafc1258700e1399c92e7a2f573521"
+    }
+  ]
+}

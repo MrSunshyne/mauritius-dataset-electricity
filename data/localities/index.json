@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-22T18:19:03.121Z",
+  "generated": "2026-06-23T07:07:05.876Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -25,7 +25,7 @@
       "slug": "albion",
       "name": "ALBION",
       "district": "blackriver",
-      "outageCount": 122,
+      "outageCount": 124,
       "file": "albion.json",
       "firstOutage": "2022-06-06",
       "lastOutage": "2026-06-23"
@@ -1303,10 +1303,10 @@
       "slug": "curepipe",
       "name": "CUREPIPE",
       "district": "plainewilhems",
-      "outageCount": 222,
+      "outageCount": 223,
       "file": "curepipe.json",
       "firstOutage": "2022-03-27",
-      "lastOutage": "2026-06-22"
+      "lastOutage": "2026-06-25"
     },
     {
       "slug": "d-epinay",
@@ -1501,10 +1501,10 @@
       "slug": "fond-du-sac",
       "name": "FOND DU SAC",
       "district": "pamplemousses",
-      "outageCount": 44,
+      "outageCount": 45,
       "file": "fond-du-sac.json",
       "firstOutage": "2022-06-16",
-      "lastOutage": "2026-06-07"
+      "lastOutage": "2026-06-23"
     },
     {
       "slug": "fond-la-bonte",
@@ -3013,10 +3013,10 @@
       "slug": "pointe-aux-sables",
       "name": "POINTE AUX SABLES",
       "district": "portlouis",
-      "outageCount": 143,
+      "outageCount": 144,
       "file": "pointe-aux-sables.json",
       "firstOutage": "2022-03-30",
-      "lastOutage": "2026-06-13"
+      "lastOutage": "2026-06-24"
     },
     {
       "slug": "pointe-d-esny",
@@ -3814,10 +3814,10 @@
       "slug": "terracine",
       "name": "TERRACINE",
       "district": "savanne",
-      "outageCount": 4,
+      "outageCount": 5,
       "file": "terracine.json",
       "firstOutage": "2025-01-17",
-      "lastOutage": "2026-04-20"
+      "lastOutage": "2026-06-25"
     },
     {
       "slug": "terrasson",
