@@ -1,8 +1,8 @@
 {
   "date": "2026-06-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-23T18:35:14.020Z",
-  "outageCount": 3,
+  "generated": "2026-06-24T07:03:55.315Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le mercredi 24 juin 2026 de  08:45:00 à  12:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-06-24T04:45:00.000Z",
       "to": "2026-06-24T08:00:00.000Z",
       "id": "15e473138cf832b1291968233d96b9b1"
+    },
+    {
+      "date": "Le mercredi 24 juin 2026 de  09:00:00 à  11:00:00",
+      "locality": "DAGOTIERE",
+      "localitySlug": "dagotiere",
+      "streets": "EN PARTIE RL ROAD",
+      "district": "moka",
+      "from": "2026-06-24T05:00:00.000Z",
+      "to": "2026-06-24T07:00:00.000Z",
+      "id": "19888c7879b0790ca5312d811605d7b4"
     },
     {
       "date": "Le mercredi 24 juin 2026 de  09:00:00 à  15:30:00",
@@ -33,6 +43,16 @@
       "from": "2026-06-24T05:00:00.000Z",
       "to": "2026-06-24T09:00:00.000Z",
       "id": "54d1a61adc43eb2fb6f952a08bf6c0cc"
+    },
+    {
+      "date": "Le mercredi 24 juin 2026 de  09:00:00 à  11:00:00",
+      "locality": "BATIMARAIS",
+      "localitySlug": "batimarais",
+      "streets": "ROYAL RD BATIMARAIS",
+      "district": "savanne",
+      "from": "2026-06-24T05:00:00.000Z",
+      "to": "2026-06-24T07:00:00.000Z",
+      "id": "2ea6f852d934b58dec825a3533f0bc5f"
     }
   ]
 }

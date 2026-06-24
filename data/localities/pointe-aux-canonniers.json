@@ -2,11 +2,18 @@
   "slug": "pointe-aux-canonniers",
   "name": "POINTE AUX CANONNIERS",
   "district": "rivieredurempart",
-  "generated": "2026-06-23T18:35:14.116Z",
-  "outageCount": 52,
+  "generated": "2026-06-24T07:03:55.425Z",
+  "outageCount": 53,
   "firstOutage": "2022-04-15",
-  "lastOutage": "2026-06-06",
+  "lastOutage": "2026-06-25",
   "outages": [
+    {
+      "date": "Le jeudi 25 juin 2026 de  12:30:00 à  16:30:00",
+      "streets": "GRAND BAY RESERVOIR ROAD, ROYAL ROAD, COASTAL ROAD POINTE AUX CANNONIERS",
+      "from": "2026-06-25T08:30:00.000Z",
+      "to": "2026-06-25T12:30:00.000Z",
+      "id": "ec5b0e15bac93122d387bab9fbb3e591"
+    },
     {
       "date": "Le samedi 6 juin 2026 de  09:15:00 à  14:00:00",
       "streets": "VILLA NIRVANA,VILLA RAMJUTTUN,VILLA ALISSA LA COLLINE",

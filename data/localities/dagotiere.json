@@ -2,11 +2,18 @@
   "slug": "dagotiere",
   "name": "DAGOTIERE",
   "district": "moka",
-  "generated": "2026-06-23T18:35:14.070Z",
-  "outageCount": 25,
+  "generated": "2026-06-24T07:03:55.373Z",
+  "outageCount": 26,
   "firstOutage": "2022-04-24",
-  "lastOutage": "2026-03-28",
+  "lastOutage": "2026-06-24",
   "outages": [
+    {
+      "date": "Le mercredi 24 juin 2026 de  09:00:00 à  11:00:00",
+      "streets": "EN PARTIE RL ROAD",
+      "from": "2026-06-24T05:00:00.000Z",
+      "to": "2026-06-24T07:00:00.000Z",
+      "id": "19888c7879b0790ca5312d811605d7b4"
+    },
     {
       "date": "Le samedi 28 mars 2026 de  14:00:00 à  18:00:00",
       "streets": "DAGOTIER/VILLAGE LESPERANCE",

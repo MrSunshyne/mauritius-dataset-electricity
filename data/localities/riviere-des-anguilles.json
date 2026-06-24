@@ -2,11 +2,18 @@
   "slug": "riviere-des-anguilles",
   "name": "RIVIERE DES ANGUILLES",
   "district": "savanne",
-  "generated": "2026-06-23T18:35:14.129Z",
-  "outageCount": 41,
+  "generated": "2026-06-24T07:03:55.441Z",
+  "outageCount": 42,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2026-05-07",
+  "lastOutage": "2026-06-25",
   "outages": [
+    {
+      "date": "Le jeudi 25 juin 2026 de  09:00:00 à  17:00:00",
+      "streets": "Morcellement La Vanille, NHDC La Vanille, Camp Martin, Football Playground Street, NHDC Camp Martin",
+      "from": "2026-06-25T05:00:00.000Z",
+      "to": "2026-06-25T13:00:00.000Z",
+      "id": "cb39e623561d01c64eef88701403b59f"
+    },
     {
       "date": "Le jeudi 7 mai 2026 de  08:30:00 à  18:15:00",
       "streets": "Rivières des Anguilles habitant dans le périmètre et les rues suivantes: Une partie de la Route Royale, Prudhomme, La Baraque Road, Railway Road, Bansing Road, Soyfoo Road, Gopal Lane, Matabadul Road and SSR Road",
