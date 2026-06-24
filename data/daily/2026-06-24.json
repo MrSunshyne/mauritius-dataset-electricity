@@ -1,8 +1,8 @@
 {
   "date": "2026-06-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-24T16:39:49.074Z",
-  "outageCount": 5,
+  "generated": "2026-06-24T17:33:56.715Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le mercredi 24 juin 2026 de  08:45:00 à  12:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-06-24T05:00:00.000Z",
       "to": "2026-06-24T09:00:00.000Z",
       "id": "54d1a61adc43eb2fb6f952a08bf6c0cc"
+    },
+    {
+      "date": "Le mercredi 24 juin 2026 de  19:00:00 à  01:30:00",
+      "locality": "CALODYNE",
+      "localitySlug": "calodyne",
+      "streets": "ROYAL ROAD CALODYNES",
+      "district": "rivieredurempart",
+      "from": "2026-06-24T15:00:00.000Z",
+      "to": "2026-06-23T21:30:00.000Z",
+      "id": "663365a73605d390c5a9d701ee6e63b8"
     },
     {
       "date": "Le mercredi 24 juin 2026 de  09:00:00 à  12:30:00",
