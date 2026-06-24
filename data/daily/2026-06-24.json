@@ -1,8 +1,8 @@
 {
   "date": "2026-06-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-24T17:33:56.715Z",
-  "outageCount": 6,
+  "generated": "2026-06-24T18:30:46.350Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le mercredi 24 juin 2026 de  08:45:00 à  12:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-06-24T05:00:00.000Z",
       "to": "2026-06-24T07:00:00.000Z",
       "id": "19888c7879b0790ca5312d811605d7b4"
+    },
+    {
+      "date": "Le mercredi 24 juin 2026 de  22:00:00 à  00:30:00",
+      "locality": "QUINZE CANTONS",
+      "localitySlug": "quinze-cantons",
+      "streets": "MORC BAHADOOR QUINZE CANTON",
+      "district": "plainewilhems",
+      "from": "2026-06-24T18:00:00.000Z",
+      "to": "2026-06-23T20:30:00.000Z",
+      "id": "0412e930f8ab4e34cf1415af5f8877fa"
     },
     {
       "date": "Le mercredi 24 juin 2026 de  09:00:00 à  15:30:00",
