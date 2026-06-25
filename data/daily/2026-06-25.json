@@ -1,8 +1,8 @@
 {
   "date": "2026-06-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-25T13:39:12.202Z",
-  "outageCount": 16,
+  "generated": "2026-06-25T14:54:43.173Z",
+  "outageCount": 17,
   "outages": [
     {
       "date": "Le jeudi 25 juin 2026 de  09:00:00 à  11:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-06-25T06:05:00.000Z",
       "to": "2026-06-25T11:00:00.000Z",
       "id": "2b671934ec521bfd234e86c83aadfed4"
+    },
+    {
+      "date": "Le jeudi 25 juin 2026 de  18:00:00 à  22:00:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "CAMP LA BOUE RICHEMARE",
+      "district": "flacq",
+      "from": "2026-06-25T14:00:00.000Z",
+      "to": "2026-06-25T18:00:00.000Z",
+      "id": "ae8ddfd515f726a58d4a0f01f4b26a59"
     },
     {
       "date": "Le jeudi 25 juin 2026 de  10:50:00 à  11:30:00",
