@@ -2,11 +2,18 @@
   "slug": "trou-aux-biches",
   "name": "TROU AUX BICHES",
   "district": "pamplemousses",
-  "generated": "2026-06-25T08:59:21.224Z",
-  "outageCount": 63,
+  "generated": "2026-06-25T10:08:19.297Z",
+  "outageCount": 64,
   "firstOutage": "2022-04-10",
-  "lastOutage": "2026-06-08",
+  "lastOutage": "2026-06-25",
   "outages": [
+    {
+      "date": "Le jeudi 25 juin 2026 de  13:55:00 à  16:30:00",
+      "streets": "MORC ASHVIVA",
+      "from": "2026-06-25T09:55:00.000Z",
+      "to": "2026-06-25T12:30:00.000Z",
+      "id": "3de87c4135b2cdc8763f26e73e1bd2b5"
+    },
     {
       "date": "Le lundi 8 juin 2026 de  10:55:00 à  17:00:00",
       "streets": "PART OF MORC ASHVIVA",

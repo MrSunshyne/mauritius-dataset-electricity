@@ -1,8 +1,8 @@
 {
   "date": "2026-06-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-25T08:59:21.084Z",
-  "outageCount": 12,
+  "generated": "2026-06-25T10:08:19.177Z",
+  "outageCount": 14,
   "outages": [
     {
       "date": "Le jeudi 25 juin 2026 de  09:00:00 à  11:00:00",
@@ -55,6 +55,16 @@
       "id": "8c4738c36f2f84436337c48248bf2f9a"
     },
     {
+      "date": "Le jeudi 25 juin 2026 de  13:55:00 à  16:30:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "MORC ASHVIVA",
+      "district": "pamplemousses",
+      "from": "2026-06-25T09:55:00.000Z",
+      "to": "2026-06-25T12:30:00.000Z",
+      "id": "3de87c4135b2cdc8763f26e73e1bd2b5"
+    },
+    {
       "date": "Le jeudi 25 juin 2026 de  08:30:00 à  16:00:00",
       "locality": "CUREPIPE",
       "localitySlug": "curepipe",
@@ -85,14 +95,14 @@
       "id": "a6d01c4be7dd48ca1f0f8908c421c886"
     },
     {
-      "date": "Le jeudi 25 juin 2026 de  11:20:00 à  13:30:00",
+      "date": "Le jeudi 25 juin 2026 de  11:20:00 à  15:00:00",
       "locality": "PORT-LOUIS",
       "localitySlug": "port-louis",
       "streets": "LA RUE WELLINGTON ET LES ALENTOURS",
       "district": "portlouis",
       "from": "2026-06-25T07:20:00.000Z",
-      "to": "2026-06-25T09:30:00.000Z",
-      "id": "b138a1300929221670a7b66607d227bd"
+      "to": "2026-06-25T11:00:00.000Z",
+      "id": "a72796c9ee4e521d16caca9d21019811"
     },
     {
       "date": "Le jeudi 25 juin 2026 de  12:30:00 à  16:30:00",
@@ -103,6 +113,16 @@
       "from": "2026-06-25T08:30:00.000Z",
       "to": "2026-06-25T12:30:00.000Z",
       "id": "ec5b0e15bac93122d387bab9fbb3e591"
+    },
+    {
+      "date": "Le jeudi 25 juin 2026 de  13:00:00 à  15:00:00",
+      "locality": "LOWER VALE",
+      "localitySlug": "lower-vale",
+      "streets": "PART OF LOWER VALE",
+      "district": "rivieredurempart",
+      "from": "2026-06-25T09:00:00.000Z",
+      "to": "2026-06-25T11:00:00.000Z",
+      "id": "84047f8f30602b2ff739a4f2b40b5be9"
     },
     {
       "date": "Le jeudi 25 juin 2026 de  08:30:00 à  15:00:00",
