@@ -1,8 +1,8 @@
 {
   "date": "2026-06-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-25T17:35:43.434Z",
-  "outageCount": 17,
+  "generated": "2026-06-25T18:39:03.435Z",
+  "outageCount": 18,
   "outages": [
     {
       "date": "Le jeudi 25 juin 2026 de  09:00:00 à  11:00:00",
@@ -63,6 +63,16 @@
       "from": "2026-06-25T10:20:00.000Z",
       "to": "2026-06-25T14:30:00.000Z",
       "id": "0f2824e0453f868aa51f705b93127c10"
+    },
+    {
+      "date": "Le jeudi 25 juin 2026 de  21:00:00 à  23:00:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "MOKA-HELVETTIA-ST PIERRE-NOUVELLE DECOUVERT-RIPAILLS",
+      "district": "moka",
+      "from": "2026-06-25T17:00:00.000Z",
+      "to": "2026-06-25T19:00:00.000Z",
+      "id": "24d6e7b0d32772c8536851a97495649a"
     },
     {
       "date": "Le jeudi 25 juin 2026 de  11:15:00 à  14:15:00",

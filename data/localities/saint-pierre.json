@@ -2,11 +2,18 @@
   "slug": "saint-pierre",
   "name": "SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-06-25T17:35:43.529Z",
-  "outageCount": 73,
+  "generated": "2026-06-25T18:39:03.562Z",
+  "outageCount": 74,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-06-03",
+  "lastOutage": "2026-06-25",
   "outages": [
+    {
+      "date": "Le jeudi 25 juin 2026 de  21:00:00 à  23:00:00",
+      "streets": "MOKA-HELVETTIA-ST PIERRE-NOUVELLE DECOUVERT-RIPAILLS",
+      "from": "2026-06-25T17:00:00.000Z",
+      "to": "2026-06-25T19:00:00.000Z",
+      "id": "24d6e7b0d32772c8536851a97495649a"
+    },
     {
       "date": "Le mercredi 3 juin 2026 de  11:40:00 à  16:00:00",
       "streets": "CITE ST CATHERINE CIRCONSTANCE ST PIERRE",
