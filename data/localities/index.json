@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-25T10:08:19.303Z",
+  "generated": "2026-06-25T11:50:55.728Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -2149,10 +2149,10 @@
       "slug": "long-mountain",
       "name": "LONG MOUNTAIN",
       "district": "pamplemousses",
-      "outageCount": 29,
+      "outageCount": 30,
       "file": "long-mountain.json",
       "firstOutage": "2022-05-26",
-      "lastOutage": "2026-06-01"
+      "lastOutage": "2026-06-27"
     },
     {
       "slug": "lower-vale",
@@ -2572,10 +2572,10 @@
       "slug": "morc-saint-andre",
       "name": "MORC SAINT ANDRE",
       "district": "pamplemousses",
-      "outageCount": 43,
+      "outageCount": 44,
       "file": "morc-saint-andre.json",
       "firstOutage": "2022-04-12",
-      "lastOutage": "2026-05-16"
+      "lastOutage": "2026-06-28"
     },
     {
       "slug": "mount",
@@ -2869,7 +2869,7 @@
       "slug": "phoenix",
       "name": "PHOENIX",
       "district": "plainewilhems",
-      "outageCount": 110,
+      "outageCount": 111,
       "file": "phoenix.json",
       "firstOutage": "2022-03-20",
       "lastOutage": "2026-06-25"

@@ -1,8 +1,8 @@
 {
   "date": "2026-06-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-25T10:08:19.177Z",
-  "outageCount": 14,
+  "generated": "2026-06-25T11:50:55.589Z",
+  "outageCount": 16,
   "outages": [
     {
       "date": "Le jeudi 25 juin 2026 de  09:00:00 à  11:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-06-25T06:50:00.000Z",
       "to": "2026-06-25T07:30:00.000Z",
       "id": "6a207ba144280314b2da88b624922ec1"
+    },
+    {
+      "date": "Le jeudi 25 juin 2026 de  14:20:00 à  18:30:00",
+      "locality": "LA CAMBUSE",
+      "localitySlug": "la-cambuse",
+      "streets": "PART OF LA CAMBUSE",
+      "district": "grandport",
+      "from": "2026-06-25T10:20:00.000Z",
+      "to": "2026-06-25T14:30:00.000Z",
+      "id": "0f2824e0453f868aa51f705b93127c10"
     },
     {
       "date": "Le jeudi 25 juin 2026 de  11:15:00 à  14:15:00",
@@ -93,6 +103,16 @@
       "from": "2026-06-25T05:00:00.000Z",
       "to": "2026-06-25T10:00:00.000Z",
       "id": "a6d01c4be7dd48ca1f0f8908c421c886"
+    },
+    {
+      "date": "Le jeudi 25 juin 2026 de  14:40:00 à  16:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "REMY OLLIER ST & SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2026-06-25T10:40:00.000Z",
+      "to": "2026-06-25T12:00:00.000Z",
+      "id": "dc08d2a1b94c290409a930866d0d02b3"
     },
     {
       "date": "Le jeudi 25 juin 2026 de  11:20:00 à  15:00:00",

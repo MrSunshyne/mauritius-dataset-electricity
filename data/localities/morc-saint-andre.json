@@ -2,11 +2,18 @@
   "slug": "morc-saint-andre",
   "name": "MORC SAINT ANDRE",
   "district": "pamplemousses",
-  "generated": "2026-06-25T10:08:19.257Z",
-  "outageCount": 43,
+  "generated": "2026-06-25T11:50:55.678Z",
+  "outageCount": 44,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-05-16",
+  "lastOutage": "2026-06-28",
   "outages": [
+    {
+      "date": "Le dimanche 28 juin 2026 de  08:00:00 à  15:00:00",
+      "streets": "Dans les environs de Hamlet Road, DAV College et LoLo Hypermarket",
+      "from": "2026-06-28T04:00:00.000Z",
+      "to": "2026-06-28T11:00:00.000Z",
+      "id": "a3b7ed328133afc4fcaf7764e15b4081"
+    },
     {
       "date": "Le samedi 16 mai 2026 de  08:30:00 à  15:30:00",
       "streets": "Dans les environs de Tagore rd et en partie Dr Manilal rd, SSR rd et la route principale",

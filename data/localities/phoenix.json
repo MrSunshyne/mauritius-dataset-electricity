@@ -2,11 +2,18 @@
   "slug": "phoenix",
   "name": "PHOENIX",
   "district": "plainewilhems",
-  "generated": "2026-06-25T10:08:19.265Z",
-  "outageCount": 110,
+  "generated": "2026-06-25T11:50:55.687Z",
+  "outageCount": 111,
   "firstOutage": "2022-03-20",
   "lastOutage": "2026-06-25",
   "outages": [
+    {
+      "date": "Le jeudi 25 juin 2026 de  14:40:00 à  16:00:00",
+      "streets": "REMY OLLIER ST & SURROUNDINGS",
+      "from": "2026-06-25T10:40:00.000Z",
+      "to": "2026-06-25T12:00:00.000Z",
+      "id": "dc08d2a1b94c290409a930866d0d02b3"
+    },
     {
       "date": "Le jeudi 25 juin 2026 de  10:15:00 à  12:30:00",
       "streets": "Iqbal Road",
