@@ -2,11 +2,18 @@
   "slug": "phoenix",
   "name": "PHOENIX",
   "district": "plainewilhems",
-  "generated": "2026-06-24T18:30:46.447Z",
-  "outageCount": 109,
+  "generated": "2026-06-25T07:04:02.600Z",
+  "outageCount": 110,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-06-21",
+  "lastOutage": "2026-06-25",
   "outages": [
+    {
+      "date": "Le jeudi 25 juin 2026 de  10:15:00 à  12:30:00",
+      "streets": "Iqbal Road",
+      "from": "2026-06-25T06:15:00.000Z",
+      "to": "2026-06-25T08:30:00.000Z",
+      "id": "d08b1e01861eabf56acd233fb32819d6"
+    },
     {
       "date": "Le dimanche 21 juin 2026 de  08:30:00 à  16:00:00",
       "streets": "Imperial Garden,  Candos Leisure Park Avenue, Phoenix Heights Appartments, Hillcrest Appartments, Phoenix Resisdence Appartments, Morcellement Societe Parkland, J & J Auditorium, Pet Concern, GIBBS, Auto City Car Showroom, Premium Care Clinic, Jayson Network, Ltd, Socota Phoenicia, Cavendish Institute",

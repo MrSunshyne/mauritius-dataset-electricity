@@ -2,11 +2,18 @@
   "slug": "le-morne",
   "name": "LE MORNE",
   "district": "blackriver",
-  "generated": "2026-06-24T18:30:46.426Z",
-  "outageCount": 13,
+  "generated": "2026-06-25T07:04:02.578Z",
+  "outageCount": 14,
   "firstOutage": "2022-05-25",
-  "lastOutage": "2026-02-21",
+  "lastOutage": "2026-06-26",
   "outages": [
+    {
+      "date": "Le vendredi 26 juin 2026 de  08:30:00 à  16:30:00",
+      "streets": "LE MORNE ET LA PRAIRIE",
+      "from": "2026-06-26T04:30:00.000Z",
+      "to": "2026-06-26T12:30:00.000Z",
+      "id": "24c70b05ac3eb055fd69d36946116c1a"
+    },
     {
       "date": "Le samedi 21 février 2026 de  17:00:00 à  22:00:00",
       "streets": "LE MORNE VILLAGE ET DILO POURIE.",

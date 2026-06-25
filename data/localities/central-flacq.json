@@ -2,11 +2,18 @@
   "slug": "central-flacq",
   "name": "CENTRAL FLACQ",
   "district": "flacq",
-  "generated": "2026-06-24T18:30:46.392Z",
-  "outageCount": 73,
+  "generated": "2026-06-25T07:04:02.544Z",
+  "outageCount": 74,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-04-24",
+  "lastOutage": "2026-06-25",
   "outages": [
+    {
+      "date": "Le jeudi 25 juin 2026 de  10:45:00 à  11:45:00",
+      "streets": "Coeur de Ville,SSS Lekraz Teeluck,MGSS,Women Centre,Stade Auguste Vollaire,Cassamally,Francois Mitterand Roads",
+      "from": "2026-06-25T06:45:00.000Z",
+      "to": "2026-06-25T07:45:00.000Z",
+      "id": "dabf7c59259f0f7f4fd6d019873fa614"
+    },
     {
       "date": "Le vendredi 24 avril 2026 de  13:30:00 à  19:30:00",
       "streets": "LA SOURCE RD, DANS LES PERIMETRES DE ONE-STOP SHOP, SENATOR, KFC, MTS, EMCAR ET WINNERS.",

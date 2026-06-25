@@ -1,8 +1,8 @@
 {
   "date": "2026-06-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-24T18:30:46.350Z",
-  "outageCount": 5,
+  "generated": "2026-06-25T07:04:02.502Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le jeudi 25 juin 2026 de  09:00:00 à  11:00:00",
@@ -15,6 +15,36 @@
       "id": "2cadb1a21e1fb673907c7e97cb82abd4"
     },
     {
+      "date": "Le jeudi 25 juin 2026 de  10:45:00 à  11:45:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "Coeur de Ville,SSS Lekraz Teeluck,MGSS,Women Centre,Stade Auguste Vollaire,Cassamally,Francois Mitterand Roads",
+      "district": "flacq",
+      "from": "2026-06-25T06:45:00.000Z",
+      "to": "2026-06-25T07:45:00.000Z",
+      "id": "dabf7c59259f0f7f4fd6d019873fa614"
+    },
+    {
+      "date": "Le jeudi 25 juin 2026 de  10:05:00 à  15:00:00",
+      "locality": "CLAVET",
+      "localitySlug": "clavet",
+      "streets": "NHDC,CWA",
+      "district": "flacq",
+      "from": "2026-06-25T06:05:00.000Z",
+      "to": "2026-06-25T11:00:00.000Z",
+      "id": "2b671934ec521bfd234e86c83aadfed4"
+    },
+    {
+      "date": "Le jeudi 25 juin 2026 de  10:50:00 à  11:30:00",
+      "locality": "VILLENOIRE",
+      "localitySlug": "villenoire",
+      "streets": "MORC VRS ET LES ALENTOURS",
+      "district": "grandport",
+      "from": "2026-06-25T06:50:00.000Z",
+      "to": "2026-06-25T07:30:00.000Z",
+      "id": "6a207ba144280314b2da88b624922ec1"
+    },
+    {
       "date": "Le jeudi 25 juin 2026 de  08:30:00 à  16:00:00",
       "locality": "CUREPIPE",
       "localitySlug": "curepipe",
@@ -23,6 +53,26 @@
       "from": "2026-06-25T04:30:00.000Z",
       "to": "2026-06-25T12:00:00.000Z",
       "id": "39e8a7199d5564c9535652e943622baa"
+    },
+    {
+      "date": "Le jeudi 25 juin 2026 de  10:15:00 à  12:30:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Iqbal Road",
+      "district": "plainewilhems",
+      "from": "2026-06-25T06:15:00.000Z",
+      "to": "2026-06-25T08:30:00.000Z",
+      "id": "d08b1e01861eabf56acd233fb32819d6"
+    },
+    {
+      "date": "Le jeudi 25 juin 2026 de  09:00:00 à  14:00:00",
+      "locality": "BELLE ROSE  ( Q BORNES )",
+      "localitySlug": "belle-rose",
+      "streets": "AVENUES WILSON,COLLEVILLE,DE CAEN",
+      "district": "plainewilhems",
+      "from": "2026-06-25T05:00:00.000Z",
+      "to": "2026-06-25T10:00:00.000Z",
+      "id": "a6d01c4be7dd48ca1f0f8908c421c886"
     },
     {
       "date": "Le jeudi 25 juin 2026 de  12:30:00 à  16:30:00",

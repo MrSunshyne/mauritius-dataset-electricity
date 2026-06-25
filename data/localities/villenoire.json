@@ -2,11 +2,18 @@
   "slug": "villenoire",
   "name": "VILLENOIRE",
   "district": "grandport",
-  "generated": "2026-06-24T18:30:46.490Z",
-  "outageCount": 57,
+  "generated": "2026-06-25T07:04:02.642Z",
+  "outageCount": 58,
   "firstOutage": "2022-06-10",
-  "lastOutage": "2026-06-19",
+  "lastOutage": "2026-06-25",
   "outages": [
+    {
+      "date": "Le jeudi 25 juin 2026 de  10:50:00 à  11:30:00",
+      "streets": "MORC VRS ET LES ALENTOURS",
+      "from": "2026-06-25T06:50:00.000Z",
+      "to": "2026-06-25T07:30:00.000Z",
+      "id": "6a207ba144280314b2da88b624922ec1"
+    },
     {
       "date": "Le vendredi 19 juin 2026 de  15:00:00 à  16:15:00",
       "streets": "WHOLE REGION OF VILLE NOIRE",

@@ -2,11 +2,18 @@
   "slug": "clavet",
   "name": "CLAVET",
   "district": "flacq",
-  "generated": "2026-06-24T18:30:46.397Z",
-  "outageCount": 3,
+  "generated": "2026-06-25T07:04:02.549Z",
+  "outageCount": 4,
   "firstOutage": "2024-09-04",
-  "lastOutage": "2026-01-24",
+  "lastOutage": "2026-06-25",
   "outages": [
+    {
+      "date": "Le jeudi 25 juin 2026 de  10:05:00 à  15:00:00",
+      "streets": "NHDC,CWA",
+      "from": "2026-06-25T06:05:00.000Z",
+      "to": "2026-06-25T11:00:00.000Z",
+      "id": "2b671934ec521bfd234e86c83aadfed4"
+    },
     {
       "date": "Le samedi 24 janvier 2026 de  09:00:00 à  12:00:00",
       "streets": "PART OF CLAVET",

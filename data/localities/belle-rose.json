@@ -2,11 +2,18 @@
   "slug": "belle-rose",
   "name": "BELLE ROSE  ( Q BORNES )",
   "district": "flacq",
-  "generated": "2026-06-24T18:30:46.378Z",
-  "outageCount": 31,
+  "generated": "2026-06-25T07:04:02.529Z",
+  "outageCount": 32,
   "firstOutage": "2022-08-31",
-  "lastOutage": "2026-06-18",
+  "lastOutage": "2026-06-25",
   "outages": [
+    {
+      "date": "Le jeudi 25 juin 2026 de  09:00:00 à  14:00:00",
+      "streets": "AVENUES WILSON,COLLEVILLE,DE CAEN",
+      "from": "2026-06-25T05:00:00.000Z",
+      "to": "2026-06-25T10:00:00.000Z",
+      "id": "a6d01c4be7dd48ca1f0f8908c421c886"
+    },
     {
       "date": "Le jeudi 18 juin 2026 de  11:00:00 à  13:00:00",
       "streets": "CWA, Mont Ida Poultry et Belle Rose Poultry.",
