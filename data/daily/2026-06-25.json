@@ -1,8 +1,8 @@
 {
   "date": "2026-06-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-25T07:04:02.502Z",
-  "outageCount": 10,
+  "generated": "2026-06-25T08:59:21.084Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le jeudi 25 juin 2026 de  09:00:00 à  11:00:00",
@@ -45,6 +45,16 @@
       "id": "6a207ba144280314b2da88b624922ec1"
     },
     {
+      "date": "Le jeudi 25 juin 2026 de  11:15:00 à  14:15:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "JAGRITI RD, VIKASH BLDG ET LES ALENTOURS",
+      "district": "pamplemousses",
+      "from": "2026-06-25T07:15:00.000Z",
+      "to": "2026-06-25T10:15:00.000Z",
+      "id": "8c4738c36f2f84436337c48248bf2f9a"
+    },
+    {
       "date": "Le jeudi 25 juin 2026 de  08:30:00 à  16:00:00",
       "locality": "CUREPIPE",
       "localitySlug": "curepipe",
@@ -73,6 +83,16 @@
       "from": "2026-06-25T05:00:00.000Z",
       "to": "2026-06-25T10:00:00.000Z",
       "id": "a6d01c4be7dd48ca1f0f8908c421c886"
+    },
+    {
+      "date": "Le jeudi 25 juin 2026 de  11:20:00 à  13:30:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "LA RUE WELLINGTON ET LES ALENTOURS",
+      "district": "portlouis",
+      "from": "2026-06-25T07:20:00.000Z",
+      "to": "2026-06-25T09:30:00.000Z",
+      "id": "b138a1300929221670a7b66607d227bd"
     },
     {
       "date": "Le jeudi 25 juin 2026 de  12:30:00 à  16:30:00",

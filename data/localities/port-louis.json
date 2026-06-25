@@ -2,11 +2,18 @@
   "slug": "port-louis",
   "name": "PORT-LOUIS",
   "district": "portlouis",
-  "generated": "2026-06-25T07:04:02.607Z",
-  "outageCount": 125,
+  "generated": "2026-06-25T08:59:21.194Z",
+  "outageCount": 126,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-06-17",
+  "lastOutage": "2026-06-25",
   "outages": [
+    {
+      "date": "Le jeudi 25 juin 2026 de  11:20:00 à  13:30:00",
+      "streets": "LA RUE WELLINGTON ET LES ALENTOURS",
+      "from": "2026-06-25T07:20:00.000Z",
+      "to": "2026-06-25T09:30:00.000Z",
+      "id": "b138a1300929221670a7b66607d227bd"
+    },
     {
       "date": "Le mercredi 17 juin 2026 de  10:30:00 à  12:00:00",
       "streets": "RUE MOTAIS-RUE MAUPIN-LA BUTTE PORT LOUIS",

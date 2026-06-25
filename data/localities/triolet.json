@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-06-25T07:04:02.635Z",
-  "outageCount": 141,
+  "generated": "2026-06-25T08:59:21.223Z",
+  "outageCount": 142,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-06-20",
+  "lastOutage": "2026-06-25",
   "outages": [
+    {
+      "date": "Le jeudi 25 juin 2026 de  11:15:00 à  14:15:00",
+      "streets": "JAGRITI RD, VIKASH BLDG ET LES ALENTOURS",
+      "from": "2026-06-25T07:15:00.000Z",
+      "to": "2026-06-25T10:15:00.000Z",
+      "id": "8c4738c36f2f84436337c48248bf2f9a"
+    },
     {
       "date": "Le samedi 20 juin 2026 de  08:30:00 à  14:00:00",
       "streets": "Princess Anne Road et Sungavalingum Road at 7eme Mile Triolet",
