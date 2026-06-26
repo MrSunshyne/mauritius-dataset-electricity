@@ -1,8 +1,8 @@
 {
   "date": "2026-06-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-26T14:49:50.298Z",
-  "outageCount": 7,
+  "generated": "2026-06-26T15:42:32.385Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le vendredi 26 juin 2026 de  08:30:00 à  16:30:00",
@@ -73,6 +73,16 @@
       "from": "2026-06-26T00:00:00.000Z",
       "to": "2026-06-26T08:00:00.000Z",
       "id": "017eb18122db5beb305efd6ed8016ac3"
+    },
+    {
+      "date": "Le vendredi 26 juin 2026 de  14:00:00 à  20:15:00",
+      "locality": "RIVIERE DES ANGUILLES",
+      "localitySlug": "riviere-des-anguilles",
+      "streets": "RIV DES ANGUILLES, TYACK,CAMP DIABLE",
+      "district": "savanne",
+      "from": "2026-06-26T10:00:00.000Z",
+      "to": "2026-06-26T16:15:00.000Z",
+      "id": "fc0d9b0618fff19dfc2bc6f49c48289c"
     }
   ]
 }

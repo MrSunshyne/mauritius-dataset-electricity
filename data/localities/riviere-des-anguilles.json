@@ -2,11 +2,18 @@
   "slug": "riviere-des-anguilles",
   "name": "RIVIERE DES ANGUILLES",
   "district": "savanne",
-  "generated": "2026-06-26T14:49:50.414Z",
-  "outageCount": 42,
+  "generated": "2026-06-26T15:42:32.499Z",
+  "outageCount": 43,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2026-06-25",
+  "lastOutage": "2026-06-26",
   "outages": [
+    {
+      "date": "Le vendredi 26 juin 2026 de  14:00:00 à  20:15:00",
+      "streets": "RIV DES ANGUILLES, TYACK,CAMP DIABLE",
+      "from": "2026-06-26T10:00:00.000Z",
+      "to": "2026-06-26T16:15:00.000Z",
+      "id": "fc0d9b0618fff19dfc2bc6f49c48289c"
+    },
     {
       "date": "Le jeudi 25 juin 2026 de  09:00:00 à  17:00:00",
       "streets": "Morcellement La Vanille, NHDC La Vanille, Camp Martin, Football Playground Street, NHDC Camp Martin",
