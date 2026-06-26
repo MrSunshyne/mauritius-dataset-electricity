@@ -2,11 +2,18 @@
   "slug": "port-louis",
   "name": "PORT-LOUIS",
   "district": "portlouis",
-  "generated": "2026-06-26T16:36:03.093Z",
-  "outageCount": 126,
+  "generated": "2026-06-26T17:30:52.875Z",
+  "outageCount": 127,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-06-25",
+  "lastOutage": "2026-06-26",
   "outages": [
+    {
+      "date": "Le vendredi 26 juin 2026 de  20:45:00 à  00:00:00",
+      "streets": "Poudriere Street, Pope Hennesy Street, Mayor Street, Mgr Gonin, Eugene Laurent Street, Church Street, Wellington Street, St George Street, Champ De LOr Street, St Denis Street, Baden Powell Street",
+      "from": "2026-06-26T16:45:00.000Z",
+      "to": "2026-06-25T20:00:00.000Z",
+      "id": "94dfd91e734026448ed17fa43a0679a3"
+    },
     {
       "date": "Le jeudi 25 juin 2026 de  11:20:00 à  15:00:00",
       "streets": "LA RUE WELLINGTON ET LES ALENTOURS",

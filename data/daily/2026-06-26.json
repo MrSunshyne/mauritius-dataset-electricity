@@ -1,8 +1,8 @@
 {
   "date": "2026-06-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-26T16:36:02.973Z",
-  "outageCount": 9,
+  "generated": "2026-06-26T17:30:52.764Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le vendredi 26 juin 2026 de  08:30:00 à  16:30:00",
@@ -63,6 +63,16 @@
       "from": "2026-06-26T16:15:00.000Z",
       "to": "2026-06-26T19:15:00.000Z",
       "id": "5d6d1c4e7d11d7e5e8571c844273a0b4"
+    },
+    {
+      "date": "Le vendredi 26 juin 2026 de  20:45:00 à  00:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "Poudriere Street, Pope Hennesy Street, Mayor Street, Mgr Gonin, Eugene Laurent Street, Church Street, Wellington Street, St George Street, Champ De LOr Street, St Denis Street, Baden Powell Street",
+      "district": "portlouis",
+      "from": "2026-06-26T16:45:00.000Z",
+      "to": "2026-06-25T20:00:00.000Z",
+      "id": "94dfd91e734026448ed17fa43a0679a3"
     },
     {
       "date": "Le vendredi 26 juin 2026 de  08:30:00 à  11:00:00",
