@@ -2,11 +2,25 @@
   "slug": "souillac",
   "name": "SOUILLAC",
   "district": "savanne",
-  "generated": "2026-06-25T18:39:03.566Z",
-  "outageCount": 74,
+  "generated": "2026-06-26T07:10:51.396Z",
+  "outageCount": 76,
   "firstOutage": "2022-06-05",
-  "lastOutage": "2026-06-18",
+  "lastOutage": "2026-06-26",
   "outages": [
+    {
+      "date": "Le vendredi 26 juin 2026 de  08:30:00 à  11:00:00",
+      "streets": "NHDC Souillac, village de Gris Gris et Domaine Gris Gris",
+      "from": "2026-06-26T04:30:00.000Z",
+      "to": "2026-06-26T07:00:00.000Z",
+      "id": "52a132240924f6dc1183b5ab4f2ae165"
+    },
+    {
+      "date": "Le vendredi 26 juin 2026 de  04:00:00 à  12:00:00",
+      "streets": "MORC GRIS GRIS-MORRISSON RD-ROYAL RD SOUILLAC",
+      "from": "2026-06-26T00:00:00.000Z",
+      "to": "2026-06-26T08:00:00.000Z",
+      "id": "017eb18122db5beb305efd6ed8016ac3"
+    },
     {
       "date": "Le jeudi 18 juin 2026 de  15:00:00 à  18:00:00",
       "streets": "Morc Lady Barkly et Morc Terracine",

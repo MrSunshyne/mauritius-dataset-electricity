@@ -2,11 +2,18 @@
   "slug": "sodnac",
   "name": "SODNAC",
   "district": "plainewilhems",
-  "generated": "2026-06-25T18:39:03.565Z",
-  "outageCount": 49,
+  "generated": "2026-06-26T07:10:51.395Z",
+  "outageCount": 50,
   "firstOutage": "2022-05-30",
-  "lastOutage": "2026-05-15",
+  "lastOutage": "2026-06-26",
   "outages": [
+    {
+      "date": "Le vendredi 26 juin 2026 de  09:00:00 à  12:00:00",
+      "streets": "AVE HILLCREST, AVE FLAMMANTS, AVE EPERVIERS & SURROUNDINGS",
+      "from": "2026-06-26T05:00:00.000Z",
+      "to": "2026-06-26T08:00:00.000Z",
+      "id": "e23bd6476ef31854325dc334941a32d4"
+    },
     {
       "date": "Le vendredi 15 mai 2026 de  12:00:00 à  14:30:00",
       "streets": "AVENUE YLANG YLANG MORC TRIANON 2 SODNAC",

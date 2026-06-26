@@ -2,11 +2,25 @@
   "slug": "cote-d-or",
   "name": "COTE D-OR",
   "district": "moka",
-  "generated": "2026-06-25T18:39:03.485Z",
-  "outageCount": 27,
+  "generated": "2026-06-26T07:10:51.317Z",
+  "outageCount": 29,
   "firstOutage": "2022-05-22",
-  "lastOutage": "2026-05-22",
+  "lastOutage": "2026-06-28",
   "outages": [
+    {
+      "date": "Le dimanche 28 juin 2026 de  11:30:00 à  15:00:00",
+      "streets": "UNE PARTIE DE MORC IREMIA COTE DOR",
+      "from": "2026-06-28T07:30:00.000Z",
+      "to": "2026-06-28T11:00:00.000Z",
+      "id": "90fa5a36b8d782f29d5df5bc9b8c2806"
+    },
+    {
+      "date": "Le samedi 27 juin 2026 de  08:30:00 à  15:00:00",
+      "streets": "UNE PARTIE DE MORC IREMIA COTE DOR",
+      "from": "2026-06-27T04:30:00.000Z",
+      "to": "2026-06-27T11:00:00.000Z",
+      "id": "1b7994b9469841b6482f2f997a2c9155"
+    },
     {
       "date": "Le vendredi 22 mai 2026 de  11:00:00 à  15:00:00",
       "streets": "Morcellement Aurea",

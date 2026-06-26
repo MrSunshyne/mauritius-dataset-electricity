@@ -2,11 +2,18 @@
   "slug": "nouvelle-france",
   "name": "NOUVELLE FRANCE",
   "district": "grandport",
-  "generated": "2026-06-25T18:39:03.528Z",
-  "outageCount": 36,
+  "generated": "2026-06-26T07:10:51.358Z",
+  "outageCount": 37,
   "firstOutage": "2022-05-12",
-  "lastOutage": "2026-03-05",
+  "lastOutage": "2026-06-26",
   "outages": [
+    {
+      "date": "Le vendredi 26 juin 2026 de  10:00:00 à  12:00:00",
+      "streets": "Grand Bassin, Grand Bois, La Flora, Bois Cheri & part of Curepipe",
+      "from": "2026-06-26T06:00:00.000Z",
+      "to": "2026-06-26T08:00:00.000Z",
+      "id": "67b0f3112eb9600e93c9ce7695d93e1b"
+    },
     {
       "date": "Le jeudi 5 mars 2026 de  12:50:00 à  16:00:00",
       "streets": "MORC NOUVELLE FRANCE NEAR PARBEAU,MORC SIT",

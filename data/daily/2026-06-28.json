@@ -1,9 +1,19 @@
 {
   "date": "2026-06-28",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-25T18:39:03.435Z",
-  "outageCount": 3,
+  "generated": "2026-06-26T07:10:51.267Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le dimanche 28 juin 2026 de  11:30:00 à  15:00:00",
+      "locality": "COTE D-OR",
+      "localitySlug": "cote-d-or",
+      "streets": "UNE PARTIE DE MORC IREMIA COTE DOR",
+      "district": "moka",
+      "from": "2026-06-28T07:30:00.000Z",
+      "to": "2026-06-28T11:00:00.000Z",
+      "id": "90fa5a36b8d782f29d5df5bc9b8c2806"
+    },
     {
       "date": "Le dimanche 28 juin 2026 de  08:00:00 à  15:00:00",
       "locality": "RICHE TERRE",
@@ -33,6 +43,16 @@
       "from": "2026-06-28T04:00:00.000Z",
       "to": "2026-06-28T13:00:00.000Z",
       "id": "9a9fb258cc4ef842d654e3e94eeb408c"
+    },
+    {
+      "date": "Le dimanche 28 juin 2026 de  08:30:00 à  11:00:00",
+      "locality": "GLEN PARK",
+      "localitySlug": "glen-park",
+      "streets": "UNE PARTIE DE GLEN PARK ET AVE DES VERGUES",
+      "district": "plainewilhems",
+      "from": "2026-06-28T04:30:00.000Z",
+      "to": "2026-06-28T07:00:00.000Z",
+      "id": "fa5cc07a41013b36d2e726d5a7d25cca"
     }
   ]
 }

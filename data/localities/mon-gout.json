@@ -2,11 +2,18 @@
   "slug": "mon-gout",
   "name": "MON GOUT",
   "district": "pamplemousses",
-  "generated": "2026-06-25T18:39:03.522Z",
-  "outageCount": 16,
+  "generated": "2026-06-26T07:10:51.352Z",
+  "outageCount": 17,
   "firstOutage": "2022-06-08",
-  "lastOutage": "2026-05-27",
+  "lastOutage": "2026-06-26",
   "outages": [
+    {
+      "date": "Le vendredi 26 juin 2026 de  09:30:00 à  12:00:00",
+      "streets": "MORC VRS",
+      "from": "2026-06-26T05:30:00.000Z",
+      "to": "2026-06-26T08:00:00.000Z",
+      "id": "2712ba13341c56d49228fa72053d1fde"
+    },
     {
       "date": "Le mercredi 27 mai 2026 de  08:30:00 à  13:00:00",
       "streets": "MONGOUT",

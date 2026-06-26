@@ -1,9 +1,19 @@
 {
   "date": "2026-06-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-25T18:39:03.435Z",
-  "outageCount": 1,
+  "generated": "2026-06-26T07:10:51.267Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le samedi 27 juin 2026 de  08:30:00 à  15:00:00",
+      "locality": "COTE D-OR",
+      "localitySlug": "cote-d-or",
+      "streets": "UNE PARTIE DE MORC IREMIA COTE DOR",
+      "district": "moka",
+      "from": "2026-06-27T04:30:00.000Z",
+      "to": "2026-06-27T11:00:00.000Z",
+      "id": "1b7994b9469841b6482f2f997a2c9155"
+    },
     {
       "date": "Le samedi 27 juin 2026 de  08:30:00 à  15:00:00",
       "locality": "LONG MOUNTAIN",

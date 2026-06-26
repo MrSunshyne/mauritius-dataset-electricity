@@ -1,8 +1,8 @@
 {
   "date": "2026-06-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-25T18:39:03.435Z",
-  "outageCount": 1,
+  "generated": "2026-06-26T07:10:51.267Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le vendredi 26 juin 2026 de  08:30:00 à  16:30:00",
@@ -13,6 +13,56 @@
       "from": "2026-06-26T04:30:00.000Z",
       "to": "2026-06-26T12:30:00.000Z",
       "id": "24c70b05ac3eb055fd69d36946116c1a"
+    },
+    {
+      "date": "Le vendredi 26 juin 2026 de  10:00:00 à  12:00:00",
+      "locality": "NOUVELLE FRANCE",
+      "localitySlug": "nouvelle-france",
+      "streets": "Grand Bassin, Grand Bois, La Flora, Bois Cheri & part of Curepipe",
+      "district": "grandport",
+      "from": "2026-06-26T06:00:00.000Z",
+      "to": "2026-06-26T08:00:00.000Z",
+      "id": "67b0f3112eb9600e93c9ce7695d93e1b"
+    },
+    {
+      "date": "Le vendredi 26 juin 2026 de  09:30:00 à  12:00:00",
+      "locality": "MON GOUT",
+      "localitySlug": "mon-gout",
+      "streets": "MORC VRS",
+      "district": "pamplemousses",
+      "from": "2026-06-26T05:30:00.000Z",
+      "to": "2026-06-26T08:00:00.000Z",
+      "id": "2712ba13341c56d49228fa72053d1fde"
+    },
+    {
+      "date": "Le vendredi 26 juin 2026 de  09:00:00 à  12:00:00",
+      "locality": "SODNAC",
+      "localitySlug": "sodnac",
+      "streets": "AVE HILLCREST, AVE FLAMMANTS, AVE EPERVIERS & SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2026-06-26T05:00:00.000Z",
+      "to": "2026-06-26T08:00:00.000Z",
+      "id": "e23bd6476ef31854325dc334941a32d4"
+    },
+    {
+      "date": "Le vendredi 26 juin 2026 de  08:30:00 à  11:00:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "NHDC Souillac, village de Gris Gris et Domaine Gris Gris",
+      "district": "savanne",
+      "from": "2026-06-26T04:30:00.000Z",
+      "to": "2026-06-26T07:00:00.000Z",
+      "id": "52a132240924f6dc1183b5ab4f2ae165"
+    },
+    {
+      "date": "Le vendredi 26 juin 2026 de  04:00:00 à  12:00:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "MORC GRIS GRIS-MORRISSON RD-ROYAL RD SOUILLAC",
+      "district": "savanne",
+      "from": "2026-06-26T00:00:00.000Z",
+      "to": "2026-06-26T08:00:00.000Z",
+      "id": "017eb18122db5beb305efd6ed8016ac3"
     }
   ]
 }
