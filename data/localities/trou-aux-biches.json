@@ -2,11 +2,18 @@
   "slug": "trou-aux-biches",
   "name": "TROU AUX BICHES",
   "district": "pamplemousses",
-  "generated": "2026-06-26T09:00:23.285Z",
-  "outageCount": 64,
+  "generated": "2026-06-26T10:10:20.915Z",
+  "outageCount": 65,
   "firstOutage": "2022-04-10",
-  "lastOutage": "2026-06-25",
+  "lastOutage": "2026-06-26",
   "outages": [
+    {
+      "date": "Le vendredi 26 juin 2026 de  13:00:00 à  17:00:00",
+      "streets": "FIRST ROAD FLEURI SUR MER -  GARAGE AUTOSCAN LTD",
+      "from": "2026-06-26T09:00:00.000Z",
+      "to": "2026-06-26T13:00:00.000Z",
+      "id": "bc5020cffe2599c576b31d6bec3ef69c"
+    },
     {
       "date": "Le jeudi 25 juin 2026 de  13:55:00 à  16:30:00",
       "streets": "MORC ASHVIVA",

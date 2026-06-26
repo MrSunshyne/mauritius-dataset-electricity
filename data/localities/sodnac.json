@@ -2,11 +2,18 @@
   "slug": "sodnac",
   "name": "SODNAC",
   "district": "plainewilhems",
-  "generated": "2026-06-26T09:00:23.278Z",
-  "outageCount": 50,
+  "generated": "2026-06-26T10:10:20.907Z",
+  "outageCount": 51,
   "firstOutage": "2022-05-30",
-  "lastOutage": "2026-06-26",
+  "lastOutage": "2026-06-29",
   "outages": [
+    {
+      "date": "Le lundi 29 juin 2026 de  09:00:00 à  12:00:00",
+      "streets": "Ave Bengali, Dodo, Cardinal, Epervier, Flamant, Morc Marouma, Hirondelle, Kiwi, Ibis, Perdix, en partie Ave Hilcrest et SSR Ave",
+      "from": "2026-06-29T05:00:00.000Z",
+      "to": "2026-06-29T08:00:00.000Z",
+      "id": "407231ced376d1d0651d94bb51448d0d"
+    },
     {
       "date": "Le vendredi 26 juin 2026 de  09:00:00 à  12:00:00",
       "streets": "AVE HILLCREST, AVE FLAMMANTS, AVE EPERVIERS & SURROUNDINGS",

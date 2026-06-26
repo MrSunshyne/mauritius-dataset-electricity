@@ -1,8 +1,8 @@
 {
   "date": "2026-06-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-26T09:00:23.144Z",
-  "outageCount": 6,
+  "generated": "2026-06-26T10:10:20.791Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le vendredi 26 juin 2026 de  08:30:00 à  16:30:00",
@@ -33,6 +33,16 @@
       "from": "2026-06-26T05:30:00.000Z",
       "to": "2026-06-26T08:00:00.000Z",
       "id": "2712ba13341c56d49228fa72053d1fde"
+    },
+    {
+      "date": "Le vendredi 26 juin 2026 de  13:00:00 à  17:00:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "FIRST ROAD FLEURI SUR MER -  GARAGE AUTOSCAN LTD",
+      "district": "pamplemousses",
+      "from": "2026-06-26T09:00:00.000Z",
+      "to": "2026-06-26T13:00:00.000Z",
+      "id": "bc5020cffe2599c576b31d6bec3ef69c"
     },
     {
       "date": "Le vendredi 26 juin 2026 de  09:00:00 à  12:00:00",
