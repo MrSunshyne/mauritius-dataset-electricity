@@ -2,11 +2,18 @@
   "slug": "montagne-cabris-est",
   "name": "MONTAGNE CABRIS EST(RODRIGUES)",
   "district": "rodrigues",
-  "generated": "2026-06-26T10:10:20.871Z",
-  "outageCount": 1,
+  "generated": "2026-06-26T11:50:06.271Z",
+  "outageCount": 2,
   "firstOutage": "2023-08-24",
-  "lastOutage": "2023-08-24",
+  "lastOutage": "2026-06-27",
   "outages": [
+    {
+      "date": "Le samedi 27 juin 2026 de  08:30:00 à  15:00:00",
+      "streets": "Morcellement Patate Théophile.  Montagne Cabris",
+      "from": "2026-06-27T04:30:00.000Z",
+      "to": "2026-06-27T11:00:00.000Z",
+      "id": "ca73f806a89357bce326b640dab414c9"
+    },
     {
       "date": "Le jeudi 24 août 2023 de  09:00:00 à  15:00:00",
       "streets": "Montagne Cabris Est",
