@@ -2,11 +2,18 @@
   "slug": "camp-fouquereaux",
   "name": "CAMP FOUQUEREAUX",
   "district": "plainewilhems",
-  "generated": "2026-06-27T06:58:29.567Z",
-  "outageCount": 39,
+  "generated": "2026-06-27T08:00:37.775Z",
+  "outageCount": 40,
   "firstOutage": "2022-03-31",
-  "lastOutage": "2026-06-22",
+  "lastOutage": "2026-06-27",
   "outages": [
+    {
+      "date": "Le samedi 27 juin 2026 de  10:00:00 à  13:00:00",
+      "streets": "CAMP FOUQUERAUX/GALEA 2",
+      "from": "2026-06-27T06:00:00.000Z",
+      "to": "2026-06-27T09:00:00.000Z",
+      "id": "8af38599d43400b49e7cca12343d515a"
+    },
     {
       "date": "Le lundi 22 juin 2026 de  11:00:00 à  12:00:00",
       "streets": "TOUT COURT ROAD, ROYAL RD ET LES ALENTOURS",

@@ -1,8 +1,8 @@
 {
   "date": "2026-06-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-27T06:58:29.527Z",
-  "outageCount": 3,
+  "generated": "2026-06-27T08:00:37.735Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le samedi 27 juin 2026 de  08:30:00 à  15:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-06-27T04:30:00.000Z",
       "to": "2026-06-27T11:00:00.000Z",
       "id": "cd505b11ee32d1d149559156b782a6aa"
+    },
+    {
+      "date": "Le samedi 27 juin 2026 de  10:00:00 à  13:00:00",
+      "locality": "CAMP FOUQUEREAUX",
+      "localitySlug": "camp-fouquereaux",
+      "streets": "CAMP FOUQUERAUX/GALEA 2",
+      "district": "plainewilhems",
+      "from": "2026-06-27T06:00:00.000Z",
+      "to": "2026-06-27T09:00:00.000Z",
+      "id": "8af38599d43400b49e7cca12343d515a"
     },
     {
       "date": "Le samedi 27 juin 2026 de  08:30:00 à  15:00:00",
