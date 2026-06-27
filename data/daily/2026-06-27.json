@@ -1,8 +1,8 @@
 {
   "date": "2026-06-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-27T09:40:24.682Z",
-  "outageCount": 5,
+  "generated": "2026-06-27T10:36:38.603Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le samedi 27 juin 2026 de  08:30:00 à  15:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-06-27T06:00:00.000Z",
       "to": "2026-06-27T09:00:00.000Z",
       "id": "8af38599d43400b49e7cca12343d515a"
+    },
+    {
+      "date": "Le samedi 27 juin 2026 de  13:40:00 à  14:45:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "LEOVILLE LHOMME ST, ANTHELME ST, LA REINE ST, INKERMAN ST & SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2026-06-27T09:40:00.000Z",
+      "to": "2026-06-27T10:45:00.000Z",
+      "id": "c96fa36cf65cc3c467d0baa0157ae171"
     },
     {
       "date": "Le samedi 27 juin 2026 de  08:30:00 à  15:00:00",
