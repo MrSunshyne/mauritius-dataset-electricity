@@ -1,8 +1,8 @@
 {
   "date": "2026-06-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-27T08:00:37.735Z",
-  "outageCount": 4,
+  "generated": "2026-06-27T09:40:24.682Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le samedi 27 juin 2026 de  08:30:00 à  15:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-06-27T04:30:00.000Z",
       "to": "2026-06-27T11:00:00.000Z",
       "id": "ca73f806a89357bce326b640dab414c9"
+    },
+    {
+      "date": "Le samedi 27 juin 2026 de  00:00:00 à  16:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "BAIE TOPAZE/CAMP PINTADE",
+      "district": "rodrigues",
+      "from": "2026-06-26T20:00:00.000Z",
+      "to": "2026-06-26T12:00:00.000Z",
+      "id": "f5cd4cf862f2fed2d579a1272aa2d08f"
     }
   ]
 }

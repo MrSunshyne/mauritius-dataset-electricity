@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-06-27T08:00:37.862Z",
-  "outageCount": 234,
+  "generated": "2026-06-27T09:40:24.819Z",
+  "outageCount": 235,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-06-23",
+  "lastOutage": "2026-06-27",
   "outages": [
+    {
+      "date": "Le samedi 27 juin 2026 de  00:00:00 à  16:00:00",
+      "streets": "BAIE TOPAZE/CAMP PINTADE",
+      "from": "2026-06-26T20:00:00.000Z",
+      "to": "2026-06-26T12:00:00.000Z",
+      "id": "f5cd4cf862f2fed2d579a1272aa2d08f"
+    },
     {
       "date": "Le mardi 23 juin 2026 de  09:00:00 à  12:00:00",
       "streets": "à Baie Diamant, Baie Malgache, Anse Goeland, Baie Du Nord et Anse Nicolas",
