@@ -1,9 +1,19 @@
 {
   "date": "2026-06-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-27T17:21:56.312Z",
-  "outageCount": 6,
+  "generated": "2026-06-27T18:20:27.490Z",
+  "outageCount": 7,
   "outages": [
+    {
+      "date": "Le samedi 27 juin 2026 de  21:45:00 à  23:00:00",
+      "locality": "POSTE DE FLACQ",
+      "localitySlug": "poste-de-flacq",
+      "streets": "Poste de Flacq,La Porte Providence,Pont Blanc",
+      "district": "flacq",
+      "from": "2026-06-27T17:45:00.000Z",
+      "to": "2026-06-27T19:00:00.000Z",
+      "id": "9fd6206bb4dc2aa9d7f88ea133abb600"
+    },
     {
       "date": "Le samedi 27 juin 2026 de  08:30:00 à  15:00:00",
       "locality": "COTE D-OR",

@@ -2,11 +2,18 @@
   "slug": "poste-de-flacq",
   "name": "POSTE DE FLACQ",
   "district": "flacq",
-  "generated": "2026-06-27T17:21:56.426Z",
-  "outageCount": 39,
+  "generated": "2026-06-27T18:20:27.597Z",
+  "outageCount": 40,
   "firstOutage": "2022-06-12",
-  "lastOutage": "2026-04-28",
+  "lastOutage": "2026-06-27",
   "outages": [
+    {
+      "date": "Le samedi 27 juin 2026 de  21:45:00 à  23:00:00",
+      "streets": "Poste de Flacq,La Porte Providence,Pont Blanc",
+      "from": "2026-06-27T17:45:00.000Z",
+      "to": "2026-06-27T19:00:00.000Z",
+      "id": "9fd6206bb4dc2aa9d7f88ea133abb600"
+    },
     {
       "date": "Le mardi 28 avril 2026 de  13:00:00 à  20:00:00",
       "streets": "LAPORTE PROVIDENCE",
