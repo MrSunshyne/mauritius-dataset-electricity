@@ -2,11 +2,18 @@
   "slug": "calodyne",
   "name": "CALODYNE",
   "district": "rivieredurempart",
-  "generated": "2026-06-27T18:20:27.523Z",
-  "outageCount": 40,
+  "generated": "2026-06-28T07:14:48.211Z",
+  "outageCount": 41,
   "firstOutage": "2022-09-10",
-  "lastOutage": "2026-06-24",
+  "lastOutage": "2026-06-28",
   "outages": [
+    {
+      "date": "Le dimanche 28 juin 2026 de  10:00:00 à  17:00:00",
+      "streets": "PART OF SAINT FRANCOIS",
+      "from": "2026-06-28T06:00:00.000Z",
+      "to": "2026-06-28T13:00:00.000Z",
+      "id": "867e3c2d4c6e093db49820b9eb7784ab"
+    },
     {
       "date": "Le mercredi 24 juin 2026 de  19:00:00 à  01:30:00",
       "streets": "ROYAL ROAD CALODYNES",

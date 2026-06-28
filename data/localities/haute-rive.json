@@ -2,11 +2,18 @@
   "slug": "haute-rive",
   "name": "HAUTE RIVE",
   "district": "rivieredurempart",
-  "generated": "2026-06-27T18:20:27.556Z",
-  "outageCount": 6,
+  "generated": "2026-06-28T07:14:48.243Z",
+  "outageCount": 7,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2024-11-27",
+  "lastOutage": "2026-06-28",
   "outages": [
+    {
+      "date": "Le dimanche 28 juin 2026 de  10:45:00 à  11:30:00",
+      "streets": "PART OF HAUTE RIVE & POINTE DES LASCARS",
+      "from": "2026-06-28T06:45:00.000Z",
+      "to": "2026-06-28T07:30:00.000Z",
+      "id": "271aa0ba2eb4c52688d0594a810b8987"
+    },
     {
       "date": "Le mercredi 27 novembre 2024 de  11:15:00 à  12:30:00",
       "streets": "HAUTE RIVE, POINTES DES LASCARS",

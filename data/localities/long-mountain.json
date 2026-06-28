@@ -2,11 +2,18 @@
   "slug": "long-mountain",
   "name": "LONG MOUNTAIN",
   "district": "pamplemousses",
-  "generated": "2026-06-27T18:20:27.568Z",
-  "outageCount": 30,
+  "generated": "2026-06-28T07:14:48.256Z",
+  "outageCount": 31,
   "firstOutage": "2022-05-26",
-  "lastOutage": "2026-06-27",
+  "lastOutage": "2026-06-28",
   "outages": [
+    {
+      "date": "Le dimanche 28 juin 2026 de  08:45:00 à  13:00:00",
+      "streets": "VICTORIA ROAD-VALTON MONTAGNE LONGUE",
+      "from": "2026-06-28T04:45:00.000Z",
+      "to": "2026-06-28T09:00:00.000Z",
+      "id": "d7a8e166e74520c70809e45d3262bf89"
+    },
     {
       "date": "Le samedi 27 juin 2026 de  08:30:00 à  15:00:00",
       "streets": "Dans les environs de Vaton, CAmp La Boue, Descoin et en partie Boulingrin",
