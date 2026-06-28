@@ -1,8 +1,8 @@
 {
   "date": "2026-06-28",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-28T12:22:18.086Z",
-  "outageCount": 11,
+  "generated": "2026-06-28T13:29:23.512Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le dimanche 28 juin 2026 de  11:30:00 à  15:00:00",
@@ -113,6 +113,16 @@
       "from": "2026-06-28T02:00:00.000Z",
       "to": "2026-06-28T03:00:00.000Z",
       "id": "ecab481c98665c1823f6b6ae4d76a096"
+    },
+    {
+      "date": "Le dimanche 28 juin 2026 de  17:00:00 à  18:00:00",
+      "locality": "PORT MATHURIN(RODRIGUES)",
+      "localitySlug": "port-mathurin",
+      "streets": "FOND LADIGUE",
+      "district": "rodrigues",
+      "from": "2026-06-28T13:00:00.000Z",
+      "to": "2026-06-28T14:00:00.000Z",
+      "id": "b5b198c7970b49c31f9e31eaede3282b"
     }
   ]
 }

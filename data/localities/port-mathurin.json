@@ -2,11 +2,18 @@
   "slug": "port-mathurin",
   "name": "PORT MATHURIN(RODRIGUES)",
   "district": "rodrigues",
-  "generated": "2026-06-28T12:22:18.198Z",
-  "outageCount": 12,
+  "generated": "2026-06-28T13:29:23.629Z",
+  "outageCount": 13,
   "firstOutage": "2022-04-13",
   "lastOutage": "2026-06-28",
   "outages": [
+    {
+      "date": "Le dimanche 28 juin 2026 de  17:00:00 à  18:00:00",
+      "streets": "FOND LADIGUE",
+      "from": "2026-06-28T13:00:00.000Z",
+      "to": "2026-06-28T14:00:00.000Z",
+      "id": "b5b198c7970b49c31f9e31eaede3282b"
+    },
     {
       "date": "Le dimanche 28 juin 2026 de  15:00:00 à  16:00:00",
       "streets": "Port Mathurin",
