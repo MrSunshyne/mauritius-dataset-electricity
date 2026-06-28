@@ -1,8 +1,8 @@
 {
   "date": "2026-06-28",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-28T17:23:59.545Z",
-  "outageCount": 12,
+  "generated": "2026-06-28T18:20:12.359Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le dimanche 28 juin 2026 de  11:30:00 à  15:00:00",
@@ -83,6 +83,16 @@
       "from": "2026-06-28T06:00:00.000Z",
       "to": "2026-06-28T13:00:00.000Z",
       "id": "867e3c2d4c6e093db49820b9eb7784ab"
+    },
+    {
+      "date": "Le dimanche 28 juin 2026 de  21:45:00 à  23:45:00",
+      "locality": "SAINT ANTOINE",
+      "localitySlug": "saint-antoine",
+      "streets": "MORC PETIT VILLAGE",
+      "district": "rivieredurempart",
+      "from": "2026-06-28T17:45:00.000Z",
+      "to": "2026-06-28T19:45:00.000Z",
+      "id": "a9469b3593b3fb1a33d198e4c1e018e7"
     },
     {
       "date": "Le dimanche 28 juin 2026 de  08:30:00 à  15:00:00",
