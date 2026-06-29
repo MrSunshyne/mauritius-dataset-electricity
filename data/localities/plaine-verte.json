@@ -2,11 +2,18 @@
   "slug": "plaine-verte",
   "name": "PLAINE VERTE",
   "district": "portlouis",
-  "generated": "2026-06-29T09:29:09.779Z",
-  "outageCount": 33,
+  "generated": "2026-06-29T11:35:55.537Z",
+  "outageCount": 34,
   "firstOutage": "2022-12-21",
-  "lastOutage": "2026-06-16",
+  "lastOutage": "2026-06-30",
   "outages": [
+    {
+      "date": "Le mardi 30 juin 2026 de  12:00:00 à  14:30:00",
+      "streets": "Dans les environs des Rues Ally, Calcutta, Dr Idriss Goomany et une partie de Imam Bacos Sobdar",
+      "from": "2026-06-30T08:00:00.000Z",
+      "to": "2026-06-30T10:30:00.000Z",
+      "id": "b61a985d758c488b9136b330d2178a67"
+    },
     {
       "date": "Le mardi 16 juin 2026 de  11:20:00 à  12:00:00",
       "streets": "PAGODA ST, PAUL & VIRGINIE ST ET LES ALENTOURS",
