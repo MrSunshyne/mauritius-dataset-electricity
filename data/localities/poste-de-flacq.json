@@ -2,11 +2,18 @@
   "slug": "poste-de-flacq",
   "name": "POSTE DE FLACQ",
   "district": "flacq",
-  "generated": "2026-06-29T15:05:19.133Z",
-  "outageCount": 40,
+  "generated": "2026-06-29T16:56:59.455Z",
+  "outageCount": 41,
   "firstOutage": "2022-06-12",
-  "lastOutage": "2026-06-27",
+  "lastOutage": "2026-06-29",
   "outages": [
+    {
+      "date": "Le lundi 29 juin 2026 de  20:45:00 à  01:00:00",
+      "streets": "ROYAL ROAD, JARDIN ST AND SURROUNDINGS",
+      "from": "2026-06-29T16:45:00.000Z",
+      "to": "2026-06-28T21:00:00.000Z",
+      "id": "9db6ad8a3961eef761c7d5aac1fe1bab"
+    },
     {
       "date": "Le samedi 27 juin 2026 de  21:45:00 à  23:00:00",
       "streets": "Poste de Flacq,La Porte Providence,Pont Blanc",

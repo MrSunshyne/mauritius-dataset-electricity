@@ -1,9 +1,19 @@
 {
   "date": "2026-06-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-29T15:05:19.022Z",
-  "outageCount": 3,
+  "generated": "2026-06-29T16:56:59.351Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le lundi 29 juin 2026 de  20:45:00 à  01:00:00",
+      "locality": "POSTE DE FLACQ",
+      "localitySlug": "poste-de-flacq",
+      "streets": "ROYAL ROAD, JARDIN ST AND SURROUNDINGS",
+      "district": "flacq",
+      "from": "2026-06-29T16:45:00.000Z",
+      "to": "2026-06-28T21:00:00.000Z",
+      "id": "9db6ad8a3961eef761c7d5aac1fe1bab"
+    },
     {
       "date": "Le lundi 29 juin 2026 de  12:00:00 à  14:15:00",
       "locality": "MELROSE",
@@ -33,6 +43,16 @@
       "from": "2026-06-29T08:00:00.000Z",
       "to": "2026-06-29T10:00:00.000Z",
       "id": "ed9b9846e49d874c38b9969d7e95eac6"
+    },
+    {
+      "date": "Le lundi 29 juin 2026 de  18:00:00 à  01:30:00",
+      "locality": "ROCHES NOIRES",
+      "localitySlug": "roches-noires",
+      "streets": "COASTAL ROAD ROCHES NOIRES",
+      "district": "rivieredurempart",
+      "from": "2026-06-29T14:00:00.000Z",
+      "to": "2026-06-28T21:30:00.000Z",
+      "id": "f77b261da8cf42e804703edd33604e5c"
     }
   ]
 }
