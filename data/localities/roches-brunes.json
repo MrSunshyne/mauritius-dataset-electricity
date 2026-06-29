@@ -2,11 +2,18 @@
   "slug": "roches-brunes",
   "name": "ROCHES BRUNES",
   "district": "plainewilhems",
-  "generated": "2026-06-29T07:31:57.642Z",
-  "outageCount": 39,
+  "generated": "2026-06-29T09:29:09.797Z",
+  "outageCount": 40,
   "firstOutage": "2022-10-01",
-  "lastOutage": "2026-06-21",
+  "lastOutage": "2026-06-29",
   "outages": [
+    {
+      "date": "Le lundi 29 juin 2026 de  12:00:00 à  14:00:00",
+      "streets": "Morc St Daniel",
+      "from": "2026-06-29T08:00:00.000Z",
+      "to": "2026-06-29T10:00:00.000Z",
+      "id": "ed9b9846e49d874c38b9969d7e95eac6"
+    },
     {
       "date": "Le dimanche 21 juin 2026 de  14:00:00 à  19:00:00",
       "streets": "MERE TERESA /ROCHES BRUNES",

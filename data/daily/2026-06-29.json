@@ -1,9 +1,19 @@
 {
   "date": "2026-06-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-29T07:31:57.525Z",
-  "outageCount": 1,
+  "generated": "2026-06-29T09:29:09.671Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le lundi 29 juin 2026 de  12:00:00 à  14:15:00",
+      "locality": "MELROSE",
+      "localitySlug": "melrose",
+      "streets": "Rose,Cooperative,Royal Roads",
+      "district": "moka",
+      "from": "2026-06-29T08:00:00.000Z",
+      "to": "2026-06-29T10:15:00.000Z",
+      "id": "2af25d628f1ff5c874706b9d8fb385e9"
+    },
     {
       "date": "Le lundi 29 juin 2026 de  09:00:00 à  12:00:00",
       "locality": "SODNAC",
@@ -13,6 +23,16 @@
       "from": "2026-06-29T05:00:00.000Z",
       "to": "2026-06-29T08:00:00.000Z",
       "id": "407231ced376d1d0651d94bb51448d0d"
+    },
+    {
+      "date": "Le lundi 29 juin 2026 de  12:00:00 à  14:00:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "Morc St Daniel",
+      "district": "plainewilhems",
+      "from": "2026-06-29T08:00:00.000Z",
+      "to": "2026-06-29T10:00:00.000Z",
+      "id": "ed9b9846e49d874c38b9969d7e95eac6"
     }
   ]
 }

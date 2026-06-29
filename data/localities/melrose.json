@@ -2,11 +2,18 @@
   "slug": "melrose",
   "name": "MELROSE",
   "district": "moka",
-  "generated": "2026-06-29T07:31:57.607Z",
-  "outageCount": 19,
+  "generated": "2026-06-29T09:29:09.760Z",
+  "outageCount": 20,
   "firstOutage": "2022-05-27",
-  "lastOutage": "2026-06-22",
+  "lastOutage": "2026-06-29",
   "outages": [
+    {
+      "date": "Le lundi 29 juin 2026 de  12:00:00 à  14:15:00",
+      "streets": "Rose,Cooperative,Royal Roads",
+      "from": "2026-06-29T08:00:00.000Z",
+      "to": "2026-06-29T10:15:00.000Z",
+      "id": "2af25d628f1ff5c874706b9d8fb385e9"
+    },
     {
       "date": "Le lundi 22 juin 2026 de  18:45:00 à  22:00:00",
       "streets": "COORPERATIVE AVE, DALIAH AVE & SURROUNDINGS",
