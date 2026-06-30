@@ -2,11 +2,18 @@
   "slug": "cassis",
   "name": "CASSIS",
   "district": "portlouis",
-  "generated": "2026-06-29T18:35:49.170Z",
-  "outageCount": 38,
+  "generated": "2026-06-30T07:10:21.649Z",
+  "outageCount": 39,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-04-04",
+  "lastOutage": "2026-06-30",
   "outages": [
+    {
+      "date": "Le mardi 30 juin 2026 de  10:45:00 à  11:15:00",
+      "streets": "Rue Stevenson",
+      "from": "2026-06-30T06:45:00.000Z",
+      "to": "2026-06-30T07:15:00.000Z",
+      "id": "85099d89bd8649779a7504d70bd785c5"
+    },
     {
       "date": "Le samedi 4 avril 2026 de  08:30:00 à  11:30:00",
       "streets": "DANS LES ENVIRONS DES RUES KWAN TEE, EUGENE ET UNE PARTIE DE RESERVES",

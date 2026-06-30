@@ -2,11 +2,18 @@
   "slug": "saint-pierre",
   "name": "SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-06-29T18:35:49.259Z",
-  "outageCount": 74,
+  "generated": "2026-06-30T07:10:21.741Z",
+  "outageCount": 75,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-06-25",
+  "lastOutage": "2026-06-30",
   "outages": [
+    {
+      "date": "Le mardi 30 juin 2026 de  10:30:00 à  13:00:00",
+      "streets": "Morc Frangipane,L-Avenir",
+      "from": "2026-06-30T06:30:00.000Z",
+      "to": "2026-06-30T09:00:00.000Z",
+      "id": "486520f996b1c8622053630e7ef03cf9"
+    },
     {
       "date": "Le jeudi 25 juin 2026 de  21:00:00 à  23:00:00",
       "streets": "MOKA-HELVETTIA-ST PIERRE-NOUVELLE DECOUVERT-RIPAILLS",

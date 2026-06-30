@@ -1,9 +1,29 @@
 {
   "date": "2026-06-30",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-29T18:35:49.124Z",
-  "outageCount": 1,
+  "generated": "2026-06-30T07:10:21.606Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le mardi 30 juin 2026 de  10:30:00 à  13:00:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "Morc Frangipane,L-Avenir",
+      "district": "moka",
+      "from": "2026-06-30T06:30:00.000Z",
+      "to": "2026-06-30T09:00:00.000Z",
+      "id": "486520f996b1c8622053630e7ef03cf9"
+    },
+    {
+      "date": "Le mardi 30 juin 2026 de  10:45:00 à  12:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Maganlall Desai",
+      "district": "plainewilhems",
+      "from": "2026-06-30T06:45:00.000Z",
+      "to": "2026-06-30T08:00:00.000Z",
+      "id": "32e2fb76ef831c7b3a7fc99c7ff082fe"
+    },
     {
       "date": "Le mardi 30 juin 2026 de  12:00:00 à  14:30:00",
       "locality": "PLAINE VERTE",
@@ -13,6 +33,16 @@
       "from": "2026-06-30T08:00:00.000Z",
       "to": "2026-06-30T10:30:00.000Z",
       "id": "b61a985d758c488b9136b330d2178a67"
+    },
+    {
+      "date": "Le mardi 30 juin 2026 de  10:45:00 à  11:15:00",
+      "locality": "CASSIS",
+      "localitySlug": "cassis",
+      "streets": "Rue Stevenson",
+      "district": "portlouis",
+      "from": "2026-06-30T06:45:00.000Z",
+      "to": "2026-06-30T07:15:00.000Z",
+      "id": "85099d89bd8649779a7504d70bd785c5"
     }
   ]
 }
