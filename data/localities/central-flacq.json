@@ -2,11 +2,18 @@
   "slug": "central-flacq",
   "name": "CENTRAL FLACQ",
   "district": "flacq",
-  "generated": "2026-06-30T10:58:23.782Z",
-  "outageCount": 75,
+  "generated": "2026-06-30T11:53:41.651Z",
+  "outageCount": 76,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-06-25",
+  "lastOutage": "2026-07-02",
   "outages": [
+    {
+      "date": "Le jeudi 2 juillet 2026 de  12:00:00 à  14:00:00",
+      "streets": "Flacq dans le périmètre de Boulet Blanc, Plaine De Gersigny, Avenue Francois Mitterand, Flacq District Court et Flacq Police Station et Seeraully Rd.",
+      "from": "2026-07-02T08:00:00.000Z",
+      "to": "2026-07-02T10:00:00.000Z",
+      "id": "65923dca373213db934dc89d3ba8eb6a"
+    },
     {
       "date": "Le jeudi 25 juin 2026 de  18:00:00 à  22:00:00",
       "streets": "CAMP LA BOUE RICHEMARE",

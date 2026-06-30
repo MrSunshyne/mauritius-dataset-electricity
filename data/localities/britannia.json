@@ -2,11 +2,18 @@
   "slug": "britannia",
   "name": "BRITANNIA",
   "district": "plainewilhems",
-  "generated": "2026-06-30T10:58:23.774Z",
-  "outageCount": 18,
+  "generated": "2026-06-30T11:53:41.642Z",
+  "outageCount": 19,
   "firstOutage": "2023-04-02",
-  "lastOutage": "2026-05-19",
+  "lastOutage": "2026-07-02",
   "outages": [
+    {
+      "date": "Le jeudi 2 juillet 2026 de  09:00:00 à  17:00:00",
+      "streets": "Les villages de Riche Bois et Britannia",
+      "from": "2026-07-02T05:00:00.000Z",
+      "to": "2026-07-02T13:00:00.000Z",
+      "id": "0b1baaacf28c27b98772d85fb0c50eae"
+    },
     {
       "date": "Le mardi 19 mai 2026 de  09:00:00 à  16:00:00",
       "streets": "Camp Berthaud, Camp Rampur, Morcellement Britannia et St Avold",
