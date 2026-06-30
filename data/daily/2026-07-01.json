@@ -1,8 +1,8 @@
 {
   "date": "2026-07-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-30T09:00:49.064Z",
-  "outageCount": 1,
+  "generated": "2026-06-30T10:58:23.738Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le mercredi 1 juillet 2026 de  08:30:00 à  16:30:00",
@@ -13,6 +13,36 @@
       "from": "2026-07-01T04:30:00.000Z",
       "to": "2026-07-01T12:30:00.000Z",
       "id": "022c8182dee242a9ee1f2e0532af5025"
+    },
+    {
+      "date": "Le mercredi 1 juillet 2026 de  15:00:00 à  15:30:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "Morc Raffray, Morc Beerjeeraz, Morc Belle Vue, Ave Ouragan, Ave Victory, Ave St Geran, Ave Bounty, Ave Albatross, Ave Dahlia, Ave Tulipes, Ave Frangipane, Ave Rose, Ave Oeillet et les environs",
+      "district": "blackriver",
+      "from": "2026-07-01T11:00:00.000Z",
+      "to": "2026-07-01T11:30:00.000Z",
+      "id": "cf2bed645f9decaa3e31a6f8a4c764df"
+    },
+    {
+      "date": "Le mercredi 1 juillet 2026 de  09:00:00 à  09:30:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "Morc Raffray, Morc Beerjeeraz, Morc Belle Vue, Ave Ouragan, Ave Victory, Ave St Geran, Ave Bounty, Ave Albatross, Ave Dahlia, Ave Tulipes, Ave Frangipane, Ave Rose, Ave Oeillet et les environs",
+      "district": "blackriver",
+      "from": "2026-07-01T05:00:00.000Z",
+      "to": "2026-07-01T05:30:00.000Z",
+      "id": "dbe9f5602525c758285813ae3e3c8074"
+    },
+    {
+      "date": "Le mercredi 1 juillet 2026 de  09:00:00 à  11:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "NHDC Camp Levieux, Ave Madras, Ste Odile, Morc Seeburn, en partie Ave Ratsitatane, Ave Sirius, en partie Ave La Concorde et les environs",
+      "district": "plainewilhems",
+      "from": "2026-07-01T05:00:00.000Z",
+      "to": "2026-07-01T07:00:00.000Z",
+      "id": "0704c26d13f9a0926f61cd07b65d30cb"
     }
   ]
 }

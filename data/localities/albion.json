@@ -2,11 +2,25 @@
   "slug": "albion",
   "name": "ALBION",
   "district": "blackriver",
-  "generated": "2026-06-30T09:00:49.079Z",
-  "outageCount": 124,
+  "generated": "2026-06-30T10:58:23.756Z",
+  "outageCount": 126,
   "firstOutage": "2022-06-06",
-  "lastOutage": "2026-06-23",
+  "lastOutage": "2026-07-01",
   "outages": [
+    {
+      "date": "Le mercredi 1 juillet 2026 de  15:00:00 à  15:30:00",
+      "streets": "Morc Raffray, Morc Beerjeeraz, Morc Belle Vue, Ave Ouragan, Ave Victory, Ave St Geran, Ave Bounty, Ave Albatross, Ave Dahlia, Ave Tulipes, Ave Frangipane, Ave Rose, Ave Oeillet et les environs",
+      "from": "2026-07-01T11:00:00.000Z",
+      "to": "2026-07-01T11:30:00.000Z",
+      "id": "cf2bed645f9decaa3e31a6f8a4c764df"
+    },
+    {
+      "date": "Le mercredi 1 juillet 2026 de  09:00:00 à  09:30:00",
+      "streets": "Morc Raffray, Morc Beerjeeraz, Morc Belle Vue, Ave Ouragan, Ave Victory, Ave St Geran, Ave Bounty, Ave Albatross, Ave Dahlia, Ave Tulipes, Ave Frangipane, Ave Rose, Ave Oeillet et les environs",
+      "from": "2026-07-01T05:00:00.000Z",
+      "to": "2026-07-01T05:30:00.000Z",
+      "id": "dbe9f5602525c758285813ae3e3c8074"
+    },
     {
       "date": "Le mardi 23 juin 2026 de  15:00:00 à  15:30:00",
       "streets": "MORC RICHWOOD ET LES ENVIRONS",
