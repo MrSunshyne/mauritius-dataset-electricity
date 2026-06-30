@@ -2,11 +2,18 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-06-30T13:31:58.027Z",
-  "outageCount": 254,
+  "generated": "2026-06-30T14:48:12.375Z",
+  "outageCount": 255,
   "firstOutage": "2022-03-17",
-  "lastOutage": "2026-06-28",
+  "lastOutage": "2026-06-30",
   "outages": [
+    {
+      "date": "Le mardi 30 juin 2026 de  17:50:00 à  00:00:00",
+      "streets": "AVE REMY OLLIER PHOENIX",
+      "from": "2026-06-30T13:50:00.000Z",
+      "to": "2026-06-29T20:00:00.000Z",
+      "id": "885e93dc22ee91315497177615a86320"
+    },
     {
       "date": "Le dimanche 28 juin 2026 de  08:00:00 à  17:00:00",
       "streets": "Hollyrood No. 1, une partie de Route Quinze-Cantons No. 2, une partie de Route Dévergues, une partie de Route La Marie, Route Begue, Route Bonnefin, Chemin Réservoirs, Dudhee Lane, Chemin La Source, Mootoo Lane",

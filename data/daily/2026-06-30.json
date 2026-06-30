@@ -1,8 +1,8 @@
 {
   "date": "2026-06-30",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-30T13:31:57.879Z",
-  "outageCount": 4,
+  "generated": "2026-06-30T14:48:12.233Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le mardi 30 juin 2026 de  10:30:00 à  13:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-06-30T06:45:00.000Z",
       "to": "2026-06-30T08:00:00.000Z",
       "id": "32e2fb76ef831c7b3a7fc99c7ff082fe"
+    },
+    {
+      "date": "Le mardi 30 juin 2026 de  17:50:00 à  00:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "AVE REMY OLLIER PHOENIX",
+      "district": "plainewilhems",
+      "from": "2026-06-30T13:50:00.000Z",
+      "to": "2026-06-29T20:00:00.000Z",
+      "id": "885e93dc22ee91315497177615a86320"
     },
     {
       "date": "Le mardi 30 juin 2026 de  12:00:00 à  14:30:00",
