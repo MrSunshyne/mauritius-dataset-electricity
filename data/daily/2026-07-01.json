@@ -1,8 +1,8 @@
 {
   "date": "2026-07-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-01T11:00:51.870Z",
-  "outageCount": 7,
+  "generated": "2026-07-01T12:50:59.322Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le mercredi 1 juillet 2026 de  08:30:00 à  16:30:00",
@@ -33,6 +33,16 @@
       "from": "2026-07-01T05:00:00.000Z",
       "to": "2026-07-01T05:30:00.000Z",
       "id": "dbe9f5602525c758285813ae3e3c8074"
+    },
+    {
+      "date": "Le mercredi 1 juillet 2026 de  15:00:00 à  16:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "MORC RAFFRAY",
+      "district": "pamplemousses",
+      "from": "2026-07-01T11:00:00.000Z",
+      "to": "2026-07-01T12:00:00.000Z",
+      "id": "ba7c5dcae464ab7a500974813be3d0cd"
     },
     {
       "date": "Le mercredi 1 juillet 2026 de  09:00:00 à  11:00:00",

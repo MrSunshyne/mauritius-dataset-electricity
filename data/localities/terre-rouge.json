@@ -2,11 +2,18 @@
   "slug": "terre-rouge",
   "name": "TERRE ROUGE",
   "district": "pamplemousses",
-  "generated": "2026-07-01T11:00:52.001Z",
-  "outageCount": 108,
+  "generated": "2026-07-01T12:50:59.449Z",
+  "outageCount": 109,
   "firstOutage": "2022-03-14",
-  "lastOutage": "2026-06-01",
+  "lastOutage": "2026-07-01",
   "outages": [
+    {
+      "date": "Le mercredi 1 juillet 2026 de  15:00:00 à  16:00:00",
+      "streets": "MORC RAFFRAY",
+      "from": "2026-07-01T11:00:00.000Z",
+      "to": "2026-07-01T12:00:00.000Z",
+      "id": "ba7c5dcae464ab7a500974813be3d0cd"
+    },
     {
       "date": "Le lundi 1 juin 2026 de  09:00:00 à  13:00:00",
       "streets": "Mlle Laure, Terre Rouge dans les environs de Shafa Trading",
