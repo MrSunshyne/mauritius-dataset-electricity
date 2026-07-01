@@ -1,8 +1,8 @@
 {
   "date": "2026-07-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-06-30T18:31:05.220Z",
-  "outageCount": 3,
+  "generated": "2026-07-01T07:22:19.134Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le jeudi 2 juillet 2026 de  12:00:00 à  14:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-07-02T05:00:00.000Z",
       "to": "2026-07-02T13:00:00.000Z",
       "id": "0b1baaacf28c27b98772d85fb0c50eae"
+    },
+    {
+      "date": "Le jeudi 2 juillet 2026 de  08:30:00 à  15:00:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "Terracine Souillac et Trois Bras Surinam",
+      "district": "savanne",
+      "from": "2026-07-02T04:30:00.000Z",
+      "to": "2026-07-02T11:00:00.000Z",
+      "id": "7c01b5d7be31e558577ad65ea7f8016a"
     }
   ]
 }

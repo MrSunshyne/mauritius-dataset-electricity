@@ -2,11 +2,18 @@
   "slug": "souillac",
   "name": "SOUILLAC",
   "district": "savanne",
-  "generated": "2026-06-30T18:31:05.366Z",
-  "outageCount": 76,
+  "generated": "2026-07-01T07:22:19.289Z",
+  "outageCount": 77,
   "firstOutage": "2022-06-05",
-  "lastOutage": "2026-06-26",
+  "lastOutage": "2026-07-02",
   "outages": [
+    {
+      "date": "Le jeudi 2 juillet 2026 de  08:30:00 à  15:00:00",
+      "streets": "Terracine Souillac et Trois Bras Surinam",
+      "from": "2026-07-02T04:30:00.000Z",
+      "to": "2026-07-02T11:00:00.000Z",
+      "id": "7c01b5d7be31e558577ad65ea7f8016a"
+    },
     {
       "date": "Le vendredi 26 juin 2026 de  08:30:00 à  11:00:00",
       "streets": "NHDC Souillac, village de Gris Gris et Domaine Gris Gris",

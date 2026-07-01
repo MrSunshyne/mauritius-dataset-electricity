@@ -2,11 +2,18 @@
   "slug": "cottage",
   "name": "COTTAGE",
   "district": "rivieredurempart",
-  "generated": "2026-06-30T18:31:05.285Z",
-  "outageCount": 41,
+  "generated": "2026-07-01T07:22:19.196Z",
+  "outageCount": 42,
   "firstOutage": "2022-04-07",
-  "lastOutage": "2026-06-21",
+  "lastOutage": "2026-07-01",
   "outages": [
+    {
+      "date": "Le mercredi 1 juillet 2026 de  10:50:00 à  15:00:00",
+      "streets": "AVE PAILLE EN QUEUE & SURROUNDINGS",
+      "from": "2026-07-01T06:50:00.000Z",
+      "to": "2026-07-01T11:00:00.000Z",
+      "id": "c8d3d6841c097f7e13e2187af37674b7"
+    },
     {
       "date": "Le dimanche 21 juin 2026 de  09:00:00 à  14:00:00",
       "streets": "COTTAGE",

@@ -2,11 +2,18 @@
   "slug": "grand-gaube",
   "name": "GRAND GAUBE",
   "district": "rivieredurempart",
-  "generated": "2026-06-30T18:31:05.298Z",
-  "outageCount": 72,
+  "generated": "2026-07-01T07:22:19.214Z",
+  "outageCount": 73,
   "firstOutage": "2022-06-11",
-  "lastOutage": "2026-06-19",
+  "lastOutage": "2026-07-01",
   "outages": [
+    {
+      "date": "Le mercredi 1 juillet 2026 de  09:30:00 à  13:30:00",
+      "streets": "ANNA STREET & SURROUNDINGS",
+      "from": "2026-07-01T05:30:00.000Z",
+      "to": "2026-07-01T09:30:00.000Z",
+      "id": "4120e93d70890d58d9776b225fefacb5"
+    },
     {
       "date": "Le vendredi 19 juin 2026 de  17:20:00 à  21:30:00",
       "streets": "CEMETERY ROAD, COASTAL ROAD & SURROUNDINGS",
