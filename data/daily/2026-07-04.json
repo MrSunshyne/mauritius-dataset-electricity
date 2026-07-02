@@ -1,8 +1,8 @@
 {
   "date": "2026-07-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-02T11:45:11.429Z",
-  "outageCount": 3,
+  "generated": "2026-07-02T12:34:00.220Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le samedi 4 juillet 2026 de  12:00:00 à  14:00:00",
@@ -33,6 +33,26 @@
       "from": "2026-07-04T04:30:00.000Z",
       "to": "2026-07-04T11:30:00.000Z",
       "id": "e207555adabc3335741e711a3a1575a5"
+    },
+    {
+      "date": "Le samedi 4 juillet 2026 de  11:00:00 à  14:00:00",
+      "locality": "GLEN PARK",
+      "localitySlug": "glen-park",
+      "streets": "Ramchurn Lane and Meerun lane",
+      "district": "plainewilhems",
+      "from": "2026-07-04T07:00:00.000Z",
+      "to": "2026-07-04T10:00:00.000Z",
+      "id": "e44c6af1681f06bae7ef9410a831b667"
+    },
+    {
+      "date": "Le samedi 4 juillet 2026 de  08:30:00 à  12:00:00",
+      "locality": "GLEN PARK",
+      "localitySlug": "glen-park",
+      "streets": "Part of NHDC Glen Park",
+      "district": "plainewilhems",
+      "from": "2026-07-04T04:30:00.000Z",
+      "to": "2026-07-04T08:00:00.000Z",
+      "id": "b7b89269c5913a299021daa61b58642a"
     }
   ]
 }

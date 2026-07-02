@@ -2,11 +2,32 @@
   "slug": "glen-park",
   "name": "GLEN PARK",
   "district": "plainewilhems",
-  "generated": "2026-07-02T11:45:11.496Z",
-  "outageCount": 41,
+  "generated": "2026-07-02T12:34:00.282Z",
+  "outageCount": 44,
   "firstOutage": "2022-04-26",
-  "lastOutage": "2026-06-28",
+  "lastOutage": "2026-07-05",
   "outages": [
+    {
+      "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  14:00:00",
+      "streets": "Morc Edoo no 1 and Morc Edoo 2 at Glen Park Vacoas",
+      "from": "2026-07-05T04:30:00.000Z",
+      "to": "2026-07-05T10:00:00.000Z",
+      "id": "5b334825ae77dd5b6f5cb0ef606bdefb"
+    },
+    {
+      "date": "Le samedi 4 juillet 2026 de  11:00:00 à  14:00:00",
+      "streets": "Ramchurn Lane and Meerun lane",
+      "from": "2026-07-04T07:00:00.000Z",
+      "to": "2026-07-04T10:00:00.000Z",
+      "id": "e44c6af1681f06bae7ef9410a831b667"
+    },
+    {
+      "date": "Le samedi 4 juillet 2026 de  08:30:00 à  12:00:00",
+      "streets": "Part of NHDC Glen Park",
+      "from": "2026-07-04T04:30:00.000Z",
+      "to": "2026-07-04T08:00:00.000Z",
+      "id": "b7b89269c5913a299021daa61b58642a"
+    },
     {
       "date": "Le dimanche 28 juin 2026 de  08:30:00 à  16:30:00",
       "streets": "UNE PARTIE DE GLEN PARK ET AVE DES VERGUES",

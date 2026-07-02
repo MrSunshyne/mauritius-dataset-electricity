@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-07-02T11:45:11.558Z",
-  "outageCount": 235,
+  "generated": "2026-07-02T12:34:00.337Z",
+  "outageCount": 236,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-06-27",
+  "lastOutage": "2026-07-03",
   "outages": [
+    {
+      "date": "Le vendredi 3 juillet 2026 de  12:00:00 à  13:00:00",
+      "streets": "Mont Lubin",
+      "from": "2026-07-03T08:00:00.000Z",
+      "to": "2026-07-03T09:00:00.000Z",
+      "id": "f1ba77e2f49f18c15cc1e5a9ad1383fb"
+    },
     {
       "date": "Le samedi 27 juin 2026 de  00:00:00 à  16:00:00",
       "streets": "BAIE TOPAZE/CAMP PINTADE",
