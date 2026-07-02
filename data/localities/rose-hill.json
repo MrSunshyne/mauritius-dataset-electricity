@@ -2,11 +2,18 @@
   "slug": "rose-hill",
   "name": "ROSE-HILL",
   "district": "plainewilhems",
-  "generated": "2026-07-02T08:58:46.067Z",
-  "outageCount": 175,
+  "generated": "2026-07-02T10:06:12.039Z",
+  "outageCount": 176,
   "firstOutage": "2022-05-20",
   "lastOutage": "2026-07-02",
   "outages": [
+    {
+      "date": "Le jeudi 2 juillet 2026 de  15:30:00 à  18:00:00",
+      "streets": "En partie Ave La Concorde, en partie Ratsitatane, Neptune et NHDC Camp Levieux",
+      "from": "2026-07-02T11:30:00.000Z",
+      "to": "2026-07-02T14:00:00.000Z",
+      "id": "bf154c2b948e6f2452c09a62d0ee3c88"
+    },
     {
       "date": "Le jeudi 2 juillet 2026 de  09:00:00 à  17:30:00",
       "streets": "NHDC Camp Levieux, Ave Madras, Ste Odile, Morc Seeburn, en partie Ave Ratsitatane, Ave Sirius et les environs",

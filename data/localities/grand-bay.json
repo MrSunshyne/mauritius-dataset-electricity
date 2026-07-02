@@ -2,11 +2,18 @@
   "slug": "grand-bay",
   "name": "GRAND BAY",
   "district": "rivieredurempart",
-  "generated": "2026-07-02T08:58:46.006Z",
-  "outageCount": 116,
+  "generated": "2026-07-02T10:06:11.978Z",
+  "outageCount": 117,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-06-19",
+  "lastOutage": "2026-07-02",
   "outages": [
+    {
+      "date": "Le jeudi 2 juillet 2026 de  13:45:00 à  15:15:00",
+      "streets": "Chemin 20 pieds",
+      "from": "2026-07-02T09:45:00.000Z",
+      "to": "2026-07-02T11:15:00.000Z",
+      "id": "46b98bec902eac251bfd307c4fd0065f"
+    },
     {
       "date": "Le vendredi 19 juin 2026 de  17:50:00 à  22:00:00",
       "streets": "RESERVOIR RD & SURROUNDINGS",

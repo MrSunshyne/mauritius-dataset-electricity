@@ -1,8 +1,8 @@
 {
   "date": "2026-07-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-02T08:58:45.942Z",
-  "outageCount": 4,
+  "generated": "2026-07-02T10:06:11.914Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  15:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-07-05T04:30:00.000Z",
       "to": "2026-07-05T12:00:00.000Z",
       "id": "28aedc3f3c905310d307f4e1e8c71d58"
+    },
+    {
+      "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  16:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Pumping Station Engen, Indian Oil,Shell ,Mc Donald and Watchman Quarters at La Vigie",
+      "district": "plainewilhems",
+      "from": "2026-07-05T04:30:00.000Z",
+      "to": "2026-07-05T12:00:00.000Z",
+      "id": "714553f43fb9aa6bb9a1569bfd104c17"
     },
     {
       "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  13:00:00",

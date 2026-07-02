@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-02T08:58:46.087Z",
+  "generated": "2026-07-02T10:06:12.063Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -1303,10 +1303,10 @@
       "slug": "curepipe",
       "name": "CUREPIPE",
       "district": "plainewilhems",
-      "outageCount": 223,
+      "outageCount": 224,
       "file": "curepipe.json",
       "firstOutage": "2022-03-27",
-      "lastOutage": "2026-06-25"
+      "lastOutage": "2026-07-05"
     },
     {
       "slug": "d-epinay",
@@ -1582,10 +1582,10 @@
       "slug": "grand-bay",
       "name": "GRAND BAY",
       "district": "rivieredurempart",
-      "outageCount": 116,
+      "outageCount": 117,
       "file": "grand-bay.json",
       "firstOutage": "2022-03-20",
-      "lastOutage": "2026-06-19"
+      "lastOutage": "2026-07-02"
     },
     {
       "slug": "grand-bel-air",
@@ -3508,7 +3508,7 @@
       "slug": "rose-hill",
       "name": "ROSE-HILL",
       "district": "plainewilhems",
-      "outageCount": 175,
+      "outageCount": 176,
       "file": "rose-hill.json",
       "firstOutage": "2022-05-20",
       "lastOutage": "2026-07-02"

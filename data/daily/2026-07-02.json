@@ -1,8 +1,8 @@
 {
   "date": "2026-07-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-02T08:58:45.942Z",
-  "outageCount": 6,
+  "generated": "2026-07-02T10:06:11.914Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le jeudi 2 juillet 2026 de  12:00:00 à  14:00:00",
@@ -35,6 +35,16 @@
       "id": "b29b91ccc3d03ab3f97578c682e2b342"
     },
     {
+      "date": "Le jeudi 2 juillet 2026 de  15:30:00 à  18:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "En partie Ave La Concorde, en partie Ratsitatane, Neptune et NHDC Camp Levieux",
+      "district": "plainewilhems",
+      "from": "2026-07-02T11:30:00.000Z",
+      "to": "2026-07-02T14:00:00.000Z",
+      "id": "bf154c2b948e6f2452c09a62d0ee3c88"
+    },
+    {
       "date": "Le jeudi 2 juillet 2026 de  09:30:00 à  12:00:00",
       "locality": "LOWER VALE",
       "localitySlug": "lower-vale",
@@ -43,6 +53,16 @@
       "from": "2026-07-02T05:30:00.000Z",
       "to": "2026-07-02T08:00:00.000Z",
       "id": "f722e315bb0ebefb2a82610bb73da410"
+    },
+    {
+      "date": "Le jeudi 2 juillet 2026 de  13:45:00 à  15:15:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "Chemin 20 pieds",
+      "district": "rivieredurempart",
+      "from": "2026-07-02T09:45:00.000Z",
+      "to": "2026-07-02T11:15:00.000Z",
+      "id": "46b98bec902eac251bfd307c4fd0065f"
     },
     {
       "date": "Le jeudi 2 juillet 2026 de  09:00:00 à  17:00:00",
