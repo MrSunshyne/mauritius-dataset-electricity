@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-07-02T07:01:22.902Z",
-  "outageCount": 386,
+  "generated": "2026-07-02T08:58:46.054Z",
+  "outageCount": 387,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-06-21",
+  "lastOutage": "2026-07-02",
   "outages": [
+    {
+      "date": "Le jeudi 2 juillet 2026 de  11:15:00 à  13:00:00",
+      "streets": "AVE OLLIER, MURRAY & SURROUNDINGS",
+      "from": "2026-07-02T07:15:00.000Z",
+      "to": "2026-07-02T09:00:00.000Z",
+      "id": "b29b91ccc3d03ab3f97578c682e2b342"
+    },
     {
       "date": "Le dimanche 21 juin 2026 de  09:00:00 à  14:00:00",
       "streets": "Ave Boundary, Conte de LIsle, Robert Edward Hart, Dr Ross, Dr Ferriere et Hitchcock",
