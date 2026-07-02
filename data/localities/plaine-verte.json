@@ -2,11 +2,18 @@
   "slug": "plaine-verte",
   "name": "PLAINE VERTE",
   "district": "portlouis",
-  "generated": "2026-07-01T18:34:09.377Z",
-  "outageCount": 34,
+  "generated": "2026-07-02T07:01:22.894Z",
+  "outageCount": 35,
   "firstOutage": "2022-12-21",
-  "lastOutage": "2026-06-30",
+  "lastOutage": "2026-07-05",
   "outages": [
+    {
+      "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  13:00:00",
+      "streets": "DANS LES ENVIRONS DÚNE PARTIE DES RUES MADAD UL ISLAM, EDGAR LAURENT, LA PAIX, LENEPVEU ET CHINA",
+      "from": "2026-07-05T04:30:00.000Z",
+      "to": "2026-07-05T09:00:00.000Z",
+      "id": "cdfba2bd48b89a2713372dd2fe758347"
+    },
     {
       "date": "Le mardi 30 juin 2026 de  12:00:00 à  14:30:00",
       "streets": "Dans les environs des Rues Ally, Calcutta, Dr Idriss Goomany et une partie de Imam Bacos Sobdar",

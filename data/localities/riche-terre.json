@@ -2,11 +2,25 @@
   "slug": "riche-terre",
   "name": "RICHE TERRE",
   "district": "pamplemousses",
-  "generated": "2026-07-01T18:34:09.391Z",
-  "outageCount": 39,
+  "generated": "2026-07-02T07:01:22.907Z",
+  "outageCount": 41,
   "firstOutage": "2022-04-03",
-  "lastOutage": "2026-06-28",
+  "lastOutage": "2026-07-05",
   "outages": [
+    {
+      "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  15:00:00",
+      "streets": "DANS LES ENVIRONS DE POLYTOL, AQUALIA, DURACO,MEADERS FEEDS, CONVENIENCE FOOD, CAFE DE LA FOURNAISE ET ROTO MOULDERS",
+      "from": "2026-07-05T04:30:00.000Z",
+      "to": "2026-07-05T11:00:00.000Z",
+      "id": "934cb82efcb22cdcb9d3e961cb0a310b"
+    },
+    {
+      "date": "Le samedi 4 juillet 2026 de  12:00:00 à  14:00:00",
+      "streets": "LA ZONE INDUSTRIELLE DE RICHE TERRE",
+      "from": "2026-07-04T08:00:00.000Z",
+      "to": "2026-07-04T10:00:00.000Z",
+      "id": "e739577411d770ef92dbdf1d22086c82"
+    },
     {
       "date": "Le dimanche 28 juin 2026 de  08:00:00 à  16:30:00",
       "streets": "JIN FEI BUSINESS PARK",

@@ -2,11 +2,18 @@
   "slug": "phoenix",
   "name": "PHOENIX",
   "district": "plainewilhems",
-  "generated": "2026-07-01T18:34:09.374Z",
-  "outageCount": 111,
+  "generated": "2026-07-02T07:01:22.891Z",
+  "outageCount": 112,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-06-25",
+  "lastOutage": "2026-07-05",
   "outages": [
+    {
+      "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  16:00:00",
+      "streets": "une partie de Sayed Hossen Road, Morc Gobhurdhun, Flat Sanasee et les environs",
+      "from": "2026-07-05T04:30:00.000Z",
+      "to": "2026-07-05T12:00:00.000Z",
+      "id": "28aedc3f3c905310d307f4e1e8c71d58"
+    },
     {
       "date": "Le jeudi 25 juin 2026 de  14:40:00 à  16:00:00",
       "streets": "REMY OLLIER ST & SURROUNDINGS",

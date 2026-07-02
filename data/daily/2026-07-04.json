@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-04",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-07-02T07:01:22.789Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le samedi 4 juillet 2026 de  12:00:00 à  14:00:00",
+      "locality": "RICHE TERRE",
+      "localitySlug": "riche-terre",
+      "streets": "LA ZONE INDUSTRIELLE DE RICHE TERRE",
+      "district": "pamplemousses",
+      "from": "2026-07-04T08:00:00.000Z",
+      "to": "2026-07-04T10:00:00.000Z",
+      "id": "e739577411d770ef92dbdf1d22086c82"
+    },
+    {
+      "date": "Le samedi 4 juillet 2026 de  08:30:00 à  15:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "une partie Willoughby Road et les environs",
+      "district": "plainewilhems",
+      "from": "2026-07-04T04:30:00.000Z",
+      "to": "2026-07-04T11:30:00.000Z",
+      "id": "e207555adabc3335741e711a3a1575a5"
+    }
+  ]
+}

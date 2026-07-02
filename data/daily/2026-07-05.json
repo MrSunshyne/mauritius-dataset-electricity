@@ -1,0 +1,48 @@
+{
+  "date": "2026-07-05",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-07-02T07:01:22.789Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  15:00:00",
+      "locality": "RICHE TERRE",
+      "localitySlug": "riche-terre",
+      "streets": "DANS LES ENVIRONS DE POLYTOL, AQUALIA, DURACO,MEADERS FEEDS, CONVENIENCE FOOD, CAFE DE LA FOURNAISE ET ROTO MOULDERS",
+      "district": "pamplemousses",
+      "from": "2026-07-05T04:30:00.000Z",
+      "to": "2026-07-05T11:00:00.000Z",
+      "id": "934cb82efcb22cdcb9d3e961cb0a310b"
+    },
+    {
+      "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  16:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "une partie de Sayed Hossen Road, Morc Gobhurdhun, Flat Sanasee et les environs",
+      "district": "plainewilhems",
+      "from": "2026-07-05T04:30:00.000Z",
+      "to": "2026-07-05T12:00:00.000Z",
+      "id": "28aedc3f3c905310d307f4e1e8c71d58"
+    },
+    {
+      "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  13:00:00",
+      "locality": "VALLEE PITOT",
+      "localitySlug": "vallee-pitot",
+      "streets": "DANS LES ENVIRONS DÚNE PARTIE DES RUES BOULEVARD VICTORIA, MAMELON VERT ET DÉPINAY",
+      "district": "portlouis",
+      "from": "2026-07-05T04:30:00.000Z",
+      "to": "2026-07-05T09:00:00.000Z",
+      "id": "384d97453146c3ed480376629cb6143f"
+    },
+    {
+      "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  13:00:00",
+      "locality": "PLAINE VERTE",
+      "localitySlug": "plaine-verte",
+      "streets": "DANS LES ENVIRONS DÚNE PARTIE DES RUES MADAD UL ISLAM, EDGAR LAURENT, LA PAIX, LENEPVEU ET CHINA",
+      "district": "portlouis",
+      "from": "2026-07-05T04:30:00.000Z",
+      "to": "2026-07-05T09:00:00.000Z",
+      "id": "cdfba2bd48b89a2713372dd2fe758347"
+    }
+  ]
+}

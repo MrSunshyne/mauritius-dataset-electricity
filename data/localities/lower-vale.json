@@ -2,11 +2,18 @@
   "slug": "lower-vale",
   "name": "LOWER VALE",
   "district": "rivieredurempart",
-  "generated": "2026-07-01T18:34:09.351Z",
-  "outageCount": 17,
+  "generated": "2026-07-02T07:01:22.871Z",
+  "outageCount": 18,
   "firstOutage": "2022-08-18",
-  "lastOutage": "2026-06-25",
+  "lastOutage": "2026-07-02",
   "outages": [
+    {
+      "date": "Le jeudi 2 juillet 2026 de  09:30:00 à  12:00:00",
+      "streets": "SSR ROAD, MORC & SURROUNDINGS",
+      "from": "2026-07-02T05:30:00.000Z",
+      "to": "2026-07-02T08:00:00.000Z",
+      "id": "f722e315bb0ebefb2a82610bb73da410"
+    },
     {
       "date": "Le jeudi 25 juin 2026 de  13:00:00 à  15:00:00",
       "streets": "PART OF LOWER VALE",

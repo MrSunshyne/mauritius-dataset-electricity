@@ -2,11 +2,18 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-07-01T18:34:09.414Z",
-  "outageCount": 255,
+  "generated": "2026-07-02T07:01:22.929Z",
+  "outageCount": 256,
   "firstOutage": "2022-03-17",
-  "lastOutage": "2026-06-30",
+  "lastOutage": "2026-07-04",
   "outages": [
+    {
+      "date": "Le samedi 4 juillet 2026 de  08:30:00 à  15:30:00",
+      "streets": "une partie Willoughby Road et les environs",
+      "from": "2026-07-04T04:30:00.000Z",
+      "to": "2026-07-04T11:30:00.000Z",
+      "id": "e207555adabc3335741e711a3a1575a5"
+    },
     {
       "date": "Le mardi 30 juin 2026 de  17:50:00 à  00:00:00",
       "streets": "AVE REMY OLLIER PHOENIX",

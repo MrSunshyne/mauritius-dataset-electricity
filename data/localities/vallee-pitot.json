@@ -2,11 +2,18 @@
   "slug": "vallee-pitot",
   "name": "VALLEE PITOT",
   "district": "portlouis",
-  "generated": "2026-07-01T18:34:09.416Z",
-  "outageCount": 37,
+  "generated": "2026-07-02T07:01:22.931Z",
+  "outageCount": 38,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-06-03",
+  "lastOutage": "2026-07-05",
   "outages": [
+    {
+      "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  13:00:00",
+      "streets": "DANS LES ENVIRONS DÚNE PARTIE DES RUES BOULEVARD VICTORIA, MAMELON VERT ET DÉPINAY",
+      "from": "2026-07-05T04:30:00.000Z",
+      "to": "2026-07-05T09:00:00.000Z",
+      "id": "384d97453146c3ed480376629cb6143f"
+    },
     {
       "date": "Le mercredi 3 juin 2026 de  09:30:00 à  13:30:00",
       "streets": "DANS LES ENVIRONS DES RUES ALMA, IMPASSE ALMA ET SAUZIER",
