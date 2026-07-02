@@ -1,8 +1,8 @@
 {
   "date": "2026-07-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-02T10:06:11.914Z",
-  "outageCount": 5,
+  "generated": "2026-07-02T11:45:11.429Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  15:00:00",
@@ -13,6 +13,36 @@
       "from": "2026-07-05T04:30:00.000Z",
       "to": "2026-07-05T11:00:00.000Z",
       "id": "934cb82efcb22cdcb9d3e961cb0a310b"
+    },
+    {
+      "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  16:30:00",
+      "locality": "BOIS PIGNOLET",
+      "localitySlug": "bois-pignolet",
+      "streets": "",
+      "district": "pamplemousses",
+      "from": "2026-07-05T04:30:00.000Z",
+      "to": "2026-07-05T12:30:00.000Z",
+      "id": "b7d7f91c04aa36695f71942f2f42e1da"
+    },
+    {
+      "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  16:30:00",
+      "locality": "KHOYRATTY",
+      "localitySlug": "khoyratty",
+      "streets": "",
+      "district": "pamplemousses",
+      "from": "2026-07-05T04:30:00.000Z",
+      "to": "2026-07-05T12:30:00.000Z",
+      "id": "5d3ee6113b0628b68fd02145c9236233"
+    },
+    {
+      "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  16:30:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "Terre Rouge dans les environs de Bois Marchand, Mlle Laure, Bhorut Lane, la Croisee Montagne Longue, Morc Bussawon, Morc Tara, Cite Dool, Baptiste Lane, Morc Sheik Dawood, Morc Chavry et Morc Richwood",
+      "district": "pamplemousses",
+      "from": "2026-07-05T04:30:00.000Z",
+      "to": "2026-07-05T12:30:00.000Z",
+      "id": "1c1de6531e1c6988fe45874925b290cb"
     },
     {
       "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  16:00:00",

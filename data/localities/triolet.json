@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-07-02T10:06:12.052Z",
-  "outageCount": 142,
+  "generated": "2026-07-02T11:45:11.572Z",
+  "outageCount": 143,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-06-25",
+  "lastOutage": "2026-07-02",
   "outages": [
+    {
+      "date": "Le jeudi 2 juillet 2026 de  15:00:00 à  17:00:00",
+      "streets": "Bonair Rd,Nr Market",
+      "from": "2026-07-02T11:00:00.000Z",
+      "to": "2026-07-02T13:00:00.000Z",
+      "id": "84d5bef03e661369db32cf8569a5e3f2"
+    },
     {
       "date": "Le jeudi 25 juin 2026 de  11:15:00 à  14:15:00",
       "streets": "JAGRITI RD, VIKASH BLDG ET LES ALENTOURS",

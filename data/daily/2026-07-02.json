@@ -1,18 +1,28 @@
 {
   "date": "2026-07-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-02T10:06:11.914Z",
-  "outageCount": 8,
+  "generated": "2026-07-02T11:45:11.429Z",
+  "outageCount": 9,
   "outages": [
     {
-      "date": "Le jeudi 2 juillet 2026 de  12:00:00 à  14:00:00",
+      "date": "Le jeudi 2 juillet 2026 de  12:00:00 à  15:00:00",
       "locality": "CENTRAL FLACQ",
       "localitySlug": "central-flacq",
       "streets": "Flacq dans le périmètre de Boulet Blanc, Plaine De Gersigny, Avenue Francois Mitterand, Flacq District Court et Flacq Police Station et Seeraully Rd.",
       "district": "flacq",
       "from": "2026-07-02T08:00:00.000Z",
-      "to": "2026-07-02T10:00:00.000Z",
-      "id": "65923dca373213db934dc89d3ba8eb6a"
+      "to": "2026-07-02T11:00:00.000Z",
+      "id": "751b83045b204a1d7b09c1450244a2c0"
+    },
+    {
+      "date": "Le jeudi 2 juillet 2026 de  15:00:00 à  17:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "Bonair Rd,Nr Market",
+      "district": "pamplemousses",
+      "from": "2026-07-02T11:00:00.000Z",
+      "to": "2026-07-02T13:00:00.000Z",
+      "id": "84d5bef03e661369db32cf8569a5e3f2"
     },
     {
       "date": "Le jeudi 2 juillet 2026 de  09:00:00 à  17:30:00",

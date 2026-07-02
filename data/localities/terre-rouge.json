@@ -2,11 +2,18 @@
   "slug": "terre-rouge",
   "name": "TERRE ROUGE",
   "district": "pamplemousses",
-  "generated": "2026-07-02T10:06:12.050Z",
-  "outageCount": 109,
+  "generated": "2026-07-02T11:45:11.569Z",
+  "outageCount": 110,
   "firstOutage": "2022-03-14",
-  "lastOutage": "2026-07-01",
+  "lastOutage": "2026-07-05",
   "outages": [
+    {
+      "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  16:30:00",
+      "streets": "Terre Rouge dans les environs de Bois Marchand, Mlle Laure, Bhorut Lane, la Croisee Montagne Longue, Morc Bussawon, Morc Tara, Cite Dool, Baptiste Lane, Morc Sheik Dawood, Morc Chavry et Morc Richwood",
+      "from": "2026-07-05T04:30:00.000Z",
+      "to": "2026-07-05T12:30:00.000Z",
+      "id": "1c1de6531e1c6988fe45874925b290cb"
+    },
     {
       "date": "Le mercredi 1 juillet 2026 de  15:00:00 à  16:00:00",
       "streets": "MORC RAFFRAY",

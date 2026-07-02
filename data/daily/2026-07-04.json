@@ -1,8 +1,8 @@
 {
   "date": "2026-07-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-02T10:06:11.914Z",
-  "outageCount": 2,
+  "generated": "2026-07-02T11:45:11.429Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le samedi 4 juillet 2026 de  12:00:00 à  14:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-07-04T08:00:00.000Z",
       "to": "2026-07-04T10:00:00.000Z",
       "id": "e739577411d770ef92dbdf1d22086c82"
+    },
+    {
+      "date": "Le samedi 4 juillet 2026 de  08:30:00 à  15:30:00",
+      "locality": "PLAINE DES PAPAYES",
+      "localitySlug": "plaine-des-papayes",
+      "streets": "Near Mosque, Patisserie et Jaypal road",
+      "district": "pamplemousses",
+      "from": "2026-07-04T04:30:00.000Z",
+      "to": "2026-07-04T11:30:00.000Z",
+      "id": "b23bb81b548ce331836e0deb325fadf7"
     },
     {
       "date": "Le samedi 4 juillet 2026 de  08:30:00 à  15:30:00",

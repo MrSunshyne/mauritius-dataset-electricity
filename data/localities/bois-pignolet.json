@@ -2,11 +2,18 @@
   "slug": "bois-pignolet",
   "name": "BOIS PIGNOLET",
   "district": "pamplemousses",
-  "generated": "2026-07-02T10:06:11.945Z",
-  "outageCount": 15,
+  "generated": "2026-07-02T11:45:11.463Z",
+  "outageCount": 16,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2025-11-26",
+  "lastOutage": "2026-07-05",
   "outages": [
+    {
+      "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  16:30:00",
+      "streets": "",
+      "from": "2026-07-05T04:30:00.000Z",
+      "to": "2026-07-05T12:30:00.000Z",
+      "id": "b7d7f91c04aa36695f71942f2f42e1da"
+    },
     {
       "date": "Le mercredi 26 novembre 2025 de  08:50:00 à  14:00:00",
       "streets": "EN PARTIE ROYAL ROAD, MAYFLOWER LANE ET LES ALENTOURS",
