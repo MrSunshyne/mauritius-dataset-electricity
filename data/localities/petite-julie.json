@@ -2,11 +2,18 @@
   "slug": "petite-julie",
   "name": "PETITE JULIE",
   "district": "pamplemousses",
-  "generated": "2026-07-02T15:42:35.200Z",
-  "outageCount": 9,
+  "generated": "2026-07-02T16:31:52.524Z",
+  "outageCount": 10,
   "firstOutage": "2022-07-23",
-  "lastOutage": "2026-05-07",
+  "lastOutage": "2026-07-02",
   "outages": [
+    {
+      "date": "Le jeudi 2 juillet 2026 de  17:15:00 à  00:00:00",
+      "streets": "WHOLE VILLAGE",
+      "from": "2026-07-02T13:15:00.000Z",
+      "to": "2026-07-01T20:00:00.000Z",
+      "id": "d346e26c2f72b8be02b43eb7f4772f56"
+    },
     {
       "date": "Le jeudi 7 mai 2026 de  09:00:00 à  14:00:00",
       "streets": "VILLE BAGUE ET GRANDE ROSALIE",

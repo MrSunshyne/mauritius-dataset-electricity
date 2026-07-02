@@ -1,8 +1,8 @@
 {
   "date": "2026-07-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-02T15:42:35.096Z",
-  "outageCount": 9,
+  "generated": "2026-07-02T16:31:52.423Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le jeudi 2 juillet 2026 de  12:00:00 à  15:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-07-02T11:00:00.000Z",
       "to": "2026-07-02T13:00:00.000Z",
       "id": "84d5bef03e661369db32cf8569a5e3f2"
+    },
+    {
+      "date": "Le jeudi 2 juillet 2026 de  17:15:00 à  00:00:00",
+      "locality": "PETITE JULIE",
+      "localitySlug": "petite-julie",
+      "streets": "WHOLE VILLAGE",
+      "district": "pamplemousses",
+      "from": "2026-07-02T13:15:00.000Z",
+      "to": "2026-07-01T20:00:00.000Z",
+      "id": "d346e26c2f72b8be02b43eb7f4772f56"
     },
     {
       "date": "Le jeudi 2 juillet 2026 de  09:00:00 à  17:30:00",
