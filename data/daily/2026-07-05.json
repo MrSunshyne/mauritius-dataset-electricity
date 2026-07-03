@@ -1,8 +1,8 @@
 {
   "date": "2026-07-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-03T10:59:09.976Z",
-  "outageCount": 15,
+  "generated": "2026-07-03T11:49:21.403Z",
+  "outageCount": 17,
   "outages": [
     {
       "date": "Le dimanche 5 juillet 2026 de  08:45:00 à  15:00:00",
@@ -125,6 +125,16 @@
       "id": "061c2c42a3c9dfa9db4ae20329a1463b"
     },
     {
+      "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  14:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "En partie Boundary et Ave Farquhar",
+      "district": "plainewilhems",
+      "from": "2026-07-05T04:30:00.000Z",
+      "to": "2026-07-05T10:30:00.000Z",
+      "id": "1988bcc5a529ff3fdda94a2814c62ccc"
+    },
+    {
       "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  13:00:00",
       "locality": "VALLEE PITOT",
       "localitySlug": "vallee-pitot",
@@ -153,6 +163,16 @@
       "from": "2026-07-05T04:30:00.000Z",
       "to": "2026-07-05T12:00:00.000Z",
       "id": "1dfa81cd92349bb7ee355835a693758b"
+    },
+    {
+      "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Pompee, Latanier, Citron Donis",
+      "district": "rodrigues",
+      "from": "2026-07-05T04:30:00.000Z",
+      "to": "2026-07-05T11:00:00.000Z",
+      "id": "12e963afce8ec21038b6730ea7d8eaa4"
     }
   ]
 }

@@ -2,11 +2,18 @@
   "slug": "saint-antoine",
   "name": "SAINT ANTOINE",
   "district": "rivieredurempart",
-  "generated": "2026-07-03T10:59:10.105Z",
-  "outageCount": 10,
+  "generated": "2026-07-03T11:49:21.535Z",
+  "outageCount": 11,
   "firstOutage": "2023-11-21",
-  "lastOutage": "2026-06-28",
+  "lastOutage": "2026-07-03",
   "outages": [
+    {
+      "date": "Le vendredi 3 juillet 2026 de  15:20:00 à  19:00:00",
+      "streets": "MORC SAINT ANTOINE NEAR PEEROO CAR WASH & GUEST HOUSE",
+      "from": "2026-07-03T11:20:00.000Z",
+      "to": "2026-07-03T15:00:00.000Z",
+      "id": "1e7af4552ced763712962b3d7451d616"
+    },
     {
       "date": "Le dimanche 28 juin 2026 de  21:45:00 à  23:45:00",
       "streets": "MORC PETIT VILLAGE",

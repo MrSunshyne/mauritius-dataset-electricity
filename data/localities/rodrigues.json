@@ -2,11 +2,25 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-07-03T10:59:10.103Z",
-  "outageCount": 236,
+  "generated": "2026-07-03T11:49:21.533Z",
+  "outageCount": 238,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-07-03",
+  "lastOutage": "2026-07-05",
   "outages": [
+    {
+      "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  15:00:00",
+      "streets": "Pompee, Latanier, Citron Donis",
+      "from": "2026-07-05T04:30:00.000Z",
+      "to": "2026-07-05T11:00:00.000Z",
+      "id": "12e963afce8ec21038b6730ea7d8eaa4"
+    },
+    {
+      "date": "Le samedi 4 juillet 2026 de  08:30:00 à  12:00:00",
+      "streets": "Malartic, Bassin Gallard, Petit Gabriel, Eau Vanee, Pavillon, Bigarade, Fond Baie Aux Huitres, Citron Donis, Baie Aux Huitres",
+      "from": "2026-07-04T04:30:00.000Z",
+      "to": "2026-07-04T08:00:00.000Z",
+      "id": "acb79469887b3d66424a4da518ad58ac"
+    },
     {
       "date": "Le vendredi 3 juillet 2026 de  12:00:00 à  13:00:00",
       "streets": "Mont Lubin",

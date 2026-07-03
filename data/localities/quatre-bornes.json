@@ -2,11 +2,32 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-07-03T10:59:10.094Z",
-  "outageCount": 387,
+  "generated": "2026-07-03T11:49:21.523Z",
+  "outageCount": 390,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-07-02",
+  "lastOutage": "2026-07-05",
   "outages": [
+    {
+      "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  14:30:00",
+      "streets": "En partie Boundary et Ave Farquhar",
+      "from": "2026-07-05T04:30:00.000Z",
+      "to": "2026-07-05T10:30:00.000Z",
+      "id": "1988bcc5a529ff3fdda94a2814c62ccc"
+    },
+    {
+      "date": "Le samedi 4 juillet 2026 de  09:00:00 à  12:00:00",
+      "streets": "Ave Boundary, Farquhar, Robert Edward Hart et les environs",
+      "from": "2026-07-04T05:00:00.000Z",
+      "to": "2026-07-04T08:00:00.000Z",
+      "id": "f3399ee2ed508e6e698d5a11cb38cb80"
+    },
+    {
+      "date": "Le samedi 4 juillet 2026 de  08:30:00 à  14:00:00",
+      "streets": "En partie Ave Boundary, Res. Beau Sejour et Aquarelle",
+      "from": "2026-07-04T04:30:00.000Z",
+      "to": "2026-07-04T10:00:00.000Z",
+      "id": "50c89f8ea10e5056d2485c1965657731"
+    },
     {
       "date": "Le jeudi 2 juillet 2026 de  11:15:00 à  13:00:00",
       "streets": "AVE OLLIER, MURRAY & SURROUNDINGS",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-03T10:59:10.126Z",
+  "generated": "2026-07-03T11:49:21.555Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -286,7 +286,7 @@
       "slug": "beau-bassin",
       "name": "BEAU BASSIN",
       "district": "plainewilhems",
-      "outageCount": 188,
+      "outageCount": 189,
       "file": "beau-bassin.json",
       "firstOutage": "2022-03-25",
       "lastOutage": "2026-07-05"
@@ -412,10 +412,10 @@
       "slug": "belle-etoile",
       "name": "BELLE ETOILE",
       "district": "plainewilhems",
-      "outageCount": 4,
+      "outageCount": 5,
       "file": "belle-etoile.json",
       "firstOutage": "2022-11-24",
-      "lastOutage": "2026-04-13"
+      "lastOutage": "2026-07-03"
     },
     {
       "slug": "belle-mare",
@@ -3175,10 +3175,10 @@
       "slug": "quatre-bornes",
       "name": "QUATRE-BORNES",
       "district": "plainewilhems",
-      "outageCount": 387,
+      "outageCount": 390,
       "file": "quatre-bornes.json",
       "firstOutage": "2022-04-01",
-      "lastOutage": "2026-07-02"
+      "lastOutage": "2026-07-05"
     },
     {
       "slug": "quatre-carreaux",
@@ -3490,10 +3490,10 @@
       "slug": "rodrigues",
       "name": "RODRIGUES",
       "district": "rodrigues",
-      "outageCount": 236,
+      "outageCount": 238,
       "file": "rodrigues.json",
       "firstOutage": "2022-03-15",
-      "lastOutage": "2026-07-03"
+      "lastOutage": "2026-07-05"
     },
     {
       "slug": "rose-belle",
@@ -3535,10 +3535,10 @@
       "slug": "saint-antoine",
       "name": "SAINT ANTOINE",
       "district": "rivieredurempart",
-      "outageCount": 10,
+      "outageCount": 11,
       "file": "saint-antoine.json",
       "firstOutage": "2023-11-21",
-      "lastOutage": "2026-06-28"
+      "lastOutage": "2026-07-03"
     },
     {
       "slug": "saint-aubin",
