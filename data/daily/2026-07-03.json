@@ -1,8 +1,8 @@
 {
   "date": "2026-07-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-03T11:49:21.402Z",
-  "outageCount": 8,
+  "generated": "2026-07-03T12:32:49.860Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le vendredi 3 juillet 2026 de  11:00:00 à  15:00:00",
@@ -73,6 +73,16 @@
       "from": "2026-07-03T11:20:00.000Z",
       "to": "2026-07-03T15:00:00.000Z",
       "id": "1e7af4552ced763712962b3d7451d616"
+    },
+    {
+      "date": "Le vendredi 3 juillet 2026 de  16:10:00 à  19:00:00",
+      "locality": "SAINT ANTOINE",
+      "localitySlug": "saint-antoine",
+      "streets": "MORC SAINT ANTOINE NEAR PEEROO CAR WASH & GUEST HOUSE",
+      "district": "rivieredurempart",
+      "from": "2026-07-03T12:10:00.000Z",
+      "to": "2026-07-03T15:00:00.000Z",
+      "id": "bb7b6ece6cf8f5eb23ff8a36e8be62bb"
     },
     {
       "date": "Le vendredi 3 juillet 2026 de  12:00:00 à  13:00:00",
