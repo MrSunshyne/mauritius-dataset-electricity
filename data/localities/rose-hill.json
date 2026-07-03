@@ -2,11 +2,25 @@
   "slug": "rose-hill",
   "name": "ROSE-HILL",
   "district": "plainewilhems",
-  "generated": "2026-07-02T18:27:53.991Z",
-  "outageCount": 176,
+  "generated": "2026-07-03T06:59:51.067Z",
+  "outageCount": 178,
   "firstOutage": "2022-05-20",
-  "lastOutage": "2026-07-02",
+  "lastOutage": "2026-07-05",
   "outages": [
+    {
+      "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  14:30:00",
+      "streets": "En partie Boundary et Ave Farquhar",
+      "from": "2026-07-05T04:30:00.000Z",
+      "to": "2026-07-05T10:30:00.000Z",
+      "id": "5c26a1b5cdd101cfc1a978b0fa285e01"
+    },
+    {
+      "date": "Le samedi 4 juillet 2026 de  08:30:00 à  14:00:00",
+      "streets": "En partie Ave Boundary, Res. Beau Sejour et Aquarelle",
+      "from": "2026-07-04T04:30:00.000Z",
+      "to": "2026-07-04T10:00:00.000Z",
+      "id": "9d616f1eb5870b16ed04c72829c3b1f7"
+    },
     {
       "date": "Le jeudi 2 juillet 2026 de  15:30:00 à  18:00:00",
       "streets": "En partie Ave La Concorde, en partie Ratsitatane, Neptune et NHDC Camp Levieux",

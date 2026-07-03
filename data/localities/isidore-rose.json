@@ -2,11 +2,18 @@
   "slug": "isidore-rose",
   "name": "ISIDORE ROSE",
   "district": "flacq",
-  "generated": "2026-07-02T18:27:53.938Z",
-  "outageCount": 16,
+  "generated": "2026-07-03T06:59:51.011Z",
+  "outageCount": 17,
   "firstOutage": "2022-05-09",
-  "lastOutage": "2026-06-22",
+  "lastOutage": "2026-07-07",
   "outages": [
+    {
+      "date": "Le mardi 7 juillet 2026 de  08:45:00 à  17:00:00",
+      "streets": "Argy et Isidore Rose dans le périmètre de MPI Argy, CWA Argy, Isidore Rose Village",
+      "from": "2026-07-07T04:45:00.000Z",
+      "to": "2026-07-07T13:00:00.000Z",
+      "id": "a02bd7a3f5330196fb7e98da67a8899d"
+    },
     {
       "date": "Le lundi 22 juin 2026 de  15:00:00 à  17:00:00",
       "streets": "ISIDORE ROSE",

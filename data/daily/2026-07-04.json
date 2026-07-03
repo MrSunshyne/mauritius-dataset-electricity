@@ -1,9 +1,29 @@
 {
   "date": "2026-07-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-02T18:27:53.865Z",
-  "outageCount": 5,
+  "generated": "2026-07-03T06:59:50.927Z",
+  "outageCount": 8,
   "outages": [
+    {
+      "date": "Le samedi 4 juillet 2026 de  08:30:00 à  16:00:00",
+      "locality": "BEAU CHAMP FLACQ",
+      "localitySlug": "beau-champ-flacq",
+      "streets": "Beau Champ dans le périmètre du Route Royale, Morc VRS près du station CEB et près du Kovil.",
+      "district": "flacq",
+      "from": "2026-07-04T04:30:00.000Z",
+      "to": "2026-07-04T12:00:00.000Z",
+      "id": "09a28520f20f6fad9b813082ba3e1b77"
+    },
+    {
+      "date": "Le samedi 4 juillet 2026 de  08:30:00 à  15:30:00",
+      "locality": "PETIT VERGER SAINT PIERRE",
+      "localitySlug": "petit-verger-saint-pierre",
+      "streets": "Bois Cheri Rd, Le Pouce, Riv. Baptiste, School Lane et Eglise St Pierre",
+      "district": "moka",
+      "from": "2026-07-04T04:30:00.000Z",
+      "to": "2026-07-04T11:30:00.000Z",
+      "id": "1d5733044336edc2ab36211210e66871"
+    },
     {
       "date": "Le samedi 4 juillet 2026 de  12:00:00 à  14:00:00",
       "locality": "RICHE TERRE",
@@ -53,6 +73,16 @@
       "from": "2026-07-04T04:30:00.000Z",
       "to": "2026-07-04T08:00:00.000Z",
       "id": "b7b89269c5913a299021daa61b58642a"
+    },
+    {
+      "date": "Le samedi 4 juillet 2026 de  08:30:00 à  14:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "En partie Ave Boundary, Res. Beau Sejour et Aquarelle",
+      "district": "plainewilhems",
+      "from": "2026-07-04T04:30:00.000Z",
+      "to": "2026-07-04T10:00:00.000Z",
+      "id": "9d616f1eb5870b16ed04c72829c3b1f7"
     }
   ]
 }

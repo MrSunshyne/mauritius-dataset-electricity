@@ -2,11 +2,18 @@
   "slug": "petit-verger-saint-pierre",
   "name": "PETIT VERGER SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-07-02T18:27:53.966Z",
-  "outageCount": 15,
+  "generated": "2026-07-03T06:59:51.042Z",
+  "outageCount": 16,
   "firstOutage": "2022-07-07",
-  "lastOutage": "2026-05-05",
+  "lastOutage": "2026-07-04",
   "outages": [
+    {
+      "date": "Le samedi 4 juillet 2026 de  08:30:00 à  15:30:00",
+      "streets": "Bois Cheri Rd, Le Pouce, Riv. Baptiste, School Lane et Eglise St Pierre",
+      "from": "2026-07-04T04:30:00.000Z",
+      "to": "2026-07-04T11:30:00.000Z",
+      "id": "1d5733044336edc2ab36211210e66871"
+    },
     {
       "date": "Le mardi 5 mai 2026 de  15:30:00 à  17:30:00",
       "streets": "MTS Telecom, Morc Merrytown, Village Helvetia, Morc Pillay, Morc Desvaux, Morc Ramnarain 2, Morc Ramnarain Chantenay, Morc Jhamna",

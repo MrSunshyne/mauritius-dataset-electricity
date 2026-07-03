@@ -2,11 +2,18 @@
   "slug": "amaury",
   "name": "AMAURY",
   "district": "rivieredurempart",
-  "generated": "2026-07-02T18:27:53.884Z",
-  "outageCount": 25,
+  "generated": "2026-07-03T06:59:50.950Z",
+  "outageCount": 26,
   "firstOutage": "2022-06-30",
-  "lastOutage": "2026-04-08",
+  "lastOutage": "2026-07-03",
   "outages": [
+    {
+      "date": "Le vendredi 3 juillet 2026 de  08:30:00 à  18:00:00",
+      "streets": "AMAURY-BARLOW-BELLE VUE MAUREL",
+      "from": "2026-07-03T04:30:00.000Z",
+      "to": "2026-07-03T14:00:00.000Z",
+      "id": "9b0b3528958e22cc1bb8a4dcf7f57e51"
+    },
     {
       "date": "Le mercredi 8 avril 2026 de  22:00:00 à  02:00:00",
       "streets": "ROYAL ROAD, TEMPLE ROAD ET DANS LES ENVIRONS MOSQUE/KOVIL.",

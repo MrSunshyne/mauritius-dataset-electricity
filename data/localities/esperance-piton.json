@@ -2,11 +2,18 @@
   "slug": "esperance-piton",
   "name": "ESPERANCE PITON",
   "district": "pamplemousses",
-  "generated": "2026-07-02T18:27:53.925Z",
-  "outageCount": 10,
+  "generated": "2026-07-03T06:59:50.997Z",
+  "outageCount": 11,
   "firstOutage": "2022-10-08",
-  "lastOutage": "2026-06-14",
+  "lastOutage": "2026-07-05",
   "outages": [
+    {
+      "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  15:00:00",
+      "streets": "",
+      "from": "2026-07-05T04:30:00.000Z",
+      "to": "2026-07-05T11:00:00.000Z",
+      "id": "081b7c7b7be67fbe0caadff07b59ba92"
+    },
     {
       "date": "Le dimanche 14 juin 2026 de  08:30:00 à  16:00:00",
       "streets": "ESPERANCE PITON, ENTIERE REGION",

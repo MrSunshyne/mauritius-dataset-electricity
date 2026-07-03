@@ -2,11 +2,18 @@
   "slug": "poste-de-flacq",
   "name": "POSTE DE FLACQ",
   "district": "flacq",
-  "generated": "2026-07-02T18:27:53.976Z",
-  "outageCount": 41,
+  "generated": "2026-07-03T06:59:51.052Z",
+  "outageCount": 42,
   "firstOutage": "2022-06-12",
-  "lastOutage": "2026-06-29",
+  "lastOutage": "2026-07-03",
   "outages": [
+    {
+      "date": "Le vendredi 3 juillet 2026 de  00:00:00 à  03:00:00",
+      "streets": "LA PORT PROVIDENCE POSTE DE FLACQ",
+      "from": "2026-07-02T20:00:00.000Z",
+      "to": "2026-07-01T23:00:00.000Z",
+      "id": "cb5fb7bcb5ca1517c14043b8c24c0730"
+    },
     {
       "date": "Le lundi 29 juin 2026 de  20:45:00 à  01:00:00",
       "streets": "ROYAL ROAD, JARDIN ST AND SURROUNDINGS",

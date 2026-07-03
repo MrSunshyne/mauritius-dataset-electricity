@@ -2,11 +2,18 @@
   "slug": "beau-champ-flacq",
   "name": "BEAU CHAMP FLACQ",
   "district": "flacq",
-  "generated": "2026-07-02T18:27:53.891Z",
-  "outageCount": 16,
+  "generated": "2026-07-03T06:59:50.958Z",
+  "outageCount": 17,
   "firstOutage": "2022-03-23",
-  "lastOutage": "2025-12-09",
+  "lastOutage": "2026-07-04",
   "outages": [
+    {
+      "date": "Le samedi 4 juillet 2026 de  08:30:00 à  16:00:00",
+      "streets": "Beau Champ dans le périmètre du Route Royale, Morc VRS près du station CEB et près du Kovil.",
+      "from": "2026-07-04T04:30:00.000Z",
+      "to": "2026-07-04T12:00:00.000Z",
+      "id": "09a28520f20f6fad9b813082ba3e1b77"
+    },
     {
       "date": "Le mardi 9 décembre 2025 de  09:00:00 à  17:00:00",
       "streets": "Beau Champ dans le périmètre du Morc VRS et Route Royal près du Kovil.",
