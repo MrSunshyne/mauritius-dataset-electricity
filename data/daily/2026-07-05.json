@@ -1,8 +1,8 @@
 {
   "date": "2026-07-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-03T09:59:00.731Z",
-  "outageCount": 13,
+  "generated": "2026-07-03T10:59:09.976Z",
+  "outageCount": 15,
   "outages": [
     {
       "date": "Le dimanche 5 juillet 2026 de  08:45:00 à  15:00:00",
@@ -95,14 +95,34 @@
       "id": "5b334825ae77dd5b6f5cb0ef606bdefb"
     },
     {
-      "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  14:30:00",
+      "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  15:00:00",
       "locality": "ROSE-HILL",
       "localitySlug": "rose-hill",
-      "streets": "En partie Boundary et Ave Farquhar",
+      "streets": "En Partie Route Hugnin, Sir Celicourt Antelme et les environs",
       "district": "plainewilhems",
       "from": "2026-07-05T04:30:00.000Z",
+      "to": "2026-07-05T11:00:00.000Z",
+      "id": "3f4eeb1db620120ed27deb2e417efa2e"
+    },
+    {
+      "date": "Le dimanche 5 juillet 2026 de  14:00:00 à  14:30:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Dr Lesur, Ave Khodabacus, Ave Philipe Raoul, Ave Maudave, Dreamprice Price Beau-Bassin, Res. Vuillemin, NHDC Vuillemin, Dr Reid, Mahadeo Biltoo, Duperre, Chasteauneuf et les environs",
+      "district": "plainewilhems",
+      "from": "2026-07-05T10:00:00.000Z",
       "to": "2026-07-05T10:30:00.000Z",
-      "id": "5c26a1b5cdd101cfc1a978b0fa285e01"
+      "id": "5a73e02ae425792ba8e3c3e87beadd1b"
+    },
+    {
+      "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  15:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Imp Dr Lesur, SOS Village, Flat Selucia, MITD Sir Kher Jagatsing, College John Kennedy et les environs",
+      "district": "plainewilhems",
+      "from": "2026-07-05T04:30:00.000Z",
+      "to": "2026-07-05T11:00:00.000Z",
+      "id": "061c2c42a3c9dfa9db4ae20329a1463b"
     },
     {
       "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  13:00:00",

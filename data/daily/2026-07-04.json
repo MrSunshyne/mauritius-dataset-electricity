@@ -1,8 +1,8 @@
 {
   "date": "2026-07-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-03T09:59:00.731Z",
-  "outageCount": 8,
+  "generated": "2026-07-03T10:59:09.976Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le samedi 4 juillet 2026 de  08:30:00 à  16:00:00",
@@ -83,6 +83,16 @@
       "from": "2026-07-04T04:30:00.000Z",
       "to": "2026-07-04T10:00:00.000Z",
       "id": "9d616f1eb5870b16ed04c72829c3b1f7"
+    },
+    {
+      "date": "Le samedi 4 juillet 2026 de  08:30:00 à  15:30:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "Chapman View et les environs",
+      "district": "plainewilhems",
+      "from": "2026-07-04T04:30:00.000Z",
+      "to": "2026-07-04T11:30:00.000Z",
+      "id": "d6a5c5d6a51b671587678a860a838338"
     }
   ]
 }

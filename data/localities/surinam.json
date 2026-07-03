@@ -2,11 +2,18 @@
   "slug": "surinam",
   "name": "SURINAM",
   "district": "savanne",
-  "generated": "2026-07-03T09:59:00.858Z",
-  "outageCount": 51,
+  "generated": "2026-07-03T10:59:10.112Z",
+  "outageCount": 52,
   "firstOutage": "2022-05-08",
-  "lastOutage": "2026-04-16",
+  "lastOutage": "2026-07-08",
   "outages": [
+    {
+      "date": "Le mercredi 8 juillet 2026 de  09:00:00 à  16:00:00",
+      "streets": "Surinam et Morcellement Gobin Surinam",
+      "from": "2026-07-08T05:00:00.000Z",
+      "to": "2026-07-08T12:00:00.000Z",
+      "id": "1cd246dc4779f6f2f93f0a01428ba8c7"
+    },
     {
       "date": "Le jeudi 16 avril 2026 de  08:30:00 à  16:00:00",
       "streets": "Martinière et Sept Croisées Surinam",

@@ -2,11 +2,25 @@
   "slug": "beau-bassin",
   "name": "BEAU BASSIN",
   "district": "plainewilhems",
-  "generated": "2026-07-03T09:59:00.753Z",
-  "outageCount": 186,
+  "generated": "2026-07-03T10:59:10.002Z",
+  "outageCount": 188,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-06-30",
+  "lastOutage": "2026-07-05",
   "outages": [
+    {
+      "date": "Le dimanche 5 juillet 2026 de  14:00:00 à  14:30:00",
+      "streets": "Dr Lesur, Ave Khodabacus, Ave Philipe Raoul, Ave Maudave, Dreamprice Price Beau-Bassin, Res. Vuillemin, NHDC Vuillemin, Dr Reid, Mahadeo Biltoo, Duperre, Chasteauneuf et les environs",
+      "from": "2026-07-05T10:00:00.000Z",
+      "to": "2026-07-05T10:30:00.000Z",
+      "id": "5a73e02ae425792ba8e3c3e87beadd1b"
+    },
+    {
+      "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  15:00:00",
+      "streets": "Imp Dr Lesur, SOS Village, Flat Selucia, MITD Sir Kher Jagatsing, College John Kennedy et les environs",
+      "from": "2026-07-05T04:30:00.000Z",
+      "to": "2026-07-05T11:00:00.000Z",
+      "id": "061c2c42a3c9dfa9db4ae20329a1463b"
+    },
     {
       "date": "Le mardi 30 juin 2026 de  10:45:00 à  12:00:00",
       "streets": "Maganlall Desai",
