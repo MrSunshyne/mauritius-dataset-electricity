@@ -2,11 +2,18 @@
   "slug": "upper-vale",
   "name": "UPPER VALE",
   "district": "rivieredurempart",
-  "generated": "2026-07-03T18:23:46.507Z",
-  "outageCount": 25,
+  "generated": "2026-07-04T06:55:45.899Z",
+  "outageCount": 26,
   "firstOutage": "2022-04-05",
-  "lastOutage": "2026-06-07",
+  "lastOutage": "2026-07-04",
   "outages": [
+    {
+      "date": "Le samedi 4 juillet 2026 de  09:00:00 à  12:00:00",
+      "streets": "IMPASSE TIMADU, IMP MOSQUE, EN PARTIE SSR RD",
+      "from": "2026-07-04T05:00:00.000Z",
+      "to": "2026-07-04T08:00:00.000Z",
+      "id": "fc740834683eeaedb7c4469961902178"
+    },
     {
       "date": "Le dimanche 7 juin 2026 de  13:00:00 à  20:00:00",
       "streets": "ROUTE ROYALE, ABDOOL RAZACK MOHAMED ET LES ALENTOURS.",

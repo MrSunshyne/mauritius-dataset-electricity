@@ -1,8 +1,8 @@
 {
   "date": "2026-07-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-03T18:23:46.377Z",
-  "outageCount": 12,
+  "generated": "2026-07-04T06:55:45.756Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le samedi 4 juillet 2026 de  08:30:00 à  16:00:00",
@@ -113,6 +113,16 @@
       "from": "2026-07-04T04:30:00.000Z",
       "to": "2026-07-04T10:00:00.000Z",
       "id": "50c89f8ea10e5056d2485c1965657731"
+    },
+    {
+      "date": "Le samedi 4 juillet 2026 de  09:00:00 à  12:00:00",
+      "locality": "UPPER VALE",
+      "localitySlug": "upper-vale",
+      "streets": "IMPASSE TIMADU, IMP MOSQUE, EN PARTIE SSR RD",
+      "district": "rivieredurempart",
+      "from": "2026-07-04T05:00:00.000Z",
+      "to": "2026-07-04T08:00:00.000Z",
+      "id": "fc740834683eeaedb7c4469961902178"
     },
     {
       "date": "Le samedi 4 juillet 2026 de  08:30:00 à  12:00:00",
