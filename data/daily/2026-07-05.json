@@ -1,8 +1,8 @@
 {
   "date": "2026-07-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-04T18:17:21.418Z",
-  "outageCount": 17,
+  "generated": "2026-07-05T07:00:55.082Z",
+  "outageCount": 18,
   "outages": [
     {
       "date": "Le dimanche 5 juillet 2026 de  08:45:00 à  15:00:00",
@@ -133,6 +133,16 @@
       "from": "2026-07-05T04:30:00.000Z",
       "to": "2026-07-05T10:30:00.000Z",
       "id": "1988bcc5a529ff3fdda94a2814c62ccc"
+    },
+    {
+      "date": "Le dimanche 5 juillet 2026 de  08:45:00 à  12:00:00",
+      "locality": "COROMONDEL - IND ZONE",
+      "localitySlug": "coromondel-ind-zone",
+      "streets": "A.G Motors,Colas,Sms,Sofap",
+      "district": "plainewilhems",
+      "from": "2026-07-05T04:45:00.000Z",
+      "to": "2026-07-05T08:00:00.000Z",
+      "id": "b5f7df864b2c36ef17e8073be6c1144d"
     },
     {
       "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  13:00:00",
