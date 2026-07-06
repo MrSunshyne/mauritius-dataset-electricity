@@ -2,11 +2,18 @@
   "slug": "plaine-magnien",
   "name": "PLAINE MAGNIEN",
   "district": "grandport",
-  "generated": "2026-07-05T18:19:09.157Z",
-  "outageCount": 67,
+  "generated": "2026-07-06T07:23:59.591Z",
+  "outageCount": 68,
   "firstOutage": "2022-06-08",
-  "lastOutage": "2026-06-01",
+  "lastOutage": "2026-07-06",
   "outages": [
+    {
+      "date": "Le lundi 6 juillet 2026 de  11:15:00 à  12:15:00",
+      "streets": "Morc VRS,Mon Desert Road",
+      "from": "2026-07-06T07:15:00.000Z",
+      "to": "2026-07-06T08:15:00.000Z",
+      "id": "c1d2356224de9b917cbe287b7fa1b6b6"
+    },
     {
       "date": "Le lundi 1 juin 2026 de  13:45:00 à  15:45:00",
       "streets": "MORC VRS 2 DANS LES ENVIRONS VILLA ST.",

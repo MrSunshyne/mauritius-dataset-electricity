@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-06",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-07-06T07:23:59.494Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le lundi 6 juillet 2026 de  11:15:00 à  12:15:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "Morc VRS,Mon Desert Road",
+      "district": "grandport",
+      "from": "2026-07-06T07:15:00.000Z",
+      "to": "2026-07-06T08:15:00.000Z",
+      "id": "c1d2356224de9b917cbe287b7fa1b6b6"
+    },
+    {
+      "date": "Le lundi 6 juillet 2026 de  10:40:00 à  15:00:00",
+      "locality": "GRANDE POINTE AUX PIMENTS",
+      "localitySlug": "grande-pointe-aux-piments",
+      "streets": "PEARL RESIDENCE,COASTAL ROAD",
+      "district": "pamplemousses",
+      "from": "2026-07-06T06:40:00.000Z",
+      "to": "2026-07-06T11:00:00.000Z",
+      "id": "75b083ca4d739e60de8b76a81297f345"
+    },
+    {
+      "date": "Le lundi 6 juillet 2026 de  15:00:00 à  17:00:00",
+      "locality": "HOLLYROOD",
+      "localitySlug": "hollyrood",
+      "streets": ": Hollyrood No. 1, une partie de Route Quinze-Cantons No. 2, une partie de Route Dévergues, une partie de Route La Marie, Route Begue, Route Bonnefin, Chemin Réservoirs, Dudhee Lane, Chemin La Source, Mootoo Lane et les environs",
+      "district": "plainewilhems",
+      "from": "2026-07-06T11:00:00.000Z",
+      "to": "2026-07-06T13:00:00.000Z",
+      "id": "7f24c46ddea6ea1c72ddfc8c2e7c01f1"
+    },
+    {
+      "date": "Le lundi 6 juillet 2026 de  10:45:00 à  11:45:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "RICHARD MILES BROWN ST",
+      "district": "portlouis",
+      "from": "2026-07-06T06:45:00.000Z",
+      "to": "2026-07-06T07:45:00.000Z",
+      "id": "47f00cc657d28f44242c0a00adfa12bf"
+    },
+    {
+      "date": "Le lundi 6 juillet 2026 de  10:30:00 à  12:30:00",
+      "locality": "MORC RAFFRAY GUIBIES",
+      "localitySlug": "morc-raffray-guibies",
+      "streets": "CONDE AVE",
+      "district": "portlouis",
+      "from": "2026-07-06T06:30:00.000Z",
+      "to": "2026-07-06T08:30:00.000Z",
+      "id": "ba67e30b817c6220dfa2ed315247bf80"
+    }
+  ]
+}

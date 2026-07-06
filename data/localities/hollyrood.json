@@ -2,11 +2,18 @@
   "slug": "hollyrood",
   "name": "HOLLYROOD",
   "district": "plainewilhems",
-  "generated": "2026-07-05T18:19:09.128Z",
-  "outageCount": 33,
+  "generated": "2026-07-06T07:23:59.561Z",
+  "outageCount": 34,
   "firstOutage": "2022-05-17",
-  "lastOutage": "2025-12-20",
+  "lastOutage": "2026-07-06",
   "outages": [
+    {
+      "date": "Le lundi 6 juillet 2026 de  15:00:00 à  17:00:00",
+      "streets": ": Hollyrood No. 1, une partie de Route Quinze-Cantons No. 2, une partie de Route Dévergues, une partie de Route La Marie, Route Begue, Route Bonnefin, Chemin Réservoirs, Dudhee Lane, Chemin La Source, Mootoo Lane et les environs",
+      "from": "2026-07-06T11:00:00.000Z",
+      "to": "2026-07-06T13:00:00.000Z",
+      "id": "7f24c46ddea6ea1c72ddfc8c2e7c01f1"
+    },
     {
       "date": "Le samedi 20 décembre 2025 de  09:00:00 à  10:30:00",
       "streets": "NANAPRAGASSEN RD HOLLYROOD",

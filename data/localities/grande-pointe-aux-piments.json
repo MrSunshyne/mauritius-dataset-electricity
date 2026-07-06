@@ -2,11 +2,18 @@
   "slug": "grande-pointe-aux-piments",
   "name": "GRANDE POINTE AUX PIMENTS",
   "district": "pamplemousses",
-  "generated": "2026-07-05T18:19:09.125Z",
-  "outageCount": 10,
+  "generated": "2026-07-06T07:23:59.558Z",
+  "outageCount": 11,
   "firstOutage": "2022-04-16",
-  "lastOutage": "2026-04-12",
+  "lastOutage": "2026-07-06",
   "outages": [
+    {
+      "date": "Le lundi 6 juillet 2026 de  10:40:00 à  15:00:00",
+      "streets": "PEARL RESIDENCE,COASTAL ROAD",
+      "from": "2026-07-06T06:40:00.000Z",
+      "to": "2026-07-06T11:00:00.000Z",
+      "id": "75b083ca4d739e60de8b76a81297f345"
+    },
     {
       "date": "Le dimanche 12 avril 2026 de  08:30:00 à  14:00:00",
       "streets": "Royal Road,NHDC",

@@ -2,11 +2,18 @@
   "slug": "sainte-croix",
   "name": "SAINTE CROIX",
   "district": "portlouis",
-  "generated": "2026-07-05T18:19:09.178Z",
-  "outageCount": 79,
+  "generated": "2026-07-06T07:23:59.615Z",
+  "outageCount": 80,
   "firstOutage": "2022-04-26",
-  "lastOutage": "2026-06-03",
+  "lastOutage": "2026-07-06",
   "outages": [
+    {
+      "date": "Le lundi 6 juillet 2026 de  10:45:00 à  11:45:00",
+      "streets": "RICHARD MILES BROWN ST",
+      "from": "2026-07-06T06:45:00.000Z",
+      "to": "2026-07-06T07:45:00.000Z",
+      "id": "47f00cc657d28f44242c0a00adfa12bf"
+    },
     {
       "date": "Le mercredi 3 juin 2026 de  13:30:00 à  15:30:00",
       "streets": "CANAL BATHURST",

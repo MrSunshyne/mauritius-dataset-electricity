@@ -2,11 +2,18 @@
   "slug": "morc-raffray-guibies",
   "name": "MORC RAFFRAY GUIBIES",
   "district": "portlouis",
-  "generated": "2026-07-05T18:19:09.145Z",
-  "outageCount": 13,
+  "generated": "2026-07-06T07:23:59.579Z",
+  "outageCount": 14,
   "firstOutage": "2023-09-19",
-  "lastOutage": "2026-04-01",
+  "lastOutage": "2026-07-06",
   "outages": [
+    {
+      "date": "Le lundi 6 juillet 2026 de  10:30:00 à  12:30:00",
+      "streets": "CONDE AVE",
+      "from": "2026-07-06T06:30:00.000Z",
+      "to": "2026-07-06T08:30:00.000Z",
+      "id": "ba67e30b817c6220dfa2ed315247bf80"
+    },
     {
       "date": "Le mercredi 1 avril 2026 de  09:30:00 à  15:30:00",
       "streets": "LES ABONNES DE MORC RAFFRAY GUIBIES HABITANTDANS LES ENVIRONS DES AVENUES AGNIS 1,2, DODO 1,2, PERROQUET 1,2,3,4,5, JUPITER, MERCURY, TOPAZE, ANSE COURTOIS, CLAUDE DELAITRE ET UNE PARTIE DE MORC LE ROC",
