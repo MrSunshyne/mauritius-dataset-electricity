@@ -1,9 +1,19 @@
 {
   "date": "2026-07-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-06T11:28:18.330Z",
-  "outageCount": 3,
+  "generated": "2026-07-06T13:08:39.953Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le mercredi 8 juillet 2026 de  08:30:00 à  15:00:00",
+      "locality": "UNION PARK",
+      "localitySlug": "union-park",
+      "streets": "Union Park habitant dans le périmètre et les rues suivantes: Morcellement SIT Union Park",
+      "district": "grandport",
+      "from": "2026-07-08T04:30:00.000Z",
+      "to": "2026-07-08T11:00:00.000Z",
+      "id": "da5a2bfce6f659efafdd7151fb827b41"
+    },
     {
       "date": "Le mercredi 8 juillet 2026 de  16:00:00 à  17:00:00",
       "locality": "ROSE-HILL",

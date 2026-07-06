@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-07-06T11:28:18.444Z",
-  "outageCount": 238,
+  "generated": "2026-07-06T13:08:40.078Z",
+  "outageCount": 239,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-07-05",
+  "lastOutage": "2026-07-07",
   "outages": [
+    {
+      "date": "Le mardi 7 juillet 2026 de  08:30:00 à  15:00:00",
+      "streets": "Piment Reposir",
+      "from": "2026-07-07T04:30:00.000Z",
+      "to": "2026-07-07T11:00:00.000Z",
+      "id": "3b0be6ba266c363462cfbb2bc3e65624"
+    },
     {
       "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  15:00:00",
       "streets": "Pompee, Latanier, Citron Donis",

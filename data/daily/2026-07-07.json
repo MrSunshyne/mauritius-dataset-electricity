@@ -1,8 +1,8 @@
 {
   "date": "2026-07-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-06T11:28:18.330Z",
-  "outageCount": 3,
+  "generated": "2026-07-06T13:08:39.953Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le mardi 7 juillet 2026 de  08:45:00 à  17:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-07-07T04:30:00.000Z",
       "to": "2026-07-07T11:00:00.000Z",
       "id": "2af93c945ef7a38de1e7a8098a8454d3"
+    },
+    {
+      "date": "Le mardi 7 juillet 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Piment Reposir",
+      "district": "rodrigues",
+      "from": "2026-07-07T04:30:00.000Z",
+      "to": "2026-07-07T11:00:00.000Z",
+      "id": "3b0be6ba266c363462cfbb2bc3e65624"
     }
   ]
 }
