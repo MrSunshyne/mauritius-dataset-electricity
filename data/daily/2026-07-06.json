@@ -1,8 +1,8 @@
 {
   "date": "2026-07-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-06T07:23:59.494Z",
-  "outageCount": 5,
+  "generated": "2026-07-06T09:15:46.447Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le lundi 6 juillet 2026 de  11:15:00 à  12:15:00",
@@ -53,6 +53,16 @@
       "from": "2026-07-06T06:30:00.000Z",
       "to": "2026-07-06T08:30:00.000Z",
       "id": "ba67e30b817c6220dfa2ed315247bf80"
+    },
+    {
+      "date": "Le lundi 6 juillet 2026 de  12:05:00 à  13:45:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "Sin Fat Rd",
+      "district": "rivieredurempart",
+      "from": "2026-07-06T08:05:00.000Z",
+      "to": "2026-07-06T09:45:00.000Z",
+      "id": "ccdcce887bad9e0a524576fb6110560b"
     }
   ]
 }

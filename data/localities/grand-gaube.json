@@ -2,11 +2,18 @@
   "slug": "grand-gaube",
   "name": "GRAND GAUBE",
   "district": "rivieredurempart",
-  "generated": "2026-07-06T07:23:59.556Z",
-  "outageCount": 73,
+  "generated": "2026-07-06T09:15:46.512Z",
+  "outageCount": 74,
   "firstOutage": "2022-06-11",
-  "lastOutage": "2026-07-01",
+  "lastOutage": "2026-07-06",
   "outages": [
+    {
+      "date": "Le lundi 6 juillet 2026 de  12:05:00 à  13:45:00",
+      "streets": "Sin Fat Rd",
+      "from": "2026-07-06T08:05:00.000Z",
+      "to": "2026-07-06T09:45:00.000Z",
+      "id": "ccdcce887bad9e0a524576fb6110560b"
+    },
     {
       "date": "Le mercredi 1 juillet 2026 de  09:30:00 à  13:30:00",
       "streets": "ANNA STREET & SURROUNDINGS",
