@@ -2,11 +2,18 @@
   "slug": "bois-mangues",
   "name": "BOIS MANGUES",
   "district": "pamplemousses",
-  "generated": "2026-07-06T15:00:43.668Z",
-  "outageCount": 3,
+  "generated": "2026-07-06T16:57:18.121Z",
+  "outageCount": 4,
   "firstOutage": "2024-07-07",
-  "lastOutage": "2026-05-15",
+  "lastOutage": "2026-07-06",
   "outages": [
+    {
+      "date": "Le lundi 6 juillet 2026 de  20:00:00 à  00:00:00",
+      "streets": "MIDDLE ROAD BOIS MANGUES PLAINE DES PAPAYES",
+      "from": "2026-07-06T16:00:00.000Z",
+      "to": "2026-07-05T20:00:00.000Z",
+      "id": "74cc5dc7f82c1902b174785c36946c9c"
+    },
     {
       "date": "Le vendredi 15 mai 2026 de  10:00:00 à  14:00:00",
       "streets": "MORC BOIS MANGUES",

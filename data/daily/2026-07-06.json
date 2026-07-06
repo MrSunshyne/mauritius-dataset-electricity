@@ -1,9 +1,19 @@
 {
   "date": "2026-07-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-06T15:00:43.631Z",
-  "outageCount": 7,
+  "generated": "2026-07-06T16:57:18.086Z",
+  "outageCount": 9,
   "outages": [
+    {
+      "date": "Le lundi 6 juillet 2026 de  21:00:00 à  00:00:00",
+      "locality": "BONNE MERE",
+      "localitySlug": "bonne-mere",
+      "streets": "AVE MAHATMA GANDHI BONNE MERE",
+      "district": "flacq",
+      "from": "2026-07-06T17:00:00.000Z",
+      "to": "2026-07-05T20:00:00.000Z",
+      "id": "aa4084fb6423de0ef4eb45975364cf32"
+    },
     {
       "date": "Le lundi 6 juillet 2026 de  11:15:00 à  12:15:00",
       "locality": "PLAINE MAGNIEN",
@@ -33,6 +43,16 @@
       "from": "2026-07-06T06:40:00.000Z",
       "to": "2026-07-06T11:00:00.000Z",
       "id": "75b083ca4d739e60de8b76a81297f345"
+    },
+    {
+      "date": "Le lundi 6 juillet 2026 de  20:00:00 à  00:00:00",
+      "locality": "BOIS MANGUES",
+      "localitySlug": "bois-mangues",
+      "streets": "MIDDLE ROAD BOIS MANGUES PLAINE DES PAPAYES",
+      "district": "pamplemousses",
+      "from": "2026-07-06T16:00:00.000Z",
+      "to": "2026-07-05T20:00:00.000Z",
+      "id": "74cc5dc7f82c1902b174785c36946c9c"
     },
     {
       "date": "Le lundi 6 juillet 2026 de  15:00:00 à  17:00:00",
