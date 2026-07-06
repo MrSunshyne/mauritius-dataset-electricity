@@ -1,9 +1,29 @@
 {
   "date": "2026-07-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-06T09:15:46.447Z",
-  "outageCount": 1,
+  "generated": "2026-07-06T11:28:18.330Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le mercredi 8 juillet 2026 de  16:00:00 à  17:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "NHDC Begonia, NHDC Dahlia, NHDC Flamboyant, Espace Concorde, en partie Ave Ariane, Ave Roches-Brunes, Morc Newtown, Winners Roches-Brunes et les environs",
+      "district": "plainewilhems",
+      "from": "2026-07-08T12:00:00.000Z",
+      "to": "2026-07-08T13:00:00.000Z",
+      "id": "187190c84d7603158904a0c970dab294"
+    },
+    {
+      "date": "Le mercredi 8 juillet 2026 de  09:00:00 à  10:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "NHDC Begonia, NHDC Dahlia, NHDC Flamboyant, Espace Concorde, en partie Ave Ariane, Ave Roches-Brunes, Morc Newtown, Winners Roches-Brunes et les environs",
+      "district": "plainewilhems",
+      "from": "2026-07-08T05:00:00.000Z",
+      "to": "2026-07-08T06:00:00.000Z",
+      "id": "e21d4da2e0df094842db06805bd63348"
+    },
     {
       "date": "Le mercredi 8 juillet 2026 de  09:00:00 à  16:00:00",
       "locality": "SURINAM",
