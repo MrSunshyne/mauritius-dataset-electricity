@@ -2,11 +2,25 @@
   "slug": "albion",
   "name": "ALBION",
   "district": "blackriver",
-  "generated": "2026-07-07T09:01:08.577Z",
-  "outageCount": 126,
+  "generated": "2026-07-07T10:58:14.173Z",
+  "outageCount": 128,
   "firstOutage": "2022-06-06",
-  "lastOutage": "2026-07-01",
+  "lastOutage": "2026-07-09",
   "outages": [
+    {
+      "date": "Le jeudi 9 juillet 2026 de  15:00:00 à  15:30:00",
+      "streets": "Morc Raffray, Morc Beerjeeraz, Morc Belle Vue, Ave Ouragan, Ave Victory, Ave St Geran, Ave Bounty, Ave Albatross, Ave Dahlia, Ave Tulipes, Ave Frangipane, Ave Rose, Ave Oeillet et les environs",
+      "from": "2026-07-09T11:00:00.000Z",
+      "to": "2026-07-09T11:30:00.000Z",
+      "id": "6c448181963924ac68c95b5bd945328e"
+    },
+    {
+      "date": "Le jeudi 9 juillet 2026 de  09:00:00 à  09:30:00",
+      "streets": "Morc Raffray, Morc Beerjeeraz, Morc Belle Vue, Ave Ouragan, Ave Victory, Ave St Geran, Ave Bounty, Ave Albatross, Ave Dahlia, Ave Tulipes, Ave Frangipane, Ave Rose, Ave Oeillet et les environs",
+      "from": "2026-07-09T05:00:00.000Z",
+      "to": "2026-07-09T05:30:00.000Z",
+      "id": "584128569d2f4a67caabd77672e7b285"
+    },
     {
       "date": "Le mercredi 1 juillet 2026 de  15:00:00 à  15:30:00",
       "streets": "Morc Raffray, Morc Beerjeeraz, Morc Belle Vue, Ave Ouragan, Ave Victory, Ave St Geran, Ave Bounty, Ave Albatross, Ave Dahlia, Ave Tulipes, Ave Frangipane, Ave Rose, Ave Oeillet et les environs",

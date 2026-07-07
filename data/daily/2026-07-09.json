@@ -1,9 +1,29 @@
 {
   "date": "2026-07-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-07T09:01:08.560Z",
-  "outageCount": 1,
+  "generated": "2026-07-07T10:58:14.153Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le jeudi 9 juillet 2026 de  15:00:00 à  15:30:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "Morc Raffray, Morc Beerjeeraz, Morc Belle Vue, Ave Ouragan, Ave Victory, Ave St Geran, Ave Bounty, Ave Albatross, Ave Dahlia, Ave Tulipes, Ave Frangipane, Ave Rose, Ave Oeillet et les environs",
+      "district": "blackriver",
+      "from": "2026-07-09T11:00:00.000Z",
+      "to": "2026-07-09T11:30:00.000Z",
+      "id": "6c448181963924ac68c95b5bd945328e"
+    },
+    {
+      "date": "Le jeudi 9 juillet 2026 de  09:00:00 à  09:30:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "Morc Raffray, Morc Beerjeeraz, Morc Belle Vue, Ave Ouragan, Ave Victory, Ave St Geran, Ave Bounty, Ave Albatross, Ave Dahlia, Ave Tulipes, Ave Frangipane, Ave Rose, Ave Oeillet et les environs",
+      "district": "blackriver",
+      "from": "2026-07-09T05:00:00.000Z",
+      "to": "2026-07-09T05:30:00.000Z",
+      "id": "584128569d2f4a67caabd77672e7b285"
+    },
     {
       "date": "Le jeudi 9 juillet 2026 de  09:00:00 à  16:00:00",
       "locality": "RIVIERE DES GALETS",
