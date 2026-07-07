@@ -2,11 +2,18 @@
   "slug": "petite-riviere",
   "name": "PETITE RIVIERE",
   "district": "blackriver",
-  "generated": "2026-07-07T12:01:37.216Z",
-  "outageCount": 91,
+  "generated": "2026-07-07T13:40:08.876Z",
+  "outageCount": 92,
   "firstOutage": "2022-05-28",
-  "lastOutage": "2026-06-19",
+  "lastOutage": "2026-07-07",
   "outages": [
+    {
+      "date": "Le mardi 7 juillet 2026 de  16:30:00 à  17:30:00",
+      "streets": "MARINA ROAD & SURROUNDINGS",
+      "from": "2026-07-07T12:30:00.000Z",
+      "to": "2026-07-07T13:30:00.000Z",
+      "id": "7ed084d5d396fa7572ab5c09cc9bff10"
+    },
     {
       "date": "Le vendredi 19 juin 2026 de  16:50:00 à  21:00:00",
       "streets": "MORC RAWAT LOBIN LANE & SURROUNDINGS",

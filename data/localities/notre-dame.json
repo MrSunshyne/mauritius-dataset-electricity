@@ -2,11 +2,18 @@
   "slug": "notre-dame",
   "name": "NOTRE DAME",
   "district": "pamplemousses",
-  "generated": "2026-07-07T12:01:37.208Z",
-  "outageCount": 40,
+  "generated": "2026-07-07T13:40:08.870Z",
+  "outageCount": 41,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-06-01",
+  "lastOutage": "2026-07-07",
   "outages": [
+    {
+      "date": "Le mardi 7 juillet 2026 de  17:30:00 à  18:30:00",
+      "streets": "NOTRE DAME, LONG MOUNTAIN, CREVE COEUR & PART OF TERRE ROUGE",
+      "from": "2026-07-07T13:30:00.000Z",
+      "to": "2026-07-07T14:30:00.000Z",
+      "id": "8fe473613df836dc9720ea2f55d82d3b"
+    },
     {
       "date": "Le lundi 1 juin 2026 de  09:10:00 à  10:45:00",
       "streets": "BHUNNOO ROAD AND SURROUNDINGS",
