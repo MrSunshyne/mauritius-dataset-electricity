@@ -1,8 +1,8 @@
 {
   "date": "2026-07-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-07T07:05:09.587Z",
-  "outageCount": 5,
+  "generated": "2026-07-07T09:01:08.560Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le mardi 7 juillet 2026 de  08:45:00 à  17:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-07-07T07:00:00.000Z",
       "to": "2026-07-07T10:00:00.000Z",
       "id": "6fe15a7dc77ae49c960260f39fb0a7cc"
+    },
+    {
+      "date": "Le mardi 7 juillet 2026 de  11:20:00 à  12:00:00",
+      "locality": "PLAINE VERTE",
+      "localitySlug": "plaine-verte",
+      "streets": "RUE LARGE, ST FRANCOIS, JARDIN DESPEAU, COTTON ET LES ALENTOURS",
+      "district": "portlouis",
+      "from": "2026-07-07T07:20:00.000Z",
+      "to": "2026-07-07T08:00:00.000Z",
+      "id": "2530cb8aaac3be37e0d52b3f27378fbf"
     },
     {
       "date": "Le mardi 7 juillet 2026 de  08:30:00 à  15:00:00",

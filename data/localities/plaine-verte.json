@@ -2,11 +2,18 @@
   "slug": "plaine-verte",
   "name": "PLAINE VERTE",
   "district": "portlouis",
-  "generated": "2026-07-07T07:05:09.683Z",
-  "outageCount": 35,
+  "generated": "2026-07-07T09:01:08.662Z",
+  "outageCount": 36,
   "firstOutage": "2022-12-21",
-  "lastOutage": "2026-07-05",
+  "lastOutage": "2026-07-07",
   "outages": [
+    {
+      "date": "Le mardi 7 juillet 2026 de  11:20:00 à  12:00:00",
+      "streets": "RUE LARGE, ST FRANCOIS, JARDIN DESPEAU, COTTON ET LES ALENTOURS",
+      "from": "2026-07-07T07:20:00.000Z",
+      "to": "2026-07-07T08:00:00.000Z",
+      "id": "2530cb8aaac3be37e0d52b3f27378fbf"
+    },
     {
       "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  13:00:00",
       "streets": "DANS LES ENVIRONS DÚNE PARTIE DES RUES MADAD UL ISLAM, EDGAR LAURENT, LA PAIX, LENEPVEU ET CHINA",
