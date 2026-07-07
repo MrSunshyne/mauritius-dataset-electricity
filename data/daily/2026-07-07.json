@@ -1,8 +1,8 @@
 {
   "date": "2026-07-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-07T10:58:14.153Z",
-  "outageCount": 7,
+  "generated": "2026-07-07T12:01:37.115Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le mardi 7 juillet 2026 de  14:00:00 à  20:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-07-07T07:00:00.000Z",
       "to": "2026-07-07T10:00:00.000Z",
       "id": "6fe15a7dc77ae49c960260f39fb0a7cc"
+    },
+    {
+      "date": "Le mardi 7 juillet 2026 de  15:30:00 à  17:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Maingard, Barkly, Dupont, en partie Pope Hennessy, Dumat, Morc La Confiance et les environs",
+      "district": "plainewilhems",
+      "from": "2026-07-07T11:30:00.000Z",
+      "to": "2026-07-07T13:00:00.000Z",
+      "id": "9e168cb0d5f4fef3742325f17006323d"
     },
     {
       "date": "Le mardi 7 juillet 2026 de  11:20:00 à  12:00:00",

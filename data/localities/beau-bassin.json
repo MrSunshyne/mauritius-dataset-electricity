@@ -2,11 +2,18 @@
   "slug": "beau-bassin",
   "name": "BEAU BASSIN",
   "district": "plainewilhems",
-  "generated": "2026-07-07T10:58:14.180Z",
-  "outageCount": 189,
+  "generated": "2026-07-07T12:01:37.138Z",
+  "outageCount": 190,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-07-05",
+  "lastOutage": "2026-07-07",
   "outages": [
+    {
+      "date": "Le mardi 7 juillet 2026 de  15:30:00 à  17:00:00",
+      "streets": "Maingard, Barkly, Dupont, en partie Pope Hennessy, Dumat, Morc La Confiance et les environs",
+      "from": "2026-07-07T11:30:00.000Z",
+      "to": "2026-07-07T13:00:00.000Z",
+      "id": "9e168cb0d5f4fef3742325f17006323d"
+    },
     {
       "date": "Le dimanche 5 juillet 2026 de  14:00:00 à  14:30:00",
       "streets": "Dr Lesur, Ave Khodabacus, Ave Philipe Raoul, Ave Maudave, Dreamprice Price Beau-Bassin, Res. Vuillemin, NHDC Vuillemin, Dr Reid, Mahadeo Biltoo, Duperre, Chasteauneuf et les environs",
