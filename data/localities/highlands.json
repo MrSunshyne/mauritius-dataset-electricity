@@ -2,11 +2,18 @@
   "slug": "highlands",
   "name": "HIGHLANDS",
   "district": "plainewilhems",
-  "generated": "2026-07-06T18:34:10.933Z",
-  "outageCount": 75,
+  "generated": "2026-07-07T07:05:09.652Z",
+  "outageCount": 76,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2026-06-07",
+  "lastOutage": "2026-07-07",
   "outages": [
+    {
+      "date": "Le mardi 7 juillet 2026 de  11:00:00 à  14:00:00",
+      "streets": "Chemin Cité Cinquante, une partie de Nadess Road, Phael Road, Boundary Road",
+      "from": "2026-07-07T07:00:00.000Z",
+      "to": "2026-07-07T10:00:00.000Z",
+      "id": "6fe15a7dc77ae49c960260f39fb0a7cc"
+    },
     {
       "date": "Le dimanche 7 juin 2026 de  09:00:00 à  12:00:00",
       "streets": "Morc Raheemeea, Owadally Lane",
