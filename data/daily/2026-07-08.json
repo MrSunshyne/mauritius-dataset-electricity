@@ -1,8 +1,8 @@
 {
   "date": "2026-07-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-08T07:45:05.244Z",
-  "outageCount": 8,
+  "generated": "2026-07-08T08:48:20.692Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le mercredi 8 juillet 2026 de  09:00:00 à  10:30:00",
@@ -33,6 +33,16 @@
       "from": "2026-07-08T04:30:00.000Z",
       "to": "2026-07-08T11:00:00.000Z",
       "id": "da5a2bfce6f659efafdd7151fb827b41"
+    },
+    {
+      "date": "Le mercredi 8 juillet 2026 de  12:30:00 à  13:30:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "PT VERGER BR RD",
+      "district": "moka",
+      "from": "2026-07-08T08:30:00.000Z",
+      "to": "2026-07-08T09:30:00.000Z",
+      "id": "74b7b6e316e28bf79dd34b610efd3a32"
     },
     {
       "date": "Le mercredi 8 juillet 2026 de  09:55:00 à  11:30:00",
@@ -73,6 +83,16 @@
       "from": "2026-07-08T06:00:00.000Z",
       "to": "2026-07-08T11:00:00.000Z",
       "id": "28486072c5781c32a855a4a9f5fb7fee"
+    },
+    {
+      "date": "Le mercredi 8 juillet 2026 de  12:15:00 à  13:45:00",
+      "locality": "PLAINE VERTE",
+      "localitySlug": "plaine-verte",
+      "streets": "LECLEZIO,CHINA",
+      "district": "portlouis",
+      "from": "2026-07-08T08:15:00.000Z",
+      "to": "2026-07-08T09:45:00.000Z",
+      "id": "345974c20f0b3f1601e125b3f589180c"
     },
     {
       "date": "Le mercredi 8 juillet 2026 de  09:00:00 à  16:00:00",

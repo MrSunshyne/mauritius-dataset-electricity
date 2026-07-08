@@ -2,11 +2,18 @@
   "slug": "saint-pierre",
   "name": "SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-07-08T07:45:05.373Z",
-  "outageCount": 75,
+  "generated": "2026-07-08T08:48:20.821Z",
+  "outageCount": 76,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-06-30",
+  "lastOutage": "2026-07-08",
   "outages": [
+    {
+      "date": "Le mercredi 8 juillet 2026 de  12:30:00 à  13:30:00",
+      "streets": "PT VERGER BR RD",
+      "from": "2026-07-08T08:30:00.000Z",
+      "to": "2026-07-08T09:30:00.000Z",
+      "id": "74b7b6e316e28bf79dd34b610efd3a32"
+    },
     {
       "date": "Le mardi 30 juin 2026 de  10:30:00 à  13:00:00",
       "streets": "Morc Frangipane,L-Avenir",
