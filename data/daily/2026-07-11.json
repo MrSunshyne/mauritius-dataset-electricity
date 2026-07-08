@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-11",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-07-08T10:38:27.546Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le samedi 11 juillet 2026 de  11:00:00 à  15:00:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "une partie de Henrietta Branch Road, Delphis Lane, Conner Caldwell and Rajabally Lane",
+      "district": "plainewilhems",
+      "from": "2026-07-11T07:00:00.000Z",
+      "to": "2026-07-11T11:00:00.000Z",
+      "id": "2f0118a9e5ab8c92e14bd5aa0bc898e0"
+    },
+    {
+      "date": "Le samedi 11 juillet 2026 de  09:00:00 à  12:00:00",
+      "locality": "GLEN PARK",
+      "localitySlug": "glen-park",
+      "streets": "Une partie de Glen Park et Avenue des vergues",
+      "district": "plainewilhems",
+      "from": "2026-07-11T05:00:00.000Z",
+      "to": "2026-07-11T08:00:00.000Z",
+      "id": "ac9169cd64bd216000d35e4b1fef67db"
+    }
+  ]
+}

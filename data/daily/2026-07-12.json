@@ -1,9 +1,19 @@
 {
   "date": "2026-07-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-08T09:44:43.663Z",
-  "outageCount": 2,
+  "generated": "2026-07-08T10:38:27.547Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le dimanche 12 juillet 2026 de  08:30:00 à  11:00:00",
+      "locality": "COTE D-OR",
+      "localitySlug": "cote-d-or",
+      "streets": "Morcellement Iremia Cote dOR",
+      "district": "moka",
+      "from": "2026-07-12T04:30:00.000Z",
+      "to": "2026-07-12T07:00:00.000Z",
+      "id": "af1c838c82ea293662f4a92d39e53623"
+    },
     {
       "date": "Le dimanche 12 juillet 2026 de  08:30:00 à  16:00:00",
       "locality": "CUREPIPE",
@@ -23,6 +33,16 @@
       "from": "2026-07-12T04:30:00.000Z",
       "to": "2026-07-12T12:00:00.000Z",
       "id": "6aee76b0fa853414fbbf83a4767621cf"
+    },
+    {
+      "date": "Le dimanche 12 juillet 2026 de  11:00:00 à  14:00:00",
+      "locality": "BELLE TERRE",
+      "localitySlug": "belle-terre",
+      "streets": "Belle Terre Village",
+      "district": "plainewilhems",
+      "from": "2026-07-12T07:00:00.000Z",
+      "to": "2026-07-12T10:00:00.000Z",
+      "id": "7758e551e3c235255f0c514e794974e5"
     }
   ]
 }

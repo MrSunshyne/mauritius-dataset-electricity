@@ -2,11 +2,18 @@
   "slug": "cote-d-or",
   "name": "COTE D-OR",
   "district": "moka",
-  "generated": "2026-07-08T09:44:43.717Z",
-  "outageCount": 29,
+  "generated": "2026-07-08T10:38:27.609Z",
+  "outageCount": 30,
   "firstOutage": "2022-05-22",
-  "lastOutage": "2026-06-28",
+  "lastOutage": "2026-07-12",
   "outages": [
+    {
+      "date": "Le dimanche 12 juillet 2026 de  08:30:00 à  11:00:00",
+      "streets": "Morcellement Iremia Cote dOR",
+      "from": "2026-07-12T04:30:00.000Z",
+      "to": "2026-07-12T07:00:00.000Z",
+      "id": "af1c838c82ea293662f4a92d39e53623"
+    },
     {
       "date": "Le dimanche 28 juin 2026 de  11:30:00 à  15:00:00",
       "streets": "UNE PARTIE DE MORC IREMIA COTE DOR",

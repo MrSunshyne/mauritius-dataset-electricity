@@ -2,11 +2,18 @@
   "slug": "glen-park",
   "name": "GLEN PARK",
   "district": "plainewilhems",
-  "generated": "2026-07-08T09:44:43.727Z",
-  "outageCount": 45,
+  "generated": "2026-07-08T10:38:27.620Z",
+  "outageCount": 46,
   "firstOutage": "2022-04-26",
-  "lastOutage": "2026-07-07",
+  "lastOutage": "2026-07-11",
   "outages": [
+    {
+      "date": "Le samedi 11 juillet 2026 de  09:00:00 à  12:00:00",
+      "streets": "Une partie de Glen Park et Avenue des vergues",
+      "from": "2026-07-11T05:00:00.000Z",
+      "to": "2026-07-11T08:00:00.000Z",
+      "id": "ac9169cd64bd216000d35e4b1fef67db"
+    },
     {
       "date": "Le mardi 7 juillet 2026 de  08:30:00 à  15:00:00",
       "streets": "une partie de Glen Park, Morc Edoo, Camp Tickfine No. 1, Camp Tickfine No. 2, Rempart Road, Avenue des Vergues, Morc Curumthallee",
