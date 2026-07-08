@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-07-08T06:45:05.498Z",
-  "outageCount": 224,
+  "generated": "2026-07-08T07:45:05.300Z",
+  "outageCount": 225,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-07-05",
+  "lastOutage": "2026-07-12",
   "outages": [
+    {
+      "date": "Le dimanche 12 juillet 2026 de  08:30:00 à  16:00:00",
+      "streets": "Part of Lees St,Commerson St,La Croix St,Victor Hugo St,Baissac St,Maurel St,Lamaletie St,Dalai St,Morc Senneville, Maxime Boulle St,Impasse Henry,Impasse Maigrot,Ducrais St,Duperre St  and nearby alleyways",
+      "from": "2026-07-12T04:30:00.000Z",
+      "to": "2026-07-12T12:00:00.000Z",
+      "id": "660e17fb72bd1a1e31d64e796ad2c1d2"
+    },
     {
       "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  16:00:00",
       "streets": "Pumping Station Engen, Indian Oil,Shell ,Mc Donald and Watchman Quarters at La Vigie",
