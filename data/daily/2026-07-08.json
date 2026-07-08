@@ -1,8 +1,8 @@
 {
   "date": "2026-07-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-08T08:48:20.692Z",
-  "outageCount": 10,
+  "generated": "2026-07-08T09:44:43.662Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le mercredi 8 juillet 2026 de  09:00:00 à  10:30:00",
@@ -43,6 +43,16 @@
       "from": "2026-07-08T08:30:00.000Z",
       "to": "2026-07-08T09:30:00.000Z",
       "id": "74b7b6e316e28bf79dd34b610efd3a32"
+    },
+    {
+      "date": "Le mercredi 8 juillet 2026 de  13:30:00 à  14:30:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "PT VERGER  RD",
+      "district": "moka",
+      "from": "2026-07-08T09:30:00.000Z",
+      "to": "2026-07-08T10:30:00.000Z",
+      "id": "fe706d351f2221fba886520581bbe060"
     },
     {
       "date": "Le mercredi 8 juillet 2026 de  09:55:00 à  11:30:00",
