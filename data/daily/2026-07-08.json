@@ -1,8 +1,8 @@
 {
   "date": "2026-07-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-08T15:42:37.653Z",
-  "outageCount": 13,
+  "generated": "2026-07-08T16:28:54.947Z",
+  "outageCount": 14,
   "outages": [
     {
       "date": "Le mercredi 8 juillet 2026 de  09:00:00 à  10:30:00",
@@ -123,6 +123,16 @@
       "from": "2026-07-08T08:15:00.000Z",
       "to": "2026-07-08T09:45:00.000Z",
       "id": "345974c20f0b3f1601e125b3f589180c"
+    },
+    {
+      "date": "Le mercredi 8 juillet 2026 de  18:00:00 à  22:00:00",
+      "locality": "CAP MALHEUREUX",
+      "localitySlug": "cap-malheureux",
+      "streets": "PAVILLON",
+      "district": "rivieredurempart",
+      "from": "2026-07-08T14:00:00.000Z",
+      "to": "2026-07-08T18:00:00.000Z",
+      "id": "362752118e74ae3b1a8592e8ae6191d3"
     },
     {
       "date": "Le mercredi 8 juillet 2026 de  09:00:00 à  16:00:00",

@@ -2,11 +2,18 @@
   "slug": "cap-malheureux",
   "name": "CAP MALHEUREUX",
   "district": "rivieredurempart",
-  "generated": "2026-07-08T15:42:37.696Z",
-  "outageCount": 53,
+  "generated": "2026-07-08T16:28:54.985Z",
+  "outageCount": 54,
   "firstOutage": "2022-07-14",
-  "lastOutage": "2026-05-12",
+  "lastOutage": "2026-07-08",
   "outages": [
+    {
+      "date": "Le mercredi 8 juillet 2026 de  18:00:00 à  22:00:00",
+      "streets": "PAVILLON",
+      "from": "2026-07-08T14:00:00.000Z",
+      "to": "2026-07-08T18:00:00.000Z",
+      "id": "362752118e74ae3b1a8592e8ae6191d3"
+    },
     {
       "date": "Le mardi 12 mai 2026 de  08:30:00 à  16:00:00",
       "streets": "LE VILLAGE DE CAP MALHEUREUX",
