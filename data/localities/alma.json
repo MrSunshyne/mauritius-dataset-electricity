@@ -2,11 +2,18 @@
   "slug": "alma",
   "name": "ALMA",
   "district": "portlouis",
-  "generated": "2026-07-07T18:36:35.767Z",
-  "outageCount": 4,
+  "generated": "2026-07-08T06:45:05.464Z",
+  "outageCount": 5,
   "firstOutage": "2023-05-09",
-  "lastOutage": "2025-12-23",
+  "lastOutage": "2026-07-08",
   "outages": [
+    {
+      "date": "Le mercredi 8 juillet 2026 de  10:00:00 à  15:00:00",
+      "streets": "CWA,MTML,CEMETERY",
+      "from": "2026-07-08T06:00:00.000Z",
+      "to": "2026-07-08T11:00:00.000Z",
+      "id": "28486072c5781c32a855a4a9f5fb7fee"
+    },
     {
       "date": "Le mardi 23 décembre 2025 de  09:00:00 à  12:00:00",
       "streets": "le village DAlma",

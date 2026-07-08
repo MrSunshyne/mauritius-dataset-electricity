@@ -2,11 +2,18 @@
   "slug": "highlands",
   "name": "HIGHLANDS",
   "district": "plainewilhems",
-  "generated": "2026-07-07T18:36:35.821Z",
-  "outageCount": 76,
+  "generated": "2026-07-08T06:45:05.512Z",
+  "outageCount": 77,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2026-07-07",
+  "lastOutage": "2026-07-09",
   "outages": [
+    {
+      "date": "Le jeudi 9 juillet 2026 de  12:00:00 à  14:00:00",
+      "streets": "Morc MTMD, Morc Val D’oise, Morc Blueprint, Morc Purmessur, Morc Omnicane, Morc VRS Belle Terre, NHDC highlands, Cite 50, Bassin road,  Boundary, Rd Railway Rd, Dispensary Rd, Nadess Rd, Phael Rd, Campement Rd,  une partie de Tout Court road et, Owadally road",
+      "from": "2026-07-09T08:00:00.000Z",
+      "to": "2026-07-09T10:00:00.000Z",
+      "id": "d85772bfc987ad9385884e158a78c933"
+    },
     {
       "date": "Le mardi 7 juillet 2026 de  11:00:00 à  14:00:00",
       "streets": "Chemin Cité Cinquante, une partie de Nadess Road, Phael Road, Boundary Road",

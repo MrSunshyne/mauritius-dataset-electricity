@@ -1,9 +1,29 @@
 {
   "date": "2026-07-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-07T18:36:35.748Z",
-  "outageCount": 4,
+  "generated": "2026-07-08T06:45:05.444Z",
+  "outageCount": 8,
   "outages": [
+    {
+      "date": "Le mercredi 8 juillet 2026 de  09:00:00 à  10:30:00",
+      "locality": "LA PRENEUSE",
+      "localitySlug": "la-preneuse",
+      "streets": "PART OF LA PRENEUSE",
+      "district": "blackriver",
+      "from": "2026-07-08T05:00:00.000Z",
+      "to": "2026-07-08T06:30:00.000Z",
+      "id": "2eeb65e4d8db7f3ee1881396cabcf5c0"
+    },
+    {
+      "date": "Le mercredi 8 juillet 2026 de  09:55:00 à  15:00:00",
+      "locality": "SEBASTOPOL",
+      "localitySlug": "sebastopol",
+      "streets": "nhdc clavet",
+      "district": "flacq",
+      "from": "2026-07-08T05:55:00.000Z",
+      "to": "2026-07-08T11:00:00.000Z",
+      "id": "8114403a050220bea7f96845b48c830b"
+    },
     {
       "date": "Le mercredi 8 juillet 2026 de  08:30:00 à  15:00:00",
       "locality": "UNION PARK",
@@ -13,6 +33,16 @@
       "from": "2026-07-08T04:30:00.000Z",
       "to": "2026-07-08T11:00:00.000Z",
       "id": "da5a2bfce6f659efafdd7151fb827b41"
+    },
+    {
+      "date": "Le mercredi 8 juillet 2026 de  09:55:00 à  11:30:00",
+      "locality": "RICHE TERRE",
+      "localitySlug": "riche-terre",
+      "streets": "polytol,USINE PLASTIC,r/rd",
+      "district": "pamplemousses",
+      "from": "2026-07-08T05:55:00.000Z",
+      "to": "2026-07-08T07:30:00.000Z",
+      "id": "b514cc886b57c35a37456b40b1389e53"
     },
     {
       "date": "Le mercredi 8 juillet 2026 de  16:00:00 à  17:00:00",
@@ -33,6 +63,16 @@
       "from": "2026-07-08T05:00:00.000Z",
       "to": "2026-07-08T06:00:00.000Z",
       "id": "e21d4da2e0df094842db06805bd63348"
+    },
+    {
+      "date": "Le mercredi 8 juillet 2026 de  10:00:00 à  15:00:00",
+      "locality": "ALMA",
+      "localitySlug": "alma",
+      "streets": "CWA,MTML,CEMETERY",
+      "district": "portlouis",
+      "from": "2026-07-08T06:00:00.000Z",
+      "to": "2026-07-08T11:00:00.000Z",
+      "id": "28486072c5781c32a855a4a9f5fb7fee"
     },
     {
       "date": "Le mercredi 8 juillet 2026 de  09:00:00 à  16:00:00",

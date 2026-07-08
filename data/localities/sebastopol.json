@@ -2,11 +2,18 @@
   "slug": "sebastopol",
   "name": "SEBASTOPOL",
   "district": "flacq",
-  "generated": "2026-07-07T18:36:35.882Z",
-  "outageCount": 22,
+  "generated": "2026-07-08T06:45:05.566Z",
+  "outageCount": 23,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-06-11",
+  "lastOutage": "2026-07-08",
   "outages": [
+    {
+      "date": "Le mercredi 8 juillet 2026 de  09:55:00 à  15:00:00",
+      "streets": "nhdc clavet",
+      "from": "2026-07-08T05:55:00.000Z",
+      "to": "2026-07-08T11:00:00.000Z",
+      "id": "8114403a050220bea7f96845b48c830b"
+    },
     {
       "date": "Le jeudi 11 juin 2026 de  10:00:00 à  14:00:00",
       "streets": "dans les environs du village de Lesur",

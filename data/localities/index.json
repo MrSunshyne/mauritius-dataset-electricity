@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-07T18:36:35.897Z",
+  "generated": "2026-07-08T06:45:05.581Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -52,10 +52,10 @@
       "slug": "alma",
       "name": "ALMA",
       "district": "portlouis",
-      "outageCount": 4,
+      "outageCount": 5,
       "file": "alma.json",
       "firstOutage": "2023-05-09",
-      "lastOutage": "2025-12-23"
+      "lastOutage": "2026-07-08"
     },
     {
       "slug": "amaury",
@@ -1771,10 +1771,10 @@
       "slug": "highlands",
       "name": "HIGHLANDS",
       "district": "plainewilhems",
-      "outageCount": 76,
+      "outageCount": 77,
       "file": "highlands.json",
       "firstOutage": "2022-04-13",
-      "lastOutage": "2026-07-07"
+      "lastOutage": "2026-07-09"
     },
     {
       "slug": "hollyrood",
@@ -1987,10 +1987,10 @@
       "slug": "la-preneuse",
       "name": "LA PRENEUSE",
       "district": "blackriver",
-      "outageCount": 27,
+      "outageCount": 28,
       "file": "la-preneuse.json",
       "firstOutage": "2022-03-23",
-      "lastOutage": "2026-03-18"
+      "lastOutage": "2026-07-08"
     },
     {
       "slug": "la-rosa",
@@ -3319,10 +3319,10 @@
       "slug": "riche-terre",
       "name": "RICHE TERRE",
       "district": "pamplemousses",
-      "outageCount": 41,
+      "outageCount": 42,
       "file": "riche-terre.json",
       "firstOutage": "2022-04-03",
-      "lastOutage": "2026-07-05"
+      "lastOutage": "2026-07-08"
     },
     {
       "slug": "richelieu",
@@ -3670,10 +3670,10 @@
       "slug": "sebastopol",
       "name": "SEBASTOPOL",
       "district": "flacq",
-      "outageCount": 22,
+      "outageCount": 23,
       "file": "sebastopol.json",
       "firstOutage": "2022-04-12",
-      "lastOutage": "2026-06-11"
+      "lastOutage": "2026-07-08"
     },
     {
       "slug": "seneville",
