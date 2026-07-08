@@ -2,11 +2,18 @@
   "slug": "ilot",
   "name": "ILOT",
   "district": "pamplemousses",
-  "generated": "2026-07-08T12:28:12.871Z",
-  "outageCount": 15,
+  "generated": "2026-07-08T13:30:50.398Z",
+  "outageCount": 16,
   "firstOutage": "2022-07-26",
-  "lastOutage": "2026-06-12",
+  "lastOutage": "2026-07-08",
   "outages": [
+    {
+      "date": "Le mercredi 8 juillet 2026 de  13:00:00 à  19:00:00",
+      "streets": "ILOT NEAR RTI",
+      "from": "2026-07-08T09:00:00.000Z",
+      "to": "2026-07-08T15:00:00.000Z",
+      "id": "05d0fa8c36fef2ed062ce0f1895a4d30"
+    },
     {
       "date": "Le vendredi 12 juin 2026 de  19:00:00 à  23:00:00",
       "streets": "ROYAL ROAD, ILOT BRANCH ROAD, MAHATMA GANDHI ROAD ET LES ALENTOURS.",
