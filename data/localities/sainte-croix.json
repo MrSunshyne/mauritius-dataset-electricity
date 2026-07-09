@@ -2,11 +2,18 @@
   "slug": "sainte-croix",
   "name": "SAINTE CROIX",
   "district": "portlouis",
-  "generated": "2026-07-08T18:25:45.856Z",
-  "outageCount": 80,
+  "generated": "2026-07-09T07:05:57.328Z",
+  "outageCount": 81,
   "firstOutage": "2022-04-26",
-  "lastOutage": "2026-07-06",
+  "lastOutage": "2026-07-09",
   "outages": [
+    {
+      "date": "Le jeudi 9 juillet 2026 de  10:45:00 à  13:00:00",
+      "streets": "Pieton Pere Laval",
+      "from": "2026-07-09T06:45:00.000Z",
+      "to": "2026-07-09T09:00:00.000Z",
+      "id": "fec066dc33ace797ca5fd07e39b8d6d7"
+    },
     {
       "date": "Le lundi 6 juillet 2026 de  10:45:00 à  11:45:00",
       "streets": "RICHARD MILES BROWN ST",

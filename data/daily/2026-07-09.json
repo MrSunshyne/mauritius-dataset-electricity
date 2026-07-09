@@ -1,8 +1,8 @@
 {
   "date": "2026-07-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-08T18:25:45.717Z",
-  "outageCount": 4,
+  "generated": "2026-07-09T07:05:57.195Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le jeudi 9 juillet 2026 de  15:00:00 à  15:30:00",
@@ -33,6 +33,16 @@
       "from": "2026-07-09T08:00:00.000Z",
       "to": "2026-07-09T10:00:00.000Z",
       "id": "d85772bfc987ad9385884e158a78c933"
+    },
+    {
+      "date": "Le jeudi 9 juillet 2026 de  10:45:00 à  13:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "Pieton Pere Laval",
+      "district": "portlouis",
+      "from": "2026-07-09T06:45:00.000Z",
+      "to": "2026-07-09T09:00:00.000Z",
+      "id": "fec066dc33ace797ca5fd07e39b8d6d7"
     },
     {
       "date": "Le jeudi 9 juillet 2026 de  09:00:00 à  16:00:00",
