@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-07-09T07:05:57.312Z",
-  "outageCount": 390,
+  "generated": "2026-07-09T09:13:56.338Z",
+  "outageCount": 391,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-07-05",
+  "lastOutage": "2026-07-11",
   "outages": [
+    {
+      "date": "Le samedi 11 juillet 2026 de  08:30:00 à  14:30:00",
+      "streets": "En partie Ave Cossigny, Hillary Blood, Louis Nellan Lane, Candos Lane, La Louise Ave, R. Rivet Ave et les environs",
+      "from": "2026-07-11T04:30:00.000Z",
+      "to": "2026-07-11T10:30:00.000Z",
+      "id": "79e9ea45d5bfdde11192b60d7db0aa10"
+    },
     {
       "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  14:30:00",
       "streets": "En partie Boundary et Ave Farquhar",

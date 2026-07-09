@@ -2,11 +2,18 @@
   "slug": "cite-l-oiseau",
   "name": "CITE L-OISEAU",
   "district": "plainewilhems",
-  "generated": "2026-07-09T07:05:57.243Z",
-  "outageCount": 3,
+  "generated": "2026-07-09T09:13:56.287Z",
+  "outageCount": 4,
   "firstOutage": "2022-06-02",
-  "lastOutage": "2025-08-27",
+  "lastOutage": "2026-07-14",
   "outages": [
+    {
+      "date": "Le mardi 14 juillet 2026 de  09:00:00 à  12:00:00",
+      "streets": "Froberville Lane, Avenue Charles Dickens, Williams Wordsworth",
+      "from": "2026-07-14T05:00:00.000Z",
+      "to": "2026-07-14T08:00:00.000Z",
+      "id": "0060eca17ec6a86ce411c54edcb3a313"
+    },
     {
       "date": "Le mercredi 27 août 2025 de  12:30:00 à  14:30:00",
       "streets": "CITE LOISEAU",

@@ -1,8 +1,8 @@
 {
   "date": "2026-07-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-09T07:05:57.195Z",
-  "outageCount": 3,
+  "generated": "2026-07-09T09:13:56.253Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le samedi 11 juillet 2026 de  08:15:00 à  16:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-07-11T05:00:00.000Z",
       "to": "2026-07-11T08:00:00.000Z",
       "id": "ac9169cd64bd216000d35e4b1fef67db"
+    },
+    {
+      "date": "Le samedi 11 juillet 2026 de  08:30:00 à  14:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "En partie Ave Cossigny, Hillary Blood, Louis Nellan Lane, Candos Lane, La Louise Ave, R. Rivet Ave et les environs",
+      "district": "plainewilhems",
+      "from": "2026-07-11T04:30:00.000Z",
+      "to": "2026-07-11T10:30:00.000Z",
+      "id": "79e9ea45d5bfdde11192b60d7db0aa10"
     }
   ]
 }
