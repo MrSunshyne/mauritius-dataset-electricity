@@ -1,9 +1,19 @@
 {
   "date": "2026-07-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-09T09:13:56.253Z",
-  "outageCount": 4,
+  "generated": "2026-07-09T10:57:58.791Z",
+  "outageCount": 6,
   "outages": [
+    {
+      "date": "Le samedi 11 juillet 2026 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC SAFELAND-AVE DES PERRUCHES, AVE DES MERLES, AVE DES CRECERELLES, OASIS ET AVE DES PAILLES EN QUEUE",
+      "district": "blackriver",
+      "from": "2026-07-11T04:30:00.000Z",
+      "to": "2026-07-11T11:30:00.000Z",
+      "id": "f7de132d520ce6cd98ba3ee64c1dc3f6"
+    },
     {
       "date": "Le samedi 11 juillet 2026 de  08:15:00 à  16:00:00",
       "locality": "BEL AIR",
@@ -13,6 +23,16 @@
       "from": "2026-07-11T04:15:00.000Z",
       "to": "2026-07-11T12:00:00.000Z",
       "id": "6e49f33f20a21dc68f68ead97032d5ad"
+    },
+    {
+      "date": "Le samedi 11 juillet 2026 de  08:30:00 à  15:00:00",
+      "locality": "NOUVELLE DECOUVERTE",
+      "localitySlug": "nouvelle-decouverte",
+      "streets": "Bumma Rd, Rajabally Rd, Billard Rd, Royal Rd Nouvelle Decouverte, School Lane, Shivalah Rd, Chemin La Plaine et Speed Lane",
+      "district": "moka",
+      "from": "2026-07-11T04:30:00.000Z",
+      "to": "2026-07-11T11:00:00.000Z",
+      "id": "1aa1dfb39c8dd222f19b675addd611b5"
     },
     {
       "date": "Le samedi 11 juillet 2026 de  11:00:00 à  15:00:00",

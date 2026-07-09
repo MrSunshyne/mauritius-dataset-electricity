@@ -2,11 +2,18 @@
   "slug": "flic-en-flac",
   "name": "FLIC-EN-FLAC",
   "district": "blackriver",
-  "generated": "2026-07-09T09:13:56.296Z",
-  "outageCount": 227,
+  "generated": "2026-07-09T10:57:58.854Z",
+  "outageCount": 228,
   "firstOutage": "2022-03-16",
-  "lastOutage": "2026-06-23",
+  "lastOutage": "2026-07-11",
   "outages": [
+    {
+      "date": "Le samedi 11 juillet 2026 de  08:30:00 à  15:30:00",
+      "streets": "MORC SAFELAND-AVE DES PERRUCHES, AVE DES MERLES, AVE DES CRECERELLES, OASIS ET AVE DES PAILLES EN QUEUE",
+      "from": "2026-07-11T04:30:00.000Z",
+      "to": "2026-07-11T11:30:00.000Z",
+      "id": "f7de132d520ce6cd98ba3ee64c1dc3f6"
+    },
     {
       "date": "Le mardi 23 juin 2026 de  17:00:00 à  18:00:00",
       "streets": "WOLMAR-ROUTE COTIERE WOLMAR, PEARL BEACH HOTEL, AVE CARRIERE, AVE DES MANGUIERS ET CAP OUEST",

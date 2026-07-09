@@ -2,11 +2,18 @@
   "slug": "nouvelle-decouverte",
   "name": "NOUVELLE DECOUVERTE",
   "district": "moka",
-  "generated": "2026-07-09T09:13:56.320Z",
-  "outageCount": 29,
+  "generated": "2026-07-09T10:57:58.889Z",
+  "outageCount": 30,
   "firstOutage": "2022-12-13",
-  "lastOutage": "2026-06-12",
+  "lastOutage": "2026-07-11",
   "outages": [
+    {
+      "date": "Le samedi 11 juillet 2026 de  08:30:00 à  15:00:00",
+      "streets": "Bumma Rd, Rajabally Rd, Billard Rd, Royal Rd Nouvelle Decouverte, School Lane, Shivalah Rd, Chemin La Plaine et Speed Lane",
+      "from": "2026-07-11T04:30:00.000Z",
+      "to": "2026-07-11T11:00:00.000Z",
+      "id": "1aa1dfb39c8dd222f19b675addd611b5"
+    },
     {
       "date": "Le vendredi 12 juin 2026 de  15:20:00 à  16:45:00",
       "streets": "BUMMA ROAD ET UNE PARTIE DE LA ROUTE ROYALE ET LES RUELLES AVOISINANTES.",
