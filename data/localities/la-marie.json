@@ -2,11 +2,18 @@
   "slug": "la-marie",
   "name": "LA MARIE",
   "district": "plainewilhems",
-  "generated": "2026-07-10T10:58:01.587Z",
-  "outageCount": 58,
+  "generated": "2026-07-10T12:01:29.350Z",
+  "outageCount": 59,
   "firstOutage": "2022-07-07",
-  "lastOutage": "2026-06-12",
+  "lastOutage": "2026-07-13",
   "outages": [
+    {
+      "date": "Le lundi 13 juillet 2026 de  09:00:00 à  15:00:00",
+      "streets": "Cremation road La Marie",
+      "from": "2026-07-13T05:00:00.000Z",
+      "to": "2026-07-13T11:00:00.000Z",
+      "id": "da25cfb9a5574cd2cb874a3b80c1555b"
+    },
     {
       "date": "Le vendredi 12 juin 2026 de  10:30:00 à  14:00:00",
       "streets": "Morc Pousson",

@@ -1,8 +1,8 @@
 {
   "date": "2026-07-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-10T10:58:01.506Z",
-  "outageCount": 1,
+  "generated": "2026-07-10T12:01:29.283Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le lundi 13 juillet 2026 de  09:30:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-07-13T05:30:00.000Z",
       "to": "2026-07-13T12:00:00.000Z",
       "id": "a4b9e9ce7f868045dabbe54abbbe94f5"
+    },
+    {
+      "date": "Le lundi 13 juillet 2026 de  09:00:00 à  15:00:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "Cremation road La Marie",
+      "district": "plainewilhems",
+      "from": "2026-07-13T05:00:00.000Z",
+      "to": "2026-07-13T11:00:00.000Z",
+      "id": "da25cfb9a5574cd2cb874a3b80c1555b"
     }
   ]
 }
