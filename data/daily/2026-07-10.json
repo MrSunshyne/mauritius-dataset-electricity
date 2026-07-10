@@ -1,9 +1,19 @@
 {
   "date": "2026-07-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-10T07:04:47.147Z",
-  "outageCount": 3,
+  "generated": "2026-07-10T09:00:46.066Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le vendredi 10 juillet 2026 de  12:30:00 à  15:00:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "ALLEE DES TAMARINIERS -AVE BADAMIERS MORC CARLOS RIVIERE NOIRE",
+      "district": "blackriver",
+      "from": "2026-07-10T08:30:00.000Z",
+      "to": "2026-07-10T11:00:00.000Z",
+      "id": "5a9f2ec6c48cc10fbd86ba32e453cdfc"
+    },
     {
       "date": "Le vendredi 10 juillet 2026 de  08:30:00 à  15:00:00",
       "locality": "ANSE JONCHEE",
