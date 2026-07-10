@@ -2,8 +2,8 @@
   "slug": "beau-bassin",
   "name": "BEAU BASSIN",
   "district": "plainewilhems",
-  "generated": "2026-07-10T17:31:21.489Z",
-  "outageCount": 192,
+  "generated": "2026-07-10T18:26:48.684Z",
+  "outageCount": 193,
   "firstOutage": "2022-03-25",
   "lastOutage": "2026-07-11",
   "outages": [
@@ -20,6 +20,13 @@
       "from": "2026-07-11T04:30:00.000Z",
       "to": "2026-07-11T05:30:00.000Z",
       "id": "d5842745ed0378ec36c967041464df2e"
+    },
+    {
+      "date": "Le vendredi 10 juillet 2026 de  22:20:00 à  00:20:00",
+      "streets": "SHAND ST,ELIZABETH ST",
+      "from": "2026-07-10T18:20:00.000Z",
+      "to": "2026-07-09T20:20:00.000Z",
+      "id": "387908324bbbe05fabcff1630c69c11e"
     },
     {
       "date": "Le mardi 7 juillet 2026 de  15:30:00 à  17:00:00",

@@ -1,8 +1,8 @@
 {
   "date": "2026-07-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-10T17:31:21.466Z",
-  "outageCount": 8,
+  "generated": "2026-07-10T18:26:48.654Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le vendredi 10 juillet 2026 de  12:30:00 à  17:00:00",
@@ -63,6 +63,16 @@
       "from": "2026-07-10T05:00:00.000Z",
       "to": "2026-07-10T09:00:00.000Z",
       "id": "e3a2969e9a631b787d0e551f1160f833"
+    },
+    {
+      "date": "Le vendredi 10 juillet 2026 de  22:20:00 à  00:20:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "SHAND ST,ELIZABETH ST",
+      "district": "plainewilhems",
+      "from": "2026-07-10T18:20:00.000Z",
+      "to": "2026-07-09T20:20:00.000Z",
+      "id": "387908324bbbe05fabcff1630c69c11e"
     },
     {
       "date": "Le vendredi 10 juillet 2026 de  13:30:00 à  15:00:00",
