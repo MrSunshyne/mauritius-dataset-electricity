@@ -1,8 +1,8 @@
 {
   "date": "2026-07-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-10T16:38:42.739Z",
-  "outageCount": 7,
+  "generated": "2026-07-10T17:31:21.466Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le vendredi 10 juillet 2026 de  12:30:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-07-10T08:30:00.000Z",
       "to": "2026-07-10T13:00:00.000Z",
       "id": "0cb63034421ec4ebb0d2ee7cb53cd70f"
+    },
+    {
+      "date": "Le vendredi 10 juillet 2026 de  21:10:00 à  00:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC DE CHAZAL AND NEARBY REGION",
+      "district": "blackriver",
+      "from": "2026-07-10T17:10:00.000Z",
+      "to": "2026-07-09T20:00:00.000Z",
+      "id": "6fea827a9e30ac03b0f3db08813382c2"
     },
     {
       "date": "Le vendredi 10 juillet 2026 de  08:30:00 à  17:00:00",
@@ -65,14 +75,14 @@
       "id": "9461f3690b93390c4f48f64d58755a9b"
     },
     {
-      "date": "Le vendredi 10 juillet 2026 de  17:00:00 à  21:00:00",
+      "date": "Le vendredi 10 juillet 2026 de  17:00:00 à  22:00:00",
       "locality": "SOTTISE",
       "localitySlug": "sottise",
       "streets": "KALIMAY STREET-RESERVOIR RD SOTISE GRAND BAY",
       "district": "rivieredurempart",
       "from": "2026-07-10T13:00:00.000Z",
-      "to": "2026-07-10T17:00:00.000Z",
-      "id": "5afa2d571b8f60ea72c32e1b2485329d"
+      "to": "2026-07-10T18:00:00.000Z",
+      "id": "56b7c5eda03a220dfc3850feec1474b0"
     }
   ]
 }
