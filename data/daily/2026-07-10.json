@@ -1,8 +1,8 @@
 {
   "date": "2026-07-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-10T13:35:54.943Z",
-  "outageCount": 6,
+  "generated": "2026-07-10T14:51:32.449Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le vendredi 10 juillet 2026 de  12:30:00 à  17:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-07-10T04:30:00.000Z",
       "to": "2026-07-10T13:00:00.000Z",
       "id": "fabd260b395baa3f6b88647a69634688"
+    },
+    {
+      "date": "Le vendredi 10 juillet 2026 de  18:20:00 à  21:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "BALANCE STREET, ROYAL ROAD NEAR WINNERS & POULET DES ILES",
+      "district": "grandport",
+      "from": "2026-07-10T14:20:00.000Z",
+      "to": "2026-07-10T17:00:00.000Z",
+      "id": "245125713ea5c3dba1f18a9611ffb97f"
     },
     {
       "date": "Le vendredi 10 juillet 2026 de  09:00:00 à  15:00:00",
