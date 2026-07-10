@@ -1,8 +1,8 @@
 {
   "date": "2026-07-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-10T12:01:29.283Z",
-  "outageCount": 1,
+  "generated": "2026-07-10T13:35:54.943Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le mardi 14 juillet 2026 de  09:00:00 à  12:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-07-14T05:00:00.000Z",
       "to": "2026-07-14T08:00:00.000Z",
       "id": "0060eca17ec6a86ce411c54edcb3a313"
+    },
+    {
+      "date": "Le mardi 14 juillet 2026 de  09:00:00 à  15:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Part of Stirling Lane, Part of DEpinay Street, Part of Sivannanda Avenue",
+      "district": "plainewilhems",
+      "from": "2026-07-14T05:00:00.000Z",
+      "to": "2026-07-14T11:00:00.000Z",
+      "id": "e90e1daef0a647778d01059cdbee2f81"
     }
   ]
 }

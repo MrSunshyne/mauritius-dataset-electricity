@@ -1,8 +1,8 @@
 {
   "date": "2026-07-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-10T12:01:29.283Z",
-  "outageCount": 5,
+  "generated": "2026-07-10T13:35:54.943Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le vendredi 10 juillet 2026 de  12:30:00 à  17:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-07-10T09:30:00.000Z",
       "to": "2026-07-10T11:00:00.000Z",
       "id": "9461f3690b93390c4f48f64d58755a9b"
+    },
+    {
+      "date": "Le vendredi 10 juillet 2026 de  17:00:00 à  21:00:00",
+      "locality": "SOTTISE",
+      "localitySlug": "sottise",
+      "streets": "KALIMAY STREET-RESERVOIR RD SOTISE GRAND BAY",
+      "district": "rivieredurempart",
+      "from": "2026-07-10T13:00:00.000Z",
+      "to": "2026-07-10T17:00:00.000Z",
+      "id": "5afa2d571b8f60ea72c32e1b2485329d"
     }
   ]
 }

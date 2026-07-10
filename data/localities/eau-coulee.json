@@ -2,11 +2,18 @@
   "slug": "eau-coulee",
   "name": "EAU COULEE",
   "district": "plainewilhems",
-  "generated": "2026-07-10T12:01:29.333Z",
-  "outageCount": 65,
+  "generated": "2026-07-10T13:35:54.987Z",
+  "outageCount": 66,
   "firstOutage": "2022-03-23",
-  "lastOutage": "2026-06-14",
+  "lastOutage": "2026-07-19",
   "outages": [
+    {
+      "date": "Le dimanche 19 juillet 2026 de  08:30:00 à  16:00:00",
+      "streets": "Part of Eau Coulee, part of Quartier Militaire Rd,General De Gaulle st,Mgr Leen st, Notre Dame De Lorette,Ramphul st, Samuel Fouquereaux Laboudanais Elias Coowar lavender Hill st and nearby allways.",
+      "from": "2026-07-19T04:30:00.000Z",
+      "to": "2026-07-19T12:00:00.000Z",
+      "id": "b3933617701fc92a612f6572b4e3f514"
+    },
     {
       "date": "Le dimanche 14 juin 2026 de  08:30:00 à  17:00:00",
       "streets": "Part of Eau Coulee at Quatre Carreaux , Bisnath Rd , Mariamen Temple Rd, Carrow  lane & Engrais Cathan",

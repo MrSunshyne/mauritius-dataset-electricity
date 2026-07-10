@@ -2,11 +2,18 @@
   "slug": "sottise",
   "name": "SOTTISE",
   "district": "rivieredurempart",
-  "generated": "2026-07-10T12:01:29.397Z",
-  "outageCount": 9,
+  "generated": "2026-07-10T13:35:55.038Z",
+  "outageCount": 10,
   "firstOutage": "2022-08-12",
-  "lastOutage": "2026-01-13",
+  "lastOutage": "2026-07-10",
   "outages": [
+    {
+      "date": "Le vendredi 10 juillet 2026 de  17:00:00 à  21:00:00",
+      "streets": "KALIMAY STREET-RESERVOIR RD SOTISE GRAND BAY",
+      "from": "2026-07-10T13:00:00.000Z",
+      "to": "2026-07-10T17:00:00.000Z",
+      "id": "5afa2d571b8f60ea72c32e1b2485329d"
+    },
     {
       "date": "Le mardi 13 janvier 2026 de  18:30:00 à  22:30:00",
       "streets": "PART OF SOTTISE, GRAND BAIE & PEREYBERE",

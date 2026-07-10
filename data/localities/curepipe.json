@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-07-10T12:01:29.331Z",
-  "outageCount": 225,
+  "generated": "2026-07-10T13:35:54.985Z",
+  "outageCount": 226,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-07-12",
+  "lastOutage": "2026-07-14",
   "outages": [
+    {
+      "date": "Le mardi 14 juillet 2026 de  09:00:00 à  15:00:00",
+      "streets": "Part of Stirling Lane, Part of DEpinay Street, Part of Sivannanda Avenue",
+      "from": "2026-07-14T05:00:00.000Z",
+      "to": "2026-07-14T11:00:00.000Z",
+      "id": "e90e1daef0a647778d01059cdbee2f81"
+    },
     {
       "date": "Le dimanche 12 juillet 2026 de  08:30:00 à  16:00:00",
       "streets": "Part of Lees St,Commerson St,La Croix St,Victor Hugo St,Baissac St,Maurel St,Lamaletie St,Dalai St,Morc Senneville, Maxime Boulle St,Impasse Henry,Impasse Maigrot,Ducrais St,Duperre St  and nearby alleyways",
