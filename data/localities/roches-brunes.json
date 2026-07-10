@@ -2,11 +2,18 @@
   "slug": "roches-brunes",
   "name": "ROCHES BRUNES",
   "district": "plainewilhems",
-  "generated": "2026-07-09T18:32:20.742Z",
-  "outageCount": 40,
+  "generated": "2026-07-10T07:04:47.283Z",
+  "outageCount": 41,
   "firstOutage": "2022-10-01",
-  "lastOutage": "2026-06-29",
+  "lastOutage": "2026-07-10",
   "outages": [
+    {
+      "date": "Le vendredi 10 juillet 2026 de  09:00:00 à  13:00:00",
+      "streets": "AVENUE HALLEY-AVE COLLINS-AVE PLUTON MORC NEW TOWN ROCHE BRUNES",
+      "from": "2026-07-10T05:00:00.000Z",
+      "to": "2026-07-10T09:00:00.000Z",
+      "id": "e3a2969e9a631b787d0e551f1160f833"
+    },
     {
       "date": "Le lundi 29 juin 2026 de  12:00:00 à  14:00:00",
       "streets": "Morc St Daniel",

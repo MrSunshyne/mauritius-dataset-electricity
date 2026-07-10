@@ -2,11 +2,18 @@
   "slug": "dagotiere",
   "name": "DAGOTIERE",
   "district": "moka",
-  "generated": "2026-07-09T18:32:20.673Z",
-  "outageCount": 26,
+  "generated": "2026-07-10T07:04:47.210Z",
+  "outageCount": 27,
   "firstOutage": "2022-04-24",
-  "lastOutage": "2026-06-24",
+  "lastOutage": "2026-07-10",
   "outages": [
+    {
+      "date": "Le vendredi 10 juillet 2026 de  09:00:00 à  15:00:00",
+      "streets": "Part of Lower Dagotiere and School Road",
+      "from": "2026-07-10T05:00:00.000Z",
+      "to": "2026-07-10T11:00:00.000Z",
+      "id": "4594f5c9839533e9eab9cb9060ba2135"
+    },
     {
       "date": "Le mercredi 24 juin 2026 de  09:00:00 à  11:00:00",
       "streets": "EN PARTIE RL ROAD",

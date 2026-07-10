@@ -1,8 +1,8 @@
 {
   "date": "2026-07-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-09T18:32:20.615Z",
-  "outageCount": 1,
+  "generated": "2026-07-10T07:04:47.147Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le vendredi 10 juillet 2026 de  08:30:00 à  15:00:00",
@@ -13,6 +13,26 @@
       "from": "2026-07-10T04:30:00.000Z",
       "to": "2026-07-10T11:00:00.000Z",
       "id": "4f4be3a8d358b8e26934d58354191af9"
+    },
+    {
+      "date": "Le vendredi 10 juillet 2026 de  09:00:00 à  15:00:00",
+      "locality": "DAGOTIERE",
+      "localitySlug": "dagotiere",
+      "streets": "Part of Lower Dagotiere and School Road",
+      "district": "moka",
+      "from": "2026-07-10T05:00:00.000Z",
+      "to": "2026-07-10T11:00:00.000Z",
+      "id": "4594f5c9839533e9eab9cb9060ba2135"
+    },
+    {
+      "date": "Le vendredi 10 juillet 2026 de  09:00:00 à  13:00:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "AVENUE HALLEY-AVE COLLINS-AVE PLUTON MORC NEW TOWN ROCHE BRUNES",
+      "district": "plainewilhems",
+      "from": "2026-07-10T05:00:00.000Z",
+      "to": "2026-07-10T09:00:00.000Z",
+      "id": "e3a2969e9a631b787d0e551f1160f833"
     }
   ]
 }
