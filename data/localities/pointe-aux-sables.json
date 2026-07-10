@@ -2,11 +2,18 @@
   "slug": "pointe-aux-sables",
   "name": "POINTE AUX SABLES",
   "district": "portlouis",
-  "generated": "2026-07-10T09:00:46.172Z",
-  "outageCount": 144,
+  "generated": "2026-07-10T10:58:01.619Z",
+  "outageCount": 145,
   "firstOutage": "2022-03-30",
-  "lastOutage": "2026-06-24",
+  "lastOutage": "2026-07-10",
   "outages": [
+    {
+      "date": "Le vendredi 10 juillet 2026 de  13:30:00 à  15:00:00",
+      "streets": "MARTELLO TERASSON POITE AUX SABLES",
+      "from": "2026-07-10T09:30:00.000Z",
+      "to": "2026-07-10T11:00:00.000Z",
+      "id": "9461f3690b93390c4f48f64d58755a9b"
+    },
     {
       "date": "Le mercredi 24 juin 2026 de  09:00:00 à  15:30:00",
       "streets": "Dans les environs de Sohun Lane et une partie de la route cotiere",
