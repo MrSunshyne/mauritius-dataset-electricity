@@ -1,8 +1,8 @@
 {
   "date": "2026-07-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-11T08:30:57.103Z",
-  "outageCount": 10,
+  "generated": "2026-07-11T09:28:53.313Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le samedi 11 juillet 2026 de  08:30:00 à  15:30:00",
@@ -93,6 +93,16 @@
       "from": "2026-07-11T05:00:00.000Z",
       "to": "2026-07-11T07:00:00.000Z",
       "id": "27873e3e8f9918994b2356da48c5789f"
+    },
+    {
+      "date": "Le samedi 11 juillet 2026 de  13:15:00 à  17:00:00",
+      "locality": "SURINAM",
+      "localitySlug": "surinam",
+      "streets": "MOSQUE ROAD, EN PARTIE ROYAL ROAD ET LES ENVIRONS.",
+      "district": "savanne",
+      "from": "2026-07-11T09:15:00.000Z",
+      "to": "2026-07-11T13:00:00.000Z",
+      "id": "51dac5d52a63df4239efa8e972f8ee1b"
     },
     {
       "date": "Le samedi 11 juillet 2026 de  08:30:00 à  15:00:00",
