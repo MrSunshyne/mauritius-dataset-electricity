@@ -1,8 +1,8 @@
 {
   "date": "2026-07-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-10T18:26:48.654Z",
-  "outageCount": 8,
+  "generated": "2026-07-11T06:40:52.786Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le samedi 11 juillet 2026 de  08:30:00 à  15:30:00",
@@ -83,6 +83,26 @@
       "from": "2026-07-11T04:30:00.000Z",
       "to": "2026-07-11T05:30:00.000Z",
       "id": "d5842745ed0378ec36c967041464df2e"
+    },
+    {
+      "date": "Le samedi 11 juillet 2026 de  09:00:00 à  11:00:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "une partie de Henrietta Branch Road, Delphis Lane, Conner Caldwell and Rajabally Lane",
+      "district": "plainewilhems",
+      "from": "2026-07-11T05:00:00.000Z",
+      "to": "2026-07-11T07:00:00.000Z",
+      "id": "27873e3e8f9918994b2356da48c5789f"
+    },
+    {
+      "date": "Le samedi 11 juillet 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Marechal, Papayes et Quatre Vents",
+      "district": "rodrigues",
+      "from": "2026-07-11T04:30:00.000Z",
+      "to": "2026-07-11T11:00:00.000Z",
+      "id": "415d57215c33cb8ad226c5fb93d0e909"
     }
   ]
 }

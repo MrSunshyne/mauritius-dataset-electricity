@@ -2,8 +2,8 @@
   "slug": "henrietta",
   "name": "HENRIETTA",
   "district": "plainewilhems",
-  "generated": "2026-07-10T18:26:48.737Z",
-  "outageCount": 90,
+  "generated": "2026-07-11T06:40:52.838Z",
+  "outageCount": 91,
   "firstOutage": "2022-07-14",
   "lastOutage": "2026-07-11",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-07-11T07:00:00.000Z",
       "to": "2026-07-11T11:00:00.000Z",
       "id": "2f0118a9e5ab8c92e14bd5aa0bc898e0"
+    },
+    {
+      "date": "Le samedi 11 juillet 2026 de  09:00:00 à  11:00:00",
+      "streets": "une partie de Henrietta Branch Road, Delphis Lane, Conner Caldwell and Rajabally Lane",
+      "from": "2026-07-11T05:00:00.000Z",
+      "to": "2026-07-11T07:00:00.000Z",
+      "id": "27873e3e8f9918994b2356da48c5789f"
     },
     {
       "date": "Le dimanche 14 juin 2026 de  09:00:00 à  11:30:00",

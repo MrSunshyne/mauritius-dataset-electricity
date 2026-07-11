@@ -2,11 +2,25 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-07-10T18:26:48.796Z",
-  "outageCount": 239,
+  "generated": "2026-07-11T06:40:52.878Z",
+  "outageCount": 241,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-07-07",
+  "lastOutage": "2026-07-12",
   "outages": [
+    {
+      "date": "Le dimanche 12 juillet 2026 de  08:30:00 à  15:00:00",
+      "streets": "Songes, Pompee et Camp Paul",
+      "from": "2026-07-12T04:30:00.000Z",
+      "to": "2026-07-12T11:00:00.000Z",
+      "id": "1ac7467c79977665bbf8e7d036185b5e"
+    },
+    {
+      "date": "Le samedi 11 juillet 2026 de  08:30:00 à  15:00:00",
+      "streets": "Marechal, Papayes et Quatre Vents",
+      "from": "2026-07-11T04:30:00.000Z",
+      "to": "2026-07-11T11:00:00.000Z",
+      "id": "415d57215c33cb8ad226c5fb93d0e909"
+    },
     {
       "date": "Le mardi 7 juillet 2026 de  08:30:00 à  15:00:00",
       "streets": "Piment Reposir",

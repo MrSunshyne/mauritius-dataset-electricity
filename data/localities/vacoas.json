@@ -2,11 +2,18 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-07-10T18:26:48.816Z",
-  "outageCount": 256,
+  "generated": "2026-07-11T06:40:52.890Z",
+  "outageCount": 257,
   "firstOutage": "2022-03-17",
-  "lastOutage": "2026-07-04",
+  "lastOutage": "2026-07-12",
   "outages": [
+    {
+      "date": "Le dimanche 12 juillet 2026 de  08:30:00 à  17:00:00",
+      "streets": "Clairfonds No. 1, No. 2 et No. 3, Independence Avenue, Yves Brelu Brelu Avenue, Brown Sequard Avenue, Cemetry Road, Andre Martin Avenue, Mahant Kabir Temple Road, Sobhee Lane, Arya Mandil Lane et les environs",
+      "from": "2026-07-12T04:30:00.000Z",
+      "to": "2026-07-12T13:00:00.000Z",
+      "id": "d488fc12180bd13e4f5a2386b2cf6460"
+    },
     {
       "date": "Le samedi 4 juillet 2026 de  08:30:00 à  15:30:00",
       "streets": "une partie Willoughby Road et les environs",
