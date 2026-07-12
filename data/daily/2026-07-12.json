@@ -1,8 +1,8 @@
 {
   "date": "2026-07-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-12T15:18:50.623Z",
-  "outageCount": 10,
+  "generated": "2026-07-12T16:16:44.730Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le dimanche 12 juillet 2026 de  08:30:00 à  11:00:00",
@@ -83,6 +83,16 @@
       "from": "2026-07-12T10:00:00.000Z",
       "to": "2026-07-12T11:00:00.000Z",
       "id": "f5c65fb23b30058222a0d2bf5889d00c"
+    },
+    {
+      "date": "Le dimanche 12 juillet 2026 de  20:00:00 à  00:00:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "TEMPLE ROAD, JOOMUN ROAD ET LES ENVIRONS.",
+      "district": "rivieredurempart",
+      "from": "2026-07-12T16:00:00.000Z",
+      "to": "2026-07-11T20:00:00.000Z",
+      "id": "e3cb8090e637d2f4ade7397bc7cc469c"
     },
     {
       "date": "Le dimanche 12 juillet 2026 de  13:00:00 à  18:15:00",
