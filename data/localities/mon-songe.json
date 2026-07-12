@@ -2,11 +2,18 @@
   "slug": "mon-songe",
   "name": "MON SONGE",
   "district": "rivieredurempart",
-  "generated": "2026-07-12T17:19:50.296Z",
-  "outageCount": 2,
+  "generated": "2026-07-12T18:15:07.165Z",
+  "outageCount": 3,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2023-04-06",
+  "lastOutage": "2026-07-12",
   "outages": [
+    {
+      "date": "Le dimanche 12 juillet 2026 de  22:10:00 à  23:15:00",
+      "streets": "Amaury Branch Road, Mon Songes Village, Antoinette, Villebague, Petite Julie, Pont Praslin, Mare DAustralia, La Nicoliere, Grand Rosalie, Depinay, Congomah, Les Mariannes & Ilot Village",
+      "from": "2026-07-12T18:10:00.000Z",
+      "to": "2026-07-12T19:15:00.000Z",
+      "id": "4bd79df51ef95ae9de2b70bbf443f66a"
+    },
     {
       "date": "Le jeudi 6 avril 2023 de  08:00:00 à  16:00:00",
       "streets": "Les abonnés de Mon Songes village habitant les régions suivantes: Mon Songes et Antoinette",
