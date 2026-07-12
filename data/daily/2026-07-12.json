@@ -1,8 +1,8 @@
 {
   "date": "2026-07-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-12T06:48:54.320Z",
-  "outageCount": 6,
+  "generated": "2026-07-12T07:41:44.006Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le dimanche 12 juillet 2026 de  08:30:00 à  11:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-07-12T04:30:00.000Z",
       "to": "2026-07-12T13:00:00.000Z",
       "id": "d488fc12180bd13e4f5a2386b2cf6460"
+    },
+    {
+      "date": "Le dimanche 12 juillet 2026 de  10:30:00 à  12:30:00",
+      "locality": "CLOSEL",
+      "localitySlug": "closel",
+      "streets": "CEMETERY CLOSEL",
+      "district": "plainewilhems",
+      "from": "2026-07-12T06:30:00.000Z",
+      "to": "2026-07-12T08:30:00.000Z",
+      "id": "e0396447d579078e6b871387cbd65d18"
     },
     {
       "date": "Le dimanche 12 juillet 2026 de  08:30:00 à  15:00:00",

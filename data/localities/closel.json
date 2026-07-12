@@ -2,11 +2,18 @@
   "slug": "closel",
   "name": "CLOSEL",
   "district": "plainewilhems",
-  "generated": "2026-07-12T06:48:54.368Z",
-  "outageCount": 9,
+  "generated": "2026-07-12T07:41:44.060Z",
+  "outageCount": 10,
   "firstOutage": "2022-12-17",
-  "lastOutage": "2026-04-13",
+  "lastOutage": "2026-07-12",
   "outages": [
+    {
+      "date": "Le dimanche 12 juillet 2026 de  10:30:00 à  12:30:00",
+      "streets": "CEMETERY CLOSEL",
+      "from": "2026-07-12T06:30:00.000Z",
+      "to": "2026-07-12T08:30:00.000Z",
+      "id": "e0396447d579078e6b871387cbd65d18"
+    },
     {
       "date": "Le lundi 13 avril 2026 de  11:15:00 à  12:15:00",
       "streets": "MAIN RD",
