@@ -2,11 +2,18 @@
   "slug": "surinam",
   "name": "SURINAM",
   "district": "savanne",
-  "generated": "2026-07-12T09:31:53.084Z",
-  "outageCount": 53,
+  "generated": "2026-07-12T10:28:31.016Z",
+  "outageCount": 54,
   "firstOutage": "2022-05-08",
-  "lastOutage": "2026-07-11",
+  "lastOutage": "2026-07-12",
   "outages": [
+    {
+      "date": "Le dimanche 12 juillet 2026 de  13:00:00 à  17:00:00",
+      "streets": "CHAPEL LANE SURINAM",
+      "from": "2026-07-12T09:00:00.000Z",
+      "to": "2026-07-12T13:00:00.000Z",
+      "id": "9cd1f68b654dfdb5fb81a55fa77585dc"
+    },
     {
       "date": "Le samedi 11 juillet 2026 de  13:15:00 à  19:00:00",
       "streets": "MOSQUE ROAD, EN PARTIE ROYAL ROAD ET LES ENVIRONS.",

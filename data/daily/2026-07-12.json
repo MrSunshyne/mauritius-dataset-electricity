@@ -1,8 +1,8 @@
 {
   "date": "2026-07-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-12T09:31:52.948Z",
-  "outageCount": 7,
+  "generated": "2026-07-12T10:28:30.929Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le dimanche 12 juillet 2026 de  08:30:00 à  11:00:00",
@@ -63,6 +63,36 @@
       "from": "2026-07-12T06:30:00.000Z",
       "to": "2026-07-12T08:30:00.000Z",
       "id": "e0396447d579078e6b871387cbd65d18"
+    },
+    {
+      "date": "Le dimanche 12 juillet 2026 de  13:30:00 à  15:00:00",
+      "locality": "CASTEL VACOAS",
+      "localitySlug": "castel-vacoas",
+      "streets": "ANGRAIS CATHAN-ALLEE BRILLIANT CASTEL",
+      "district": "plainewilhems",
+      "from": "2026-07-12T09:30:00.000Z",
+      "to": "2026-07-12T11:00:00.000Z",
+      "id": "1fc055c6a57a064c454dc43217438881"
+    },
+    {
+      "date": "Le dimanche 12 juillet 2026 de  14:00:00 à  15:00:00",
+      "locality": "MON LOISIR",
+      "localitySlug": "mon-loisir",
+      "streets": "ROYAL ROAD MON LOISIR-ROYAL RD DES JARDINS",
+      "district": "rivieredurempart",
+      "from": "2026-07-12T10:00:00.000Z",
+      "to": "2026-07-12T11:00:00.000Z",
+      "id": "f5c65fb23b30058222a0d2bf5889d00c"
+    },
+    {
+      "date": "Le dimanche 12 juillet 2026 de  13:00:00 à  17:00:00",
+      "locality": "SURINAM",
+      "localitySlug": "surinam",
+      "streets": "CHAPEL LANE SURINAM",
+      "district": "savanne",
+      "from": "2026-07-12T09:00:00.000Z",
+      "to": "2026-07-12T13:00:00.000Z",
+      "id": "9cd1f68b654dfdb5fb81a55fa77585dc"
     },
     {
       "date": "Le dimanche 12 juillet 2026 de  08:30:00 à  15:00:00",
