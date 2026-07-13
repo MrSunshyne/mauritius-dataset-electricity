@@ -2,11 +2,18 @@
   "slug": "chamouny",
   "name": "CHAMOUNY",
   "district": "savanne",
-  "generated": "2026-07-13T06:59:12.755Z",
-  "outageCount": 24,
+  "generated": "2026-07-13T08:07:40.342Z",
+  "outageCount": 25,
   "firstOutage": "2022-07-24",
-  "lastOutage": "2026-06-19",
+  "lastOutage": "2026-07-15",
   "outages": [
+    {
+      "date": "Le mercredi 15 juillet 2026 de  09:00:00 à  16:00:00",
+      "streets": "Mont Blanc Chamouny",
+      "from": "2026-07-15T05:00:00.000Z",
+      "to": "2026-07-15T12:00:00.000Z",
+      "id": "b158eca866b676ce5942c44872b9f677"
+    },
     {
       "date": "Le vendredi 19 juin 2026 de  17:30:00 à  21:30:00",
       "streets": "TAMARIN ROAD & SURROUNDINGS",
