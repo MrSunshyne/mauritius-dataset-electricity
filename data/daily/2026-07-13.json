@@ -1,8 +1,8 @@
 {
   "date": "2026-07-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-13T17:35:55.141Z",
-  "outageCount": 5,
+  "generated": "2026-07-13T18:29:45.442Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le lundi 13 juillet 2026 de  13:55:00 à  16:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-07-13T11:00:00.000Z",
       "to": "2026-07-13T17:00:00.000Z",
       "id": "32992ff4762e2b405d303cce0557735d"
+    },
+    {
+      "date": "Le lundi 13 juillet 2026 de  22:00:00 à  00:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "JEENEEAH RD-ROYAL RD 8IEM MILLE TRIOLET",
+      "district": "pamplemousses",
+      "from": "2026-07-13T18:00:00.000Z",
+      "to": "2026-07-12T20:00:00.000Z",
+      "id": "ae2a2c1f168f63b461ecee109bb3ab8e"
     },
     {
       "date": "Le lundi 13 juillet 2026 de  09:30:00 à  18:00:00",

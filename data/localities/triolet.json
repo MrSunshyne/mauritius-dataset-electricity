@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-07-13T17:35:55.256Z",
-  "outageCount": 144,
+  "generated": "2026-07-13T18:29:45.584Z",
+  "outageCount": 145,
   "firstOutage": "2022-04-08",
   "lastOutage": "2026-07-13",
   "outages": [
+    {
+      "date": "Le lundi 13 juillet 2026 de  22:00:00 à  00:00:00",
+      "streets": "JEENEEAH RD-ROYAL RD 8IEM MILLE TRIOLET",
+      "from": "2026-07-13T18:00:00.000Z",
+      "to": "2026-07-12T20:00:00.000Z",
+      "id": "ae2a2c1f168f63b461ecee109bb3ab8e"
+    },
     {
       "date": "Le lundi 13 juillet 2026 de  15:00:00 à  21:00:00",
       "streets": "RAMJEAWAN LANE, TROU AUX BICHES ROAD ET LE ALENTOURS.",
