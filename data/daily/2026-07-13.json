@@ -1,8 +1,8 @@
 {
   "date": "2026-07-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-13T12:57:32.792Z",
-  "outageCount": 4,
+  "generated": "2026-07-13T13:43:38.999Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le lundi 13 juillet 2026 de  13:55:00 à  16:00:00",
@@ -25,14 +25,24 @@
       "id": "2ebad501f1b1228f38bdd7db4e9efaaf"
     },
     {
-      "date": "Le lundi 13 juillet 2026 de  09:30:00 à  17:00:00",
+      "date": "Le lundi 13 juillet 2026 de  15:00:00 à  21:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "RAMJEAWAN LANE, TROU AUX BICHES ROAD ET LE ALENTOURS.",
+      "district": "pamplemousses",
+      "from": "2026-07-13T11:00:00.000Z",
+      "to": "2026-07-13T17:00:00.000Z",
+      "id": "32992ff4762e2b405d303cce0557735d"
+    },
+    {
+      "date": "Le lundi 13 juillet 2026 de  09:30:00 à  18:00:00",
       "locality": "ROCHES BRUNES",
       "localitySlug": "roches-brunes",
       "streets": "Morc Newtown, Ave Halley, Ave Armstrong et les environs",
       "district": "plainewilhems",
       "from": "2026-07-13T05:30:00.000Z",
-      "to": "2026-07-13T13:00:00.000Z",
-      "id": "fec360b07a68c87b7624799cea40673c"
+      "to": "2026-07-13T14:00:00.000Z",
+      "id": "295791b51f82bbbcb9df713319ab3f40"
     },
     {
       "date": "Le lundi 13 juillet 2026 de  09:00:00 à  15:00:00",
