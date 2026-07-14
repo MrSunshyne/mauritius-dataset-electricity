@@ -1,9 +1,29 @@
 {
   "date": "2026-07-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-14T09:31:33.162Z",
-  "outageCount": 2,
+  "generated": "2026-07-14T10:30:06.446Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le mercredi 15 juillet 2026 de  14:30:00 à  15:30:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "Chapman View, Ave Cerisier, Morc Montreal 1 & 2, Police Quarters et les environs",
+      "district": "plainewilhems",
+      "from": "2026-07-15T10:30:00.000Z",
+      "to": "2026-07-15T11:30:00.000Z",
+      "id": "8162b5f7c11470dd1b2608a792550254"
+    },
+    {
+      "date": "Le mercredi 15 juillet 2026 de  08:30:00 à  09:30:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "Chapman View, Ave Cerisier, Morc Montreal 1 & 2, Police Quarters et les environs",
+      "district": "plainewilhems",
+      "from": "2026-07-15T04:30:00.000Z",
+      "to": "2026-07-15T05:30:00.000Z",
+      "id": "d7b0c579b34bec1c9c998e2745dbcb6f"
+    },
     {
       "date": "Le mercredi 15 juillet 2026 de  09:00:00 à  16:00:00",
       "locality": "CHAMOUNY",

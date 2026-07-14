@@ -2,11 +2,18 @@
   "slug": "tamarin",
   "name": "TAMARIN",
   "district": "blackriver",
-  "generated": "2026-07-14T09:31:33.297Z",
-  "outageCount": 79,
+  "generated": "2026-07-14T10:30:06.571Z",
+  "outageCount": 80,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-07-10",
+  "lastOutage": "2026-07-16",
   "outages": [
+    {
+      "date": "Le jeudi 16 juillet 2026 de  08:30:00 à  16:30:00",
+      "streets": "MORC CARLOS, AVE JACARANDAS ET AVE BOIS CORAIL",
+      "from": "2026-07-16T04:30:00.000Z",
+      "to": "2026-07-16T12:30:00.000Z",
+      "id": "cddff881464cb828e207fd855cd71d82"
+    },
     {
       "date": "Le vendredi 10 juillet 2026 de  12:30:00 à  17:00:00",
       "streets": "ALLEE DES TAMARINIERS -AVE BADAMIERS MORC CARLOS RIVIERE NOIRE",
