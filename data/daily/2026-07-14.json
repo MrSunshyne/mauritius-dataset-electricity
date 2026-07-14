@@ -1,8 +1,8 @@
 {
   "date": "2026-07-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-14T13:29:20.646Z",
-  "outageCount": 9,
+  "generated": "2026-07-14T14:31:23.126Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le mardi 14 juillet 2026 de  13:00:00 à  16:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-07-14T09:00:00.000Z",
       "to": "2026-07-14T12:30:00.000Z",
       "id": "d2335e760eac62539f80ff6f2e64454f"
+    },
+    {
+      "date": "Le mardi 14 juillet 2026 de  17:00:00 à  21:00:00",
+      "locality": "ESPERANCE PITON",
+      "localitySlug": "esperance-piton",
+      "streets": "JANSI ROAD ET LES ALENTOURS.",
+      "district": "pamplemousses",
+      "from": "2026-07-14T13:00:00.000Z",
+      "to": "2026-07-14T17:00:00.000Z",
+      "id": "139e9a0d9774502940c92776b44e965a"
     },
     {
       "date": "Le mardi 14 juillet 2026 de  09:00:00 à  12:00:00",
