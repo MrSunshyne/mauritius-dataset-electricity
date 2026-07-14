@@ -2,11 +2,18 @@
   "slug": "saint-pierre",
   "name": "SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-07-14T08:40:24.465Z",
-  "outageCount": 77,
+  "generated": "2026-07-14T09:31:33.292Z",
+  "outageCount": 78,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-07-08",
+  "lastOutage": "2026-07-14",
   "outages": [
+    {
+      "date": "Le mardi 14 juillet 2026 de  13:00:00 à  16:30:00",
+      "streets": "SAINTE CATHERINE",
+      "from": "2026-07-14T09:00:00.000Z",
+      "to": "2026-07-14T12:30:00.000Z",
+      "id": "d2335e760eac62539f80ff6f2e64454f"
+    },
     {
       "date": "Le mercredi 8 juillet 2026 de  13:30:00 à  16:30:00",
       "streets": "PT VERGER  RD",

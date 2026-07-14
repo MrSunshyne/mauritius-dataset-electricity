@@ -2,11 +2,18 @@
   "slug": "pereybere",
   "name": "PEREYBERE",
   "district": "rivieredurempart",
-  "generated": "2026-07-14T08:40:24.443Z",
-  "outageCount": 112,
+  "generated": "2026-07-14T09:31:33.259Z",
+  "outageCount": 113,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-06-15",
+  "lastOutage": "2026-07-14",
   "outages": [
+    {
+      "date": "Le mardi 14 juillet 2026 de  13:00:00 à  16:00:00",
+      "streets": "CASA SOLA ,CH VINGT PIEDS ETC",
+      "from": "2026-07-14T09:00:00.000Z",
+      "to": "2026-07-14T12:00:00.000Z",
+      "id": "963a9a00d505312418b2dbe8032e369a"
+    },
     {
       "date": "Le lundi 15 juin 2026 de  08:30:00 à  12:30:00",
       "streets": "LA RUE COSTALE DANS LES PERIMETRES DE LA PLAGE PUBLIC DE PEREYEBERE",

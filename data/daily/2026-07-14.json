@@ -1,9 +1,19 @@
 {
   "date": "2026-07-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-14T08:40:24.370Z",
-  "outageCount": 7,
+  "generated": "2026-07-14T09:31:33.162Z",
+  "outageCount": 9,
   "outages": [
+    {
+      "date": "Le mardi 14 juillet 2026 de  13:00:00 à  16:30:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "SAINTE CATHERINE",
+      "district": "moka",
+      "from": "2026-07-14T09:00:00.000Z",
+      "to": "2026-07-14T12:30:00.000Z",
+      "id": "d2335e760eac62539f80ff6f2e64454f"
+    },
     {
       "date": "Le mardi 14 juillet 2026 de  09:00:00 à  12:00:00",
       "locality": "CITE L-OISEAU",
@@ -63,6 +73,16 @@
       "from": "2026-07-14T05:00:00.000Z",
       "to": "2026-07-14T10:00:00.000Z",
       "id": "0d20a150d86196cdb7d2f779d1d84507"
+    },
+    {
+      "date": "Le mardi 14 juillet 2026 de  13:00:00 à  16:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "CASA SOLA ,CH VINGT PIEDS ETC",
+      "district": "rivieredurempart",
+      "from": "2026-07-14T09:00:00.000Z",
+      "to": "2026-07-14T12:00:00.000Z",
+      "id": "963a9a00d505312418b2dbe8032e369a"
     },
     {
       "date": "Le mardi 14 juillet 2026 de  08:00:00 à  17:00:00",
