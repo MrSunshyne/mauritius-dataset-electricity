@@ -1,8 +1,8 @@
 {
   "date": "2026-07-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-14T15:27:28.501Z",
-  "outageCount": 10,
+  "generated": "2026-07-14T16:24:44.096Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le mardi 14 juillet 2026 de  13:00:00 à  16:30:00",
@@ -63,6 +63,16 @@
       "from": "2026-07-14T07:45:00.000Z",
       "to": "2026-07-14T09:15:00.000Z",
       "id": "1a832833ae2051a5f52e42df9d8cbc11"
+    },
+    {
+      "date": "Le mardi 14 juillet 2026 de  19:00:00 à  23:00:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "AVENUE ROTIN No 1, CHEMIN LA FERME ET DANS LES ALENTOURS TERRAIN FOOTBALL.",
+      "district": "plainewilhems",
+      "from": "2026-07-14T15:00:00.000Z",
+      "to": "2026-07-14T19:00:00.000Z",
+      "id": "c16851d1753b5b87efae5fd4cdbf6d51"
     },
     {
       "date": "Le mardi 14 juillet 2026 de  09:00:00 à  15:00:00",

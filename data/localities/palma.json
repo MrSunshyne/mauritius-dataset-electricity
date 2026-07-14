@@ -2,11 +2,18 @@
   "slug": "palma",
   "name": "PALMA",
   "district": "plainewilhems",
-  "generated": "2026-07-14T15:27:28.594Z",
-  "outageCount": 65,
+  "generated": "2026-07-14T16:24:44.194Z",
+  "outageCount": 66,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-05-23",
+  "lastOutage": "2026-07-14",
   "outages": [
+    {
+      "date": "Le mardi 14 juillet 2026 de  19:00:00 à  23:00:00",
+      "streets": "AVENUE ROTIN No 1, CHEMIN LA FERME ET DANS LES ALENTOURS TERRAIN FOOTBALL.",
+      "from": "2026-07-14T15:00:00.000Z",
+      "to": "2026-07-14T19:00:00.000Z",
+      "id": "c16851d1753b5b87efae5fd4cdbf6d51"
+    },
     {
       "date": "Le samedi 23 mai 2026 de  18:20:00 à  19:00:00",
       "streets": "RTS JACKSON PALMA QUATRE BORNES",
