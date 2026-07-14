@@ -1,8 +1,8 @@
 {
   "date": "2026-07-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-14T07:31:29.461Z",
-  "outageCount": 6,
+  "generated": "2026-07-14T08:40:24.370Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le mardi 14 juillet 2026 de  09:00:00 à  12:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-07-14T05:00:00.000Z",
       "to": "2026-07-14T13:00:00.000Z",
       "id": "e74e16bac0913288bc461ca92a7278fb"
+    },
+    {
+      "date": "Le mardi 14 juillet 2026 de  11:45:00 à  13:15:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "D-EPINAY ST,LAPEROUSSE ST,STIRLING ST",
+      "district": "plainewilhems",
+      "from": "2026-07-14T07:45:00.000Z",
+      "to": "2026-07-14T09:15:00.000Z",
+      "id": "1a832833ae2051a5f52e42df9d8cbc11"
     },
     {
       "date": "Le mardi 14 juillet 2026 de  09:00:00 à  15:00:00",
