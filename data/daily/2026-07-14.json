@@ -1,8 +1,8 @@
 {
   "date": "2026-07-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-13T18:29:45.442Z",
-  "outageCount": 2,
+  "generated": "2026-07-14T06:39:15.888Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le mardi 14 juillet 2026 de  09:00:00 à  12:00:00",
@@ -23,6 +23,46 @@
       "from": "2026-07-14T05:00:00.000Z",
       "to": "2026-07-14T11:00:00.000Z",
       "id": "e90e1daef0a647778d01059cdbee2f81"
+    },
+    {
+      "date": "Le mardi 14 juillet 2026 de  09:00:00 à  17:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "GEORGE TOWN & SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2026-07-14T05:00:00.000Z",
+      "to": "2026-07-14T13:00:00.000Z",
+      "id": "e74e16bac0913288bc461ca92a7278fb"
+    },
+    {
+      "date": "Le mardi 14 juillet 2026 de  09:00:00 à  15:00:00",
+      "locality": "SAINT JOSEPH",
+      "localitySlug": "saint-joseph",
+      "streets": "ROYAL ROAD & SURROUNDINGS",
+      "district": "portlouis",
+      "from": "2026-07-14T05:00:00.000Z",
+      "to": "2026-07-14T11:00:00.000Z",
+      "id": "87f104399166680127bf5491452b6b9d"
+    },
+    {
+      "date": "Le mardi 14 juillet 2026 de  09:00:00 à  14:00:00",
+      "locality": "PLAINE DES ROCHES",
+      "localitySlug": "plaine-des-roches",
+      "streets": "ROYAL ROAD, SENEK ROAD, JAGESSUR ROAD AND RAILWAY ROAD PLAINE DES ROCHES",
+      "district": "rivieredurempart",
+      "from": "2026-07-14T05:00:00.000Z",
+      "to": "2026-07-14T10:00:00.000Z",
+      "id": "0d20a150d86196cdb7d2f779d1d84507"
+    },
+    {
+      "date": "Le mardi 14 juillet 2026 de  08:00:00 à  17:00:00",
+      "locality": "TYACK",
+      "localitySlug": "tyack",
+      "streets": "MORC BLUEPRINT, OMNICANE 1 & 2 AND SURROUNDINGS",
+      "district": "savanne",
+      "from": "2026-07-14T04:00:00.000Z",
+      "to": "2026-07-14T13:00:00.000Z",
+      "id": "0a08f4abd5180617e70dfc4f6ad7a712"
     }
   ]
 }

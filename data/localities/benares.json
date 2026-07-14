@@ -2,11 +2,18 @@
   "slug": "benares",
   "name": "BENARES",
   "district": "savanne",
-  "generated": "2026-07-13T18:29:45.476Z",
-  "outageCount": 6,
+  "generated": "2026-07-14T06:39:15.922Z",
+  "outageCount": 7,
   "firstOutage": "2023-10-11",
-  "lastOutage": "2025-09-23",
+  "lastOutage": "2026-07-15",
   "outages": [
+    {
+      "date": "Le mercredi 15 juillet 2026 de  09:00:00 à  17:00:00",
+      "streets": "Le village de Chateau Benares",
+      "from": "2026-07-15T05:00:00.000Z",
+      "to": "2026-07-15T13:00:00.000Z",
+      "id": "8b01171a6b9c20a4f8852c88bc3c0e27"
+    },
     {
       "date": "Le mardi 23 septembre 2025 de  09:00:00 à  15:00:00",
       "streets": "Le village de Batimarais et Benares",

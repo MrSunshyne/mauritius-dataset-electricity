@@ -2,11 +2,18 @@
   "slug": "tyack",
   "name": "TYACK",
   "district": "savanne",
-  "generated": "2026-07-13T18:29:45.586Z",
-  "outageCount": 31,
+  "generated": "2026-07-14T06:39:16.030Z",
+  "outageCount": 32,
   "firstOutage": "2022-05-08",
-  "lastOutage": "2026-01-24",
+  "lastOutage": "2026-07-14",
   "outages": [
+    {
+      "date": "Le mardi 14 juillet 2026 de  08:00:00 à  17:00:00",
+      "streets": "MORC BLUEPRINT, OMNICANE 1 & 2 AND SURROUNDINGS",
+      "from": "2026-07-14T04:00:00.000Z",
+      "to": "2026-07-14T13:00:00.000Z",
+      "id": "0a08f4abd5180617e70dfc4f6ad7a712"
+    },
     {
       "date": "Le samedi 24 janvier 2026 de  09:00:00 à  15:00:00",
       "streets": "Le village de Tyack",

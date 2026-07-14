@@ -2,11 +2,18 @@
   "slug": "plaine-des-roches",
   "name": "PLAINE DES ROCHES",
   "district": "rivieredurempart",
-  "generated": "2026-07-13T18:29:45.550Z",
-  "outageCount": 42,
+  "generated": "2026-07-14T06:39:15.996Z",
+  "outageCount": 43,
   "firstOutage": "2022-04-24",
-  "lastOutage": "2026-06-24",
+  "lastOutage": "2026-07-14",
   "outages": [
+    {
+      "date": "Le mardi 14 juillet 2026 de  09:00:00 à  14:00:00",
+      "streets": "ROYAL ROAD, SENEK ROAD, JAGESSUR ROAD AND RAILWAY ROAD PLAINE DES ROCHES",
+      "from": "2026-07-14T05:00:00.000Z",
+      "to": "2026-07-14T10:00:00.000Z",
+      "id": "0d20a150d86196cdb7d2f779d1d84507"
+    },
     {
       "date": "Le mercredi 24 juin 2026 de  09:00:00 à  13:00:00",
       "streets": "ROYAL ROAD, DALLIAH ROAD ET JOOMUN ROAD PLAINE DES ROCHES",

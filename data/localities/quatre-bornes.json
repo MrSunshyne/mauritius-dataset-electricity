@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-07-13T18:29:45.559Z",
-  "outageCount": 391,
+  "generated": "2026-07-14T06:39:16.005Z",
+  "outageCount": 392,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-07-11",
+  "lastOutage": "2026-07-14",
   "outages": [
+    {
+      "date": "Le mardi 14 juillet 2026 de  09:00:00 à  17:00:00",
+      "streets": "GEORGE TOWN & SURROUNDINGS",
+      "from": "2026-07-14T05:00:00.000Z",
+      "to": "2026-07-14T13:00:00.000Z",
+      "id": "e74e16bac0913288bc461ca92a7278fb"
+    },
     {
       "date": "Le samedi 11 juillet 2026 de  08:30:00 à  14:30:00",
       "streets": "En partie Ave Cossigny, Hillary Blood, Louis Nellan Lane, Candos Lane, La Louise Ave, R. Rivet Ave et les environs",

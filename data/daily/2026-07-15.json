@@ -1,8 +1,8 @@
 {
   "date": "2026-07-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-13T18:29:45.442Z",
-  "outageCount": 1,
+  "generated": "2026-07-14T06:39:15.888Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le mercredi 15 juillet 2026 de  09:00:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-07-15T05:00:00.000Z",
       "to": "2026-07-15T12:00:00.000Z",
       "id": "b158eca866b676ce5942c44872b9f677"
+    },
+    {
+      "date": "Le mercredi 15 juillet 2026 de  09:00:00 à  17:00:00",
+      "locality": "BENARES",
+      "localitySlug": "benares",
+      "streets": "Le village de Chateau Benares",
+      "district": "savanne",
+      "from": "2026-07-15T05:00:00.000Z",
+      "to": "2026-07-15T13:00:00.000Z",
+      "id": "8b01171a6b9c20a4f8852c88bc3c0e27"
     }
   ]
 }

@@ -2,11 +2,18 @@
   "slug": "saint-joseph",
   "name": "SAINT JOSEPH",
   "district": "portlouis",
-  "generated": "2026-07-13T18:29:45.574Z",
-  "outageCount": 6,
+  "generated": "2026-07-14T06:39:16.019Z",
+  "outageCount": 7,
   "firstOutage": "2022-09-18",
-  "lastOutage": "2026-07-07",
+  "lastOutage": "2026-07-14",
   "outages": [
+    {
+      "date": "Le mardi 14 juillet 2026 de  09:00:00 à  15:00:00",
+      "streets": "ROYAL ROAD & SURROUNDINGS",
+      "from": "2026-07-14T05:00:00.000Z",
+      "to": "2026-07-14T11:00:00.000Z",
+      "id": "87f104399166680127bf5491452b6b9d"
+    },
     {
       "date": "Le mardi 7 juillet 2026 de  16:25:00 à  18:25:00",
       "streets": "ROYAL ROAD UP TO LE GOULET",
