@@ -2,11 +2,18 @@
   "slug": "bonne-mere",
   "name": "BONNE MERE",
   "district": "flacq",
-  "generated": "2026-07-15T16:27:39.227Z",
-  "outageCount": 16,
+  "generated": "2026-07-15T17:26:06.279Z",
+  "outageCount": 17,
   "firstOutage": "2022-08-14",
-  "lastOutage": "2026-07-06",
+  "lastOutage": "2026-07-15",
   "outages": [
+    {
+      "date": "Le mercredi 15 juillet 2026 de  20:45:00 à  00:00:00",
+      "streets": "MAHATMA GANDHI RD & SURROUNDINGS",
+      "from": "2026-07-15T16:45:00.000Z",
+      "to": "2026-07-14T20:00:00.000Z",
+      "id": "d670757e04281b14831b3561e1b7a9f2"
+    },
     {
       "date": "Le lundi 6 juillet 2026 de  21:00:00 à  00:00:00",
       "streets": "AVE MAHATMA GANDHI BONNE MERE",

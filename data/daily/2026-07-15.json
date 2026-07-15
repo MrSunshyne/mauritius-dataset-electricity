@@ -1,8 +1,8 @@
 {
   "date": "2026-07-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-15T16:27:39.193Z",
-  "outageCount": 12,
+  "generated": "2026-07-15T17:26:06.247Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le mercredi 15 juillet 2026 de  09:10:00 à  12:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-07-15T10:00:00.000Z",
       "to": "2026-07-15T12:00:00.000Z",
       "id": "6a8dac3cf98567efce7ee7c12d64aea7"
+    },
+    {
+      "date": "Le mercredi 15 juillet 2026 de  20:45:00 à  00:00:00",
+      "locality": "BONNE MERE",
+      "localitySlug": "bonne-mere",
+      "streets": "MAHATMA GANDHI RD & SURROUNDINGS",
+      "district": "flacq",
+      "from": "2026-07-15T16:45:00.000Z",
+      "to": "2026-07-14T20:00:00.000Z",
+      "id": "d670757e04281b14831b3561e1b7a9f2"
     },
     {
       "date": "Le mercredi 15 juillet 2026 de  09:40:00 à  12:00:00",
