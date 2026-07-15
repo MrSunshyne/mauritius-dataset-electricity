@@ -1,8 +1,8 @@
 {
   "date": "2026-07-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-15T09:34:08.692Z",
-  "outageCount": 9,
+  "generated": "2026-07-15T10:31:07.367Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le mercredi 15 juillet 2026 de  09:10:00 à  12:00:00",
@@ -15,6 +15,16 @@
       "id": "82894a41925b6e7f1eab702a2570675f"
     },
     {
+      "date": "Le mercredi 15 juillet 2026 de  14:00:00 à  16:00:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "La Tourelle View",
+      "district": "blackriver",
+      "from": "2026-07-15T10:00:00.000Z",
+      "to": "2026-07-15T12:00:00.000Z",
+      "id": "6a8dac3cf98567efce7ee7c12d64aea7"
+    },
+    {
       "date": "Le mercredi 15 juillet 2026 de  09:40:00 à  12:00:00",
       "locality": "VILLEBAGUE",
       "localitySlug": "villebague",
@@ -23,6 +33,16 @@
       "from": "2026-07-15T05:40:00.000Z",
       "to": "2026-07-15T08:00:00.000Z",
       "id": "0709bbb78f592c2761d099cc246995da"
+    },
+    {
+      "date": "Le mercredi 15 juillet 2026 de  13:30:00 à  14:30:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "Village Hall Lane",
+      "district": "pamplemousses",
+      "from": "2026-07-15T09:30:00.000Z",
+      "to": "2026-07-15T10:30:00.000Z",
+      "id": "ac474b97517b653414042a14db09d1f7"
     },
     {
       "date": "Le mercredi 15 juillet 2026 de  14:30:00 à  15:30:00",

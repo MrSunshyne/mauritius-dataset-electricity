@@ -1,8 +1,8 @@
 {
   "date": "2026-07-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-15T09:34:08.692Z",
-  "outageCount": 4,
+  "generated": "2026-07-15T10:31:07.367Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le jeudi 16 juillet 2026 de  08:30:00 à  16:30:00",
@@ -23,6 +23,16 @@
       "from": "2026-07-16T05:00:00.000Z",
       "to": "2026-07-16T11:00:00.000Z",
       "id": "0c38a71ed421dc0312db5fef30f95bf9"
+    },
+    {
+      "date": "Le jeudi 16 juillet 2026 de  08:30:00 à  15:30:00",
+      "locality": "CITE CHEBEL",
+      "localitySlug": "cite-chebel",
+      "streets": "Residence Chebeque, Centre Municipale, Sir Gaetan Duval, Residence Lotus et les environs",
+      "district": "plainewilhems",
+      "from": "2026-07-16T04:30:00.000Z",
+      "to": "2026-07-16T11:30:00.000Z",
+      "id": "37c9b53eb99aa49f3343776d71f33ec2"
     },
     {
       "date": "Le jeudi 16 juillet 2026 de  09:00:00 à  13:30:00",

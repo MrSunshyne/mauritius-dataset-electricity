@@ -2,8 +2,8 @@
   "slug": "tamarin",
   "name": "TAMARIN",
   "district": "blackriver",
-  "generated": "2026-07-15T09:34:08.783Z",
-  "outageCount": 80,
+  "generated": "2026-07-15T10:31:07.511Z",
+  "outageCount": 81,
   "firstOutage": "2022-03-13",
   "lastOutage": "2026-07-16",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-07-16T04:30:00.000Z",
       "to": "2026-07-16T12:30:00.000Z",
       "id": "cddff881464cb828e207fd855cd71d82"
+    },
+    {
+      "date": "Le mercredi 15 juillet 2026 de  14:00:00 à  16:00:00",
+      "streets": "La Tourelle View",
+      "from": "2026-07-15T10:00:00.000Z",
+      "to": "2026-07-15T12:00:00.000Z",
+      "id": "6a8dac3cf98567efce7ee7c12d64aea7"
     },
     {
       "date": "Le vendredi 10 juillet 2026 de  12:30:00 à  17:00:00",

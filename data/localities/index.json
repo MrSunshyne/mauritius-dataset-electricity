@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15T09:34:08.791Z",
+  "generated": "2026-07-15T10:31:07.525Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -1096,10 +1096,10 @@
       "slug": "cite-chebel",
       "name": "CITE CHEBEL",
       "district": "plainewilhems",
-      "outageCount": 34,
+      "outageCount": 35,
       "file": "cite-chebel.json",
       "firstOutage": "2022-03-15",
-      "lastOutage": "2026-05-12"
+      "lastOutage": "2026-07-16"
     },
     {
       "slug": "cite-l-oiseau",
@@ -3778,7 +3778,7 @@
       "slug": "tamarin",
       "name": "TAMARIN",
       "district": "blackriver",
-      "outageCount": 80,
+      "outageCount": 81,
       "file": "tamarin.json",
       "firstOutage": "2022-03-13",
       "lastOutage": "2026-07-16"
@@ -3832,10 +3832,10 @@
       "slug": "terre-rouge",
       "name": "TERRE ROUGE",
       "district": "pamplemousses",
-      "outageCount": 110,
+      "outageCount": 111,
       "file": "terre-rouge.json",
       "firstOutage": "2022-03-14",
-      "lastOutage": "2026-07-05"
+      "lastOutage": "2026-07-15"
     },
     {
       "slug": "tombeau-bay",

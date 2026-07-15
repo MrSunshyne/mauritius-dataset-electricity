@@ -2,11 +2,18 @@
   "slug": "cite-chebel",
   "name": "CITE CHEBEL",
   "district": "plainewilhems",
-  "generated": "2026-07-15T09:34:08.726Z",
-  "outageCount": 34,
+  "generated": "2026-07-15T10:31:07.421Z",
+  "outageCount": 35,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-05-12",
+  "lastOutage": "2026-07-16",
   "outages": [
+    {
+      "date": "Le jeudi 16 juillet 2026 de  08:30:00 à  15:30:00",
+      "streets": "Residence Chebeque, Centre Municipale, Sir Gaetan Duval, Residence Lotus et les environs",
+      "from": "2026-07-16T04:30:00.000Z",
+      "to": "2026-07-16T11:30:00.000Z",
+      "id": "37c9b53eb99aa49f3343776d71f33ec2"
+    },
     {
       "date": "Le mardi 12 mai 2026 de  13:30:00 à  19:00:00",
       "streets": "CHEBEL BR ROAD, LE BOSQUET, CAMP BERTHLOT, RICHE LIEU OPEN PRISON",
