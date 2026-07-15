@@ -2,11 +2,18 @@
   "slug": "blue-bay",
   "name": "BLUE BAY",
   "district": "grandport",
-  "generated": "2026-07-15T06:39:56.730Z",
-  "outageCount": 32,
+  "generated": "2026-07-15T07:33:36.407Z",
+  "outageCount": 33,
   "firstOutage": "2022-05-15",
-  "lastOutage": "2026-07-08",
+  "lastOutage": "2026-07-16",
   "outages": [
+    {
+      "date": "Le jeudi 16 juillet 2026 de  09:00:00 à  15:00:00",
+      "streets": "Blue Bay habitant dans le périmètre et les rues suivantes: Avenue Cordonnier, Avenue Carangue et une partie de Avenue Aigrettes",
+      "from": "2026-07-16T05:00:00.000Z",
+      "to": "2026-07-16T11:00:00.000Z",
+      "id": "0c38a71ed421dc0312db5fef30f95bf9"
+    },
     {
       "date": "Le mercredi 8 juillet 2026 de  18:00:00 à  22:00:00",
       "streets": "R/RD,AVE DES AIGRETTES AND NEARBY REGION",

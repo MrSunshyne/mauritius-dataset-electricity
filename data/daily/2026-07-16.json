@@ -1,8 +1,8 @@
 {
   "date": "2026-07-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-15T06:39:56.696Z",
-  "outageCount": 3,
+  "generated": "2026-07-15T07:33:36.370Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le jeudi 16 juillet 2026 de  08:30:00 à  16:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-07-16T04:30:00.000Z",
       "to": "2026-07-16T12:30:00.000Z",
       "id": "cddff881464cb828e207fd855cd71d82"
+    },
+    {
+      "date": "Le jeudi 16 juillet 2026 de  09:00:00 à  15:00:00",
+      "locality": "BLUE BAY",
+      "localitySlug": "blue-bay",
+      "streets": "Blue Bay habitant dans le périmètre et les rues suivantes: Avenue Cordonnier, Avenue Carangue et une partie de Avenue Aigrettes",
+      "district": "grandport",
+      "from": "2026-07-16T05:00:00.000Z",
+      "to": "2026-07-16T11:00:00.000Z",
+      "id": "0c38a71ed421dc0312db5fef30f95bf9"
     },
     {
       "date": "Le jeudi 16 juillet 2026 de  09:00:00 à  13:30:00",
