@@ -2,11 +2,18 @@
   "slug": "canal-dayot",
   "name": "CANAL DAYOT",
   "district": "portlouis",
-  "generated": "2026-07-15T14:30:55.093Z",
-  "outageCount": 4,
+  "generated": "2026-07-15T15:28:06.943Z",
+  "outageCount": 5,
   "firstOutage": "2022-10-09",
-  "lastOutage": "2024-11-21",
+  "lastOutage": "2026-07-19",
   "outages": [
+    {
+      "date": "Le dimanche 19 juillet 2026 de  08:30:00 à  14:30:00",
+      "streets": "Dans les environs des Rues Alphonse Rolando, Dr Henri Perrot et Batterie",
+      "from": "2026-07-19T04:30:00.000Z",
+      "to": "2026-07-19T10:30:00.000Z",
+      "id": "d29d6824e175cc5d464ba6a029354dad"
+    },
     {
       "date": "Le jeudi 21 novembre 2024 de  16:30:00 à  18:00:00",
       "streets": "LES ABONEES HABITANT CANAL DAYOT",
