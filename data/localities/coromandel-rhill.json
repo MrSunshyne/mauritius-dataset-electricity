@@ -2,11 +2,18 @@
   "slug": "coromandel-rhill",
   "name": "COROMANDEL - R.HILL",
   "district": "plainewilhems",
-  "generated": "2026-07-15T11:28:33.036Z",
-  "outageCount": 92,
+  "generated": "2026-07-15T12:24:27.286Z",
+  "outageCount": 93,
   "firstOutage": "2022-04-08",
   "lastOutage": "2026-07-15",
   "outages": [
+    {
+      "date": "Le mercredi 15 juillet 2026 de  15:45:00 à  17:15:00",
+      "streets": "Chapman View, Ave Cerisier, Morc Montreal 1 & 2, Police Quarters et les environs",
+      "from": "2026-07-15T11:45:00.000Z",
+      "to": "2026-07-15T13:15:00.000Z",
+      "id": "1cdbf41f2fdfa7e953a0b88115b259cf"
+    },
     {
       "date": "Le mercredi 15 juillet 2026 de  14:30:00 à  15:30:00",
       "streets": "Chapman View, Ave Cerisier, Morc Montreal 1 & 2, Police Quarters et les environs",
