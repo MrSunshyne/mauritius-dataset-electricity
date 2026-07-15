@@ -2,11 +2,18 @@
   "slug": "villebague",
   "name": "VILLEBAGUE",
   "district": "pamplemousses",
-  "generated": "2026-07-14T18:19:08.576Z",
-  "outageCount": 11,
+  "generated": "2026-07-15T06:39:56.844Z",
+  "outageCount": 12,
   "firstOutage": "2022-12-11",
-  "lastOutage": "2026-05-12",
+  "lastOutage": "2026-07-15",
   "outages": [
+    {
+      "date": "Le mercredi 15 juillet 2026 de  09:40:00 à  12:00:00",
+      "streets": "R/RD,CAMP SIPAILLES",
+      "from": "2026-07-15T05:40:00.000Z",
+      "to": "2026-07-15T08:00:00.000Z",
+      "id": "0709bbb78f592c2761d099cc246995da"
+    },
     {
       "date": "Le mardi 12 mai 2026 de  09:30:00 à  14:30:00",
       "streets": "PETITE JULIE, DEPINAY ET GRANDE ROSALIE",

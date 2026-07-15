@@ -2,11 +2,18 @@
   "slug": "cap-malheureux",
   "name": "CAP MALHEUREUX",
   "district": "rivieredurempart",
-  "generated": "2026-07-14T18:19:08.523Z",
-  "outageCount": 54,
+  "generated": "2026-07-15T06:39:56.741Z",
+  "outageCount": 55,
   "firstOutage": "2022-07-14",
-  "lastOutage": "2026-07-08",
+  "lastOutage": "2026-07-16",
   "outages": [
+    {
+      "date": "Le jeudi 16 juillet 2026 de  09:00:00 à  13:30:00",
+      "streets": "CAP MALHEUREUX, IN SURROUNDING OF PAVILLON AT MORCELLEMENT CHETTY IN MOSQUE LANE",
+      "from": "2026-07-16T05:00:00.000Z",
+      "to": "2026-07-16T09:30:00.000Z",
+      "id": "9d11d660985b9aba1a763674212e364d"
+    },
     {
       "date": "Le mercredi 8 juillet 2026 de  18:00:00 à  22:00:00",
       "streets": "PAVILLON",

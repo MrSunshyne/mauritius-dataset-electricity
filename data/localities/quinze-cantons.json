@@ -2,11 +2,18 @@
   "slug": "quinze-cantons",
   "name": "QUINZE CANTONS",
   "district": "plainewilhems",
-  "generated": "2026-07-14T18:19:08.562Z",
-  "outageCount": 8,
+  "generated": "2026-07-15T06:39:56.816Z",
+  "outageCount": 9,
   "firstOutage": "2022-05-13",
-  "lastOutage": "2026-06-24",
+  "lastOutage": "2026-07-15",
   "outages": [
+    {
+      "date": "Le mercredi 15 juillet 2026 de  10:00:00 à  11:30:00",
+      "streets": "QUINZE CANTONS",
+      "from": "2026-07-15T06:00:00.000Z",
+      "to": "2026-07-15T07:30:00.000Z",
+      "id": "985e72daed8a41bb01aed2db7106cf79"
+    },
     {
       "date": "Le mercredi 24 juin 2026 de  22:00:00 à  00:30:00",
       "streets": "MORC BAHADOOR QUINZE CANTON",

@@ -2,11 +2,18 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-07-14T18:19:08.575Z",
-  "outageCount": 257,
+  "generated": "2026-07-15T06:39:56.842Z",
+  "outageCount": 258,
   "firstOutage": "2022-03-17",
-  "lastOutage": "2026-07-12",
+  "lastOutage": "2026-07-15",
   "outages": [
+    {
+      "date": "Le mercredi 15 juillet 2026 de  09:50:00 à  11:00:00",
+      "streets": "NHDC Glenpark",
+      "from": "2026-07-15T05:50:00.000Z",
+      "to": "2026-07-15T07:00:00.000Z",
+      "id": "848e19198b264ceb8b70080d116ce45b"
+    },
     {
       "date": "Le dimanche 12 juillet 2026 de  08:30:00 à  17:00:00",
       "streets": "Clairfonds No. 1, No. 2 et No. 3, Independence Avenue, Yves Brelu Brelu Avenue, Brown Sequard Avenue, Cemetry Road, Andre Martin Avenue, Mahant Kabir Temple Road, Sobhee Lane, Arya Mandil Lane et les environs",

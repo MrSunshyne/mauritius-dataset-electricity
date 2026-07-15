@@ -1,8 +1,8 @@
 {
   "date": "2026-07-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-14T18:19:08.501Z",
-  "outageCount": 2,
+  "generated": "2026-07-15T06:39:56.696Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le jeudi 16 juillet 2026 de  08:30:00 à  16:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-07-16T04:30:00.000Z",
       "to": "2026-07-16T12:30:00.000Z",
       "id": "cddff881464cb828e207fd855cd71d82"
+    },
+    {
+      "date": "Le jeudi 16 juillet 2026 de  09:00:00 à  13:30:00",
+      "locality": "CAP MALHEUREUX",
+      "localitySlug": "cap-malheureux",
+      "streets": "CAP MALHEUREUX, IN SURROUNDING OF PAVILLON AT MORCELLEMENT CHETTY IN MOSQUE LANE",
+      "district": "rivieredurempart",
+      "from": "2026-07-16T05:00:00.000Z",
+      "to": "2026-07-16T09:30:00.000Z",
+      "id": "9d11d660985b9aba1a763674212e364d"
     },
     {
       "date": "Le jeudi 16 juillet 2026 de  09:00:00 à  16:00:00",

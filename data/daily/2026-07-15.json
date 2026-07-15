@@ -1,9 +1,29 @@
 {
   "date": "2026-07-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-14T18:19:08.501Z",
-  "outageCount": 5,
+  "generated": "2026-07-15T06:39:56.695Z",
+  "outageCount": 9,
   "outages": [
+    {
+      "date": "Le mercredi 15 juillet 2026 de  09:10:00 à  12:00:00",
+      "locality": "LA MIVOIE",
+      "localitySlug": "la-mivoie",
+      "streets": "LA MIVOIE,MORC MON CALME,PART OF TAMARIN",
+      "district": "blackriver",
+      "from": "2026-07-15T05:10:00.000Z",
+      "to": "2026-07-15T08:00:00.000Z",
+      "id": "82894a41925b6e7f1eab702a2570675f"
+    },
+    {
+      "date": "Le mercredi 15 juillet 2026 de  09:40:00 à  12:00:00",
+      "locality": "VILLEBAGUE",
+      "localitySlug": "villebague",
+      "streets": "R/RD,CAMP SIPAILLES",
+      "district": "pamplemousses",
+      "from": "2026-07-15T05:40:00.000Z",
+      "to": "2026-07-15T08:00:00.000Z",
+      "id": "0709bbb78f592c2761d099cc246995da"
+    },
     {
       "date": "Le mercredi 15 juillet 2026 de  14:30:00 à  15:30:00",
       "locality": "COROMANDEL - R.HILL",
@@ -33,6 +53,26 @@
       "from": "2026-07-15T05:00:00.000Z",
       "to": "2026-07-15T13:00:00.000Z",
       "id": "5888eba2f3e8209dc8973b928a85f487"
+    },
+    {
+      "date": "Le mercredi 15 juillet 2026 de  10:00:00 à  11:30:00",
+      "locality": "QUINZE CANTONS",
+      "localitySlug": "quinze-cantons",
+      "streets": "QUINZE CANTONS",
+      "district": "plainewilhems",
+      "from": "2026-07-15T06:00:00.000Z",
+      "to": "2026-07-15T07:30:00.000Z",
+      "id": "985e72daed8a41bb01aed2db7106cf79"
+    },
+    {
+      "date": "Le mercredi 15 juillet 2026 de  09:50:00 à  11:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "NHDC Glenpark",
+      "district": "plainewilhems",
+      "from": "2026-07-15T05:50:00.000Z",
+      "to": "2026-07-15T07:00:00.000Z",
+      "id": "848e19198b264ceb8b70080d116ce45b"
     },
     {
       "date": "Le mercredi 15 juillet 2026 de  09:00:00 à  16:00:00",
