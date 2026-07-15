@@ -1,8 +1,8 @@
 {
   "date": "2026-07-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-15T10:31:07.367Z",
-  "outageCount": 5,
+  "generated": "2026-07-15T11:28:32.983Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le jeudi 16 juillet 2026 de  08:30:00 à  16:30:00",
@@ -53,6 +53,16 @@
       "from": "2026-07-16T05:00:00.000Z",
       "to": "2026-07-16T12:00:00.000Z",
       "id": "bdc2ad4429a45e48a33ca66ab61aa028"
+    },
+    {
+      "date": "Le jeudi 16 juillet 2026 de  08:30:00 à  16:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Piments, Reposoir, Baie Topaze, Camp Pintade,Montagne Croupier, Camp Pintade, Montagne Plate et Plaine Maho",
+      "district": "rodrigues",
+      "from": "2026-07-16T04:30:00.000Z",
+      "to": "2026-07-16T12:00:00.000Z",
+      "id": "b95a9daa0039240a4008696d1f8f9e75"
     }
   ]
 }

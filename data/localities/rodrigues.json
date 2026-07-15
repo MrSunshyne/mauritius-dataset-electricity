@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-07-15T10:31:07.501Z",
-  "outageCount": 241,
+  "generated": "2026-07-15T11:28:33.108Z",
+  "outageCount": 242,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-07-12",
+  "lastOutage": "2026-07-16",
   "outages": [
+    {
+      "date": "Le jeudi 16 juillet 2026 de  08:30:00 à  16:00:00",
+      "streets": "Piments, Reposoir, Baie Topaze, Camp Pintade,Montagne Croupier, Camp Pintade, Montagne Plate et Plaine Maho",
+      "from": "2026-07-16T04:30:00.000Z",
+      "to": "2026-07-16T12:00:00.000Z",
+      "id": "b95a9daa0039240a4008696d1f8f9e75"
+    },
     {
       "date": "Le dimanche 12 juillet 2026 de  08:30:00 à  15:00:00",
       "streets": "Songes, Pompee et Camp Paul",
