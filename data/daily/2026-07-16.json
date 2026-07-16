@@ -1,8 +1,8 @@
 {
   "date": "2026-07-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-16T15:29:35.088Z",
-  "outageCount": 12,
+  "generated": "2026-07-16T16:25:56.127Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le jeudi 16 juillet 2026 de  08:30:00 à  16:30:00",
@@ -23,6 +23,16 @@
       "from": "2026-07-16T05:00:00.000Z",
       "to": "2026-07-16T11:00:00.000Z",
       "id": "0c38a71ed421dc0312db5fef30f95bf9"
+    },
+    {
+      "date": "Le jeudi 16 juillet 2026 de  20:20:00 à  23:00:00",
+      "locality": "NOUVELLE FRANCE",
+      "localitySlug": "nouvelle-france",
+      "streets": "PART OF NOUVELLE FRANCE",
+      "district": "grandport",
+      "from": "2026-07-16T16:20:00.000Z",
+      "to": "2026-07-16T19:00:00.000Z",
+      "id": "7e4559e4a1ef2947858c3e1691c461b6"
     },
     {
       "date": "Le jeudi 16 juillet 2026 de  09:00:00 à  12:00:00",
