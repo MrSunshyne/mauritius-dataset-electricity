@@ -1,8 +1,8 @@
 {
   "date": "2026-07-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-16T17:27:25.944Z",
-  "outageCount": 13,
+  "generated": "2026-07-16T18:21:09.016Z",
+  "outageCount": 14,
   "outages": [
     {
       "date": "Le jeudi 16 juillet 2026 de  08:30:00 à  16:30:00",
@@ -113,6 +113,16 @@
       "from": "2026-07-16T05:00:00.000Z",
       "to": "2026-07-16T09:30:00.000Z",
       "id": "9d11d660985b9aba1a763674212e364d"
+    },
+    {
+      "date": "Le jeudi 16 juillet 2026 de  20:50:00 à  01:00:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "Royal,Pave,Jugnauth Roads",
+      "district": "rivieredurempart",
+      "from": "2026-07-16T16:50:00.000Z",
+      "to": "2026-07-15T21:00:00.000Z",
+      "id": "54f3337d1a2f838629d3e00196c5e882"
     },
     {
       "date": "Le jeudi 16 juillet 2026 de  09:00:00 à  16:00:00",
