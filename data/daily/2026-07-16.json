@@ -1,8 +1,8 @@
 {
   "date": "2026-07-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-16T09:37:42.562Z",
-  "outageCount": 9,
+  "generated": "2026-07-16T10:35:57.428Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le jeudi 16 juillet 2026 de  08:30:00 à  16:30:00",
@@ -63,6 +63,16 @@
       "from": "2026-07-16T04:30:00.000Z",
       "to": "2026-07-16T11:30:00.000Z",
       "id": "37c9b53eb99aa49f3343776d71f33ec2"
+    },
+    {
+      "date": "Le jeudi 16 juillet 2026 de  14:30:00 à  15:30:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "AVENUE THEVENEAU ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2026-07-16T10:30:00.000Z",
+      "to": "2026-07-16T11:30:00.000Z",
+      "id": "923388adb4597653be4c986987047f6f"
     },
     {
       "date": "Le jeudi 16 juillet 2026 de  09:00:00 à  13:30:00",

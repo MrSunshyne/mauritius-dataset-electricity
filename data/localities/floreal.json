@@ -2,11 +2,18 @@
   "slug": "floreal",
   "name": "FLOREAL",
   "district": "plainewilhems",
-  "generated": "2026-07-16T09:37:42.604Z",
-  "outageCount": 91,
+  "generated": "2026-07-16T10:35:57.476Z",
+  "outageCount": 92,
   "firstOutage": "2022-03-31",
-  "lastOutage": "2026-05-22",
+  "lastOutage": "2026-07-16",
   "outages": [
+    {
+      "date": "Le jeudi 16 juillet 2026 de  14:30:00 à  15:30:00",
+      "streets": "AVENUE THEVENEAU ET LES ALENTOURS",
+      "from": "2026-07-16T10:30:00.000Z",
+      "to": "2026-07-16T11:30:00.000Z",
+      "id": "923388adb4597653be4c986987047f6f"
+    },
     {
       "date": "Le vendredi 22 mai 2026 de  20:50:00 à  22:50:00",
       "streets": "HANOOMANJEE LANE,DAIRY LANE AND NEARBY REGION",
