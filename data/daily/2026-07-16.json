@@ -1,8 +1,8 @@
 {
   "date": "2026-07-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-15T18:20:41.565Z",
-  "outageCount": 6,
+  "generated": "2026-07-16T06:44:28.008Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le jeudi 16 juillet 2026 de  08:30:00 à  16:30:00",
@@ -23,6 +23,26 @@
       "from": "2026-07-16T05:00:00.000Z",
       "to": "2026-07-16T11:00:00.000Z",
       "id": "0c38a71ed421dc0312db5fef30f95bf9"
+    },
+    {
+      "date": "Le jeudi 16 juillet 2026 de  09:00:00 à  12:00:00",
+      "locality": "CAMP THOREL",
+      "localitySlug": "camp-thorel",
+      "streets": "Camp Thorel near Luckhoo Road.",
+      "district": "moka",
+      "from": "2026-07-16T05:00:00.000Z",
+      "to": "2026-07-16T08:00:00.000Z",
+      "id": "02f911af021b9e34b1cfa1e44265f2c1"
+    },
+    {
+      "date": "Le jeudi 16 juillet 2026 de  09:30:00 à  11:30:00",
+      "locality": "BOIS MANGUES",
+      "localitySlug": "bois-mangues",
+      "streets": "morc vrs",
+      "district": "pamplemousses",
+      "from": "2026-07-16T05:30:00.000Z",
+      "to": "2026-07-16T07:30:00.000Z",
+      "id": "83abef343e70ca0cc251b71c6f89d5a6"
     },
     {
       "date": "Le jeudi 16 juillet 2026 de  08:30:00 à  15:30:00",

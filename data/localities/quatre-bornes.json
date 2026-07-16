@@ -2,11 +2,25 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-07-15T18:20:41.672Z",
-  "outageCount": 393,
+  "generated": "2026-07-16T06:44:28.123Z",
+  "outageCount": 395,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-07-15",
+  "lastOutage": "2026-07-19",
   "outages": [
+    {
+      "date": "Le dimanche 19 juillet 2026 de  09:00:00 à  15:00:00",
+      "streets": "En partie Royal Road, Belle Rose, de Caen et les environs",
+      "from": "2026-07-19T05:00:00.000Z",
+      "to": "2026-07-19T11:00:00.000Z",
+      "id": "fa065fa14ffd80797b2ba41dd3955bba"
+    },
+    {
+      "date": "Le dimanche 19 juillet 2026 de  08:30:00 à  15:00:00",
+      "streets": "Ave Wilson, en partie Ave Beau-Sejour, Colville, de la Faye, Poivre, Lapeyrousse et les environs",
+      "from": "2026-07-19T04:30:00.000Z",
+      "to": "2026-07-19T11:00:00.000Z",
+      "id": "d0b5ad80394ced073b34ec8ae25bdbe1"
+    },
     {
       "date": "Le mercredi 15 juillet 2026 de  09:00:00 à  17:00:00",
       "streets": "George Town Bldg & Surroundings",

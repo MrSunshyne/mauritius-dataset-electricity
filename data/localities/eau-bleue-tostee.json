@@ -2,11 +2,18 @@
   "slug": "eau-bleue-tostee",
   "name": "EAU BLEUE TOSTEE",
   "district": "grandport",
-  "generated": "2026-07-15T18:20:41.619Z",
-  "outageCount": 3,
+  "generated": "2026-07-16T06:44:28.069Z",
+  "outageCount": 4,
   "firstOutage": "2023-08-29",
-  "lastOutage": "2026-03-09",
+  "lastOutage": "2026-07-20",
   "outages": [
+    {
+      "date": "Le lundi 20 juillet 2026 de  08:30:00 à  15:00:00",
+      "streets": "Eau Bleu Tostée et CWA Pumping Station/Reservoir Cluny",
+      "from": "2026-07-20T04:30:00.000Z",
+      "to": "2026-07-20T11:00:00.000Z",
+      "id": "2d306789308a5182f3bf30511a332cf6"
+    },
     {
       "date": "Le lundi 9 mars 2026 de  09:00:00 à  15:00:00",
       "streets": "Eau Bleu Tostée Cluny, CWA Cluny (Reservoir & Pompe)",

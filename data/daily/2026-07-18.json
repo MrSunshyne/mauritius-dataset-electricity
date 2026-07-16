@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-18",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-07-16T06:44:28.008Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le samedi 18 juillet 2026 de  11:00:00 à  15:00:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "une partie de Royal rd",
+      "district": "plainewilhems",
+      "from": "2026-07-18T07:00:00.000Z",
+      "to": "2026-07-18T11:00:00.000Z",
+      "id": "d7fa9f933d51ba2401f9ed7a1579b3fd"
+    },
+    {
+      "date": "Le samedi 18 juillet 2026 de  08:30:00 à  12:00:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "une partie de Bassin road, et une partie de Oodally road,",
+      "district": "plainewilhems",
+      "from": "2026-07-18T04:30:00.000Z",
+      "to": "2026-07-18T08:00:00.000Z",
+      "id": "cf0af4ad78ec6884bd6fddfb40dfe732"
+    }
+  ]
+}

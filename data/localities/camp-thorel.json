@@ -2,11 +2,18 @@
   "slug": "camp-thorel",
   "name": "CAMP THOREL",
   "district": "moka",
-  "generated": "2026-07-15T18:20:41.602Z",
-  "outageCount": 21,
+  "generated": "2026-07-16T06:44:28.051Z",
+  "outageCount": 22,
   "firstOutage": "2022-05-06",
-  "lastOutage": "2026-07-04",
+  "lastOutage": "2026-07-16",
   "outages": [
+    {
+      "date": "Le jeudi 16 juillet 2026 de  09:00:00 à  12:00:00",
+      "streets": "Camp Thorel near Luckhoo Road.",
+      "from": "2026-07-16T05:00:00.000Z",
+      "to": "2026-07-16T08:00:00.000Z",
+      "id": "02f911af021b9e34b1cfa1e44265f2c1"
+    },
     {
       "date": "Le samedi 4 juillet 2026 de  18:00:00 à  22:00:00",
       "streets": "MATTAROOA ROAD & SURROUNDINGS",

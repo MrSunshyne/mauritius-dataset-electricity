@@ -2,11 +2,32 @@
   "slug": "highlands",
   "name": "HIGHLANDS",
   "district": "plainewilhems",
-  "generated": "2026-07-15T18:20:41.631Z",
-  "outageCount": 77,
+  "generated": "2026-07-16T06:44:28.082Z",
+  "outageCount": 80,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2026-07-09",
+  "lastOutage": "2026-07-19",
   "outages": [
+    {
+      "date": "Le dimanche 19 juillet 2026 de  08:30:00 à  14:00:00",
+      "streets": "Morc Omnicane",
+      "from": "2026-07-19T04:30:00.000Z",
+      "to": "2026-07-19T10:00:00.000Z",
+      "id": "128f6af6a47c3001568b9bcf38fe9ec9"
+    },
+    {
+      "date": "Le samedi 18 juillet 2026 de  11:00:00 à  15:00:00",
+      "streets": "une partie de Royal rd",
+      "from": "2026-07-18T07:00:00.000Z",
+      "to": "2026-07-18T11:00:00.000Z",
+      "id": "d7fa9f933d51ba2401f9ed7a1579b3fd"
+    },
+    {
+      "date": "Le samedi 18 juillet 2026 de  08:30:00 à  12:00:00",
+      "streets": "une partie de Bassin road, et une partie de Oodally road,",
+      "from": "2026-07-18T04:30:00.000Z",
+      "to": "2026-07-18T08:00:00.000Z",
+      "id": "cf0af4ad78ec6884bd6fddfb40dfe732"
+    },
     {
       "date": "Le jeudi 9 juillet 2026 de  12:00:00 à  14:00:00",
       "streets": "Morc MTMD, Morc Val D’oise, Morc Blueprint, Morc Purmessur, Morc Omnicane, Morc VRS Belle Terre, NHDC highlands, Cite 50, Bassin road,  Boundary, Rd Railway Rd, Dispensary Rd, Nadess Rd, Phael Rd, Campement Rd,  une partie de Tout Court road et, Owadally road",

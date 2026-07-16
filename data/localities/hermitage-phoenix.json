@@ -2,11 +2,18 @@
   "slug": "hermitage-phoenix",
   "name": "HERMITAGE PHOENIX",
   "district": "plainewilhems",
-  "generated": "2026-07-15T18:20:41.631Z",
-  "outageCount": 29,
+  "generated": "2026-07-16T06:44:28.082Z",
+  "outageCount": 30,
   "firstOutage": "2022-09-10",
-  "lastOutage": "2026-03-14",
+  "lastOutage": "2026-07-19",
   "outages": [
+    {
+      "date": "Le dimanche 19 juillet 2026 de  08:30:00 à  17:00:00",
+      "streets": "Morc Domah, Morc Fareedun, Belle Rive Road, Anwar-E-Qouba Road, Terre Rouge Road, une partie de Hermitage Road et Cinq Arpent Road",
+      "from": "2026-07-19T04:30:00.000Z",
+      "to": "2026-07-19T13:00:00.000Z",
+      "id": "1cd63504338ef6d4513fc9932ec0e988"
+    },
     {
       "date": "Le samedi 14 mars 2026 de  09:00:00 à  16:00:00",
       "streets": "Morc. Blueprint Plaine des Hermitages, Morc. VRS Plaine Des Hermitages, Avenue Paille en Queue et Avenue Bulbul",

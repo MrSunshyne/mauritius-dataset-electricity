@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15T18:20:41.702Z",
+  "generated": "2026-07-16T06:44:28.156Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -547,10 +547,10 @@
       "slug": "bois-mangues",
       "name": "BOIS MANGUES",
       "district": "pamplemousses",
-      "outageCount": 4,
+      "outageCount": 5,
       "file": "bois-mangues.json",
       "firstOutage": "2024-07-07",
-      "lastOutage": "2026-07-06"
+      "lastOutage": "2026-07-16"
     },
     {
       "slug": "bois-marchand",
@@ -853,10 +853,10 @@
       "slug": "camp-thorel",
       "name": "CAMP THOREL",
       "district": "moka",
-      "outageCount": 21,
+      "outageCount": 22,
       "file": "camp-thorel.json",
       "firstOutage": "2022-05-06",
-      "lastOutage": "2026-07-04"
+      "lastOutage": "2026-07-16"
     },
     {
       "slug": "camp-yoloff",
@@ -1375,10 +1375,10 @@
       "slug": "eau-bleue-tostee",
       "name": "EAU BLEUE TOSTEE",
       "district": "grandport",
-      "outageCount": 3,
+      "outageCount": 4,
       "file": "eau-bleue-tostee.json",
       "firstOutage": "2023-08-29",
-      "lastOutage": "2026-03-09"
+      "lastOutage": "2026-07-20"
     },
     {
       "slug": "eau-bonne",
@@ -1762,19 +1762,19 @@
       "slug": "hermitage-phoenix",
       "name": "HERMITAGE PHOENIX",
       "district": "plainewilhems",
-      "outageCount": 29,
+      "outageCount": 30,
       "file": "hermitage-phoenix.json",
       "firstOutage": "2022-09-10",
-      "lastOutage": "2026-03-14"
+      "lastOutage": "2026-07-19"
     },
     {
       "slug": "highlands",
       "name": "HIGHLANDS",
       "district": "plainewilhems",
-      "outageCount": 77,
+      "outageCount": 80,
       "file": "highlands.json",
       "firstOutage": "2022-04-13",
-      "lastOutage": "2026-07-09"
+      "lastOutage": "2026-07-19"
     },
     {
       "slug": "hollyrood",
@@ -3175,10 +3175,10 @@
       "slug": "quatre-bornes",
       "name": "QUATRE-BORNES",
       "district": "plainewilhems",
-      "outageCount": 393,
+      "outageCount": 395,
       "file": "quatre-bornes.json",
       "firstOutage": "2022-04-01",
-      "lastOutage": "2026-07-15"
+      "lastOutage": "2026-07-19"
     },
     {
       "slug": "quatre-carreaux",
