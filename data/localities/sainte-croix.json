@@ -2,11 +2,18 @@
   "slug": "sainte-croix",
   "name": "SAINTE CROIX",
   "district": "portlouis",
-  "generated": "2026-07-16T11:29:23.663Z",
-  "outageCount": 81,
+  "generated": "2026-07-16T12:27:13.767Z",
+  "outageCount": 82,
   "firstOutage": "2022-04-26",
-  "lastOutage": "2026-07-09",
+  "lastOutage": "2026-07-16",
   "outages": [
+    {
+      "date": "Le jeudi 16 juillet 2026 de  16:00:00 à  17:45:00",
+      "streets": "LECORNU, ST GABRIEL & SURROUNDINGS",
+      "from": "2026-07-16T12:00:00.000Z",
+      "to": "2026-07-16T13:45:00.000Z",
+      "id": "b29481f2426a4d7ab59c0d5591ea1095"
+    },
     {
       "date": "Le jeudi 9 juillet 2026 de  10:45:00 à  13:00:00",
       "streets": "Pieton Pere Laval",

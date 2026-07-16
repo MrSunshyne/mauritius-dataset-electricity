@@ -2,11 +2,18 @@
   "slug": "union",
   "name": "UNION",
   "district": "portlouis",
-  "generated": "2026-07-16T11:29:23.674Z",
-  "outageCount": 2,
+  "generated": "2026-07-16T12:27:13.777Z",
+  "outageCount": 3,
   "firstOutage": "2024-07-26",
-  "lastOutage": "2025-07-13",
+  "lastOutage": "2026-07-16",
   "outages": [
+    {
+      "date": "Le jeudi 16 juillet 2026 de  16:00:00 à  17:00:00",
+      "streets": "PART OF UNION",
+      "from": "2026-07-16T12:00:00.000Z",
+      "to": "2026-07-16T13:00:00.000Z",
+      "id": "8de52a19025fce6cb5340561cddd0fbd"
+    },
     {
       "date": "Le dimanche 13 juillet 2025 de  15:30:00 à  16:30:00",
       "streets": "PART OF UNION",

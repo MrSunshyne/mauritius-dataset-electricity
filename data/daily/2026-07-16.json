@@ -1,8 +1,8 @@
 {
   "date": "2026-07-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-16T11:29:23.528Z",
-  "outageCount": 10,
+  "generated": "2026-07-16T12:27:13.637Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le jeudi 16 juillet 2026 de  08:30:00 à  16:30:00",
@@ -55,14 +55,14 @@
       "id": "9240ff3a33a143480d1862020e63f11d"
     },
     {
-      "date": "Le jeudi 16 juillet 2026 de  08:30:00 à  15:30:00",
+      "date": "Le jeudi 16 juillet 2026 de  08:30:00 à  16:30:00",
       "locality": "CITE CHEBEL",
       "localitySlug": "cite-chebel",
       "streets": "Residence Chebeque, Centre Municipale, Sir Gaetan Duval, Residence Lotus et les environs",
       "district": "plainewilhems",
       "from": "2026-07-16T04:30:00.000Z",
-      "to": "2026-07-16T11:30:00.000Z",
-      "id": "37c9b53eb99aa49f3343776d71f33ec2"
+      "to": "2026-07-16T12:30:00.000Z",
+      "id": "7e7d2c2ede6f24ad58c422e39d89d854"
     },
     {
       "date": "Le jeudi 16 juillet 2026 de  14:30:00 à  15:30:00",
@@ -73,6 +73,26 @@
       "from": "2026-07-16T10:30:00.000Z",
       "to": "2026-07-16T11:30:00.000Z",
       "id": "923388adb4597653be4c986987047f6f"
+    },
+    {
+      "date": "Le jeudi 16 juillet 2026 de  16:00:00 à  17:45:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "LECORNU, ST GABRIEL & SURROUNDINGS",
+      "district": "portlouis",
+      "from": "2026-07-16T12:00:00.000Z",
+      "to": "2026-07-16T13:45:00.000Z",
+      "id": "b29481f2426a4d7ab59c0d5591ea1095"
+    },
+    {
+      "date": "Le jeudi 16 juillet 2026 de  16:00:00 à  17:00:00",
+      "locality": "UNION",
+      "localitySlug": "union",
+      "streets": "PART OF UNION",
+      "district": "portlouis",
+      "from": "2026-07-16T12:00:00.000Z",
+      "to": "2026-07-16T13:00:00.000Z",
+      "id": "8de52a19025fce6cb5340561cddd0fbd"
     },
     {
       "date": "Le jeudi 16 juillet 2026 de  09:00:00 à  13:30:00",

@@ -1,8 +1,8 @@
 {
   "date": "2026-07-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-16T11:29:23.528Z",
-  "outageCount": 1,
+  "generated": "2026-07-16T12:27:13.637Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le lundi 20 juillet 2026 de  08:30:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-07-20T04:30:00.000Z",
       "to": "2026-07-20T11:00:00.000Z",
       "id": "2d306789308a5182f3bf30511a332cf6"
+    },
+    {
+      "date": "Le lundi 20 juillet 2026 de  08:30:00 à  16:00:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "Mahebourg habitant dans le périmètre et les rues suivantes: Rue Souffleur, Rue de Colonie, Rue Maurice, Rue Bouchon, Rue La Chaux, Rue Hangar, Rue Chaland et les rues avoisinantes",
+      "district": "grandport",
+      "from": "2026-07-20T04:30:00.000Z",
+      "to": "2026-07-20T12:00:00.000Z",
+      "id": "6c49a18d8789bc3266f904fb08b02900"
     }
   ]
 }
