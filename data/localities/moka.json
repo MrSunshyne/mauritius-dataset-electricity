@@ -2,11 +2,18 @@
   "slug": "moka",
   "name": "MOKA",
   "district": "moka",
-  "generated": "2026-07-16T06:44:28.098Z",
-  "outageCount": 72,
+  "generated": "2026-07-16T07:38:22.572Z",
+  "outageCount": 73,
   "firstOutage": "2022-06-13",
-  "lastOutage": "2026-06-09",
+  "lastOutage": "2026-07-18",
   "outages": [
+    {
+      "date": "Le samedi 18 juillet 2026 de  08:30:00 à  15:00:00",
+      "streets": "Charles Telfair, Gentilly Estate, CWA Minissy, CWA Camp Auguste et Avipro Minissy",
+      "from": "2026-07-18T04:30:00.000Z",
+      "to": "2026-07-18T11:00:00.000Z",
+      "id": "c7b5a2cee4ec93bcbd50380fe24099ef"
+    },
     {
       "date": "Le mardi 9 juin 2026 de  14:00:00 à  17:00:00",
       "streets": "CHARLES TELFAIR, LA POMPE MINISSY ET LES ALENTOURS",

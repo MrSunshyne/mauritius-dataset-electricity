@@ -1,9 +1,19 @@
 {
   "date": "2026-07-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-16T06:44:28.008Z",
-  "outageCount": 2,
+  "generated": "2026-07-16T07:38:22.481Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le samedi 18 juillet 2026 de  08:30:00 à  15:00:00",
+      "locality": "MOKA",
+      "localitySlug": "moka",
+      "streets": "Charles Telfair, Gentilly Estate, CWA Minissy, CWA Camp Auguste et Avipro Minissy",
+      "district": "moka",
+      "from": "2026-07-18T04:30:00.000Z",
+      "to": "2026-07-18T11:00:00.000Z",
+      "id": "c7b5a2cee4ec93bcbd50380fe24099ef"
+    },
     {
       "date": "Le samedi 18 juillet 2026 de  11:00:00 à  15:00:00",
       "locality": "HIGHLANDS",
@@ -23,6 +33,16 @@
       "from": "2026-07-18T04:30:00.000Z",
       "to": "2026-07-18T08:00:00.000Z",
       "id": "cf0af4ad78ec6884bd6fddfb40dfe732"
+    },
+    {
+      "date": "Le samedi 18 juillet 2026 de  08:30:00 à  15:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "En Partie Ave Berthaud, en partie Ave C. Antelme, en partie Ave Ollier, Ave Rotin 1 et les environs",
+      "district": "plainewilhems",
+      "from": "2026-07-18T04:30:00.000Z",
+      "to": "2026-07-18T11:00:00.000Z",
+      "id": "706503522b7e1edda93429c3fd6411d7"
     }
   ]
 }

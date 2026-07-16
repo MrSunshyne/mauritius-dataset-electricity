@@ -2,11 +2,18 @@
   "slug": "saint-pierre",
   "name": "SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-07-16T06:44:28.138Z",
-  "outageCount": 78,
+  "generated": "2026-07-16T07:38:22.617Z",
+  "outageCount": 79,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-07-14",
+  "lastOutage": "2026-07-19",
   "outages": [
+    {
+      "date": "Le dimanche 19 juillet 2026 de  08:30:00 à  15:00:00",
+      "streets": "Petit Verger, Bois Cherie Rd, Riv Baptiste, Le Pouce Rd, School Lane, en partie St Pierre Village et Eglise St Pierre",
+      "from": "2026-07-19T04:30:00.000Z",
+      "to": "2026-07-19T11:00:00.000Z",
+      "id": "a176095b639d4cf2934e804239f71f78"
+    },
     {
       "date": "Le mardi 14 juillet 2026 de  13:00:00 à  16:30:00",
       "streets": "SAINTE CATHERINE",

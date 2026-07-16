@@ -1,8 +1,8 @@
 {
   "date": "2026-07-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-16T06:44:28.008Z",
-  "outageCount": 8,
+  "generated": "2026-07-16T07:38:22.481Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le jeudi 16 juillet 2026 de  08:30:00 à  16:30:00",
@@ -43,6 +43,16 @@
       "from": "2026-07-16T05:30:00.000Z",
       "to": "2026-07-16T07:30:00.000Z",
       "id": "83abef343e70ca0cc251b71c6f89d5a6"
+    },
+    {
+      "date": "Le jeudi 16 juillet 2026 de  11:30:00 à  13:30:00",
+      "locality": "NOTRE DAME",
+      "localitySlug": "notre-dame",
+      "streets": "CHEMIN LA GARE,ROYAL RD NEAR COMMUNITY CENTRE,NHDC",
+      "district": "pamplemousses",
+      "from": "2026-07-16T07:30:00.000Z",
+      "to": "2026-07-16T09:30:00.000Z",
+      "id": "9240ff3a33a143480d1862020e63f11d"
     },
     {
       "date": "Le jeudi 16 juillet 2026 de  08:30:00 à  15:30:00",
