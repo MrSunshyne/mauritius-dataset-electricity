@@ -2,11 +2,18 @@
   "slug": "long-mountain",
   "name": "LONG MOUNTAIN",
   "district": "pamplemousses",
-  "generated": "2026-07-17T16:24:16.458Z",
-  "outageCount": 31,
+  "generated": "2026-07-17T17:22:31.948Z",
+  "outageCount": 32,
   "firstOutage": "2022-05-26",
-  "lastOutage": "2026-06-28",
+  "lastOutage": "2026-07-17",
   "outages": [
+    {
+      "date": "Le vendredi 17 juillet 2026 de  19:45:00 à  23:45:00",
+      "streets": "ROYAL ROAD, RAILWAY ROAD ET DANS LES ENVIRONS MINI MARKET ROSHAN.",
+      "from": "2026-07-17T15:45:00.000Z",
+      "to": "2026-07-17T19:45:00.000Z",
+      "id": "992876b414c070cf7fb60f0e7cd25e78"
+    },
     {
       "date": "Le dimanche 28 juin 2026 de  08:45:00 à  13:00:00",
       "streets": "VICTORIA ROAD-VALTON MONTAGNE LONGUE",

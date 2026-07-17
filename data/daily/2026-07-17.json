@@ -1,8 +1,8 @@
 {
   "date": "2026-07-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-17T16:24:16.375Z",
-  "outageCount": 6,
+  "generated": "2026-07-17T17:22:31.860Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le vendredi 17 juillet 2026 de  10:40:00 à  11:45:00",
@@ -43,6 +43,16 @@
       "from": "2026-07-17T14:00:00.000Z",
       "to": "2026-07-17T17:00:00.000Z",
       "id": "ddc17991e91fb6713d5837836c46afdb"
+    },
+    {
+      "date": "Le vendredi 17 juillet 2026 de  19:45:00 à  23:45:00",
+      "locality": "LONG MOUNTAIN",
+      "localitySlug": "long-mountain",
+      "streets": "ROYAL ROAD, RAILWAY ROAD ET DANS LES ENVIRONS MINI MARKET ROSHAN.",
+      "district": "pamplemousses",
+      "from": "2026-07-17T15:45:00.000Z",
+      "to": "2026-07-17T19:45:00.000Z",
+      "id": "992876b414c070cf7fb60f0e7cd25e78"
     },
     {
       "date": "Le vendredi 17 juillet 2026 de  14:45:00 à  16:15:00",
