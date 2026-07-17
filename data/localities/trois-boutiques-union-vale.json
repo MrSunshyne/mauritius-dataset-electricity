@@ -2,11 +2,18 @@
   "slug": "trois-boutiques-union-vale",
   "name": "TROIS BOUTIQUES UNION VALE",
   "district": "grandport",
-  "generated": "2026-07-17T07:37:15.669Z",
-  "outageCount": 15,
+  "generated": "2026-07-17T08:40:00.579Z",
+  "outageCount": 16,
   "firstOutage": "2022-05-12",
-  "lastOutage": "2025-12-17",
+  "lastOutage": "2026-07-17",
   "outages": [
+    {
+      "date": "Le vendredi 17 juillet 2026 de  12:00:00 à  14:00:00",
+      "streets": "TEMPLE ROAD BABOOLALL STREET TROIS BOUTIQUES UNION VALE",
+      "from": "2026-07-17T08:00:00.000Z",
+      "to": "2026-07-17T10:00:00.000Z",
+      "id": "7939d7f1f3843441dadee261b331f8ce"
+    },
     {
       "date": "Le mercredi 17 décembre 2025 de  09:50:00 à  11:30:00",
       "streets": "TROIS BOUTIQUES VILLAGE TOWARDS SOUILLAC",

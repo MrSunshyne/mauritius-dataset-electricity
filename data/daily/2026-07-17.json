@@ -1,8 +1,8 @@
 {
   "date": "2026-07-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-17T07:37:15.522Z",
-  "outageCount": 2,
+  "generated": "2026-07-17T08:40:00.434Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le vendredi 17 juillet 2026 de  10:40:00 à  11:45:00",
@@ -13,6 +13,16 @@
       "from": "2026-07-17T06:40:00.000Z",
       "to": "2026-07-17T07:45:00.000Z",
       "id": "72b3ac54b0cc59c5eb4da7d12a8c1a47"
+    },
+    {
+      "date": "Le vendredi 17 juillet 2026 de  12:00:00 à  14:00:00",
+      "locality": "TROIS BOUTIQUES UNION VALE",
+      "localitySlug": "trois-boutiques-union-vale",
+      "streets": "TEMPLE ROAD BABOOLALL STREET TROIS BOUTIQUES UNION VALE",
+      "district": "grandport",
+      "from": "2026-07-17T08:00:00.000Z",
+      "to": "2026-07-17T10:00:00.000Z",
+      "id": "7939d7f1f3843441dadee261b331f8ce"
     },
     {
       "date": "Le vendredi 17 juillet 2026 de  09:55:00 à  13:00:00",
