@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-07-17T10:30:35.844Z",
-  "outageCount": 227,
+  "generated": "2026-07-17T11:27:24.125Z",
+  "outageCount": 228,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-07-14",
+  "lastOutage": "2026-07-17",
   "outages": [
+    {
+      "date": "Le vendredi 17 juillet 2026 de  14:45:00 à  16:15:00",
+      "streets": "RUE LEES EN DIRECTION FLAT MESNIL ET LES ALENTOURS.",
+      "from": "2026-07-17T10:45:00.000Z",
+      "to": "2026-07-17T12:15:00.000Z",
+      "id": "b3aeb4075b0127f5b74b5641550a9c49"
+    },
     {
       "date": "Le mardi 14 juillet 2026 de  11:45:00 à  13:15:00",
       "streets": "D-EPINAY ST,LAPEROUSSE ST,STIRLING ST",

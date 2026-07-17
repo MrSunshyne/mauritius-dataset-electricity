@@ -1,8 +1,8 @@
 {
   "date": "2026-07-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-17T10:30:35.790Z",
-  "outageCount": 4,
+  "generated": "2026-07-17T11:27:24.069Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le vendredi 17 juillet 2026 de  10:40:00 à  11:45:00",
@@ -33,6 +33,16 @@
       "from": "2026-07-17T08:30:00.000Z",
       "to": "2026-07-17T15:00:00.000Z",
       "id": "f9c5681ca532b103f2b269dd34257cf5"
+    },
+    {
+      "date": "Le vendredi 17 juillet 2026 de  14:45:00 à  16:15:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "RUE LEES EN DIRECTION FLAT MESNIL ET LES ALENTOURS.",
+      "district": "plainewilhems",
+      "from": "2026-07-17T10:45:00.000Z",
+      "to": "2026-07-17T12:15:00.000Z",
+      "id": "b3aeb4075b0127f5b74b5641550a9c49"
     },
     {
       "date": "Le vendredi 17 juillet 2026 de  09:55:00 à  13:00:00",
