@@ -1,8 +1,8 @@
 {
   "date": "2026-07-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-16T18:21:09.016Z",
-  "outageCount": 8,
+  "generated": "2026-07-17T06:43:10.247Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le dimanche 19 juillet 2026 de  08:30:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-07-19T04:30:00.000Z",
       "to": "2026-07-19T11:00:00.000Z",
       "id": "a176095b639d4cf2934e804239f71f78"
+    },
+    {
+      "date": "Le dimanche 19 juillet 2026 de  08:30:00 à  14:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "Dans les environs de Morc Coprim, Morc Concorde, Morc La Cocheyle, Residence Florida, Land Settlement, Saint Joseph Road et une partie de la route cotiere",
+      "district": "pamplemousses",
+      "from": "2026-07-19T04:30:00.000Z",
+      "to": "2026-07-19T10:00:00.000Z",
+      "id": "eeb149103dfadd8c0f50ee6282c4d69c"
     },
     {
       "date": "Le dimanche 19 juillet 2026 de  08:30:00 à  16:00:00",

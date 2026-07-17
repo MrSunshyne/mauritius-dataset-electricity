@@ -2,11 +2,18 @@
   "slug": "grand-bay",
   "name": "GRAND BAY",
   "district": "rivieredurempart",
-  "generated": "2026-07-16T18:21:09.061Z",
-  "outageCount": 117,
+  "generated": "2026-07-17T06:43:10.304Z",
+  "outageCount": 118,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-07-02",
+  "lastOutage": "2026-07-17",
   "outages": [
+    {
+      "date": "Le vendredi 17 juillet 2026 de  09:55:00 à  13:00:00",
+      "streets": "COASTAL ROAD DANS LES ALENTOURS DE VERANDA HOTEL, SUNSET BLVD",
+      "from": "2026-07-17T05:55:00.000Z",
+      "to": "2026-07-17T09:00:00.000Z",
+      "id": "48967b1fead2c852b28999a411da932c"
+    },
     {
       "date": "Le jeudi 2 juillet 2026 de  13:45:00 à  15:15:00",
       "streets": "Chemin 20 pieds",

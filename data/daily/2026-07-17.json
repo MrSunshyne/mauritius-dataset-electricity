@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-17",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-07-17T06:43:10.247Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le vendredi 17 juillet 2026 de  10:40:00 à  11:45:00",
+      "locality": "LA GAULETTE",
+      "localitySlug": "la-gaulette",
+      "streets": "LA GAULETTE",
+      "district": "blackriver",
+      "from": "2026-07-17T06:40:00.000Z",
+      "to": "2026-07-17T07:45:00.000Z",
+      "id": "72b3ac54b0cc59c5eb4da7d12a8c1a47"
+    },
+    {
+      "date": "Le vendredi 17 juillet 2026 de  09:55:00 à  13:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "COASTAL ROAD DANS LES ALENTOURS DE VERANDA HOTEL, SUNSET BLVD",
+      "district": "rivieredurempart",
+      "from": "2026-07-17T05:55:00.000Z",
+      "to": "2026-07-17T09:00:00.000Z",
+      "id": "48967b1fead2c852b28999a411da932c"
+    }
+  ]
+}

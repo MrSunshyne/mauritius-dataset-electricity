@@ -2,11 +2,18 @@
   "slug": "la-gaulette",
   "name": "LA GAULETTE",
   "district": "blackriver",
-  "generated": "2026-07-16T18:21:09.066Z",
-  "outageCount": 14,
+  "generated": "2026-07-17T06:43:10.312Z",
+  "outageCount": 15,
   "firstOutage": "2022-07-20",
-  "lastOutage": "2026-05-07",
+  "lastOutage": "2026-07-17",
   "outages": [
+    {
+      "date": "Le vendredi 17 juillet 2026 de  10:40:00 à  11:45:00",
+      "streets": "LA GAULETTE",
+      "from": "2026-07-17T06:40:00.000Z",
+      "to": "2026-07-17T07:45:00.000Z",
+      "id": "72b3ac54b0cc59c5eb4da7d12a8c1a47"
+    },
     {
       "date": "Le jeudi 7 mai 2026 de  10:10:00 à  12:15:00",
       "streets": "LA GAULETTE",
