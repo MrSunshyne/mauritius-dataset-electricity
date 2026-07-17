@@ -1,8 +1,8 @@
 {
   "date": "2026-07-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-17T17:22:31.860Z",
-  "outageCount": 7,
+  "generated": "2026-07-17T18:18:40.087Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le vendredi 17 juillet 2026 de  10:40:00 à  11:45:00",
@@ -63,6 +63,16 @@
       "from": "2026-07-17T10:45:00.000Z",
       "to": "2026-07-17T12:15:00.000Z",
       "id": "b3aeb4075b0127f5b74b5641550a9c49"
+    },
+    {
+      "date": "Le vendredi 17 juillet 2026 de  21:50:00 à  01:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "CITE MARTIAL, ALFRED GELLE ST, RUE MALAKA, IMPASS MACAO & SURROUNDINGS",
+      "district": "portlouis",
+      "from": "2026-07-17T17:50:00.000Z",
+      "to": "2026-07-16T21:00:00.000Z",
+      "id": "ddf10f6edf73724eb18812b3b3725ccc"
     },
     {
       "date": "Le vendredi 17 juillet 2026 de  09:55:00 à  13:00:00",

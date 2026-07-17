@@ -2,11 +2,18 @@
   "slug": "port-louis",
   "name": "PORT-LOUIS",
   "district": "portlouis",
-  "generated": "2026-07-17T17:22:31.978Z",
-  "outageCount": 127,
+  "generated": "2026-07-17T18:18:40.194Z",
+  "outageCount": 128,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-06-26",
+  "lastOutage": "2026-07-17",
   "outages": [
+    {
+      "date": "Le vendredi 17 juillet 2026 de  21:50:00 à  01:00:00",
+      "streets": "CITE MARTIAL, ALFRED GELLE ST, RUE MALAKA, IMPASS MACAO & SURROUNDINGS",
+      "from": "2026-07-17T17:50:00.000Z",
+      "to": "2026-07-16T21:00:00.000Z",
+      "id": "ddf10f6edf73724eb18812b3b3725ccc"
+    },
     {
       "date": "Le vendredi 26 juin 2026 de  20:45:00 à  00:00:00",
       "streets": "Poudriere Street, Pope Hennesy Street, Mayor Street, Mgr Gonin, Eugene Laurent Street, Church Street, Wellington Street, St George Street, Champ De LOr Street, St Denis Street, Baden Powell Street",
