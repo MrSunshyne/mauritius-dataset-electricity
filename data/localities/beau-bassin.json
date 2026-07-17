@@ -2,11 +2,25 @@
   "slug": "beau-bassin",
   "name": "BEAU BASSIN",
   "district": "plainewilhems",
-  "generated": "2026-07-17T09:31:40.307Z",
-  "outageCount": 193,
+  "generated": "2026-07-17T10:30:35.815Z",
+  "outageCount": 195,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-07-11",
+  "lastOutage": "2026-07-19",
   "outages": [
+    {
+      "date": "Le dimanche 19 juillet 2026 de  14:00:00 à  14:45:00",
+      "streets": "Ave Dr Lesur,Ave Khodabacus, Ave Raoul Philipe, Ave Maudave, Res. Vuillemin, NHDC Vuillemin, Dr Reid, Ave Mahadeo Biltoo, Ave Duperre, Ave Chateauneuf et les environs",
+      "from": "2026-07-19T10:00:00.000Z",
+      "to": "2026-07-19T10:45:00.000Z",
+      "id": "ef6817283cfffa6138c0b1ee8881a596"
+    },
+    {
+      "date": "Le dimanche 19 juillet 2026 de  08:15:00 à  09:15:00",
+      "streets": "Ave Dr Lesur,Ave Khodabacus, Ave Raoul Philipe, Ave Maudave, Res. Vuillemin, NHDC Vuillemin, Dr Reid, Ave Mahadeo Biltoo, Ave Duperre, Ave Chateauneuf et les environs",
+      "from": "2026-07-19T04:15:00.000Z",
+      "to": "2026-07-19T05:15:00.000Z",
+      "id": "6b6f03b5e3f30d5fc1e73fecd3f583f1"
+    },
     {
       "date": "Le samedi 11 juillet 2026 de  13:30:00 à  14:30:00",
       "streets": "Prison Beau-Bassin, Ave Jasmin, Ave Cosmos, Ave Barkly Asylum, Res. Barkly, La Rue Herchenroder, MOA Barkly, Piscine Serge Alfred, RYC, Verge Bissambar, Mont Roches et les environs",

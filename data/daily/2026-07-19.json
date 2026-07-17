@@ -1,8 +1,8 @@
 {
   "date": "2026-07-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-17T09:31:40.285Z",
-  "outageCount": 9,
+  "generated": "2026-07-17T10:30:35.790Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le dimanche 19 juillet 2026 de  08:30:00 à  15:00:00",
@@ -73,6 +73,26 @@
       "from": "2026-07-19T05:00:00.000Z",
       "to": "2026-07-19T11:00:00.000Z",
       "id": "fa065fa14ffd80797b2ba41dd3955bba"
+    },
+    {
+      "date": "Le dimanche 19 juillet 2026 de  14:00:00 à  14:45:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Ave Dr Lesur,Ave Khodabacus, Ave Raoul Philipe, Ave Maudave, Res. Vuillemin, NHDC Vuillemin, Dr Reid, Ave Mahadeo Biltoo, Ave Duperre, Ave Chateauneuf et les environs",
+      "district": "plainewilhems",
+      "from": "2026-07-19T10:00:00.000Z",
+      "to": "2026-07-19T10:45:00.000Z",
+      "id": "ef6817283cfffa6138c0b1ee8881a596"
+    },
+    {
+      "date": "Le dimanche 19 juillet 2026 de  08:15:00 à  09:15:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Ave Dr Lesur,Ave Khodabacus, Ave Raoul Philipe, Ave Maudave, Res. Vuillemin, NHDC Vuillemin, Dr Reid, Ave Mahadeo Biltoo, Ave Duperre, Ave Chateauneuf et les environs",
+      "district": "plainewilhems",
+      "from": "2026-07-19T04:15:00.000Z",
+      "to": "2026-07-19T05:15:00.000Z",
+      "id": "6b6f03b5e3f30d5fc1e73fecd3f583f1"
     },
     {
       "date": "Le dimanche 19 juillet 2026 de  08:30:00 à  14:00:00",

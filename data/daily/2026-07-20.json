@@ -1,8 +1,8 @@
 {
   "date": "2026-07-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-17T09:31:40.285Z",
-  "outageCount": 2,
+  "generated": "2026-07-17T10:30:35.790Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le lundi 20 juillet 2026 de  08:30:00 à  15:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-07-20T04:30:00.000Z",
       "to": "2026-07-20T12:00:00.000Z",
       "id": "6c49a18d8789bc3266f904fb08b02900"
+    },
+    {
+      "date": "Le lundi 20 juillet 2026 de  08:30:00 à  15:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "Morc Hermitage, Ave Panoma, Ave Jupiter, Ave Pluto, Ave Saturn, Ave Mars, Ave Colfin et Ave Caboche",
+      "district": "plainewilhems",
+      "from": "2026-07-20T04:30:00.000Z",
+      "to": "2026-07-20T11:00:00.000Z",
+      "id": "0983e7be404a604bc1e036e581f19282"
     }
   ]
 }

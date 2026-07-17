@@ -2,11 +2,25 @@
   "slug": "coromandel-rhill",
   "name": "COROMANDEL - R.HILL",
   "district": "plainewilhems",
-  "generated": "2026-07-17T09:31:40.334Z",
-  "outageCount": 93,
+  "generated": "2026-07-17T10:30:35.842Z",
+  "outageCount": 95,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-07-15",
+  "lastOutage": "2026-07-20",
   "outages": [
+    {
+      "date": "Le lundi 20 juillet 2026 de  08:30:00 à  15:00:00",
+      "streets": "Morc Hermitage, Ave Panoma, Ave Jupiter, Ave Pluto, Ave Saturn, Ave Mars, Ave Colfin et Ave Caboche",
+      "from": "2026-07-20T04:30:00.000Z",
+      "to": "2026-07-20T11:00:00.000Z",
+      "id": "0983e7be404a604bc1e036e581f19282"
+    },
+    {
+      "date": "Le samedi 18 juillet 2026 de  08:30:00 à  14:00:00",
+      "streets": "Morc Lising, Ave Riverside, Apartment The Verge",
+      "from": "2026-07-18T04:30:00.000Z",
+      "to": "2026-07-18T10:00:00.000Z",
+      "id": "8c7c97f7b7cd92f13cf62a6571b2dd0d"
+    },
     {
       "date": "Le mercredi 15 juillet 2026 de  15:45:00 à  18:00:00",
       "streets": "Chapman View, Ave Cerisier, Morc Montreal 1 & 2, Police Quarters et les environs",

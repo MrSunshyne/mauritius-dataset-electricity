@@ -2,11 +2,18 @@
   "slug": "le-bouchon",
   "name": "LE BOUCHON",
   "district": "grandport",
-  "generated": "2026-07-17T09:31:40.359Z",
-  "outageCount": 17,
+  "generated": "2026-07-17T10:30:35.866Z",
+  "outageCount": 18,
   "firstOutage": "2022-06-28",
-  "lastOutage": "2026-05-09",
+  "lastOutage": "2026-07-17",
   "outages": [
+    {
+      "date": "Le vendredi 17 juillet 2026 de  12:30:00 à  19:00:00",
+      "streets": "PUBLIC ROAD, DEBARCADERE ROAD, LA CAHAPELLE ROAD ET LES ALENTOURS.",
+      "from": "2026-07-17T08:30:00.000Z",
+      "to": "2026-07-17T15:00:00.000Z",
+      "id": "f9c5681ca532b103f2b269dd34257cf5"
+    },
     {
       "date": "Le samedi 9 mai 2026 de  07:00:00 à  12:00:00",
       "streets": "CHAPELLE LANE LE BOUCHON",

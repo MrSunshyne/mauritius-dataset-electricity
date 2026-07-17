@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-17T09:31:40.428Z",
+  "generated": "2026-07-17T10:30:35.928Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -286,10 +286,10 @@
       "slug": "beau-bassin",
       "name": "BEAU BASSIN",
       "district": "plainewilhems",
-      "outageCount": 193,
+      "outageCount": 195,
       "file": "beau-bassin.json",
       "firstOutage": "2022-03-25",
-      "lastOutage": "2026-07-11"
+      "lastOutage": "2026-07-19"
     },
     {
       "slug": "beau-bois",
@@ -1249,10 +1249,10 @@
       "slug": "coromandel-rhill",
       "name": "COROMANDEL - R.HILL",
       "district": "plainewilhems",
-      "outageCount": 93,
+      "outageCount": 95,
       "file": "coromandel-rhill.json",
       "firstOutage": "2022-04-08",
-      "lastOutage": "2026-07-15"
+      "lastOutage": "2026-07-20"
     },
     {
       "slug": "coromondel-ind-zone",
@@ -2068,10 +2068,10 @@
       "slug": "le-bouchon",
       "name": "LE BOUCHON",
       "district": "grandport",
-      "outageCount": 17,
+      "outageCount": 18,
       "file": "le-bouchon.json",
       "firstOutage": "2022-06-28",
-      "lastOutage": "2026-05-09"
+      "lastOutage": "2026-07-17"
     },
     {
       "slug": "le-chaland",
@@ -3175,7 +3175,7 @@
       "slug": "quatre-bornes",
       "name": "QUATRE-BORNES",
       "district": "plainewilhems",
-      "outageCount": 396,
+      "outageCount": 397,
       "file": "quatre-bornes.json",
       "firstOutage": "2022-04-01",
       "lastOutage": "2026-07-19"
