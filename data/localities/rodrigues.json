@@ -2,11 +2,25 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-07-17T11:27:24.195Z",
-  "outageCount": 242,
+  "generated": "2026-07-17T12:21:54.380Z",
+  "outageCount": 244,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-07-16",
+  "lastOutage": "2026-07-19",
   "outages": [
+    {
+      "date": "Le dimanche 19 juillet 2026 de  08:30:00 à  15:00:00",
+      "streets": "Lataniers, Sainte Famille, Songes et Port Sud Est",
+      "from": "2026-07-19T04:30:00.000Z",
+      "to": "2026-07-19T11:00:00.000Z",
+      "id": "8d024d908d691dcd2b657e8acbbf513c"
+    },
+    {
+      "date": "Le samedi 18 juillet 2026 de  08:30:00 à  15:00:00",
+      "streets": "Mangues, Montagne Du Sable et Grand La Fouche Mangues",
+      "from": "2026-07-18T04:30:00.000Z",
+      "to": "2026-07-18T11:00:00.000Z",
+      "id": "0e0901b08f8d0a717470f1421f0537b8"
+    },
     {
       "date": "Le jeudi 16 juillet 2026 de  08:30:00 à  16:00:00",
       "streets": "Piments, Reposoir, Baie Topaze, Camp Pintade,Montagne Croupier, Camp Pintade, Montagne Plate et Plaine Maho",

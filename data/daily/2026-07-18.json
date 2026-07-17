@@ -1,8 +1,8 @@
 {
   "date": "2026-07-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-17T11:27:24.069Z",
-  "outageCount": 6,
+  "generated": "2026-07-17T12:21:54.266Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le samedi 18 juillet 2026 de  08:30:00 à  15:00:00",
@@ -63,6 +63,16 @@
       "from": "2026-07-18T10:00:00.000Z",
       "to": "2026-07-18T11:00:00.000Z",
       "id": "b838e74ffb9dfbe42ca8aecf37bac784"
+    },
+    {
+      "date": "Le samedi 18 juillet 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Mangues, Montagne Du Sable et Grand La Fouche Mangues",
+      "district": "rodrigues",
+      "from": "2026-07-18T04:30:00.000Z",
+      "to": "2026-07-18T11:00:00.000Z",
+      "id": "0e0901b08f8d0a717470f1421f0537b8"
     }
   ]
 }
