@@ -1,8 +1,8 @@
 {
   "date": "2026-07-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-17T14:29:37.500Z",
-  "outageCount": 5,
+  "generated": "2026-07-17T15:24:45.526Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le vendredi 17 juillet 2026 de  10:40:00 à  11:45:00",
@@ -33,6 +33,16 @@
       "from": "2026-07-17T08:30:00.000Z",
       "to": "2026-07-17T15:00:00.000Z",
       "id": "f9c5681ca532b103f2b269dd34257cf5"
+    },
+    {
+      "date": "Le vendredi 17 juillet 2026 de  18:00:00 à  21:00:00",
+      "locality": "RIPAILLES",
+      "localitySlug": "ripailles",
+      "streets": "WHOLE REGION",
+      "district": "moka",
+      "from": "2026-07-17T14:00:00.000Z",
+      "to": "2026-07-17T17:00:00.000Z",
+      "id": "ddc17991e91fb6713d5837836c46afdb"
     },
     {
       "date": "Le vendredi 17 juillet 2026 de  14:45:00 à  16:15:00",
