@@ -1,8 +1,8 @@
 {
   "date": "2026-07-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-18T11:19:27.521Z",
-  "outageCount": 13,
+  "generated": "2026-07-18T12:13:50.676Z",
+  "outageCount": 14,
   "outages": [
     {
       "date": "Le samedi 18 juillet 2026 de  08:30:00 à  15:00:00",
@@ -75,14 +75,14 @@
       "id": "706503522b7e1edda93429c3fd6411d7"
     },
     {
-      "date": "Le samedi 18 juillet 2026 de  08:30:00 à  14:00:00",
+      "date": "Le samedi 18 juillet 2026 de  08:30:00 à  17:00:00",
       "locality": "COROMANDEL - R.HILL",
       "localitySlug": "coromandel-rhill",
       "streets": "Morc Lising, Ave Riverside, Apartment The Verge",
       "district": "plainewilhems",
       "from": "2026-07-18T04:30:00.000Z",
-      "to": "2026-07-18T10:00:00.000Z",
-      "id": "8c7c97f7b7cd92f13cf62a6571b2dd0d"
+      "to": "2026-07-18T13:00:00.000Z",
+      "id": "30a191c7c10bce0846a59e555c8a729e"
     },
     {
       "date": "Le samedi 18 juillet 2026 de  14:00:00 à  15:00:00",
@@ -103,6 +103,16 @@
       "from": "2026-07-18T05:10:00.000Z",
       "to": "2026-07-18T06:15:00.000Z",
       "id": "eaf5a8d42390156f533ff4cf7922a2f2"
+    },
+    {
+      "date": "Le samedi 18 juillet 2026 de  15:00:00 à  19:00:00",
+      "locality": "16EME MILE",
+      "localitySlug": "16eme-mile",
+      "streets": "MORC ANTELME FOREST SIDE",
+      "district": "plainewilhems",
+      "from": "2026-07-18T11:00:00.000Z",
+      "to": "2026-07-18T15:00:00.000Z",
+      "id": "605c6175bad9c6925cd785395636e7b7"
     },
     {
       "date": "Le samedi 18 juillet 2026 de  12:30:00 à  14:30:00",

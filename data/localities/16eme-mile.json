@@ -2,11 +2,18 @@
   "slug": "16eme-mile",
   "name": "16EME MILE",
   "district": "plainewilhems",
-  "generated": "2026-07-18T11:19:27.535Z",
-  "outageCount": 58,
+  "generated": "2026-07-18T12:13:50.691Z",
+  "outageCount": 59,
   "firstOutage": "2022-05-31",
-  "lastOutage": "2026-06-15",
+  "lastOutage": "2026-07-18",
   "outages": [
+    {
+      "date": "Le samedi 18 juillet 2026 de  15:00:00 à  19:00:00",
+      "streets": "MORC ANTELME FOREST SIDE",
+      "from": "2026-07-18T11:00:00.000Z",
+      "to": "2026-07-18T15:00:00.000Z",
+      "id": "605c6175bad9c6925cd785395636e7b7"
+    },
     {
       "date": "Le lundi 15 juin 2026 de  12:00:00 à  15:00:00",
       "streets": "ENTIERE REGION DE CALODYNE, ST FRANCOIS ET BUTTE A LHERBE",
