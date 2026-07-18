@@ -2,11 +2,18 @@
   "slug": "plaine-magnien",
   "name": "PLAINE MAGNIEN",
   "district": "grandport",
-  "generated": "2026-07-18T15:18:06.383Z",
-  "outageCount": 69,
+  "generated": "2026-07-18T16:16:00.696Z",
+  "outageCount": 70,
   "firstOutage": "2022-06-08",
-  "lastOutage": "2026-07-10",
+  "lastOutage": "2026-07-18",
   "outages": [
+    {
+      "date": "Le samedi 18 juillet 2026 de  17:20:00 à  00:00:00",
+      "streets": "WHOLE OF MORC VRS MON DESERT MON TRESOR.",
+      "from": "2026-07-18T13:20:00.000Z",
+      "to": "2026-07-17T20:00:00.000Z",
+      "id": "2920c25f56d182df5c2e147fe35beab7"
+    },
     {
       "date": "Le vendredi 10 juillet 2026 de  18:20:00 à  21:00:00",
       "streets": "BALANCE STREET, ROYAL ROAD NEAR WINNERS & POULET DES ILES",
