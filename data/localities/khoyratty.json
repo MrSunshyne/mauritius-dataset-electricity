@@ -2,11 +2,18 @@
   "slug": "khoyratty",
   "name": "KHOYRATTY",
   "district": "pamplemousses",
-  "generated": "2026-07-17T18:18:40.156Z",
-  "outageCount": 29,
+  "generated": "2026-07-18T06:35:05.761Z",
+  "outageCount": 30,
   "firstOutage": "2022-06-06",
-  "lastOutage": "2026-07-05",
+  "lastOutage": "2026-07-18",
   "outages": [
+    {
+      "date": "Le samedi 18 juillet 2026 de  08:30:00 à  16:30:00",
+      "streets": "MORC SEECKDAUR ET UNE PARTIE DE CHURCH ROAD, NOTRE DAMEET CA FILTRATION PLANT NOTRE DAME",
+      "from": "2026-07-18T04:30:00.000Z",
+      "to": "2026-07-18T12:30:00.000Z",
+      "id": "b2f178dd0cdafc1d65f18375141fa6ce"
+    },
     {
       "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  16:30:00",
       "streets": "",

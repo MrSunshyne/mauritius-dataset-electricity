@@ -2,11 +2,25 @@
   "slug": "calebasses",
   "name": "CALEBASSES",
   "district": "pamplemousses",
-  "generated": "2026-07-17T18:18:40.121Z",
-  "outageCount": 37,
+  "generated": "2026-07-18T06:35:05.725Z",
+  "outageCount": 39,
   "firstOutage": "2022-05-15",
-  "lastOutage": "2026-06-16",
+  "lastOutage": "2026-07-18",
   "outages": [
+    {
+      "date": "Le samedi 18 juillet 2026 de  09:00:00 à  14:00:00",
+      "streets": "CALBASSE, EN PARTIE PAMPLEMOUSSE ET KHOYRATTY",
+      "from": "2026-07-18T05:00:00.000Z",
+      "to": "2026-07-18T10:00:00.000Z",
+      "id": "c23b24a62e87a750532f0e4bf3c595f6"
+    },
+    {
+      "date": "Le samedi 18 juillet 2026 de  08:30:00 à  16:30:00",
+      "streets": "DANS LES ENVIRONS DE RESIGLAS, DROOPNATH RAMPHUL, DISTRICT COUNCIL, BOULANGERIE HAJI ALI",
+      "from": "2026-07-18T04:30:00.000Z",
+      "to": "2026-07-18T12:30:00.000Z",
+      "id": "a9b66706351b185ed12c5c5968b6bc4b"
+    },
     {
       "date": "Le mardi 16 juin 2026 de  09:55:00 à  14:00:00",
       "streets": "BADAMIER RD",

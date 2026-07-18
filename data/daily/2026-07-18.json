@@ -1,8 +1,8 @@
 {
   "date": "2026-07-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-17T18:18:40.087Z",
-  "outageCount": 7,
+  "generated": "2026-07-18T06:35:05.686Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le samedi 18 juillet 2026 de  08:30:00 à  15:00:00",
@@ -13,6 +13,36 @@
       "from": "2026-07-18T04:30:00.000Z",
       "to": "2026-07-18T11:00:00.000Z",
       "id": "c7b5a2cee4ec93bcbd50380fe24099ef"
+    },
+    {
+      "date": "Le samedi 18 juillet 2026 de  08:30:00 à  16:30:00",
+      "locality": "KHOYRATTY",
+      "localitySlug": "khoyratty",
+      "streets": "MORC SEECKDAUR ET UNE PARTIE DE CHURCH ROAD, NOTRE DAMEET CA FILTRATION PLANT NOTRE DAME",
+      "district": "pamplemousses",
+      "from": "2026-07-18T04:30:00.000Z",
+      "to": "2026-07-18T12:30:00.000Z",
+      "id": "b2f178dd0cdafc1d65f18375141fa6ce"
+    },
+    {
+      "date": "Le samedi 18 juillet 2026 de  08:30:00 à  16:30:00",
+      "locality": "CALEBASSES",
+      "localitySlug": "calebasses",
+      "streets": "DANS LES ENVIRONS DE RESIGLAS, DROOPNATH RAMPHUL, DISTRICT COUNCIL, BOULANGERIE HAJI ALI",
+      "district": "pamplemousses",
+      "from": "2026-07-18T04:30:00.000Z",
+      "to": "2026-07-18T12:30:00.000Z",
+      "id": "a9b66706351b185ed12c5c5968b6bc4b"
+    },
+    {
+      "date": "Le samedi 18 juillet 2026 de  09:00:00 à  14:00:00",
+      "locality": "CALEBASSES",
+      "localitySlug": "calebasses",
+      "streets": "CALBASSE, EN PARTIE PAMPLEMOUSSE ET KHOYRATTY",
+      "district": "pamplemousses",
+      "from": "2026-07-18T05:00:00.000Z",
+      "to": "2026-07-18T10:00:00.000Z",
+      "id": "c23b24a62e87a750532f0e4bf3c595f6"
     },
     {
       "date": "Le samedi 18 juillet 2026 de  11:00:00 à  15:00:00",
@@ -63,6 +93,26 @@
       "from": "2026-07-18T10:00:00.000Z",
       "to": "2026-07-18T11:00:00.000Z",
       "id": "b838e74ffb9dfbe42ca8aecf37bac784"
+    },
+    {
+      "date": "Le samedi 18 juillet 2026 de  09:10:00 à  10:15:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "AVE JOHN KENNEDY ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2026-07-18T05:10:00.000Z",
+      "to": "2026-07-18T06:15:00.000Z",
+      "id": "eaf5a8d42390156f533ff4cf7922a2f2"
+    },
+    {
+      "date": "Le samedi 18 juillet 2026 de  08:50:00 à  12:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "IMPASSE JOLICOEUR ET LES ALENTOURS",
+      "district": "rivieredurempart",
+      "from": "2026-07-18T04:50:00.000Z",
+      "to": "2026-07-18T08:00:00.000Z",
+      "id": "d325c43d326474e3147e34c587ba0541"
     },
     {
       "date": "Le samedi 18 juillet 2026 de  08:30:00 à  15:00:00",
