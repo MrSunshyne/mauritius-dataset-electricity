@@ -2,8 +2,8 @@
   "slug": "plaine-verte",
   "name": "PLAINE VERTE",
   "district": "portlouis",
-  "generated": "2026-07-18T08:31:44.390Z",
-  "outageCount": 38,
+  "generated": "2026-07-18T09:28:37.561Z",
+  "outageCount": 39,
   "firstOutage": "2022-12-21",
   "lastOutage": "2026-07-19",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-07-19T04:30:00.000Z",
       "to": "2026-07-19T10:00:00.000Z",
       "id": "2826512cf18bc9d37865df110645f25c"
+    },
+    {
+      "date": "Le samedi 18 juillet 2026 de  12:30:00 à  14:30:00",
+      "streets": "La Paix,Diego Garcia,Lapotaire",
+      "from": "2026-07-18T08:30:00.000Z",
+      "to": "2026-07-18T10:30:00.000Z",
+      "id": "af89022a5d264f0479274f7f153fb26b"
     },
     {
       "date": "Le mercredi 8 juillet 2026 de  12:15:00 à  13:45:00",

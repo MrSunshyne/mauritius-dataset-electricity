@@ -1,8 +1,8 @@
 {
   "date": "2026-07-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-18T08:31:44.281Z",
-  "outageCount": 12,
+  "generated": "2026-07-18T09:28:37.452Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le samedi 18 juillet 2026 de  08:30:00 à  15:00:00",
@@ -103,6 +103,16 @@
       "from": "2026-07-18T05:10:00.000Z",
       "to": "2026-07-18T06:15:00.000Z",
       "id": "eaf5a8d42390156f533ff4cf7922a2f2"
+    },
+    {
+      "date": "Le samedi 18 juillet 2026 de  12:30:00 à  14:30:00",
+      "locality": "PLAINE VERTE",
+      "localitySlug": "plaine-verte",
+      "streets": "La Paix,Diego Garcia,Lapotaire",
+      "district": "portlouis",
+      "from": "2026-07-18T08:30:00.000Z",
+      "to": "2026-07-18T10:30:00.000Z",
+      "id": "af89022a5d264f0479274f7f153fb26b"
     },
     {
       "date": "Le samedi 18 juillet 2026 de  08:50:00 à  12:00:00",
