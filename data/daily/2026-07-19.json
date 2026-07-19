@@ -1,8 +1,8 @@
 {
   "date": "2026-07-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-19T11:22:17.774Z",
-  "outageCount": 14,
+  "generated": "2026-07-19T12:13:38.777Z",
+  "outageCount": 15,
   "outages": [
     {
       "date": "Le dimanche 19 juillet 2026 de  08:30:00 à  15:00:00",
@@ -105,14 +105,24 @@
       "id": "6b6f03b5e3f30d5fc1e73fecd3f583f1"
     },
     {
-      "date": "Le dimanche 19 juillet 2026 de  09:50:00 à  16:00:00",
+      "date": "Le dimanche 19 juillet 2026 de  09:50:00 à  17:00:00",
       "locality": "BEAU BASSIN",
       "localitySlug": "beau-bassin",
       "streets": "ROYAL ROAD, DREAM PRICE ET LES ALENTOURS",
       "district": "plainewilhems",
       "from": "2026-07-19T05:50:00.000Z",
-      "to": "2026-07-19T12:00:00.000Z",
-      "id": "d9f15378b8ec3e53e2a991ff7c3e0531"
+      "to": "2026-07-19T13:00:00.000Z",
+      "id": "91b2520ca85209b0f22636d64236a50a"
+    },
+    {
+      "date": "Le dimanche 19 juillet 2026 de  15:40:00 à  16:40:00",
+      "locality": "CAMP FOUQUEREAUX",
+      "localitySlug": "camp-fouquereaux",
+      "streets": "RESERVOIR RD, TOUT COURT RD ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2026-07-19T11:40:00.000Z",
+      "to": "2026-07-19T12:40:00.000Z",
+      "id": "d6709a9a35e1a3b66628531fee60cabf"
     },
     {
       "date": "Le dimanche 19 juillet 2026 de  08:30:00 à  14:30:00",

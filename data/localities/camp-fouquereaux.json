@@ -2,11 +2,18 @@
   "slug": "camp-fouquereaux",
   "name": "CAMP FOUQUEREAUX",
   "district": "plainewilhems",
-  "generated": "2026-07-19T11:22:17.814Z",
-  "outageCount": 40,
+  "generated": "2026-07-19T12:13:38.818Z",
+  "outageCount": 41,
   "firstOutage": "2022-03-31",
-  "lastOutage": "2026-06-27",
+  "lastOutage": "2026-07-19",
   "outages": [
+    {
+      "date": "Le dimanche 19 juillet 2026 de  15:40:00 à  16:40:00",
+      "streets": "RESERVOIR RD, TOUT COURT RD ET LES ALENTOURS",
+      "from": "2026-07-19T11:40:00.000Z",
+      "to": "2026-07-19T12:40:00.000Z",
+      "id": "d6709a9a35e1a3b66628531fee60cabf"
+    },
     {
       "date": "Le samedi 27 juin 2026 de  10:00:00 à  13:00:00",
       "streets": "CAMP FOUQUERAUX/GALEA 2",
