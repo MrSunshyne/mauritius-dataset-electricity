@@ -2,11 +2,18 @@
   "slug": "highlands",
   "name": "HIGHLANDS",
   "district": "plainewilhems",
-  "generated": "2026-07-19T14:26:14.506Z",
-  "outageCount": 80,
+  "generated": "2026-07-19T15:18:38.925Z",
+  "outageCount": 81,
   "firstOutage": "2022-04-13",
   "lastOutage": "2026-07-19",
   "outages": [
+    {
+      "date": "Le dimanche 19 juillet 2026 de  17:00:00 à  22:30:00",
+      "streets": "CHEMIN APPAVE, EN PARTIE MORC MTMD, HIGHLANDS BRANCH ROAD, HIGHLANDS SUGAR ESTATE ET LES ALENTOURS.",
+      "from": "2026-07-19T13:00:00.000Z",
+      "to": "2026-07-19T18:30:00.000Z",
+      "id": "f24c6d25b47dcbd5a528fca8e0eca46e"
+    },
     {
       "date": "Le dimanche 19 juillet 2026 de  08:30:00 à  14:00:00",
       "streets": "Morc Omnicane",
