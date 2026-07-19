@@ -2,11 +2,18 @@
   "slug": "plaine-des-papayes",
   "name": "PLAINE DES PAPAYES",
   "district": "pamplemousses",
-  "generated": "2026-07-19T09:32:00.684Z",
-  "outageCount": 43,
+  "generated": "2026-07-19T10:28:42.664Z",
+  "outageCount": 44,
   "firstOutage": "2022-05-22",
-  "lastOutage": "2026-07-04",
+  "lastOutage": "2026-07-19",
   "outages": [
+    {
+      "date": "Le dimanche 19 juillet 2026 de  14:00:00 à  18:00:00",
+      "streets": "BOIS MANGUE, PLAINE DES PAPAYES",
+      "from": "2026-07-19T10:00:00.000Z",
+      "to": "2026-07-19T14:00:00.000Z",
+      "id": "d51d146558f4d9e7218215d24ea17904"
+    },
     {
       "date": "Le samedi 4 juillet 2026 de  08:30:00 à  15:30:00",
       "streets": "Near Mosque, Patisserie et Jaypal road",
