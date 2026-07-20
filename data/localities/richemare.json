@@ -2,11 +2,18 @@
   "slug": "richemare",
   "name": "RICHEMARE",
   "district": "flacq",
-  "generated": "2026-07-19T18:14:45.997Z",
-  "outageCount": 26,
+  "generated": "2026-07-20T06:57:54.279Z",
+  "outageCount": 27,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2025-11-25",
+  "lastOutage": "2026-07-21",
   "outages": [
+    {
+      "date": "Le mardi 21 juillet 2026 de  09:00:00 à  12:00:00",
+      "streets": "RICHE MARE dans le périmètre de Radhakisson Rd, Tagore Rd, Chemin la source, Cemetery Rd, Rajiv Gandhi Rd et Ramdewar Street.",
+      "from": "2026-07-21T05:00:00.000Z",
+      "to": "2026-07-21T08:00:00.000Z",
+      "id": "8114f146bd9ad00b798978155f64c190"
+    },
     {
       "date": "Le mardi 25 novembre 2025 de  09:30:00 à  11:00:00",
       "streets": "RICHE MARE ET ARGY DANS LE PERIMETRE DE CEMETRY RD, LA BOUTIQUE COCO ET MORC LE VIEUX MOULIN.",

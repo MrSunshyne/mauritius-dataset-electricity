@@ -1,8 +1,8 @@
 {
   "date": "2026-07-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-19T18:14:45.874Z",
-  "outageCount": 3,
+  "generated": "2026-07-20T06:57:54.159Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le lundi 20 juillet 2026 de  08:30:00 à  15:00:00",
@@ -23,6 +23,26 @@
       "from": "2026-07-20T04:30:00.000Z",
       "to": "2026-07-20T12:00:00.000Z",
       "id": "6c49a18d8789bc3266f904fb08b02900"
+    },
+    {
+      "date": "Le lundi 20 juillet 2026 de  10:45:00 à  12:00:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "GEBERT ROAD & SURROUNDINGS",
+      "district": "grandport",
+      "from": "2026-07-20T06:45:00.000Z",
+      "to": "2026-07-20T08:00:00.000Z",
+      "id": "18cd2307640514ea70502f3ed1818198"
+    },
+    {
+      "date": "Le lundi 20 juillet 2026 de  10:10:00 à  12:30:00",
+      "locality": "CLUNY",
+      "localitySlug": "cluny",
+      "streets": "CWA & SURROUNDINGS",
+      "district": "grandport",
+      "from": "2026-07-20T06:10:00.000Z",
+      "to": "2026-07-20T08:30:00.000Z",
+      "id": "008ca30e869baccd3032469833543ec6"
     },
     {
       "date": "Le lundi 20 juillet 2026 de  08:30:00 à  15:00:00",

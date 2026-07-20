@@ -2,11 +2,18 @@
   "slug": "rose-belle",
   "name": "ROSE BELLE",
   "district": "grandport",
-  "generated": "2026-07-19T18:14:46.003Z",
-  "outageCount": 82,
+  "generated": "2026-07-20T06:57:54.285Z",
+  "outageCount": 83,
   "firstOutage": "2022-05-12",
-  "lastOutage": "2026-06-04",
+  "lastOutage": "2026-07-20",
   "outages": [
+    {
+      "date": "Le lundi 20 juillet 2026 de  10:45:00 à  12:00:00",
+      "streets": "GEBERT ROAD & SURROUNDINGS",
+      "from": "2026-07-20T06:45:00.000Z",
+      "to": "2026-07-20T08:00:00.000Z",
+      "id": "18cd2307640514ea70502f3ed1818198"
+    },
     {
       "date": "Le jeudi 4 juin 2026 de  09:00:00 à  16:00:00",
       "streets": "Rose Belle habitant dans le périmètre et les rues suivantes: Gebert Road, Mosque Road, Telegu Lane, Shivala Lane, Ah Quet Lane, Letord Lane, Bhageloo Lane, Parasol Lane, Princess Marguarette Lane No 1 & 2, Mont Fertile, Baramia, Dreamprice New Grove et une partie de la Route Royale New Grove",

@@ -2,11 +2,18 @@
   "slug": "cluny",
   "name": "CLUNY",
   "district": "grandport",
-  "generated": "2026-07-19T18:14:45.928Z",
-  "outageCount": 13,
+  "generated": "2026-07-20T06:57:54.212Z",
+  "outageCount": 14,
   "firstOutage": "2022-05-07",
-  "lastOutage": "2026-03-18",
+  "lastOutage": "2026-07-20",
   "outages": [
+    {
+      "date": "Le lundi 20 juillet 2026 de  10:10:00 à  12:30:00",
+      "streets": "CWA & SURROUNDINGS",
+      "from": "2026-07-20T06:10:00.000Z",
+      "to": "2026-07-20T08:30:00.000Z",
+      "id": "008ca30e869baccd3032469833543ec6"
+    },
     {
       "date": "Le mercredi 18 mars 2026 de  19:00:00 à  00:30:00",
       "streets": "CLUNY",
