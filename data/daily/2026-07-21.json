@@ -1,8 +1,8 @@
 {
   "date": "2026-07-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-20T11:05:33.006Z",
-  "outageCount": 2,
+  "generated": "2026-07-20T12:38:42.092Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le mardi 21 juillet 2026 de  09:00:00 à  12:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-07-21T05:00:00.000Z",
       "to": "2026-07-21T08:00:00.000Z",
       "id": "8114f146bd9ad00b798978155f64c190"
+    },
+    {
+      "date": "Le mardi 21 juillet 2026 de  09:00:00 à  12:00:00",
+      "locality": "GRANDE RETRAITE",
+      "localitySlug": "grande-retraite",
+      "streets": "Une partie de la route royale et dans les environs du station de service Indian Oil.",
+      "district": "flacq",
+      "from": "2026-07-21T05:00:00.000Z",
+      "to": "2026-07-21T08:00:00.000Z",
+      "id": "70e1a99c08bd7301eb6334d15959e030"
     },
     {
       "date": "Le mardi 21 juillet 2026 de  13:00:00 à  17:00:00",
