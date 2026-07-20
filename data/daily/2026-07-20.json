@@ -1,9 +1,19 @@
 {
   "date": "2026-07-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-20T06:57:54.159Z",
-  "outageCount": 5,
+  "generated": "2026-07-20T08:03:25.580Z",
+  "outageCount": 6,
   "outages": [
+    {
+      "date": "Le lundi 20 juillet 2026 de  11:00:00 à  14:00:00",
+      "locality": "CLAVET",
+      "localitySlug": "clavet",
+      "streets": "PART OF CLAVET",
+      "district": "flacq",
+      "from": "2026-07-20T07:00:00.000Z",
+      "to": "2026-07-20T10:00:00.000Z",
+      "id": "709584d47e7e3e8208ba81e37497c783"
+    },
     {
       "date": "Le lundi 20 juillet 2026 de  08:30:00 à  15:00:00",
       "locality": "EAU BLEUE TOSTEE",

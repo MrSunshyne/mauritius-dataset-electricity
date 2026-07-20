@@ -2,11 +2,18 @@
   "slug": "beau-bassin",
   "name": "BEAU BASSIN",
   "district": "plainewilhems",
-  "generated": "2026-07-20T06:57:54.185Z",
-  "outageCount": 196,
+  "generated": "2026-07-20T08:03:25.605Z",
+  "outageCount": 197,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-07-19",
+  "lastOutage": "2026-07-21",
   "outages": [
+    {
+      "date": "Le mardi 21 juillet 2026 de  13:00:00 à  17:00:00",
+      "streets": "DR REID, CHERI LENARD, DUPERRE, CHASTEAUNEUF ET LES ENVIRONS",
+      "from": "2026-07-21T09:00:00.000Z",
+      "to": "2026-07-21T13:00:00.000Z",
+      "id": "599b8fd3dd8485ff9d090c1ca9366bb7"
+    },
     {
       "date": "Le dimanche 19 juillet 2026 de  14:00:00 à  14:45:00",
       "streets": "Ave Dr Lesur,Ave Khodabacus, Ave Raoul Philipe, Ave Maudave, Res. Vuillemin, NHDC Vuillemin, Dr Reid, Ave Mahadeo Biltoo, Ave Duperre, Ave Chateauneuf et les environs",
