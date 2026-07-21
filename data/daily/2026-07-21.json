@@ -1,8 +1,8 @@
 {
   "date": "2026-07-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-21T07:45:29.763Z",
-  "outageCount": 8,
+  "generated": "2026-07-21T08:49:28.405Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le mardi 21 juillet 2026 de  09:45:00 à  16:00:00",
@@ -83,6 +83,26 @@
       "from": "2026-07-21T05:00:00.000Z",
       "to": "2026-07-21T13:00:00.000Z",
       "id": "a4696717a5864996c5a49140243fff3f"
+    },
+    {
+      "date": "Le mardi 21 juillet 2026 de  12:30:00 à  13:30:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "AVE JOHN KENNEDY FLOREAL",
+      "district": "plainewilhems",
+      "from": "2026-07-21T08:30:00.000Z",
+      "to": "2026-07-21T09:30:00.000Z",
+      "id": "661c1e2980cfcc1958ab61c0b667042f"
+    },
+    {
+      "date": "Le mardi 21 juillet 2026 de  12:00:00 à  13:00:00",
+      "locality": "VALLEE PITOT",
+      "localitySlug": "vallee-pitot",
+      "streets": "RUE CHINA-RUE LA PAIX-RUE DIEGO GARCIA V PITOT",
+      "district": "portlouis",
+      "from": "2026-07-21T08:00:00.000Z",
+      "to": "2026-07-21T09:00:00.000Z",
+      "id": "388b35c031617c0d844e1a49385b4fdc"
     }
   ]
 }

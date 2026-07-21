@@ -2,11 +2,18 @@
   "slug": "floreal",
   "name": "FLOREAL",
   "district": "plainewilhems",
-  "generated": "2026-07-21T07:45:29.828Z",
-  "outageCount": 93,
+  "generated": "2026-07-21T08:49:28.465Z",
+  "outageCount": 94,
   "firstOutage": "2022-03-31",
-  "lastOutage": "2026-07-18",
+  "lastOutage": "2026-07-21",
   "outages": [
+    {
+      "date": "Le mardi 21 juillet 2026 de  12:30:00 à  13:30:00",
+      "streets": "AVE JOHN KENNEDY FLOREAL",
+      "from": "2026-07-21T08:30:00.000Z",
+      "to": "2026-07-21T09:30:00.000Z",
+      "id": "661c1e2980cfcc1958ab61c0b667042f"
+    },
     {
       "date": "Le samedi 18 juillet 2026 de  09:10:00 à  10:15:00",
       "streets": "AVE JOHN KENNEDY ET LES ALENTOURS",
