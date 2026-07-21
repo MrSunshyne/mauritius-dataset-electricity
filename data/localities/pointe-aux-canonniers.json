@@ -2,11 +2,18 @@
   "slug": "pointe-aux-canonniers",
   "name": "POINTE AUX CANONNIERS",
   "district": "rivieredurempart",
-  "generated": "2026-07-21T12:28:20.884Z",
-  "outageCount": 53,
+  "generated": "2026-07-21T13:29:16.518Z",
+  "outageCount": 54,
   "firstOutage": "2022-04-15",
-  "lastOutage": "2026-06-25",
+  "lastOutage": "2026-07-21",
   "outages": [
+    {
+      "date": "Le mardi 21 juillet 2026 de  16:00:00 à  00:00:00",
+      "streets": "pointe aux canonniers.part of grand bay",
+      "from": "2026-07-21T12:00:00.000Z",
+      "to": "2026-07-20T20:00:00.000Z",
+      "id": "fbf0472c2b9413877bb2514f2987e575"
+    },
     {
       "date": "Le jeudi 25 juin 2026 de  12:30:00 à  16:30:00",
       "streets": "GRAND BAY RESERVOIR ROAD, ROYAL ROAD, COASTAL ROAD POINTE AUX CANNONIERS",

@@ -1,8 +1,8 @@
 {
   "date": "2026-07-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-21T12:28:20.774Z",
-  "outageCount": 11,
+  "generated": "2026-07-21T13:29:16.418Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le mardi 21 juillet 2026 de  09:45:00 à  16:00:00",
@@ -113,6 +113,16 @@
       "from": "2026-07-21T08:00:00.000Z",
       "to": "2026-07-21T09:00:00.000Z",
       "id": "388b35c031617c0d844e1a49385b4fdc"
+    },
+    {
+      "date": "Le mardi 21 juillet 2026 de  16:00:00 à  00:00:00",
+      "locality": "POINTE AUX CANONNIERS",
+      "localitySlug": "pointe-aux-canonniers",
+      "streets": "pointe aux canonniers.part of grand bay",
+      "district": "rivieredurempart",
+      "from": "2026-07-21T12:00:00.000Z",
+      "to": "2026-07-20T20:00:00.000Z",
+      "id": "fbf0472c2b9413877bb2514f2987e575"
     }
   ]
 }
