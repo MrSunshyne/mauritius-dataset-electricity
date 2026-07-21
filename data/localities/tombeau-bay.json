@@ -2,11 +2,18 @@
   "slug": "tombeau-bay",
   "name": "TOMBEAU BAY",
   "district": "pamplemousses",
-  "generated": "2026-07-20T18:34:24.323Z",
-  "outageCount": 138,
+  "generated": "2026-07-21T06:46:27.974Z",
+  "outageCount": 139,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-07-19",
+  "lastOutage": "2026-07-21",
   "outages": [
+    {
+      "date": "Le mardi 21 juillet 2026 de  09:45:00 à  11:00:00",
+      "streets": "MORC SWAN",
+      "from": "2026-07-21T05:45:00.000Z",
+      "to": "2026-07-21T07:00:00.000Z",
+      "id": "636bef8596b2a06b4429ddbf65e0c7d9"
+    },
     {
       "date": "Le dimanche 19 juillet 2026 de  08:30:00 à  14:00:00",
       "streets": "Dans les environs de Morc Coprim, Morc Concorde, Morc La Cocheyle, Residence Florida, Land Settlement, Saint Joseph Road et une partie de la route cotiere",

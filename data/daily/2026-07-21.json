@@ -1,9 +1,19 @@
 {
   "date": "2026-07-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-20T18:34:24.194Z",
-  "outageCount": 3,
+  "generated": "2026-07-21T06:46:27.824Z",
+  "outageCount": 7,
   "outages": [
+    {
+      "date": "Le mardi 21 juillet 2026 de  09:45:00 à  16:00:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "ROYAL ROAD",
+      "district": "blackriver",
+      "from": "2026-07-21T05:45:00.000Z",
+      "to": "2026-07-21T12:00:00.000Z",
+      "id": "0394b582bd917ea11e39d3ed095ac6ce"
+    },
     {
       "date": "Le mardi 21 juillet 2026 de  09:00:00 à  12:00:00",
       "locality": "RICHEMARE",
@@ -25,6 +35,16 @@
       "id": "70e1a99c08bd7301eb6334d15959e030"
     },
     {
+      "date": "Le mardi 21 juillet 2026 de  09:45:00 à  11:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "MORC SWAN",
+      "district": "pamplemousses",
+      "from": "2026-07-21T05:45:00.000Z",
+      "to": "2026-07-21T07:00:00.000Z",
+      "id": "636bef8596b2a06b4429ddbf65e0c7d9"
+    },
+    {
       "date": "Le mardi 21 juillet 2026 de  13:00:00 à  17:00:00",
       "locality": "BEAU BASSIN",
       "localitySlug": "beau-bassin",
@@ -33,6 +53,26 @@
       "from": "2026-07-21T09:00:00.000Z",
       "to": "2026-07-21T13:00:00.000Z",
       "id": "599b8fd3dd8485ff9d090c1ca9366bb7"
+    },
+    {
+      "date": "Le mardi 21 juillet 2026 de  09:40:00 à  11:00:00",
+      "locality": "MIDLANDS",
+      "localitySlug": "midlands",
+      "streets": "ROYAL ROAD NEAR SHIVALA",
+      "district": "plainewilhems",
+      "from": "2026-07-21T05:40:00.000Z",
+      "to": "2026-07-21T07:00:00.000Z",
+      "id": "236b1a40af940d449569757d5b898693"
+    },
+    {
+      "date": "Le mardi 21 juillet 2026 de  09:00:00 à  17:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "GEORGE TOWN & SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2026-07-21T05:00:00.000Z",
+      "to": "2026-07-21T13:00:00.000Z",
+      "id": "a4696717a5864996c5a49140243fff3f"
     }
   ]
 }

@@ -2,11 +2,18 @@
   "slug": "riviere-noire",
   "name": "RIVIERE NOIRE",
   "district": "blackriver",
-  "generated": "2026-07-20T18:34:24.309Z",
-  "outageCount": 47,
+  "generated": "2026-07-21T06:46:27.959Z",
+  "outageCount": 48,
   "firstOutage": "2022-06-03",
-  "lastOutage": "2026-07-07",
+  "lastOutage": "2026-07-21",
   "outages": [
+    {
+      "date": "Le mardi 21 juillet 2026 de  09:45:00 à  16:00:00",
+      "streets": "ROYAL ROAD",
+      "from": "2026-07-21T05:45:00.000Z",
+      "to": "2026-07-21T12:00:00.000Z",
+      "id": "0394b582bd917ea11e39d3ed095ac6ce"
+    },
     {
       "date": "Le mardi 7 juillet 2026 de  14:00:00 à  20:00:00",
       "streets": "ROYAL ROAD, MORC MATALLA, MORC RAMDANEE, CHEMIN GORGE, PUMP CWA, ROYAL ROAD & SURROUNDINGS",

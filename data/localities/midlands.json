@@ -2,11 +2,18 @@
   "slug": "midlands",
   "name": "MIDLANDS",
   "district": "plainewilhems",
-  "generated": "2026-07-20T18:34:24.276Z",
-  "outageCount": 25,
+  "generated": "2026-07-21T06:46:27.921Z",
+  "outageCount": 26,
   "firstOutage": "2022-06-10",
-  "lastOutage": "2026-06-21",
+  "lastOutage": "2026-07-21",
   "outages": [
+    {
+      "date": "Le mardi 21 juillet 2026 de  09:40:00 à  11:00:00",
+      "streets": "ROYAL ROAD NEAR SHIVALA",
+      "from": "2026-07-21T05:40:00.000Z",
+      "to": "2026-07-21T07:00:00.000Z",
+      "id": "236b1a40af940d449569757d5b898693"
+    },
     {
       "date": "Le dimanche 21 juin 2026 de  12:00:00 à  13:30:00",
       "streets": "VILLAGE MIDLANDS CORIOLIS ROAD/MORC SOOBANY 16EME MILLE",

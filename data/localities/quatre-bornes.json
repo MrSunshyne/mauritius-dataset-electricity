@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-07-20T18:34:24.302Z",
-  "outageCount": 397,
+  "generated": "2026-07-21T06:46:27.951Z",
+  "outageCount": 398,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-07-19",
+  "lastOutage": "2026-07-21",
   "outages": [
+    {
+      "date": "Le mardi 21 juillet 2026 de  09:00:00 à  17:00:00",
+      "streets": "GEORGE TOWN & SURROUNDINGS",
+      "from": "2026-07-21T05:00:00.000Z",
+      "to": "2026-07-21T13:00:00.000Z",
+      "id": "a4696717a5864996c5a49140243fff3f"
+    },
     {
       "date": "Le dimanche 19 juillet 2026 de  09:00:00 à  15:00:00",
       "streets": "En partie Royal Road, Belle Rose, de Caen et les environs",
