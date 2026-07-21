@@ -1,8 +1,8 @@
 {
   "date": "2026-07-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-21T16:27:24.207Z",
-  "outageCount": 12,
+  "generated": "2026-07-21T17:27:29.259Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le mardi 21 juillet 2026 de  09:45:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-07-21T05:45:00.000Z",
       "to": "2026-07-21T12:00:00.000Z",
       "id": "0394b582bd917ea11e39d3ed095ac6ce"
+    },
+    {
+      "date": "Le mardi 21 juillet 2026 de  20:35:00 à  22:35:00",
+      "locality": "LA GAULETTE",
+      "localitySlug": "la-gaulette",
+      "streets": "NEAR LA CHAPELLE",
+      "district": "blackriver",
+      "from": "2026-07-21T16:35:00.000Z",
+      "to": "2026-07-21T18:35:00.000Z",
+      "id": "8a67e81d4a21094299d38789b0fee09e"
     },
     {
       "date": "Le mardi 21 juillet 2026 de  09:00:00 à  12:00:00",
