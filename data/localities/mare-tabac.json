@@ -2,11 +2,18 @@
   "slug": "mare-tabac",
   "name": "MARE TABAC",
   "district": "grandport",
-  "generated": "2026-07-21T06:46:27.919Z",
-  "outageCount": 26,
+  "generated": "2026-07-21T07:45:29.851Z",
+  "outageCount": 27,
   "firstOutage": "2022-04-28",
-  "lastOutage": "2026-06-23",
+  "lastOutage": "2026-07-21",
   "outages": [
+    {
+      "date": "Le mardi 21 juillet 2026 de  11:00:00 à  13:00:00",
+      "streets": "MARE TABAC",
+      "from": "2026-07-21T07:00:00.000Z",
+      "to": "2026-07-21T09:00:00.000Z",
+      "id": "3a01198b4072fab3b5b31564808723ae"
+    },
     {
       "date": "Le mardi 23 juin 2026 de  12:30:00 à  14:45:00",
       "streets": "PRABOODYAL ROAD/SSR ROAD",

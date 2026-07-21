@@ -1,8 +1,8 @@
 {
   "date": "2026-07-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-21T06:46:27.824Z",
-  "outageCount": 7,
+  "generated": "2026-07-21T07:45:29.763Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le mardi 21 juillet 2026 de  09:45:00 à  16:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-07-21T05:00:00.000Z",
       "to": "2026-07-21T08:00:00.000Z",
       "id": "70e1a99c08bd7301eb6334d15959e030"
+    },
+    {
+      "date": "Le mardi 21 juillet 2026 de  11:00:00 à  13:00:00",
+      "locality": "MARE TABAC",
+      "localitySlug": "mare-tabac",
+      "streets": "MARE TABAC",
+      "district": "grandport",
+      "from": "2026-07-21T07:00:00.000Z",
+      "to": "2026-07-21T09:00:00.000Z",
+      "id": "3a01198b4072fab3b5b31564808723ae"
     },
     {
       "date": "Le mardi 21 juillet 2026 de  09:45:00 à  11:00:00",
