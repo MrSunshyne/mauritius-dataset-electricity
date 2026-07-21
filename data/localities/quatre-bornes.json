@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-07-21T10:40:09.125Z",
-  "outageCount": 398,
+  "generated": "2026-07-21T11:32:18.302Z",
+  "outageCount": 399,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-07-21",
+  "lastOutage": "2026-07-22",
   "outages": [
+    {
+      "date": "Le mercredi 22 juillet 2026 de  09:00:00 à  17:00:00",
+      "streets": "GEORGE TOWN & SURROUNDINGS",
+      "from": "2026-07-22T05:00:00.000Z",
+      "to": "2026-07-22T13:00:00.000Z",
+      "id": "702c1d452c8d2476ea62706f8918ee98"
+    },
     {
       "date": "Le mardi 21 juillet 2026 de  09:00:00 à  17:00:00",
       "streets": "GEORGE TOWN & SURROUNDINGS",

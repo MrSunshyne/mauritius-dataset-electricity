@@ -1,8 +1,8 @@
 {
   "date": "2026-07-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-21T10:40:09.007Z",
-  "outageCount": 2,
+  "generated": "2026-07-21T11:32:18.177Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le mercredi 22 juillet 2026 de  09:00:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-07-22T05:00:00.000Z",
       "to": "2026-07-22T11:00:00.000Z",
       "id": "6621eeeeb424b3f3231f3f098109d3a7"
+    },
+    {
+      "date": "Le mercredi 22 juillet 2026 de  09:00:00 à  17:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "GEORGE TOWN & SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2026-07-22T05:00:00.000Z",
+      "to": "2026-07-22T13:00:00.000Z",
+      "id": "702c1d452c8d2476ea62706f8918ee98"
     },
     {
       "date": "Le mercredi 22 juillet 2026 de  09:00:00 à  17:00:00",
