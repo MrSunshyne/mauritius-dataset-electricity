@@ -1,8 +1,8 @@
 {
   "date": "2026-07-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-21T09:46:34.786Z",
-  "outageCount": 10,
+  "generated": "2026-07-21T10:40:09.007Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le mardi 21 juillet 2026 de  09:45:00 à  16:00:00",
@@ -93,6 +93,16 @@
       "from": "2026-07-21T08:30:00.000Z",
       "to": "2026-07-21T09:30:00.000Z",
       "id": "661c1e2980cfcc1958ab61c0b667042f"
+    },
+    {
+      "date": "Le mardi 21 juillet 2026 de  15:30:00 à  18:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Une partie de Valentina, ainsi que toute la région de Petit Camp",
+      "district": "plainewilhems",
+      "from": "2026-07-21T11:30:00.000Z",
+      "to": "2026-07-21T14:00:00.000Z",
+      "id": "b06580735cf160f85792544a42fe33a9"
     },
     {
       "date": "Le mardi 21 juillet 2026 de  12:00:00 à  13:00:00",
