@@ -2,11 +2,18 @@
   "slug": "belle-rive",
   "name": "BELLE RIVE ( KEWAL NAGAR )",
   "district": "flacq",
-  "generated": "2026-07-21T18:24:06.225Z",
-  "outageCount": 6,
+  "generated": "2026-07-22T06:46:59.666Z",
+  "outageCount": 7,
   "firstOutage": "2023-05-18",
-  "lastOutage": "2026-01-22",
+  "lastOutage": "2026-07-24",
   "outages": [
+    {
+      "date": "Le vendredi 24 juillet 2026 de  08:30:00 à  15:00:00",
+      "streets": "Etoiles et Domaine de lEtoile.",
+      "from": "2026-07-24T04:30:00.000Z",
+      "to": "2026-07-24T11:00:00.000Z",
+      "id": "44fc2b0e9d7565f7c1ea2ff86f0e739f"
+    },
     {
       "date": "Le jeudi 22 janvier 2026 de  08:45:00 à  17:00:00",
       "streets": "kewal Nagar",

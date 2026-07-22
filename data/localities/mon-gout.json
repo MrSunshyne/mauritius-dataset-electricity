@@ -2,11 +2,18 @@
   "slug": "mon-gout",
   "name": "MON GOUT",
   "district": "pamplemousses",
-  "generated": "2026-07-21T18:24:06.274Z",
-  "outageCount": 17,
+  "generated": "2026-07-22T06:46:59.740Z",
+  "outageCount": 18,
   "firstOutage": "2022-06-08",
-  "lastOutage": "2026-06-26",
+  "lastOutage": "2026-07-22",
   "outages": [
+    {
+      "date": "Le mercredi 22 juillet 2026 de  00:00:00 à  04:00:00",
+      "streets": "SHIVALA ROAD DANS LES ALENTOURS ECOLE GOUVERNEMENT.",
+      "from": "2026-07-21T20:00:00.000Z",
+      "to": "2026-07-21T00:00:00.000Z",
+      "id": "cfe77b30491fe44fd1e1f725afe2f058"
+    },
     {
       "date": "Le vendredi 26 juin 2026 de  09:30:00 à  12:00:00",
       "streets": "MORC VRS",

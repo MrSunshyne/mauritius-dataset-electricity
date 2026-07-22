@@ -2,11 +2,18 @@
   "slug": "forest-side",
   "name": "FOREST SIDE",
   "district": "plainewilhems",
-  "generated": "2026-07-21T18:24:06.253Z",
-  "outageCount": 100,
+  "generated": "2026-07-22T06:46:59.703Z",
+  "outageCount": 101,
   "firstOutage": "2022-07-03",
-  "lastOutage": "2026-05-24",
+  "lastOutage": "2026-07-23",
   "outages": [
+    {
+      "date": "Le jeudi 23 juillet 2026 de  09:00:00 à  15:00:00",
+      "streets": "Morcellement Antelmne and Morcellement Moraby at Forest Side:                                                                     Mayfair street, Corby road, Hamilton road, Orient street, Brighton road, Barrow lane, Barnet road, Maidstone road, Stradford street and nearby alleys.",
+      "from": "2026-07-23T05:00:00.000Z",
+      "to": "2026-07-23T11:00:00.000Z",
+      "id": "d5583fa629109ffe1f618815929ffcd8"
+    },
     {
       "date": "Le dimanche 24 mai 2026 de  08:30:00 à  16:00:00",
       "streets": "Dans les environs de Morc Antelme, Morc Desvoyenne, Morc Mooneyenne, Morc Moraby, Morc Hosany, Camp Bombaye, une partie de Morc Piat, Camp Le Juge, Derby Street, Les Residences St Luc, Bourg, La Brasserie, La Colombe, Jasmin et Atlee",

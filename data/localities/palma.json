@@ -2,11 +2,18 @@
   "slug": "palma",
   "name": "PALMA",
   "district": "plainewilhems",
-  "generated": "2026-07-21T18:24:06.280Z",
-  "outageCount": 66,
+  "generated": "2026-07-22T06:46:59.749Z",
+  "outageCount": 67,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-07-14",
+  "lastOutage": "2026-07-22",
   "outages": [
+    {
+      "date": "Le mercredi 22 juillet 2026 de  09:30:00 à  12:00:00",
+      "streets": "ROYAL ROAD, JEEWOONARAIN RD & SURROUNDING",
+      "from": "2026-07-22T05:30:00.000Z",
+      "to": "2026-07-22T08:00:00.000Z",
+      "id": "8e1babf2caaa91aad416d1025e39fa72"
+    },
     {
       "date": "Le mardi 14 juillet 2026 de  19:00:00 à  23:00:00",
       "streets": "AVENUE ROTIN No 1, CHEMIN LA FERME ET DANS LES ALENTOURS TERRAIN FOOTBALL.",

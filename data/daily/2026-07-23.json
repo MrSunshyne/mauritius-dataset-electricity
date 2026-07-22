@@ -1,9 +1,19 @@
 {
   "date": "2026-07-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-21T18:24:06.199Z",
-  "outageCount": 1,
+  "generated": "2026-07-22T06:46:59.633Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le jeudi 23 juillet 2026 de  09:00:00 à  15:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "Morcellement Antelmne and Morcellement Moraby at Forest Side:                                                                     Mayfair street, Corby road, Hamilton road, Orient street, Brighton road, Barrow lane, Barnet road, Maidstone road, Stradford street and nearby alleys.",
+      "district": "plainewilhems",
+      "from": "2026-07-23T05:00:00.000Z",
+      "to": "2026-07-23T11:00:00.000Z",
+      "id": "d5583fa629109ffe1f618815929ffcd8"
+    },
     {
       "date": "Le jeudi 23 juillet 2026 de  09:00:00 à  17:00:00",
       "locality": "BAIE DU CAP",

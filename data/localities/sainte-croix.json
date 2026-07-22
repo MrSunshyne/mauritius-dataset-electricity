@@ -2,11 +2,18 @@
   "slug": "sainte-croix",
   "name": "SAINTE CROIX",
   "district": "portlouis",
-  "generated": "2026-07-21T18:24:06.308Z",
-  "outageCount": 82,
+  "generated": "2026-07-22T06:46:59.788Z",
+  "outageCount": 83,
   "firstOutage": "2022-04-26",
-  "lastOutage": "2026-07-16",
+  "lastOutage": "2026-07-22",
   "outages": [
+    {
+      "date": "Le mercredi 22 juillet 2026 de  10:40:00 à  14:00:00",
+      "streets": "EMILE BASSET RD, MOHAMED HOSSEN RD, ST CROIX RD, MAMZEL RD & LECORNU",
+      "from": "2026-07-22T06:40:00.000Z",
+      "to": "2026-07-22T10:00:00.000Z",
+      "id": "1d90450b48d84da9d82cea7289bcc62a"
+    },
     {
       "date": "Le jeudi 16 juillet 2026 de  16:00:00 à  17:45:00",
       "streets": "LECORNU, ST GABRIEL & SURROUNDINGS",

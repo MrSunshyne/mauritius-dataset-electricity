@@ -2,11 +2,18 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-07-21T18:24:06.319Z",
-  "outageCount": 258,
+  "generated": "2026-07-22T06:46:59.800Z",
+  "outageCount": 259,
   "firstOutage": "2022-03-17",
-  "lastOutage": "2026-07-15",
+  "lastOutage": "2026-07-26",
   "outages": [
+    {
+      "date": "Le dimanche 26 juillet 2026 de  08:00:00 à  17:00:00",
+      "streets": ": Hollyrood No.1, une partie de Route Quinze-Cantons No.2, une partie de Route Desvergues, une partie de Route La Marie, Route Begue, Route Bonnefin, Chemin Reservoir, Dudhee Lane, Chemin La Source, Mootoo Lane et les environs",
+      "from": "2026-07-26T04:00:00.000Z",
+      "to": "2026-07-26T13:00:00.000Z",
+      "id": "e1b7f65662613a2fc866f55f11d7edb6"
+    },
     {
       "date": "Le mercredi 15 juillet 2026 de  09:50:00 à  11:00:00",
       "streets": "NHDC Glenpark",

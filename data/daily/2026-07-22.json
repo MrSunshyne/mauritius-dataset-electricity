@@ -1,9 +1,29 @@
 {
   "date": "2026-07-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-21T18:24:06.199Z",
-  "outageCount": 4,
+  "generated": "2026-07-22T06:46:59.633Z",
+  "outageCount": 8,
   "outages": [
+    {
+      "date": "Le mercredi 22 juillet 2026 de  09:30:00 à  12:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "MORC TERRE DALBION",
+      "district": "blackriver",
+      "from": "2026-07-22T05:30:00.000Z",
+      "to": "2026-07-22T08:00:00.000Z",
+      "id": "73d16ea517cc0fcc3def02dbccc521c7"
+    },
+    {
+      "date": "Le mercredi 22 juillet 2026 de  00:00:00 à  04:00:00",
+      "locality": "MON GOUT",
+      "localitySlug": "mon-gout",
+      "streets": "SHIVALA ROAD DANS LES ALENTOURS ECOLE GOUVERNEMENT.",
+      "district": "pamplemousses",
+      "from": "2026-07-21T20:00:00.000Z",
+      "to": "2026-07-21T00:00:00.000Z",
+      "id": "cfe77b30491fe44fd1e1f725afe2f058"
+    },
     {
       "date": "Le mercredi 22 juillet 2026 de  09:00:00 à  15:00:00",
       "locality": "EAU COULEE",
@@ -23,6 +43,26 @@
       "from": "2026-07-22T05:00:00.000Z",
       "to": "2026-07-22T13:00:00.000Z",
       "id": "702c1d452c8d2476ea62706f8918ee98"
+    },
+    {
+      "date": "Le mercredi 22 juillet 2026 de  09:30:00 à  12:00:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "ROYAL ROAD, JEEWOONARAIN RD & SURROUNDING",
+      "district": "plainewilhems",
+      "from": "2026-07-22T05:30:00.000Z",
+      "to": "2026-07-22T08:00:00.000Z",
+      "id": "8e1babf2caaa91aad416d1025e39fa72"
+    },
+    {
+      "date": "Le mercredi 22 juillet 2026 de  10:40:00 à  14:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "EMILE BASSET RD, MOHAMED HOSSEN RD, ST CROIX RD, MAMZEL RD & LECORNU",
+      "district": "portlouis",
+      "from": "2026-07-22T06:40:00.000Z",
+      "to": "2026-07-22T10:00:00.000Z",
+      "id": "1d90450b48d84da9d82cea7289bcc62a"
     },
     {
       "date": "Le mercredi 22 juillet 2026 de  09:00:00 à  17:00:00",
