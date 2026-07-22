@@ -2,11 +2,18 @@
   "slug": "cluny",
   "name": "CLUNY",
   "district": "grandport",
-  "generated": "2026-07-22T09:45:23.835Z",
-  "outageCount": 14,
+  "generated": "2026-07-22T10:40:28.165Z",
+  "outageCount": 15,
   "firstOutage": "2022-05-07",
-  "lastOutage": "2026-07-20",
+  "lastOutage": "2026-07-28",
   "outages": [
+    {
+      "date": "Le mardi 28 juillet 2026 de  09:00:00 à  13:00:00",
+      "streets": "Beemanique, Cluny & Bananes",
+      "from": "2026-07-28T05:00:00.000Z",
+      "to": "2026-07-28T09:00:00.000Z",
+      "id": "cd69fa70140f9668a0bf5d6c869c186a"
+    },
     {
       "date": "Le lundi 20 juillet 2026 de  10:10:00 à  12:30:00",
       "streets": "CWA & SURROUNDINGS",
