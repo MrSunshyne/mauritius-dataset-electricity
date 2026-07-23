@@ -2,8 +2,8 @@
   "slug": "sainte-croix",
   "name": "SAINTE CROIX",
   "district": "portlouis",
-  "generated": "2026-07-23T09:45:25.181Z",
-  "outageCount": 84,
+  "generated": "2026-07-23T10:41:46.829Z",
+  "outageCount": 85,
   "firstOutage": "2022-04-26",
   "lastOutage": "2026-07-25",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-07-25T04:30:00.000Z",
       "to": "2026-07-25T10:30:00.000Z",
       "id": "afab5fffe274211001e0293e5fba11bc"
+    },
+    {
+      "date": "Le jeudi 23 juillet 2026 de  14:30:00 à  15:30:00",
+      "streets": "SAINTE CROIX ROAD.",
+      "from": "2026-07-23T10:30:00.000Z",
+      "to": "2026-07-23T11:30:00.000Z",
+      "id": "3c2bc4070e2d746170f0cb3c512565ea"
     },
     {
       "date": "Le mercredi 22 juillet 2026 de  10:40:00 à  14:00:00",

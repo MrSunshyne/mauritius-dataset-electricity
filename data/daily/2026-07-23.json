@@ -1,8 +1,8 @@
 {
   "date": "2026-07-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-23T09:45:25.061Z",
-  "outageCount": 7,
+  "generated": "2026-07-23T10:41:46.695Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le jeudi 23 juillet 2026 de  08:30:00 à  15:00:00",
@@ -63,6 +63,16 @@
       "from": "2026-07-23T08:00:00.000Z",
       "to": "2026-07-23T13:00:00.000Z",
       "id": "4c92d8bc77b5ee91b6bd97d085ee9926"
+    },
+    {
+      "date": "Le jeudi 23 juillet 2026 de  14:30:00 à  15:30:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "SAINTE CROIX ROAD.",
+      "district": "portlouis",
+      "from": "2026-07-23T10:30:00.000Z",
+      "to": "2026-07-23T11:30:00.000Z",
+      "id": "3c2bc4070e2d746170f0cb3c512565ea"
     },
     {
       "date": "Le jeudi 23 juillet 2026 de  09:00:00 à  17:00:00",
