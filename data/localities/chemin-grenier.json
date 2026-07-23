@@ -2,11 +2,18 @@
   "slug": "chemin-grenier",
   "name": "CHEMIN GRENIER",
   "district": "savanne",
-  "generated": "2026-07-23T11:35:09.091Z",
-  "outageCount": 58,
+  "generated": "2026-07-23T12:28:15.259Z",
+  "outageCount": 59,
   "firstOutage": "2022-05-22",
-  "lastOutage": "2026-05-21",
+  "lastOutage": "2026-07-26",
   "outages": [
+    {
+      "date": "Le dimanche 26 juillet 2026 de  09:00:00 à  16:00:00",
+      "streets": "Camp Charlot Chemin Grenier et Riviere Des Galets",
+      "from": "2026-07-26T05:00:00.000Z",
+      "to": "2026-07-26T12:00:00.000Z",
+      "id": "6e622e80ada461ba77545651601c5700"
+    },
     {
       "date": "Le jeudi 21 mai 2026 de  13:00:00 à  17:30:00",
       "streets": "Chemin Grenier",
