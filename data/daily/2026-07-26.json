@@ -1,9 +1,19 @@
 {
   "date": "2026-07-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-23T10:41:46.695Z",
-  "outageCount": 1,
+  "generated": "2026-07-23T11:35:09.039Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le dimanche 26 juillet 2026 de  08:30:00 à  17:00:00",
+      "locality": "L-AVENTURE",
+      "localitySlug": "l-aventure",
+      "streets": "LAVENTURE, ETITE RETRAITE, GRANDE RETRAITE, PONT BLANC, BON ACCUEIL, BELLE VUE ALLENDY DANS LE PERIMETRE DE SOHATOO POULTRY, EMTEL LAVENTURE, ISKCON BON ACCUEIL ET POST OFFICE BON ACCUEIL.",
+      "district": "flacq",
+      "from": "2026-07-26T04:30:00.000Z",
+      "to": "2026-07-26T13:00:00.000Z",
+      "id": "00223f7fd7585b900aef137e686acb40"
+    },
     {
       "date": "Le dimanche 26 juillet 2026 de  08:00:00 à  17:00:00",
       "locality": "VACOAS",
