@@ -2,11 +2,18 @@
   "slug": "moka",
   "name": "MOKA",
   "district": "moka",
-  "generated": "2026-07-23T07:46:26.440Z",
-  "outageCount": 73,
+  "generated": "2026-07-23T08:49:12.380Z",
+  "outageCount": 74,
   "firstOutage": "2022-06-13",
-  "lastOutage": "2026-07-18",
+  "lastOutage": "2026-07-23",
   "outages": [
+    {
+      "date": "Le jeudi 23 juillet 2026 de  12:00:00 à  14:00:00",
+      "streets": "CHANTENAY & SURROUNDINGS",
+      "from": "2026-07-23T08:00:00.000Z",
+      "to": "2026-07-23T10:00:00.000Z",
+      "id": "0c36ddf53b5698df65278e9783336149"
+    },
     {
       "date": "Le samedi 18 juillet 2026 de  08:30:00 à  15:00:00",
       "streets": "Charles Telfair, Gentilly Estate, CWA Minissy, CWA Camp Auguste et Avipro Minissy",

@@ -1,8 +1,8 @@
 {
   "date": "2026-07-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-23T07:46:26.348Z",
-  "outageCount": 5,
+  "generated": "2026-07-23T08:49:12.311Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le jeudi 23 juillet 2026 de  08:30:00 à  15:00:00",
@@ -25,6 +25,16 @@
       "id": "0da886550a1218af95bee53e6305a1a3"
     },
     {
+      "date": "Le jeudi 23 juillet 2026 de  12:00:00 à  14:00:00",
+      "locality": "MOKA",
+      "localitySlug": "moka",
+      "streets": "CHANTENAY & SURROUNDINGS",
+      "district": "moka",
+      "from": "2026-07-23T08:00:00.000Z",
+      "to": "2026-07-23T10:00:00.000Z",
+      "id": "0c36ddf53b5698df65278e9783336149"
+    },
+    {
       "date": "Le jeudi 23 juillet 2026 de  09:00:00 à  15:00:00",
       "locality": "FOREST SIDE",
       "localitySlug": "forest-side",
@@ -43,6 +53,16 @@
       "from": "2026-07-23T06:45:00.000Z",
       "to": "2026-07-23T08:00:00.000Z",
       "id": "79bf73cf9b92022103796e69f3cb9b75"
+    },
+    {
+      "date": "Le jeudi 23 juillet 2026 de  12:00:00 à  17:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "COSSIGNY ST, SIR GAETAN DUVAL, REMONO ST, SAUZIER ST, WILLIAM NEWTON ST, DR EDWARTS ST & SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2026-07-23T08:00:00.000Z",
+      "to": "2026-07-23T13:00:00.000Z",
+      "id": "4c92d8bc77b5ee91b6bd97d085ee9926"
     },
     {
       "date": "Le jeudi 23 juillet 2026 de  09:00:00 à  17:00:00",

@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-07-23T07:46:26.406Z",
-  "outageCount": 228,
+  "generated": "2026-07-23T08:49:12.355Z",
+  "outageCount": 229,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-07-17",
+  "lastOutage": "2026-07-23",
   "outages": [
+    {
+      "date": "Le jeudi 23 juillet 2026 de  12:00:00 à  17:00:00",
+      "streets": "COSSIGNY ST, SIR GAETAN DUVAL, REMONO ST, SAUZIER ST, WILLIAM NEWTON ST, DR EDWARTS ST & SURROUNDINGS",
+      "from": "2026-07-23T08:00:00.000Z",
+      "to": "2026-07-23T13:00:00.000Z",
+      "id": "4c92d8bc77b5ee91b6bd97d085ee9926"
+    },
     {
       "date": "Le vendredi 17 juillet 2026 de  14:45:00 à  16:15:00",
       "streets": "RUE LEES EN DIRECTION FLAT MESNIL ET LES ALENTOURS.",
