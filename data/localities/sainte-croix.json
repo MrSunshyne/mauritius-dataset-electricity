@@ -2,11 +2,18 @@
   "slug": "sainte-croix",
   "name": "SAINTE CROIX",
   "district": "portlouis",
-  "generated": "2026-07-22T18:22:11.562Z",
-  "outageCount": 83,
+  "generated": "2026-07-23T06:45:36.832Z",
+  "outageCount": 84,
   "firstOutage": "2022-04-26",
-  "lastOutage": "2026-07-22",
+  "lastOutage": "2026-07-25",
   "outages": [
+    {
+      "date": "Le samedi 25 juillet 2026 de  08:30:00 à  14:30:00",
+      "streets": "Dans les environs des Rues Mariamen Temple, Desboucher, Lataniers, Laprairie, Canal Bathurst, Higginson, Arpenteur, Allee Pere Laval et Udhin Lane",
+      "from": "2026-07-25T04:30:00.000Z",
+      "to": "2026-07-25T10:30:00.000Z",
+      "id": "afab5fffe274211001e0293e5fba11bc"
+    },
     {
       "date": "Le mercredi 22 juillet 2026 de  10:40:00 à  14:00:00",
       "streets": "EMILE BASSET RD, MOHAMED HOSSEN RD, ST CROIX RD, MAMZEL RD & LECORNU",

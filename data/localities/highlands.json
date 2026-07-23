@@ -2,11 +2,18 @@
   "slug": "highlands",
   "name": "HIGHLANDS",
   "district": "plainewilhems",
-  "generated": "2026-07-22T18:22:11.507Z",
-  "outageCount": 81,
+  "generated": "2026-07-23T06:45:36.769Z",
+  "outageCount": 82,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2026-07-19",
+  "lastOutage": "2026-07-25",
   "outages": [
+    {
+      "date": "Le samedi 25 juillet 2026 de  08:30:00 à  16:00:00",
+      "streets": "Morcellement Rahameea, PHCE Marketing et les environs,",
+      "from": "2026-07-25T04:30:00.000Z",
+      "to": "2026-07-25T12:00:00.000Z",
+      "id": "dce2cc1d515d4853a08452199717a690"
+    },
     {
       "date": "Le dimanche 19 juillet 2026 de  17:00:00 à  22:30:00",
       "streets": "CHEMIN APPAVE, EN PARTIE MORC MTMD, HIGHLANDS BRANCH ROAD, HIGHLANDS SUGAR ESTATE ET LES ALENTOURS.",

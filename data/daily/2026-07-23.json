@@ -1,8 +1,8 @@
 {
   "date": "2026-07-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-22T18:22:11.436Z",
-  "outageCount": 3,
+  "generated": "2026-07-23T06:45:36.695Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le jeudi 23 juillet 2026 de  08:30:00 à  15:00:00",
@@ -15,6 +15,16 @@
       "id": "63dd81b8af1c72acfdaf3aa532c20830"
     },
     {
+      "date": "Le jeudi 23 juillet 2026 de  09:30:00 à  12:30:00",
+      "locality": "FERNEY",
+      "localitySlug": "ferney",
+      "streets": "Ferney Village, Vieux Grand Port, Providence, Anse Joncse, Domaine du Chasseur, Bois des Amourette, Bambou Virieux, Point aux Feuilles, Petit Sable Grand Sable, Quatre Soeur & Deux Frere",
+      "district": "grandport",
+      "from": "2026-07-23T05:30:00.000Z",
+      "to": "2026-07-23T08:30:00.000Z",
+      "id": "0da886550a1218af95bee53e6305a1a3"
+    },
+    {
       "date": "Le jeudi 23 juillet 2026 de  09:00:00 à  15:00:00",
       "locality": "FOREST SIDE",
       "localitySlug": "forest-side",
@@ -23,6 +33,16 @@
       "from": "2026-07-23T05:00:00.000Z",
       "to": "2026-07-23T11:00:00.000Z",
       "id": "d5583fa629109ffe1f618815929ffcd8"
+    },
+    {
+      "date": "Le jeudi 23 juillet 2026 de  10:45:00 à  12:00:00",
+      "locality": "CAMP FOUQUEREAUX",
+      "localitySlug": "camp-fouquereaux",
+      "streets": "ROYAL ROAD",
+      "district": "plainewilhems",
+      "from": "2026-07-23T06:45:00.000Z",
+      "to": "2026-07-23T08:00:00.000Z",
+      "id": "79bf73cf9b92022103796e69f3cb9b75"
     },
     {
       "date": "Le jeudi 23 juillet 2026 de  09:00:00 à  17:00:00",

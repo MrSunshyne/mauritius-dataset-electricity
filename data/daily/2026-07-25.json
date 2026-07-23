@@ -1,8 +1,8 @@
 {
   "date": "2026-07-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-22T18:22:11.436Z",
-  "outageCount": 1,
+  "generated": "2026-07-23T06:45:36.695Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le samedi 25 juillet 2026 de  08:30:00 à  14:30:00",
@@ -13,6 +13,26 @@
       "from": "2026-07-25T04:30:00.000Z",
       "to": "2026-07-25T10:30:00.000Z",
       "id": "b5ba9742a98ca52a502330b5619f3bb6"
+    },
+    {
+      "date": "Le samedi 25 juillet 2026 de  08:30:00 à  16:00:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "Morcellement Rahameea, PHCE Marketing et les environs,",
+      "district": "plainewilhems",
+      "from": "2026-07-25T04:30:00.000Z",
+      "to": "2026-07-25T12:00:00.000Z",
+      "id": "dce2cc1d515d4853a08452199717a690"
+    },
+    {
+      "date": "Le samedi 25 juillet 2026 de  08:30:00 à  14:30:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "Dans les environs des Rues Mariamen Temple, Desboucher, Lataniers, Laprairie, Canal Bathurst, Higginson, Arpenteur, Allee Pere Laval et Udhin Lane",
+      "district": "portlouis",
+      "from": "2026-07-25T04:30:00.000Z",
+      "to": "2026-07-25T10:30:00.000Z",
+      "id": "afab5fffe274211001e0293e5fba11bc"
     }
   ]
 }

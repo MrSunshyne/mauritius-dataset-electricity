@@ -2,11 +2,18 @@
   "slug": "ferney",
   "name": "FERNEY",
   "district": "grandport",
-  "generated": "2026-07-22T18:22:11.497Z",
-  "outageCount": 8,
+  "generated": "2026-07-23T06:45:36.758Z",
+  "outageCount": 9,
   "firstOutage": "2024-09-02",
-  "lastOutage": "2026-05-06",
+  "lastOutage": "2026-07-23",
   "outages": [
+    {
+      "date": "Le jeudi 23 juillet 2026 de  09:30:00 à  12:30:00",
+      "streets": "Ferney Village, Vieux Grand Port, Providence, Anse Joncse, Domaine du Chasseur, Bois des Amourette, Bambou Virieux, Point aux Feuilles, Petit Sable Grand Sable, Quatre Soeur & Deux Frere",
+      "from": "2026-07-23T05:30:00.000Z",
+      "to": "2026-07-23T08:30:00.000Z",
+      "id": "0da886550a1218af95bee53e6305a1a3"
+    },
     {
       "date": "Le mercredi 6 mai 2026 de  06:15:00 à  15:00:00",
       "streets": "Ferney,Vieux Grand Port,Bois des Amourettes,Providence,Terre Casse,Anse jonchee et Bambous Virieux",
