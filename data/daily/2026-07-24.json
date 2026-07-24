@@ -1,8 +1,8 @@
 {
   "date": "2026-07-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-24T07:45:08.931Z",
-  "outageCount": 2,
+  "generated": "2026-07-24T08:48:01.315Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le vendredi 24 juillet 2026 de  08:30:00 à  15:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-07-24T06:55:00.000Z",
       "to": "2026-07-24T07:30:00.000Z",
       "id": "24953f55020cbc758b1f69d5661182c4"
+    },
+    {
+      "date": "Le vendredi 24 juillet 2026 de  12:15:00 à  13:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Morc Leclezio,Pantheon Bassin",
+      "district": "plainewilhems",
+      "from": "2026-07-24T08:15:00.000Z",
+      "to": "2026-07-24T09:30:00.000Z",
+      "id": "156447c2493b3300034a07d8aad242f1"
     }
   ]
 }

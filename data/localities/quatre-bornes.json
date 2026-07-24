@@ -2,8 +2,8 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-07-24T07:45:09.017Z",
-  "outageCount": 401,
+  "generated": "2026-07-24T08:48:01.426Z",
+  "outageCount": 402,
   "firstOutage": "2022-04-01",
   "lastOutage": "2026-07-30",
   "outages": [
@@ -20,6 +20,13 @@
       "from": "2026-07-25T04:30:00.000Z",
       "to": "2026-07-25T10:30:00.000Z",
       "id": "b5ba9742a98ca52a502330b5619f3bb6"
+    },
+    {
+      "date": "Le vendredi 24 juillet 2026 de  12:15:00 à  13:30:00",
+      "streets": "Morc Leclezio,Pantheon Bassin",
+      "from": "2026-07-24T08:15:00.000Z",
+      "to": "2026-07-24T09:30:00.000Z",
+      "id": "156447c2493b3300034a07d8aad242f1"
     },
     {
       "date": "Le mercredi 22 juillet 2026 de  09:00:00 à  17:00:00",
