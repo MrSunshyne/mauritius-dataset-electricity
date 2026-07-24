@@ -2,11 +2,18 @@
   "slug": "mon-choisy",
   "name": "MON CHOISY",
   "district": "pamplemousses",
-  "generated": "2026-07-24T06:46:23.427Z",
-  "outageCount": 34,
+  "generated": "2026-07-24T07:45:08.999Z",
+  "outageCount": 35,
   "firstOutage": "2022-05-21",
-  "lastOutage": "2026-05-15",
+  "lastOutage": "2026-07-24",
   "outages": [
+    {
+      "date": "Le vendredi 24 juillet 2026 de  10:55:00 à  11:30:00",
+      "streets": "Mon Choisy,Trou aux Biches,Pte aux Piments",
+      "from": "2026-07-24T06:55:00.000Z",
+      "to": "2026-07-24T07:30:00.000Z",
+      "id": "24953f55020cbc758b1f69d5661182c4"
+    },
     {
       "date": "Le vendredi 15 mai 2026 de  12:00:00 à  16:00:00",
       "streets": "MORC VRS MON CHOISY",

@@ -1,8 +1,8 @@
 {
   "date": "2026-07-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-24T06:46:23.337Z",
-  "outageCount": 1,
+  "generated": "2026-07-24T07:45:08.931Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le vendredi 24 juillet 2026 de  08:30:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-07-24T04:30:00.000Z",
       "to": "2026-07-24T11:00:00.000Z",
       "id": "44fc2b0e9d7565f7c1ea2ff86f0e739f"
+    },
+    {
+      "date": "Le vendredi 24 juillet 2026 de  10:55:00 à  11:30:00",
+      "locality": "MON CHOISY",
+      "localitySlug": "mon-choisy",
+      "streets": "Mon Choisy,Trou aux Biches,Pte aux Piments",
+      "district": "pamplemousses",
+      "from": "2026-07-24T06:55:00.000Z",
+      "to": "2026-07-24T07:30:00.000Z",
+      "id": "24953f55020cbc758b1f69d5661182c4"
     }
   ]
 }
