@@ -1,8 +1,8 @@
 {
   "date": "2026-07-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-24T11:30:32.942Z",
-  "outageCount": 4,
+  "generated": "2026-07-24T12:25:53.744Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le samedi 25 juillet 2026 de  08:30:00 à  15:00:00",
@@ -43,6 +43,26 @@
       "from": "2026-07-25T04:30:00.000Z",
       "to": "2026-07-25T10:30:00.000Z",
       "id": "afab5fffe274211001e0293e5fba11bc"
+    },
+    {
+      "date": "Le samedi 25 juillet 2026 de  15:00:00 à  16:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Vengar, Terre Rouge, Grand Baie, Citronelle et Sygangue",
+      "district": "rodrigues",
+      "from": "2026-07-25T11:00:00.000Z",
+      "to": "2026-07-25T12:00:00.000Z",
+      "id": "600e325f45ea4596bc8b903ce6b13117"
+    },
+    {
+      "date": "Le samedi 25 juillet 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Port Sud Est, Mourouck et Montagne Cherie",
+      "district": "rodrigues",
+      "from": "2026-07-25T04:30:00.000Z",
+      "to": "2026-07-25T11:00:00.000Z",
+      "id": "f45a442e2ea1ffe811ca123298161e90"
     }
   ]
 }

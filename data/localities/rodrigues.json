@@ -2,11 +2,32 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-07-24T11:30:33.068Z",
-  "outageCount": 245,
+  "generated": "2026-07-24T12:25:53.871Z",
+  "outageCount": 248,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-07-22",
+  "lastOutage": "2026-07-26",
   "outages": [
+    {
+      "date": "Le dimanche 26 juillet 2026 de  08:30:00 à  15:00:00",
+      "streets": "Mourouck, Anse Baleine, Parc Tortue",
+      "from": "2026-07-26T04:30:00.000Z",
+      "to": "2026-07-26T11:00:00.000Z",
+      "id": "f6c06b7d9024ee6043d4dbcbc7783aa9"
+    },
+    {
+      "date": "Le samedi 25 juillet 2026 de  15:00:00 à  16:00:00",
+      "streets": "Vengar, Terre Rouge, Grand Baie, Citronelle et Sygangue",
+      "from": "2026-07-25T11:00:00.000Z",
+      "to": "2026-07-25T12:00:00.000Z",
+      "id": "600e325f45ea4596bc8b903ce6b13117"
+    },
+    {
+      "date": "Le samedi 25 juillet 2026 de  08:30:00 à  15:00:00",
+      "streets": "Port Sud Est, Mourouck et Montagne Cherie",
+      "from": "2026-07-25T04:30:00.000Z",
+      "to": "2026-07-25T11:00:00.000Z",
+      "id": "f45a442e2ea1ffe811ca123298161e90"
+    },
     {
       "date": "Le mercredi 22 juillet 2026 de  08:30:00 à  16:00:00",
       "streets": "Piments, Reposoir, Baie Topaze, Camp Pintade,Montagne Croupier, Camp Pintade, Montagne Plate et Plaine Maho",

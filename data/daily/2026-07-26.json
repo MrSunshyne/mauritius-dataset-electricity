@@ -1,8 +1,8 @@
 {
   "date": "2026-07-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-24T11:30:32.942Z",
-  "outageCount": 5,
+  "generated": "2026-07-24T12:25:53.744Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le dimanche 26 juillet 2026 de  08:30:00 à  17:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-07-26T05:00:00.000Z",
       "to": "2026-07-26T12:00:00.000Z",
       "id": "6e622e80ada461ba77545651601c5700"
+    },
+    {
+      "date": "Le dimanche 26 juillet 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Mourouck, Anse Baleine, Parc Tortue",
+      "district": "rodrigues",
+      "from": "2026-07-26T04:30:00.000Z",
+      "to": "2026-07-26T11:00:00.000Z",
+      "id": "f6c06b7d9024ee6043d4dbcbc7783aa9"
     }
   ]
 }

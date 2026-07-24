@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-24T11:30:33.091Z",
+  "generated": "2026-07-24T12:25:53.896Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -934,10 +934,10 @@
       "slug": "carreau-esnouf",
       "name": "CARREAU ESNOUF",
       "district": "grandport",
-      "outageCount": 4,
+      "outageCount": 5,
       "file": "carreau-esnouf.json",
       "firstOutage": "2025-08-11",
-      "lastOutage": "2026-05-27"
+      "lastOutage": "2026-07-27"
     },
     {
       "slug": "carreau-laliane",
@@ -2950,10 +2950,10 @@
       "slug": "plaine-magnien",
       "name": "PLAINE MAGNIEN",
       "district": "grandport",
-      "outageCount": 70,
+      "outageCount": 71,
       "file": "plaine-magnien.json",
       "firstOutage": "2022-06-08",
-      "lastOutage": "2026-07-18"
+      "lastOutage": "2026-07-27"
     },
     {
       "slug": "plaine-verte",
@@ -3490,10 +3490,10 @@
       "slug": "rodrigues",
       "name": "RODRIGUES",
       "district": "rodrigues",
-      "outageCount": 245,
+      "outageCount": 248,
       "file": "rodrigues.json",
       "firstOutage": "2022-03-15",
-      "lastOutage": "2026-07-22"
+      "lastOutage": "2026-07-26"
     },
     {
       "slug": "rose-belle",

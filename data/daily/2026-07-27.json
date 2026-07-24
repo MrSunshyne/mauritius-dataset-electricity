@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-27",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-07-24T12:25:53.744Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le lundi 27 juillet 2026 de  13:00:00 à  15:00:00",
+      "locality": "CARREAU ESNOUF",
+      "localitySlug": "carreau-esnouf",
+      "streets": "Carreau Esnouf habitant dans le périmètre et les rues suivantes:Maurifarm Quarantaine, EMTEL Technopolis et Union",
+      "district": "grandport",
+      "from": "2026-07-27T09:00:00.000Z",
+      "to": "2026-07-27T11:00:00.000Z",
+      "id": "97d50ed686a27c7b9244b29c6fdbd8bd"
+    },
+    {
+      "date": "Le lundi 27 juillet 2026 de  09:00:00 à  13:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "Plaine Magnien habitant dans le périmètre et les rues suivantes: Mon Desert Road, Morcellement VRS et CWA MTMD Borehole",
+      "district": "grandport",
+      "from": "2026-07-27T05:00:00.000Z",
+      "to": "2026-07-27T09:00:00.000Z",
+      "id": "64b1aa25e09bb75ec4ee544ad6b8b20a"
+    }
+  ]
+}
