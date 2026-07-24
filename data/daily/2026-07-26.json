@@ -1,8 +1,8 @@
 {
   "date": "2026-07-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-24T08:48:01.315Z",
-  "outageCount": 3,
+  "generated": "2026-07-24T09:44:19.438Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le dimanche 26 juillet 2026 de  08:30:00 à  17:00:00",
@@ -23,6 +23,26 @@
       "from": "2026-07-26T04:00:00.000Z",
       "to": "2026-07-26T13:00:00.000Z",
       "id": "e1b7f65662613a2fc866f55f11d7edb6"
+    },
+    {
+      "date": "Le dimanche 26 juillet 2026 de  10:00:00 à  13:00:00",
+      "locality": "16EME MILE",
+      "localitySlug": "16eme-mile",
+      "streets": "Part of Morc Domah",
+      "district": "plainewilhems",
+      "from": "2026-07-26T06:00:00.000Z",
+      "to": "2026-07-26T09:00:00.000Z",
+      "id": "84e2ddb003fdcdf8b77d7fe8b24782dd"
+    },
+    {
+      "date": "Le dimanche 26 juillet 2026 de  08:00:00 à  11:00:00",
+      "locality": "16EME MILE",
+      "localitySlug": "16eme-mile",
+      "streets": "Part of Morc Domah,Part of Mardi Road,Part of Royal Road 16 eme Mile",
+      "district": "plainewilhems",
+      "from": "2026-07-26T04:00:00.000Z",
+      "to": "2026-07-26T07:00:00.000Z",
+      "id": "80a3b9dc2ec27790af4893ea85f53963"
     },
     {
       "date": "Le dimanche 26 juillet 2026 de  09:00:00 à  16:00:00",

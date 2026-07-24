@@ -2,11 +2,18 @@
   "slug": "quartier-militaire",
   "name": "QUARTIER MILITAIRE",
   "district": "moka",
-  "generated": "2026-07-24T08:48:01.425Z",
-  "outageCount": 47,
+  "generated": "2026-07-24T09:44:19.551Z",
+  "outageCount": 48,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-06-19",
+  "lastOutage": "2026-07-24",
   "outages": [
+    {
+      "date": "Le vendredi 24 juillet 2026 de  13:30:00 à  15:00:00",
+      "streets": "VUILLEMIN",
+      "from": "2026-07-24T09:30:00.000Z",
+      "to": "2026-07-24T11:00:00.000Z",
+      "id": "ae2b7d68718c18de9146450f2448ca5d"
+    },
     {
       "date": "Le vendredi 19 juin 2026 de  11:40:00 à  20:00:00",
       "streets": "VUILLEMIN Q.MILITAIRE",
