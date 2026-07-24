@@ -2,11 +2,18 @@
   "slug": "tamarin",
   "name": "TAMARIN",
   "district": "blackriver",
-  "generated": "2026-07-24T10:37:35.110Z",
-  "outageCount": 81,
+  "generated": "2026-07-24T11:30:33.078Z",
+  "outageCount": 82,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-07-16",
+  "lastOutage": "2026-07-28",
   "outages": [
+    {
+      "date": "Le mardi 28 juillet 2026 de  08:30:00 à  15:30:00",
+      "streets": "Morcellement Carlos et Avenue Jacarandas",
+      "from": "2026-07-28T04:30:00.000Z",
+      "to": "2026-07-28T11:30:00.000Z",
+      "id": "93aa3b4d414172b8200a8f75772ce0a1"
+    },
     {
       "date": "Le jeudi 16 juillet 2026 de  08:30:00 à  16:30:00",
       "streets": "MORC CARLOS, AVE JACARANDAS ET AVE BOIS CORAIL",

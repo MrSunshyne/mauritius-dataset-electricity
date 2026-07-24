@@ -1,9 +1,19 @@
 {
   "date": "2026-07-28",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-24T10:37:34.985Z",
-  "outageCount": 1,
+  "generated": "2026-07-24T11:30:32.942Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le mardi 28 juillet 2026 de  08:30:00 à  15:30:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "Morcellement Carlos et Avenue Jacarandas",
+      "district": "blackriver",
+      "from": "2026-07-28T04:30:00.000Z",
+      "to": "2026-07-28T11:30:00.000Z",
+      "id": "93aa3b4d414172b8200a8f75772ce0a1"
+    },
     {
       "date": "Le mardi 28 juillet 2026 de  09:00:00 à  13:00:00",
       "locality": "CLUNY",
