@@ -1,9 +1,19 @@
 {
   "date": "2026-07-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-24T09:44:19.438Z",
-  "outageCount": 3,
+  "generated": "2026-07-24T10:37:34.985Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le samedi 25 juillet 2026 de  08:30:00 à  15:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "ALBION PHARE, GAMMA ALBION, BISSESSUR PUMPING, POULTRY SAIRALLY ET EN PARTIE MORC BELLE VUE",
+      "district": "blackriver",
+      "from": "2026-07-25T04:30:00.000Z",
+      "to": "2026-07-25T11:00:00.000Z",
+      "id": "e1b05f0844d9cfe5c111e481a60cbc9d"
+    },
     {
       "date": "Le samedi 25 juillet 2026 de  08:30:00 à  14:30:00",
       "locality": "QUATRE-BORNES",

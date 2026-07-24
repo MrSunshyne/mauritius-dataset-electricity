@@ -2,11 +2,18 @@
   "slug": "albion",
   "name": "ALBION",
   "district": "blackriver",
-  "generated": "2026-07-24T09:44:19.458Z",
-  "outageCount": 129,
+  "generated": "2026-07-24T10:37:35.005Z",
+  "outageCount": 130,
   "firstOutage": "2022-06-06",
-  "lastOutage": "2026-07-22",
+  "lastOutage": "2026-07-25",
   "outages": [
+    {
+      "date": "Le samedi 25 juillet 2026 de  08:30:00 à  15:00:00",
+      "streets": "ALBION PHARE, GAMMA ALBION, BISSESSUR PUMPING, POULTRY SAIRALLY ET EN PARTIE MORC BELLE VUE",
+      "from": "2026-07-25T04:30:00.000Z",
+      "to": "2026-07-25T11:00:00.000Z",
+      "id": "e1b05f0844d9cfe5c111e481a60cbc9d"
+    },
     {
       "date": "Le mercredi 22 juillet 2026 de  09:30:00 à  12:00:00",
       "streets": "MORC TERRE DALBION",
