@@ -1,8 +1,8 @@
 {
   "date": "2026-07-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-25T15:20:31.294Z",
-  "outageCount": 8,
+  "generated": "2026-07-25T16:15:50.646Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le samedi 25 juillet 2026 de  08:30:00 à  15:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-07-25T04:30:00.000Z",
       "to": "2026-07-25T12:00:00.000Z",
       "id": "dce2cc1d515d4853a08452199717a690"
+    },
+    {
+      "date": "Le samedi 25 juillet 2026 de  19:00:00 à  00:00:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "BG CARE HOME IN AVENUE POUSSPASSE AND SURROUNDINGS.",
+      "district": "plainewilhems",
+      "from": "2026-07-25T15:00:00.000Z",
+      "to": "2026-07-24T20:00:00.000Z",
+      "id": "f138fca06ce64d83fe87a19133a2862c"
     },
     {
       "date": "Le samedi 25 juillet 2026 de  08:30:00 à  14:30:00",

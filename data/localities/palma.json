@@ -2,11 +2,18 @@
   "slug": "palma",
   "name": "PALMA",
   "district": "plainewilhems",
-  "generated": "2026-07-25T15:20:31.388Z",
-  "outageCount": 67,
+  "generated": "2026-07-25T16:15:50.756Z",
+  "outageCount": 68,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-07-22",
+  "lastOutage": "2026-07-25",
   "outages": [
+    {
+      "date": "Le samedi 25 juillet 2026 de  19:00:00 à  00:00:00",
+      "streets": "BG CARE HOME IN AVENUE POUSSPASSE AND SURROUNDINGS.",
+      "from": "2026-07-25T15:00:00.000Z",
+      "to": "2026-07-24T20:00:00.000Z",
+      "id": "f138fca06ce64d83fe87a19133a2862c"
+    },
     {
       "date": "Le mercredi 22 juillet 2026 de  09:30:00 à  13:30:00",
       "streets": "ROYAL ROAD, JEEWOONARAIN RD & SURROUNDING",
