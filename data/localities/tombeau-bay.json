@@ -2,11 +2,18 @@
   "slug": "tombeau-bay",
   "name": "TOMBEAU BAY",
   "district": "pamplemousses",
-  "generated": "2026-07-24T18:26:08.477Z",
-  "outageCount": 139,
+  "generated": "2026-07-25T06:42:03.112Z",
+  "outageCount": 140,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-07-21",
+  "lastOutage": "2026-07-25",
   "outages": [
+    {
+      "date": "Le samedi 25 juillet 2026 de  08:45:00 à  13:00:00",
+      "streets": "ST MALO, FILATURE, ROUILLARD LANE ET LES ALENTOURS",
+      "from": "2026-07-25T04:45:00.000Z",
+      "to": "2026-07-25T09:00:00.000Z",
+      "id": "29233f6478dcdd983c8a29c079735104"
+    },
     {
       "date": "Le mardi 21 juillet 2026 de  09:45:00 à  11:00:00",
       "streets": "MORC SWAN",
