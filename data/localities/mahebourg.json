@@ -2,11 +2,18 @@
   "slug": "mahebourg",
   "name": "MAHEBOURG",
   "district": "grandport",
-  "generated": "2026-07-25T09:29:56.708Z",
-  "outageCount": 85,
+  "generated": "2026-07-25T10:28:28.871Z",
+  "outageCount": 86,
   "firstOutage": "2022-04-07",
-  "lastOutage": "2026-07-20",
+  "lastOutage": "2026-07-25",
   "outages": [
+    {
+      "date": "Le samedi 25 juillet 2026 de  13:45:00 à  17:00:00",
+      "streets": "RUE VILLENEUVE ET LES ALENTOURS",
+      "from": "2026-07-25T09:45:00.000Z",
+      "to": "2026-07-25T13:00:00.000Z",
+      "id": "bedbefd5accea732ba4aa7cb63dc2698"
+    },
     {
       "date": "Le lundi 20 juillet 2026 de  08:30:00 à  16:00:00",
       "streets": "Mahebourg habitant dans le périmètre et les rues suivantes: Rue Souffleur, Rue de Colonie, Rue Maurice, Rue Bouchon, Rue La Chaux, Rue Hangar, Rue Chaland et les rues avoisinantes",

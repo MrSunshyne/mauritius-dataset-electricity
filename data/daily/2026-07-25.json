@@ -1,8 +1,8 @@
 {
   "date": "2026-07-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-25T09:29:56.621Z",
-  "outageCount": 7,
+  "generated": "2026-07-25T10:28:28.789Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le samedi 25 juillet 2026 de  08:30:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-07-25T04:30:00.000Z",
       "to": "2026-07-25T11:00:00.000Z",
       "id": "e1b05f0844d9cfe5c111e481a60cbc9d"
+    },
+    {
+      "date": "Le samedi 25 juillet 2026 de  13:45:00 à  17:00:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "RUE VILLENEUVE ET LES ALENTOURS",
+      "district": "grandport",
+      "from": "2026-07-25T09:45:00.000Z",
+      "to": "2026-07-25T13:00:00.000Z",
+      "id": "bedbefd5accea732ba4aa7cb63dc2698"
     },
     {
       "date": "Le samedi 25 juillet 2026 de  08:45:00 à  13:00:00",
