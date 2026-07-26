@@ -1,8 +1,8 @@
 {
   "date": "2026-07-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-26T15:21:43.847Z",
-  "outageCount": 10,
+  "generated": "2026-07-26T16:18:04.399Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le dimanche 26 juillet 2026 de  09:00:00 à  11:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-07-26T07:30:00.000Z",
       "to": "2026-07-26T08:30:00.000Z",
       "id": "aabfbe51f253515e11b41bad7e6d43a5"
+    },
+    {
+      "date": "Le dimanche 26 juillet 2026 de  19:00:00 à  23:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "Avenues Condor,Solitaire,Albatross,Cardinal,Pelican,Belle Eau et les Environs Camp Creole",
+      "district": "blackriver",
+      "from": "2026-07-26T15:00:00.000Z",
+      "to": "2026-07-26T19:00:00.000Z",
+      "id": "39e41eec8ebb95c06ed5a77080911a71"
     },
     {
       "date": "Le dimanche 26 juillet 2026 de  08:30:00 à  17:00:00",

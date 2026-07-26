@@ -2,11 +2,18 @@
   "slug": "albion",
   "name": "ALBION",
   "district": "blackriver",
-  "generated": "2026-07-26T15:21:43.867Z",
-  "outageCount": 130,
+  "generated": "2026-07-26T16:18:04.412Z",
+  "outageCount": 131,
   "firstOutage": "2022-06-06",
-  "lastOutage": "2026-07-25",
+  "lastOutage": "2026-07-26",
   "outages": [
+    {
+      "date": "Le dimanche 26 juillet 2026 de  19:00:00 à  23:00:00",
+      "streets": "Avenues Condor,Solitaire,Albatross,Cardinal,Pelican,Belle Eau et les Environs Camp Creole",
+      "from": "2026-07-26T15:00:00.000Z",
+      "to": "2026-07-26T19:00:00.000Z",
+      "id": "39e41eec8ebb95c06ed5a77080911a71"
+    },
     {
       "date": "Le samedi 25 juillet 2026 de  08:30:00 à  15:00:00",
       "streets": "ALBION PHARE, GAMMA ALBION, BISSESSUR PUMPING, POULTRY SAIRALLY ET EN PARTIE MORC BELLE VUE",
