@@ -1,9 +1,19 @@
 {
   "date": "2026-07-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-25T18:14:48.796Z",
-  "outageCount": 6,
+  "generated": "2026-07-26T06:50:21.518Z",
+  "outageCount": 8,
   "outages": [
+    {
+      "date": "Le dimanche 26 juillet 2026 de  09:00:00 à  11:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "LA FORGE LANE, PART OF ROYAL ROAD, RAMGOOLAM ROAD, PART OF ALBION ROAD.",
+      "district": "blackriver",
+      "from": "2026-07-26T05:00:00.000Z",
+      "to": "2026-07-26T07:00:00.000Z",
+      "id": "04e29126641515fd12130315dcf0f46e"
+    },
     {
       "date": "Le dimanche 26 juillet 2026 de  08:30:00 à  17:00:00",
       "locality": "L-AVENTURE",
@@ -43,6 +53,16 @@
       "from": "2026-07-26T04:00:00.000Z",
       "to": "2026-07-26T07:00:00.000Z",
       "id": "80a3b9dc2ec27790af4893ea85f53963"
+    },
+    {
+      "date": "Le dimanche 26 juillet 2026 de  08:30:00 à  12:30:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "FAST LANE DANS LES ENVIRONS FLOREAL SQURE , MORC GIDC ET EN PARTIE MORC REUNION DANS LES ENVIRONS WINNERS.",
+      "district": "plainewilhems",
+      "from": "2026-07-26T04:30:00.000Z",
+      "to": "2026-07-26T08:30:00.000Z",
+      "id": "7e63adc4c5341858eb42b76465653236"
     },
     {
       "date": "Le dimanche 26 juillet 2026 de  09:00:00 à  16:00:00",

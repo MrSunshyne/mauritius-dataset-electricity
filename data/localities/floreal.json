@@ -2,11 +2,18 @@
   "slug": "floreal",
   "name": "FLOREAL",
   "district": "plainewilhems",
-  "generated": "2026-07-25T18:14:48.852Z",
-  "outageCount": 94,
+  "generated": "2026-07-26T06:50:21.581Z",
+  "outageCount": 95,
   "firstOutage": "2022-03-31",
-  "lastOutage": "2026-07-21",
+  "lastOutage": "2026-07-26",
   "outages": [
+    {
+      "date": "Le dimanche 26 juillet 2026 de  08:30:00 à  12:30:00",
+      "streets": "FAST LANE DANS LES ENVIRONS FLOREAL SQURE , MORC GIDC ET EN PARTIE MORC REUNION DANS LES ENVIRONS WINNERS.",
+      "from": "2026-07-26T04:30:00.000Z",
+      "to": "2026-07-26T08:30:00.000Z",
+      "id": "7e63adc4c5341858eb42b76465653236"
+    },
     {
       "date": "Le mardi 21 juillet 2026 de  12:30:00 à  13:30:00",
       "streets": "AVE JOHN KENNEDY FLOREAL",
