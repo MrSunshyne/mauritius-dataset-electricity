@@ -1,8 +1,8 @@
 {
   "date": "2026-07-30",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-27T07:00:38.898Z",
-  "outageCount": 1,
+  "generated": "2026-07-27T09:01:24.740Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le jeudi 30 juillet 2026 de  09:00:00 à  17:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-07-30T05:00:00.000Z",
       "to": "2026-07-30T13:30:00.000Z",
       "id": "e38ff74afd4c9c70ddbb54fe52807037"
+    },
+    {
+      "date": "Le jeudi 30 juillet 2026 de  09:00:00 à  16:00:00",
+      "locality": "SAINT FELIX",
+      "localitySlug": "saint-felix",
+      "streets": "Pomponette Riambel et Morcellement Omnicane Saint Felix",
+      "district": "savanne",
+      "from": "2026-07-30T05:00:00.000Z",
+      "to": "2026-07-30T12:00:00.000Z",
+      "id": "64c473cf23dcbdee054425a6e26f7151"
     }
   ]
 }

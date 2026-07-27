@@ -2,11 +2,18 @@
   "slug": "riambel",
   "name": "RIAMBEL",
   "district": "savanne",
-  "generated": "2026-07-27T07:00:39.024Z",
-  "outageCount": 32,
+  "generated": "2026-07-27T09:01:24.865Z",
+  "outageCount": 33,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-07-16",
+  "lastOutage": "2026-07-29",
   "outages": [
+    {
+      "date": "Le mercredi 29 juillet 2026 de  09:00:00 à  16:00:00",
+      "streets": "Surinam, Riambel Surinam, Morcellement Thanacoody, Morcellement Lai Moon et NHDC Riambel",
+      "from": "2026-07-29T05:00:00.000Z",
+      "to": "2026-07-29T12:00:00.000Z",
+      "id": "3b194c97cb5a7f4bb4ea08ee8c5e7f8c"
+    },
     {
       "date": "Le jeudi 16 juillet 2026 de  09:00:00 à  16:00:00",
       "streets": "Riambel Surinam, Morcellement Dunputh et Cent Lis Sur Mer Riambel",
