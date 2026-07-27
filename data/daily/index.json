@@ -1,8 +1,13 @@
 {
-  "generated": "2026-07-27T09:01:24.740Z",
+  "generated": "2026-07-27T11:00:36.515Z",
   "timezone": "Indian/Mauritius",
   "description": "Daily files contain all outages that occurred on that date in Mauritius time",
   "available": [
+    {
+      "date": "2026-08-02",
+      "file": "2026-08-02.json",
+      "outageCount": 1
+    },
     {
       "date": "2026-07-30",
       "file": "2026-07-30.json",
