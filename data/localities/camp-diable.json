@@ -2,11 +2,18 @@
   "slug": "camp-diable",
   "name": "CAMP DIABLE",
   "district": "savanne",
-  "generated": "2026-07-28T10:46:58.223Z",
-  "outageCount": 25,
+  "generated": "2026-07-28T11:37:32.777Z",
+  "outageCount": 26,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-01-14",
+  "lastOutage": "2026-07-30",
   "outages": [
+    {
+      "date": "Le jeudi 30 juillet 2026 de  09:00:00 à  16:00:00",
+      "streets": "Camp Diable habitant dans le perimètre et les rues suivantes: Bambous Road, part of School Road, part of Royal Road, SSR Road Ilot",
+      "from": "2026-07-30T05:00:00.000Z",
+      "to": "2026-07-30T12:00:00.000Z",
+      "id": "58ae257704ca8aa465fe39d109014f7f"
+    },
     {
       "date": "Le mercredi 14 janvier 2026 de  15:30:00 à  16:45:00",
       "streets": "PART OF CAMP DIABLE",

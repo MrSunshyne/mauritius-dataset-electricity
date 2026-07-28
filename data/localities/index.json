@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T10:46:58.337Z",
+  "generated": "2026-07-28T11:37:32.880Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -115,10 +115,10 @@
       "slug": "arsenal",
       "name": "ARSENAL",
       "district": "pamplemousses",
-      "outageCount": 62,
+      "outageCount": 63,
       "file": "arsenal.json",
       "firstOutage": "2022-05-25",
-      "lastOutage": "2026-06-23"
+      "lastOutage": "2026-07-28"
     },
     {
       "slug": "bagatelle",
@@ -736,10 +736,10 @@
       "slug": "camp-diable",
       "name": "CAMP DIABLE",
       "district": "savanne",
-      "outageCount": 25,
+      "outageCount": 26,
       "file": "camp-diable.json",
       "firstOutage": "2022-03-27",
-      "lastOutage": "2026-01-14"
+      "lastOutage": "2026-07-30"
     },
     {
       "slug": "camp-du-roi",
