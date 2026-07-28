@@ -1,8 +1,8 @@
 {
   "date": "2026-07-28",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-28T13:30:22.476Z",
-  "outageCount": 7,
+  "generated": "2026-07-28T14:46:37.774Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le mardi 28 juillet 2026 de  08:30:00 à  15:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-07-28T04:30:00.000Z",
       "to": "2026-07-28T11:30:00.000Z",
       "id": "93aa3b4d414172b8200a8f75772ce0a1"
+    },
+    {
+      "date": "Le mardi 28 juillet 2026 de  18:00:00 à  20:00:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "MORC RAMDANY LES GORGES",
+      "district": "blackriver",
+      "from": "2026-07-28T14:00:00.000Z",
+      "to": "2026-07-28T16:00:00.000Z",
+      "id": "20ea63f4aacd3464e4b626e460b2a4b2"
     },
     {
       "date": "Le mardi 28 juillet 2026 de  09:00:00 à  14:00:00",
