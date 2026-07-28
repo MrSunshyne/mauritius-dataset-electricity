@@ -2,11 +2,18 @@
   "slug": "pereybere",
   "name": "PEREYBERE",
   "district": "rivieredurempart",
-  "generated": "2026-07-27T18:27:42.501Z",
-  "outageCount": 114,
+  "generated": "2026-07-28T06:47:28.381Z",
+  "outageCount": 115,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-07-18",
+  "lastOutage": "2026-07-29",
   "outages": [
+    {
+      "date": "Le mercredi 29 juillet 2026 de  09:00:00 à  15:00:00",
+      "streets": "DANS LE PERIMETRE DE LE FLAMANT ROAD, PEREYBERE",
+      "from": "2026-07-29T05:00:00.000Z",
+      "to": "2026-07-29T11:00:00.000Z",
+      "id": "f8aafe0ff5f542a690d2a8326e2cc8d9"
+    },
     {
       "date": "Le samedi 18 juillet 2026 de  08:50:00 à  12:00:00",
       "streets": "IMPASSE JOLICOEUR ET LES ALENTOURS",

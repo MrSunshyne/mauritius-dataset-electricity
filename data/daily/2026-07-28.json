@@ -1,8 +1,8 @@
 {
   "date": "2026-07-28",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-27T18:27:42.402Z",
-  "outageCount": 2,
+  "generated": "2026-07-28T06:47:28.299Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le mardi 28 juillet 2026 de  08:30:00 à  15:30:00",
@@ -23,6 +23,26 @@
       "from": "2026-07-28T05:00:00.000Z",
       "to": "2026-07-28T09:00:00.000Z",
       "id": "cd69fa70140f9668a0bf5d6c869c186a"
+    },
+    {
+      "date": "Le mardi 28 juillet 2026 de  10:00:00 à  11:30:00",
+      "locality": "FOND DU SAC",
+      "localitySlug": "fond-du-sac",
+      "streets": "EN PARTIE ROYAL RD, SCHOOL RD, DIAGONAL RD, S.CHANDRA BOSE ST ET LES ALENTOURS",
+      "district": "pamplemousses",
+      "from": "2026-07-28T06:00:00.000Z",
+      "to": "2026-07-28T07:30:00.000Z",
+      "id": "c7586a56f3a97f924e5b1a108699f6c0"
+    },
+    {
+      "date": "Le mardi 28 juillet 2026 de  09:00:00 à  15:00:00",
+      "locality": "16EME MILE",
+      "localitySlug": "16eme-mile",
+      "streets": "MORC ANTHELME-MORC MOORABY FOREST SIDE",
+      "district": "plainewilhems",
+      "from": "2026-07-28T05:00:00.000Z",
+      "to": "2026-07-28T11:00:00.000Z",
+      "id": "02b9c86eecfe3ffe2448c270a96a2bc5"
     }
   ]
 }

@@ -2,11 +2,18 @@
   "slug": "16eme-mile",
   "name": "16EME MILE",
   "district": "plainewilhems",
-  "generated": "2026-07-27T18:27:42.419Z",
-  "outageCount": 61,
+  "generated": "2026-07-28T06:47:28.313Z",
+  "outageCount": 62,
   "firstOutage": "2022-05-31",
-  "lastOutage": "2026-07-26",
+  "lastOutage": "2026-07-28",
   "outages": [
+    {
+      "date": "Le mardi 28 juillet 2026 de  09:00:00 à  15:00:00",
+      "streets": "MORC ANTHELME-MORC MOORABY FOREST SIDE",
+      "from": "2026-07-28T05:00:00.000Z",
+      "to": "2026-07-28T11:00:00.000Z",
+      "id": "02b9c86eecfe3ffe2448c270a96a2bc5"
+    },
     {
       "date": "Le dimanche 26 juillet 2026 de  10:00:00 à  13:00:00",
       "streets": "Part of Morc Domah",

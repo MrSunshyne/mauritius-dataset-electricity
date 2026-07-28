@@ -2,11 +2,18 @@
   "slug": "fond-du-sac",
   "name": "FOND DU SAC",
   "district": "pamplemousses",
-  "generated": "2026-07-27T18:27:42.464Z",
-  "outageCount": 45,
+  "generated": "2026-07-28T06:47:28.352Z",
+  "outageCount": 46,
   "firstOutage": "2022-06-16",
-  "lastOutage": "2026-06-23",
+  "lastOutage": "2026-07-28",
   "outages": [
+    {
+      "date": "Le mardi 28 juillet 2026 de  10:00:00 à  11:30:00",
+      "streets": "EN PARTIE ROYAL RD, SCHOOL RD, DIAGONAL RD, S.CHANDRA BOSE ST ET LES ALENTOURS",
+      "from": "2026-07-28T06:00:00.000Z",
+      "to": "2026-07-28T07:30:00.000Z",
+      "id": "c7586a56f3a97f924e5b1a108699f6c0"
+    },
     {
       "date": "Le mardi 23 juin 2026 de  09:45:00 à  11:15:00",
       "streets": "CHEMIN DIAGONAL FONDUSAC",

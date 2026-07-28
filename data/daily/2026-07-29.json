@@ -1,8 +1,8 @@
 {
   "date": "2026-07-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-27T18:27:42.402Z",
-  "outageCount": 2,
+  "generated": "2026-07-28T06:47:28.299Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le mercredi 29 juillet 2026 de  08:30:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-07-29T04:30:00.000Z",
       "to": "2026-07-29T12:00:00.000Z",
       "id": "55ad122fee0548de30d412a2aa661f48"
+    },
+    {
+      "date": "Le mercredi 29 juillet 2026 de  09:00:00 à  15:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "DANS LE PERIMETRE DE LE FLAMANT ROAD, PEREYBERE",
+      "district": "rivieredurempart",
+      "from": "2026-07-29T05:00:00.000Z",
+      "to": "2026-07-29T11:00:00.000Z",
+      "id": "f8aafe0ff5f542a690d2a8326e2cc8d9"
     },
     {
       "date": "Le mercredi 29 juillet 2026 de  09:00:00 à  16:00:00",
