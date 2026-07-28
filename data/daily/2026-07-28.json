@@ -1,8 +1,8 @@
 {
   "date": "2026-07-28",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-28T07:48:46.494Z",
-  "outageCount": 4,
+  "generated": "2026-07-28T08:51:55.249Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le mardi 28 juillet 2026 de  08:30:00 à  15:30:00",
@@ -43,6 +43,16 @@
       "from": "2026-07-28T05:00:00.000Z",
       "to": "2026-07-28T11:00:00.000Z",
       "id": "02b9c86eecfe3ffe2448c270a96a2bc5"
+    },
+    {
+      "date": "Le mardi 28 juillet 2026 de  11:00:00 à  15:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "MORC FOONDUN OLD MILL RD",
+      "district": "rivieredurempart",
+      "from": "2026-07-28T07:00:00.000Z",
+      "to": "2026-07-28T11:00:00.000Z",
+      "id": "019efed5d970328758c040df4dd03e07"
     }
   ]
 }
