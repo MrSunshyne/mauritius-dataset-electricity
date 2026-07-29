@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-29T11:41:37.848Z",
+  "generated": "2026-07-29T12:35:15.179Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -3391,10 +3391,10 @@
       "slug": "riviere-des-anguilles",
       "name": "RIVIERE DES ANGUILLES",
       "district": "savanne",
-      "outageCount": 43,
+      "outageCount": 44,
       "file": "riviere-des-anguilles.json",
       "firstOutage": "2022-04-13",
-      "lastOutage": "2026-06-26"
+      "lastOutage": "2026-07-29"
     },
     {
       "slug": "riviere-des-creoles",
@@ -3994,7 +3994,7 @@
       "slug": "vacoas",
       "name": "VACOAS",
       "district": "plainewilhems",
-      "outageCount": 260,
+      "outageCount": 261,
       "file": "vacoas.json",
       "firstOutage": "2022-03-17",
       "lastOutage": "2026-07-29"

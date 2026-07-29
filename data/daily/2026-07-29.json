@@ -1,8 +1,8 @@
 {
   "date": "2026-07-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-29T11:41:37.709Z",
-  "outageCount": 9,
+  "generated": "2026-07-29T12:35:15.027Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le mercredi 29 juillet 2026 de  05:40:00 à  16:00:00",
@@ -55,6 +55,16 @@
       "id": "cbd2d8917fd38a5a1da83553d2d5414d"
     },
     {
+      "date": "Le mercredi 29 juillet 2026 de  16:00:00 à  17:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "REMI OLLIER STREET & SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2026-07-29T12:00:00.000Z",
+      "to": "2026-07-29T13:30:00.000Z",
+      "id": "9f55b947aa2cfb57fa6fc8fea65e89d7"
+    },
+    {
       "date": "Le mercredi 29 juillet 2026 de  10:30:00 à  11:15:00",
       "locality": "SAINTE CROIX",
       "localitySlug": "sainte-croix",
@@ -93,6 +103,16 @@
       "from": "2026-07-29T05:00:00.000Z",
       "to": "2026-07-29T12:00:00.000Z",
       "id": "3b194c97cb5a7f4bb4ea08ee8c5e7f8c"
+    },
+    {
+      "date": "Le mercredi 29 juillet 2026 de  16:00:00 à  18:00:00",
+      "locality": "RIVIERE DES ANGUILLES",
+      "localitySlug": "riviere-des-anguilles",
+      "streets": "MORC BEL AIR SUGAR ESTATE",
+      "district": "savanne",
+      "from": "2026-07-29T12:00:00.000Z",
+      "to": "2026-07-29T14:00:00.000Z",
+      "id": "ef288a52874c1931642d68c6d8b8a5b5"
     }
   ]
 }
