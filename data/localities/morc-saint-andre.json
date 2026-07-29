@@ -2,11 +2,18 @@
   "slug": "morc-saint-andre",
   "name": "MORC SAINT ANDRE",
   "district": "pamplemousses",
-  "generated": "2026-07-29T09:51:10.160Z",
-  "outageCount": 45,
+  "generated": "2026-07-29T10:49:44.113Z",
+  "outageCount": 46,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-07-13",
+  "lastOutage": "2026-07-29",
   "outages": [
+    {
+      "date": "Le mercredi 29 juillet 2026 de  14:30:00 à  17:00:00",
+      "streets": "IQBAL ROAD AND SURROUNDINGS, NEAR SCHOOL",
+      "from": "2026-07-29T10:30:00.000Z",
+      "to": "2026-07-29T13:00:00.000Z",
+      "id": "9c38a7192f443e7498438188c1e914d0"
+    },
     {
       "date": "Le lundi 13 juillet 2026 de  10:10:00 à  12:00:00",
       "streets": "Hamlet,Flamboyant Roads",
