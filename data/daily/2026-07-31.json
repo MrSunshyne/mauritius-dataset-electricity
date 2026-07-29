@@ -1,9 +1,39 @@
 {
   "date": "2026-07-31",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-29T08:53:49.242Z",
-  "outageCount": 1,
+  "generated": "2026-07-29T09:51:10.053Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le vendredi 31 juillet 2026 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "WOLMAR-DOMAINE DE WOLMAR, WOLMAR VILLA ROAD ET UNE PARTIE DE LA ROUTE COTIERE WOLMAR",
+      "district": "blackriver",
+      "from": "2026-07-31T04:30:00.000Z",
+      "to": "2026-07-31T11:30:00.000Z",
+      "id": "392b8ded094d3535a4cba9a84f97ab9f"
+    },
+    {
+      "date": "Le vendredi 31 juillet 2026 de  09:00:00 à  14:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "PASADENA VILLAGE, ANARI HOTEL, COASTAL ROAD ET FLIC EN FLAC POLICE STATION",
+      "district": "blackriver",
+      "from": "2026-07-31T05:00:00.000Z",
+      "to": "2026-07-31T10:00:00.000Z",
+      "id": "b36a35c034ab2e59c7b6802f574c3c55"
+    },
+    {
+      "date": "Le vendredi 31 juillet 2026 de  08:30:00 à  15:30:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "MORC RAMDANEE",
+      "district": "blackriver",
+      "from": "2026-07-31T04:30:00.000Z",
+      "to": "2026-07-31T11:30:00.000Z",
+      "id": "955c8b9004fc7167ef80767deea05d9f"
+    },
     {
       "date": "Le vendredi 31 juillet 2026 de  09:00:00 à  13:00:00",
       "locality": "QUATRE-BORNES",

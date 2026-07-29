@@ -1,8 +1,8 @@
 {
   "date": "2026-07-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-29T08:53:49.242Z",
-  "outageCount": 7,
+  "generated": "2026-07-29T09:51:10.053Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le mercredi 29 juillet 2026 de  05:40:00 à  16:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-07-29T06:30:00.000Z",
       "to": "2026-07-29T07:15:00.000Z",
       "id": "9c1328ef68c58ca3e71bea1bdc25adaf"
+    },
+    {
+      "date": "Le mercredi 29 juillet 2026 de  13:15:00 à  14:15:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "CHEMIN KOENIG ET LES ALENTOURS.",
+      "district": "portlouis",
+      "from": "2026-07-29T09:15:00.000Z",
+      "to": "2026-07-29T10:15:00.000Z",
+      "id": "1c2974578fcb1e308b71b43ac7b3edc6"
     },
     {
       "date": "Le mercredi 29 juillet 2026 de  09:00:00 à  15:00:00",

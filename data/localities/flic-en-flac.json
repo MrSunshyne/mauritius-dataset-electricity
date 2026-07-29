@@ -2,11 +2,25 @@
   "slug": "flic-en-flac",
   "name": "FLIC-EN-FLAC",
   "district": "blackriver",
-  "generated": "2026-07-29T08:53:49.313Z",
-  "outageCount": 229,
+  "generated": "2026-07-29T09:51:10.120Z",
+  "outageCount": 231,
   "firstOutage": "2022-03-16",
-  "lastOutage": "2026-07-11",
+  "lastOutage": "2026-07-31",
   "outages": [
+    {
+      "date": "Le vendredi 31 juillet 2026 de  09:00:00 à  14:00:00",
+      "streets": "PASADENA VILLAGE, ANARI HOTEL, COASTAL ROAD ET FLIC EN FLAC POLICE STATION",
+      "from": "2026-07-31T05:00:00.000Z",
+      "to": "2026-07-31T10:00:00.000Z",
+      "id": "b36a35c034ab2e59c7b6802f574c3c55"
+    },
+    {
+      "date": "Le vendredi 31 juillet 2026 de  08:30:00 à  15:30:00",
+      "streets": "WOLMAR-DOMAINE DE WOLMAR, WOLMAR VILLA ROAD ET UNE PARTIE DE LA ROUTE COTIERE WOLMAR",
+      "from": "2026-07-31T04:30:00.000Z",
+      "to": "2026-07-31T11:30:00.000Z",
+      "id": "392b8ded094d3535a4cba9a84f97ab9f"
+    },
     {
       "date": "Le samedi 11 juillet 2026 de  08:30:00 à  15:30:00",
       "streets": "MORC SAFELAND-AVE DES PERRUCHES, AVE DES MERLES, AVE DES CRECERELLES, OASIS ET AVE DES PAILLES EN QUEUE",

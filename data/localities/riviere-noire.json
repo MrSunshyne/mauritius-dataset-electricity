@@ -2,11 +2,18 @@
   "slug": "riviere-noire",
   "name": "RIVIERE NOIRE",
   "district": "blackriver",
-  "generated": "2026-07-29T08:53:49.376Z",
-  "outageCount": 49,
+  "generated": "2026-07-29T09:51:10.198Z",
+  "outageCount": 50,
   "firstOutage": "2022-06-03",
-  "lastOutage": "2026-07-28",
+  "lastOutage": "2026-07-31",
   "outages": [
+    {
+      "date": "Le vendredi 31 juillet 2026 de  08:30:00 à  15:30:00",
+      "streets": "MORC RAMDANEE",
+      "from": "2026-07-31T04:30:00.000Z",
+      "to": "2026-07-31T11:30:00.000Z",
+      "id": "955c8b9004fc7167ef80767deea05d9f"
+    },
     {
       "date": "Le mardi 28 juillet 2026 de  18:00:00 à  23:00:00",
       "streets": "PART OF MORC RAMDANY LES GORGES,MATALA,CWA",
