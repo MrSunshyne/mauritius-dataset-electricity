@@ -2,11 +2,18 @@
   "slug": "phoenix",
   "name": "PHOENIX",
   "district": "plainewilhems",
-  "generated": "2026-07-29T06:49:03.558Z",
-  "outageCount": 114,
+  "generated": "2026-07-29T07:52:02.436Z",
+  "outageCount": 115,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-07-21",
+  "lastOutage": "2026-08-01",
   "outages": [
+    {
+      "date": "Le samedi 1 août 2026 de  12:00:00 à  15:00:00",
+      "streets": "Certaines compagnies  situées dans la zone industrielle de Phoenix",
+      "from": "2026-08-01T08:00:00.000Z",
+      "to": "2026-08-01T11:00:00.000Z",
+      "id": "d38a94495e51eba0d268d401b2e18d12"
+    },
     {
       "date": "Le mardi 21 juillet 2026 de  15:30:00 à  18:00:00",
       "streets": "Une partie de Valentina, ainsi que toute la région de Petit Camp",
