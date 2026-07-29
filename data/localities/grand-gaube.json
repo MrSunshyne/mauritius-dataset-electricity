@@ -2,11 +2,18 @@
   "slug": "grand-gaube",
   "name": "GRAND GAUBE",
   "district": "rivieredurempart",
-  "generated": "2026-07-29T15:34:56.606Z",
-  "outageCount": 74,
+  "generated": "2026-07-29T16:27:00.909Z",
+  "outageCount": 75,
   "firstOutage": "2022-06-11",
-  "lastOutage": "2026-07-06",
+  "lastOutage": "2026-07-29",
   "outages": [
+    {
+      "date": "Le mercredi 29 juillet 2026 de  19:30:00 à  22:30:00",
+      "streets": "FLAMBOYANT LANE G.GAUBE",
+      "from": "2026-07-29T15:30:00.000Z",
+      "to": "2026-07-29T18:30:00.000Z",
+      "id": "effc9db9fc300b245935adf21e8e709e"
+    },
     {
       "date": "Le lundi 6 juillet 2026 de  12:05:00 à  13:45:00",
       "streets": "Sin Fat Rd",

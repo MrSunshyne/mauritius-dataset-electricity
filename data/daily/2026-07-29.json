@@ -1,8 +1,8 @@
 {
   "date": "2026-07-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-29T15:34:56.563Z",
-  "outageCount": 11,
+  "generated": "2026-07-29T16:27:00.845Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le mercredi 29 juillet 2026 de  05:40:00 à  16:00:00",
@@ -93,6 +93,16 @@
       "from": "2026-07-29T05:00:00.000Z",
       "to": "2026-07-29T11:00:00.000Z",
       "id": "f8aafe0ff5f542a690d2a8326e2cc8d9"
+    },
+    {
+      "date": "Le mercredi 29 juillet 2026 de  19:30:00 à  22:30:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "FLAMBOYANT LANE G.GAUBE",
+      "district": "rivieredurempart",
+      "from": "2026-07-29T15:30:00.000Z",
+      "to": "2026-07-29T18:30:00.000Z",
+      "id": "effc9db9fc300b245935adf21e8e709e"
     },
     {
       "date": "Le mercredi 29 juillet 2026 de  09:00:00 à  16:00:00",
