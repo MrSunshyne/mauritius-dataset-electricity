@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-07-29T07:52:02.448Z",
-  "outageCount": 402,
+  "generated": "2026-07-29T08:53:49.368Z",
+  "outageCount": 403,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-07-30",
+  "lastOutage": "2026-07-31",
   "outages": [
+    {
+      "date": "Le vendredi 31 juillet 2026 de  09:00:00 à  13:00:00",
+      "streets": "AQUARELLE LANE, PAILLE-EN-QUEUE, AVE CARDINAL, TOURTERELLES, DAWTAL LANE, EN PARTIE BOUNDARY ROAD ET ROBERT EDWARD HART",
+      "from": "2026-07-31T05:00:00.000Z",
+      "to": "2026-07-31T09:00:00.000Z",
+      "id": "ea5bd718a724803107cc54b91e419a8a"
+    },
     {
       "date": "Le jeudi 30 juillet 2026 de  09:00:00 à  17:30:00",
       "streets": "AVE DECAEN, EN PARTIE ROUTE ROYALE BELLE ROSE ET CHINESE EMBASSY",
