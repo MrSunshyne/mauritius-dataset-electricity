@@ -2,11 +2,18 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-07-28T18:25:13.382Z",
-  "outageCount": 259,
+  "generated": "2026-07-29T06:49:03.582Z",
+  "outageCount": 260,
   "firstOutage": "2022-03-17",
-  "lastOutage": "2026-07-26",
+  "lastOutage": "2026-07-29",
   "outages": [
+    {
+      "date": "Le mercredi 29 juillet 2026 de  09:00:00 à  09:45:00",
+      "streets": "REMY OLLIER, GOPY LANE ET LES ALENTOURS",
+      "from": "2026-07-29T05:00:00.000Z",
+      "to": "2026-07-29T05:45:00.000Z",
+      "id": "cbd2d8917fd38a5a1da83553d2d5414d"
+    },
     {
       "date": "Le dimanche 26 juillet 2026 de  08:00:00 à  17:00:00",
       "streets": ": Hollyrood No.1, une partie de Route Quinze-Cantons No.2, une partie de Route Desvergues, une partie de Route La Marie, Route Begue, Route Bonnefin, Chemin Reservoir, Dudhee Lane, Chemin La Source, Mootoo Lane et les environs",

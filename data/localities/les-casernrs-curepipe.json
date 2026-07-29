@@ -2,11 +2,18 @@
   "slug": "les-casernrs-curepipe",
   "name": "LES CASERNRS CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-07-28T18:25:13.319Z",
-  "outageCount": 2,
+  "generated": "2026-07-29T06:49:03.543Z",
+  "outageCount": 3,
   "firstOutage": "2023-02-06",
-  "lastOutage": "2023-10-01",
+  "lastOutage": "2026-07-29",
   "outages": [
+    {
+      "date": "Le mercredi 29 juillet 2026 de  10:00:00 à  14:00:00",
+      "streets": "MCB, STEVENSON ST ET LES ALENTOURS",
+      "from": "2026-07-29T06:00:00.000Z",
+      "to": "2026-07-29T10:00:00.000Z",
+      "id": "0f527690d7bef510e8b3e836bbd4d280"
+    },
     {
       "date": "Le dimanche 1 octobre 2023 de  08:30:00 à  15:00:00",
       "streets": "Schubert Lane, Chopin Lane, Bach Lane, Strauss Lane et partie de Paratian Lane",

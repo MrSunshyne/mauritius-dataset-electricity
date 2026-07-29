@@ -2,11 +2,18 @@
   "slug": "sainte-croix",
   "name": "SAINTE CROIX",
   "district": "portlouis",
-  "generated": "2026-07-28T18:25:13.370Z",
-  "outageCount": 85,
+  "generated": "2026-07-29T06:49:03.574Z",
+  "outageCount": 86,
   "firstOutage": "2022-04-26",
-  "lastOutage": "2026-07-25",
+  "lastOutage": "2026-07-29",
   "outages": [
+    {
+      "date": "Le mercredi 29 juillet 2026 de  10:30:00 à  11:15:00",
+      "streets": "ROUTE COCOTERIE DANS LES ENVIRONS L-ECOLE.",
+      "from": "2026-07-29T06:30:00.000Z",
+      "to": "2026-07-29T07:15:00.000Z",
+      "id": "9c1328ef68c58ca3e71bea1bdc25adaf"
+    },
     {
       "date": "Le samedi 25 juillet 2026 de  08:30:00 à  14:30:00",
       "streets": "Dans les environs des Rues Mariamen Temple, Desboucher, Lataniers, Laprairie, Canal Bathurst, Higginson, Arpenteur, Allee Pere Laval et Udhin Lane",

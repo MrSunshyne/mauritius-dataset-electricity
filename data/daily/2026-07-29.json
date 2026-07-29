@@ -1,9 +1,19 @@
 {
   "date": "2026-07-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-28T18:25:13.234Z",
-  "outageCount": 3,
+  "generated": "2026-07-29T06:49:03.486Z",
+  "outageCount": 7,
   "outages": [
+    {
+      "date": "Le mercredi 29 juillet 2026 de  05:40:00 à  16:00:00",
+      "locality": "BELLE VUE HAREL",
+      "localitySlug": "belle-vue-harel",
+      "streets": "MORC HILLSIDE, DOMAINE BELLE VUE, UNE PARTIE DE LABOURDONNAIS ET LES ALENTOURS",
+      "district": "pamplemousses",
+      "from": "2026-07-29T01:40:00.000Z",
+      "to": "2026-07-29T12:00:00.000Z",
+      "id": "601d4fbe1fd9c024239f91ab709434af"
+    },
     {
       "date": "Le mercredi 29 juillet 2026 de  08:30:00 à  16:00:00",
       "locality": "SOLFERINO",
@@ -13,6 +23,36 @@
       "from": "2026-07-29T04:30:00.000Z",
       "to": "2026-07-29T12:00:00.000Z",
       "id": "55ad122fee0548de30d412a2aa661f48"
+    },
+    {
+      "date": "Le mercredi 29 juillet 2026 de  10:00:00 à  14:00:00",
+      "locality": "LES CASERNRS CUREPIPE",
+      "localitySlug": "les-casernrs-curepipe",
+      "streets": "MCB, STEVENSON ST ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2026-07-29T06:00:00.000Z",
+      "to": "2026-07-29T10:00:00.000Z",
+      "id": "0f527690d7bef510e8b3e836bbd4d280"
+    },
+    {
+      "date": "Le mercredi 29 juillet 2026 de  09:00:00 à  09:45:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "REMY OLLIER, GOPY LANE ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2026-07-29T05:00:00.000Z",
+      "to": "2026-07-29T05:45:00.000Z",
+      "id": "cbd2d8917fd38a5a1da83553d2d5414d"
+    },
+    {
+      "date": "Le mercredi 29 juillet 2026 de  10:30:00 à  11:15:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "ROUTE COCOTERIE DANS LES ENVIRONS L-ECOLE.",
+      "district": "portlouis",
+      "from": "2026-07-29T06:30:00.000Z",
+      "to": "2026-07-29T07:15:00.000Z",
+      "id": "9c1328ef68c58ca3e71bea1bdc25adaf"
     },
     {
       "date": "Le mercredi 29 juillet 2026 de  09:00:00 à  15:00:00",
