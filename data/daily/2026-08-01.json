@@ -1,8 +1,8 @@
 {
   "date": "2026-08-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-30T08:51:18.455Z",
-  "outageCount": 5,
+  "generated": "2026-07-30T09:47:16.497Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le samedi 1 août 2026 de  08:30:00 à  15:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-08-01T04:30:00.000Z",
       "to": "2026-08-01T11:00:00.000Z",
       "id": "0c65eb7672439ef68d35f927ee304b4c"
+    },
+    {
+      "date": "Le samedi 1 août 2026 de  08:30:00 à  14:30:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "dans les environs de Ave Coriolis",
+      "district": "plainewilhems",
+      "from": "2026-08-01T04:30:00.000Z",
+      "to": "2026-08-01T10:30:00.000Z",
+      "id": "84fa022cb74a2ce2498bab4e7516d853"
     }
   ]
 }

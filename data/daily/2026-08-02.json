@@ -1,8 +1,8 @@
 {
   "date": "2026-08-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-30T08:51:18.455Z",
-  "outageCount": 2,
+  "generated": "2026-07-30T09:47:16.497Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le dimanche 2 août 2026 de  08:30:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-08-02T04:30:00.000Z",
       "to": "2026-08-02T13:00:00.000Z",
       "id": "26050583e0b01ccc7d3d6086f18e93c0"
+    },
+    {
+      "date": "Le dimanche 2 août 2026 de  08:30:00 à  16:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Part of Lees Street, Part of Willoughby Street, Part of Anderson Street, Sattar Lane, Morc Dalais,  Higginson Street, Bird Lane, Maigrot lane, Montochio Lane, Part of Hazareesing Lane , Flat Lotus, Residence Du Mesnil",
+      "district": "plainewilhems",
+      "from": "2026-08-02T04:30:00.000Z",
+      "to": "2026-08-02T12:00:00.000Z",
+      "id": "7cbb8e25097e55232a5c034659806764"
     },
     {
       "date": "Le dimanche 2 août 2026 de  08:30:00 à  15:00:00",

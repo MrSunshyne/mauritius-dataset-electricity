@@ -2,11 +2,32 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-07-30T08:51:18.510Z",
-  "outageCount": 229,
+  "generated": "2026-07-30T09:47:16.548Z",
+  "outageCount": 232,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-07-23",
+  "lastOutage": "2026-08-03",
   "outages": [
+    {
+      "date": "Le lundi 3 août 2026 de  12:00:00 à  13:00:00",
+      "streets": "Forest Side dans les environs de Résidence : St Luc, Bourg, Atlee, La Colombe, Jasmin, Atlee et La Brasserie",
+      "from": "2026-08-03T08:00:00.000Z",
+      "to": "2026-08-03T09:00:00.000Z",
+      "id": "cb717efeefa59c6b1c2827f868c159a0"
+    },
+    {
+      "date": "Le dimanche 2 août 2026 de  08:30:00 à  16:00:00",
+      "streets": "Part of Lees Street, Part of Willoughby Street, Part of Anderson Street, Sattar Lane, Morc Dalais,  Higginson Street, Bird Lane, Maigrot lane, Montochio Lane, Part of Hazareesing Lane , Flat Lotus, Residence Du Mesnil",
+      "from": "2026-08-02T04:30:00.000Z",
+      "to": "2026-08-02T12:00:00.000Z",
+      "id": "7cbb8e25097e55232a5c034659806764"
+    },
+    {
+      "date": "Le samedi 1 août 2026 de  08:30:00 à  14:30:00",
+      "streets": "dans les environs de Ave Coriolis",
+      "from": "2026-08-01T04:30:00.000Z",
+      "to": "2026-08-01T10:30:00.000Z",
+      "id": "84fa022cb74a2ce2498bab4e7516d853"
+    },
     {
       "date": "Le jeudi 23 juillet 2026 de  12:00:00 à  17:00:00",
       "streets": "COSSIGNY ST, SIR GAETAN DUVAL, REMONO ST, SAUZIER ST, WILLIAM NEWTON ST, DR EDWARTS ST & SURROUNDINGS",
