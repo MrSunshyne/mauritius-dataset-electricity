@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-30T07:45:03.544Z",
+  "generated": "2026-07-30T08:51:18.605Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -3625,16 +3625,16 @@
       "slug": "saint-pierre",
       "name": "SAINT PIERRE",
       "district": "moka",
-      "outageCount": 79,
+      "outageCount": 80,
       "file": "saint-pierre.json",
       "firstOutage": "2022-03-13",
-      "lastOutage": "2026-07-19"
+      "lastOutage": "2026-08-01"
     },
     {
       "slug": "sainte-croix",
       "name": "SAINTE CROIX",
       "district": "portlouis",
-      "outageCount": 88,
+      "outageCount": 89,
       "file": "sainte-croix.json",
       "firstOutage": "2022-04-26",
       "lastOutage": "2026-08-02"

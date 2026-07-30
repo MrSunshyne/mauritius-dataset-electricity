@@ -1,9 +1,19 @@
 {
   "date": "2026-08-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-30T07:45:03.409Z",
-  "outageCount": 4,
+  "generated": "2026-07-30T08:51:18.455Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le samedi 1 août 2026 de  08:30:00 à  15:00:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "NHDC VIGNOLE, CIRCONSTANCE ET L’AGREMENT",
+      "district": "moka",
+      "from": "2026-08-01T04:30:00.000Z",
+      "to": "2026-08-01T11:00:00.000Z",
+      "id": "ed87e06a9adc4de441621696c6ae46bc"
+    },
     {
       "date": "Le samedi 1 août 2026 de  12:00:00 à  15:00:00",
       "locality": "PHOENIX",

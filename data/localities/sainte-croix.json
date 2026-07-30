@@ -2,8 +2,8 @@
   "slug": "sainte-croix",
   "name": "SAINTE CROIX",
   "district": "portlouis",
-  "generated": "2026-07-30T07:45:03.528Z",
-  "outageCount": 88,
+  "generated": "2026-07-30T08:51:18.587Z",
+  "outageCount": 89,
   "firstOutage": "2022-04-26",
   "lastOutage": "2026-08-02",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-08-02T04:30:00.000Z",
       "to": "2026-08-02T11:00:00.000Z",
       "id": "4aa42ec20ce8198a736424fc89f4a248"
+    },
+    {
+      "date": "Le jeudi 30 juillet 2026 de  11:50:00 à  14:30:00",
+      "streets": "LE CORNU, IMP STE MARIE, EMILE BASSET, BASSIN RD 1 ET LES ALENTOURS",
+      "from": "2026-07-30T07:50:00.000Z",
+      "to": "2026-07-30T10:30:00.000Z",
+      "id": "abbe6a97b333912786295c0363331124"
     },
     {
       "date": "Le mercredi 29 juillet 2026 de  13:15:00 à  14:15:00",
