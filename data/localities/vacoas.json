@@ -2,11 +2,18 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-07-30T10:40:34.855Z",
-  "outageCount": 261,
+  "generated": "2026-07-30T11:34:15.240Z",
+  "outageCount": 262,
   "firstOutage": "2022-03-17",
-  "lastOutage": "2026-07-29",
+  "lastOutage": "2026-08-01",
   "outages": [
+    {
+      "date": "Le samedi 1 août 2026 de  12:00:00 à  16:00:00",
+      "streets": "MORC HINGUN, PLAINE DES HERMITAGE",
+      "from": "2026-08-01T08:00:00.000Z",
+      "to": "2026-08-01T12:00:00.000Z",
+      "id": "631136f49aad2e10f1bc0a2f0eb5bff5"
+    },
     {
       "date": "Le mercredi 29 juillet 2026 de  16:00:00 à  17:30:00",
       "streets": "REMI OLLIER STREET & SURROUNDINGS",
