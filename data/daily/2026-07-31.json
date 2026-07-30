@@ -1,8 +1,8 @@
 {
   "date": "2026-07-31",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-30T12:29:18.033Z",
-  "outageCount": 5,
+  "generated": "2026-07-30T13:30:24.812Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le vendredi 31 juillet 2026 de  08:30:00 à  15:30:00",
@@ -33,6 +33,16 @@
       "from": "2026-07-31T04:30:00.000Z",
       "to": "2026-07-31T11:30:00.000Z",
       "id": "955c8b9004fc7167ef80767deea05d9f"
+    },
+    {
+      "date": "Le vendredi 31 juillet 2026 de  00:01:00 à  18:00:00",
+      "locality": "MON CHOISY",
+      "localitySlug": "mon-choisy",
+      "streets": "RESIDENCE LE GOLF MON CHOISY, RESIDENCE LE GRAND BAIE BEHIND CHOISY MALL",
+      "district": "pamplemousses",
+      "from": "2026-07-30T20:01:00.000Z",
+      "to": "2026-07-30T14:00:00.000Z",
+      "id": "cca6e8ce7863fe9e53b55de8445c43a5"
     },
     {
       "date": "Le vendredi 31 juillet 2026 de  09:00:00 à  13:00:00",

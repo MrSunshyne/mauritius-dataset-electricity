@@ -2,11 +2,25 @@
   "slug": "mon-choisy",
   "name": "MON CHOISY",
   "district": "pamplemousses",
-  "generated": "2026-07-30T12:29:18.123Z",
-  "outageCount": 35,
+  "generated": "2026-07-30T13:30:24.896Z",
+  "outageCount": 37,
   "firstOutage": "2022-05-21",
-  "lastOutage": "2026-07-24",
+  "lastOutage": "2026-07-31",
   "outages": [
+    {
+      "date": "Le vendredi 31 juillet 2026 de  00:01:00 à  18:00:00",
+      "streets": "RESIDENCE LE GOLF MON CHOISY, RESIDENCE LE GRAND BAIE BEHIND CHOISY MALL",
+      "from": "2026-07-30T20:01:00.000Z",
+      "to": "2026-07-30T14:00:00.000Z",
+      "id": "cca6e8ce7863fe9e53b55de8445c43a5"
+    },
+    {
+      "date": "Le jeudi 30 juillet 2026 de  16:50:00 à  00:00:00",
+      "streets": "RESIDENCE LE GOLF MON CHOISY, RESIDENCE LE GRAND BAIE BEHIND CHOISY MALL",
+      "from": "2026-07-30T12:50:00.000Z",
+      "to": "2026-07-29T20:00:00.000Z",
+      "id": "8ca671ab7447e39b12c79186637e491f"
+    },
     {
       "date": "Le vendredi 24 juillet 2026 de  10:55:00 à  11:30:00",
       "streets": "Mon Choisy,Trou aux Biches,Pte aux Piments",
