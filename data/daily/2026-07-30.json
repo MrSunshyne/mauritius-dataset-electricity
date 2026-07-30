@@ -1,8 +1,8 @@
 {
   "date": "2026-07-30",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-30T09:47:16.497Z",
-  "outageCount": 5,
+  "generated": "2026-07-30T10:40:34.710Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le jeudi 30 juillet 2026 de  09:20:00 à  15:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-07-30T05:00:00.000Z",
       "to": "2026-07-30T13:30:00.000Z",
       "id": "e38ff74afd4c9c70ddbb54fe52807037"
+    },
+    {
+      "date": "Le jeudi 30 juillet 2026 de  15:00:00 à  17:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Une partie de Plaine des Hermitage",
+      "district": "plainewilhems",
+      "from": "2026-07-30T11:00:00.000Z",
+      "to": "2026-07-30T13:00:00.000Z",
+      "id": "e4ac27bffb4c8d55eeef734bc51fba14"
     },
     {
       "date": "Le jeudi 30 juillet 2026 de  11:50:00 à  14:30:00",

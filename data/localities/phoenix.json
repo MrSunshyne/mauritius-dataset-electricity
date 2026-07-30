@@ -2,8 +2,8 @@
   "slug": "phoenix",
   "name": "PHOENIX",
   "district": "plainewilhems",
-  "generated": "2026-07-30T09:47:16.591Z",
-  "outageCount": 115,
+  "generated": "2026-07-30T10:40:34.814Z",
+  "outageCount": 116,
   "firstOutage": "2022-03-20",
   "lastOutage": "2026-08-01",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-08-01T08:00:00.000Z",
       "to": "2026-08-01T11:00:00.000Z",
       "id": "d38a94495e51eba0d268d401b2e18d12"
+    },
+    {
+      "date": "Le jeudi 30 juillet 2026 de  15:00:00 à  17:00:00",
+      "streets": "Une partie de Plaine des Hermitage",
+      "from": "2026-07-30T11:00:00.000Z",
+      "to": "2026-07-30T13:00:00.000Z",
+      "id": "e4ac27bffb4c8d55eeef734bc51fba14"
     },
     {
       "date": "Le mardi 21 juillet 2026 de  15:30:00 à  18:00:00",
