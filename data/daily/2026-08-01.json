@@ -1,8 +1,8 @@
 {
   "date": "2026-08-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-29T18:17:08.758Z",
-  "outageCount": 1,
+  "generated": "2026-07-30T06:47:55.797Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le samedi 1 août 2026 de  12:00:00 à  15:00:00",
@@ -13,6 +13,36 @@
       "from": "2026-08-01T08:00:00.000Z",
       "to": "2026-08-01T11:00:00.000Z",
       "id": "d38a94495e51eba0d268d401b2e18d12"
+    },
+    {
+      "date": "Le samedi 1 août 2026 de  09:00:00 à  11:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVE ANTELME, EN PARTIE AVE OLLIER, TOMBEAU LANE, AVENUE FARQUAR, RESIDENCE PERE LAVAL, PAVILLON SWIMMING POOL, AVE CONTE DE L’ISLE, AVE STANLEY",
+      "district": "plainewilhems",
+      "from": "2026-08-01T05:00:00.000Z",
+      "to": "2026-08-01T07:00:00.000Z",
+      "id": "da08705a6507125d0c6ba845556ce90c"
+    },
+    {
+      "date": "Le samedi 1 août 2026 de  08:30:00 à  15:00:00",
+      "locality": "CITE BARKLY",
+      "localitySlug": "cite-barkly",
+      "streets": "AVE SCHUMAN,AVE BRAHMS, AVE REMY OLLIER, AVE ROSE DE BOIS",
+      "district": "plainewilhems",
+      "from": "2026-08-01T04:30:00.000Z",
+      "to": "2026-08-01T11:00:00.000Z",
+      "id": "0f487175b60618fc9c85e6cf75b170bc"
+    },
+    {
+      "date": "Le samedi 1 août 2026 de  08:30:00 à  15:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "AVE MAINGARD, AVE BERLIOZ, AVE HANDEL, AVE BIZET, CENTRE MUNICIPAL MAINGARD",
+      "district": "plainewilhems",
+      "from": "2026-08-01T04:30:00.000Z",
+      "to": "2026-08-01T11:00:00.000Z",
+      "id": "0c65eb7672439ef68d35f927ee304b4c"
     }
   ]
 }

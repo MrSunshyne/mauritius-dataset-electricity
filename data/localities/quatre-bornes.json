@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-07-29T18:17:08.868Z",
-  "outageCount": 403,
+  "generated": "2026-07-30T06:47:55.883Z",
+  "outageCount": 404,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-07-31",
+  "lastOutage": "2026-08-01",
   "outages": [
+    {
+      "date": "Le samedi 1 août 2026 de  09:00:00 à  11:00:00",
+      "streets": "AVE ANTELME, EN PARTIE AVE OLLIER, TOMBEAU LANE, AVENUE FARQUAR, RESIDENCE PERE LAVAL, PAVILLON SWIMMING POOL, AVE CONTE DE L’ISLE, AVE STANLEY",
+      "from": "2026-08-01T05:00:00.000Z",
+      "to": "2026-08-01T07:00:00.000Z",
+      "id": "da08705a6507125d0c6ba845556ce90c"
+    },
     {
       "date": "Le vendredi 31 juillet 2026 de  09:00:00 à  13:00:00",
       "streets": "AQUARELLE LANE, PAILLE-EN-QUEUE, AVE CARDINAL, TOURTERELLES, DAWTAL LANE, EN PARTIE BOUNDARY ROAD ET ROBERT EDWARD HART",

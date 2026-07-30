@@ -2,11 +2,18 @@
   "slug": "saint-julien-village",
   "name": "SAINT JULIEN VILLAGE",
   "district": "flacq",
-  "generated": "2026-07-29T18:17:08.881Z",
-  "outageCount": 13,
+  "generated": "2026-07-30T06:47:55.893Z",
+  "outageCount": 14,
   "firstOutage": "2023-01-04",
-  "lastOutage": "2026-05-21",
+  "lastOutage": "2026-07-30",
   "outages": [
+    {
+      "date": "Le jeudi 30 juillet 2026 de  09:20:00 à  15:00:00",
+      "streets": "UNE PARTIE DE ST JULIEN VILLAGE",
+      "from": "2026-07-30T05:20:00.000Z",
+      "to": "2026-07-30T11:00:00.000Z",
+      "id": "707605a6fc7c6e4cd366bb1b38c43052"
+    },
     {
       "date": "Le jeudi 21 mai 2026 de  09:00:00 à  15:00:00",
       "streets": "NEAR SCHOOL ST JULIEN VILLAGE",

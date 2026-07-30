@@ -1,8 +1,8 @@
 {
   "date": "2026-07-31",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-29T18:17:08.758Z",
-  "outageCount": 4,
+  "generated": "2026-07-30T06:47:55.797Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le vendredi 31 juillet 2026 de  08:30:00 à  15:30:00",
@@ -43,6 +43,16 @@
       "from": "2026-07-31T05:00:00.000Z",
       "to": "2026-07-31T09:00:00.000Z",
       "id": "ea5bd718a724803107cc54b91e419a8a"
+    },
+    {
+      "date": "Le vendredi 31 juillet 2026 de  09:00:00 à  15:00:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": "Part of Eau Coulee at Quatre Carreaux , Bisnath Rd , Mariamen Temple Rd and nearby alleyways.",
+      "district": "plainewilhems",
+      "from": "2026-07-31T05:00:00.000Z",
+      "to": "2026-07-31T11:00:00.000Z",
+      "id": "b22fe77d70d1d80492114a06e571f1db"
     }
   ]
 }
