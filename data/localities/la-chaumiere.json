@@ -2,11 +2,18 @@
   "slug": "la-chaumiere",
   "name": "LA CHAUMIERE",
   "district": "plainewilhems",
-  "generated": "2026-07-30T18:25:56.045Z",
-  "outageCount": 7,
+  "generated": "2026-07-31T06:53:40.599Z",
+  "outageCount": 8,
   "firstOutage": "2022-09-26",
-  "lastOutage": "2025-12-22",
+  "lastOutage": "2026-07-31",
   "outages": [
+    {
+      "date": "Le vendredi 31 juillet 2026 de  09:30:00 à  16:00:00",
+      "streets": "La Chaumiere,St Martin.",
+      "from": "2026-07-31T05:30:00.000Z",
+      "to": "2026-07-31T12:00:00.000Z",
+      "id": "eb577acd7df90076cb601f40654f0939"
+    },
     {
       "date": "Le lundi 22 décembre 2025 de  10:00:00 à  13:00:00",
       "streets": "LA CHAUMIERE LA FERME",

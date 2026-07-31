@@ -1,8 +1,8 @@
 {
   "date": "2026-07-31",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-30T18:25:55.970Z",
-  "outageCount": 6,
+  "generated": "2026-07-31T06:53:40.539Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le vendredi 31 juillet 2026 de  08:30:00 à  15:30:00",
@@ -35,6 +35,16 @@
       "id": "955c8b9004fc7167ef80767deea05d9f"
     },
     {
+      "date": "Le vendredi 31 juillet 2026 de  10:35:00 à  11:15:00",
+      "locality": "GRANDE RIVIERE SUD EST",
+      "localitySlug": "grande-riviere-sud-est",
+      "streets": "Whole Village...GRSE",
+      "district": "flacq",
+      "from": "2026-07-31T06:35:00.000Z",
+      "to": "2026-07-31T07:15:00.000Z",
+      "id": "5f551fc5a049c646250b0954aa4f8866"
+    },
+    {
       "date": "Le vendredi 31 juillet 2026 de  00:01:00 à  18:00:00",
       "locality": "MON CHOISY",
       "localitySlug": "mon-choisy",
@@ -63,6 +73,26 @@
       "from": "2026-07-31T05:00:00.000Z",
       "to": "2026-07-31T11:00:00.000Z",
       "id": "b22fe77d70d1d80492114a06e571f1db"
+    },
+    {
+      "date": "Le vendredi 31 juillet 2026 de  09:30:00 à  16:00:00",
+      "locality": "LA CHAUMIERE",
+      "localitySlug": "la-chaumiere",
+      "streets": "La Chaumiere,St Martin.",
+      "district": "plainewilhems",
+      "from": "2026-07-31T05:30:00.000Z",
+      "to": "2026-07-31T12:00:00.000Z",
+      "id": "eb577acd7df90076cb601f40654f0939"
+    },
+    {
+      "date": "Le vendredi 31 juillet 2026 de  09:45:00 à  12:00:00",
+      "locality": "ROCHES NOIRES",
+      "localitySlug": "roches-noires",
+      "streets": "Crystal Road",
+      "district": "rivieredurempart",
+      "from": "2026-07-31T05:45:00.000Z",
+      "to": "2026-07-31T08:00:00.000Z",
+      "id": "188456a6e47645e8562729e226c0f94e"
     }
   ]
 }

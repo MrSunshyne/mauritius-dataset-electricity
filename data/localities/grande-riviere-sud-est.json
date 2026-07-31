@@ -2,11 +2,18 @@
   "slug": "grande-riviere-sud-est",
   "name": "GRANDE RIVIERE SUD EST",
   "district": "flacq",
-  "generated": "2026-07-30T18:25:56.038Z",
-  "outageCount": 12,
+  "generated": "2026-07-31T06:53:40.593Z",
+  "outageCount": 13,
   "firstOutage": "2022-09-30",
-  "lastOutage": "2026-05-02",
+  "lastOutage": "2026-07-31",
   "outages": [
+    {
+      "date": "Le vendredi 31 juillet 2026 de  10:35:00 à  11:15:00",
+      "streets": "Whole Village...GRSE",
+      "from": "2026-07-31T06:35:00.000Z",
+      "to": "2026-07-31T07:15:00.000Z",
+      "id": "5f551fc5a049c646250b0954aa4f8866"
+    },
     {
       "date": "Le samedi 2 mai 2026 de  18:30:00 à  22:00:00",
       "streets": "BEAU CHAMPS,JUGUN RD,BALANCE RD,CAMP DES PECHEURS,ROYAL RD,PAILLE EN QUEUE",

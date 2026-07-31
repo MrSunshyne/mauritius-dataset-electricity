@@ -2,11 +2,18 @@
   "slug": "rose-belle",
   "name": "ROSE BELLE",
   "district": "grandport",
-  "generated": "2026-07-30T18:25:56.091Z",
-  "outageCount": 83,
+  "generated": "2026-07-31T06:53:40.638Z",
+  "outageCount": 84,
   "firstOutage": "2022-05-12",
-  "lastOutage": "2026-07-20",
+  "lastOutage": "2026-08-06",
   "outages": [
+    {
+      "date": "Le jeudi 6 août 2026 de  08:30:00 à  16:00:00",
+      "streets": "Rose Belle habitant dans le périmètre : Rose Belle Stadium, Traffic Centre Rose Belle, Rose Belle Coorperative et aux alentours de Rose Belle Market",
+      "from": "2026-08-06T04:30:00.000Z",
+      "to": "2026-08-06T12:00:00.000Z",
+      "id": "ff89a7d24c199241111055db6e4dece3"
+    },
     {
       "date": "Le lundi 20 juillet 2026 de  10:45:00 à  12:00:00",
       "streets": "GEBERT ROAD & SURROUNDINGS",
