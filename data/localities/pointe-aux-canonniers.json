@@ -2,11 +2,18 @@
   "slug": "pointe-aux-canonniers",
   "name": "POINTE AUX CANONNIERS",
   "district": "rivieredurempart",
-  "generated": "2026-07-31T09:02:52.066Z",
-  "outageCount": 54,
+  "generated": "2026-07-31T10:50:49.749Z",
+  "outageCount": 55,
   "firstOutage": "2022-04-15",
-  "lastOutage": "2026-07-21",
+  "lastOutage": "2026-08-02",
   "outages": [
+    {
+      "date": "Le dimanche 2 août 2026 de  08:30:00 à  15:30:00",
+      "streets": "POINTE AUX CANNONNIERS ET GRAND BAY- MORC RAFFRAY, RESERVOIR ROAD ET LES ENVIRONS",
+      "from": "2026-08-02T04:30:00.000Z",
+      "to": "2026-08-02T11:30:00.000Z",
+      "id": "573a673c53df535402f11842400adf54"
+    },
     {
       "date": "Le mardi 21 juillet 2026 de  16:00:00 à  00:00:00",
       "streets": "pointe aux canonniers.part of grand bay",

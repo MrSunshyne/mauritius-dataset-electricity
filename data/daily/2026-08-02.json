@@ -1,8 +1,8 @@
 {
   "date": "2026-08-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-31T09:02:51.977Z",
-  "outageCount": 3,
+  "generated": "2026-07-31T10:50:49.639Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le dimanche 2 août 2026 de  08:30:00 à  17:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-08-02T04:30:00.000Z",
       "to": "2026-08-02T11:00:00.000Z",
       "id": "4aa42ec20ce8198a736424fc89f4a248"
+    },
+    {
+      "date": "Le dimanche 2 août 2026 de  08:30:00 à  15:30:00",
+      "locality": "POINTE AUX CANONNIERS",
+      "localitySlug": "pointe-aux-canonniers",
+      "streets": "POINTE AUX CANNONNIERS ET GRAND BAY- MORC RAFFRAY, RESERVOIR ROAD ET LES ENVIRONS",
+      "district": "rivieredurempart",
+      "from": "2026-08-02T04:30:00.000Z",
+      "to": "2026-08-02T11:30:00.000Z",
+      "id": "573a673c53df535402f11842400adf54"
     }
   ]
 }
