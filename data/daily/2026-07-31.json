@@ -1,8 +1,8 @@
 {
   "date": "2026-07-31",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-31T17:28:38.365Z",
-  "outageCount": 10,
+  "generated": "2026-07-31T18:26:45.972Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le vendredi 31 juillet 2026 de  08:30:00 à  15:30:00",
@@ -43,6 +43,16 @@
       "from": "2026-07-31T06:35:00.000Z",
       "to": "2026-07-31T07:15:00.000Z",
       "id": "5f551fc5a049c646250b0954aa4f8866"
+    },
+    {
+      "date": "Le vendredi 31 juillet 2026 de  22:15:00 à  02:00:00",
+      "locality": "RICHEMARE",
+      "localitySlug": "richemare",
+      "streets": "MOSQUE ROAD RICHE MARE CENTRAL FLACQ",
+      "district": "flacq",
+      "from": "2026-07-31T18:15:00.000Z",
+      "to": "2026-07-30T22:00:00.000Z",
+      "id": "8d10054e02c730cb7715216cc66b3207"
     },
     {
       "date": "Le vendredi 31 juillet 2026 de  00:01:00 à  18:00:00",

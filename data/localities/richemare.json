@@ -2,11 +2,18 @@
   "slug": "richemare",
   "name": "RICHEMARE",
   "district": "flacq",
-  "generated": "2026-07-31T17:28:38.486Z",
-  "outageCount": 27,
+  "generated": "2026-07-31T18:26:46.097Z",
+  "outageCount": 28,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2026-07-21",
+  "lastOutage": "2026-07-31",
   "outages": [
+    {
+      "date": "Le vendredi 31 juillet 2026 de  22:15:00 à  02:00:00",
+      "streets": "MOSQUE ROAD RICHE MARE CENTRAL FLACQ",
+      "from": "2026-07-31T18:15:00.000Z",
+      "to": "2026-07-30T22:00:00.000Z",
+      "id": "8d10054e02c730cb7715216cc66b3207"
+    },
     {
       "date": "Le mardi 21 juillet 2026 de  09:00:00 à  12:00:00",
       "streets": "RICHE MARE dans le périmètre de Radhakisson Rd, Tagore Rd, Chemin la source, Cemetery Rd, Rajiv Gandhi Rd et Ramdewar Street.",
