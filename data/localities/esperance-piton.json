@@ -2,11 +2,18 @@
   "slug": "esperance-piton",
   "name": "ESPERANCE PITON",
   "district": "pamplemousses",
-  "generated": "2026-07-31T13:30:33.138Z",
-  "outageCount": 12,
+  "generated": "2026-07-31T14:45:28.783Z",
+  "outageCount": 13,
   "firstOutage": "2022-10-08",
-  "lastOutage": "2026-07-14",
+  "lastOutage": "2026-07-31",
   "outages": [
+    {
+      "date": "Le vendredi 31 juillet 2026 de  18:00:00 à  22:00:00",
+      "streets": "CHEMIN MAURICE MARTIN ET DANS LES ENVIRONS BATIMENT NPF.",
+      "from": "2026-07-31T14:00:00.000Z",
+      "to": "2026-07-31T18:00:00.000Z",
+      "id": "2591214b3fb715cf3f41949ef7c89374"
+    },
     {
       "date": "Le mardi 14 juillet 2026 de  17:00:00 à  21:00:00",
       "streets": "JANSI ROAD ET LES ALENTOURS.",
