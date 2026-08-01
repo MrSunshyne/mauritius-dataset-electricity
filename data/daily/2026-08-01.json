@@ -1,8 +1,8 @@
 {
   "date": "2026-08-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-07-31T18:26:45.972Z",
-  "outageCount": 9,
+  "generated": "2026-08-01T06:45:29.842Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le samedi 1 août 2026 de  08:30:00 à  15:00:00",
@@ -83,6 +83,26 @@
       "from": "2026-08-01T08:00:00.000Z",
       "to": "2026-08-01T12:00:00.000Z",
       "id": "631136f49aad2e10f1bc0a2f0eb5bff5"
+    },
+    {
+      "date": "Le samedi 1 août 2026 de  09:00:00 à  14:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "PERE LAVAL ST, CAPITAINE PONTRAIT ST, LE CORNU, STE MARIE ST & SURROUNDINGS",
+      "district": "portlouis",
+      "from": "2026-08-01T05:00:00.000Z",
+      "to": "2026-08-01T10:00:00.000Z",
+      "id": "7a4f8e45bafbdaff0241ee30f08d1559"
+    },
+    {
+      "date": "Le samedi 1 août 2026 de  01:00:00 à  08:00:00",
+      "locality": "CALODYNE",
+      "localitySlug": "calodyne",
+      "streets": "SAINT FRANCOIS RD CALODYNE",
+      "district": "rivieredurempart",
+      "from": "2026-07-31T21:00:00.000Z",
+      "to": "2026-07-31T04:00:00.000Z",
+      "id": "52f5b977e04698dc269f7985998ec3e7"
     },
     {
       "date": "Le samedi 1 août 2026 de  08:30:00 à  15:00:00",

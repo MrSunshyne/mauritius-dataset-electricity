@@ -2,8 +2,8 @@
   "slug": "sainte-croix",
   "name": "SAINTE CROIX",
   "district": "portlouis",
-  "generated": "2026-07-31T18:26:46.108Z",
-  "outageCount": 89,
+  "generated": "2026-08-01T06:45:29.979Z",
+  "outageCount": 90,
   "firstOutage": "2022-04-26",
   "lastOutage": "2026-08-02",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-08-02T04:30:00.000Z",
       "to": "2026-08-02T11:00:00.000Z",
       "id": "4aa42ec20ce8198a736424fc89f4a248"
+    },
+    {
+      "date": "Le samedi 1 août 2026 de  09:00:00 à  14:00:00",
+      "streets": "PERE LAVAL ST, CAPITAINE PONTRAIT ST, LE CORNU, STE MARIE ST & SURROUNDINGS",
+      "from": "2026-08-01T05:00:00.000Z",
+      "to": "2026-08-01T10:00:00.000Z",
+      "id": "7a4f8e45bafbdaff0241ee30f08d1559"
     },
     {
       "date": "Le jeudi 30 juillet 2026 de  11:50:00 à  14:30:00",

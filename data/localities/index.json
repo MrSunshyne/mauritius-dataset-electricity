@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-31T18:26:46.125Z",
+  "generated": "2026-08-01T06:45:29.997Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -682,10 +682,10 @@
       "slug": "calodyne",
       "name": "CALODYNE",
       "district": "rivieredurempart",
-      "outageCount": 41,
+      "outageCount": 42,
       "file": "calodyne.json",
       "firstOutage": "2022-09-10",
-      "lastOutage": "2026-06-28"
+      "lastOutage": "2026-08-01"
     },
     {
       "slug": "camp-carol-kenya",
@@ -3634,7 +3634,7 @@
       "slug": "sainte-croix",
       "name": "SAINTE CROIX",
       "district": "portlouis",
-      "outageCount": 89,
+      "outageCount": 90,
       "file": "sainte-croix.json",
       "firstOutage": "2022-04-26",
       "lastOutage": "2026-08-02"
