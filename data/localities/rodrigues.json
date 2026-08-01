@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-08-01T07:42:23.151Z",
-  "outageCount": 249,
+  "generated": "2026-08-01T08:42:32.786Z",
+  "outageCount": 250,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-08-01",
+  "lastOutage": "2026-08-02",
   "outages": [
+    {
+      "date": "Le dimanche 2 août 2026 de  08:30:00 à  15:00:00",
+      "streets": "Grand Var, Ile Michel et Pointe Vingt Tour",
+      "from": "2026-08-02T04:30:00.000Z",
+      "to": "2026-08-02T11:00:00.000Z",
+      "id": "953d5f46c1fd5f8529fb31596cf51ea2"
+    },
     {
       "date": "Le samedi 1 août 2026 de  08:30:00 à  15:00:00",
       "streets": "Riviere Coco, Ile Michel, Tamarin et Anse Raffin",
