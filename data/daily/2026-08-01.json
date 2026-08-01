@@ -1,8 +1,8 @@
 {
   "date": "2026-08-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-01T06:45:29.842Z",
-  "outageCount": 11,
+  "generated": "2026-08-01T07:42:23.031Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le samedi 1 août 2026 de  08:30:00 à  15:00:00",
@@ -83,6 +83,16 @@
       "from": "2026-08-01T08:00:00.000Z",
       "to": "2026-08-01T12:00:00.000Z",
       "id": "631136f49aad2e10f1bc0a2f0eb5bff5"
+    },
+    {
+      "date": "Le samedi 1 août 2026 de  11:00:00 à  12:30:00",
+      "locality": "CITE MALHERBES",
+      "localitySlug": "cite-malherbes",
+      "streets": "CHA Malherbes",
+      "district": "plainewilhems",
+      "from": "2026-08-01T07:00:00.000Z",
+      "to": "2026-08-01T08:30:00.000Z",
+      "id": "f83cd3e97da1cafbf2676660ab607473"
     },
     {
       "date": "Le samedi 1 août 2026 de  09:00:00 à  14:00:00",

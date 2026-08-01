@@ -2,11 +2,18 @@
   "slug": "cite-malherbes",
   "name": "CITE MALHERBES",
   "district": "plainewilhems",
-  "generated": "2026-08-01T06:45:29.897Z",
-  "outageCount": 11,
+  "generated": "2026-08-01T07:42:23.081Z",
+  "outageCount": 12,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-01-28",
+  "lastOutage": "2026-08-01",
   "outages": [
+    {
+      "date": "Le samedi 1 août 2026 de  11:00:00 à  12:30:00",
+      "streets": "CHA Malherbes",
+      "from": "2026-08-01T07:00:00.000Z",
+      "to": "2026-08-01T08:30:00.000Z",
+      "id": "f83cd3e97da1cafbf2676660ab607473"
+    },
     {
       "date": "Le mercredi 28 janvier 2026 de  12:15:00 à  13:15:00",
       "streets": "MALHERBES",
