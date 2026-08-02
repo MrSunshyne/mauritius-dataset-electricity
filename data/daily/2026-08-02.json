@@ -1,9 +1,29 @@
 {
   "date": "2026-08-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-01T18:16:25.603Z",
-  "outageCount": 6,
+  "generated": "2026-08-02T06:48:44.807Z",
+  "outageCount": 9,
   "outages": [
+    {
+      "date": "Le dimanche 2 août 2026 de  08:00:00 à  13:00:00",
+      "locality": "BELLE MARE",
+      "localitySlug": "belle-mare",
+      "streets": "ROYAL RD BELLE MARE",
+      "district": "flacq",
+      "from": "2026-08-02T04:00:00.000Z",
+      "to": "2026-08-02T09:00:00.000Z",
+      "id": "e6892c555f01f41dae73f73f24503a1f"
+    },
+    {
+      "date": "Le dimanche 2 août 2026 de  08:30:00 à  10:30:00",
+      "locality": "CONGOMAH",
+      "localitySlug": "congomah",
+      "streets": "ROYAL RD CONGOMAH",
+      "district": "pamplemousses",
+      "from": "2026-08-02T04:30:00.000Z",
+      "to": "2026-08-02T06:30:00.000Z",
+      "id": "8f99ae928f05d4314025093c314e2160"
+    },
     {
       "date": "Le dimanche 2 août 2026 de  08:30:00 à  17:00:00",
       "locality": "CLOSEL",
@@ -43,6 +63,16 @@
       "from": "2026-08-02T04:30:00.000Z",
       "to": "2026-08-02T11:00:00.000Z",
       "id": "4aa42ec20ce8198a736424fc89f4a248"
+    },
+    {
+      "date": "Le dimanche 2 août 2026 de  08:30:00 à  10:30:00",
+      "locality": "PETIT VERGER P AUX SABLES",
+      "localitySlug": "petit-verger-p-aux-sables",
+      "streets": "MORC BOUGAINVILLIER-KENSIGNTON POINTE AUX SABLES",
+      "district": "portlouis",
+      "from": "2026-08-02T04:30:00.000Z",
+      "to": "2026-08-02T06:30:00.000Z",
+      "id": "a1acea8a5eb8d22502b0681f1948aa04"
     },
     {
       "date": "Le dimanche 2 août 2026 de  08:30:00 à  15:30:00",

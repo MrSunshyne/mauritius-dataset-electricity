@@ -2,11 +2,18 @@
   "slug": "congomah",
   "name": "CONGOMAH",
   "district": "pamplemousses",
-  "generated": "2026-08-01T18:16:25.656Z",
-  "outageCount": 22,
+  "generated": "2026-08-02T06:48:44.861Z",
+  "outageCount": 23,
   "firstOutage": "2022-08-01",
-  "lastOutage": "2026-05-10",
+  "lastOutage": "2026-08-02",
   "outages": [
+    {
+      "date": "Le dimanche 2 août 2026 de  08:30:00 à  10:30:00",
+      "streets": "ROYAL RD CONGOMAH",
+      "from": "2026-08-02T04:30:00.000Z",
+      "to": "2026-08-02T06:30:00.000Z",
+      "id": "8f99ae928f05d4314025093c314e2160"
+    },
     {
       "date": "Le dimanche 10 mai 2026 de  09:30:00 à  01:00:00",
       "streets": "BLACKBURN RD-ROYAL RD CONGOMAH",
