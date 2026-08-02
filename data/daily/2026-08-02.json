@@ -1,8 +1,8 @@
 {
   "date": "2026-08-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-02T11:24:52.761Z",
-  "outageCount": 9,
+  "generated": "2026-08-02T12:18:20.241Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le dimanche 2 août 2026 de  08:00:00 à  13:00:00",
@@ -83,6 +83,16 @@
       "from": "2026-08-02T04:30:00.000Z",
       "to": "2026-08-02T11:30:00.000Z",
       "id": "573a673c53df535402f11842400adf54"
+    },
+    {
+      "date": "Le dimanche 2 août 2026 de  13:30:00 à  18:30:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "Gandhi Square,Railway,Schoenfield,Bijadhur,Ssr et les environs",
+      "district": "rivieredurempart",
+      "from": "2026-08-02T09:30:00.000Z",
+      "to": "2026-08-02T14:30:00.000Z",
+      "id": "c8a486de0531155b99a14566ee6df50f"
     },
     {
       "date": "Le dimanche 2 août 2026 de  08:30:00 à  15:00:00",
