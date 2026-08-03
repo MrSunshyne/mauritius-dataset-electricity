@@ -1,9 +1,19 @@
 {
   "date": "2026-08-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-02T18:16:20.896Z",
-  "outageCount": 1,
+  "generated": "2026-08-03T07:00:05.958Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le lundi 3 août 2026 de  09:00:00 à  13:00:00",
+      "locality": "BLUE BAY",
+      "localitySlug": "blue-bay",
+      "streets": "RUE DES CARANGUESIRUE DES AIGRETTEBLUE BAY",
+      "district": "grandport",
+      "from": "2026-08-03T05:00:00.000Z",
+      "to": "2026-08-03T09:00:00.000Z",
+      "id": "af9920895a4ce32cd63e26737ae2680b"
+    },
     {
       "date": "Le lundi 3 août 2026 de  12:00:00 à  13:00:00",
       "locality": "CUREPIPE",
@@ -13,6 +23,26 @@
       "from": "2026-08-03T08:00:00.000Z",
       "to": "2026-08-03T09:00:00.000Z",
       "id": "cb717efeefa59c6b1c2827f868c159a0"
+    },
+    {
+      "date": "Le lundi 3 août 2026 de  09:30:00 à  11:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "CLOSEL RD-CEMETRY RD VACOAS",
+      "district": "plainewilhems",
+      "from": "2026-08-03T05:30:00.000Z",
+      "to": "2026-08-03T07:00:00.000Z",
+      "id": "3da6cb00327fc9931b62fe4c932128a2"
+    },
+    {
+      "date": "Le lundi 3 août 2026 de  10:00:00 à  11:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "MAURICE MARTIN RD -RUE LA CROIX CUREPIPE",
+      "district": "plainewilhems",
+      "from": "2026-08-03T06:00:00.000Z",
+      "to": "2026-08-03T07:00:00.000Z",
+      "id": "0eb0b6372837bdccf03a8a7e014f909a"
     }
   ]
 }

@@ -1,9 +1,19 @@
 {
   "date": "2026-08-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-02T18:16:20.896Z",
-  "outageCount": 1,
+  "generated": "2026-08-03T07:00:05.958Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le mardi 4 août 2026 de  09:00:00 à  11:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "PASADENA VILLAGE, ANARI HOTEL, COASTAL ROAD ET FLIC EN FLAC POLICE STATION",
+      "district": "blackriver",
+      "from": "2026-08-04T05:00:00.000Z",
+      "to": "2026-08-04T07:00:00.000Z",
+      "id": "a0664e76a53a32a6de6c634dc2278860"
+    },
     {
       "date": "Le mardi 4 août 2026 de  09:00:00 à  16:00:00",
       "locality": "CHEMIN GRENIER",

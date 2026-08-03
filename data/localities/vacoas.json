@@ -2,11 +2,18 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-08-02T18:16:21.024Z",
-  "outageCount": 262,
+  "generated": "2026-08-03T07:00:06.100Z",
+  "outageCount": 263,
   "firstOutage": "2022-03-17",
-  "lastOutage": "2026-08-01",
+  "lastOutage": "2026-08-03",
   "outages": [
+    {
+      "date": "Le lundi 3 août 2026 de  09:30:00 à  11:00:00",
+      "streets": "CLOSEL RD-CEMETRY RD VACOAS",
+      "from": "2026-08-03T05:30:00.000Z",
+      "to": "2026-08-03T07:00:00.000Z",
+      "id": "3da6cb00327fc9931b62fe4c932128a2"
+    },
     {
       "date": "Le samedi 1 août 2026 de  12:00:00 à  16:00:00",
       "streets": "MORC HINGUN, PLAINE DES HERMITAGE",
