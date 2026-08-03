@@ -1,8 +1,8 @@
 {
   "date": "2026-08-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-03T12:02:32.131Z",
-  "outageCount": 7,
+  "generated": "2026-08-03T13:49:17.041Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le lundi 3 août 2026 de  11:00:00 à  16:00:00",
@@ -73,6 +73,16 @@
       "from": "2026-08-03T07:00:00.000Z",
       "to": "2026-08-03T11:00:00.000Z",
       "id": "7b76de88b65773942cf9748af5a68bf2"
+    },
+    {
+      "date": "Le lundi 3 août 2026 de  17:00:00 à  21:00:00",
+      "locality": "CALODYNE",
+      "localitySlug": "calodyne",
+      "streets": "CALODYN & GRAND GAUBE",
+      "district": "rivieredurempart",
+      "from": "2026-08-03T13:00:00.000Z",
+      "to": "2026-08-03T17:00:00.000Z",
+      "id": "f64d39c99ed6d4ba043f4b04749ad903"
     }
   ]
 }

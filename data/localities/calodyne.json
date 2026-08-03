@@ -2,11 +2,18 @@
   "slug": "calodyne",
   "name": "CALODYNE",
   "district": "rivieredurempart",
-  "generated": "2026-08-03T12:02:32.153Z",
-  "outageCount": 42,
+  "generated": "2026-08-03T13:49:17.080Z",
+  "outageCount": 43,
   "firstOutage": "2022-09-10",
-  "lastOutage": "2026-08-01",
+  "lastOutage": "2026-08-03",
   "outages": [
+    {
+      "date": "Le lundi 3 août 2026 de  17:00:00 à  21:00:00",
+      "streets": "CALODYN & GRAND GAUBE",
+      "from": "2026-08-03T13:00:00.000Z",
+      "to": "2026-08-03T17:00:00.000Z",
+      "id": "f64d39c99ed6d4ba043f4b04749ad903"
+    },
     {
       "date": "Le samedi 1 août 2026 de  01:00:00 à  08:00:00",
       "streets": "SAINT FRANCOIS RD CALODYNE",
