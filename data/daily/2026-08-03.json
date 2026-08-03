@@ -1,8 +1,8 @@
 {
   "date": "2026-08-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-03T08:12:12.090Z",
-  "outageCount": 5,
+  "generated": "2026-08-03T10:13:57.189Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le lundi 3 août 2026 de  11:00:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-08-03T07:00:00.000Z",
       "to": "2026-08-03T12:00:00.000Z",
       "id": "937c2639fe471959a30a73540358e129"
+    },
+    {
+      "date": "Le lundi 3 août 2026 de  12:00:00 à  17:00:00",
+      "locality": "POSTE LAFAYETTE",
+      "localitySlug": "poste-lafayette",
+      "streets": "POSTE LAFAYETTE",
+      "district": "flacq",
+      "from": "2026-08-03T08:00:00.000Z",
+      "to": "2026-08-03T13:00:00.000Z",
+      "id": "f8f69474b410ccd5cd494c4cede2aa1b"
     },
     {
       "date": "Le lundi 3 août 2026 de  09:00:00 à  13:00:00",
@@ -53,6 +63,16 @@
       "from": "2026-08-03T06:00:00.000Z",
       "to": "2026-08-03T07:00:00.000Z",
       "id": "0eb0b6372837bdccf03a8a7e014f909a"
+    },
+    {
+      "date": "Le lundi 3 août 2026 de  11:00:00 à  15:00:00",
+      "locality": "POINTE AUX CANONNIERS",
+      "localitySlug": "pointe-aux-canonniers",
+      "streets": "MORC RAFFRAY",
+      "district": "rivieredurempart",
+      "from": "2026-08-03T07:00:00.000Z",
+      "to": "2026-08-03T11:00:00.000Z",
+      "id": "7b76de88b65773942cf9748af5a68bf2"
     }
   ]
 }
