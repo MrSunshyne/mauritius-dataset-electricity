@@ -1,8 +1,8 @@
 {
   "date": "2026-08-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-04T10:50:45.844Z",
-  "outageCount": 6,
+  "generated": "2026-08-04T11:41:30.419Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le mardi 4 août 2026 de  09:00:00 à  11:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-08-04T04:30:00.000Z",
       "to": "2026-08-04T05:00:00.000Z",
       "id": "d3bcb15a71d397c15fa87dbab7bbdce7"
+    },
+    {
+      "date": "Le mardi 4 août 2026 de  14:30:00 à  18:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "RUE DES AIGLES -ROYAL RD BAIE DU TOMBEAU",
+      "district": "pamplemousses",
+      "from": "2026-08-04T10:30:00.000Z",
+      "to": "2026-08-04T14:00:00.000Z",
+      "id": "65780612f37d1508833ec97668cd392d"
     },
     {
       "date": "Le mardi 4 août 2026 de  11:40:00 à  12:10:00",

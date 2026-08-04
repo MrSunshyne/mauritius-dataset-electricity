@@ -2,11 +2,18 @@
   "slug": "tombeau-bay",
   "name": "TOMBEAU BAY",
   "district": "pamplemousses",
-  "generated": "2026-08-04T10:50:45.963Z",
-  "outageCount": 140,
+  "generated": "2026-08-04T11:41:30.557Z",
+  "outageCount": 141,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-07-25",
+  "lastOutage": "2026-08-04",
   "outages": [
+    {
+      "date": "Le mardi 4 août 2026 de  14:30:00 à  18:00:00",
+      "streets": "RUE DES AIGLES -ROYAL RD BAIE DU TOMBEAU",
+      "from": "2026-08-04T10:30:00.000Z",
+      "to": "2026-08-04T14:00:00.000Z",
+      "id": "65780612f37d1508833ec97668cd392d"
+    },
     {
       "date": "Le samedi 25 juillet 2026 de  08:45:00 à  13:00:00",
       "streets": "ST MALO, FILATURE, ROUILLARD LANE ET LES ALENTOURS",

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-04T10:50:45.844Z",
-  "outageCount": 2,
+  "generated": "2026-08-04T11:41:30.419Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le jeudi 6 août 2026 de  08:30:00 à  17:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-08-06T04:30:00.000Z",
       "to": "2026-08-06T12:00:00.000Z",
       "id": "ff89a7d24c199241111055db6e4dece3"
+    },
+    {
+      "date": "Le jeudi 6 août 2026 de  09:00:00 à  16:00:00",
+      "locality": "LA FLORA",
+      "localitySlug": "la-flora",
+      "streets": "Ramshye Road, Bala Road, Shibnauth Lane, School Road, Sobha Lane, Kotwaroo Road, Bombay Road, Chummun Road, Runglall Road et Boston Road",
+      "district": "savanne",
+      "from": "2026-08-06T05:00:00.000Z",
+      "to": "2026-08-06T12:00:00.000Z",
+      "id": "6132fb70db2f2b0e676f44f2c24a20e3"
     }
   ]
 }
