@@ -2,11 +2,18 @@
   "slug": "riviere-des-galets",
   "name": "RIVIERE DES GALETS",
   "district": "savanne",
-  "generated": "2026-08-03T18:31:10.975Z",
-  "outageCount": 10,
+  "generated": "2026-08-04T06:46:54.796Z",
+  "outageCount": 11,
   "firstOutage": "2022-06-12",
-  "lastOutage": "2026-07-09",
+  "lastOutage": "2026-08-05",
   "outages": [
+    {
+      "date": "Le mercredi 5 août 2026 de  12:00:00 à  15:00:00",
+      "streets": "Riviere des Galets",
+      "from": "2026-08-05T08:00:00.000Z",
+      "to": "2026-08-05T11:00:00.000Z",
+      "id": "d3dd0058c7f77f56f6f52aa5708295d9"
+    },
     {
       "date": "Le jeudi 9 juillet 2026 de  09:00:00 à  16:00:00",
       "streets": "Camp Charlot Chemin Grenier et Riviere Des Galets",

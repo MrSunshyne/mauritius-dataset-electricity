@@ -2,11 +2,18 @@
   "slug": "grand-river-north-west",
   "name": "GRAND RIVER NORTH WEST",
   "district": "blackriver",
-  "generated": "2026-08-03T18:31:10.915Z",
-  "outageCount": 10,
+  "generated": "2026-08-04T06:46:54.758Z",
+  "outageCount": 11,
   "firstOutage": "2024-04-29",
-  "lastOutage": "2026-02-04",
+  "lastOutage": "2026-08-04",
   "outages": [
+    {
+      "date": "Le mardi 4 août 2026 de  08:30:00 à  09:00:00",
+      "streets": "DANS LES ALENTOURS DE GARAGE BALA",
+      "from": "2026-08-04T04:30:00.000Z",
+      "to": "2026-08-04T05:00:00.000Z",
+      "id": "d3bcb15a71d397c15fa87dbab7bbdce7"
+    },
     {
       "date": "Le mercredi 4 février 2026 de  16:30:00 à  17:30:00",
       "streets": "OLD PAILLES RD,BATA,ICE SUPPLY,SUNRAY",

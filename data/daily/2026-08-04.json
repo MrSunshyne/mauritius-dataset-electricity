@@ -1,8 +1,8 @@
 {
   "date": "2026-08-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-03T18:31:10.837Z",
-  "outageCount": 2,
+  "generated": "2026-08-04T06:46:54.706Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le mardi 4 août 2026 de  09:00:00 à  11:00:00",
@@ -13,6 +13,26 @@
       "from": "2026-08-04T05:00:00.000Z",
       "to": "2026-08-04T07:00:00.000Z",
       "id": "a0664e76a53a32a6de6c634dc2278860"
+    },
+    {
+      "date": "Le mardi 4 août 2026 de  09:30:00 à  12:00:00",
+      "locality": "LA PRENEUSE",
+      "localitySlug": "la-preneuse",
+      "streets": "TOUR MARTELLO ET LES ALENTOURS",
+      "district": "blackriver",
+      "from": "2026-08-04T05:30:00.000Z",
+      "to": "2026-08-04T08:00:00.000Z",
+      "id": "eab25afe022ed94507f06003a2541ad1"
+    },
+    {
+      "date": "Le mardi 4 août 2026 de  08:30:00 à  09:00:00",
+      "locality": "GRAND RIVER NORTH WEST",
+      "localitySlug": "grand-river-north-west",
+      "streets": "DANS LES ALENTOURS DE GARAGE BALA",
+      "district": "blackriver",
+      "from": "2026-08-04T04:30:00.000Z",
+      "to": "2026-08-04T05:00:00.000Z",
+      "id": "d3bcb15a71d397c15fa87dbab7bbdce7"
     },
     {
       "date": "Le mardi 4 août 2026 de  09:00:00 à  16:00:00",
