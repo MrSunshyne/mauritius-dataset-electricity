@@ -2,11 +2,18 @@
   "slug": "poste-lafayette",
   "name": "POSTE LAFAYETTE",
   "district": "flacq",
-  "generated": "2026-08-04T08:52:55.038Z",
-  "outageCount": 41,
+  "generated": "2026-08-04T09:51:16.984Z",
+  "outageCount": 42,
   "firstOutage": "2022-03-24",
-  "lastOutage": "2026-08-03",
+  "lastOutage": "2026-08-06",
   "outages": [
+    {
+      "date": "Le jeudi 6 août 2026 de  08:30:00 à  17:00:00",
+      "streets": "Poste Lafayette dans le périmètre de Coastal Road et Royal Road, Bras D’Eau Visitor’s Center, Mauritius Radio Telescope et MV Investment.",
+      "from": "2026-08-06T04:30:00.000Z",
+      "to": "2026-08-06T13:00:00.000Z",
+      "id": "6ded5d206e0e622b9641ecfd80ead37e"
+    },
     {
       "date": "Le lundi 3 août 2026 de  12:00:00 à  17:00:00",
       "streets": "POSTE LAFAYETTE",
