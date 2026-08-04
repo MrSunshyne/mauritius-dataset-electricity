@@ -2,11 +2,18 @@
   "slug": "riviere-du-rempart",
   "name": "RIVIERE DU REMPART",
   "district": "rivieredurempart",
-  "generated": "2026-08-04T09:51:16.993Z",
-  "outageCount": 69,
+  "generated": "2026-08-04T10:50:45.951Z",
+  "outageCount": 70,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-08-02",
+  "lastOutage": "2026-08-04",
   "outages": [
+    {
+      "date": "Le mardi 4 août 2026 de  14:45:00 à  15:15:00",
+      "streets": "AMAURY-AMITIE-DES JARDINS-MON LOISIR-RIVIERE DU REMPART-ILE DAMBRE",
+      "from": "2026-08-04T10:45:00.000Z",
+      "to": "2026-08-04T11:15:00.000Z",
+      "id": "c28e90dcb8f5efc28b7efc410b7c8fc6"
+    },
     {
       "date": "Le dimanche 2 août 2026 de  13:30:00 à  18:30:00",
       "streets": "Gandhi Square,Railway,Schoenfield,Bijadhur,Ssr et les environs",
