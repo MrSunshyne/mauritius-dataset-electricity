@@ -1,8 +1,8 @@
 {
   "date": "2026-08-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-04T06:46:54.706Z",
-  "outageCount": 4,
+  "generated": "2026-08-04T07:49:04.389Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le mardi 4 août 2026 de  09:00:00 à  11:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-08-04T04:30:00.000Z",
       "to": "2026-08-04T05:00:00.000Z",
       "id": "d3bcb15a71d397c15fa87dbab7bbdce7"
+    },
+    {
+      "date": "Le mardi 4 août 2026 de  11:40:00 à  12:10:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "CAMP BELIN 2",
+      "district": "plainewilhems",
+      "from": "2026-08-04T07:40:00.000Z",
+      "to": "2026-08-04T08:10:00.000Z",
+      "id": "5f26fde992409ef523f0d5008abc4d1c"
     },
     {
       "date": "Le mardi 4 août 2026 de  09:00:00 à  16:00:00",

@@ -2,11 +2,18 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-08-04T06:46:54.813Z",
-  "outageCount": 263,
+  "generated": "2026-08-04T07:49:04.534Z",
+  "outageCount": 264,
   "firstOutage": "2022-03-17",
-  "lastOutage": "2026-08-03",
+  "lastOutage": "2026-08-04",
   "outages": [
+    {
+      "date": "Le mardi 4 août 2026 de  11:40:00 à  12:10:00",
+      "streets": "CAMP BELIN 2",
+      "from": "2026-08-04T07:40:00.000Z",
+      "to": "2026-08-04T08:10:00.000Z",
+      "id": "5f26fde992409ef523f0d5008abc4d1c"
+    },
     {
       "date": "Le lundi 3 août 2026 de  09:30:00 à  11:00:00",
       "streets": "CLOSEL RD-CEMETRY RD VACOAS",
