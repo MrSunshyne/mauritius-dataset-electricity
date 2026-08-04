@@ -2,11 +2,18 @@
   "slug": "trefles",
   "name": "TREFLES",
   "district": "plainewilhems",
-  "generated": "2026-08-04T16:33:43.798Z",
-  "outageCount": 18,
+  "generated": "2026-08-04T17:30:26.309Z",
+  "outageCount": 19,
   "firstOutage": "2022-09-25",
-  "lastOutage": "2026-06-15",
+  "lastOutage": "2026-08-04",
   "outages": [
+    {
+      "date": "Le mardi 4 août 2026 de  20:40:00 à  00:00:00",
+      "streets": "AVE MARGUERITE AND SURROUNDINGS",
+      "from": "2026-08-04T16:40:00.000Z",
+      "to": "2026-08-03T20:00:00.000Z",
+      "id": "e45596c864bb12bc27e766e2c49642e5"
+    },
     {
       "date": "Le lundi 15 juin 2026 de  10:45:00 à  13:45:00",
       "streets": "TREFLES/CORP DES GARDES",
