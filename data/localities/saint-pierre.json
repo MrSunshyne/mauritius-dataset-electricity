@@ -2,11 +2,18 @@
   "slug": "saint-pierre",
   "name": "SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-08-05T11:49:00.155Z",
-  "outageCount": 80,
+  "generated": "2026-08-05T13:37:53.492Z",
+  "outageCount": 81,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-08-01",
+  "lastOutage": "2026-08-05",
   "outages": [
+    {
+      "date": "Le mercredi 5 août 2026 de  16:30:00 à  17:30:00",
+      "streets": "SAINT PIERRE",
+      "from": "2026-08-05T12:30:00.000Z",
+      "to": "2026-08-05T13:30:00.000Z",
+      "id": "9060ecc69f81896cd340a8297f947352"
+    },
     {
       "date": "Le samedi 1 août 2026 de  08:30:00 à  15:00:00",
       "streets": "NHDC VIGNOLE, CIRCONSTANCE ET L’AGREMENT",
