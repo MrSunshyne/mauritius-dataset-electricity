@@ -1,9 +1,19 @@
 {
   "date": "2026-08-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-04T18:28:41.214Z",
-  "outageCount": 3,
+  "generated": "2026-08-05T06:47:56.054Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le jeudi 6 août 2026 de  08:30:00 à  16:00:00",
+      "locality": "LA GAULETTE",
+      "localitySlug": "la-gaulette",
+      "streets": "MORC LA FLECHE",
+      "district": "blackriver",
+      "from": "2026-08-06T04:30:00.000Z",
+      "to": "2026-08-06T12:00:00.000Z",
+      "id": "471a033e835613d135f473c7348a60c3"
+    },
     {
       "date": "Le jeudi 6 août 2026 de  08:30:00 à  17:00:00",
       "locality": "POSTE LAFAYETTE",
@@ -23,6 +33,16 @@
       "from": "2026-08-06T04:30:00.000Z",
       "to": "2026-08-06T12:00:00.000Z",
       "id": "ff89a7d24c199241111055db6e4dece3"
+    },
+    {
+      "date": "Le jeudi 6 août 2026 de  09:00:00 à  14:30:00",
+      "locality": "MON CHOISY",
+      "localitySlug": "mon-choisy",
+      "streets": "dans les environs de Casuarina, Coral Azur, Morc Levieux, La Mediteranee, Mystic Hotel et ex MCB",
+      "district": "pamplemousses",
+      "from": "2026-08-06T05:00:00.000Z",
+      "to": "2026-08-06T10:30:00.000Z",
+      "id": "ba81d5e948d72cb8ce09111faf1d48fb"
     },
     {
       "date": "Le jeudi 6 août 2026 de  09:00:00 à  16:00:00",

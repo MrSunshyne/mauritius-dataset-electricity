@@ -1,9 +1,29 @@
 {
   "date": "2026-08-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-04T18:28:41.214Z",
-  "outageCount": 1,
+  "generated": "2026-08-05T06:47:56.054Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le dimanche 9 août 2026 de  08:00:00 à  16:00:00",
+      "locality": "ARSENAL",
+      "localitySlug": "arsenal",
+      "streets": "DANS LES ENVIRONS DE MALAKOFF STREET, BALACLAVA STREET, ARSENAL GOVT SCHOOL, FILLING SHELL AND EMTEL",
+      "district": "pamplemousses",
+      "from": "2026-08-09T04:00:00.000Z",
+      "to": "2026-08-09T12:00:00.000Z",
+      "id": "8af7b6f7f506d53b5d6245a81523fe15"
+    },
+    {
+      "date": "Le dimanche 9 août 2026 de  08:00:00 à  16:00:00",
+      "locality": "CALEBASSES",
+      "localitySlug": "calebasses",
+      "streets": "",
+      "district": "pamplemousses",
+      "from": "2026-08-09T04:00:00.000Z",
+      "to": "2026-08-09T12:00:00.000Z",
+      "id": "765cce13a0f5e5e1f9a0ae207ab886a7"
+    },
     {
       "date": "Le dimanche 9 août 2026 de  08:30:00 à  17:00:00",
       "locality": "MESNIL",

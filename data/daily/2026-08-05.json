@@ -1,9 +1,19 @@
 {
   "date": "2026-08-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-04T18:28:41.214Z",
-  "outageCount": 2,
+  "generated": "2026-08-05T06:47:56.054Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le mercredi 5 août 2026 de  10:30:00 à  12:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "AVE COCOTIER MORC BISMICK FLIC EN FLAC",
+      "district": "blackriver",
+      "from": "2026-08-05T06:30:00.000Z",
+      "to": "2026-08-05T08:00:00.000Z",
+      "id": "bd44ea458a71eb66575582009774b789"
+    },
     {
       "date": "Le mercredi 5 août 2026 de  08:30:00 à  16:00:00",
       "locality": "PAILLOTTE",
@@ -15,6 +25,16 @@
       "id": "86d51e69f1a7e93c2de75e903bacecc3"
     },
     {
+      "date": "Le mercredi 5 août 2026 de  09:45:00 à  12:00:00",
+      "locality": "16EME MILE",
+      "localitySlug": "16eme-mile",
+      "streets": "NHDC JACINTH 16EME MILE FOREST SIDE",
+      "district": "plainewilhems",
+      "from": "2026-08-05T05:45:00.000Z",
+      "to": "2026-08-05T08:00:00.000Z",
+      "id": "04f0e865bacd5a3e2f20e4996fd24a1e"
+    },
+    {
       "date": "Le mercredi 5 août 2026 de  12:00:00 à  15:00:00",
       "locality": "RIVIERE DES GALETS",
       "localitySlug": "riviere-des-galets",
@@ -23,6 +43,16 @@
       "from": "2026-08-05T08:00:00.000Z",
       "to": "2026-08-05T11:00:00.000Z",
       "id": "d3dd0058c7f77f56f6f52aa5708295d9"
+    },
+    {
+      "date": "Le mercredi 5 août 2026 de  08:30:00 à  16:00:00",
+      "locality": "BOIS CHERI",
+      "localitySlug": "bois-cheri",
+      "streets": "CHEMIN MAMBAHAL BOIS CHERI",
+      "district": "savanne",
+      "from": "2026-08-05T04:30:00.000Z",
+      "to": "2026-08-05T12:00:00.000Z",
+      "id": "e584a4b7d46d4d7dc8d81bf7868ab5df"
     }
   ]
 }

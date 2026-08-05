@@ -2,11 +2,18 @@
   "slug": "flic-en-flac",
   "name": "FLIC-EN-FLAC",
   "district": "blackriver",
-  "generated": "2026-08-04T18:28:41.280Z",
-  "outageCount": 232,
+  "generated": "2026-08-05T06:47:56.115Z",
+  "outageCount": 233,
   "firstOutage": "2022-03-16",
-  "lastOutage": "2026-08-04",
+  "lastOutage": "2026-08-05",
   "outages": [
+    {
+      "date": "Le mercredi 5 août 2026 de  10:30:00 à  12:00:00",
+      "streets": "AVE COCOTIER MORC BISMICK FLIC EN FLAC",
+      "from": "2026-08-05T06:30:00.000Z",
+      "to": "2026-08-05T08:00:00.000Z",
+      "id": "bd44ea458a71eb66575582009774b789"
+    },
     {
       "date": "Le mardi 4 août 2026 de  09:00:00 à  11:00:00",
       "streets": "PASADENA VILLAGE, ANARI HOTEL, COASTAL ROAD ET FLIC EN FLAC POLICE STATION",

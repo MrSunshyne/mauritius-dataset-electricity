@@ -2,11 +2,18 @@
   "slug": "pamplemousses",
   "name": "PAMPLEMOUSSES",
   "district": "pamplemousses",
-  "generated": "2026-08-04T18:28:41.317Z",
-  "outageCount": 60,
+  "generated": "2026-08-05T06:47:56.153Z",
+  "outageCount": 61,
   "firstOutage": "2022-05-08",
-  "lastOutage": "2026-06-20",
+  "lastOutage": "2026-08-08",
   "outages": [
+    {
+      "date": "Le samedi 8 août 2026 de  08:00:00 à  15:30:00",
+      "streets": "",
+      "from": "2026-08-08T04:00:00.000Z",
+      "to": "2026-08-08T11:30:00.000Z",
+      "id": "6b6d1fbbc3272d5e7ffdfc10936ba4fc"
+    },
     {
       "date": "Le samedi 20 juin 2026 de  07:00:00 à  13:00:00",
       "streets": "PAMPLEMOUSSES, BOIS ROUGE, MON GOUT, CAMP DES EMBREVADES, CANTON NANCY",

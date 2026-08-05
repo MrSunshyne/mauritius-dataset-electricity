@@ -2,11 +2,18 @@
   "slug": "la-gaulette",
   "name": "LA GAULETTE",
   "district": "blackriver",
-  "generated": "2026-08-04T18:28:41.294Z",
-  "outageCount": 16,
+  "generated": "2026-08-05T06:47:56.129Z",
+  "outageCount": 17,
   "firstOutage": "2022-07-20",
-  "lastOutage": "2026-07-21",
+  "lastOutage": "2026-08-06",
   "outages": [
+    {
+      "date": "Le jeudi 6 août 2026 de  08:30:00 à  16:00:00",
+      "streets": "MORC LA FLECHE",
+      "from": "2026-08-06T04:30:00.000Z",
+      "to": "2026-08-06T12:00:00.000Z",
+      "id": "471a033e835613d135f473c7348a60c3"
+    },
     {
       "date": "Le mardi 21 juillet 2026 de  20:35:00 à  23:30:00",
       "streets": "NEAR LA CHAPELLE",
