@@ -2,11 +2,18 @@
   "slug": "grand-bay",
   "name": "GRAND BAY",
   "district": "rivieredurempart",
-  "generated": "2026-08-05T17:16:29.426Z",
-  "outageCount": 118,
+  "generated": "2026-08-05T19:10:30.705Z",
+  "outageCount": 119,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-07-17",
+  "lastOutage": "2026-08-05",
   "outages": [
+    {
+      "date": "Le mercredi 5 août 2026 de  21:45:00 à  02:00:00",
+      "streets": "ALLEE DU VERGER & PART OF ROYAL ROAD",
+      "from": "2026-08-05T17:45:00.000Z",
+      "to": "2026-08-04T22:00:00.000Z",
+      "id": "c9c2ff0c1fa423c6088321763e203972"
+    },
     {
       "date": "Le vendredi 17 juillet 2026 de  09:55:00 à  13:00:00",
       "streets": "COASTAL ROAD DANS LES ALENTOURS DE VERANDA HOTEL, SUNSET BLVD",

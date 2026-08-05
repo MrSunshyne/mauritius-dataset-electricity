@@ -1,8 +1,8 @@
 {
   "date": "2026-08-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-05T17:16:29.355Z",
-  "outageCount": 8,
+  "generated": "2026-08-05T19:10:30.634Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le mercredi 5 août 2026 de  10:30:00 à  12:00:00",
@@ -63,6 +63,16 @@
       "from": "2026-08-05T10:00:00.000Z",
       "to": "2026-08-05T12:30:00.000Z",
       "id": "dd1d3b474f45d58205f608f2c754ad4f"
+    },
+    {
+      "date": "Le mercredi 5 août 2026 de  21:45:00 à  02:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "ALLEE DU VERGER & PART OF ROYAL ROAD",
+      "district": "rivieredurempart",
+      "from": "2026-08-05T17:45:00.000Z",
+      "to": "2026-08-04T22:00:00.000Z",
+      "id": "c9c2ff0c1fa423c6088321763e203972"
     },
     {
       "date": "Le mercredi 5 août 2026 de  12:00:00 à  15:00:00",
