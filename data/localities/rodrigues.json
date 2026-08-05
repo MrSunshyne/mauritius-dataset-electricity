@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-08-05T09:28:24.373Z",
-  "outageCount": 250,
+  "generated": "2026-08-05T11:49:00.151Z",
+  "outageCount": 251,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-08-02",
+  "lastOutage": "2026-08-06",
   "outages": [
+    {
+      "date": "Le jeudi 6 août 2026 de  08:30:00 à  15:00:00",
+      "streets": "Trefles, Trois Soleil, Patate Theophile et Montagne Cabris Est",
+      "from": "2026-08-06T04:30:00.000Z",
+      "to": "2026-08-06T11:00:00.000Z",
+      "id": "6850d509d000343ac4d2b996abd10903"
+    },
     {
       "date": "Le dimanche 2 août 2026 de  08:30:00 à  15:00:00",
       "streets": "Grand Var, Ile Michel et Pointe Vingt Tour",

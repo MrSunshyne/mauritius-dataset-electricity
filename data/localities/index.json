@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-05T09:28:24.390Z",
+  "generated": "2026-08-05T11:49:00.173Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -1411,10 +1411,10 @@
       "slug": "ebene",
       "name": "EBENE",
       "district": "plainewilhems",
-      "outageCount": 27,
+      "outageCount": 28,
       "file": "ebene.json",
       "firstOutage": "2022-04-25",
-      "lastOutage": "2026-06-13"
+      "lastOutage": "2026-08-05"
     },
     {
       "slug": "ecroignard",
@@ -3490,10 +3490,10 @@
       "slug": "rodrigues",
       "name": "RODRIGUES",
       "district": "rodrigues",
-      "outageCount": 250,
+      "outageCount": 251,
       "file": "rodrigues.json",
       "firstOutage": "2022-03-15",
-      "lastOutage": "2026-08-02"
+      "lastOutage": "2026-08-06"
     },
     {
       "slug": "rose-belle",

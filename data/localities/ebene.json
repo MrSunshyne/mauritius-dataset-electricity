@@ -2,11 +2,18 @@
   "slug": "ebene",
   "name": "EBENE",
   "district": "plainewilhems",
-  "generated": "2026-08-05T09:28:24.324Z",
-  "outageCount": 27,
+  "generated": "2026-08-05T11:49:00.086Z",
+  "outageCount": 28,
   "firstOutage": "2022-04-25",
-  "lastOutage": "2026-06-13",
+  "lastOutage": "2026-08-05",
   "outages": [
+    {
+      "date": "Le mercredi 5 août 2026 de  14:00:00 à  16:30:00",
+      "streets": "MORC BEGA",
+      "from": "2026-08-05T10:00:00.000Z",
+      "to": "2026-08-05T12:30:00.000Z",
+      "id": "dd1d3b474f45d58205f608f2c754ad4f"
+    },
     {
       "date": "Le samedi 13 juin 2026 de  08:45:00 à  18:00:00",
       "streets": "MORC EBENE",
