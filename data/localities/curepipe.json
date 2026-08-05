@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-08-05T06:47:56.109Z",
-  "outageCount": 233,
+  "generated": "2026-08-05T09:28:24.321Z",
+  "outageCount": 234,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-08-03",
+  "lastOutage": "2026-08-06",
   "outages": [
+    {
+      "date": "Le jeudi 6 août 2026 de  09:00:00 à  15:00:00",
+      "streets": "Part of Tout Court Lane,Part of Giquel Lane,Part of Vayapooree Lane,Part of Ghoorun Lane and nearby Alleys",
+      "from": "2026-08-06T05:00:00.000Z",
+      "to": "2026-08-06T11:00:00.000Z",
+      "id": "79f1cfbd0f8bd79f35e8ff29b1556751"
+    },
     {
       "date": "Le lundi 3 août 2026 de  12:00:00 à  13:00:00",
       "streets": "Forest Side dans les environs de Résidence : St Luc, Bourg, Atlee, La Colombe, Jasmin, Atlee et La Brasserie",

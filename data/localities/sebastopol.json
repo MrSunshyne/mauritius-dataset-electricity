@@ -2,11 +2,18 @@
   "slug": "sebastopol",
   "name": "SEBASTOPOL",
   "district": "flacq",
-  "generated": "2026-08-05T06:47:56.190Z",
-  "outageCount": 23,
+  "generated": "2026-08-05T09:28:24.378Z",
+  "outageCount": 24,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-07-08",
+  "lastOutage": "2026-08-09",
   "outages": [
+    {
+      "date": "Le dimanche 9 août 2026 de  09:00:00 à  16:00:00",
+      "streets": "Sebastopol,Pellegrin,Village de pellegrin,Petit Paquet Branch Road,Camp Bombaye Road,Riverside Road,Cent Gaulettes Road and nearby alleyways",
+      "from": "2026-08-09T05:00:00.000Z",
+      "to": "2026-08-09T12:00:00.000Z",
+      "id": "0cde27d41614d35638265e764bdf699a"
+    },
     {
       "date": "Le mercredi 8 juillet 2026 de  09:55:00 à  15:00:00",
       "streets": "nhdc clavet",

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-05T06:47:56.054Z",
-  "outageCount": 5,
+  "generated": "2026-08-05T09:28:24.277Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le jeudi 6 août 2026 de  08:30:00 à  16:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-08-06T05:00:00.000Z",
       "to": "2026-08-06T10:30:00.000Z",
       "id": "ba81d5e948d72cb8ce09111faf1d48fb"
+    },
+    {
+      "date": "Le jeudi 6 août 2026 de  09:00:00 à  15:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Part of Tout Court Lane,Part of Giquel Lane,Part of Vayapooree Lane,Part of Ghoorun Lane and nearby Alleys",
+      "district": "plainewilhems",
+      "from": "2026-08-06T05:00:00.000Z",
+      "to": "2026-08-06T11:00:00.000Z",
+      "id": "79f1cfbd0f8bd79f35e8ff29b1556751"
     },
     {
       "date": "Le jeudi 6 août 2026 de  09:00:00 à  16:00:00",
