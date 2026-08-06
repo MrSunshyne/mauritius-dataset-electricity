@@ -1,8 +1,8 @@
 {
   "date": "2026-08-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-06T11:10:36.334Z",
-  "outageCount": 14,
+  "generated": "2026-08-06T13:29:47.637Z",
+  "outageCount": 15,
   "outages": [
     {
       "date": "Le jeudi 6 août 2026 de  08:30:00 à  16:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-08-06T09:30:00.000Z",
       "to": "2026-08-06T10:30:00.000Z",
       "id": "38532c0180853ae5267ec31d9e3f0ea7"
+    },
+    {
+      "date": "Le jeudi 6 août 2026 de  16:00:00 à  21:00:00",
+      "locality": "VILLENOIRE",
+      "localitySlug": "villenoire",
+      "streets": "MORC BLUEPRINT.",
+      "district": "grandport",
+      "from": "2026-08-06T12:00:00.000Z",
+      "to": "2026-08-06T17:00:00.000Z",
+      "id": "a9592bcf7bc903473df33e2ada946c7b"
     },
     {
       "date": "Le jeudi 6 août 2026 de  09:00:00 à  14:30:00",
