@@ -2,11 +2,18 @@
   "slug": "riviere-du-rempart",
   "name": "RIVIERE DU REMPART",
   "district": "rivieredurempart",
-  "generated": "2026-08-06T13:29:47.763Z",
-  "outageCount": 70,
+  "generated": "2026-08-06T16:06:36.121Z",
+  "outageCount": 71,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-08-04",
+  "lastOutage": "2026-08-06",
   "outages": [
+    {
+      "date": "Le jeudi 6 août 2026 de  18:45:00 à  23:00:00",
+      "streets": "JUGNATH ROAD, ALLEE COCO, PAVE ROAD ET DANS LES ALENTOURS STORE UTCHANAH.",
+      "from": "2026-08-06T14:45:00.000Z",
+      "to": "2026-08-06T19:00:00.000Z",
+      "id": "67436a520510b0cf308a83cc1172c4af"
+    },
     {
       "date": "Le mardi 4 août 2026 de  14:45:00 à  15:15:00",
       "streets": "AMAURY-AMITIE-DES JARDINS-MON LOISIR-RIVIERE DU REMPART-ILE DAMBRE",
