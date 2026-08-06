@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-06T08:11:35.237Z",
+  "generated": "2026-08-06T11:10:36.485Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -286,10 +286,10 @@
       "slug": "beau-bassin",
       "name": "BEAU BASSIN",
       "district": "plainewilhems",
-      "outageCount": 198,
+      "outageCount": 199,
       "file": "beau-bassin.json",
       "firstOutage": "2022-03-25",
-      "lastOutage": "2026-08-01"
+      "lastOutage": "2026-08-06"
     },
     {
       "slug": "beau-bois",
@@ -1942,10 +1942,10 @@
       "slug": "la-laura-saint-pierre",
       "name": "LA LAURA SAINT PIERRE",
       "district": "moka",
-      "outageCount": 20,
+      "outageCount": 21,
       "file": "la-laura-saint-pierre.json",
       "firstOutage": "2022-11-23",
-      "lastOutage": "2026-02-28"
+      "lastOutage": "2026-08-08"
     },
     {
       "slug": "la-louisa",
@@ -2392,10 +2392,10 @@
       "slug": "moka",
       "name": "MOKA",
       "district": "moka",
-      "outageCount": 74,
+      "outageCount": 75,
       "file": "moka.json",
       "firstOutage": "2022-06-13",
-      "lastOutage": "2026-07-23"
+      "lastOutage": "2026-08-09"
     },
     {
       "slug": "mon-choisy",
@@ -2950,10 +2950,10 @@
       "slug": "plaine-magnien",
       "name": "PLAINE MAGNIEN",
       "district": "grandport",
-      "outageCount": 71,
+      "outageCount": 72,
       "file": "plaine-magnien.json",
       "firstOutage": "2022-06-08",
-      "lastOutage": "2026-07-27"
+      "lastOutage": "2026-08-06"
     },
     {
       "slug": "plaine-verte",
@@ -3922,7 +3922,7 @@
       "slug": "trou-aux-biches",
       "name": "TROU AUX BICHES",
       "district": "pamplemousses",
-      "outageCount": 66,
+      "outageCount": 67,
       "file": "trou-aux-biches.json",
       "firstOutage": "2022-04-10",
       "lastOutage": "2026-08-06"

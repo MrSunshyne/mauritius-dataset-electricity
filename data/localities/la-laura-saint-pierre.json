@@ -2,11 +2,18 @@
   "slug": "la-laura-saint-pierre",
   "name": "LA LAURA SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-08-06T08:11:35.160Z",
-  "outageCount": 20,
+  "generated": "2026-08-06T11:10:36.413Z",
+  "outageCount": 21,
   "firstOutage": "2022-11-23",
-  "lastOutage": "2026-02-28",
+  "lastOutage": "2026-08-08",
   "outages": [
+    {
+      "date": "Le samedi 8 août 2026 de  08:30:00 à  15:00:00",
+      "streets": "Shivala Rd, La Laura Village, Roselyn Cottage, Chemin Serviette, Jardin et les environs",
+      "from": "2026-08-08T04:30:00.000Z",
+      "to": "2026-08-08T11:00:00.000Z",
+      "id": "937edc51a178904076afc7bd290bc5a3"
+    },
     {
       "date": "Le samedi 28 février 2026 de  08:30:00 à  15:30:00",
       "streets": "Village Malenga, Village La Laura et Roselyn Cottage",

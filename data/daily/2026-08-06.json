@@ -1,8 +1,8 @@
 {
   "date": "2026-08-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-06T08:11:35.080Z",
-  "outageCount": 11,
+  "generated": "2026-08-06T11:10:36.334Z",
+  "outageCount": 14,
   "outages": [
     {
       "date": "Le jeudi 6 août 2026 de  08:30:00 à  16:00:00",
@@ -35,6 +35,16 @@
       "id": "ff89a7d24c199241111055db6e4dece3"
     },
     {
+      "date": "Le jeudi 6 août 2026 de  13:30:00 à  14:30:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "LES ABONNES DE MORCELLEMENT DEUX PLACES.",
+      "district": "grandport",
+      "from": "2026-08-06T09:30:00.000Z",
+      "to": "2026-08-06T10:30:00.000Z",
+      "id": "38532c0180853ae5267ec31d9e3f0ea7"
+    },
+    {
       "date": "Le jeudi 6 août 2026 de  09:00:00 à  14:30:00",
       "locality": "MON CHOISY",
       "localitySlug": "mon-choisy",
@@ -55,6 +65,16 @@
       "id": "e32395b5da4a773466ee38567d06b8c8"
     },
     {
+      "date": "Le jeudi 6 août 2026 de  14:00:00 à  15:00:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "NEMORIN TROU AUX BICHES.",
+      "district": "pamplemousses",
+      "from": "2026-08-06T10:00:00.000Z",
+      "to": "2026-08-06T11:00:00.000Z",
+      "id": "d55ea306ea34a152463f66aca10a8f5a"
+    },
+    {
       "date": "Le jeudi 6 août 2026 de  09:00:00 à  15:00:00",
       "locality": "CUREPIPE",
       "localitySlug": "curepipe",
@@ -73,6 +93,16 @@
       "from": "2026-08-06T05:00:00.000Z",
       "to": "2026-08-06T06:00:00.000Z",
       "id": "f69449684177c629534faf8e5223dd2f"
+    },
+    {
+      "date": "Le jeudi 6 août 2026 de  15:00:00 à  17:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "EN PARTIE CHEMIN VICTOR HUGO.",
+      "district": "plainewilhems",
+      "from": "2026-08-06T11:00:00.000Z",
+      "to": "2026-08-06T13:00:00.000Z",
+      "id": "d4a4647c46a1fa8cb896fe50d7f03265"
     },
     {
       "date": "Le jeudi 6 août 2026 de  10:15:00 à  15:00:00",

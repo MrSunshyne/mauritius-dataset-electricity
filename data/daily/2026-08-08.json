@@ -1,9 +1,19 @@
 {
   "date": "2026-08-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-06T08:11:35.080Z",
-  "outageCount": 2,
+  "generated": "2026-08-06T11:10:36.334Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le samedi 8 août 2026 de  08:30:00 à  15:00:00",
+      "locality": "LA LAURA SAINT PIERRE",
+      "localitySlug": "la-laura-saint-pierre",
+      "streets": "Shivala Rd, La Laura Village, Roselyn Cottage, Chemin Serviette, Jardin et les environs",
+      "district": "moka",
+      "from": "2026-08-08T04:30:00.000Z",
+      "to": "2026-08-08T11:00:00.000Z",
+      "id": "937edc51a178904076afc7bd290bc5a3"
+    },
     {
       "date": "Le samedi 8 août 2026 de  08:00:00 à  15:30:00",
       "locality": "PAMPLEMOUSSES",

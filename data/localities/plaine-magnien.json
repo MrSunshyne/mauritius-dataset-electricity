@@ -2,11 +2,18 @@
   "slug": "plaine-magnien",
   "name": "PLAINE MAGNIEN",
   "district": "grandport",
-  "generated": "2026-08-06T08:11:35.191Z",
-  "outageCount": 71,
+  "generated": "2026-08-06T11:10:36.443Z",
+  "outageCount": 72,
   "firstOutage": "2022-06-08",
-  "lastOutage": "2026-07-27",
+  "lastOutage": "2026-08-06",
   "outages": [
+    {
+      "date": "Le jeudi 6 août 2026 de  13:30:00 à  14:30:00",
+      "streets": "LES ABONNES DE MORCELLEMENT DEUX PLACES.",
+      "from": "2026-08-06T09:30:00.000Z",
+      "to": "2026-08-06T10:30:00.000Z",
+      "id": "38532c0180853ae5267ec31d9e3f0ea7"
+    },
     {
       "date": "Le lundi 27 juillet 2026 de  09:00:00 à  13:00:00",
       "streets": "Plaine Magnien habitant dans le périmètre et les rues suivantes: Mon Desert Road, Morcellement VRS et CWA MTMD Borehole",
