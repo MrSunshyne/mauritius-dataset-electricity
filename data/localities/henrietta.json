@@ -2,11 +2,18 @@
   "slug": "henrietta",
   "name": "HENRIETTA",
   "district": "plainewilhems",
-  "generated": "2026-08-05T19:10:30.710Z",
-  "outageCount": 91,
+  "generated": "2026-08-06T08:11:35.154Z",
+  "outageCount": 92,
   "firstOutage": "2022-07-14",
-  "lastOutage": "2026-07-11",
+  "lastOutage": "2026-08-06",
   "outages": [
+    {
+      "date": "Le jeudi 6 août 2026 de  09:00:00 à  10:00:00",
+      "streets": "CAMP BELIN NO 2 HENRIETTA",
+      "from": "2026-08-06T05:00:00.000Z",
+      "to": "2026-08-06T06:00:00.000Z",
+      "id": "f69449684177c629534faf8e5223dd2f"
+    },
     {
       "date": "Le samedi 11 juillet 2026 de  11:00:00 à  15:00:00",
       "streets": "une partie de Henrietta Branch Road, Delphis Lane, Conner Caldwell and Rajabally Lane",

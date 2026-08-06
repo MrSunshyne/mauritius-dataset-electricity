@@ -2,11 +2,18 @@
   "slug": "pointe-aux-canonniers",
   "name": "POINTE AUX CANONNIERS",
   "district": "rivieredurempart",
-  "generated": "2026-08-05T19:10:30.750Z",
-  "outageCount": 56,
+  "generated": "2026-08-06T08:11:35.192Z",
+  "outageCount": 57,
   "firstOutage": "2022-04-15",
-  "lastOutage": "2026-08-03",
+  "lastOutage": "2026-08-11",
   "outages": [
+    {
+      "date": "Le mardi 11 août 2026 de  09:00:00 à  16:00:00",
+      "streets": "POINTE AUX CANNONIERS, DANS LES PERIMETRES DE ROUTE ROYALE ET RUE CASSE GOON",
+      "from": "2026-08-11T05:00:00.000Z",
+      "to": "2026-08-11T12:00:00.000Z",
+      "id": "d58dd989d8909a7a9edb60295b046fcc"
+    },
     {
       "date": "Le lundi 3 août 2026 de  11:00:00 à  15:00:00",
       "streets": "MORC RAFFRAY",

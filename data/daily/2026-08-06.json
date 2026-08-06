@@ -1,8 +1,8 @@
 {
   "date": "2026-08-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-05T19:10:30.634Z",
-  "outageCount": 7,
+  "generated": "2026-08-06T08:11:35.080Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le jeudi 6 août 2026 de  08:30:00 à  16:00:00",
@@ -45,6 +45,16 @@
       "id": "ba81d5e948d72cb8ce09111faf1d48fb"
     },
     {
+      "date": "Le jeudi 6 août 2026 de  09:20:00 à  12:00:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "NEMORIN TROU AUX BICHES",
+      "district": "pamplemousses",
+      "from": "2026-08-06T05:20:00.000Z",
+      "to": "2026-08-06T08:00:00.000Z",
+      "id": "e32395b5da4a773466ee38567d06b8c8"
+    },
+    {
       "date": "Le jeudi 6 août 2026 de  09:00:00 à  15:00:00",
       "locality": "CUREPIPE",
       "localitySlug": "curepipe",
@@ -55,6 +65,26 @@
       "id": "79f1cfbd0f8bd79f35e8ff29b1556751"
     },
     {
+      "date": "Le jeudi 6 août 2026 de  09:00:00 à  10:00:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "CAMP BELIN NO 2 HENRIETTA",
+      "district": "plainewilhems",
+      "from": "2026-08-06T05:00:00.000Z",
+      "to": "2026-08-06T06:00:00.000Z",
+      "id": "f69449684177c629534faf8e5223dd2f"
+    },
+    {
+      "date": "Le jeudi 6 août 2026 de  10:15:00 à  15:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "Rue Corson Residence Briquetterie",
+      "district": "portlouis",
+      "from": "2026-08-06T06:15:00.000Z",
+      "to": "2026-08-06T11:00:00.000Z",
+      "id": "a6964a19829da8a5702a5bab52870de6"
+    },
+    {
       "date": "Le jeudi 6 août 2026 de  09:00:00 à  16:00:00",
       "locality": "LA FLORA",
       "localitySlug": "la-flora",
@@ -63,6 +93,16 @@
       "from": "2026-08-06T05:00:00.000Z",
       "to": "2026-08-06T12:00:00.000Z",
       "id": "6132fb70db2f2b0e676f44f2c24a20e3"
+    },
+    {
+      "date": "Le jeudi 6 août 2026 de  10:00:00 à  12:00:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "LADY BARKLEY RD SOUILLAC",
+      "district": "savanne",
+      "from": "2026-08-06T06:00:00.000Z",
+      "to": "2026-08-06T08:00:00.000Z",
+      "id": "5c787e7a974f20c9a1a56ef615b95724"
     },
     {
       "date": "Le jeudi 6 août 2026 de  08:30:00 à  15:00:00",

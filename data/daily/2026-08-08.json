@@ -1,8 +1,8 @@
 {
   "date": "2026-08-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-05T19:10:30.634Z",
-  "outageCount": 1,
+  "generated": "2026-08-06T08:11:35.080Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le samedi 8 août 2026 de  08:00:00 à  15:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-08-08T04:00:00.000Z",
       "to": "2026-08-08T11:30:00.000Z",
       "id": "6b6d1fbbc3272d5e7ffdfc10936ba4fc"
+    },
+    {
+      "date": "Le samedi 8 août 2026 de  08:30:00 à  15:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "Dans les environs des Rues Ducray, Ramgoolam, Canal Bathurst, Sainte Croix Road et Residence Briquetterie",
+      "district": "portlouis",
+      "from": "2026-08-08T04:30:00.000Z",
+      "to": "2026-08-08T11:00:00.000Z",
+      "id": "51e864866c8ab8ee0a1dd681c9b4b635"
     }
   ]
 }

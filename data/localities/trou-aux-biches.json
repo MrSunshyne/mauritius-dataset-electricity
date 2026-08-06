@@ -2,11 +2,18 @@
   "slug": "trou-aux-biches",
   "name": "TROU AUX BICHES",
   "district": "pamplemousses",
-  "generated": "2026-08-05T19:10:30.784Z",
-  "outageCount": 65,
+  "generated": "2026-08-06T08:11:35.229Z",
+  "outageCount": 66,
   "firstOutage": "2022-04-10",
-  "lastOutage": "2026-06-26",
+  "lastOutage": "2026-08-06",
   "outages": [
+    {
+      "date": "Le jeudi 6 août 2026 de  09:20:00 à  12:00:00",
+      "streets": "NEMORIN TROU AUX BICHES",
+      "from": "2026-08-06T05:20:00.000Z",
+      "to": "2026-08-06T08:00:00.000Z",
+      "id": "e32395b5da4a773466ee38567d06b8c8"
+    },
     {
       "date": "Le vendredi 26 juin 2026 de  13:00:00 à  17:00:00",
       "streets": "FIRST ROAD FLEURI SUR MER -  GARAGE AUTOSCAN LTD",

@@ -2,11 +2,18 @@
   "slug": "souillac",
   "name": "SOUILLAC",
   "district": "savanne",
-  "generated": "2026-08-05T19:10:30.777Z",
-  "outageCount": 77,
+  "generated": "2026-08-06T08:11:35.222Z",
+  "outageCount": 78,
   "firstOutage": "2022-06-05",
-  "lastOutage": "2026-07-02",
+  "lastOutage": "2026-08-06",
   "outages": [
+    {
+      "date": "Le jeudi 6 août 2026 de  10:00:00 à  12:00:00",
+      "streets": "LADY BARKLEY RD SOUILLAC",
+      "from": "2026-08-06T06:00:00.000Z",
+      "to": "2026-08-06T08:00:00.000Z",
+      "id": "5c787e7a974f20c9a1a56ef615b95724"
+    },
     {
       "date": "Le jeudi 2 juillet 2026 de  08:30:00 à  15:00:00",
       "streets": "Terracine Souillac et Trois Bras Surinam",

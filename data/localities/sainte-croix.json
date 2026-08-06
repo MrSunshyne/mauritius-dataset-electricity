@@ -2,11 +2,25 @@
   "slug": "sainte-croix",
   "name": "SAINTE CROIX",
   "district": "portlouis",
-  "generated": "2026-08-05T19:10:30.774Z",
-  "outageCount": 90,
+  "generated": "2026-08-06T08:11:35.219Z",
+  "outageCount": 92,
   "firstOutage": "2022-04-26",
-  "lastOutage": "2026-08-02",
+  "lastOutage": "2026-08-08",
   "outages": [
+    {
+      "date": "Le samedi 8 août 2026 de  08:30:00 à  15:00:00",
+      "streets": "Dans les environs des Rues Ducray, Ramgoolam, Canal Bathurst, Sainte Croix Road et Residence Briquetterie",
+      "from": "2026-08-08T04:30:00.000Z",
+      "to": "2026-08-08T11:00:00.000Z",
+      "id": "51e864866c8ab8ee0a1dd681c9b4b635"
+    },
+    {
+      "date": "Le jeudi 6 août 2026 de  10:15:00 à  15:00:00",
+      "streets": "Rue Corson Residence Briquetterie",
+      "from": "2026-08-06T06:15:00.000Z",
+      "to": "2026-08-06T11:00:00.000Z",
+      "id": "a6964a19829da8a5702a5bab52870de6"
+    },
     {
       "date": "Le dimanche 2 août 2026 de  08:30:00 à  15:00:00",
       "streets": "Dans les environs des Rues Pieton Pere Laval, Allee Pere Laval, LOiseau, Isodore Bouquet, Canal Bathurst, Cocoterie, Ducray, Abercombie, Sainte Marie, Udhin Lane, Residence Briquetterie et une partie de la route des Pamplemousses",
