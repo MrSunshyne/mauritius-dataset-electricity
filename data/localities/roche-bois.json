@@ -2,11 +2,18 @@
   "slug": "roche-bois",
   "name": "ROCHE BOIS",
   "district": "portlouis",
-  "generated": "2026-08-07T08:09:01.882Z",
-  "outageCount": 41,
+  "generated": "2026-08-07T09:48:04.078Z",
+  "outageCount": 42,
   "firstOutage": "2022-04-30",
-  "lastOutage": "2026-06-18",
+  "lastOutage": "2026-08-07",
   "outages": [
+    {
+      "date": "Le vendredi 7 août 2026 de  12:00:00 à  20:00:00",
+      "streets": "ROUTE COCOTERIE, ROUTE ABBATOIRE, CHEMIN LE CORNU, CHEMIN BENITIER ET LES ENVIRONS.",
+      "from": "2026-08-07T08:00:00.000Z",
+      "to": "2026-08-07T16:00:00.000Z",
+      "id": "ab8511f1bed75054bfe56a2fb78fde96"
+    },
     {
       "date": "Le jeudi 18 juin 2026 de  13:10:00 à  15:00:00",
       "streets": "ALLEE TAMARIN, DESBOUCHERS ST, FORTUNE ST, EN PARTIE BALISAGE ST",

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-07T08:09:01.757Z",
-  "outageCount": 6,
+  "generated": "2026-08-07T09:48:03.953Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le vendredi 7 août 2026 de  10:00:00 à  15:00:00",
@@ -15,6 +15,16 @@
       "id": "3376c2066dd22a68428647124d9d4b35"
     },
     {
+      "date": "Le vendredi 7 août 2026 de  13:45:00 à  14:45:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORCELLEMENT SAFELAND : AVENUE CYGOGNES, AVENUE KESTREL ET LES ENVIRONS.",
+      "district": "blackriver",
+      "from": "2026-08-07T09:45:00.000Z",
+      "to": "2026-08-07T10:45:00.000Z",
+      "id": "b19fc7ec18eb055ece68a3430b64e1b5"
+    },
+    {
       "date": "Le vendredi 7 août 2026 de  11:30:00 à  13:00:00",
       "locality": "BEL AIR",
       "localitySlug": "bel-air",
@@ -23,6 +33,16 @@
       "from": "2026-08-07T07:30:00.000Z",
       "to": "2026-08-07T09:00:00.000Z",
       "id": "8a737d5a620ea2b18e10b246ad11708d"
+    },
+    {
+      "date": "Le vendredi 7 août 2026 de  13:00:00 à  15:00:00",
+      "locality": "OLIVIA",
+      "localitySlug": "olivia",
+      "streets": "PART OF OLIVIA",
+      "district": "flacq",
+      "from": "2026-08-07T09:00:00.000Z",
+      "to": "2026-08-07T11:00:00.000Z",
+      "id": "bbd5d27d61a02d503a1abfad09eb7307"
     },
     {
       "date": "Le vendredi 7 août 2026 de  09:00:00 à  12:00:00",
@@ -53,6 +73,16 @@
       "from": "2026-08-07T06:40:00.000Z",
       "to": "2026-08-07T08:00:00.000Z",
       "id": "245c0471bcd751b34f6b699c7eb40a70"
+    },
+    {
+      "date": "Le vendredi 7 août 2026 de  12:00:00 à  20:00:00",
+      "locality": "ROCHE BOIS",
+      "localitySlug": "roche-bois",
+      "streets": "ROUTE COCOTERIE, ROUTE ABBATOIRE, CHEMIN LE CORNU, CHEMIN BENITIER ET LES ENVIRONS.",
+      "district": "portlouis",
+      "from": "2026-08-07T08:00:00.000Z",
+      "to": "2026-08-07T16:00:00.000Z",
+      "id": "ab8511f1bed75054bfe56a2fb78fde96"
     },
     {
       "date": "Le vendredi 7 août 2026 de  09:30:00 à  13:30:00",

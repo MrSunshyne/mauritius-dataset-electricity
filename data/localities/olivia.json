@@ -2,11 +2,18 @@
   "slug": "olivia",
   "name": "OLIVIA",
   "district": "flacq",
-  "generated": "2026-08-07T08:09:01.856Z",
-  "outageCount": 21,
+  "generated": "2026-08-07T09:48:04.052Z",
+  "outageCount": 22,
   "firstOutage": "2023-06-17",
-  "lastOutage": "2026-05-03",
+  "lastOutage": "2026-08-07",
   "outages": [
+    {
+      "date": "Le vendredi 7 août 2026 de  13:00:00 à  15:00:00",
+      "streets": "PART OF OLIVIA",
+      "from": "2026-08-07T09:00:00.000Z",
+      "to": "2026-08-07T11:00:00.000Z",
+      "id": "bbd5d27d61a02d503a1abfad09eb7307"
+    },
     {
       "date": "Le dimanche 3 mai 2026 de  16:00:00 à  22:30:00",
       "streets": "Belle Rose, Pont Lardier, Clemencia,BEL AIR LA LUCIE BLDG",
