@@ -2,11 +2,18 @@
   "slug": "plaine-magnien",
   "name": "PLAINE MAGNIEN",
   "district": "grandport",
-  "generated": "2026-08-07T17:38:15.897Z",
-  "outageCount": 72,
+  "generated": "2026-08-07T18:36:32.779Z",
+  "outageCount": 73,
   "firstOutage": "2022-06-08",
-  "lastOutage": "2026-08-06",
+  "lastOutage": "2026-08-07",
   "outages": [
+    {
+      "date": "Le vendredi 7 août 2026 de  22:15:00 à  00:30:00",
+      "streets": "MORC DEUX PLACE PLAINE MAGNIEN",
+      "from": "2026-08-07T18:15:00.000Z",
+      "to": "2026-08-06T20:30:00.000Z",
+      "id": "1a94f18f10982f2461ef889f229cb5a6"
+    },
     {
       "date": "Le jeudi 6 août 2026 de  13:30:00 à  14:30:00",
       "streets": "LES ABONNES DE MORCELLEMENT DEUX PLACES.",

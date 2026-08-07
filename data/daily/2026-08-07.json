@@ -1,8 +1,8 @@
 {
   "date": "2026-08-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-07T17:38:15.825Z",
-  "outageCount": 10,
+  "generated": "2026-08-07T18:36:32.671Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le vendredi 7 août 2026 de  10:00:00 à  15:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-08-07T05:00:00.000Z",
       "to": "2026-08-07T08:00:00.000Z",
       "id": "0be8be03838f3b7166d723067c1933da"
+    },
+    {
+      "date": "Le vendredi 7 août 2026 de  22:15:00 à  00:30:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "MORC DEUX PLACE PLAINE MAGNIEN",
+      "district": "grandport",
+      "from": "2026-08-07T18:15:00.000Z",
+      "to": "2026-08-06T20:30:00.000Z",
+      "id": "1a94f18f10982f2461ef889f229cb5a6"
     },
     {
       "date": "Le vendredi 7 août 2026 de  14:45:00 à  18:00:00",
