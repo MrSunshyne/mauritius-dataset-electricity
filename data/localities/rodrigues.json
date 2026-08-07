@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-08-07T11:36:39.678Z",
-  "outageCount": 251,
+  "generated": "2026-08-07T12:36:03.610Z",
+  "outageCount": 252,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-08-06",
+  "lastOutage": "2026-08-08",
   "outages": [
+    {
+      "date": "Le samedi 8 août 2026 de  08:30:00 à  16:00:00",
+      "streets": "Tamarin, Riviere Coco et Ile Michel",
+      "from": "2026-08-08T04:30:00.000Z",
+      "to": "2026-08-08T12:00:00.000Z",
+      "id": "e9b978b261636f49c58a42fe2ca3163d"
+    },
     {
       "date": "Le jeudi 6 août 2026 de  08:30:00 à  15:00:00",
       "streets": "Trefles, Trois Soleil, Patate Theophile et Montagne Cabris Est",

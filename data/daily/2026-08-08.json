@@ -1,8 +1,8 @@
 {
   "date": "2026-08-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-07T11:36:39.556Z",
-  "outageCount": 7,
+  "generated": "2026-08-07T12:36:03.523Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le samedi 8 août 2026 de  08:30:00 à  15:00:00",
@@ -73,6 +73,16 @@
       "from": "2026-08-08T04:00:00.000Z",
       "to": "2026-08-08T12:00:00.000Z",
       "id": "08366dfda09bab291307f327fae2b6b0"
+    },
+    {
+      "date": "Le samedi 8 août 2026 de  08:30:00 à  16:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Tamarin, Riviere Coco et Ile Michel",
+      "district": "rodrigues",
+      "from": "2026-08-08T04:30:00.000Z",
+      "to": "2026-08-08T12:00:00.000Z",
+      "id": "e9b978b261636f49c58a42fe2ca3163d"
     }
   ]
 }
