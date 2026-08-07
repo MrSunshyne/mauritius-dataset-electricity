@@ -2,11 +2,18 @@
   "slug": "baie-du-cap",
   "name": "BAIE DU CAP",
   "district": "savanne",
-  "generated": "2026-08-07T09:48:03.977Z",
-  "outageCount": 36,
+  "generated": "2026-08-07T10:40:23.605Z",
+  "outageCount": 37,
   "firstOutage": "2022-06-29",
-  "lastOutage": "2026-07-23",
+  "lastOutage": "2026-08-11",
   "outages": [
+    {
+      "date": "Le mardi 11 août 2026 de  09:00:00 à  16:00:00",
+      "streets": "Bel Ombre et Saint Martin Baie Du Cap",
+      "from": "2026-08-11T05:00:00.000Z",
+      "to": "2026-08-11T12:00:00.000Z",
+      "id": "7691a4561f0af7380236937b314407a4"
+    },
     {
       "date": "Le jeudi 23 juillet 2026 de  09:00:00 à  17:00:00",
       "streets": "Choisy Baie Du Cap et Maconde",
