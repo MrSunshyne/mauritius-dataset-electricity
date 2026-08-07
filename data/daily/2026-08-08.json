@@ -1,9 +1,19 @@
 {
   "date": "2026-08-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-07T06:57:16.623Z",
-  "outageCount": 6,
+  "generated": "2026-08-07T08:09:01.757Z",
+  "outageCount": 7,
   "outages": [
+    {
+      "date": "Le samedi 8 août 2026 de  08:30:00 à  15:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "Phare Albion, Poultry Sairally, Gamma Workshop et Morc Belle Vue",
+      "district": "blackriver",
+      "from": "2026-08-08T04:30:00.000Z",
+      "to": "2026-08-08T11:00:00.000Z",
+      "id": "eb43265127e40f5b026558eab344585d"
+    },
     {
       "date": "Le samedi 8 août 2026 de  08:30:00 à  15:00:00",
       "locality": "LA LAURA SAINT PIERRE",

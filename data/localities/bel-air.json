@@ -2,11 +2,18 @@
   "slug": "bel-air",
   "name": "BEL AIR",
   "district": "flacq",
-  "generated": "2026-08-07T06:57:16.650Z",
-  "outageCount": 66,
+  "generated": "2026-08-07T08:09:01.786Z",
+  "outageCount": 67,
   "firstOutage": "2022-06-04",
-  "lastOutage": "2026-07-11",
+  "lastOutage": "2026-08-07",
   "outages": [
+    {
+      "date": "Le vendredi 7 août 2026 de  11:30:00 à  13:00:00",
+      "streets": "DAMREE LANE, NEAR SAVERS SUPERMARKET",
+      "from": "2026-08-07T07:30:00.000Z",
+      "to": "2026-08-07T09:00:00.000Z",
+      "id": "8a737d5a620ea2b18e10b246ad11708d"
+    },
     {
       "date": "Le samedi 11 juillet 2026 de  08:15:00 à  16:00:00",
       "streets": "Bel Air dans le périmètre de Pont Lardier, Route Royale La Lucie Bel Air, Morc La Cheminée, Belle Rose et Clemencia.",

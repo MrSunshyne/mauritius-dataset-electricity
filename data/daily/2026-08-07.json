@@ -1,8 +1,8 @@
 {
   "date": "2026-08-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-07T06:57:16.623Z",
-  "outageCount": 5,
+  "generated": "2026-08-07T08:09:01.757Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le vendredi 7 août 2026 de  10:00:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-08-07T06:00:00.000Z",
       "to": "2026-08-07T11:00:00.000Z",
       "id": "3376c2066dd22a68428647124d9d4b35"
+    },
+    {
+      "date": "Le vendredi 7 août 2026 de  11:30:00 à  13:00:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "DAMREE LANE, NEAR SAVERS SUPERMARKET",
+      "district": "flacq",
+      "from": "2026-08-07T07:30:00.000Z",
+      "to": "2026-08-07T09:00:00.000Z",
+      "id": "8a737d5a620ea2b18e10b246ad11708d"
     },
     {
       "date": "Le vendredi 7 août 2026 de  09:00:00 à  12:00:00",

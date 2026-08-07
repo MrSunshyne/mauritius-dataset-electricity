@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-07T06:57:16.768Z",
+  "generated": "2026-08-07T08:09:01.909Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -25,10 +25,10 @@
       "slug": "albion",
       "name": "ALBION",
       "district": "blackriver",
-      "outageCount": 132,
+      "outageCount": 133,
       "file": "albion.json",
       "firstOutage": "2022-06-06",
-      "lastOutage": "2026-08-07"
+      "lastOutage": "2026-08-08"
     },
     {
       "slug": "allee-brillant-castel",
@@ -286,10 +286,10 @@
       "slug": "beau-bassin",
       "name": "BEAU BASSIN",
       "district": "plainewilhems",
-      "outageCount": 199,
+      "outageCount": 200,
       "file": "beau-bassin.json",
       "firstOutage": "2022-03-25",
-      "lastOutage": "2026-08-06"
+      "lastOutage": "2026-08-09"
     },
     {
       "slug": "beau-bois",
@@ -367,10 +367,10 @@
       "slug": "bel-air",
       "name": "BEL AIR",
       "district": "flacq",
-      "outageCount": 66,
+      "outageCount": 67,
       "file": "bel-air.json",
       "firstOutage": "2022-06-04",
-      "lastOutage": "2026-07-11"
+      "lastOutage": "2026-08-07"
     },
     {
       "slug": "bel-etang",
