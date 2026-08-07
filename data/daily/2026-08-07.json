@@ -1,0 +1,58 @@
+{
+  "date": "2026-08-07",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-08-07T06:57:16.623Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le vendredi 7 août 2026 de  10:00:00 à  15:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "POULTRY,BELLE VUE PHARE",
+      "district": "blackriver",
+      "from": "2026-08-07T06:00:00.000Z",
+      "to": "2026-08-07T11:00:00.000Z",
+      "id": "3376c2066dd22a68428647124d9d4b35"
+    },
+    {
+      "date": "Le vendredi 7 août 2026 de  09:00:00 à  12:00:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "Rose Belle habitant dans le périmètre et les rues suivantes :  Gebert Road, Royal Road Baramia, et Mon Fertile",
+      "district": "grandport",
+      "from": "2026-08-07T05:00:00.000Z",
+      "to": "2026-08-07T08:00:00.000Z",
+      "id": "0be8be03838f3b7166d723067c1933da"
+    },
+    {
+      "date": "Le vendredi 7 août 2026 de  09:30:00 à  11:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "FLAT REGENCY",
+      "district": "plainewilhems",
+      "from": "2026-08-07T05:30:00.000Z",
+      "to": "2026-08-07T07:00:00.000Z",
+      "id": "8345c1777fa6fe002a500b50328e3d19"
+    },
+    {
+      "date": "Le vendredi 7 août 2026 de  10:40:00 à  12:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "NHDC, SCHOOL LANE & SURROUNDINGS",
+      "district": "portlouis",
+      "from": "2026-08-07T06:40:00.000Z",
+      "to": "2026-08-07T08:00:00.000Z",
+      "id": "245c0471bcd751b34f6b699c7eb40a70"
+    },
+    {
+      "date": "Le vendredi 7 août 2026 de  09:30:00 à  13:30:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "SOCIAL CENTER ROAD & SURROUNDINGS",
+      "district": "rivieredurempart",
+      "from": "2026-08-07T05:30:00.000Z",
+      "to": "2026-08-07T09:30:00.000Z",
+      "id": "7a43629ffdc5b6c391c5b662b53c3933"
+    }
+  ]
+}

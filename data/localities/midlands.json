@@ -2,11 +2,18 @@
   "slug": "midlands",
   "name": "MIDLANDS",
   "district": "plainewilhems",
-  "generated": "2026-08-06T23:47:05.999Z",
-  "outageCount": 26,
+  "generated": "2026-08-07T06:57:16.709Z",
+  "outageCount": 27,
   "firstOutage": "2022-06-10",
-  "lastOutage": "2026-07-21",
+  "lastOutage": "2026-08-08",
   "outages": [
+    {
+      "date": "Le samedi 8 août 2026 de  08:30:00 à  14:00:00",
+      "streets": "Part of royal road Midlands",
+      "from": "2026-08-08T04:30:00.000Z",
+      "to": "2026-08-08T10:00:00.000Z",
+      "id": "4803d1bf57eb444cf0f4929617f6545c"
+    },
     {
       "date": "Le mardi 21 juillet 2026 de  09:40:00 à  11:00:00",
       "streets": "ROYAL ROAD NEAR SHIVALA",

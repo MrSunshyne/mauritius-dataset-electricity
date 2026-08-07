@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-08-06T23:47:05.966Z",
-  "outageCount": 234,
+  "generated": "2026-08-07T06:57:16.677Z",
+  "outageCount": 235,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-08-06",
+  "lastOutage": "2026-08-10",
   "outages": [
+    {
+      "date": "Le lundi 10 août 2026 de  09:00:00 à  14:00:00",
+      "streets": "Part of royal road and Ramparsad Ramdin street at Eau Coulee, Curepipe",
+      "from": "2026-08-10T05:00:00.000Z",
+      "to": "2026-08-10T10:00:00.000Z",
+      "id": "6e8f7dfc50dfa99bbaeb070d37b948fd"
+    },
     {
       "date": "Le jeudi 6 août 2026 de  09:00:00 à  15:00:00",
       "streets": "Part of Tout Court Lane,Part of Giquel Lane,Part of Vayapooree Lane,Part of Ghoorun Lane and nearby Alleys",

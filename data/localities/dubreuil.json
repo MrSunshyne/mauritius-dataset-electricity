@@ -2,11 +2,18 @@
   "slug": "dubreuil",
   "name": "DUBREUIL",
   "district": "moka",
-  "generated": "2026-08-06T23:47:05.969Z",
-  "outageCount": 23,
+  "generated": "2026-08-07T06:57:16.679Z",
+  "outageCount": 24,
   "firstOutage": "2022-08-13",
-  "lastOutage": "2026-05-14",
+  "lastOutage": "2026-08-08",
   "outages": [
+    {
+      "date": "Le samedi 8 août 2026 de  08:30:00 à  14:00:00",
+      "streets": "dans les environs de NHDC Dudreuil",
+      "from": "2026-08-08T04:30:00.000Z",
+      "to": "2026-08-08T10:00:00.000Z",
+      "id": "f5105bc7fc73140cec3c9ab6875963a4"
+    },
     {
       "date": "Le jeudi 14 mai 2026 de  09:00:00 à  15:00:00",
       "streets": "Camp Boolell et ruelles avoisinantes",

@@ -2,11 +2,18 @@
   "slug": "rose-belle",
   "name": "ROSE BELLE",
   "district": "grandport",
-  "generated": "2026-08-06T23:47:06.037Z",
-  "outageCount": 84,
+  "generated": "2026-08-07T06:57:16.744Z",
+  "outageCount": 85,
   "firstOutage": "2022-05-12",
-  "lastOutage": "2026-08-06",
+  "lastOutage": "2026-08-07",
   "outages": [
+    {
+      "date": "Le vendredi 7 août 2026 de  09:00:00 à  12:00:00",
+      "streets": "Rose Belle habitant dans le périmètre et les rues suivantes :  Gebert Road, Royal Road Baramia, et Mon Fertile",
+      "from": "2026-08-07T05:00:00.000Z",
+      "to": "2026-08-07T08:00:00.000Z",
+      "id": "0be8be03838f3b7166d723067c1933da"
+    },
     {
       "date": "Le jeudi 6 août 2026 de  08:30:00 à  16:00:00",
       "streets": "Rose Belle habitant dans le périmètre : Rose Belle Stadium, Traffic Centre Rose Belle, Rose Belle Coorperative et aux alentours de Rose Belle Market",

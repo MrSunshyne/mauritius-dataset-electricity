@@ -2,11 +2,18 @@
   "slug": "rose-hill",
   "name": "ROSE-HILL",
   "district": "plainewilhems",
-  "generated": "2026-08-06T23:47:06.038Z",
-  "outageCount": 181,
+  "generated": "2026-08-07T06:57:16.745Z",
+  "outageCount": 182,
   "firstOutage": "2022-05-20",
-  "lastOutage": "2026-07-08",
+  "lastOutage": "2026-08-07",
   "outages": [
+    {
+      "date": "Le vendredi 7 août 2026 de  09:30:00 à  11:00:00",
+      "streets": "FLAT REGENCY",
+      "from": "2026-08-07T05:30:00.000Z",
+      "to": "2026-08-07T07:00:00.000Z",
+      "id": "8345c1777fa6fe002a500b50328e3d19"
+    },
     {
       "date": "Le mercredi 8 juillet 2026 de  16:00:00 à  17:00:00",
       "streets": "NHDC Begonia, NHDC Dahlia, NHDC Flamboyant, Espace Concorde, en partie Ave Ariane, Ave Roches-Brunes, Morc Newtown, Winners Roches-Brunes et les environs",

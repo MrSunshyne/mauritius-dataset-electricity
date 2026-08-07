@@ -1,8 +1,8 @@
 {
   "date": "2026-08-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-06T23:47:05.911Z",
-  "outageCount": 3,
+  "generated": "2026-08-07T06:57:16.623Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le samedi 8 août 2026 de  08:30:00 à  15:00:00",
@@ -15,6 +15,16 @@
       "id": "937edc51a178904076afc7bd290bc5a3"
     },
     {
+      "date": "Le samedi 8 août 2026 de  08:30:00 à  14:00:00",
+      "locality": "DUBREUIL",
+      "localitySlug": "dubreuil",
+      "streets": "dans les environs de NHDC Dudreuil",
+      "district": "moka",
+      "from": "2026-08-08T04:30:00.000Z",
+      "to": "2026-08-08T10:00:00.000Z",
+      "id": "f5105bc7fc73140cec3c9ab6875963a4"
+    },
+    {
       "date": "Le samedi 8 août 2026 de  08:00:00 à  15:30:00",
       "locality": "PAMPLEMOUSSES",
       "localitySlug": "pamplemousses",
@@ -25,6 +35,16 @@
       "id": "6b6d1fbbc3272d5e7ffdfc10936ba4fc"
     },
     {
+      "date": "Le samedi 8 août 2026 de  08:30:00 à  14:00:00",
+      "locality": "MIDLANDS",
+      "localitySlug": "midlands",
+      "streets": "Part of royal road Midlands",
+      "district": "plainewilhems",
+      "from": "2026-08-08T04:30:00.000Z",
+      "to": "2026-08-08T10:00:00.000Z",
+      "id": "4803d1bf57eb444cf0f4929617f6545c"
+    },
+    {
       "date": "Le samedi 8 août 2026 de  08:30:00 à  15:00:00",
       "locality": "SAINTE CROIX",
       "localitySlug": "sainte-croix",
@@ -33,6 +53,16 @@
       "from": "2026-08-08T04:30:00.000Z",
       "to": "2026-08-08T11:00:00.000Z",
       "id": "51e864866c8ab8ee0a1dd681c9b4b635"
+    },
+    {
+      "date": "Le samedi 8 août 2026 de  08:00:00 à  16:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "COASTAL ROAD, BAIN BOEUF PEREYBERE",
+      "district": "rivieredurempart",
+      "from": "2026-08-08T04:00:00.000Z",
+      "to": "2026-08-08T12:00:00.000Z",
+      "id": "08366dfda09bab291307f327fae2b6b0"
     }
   ]
 }

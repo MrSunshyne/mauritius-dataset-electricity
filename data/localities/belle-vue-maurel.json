@@ -2,11 +2,18 @@
   "slug": "belle-vue-maurel",
   "name": "BELLE VUE MAUREL",
   "district": "rivieredurempart",
-  "generated": "2026-08-06T23:47:05.942Z",
-  "outageCount": 12,
+  "generated": "2026-08-07T06:57:16.654Z",
+  "outageCount": 13,
   "firstOutage": "2023-01-17",
-  "lastOutage": "2026-04-30",
+  "lastOutage": "2026-08-09",
   "outages": [
+    {
+      "date": "Le dimanche 9 août 2026 de  08:00:00 à  16:00:00",
+      "streets": "WHOLE AREA OF BELLE VUE MAUREL",
+      "from": "2026-08-09T04:00:00.000Z",
+      "to": "2026-08-09T12:00:00.000Z",
+      "id": "846c4a95f42b96094c7707221ea39aa3"
+    },
     {
       "date": "Le jeudi 30 avril 2026 de  18:00:00 à  22:00:00",
       "streets": "EN PARTIE BELLE VUE MAUREL DANS LES ALENTOURS DU MOSQUE",

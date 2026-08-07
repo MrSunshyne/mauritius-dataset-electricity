@@ -1,8 +1,8 @@
 {
   "date": "2026-08-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-06T23:47:05.911Z",
-  "outageCount": 6,
+  "generated": "2026-08-07T06:57:16.623Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le dimanche 9 août 2026 de  09:00:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-08-09T05:00:00.000Z",
       "to": "2026-08-09T12:00:00.000Z",
       "id": "0cde27d41614d35638265e764bdf699a"
+    },
+    {
+      "date": "Le dimanche 9 août 2026 de  08:30:00 à  16:00:00",
+      "locality": "LALLMATIE",
+      "localitySlug": "lallmatie",
+      "streets": "Lallmatie dans le périmètre de Route Royale près du CWA, Overseas Road, Jankeeparsad lane, Proag lane, City EDC, Morc VRS, NHDC et Cimetière de Beau Bois et les chemins avoisinantes.",
+      "district": "flacq",
+      "from": "2026-08-09T04:30:00.000Z",
+      "to": "2026-08-09T12:00:00.000Z",
+      "id": "0ddad229541a374cb85f2ccf1d5fc85f"
     },
     {
       "date": "Le dimanche 9 août 2026 de  08:30:00 à  17:00:00",
@@ -63,6 +73,56 @@
       "from": "2026-08-09T04:30:00.000Z",
       "to": "2026-08-09T13:00:00.000Z",
       "id": "093d0f0a7b1f92b7cf1845fe7115e1a5"
+    },
+    {
+      "date": "Le dimanche 9 août 2026 de  08:00:00 à  16:00:00",
+      "locality": "MON LOISIR",
+      "localitySlug": "mon-loisir",
+      "streets": "WHOLE AREA OF MON LOISIR",
+      "district": "rivieredurempart",
+      "from": "2026-08-09T04:00:00.000Z",
+      "to": "2026-08-09T12:00:00.000Z",
+      "id": "6e960a536009e8efd007be57a7503105"
+    },
+    {
+      "date": "Le dimanche 9 août 2026 de  08:00:00 à  16:00:00",
+      "locality": "BELLE VUE MAUREL",
+      "localitySlug": "belle-vue-maurel",
+      "streets": "WHOLE AREA OF BELLE VUE MAUREL",
+      "district": "rivieredurempart",
+      "from": "2026-08-09T04:00:00.000Z",
+      "to": "2026-08-09T12:00:00.000Z",
+      "id": "846c4a95f42b96094c7707221ea39aa3"
+    },
+    {
+      "date": "Le dimanche 9 août 2026 de  08:00:00 à  16:00:00",
+      "locality": "GOKHOOLAH",
+      "localitySlug": "gokhoolah",
+      "streets": "WHOLE AREA OF GOKHOOLAH",
+      "district": "rivieredurempart",
+      "from": "2026-08-09T04:00:00.000Z",
+      "to": "2026-08-09T12:00:00.000Z",
+      "id": "fe566458187921ab290fcea6efd82bc4"
+    },
+    {
+      "date": "Le dimanche 9 août 2026 de  08:00:00 à  16:00:00",
+      "locality": "BARLOW",
+      "localitySlug": "barlow",
+      "streets": "WHOLE AREA OF BARLOW",
+      "district": "rivieredurempart",
+      "from": "2026-08-09T04:00:00.000Z",
+      "to": "2026-08-09T12:00:00.000Z",
+      "id": "dcb23ece370889b3560cfb1e181d3deb"
+    },
+    {
+      "date": "Le dimanche 9 août 2026 de  08:00:00 à  16:00:00",
+      "locality": "AMITIE",
+      "localitySlug": "amitie",
+      "streets": "WHOLE AREA OF AMITIE",
+      "district": "rivieredurempart",
+      "from": "2026-08-09T04:00:00.000Z",
+      "to": "2026-08-09T12:00:00.000Z",
+      "id": "9b3bdf3bbdf91f760cea4c933abd315e"
     }
   ]
 }

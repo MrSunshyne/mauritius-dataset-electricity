@@ -2,11 +2,18 @@
   "slug": "lallmatie",
   "name": "LALLMATIE",
   "district": "flacq",
-  "generated": "2026-08-06T23:47:05.990Z",
-  "outageCount": 28,
+  "generated": "2026-08-07T06:57:16.699Z",
+  "outageCount": 29,
   "firstOutage": "2022-10-04",
-  "lastOutage": "2026-05-16",
+  "lastOutage": "2026-08-09",
   "outages": [
+    {
+      "date": "Le dimanche 9 août 2026 de  08:30:00 à  16:00:00",
+      "streets": "Lallmatie dans le périmètre de Route Royale près du CWA, Overseas Road, Jankeeparsad lane, Proag lane, City EDC, Morc VRS, NHDC et Cimetière de Beau Bois et les chemins avoisinantes.",
+      "from": "2026-08-09T04:30:00.000Z",
+      "to": "2026-08-09T12:00:00.000Z",
+      "id": "0ddad229541a374cb85f2ccf1d5fc85f"
+    },
     {
       "date": "Le samedi 16 mai 2026 de  11:30:00 à  13:00:00",
       "streets": "VINOBA ROAD LALLMATIE",

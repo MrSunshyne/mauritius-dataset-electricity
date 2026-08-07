@@ -2,11 +2,18 @@
   "slug": "albion",
   "name": "ALBION",
   "district": "blackriver",
-  "generated": "2026-08-06T23:47:05.928Z",
-  "outageCount": 131,
+  "generated": "2026-08-07T06:57:16.640Z",
+  "outageCount": 132,
   "firstOutage": "2022-06-06",
-  "lastOutage": "2026-07-26",
+  "lastOutage": "2026-08-07",
   "outages": [
+    {
+      "date": "Le vendredi 7 août 2026 de  10:00:00 à  15:00:00",
+      "streets": "POULTRY,BELLE VUE PHARE",
+      "from": "2026-08-07T06:00:00.000Z",
+      "to": "2026-08-07T11:00:00.000Z",
+      "id": "3376c2066dd22a68428647124d9d4b35"
+    },
     {
       "date": "Le dimanche 26 juillet 2026 de  19:00:00 à  23:00:00",
       "streets": "Avenues Condor,Solitaire,Albatross,Cardinal,Pelican,Belle Eau et les Environs Camp Creole",

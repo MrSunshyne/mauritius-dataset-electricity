@@ -2,11 +2,18 @@
   "slug": "goodlands",
   "name": "GOODLANDS",
   "district": "rivieredurempart",
-  "generated": "2026-08-06T23:47:05.977Z",
-  "outageCount": 138,
+  "generated": "2026-08-07T06:57:16.687Z",
+  "outageCount": 139,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-06-11",
+  "lastOutage": "2026-08-07",
   "outages": [
+    {
+      "date": "Le vendredi 7 août 2026 de  09:30:00 à  13:30:00",
+      "streets": "SOCIAL CENTER ROAD & SURROUNDINGS",
+      "from": "2026-08-07T05:30:00.000Z",
+      "to": "2026-08-07T09:30:00.000Z",
+      "id": "7a43629ffdc5b6c391c5b662b53c3933"
+    },
     {
       "date": "Le jeudi 11 juin 2026 de  14:00:00 à  17:00:00",
       "streets": "AJAGEER ET LES ALENTOURS",

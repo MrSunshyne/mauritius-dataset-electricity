@@ -2,11 +2,18 @@
   "slug": "pereybere",
   "name": "PEREYBERE",
   "district": "rivieredurempart",
-  "generated": "2026-08-06T23:47:06.011Z",
-  "outageCount": 116,
+  "generated": "2026-08-07T06:57:16.719Z",
+  "outageCount": 117,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-07-29",
+  "lastOutage": "2026-08-08",
   "outages": [
+    {
+      "date": "Le samedi 8 août 2026 de  08:00:00 à  16:00:00",
+      "streets": "COASTAL ROAD, BAIN BOEUF PEREYBERE",
+      "from": "2026-08-08T04:00:00.000Z",
+      "to": "2026-08-08T12:00:00.000Z",
+      "id": "08366dfda09bab291307f327fae2b6b0"
+    },
     {
       "date": "Le mercredi 29 juillet 2026 de  09:00:00 à  15:00:00",
       "streets": "DANS LE PERIMETRE DE LE FLAMANT ROAD, PEREYBERE",
