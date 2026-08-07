@@ -1,8 +1,8 @@
 {
   "date": "2026-08-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-07T10:40:23.581Z",
-  "outageCount": 13,
+  "generated": "2026-08-07T11:36:39.556Z",
+  "outageCount": 14,
   "outages": [
     {
       "date": "Le dimanche 9 août 2026 de  09:00:00 à  16:00:00",
@@ -83,6 +83,16 @@
       "from": "2026-08-09T04:15:00.000Z",
       "to": "2026-08-09T11:00:00.000Z",
       "id": "69066aa86e182b5b0daf02273d04e47b"
+    },
+    {
+      "date": "Le dimanche 9 août 2026 de  08:30:00 à  14:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "En partie Ave Boundary, Ave Paille en Queue, Ave Tourterelle, Ave Cardinal, Dawtal Lane et Robert Edward Hart",
+      "district": "plainewilhems",
+      "from": "2026-08-09T04:30:00.000Z",
+      "to": "2026-08-09T10:30:00.000Z",
+      "id": "512692bfb42dc270c251ceb55d287c28"
     },
     {
       "date": "Le dimanche 9 août 2026 de  08:00:00 à  16:00:00",

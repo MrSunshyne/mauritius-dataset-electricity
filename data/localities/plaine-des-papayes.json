@@ -2,11 +2,18 @@
   "slug": "plaine-des-papayes",
   "name": "PLAINE DES PAPAYES",
   "district": "pamplemousses",
-  "generated": "2026-08-07T10:40:23.693Z",
-  "outageCount": 44,
+  "generated": "2026-08-07T11:36:39.660Z",
+  "outageCount": 45,
   "firstOutage": "2022-05-22",
-  "lastOutage": "2026-07-19",
+  "lastOutage": "2026-08-07",
   "outages": [
+    {
+      "date": "Le vendredi 7 août 2026 de  14:45:00 à  18:00:00",
+      "streets": "BOIS MANGUES : MORCELLEMENT LONDON TOWN.",
+      "from": "2026-08-07T10:45:00.000Z",
+      "to": "2026-08-07T14:00:00.000Z",
+      "id": "2a2fc29a2203b256d0b5a03377ad6b8f"
+    },
     {
       "date": "Le dimanche 19 juillet 2026 de  14:00:00 à  22:00:00",
       "streets": "BOIS MANGUE, PLAINE DES PAPAYES, CHEMIN BOULANGER, CITE MAHEROS ET PARTIE BELLE VUE HAREL NEAR GARAGE TERRA.",
