@@ -2,11 +2,18 @@
   "slug": "lower-vale",
   "name": "LOWER VALE",
   "district": "rivieredurempart",
-  "generated": "2026-08-08T16:17:52.429Z",
-  "outageCount": 18,
+  "generated": "2026-08-08T17:18:46.009Z",
+  "outageCount": 19,
   "firstOutage": "2022-08-18",
-  "lastOutage": "2026-07-02",
+  "lastOutage": "2026-08-08",
   "outages": [
+    {
+      "date": "Le samedi 8 août 2026 de  16:00:00 à  23:00:00",
+      "streets": "Sohawon,Al Madina,Junmoodoo Lanes",
+      "from": "2026-08-08T12:00:00.000Z",
+      "to": "2026-08-08T19:00:00.000Z",
+      "id": "7b8da0f09c1de11c5f1e8e2476753b54"
+    },
     {
       "date": "Le jeudi 2 juillet 2026 de  09:30:00 à  12:00:00",
       "streets": "SSR ROAD, MORC & SURROUNDINGS",

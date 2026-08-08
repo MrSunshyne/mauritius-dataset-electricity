@@ -1,8 +1,8 @@
 {
   "date": "2026-08-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-08T16:17:52.349Z",
-  "outageCount": 14,
+  "generated": "2026-08-08T17:18:45.923Z",
+  "outageCount": 15,
   "outages": [
     {
       "date": "Le samedi 8 août 2026 de  08:30:00 à  15:00:00",
@@ -123,6 +123,16 @@
       "from": "2026-08-08T05:30:00.000Z",
       "to": "2026-08-08T11:00:00.000Z",
       "id": "e3204e5f2d900bd2086f51fe332ecda6"
+    },
+    {
+      "date": "Le samedi 8 août 2026 de  16:00:00 à  23:00:00",
+      "locality": "LOWER VALE",
+      "localitySlug": "lower-vale",
+      "streets": "Sohawon,Al Madina,Junmoodoo Lanes",
+      "district": "rivieredurempart",
+      "from": "2026-08-08T12:00:00.000Z",
+      "to": "2026-08-08T19:00:00.000Z",
+      "id": "7b8da0f09c1de11c5f1e8e2476753b54"
     },
     {
       "date": "Le samedi 8 août 2026 de  10:00:00 à  12:30:00",
