@@ -2,11 +2,18 @@
   "slug": "valetta",
   "name": "VALETTA",
   "district": "moka",
-  "generated": "2026-08-08T06:31:04.892Z",
-  "outageCount": 21,
+  "generated": "2026-08-08T07:39:02.380Z",
+  "outageCount": 22,
   "firstOutage": "2022-11-24",
-  "lastOutage": "2026-05-12",
+  "lastOutage": "2026-08-08",
   "outages": [
+    {
+      "date": "Le samedi 8 août 2026 de  11:00:00 à  12:30:00",
+      "streets": "REGION VALETTA",
+      "from": "2026-08-08T07:00:00.000Z",
+      "to": "2026-08-08T08:30:00.000Z",
+      "id": "2509a261a563d54116186757f4e1aae9"
+    },
     {
       "date": "Le mardi 12 mai 2026 de  09:00:00 à  13:00:00",
       "streets": "MORC VRS VALETTA",
