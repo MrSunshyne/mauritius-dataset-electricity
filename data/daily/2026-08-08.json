@@ -1,8 +1,8 @@
 {
   "date": "2026-08-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-08T07:39:02.235Z",
-  "outageCount": 13,
+  "generated": "2026-08-08T08:25:22.416Z",
+  "outageCount": 14,
   "outages": [
     {
       "date": "Le samedi 8 août 2026 de  08:30:00 à  15:00:00",
@@ -73,6 +73,16 @@
       "from": "2026-08-08T05:15:00.000Z",
       "to": "2026-08-08T08:00:00.000Z",
       "id": "ddace29bc98c1c437fbe6fa3ccd4e2ce"
+    },
+    {
+      "date": "Le samedi 8 août 2026 de  11:00:00 à  13:00:00",
+      "locality": "ARSENAL",
+      "localitySlug": "arsenal",
+      "streets": "ROYAL ROAD ARSENAL",
+      "district": "pamplemousses",
+      "from": "2026-08-08T07:00:00.000Z",
+      "to": "2026-08-08T09:00:00.000Z",
+      "id": "aea03d1753e20b9b303fa62e58d5e083"
     },
     {
       "date": "Le samedi 8 août 2026 de  08:30:00 à  14:00:00",

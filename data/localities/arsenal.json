@@ -2,8 +2,8 @@
   "slug": "arsenal",
   "name": "ARSENAL",
   "district": "pamplemousses",
-  "generated": "2026-08-08T07:39:02.256Z",
-  "outageCount": 64,
+  "generated": "2026-08-08T08:25:22.439Z",
+  "outageCount": 65,
   "firstOutage": "2022-05-25",
   "lastOutage": "2026-08-09",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-08-09T04:00:00.000Z",
       "to": "2026-08-09T12:00:00.000Z",
       "id": "8af7b6f7f506d53b5d6245a81523fe15"
+    },
+    {
+      "date": "Le samedi 8 août 2026 de  11:00:00 à  13:00:00",
+      "streets": "ROYAL ROAD ARSENAL",
+      "from": "2026-08-08T07:00:00.000Z",
+      "to": "2026-08-08T09:00:00.000Z",
+      "id": "aea03d1753e20b9b303fa62e58d5e083"
     },
     {
       "date": "Le mardi 28 juillet 2026 de  14:45:00 à  17:00:00",
