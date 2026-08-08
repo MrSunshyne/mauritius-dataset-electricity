@@ -2,11 +2,18 @@
   "slug": "bagatelle",
   "name": "BAGATELLE",
   "district": "moka",
-  "generated": "2026-08-07T18:36:32.694Z",
-  "outageCount": 2,
+  "generated": "2026-08-08T06:31:04.760Z",
+  "outageCount": 3,
   "firstOutage": "2023-12-09",
-  "lastOutage": "2024-06-04",
+  "lastOutage": "2026-08-08",
   "outages": [
+    {
+      "date": "Le samedi 8 août 2026 de  08:50:00 à  15:00:00",
+      "streets": "BAGATELLE DAM, SCAFFOLDING, BAGATELLE OFFICE & LANDSCOPE",
+      "from": "2026-08-08T04:50:00.000Z",
+      "to": "2026-08-08T11:00:00.000Z",
+      "id": "1970015e514e31504dc54d22d12343be"
+    },
     {
       "date": "Le mardi 4 juin 2024 de  15:25:00 à  16:00:00",
       "streets": "BAGATELLE OFFICE, BAGATELLE DAM, WATER TREATMENT PLANT",

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-07T18:36:32.671Z",
-  "outageCount": 8,
+  "generated": "2026-08-08T06:31:04.737Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le samedi 8 août 2026 de  08:30:00 à  15:00:00",
@@ -35,6 +35,16 @@
       "id": "f5105bc7fc73140cec3c9ab6875963a4"
     },
     {
+      "date": "Le samedi 8 août 2026 de  08:50:00 à  15:00:00",
+      "locality": "BAGATELLE",
+      "localitySlug": "bagatelle",
+      "streets": "BAGATELLE DAM, SCAFFOLDING, BAGATELLE OFFICE & LANDSCOPE",
+      "district": "moka",
+      "from": "2026-08-08T04:50:00.000Z",
+      "to": "2026-08-08T11:00:00.000Z",
+      "id": "1970015e514e31504dc54d22d12343be"
+    },
+    {
       "date": "Le samedi 8 août 2026 de  08:00:00 à  15:30:00",
       "locality": "PAMPLEMOUSSES",
       "localitySlug": "pamplemousses",
@@ -43,6 +53,16 @@
       "from": "2026-08-08T04:00:00.000Z",
       "to": "2026-08-08T11:30:00.000Z",
       "id": "6b6d1fbbc3272d5e7ffdfc10936ba4fc"
+    },
+    {
+      "date": "Le samedi 8 août 2026 de  09:15:00 à  12:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "ALBATROSS ST, BENGALI ST, TRESOR ST AND SURROUNDINGS",
+      "district": "pamplemousses",
+      "from": "2026-08-08T05:15:00.000Z",
+      "to": "2026-08-08T08:00:00.000Z",
+      "id": "ddace29bc98c1c437fbe6fa3ccd4e2ce"
     },
     {
       "date": "Le samedi 8 août 2026 de  08:30:00 à  14:00:00",
@@ -73,6 +93,26 @@
       "from": "2026-08-08T04:00:00.000Z",
       "to": "2026-08-08T12:00:00.000Z",
       "id": "08366dfda09bab291307f327fae2b6b0"
+    },
+    {
+      "date": "Le samedi 8 août 2026 de  09:30:00 à  15:00:00",
+      "locality": "MAPOU",
+      "localitySlug": "mapou",
+      "streets": "MAPOU LE FERRET",
+      "district": "rivieredurempart",
+      "from": "2026-08-08T05:30:00.000Z",
+      "to": "2026-08-08T11:00:00.000Z",
+      "id": "e3204e5f2d900bd2086f51fe332ecda6"
+    },
+    {
+      "date": "Le samedi 8 août 2026 de  10:00:00 à  12:30:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "MORC SANS FLEURI STREET LADY BARKLY SOUILLAC",
+      "district": "savanne",
+      "from": "2026-08-08T06:00:00.000Z",
+      "to": "2026-08-08T08:30:00.000Z",
+      "id": "6e6017bbf1211fd6e5882f24d575c465"
     },
     {
       "date": "Le samedi 8 août 2026 de  08:30:00 à  16:00:00",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-07T18:36:32.829Z",
+  "generated": "2026-08-08T06:31:04.896Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -124,10 +124,10 @@
       "slug": "bagatelle",
       "name": "BAGATELLE",
       "district": "moka",
-      "outageCount": 2,
+      "outageCount": 3,
       "file": "bagatelle.json",
       "firstOutage": "2023-12-09",
-      "lastOutage": "2024-06-04"
+      "lastOutage": "2026-08-08"
     },
     {
       "slug": "baie-du-cap",
@@ -2212,10 +2212,10 @@
       "slug": "mapou",
       "name": "MAPOU",
       "district": "rivieredurempart",
-      "outageCount": 13,
+      "outageCount": 14,
       "file": "mapou.json",
       "firstOutage": "2022-05-22",
-      "lastOutage": "2026-03-02"
+      "lastOutage": "2026-08-08"
     },
     {
       "slug": "mapou-leclezio",
@@ -3751,10 +3751,10 @@
       "slug": "souillac",
       "name": "SOUILLAC",
       "district": "savanne",
-      "outageCount": 78,
+      "outageCount": 79,
       "file": "souillac.json",
       "firstOutage": "2022-06-05",
-      "lastOutage": "2026-08-06"
+      "lastOutage": "2026-08-08"
     },
     {
       "slug": "stanley",
@@ -3841,10 +3841,10 @@
       "slug": "tombeau-bay",
       "name": "TOMBEAU BAY",
       "district": "pamplemousses",
-      "outageCount": 141,
+      "outageCount": 142,
       "file": "tombeau-bay.json",
       "firstOutage": "2022-03-27",
-      "lastOutage": "2026-08-04"
+      "lastOutage": "2026-08-08"
     },
     {
       "slug": "tour-koenig",

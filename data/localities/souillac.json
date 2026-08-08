@@ -2,11 +2,18 @@
   "slug": "souillac",
   "name": "SOUILLAC",
   "district": "savanne",
-  "generated": "2026-08-07T18:36:32.805Z",
-  "outageCount": 78,
+  "generated": "2026-08-08T06:31:04.880Z",
+  "outageCount": 79,
   "firstOutage": "2022-06-05",
-  "lastOutage": "2026-08-06",
+  "lastOutage": "2026-08-08",
   "outages": [
+    {
+      "date": "Le samedi 8 août 2026 de  10:00:00 à  12:30:00",
+      "streets": "MORC SANS FLEURI STREET LADY BARKLY SOUILLAC",
+      "from": "2026-08-08T06:00:00.000Z",
+      "to": "2026-08-08T08:30:00.000Z",
+      "id": "6e6017bbf1211fd6e5882f24d575c465"
+    },
     {
       "date": "Le jeudi 6 août 2026 de  10:00:00 à  12:00:00",
       "streets": "LADY BARKLEY RD SOUILLAC",

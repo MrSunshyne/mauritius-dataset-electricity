@@ -2,11 +2,18 @@
   "slug": "tombeau-bay",
   "name": "TOMBEAU BAY",
   "district": "pamplemousses",
-  "generated": "2026-08-07T18:36:32.808Z",
-  "outageCount": 141,
+  "generated": "2026-08-08T06:31:04.883Z",
+  "outageCount": 142,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-08-04",
+  "lastOutage": "2026-08-08",
   "outages": [
+    {
+      "date": "Le samedi 8 août 2026 de  09:15:00 à  12:00:00",
+      "streets": "ALBATROSS ST, BENGALI ST, TRESOR ST AND SURROUNDINGS",
+      "from": "2026-08-08T05:15:00.000Z",
+      "to": "2026-08-08T08:00:00.000Z",
+      "id": "ddace29bc98c1c437fbe6fa3ccd4e2ce"
+    },
     {
       "date": "Le mardi 4 août 2026 de  14:30:00 à  18:00:00",
       "streets": "RUE DES AIGLES -ROYAL RD BAIE DU TOMBEAU",
