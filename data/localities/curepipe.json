@@ -2,8 +2,8 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-08-09T14:22:24.098Z",
-  "outageCount": 235,
+  "generated": "2026-08-09T15:19:11.390Z",
+  "outageCount": 236,
   "firstOutage": "2022-03-27",
   "lastOutage": "2026-08-10",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-08-10T05:00:00.000Z",
       "to": "2026-08-10T10:00:00.000Z",
       "id": "6e8f7dfc50dfa99bbaeb070d37b948fd"
+    },
+    {
+      "date": "Le dimanche 9 août 2026 de  18:30:00 à  21:30:00",
+      "streets": "COMMERSON ST",
+      "from": "2026-08-09T14:30:00.000Z",
+      "to": "2026-08-09T17:30:00.000Z",
+      "id": "1ca9d5119269e28bcc583bb39a99408b"
     },
     {
       "date": "Le jeudi 6 août 2026 de  09:00:00 à  15:00:00",
