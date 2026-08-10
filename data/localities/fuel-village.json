@@ -2,11 +2,18 @@
   "slug": "fuel-village",
   "name": "FUEL VILLAGE",
   "district": "flacq",
-  "generated": "2026-08-10T07:06:18.891Z",
-  "outageCount": 7,
+  "generated": "2026-08-10T09:05:01.789Z",
+  "outageCount": 8,
   "firstOutage": "2023-01-21",
-  "lastOutage": "2025-07-04",
+  "lastOutage": "2026-08-10",
   "outages": [
+    {
+      "date": "Le lundi 10 août 2026 de  11:30:00 à  12:45:00",
+      "streets": "EN PARTIE HAPPY VILLAGE.",
+      "from": "2026-08-10T07:30:00.000Z",
+      "to": "2026-08-10T08:45:00.000Z",
+      "id": "7afdcbd8c08bfc95b6a90c2b300eeff8"
+    },
     {
       "date": "Le vendredi 4 juillet 2025 de  09:15:00 à  14:00:00",
       "streets": "HAPPY VILLAGE",
