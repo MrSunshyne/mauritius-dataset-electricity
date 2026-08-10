@@ -1,8 +1,8 @@
 {
   "date": "2026-08-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-10T12:39:58.662Z",
-  "outageCount": 6,
+  "generated": "2026-08-10T14:10:58.875Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le lundi 10 août 2026 de  11:00:00 à  14:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-08-10T07:30:00.000Z",
       "to": "2026-08-10T08:45:00.000Z",
       "id": "7afdcbd8c08bfc95b6a90c2b300eeff8"
+    },
+    {
+      "date": "Le lundi 10 août 2026 de  17:30:00 à  21:30:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "LA LUCIE BEL AIR RIVERE SECHE",
+      "district": "flacq",
+      "from": "2026-08-10T13:30:00.000Z",
+      "to": "2026-08-10T17:30:00.000Z",
+      "id": "3ddaa14911db1ca1f26971d0414fee0c"
     },
     {
       "date": "Le lundi 10 août 2026 de  09:00:00 à  14:00:00",
