@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-08-10T11:39:49.188Z",
-  "outageCount": 253,
+  "generated": "2026-08-10T12:39:58.784Z",
+  "outageCount": 254,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-08-09",
+  "lastOutage": "2026-08-11",
   "outages": [
+    {
+      "date": "Le mardi 11 août 2026 de  15:00:00 à  17:00:00",
+      "streets": "Montagne Cabris Corail, Vengasailles et Corail",
+      "from": "2026-08-11T11:00:00.000Z",
+      "to": "2026-08-11T13:00:00.000Z",
+      "id": "2224f2def6e2382f5a2c8cc957a499ac"
+    },
     {
       "date": "Le dimanche 9 août 2026 de  08:30:00 à  15:00:00",
       "streets": "PORT MATHURIN, FOND LA DIGUE, BAIE LASCAR,JEAN TAC ET MORX TERRE ROUGE",

@@ -1,9 +1,19 @@
 {
   "date": "2026-08-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-10T11:39:49.063Z",
-  "outageCount": 5,
+  "generated": "2026-08-10T12:39:58.662Z",
+  "outageCount": 7,
   "outages": [
+    {
+      "date": "Le mardi 11 août 2026 de  09:00:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC SAFELAND- AVE DES PIGEONS, AVE DES CATEAUX VERTS NO.1, AVE DES CATEAUX VERTS NO.2, AVE DES CRECERELLES ET UNE PARTIR DE LAVE CARRIERE",
+      "district": "blackriver",
+      "from": "2026-08-11T05:00:00.000Z",
+      "to": "2026-08-11T11:30:00.000Z",
+      "id": "8c85486f6bb762421401a9205735ce27"
+    },
     {
       "date": "Le mardi 11 août 2026 de  14:00:00 à  17:00:00",
       "locality": "HIGHLANDS",
@@ -53,6 +63,16 @@
       "from": "2026-08-11T05:00:00.000Z",
       "to": "2026-08-11T12:00:00.000Z",
       "id": "7691a4561f0af7380236937b314407a4"
+    },
+    {
+      "date": "Le mardi 11 août 2026 de  15:00:00 à  17:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Montagne Cabris Corail, Vengasailles et Corail",
+      "district": "rodrigues",
+      "from": "2026-08-11T11:00:00.000Z",
+      "to": "2026-08-11T13:00:00.000Z",
+      "id": "2224f2def6e2382f5a2c8cc957a499ac"
     }
   ]
 }
