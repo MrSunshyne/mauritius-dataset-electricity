@@ -2,11 +2,18 @@
   "slug": "petit-raffray",
   "name": "PETIT RAFFRAY",
   "district": "rivieredurempart",
-  "generated": "2026-08-10T14:10:58.974Z",
-  "outageCount": 83,
+  "generated": "2026-08-10T15:47:08.001Z",
+  "outageCount": 84,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-06-17",
+  "lastOutage": "2026-08-10",
   "outages": [
+    {
+      "date": "Le lundi 10 août 2026 de  19:38:00 à  21:38:00",
+      "streets": "SCHOOL LANE.GOWRISUNGKUR LANE",
+      "from": "2026-08-10T15:38:00.000Z",
+      "to": "2026-08-10T17:38:00.000Z",
+      "id": "8c97fbc4d370056239f07b3e46991f1c"
+    },
     {
       "date": "Le mercredi 17 juin 2026 de  16:55:00 à  17:45:00",
       "streets": "SWARAJ RD, KALIMAYE RD, PAVE RD ET LES ALENTOURS",
