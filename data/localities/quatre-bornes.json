@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-08-09T18:21:47.849Z",
-  "outageCount": 405,
+  "generated": "2026-08-10T07:06:18.942Z",
+  "outageCount": 406,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-08-09",
+  "lastOutage": "2026-08-10",
   "outages": [
+    {
+      "date": "Le lundi 10 août 2026 de  09:35:00 à  11:35:00",
+      "streets": "AVENUE CAPUCINES, AVENUE TRIANON No 1 ET LES ALENTOURS.",
+      "from": "2026-08-10T05:35:00.000Z",
+      "to": "2026-08-10T07:35:00.000Z",
+      "id": "21c6329a6f60172cf84df90ac8a68f72"
+    },
     {
       "date": "Le dimanche 9 août 2026 de  08:30:00 à  14:30:00",
       "streets": "En partie Ave Boundary, Ave Paille en Queue, Ave Tourterelle, Ave Cardinal, Dawtal Lane et Robert Edward Hart",

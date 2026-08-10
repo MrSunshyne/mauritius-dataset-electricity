@@ -2,11 +2,18 @@
   "slug": "sainte-croix",
   "name": "SAINTE CROIX",
   "district": "portlouis",
-  "generated": "2026-08-09T18:21:47.861Z",
-  "outageCount": 92,
+  "generated": "2026-08-10T07:06:18.958Z",
+  "outageCount": 93,
   "firstOutage": "2022-04-26",
-  "lastOutage": "2026-08-08",
+  "lastOutage": "2026-08-10",
   "outages": [
+    {
+      "date": "Le lundi 10 août 2026 de  10:10:00 à  14:00:00",
+      "streets": "RUE GABRIEL BOUIC ET LES ALENTOURS COLLEGE PERE LAVAL.",
+      "from": "2026-08-10T06:10:00.000Z",
+      "to": "2026-08-10T10:00:00.000Z",
+      "id": "ca7d04da719c148abadd54ce5004518b"
+    },
     {
       "date": "Le samedi 8 août 2026 de  08:30:00 à  15:00:00",
       "streets": "Dans les environs des Rues Ducray, Ramgoolam, Canal Bathurst, Sainte Croix Road et Residence Briquetterie",

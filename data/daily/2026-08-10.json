@@ -1,9 +1,19 @@
 {
   "date": "2026-08-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-09T18:21:47.760Z",
-  "outageCount": 1,
+  "generated": "2026-08-10T07:06:18.829Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le lundi 10 août 2026 de  11:00:00 à  14:00:00",
+      "locality": "SAINT JULIEN VILLAGE",
+      "localitySlug": "saint-julien-village",
+      "streets": "ST JULIEN VILLAGE DANS LES ALENTOURS DE RESTAURANT MANUEL",
+      "district": "flacq",
+      "from": "2026-08-10T07:00:00.000Z",
+      "to": "2026-08-10T10:00:00.000Z",
+      "id": "d40f71330383e23d9543fefc494aaa66"
+    },
     {
       "date": "Le lundi 10 août 2026 de  09:00:00 à  14:00:00",
       "locality": "CUREPIPE",
@@ -13,6 +23,36 @@
       "from": "2026-08-10T05:00:00.000Z",
       "to": "2026-08-10T10:00:00.000Z",
       "id": "6e8f7dfc50dfa99bbaeb070d37b948fd"
+    },
+    {
+      "date": "Le lundi 10 août 2026 de  09:35:00 à  11:35:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVENUE CAPUCINES, AVENUE TRIANON No 1 ET LES ALENTOURS.",
+      "district": "plainewilhems",
+      "from": "2026-08-10T05:35:00.000Z",
+      "to": "2026-08-10T07:35:00.000Z",
+      "id": "21c6329a6f60172cf84df90ac8a68f72"
+    },
+    {
+      "date": "Le lundi 10 août 2026 de  10:10:00 à  14:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "RUE GABRIEL BOUIC ET LES ALENTOURS COLLEGE PERE LAVAL.",
+      "district": "portlouis",
+      "from": "2026-08-10T06:10:00.000Z",
+      "to": "2026-08-10T10:00:00.000Z",
+      "id": "ca7d04da719c148abadd54ce5004518b"
+    },
+    {
+      "date": "Le lundi 10 août 2026 de  11:00:00 à  14:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "DANS LES ALENTOURS DE VILLA DEL SOL, HAPPY HOUSE",
+      "district": "rivieredurempart",
+      "from": "2026-08-10T07:00:00.000Z",
+      "to": "2026-08-10T10:00:00.000Z",
+      "id": "034baa090f8bef3b4903cb8ecf587527"
     }
   ]
 }

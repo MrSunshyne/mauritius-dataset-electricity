@@ -2,11 +2,18 @@
   "slug": "mahebourg",
   "name": "MAHEBOURG",
   "district": "grandport",
-  "generated": "2026-08-09T18:21:47.826Z",
-  "outageCount": 86,
+  "generated": "2026-08-10T07:06:18.909Z",
+  "outageCount": 87,
   "firstOutage": "2022-04-07",
-  "lastOutage": "2026-07-25",
+  "lastOutage": "2026-08-13",
   "outages": [
+    {
+      "date": "Le jeudi 13 août 2026 de  08:30:00 à  15:00:00",
+      "streets": "Mahebourg habitant dans le périmètre et les rues suivantes :  une partie de la Rue de la Boulangerie, Rue De Maurice, Rue De Bazaar, Rue Des Aigrettes et Rue de la Passe",
+      "from": "2026-08-13T04:30:00.000Z",
+      "to": "2026-08-13T11:00:00.000Z",
+      "id": "e4b47fca3a8dcb1c3ecfd6d1c4466e16"
+    },
     {
       "date": "Le samedi 25 juillet 2026 de  13:45:00 à  20:00:00",
       "streets": "RUE VILLENEUVE ET LES ALENTOURS",

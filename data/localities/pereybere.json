@@ -2,11 +2,18 @@
   "slug": "pereybere",
   "name": "PEREYBERE",
   "district": "rivieredurempart",
-  "generated": "2026-08-09T18:21:47.838Z",
-  "outageCount": 117,
+  "generated": "2026-08-10T07:06:18.927Z",
+  "outageCount": 118,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-08-08",
+  "lastOutage": "2026-08-10",
   "outages": [
+    {
+      "date": "Le lundi 10 août 2026 de  11:00:00 à  14:00:00",
+      "streets": "DANS LES ALENTOURS DE VILLA DEL SOL, HAPPY HOUSE",
+      "from": "2026-08-10T07:00:00.000Z",
+      "to": "2026-08-10T10:00:00.000Z",
+      "id": "034baa090f8bef3b4903cb8ecf587527"
+    },
     {
       "date": "Le samedi 8 août 2026 de  08:00:00 à  16:00:00",
       "streets": "COASTAL ROAD, BAIN BOEUF PEREYBERE",
