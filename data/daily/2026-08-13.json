@@ -1,8 +1,8 @@
 {
   "date": "2026-08-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-11T06:43:38.049Z",
-  "outageCount": 2,
+  "generated": "2026-08-11T08:00:46.987Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le jeudi 13 août 2026 de  08:30:00 à  15:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-08-13T11:00:00.000Z",
       "to": "2026-08-13T13:00:00.000Z",
       "id": "2b8bd624d8c1082a927de8e749eb8c44"
+    },
+    {
+      "date": "Le jeudi 13 août 2026 de  09:00:00 à  16:00:00",
+      "locality": "CAMP DIABLE",
+      "localitySlug": "camp-diable",
+      "streets": "Camp Diable habitant dans le périmètre et les rues suivantes :   Morc. Savannah, Morc. ENL, NHDC, Cite CHA, Chapelle Road, Shivala Road, Mosque Road, Karamuth Road, une partie de la Route Royale Camp Diable",
+      "district": "savanne",
+      "from": "2026-08-13T05:00:00.000Z",
+      "to": "2026-08-13T12:00:00.000Z",
+      "id": "c5d873e3e0a65977b71fbbcc126dc27f"
     }
   ]
 }
