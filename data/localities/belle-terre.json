@@ -2,11 +2,18 @@
   "slug": "belle-terre",
   "name": "BELLE TERRE",
   "district": "plainewilhems",
-  "generated": "2026-08-11T08:00:47.023Z",
-  "outageCount": 13,
+  "generated": "2026-08-11T09:47:43.540Z",
+  "outageCount": 14,
   "firstOutage": "2023-08-25",
-  "lastOutage": "2026-07-12",
+  "lastOutage": "2026-08-12",
   "outages": [
+    {
+      "date": "Le mercredi 12 août 2026 de  13:00:00 à  17:00:00",
+      "streets": "une partie de Belle Terre habitant les rues suivantes : Gandhi Road, Nehru Road, SSR Road et les environs,",
+      "from": "2026-08-12T09:00:00.000Z",
+      "to": "2026-08-12T13:00:00.000Z",
+      "id": "b59b4b34fa3085c1c536707a6296b7f7"
+    },
     {
       "date": "Le dimanche 12 juillet 2026 de  11:00:00 à  14:00:00",
       "streets": "Belle Terre Village",

@@ -2,11 +2,18 @@
   "slug": "sodnac",
   "name": "SODNAC",
   "district": "plainewilhems",
-  "generated": "2026-08-11T08:00:47.129Z",
-  "outageCount": 51,
+  "generated": "2026-08-11T09:47:43.641Z",
+  "outageCount": 52,
   "firstOutage": "2022-05-30",
-  "lastOutage": "2026-06-29",
+  "lastOutage": "2026-08-11",
   "outages": [
+    {
+      "date": "Le mardi 11 août 2026 de  12:30:00 à  14:30:00",
+      "streets": "MORC MAHOMA SODNAC",
+      "from": "2026-08-11T08:30:00.000Z",
+      "to": "2026-08-11T10:30:00.000Z",
+      "id": "778b6b087bd37b79d92a4f6ae923c110"
+    },
     {
       "date": "Le lundi 29 juin 2026 de  09:00:00 à  12:00:00",
       "streets": "Ave Bengali, Dodo, Cardinal, Epervier, Flamant, Morc Marouma, Hirondelle, Kiwi, Ibis, Perdix, en partie Ave Hilcrest et SSR Ave",

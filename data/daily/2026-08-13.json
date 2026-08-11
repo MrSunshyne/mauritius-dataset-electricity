@@ -1,8 +1,8 @@
 {
   "date": "2026-08-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-11T08:00:46.987Z",
-  "outageCount": 3,
+  "generated": "2026-08-11T09:47:43.509Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le jeudi 13 août 2026 de  08:30:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-08-13T04:30:00.000Z",
       "to": "2026-08-13T11:00:00.000Z",
       "id": "e4b47fca3a8dcb1c3ecfd6d1c4466e16"
+    },
+    {
+      "date": "Le jeudi 13 août 2026 de  12:00:00 à  17:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "une partie de Route Royal Phoenix et les environs",
+      "district": "plainewilhems",
+      "from": "2026-08-13T08:00:00.000Z",
+      "to": "2026-08-13T13:00:00.000Z",
+      "id": "dc41873a158624ae949e82d1d6d13d85"
     },
     {
       "date": "Le jeudi 13 août 2026 de  15:00:00 à  17:00:00",

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-11T08:00:46.987Z",
-  "outageCount": 9,
+  "generated": "2026-08-11T09:47:43.509Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le mardi 11 août 2026 de  09:00:00 à  15:30:00",
@@ -53,6 +53,16 @@
       "from": "2026-08-11T04:30:00.000Z",
       "to": "2026-08-11T11:30:00.000Z",
       "id": "045f5aca8c3e899ca50a9272c2b774fa"
+    },
+    {
+      "date": "Le mardi 11 août 2026 de  12:30:00 à  14:30:00",
+      "locality": "SODNAC",
+      "localitySlug": "sodnac",
+      "streets": "MORC MAHOMA SODNAC",
+      "district": "plainewilhems",
+      "from": "2026-08-11T08:30:00.000Z",
+      "to": "2026-08-11T10:30:00.000Z",
+      "id": "778b6b087bd37b79d92a4f6ae923c110"
     },
     {
       "date": "Le mardi 11 août 2026 de  09:00:00 à  16:00:00",

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-11T08:00:46.987Z",
-  "outageCount": 1,
+  "generated": "2026-08-11T09:47:43.509Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le mercredi 12 août 2026 de  08:30:00 à  16:00:00",
@@ -13,6 +13,26 @@
       "from": "2026-08-12T04:30:00.000Z",
       "to": "2026-08-12T12:00:00.000Z",
       "id": "fe8f8bd30c33e4e3a09c9abb9e4c50ff"
+    },
+    {
+      "date": "Le mercredi 12 août 2026 de  13:00:00 à  17:00:00",
+      "locality": "BELLE TERRE",
+      "localitySlug": "belle-terre",
+      "streets": "une partie de Belle Terre habitant les rues suivantes : Gandhi Road, Nehru Road, SSR Road et les environs,",
+      "district": "plainewilhems",
+      "from": "2026-08-12T09:00:00.000Z",
+      "to": "2026-08-12T13:00:00.000Z",
+      "id": "b59b4b34fa3085c1c536707a6296b7f7"
+    },
+    {
+      "date": "Le mercredi 12 août 2026 de  09:00:00 à  12:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Grand La Fouche Corail",
+      "district": "rodrigues",
+      "from": "2026-08-12T05:00:00.000Z",
+      "to": "2026-08-12T08:00:00.000Z",
+      "id": "29f978068b73b7c3b01ef5a5a1cacbb4"
     }
   ]
 }
