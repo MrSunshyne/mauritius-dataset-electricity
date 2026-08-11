@@ -1,8 +1,8 @@
 {
   "date": "2026-08-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-10T18:39:31.994Z",
-  "outageCount": 1,
+  "generated": "2026-08-11T06:43:38.049Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le jeudi 13 août 2026 de  08:30:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-08-13T04:30:00.000Z",
       "to": "2026-08-13T11:00:00.000Z",
       "id": "e4b47fca3a8dcb1c3ecfd6d1c4466e16"
+    },
+    {
+      "date": "Le jeudi 13 août 2026 de  15:00:00 à  17:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "DANS LES ENVIRONS DES RUES EMILE BASSET, SAINTE MARIE, IMPASSE SAINTE MARIE, ROUTE BASSIN NO 1 & 2, MORC LA VALLEE ET SOPHIA LANE",
+      "district": "portlouis",
+      "from": "2026-08-13T11:00:00.000Z",
+      "to": "2026-08-13T13:00:00.000Z",
+      "id": "2b8bd624d8c1082a927de8e749eb8c44"
     }
   ]
 }

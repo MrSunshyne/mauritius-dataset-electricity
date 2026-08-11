@@ -2,11 +2,18 @@
   "slug": "trou-aux-biches",
   "name": "TROU AUX BICHES",
   "district": "pamplemousses",
-  "generated": "2026-08-10T18:39:32.076Z",
-  "outageCount": 67,
+  "generated": "2026-08-11T06:43:38.199Z",
+  "outageCount": 68,
   "firstOutage": "2022-04-10",
-  "lastOutage": "2026-08-06",
+  "lastOutage": "2026-08-11",
   "outages": [
+    {
+      "date": "Le mardi 11 août 2026 de  10:30:00 à  16:00:00",
+      "streets": "DANS LES ALENTOURS DE ECOLE",
+      "from": "2026-08-11T06:30:00.000Z",
+      "to": "2026-08-11T12:00:00.000Z",
+      "id": "c7423737747cebaf21df0ae8c4bd439b"
+    },
     {
       "date": "Le jeudi 6 août 2026 de  14:00:00 à  15:00:00",
       "streets": "NEMORIN TROU AUX BICHES.",
