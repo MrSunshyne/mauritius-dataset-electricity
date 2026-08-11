@@ -1,8 +1,8 @@
 {
   "date": "2026-08-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-11T12:37:10.925Z",
-  "outageCount": 10,
+  "generated": "2026-08-11T14:10:06.314Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le mardi 11 août 2026 de  09:00:00 à  15:30:00",
@@ -93,6 +93,16 @@
       "from": "2026-08-11T05:00:00.000Z",
       "to": "2026-08-11T12:00:00.000Z",
       "id": "7691a4561f0af7380236937b314407a4"
+    },
+    {
+      "date": "Le mardi 11 août 2026 de  18:00:00 à  23:00:00",
+      "locality": "CHAMOUNY",
+      "localitySlug": "chamouny",
+      "streets": "RAILWAY ROAD, COMMUNITY CENTRE ROAD ET LES ENVIRONS.",
+      "district": "savanne",
+      "from": "2026-08-11T14:00:00.000Z",
+      "to": "2026-08-11T19:00:00.000Z",
+      "id": "b5df54e9fb5583a727278fc06c827593"
     },
     {
       "date": "Le mardi 11 août 2026 de  15:00:00 à  17:00:00",
