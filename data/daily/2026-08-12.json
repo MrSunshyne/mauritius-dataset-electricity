@@ -1,9 +1,39 @@
 {
   "date": "2026-08-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-11T18:43:20.831Z",
-  "outageCount": 5,
+  "generated": "2026-08-12T07:04:01.401Z",
+  "outageCount": 10,
   "outages": [
+    {
+      "date": "Le mercredi 12 août 2026 de  10:40:00 à  16:00:00",
+      "locality": "LE MORNE",
+      "localitySlug": "le-morne",
+      "streets": "Residence Gambier",
+      "district": "blackriver",
+      "from": "2026-08-12T06:40:00.000Z",
+      "to": "2026-08-12T12:00:00.000Z",
+      "id": "774864e3888fcd5bdddb34ef5f86b868"
+    },
+    {
+      "date": "Le mercredi 12 août 2026 de  08:30:00 à  12:00:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "NHDC BAMBOUS",
+      "district": "blackriver",
+      "from": "2026-08-12T04:30:00.000Z",
+      "to": "2026-08-12T08:00:00.000Z",
+      "id": "c35e4c716d1a17f244baa143948a339c"
+    },
+    {
+      "date": "Le mercredi 12 août 2026 de  09:00:00 à  12:00:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "BOULET BLANC",
+      "district": "flacq",
+      "from": "2026-08-12T05:00:00.000Z",
+      "to": "2026-08-12T08:00:00.000Z",
+      "id": "1f937ccb6608ee6a3bb3e7693e324273"
+    },
     {
       "date": "Le mercredi 12 août 2026 de  08:30:00 à  15:30:00",
       "locality": "FORBACH",
@@ -35,6 +65,16 @@
       "id": "b59b4b34fa3085c1c536707a6296b7f7"
     },
     {
+      "date": "Le mercredi 12 août 2026 de  09:30:00 à  12:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "FLAMBOYANY STREET ET DANS LES ALENTOURS DE INTERMART",
+      "district": "plainewilhems",
+      "from": "2026-08-12T05:30:00.000Z",
+      "to": "2026-08-12T08:00:00.000Z",
+      "id": "6bef180f7fb7b95fd631d4e8cf23a8a6"
+    },
+    {
       "date": "Le mercredi 12 août 2026 de  09:00:00 à  15:00:00",
       "locality": "GRAND BAY",
       "localitySlug": "grand-bay",
@@ -43,6 +83,16 @@
       "from": "2026-08-12T05:00:00.000Z",
       "to": "2026-08-12T11:00:00.000Z",
       "id": "4de2eab302a931044fdbb29e2bef0927"
+    },
+    {
+      "date": "Le mercredi 12 août 2026 de  09:00:00 à  12:00:00",
+      "locality": "CHEMIN GRENIER",
+      "localitySlug": "chemin-grenier",
+      "streets": "Camp Charlot",
+      "district": "savanne",
+      "from": "2026-08-12T05:00:00.000Z",
+      "to": "2026-08-12T08:00:00.000Z",
+      "id": "3767abe38a5d285f07a3935c480fcf0a"
     },
     {
       "date": "Le mercredi 12 août 2026 de  09:00:00 à  12:00:00",

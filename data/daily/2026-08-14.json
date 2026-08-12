@@ -1,9 +1,19 @@
 {
   "date": "2026-08-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-11T18:43:20.831Z",
-  "outageCount": 1,
+  "generated": "2026-08-12T07:04:01.402Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le vendredi 14 août 2026 de  08:30:00 à  17:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "Residence La Brasserie and part of La Brasserie Road",
+      "district": "plainewilhems",
+      "from": "2026-08-14T04:30:00.000Z",
+      "to": "2026-08-14T13:00:00.000Z",
+      "id": "2532b19f6c91c45626cb83e7ce0e80b1"
+    },
     {
       "date": "Le vendredi 14 août 2026 de  09:00:00 à  16:00:00",
       "locality": "POINTE AUX CANONNIERS",

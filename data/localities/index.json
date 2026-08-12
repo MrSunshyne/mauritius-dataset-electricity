@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-11T18:43:20.988Z",
+  "generated": "2026-08-12T07:04:01.567Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -214,10 +214,10 @@
       "slug": "bambous",
       "name": "BAMBOUS",
       "district": "blackriver",
-      "outageCount": 123,
+      "outageCount": 124,
       "file": "bambous.json",
       "firstOutage": "2022-04-12",
-      "lastOutage": "2026-06-07"
+      "lastOutage": "2026-08-12"
     },
     {
       "slug": "bambous-virieux",
@@ -1006,10 +1006,10 @@
       "slug": "central-flacq",
       "name": "CENTRAL FLACQ",
       "district": "flacq",
-      "outageCount": 76,
+      "outageCount": 77,
       "file": "central-flacq.json",
       "firstOutage": "2022-03-13",
-      "lastOutage": "2026-07-02"
+      "lastOutage": "2026-08-12"
     },
     {
       "slug": "chamarel",
@@ -1033,10 +1033,10 @@
       "slug": "chemin-grenier",
       "name": "CHEMIN GRENIER",
       "district": "savanne",
-      "outageCount": 60,
+      "outageCount": 61,
       "file": "chemin-grenier.json",
       "firstOutage": "2022-05-22",
-      "lastOutage": "2026-08-04"
+      "lastOutage": "2026-08-12"
     },
     {
       "slug": "choisy-baie-du-cap",
@@ -1294,19 +1294,19 @@
       "slug": "creve-coeur",
       "name": "CREVE COEUR",
       "district": "pamplemousses",
-      "outageCount": 31,
+      "outageCount": 32,
       "file": "creve-coeur.json",
       "firstOutage": "2022-04-02",
-      "lastOutage": "2026-06-18"
+      "lastOutage": "2026-08-13"
     },
     {
       "slug": "curepipe",
       "name": "CUREPIPE",
       "district": "plainewilhems",
-      "outageCount": 236,
+      "outageCount": 237,
       "file": "curepipe.json",
       "firstOutage": "2022-03-27",
-      "lastOutage": "2026-08-10"
+      "lastOutage": "2026-08-12"
     },
     {
       "slug": "d-epinay",
@@ -1519,10 +1519,10 @@
       "slug": "forest-side",
       "name": "FOREST SIDE",
       "district": "plainewilhems",
-      "outageCount": 101,
+      "outageCount": 102,
       "file": "forest-side.json",
       "firstOutage": "2022-07-03",
-      "lastOutage": "2026-07-23"
+      "lastOutage": "2026-08-14"
     },
     {
       "slug": "fuel-village",
@@ -2104,10 +2104,10 @@
       "slug": "le-morne",
       "name": "LE MORNE",
       "district": "blackriver",
-      "outageCount": 15,
+      "outageCount": 16,
       "file": "le-morne.json",
       "firstOutage": "2022-05-25",
-      "lastOutage": "2026-08-03"
+      "lastOutage": "2026-08-12"
     },
     {
       "slug": "les-casernrs-curepipe",
@@ -2401,10 +2401,10 @@
       "slug": "mon-choisy",
       "name": "MON CHOISY",
       "district": "pamplemousses",
-      "outageCount": 40,
+      "outageCount": 41,
       "file": "mon-choisy.json",
       "firstOutage": "2022-05-21",
-      "lastOutage": "2026-08-09"
+      "lastOutage": "2026-08-13"
     },
     {
       "slug": "mon-desert-mon-tresor",

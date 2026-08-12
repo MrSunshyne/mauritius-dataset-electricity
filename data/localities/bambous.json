@@ -2,11 +2,18 @@
   "slug": "bambous",
   "name": "BAMBOUS",
   "district": "blackriver",
-  "generated": "2026-08-11T18:43:20.857Z",
-  "outageCount": 123,
+  "generated": "2026-08-12T07:04:01.428Z",
+  "outageCount": 124,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-06-07",
+  "lastOutage": "2026-08-12",
   "outages": [
+    {
+      "date": "Le mercredi 12 août 2026 de  08:30:00 à  12:00:00",
+      "streets": "NHDC BAMBOUS",
+      "from": "2026-08-12T04:30:00.000Z",
+      "to": "2026-08-12T08:00:00.000Z",
+      "id": "c35e4c716d1a17f244baa143948a339c"
+    },
     {
       "date": "Le dimanche 7 juin 2026 de  08:00:00 à  15:00:00",
       "streets": "IRRIGATION PONT CHARBON BAMBOO",

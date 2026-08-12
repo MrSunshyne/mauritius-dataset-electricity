@@ -2,11 +2,18 @@
   "slug": "le-morne",
   "name": "LE MORNE",
   "district": "blackriver",
-  "generated": "2026-08-11T18:43:20.917Z",
-  "outageCount": 15,
+  "generated": "2026-08-12T07:04:01.500Z",
+  "outageCount": 16,
   "firstOutage": "2022-05-25",
-  "lastOutage": "2026-08-03",
+  "lastOutage": "2026-08-12",
   "outages": [
+    {
+      "date": "Le mercredi 12 août 2026 de  10:40:00 à  16:00:00",
+      "streets": "Residence Gambier",
+      "from": "2026-08-12T06:40:00.000Z",
+      "to": "2026-08-12T12:00:00.000Z",
+      "id": "774864e3888fcd5bdddb34ef5f86b868"
+    },
     {
       "date": "Le lundi 3 août 2026 de  11:00:00 à  16:00:00",
       "streets": "LE MORNE",

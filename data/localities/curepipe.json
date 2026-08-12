@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-08-11T18:43:20.890Z",
-  "outageCount": 236,
+  "generated": "2026-08-12T07:04:01.466Z",
+  "outageCount": 237,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-08-10",
+  "lastOutage": "2026-08-12",
   "outages": [
+    {
+      "date": "Le mercredi 12 août 2026 de  09:30:00 à  12:00:00",
+      "streets": "FLAMBOYANY STREET ET DANS LES ALENTOURS DE INTERMART",
+      "from": "2026-08-12T05:30:00.000Z",
+      "to": "2026-08-12T08:00:00.000Z",
+      "id": "6bef180f7fb7b95fd631d4e8cf23a8a6"
+    },
     {
       "date": "Le lundi 10 août 2026 de  09:00:00 à  14:00:00",
       "streets": "Part of royal road and Ramparsad Ramdin street at Eau Coulee, Curepipe",
