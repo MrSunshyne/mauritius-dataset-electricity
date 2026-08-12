@@ -1,8 +1,8 @@
 {
   "date": "2026-08-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-12T11:39:59.243Z",
-  "outageCount": 13,
+  "generated": "2026-08-12T12:40:05.547Z",
+  "outageCount": 14,
   "outages": [
     {
       "date": "Le mercredi 12 août 2026 de  10:40:00 à  16:00:00",
@@ -55,14 +55,24 @@
       "id": "c90d4c2249a27285a822f24b0818f198"
     },
     {
-      "date": "Le mercredi 12 août 2026 de  08:30:00 à  16:00:00",
+      "date": "Le mercredi 12 août 2026 de  15:30:00 à  18:30:00",
+      "locality": "RICHE TERRE",
+      "localitySlug": "riche-terre",
+      "streets": "SHIVALA ROAD, EN PARTIE ROYAL ROAD DANS LES ENVIRONS LE PARRAIN.",
+      "district": "pamplemousses",
+      "from": "2026-08-12T11:30:00.000Z",
+      "to": "2026-08-12T14:30:00.000Z",
+      "id": "27e5f13f9228451e143df1c45357b3fa"
+    },
+    {
+      "date": "Le mercredi 12 août 2026 de  08:30:00 à  17:15:00",
       "locality": "SAINT PAUL",
       "localitySlug": "saint-paul",
       "streets": "une partie de Route Royale, St Paul, Dhunny Lane 1, Dhunny Lane 2 et les environs",
       "district": "plainewilhems",
       "from": "2026-08-12T04:30:00.000Z",
-      "to": "2026-08-12T12:00:00.000Z",
-      "id": "fe8f8bd30c33e4e3a09c9abb9e4c50ff"
+      "to": "2026-08-12T13:15:00.000Z",
+      "id": "6386e0c6562e3946458aeea768b29d94"
     },
     {
       "date": "Le mercredi 12 août 2026 de  13:00:00 à  17:00:00",

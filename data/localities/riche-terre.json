@@ -2,11 +2,18 @@
   "slug": "riche-terre",
   "name": "RICHE TERRE",
   "district": "pamplemousses",
-  "generated": "2026-08-12T11:39:59.367Z",
-  "outageCount": 42,
+  "generated": "2026-08-12T12:40:05.668Z",
+  "outageCount": 43,
   "firstOutage": "2022-04-03",
-  "lastOutage": "2026-07-08",
+  "lastOutage": "2026-08-12",
   "outages": [
+    {
+      "date": "Le mercredi 12 août 2026 de  15:30:00 à  18:30:00",
+      "streets": "SHIVALA ROAD, EN PARTIE ROYAL ROAD DANS LES ENVIRONS LE PARRAIN.",
+      "from": "2026-08-12T11:30:00.000Z",
+      "to": "2026-08-12T14:30:00.000Z",
+      "id": "27e5f13f9228451e143df1c45357b3fa"
+    },
     {
       "date": "Le mercredi 8 juillet 2026 de  09:55:00 à  11:30:00",
       "streets": "polytol,USINE PLASTIC,r/rd",
