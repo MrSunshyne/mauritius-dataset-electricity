@@ -2,11 +2,18 @@
   "slug": "rose-hill",
   "name": "ROSE-HILL",
   "district": "plainewilhems",
-  "generated": "2026-08-12T09:58:01.520Z",
-  "outageCount": 183,
+  "generated": "2026-08-12T10:56:33.212Z",
+  "outageCount": 184,
   "firstOutage": "2022-05-20",
-  "lastOutage": "2026-08-09",
+  "lastOutage": "2026-08-12",
   "outages": [
+    {
+      "date": "Le mercredi 12 août 2026 de  14:15:00 à  16:30:00",
+      "streets": "CLOS VERGER.",
+      "from": "2026-08-12T10:15:00.000Z",
+      "to": "2026-08-12T12:30:00.000Z",
+      "id": "c0cd1028e72efcefccd27170a46587f1"
+    },
     {
       "date": "Le dimanche 9 août 2026 de  14:00:00 à  15:00:00",
       "streets": "CANDA LANE.BOUNDARY,RESIDENCE BEAU SE JOUR",

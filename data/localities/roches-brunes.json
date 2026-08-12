@@ -2,11 +2,18 @@
   "slug": "roches-brunes",
   "name": "ROCHES BRUNES",
   "district": "plainewilhems",
-  "generated": "2026-08-12T09:58:01.518Z",
-  "outageCount": 42,
+  "generated": "2026-08-12T10:56:33.209Z",
+  "outageCount": 43,
   "firstOutage": "2022-10-01",
-  "lastOutage": "2026-07-13",
+  "lastOutage": "2026-08-12",
   "outages": [
+    {
+      "date": "Le mercredi 12 août 2026 de  14:10:00 à  15:30:00",
+      "streets": "MORCELLEMENT ST DANIEL : AVENUE DES TOURTERELLES ET LES ENVIRONS.",
+      "from": "2026-08-12T10:10:00.000Z",
+      "to": "2026-08-12T11:30:00.000Z",
+      "id": "a91ed28db9e2ce61e063f9ab0a7950c8"
+    },
     {
       "date": "Le lundi 13 juillet 2026 de  09:30:00 à  18:00:00",
       "streets": "Morc Newtown, Ave Halley, Ave Armstrong et les environs",

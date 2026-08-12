@@ -1,8 +1,8 @@
 {
   "date": "2026-08-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-12T09:58:01.450Z",
-  "outageCount": 11,
+  "generated": "2026-08-12T10:56:33.077Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le mercredi 12 août 2026 de  10:40:00 à  16:00:00",
@@ -85,6 +85,26 @@
       "id": "6bef180f7fb7b95fd631d4e8cf23a8a6"
     },
     {
+      "date": "Le mercredi 12 août 2026 de  14:15:00 à  16:30:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "CLOS VERGER.",
+      "district": "plainewilhems",
+      "from": "2026-08-12T10:15:00.000Z",
+      "to": "2026-08-12T12:30:00.000Z",
+      "id": "c0cd1028e72efcefccd27170a46587f1"
+    },
+    {
+      "date": "Le mercredi 12 août 2026 de  14:10:00 à  15:30:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "MORCELLEMENT ST DANIEL : AVENUE DES TOURTERELLES ET LES ENVIRONS.",
+      "district": "plainewilhems",
+      "from": "2026-08-12T10:10:00.000Z",
+      "to": "2026-08-12T11:30:00.000Z",
+      "id": "a91ed28db9e2ce61e063f9ab0a7950c8"
+    },
+    {
       "date": "Le mercredi 12 août 2026 de  09:00:00 à  15:00:00",
       "locality": "GRAND BAY",
       "localitySlug": "grand-bay",
@@ -95,14 +115,14 @@
       "id": "4de2eab302a931044fdbb29e2bef0927"
     },
     {
-      "date": "Le mercredi 12 août 2026 de  09:00:00 à  12:00:00",
+      "date": "Le mercredi 12 août 2026 de  09:00:00 à  15:30:00",
       "locality": "CHEMIN GRENIER",
       "localitySlug": "chemin-grenier",
-      "streets": "Camp Charlot",
+      "streets": "CAMP CHARLOT, CAMP BARBE.",
       "district": "savanne",
       "from": "2026-08-12T05:00:00.000Z",
-      "to": "2026-08-12T08:00:00.000Z",
-      "id": "3767abe38a5d285f07a3935c480fcf0a"
+      "to": "2026-08-12T11:30:00.000Z",
+      "id": "a300d8bb36843e61732448fa51f3be22"
     },
     {
       "date": "Le mercredi 12 août 2026 de  09:00:00 à  12:00:00",
