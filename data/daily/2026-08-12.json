@@ -1,8 +1,8 @@
 {
   "date": "2026-08-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-12T08:58:11.833Z",
-  "outageCount": 10,
+  "generated": "2026-08-12T09:58:01.450Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le mercredi 12 août 2026 de  10:40:00 à  16:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-08-12T05:00:00.000Z",
       "to": "2026-08-12T08:00:00.000Z",
       "id": "1f937ccb6608ee6a3bb3e7693e324273"
+    },
+    {
+      "date": "Le mercredi 12 août 2026 de  13:30:00 à  15:00:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "MORC CAUNHYE BOULET BLANC.",
+      "district": "flacq",
+      "from": "2026-08-12T09:30:00.000Z",
+      "to": "2026-08-12T11:00:00.000Z",
+      "id": "5d06faa6f463187f0d732f4f086dc1bb"
     },
     {
       "date": "Le mercredi 12 août 2026 de  08:30:00 à  15:30:00",
