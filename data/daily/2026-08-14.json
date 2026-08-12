@@ -1,8 +1,8 @@
 {
   "date": "2026-08-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-12T10:56:33.077Z",
-  "outageCount": 2,
+  "generated": "2026-08-12T11:39:59.243Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le vendredi 14 août 2026 de  08:30:00 à  17:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-08-14T05:00:00.000Z",
       "to": "2026-08-14T12:00:00.000Z",
       "id": "1e0328bb0bbd833364849cbe4faa2302"
+    },
+    {
+      "date": "Le vendredi 14 août 2026 de  08:00:00 à  16:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Cascade Jean Louis, Plaine Corail, Anse Quitor et Dans Coco",
+      "district": "rodrigues",
+      "from": "2026-08-14T04:00:00.000Z",
+      "to": "2026-08-14T12:00:00.000Z",
+      "id": "14ec07fe5fa93fbea4c4951e72321461"
     }
   ]
 }
