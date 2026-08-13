@@ -2,11 +2,18 @@
   "slug": "bananes",
   "name": "BANANES",
   "district": "savanne",
-  "generated": "2026-08-12T18:44:33.218Z",
-  "outageCount": 10,
+  "generated": "2026-08-13T07:08:00.006Z",
+  "outageCount": 11,
   "firstOutage": "2022-03-14",
-  "lastOutage": "2026-03-30",
+  "lastOutage": "2026-08-17",
   "outages": [
+    {
+      "date": "Le lundi 17 août 2026 de  08:30:00 à  16:00:00",
+      "streets": "Bananes habitant dans le périmètre et les rues suivantes :  Eau Bleu Dam, Domaine La Grave, Eau Bleu Poultry, MTS Banane et le Village de Bananes",
+      "from": "2026-08-17T04:30:00.000Z",
+      "to": "2026-08-17T12:00:00.000Z",
+      "id": "732b9b1b71c797b5b2703a49b48953a5"
+    },
     {
       "date": "Le lundi 30 mars 2026 de  15:15:00 à  17:15:00",
       "streets": "BANANES, CWA, CLUNY",

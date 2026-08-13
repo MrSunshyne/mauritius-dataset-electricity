@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T18:44:33.355Z",
+  "generated": "2026-08-13T07:08:00.136Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -232,10 +232,10 @@
       "slug": "bananes",
       "name": "BANANES",
       "district": "savanne",
-      "outageCount": 10,
+      "outageCount": 11,
       "file": "bananes.json",
       "firstOutage": "2022-03-14",
-      "lastOutage": "2026-03-30"
+      "lastOutage": "2026-08-17"
     },
     {
       "slug": "bar-le-duc",
@@ -3751,10 +3751,10 @@
       "slug": "souillac",
       "name": "SOUILLAC",
       "district": "savanne",
-      "outageCount": 79,
+      "outageCount": 80,
       "file": "souillac.json",
       "firstOutage": "2022-06-05",
-      "lastOutage": "2026-08-08"
+      "lastOutage": "2026-08-14"
     },
     {
       "slug": "stanley",

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-12T18:44:33.194Z",
-  "outageCount": 3,
+  "generated": "2026-08-13T07:07:59.984Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le vendredi 14 août 2026 de  08:30:00 à  17:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-08-14T05:00:00.000Z",
       "to": "2026-08-14T12:00:00.000Z",
       "id": "1e0328bb0bbd833364849cbe4faa2302"
+    },
+    {
+      "date": "Le vendredi 14 août 2026 de  09:00:00 à  16:00:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "Souillac habitant dans le périmètre et les rues suivantes : Mayavaram Road, Lady Barkly Road et Autard Road",
+      "district": "savanne",
+      "from": "2026-08-14T05:00:00.000Z",
+      "to": "2026-08-14T12:00:00.000Z",
+      "id": "341803910ad05277e91a102d69999638"
     },
     {
       "date": "Le vendredi 14 août 2026 de  08:00:00 à  16:00:00",
