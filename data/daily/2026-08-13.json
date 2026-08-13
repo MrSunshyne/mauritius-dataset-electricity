@@ -1,8 +1,8 @@
 {
   "date": "2026-08-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-13T11:37:04.486Z",
-  "outageCount": 8,
+  "generated": "2026-08-13T12:40:47.866Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le jeudi 13 août 2026 de  10:00:00 à  16:30:00",
@@ -73,6 +73,16 @@
       "from": "2026-08-13T11:00:00.000Z",
       "to": "2026-08-13T13:00:00.000Z",
       "id": "2b8bd624d8c1082a927de8e749eb8c44"
+    },
+    {
+      "date": "Le jeudi 13 août 2026 de  16:30:00 à  17:15:00",
+      "locality": "MELVIILE",
+      "localitySlug": "melviile",
+      "streets": "MELLVILLE GRAND GAUBE.",
+      "district": "rivieredurempart",
+      "from": "2026-08-13T12:30:00.000Z",
+      "to": "2026-08-13T13:15:00.000Z",
+      "id": "048ad4edce47fd361fc7ca939e42a513"
     },
     {
       "date": "Le jeudi 13 août 2026 de  09:00:00 à  16:00:00",

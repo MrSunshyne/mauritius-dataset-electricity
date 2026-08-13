@@ -2,11 +2,18 @@
   "slug": "melviile",
   "name": "MELVIILE",
   "district": "rivieredurempart",
-  "generated": "2026-08-13T11:37:04.570Z",
-  "outageCount": 17,
+  "generated": "2026-08-13T12:40:47.956Z",
+  "outageCount": 18,
   "firstOutage": "2022-08-26",
-  "lastOutage": "2026-05-11",
+  "lastOutage": "2026-08-13",
   "outages": [
+    {
+      "date": "Le jeudi 13 août 2026 de  16:30:00 à  17:15:00",
+      "streets": "MELLVILLE GRAND GAUBE.",
+      "from": "2026-08-13T12:30:00.000Z",
+      "to": "2026-08-13T13:15:00.000Z",
+      "id": "048ad4edce47fd361fc7ca939e42a513"
+    },
     {
       "date": "Le lundi 11 mai 2026 de  09:20:00 à  13:00:00",
       "streets": "COUAQUAUD BRANCH RD ET LES ALENTOURS",
