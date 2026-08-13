@@ -1,8 +1,8 @@
 {
   "date": "2026-08-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-13T16:42:25.231Z",
-  "outageCount": 12,
+  "generated": "2026-08-13T17:47:02.654Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le jeudi 13 août 2026 de  10:00:00 à  16:30:00",
@@ -63,6 +63,16 @@
       "from": "2026-08-13T05:00:00.000Z",
       "to": "2026-08-13T10:30:00.000Z",
       "id": "b97974ea567f2a39ffc9356c76a6febc"
+    },
+    {
+      "date": "Le jeudi 13 août 2026 de  20:00:00 à  02:00:00",
+      "locality": "MORC SAINT ANDRE",
+      "localitySlug": "morc-saint-andre",
+      "streets": "ROYAL ROAD/SEENEEVASSEN STREET MORC ST ANDRE",
+      "district": "pamplemousses",
+      "from": "2026-08-13T16:00:00.000Z",
+      "to": "2026-08-12T22:00:00.000Z",
+      "id": "38a3a59c39233c74890f4d23f9bdca43"
     },
     {
       "date": "Le jeudi 13 août 2026 de  12:00:00 à  17:00:00",
