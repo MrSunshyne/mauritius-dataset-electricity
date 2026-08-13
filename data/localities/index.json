@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-13T07:08:00.136Z",
+  "generated": "2026-08-13T08:59:50.987Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -2104,10 +2104,10 @@
       "slug": "le-morne",
       "name": "LE MORNE",
       "district": "blackriver",
-      "outageCount": 16,
+      "outageCount": 17,
       "file": "le-morne.json",
       "firstOutage": "2022-05-25",
-      "lastOutage": "2026-08-12"
+      "lastOutage": "2026-08-13"
     },
     {
       "slug": "les-casernrs-curepipe",
@@ -2869,7 +2869,7 @@
       "slug": "phoenix",
       "name": "PHOENIX",
       "district": "plainewilhems",
-      "outageCount": 117,
+      "outageCount": 118,
       "file": "phoenix.json",
       "firstOutage": "2022-03-20",
       "lastOutage": "2026-08-13"

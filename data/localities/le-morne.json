@@ -2,11 +2,18 @@
   "slug": "le-morne",
   "name": "LE MORNE",
   "district": "blackriver",
-  "generated": "2026-08-13T07:08:00.068Z",
-  "outageCount": 16,
+  "generated": "2026-08-13T08:59:50.915Z",
+  "outageCount": 17,
   "firstOutage": "2022-05-25",
-  "lastOutage": "2026-08-12",
+  "lastOutage": "2026-08-13",
   "outages": [
+    {
+      "date": "Le jeudi 13 août 2026 de  10:00:00 à  16:30:00",
+      "streets": "HARAS DU MORNE,CHEMIN HOTEL APRES DINA ROBBINS",
+      "from": "2026-08-13T06:00:00.000Z",
+      "to": "2026-08-13T12:30:00.000Z",
+      "id": "a8516d61b9ba44071786f6f88a09f228"
+    },
     {
       "date": "Le mercredi 12 août 2026 de  10:40:00 à  16:00:00",
       "streets": "Residence Gambier",

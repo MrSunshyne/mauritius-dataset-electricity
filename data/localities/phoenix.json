@@ -2,11 +2,18 @@
   "slug": "phoenix",
   "name": "PHOENIX",
   "district": "plainewilhems",
-  "generated": "2026-08-13T07:08:00.092Z",
-  "outageCount": 117,
+  "generated": "2026-08-13T08:59:50.939Z",
+  "outageCount": 118,
   "firstOutage": "2022-03-20",
   "lastOutage": "2026-08-13",
   "outages": [
+    {
+      "date": "Le jeudi 13 août 2026 de  13:30:00 à  15:30:00",
+      "streets": "Route Royale, Phoenix, Cite Palmerston, Palmerston, Phoenix et les environ",
+      "from": "2026-08-13T09:30:00.000Z",
+      "to": "2026-08-13T11:30:00.000Z",
+      "id": "f96eeffdf292a1c2ed962eaf4e629bad"
+    },
     {
       "date": "Le jeudi 13 août 2026 de  12:00:00 à  17:00:00",
       "streets": "une partie de Route Royal Phoenix et les environs",

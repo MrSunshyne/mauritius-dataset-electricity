@@ -1,9 +1,19 @@
 {
   "date": "2026-08-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-13T07:07:59.984Z",
-  "outageCount": 6,
+  "generated": "2026-08-13T08:59:50.829Z",
+  "outageCount": 8,
   "outages": [
+    {
+      "date": "Le jeudi 13 août 2026 de  10:00:00 à  16:30:00",
+      "locality": "LE MORNE",
+      "localitySlug": "le-morne",
+      "streets": "HARAS DU MORNE,CHEMIN HOTEL APRES DINA ROBBINS",
+      "district": "blackriver",
+      "from": "2026-08-13T06:00:00.000Z",
+      "to": "2026-08-13T12:30:00.000Z",
+      "id": "a8516d61b9ba44071786f6f88a09f228"
+    },
     {
       "date": "Le jeudi 13 août 2026 de  08:30:00 à  15:00:00",
       "locality": "MAHEBOURG",
@@ -43,6 +53,16 @@
       "from": "2026-08-13T08:00:00.000Z",
       "to": "2026-08-13T13:00:00.000Z",
       "id": "dc41873a158624ae949e82d1d6d13d85"
+    },
+    {
+      "date": "Le jeudi 13 août 2026 de  13:30:00 à  15:30:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Route Royale, Phoenix, Cite Palmerston, Palmerston, Phoenix et les environ",
+      "district": "plainewilhems",
+      "from": "2026-08-13T09:30:00.000Z",
+      "to": "2026-08-13T11:30:00.000Z",
+      "id": "f96eeffdf292a1c2ed962eaf4e629bad"
     },
     {
       "date": "Le jeudi 13 août 2026 de  15:00:00 à  17:00:00",
