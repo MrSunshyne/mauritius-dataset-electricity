@@ -1,8 +1,8 @@
 {
   "date": "2026-08-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-13T14:12:43.966Z",
-  "outageCount": 9,
+  "generated": "2026-08-13T15:46:12.828Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le jeudi 13 août 2026 de  10:00:00 à  16:30:00",
@@ -15,6 +15,16 @@
       "id": "a8516d61b9ba44071786f6f88a09f228"
     },
     {
+      "date": "Le jeudi 13 août 2026 de  17:00:00 à  22:00:00",
+      "locality": "LALLMATIE",
+      "localitySlug": "lallmatie",
+      "streets": "BRANCH ROAD, PART OF KRISHNA ROAD, SHISYA MANDAL ROAD ET DANS LES ALENTOURS NHDC.",
+      "district": "flacq",
+      "from": "2026-08-13T13:00:00.000Z",
+      "to": "2026-08-13T18:00:00.000Z",
+      "id": "77fb4d10ce3d5c3b18d6ee65366a0574"
+    },
+    {
       "date": "Le jeudi 13 août 2026 de  08:30:00 à  15:00:00",
       "locality": "MAHEBOURG",
       "localitySlug": "mahebourg",
@@ -23,6 +33,16 @@
       "from": "2026-08-13T04:30:00.000Z",
       "to": "2026-08-13T11:00:00.000Z",
       "id": "e4b47fca3a8dcb1c3ecfd6d1c4466e16"
+    },
+    {
+      "date": "Le jeudi 13 août 2026 de  18:00:00 à  23:00:00",
+      "locality": "BALISSON",
+      "localitySlug": "balisson",
+      "streets": "BALISSON ROSE BELLE : DANS LES ENVIRONS CHEMIN BOUGAINVILLE, CHEMIN JACARANDAS, RAMJEET LANE ET STATION POMPIER.",
+      "district": "grandport",
+      "from": "2026-08-13T14:00:00.000Z",
+      "to": "2026-08-13T19:00:00.000Z",
+      "id": "e072d88fe78717a6a0e8f719a3a9d647"
     },
     {
       "date": "Le jeudi 13 août 2026 de  08:30:00 à  14:30:00",
@@ -83,6 +103,16 @@
       "from": "2026-08-13T12:30:00.000Z",
       "to": "2026-08-13T13:15:00.000Z",
       "id": "048ad4edce47fd361fc7ca939e42a513"
+    },
+    {
+      "date": "Le jeudi 13 août 2026 de  18:00:00 à  23:00:00",
+      "locality": "LOWER VALE",
+      "localitySlug": "lower-vale",
+      "streets": "EN PARTIE ROUTE ROYALE, CHEMIN BAMBOUS ET LES ALENTOURS.",
+      "district": "rivieredurempart",
+      "from": "2026-08-13T14:00:00.000Z",
+      "to": "2026-08-13T19:00:00.000Z",
+      "id": "c084e83f9dbeca56e6d038b3c4db8a39"
     },
     {
       "date": "Le jeudi 13 août 2026 de  09:00:00 à  16:00:00",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-13T14:12:44.127Z",
+  "generated": "2026-08-13T15:46:12.981Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -205,10 +205,10 @@
       "slug": "balisson",
       "name": "BALISSON",
       "district": "grandport",
-      "outageCount": 9,
+      "outageCount": 10,
       "file": "balisson.json",
       "firstOutage": "2022-03-22",
-      "lastOutage": "2026-02-11"
+      "lastOutage": "2026-08-13"
     },
     {
       "slug": "bambous",
@@ -2041,10 +2041,10 @@
       "slug": "lallmatie",
       "name": "LALLMATIE",
       "district": "flacq",
-      "outageCount": 29,
+      "outageCount": 30,
       "file": "lallmatie.json",
       "firstOutage": "2022-10-04",
-      "lastOutage": "2026-08-09"
+      "lastOutage": "2026-08-13"
     },
     {
       "slug": "lataniers",
@@ -2158,10 +2158,10 @@
       "slug": "lower-vale",
       "name": "LOWER VALE",
       "district": "rivieredurempart",
-      "outageCount": 19,
+      "outageCount": 20,
       "file": "lower-vale.json",
       "firstOutage": "2022-08-18",
-      "lastOutage": "2026-08-08"
+      "lastOutage": "2026-08-13"
     },
     {
       "slug": "mahebourg",

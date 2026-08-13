@@ -2,11 +2,18 @@
   "slug": "lallmatie",
   "name": "LALLMATIE",
   "district": "flacq",
-  "generated": "2026-08-13T14:12:44.052Z",
-  "outageCount": 29,
+  "generated": "2026-08-13T15:46:12.908Z",
+  "outageCount": 30,
   "firstOutage": "2022-10-04",
-  "lastOutage": "2026-08-09",
+  "lastOutage": "2026-08-13",
   "outages": [
+    {
+      "date": "Le jeudi 13 août 2026 de  17:00:00 à  22:00:00",
+      "streets": "BRANCH ROAD, PART OF KRISHNA ROAD, SHISYA MANDAL ROAD ET DANS LES ALENTOURS NHDC.",
+      "from": "2026-08-13T13:00:00.000Z",
+      "to": "2026-08-13T18:00:00.000Z",
+      "id": "77fb4d10ce3d5c3b18d6ee65366a0574"
+    },
     {
       "date": "Le dimanche 9 août 2026 de  08:30:00 à  16:00:00",
       "streets": "Lallmatie dans le périmètre de Route Royale près du CWA, Overseas Road, Jankeeparsad lane, Proag lane, City EDC, Morc VRS, NHDC et Cimetière de Beau Bois et les chemins avoisinantes.",

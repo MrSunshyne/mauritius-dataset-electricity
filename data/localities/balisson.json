@@ -2,11 +2,18 @@
   "slug": "balisson",
   "name": "BALISSON",
   "district": "grandport",
-  "generated": "2026-08-13T14:12:43.991Z",
-  "outageCount": 9,
+  "generated": "2026-08-13T15:46:12.850Z",
+  "outageCount": 10,
   "firstOutage": "2022-03-22",
-  "lastOutage": "2026-02-11",
+  "lastOutage": "2026-08-13",
   "outages": [
+    {
+      "date": "Le jeudi 13 août 2026 de  18:00:00 à  23:00:00",
+      "streets": "BALISSON ROSE BELLE : DANS LES ENVIRONS CHEMIN BOUGAINVILLE, CHEMIN JACARANDAS, RAMJEET LANE ET STATION POMPIER.",
+      "from": "2026-08-13T14:00:00.000Z",
+      "to": "2026-08-13T19:00:00.000Z",
+      "id": "e072d88fe78717a6a0e8f719a3a9d647"
+    },
     {
       "date": "Le mercredi 11 février 2026 de  11:45:00 à  18:00:00",
       "streets": "MORC VRS & NHDC BALLISSON UNION PARK",
