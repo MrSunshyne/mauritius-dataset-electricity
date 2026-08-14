@@ -1,9 +1,19 @@
 {
   "date": "2026-08-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-14T07:04:40.306Z",
-  "outageCount": 6,
+  "generated": "2026-08-14T08:55:30.487Z",
+  "outageCount": 7,
   "outages": [
+    {
+      "date": "Le vendredi 14 août 2026 de  12:00:00 à  14:00:00",
+      "locality": "BOULET ROUGE",
+      "localitySlug": "boulet-rouge",
+      "streets": "MORC BOULET ROUGE",
+      "district": "flacq",
+      "from": "2026-08-14T08:00:00.000Z",
+      "to": "2026-08-14T10:00:00.000Z",
+      "id": "34294ca16fe1bacde635d3216b1ceca4"
+    },
     {
       "date": "Le vendredi 14 août 2026 de  08:30:00 à  17:00:00",
       "locality": "FOREST SIDE",

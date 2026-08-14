@@ -2,11 +2,18 @@
   "slug": "boulet-rouge",
   "name": "BOULET ROUGE",
   "district": "flacq",
-  "generated": "2026-08-14T07:04:40.345Z",
-  "outageCount": 14,
+  "generated": "2026-08-14T08:55:30.519Z",
+  "outageCount": 15,
   "firstOutage": "2022-12-14",
-  "lastOutage": "2026-04-12",
+  "lastOutage": "2026-08-14",
   "outages": [
+    {
+      "date": "Le vendredi 14 août 2026 de  12:00:00 à  14:00:00",
+      "streets": "MORC BOULET ROUGE",
+      "from": "2026-08-14T08:00:00.000Z",
+      "to": "2026-08-14T10:00:00.000Z",
+      "id": "34294ca16fe1bacde635d3216b1ceca4"
+    },
     {
       "date": "Le dimanche 12 avril 2026 de  08:15:00 à  15:00:00",
       "streets": "FLACQ SHOPPING MALL",
