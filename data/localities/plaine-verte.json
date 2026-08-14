@@ -2,11 +2,18 @@
   "slug": "plaine-verte",
   "name": "PLAINE VERTE",
   "district": "portlouis",
-  "generated": "2026-08-13T18:44:26.815Z",
-  "outageCount": 39,
+  "generated": "2026-08-14T07:04:40.420Z",
+  "outageCount": 40,
   "firstOutage": "2022-12-21",
-  "lastOutage": "2026-07-19",
+  "lastOutage": "2026-08-14",
   "outages": [
+    {
+      "date": "Le vendredi 14 août 2026 de  10:30:00 à  11:00:00",
+      "streets": "GORAH ISSAC ET CANAL BATHURST",
+      "from": "2026-08-14T06:30:00.000Z",
+      "to": "2026-08-14T07:00:00.000Z",
+      "id": "cdc08bb924a634a9b2c28ed6ee613f63"
+    },
     {
       "date": "Le dimanche 19 juillet 2026 de  08:30:00 à  14:30:00",
       "streets": "Dans les environs dune partie des Rues Canal Bathurst, Karikal, Turtle et Ail Dore",

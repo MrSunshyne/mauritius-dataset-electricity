@@ -1,8 +1,8 @@
 {
   "date": "2026-08-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-13T18:44:26.713Z",
-  "outageCount": 4,
+  "generated": "2026-08-14T07:04:40.306Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le vendredi 14 août 2026 de  08:30:00 à  17:00:00",
@@ -13,6 +13,26 @@
       "from": "2026-08-14T04:30:00.000Z",
       "to": "2026-08-14T13:00:00.000Z",
       "id": "2532b19f6c91c45626cb83e7ce0e80b1"
+    },
+    {
+      "date": "Le vendredi 14 août 2026 de  10:30:00 à  11:00:00",
+      "locality": "PLAINE VERTE",
+      "localitySlug": "plaine-verte",
+      "streets": "GORAH ISSAC ET CANAL BATHURST",
+      "district": "portlouis",
+      "from": "2026-08-14T06:30:00.000Z",
+      "to": "2026-08-14T07:00:00.000Z",
+      "id": "cdc08bb924a634a9b2c28ed6ee613f63"
+    },
+    {
+      "date": "Le vendredi 14 août 2026 de  09:15:00 à  12:30:00",
+      "locality": "LE HOCHET",
+      "localitySlug": "le-hochet",
+      "streets": "EN PARTIE MORC RAFFRAY",
+      "district": "portlouis",
+      "from": "2026-08-14T05:15:00.000Z",
+      "to": "2026-08-14T08:30:00.000Z",
+      "id": "76958342879299e3447d4effaaac97cc"
     },
     {
       "date": "Le vendredi 14 août 2026 de  09:00:00 à  16:00:00",
