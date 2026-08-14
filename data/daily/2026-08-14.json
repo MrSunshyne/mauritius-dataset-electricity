@@ -1,8 +1,8 @@
 {
   "date": "2026-08-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-14T15:39:47.906Z",
-  "outageCount": 7,
+  "generated": "2026-08-14T16:38:29.549Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le vendredi 14 août 2026 de  12:00:00 à  14:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-08-14T05:00:00.000Z",
       "to": "2026-08-14T12:00:00.000Z",
       "id": "1e0328bb0bbd833364849cbe4faa2302"
+    },
+    {
+      "date": "Le vendredi 14 août 2026 de  20:10:00 à  22:10:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "KINGS RD,BEAU PLATEAU",
+      "district": "rivieredurempart",
+      "from": "2026-08-14T16:10:00.000Z",
+      "to": "2026-08-14T18:10:00.000Z",
+      "id": "b0001f4933d87a75311ec9282b22023f"
     },
     {
       "date": "Le vendredi 14 août 2026 de  09:00:00 à  16:00:00",

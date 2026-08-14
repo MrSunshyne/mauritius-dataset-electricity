@@ -2,11 +2,18 @@
   "slug": "goodlands",
   "name": "GOODLANDS",
   "district": "rivieredurempart",
-  "generated": "2026-08-14T15:39:47.977Z",
-  "outageCount": 139,
+  "generated": "2026-08-14T16:38:29.615Z",
+  "outageCount": 140,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-08-07",
+  "lastOutage": "2026-08-14",
   "outages": [
+    {
+      "date": "Le vendredi 14 août 2026 de  20:10:00 à  22:10:00",
+      "streets": "KINGS RD,BEAU PLATEAU",
+      "from": "2026-08-14T16:10:00.000Z",
+      "to": "2026-08-14T18:10:00.000Z",
+      "id": "b0001f4933d87a75311ec9282b22023f"
+    },
     {
       "date": "Le vendredi 7 août 2026 de  09:30:00 à  13:30:00",
       "streets": "SOCIAL CENTER ROAD & SURROUNDINGS",
