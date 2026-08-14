@@ -2,11 +2,25 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-08-14T08:55:30.533Z",
-  "outageCount": 237,
+  "generated": "2026-08-14T09:49:43.388Z",
+  "outageCount": 239,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-08-12",
+  "lastOutage": "2026-08-17",
   "outages": [
+    {
+      "date": "Le lundi 17 août 2026 de  14:00:00 à  17:00:00",
+      "streets": "Résidence King George, Spa Shalom, Épicerie, MFDP et Foot Clinic",
+      "from": "2026-08-17T10:00:00.000Z",
+      "to": "2026-08-17T13:00:00.000Z",
+      "id": "eb64bc284ef7d3063fd8ee1b7de926b1"
+    },
+    {
+      "date": "Le lundi 17 août 2026 de  08:30:00 à  13:00:00",
+      "streets": "Dunputh Lane,Mississipi Street,Rivière Sèche Street,Part of Joory Lane",
+      "from": "2026-08-17T04:30:00.000Z",
+      "to": "2026-08-17T09:00:00.000Z",
+      "id": "03acb97e6480580523ca9a9895b64c9c"
+    },
     {
       "date": "Le mercredi 12 août 2026 de  09:30:00 à  12:00:00",
       "streets": "FLAMBOYANY STREET ET DANS LES ALENTOURS DE INTERMART",

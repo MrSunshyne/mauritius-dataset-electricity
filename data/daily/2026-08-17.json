@@ -1,9 +1,29 @@
 {
   "date": "2026-08-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-14T08:55:30.487Z",
-  "outageCount": 1,
+  "generated": "2026-08-14T09:49:43.330Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le lundi 17 août 2026 de  14:00:00 à  17:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Résidence King George, Spa Shalom, Épicerie, MFDP et Foot Clinic",
+      "district": "plainewilhems",
+      "from": "2026-08-17T10:00:00.000Z",
+      "to": "2026-08-17T13:00:00.000Z",
+      "id": "eb64bc284ef7d3063fd8ee1b7de926b1"
+    },
+    {
+      "date": "Le lundi 17 août 2026 de  08:30:00 à  13:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Dunputh Lane,Mississipi Street,Rivière Sèche Street,Part of Joory Lane",
+      "district": "plainewilhems",
+      "from": "2026-08-17T04:30:00.000Z",
+      "to": "2026-08-17T09:00:00.000Z",
+      "id": "03acb97e6480580523ca9a9895b64c9c"
+    },
     {
       "date": "Le lundi 17 août 2026 de  08:30:00 à  16:00:00",
       "locality": "BANANES",
