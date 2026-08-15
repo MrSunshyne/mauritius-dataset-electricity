@@ -2,11 +2,18 @@
   "slug": "grand-gaube",
   "name": "GRAND GAUBE",
   "district": "rivieredurempart",
-  "generated": "2026-08-15T08:13:19.437Z",
-  "outageCount": 75,
+  "generated": "2026-08-15T09:14:32.700Z",
+  "outageCount": 76,
   "firstOutage": "2022-06-11",
-  "lastOutage": "2026-07-29",
+  "lastOutage": "2026-08-15",
   "outages": [
+    {
+      "date": "Le samedi 15 août 2026 de  12:00:00 à  16:00:00",
+      "streets": "MORC SINFAT MELVILLE -PERE GLORIEUX GRAND GAUBE",
+      "from": "2026-08-15T08:00:00.000Z",
+      "to": "2026-08-15T12:00:00.000Z",
+      "id": "1b3219e125625f9be7c3bcda19e99d6a"
+    },
     {
       "date": "Le mercredi 29 juillet 2026 de  19:30:00 à  22:30:00",
       "streets": "FLAMBOYANT LANE G.GAUBE",
