@@ -2,11 +2,18 @@
   "slug": "flic-en-flac",
   "name": "FLIC-EN-FLAC",
   "district": "blackriver",
-  "generated": "2026-08-15T15:08:45.131Z",
-  "outageCount": 235,
+  "generated": "2026-08-15T16:10:17.706Z",
+  "outageCount": 236,
   "firstOutage": "2022-03-16",
-  "lastOutage": "2026-08-11",
+  "lastOutage": "2026-08-15",
   "outages": [
+    {
+      "date": "Le samedi 15 août 2026 de  19:20:00 à  22:20:00",
+      "streets": "BENGALIS AVE,TOURTEREAUX AVE,NEAR MANISHA HOTEL AND NEARBY REGION IN MORC DES CHAZAL",
+      "from": "2026-08-15T15:20:00.000Z",
+      "to": "2026-08-15T18:20:00.000Z",
+      "id": "751bd9df5ace894d8ec5c8f92899e112"
+    },
     {
       "date": "Le mardi 11 août 2026 de  09:00:00 à  15:30:00",
       "streets": "MORC SAFELAND- AVE DES PIGEONS, AVE DES CATEAUX VERTS NO.1, AVE DES CATEAUX VERTS NO.2, AVE DES CRECERELLES ET UNE PARTIR DE LAVE CARRIERE",
