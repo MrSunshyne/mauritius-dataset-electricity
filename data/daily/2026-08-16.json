@@ -1,0 +1,48 @@
+{
+  "date": "2026-08-16",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-08-15T06:17:21.108Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le dimanche 16 août 2026 de  08:30:00 à  15:00:00",
+      "locality": "NASSOLA(RODRIGUES)",
+      "localitySlug": "nassola",
+      "streets": "les habitant de Palissade, Nassola et Montagne Bois Noire",
+      "district": "rodrigues",
+      "from": "2026-08-16T04:30:00.000Z",
+      "to": "2026-08-16T11:00:00.000Z",
+      "id": "e9efa267bbf0ea168c4929ae559eb48a"
+    },
+    {
+      "date": "Le dimanche 16 août 2026 de  07:00:00 à  16:30:00",
+      "locality": "FOND LA DIGUES(RODRIGUES)",
+      "localitySlug": "fond-la-digues",
+      "streets": "les abonnés de Fond La Digue, Mont Fanal ainsi que ceux résidant aux environs du supermarché Le Grand Solitaire",
+      "district": "rodrigues",
+      "from": "2026-08-16T03:00:00.000Z",
+      "to": "2026-08-16T12:30:00.000Z",
+      "id": "c80d6a2abfa82b731b3d705925550f70"
+    },
+    {
+      "date": "Le dimanche 16 août 2026 de  15:30:00 à  16:30:00",
+      "locality": "PORT MATHURIN(RODRIGUES)",
+      "localitySlug": "port-mathurin",
+      "streets": "Les Abonnes de Port Mathurin",
+      "district": "rodrigues",
+      "from": "2026-08-16T11:30:00.000Z",
+      "to": "2026-08-16T12:30:00.000Z",
+      "id": "6a1bb5fea7b984becc2008846603e9fb"
+    },
+    {
+      "date": "Le dimanche 16 août 2026 de  06:00:00 à  07:00:00",
+      "locality": "PORT MATHURIN(RODRIGUES)",
+      "localitySlug": "port-mathurin",
+      "streets": "les Abonnee de port Mathurin",
+      "district": "rodrigues",
+      "from": "2026-08-16T02:00:00.000Z",
+      "to": "2026-08-16T03:00:00.000Z",
+      "id": "17cd1ab3b9285c5718e0b6f88077ae35"
+    }
+  ]
+}
