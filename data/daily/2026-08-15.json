@@ -1,8 +1,8 @@
 {
   "date": "2026-08-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-15T16:10:17.644Z",
-  "outageCount": 2,
+  "generated": "2026-08-15T17:10:37.703Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le samedi 15 août 2026 de  19:20:00 à  22:20:00",
@@ -23,6 +23,16 @@
       "from": "2026-08-15T08:00:00.000Z",
       "to": "2026-08-15T12:00:00.000Z",
       "id": "1b3219e125625f9be7c3bcda19e99d6a"
+    },
+    {
+      "date": "Le samedi 15 août 2026 de  20:10:00 à  22:10:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "BALI ST AND NEARBY REGION",
+      "district": "rivieredurempart",
+      "from": "2026-08-15T16:10:00.000Z",
+      "to": "2026-08-15T18:10:00.000Z",
+      "id": "4f8829bb5ebc1cbbd1c3dbb71b93983a"
     }
   ]
 }

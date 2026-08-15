@@ -2,11 +2,18 @@
   "slug": "pereybere",
   "name": "PEREYBERE",
   "district": "rivieredurempart",
-  "generated": "2026-08-15T16:10:17.743Z",
-  "outageCount": 118,
+  "generated": "2026-08-15T17:10:37.795Z",
+  "outageCount": 119,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-08-10",
+  "lastOutage": "2026-08-15",
   "outages": [
+    {
+      "date": "Le samedi 15 août 2026 de  20:10:00 à  22:10:00",
+      "streets": "BALI ST AND NEARBY REGION",
+      "from": "2026-08-15T16:10:00.000Z",
+      "to": "2026-08-15T18:10:00.000Z",
+      "id": "4f8829bb5ebc1cbbd1c3dbb71b93983a"
+    },
     {
       "date": "Le lundi 10 août 2026 de  11:00:00 à  14:00:00",
       "streets": "DANS LES ALENTOURS DE VILLA DEL SOL, HAPPY HOUSE",
