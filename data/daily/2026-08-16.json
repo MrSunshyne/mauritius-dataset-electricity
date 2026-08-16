@@ -1,8 +1,8 @@
 {
   "date": "2026-08-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-16T16:10:26.180Z",
-  "outageCount": 5,
+  "generated": "2026-08-16T17:09:45.348Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le dimanche 16 août 2026 de  08:00:00 à  09:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-08-16T04:00:00.000Z",
       "to": "2026-08-16T05:00:00.000Z",
       "id": "c8753a9bfaa7dbe11c6be34744f5f4fa"
+    },
+    {
+      "date": "Le dimanche 16 août 2026 de  20:00:00 à  23:00:00",
+      "locality": "LOWER VALE",
+      "localitySlug": "lower-vale",
+      "streets": "MORC SEEKDAUR",
+      "district": "rivieredurempart",
+      "from": "2026-08-16T16:00:00.000Z",
+      "to": "2026-08-16T19:00:00.000Z",
+      "id": "8567fc3c8daec03ea2b6388d36a6726b"
     },
     {
       "date": "Le dimanche 16 août 2026 de  08:30:00 à  15:00:00",

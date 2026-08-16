@@ -2,11 +2,18 @@
   "slug": "lower-vale",
   "name": "LOWER VALE",
   "district": "rivieredurempart",
-  "generated": "2026-08-16T16:10:26.235Z",
-  "outageCount": 20,
+  "generated": "2026-08-16T17:09:45.436Z",
+  "outageCount": 21,
   "firstOutage": "2022-08-18",
-  "lastOutage": "2026-08-13",
+  "lastOutage": "2026-08-16",
   "outages": [
+    {
+      "date": "Le dimanche 16 août 2026 de  20:00:00 à  23:00:00",
+      "streets": "MORC SEEKDAUR",
+      "from": "2026-08-16T16:00:00.000Z",
+      "to": "2026-08-16T19:00:00.000Z",
+      "id": "8567fc3c8daec03ea2b6388d36a6726b"
+    },
     {
       "date": "Le jeudi 13 août 2026 de  18:00:00 à  23:00:00",
       "streets": "EN PARTIE ROUTE ROYALE, CHEMIN BAMBOUS ET LES ALENTOURS.",
