@@ -2,11 +2,18 @@
   "slug": "riche-terre",
   "name": "RICHE TERRE",
   "district": "pamplemousses",
-  "generated": "2026-08-17T11:14:42.433Z",
-  "outageCount": 43,
+  "generated": "2026-08-17T12:18:32.793Z",
+  "outageCount": 44,
   "firstOutage": "2022-04-03",
-  "lastOutage": "2026-08-12",
+  "lastOutage": "2026-08-23",
   "outages": [
+    {
+      "date": "Le dimanche 23 août 2026 de  08:30:00 à  12:00:00",
+      "streets": "Dans les environs de Riche Terre Road, Sushil Lane, Shivala Road, Muslim Cemetry Road, School Lane et Residence Roma",
+      "from": "2026-08-23T04:30:00.000Z",
+      "to": "2026-08-23T08:00:00.000Z",
+      "id": "6e7a92041878e16ca8847636012355d1"
+    },
     {
       "date": "Le mercredi 12 août 2026 de  15:30:00 à  18:30:00",
       "streets": "SHIVALA ROAD, EN PARTIE ROYAL ROAD DANS LES ENVIRONS LE PARRAIN.",
