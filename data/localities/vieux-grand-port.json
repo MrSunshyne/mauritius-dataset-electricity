@@ -2,11 +2,18 @@
   "slug": "vieux-grand-port",
   "name": "VIEUX GRAND PORT",
   "district": "grandport",
-  "generated": "2026-08-17T08:28:53.599Z",
-  "outageCount": 11,
+  "generated": "2026-08-17T09:27:59.303Z",
+  "outageCount": 12,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2026-05-09",
+  "lastOutage": "2026-08-17",
   "outages": [
+    {
+      "date": "Le lundi 17 août 2026 de  12:45:00 à  16:00:00",
+      "streets": "POINTE DU SABLE, POINTE DU DIABLE, USINE OYSTER, COAST GUARD, MBC, EMTEL, TELECOM",
+      "from": "2026-08-17T08:45:00.000Z",
+      "to": "2026-08-17T12:00:00.000Z",
+      "id": "e1463e3d178949fbe8cf4111a2e3700e"
+    },
     {
       "date": "Le samedi 9 mai 2026 de  18:50:00 à  21:00:00",
       "streets": "VIEUX GRAND PORT, BOIS DES AMOURETTES, BAMBOUS VIRIEUX, GRAND SABLE",

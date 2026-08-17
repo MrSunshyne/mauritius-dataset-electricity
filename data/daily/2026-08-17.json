@@ -1,9 +1,19 @@
 {
   "date": "2026-08-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-17T08:28:53.460Z",
-  "outageCount": 5,
+  "generated": "2026-08-17T09:27:59.154Z",
+  "outageCount": 7,
   "outages": [
+    {
+      "date": "Le lundi 17 août 2026 de  13:00:00 à  16:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "MACNAMARAH LANE, old Trafford lane, LA POSTE, EN PARTIE ROYAL RD",
+      "district": "blackriver",
+      "from": "2026-08-17T09:00:00.000Z",
+      "to": "2026-08-17T12:00:00.000Z",
+      "id": "e890eb341e6c6238097dc961043d2efb"
+    },
     {
       "date": "Le lundi 17 août 2026 de  09:00:00 à  14:00:00",
       "locality": "LATAPIE",
@@ -13,6 +23,16 @@
       "from": "2026-08-17T05:00:00.000Z",
       "to": "2026-08-17T10:00:00.000Z",
       "id": "f059ba96b2514343126ab37e8c0aab18"
+    },
+    {
+      "date": "Le lundi 17 août 2026 de  12:45:00 à  16:00:00",
+      "locality": "VIEUX GRAND PORT",
+      "localitySlug": "vieux-grand-port",
+      "streets": "POINTE DU SABLE, POINTE DU DIABLE, USINE OYSTER, COAST GUARD, MBC, EMTEL, TELECOM",
+      "district": "grandport",
+      "from": "2026-08-17T08:45:00.000Z",
+      "to": "2026-08-17T12:00:00.000Z",
+      "id": "e1463e3d178949fbe8cf4111a2e3700e"
     },
     {
       "date": "Le lundi 17 août 2026 de  12:00:00 à  16:00:00",
