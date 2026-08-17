@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-16T18:11:19.740Z",
+  "generated": "2026-08-17T06:29:22.717Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -2059,10 +2059,10 @@
       "slug": "latapie",
       "name": "LATAPIE",
       "district": "flacq",
-      "outageCount": 2,
+      "outageCount": 3,
       "file": "latapie.json",
       "firstOutage": "2022-10-04",
-      "lastOutage": "2026-03-26"
+      "lastOutage": "2026-08-17"
     },
     {
       "slug": "le-bouchon",
@@ -2401,10 +2401,10 @@
       "slug": "mon-choisy",
       "name": "MON CHOISY",
       "district": "pamplemousses",
-      "outageCount": 41,
+      "outageCount": 42,
       "file": "mon-choisy.json",
       "firstOutage": "2022-05-21",
-      "lastOutage": "2026-08-13"
+      "lastOutage": "2026-08-17"
     },
     {
       "slug": "mon-desert-mon-tresor",

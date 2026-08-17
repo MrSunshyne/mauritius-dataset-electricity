@@ -2,11 +2,18 @@
   "slug": "latapie",
   "name": "LATAPIE",
   "district": "flacq",
-  "generated": "2026-08-16T18:11:19.671Z",
-  "outageCount": 2,
+  "generated": "2026-08-17T06:29:22.664Z",
+  "outageCount": 3,
   "firstOutage": "2022-10-04",
-  "lastOutage": "2026-03-26",
+  "lastOutage": "2026-08-17",
   "outages": [
+    {
+      "date": "Le lundi 17 août 2026 de  09:00:00 à  14:00:00",
+      "streets": "Latapie Village et une partie de Bon Accueil et une Partie de Brisee Verdiere.",
+      "from": "2026-08-17T05:00:00.000Z",
+      "to": "2026-08-17T10:00:00.000Z",
+      "id": "f059ba96b2514343126ab37e8c0aab18"
+    },
     {
       "date": "Le jeudi 26 mars 2026 de  09:00:00 à  13:30:00",
       "streets": "Route Royale de Latapie, Dans les environs de la Pharmacie.",

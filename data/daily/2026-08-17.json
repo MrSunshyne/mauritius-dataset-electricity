@@ -1,9 +1,29 @@
 {
   "date": "2026-08-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-16T18:11:19.587Z",
-  "outageCount": 3,
+  "generated": "2026-08-17T06:29:22.600Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le lundi 17 août 2026 de  09:00:00 à  14:00:00",
+      "locality": "LATAPIE",
+      "localitySlug": "latapie",
+      "streets": "Latapie Village et une partie de Bon Accueil et une Partie de Brisee Verdiere.",
+      "district": "flacq",
+      "from": "2026-08-17T05:00:00.000Z",
+      "to": "2026-08-17T10:00:00.000Z",
+      "id": "f059ba96b2514343126ab37e8c0aab18"
+    },
+    {
+      "date": "Le lundi 17 août 2026 de  12:00:00 à  16:00:00",
+      "locality": "MON CHOISY",
+      "localitySlug": "mon-choisy",
+      "streets": "dans les environs de Casuarina, Coral Azur, Morc Levieux, La Mediteranee, Mystic Hotel et ex MCB",
+      "district": "pamplemousses",
+      "from": "2026-08-17T08:00:00.000Z",
+      "to": "2026-08-17T12:00:00.000Z",
+      "id": "a85712069ff59abc1c0938fa148c7269"
+    },
     {
       "date": "Le lundi 17 août 2026 de  14:00:00 à  17:00:00",
       "locality": "CUREPIPE",

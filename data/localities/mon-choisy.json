@@ -2,11 +2,18 @@
   "slug": "mon-choisy",
   "name": "MON CHOISY",
   "district": "pamplemousses",
-  "generated": "2026-08-16T18:11:19.681Z",
-  "outageCount": 41,
+  "generated": "2026-08-17T06:29:22.671Z",
+  "outageCount": 42,
   "firstOutage": "2022-05-21",
-  "lastOutage": "2026-08-13",
+  "lastOutage": "2026-08-17",
   "outages": [
+    {
+      "date": "Le lundi 17 août 2026 de  12:00:00 à  16:00:00",
+      "streets": "dans les environs de Casuarina, Coral Azur, Morc Levieux, La Mediteranee, Mystic Hotel et ex MCB",
+      "from": "2026-08-17T08:00:00.000Z",
+      "to": "2026-08-17T12:00:00.000Z",
+      "id": "a85712069ff59abc1c0938fa148c7269"
+    },
     {
       "date": "Le jeudi 13 août 2026 de  09:00:00 à  14:30:00",
       "streets": "DANS LES ENVIRONS DE CASUARINA, CORAL AZUR, MORC LEVIEUX, MEDITERRANNEE, MYSTIC HOTEL ET EX MCB",
