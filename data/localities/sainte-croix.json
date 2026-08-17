@@ -2,11 +2,18 @@
   "slug": "sainte-croix",
   "name": "SAINTE CROIX",
   "district": "portlouis",
-  "generated": "2026-08-17T12:18:32.802Z",
-  "outageCount": 94,
+  "generated": "2026-08-17T13:30:36.142Z",
+  "outageCount": 95,
   "firstOutage": "2022-04-26",
-  "lastOutage": "2026-08-13",
+  "lastOutage": "2026-08-23",
   "outages": [
+    {
+      "date": "Le dimanche 23 août 2026 de  12:30:00 à  14:30:00",
+      "streets": "Dans les environs des Rues Nicolay, Desbouchers, Mariamen Temple, Allee Tamarin et Residence Paul Taureau",
+      "from": "2026-08-23T08:30:00.000Z",
+      "to": "2026-08-23T10:30:00.000Z",
+      "id": "e0ffea77d1e868b7bbe2268309cf2c6c"
+    },
     {
       "date": "Le jeudi 13 août 2026 de  15:00:00 à  17:00:00",
       "streets": "DANS LES ENVIRONS DES RUES EMILE BASSET, SAINTE MARIE, IMPASSE SAINTE MARIE, ROUTE BASSIN NO 1 & 2, MORC LA VALLEE ET SOPHIA LANE",
