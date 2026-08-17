@@ -1,8 +1,8 @@
 {
   "date": "2026-08-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-17T16:13:03.866Z",
-  "outageCount": 8,
+  "generated": "2026-08-17T17:15:23.834Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le lundi 17 août 2026 de  13:00:00 à  16:00:00",
@@ -73,6 +73,16 @@
       "from": "2026-08-17T15:00:00.000Z",
       "to": "2026-08-17T18:00:00.000Z",
       "id": "b3cf46e723fa18b4fcdd5d04b5e25fae"
+    },
+    {
+      "date": "Le lundi 17 août 2026 de  20:30:00 à  00:30:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "MORC PETIT VILLAGE GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2026-08-17T16:30:00.000Z",
+      "to": "2026-08-16T20:30:00.000Z",
+      "id": "a925fe5df1f6d3f6d4c80224d80d7db4"
     },
     {
       "date": "Le lundi 17 août 2026 de  08:30:00 à  16:45:00",
