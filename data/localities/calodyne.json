@@ -2,11 +2,18 @@
   "slug": "calodyne",
   "name": "CALODYNE",
   "district": "rivieredurempart",
-  "generated": "2026-08-17T15:14:25.226Z",
-  "outageCount": 43,
+  "generated": "2026-08-17T16:13:03.904Z",
+  "outageCount": 44,
   "firstOutage": "2022-09-10",
-  "lastOutage": "2026-08-03",
+  "lastOutage": "2026-08-17",
   "outages": [
+    {
+      "date": "Le lundi 17 août 2026 de  19:00:00 à  22:00:00",
+      "streets": "COASTAL ROAD CALODYNE",
+      "from": "2026-08-17T15:00:00.000Z",
+      "to": "2026-08-17T18:00:00.000Z",
+      "id": "b3cf46e723fa18b4fcdd5d04b5e25fae"
+    },
     {
       "date": "Le lundi 3 août 2026 de  17:00:00 à  21:00:00",
       "streets": "CALODYN & GRAND GAUBE",
