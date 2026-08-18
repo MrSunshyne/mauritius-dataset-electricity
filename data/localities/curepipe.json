@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-08-18T14:20:31.430Z",
-  "outageCount": 239,
+  "generated": "2026-08-18T15:19:30.158Z",
+  "outageCount": 240,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-08-17",
+  "lastOutage": "2026-08-18",
   "outages": [
+    {
+      "date": "Le mardi 18 août 2026 de  18:00:00 à  22:00:00",
+      "streets": "PARATIAN LANE LES CASERNES CUREPIPE",
+      "from": "2026-08-18T14:00:00.000Z",
+      "to": "2026-08-18T18:00:00.000Z",
+      "id": "4dcb6c15266b28ea1a5c04b8481084d6"
+    },
     {
       "date": "Le lundi 17 août 2026 de  14:00:00 à  17:00:00",
       "streets": "Résidence King George, Spa Shalom, Épicerie, MFDP et Foot Clinic",

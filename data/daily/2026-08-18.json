@@ -1,8 +1,8 @@
 {
   "date": "2026-08-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-18T14:20:31.373Z",
-  "outageCount": 6,
+  "generated": "2026-08-18T15:19:30.106Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le mardi 18 août 2026 de  08:30:00 à  12:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-08-18T08:25:00.000Z",
       "to": "2026-08-18T11:00:00.000Z",
       "id": "e2b2b945884889632e4691357cc01c0b"
+    },
+    {
+      "date": "Le mardi 18 août 2026 de  18:00:00 à  22:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "PARATIAN LANE LES CASERNES CUREPIPE",
+      "district": "plainewilhems",
+      "from": "2026-08-18T14:00:00.000Z",
+      "to": "2026-08-18T18:00:00.000Z",
+      "id": "4dcb6c15266b28ea1a5c04b8481084d6"
     },
     {
       "date": "Le mardi 18 août 2026 de  11:45:00 à  12:45:00",
