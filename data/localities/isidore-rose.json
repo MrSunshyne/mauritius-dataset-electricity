@@ -2,11 +2,18 @@
   "slug": "isidore-rose",
   "name": "ISIDORE ROSE",
   "district": "flacq",
-  "generated": "2026-08-17T18:19:50.810Z",
-  "outageCount": 17,
+  "generated": "2026-08-18T06:21:40.031Z",
+  "outageCount": 18,
   "firstOutage": "2022-05-09",
-  "lastOutage": "2026-07-07",
+  "lastOutage": "2026-08-18",
   "outages": [
+    {
+      "date": "Le mardi 18 août 2026 de  08:30:00 à  12:00:00",
+      "streets": "SHIVALA ROAD, AVENUE PALMIER ET LES ALENTOURS",
+      "from": "2026-08-18T04:30:00.000Z",
+      "to": "2026-08-18T08:00:00.000Z",
+      "id": "b85307d4821c9d1b1a555954e1d5bcbf"
+    },
     {
       "date": "Le mardi 7 juillet 2026 de  08:45:00 à  17:00:00",
       "streets": "Argy et Isidore Rose dans le périmètre de MPI Argy, CWA Argy, Isidore Rose Village",
