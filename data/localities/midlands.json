@@ -2,11 +2,18 @@
   "slug": "midlands",
   "name": "MIDLANDS",
   "district": "plainewilhems",
-  "generated": "2026-08-18T08:20:39.434Z",
-  "outageCount": 27,
+  "generated": "2026-08-18T09:20:00.235Z",
+  "outageCount": 28,
   "firstOutage": "2022-06-10",
-  "lastOutage": "2026-08-08",
+  "lastOutage": "2026-08-18",
   "outages": [
+    {
+      "date": "Le mardi 18 août 2026 de  12:25:00 à  15:00:00",
+      "streets": "Chapel & Route Royale",
+      "from": "2026-08-18T08:25:00.000Z",
+      "to": "2026-08-18T11:00:00.000Z",
+      "id": "e2b2b945884889632e4691357cc01c0b"
+    },
     {
       "date": "Le samedi 8 août 2026 de  08:30:00 à  14:00:00",
       "streets": "Part of royal road Midlands",
