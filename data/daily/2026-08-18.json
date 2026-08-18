@@ -1,8 +1,8 @@
 {
   "date": "2026-08-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-18T16:17:07.170Z",
-  "outageCount": 7,
+  "generated": "2026-08-18T17:16:25.257Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le mardi 18 août 2026 de  08:30:00 à  12:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-08-18T04:30:00.000Z",
       "to": "2026-08-18T08:00:00.000Z",
       "id": "b85307d4821c9d1b1a555954e1d5bcbf"
+    },
+    {
+      "date": "Le mardi 18 août 2026 de  21:00:00 à  00:30:00",
+      "locality": "MORC SAINT ANDRE",
+      "localitySlug": "morc-saint-andre",
+      "streets": "IQBAL ROAD MORCELLEMENT ST ANDRE",
+      "district": "pamplemousses",
+      "from": "2026-08-18T17:00:00.000Z",
+      "to": "2026-08-17T20:30:00.000Z",
+      "id": "008c7d5c5d4f1500c0490306c73660b4"
     },
     {
       "date": "Le mardi 18 août 2026 de  08:30:00 à  15:30:00",

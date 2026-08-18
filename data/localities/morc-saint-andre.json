@@ -2,11 +2,18 @@
   "slug": "morc-saint-andre",
   "name": "MORC SAINT ANDRE",
   "district": "pamplemousses",
-  "generated": "2026-08-18T16:17:07.266Z",
-  "outageCount": 47,
+  "generated": "2026-08-18T17:16:25.357Z",
+  "outageCount": 48,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-08-13",
+  "lastOutage": "2026-08-18",
   "outages": [
+    {
+      "date": "Le mardi 18 août 2026 de  21:00:00 à  00:30:00",
+      "streets": "IQBAL ROAD MORCELLEMENT ST ANDRE",
+      "from": "2026-08-18T17:00:00.000Z",
+      "to": "2026-08-17T20:30:00.000Z",
+      "id": "008c7d5c5d4f1500c0490306c73660b4"
+    },
     {
       "date": "Le jeudi 13 août 2026 de  20:00:00 à  02:00:00",
       "streets": "ROYAL ROAD/SEENEEVASSEN STREET MORC ST ANDRE",
