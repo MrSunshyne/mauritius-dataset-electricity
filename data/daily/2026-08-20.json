@@ -1,8 +1,8 @@
 {
   "date": "2026-08-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-18T07:27:18.129Z",
-  "outageCount": 2,
+  "generated": "2026-08-18T08:20:39.347Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le jeudi 20 août 2026 de  12:00:00 à  15:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-08-20T04:30:00.000Z",
       "to": "2026-08-20T11:00:00.000Z",
       "id": "18ec03d54a3e7c3087827a81a49b4166"
+    },
+    {
+      "date": "Le jeudi 20 août 2026 de  11:30:00 à  13:30:00",
+      "locality": "REUNION MAUREL",
+      "localitySlug": "reunion-maurel",
+      "streets": "REUNION MAUREL, TROIS BRAS PETIT RAFFRAY",
+      "district": "rivieredurempart",
+      "from": "2026-08-20T07:30:00.000Z",
+      "to": "2026-08-20T09:30:00.000Z",
+      "id": "d1478fc74f5d3086a0306e6796235ded"
     }
   ]
 }

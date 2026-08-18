@@ -2,8 +2,8 @@
   "slug": "sainte-croix",
   "name": "SAINTE CROIX",
   "district": "portlouis",
-  "generated": "2026-08-18T07:27:18.253Z",
-  "outageCount": 95,
+  "generated": "2026-08-18T08:20:39.477Z",
+  "outageCount": 96,
   "firstOutage": "2022-04-26",
   "lastOutage": "2026-08-23",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-08-23T08:30:00.000Z",
       "to": "2026-08-23T10:30:00.000Z",
       "id": "e0ffea77d1e868b7bbe2268309cf2c6c"
+    },
+    {
+      "date": "Le mardi 18 août 2026 de  11:45:00 à  12:45:00",
+      "streets": "Rue Ste Marie",
+      "from": "2026-08-18T07:45:00.000Z",
+      "to": "2026-08-18T08:45:00.000Z",
+      "id": "dfb08545fa8a828131e94cf5c4dd2d98"
     },
     {
       "date": "Le jeudi 13 août 2026 de  15:00:00 à  17:00:00",

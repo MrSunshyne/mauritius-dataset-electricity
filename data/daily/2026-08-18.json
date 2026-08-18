@@ -1,8 +1,8 @@
 {
   "date": "2026-08-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-18T07:27:18.128Z",
-  "outageCount": 3,
+  "generated": "2026-08-18T08:20:39.347Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le mardi 18 août 2026 de  08:30:00 à  12:00:00",
@@ -33,6 +33,26 @@
       "from": "2026-08-18T06:00:00.000Z",
       "to": "2026-08-18T07:15:00.000Z",
       "id": "302fe483643ea3c8d7cd43cacad0d7d5"
+    },
+    {
+      "date": "Le mardi 18 août 2026 de  15:30:00 à  17:30:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "En Partie Guy Rozemont, Ave Jeetoo, Manilall, Res. CHA Trefles, en partie Ave Berthaud, en partie Ave Cretin, Ave Emile Laval et les environs",
+      "district": "plainewilhems",
+      "from": "2026-08-18T11:30:00.000Z",
+      "to": "2026-08-18T13:30:00.000Z",
+      "id": "4e8f9e0ce3a0c0eb5cb78efe637b017d"
+    },
+    {
+      "date": "Le mardi 18 août 2026 de  11:45:00 à  12:45:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "Rue Ste Marie",
+      "district": "portlouis",
+      "from": "2026-08-18T07:45:00.000Z",
+      "to": "2026-08-18T08:45:00.000Z",
+      "id": "dfb08545fa8a828131e94cf5c4dd2d98"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-18T07:27:18.269Z",
+  "generated": "2026-08-18T08:20:39.494Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -3274,10 +3274,10 @@
       "slug": "reunion-maurel",
       "name": "REUNION MAUREL",
       "district": "rivieredurempart",
-      "outageCount": 8,
+      "outageCount": 9,
       "file": "reunion-maurel.json",
       "firstOutage": "2022-11-27",
-      "lastOutage": "2025-11-09"
+      "lastOutage": "2026-08-20"
     },
     {
       "slug": "reunion-vacoas",
@@ -3508,7 +3508,7 @@
       "slug": "rose-hill",
       "name": "ROSE-HILL",
       "district": "plainewilhems",
-      "outageCount": 185,
+      "outageCount": 186,
       "file": "rose-hill.json",
       "firstOutage": "2022-05-20",
       "lastOutage": "2026-08-19"
@@ -3634,7 +3634,7 @@
       "slug": "sainte-croix",
       "name": "SAINTE CROIX",
       "district": "portlouis",
-      "outageCount": 95,
+      "outageCount": 96,
       "file": "sainte-croix.json",
       "firstOutage": "2022-04-26",
       "lastOutage": "2026-08-23"
