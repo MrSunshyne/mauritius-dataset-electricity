@@ -2,11 +2,18 @@
   "slug": "16eme-mile",
   "name": "16EME MILE",
   "district": "plainewilhems",
-  "generated": "2026-08-18T12:20:04.299Z",
-  "outageCount": 64,
+  "generated": "2026-08-18T13:33:25.631Z",
+  "outageCount": 65,
   "firstOutage": "2022-05-31",
-  "lastOutage": "2026-08-05",
+  "lastOutage": "2026-08-19",
   "outages": [
+    {
+      "date": "Le mercredi 19 août 2026 de  15:30:00 à  16:30:00",
+      "streets": "La Ferme, Pistache, Montagne Croupier, Piment Reposoir, Baie Topaze et Camp Pintade",
+      "from": "2026-08-19T11:30:00.000Z",
+      "to": "2026-08-19T12:30:00.000Z",
+      "id": "dff40d434e851b3d197d5286119d3e17"
+    },
     {
       "date": "Le mercredi 5 août 2026 de  09:45:00 à  12:00:00",
       "streets": "NHDC JACINTH 16EME MILE FOREST SIDE",

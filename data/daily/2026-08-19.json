@@ -1,8 +1,8 @@
 {
   "date": "2026-08-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-18T12:20:04.281Z",
-  "outageCount": 2,
+  "generated": "2026-08-18T13:33:25.620Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le mercredi 19 août 2026 de  09:00:00 à  16:00:00",
@@ -23,6 +23,26 @@
       "from": "2026-08-19T05:00:00.000Z",
       "to": "2026-08-19T13:30:00.000Z",
       "id": "2c4d0ab379de5578db45ff787d0dedec"
+    },
+    {
+      "date": "Le mercredi 19 août 2026 de  15:30:00 à  16:30:00",
+      "locality": "16EME MILE",
+      "localitySlug": "16eme-mile",
+      "streets": "La Ferme, Pistache, Montagne Croupier, Piment Reposoir, Baie Topaze et Camp Pintade",
+      "district": "plainewilhems",
+      "from": "2026-08-19T11:30:00.000Z",
+      "to": "2026-08-19T12:30:00.000Z",
+      "id": "dff40d434e851b3d197d5286119d3e17"
+    },
+    {
+      "date": "Le mercredi 19 août 2026 de  08:30:00 à  16:30:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Baie Malgache, Baie Diamant, Anse Goeland , Baie Du Nord et Anse Nicolas",
+      "district": "rodrigues",
+      "from": "2026-08-19T04:30:00.000Z",
+      "to": "2026-08-19T12:30:00.000Z",
+      "id": "c7acba9a42d4f14f5cb8c9b8ac043f0f"
     }
   ]
 }

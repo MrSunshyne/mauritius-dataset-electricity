@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-08-18T12:20:04.405Z",
-  "outageCount": 256,
+  "generated": "2026-08-18T13:33:25.697Z",
+  "outageCount": 257,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-08-14",
+  "lastOutage": "2026-08-19",
   "outages": [
+    {
+      "date": "Le mercredi 19 août 2026 de  08:30:00 à  16:30:00",
+      "streets": "Baie Malgache, Baie Diamant, Anse Goeland , Baie Du Nord et Anse Nicolas",
+      "from": "2026-08-19T04:30:00.000Z",
+      "to": "2026-08-19T12:30:00.000Z",
+      "id": "c7acba9a42d4f14f5cb8c9b8ac043f0f"
+    },
     {
       "date": "Le vendredi 14 août 2026 de  08:00:00 à  16:00:00",
       "streets": "Cascade Jean Louis, Plaine Corail, Anse Quitor et Dans Coco",
