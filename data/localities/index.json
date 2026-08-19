@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T12:19:37.914Z",
+  "generated": "2026-08-19T13:34:39.640Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -2698,10 +2698,10 @@
       "slug": "pamplemousses",
       "name": "PAMPLEMOUSSES",
       "district": "pamplemousses",
-      "outageCount": 61,
+      "outageCount": 62,
       "file": "pamplemousses.json",
       "firstOutage": "2022-05-08",
-      "lastOutage": "2026-08-08"
+      "lastOutage": "2026-08-19"
     },
     {
       "slug": "patate-theophille",
@@ -3508,7 +3508,7 @@
       "slug": "rose-hill",
       "name": "ROSE-HILL",
       "district": "plainewilhems",
-      "outageCount": 186,
+      "outageCount": 187,
       "file": "rose-hill.json",
       "firstOutage": "2022-05-20",
       "lastOutage": "2026-08-19"
