@@ -2,11 +2,18 @@
   "slug": "vallee-pitot",
   "name": "VALLEE PITOT",
   "district": "portlouis",
-  "generated": "2026-08-18T18:19:04.677Z",
-  "outageCount": 39,
+  "generated": "2026-08-19T06:22:27.296Z",
+  "outageCount": 40,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-07-21",
+  "lastOutage": "2026-08-19",
   "outages": [
+    {
+      "date": "Le mercredi 19 août 2026 de  10:15:00 à  12:00:00",
+      "streets": "CHA, CRIMEA, RUE EDWARD, BLVD HUGON, MAMELON VERT, MALAKOFF ST ET LES ALENTOURS",
+      "from": "2026-08-19T06:15:00.000Z",
+      "to": "2026-08-19T08:00:00.000Z",
+      "id": "62778d81a05dfab90df8187054408e6a"
+    },
     {
       "date": "Le mardi 21 juillet 2026 de  12:00:00 à  13:00:00",
       "streets": "RUE CHINA-RUE LA PAIX-RUE DIEGO GARCIA V PITOT",

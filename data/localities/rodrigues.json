@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-08-18T18:19:04.657Z",
-  "outageCount": 257,
+  "generated": "2026-08-19T06:22:27.279Z",
+  "outageCount": 258,
   "firstOutage": "2022-03-15",
   "lastOutage": "2026-08-19",
   "outages": [
+    {
+      "date": "Le mercredi 19 août 2026 de  15:30:00 à  16:30:00",
+      "streets": "La Ferme, Pistache, Montagne Croupier, Piment Reposoir, Baie Topaze et Camp Pintade",
+      "from": "2026-08-19T11:30:00.000Z",
+      "to": "2026-08-19T12:30:00.000Z",
+      "id": "92fdfb221e983cc582eb1108329d7012"
+    },
     {
       "date": "Le mercredi 19 août 2026 de  08:30:00 à  16:30:00",
       "streets": "Baie Malgache, Baie Diamant, Anse Goeland , Baie Du Nord et Anse Nicolas",

@@ -2,11 +2,18 @@
   "slug": "quartier-militaire",
   "name": "QUARTIER MILITAIRE",
   "district": "moka",
-  "generated": "2026-08-18T18:19:04.647Z",
-  "outageCount": 48,
+  "generated": "2026-08-19T06:22:27.270Z",
+  "outageCount": 49,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-07-24",
+  "lastOutage": "2026-08-23",
   "outages": [
+    {
+      "date": "Le dimanche 23 août 2026 de  08:30:00 à  16:00:00",
+      "streets": "Pumping Station Engen, Part Royal Road Quartier Militaire, Cite Ravaton, Bonne Veine Road, St Leon Road, Part Bethuel Road",
+      "from": "2026-08-23T04:30:00.000Z",
+      "to": "2026-08-23T12:00:00.000Z",
+      "id": "617c228879467773479741f413ace037"
+    },
     {
       "date": "Le vendredi 24 juillet 2026 de  13:30:00 à  15:00:00",
       "streets": "VUILLEMIN",

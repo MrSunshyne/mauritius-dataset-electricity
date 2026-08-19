@@ -1,9 +1,19 @@
 {
   "date": "2026-08-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-18T18:19:04.545Z",
-  "outageCount": 4,
+  "generated": "2026-08-19T06:22:27.179Z",
+  "outageCount": 7,
   "outages": [
+    {
+      "date": "Le mercredi 19 août 2026 de  09:50:00 à  14:00:00",
+      "locality": "FUEL VILLAGE",
+      "localitySlug": "fuel-village",
+      "streets": "HAPPY VILLAGE ET DANS LES ALENTOURS DE TERRAIN FOOTBALL",
+      "district": "flacq",
+      "from": "2026-08-19T05:50:00.000Z",
+      "to": "2026-08-19T10:00:00.000Z",
+      "id": "ff5e6d725903a0e68abf829e56c11ce5"
+    },
     {
       "date": "Le mercredi 19 août 2026 de  09:00:00 à  16:00:00",
       "locality": "COTE D-OR",
@@ -35,6 +45,16 @@
       "id": "dff40d434e851b3d197d5286119d3e17"
     },
     {
+      "date": "Le mercredi 19 août 2026 de  10:15:00 à  12:00:00",
+      "locality": "VALLEE PITOT",
+      "localitySlug": "vallee-pitot",
+      "streets": "CHA, CRIMEA, RUE EDWARD, BLVD HUGON, MAMELON VERT, MALAKOFF ST ET LES ALENTOURS",
+      "district": "portlouis",
+      "from": "2026-08-19T06:15:00.000Z",
+      "to": "2026-08-19T08:00:00.000Z",
+      "id": "62778d81a05dfab90df8187054408e6a"
+    },
+    {
       "date": "Le mercredi 19 août 2026 de  08:30:00 à  16:30:00",
       "locality": "RODRIGUES",
       "localitySlug": "rodrigues",
@@ -43,6 +63,16 @@
       "from": "2026-08-19T04:30:00.000Z",
       "to": "2026-08-19T12:30:00.000Z",
       "id": "c7acba9a42d4f14f5cb8c9b8ac043f0f"
+    },
+    {
+      "date": "Le mercredi 19 août 2026 de  15:30:00 à  16:30:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "La Ferme, Pistache, Montagne Croupier, Piment Reposoir, Baie Topaze et Camp Pintade",
+      "district": "rodrigues",
+      "from": "2026-08-19T11:30:00.000Z",
+      "to": "2026-08-19T12:30:00.000Z",
+      "id": "92fdfb221e983cc582eb1108329d7012"
     }
   ]
 }
