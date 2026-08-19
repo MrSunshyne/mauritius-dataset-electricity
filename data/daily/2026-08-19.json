@@ -1,8 +1,8 @@
 {
   "date": "2026-08-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-19T16:17:02.313Z",
-  "outageCount": 15,
+  "generated": "2026-08-19T17:15:55.536Z",
+  "outageCount": 16,
   "outages": [
     {
       "date": "Le mercredi 19 août 2026 de  09:50:00 à  14:00:00",
@@ -133,6 +133,16 @@
       "from": "2026-08-19T11:00:00.000Z",
       "to": "2026-08-19T13:00:00.000Z",
       "id": "1b54b3f118b9db61274ec9e9b9cd23d8"
+    },
+    {
+      "date": "Le mercredi 19 août 2026 de  21:00:00 à  01:00:00",
+      "locality": "REUNION MAUREL",
+      "localitySlug": "reunion-maurel",
+      "streets": "SANDOKAN RD-ROYAL RD REUNION MAUREL PETIT RAFFRAY",
+      "district": "rivieredurempart",
+      "from": "2026-08-19T17:00:00.000Z",
+      "to": "2026-08-18T21:00:00.000Z",
+      "id": "6d964376f55ad1b0394e4bd0b9fbfbbd"
     },
     {
       "date": "Le mercredi 19 août 2026 de  08:30:00 à  16:30:00",

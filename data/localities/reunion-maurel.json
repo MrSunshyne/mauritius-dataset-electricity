@@ -2,8 +2,8 @@
   "slug": "reunion-maurel",
   "name": "REUNION MAUREL",
   "district": "rivieredurempart",
-  "generated": "2026-08-19T16:17:02.434Z",
-  "outageCount": 9,
+  "generated": "2026-08-19T17:15:55.656Z",
+  "outageCount": 10,
   "firstOutage": "2022-11-27",
   "lastOutage": "2026-08-20",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-08-20T07:30:00.000Z",
       "to": "2026-08-20T09:30:00.000Z",
       "id": "d1478fc74f5d3086a0306e6796235ded"
+    },
+    {
+      "date": "Le mercredi 19 août 2026 de  21:00:00 à  01:00:00",
+      "streets": "SANDOKAN RD-ROYAL RD REUNION MAUREL PETIT RAFFRAY",
+      "from": "2026-08-19T17:00:00.000Z",
+      "to": "2026-08-18T21:00:00.000Z",
+      "id": "6d964376f55ad1b0394e4bd0b9fbfbbd"
     },
     {
       "date": "Le dimanche 9 novembre 2025 de  08:30:00 à  15:00:00",
