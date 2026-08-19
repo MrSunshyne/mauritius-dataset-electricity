@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-08-19T06:22:27.224Z",
-  "outageCount": 240,
+  "generated": "2026-08-19T07:28:17.431Z",
+  "outageCount": 241,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-08-18",
+  "lastOutage": "2026-08-19",
   "outages": [
+    {
+      "date": "Le mercredi 19 août 2026 de  10:40:00 à  11:10:00",
+      "streets": "CITE MANGALKHAN",
+      "from": "2026-08-19T06:40:00.000Z",
+      "to": "2026-08-19T07:10:00.000Z",
+      "id": "2b412510744d20ecfa8d4719eafc88af"
+    },
     {
       "date": "Le mardi 18 août 2026 de  18:00:00 à  22:00:00",
       "streets": "PARATIAN LANE LES CASERNES CUREPIPE",
