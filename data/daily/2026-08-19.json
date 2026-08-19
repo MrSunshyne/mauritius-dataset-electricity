@@ -1,8 +1,8 @@
 {
   "date": "2026-08-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-19T10:16:22.291Z",
-  "outageCount": 10,
+  "generated": "2026-08-19T11:13:59.099Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le mercredi 19 août 2026 de  09:50:00 à  14:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-08-19T08:00:00.000Z",
       "to": "2026-08-19T11:00:00.000Z",
       "id": "6337592866b4cf535c21c193471f42cf"
+    },
+    {
+      "date": "Le mercredi 19 août 2026 de  14:25:00 à  17:30:00",
+      "locality": "ILOT",
+      "localitySlug": "ilot",
+      "streets": "SAWDAGUR LANE, WATERFALL LANE ET LES ENVIRONS.",
+      "district": "pamplemousses",
+      "from": "2026-08-19T10:25:00.000Z",
+      "to": "2026-08-19T13:30:00.000Z",
+      "id": "d849fc9e4d90d2dab6197a05a5f50e05"
     },
     {
       "date": "Le mercredi 19 août 2026 de  09:00:00 à  17:30:00",
@@ -83,6 +93,16 @@
       "from": "2026-08-19T09:30:00.000Z",
       "to": "2026-08-19T10:30:00.000Z",
       "id": "f17aca842ac4834d7034574e2e9e9763"
+    },
+    {
+      "date": "Le mercredi 19 août 2026 de  15:00:00 à  17:00:00",
+      "locality": "MLLE JEANNE",
+      "localitySlug": "mlle-jeanne",
+      "streets": "CHEMIN MAMZELLE JEANNE GOODLANDS.",
+      "district": "rivieredurempart",
+      "from": "2026-08-19T11:00:00.000Z",
+      "to": "2026-08-19T13:00:00.000Z",
+      "id": "1b54b3f118b9db61274ec9e9b9cd23d8"
     },
     {
       "date": "Le mercredi 19 août 2026 de  08:30:00 à  16:30:00",

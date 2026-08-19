@@ -2,11 +2,18 @@
   "slug": "mlle-jeanne",
   "name": "MLLE JEANNE",
   "district": "rivieredurempart",
-  "generated": "2026-08-19T10:16:22.388Z",
-  "outageCount": 1,
+  "generated": "2026-08-19T11:13:59.157Z",
+  "outageCount": 2,
   "firstOutage": "2025-08-13",
-  "lastOutage": "2025-08-13",
+  "lastOutage": "2026-08-19",
   "outages": [
+    {
+      "date": "Le mercredi 19 août 2026 de  15:00:00 à  17:00:00",
+      "streets": "CHEMIN MAMZELLE JEANNE GOODLANDS.",
+      "from": "2026-08-19T11:00:00.000Z",
+      "to": "2026-08-19T13:00:00.000Z",
+      "id": "1b54b3f118b9db61274ec9e9b9cd23d8"
+    },
     {
       "date": "Le mercredi 13 août 2025 de  12:20:00 à  14:30:00",
       "streets": "MLLE JEANNE GOODLANDS",
