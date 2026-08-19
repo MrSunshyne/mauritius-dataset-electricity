@@ -2,11 +2,18 @@
   "slug": "cap-malheureux",
   "name": "CAP MALHEUREUX",
   "district": "rivieredurempart",
-  "generated": "2026-08-19T09:20:52.356Z",
-  "outageCount": 55,
+  "generated": "2026-08-19T10:16:22.340Z",
+  "outageCount": 56,
   "firstOutage": "2022-07-14",
-  "lastOutage": "2026-07-16",
+  "lastOutage": "2026-08-19",
   "outages": [
+    {
+      "date": "Le mercredi 19 août 2026 de  13:30:00 à  14:30:00",
+      "streets": "PAVILLON AUX ALENTOURS DRY CLEANING",
+      "from": "2026-08-19T09:30:00.000Z",
+      "to": "2026-08-19T10:30:00.000Z",
+      "id": "f17aca842ac4834d7034574e2e9e9763"
+    },
     {
       "date": "Le jeudi 16 juillet 2026 de  09:00:00 à  13:30:00",
       "streets": "CAP MALHEUREUX, IN SURROUNDING OF PAVILLON AT MORCELLEMENT CHETTY IN MOSQUE LANE",

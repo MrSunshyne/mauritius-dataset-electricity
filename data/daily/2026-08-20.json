@@ -1,8 +1,8 @@
 {
   "date": "2026-08-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-19T09:20:52.309Z",
-  "outageCount": 3,
+  "generated": "2026-08-19T10:16:22.291Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le jeudi 20 août 2026 de  12:00:00 à  15:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-08-20T07:30:00.000Z",
       "to": "2026-08-20T09:30:00.000Z",
       "id": "d1478fc74f5d3086a0306e6796235ded"
+    },
+    {
+      "date": "Le jeudi 20 août 2026 de  09:00:00 à  16:00:00",
+      "locality": "SURINAM",
+      "localitySlug": "surinam",
+      "streets": "Riambel Coastal Road",
+      "district": "savanne",
+      "from": "2026-08-20T05:00:00.000Z",
+      "to": "2026-08-20T12:00:00.000Z",
+      "id": "8f412a738e793fcc6f85a08709ed2c29"
     }
   ]
 }

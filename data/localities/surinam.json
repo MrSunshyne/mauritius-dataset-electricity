@@ -2,11 +2,18 @@
   "slug": "surinam",
   "name": "SURINAM",
   "district": "savanne",
-  "generated": "2026-08-19T09:20:52.453Z",
-  "outageCount": 54,
+  "generated": "2026-08-19T10:16:22.438Z",
+  "outageCount": 55,
   "firstOutage": "2022-05-08",
-  "lastOutage": "2026-07-12",
+  "lastOutage": "2026-08-20",
   "outages": [
+    {
+      "date": "Le jeudi 20 août 2026 de  09:00:00 à  16:00:00",
+      "streets": "Riambel Coastal Road",
+      "from": "2026-08-20T05:00:00.000Z",
+      "to": "2026-08-20T12:00:00.000Z",
+      "id": "8f412a738e793fcc6f85a08709ed2c29"
+    },
     {
       "date": "Le dimanche 12 juillet 2026 de  13:00:00 à  18:15:00",
       "streets": "CHAPEL LANE SURINAM",

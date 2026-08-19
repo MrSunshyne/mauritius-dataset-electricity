@@ -1,8 +1,8 @@
 {
   "date": "2026-08-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-19T09:20:52.309Z",
-  "outageCount": 9,
+  "generated": "2026-08-19T10:16:22.291Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le mercredi 19 août 2026 de  09:50:00 à  14:00:00",
@@ -73,6 +73,16 @@
       "from": "2026-08-19T06:15:00.000Z",
       "to": "2026-08-19T09:15:00.000Z",
       "id": "4f52f15bff6057f39265d451014dab7b"
+    },
+    {
+      "date": "Le mercredi 19 août 2026 de  13:30:00 à  14:30:00",
+      "locality": "CAP MALHEUREUX",
+      "localitySlug": "cap-malheureux",
+      "streets": "PAVILLON AUX ALENTOURS DRY CLEANING",
+      "district": "rivieredurempart",
+      "from": "2026-08-19T09:30:00.000Z",
+      "to": "2026-08-19T10:30:00.000Z",
+      "id": "f17aca842ac4834d7034574e2e9e9763"
     },
     {
       "date": "Le mercredi 19 août 2026 de  08:30:00 à  16:30:00",
