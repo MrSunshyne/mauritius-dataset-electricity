@@ -1,8 +1,8 @@
 {
   "date": "2026-08-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-19T15:19:30.637Z",
-  "outageCount": 14,
+  "generated": "2026-08-19T16:17:02.313Z",
+  "outageCount": 15,
   "outages": [
     {
       "date": "Le mercredi 19 août 2026 de  09:50:00 à  14:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-08-19T11:50:00.000Z",
       "to": "2026-08-19T14:30:00.000Z",
       "id": "361f09b621c69c68d0299dbea1e1f1a0"
+    },
+    {
+      "date": "Le mercredi 19 août 2026 de  19:30:00 à  20:15:00",
+      "locality": "BOIS PIGNOLET",
+      "localitySlug": "bois-pignolet",
+      "streets": "PART OF VILLAGE",
+      "district": "pamplemousses",
+      "from": "2026-08-19T15:30:00.000Z",
+      "to": "2026-08-19T16:15:00.000Z",
+      "id": "9c76e562d8bbd05faf975074652ebed3"
     },
     {
       "date": "Le mercredi 19 août 2026 de  09:00:00 à  17:30:00",

@@ -2,11 +2,18 @@
   "slug": "bois-pignolet",
   "name": "BOIS PIGNOLET",
   "district": "pamplemousses",
-  "generated": "2026-08-19T15:19:30.674Z",
-  "outageCount": 16,
+  "generated": "2026-08-19T16:17:02.348Z",
+  "outageCount": 17,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-07-05",
+  "lastOutage": "2026-08-19",
   "outages": [
+    {
+      "date": "Le mercredi 19 août 2026 de  19:30:00 à  20:15:00",
+      "streets": "PART OF VILLAGE",
+      "from": "2026-08-19T15:30:00.000Z",
+      "to": "2026-08-19T16:15:00.000Z",
+      "id": "9c76e562d8bbd05faf975074652ebed3"
+    },
     {
       "date": "Le dimanche 5 juillet 2026 de  08:30:00 à  16:30:00",
       "streets": "",
