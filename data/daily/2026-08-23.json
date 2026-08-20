@@ -1,9 +1,19 @@
 {
   "date": "2026-08-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-19T18:16:07.202Z",
-  "outageCount": 4,
+  "generated": "2026-08-20T06:23:31.717Z",
+  "outageCount": 6,
   "outages": [
+    {
+      "date": "Le dimanche 23 août 2026 de  08:30:00 à  15:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "Dans les environs des Rues La Joliette, Macnamara, Old Trafford, La Fourche et une partie de la Route Royale",
+      "district": "blackriver",
+      "from": "2026-08-23T04:30:00.000Z",
+      "to": "2026-08-23T11:00:00.000Z",
+      "id": "9a2f6a5beac9ee0f88aae15313defb30"
+    },
     {
       "date": "Le dimanche 23 août 2026 de  08:15:00 à  16:00:00",
       "locality": "LALLMATIE",
@@ -43,6 +53,16 @@
       "from": "2026-08-23T08:30:00.000Z",
       "to": "2026-08-23T10:30:00.000Z",
       "id": "e0ffea77d1e868b7bbe2268309cf2c6c"
+    },
+    {
+      "date": "Le dimanche 23 août 2026 de  08:30:00 à  15:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "Raoul Rivet, Dr Onesipho Beaugeard, La Gaieté, Saint James, Ternay, Saint John, Henri Le Sidaner, Nahaboo Solim et Mère Barthelemy",
+      "district": "portlouis",
+      "from": "2026-08-23T04:30:00.000Z",
+      "to": "2026-08-23T11:00:00.000Z",
+      "id": "3a9819e21c23983f2e38b1832774897d"
     }
   ]
 }

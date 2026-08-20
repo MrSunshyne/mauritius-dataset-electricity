@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T18:16:07.361Z",
+  "generated": "2026-08-20T06:23:31.854Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -232,10 +232,10 @@
       "slug": "bananes",
       "name": "BANANES",
       "district": "savanne",
-      "outageCount": 11,
+      "outageCount": 12,
       "file": "bananes.json",
       "firstOutage": "2022-03-14",
-      "lastOutage": "2026-08-17"
+      "lastOutage": "2026-08-25"
     },
     {
       "slug": "bar-le-duc",
@@ -2851,10 +2851,10 @@
       "slug": "petite-riviere",
       "name": "PETITE RIVIERE",
       "district": "blackriver",
-      "outageCount": 96,
+      "outageCount": 97,
       "file": "petite-riviere.json",
       "firstOutage": "2022-05-28",
-      "lastOutage": "2026-08-17"
+      "lastOutage": "2026-08-23"
     },
     {
       "slug": "petite-riviere-noire",
@@ -3094,10 +3094,10 @@
       "slug": "port-louis",
       "name": "PORT-LOUIS",
       "district": "portlouis",
-      "outageCount": 130,
+      "outageCount": 131,
       "file": "port-louis.json",
       "firstOutage": "2022-03-21",
-      "lastOutage": "2026-07-20"
+      "lastOutage": "2026-08-23"
     },
     {
       "slug": "port-mathurin",
@@ -3634,7 +3634,7 @@
       "slug": "sainte-croix",
       "name": "SAINTE CROIX",
       "district": "portlouis",
-      "outageCount": 96,
+      "outageCount": 97,
       "file": "sainte-croix.json",
       "firstOutage": "2022-04-26",
       "lastOutage": "2026-08-23"
@@ -3913,10 +3913,10 @@
       "slug": "trois-boutiques-union-vale",
       "name": "TROIS BOUTIQUES UNION VALE",
       "district": "grandport",
-      "outageCount": 16,
+      "outageCount": 17,
       "file": "trois-boutiques-union-vale.json",
       "firstOutage": "2022-05-12",
-      "lastOutage": "2026-07-17"
+      "lastOutage": "2026-08-20"
     },
     {
       "slug": "trou-aux-biches",
@@ -3985,10 +3985,10 @@
       "slug": "upper-vale",
       "name": "UPPER VALE",
       "district": "rivieredurempart",
-      "outageCount": 26,
+      "outageCount": 27,
       "file": "upper-vale.json",
       "firstOutage": "2022-04-05",
-      "lastOutage": "2026-07-04"
+      "lastOutage": "2026-08-22"
     },
     {
       "slug": "vacoas",

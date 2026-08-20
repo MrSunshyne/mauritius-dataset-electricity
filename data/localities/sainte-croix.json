@@ -2,8 +2,8 @@
   "slug": "sainte-croix",
   "name": "SAINTE CROIX",
   "district": "portlouis",
-  "generated": "2026-08-19T18:16:07.336Z",
-  "outageCount": 96,
+  "generated": "2026-08-20T06:23:31.837Z",
+  "outageCount": 97,
   "firstOutage": "2022-04-26",
   "lastOutage": "2026-08-23",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-08-23T08:30:00.000Z",
       "to": "2026-08-23T10:30:00.000Z",
       "id": "e0ffea77d1e868b7bbe2268309cf2c6c"
+    },
+    {
+      "date": "Le samedi 22 août 2026 de  08:30:00 à  13:00:00",
+      "streets": "Dans les environs d’une partie de la route des Pamplemousses et Paul Taureau",
+      "from": "2026-08-22T04:30:00.000Z",
+      "to": "2026-08-22T09:00:00.000Z",
+      "id": "4f0fc0086706b6d0fc629141720fc2bc"
     },
     {
       "date": "Le mardi 18 août 2026 de  11:45:00 à  12:45:00",

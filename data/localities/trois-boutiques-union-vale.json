@@ -2,11 +2,18 @@
   "slug": "trois-boutiques-union-vale",
   "name": "TROIS BOUTIQUES UNION VALE",
   "district": "grandport",
-  "generated": "2026-08-19T18:16:07.348Z",
-  "outageCount": 16,
+  "generated": "2026-08-20T06:23:31.847Z",
+  "outageCount": 17,
   "firstOutage": "2022-05-12",
-  "lastOutage": "2026-07-17",
+  "lastOutage": "2026-08-20",
   "outages": [
+    {
+      "date": "Le jeudi 20 août 2026 de  09:00:00 à  11:00:00",
+      "streets": "Trois Boutiques habitant dans le périmètre et les rues suivantes :  Camp Macao, Le Bouchon Road, SSR Road et Media Trois Boutiques",
+      "from": "2026-08-20T05:00:00.000Z",
+      "to": "2026-08-20T07:00:00.000Z",
+      "id": "3c982055142207aa097b7d5909393372"
+    },
     {
       "date": "Le vendredi 17 juillet 2026 de  12:00:00 à  14:00:00",
       "streets": "TEMPLE ROAD BABOOLALL STREET TROIS BOUTIQUES UNION VALE",

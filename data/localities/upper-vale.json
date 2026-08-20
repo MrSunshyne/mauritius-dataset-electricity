@@ -2,11 +2,18 @@
   "slug": "upper-vale",
   "name": "UPPER VALE",
   "district": "rivieredurempart",
-  "generated": "2026-08-19T18:16:07.351Z",
-  "outageCount": 26,
+  "generated": "2026-08-20T06:23:31.849Z",
+  "outageCount": 27,
   "firstOutage": "2022-04-05",
-  "lastOutage": "2026-07-04",
+  "lastOutage": "2026-08-22",
   "outages": [
+    {
+      "date": "Le samedi 22 août 2026 de  08:30:00 à  14:30:00",
+      "streets": "Dans les environs de Sottise Road,Royal Road et Bambou Road THE VALE.",
+      "from": "2026-08-22T04:30:00.000Z",
+      "to": "2026-08-22T10:30:00.000Z",
+      "id": "adfa528d5c383761bc3a88efcf3240dc"
+    },
     {
       "date": "Le samedi 4 juillet 2026 de  09:00:00 à  12:00:00",
       "streets": "IMPASSE TIMADU, IMP MOSQUE, EN PARTIE SSR RD",

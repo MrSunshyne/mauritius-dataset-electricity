@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-22",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-08-20T06:23:31.717Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le samedi 22 août 2026 de  08:30:00 à  13:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "Dans les environs d’une partie de la route des Pamplemousses et Paul Taureau",
+      "district": "portlouis",
+      "from": "2026-08-22T04:30:00.000Z",
+      "to": "2026-08-22T09:00:00.000Z",
+      "id": "4f0fc0086706b6d0fc629141720fc2bc"
+    },
+    {
+      "date": "Le samedi 22 août 2026 de  08:30:00 à  14:30:00",
+      "locality": "UPPER VALE",
+      "localitySlug": "upper-vale",
+      "streets": "Dans les environs de Sottise Road,Royal Road et Bambou Road THE VALE.",
+      "district": "rivieredurempart",
+      "from": "2026-08-22T04:30:00.000Z",
+      "to": "2026-08-22T10:30:00.000Z",
+      "id": "adfa528d5c383761bc3a88efcf3240dc"
+    }
+  ]
+}
