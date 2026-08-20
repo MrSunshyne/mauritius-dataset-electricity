@@ -2,11 +2,18 @@
   "slug": "montagne-ory",
   "name": "MONTAGNE ORY",
   "district": "moka",
-  "generated": "2026-08-20T10:17:38.303Z",
-  "outageCount": 11,
+  "generated": "2026-08-20T11:15:29.703Z",
+  "outageCount": 12,
   "firstOutage": "2023-01-14",
-  "lastOutage": "2025-02-09",
+  "lastOutage": "2026-08-22",
   "outages": [
+    {
+      "date": "Le samedi 22 août 2026 de  07:00:00 à  15:00:00",
+      "streets": "Mount Ory Road et School Lane",
+      "from": "2026-08-22T03:00:00.000Z",
+      "to": "2026-08-22T11:00:00.000Z",
+      "id": "aed8c6a174e06d25d0477a7cecf2b6bd"
+    },
     {
       "date": "Le dimanche 9 février 2025 de  08:30:00 à  15:00:00",
       "streets": "Mount Ory Village, Mount Ory motorway, Appt Societe Oakridge et Bagatelle Hills",

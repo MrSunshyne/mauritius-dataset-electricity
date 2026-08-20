@@ -2,8 +2,8 @@
   "slug": "petite-riviere",
   "name": "PETITE RIVIERE",
   "district": "blackriver",
-  "generated": "2026-08-20T10:17:38.313Z",
-  "outageCount": 97,
+  "generated": "2026-08-20T11:15:29.713Z",
+  "outageCount": 98,
   "firstOutage": "2022-05-28",
   "lastOutage": "2026-08-23",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-08-23T04:30:00.000Z",
       "to": "2026-08-23T11:00:00.000Z",
       "id": "9a2f6a5beac9ee0f88aae15313defb30"
+    },
+    {
+      "date": "Le samedi 22 août 2026 de  08:30:00 à  15:00:00",
+      "streets": "Dans les environs des Rues La Joliette, Macnamara, Old Trafford, La Fourche et une partie de la Route Royale",
+      "from": "2026-08-22T04:30:00.000Z",
+      "to": "2026-08-22T11:00:00.000Z",
+      "id": "3d2788c759dcd1f39abed4834215c636"
     },
     {
       "date": "Le lundi 17 août 2026 de  13:00:00 à  16:00:00",

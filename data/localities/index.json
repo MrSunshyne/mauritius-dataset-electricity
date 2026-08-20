@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-20T10:17:38.357Z",
+  "generated": "2026-08-20T11:15:29.758Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -2536,10 +2536,10 @@
       "slug": "montagne-ory",
       "name": "MONTAGNE ORY",
       "district": "moka",
-      "outageCount": 11,
+      "outageCount": 12,
       "file": "montagne-ory.json",
       "firstOutage": "2023-01-14",
-      "lastOutage": "2025-02-09"
+      "lastOutage": "2026-08-22"
     },
     {
       "slug": "montebello",
@@ -2851,7 +2851,7 @@
       "slug": "petite-riviere",
       "name": "PETITE RIVIERE",
       "district": "blackriver",
-      "outageCount": 97,
+      "outageCount": 98,
       "file": "petite-riviere.json",
       "firstOutage": "2022-05-28",
       "lastOutage": "2026-08-23"

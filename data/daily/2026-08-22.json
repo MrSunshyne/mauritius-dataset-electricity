@@ -1,9 +1,29 @@
 {
   "date": "2026-08-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-20T10:17:38.214Z",
-  "outageCount": 2,
+  "generated": "2026-08-20T11:15:29.605Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le samedi 22 août 2026 de  08:30:00 à  15:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "Dans les environs des Rues La Joliette, Macnamara, Old Trafford, La Fourche et une partie de la Route Royale",
+      "district": "blackriver",
+      "from": "2026-08-22T04:30:00.000Z",
+      "to": "2026-08-22T11:00:00.000Z",
+      "id": "3d2788c759dcd1f39abed4834215c636"
+    },
+    {
+      "date": "Le samedi 22 août 2026 de  07:00:00 à  15:00:00",
+      "locality": "MONTAGNE ORY",
+      "localitySlug": "montagne-ory",
+      "streets": "Mount Ory Road et School Lane",
+      "district": "moka",
+      "from": "2026-08-22T03:00:00.000Z",
+      "to": "2026-08-22T11:00:00.000Z",
+      "id": "aed8c6a174e06d25d0477a7cecf2b6bd"
+    },
     {
       "date": "Le samedi 22 août 2026 de  08:30:00 à  13:00:00",
       "locality": "SAINTE CROIX",
