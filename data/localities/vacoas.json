@@ -2,11 +2,18 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-08-20T06:23:31.850Z",
-  "outageCount": 265,
+  "generated": "2026-08-20T07:31:01.656Z",
+  "outageCount": 266,
   "firstOutage": "2022-03-17",
-  "lastOutage": "2026-08-18",
+  "lastOutage": "2026-08-24",
   "outages": [
+    {
+      "date": "Le lundi 24 août 2026 de  09:00:00 à  12:00:00",
+      "streets": "Willoughby Road, Une partie de Decaen Road, Britania Road, Sufflock Road, et les environs",
+      "from": "2026-08-24T05:00:00.000Z",
+      "to": "2026-08-24T08:00:00.000Z",
+      "id": "c160c53e7ba9584fb534b67f742bd850"
+    },
     {
       "date": "Le mardi 18 août 2026 de  10:00:00 à  11:15:00",
       "streets": "CAMPBELL STREET ET DANS LES ALENTOURS DE GARAGE RAMSARAN",
