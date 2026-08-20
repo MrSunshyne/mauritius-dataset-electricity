@@ -1,8 +1,8 @@
 {
   "date": "2026-08-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-20T11:15:29.605Z",
-  "outageCount": 4,
+  "generated": "2026-08-20T12:21:42.646Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le samedi 22 août 2026 de  08:30:00 à  15:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-08-22T03:00:00.000Z",
       "to": "2026-08-22T11:00:00.000Z",
       "id": "aed8c6a174e06d25d0477a7cecf2b6bd"
+    },
+    {
+      "date": "Le samedi 22 août 2026 de  08:30:00 à  14:00:00",
+      "locality": "VALETTA",
+      "localitySlug": "valetta",
+      "streets": "une partie de Royal road, Shivala Road, Jamal Road, Mauree Road, Savannah Road et Madurai Road.",
+      "district": "moka",
+      "from": "2026-08-22T04:30:00.000Z",
+      "to": "2026-08-22T10:00:00.000Z",
+      "id": "cf7a9d40da2bb5ef56c8e21d0692b463"
     },
     {
       "date": "Le samedi 22 août 2026 de  08:30:00 à  13:00:00",

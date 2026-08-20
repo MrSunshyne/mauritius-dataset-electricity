@@ -2,11 +2,18 @@
   "slug": "forest-side",
   "name": "FOREST SIDE",
   "district": "plainewilhems",
-  "generated": "2026-08-20T11:15:29.672Z",
-  "outageCount": 102,
+  "generated": "2026-08-20T12:21:42.710Z",
+  "outageCount": 103,
   "firstOutage": "2022-07-03",
-  "lastOutage": "2026-08-14",
+  "lastOutage": "2026-08-23",
   "outages": [
+    {
+      "date": "Le dimanche 23 août 2026 de  08:30:00 à  14:30:00",
+      "streets": "Morcellement : Devoyenne, Mounien and Lumina at Forest Side",
+      "from": "2026-08-23T04:30:00.000Z",
+      "to": "2026-08-23T10:30:00.000Z",
+      "id": "5846d28e049a8843240e2d338fac74b0"
+    },
     {
       "date": "Le vendredi 14 août 2026 de  08:30:00 à  17:00:00",
       "streets": "Residence La Brasserie and part of La Brasserie Road",

@@ -2,11 +2,18 @@
   "slug": "tombeau-bay",
   "name": "TOMBEAU BAY",
   "district": "pamplemousses",
-  "generated": "2026-08-20T11:15:29.748Z",
-  "outageCount": 143,
+  "generated": "2026-08-20T12:21:42.782Z",
+  "outageCount": 144,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-08-19",
+  "lastOutage": "2026-08-20",
   "outages": [
+    {
+      "date": "Le jeudi 20 août 2026 de  15:15:00 à  17:15:00",
+      "streets": "St Malo",
+      "from": "2026-08-20T11:15:00.000Z",
+      "to": "2026-08-20T13:15:00.000Z",
+      "id": "856fc864ad215cf6a07504f1e2026e74"
+    },
     {
       "date": "Le mercredi 19 août 2026 de  12:00:00 à  15:00:00",
       "streets": "Les Abonnes de Morc Swan Baie du Tombeau habitant dans les environs des Rues Anemone, Des Roses et Capucines",

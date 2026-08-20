@@ -2,11 +2,18 @@
   "slug": "valetta",
   "name": "VALETTA",
   "district": "moka",
-  "generated": "2026-08-20T11:15:29.755Z",
-  "outageCount": 22,
+  "generated": "2026-08-20T12:21:42.789Z",
+  "outageCount": 23,
   "firstOutage": "2022-11-24",
-  "lastOutage": "2026-08-08",
+  "lastOutage": "2026-08-22",
   "outages": [
+    {
+      "date": "Le samedi 22 août 2026 de  08:30:00 à  14:00:00",
+      "streets": "une partie de Royal road, Shivala Road, Jamal Road, Mauree Road, Savannah Road et Madurai Road.",
+      "from": "2026-08-22T04:30:00.000Z",
+      "to": "2026-08-22T10:00:00.000Z",
+      "id": "cf7a9d40da2bb5ef56c8e21d0692b463"
+    },
     {
       "date": "Le samedi 8 août 2026 de  11:00:00 à  12:30:00",
       "streets": "REGION VALETTA",

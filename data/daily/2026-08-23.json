@@ -1,8 +1,8 @@
 {
   "date": "2026-08-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-20T11:15:29.605Z",
-  "outageCount": 6,
+  "generated": "2026-08-20T12:21:42.646Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le dimanche 23 août 2026 de  08:30:00 à  15:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-08-23T04:30:00.000Z",
       "to": "2026-08-23T08:00:00.000Z",
       "id": "6e7a92041878e16ca8847636012355d1"
+    },
+    {
+      "date": "Le dimanche 23 août 2026 de  08:30:00 à  14:30:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "Morcellement : Devoyenne, Mounien and Lumina at Forest Side",
+      "district": "plainewilhems",
+      "from": "2026-08-23T04:30:00.000Z",
+      "to": "2026-08-23T10:30:00.000Z",
+      "id": "5846d28e049a8843240e2d338fac74b0"
     },
     {
       "date": "Le dimanche 23 août 2026 de  12:30:00 à  14:30:00",

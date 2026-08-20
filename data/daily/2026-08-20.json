@@ -1,8 +1,8 @@
 {
   "date": "2026-08-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-20T11:15:29.605Z",
-  "outageCount": 6,
+  "generated": "2026-08-20T12:21:42.646Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le jeudi 20 août 2026 de  12:20:00 à  14:00:00",
@@ -25,6 +25,16 @@
       "id": "3c982055142207aa097b7d5909393372"
     },
     {
+      "date": "Le jeudi 20 août 2026 de  15:15:00 à  17:15:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "St Malo",
+      "district": "pamplemousses",
+      "from": "2026-08-20T11:15:00.000Z",
+      "to": "2026-08-20T13:15:00.000Z",
+      "id": "856fc864ad215cf6a07504f1e2026e74"
+    },
+    {
       "date": "Le jeudi 20 août 2026 de  12:00:00 à  15:00:00",
       "locality": "QUATRE-BORNES",
       "localitySlug": "quatre-bornes",
@@ -35,14 +45,24 @@
       "id": "e41fafd2fe4b50fd1347f4cd5c0f90f8"
     },
     {
-      "date": "Le jeudi 20 août 2026 de  08:30:00 à  15:00:00",
+      "date": "Le jeudi 20 août 2026 de  15:00:00 à  17:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Cascadella Court,Marcel Letang,Part Mare Gravier",
+      "district": "plainewilhems",
+      "from": "2026-08-20T11:00:00.000Z",
+      "to": "2026-08-20T13:00:00.000Z",
+      "id": "ab3760f0ff372742a5749b7a0184fef4"
+    },
+    {
+      "date": "Le jeudi 20 août 2026 de  08:30:00 à  16:30:00",
       "locality": "TOUR KOENIG",
       "localitySlug": "tour-koenig",
-      "streets": "Dans les environs des Avenues La Tour Koenig, Anthurium, Andreanum, Croton, Hibiscus, Marguerite, Jasmin, Anemone, Phlox, Muguets, Jasmin, Zinnias, Myosotis, Petunia, Croton, Hibiscus, Bougainvilliers, Kenneth Nelson, Terrasson et Géranium",
+      "streets": "Dans les environs des Avenues La Tour Koenig, Anthurium, Andreanum, Croton, Hibiscus, Marguerite, Jasmin, Anemone, Phlox, Muguets, Jasmin, Zinnias, Myosotis, Petunia, Croton, Hibiscus, Bougainvilliers, Kenneth Nelson, Terrasson et GéraniumPOINTE AUX SABLE EN PARTIE",
       "district": "portlouis",
       "from": "2026-08-20T04:30:00.000Z",
-      "to": "2026-08-20T11:00:00.000Z",
-      "id": "18ec03d54a3e7c3087827a81a49b4166"
+      "to": "2026-08-20T12:30:00.000Z",
+      "id": "84b5f33e7dde7bbe7a6cbf5c6a11cf81"
     },
     {
       "date": "Le jeudi 20 août 2026 de  11:30:00 à  13:30:00",
