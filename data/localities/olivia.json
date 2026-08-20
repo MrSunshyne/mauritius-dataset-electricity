@@ -2,11 +2,18 @@
   "slug": "olivia",
   "name": "OLIVIA",
   "district": "flacq",
-  "generated": "2026-08-20T07:31:01.626Z",
-  "outageCount": 22,
+  "generated": "2026-08-20T08:22:42.495Z",
+  "outageCount": 23,
   "firstOutage": "2023-06-17",
-  "lastOutage": "2026-08-07",
+  "lastOutage": "2026-08-20",
   "outages": [
+    {
+      "date": "Le jeudi 20 août 2026 de  12:20:00 à  14:00:00",
+      "streets": "20\tAnahita\t22 kV Feeder Anahita - Ferney\tErnest Florent, Trois Ilots, Olivia, Kewal Nagar, Clavet, Etoile, Belle Rose, Pont Lardier, Clemencia, La Nourice, DEEP RIVER BEAU CHAMP\tBramsthan\tBramsthan. Boundary with Mahebourg at ABIS Belle Rive South\tC19\t 13 \t 2,070 \t 123 \t 1,947",
+      "from": "2026-08-20T08:20:00.000Z",
+      "to": "2026-08-20T10:00:00.000Z",
+      "id": "a0f3178df031e378ca9c6037c3727132"
+    },
     {
       "date": "Le vendredi 7 août 2026 de  13:00:00 à  15:00:00",
       "streets": "PART OF OLIVIA",

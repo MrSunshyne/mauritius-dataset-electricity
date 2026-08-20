@@ -1,9 +1,19 @@
 {
   "date": "2026-08-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-20T07:31:01.566Z",
-  "outageCount": 5,
+  "generated": "2026-08-20T08:22:42.394Z",
+  "outageCount": 6,
   "outages": [
+    {
+      "date": "Le jeudi 20 août 2026 de  12:20:00 à  14:00:00",
+      "locality": "OLIVIA",
+      "localitySlug": "olivia",
+      "streets": "20\tAnahita\t22 kV Feeder Anahita - Ferney\tErnest Florent, Trois Ilots, Olivia, Kewal Nagar, Clavet, Etoile, Belle Rose, Pont Lardier, Clemencia, La Nourice, DEEP RIVER BEAU CHAMP\tBramsthan\tBramsthan. Boundary with Mahebourg at ABIS Belle Rive South\tC19\t 13 \t 2,070 \t 123 \t 1,947",
+      "district": "flacq",
+      "from": "2026-08-20T08:20:00.000Z",
+      "to": "2026-08-20T10:00:00.000Z",
+      "id": "a0f3178df031e378ca9c6037c3727132"
+    },
     {
       "date": "Le jeudi 20 août 2026 de  09:00:00 à  11:00:00",
       "locality": "TROIS BOUTIQUES UNION VALE",
