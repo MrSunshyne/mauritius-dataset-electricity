@@ -2,11 +2,18 @@
   "slug": "roches-brunes",
   "name": "ROCHES BRUNES",
   "district": "plainewilhems",
-  "generated": "2026-08-21T10:17:35.773Z",
-  "outageCount": 43,
+  "generated": "2026-08-21T11:14:46.907Z",
+  "outageCount": 44,
   "firstOutage": "2022-10-01",
-  "lastOutage": "2026-08-12",
+  "lastOutage": "2026-08-24",
   "outages": [
+    {
+      "date": "Le lundi 24 août 2026 de  09:00:00 à  12:00:00",
+      "streets": "Roches Brunes Ave, Neon Ave, Varion Ave et Pluto Ave",
+      "from": "2026-08-24T05:00:00.000Z",
+      "to": "2026-08-24T08:00:00.000Z",
+      "id": "a6f1ece091737442d993cef6bc02d787"
+    },
     {
       "date": "Le mercredi 12 août 2026 de  14:10:00 à  15:30:00",
       "streets": "MORCELLEMENT ST DANIEL : AVENUE DES TOURTERELLES ET LES ENVIRONS.",

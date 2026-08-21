@@ -2,11 +2,25 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-08-21T10:17:35.774Z",
-  "outageCount": 258,
+  "generated": "2026-08-21T11:14:46.908Z",
+  "outageCount": 260,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-08-19",
+  "lastOutage": "2026-08-23",
   "outages": [
+    {
+      "date": "Le dimanche 23 août 2026 de  08:30:00 à  15:00:00",
+      "streets": "Palissade, Montagne Bois Noir et Nassola",
+      "from": "2026-08-23T04:30:00.000Z",
+      "to": "2026-08-23T11:00:00.000Z",
+      "id": "c1ca051a29643ca9624f0088d3e92b62"
+    },
+    {
+      "date": "Le samedi 22 août 2026 de  09:00:00 à  16:00:00",
+      "streets": "Roche Bon Dieu, Morcellement Roche Bon Dieu, Pointe Coton, Anse Ali, Saint Francois et Montagne Cabris Est",
+      "from": "2026-08-22T05:00:00.000Z",
+      "to": "2026-08-22T12:00:00.000Z",
+      "id": "d3a581c1bcc7059fe92f988a90cdb2ae"
+    },
     {
       "date": "Le mercredi 19 août 2026 de  15:30:00 à  16:30:00",
       "streets": "La Ferme, Pistache, Montagne Croupier, Piment Reposoir, Baie Topaze et Camp Pintade",

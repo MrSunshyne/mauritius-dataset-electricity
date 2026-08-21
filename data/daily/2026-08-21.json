@@ -1,8 +1,8 @@
 {
   "date": "2026-08-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-21T10:17:35.664Z",
-  "outageCount": 2,
+  "generated": "2026-08-21T11:14:46.797Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le vendredi 21 août 2026 de  12:30:00 à  17:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-08-21T05:00:00.000Z",
       "to": "2026-08-21T08:00:00.000Z",
       "id": "93e3b92046d09299b0e433aa444e8412"
+    },
+    {
+      "date": "Le vendredi 21 août 2026 de  15:00:00 à  17:00:00",
+      "locality": "MARE GRAVIER",
+      "localitySlug": "mare-gravier",
+      "streets": "HAREWOOD PARK",
+      "district": "plainewilhems",
+      "from": "2026-08-21T11:00:00.000Z",
+      "to": "2026-08-21T13:00:00.000Z",
+      "id": "2dc6f1dc0dc97371e4501aa993fbcff2"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-21T10:17:35.664Z",
-  "outageCount": 1,
+  "generated": "2026-08-21T11:14:46.797Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le lundi 24 août 2026 de  09:00:00 à  12:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-08-24T05:00:00.000Z",
       "to": "2026-08-24T08:00:00.000Z",
       "id": "c160c53e7ba9584fb534b67f742bd850"
+    },
+    {
+      "date": "Le lundi 24 août 2026 de  09:00:00 à  12:00:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "Roches Brunes Ave, Neon Ave, Varion Ave et Pluto Ave",
+      "district": "plainewilhems",
+      "from": "2026-08-24T05:00:00.000Z",
+      "to": "2026-08-24T08:00:00.000Z",
+      "id": "a6f1ece091737442d993cef6bc02d787"
     }
   ]
 }

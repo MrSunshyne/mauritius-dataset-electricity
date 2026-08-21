@@ -1,8 +1,8 @@
 {
   "date": "2026-08-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-21T10:17:35.664Z",
-  "outageCount": 7,
+  "generated": "2026-08-21T11:14:46.797Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le dimanche 23 août 2026 de  08:30:00 à  15:00:00",
@@ -55,6 +55,26 @@
       "id": "5846d28e049a8843240e2d338fac74b0"
     },
     {
+      "date": "Le dimanche 23 août 2026 de  14:00:00 à  14:30:00",
+      "locality": "CITE BARKLY",
+      "localitySlug": "cite-barkly",
+      "streets": "Prison Beau-Bassin, Ave Jasmin, Ave Cosmos, Ave Barkly Asylum, Res. Barkly, Rue Herchenroder, MOA Barkly, Piscine Serge Alfred, RYC, Verge Bissambar et Mont Roches",
+      "district": "plainewilhems",
+      "from": "2026-08-23T10:00:00.000Z",
+      "to": "2026-08-23T10:30:00.000Z",
+      "id": "4334fdf4a50674d313a49bb48810b9d1"
+    },
+    {
+      "date": "Le dimanche 23 août 2026 de  08:30:00 à  10:30:00",
+      "locality": "CITE BARKLY",
+      "localitySlug": "cite-barkly",
+      "streets": "Prison Beau-Bassin, Ave Jasmin, Ave Cosmos, Ave Barkly Asylum, Res. Barkly, Rue Herchenroder, MOA Barkly, Piscine Serge Alfred, RYC, Verge Bissambar et Mont Roches",
+      "district": "plainewilhems",
+      "from": "2026-08-23T04:30:00.000Z",
+      "to": "2026-08-23T06:30:00.000Z",
+      "id": "d1f00f2a41343dd04bbe9d81fa8a2d09"
+    },
+    {
       "date": "Le dimanche 23 août 2026 de  12:30:00 à  14:30:00",
       "locality": "SAINTE CROIX",
       "localitySlug": "sainte-croix",
@@ -73,6 +93,16 @@
       "from": "2026-08-23T04:30:00.000Z",
       "to": "2026-08-23T11:00:00.000Z",
       "id": "3a9819e21c23983f2e38b1832774897d"
+    },
+    {
+      "date": "Le dimanche 23 août 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Palissade, Montagne Bois Noir et Nassola",
+      "district": "rodrigues",
+      "from": "2026-08-23T04:30:00.000Z",
+      "to": "2026-08-23T11:00:00.000Z",
+      "id": "c1ca051a29643ca9624f0088d3e92b62"
     }
   ]
 }

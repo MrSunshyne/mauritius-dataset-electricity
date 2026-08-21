@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-21T10:17:35.793Z",
+  "generated": "2026-08-21T11:14:46.927Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -1087,19 +1087,19 @@
       "slug": "cite-barkly",
       "name": "CITE BARKLY",
       "district": "plainewilhems",
-      "outageCount": 5,
+      "outageCount": 7,
       "file": "cite-barkly.json",
       "firstOutage": "2024-01-19",
-      "lastOutage": "2026-08-01"
+      "lastOutage": "2026-08-23"
     },
     {
       "slug": "cite-chebel",
       "name": "CITE CHEBEL",
       "district": "plainewilhems",
-      "outageCount": 37,
+      "outageCount": 38,
       "file": "cite-chebel.json",
       "firstOutage": "2022-03-15",
-      "lastOutage": "2026-08-18"
+      "lastOutage": "2026-08-22"
     },
     {
       "slug": "cite-l-oiseau",
@@ -2248,10 +2248,10 @@
       "slug": "mare-gravier",
       "name": "MARE GRAVIER",
       "district": "plainewilhems",
-      "outageCount": 4,
+      "outageCount": 5,
       "file": "mare-gravier.json",
       "firstOutage": "2022-12-09",
-      "lastOutage": "2024-10-21"
+      "lastOutage": "2026-08-21"
     },
     {
       "slug": "mare-la-chaux",
@@ -3472,10 +3472,10 @@
       "slug": "roches-brunes",
       "name": "ROCHES BRUNES",
       "district": "plainewilhems",
-      "outageCount": 43,
+      "outageCount": 44,
       "file": "roches-brunes.json",
       "firstOutage": "2022-10-01",
-      "lastOutage": "2026-08-12"
+      "lastOutage": "2026-08-24"
     },
     {
       "slug": "roches-noires",
@@ -3490,10 +3490,10 @@
       "slug": "rodrigues",
       "name": "RODRIGUES",
       "district": "rodrigues",
-      "outageCount": 258,
+      "outageCount": 260,
       "file": "rodrigues.json",
       "firstOutage": "2022-03-15",
-      "lastOutage": "2026-08-19"
+      "lastOutage": "2026-08-23"
     },
     {
       "slug": "rose-belle",

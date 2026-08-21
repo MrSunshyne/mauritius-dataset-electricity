@@ -2,11 +2,18 @@
   "slug": "cite-chebel",
   "name": "CITE CHEBEL",
   "district": "plainewilhems",
-  "generated": "2026-08-21T10:17:35.709Z",
-  "outageCount": 37,
+  "generated": "2026-08-21T11:14:46.843Z",
+  "outageCount": 38,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-08-18",
+  "lastOutage": "2026-08-22",
   "outages": [
+    {
+      "date": "Le samedi 22 août 2026 de  08:30:00 à  15:00:00",
+      "streets": "Residence Chebeque, Centre Municipale Sir Gaetan Duval, Residence Lotus, WMA Chebeque et les environs",
+      "from": "2026-08-22T04:30:00.000Z",
+      "to": "2026-08-22T11:00:00.000Z",
+      "id": "64d922733be9d906f9fae615b2994a49"
+    },
     {
       "date": "Le mardi 18 août 2026 de  08:30:00 à  15:30:00",
       "streets": "Residence Chebeque, Centre Municipale Sir Gaetan Duval, Residence Lotus, WMA Chebeque et les environs",
