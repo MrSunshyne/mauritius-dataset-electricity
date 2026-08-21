@@ -1,9 +1,19 @@
 {
   "date": "2026-08-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-21T08:24:03.794Z",
-  "outageCount": 1,
+  "generated": "2026-08-21T09:23:37.357Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le vendredi 21 août 2026 de  12:30:00 à  17:00:00",
+      "locality": "MOKA",
+      "localitySlug": "moka",
+      "streets": "CHEMIN LECLOSIO/LERAVI/EUREKA",
+      "district": "moka",
+      "from": "2026-08-21T08:30:00.000Z",
+      "to": "2026-08-21T13:00:00.000Z",
+      "id": "6c1f72cfd13f6e9e5e29868045c39348"
+    },
     {
       "date": "Le vendredi 21 août 2026 de  09:00:00 à  12:00:00",
       "locality": "HIGHLANDS",

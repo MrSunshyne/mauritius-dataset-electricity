@@ -2,11 +2,18 @@
   "slug": "moka",
   "name": "MOKA",
   "district": "moka",
-  "generated": "2026-08-21T08:24:03.872Z",
-  "outageCount": 75,
+  "generated": "2026-08-21T09:23:37.418Z",
+  "outageCount": 76,
   "firstOutage": "2022-06-13",
-  "lastOutage": "2026-08-09",
+  "lastOutage": "2026-08-21",
   "outages": [
+    {
+      "date": "Le vendredi 21 août 2026 de  12:30:00 à  17:00:00",
+      "streets": "CHEMIN LECLOSIO/LERAVI/EUREKA",
+      "from": "2026-08-21T08:30:00.000Z",
+      "to": "2026-08-21T13:00:00.000Z",
+      "id": "6c1f72cfd13f6e9e5e29868045c39348"
+    },
     {
       "date": "Le dimanche 9 août 2026 de  08:30:00 à  15:30:00",
       "streets": "La Ravin, Morc Bagatelle, Leclezio Ave, Old Reduit Rd, Morc Eureka, Mt Ory Rd, AMB et Baboolall Lane",
