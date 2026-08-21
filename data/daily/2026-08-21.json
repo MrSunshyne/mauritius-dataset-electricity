@@ -1,9 +1,19 @@
 {
   "date": "2026-08-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-21T14:22:17.861Z",
-  "outageCount": 3,
+  "generated": "2026-08-21T15:21:14.025Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le vendredi 21 août 2026 de  18:50:00 à  20:00:00",
+      "locality": "LA GAULETTE",
+      "localitySlug": "la-gaulette",
+      "streets": "REMI OLLIER & SURROUNDINGS",
+      "district": "blackriver",
+      "from": "2026-08-21T14:50:00.000Z",
+      "to": "2026-08-21T16:00:00.000Z",
+      "id": "887ef947b558782a2dd4c456935a770f"
+    },
     {
       "date": "Le vendredi 21 août 2026 de  12:30:00 à  17:30:00",
       "locality": "MOKA",
