@@ -2,11 +2,18 @@
   "slug": "mesnil",
   "name": "MESNIL",
   "district": "plainewilhems",
-  "generated": "2026-08-21T07:33:13.503Z",
-  "outageCount": 10,
+  "generated": "2026-08-21T08:24:03.871Z",
+  "outageCount": 11,
   "firstOutage": "2022-08-10",
-  "lastOutage": "2026-08-09",
+  "lastOutage": "2026-08-27",
   "outages": [
+    {
+      "date": "Le jeudi 27 août 2026 de  13:00:00 à  17:00:00",
+      "streets": "Royal Road, Mesnil résidant les régions et les rues suivantes : une partie de Parisot Road et les environs",
+      "from": "2026-08-27T09:00:00.000Z",
+      "to": "2026-08-27T13:00:00.000Z",
+      "id": "36c7f0502d2e5507c8e8e09faade970b"
+    },
     {
       "date": "Le dimanche 9 août 2026 de  08:30:00 à  17:00:00",
       "streets": "Mesnil, St Paul habitant les régions et les rues suivantes : Route Royale, Mesnil, Banarally Lane, Impasse Ramjaun, Rabindranath Tagore Avenue, Jheengoor Lane, Ally Lane, Sonah Lane, une partie de Parisot Branch Road, CTR Lane, Goolzar Lane, Ameerally Lane, Kullichurn Lane, Pitot Lane, Dhunny Lane 1, Dhunny Lane 2, et les environs",
