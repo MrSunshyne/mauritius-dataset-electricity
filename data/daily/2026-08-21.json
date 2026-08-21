@@ -1,8 +1,8 @@
 {
   "date": "2026-08-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-21T17:17:31.036Z",
-  "outageCount": 4,
+  "generated": "2026-08-21T18:19:42.156Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le vendredi 21 août 2026 de  18:50:00 à  20:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-08-21T11:00:00.000Z",
       "to": "2026-08-21T13:00:00.000Z",
       "id": "2dc6f1dc0dc97371e4501aa993fbcff2"
+    },
+    {
+      "date": "Le vendredi 21 août 2026 de  20:30:00 à  00:00:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "Morcs Terracine,Brise de Mer,Union Ducray,Champ Fleury,Vrs",
+      "district": "savanne",
+      "from": "2026-08-21T16:30:00.000Z",
+      "to": "2026-08-20T20:00:00.000Z",
+      "id": "03edc85e3487b339b97642a5cd7cb450"
     }
   ]
 }

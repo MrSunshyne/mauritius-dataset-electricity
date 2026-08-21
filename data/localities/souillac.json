@@ -2,11 +2,18 @@
   "slug": "souillac",
   "name": "SOUILLAC",
   "district": "savanne",
-  "generated": "2026-08-21T17:17:31.148Z",
-  "outageCount": 80,
+  "generated": "2026-08-21T18:19:42.273Z",
+  "outageCount": 81,
   "firstOutage": "2022-06-05",
-  "lastOutage": "2026-08-14",
+  "lastOutage": "2026-08-21",
   "outages": [
+    {
+      "date": "Le vendredi 21 août 2026 de  20:30:00 à  00:00:00",
+      "streets": "Morcs Terracine,Brise de Mer,Union Ducray,Champ Fleury,Vrs",
+      "from": "2026-08-21T16:30:00.000Z",
+      "to": "2026-08-20T20:00:00.000Z",
+      "id": "03edc85e3487b339b97642a5cd7cb450"
+    },
     {
       "date": "Le vendredi 14 août 2026 de  09:00:00 à  16:00:00",
       "streets": "Souillac habitant dans le périmètre et les rues suivantes : Mayavaram Road, Lady Barkly Road et Autard Road",
