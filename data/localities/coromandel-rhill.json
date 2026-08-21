@@ -2,11 +2,18 @@
   "slug": "coromandel-rhill",
   "name": "COROMANDEL - R.HILL",
   "district": "plainewilhems",
-  "generated": "2026-08-21T16:18:01.228Z",
-  "outageCount": 95,
+  "generated": "2026-08-21T17:17:31.083Z",
+  "outageCount": 96,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-07-20",
+  "lastOutage": "2026-08-22",
   "outages": [
+    {
+      "date": "Le samedi 22 août 2026 de  08:30:00 à  15:00:00",
+      "streets": "PAVE DÁMOUR, RAMDENEE LN, WHITE HOUSE, COOM LANE et les environs",
+      "from": "2026-08-22T04:30:00.000Z",
+      "to": "2026-08-22T11:00:00.000Z",
+      "id": "ba6e3812c5bf06dc7f1ed12e157bcaee"
+    },
     {
       "date": "Le lundi 20 juillet 2026 de  08:30:00 à  15:00:00",
       "streets": "Morc Hermitage, Ave Panoma, Ave Jupiter, Ave Pluto, Ave Saturn, Ave Mars, Ave Colfin et Ave Caboche",
