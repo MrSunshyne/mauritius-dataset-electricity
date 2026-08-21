@@ -2,11 +2,18 @@
   "slug": "highlands",
   "name": "HIGHLANDS",
   "district": "plainewilhems",
-  "generated": "2026-08-20T18:20:13.782Z",
-  "outageCount": 83,
+  "generated": "2026-08-21T06:23:40.062Z",
+  "outageCount": 84,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2026-08-11",
+  "lastOutage": "2026-08-21",
   "outages": [
+    {
+      "date": "Le vendredi 21 août 2026 de  09:00:00 à  12:00:00",
+      "streets": "Morcellement Soobraty, College Aleemeeah et les environs",
+      "from": "2026-08-21T05:00:00.000Z",
+      "to": "2026-08-21T08:00:00.000Z",
+      "id": "93e3b92046d09299b0e433aa444e8412"
+    },
     {
       "date": "Le mardi 11 août 2026 de  14:00:00 à  17:00:00",
       "streets": "une partie de Highlands Rose",
