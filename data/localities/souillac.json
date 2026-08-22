@@ -2,11 +2,18 @@
   "slug": "souillac",
   "name": "SOUILLAC",
   "district": "savanne",
-  "generated": "2026-08-21T18:19:42.273Z",
-  "outageCount": 81,
+  "generated": "2026-08-22T06:18:45.550Z",
+  "outageCount": 82,
   "firstOutage": "2022-06-05",
-  "lastOutage": "2026-08-21",
+  "lastOutage": "2026-08-22",
   "outages": [
+    {
+      "date": "Le samedi 22 août 2026 de  09:40:00 à  11:00:00",
+      "streets": "MORC TERRACINE",
+      "from": "2026-08-22T05:40:00.000Z",
+      "to": "2026-08-22T07:00:00.000Z",
+      "id": "a4d5c2ee1294102425420c477490e9b7"
+    },
     {
       "date": "Le vendredi 21 août 2026 de  20:30:00 à  00:00:00",
       "streets": "Morcs Terracine,Brise de Mer,Union Ducray,Champ Fleury,Vrs",

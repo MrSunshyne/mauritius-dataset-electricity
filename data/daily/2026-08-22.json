@@ -1,8 +1,8 @@
 {
   "date": "2026-08-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-21T18:19:42.156Z",
-  "outageCount": 8,
+  "generated": "2026-08-22T06:18:45.429Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le samedi 22 août 2026 de  08:30:00 à  15:00:00",
@@ -73,6 +73,16 @@
       "from": "2026-08-22T04:30:00.000Z",
       "to": "2026-08-22T10:30:00.000Z",
       "id": "adfa528d5c383761bc3a88efcf3240dc"
+    },
+    {
+      "date": "Le samedi 22 août 2026 de  09:40:00 à  11:00:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "MORC TERRACINE",
+      "district": "savanne",
+      "from": "2026-08-22T05:40:00.000Z",
+      "to": "2026-08-22T07:00:00.000Z",
+      "id": "a4d5c2ee1294102425420c477490e9b7"
     },
     {
       "date": "Le samedi 22 août 2026 de  09:00:00 à  16:00:00",
