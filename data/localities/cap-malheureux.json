@@ -2,11 +2,18 @@
   "slug": "cap-malheureux",
   "name": "CAP MALHEUREUX",
   "district": "rivieredurempart",
-  "generated": "2026-08-22T18:11:59.304Z",
-  "outageCount": 56,
+  "generated": "2026-08-23T06:20:11.565Z",
+  "outageCount": 57,
   "firstOutage": "2022-07-14",
-  "lastOutage": "2026-08-19",
+  "lastOutage": "2026-08-23",
   "outages": [
+    {
+      "date": "Le dimanche 23 août 2026 de  06:00:00 à  10:30:00",
+      "streets": "CAP MALHEUREUX BEAU MANGUIER, PAZANI MALAYE ET LES ALENTOURS, BAIN BOEUF MACOUMBA, RESIDENCE COIN DE MIRE ET LES ALENTOURSPEREYBERE COASTAL ROAD, NITZANA HOTEL ET LES ALENTOURS",
+      "from": "2026-08-23T02:00:00.000Z",
+      "to": "2026-08-23T06:30:00.000Z",
+      "id": "bbe22f0fe8b4860fdd4ca202aefc7e90"
+    },
     {
       "date": "Le mercredi 19 août 2026 de  13:30:00 à  14:30:00",
       "streets": "PAVILLON AUX ALENTOURS DRY CLEANING",
