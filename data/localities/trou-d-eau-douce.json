@@ -2,11 +2,18 @@
   "slug": "trou-d-eau-douce",
   "name": "TROU D-EAU DOUCE",
   "district": "flacq",
-  "generated": "2026-08-23T13:23:17.441Z",
-  "outageCount": 11,
+  "generated": "2026-08-23T14:11:41.130Z",
+  "outageCount": 12,
   "firstOutage": "2025-10-27",
   "lastOutage": "2026-08-23",
   "outages": [
+    {
+      "date": "Le dimanche 23 août 2026 de  17:00:00 à  19:00:00",
+      "streets": "MONTEE BASTILLE TROU DEAU DOUCE",
+      "from": "2026-08-23T13:00:00.000Z",
+      "to": "2026-08-23T15:00:00.000Z",
+      "id": "9becca00f638022a4132a15abeeffe08"
+    },
     {
       "date": "Le dimanche 23 août 2026 de  14:00:00 à  18:00:00",
       "streets": "VILLA PACIFIC CHEMIN HOLLANDAIS TROU DEAU DOUCE",

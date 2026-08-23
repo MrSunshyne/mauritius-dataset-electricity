@@ -1,8 +1,8 @@
 {
   "date": "2026-08-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-23T13:23:17.320Z",
-  "outageCount": 14,
+  "generated": "2026-08-23T14:11:41.003Z",
+  "outageCount": 16,
   "outages": [
     {
       "date": "Le dimanche 23 août 2026 de  08:30:00 à  15:00:00",
@@ -35,6 +35,16 @@
       "id": "a1079dcf767616da9f332fa54999172a"
     },
     {
+      "date": "Le dimanche 23 août 2026 de  17:00:00 à  19:00:00",
+      "locality": "TROU D-EAU DOUCE",
+      "localitySlug": "trou-d-eau-douce",
+      "streets": "MONTEE BASTILLE TROU DEAU DOUCE",
+      "district": "flacq",
+      "from": "2026-08-23T13:00:00.000Z",
+      "to": "2026-08-23T15:00:00.000Z",
+      "id": "9becca00f638022a4132a15abeeffe08"
+    },
+    {
       "date": "Le dimanche 23 août 2026 de  08:30:00 à  16:00:00",
       "locality": "QUARTIER MILITAIRE",
       "localitySlug": "quartier-militaire",
@@ -45,14 +55,14 @@
       "id": "617c228879467773479741f413ace037"
     },
     {
-      "date": "Le dimanche 23 août 2026 de  13:30:00 à  18:00:00",
+      "date": "Le dimanche 23 août 2026 de  13:30:00 à  20:00:00",
       "locality": "NOUVELLE DECOUVERTE",
       "localitySlug": "nouvelle-decouverte",
-      "streets": "NOUVELLE DECOUVERTE/BEAU BOIS/RIPAILLES",
+      "streets": "NOUVELLE DECOUVERTE/BEAU BOIS/RIPAILLES-BAR LE DUC",
       "district": "moka",
       "from": "2026-08-23T09:30:00.000Z",
-      "to": "2026-08-23T14:00:00.000Z",
-      "id": "a90d73e0eb05dd3bb5921fc6fc3e052c"
+      "to": "2026-08-23T16:00:00.000Z",
+      "id": "d58aed9b3a51c9f60c8d3fc1ff36251b"
     },
     {
       "date": "Le dimanche 23 août 2026 de  08:30:00 à  12:00:00",
@@ -103,6 +113,16 @@
       "from": "2026-08-23T09:30:00.000Z",
       "to": "2026-08-23T14:00:00.000Z",
       "id": "3afd98af817450e483032b8527b9bea1"
+    },
+    {
+      "date": "Le dimanche 23 août 2026 de  17:45:00 à  20:00:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "Camp Mapou, Morc Seetaram, Camp Roche No 1, Camp Belin No 2, Camp Belin No 3, part of Camp Belin No 1 & part of Henrietta (Caldwell Road & School Lane)",
+      "district": "plainewilhems",
+      "from": "2026-08-23T13:45:00.000Z",
+      "to": "2026-08-23T16:00:00.000Z",
+      "id": "24ecd3ad86d8bd1f5cb571bf1b367066"
     },
     {
       "date": "Le dimanche 23 août 2026 de  12:30:00 à  14:30:00",
