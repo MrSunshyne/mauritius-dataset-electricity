@@ -2,11 +2,18 @@
   "slug": "sodnac",
   "name": "SODNAC",
   "district": "plainewilhems",
-  "generated": "2026-08-23T10:11:09.673Z",
-  "outageCount": 52,
+  "generated": "2026-08-23T11:10:18.625Z",
+  "outageCount": 53,
   "firstOutage": "2022-05-30",
-  "lastOutage": "2026-08-11",
+  "lastOutage": "2026-08-23",
   "outages": [
+    {
+      "date": "Le dimanche 23 août 2026 de  13:30:00 à  18:00:00",
+      "streets": "EN PARTIE SODNAC NEAR HARE RAMA",
+      "from": "2026-08-23T09:30:00.000Z",
+      "to": "2026-08-23T14:00:00.000Z",
+      "id": "3afd98af817450e483032b8527b9bea1"
+    },
     {
       "date": "Le mardi 11 août 2026 de  12:30:00 à  14:30:00",
       "streets": "MORC MAHOMA SODNAC",

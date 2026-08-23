@@ -1,8 +1,8 @@
 {
   "date": "2026-08-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-23T10:11:09.569Z",
-  "outageCount": 12,
+  "generated": "2026-08-23T11:10:18.538Z",
+  "outageCount": 14,
   "outages": [
     {
       "date": "Le dimanche 23 août 2026 de  08:30:00 à  15:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-08-23T04:15:00.000Z",
       "to": "2026-08-23T12:00:00.000Z",
       "id": "4a0365a837d87fa91c98f905f523b7dc"
+    },
+    {
+      "date": "Le dimanche 23 août 2026 de  14:00:00 à  18:00:00",
+      "locality": "TROU D-EAU DOUCE",
+      "localitySlug": "trou-d-eau-douce",
+      "streets": "VILLA PACIFIC CHEMIN HOLLANDAIS TROU DEAU DOUCE",
+      "district": "flacq",
+      "from": "2026-08-23T10:00:00.000Z",
+      "to": "2026-08-23T14:00:00.000Z",
+      "id": "a1079dcf767616da9f332fa54999172a"
     },
     {
       "date": "Le dimanche 23 août 2026 de  08:30:00 à  16:00:00",
@@ -83,6 +93,16 @@
       "from": "2026-08-23T04:30:00.000Z",
       "to": "2026-08-23T06:30:00.000Z",
       "id": "d1f00f2a41343dd04bbe9d81fa8a2d09"
+    },
+    {
+      "date": "Le dimanche 23 août 2026 de  13:30:00 à  18:00:00",
+      "locality": "SODNAC",
+      "localitySlug": "sodnac",
+      "streets": "EN PARTIE SODNAC NEAR HARE RAMA",
+      "district": "plainewilhems",
+      "from": "2026-08-23T09:30:00.000Z",
+      "to": "2026-08-23T14:00:00.000Z",
+      "id": "3afd98af817450e483032b8527b9bea1"
     },
     {
       "date": "Le dimanche 23 août 2026 de  12:30:00 à  14:30:00",
