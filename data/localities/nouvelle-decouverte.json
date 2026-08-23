@@ -2,11 +2,18 @@
   "slug": "nouvelle-decouverte",
   "name": "NOUVELLE DECOUVERTE",
   "district": "moka",
-  "generated": "2026-08-23T09:16:08.196Z",
-  "outageCount": 30,
+  "generated": "2026-08-23T10:11:09.644Z",
+  "outageCount": 31,
   "firstOutage": "2022-12-13",
-  "lastOutage": "2026-07-11",
+  "lastOutage": "2026-08-23",
   "outages": [
+    {
+      "date": "Le dimanche 23 août 2026 de  13:30:00 à  16:30:00",
+      "streets": "NOUVELLE DECOUVERTE/BEAU BOIS/RIPAILLES",
+      "from": "2026-08-23T09:30:00.000Z",
+      "to": "2026-08-23T12:30:00.000Z",
+      "id": "a00edc0cca290669a493e91e384ff357"
+    },
     {
       "date": "Le samedi 11 juillet 2026 de  08:30:00 à  15:00:00",
       "streets": "Bumma Rd, Rajabally Rd, Billard Rd, Royal Rd Nouvelle Decouverte, School Lane, Shivalah Rd, Chemin La Plaine et Speed Lane",

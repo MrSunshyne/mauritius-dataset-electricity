@@ -1,8 +1,8 @@
 {
   "date": "2026-08-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-23T09:16:08.133Z",
-  "outageCount": 11,
+  "generated": "2026-08-23T10:11:09.569Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le dimanche 23 août 2026 de  08:30:00 à  15:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-08-23T04:30:00.000Z",
       "to": "2026-08-23T12:00:00.000Z",
       "id": "617c228879467773479741f413ace037"
+    },
+    {
+      "date": "Le dimanche 23 août 2026 de  13:30:00 à  16:30:00",
+      "locality": "NOUVELLE DECOUVERTE",
+      "localitySlug": "nouvelle-decouverte",
+      "streets": "NOUVELLE DECOUVERTE/BEAU BOIS/RIPAILLES",
+      "district": "moka",
+      "from": "2026-08-23T09:30:00.000Z",
+      "to": "2026-08-23T12:30:00.000Z",
+      "id": "a00edc0cca290669a493e91e384ff357"
     },
     {
       "date": "Le dimanche 23 août 2026 de  08:30:00 à  12:00:00",
