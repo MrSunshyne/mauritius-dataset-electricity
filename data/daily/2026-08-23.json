@@ -1,8 +1,8 @@
 {
   "date": "2026-08-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-23T16:10:49.612Z",
-  "outageCount": 16,
+  "generated": "2026-08-23T17:10:22.009Z",
+  "outageCount": 17,
   "outages": [
     {
       "date": "Le dimanche 23 août 2026 de  08:30:00 à  15:00:00",
@@ -55,14 +55,14 @@
       "id": "617c228879467773479741f413ace037"
     },
     {
-      "date": "Le dimanche 23 août 2026 de  13:30:00 à  20:00:00",
+      "date": "Le dimanche 23 août 2026 de  13:30:00 à  22:00:00",
       "locality": "NOUVELLE DECOUVERTE",
       "localitySlug": "nouvelle-decouverte",
       "streets": "NOUVELLE DECOUVERTE/BEAU BOIS/RIPAILLES-BAR LE DUC",
       "district": "moka",
       "from": "2026-08-23T09:30:00.000Z",
-      "to": "2026-08-23T16:00:00.000Z",
-      "id": "d58aed9b3a51c9f60c8d3fc1ff36251b"
+      "to": "2026-08-23T18:00:00.000Z",
+      "id": "03ed0272f63620dbf094e46b016a44e2"
     },
     {
       "date": "Le dimanche 23 août 2026 de  08:30:00 à  12:00:00",
@@ -143,6 +143,16 @@
       "from": "2026-08-23T04:30:00.000Z",
       "to": "2026-08-23T11:00:00.000Z",
       "id": "3a9819e21c23983f2e38b1832774897d"
+    },
+    {
+      "date": "Le dimanche 23 août 2026 de  20:30:00 à  22:30:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "4 APPARTMENTS",
+      "district": "portlouis",
+      "from": "2026-08-23T16:30:00.000Z",
+      "to": "2026-08-23T18:30:00.000Z",
+      "id": "c7776d130625c2293b5641c97404e573"
     },
     {
       "date": "Le dimanche 23 août 2026 de  06:00:00 à  10:30:00",

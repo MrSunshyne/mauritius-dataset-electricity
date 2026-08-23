@@ -2,11 +2,18 @@
   "slug": "pointe-aux-sables",
   "name": "POINTE AUX SABLES",
   "district": "portlouis",
-  "generated": "2026-08-23T16:10:49.697Z",
-  "outageCount": 145,
+  "generated": "2026-08-23T17:10:22.100Z",
+  "outageCount": 146,
   "firstOutage": "2022-03-30",
-  "lastOutage": "2026-07-10",
+  "lastOutage": "2026-08-23",
   "outages": [
+    {
+      "date": "Le dimanche 23 août 2026 de  20:30:00 à  22:30:00",
+      "streets": "4 APPARTMENTS",
+      "from": "2026-08-23T16:30:00.000Z",
+      "to": "2026-08-23T18:30:00.000Z",
+      "id": "c7776d130625c2293b5641c97404e573"
+    },
     {
       "date": "Le vendredi 10 juillet 2026 de  13:30:00 à  15:00:00",
       "streets": "MARTELLO TERASSON POITE AUX SABLES",
