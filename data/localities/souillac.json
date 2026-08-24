@@ -2,11 +2,18 @@
   "slug": "souillac",
   "name": "SOUILLAC",
   "district": "savanne",
-  "generated": "2026-08-23T18:12:16.014Z",
-  "outageCount": 82,
+  "generated": "2026-08-24T06:32:56.906Z",
+  "outageCount": 83,
   "firstOutage": "2022-06-05",
-  "lastOutage": "2026-08-22",
+  "lastOutage": "2026-08-26",
   "outages": [
+    {
+      "date": "Le mercredi 26 août 2026 de  09:00:00 à  16:00:00",
+      "streets": "EDC Gris Gris, Village de Gris Gris et Domaine Gris  Gris Souillac",
+      "from": "2026-08-26T05:00:00.000Z",
+      "to": "2026-08-26T12:00:00.000Z",
+      "id": "32883248975780f5d9d48a3a7d7b6c97"
+    },
     {
       "date": "Le samedi 22 août 2026 de  09:40:00 à  11:00:00",
       "streets": "MORC TERRACINE",

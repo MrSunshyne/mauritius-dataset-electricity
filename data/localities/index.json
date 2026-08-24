@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-23T18:12:16.021Z",
+  "generated": "2026-08-24T06:32:56.918Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -403,10 +403,10 @@
       "slug": "belle-bue-allandy",
       "name": "BELLE BUE ALLANDY",
       "district": "flacq",
-      "outageCount": 5,
+      "outageCount": 6,
       "file": "belle-bue-allandy.json",
       "firstOutage": "2023-01-12",
-      "lastOutage": "2025-12-15"
+      "lastOutage": "2026-08-24"
     },
     {
       "slug": "belle-etoile",
@@ -1915,10 +1915,10 @@
       "slug": "la-flora",
       "name": "LA FLORA",
       "district": "savanne",
-      "outageCount": 32,
+      "outageCount": 33,
       "file": "la-flora.json",
       "firstOutage": "2022-10-09",
-      "lastOutage": "2026-08-06"
+      "lastOutage": "2026-08-25"
     },
     {
       "slug": "la-gaulette",
@@ -2572,10 +2572,10 @@
       "slug": "morc-saint-andre",
       "name": "MORC SAINT ANDRE",
       "district": "pamplemousses",
-      "outageCount": 48,
+      "outageCount": 49,
       "file": "morc-saint-andre.json",
       "firstOutage": "2022-04-12",
-      "lastOutage": "2026-08-18"
+      "lastOutage": "2026-08-24"
     },
     {
       "slug": "mount",
@@ -3616,10 +3616,10 @@
       "slug": "saint-paul",
       "name": "SAINT PAUL",
       "district": "plainewilhems",
-      "outageCount": 43,
+      "outageCount": 44,
       "file": "saint-paul.json",
       "firstOutage": "2022-04-28",
-      "lastOutage": "2026-08-12"
+      "lastOutage": "2026-08-24"
     },
     {
       "slug": "saint-pierre",
@@ -3751,10 +3751,10 @@
       "slug": "souillac",
       "name": "SOUILLAC",
       "district": "savanne",
-      "outageCount": 82,
+      "outageCount": 83,
       "file": "souillac.json",
       "firstOutage": "2022-06-05",
-      "lastOutage": "2026-08-22"
+      "lastOutage": "2026-08-26"
     },
     {
       "slug": "stanley",
@@ -3931,10 +3931,10 @@
       "slug": "trou-d-eau-douce",
       "name": "TROU D-EAU DOUCE",
       "district": "flacq",
-      "outageCount": 12,
+      "outageCount": 13,
       "file": "trou-d-eau-douce.json",
       "firstOutage": "2025-10-27",
-      "lastOutage": "2026-08-23"
+      "lastOutage": "2026-08-24"
     },
     {
       "slug": "tyack",
@@ -3994,7 +3994,7 @@
       "slug": "vacoas",
       "name": "VACOAS",
       "district": "plainewilhems",
-      "outageCount": 266,
+      "outageCount": 267,
       "file": "vacoas.json",
       "firstOutage": "2022-03-17",
       "lastOutage": "2026-08-24"

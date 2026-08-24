@@ -2,11 +2,18 @@
   "slug": "trou-d-eau-douce",
   "name": "TROU D-EAU DOUCE",
   "district": "flacq",
-  "generated": "2026-08-23T18:12:16.018Z",
-  "outageCount": 12,
+  "generated": "2026-08-24T06:32:56.913Z",
+  "outageCount": 13,
   "firstOutage": "2025-10-27",
-  "lastOutage": "2026-08-23",
+  "lastOutage": "2026-08-24",
   "outages": [
+    {
+      "date": "Le lundi 24 août 2026 de  05:00:00 à  11:00:00",
+      "streets": "LAPELOUSE RESIDENCE PACIFIC TROU DEAU DOUCE",
+      "from": "2026-08-24T01:00:00.000Z",
+      "to": "2026-08-24T07:00:00.000Z",
+      "id": "894f235d8ef6f40e37810e69c3ff66c6"
+    },
     {
       "date": "Le dimanche 23 août 2026 de  17:00:00 à  19:00:00",
       "streets": "MONTEE BASTILLE TROU DEAU DOUCE",

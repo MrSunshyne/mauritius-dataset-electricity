@@ -1,8 +1,8 @@
 {
   "date": "2026-08-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-23T18:12:15.934Z",
-  "outageCount": 1,
+  "generated": "2026-08-24T06:32:56.813Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le mardi 25 août 2026 de  09:00:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-08-25T05:00:00.000Z",
       "to": "2026-08-25T13:00:00.000Z",
       "id": "fb5d5feeb96f61328e98a856f2e66aae"
+    },
+    {
+      "date": "Le mardi 25 août 2026 de  09:00:00 à  16:00:00",
+      "locality": "LA FLORA",
+      "localitySlug": "la-flora",
+      "streets": "Beau Climat, La Flora et Morc VRS et NHDC Grand Bois",
+      "district": "savanne",
+      "from": "2026-08-25T05:00:00.000Z",
+      "to": "2026-08-25T12:00:00.000Z",
+      "id": "195cb2ffe84d42cd291c91ce451a0253"
     }
   ]
 }

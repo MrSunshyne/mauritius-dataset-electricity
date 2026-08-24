@@ -2,11 +2,18 @@
   "slug": "belle-bue-allandy",
   "name": "BELLE BUE ALLANDY",
   "district": "flacq",
-  "generated": "2026-08-23T18:12:15.957Z",
-  "outageCount": 5,
+  "generated": "2026-08-24T06:32:56.834Z",
+  "outageCount": 6,
   "firstOutage": "2023-01-12",
-  "lastOutage": "2025-12-15",
+  "lastOutage": "2026-08-24",
   "outages": [
+    {
+      "date": "Le lundi 24 août 2026 de  10:00:00 à  14:00:00",
+      "streets": "Route Royale",
+      "from": "2026-08-24T06:00:00.000Z",
+      "to": "2026-08-24T10:00:00.000Z",
+      "id": "40122020fb890dd0cb473b238b41cfa6"
+    },
     {
       "date": "Le lundi 15 décembre 2025 de  10:10:00 à  11:15:00",
       "streets": "Constance Hospitality",

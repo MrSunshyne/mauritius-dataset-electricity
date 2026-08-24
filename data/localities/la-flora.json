@@ -2,11 +2,18 @@
   "slug": "la-flora",
   "name": "LA FLORA",
   "district": "savanne",
-  "generated": "2026-08-23T18:12:15.983Z",
-  "outageCount": 32,
+  "generated": "2026-08-24T06:32:56.867Z",
+  "outageCount": 33,
   "firstOutage": "2022-10-09",
-  "lastOutage": "2026-08-06",
+  "lastOutage": "2026-08-25",
   "outages": [
+    {
+      "date": "Le mardi 25 août 2026 de  09:00:00 à  16:00:00",
+      "streets": "Beau Climat, La Flora et Morc VRS et NHDC Grand Bois",
+      "from": "2026-08-25T05:00:00.000Z",
+      "to": "2026-08-25T12:00:00.000Z",
+      "id": "195cb2ffe84d42cd291c91ce451a0253"
+    },
     {
       "date": "Le jeudi 6 août 2026 de  09:00:00 à  16:00:00",
       "streets": "Ramshye Road, Bala Road, Shibnauth Lane, School Road, Sobha Lane, Kotwaroo Road, Bombay Road, Chummun Road, Runglall Road et Boston Road",

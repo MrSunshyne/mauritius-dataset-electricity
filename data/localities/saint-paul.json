@@ -2,11 +2,18 @@
   "slug": "saint-paul",
   "name": "SAINT PAUL",
   "district": "plainewilhems",
-  "generated": "2026-08-23T18:12:16.012Z",
-  "outageCount": 43,
+  "generated": "2026-08-24T06:32:56.903Z",
+  "outageCount": 44,
   "firstOutage": "2022-04-28",
-  "lastOutage": "2026-08-12",
+  "lastOutage": "2026-08-24",
   "outages": [
+    {
+      "date": "Le lundi 24 août 2026 de  09:00:00 à  10:00:00",
+      "streets": "Morc Koenig",
+      "from": "2026-08-24T05:00:00.000Z",
+      "to": "2026-08-24T06:00:00.000Z",
+      "id": "526247267e7353bd4aa7b40a61df4e6a"
+    },
     {
       "date": "Le mercredi 12 août 2026 de  08:30:00 à  17:15:00",
       "streets": "une partie de Route Royale, St Paul, Dhunny Lane 1, Dhunny Lane 2 et les environs",

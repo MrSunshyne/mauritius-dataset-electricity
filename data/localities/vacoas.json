@@ -2,11 +2,18 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-08-23T18:12:16.019Z",
-  "outageCount": 266,
+  "generated": "2026-08-24T06:32:56.915Z",
+  "outageCount": 267,
   "firstOutage": "2022-03-17",
   "lastOutage": "2026-08-24",
   "outages": [
+    {
+      "date": "Le lundi 24 août 2026 de  09:05:00 à  09:50:00",
+      "streets": "SOLFERINO No 5 Nr MGSS",
+      "from": "2026-08-24T05:05:00.000Z",
+      "to": "2026-08-24T05:50:00.000Z",
+      "id": "0271ef6f57900d8c45108d7b5836fc82"
+    },
     {
       "date": "Le lundi 24 août 2026 de  09:00:00 à  12:00:00",
       "streets": "Willoughby Road, Une partie de Decaen Road, Britania Road, Sufflock Road, et les environs",
