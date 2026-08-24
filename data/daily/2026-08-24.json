@@ -1,8 +1,8 @@
 {
   "date": "2026-08-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-24T17:20:08.158Z",
-  "outageCount": 8,
+  "generated": "2026-08-24T18:21:45.262Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le lundi 24 août 2026 de  10:00:00 à  14:00:00",
@@ -83,6 +83,16 @@
       "from": "2026-08-24T10:00:00.000Z",
       "to": "2026-08-24T13:00:00.000Z",
       "id": "c6d4d30c98cde3003038cf9f4e2aa245"
+    },
+    {
+      "date": "Le lundi 24 août 2026 de  19:00:00 à  00:45:00",
+      "locality": "TYACK",
+      "localitySlug": "tyack",
+      "streets": "CITE/NHDC TYACK",
+      "district": "savanne",
+      "from": "2026-08-24T15:00:00.000Z",
+      "to": "2026-08-23T20:45:00.000Z",
+      "id": "a14ee2d00e7eb717b99ebcb9a389e4f9"
     }
   ]
 }
