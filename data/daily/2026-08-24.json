@@ -1,8 +1,8 @@
 {
   "date": "2026-08-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-24T09:34:09.355Z",
-  "outageCount": 7,
+  "generated": "2026-08-24T10:25:37.853Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le lundi 24 août 2026 de  10:00:00 à  14:00:00",
@@ -73,6 +73,16 @@
       "from": "2026-08-24T05:00:00.000Z",
       "to": "2026-08-24T06:00:00.000Z",
       "id": "526247267e7353bd4aa7b40a61df4e6a"
+    },
+    {
+      "date": "Le lundi 24 août 2026 de  14:00:00 à  17:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "TAGORE RD, BALFOUR",
+      "district": "plainewilhems",
+      "from": "2026-08-24T10:00:00.000Z",
+      "to": "2026-08-24T13:00:00.000Z",
+      "id": "c6d4d30c98cde3003038cf9f4e2aa245"
     }
   ]
 }

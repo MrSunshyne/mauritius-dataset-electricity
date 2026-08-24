@@ -2,11 +2,18 @@
   "slug": "rose-hill",
   "name": "ROSE-HILL",
   "district": "plainewilhems",
-  "generated": "2026-08-24T09:34:09.465Z",
-  "outageCount": 187,
+  "generated": "2026-08-24T10:25:37.964Z",
+  "outageCount": 188,
   "firstOutage": "2022-05-20",
-  "lastOutage": "2026-08-19",
+  "lastOutage": "2026-08-24",
   "outages": [
+    {
+      "date": "Le lundi 24 août 2026 de  14:00:00 à  17:00:00",
+      "streets": "TAGORE RD, BALFOUR",
+      "from": "2026-08-24T10:00:00.000Z",
+      "to": "2026-08-24T13:00:00.000Z",
+      "id": "c6d4d30c98cde3003038cf9f4e2aa245"
+    },
     {
       "date": "Le mercredi 19 août 2026 de  16:00:00 à  17:30:00",
       "streets": "DR JEETOO, DR MANILAL, EN PARTIE AVENUE BERTHAUD, CHA TREFLES ET LES ENVIRONS.",
