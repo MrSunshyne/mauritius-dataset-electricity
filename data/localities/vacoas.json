@@ -2,11 +2,18 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-08-24T08:33:48.889Z",
-  "outageCount": 267,
+  "generated": "2026-08-24T09:34:09.480Z",
+  "outageCount": 268,
   "firstOutage": "2022-03-17",
-  "lastOutage": "2026-08-24",
+  "lastOutage": "2026-08-26",
   "outages": [
+    {
+      "date": "Le mercredi 26 août 2026 de  08:30:00 à  15:00:00",
+      "streets": "une partie de Route Granum, Morcellement Sauba ,Wilson Lane, Mudaliar road et les environ",
+      "from": "2026-08-26T04:30:00.000Z",
+      "to": "2026-08-26T11:00:00.000Z",
+      "id": "25b16891d0838502ca627be0067af439"
+    },
     {
       "date": "Le lundi 24 août 2026 de  09:05:00 à  09:50:00",
       "streets": "SOLFERINO No 5 Nr MGSS",
