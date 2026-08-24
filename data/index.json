@@ -3,7 +3,7 @@
   "description": "Automatically updated dataset of power outages in Mauritius",
   "source": "https://ceb.mu/customer-corner/power-outage-information",
   "repository": "https://github.com/MrSunshyne/mauritius-dataset-electricity",
-  "generated": "2026-08-24T12:21:57.969Z",
+  "generated": "2026-08-24T13:40:26.448Z",
   "timezone": "Indian/Mauritius",
   "schema": {
     "version": "2.0"
@@ -27,10 +27,10 @@
     }
   },
   "stats": {
-    "totalOutages": 11221,
+    "totalOutages": 11222,
     "dateRange": {
       "from": "2022-03-11",
-      "to": "2026-08-27"
+      "to": "2026-08-28"
     },
     "districtCount": 10,
     "localityCount": 459
