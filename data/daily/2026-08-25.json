@@ -1,9 +1,19 @@
 {
   "date": "2026-08-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-25T14:32:26.531Z",
-  "outageCount": 4,
+  "generated": "2026-08-25T15:31:24.592Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le mardi 25 août 2026 de  18:00:00 à  22:30:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "AVENUE CAPUCINES, EN PARTIE AVENUE DES ROSIERS, AVENUE TULIPES, AVENUE JASMIN, AVENUE DAHLIAH ET LES ENVIRONS.",
+      "district": "blackriver",
+      "from": "2026-08-25T14:00:00.000Z",
+      "to": "2026-08-25T18:30:00.000Z",
+      "id": "660c483a90d05f9d26040a88186715d7"
+    },
     {
       "date": "Le mardi 25 août 2026 de  11:30:00 à  16:30:00",
       "locality": "VACOAS",

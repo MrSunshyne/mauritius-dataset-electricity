@@ -2,11 +2,18 @@
   "slug": "albion",
   "name": "ALBION",
   "district": "blackriver",
-  "generated": "2026-08-25T14:32:26.549Z",
-  "outageCount": 133,
+  "generated": "2026-08-25T15:31:24.610Z",
+  "outageCount": 134,
   "firstOutage": "2022-06-06",
-  "lastOutage": "2026-08-08",
+  "lastOutage": "2026-08-25",
   "outages": [
+    {
+      "date": "Le mardi 25 août 2026 de  18:00:00 à  22:30:00",
+      "streets": "AVENUE CAPUCINES, EN PARTIE AVENUE DES ROSIERS, AVENUE TULIPES, AVENUE JASMIN, AVENUE DAHLIAH ET LES ENVIRONS.",
+      "from": "2026-08-25T14:00:00.000Z",
+      "to": "2026-08-25T18:30:00.000Z",
+      "id": "660c483a90d05f9d26040a88186715d7"
+    },
     {
       "date": "Le samedi 8 août 2026 de  08:30:00 à  15:00:00",
       "streets": "Phare Albion, Poultry Sairally, Gamma Workshop et Morc Belle Vue",
