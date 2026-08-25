@@ -1,9 +1,19 @@
 {
   "date": "2026-08-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-25T07:33:47.096Z",
-  "outageCount": 2,
+  "generated": "2026-08-25T08:27:47.186Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le mardi 25 août 2026 de  10:30:00 à  14:30:00",
+      "locality": "LA SALINE",
+      "localitySlug": "la-saline",
+      "streets": "Residence Seeneevassen,Coast Guard,Bouloux H.C,Govt School",
+      "district": "portlouis",
+      "from": "2026-08-25T06:30:00.000Z",
+      "to": "2026-08-25T10:30:00.000Z",
+      "id": "3a6fc0040f8ef2f8dcceb361c707eae1"
+    },
     {
       "date": "Le mardi 25 août 2026 de  09:00:00 à  17:00:00",
       "locality": "BANANES",
