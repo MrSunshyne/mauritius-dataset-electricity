@@ -1,9 +1,19 @@
 {
   "date": "2026-08-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-25T08:27:47.186Z",
-  "outageCount": 3,
+  "generated": "2026-08-25T09:22:34.150Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le mardi 25 août 2026 de  11:30:00 à  16:30:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Quinze Cantons,Terminus Hollyrood,Sunset Ville,Jagoo Lane,NHDC La Caverne",
+      "district": "plainewilhems",
+      "from": "2026-08-25T07:30:00.000Z",
+      "to": "2026-08-25T12:30:00.000Z",
+      "id": "0dcd7a6cd48d11129a2ef824449b52ee"
+    },
     {
       "date": "Le mardi 25 août 2026 de  10:30:00 à  14:30:00",
       "locality": "LA SALINE",

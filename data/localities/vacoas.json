@@ -2,8 +2,8 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-08-25T08:27:47.321Z",
-  "outageCount": 268,
+  "generated": "2026-08-25T09:22:34.228Z",
+  "outageCount": 269,
   "firstOutage": "2022-03-17",
   "lastOutage": "2026-08-26",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-08-26T04:30:00.000Z",
       "to": "2026-08-26T11:00:00.000Z",
       "id": "25b16891d0838502ca627be0067af439"
+    },
+    {
+      "date": "Le mardi 25 août 2026 de  11:30:00 à  16:30:00",
+      "streets": "Quinze Cantons,Terminus Hollyrood,Sunset Ville,Jagoo Lane,NHDC La Caverne",
+      "from": "2026-08-25T07:30:00.000Z",
+      "to": "2026-08-25T12:30:00.000Z",
+      "id": "0dcd7a6cd48d11129a2ef824449b52ee"
     },
     {
       "date": "Le lundi 24 août 2026 de  09:05:00 à  09:50:00",
