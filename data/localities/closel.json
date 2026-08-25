@@ -2,11 +2,18 @@
   "slug": "closel",
   "name": "CLOSEL",
   "district": "plainewilhems",
-  "generated": "2026-08-24T18:21:45.296Z",
-  "outageCount": 11,
+  "generated": "2026-08-25T06:24:11.341Z",
+  "outageCount": 12,
   "firstOutage": "2022-12-17",
-  "lastOutage": "2026-08-02",
+  "lastOutage": "2026-09-04",
   "outages": [
+    {
+      "date": "Le vendredi 4 septembre 2026 de  08:30:00 à  16:00:00",
+      "streets": "une partie de Avenue Remy Ollier, une partie de Indira Gandhi Road, Closel Road, Closel lane Closel Lane No. 1, une partie de Independence Street, Sivananda Ave, Mahant Kabir Road",
+      "from": "2026-09-04T04:30:00.000Z",
+      "to": "2026-09-04T12:00:00.000Z",
+      "id": "fb99730b2b40ece752764ee0e012b785"
+    },
     {
       "date": "Le dimanche 2 août 2026 de  08:30:00 à  18:30:00",
       "streets": "Closel Road et Carreau Lalliane habitant les régions et les rues suivantes : une partie de Avenue Remy Ollier, une partie de Indira Gandhi Road, Closel Road, Closel Lane, Closel Lane N0. 1, Cosmos Lane, une partie de Gopee lane, une partie de Seetohul Lane et les environs",
