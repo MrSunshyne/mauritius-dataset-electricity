@@ -1,8 +1,8 @@
 {
   "date": "2026-08-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-25T15:31:24.592Z",
-  "outageCount": 5,
+  "generated": "2026-08-25T16:21:55.872Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le mardi 25 août 2026 de  18:00:00 à  22:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-08-25T14:00:00.000Z",
       "to": "2026-08-25T18:30:00.000Z",
       "id": "660c483a90d05f9d26040a88186715d7"
+    },
+    {
+      "date": "Le mardi 25 août 2026 de  19:50:00 à  22:00:00",
+      "locality": "MOUNT",
+      "localitySlug": "mount",
+      "streets": "MOUNT",
+      "district": "pamplemousses",
+      "from": "2026-08-25T15:50:00.000Z",
+      "to": "2026-08-25T18:00:00.000Z",
+      "id": "ec2eceada314a4a0ec5d0966d22b6a42"
     },
     {
       "date": "Le mardi 25 août 2026 de  11:30:00 à  16:30:00",
