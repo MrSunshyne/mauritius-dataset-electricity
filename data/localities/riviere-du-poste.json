@@ -2,11 +2,18 @@
   "slug": "riviere-du-poste",
   "name": "RIVIERE DU POSTE",
   "district": "grandport",
-  "generated": "2026-08-25T16:21:55.984Z",
-  "outageCount": 18,
+  "generated": "2026-08-25T17:20:54.217Z",
+  "outageCount": 19,
   "firstOutage": "2022-09-24",
-  "lastOutage": "2026-06-18",
+  "lastOutage": "2026-08-25",
   "outages": [
+    {
+      "date": "Le mardi 25 août 2026 de  20:00:00 à  00:00:00",
+      "streets": "RIVIERE DU POSTE-MARE TABAC",
+      "from": "2026-08-25T16:00:00.000Z",
+      "to": "2026-08-24T20:00:00.000Z",
+      "id": "ea819963d2fd921ffba6b81b71ebb82e"
+    },
     {
       "date": "Le jeudi 18 juin 2026 de  09:00:00 à  17:00:00",
       "streets": "Riviere Du Poste et de Joli Bois",

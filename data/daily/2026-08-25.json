@@ -1,8 +1,8 @@
 {
   "date": "2026-08-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-25T16:21:55.872Z",
-  "outageCount": 6,
+  "generated": "2026-08-25T17:20:54.112Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le mardi 25 août 2026 de  18:00:00 à  22:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-08-25T14:00:00.000Z",
       "to": "2026-08-25T18:30:00.000Z",
       "id": "660c483a90d05f9d26040a88186715d7"
+    },
+    {
+      "date": "Le mardi 25 août 2026 de  20:00:00 à  00:00:00",
+      "locality": "RIVIERE DU POSTE",
+      "localitySlug": "riviere-du-poste",
+      "streets": "RIVIERE DU POSTE-MARE TABAC",
+      "district": "grandport",
+      "from": "2026-08-25T16:00:00.000Z",
+      "to": "2026-08-24T20:00:00.000Z",
+      "id": "ea819963d2fd921ffba6b81b71ebb82e"
     },
     {
       "date": "Le mardi 25 août 2026 de  19:50:00 à  22:00:00",
