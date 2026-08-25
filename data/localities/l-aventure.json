@@ -2,11 +2,18 @@
   "slug": "l-aventure",
   "name": "L-AVENTURE",
   "district": "flacq",
-  "generated": "2026-08-25T11:15:19.642Z",
-  "outageCount": 21,
+  "generated": "2026-08-25T12:22:36.430Z",
+  "outageCount": 22,
   "firstOutage": "2024-05-15",
-  "lastOutage": "2026-07-26",
+  "lastOutage": "2026-08-27",
   "outages": [
+    {
+      "date": "Le jeudi 27 août 2026 de  08:45:00 à  16:00:00",
+      "streets": "Laventure dans le périmètre de Royal Road, Temple Road, Shivala Road et Village Hall Lane.",
+      "from": "2026-08-27T04:45:00.000Z",
+      "to": "2026-08-27T12:00:00.000Z",
+      "id": "3eed801f90597099aac136998d4ad012"
+    },
     {
       "date": "Le dimanche 26 juillet 2026 de  08:30:00 à  17:00:00",
       "streets": "LAVENTURE, ETITE RETRAITE, GRANDE RETRAITE, PONT BLANC, BON ACCUEIL, BELLE VUE ALLENDY DANS LE PERIMETRE DE SOHATOO POULTRY, EMTEL LAVENTURE, ISKCON BON ACCUEIL ET POST OFFICE BON ACCUEIL.",
