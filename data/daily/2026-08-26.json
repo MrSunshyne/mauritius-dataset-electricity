@@ -1,8 +1,8 @@
 {
   "date": "2026-08-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-26T09:28:39.103Z",
-  "outageCount": 6,
+  "generated": "2026-08-26T10:22:21.918Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le mercredi 26 août 2026 de  08:50:00 à  12:30:00",
@@ -53,6 +53,16 @@
       "from": "2026-08-26T06:30:00.000Z",
       "to": "2026-08-26T10:00:00.000Z",
       "id": "c0d543216965962cbcd296fd22e98bb4"
+    },
+    {
+      "date": "Le mercredi 26 août 2026 de  14:00:00 à  15:30:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "LAMARIE CHEMIN MARE AUX VACOAS",
+      "district": "plainewilhems",
+      "from": "2026-08-26T10:00:00.000Z",
+      "to": "2026-08-26T11:30:00.000Z",
+      "id": "24515fc605a17f4ef743be9b998a57e6"
     },
     {
       "date": "Le mercredi 26 août 2026 de  09:00:00 à  16:00:00",
