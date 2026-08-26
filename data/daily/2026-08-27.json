@@ -1,8 +1,8 @@
 {
   "date": "2026-08-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-26T10:22:21.918Z",
-  "outageCount": 2,
+  "generated": "2026-08-26T11:17:54.129Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le jeudi 27 août 2026 de  08:45:00 à  16:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-08-27T09:00:00.000Z",
       "to": "2026-08-27T13:00:00.000Z",
       "id": "36c7f0502d2e5507c8e8e09faade970b"
+    },
+    {
+      "date": "Le jeudi 27 août 2026 de  09:00:00 à  11:00:00",
+      "locality": "SODNAC",
+      "localitySlug": "sodnac",
+      "streets": "Ave Tulipe, en partie Ave Talipots, Flat Bhunjun et les environs",
+      "district": "plainewilhems",
+      "from": "2026-08-27T05:00:00.000Z",
+      "to": "2026-08-27T07:00:00.000Z",
+      "id": "3ff4e3f136da1d7687fa12bdaff958bd"
     }
   ]
 }

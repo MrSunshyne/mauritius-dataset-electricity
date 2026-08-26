@@ -2,11 +2,18 @@
   "slug": "sodnac",
   "name": "SODNAC",
   "district": "plainewilhems",
-  "generated": "2026-08-26T10:22:22.015Z",
-  "outageCount": 53,
+  "generated": "2026-08-26T11:17:54.199Z",
+  "outageCount": 54,
   "firstOutage": "2022-05-30",
-  "lastOutage": "2026-08-23",
+  "lastOutage": "2026-08-27",
   "outages": [
+    {
+      "date": "Le jeudi 27 août 2026 de  09:00:00 à  11:00:00",
+      "streets": "Ave Tulipe, en partie Ave Talipots, Flat Bhunjun et les environs",
+      "from": "2026-08-27T05:00:00.000Z",
+      "to": "2026-08-27T07:00:00.000Z",
+      "id": "3ff4e3f136da1d7687fa12bdaff958bd"
+    },
     {
       "date": "Le dimanche 23 août 2026 de  13:30:00 à  18:00:00",
       "streets": "EN PARTIE SODNAC NEAR HARE RAMA",
