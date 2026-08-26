@@ -2,11 +2,18 @@
   "slug": "flic-en-flac",
   "name": "FLIC-EN-FLAC",
   "district": "blackriver",
-  "generated": "2026-08-25T18:21:02.574Z",
-  "outageCount": 236,
+  "generated": "2026-08-26T06:26:03.654Z",
+  "outageCount": 237,
   "firstOutage": "2022-03-16",
-  "lastOutage": "2026-08-15",
+  "lastOutage": "2026-08-26",
   "outages": [
+    {
+      "date": "Le mercredi 26 août 2026 de  08:50:00 à  11:30:00",
+      "streets": "CHASEE WALMART, CHASEE MAROUSSEM, TAMARINA, EMTEL CLARENCE & PART OF CASCAVEL",
+      "from": "2026-08-26T04:50:00.000Z",
+      "to": "2026-08-26T07:30:00.000Z",
+      "id": "2dcbdcfccfb65dab15a360cacb76dcdf"
+    },
     {
       "date": "Le samedi 15 août 2026 de  19:20:00 à  22:20:00",
       "streets": "BENGALIS AVE,TOURTEREAUX AVE,NEAR MANISHA HOTEL AND NEARBY REGION IN MORC DES CHAZAL",

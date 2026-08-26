@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-25T18:21:02.648Z",
+  "generated": "2026-08-26T06:26:03.709Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -232,10 +232,10 @@
       "slug": "bananes",
       "name": "BANANES",
       "district": "savanne",
-      "outageCount": 13,
+      "outageCount": 14,
       "file": "bananes.json",
       "firstOutage": "2022-03-14",
-      "lastOutage": "2026-08-28"
+      "lastOutage": "2026-09-01"
     },
     {
       "slug": "bar-le-duc",
@@ -1483,10 +1483,10 @@
       "slug": "flic-en-flac",
       "name": "FLIC-EN-FLAC",
       "district": "blackriver",
-      "outageCount": 236,
+      "outageCount": 237,
       "file": "flic-en-flac.json",
       "firstOutage": "2022-03-16",
-      "lastOutage": "2026-08-15"
+      "lastOutage": "2026-08-26"
     },
     {
       "slug": "floreal",

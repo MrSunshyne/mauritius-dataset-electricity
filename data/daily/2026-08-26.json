@@ -1,9 +1,19 @@
 {
   "date": "2026-08-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-25T18:21:02.515Z",
-  "outageCount": 3,
+  "generated": "2026-08-26T06:26:03.610Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le mercredi 26 août 2026 de  08:50:00 à  11:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "CHASEE WALMART, CHASEE MAROUSSEM, TAMARINA, EMTEL CLARENCE & PART OF CASCAVEL",
+      "district": "blackriver",
+      "from": "2026-08-26T04:50:00.000Z",
+      "to": "2026-08-26T07:30:00.000Z",
+      "id": "2dcbdcfccfb65dab15a360cacb76dcdf"
+    },
     {
       "date": "Le mercredi 26 août 2026 de  13:00:00 à  17:00:00",
       "locality": "PAILLOTTE",
