@@ -1,8 +1,8 @@
 {
   "date": "2026-08-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-26T06:26:03.610Z",
-  "outageCount": 4,
+  "generated": "2026-08-26T07:35:30.235Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le mercredi 26 août 2026 de  08:50:00 à  11:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-08-26T04:50:00.000Z",
       "to": "2026-08-26T07:30:00.000Z",
       "id": "2dcbdcfccfb65dab15a360cacb76dcdf"
+    },
+    {
+      "date": "Le mercredi 26 août 2026 de  10:30:00 à  14:00:00",
+      "locality": "CARREAU ACCACIA",
+      "localitySlug": "carreau-accacia",
+      "streets": "FROM CARREAU ACCASIA TO LE BOUCHON.",
+      "district": "grandport",
+      "from": "2026-08-26T06:30:00.000Z",
+      "to": "2026-08-26T10:00:00.000Z",
+      "id": "a63730b9e71e294dda73e32e62492c01"
     },
     {
       "date": "Le mercredi 26 août 2026 de  13:00:00 à  17:00:00",
@@ -33,6 +43,16 @@
       "from": "2026-08-26T04:30:00.000Z",
       "to": "2026-08-26T11:00:00.000Z",
       "id": "25b16891d0838502ca627be0067af439"
+    },
+    {
+      "date": "Le mercredi 26 août 2026 de  10:30:00 à  14:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "CITE LA BRASSERIE",
+      "district": "plainewilhems",
+      "from": "2026-08-26T06:30:00.000Z",
+      "to": "2026-08-26T10:00:00.000Z",
+      "id": "c0d543216965962cbcd296fd22e98bb4"
     },
     {
       "date": "Le mercredi 26 août 2026 de  09:00:00 à  16:00:00",
