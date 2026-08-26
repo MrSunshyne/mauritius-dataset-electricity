@@ -2,11 +2,18 @@
   "slug": "pamplemousses",
   "name": "PAMPLEMOUSSES",
   "district": "pamplemousses",
-  "generated": "2026-08-26T11:17:54.181Z",
-  "outageCount": 62,
+  "generated": "2026-08-26T12:24:52.858Z",
+  "outageCount": 63,
   "firstOutage": "2022-05-08",
-  "lastOutage": "2026-08-19",
+  "lastOutage": "2026-08-26",
   "outages": [
+    {
+      "date": "Le mercredi 26 août 2026 de  15:30:00 à  16:45:00",
+      "streets": "MORC JOKHOO MAISON BLANCHE",
+      "from": "2026-08-26T11:30:00.000Z",
+      "to": "2026-08-26T12:45:00.000Z",
+      "id": "71e9407067d8e4e2146a50360fbd3c04"
+    },
     {
       "date": "Le mercredi 19 août 2026 de  15:50:00 à  18:30:00",
       "streets": "MAISON BLANCHE, CANTON NANCY, CAMP DES EMBREVADES, JARDIN PAMPLEMOUSSES, MONT PITON, MOUNT, BOIS ROUGE.",

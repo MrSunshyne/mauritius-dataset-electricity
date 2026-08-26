@@ -1,8 +1,8 @@
 {
   "date": "2026-08-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-26T11:17:54.129Z",
-  "outageCount": 7,
+  "generated": "2026-08-26T12:24:52.785Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le mercredi 26 août 2026 de  08:50:00 à  12:30:00",
@@ -23,6 +23,16 @@
       "from": "2026-08-26T06:30:00.000Z",
       "to": "2026-08-26T10:00:00.000Z",
       "id": "a63730b9e71e294dda73e32e62492c01"
+    },
+    {
+      "date": "Le mercredi 26 août 2026 de  15:30:00 à  16:45:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "MORC JOKHOO MAISON BLANCHE",
+      "district": "pamplemousses",
+      "from": "2026-08-26T11:30:00.000Z",
+      "to": "2026-08-26T12:45:00.000Z",
+      "id": "71e9407067d8e4e2146a50360fbd3c04"
     },
     {
       "date": "Le mercredi 26 août 2026 de  13:00:00 à  17:00:00",
