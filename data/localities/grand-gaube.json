@@ -2,11 +2,18 @@
   "slug": "grand-gaube",
   "name": "GRAND GAUBE",
   "district": "rivieredurempart",
-  "generated": "2026-08-26T14:32:31.750Z",
-  "outageCount": 76,
+  "generated": "2026-08-26T16:07:39.349Z",
+  "outageCount": 77,
   "firstOutage": "2022-06-11",
-  "lastOutage": "2026-08-15",
+  "lastOutage": "2026-08-26",
   "outages": [
+    {
+      "date": "Le mercredi 26 août 2026 de  18:30:00 à  22:30:00",
+      "streets": "CHEMIN JOHN KENNEDY ET LES ALENTOURS.",
+      "from": "2026-08-26T14:30:00.000Z",
+      "to": "2026-08-26T18:30:00.000Z",
+      "id": "54e8a1d55d35c6afc978b35508049d95"
+    },
     {
       "date": "Le samedi 15 août 2026 de  12:00:00 à  16:00:00",
       "streets": "MORC SINFAT MELVILLE -PERE GLORIEUX GRAND GAUBE",

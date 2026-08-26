@@ -1,8 +1,8 @@
 {
   "date": "2026-08-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-26T14:32:31.688Z",
-  "outageCount": 8,
+  "generated": "2026-08-26T16:07:39.288Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le mercredi 26 août 2026 de  08:50:00 à  12:30:00",
@@ -73,6 +73,16 @@
       "from": "2026-08-26T10:00:00.000Z",
       "to": "2026-08-26T11:30:00.000Z",
       "id": "24515fc605a17f4ef743be9b998a57e6"
+    },
+    {
+      "date": "Le mercredi 26 août 2026 de  18:30:00 à  22:30:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "CHEMIN JOHN KENNEDY ET LES ALENTOURS.",
+      "district": "rivieredurempart",
+      "from": "2026-08-26T14:30:00.000Z",
+      "to": "2026-08-26T18:30:00.000Z",
+      "id": "54e8a1d55d35c6afc978b35508049d95"
     },
     {
       "date": "Le mercredi 26 août 2026 de  09:00:00 à  16:00:00",
