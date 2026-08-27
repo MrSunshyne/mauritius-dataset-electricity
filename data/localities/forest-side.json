@@ -2,11 +2,25 @@
   "slug": "forest-side",
   "name": "FOREST SIDE",
   "district": "plainewilhems",
-  "generated": "2026-08-26T18:44:43.723Z",
-  "outageCount": 104,
+  "generated": "2026-08-27T16:59:49.184Z",
+  "outageCount": 106,
   "firstOutage": "2022-07-03",
-  "lastOutage": "2026-08-26",
+  "lastOutage": "2026-08-30",
   "outages": [
+    {
+      "date": "Le dimanche 30 août 2026 de  10:00:00 à  14:00:00",
+      "streets": "une partie de Bour Lane et les ruelles avoisinantes",
+      "from": "2026-08-30T06:00:00.000Z",
+      "to": "2026-08-30T10:00:00.000Z",
+      "id": "50efcbe03941f6a703e76617a50307ff"
+    },
+    {
+      "date": "Le dimanche 30 août 2026 de  08:30:00 à  12:00:00",
+      "streets": "Residence St Luc, Impasse Bour et les ruelles avoisinantes",
+      "from": "2026-08-30T04:30:00.000Z",
+      "to": "2026-08-30T08:00:00.000Z",
+      "id": "ff73c134de7594e03a55fc7f6e488f3e"
+    },
     {
       "date": "Le mercredi 26 août 2026 de  10:30:00 à  14:00:00",
       "streets": "CITE LA BRASSERIE",

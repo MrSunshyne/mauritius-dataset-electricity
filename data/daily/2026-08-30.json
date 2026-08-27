@@ -1,0 +1,68 @@
+{
+  "date": "2026-08-30",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-08-27T16:59:49.140Z",
+  "outageCount": 6,
+  "outages": [
+    {
+      "date": "Le dimanche 30 août 2026 de  10:00:00 à  14:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "une partie de Bour Lane et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2026-08-30T06:00:00.000Z",
+      "to": "2026-08-30T10:00:00.000Z",
+      "id": "50efcbe03941f6a703e76617a50307ff"
+    },
+    {
+      "date": "Le dimanche 30 août 2026 de  08:30:00 à  12:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "Residence St Luc, Impasse Bour et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2026-08-30T04:30:00.000Z",
+      "to": "2026-08-30T08:00:00.000Z",
+      "id": "ff73c134de7594e03a55fc7f6e488f3e"
+    },
+    {
+      "date": "Le dimanche 30 août 2026 de  11:00:00 à  15:00:00",
+      "locality": "PAILLOTTE",
+      "localitySlug": "paillotte",
+      "streets": "partie de Sayyed Hossen Lane",
+      "district": "plainewilhems",
+      "from": "2026-08-30T07:00:00.000Z",
+      "to": "2026-08-30T11:00:00.000Z",
+      "id": "11695eb41b73f389cf6665dfc0cb4d8d"
+    },
+    {
+      "date": "Le dimanche 30 août 2026 de  09:00:00 à  12:00:00",
+      "locality": "PAILLOTTE",
+      "localitySlug": "paillotte",
+      "streets": "Partie de Paillotte, Mootoo Lane, Buttoo Lane, Unoop Lane",
+      "district": "plainewilhems",
+      "from": "2026-08-30T05:00:00.000Z",
+      "to": "2026-08-30T08:00:00.000Z",
+      "id": "e76fb512dd7827f16fdd72f4e2ce096e"
+    },
+    {
+      "date": "Le dimanche 30 août 2026 de  08:30:00 à  15:00:00",
+      "locality": "CASSIS",
+      "localitySlug": "cassis",
+      "streets": "Dans les environs des Rues Praslin, Tanner, Tamatave, Edgar Aubert, Celestin, Rushworth et Réserves",
+      "district": "portlouis",
+      "from": "2026-08-30T04:30:00.000Z",
+      "to": "2026-08-30T11:00:00.000Z",
+      "id": "9962c861360660fb7c175364a45047b1"
+    },
+    {
+      "date": "Le dimanche 30 août 2026 de  09:00:00 à  15:00:00",
+      "locality": "GRAND BOIS",
+      "localitySlug": "grand-bois",
+      "streets": "Bois Cheri, Grand Bois, Le Grand Road et NHDC Grand Bois",
+      "district": "savanne",
+      "from": "2026-08-30T05:00:00.000Z",
+      "to": "2026-08-30T11:00:00.000Z",
+      "id": "68ff0b39189cdca3d87d44a472108b3f"
+    }
+  ]
+}

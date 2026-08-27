@@ -2,11 +2,18 @@
   "slug": "grand-bois",
   "name": "GRAND BOIS",
   "district": "savanne",
-  "generated": "2026-08-26T18:44:43.728Z",
-  "outageCount": 21,
+  "generated": "2026-08-27T16:59:49.186Z",
+  "outageCount": 22,
   "firstOutage": "2022-09-15",
-  "lastOutage": "2026-06-17",
+  "lastOutage": "2026-08-30",
   "outages": [
+    {
+      "date": "Le dimanche 30 août 2026 de  09:00:00 à  15:00:00",
+      "streets": "Bois Cheri, Grand Bois, Le Grand Road et NHDC Grand Bois",
+      "from": "2026-08-30T05:00:00.000Z",
+      "to": "2026-08-30T11:00:00.000Z",
+      "id": "68ff0b39189cdca3d87d44a472108b3f"
+    },
     {
       "date": "Le mercredi 17 juin 2026 de  12:30:00 à  13:30:00",
       "streets": "Morc Grand Bois",

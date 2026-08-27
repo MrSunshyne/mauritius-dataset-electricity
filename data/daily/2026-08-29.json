@@ -1,8 +1,8 @@
 {
   "date": "2026-08-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-26T18:44:43.668Z",
-  "outageCount": 1,
+  "generated": "2026-08-27T16:59:49.140Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le samedi 29 août 2026 de  08:30:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-08-29T04:30:00.000Z",
       "to": "2026-08-29T11:00:00.000Z",
       "id": "bfb30e5fd53bd05ca66e9edcacf35f07"
+    },
+    {
+      "date": "Le samedi 29 août 2026 de  08:30:00 à  16:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "une partie de Leclezio Street, Higginson Street, Hazareesingh Street et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2026-08-29T04:30:00.000Z",
+      "to": "2026-08-29T12:00:00.000Z",
+      "id": "02387fb71913519e395eaa65564ec33d"
     }
   ]
 }
