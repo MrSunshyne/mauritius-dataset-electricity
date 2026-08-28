@@ -2,11 +2,18 @@
   "slug": "highlands",
   "name": "HIGHLANDS",
   "district": "plainewilhems",
-  "generated": "2026-08-28T01:18:07.968Z",
-  "outageCount": 84,
+  "generated": "2026-08-28T17:49:13.109Z",
+  "outageCount": 85,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2026-08-21",
+  "lastOutage": "2026-09-02",
   "outages": [
+    {
+      "date": "Le mercredi 2 septembre 2026 de  09:00:00 à  16:00:00",
+      "streets": "Bassin Road, Kennedia Lane Highlands",
+      "from": "2026-09-02T05:00:00.000Z",
+      "to": "2026-09-02T12:00:00.000Z",
+      "id": "1e361dbdbf82cb7cac7bcee028478ad3"
+    },
     {
       "date": "Le vendredi 21 août 2026 de  09:00:00 à  12:00:00",
       "streets": "Morcellement Soobraty, College Aleemeeah et les environs",

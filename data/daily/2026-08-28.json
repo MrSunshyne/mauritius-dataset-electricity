@@ -1,9 +1,49 @@
 {
   "date": "2026-08-28",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-28T01:18:07.918Z",
-  "outageCount": 1,
+  "generated": "2026-08-28T17:49:13.042Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le vendredi 28 août 2026 de  17:00:00 à  21:00:00",
+      "locality": "TROU D-EAU DOUCE",
+      "localitySlug": "trou-d-eau-douce",
+      "streets": "CHASEE BEAU RIVAGE ET ILE AUX CERF",
+      "district": "flacq",
+      "from": "2026-08-28T13:00:00.000Z",
+      "to": "2026-08-28T17:00:00.000Z",
+      "id": "5d83276ac1b78173f6136117bb72f345"
+    },
+    {
+      "date": "Le vendredi 28 août 2026 de  18:20:00 à  22:30:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "MORC REY & SURROUNDINGS",
+      "district": "portlouis",
+      "from": "2026-08-28T14:20:00.000Z",
+      "to": "2026-08-28T18:30:00.000Z",
+      "id": "290f8e74c3b6cb70b8704c91723b98a3"
+    },
+    {
+      "date": "Le vendredi 28 août 2026 de  17:45:00 à  21:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "DUCRAY ROAD & SURROUNDINGS",
+      "district": "portlouis",
+      "from": "2026-08-28T13:45:00.000Z",
+      "to": "2026-08-28T17:00:00.000Z",
+      "id": "7b53aaa98998ac7e12e7508c5dd05524"
+    },
+    {
+      "date": "Le vendredi 28 août 2026 de  18:40:00 à  23:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "MORC ST ANTOINE ET LES ALENTOURS",
+      "district": "rivieredurempart",
+      "from": "2026-08-28T14:40:00.000Z",
+      "to": "2026-08-28T19:00:00.000Z",
+      "id": "1f03f6984d039dc1b98e5743f98cca32"
+    },
     {
       "date": "Le vendredi 28 août 2026 de  09:00:00 à  17:00:00",
       "locality": "BANANES",

@@ -2,11 +2,18 @@
   "slug": "pereybere",
   "name": "PEREYBERE",
   "district": "rivieredurempart",
-  "generated": "2026-08-28T01:18:07.983Z",
-  "outageCount": 119,
+  "generated": "2026-08-28T17:49:13.131Z",
+  "outageCount": 120,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-08-15",
+  "lastOutage": "2026-08-30",
   "outages": [
+    {
+      "date": "Le dimanche 30 août 2026 de  09:00:00 à  12:00:00",
+      "streets": "Dans les environs ALLEE DU VERGER ROAD, PEREYBERe",
+      "from": "2026-08-30T05:00:00.000Z",
+      "to": "2026-08-30T08:00:00.000Z",
+      "id": "81d39a4ea1ef3b1f91719dacb04737a4"
+    },
     {
       "date": "Le samedi 15 août 2026 de  20:10:00 à  22:10:00",
       "streets": "BALI ST AND NEARBY REGION",

@@ -2,11 +2,18 @@
   "slug": "pointe-aux-sables",
   "name": "POINTE AUX SABLES",
   "district": "portlouis",
-  "generated": "2026-08-28T01:18:07.989Z",
-  "outageCount": 146,
+  "generated": "2026-08-28T17:49:13.141Z",
+  "outageCount": 147,
   "firstOutage": "2022-03-30",
-  "lastOutage": "2026-08-23",
+  "lastOutage": "2026-08-28",
   "outages": [
+    {
+      "date": "Le vendredi 28 août 2026 de  18:20:00 à  22:30:00",
+      "streets": "MORC REY & SURROUNDINGS",
+      "from": "2026-08-28T14:20:00.000Z",
+      "to": "2026-08-28T18:30:00.000Z",
+      "id": "290f8e74c3b6cb70b8704c91723b98a3"
+    },
     {
       "date": "Le dimanche 23 août 2026 de  20:30:00 à  22:30:00",
       "streets": "4 APPARTMENTS",

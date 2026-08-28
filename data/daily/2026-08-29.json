@@ -1,8 +1,8 @@
 {
   "date": "2026-08-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-28T01:18:07.918Z",
-  "outageCount": 2,
+  "generated": "2026-08-28T17:49:13.042Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le samedi 29 août 2026 de  08:30:00 à  15:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-08-29T04:30:00.000Z",
       "to": "2026-08-29T12:00:00.000Z",
       "id": "02387fb71913519e395eaa65564ec33d"
+    },
+    {
+      "date": "Le samedi 29 août 2026 de  08:00:00 à  14:00:00",
+      "locality": "SAINT MARTIN R-HILL",
+      "localitySlug": "saint-martin-r-hill",
+      "streets": "Bem Recycling, Master Breaders, Soreefarm et Hydro La Ferme",
+      "district": "plainewilhems",
+      "from": "2026-08-29T04:00:00.000Z",
+      "to": "2026-08-29T10:00:00.000Z",
+      "id": "c79fd70ece4edd7ef04bbd7e4c582d7c"
     }
   ]
 }

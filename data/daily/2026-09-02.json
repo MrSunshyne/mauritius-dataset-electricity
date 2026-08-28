@@ -1,9 +1,19 @@
 {
   "date": "2026-09-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-28T01:18:07.918Z",
-  "outageCount": 1,
+  "generated": "2026-08-28T17:49:13.042Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le mercredi 2 septembre 2026 de  09:00:00 à  16:00:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "Bassin Road, Kennedia Lane Highlands",
+      "district": "plainewilhems",
+      "from": "2026-09-02T05:00:00.000Z",
+      "to": "2026-09-02T12:00:00.000Z",
+      "id": "1e361dbdbf82cb7cac7bcee028478ad3"
+    },
     {
       "date": "Le mercredi 2 septembre 2026 de  10:00:00 à  13:00:00",
       "locality": "SAINTE CROIX",

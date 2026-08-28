@@ -2,8 +2,8 @@
   "slug": "sainte-croix",
   "name": "SAINTE CROIX",
   "district": "portlouis",
-  "generated": "2026-08-28T01:18:08.001Z",
-  "outageCount": 98,
+  "generated": "2026-08-28T17:49:13.160Z",
+  "outageCount": 99,
   "firstOutage": "2022-04-26",
   "lastOutage": "2026-09-02",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-09-02T06:00:00.000Z",
       "to": "2026-09-02T09:00:00.000Z",
       "id": "c3a5a9be29662191270cf2dd663b8be9"
+    },
+    {
+      "date": "Le vendredi 28 août 2026 de  17:45:00 à  21:00:00",
+      "streets": "DUCRAY ROAD & SURROUNDINGS",
+      "from": "2026-08-28T13:45:00.000Z",
+      "to": "2026-08-28T17:00:00.000Z",
+      "id": "7b53aaa98998ac7e12e7508c5dd05524"
     },
     {
       "date": "Le dimanche 23 août 2026 de  12:30:00 à  14:30:00",

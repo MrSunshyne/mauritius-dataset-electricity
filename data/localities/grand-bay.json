@@ -2,11 +2,18 @@
   "slug": "grand-bay",
   "name": "GRAND BAY",
   "district": "rivieredurempart",
-  "generated": "2026-08-28T01:18:07.963Z",
-  "outageCount": 121,
+  "generated": "2026-08-28T17:49:13.102Z",
+  "outageCount": 122,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-08-12",
+  "lastOutage": "2026-08-30",
   "outages": [
+    {
+      "date": "Le dimanche 30 août 2026 de  08:30:00 à  15:30:00",
+      "streets": "CITE LUMIERE, SOTTISE, GRAND BAY DANS LES PERIMETRES DE STATION DE POLICE, AZUR PARADISE ET LA RUE ORCHIDEE",
+      "from": "2026-08-30T04:30:00.000Z",
+      "to": "2026-08-30T11:30:00.000Z",
+      "id": "8d23c2f80553dfea38d969596af2434b"
+    },
     {
       "date": "Le mercredi 12 août 2026 de  09:00:00 à  15:00:00",
       "streets": "COASTAL ROAD, GERANIUM ROAD, TOPIZE ROAD AND CHA GRAND BAY.",

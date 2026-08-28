@@ -2,11 +2,18 @@
   "slug": "saint-martin-r-hill",
   "name": "SAINT MARTIN R-HILL",
   "district": "plainewilhems",
-  "generated": "2026-08-28T01:18:08.000Z",
-  "outageCount": 25,
+  "generated": "2026-08-28T17:49:13.159Z",
+  "outageCount": 26,
   "firstOutage": "2022-05-28",
-  "lastOutage": "2026-01-24",
+  "lastOutage": "2026-08-29",
   "outages": [
+    {
+      "date": "Le samedi 29 août 2026 de  08:00:00 à  14:00:00",
+      "streets": "Bem Recycling, Master Breaders, Soreefarm et Hydro La Ferme",
+      "from": "2026-08-29T04:00:00.000Z",
+      "to": "2026-08-29T10:00:00.000Z",
+      "id": "c79fd70ece4edd7ef04bbd7e4c582d7c"
+    },
     {
       "date": "Le samedi 24 janvier 2026 de  08:30:00 à  16:00:00",
       "streets": "Jardin St Martin, Porker, Ramnarain Rd et les environs",

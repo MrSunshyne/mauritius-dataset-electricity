@@ -1,8 +1,8 @@
 {
   "date": "2026-09-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-28T01:18:07.918Z",
-  "outageCount": 1,
+  "generated": "2026-08-28T17:49:13.042Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le mardi 1 septembre 2026 de  08:30:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-09-01T04:30:00.000Z",
       "to": "2026-09-01T13:00:00.000Z",
       "id": "89c2d302c1484eb462e3bc6b9287b874"
+    },
+    {
+      "date": "Le mardi 1 septembre 2026 de  09:00:00 à  15:00:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "NHDC Souillac et Morcellement Gris Gris",
+      "district": "savanne",
+      "from": "2026-09-01T05:00:00.000Z",
+      "to": "2026-09-01T11:00:00.000Z",
+      "id": "3b30f2c85656dc99ca332ef4e5635328"
     }
   ]
 }
