@@ -1,8 +1,8 @@
 {
   "date": "2026-08-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-29T15:52:19.575Z",
-  "outageCount": 12,
+  "generated": "2026-08-29T18:58:11.898Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le samedi 29 août 2026 de  15:00:00 à  18:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-08-29T13:30:00.000Z",
       "to": "2026-08-29T15:30:00.000Z",
       "id": "9e14489d63832e4045f270c6b0660133"
+    },
+    {
+      "date": "Le samedi 29 août 2026 de  21:30:00 à  00:00:00",
+      "locality": "DUBREUIL",
+      "localitySlug": "dubreuil",
+      "streets": "WOOTUN STREET, SHIVALA RD & SURROUNDINGS",
+      "district": "moka",
+      "from": "2026-08-29T17:30:00.000Z",
+      "to": "2026-08-28T20:00:00.000Z",
+      "id": "d1d60efd85958d08635bb3b2d9219bde"
     },
     {
       "date": "Le samedi 29 août 2026 de  08:30:00 à  15:00:00",

@@ -2,11 +2,18 @@
   "slug": "dubreuil",
   "name": "DUBREUIL",
   "district": "moka",
-  "generated": "2026-08-29T15:52:19.628Z",
-  "outageCount": 24,
+  "generated": "2026-08-29T18:58:11.934Z",
+  "outageCount": 25,
   "firstOutage": "2022-08-13",
-  "lastOutage": "2026-08-08",
+  "lastOutage": "2026-08-29",
   "outages": [
+    {
+      "date": "Le samedi 29 août 2026 de  21:30:00 à  00:00:00",
+      "streets": "WOOTUN STREET, SHIVALA RD & SURROUNDINGS",
+      "from": "2026-08-29T17:30:00.000Z",
+      "to": "2026-08-28T20:00:00.000Z",
+      "id": "d1d60efd85958d08635bb3b2d9219bde"
+    },
     {
       "date": "Le samedi 8 août 2026 de  08:30:00 à  14:00:00",
       "streets": "dans les environs de NHDC Dudreuil",
