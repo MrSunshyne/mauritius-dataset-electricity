@@ -2,11 +2,18 @@
   "slug": "beau-bassin",
   "name": "BEAU BASSIN",
   "district": "plainewilhems",
-  "generated": "2026-08-29T11:53:27.638Z",
-  "outageCount": 201,
+  "generated": "2026-08-29T15:52:19.598Z",
+  "outageCount": 202,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-08-20",
+  "lastOutage": "2026-08-29",
   "outages": [
+    {
+      "date": "Le samedi 29 août 2026 de  16:00:00 à  20:00:00",
+      "streets": "RUE SHAN/QUEEN ALEXANDRE NEAR BALFOUR",
+      "from": "2026-08-29T12:00:00.000Z",
+      "to": "2026-08-29T16:00:00.000Z",
+      "id": "89f90f054e10fda9a399b47cd9225ae5"
+    },
     {
       "date": "Le jeudi 20 août 2026 de  15:00:00 à  17:00:00",
       "streets": "Cascadella Court,Marcel Letang,Part Mare Gravier",

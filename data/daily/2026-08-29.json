@@ -1,8 +1,8 @@
 {
   "date": "2026-08-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-29T11:53:27.614Z",
-  "outageCount": 9,
+  "generated": "2026-08-29T15:52:19.575Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le samedi 29 août 2026 de  15:00:00 à  18:00:00",
@@ -15,6 +15,16 @@
       "id": "aff9c53665a03f1a986bd230043d39f1"
     },
     {
+      "date": "Le samedi 29 août 2026 de  15:00:00 à  21:00:00",
+      "locality": "CHAMAREL",
+      "localitySlug": "chamarel",
+      "streets": "CHAMAREL",
+      "district": "blackriver",
+      "from": "2026-08-29T11:00:00.000Z",
+      "to": "2026-08-29T17:00:00.000Z",
+      "id": "04a2862612f5f2d2a3fed3dc3c6e9112"
+    },
+    {
       "date": "Le samedi 29 août 2026 de  07:00:00 à  12:00:00",
       "locality": "TROU D-EAU DOUCE",
       "localitySlug": "trou-d-eau-douce",
@@ -23,6 +33,16 @@
       "from": "2026-08-29T03:00:00.000Z",
       "to": "2026-08-29T08:00:00.000Z",
       "id": "6fc9a473fb427524ca37dc24e35fc23b"
+    },
+    {
+      "date": "Le samedi 29 août 2026 de  17:30:00 à  19:30:00",
+      "locality": "RICHEMARE",
+      "localitySlug": "richemare",
+      "streets": "COTAYAH ROADRICHE MARE",
+      "district": "flacq",
+      "from": "2026-08-29T13:30:00.000Z",
+      "to": "2026-08-29T15:30:00.000Z",
+      "id": "9e14489d63832e4045f270c6b0660133"
     },
     {
       "date": "Le samedi 29 août 2026 de  08:30:00 à  15:00:00",
@@ -75,6 +95,16 @@
       "id": "c79fd70ece4edd7ef04bbd7e4c582d7c"
     },
     {
+      "date": "Le samedi 29 août 2026 de  16:00:00 à  20:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "RUE SHAN/QUEEN ALEXANDRE NEAR BALFOUR",
+      "district": "plainewilhems",
+      "from": "2026-08-29T12:00:00.000Z",
+      "to": "2026-08-29T16:00:00.000Z",
+      "id": "89f90f054e10fda9a399b47cd9225ae5"
+    },
+    {
       "date": "Le samedi 29 août 2026 de  13:00:00 à  18:00:00",
       "locality": "POINTE AUX SABLES",
       "localitySlug": "pointe-aux-sables",
@@ -85,14 +115,14 @@
       "id": "aa074e4c6b1e098687be0289a6ebe778"
     },
     {
-      "date": "Le samedi 29 août 2026 de  13:55:00 à  18:00:00",
+      "date": "Le samedi 29 août 2026 de  13:55:00 à  20:00:00",
       "locality": "POINTE DES LASCARS",
       "localitySlug": "pointe-des-lascars",
       "streets": "WHOLE OF POINTE DES LASCARS.",
       "district": "rivieredurempart",
       "from": "2026-08-29T09:55:00.000Z",
-      "to": "2026-08-29T14:00:00.000Z",
-      "id": "4d4681cb118a885e35b6c65c70263f5d"
+      "to": "2026-08-29T16:00:00.000Z",
+      "id": "c8dc6dda83005e2fd00abff0094eb901"
     }
   ]
 }
