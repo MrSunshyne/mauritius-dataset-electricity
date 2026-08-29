@@ -1,9 +1,19 @@
 {
   "date": "2026-08-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-28T17:49:13.042Z",
-  "outageCount": 3,
+  "generated": "2026-08-29T01:15:07.852Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le samedi 29 août 2026 de  07:00:00 à  12:00:00",
+      "locality": "TROU D-EAU DOUCE",
+      "localitySlug": "trou-d-eau-douce",
+      "streets": "CHASEE BEAU RIVAGE ET ILE AUX CERF",
+      "district": "flacq",
+      "from": "2026-08-29T03:00:00.000Z",
+      "to": "2026-08-29T08:00:00.000Z",
+      "id": "6fc9a473fb427524ca37dc24e35fc23b"
+    },
     {
       "date": "Le samedi 29 août 2026 de  08:30:00 à  15:00:00",
       "locality": "MORC SAINT ANDRE",

@@ -2,11 +2,18 @@
   "slug": "trou-d-eau-douce",
   "name": "TROU D-EAU DOUCE",
   "district": "flacq",
-  "generated": "2026-08-28T17:49:13.171Z",
-  "outageCount": 14,
+  "generated": "2026-08-29T01:15:07.961Z",
+  "outageCount": 15,
   "firstOutage": "2025-10-27",
-  "lastOutage": "2026-08-28",
+  "lastOutage": "2026-08-29",
   "outages": [
+    {
+      "date": "Le samedi 29 août 2026 de  07:00:00 à  12:00:00",
+      "streets": "CHASEE BEAU RIVAGE ET ILE AUX CERF",
+      "from": "2026-08-29T03:00:00.000Z",
+      "to": "2026-08-29T08:00:00.000Z",
+      "id": "6fc9a473fb427524ca37dc24e35fc23b"
+    },
     {
       "date": "Le vendredi 28 août 2026 de  17:00:00 à  21:00:00",
       "streets": "CHASEE BEAU RIVAGE ET ILE AUX CERF",
