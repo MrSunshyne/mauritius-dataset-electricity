@@ -1,9 +1,19 @@
 {
   "date": "2026-08-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-29T01:15:07.852Z",
-  "outageCount": 4,
+  "generated": "2026-08-29T11:53:27.614Z",
+  "outageCount": 9,
   "outages": [
+    {
+      "date": "Le samedi 29 août 2026 de  15:00:00 à  18:00:00",
+      "locality": "CASE NOYALE",
+      "localitySlug": "case-noyale",
+      "streets": "CASE NOYALE/CHAMAREL",
+      "district": "blackriver",
+      "from": "2026-08-29T11:00:00.000Z",
+      "to": "2026-08-29T14:00:00.000Z",
+      "id": "aff9c53665a03f1a986bd230043d39f1"
+    },
     {
       "date": "Le samedi 29 août 2026 de  07:00:00 à  12:00:00",
       "locality": "TROU D-EAU DOUCE",
@@ -25,6 +35,26 @@
       "id": "bfb30e5fd53bd05ca66e9edcacf35f07"
     },
     {
+      "date": "Le samedi 29 août 2026 de  14:00:00 à  17:00:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "PAMPLEMOUSSES,MORC MOUNT, MON GOUT, MONT PITON, PART OF CALEBASSES, BOIS ROUGE",
+      "district": "pamplemousses",
+      "from": "2026-08-29T10:00:00.000Z",
+      "to": "2026-08-29T13:00:00.000Z",
+      "id": "8f430e2b85852a6cd1f0ec90c3db77e7"
+    },
+    {
+      "date": "Le samedi 29 août 2026 de  12:00:00 à  16:00:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "MORC MAISON BLANCHE.",
+      "district": "pamplemousses",
+      "from": "2026-08-29T08:00:00.000Z",
+      "to": "2026-08-29T12:00:00.000Z",
+      "id": "652f991a1eb9e898ce86f6a7fc4ee594"
+    },
+    {
       "date": "Le samedi 29 août 2026 de  08:30:00 à  16:00:00",
       "locality": "CUREPIPE",
       "localitySlug": "curepipe",
@@ -43,6 +73,26 @@
       "from": "2026-08-29T04:00:00.000Z",
       "to": "2026-08-29T10:00:00.000Z",
       "id": "c79fd70ece4edd7ef04bbd7e4c582d7c"
+    },
+    {
+      "date": "Le samedi 29 août 2026 de  13:00:00 à  18:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "ROYAL RD/COASTAL RD DANS LES ENVIRONS FISHERIES.",
+      "district": "portlouis",
+      "from": "2026-08-29T09:00:00.000Z",
+      "to": "2026-08-29T14:00:00.000Z",
+      "id": "aa074e4c6b1e098687be0289a6ebe778"
+    },
+    {
+      "date": "Le samedi 29 août 2026 de  13:55:00 à  18:00:00",
+      "locality": "POINTE DES LASCARS",
+      "localitySlug": "pointe-des-lascars",
+      "streets": "WHOLE OF POINTE DES LASCARS.",
+      "district": "rivieredurempart",
+      "from": "2026-08-29T09:55:00.000Z",
+      "to": "2026-08-29T14:00:00.000Z",
+      "id": "4d4681cb118a885e35b6c65c70263f5d"
     }
   ]
 }

@@ -2,11 +2,18 @@
   "slug": "case-noyale",
   "name": "CASE NOYALE",
   "district": "blackriver",
-  "generated": "2026-08-29T01:15:07.889Z",
-  "outageCount": 4,
+  "generated": "2026-08-29T11:53:27.656Z",
+  "outageCount": 5,
   "firstOutage": "2023-11-10",
-  "lastOutage": "2025-11-10",
+  "lastOutage": "2026-08-29",
   "outages": [
+    {
+      "date": "Le samedi 29 août 2026 de  15:00:00 à  18:00:00",
+      "streets": "CASE NOYALE/CHAMAREL",
+      "from": "2026-08-29T11:00:00.000Z",
+      "to": "2026-08-29T14:00:00.000Z",
+      "id": "aff9c53665a03f1a986bd230043d39f1"
+    },
     {
       "date": "Le lundi 10 novembre 2025 de  13:30:00 à  15:00:00",
       "streets": "CASE NOYALE",

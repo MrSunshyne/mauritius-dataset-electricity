@@ -2,11 +2,18 @@
   "slug": "pointe-aux-sables",
   "name": "POINTE AUX SABLES",
   "district": "portlouis",
-  "generated": "2026-08-29T01:15:07.935Z",
-  "outageCount": 147,
+  "generated": "2026-08-29T11:53:27.711Z",
+  "outageCount": 148,
   "firstOutage": "2022-03-30",
-  "lastOutage": "2026-08-28",
+  "lastOutage": "2026-08-29",
   "outages": [
+    {
+      "date": "Le samedi 29 août 2026 de  13:00:00 à  18:00:00",
+      "streets": "ROYAL RD/COASTAL RD DANS LES ENVIRONS FISHERIES.",
+      "from": "2026-08-29T09:00:00.000Z",
+      "to": "2026-08-29T14:00:00.000Z",
+      "id": "aa074e4c6b1e098687be0289a6ebe778"
+    },
     {
       "date": "Le vendredi 28 août 2026 de  18:20:00 à  22:30:00",
       "streets": "MORC REY & SURROUNDINGS",

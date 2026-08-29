@@ -2,11 +2,18 @@
   "slug": "pointe-des-lascars",
   "name": "POINTE DES LASCARS",
   "district": "rivieredurempart",
-  "generated": "2026-08-29T01:15:07.936Z",
-  "outageCount": 10,
+  "generated": "2026-08-29T11:53:27.712Z",
+  "outageCount": 11,
   "firstOutage": "2022-07-06",
-  "lastOutage": "2026-02-16",
+  "lastOutage": "2026-08-29",
   "outages": [
+    {
+      "date": "Le samedi 29 août 2026 de  13:55:00 à  18:00:00",
+      "streets": "WHOLE OF POINTE DES LASCARS.",
+      "from": "2026-08-29T09:55:00.000Z",
+      "to": "2026-08-29T14:00:00.000Z",
+      "id": "4d4681cb118a885e35b6c65c70263f5d"
+    },
     {
       "date": "Le lundi 16 février 2026 de  06:00:00 à  12:00:00",
       "streets": "",

@@ -2,11 +2,25 @@
   "slug": "pamplemousses",
   "name": "PAMPLEMOUSSES",
   "district": "pamplemousses",
-  "generated": "2026-08-29T01:15:07.928Z",
-  "outageCount": 63,
+  "generated": "2026-08-29T11:53:27.702Z",
+  "outageCount": 65,
   "firstOutage": "2022-05-08",
-  "lastOutage": "2026-08-26",
+  "lastOutage": "2026-08-29",
   "outages": [
+    {
+      "date": "Le samedi 29 août 2026 de  14:00:00 à  17:00:00",
+      "streets": "PAMPLEMOUSSES,MORC MOUNT, MON GOUT, MONT PITON, PART OF CALEBASSES, BOIS ROUGE",
+      "from": "2026-08-29T10:00:00.000Z",
+      "to": "2026-08-29T13:00:00.000Z",
+      "id": "8f430e2b85852a6cd1f0ec90c3db77e7"
+    },
+    {
+      "date": "Le samedi 29 août 2026 de  12:00:00 à  16:00:00",
+      "streets": "MORC MAISON BLANCHE.",
+      "from": "2026-08-29T08:00:00.000Z",
+      "to": "2026-08-29T12:00:00.000Z",
+      "id": "652f991a1eb9e898ce86f6a7fc4ee594"
+    },
     {
       "date": "Le mercredi 26 août 2026 de  15:30:00 à  16:45:00",
       "streets": "MORC JOKHOO MAISON BLANCHE",

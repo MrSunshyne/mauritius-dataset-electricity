@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-29T01:15:07.967Z",
+  "generated": "2026-08-29T11:53:27.745Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -970,10 +970,10 @@
       "slug": "case-noyale",
       "name": "CASE NOYALE",
       "district": "blackriver",
-      "outageCount": 4,
+      "outageCount": 5,
       "file": "case-noyale.json",
       "firstOutage": "2023-11-10",
-      "lastOutage": "2025-11-10"
+      "lastOutage": "2026-08-29"
     },
     {
       "slug": "cassis",
@@ -2698,10 +2698,10 @@
       "slug": "pamplemousses",
       "name": "PAMPLEMOUSSES",
       "district": "pamplemousses",
-      "outageCount": 63,
+      "outageCount": 65,
       "file": "pamplemousses.json",
       "firstOutage": "2022-05-08",
-      "lastOutage": "2026-08-26"
+      "lastOutage": "2026-08-29"
     },
     {
       "slug": "patate-theophille",
@@ -3013,10 +3013,10 @@
       "slug": "pointe-aux-sables",
       "name": "POINTE AUX SABLES",
       "district": "portlouis",
-      "outageCount": 147,
+      "outageCount": 148,
       "file": "pointe-aux-sables.json",
       "firstOutage": "2022-03-30",
-      "lastOutage": "2026-08-28"
+      "lastOutage": "2026-08-29"
     },
     {
       "slug": "pointe-d-esny",
@@ -3040,10 +3040,10 @@
       "slug": "pointe-des-lascars",
       "name": "POINTE DES LASCARS",
       "district": "rivieredurempart",
-      "outageCount": 10,
+      "outageCount": 11,
       "file": "pointe-des-lascars.json",
       "firstOutage": "2022-07-06",
-      "lastOutage": "2026-02-16"
+      "lastOutage": "2026-08-29"
     },
     {
       "slug": "pompee",
