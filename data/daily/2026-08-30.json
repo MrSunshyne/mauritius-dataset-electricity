@@ -1,8 +1,8 @@
 {
   "date": "2026-08-30",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-29T18:58:11.898Z",
-  "outageCount": 8,
+  "generated": "2026-08-30T10:50:40.908Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le dimanche 30 août 2026 de  10:00:00 à  14:00:00",
@@ -83,6 +83,16 @@
       "from": "2026-08-30T05:00:00.000Z",
       "to": "2026-08-30T11:00:00.000Z",
       "id": "68ff0b39189cdca3d87d44a472108b3f"
+    },
+    {
+      "date": "Le dimanche 30 août 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Graviers,Morc Var brulee,Trefles,Patate Theophile,Grande Montagne a Riviere Banane",
+      "district": "rodrigues",
+      "from": "2026-08-30T04:30:00.000Z",
+      "to": "2026-08-30T11:00:00.000Z",
+      "id": "3c6f37a7b3c07e3d5fca1b51eccdbc46"
     }
   ]
 }
