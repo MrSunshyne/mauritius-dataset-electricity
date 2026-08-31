@@ -2,11 +2,18 @@
   "slug": "carreau-esnouf",
   "name": "CARREAU ESNOUF",
   "district": "grandport",
-  "generated": "2026-08-30T18:54:04.595Z",
-  "outageCount": 5,
+  "generated": "2026-08-31T12:00:58.936Z",
+  "outageCount": 6,
   "firstOutage": "2025-08-11",
-  "lastOutage": "2026-07-27",
+  "lastOutage": "2026-08-31",
   "outages": [
+    {
+      "date": "Le lundi 31 août 2026 de  09:00:00 à  14:00:00",
+      "streets": "Carreau Esnouf",
+      "from": "2026-08-31T05:00:00.000Z",
+      "to": "2026-08-31T10:00:00.000Z",
+      "id": "0d79252825a6e7fc98aa0e1e1e4cb79d"
+    },
     {
       "date": "Le lundi 27 juillet 2026 de  13:00:00 à  15:00:00",
       "streets": "Carreau Esnouf habitant dans le périmètre et les rues suivantes:Maurifarm Quarantaine, EMTEL Technopolis et Union",

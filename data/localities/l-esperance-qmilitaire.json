@@ -2,11 +2,18 @@
   "slug": "l-esperance-qmilitaire",
   "name": "L-ESPERANCE Q.MILITAIRE",
   "district": "moka",
-  "generated": "2026-08-30T18:54:04.620Z",
-  "outageCount": 8,
+  "generated": "2026-08-31T12:00:58.963Z",
+  "outageCount": 9,
   "firstOutage": "2022-06-17",
-  "lastOutage": "2025-08-13",
+  "lastOutage": "2026-08-31",
   "outages": [
+    {
+      "date": "Le lundi 31 août 2026 de  13:30:00 à  15:00:00",
+      "streets": "dans les environs de LEsperance Quartier Militaire et Bonneveine road",
+      "from": "2026-08-31T09:30:00.000Z",
+      "to": "2026-08-31T11:00:00.000Z",
+      "id": "84891f8ade9e4346808c4d7f9e3cc1f1"
+    },
     {
       "date": "Le mercredi 13 août 2025 de  08:30:00 à  15:00:00",
       "streets": "dans les environs de LEscalier road et une partie du Route Royale",

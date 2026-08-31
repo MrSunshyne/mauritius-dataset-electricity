@@ -2,11 +2,18 @@
   "slug": "la-mivoie",
   "name": "LA MIVOIE",
   "district": "blackriver",
-  "generated": "2026-08-30T18:54:04.625Z",
-  "outageCount": 13,
+  "generated": "2026-08-31T12:00:58.966Z",
+  "outageCount": 14,
   "firstOutage": "2022-03-11",
-  "lastOutage": "2026-07-15",
+  "lastOutage": "2026-08-31",
   "outages": [
+    {
+      "date": "Le lundi 31 août 2026 de  13:30:00 à  17:30:00",
+      "streets": "LA MIVOIE ET LA PRENEUSE",
+      "from": "2026-08-31T09:30:00.000Z",
+      "to": "2026-08-31T13:30:00.000Z",
+      "id": "839372ea06d71d3322ae321b24ec2fd2"
+    },
     {
       "date": "Le mercredi 15 juillet 2026 de  09:10:00 à  12:00:00",
       "streets": "LA MIVOIE,MORC MON CALME,PART OF TAMARIN",

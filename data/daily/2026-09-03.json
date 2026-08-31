@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-03",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-08-31T12:00:58.896Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le jeudi 3 septembre 2026 de  09:00:00 à  15:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "Replacement rotten poles at La Brasserie",
+      "district": "plainewilhems",
+      "from": "2026-09-03T05:00:00.000Z",
+      "to": "2026-09-03T11:00:00.000Z",
+      "id": "acf5e692a8cc3ac0f440f6b42cd65726"
+    },
+    {
+      "date": "Le jeudi 3 septembre 2026 de  12:00:00 à  13:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "Forest Side : Residence  St Luc, Bourg street, Residence Atlee, NHDC La Colombe, NHDC Jasmin, Residence Atlee",
+      "district": "plainewilhems",
+      "from": "2026-09-03T08:00:00.000Z",
+      "to": "2026-09-03T09:00:00.000Z",
+      "id": "d65f1257478f7f747ae2c25a69ccf307"
+    }
+  ]
+}

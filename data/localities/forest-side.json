@@ -2,11 +2,25 @@
   "slug": "forest-side",
   "name": "FOREST SIDE",
   "district": "plainewilhems",
-  "generated": "2026-08-30T18:54:04.611Z",
-  "outageCount": 106,
+  "generated": "2026-08-31T12:00:58.955Z",
+  "outageCount": 108,
   "firstOutage": "2022-07-03",
-  "lastOutage": "2026-08-30",
+  "lastOutage": "2026-09-03",
   "outages": [
+    {
+      "date": "Le jeudi 3 septembre 2026 de  12:00:00 à  13:00:00",
+      "streets": "Forest Side : Residence  St Luc, Bourg street, Residence Atlee, NHDC La Colombe, NHDC Jasmin, Residence Atlee",
+      "from": "2026-09-03T08:00:00.000Z",
+      "to": "2026-09-03T09:00:00.000Z",
+      "id": "d65f1257478f7f747ae2c25a69ccf307"
+    },
+    {
+      "date": "Le jeudi 3 septembre 2026 de  09:00:00 à  15:00:00",
+      "streets": "Replacement rotten poles at La Brasserie",
+      "from": "2026-09-03T05:00:00.000Z",
+      "to": "2026-09-03T11:00:00.000Z",
+      "id": "acf5e692a8cc3ac0f440f6b42cd65726"
+    },
     {
       "date": "Le dimanche 30 août 2026 de  10:00:00 à  14:00:00",
       "streets": "une partie de Bour Lane et les ruelles avoisinantes",
