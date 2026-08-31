@@ -2,11 +2,18 @@
   "slug": "bois-cheri",
   "name": "BOIS CHERI",
   "district": "savanne",
-  "generated": "2026-08-31T12:00:58.926Z",
-  "outageCount": 34,
+  "generated": "2026-08-31T19:17:14.176Z",
+  "outageCount": 35,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-08-05",
+  "lastOutage": "2026-08-31",
   "outages": [
+    {
+      "date": "Le lundi 31 août 2026 de  21:00:00 à  02:00:00",
+      "streets": "MAMBAHAL ROADBOIS CHERI",
+      "from": "2026-08-31T17:00:00.000Z",
+      "to": "2026-08-30T22:00:00.000Z",
+      "id": "ea4f79ce3393cade4c546074dd9ec372"
+    },
     {
       "date": "Le mercredi 5 août 2026 de  08:30:00 à  16:00:00",
       "streets": "CHEMIN MAMBAHAL BOIS CHERI",

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-31",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-31T12:00:58.896Z",
-  "outageCount": 3,
+  "generated": "2026-08-31T19:17:14.149Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le lundi 31 août 2026 de  13:30:00 à  17:30:00",
@@ -33,6 +33,36 @@
       "from": "2026-08-31T09:30:00.000Z",
       "to": "2026-08-31T11:00:00.000Z",
       "id": "84891f8ade9e4346808c4d7f9e3cc1f1"
+    },
+    {
+      "date": "Le lundi 31 août 2026 de  20:00:00 à  00:00:00",
+      "locality": "GRANDE POINTE AUX PIMENTS",
+      "localitySlug": "grande-pointe-aux-piments",
+      "streets": "CARNATION STREET -JONCTION RD-MORC BRIJMOHUN-MORC SEA AND VIEW GRANDE POINTE AUX PIMENTS",
+      "district": "pamplemousses",
+      "from": "2026-08-31T16:00:00.000Z",
+      "to": "2026-08-30T20:00:00.000Z",
+      "id": "ae0d8c78cf411c5c945280821b12f502"
+    },
+    {
+      "date": "Le lundi 31 août 2026 de  18:00:00 à  23:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "ROUTE HUGNIN, BOUNDARY ROAD ET DANS LES ALENTOURS EGLISE ST PATRICK.",
+      "district": "plainewilhems",
+      "from": "2026-08-31T14:00:00.000Z",
+      "to": "2026-08-31T19:00:00.000Z",
+      "id": "d857c63e334b60fec14368e768be7deb"
+    },
+    {
+      "date": "Le lundi 31 août 2026 de  21:00:00 à  02:00:00",
+      "locality": "BOIS CHERI",
+      "localitySlug": "bois-cheri",
+      "streets": "MAMBAHAL ROADBOIS CHERI",
+      "district": "savanne",
+      "from": "2026-08-31T17:00:00.000Z",
+      "to": "2026-08-30T22:00:00.000Z",
+      "id": "ea4f79ce3393cade4c546074dd9ec372"
     }
   ]
 }

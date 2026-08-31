@@ -2,11 +2,18 @@
   "slug": "rose-hill",
   "name": "ROSE-HILL",
   "district": "plainewilhems",
-  "generated": "2026-08-31T12:00:59.008Z",
-  "outageCount": 188,
+  "generated": "2026-08-31T19:17:14.236Z",
+  "outageCount": 189,
   "firstOutage": "2022-05-20",
-  "lastOutage": "2026-08-24",
+  "lastOutage": "2026-08-31",
   "outages": [
+    {
+      "date": "Le lundi 31 août 2026 de  18:00:00 à  23:00:00",
+      "streets": "ROUTE HUGNIN, BOUNDARY ROAD ET DANS LES ALENTOURS EGLISE ST PATRICK.",
+      "from": "2026-08-31T14:00:00.000Z",
+      "to": "2026-08-31T19:00:00.000Z",
+      "id": "d857c63e334b60fec14368e768be7deb"
+    },
     {
       "date": "Le lundi 24 août 2026 de  14:00:00 à  17:00:00",
       "streets": "TAGORE RD, BALFOUR",

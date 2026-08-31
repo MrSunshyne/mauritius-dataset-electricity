@@ -2,11 +2,18 @@
   "slug": "grande-pointe-aux-piments",
   "name": "GRANDE POINTE AUX PIMENTS",
   "district": "pamplemousses",
-  "generated": "2026-08-31T12:00:58.959Z",
-  "outageCount": 11,
+  "generated": "2026-08-31T19:17:14.200Z",
+  "outageCount": 12,
   "firstOutage": "2022-04-16",
-  "lastOutage": "2026-07-06",
+  "lastOutage": "2026-08-31",
   "outages": [
+    {
+      "date": "Le lundi 31 août 2026 de  20:00:00 à  00:00:00",
+      "streets": "CARNATION STREET -JONCTION RD-MORC BRIJMOHUN-MORC SEA AND VIEW GRANDE POINTE AUX PIMENTS",
+      "from": "2026-08-31T16:00:00.000Z",
+      "to": "2026-08-30T20:00:00.000Z",
+      "id": "ae0d8c78cf411c5c945280821b12f502"
+    },
     {
       "date": "Le lundi 6 juillet 2026 de  10:40:00 à  15:00:00",
       "streets": "PEARL RESIDENCE,COASTAL ROAD",
