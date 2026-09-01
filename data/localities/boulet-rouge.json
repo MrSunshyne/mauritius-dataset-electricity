@@ -2,11 +2,18 @@
   "slug": "boulet-rouge",
   "name": "BOULET ROUGE",
   "district": "flacq",
-  "generated": "2026-08-31T19:17:14.178Z",
-  "outageCount": 15,
+  "generated": "2026-09-01T10:40:12.638Z",
+  "outageCount": 16,
   "firstOutage": "2022-12-14",
-  "lastOutage": "2026-08-14",
+  "lastOutage": "2026-09-02",
   "outages": [
+    {
+      "date": "Le mercredi 2 septembre 2026 de  08:30:00 à  16:00:00",
+      "streets": "Bonne Mere Village, Camp Garreau et Boulet Rouge dans le périmètre de Winners Boulet Rouge.",
+      "from": "2026-09-02T04:30:00.000Z",
+      "to": "2026-09-02T12:00:00.000Z",
+      "id": "3af143ce022cb3214d4ce8afbe2b838b"
+    },
     {
       "date": "Le vendredi 14 août 2026 de  12:00:00 à  14:00:00",
       "streets": "MORC BOULET ROUGE",

@@ -1,9 +1,19 @@
 {
   "date": "2026-09-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-08-31T19:17:14.149Z",
-  "outageCount": 2,
+  "generated": "2026-09-01T10:40:12.610Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le mercredi 2 septembre 2026 de  08:30:00 à  16:00:00",
+      "locality": "BOULET ROUGE",
+      "localitySlug": "boulet-rouge",
+      "streets": "Bonne Mere Village, Camp Garreau et Boulet Rouge dans le périmètre de Winners Boulet Rouge.",
+      "district": "flacq",
+      "from": "2026-09-02T04:30:00.000Z",
+      "to": "2026-09-02T12:00:00.000Z",
+      "id": "3af143ce022cb3214d4ce8afbe2b838b"
+    },
     {
       "date": "Le mercredi 2 septembre 2026 de  09:00:00 à  16:00:00",
       "locality": "HIGHLANDS",

@@ -2,11 +2,18 @@
   "slug": "16eme-mile",
   "name": "16EME MILE",
   "district": "plainewilhems",
-  "generated": "2026-08-31T19:17:14.162Z",
-  "outageCount": 65,
+  "generated": "2026-09-01T10:40:12.622Z",
+  "outageCount": 66,
   "firstOutage": "2022-05-31",
-  "lastOutage": "2026-08-19",
+  "lastOutage": "2026-09-06",
   "outages": [
+    {
+      "date": "Le dimanche 6 septembre 2026 de  08:30:00 à  16:00:00",
+      "streets": "Royal Road 16eme Mille, Residence Anoushkha, Residence Mon Bois, Morc Domah, Morc Ramphul et ruelles avoisinantes",
+      "from": "2026-09-06T04:30:00.000Z",
+      "to": "2026-09-06T12:00:00.000Z",
+      "id": "3a61ce310688d5d856f5123c44883b07"
+    },
     {
       "date": "Le mercredi 19 août 2026 de  15:30:00 à  16:30:00",
       "streets": "La Ferme, Pistache, Montagne Croupier, Piment Reposoir, Baie Topaze et Camp Pintade",

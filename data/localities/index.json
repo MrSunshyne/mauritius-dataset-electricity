@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31T19:17:14.251Z",
+  "generated": "2026-09-01T10:40:12.730Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -7,10 +7,10 @@
       "slug": "16eme-mile",
       "name": "16EME MILE",
       "district": "plainewilhems",
-      "outageCount": 65,
+      "outageCount": 66,
       "file": "16eme-mile.json",
       "firstOutage": "2022-05-31",
-      "lastOutage": "2026-08-19"
+      "lastOutage": "2026-09-06"
     },
     {
       "slug": "abercrombie",
@@ -619,10 +619,10 @@
       "slug": "boulet-rouge",
       "name": "BOULET ROUGE",
       "district": "flacq",
-      "outageCount": 15,
+      "outageCount": 16,
       "file": "boulet-rouge.json",
       "firstOutage": "2022-12-14",
-      "lastOutage": "2026-08-14"
+      "lastOutage": "2026-09-02"
     },
     {
       "slug": "boulingrin",
@@ -3391,10 +3391,10 @@
       "slug": "riviere-des-anguilles",
       "name": "RIVIERE DES ANGUILLES",
       "district": "savanne",
-      "outageCount": 44,
+      "outageCount": 45,
       "file": "riviere-des-anguilles.json",
       "firstOutage": "2022-04-13",
-      "lastOutage": "2026-07-29"
+      "lastOutage": "2026-09-01"
     },
     {
       "slug": "riviere-des-creoles",
@@ -3499,10 +3499,10 @@
       "slug": "rose-belle",
       "name": "ROSE BELLE",
       "district": "grandport",
-      "outageCount": 85,
+      "outageCount": 86,
       "file": "rose-belle.json",
       "firstOutage": "2022-05-12",
-      "lastOutage": "2026-08-07"
+      "lastOutage": "2026-09-01"
     },
     {
       "slug": "rose-hill",
@@ -3751,7 +3751,7 @@
       "slug": "souillac",
       "name": "SOUILLAC",
       "district": "savanne",
-      "outageCount": 84,
+      "outageCount": 85,
       "file": "souillac.json",
       "firstOutage": "2022-06-05",
       "lastOutage": "2026-09-01"
@@ -3778,10 +3778,10 @@
       "slug": "tamarin",
       "name": "TAMARIN",
       "district": "blackriver",
-      "outageCount": 82,
+      "outageCount": 83,
       "file": "tamarin.json",
       "firstOutage": "2022-03-13",
-      "lastOutage": "2026-07-28"
+      "lastOutage": "2026-09-01"
     },
     {
       "slug": "tamarind-falls",

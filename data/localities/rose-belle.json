@@ -2,11 +2,18 @@
   "slug": "rose-belle",
   "name": "ROSE BELLE",
   "district": "grandport",
-  "generated": "2026-08-31T19:17:14.235Z",
-  "outageCount": 85,
+  "generated": "2026-09-01T10:40:12.711Z",
+  "outageCount": 86,
   "firstOutage": "2022-05-12",
-  "lastOutage": "2026-08-07",
+  "lastOutage": "2026-09-01",
   "outages": [
+    {
+      "date": "Le mardi 1 septembre 2026 de  09:00:00 à  15:00:00",
+      "streets": "TELEGU TEMPLE RD",
+      "from": "2026-09-01T05:00:00.000Z",
+      "to": "2026-09-01T11:00:00.000Z",
+      "id": "27655e492a64c0abd810bd4398c4fb98"
+    },
     {
       "date": "Le vendredi 7 août 2026 de  09:00:00 à  12:00:00",
       "streets": "Rose Belle habitant dans le périmètre et les rues suivantes :  Gebert Road, Royal Road Baramia, et Mon Fertile",
