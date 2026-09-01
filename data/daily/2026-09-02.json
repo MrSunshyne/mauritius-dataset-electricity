@@ -1,8 +1,8 @@
 {
   "date": "2026-09-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-01T10:40:12.610Z",
-  "outageCount": 3,
+  "generated": "2026-09-01T15:16:20.995Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le mercredi 2 septembre 2026 de  08:30:00 à  16:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-09-02T05:00:00.000Z",
       "to": "2026-09-02T12:00:00.000Z",
       "id": "1e361dbdbf82cb7cac7bcee028478ad3"
+    },
+    {
+      "date": "Le mercredi 2 septembre 2026 de  15:00:00 à  16:30:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "une partie de Route Royale Phoenix, Iqbal Road, QFC, Loul Bakery, une partie de Hassen Raffa Road",
+      "district": "plainewilhems",
+      "from": "2026-09-02T11:00:00.000Z",
+      "to": "2026-09-02T12:30:00.000Z",
+      "id": "b744585e8b32319e29ce679c373b719f"
     },
     {
       "date": "Le mercredi 2 septembre 2026 de  10:00:00 à  13:00:00",

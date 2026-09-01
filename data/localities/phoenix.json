@@ -2,11 +2,25 @@
   "slug": "phoenix",
   "name": "PHOENIX",
   "district": "plainewilhems",
-  "generated": "2026-09-01T10:40:12.693Z",
-  "outageCount": 118,
+  "generated": "2026-09-01T15:16:21.092Z",
+  "outageCount": 120,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-08-13",
+  "lastOutage": "2026-09-03",
   "outages": [
+    {
+      "date": "Le jeudi 3 septembre 2026 de  13:00:00 à  17:00:00",
+      "streets": "Une partie de Route Royal Phoenix",
+      "from": "2026-09-03T09:00:00.000Z",
+      "to": "2026-09-03T13:00:00.000Z",
+      "id": "6cda8cea5da50ec9c9418399607c7368"
+    },
+    {
+      "date": "Le mercredi 2 septembre 2026 de  15:00:00 à  16:30:00",
+      "streets": "une partie de Route Royale Phoenix, Iqbal Road, QFC, Loul Bakery, une partie de Hassen Raffa Road",
+      "from": "2026-09-02T11:00:00.000Z",
+      "to": "2026-09-02T12:30:00.000Z",
+      "id": "b744585e8b32319e29ce679c373b719f"
+    },
     {
       "date": "Le jeudi 13 août 2026 de  13:30:00 à  15:30:00",
       "streets": "Route Royale, Phoenix, Cite Palmerston, Palmerston, Phoenix et les environ",
