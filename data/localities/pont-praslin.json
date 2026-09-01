@@ -2,11 +2,18 @@
   "slug": "pont-praslin",
   "name": "PONT PRASLIN",
   "district": "pamplemousses",
-  "generated": "2026-09-01T15:16:21.100Z",
-  "outageCount": 3,
+  "generated": "2026-09-01T18:56:29.434Z",
+  "outageCount": 4,
   "firstOutage": "2024-01-11",
-  "lastOutage": "2026-06-21",
+  "lastOutage": "2026-09-01",
   "outages": [
+    {
+      "date": "Le mardi 1 septembre 2026 de  22:30:00 à  01:30:00",
+      "streets": "UNE PARTIE DE PONT PRALIN",
+      "from": "2026-09-01T18:30:00.000Z",
+      "to": "2026-08-31T21:30:00.000Z",
+      "id": "5df103f98c3da31f4385388520fb32d4"
+    },
     {
       "date": "Le dimanche 21 juin 2026 de  19:30:00 à  21:30:00",
       "streets": "PONT PRASLIN,M D-AUSTRALIA",

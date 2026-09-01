@@ -2,11 +2,18 @@
   "slug": "camp-des-embrevades",
   "name": "CAMP DES EMBREVADES",
   "district": "pamplemousses",
-  "generated": "2026-09-01T15:16:21.030Z",
-  "outageCount": 16,
+  "generated": "2026-09-01T18:56:29.372Z",
+  "outageCount": 17,
   "firstOutage": "2022-11-05",
-  "lastOutage": "2026-03-01",
+  "lastOutage": "2026-09-01",
   "outages": [
+    {
+      "date": "Le mardi 1 septembre 2026 de  21:20:00 à  22:50:00",
+      "streets": "CAMP DES EMBREVADES",
+      "from": "2026-09-01T17:20:00.000Z",
+      "to": "2026-09-01T18:50:00.000Z",
+      "id": "1aac72aedf3eb272e4f1d843496018bf"
+    },
     {
       "date": "Le dimanche 1 mars 2026 de  09:00:00 à  12:00:00",
       "streets": "WHOLE REGION",
