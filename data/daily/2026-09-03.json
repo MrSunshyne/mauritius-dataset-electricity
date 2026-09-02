@@ -1,9 +1,29 @@
 {
   "date": "2026-09-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-02T10:05:46.265Z",
-  "outageCount": 3,
+  "generated": "2026-09-02T14:47:11.756Z",
+  "outageCount": 7,
   "outages": [
+    {
+      "date": "Le jeudi 3 septembre 2026 de  15:00:00 à  16:00:00",
+      "locality": "BELVEDERE ( LALLMATIE )",
+      "localitySlug": "belvedere",
+      "streets": "Mission Cross Rd,Branch Rd Bon Accueil, La Tapie, Bon Accueil Village, Grand Bas Fond et Grande Retraite.",
+      "district": "flacq",
+      "from": "2026-09-03T11:00:00.000Z",
+      "to": "2026-09-03T12:00:00.000Z",
+      "id": "1a3ab8625cc4d4996d292d66260d62e4"
+    },
+    {
+      "date": "Le jeudi 3 septembre 2026 de  08:30:00 à  17:00:00",
+      "locality": "BELVEDERE ( LALLMATIE )",
+      "localitySlug": "belvedere",
+      "streets": "BELVEDERE, SALAZIE, PONT BON DIEU, BRISEE VERDIERE.",
+      "district": "flacq",
+      "from": "2026-09-03T04:30:00.000Z",
+      "to": "2026-09-03T13:00:00.000Z",
+      "id": "4f54e416a4d8a31b42fcd8d6751ad0f5"
+    },
     {
       "date": "Le jeudi 3 septembre 2026 de  09:00:00 à  15:00:00",
       "locality": "FOREST SIDE",
@@ -33,6 +53,26 @@
       "from": "2026-09-03T09:00:00.000Z",
       "to": "2026-09-03T13:00:00.000Z",
       "id": "6cda8cea5da50ec9c9418399607c7368"
+    },
+    {
+      "date": "Le jeudi 3 septembre 2026 de  08:30:00 à  15:30:00",
+      "locality": "CITE CHEBEL",
+      "localitySlug": "cite-chebel",
+      "streets": "CHEBEL, RESIDENCE CHEBEQUE, CENTRE MUNICIPALE SIR GAETAN DUVAL, RESIDENCE LOTUS, WMA CHEBEQUE et LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2026-09-03T04:30:00.000Z",
+      "to": "2026-09-03T11:30:00.000Z",
+      "id": "ea1b96fa7f58b13b3fa915b000939602"
+    },
+    {
+      "date": "Le jeudi 3 septembre 2026 de  12:00:00 à  13:30:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Anse Aux Anglais, Morcellement Terre Rouge, Caverne Provert et Jean Tac",
+      "district": "rodrigues",
+      "from": "2026-09-03T08:00:00.000Z",
+      "to": "2026-09-03T09:30:00.000Z",
+      "id": "c6a68730f80b3966ea26408203fb2ee4"
     }
   ]
 }

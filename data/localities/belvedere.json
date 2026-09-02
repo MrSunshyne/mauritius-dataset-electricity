@@ -2,11 +2,25 @@
   "slug": "belvedere",
   "name": "BELVEDERE ( BEAU BASSIN )",
   "district": "flacq",
-  "generated": "2026-09-02T10:05:46.291Z",
-  "outageCount": 11,
+  "generated": "2026-09-02T14:47:11.772Z",
+  "outageCount": 13,
   "firstOutage": "2023-01-21",
-  "lastOutage": "2026-03-21",
+  "lastOutage": "2026-09-03",
   "outages": [
+    {
+      "date": "Le jeudi 3 septembre 2026 de  15:00:00 à  16:00:00",
+      "streets": "Mission Cross Rd,Branch Rd Bon Accueil, La Tapie, Bon Accueil Village, Grand Bas Fond et Grande Retraite.",
+      "from": "2026-09-03T11:00:00.000Z",
+      "to": "2026-09-03T12:00:00.000Z",
+      "id": "1a3ab8625cc4d4996d292d66260d62e4"
+    },
+    {
+      "date": "Le jeudi 3 septembre 2026 de  08:30:00 à  17:00:00",
+      "streets": "BELVEDERE, SALAZIE, PONT BON DIEU, BRISEE VERDIERE.",
+      "from": "2026-09-03T04:30:00.000Z",
+      "to": "2026-09-03T13:00:00.000Z",
+      "id": "4f54e416a4d8a31b42fcd8d6751ad0f5"
+    },
     {
       "date": "Le samedi 21 mars 2026 de  20:20:00 à  22:30:00",
       "streets": "Pont Bon Dieu,Belvedere,Bon Accueil Branch Rd,Part Brisee Verdiere",

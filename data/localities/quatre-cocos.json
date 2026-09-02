@@ -2,11 +2,18 @@
   "slug": "quatre-cocos",
   "name": "QUATRE COCOS",
   "district": "flacq",
-  "generated": "2026-09-02T10:05:46.350Z",
-  "outageCount": 19,
+  "generated": "2026-09-02T14:47:11.809Z",
+  "outageCount": 20,
   "firstOutage": "2022-05-20",
-  "lastOutage": "2026-06-22",
+  "lastOutage": "2026-09-02",
   "outages": [
+    {
+      "date": "Le mercredi 2 septembre 2026 de  17:45:00 à  23:00:00",
+      "streets": "QUATRE COCOS, MARE LA CHAUX & PALMAR VILLAGE",
+      "from": "2026-09-02T13:45:00.000Z",
+      "to": "2026-09-02T19:00:00.000Z",
+      "id": "1b2c86f9f150ad3059bd74d0dd28579b"
+    },
     {
       "date": "Le lundi 22 juin 2026 de  15:00:00 à  17:00:00",
       "streets": "Quatre Cocos",

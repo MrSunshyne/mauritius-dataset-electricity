@@ -2,11 +2,18 @@
   "slug": "petit-raffray",
   "name": "PETIT RAFFRAY",
   "district": "rivieredurempart",
-  "generated": "2026-09-02T10:05:46.338Z",
-  "outageCount": 84,
+  "generated": "2026-09-02T14:47:11.802Z",
+  "outageCount": 85,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-08-10",
+  "lastOutage": "2026-09-02",
   "outages": [
+    {
+      "date": "Le mercredi 2 septembre 2026 de  16:00:00 à  23:00:00",
+      "streets": "FORET DARUTY,UPPER VALE",
+      "from": "2026-09-02T12:00:00.000Z",
+      "to": "2026-09-02T19:00:00.000Z",
+      "id": "827368e5e9dce48bd4dd6c3b4ac09df2"
+    },
     {
       "date": "Le lundi 10 août 2026 de  19:38:00 à  21:38:00",
       "streets": "SCHOOL LANE.GOWRISUNGKUR LANE",

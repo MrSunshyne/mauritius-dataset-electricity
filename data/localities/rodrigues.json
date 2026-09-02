@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-09-02T10:05:46.357Z",
-  "outageCount": 261,
+  "generated": "2026-09-02T14:47:11.812Z",
+  "outageCount": 262,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-08-30",
+  "lastOutage": "2026-09-03",
   "outages": [
+    {
+      "date": "Le jeudi 3 septembre 2026 de  12:00:00 à  13:30:00",
+      "streets": "Anse Aux Anglais, Morcellement Terre Rouge, Caverne Provert et Jean Tac",
+      "from": "2026-09-03T08:00:00.000Z",
+      "to": "2026-09-03T09:30:00.000Z",
+      "id": "c6a68730f80b3966ea26408203fb2ee4"
+    },
     {
       "date": "Le dimanche 30 août 2026 de  08:30:00 à  15:00:00",
       "streets": "Graviers,Morc Var brulee,Trefles,Patate Theophile,Grande Montagne a Riviere Banane",

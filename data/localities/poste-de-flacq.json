@@ -2,11 +2,18 @@
   "slug": "poste-de-flacq",
   "name": "POSTE DE FLACQ",
   "district": "flacq",
-  "generated": "2026-09-02T10:05:46.347Z",
-  "outageCount": 42,
+  "generated": "2026-09-02T14:47:11.807Z",
+  "outageCount": 43,
   "firstOutage": "2022-06-12",
-  "lastOutage": "2026-07-03",
+  "lastOutage": "2026-09-02",
   "outages": [
+    {
+      "date": "Le mercredi 2 septembre 2026 de  16:15:00 à  20:15:00",
+      "streets": "DUNCAN ST,DEBARCADERE ST,PETER WHITE LANE AND NEARBY REGION",
+      "from": "2026-09-02T12:15:00.000Z",
+      "to": "2026-09-02T16:15:00.000Z",
+      "id": "b31b3d844d5f5b40211a16a4c17cd612"
+    },
     {
       "date": "Le vendredi 3 juillet 2026 de  00:00:00 à  03:00:00",
       "streets": "LA PORT PROVIDENCE POSTE DE FLACQ",

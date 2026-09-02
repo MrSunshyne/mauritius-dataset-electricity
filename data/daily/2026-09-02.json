@@ -1,8 +1,8 @@
 {
   "date": "2026-09-02",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-02T10:05:46.265Z",
-  "outageCount": 9,
+  "generated": "2026-09-02T14:47:11.756Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le mercredi 2 septembre 2026 de  11:15:00 à  12:30:00",
@@ -23,6 +23,26 @@
       "from": "2026-09-02T04:30:00.000Z",
       "to": "2026-09-02T12:00:00.000Z",
       "id": "3af143ce022cb3214d4ce8afbe2b838b"
+    },
+    {
+      "date": "Le mercredi 2 septembre 2026 de  17:45:00 à  23:00:00",
+      "locality": "QUATRE COCOS",
+      "localitySlug": "quatre-cocos",
+      "streets": "QUATRE COCOS, MARE LA CHAUX & PALMAR VILLAGE",
+      "district": "flacq",
+      "from": "2026-09-02T13:45:00.000Z",
+      "to": "2026-09-02T19:00:00.000Z",
+      "id": "1b2c86f9f150ad3059bd74d0dd28579b"
+    },
+    {
+      "date": "Le mercredi 2 septembre 2026 de  16:15:00 à  20:15:00",
+      "locality": "POSTE DE FLACQ",
+      "localitySlug": "poste-de-flacq",
+      "streets": "DUNCAN ST,DEBARCADERE ST,PETER WHITE LANE AND NEARBY REGION",
+      "district": "flacq",
+      "from": "2026-09-02T12:15:00.000Z",
+      "to": "2026-09-02T16:15:00.000Z",
+      "id": "b31b3d844d5f5b40211a16a4c17cd612"
     },
     {
       "date": "Le mercredi 2 septembre 2026 de  11:30:00 à  13:30:00",
@@ -73,6 +93,16 @@
       "from": "2026-09-02T06:00:00.000Z",
       "to": "2026-09-02T09:00:00.000Z",
       "id": "c3a5a9be29662191270cf2dd663b8be9"
+    },
+    {
+      "date": "Le mercredi 2 septembre 2026 de  16:00:00 à  23:00:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "FORET DARUTY,UPPER VALE",
+      "district": "rivieredurempart",
+      "from": "2026-09-02T12:00:00.000Z",
+      "to": "2026-09-02T19:00:00.000Z",
+      "id": "827368e5e9dce48bd4dd6c3b4ac09df2"
     },
     {
       "date": "Le mercredi 2 septembre 2026 de  13:45:00 à  15:45:00",
