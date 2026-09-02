@@ -2,11 +2,18 @@
   "slug": "montagne-ory",
   "name": "MONTAGNE ORY",
   "district": "moka",
-  "generated": "2026-09-01T18:56:29.418Z",
-  "outageCount": 12,
+  "generated": "2026-09-02T10:05:46.332Z",
+  "outageCount": 13,
   "firstOutage": "2023-01-14",
-  "lastOutage": "2026-08-22",
+  "lastOutage": "2026-09-02",
   "outages": [
+    {
+      "date": "Le mercredi 2 septembre 2026 de  12:00:00 à  14:00:00",
+      "streets": "WHOLE REGION",
+      "from": "2026-09-02T08:00:00.000Z",
+      "to": "2026-09-02T10:00:00.000Z",
+      "id": "f7fa41146f859613df68763aeb0d7c92"
+    },
     {
       "date": "Le samedi 22 août 2026 de  07:00:00 à  15:00:00",
       "streets": "Mount Ory Road et School Lane",

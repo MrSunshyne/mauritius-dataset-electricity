@@ -2,11 +2,18 @@
   "slug": "bananes",
   "name": "BANANES",
   "district": "savanne",
-  "generated": "2026-09-01T18:56:29.358Z",
-  "outageCount": 14,
+  "generated": "2026-09-02T10:05:46.285Z",
+  "outageCount": 15,
   "firstOutage": "2022-03-14",
-  "lastOutage": "2026-09-01",
+  "lastOutage": "2026-09-02",
   "outages": [
+    {
+      "date": "Le mercredi 2 septembre 2026 de  11:30:00 à  13:30:00",
+      "streets": "WHOLE REGION",
+      "from": "2026-09-02T07:30:00.000Z",
+      "to": "2026-09-02T09:30:00.000Z",
+      "id": "857952ab5fe6889f55b15fa0e1ef7115"
+    },
     {
       "date": "Le mardi 1 septembre 2026 de  08:30:00 à  17:00:00",
       "streets": "Bananes et Cluny habitant dans le périmètre et les rues suivantes : Eau Bleu, Eau Bleu Poultry, CWA Eau Bleu Tostée, MTS Bananes, CWA Pumping Cluny, Domaine La Grave, Hydroponique Beemanique et une partie de la Route Royale Cluny",

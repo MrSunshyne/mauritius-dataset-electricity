@@ -2,11 +2,18 @@
   "slug": "bambous",
   "name": "BAMBOUS",
   "district": "blackriver",
-  "generated": "2026-09-01T18:56:29.357Z",
-  "outageCount": 124,
+  "generated": "2026-09-02T10:05:46.284Z",
+  "outageCount": 125,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-08-12",
+  "lastOutage": "2026-09-02",
   "outages": [
+    {
+      "date": "Le mercredi 2 septembre 2026 de  11:15:00 à  12:30:00",
+      "streets": "CITE LAFERME BAMBOUS",
+      "from": "2026-09-02T07:15:00.000Z",
+      "to": "2026-09-02T08:30:00.000Z",
+      "id": "65396649453e63a54fac9160c4212d41"
+    },
     {
       "date": "Le mercredi 12 août 2026 de  08:30:00 à  12:00:00",
       "streets": "NHDC BAMBOUS",
