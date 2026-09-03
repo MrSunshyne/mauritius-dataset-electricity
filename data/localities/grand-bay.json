@@ -2,11 +2,25 @@
   "slug": "grand-bay",
   "name": "GRAND BAY",
   "district": "rivieredurempart",
-  "generated": "2026-09-03T10:16:19.325Z",
-  "outageCount": 122,
+  "generated": "2026-09-03T14:46:06.106Z",
+  "outageCount": 124,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-08-30",
+  "lastOutage": "2026-09-06",
   "outages": [
+    {
+      "date": "Le dimanche 6 septembre 2026 de  09:00:00 à  15:00:00",
+      "streets": "Coastal Road, Grand Bay, Hotel Lux Grand Bay, Casino De Grand Bay et Veranda Hotel.",
+      "from": "2026-09-06T05:00:00.000Z",
+      "to": "2026-09-06T11:00:00.000Z",
+      "id": "a8f5a92557ae736c5828af9db10fa0fe"
+    },
+    {
+      "date": "Le jeudi 3 septembre 2026 de  16:30:00 à  18:30:00",
+      "streets": "RACKET RD ET LES ALENTOURS",
+      "from": "2026-09-03T12:30:00.000Z",
+      "to": "2026-09-03T14:30:00.000Z",
+      "id": "87bb24481fddbf2e3f2696babc9f2f02"
+    },
     {
       "date": "Le dimanche 30 août 2026 de  08:30:00 à  15:30:00",
       "streets": "CITE LUMIERE, SOTTISE, GRAND BAY DANS LES PERIMETRES DE STATION DE POLICE, AZUR PARADISE ET LA RUE ORCHIDEE",

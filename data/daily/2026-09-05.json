@@ -1,9 +1,19 @@
 {
   "date": "2026-09-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-03T10:16:19.278Z",
-  "outageCount": 1,
+  "generated": "2026-09-03T14:46:06.047Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le samedi 5 septembre 2026 de  08:30:00 à  16:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "En partie Ave Farquhar, Ollier, Res. Pere Laval et Anime Ave",
+      "district": "plainewilhems",
+      "from": "2026-09-05T04:30:00.000Z",
+      "to": "2026-09-05T12:30:00.000Z",
+      "id": "9a092b3438e398e979c3d38ec560d228"
+    },
     {
       "date": "Le samedi 5 septembre 2026 de  08:30:00 à  14:00:00",
       "locality": "SAINTE CROIX",

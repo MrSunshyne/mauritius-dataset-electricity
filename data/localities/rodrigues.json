@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-09-03T10:16:19.363Z",
-  "outageCount": 262,
+  "generated": "2026-09-03T14:46:06.157Z",
+  "outageCount": 263,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-09-03",
+  "lastOutage": "2026-09-04",
   "outages": [
+    {
+      "date": "Le vendredi 4 septembre 2026 de  12:00:00 à  14:00:00",
+      "streets": "Palissade, Montagne Bois Noir, Nassola, Petit Brulé, Thambes, Grande Montagne, Coromandel, Batatran, Graviers, Var Brulé, Riviere Banane et Bel Air",
+      "from": "2026-09-04T08:00:00.000Z",
+      "to": "2026-09-04T10:00:00.000Z",
+      "id": "5284fddcd89e9dc93d55d82ea64f3e2c"
+    },
     {
       "date": "Le jeudi 3 septembre 2026 de  12:00:00 à  13:30:00",
       "streets": "Anse Aux Anglais, Morcellement Terre Rouge, Caverne Provert et Jean Tac",

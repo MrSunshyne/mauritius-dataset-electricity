@@ -1,8 +1,8 @@
 {
   "date": "2026-09-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-03T10:16:19.278Z",
-  "outageCount": 1,
+  "generated": "2026-09-03T14:46:06.047Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le vendredi 4 septembre 2026 de  08:30:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-09-04T04:30:00.000Z",
       "to": "2026-09-04T12:00:00.000Z",
       "id": "fb99730b2b40ece752764ee0e012b785"
+    },
+    {
+      "date": "Le vendredi 4 septembre 2026 de  12:00:00 à  14:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Palissade, Montagne Bois Noir, Nassola, Petit Brulé, Thambes, Grande Montagne, Coromandel, Batatran, Graviers, Var Brulé, Riviere Banane et Bel Air",
+      "district": "rodrigues",
+      "from": "2026-09-04T08:00:00.000Z",
+      "to": "2026-09-04T10:00:00.000Z",
+      "id": "5284fddcd89e9dc93d55d82ea64f3e2c"
     }
   ]
 }
