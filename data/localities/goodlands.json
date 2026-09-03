@@ -2,11 +2,18 @@
   "slug": "goodlands",
   "name": "GOODLANDS",
   "district": "rivieredurempart",
-  "generated": "2026-09-03T14:46:06.105Z",
-  "outageCount": 142,
+  "generated": "2026-09-03T18:10:45.231Z",
+  "outageCount": 143,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-08-28",
+  "lastOutage": "2026-09-03",
   "outages": [
+    {
+      "date": "Le jeudi 3 septembre 2026 de  20:30:00 à  23:30:00",
+      "streets": "MORC DOMAINE DU MOULIN",
+      "from": "2026-09-03T16:30:00.000Z",
+      "to": "2026-09-03T19:30:00.000Z",
+      "id": "d36a9369d30cb198b7da73aa508895dd"
+    },
     {
       "date": "Le vendredi 28 août 2026 de  18:40:00 à  23:00:00",
       "streets": "MORC ST ANTOINE ET LES ALENTOURS",
