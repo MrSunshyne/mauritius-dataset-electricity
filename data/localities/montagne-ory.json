@@ -2,11 +2,18 @@
   "slug": "montagne-ory",
   "name": "MONTAGNE ORY",
   "district": "moka",
-  "generated": "2026-09-02T18:12:14.299Z",
-  "outageCount": 13,
+  "generated": "2026-09-03T10:16:19.341Z",
+  "outageCount": 14,
   "firstOutage": "2023-01-14",
-  "lastOutage": "2026-09-02",
+  "lastOutage": "2026-09-03",
   "outages": [
+    {
+      "date": "Le jeudi 3 septembre 2026 de  09:00:00 à  16:00:00",
+      "streets": "WHOLE REGION MT ORY",
+      "from": "2026-09-03T05:00:00.000Z",
+      "to": "2026-09-03T12:00:00.000Z",
+      "id": "15d1b9b87c4bb2c0f1bf4a3bb95ca3eb"
+    },
     {
       "date": "Le mercredi 2 septembre 2026 de  12:00:00 à  14:00:00",
       "streets": "WHOLE REGION",

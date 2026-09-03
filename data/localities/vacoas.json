@@ -2,11 +2,18 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-09-02T18:12:14.344Z",
-  "outageCount": 269,
+  "generated": "2026-09-03T10:16:19.376Z",
+  "outageCount": 270,
   "firstOutage": "2022-03-17",
-  "lastOutage": "2026-08-26",
+  "lastOutage": "2026-09-03",
   "outages": [
+    {
+      "date": "Le jeudi 3 septembre 2026 de  15:00:00 à  17:00:00",
+      "streets": "Cite La Caverne, NHDC La Caverne, La Caverne No. 1 et No. 2, Morcellement Triton, Chemin Mission, Avenue Charles de Gaulles, Morcellement Lagesse",
+      "from": "2026-09-03T11:00:00.000Z",
+      "to": "2026-09-03T13:00:00.000Z",
+      "id": "a25cc0e807db40b72d0005d38689db2d"
+    },
     {
       "date": "Le mercredi 26 août 2026 de  08:30:00 à  15:00:00",
       "streets": "une partie de Route Granum, Morcellement Sauba ,Wilson Lane, Mudaliar road et les environ",

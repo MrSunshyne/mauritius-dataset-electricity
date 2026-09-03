@@ -2,11 +2,18 @@
   "slug": "port-louis",
   "name": "PORT-LOUIS",
   "district": "portlouis",
-  "generated": "2026-09-02T18:12:14.316Z",
-  "outageCount": 131,
+  "generated": "2026-09-03T10:16:19.353Z",
+  "outageCount": 132,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-08-23",
+  "lastOutage": "2026-09-06",
   "outages": [
+    {
+      "date": "Le dimanche 6 septembre 2026 de  08:30:00 à  15:00:00",
+      "streets": "Dans les environs Dúne partie de la Rue Sir Seewoosagur Ramgoolam",
+      "from": "2026-09-06T04:30:00.000Z",
+      "to": "2026-09-06T11:00:00.000Z",
+      "id": "d6918f074c95d34f72ba4281894654ba"
+    },
     {
       "date": "Le dimanche 23 août 2026 de  08:30:00 à  15:00:00",
       "streets": "Raoul Rivet, Dr Onesipho Beaugeard, La Gaieté, Saint James, Ternay, Saint John, Henri Le Sidaner, Nahaboo Solim et Mère Barthelemy",

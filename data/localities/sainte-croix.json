@@ -2,11 +2,18 @@
   "slug": "sainte-croix",
   "name": "SAINTE CROIX",
   "district": "portlouis",
-  "generated": "2026-09-02T18:12:14.334Z",
-  "outageCount": 99,
+  "generated": "2026-09-03T10:16:19.366Z",
+  "outageCount": 100,
   "firstOutage": "2022-04-26",
-  "lastOutage": "2026-09-02",
+  "lastOutage": "2026-09-05",
   "outages": [
+    {
+      "date": "Le samedi 5 septembre 2026 de  08:30:00 à  14:00:00",
+      "streets": "Dans les environs de Residence Briquetterie",
+      "from": "2026-09-05T04:30:00.000Z",
+      "to": "2026-09-05T10:00:00.000Z",
+      "id": "aa23aee52e77894b4e330a8985ed90cf"
+    },
     {
       "date": "Le mercredi 2 septembre 2026 de  10:00:00 à  13:00:00",
       "streets": "Dans les environs des rues Emile Basset, Sainte Marie, Impasse Sainte Marie, Route Bassin No 1 & 2, Morc La Vallee et Sophia Lane",

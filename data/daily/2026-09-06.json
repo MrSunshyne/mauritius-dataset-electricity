@@ -1,8 +1,8 @@
 {
   "date": "2026-09-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-02T18:12:14.213Z",
-  "outageCount": 1,
+  "generated": "2026-09-03T10:16:19.278Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le dimanche 6 septembre 2026 de  08:30:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-09-06T04:30:00.000Z",
       "to": "2026-09-06T12:00:00.000Z",
       "id": "3a61ce310688d5d856f5123c44883b07"
+    },
+    {
+      "date": "Le dimanche 6 septembre 2026 de  08:30:00 à  15:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "Dans les environs Dúne partie de la Rue Sir Seewoosagur Ramgoolam",
+      "district": "portlouis",
+      "from": "2026-09-06T04:30:00.000Z",
+      "to": "2026-09-06T11:00:00.000Z",
+      "id": "d6918f074c95d34f72ba4281894654ba"
     }
   ]
 }

@@ -1,9 +1,19 @@
 {
   "date": "2026-09-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-02T18:12:14.213Z",
-  "outageCount": 7,
+  "generated": "2026-09-03T10:16:19.278Z",
+  "outageCount": 11,
   "outages": [
+    {
+      "date": "Le jeudi 3 septembre 2026 de  11:30:00 à  17:00:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "RIV NOIRE,MORC RAMDHANY,GORGES",
+      "district": "blackriver",
+      "from": "2026-09-03T07:30:00.000Z",
+      "to": "2026-09-03T13:00:00.000Z",
+      "id": "7f57776705ef5babb10acb0283694555"
+    },
     {
       "date": "Le jeudi 3 septembre 2026 de  15:00:00 à  16:00:00",
       "locality": "BELVEDERE ( LALLMATIE )",
@@ -23,6 +33,26 @@
       "from": "2026-09-03T04:30:00.000Z",
       "to": "2026-09-03T13:00:00.000Z",
       "id": "4f54e416a4d8a31b42fcd8d6751ad0f5"
+    },
+    {
+      "date": "Le jeudi 3 septembre 2026 de  09:00:00 à  16:00:00",
+      "locality": "MONTAGNE ORY",
+      "localitySlug": "montagne-ory",
+      "streets": "WHOLE REGION MT ORY",
+      "district": "moka",
+      "from": "2026-09-03T05:00:00.000Z",
+      "to": "2026-09-03T12:00:00.000Z",
+      "id": "15d1b9b87c4bb2c0f1bf4a3bb95ca3eb"
+    },
+    {
+      "date": "Le jeudi 3 septembre 2026 de  10:00:00 à  15:00:00",
+      "locality": "FORBACH",
+      "localitySlug": "forbach",
+      "streets": "FORBACH",
+      "district": "pamplemousses",
+      "from": "2026-09-03T06:00:00.000Z",
+      "to": "2026-09-03T11:00:00.000Z",
+      "id": "46ee09150a4c255c991850d1fcf81a24"
     },
     {
       "date": "Le jeudi 3 septembre 2026 de  09:00:00 à  15:00:00",
@@ -63,6 +93,16 @@
       "from": "2026-09-03T04:30:00.000Z",
       "to": "2026-09-03T11:30:00.000Z",
       "id": "ea1b96fa7f58b13b3fa915b000939602"
+    },
+    {
+      "date": "Le jeudi 3 septembre 2026 de  15:00:00 à  17:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "Cite La Caverne, NHDC La Caverne, La Caverne No. 1 et No. 2, Morcellement Triton, Chemin Mission, Avenue Charles de Gaulles, Morcellement Lagesse",
+      "district": "plainewilhems",
+      "from": "2026-09-03T11:00:00.000Z",
+      "to": "2026-09-03T13:00:00.000Z",
+      "id": "a25cc0e807db40b72d0005d38689db2d"
     },
     {
       "date": "Le jeudi 3 septembre 2026 de  12:00:00 à  13:30:00",
