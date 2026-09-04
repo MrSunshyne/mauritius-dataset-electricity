@@ -1,8 +1,8 @@
 {
   "date": "2026-09-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-04T10:04:56.306Z",
-  "outageCount": 10,
+  "generated": "2026-09-04T14:36:13.915Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le dimanche 6 septembre 2026 de  08:30:00 à  17:00:00",
@@ -103,6 +103,16 @@
       "from": "2026-09-06T05:00:00.000Z",
       "to": "2026-09-06T11:00:00.000Z",
       "id": "a8f5a92557ae736c5828af9db10fa0fe"
+    },
+    {
+      "date": "Le dimanche 6 septembre 2026 de  08:30:00 à  15:30:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Bassin Gallard, Bigarade, Dans Samy et Pointe Coton",
+      "district": "rodrigues",
+      "from": "2026-09-06T04:30:00.000Z",
+      "to": "2026-09-06T11:30:00.000Z",
+      "id": "ea3f5d1c4445a74e6d52f961d6a941c8"
     }
   ]
 }

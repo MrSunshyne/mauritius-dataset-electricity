@@ -2,11 +2,25 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-09-04T10:04:56.381Z",
-  "outageCount": 263,
+  "generated": "2026-09-04T14:36:14.017Z",
+  "outageCount": 265,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-09-04",
+  "lastOutage": "2026-09-06",
   "outages": [
+    {
+      "date": "Le dimanche 6 septembre 2026 de  08:30:00 à  15:30:00",
+      "streets": "Bassin Gallard, Bigarade, Dans Samy et Pointe Coton",
+      "from": "2026-09-06T04:30:00.000Z",
+      "to": "2026-09-06T11:30:00.000Z",
+      "id": "ea3f5d1c4445a74e6d52f961d6a941c8"
+    },
+    {
+      "date": "Le samedi 5 septembre 2026 de  08:30:00 à  15:30:00",
+      "streets": "Fond Accacia, Accacia, Patate Theophile et Trois Soleil",
+      "from": "2026-09-05T04:30:00.000Z",
+      "to": "2026-09-05T11:30:00.000Z",
+      "id": "d27b7cbad7fdb3d54a4414ae96dafe73"
+    },
     {
       "date": "Le vendredi 4 septembre 2026 de  12:00:00 à  14:00:00",
       "streets": "Palissade, Montagne Bois Noir, Nassola, Petit Brulé, Thambes, Grande Montagne, Coromandel, Batatran, Graviers, Var Brulé, Riviere Banane et Bel Air",

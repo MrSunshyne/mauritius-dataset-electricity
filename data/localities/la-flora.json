@@ -2,11 +2,18 @@
   "slug": "la-flora",
   "name": "LA FLORA",
   "district": "savanne",
-  "generated": "2026-09-04T10:04:56.354Z",
-  "outageCount": 33,
+  "generated": "2026-09-04T14:36:13.978Z",
+  "outageCount": 34,
   "firstOutage": "2022-10-09",
-  "lastOutage": "2026-08-25",
+  "lastOutage": "2026-09-04",
   "outages": [
+    {
+      "date": "Le vendredi 4 septembre 2026 de  18:00:00 à  19:30:00",
+      "streets": "BOSTOM ROAD,TELECOM ROAD/EN PARTIE ROYAL ROAD",
+      "from": "2026-09-04T14:00:00.000Z",
+      "to": "2026-09-04T15:30:00.000Z",
+      "id": "f8efdcc46353ec759e7087b985511a10"
+    },
     {
       "date": "Le mardi 25 août 2026 de  09:00:00 à  16:00:00",
       "streets": "Beau Climat, La Flora et Morc VRS et NHDC Grand Bois",

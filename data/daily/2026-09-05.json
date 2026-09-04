@@ -1,8 +1,8 @@
 {
   "date": "2026-09-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-04T10:04:56.306Z",
-  "outageCount": 5,
+  "generated": "2026-09-04T14:36:13.915Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le samedi 5 septembre 2026 de  08:30:00 à  16:30:00",
@@ -53,6 +53,16 @@
       "from": "2026-09-05T04:30:00.000Z",
       "to": "2026-09-05T10:00:00.000Z",
       "id": "aa23aee52e77894b4e330a8985ed90cf"
+    },
+    {
+      "date": "Le samedi 5 septembre 2026 de  08:30:00 à  15:30:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Fond Accacia, Accacia, Patate Theophile et Trois Soleil",
+      "district": "rodrigues",
+      "from": "2026-09-05T04:30:00.000Z",
+      "to": "2026-09-05T11:30:00.000Z",
+      "id": "d27b7cbad7fdb3d54a4414ae96dafe73"
     }
   ]
 }
