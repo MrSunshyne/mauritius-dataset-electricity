@@ -1,8 +1,8 @@
 {
   "date": "2026-09-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-04T14:36:13.915Z",
-  "outageCount": 5,
+  "generated": "2026-09-04T17:52:23.734Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le vendredi 4 septembre 2026 de  13:30:00 à  16:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-09-04T04:30:00.000Z",
       "to": "2026-09-04T12:00:00.000Z",
       "id": "fb99730b2b40ece752764ee0e012b785"
+    },
+    {
+      "date": "Le vendredi 4 septembre 2026 de  19:00:00 à  01:30:00",
+      "locality": "RICHELIEU",
+      "localitySlug": "richelieu",
+      "streets": "CITE RICHELIEU",
+      "district": "plainewilhems",
+      "from": "2026-09-04T15:00:00.000Z",
+      "to": "2026-09-03T21:30:00.000Z",
+      "id": "ee2b53b2dc7bea1f165cd9a590210ecc"
     },
     {
       "date": "Le vendredi 4 septembre 2026 de  18:00:00 à  19:30:00",
