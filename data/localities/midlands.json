@@ -2,11 +2,18 @@
   "slug": "midlands",
   "name": "MIDLANDS",
   "district": "plainewilhems",
-  "generated": "2026-09-03T18:10:45.249Z",
-  "outageCount": 28,
+  "generated": "2026-09-04T10:04:56.360Z",
+  "outageCount": 29,
   "firstOutage": "2022-06-10",
-  "lastOutage": "2026-08-18",
+  "lastOutage": "2026-09-05",
   "outages": [
+    {
+      "date": "Le samedi 5 septembre 2026 de  10:00:00 à  14:00:00",
+      "streets": "Coriolis road et ruelles avoisinantes",
+      "from": "2026-09-05T06:00:00.000Z",
+      "to": "2026-09-05T10:00:00.000Z",
+      "id": "32c3380a168c6776d0ae86b1324da270"
+    },
     {
       "date": "Le mardi 18 août 2026 de  12:25:00 à  15:00:00",
       "streets": "Chapel & Route Royale",

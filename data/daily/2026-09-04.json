@@ -1,9 +1,29 @@
 {
   "date": "2026-09-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-03T18:10:45.173Z",
-  "outageCount": 2,
+  "generated": "2026-09-04T10:04:56.306Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le vendredi 4 septembre 2026 de  13:30:00 à  16:00:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "KULPOO LANE, ROYAL RD ET DANS LES ALENTOURS DE SUPER CASH",
+      "district": "grandport",
+      "from": "2026-09-04T09:30:00.000Z",
+      "to": "2026-09-04T12:00:00.000Z",
+      "id": "b4aad8c6ee509e1b2163b23199ae5802"
+    },
+    {
+      "date": "Le vendredi 4 septembre 2026 de  12:35:00 à  15:00:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "CITE CHA PAMPLEMOUSSES",
+      "district": "pamplemousses",
+      "from": "2026-09-04T08:35:00.000Z",
+      "to": "2026-09-04T11:00:00.000Z",
+      "id": "0d57c1158af95ddac2944d0c1e9533d2"
+    },
     {
       "date": "Le vendredi 4 septembre 2026 de  08:30:00 à  16:00:00",
       "locality": "CLOSEL",

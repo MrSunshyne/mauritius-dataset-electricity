@@ -2,11 +2,18 @@
   "slug": "solferino",
   "name": "SOLFERINO",
   "district": "plainewilhems",
-  "generated": "2026-09-03T18:10:45.287Z",
-  "outageCount": 28,
+  "generated": "2026-09-04T10:04:56.385Z",
+  "outageCount": 29,
   "firstOutage": "2022-05-06",
-  "lastOutage": "2026-07-29",
+  "lastOutage": "2026-09-06",
   "outages": [
+    {
+      "date": "Le dimanche 6 septembre 2026 de  10:30:00 à  14:00:00",
+      "streets": "Solferino no 5 and Royal Rd Paillotte",
+      "from": "2026-09-06T06:30:00.000Z",
+      "to": "2026-09-06T10:00:00.000Z",
+      "id": "da1e2af023c84b8f09ca27af018d4b98"
+    },
     {
       "date": "Le mercredi 29 juillet 2026 de  08:30:00 à  16:00:00",
       "streets": "Solferino 5 résidant les régions et les rues suivantes:   CWA, IBL Pumping station, Ex Poultry Woodun et les environs que la fourniture d’énergie électrique sera interrompue le Mercredi 29 Juillet 2026",

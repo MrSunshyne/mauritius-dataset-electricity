@@ -2,11 +2,18 @@
   "slug": "candos-q-bornes",
   "name": "CANDOS Q BORNES",
   "district": "plainewilhems",
-  "generated": "2026-09-03T18:10:45.212Z",
-  "outageCount": 9,
+  "generated": "2026-09-04T10:04:56.334Z",
+  "outageCount": 10,
   "firstOutage": "2022-06-22",
-  "lastOutage": "2026-06-18",
+  "lastOutage": "2026-09-06",
   "outages": [
+    {
+      "date": "Le dimanche 6 septembre 2026 de  09:00:00 à  11:00:00",
+      "streets": "Candos résidant dans une partie de Morcellement Gungadeen,",
+      "from": "2026-09-06T05:00:00.000Z",
+      "to": "2026-09-06T07:00:00.000Z",
+      "id": "cab8a19e439ec2a9698b6fe3647f0412"
+    },
     {
       "date": "Le jeudi 18 juin 2026 de  10:30:00 à  11:00:00",
       "streets": "CITE CANDOS",

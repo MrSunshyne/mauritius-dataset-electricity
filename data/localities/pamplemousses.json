@@ -2,11 +2,18 @@
   "slug": "pamplemousses",
   "name": "PAMPLEMOUSSES",
   "district": "pamplemousses",
-  "generated": "2026-09-03T18:10:45.258Z",
-  "outageCount": 65,
+  "generated": "2026-09-04T10:04:56.367Z",
+  "outageCount": 66,
   "firstOutage": "2022-05-08",
-  "lastOutage": "2026-08-29",
+  "lastOutage": "2026-09-04",
   "outages": [
+    {
+      "date": "Le vendredi 4 septembre 2026 de  12:35:00 à  15:00:00",
+      "streets": "CITE CHA PAMPLEMOUSSES",
+      "from": "2026-09-04T08:35:00.000Z",
+      "to": "2026-09-04T11:00:00.000Z",
+      "id": "0d57c1158af95ddac2944d0c1e9533d2"
+    },
     {
       "date": "Le samedi 29 août 2026 de  14:00:00 à  17:00:00",
       "streets": "PAMPLEMOUSSES,MORC MOUNT, MON GOUT, MONT PITON, PART OF CALEBASSES, BOIS ROUGE",

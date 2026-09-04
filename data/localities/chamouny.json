@@ -2,11 +2,18 @@
   "slug": "chamouny",
   "name": "CHAMOUNY",
   "district": "savanne",
-  "generated": "2026-09-03T18:10:45.215Z",
-  "outageCount": 27,
+  "generated": "2026-09-04T10:04:56.337Z",
+  "outageCount": 28,
   "firstOutage": "2022-07-24",
-  "lastOutage": "2026-09-02",
+  "lastOutage": "2026-09-08",
   "outages": [
+    {
+      "date": "Le mardi 8 septembre 2026 de  09:00:00 à  15:00:00",
+      "streets": "Chamouny, Rama Road, Camp Goolbar et Camp Fany",
+      "from": "2026-09-08T05:00:00.000Z",
+      "to": "2026-09-08T11:00:00.000Z",
+      "id": "63a49e419f8b1f77ebf90788ec8dce99"
+    },
     {
       "date": "Le mercredi 2 septembre 2026 de  13:45:00 à  15:45:00",
       "streets": "Chamouny to G Bassin,Vallee des Couleurs,Poultries",

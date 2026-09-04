@@ -1,8 +1,8 @@
 {
   "date": "2026-09-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-03T18:10:45.173Z",
-  "outageCount": 2,
+  "generated": "2026-09-04T10:04:56.306Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le samedi 5 septembre 2026 de  08:30:00 à  16:30:00",
@@ -13,6 +13,36 @@
       "from": "2026-09-05T04:30:00.000Z",
       "to": "2026-09-05T12:30:00.000Z",
       "id": "9a092b3438e398e979c3d38ec560d228"
+    },
+    {
+      "date": "Le samedi 5 septembre 2026 de  09:00:00 à  14:00:00",
+      "locality": "CANDOS VACOAS",
+      "localitySlug": "candos-vacoas",
+      "streets": "Candos résidant les régions et les rues suivantes : Kalimaye Lane, Rugoo lane et une partie de Candos Road",
+      "district": "plainewilhems",
+      "from": "2026-09-05T05:00:00.000Z",
+      "to": "2026-09-05T10:00:00.000Z",
+      "id": "1b967b67c7f0fe1805fe35967efa5cdd"
+    },
+    {
+      "date": "Le samedi 5 septembre 2026 de  10:00:00 à  14:00:00",
+      "locality": "MIDLANDS",
+      "localitySlug": "midlands",
+      "streets": "Coriolis road et ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2026-09-05T06:00:00.000Z",
+      "to": "2026-09-05T10:00:00.000Z",
+      "id": "32c3380a168c6776d0ae86b1324da270"
+    },
+    {
+      "date": "Le samedi 5 septembre 2026 de  08:30:00 à  12:00:00",
+      "locality": "FOREST SIDE",
+      "localitySlug": "forest-side",
+      "streets": "Morc Hosenny et ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2026-09-05T04:30:00.000Z",
+      "to": "2026-09-05T08:00:00.000Z",
+      "id": "f0d8bd647787d937e9e2fc5f0dcb29d2"
     },
     {
       "date": "Le samedi 5 septembre 2026 de  08:30:00 à  14:00:00",

@@ -2,11 +2,18 @@
   "slug": "candos-vacoas",
   "name": "CANDOS VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-09-03T18:10:45.212Z",
-  "outageCount": 16,
+  "generated": "2026-09-04T10:04:56.334Z",
+  "outageCount": 17,
   "firstOutage": "2022-06-21",
-  "lastOutage": "2026-06-11",
+  "lastOutage": "2026-09-05",
   "outages": [
+    {
+      "date": "Le samedi 5 septembre 2026 de  09:00:00 à  14:00:00",
+      "streets": "Candos résidant les régions et les rues suivantes : Kalimaye Lane, Rugoo lane et une partie de Candos Road",
+      "from": "2026-09-05T05:00:00.000Z",
+      "to": "2026-09-05T10:00:00.000Z",
+      "id": "1b967b67c7f0fe1805fe35967efa5cdd"
+    },
     {
       "date": "Le jeudi 11 juin 2026 de  14:20:00 à  16:30:00",
       "streets": "LAL BAHADUR SHASTRI RD ET LES ALENTOURS",

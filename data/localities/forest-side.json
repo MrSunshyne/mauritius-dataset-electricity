@@ -2,11 +2,18 @@
   "slug": "forest-side",
   "name": "FOREST SIDE",
   "district": "plainewilhems",
-  "generated": "2026-09-03T18:10:45.229Z",
-  "outageCount": 108,
+  "generated": "2026-09-04T10:04:56.347Z",
+  "outageCount": 109,
   "firstOutage": "2022-07-03",
-  "lastOutage": "2026-09-03",
+  "lastOutage": "2026-09-05",
   "outages": [
+    {
+      "date": "Le samedi 5 septembre 2026 de  08:30:00 à  12:00:00",
+      "streets": "Morc Hosenny et ruelles avoisinantes",
+      "from": "2026-09-05T04:30:00.000Z",
+      "to": "2026-09-05T08:00:00.000Z",
+      "id": "f0d8bd647787d937e9e2fc5f0dcb29d2"
+    },
     {
       "date": "Le jeudi 3 septembre 2026 de  12:00:00 à  13:00:00",
       "streets": "Forest Side : Residence  St Luc, Bourg street, Residence Atlee, NHDC La Colombe, NHDC Jasmin, Residence Atlee",

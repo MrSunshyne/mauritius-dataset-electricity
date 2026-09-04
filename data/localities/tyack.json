@@ -2,11 +2,18 @@
   "slug": "tyack",
   "name": "TYACK",
   "district": "savanne",
-  "generated": "2026-09-03T18:10:45.293Z",
-  "outageCount": 33,
+  "generated": "2026-09-04T10:04:56.391Z",
+  "outageCount": 34,
   "firstOutage": "2022-05-08",
-  "lastOutage": "2026-08-24",
+  "lastOutage": "2026-09-07",
   "outages": [
+    {
+      "date": "Le lundi 7 septembre 2026 de  09:00:00 à  16:00:00",
+      "streets": "NHDC Tyack and CHA Tyack",
+      "from": "2026-09-07T05:00:00.000Z",
+      "to": "2026-09-07T12:00:00.000Z",
+      "id": "870f3fac5d218277dac2449cd4191717"
+    },
     {
       "date": "Le lundi 24 août 2026 de  19:00:00 à  00:45:00",
       "streets": "CITE/NHDC TYACK",

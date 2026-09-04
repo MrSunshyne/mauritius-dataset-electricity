@@ -2,11 +2,18 @@
   "slug": "verdun",
   "name": "VERDUN",
   "district": "moka",
-  "generated": "2026-09-03T18:10:45.297Z",
-  "outageCount": 30,
+  "generated": "2026-09-04T10:04:56.393Z",
+  "outageCount": 31,
   "firstOutage": "2022-04-24",
-  "lastOutage": "2026-05-07",
+  "lastOutage": "2026-09-06",
   "outages": [
+    {
+      "date": "Le dimanche 6 septembre 2026 de  08:30:00 à  15:00:00",
+      "streets": "Morc MDA, Morc MSA, Chemin Dagotiere, CHA Verdun, Royal Rd Verdun et les environs",
+      "from": "2026-09-06T04:30:00.000Z",
+      "to": "2026-09-06T11:00:00.000Z",
+      "id": "992d039d4c7a17a383f804b3373288af"
+    },
     {
       "date": "Le jeudi 7 mai 2026 de  17:00:00 à  22:00:00",
       "streets": "ROUTE ROYALE DANS LES ENVIRONS INDIAN OIL/CAMERA SAFE CITY, CHEMIN MARGUERITE, CHEMIN ROSE, DANS LES ENVIRONS LA POSTE ET LES ALENTOURS.",

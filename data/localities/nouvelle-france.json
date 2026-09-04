@@ -2,11 +2,18 @@
   "slug": "nouvelle-france",
   "name": "NOUVELLE FRANCE",
   "district": "grandport",
-  "generated": "2026-09-03T18:10:45.256Z",
-  "outageCount": 38,
+  "generated": "2026-09-04T10:04:56.365Z",
+  "outageCount": 39,
   "firstOutage": "2022-05-12",
-  "lastOutage": "2026-07-16",
+  "lastOutage": "2026-09-06",
   "outages": [
+    {
+      "date": "Le dimanche 6 septembre 2026 de  08:30:00 à  17:00:00",
+      "streets": "Nouvelle France - Pont Colleville : Route Royal vers Souillac, Camphur, NHDC N.France ,Morc Nababsing ,Chemin Coopérative en parti, Allée Jacque en parti, Chemin Comelone, Chemin La Forge, Chemin Dabydoyal Pont Colleville,",
+      "from": "2026-09-06T04:30:00.000Z",
+      "to": "2026-09-06T13:00:00.000Z",
+      "id": "238d44bb0ee52864870f2b0df19d17db"
+    },
     {
       "date": "Le jeudi 16 juillet 2026 de  20:20:00 à  23:00:00",
       "streets": "PART OF NOUVELLE FRANCE",
