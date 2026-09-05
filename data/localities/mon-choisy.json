@@ -2,11 +2,18 @@
   "slug": "mon-choisy",
   "name": "MON CHOISY",
   "district": "pamplemousses",
-  "generated": "2026-09-04T19:59:06.769Z",
-  "outageCount": 42,
+  "generated": "2026-09-05T09:34:58.270Z",
+  "outageCount": 43,
   "firstOutage": "2022-05-21",
-  "lastOutage": "2026-08-17",
+  "lastOutage": "2026-09-06",
   "outages": [
+    {
+      "date": "Le dimanche 6 septembre 2026 de  08:30:00 à  14:00:00",
+      "streets": "DANS LES ENVIRONS DE HOTEL GRAND BLEU, RAMJUTTUN ET MEDITERANNEE ET MORC MON CHOISY",
+      "from": "2026-09-06T04:30:00.000Z",
+      "to": "2026-09-06T10:00:00.000Z",
+      "id": "d5153750f1ecf4b8f3df596c2a0e3edb"
+    },
     {
       "date": "Le lundi 17 août 2026 de  12:00:00 à  16:00:00",
       "streets": "dans les environs de Casuarina, Coral Azur, Morc Levieux, La Mediteranee, Mystic Hotel et ex MCB",

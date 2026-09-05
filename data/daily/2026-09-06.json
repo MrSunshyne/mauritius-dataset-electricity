@@ -1,8 +1,8 @@
 {
   "date": "2026-09-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-04T19:59:06.700Z",
-  "outageCount": 11,
+  "generated": "2026-09-05T09:34:58.219Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le dimanche 6 septembre 2026 de  08:30:00 à  17:00:00",
@@ -23,6 +23,26 @@
       "from": "2026-09-06T04:30:00.000Z",
       "to": "2026-09-06T11:00:00.000Z",
       "id": "992d039d4c7a17a383f804b3373288af"
+    },
+    {
+      "date": "Le dimanche 6 septembre 2026 de  08:30:00 à  14:00:00",
+      "locality": "MON GOUT",
+      "localitySlug": "mon-gout",
+      "streets": "DANS LES ENVIRONS DE MORC COOPERATIVE ET NHDC",
+      "district": "pamplemousses",
+      "from": "2026-09-06T04:30:00.000Z",
+      "to": "2026-09-06T10:00:00.000Z",
+      "id": "5e38558ad6e62a39468c4153377bf50c"
+    },
+    {
+      "date": "Le dimanche 6 septembre 2026 de  08:30:00 à  14:00:00",
+      "locality": "MON CHOISY",
+      "localitySlug": "mon-choisy",
+      "streets": "DANS LES ENVIRONS DE HOTEL GRAND BLEU, RAMJUTTUN ET MEDITERANNEE ET MORC MON CHOISY",
+      "district": "pamplemousses",
+      "from": "2026-09-06T04:30:00.000Z",
+      "to": "2026-09-06T10:00:00.000Z",
+      "id": "d5153750f1ecf4b8f3df596c2a0e3edb"
     },
     {
       "date": "Le dimanche 6 septembre 2026 de  08:30:00 à  16:00:00",

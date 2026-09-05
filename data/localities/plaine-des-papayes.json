@@ -2,11 +2,18 @@
   "slug": "plaine-des-papayes",
   "name": "PLAINE DES PAPAYES",
   "district": "pamplemousses",
-  "generated": "2026-09-04T19:59:06.782Z",
-  "outageCount": 45,
+  "generated": "2026-09-05T09:34:58.279Z",
+  "outageCount": 46,
   "firstOutage": "2022-05-22",
-  "lastOutage": "2026-08-07",
+  "lastOutage": "2026-09-05",
   "outages": [
+    {
+      "date": "Le samedi 5 septembre 2026 de  09:00:00 à  12:00:00",
+      "streets": "DANS LES ENVIRONS DE RAMGOOLAM RD, JAYPAL RD ET MOSQUE RD",
+      "from": "2026-09-05T05:00:00.000Z",
+      "to": "2026-09-05T08:00:00.000Z",
+      "id": "df1abb9a38748cb832064028a12e4d8d"
+    },
     {
       "date": "Le vendredi 7 août 2026 de  14:45:00 à  18:00:00",
       "streets": "BOIS MANGUES : MORCELLEMENT LONDON TOWN.",

@@ -1,9 +1,19 @@
 {
   "date": "2026-09-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-04T19:59:06.700Z",
-  "outageCount": 6,
+  "generated": "2026-09-05T09:34:58.219Z",
+  "outageCount": 7,
   "outages": [
+    {
+      "date": "Le samedi 5 septembre 2026 de  09:00:00 à  12:00:00",
+      "locality": "PLAINE DES PAPAYES",
+      "localitySlug": "plaine-des-papayes",
+      "streets": "DANS LES ENVIRONS DE RAMGOOLAM RD, JAYPAL RD ET MOSQUE RD",
+      "district": "pamplemousses",
+      "from": "2026-09-05T05:00:00.000Z",
+      "to": "2026-09-05T08:00:00.000Z",
+      "id": "df1abb9a38748cb832064028a12e4d8d"
+    },
     {
       "date": "Le samedi 5 septembre 2026 de  08:30:00 à  16:30:00",
       "locality": "QUATRE-BORNES",

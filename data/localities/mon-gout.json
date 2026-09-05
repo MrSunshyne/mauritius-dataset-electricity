@@ -2,11 +2,18 @@
   "slug": "mon-gout",
   "name": "MON GOUT",
   "district": "pamplemousses",
-  "generated": "2026-09-04T19:59:06.769Z",
-  "outageCount": 19,
+  "generated": "2026-09-05T09:34:58.271Z",
+  "outageCount": 20,
   "firstOutage": "2022-06-08",
-  "lastOutage": "2026-09-04",
+  "lastOutage": "2026-09-06",
   "outages": [
+    {
+      "date": "Le dimanche 6 septembre 2026 de  08:30:00 à  14:00:00",
+      "streets": "DANS LES ENVIRONS DE MORC COOPERATIVE ET NHDC",
+      "from": "2026-09-06T04:30:00.000Z",
+      "to": "2026-09-06T10:00:00.000Z",
+      "id": "5e38558ad6e62a39468c4153377bf50c"
+    },
     {
       "date": "Le vendredi 4 septembre 2026 de  22:45:00 à  03:00:00",
       "streets": "MORC MAISON BLANCHE & SURROUNDINGS",
