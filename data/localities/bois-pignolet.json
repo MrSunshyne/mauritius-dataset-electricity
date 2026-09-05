@@ -2,11 +2,18 @@
   "slug": "bois-pignolet",
   "name": "BOIS PIGNOLET",
   "district": "pamplemousses",
-  "generated": "2026-09-05T16:21:07.595Z",
-  "outageCount": 17,
+  "generated": "2026-09-05T18:38:54.990Z",
+  "outageCount": 18,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-08-19",
+  "lastOutage": "2026-09-05",
   "outages": [
+    {
+      "date": "Le samedi 5 septembre 2026 de  21:00:00 à  00:30:00",
+      "streets": "MORC CHAVRY BOIS PIGNOLET",
+      "from": "2026-09-05T17:00:00.000Z",
+      "to": "2026-09-04T20:30:00.000Z",
+      "id": "68de9d8e289a1791f0e3e0a1b9c1eaa3"
+    },
     {
       "date": "Le mercredi 19 août 2026 de  19:30:00 à  20:15:00",
       "streets": "PART OF VILLAGE",

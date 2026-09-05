@@ -2,11 +2,18 @@
   "slug": "goodlands",
   "name": "GOODLANDS",
   "district": "rivieredurempart",
-  "generated": "2026-09-05T16:21:07.623Z",
-  "outageCount": 143,
+  "generated": "2026-09-05T18:38:55.017Z",
+  "outageCount": 144,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-09-03",
+  "lastOutage": "2026-09-05",
   "outages": [
+    {
+      "date": "Le samedi 5 septembre 2026 de  20:30:00 à  00:30:00",
+      "streets": "CHEMIN WINNERS GOODLANDS",
+      "from": "2026-09-05T16:30:00.000Z",
+      "to": "2026-09-04T20:30:00.000Z",
+      "id": "3cbb0fbdc5806766801ff39fe876d77b"
+    },
     {
       "date": "Le jeudi 3 septembre 2026 de  20:30:00 à  23:30:00",
       "streets": "MORC DOMAINE DU MOULIN",
