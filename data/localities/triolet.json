@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-09-06T16:32:04.770Z",
-  "outageCount": 147,
+  "generated": "2026-09-06T18:42:57.457Z",
+  "outageCount": 148,
   "firstOutage": "2022-04-08",
   "lastOutage": "2026-09-06",
   "outages": [
+    {
+      "date": "Le dimanche 6 septembre 2026 de  20:45:00 à  00:00:00",
+      "streets": "ROUTE ROYALE 9EME MILLE DANS LES ENVIRONS HASSEN TAHER SEAFOODS.",
+      "from": "2026-09-06T16:45:00.000Z",
+      "to": "2026-09-05T20:00:00.000Z",
+      "id": "60272bc221139df1c9ecc6c6173f3e4d"
+    },
     {
       "date": "Le dimanche 6 septembre 2026 de  12:35:00 à  16:30:00",
       "streets": "9TH MILE NEAR TERMINUS",
