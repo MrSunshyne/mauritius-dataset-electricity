@@ -1,8 +1,8 @@
 {
   "date": "2026-09-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-05T18:38:54.959Z",
-  "outageCount": 13,
+  "generated": "2026-09-06T09:49:43.581Z",
+  "outageCount": 17,
   "outages": [
     {
       "date": "Le dimanche 6 septembre 2026 de  08:30:00 à  17:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-09-06T04:30:00.000Z",
       "to": "2026-09-06T10:00:00.000Z",
       "id": "d5153750f1ecf4b8f3df596c2a0e3edb"
+    },
+    {
+      "date": "Le dimanche 6 septembre 2026 de  12:35:00 à  16:30:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "9TH MILE NEAR TERMINUS",
+      "district": "pamplemousses",
+      "from": "2026-09-06T08:35:00.000Z",
+      "to": "2026-09-06T12:30:00.000Z",
+      "id": "8d60e64a738f52195f371aeb9f709172"
     },
     {
       "date": "Le dimanche 6 septembre 2026 de  08:30:00 à  16:00:00",
@@ -105,6 +115,16 @@
       "id": "8573286a4c27f7c5d9a68ecefd2d904c"
     },
     {
+      "date": "Le dimanche 6 septembre 2026 de  10:20:00 à  14:20:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVE JACARANDAS, AVE ORCHIDES & SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2026-09-06T06:20:00.000Z",
+      "to": "2026-09-06T10:20:00.000Z",
+      "id": "7a54b98ed805897da3a5e6e8b6d73de0"
+    },
+    {
       "date": "Le dimanche 6 septembre 2026 de  08:30:00 à  15:00:00",
       "locality": "PORT-LOUIS",
       "localitySlug": "port-louis",
@@ -123,6 +143,26 @@
       "from": "2026-09-06T05:00:00.000Z",
       "to": "2026-09-06T11:00:00.000Z",
       "id": "a8f5a92557ae736c5828af9db10fa0fe"
+    },
+    {
+      "date": "Le dimanche 6 septembre 2026 de  12:45:00 à  17:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "RESIDENCE NETRA CHEMIN 20 PIED",
+      "district": "rivieredurempart",
+      "from": "2026-09-06T08:45:00.000Z",
+      "to": "2026-09-06T13:00:00.000Z",
+      "id": "4d050ea077a0f4f7200026ba475d70ad"
+    },
+    {
+      "date": "Le dimanche 6 septembre 2026 de  12:30:00 à  16:30:00",
+      "locality": "CHEMIN GRENIER",
+      "localitySlug": "chemin-grenier",
+      "streets": "JUMBO RD, PLAYGROUND RD & SURROUNDINGS",
+      "district": "savanne",
+      "from": "2026-09-06T08:30:00.000Z",
+      "to": "2026-09-06T12:30:00.000Z",
+      "id": "f6473e8106f07bdfa50405049e58c5ea"
     },
     {
       "date": "Le dimanche 6 septembre 2026 de  08:30:00 à  15:30:00",

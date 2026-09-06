@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-09-05T18:38:55.079Z",
-  "outageCount": 146,
+  "generated": "2026-09-06T09:49:43.708Z",
+  "outageCount": 147,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-07-26",
+  "lastOutage": "2026-09-06",
   "outages": [
+    {
+      "date": "Le dimanche 6 septembre 2026 de  12:35:00 à  16:30:00",
+      "streets": "9TH MILE NEAR TERMINUS",
+      "from": "2026-09-06T08:35:00.000Z",
+      "to": "2026-09-06T12:30:00.000Z",
+      "id": "8d60e64a738f52195f371aeb9f709172"
+    },
     {
       "date": "Le dimanche 26 juillet 2026 de  17:30:00 à  23:00:00",
       "streets": "CHEMIN PRINCESSE ANNE, PRINCE DE GALLES ET DANS LES ENVIRONS.",

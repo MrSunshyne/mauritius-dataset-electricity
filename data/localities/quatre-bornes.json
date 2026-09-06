@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-09-05T18:38:55.059Z",
-  "outageCount": 408,
+  "generated": "2026-09-06T09:49:43.687Z",
+  "outageCount": 409,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-09-05",
+  "lastOutage": "2026-09-06",
   "outages": [
+    {
+      "date": "Le dimanche 6 septembre 2026 de  10:20:00 à  14:20:00",
+      "streets": "AVE JACARANDAS, AVE ORCHIDES & SURROUNDINGS",
+      "from": "2026-09-06T06:20:00.000Z",
+      "to": "2026-09-06T10:20:00.000Z",
+      "id": "7a54b98ed805897da3a5e6e8b6d73de0"
+    },
     {
       "date": "Le samedi 5 septembre 2026 de  08:30:00 à  16:30:00",
       "streets": "En partie Ave Farquhar, Ollier, Res. Pere Laval et Anime Ave",
