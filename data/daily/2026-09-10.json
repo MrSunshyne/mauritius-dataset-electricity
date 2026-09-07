@@ -1,8 +1,8 @@
 {
   "date": "2026-09-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-07T10:55:29.118Z",
-  "outageCount": 2,
+  "generated": "2026-09-07T16:10:38.385Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le jeudi 10 septembre 2026 de  08:30:00 à  16:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-09-10T05:00:00.000Z",
       "to": "2026-09-10T12:00:00.000Z",
       "id": "f9d87ca4e3406d3a3a44c7d668f36f48"
+    },
+    {
+      "date": "Le jeudi 10 septembre 2026 de  09:00:00 à  15:00:00",
+      "locality": "BAIE DU CAP",
+      "localitySlug": "baie-du-cap",
+      "streets": "de St. Martin Baie Du Cap, Baie Du Cap et Choisy",
+      "district": "savanne",
+      "from": "2026-09-10T05:00:00.000Z",
+      "to": "2026-09-10T11:00:00.000Z",
+      "id": "2f0acef32a7677f8616c76ee20888f30"
     }
   ]
 }

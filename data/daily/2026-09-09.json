@@ -1,8 +1,8 @@
 {
   "date": "2026-09-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-07T10:55:29.118Z",
-  "outageCount": 2,
+  "generated": "2026-09-07T16:10:38.385Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le mercredi 9 septembre 2026 de  08:30:00 à  16:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-09-09T05:00:00.000Z",
       "to": "2026-09-09T10:00:00.000Z",
       "id": "3d83cda304a3466408c4c96b18f3042b"
+    },
+    {
+      "date": "Le mercredi 9 septembre 2026 de  09:00:00 à  15:00:00",
+      "locality": "RIAMBEL",
+      "localitySlug": "riambel",
+      "streets": "Coast Road Riambel",
+      "district": "savanne",
+      "from": "2026-09-09T05:00:00.000Z",
+      "to": "2026-09-09T11:00:00.000Z",
+      "id": "2dfe4a207c9cbe66f725d998c7bb746a"
     }
   ]
 }

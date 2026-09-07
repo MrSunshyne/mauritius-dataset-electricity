@@ -1,8 +1,8 @@
 {
   "date": "2026-09-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-07T10:55:29.118Z",
-  "outageCount": 3,
+  "generated": "2026-09-07T16:10:38.385Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le lundi 7 septembre 2026 de  09:15:00 à  17:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-09-07T09:45:00.000Z",
       "to": "2026-09-07T11:30:00.000Z",
       "id": "ef61a57578d18d6957b6f2dd82c5c24c"
+    },
+    {
+      "date": "Le lundi 7 septembre 2026 de  18:35:00 à  22:00:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "Nanka,Temple,Kalimaye Roads",
+      "district": "rivieredurempart",
+      "from": "2026-09-07T14:35:00.000Z",
+      "to": "2026-09-07T18:00:00.000Z",
+      "id": "7a0e4b60f37339c90ee1b98b303f975a"
     },
     {
       "date": "Le lundi 7 septembre 2026 de  09:00:00 à  16:00:00",
