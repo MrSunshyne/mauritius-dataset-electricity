@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-10",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-09-07T10:55:29.118Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le jeudi 10 septembre 2026 de  08:30:00 à  16:00:00",
+      "locality": "LA GAULETTE",
+      "localitySlug": "la-gaulette",
+      "streets": "Morc La Fleche, Morc Grande Case Noyale",
+      "district": "blackriver",
+      "from": "2026-09-10T04:30:00.000Z",
+      "to": "2026-09-10T12:00:00.000Z",
+      "id": "1f0f994125666c2e5e7d87680287ca67"
+    },
+    {
+      "date": "Le jeudi 10 septembre 2026 de  09:00:00 à  16:00:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "BEL AIR dans le périmètre de Petit Chemin, Clency Rd, Route Royale près du MCB, Chemin Garage et les chemins avoisinante",
+      "district": "flacq",
+      "from": "2026-09-10T05:00:00.000Z",
+      "to": "2026-09-10T12:00:00.000Z",
+      "id": "f9d87ca4e3406d3a3a44c7d668f36f48"
+    }
+  ]
+}

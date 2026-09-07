@@ -2,11 +2,18 @@
   "slug": "tamarin",
   "name": "TAMARIN",
   "district": "blackriver",
-  "generated": "2026-09-06T18:42:57.454Z",
-  "outageCount": 83,
+  "generated": "2026-09-07T10:55:29.235Z",
+  "outageCount": 84,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-09-01",
+  "lastOutage": "2026-09-09",
   "outages": [
+    {
+      "date": "Le mercredi 9 septembre 2026 de  08:30:00 à  16:00:00",
+      "streets": "Ave marlin, Morc investors",
+      "from": "2026-09-09T04:30:00.000Z",
+      "to": "2026-09-09T12:00:00.000Z",
+      "id": "0a28f5b3e672f28cdedd99b5e763f9a4"
+    },
     {
       "date": "Le mardi 1 septembre 2026 de  12:15:00 à  15:30:00",
       "streets": "ROYAL RD,CHURCH AVE,BEACH RD,PART OF TAMARIN VILLAGE",

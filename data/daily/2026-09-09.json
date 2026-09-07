@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-09",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-09-07T10:55:29.118Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mercredi 9 septembre 2026 de  08:30:00 à  16:00:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "Ave marlin, Morc investors",
+      "district": "blackriver",
+      "from": "2026-09-09T04:30:00.000Z",
+      "to": "2026-09-09T12:00:00.000Z",
+      "id": "0a28f5b3e672f28cdedd99b5e763f9a4"
+    },
+    {
+      "date": "Le mercredi 9 septembre 2026 de  09:00:00 à  14:00:00",
+      "locality": "CAMP THOREL",
+      "localitySlug": "camp-thorel",
+      "streets": "CAMP-THOREL dans le périmètre de Route Royal, Lukhoo Road et les chemins avoisinante",
+      "district": "moka",
+      "from": "2026-09-09T05:00:00.000Z",
+      "to": "2026-09-09T10:00:00.000Z",
+      "id": "3d83cda304a3466408c4c96b18f3042b"
+    }
+  ]
+}

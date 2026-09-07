@@ -2,11 +2,18 @@
   "slug": "vallee-des-pretres",
   "name": "VALLEE DES PRETRES",
   "district": "portlouis",
-  "generated": "2026-09-06T18:42:57.462Z",
-  "outageCount": 86,
+  "generated": "2026-09-07T10:55:29.243Z",
+  "outageCount": 87,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-08-22",
+  "lastOutage": "2026-09-07",
   "outages": [
+    {
+      "date": "Le lundi 7 septembre 2026 de  13:45:00 à  15:30:00",
+      "streets": "Sainte Croix,Vallee des Pretres",
+      "from": "2026-09-07T09:45:00.000Z",
+      "to": "2026-09-07T11:30:00.000Z",
+      "id": "ef61a57578d18d6957b6f2dd82c5c24c"
+    },
     {
       "date": "Le samedi 22 août 2026 de  12:30:00 à  13:30:00",
       "streets": "BERNENDIN DES ST PIERRE VALLEE DES PRETRES",

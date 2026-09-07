@@ -2,11 +2,18 @@
   "slug": "camp-thorel",
   "name": "CAMP THOREL",
   "district": "moka",
-  "generated": "2026-09-06T18:42:57.379Z",
-  "outageCount": 22,
+  "generated": "2026-09-07T10:55:29.156Z",
+  "outageCount": 23,
   "firstOutage": "2022-05-06",
-  "lastOutage": "2026-07-16",
+  "lastOutage": "2026-09-09",
   "outages": [
+    {
+      "date": "Le mercredi 9 septembre 2026 de  09:00:00 à  14:00:00",
+      "streets": "CAMP-THOREL dans le périmètre de Route Royal, Lukhoo Road et les chemins avoisinante",
+      "from": "2026-09-09T05:00:00.000Z",
+      "to": "2026-09-09T10:00:00.000Z",
+      "id": "3d83cda304a3466408c4c96b18f3042b"
+    },
     {
       "date": "Le jeudi 16 juillet 2026 de  09:00:00 à  12:00:00",
       "streets": "Camp Thorel near Luckhoo Road.",

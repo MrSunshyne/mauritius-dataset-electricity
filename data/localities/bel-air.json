@@ -2,11 +2,18 @@
   "slug": "bel-air",
   "name": "BEL AIR",
   "district": "flacq",
-  "generated": "2026-09-06T18:42:57.369Z",
-  "outageCount": 68,
+  "generated": "2026-09-07T10:55:29.144Z",
+  "outageCount": 69,
   "firstOutage": "2022-06-04",
-  "lastOutage": "2026-08-10",
+  "lastOutage": "2026-09-10",
   "outages": [
+    {
+      "date": "Le jeudi 10 septembre 2026 de  09:00:00 à  16:00:00",
+      "streets": "BEL AIR dans le périmètre de Petit Chemin, Clency Rd, Route Royale près du MCB, Chemin Garage et les chemins avoisinante",
+      "from": "2026-09-10T05:00:00.000Z",
+      "to": "2026-09-10T12:00:00.000Z",
+      "id": "f9d87ca4e3406d3a3a44c7d668f36f48"
+    },
     {
       "date": "Le lundi 10 août 2026 de  17:30:00 à  21:30:00",
       "streets": "LA LUCIE BEL AIR RIVERE SECHE",

@@ -2,11 +2,18 @@
   "slug": "la-gaulette",
   "name": "LA GAULETTE",
   "district": "blackriver",
-  "generated": "2026-09-06T18:42:57.407Z",
-  "outageCount": 18,
+  "generated": "2026-09-07T10:55:29.186Z",
+  "outageCount": 19,
   "firstOutage": "2022-07-20",
-  "lastOutage": "2026-08-21",
+  "lastOutage": "2026-09-10",
   "outages": [
+    {
+      "date": "Le jeudi 10 septembre 2026 de  08:30:00 à  16:00:00",
+      "streets": "Morc La Fleche, Morc Grande Case Noyale",
+      "from": "2026-09-10T04:30:00.000Z",
+      "to": "2026-09-10T12:00:00.000Z",
+      "id": "1f0f994125666c2e5e7d87680287ca67"
+    },
     {
       "date": "Le vendredi 21 août 2026 de  18:50:00 à  20:00:00",
       "streets": "REMI OLLIER & SURROUNDINGS",
