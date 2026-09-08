@@ -2,11 +2,18 @@
   "slug": "le-bouchon",
   "name": "LE BOUCHON",
   "district": "grandport",
-  "generated": "2026-09-07T20:14:34.385Z",
-  "outageCount": 18,
+  "generated": "2026-09-08T10:12:20.960Z",
+  "outageCount": 19,
   "firstOutage": "2022-06-28",
-  "lastOutage": "2026-07-17",
+  "lastOutage": "2026-09-10",
   "outages": [
+    {
+      "date": "Le jeudi 10 septembre 2026 de  09:00:00 à  15:00:00",
+      "streets": "La Chapel Lane, Société La Confidence, La Gamelle, Constance Lane",
+      "from": "2026-09-10T05:00:00.000Z",
+      "to": "2026-09-10T11:00:00.000Z",
+      "id": "5aa02ac86600d3dd50668fb0aa59251e"
+    },
     {
       "date": "Le vendredi 17 juillet 2026 de  12:30:00 à  19:00:00",
       "streets": "PUBLIC ROAD, DEBARCADERE ROAD, LA CAHAPELLE ROAD ET LES ALENTOURS.",

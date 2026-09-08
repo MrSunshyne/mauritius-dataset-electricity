@@ -2,11 +2,18 @@
   "slug": "pereybere",
   "name": "PEREYBERE",
   "district": "rivieredurempart",
-  "generated": "2026-09-07T20:14:34.399Z",
-  "outageCount": 120,
+  "generated": "2026-09-08T10:12:20.975Z",
+  "outageCount": 121,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-08-30",
+  "lastOutage": "2026-09-09",
   "outages": [
+    {
+      "date": "Le mercredi 9 septembre 2026 de  09:30:00 à  15:00:00",
+      "streets": "Chemin 20 pied, Old Mill Road, Morc Swan, Coastal Road and Le Flamant Road PEREYBERE",
+      "from": "2026-09-09T05:30:00.000Z",
+      "to": "2026-09-09T11:00:00.000Z",
+      "id": "bc8737315b39811d80046b934541959b"
+    },
     {
       "date": "Le dimanche 30 août 2026 de  09:00:00 à  12:00:00",
       "streets": "Dans les environs ALLEE DU VERGER ROAD, PEREYBERe",

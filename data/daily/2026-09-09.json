@@ -1,8 +1,8 @@
 {
   "date": "2026-09-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-07T20:14:34.313Z",
-  "outageCount": 3,
+  "generated": "2026-09-08T10:12:20.896Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le mercredi 9 septembre 2026 de  08:30:00 à  16:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-09-09T05:00:00.000Z",
       "to": "2026-09-09T10:00:00.000Z",
       "id": "3d83cda304a3466408c4c96b18f3042b"
+    },
+    {
+      "date": "Le mercredi 9 septembre 2026 de  09:30:00 à  15:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "Chemin 20 pied, Old Mill Road, Morc Swan, Coastal Road and Le Flamant Road PEREYBERE",
+      "district": "rivieredurempart",
+      "from": "2026-09-09T05:30:00.000Z",
+      "to": "2026-09-09T11:00:00.000Z",
+      "id": "bc8737315b39811d80046b934541959b"
     },
     {
       "date": "Le mercredi 9 septembre 2026 de  09:00:00 à  15:00:00",

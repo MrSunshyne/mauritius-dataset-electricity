@@ -2,11 +2,18 @@
   "slug": "pailles",
   "name": "PAILLES",
   "district": "portlouis",
-  "generated": "2026-09-07T20:14:34.397Z",
-  "outageCount": 83,
+  "generated": "2026-09-08T10:12:20.973Z",
+  "outageCount": 84,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-07-28",
+  "lastOutage": "2026-09-08",
   "outages": [
+    {
+      "date": "Le mardi 8 septembre 2026 de  11:00:00 à  14:00:00",
+      "streets": "MON LOISIR, RUE LA FLEUR, NHDC & SURROUNDINGS",
+      "from": "2026-09-08T07:00:00.000Z",
+      "to": "2026-09-08T10:00:00.000Z",
+      "id": "d78d0f0cd27a45a77b4252d1007b5425"
+    },
     {
       "date": "Le mardi 28 juillet 2026 de  17:00:00 à  21:00:00",
       "streets": "CITE ST LOUIS",

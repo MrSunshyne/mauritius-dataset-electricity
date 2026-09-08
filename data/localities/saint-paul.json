@@ -2,11 +2,18 @@
   "slug": "saint-paul",
   "name": "SAINT PAUL",
   "district": "plainewilhems",
-  "generated": "2026-09-07T20:14:34.425Z",
-  "outageCount": 44,
+  "generated": "2026-09-08T10:12:20.998Z",
+  "outageCount": 45,
   "firstOutage": "2022-04-28",
-  "lastOutage": "2026-08-24",
+  "lastOutage": "2026-09-08",
   "outages": [
+    {
+      "date": "Le mardi 8 septembre 2026 de  15:00:00 à  17:00:00",
+      "streets": "Pandit Jawaharlall Avenue, Une partie de Clairfond, Phoenix, Juggroo Lane, Edgard Quirin Road, Barry Road, Impasse Goomany, Morc Noel",
+      "from": "2026-09-08T11:00:00.000Z",
+      "to": "2026-09-08T13:00:00.000Z",
+      "id": "d3d0dc5be7365a68a0b9f23187da2ad4"
+    },
     {
       "date": "Le lundi 24 août 2026 de  09:00:00 à  10:00:00",
       "streets": "Morc Koenig",

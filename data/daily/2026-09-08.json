@@ -1,9 +1,29 @@
 {
   "date": "2026-09-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-07T20:14:34.313Z",
-  "outageCount": 1,
+  "generated": "2026-09-08T10:12:20.896Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le mardi 8 septembre 2026 de  15:00:00 à  17:00:00",
+      "locality": "SAINT PAUL",
+      "localitySlug": "saint-paul",
+      "streets": "Pandit Jawaharlall Avenue, Une partie de Clairfond, Phoenix, Juggroo Lane, Edgard Quirin Road, Barry Road, Impasse Goomany, Morc Noel",
+      "district": "plainewilhems",
+      "from": "2026-09-08T11:00:00.000Z",
+      "to": "2026-09-08T13:00:00.000Z",
+      "id": "d3d0dc5be7365a68a0b9f23187da2ad4"
+    },
+    {
+      "date": "Le mardi 8 septembre 2026 de  11:00:00 à  14:00:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "MON LOISIR, RUE LA FLEUR, NHDC & SURROUNDINGS",
+      "district": "portlouis",
+      "from": "2026-09-08T07:00:00.000Z",
+      "to": "2026-09-08T10:00:00.000Z",
+      "id": "d78d0f0cd27a45a77b4252d1007b5425"
+    },
     {
       "date": "Le mardi 8 septembre 2026 de  09:00:00 à  15:00:00",
       "locality": "CHAMOUNY",
