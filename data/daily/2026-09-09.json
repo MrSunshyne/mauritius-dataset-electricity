@@ -1,8 +1,8 @@
 {
   "date": "2026-09-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-08T18:09:49.483Z",
-  "outageCount": 5,
+  "generated": "2026-09-09T10:17:04.874Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le mercredi 9 septembre 2026 de  08:30:00 à  16:00:00",
@@ -45,6 +45,16 @@
       "id": "bc8737315b39811d80046b934541959b"
     },
     {
+      "date": "Le mercredi 9 septembre 2026 de  10:30:00 à  14:30:00",
+      "locality": "COTTAGE",
+      "localitySlug": "cottage",
+      "streets": "BISSOONDOYAL ROAD & SURROUNDINGS",
+      "district": "rivieredurempart",
+      "from": "2026-09-09T06:30:00.000Z",
+      "to": "2026-09-09T10:30:00.000Z",
+      "id": "b4fdacd2f452713b0fa900236304a91b"
+    },
+    {
       "date": "Le mercredi 9 septembre 2026 de  09:00:00 à  15:00:00",
       "locality": "RIAMBEL",
       "localitySlug": "riambel",
@@ -53,6 +63,16 @@
       "from": "2026-09-09T05:00:00.000Z",
       "to": "2026-09-09T11:00:00.000Z",
       "id": "2dfe4a207c9cbe66f725d998c7bb746a"
+    },
+    {
+      "date": "Le mercredi 9 septembre 2026 de  12:00:00 à  14:00:00",
+      "locality": "CITRON DONIS(RODRIGUES)",
+      "localitySlug": "citron-donis",
+      "streets": "Petit Gabriel, Bassin Gallard, Malartic, Citron Donis, Fond Baie Aux Huitre, Fond Labonte, Bigarade.",
+      "district": "rodrigues",
+      "from": "2026-09-09T08:00:00.000Z",
+      "to": "2026-09-09T10:00:00.000Z",
+      "id": "e64a806b73b81bf3950e4e90986b6854"
     }
   ]
 }

@@ -2,11 +2,18 @@
   "slug": "citron-donis",
   "name": "CITRON DONIS(RODRIGUES)",
   "district": "rodrigues",
-  "generated": "2026-09-08T18:09:49.535Z",
-  "outageCount": 3,
+  "generated": "2026-09-09T10:17:04.923Z",
+  "outageCount": 4,
   "firstOutage": "2024-02-17",
-  "lastOutage": "2025-02-20",
+  "lastOutage": "2026-09-09",
   "outages": [
+    {
+      "date": "Le mercredi 9 septembre 2026 de  12:00:00 à  14:00:00",
+      "streets": "Petit Gabriel, Bassin Gallard, Malartic, Citron Donis, Fond Baie Aux Huitre, Fond Labonte, Bigarade.",
+      "from": "2026-09-09T08:00:00.000Z",
+      "to": "2026-09-09T10:00:00.000Z",
+      "id": "e64a806b73b81bf3950e4e90986b6854"
+    },
     {
       "date": "Le jeudi 20 février 2025 de  08:30:00 à  15:00:00",
       "streets": "Bassin Gallard, Pavillon, Citron Donis, Petit Gabriel, Bigarade, Fond La Bonté, Fond Baie Aux Huitres,Malartic",
