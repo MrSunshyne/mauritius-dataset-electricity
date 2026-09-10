@@ -1,8 +1,8 @@
 {
   "date": "2026-09-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-10T14:40:58.385Z",
-  "outageCount": 9,
+  "generated": "2026-09-10T17:55:55.675Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le jeudi 10 septembre 2026 de  08:30:00 à  16:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-09-10T05:00:00.000Z",
       "to": "2026-09-10T11:00:00.000Z",
       "id": "5aa02ac86600d3dd50668fb0aa59251e"
+    },
+    {
+      "date": "Le jeudi 10 septembre 2026 de  20:45:00 à  00:00:00",
+      "locality": "SAINT HUBERT",
+      "localitySlug": "saint-hubert",
+      "streets": "ROYAL RD AND NEARBY REGION",
+      "district": "grandport",
+      "from": "2026-09-10T16:45:00.000Z",
+      "to": "2026-09-09T20:00:00.000Z",
+      "id": "505501a87f3c7f8960c81a574e21d7f7"
     },
     {
       "date": "Le jeudi 10 septembre 2026 de  13:45:00 à  15:00:00",
