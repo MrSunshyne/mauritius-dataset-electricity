@@ -2,11 +2,18 @@
   "slug": "phoenix",
   "name": "PHOENIX",
   "district": "plainewilhems",
-  "generated": "2026-09-10T10:10:30.079Z",
-  "outageCount": 120,
+  "generated": "2026-09-10T14:40:58.442Z",
+  "outageCount": 121,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-09-03",
+  "lastOutage": "2026-09-11",
   "outages": [
+    {
+      "date": "Le vendredi 11 septembre 2026 de  14:00:00 à  17:00:00",
+      "streets": "Cwa Valentina, Val de Vie Event Garden, Morc Le Noir, Petit Camp, Residence Trianon, Morc River Edge et résidants des régions et des rues suivantes : Sofia Branch Road",
+      "from": "2026-09-11T10:00:00.000Z",
+      "to": "2026-09-11T13:00:00.000Z",
+      "id": "c6a7a48181b70e71c3e65c31681620ab"
+    },
     {
       "date": "Le jeudi 3 septembre 2026 de  13:00:00 à  17:00:00",
       "streets": "Une partie de Route Royal Phoenix",

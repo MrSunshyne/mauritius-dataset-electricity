@@ -1,8 +1,8 @@
 {
   "date": "2026-09-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-10T10:10:29.985Z",
-  "outageCount": 1,
+  "generated": "2026-09-10T14:40:58.385Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le vendredi 11 septembre 2026 de  15:00:00 à  17:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-09-11T11:00:00.000Z",
       "to": "2026-09-11T13:30:00.000Z",
       "id": "668f32f9a5079fe0e4c413e79b1f5cf9"
+    },
+    {
+      "date": "Le vendredi 11 septembre 2026 de  14:00:00 à  17:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Cwa Valentina, Val de Vie Event Garden, Morc Le Noir, Petit Camp, Residence Trianon, Morc River Edge et résidants des régions et des rues suivantes : Sofia Branch Road",
+      "district": "plainewilhems",
+      "from": "2026-09-11T10:00:00.000Z",
+      "to": "2026-09-11T13:00:00.000Z",
+      "id": "c6a7a48181b70e71c3e65c31681620ab"
     }
   ]
 }
