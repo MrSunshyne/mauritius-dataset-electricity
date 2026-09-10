@@ -1,8 +1,8 @@
 {
   "date": "2026-09-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-09T18:06:03.232Z",
-  "outageCount": 4,
+  "generated": "2026-09-10T10:10:29.985Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le jeudi 10 septembre 2026 de  08:30:00 à  16:00:00",
@@ -25,6 +25,16 @@
       "id": "f9d87ca4e3406d3a3a44c7d668f36f48"
     },
     {
+      "date": "Le jeudi 10 septembre 2026 de  09:00:00 à  16:00:00",
+      "locality": "POSTE DE FLACQ",
+      "localitySlug": "poste-de-flacq",
+      "streets": "USINE SEAFOOD, EN PARTIE CAMP POORUN ET CAMP ACCACIA",
+      "district": "flacq",
+      "from": "2026-09-10T05:00:00.000Z",
+      "to": "2026-09-10T12:00:00.000Z",
+      "id": "2264e5e65f0e7470bd12d74f92e7bcd7"
+    },
+    {
       "date": "Le jeudi 10 septembre 2026 de  09:00:00 à  15:00:00",
       "locality": "LE BOUCHON",
       "localitySlug": "le-bouchon",
@@ -33,6 +43,46 @@
       "from": "2026-09-10T05:00:00.000Z",
       "to": "2026-09-10T11:00:00.000Z",
       "id": "5aa02ac86600d3dd50668fb0aa59251e"
+    },
+    {
+      "date": "Le jeudi 10 septembre 2026 de  13:45:00 à  15:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "CHEMIN SHANTILALL DANJEE, CHEMIN REMONO, CHEMIN MOSQUE, RUE EDWARD 7 ET LES ALENTOURS.",
+      "district": "plainewilhems",
+      "from": "2026-09-10T09:45:00.000Z",
+      "to": "2026-09-10T11:00:00.000Z",
+      "id": "b14735a985cd1c9bc22ce19231b92ddb"
+    },
+    {
+      "date": "Le jeudi 10 septembre 2026 de  12:30:00 à  13:30:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "MORC GHURBURRUN & SURROUNDINGS",
+      "district": "portlouis",
+      "from": "2026-09-10T08:30:00.000Z",
+      "to": "2026-09-10T09:30:00.000Z",
+      "id": "82da043776697e265f7b72b578279fca"
+    },
+    {
+      "date": "Le jeudi 10 septembre 2026 de  12:25:00 à  14:30:00",
+      "locality": "COTTAGE",
+      "localitySlug": "cottage",
+      "streets": "COTTAGE TOWARDS CWA",
+      "district": "rivieredurempart",
+      "from": "2026-09-10T08:25:00.000Z",
+      "to": "2026-09-10T10:30:00.000Z",
+      "id": "06be0ba3168feb1363fcc18cf2bf428b"
+    },
+    {
+      "date": "Le jeudi 10 septembre 2026 de  10:10:00 à  15:00:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "CHEVEREAU LANE ET LES ALENTOURS",
+      "district": "rivieredurempart",
+      "from": "2026-09-10T06:10:00.000Z",
+      "to": "2026-09-10T11:00:00.000Z",
+      "id": "24ad1ca9b6d17532bf3f7e993d24315d"
     },
     {
       "date": "Le jeudi 10 septembre 2026 de  09:00:00 à  15:00:00",

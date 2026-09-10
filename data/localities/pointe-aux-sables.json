@@ -2,11 +2,18 @@
   "slug": "pointe-aux-sables",
   "name": "POINTE AUX SABLES",
   "district": "portlouis",
-  "generated": "2026-09-09T18:06:03.327Z",
-  "outageCount": 148,
+  "generated": "2026-09-10T10:10:30.084Z",
+  "outageCount": 149,
   "firstOutage": "2022-03-30",
-  "lastOutage": "2026-08-29",
+  "lastOutage": "2026-09-10",
   "outages": [
+    {
+      "date": "Le jeudi 10 septembre 2026 de  12:30:00 à  13:30:00",
+      "streets": "MORC GHURBURRUN & SURROUNDINGS",
+      "from": "2026-09-10T08:30:00.000Z",
+      "to": "2026-09-10T09:30:00.000Z",
+      "id": "82da043776697e265f7b72b578279fca"
+    },
     {
       "date": "Le samedi 29 août 2026 de  13:00:00 à  18:00:00",
       "streets": "ROYAL RD/COASTAL RD DANS LES ENVIRONS FISHERIES.",

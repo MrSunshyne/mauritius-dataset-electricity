@@ -2,11 +2,18 @@
   "slug": "grand-gaube",
   "name": "GRAND GAUBE",
   "district": "rivieredurempart",
-  "generated": "2026-09-09T18:06:03.292Z",
-  "outageCount": 77,
+  "generated": "2026-09-10T10:10:30.048Z",
+  "outageCount": 78,
   "firstOutage": "2022-06-11",
-  "lastOutage": "2026-08-26",
+  "lastOutage": "2026-09-10",
   "outages": [
+    {
+      "date": "Le jeudi 10 septembre 2026 de  10:10:00 à  15:00:00",
+      "streets": "CHEVEREAU LANE ET LES ALENTOURS",
+      "from": "2026-09-10T06:10:00.000Z",
+      "to": "2026-09-10T11:00:00.000Z",
+      "id": "24ad1ca9b6d17532bf3f7e993d24315d"
+    },
     {
       "date": "Le mercredi 26 août 2026 de  18:30:00 à  22:30:00",
       "streets": "CHEMIN JOHN KENNEDY ET LES ALENTOURS.",
