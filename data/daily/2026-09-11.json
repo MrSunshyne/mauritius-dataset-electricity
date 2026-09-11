@@ -1,8 +1,8 @@
 {
   "date": "2026-09-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-10T20:13:29.033Z",
-  "outageCount": 2,
+  "generated": "2026-09-11T10:07:47.585Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le vendredi 11 septembre 2026 de  15:00:00 à  17:30:00",
@@ -23,6 +23,26 @@
       "from": "2026-09-11T10:00:00.000Z",
       "to": "2026-09-11T13:00:00.000Z",
       "id": "c6a7a48181b70e71c3e65c31681620ab"
+    },
+    {
+      "date": "Le vendredi 11 septembre 2026 de  10:00:00 à  13:00:00",
+      "locality": "BONNE TERRE",
+      "localitySlug": "bonne-terre",
+      "streets": "REMY OLLIER AVE, GOPEE LANE, DANS LES ALENTOURS DE GARAGE CNT, PRES DE INDIAN OIL, PRES DU COLLEGE SSS PHOENIX",
+      "district": "plainewilhems",
+      "from": "2026-09-11T06:00:00.000Z",
+      "to": "2026-09-11T09:00:00.000Z",
+      "id": "91f58b67e94d69b315a45d191967400e"
+    },
+    {
+      "date": "Le vendredi 11 septembre 2026 de  11:30:00 à  15:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "DOMAIN DU MOULIN GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2026-09-11T07:30:00.000Z",
+      "to": "2026-09-11T11:00:00.000Z",
+      "id": "5eef861a5dd82c5717de9fc3f848b594"
     }
   ]
 }

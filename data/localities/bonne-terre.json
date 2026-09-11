@@ -2,11 +2,18 @@
   "slug": "bonne-terre",
   "name": "BONNE TERRE",
   "district": "plainewilhems",
-  "generated": "2026-09-10T20:13:29.062Z",
-  "outageCount": 15,
+  "generated": "2026-09-11T10:07:47.612Z",
+  "outageCount": 16,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-05-09",
+  "lastOutage": "2026-09-11",
   "outages": [
+    {
+      "date": "Le vendredi 11 septembre 2026 de  10:00:00 à  13:00:00",
+      "streets": "REMY OLLIER AVE, GOPEE LANE, DANS LES ALENTOURS DE GARAGE CNT, PRES DE INDIAN OIL, PRES DU COLLEGE SSS PHOENIX",
+      "from": "2026-09-11T06:00:00.000Z",
+      "to": "2026-09-11T09:00:00.000Z",
+      "id": "91f58b67e94d69b315a45d191967400e"
+    },
     {
       "date": "Le samedi 9 mai 2026 de  09:00:00 à  10:00:00",
       "streets": "BONNE TERRE VACOAS",
