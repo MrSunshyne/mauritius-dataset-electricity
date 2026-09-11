@@ -2,11 +2,18 @@
   "slug": "saint-martin-r-hill",
   "name": "SAINT MARTIN R-HILL",
   "district": "plainewilhems",
-  "generated": "2026-09-11T14:39:48.843Z",
-  "outageCount": 27,
+  "generated": "2026-09-11T17:58:12.950Z",
+  "outageCount": 28,
   "firstOutage": "2022-05-28",
-  "lastOutage": "2026-09-11",
+  "lastOutage": "2026-09-12",
   "outages": [
+    {
+      "date": "Le samedi 12 septembre 2026 de  08:00:00 à  14:00:00",
+      "streets": "BEM, POULTRY SODIA, MASTER BREADERS, SOOREEFARM",
+      "from": "2026-09-12T04:00:00.000Z",
+      "to": "2026-09-12T10:00:00.000Z",
+      "id": "af2f2b5fcadf65aba771ce6c2eb34007"
+    },
     {
       "date": "Le vendredi 11 septembre 2026 de  15:00:00 à  17:00:00",
       "streets": "VERGER BISSAMBAR SAINT MARTIN NR COOPERATIVE",

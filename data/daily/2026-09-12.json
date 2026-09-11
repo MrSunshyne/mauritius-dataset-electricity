@@ -1,8 +1,8 @@
 {
   "date": "2026-09-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-11T14:39:48.734Z",
-  "outageCount": 2,
+  "generated": "2026-09-11T17:58:12.885Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le samedi 12 septembre 2026 de  08:30:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-09-12T04:30:00.000Z",
       "to": "2026-09-12T12:00:00.000Z",
       "id": "9a4c6d806fc7bff3dbe10be512a80ad8"
+    },
+    {
+      "date": "Le samedi 12 septembre 2026 de  08:00:00 à  14:00:00",
+      "locality": "SAINT MARTIN R-HILL",
+      "localitySlug": "saint-martin-r-hill",
+      "streets": "BEM, POULTRY SODIA, MASTER BREADERS, SOOREEFARM",
+      "district": "plainewilhems",
+      "from": "2026-09-12T04:00:00.000Z",
+      "to": "2026-09-12T10:00:00.000Z",
+      "id": "af2f2b5fcadf65aba771ce6c2eb34007"
     },
     {
       "date": "Le samedi 12 septembre 2026 de  08:30:00 à  15:00:00",

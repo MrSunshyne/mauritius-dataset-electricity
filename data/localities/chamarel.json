@@ -2,11 +2,18 @@
   "slug": "chamarel",
   "name": "CHAMAREL",
   "district": "blackriver",
-  "generated": "2026-09-11T14:39:48.774Z",
-  "outageCount": 40,
+  "generated": "2026-09-11T17:58:12.911Z",
+  "outageCount": 41,
   "firstOutage": "2022-03-24",
-  "lastOutage": "2026-08-29",
+  "lastOutage": "2026-09-11",
   "outages": [
+    {
+      "date": "Le vendredi 11 septembre 2026 de  20:30:00 à  00:00:00",
+      "streets": "CHAMAREL DANS ENVIRONS LE VIEILLE CHEMINEE.",
+      "from": "2026-09-11T16:30:00.000Z",
+      "to": "2026-09-10T20:00:00.000Z",
+      "id": "b0ca70a62b567aea0cb7278f184c8767"
+    },
     {
       "date": "Le samedi 29 août 2026 de  15:00:00 à  21:00:00",
       "streets": "CHAMAREL",

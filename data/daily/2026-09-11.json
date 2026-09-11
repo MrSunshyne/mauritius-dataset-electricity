@@ -1,8 +1,8 @@
 {
   "date": "2026-09-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-11T14:39:48.734Z",
-  "outageCount": 5,
+  "generated": "2026-09-11T17:58:12.885Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le vendredi 11 septembre 2026 de  15:00:00 à  17:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-09-11T11:00:00.000Z",
       "to": "2026-09-11T13:30:00.000Z",
       "id": "668f32f9a5079fe0e4c413e79b1f5cf9"
+    },
+    {
+      "date": "Le vendredi 11 septembre 2026 de  20:30:00 à  00:00:00",
+      "locality": "CHAMAREL",
+      "localitySlug": "chamarel",
+      "streets": "CHAMAREL DANS ENVIRONS LE VIEILLE CHEMINEE.",
+      "district": "blackriver",
+      "from": "2026-09-11T16:30:00.000Z",
+      "to": "2026-09-10T20:00:00.000Z",
+      "id": "b0ca70a62b567aea0cb7278f184c8767"
     },
     {
       "date": "Le vendredi 11 septembre 2026 de  14:00:00 à  17:00:00",
