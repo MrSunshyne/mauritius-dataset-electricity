@@ -2,11 +2,18 @@
   "slug": "trou-aux-biches",
   "name": "TROU AUX BICHES",
   "district": "pamplemousses",
-  "generated": "2026-09-11T17:58:12.957Z",
-  "outageCount": 68,
+  "generated": "2026-09-11T20:23:43.965Z",
+  "outageCount": 69,
   "firstOutage": "2022-04-10",
-  "lastOutage": "2026-08-11",
+  "lastOutage": "2026-09-11",
   "outages": [
+    {
+      "date": "Le vendredi 11 septembre 2026 de  00:00:00 à  02:00:00",
+      "streets": "TALIPOT ST AND NEARBY REGION",
+      "from": "2026-09-10T20:00:00.000Z",
+      "to": "2026-09-09T22:00:00.000Z",
+      "id": "71d88d97fe585768a6612e490671fa2a"
+    },
     {
       "date": "Le mardi 11 août 2026 de  10:30:00 à  16:00:00",
       "streets": "DANS LES ALENTOURS DE ECOLE",

@@ -1,8 +1,8 @@
 {
   "date": "2026-09-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-11T17:58:12.885Z",
-  "outageCount": 6,
+  "generated": "2026-09-11T20:23:43.840Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le vendredi 11 septembre 2026 de  15:00:00 à  17:30:00",
@@ -23,6 +23,16 @@
       "from": "2026-09-11T16:30:00.000Z",
       "to": "2026-09-10T20:00:00.000Z",
       "id": "b0ca70a62b567aea0cb7278f184c8767"
+    },
+    {
+      "date": "Le vendredi 11 septembre 2026 de  00:00:00 à  02:00:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "TALIPOT ST AND NEARBY REGION",
+      "district": "pamplemousses",
+      "from": "2026-09-10T20:00:00.000Z",
+      "to": "2026-09-09T22:00:00.000Z",
+      "id": "71d88d97fe585768a6612e490671fa2a"
     },
     {
       "date": "Le vendredi 11 septembre 2026 de  14:00:00 à  17:00:00",
