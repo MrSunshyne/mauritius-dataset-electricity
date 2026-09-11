@@ -2,11 +2,18 @@
   "slug": "saint-martin-r-hill",
   "name": "SAINT MARTIN R-HILL",
   "district": "plainewilhems",
-  "generated": "2026-09-11T10:07:47.683Z",
-  "outageCount": 26,
+  "generated": "2026-09-11T14:39:48.843Z",
+  "outageCount": 27,
   "firstOutage": "2022-05-28",
-  "lastOutage": "2026-08-29",
+  "lastOutage": "2026-09-11",
   "outages": [
+    {
+      "date": "Le vendredi 11 septembre 2026 de  15:00:00 à  17:00:00",
+      "streets": "VERGER BISSAMBAR SAINT MARTIN NR COOPERATIVE",
+      "from": "2026-09-11T11:00:00.000Z",
+      "to": "2026-09-11T13:00:00.000Z",
+      "id": "87e0c98eb4827fb0f023b46674aa146c"
+    },
     {
       "date": "Le samedi 29 août 2026 de  08:00:00 à  14:00:00",
       "streets": "Bem Recycling, Master Breaders, Soreefarm et Hydro La Ferme",

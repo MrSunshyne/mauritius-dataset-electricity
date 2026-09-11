@@ -1,8 +1,8 @@
 {
   "date": "2026-09-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-11T10:07:47.585Z",
-  "outageCount": 4,
+  "generated": "2026-09-11T14:39:48.734Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le vendredi 11 septembre 2026 de  15:00:00 à  17:30:00",
@@ -33,6 +33,16 @@
       "from": "2026-09-11T06:00:00.000Z",
       "to": "2026-09-11T09:00:00.000Z",
       "id": "91f58b67e94d69b315a45d191967400e"
+    },
+    {
+      "date": "Le vendredi 11 septembre 2026 de  15:00:00 à  17:00:00",
+      "locality": "SAINT MARTIN R-HILL",
+      "localitySlug": "saint-martin-r-hill",
+      "streets": "VERGER BISSAMBAR SAINT MARTIN NR COOPERATIVE",
+      "district": "plainewilhems",
+      "from": "2026-09-11T11:00:00.000Z",
+      "to": "2026-09-11T13:00:00.000Z",
+      "id": "87e0c98eb4827fb0f023b46674aa146c"
     },
     {
       "date": "Le vendredi 11 septembre 2026 de  11:30:00 à  15:00:00",

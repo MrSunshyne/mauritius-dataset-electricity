@@ -1,8 +1,8 @@
 {
   "date": "2026-09-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-11T10:07:47.585Z",
-  "outageCount": 1,
+  "generated": "2026-09-11T14:39:48.734Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le samedi 12 septembre 2026 de  08:30:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-09-12T04:30:00.000Z",
       "to": "2026-09-12T12:00:00.000Z",
       "id": "9a4c6d806fc7bff3dbe10be512a80ad8"
+    },
+    {
+      "date": "Le samedi 12 septembre 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Pistache, Montagne Croupier, Piment Reposoir, Baie Topaze, Camp Pintade, Plaine Maho, Grand Var, Petite Butte et Corail",
+      "district": "rodrigues",
+      "from": "2026-09-12T04:30:00.000Z",
+      "to": "2026-09-12T11:00:00.000Z",
+      "id": "ef44d763fffb41fc0bdaf2f9a4467df2"
     }
   ]
 }
