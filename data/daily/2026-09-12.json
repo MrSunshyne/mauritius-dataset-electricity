@@ -1,8 +1,8 @@
 {
   "date": "2026-09-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-11T20:23:43.840Z",
-  "outageCount": 3,
+  "generated": "2026-09-12T09:42:37.832Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le samedi 12 septembre 2026 de  08:30:00 à  16:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-09-12T04:00:00.000Z",
       "to": "2026-09-12T10:00:00.000Z",
       "id": "af2f2b5fcadf65aba771ce6c2eb34007"
+    },
+    {
+      "date": "Le samedi 12 septembre 2026 de  09:00:00 à  15:00:00",
+      "locality": "EBENE",
+      "localitySlug": "ebene",
+      "streets": "MAEVA TOWER(ALL FLOORS)",
+      "district": "plainewilhems",
+      "from": "2026-09-12T05:00:00.000Z",
+      "to": "2026-09-12T11:00:00.000Z",
+      "id": "aa565251b7a94db0f2e5c6a3398bd70e"
     },
     {
       "date": "Le samedi 12 septembre 2026 de  08:30:00 à  15:00:00",

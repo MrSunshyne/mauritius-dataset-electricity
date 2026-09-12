@@ -2,11 +2,18 @@
   "slug": "ebene",
   "name": "EBENE",
   "district": "plainewilhems",
-  "generated": "2026-09-11T20:23:43.891Z",
-  "outageCount": 28,
+  "generated": "2026-09-12T09:42:37.886Z",
+  "outageCount": 29,
   "firstOutage": "2022-04-25",
-  "lastOutage": "2026-08-05",
+  "lastOutage": "2026-09-12",
   "outages": [
+    {
+      "date": "Le samedi 12 septembre 2026 de  09:00:00 à  15:00:00",
+      "streets": "MAEVA TOWER(ALL FLOORS)",
+      "from": "2026-09-12T05:00:00.000Z",
+      "to": "2026-09-12T11:00:00.000Z",
+      "id": "aa565251b7a94db0f2e5c6a3398bd70e"
+    },
     {
       "date": "Le mercredi 5 août 2026 de  14:00:00 à  16:30:00",
       "streets": "MORC BEGA",
