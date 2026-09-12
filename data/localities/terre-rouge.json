@@ -2,11 +2,18 @@
   "slug": "terre-rouge",
   "name": "TERRE ROUGE",
   "district": "pamplemousses",
-  "generated": "2026-09-12T16:35:25.900Z",
-  "outageCount": 112,
+  "generated": "2026-09-12T18:50:13.374Z",
+  "outageCount": 113,
   "firstOutage": "2022-03-14",
-  "lastOutage": "2026-08-13",
+  "lastOutage": "2026-09-12",
   "outages": [
+    {
+      "date": "Le samedi 12 septembre 2026 de  20:45:00 à  00:00:00",
+      "streets": "ROUTE ROYALE DANS LES ENVIRONS MOSQUE/WAZIFA TRADING.",
+      "from": "2026-09-12T16:45:00.000Z",
+      "to": "2026-09-11T20:00:00.000Z",
+      "id": "1729492edeede893475f1160c5ab240a"
+    },
     {
       "date": "Le jeudi 13 août 2026 de  20:00:00 à  01:30:00",
       "streets": "AVE DES FOUGERES TERRE ROUGE",
