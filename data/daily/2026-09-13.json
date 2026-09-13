@@ -1,9 +1,19 @@
 {
   "date": "2026-09-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-12T18:50:13.251Z",
-  "outageCount": 1,
+  "generated": "2026-09-13T10:44:27.842Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le dimanche 13 septembre 2026 de  12:00:00 à  17:00:00",
+      "locality": "LA LAURA SAINT PIERRE",
+      "localitySlug": "la-laura-saint-pierre",
+      "streets": "GARDEN ROAD, RIVIERE BAPTISTE RD, DANS LES ENVIRONS L-ECOLE LA LAURA / USINE MISS CROC ET LES ALENTOURS.",
+      "district": "moka",
+      "from": "2026-09-13T08:00:00.000Z",
+      "to": "2026-09-13T13:00:00.000Z",
+      "id": "962595c70260b0baed3885dde1ba59c8"
+    },
     {
       "date": "Le dimanche 13 septembre 2026 de  08:30:00 à  15:00:00",
       "locality": "RODRIGUES",
