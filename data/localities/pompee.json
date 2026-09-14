@@ -2,11 +2,18 @@
   "slug": "pompee",
   "name": "POMPEE(RODRIGUES)",
   "district": "rodrigues",
-  "generated": "2026-09-14T11:08:02.354Z",
-  "outageCount": 9,
+  "generated": "2026-09-14T17:10:00.488Z",
+  "outageCount": 10,
   "firstOutage": "2022-05-14",
-  "lastOutage": "2025-12-19",
+  "lastOutage": "2026-09-17",
   "outages": [
+    {
+      "date": "Le jeudi 17 septembre 2026 de  08:30:00 à  15:00:00",
+      "streets": "Camp Paul",
+      "from": "2026-09-17T04:30:00.000Z",
+      "to": "2026-09-17T11:00:00.000Z",
+      "id": "627bba2a55545dfd0474e05a0dc4c3c4"
+    },
     {
       "date": "Le vendredi 19 décembre 2025 de  15:00:00 à  16:00:00",
       "streets": "Camp Paul et Eau Clair",

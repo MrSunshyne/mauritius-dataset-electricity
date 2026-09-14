@@ -2,11 +2,18 @@
   "slug": "floreal",
   "name": "FLOREAL",
   "district": "plainewilhems",
-  "generated": "2026-09-14T11:08:02.316Z",
-  "outageCount": 96,
+  "generated": "2026-09-14T17:10:00.442Z",
+  "outageCount": 97,
   "firstOutage": "2022-03-31",
-  "lastOutage": "2026-08-16",
+  "lastOutage": "2026-09-14",
   "outages": [
+    {
+      "date": "Le lundi 14 septembre 2026 de  20:00:00 à  22:00:00",
+      "streets": "MISSISSIPPI LANE AND NEAR SOCIAL CENTRE",
+      "from": "2026-09-14T16:00:00.000Z",
+      "to": "2026-09-14T18:00:00.000Z",
+      "id": "abfa39dbce952d61262eab8403fe254f"
+    },
     {
       "date": "Le dimanche 16 août 2026 de  08:00:00 à  09:00:00",
       "streets": "JOHN KENNEDY LANE FLOREAL",

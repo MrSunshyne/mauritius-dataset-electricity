@@ -1,8 +1,8 @@
 {
   "date": "2026-09-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-14T11:08:02.260Z",
-  "outageCount": 1,
+  "generated": "2026-09-14T17:10:00.380Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le jeudi 17 septembre 2026 de  08:30:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-09-17T04:30:00.000Z",
       "to": "2026-09-17T12:00:00.000Z",
       "id": "5694d55b0338e35e1abd9800732542e8"
+    },
+    {
+      "date": "Le jeudi 17 septembre 2026 de  08:30:00 à  15:00:00",
+      "locality": "POMPEE(RODRIGUES)",
+      "localitySlug": "pompee",
+      "streets": "Camp Paul",
+      "district": "rodrigues",
+      "from": "2026-09-17T04:30:00.000Z",
+      "to": "2026-09-17T11:00:00.000Z",
+      "id": "627bba2a55545dfd0474e05a0dc4c3c4"
     }
   ]
 }
