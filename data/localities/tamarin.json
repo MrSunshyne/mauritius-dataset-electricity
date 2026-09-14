@@ -2,11 +2,25 @@
   "slug": "tamarin",
   "name": "TAMARIN",
   "district": "blackriver",
-  "generated": "2026-09-13T19:57:10.754Z",
-  "outageCount": 84,
+  "generated": "2026-09-14T11:08:02.378Z",
+  "outageCount": 86,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-09-09",
+  "lastOutage": "2026-09-17",
   "outages": [
+    {
+      "date": "Le jeudi 17 septembre 2026 de  08:30:00 à  16:00:00",
+      "streets": "MORC CARLOS",
+      "from": "2026-09-17T04:30:00.000Z",
+      "to": "2026-09-17T12:00:00.000Z",
+      "id": "5694d55b0338e35e1abd9800732542e8"
+    },
+    {
+      "date": "Le mercredi 16 septembre 2026 de  08:30:00 à  16:00:00",
+      "streets": "TAMARIN VILLAGE",
+      "from": "2026-09-16T04:30:00.000Z",
+      "to": "2026-09-16T12:00:00.000Z",
+      "id": "668dc3a07cf35ac2bf47df26ec481029"
+    },
     {
       "date": "Le mercredi 9 septembre 2026 de  08:30:00 à  16:00:00",
       "streets": "Ave marlin, Morc investors",

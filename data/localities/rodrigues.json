@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-09-13T19:57:10.745Z",
-  "outageCount": 267,
+  "generated": "2026-09-14T11:08:02.368Z",
+  "outageCount": 268,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-09-13",
+  "lastOutage": "2026-09-14",
   "outages": [
+    {
+      "date": "Le lundi 14 septembre 2026 de  12:00:00 à  16:00:00",
+      "streets": "Corail Petite Butte,Grand Var, Montagne Cabris Corail,Grand La Fouche Corail et La Ferme Citron",
+      "from": "2026-09-14T08:00:00.000Z",
+      "to": "2026-09-14T12:00:00.000Z",
+      "id": "b58ff2aab670847e33d0e887c6ea48d5"
+    },
     {
       "date": "Le dimanche 13 septembre 2026 de  08:30:00 à  15:00:00",
       "streets": "Corail Petite Butte, Montagne Cabris Corail,Grand La Fouche Corail, Citron, La Ferme et Manique",

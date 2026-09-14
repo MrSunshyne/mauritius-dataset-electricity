@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-14",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-09-14T11:08:02.260Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le lundi 14 septembre 2026 de  14:30:00 à  16:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "MORC PETIT VILLAGE -MAMZEL JEANNE GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2026-09-14T10:30:00.000Z",
+      "to": "2026-09-14T12:00:00.000Z",
+      "id": "0f4d454a5332e3cea3bc1e5960b53556"
+    },
+    {
+      "date": "Le lundi 14 septembre 2026 de  12:00:00 à  16:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Corail Petite Butte,Grand Var, Montagne Cabris Corail,Grand La Fouche Corail et La Ferme Citron",
+      "district": "rodrigues",
+      "from": "2026-09-14T08:00:00.000Z",
+      "to": "2026-09-14T12:00:00.000Z",
+      "id": "b58ff2aab670847e33d0e887c6ea48d5"
+    }
+  ]
+}

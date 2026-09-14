@@ -2,11 +2,18 @@
   "slug": "rose-hill",
   "name": "ROSE-HILL",
   "district": "plainewilhems",
-  "generated": "2026-09-13T19:57:10.746Z",
-  "outageCount": 192,
+  "generated": "2026-09-14T11:08:02.369Z",
+  "outageCount": 193,
   "firstOutage": "2022-05-20",
-  "lastOutage": "2026-09-10",
+  "lastOutage": "2026-09-16",
   "outages": [
+    {
+      "date": "Le mercredi 16 septembre 2026 de  09:00:00 à  13:00:00",
+      "streets": "Morc Mumbai et les environs",
+      "from": "2026-09-16T05:00:00.000Z",
+      "to": "2026-09-16T09:00:00.000Z",
+      "id": "fa24932f0ebde2d39cb5eca48acd7b4a"
+    },
     {
       "date": "Le jeudi 10 septembre 2026 de  13:45:00 à  15:00:00",
       "streets": "CHEMIN SHANTILALL DANJEE, CHEMIN REMONO, CHEMIN MOSQUE, RUE EDWARD 7 ET LES ALENTOURS.",

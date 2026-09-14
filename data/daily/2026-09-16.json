@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-16",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-09-14T11:08:02.260Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mercredi 16 septembre 2026 de  08:30:00 à  16:00:00",
+      "locality": "TAMARIN",
+      "localitySlug": "tamarin",
+      "streets": "TAMARIN VILLAGE",
+      "district": "blackriver",
+      "from": "2026-09-16T04:30:00.000Z",
+      "to": "2026-09-16T12:00:00.000Z",
+      "id": "668dc3a07cf35ac2bf47df26ec481029"
+    },
+    {
+      "date": "Le mercredi 16 septembre 2026 de  09:00:00 à  13:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "Morc Mumbai et les environs",
+      "district": "plainewilhems",
+      "from": "2026-09-16T05:00:00.000Z",
+      "to": "2026-09-16T09:00:00.000Z",
+      "id": "fa24932f0ebde2d39cb5eca48acd7b4a"
+    }
+  ]
+}

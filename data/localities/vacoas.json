@@ -2,11 +2,18 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-09-13T19:57:10.761Z",
-  "outageCount": 270,
+  "generated": "2026-09-14T11:08:02.384Z",
+  "outageCount": 271,
   "firstOutage": "2022-03-17",
-  "lastOutage": "2026-09-03",
+  "lastOutage": "2026-09-20",
   "outages": [
+    {
+      "date": "Le dimanche 20 septembre 2026 de  08:30:00 à  17:00:00",
+      "streets": "Rue Remi-Ollier, Morcellement Fleuriot, Gopee Lane",
+      "from": "2026-09-20T04:30:00.000Z",
+      "to": "2026-09-20T13:00:00.000Z",
+      "id": "e2f67a43329399096361a63a815d1812"
+    },
     {
       "date": "Le jeudi 3 septembre 2026 de  15:00:00 à  17:00:00",
       "streets": "Cite La Caverne, NHDC La Caverne, La Caverne No. 1 et No. 2, Morcellement Triton, Chemin Mission, Avenue Charles de Gaulles, Morcellement Lagesse",
