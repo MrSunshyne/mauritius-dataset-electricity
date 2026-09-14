@@ -2,11 +2,18 @@
   "slug": "riambel",
   "name": "RIAMBEL",
   "district": "savanne",
-  "generated": "2026-09-14T17:10:00.494Z",
-  "outageCount": 34,
+  "generated": "2026-09-14T21:07:36.056Z",
+  "outageCount": 35,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-09-09",
+  "lastOutage": "2026-09-14",
   "outages": [
+    {
+      "date": "Le lundi 14 septembre 2026 de  18:00:00 à  01:00:00",
+      "streets": "COASTAL ROAD DANS LES ENVIRONS KOVIL/FISHERIES.",
+      "from": "2026-09-14T14:00:00.000Z",
+      "to": "2026-09-13T21:00:00.000Z",
+      "id": "6714482cc5dfd790b27120a4590521ad"
+    },
     {
       "date": "Le mercredi 9 septembre 2026 de  09:00:00 à  15:00:00",
       "streets": "Coast Road Riambel",

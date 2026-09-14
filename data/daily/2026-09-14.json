@@ -1,9 +1,19 @@
 {
   "date": "2026-09-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-14T17:10:00.380Z",
-  "outageCount": 3,
+  "generated": "2026-09-14T21:07:35.953Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le lundi 14 septembre 2026 de  00:00:00 à  03:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "TERMINUS ROAD TRIOLET ET DANS LES ALENTOURS TEMPLE ISKCON.",
+      "district": "pamplemousses",
+      "from": "2026-09-13T20:00:00.000Z",
+      "to": "2026-09-12T23:00:00.000Z",
+      "id": "b55b24edfa82f99f4a34e82cb09fe88b"
+    },
     {
       "date": "Le lundi 14 septembre 2026 de  20:00:00 à  22:00:00",
       "locality": "FLOREAL",
@@ -23,6 +33,16 @@
       "from": "2026-09-14T10:30:00.000Z",
       "to": "2026-09-14T12:00:00.000Z",
       "id": "0f4d454a5332e3cea3bc1e5960b53556"
+    },
+    {
+      "date": "Le lundi 14 septembre 2026 de  18:00:00 à  01:00:00",
+      "locality": "RIAMBEL",
+      "localitySlug": "riambel",
+      "streets": "COASTAL ROAD DANS LES ENVIRONS KOVIL/FISHERIES.",
+      "district": "savanne",
+      "from": "2026-09-14T14:00:00.000Z",
+      "to": "2026-09-13T21:00:00.000Z",
+      "id": "6714482cc5dfd790b27120a4590521ad"
     },
     {
       "date": "Le lundi 14 septembre 2026 de  12:00:00 à  16:00:00",

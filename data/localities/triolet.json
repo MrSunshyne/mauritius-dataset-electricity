@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-09-14T17:10:00.515Z",
-  "outageCount": 148,
+  "generated": "2026-09-14T21:07:36.073Z",
+  "outageCount": 149,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-09-06",
+  "lastOutage": "2026-09-14",
   "outages": [
+    {
+      "date": "Le lundi 14 septembre 2026 de  00:00:00 à  03:00:00",
+      "streets": "TERMINUS ROAD TRIOLET ET DANS LES ALENTOURS TEMPLE ISKCON.",
+      "from": "2026-09-13T20:00:00.000Z",
+      "to": "2026-09-12T23:00:00.000Z",
+      "id": "b55b24edfa82f99f4a34e82cb09fe88b"
+    },
     {
       "date": "Le dimanche 6 septembre 2026 de  20:45:00 à  00:00:00",
       "streets": "ROUTE ROYALE 9EME MILLE DANS LES ENVIRONS HASSEN TAHER SEAFOODS.",
