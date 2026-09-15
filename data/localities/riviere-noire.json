@@ -2,11 +2,18 @@
   "slug": "riviere-noire",
   "name": "RIVIERE NOIRE",
   "district": "blackriver",
-  "generated": "2026-09-15T10:36:36.197Z",
-  "outageCount": 51,
+  "generated": "2026-09-15T15:19:13.774Z",
+  "outageCount": 52,
   "firstOutage": "2022-06-03",
-  "lastOutage": "2026-09-03",
+  "lastOutage": "2026-09-15",
   "outages": [
+    {
+      "date": "Le mardi 15 septembre 2026 de  15:30:00 à  20:00:00",
+      "streets": "EN PARTIE MORC RAMDANEE RIVIERE NOIRE",
+      "from": "2026-09-15T11:30:00.000Z",
+      "to": "2026-09-15T16:00:00.000Z",
+      "id": "363fc3c84e2ad7d29a19756ae95c62ee"
+    },
     {
       "date": "Le jeudi 3 septembre 2026 de  11:30:00 à  17:00:00",
       "streets": "RIV NOIRE,MORC RAMDHANY,GORGES",

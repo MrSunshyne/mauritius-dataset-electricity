@@ -1,9 +1,29 @@
 {
   "date": "2026-09-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-15T10:36:36.081Z",
-  "outageCount": 1,
+  "generated": "2026-09-15T15:19:13.670Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le mardi 15 septembre 2026 de  15:30:00 à  20:00:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "EN PARTIE MORC RAMDANEE RIVIERE NOIRE",
+      "district": "blackriver",
+      "from": "2026-09-15T11:30:00.000Z",
+      "to": "2026-09-15T16:00:00.000Z",
+      "id": "363fc3c84e2ad7d29a19756ae95c62ee"
+    },
+    {
+      "date": "Le mardi 15 septembre 2026 de  18:30:00 à  21:30:00",
+      "locality": "MEDINE CAMP DE MASQUE",
+      "localitySlug": "medine-camp-de-masque",
+      "streets": "WHOLE VILLAGE",
+      "district": "flacq",
+      "from": "2026-09-15T14:30:00.000Z",
+      "to": "2026-09-15T17:30:00.000Z",
+      "id": "4af510e6f88fd434dfc729187cb29593"
+    },
     {
       "date": "Le mardi 15 septembre 2026 de  13:45:00 à  15:30:00",
       "locality": "RICHE TERRE",
