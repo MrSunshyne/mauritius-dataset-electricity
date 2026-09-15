@@ -2,11 +2,18 @@
   "slug": "grand-bay",
   "name": "GRAND BAY",
   "district": "rivieredurempart",
-  "generated": "2026-09-15T15:19:13.726Z",
-  "outageCount": 125,
+  "generated": "2026-09-15T19:20:09.610Z",
+  "outageCount": 126,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-09-06",
+  "lastOutage": "2026-09-15",
   "outages": [
+    {
+      "date": "Le mardi 15 septembre 2026 de  22:45:00 à  02:00:00",
+      "streets": "SOTTISE ROAD DANS LES ENVIRONS NHDC / FOOD FACTORY ET LES ALENTOURS.",
+      "from": "2026-09-15T18:45:00.000Z",
+      "to": "2026-09-14T22:00:00.000Z",
+      "id": "43f8de9075cec6a9efd8448391940908"
+    },
     {
       "date": "Le dimanche 6 septembre 2026 de  12:45:00 à  17:00:00",
       "streets": "RESIDENCE NETRA CHEMIN 20 PIED",
