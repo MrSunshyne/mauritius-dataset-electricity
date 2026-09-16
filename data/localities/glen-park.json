@@ -2,11 +2,25 @@
   "slug": "glen-park",
   "name": "GLEN PARK",
   "district": "plainewilhems",
-  "generated": "2026-09-16T10:25:08.841Z",
-  "outageCount": 47,
+  "generated": "2026-09-16T15:11:35.122Z",
+  "outageCount": 49,
   "firstOutage": "2022-04-26",
-  "lastOutage": "2026-09-08",
+  "lastOutage": "2026-09-19",
   "outages": [
+    {
+      "date": "Le samedi 19 septembre 2026 de  11:00:00 à  14:00:00",
+      "streets": "Rempart Road, Glen Park",
+      "from": "2026-09-19T07:00:00.000Z",
+      "to": "2026-09-19T10:00:00.000Z",
+      "id": "bfb939b45bc33b9c46a36951a66501e0"
+    },
+    {
+      "date": "Le samedi 19 septembre 2026 de  09:00:00 à  12:00:00",
+      "streets": "Royal Road Glen Park, Mumbhai Rd no 1,2 et 3",
+      "from": "2026-09-19T05:00:00.000Z",
+      "to": "2026-09-19T08:00:00.000Z",
+      "id": "85251fa6b45b16aba85c15edaf91f67f"
+    },
     {
       "date": "Le mardi 8 septembre 2026 de  22:00:00 à  01:00:00",
       "streets": "EN PARTIE LES ABONNES DE NHDC GLEN PARK.",

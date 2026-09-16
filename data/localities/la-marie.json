@@ -2,11 +2,18 @@
   "slug": "la-marie",
   "name": "LA MARIE",
   "district": "plainewilhems",
-  "generated": "2026-09-16T10:25:08.849Z",
-  "outageCount": 61,
+  "generated": "2026-09-16T15:11:35.132Z",
+  "outageCount": 62,
   "firstOutage": "2022-07-07",
-  "lastOutage": "2026-08-26",
+  "lastOutage": "2026-09-20",
   "outages": [
+    {
+      "date": "Le dimanche 20 septembre 2026 de  09:00:00 à  11:00:00",
+      "streets": "Royal Road La Marie, Malakoff and Meerun lane",
+      "from": "2026-09-20T05:00:00.000Z",
+      "to": "2026-09-20T07:00:00.000Z",
+      "id": "c1ff03677ca2cd97fe498688532a6e0f"
+    },
     {
       "date": "Le mercredi 26 août 2026 de  14:00:00 à  15:30:00",
       "streets": "LAMARIE CHEMIN MARE AUX VACOAS",

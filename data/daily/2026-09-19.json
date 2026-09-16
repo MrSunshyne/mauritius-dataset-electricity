@@ -1,8 +1,8 @@
 {
   "date": "2026-09-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-16T10:25:08.796Z",
-  "outageCount": 1,
+  "generated": "2026-09-16T15:11:35.063Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le samedi 19 septembre 2026 de  08:30:00 à  15:30:00",
@@ -13,6 +13,26 @@
       "from": "2026-09-19T04:30:00.000Z",
       "to": "2026-09-19T11:30:00.000Z",
       "id": "1f7ac5b0f1f4042d0654f8b7261eb1e0"
+    },
+    {
+      "date": "Le samedi 19 septembre 2026 de  11:00:00 à  14:00:00",
+      "locality": "GLEN PARK",
+      "localitySlug": "glen-park",
+      "streets": "Rempart Road, Glen Park",
+      "district": "plainewilhems",
+      "from": "2026-09-19T07:00:00.000Z",
+      "to": "2026-09-19T10:00:00.000Z",
+      "id": "bfb939b45bc33b9c46a36951a66501e0"
+    },
+    {
+      "date": "Le samedi 19 septembre 2026 de  09:00:00 à  12:00:00",
+      "locality": "GLEN PARK",
+      "localitySlug": "glen-park",
+      "streets": "Royal Road Glen Park, Mumbhai Rd no 1,2 et 3",
+      "district": "plainewilhems",
+      "from": "2026-09-19T05:00:00.000Z",
+      "to": "2026-09-19T08:00:00.000Z",
+      "id": "85251fa6b45b16aba85c15edaf91f67f"
     }
   ]
 }

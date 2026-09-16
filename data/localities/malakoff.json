@@ -2,11 +2,18 @@
   "slug": "malakoff",
   "name": "MALAKOFF",
   "district": "portlouis",
-  "generated": "2026-09-16T10:25:08.854Z",
-  "outageCount": 2,
+  "generated": "2026-09-16T15:11:35.138Z",
+  "outageCount": 3,
   "firstOutage": "2024-07-26",
-  "lastOutage": "2025-03-26",
+  "lastOutage": "2026-09-20",
   "outages": [
+    {
+      "date": "Le dimanche 20 septembre 2026 de  08:30:00 à  17:00:00",
+      "streets": "Plein Bois et Malakoff",
+      "from": "2026-09-20T04:30:00.000Z",
+      "to": "2026-09-20T13:00:00.000Z",
+      "id": "540095b83a4f91b2da3ad41d4dab635c"
+    },
     {
       "date": "Le mercredi 26 mars 2025 de  19:00:00 à  21:30:00",
       "streets": "MALAKOF",

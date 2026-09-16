@@ -1,8 +1,8 @@
 {
   "date": "2026-09-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-16T10:25:08.796Z",
-  "outageCount": 4,
+  "generated": "2026-09-16T15:11:35.063Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le dimanche 20 septembre 2026 de  08:15:00 à  16:00:00",
@@ -25,6 +25,16 @@
       "id": "e2f67a43329399096361a63a815d1812"
     },
     {
+      "date": "Le dimanche 20 septembre 2026 de  09:00:00 à  11:00:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "Royal Road La Marie, Malakoff and Meerun lane",
+      "district": "plainewilhems",
+      "from": "2026-09-20T05:00:00.000Z",
+      "to": "2026-09-20T07:00:00.000Z",
+      "id": "c1ff03677ca2cd97fe498688532a6e0f"
+    },
+    {
       "date": "Le dimanche 20 septembre 2026 de  08:30:00 à  15:00:00",
       "locality": "PORT-LOUIS",
       "localitySlug": "port-louis",
@@ -33,6 +43,16 @@
       "from": "2026-09-20T04:30:00.000Z",
       "to": "2026-09-20T11:00:00.000Z",
       "id": "b801b05e8ce8a61859eb93bc7400c4a2"
+    },
+    {
+      "date": "Le dimanche 20 septembre 2026 de  08:30:00 à  17:00:00",
+      "locality": "MALAKOFF",
+      "localitySlug": "malakoff",
+      "streets": "Plein Bois et Malakoff",
+      "district": "portlouis",
+      "from": "2026-09-20T04:30:00.000Z",
+      "to": "2026-09-20T13:00:00.000Z",
+      "id": "540095b83a4f91b2da3ad41d4dab635c"
     },
     {
       "date": "Le dimanche 20 septembre 2026 de  08:30:00 à  17:00:00",

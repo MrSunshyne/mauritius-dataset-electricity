@@ -2,11 +2,18 @@
   "slug": "saint-francois",
   "name": "SAINT FRANCOIS",
   "district": "portlouis",
-  "generated": "2026-09-16T10:25:08.884Z",
-  "outageCount": 22,
+  "generated": "2026-09-16T15:11:35.177Z",
+  "outageCount": 23,
   "firstOutage": "2022-05-12",
-  "lastOutage": "2026-05-12",
+  "lastOutage": "2026-09-16",
   "outages": [
+    {
+      "date": "Le mercredi 16 septembre 2026 de  18:00:00 à  22:00:00",
+      "streets": "ROYAL ROAD, KALIMAYE ROAD & SURROUNDINGS",
+      "from": "2026-09-16T14:00:00.000Z",
+      "to": "2026-09-16T18:00:00.000Z",
+      "id": "dae2f210ab7c51fb639c9a2c59a42e90"
+    },
     {
       "date": "Le mardi 12 mai 2026 de  08:30:00 à  16:00:00",
       "streets": "LE VILLAGE DE SAINT FRANCOIS",

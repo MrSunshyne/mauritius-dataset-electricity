@@ -1,8 +1,8 @@
 {
   "date": "2026-09-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-16T10:25:08.795Z",
-  "outageCount": 5,
+  "generated": "2026-09-16T15:11:35.063Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le jeudi 17 septembre 2026 de  08:30:00 à  16:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-09-17T05:00:00.000Z",
       "to": "2026-09-17T12:00:00.000Z",
       "id": "4aa21cb35019b733e8d2b8bdec54ec97"
+    },
+    {
+      "date": "Le jeudi 17 septembre 2026 de  09:00:00 à  16:00:00",
+      "locality": "MORC SAINT ANDRE",
+      "localitySlug": "morc-saint-andre",
+      "streets": "UNE PARTIE DE MORC ST ANDRE, HAMLET RD, MORC VRS MORC ST ANDRE",
+      "district": "pamplemousses",
+      "from": "2026-09-17T05:00:00.000Z",
+      "to": "2026-09-17T12:00:00.000Z",
+      "id": "021ccdf7ae9dbea07a3202452ab10093"
     },
     {
       "date": "Le jeudi 17 septembre 2026 de  08:30:00 à  15:30:00",
