@@ -2,11 +2,18 @@
   "slug": "surinam",
   "name": "SURINAM",
   "district": "savanne",
-  "generated": "2026-09-15T19:20:09.666Z",
-  "outageCount": 55,
+  "generated": "2026-09-16T10:25:08.890Z",
+  "outageCount": 56,
   "firstOutage": "2022-05-08",
-  "lastOutage": "2026-08-20",
+  "lastOutage": "2026-09-20",
   "outages": [
+    {
+      "date": "Le dimanche 20 septembre 2026 de  08:30:00 à  17:00:00",
+      "streets": "Plein Bois et Malakoff",
+      "from": "2026-09-20T04:30:00.000Z",
+      "to": "2026-09-20T13:00:00.000Z",
+      "id": "7e08e66c115310cf96263c2bec5d7437"
+    },
     {
       "date": "Le jeudi 20 août 2026 de  09:00:00 à  16:00:00",
       "streets": "Riambel Coastal Road",

@@ -2,11 +2,18 @@
   "slug": "riche-terre",
   "name": "RICHE TERRE",
   "district": "pamplemousses",
-  "generated": "2026-09-15T19:20:09.652Z",
-  "outageCount": 45,
+  "generated": "2026-09-16T10:25:08.878Z",
+  "outageCount": 46,
   "firstOutage": "2022-04-03",
-  "lastOutage": "2026-09-15",
+  "lastOutage": "2026-09-16",
   "outages": [
+    {
+      "date": "Le mercredi 16 septembre 2026 de  12:00:00 à  15:00:00",
+      "streets": "MORC JEERAZ,SCHOOL ,SEEDOYAL ROAD RICHE TERRE",
+      "from": "2026-09-16T08:00:00.000Z",
+      "to": "2026-09-16T11:00:00.000Z",
+      "id": "1d74aa50962837451f6df0d2d9959331"
+    },
     {
       "date": "Le mardi 15 septembre 2026 de  13:45:00 à  15:30:00",
       "streets": "RICHE TERRE /ROMA ROAD RICHE TERRE",

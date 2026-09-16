@@ -2,11 +2,18 @@
   "slug": "bel-air",
   "name": "BEL AIR",
   "district": "flacq",
-  "generated": "2026-09-15T19:20:09.577Z",
-  "outageCount": 69,
+  "generated": "2026-09-16T10:25:08.816Z",
+  "outageCount": 70,
   "firstOutage": "2022-06-04",
-  "lastOutage": "2026-09-10",
+  "lastOutage": "2026-09-17",
   "outages": [
+    {
+      "date": "Le jeudi 17 septembre 2026 de  09:00:00 à  16:00:00",
+      "streets": "Bel Air dans le périmètre de Petit Chemin, Clency Rd, Route Royale près du MCB, Chemin Garage et les chemins avoisinante.",
+      "from": "2026-09-17T05:00:00.000Z",
+      "to": "2026-09-17T12:00:00.000Z",
+      "id": "4aa21cb35019b733e8d2b8bdec54ec97"
+    },
     {
       "date": "Le jeudi 10 septembre 2026 de  09:00:00 à  16:00:00",
       "streets": "BEL AIR dans le périmètre de Petit Chemin, Clency Rd, Route Royale près du MCB, Chemin Garage et les chemins avoisinante",

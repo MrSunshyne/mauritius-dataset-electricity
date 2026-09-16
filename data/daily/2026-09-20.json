@@ -1,9 +1,19 @@
 {
   "date": "2026-09-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-15T19:20:09.551Z",
-  "outageCount": 1,
+  "generated": "2026-09-16T10:25:08.796Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le dimanche 20 septembre 2026 de  08:15:00 à  16:00:00",
+      "locality": "BRAMSTHAN",
+      "localitySlug": "bramsthan",
+      "streets": "BRAMSTHAN, MORC VRS BRAMSTHAN, BALKISSOON RD ET EN PARTIE DE CAMP ITHIER.",
+      "district": "flacq",
+      "from": "2026-09-20T04:15:00.000Z",
+      "to": "2026-09-20T12:00:00.000Z",
+      "id": "abe3056ac5838c54c2505b07bbb77288"
+    },
     {
       "date": "Le dimanche 20 septembre 2026 de  08:30:00 à  17:00:00",
       "locality": "VACOAS",
@@ -13,6 +23,26 @@
       "from": "2026-09-20T04:30:00.000Z",
       "to": "2026-09-20T13:00:00.000Z",
       "id": "e2f67a43329399096361a63a815d1812"
+    },
+    {
+      "date": "Le dimanche 20 septembre 2026 de  08:30:00 à  15:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "Dans les environs dúne partie des Rues Royal et Joseph Riviere",
+      "district": "portlouis",
+      "from": "2026-09-20T04:30:00.000Z",
+      "to": "2026-09-20T11:00:00.000Z",
+      "id": "b801b05e8ce8a61859eb93bc7400c4a2"
+    },
+    {
+      "date": "Le dimanche 20 septembre 2026 de  08:30:00 à  17:00:00",
+      "locality": "SURINAM",
+      "localitySlug": "surinam",
+      "streets": "Plein Bois et Malakoff",
+      "district": "savanne",
+      "from": "2026-09-20T04:30:00.000Z",
+      "to": "2026-09-20T13:00:00.000Z",
+      "id": "7e08e66c115310cf96263c2bec5d7437"
     }
   ]
 }

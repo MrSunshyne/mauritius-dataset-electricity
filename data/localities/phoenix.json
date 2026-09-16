@@ -2,11 +2,18 @@
   "slug": "phoenix",
   "name": "PHOENIX",
   "district": "plainewilhems",
-  "generated": "2026-09-15T19:20:09.640Z",
-  "outageCount": 121,
+  "generated": "2026-09-16T10:25:08.868Z",
+  "outageCount": 122,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-09-11",
+  "lastOutage": "2026-09-27",
   "outages": [
+    {
+      "date": "Le dimanche 27 septembre 2026 de  08:30:00 à  17:00:00",
+      "streets": "Phoenix résidant les rues suivantes : Une partie de Route Royale, Phoenix, une partie de Hassen Raffa Road, une partie de Hazareesingh Lane, Robinson Lane 1, 2, 3 et 4, Fixon, Sir Abdul Razack Mohamed Centre, Cubicle, Innodis, Women Centre",
+      "from": "2026-09-27T04:30:00.000Z",
+      "to": "2026-09-27T13:00:00.000Z",
+      "id": "e0eb981f272673be2adde7b07b40f5fa"
+    },
     {
       "date": "Le vendredi 11 septembre 2026 de  14:00:00 à  17:00:00",
       "streets": "Cwa Valentina, Val de Vie Event Garden, Morc Le Noir, Petit Camp, Residence Trianon, Morc River Edge et résidants des régions et des rues suivantes : Sofia Branch Road",

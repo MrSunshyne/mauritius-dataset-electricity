@@ -2,11 +2,18 @@
   "slug": "medine-camp-de-masque",
   "name": "MEDINE CAMP DE MASQUE",
   "district": "flacq",
-  "generated": "2026-09-15T19:20:09.625Z",
-  "outageCount": 18,
+  "generated": "2026-09-16T10:25:08.855Z",
+  "outageCount": 19,
   "firstOutage": "2022-12-11",
-  "lastOutage": "2026-09-15",
+  "lastOutage": "2026-09-16",
   "outages": [
+    {
+      "date": "Le mercredi 16 septembre 2026 de  09:00:00 à  17:00:00",
+      "streets": "ROYAL ROAD/MORC VRS MEDINE CAMP DE MASQUE",
+      "from": "2026-09-16T05:00:00.000Z",
+      "to": "2026-09-16T13:00:00.000Z",
+      "id": "df051b4257ac11cd2d95433b6a366be6"
+    },
     {
       "date": "Le mardi 15 septembre 2026 de  18:30:00 à  21:30:00",
       "streets": "WHOLE VILLAGE",

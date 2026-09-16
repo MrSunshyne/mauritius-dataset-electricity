@@ -2,11 +2,18 @@
   "slug": "port-louis",
   "name": "PORT-LOUIS",
   "district": "portlouis",
-  "generated": "2026-09-15T19:20:09.645Z",
-  "outageCount": 132,
+  "generated": "2026-09-16T10:25:08.872Z",
+  "outageCount": 133,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-09-06",
+  "lastOutage": "2026-09-20",
   "outages": [
+    {
+      "date": "Le dimanche 20 septembre 2026 de  08:30:00 à  15:00:00",
+      "streets": "Dans les environs dúne partie des Rues Royal et Joseph Riviere",
+      "from": "2026-09-20T04:30:00.000Z",
+      "to": "2026-09-20T11:00:00.000Z",
+      "id": "b801b05e8ce8a61859eb93bc7400c4a2"
+    },
     {
       "date": "Le dimanche 6 septembre 2026 de  08:30:00 à  15:00:00",
       "streets": "Dans les environs Dúne partie de la Rue Sir Seewoosagur Ramgoolam",

@@ -2,11 +2,18 @@
   "slug": "villenoire",
   "name": "VILLENOIRE",
   "district": "grandport",
-  "generated": "2026-09-15T19:20:09.675Z",
-  "outageCount": 59,
+  "generated": "2026-09-16T10:25:08.898Z",
+  "outageCount": 60,
   "firstOutage": "2022-06-10",
-  "lastOutage": "2026-08-06",
+  "lastOutage": "2026-09-18",
   "outages": [
+    {
+      "date": "Le vendredi 18 septembre 2026 de  09:00:00 à  16:00:00",
+      "streets": "Residence Ville Noire, Morc VRS Ville Noire, Morc Ruisseau Delices Ville Noire, Morc Blueprint Ville Noire et NHDC Petit Bel Air",
+      "from": "2026-09-18T05:00:00.000Z",
+      "to": "2026-09-18T12:00:00.000Z",
+      "id": "73f28dc4f7759e8e1a032777fb424298"
+    },
     {
       "date": "Le jeudi 6 août 2026 de  16:00:00 à  21:00:00",
       "streets": "MORC BLUEPRINT.",

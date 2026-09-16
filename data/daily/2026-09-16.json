@@ -1,8 +1,8 @@
 {
   "date": "2026-09-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-15T19:20:09.551Z",
-  "outageCount": 2,
+  "generated": "2026-09-16T10:25:08.795Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le mercredi 16 septembre 2026 de  08:30:00 à  16:00:00",
@@ -15,6 +15,26 @@
       "id": "668dc3a07cf35ac2bf47df26ec481029"
     },
     {
+      "date": "Le mercredi 16 septembre 2026 de  09:00:00 à  17:00:00",
+      "locality": "MEDINE CAMP DE MASQUE",
+      "localitySlug": "medine-camp-de-masque",
+      "streets": "ROYAL ROAD/MORC VRS MEDINE CAMP DE MASQUE",
+      "district": "flacq",
+      "from": "2026-09-16T05:00:00.000Z",
+      "to": "2026-09-16T13:00:00.000Z",
+      "id": "df051b4257ac11cd2d95433b6a366be6"
+    },
+    {
+      "date": "Le mercredi 16 septembre 2026 de  12:00:00 à  15:00:00",
+      "locality": "RICHE TERRE",
+      "localitySlug": "riche-terre",
+      "streets": "MORC JEERAZ,SCHOOL ,SEEDOYAL ROAD RICHE TERRE",
+      "district": "pamplemousses",
+      "from": "2026-09-16T08:00:00.000Z",
+      "to": "2026-09-16T11:00:00.000Z",
+      "id": "1d74aa50962837451f6df0d2d9959331"
+    },
+    {
       "date": "Le mercredi 16 septembre 2026 de  09:00:00 à  13:00:00",
       "locality": "ROSE-HILL",
       "localitySlug": "rose-hill",
@@ -23,6 +43,26 @@
       "from": "2026-09-16T05:00:00.000Z",
       "to": "2026-09-16T09:00:00.000Z",
       "id": "fa24932f0ebde2d39cb5eca48acd7b4a"
+    },
+    {
+      "date": "Le mercredi 16 septembre 2026 de  11:00:00 à  15:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVE BERTHAUD, ROBERT EDWARD HART ET ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2026-09-16T07:00:00.000Z",
+      "to": "2026-09-16T11:00:00.000Z",
+      "id": "71f1cb88d3c4e0cf3cc2551448bc94ba"
+    },
+    {
+      "date": "Le mercredi 16 septembre 2026 de  11:50:00 à  12:15:00",
+      "locality": "TRANQUEBAR",
+      "localitySlug": "tranquebar",
+      "streets": "CROWN LAND TORY",
+      "district": "portlouis",
+      "from": "2026-09-16T07:50:00.000Z",
+      "to": "2026-09-16T08:15:00.000Z",
+      "id": "532da73493ff70fb7d81d1b367f35b53"
     }
   ]
 }

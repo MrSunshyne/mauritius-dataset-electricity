@@ -1,8 +1,8 @@
 {
   "date": "2026-09-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-15T19:20:09.551Z",
-  "outageCount": 2,
+  "generated": "2026-09-16T10:25:08.795Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le jeudi 17 septembre 2026 de  08:30:00 à  16:00:00",
@@ -13,6 +13,36 @@
       "from": "2026-09-17T04:30:00.000Z",
       "to": "2026-09-17T12:00:00.000Z",
       "id": "5694d55b0338e35e1abd9800732542e8"
+    },
+    {
+      "date": "Le jeudi 17 septembre 2026 de  08:30:00 à  16:00:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "MORC RAMDANEE",
+      "district": "blackriver",
+      "from": "2026-09-17T04:30:00.000Z",
+      "to": "2026-09-17T12:00:00.000Z",
+      "id": "8ab23530f580bb2e91eb4b90b8fd4dd9"
+    },
+    {
+      "date": "Le jeudi 17 septembre 2026 de  09:00:00 à  16:00:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "Bel Air dans le périmètre de Petit Chemin, Clency Rd, Route Royale près du MCB, Chemin Garage et les chemins avoisinante.",
+      "district": "flacq",
+      "from": "2026-09-17T05:00:00.000Z",
+      "to": "2026-09-17T12:00:00.000Z",
+      "id": "4aa21cb35019b733e8d2b8bdec54ec97"
+    },
+    {
+      "date": "Le jeudi 17 septembre 2026 de  08:30:00 à  15:30:00",
+      "locality": "CITE CHEBEL",
+      "localitySlug": "cite-chebel",
+      "streets": "Res. Chebeque, Centre Municipale Sir Gaetan Duval, Res. Lotus, WMA Chebeque et les environs",
+      "district": "plainewilhems",
+      "from": "2026-09-17T04:30:00.000Z",
+      "to": "2026-09-17T11:30:00.000Z",
+      "id": "80202bcec9b2be44201fdc2a01c7a25c"
     },
     {
       "date": "Le jeudi 17 septembre 2026 de  08:30:00 à  15:00:00",
