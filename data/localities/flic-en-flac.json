@@ -2,11 +2,18 @@
   "slug": "flic-en-flac",
   "name": "FLIC-EN-FLAC",
   "district": "blackriver",
-  "generated": "2026-09-16T15:11:35.119Z",
-  "outageCount": 237,
+  "generated": "2026-09-16T19:10:01.153Z",
+  "outageCount": 238,
   "firstOutage": "2022-03-16",
-  "lastOutage": "2026-08-26",
+  "lastOutage": "2026-09-16",
   "outages": [
+    {
+      "date": "Le mercredi 16 septembre 2026 de  21:30:00 à  23:30:00",
+      "streets": "MORC ST JACQUES",
+      "from": "2026-09-16T17:30:00.000Z",
+      "to": "2026-09-16T19:30:00.000Z",
+      "id": "436cda260b5a5418eb08a5a5a319dead"
+    },
     {
       "date": "Le mercredi 26 août 2026 de  08:50:00 à  12:30:00",
       "streets": "CHASEE WALMART, CHASEE MAROUSSEM, TAMARINA, EMTEL CLARENCE & PART OF CASCAVEL",

@@ -2,11 +2,18 @@
   "slug": "tombeau-bay",
   "name": "TOMBEAU BAY",
   "district": "pamplemousses",
-  "generated": "2026-09-16T15:11:35.188Z",
-  "outageCount": 144,
+  "generated": "2026-09-16T19:10:01.222Z",
+  "outageCount": 145,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-08-20",
+  "lastOutage": "2026-09-16",
   "outages": [
+    {
+      "date": "Le mercredi 16 septembre 2026 de  22:55:00 à  01:55:00",
+      "streets": "NEAR ST MALO",
+      "from": "2026-09-16T18:55:00.000Z",
+      "to": "2026-09-15T21:55:00.000Z",
+      "id": "bdfcada940f6d51304a63ac95f1d8330"
+    },
     {
       "date": "Le jeudi 20 août 2026 de  15:15:00 à  17:15:00",
       "streets": "St Malo",

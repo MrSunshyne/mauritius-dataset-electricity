@@ -1,8 +1,8 @@
 {
   "date": "2026-09-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-16T15:11:35.063Z",
-  "outageCount": 8,
+  "generated": "2026-09-16T19:10:01.096Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le mercredi 16 septembre 2026 de  08:30:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-09-16T04:30:00.000Z",
       "to": "2026-09-16T12:00:00.000Z",
       "id": "668dc3a07cf35ac2bf47df26ec481029"
+    },
+    {
+      "date": "Le mercredi 16 septembre 2026 de  21:30:00 à  23:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC ST JACQUES",
+      "district": "blackriver",
+      "from": "2026-09-16T17:30:00.000Z",
+      "to": "2026-09-16T19:30:00.000Z",
+      "id": "436cda260b5a5418eb08a5a5a319dead"
     },
     {
       "date": "Le mercredi 16 septembre 2026 de  09:00:00 à  17:00:00",
@@ -43,6 +53,16 @@
       "from": "2026-09-16T08:00:00.000Z",
       "to": "2026-09-16T11:00:00.000Z",
       "id": "1d74aa50962837451f6df0d2d9959331"
+    },
+    {
+      "date": "Le mercredi 16 septembre 2026 de  22:55:00 à  01:55:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "NEAR ST MALO",
+      "district": "pamplemousses",
+      "from": "2026-09-16T18:55:00.000Z",
+      "to": "2026-09-15T21:55:00.000Z",
+      "id": "bdfcada940f6d51304a63ac95f1d8330"
     },
     {
       "date": "Le mercredi 16 septembre 2026 de  09:00:00 à  13:00:00",
