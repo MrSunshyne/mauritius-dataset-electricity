@@ -2,11 +2,18 @@
   "slug": "mahebourg",
   "name": "MAHEBOURG",
   "district": "grandport",
-  "generated": "2026-09-16T19:10:01.173Z",
-  "outageCount": 87,
+  "generated": "2026-09-17T10:34:32.622Z",
+  "outageCount": 88,
   "firstOutage": "2022-04-07",
-  "lastOutage": "2026-08-13",
+  "lastOutage": "2026-09-19",
   "outages": [
+    {
+      "date": "Le samedi 19 septembre 2026 de  08:30:00 à  16:00:00",
+      "streets": "Rue Delices, Rue Nyon, Rue Flamants, Rue Champagne, Rue Cent Gaulettes, Rue St Martin, Rue Bamboo, Rue Suffren, Rue la Passe, Gunputh Lane et Gopala Lane",
+      "from": "2026-09-19T04:30:00.000Z",
+      "to": "2026-09-19T12:00:00.000Z",
+      "id": "de3a440255e08e3fd7a5fbaf3f57c08b"
+    },
     {
       "date": "Le jeudi 13 août 2026 de  08:30:00 à  15:00:00",
       "streets": "Mahebourg habitant dans le périmètre et les rues suivantes :  une partie de la Rue de la Boulangerie, Rue De Maurice, Rue De Bazaar, Rue Des Aigrettes et Rue de la Passe",

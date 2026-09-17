@@ -1,8 +1,8 @@
 {
   "date": "2026-09-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-16T19:10:01.096Z",
-  "outageCount": 6,
+  "generated": "2026-09-17T10:34:32.558Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le dimanche 20 septembre 2026 de  08:15:00 à  16:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-09-20T05:00:00.000Z",
       "to": "2026-09-20T07:00:00.000Z",
       "id": "c1ff03677ca2cd97fe498688532a6e0f"
+    },
+    {
+      "date": "Le dimanche 20 septembre 2026 de  10:00:00 à  14:00:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "Royal Road La Marie et Nathoo Lane",
+      "district": "plainewilhems",
+      "from": "2026-09-20T06:00:00.000Z",
+      "to": "2026-09-20T10:00:00.000Z",
+      "id": "907028d9405a0eb1b5922318a6adaed5"
     },
     {
       "date": "Le dimanche 20 septembre 2026 de  08:30:00 à  15:00:00",
