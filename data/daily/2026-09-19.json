@@ -1,8 +1,8 @@
 {
   "date": "2026-09-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-17T10:34:32.558Z",
-  "outageCount": 4,
+  "generated": "2026-09-17T15:20:52.973Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le samedi 19 septembre 2026 de  08:30:00 à  16:00:00",
@@ -13,6 +13,26 @@
       "from": "2026-09-19T04:30:00.000Z",
       "to": "2026-09-19T12:00:00.000Z",
       "id": "de3a440255e08e3fd7a5fbaf3f57c08b"
+    },
+    {
+      "date": "Le samedi 19 septembre 2026 de  12:30:00 à  15:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "Terre Rouge dans les environs de Morc Greenpark et une partie de la route St Joseph et dans les environs Meuble Meunier",
+      "district": "pamplemousses",
+      "from": "2026-09-19T08:30:00.000Z",
+      "to": "2026-09-19T11:00:00.000Z",
+      "id": "f6a0a97f13a8f33c412d4784172ec3c8"
+    },
+    {
+      "date": "Le samedi 19 septembre 2026 de  08:30:00 à  12:00:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "Trou aux Biches dans les environs de Supermarche Popo, Morc Mascareigne, Morc Tobago,Morc Ellaya, Morc Astitva, Morc Ramdhany, Coastal road Pointe aux Biches et Morc Fairways Pointe aux Piments",
+      "district": "pamplemousses",
+      "from": "2026-09-19T04:30:00.000Z",
+      "to": "2026-09-19T08:00:00.000Z",
+      "id": "b01bd2ac76363e8abb3f52458412c637"
     },
     {
       "date": "Le samedi 19 septembre 2026 de  08:30:00 à  15:30:00",

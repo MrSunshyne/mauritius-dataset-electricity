@@ -2,11 +2,18 @@
   "slug": "terre-rouge",
   "name": "TERRE ROUGE",
   "district": "pamplemousses",
-  "generated": "2026-09-17T10:34:32.659Z",
-  "outageCount": 113,
+  "generated": "2026-09-17T15:20:53.094Z",
+  "outageCount": 114,
   "firstOutage": "2022-03-14",
-  "lastOutage": "2026-09-12",
+  "lastOutage": "2026-09-19",
   "outages": [
+    {
+      "date": "Le samedi 19 septembre 2026 de  12:30:00 à  15:00:00",
+      "streets": "Terre Rouge dans les environs de Morc Greenpark et une partie de la route St Joseph et dans les environs Meuble Meunier",
+      "from": "2026-09-19T08:30:00.000Z",
+      "to": "2026-09-19T11:00:00.000Z",
+      "id": "f6a0a97f13a8f33c412d4784172ec3c8"
+    },
     {
       "date": "Le samedi 12 septembre 2026 de  20:45:00 à  00:00:00",
       "streets": "ROUTE ROYALE DANS LES ENVIRONS MOSQUE/WAZIFA TRADING.",

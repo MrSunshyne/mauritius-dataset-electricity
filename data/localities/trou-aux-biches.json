@@ -2,11 +2,18 @@
   "slug": "trou-aux-biches",
   "name": "TROU AUX BICHES",
   "district": "pamplemousses",
-  "generated": "2026-09-17T10:34:32.661Z",
-  "outageCount": 69,
+  "generated": "2026-09-17T15:20:53.097Z",
+  "outageCount": 70,
   "firstOutage": "2022-04-10",
-  "lastOutage": "2026-09-11",
+  "lastOutage": "2026-09-19",
   "outages": [
+    {
+      "date": "Le samedi 19 septembre 2026 de  08:30:00 à  12:00:00",
+      "streets": "Trou aux Biches dans les environs de Supermarche Popo, Morc Mascareigne, Morc Tobago,Morc Ellaya, Morc Astitva, Morc Ramdhany, Coastal road Pointe aux Biches et Morc Fairways Pointe aux Piments",
+      "from": "2026-09-19T04:30:00.000Z",
+      "to": "2026-09-19T08:00:00.000Z",
+      "id": "b01bd2ac76363e8abb3f52458412c637"
+    },
     {
       "date": "Le vendredi 11 septembre 2026 de  00:00:00 à  02:00:00",
       "streets": "TALIPOT ST AND NEARBY REGION",
