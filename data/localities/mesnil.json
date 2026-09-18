@@ -2,11 +2,18 @@
   "slug": "mesnil",
   "name": "MESNIL",
   "district": "plainewilhems",
-  "generated": "2026-09-17T19:22:12.827Z",
-  "outageCount": 11,
+  "generated": "2026-09-18T10:10:32.982Z",
+  "outageCount": 12,
   "firstOutage": "2022-08-10",
-  "lastOutage": "2026-08-27",
+  "lastOutage": "2026-09-18",
   "outages": [
+    {
+      "date": "Le vendredi 18 septembre 2026 de  14:00:00 à  17:00:00",
+      "streets": "Tagore Lane et les environs",
+      "from": "2026-09-18T10:00:00.000Z",
+      "to": "2026-09-18T13:00:00.000Z",
+      "id": "a2a4b19db2d38601d47fca5bef81da10"
+    },
     {
       "date": "Le jeudi 27 août 2026 de  13:00:00 à  17:00:00",
       "streets": "Royal Road, Mesnil résidant les régions et les rues suivantes : une partie de Parisot Road et les environs",

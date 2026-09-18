@@ -2,11 +2,25 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-09-17T19:22:12.848Z",
-  "outageCount": 410,
+  "generated": "2026-09-18T10:10:32.996Z",
+  "outageCount": 412,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-09-16",
+  "lastOutage": "2026-09-21",
   "outages": [
+    {
+      "date": "Le lundi 21 septembre 2026 de  08:30:00 à  15:30:00",
+      "streets": "En partie Palma Rd, Western Boundary, Manick Ave, Lotus Ave, Jackson Ave, Gopalsing Ave, Ramdanee Ave, Bassin Rd, Kowlessur Lane, La Source Ave et les environs",
+      "from": "2026-09-21T04:30:00.000Z",
+      "to": "2026-09-21T11:30:00.000Z",
+      "id": "edcc45718b7fc90c288beeab8b186a5d"
+    },
+    {
+      "date": "Le dimanche 20 septembre 2026 de  10:00:00 à  13:00:00",
+      "streets": "Ave Boundary, Res. Pere Laval, Res. Beau Sejour, Robert Edward Hart, Dr Ferriere et les environs",
+      "from": "2026-09-20T06:00:00.000Z",
+      "to": "2026-09-20T09:00:00.000Z",
+      "id": "a56225f2f30422fb70f3afec8eac1276"
+    },
     {
       "date": "Le mercredi 16 septembre 2026 de  11:00:00 à  15:00:00",
       "streets": "AVE BERTHAUD, ROBERT EDWARD HART ET ALENTOURS",

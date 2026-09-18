@@ -2,11 +2,18 @@
   "slug": "trefles",
   "name": "TREFLES",
   "district": "plainewilhems",
-  "generated": "2026-09-17T19:22:12.869Z",
-  "outageCount": 19,
+  "generated": "2026-09-18T10:10:33.008Z",
+  "outageCount": 20,
   "firstOutage": "2022-09-25",
-  "lastOutage": "2026-08-04",
+  "lastOutage": "2026-09-20",
   "outages": [
+    {
+      "date": "Le dimanche 20 septembre 2026 de  08:30:00 à  15:00:00",
+      "streets": "Canda Lane, Ave des Cactus, Ave des Orchidees, Ave des Geraniums et les environs",
+      "from": "2026-09-20T04:30:00.000Z",
+      "to": "2026-09-20T11:00:00.000Z",
+      "id": "35049c1651b3e6f2d01d10262621e583"
+    },
     {
       "date": "Le mardi 4 août 2026 de  20:40:00 à  00:00:00",
       "streets": "AVE MARGUERITE AND SURROUNDINGS",

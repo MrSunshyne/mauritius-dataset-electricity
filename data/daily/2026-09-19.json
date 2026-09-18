@@ -1,9 +1,19 @@
 {
   "date": "2026-09-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-17T19:22:12.752Z",
-  "outageCount": 6,
+  "generated": "2026-09-18T10:10:32.940Z",
+  "outageCount": 9,
   "outages": [
+    {
+      "date": "Le samedi 19 septembre 2026 de  08:30:00 à  15:30:00",
+      "locality": "SEBASTOPOL",
+      "localitySlug": "sebastopol",
+      "streets": "Route Shivala vers réservoir, rue Kohallal, rue Ramphul, rue Sewoke, quartier NHDC Opale de Clavet et ruelles avoisinantes",
+      "district": "flacq",
+      "from": "2026-09-19T04:30:00.000Z",
+      "to": "2026-09-19T11:30:00.000Z",
+      "id": "dfc7faaafeef0ddc12dc1dcf9fc9fc10"
+    },
     {
       "date": "Le samedi 19 septembre 2026 de  08:30:00 à  16:00:00",
       "locality": "MAHEBOURG",
@@ -63,6 +73,26 @@
       "from": "2026-09-19T05:00:00.000Z",
       "to": "2026-09-19T08:00:00.000Z",
       "id": "85251fa6b45b16aba85c15edaf91f67f"
+    },
+    {
+      "date": "Le samedi 19 septembre 2026 de  08:30:00 à  09:30:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "ROYAL ROAD, RESERVOIR ROAD, VERGER ROAD, SUBANI ROAD, BOIS ROUGE GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2026-09-19T04:30:00.000Z",
+      "to": "2026-09-19T05:30:00.000Z",
+      "id": "b37704a8370e95bf8fdbc9927d58f75e"
+    },
+    {
+      "date": "Le samedi 19 septembre 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Jean Tac, Baladirou, Montagne Goyaves, Dans Bébé, Oranges et La Ferme",
+      "district": "rodrigues",
+      "from": "2026-09-19T04:30:00.000Z",
+      "to": "2026-09-19T11:00:00.000Z",
+      "id": "b7059c4081f703071b3a2b0942056b2a"
     }
   ]
 }

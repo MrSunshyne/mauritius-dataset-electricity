@@ -1,8 +1,8 @@
 {
   "date": "2026-09-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-17T19:22:12.752Z",
-  "outageCount": 7,
+  "generated": "2026-09-18T10:10:32.940Z",
+  "outageCount": 15,
   "outages": [
     {
       "date": "Le dimanche 20 septembre 2026 de  08:15:00 à  16:00:00",
@@ -13,6 +13,26 @@
       "from": "2026-09-20T04:15:00.000Z",
       "to": "2026-09-20T12:00:00.000Z",
       "id": "abe3056ac5838c54c2505b07bbb77288"
+    },
+    {
+      "date": "Le dimanche 20 septembre 2026 de  08:30:00 à  15:30:00",
+      "locality": "SEBASTOPOL",
+      "localitySlug": "sebastopol",
+      "streets": "Morc Seekdaur, quartier route Pellgrin Sebastopol, Camp Sonar, Rue Crémation, Rue Ragoobar",
+      "district": "flacq",
+      "from": "2026-09-20T04:30:00.000Z",
+      "to": "2026-09-20T11:30:00.000Z",
+      "id": "3f90330e302d22f014985e227ccd7044"
+    },
+    {
+      "date": "Le dimanche 20 septembre 2026 de  08:30:00 à  15:00:00",
+      "locality": "GENTILLY- MOKA",
+      "localitySlug": "gentilly-moka",
+      "streets": "Telfair Village, Les Jardins de Chantenay, Railway Post Office, Morc Espral, Dr Pilot, Morc Rapsody, Kalachand, Societe Mon Plaisir, Fail Gentilly, Fail Office, Flat Efolia, Morc MDA 1 & 2, Fail Minissy 1 & 2, Charles Telfair Institute 1 & 2, CWA Camp Auguste, CWA Minissy, Ponds Pump, STP Pumps, PV Farm Minissy, Lycee des Mascareignes, Ecole du Centre et Les Allees dHelvetia ph 3",
+      "district": "moka",
+      "from": "2026-09-20T04:30:00.000Z",
+      "to": "2026-09-20T11:00:00.000Z",
+      "id": "feada7d6b52184d66c808deb92ec415f"
     },
     {
       "date": "Le dimanche 20 septembre 2026 de  08:30:00 à  17:00:00",
@@ -45,6 +65,36 @@
       "id": "907028d9405a0eb1b5922318a6adaed5"
     },
     {
+      "date": "Le dimanche 20 septembre 2026 de  10:00:00 à  13:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave Boundary, Res. Pere Laval, Res. Beau Sejour, Robert Edward Hart, Dr Ferriere et les environs",
+      "district": "plainewilhems",
+      "from": "2026-09-20T06:00:00.000Z",
+      "to": "2026-09-20T09:00:00.000Z",
+      "id": "a56225f2f30422fb70f3afec8eac1276"
+    },
+    {
+      "date": "Le dimanche 20 septembre 2026 de  08:30:00 à  14:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "Morc Lising, Ave Riverside et Apartment The Verge",
+      "district": "plainewilhems",
+      "from": "2026-09-20T04:30:00.000Z",
+      "to": "2026-09-20T10:00:00.000Z",
+      "id": "e20ec927cb95f7b69eeaabce7dba2066"
+    },
+    {
+      "date": "Le dimanche 20 septembre 2026 de  08:30:00 à  15:00:00",
+      "locality": "TREFLES",
+      "localitySlug": "trefles",
+      "streets": "Canda Lane, Ave des Cactus, Ave des Orchidees, Ave des Geraniums et les environs",
+      "district": "plainewilhems",
+      "from": "2026-09-20T04:30:00.000Z",
+      "to": "2026-09-20T11:00:00.000Z",
+      "id": "35049c1651b3e6f2d01d10262621e583"
+    },
+    {
       "date": "Le dimanche 20 septembre 2026 de  08:30:00 à  15:00:00",
       "locality": "PORT-LOUIS",
       "localitySlug": "port-louis",
@@ -65,6 +115,26 @@
       "id": "540095b83a4f91b2da3ad41d4dab635c"
     },
     {
+      "date": "Le dimanche 20 septembre 2026 de  11:00:00 à  14:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "MORC NORDLAND",
+      "district": "rivieredurempart",
+      "from": "2026-09-20T07:00:00.000Z",
+      "to": "2026-09-20T10:00:00.000Z",
+      "id": "85be4a6f67a996d4125354f39ac5e70d"
+    },
+    {
+      "date": "Le dimanche 20 septembre 2026 de  08:30:00 à  15:30:00",
+      "locality": "POINTE AUX CANONNIERS",
+      "localitySlug": "pointe-aux-canonniers",
+      "streets": "AVENUE LAURIER",
+      "district": "rivieredurempart",
+      "from": "2026-09-20T04:30:00.000Z",
+      "to": "2026-09-20T11:30:00.000Z",
+      "id": "4852d995c618a812735d77b03e684a39"
+    },
+    {
       "date": "Le dimanche 20 septembre 2026 de  08:30:00 à  17:00:00",
       "locality": "SURINAM",
       "localitySlug": "surinam",
@@ -73,6 +143,16 @@
       "from": "2026-09-20T04:30:00.000Z",
       "to": "2026-09-20T13:00:00.000Z",
       "id": "7e08e66c115310cf96263c2bec5d7437"
+    },
+    {
+      "date": "Le dimanche 20 septembre 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Piments, Pistache, Reposoire, Montagne Croupier et Baie Topaze",
+      "district": "rodrigues",
+      "from": "2026-09-20T04:30:00.000Z",
+      "to": "2026-09-20T11:00:00.000Z",
+      "id": "0721bdc9e4d50f49935b390a8b69017e"
     }
   ]
 }

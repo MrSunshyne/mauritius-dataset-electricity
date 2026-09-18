@@ -2,11 +2,18 @@
   "slug": "gentilly-moka",
   "name": "GENTILLY- MOKA",
   "district": "moka",
-  "generated": "2026-09-17T19:22:12.809Z",
-  "outageCount": 10,
+  "generated": "2026-09-18T10:10:32.972Z",
+  "outageCount": 11,
   "firstOutage": "2023-02-24",
-  "lastOutage": "2026-02-14",
+  "lastOutage": "2026-09-20",
   "outages": [
+    {
+      "date": "Le dimanche 20 septembre 2026 de  08:30:00 à  15:00:00",
+      "streets": "Telfair Village, Les Jardins de Chantenay, Railway Post Office, Morc Espral, Dr Pilot, Morc Rapsody, Kalachand, Societe Mon Plaisir, Fail Gentilly, Fail Office, Flat Efolia, Morc MDA 1 & 2, Fail Minissy 1 & 2, Charles Telfair Institute 1 & 2, CWA Camp Auguste, CWA Minissy, Ponds Pump, STP Pumps, PV Farm Minissy, Lycee des Mascareignes, Ecole du Centre et Les Allees dHelvetia ph 3",
+      "from": "2026-09-20T04:30:00.000Z",
+      "to": "2026-09-20T11:00:00.000Z",
+      "id": "feada7d6b52184d66c808deb92ec415f"
+    },
     {
       "date": "Le samedi 14 février 2026 de  08:45:00 à  13:00:00",
       "streets": "MORC GENTILLY-TELFAIR-CWA CAMP AUGUSTE- CWA MINISSI MOKA",

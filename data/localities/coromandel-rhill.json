@@ -2,11 +2,18 @@
   "slug": "coromandel-rhill",
   "name": "COROMANDEL - R.HILL",
   "district": "plainewilhems",
-  "generated": "2026-09-17T19:22:12.798Z",
-  "outageCount": 96,
+  "generated": "2026-09-18T10:10:32.967Z",
+  "outageCount": 97,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-08-22",
+  "lastOutage": "2026-09-20",
   "outages": [
+    {
+      "date": "Le dimanche 20 septembre 2026 de  08:30:00 à  14:00:00",
+      "streets": "Morc Lising, Ave Riverside et Apartment The Verge",
+      "from": "2026-09-20T04:30:00.000Z",
+      "to": "2026-09-20T10:00:00.000Z",
+      "id": "e20ec927cb95f7b69eeaabce7dba2066"
+    },
     {
       "date": "Le samedi 22 août 2026 de  08:30:00 à  16:30:00",
       "streets": "PAVE DÁMOUR, RAMDENEE LN, WHITE HOUSE, COOM LANE et les environs",

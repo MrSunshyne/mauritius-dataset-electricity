@@ -2,11 +2,25 @@
   "slug": "pereybere",
   "name": "PEREYBERE",
   "district": "rivieredurempart",
-  "generated": "2026-09-17T19:22:12.837Z",
-  "outageCount": 121,
+  "generated": "2026-09-18T10:10:32.989Z",
+  "outageCount": 123,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-09-09",
+  "lastOutage": "2026-09-20",
   "outages": [
+    {
+      "date": "Le dimanche 20 septembre 2026 de  11:00:00 à  14:00:00",
+      "streets": "MORC NORDLAND",
+      "from": "2026-09-20T07:00:00.000Z",
+      "to": "2026-09-20T10:00:00.000Z",
+      "id": "85be4a6f67a996d4125354f39ac5e70d"
+    },
+    {
+      "date": "Le vendredi 18 septembre 2026 de  13:00:00 à  16:00:00",
+      "streets": "MORC SWAN PEREYBERE",
+      "from": "2026-09-18T09:00:00.000Z",
+      "to": "2026-09-18T12:00:00.000Z",
+      "id": "c59187bd47ebf8f44c588d283ccb117d"
+    },
     {
       "date": "Le mercredi 9 septembre 2026 de  09:30:00 à  15:00:00",
       "streets": "Chemin 20 pied, Old Mill Road, Morc Swan, Coastal Road and Le Flamant Road PEREYBERE",

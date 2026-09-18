@@ -2,11 +2,25 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-09-17T19:22:12.857Z",
-  "outageCount": 268,
+  "generated": "2026-09-18T10:10:33.000Z",
+  "outageCount": 270,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-09-14",
+  "lastOutage": "2026-09-20",
   "outages": [
+    {
+      "date": "Le dimanche 20 septembre 2026 de  08:30:00 à  15:00:00",
+      "streets": "Piments, Pistache, Reposoire, Montagne Croupier et Baie Topaze",
+      "from": "2026-09-20T04:30:00.000Z",
+      "to": "2026-09-20T11:00:00.000Z",
+      "id": "0721bdc9e4d50f49935b390a8b69017e"
+    },
+    {
+      "date": "Le samedi 19 septembre 2026 de  08:30:00 à  15:00:00",
+      "streets": "Jean Tac, Baladirou, Montagne Goyaves, Dans Bébé, Oranges et La Ferme",
+      "from": "2026-09-19T04:30:00.000Z",
+      "to": "2026-09-19T11:00:00.000Z",
+      "id": "b7059c4081f703071b3a2b0942056b2a"
+    },
     {
       "date": "Le lundi 14 septembre 2026 de  12:00:00 à  16:00:00",
       "streets": "Corail Petite Butte,Grand Var, Montagne Cabris Corail,Grand La Fouche Corail et La Ferme Citron",
