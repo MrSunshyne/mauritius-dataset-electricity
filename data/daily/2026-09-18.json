@@ -1,8 +1,8 @@
 {
   "date": "2026-09-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-18T17:56:34.449Z",
-  "outageCount": 5,
+  "generated": "2026-09-18T20:11:43.801Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le vendredi 18 septembre 2026 de  16:15:00 à  20:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-09-18T10:00:00.000Z",
       "to": "2026-09-18T13:00:00.000Z",
       "id": "a2a4b19db2d38601d47fca5bef81da10"
+    },
+    {
+      "date": "Le vendredi 18 septembre 2026 de  22:30:00 à  02:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "CITE MALHERBES & SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2026-09-18T18:30:00.000Z",
+      "to": "2026-09-17T22:00:00.000Z",
+      "id": "f7d0291407e6473cb8734a4aaa9b4610"
     },
     {
       "date": "Le vendredi 18 septembre 2026 de  13:00:00 à  16:00:00",

@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-09-18T17:56:34.499Z",
-  "outageCount": 242,
+  "generated": "2026-09-18T20:11:43.851Z",
+  "outageCount": 243,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-08-29",
+  "lastOutage": "2026-09-18",
   "outages": [
+    {
+      "date": "Le vendredi 18 septembre 2026 de  22:30:00 à  02:00:00",
+      "streets": "CITE MALHERBES & SURROUNDINGS",
+      "from": "2026-09-18T18:30:00.000Z",
+      "to": "2026-09-17T22:00:00.000Z",
+      "id": "f7d0291407e6473cb8734a4aaa9b4610"
+    },
     {
       "date": "Le samedi 29 août 2026 de  08:30:00 à  16:00:00",
       "streets": "une partie de Leclezio Street, Higginson Street, Hazareesingh Street et les ruelles avoisinantes",
