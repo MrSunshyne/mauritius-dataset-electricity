@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T10:10:33.012Z",
+  "generated": "2026-09-18T14:40:56.777Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -898,10 +898,10 @@
       "slug": "canot",
       "name": "CANOT",
       "district": "blackriver",
-      "outageCount": 6,
+      "outageCount": 7,
       "file": "canot.json",
       "firstOutage": "2022-11-08",
-      "lastOutage": "2026-01-15"
+      "lastOutage": "2026-09-18"
     },
     {
       "slug": "canton-nancy",
@@ -3832,7 +3832,7 @@
       "slug": "terre-rouge",
       "name": "TERRE ROUGE",
       "district": "pamplemousses",
-      "outageCount": 114,
+      "outageCount": 115,
       "file": "terre-rouge.json",
       "firstOutage": "2022-03-14",
       "lastOutage": "2026-09-19"

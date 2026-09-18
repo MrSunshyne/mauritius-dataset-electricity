@@ -1,8 +1,8 @@
 {
   "date": "2026-09-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-18T10:10:32.940Z",
-  "outageCount": 9,
+  "generated": "2026-09-18T14:40:56.651Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le samedi 19 septembre 2026 de  08:30:00 à  15:30:00",
@@ -43,6 +43,16 @@
       "from": "2026-09-19T04:30:00.000Z",
       "to": "2026-09-19T08:00:00.000Z",
       "id": "b01bd2ac76363e8abb3f52458412c637"
+    },
+    {
+      "date": "Le samedi 19 septembre 2026 de  08:30:00 à  13:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "Dans les environs de School Lane et Morc Jeeraz",
+      "district": "pamplemousses",
+      "from": "2026-09-19T04:30:00.000Z",
+      "to": "2026-09-19T09:00:00.000Z",
+      "id": "62122657bb33efac644bef1439fa7c4f"
     },
     {
       "date": "Le samedi 19 septembre 2026 de  08:30:00 à  15:30:00",

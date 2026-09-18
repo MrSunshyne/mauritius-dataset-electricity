@@ -2,8 +2,8 @@
   "slug": "terre-rouge",
   "name": "TERRE ROUGE",
   "district": "pamplemousses",
-  "generated": "2026-09-18T10:10:33.007Z",
-  "outageCount": 114,
+  "generated": "2026-09-18T14:40:56.768Z",
+  "outageCount": 115,
   "firstOutage": "2022-03-14",
   "lastOutage": "2026-09-19",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-09-19T08:30:00.000Z",
       "to": "2026-09-19T11:00:00.000Z",
       "id": "f6a0a97f13a8f33c412d4784172ec3c8"
+    },
+    {
+      "date": "Le samedi 19 septembre 2026 de  08:30:00 à  13:00:00",
+      "streets": "Dans les environs de School Lane et Morc Jeeraz",
+      "from": "2026-09-19T04:30:00.000Z",
+      "to": "2026-09-19T09:00:00.000Z",
+      "id": "62122657bb33efac644bef1439fa7c4f"
     },
     {
       "date": "Le samedi 12 septembre 2026 de  20:45:00 à  00:00:00",
