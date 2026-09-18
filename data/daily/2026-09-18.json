@@ -1,8 +1,8 @@
 {
   "date": "2026-09-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-18T14:40:56.651Z",
-  "outageCount": 4,
+  "generated": "2026-09-18T17:56:34.449Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le vendredi 18 septembre 2026 de  16:15:00 à  20:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-09-18T05:00:00.000Z",
       "to": "2026-09-18T12:00:00.000Z",
       "id": "73f28dc4f7759e8e1a032777fb424298"
+    },
+    {
+      "date": "Le vendredi 18 septembre 2026 de  20:15:00 à  23:00:00",
+      "locality": "CANTON NANCY",
+      "localitySlug": "canton-nancy",
+      "streets": "LE BRETON ROAD DANS LES ENVIRONS POULTRY/LOTUS FARM.",
+      "district": "pamplemousses",
+      "from": "2026-09-18T16:15:00.000Z",
+      "to": "2026-09-18T19:00:00.000Z",
+      "id": "1c06daaa60aad34e2be1e46655da6bc2"
     },
     {
       "date": "Le vendredi 18 septembre 2026 de  14:00:00 à  17:00:00",

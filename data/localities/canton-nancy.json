@@ -2,11 +2,18 @@
   "slug": "canton-nancy",
   "name": "CANTON NANCY",
   "district": "pamplemousses",
-  "generated": "2026-09-18T14:40:56.689Z",
-  "outageCount": 11,
+  "generated": "2026-09-18T17:56:34.490Z",
+  "outageCount": 12,
   "firstOutage": "2023-04-19",
-  "lastOutage": "2026-02-11",
+  "lastOutage": "2026-09-18",
   "outages": [
+    {
+      "date": "Le vendredi 18 septembre 2026 de  20:15:00 à  23:00:00",
+      "streets": "LE BRETON ROAD DANS LES ENVIRONS POULTRY/LOTUS FARM.",
+      "from": "2026-09-18T16:15:00.000Z",
+      "to": "2026-09-18T19:00:00.000Z",
+      "id": "1c06daaa60aad34e2be1e46655da6bc2"
+    },
     {
       "date": "Le mercredi 11 février 2026 de  10:00:00 à  14:00:00",
       "streets": "PART OF CANTON NANCY",
