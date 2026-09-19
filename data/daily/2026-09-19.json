@@ -1,8 +1,8 @@
 {
   "date": "2026-09-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-18T20:11:43.801Z",
-  "outageCount": 10,
+  "generated": "2026-09-19T09:52:30.229Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le samedi 19 septembre 2026 de  08:30:00 à  15:30:00",
@@ -83,6 +83,16 @@
       "from": "2026-09-19T05:00:00.000Z",
       "to": "2026-09-19T08:00:00.000Z",
       "id": "85251fa6b45b16aba85c15edaf91f67f"
+    },
+    {
+      "date": "Le samedi 19 septembre 2026 de  12:00:00 à  15:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "AVENUE ROSE, AVENUE TULIPE, EN PARTIE AVENUE ZINNIAS ET LES ENVIRONS.",
+      "district": "plainewilhems",
+      "from": "2026-09-19T08:00:00.000Z",
+      "to": "2026-09-19T11:00:00.000Z",
+      "id": "64bcc3fb37d8b51b20d14686eea62147"
     },
     {
       "date": "Le samedi 19 septembre 2026 de  08:30:00 à  09:30:00",
