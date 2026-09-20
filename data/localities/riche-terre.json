@@ -2,11 +2,18 @@
   "slug": "riche-terre",
   "name": "RICHE TERRE",
   "district": "pamplemousses",
-  "generated": "2026-09-19T19:01:43.596Z",
-  "outageCount": 46,
+  "generated": "2026-09-20T10:13:21.504Z",
+  "outageCount": 47,
   "firstOutage": "2022-04-03",
-  "lastOutage": "2026-09-16",
+  "lastOutage": "2026-09-20",
   "outages": [
+    {
+      "date": "Le dimanche 20 septembre 2026 de  10:00:00 à  15:00:00",
+      "streets": "PART OF RICHE TERRE, LE HOCHET, SAINTE CROIX & ABERCROMBIE",
+      "from": "2026-09-20T06:00:00.000Z",
+      "to": "2026-09-20T11:00:00.000Z",
+      "id": "80fc68655803d499090df2c71a59c118"
+    },
     {
       "date": "Le mercredi 16 septembre 2026 de  12:00:00 à  15:00:00",
       "streets": "MORC JEERAZ,SCHOOL ,SEEDOYAL ROAD RICHE TERRE",

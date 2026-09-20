@@ -1,8 +1,8 @@
 {
   "date": "2026-09-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-19T19:01:43.490Z",
-  "outageCount": 15,
+  "generated": "2026-09-20T10:13:21.400Z",
+  "outageCount": 16,
   "outages": [
     {
       "date": "Le dimanche 20 septembre 2026 de  08:15:00 à  16:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-09-20T04:30:00.000Z",
       "to": "2026-09-20T11:00:00.000Z",
       "id": "feada7d6b52184d66c808deb92ec415f"
+    },
+    {
+      "date": "Le dimanche 20 septembre 2026 de  10:00:00 à  15:00:00",
+      "locality": "RICHE TERRE",
+      "localitySlug": "riche-terre",
+      "streets": "PART OF RICHE TERRE, LE HOCHET, SAINTE CROIX & ABERCROMBIE",
+      "district": "pamplemousses",
+      "from": "2026-09-20T06:00:00.000Z",
+      "to": "2026-09-20T11:00:00.000Z",
+      "id": "80fc68655803d499090df2c71a59c118"
     },
     {
       "date": "Le dimanche 20 septembre 2026 de  08:30:00 à  17:00:00",
