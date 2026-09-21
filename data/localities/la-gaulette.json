@@ -2,11 +2,18 @@
   "slug": "la-gaulette",
   "name": "LA GAULETTE",
   "district": "blackriver",
-  "generated": "2026-09-21T11:17:56.263Z",
-  "outageCount": 19,
+  "generated": "2026-09-21T17:18:49.261Z",
+  "outageCount": 20,
   "firstOutage": "2022-07-20",
-  "lastOutage": "2026-09-10",
+  "lastOutage": "2026-09-21",
   "outages": [
+    {
+      "date": "Le lundi 21 septembre 2026 de  20:55:00 à  00:00:00",
+      "streets": "VRS LA GAULETTE 2",
+      "from": "2026-09-21T16:55:00.000Z",
+      "to": "2026-09-20T20:00:00.000Z",
+      "id": "9481737327365d66ed294f8878b8ef84"
+    },
     {
       "date": "Le jeudi 10 septembre 2026 de  08:30:00 à  16:00:00",
       "streets": "Morc La Fleche, Morc Grande Case Noyale",

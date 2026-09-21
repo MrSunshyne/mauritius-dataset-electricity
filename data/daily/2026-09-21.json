@@ -1,9 +1,19 @@
 {
   "date": "2026-09-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-21T11:17:56.196Z",
-  "outageCount": 2,
+  "generated": "2026-09-21T17:18:49.215Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le lundi 21 septembre 2026 de  20:55:00 à  00:00:00",
+      "locality": "LA GAULETTE",
+      "localitySlug": "la-gaulette",
+      "streets": "VRS LA GAULETTE 2",
+      "district": "blackriver",
+      "from": "2026-09-21T16:55:00.000Z",
+      "to": "2026-09-20T20:00:00.000Z",
+      "id": "9481737327365d66ed294f8878b8ef84"
+    },
     {
       "date": "Le lundi 21 septembre 2026 de  08:30:00 à  15:30:00",
       "locality": "QUATRE-BORNES",
