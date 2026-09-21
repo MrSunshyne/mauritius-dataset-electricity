@@ -2,11 +2,18 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-09-20T19:54:37.812Z",
-  "outageCount": 272,
+  "generated": "2026-09-21T11:17:56.321Z",
+  "outageCount": 273,
   "firstOutage": "2022-03-17",
-  "lastOutage": "2026-09-20",
+  "lastOutage": "2026-09-27",
   "outages": [
+    {
+      "date": "Le dimanche 27 septembre 2026 de  09:00:00 à  16:00:00",
+      "streets": "une partie Willoughby Road, Ministry of National Infrastructure, Ministry of Public Infrastructure, Land transport and Shipping, Gaz Carbonite Factory Plant, Phoenix Beverages Ltd, VIP Security Unit, Prison La Bastille",
+      "from": "2026-09-27T05:00:00.000Z",
+      "to": "2026-09-27T12:00:00.000Z",
+      "id": "7667670648e4f45db9db532630e57645"
+    },
     {
       "date": "Le dimanche 20 septembre 2026 de  08:30:00 à  17:00:00",
       "streets": "Rue Remi-Ollier, Morcellement Fleuriot, Gopee Lane",

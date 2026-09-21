@@ -1,8 +1,8 @@
 {
   "date": "2026-09-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-20T19:54:37.732Z",
-  "outageCount": 1,
+  "generated": "2026-09-21T11:17:56.196Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le lundi 21 septembre 2026 de  08:30:00 à  15:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-09-21T04:30:00.000Z",
       "to": "2026-09-21T11:30:00.000Z",
       "id": "edcc45718b7fc90c288beeab8b186a5d"
+    },
+    {
+      "date": "Le lundi 21 septembre 2026 de  14:30:00 à  15:30:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "SOPHIA LANE & SURROUNDINGS",
+      "district": "portlouis",
+      "from": "2026-09-21T10:30:00.000Z",
+      "to": "2026-09-21T11:30:00.000Z",
+      "id": "572221a873c3c95b60b08c68b05b4a5b"
     }
   ]
 }

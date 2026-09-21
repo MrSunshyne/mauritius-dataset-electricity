@@ -2,8 +2,8 @@
   "slug": "phoenix",
   "name": "PHOENIX",
   "district": "plainewilhems",
-  "generated": "2026-09-20T19:54:37.791Z",
-  "outageCount": 122,
+  "generated": "2026-09-21T11:17:56.287Z",
+  "outageCount": 124,
   "firstOutage": "2022-03-20",
   "lastOutage": "2026-09-27",
   "outages": [
@@ -13,6 +13,20 @@
       "from": "2026-09-27T04:30:00.000Z",
       "to": "2026-09-27T13:00:00.000Z",
       "id": "e0eb981f272673be2adde7b07b40f5fa"
+    },
+    {
+      "date": "Le mercredi 23 septembre 2026 de  15:00:00 à  16:00:00",
+      "streets": "VALENTINA & PETIT CAMP: Morcellement Le Noir, une partie de Petit Camp, Morcellement River Edge, Sofia Branch Road, Morcellement Damree",
+      "from": "2026-09-23T11:00:00.000Z",
+      "to": "2026-09-23T12:00:00.000Z",
+      "id": "ccaed269c456cf32d345219da0f7884f"
+    },
+    {
+      "date": "Le mercredi 23 septembre 2026 de  08:00:00 à  09:00:00",
+      "streets": "VALENTINA & PETIT CAMP :Morcellement Le Noir, une partie de Petit Camp, Morcellement River Edge, Sofia Branch Road, Morcellement Damree",
+      "from": "2026-09-23T04:00:00.000Z",
+      "to": "2026-09-23T05:00:00.000Z",
+      "id": "3ac17b73dd6bf81c4f25ca6bca7ead43"
     },
     {
       "date": "Le vendredi 11 septembre 2026 de  14:00:00 à  17:00:00",

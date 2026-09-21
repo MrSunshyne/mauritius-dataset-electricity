@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T19:54:37.814Z",
+  "generated": "2026-09-21T11:17:56.325Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -115,10 +115,10 @@
       "slug": "arsenal",
       "name": "ARSENAL",
       "district": "pamplemousses",
-      "outageCount": 65,
+      "outageCount": 66,
       "file": "arsenal.json",
       "firstOutage": "2022-05-25",
-      "lastOutage": "2026-08-09"
+      "lastOutage": "2026-09-22"
     },
     {
       "slug": "bagatelle",
@@ -2869,7 +2869,7 @@
       "slug": "phoenix",
       "name": "PHOENIX",
       "district": "plainewilhems",
-      "outageCount": 122,
+      "outageCount": 124,
       "file": "phoenix.json",
       "firstOutage": "2022-03-20",
       "lastOutage": "2026-09-27"
@@ -3436,10 +3436,10 @@
       "slug": "riviere-noire",
       "name": "RIVIERE NOIRE",
       "district": "blackriver",
-      "outageCount": 53,
+      "outageCount": 54,
       "file": "riviere-noire.json",
       "firstOutage": "2022-06-03",
-      "lastOutage": "2026-09-17"
+      "lastOutage": "2026-09-25"
     },
     {
       "slug": "roche-bois",
@@ -3778,10 +3778,10 @@
       "slug": "tamarin",
       "name": "TAMARIN",
       "district": "blackriver",
-      "outageCount": 86,
+      "outageCount": 87,
       "file": "tamarin.json",
       "firstOutage": "2022-03-13",
-      "lastOutage": "2026-09-17"
+      "lastOutage": "2026-09-23"
     },
     {
       "slug": "tamarind-falls",
@@ -3994,10 +3994,10 @@
       "slug": "vacoas",
       "name": "VACOAS",
       "district": "plainewilhems",
-      "outageCount": 272,
+      "outageCount": 273,
       "file": "vacoas.json",
       "firstOutage": "2022-03-17",
-      "lastOutage": "2026-09-20"
+      "lastOutage": "2026-09-27"
     },
     {
       "slug": "valentina",
@@ -4021,10 +4021,10 @@
       "slug": "vallee-des-pretres",
       "name": "VALLEE DES PRETRES",
       "district": "portlouis",
-      "outageCount": 87,
+      "outageCount": 88,
       "file": "vallee-des-pretres.json",
       "firstOutage": "2022-03-27",
-      "lastOutage": "2026-09-07"
+      "lastOutage": "2026-09-21"
     },
     {
       "slug": "vallee-pitot",

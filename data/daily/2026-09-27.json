@@ -1,8 +1,8 @@
 {
   "date": "2026-09-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-20T19:54:37.732Z",
-  "outageCount": 1,
+  "generated": "2026-09-21T11:17:56.196Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le dimanche 27 septembre 2026 de  08:30:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-09-27T04:30:00.000Z",
       "to": "2026-09-27T13:00:00.000Z",
       "id": "e0eb981f272673be2adde7b07b40f5fa"
+    },
+    {
+      "date": "Le dimanche 27 septembre 2026 de  09:00:00 à  16:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "une partie Willoughby Road, Ministry of National Infrastructure, Ministry of Public Infrastructure, Land transport and Shipping, Gaz Carbonite Factory Plant, Phoenix Beverages Ltd, VIP Security Unit, Prison La Bastille",
+      "district": "plainewilhems",
+      "from": "2026-09-27T05:00:00.000Z",
+      "to": "2026-09-27T12:00:00.000Z",
+      "id": "7667670648e4f45db9db532630e57645"
     }
   ]
 }

@@ -2,11 +2,18 @@
   "slug": "vallee-des-pretres",
   "name": "VALLEE DES PRETRES",
   "district": "portlouis",
-  "generated": "2026-09-20T19:54:37.813Z",
-  "outageCount": 87,
+  "generated": "2026-09-21T11:17:56.322Z",
+  "outageCount": 88,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-09-07",
+  "lastOutage": "2026-09-21",
   "outages": [
+    {
+      "date": "Le lundi 21 septembre 2026 de  14:30:00 à  15:30:00",
+      "streets": "SOPHIA LANE & SURROUNDINGS",
+      "from": "2026-09-21T10:30:00.000Z",
+      "to": "2026-09-21T11:30:00.000Z",
+      "id": "572221a873c3c95b60b08c68b05b4a5b"
+    },
     {
       "date": "Le lundi 7 septembre 2026 de  13:45:00 à  15:30:00",
       "streets": "Sainte Croix,Vallee des Pretres",

@@ -2,11 +2,18 @@
   "slug": "riviere-noire",
   "name": "RIVIERE NOIRE",
   "district": "blackriver",
-  "generated": "2026-09-20T19:54:37.800Z",
-  "outageCount": 53,
+  "generated": "2026-09-21T11:17:56.302Z",
+  "outageCount": 54,
   "firstOutage": "2022-06-03",
-  "lastOutage": "2026-09-17",
+  "lastOutage": "2026-09-25",
   "outages": [
+    {
+      "date": "Le vendredi 25 septembre 2026 de  08:30:00 à  16:00:00",
+      "streets": "MORC RAMDANEE",
+      "from": "2026-09-25T04:30:00.000Z",
+      "to": "2026-09-25T12:00:00.000Z",
+      "id": "acf16944670e3a04b8dedf8b6f85b740"
+    },
     {
       "date": "Le jeudi 17 septembre 2026 de  08:30:00 à  16:00:00",
       "streets": "MORC RAMDANEE",
