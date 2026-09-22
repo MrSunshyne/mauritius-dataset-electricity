@@ -2,11 +2,18 @@
   "slug": "petit-camp",
   "name": "PETIT CAMP",
   "district": "plainewilhems",
-  "generated": "2026-09-22T15:12:22.060Z",
-  "outageCount": 27,
+  "generated": "2026-09-22T19:19:53.402Z",
+  "outageCount": 28,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-06-10",
+  "lastOutage": "2026-09-22",
   "outages": [
+    {
+      "date": "Le mardi 22 septembre 2026 de  20:00:00 à  00:30:00",
+      "streets": "PETIT CAMP PHOENIX",
+      "from": "2026-09-22T16:00:00.000Z",
+      "to": "2026-09-21T20:30:00.000Z",
+      "id": "a9739d61741827123e0da68cbed57cb1"
+    },
     {
       "date": "Le mercredi 10 juin 2026 de  12:00:00 à  14:00:00",
       "streets": "Tennis Court Petit Camp, Morc. Le Noir, Morc. Damree, Sarovar Co. Ltd, Val De Vie, Panagora Warehouse, CWA Petit Camp, Baobab Company Ltd",
