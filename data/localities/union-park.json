@@ -2,11 +2,18 @@
   "slug": "union-park",
   "name": "UNION PARK",
   "district": "grandport",
-  "generated": "2026-09-21T21:19:19.082Z",
-  "outageCount": 38,
+  "generated": "2026-09-22T10:28:41.594Z",
+  "outageCount": 39,
   "firstOutage": "2022-03-28",
-  "lastOutage": "2026-09-02",
+  "lastOutage": "2026-09-24",
   "outages": [
+    {
+      "date": "Le jeudi 24 septembre 2026 de  08:00:00 à  12:00:00",
+      "streets": "Morcellement SIT Union Park",
+      "from": "2026-09-24T04:00:00.000Z",
+      "to": "2026-09-24T08:00:00.000Z",
+      "id": "3e6f2f663d4e2783867c85efbeed3ae7"
+    },
     {
       "date": "Le mercredi 2 septembre 2026 de  11:30:00 à  13:30:00",
       "streets": "BHEEMANICK",

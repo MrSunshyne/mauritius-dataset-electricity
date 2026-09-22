@@ -1,8 +1,8 @@
 {
   "date": "2026-09-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-21T21:19:18.989Z",
-  "outageCount": 3,
+  "generated": "2026-09-22T10:28:41.469Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le mercredi 23 septembre 2026 de  08:30:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-09-23T04:30:00.000Z",
       "to": "2026-09-23T12:00:00.000Z",
       "id": "b973debecb8e6f8fddadec5f576ae4ab"
+    },
+    {
+      "date": "Le mercredi 23 septembre 2026 de  09:00:00 à  15:00:00",
+      "locality": "VALETTA",
+      "localitySlug": "valetta",
+      "streets": "Morcellement VRS Valetta no 1, no 2 et ruelles avoisinantes",
+      "district": "moka",
+      "from": "2026-09-23T05:00:00.000Z",
+      "to": "2026-09-23T11:00:00.000Z",
+      "id": "3e53c5442a2bd8c7466b39ff4df48970"
     },
     {
       "date": "Le mercredi 23 septembre 2026 de  15:00:00 à  16:00:00",

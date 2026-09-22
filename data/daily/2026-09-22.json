@@ -1,9 +1,19 @@
 {
   "date": "2026-09-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-21T21:19:18.989Z",
-  "outageCount": 1,
+  "generated": "2026-09-22T10:28:41.469Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le mardi 22 septembre 2026 de  13:15:00 à  15:00:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "DAMRY LANE & SURROUNDINGS",
+      "district": "flacq",
+      "from": "2026-09-22T09:15:00.000Z",
+      "to": "2026-09-22T11:00:00.000Z",
+      "id": "5c0575e9733af41e4da883e6987d8767"
+    },
     {
       "date": "Le mardi 22 septembre 2026 de  13:00:00 à  16:00:00",
       "locality": "ARSENAL",
@@ -13,6 +23,36 @@
       "from": "2026-09-22T09:00:00.000Z",
       "to": "2026-09-22T12:00:00.000Z",
       "id": "77eb5af633c930f5cef871f421fc9abf"
+    },
+    {
+      "date": "Le mardi 22 septembre 2026 de  13:00:00 à  15:00:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "ST JOSEPH RD T BAY",
+      "district": "pamplemousses",
+      "from": "2026-09-22T09:00:00.000Z",
+      "to": "2026-09-22T11:00:00.000Z",
+      "id": "cd22319f00bc20c1cdb50a7e2f1be758"
+    },
+    {
+      "date": "Le mardi 22 septembre 2026 de  14:00:00 à  15:00:00",
+      "locality": "TRANQUEBAR",
+      "localitySlug": "tranquebar",
+      "streets": "POUCE ST TRANQUEBAR",
+      "district": "portlouis",
+      "from": "2026-09-22T10:00:00.000Z",
+      "to": "2026-09-22T11:00:00.000Z",
+      "id": "7fb7056fe6862bb097d4ebda60c4ddfa"
+    },
+    {
+      "date": "Le mardi 22 septembre 2026 de  11:05:00 à  16:00:00",
+      "locality": "CALODYNE",
+      "localitySlug": "calodyne",
+      "streets": "CHEVEREAU LANE ET LES ALENTOURS",
+      "district": "rivieredurempart",
+      "from": "2026-09-22T07:05:00.000Z",
+      "to": "2026-09-22T12:00:00.000Z",
+      "id": "64761327b07ce7abe1cbca2a20230693"
     }
   ]
 }

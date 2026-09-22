@@ -2,11 +2,18 @@
   "slug": "calodyne",
   "name": "CALODYNE",
   "district": "rivieredurempart",
-  "generated": "2026-09-21T21:19:19.014Z",
-  "outageCount": 44,
+  "generated": "2026-09-22T10:28:41.502Z",
+  "outageCount": 45,
   "firstOutage": "2022-09-10",
-  "lastOutage": "2026-08-17",
+  "lastOutage": "2026-09-22",
   "outages": [
+    {
+      "date": "Le mardi 22 septembre 2026 de  11:05:00 à  16:00:00",
+      "streets": "CHEVEREAU LANE ET LES ALENTOURS",
+      "from": "2026-09-22T07:05:00.000Z",
+      "to": "2026-09-22T12:00:00.000Z",
+      "id": "64761327b07ce7abe1cbca2a20230693"
+    },
     {
       "date": "Le lundi 17 août 2026 de  19:00:00 à  22:00:00",
       "streets": "COASTAL ROAD CALODYNE",

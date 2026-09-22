@@ -2,11 +2,18 @@
   "slug": "nouvelle-france",
   "name": "NOUVELLE FRANCE",
   "district": "grandport",
-  "generated": "2026-09-21T21:19:19.052Z",
-  "outageCount": 39,
+  "generated": "2026-09-22T10:28:41.555Z",
+  "outageCount": 40,
   "firstOutage": "2022-05-12",
-  "lastOutage": "2026-09-06",
+  "lastOutage": "2026-09-27",
   "outages": [
+    {
+      "date": "Le dimanche 27 septembre 2026 de  08:30:00 à  16:00:00",
+      "streets": "Industrial Zone Beemanique & Motorway Nouvelle France",
+      "from": "2026-09-27T04:30:00.000Z",
+      "to": "2026-09-27T12:00:00.000Z",
+      "id": "fbffcd96db6d1fa31bb8967d9a9a1159"
+    },
     {
       "date": "Le dimanche 6 septembre 2026 de  08:30:00 à  17:00:00",
       "streets": "Nouvelle France - Pont Colleville : Route Royal vers Souillac, Camphur, NHDC N.France ,Morc Nababsing ,Chemin Coopérative en parti, Allée Jacque en parti, Chemin Comelone, Chemin La Forge, Chemin Dabydoyal Pont Colleville,",

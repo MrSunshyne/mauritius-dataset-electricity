@@ -1,9 +1,19 @@
 {
   "date": "2026-09-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-21T21:19:18.989Z",
-  "outageCount": 2,
+  "generated": "2026-09-22T10:28:41.469Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le dimanche 27 septembre 2026 de  08:30:00 à  16:00:00",
+      "locality": "NOUVELLE FRANCE",
+      "localitySlug": "nouvelle-france",
+      "streets": "Industrial Zone Beemanique & Motorway Nouvelle France",
+      "district": "grandport",
+      "from": "2026-09-27T04:30:00.000Z",
+      "to": "2026-09-27T12:00:00.000Z",
+      "id": "fbffcd96db6d1fa31bb8967d9a9a1159"
+    },
     {
       "date": "Le dimanche 27 septembre 2026 de  08:30:00 à  17:00:00",
       "locality": "PHOENIX",

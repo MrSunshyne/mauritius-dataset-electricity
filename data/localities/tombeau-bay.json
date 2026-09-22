@@ -2,11 +2,18 @@
   "slug": "tombeau-bay",
   "name": "TOMBEAU BAY",
   "district": "pamplemousses",
-  "generated": "2026-09-21T21:19:19.080Z",
-  "outageCount": 145,
+  "generated": "2026-09-22T10:28:41.591Z",
+  "outageCount": 146,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-09-16",
+  "lastOutage": "2026-09-22",
   "outages": [
+    {
+      "date": "Le mardi 22 septembre 2026 de  13:00:00 à  15:00:00",
+      "streets": "ST JOSEPH RD T BAY",
+      "from": "2026-09-22T09:00:00.000Z",
+      "to": "2026-09-22T11:00:00.000Z",
+      "id": "cd22319f00bc20c1cdb50a7e2f1be758"
+    },
     {
       "date": "Le mercredi 16 septembre 2026 de  22:55:00 à  01:55:00",
       "streets": "NEAR ST MALO",

@@ -2,11 +2,18 @@
   "slug": "tranquebar",
   "name": "TRANQUEBAR",
   "district": "portlouis",
-  "generated": "2026-09-21T21:19:19.080Z",
-  "outageCount": 24,
+  "generated": "2026-09-22T10:28:41.591Z",
+  "outageCount": 25,
   "firstOutage": "2022-06-20",
-  "lastOutage": "2026-09-16",
+  "lastOutage": "2026-09-22",
   "outages": [
+    {
+      "date": "Le mardi 22 septembre 2026 de  14:00:00 à  15:00:00",
+      "streets": "POUCE ST TRANQUEBAR",
+      "from": "2026-09-22T10:00:00.000Z",
+      "to": "2026-09-22T11:00:00.000Z",
+      "id": "7fb7056fe6862bb097d4ebda60c4ddfa"
+    },
     {
       "date": "Le mercredi 16 septembre 2026 de  11:50:00 à  12:15:00",
       "streets": "CROWN LAND TORY",
