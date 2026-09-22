@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-09-22T10:28:41.593Z",
-  "outageCount": 149,
+  "generated": "2026-09-22T15:12:22.093Z",
+  "outageCount": 150,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-09-14",
+  "lastOutage": "2026-09-22",
   "outages": [
+    {
+      "date": "Le mardi 22 septembre 2026 de  15:00:00 à  22:00:00",
+      "streets": "9TH MILE NEAR PKL",
+      "from": "2026-09-22T11:00:00.000Z",
+      "to": "2026-09-22T18:00:00.000Z",
+      "id": "8227986f78e7d4f0ca6ba1ce539d893c"
+    },
     {
       "date": "Le lundi 14 septembre 2026 de  00:00:00 à  03:00:00",
       "streets": "TERMINUS ROAD TRIOLET ET DANS LES ALENTOURS TEMPLE ISKCON.",

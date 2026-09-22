@@ -1,8 +1,8 @@
 {
   "date": "2026-09-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-22T10:28:41.469Z",
-  "outageCount": 5,
+  "generated": "2026-09-22T15:12:21.971Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le mardi 22 septembre 2026 de  13:15:00 à  15:00:00",
@@ -35,6 +35,26 @@
       "id": "cd22319f00bc20c1cdb50a7e2f1be758"
     },
     {
+      "date": "Le mardi 22 septembre 2026 de  18:30:00 à  00:30:00",
+      "locality": "CONGOMAH",
+      "localitySlug": "congomah",
+      "streets": "BELVEDERE ROAD CONGOMAH",
+      "district": "pamplemousses",
+      "from": "2026-09-22T14:30:00.000Z",
+      "to": "2026-09-21T20:30:00.000Z",
+      "id": "3074674d325c9f9a097151c0ab2a30ed"
+    },
+    {
+      "date": "Le mardi 22 septembre 2026 de  15:00:00 à  22:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "9TH MILE NEAR PKL",
+      "district": "pamplemousses",
+      "from": "2026-09-22T11:00:00.000Z",
+      "to": "2026-09-22T18:00:00.000Z",
+      "id": "8227986f78e7d4f0ca6ba1ce539d893c"
+    },
+    {
       "date": "Le mardi 22 septembre 2026 de  14:00:00 à  15:00:00",
       "locality": "TRANQUEBAR",
       "localitySlug": "tranquebar",
@@ -43,6 +63,16 @@
       "from": "2026-09-22T10:00:00.000Z",
       "to": "2026-09-22T11:00:00.000Z",
       "id": "7fb7056fe6862bb097d4ebda60c4ddfa"
+    },
+    {
+      "date": "Le mardi 22 septembre 2026 de  18:30:00 à  20:00:00",
+      "locality": "VALLEE PITOT",
+      "localitySlug": "vallee-pitot",
+      "streets": "RUE ALMA VALLEE PITOT",
+      "district": "portlouis",
+      "from": "2026-09-22T14:30:00.000Z",
+      "to": "2026-09-22T16:00:00.000Z",
+      "id": "a9bc00b3ecf6ebbf5103ebaf72cf2fef"
     },
     {
       "date": "Le mardi 22 septembre 2026 de  11:05:00 à  16:00:00",

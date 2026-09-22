@@ -2,11 +2,18 @@
   "slug": "congomah",
   "name": "CONGOMAH",
   "district": "pamplemousses",
-  "generated": "2026-09-22T10:28:41.517Z",
-  "outageCount": 23,
+  "generated": "2026-09-22T15:12:22.018Z",
+  "outageCount": 24,
   "firstOutage": "2022-08-01",
-  "lastOutage": "2026-08-02",
+  "lastOutage": "2026-09-22",
   "outages": [
+    {
+      "date": "Le mardi 22 septembre 2026 de  18:30:00 à  00:30:00",
+      "streets": "BELVEDERE ROAD CONGOMAH",
+      "from": "2026-09-22T14:30:00.000Z",
+      "to": "2026-09-21T20:30:00.000Z",
+      "id": "3074674d325c9f9a097151c0ab2a30ed"
+    },
     {
       "date": "Le dimanche 2 août 2026 de  08:30:00 à  13:00:00",
       "streets": "ROYAL RD CONGOMAH NEAR MALIBU",
