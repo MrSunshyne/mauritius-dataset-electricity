@@ -2,11 +2,25 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-09-23T10:23:48.466Z",
-  "outageCount": 270,
+  "generated": "2026-09-23T15:12:30.415Z",
+  "outageCount": 272,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-09-20",
+  "lastOutage": "2026-09-25",
   "outages": [
+    {
+      "date": "Le vendredi 25 septembre 2026 de  08:30:00 à  15:00:00",
+      "streets": "Fond La Bonté et Fond Baie Aux Huitres",
+      "from": "2026-09-25T04:30:00.000Z",
+      "to": "2026-09-25T11:00:00.000Z",
+      "id": "ce8110b0d965385fc8c98aa0d904f19f"
+    },
+    {
+      "date": "Le jeudi 24 septembre 2026 de  08:30:00 à  15:00:00",
+      "streets": "Pompée,Camp Paul,Saint Gabriel, Latanier et Sainte Famille",
+      "from": "2026-09-24T04:30:00.000Z",
+      "to": "2026-09-24T11:00:00.000Z",
+      "id": "dec8945dad12659b3eb49c5c8d1cba6a"
+    },
     {
       "date": "Le dimanche 20 septembre 2026 de  08:30:00 à  15:00:00",
       "streets": "Piments, Pistache, Reposoire, Montagne Croupier et Baie Topaze",

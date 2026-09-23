@@ -1,8 +1,8 @@
 {
   "date": "2026-09-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-23T10:23:48.367Z",
-  "outageCount": 1,
+  "generated": "2026-09-23T15:12:30.324Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le jeudi 24 septembre 2026 de  08:00:00 à  12:00:00",
@@ -13,6 +13,26 @@
       "from": "2026-09-24T04:00:00.000Z",
       "to": "2026-09-24T08:00:00.000Z",
       "id": "3e6f2f663d4e2783867c85efbeed3ae7"
+    },
+    {
+      "date": "Le jeudi 24 septembre 2026 de  09:00:00 à  16:00:00",
+      "locality": "ALLEE BRILLANT CASTEL",
+      "localitySlug": "allee-brillant-castel",
+      "streets": "Morcellement Sonah, Allee Brillant, Castel et les environs",
+      "district": "plainewilhems",
+      "from": "2026-09-24T05:00:00.000Z",
+      "to": "2026-09-24T12:00:00.000Z",
+      "id": "b116b32e26d8b0de1a43508a4c9816b8"
+    },
+    {
+      "date": "Le jeudi 24 septembre 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Pompée,Camp Paul,Saint Gabriel, Latanier et Sainte Famille",
+      "district": "rodrigues",
+      "from": "2026-09-24T04:30:00.000Z",
+      "to": "2026-09-24T11:00:00.000Z",
+      "id": "dec8945dad12659b3eb49c5c8d1cba6a"
     }
   ]
 }
