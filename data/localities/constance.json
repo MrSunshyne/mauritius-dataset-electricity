@@ -2,11 +2,18 @@
   "slug": "constance",
   "name": "CONSTANCE",
   "district": "flacq",
-  "generated": "2026-09-22T19:19:53.370Z",
-  "outageCount": 8,
+  "generated": "2026-09-23T10:23:48.411Z",
+  "outageCount": 9,
   "firstOutage": "2022-09-18",
-  "lastOutage": "2026-06-21",
+  "lastOutage": "2026-09-23",
   "outages": [
+    {
+      "date": "Le mercredi 23 septembre 2026 de  09:00:00 à  14:00:00",
+      "streets": "BELLEVUE ALLANDY CONSTANCE",
+      "from": "2026-09-23T05:00:00.000Z",
+      "to": "2026-09-23T10:00:00.000Z",
+      "id": "e501ea42de665994cbfa0cef3253a9c7"
+    },
     {
       "date": "Le dimanche 21 juin 2026 de  09:00:00 à  16:00:00",
       "streets": "CONSTANCE",

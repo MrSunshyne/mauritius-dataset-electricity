@@ -2,11 +2,18 @@
   "slug": "roches-noires",
   "name": "ROCHES NOIRES",
   "district": "rivieredurempart",
-  "generated": "2026-09-22T19:19:53.417Z",
-  "outageCount": 38,
+  "generated": "2026-09-23T10:23:48.466Z",
+  "outageCount": 39,
   "firstOutage": "2022-06-03",
-  "lastOutage": "2026-07-31",
+  "lastOutage": "2026-09-23",
   "outages": [
+    {
+      "date": "Le mercredi 23 septembre 2026 de  14:30:00 à  16:30:00",
+      "streets": "COASTAL ROAD ROCHES NOIRES ET CAOSTAL ROAD POSTE LA FAYETTE.",
+      "from": "2026-09-23T10:30:00.000Z",
+      "to": "2026-09-23T12:30:00.000Z",
+      "id": "4f856c0de484083b818795546877e96f"
+    },
     {
       "date": "Le vendredi 31 juillet 2026 de  09:45:00 à  12:00:00",
       "streets": "Crystal Road",

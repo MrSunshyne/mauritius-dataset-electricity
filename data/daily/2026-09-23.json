@@ -1,8 +1,8 @@
 {
   "date": "2026-09-23",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-22T19:19:53.337Z",
-  "outageCount": 4,
+  "generated": "2026-09-23T10:23:48.367Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le mercredi 23 septembre 2026 de  08:30:00 à  16:00:00",
@@ -13,6 +13,26 @@
       "from": "2026-09-23T04:30:00.000Z",
       "to": "2026-09-23T12:00:00.000Z",
       "id": "b973debecb8e6f8fddadec5f576ae4ab"
+    },
+    {
+      "date": "Le mercredi 23 septembre 2026 de  09:00:00 à  14:00:00",
+      "locality": "CONSTANCE",
+      "localitySlug": "constance",
+      "streets": "BELLEVUE ALLANDY CONSTANCE",
+      "district": "flacq",
+      "from": "2026-09-23T05:00:00.000Z",
+      "to": "2026-09-23T10:00:00.000Z",
+      "id": "e501ea42de665994cbfa0cef3253a9c7"
+    },
+    {
+      "date": "Le mercredi 23 septembre 2026 de  09:00:00 à  14:00:00",
+      "locality": "L-AVENTURE",
+      "localitySlug": "l-aventure",
+      "streets": "Laventure area",
+      "district": "flacq",
+      "from": "2026-09-23T05:00:00.000Z",
+      "to": "2026-09-23T10:00:00.000Z",
+      "id": "a5823f1554ce3845f663f6d37dd4970a"
     },
     {
       "date": "Le mercredi 23 septembre 2026 de  09:00:00 à  15:00:00",
@@ -43,6 +63,26 @@
       "from": "2026-09-23T04:00:00.000Z",
       "to": "2026-09-23T05:00:00.000Z",
       "id": "3ac17b73dd6bf81c4f25ca6bca7ead43"
+    },
+    {
+      "date": "Le mercredi 23 septembre 2026 de  08:30:00 à  16:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "MORC LE NOIRE/CWA PETIT CAMP",
+      "district": "plainewilhems",
+      "from": "2026-09-23T04:30:00.000Z",
+      "to": "2026-09-23T12:00:00.000Z",
+      "id": "f06e4c018905befaa3bba595c0676ddb"
+    },
+    {
+      "date": "Le mercredi 23 septembre 2026 de  14:30:00 à  16:30:00",
+      "locality": "ROCHES NOIRES",
+      "localitySlug": "roches-noires",
+      "streets": "COASTAL ROAD ROCHES NOIRES ET CAOSTAL ROAD POSTE LA FAYETTE.",
+      "district": "rivieredurempart",
+      "from": "2026-09-23T10:30:00.000Z",
+      "to": "2026-09-23T12:30:00.000Z",
+      "id": "4f856c0de484083b818795546877e96f"
     }
   ]
 }
