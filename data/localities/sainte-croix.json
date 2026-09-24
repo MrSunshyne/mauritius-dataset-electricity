@@ -2,11 +2,18 @@
   "slug": "sainte-croix",
   "name": "SAINTE CROIX",
   "district": "portlouis",
-  "generated": "2026-09-24T10:40:40.246Z",
-  "outageCount": 100,
+  "generated": "2026-09-24T15:34:25.227Z",
+  "outageCount": 101,
   "firstOutage": "2022-04-26",
-  "lastOutage": "2026-09-05",
+  "lastOutage": "2026-09-27",
   "outages": [
+    {
+      "date": "Le dimanche 27 septembre 2026 de  09:00:00 à  14:00:00",
+      "streets": "Dans les environs des   rues : Allee Père Laval, Isodore Bouquet, Sainte Marie, Arpenteur, Le Cornu et Sainte Croix Road",
+      "from": "2026-09-27T05:00:00.000Z",
+      "to": "2026-09-27T10:00:00.000Z",
+      "id": "3c4558befdd87c01c6955e483cdaadc7"
+    },
     {
       "date": "Le samedi 5 septembre 2026 de  08:30:00 à  14:00:00",
       "streets": "Dans les environs de Residence Briquetterie",

@@ -1,8 +1,8 @@
 {
   "date": "2026-09-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-24T10:40:40.170Z",
-  "outageCount": 5,
+  "generated": "2026-09-24T15:34:25.129Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le dimanche 27 septembre 2026 de  08:30:00 à  16:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-09-27T04:30:00.000Z",
       "to": "2026-09-27T13:00:00.000Z",
       "id": "cd20c02fd38e031c1fd358faef74771f"
+    },
+    {
+      "date": "Le dimanche 27 septembre 2026 de  09:00:00 à  14:00:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "Dans les environs des   rues : Allee Père Laval, Isodore Bouquet, Sainte Marie, Arpenteur, Le Cornu et Sainte Croix Road",
+      "district": "portlouis",
+      "from": "2026-09-27T05:00:00.000Z",
+      "to": "2026-09-27T10:00:00.000Z",
+      "id": "3c4558befdd87c01c6955e483cdaadc7"
     },
     {
       "date": "Le dimanche 27 septembre 2026 de  09:00:00 à  15:00:00",
