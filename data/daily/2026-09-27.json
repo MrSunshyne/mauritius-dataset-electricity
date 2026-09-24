@@ -1,8 +1,8 @@
 {
   "date": "2026-09-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-23T19:17:15.002Z",
-  "outageCount": 3,
+  "generated": "2026-09-24T10:40:40.170Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le dimanche 27 septembre 2026 de  08:30:00 à  16:00:00",
@@ -33,6 +33,26 @@
       "from": "2026-09-27T05:00:00.000Z",
       "to": "2026-09-27T12:00:00.000Z",
       "id": "7667670648e4f45db9db532630e57645"
+    },
+    {
+      "date": "Le dimanche 27 septembre 2026 de  08:30:00 à  17:00:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "Montee du fil, Acacia 1,2,3,4,5, Rue Cremation, Rue Eradhun, Rue Cyprus, Rue Berthaud et ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2026-09-27T04:30:00.000Z",
+      "to": "2026-09-27T13:00:00.000Z",
+      "id": "cd20c02fd38e031c1fd358faef74771f"
+    },
+    {
+      "date": "Le dimanche 27 septembre 2026 de  09:00:00 à  15:00:00",
+      "locality": "SOUILLAC",
+      "localitySlug": "souillac",
+      "streets": "Souillac et Morcellement Gris Gris",
+      "district": "savanne",
+      "from": "2026-09-27T05:00:00.000Z",
+      "to": "2026-09-27T11:00:00.000Z",
+      "id": "57f06b863b7c002bc82800d7724ee835"
     }
   ]
 }

@@ -2,11 +2,18 @@
   "slug": "rose-hill",
   "name": "ROSE-HILL",
   "district": "plainewilhems",
-  "generated": "2026-09-23T19:17:15.091Z",
-  "outageCount": 193,
+  "generated": "2026-09-24T10:40:40.244Z",
+  "outageCount": 194,
   "firstOutage": "2022-05-20",
-  "lastOutage": "2026-09-16",
+  "lastOutage": "2026-09-24",
   "outages": [
+    {
+      "date": "Le jeudi 24 septembre 2026 de  12:30:00 à  16:30:00",
+      "streets": "SALSA BUILDING ET LES ENVIRONS",
+      "from": "2026-09-24T08:30:00.000Z",
+      "to": "2026-09-24T12:30:00.000Z",
+      "id": "1351cdbdbb7e8f9dc6c6ca007ba24475"
+    },
     {
       "date": "Le mercredi 16 septembre 2026 de  09:00:00 à  13:00:00",
       "streets": "Morc Mumbai et les environs",

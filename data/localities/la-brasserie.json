@@ -2,11 +2,18 @@
   "slug": "la-brasserie",
   "name": "LA BRASSERIE",
   "district": "plainewilhems",
-  "generated": "2026-09-23T19:17:15.055Z",
-  "outageCount": 6,
+  "generated": "2026-09-24T10:40:40.213Z",
+  "outageCount": 7,
   "firstOutage": "2023-11-17",
-  "lastOutage": "2026-04-03",
+  "lastOutage": "2026-09-24",
   "outages": [
+    {
+      "date": "Le jeudi 24 septembre 2026 de  09:30:00 à  15:00:00",
+      "streets": "Residence La Brasserie,FAREI",
+      "from": "2026-09-24T05:30:00.000Z",
+      "to": "2026-09-24T11:00:00.000Z",
+      "id": "9d5105823c9a8a1ed07aa5da02a48d6e"
+    },
     {
       "date": "Le vendredi 3 avril 2026 de  15:00:00 à  19:00:00",
       "streets": "dans les environs de La Brasserie Road et Résidences La Brasserie",

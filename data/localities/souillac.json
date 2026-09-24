@@ -2,11 +2,18 @@
   "slug": "souillac",
   "name": "SOUILLAC",
   "district": "savanne",
-  "generated": "2026-09-23T19:17:15.097Z",
-  "outageCount": 85,
+  "generated": "2026-09-24T10:40:40.247Z",
+  "outageCount": 86,
   "firstOutage": "2022-06-05",
-  "lastOutage": "2026-09-01",
+  "lastOutage": "2026-09-27",
   "outages": [
+    {
+      "date": "Le dimanche 27 septembre 2026 de  09:00:00 à  15:00:00",
+      "streets": "Souillac et Morcellement Gris Gris",
+      "from": "2026-09-27T05:00:00.000Z",
+      "to": "2026-09-27T11:00:00.000Z",
+      "id": "57f06b863b7c002bc82800d7724ee835"
+    },
     {
       "date": "Le mardi 1 septembre 2026 de  09:00:00 à  15:00:00",
       "streets": "NHDC Souillac et Morcellement Gris Gris",

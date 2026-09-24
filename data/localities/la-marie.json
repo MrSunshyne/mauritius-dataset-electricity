@@ -2,11 +2,18 @@
   "slug": "la-marie",
   "name": "LA MARIE",
   "district": "plainewilhems",
-  "generated": "2026-09-23T19:17:15.057Z",
-  "outageCount": 63,
+  "generated": "2026-09-24T10:40:40.216Z",
+  "outageCount": 64,
   "firstOutage": "2022-07-07",
-  "lastOutage": "2026-09-20",
+  "lastOutage": "2026-09-27",
   "outages": [
+    {
+      "date": "Le dimanche 27 septembre 2026 de  08:30:00 à  17:00:00",
+      "streets": "Montee du fil, Acacia 1,2,3,4,5, Rue Cremation, Rue Eradhun, Rue Cyprus, Rue Berthaud et ruelles avoisinantes",
+      "from": "2026-09-27T04:30:00.000Z",
+      "to": "2026-09-27T13:00:00.000Z",
+      "id": "cd20c02fd38e031c1fd358faef74771f"
+    },
     {
       "date": "Le dimanche 20 septembre 2026 de  10:00:00 à  14:00:00",
       "streets": "Royal Road La Marie et Nathoo Lane",
