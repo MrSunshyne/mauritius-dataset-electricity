@@ -1,8 +1,8 @@
 {
   "date": "2026-09-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-24T15:34:25.129Z",
-  "outageCount": 5,
+  "generated": "2026-09-24T19:34:52.869Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le jeudi 24 septembre 2026 de  08:00:00 à  12:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-09-24T08:30:00.000Z",
       "to": "2026-09-24T12:30:00.000Z",
       "id": "1351cdbdbb7e8f9dc6c6ca007ba24475"
+    },
+    {
+      "date": "Le jeudi 24 septembre 2026 de  21:15:00 à  02:30:00",
+      "locality": "CAP MALHEUREUX",
+      "localitySlug": "cap-malheureux",
+      "streets": "AVENUE PERE LAVAL",
+      "district": "rivieredurempart",
+      "from": "2026-09-24T17:15:00.000Z",
+      "to": "2026-09-23T22:30:00.000Z",
+      "id": "b827f8accda25c26234af1fdc94486e1"
     },
     {
       "date": "Le jeudi 24 septembre 2026 de  08:30:00 à  15:00:00",

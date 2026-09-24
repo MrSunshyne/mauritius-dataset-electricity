@@ -2,11 +2,18 @@
   "slug": "cap-malheureux",
   "name": "CAP MALHEUREUX",
   "district": "rivieredurempart",
-  "generated": "2026-09-24T15:34:25.160Z",
-  "outageCount": 58,
+  "generated": "2026-09-24T19:34:52.907Z",
+  "outageCount": 59,
   "firstOutage": "2022-07-14",
-  "lastOutage": "2026-09-23",
+  "lastOutage": "2026-09-24",
   "outages": [
+    {
+      "date": "Le jeudi 24 septembre 2026 de  21:15:00 à  02:30:00",
+      "streets": "AVENUE PERE LAVAL",
+      "from": "2026-09-24T17:15:00.000Z",
+      "to": "2026-09-23T22:30:00.000Z",
+      "id": "b827f8accda25c26234af1fdc94486e1"
+    },
     {
       "date": "Le mercredi 23 septembre 2026 de  21:00:00 à  01:00:00",
       "streets": "MOQSUE ROAD ET EN PARTIE MORCELLEMENT CHETTY.",
