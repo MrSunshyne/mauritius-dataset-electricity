@@ -2,11 +2,25 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-09-25T10:44:04.205Z",
-  "outageCount": 272,
+  "generated": "2026-09-25T15:38:15.388Z",
+  "outageCount": 274,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-09-25",
+  "lastOutage": "2026-09-27",
   "outages": [
+    {
+      "date": "Le dimanche 27 septembre 2026 de  08:30:00 à  15:00:00",
+      "streets": "La Ferme et Anse Nicolas",
+      "from": "2026-09-27T04:30:00.000Z",
+      "to": "2026-09-27T11:00:00.000Z",
+      "id": "90d33e01afc03bdf3798f10030d4687f"
+    },
+    {
+      "date": "Le samedi 26 septembre 2026 de  08:30:00 à  15:00:00",
+      "streets": "Dans Bebe,Montagne Goyaves, Montagne Plate et Camp Pintade",
+      "from": "2026-09-26T04:30:00.000Z",
+      "to": "2026-09-26T11:00:00.000Z",
+      "id": "2597aa0703c71e61ece031209ca11daa"
+    },
     {
       "date": "Le vendredi 25 septembre 2026 de  08:30:00 à  15:00:00",
       "streets": "Fond La Bonté et Fond Baie Aux Huitres",

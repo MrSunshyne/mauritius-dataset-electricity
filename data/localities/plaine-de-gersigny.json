@@ -2,11 +2,18 @@
   "slug": "plaine-de-gersigny",
   "name": "PLAINE DE GERSIGNY",
   "district": "flacq",
-  "generated": "2026-09-25T10:44:04.189Z",
-  "outageCount": 4,
+  "generated": "2026-09-25T15:38:15.373Z",
+  "outageCount": 5,
   "firstOutage": "2024-10-09",
-  "lastOutage": "2025-10-15",
+  "lastOutage": "2026-09-27",
   "outages": [
+    {
+      "date": "Le dimanche 27 septembre 2026 de  08:15:00 à  15:00:00",
+      "streets": "Plaine De Gersigny et Flacq, dans le périmètre de Morc. VRS Plaines De Gersigny, SIMS, La Cure, CWA et Eagle Clinic.",
+      "from": "2026-09-27T04:15:00.000Z",
+      "to": "2026-09-27T11:00:00.000Z",
+      "id": "0b125b9c855416eecfb432f18b9487ee"
+    },
     {
       "date": "Le mercredi 15 octobre 2025 de  15:30:00 à  17:30:00",
       "streets": "MORC VRS No 2 PLAINE DE GERSIGNY TOWARDS SUNFLOWER AVENUE.",

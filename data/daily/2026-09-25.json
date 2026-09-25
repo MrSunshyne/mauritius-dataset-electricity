@@ -1,8 +1,8 @@
 {
   "date": "2026-09-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-25T10:44:04.103Z",
-  "outageCount": 7,
+  "generated": "2026-09-25T15:38:15.289Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le vendredi 25 septembre 2026 de  08:30:00 à  16:00:00",
@@ -35,6 +35,16 @@
       "id": "4d30c63d6f0245e132739f2e581a3e5c"
     },
     {
+      "date": "Le vendredi 25 septembre 2026 de  16:00:00 à  20:00:00",
+      "locality": "CREVE COEUR",
+      "localitySlug": "creve-coeur",
+      "streets": "RIVALLAND ROAD, PIETER BOTH LANE ET DANS LES ENVIRONS RESERVOIR.",
+      "district": "pamplemousses",
+      "from": "2026-09-25T12:00:00.000Z",
+      "to": "2026-09-25T16:00:00.000Z",
+      "id": "1530674a7dbf32ce5f78c046a70143ec"
+    },
+    {
       "date": "Le vendredi 25 septembre 2026 de  14:00:00 à  17:00:00",
       "locality": "SAINT PAUL",
       "localitySlug": "saint-paul",
@@ -63,6 +73,16 @@
       "from": "2026-09-25T05:00:00.000Z",
       "to": "2026-09-25T09:00:00.000Z",
       "id": "6555f48d3d6eecf79d42dd406daa837a"
+    },
+    {
+      "date": "Le vendredi 25 septembre 2026 de  17:40:00 à  22:00:00",
+      "locality": "LOWER VALE",
+      "localitySlug": "lower-vale",
+      "streets": "ROUTE ROYALE DANS LES ENVIRONS MASJID IBN TABIYA ET LES ALENTOURS.",
+      "district": "rivieredurempart",
+      "from": "2026-09-25T13:40:00.000Z",
+      "to": "2026-09-25T18:00:00.000Z",
+      "id": "05dbac9094316358570b34a65202ecb4"
     },
     {
       "date": "Le vendredi 25 septembre 2026 de  08:30:00 à  15:00:00",

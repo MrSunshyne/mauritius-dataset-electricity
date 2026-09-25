@@ -2,11 +2,18 @@
   "slug": "creve-coeur",
   "name": "CREVE COEUR",
   "district": "pamplemousses",
-  "generated": "2026-09-25T10:44:04.147Z",
-  "outageCount": 32,
+  "generated": "2026-09-25T15:38:15.335Z",
+  "outageCount": 33,
   "firstOutage": "2022-04-02",
-  "lastOutage": "2026-08-13",
+  "lastOutage": "2026-09-25",
   "outages": [
+    {
+      "date": "Le vendredi 25 septembre 2026 de  16:00:00 à  20:00:00",
+      "streets": "RIVALLAND ROAD, PIETER BOTH LANE ET DANS LES ENVIRONS RESERVOIR.",
+      "from": "2026-09-25T12:00:00.000Z",
+      "to": "2026-09-25T16:00:00.000Z",
+      "id": "1530674a7dbf32ce5f78c046a70143ec"
+    },
     {
       "date": "Le jeudi 13 août 2026 de  08:30:00 à  14:30:00",
       "streets": "CREVE COEUR, BOULINGRIN ET THOMASIN",

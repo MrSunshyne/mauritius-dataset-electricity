@@ -1,8 +1,8 @@
 {
   "date": "2026-09-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-25T10:44:04.103Z",
-  "outageCount": 5,
+  "generated": "2026-09-25T15:38:15.289Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le samedi 26 septembre 2026 de  14:00:00 à  16:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-09-26T05:00:00.000Z",
       "to": "2026-09-26T08:00:00.000Z",
       "id": "e307036ae6c00bfe72073dc6742a3e8b"
+    },
+    {
+      "date": "Le samedi 26 septembre 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Dans Bebe,Montagne Goyaves, Montagne Plate et Camp Pintade",
+      "district": "rodrigues",
+      "from": "2026-09-26T04:30:00.000Z",
+      "to": "2026-09-26T11:00:00.000Z",
+      "id": "2597aa0703c71e61ece031209ca11daa"
     }
   ]
 }
