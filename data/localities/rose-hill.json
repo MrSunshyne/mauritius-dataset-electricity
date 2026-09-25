@@ -2,11 +2,18 @@
   "slug": "rose-hill",
   "name": "ROSE-HILL",
   "district": "plainewilhems",
-  "generated": "2026-09-24T19:34:52.972Z",
-  "outageCount": 194,
+  "generated": "2026-09-25T10:44:04.206Z",
+  "outageCount": 195,
   "firstOutage": "2022-05-20",
-  "lastOutage": "2026-09-24",
+  "lastOutage": "2026-09-28",
   "outages": [
+    {
+      "date": "Le lundi 28 septembre 2026 de  09:00:00 à  14:00:00",
+      "streets": "Ave Madras, en partie Ave Ratsitatane, Ave Cretin, Ave Sirius, NHDC Site & Services et les environs",
+      "from": "2026-09-28T05:00:00.000Z",
+      "to": "2026-09-28T10:00:00.000Z",
+      "id": "915c6951ab7894303a66d693208dbb95"
+    },
     {
       "date": "Le jeudi 24 septembre 2026 de  12:30:00 à  16:30:00",
       "streets": "SALSA BUILDING ET LES ENVIRONS",

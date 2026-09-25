@@ -2,11 +2,18 @@
   "slug": "ebene",
   "name": "EBENE",
   "district": "plainewilhems",
-  "generated": "2026-09-24T19:34:52.920Z",
-  "outageCount": 29,
+  "generated": "2026-09-25T10:44:04.150Z",
+  "outageCount": 30,
   "firstOutage": "2022-04-25",
-  "lastOutage": "2026-09-12",
+  "lastOutage": "2026-09-25",
   "outages": [
+    {
+      "date": "Le vendredi 25 septembre 2026 de  11:00:00 à  13:00:00",
+      "streets": "EBENE-BELLE ROSE-SODNAC",
+      "from": "2026-09-25T07:00:00.000Z",
+      "to": "2026-09-25T09:00:00.000Z",
+      "id": "0d1c3994d3ef6f3e5dedf7381c319eb3"
+    },
     {
       "date": "Le samedi 12 septembre 2026 de  09:00:00 à  15:00:00",
       "streets": "MAEVA TOWER(ALL FLOORS)",

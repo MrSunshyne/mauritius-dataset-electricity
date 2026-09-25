@@ -1,8 +1,8 @@
 {
   "date": "2026-09-27",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-24T19:34:52.869Z",
-  "outageCount": 6,
+  "generated": "2026-09-25T10:44:04.103Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le dimanche 27 septembre 2026 de  08:30:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-09-27T04:30:00.000Z",
       "to": "2026-09-27T12:00:00.000Z",
       "id": "fbffcd96db6d1fa31bb8967d9a9a1159"
+    },
+    {
+      "date": "Le dimanche 27 septembre 2026 de  07:00:00 à  16:00:00",
+      "locality": "NOTRE DAME",
+      "localitySlug": "notre-dame",
+      "streets": "Notre dame",
+      "district": "pamplemousses",
+      "from": "2026-09-27T03:00:00.000Z",
+      "to": "2026-09-27T12:00:00.000Z",
+      "id": "3cb081e70258fefe476c3b7841b5b8ee"
     },
     {
       "date": "Le dimanche 27 septembre 2026 de  08:30:00 à  17:00:00",
@@ -43,6 +53,26 @@
       "from": "2026-09-27T04:30:00.000Z",
       "to": "2026-09-27T13:00:00.000Z",
       "id": "cd20c02fd38e031c1fd358faef74771f"
+    },
+    {
+      "date": "Le dimanche 27 septembre 2026 de  10:30:00 à  14:00:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "Part of Royal Road La Marie and Nathoo Lane",
+      "district": "plainewilhems",
+      "from": "2026-09-27T06:30:00.000Z",
+      "to": "2026-09-27T10:00:00.000Z",
+      "id": "5b73c4949c46f7776e487303967381c6"
+    },
+    {
+      "date": "Le dimanche 27 septembre 2026 de  09:00:00 à  11:00:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "Part of Royal Road La Marie , Malakoff and Meerun Lane",
+      "district": "plainewilhems",
+      "from": "2026-09-27T05:00:00.000Z",
+      "to": "2026-09-27T07:00:00.000Z",
+      "id": "b74cb630e0892a8d62335c58cab4adea"
     },
     {
       "date": "Le dimanche 27 septembre 2026 de  09:00:00 à  14:00:00",

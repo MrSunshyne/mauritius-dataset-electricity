@@ -2,11 +2,18 @@
   "slug": "riviere-du-poste",
   "name": "RIVIERE DU POSTE",
   "district": "grandport",
-  "generated": "2026-09-24T19:34:52.968Z",
-  "outageCount": 19,
+  "generated": "2026-09-25T10:44:04.201Z",
+  "outageCount": 20,
   "firstOutage": "2022-09-24",
-  "lastOutage": "2026-08-25",
+  "lastOutage": "2026-09-25",
   "outages": [
+    {
+      "date": "Le vendredi 25 septembre 2026 de  09:30:00 à  10:30:00",
+      "streets": "VKS POULTRY",
+      "from": "2026-09-25T05:30:00.000Z",
+      "to": "2026-09-25T06:30:00.000Z",
+      "id": "4d30c63d6f0245e132739f2e581a3e5c"
+    },
     {
       "date": "Le mardi 25 août 2026 de  20:00:00 à  00:00:00",
       "streets": "RIVIERE DU POSTE-MARE TABAC",

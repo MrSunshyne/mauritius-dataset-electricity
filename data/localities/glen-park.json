@@ -2,11 +2,25 @@
   "slug": "glen-park",
   "name": "GLEN PARK",
   "district": "plainewilhems",
-  "generated": "2026-09-24T19:34:52.925Z",
-  "outageCount": 49,
+  "generated": "2026-09-25T10:44:04.157Z",
+  "outageCount": 51,
   "firstOutage": "2022-04-26",
-  "lastOutage": "2026-09-19",
+  "lastOutage": "2026-09-26",
   "outages": [
+    {
+      "date": "Le samedi 26 septembre 2026 de  11:00:00 à  14:00:00",
+      "streets": "Rempart Road -Glen Park",
+      "from": "2026-09-26T07:00:00.000Z",
+      "to": "2026-09-26T10:00:00.000Z",
+      "id": "df72fbd4a91180dbc3496a33284f19c0"
+    },
+    {
+      "date": "Le samedi 26 septembre 2026 de  09:00:00 à  12:00:00",
+      "streets": "Part of Royal Road Glen Park, Mumbhai Rd no 1,2,3",
+      "from": "2026-09-26T05:00:00.000Z",
+      "to": "2026-09-26T08:00:00.000Z",
+      "id": "e307036ae6c00bfe72073dc6742a3e8b"
+    },
     {
       "date": "Le samedi 19 septembre 2026 de  11:00:00 à  14:00:00",
       "streets": "Rempart Road, Glen Park",

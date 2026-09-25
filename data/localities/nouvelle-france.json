@@ -2,8 +2,8 @@
   "slug": "nouvelle-france",
   "name": "NOUVELLE FRANCE",
   "district": "grandport",
-  "generated": "2026-09-24T19:34:52.949Z",
-  "outageCount": 40,
+  "generated": "2026-09-25T10:44:04.180Z",
+  "outageCount": 41,
   "firstOutage": "2022-05-12",
   "lastOutage": "2026-09-27",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-09-27T04:30:00.000Z",
       "to": "2026-09-27T12:00:00.000Z",
       "id": "fbffcd96db6d1fa31bb8967d9a9a1159"
+    },
+    {
+      "date": "Le vendredi 25 septembre 2026 de  11:00:00 à  13:00:00",
+      "streets": "RESIDENCE UNION PARK",
+      "from": "2026-09-25T07:00:00.000Z",
+      "to": "2026-09-25T09:00:00.000Z",
+      "id": "9af88c0e152bd14abfe9cb4df19cf47e"
     },
     {
       "date": "Le dimanche 6 septembre 2026 de  08:30:00 à  17:00:00",

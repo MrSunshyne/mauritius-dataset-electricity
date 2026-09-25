@@ -2,11 +2,18 @@
   "slug": "plaisance-rose-hill",
   "name": "PLAISANCE ROSE HILL",
   "district": "plainewilhems",
-  "generated": "2026-09-24T19:34:52.957Z",
-  "outageCount": 8,
+  "generated": "2026-09-25T10:44:04.190Z",
+  "outageCount": 9,
   "firstOutage": "2022-07-13",
-  "lastOutage": "2026-03-05",
+  "lastOutage": "2026-09-25",
   "outages": [
+    {
+      "date": "Le vendredi 25 septembre 2026 de  09:00:00 à  13:00:00",
+      "streets": "LA RUE LA REINE-RUE S MAYER-SISTER MARIE CLEMENCE PLAISANCE ROSE HILL",
+      "from": "2026-09-25T05:00:00.000Z",
+      "to": "2026-09-25T09:00:00.000Z",
+      "id": "6555f48d3d6eecf79d42dd406daa837a"
+    },
     {
       "date": "Le jeudi 5 mars 2026 de  10:00:00 à  14:00:00",
       "streets": "AVENUE ST LOUIS/GIRODAY/PIGEOT",

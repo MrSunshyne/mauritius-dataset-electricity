@@ -1,8 +1,8 @@
 {
   "date": "2026-09-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-24T19:34:52.869Z",
-  "outageCount": 3,
+  "generated": "2026-09-25T10:44:04.103Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le vendredi 25 septembre 2026 de  08:30:00 à  16:00:00",
@@ -15,6 +15,26 @@
       "id": "acf16944670e3a04b8dedf8b6f85b740"
     },
     {
+      "date": "Le vendredi 25 septembre 2026 de  11:00:00 à  13:00:00",
+      "locality": "NOUVELLE FRANCE",
+      "localitySlug": "nouvelle-france",
+      "streets": "RESIDENCE UNION PARK",
+      "district": "grandport",
+      "from": "2026-09-25T07:00:00.000Z",
+      "to": "2026-09-25T09:00:00.000Z",
+      "id": "9af88c0e152bd14abfe9cb4df19cf47e"
+    },
+    {
+      "date": "Le vendredi 25 septembre 2026 de  09:30:00 à  10:30:00",
+      "locality": "RIVIERE DU POSTE",
+      "localitySlug": "riviere-du-poste",
+      "streets": "VKS POULTRY",
+      "district": "grandport",
+      "from": "2026-09-25T05:30:00.000Z",
+      "to": "2026-09-25T06:30:00.000Z",
+      "id": "4d30c63d6f0245e132739f2e581a3e5c"
+    },
+    {
       "date": "Le vendredi 25 septembre 2026 de  14:00:00 à  17:00:00",
       "locality": "SAINT PAUL",
       "localitySlug": "saint-paul",
@@ -23,6 +43,26 @@
       "from": "2026-09-25T10:00:00.000Z",
       "to": "2026-09-25T13:00:00.000Z",
       "id": "02b1c323afbbb7ae4f4d55098eb0178a"
+    },
+    {
+      "date": "Le vendredi 25 septembre 2026 de  11:00:00 à  13:00:00",
+      "locality": "EBENE",
+      "localitySlug": "ebene",
+      "streets": "EBENE-BELLE ROSE-SODNAC",
+      "district": "plainewilhems",
+      "from": "2026-09-25T07:00:00.000Z",
+      "to": "2026-09-25T09:00:00.000Z",
+      "id": "0d1c3994d3ef6f3e5dedf7381c319eb3"
+    },
+    {
+      "date": "Le vendredi 25 septembre 2026 de  09:00:00 à  13:00:00",
+      "locality": "PLAISANCE ROSE HILL",
+      "localitySlug": "plaisance-rose-hill",
+      "streets": "LA RUE LA REINE-RUE S MAYER-SISTER MARIE CLEMENCE PLAISANCE ROSE HILL",
+      "district": "plainewilhems",
+      "from": "2026-09-25T05:00:00.000Z",
+      "to": "2026-09-25T09:00:00.000Z",
+      "id": "6555f48d3d6eecf79d42dd406daa837a"
     },
     {
       "date": "Le vendredi 25 septembre 2026 de  08:30:00 à  15:00:00",

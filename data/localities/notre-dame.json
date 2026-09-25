@@ -2,11 +2,18 @@
   "slug": "notre-dame",
   "name": "NOTRE DAME",
   "district": "pamplemousses",
-  "generated": "2026-09-24T19:34:52.948Z",
-  "outageCount": 42,
+  "generated": "2026-09-25T10:44:04.179Z",
+  "outageCount": 43,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-07-16",
+  "lastOutage": "2026-09-27",
   "outages": [
+    {
+      "date": "Le dimanche 27 septembre 2026 de  07:00:00 à  16:00:00",
+      "streets": "Notre dame",
+      "from": "2026-09-27T03:00:00.000Z",
+      "to": "2026-09-27T12:00:00.000Z",
+      "id": "3cb081e70258fefe476c3b7841b5b8ee"
+    },
     {
       "date": "Le jeudi 16 juillet 2026 de  11:30:00 à  13:30:00",
       "streets": "CHEMIN LA GARE,ROYAL RD NEAR COMMUNITY CENTRE,NHDC",
