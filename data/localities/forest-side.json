@@ -2,11 +2,18 @@
   "slug": "forest-side",
   "name": "FOREST SIDE",
   "district": "plainewilhems",
-  "generated": "2026-09-25T19:39:25.050Z",
-  "outageCount": 109,
+  "generated": "2026-09-26T10:26:17.164Z",
+  "outageCount": 110,
   "firstOutage": "2022-07-03",
-  "lastOutage": "2026-09-05",
+  "lastOutage": "2026-09-26",
   "outages": [
+    {
+      "date": "Le samedi 26 septembre 2026 de  07:40:00 à  13:00:00",
+      "streets": "CAMP BOMBAY & SURROUNDINGS",
+      "from": "2026-09-26T03:40:00.000Z",
+      "to": "2026-09-26T09:00:00.000Z",
+      "id": "49b522aa271133082dc0cca3a51f80b4"
+    },
     {
       "date": "Le samedi 5 septembre 2026 de  08:30:00 à  12:00:00",
       "streets": "Morc Hosenny et ruelles avoisinantes",

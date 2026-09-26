@@ -2,11 +2,18 @@
   "slug": "poste-de-flacq",
   "name": "POSTE DE FLACQ",
   "district": "flacq",
-  "generated": "2026-09-25T19:39:25.093Z",
-  "outageCount": 44,
+  "generated": "2026-09-26T10:26:17.197Z",
+  "outageCount": 45,
   "firstOutage": "2022-06-12",
-  "lastOutage": "2026-09-10",
+  "lastOutage": "2026-09-26",
   "outages": [
+    {
+      "date": "Le samedi 26 septembre 2026 de  11:15:00 à  15:30:00",
+      "streets": "PART OF POSTE DE FLACQ & POINTE DE FLACQ",
+      "from": "2026-09-26T07:15:00.000Z",
+      "to": "2026-09-26T11:30:00.000Z",
+      "id": "4aed786d0d45c3f5772ef1289dd2cc34"
+    },
     {
       "date": "Le jeudi 10 septembre 2026 de  09:00:00 à  16:00:00",
       "streets": "USINE SEAFOOD, EN PARTIE CAMP POORUN ET CAMP ACCACIA",
