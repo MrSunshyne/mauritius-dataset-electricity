@@ -2,11 +2,18 @@
   "slug": "medine-camp-de-masque",
   "name": "MEDINE CAMP DE MASQUE",
   "district": "flacq",
-  "generated": "2026-09-28T12:13:18.285Z",
-  "outageCount": 19,
+  "generated": "2026-09-28T19:53:05.398Z",
+  "outageCount": 20,
   "firstOutage": "2022-12-11",
-  "lastOutage": "2026-09-16",
+  "lastOutage": "2026-09-28",
   "outages": [
+    {
+      "date": "Le lundi 28 septembre 2026 de  16:35:00 à  21:30:00",
+      "streets": "AVE PAILLES EN QUEUE & SURROUNDINGS",
+      "from": "2026-09-28T12:35:00.000Z",
+      "to": "2026-09-28T17:30:00.000Z",
+      "id": "44b412e38bd68a5834b2fcfd91b1cc77"
+    },
     {
       "date": "Le mercredi 16 septembre 2026 de  09:00:00 à  17:00:00",
       "streets": "ROYAL ROAD/MORC VRS MEDINE CAMP DE MASQUE",

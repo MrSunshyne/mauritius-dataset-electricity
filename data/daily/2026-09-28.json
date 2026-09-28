@@ -1,9 +1,19 @@
 {
   "date": "2026-09-28",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-28T12:13:18.206Z",
-  "outageCount": 5,
+  "generated": "2026-09-28T19:53:05.355Z",
+  "outageCount": 6,
   "outages": [
+    {
+      "date": "Le lundi 28 septembre 2026 de  16:35:00 à  21:30:00",
+      "locality": "MEDINE CAMP DE MASQUE",
+      "localitySlug": "medine-camp-de-masque",
+      "streets": "AVE PAILLES EN QUEUE & SURROUNDINGS",
+      "district": "flacq",
+      "from": "2026-09-28T12:35:00.000Z",
+      "to": "2026-09-28T17:30:00.000Z",
+      "id": "44b412e38bd68a5834b2fcfd91b1cc77"
+    },
     {
       "date": "Le lundi 28 septembre 2026 de  15:00:00 à  16:30:00",
       "locality": "NOTRE DAME",
