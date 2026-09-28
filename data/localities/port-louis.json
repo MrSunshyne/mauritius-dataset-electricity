@@ -2,11 +2,18 @@
   "slug": "port-louis",
   "name": "PORT-LOUIS",
   "district": "portlouis",
-  "generated": "2026-09-27T19:22:56.930Z",
-  "outageCount": 133,
+  "generated": "2026-09-28T12:13:18.307Z",
+  "outageCount": 134,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-09-20",
+  "lastOutage": "2026-09-28",
   "outages": [
+    {
+      "date": "Le lundi 28 septembre 2026 de  14:30:00 à  19:30:00",
+      "streets": "MARIAMEN TEMPLE ROAD NEAR POLICE STATION & KOVIL",
+      "from": "2026-09-28T10:30:00.000Z",
+      "to": "2026-09-28T15:30:00.000Z",
+      "id": "dc632b714d015a270cf49bfd81644cc8"
+    },
     {
       "date": "Le dimanche 20 septembre 2026 de  08:30:00 à  15:00:00",
       "streets": "Dans les environs dúne partie des Rues Royal et Joseph Riviere",

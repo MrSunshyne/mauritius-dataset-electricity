@@ -2,11 +2,18 @@
   "slug": "tamarin",
   "name": "TAMARIN",
   "district": "blackriver",
-  "generated": "2026-09-27T19:22:56.943Z",
-  "outageCount": 87,
+  "generated": "2026-09-28T12:13:18.327Z",
+  "outageCount": 88,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-09-23",
+  "lastOutage": "2026-09-29",
   "outages": [
+    {
+      "date": "Le mardi 29 septembre 2026 de  08:30:00 à  16:00:00",
+      "streets": "TAMARIN VILLAGE",
+      "from": "2026-09-29T04:30:00.000Z",
+      "to": "2026-09-29T12:00:00.000Z",
+      "id": "7fec5338e93f6a65543d3b115ae3e9b3"
+    },
     {
       "date": "Le mercredi 23 septembre 2026 de  08:30:00 à  16:00:00",
       "streets": "MORC CARLOS, AVE BOIS CORAIL ET LA MIVOIE",

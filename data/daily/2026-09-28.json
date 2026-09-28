@@ -1,9 +1,19 @@
 {
   "date": "2026-09-28",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-27T19:22:56.867Z",
-  "outageCount": 1,
+  "generated": "2026-09-28T12:13:18.206Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le lundi 28 septembre 2026 de  15:00:00 à  16:30:00",
+      "locality": "NOTRE DAME",
+      "localitySlug": "notre-dame",
+      "streets": "Notre Dame",
+      "district": "pamplemousses",
+      "from": "2026-09-28T11:00:00.000Z",
+      "to": "2026-09-28T12:30:00.000Z",
+      "id": "b4cd6b4c9b42a012859be2853f6bb371"
+    },
     {
       "date": "Le lundi 28 septembre 2026 de  09:00:00 à  14:00:00",
       "locality": "ROSE-HILL",
@@ -13,6 +23,36 @@
       "from": "2026-09-28T05:00:00.000Z",
       "to": "2026-09-28T10:00:00.000Z",
       "id": "915c6951ab7894303a66d693208dbb95"
+    },
+    {
+      "date": "Le lundi 28 septembre 2026 de  14:30:00 à  19:30:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "MARIAMEN TEMPLE ROAD NEAR POLICE STATION & KOVIL",
+      "district": "portlouis",
+      "from": "2026-09-28T10:30:00.000Z",
+      "to": "2026-09-28T15:30:00.000Z",
+      "id": "dc632b714d015a270cf49bfd81644cc8"
+    },
+    {
+      "date": "Le lundi 28 septembre 2026 de  11:50:00 à  15:00:00",
+      "locality": "ROCHES NOIRES",
+      "localitySlug": "roches-noires",
+      "streets": "CREMATION ROAD ROCHES NOIRES",
+      "district": "rivieredurempart",
+      "from": "2026-09-28T07:50:00.000Z",
+      "to": "2026-09-28T11:00:00.000Z",
+      "id": "8d445b7fe887039f2b1a55dddc7cf7d7"
+    },
+    {
+      "date": "Le lundi 28 septembre 2026 de  15:30:00 à  17:00:00",
+      "locality": "GRAND BOIS",
+      "localitySlug": "grand-bois",
+      "streets": "SAVANNE RD, YOUNG TOWN RD, RAMCHURRUN RD & SURROUNDINGS",
+      "district": "savanne",
+      "from": "2026-09-28T11:30:00.000Z",
+      "to": "2026-09-28T13:00:00.000Z",
+      "id": "db3434f51cc38577ce60a8f7562683eb"
     }
   ]
 }

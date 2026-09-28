@@ -2,11 +2,18 @@
   "slug": "grand-bois",
   "name": "GRAND BOIS",
   "district": "savanne",
-  "generated": "2026-09-27T19:22:56.904Z",
-  "outageCount": 22,
+  "generated": "2026-09-28T12:13:18.265Z",
+  "outageCount": 23,
   "firstOutage": "2022-09-15",
-  "lastOutage": "2026-08-30",
+  "lastOutage": "2026-09-28",
   "outages": [
+    {
+      "date": "Le lundi 28 septembre 2026 de  15:30:00 à  17:00:00",
+      "streets": "SAVANNE RD, YOUNG TOWN RD, RAMCHURRUN RD & SURROUNDINGS",
+      "from": "2026-09-28T11:30:00.000Z",
+      "to": "2026-09-28T13:00:00.000Z",
+      "id": "db3434f51cc38577ce60a8f7562683eb"
+    },
     {
       "date": "Le dimanche 30 août 2026 de  09:00:00 à  15:00:00",
       "streets": "Bois Cheri, Grand Bois, Le Grand Road et NHDC Grand Bois",
