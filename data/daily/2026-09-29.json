@@ -1,8 +1,8 @@
 {
   "date": "2026-09-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-29T17:10:10.831Z",
-  "outageCount": 3,
+  "generated": "2026-09-29T21:35:54.503Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le mardi 29 septembre 2026 de  08:30:00 à  16:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-09-29T06:25:00.000Z",
       "to": "2026-09-29T10:00:00.000Z",
       "id": "4c8950555d20cc62bff002f36f2de0b0"
+    },
+    {
+      "date": "Le mardi 29 septembre 2026 de  23:20:00 à  03:30:00",
+      "locality": "BELLE VUE MAUREL",
+      "localitySlug": "belle-vue-maurel",
+      "streets": "AUSTRAY LANE, LATANIER LANE, DAFODIL LANE & SURROUNDINGS",
+      "district": "rivieredurempart",
+      "from": "2026-09-29T19:20:00.000Z",
+      "to": "2026-09-28T23:30:00.000Z",
+      "id": "c7d1994b29ba10f47ec042820f2835f8"
     }
   ]
 }
