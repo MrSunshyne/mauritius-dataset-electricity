@@ -1,9 +1,19 @@
 {
   "date": "2026-10-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-29T11:43:29.795Z",
-  "outageCount": 1,
+  "generated": "2026-09-29T17:10:10.831Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le dimanche 4 octobre 2026 de  08:30:00 à  17:00:00",
+      "locality": "CLUNY",
+      "localitySlug": "cluny",
+      "streets": "Eau Bleu, Eau Bleu Poultry, CWA Eau Bleu Tostée, MTS Bananes, CWA Cluny, Route Royale Cluny et Bananes",
+      "district": "grandport",
+      "from": "2026-10-04T04:30:00.000Z",
+      "to": "2026-10-04T13:00:00.000Z",
+      "id": "81472b09a4f475ae83dc30d44811abb5"
+    },
     {
       "date": "Le dimanche 4 octobre 2026 de  08:30:00 à  15:30:00",
       "locality": "FOREST SIDE",
