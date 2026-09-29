@@ -2,11 +2,18 @@
   "slug": "flic-en-flac",
   "name": "FLIC-EN-FLAC",
   "district": "blackriver",
-  "generated": "2026-09-28T19:53:05.387Z",
-  "outageCount": 238,
+  "generated": "2026-09-29T11:43:29.852Z",
+  "outageCount": 239,
   "firstOutage": "2022-03-16",
-  "lastOutage": "2026-09-16",
+  "lastOutage": "2026-09-29",
   "outages": [
+    {
+      "date": "Le mardi 29 septembre 2026 de  13:00:00 à  16:00:00",
+      "streets": "AVE DES TOURTEREAUX, AVE DES BENGALIS ET SEA VILLA APARTMENTS",
+      "from": "2026-09-29T09:00:00.000Z",
+      "to": "2026-09-29T12:00:00.000Z",
+      "id": "3533e7beb4c9568defe3c517deb12d2b"
+    },
     {
       "date": "Le mercredi 16 septembre 2026 de  21:30:00 à  23:30:00",
       "streets": "MORC ST JACQUES",

@@ -2,11 +2,18 @@
   "slug": "forest-side",
   "name": "FOREST SIDE",
   "district": "plainewilhems",
-  "generated": "2026-09-28T19:53:05.388Z",
-  "outageCount": 110,
+  "generated": "2026-09-29T11:43:29.854Z",
+  "outageCount": 111,
   "firstOutage": "2022-07-03",
-  "lastOutage": "2026-09-26",
+  "lastOutage": "2026-10-04",
   "outages": [
+    {
+      "date": "Le dimanche 4 octobre 2026 de  08:30:00 à  15:30:00",
+      "streets": "Louis de Rochecouste St, Hibiscus Lane, Marygold st, Jasmin rd, Impasse Rochecouste, Impasse Raffray, une partie de Sir Celicourt Antelme st et ruelles avoisinantes",
+      "from": "2026-10-04T04:30:00.000Z",
+      "to": "2026-10-04T11:30:00.000Z",
+      "id": "4e3809ab1eddd6bd64e8d93c19a8f148"
+    },
     {
       "date": "Le samedi 26 septembre 2026 de  07:40:00 à  13:00:00",
       "streets": "CAMP BOMBAY & SURROUNDINGS",

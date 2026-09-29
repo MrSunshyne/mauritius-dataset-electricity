@@ -2,11 +2,18 @@
   "slug": "goodlands",
   "name": "GOODLANDS",
   "district": "rivieredurempart",
-  "generated": "2026-09-28T19:53:05.389Z",
-  "outageCount": 148,
+  "generated": "2026-09-29T11:43:29.856Z",
+  "outageCount": 149,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-09-19",
+  "lastOutage": "2026-09-29",
   "outages": [
+    {
+      "date": "Le mardi 29 septembre 2026 de  10:25:00 à  14:00:00",
+      "streets": "EN PARTIE PETIT VILLAGE",
+      "from": "2026-09-29T06:25:00.000Z",
+      "to": "2026-09-29T10:00:00.000Z",
+      "id": "4c8950555d20cc62bff002f36f2de0b0"
+    },
     {
       "date": "Le samedi 19 septembre 2026 de  08:30:00 à  09:30:00",
       "streets": "ROYAL ROAD, RESERVOIR ROAD, VERGER ROAD, SUBANI ROAD, BOIS ROUGE GOODLANDS",

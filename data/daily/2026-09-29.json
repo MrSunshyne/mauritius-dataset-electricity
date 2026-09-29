@@ -1,8 +1,8 @@
 {
   "date": "2026-09-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-28T19:53:05.355Z",
-  "outageCount": 1,
+  "generated": "2026-09-29T11:43:29.795Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le mardi 29 septembre 2026 de  08:30:00 à  16:00:00",
@@ -13,6 +13,26 @@
       "from": "2026-09-29T04:30:00.000Z",
       "to": "2026-09-29T12:00:00.000Z",
       "id": "7fec5338e93f6a65543d3b115ae3e9b3"
+    },
+    {
+      "date": "Le mardi 29 septembre 2026 de  13:00:00 à  16:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "AVE DES TOURTEREAUX, AVE DES BENGALIS ET SEA VILLA APARTMENTS",
+      "district": "blackriver",
+      "from": "2026-09-29T09:00:00.000Z",
+      "to": "2026-09-29T12:00:00.000Z",
+      "id": "3533e7beb4c9568defe3c517deb12d2b"
+    },
+    {
+      "date": "Le mardi 29 septembre 2026 de  10:25:00 à  14:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "EN PARTIE PETIT VILLAGE",
+      "district": "rivieredurempart",
+      "from": "2026-09-29T06:25:00.000Z",
+      "to": "2026-09-29T10:00:00.000Z",
+      "id": "4c8950555d20cc62bff002f36f2de0b0"
     }
   ]
 }
