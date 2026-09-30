@@ -2,11 +2,25 @@
   "slug": "bambous",
   "name": "BAMBOUS",
   "district": "blackriver",
-  "generated": "2026-09-29T21:35:54.519Z",
-  "outageCount": 125,
+  "generated": "2026-09-30T11:29:47.957Z",
+  "outageCount": 127,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-09-02",
+  "lastOutage": "2026-10-03",
   "outages": [
+    {
+      "date": "Le samedi 3 octobre 2026 de  08:30:00 à  16:30:00",
+      "streets": "UBP BAMBOUS, EX-BCE, DRYMIX, PREMIX CONCRETE, PIVOT MEDINE GEOFFROY ET UNE PARTIE DE LA ROUTE GEOFFROY",
+      "from": "2026-10-03T04:30:00.000Z",
+      "to": "2026-10-03T12:30:00.000Z",
+      "id": "cd317ef92c1ac944ef63c697fc0ab057"
+    },
+    {
+      "date": "Le mercredi 30 septembre 2026 de  08:00:00 à  11:30:00",
+      "streets": "CHEMIN LA DIGUE, EAU BONNE ET LES ALENTOURS",
+      "from": "2026-09-30T04:00:00.000Z",
+      "to": "2026-09-30T07:30:00.000Z",
+      "id": "3740ccddc8360b428e46171e5fc89eae"
+    },
     {
       "date": "Le mercredi 2 septembre 2026 de  11:15:00 à  12:30:00",
       "streets": "CITE LAFERME BAMBOUS",

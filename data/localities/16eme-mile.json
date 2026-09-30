@@ -2,11 +2,18 @@
   "slug": "16eme-mile",
   "name": "16EME MILE",
   "district": "plainewilhems",
-  "generated": "2026-09-29T21:35:54.513Z",
-  "outageCount": 67,
+  "generated": "2026-09-30T11:29:47.952Z",
+  "outageCount": 68,
   "firstOutage": "2022-05-31",
-  "lastOutage": "2026-09-26",
+  "lastOutage": "2026-10-01",
   "outages": [
+    {
+      "date": "Le jeudi 1 octobre 2026 de  09:00:00 à  12:00:00",
+      "streets": "UNE PARTIE DE ROUTE ROYALE 16 EME MILLE",
+      "from": "2026-10-01T05:00:00.000Z",
+      "to": "2026-10-01T08:00:00.000Z",
+      "id": "c7aeb14111a794c653fd64e2b4735b99"
+    },
     {
       "date": "Le samedi 26 septembre 2026 de  08:30:00 à  16:00:00",
       "streets": "King George Avenue, Mungur St, Hesket Bell St, une partie de Queen Mary Avenue, une partie de John Kennedy Avenue, une partie de Roger Pezzanni, une partie de Lala Lane, une partie de Lucien de Chazal St, une partie dErnest Harel St et les ruelles avoisinantes",

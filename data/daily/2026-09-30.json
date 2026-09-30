@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-30",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-09-30T11:29:47.942Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mercredi 30 septembre 2026 de  08:00:00 à  11:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "CHEMIN LA DIGUE, EAU BONNE ET LES ALENTOURS",
+      "district": "blackriver",
+      "from": "2026-09-30T04:00:00.000Z",
+      "to": "2026-09-30T07:30:00.000Z",
+      "id": "3740ccddc8360b428e46171e5fc89eae"
+    },
+    {
+      "date": "Le mercredi 30 septembre 2026 de  09:30:00 à  13:00:00",
+      "locality": "ROUILLARD",
+      "localitySlug": "rouillard",
+      "streets": "CWA",
+      "district": "pamplemousses",
+      "from": "2026-09-30T05:30:00.000Z",
+      "to": "2026-09-30T09:00:00.000Z",
+      "id": "0bbc4c66f1c0ed46c7bc6445a7c8507f"
+    },
+    {
+      "date": "Le mercredi 30 septembre 2026 de  10:10:00 à  12:15:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "Morc Ghurburrun",
+      "district": "portlouis",
+      "from": "2026-09-30T06:10:00.000Z",
+      "to": "2026-09-30T08:15:00.000Z",
+      "id": "2048a03b3b2872e5ca807ac1a6bd027f"
+    }
+  ]
+}

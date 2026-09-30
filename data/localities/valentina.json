@@ -2,11 +2,18 @@
   "slug": "valentina",
   "name": "VALENTINA",
   "district": "plainewilhems",
-  "generated": "2026-09-29T21:35:54.594Z",
-  "outageCount": 11,
+  "generated": "2026-09-30T11:29:48.023Z",
+  "outageCount": 12,
   "firstOutage": "2022-12-01",
-  "lastOutage": "2026-02-21",
+  "lastOutage": "2026-10-01",
   "outages": [
+    {
+      "date": "Le jeudi 1 octobre 2026 de  15:00:00 à  18:00:00",
+      "streets": "VALENTINA & PETIT CAMP PHOENIX: CWA PETIT CAMP, UNE PARTIE DE PETIT CAMP VILLAGE, PHOENIX BEVERAGES, GLASS GALLERY ET LES ENVIRONS",
+      "from": "2026-10-01T11:00:00.000Z",
+      "to": "2026-10-01T14:00:00.000Z",
+      "id": "7ea57eec8cf098584d454a4ccd368f4a"
+    },
     {
       "date": "Le samedi 21 février 2026 de  11:00:00 à  17:00:00",
       "streets": "FIXON IND- CWA ZONE IND- VALENTINA",

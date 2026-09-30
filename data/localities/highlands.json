@@ -2,11 +2,25 @@
   "slug": "highlands",
   "name": "HIGHLANDS",
   "district": "plainewilhems",
-  "generated": "2026-09-29T21:35:54.549Z",
-  "outageCount": 85,
+  "generated": "2026-09-30T11:29:47.986Z",
+  "outageCount": 87,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2026-09-02",
+  "lastOutage": "2026-10-04",
   "outages": [
+    {
+      "date": "Le dimanche 4 octobre 2026 de  08:30:00 à  11:00:00",
+      "streets": "Morcellement Soobratty à Highlands",
+      "from": "2026-10-04T04:30:00.000Z",
+      "to": "2026-10-04T07:00:00.000Z",
+      "id": "b25c7ea281310b3d7a72228ba666aeec"
+    },
+    {
+      "date": "Le dimanche 4 octobre 2026 de  08:00:00 à  16:00:00",
+      "streets": "une partie de Railway Road, une partie de Flamingo Road, Morcellement Blue Print Highlands, Morcellement Omnicane, une partie de Morcellement Highland Rose, Morcellement Khoyratty les environs",
+      "from": "2026-10-04T04:00:00.000Z",
+      "to": "2026-10-04T12:00:00.000Z",
+      "id": "1c24b37886fb25d9ab5f4a2e11d524b4"
+    },
     {
       "date": "Le mercredi 2 septembre 2026 de  09:00:00 à  16:00:00",
       "streets": "Bassin Road, Kennedia Lane Highlands",

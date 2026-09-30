@@ -2,11 +2,18 @@
   "slug": "rouillard",
   "name": "ROUILLARD",
   "district": "pamplemousses",
-  "generated": "2026-09-29T21:35:54.583Z",
-  "outageCount": 6,
+  "generated": "2026-09-30T11:29:48.014Z",
+  "outageCount": 7,
   "firstOutage": "2022-05-08",
-  "lastOutage": "2026-05-24",
+  "lastOutage": "2026-09-30",
   "outages": [
+    {
+      "date": "Le mercredi 30 septembre 2026 de  09:30:00 à  13:00:00",
+      "streets": "CWA",
+      "from": "2026-09-30T05:30:00.000Z",
+      "to": "2026-09-30T09:00:00.000Z",
+      "id": "0bbc4c66f1c0ed46c7bc6445a7c8507f"
+    },
     {
       "date": "Le dimanche 24 mai 2026 de  08:30:00 à  15:00:00",
       "streets": "LA CHARMOSE, CWA ROUILLARD, ESPACE MAISON ET CIRCLE SQUARE",
