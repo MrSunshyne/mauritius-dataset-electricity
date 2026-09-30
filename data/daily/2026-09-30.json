@@ -1,8 +1,8 @@
 {
   "date": "2026-09-30",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-30T11:29:47.942Z",
-  "outageCount": 3,
+  "generated": "2026-09-30T17:08:07.899Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le mercredi 30 septembre 2026 de  08:00:00 à  11:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-09-30T04:00:00.000Z",
       "to": "2026-09-30T07:30:00.000Z",
       "id": "3740ccddc8360b428e46171e5fc89eae"
+    },
+    {
+      "date": "Le mercredi 30 septembre 2026 de  19:30:00 à  23:00:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "MORC ST REMY VRS 1 & 2 FLACQ",
+      "district": "flacq",
+      "from": "2026-09-30T15:30:00.000Z",
+      "to": "2026-09-30T19:00:00.000Z",
+      "id": "7b5a1b65d9f75be3a1618f0039267d1f"
     },
     {
       "date": "Le mercredi 30 septembre 2026 de  09:30:00 à  13:00:00",
