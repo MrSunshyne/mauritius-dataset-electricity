@@ -2,11 +2,18 @@
   "slug": "mon-gout",
   "name": "MON GOUT",
   "district": "pamplemousses",
-  "generated": "2026-10-01T17:58:21.503Z",
-  "outageCount": 20,
+  "generated": "2026-10-01T22:18:58.661Z",
+  "outageCount": 21,
   "firstOutage": "2022-06-08",
-  "lastOutage": "2026-09-06",
+  "lastOutage": "2026-10-02",
   "outages": [
+    {
+      "date": "Le vendredi 2 octobre 2026 de  01:00:00 à  04:00:00",
+      "streets": "SHIVALA ROAD MON GOUT",
+      "from": "2026-10-01T21:00:00.000Z",
+      "to": "2026-10-01T00:00:00.000Z",
+      "id": "505c24983e7eea3f0117d70518392065"
+    },
     {
       "date": "Le dimanche 6 septembre 2026 de  08:30:00 à  14:00:00",
       "streets": "DANS LES ENVIRONS DE MORC COOPERATIVE ET NHDC",
