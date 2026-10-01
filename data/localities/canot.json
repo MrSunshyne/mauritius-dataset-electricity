@@ -2,11 +2,18 @@
   "slug": "canot",
   "name": "CANOT",
   "district": "blackriver",
-  "generated": "2026-09-30T21:36:36.450Z",
-  "outageCount": 7,
+  "generated": "2026-10-01T11:58:32.502Z",
+  "outageCount": 8,
   "firstOutage": "2022-11-08",
-  "lastOutage": "2026-09-18",
+  "lastOutage": "2026-10-01",
   "outages": [
+    {
+      "date": "Le jeudi 1 octobre 2026 de  15:00:00 à  17:30:00",
+      "streets": "LES ABONNES DU MORCELLEMENT CANOT.",
+      "from": "2026-10-01T11:00:00.000Z",
+      "to": "2026-10-01T13:30:00.000Z",
+      "id": "5eb5571c4701b11d3eddab20cafbb719"
+    },
     {
       "date": "Le vendredi 18 septembre 2026 de  16:15:00 à  20:00:00",
       "streets": "MORCELLEMENT MEDINE NEAR COMMUNITY CENTRE/TEMPLE.",

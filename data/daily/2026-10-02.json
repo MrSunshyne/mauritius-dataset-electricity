@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-02",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-10-01T11:58:32.459Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le vendredi 2 octobre 2026 de  09:00:00 à  15:00:00",
+      "locality": "CALODYNE",
+      "localitySlug": "calodyne",
+      "streets": "ROYAL ROAD CALODYNE NEAR ZILWA HOTEL",
+      "district": "rivieredurempart",
+      "from": "2026-10-02T05:00:00.000Z",
+      "to": "2026-10-02T11:00:00.000Z",
+      "id": "c707a32705a59cdf32ef098fe2edfdf0"
+    },
+    {
+      "date": "Le vendredi 2 octobre 2026 de  12:00:00 à  13:00:00",
+      "locality": "GRAND LA FOUCHE CORAIL(RODRIGUES)",
+      "localitySlug": "grand-la-fouche-corail",
+      "streets": "Grand La Fouche Corail",
+      "district": "rodrigues",
+      "from": "2026-10-02T08:00:00.000Z",
+      "to": "2026-10-02T09:00:00.000Z",
+      "id": "be8ed61b5452cacb10b0c0433ac40925"
+    }
+  ]
+}

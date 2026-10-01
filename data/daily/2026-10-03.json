@@ -1,8 +1,8 @@
 {
   "date": "2026-10-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-30T21:36:36.409Z",
-  "outageCount": 2,
+  "generated": "2026-10-01T11:58:32.459Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le samedi 3 octobre 2026 de  08:30:00 à  16:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-10-03T04:30:00.000Z",
       "to": "2026-10-03T12:30:00.000Z",
       "id": "cd317ef92c1ac944ef63c697fc0ab057"
+    },
+    {
+      "date": "Le samedi 3 octobre 2026 de  08:30:00 à  15:00:00",
+      "locality": "MOKA",
+      "localitySlug": "moka",
+      "streets": "MGI, EURO CRM, CHA Telfair, School of Indian Studies et SSR Medical research",
+      "district": "moka",
+      "from": "2026-10-03T04:30:00.000Z",
+      "to": "2026-10-03T11:00:00.000Z",
+      "id": "029c701e0279c7db5f3cc7fb34a2ee4f"
     },
     {
       "date": "Le samedi 3 octobre 2026 de  10:30:00 à  14:00:00",

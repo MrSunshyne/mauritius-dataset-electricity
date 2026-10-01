@@ -2,11 +2,18 @@
   "slug": "moka",
   "name": "MOKA",
   "district": "moka",
-  "generated": "2026-09-30T21:36:36.489Z",
-  "outageCount": 76,
+  "generated": "2026-10-01T11:58:32.546Z",
+  "outageCount": 77,
   "firstOutage": "2022-06-13",
-  "lastOutage": "2026-08-21",
+  "lastOutage": "2026-10-03",
   "outages": [
+    {
+      "date": "Le samedi 3 octobre 2026 de  08:30:00 à  15:00:00",
+      "streets": "MGI, EURO CRM, CHA Telfair, School of Indian Studies et SSR Medical research",
+      "from": "2026-10-03T04:30:00.000Z",
+      "to": "2026-10-03T11:00:00.000Z",
+      "id": "029c701e0279c7db5f3cc7fb34a2ee4f"
+    },
     {
       "date": "Le vendredi 21 août 2026 de  12:30:00 à  17:30:00",
       "streets": "Rues Leclezio,Le Ravin,Baboolall,Eureka,MSB,Your Dream Motors,en parite de Mte Ory",

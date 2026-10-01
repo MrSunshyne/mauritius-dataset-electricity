@@ -1,9 +1,29 @@
 {
   "date": "2026-10-01",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-30T21:36:36.409Z",
-  "outageCount": 4,
+  "generated": "2026-10-01T11:58:32.459Z",
+  "outageCount": 8,
   "outages": [
+    {
+      "date": "Le jeudi 1 octobre 2026 de  15:00:00 à  17:30:00",
+      "locality": "CANOT",
+      "localitySlug": "canot",
+      "streets": "LES ABONNES DU MORCELLEMENT CANOT.",
+      "district": "blackriver",
+      "from": "2026-10-01T11:00:00.000Z",
+      "to": "2026-10-01T13:30:00.000Z",
+      "id": "5eb5571c4701b11d3eddab20cafbb719"
+    },
+    {
+      "date": "Le jeudi 1 octobre 2026 de  16:30:00 à  18:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "DOMAINE IZI, WHITE HOUSE WEDDING HALL, DAKRI VKS COMPANY, MAMA SALUJA CO LTD ET UBP WORKSHOP",
+      "district": "blackriver",
+      "from": "2026-10-01T12:30:00.000Z",
+      "to": "2026-10-01T14:30:00.000Z",
+      "id": "11ca90c7e5609b53a1ef53247df0e1d2"
+    },
     {
       "date": "Le jeudi 1 octobre 2026 de  08:30:00 à  16:00:00",
       "locality": "VILLENOIRE",
@@ -13,6 +33,16 @@
       "from": "2026-10-01T04:30:00.000Z",
       "to": "2026-10-01T12:00:00.000Z",
       "id": "6fa348225217315bf0ba99ee1fe493c4"
+    },
+    {
+      "date": "Le jeudi 1 octobre 2026 de  10:20:00 à  17:00:00",
+      "locality": "CLUNY",
+      "localitySlug": "cluny",
+      "streets": "CWA EAU BLEU CLUNY",
+      "district": "grandport",
+      "from": "2026-10-01T06:20:00.000Z",
+      "to": "2026-10-01T13:00:00.000Z",
+      "id": "304b740f47793cf180922be43e26b10c"
     },
     {
       "date": "Le jeudi 1 octobre 2026 de  12:00:00 à  15:00:00",
@@ -43,6 +73,16 @@
       "from": "2026-10-01T05:00:00.000Z",
       "to": "2026-10-01T08:00:00.000Z",
       "id": "c7aeb14111a794c653fd64e2b4735b99"
+    },
+    {
+      "date": "Le jeudi 1 octobre 2026 de  15:45:00 à  17:00:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "Avenues Claude Delaitre,Dodo 4 & 5",
+      "district": "portlouis",
+      "from": "2026-10-01T11:45:00.000Z",
+      "to": "2026-10-01T13:00:00.000Z",
+      "id": "5fbdd793570f75baf8a75a85e521504e"
     }
   ]
 }

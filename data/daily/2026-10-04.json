@@ -1,9 +1,19 @@
 {
   "date": "2026-10-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-09-30T21:36:36.409Z",
-  "outageCount": 5,
+  "generated": "2026-10-01T11:58:32.459Z",
+  "outageCount": 9,
   "outages": [
+    {
+      "date": "Le dimanche 4 octobre 2026 de  08:15:00 à  16:00:00",
+      "locality": "BEAU CHAMP FLACQ",
+      "localitySlug": "beau-champ-flacq",
+      "streets": "Beau Champ près du Mandiram, Incinérateur, CWA Beau Champ, Ernest Florent près du terrain de foot, CWA Beau Champ, La Nourice, MCML, CWA Trois Ilots et Trois Ilots Poultry et les régions avoisinant.",
+      "district": "flacq",
+      "from": "2026-10-04T04:15:00.000Z",
+      "to": "2026-10-04T12:00:00.000Z",
+      "id": "08fdb13b47fbe794c6bdb2aeedd699fc"
+    },
     {
       "date": "Le dimanche 4 octobre 2026 de  08:30:00 à  17:00:00",
       "locality": "CLUNY",
@@ -13,6 +23,16 @@
       "from": "2026-10-04T04:30:00.000Z",
       "to": "2026-10-04T13:00:00.000Z",
       "id": "81472b09a4f475ae83dc30d44811abb5"
+    },
+    {
+      "date": "Le dimanche 4 octobre 2026 de  08:30:00 à  15:00:00",
+      "locality": "PROVIDENCE QUARTIER MILITAIRE",
+      "localitySlug": "providence-quartier-militaire",
+      "streets": "Morc VRS Alteo 1 and Morc VRS Alteo 2",
+      "district": "moka",
+      "from": "2026-10-04T04:30:00.000Z",
+      "to": "2026-10-04T11:00:00.000Z",
+      "id": "4bbdcbd5fef798caed4ff391c28665f8"
     },
     {
       "date": "Le dimanche 4 octobre 2026 de  08:30:00 à  15:30:00",
@@ -53,6 +73,26 @@
       "from": "2026-10-04T04:00:00.000Z",
       "to": "2026-10-04T12:00:00.000Z",
       "id": "1c24b37886fb25d9ab5f4a2e11d524b4"
+    },
+    {
+      "date": "Le dimanche 4 octobre 2026 de  14:00:00 à  15:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Ave Venkatasamy, Ave de Rosnay, Ave Monneron, Ave Mgr Leen, Ave Meldrum, Elie & Son Beau-Bassin, Appartement Queen, Res. Chanterelle et les environs",
+      "district": "plainewilhems",
+      "from": "2026-10-04T10:00:00.000Z",
+      "to": "2026-10-04T11:00:00.000Z",
+      "id": "63719413707533fd554cdd89d99d371a"
+    },
+    {
+      "date": "Le dimanche 4 octobre 2026 de  08:30:00 à  15:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Raoul Lejeune, Automaster, Ave Cossigny, Ave Sir Walter Besant, Louis Lechelle, Ave Poivre, Le Tabernacle, Bio Sante Ville Soeur Beau-Bassin, Caprice Gervais, Gool Square, Ricardo Fast Food, Quicken Fast Food et les environs",
+      "district": "plainewilhems",
+      "from": "2026-10-04T04:30:00.000Z",
+      "to": "2026-10-04T11:00:00.000Z",
+      "id": "a7a406acc36f26af91a0a5167f65de33"
     }
   ]
 }

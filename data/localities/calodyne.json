@@ -2,11 +2,18 @@
   "slug": "calodyne",
   "name": "CALODYNE",
   "district": "rivieredurempart",
-  "generated": "2026-09-30T21:36:36.443Z",
-  "outageCount": 45,
+  "generated": "2026-10-01T11:58:32.496Z",
+  "outageCount": 46,
   "firstOutage": "2022-09-10",
-  "lastOutage": "2026-09-22",
+  "lastOutage": "2026-10-02",
   "outages": [
+    {
+      "date": "Le vendredi 2 octobre 2026 de  09:00:00 à  15:00:00",
+      "streets": "ROYAL ROAD CALODYNE NEAR ZILWA HOTEL",
+      "from": "2026-10-02T05:00:00.000Z",
+      "to": "2026-10-02T11:00:00.000Z",
+      "id": "c707a32705a59cdf32ef098fe2edfdf0"
+    },
     {
       "date": "Le mardi 22 septembre 2026 de  11:05:00 à  16:00:00",
       "streets": "CHEVEREAU LANE ET LES ALENTOURS",
