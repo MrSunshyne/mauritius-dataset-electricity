@@ -2,8 +2,8 @@
   "slug": "morc-saint-andre",
   "name": "MORC SAINT ANDRE",
   "district": "pamplemousses",
-  "generated": "2026-10-01T22:18:58.665Z",
-  "outageCount": 53,
+  "generated": "2026-10-02T11:29:52.614Z",
+  "outageCount": 54,
   "firstOutage": "2022-04-12",
   "lastOutage": "2026-10-04",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-10-04T04:00:00.000Z",
       "to": "2026-10-04T11:00:00.000Z",
       "id": "ad11ee86eec106e2454009a3666873ca"
+    },
+    {
+      "date": "Le vendredi 2 octobre 2026 de  15:00:00 à  17:00:00",
+      "streets": "Royal,School Roads",
+      "from": "2026-10-02T11:00:00.000Z",
+      "to": "2026-10-02T13:00:00.000Z",
+      "id": "491f37ba2513ed29401433f8b114bc22"
     },
     {
       "date": "Le jeudi 17 septembre 2026 de  09:00:00 à  16:00:00",

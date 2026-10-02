@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-10-01T22:18:58.694Z",
-  "outageCount": 274,
+  "generated": "2026-10-02T11:29:52.628Z",
+  "outageCount": 275,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-09-27",
+  "lastOutage": "2026-10-03",
   "outages": [
+    {
+      "date": "Le samedi 3 octobre 2026 de  08:30:00 à  15:00:00",
+      "streets": "COROMANDEL, THAMBES, BATATRAN, CASCADE JEAN LOUIS ET CORAIL",
+      "from": "2026-10-03T04:30:00.000Z",
+      "to": "2026-10-03T11:00:00.000Z",
+      "id": "cd0200ab70d6db696052755ecf506981"
+    },
     {
       "date": "Le dimanche 27 septembre 2026 de  08:30:00 à  15:00:00",
       "streets": "La Ferme et Anse Nicolas",

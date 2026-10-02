@@ -1,8 +1,8 @@
 {
   "date": "2026-10-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-01T22:18:58.553Z",
-  "outageCount": 3,
+  "generated": "2026-10-02T11:29:52.565Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le samedi 3 octobre 2026 de  08:30:00 à  16:30:00",
@@ -33,6 +33,26 @@
       "from": "2026-10-03T06:30:00.000Z",
       "to": "2026-10-03T10:00:00.000Z",
       "id": "b5236936b0b83c70169ca9318f447618"
+    },
+    {
+      "date": "Le samedi 3 octobre 2026 de  08:30:00 à  14:30:00",
+      "locality": "BAIN BOEUF",
+      "localitySlug": "bain-boeuf",
+      "streets": "PAZANIMALAR ROAD, TEMPLE ROAD, MORC CHETTY, MORC MERVEN, MORC POONITH, IMPASSE CAYEUX, MACUMBA LANE AND COASTAL ROAD COINDE MIRE",
+      "district": "rivieredurempart",
+      "from": "2026-10-03T04:30:00.000Z",
+      "to": "2026-10-03T10:30:00.000Z",
+      "id": "c55b556542914c880522de1c4ba91003"
+    },
+    {
+      "date": "Le samedi 3 octobre 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "COROMANDEL, THAMBES, BATATRAN, CASCADE JEAN LOUIS ET CORAIL",
+      "district": "rodrigues",
+      "from": "2026-10-03T04:30:00.000Z",
+      "to": "2026-10-03T11:00:00.000Z",
+      "id": "cd0200ab70d6db696052755ecf506981"
     }
   ]
 }

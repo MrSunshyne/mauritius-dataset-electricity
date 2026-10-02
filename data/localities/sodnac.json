@@ -2,11 +2,18 @@
   "slug": "sodnac",
   "name": "SODNAC",
   "district": "plainewilhems",
-  "generated": "2026-10-01T22:18:58.701Z",
-  "outageCount": 54,
+  "generated": "2026-10-02T11:29:52.633Z",
+  "outageCount": 55,
   "firstOutage": "2022-05-30",
-  "lastOutage": "2026-08-27",
+  "lastOutage": "2026-10-02",
   "outages": [
+    {
+      "date": "Le vendredi 2 octobre 2026 de  11:00:00 à  13:30:00",
+      "streets": "CHEMIN FLAMMANT /HILCREST SODNAC",
+      "from": "2026-10-02T07:00:00.000Z",
+      "to": "2026-10-02T09:30:00.000Z",
+      "id": "6f4e5b882aa0e0b97da2bc28500c632b"
+    },
     {
       "date": "Le jeudi 27 août 2026 de  09:00:00 à  11:00:00",
       "streets": "Ave Tulipe, en partie Ave Talipots, Flat Bhunjun et les environs",

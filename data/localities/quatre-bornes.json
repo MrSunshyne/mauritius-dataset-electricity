@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-10-01T22:18:58.684Z",
-  "outageCount": 412,
+  "generated": "2026-10-02T11:29:52.624Z",
+  "outageCount": 413,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-09-21",
+  "lastOutage": "2026-10-02",
   "outages": [
+    {
+      "date": "Le vendredi 2 octobre 2026 de  15:30:00 à  17:30:00",
+      "streets": "Ave C. Antelme, Ave Farquhar, Ave Stanley, Tombeau Lane, Ave C. de LIsle, Pavillon, en partie Ollier et les environs",
+      "from": "2026-10-02T11:30:00.000Z",
+      "to": "2026-10-02T13:30:00.000Z",
+      "id": "cb5f9f1b87853e5e4637146f42925de1"
+    },
     {
       "date": "Le lundi 21 septembre 2026 de  08:30:00 à  15:30:00",
       "streets": "En partie Palma Rd, Western Boundary, Manick Ave, Lotus Ave, Jackson Ave, Gopalsing Ave, Ramdanee Ave, Bassin Rd, Kowlessur Lane, La Source Ave et les environs",

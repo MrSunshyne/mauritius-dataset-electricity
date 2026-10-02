@@ -2,11 +2,18 @@
   "slug": "pointe-aux-canonniers",
   "name": "POINTE AUX CANONNIERS",
   "district": "rivieredurempart",
-  "generated": "2026-10-01T22:18:58.678Z",
-  "outageCount": 59,
+  "generated": "2026-10-02T11:29:52.620Z",
+  "outageCount": 60,
   "firstOutage": "2022-04-15",
-  "lastOutage": "2026-09-20",
+  "lastOutage": "2026-10-04",
   "outages": [
+    {
+      "date": "Le dimanche 4 octobre 2026 de  08:30:00 à  15:30:00",
+      "streets": "AVENUE LAURIER, CASSE GHOON ROAD ET ROUTE ROYALE POINTE AUX CANONNIERS",
+      "from": "2026-10-04T04:30:00.000Z",
+      "to": "2026-10-04T11:30:00.000Z",
+      "id": "10e8ae059549507b056a89a3770d8aef"
+    },
     {
       "date": "Le dimanche 20 septembre 2026 de  08:30:00 à  15:30:00",
       "streets": "AVENUE LAURIER",

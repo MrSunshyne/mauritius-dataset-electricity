@@ -2,11 +2,18 @@
   "slug": "glen-park",
   "name": "GLEN PARK",
   "district": "plainewilhems",
-  "generated": "2026-10-01T22:18:58.640Z",
-  "outageCount": 51,
+  "generated": "2026-10-02T11:29:52.600Z",
+  "outageCount": 52,
   "firstOutage": "2022-04-26",
-  "lastOutage": "2026-09-26",
+  "lastOutage": "2026-10-07",
   "outages": [
+    {
+      "date": "Le mercredi 7 octobre 2026 de  08:30:00 à  16:00:00",
+      "streets": "Marie Road, Buxoo Lane, Edoo Lane, Deenmohamed Lane.",
+      "from": "2026-10-07T04:30:00.000Z",
+      "to": "2026-10-07T12:00:00.000Z",
+      "id": "ec8ea0bd81185d05f190e70aa3b7bf42"
+    },
     {
       "date": "Le samedi 26 septembre 2026 de  11:00:00 à  14:00:00",
       "streets": "Rempart Road -Glen Park",

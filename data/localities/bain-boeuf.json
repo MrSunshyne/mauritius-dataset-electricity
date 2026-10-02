@@ -2,11 +2,18 @@
   "slug": "bain-boeuf",
   "name": "BAIN BOEUF",
   "district": "rivieredurempart",
-  "generated": "2026-10-01T22:18:58.587Z",
-  "outageCount": 22,
+  "generated": "2026-10-02T11:29:52.579Z",
+  "outageCount": 23,
   "firstOutage": "2022-07-14",
-  "lastOutage": "2026-05-13",
+  "lastOutage": "2026-10-03",
   "outages": [
+    {
+      "date": "Le samedi 3 octobre 2026 de  08:30:00 à  14:30:00",
+      "streets": "PAZANIMALAR ROAD, TEMPLE ROAD, MORC CHETTY, MORC MERVEN, MORC POONITH, IMPASSE CAYEUX, MACUMBA LANE AND COASTAL ROAD COINDE MIRE",
+      "from": "2026-10-03T04:30:00.000Z",
+      "to": "2026-10-03T10:30:00.000Z",
+      "id": "c55b556542914c880522de1c4ba91003"
+    },
     {
       "date": "Le mercredi 13 mai 2026 de  08:50:00 à  12:00:00",
       "streets": "MORC BEAU MANGUIER",
