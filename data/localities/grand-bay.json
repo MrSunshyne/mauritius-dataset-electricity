@@ -2,11 +2,18 @@
   "slug": "grand-bay",
   "name": "GRAND BAY",
   "district": "rivieredurempart",
-  "generated": "2026-10-03T14:58:24.339Z",
-  "outageCount": 126,
+  "generated": "2026-10-03T18:31:21.499Z",
+  "outageCount": 127,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-09-15",
+  "lastOutage": "2026-10-03",
   "outages": [
+    {
+      "date": "Le samedi 3 octobre 2026 de  19:20:00 à  23:30:00",
+      "streets": "LA PETIT SALETTE, OLD MILL RD & SURROUNDINGS",
+      "from": "2026-10-03T15:20:00.000Z",
+      "to": "2026-10-03T19:30:00.000Z",
+      "id": "4fff36768166a40704f6f727c014dfce"
+    },
     {
       "date": "Le mardi 15 septembre 2026 de  22:45:00 à  02:00:00",
       "streets": "SOTTISE ROAD DANS LES ENVIRONS NHDC / FOOD FACTORY ET LES ALENTOURS.",

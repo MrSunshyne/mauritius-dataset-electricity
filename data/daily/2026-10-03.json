@@ -1,8 +1,8 @@
 {
   "date": "2026-10-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-03T14:58:24.276Z",
-  "outageCount": 7,
+  "generated": "2026-10-03T18:31:21.436Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le samedi 3 octobre 2026 de  08:30:00 à  16:30:00",
@@ -63,6 +63,16 @@
       "from": "2026-10-03T04:30:00.000Z",
       "to": "2026-10-03T10:30:00.000Z",
       "id": "c55b556542914c880522de1c4ba91003"
+    },
+    {
+      "date": "Le samedi 3 octobre 2026 de  19:20:00 à  23:30:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "LA PETIT SALETTE, OLD MILL RD & SURROUNDINGS",
+      "district": "rivieredurempart",
+      "from": "2026-10-03T15:20:00.000Z",
+      "to": "2026-10-03T19:30:00.000Z",
+      "id": "4fff36768166a40704f6f727c014dfce"
     },
     {
       "date": "Le samedi 3 octobre 2026 de  08:30:00 à  15:00:00",
