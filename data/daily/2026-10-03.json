@@ -1,8 +1,8 @@
 {
   "date": "2026-10-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-03T10:45:10.478Z",
-  "outageCount": 6,
+  "generated": "2026-10-03T14:58:24.276Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le samedi 3 octobre 2026 de  08:30:00 à  16:30:00",
@@ -33,6 +33,16 @@
       "from": "2026-10-03T04:30:00.000Z",
       "to": "2026-10-03T11:00:00.000Z",
       "id": "029c701e0279c7db5f3cc7fb34a2ee4f"
+    },
+    {
+      "date": "Le samedi 3 octobre 2026 de  16:30:00 à  21:30:00",
+      "locality": "BALACLAVA",
+      "localitySlug": "balaclava",
+      "streets": "ROYAL ROAD & SURROUNDINGS",
+      "district": "pamplemousses",
+      "from": "2026-10-03T12:30:00.000Z",
+      "to": "2026-10-03T17:30:00.000Z",
+      "id": "f3c949bf48ccb600db5acc2379cae8ba"
     },
     {
       "date": "Le samedi 3 octobre 2026 de  10:30:00 à  14:00:00",
