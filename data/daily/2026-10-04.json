@@ -1,8 +1,8 @@
 {
   "date": "2026-10-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-03T18:31:21.436Z",
-  "outageCount": 12,
+  "generated": "2026-10-04T11:27:03.891Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le dimanche 4 octobre 2026 de  08:15:00 à  16:00:00",
@@ -85,24 +85,24 @@
       "id": "1c24b37886fb25d9ab5f4a2e11d524b4"
     },
     {
-      "date": "Le dimanche 4 octobre 2026 de  14:00:00 à  15:00:00",
+      "date": "Le dimanche 4 octobre 2026 de  14:00:00 à  16:00:00",
       "locality": "BEAU BASSIN",
       "localitySlug": "beau-bassin",
       "streets": "Ave Venkatasamy, Ave de Rosnay, Ave Monneron, Ave Mgr Leen, Ave Meldrum, Elie & Son Beau-Bassin, Appartement Queen, Res. Chanterelle et les environs",
       "district": "plainewilhems",
       "from": "2026-10-04T10:00:00.000Z",
-      "to": "2026-10-04T11:00:00.000Z",
-      "id": "63719413707533fd554cdd89d99d371a"
+      "to": "2026-10-04T12:00:00.000Z",
+      "id": "7f52a3dcf9cb1045bafccf375eb69d6f"
     },
     {
-      "date": "Le dimanche 4 octobre 2026 de  08:30:00 à  15:00:00",
+      "date": "Le dimanche 4 octobre 2026 de  08:30:00 à  16:00:00",
       "locality": "BEAU BASSIN",
       "localitySlug": "beau-bassin",
-      "streets": "Raoul Lejeune, Automaster, Ave Cossigny, Ave Sir Walter Besant, Louis Lechelle, Ave Poivre, Le Tabernacle, Bio Sante Ville Soeur Beau-Bassin, Caprice Gervais, Gool Square, Ricardo Fast Food, Quicken Fast Food et les environs",
+      "streets": "Raoul Lejeune, AutoSTAR, Ave Cossigny, Ave Sir Walter Besant, Louis Lechelle, Ave Poivre, Le Tabernacle, Bio Sante Ville Soeur Beau-Bassin, Caprice Gervais, Gool Square, Ricardo Fast Food, Quicken Fast Food et les environs",
       "district": "plainewilhems",
       "from": "2026-10-04T04:30:00.000Z",
-      "to": "2026-10-04T11:00:00.000Z",
-      "id": "a7a406acc36f26af91a0a5167f65de33"
+      "to": "2026-10-04T12:00:00.000Z",
+      "id": "3f714ecad5c3f2cefa04633937870426"
     },
     {
       "date": "Le dimanche 4 octobre 2026 de  08:30:00 à  15:30:00",
@@ -113,6 +113,16 @@
       "from": "2026-10-04T04:30:00.000Z",
       "to": "2026-10-04T11:30:00.000Z",
       "id": "10e8ae059549507b056a89a3770d8aef"
+    },
+    {
+      "date": "Le dimanche 4 octobre 2026 de  12:15:00 à  16:00:00",
+      "locality": "MELVIILE",
+      "localitySlug": "melviile",
+      "streets": "EN PARTIE ROUTE ROYALE, CHEMIN GAETAN DUVAL DANS LES ENVIRONS SHIVALA/CAMPEMENT DUVAL.",
+      "district": "rivieredurempart",
+      "from": "2026-10-04T08:15:00.000Z",
+      "to": "2026-10-04T12:00:00.000Z",
+      "id": "d25e5dc0d4c495bd8b35a658ad1e68ed"
     },
     {
       "date": "Le dimanche 4 octobre 2026 de  08:30:00 à  15:00:00",
