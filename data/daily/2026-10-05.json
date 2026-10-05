@@ -1,8 +1,8 @@
 {
   "date": "2026-10-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-04T19:50:10.507Z",
-  "outageCount": 1,
+  "generated": "2026-10-05T12:53:25.678Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le lundi 5 octobre 2026 de  08:30:00 à  16:00:00",
@@ -13,6 +13,26 @@
       "from": "2026-10-05T04:30:00.000Z",
       "to": "2026-10-05T12:00:00.000Z",
       "id": "7bf5f2ecb2737580b9c2758533e6e93f"
+    },
+    {
+      "date": "Le lundi 5 octobre 2026 de  13:30:00 à  18:00:00",
+      "locality": "CITE LA CURE",
+      "localitySlug": "cite-la-cure",
+      "streets": "CITE LA CURE",
+      "district": "portlouis",
+      "from": "2026-10-05T09:30:00.000Z",
+      "to": "2026-10-05T14:00:00.000Z",
+      "id": "e0fa07da9458a2a8b9da47a266c4652d"
+    },
+    {
+      "date": "Le lundi 5 octobre 2026 de  16:00:00 à  17:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Trefles, Roche Bon Dieu, Anse Ali, Saint Francois et Montagne Cabris Est",
+      "district": "rodrigues",
+      "from": "2026-10-05T12:00:00.000Z",
+      "to": "2026-10-05T13:00:00.000Z",
+      "id": "bfb497a1921be1e917f607f10e8aef57"
     }
   ]
 }

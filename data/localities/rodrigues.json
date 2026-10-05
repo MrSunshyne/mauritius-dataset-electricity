@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-10-04T19:50:10.610Z",
-  "outageCount": 275,
+  "generated": "2026-10-05T12:53:25.790Z",
+  "outageCount": 276,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-10-03",
+  "lastOutage": "2026-10-05",
   "outages": [
+    {
+      "date": "Le lundi 5 octobre 2026 de  16:00:00 à  17:00:00",
+      "streets": "Trefles, Roche Bon Dieu, Anse Ali, Saint Francois et Montagne Cabris Est",
+      "from": "2026-10-05T12:00:00.000Z",
+      "to": "2026-10-05T13:00:00.000Z",
+      "id": "bfb497a1921be1e917f607f10e8aef57"
+    },
     {
       "date": "Le samedi 3 octobre 2026 de  08:30:00 à  15:00:00",
       "streets": "COROMANDEL, THAMBES, BATATRAN, CASCADE JEAN LOUIS ET CORAIL",
