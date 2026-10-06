@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-10-05T12:53:25.805Z",
-  "outageCount": 150,
+  "generated": "2026-10-06T12:20:41.273Z",
+  "outageCount": 151,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-09-22",
+  "lastOutage": "2026-10-06",
   "outages": [
+    {
+      "date": "Le mardi 6 octobre 2026 de  15:30:00 à  16:00:00",
+      "streets": "CHEMIN 20 PIED TRIOLET NEAR GARAGE TBS",
+      "from": "2026-10-06T11:30:00.000Z",
+      "to": "2026-10-06T12:00:00.000Z",
+      "id": "e8afc04a17a07ebda636fdd8200255da"
+    },
     {
       "date": "Le mardi 22 septembre 2026 de  15:00:00 à  22:00:00",
       "streets": "9TH MILE NEAR PKL",

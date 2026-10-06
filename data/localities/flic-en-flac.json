@@ -2,11 +2,18 @@
   "slug": "flic-en-flac",
   "name": "FLIC-EN-FLAC",
   "district": "blackriver",
-  "generated": "2026-10-05T12:53:25.734Z",
-  "outageCount": 239,
+  "generated": "2026-10-06T12:20:41.198Z",
+  "outageCount": 240,
   "firstOutage": "2022-03-16",
-  "lastOutage": "2026-09-29",
+  "lastOutage": "2026-10-08",
   "outages": [
+    {
+      "date": "Le jeudi 8 octobre 2026 de  08:30:00 à  15:30:00",
+      "streets": "MORC ANNA-AVE MOULIN CASSE, AVE DES TRUITES, AVE DES MARLINS, AVE DES MEROUS ET IMPASSE BECUNES",
+      "from": "2026-10-08T04:30:00.000Z",
+      "to": "2026-10-08T11:30:00.000Z",
+      "id": "e7eb5701d424049134a92b94005fd0c6"
+    },
     {
       "date": "Le mardi 29 septembre 2026 de  13:00:00 à  16:00:00",
       "streets": "AVE DES TOURTEREAUX, AVE DES BENGALIS ET SEA VILLA APARTMENTS",

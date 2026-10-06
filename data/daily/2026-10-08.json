@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-08",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-10-06T12:20:41.136Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le jeudi 8 octobre 2026 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC ANNA-AVE MOULIN CASSE, AVE DES TRUITES, AVE DES MARLINS, AVE DES MEROUS ET IMPASSE BECUNES",
+      "district": "blackriver",
+      "from": "2026-10-08T04:30:00.000Z",
+      "to": "2026-10-08T11:30:00.000Z",
+      "id": "e7eb5701d424049134a92b94005fd0c6"
+    },
+    {
+      "date": "Le jeudi 8 octobre 2026 de  08:30:00 à  17:00:00",
+      "locality": "L-AVENTURE",
+      "localitySlug": "l-aventure",
+      "streets": "Laventure, dans les périmètres de Village Hall Lane , Shivala Lane et dans les environs de Route Royal Laventure.",
+      "district": "flacq",
+      "from": "2026-10-08T04:30:00.000Z",
+      "to": "2026-10-08T13:00:00.000Z",
+      "id": "353146c9283e84b4b2ff955d75cda89f"
+    },
+    {
+      "date": "Le jeudi 8 octobre 2026 de  10:00:00 à  16:30:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "Dans les environs de la Route Bassin No 1 & 2 et Le Cornu",
+      "district": "portlouis",
+      "from": "2026-10-08T06:00:00.000Z",
+      "to": "2026-10-08T12:30:00.000Z",
+      "id": "e6b7c9d01a54188ea97c2e5eea39f3c6"
+    }
+  ]
+}

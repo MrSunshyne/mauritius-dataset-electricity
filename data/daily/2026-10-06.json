@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-06",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-10-06T12:20:41.136Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mardi 6 octobre 2026 de  15:30:00 à  16:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "CHEMIN 20 PIED TRIOLET NEAR GARAGE TBS",
+      "district": "pamplemousses",
+      "from": "2026-10-06T11:30:00.000Z",
+      "to": "2026-10-06T12:00:00.000Z",
+      "id": "e8afc04a17a07ebda636fdd8200255da"
+    },
+    {
+      "date": "Le mardi 6 octobre 2026 de  16:00:00 à  17:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "Ave Victoria, Ave dEpinay, en partie Sir V. Naz, Ave Belle Rose, Ave Hennessy et les environs",
+      "district": "plainewilhems",
+      "from": "2026-10-06T12:00:00.000Z",
+      "to": "2026-10-06T13:30:00.000Z",
+      "id": "aed58e44ab8a3c72b6e8ce5a4abdad8c"
+    },
+    {
+      "date": "Le mardi 6 octobre 2026 de  10:30:00 à  15:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "MORC. HONORE GRAND BAY",
+      "district": "rivieredurempart",
+      "from": "2026-10-06T06:30:00.000Z",
+      "to": "2026-10-06T11:00:00.000Z",
+      "id": "a2fd2ae8488b83073a26ffd5d3aeb0b7"
+    }
+  ]
+}

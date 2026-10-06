@@ -2,11 +2,18 @@
   "slug": "sainte-croix",
   "name": "SAINTE CROIX",
   "district": "portlouis",
-  "generated": "2026-10-05T12:53:25.797Z",
-  "outageCount": 101,
+  "generated": "2026-10-06T12:20:41.265Z",
+  "outageCount": 102,
   "firstOutage": "2022-04-26",
-  "lastOutage": "2026-09-27",
+  "lastOutage": "2026-10-08",
   "outages": [
+    {
+      "date": "Le jeudi 8 octobre 2026 de  10:00:00 à  16:30:00",
+      "streets": "Dans les environs de la Route Bassin No 1 & 2 et Le Cornu",
+      "from": "2026-10-08T06:00:00.000Z",
+      "to": "2026-10-08T12:30:00.000Z",
+      "id": "e6b7c9d01a54188ea97c2e5eea39f3c6"
+    },
     {
       "date": "Le dimanche 27 septembre 2026 de  09:00:00 à  14:00:00",
       "streets": "Dans les environs des   rues : Allee Père Laval, Isodore Bouquet, Sainte Marie, Arpenteur, Le Cornu et Sainte Croix Road",

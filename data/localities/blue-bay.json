@@ -2,11 +2,18 @@
   "slug": "blue-bay",
   "name": "BLUE BAY",
   "district": "grandport",
-  "generated": "2026-10-05T12:53:25.708Z",
-  "outageCount": 34,
+  "generated": "2026-10-06T12:20:41.169Z",
+  "outageCount": 35,
   "firstOutage": "2022-05-15",
-  "lastOutage": "2026-08-03",
+  "lastOutage": "2026-10-09",
   "outages": [
+    {
+      "date": "Le vendredi 9 octobre 2026 de  08:30:00 à  16:00:00",
+      "streets": "Blue Bay habitant dans le périmètre : Morcellement Blue Bay, Avenue Les Aigrettes, Avenue Marlin, Avenue Paille En Queue et les rues avoisinantes",
+      "from": "2026-10-09T04:30:00.000Z",
+      "to": "2026-10-09T12:00:00.000Z",
+      "id": "121f5b6b8b0490e97845709c31806e64"
+    },
     {
       "date": "Le lundi 3 août 2026 de  09:00:00 à  13:00:00",
       "streets": "RUE DES CARANGUESIRUE DES AIGRETTEBLUE BAY",

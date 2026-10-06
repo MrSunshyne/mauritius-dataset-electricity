@@ -1,9 +1,19 @@
 {
   "date": "2026-10-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-05T12:53:25.678Z",
-  "outageCount": 1,
+  "generated": "2026-10-06T12:20:41.136Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le mercredi 7 octobre 2026 de  08:30:00 à  16:00:00",
+      "locality": "TROIS BOUTIQUES UNION VALE",
+      "localitySlug": "trois-boutiques-union-vale",
+      "streets": "Trois Boutiques habitant dans le périmètre : Gandhi Road et SSR Lane Trois Boutiques",
+      "district": "grandport",
+      "from": "2026-10-07T04:30:00.000Z",
+      "to": "2026-10-07T12:00:00.000Z",
+      "id": "9c67a22e1618bb7815403b190605abdd"
+    },
     {
       "date": "Le mercredi 7 octobre 2026 de  08:30:00 à  16:00:00",
       "locality": "GLEN PARK",
@@ -13,6 +23,16 @@
       "from": "2026-10-07T04:30:00.000Z",
       "to": "2026-10-07T12:00:00.000Z",
       "id": "ec8ea0bd81185d05f190e70aa3b7bf42"
+    },
+    {
+      "date": "Le mercredi 7 octobre 2026 de  09:00:00 à  16:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Jean Tac, Baladirou, Montagne Goyaves",
+      "district": "rodrigues",
+      "from": "2026-10-07T05:00:00.000Z",
+      "to": "2026-10-07T12:00:00.000Z",
+      "id": "9a801183e2907f900f5e99e51f2c529f"
     }
   ]
 }

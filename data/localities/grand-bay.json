@@ -2,11 +2,18 @@
   "slug": "grand-bay",
   "name": "GRAND BAY",
   "district": "rivieredurempart",
-  "generated": "2026-10-05T12:53:25.738Z",
-  "outageCount": 127,
+  "generated": "2026-10-06T12:20:41.203Z",
+  "outageCount": 128,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-10-03",
+  "lastOutage": "2026-10-06",
   "outages": [
+    {
+      "date": "Le mardi 6 octobre 2026 de  10:30:00 à  15:00:00",
+      "streets": "MORC. HONORE GRAND BAY",
+      "from": "2026-10-06T06:30:00.000Z",
+      "to": "2026-10-06T11:00:00.000Z",
+      "id": "a2fd2ae8488b83073a26ffd5d3aeb0b7"
+    },
     {
       "date": "Le samedi 3 octobre 2026 de  19:20:00 à  23:30:00",
       "streets": "LA PETIT SALETTE, OLD MILL RD & SURROUNDINGS",
