@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-07T12:12:45.711Z",
+  "generated": "2026-10-07T19:06:53.667Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -1483,7 +1483,7 @@
       "slug": "flic-en-flac",
       "name": "FLIC-EN-FLAC",
       "district": "blackriver",
-      "outageCount": 240,
+      "outageCount": 241,
       "file": "flic-en-flac.json",
       "firstOutage": "2022-03-16",
       "lastOutage": "2026-10-08"
@@ -2923,10 +2923,10 @@
       "slug": "plaine-des-papayes",
       "name": "PLAINE DES PAPAYES",
       "district": "pamplemousses",
-      "outageCount": 46,
+      "outageCount": 47,
       "file": "plaine-des-papayes.json",
       "firstOutage": "2022-05-22",
-      "lastOutage": "2026-09-05"
+      "lastOutage": "2026-10-07"
     },
     {
       "slug": "plaine-des-roches",
@@ -3436,10 +3436,10 @@
       "slug": "riviere-noire",
       "name": "RIVIERE NOIRE",
       "district": "blackriver",
-      "outageCount": 54,
+      "outageCount": 55,
       "file": "riviere-noire.json",
       "firstOutage": "2022-06-03",
-      "lastOutage": "2026-09-25"
+      "lastOutage": "2026-10-07"
     },
     {
       "slug": "roche-bois",

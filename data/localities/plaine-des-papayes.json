@@ -2,11 +2,18 @@
   "slug": "plaine-des-papayes",
   "name": "PLAINE DES PAPAYES",
   "district": "pamplemousses",
-  "generated": "2026-10-07T12:12:45.672Z",
-  "outageCount": 46,
+  "generated": "2026-10-07T19:06:53.641Z",
+  "outageCount": 47,
   "firstOutage": "2022-05-22",
-  "lastOutage": "2026-09-05",
+  "lastOutage": "2026-10-07",
   "outages": [
+    {
+      "date": "Le mercredi 7 octobre 2026 de  18:45:00 à  23:00:00",
+      "streets": "BOIS MANGUES : RESERVOIR ROAD, MIDDLE ROAD, RAMGOOLAM ROAD ET LES ALENTOURS.",
+      "from": "2026-10-07T14:45:00.000Z",
+      "to": "2026-10-07T19:00:00.000Z",
+      "id": "cbb947179ae6b284ec24f0b3826dbb09"
+    },
     {
       "date": "Le samedi 5 septembre 2026 de  09:00:00 à  12:00:00",
       "streets": "DANS LES ENVIRONS DE RAMGOOLAM RD, JAYPAL RD ET MOSQUE RD",
