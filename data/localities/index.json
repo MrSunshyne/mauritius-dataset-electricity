@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-06T18:40:32.388Z",
+  "generated": "2026-10-07T12:12:45.711Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -25,10 +25,10 @@
       "slug": "albion",
       "name": "ALBION",
       "district": "blackriver",
-      "outageCount": 134,
+      "outageCount": 135,
       "file": "albion.json",
       "firstOutage": "2022-06-06",
-      "lastOutage": "2026-08-25"
+      "lastOutage": "2026-10-08"
     },
     {
       "slug": "allee-brillant-castel",
@@ -1267,10 +1267,10 @@
       "slug": "cote-d-or",
       "name": "COTE D-OR",
       "district": "moka",
-      "outageCount": 31,
+      "outageCount": 32,
       "file": "cote-d-or.json",
       "firstOutage": "2022-05-22",
-      "lastOutage": "2026-08-19"
+      "lastOutage": "2026-10-08"
     },
     {
       "slug": "coteau-raffin",
@@ -1816,10 +1816,10 @@
       "slug": "khoyratty",
       "name": "KHOYRATTY",
       "district": "pamplemousses",
-      "outageCount": 30,
+      "outageCount": 31,
       "file": "khoyratty.json",
       "firstOutage": "2022-06-06",
-      "lastOutage": "2026-07-18"
+      "lastOutage": "2026-10-07"
     },
     {
       "slug": "l-assurance",
@@ -3175,10 +3175,10 @@
       "slug": "quatre-bornes",
       "name": "QUATRE-BORNES",
       "district": "plainewilhems",
-      "outageCount": 414,
+      "outageCount": 416,
       "file": "quatre-bornes.json",
       "firstOutage": "2022-04-01",
-      "lastOutage": "2026-10-06"
+      "lastOutage": "2026-10-07"
     },
     {
       "slug": "quatre-carreaux",

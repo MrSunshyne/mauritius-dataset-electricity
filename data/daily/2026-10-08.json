@@ -1,8 +1,8 @@
 {
   "date": "2026-10-08",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-06T18:40:32.258Z",
-  "outageCount": 3,
+  "generated": "2026-10-07T12:12:45.568Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le jeudi 8 octobre 2026 de  08:30:00 à  15:30:00",
@@ -15,6 +15,16 @@
       "id": "e7eb5701d424049134a92b94005fd0c6"
     },
     {
+      "date": "Le jeudi 8 octobre 2026 de  08:30:00 à  15:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "Ave Constitution, Ave Cutty Shark et Ave LIndiscret",
+      "district": "blackriver",
+      "from": "2026-10-08T04:30:00.000Z",
+      "to": "2026-10-08T11:00:00.000Z",
+      "id": "152e3d7aa9e7d599fe2f93fb611354e1"
+    },
+    {
       "date": "Le jeudi 8 octobre 2026 de  08:30:00 à  17:00:00",
       "locality": "L-AVENTURE",
       "localitySlug": "l-aventure",
@@ -23,6 +33,16 @@
       "from": "2026-10-08T04:30:00.000Z",
       "to": "2026-10-08T13:00:00.000Z",
       "id": "353146c9283e84b4b2ff955d75cda89f"
+    },
+    {
+      "date": "Le jeudi 8 octobre 2026 de  14:00:00 à  17:00:00",
+      "locality": "COTE D-OR",
+      "localitySlug": "cote-d-or",
+      "streets": "Morcellement VRS Cote D’Or",
+      "district": "moka",
+      "from": "2026-10-08T10:00:00.000Z",
+      "to": "2026-10-08T13:00:00.000Z",
+      "id": "384b68bea7e92fa88d1a285f4d817cbb"
     },
     {
       "date": "Le jeudi 8 octobre 2026 de  10:00:00 à  16:30:00",
