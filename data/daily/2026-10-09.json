@@ -1,8 +1,8 @@
 {
   "date": "2026-10-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-07T19:06:53.590Z",
-  "outageCount": 1,
+  "generated": "2026-10-08T12:22:50.519Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le vendredi 9 octobre 2026 de  08:30:00 à  16:00:00",
@@ -13,6 +13,46 @@
       "from": "2026-10-09T04:30:00.000Z",
       "to": "2026-10-09T12:00:00.000Z",
       "id": "121f5b6b8b0490e97845709c31806e64"
+    },
+    {
+      "date": "Le vendredi 9 octobre 2026 de  15:30:00 à  17:00:00",
+      "locality": "MELROSE",
+      "localitySlug": "melrose",
+      "streets": "Résidence Agathe, Morc  Mon Plaisir, NHDC Melrose, Rue de lécole, Morc Co-opérative Melrose,et ruelles avoisinantes",
+      "district": "moka",
+      "from": "2026-10-09T11:30:00.000Z",
+      "to": "2026-10-09T13:00:00.000Z",
+      "id": "ee39a03499df59e6207cb079a3b7f06d"
+    },
+    {
+      "date": "Le vendredi 9 octobre 2026 de  08:30:00 à  15:30:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "GRAND GAUBE, JOHN KENNEDY ROAD",
+      "district": "rivieredurempart",
+      "from": "2026-10-09T04:30:00.000Z",
+      "to": "2026-10-09T11:30:00.000Z",
+      "id": "f06ce90a3521dffa60b9b26bdea9b3d7"
+    },
+    {
+      "date": "Le vendredi 9 octobre 2026 de  16:00:00 à  18:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Camp Du Roi, Pointe Monier, Jardin Mamzel, L’Union et Le Chou",
+      "district": "rodrigues",
+      "from": "2026-10-09T12:00:00.000Z",
+      "to": "2026-10-09T14:00:00.000Z",
+      "id": "53d88c30505dce8a718a198ca7667708"
+    },
+    {
+      "date": "Le vendredi 9 octobre 2026 de  07:00:00 à  08:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Camp Du Roi, Pointe Monier, Jardin Mamzel, L’Union et Le Chou",
+      "district": "rodrigues",
+      "from": "2026-10-09T03:00:00.000Z",
+      "to": "2026-10-09T04:00:00.000Z",
+      "id": "ebd4c3a99f71b092ea0180f10dcf6021"
     }
   ]
 }

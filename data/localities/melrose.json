@@ -2,11 +2,18 @@
   "slug": "melrose",
   "name": "MELROSE",
   "district": "moka",
-  "generated": "2026-10-07T19:06:53.633Z",
-  "outageCount": 20,
+  "generated": "2026-10-08T12:22:50.568Z",
+  "outageCount": 21,
   "firstOutage": "2022-05-27",
-  "lastOutage": "2026-06-29",
+  "lastOutage": "2026-10-09",
   "outages": [
+    {
+      "date": "Le vendredi 9 octobre 2026 de  15:30:00 à  17:00:00",
+      "streets": "Résidence Agathe, Morc  Mon Plaisir, NHDC Melrose, Rue de lécole, Morc Co-opérative Melrose,et ruelles avoisinantes",
+      "from": "2026-10-09T11:30:00.000Z",
+      "to": "2026-10-09T13:00:00.000Z",
+      "id": "ee39a03499df59e6207cb079a3b7f06d"
+    },
     {
       "date": "Le lundi 29 juin 2026 de  12:00:00 à  14:15:00",
       "streets": "Rose,Cooperative,Royal Roads",

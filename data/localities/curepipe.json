@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-10-07T19:06:53.615Z",
-  "outageCount": 243,
+  "generated": "2026-10-08T12:22:50.551Z",
+  "outageCount": 244,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-09-18",
+  "lastOutage": "2026-10-11",
   "outages": [
+    {
+      "date": "Le dimanche 11 octobre 2026 de  08:30:00 à  17:00:00",
+      "streets": "La Marie: Rue La Brasserie, Rue Palmiste 1&2, Rue Goyavier, Rue Luchmee, Rue Ittoo, Rue de la Forêt, La Forêt, Rue Cyprus, Rue Sai, Rue Berthaud, Rue Kids, Morc Desjardin, Rue Kebla, Rue Lila, Morc Saddul et de la Routr Royale.",
+      "from": "2026-10-11T04:30:00.000Z",
+      "to": "2026-10-11T13:00:00.000Z",
+      "id": "027e3d643fb3978aa8d37db68b338621"
+    },
     {
       "date": "Le vendredi 18 septembre 2026 de  22:30:00 à  02:00:00",
       "streets": "CITE MALHERBES & SURROUNDINGS",

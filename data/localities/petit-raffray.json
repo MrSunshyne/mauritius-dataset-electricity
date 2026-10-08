@@ -2,11 +2,18 @@
   "slug": "petit-raffray",
   "name": "PETIT RAFFRAY",
   "district": "rivieredurempart",
-  "generated": "2026-10-07T19:06:53.639Z",
-  "outageCount": 85,
+  "generated": "2026-10-08T12:22:50.575Z",
+  "outageCount": 86,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-09-02",
+  "lastOutage": "2026-10-11",
   "outages": [
+    {
+      "date": "Le dimanche 11 octobre 2026 de  08:30:00 à  15:00:00",
+      "streets": "PETIT RAFFRAY, MARE SECHE ROAD, HAI HUA RESTAURANT, MON MASCAL AND CASASOLA",
+      "from": "2026-10-11T04:30:00.000Z",
+      "to": "2026-10-11T11:00:00.000Z",
+      "id": "11403aea61fcc7c2b27dd9c6871bf506"
+    },
     {
       "date": "Le mercredi 2 septembre 2026 de  16:00:00 à  23:00:00",
       "streets": "FORET DARUTY,UPPER VALE",

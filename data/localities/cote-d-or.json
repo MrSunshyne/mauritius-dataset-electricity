@@ -2,11 +2,18 @@
   "slug": "cote-d-or",
   "name": "COTE D-OR",
   "district": "moka",
-  "generated": "2026-10-07T19:06:53.615Z",
-  "outageCount": 32,
+  "generated": "2026-10-08T12:22:50.550Z",
+  "outageCount": 33,
   "firstOutage": "2022-05-22",
   "lastOutage": "2026-10-08",
   "outages": [
+    {
+      "date": "Le jeudi 8 octobre 2026 de  16:00:00 à  19:00:00",
+      "streets": "Morcellement VRS Cote D’Or",
+      "from": "2026-10-08T12:00:00.000Z",
+      "to": "2026-10-08T15:00:00.000Z",
+      "id": "fc61d920e0fb199fecbfc63cc069e537"
+    },
     {
       "date": "Le jeudi 8 octobre 2026 de  14:00:00 à  17:00:00",
       "streets": "Morcellement VRS Cote D’Or",

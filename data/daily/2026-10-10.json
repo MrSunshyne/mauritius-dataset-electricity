@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-10",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-10-08T12:22:50.519Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le samedi 10 octobre 2026 de  08:30:00 à  15:00:00",
+      "locality": "NOUVELLE DECOUVERTE",
+      "localitySlug": "nouvelle-decouverte",
+      "streets": "Ripailles, Bar Le Duc, School Lane, Ramchurn Lane, Billard Rd, Cemetery Rd, Roussette Lane, Shivala Rd, Chemin La Plaine et Village Nouvelle Decouverte",
+      "district": "moka",
+      "from": "2026-10-10T04:30:00.000Z",
+      "to": "2026-10-10T11:00:00.000Z",
+      "id": "aaf6257ef0cd9f90a14ca2e421ed439c"
+    },
+    {
+      "date": "Le samedi 10 octobre 2026 de  08:30:00 à  15:00:00",
+      "locality": "CITE LA CURE",
+      "localitySlug": "cite-la-cure",
+      "streets": "Dans les environs de Robert Scott, Crown Land Robert Scott, Ti Rodrigues et CWA La Cure",
+      "district": "portlouis",
+      "from": "2026-10-10T04:30:00.000Z",
+      "to": "2026-10-10T11:00:00.000Z",
+      "id": "6aecbe77eb80b2dbcbb9f9918602b616"
+    },
+    {
+      "date": "Le samedi 10 octobre 2026 de  08:30:00 à  14:30:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "GRAND GAUBE, COASTAL ROAD, MELVILLE",
+      "district": "rivieredurempart",
+      "from": "2026-10-10T04:30:00.000Z",
+      "to": "2026-10-10T10:30:00.000Z",
+      "id": "6975d90673d9cc6561ff1d7dc1193c0a"
+    }
+  ]
+}

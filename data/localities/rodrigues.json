@@ -2,11 +2,25 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-10-07T19:06:53.654Z",
-  "outageCount": 277,
+  "generated": "2026-10-08T12:22:50.588Z",
+  "outageCount": 279,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-10-07",
+  "lastOutage": "2026-10-09",
   "outages": [
+    {
+      "date": "Le vendredi 9 octobre 2026 de  16:00:00 à  18:00:00",
+      "streets": "Camp Du Roi, Pointe Monier, Jardin Mamzel, L’Union et Le Chou",
+      "from": "2026-10-09T12:00:00.000Z",
+      "to": "2026-10-09T14:00:00.000Z",
+      "id": "53d88c30505dce8a718a198ca7667708"
+    },
+    {
+      "date": "Le vendredi 9 octobre 2026 de  07:00:00 à  08:00:00",
+      "streets": "Camp Du Roi, Pointe Monier, Jardin Mamzel, L’Union et Le Chou",
+      "from": "2026-10-09T03:00:00.000Z",
+      "to": "2026-10-09T04:00:00.000Z",
+      "id": "ebd4c3a99f71b092ea0180f10dcf6021"
+    },
     {
       "date": "Le mercredi 7 octobre 2026 de  09:00:00 à  16:00:00",
       "streets": "Jean Tac, Baladirou, Montagne Goyaves",

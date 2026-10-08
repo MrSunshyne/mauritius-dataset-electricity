@@ -2,11 +2,18 @@
   "slug": "belle-vue-maurel",
   "name": "BELLE VUE MAUREL",
   "district": "rivieredurempart",
-  "generated": "2026-10-07T19:06:53.605Z",
-  "outageCount": 14,
+  "generated": "2026-10-08T12:22:50.538Z",
+  "outageCount": 15,
   "firstOutage": "2023-01-17",
-  "lastOutage": "2026-09-29",
+  "lastOutage": "2026-10-08",
   "outages": [
+    {
+      "date": "Le jeudi 8 octobre 2026 de  11:00:00 à  15:00:00",
+      "streets": "MARGUERITE LANE NEAR MOSQUE & SURROUNDINGS",
+      "from": "2026-10-08T07:00:00.000Z",
+      "to": "2026-10-08T11:00:00.000Z",
+      "id": "4244ba98312b8eed89a1be05934aa8b0"
+    },
     {
       "date": "Le mardi 29 septembre 2026 de  23:20:00 à  03:30:00",
       "streets": "AUSTRAY LANE, LATANIER LANE, DAFODIL LANE & SURROUNDINGS",

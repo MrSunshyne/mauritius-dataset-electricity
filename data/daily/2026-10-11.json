@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-11",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-10-08T12:22:50.519Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le dimanche 11 octobre 2026 de  08:30:00 à  15:00:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "Mahebourg habitant dans le périmètre : Rue La Chaux, Rue Maurice, Rue Cent Gaulettes et une partie de la Route Royale Mahebourg (près de CIM)",
+      "district": "grandport",
+      "from": "2026-10-11T04:30:00.000Z",
+      "to": "2026-10-11T11:00:00.000Z",
+      "id": "2f9c0f224273c1c0918d492bcf9a5d52"
+    },
+    {
+      "date": "Le dimanche 11 octobre 2026 de  08:30:00 à  17:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "La Marie: Rue La Brasserie, Rue Palmiste 1&2, Rue Goyavier, Rue Luchmee, Rue Ittoo, Rue de la Forêt, La Forêt, Rue Cyprus, Rue Sai, Rue Berthaud, Rue Kids, Morc Desjardin, Rue Kebla, Rue Lila, Morc Saddul et de la Routr Royale.",
+      "district": "plainewilhems",
+      "from": "2026-10-11T04:30:00.000Z",
+      "to": "2026-10-11T13:00:00.000Z",
+      "id": "027e3d643fb3978aa8d37db68b338621"
+    },
+    {
+      "date": "Le dimanche 11 octobre 2026 de  08:30:00 à  15:00:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "PETIT RAFFRAY, MARE SECHE ROAD, HAI HUA RESTAURANT, MON MASCAL AND CASASOLA",
+      "district": "rivieredurempart",
+      "from": "2026-10-11T04:30:00.000Z",
+      "to": "2026-10-11T11:00:00.000Z",
+      "id": "11403aea61fcc7c2b27dd9c6871bf506"
+    }
+  ]
+}

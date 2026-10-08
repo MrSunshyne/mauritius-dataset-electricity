@@ -2,11 +2,25 @@
   "slug": "grand-gaube",
   "name": "GRAND GAUBE",
   "district": "rivieredurempart",
-  "generated": "2026-10-07T19:06:53.623Z",
-  "outageCount": 78,
+  "generated": "2026-10-08T12:22:50.558Z",
+  "outageCount": 80,
   "firstOutage": "2022-06-11",
-  "lastOutage": "2026-09-10",
+  "lastOutage": "2026-10-10",
   "outages": [
+    {
+      "date": "Le samedi 10 octobre 2026 de  08:30:00 à  14:30:00",
+      "streets": "GRAND GAUBE, COASTAL ROAD, MELVILLE",
+      "from": "2026-10-10T04:30:00.000Z",
+      "to": "2026-10-10T10:30:00.000Z",
+      "id": "6975d90673d9cc6561ff1d7dc1193c0a"
+    },
+    {
+      "date": "Le vendredi 9 octobre 2026 de  08:30:00 à  15:30:00",
+      "streets": "GRAND GAUBE, JOHN KENNEDY ROAD",
+      "from": "2026-10-09T04:30:00.000Z",
+      "to": "2026-10-09T11:30:00.000Z",
+      "id": "f06ce90a3521dffa60b9b26bdea9b3d7"
+    },
     {
       "date": "Le jeudi 10 septembre 2026 de  10:10:00 à  15:00:00",
       "streets": "CHEVEREAU LANE ET LES ALENTOURS",

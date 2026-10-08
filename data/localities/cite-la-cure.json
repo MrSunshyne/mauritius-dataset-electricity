@@ -2,11 +2,18 @@
   "slug": "cite-la-cure",
   "name": "CITE LA CURE",
   "district": "portlouis",
-  "generated": "2026-10-07T19:06:53.613Z",
-  "outageCount": 33,
+  "generated": "2026-10-08T12:22:50.548Z",
+  "outageCount": 34,
   "firstOutage": "2022-09-03",
-  "lastOutage": "2026-10-05",
+  "lastOutage": "2026-10-10",
   "outages": [
+    {
+      "date": "Le samedi 10 octobre 2026 de  08:30:00 à  15:00:00",
+      "streets": "Dans les environs de Robert Scott, Crown Land Robert Scott, Ti Rodrigues et CWA La Cure",
+      "from": "2026-10-10T04:30:00.000Z",
+      "to": "2026-10-10T11:00:00.000Z",
+      "id": "6aecbe77eb80b2dbcbb9f9918602b616"
+    },
     {
       "date": "Le lundi 5 octobre 2026 de  13:30:00 à  18:00:00",
       "streets": "CITE LA CURE",
