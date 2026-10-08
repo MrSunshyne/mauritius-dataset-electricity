@@ -1,8 +1,8 @@
 {
   "date": "2026-10-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-08T12:22:50.519Z",
-  "outageCount": 3,
+  "generated": "2026-10-08T19:03:04.441Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le dimanche 11 octobre 2026 de  08:30:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-10-11T04:30:00.000Z",
       "to": "2026-10-11T11:00:00.000Z",
       "id": "2f9c0f224273c1c0918d492bcf9a5d52"
+    },
+    {
+      "date": "Le dimanche 11 octobre 2026 de  08:00:00 à  15:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "Triolet and Trou aux Biches dans les environs de MOrc  Bhogun, Fire Services, Shivala road, Trou aux Biches road and Morc Jhuboo",
+      "district": "pamplemousses",
+      "from": "2026-10-11T04:00:00.000Z",
+      "to": "2026-10-11T11:00:00.000Z",
+      "id": "9510dfb4cba54639b6a9ab84638b0690"
     },
     {
       "date": "Le dimanche 11 octobre 2026 de  08:30:00 à  17:00:00",

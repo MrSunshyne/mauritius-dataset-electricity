@@ -1,8 +1,8 @@
 {
   "date": "2026-10-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-08T12:22:50.519Z",
-  "outageCount": 3,
+  "generated": "2026-10-08T19:03:04.441Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le samedi 10 octobre 2026 de  08:30:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-10-10T04:30:00.000Z",
       "to": "2026-10-10T11:00:00.000Z",
       "id": "aaf6257ef0cd9f90a14ca2e421ed439c"
+    },
+    {
+      "date": "Le samedi 10 octobre 2026 de  08:00:00 à  15:00:00",
+      "locality": "ARSENAL",
+      "localitySlug": "arsenal",
+      "streets": "Le village de Arsenal dans les environs de Emtel , Rue Malakoff, Rue Balaclava, Evaco et les regions avoisinantes",
+      "district": "pamplemousses",
+      "from": "2026-10-10T04:00:00.000Z",
+      "to": "2026-10-10T11:00:00.000Z",
+      "id": "782ef4d069b4d59157d5e1801281f5e6"
     },
     {
       "date": "Le samedi 10 octobre 2026 de  08:30:00 à  15:00:00",

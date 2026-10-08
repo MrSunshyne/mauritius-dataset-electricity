@@ -2,11 +2,18 @@
   "slug": "arsenal",
   "name": "ARSENAL",
   "district": "pamplemousses",
-  "generated": "2026-10-08T12:22:50.533Z",
-  "outageCount": 66,
+  "generated": "2026-10-08T19:03:04.457Z",
+  "outageCount": 67,
   "firstOutage": "2022-05-25",
-  "lastOutage": "2026-09-22",
+  "lastOutage": "2026-10-10",
   "outages": [
+    {
+      "date": "Le samedi 10 octobre 2026 de  08:00:00 à  15:00:00",
+      "streets": "Le village de Arsenal dans les environs de Emtel , Rue Malakoff, Rue Balaclava, Evaco et les regions avoisinantes",
+      "from": "2026-10-10T04:00:00.000Z",
+      "to": "2026-10-10T11:00:00.000Z",
+      "id": "782ef4d069b4d59157d5e1801281f5e6"
+    },
     {
       "date": "Le mardi 22 septembre 2026 de  13:00:00 à  16:00:00",
       "streets": "Dans les environs de la route Balaclava, Evaco et Arsenal Government School",
