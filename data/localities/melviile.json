@@ -2,11 +2,18 @@
   "slug": "melviile",
   "name": "MELVIILE",
   "district": "rivieredurempart",
-  "generated": "2026-10-08T19:03:04.499Z",
-  "outageCount": 19,
+  "generated": "2026-10-09T12:12:41.748Z",
+  "outageCount": 20,
   "firstOutage": "2022-08-26",
-  "lastOutage": "2026-10-04",
+  "lastOutage": "2026-10-09",
   "outages": [
+    {
+      "date": "Le vendredi 9 octobre 2026 de  13:00:00 à  15:00:00",
+      "streets": "MELVILLE GRAND GAUBE",
+      "from": "2026-10-09T09:00:00.000Z",
+      "to": "2026-10-09T11:00:00.000Z",
+      "id": "2558ae210f1345ff9d4ad0935a9a4f68"
+    },
     {
       "date": "Le dimanche 4 octobre 2026 de  12:15:00 à  16:00:00",
       "streets": "EN PARTIE ROUTE ROYALE, CHEMIN GAETAN DUVAL DANS LES ENVIRONS SHIVALA/CAMPEMENT DUVAL.",

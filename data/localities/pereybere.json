@@ -2,11 +2,18 @@
   "slug": "pereybere",
   "name": "PEREYBERE",
   "district": "rivieredurempart",
-  "generated": "2026-10-08T19:03:04.507Z",
-  "outageCount": 123,
+  "generated": "2026-10-09T12:12:41.760Z",
+  "outageCount": 124,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-09-20",
+  "lastOutage": "2026-10-09",
   "outages": [
+    {
+      "date": "Le vendredi 9 octobre 2026 de  10:00:00 à  15:00:00",
+      "streets": "ALLEES LE COCOTIER,SEA BLUE/ROYAL ROAD PEREYBERE",
+      "from": "2026-10-09T06:00:00.000Z",
+      "to": "2026-10-09T11:00:00.000Z",
+      "id": "733b5f3d3fa7598aa3724399a81802df"
+    },
     {
       "date": "Le dimanche 20 septembre 2026 de  11:00:00 à  14:00:00",
       "streets": "MORC NORDLAND",

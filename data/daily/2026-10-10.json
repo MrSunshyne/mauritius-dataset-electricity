@@ -1,8 +1,8 @@
 {
   "date": "2026-10-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-08T19:03:04.441Z",
-  "outageCount": 4,
+  "generated": "2026-10-09T12:12:41.669Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le samedi 10 octobre 2026 de  08:30:00 à  15:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-10-10T04:30:00.000Z",
       "to": "2026-10-10T10:30:00.000Z",
       "id": "6975d90673d9cc6561ff1d7dc1193c0a"
+    },
+    {
+      "date": "Le samedi 10 octobre 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Anse Aux Anglais,Caverne Provert, Morcellement Terre Rouge, Jean Tac, Pointe Venus,Pointe Monier et Creve Coeur",
+      "district": "rodrigues",
+      "from": "2026-10-10T04:30:00.000Z",
+      "to": "2026-10-10T11:00:00.000Z",
+      "id": "2132ffe04ab07b0f8b78f27eac8e95ed"
     }
   ]
 }

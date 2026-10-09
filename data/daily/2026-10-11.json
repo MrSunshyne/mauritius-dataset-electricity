@@ -1,8 +1,8 @@
 {
   "date": "2026-10-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-08T19:03:04.441Z",
-  "outageCount": 4,
+  "generated": "2026-10-09T12:12:41.669Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le dimanche 11 octobre 2026 de  08:30:00 à  15:00:00",
@@ -43,6 +43,16 @@
       "from": "2026-10-11T04:30:00.000Z",
       "to": "2026-10-11T11:00:00.000Z",
       "id": "11403aea61fcc7c2b27dd9c6871bf506"
+    },
+    {
+      "date": "Le dimanche 11 octobre 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Jean Tac et Camp Du Roi",
+      "district": "rodrigues",
+      "from": "2026-10-11T04:30:00.000Z",
+      "to": "2026-10-11T11:00:00.000Z",
+      "id": "4d6386da1da320b1b8e4fe8824e6d56e"
     }
   ]
 }

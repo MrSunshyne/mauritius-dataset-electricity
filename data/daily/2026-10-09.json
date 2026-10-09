@@ -1,8 +1,8 @@
 {
   "date": "2026-10-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-08T19:03:04.441Z",
-  "outageCount": 5,
+  "generated": "2026-10-09T12:12:41.669Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le vendredi 9 octobre 2026 de  08:30:00 à  16:00:00",
@@ -25,6 +25,16 @@
       "id": "ee39a03499df59e6207cb079a3b7f06d"
     },
     {
+      "date": "Le vendredi 9 octobre 2026 de  09:00:00 à  16:00:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "La Marie et Henrietta habitant dans les périmètres et rues suivante : Morcellement Pousson et Morcellement Manguier Royal et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2026-10-09T05:00:00.000Z",
+      "to": "2026-10-09T12:00:00.000Z",
+      "id": "4de8a9c894dd435b635925d9ba24ae9a"
+    },
+    {
       "date": "Le vendredi 9 octobre 2026 de  08:30:00 à  15:30:00",
       "locality": "GRAND GAUBE",
       "localitySlug": "grand-gaube",
@@ -33,6 +43,26 @@
       "from": "2026-10-09T04:30:00.000Z",
       "to": "2026-10-09T11:30:00.000Z",
       "id": "f06ce90a3521dffa60b9b26bdea9b3d7"
+    },
+    {
+      "date": "Le vendredi 9 octobre 2026 de  13:00:00 à  15:00:00",
+      "locality": "MELVIILE",
+      "localitySlug": "melviile",
+      "streets": "MELVILLE GRAND GAUBE",
+      "district": "rivieredurempart",
+      "from": "2026-10-09T09:00:00.000Z",
+      "to": "2026-10-09T11:00:00.000Z",
+      "id": "2558ae210f1345ff9d4ad0935a9a4f68"
+    },
+    {
+      "date": "Le vendredi 9 octobre 2026 de  10:00:00 à  15:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "ALLEES LE COCOTIER,SEA BLUE/ROYAL ROAD PEREYBERE",
+      "district": "rivieredurempart",
+      "from": "2026-10-09T06:00:00.000Z",
+      "to": "2026-10-09T11:00:00.000Z",
+      "id": "733b5f3d3fa7598aa3724399a81802df"
     },
     {
       "date": "Le vendredi 9 octobre 2026 de  16:00:00 à  18:00:00",

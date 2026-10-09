@@ -2,11 +2,18 @@
   "slug": "la-marie",
   "name": "LA MARIE",
   "district": "plainewilhems",
-  "generated": "2026-10-08T19:03:04.493Z",
-  "outageCount": 66,
+  "generated": "2026-10-09T12:12:41.739Z",
+  "outageCount": 67,
   "firstOutage": "2022-07-07",
-  "lastOutage": "2026-09-27",
+  "lastOutage": "2026-10-09",
   "outages": [
+    {
+      "date": "Le vendredi 9 octobre 2026 de  09:00:00 à  16:00:00",
+      "streets": "La Marie et Henrietta habitant dans les périmètres et rues suivante : Morcellement Pousson et Morcellement Manguier Royal et les ruelles avoisinantes",
+      "from": "2026-10-09T05:00:00.000Z",
+      "to": "2026-10-09T12:00:00.000Z",
+      "id": "4de8a9c894dd435b635925d9ba24ae9a"
+    },
     {
       "date": "Le dimanche 27 septembre 2026 de  10:30:00 à  14:00:00",
       "streets": "Part of Royal Road La Marie and Nathoo Lane",
