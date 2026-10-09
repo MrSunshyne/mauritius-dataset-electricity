@@ -1,8 +1,8 @@
 {
   "date": "2026-10-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-09T12:12:41.669Z",
-  "outageCount": 8,
+  "generated": "2026-10-09T18:33:53.624Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le vendredi 9 octobre 2026 de  08:30:00 à  16:00:00",
@@ -25,6 +25,16 @@
       "id": "ee39a03499df59e6207cb079a3b7f06d"
     },
     {
+      "date": "Le vendredi 9 octobre 2026 de  18:00:00 à  22:00:00",
+      "locality": "MONTAGNE BLANCHE",
+      "localitySlug": "montagne-blanche",
+      "streets": "CHAILLET ROAD & SURROUNDINGS",
+      "district": "moka",
+      "from": "2026-10-09T14:00:00.000Z",
+      "to": "2026-10-09T18:00:00.000Z",
+      "id": "91cf1a9e5608821e2f050835adcfef60"
+    },
+    {
       "date": "Le vendredi 9 octobre 2026 de  09:00:00 à  16:00:00",
       "locality": "LA MARIE",
       "localitySlug": "la-marie",
@@ -33,6 +43,16 @@
       "from": "2026-10-09T05:00:00.000Z",
       "to": "2026-10-09T12:00:00.000Z",
       "id": "4de8a9c894dd435b635925d9ba24ae9a"
+    },
+    {
+      "date": "Le vendredi 9 octobre 2026 de  18:15:00 à  20:50:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "Riverwalk,Floreal,Granham,Hanoomanjee Lanes",
+      "district": "plainewilhems",
+      "from": "2026-10-09T14:15:00.000Z",
+      "to": "2026-10-09T16:50:00.000Z",
+      "id": "97eeb08bb7f0648667a87e181dd3cbec"
     },
     {
       "date": "Le vendredi 9 octobre 2026 de  08:30:00 à  15:30:00",

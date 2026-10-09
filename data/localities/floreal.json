@@ -2,11 +2,18 @@
   "slug": "floreal",
   "name": "FLOREAL",
   "district": "plainewilhems",
-  "generated": "2026-10-09T12:12:41.727Z",
-  "outageCount": 99,
+  "generated": "2026-10-09T18:33:53.680Z",
+  "outageCount": 100,
   "firstOutage": "2022-03-31",
-  "lastOutage": "2026-09-26",
+  "lastOutage": "2026-10-09",
   "outages": [
+    {
+      "date": "Le vendredi 9 octobre 2026 de  18:15:00 à  20:50:00",
+      "streets": "Riverwalk,Floreal,Granham,Hanoomanjee Lanes",
+      "from": "2026-10-09T14:15:00.000Z",
+      "to": "2026-10-09T16:50:00.000Z",
+      "id": "97eeb08bb7f0648667a87e181dd3cbec"
+    },
     {
       "date": "Le samedi 26 septembre 2026 de  14:00:00 à  16:00:00",
       "streets": "Flat Colophane, Flat Senator, Flat Mara, Flat Jason Court, Flat Floreal Garden, Theveneau Avenue, Queen Marry St, Arthur De Bissy Ave, Edward Rouillard Ave, Mohabeer Ave et ruelles avoisinantes",

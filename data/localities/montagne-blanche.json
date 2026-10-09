@@ -2,11 +2,18 @@
   "slug": "montagne-blanche",
   "name": "MONTAGNE BLANCHE",
   "district": "moka",
-  "generated": "2026-10-09T12:12:41.751Z",
-  "outageCount": 45,
+  "generated": "2026-10-09T18:33:53.705Z",
+  "outageCount": 46,
   "firstOutage": "2022-03-23",
-  "lastOutage": "2026-10-01",
+  "lastOutage": "2026-10-09",
   "outages": [
+    {
+      "date": "Le vendredi 9 octobre 2026 de  18:00:00 à  22:00:00",
+      "streets": "CHAILLET ROAD & SURROUNDINGS",
+      "from": "2026-10-09T14:00:00.000Z",
+      "to": "2026-10-09T18:00:00.000Z",
+      "id": "91cf1a9e5608821e2f050835adcfef60"
+    },
     {
       "date": "Le jeudi 1 octobre 2026 de  12:00:00 à  15:00:00",
       "streets": "Part of Village Montagne Blanche, Shivala Rd, La Forge Lane, Old Railway Track rd, Beedassy Lane & part of Petit Paquet Road and Royal Road Montagne Blanche et ruelles avoisinantes",
