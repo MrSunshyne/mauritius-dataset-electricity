@@ -1,8 +1,8 @@
 {
   "date": "2026-10-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-09T18:33:53.624Z",
-  "outageCount": 5,
+  "generated": "2026-10-10T11:30:25.944Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le samedi 10 octobre 2026 de  08:30:00 à  15:00:00",
@@ -26,6 +26,26 @@
     },
     {
       "date": "Le samedi 10 octobre 2026 de  08:30:00 à  15:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "VEL GOVINDEN ST, MAGON DE MEDINE, MAGANLALL DESAI, DR LESUR, MORRISON ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2026-10-10T04:30:00.000Z",
+      "to": "2026-10-10T11:00:00.000Z",
+      "id": "2773c316299e15ab70860d955ab2547c"
+    },
+    {
+      "date": "Le samedi 10 octobre 2026 de  08:30:00 à  14:30:00",
+      "locality": "SODNAC",
+      "localitySlug": "sodnac",
+      "streets": "BATIMENT DREAMTON PARK ET RESIDENCE VILLENEUVE",
+      "district": "plainewilhems",
+      "from": "2026-10-10T04:30:00.000Z",
+      "to": "2026-10-10T10:30:00.000Z",
+      "id": "7b53189048045c27c0bf077abb12460a"
+    },
+    {
+      "date": "Le samedi 10 octobre 2026 de  08:30:00 à  15:00:00",
       "locality": "CITE LA CURE",
       "localitySlug": "cite-la-cure",
       "streets": "Dans les environs de Robert Scott, Crown Land Robert Scott, Ti Rodrigues et CWA La Cure",
@@ -43,6 +63,16 @@
       "from": "2026-10-10T04:30:00.000Z",
       "to": "2026-10-10T10:30:00.000Z",
       "id": "6975d90673d9cc6561ff1d7dc1193c0a"
+    },
+    {
+      "date": "Le samedi 10 octobre 2026 de  12:00:00 à  15:00:00",
+      "locality": "PETIT RAFFRAY",
+      "localitySlug": "petit-raffray",
+      "streets": "SWARAJ ROAD -KALIMAYE RD-RAJIV GANDHI RD PETIT RAFFRAY",
+      "district": "rivieredurempart",
+      "from": "2026-10-10T08:00:00.000Z",
+      "to": "2026-10-10T11:00:00.000Z",
+      "id": "7223d6a27ab26534a02378ad8053e374"
     },
     {
       "date": "Le samedi 10 octobre 2026 de  08:30:00 à  15:00:00",

@@ -2,11 +2,18 @@
   "slug": "beau-bassin",
   "name": "BEAU BASSIN",
   "district": "plainewilhems",
-  "generated": "2026-10-09T18:33:53.647Z",
-  "outageCount": 206,
+  "generated": "2026-10-10T11:30:25.968Z",
+  "outageCount": 207,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-10-04",
+  "lastOutage": "2026-10-10",
   "outages": [
+    {
+      "date": "Le samedi 10 octobre 2026 de  08:30:00 à  15:00:00",
+      "streets": "VEL GOVINDEN ST, MAGON DE MEDINE, MAGANLALL DESAI, DR LESUR, MORRISON ET LES ALENTOURS",
+      "from": "2026-10-10T04:30:00.000Z",
+      "to": "2026-10-10T11:00:00.000Z",
+      "id": "2773c316299e15ab70860d955ab2547c"
+    },
     {
       "date": "Le dimanche 4 octobre 2026 de  14:00:00 à  16:00:00",
       "streets": "Ave Venkatasamy, Ave de Rosnay, Ave Monneron, Ave Mgr Leen, Ave Meldrum, Elie & Son Beau-Bassin, Appartement Queen, Res. Chanterelle et les environs",

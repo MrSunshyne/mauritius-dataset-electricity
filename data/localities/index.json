@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T18:33:53.751Z",
+  "generated": "2026-10-10T11:30:26.082Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -286,10 +286,10 @@
       "slug": "beau-bassin",
       "name": "BEAU BASSIN",
       "district": "plainewilhems",
-      "outageCount": 206,
+      "outageCount": 207,
       "file": "beau-bassin.json",
       "firstOutage": "2022-03-25",
-      "lastOutage": "2026-10-04"
+      "lastOutage": "2026-10-10"
     },
     {
       "slug": "beau-bois",
@@ -2788,7 +2788,7 @@
       "slug": "petit-raffray",
       "name": "PETIT RAFFRAY",
       "district": "rivieredurempart",
-      "outageCount": 86,
+      "outageCount": 87,
       "file": "petit-raffray.json",
       "firstOutage": "2022-03-25",
       "lastOutage": "2026-10-11"
@@ -3697,10 +3697,10 @@
       "slug": "sodnac",
       "name": "SODNAC",
       "district": "plainewilhems",
-      "outageCount": 55,
+      "outageCount": 56,
       "file": "sodnac.json",
       "firstOutage": "2022-05-30",
-      "lastOutage": "2026-10-02"
+      "lastOutage": "2026-10-10"
     },
     {
       "slug": "solferino",

@@ -2,11 +2,18 @@
   "slug": "sodnac",
   "name": "SODNAC",
   "district": "plainewilhems",
-  "generated": "2026-10-09T18:33:53.738Z",
-  "outageCount": 55,
+  "generated": "2026-10-10T11:30:26.068Z",
+  "outageCount": 56,
   "firstOutage": "2022-05-30",
-  "lastOutage": "2026-10-02",
+  "lastOutage": "2026-10-10",
   "outages": [
+    {
+      "date": "Le samedi 10 octobre 2026 de  08:30:00 à  14:30:00",
+      "streets": "BATIMENT DREAMTON PARK ET RESIDENCE VILLENEUVE",
+      "from": "2026-10-10T04:30:00.000Z",
+      "to": "2026-10-10T10:30:00.000Z",
+      "id": "7b53189048045c27c0bf077abb12460a"
+    },
     {
       "date": "Le vendredi 2 octobre 2026 de  11:00:00 à  13:30:00",
       "streets": "CHEMIN FLAMMANT /HILCREST SODNAC",
