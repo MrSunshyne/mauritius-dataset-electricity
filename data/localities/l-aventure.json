@@ -2,11 +2,18 @@
   "slug": "l-aventure",
   "name": "L-AVENTURE",
   "district": "flacq",
-  "generated": "2026-10-11T16:55:15.765Z",
-  "outageCount": 24,
+  "generated": "2026-10-11T20:39:35.117Z",
+  "outageCount": 25,
   "firstOutage": "2024-05-15",
-  "lastOutage": "2026-10-08",
+  "lastOutage": "2026-10-11",
   "outages": [
+    {
+      "date": "Le dimanche 11 octobre 2026 de  21:55:00 à  03:00:00",
+      "streets": "ROYAL ROAD & SURROUNDINGS",
+      "from": "2026-10-11T17:55:00.000Z",
+      "to": "2026-10-10T23:00:00.000Z",
+      "id": "5b9d1cf9f2e1570b15b749156899763d"
+    },
     {
       "date": "Le jeudi 8 octobre 2026 de  08:30:00 à  17:00:00",
       "streets": "Laventure, dans les périmètres de Village Hall Lane , Shivala Lane et dans les environs de Route Royal Laventure.",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-11T16:55:15.836Z",
+  "generated": "2026-10-11T20:39:35.185Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -1312,10 +1312,10 @@
       "slug": "d-epinay",
       "name": "D-EPINAY",
       "district": "pamplemousses",
-      "outageCount": 15,
+      "outageCount": 16,
       "file": "d-epinay.json",
       "firstOutage": "2022-08-01",
-      "lastOutage": "2026-08-11"
+      "lastOutage": "2026-10-11"
     },
     {
       "slug": "dagotiere",
@@ -1834,10 +1834,10 @@
       "slug": "l-aventure",
       "name": "L-AVENTURE",
       "district": "flacq",
-      "outageCount": 24,
+      "outageCount": 25,
       "file": "l-aventure.json",
       "firstOutage": "2024-05-15",
-      "lastOutage": "2026-10-08"
+      "lastOutage": "2026-10-11"
     },
     {
       "slug": "l-escalier",
