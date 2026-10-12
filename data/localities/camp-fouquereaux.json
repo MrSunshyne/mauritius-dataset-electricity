@@ -2,11 +2,18 @@
   "slug": "camp-fouquereaux",
   "name": "CAMP FOUQUEREAUX",
   "district": "plainewilhems",
-  "generated": "2026-10-11T20:39:35.086Z",
-  "outageCount": 42,
+  "generated": "2026-10-12T13:45:27.193Z",
+  "outageCount": 43,
   "firstOutage": "2022-03-31",
-  "lastOutage": "2026-07-23",
+  "lastOutage": "2026-10-12",
   "outages": [
+    {
+      "date": "Le lundi 12 octobre 2026 de  13:50:00 à  16:30:00",
+      "streets": "CWA,LA SERRE",
+      "from": "2026-10-12T09:50:00.000Z",
+      "to": "2026-10-12T12:30:00.000Z",
+      "id": "2f3909f022969ff25c94596a47da4275"
+    },
     {
       "date": "Le jeudi 23 juillet 2026 de  10:45:00 à  12:00:00",
       "streets": "ROYAL ROAD",

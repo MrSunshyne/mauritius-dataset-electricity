@@ -2,11 +2,18 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-10-11T20:39:35.181Z",
-  "outageCount": 273,
+  "generated": "2026-10-12T13:45:27.261Z",
+  "outageCount": 274,
   "firstOutage": "2022-03-17",
-  "lastOutage": "2026-09-27",
+  "lastOutage": "2026-10-15",
   "outages": [
+    {
+      "date": "Le jeudi 15 octobre 2026 de  08:30:00 à  16:00:00",
+      "streets": "Vacoas habitant les rues suivantes ; Riverwalk Road, Clarisse House, une partie de Floreal Road, Bryant Lane, Impasse Kasenally",
+      "from": "2026-10-15T04:30:00.000Z",
+      "to": "2026-10-15T12:00:00.000Z",
+      "id": "556698d9256ca5187cefb5487677334a"
+    },
     {
       "date": "Le dimanche 27 septembre 2026 de  09:00:00 à  16:00:00",
       "streets": "une partie Willoughby Road, Ministry of National Infrastructure, Ministry of Public Infrastructure, Land transport and Shipping, Gaz Carbonite Factory Plant, Phoenix Beverages Ltd, VIP Security Unit, Prison La Bastille",

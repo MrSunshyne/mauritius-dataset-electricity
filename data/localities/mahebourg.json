@@ -2,11 +2,18 @@
   "slug": "mahebourg",
   "name": "MAHEBOURG",
   "district": "grandport",
-  "generated": "2026-10-11T20:39:35.125Z",
-  "outageCount": 89,
+  "generated": "2026-10-12T13:45:27.222Z",
+  "outageCount": 90,
   "firstOutage": "2022-04-07",
-  "lastOutage": "2026-10-11",
+  "lastOutage": "2026-10-14",
   "outages": [
+    {
+      "date": "Le mercredi 14 octobre 2026 de  08:30:00 à  15:00:00",
+      "streets": "Mahebourg habitant dans le périmètre : une partie de la Rue La Chaux , Rue Souffleur, Rue Des Creoles et Rue Bouchon",
+      "from": "2026-10-14T04:30:00.000Z",
+      "to": "2026-10-14T11:00:00.000Z",
+      "id": "9ec57d49dcc4d9f843d86edf59785cc6"
+    },
     {
       "date": "Le dimanche 11 octobre 2026 de  08:30:00 à  15:00:00",
       "streets": "Mahebourg habitant dans le périmètre : Rue La Chaux, Rue Maurice, Rue Cent Gaulettes et une partie de la Route Royale Mahebourg (près de CIM)",

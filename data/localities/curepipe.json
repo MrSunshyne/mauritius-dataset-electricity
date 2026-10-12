@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-10-11T20:39:35.100Z",
-  "outageCount": 244,
+  "generated": "2026-10-12T13:45:27.204Z",
+  "outageCount": 245,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-10-11",
+  "lastOutage": "2026-10-14",
   "outages": [
+    {
+      "date": "Le mercredi 14 octobre 2026 de  08:30:00 à  14:00:00",
+      "streets": "Partie de Rue Clement Charoux, Malherbes, Curepipe et les ruelles avoisinantes",
+      "from": "2026-10-14T04:30:00.000Z",
+      "to": "2026-10-14T10:00:00.000Z",
+      "id": "eadf306afa4257609506203305535759"
+    },
     {
       "date": "Le dimanche 11 octobre 2026 de  08:30:00 à  17:00:00",
       "streets": "La Marie: Rue La Brasserie, Rue Palmiste 1&2, Rue Goyavier, Rue Luchmee, Rue Ittoo, Rue de la Forêt, La Forêt, Rue Cyprus, Rue Sai, Rue Berthaud, Rue Kids, Morc Desjardin, Rue Kebla, Rue Lila, Morc Saddul et de la Routr Royale.",

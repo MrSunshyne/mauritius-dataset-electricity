@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-13",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-10-12T13:45:27.168Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le mardi 13 octobre 2026 de  10:00:00 à  12:00:00",
+      "locality": "VALLEE PITOT",
+      "localitySlug": "vallee-pitot",
+      "streets": "Dans les environs des rues ,  Boulevard Victoria et Magon",
+      "district": "portlouis",
+      "from": "2026-10-13T06:00:00.000Z",
+      "to": "2026-10-13T08:00:00.000Z",
+      "id": "ba40558f81a767a0c53d9578c705a2ea"
+    },
+    {
+      "date": "Le mardi 13 octobre 2026 de  08:30:00 à  16:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "MORC PETIT VILLAGE",
+      "district": "rivieredurempart",
+      "from": "2026-10-13T04:30:00.000Z",
+      "to": "2026-10-13T12:00:00.000Z",
+      "id": "cd53500eefa8a2e6292c893a271e53c2"
+    },
+    {
+      "date": "Le mardi 13 octobre 2026 de  08:30:00 à  16:00:00",
+      "locality": "CALODYNE",
+      "localitySlug": "calodyne",
+      "streets": "RUE DU TRESOR ET CHEVREAU LANE CALODYNE",
+      "district": "rivieredurempart",
+      "from": "2026-10-13T04:30:00.000Z",
+      "to": "2026-10-13T12:00:00.000Z",
+      "id": "b0e903d2cc8a0581590f5f6336471064"
+    }
+  ]
+}

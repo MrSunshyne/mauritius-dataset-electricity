@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-14",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-10-12T13:45:27.168Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le mercredi 14 octobre 2026 de  08:30:00 à  15:00:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "Mahebourg habitant dans le périmètre : une partie de la Rue La Chaux , Rue Souffleur, Rue Des Creoles et Rue Bouchon",
+      "district": "grandport",
+      "from": "2026-10-14T04:30:00.000Z",
+      "to": "2026-10-14T11:00:00.000Z",
+      "id": "9ec57d49dcc4d9f843d86edf59785cc6"
+    },
+    {
+      "date": "Le mercredi 14 octobre 2026 de  08:30:00 à  14:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Partie de Rue Clement Charoux, Malherbes, Curepipe et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2026-10-14T04:30:00.000Z",
+      "to": "2026-10-14T10:00:00.000Z",
+      "id": "eadf306afa4257609506203305535759"
+    }
+  ]
+}
