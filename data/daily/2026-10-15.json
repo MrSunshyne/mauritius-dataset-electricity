@@ -1,8 +1,8 @@
 {
   "date": "2026-10-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-12T21:53:58.169Z",
-  "outageCount": 1,
+  "generated": "2026-10-13T13:04:55.384Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le jeudi 15 octobre 2026 de  08:30:00 à  16:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-10-15T04:30:00.000Z",
       "to": "2026-10-15T12:00:00.000Z",
       "id": "556698d9256ca5187cefb5487677334a"
+    },
+    {
+      "date": "Le jeudi 15 octobre 2026 de  09:00:00 à  16:00:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "Rue Cyprus, Rue Berthaud, Rue Kebla, Rue Lila",
+      "district": "plainewilhems",
+      "from": "2026-10-15T05:00:00.000Z",
+      "to": "2026-10-15T12:00:00.000Z",
+      "id": "b47df6eef6e8de17d12c81bd41ee872b"
     }
   ]
 }

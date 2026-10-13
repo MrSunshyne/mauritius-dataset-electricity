@@ -1,8 +1,8 @@
 {
   "date": "2026-10-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-12T21:53:58.169Z",
-  "outageCount": 2,
+  "generated": "2026-10-13T13:04:55.384Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le mercredi 14 octobre 2026 de  08:30:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-10-14T04:30:00.000Z",
       "to": "2026-10-14T11:00:00.000Z",
       "id": "9ec57d49dcc4d9f843d86edf59785cc6"
+    },
+    {
+      "date": "Le mercredi 14 octobre 2026 de  09:00:00 à  16:00:00",
+      "locality": "DAGOTIERE",
+      "localitySlug": "dagotiere",
+      "streets": "Route Royale",
+      "district": "moka",
+      "from": "2026-10-14T05:00:00.000Z",
+      "to": "2026-10-14T12:00:00.000Z",
+      "id": "64c5be6ba74bec1185f8a816bc2d0ddf"
     },
     {
       "date": "Le mercredi 14 octobre 2026 de  08:30:00 à  14:00:00",

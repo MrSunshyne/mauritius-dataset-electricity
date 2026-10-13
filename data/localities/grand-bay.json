@@ -2,11 +2,18 @@
   "slug": "grand-bay",
   "name": "GRAND BAY",
   "district": "rivieredurempart",
-  "generated": "2026-10-12T21:53:58.205Z",
-  "outageCount": 128,
+  "generated": "2026-10-13T13:04:55.444Z",
+  "outageCount": 129,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-10-06",
+  "lastOutage": "2026-10-13",
   "outages": [
+    {
+      "date": "Le mardi 13 octobre 2026 de  16:20:00 à  20:30:00",
+      "streets": "CHEMIN BAZAR ET LES ALENTOURS, RAQUETTE RD, MORC SAHARA, MORC DINALLY ET LES ALENTOURS",
+      "from": "2026-10-13T12:20:00.000Z",
+      "to": "2026-10-13T16:30:00.000Z",
+      "id": "bb53dcb5423a8868c273be4f79aa5246"
+    },
     {
       "date": "Le mardi 6 octobre 2026 de  10:30:00 à  15:00:00",
       "streets": "MORC. HONORE GRAND BAY",

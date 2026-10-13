@@ -2,11 +2,18 @@
   "slug": "dagotiere",
   "name": "DAGOTIERE",
   "district": "moka",
-  "generated": "2026-10-12T21:53:58.199Z",
-  "outageCount": 28,
+  "generated": "2026-10-13T13:04:55.436Z",
+  "outageCount": 29,
   "firstOutage": "2022-04-24",
-  "lastOutage": "2026-08-09",
+  "lastOutage": "2026-10-14",
   "outages": [
+    {
+      "date": "Le mercredi 14 octobre 2026 de  09:00:00 à  16:00:00",
+      "streets": "Route Royale",
+      "from": "2026-10-14T05:00:00.000Z",
+      "to": "2026-10-14T12:00:00.000Z",
+      "id": "64c5be6ba74bec1185f8a816bc2d0ddf"
+    },
     {
       "date": "Le dimanche 9 août 2026 de  08:30:00 à  17:00:00",
       "streets": "Lower Dagotiere and LAssurance Village:   School road, Shivala road, EDC road, Koonjul road, Radhay road, Kalimaye road, Morcellement Mootoosamy, Azageer road, Arya Samaj road, NHDC les Daguets, Nhdc Firinga, NHDC Dagotiere, Poultry Fail, NSLD LAssurance, VRS LAssurance,",

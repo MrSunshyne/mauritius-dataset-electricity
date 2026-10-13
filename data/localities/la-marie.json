@@ -2,11 +2,18 @@
   "slug": "la-marie",
   "name": "LA MARIE",
   "district": "plainewilhems",
-  "generated": "2026-10-12T21:53:58.212Z",
-  "outageCount": 67,
+  "generated": "2026-10-13T13:04:55.455Z",
+  "outageCount": 68,
   "firstOutage": "2022-07-07",
-  "lastOutage": "2026-10-09",
+  "lastOutage": "2026-10-15",
   "outages": [
+    {
+      "date": "Le jeudi 15 octobre 2026 de  09:00:00 à  16:00:00",
+      "streets": "Rue Cyprus, Rue Berthaud, Rue Kebla, Rue Lila",
+      "from": "2026-10-15T05:00:00.000Z",
+      "to": "2026-10-15T12:00:00.000Z",
+      "id": "b47df6eef6e8de17d12c81bd41ee872b"
+    },
     {
       "date": "Le vendredi 9 octobre 2026 de  09:00:00 à  16:00:00",
       "streets": "La Marie et Henrietta habitant dans les périmètres et rues suivante : Morcellement Pousson et Morcellement Manguier Royal et les ruelles avoisinantes",

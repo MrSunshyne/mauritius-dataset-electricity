@@ -1,9 +1,19 @@
 {
   "date": "2026-10-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-12T21:53:58.169Z",
-  "outageCount": 3,
+  "generated": "2026-10-13T13:04:55.384Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le mardi 13 octobre 2026 de  16:20:00 à  20:00:00",
+      "locality": "POSTE LAFAYETTE",
+      "localitySlug": "poste-lafayette",
+      "streets": "COASTAL ROAD DANS LES ENVIRONS HOTEL JALSA BEACH.",
+      "district": "flacq",
+      "from": "2026-10-13T12:20:00.000Z",
+      "to": "2026-10-13T16:00:00.000Z",
+      "id": "c472113aeae212359c348eca306c2362"
+    },
     {
       "date": "Le mardi 13 octobre 2026 de  10:00:00 à  12:00:00",
       "locality": "VALLEE PITOT",
@@ -33,6 +43,16 @@
       "from": "2026-10-13T04:30:00.000Z",
       "to": "2026-10-13T12:00:00.000Z",
       "id": "b0e903d2cc8a0581590f5f6336471064"
+    },
+    {
+      "date": "Le mardi 13 octobre 2026 de  16:20:00 à  20:30:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "CHEMIN BAZAR ET LES ALENTOURS, RAQUETTE RD, MORC SAHARA, MORC DINALLY ET LES ALENTOURS",
+      "district": "rivieredurempart",
+      "from": "2026-10-13T12:20:00.000Z",
+      "to": "2026-10-13T16:30:00.000Z",
+      "id": "bb53dcb5423a8868c273be4f79aa5246"
     }
   ]
 }

@@ -2,11 +2,25 @@
   "slug": "floreal",
   "name": "FLOREAL",
   "district": "plainewilhems",
-  "generated": "2026-10-12T21:53:58.203Z",
-  "outageCount": 100,
+  "generated": "2026-10-13T13:04:55.441Z",
+  "outageCount": 102,
   "firstOutage": "2022-03-31",
-  "lastOutage": "2026-10-09",
+  "lastOutage": "2026-10-16",
   "outages": [
+    {
+      "date": "Le vendredi 16 octobre 2026 de  12:00:00 à  15:00:00",
+      "streets": "Partie dAvenue King George, Avenue John Kennedy, Rue Roger Pezzani, et Rue Hesket bell, Flat Silver Clouds, Flats Les Ternnants, Résidence de LIntendance, British High Commission, Flat Currimjee",
+      "from": "2026-10-16T08:00:00.000Z",
+      "to": "2026-10-16T11:00:00.000Z",
+      "id": "6cdfef0a2b57e55bc025a6ba9eabefc6"
+    },
+    {
+      "date": "Le vendredi 16 octobre 2026 de  09:00:00 à  15:00:00",
+      "streets": "Partie de la Rue Ernest Harel, Rue Lucien de Chazal, Flat Hesket Heights",
+      "from": "2026-10-16T05:00:00.000Z",
+      "to": "2026-10-16T11:00:00.000Z",
+      "id": "2548cab04391525cf9ccbc1898251a46"
+    },
     {
       "date": "Le vendredi 9 octobre 2026 de  18:15:00 à  20:50:00",
       "streets": "Riverwalk,Floreal,Granham,Hanoomanjee Lanes",
