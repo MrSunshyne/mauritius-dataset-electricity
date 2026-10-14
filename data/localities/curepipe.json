@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-10-13T19:58:35.054Z",
-  "outageCount": 245,
+  "generated": "2026-10-14T10:46:28.840Z",
+  "outageCount": 246,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-10-14",
+  "lastOutage": "2026-10-15",
   "outages": [
+    {
+      "date": "Le jeudi 15 octobre 2026 de  13:00:00 à  15:00:00",
+      "streets": "Partie de la Rue Pope Henessy, Route Jardin, Rue Cossigny, Rue Remono, College Lane, Rue Dr Edwards, et Rue Victor Lamarque, Rue Sir Gaëtan Duval, Rue Naz, Rue Emile Sauzier, Rue Sir William Newton, Rue Raffray, Morc Piat",
+      "from": "2026-10-15T09:00:00.000Z",
+      "to": "2026-10-15T11:00:00.000Z",
+      "id": "f6c75b2393c05bd27a1015c7965813ed"
+    },
     {
       "date": "Le mercredi 14 octobre 2026 de  08:30:00 à  14:00:00",
       "streets": "Partie de Rue Clement Charoux, Malherbes, Curepipe et les ruelles avoisinantes",

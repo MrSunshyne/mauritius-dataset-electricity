@@ -2,11 +2,18 @@
   "slug": "beau-songe",
   "name": "BEAU SONGE",
   "district": "blackriver",
-  "generated": "2026-10-13T19:58:35.034Z",
-  "outageCount": 25,
+  "generated": "2026-10-14T10:46:28.824Z",
+  "outageCount": 26,
   "firstOutage": "2023-05-09",
-  "lastOutage": "2026-04-22",
+  "lastOutage": "2026-10-15",
   "outages": [
+    {
+      "date": "Le jeudi 15 octobre 2026 de  09:30:00 à  12:00:00",
+      "streets": "VILLAGE DE BEAU SONGES, MORC. DOOKUN, CWA BEAU SONGES, NHDC BEAU SONGES ET CWA PUMPING BEAU SONGES",
+      "from": "2026-10-15T05:30:00.000Z",
+      "to": "2026-10-15T08:00:00.000Z",
+      "id": "cbde1a3a88e8f2c32d2f47efb533788f"
+    },
     {
       "date": "Le mercredi 22 avril 2026 de  08:03:00 à  16:30:00",
       "streets": "BEAU SONGE",

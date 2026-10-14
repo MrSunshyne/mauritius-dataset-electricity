@@ -1,9 +1,19 @@
 {
   "date": "2026-10-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-13T19:58:35.012Z",
-  "outageCount": 2,
+  "generated": "2026-10-14T10:46:28.806Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le jeudi 15 octobre 2026 de  09:30:00 à  12:00:00",
+      "locality": "BEAU SONGE",
+      "localitySlug": "beau-songe",
+      "streets": "VILLAGE DE BEAU SONGES, MORC. DOOKUN, CWA BEAU SONGES, NHDC BEAU SONGES ET CWA PUMPING BEAU SONGES",
+      "district": "blackriver",
+      "from": "2026-10-15T05:30:00.000Z",
+      "to": "2026-10-15T08:00:00.000Z",
+      "id": "cbde1a3a88e8f2c32d2f47efb533788f"
+    },
     {
       "date": "Le jeudi 15 octobre 2026 de  08:30:00 à  16:00:00",
       "locality": "VACOAS",
@@ -23,6 +33,16 @@
       "from": "2026-10-15T05:00:00.000Z",
       "to": "2026-10-15T12:00:00.000Z",
       "id": "b47df6eef6e8de17d12c81bd41ee872b"
+    },
+    {
+      "date": "Le jeudi 15 octobre 2026 de  13:00:00 à  15:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Partie de la Rue Pope Henessy, Route Jardin, Rue Cossigny, Rue Remono, College Lane, Rue Dr Edwards, et Rue Victor Lamarque, Rue Sir Gaëtan Duval, Rue Naz, Rue Emile Sauzier, Rue Sir William Newton, Rue Raffray, Morc Piat",
+      "district": "plainewilhems",
+      "from": "2026-10-15T09:00:00.000Z",
+      "to": "2026-10-15T11:00:00.000Z",
+      "id": "f6c75b2393c05bd27a1015c7965813ed"
     }
   ]
 }
