@@ -1,8 +1,8 @@
 {
   "date": "2026-10-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-15T10:29:02.987Z",
-  "outageCount": 10,
+  "generated": "2026-10-15T15:23:08.380Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le jeudi 15 octobre 2026 de  09:30:00 à  12:00:00",
@@ -63,6 +63,26 @@
       "from": "2026-10-15T09:00:00.000Z",
       "to": "2026-10-15T11:00:00.000Z",
       "id": "f6c75b2393c05bd27a1015c7965813ed"
+    },
+    {
+      "date": "Le jeudi 15 octobre 2026 de  18:30:00 à  22:00:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "AVE CASQUETTE, DAISY LANE, AVE KOOSSEAL, AVENUE CHARLIE, SEENEEVASSEN, PALMA ROAD & SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2026-10-15T14:30:00.000Z",
+      "to": "2026-10-15T18:00:00.000Z",
+      "id": "c25da65b8342be1f51f86c90ff1ec231"
+    },
+    {
+      "date": "Le jeudi 15 octobre 2026 de  16:00:00 à  20:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "CHAPMANVIEW & SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2026-10-15T12:00:00.000Z",
+      "to": "2026-10-15T16:00:00.000Z",
+      "id": "3ffa822e26a15518fe3b843e1fd0f795"
     },
     {
       "date": "Le jeudi 15 octobre 2026 de  11:00:00 à  12:15:00",

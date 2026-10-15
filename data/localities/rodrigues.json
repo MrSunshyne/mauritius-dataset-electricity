@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-10-15T10:29:03.049Z",
-  "outageCount": 282,
+  "generated": "2026-10-15T15:23:08.500Z",
+  "outageCount": 283,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-10-15",
+  "lastOutage": "2026-10-16",
   "outages": [
+    {
+      "date": "Le vendredi 16 octobre 2026 de  08:30:00 à  15:00:00",
+      "streets": "Tamarin et Anse Raffin",
+      "from": "2026-10-16T04:30:00.000Z",
+      "to": "2026-10-16T11:00:00.000Z",
+      "id": "02c01e6a3fe77d122daf71d144c5fc3c"
+    },
     {
       "date": "Le jeudi 15 octobre 2026 de  08:30:00 à  15:00:00",
       "streets": "Grand La Fouche Corail",

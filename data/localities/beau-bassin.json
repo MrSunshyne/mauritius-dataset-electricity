@@ -2,11 +2,18 @@
   "slug": "beau-bassin",
   "name": "BEAU BASSIN",
   "district": "plainewilhems",
-  "generated": "2026-10-15T10:29:03.001Z",
-  "outageCount": 207,
+  "generated": "2026-10-15T15:23:08.406Z",
+  "outageCount": 208,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-10-10",
+  "lastOutage": "2026-10-15",
   "outages": [
+    {
+      "date": "Le jeudi 15 octobre 2026 de  16:00:00 à  20:00:00",
+      "streets": "CHAPMANVIEW & SURROUNDINGS",
+      "from": "2026-10-15T12:00:00.000Z",
+      "to": "2026-10-15T16:00:00.000Z",
+      "id": "3ffa822e26a15518fe3b843e1fd0f795"
+    },
     {
       "date": "Le samedi 10 octobre 2026 de  08:30:00 à  15:00:00",
       "streets": "VEL GOVINDEN ST, MAGON DE MEDINE, MAGANLALL DESAI, DR LESUR, MORRISON ET LES ALENTOURS",

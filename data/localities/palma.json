@@ -2,11 +2,18 @@
   "slug": "palma",
   "name": "PALMA",
   "district": "plainewilhems",
-  "generated": "2026-10-15T10:29:03.035Z",
-  "outageCount": 68,
+  "generated": "2026-10-15T15:23:08.476Z",
+  "outageCount": 69,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-07-25",
+  "lastOutage": "2026-10-15",
   "outages": [
+    {
+      "date": "Le jeudi 15 octobre 2026 de  18:30:00 à  22:00:00",
+      "streets": "AVE CASQUETTE, DAISY LANE, AVE KOOSSEAL, AVENUE CHARLIE, SEENEEVASSEN, PALMA ROAD & SURROUNDINGS",
+      "from": "2026-10-15T14:30:00.000Z",
+      "to": "2026-10-15T18:00:00.000Z",
+      "id": "c25da65b8342be1f51f86c90ff1ec231"
+    },
     {
       "date": "Le samedi 25 juillet 2026 de  19:00:00 à  00:00:00",
       "streets": "BG CARE HOME IN AVENUE POUSSPASSE AND SURROUNDINGS.",
