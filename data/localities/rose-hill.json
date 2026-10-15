@@ -2,11 +2,18 @@
   "slug": "rose-hill",
   "name": "ROSE-HILL",
   "district": "plainewilhems",
-  "generated": "2026-10-15T15:23:08.502Z",
-  "outageCount": 195,
+  "generated": "2026-10-15T19:31:42.828Z",
+  "outageCount": 196,
   "firstOutage": "2022-05-20",
-  "lastOutage": "2026-09-28",
+  "lastOutage": "2026-10-15",
   "outages": [
+    {
+      "date": "Le jeudi 15 octobre 2026 de  19:00:00 à  00:00:00",
+      "streets": "EN PARTIE LA ROUTE ROYALE DANS LES ENVIRONS EGLISE MONTMARTRE, RUE MALARTIC, IMPASSE TELEMAQUE, RUE RAOUL ROCHECOUSTE, IMPASSE LE BRETON.",
+      "from": "2026-10-15T15:00:00.000Z",
+      "to": "2026-10-14T20:00:00.000Z",
+      "id": "2f752eaff3940d64de646f9aecef7089"
+    },
     {
       "date": "Le lundi 28 septembre 2026 de  09:00:00 à  14:00:00",
       "streets": "Ave Madras, en partie Ave Ratsitatane, Ave Cretin, Ave Sirius, NHDC Site & Services et les environs",

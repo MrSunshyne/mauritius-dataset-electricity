@@ -1,8 +1,8 @@
 {
   "date": "2026-10-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-15T15:23:08.380Z",
-  "outageCount": 12,
+  "generated": "2026-10-15T19:31:42.761Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le jeudi 15 octobre 2026 de  09:30:00 à  12:00:00",
@@ -83,6 +83,16 @@
       "from": "2026-10-15T12:00:00.000Z",
       "to": "2026-10-15T16:00:00.000Z",
       "id": "3ffa822e26a15518fe3b843e1fd0f795"
+    },
+    {
+      "date": "Le jeudi 15 octobre 2026 de  19:00:00 à  00:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "EN PARTIE LA ROUTE ROYALE DANS LES ENVIRONS EGLISE MONTMARTRE, RUE MALARTIC, IMPASSE TELEMAQUE, RUE RAOUL ROCHECOUSTE, IMPASSE LE BRETON.",
+      "district": "plainewilhems",
+      "from": "2026-10-15T15:00:00.000Z",
+      "to": "2026-10-14T20:00:00.000Z",
+      "id": "2f752eaff3940d64de646f9aecef7089"
     },
     {
       "date": "Le jeudi 15 octobre 2026 de  11:00:00 à  12:15:00",
