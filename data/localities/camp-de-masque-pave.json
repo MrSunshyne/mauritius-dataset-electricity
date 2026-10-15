@@ -2,11 +2,18 @@
   "slug": "camp-de-masque-pave",
   "name": "CAMP DE MASQUE PAVE",
   "district": "flacq",
-  "generated": "2026-10-14T19:48:15.825Z",
-  "outageCount": 15,
+  "generated": "2026-10-15T10:29:03.006Z",
+  "outageCount": 16,
   "firstOutage": "2022-09-07",
-  "lastOutage": "2026-07-23",
+  "lastOutage": "2026-10-15",
   "outages": [
+    {
+      "date": "Le jeudi 15 octobre 2026 de  10:00:00 à  10:20:00",
+      "streets": "CAMP DE MASQUE PAVE",
+      "from": "2026-10-15T06:00:00.000Z",
+      "to": "2026-10-15T06:20:00.000Z",
+      "id": "d1ee2167d40efecc087ccb377a339098"
+    },
     {
       "date": "Le jeudi 23 juillet 2026 de  08:30:00 à  15:00:00",
       "streets": "Camp De Masque Pave, dans les environs de Mare Goyave, Boulangerie le Bon Pain, Government School, Jaunky Store.",

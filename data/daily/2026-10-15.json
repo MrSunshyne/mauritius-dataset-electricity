@@ -1,8 +1,8 @@
 {
   "date": "2026-10-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-14T19:48:15.791Z",
-  "outageCount": 4,
+  "generated": "2026-10-15T10:29:02.987Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le jeudi 15 octobre 2026 de  09:30:00 à  12:00:00",
@@ -13,6 +13,26 @@
       "from": "2026-10-15T05:30:00.000Z",
       "to": "2026-10-15T08:00:00.000Z",
       "id": "cbde1a3a88e8f2c32d2f47efb533788f"
+    },
+    {
+      "date": "Le jeudi 15 octobre 2026 de  10:00:00 à  10:20:00",
+      "locality": "CAMP DE MASQUE PAVE",
+      "localitySlug": "camp-de-masque-pave",
+      "streets": "CAMP DE MASQUE PAVE",
+      "district": "flacq",
+      "from": "2026-10-15T06:00:00.000Z",
+      "to": "2026-10-15T06:20:00.000Z",
+      "id": "d1ee2167d40efecc087ccb377a339098"
+    },
+    {
+      "date": "Le jeudi 15 octobre 2026 de  08:45:00 à  11:30:00",
+      "locality": "PETITE JULIE",
+      "localitySlug": "petite-julie",
+      "streets": "VILLAGE PETITE JULIE",
+      "district": "pamplemousses",
+      "from": "2026-10-15T04:45:00.000Z",
+      "to": "2026-10-15T07:30:00.000Z",
+      "id": "00c25dc9cb67db6e13ae3a9ee412b0dc"
     },
     {
       "date": "Le jeudi 15 octobre 2026 de  08:30:00 à  16:00:00",
@@ -43,6 +63,46 @@
       "from": "2026-10-15T09:00:00.000Z",
       "to": "2026-10-15T11:00:00.000Z",
       "id": "f6c75b2393c05bd27a1015c7965813ed"
+    },
+    {
+      "date": "Le jeudi 15 octobre 2026 de  11:00:00 à  12:15:00",
+      "locality": "PLAINE VERTE",
+      "localitySlug": "plaine-verte",
+      "streets": "En partie Rues Diego Garcia & Trichnapoly",
+      "district": "portlouis",
+      "from": "2026-10-15T07:00:00.000Z",
+      "to": "2026-10-15T08:15:00.000Z",
+      "id": "187048b02ae08d872b62beaa90b63101"
+    },
+    {
+      "date": "Le jeudi 15 octobre 2026 de  11:00:00 à  14:00:00",
+      "locality": "VALLEE DES PRETRES",
+      "localitySlug": "vallee-des-pretres",
+      "streets": "Morc Seekdaurs",
+      "district": "portlouis",
+      "from": "2026-10-15T07:00:00.000Z",
+      "to": "2026-10-15T10:00:00.000Z",
+      "id": "dd9784682921c76553bf067ea8d56722"
+    },
+    {
+      "date": "Le jeudi 15 octobre 2026 de  13:00:00 à  16:00:00",
+      "locality": "ROCHES NOIRES",
+      "localitySlug": "roches-noires",
+      "streets": "Amaury , Plaine Des Roches,Riv Du Rempart, Roche Noires , Poste LafayettePointe, Lascars,Haute Rive",
+      "district": "rivieredurempart",
+      "from": "2026-10-15T09:00:00.000Z",
+      "to": "2026-10-15T12:00:00.000Z",
+      "id": "229c204c7237b321f61f831c996bc939"
+    },
+    {
+      "date": "Le jeudi 15 octobre 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Grand La Fouche Corail",
+      "district": "rodrigues",
+      "from": "2026-10-15T04:30:00.000Z",
+      "to": "2026-10-15T11:00:00.000Z",
+      "id": "dd177f041a18bdedf090d388d0ee97e2"
     }
   ]
 }

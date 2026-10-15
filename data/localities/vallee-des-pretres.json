@@ -2,11 +2,18 @@
   "slug": "vallee-des-pretres",
   "name": "VALLEE DES PRETRES",
   "district": "portlouis",
-  "generated": "2026-10-14T19:48:15.917Z",
-  "outageCount": 88,
+  "generated": "2026-10-15T10:29:03.060Z",
+  "outageCount": 89,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-09-21",
+  "lastOutage": "2026-10-15",
   "outages": [
+    {
+      "date": "Le jeudi 15 octobre 2026 de  11:00:00 à  14:00:00",
+      "streets": "Morc Seekdaurs",
+      "from": "2026-10-15T07:00:00.000Z",
+      "to": "2026-10-15T10:00:00.000Z",
+      "id": "dd9784682921c76553bf067ea8d56722"
+    },
     {
       "date": "Le lundi 21 septembre 2026 de  14:30:00 à  15:30:00",
       "streets": "SOPHIA LANE & SURROUNDINGS",

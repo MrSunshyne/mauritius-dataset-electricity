@@ -2,11 +2,18 @@
   "slug": "plaine-verte",
   "name": "PLAINE VERTE",
   "district": "portlouis",
-  "generated": "2026-10-14T19:48:15.884Z",
-  "outageCount": 40,
+  "generated": "2026-10-15T10:29:03.039Z",
+  "outageCount": 41,
   "firstOutage": "2022-12-21",
-  "lastOutage": "2026-08-14",
+  "lastOutage": "2026-10-15",
   "outages": [
+    {
+      "date": "Le jeudi 15 octobre 2026 de  11:00:00 à  12:15:00",
+      "streets": "En partie Rues Diego Garcia & Trichnapoly",
+      "from": "2026-10-15T07:00:00.000Z",
+      "to": "2026-10-15T08:15:00.000Z",
+      "id": "187048b02ae08d872b62beaa90b63101"
+    },
     {
       "date": "Le vendredi 14 août 2026 de  10:30:00 à  11:00:00",
       "streets": "GORAH ISSAC ET CANAL BATHURST",

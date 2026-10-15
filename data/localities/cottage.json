@@ -2,11 +2,18 @@
   "slug": "cottage",
   "name": "COTTAGE",
   "district": "rivieredurempart",
-  "generated": "2026-10-14T19:48:15.837Z",
-  "outageCount": 44,
+  "generated": "2026-10-15T10:29:03.015Z",
+  "outageCount": 45,
   "firstOutage": "2022-04-07",
-  "lastOutage": "2026-09-10",
+  "lastOutage": "2026-10-17",
   "outages": [
+    {
+      "date": "Le samedi 17 octobre 2026 de  08:30:00 à  15:00:00",
+      "streets": "COTTAGE, SCHOOL ROAD, NHDC, BEAU PLATEAU ROAD ET MORCELLEMENT VRS NO 2",
+      "from": "2026-10-17T04:30:00.000Z",
+      "to": "2026-10-17T11:00:00.000Z",
+      "id": "771bf1c898ce929719fe1cfa6920707b"
+    },
     {
       "date": "Le jeudi 10 septembre 2026 de  12:25:00 à  14:30:00",
       "streets": "COTTAGE TOWARDS CWA",

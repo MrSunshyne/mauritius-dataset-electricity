@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-10-14T19:48:15.899Z",
-  "outageCount": 281,
+  "generated": "2026-10-15T10:29:03.049Z",
+  "outageCount": 282,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-10-11",
+  "lastOutage": "2026-10-15",
   "outages": [
+    {
+      "date": "Le jeudi 15 octobre 2026 de  08:30:00 à  15:00:00",
+      "streets": "Grand La Fouche Corail",
+      "from": "2026-10-15T04:30:00.000Z",
+      "to": "2026-10-15T11:00:00.000Z",
+      "id": "dd177f041a18bdedf090d388d0ee97e2"
+    },
     {
       "date": "Le dimanche 11 octobre 2026 de  08:30:00 à  15:00:00",
       "streets": "Jean Tac et Camp Du Roi",

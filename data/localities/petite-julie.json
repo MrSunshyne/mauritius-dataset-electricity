@@ -2,11 +2,18 @@
   "slug": "petite-julie",
   "name": "PETITE JULIE",
   "district": "pamplemousses",
-  "generated": "2026-10-14T19:48:15.879Z",
-  "outageCount": 10,
+  "generated": "2026-10-15T10:29:03.037Z",
+  "outageCount": 11,
   "firstOutage": "2022-07-23",
-  "lastOutage": "2026-07-02",
+  "lastOutage": "2026-10-15",
   "outages": [
+    {
+      "date": "Le jeudi 15 octobre 2026 de  08:45:00 à  11:30:00",
+      "streets": "VILLAGE PETITE JULIE",
+      "from": "2026-10-15T04:45:00.000Z",
+      "to": "2026-10-15T07:30:00.000Z",
+      "id": "00c25dc9cb67db6e13ae3a9ee412b0dc"
+    },
     {
       "date": "Le jeudi 2 juillet 2026 de  17:15:00 à  00:00:00",
       "streets": "WHOLE VILLAGE",
