@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-16T10:16:21.840Z",
+  "generated": "2026-10-16T15:02:46.711Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -2068,10 +2068,10 @@
       "slug": "le-bouchon",
       "name": "LE BOUCHON",
       "district": "grandport",
-      "outageCount": 19,
+      "outageCount": 20,
       "file": "le-bouchon.json",
       "firstOutage": "2022-06-28",
-      "lastOutage": "2026-09-10"
+      "lastOutage": "2026-10-16"
     },
     {
       "slug": "le-chaland",
@@ -3490,19 +3490,19 @@
       "slug": "rodrigues",
       "name": "RODRIGUES",
       "district": "rodrigues",
-      "outageCount": 283,
+      "outageCount": 285,
       "file": "rodrigues.json",
       "firstOutage": "2022-03-15",
-      "lastOutage": "2026-10-16"
+      "lastOutage": "2026-10-18"
     },
     {
       "slug": "rose-belle",
       "name": "ROSE BELLE",
       "district": "grandport",
-      "outageCount": 87,
+      "outageCount": 88,
       "file": "rose-belle.json",
       "firstOutage": "2022-05-12",
-      "lastOutage": "2026-09-04"
+      "lastOutage": "2026-10-16"
     },
     {
       "slug": "rose-hill",

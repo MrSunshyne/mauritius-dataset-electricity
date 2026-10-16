@@ -1,8 +1,8 @@
 {
   "date": "2026-10-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-16T10:16:21.719Z",
-  "outageCount": 9,
+  "generated": "2026-10-16T15:02:46.568Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le vendredi 16 octobre 2026 de  08:30:00 à  15:30:00",
@@ -33,6 +33,26 @@
       "from": "2026-10-16T05:15:00.000Z",
       "to": "2026-10-16T05:55:00.000Z",
       "id": "c33060a9cee783cfaab8da2a60cef8bb"
+    },
+    {
+      "date": "Le vendredi 16 octobre 2026 de  17:45:00 à  22:00:00",
+      "locality": "ROSE BELLE",
+      "localitySlug": "rose-belle",
+      "streets": "PART OF ROSE BELLE",
+      "district": "grandport",
+      "from": "2026-10-16T13:45:00.000Z",
+      "to": "2026-10-16T18:00:00.000Z",
+      "id": "c88d11d7767351032330dfee7e7c7f42"
+    },
+    {
+      "date": "Le vendredi 16 octobre 2026 de  14:30:00 à  18:00:00",
+      "locality": "LE BOUCHON",
+      "localitySlug": "le-bouchon",
+      "streets": "LA CHAPELLE LANE LE BOUCHON",
+      "district": "grandport",
+      "from": "2026-10-16T10:30:00.000Z",
+      "to": "2026-10-16T14:00:00.000Z",
+      "id": "65a7a1e8c6ac9929abf47ab3478f3daa"
     },
     {
       "date": "Le vendredi 16 octobre 2026 de  09:00:00 à  15:00:00",

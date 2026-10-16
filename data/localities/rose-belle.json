@@ -2,11 +2,18 @@
   "slug": "rose-belle",
   "name": "ROSE BELLE",
   "district": "grandport",
-  "generated": "2026-10-16T10:16:21.817Z",
-  "outageCount": 87,
+  "generated": "2026-10-16T15:02:46.691Z",
+  "outageCount": 88,
   "firstOutage": "2022-05-12",
-  "lastOutage": "2026-09-04",
+  "lastOutage": "2026-10-16",
   "outages": [
+    {
+      "date": "Le vendredi 16 octobre 2026 de  17:45:00 à  22:00:00",
+      "streets": "PART OF ROSE BELLE",
+      "from": "2026-10-16T13:45:00.000Z",
+      "to": "2026-10-16T18:00:00.000Z",
+      "id": "c88d11d7767351032330dfee7e7c7f42"
+    },
     {
       "date": "Le vendredi 4 septembre 2026 de  13:30:00 à  16:00:00",
       "streets": "KULPOO LANE, ROYAL RD ET DANS LES ALENTOURS DE SUPER CASH",
