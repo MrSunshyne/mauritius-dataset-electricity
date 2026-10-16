@@ -2,11 +2,18 @@
   "slug": "pointe-aux-sables",
   "name": "POINTE AUX SABLES",
   "district": "portlouis",
-  "generated": "2026-10-15T19:31:42.819Z",
-  "outageCount": 150,
+  "generated": "2026-10-16T10:16:21.804Z",
+  "outageCount": 151,
   "firstOutage": "2022-03-30",
-  "lastOutage": "2026-09-30",
+  "lastOutage": "2026-10-16",
   "outages": [
+    {
+      "date": "Le vendredi 16 octobre 2026 de  13:15:00 à  14:00:00",
+      "streets": "Rues Cyprus Morc Ilois",
+      "from": "2026-10-16T09:15:00.000Z",
+      "to": "2026-10-16T10:00:00.000Z",
+      "id": "b62120cd8f1d8f18ec9539291bcd073a"
+    },
     {
       "date": "Le mercredi 30 septembre 2026 de  10:10:00 à  12:15:00",
       "streets": "Morc Ghurburrun",

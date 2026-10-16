@@ -2,11 +2,18 @@
   "slug": "ecroignard",
   "name": "ECROIGNARD",
   "district": "flacq",
-  "generated": "2026-10-15T19:31:42.793Z",
-  "outageCount": 7,
+  "generated": "2026-10-16T10:16:21.765Z",
+  "outageCount": 8,
   "firstOutage": "2023-05-13",
-  "lastOutage": "2026-05-10",
+  "lastOutage": "2026-10-16",
   "outages": [
+    {
+      "date": "Le vendredi 16 octobre 2026 de  12:50:00 à  14:30:00",
+      "streets": "Garage Prayag towards Bramsthan",
+      "from": "2026-10-16T08:50:00.000Z",
+      "to": "2026-10-16T10:30:00.000Z",
+      "id": "ddb976242b535c02fb76998410d4e270"
+    },
     {
       "date": "Le dimanche 10 mai 2026 de  08:15:00 à  16:30:00",
       "streets": "Village de Ecroignard et dans les périmètres de Rues Joysury, School Rd, Dispensary Rd, Village Hall Rd, Beekmanga Rd, Ramkhelawan Rd et en Partie de la Route Royale.",

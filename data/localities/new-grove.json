@@ -2,11 +2,18 @@
   "slug": "new-grove",
   "name": "NEW GROVE",
   "district": "grandport",
-  "generated": "2026-10-15T19:31:42.811Z",
-  "outageCount": 27,
+  "generated": "2026-10-16T10:16:21.792Z",
+  "outageCount": 28,
   "firstOutage": "2022-05-12",
-  "lastOutage": "2026-09-16",
+  "lastOutage": "2026-10-17",
   "outages": [
+    {
+      "date": "Le samedi 17 octobre 2026 de  09:00:00 à  16:00:00",
+      "streets": "New Grove & Deux Bras habitant dans le périmètre : Morcellement Balance, Deux Bras Village et une partie de la Route Royale New Grove",
+      "from": "2026-10-17T05:00:00.000Z",
+      "to": "2026-10-17T12:00:00.000Z",
+      "id": "5b4bfe0b61f4ec98fb55464bd5577896"
+    },
     {
       "date": "Le mercredi 16 septembre 2026 de  17:30:00 à  22:30:00",
       "streets": "SIDING ROAD, KALIMAYE ROAD, RAMSING ROAD & SURROUNDINGS",

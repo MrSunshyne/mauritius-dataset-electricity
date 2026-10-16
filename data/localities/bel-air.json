@@ -2,11 +2,18 @@
   "slug": "bel-air",
   "name": "BEL AIR",
   "district": "flacq",
-  "generated": "2026-10-15T19:31:42.778Z",
-  "outageCount": 71,
+  "generated": "2026-10-16T10:16:21.742Z",
+  "outageCount": 72,
   "firstOutage": "2022-06-04",
-  "lastOutage": "2026-09-22",
+  "lastOutage": "2026-10-16",
   "outages": [
+    {
+      "date": "Le vendredi 16 octobre 2026 de  09:15:00 à  09:55:00",
+      "streets": "BEL AIR,DEEP RIVER,OLIVIA,PONT LARDIER,KEWAL NAGAR,CLAVET,CLEMENCIA,BELLE ROSE",
+      "from": "2026-10-16T05:15:00.000Z",
+      "to": "2026-10-16T05:55:00.000Z",
+      "id": "c33060a9cee783cfaab8da2a60cef8bb"
+    },
     {
       "date": "Le mardi 22 septembre 2026 de  13:15:00 à  15:00:00",
       "streets": "DAMRY LANE & SURROUNDINGS",

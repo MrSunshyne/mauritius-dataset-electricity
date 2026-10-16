@@ -1,8 +1,8 @@
 {
   "date": "2026-10-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-15T19:31:42.761Z",
-  "outageCount": 4,
+  "generated": "2026-10-16T10:16:21.719Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le vendredi 16 octobre 2026 de  08:30:00 à  15:30:00",
@@ -13,6 +13,26 @@
       "from": "2026-10-16T04:30:00.000Z",
       "to": "2026-10-16T11:30:00.000Z",
       "id": "2759a7fd9e42c79f1b6a7df81a459fdd"
+    },
+    {
+      "date": "Le vendredi 16 octobre 2026 de  12:50:00 à  14:30:00",
+      "locality": "ECROIGNARD",
+      "localitySlug": "ecroignard",
+      "streets": "Garage Prayag towards Bramsthan",
+      "district": "flacq",
+      "from": "2026-10-16T08:50:00.000Z",
+      "to": "2026-10-16T10:30:00.000Z",
+      "id": "ddb976242b535c02fb76998410d4e270"
+    },
+    {
+      "date": "Le vendredi 16 octobre 2026 de  09:15:00 à  09:55:00",
+      "locality": "BEL AIR",
+      "localitySlug": "bel-air",
+      "streets": "BEL AIR,DEEP RIVER,OLIVIA,PONT LARDIER,KEWAL NAGAR,CLAVET,CLEMENCIA,BELLE ROSE",
+      "district": "flacq",
+      "from": "2026-10-16T05:15:00.000Z",
+      "to": "2026-10-16T05:55:00.000Z",
+      "id": "c33060a9cee783cfaab8da2a60cef8bb"
     },
     {
       "date": "Le vendredi 16 octobre 2026 de  09:00:00 à  15:00:00",
@@ -33,6 +53,36 @@
       "from": "2026-10-16T08:00:00.000Z",
       "to": "2026-10-16T11:00:00.000Z",
       "id": "6cdfef0a2b57e55bc025a6ba9eabefc6"
+    },
+    {
+      "date": "Le vendredi 16 octobre 2026 de  09:00:00 à  11:30:00",
+      "locality": "SAINT PAUL",
+      "localitySlug": "saint-paul",
+      "streets": "Pandit Jawaharlall Nehru Avenue, Une partie de Clairfond Phoenix, Juggroo Lane, Edgard Quirin Road, Barry Road, Impasse Goomany, Morc Noel",
+      "district": "plainewilhems",
+      "from": "2026-10-16T05:00:00.000Z",
+      "to": "2026-10-16T07:30:00.000Z",
+      "id": "eef47d69d1dfe8ec621f671bc3ef8bc6"
+    },
+    {
+      "date": "Le vendredi 16 octobre 2026 de  06:30:00 à  10:00:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "ENDEVOR RD-SKY LANE ROCHE BRUNES",
+      "district": "plainewilhems",
+      "from": "2026-10-16T02:30:00.000Z",
+      "to": "2026-10-16T06:00:00.000Z",
+      "id": "b00ef5941a9a08575c14270ca046894f"
+    },
+    {
+      "date": "Le vendredi 16 octobre 2026 de  13:15:00 à  14:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "Rues Cyprus Morc Ilois",
+      "district": "portlouis",
+      "from": "2026-10-16T09:15:00.000Z",
+      "to": "2026-10-16T10:00:00.000Z",
+      "id": "b62120cd8f1d8f18ec9539291bcd073a"
     },
     {
       "date": "Le vendredi 16 octobre 2026 de  08:30:00 à  15:00:00",

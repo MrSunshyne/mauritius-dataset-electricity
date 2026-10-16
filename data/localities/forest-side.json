@@ -2,11 +2,18 @@
   "slug": "forest-side",
   "name": "FOREST SIDE",
   "district": "plainewilhems",
-  "generated": "2026-10-15T19:31:42.796Z",
-  "outageCount": 111,
+  "generated": "2026-10-16T10:16:21.769Z",
+  "outageCount": 112,
   "firstOutage": "2022-07-03",
-  "lastOutage": "2026-10-04",
+  "lastOutage": "2026-10-19",
   "outages": [
+    {
+      "date": "Le lundi 19 octobre 2026 de  09:00:00 à  15:00:00",
+      "streets": "Rue Louis de Rochecouste, Rue Hibiscus, Rue Marygold, Rue Jasmin, Impasse Rochecouste, Impasse Raffray, et partie de Rue Sir Celicourt Anthleme et ruelles avoisinantes",
+      "from": "2026-10-19T05:00:00.000Z",
+      "to": "2026-10-19T11:00:00.000Z",
+      "id": "5357dff69d613e75603dc97db0a985f3"
+    },
     {
       "date": "Le dimanche 4 octobre 2026 de  08:30:00 à  15:30:00",
       "streets": "Louis de Rochecouste St, Hibiscus Lane, Marygold st, Jasmin rd, Impasse Rochecouste, Impasse Raffray, une partie de Sir Celicourt Antelme st et ruelles avoisinantes",
