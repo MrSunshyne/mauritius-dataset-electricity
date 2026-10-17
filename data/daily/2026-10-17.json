@@ -1,9 +1,39 @@
 {
   "date": "2026-10-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-16T19:05:50.077Z",
-  "outageCount": 3,
+  "generated": "2026-10-17T09:50:48.165Z",
+  "outageCount": 6,
   "outages": [
+    {
+      "date": "Le samedi 17 octobre 2026 de  09:15:00 à  13:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "AVE BARACUDA, AVE REQUIN, LA PLAGE ALBION ET LES ALENTOURS",
+      "district": "blackriver",
+      "from": "2026-10-17T05:15:00.000Z",
+      "to": "2026-10-17T09:00:00.000Z",
+      "id": "fbd13447d22d9dbaa7131ce28635ba22"
+    },
+    {
+      "date": "Le samedi 17 octobre 2026 de  09:00:00 à  14:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "AVE CORDONIER, AVE MULET ET LES ALENTOURS",
+      "district": "blackriver",
+      "from": "2026-10-17T05:00:00.000Z",
+      "to": "2026-10-17T10:00:00.000Z",
+      "id": "e976350e835528a44be2e252de98dcb6"
+    },
+    {
+      "date": "Le samedi 17 octobre 2026 de  11:20:00 à  14:00:00",
+      "locality": "CAMP DE MASQUE",
+      "localitySlug": "camp-de-masque",
+      "streets": "PETITE CABANE : CHEMIN ANCIENT DISPENSAIRE.",
+      "district": "flacq",
+      "from": "2026-10-17T07:20:00.000Z",
+      "to": "2026-10-17T10:00:00.000Z",
+      "id": "907ab19da3ba31b203852ce63a802e23"
+    },
     {
       "date": "Le samedi 17 octobre 2026 de  09:00:00 à  16:00:00",
       "locality": "NEW GROVE",

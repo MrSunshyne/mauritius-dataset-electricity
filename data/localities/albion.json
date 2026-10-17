@@ -2,11 +2,25 @@
   "slug": "albion",
   "name": "ALBION",
   "district": "blackriver",
-  "generated": "2026-10-16T19:05:50.092Z",
-  "outageCount": 135,
+  "generated": "2026-10-17T09:50:48.183Z",
+  "outageCount": 137,
   "firstOutage": "2022-06-06",
-  "lastOutage": "2026-10-08",
+  "lastOutage": "2026-10-17",
   "outages": [
+    {
+      "date": "Le samedi 17 octobre 2026 de  09:15:00 à  13:00:00",
+      "streets": "AVE BARACUDA, AVE REQUIN, LA PLAGE ALBION ET LES ALENTOURS",
+      "from": "2026-10-17T05:15:00.000Z",
+      "to": "2026-10-17T09:00:00.000Z",
+      "id": "fbd13447d22d9dbaa7131ce28635ba22"
+    },
+    {
+      "date": "Le samedi 17 octobre 2026 de  09:00:00 à  14:00:00",
+      "streets": "AVE CORDONIER, AVE MULET ET LES ALENTOURS",
+      "from": "2026-10-17T05:00:00.000Z",
+      "to": "2026-10-17T10:00:00.000Z",
+      "id": "e976350e835528a44be2e252de98dcb6"
+    },
     {
       "date": "Le jeudi 8 octobre 2026 de  08:30:00 à  17:00:00",
       "streets": "Ave Constitution, Ave Cutty Shark et Ave LIndiscret",

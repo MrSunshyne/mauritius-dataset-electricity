@@ -2,11 +2,18 @@
   "slug": "camp-de-masque",
   "name": "CAMP DE MASQUE",
   "district": "flacq",
-  "generated": "2026-10-16T19:05:50.107Z",
-  "outageCount": 17,
+  "generated": "2026-10-17T09:50:48.199Z",
+  "outageCount": 18,
   "firstOutage": "2022-07-09",
-  "lastOutage": "2026-06-07",
+  "lastOutage": "2026-10-17",
   "outages": [
+    {
+      "date": "Le samedi 17 octobre 2026 de  11:20:00 à  14:00:00",
+      "streets": "PETITE CABANE : CHEMIN ANCIENT DISPENSAIRE.",
+      "from": "2026-10-17T07:20:00.000Z",
+      "to": "2026-10-17T10:00:00.000Z",
+      "id": "907ab19da3ba31b203852ce63a802e23"
+    },
     {
       "date": "Le dimanche 7 juin 2026 de  08:00:00 à  16:00:00",
       "streets": "Camp De Masque",
