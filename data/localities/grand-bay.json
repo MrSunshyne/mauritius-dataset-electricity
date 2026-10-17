@@ -2,11 +2,18 @@
   "slug": "grand-bay",
   "name": "GRAND BAY",
   "district": "rivieredurempart",
-  "generated": "2026-10-17T09:50:48.225Z",
-  "outageCount": 129,
+  "generated": "2026-10-17T13:20:04.834Z",
+  "outageCount": 130,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-10-13",
+  "lastOutage": "2026-10-17",
   "outages": [
+    {
+      "date": "Le samedi 17 octobre 2026 de  16:30:00 à  20:30:00",
+      "streets": "GERANIUM ROAD GRAND BAY",
+      "from": "2026-10-17T12:30:00.000Z",
+      "to": "2026-10-17T16:30:00.000Z",
+      "id": "e44fb1616ebebb2426fd15143883cda2"
+    },
     {
       "date": "Le mardi 13 octobre 2026 de  16:20:00 à  20:30:00",
       "streets": "CHEMIN BAZAR ET LES ALENTOURS, RAQUETTE RD, MORC SAHARA, MORC DINALLY ET LES ALENTOURS",

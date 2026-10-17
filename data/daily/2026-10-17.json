@@ -1,8 +1,8 @@
 {
   "date": "2026-10-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-17T09:50:48.165Z",
-  "outageCount": 6,
+  "generated": "2026-10-17T13:20:04.802Z",
+  "outageCount": 7,
   "outages": [
     {
       "date": "Le samedi 17 octobre 2026 de  09:15:00 à  13:00:00",
@@ -53,6 +53,16 @@
       "from": "2026-10-17T04:30:00.000Z",
       "to": "2026-10-17T11:00:00.000Z",
       "id": "771bf1c898ce929719fe1cfa6920707b"
+    },
+    {
+      "date": "Le samedi 17 octobre 2026 de  16:30:00 à  20:30:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "GERANIUM ROAD GRAND BAY",
+      "district": "rivieredurempart",
+      "from": "2026-10-17T12:30:00.000Z",
+      "to": "2026-10-17T16:30:00.000Z",
+      "id": "e44fb1616ebebb2426fd15143883cda2"
     },
     {
       "date": "Le samedi 17 octobre 2026 de  08:30:00 à  15:00:00",
