@@ -2,11 +2,18 @@
   "slug": "mahebourg",
   "name": "MAHEBOURG",
   "district": "grandport",
-  "generated": "2026-10-18T14:10:49.468Z",
-  "outageCount": 90,
+  "generated": "2026-10-18T17:37:39.140Z",
+  "outageCount": 91,
   "firstOutage": "2022-04-07",
-  "lastOutage": "2026-10-14",
+  "lastOutage": "2026-10-18",
   "outages": [
+    {
+      "date": "Le dimanche 18 octobre 2026 de  20:30:00 à  00:00:00",
+      "streets": "RUE CHOUFLEUR-RUE HANGARD-RUE BOUCHON  MAHEBOURG",
+      "from": "2026-10-18T16:30:00.000Z",
+      "to": "2026-10-17T20:00:00.000Z",
+      "id": "d50abd92adc87f453059284814d5116a"
+    },
     {
       "date": "Le mercredi 14 octobre 2026 de  08:30:00 à  15:00:00",
       "streets": "Mahebourg habitant dans le périmètre : une partie de la Rue La Chaux , Rue Souffleur, Rue Des Creoles et Rue Bouchon",

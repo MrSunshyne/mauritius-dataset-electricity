@@ -2,11 +2,18 @@
   "slug": "amitie",
   "name": "AMITIE",
   "district": "rivieredurempart",
-  "generated": "2026-10-18T14:10:49.424Z",
-  "outageCount": 16,
+  "generated": "2026-10-18T17:37:39.086Z",
+  "outageCount": 17,
   "firstOutage": "2022-04-28",
-  "lastOutage": "2026-09-06",
+  "lastOutage": "2026-10-18",
   "outages": [
+    {
+      "date": "Le dimanche 18 octobre 2026 de  18:00:00 à  00:00:00",
+      "streets": "ONE WAY STREET AND KALIMAY AMITIE",
+      "from": "2026-10-18T14:00:00.000Z",
+      "to": "2026-10-17T20:00:00.000Z",
+      "id": "ca1f7201214cc83d0e01c066ba3ace3d"
+    },
     {
       "date": "Le dimanche 6 septembre 2026 de  18:00:00 à  22:30:00",
       "streets": "EN PARTIE ROUTE ROYALE EN DIRECTION GOOKOOLAH DANS LES ENVIRONS DORTOIRE ET LES ALENTOURS.",
