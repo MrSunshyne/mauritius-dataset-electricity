@@ -2,11 +2,18 @@
   "slug": "trou-d-eau-douce",
   "name": "TROU D-EAU DOUCE",
   "district": "flacq",
-  "generated": "2026-10-19T11:26:30.578Z",
-  "outageCount": 15,
+  "generated": "2026-10-19T17:52:57.150Z",
+  "outageCount": 16,
   "firstOutage": "2025-10-27",
-  "lastOutage": "2026-08-29",
+  "lastOutage": "2026-10-19",
   "outages": [
+    {
+      "date": "Le lundi 19 octobre 2026 de  18:30:00 à  21:30:00",
+      "streets": "Trou DEau Douce, Palmar, Belle Mare, Pointe De Flacq",
+      "from": "2026-10-19T14:30:00.000Z",
+      "to": "2026-10-19T17:30:00.000Z",
+      "id": "a6f7770a2b383eaa33bba00f3c22832f"
+    },
     {
       "date": "Le samedi 29 août 2026 de  07:00:00 à  12:00:00",
       "streets": "CHASEE BEAU RIVAGE ET ILE AUX CERF",

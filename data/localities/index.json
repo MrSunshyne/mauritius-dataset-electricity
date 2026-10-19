@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-19T11:26:30.584Z",
+  "generated": "2026-10-19T17:52:57.156Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -1006,10 +1006,10 @@
       "slug": "central-flacq",
       "name": "CENTRAL FLACQ",
       "district": "flacq",
-      "outageCount": 79,
+      "outageCount": 80,
       "file": "central-flacq.json",
       "firstOutage": "2022-03-13",
-      "lastOutage": "2026-09-30"
+      "lastOutage": "2026-10-19"
     },
     {
       "slug": "chamarel",
@@ -3931,10 +3931,10 @@
       "slug": "trou-d-eau-douce",
       "name": "TROU D-EAU DOUCE",
       "district": "flacq",
-      "outageCount": 15,
+      "outageCount": 16,
       "file": "trou-d-eau-douce.json",
       "firstOutage": "2025-10-27",
-      "lastOutage": "2026-08-29"
+      "lastOutage": "2026-10-19"
     },
     {
       "slug": "tyack",
