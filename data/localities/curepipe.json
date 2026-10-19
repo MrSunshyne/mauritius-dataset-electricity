@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-10-18T19:47:51.536Z",
-  "outageCount": 246,
+  "generated": "2026-10-19T11:26:30.496Z",
+  "outageCount": 247,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-10-15",
+  "lastOutage": "2026-10-19",
   "outages": [
+    {
+      "date": "Le lundi 19 octobre 2026 de  16:00:00 à  18:00:00",
+      "streets": "Partie de la Rue Pope Henessy, Route Jardin, Rue Cossigny, Rue Remono, College Lane, Rue Dr Edwards, et Rue Victor Lamarque, Rue Sir Gaëtan Duval, Rue Naz, Rue Emile Sauzier, Rue Sir William Newton, Rue Raffray, Morc Piat",
+      "from": "2026-10-19T12:00:00.000Z",
+      "to": "2026-10-19T14:00:00.000Z",
+      "id": "ab1b7b938537a7eaab28c143550512f0"
+    },
     {
       "date": "Le jeudi 15 octobre 2026 de  13:00:00 à  15:00:00",
       "streets": "Partie de la Rue Pope Henessy, Route Jardin, Rue Cossigny, Rue Remono, College Lane, Rue Dr Edwards, et Rue Victor Lamarque, Rue Sir Gaëtan Duval, Rue Naz, Rue Emile Sauzier, Rue Sir William Newton, Rue Raffray, Morc Piat",

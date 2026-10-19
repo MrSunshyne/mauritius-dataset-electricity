@@ -2,11 +2,18 @@
   "slug": "camp-de-masque-pave",
   "name": "CAMP DE MASQUE PAVE",
   "district": "flacq",
-  "generated": "2026-10-18T19:47:51.522Z",
-  "outageCount": 16,
+  "generated": "2026-10-19T11:26:30.481Z",
+  "outageCount": 17,
   "firstOutage": "2022-09-07",
-  "lastOutage": "2026-10-15",
+  "lastOutage": "2026-10-19",
   "outages": [
+    {
+      "date": "Le lundi 19 octobre 2026 de  14:50:00 à  15:45:00",
+      "streets": "DANS LES ENVIRONS MONTAGNE FAYENCE.",
+      "from": "2026-10-19T10:50:00.000Z",
+      "to": "2026-10-19T11:45:00.000Z",
+      "id": "30529d3f95e82ee5000dad87f9ab7120"
+    },
     {
       "date": "Le jeudi 15 octobre 2026 de  10:00:00 à  10:20:00",
       "streets": "CAMP DE MASQUE PAVE",

@@ -2,11 +2,18 @@
   "slug": "highlands",
   "name": "HIGHLANDS",
   "district": "plainewilhems",
-  "generated": "2026-10-18T19:47:51.551Z",
-  "outageCount": 87,
+  "generated": "2026-10-19T11:26:30.513Z",
+  "outageCount": 88,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2026-10-04",
+  "lastOutage": "2026-10-19",
   "outages": [
+    {
+      "date": "Le lundi 19 octobre 2026 de  13:00:00 à  14:30:00",
+      "streets": "Mosque Road",
+      "from": "2026-10-19T09:00:00.000Z",
+      "to": "2026-10-19T10:30:00.000Z",
+      "id": "71f0a3f4e19b476a708bbda5b207c622"
+    },
     {
       "date": "Le dimanche 4 octobre 2026 de  08:30:00 à  11:00:00",
       "streets": "Morcellement Soobratty à Highlands",

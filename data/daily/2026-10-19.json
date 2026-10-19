@@ -1,9 +1,19 @@
 {
   "date": "2026-10-19",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-18T19:47:51.489Z",
-  "outageCount": 1,
+  "generated": "2026-10-19T11:26:30.447Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le lundi 19 octobre 2026 de  14:50:00 à  15:45:00",
+      "locality": "CAMP DE MASQUE PAVE",
+      "localitySlug": "camp-de-masque-pave",
+      "streets": "DANS LES ENVIRONS MONTAGNE FAYENCE.",
+      "district": "flacq",
+      "from": "2026-10-19T10:50:00.000Z",
+      "to": "2026-10-19T11:45:00.000Z",
+      "id": "30529d3f95e82ee5000dad87f9ab7120"
+    },
     {
       "date": "Le lundi 19 octobre 2026 de  09:00:00 à  15:00:00",
       "locality": "FOREST SIDE",
@@ -13,6 +23,26 @@
       "from": "2026-10-19T05:00:00.000Z",
       "to": "2026-10-19T11:00:00.000Z",
       "id": "5357dff69d613e75603dc97db0a985f3"
+    },
+    {
+      "date": "Le lundi 19 octobre 2026 de  13:00:00 à  14:30:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "Mosque Road",
+      "district": "plainewilhems",
+      "from": "2026-10-19T09:00:00.000Z",
+      "to": "2026-10-19T10:30:00.000Z",
+      "id": "71f0a3f4e19b476a708bbda5b207c622"
+    },
+    {
+      "date": "Le lundi 19 octobre 2026 de  16:00:00 à  18:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "Partie de la Rue Pope Henessy, Route Jardin, Rue Cossigny, Rue Remono, College Lane, Rue Dr Edwards, et Rue Victor Lamarque, Rue Sir Gaëtan Duval, Rue Naz, Rue Emile Sauzier, Rue Sir William Newton, Rue Raffray, Morc Piat",
+      "district": "plainewilhems",
+      "from": "2026-10-19T12:00:00.000Z",
+      "to": "2026-10-19T14:00:00.000Z",
+      "id": "ab1b7b938537a7eaab28c143550512f0"
     }
   ]
 }
