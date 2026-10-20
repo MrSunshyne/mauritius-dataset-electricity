@@ -2,11 +2,18 @@
   "slug": "yemen",
   "name": "YEMEN",
   "district": "blackriver",
-  "generated": "2026-10-19T21:48:18.297Z",
-  "outageCount": 8,
+  "generated": "2026-10-20T10:32:42.965Z",
+  "outageCount": 9,
   "firstOutage": "2022-05-13",
-  "lastOutage": "2025-10-07",
+  "lastOutage": "2026-10-21",
   "outages": [
+    {
+      "date": "Le mercredi 21 octobre 2026 de  08:30:00 à  15:30:00",
+      "streets": "WAHALA PUMPING, YEMEN CAMP ET CAMPEMENT DE CHASSE",
+      "from": "2026-10-21T04:30:00.000Z",
+      "to": "2026-10-21T11:30:00.000Z",
+      "id": "16f885eaf2af74bd492ec27c26c79c88"
+    },
     {
       "date": "Le mardi 7 octobre 2025 de  08:30:00 à  15:00:00",
       "streets": "ANTENNA TELECOM",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-19T21:48:18.297Z",
+  "generated": "2026-10-20T10:32:42.965Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -286,10 +286,10 @@
       "slug": "beau-bassin",
       "name": "BEAU BASSIN",
       "district": "plainewilhems",
-      "outageCount": 208,
+      "outageCount": 209,
       "file": "beau-bassin.json",
       "firstOutage": "2022-03-25",
-      "lastOutage": "2026-10-15"
+      "lastOutage": "2026-10-20"
     },
     {
       "slug": "beau-bois",
@@ -4129,10 +4129,10 @@
       "slug": "yemen",
       "name": "YEMEN",
       "district": "blackriver",
-      "outageCount": 8,
+      "outageCount": 9,
       "file": "yemen.json",
       "firstOutage": "2022-05-13",
-      "lastOutage": "2025-10-07"
+      "lastOutage": "2026-10-21"
     }
   ]
 }
