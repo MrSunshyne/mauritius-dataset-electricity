@@ -2,8 +2,8 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-10-20T10:32:42.961Z",
-  "outageCount": 275,
+  "generated": "2026-10-20T15:25:09.844Z",
+  "outageCount": 276,
   "firstOutage": "2022-03-17",
   "lastOutage": "2026-10-25",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-10-25T04:30:00.000Z",
       "to": "2026-10-25T13:00:00.000Z",
       "id": "769ee674b24121d053bd7e06600e9a9b"
+    },
+    {
+      "date": "Le jeudi 22 octobre 2026 de  13:30:00 à  17:00:00",
+      "streets": "Une partie Centre de Vacoas, une partie de Maurice Cure Lane, une partie de Lamberty Road",
+      "from": "2026-10-22T09:30:00.000Z",
+      "to": "2026-10-22T13:00:00.000Z",
+      "id": "d69ac783a9ac360ec77b98a9573013bc"
     },
     {
       "date": "Le jeudi 15 octobre 2026 de  08:30:00 à  16:00:00",

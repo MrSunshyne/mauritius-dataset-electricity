@@ -1,9 +1,19 @@
 {
   "date": "2026-10-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-20T10:32:42.831Z",
-  "outageCount": 1,
+  "generated": "2026-10-20T15:25:09.704Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le mardi 20 octobre 2026 de  16:10:00 à  17:15:00",
+      "locality": "FOND DU SAC",
+      "localitySlug": "fond-du-sac",
+      "streets": "Seeneevassen Road",
+      "district": "pamplemousses",
+      "from": "2026-10-20T12:10:00.000Z",
+      "to": "2026-10-20T13:15:00.000Z",
+      "id": "1a29821ae4b9f5a73f29b629c9d3a7a4"
+    },
     {
       "date": "Le mardi 20 octobre 2026 de  08:30:00 à  13:30:00",
       "locality": "BEAU BASSIN",

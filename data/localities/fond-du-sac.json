@@ -2,11 +2,18 @@
   "slug": "fond-du-sac",
   "name": "FOND DU SAC",
   "district": "pamplemousses",
-  "generated": "2026-10-20T10:32:42.891Z",
-  "outageCount": 46,
+  "generated": "2026-10-20T15:25:09.764Z",
+  "outageCount": 47,
   "firstOutage": "2022-06-16",
-  "lastOutage": "2026-07-28",
+  "lastOutage": "2026-10-20",
   "outages": [
+    {
+      "date": "Le mardi 20 octobre 2026 de  16:10:00 à  17:15:00",
+      "streets": "Seeneevassen Road",
+      "from": "2026-10-20T12:10:00.000Z",
+      "to": "2026-10-20T13:15:00.000Z",
+      "id": "1a29821ae4b9f5a73f29b629c9d3a7a4"
+    },
     {
       "date": "Le mardi 28 juillet 2026 de  10:00:00 à  11:30:00",
       "streets": "EN PARTIE ROYAL RD, SCHOOL RD, DIAGONAL RD, S.CHANDRA BOSE ST ET LES ALENTOURS",

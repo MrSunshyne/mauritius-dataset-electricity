@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T10:32:42.965Z",
+  "generated": "2026-10-20T15:25:09.848Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -1501,10 +1501,10 @@
       "slug": "fond-du-sac",
       "name": "FOND DU SAC",
       "district": "pamplemousses",
-      "outageCount": 46,
+      "outageCount": 47,
       "file": "fond-du-sac.json",
       "firstOutage": "2022-06-16",
-      "lastOutage": "2026-07-28"
+      "lastOutage": "2026-10-20"
     },
     {
       "slug": "fond-la-bonte",
@@ -3490,10 +3490,10 @@
       "slug": "rodrigues",
       "name": "RODRIGUES",
       "district": "rodrigues",
-      "outageCount": 285,
+      "outageCount": 286,
       "file": "rodrigues.json",
       "firstOutage": "2022-03-15",
-      "lastOutage": "2026-10-18"
+      "lastOutage": "2026-10-21"
     },
     {
       "slug": "rose-belle",
@@ -3994,7 +3994,7 @@
       "slug": "vacoas",
       "name": "VACOAS",
       "district": "plainewilhems",
-      "outageCount": 275,
+      "outageCount": 276,
       "file": "vacoas.json",
       "firstOutage": "2022-03-17",
       "lastOutage": "2026-10-25"

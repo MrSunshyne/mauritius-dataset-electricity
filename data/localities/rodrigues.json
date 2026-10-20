@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-10-20T10:32:42.944Z",
-  "outageCount": 285,
+  "generated": "2026-10-20T15:25:09.825Z",
+  "outageCount": 286,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-10-18",
+  "lastOutage": "2026-10-21",
   "outages": [
+    {
+      "date": "Le mercredi 21 octobre 2026 de  08:30:00 à  15:00:00",
+      "streets": "Grand La Fouche Corail",
+      "from": "2026-10-21T04:30:00.000Z",
+      "to": "2026-10-21T11:00:00.000Z",
+      "id": "cec3afb6c2247e17b0d7b217951cb104"
+    },
     {
       "date": "Le dimanche 18 octobre 2026 de  08:30:00 à  15:00:00",
       "streets": "Camp Du Roi, Jardin Mamzel, Creve Coeur, Fond La Digue, Montagne Cabris Est et Roseaux",
