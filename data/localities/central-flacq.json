@@ -2,11 +2,18 @@
   "slug": "central-flacq",
   "name": "CENTRAL FLACQ",
   "district": "flacq",
-  "generated": "2026-10-20T15:25:09.749Z",
-  "outageCount": 80,
+  "generated": "2026-10-20T19:41:26.501Z",
+  "outageCount": 81,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-10-19",
+  "lastOutage": "2026-10-20",
   "outages": [
+    {
+      "date": "Le mardi 20 octobre 2026 de  20:50:00 à  00:00:00",
+      "streets": "MORC BOULET ROUGE",
+      "from": "2026-10-20T16:50:00.000Z",
+      "to": "2026-10-19T20:00:00.000Z",
+      "id": "bb77253855c0d26ccdadea103d07a9e5"
+    },
     {
       "date": "Le lundi 19 octobre 2026 de  18:30:00 à  21:30:00",
       "streets": "Bonne Mere, Camp Garreau, Boulet Rouge, Plaine des Gersigny, Riche Mare, Centre de Flacq, Argy, Boutique Cocos, Isidore Rose, Camp Marcelin, Quatre Cocos, Mare La Chaux, Palmar",

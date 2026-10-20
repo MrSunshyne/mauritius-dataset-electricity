@@ -1,9 +1,19 @@
 {
   "date": "2026-10-20",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-20T15:25:09.704Z",
-  "outageCount": 2,
+  "generated": "2026-10-20T19:41:26.478Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le mardi 20 octobre 2026 de  20:50:00 à  00:00:00",
+      "locality": "CENTRAL FLACQ",
+      "localitySlug": "central-flacq",
+      "streets": "MORC BOULET ROUGE",
+      "district": "flacq",
+      "from": "2026-10-20T16:50:00.000Z",
+      "to": "2026-10-19T20:00:00.000Z",
+      "id": "bb77253855c0d26ccdadea103d07a9e5"
+    },
     {
       "date": "Le mardi 20 octobre 2026 de  16:10:00 à  17:15:00",
       "locality": "FOND DU SAC",
