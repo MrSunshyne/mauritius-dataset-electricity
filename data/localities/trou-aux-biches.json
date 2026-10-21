@@ -2,11 +2,18 @@
   "slug": "trou-aux-biches",
   "name": "TROU AUX BICHES",
   "district": "pamplemousses",
-  "generated": "2026-10-21T10:45:17.344Z",
-  "outageCount": 70,
+  "generated": "2026-10-21T15:42:37.590Z",
+  "outageCount": 71,
   "firstOutage": "2022-04-10",
-  "lastOutage": "2026-09-19",
+  "lastOutage": "2026-10-22",
   "outages": [
+    {
+      "date": "Le jeudi 22 octobre 2026 de  09:30:00 à  15:30:00",
+      "streets": "Morc Jhuboo a Trou aux Biches",
+      "from": "2026-10-22T05:30:00.000Z",
+      "to": "2026-10-22T11:30:00.000Z",
+      "id": "1f9dc5bfbc822784b7b6975be8070e95"
+    },
     {
       "date": "Le samedi 19 septembre 2026 de  08:30:00 à  12:00:00",
       "streets": "Trou aux Biches dans les environs de Supermarche Popo, Morc Mascareigne, Morc Tobago,Morc Ellaya, Morc Astitva, Morc Ramdhany, Coastal road Pointe aux Biches et Morc Fairways Pointe aux Piments",

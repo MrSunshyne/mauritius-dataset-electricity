@@ -1,9 +1,19 @@
 {
   "date": "2026-10-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-21T10:45:17.214Z",
-  "outageCount": 2,
+  "generated": "2026-10-21T15:42:37.465Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le dimanche 25 octobre 2026 de  08:30:00 à  16:00:00",
+      "locality": "MORC SAINT ANDRE",
+      "localitySlug": "morc-saint-andre",
+      "streets": "Royal rd, Morc St Andre dans les environs de Lolo Supermarket, Tropical Cube, DAV College, Morc VRS et hamlet Road",
+      "district": "pamplemousses",
+      "from": "2026-10-25T04:30:00.000Z",
+      "to": "2026-10-25T12:00:00.000Z",
+      "id": "ed01df326f560f526fc4ac6ef7243bc8"
+    },
     {
       "date": "Le dimanche 25 octobre 2026 de  08:30:00 à  17:00:00",
       "locality": "VACOAS",

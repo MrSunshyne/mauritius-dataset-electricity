@@ -1,9 +1,19 @@
 {
   "date": "2026-10-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-21T10:45:17.214Z",
-  "outageCount": 2,
+  "generated": "2026-10-21T15:42:37.465Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le jeudi 22 octobre 2026 de  09:30:00 à  15:30:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "Morc Jhuboo a Trou aux Biches",
+      "district": "pamplemousses",
+      "from": "2026-10-22T05:30:00.000Z",
+      "to": "2026-10-22T11:30:00.000Z",
+      "id": "1f9dc5bfbc822784b7b6975be8070e95"
+    },
     {
       "date": "Le jeudi 22 octobre 2026 de  13:30:00 à  17:00:00",
       "locality": "VACOAS",
