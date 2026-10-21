@@ -1,8 +1,8 @@
 {
   "date": "2026-10-21",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-20T19:41:26.478Z",
-  "outageCount": 2,
+  "generated": "2026-10-21T10:45:17.214Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le mercredi 21 octobre 2026 de  08:30:00 à  15:30:00",
@@ -13,6 +13,46 @@
       "from": "2026-10-21T04:30:00.000Z",
       "to": "2026-10-21T11:30:00.000Z",
       "id": "16f885eaf2af74bd492ec27c26c79c88"
+    },
+    {
+      "date": "Le mercredi 21 octobre 2026 de  09:30:00 à  14:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "MORC TERRE ALBION",
+      "district": "blackriver",
+      "from": "2026-10-21T05:30:00.000Z",
+      "to": "2026-10-21T10:00:00.000Z",
+      "id": "0563415be02a388dc5f751c769a23359"
+    },
+    {
+      "date": "Le mercredi 21 octobre 2026 de  15:30:00 à  17:30:00",
+      "locality": "BELLE MARE",
+      "localitySlug": "belle-mare",
+      "streets": "Belle Mare et une partie de Pointe de Flacq.",
+      "district": "flacq",
+      "from": "2026-10-21T11:30:00.000Z",
+      "to": "2026-10-21T13:30:00.000Z",
+      "id": "0cdef6ea6598b55306b5656692a021d9"
+    },
+    {
+      "date": "Le mercredi 21 octobre 2026 de  09:00:00 à  14:00:00",
+      "locality": "MONTAGNE BLANCHE",
+      "localitySlug": "montagne-blanche",
+      "streets": "Partie de la Rue Chaillette",
+      "district": "moka",
+      "from": "2026-10-21T05:00:00.000Z",
+      "to": "2026-10-21T10:00:00.000Z",
+      "id": "30657efe0ee33d92151f0c3fec93daef"
+    },
+    {
+      "date": "Le mercredi 21 octobre 2026 de  09:00:00 à  13:00:00",
+      "locality": "LA MARIE",
+      "localitySlug": "la-marie",
+      "streets": "BERTHAUD LANE-CREMATION LANE-LA MARIE RD LA MARIE",
+      "district": "plainewilhems",
+      "from": "2026-10-21T05:00:00.000Z",
+      "to": "2026-10-21T09:00:00.000Z",
+      "id": "bc77b62a983bce0495f0a65638ed1965"
     },
     {
       "date": "Le mercredi 21 octobre 2026 de  08:30:00 à  15:00:00",

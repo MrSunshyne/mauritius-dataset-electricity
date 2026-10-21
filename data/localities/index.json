@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T19:41:26.552Z",
+  "generated": "2026-10-21T10:45:17.351Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -25,10 +25,10 @@
       "slug": "albion",
       "name": "ALBION",
       "district": "blackriver",
-      "outageCount": 137,
+      "outageCount": 138,
       "file": "albion.json",
       "firstOutage": "2022-06-06",
-      "lastOutage": "2026-10-17"
+      "lastOutage": "2026-10-21"
     },
     {
       "slug": "allee-brillant-castel",
@@ -421,10 +421,10 @@
       "slug": "belle-mare",
       "name": "BELLE MARE",
       "district": "flacq",
-      "outageCount": 34,
+      "outageCount": 35,
       "file": "belle-mare.json",
       "firstOutage": "2022-08-07",
-      "lastOutage": "2026-08-02"
+      "lastOutage": "2026-10-21"
     },
     {
       "slug": "belle-rive",
@@ -1564,10 +1564,10 @@
       "slug": "goodlands",
       "name": "GOODLANDS",
       "district": "rivieredurempart",
-      "outageCount": 150,
+      "outageCount": 151,
       "file": "goodlands.json",
       "firstOutage": "2022-03-27",
-      "lastOutage": "2026-10-13"
+      "lastOutage": "2026-10-22"
     },
     {
       "slug": "grand-bassin",
@@ -1960,10 +1960,10 @@
       "slug": "la-marie",
       "name": "LA MARIE",
       "district": "plainewilhems",
-      "outageCount": 68,
+      "outageCount": 69,
       "file": "la-marie.json",
       "firstOutage": "2022-07-07",
-      "lastOutage": "2026-10-15"
+      "lastOutage": "2026-10-21"
     },
     {
       "slug": "la-mivoie",
@@ -2167,10 +2167,10 @@
       "slug": "mahebourg",
       "name": "MAHEBOURG",
       "district": "grandport",
-      "outageCount": 91,
+      "outageCount": 92,
       "file": "mahebourg.json",
       "firstOutage": "2022-04-07",
-      "lastOutage": "2026-10-18"
+      "lastOutage": "2026-10-24"
     },
     {
       "slug": "malabar",
@@ -2500,10 +2500,10 @@
       "slug": "montagne-blanche",
       "name": "MONTAGNE BLANCHE",
       "district": "moka",
-      "outageCount": 46,
+      "outageCount": 47,
       "file": "montagne-blanche.json",
       "firstOutage": "2022-03-23",
-      "lastOutage": "2026-10-09"
+      "lastOutage": "2026-10-21"
     },
     {
       "slug": "montagne-cabris-est",
@@ -3391,10 +3391,10 @@
       "slug": "riviere-des-anguilles",
       "name": "RIVIERE DES ANGUILLES",
       "district": "savanne",
-      "outageCount": 45,
+      "outageCount": 46,
       "file": "riviere-des-anguilles.json",
       "firstOutage": "2022-04-13",
-      "lastOutage": "2026-09-01"
+      "lastOutage": "2026-10-25"
     },
     {
       "slug": "riviere-des-creoles",
@@ -3778,10 +3778,10 @@
       "slug": "tamarin",
       "name": "TAMARIN",
       "district": "blackriver",
-      "outageCount": 89,
+      "outageCount": 90,
       "file": "tamarin.json",
       "firstOutage": "2022-03-13",
-      "lastOutage": "2026-10-05"
+      "lastOutage": "2026-10-23"
     },
     {
       "slug": "tamarind-falls",

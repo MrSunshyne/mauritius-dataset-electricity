@@ -2,11 +2,18 @@
   "slug": "albion",
   "name": "ALBION",
   "district": "blackriver",
-  "generated": "2026-10-20T19:41:26.488Z",
-  "outageCount": 137,
+  "generated": "2026-10-21T10:45:17.231Z",
+  "outageCount": 138,
   "firstOutage": "2022-06-06",
-  "lastOutage": "2026-10-17",
+  "lastOutage": "2026-10-21",
   "outages": [
+    {
+      "date": "Le mercredi 21 octobre 2026 de  09:30:00 à  14:00:00",
+      "streets": "MORC TERRE ALBION",
+      "from": "2026-10-21T05:30:00.000Z",
+      "to": "2026-10-21T10:00:00.000Z",
+      "id": "0563415be02a388dc5f751c769a23359"
+    },
     {
       "date": "Le samedi 17 octobre 2026 de  09:15:00 à  13:00:00",
       "streets": "AVE BARACUDA, AVE REQUIN, LA PLAGE ALBION ET LES ALENTOURS",

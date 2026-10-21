@@ -2,11 +2,18 @@
   "slug": "tamarin",
   "name": "TAMARIN",
   "district": "blackriver",
-  "generated": "2026-10-20T19:41:26.546Z",
-  "outageCount": 89,
+  "generated": "2026-10-21T10:45:17.339Z",
+  "outageCount": 90,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-10-05",
+  "lastOutage": "2026-10-23",
   "outages": [
+    {
+      "date": "Le vendredi 23 octobre 2026 de  08:30:00 à  16:30:00",
+      "streets": "EDC TAMARIN, AVENUE CAPITAINE, AVENUE JACARANDAS ET SALINEO",
+      "from": "2026-10-23T04:30:00.000Z",
+      "to": "2026-10-23T12:30:00.000Z",
+      "id": "5cb278807af76c6eca3876ee8e997d76"
+    },
     {
       "date": "Le lundi 5 octobre 2026 de  08:30:00 à  16:00:00",
       "streets": "MORC CARLOS",

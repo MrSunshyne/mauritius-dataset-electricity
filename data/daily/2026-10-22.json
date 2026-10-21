@@ -1,8 +1,8 @@
 {
   "date": "2026-10-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-20T19:41:26.478Z",
-  "outageCount": 1,
+  "generated": "2026-10-21T10:45:17.214Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le jeudi 22 octobre 2026 de  13:30:00 à  17:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-10-22T09:30:00.000Z",
       "to": "2026-10-22T13:00:00.000Z",
       "id": "d69ac783a9ac360ec77b98a9573013bc"
+    },
+    {
+      "date": "Le jeudi 22 octobre 2026 de  09:00:00 à  13:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "MORCELLEMENT PETIT VILLAGE- GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2026-10-22T05:00:00.000Z",
+      "to": "2026-10-22T09:00:00.000Z",
+      "id": "37baf1fb7fc51d8799c9c3dfd9ee7bd1"
     }
   ]
 }

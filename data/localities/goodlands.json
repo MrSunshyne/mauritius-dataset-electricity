@@ -2,11 +2,18 @@
   "slug": "goodlands",
   "name": "GOODLANDS",
   "district": "rivieredurempart",
-  "generated": "2026-10-20T19:41:26.512Z",
-  "outageCount": 150,
+  "generated": "2026-10-21T10:45:17.276Z",
+  "outageCount": 151,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-10-13",
+  "lastOutage": "2026-10-22",
   "outages": [
+    {
+      "date": "Le jeudi 22 octobre 2026 de  09:00:00 à  13:00:00",
+      "streets": "MORCELLEMENT PETIT VILLAGE- GOODLANDS",
+      "from": "2026-10-22T05:00:00.000Z",
+      "to": "2026-10-22T09:00:00.000Z",
+      "id": "37baf1fb7fc51d8799c9c3dfd9ee7bd1"
+    },
     {
       "date": "Le mardi 13 octobre 2026 de  08:30:00 à  16:00:00",
       "streets": "MORC PETIT VILLAGE",

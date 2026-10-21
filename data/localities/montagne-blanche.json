@@ -2,11 +2,18 @@
   "slug": "montagne-blanche",
   "name": "MONTAGNE BLANCHE",
   "district": "moka",
-  "generated": "2026-10-20T19:41:26.524Z",
-  "outageCount": 46,
+  "generated": "2026-10-21T10:45:17.300Z",
+  "outageCount": 47,
   "firstOutage": "2022-03-23",
-  "lastOutage": "2026-10-09",
+  "lastOutage": "2026-10-21",
   "outages": [
+    {
+      "date": "Le mercredi 21 octobre 2026 de  09:00:00 à  14:00:00",
+      "streets": "Partie de la Rue Chaillette",
+      "from": "2026-10-21T05:00:00.000Z",
+      "to": "2026-10-21T10:00:00.000Z",
+      "id": "30657efe0ee33d92151f0c3fec93daef"
+    },
     {
       "date": "Le vendredi 9 octobre 2026 de  18:00:00 à  22:00:00",
       "streets": "CHAILLET ROAD & SURROUNDINGS",
