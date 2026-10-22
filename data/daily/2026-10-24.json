@@ -1,8 +1,8 @@
 {
   "date": "2026-10-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-22T10:46:27.178Z",
-  "outageCount": 5,
+  "generated": "2026-10-22T15:42:20.034Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le samedi 24 octobre 2026 de  08:30:00 à  15:30:00",
@@ -33,6 +33,16 @@
       "from": "2026-10-24T05:00:00.000Z",
       "to": "2026-10-24T10:00:00.000Z",
       "id": "047f0066125988e372341d141086ee25"
+    },
+    {
+      "date": "Le samedi 24 octobre 2026 de  08:30:00 à  14:30:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "MONTREAL, POLICE QUARTERS NO 1 et NO 2, AVE BALSAMINE, AVE CERISIER, AVE BADAMIER, AVE BAOBAB ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2026-10-24T04:30:00.000Z",
+      "to": "2026-10-24T10:30:00.000Z",
+      "id": "05f42d060726fcded2ca67349aca8014"
     },
     {
       "date": "Le samedi 24 octobre 2026 de  08:30:00 à  14:00:00",
