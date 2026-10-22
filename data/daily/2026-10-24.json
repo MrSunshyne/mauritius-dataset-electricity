@@ -1,9 +1,19 @@
 {
   "date": "2026-10-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-21T19:44:25.235Z",
-  "outageCount": 2,
+  "generated": "2026-10-22T10:46:27.178Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le samedi 24 octobre 2026 de  08:30:00 à  15:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "ZONE INDUSTRIELLE BAMBOUS, AVE LIMIT, AVE DES FLEURS, AVE LAVANDIERE, NHDC BAMBOUS, RESIDENCES GEOFFROY, RESIDENCES BAMBOULA, MORC VRS BAMBOUS ET UNE PARTIE DE LA ROUTE GEOFFROY",
+      "district": "blackriver",
+      "from": "2026-10-24T04:30:00.000Z",
+      "to": "2026-10-24T11:30:00.000Z",
+      "id": "a50487c370aed8cb427903c1c2ef6908"
+    },
     {
       "date": "Le samedi 24 octobre 2026 de  08:30:00 à  17:00:00",
       "locality": "MAHEBOURG",
@@ -13,6 +23,26 @@
       "from": "2026-10-24T04:30:00.000Z",
       "to": "2026-10-24T13:00:00.000Z",
       "id": "6a7f9b755ceefc6c454d6ea6f004952d"
+    },
+    {
+      "date": "Le samedi 24 octobre 2026 de  09:00:00 à  14:00:00",
+      "locality": "GLEN PARK",
+      "localitySlug": "glen-park",
+      "streets": "Part of Rempart Road,School Road,Diamant 6 Road",
+      "district": "plainewilhems",
+      "from": "2026-10-24T05:00:00.000Z",
+      "to": "2026-10-24T10:00:00.000Z",
+      "id": "047f0066125988e372341d141086ee25"
+    },
+    {
+      "date": "Le samedi 24 octobre 2026 de  08:30:00 à  14:00:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "SCHOENFELD ROAD, FIRST ROAD & CWA SHOENFELD RD, RIVIERE DU REMPART.",
+      "district": "rivieredurempart",
+      "from": "2026-10-24T04:30:00.000Z",
+      "to": "2026-10-24T10:00:00.000Z",
+      "id": "9456f1992e9f475981f6df98bf8af722"
     },
     {
       "date": "Le samedi 24 octobre 2026 de  11:30:00 à  14:00:00",

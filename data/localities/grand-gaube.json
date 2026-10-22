@@ -2,11 +2,18 @@
   "slug": "grand-gaube",
   "name": "GRAND GAUBE",
   "district": "rivieredurempart",
-  "generated": "2026-10-21T19:44:25.276Z",
-  "outageCount": 80,
+  "generated": "2026-10-22T10:46:27.248Z",
+  "outageCount": 81,
   "firstOutage": "2022-06-11",
-  "lastOutage": "2026-10-10",
+  "lastOutage": "2026-10-22",
   "outages": [
+    {
+      "date": "Le jeudi 22 octobre 2026 de  13:40:00 à  14:10:00",
+      "streets": "ARYA MANDIR RD, QUARTIER DES LAURIERS ET LES ALENTOURS",
+      "from": "2026-10-22T09:40:00.000Z",
+      "to": "2026-10-22T10:10:00.000Z",
+      "id": "3b5a19537f20fcd93d072e489ab88289"
+    },
     {
       "date": "Le samedi 10 octobre 2026 de  08:30:00 à  14:30:00",
       "streets": "GRAND GAUBE, COASTAL ROAD, MELVILLE",

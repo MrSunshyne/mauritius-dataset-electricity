@@ -2,11 +2,18 @@
   "slug": "deux-bras-new-grove",
   "name": "DEUX BRAS- NEW GROVE",
   "district": "grandport",
-  "generated": "2026-10-21T19:44:25.268Z",
-  "outageCount": 14,
+  "generated": "2026-10-22T10:46:27.235Z",
+  "outageCount": 15,
   "firstOutage": "2022-09-02",
-  "lastOutage": "2026-05-25",
+  "lastOutage": "2026-10-26",
   "outages": [
+    {
+      "date": "Le lundi 26 octobre 2026 de  09:00:00 à  17:00:00",
+      "streets": "Deux Bras et Morcellement Vrs 2 Balance",
+      "from": "2026-10-26T05:00:00.000Z",
+      "to": "2026-10-26T13:00:00.000Z",
+      "id": "473737f25d50a868bdd5ceaf8c07847d"
+    },
     {
       "date": "Le lundi 25 mai 2026 de  09:00:00 à  12:00:00",
       "streets": "Deux Bras Sugar Estate",

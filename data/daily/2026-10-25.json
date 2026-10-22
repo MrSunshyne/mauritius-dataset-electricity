@@ -1,9 +1,19 @@
 {
   "date": "2026-10-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-21T19:44:25.235Z",
-  "outageCount": 3,
+  "generated": "2026-10-22T10:46:27.178Z",
+  "outageCount": 7,
   "outages": [
+    {
+      "date": "Le dimanche 25 octobre 2026 de  09:00:00 à  16:00:00",
+      "locality": "SEBASTOPOL",
+      "localitySlug": "sebastopol",
+      "streets": "Branch Road Petit Paquet, Rue Cent Gaullettes, Rue Riverside, Rue Camp Bombaye, Rue Soodin, Rue Touriste, Rue Clavet et Resitance NHDC Sebastopol et ruelles avoisinantes",
+      "district": "flacq",
+      "from": "2026-10-25T05:00:00.000Z",
+      "to": "2026-10-25T12:00:00.000Z",
+      "id": "1c248ccaa2bea8e315ecf3c0754e8ef1"
+    },
     {
       "date": "Le dimanche 25 octobre 2026 de  08:30:00 à  16:00:00",
       "locality": "MORC SAINT ANDRE",
@@ -23,6 +33,36 @@
       "from": "2026-10-25T04:30:00.000Z",
       "to": "2026-10-25T13:00:00.000Z",
       "id": "769ee674b24121d053bd7e06600e9a9b"
+    },
+    {
+      "date": "Le dimanche 25 octobre 2026 de  08:30:00 à  17:00:00",
+      "locality": "MIDLANDS",
+      "localitySlug": "midlands",
+      "streets": "Googooly Poultry Farm, Processing Ltd, CWA Boreholes Bananes, Cahoolessur Farming, Midlands Football Ground, Sewsamba, Subway Fresh, Poultry Pen Sooklall et une partie du village de Bananes",
+      "district": "plainewilhems",
+      "from": "2026-10-25T04:30:00.000Z",
+      "to": "2026-10-25T13:00:00.000Z",
+      "id": "dc44ac6d968df71d1e7c688ba145367a"
+    },
+    {
+      "date": "Le dimanche 25 octobre 2026 de  10:00:00 à  14:00:00",
+      "locality": "PAILLOTTE",
+      "localitySlug": "paillotte",
+      "streets": "Part of Royal Rd Paillotte and Bamboo Lane",
+      "district": "plainewilhems",
+      "from": "2026-10-25T06:00:00.000Z",
+      "to": "2026-10-25T10:00:00.000Z",
+      "id": "119cdb5c06dfd613574ed3de9a1fe445"
+    },
+    {
+      "date": "Le dimanche 25 octobre 2026 de  09:00:00 à  11:00:00",
+      "locality": "GLEN PARK",
+      "localitySlug": "glen-park",
+      "streets": "Part of Henrietta Branch Rd,Part of La Marie Rd,Edoo no 1,2,3,Perier Rd, Des Vergues and Mumbai 4",
+      "district": "plainewilhems",
+      "from": "2026-10-25T05:00:00.000Z",
+      "to": "2026-10-25T07:00:00.000Z",
+      "id": "9121d6a92d765b3cdd2bf4698b1929db"
     },
     {
       "date": "Le dimanche 25 octobre 2026 de  08:30:00 à  15:00:00",

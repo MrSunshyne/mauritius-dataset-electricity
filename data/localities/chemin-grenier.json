@@ -2,11 +2,18 @@
   "slug": "chemin-grenier",
   "name": "CHEMIN GRENIER",
   "district": "savanne",
-  "generated": "2026-10-21T19:44:25.263Z",
-  "outageCount": 62,
+  "generated": "2026-10-22T10:46:27.225Z",
+  "outageCount": 63,
   "firstOutage": "2022-05-22",
-  "lastOutage": "2026-09-06",
+  "lastOutage": "2026-10-22",
   "outages": [
+    {
+      "date": "Le jeudi 22 octobre 2026 de  14:00:00 à  17:00:00",
+      "streets": "Chemin Grenier",
+      "from": "2026-10-22T10:00:00.000Z",
+      "to": "2026-10-22T13:00:00.000Z",
+      "id": "7c7fbfcf1d9a95afec7ef7c2bd9a9243"
+    },
     {
       "date": "Le dimanche 6 septembre 2026 de  12:30:00 à  16:30:00",
       "streets": "JUMBO RD, PLAYGROUND RD & SURROUNDINGS",

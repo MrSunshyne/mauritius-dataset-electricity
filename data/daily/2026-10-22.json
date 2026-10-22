@@ -1,9 +1,19 @@
 {
   "date": "2026-10-22",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-21T19:44:25.235Z",
-  "outageCount": 3,
+  "generated": "2026-10-22T10:46:27.177Z",
+  "outageCount": 6,
   "outages": [
+    {
+      "date": "Le jeudi 22 octobre 2026 de  15:30:00 à  17:00:00",
+      "locality": "GROS CAILLOUX",
+      "localitySlug": "gros-cailloux",
+      "streets": "GROS CAILLOUX, ALLE MANGUIRES, ALLE ROUSSAILLE, LA SOURCE LANE, JUGESSUR LANE, JAGATSING LANE, IMPASSE JUGGOO, BOSQUET RD, SOPHIE LANE, ESPACE JARDIN, QUALITY DECOR, MORC DOMAH, GENERAL CONSTRUCTION CANOT, PORKER ST MARTIN, CWA ST MARTIN et les environs",
+      "district": "blackriver",
+      "from": "2026-10-22T11:30:00.000Z",
+      "to": "2026-10-22T13:00:00.000Z",
+      "id": "97c3143831c4b184486c3b4abf4a8a6e"
+    },
     {
       "date": "Le jeudi 22 octobre 2026 de  09:30:00 à  15:30:00",
       "locality": "TROU AUX BICHES",
@@ -33,6 +43,26 @@
       "from": "2026-10-22T05:00:00.000Z",
       "to": "2026-10-22T09:00:00.000Z",
       "id": "37baf1fb7fc51d8799c9c3dfd9ee7bd1"
+    },
+    {
+      "date": "Le jeudi 22 octobre 2026 de  13:40:00 à  14:10:00",
+      "locality": "GRAND GAUBE",
+      "localitySlug": "grand-gaube",
+      "streets": "ARYA MANDIR RD, QUARTIER DES LAURIERS ET LES ALENTOURS",
+      "district": "rivieredurempart",
+      "from": "2026-10-22T09:40:00.000Z",
+      "to": "2026-10-22T10:10:00.000Z",
+      "id": "3b5a19537f20fcd93d072e489ab88289"
+    },
+    {
+      "date": "Le jeudi 22 octobre 2026 de  14:00:00 à  17:00:00",
+      "locality": "CHEMIN GRENIER",
+      "localitySlug": "chemin-grenier",
+      "streets": "Chemin Grenier",
+      "district": "savanne",
+      "from": "2026-10-22T10:00:00.000Z",
+      "to": "2026-10-22T13:00:00.000Z",
+      "id": "7c7fbfcf1d9a95afec7ef7c2bd9a9243"
     }
   ]
 }

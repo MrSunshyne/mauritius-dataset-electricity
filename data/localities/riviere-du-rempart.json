@@ -2,11 +2,18 @@
   "slug": "riviere-du-rempart",
   "name": "RIVIERE DU REMPART",
   "district": "rivieredurempart",
-  "generated": "2026-10-21T19:44:25.311Z",
-  "outageCount": 73,
+  "generated": "2026-10-22T10:46:27.301Z",
+  "outageCount": 74,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-09-07",
+  "lastOutage": "2026-10-24",
   "outages": [
+    {
+      "date": "Le samedi 24 octobre 2026 de  08:30:00 à  14:00:00",
+      "streets": "SCHOENFELD ROAD, FIRST ROAD & CWA SHOENFELD RD, RIVIERE DU REMPART.",
+      "from": "2026-10-24T04:30:00.000Z",
+      "to": "2026-10-24T10:00:00.000Z",
+      "id": "9456f1992e9f475981f6df98bf8af722"
+    },
     {
       "date": "Le lundi 7 septembre 2026 de  18:35:00 à  23:00:00",
       "streets": "Nanka,Temple,Kalimaye Roads",

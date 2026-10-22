@@ -2,11 +2,18 @@
   "slug": "gros-cailloux",
   "name": "GROS CAILLOUX",
   "district": "blackriver",
-  "generated": "2026-10-21T19:44:25.277Z",
-  "outageCount": 29,
+  "generated": "2026-10-22T10:46:27.250Z",
+  "outageCount": 30,
   "firstOutage": "2022-06-05",
-  "lastOutage": "2026-05-21",
+  "lastOutage": "2026-10-22",
   "outages": [
+    {
+      "date": "Le jeudi 22 octobre 2026 de  15:30:00 à  17:00:00",
+      "streets": "GROS CAILLOUX, ALLE MANGUIRES, ALLE ROUSSAILLE, LA SOURCE LANE, JUGESSUR LANE, JAGATSING LANE, IMPASSE JUGGOO, BOSQUET RD, SOPHIE LANE, ESPACE JARDIN, QUALITY DECOR, MORC DOMAH, GENERAL CONSTRUCTION CANOT, PORKER ST MARTIN, CWA ST MARTIN et les environs",
+      "from": "2026-10-22T11:30:00.000Z",
+      "to": "2026-10-22T13:00:00.000Z",
+      "id": "97c3143831c4b184486c3b4abf4a8a6e"
+    },
     {
       "date": "Le jeudi 21 mai 2026 de  16:00:00 à  17:30:00",
       "streets": "GROS CAILLOUX",
