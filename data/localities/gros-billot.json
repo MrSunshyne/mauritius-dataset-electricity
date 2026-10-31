@@ -2,11 +2,18 @@
   "slug": "gros-billot",
   "name": "GROS BILLOT",
   "district": "grandport",
-  "generated": "2026-10-22T15:42:20.099Z",
-  "outageCount": 5,
+  "generated": "2026-10-31T18:09:48.726Z",
+  "outageCount": 6,
   "firstOutage": "2022-04-21",
-  "lastOutage": "2026-04-14",
+  "lastOutage": "2026-10-31",
   "outages": [
+    {
+      "date": "Le samedi 31 octobre 2026 de  09:00:00 à  16:00:00",
+      "streets": "En partie Route Royal Gros Billot, Bois DOiseaux Road, Samputh Road, Oree Lane et Residence Le Bosquet",
+      "from": "2026-10-31T05:00:00.000Z",
+      "to": "2026-10-31T12:00:00.000Z",
+      "id": "b64196faacaabc25c5ab7aa8c62a0bfc"
+    },
     {
       "date": "Le mardi 14 avril 2026 de  09:15:00 à  14:00:00",
       "streets": "BOIS DOISEAU ROAD GROS BILLOT",

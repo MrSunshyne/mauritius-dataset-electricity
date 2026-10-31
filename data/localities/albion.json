@@ -2,11 +2,25 @@
   "slug": "albion",
   "name": "ALBION",
   "district": "blackriver",
-  "generated": "2026-10-22T15:42:20.051Z",
-  "outageCount": 138,
+  "generated": "2026-10-31T18:09:48.700Z",
+  "outageCount": 140,
   "firstOutage": "2022-06-06",
-  "lastOutage": "2026-10-21",
+  "lastOutage": "2026-10-30",
   "outages": [
+    {
+      "date": "Le vendredi 30 octobre 2026 de  13:00:00 à  14:00:00",
+      "streets": "VICTORY ALBION",
+      "from": "2026-10-30T09:00:00.000Z",
+      "to": "2026-10-30T10:00:00.000Z",
+      "id": "98ec42094ee28e73866ff715bb4d43e5"
+    },
+    {
+      "date": "Le lundi 26 octobre 2026 de  09:30:00 à  12:30:00",
+      "streets": "PART OF MORC TERRE D-ALBION",
+      "from": "2026-10-26T05:30:00.000Z",
+      "to": "2026-10-26T08:30:00.000Z",
+      "id": "254c390dc08d6658592601fd47d5c322"
+    },
     {
       "date": "Le mercredi 21 octobre 2026 de  09:30:00 à  14:00:00",
       "streets": "MORC TERRE ALBION",

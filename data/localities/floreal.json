@@ -2,11 +2,32 @@
   "slug": "floreal",
   "name": "FLOREAL",
   "district": "plainewilhems",
-  "generated": "2026-10-22T15:42:20.093Z",
-  "outageCount": 102,
+  "generated": "2026-10-31T18:09:48.721Z",
+  "outageCount": 105,
   "firstOutage": "2022-03-31",
-  "lastOutage": "2026-10-16",
+  "lastOutage": "2026-10-28",
   "outages": [
+    {
+      "date": "Le mercredi 28 octobre 2026 de  20:20:00 à  00:30:00",
+      "streets": "MORC MEDINE,REUNION,GIDC",
+      "from": "2026-10-28T16:20:00.000Z",
+      "to": "2026-10-27T20:30:00.000Z",
+      "id": "cc5ec8bdb979d4cd10f14937820dc7f4"
+    },
+    {
+      "date": "Le mardi 27 octobre 2026 de  22:30:00 à  03:00:00",
+      "streets": "RUE HAUSSE DE LA LOUVIERE ET DANS LES ENVIRONS RESIDENCE CRATER COURT TROU AUX CERFS.",
+      "from": "2026-10-27T18:30:00.000Z",
+      "to": "2026-10-26T23:00:00.000Z",
+      "id": "1122faacc34d1d32e2e2a98f4ae53774"
+    },
+    {
+      "date": "Le samedi 24 octobre 2026 de  12:00:00 à  14:00:00",
+      "streets": "CNR BERTHAUD / L LOUVIERE AVE FLOREAL",
+      "from": "2026-10-24T08:00:00.000Z",
+      "to": "2026-10-24T10:00:00.000Z",
+      "id": "108e29430019fceb5368318abc8ee21b"
+    },
     {
       "date": "Le vendredi 16 octobre 2026 de  12:00:00 à  15:00:00",
       "streets": "Partie dAvenue King George, Avenue John Kennedy, Rue Roger Pezzani, et Rue Hesket bell, Flat Silver Clouds, Flats Les Ternnants, Résidence de LIntendance, British High Commission, Flat Currimjee",

@@ -2,11 +2,18 @@
   "slug": "central-flacq",
   "name": "CENTRAL FLACQ",
   "district": "flacq",
-  "generated": "2026-10-22T15:42:20.076Z",
-  "outageCount": 81,
+  "generated": "2026-10-31T18:09:48.713Z",
+  "outageCount": 82,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-10-20",
+  "lastOutage": "2026-10-29",
   "outages": [
+    {
+      "date": "Le jeudi 29 octobre 2026 de  15:30:00 à  17:30:00",
+      "streets": "CASINO MIAMI ET LES ALENTOURS",
+      "from": "2026-10-29T11:30:00.000Z",
+      "to": "2026-10-29T13:30:00.000Z",
+      "id": "f7d1d0cde4820b0272490b820a0dad8c"
+    },
     {
       "date": "Le mardi 20 octobre 2026 de  20:50:00 à  00:00:00",
       "streets": "MORC BOULET ROUGE",

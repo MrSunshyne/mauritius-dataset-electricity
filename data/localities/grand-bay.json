@@ -2,11 +2,25 @@
   "slug": "grand-bay",
   "name": "GRAND BAY",
   "district": "rivieredurempart",
-  "generated": "2026-10-22T15:42:20.097Z",
-  "outageCount": 130,
+  "generated": "2026-10-31T18:09:48.723Z",
+  "outageCount": 132,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-10-17",
+  "lastOutage": "2026-10-28",
   "outages": [
+    {
+      "date": "Le mercredi 28 octobre 2026 de  19:15:00 à  21:00:00",
+      "streets": "CHEMIN GERANIUM GRAND BAY",
+      "from": "2026-10-28T15:15:00.000Z",
+      "to": "2026-10-28T17:00:00.000Z",
+      "id": "9a5b8ea1ee3ccdccc44d9dbcfea10fae"
+    },
+    {
+      "date": "Le lundi 26 octobre 2026 de  11:30:00 à  13:30:00",
+      "streets": "CHEMIN VINGT PIEDS,PETIT RAFFRAY",
+      "from": "2026-10-26T07:30:00.000Z",
+      "to": "2026-10-26T09:30:00.000Z",
+      "id": "ef289e0a6bfaccd63038df322401327f"
+    },
     {
       "date": "Le samedi 17 octobre 2026 de  16:30:00 à  20:30:00",
       "streets": "GERANIUM ROAD GRAND BAY",

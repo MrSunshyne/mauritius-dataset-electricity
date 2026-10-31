@@ -2,11 +2,18 @@
   "slug": "saint-julien-village",
   "name": "SAINT JULIEN VILLAGE",
   "district": "flacq",
-  "generated": "2026-10-22T15:42:20.156Z",
-  "outageCount": 15,
+  "generated": "2026-10-31T18:09:48.756Z",
+  "outageCount": 16,
   "firstOutage": "2023-01-04",
-  "lastOutage": "2026-08-10",
+  "lastOutage": "2026-10-24",
   "outages": [
+    {
+      "date": "Le samedi 24 octobre 2026 de  11:30:00 à  15:30:00",
+      "streets": "AVE DALIAH MORC RICHFOND ST JULIEN VILLAGE",
+      "from": "2026-10-24T07:30:00.000Z",
+      "to": "2026-10-24T11:30:00.000Z",
+      "id": "720b8b20f2e24ee72b9a35802195ec8a"
+    },
     {
       "date": "Le lundi 10 août 2026 de  11:00:00 à  14:00:00",
       "streets": "ST JULIEN VILLAGE DANS LES ALENTOURS DE RESTAURANT MANUEL",

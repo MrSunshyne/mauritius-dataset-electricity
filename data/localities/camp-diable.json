@@ -2,11 +2,32 @@
   "slug": "camp-diable",
   "name": "CAMP DIABLE",
   "district": "savanne",
-  "generated": "2026-10-22T15:42:20.070Z",
-  "outageCount": 27,
+  "generated": "2026-10-31T18:09:48.711Z",
+  "outageCount": 30,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-08-13",
+  "lastOutage": "2026-10-26",
   "outages": [
+    {
+      "date": "Le lundi 26 octobre 2026 de  12:00:00 à  13:00:00",
+      "streets": "CEMETERY,NHDC",
+      "from": "2026-10-26T08:00:00.000Z",
+      "to": "2026-10-26T09:00:00.000Z",
+      "id": "29928ebbb64bc769f213aa89bd895009"
+    },
+    {
+      "date": "Le lundi 26 octobre 2026 de  11:15:00 à  11:45:00",
+      "streets": "SHIVALA RD,MOSQUE RD, ROYAL RD,CHAPELLE ST,KARAMUTH LANE",
+      "from": "2026-10-26T07:15:00.000Z",
+      "to": "2026-10-26T07:45:00.000Z",
+      "id": "73ac873f6ece876dac1ed0b51e51cd5a"
+    },
+    {
+      "date": "Le lundi 26 octobre 2026 de  09:55:00 à  11:00:00",
+      "streets": "BAMBOUS ROAD, ILOT RD & SURROUNDINGS",
+      "from": "2026-10-26T05:55:00.000Z",
+      "to": "2026-10-26T07:00:00.000Z",
+      "id": "676aa9448443a7b1cd1f00fbde768ba0"
+    },
     {
       "date": "Le jeudi 13 août 2026 de  09:00:00 à  16:00:00",
       "streets": "Camp Diable habitant dans le périmètre et les rues suivantes :   Morc. Savannah, Morc. ENL, NHDC, Cite CHA, Chapelle Road, Shivala Road, Mosque Road, Karamuth Road, une partie de la Route Royale Camp Diable",

@@ -2,11 +2,18 @@
   "slug": "terre-rouge",
   "name": "TERRE ROUGE",
   "district": "pamplemousses",
-  "generated": "2026-10-22T15:42:20.165Z",
-  "outageCount": 115,
+  "generated": "2026-10-31T18:09:48.762Z",
+  "outageCount": 116,
   "firstOutage": "2022-03-14",
-  "lastOutage": "2026-09-19",
+  "lastOutage": "2026-10-24",
   "outages": [
+    {
+      "date": "Le samedi 24 octobre 2026 de  09:00:00 à  12:00:00",
+      "streets": "Dans les environs de School Lane",
+      "from": "2026-10-24T05:00:00.000Z",
+      "to": "2026-10-24T08:00:00.000Z",
+      "id": "ea9652b6077bf2af425e7a122d91ac03"
+    },
     {
       "date": "Le samedi 19 septembre 2026 de  12:30:00 à  15:00:00",
       "streets": "Terre Rouge dans les environs de Morc Greenpark et une partie de la route St Joseph et dans les environs Meuble Meunier",

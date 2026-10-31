@@ -2,11 +2,18 @@
   "slug": "balaclava",
   "name": "BALACLAVA",
   "district": "pamplemousses",
-  "generated": "2026-10-22T15:42:20.055Z",
-  "outageCount": 27,
+  "generated": "2026-10-31T18:09:48.702Z",
+  "outageCount": 28,
   "firstOutage": "2022-05-19",
-  "lastOutage": "2026-10-03",
+  "lastOutage": "2026-10-25",
   "outages": [
+    {
+      "date": "Le dimanche 25 octobre 2026 de  20:30:00 à  00:00:00",
+      "streets": "EN PARTIE MORCELLEMENT HOLIDAY PROMO DANS LES ENVIRONS AVENUE GOLD, AVENUE ST JEAN.",
+      "from": "2026-10-25T16:30:00.000Z",
+      "to": "2026-10-24T20:00:00.000Z",
+      "id": "b9c2ab95699323c9f1462abad7cb2a41"
+    },
     {
       "date": "Le samedi 3 octobre 2026 de  16:30:00 à  21:30:00",
       "streets": "ROYAL ROAD & SURROUNDINGS",

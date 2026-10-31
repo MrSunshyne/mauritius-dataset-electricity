@@ -1,9 +1,19 @@
 {
   "date": "2026-10-25",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-22T15:42:20.034Z",
-  "outageCount": 7,
+  "generated": "2026-10-31T18:09:48.689Z",
+  "outageCount": 20,
   "outages": [
+    {
+      "date": "Le dimanche 25 octobre 2026 de  21:20:00 à  00:00:00",
+      "locality": "PETITE RIVIERE",
+      "localitySlug": "petite-riviere",
+      "streets": "OLD TRAFFORD LANE LANE PETITE RIVIERE",
+      "district": "blackriver",
+      "from": "2026-10-25T17:20:00.000Z",
+      "to": "2026-10-24T20:00:00.000Z",
+      "id": "db04b173e0c7dd7eb68ffc04cc814016"
+    },
     {
       "date": "Le dimanche 25 octobre 2026 de  09:00:00 à  16:00:00",
       "locality": "SEBASTOPOL",
@@ -15,6 +25,36 @@
       "id": "1c248ccaa2bea8e315ecf3c0754e8ef1"
     },
     {
+      "date": "Le dimanche 25 octobre 2026 de  14:25:00 à  15:15:00",
+      "locality": "CAROLINE BEL AIR",
+      "localitySlug": "caroline-bel-air",
+      "streets": "CAROLINE BEL AIR",
+      "district": "flacq",
+      "from": "2026-10-25T10:25:00.000Z",
+      "to": "2026-10-25T11:15:00.000Z",
+      "id": "60b0c9da5c41534b0113ea4e4c21d4da"
+    },
+    {
+      "date": "Le dimanche 25 octobre 2026 de  10:30:00 à  16:00:00",
+      "locality": "PLEIN BOIS",
+      "localitySlug": "plein-bois",
+      "streets": "PART OF PLEIN BOIS & MALAKOFF",
+      "district": "grandport",
+      "from": "2026-10-25T06:30:00.000Z",
+      "to": "2026-10-25T12:00:00.000Z",
+      "id": "8b835abdadaf841839ab4f16d50a9a70"
+    },
+    {
+      "date": "Le dimanche 25 octobre 2026 de  14:35:00 à  17:45:00",
+      "locality": "DEUX BRAS- NEW GROVE",
+      "localitySlug": "deux-bras-new-grove",
+      "streets": "DEUX BRAS NEW GROVE",
+      "district": "grandport",
+      "from": "2026-10-25T10:35:00.000Z",
+      "to": "2026-10-25T13:45:00.000Z",
+      "id": "5b896685eb84dcc94e0dc2bbc76bc4a5"
+    },
+    {
       "date": "Le dimanche 25 octobre 2026 de  08:30:00 à  16:00:00",
       "locality": "MORC SAINT ANDRE",
       "localitySlug": "morc-saint-andre",
@@ -23,6 +63,26 @@
       "from": "2026-10-25T04:30:00.000Z",
       "to": "2026-10-25T12:00:00.000Z",
       "id": "ed01df326f560f526fc4ac6ef7243bc8"
+    },
+    {
+      "date": "Le dimanche 25 octobre 2026 de  08:30:00 à  14:30:00",
+      "locality": "CAMP LA BOUE -TERRE ROUGE",
+      "localitySlug": "camp-la-boue-terre-rouge",
+      "streets": "Camp La Boue et Ruisseau Rose",
+      "district": "pamplemousses",
+      "from": "2026-10-25T04:30:00.000Z",
+      "to": "2026-10-25T10:30:00.000Z",
+      "id": "4d28812a5ee72731d91249fceab06fa5"
+    },
+    {
+      "date": "Le dimanche 25 octobre 2026 de  20:30:00 à  00:00:00",
+      "locality": "BALACLAVA",
+      "localitySlug": "balaclava",
+      "streets": "EN PARTIE MORCELLEMENT HOLIDAY PROMO DANS LES ENVIRONS AVENUE GOLD, AVENUE ST JEAN.",
+      "district": "pamplemousses",
+      "from": "2026-10-25T16:30:00.000Z",
+      "to": "2026-10-24T20:00:00.000Z",
+      "id": "b9c2ab95699323c9f1462abad7cb2a41"
     },
     {
       "date": "Le dimanche 25 octobre 2026 de  08:30:00 à  17:00:00",
@@ -55,14 +115,74 @@
       "id": "119cdb5c06dfd613574ed3de9a1fe445"
     },
     {
-      "date": "Le dimanche 25 octobre 2026 de  09:00:00 à  11:00:00",
+      "date": "Le dimanche 25 octobre 2026 de  09:00:00 à  14:00:00",
       "locality": "GLEN PARK",
       "localitySlug": "glen-park",
-      "streets": "Part of Henrietta Branch Rd,Part of La Marie Rd,Edoo no 1,2,3,Perier Rd, Des Vergues and Mumbai 4",
+      "streets": "REMPART RD,LA MARIE RD,DESVERGUES RD, PERRIER RD,EDOO RD 1,2,3,BOMBAYE 4 RD",
       "district": "plainewilhems",
       "from": "2026-10-25T05:00:00.000Z",
-      "to": "2026-10-25T07:00:00.000Z",
-      "id": "9121d6a92d765b3cdd2bf4698b1929db"
+      "to": "2026-10-25T10:00:00.000Z",
+      "id": "427818323ae24a817612090660972c33"
+    },
+    {
+      "date": "Le dimanche 25 octobre 2026 de  09:00:00 à  17:00:00",
+      "locality": "MIDLANDS",
+      "localitySlug": "midlands",
+      "streets": "BANANES UP TO MIDLANDS CEMETERY",
+      "district": "plainewilhems",
+      "from": "2026-10-25T05:00:00.000Z",
+      "to": "2026-10-25T13:00:00.000Z",
+      "id": "c97f5597ebb0e61c0c89555f3722dfb8"
+    },
+    {
+      "date": "Le dimanche 25 octobre 2026 de  08:30:00 à  15:00:00",
+      "locality": "PLAINE LAUZUN",
+      "localitySlug": "plaine-lauzun",
+      "streets": "LA ZONE INDUSTRIELLE DE PLAINE LAUZUN",
+      "district": "portlouis",
+      "from": "2026-10-25T04:30:00.000Z",
+      "to": "2026-10-25T11:00:00.000Z",
+      "id": "95e007a62c8ee66859cb1103107ab880"
+    },
+    {
+      "date": "Le dimanche 25 octobre 2026 de  08:30:00 à  15:00:00",
+      "locality": "CANAL DAYOT",
+      "localitySlug": "canal-dayot",
+      "streets": "DANS LES ENVIRONS DES RUES CANAL DAYOT ET MC PHERSON",
+      "district": "portlouis",
+      "from": "2026-10-25T04:30:00.000Z",
+      "to": "2026-10-25T11:00:00.000Z",
+      "id": "104c6f8efc33472b059f1b78033a63be"
+    },
+    {
+      "date": "Le dimanche 25 octobre 2026 de  08:30:00 à  15:00:00",
+      "locality": "PAILLES",
+      "localitySlug": "pailles",
+      "streets": "DANS LES ENVIRONS DÁVENUE ALLEE DES MANGUIERS",
+      "district": "portlouis",
+      "from": "2026-10-25T04:30:00.000Z",
+      "to": "2026-10-25T11:00:00.000Z",
+      "id": "b5d9b8033f154af586de79c2c27d2835"
+    },
+    {
+      "date": "Le dimanche 25 octobre 2026 de  17:00:00 à  21:00:00",
+      "locality": "POUDRE D-OR HAMLET",
+      "localitySlug": "poudre-d-or-hamlet",
+      "streets": "MORC VRS DANS LES ALENTOURS DE DISPENSAIRE",
+      "district": "rivieredurempart",
+      "from": "2026-10-25T13:00:00.000Z",
+      "to": "2026-10-25T17:00:00.000Z",
+      "id": "a92d7226b967ac4659818cc519e370c3"
+    },
+    {
+      "date": "Le dimanche 25 octobre 2026 de  23:00:00 à  02:00:00",
+      "locality": "CAP MALHEUREUX",
+      "localitySlug": "cap-malheureux",
+      "streets": "MARIAMEN TEMPLE ROAD CAP MALHEUREUX",
+      "district": "rivieredurempart",
+      "from": "2026-10-25T19:00:00.000Z",
+      "to": "2026-10-24T22:00:00.000Z",
+      "id": "6a4482685fa438aba6d2ce6fed23fd28"
     },
     {
       "date": "Le dimanche 25 octobre 2026 de  08:30:00 à  15:00:00",
@@ -73,6 +193,16 @@
       "from": "2026-10-25T04:30:00.000Z",
       "to": "2026-10-25T11:00:00.000Z",
       "id": "378af818a27c253571bfb6975ee38e9e"
+    },
+    {
+      "date": "Le dimanche 25 octobre 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Gravier, Roche Bon Dieu, La Ferme, Manick, Saint Gabriel et Morcellement Mourouck",
+      "district": "rodrigues",
+      "from": "2026-10-25T04:30:00.000Z",
+      "to": "2026-10-25T11:00:00.000Z",
+      "id": "b41880f94c85c74c979b51e868807e5c"
     }
   ]
 }

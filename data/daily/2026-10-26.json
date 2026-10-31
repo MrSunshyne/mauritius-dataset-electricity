@@ -1,9 +1,29 @@
 {
   "date": "2026-10-26",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-22T15:42:20.034Z",
-  "outageCount": 1,
+  "generated": "2026-10-31T18:09:48.689Z",
+  "outageCount": 13,
   "outages": [
+    {
+      "date": "Le lundi 26 octobre 2026 de  08:30:00 à  16:00:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC PALMYRE, MORC LI YAO, MORC SAFELAND, MORC DE CHAZAL, AVE RADAR, LE RAVIN APPARTEMENTS, AVE FLAMANTS ET AVE DES COLOMBES",
+      "district": "blackriver",
+      "from": "2026-10-26T04:30:00.000Z",
+      "to": "2026-10-26T12:00:00.000Z",
+      "id": "6c53d94c448fc5c3e5e836d3d51c4f10"
+    },
+    {
+      "date": "Le lundi 26 octobre 2026 de  09:30:00 à  12:30:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "PART OF MORC TERRE D-ALBION",
+      "district": "blackriver",
+      "from": "2026-10-26T05:30:00.000Z",
+      "to": "2026-10-26T08:30:00.000Z",
+      "id": "254c390dc08d6658592601fd47d5c322"
+    },
     {
       "date": "Le lundi 26 octobre 2026 de  09:00:00 à  17:00:00",
       "locality": "DEUX BRAS- NEW GROVE",
@@ -13,6 +33,106 @@
       "from": "2026-10-26T05:00:00.000Z",
       "to": "2026-10-26T13:00:00.000Z",
       "id": "473737f25d50a868bdd5ceaf8c07847d"
+    },
+    {
+      "date": "Le lundi 26 octobre 2026 de  15:30:00 à  18:00:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "BOIS ROUGE/BEAU PLAN/PAMPPLEMOUSSES/MONGOUT/MOUNT/MONPITON",
+      "district": "pamplemousses",
+      "from": "2026-10-26T11:30:00.000Z",
+      "to": "2026-10-26T14:00:00.000Z",
+      "id": "addbf7f6271eb48552599332f1fb0cb8"
+    },
+    {
+      "date": "Le lundi 26 octobre 2026 de  20:30:00 à  00:00:00",
+      "locality": "CAMP DES EMBREVADES",
+      "localitySlug": "camp-des-embrevades",
+      "streets": "SUPER UNIQUE LANE ET DANS LES ENVIRONS TABAGIE POPULAIRE/MOSQUE.",
+      "district": "pamplemousses",
+      "from": "2026-10-26T16:30:00.000Z",
+      "to": "2026-10-25T20:00:00.000Z",
+      "id": "d3111ccf3da7dd0ce760099884666da6"
+    },
+    {
+      "date": "Le lundi 26 octobre 2026 de  09:30:00 à  12:00:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "AVE COLLINS, AVE ARIANNE & SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2026-10-26T05:30:00.000Z",
+      "to": "2026-10-26T08:00:00.000Z",
+      "id": "58961c0d63b3964ffe781523837d1bf3"
+    },
+    {
+      "date": "Le lundi 26 octobre 2026 de  15:00:00 à  17:00:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "BARKLY,PRISON BBASSIN, AVE JASMIN, AVE COSMOS, AVE BARKLY ASYLUM, RESIDENCE BARKLY, LA RUE HERCHENRODER, MOA BARKLY, PISCINE SERGE ALFRED, RYC ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2026-10-26T11:00:00.000Z",
+      "to": "2026-10-26T13:00:00.000Z",
+      "id": "70f86c135ef9a4a1821c007275da9f5f"
+    },
+    {
+      "date": "Le lundi 26 octobre 2026 de  18:00:00 à  21:30:00",
+      "locality": "CAMP LEVIEUX ( R HILL )",
+      "localitySlug": "camp-levieux",
+      "streets": "LES ABONNES DU NHDC BLOCK C CHRYSANTEME.",
+      "district": "plainewilhems",
+      "from": "2026-10-26T14:00:00.000Z",
+      "to": "2026-10-26T17:30:00.000Z",
+      "id": "9dd7c4bc95c54f74b058aa5dfafd006d"
+    },
+    {
+      "date": "Le lundi 26 octobre 2026 de  08:30:00 à  14:00:00",
+      "locality": "MELVIILE",
+      "localitySlug": "melviile",
+      "streets": "GAETAN DUVAL ROAD, MELVILLE",
+      "district": "rivieredurempart",
+      "from": "2026-10-26T04:30:00.000Z",
+      "to": "2026-10-26T10:00:00.000Z",
+      "id": "234192c9cef564f26fe51902beb2e0c0"
+    },
+    {
+      "date": "Le lundi 26 octobre 2026 de  11:30:00 à  13:30:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "CHEMIN VINGT PIEDS,PETIT RAFFRAY",
+      "district": "rivieredurempart",
+      "from": "2026-10-26T07:30:00.000Z",
+      "to": "2026-10-26T09:30:00.000Z",
+      "id": "ef289e0a6bfaccd63038df322401327f"
+    },
+    {
+      "date": "Le lundi 26 octobre 2026 de  09:55:00 à  11:00:00",
+      "locality": "CAMP DIABLE",
+      "localitySlug": "camp-diable",
+      "streets": "BAMBOUS ROAD, ILOT RD & SURROUNDINGS",
+      "district": "savanne",
+      "from": "2026-10-26T05:55:00.000Z",
+      "to": "2026-10-26T07:00:00.000Z",
+      "id": "676aa9448443a7b1cd1f00fbde768ba0"
+    },
+    {
+      "date": "Le lundi 26 octobre 2026 de  11:15:00 à  11:45:00",
+      "locality": "CAMP DIABLE",
+      "localitySlug": "camp-diable",
+      "streets": "SHIVALA RD,MOSQUE RD, ROYAL RD,CHAPELLE ST,KARAMUTH LANE",
+      "district": "savanne",
+      "from": "2026-10-26T07:15:00.000Z",
+      "to": "2026-10-26T07:45:00.000Z",
+      "id": "73ac873f6ece876dac1ed0b51e51cd5a"
+    },
+    {
+      "date": "Le lundi 26 octobre 2026 de  12:00:00 à  13:00:00",
+      "locality": "CAMP DIABLE",
+      "localitySlug": "camp-diable",
+      "streets": "CEMETERY,NHDC",
+      "district": "savanne",
+      "from": "2026-10-26T08:00:00.000Z",
+      "to": "2026-10-26T09:00:00.000Z",
+      "id": "29928ebbb64bc769f213aa89bd895009"
     }
   ]
 }

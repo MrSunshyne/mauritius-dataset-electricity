@@ -2,11 +2,18 @@
   "slug": "plaine-verte",
   "name": "PLAINE VERTE",
   "district": "portlouis",
-  "generated": "2026-10-22T15:42:20.137Z",
-  "outageCount": 41,
+  "generated": "2026-10-31T18:09:48.744Z",
+  "outageCount": 42,
   "firstOutage": "2022-12-21",
-  "lastOutage": "2026-10-15",
+  "lastOutage": "2026-10-27",
   "outages": [
+    {
+      "date": "Le mardi 27 octobre 2026 de  10:30:00 à  12:00:00",
+      "streets": "PAUL ET VIRGINIE ST, TRICHNAPOLY ST & GORAH ISAAC ST",
+      "from": "2026-10-27T06:30:00.000Z",
+      "to": "2026-10-27T08:00:00.000Z",
+      "id": "d0fac3ad475f86716af9a2a1c2838549"
+    },
     {
       "date": "Le jeudi 15 octobre 2026 de  11:00:00 à  12:15:00",
       "streets": "En partie Rues Diego Garcia & Trichnapoly",

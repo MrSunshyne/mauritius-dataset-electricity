@@ -2,11 +2,60 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-10-22T15:42:20.153Z",
-  "outageCount": 286,
+  "generated": "2026-10-31T18:09:48.754Z",
+  "outageCount": 293,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-10-21",
+  "lastOutage": "2026-11-01",
   "outages": [
+    {
+      "date": "Le dimanche 1 novembre 2026 de  08:30:00 à  15:00:00",
+      "streets": "Creve Coeur, Roche Bon Dieu et Anse Baleine",
+      "from": "2026-11-01T04:30:00.000Z",
+      "to": "2026-11-01T11:00:00.000Z",
+      "id": "40d8f4fb6c9077160c1f637ef3f6e751"
+    },
+    {
+      "date": "Le samedi 31 octobre 2026 de  08:30:00 à  15:00:00",
+      "streets": "Baie Du Nord et Pointe Diable",
+      "from": "2026-10-31T04:30:00.000Z",
+      "to": "2026-10-31T11:00:00.000Z",
+      "id": "2a616808ce611fbab0c823cbc9e35cda"
+    },
+    {
+      "date": "Le vendredi 30 octobre 2026 de  08:30:00 à  16:00:00",
+      "streets": "Grand La Fouche Corail, Cascade Jean Louis, Plaine Corail, Anse Quitor et Dans Coco",
+      "from": "2026-10-30T04:30:00.000Z",
+      "to": "2026-10-30T12:00:00.000Z",
+      "id": "e57ab202de5b02ef79597e220a4a3a3e"
+    },
+    {
+      "date": "Le jeudi 29 octobre 2026 de  08:45:00 à  14:00:00",
+      "streets": "GRAND LA FOURCHE CORAIL, PETITE BUTTE, ILE MICHEL, ANSE QUITTOR, DANS COCO.",
+      "from": "2026-10-29T04:45:00.000Z",
+      "to": "2026-10-29T10:00:00.000Z",
+      "id": "2ba2e8b37f2edb33bf8c9ca0018fe5ce"
+    },
+    {
+      "date": "Le mercredi 28 octobre 2026 de  08:30:00 à  16:00:00",
+      "streets": "Grand La Fouche Corail, Cascade Jean Louis, Plaine Corail, Anse Quitor et Dans Coco",
+      "from": "2026-10-28T04:30:00.000Z",
+      "to": "2026-10-28T12:00:00.000Z",
+      "id": "9f95aac12f1cae9fc9ef657e0fee4400"
+    },
+    {
+      "date": "Le dimanche 25 octobre 2026 de  08:30:00 à  15:00:00",
+      "streets": "Gravier, Roche Bon Dieu, La Ferme, Manick, Saint Gabriel et Morcellement Mourouck",
+      "from": "2026-10-25T04:30:00.000Z",
+      "to": "2026-10-25T11:00:00.000Z",
+      "id": "b41880f94c85c74c979b51e868807e5c"
+    },
+    {
+      "date": "Le samedi 24 octobre 2026 de  08:30:00 à  15:00:00",
+      "streets": "Grand Var, Petite Butte, Pointe Vingt Tour, Corail, Montagne Cabris Corail, Cascade Jean Louis,Grand La Fouche Corail, Plaine Corail, Anse Ali et Patate Theophile",
+      "from": "2026-10-24T04:30:00.000Z",
+      "to": "2026-10-24T11:00:00.000Z",
+      "id": "2d76d0f53f6e261ea98fdec0633c36a4"
+    },
     {
       "date": "Le mercredi 21 octobre 2026 de  08:30:00 à  15:00:00",
       "streets": "Grand La Fouche Corail",

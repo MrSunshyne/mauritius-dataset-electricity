@@ -2,11 +2,18 @@
   "slug": "highlands",
   "name": "HIGHLANDS",
   "district": "plainewilhems",
-  "generated": "2026-10-22T15:42:20.101Z",
-  "outageCount": 88,
+  "generated": "2026-10-31T18:09:48.727Z",
+  "outageCount": 89,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2026-10-19",
+  "lastOutage": "2026-10-31",
   "outages": [
+    {
+      "date": "Le samedi 31 octobre 2026 de  08:30:00 à  15:00:00",
+      "streets": "une partie de Railway Road, une partie de Flamingo Road, Morcellement Blueprint Highlands, Morcellement Omnicane, une partie de Morcellement Highland Rose, Morcellement Khoyratty les environs",
+      "from": "2026-10-31T04:30:00.000Z",
+      "to": "2026-10-31T11:00:00.000Z",
+      "id": "670cb6b57dc823992cca99bda3ee128e"
+    },
     {
       "date": "Le lundi 19 octobre 2026 de  13:00:00 à  14:30:00",
       "streets": "Mosque Road",

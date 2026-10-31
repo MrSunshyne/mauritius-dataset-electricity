@@ -2,11 +2,46 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-10-22T15:42:20.170Z",
-  "outageCount": 276,
+  "generated": "2026-10-31T18:09:48.765Z",
+  "outageCount": 281,
   "firstOutage": "2022-03-17",
-  "lastOutage": "2026-10-25",
+  "lastOutage": "2026-11-01",
   "outages": [
+    {
+      "date": "Le dimanche 1 novembre 2026 de  08:30:00 à  17:00:00",
+      "streets": "ZONE INDUSTRIEL PHOENIX: VALENTINA RD, IMP ROSIER, IMP LATANIER, ET LES ENVIRONS",
+      "from": "2026-11-01T04:30:00.000Z",
+      "to": "2026-11-01T13:00:00.000Z",
+      "id": "31ec092256ab03d0a2ffb49907b3b1cf"
+    },
+    {
+      "date": "Le jeudi 29 octobre 2026 de  15:35:00 à  16:15:00",
+      "streets": "RIVERWALK ET LES ALENTOURS",
+      "from": "2026-10-29T11:35:00.000Z",
+      "to": "2026-10-29T12:15:00.000Z",
+      "id": "3095624811ed86ced1cd196aca316a27"
+    },
+    {
+      "date": "Le jeudi 29 octobre 2026 de  12:00:00 à  13:00:00",
+      "streets": "SOLFERINO 1 ET 3",
+      "from": "2026-10-29T08:00:00.000Z",
+      "to": "2026-10-29T09:00:00.000Z",
+      "id": "3787cf0115d5b271cce373aaf6b388a2"
+    },
+    {
+      "date": "Le mercredi 28 octobre 2026 de  10:30:00 à  17:00:00",
+      "streets": "Riverwalk Road, Bryant Lane, Impasse Kasenally et les environs",
+      "from": "2026-10-28T06:30:00.000Z",
+      "to": "2026-10-28T13:00:00.000Z",
+      "id": "1011262695aac956e37da4ccf94c90ce"
+    },
+    {
+      "date": "Le mardi 27 octobre 2026 de  10:30:00 à  16:00:00",
+      "streets": "RIVERWALK STREET",
+      "from": "2026-10-27T06:30:00.000Z",
+      "to": "2026-10-27T12:00:00.000Z",
+      "id": "1a145c255aa4a35a032a6d1e97405c94"
+    },
     {
       "date": "Le dimanche 25 octobre 2026 de  08:30:00 à  17:00:00",
       "streets": "Hollyrood No.1,Hollyrood No.2, une partie de Route Desvergues, Begue Road, Bonnefin Road, La Source Road, une partie de Route Quinze-Cantons No. 2, une partie de Route La Marie, La Croisee Diolle, Route Seebaluck, Morcellement Boniface, Tres-Bon No.1, Beekun Lane, une partie de Route J.Kennedy,Alle-Bibasse ,Mootoo Lane",

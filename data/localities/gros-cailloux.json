@@ -2,11 +2,18 @@
   "slug": "gros-cailloux",
   "name": "GROS CAILLOUX",
   "district": "blackriver",
-  "generated": "2026-10-22T15:42:20.100Z",
-  "outageCount": 30,
+  "generated": "2026-10-31T18:09:48.726Z",
+  "outageCount": 31,
   "firstOutage": "2022-06-05",
-  "lastOutage": "2026-10-22",
+  "lastOutage": "2026-10-29",
   "outages": [
+    {
+      "date": "Le jeudi 29 octobre 2026 de  15:30:00 à  17:30:00",
+      "streets": "MORC DOMAH, VILLAGE GROS CAILLOUX, QUALITY DECOR, ECOLE, ROYAL RD",
+      "from": "2026-10-29T11:30:00.000Z",
+      "to": "2026-10-29T13:30:00.000Z",
+      "id": "1c74115f36b41cd076be68861dace30e"
+    },
     {
       "date": "Le jeudi 22 octobre 2026 de  15:30:00 à  17:00:00",
       "streets": "GROS CAILLOUX, ALLE MANGUIRES, ALLE ROUSSAILLE, LA SOURCE LANE, JUGESSUR LANE, JAGATSING LANE, IMPASSE JUGGOO, BOSQUET RD, SOPHIE LANE, ESPACE JARDIN, QUALITY DECOR, MORC DOMAH, GENERAL CONSTRUCTION CANOT, PORKER ST MARTIN, CWA ST MARTIN et les environs",

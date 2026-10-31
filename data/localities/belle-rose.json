@@ -2,11 +2,18 @@
   "slug": "belle-rose",
   "name": "BELLE ROSE  ( Q BORNES )",
   "district": "flacq",
-  "generated": "2026-10-22T15:42:20.064Z",
-  "outageCount": 32,
+  "generated": "2026-10-31T18:09:48.706Z",
+  "outageCount": 33,
   "firstOutage": "2022-08-31",
-  "lastOutage": "2026-06-25",
+  "lastOutage": "2026-10-30",
   "outages": [
+    {
+      "date": "Le vendredi 30 octobre 2026 de  22:00:00 à  02:00:00",
+      "streets": "AVENUE GERNINGHAM/AVENUE MOKA BELLEROSE",
+      "from": "2026-10-30T18:00:00.000Z",
+      "to": "2026-10-29T22:00:00.000Z",
+      "id": "2bef7bd4f439544015f7a5fa43e9dc43"
+    },
     {
       "date": "Le jeudi 25 juin 2026 de  09:00:00 à  14:00:00",
       "streets": "AVENUES WILSON,COLLEVILLE,DE CAEN",

@@ -2,11 +2,18 @@
   "slug": "riambel",
   "name": "RIAMBEL",
   "district": "savanne",
-  "generated": "2026-10-22T15:42:20.146Z",
-  "outageCount": 35,
+  "generated": "2026-10-31T18:09:48.750Z",
+  "outageCount": 36,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-09-14",
+  "lastOutage": "2026-10-30",
   "outages": [
+    {
+      "date": "Le vendredi 30 octobre 2026 de  16:00:00 à  18:30:00",
+      "streets": "EN PARTIE MORC BLUEPRINT.",
+      "from": "2026-10-30T12:00:00.000Z",
+      "to": "2026-10-30T14:30:00.000Z",
+      "id": "22b9c556fed752c58e73bf4a249954cd"
+    },
     {
       "date": "Le lundi 14 septembre 2026 de  18:00:00 à  01:00:00",
       "streets": "COASTAL ROAD DANS LES ENVIRONS KOVIL/FISHERIES.",

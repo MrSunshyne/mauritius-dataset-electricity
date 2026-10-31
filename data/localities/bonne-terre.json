@@ -2,11 +2,18 @@
   "slug": "bonne-terre",
   "name": "BONNE TERRE",
   "district": "plainewilhems",
-  "generated": "2026-10-22T15:42:20.067Z",
-  "outageCount": 16,
+  "generated": "2026-10-31T18:09:48.708Z",
+  "outageCount": 17,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-09-11",
+  "lastOutage": "2026-10-31",
   "outages": [
+    {
+      "date": "Le samedi 31 octobre 2026 de  09:00:00 à  14:00:00",
+      "streets": "Morc Fleuriot,Remy Olier,Vetivert,Gopee lane",
+      "from": "2026-10-31T05:00:00.000Z",
+      "to": "2026-10-31T10:00:00.000Z",
+      "id": "fbb441395c84e2bbf0998b8b07913fca"
+    },
     {
       "date": "Le vendredi 11 septembre 2026 de  10:00:00 à  13:00:00",
       "streets": "REMY OLLIER AVE, GOPEE LANE, DANS LES ALENTOURS DE GARAGE CNT, PRES DE INDIAN OIL, PRES DU COLLEGE SSS PHOENIX",

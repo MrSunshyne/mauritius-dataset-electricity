@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-10-22T15:42:20.143Z",
-  "outageCount": 416,
+  "generated": "2026-10-31T18:09:48.748Z",
+  "outageCount": 417,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-10-07",
+  "lastOutage": "2026-10-29",
   "outages": [
+    {
+      "date": "Le jeudi 29 octobre 2026 de  08:30:00 à  15:30:00",
+      "streets": "EN PARTIE AVE KALIMAYE, MGR LEEN, ROUTE BASSIN, VIVALO ET LES ENVIRONS",
+      "from": "2026-10-29T04:30:00.000Z",
+      "to": "2026-10-29T11:30:00.000Z",
+      "id": "bfaf350ba0a2f767b508659f07d6df31"
+    },
     {
       "date": "Le mercredi 7 octobre 2026 de  16:00:00 à  17:30:00",
       "streets": "Ave Victoria, Ave dEpinay, en partie Sir V. Naz, Ave Hennessy et les environs",

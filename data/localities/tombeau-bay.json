@@ -2,11 +2,25 @@
   "slug": "tombeau-bay",
   "name": "TOMBEAU BAY",
   "district": "pamplemousses",
-  "generated": "2026-10-22T15:42:20.165Z",
-  "outageCount": 146,
+  "generated": "2026-10-31T18:09:48.762Z",
+  "outageCount": 148,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-09-22",
+  "lastOutage": "2026-10-29",
   "outages": [
+    {
+      "date": "Le jeudi 29 octobre 2026 de  23:25:00 à  02:00:00",
+      "streets": "Roche Bois,Tombeau Bay,Fort George",
+      "from": "2026-10-29T19:25:00.000Z",
+      "to": "2026-10-28T22:00:00.000Z",
+      "id": "e78bcf26d72fadaab1b9c22c98ad7afa"
+    },
+    {
+      "date": "Le samedi 24 octobre 2026 de  12:00:00 à  14:30:00",
+      "streets": "Dans les environs de Avenue des Filaos et la route Royale",
+      "from": "2026-10-24T08:00:00.000Z",
+      "to": "2026-10-24T10:30:00.000Z",
+      "id": "e5a9d72108a0a3dc40975f1d48703091"
+    },
     {
       "date": "Le mardi 22 septembre 2026 de  13:00:00 à  15:00:00",
       "streets": "ST JOSEPH RD T BAY",

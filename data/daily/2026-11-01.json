@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-01",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-10-31T18:09:48.689Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le dimanche 1 novembre 2026 de  08:45:00 à  15:00:00",
+      "locality": "BELLE MARE",
+      "localitySlug": "belle-mare",
+      "streets": "Belle Mare dans le périmètre de Ram Mandir Avenue, Kalenia, Dahlia, Dombeya and Baitka Avenue, Baitka Avenue, Jugoo Road, Jasmine Road, Cyprus Avenue, Casuarina Avenue et Coastal Road.",
+      "district": "flacq",
+      "from": "2026-11-01T04:45:00.000Z",
+      "to": "2026-11-01T11:00:00.000Z",
+      "id": "d6f3798f26a0bb7f6bfdff567ac91853"
+    },
+    {
+      "date": "Le dimanche 1 novembre 2026 de  08:30:00 à  17:00:00",
+      "locality": "VACOAS",
+      "localitySlug": "vacoas",
+      "streets": "ZONE INDUSTRIEL PHOENIX: VALENTINA RD, IMP ROSIER, IMP LATANIER, ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2026-11-01T04:30:00.000Z",
+      "to": "2026-11-01T13:00:00.000Z",
+      "id": "31ec092256ab03d0a2ffb49907b3b1cf"
+    },
+    {
+      "date": "Le dimanche 1 novembre 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Creve Coeur, Roche Bon Dieu et Anse Baleine",
+      "district": "rodrigues",
+      "from": "2026-11-01T04:30:00.000Z",
+      "to": "2026-11-01T11:00:00.000Z",
+      "id": "40d8f4fb6c9077160c1f637ef3f6e751"
+    }
+  ]
+}

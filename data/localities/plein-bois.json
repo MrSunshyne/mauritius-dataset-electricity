@@ -2,11 +2,18 @@
   "slug": "plein-bois",
   "name": "PLEIN BOIS",
   "district": "grandport",
-  "generated": "2026-10-22T15:42:20.137Z",
-  "outageCount": 4,
+  "generated": "2026-10-31T18:09:48.745Z",
+  "outageCount": 5,
   "firstOutage": "2023-11-23",
-  "lastOutage": "2026-03-20",
+  "lastOutage": "2026-10-25",
   "outages": [
+    {
+      "date": "Le dimanche 25 octobre 2026 de  10:30:00 à  16:00:00",
+      "streets": "PART OF PLEIN BOIS & MALAKOFF",
+      "from": "2026-10-25T06:30:00.000Z",
+      "to": "2026-10-25T12:00:00.000Z",
+      "id": "8b835abdadaf841839ab4f16d50a9a70"
+    },
     {
       "date": "Le vendredi 20 mars 2026 de  12:00:00 à  14:30:00",
       "streets": "PLEIN BOIS/MALAKOFF",

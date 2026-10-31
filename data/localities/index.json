@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:42:20.174Z",
+  "generated": "2026-10-31T18:09:48.768Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -25,10 +25,10 @@
       "slug": "albion",
       "name": "ALBION",
       "district": "blackriver",
-      "outageCount": 138,
+      "outageCount": 140,
       "file": "albion.json",
       "firstOutage": "2022-06-06",
-      "lastOutage": "2026-10-21"
+      "lastOutage": "2026-10-30"
     },
     {
       "slug": "allee-brillant-castel",
@@ -187,10 +187,10 @@
       "slug": "balaclava",
       "name": "BALACLAVA",
       "district": "pamplemousses",
-      "outageCount": 27,
+      "outageCount": 28,
       "file": "balaclava.json",
       "firstOutage": "2022-05-19",
-      "lastOutage": "2026-10-03"
+      "lastOutage": "2026-10-25"
     },
     {
       "slug": "baladirou",
@@ -286,10 +286,10 @@
       "slug": "beau-bassin",
       "name": "BEAU BASSIN",
       "district": "plainewilhems",
-      "outageCount": 209,
+      "outageCount": 212,
       "file": "beau-bassin.json",
       "firstOutage": "2022-03-25",
-      "lastOutage": "2026-10-20"
+      "lastOutage": "2026-10-28"
     },
     {
       "slug": "beau-bois",
@@ -421,10 +421,10 @@
       "slug": "belle-mare",
       "name": "BELLE MARE",
       "district": "flacq",
-      "outageCount": 35,
+      "outageCount": 36,
       "file": "belle-mare.json",
       "firstOutage": "2022-08-07",
-      "lastOutage": "2026-10-21"
+      "lastOutage": "2026-11-01"
     },
     {
       "slug": "belle-rive",
@@ -448,10 +448,10 @@
       "slug": "belle-rose",
       "name": "BELLE ROSE  ( Q BORNES )",
       "district": "flacq",
-      "outageCount": 32,
+      "outageCount": 33,
       "file": "belle-rose.json",
       "firstOutage": "2022-08-31",
-      "lastOutage": "2026-06-25"
+      "lastOutage": "2026-10-30"
     },
     {
       "slug": "belle-terre",
@@ -556,10 +556,10 @@
       "slug": "bois-marchand",
       "name": "BOIS MARCHAND",
       "district": "pamplemousses",
-      "outageCount": 8,
+      "outageCount": 9,
       "file": "bois-marchand.json",
       "firstOutage": "2023-08-27",
-      "lastOutage": "2026-02-24"
+      "lastOutage": "2026-10-28"
     },
     {
       "slug": "bois-pignolet",
@@ -574,10 +574,10 @@
       "slug": "bois-rouge",
       "name": "BOIS ROUGE",
       "district": "pamplemousses",
-      "outageCount": 17,
+      "outageCount": 18,
       "file": "bois-rouge.json",
       "firstOutage": "2022-07-28",
-      "lastOutage": "2026-06-13"
+      "lastOutage": "2026-10-27"
     },
     {
       "slug": "bon-acceuil",
@@ -601,10 +601,10 @@
       "slug": "bonne-terre",
       "name": "BONNE TERRE",
       "district": "plainewilhems",
-      "outageCount": 16,
+      "outageCount": 17,
       "file": "bonne-terre.json",
       "firstOutage": "2022-03-20",
-      "lastOutage": "2026-09-11"
+      "lastOutage": "2026-10-31"
     },
     {
       "slug": "bonne-veine",
@@ -727,19 +727,19 @@
       "slug": "camp-des-embrevades",
       "name": "CAMP DES EMBREVADES",
       "district": "pamplemousses",
-      "outageCount": 17,
+      "outageCount": 18,
       "file": "camp-des-embrevades.json",
       "firstOutage": "2022-11-05",
-      "lastOutage": "2026-09-01"
+      "lastOutage": "2026-10-26"
     },
     {
       "slug": "camp-diable",
       "name": "CAMP DIABLE",
       "district": "savanne",
-      "outageCount": 27,
+      "outageCount": 30,
       "file": "camp-diable.json",
       "firstOutage": "2022-03-27",
-      "lastOutage": "2026-08-13"
+      "lastOutage": "2026-10-26"
     },
     {
       "slug": "camp-du-roi",
@@ -781,10 +781,10 @@
       "slug": "camp-la-boue-terre-rouge",
       "name": "CAMP LA BOUE -TERRE ROUGE",
       "district": "pamplemousses",
-      "outageCount": 2,
+      "outageCount": 3,
       "file": "camp-la-boue-terre-rouge.json",
       "firstOutage": "2024-05-09",
-      "lastOutage": "2024-06-01"
+      "lastOutage": "2026-10-25"
     },
     {
       "slug": "camp-la-boue-vallee-du-paradis",
@@ -808,10 +808,10 @@
       "slug": "camp-levieux",
       "name": "CAMP LEVIEUX ( CUREPIPE )",
       "district": "plainewilhems",
-      "outageCount": 29,
+      "outageCount": 32,
       "file": "camp-levieux.json",
       "firstOutage": "2022-05-25",
-      "lastOutage": "2026-06-08"
+      "lastOutage": "2026-11-04"
     },
     {
       "slug": "camp-mapou",
@@ -871,10 +871,10 @@
       "slug": "canal-dayot",
       "name": "CANAL DAYOT",
       "district": "portlouis",
-      "outageCount": 5,
+      "outageCount": 6,
       "file": "canal-dayot.json",
       "firstOutage": "2022-10-09",
-      "lastOutage": "2026-07-19"
+      "lastOutage": "2026-10-25"
     },
     {
       "slug": "candos-q-bornes",
@@ -898,10 +898,10 @@
       "slug": "canot",
       "name": "CANOT",
       "district": "blackriver",
-      "outageCount": 8,
+      "outageCount": 9,
       "file": "canot.json",
       "firstOutage": "2022-11-08",
-      "lastOutage": "2026-10-01"
+      "lastOutage": "2026-10-29"
     },
     {
       "slug": "canton-nancy",
@@ -916,19 +916,19 @@
       "slug": "cap-malheureux",
       "name": "CAP MALHEUREUX",
       "district": "rivieredurempart",
-      "outageCount": 59,
+      "outageCount": 60,
       "file": "cap-malheureux.json",
       "firstOutage": "2022-07-14",
-      "lastOutage": "2026-09-24"
+      "lastOutage": "2026-10-25"
     },
     {
       "slug": "caroline-bel-air",
       "name": "CAROLINE BEL AIR",
       "district": "flacq",
-      "outageCount": 41,
+      "outageCount": 42,
       "file": "caroline-bel-air.json",
       "firstOutage": "2022-06-01",
-      "lastOutage": "2026-06-01"
+      "lastOutage": "2026-10-25"
     },
     {
       "slug": "carreau-esnouf",
@@ -979,10 +979,10 @@
       "slug": "cassis",
       "name": "CASSIS",
       "district": "portlouis",
-      "outageCount": 40,
+      "outageCount": 41,
       "file": "cassis.json",
       "firstOutage": "2022-04-12",
-      "lastOutage": "2026-08-30"
+      "lastOutage": "2026-10-27"
     },
     {
       "slug": "castel-vacoas",
@@ -1006,10 +1006,10 @@
       "slug": "central-flacq",
       "name": "CENTRAL FLACQ",
       "district": "flacq",
-      "outageCount": 81,
+      "outageCount": 82,
       "file": "central-flacq.json",
       "firstOutage": "2022-03-13",
-      "lastOutage": "2026-10-20"
+      "lastOutage": "2026-10-29"
     },
     {
       "slug": "chamarel",
@@ -1321,10 +1321,10 @@
       "slug": "dagotiere",
       "name": "DAGOTIERE",
       "district": "moka",
-      "outageCount": 29,
+      "outageCount": 30,
       "file": "dagotiere.json",
       "firstOutage": "2022-04-24",
-      "lastOutage": "2026-10-14"
+      "lastOutage": "2026-10-29"
     },
     {
       "slug": "dans-coco",
@@ -1348,7 +1348,7 @@
       "slug": "deux-bras-new-grove",
       "name": "DEUX BRAS- NEW GROVE",
       "district": "grandport",
-      "outageCount": 15,
+      "outageCount": 16,
       "file": "deux-bras-new-grove.json",
       "firstOutage": "2022-09-02",
       "lastOutage": "2026-10-26"
@@ -1456,10 +1456,10 @@
       "slug": "esperance-piton",
       "name": "ESPERANCE PITON",
       "district": "pamplemousses",
-      "outageCount": 13,
+      "outageCount": 14,
       "file": "esperance-piton.json",
       "firstOutage": "2022-10-08",
-      "lastOutage": "2026-07-31"
+      "lastOutage": "2026-10-24"
     },
     {
       "slug": "esperance-trebuchet",
@@ -1483,19 +1483,19 @@
       "slug": "flic-en-flac",
       "name": "FLIC-EN-FLAC",
       "district": "blackriver",
-      "outageCount": 242,
+      "outageCount": 245,
       "file": "flic-en-flac.json",
       "firstOutage": "2022-03-16",
-      "lastOutage": "2026-10-16"
+      "lastOutage": "2026-10-30"
     },
     {
       "slug": "floreal",
       "name": "FLOREAL",
       "district": "plainewilhems",
-      "outageCount": 102,
+      "outageCount": 105,
       "file": "floreal.json",
       "firstOutage": "2022-03-31",
-      "lastOutage": "2026-10-16"
+      "lastOutage": "2026-10-28"
     },
     {
       "slug": "fond-du-sac",
@@ -1582,10 +1582,10 @@
       "slug": "grand-bay",
       "name": "GRAND BAY",
       "district": "rivieredurempart",
-      "outageCount": 130,
+      "outageCount": 132,
       "file": "grand-bay.json",
       "firstOutage": "2022-03-20",
-      "lastOutage": "2026-10-17"
+      "lastOutage": "2026-10-28"
     },
     {
       "slug": "grand-bel-air",
@@ -1699,10 +1699,10 @@
       "slug": "gros-billot",
       "name": "GROS BILLOT",
       "district": "grandport",
-      "outageCount": 5,
+      "outageCount": 6,
       "file": "gros-billot.json",
       "firstOutage": "2022-04-21",
-      "lastOutage": "2026-04-14"
+      "lastOutage": "2026-10-31"
     },
     {
       "slug": "gros-bois",
@@ -1717,10 +1717,10 @@
       "slug": "gros-cailloux",
       "name": "GROS CAILLOUX",
       "district": "blackriver",
-      "outageCount": 30,
+      "outageCount": 31,
       "file": "gros-cailloux.json",
       "firstOutage": "2022-06-05",
-      "lastOutage": "2026-10-22"
+      "lastOutage": "2026-10-29"
     },
     {
       "slug": "haute-rive",
@@ -1771,10 +1771,10 @@
       "slug": "highlands",
       "name": "HIGHLANDS",
       "district": "plainewilhems",
-      "outageCount": 88,
+      "outageCount": 89,
       "file": "highlands.json",
       "firstOutage": "2022-04-13",
-      "lastOutage": "2026-10-19"
+      "lastOutage": "2026-10-31"
     },
     {
       "slug": "hollyrood",
@@ -2329,10 +2329,10 @@
       "slug": "melviile",
       "name": "MELVIILE",
       "district": "rivieredurempart",
-      "outageCount": 20,
+      "outageCount": 21,
       "file": "melviile.json",
       "firstOutage": "2022-08-26",
-      "lastOutage": "2026-10-09"
+      "lastOutage": "2026-10-26"
     },
     {
       "slug": "mer-rouge",
@@ -2356,7 +2356,7 @@
       "slug": "midlands",
       "name": "MIDLANDS",
       "district": "plainewilhems",
-      "outageCount": 30,
+      "outageCount": 31,
       "file": "midlands.json",
       "firstOutage": "2022-06-10",
       "lastOutage": "2026-10-25"
@@ -2500,10 +2500,10 @@
       "slug": "montagne-blanche",
       "name": "MONTAGNE BLANCHE",
       "district": "moka",
-      "outageCount": 47,
+      "outageCount": 48,
       "file": "montagne-blanche.json",
       "firstOutage": "2022-03-23",
-      "lastOutage": "2026-10-21"
+      "lastOutage": "2026-10-29"
     },
     {
       "slug": "montagne-cabris-est",
@@ -2617,10 +2617,10 @@
       "slug": "notre-dame",
       "name": "NOTRE DAME",
       "district": "pamplemousses",
-      "outageCount": 44,
+      "outageCount": 45,
       "file": "notre-dame.json",
       "firstOutage": "2022-03-20",
-      "lastOutage": "2026-09-28"
+      "lastOutage": "2026-10-29"
     },
     {
       "slug": "nouvelle-decouverte",
@@ -2662,10 +2662,10 @@
       "slug": "pailles",
       "name": "PAILLES",
       "district": "portlouis",
-      "outageCount": 85,
+      "outageCount": 86,
       "file": "pailles.json",
       "firstOutage": "2022-03-13",
-      "lastOutage": "2026-10-01"
+      "lastOutage": "2026-10-25"
     },
     {
       "slug": "paillotte",
@@ -2698,10 +2698,10 @@
       "slug": "pamplemousses",
       "name": "PAMPLEMOUSSES",
       "district": "pamplemousses",
-      "outageCount": 66,
+      "outageCount": 69,
       "file": "pamplemousses.json",
       "firstOutage": "2022-05-08",
-      "lastOutage": "2026-09-04"
+      "lastOutage": "2026-10-30"
     },
     {
       "slug": "patate-theophille",
@@ -2734,10 +2734,10 @@
       "slug": "pereybere",
       "name": "PEREYBERE",
       "district": "rivieredurempart",
-      "outageCount": 124,
+      "outageCount": 126,
       "file": "pereybere.json",
       "firstOutage": "2022-03-25",
-      "lastOutage": "2026-10-09"
+      "lastOutage": "2026-10-28"
     },
     {
       "slug": "petit-bel-air",
@@ -2824,10 +2824,10 @@
       "slug": "petite-julie",
       "name": "PETITE JULIE",
       "district": "pamplemousses",
-      "outageCount": 11,
+      "outageCount": 13,
       "file": "petite-julie.json",
       "firstOutage": "2022-07-23",
-      "lastOutage": "2026-10-15"
+      "lastOutage": "2026-10-27"
     },
     {
       "slug": "petite-pointe-aux-piments",
@@ -2851,10 +2851,10 @@
       "slug": "petite-riviere",
       "name": "PETITE RIVIERE",
       "district": "blackriver",
-      "outageCount": 99,
+      "outageCount": 100,
       "file": "petite-riviere.json",
       "firstOutage": "2022-05-28",
-      "lastOutage": "2026-09-11"
+      "lastOutage": "2026-10-25"
     },
     {
       "slug": "petite-riviere-noire",
@@ -2941,28 +2941,28 @@
       "slug": "plaine-lauzun",
       "name": "PLAINE LAUZUN",
       "district": "portlouis",
-      "outageCount": 7,
+      "outageCount": 8,
       "file": "plaine-lauzun.json",
       "firstOutage": "2022-04-13",
-      "lastOutage": "2026-04-09"
+      "lastOutage": "2026-10-25"
     },
     {
       "slug": "plaine-magnien",
       "name": "PLAINE MAGNIEN",
       "district": "grandport",
-      "outageCount": 73,
+      "outageCount": 74,
       "file": "plaine-magnien.json",
       "firstOutage": "2022-06-08",
-      "lastOutage": "2026-08-07"
+      "lastOutage": "2026-10-24"
     },
     {
       "slug": "plaine-verte",
       "name": "PLAINE VERTE",
       "district": "portlouis",
-      "outageCount": 41,
+      "outageCount": 42,
       "file": "plaine-verte.json",
       "firstOutage": "2022-12-21",
-      "lastOutage": "2026-10-15"
+      "lastOutage": "2026-10-27"
     },
     {
       "slug": "plaisance-rose-hill",
@@ -2977,10 +2977,10 @@
       "slug": "plein-bois",
       "name": "PLEIN BOIS",
       "district": "grandport",
-      "outageCount": 4,
+      "outageCount": 5,
       "file": "plein-bois.json",
       "firstOutage": "2023-11-23",
-      "lastOutage": "2026-03-20"
+      "lastOutage": "2026-10-25"
     },
     {
       "slug": "pointe-aux-canonniers",
@@ -3175,10 +3175,10 @@
       "slug": "quatre-bornes",
       "name": "QUATRE-BORNES",
       "district": "plainewilhems",
-      "outageCount": 416,
+      "outageCount": 417,
       "file": "quatre-bornes.json",
       "firstOutage": "2022-04-01",
-      "lastOutage": "2026-10-07"
+      "lastOutage": "2026-10-29"
     },
     {
       "slug": "quatre-carreaux",
@@ -3292,10 +3292,10 @@
       "slug": "riambel",
       "name": "RIAMBEL",
       "district": "savanne",
-      "outageCount": 35,
+      "outageCount": 36,
       "file": "riambel.json",
       "firstOutage": "2022-03-20",
-      "lastOutage": "2026-09-14"
+      "lastOutage": "2026-10-30"
     },
     {
       "slug": "riche-bois",
@@ -3319,10 +3319,10 @@
       "slug": "riche-terre",
       "name": "RICHE TERRE",
       "district": "pamplemousses",
-      "outageCount": 47,
+      "outageCount": 51,
       "file": "riche-terre.json",
       "firstOutage": "2022-04-03",
-      "lastOutage": "2026-09-20"
+      "lastOutage": "2026-10-30"
     },
     {
       "slug": "richelieu",
@@ -3391,10 +3391,10 @@
       "slug": "riviere-des-anguilles",
       "name": "RIVIERE DES ANGUILLES",
       "district": "savanne",
-      "outageCount": 46,
+      "outageCount": 47,
       "file": "riviere-des-anguilles.json",
       "firstOutage": "2022-04-13",
-      "lastOutage": "2026-10-25"
+      "lastOutage": "2026-10-31"
     },
     {
       "slug": "riviere-des-creoles",
@@ -3436,10 +3436,10 @@
       "slug": "riviere-noire",
       "name": "RIVIERE NOIRE",
       "district": "blackriver",
-      "outageCount": 55,
+      "outageCount": 57,
       "file": "riviere-noire.json",
       "firstOutage": "2022-06-03",
-      "lastOutage": "2026-10-07"
+      "lastOutage": "2026-11-03"
     },
     {
       "slug": "roche-bois",
@@ -3472,10 +3472,10 @@
       "slug": "roches-brunes",
       "name": "ROCHES BRUNES",
       "district": "plainewilhems",
-      "outageCount": 45,
+      "outageCount": 46,
       "file": "roches-brunes.json",
       "firstOutage": "2022-10-01",
-      "lastOutage": "2026-10-16"
+      "lastOutage": "2026-10-26"
     },
     {
       "slug": "roches-noires",
@@ -3490,19 +3490,19 @@
       "slug": "rodrigues",
       "name": "RODRIGUES",
       "district": "rodrigues",
-      "outageCount": 286,
+      "outageCount": 293,
       "file": "rodrigues.json",
       "firstOutage": "2022-03-15",
-      "lastOutage": "2026-10-21"
+      "lastOutage": "2026-11-01"
     },
     {
       "slug": "rose-belle",
       "name": "ROSE BELLE",
       "district": "grandport",
-      "outageCount": 88,
+      "outageCount": 89,
       "file": "rose-belle.json",
       "firstOutage": "2022-05-12",
-      "lastOutage": "2026-10-16"
+      "lastOutage": "2026-10-28"
     },
     {
       "slug": "rose-hill",
@@ -3598,19 +3598,19 @@
       "slug": "saint-julien-village",
       "name": "SAINT JULIEN VILLAGE",
       "district": "flacq",
-      "outageCount": 15,
+      "outageCount": 16,
       "file": "saint-julien-village.json",
       "firstOutage": "2023-01-04",
-      "lastOutage": "2026-08-10"
+      "lastOutage": "2026-10-24"
     },
     {
       "slug": "saint-martin-r-hill",
       "name": "SAINT MARTIN R-HILL",
       "district": "plainewilhems",
-      "outageCount": 28,
+      "outageCount": 29,
       "file": "saint-martin-r-hill.json",
       "firstOutage": "2022-05-28",
-      "lastOutage": "2026-09-12"
+      "lastOutage": "2026-10-27"
     },
     {
       "slug": "saint-paul",
@@ -3634,10 +3634,10 @@
       "slug": "sainte-croix",
       "name": "SAINTE CROIX",
       "district": "portlouis",
-      "outageCount": 102,
+      "outageCount": 103,
       "file": "sainte-croix.json",
       "firstOutage": "2022-04-26",
-      "lastOutage": "2026-10-08"
+      "lastOutage": "2026-10-24"
     },
     {
       "slug": "salazie",
@@ -3832,19 +3832,19 @@
       "slug": "terre-rouge",
       "name": "TERRE ROUGE",
       "district": "pamplemousses",
-      "outageCount": 115,
+      "outageCount": 116,
       "file": "terre-rouge.json",
       "firstOutage": "2022-03-14",
-      "lastOutage": "2026-09-19"
+      "lastOutage": "2026-10-24"
     },
     {
       "slug": "tombeau-bay",
       "name": "TOMBEAU BAY",
       "district": "pamplemousses",
-      "outageCount": 146,
+      "outageCount": 148,
       "file": "tombeau-bay.json",
       "firstOutage": "2022-03-27",
-      "lastOutage": "2026-09-22"
+      "lastOutage": "2026-10-29"
     },
     {
       "slug": "tour-koenig",
@@ -3994,10 +3994,10 @@
       "slug": "vacoas",
       "name": "VACOAS",
       "district": "plainewilhems",
-      "outageCount": 276,
+      "outageCount": 281,
       "file": "vacoas.json",
       "firstOutage": "2022-03-17",
-      "lastOutage": "2026-10-25"
+      "lastOutage": "2026-11-01"
     },
     {
       "slug": "valentina",
@@ -4021,10 +4021,10 @@
       "slug": "vallee-des-pretres",
       "name": "VALLEE DES PRETRES",
       "district": "portlouis",
-      "outageCount": 89,
+      "outageCount": 90,
       "file": "vallee-des-pretres.json",
       "firstOutage": "2022-03-27",
-      "lastOutage": "2026-10-15"
+      "lastOutage": "2026-10-28"
     },
     {
       "slug": "vallee-pitot",

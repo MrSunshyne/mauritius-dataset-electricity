@@ -1,0 +1,58 @@
+{
+  "date": "2026-10-31",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-10-31T18:09:48.689Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le samedi 31 octobre 2026 de  09:00:00 à  16:00:00",
+      "locality": "GROS BILLOT",
+      "localitySlug": "gros-billot",
+      "streets": "En partie Route Royal Gros Billot, Bois DOiseaux Road, Samputh Road, Oree Lane et Residence Le Bosquet",
+      "district": "grandport",
+      "from": "2026-10-31T05:00:00.000Z",
+      "to": "2026-10-31T12:00:00.000Z",
+      "id": "b64196faacaabc25c5ab7aa8c62a0bfc"
+    },
+    {
+      "date": "Le samedi 31 octobre 2026 de  08:30:00 à  15:00:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "une partie de Railway Road, une partie de Flamingo Road, Morcellement Blueprint Highlands, Morcellement Omnicane, une partie de Morcellement Highland Rose, Morcellement Khoyratty les environs",
+      "district": "plainewilhems",
+      "from": "2026-10-31T04:30:00.000Z",
+      "to": "2026-10-31T11:00:00.000Z",
+      "id": "670cb6b57dc823992cca99bda3ee128e"
+    },
+    {
+      "date": "Le samedi 31 octobre 2026 de  09:00:00 à  14:00:00",
+      "locality": "BONNE TERRE",
+      "localitySlug": "bonne-terre",
+      "streets": "Morc Fleuriot,Remy Olier,Vetivert,Gopee lane",
+      "district": "plainewilhems",
+      "from": "2026-10-31T05:00:00.000Z",
+      "to": "2026-10-31T10:00:00.000Z",
+      "id": "fbb441395c84e2bbf0998b8b07913fca"
+    },
+    {
+      "date": "Le samedi 31 octobre 2026 de  08:30:00 à  15:00:00",
+      "locality": "RIVIERE DES ANGUILLES",
+      "localitySlug": "riviere-des-anguilles",
+      "streets": "Tyack Riviere des Anguilles",
+      "district": "savanne",
+      "from": "2026-10-31T04:30:00.000Z",
+      "to": "2026-10-31T11:00:00.000Z",
+      "id": "6ed4e1c6f743c09264d02168dfc94965"
+    },
+    {
+      "date": "Le samedi 31 octobre 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Baie Du Nord et Pointe Diable",
+      "district": "rodrigues",
+      "from": "2026-10-31T04:30:00.000Z",
+      "to": "2026-10-31T11:00:00.000Z",
+      "id": "2a616808ce611fbab0c823cbc9e35cda"
+    }
+  ]
+}

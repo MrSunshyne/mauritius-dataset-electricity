@@ -1,8 +1,8 @@
 {
   "date": "2026-10-24",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-10-22T15:42:20.034Z",
-  "outageCount": 6,
+  "generated": "2026-10-31T18:09:48.689Z",
+  "outageCount": 18,
   "outages": [
     {
       "date": "Le samedi 24 octobre 2026 de  08:30:00 à  15:30:00",
@@ -15,6 +15,16 @@
       "id": "a50487c370aed8cb427903c1c2ef6908"
     },
     {
+      "date": "Le samedi 24 octobre 2026 de  11:30:00 à  15:30:00",
+      "locality": "SAINT JULIEN VILLAGE",
+      "localitySlug": "saint-julien-village",
+      "streets": "AVE DALIAH MORC RICHFOND ST JULIEN VILLAGE",
+      "district": "flacq",
+      "from": "2026-10-24T07:30:00.000Z",
+      "to": "2026-10-24T11:30:00.000Z",
+      "id": "720b8b20f2e24ee72b9a35802195ec8a"
+    },
+    {
       "date": "Le samedi 24 octobre 2026 de  08:30:00 à  17:00:00",
       "locality": "MAHEBOURG",
       "localitySlug": "mahebourg",
@@ -23,6 +33,76 @@
       "from": "2026-10-24T04:30:00.000Z",
       "to": "2026-10-24T13:00:00.000Z",
       "id": "6a7f9b755ceefc6c454d6ea6f004952d"
+    },
+    {
+      "date": "Le samedi 24 octobre 2026 de  16:45:00 à  21:00:00",
+      "locality": "PLAINE MAGNIEN",
+      "localitySlug": "plaine-magnien",
+      "streets": "RISHI DAYANAND ROAD, PANDIT SAHADEO ROAD ET DANS LES ENVIRONS ECOLE GOUVERNEMENT.",
+      "district": "grandport",
+      "from": "2026-10-24T12:45:00.000Z",
+      "to": "2026-10-24T17:00:00.000Z",
+      "id": "94de169c92fe605aee8020fefeff68e4"
+    },
+    {
+      "date": "Le samedi 24 octobre 2026 de  00:00:00 à  03:00:00",
+      "locality": "ESPERANCE PITON",
+      "localitySlug": "esperance-piton",
+      "streets": "FOOTBALL GROUND STREET, DR BENEDICT ROAD, MAURICE MARTIN ROAD & SURROUNDINGS",
+      "district": "pamplemousses",
+      "from": "2026-10-23T20:00:00.000Z",
+      "to": "2026-10-23T23:00:00.000Z",
+      "id": "6dec868e1c69f43646c7dcfd9d1bcb7e"
+    },
+    {
+      "date": "Le samedi 24 octobre 2026 de  09:00:00 à  12:00:00",
+      "locality": "TERRE ROUGE",
+      "localitySlug": "terre-rouge",
+      "streets": "Dans les environs de School Lane",
+      "district": "pamplemousses",
+      "from": "2026-10-24T05:00:00.000Z",
+      "to": "2026-10-24T08:00:00.000Z",
+      "id": "ea9652b6077bf2af425e7a122d91ac03"
+    },
+    {
+      "date": "Le samedi 24 octobre 2026 de  09:00:00 à  12:00:00",
+      "locality": "RICHE TERRE",
+      "localitySlug": "riche-terre",
+      "streets": "Dans les environs de Riche Terre Road et Roma Lane",
+      "district": "pamplemousses",
+      "from": "2026-10-24T05:00:00.000Z",
+      "to": "2026-10-24T08:00:00.000Z",
+      "id": "f4bce2dcbf6cc3c54ab285ec97ece7ff"
+    },
+    {
+      "date": "Le samedi 24 octobre 2026 de  12:00:00 à  14:30:00",
+      "locality": "RICHE TERRE",
+      "localitySlug": "riche-terre",
+      "streets": "Dans les environs de Shivala Road, Tagore Lane et Subash Chandra Bose Street",
+      "district": "pamplemousses",
+      "from": "2026-10-24T08:00:00.000Z",
+      "to": "2026-10-24T10:30:00.000Z",
+      "id": "c7cf80cf0ac9dbd1cc70d318905f59bd"
+    },
+    {
+      "date": "Le samedi 24 octobre 2026 de  12:00:00 à  14:30:00",
+      "locality": "TOMBEAU BAY",
+      "localitySlug": "tombeau-bay",
+      "streets": "Dans les environs de Avenue des Filaos et la route Royale",
+      "district": "pamplemousses",
+      "from": "2026-10-24T08:00:00.000Z",
+      "to": "2026-10-24T10:30:00.000Z",
+      "id": "e5a9d72108a0a3dc40975f1d48703091"
+    },
+    {
+      "date": "Le samedi 24 octobre 2026 de  16:15:00 à  21:00:00",
+      "locality": "PETITE JULIE",
+      "localitySlug": "petite-julie",
+      "streets": "EN PARTIE LA ROUTE ROYALE ET LES ALENTOURS.",
+      "district": "pamplemousses",
+      "from": "2026-10-24T12:15:00.000Z",
+      "to": "2026-10-24T17:00:00.000Z",
+      "id": "e93e5917f44e7bbb51c9d88b8792c6cf"
     },
     {
       "date": "Le samedi 24 octobre 2026 de  09:00:00 à  14:00:00",
@@ -45,6 +125,26 @@
       "id": "05f42d060726fcded2ca67349aca8014"
     },
     {
+      "date": "Le samedi 24 octobre 2026 de  12:00:00 à  14:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "CNR BERTHAUD / L LOUVIERE AVE FLOREAL",
+      "district": "plainewilhems",
+      "from": "2026-10-24T08:00:00.000Z",
+      "to": "2026-10-24T10:00:00.000Z",
+      "id": "108e29430019fceb5368318abc8ee21b"
+    },
+    {
+      "date": "Le samedi 24 octobre 2026 de  12:00:00 à  14:30:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "Dans les environs de Riche Terre Road",
+      "district": "portlouis",
+      "from": "2026-10-24T08:00:00.000Z",
+      "to": "2026-10-24T10:30:00.000Z",
+      "id": "b4ee0cae89cdd61f1561c45acea5864a"
+    },
+    {
       "date": "Le samedi 24 octobre 2026 de  08:30:00 à  14:00:00",
       "locality": "RIVIERE DU REMPART",
       "localitySlug": "riviere-du-rempart",
@@ -63,6 +163,26 @@
       "from": "2026-10-24T07:30:00.000Z",
       "to": "2026-10-24T10:00:00.000Z",
       "id": "130bc2e4a50b25b1ea65a9f31428e79f"
+    },
+    {
+      "date": "Le samedi 24 octobre 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Grand Var, Petite Butte, Pointe Vingt Tour, Corail, Montagne Cabris Corail, Cascade Jean Louis,Grand La Fouche Corail, Plaine Corail, Anse Ali et Patate Theophile",
+      "district": "rodrigues",
+      "from": "2026-10-24T04:30:00.000Z",
+      "to": "2026-10-24T11:00:00.000Z",
+      "id": "2d76d0f53f6e261ea98fdec0633c36a4"
+    },
+    {
+      "date": "Le samedi 24 octobre 2026 de  13:40:00 à  18:00:00",
+      "locality": "LE VAL",
+      "localitySlug": "le-val",
+      "streets": "LE VAL VILLAGE, NHDC ST HUBERT ET EN PARTIE VILLAGE DE ST HUBERT DANS LES ENVIRONS ANTENNE TELECOM.",
+      "district": "unknown",
+      "from": "2026-10-24T09:40:00.000Z",
+      "to": "2026-10-24T14:00:00.000Z",
+      "id": "67f95644132f0d49663ec5fe3674b0d4"
     }
   ]
 }

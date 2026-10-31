@@ -2,11 +2,18 @@
   "slug": "camp-des-embrevades",
   "name": "CAMP DES EMBREVADES",
   "district": "pamplemousses",
-  "generated": "2026-10-22T15:42:20.070Z",
-  "outageCount": 17,
+  "generated": "2026-10-31T18:09:48.710Z",
+  "outageCount": 18,
   "firstOutage": "2022-11-05",
-  "lastOutage": "2026-09-01",
+  "lastOutage": "2026-10-26",
   "outages": [
+    {
+      "date": "Le lundi 26 octobre 2026 de  20:30:00 à  00:00:00",
+      "streets": "SUPER UNIQUE LANE ET DANS LES ENVIRONS TABAGIE POPULAIRE/MOSQUE.",
+      "from": "2026-10-26T16:30:00.000Z",
+      "to": "2026-10-25T20:00:00.000Z",
+      "id": "d3111ccf3da7dd0ce760099884666da6"
+    },
     {
       "date": "Le mardi 1 septembre 2026 de  21:20:00 à  22:50:00",
       "streets": "CAMP DES EMBREVADES",

@@ -2,11 +2,18 @@
   "slug": "canot",
   "name": "CANOT",
   "district": "blackriver",
-  "generated": "2026-10-22T15:42:20.073Z",
-  "outageCount": 8,
+  "generated": "2026-10-31T18:09:48.712Z",
+  "outageCount": 9,
   "firstOutage": "2022-11-08",
-  "lastOutage": "2026-10-01",
+  "lastOutage": "2026-10-29",
   "outages": [
+    {
+      "date": "Le jeudi 29 octobre 2026 de  15:30:00 à  17:00:00",
+      "streets": "CANOT & GROS CAILLOUX - AVE HIBISCUS, AVE MARGUERITE, AVE ROUSAILLES, MORC DOMAH, QUALITY DECOR ET LES ENVIRONS",
+      "from": "2026-10-29T11:30:00.000Z",
+      "to": "2026-10-29T13:00:00.000Z",
+      "id": "548fe690c911295023cb683542a95c66"
+    },
     {
       "date": "Le jeudi 1 octobre 2026 de  15:00:00 à  17:30:00",
       "streets": "LES ABONNES DU MORCELLEMENT CANOT.",

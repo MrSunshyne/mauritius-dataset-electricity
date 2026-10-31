@@ -2,11 +2,32 @@
   "slug": "flic-en-flac",
   "name": "FLIC-EN-FLAC",
   "district": "blackriver",
-  "generated": "2026-10-22T15:42:20.092Z",
-  "outageCount": 242,
+  "generated": "2026-10-31T18:09:48.721Z",
+  "outageCount": 245,
   "firstOutage": "2022-03-16",
-  "lastOutage": "2026-10-16",
+  "lastOutage": "2026-10-30",
   "outages": [
+    {
+      "date": "Le vendredi 30 octobre 2026 de  14:15:00 à  17:15:00",
+      "streets": "MORC DE CHAZAL : AVENUE DES TOURTEREAUX, AVENUE PIVERT, AVENUE DES OIES, AVENUE DES TOUCANS, CASA MARIA, SHANTI HAVELI ET LES ENVIRONS.",
+      "from": "2026-10-30T10:15:00.000Z",
+      "to": "2026-10-30T13:15:00.000Z",
+      "id": "f022e0fc4684e30a6df501929a4029a3"
+    },
+    {
+      "date": "Le jeudi 29 octobre 2026 de  08:30:00 à  15:30:00",
+      "streets": "MORC DE CHAZAL- AVE DES TOURTEREAUX, AVE DES PIVERTS, AVE DES PELICANS, AVE DES TOUCANS, RAYON VERT APPARTEMENTS, CASA MARIA APPARTEMENTS ET DIAMANT BLUE APPARTEMENTS",
+      "from": "2026-10-29T04:30:00.000Z",
+      "to": "2026-10-29T11:30:00.000Z",
+      "id": "3306298b76588db394fd59ff446efafa"
+    },
+    {
+      "date": "Le lundi 26 octobre 2026 de  08:30:00 à  16:00:00",
+      "streets": "MORC PALMYRE, MORC LI YAO, MORC SAFELAND, MORC DE CHAZAL, AVE RADAR, LE RAVIN APPARTEMENTS, AVE FLAMANTS ET AVE DES COLOMBES",
+      "from": "2026-10-26T04:30:00.000Z",
+      "to": "2026-10-26T12:00:00.000Z",
+      "id": "6c53d94c448fc5c3e5e836d3d51c4f10"
+    },
     {
       "date": "Le vendredi 16 octobre 2026 de  08:30:00 à  15:30:00",
       "streets": "MORC ANNA- AVE MOULIN CASSE, AVE DES TRUITES, AVE DES MARLINS, AVE DES MEROUS ET IMPASSE BECUNES",

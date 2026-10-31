@@ -2,11 +2,18 @@
   "slug": "caroline-bel-air",
   "name": "CAROLINE BEL AIR",
   "district": "flacq",
-  "generated": "2026-10-22T15:42:20.074Z",
-  "outageCount": 41,
+  "generated": "2026-10-31T18:09:48.712Z",
+  "outageCount": 42,
   "firstOutage": "2022-06-01",
-  "lastOutage": "2026-06-01",
+  "lastOutage": "2026-10-25",
   "outages": [
+    {
+      "date": "Le dimanche 25 octobre 2026 de  14:25:00 à  15:15:00",
+      "streets": "CAROLINE BEL AIR",
+      "from": "2026-10-25T10:25:00.000Z",
+      "to": "2026-10-25T11:15:00.000Z",
+      "id": "60b0c9da5c41534b0113ea4e4c21d4da"
+    },
     {
       "date": "Le lundi 1 juin 2026 de  13:00:00 à  16:00:00",
       "streets": "EN PARTIE ROUTE ROYALE, CHEMIN L-ECOLE ET EN PARTIE CITE EDC.",

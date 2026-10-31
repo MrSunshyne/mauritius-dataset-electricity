@@ -2,11 +2,18 @@
   "slug": "riviere-des-anguilles",
   "name": "RIVIERE DES ANGUILLES",
   "district": "savanne",
-  "generated": "2026-10-22T15:42:20.150Z",
-  "outageCount": 46,
+  "generated": "2026-10-31T18:09:48.751Z",
+  "outageCount": 47,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2026-10-25",
+  "lastOutage": "2026-10-31",
   "outages": [
+    {
+      "date": "Le samedi 31 octobre 2026 de  08:30:00 à  15:00:00",
+      "streets": "Tyack Riviere des Anguilles",
+      "from": "2026-10-31T04:30:00.000Z",
+      "to": "2026-10-31T11:00:00.000Z",
+      "id": "6ed4e1c6f743c09264d02168dfc94965"
+    },
     {
       "date": "Le dimanche 25 octobre 2026 de  08:30:00 à  15:00:00",
       "streets": "Le village de St Aubin et de Rivières Des Anguilles",

@@ -2,11 +2,18 @@
   "slug": "dagotiere",
   "name": "DAGOTIERE",
   "district": "moka",
-  "generated": "2026-10-22T15:42:20.085Z",
-  "outageCount": 29,
+  "generated": "2026-10-31T18:09:48.718Z",
+  "outageCount": 30,
   "firstOutage": "2022-04-24",
-  "lastOutage": "2026-10-14",
+  "lastOutage": "2026-10-29",
   "outages": [
+    {
+      "date": "Le jeudi 29 octobre 2026 de  12:30:00 à  14:30:00",
+      "streets": "Partie de la Route Route Royale, Rue Shivala, Rue Kalimaye et Rue Dispensaire, ruelles avoisinantes et dans le périmètre d’école du gouvernment",
+      "from": "2026-10-29T08:30:00.000Z",
+      "to": "2026-10-29T10:30:00.000Z",
+      "id": "9109952a9aaeae8720441867bffab116"
+    },
     {
       "date": "Le mercredi 14 octobre 2026 de  09:00:00 à  16:00:00",
       "streets": "Route Royale",

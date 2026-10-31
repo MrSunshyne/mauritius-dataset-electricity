@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-30",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-10-31T18:09:48.689Z",
+  "outageCount": 8,
+  "outages": [
+    {
+      "date": "Le vendredi 30 octobre 2026 de  13:00:00 à  14:00:00",
+      "locality": "ALBION",
+      "localitySlug": "albion",
+      "streets": "VICTORY ALBION",
+      "district": "blackriver",
+      "from": "2026-10-30T09:00:00.000Z",
+      "to": "2026-10-30T10:00:00.000Z",
+      "id": "98ec42094ee28e73866ff715bb4d43e5"
+    },
+    {
+      "date": "Le vendredi 30 octobre 2026 de  14:15:00 à  17:15:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "MORC DE CHAZAL : AVENUE DES TOURTEREAUX, AVENUE PIVERT, AVENUE DES OIES, AVENUE DES TOUCANS, CASA MARIA, SHANTI HAVELI ET LES ENVIRONS.",
+      "district": "blackriver",
+      "from": "2026-10-30T10:15:00.000Z",
+      "to": "2026-10-30T13:15:00.000Z",
+      "id": "f022e0fc4684e30a6df501929a4029a3"
+    },
+    {
+      "date": "Le vendredi 30 octobre 2026 de  18:00:00 à  20:00:00",
+      "locality": "RIVIERE NOIRE",
+      "localitySlug": "riviere-noire",
+      "streets": "MORC RAMDANEE : MATALA, GREENCOAST, CHEMIN GORGES, MOUNTAIN VIEW, TROIS BRAS, LA FILATURE.",
+      "district": "blackriver",
+      "from": "2026-10-30T14:00:00.000Z",
+      "to": "2026-10-30T16:00:00.000Z",
+      "id": "43200106fcc158b7dcce7dde3195da35"
+    },
+    {
+      "date": "Le vendredi 30 octobre 2026 de  22:00:00 à  02:00:00",
+      "locality": "BELLE ROSE ( Q BORNES )",
+      "localitySlug": "belle-rose",
+      "streets": "AVENUE GERNINGHAM/AVENUE MOKA BELLEROSE",
+      "district": "flacq",
+      "from": "2026-10-30T18:00:00.000Z",
+      "to": "2026-10-29T22:00:00.000Z",
+      "id": "2bef7bd4f439544015f7a5fa43e9dc43"
+    },
+    {
+      "date": "Le vendredi 30 octobre 2026 de  08:30:00 à  14:30:00",
+      "locality": "PAMPLEMOUSSES",
+      "localitySlug": "pamplemousses",
+      "streets": "Dans les environs de Sir Seewoosagur Ramgoolam Botanical Garden",
+      "district": "pamplemousses",
+      "from": "2026-10-30T04:30:00.000Z",
+      "to": "2026-10-30T10:30:00.000Z",
+      "id": "983f913823357a799c57c15ea507316b"
+    },
+    {
+      "date": "Le vendredi 30 octobre 2026 de  12:00:00 à  16:00:00",
+      "locality": "RICHE TERRE",
+      "localitySlug": "riche-terre",
+      "streets": "Dans les environs de Riche Terre Road et Roma Lane",
+      "district": "pamplemousses",
+      "from": "2026-10-30T08:00:00.000Z",
+      "to": "2026-10-30T12:00:00.000Z",
+      "id": "66ccc7dc32c9eea1d7627efe9bfe3dd5"
+    },
+    {
+      "date": "Le vendredi 30 octobre 2026 de  16:00:00 à  18:30:00",
+      "locality": "RIAMBEL",
+      "localitySlug": "riambel",
+      "streets": "EN PARTIE MORC BLUEPRINT.",
+      "district": "savanne",
+      "from": "2026-10-30T12:00:00.000Z",
+      "to": "2026-10-30T14:30:00.000Z",
+      "id": "22b9c556fed752c58e73bf4a249954cd"
+    },
+    {
+      "date": "Le vendredi 30 octobre 2026 de  08:30:00 à  16:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Grand La Fouche Corail, Cascade Jean Louis, Plaine Corail, Anse Quitor et Dans Coco",
+      "district": "rodrigues",
+      "from": "2026-10-30T04:30:00.000Z",
+      "to": "2026-10-30T12:00:00.000Z",
+      "id": "e57ab202de5b02ef79597e220a4a3a3e"
+    }
+  ]
+}

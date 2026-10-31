@@ -2,11 +2,18 @@
   "slug": "notre-dame",
   "name": "NOTRE DAME",
   "district": "pamplemousses",
-  "generated": "2026-10-22T15:42:20.127Z",
-  "outageCount": 44,
+  "generated": "2026-10-31T18:09:48.737Z",
+  "outageCount": 45,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-09-28",
+  "lastOutage": "2026-10-29",
   "outages": [
+    {
+      "date": "Le jeudi 29 octobre 2026 de  13:20:00 à  17:00:00",
+      "streets": "RAMGOOLAM ROAD, EN PARTIE ROYAL RD DANS LES ALENTOURS DOMAINE DES RIVES, DANS LES ALENTOURS QUINCAILLERIE KAYLASH/PONT LA CHAINE.",
+      "from": "2026-10-29T09:20:00.000Z",
+      "to": "2026-10-29T13:00:00.000Z",
+      "id": "c30650f24ca763ecd66c9aac302c9b53"
+    },
     {
       "date": "Le lundi 28 septembre 2026 de  15:00:00 à  16:30:00",
       "streets": "Notre Dame",

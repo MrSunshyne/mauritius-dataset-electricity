@@ -2,11 +2,25 @@
   "slug": "pereybere",
   "name": "PEREYBERE",
   "district": "rivieredurempart",
-  "generated": "2026-10-22T15:42:20.131Z",
-  "outageCount": 124,
+  "generated": "2026-10-31T18:09:48.741Z",
+  "outageCount": 126,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-10-09",
+  "lastOutage": "2026-10-28",
   "outages": [
+    {
+      "date": "Le mercredi 28 octobre 2026 de  12:45:00 à  18:00:00",
+      "streets": "OLD MILL ROAD & SURROUNDINGS",
+      "from": "2026-10-28T08:45:00.000Z",
+      "to": "2026-10-28T14:00:00.000Z",
+      "id": "449e09b10c433c6347b6df8a1becd48a"
+    },
+    {
+      "date": "Le mercredi 28 octobre 2026 de  09:40:00 à  12:00:00",
+      "streets": "PEREYBERE & PART OF GRAND BAY",
+      "from": "2026-10-28T05:40:00.000Z",
+      "to": "2026-10-28T08:00:00.000Z",
+      "id": "1a6cfa5d8cafb290929bd38288314452"
+    },
     {
       "date": "Le vendredi 9 octobre 2026 de  10:00:00 à  15:00:00",
       "streets": "ALLEES LE COCOTIER,SEA BLUE/ROYAL ROAD PEREYBERE",

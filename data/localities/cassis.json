@@ -2,11 +2,18 @@
   "slug": "cassis",
   "name": "CASSIS",
   "district": "portlouis",
-  "generated": "2026-10-22T15:42:20.075Z",
-  "outageCount": 40,
+  "generated": "2026-10-31T18:09:48.713Z",
+  "outageCount": 41,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-08-30",
+  "lastOutage": "2026-10-27",
   "outages": [
+    {
+      "date": "Le mardi 27 octobre 2026 de  16:00:00 à  18:00:00",
+      "streets": "Rues Moonawah,Jean Baptiste Lamasse",
+      "from": "2026-10-27T12:00:00.000Z",
+      "to": "2026-10-27T14:00:00.000Z",
+      "id": "0f91390a0bf16018f9636386c60d3140"
+    },
     {
       "date": "Le dimanche 30 août 2026 de  08:30:00 à  15:00:00",
       "streets": "Dans les environs des Rues Praslin, Tanner, Tamatave, Edgar Aubert, Celestin, Rushworth et Réserves",

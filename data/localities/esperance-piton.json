@@ -2,11 +2,18 @@
   "slug": "esperance-piton",
   "name": "ESPERANCE PITON",
   "district": "pamplemousses",
-  "generated": "2026-10-22T15:42:20.091Z",
-  "outageCount": 13,
+  "generated": "2026-10-31T18:09:48.720Z",
+  "outageCount": 14,
   "firstOutage": "2022-10-08",
-  "lastOutage": "2026-07-31",
+  "lastOutage": "2026-10-24",
   "outages": [
+    {
+      "date": "Le samedi 24 octobre 2026 de  00:00:00 à  03:00:00",
+      "streets": "FOOTBALL GROUND STREET, DR BENEDICT ROAD, MAURICE MARTIN ROAD & SURROUNDINGS",
+      "from": "2026-10-23T20:00:00.000Z",
+      "to": "2026-10-23T23:00:00.000Z",
+      "id": "6dec868e1c69f43646c7dcfd9d1bcb7e"
+    },
     {
       "date": "Le vendredi 31 juillet 2026 de  18:00:00 à  22:00:00",
       "streets": "CHEMIN MAURICE MARTIN ET DANS LES ENVIRONS BATIMENT NPF.",

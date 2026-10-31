@@ -2,11 +2,18 @@
   "slug": "roches-brunes",
   "name": "ROCHES BRUNES",
   "district": "plainewilhems",
-  "generated": "2026-10-22T15:42:20.152Z",
-  "outageCount": 45,
+  "generated": "2026-10-31T18:09:48.753Z",
+  "outageCount": 46,
   "firstOutage": "2022-10-01",
-  "lastOutage": "2026-10-16",
+  "lastOutage": "2026-10-26",
   "outages": [
+    {
+      "date": "Le lundi 26 octobre 2026 de  09:30:00 à  12:00:00",
+      "streets": "AVE COLLINS, AVE ARIANNE & SURROUNDINGS",
+      "from": "2026-10-26T05:30:00.000Z",
+      "to": "2026-10-26T08:00:00.000Z",
+      "id": "58961c0d63b3964ffe781523837d1bf3"
+    },
     {
       "date": "Le vendredi 16 octobre 2026 de  06:30:00 à  10:00:00",
       "streets": "ENDEVOR RD-SKY LANE ROCHE BRUNES",

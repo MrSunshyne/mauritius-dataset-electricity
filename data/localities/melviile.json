@@ -2,11 +2,18 @@
   "slug": "melviile",
   "name": "MELVIILE",
   "district": "rivieredurempart",
-  "generated": "2026-10-22T15:42:20.117Z",
-  "outageCount": 20,
+  "generated": "2026-10-31T18:09:48.733Z",
+  "outageCount": 21,
   "firstOutage": "2022-08-26",
-  "lastOutage": "2026-10-09",
+  "lastOutage": "2026-10-26",
   "outages": [
+    {
+      "date": "Le lundi 26 octobre 2026 de  08:30:00 à  14:00:00",
+      "streets": "GAETAN DUVAL ROAD, MELVILLE",
+      "from": "2026-10-26T04:30:00.000Z",
+      "to": "2026-10-26T10:00:00.000Z",
+      "id": "234192c9cef564f26fe51902beb2e0c0"
+    },
     {
       "date": "Le vendredi 9 octobre 2026 de  13:00:00 à  15:00:00",
       "streets": "MELVILLE GRAND GAUBE",

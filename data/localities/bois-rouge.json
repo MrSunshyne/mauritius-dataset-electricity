@@ -2,11 +2,18 @@
   "slug": "bois-rouge",
   "name": "BOIS ROUGE",
   "district": "pamplemousses",
-  "generated": "2026-10-22T15:42:20.066Z",
-  "outageCount": 17,
+  "generated": "2026-10-31T18:09:48.707Z",
+  "outageCount": 18,
   "firstOutage": "2022-07-28",
-  "lastOutage": "2026-06-13",
+  "lastOutage": "2026-10-27",
   "outages": [
+    {
+      "date": "Le mardi 27 octobre 2026 de  08:30:00 à  16:30:00",
+      "streets": "Bois Rouge dans les environs de La Louisa, ecole Green Coast, Hospital rd et en partie Route Royal Bois Rouge",
+      "from": "2026-10-27T04:30:00.000Z",
+      "to": "2026-10-27T12:30:00.000Z",
+      "id": "c65f2cd02fe8cbc43a238faa91f7f4e9"
+    },
     {
       "date": "Le samedi 13 juin 2026 de  11:15:00 à  16:00:00",
       "streets": "BOIS ROUGE PAMPLEMOUSSES : DANS LES ENVIRONS ROUTE ROYALE, DR MANILALL.",

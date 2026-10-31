@@ -2,11 +2,32 @@
   "slug": "pamplemousses",
   "name": "PAMPLEMOUSSES",
   "district": "pamplemousses",
-  "generated": "2026-10-22T15:42:20.130Z",
-  "outageCount": 66,
+  "generated": "2026-10-31T18:09:48.740Z",
+  "outageCount": 69,
   "firstOutage": "2022-05-08",
-  "lastOutage": "2026-09-04",
+  "lastOutage": "2026-10-30",
   "outages": [
+    {
+      "date": "Le vendredi 30 octobre 2026 de  08:30:00 à  14:30:00",
+      "streets": "Dans les environs de Sir Seewoosagur Ramgoolam Botanical Garden",
+      "from": "2026-10-30T04:30:00.000Z",
+      "to": "2026-10-30T10:30:00.000Z",
+      "id": "983f913823357a799c57c15ea507316b"
+    },
+    {
+      "date": "Le mercredi 28 octobre 2026 de  14:00:00 à  16:00:00",
+      "streets": "BELLE SOURCE JUSKA ANCIEN BATIMENT MCB",
+      "from": "2026-10-28T10:00:00.000Z",
+      "to": "2026-10-28T12:00:00.000Z",
+      "id": "1eb912d9030759ba79c965f34e589cff"
+    },
+    {
+      "date": "Le lundi 26 octobre 2026 de  15:30:00 à  18:00:00",
+      "streets": "BOIS ROUGE/BEAU PLAN/PAMPPLEMOUSSES/MONGOUT/MOUNT/MONPITON",
+      "from": "2026-10-26T11:30:00.000Z",
+      "to": "2026-10-26T14:00:00.000Z",
+      "id": "addbf7f6271eb48552599332f1fb0cb8"
+    },
     {
       "date": "Le vendredi 4 septembre 2026 de  12:35:00 à  15:00:00",
       "streets": "CITE CHA PAMPLEMOUSSES",

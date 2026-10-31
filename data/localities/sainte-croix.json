@@ -2,11 +2,18 @@
   "slug": "sainte-croix",
   "name": "SAINTE CROIX",
   "district": "portlouis",
-  "generated": "2026-10-22T15:42:20.158Z",
-  "outageCount": 102,
+  "generated": "2026-10-31T18:09:48.759Z",
+  "outageCount": 103,
   "firstOutage": "2022-04-26",
-  "lastOutage": "2026-10-08",
+  "lastOutage": "2026-10-24",
   "outages": [
+    {
+      "date": "Le samedi 24 octobre 2026 de  12:00:00 à  14:30:00",
+      "streets": "Dans les environs de Riche Terre Road",
+      "from": "2026-10-24T08:00:00.000Z",
+      "to": "2026-10-24T10:30:00.000Z",
+      "id": "b4ee0cae89cdd61f1561c45acea5864a"
+    },
     {
       "date": "Le jeudi 8 octobre 2026 de  10:00:00 à  16:30:00",
       "streets": "Dans les environs de la Route Bassin No 1 & 2 et Le Cornu",

@@ -2,11 +2,18 @@
   "slug": "vallee-des-pretres",
   "name": "VALLEE DES PRETRES",
   "district": "portlouis",
-  "generated": "2026-10-22T15:42:20.171Z",
-  "outageCount": 89,
+  "generated": "2026-10-31T18:09:48.766Z",
+  "outageCount": 90,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-10-15",
+  "lastOutage": "2026-10-28",
   "outages": [
+    {
+      "date": "Le mercredi 28 octobre 2026 de  11:00:00 à  12:00:00",
+      "streets": "CREMATION ROAD, SOOKUN LANE, SCHOOL LANE & SURROUNDINGS",
+      "from": "2026-10-28T07:00:00.000Z",
+      "to": "2026-10-28T08:00:00.000Z",
+      "id": "62198e31fbcde5491cf7a23b6557bb22"
+    },
     {
       "date": "Le jeudi 15 octobre 2026 de  11:00:00 à  14:00:00",
       "streets": "Morc Seekdaurs",

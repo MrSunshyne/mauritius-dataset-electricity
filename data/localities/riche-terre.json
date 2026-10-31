@@ -2,11 +2,39 @@
   "slug": "riche-terre",
   "name": "RICHE TERRE",
   "district": "pamplemousses",
-  "generated": "2026-10-22T15:42:20.147Z",
-  "outageCount": 47,
+  "generated": "2026-10-31T18:09:48.750Z",
+  "outageCount": 51,
   "firstOutage": "2022-04-03",
-  "lastOutage": "2026-09-20",
+  "lastOutage": "2026-10-30",
   "outages": [
+    {
+      "date": "Le vendredi 30 octobre 2026 de  12:00:00 à  16:00:00",
+      "streets": "Dans les environs de Riche Terre Road et Roma Lane",
+      "from": "2026-10-30T08:00:00.000Z",
+      "to": "2026-10-30T12:00:00.000Z",
+      "id": "66ccc7dc32c9eea1d7627efe9bfe3dd5"
+    },
+    {
+      "date": "Le mardi 27 octobre 2026 de  10:20:00 à  11:30:00",
+      "streets": "DIEUDONNEE RD, RICHE TERRE ROAD & SURROUNDINGS",
+      "from": "2026-10-27T06:20:00.000Z",
+      "to": "2026-10-27T07:30:00.000Z",
+      "id": "fc2951d6c119ade37fb285b7759dcd58"
+    },
+    {
+      "date": "Le samedi 24 octobre 2026 de  12:00:00 à  14:30:00",
+      "streets": "Dans les environs de Shivala Road, Tagore Lane et Subash Chandra Bose Street",
+      "from": "2026-10-24T08:00:00.000Z",
+      "to": "2026-10-24T10:30:00.000Z",
+      "id": "c7cf80cf0ac9dbd1cc70d318905f59bd"
+    },
+    {
+      "date": "Le samedi 24 octobre 2026 de  09:00:00 à  12:00:00",
+      "streets": "Dans les environs de Riche Terre Road et Roma Lane",
+      "from": "2026-10-24T05:00:00.000Z",
+      "to": "2026-10-24T08:00:00.000Z",
+      "id": "f4bce2dcbf6cc3c54ab285ec97ece7ff"
+    },
     {
       "date": "Le dimanche 20 septembre 2026 de  10:00:00 à  15:00:00",
       "streets": "PART OF RICHE TERRE, LE HOCHET, SAINTE CROIX & ABERCROMBIE",

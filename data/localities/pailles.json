@@ -2,11 +2,18 @@
   "slug": "pailles",
   "name": "PAILLES",
   "district": "portlouis",
-  "generated": "2026-10-22T15:42:20.129Z",
-  "outageCount": 85,
+  "generated": "2026-10-31T18:09:48.738Z",
+  "outageCount": 86,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-10-01",
+  "lastOutage": "2026-10-25",
   "outages": [
+    {
+      "date": "Le dimanche 25 octobre 2026 de  08:30:00 à  15:00:00",
+      "streets": "DANS LES ENVIRONS DÁVENUE ALLEE DES MANGUIERS",
+      "from": "2026-10-25T04:30:00.000Z",
+      "to": "2026-10-25T11:00:00.000Z",
+      "id": "b5d9b8033f154af586de79c2c27d2835"
+    },
     {
       "date": "Le jeudi 1 octobre 2026 de  15:45:00 à  17:00:00",
       "streets": "Avenues Claude Delaitre,Dodo 4 & 5",

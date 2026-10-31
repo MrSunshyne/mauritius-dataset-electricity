@@ -2,11 +2,25 @@
   "slug": "petite-julie",
   "name": "PETITE JULIE",
   "district": "pamplemousses",
-  "generated": "2026-10-22T15:42:20.133Z",
-  "outageCount": 11,
+  "generated": "2026-10-31T18:09:48.742Z",
+  "outageCount": 13,
   "firstOutage": "2022-07-23",
-  "lastOutage": "2026-10-15",
+  "lastOutage": "2026-10-27",
   "outages": [
+    {
+      "date": "Le mardi 27 octobre 2026 de  09:20:00 à  12:00:00",
+      "streets": "ROYAL ROAD, MAHATMA GANDHI ROAD, SHIVALA ROAD & SURROUNDINGS",
+      "from": "2026-10-27T05:20:00.000Z",
+      "to": "2026-10-27T08:00:00.000Z",
+      "id": "5d685f66f0070e56e4f4449b86bad0eb"
+    },
+    {
+      "date": "Le samedi 24 octobre 2026 de  16:15:00 à  21:00:00",
+      "streets": "EN PARTIE LA ROUTE ROYALE ET LES ALENTOURS.",
+      "from": "2026-10-24T12:15:00.000Z",
+      "to": "2026-10-24T17:00:00.000Z",
+      "id": "e93e5917f44e7bbb51c9d88b8792c6cf"
+    },
     {
       "date": "Le jeudi 15 octobre 2026 de  08:45:00 à  11:30:00",
       "streets": "VILLAGE PETITE JULIE",
