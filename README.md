@@ -26,7 +26,7 @@ The aim is to provide a hassle-free way to use the data to build applications.
 
 - The maintainer of this repository is NOT affiliated with the CEB.
 - The data is automatically fetched from the CEB website but not provided directly by them.
-- The page from which the data is fetched is [publicly available](https://ceb.mu/customer-corner/power-outage-information).
+- The page from which the data is fetched is [publicly available](https://ceb.mu/power-outages).
 - The data is fetched at a rate of Once per hour betwee 6AM -6PM. ( i assume nobody updates their site after working hours)
 - The data is made available here under fair use.
 

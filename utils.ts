@@ -1,6 +1,6 @@
 import convert from 'html-to-json-data';
 import { group, text } from 'html-to-json-data/definitions.js';
-import { parse } from "date-fns";
+import { parse, format } from "date-fns";
 import fr from "date-fns/locale/fr/index.js";
 import md5 from 'md5'
 
@@ -167,6 +167,78 @@ export const extractFromSource = (data: any): InputData => {
 
 
     return dataset
+}
+
+// Item returned by https://ceb.mu/website_data.ashx?t=outages
+export interface CebOutage {
+    id: number;
+    date: string;     // YYYY-MM-DD (Mauritius time)
+    from: string;     // HH:mm
+    to: string;       // HH:mm
+    district: string; // Often empty
+    locality: string;
+    areas: string;
+    type: string;     // 'planned' | 'unplanned'
+    status: string;   // '' | 'restored' | 'cancelled'
+}
+
+// Maps a CEB district name (e.g. "Plaines Wilhems") to the key used in the dataset (e.g. "plainewilhems")
+function districtKey(name: string): string {
+    const key = name.normalize('NFD').toLowerCase().replace(/[^a-z]/g, '');
+    return key === 'plaineswilhems' ? 'plainewilhems' : key;
+}
+
+// Find the district of a locality using the localities mapping (the CEB feed often leaves district empty)
+function districtFromLocality(locality: string, mapping: LocalityMapping): string | undefined {
+    const direct = mapping.localities[slugify(locality)];
+    if (direct) return direct.district;
+
+    const lower = locality.toLowerCase();
+    for (const info of Object.values(mapping.localities)) {
+        if (info.aliases.some(alias => alias.toLowerCase() === lower)) {
+            return info.district;
+        }
+    }
+    return undefined;
+}
+
+// Rebuild the legacy French date label, e.g. "Le jeudi 22 octobre 2026 de  15:30:00 à  17:00:00"
+function legacyDateLabel(date: string, from: string, to: string): string {
+    const [y, m, d] = date.split('-').map(Number);
+    const day = format(new Date(y, m - 1, d), 'EEEE d MMMM yyyy', { locale: fr });
+    return `Le ${day} de  ${from}:00 à  ${to}:00`;
+}
+
+export const extractFromApi = (items: CebOutage[], mapping: LocalityMapping): InputData => {
+    const dataset: InputData = {};
+
+    for (const o of items) {
+        if (o.status === 'cancelled' || !o.date || !o.from) continue;
+
+        const district = (o.district && districtKey(o.district)) || districtFromLocality(o.locality, mapping) || 'unknown';
+        if (district === 'unknown') {
+            console.warn(`Warning: could not determine district for locality "${o.locality}"`);
+        }
+
+        const to = o.to || o.from;
+        const item = {
+            date: legacyDateLabel(o.date, o.from, to),
+            locality: o.locality.trim().toUpperCase(),
+            streets: o.areas.trim(),
+            district,
+        };
+        const from = new Date(`${o.date}T${o.from}:00+04:00`);
+
+        (dataset[district] ??= []).push({
+            ...item,
+            from: from.toISOString(),
+            to: new Date(`${o.date}T${to}:00+04:00`).toISOString(),
+            id: md5(JSON.stringify(item)), // Legacy ID (unchanged for backwards compatibility)
+            outageId: md5(`${district}-${item.locality}-${from.toISOString()}`) // Stable ID based on district + locality + start time
+        });
+    }
+
+    return dataset;
 }
 
 // Categorize outages into "today" (started today or still active) and "future"
