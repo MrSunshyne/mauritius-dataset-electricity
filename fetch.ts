@@ -1,10 +1,10 @@
 import { exit } from 'process';
 import fs from 'fs'
 import path from 'path'
-import { extractFromSource, makeUniq, categorize, flattenOutages, groupOutagesByDate, groupOutagesByLocality, slugify, getMauritiusDateString } from "./utils"
+import { extractFromApi, makeUniq, categorize, flattenOutages, groupOutagesByDate, groupOutagesByLocality, slugify, getMauritiusDateString } from "./utils"
 import deepmerge from 'deepmerge';
 
-const URL = 'https://ceb.mu/customer-corner/power-outage-information'
+const URL = 'https://ceb.mu/website_data.ashx?t=outages'
 const historicalPath = './data/power-outages.json'
 const pathLatest = './data/power-outages.latest.json'
 const DATA_DIR = './data';
@@ -221,7 +221,7 @@ function generateRootIndex(outages: Outage[], mapping: LocalityMapping) {
     const rootIndex = {
         name: 'Mauritius Electricity Power Outages Dataset',
         description: 'Automatically updated dataset of power outages in Mauritius',
-        source: 'https://ceb.mu/customer-corner/power-outage-information',
+        source: 'https://ceb.mu/power-outages',
         repository: 'https://github.com/MrSunshyne/mauritius-dataset-electricity',
         generated: new Date().toISOString(),
         timezone: 'Indian/Mauritius',
@@ -273,22 +273,18 @@ async function main() {
             console.error('error:', response.status, response.statusText);
             exit(1);
         }
-        const body = await response.text();
+        const body = await response.json();
 
     console.log('Fetched raw data from CEB');
 
-    console.log('Pre-extracting data ...')
-    const result = /var arDistrictLocations = ({".+"});/gm.exec(body);
-    if (!result || result.length !== 2) {
-        console.error('error: result from pre-extraction is null or malformed');
+    if (!Array.isArray(body?.items)) {
+        console.error('error: response from CEB is malformed (missing items)');
         exit(1);
     }
-    const preExtracted = JSON.parse(result?.[1] || '');
-    console.log('Pre-extracted data');
 
     // The newly fetched data from CEB Website.
     console.log('Extracting data ...');
-    const newData = extractFromSource(preExtracted);
+    const newData = extractFromApi(body.items, loadLocalitiesMapping());
     console.log('Extracted data');
 
     // Create aggregate data file if not exist.
