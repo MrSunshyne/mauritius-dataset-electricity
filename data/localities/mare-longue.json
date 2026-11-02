@@ -2,11 +2,18 @@
   "slug": "mare-longue",
   "name": "MARE LONGUE",
   "district": "plainewilhems",
-  "generated": "2026-11-01T18:09:28.440Z",
-  "outageCount": 8,
+  "generated": "2026-11-02T14:00:59.552Z",
+  "outageCount": 9,
   "firstOutage": "2022-08-27",
-  "lastOutage": "2025-09-02",
+  "lastOutage": "2026-11-02",
   "outages": [
+    {
+      "date": "Le lundi 2 novembre 2026 de  09:00:00 à  11:00:00",
+      "streets": "MARE LONGUE/TAMARIN FALL",
+      "from": "2026-11-02T05:00:00.000Z",
+      "to": "2026-11-02T07:00:00.000Z",
+      "id": "c979021524c43380de7a1d263149465c"
+    },
     {
       "date": "Le mardi 2 septembre 2025 de  10:45:00 à  11:45:00",
       "streets": "MON SIMONET",

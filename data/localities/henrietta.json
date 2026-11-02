@@ -2,11 +2,18 @@
   "slug": "henrietta",
   "name": "HENRIETTA",
   "district": "plainewilhems",
-  "generated": "2026-11-01T18:09:28.429Z",
-  "outageCount": 93,
+  "generated": "2026-11-02T14:00:59.539Z",
+  "outageCount": 94,
   "firstOutage": "2022-07-14",
-  "lastOutage": "2026-08-23",
+  "lastOutage": "2026-11-02",
   "outages": [
+    {
+      "date": "Le lundi 2 novembre 2026 de  14:00:00 à  17:00:00",
+      "streets": "NHDC,Camp Mapou HENRIETTA",
+      "from": "2026-11-02T10:00:00.000Z",
+      "to": "2026-11-02T13:00:00.000Z",
+      "id": "f569f65363ea0259152d85f4e1f86c06"
+    },
     {
       "date": "Le dimanche 23 août 2026 de  17:45:00 à  22:00:00",
       "streets": "Camp Mapou",

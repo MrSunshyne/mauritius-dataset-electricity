@@ -2,11 +2,18 @@
   "slug": "palma",
   "name": "PALMA",
   "district": "plainewilhems",
-  "generated": "2026-11-01T18:09:28.451Z",
-  "outageCount": 69,
+  "generated": "2026-11-02T14:00:59.562Z",
+  "outageCount": 70,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-10-15",
+  "lastOutage": "2026-11-02",
   "outages": [
+    {
+      "date": "Le lundi 2 novembre 2026 de  06:30:00 à  11:00:00",
+      "streets": "AVENUE LASOURCE PALMA QUATRE BORNES",
+      "from": "2026-11-02T02:30:00.000Z",
+      "to": "2026-11-02T07:00:00.000Z",
+      "id": "2fe97656a4f3e528d4faf5d1bc9e089d"
+    },
     {
       "date": "Le jeudi 15 octobre 2026 de  18:30:00 à  22:00:00",
       "streets": "AVE CASQUETTE, DAISY LANE, AVE KOOSSEAL, AVENUE CHARLIE, SEENEEVASSEN, PALMA ROAD & SURROUNDINGS",

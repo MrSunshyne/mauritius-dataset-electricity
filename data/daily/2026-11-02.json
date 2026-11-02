@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-02",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-11-02T14:00:59.476Z",
+  "outageCount": 5,
+  "outages": [
+    {
+      "date": "Le lundi 2 novembre 2026 de  10:30:00 à  12:00:00",
+      "locality": "MONT SIMONET",
+      "localitySlug": "mont-simonet",
+      "streets": "MONT SIMONET",
+      "district": "blackriver",
+      "from": "2026-11-02T06:30:00.000Z",
+      "to": "2026-11-02T08:00:00.000Z",
+      "id": "5dfe3f0e7880066eaa7e487bc723a79d"
+    },
+    {
+      "date": "Le lundi 2 novembre 2026 de  06:00:00 à  16:30:00",
+      "locality": "OLIVIA",
+      "localitySlug": "olivia",
+      "streets": "NSLD OLIVIA, ROYAL ROAD NEAR PLAYGROUND & CHURCH",
+      "district": "flacq",
+      "from": "2026-11-02T02:00:00.000Z",
+      "to": "2026-11-02T12:30:00.000Z",
+      "id": "db6a3af5c05a5a85cebaa5c4e938d242"
+    },
+    {
+      "date": "Le lundi 2 novembre 2026 de  06:30:00 à  11:00:00",
+      "locality": "PALMA",
+      "localitySlug": "palma",
+      "streets": "AVENUE LASOURCE PALMA QUATRE BORNES",
+      "district": "plainewilhems",
+      "from": "2026-11-02T02:30:00.000Z",
+      "to": "2026-11-02T07:00:00.000Z",
+      "id": "2fe97656a4f3e528d4faf5d1bc9e089d"
+    },
+    {
+      "date": "Le lundi 2 novembre 2026 de  09:00:00 à  11:00:00",
+      "locality": "MARE LONGUE",
+      "localitySlug": "mare-longue",
+      "streets": "MARE LONGUE/TAMARIN FALL",
+      "district": "plainewilhems",
+      "from": "2026-11-02T05:00:00.000Z",
+      "to": "2026-11-02T07:00:00.000Z",
+      "id": "c979021524c43380de7a1d263149465c"
+    },
+    {
+      "date": "Le lundi 2 novembre 2026 de  14:00:00 à  17:00:00",
+      "locality": "HENRIETTA",
+      "localitySlug": "henrietta",
+      "streets": "NHDC,Camp Mapou HENRIETTA",
+      "district": "plainewilhems",
+      "from": "2026-11-02T10:00:00.000Z",
+      "to": "2026-11-02T13:00:00.000Z",
+      "id": "f569f65363ea0259152d85f4e1f86c06"
+    }
+  ]
+}
