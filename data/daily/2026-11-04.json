@@ -1,9 +1,19 @@
 {
   "date": "2026-11-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-02T14:00:59.476Z",
-  "outageCount": 1,
+  "generated": "2026-11-03T06:03:22.216Z",
+  "outageCount": 2,
   "outages": [
+    {
+      "date": "Le mercredi 4 novembre 2026 de  09:00:00 à  15:00:00",
+      "locality": "L-ESPERANCE Q.MILITAIRE",
+      "localitySlug": "l-esperance-qmilitaire",
+      "streets": "Partie de Ia Route Royale, Rue Nouvelle Découverte, Rue Labourdonnais, Rue Old Trafford et les ruelles avoisinantes",
+      "district": "moka",
+      "from": "2026-11-04T05:00:00.000Z",
+      "to": "2026-11-04T11:00:00.000Z",
+      "id": "6bb3a9dfe895ce86885ade32d53e4c60"
+    },
     {
       "date": "Le mercredi 4 novembre 2026 de  09:00:00 à  17:30:00",
       "locality": "CAMP LEVIEUX ( R HILL )",

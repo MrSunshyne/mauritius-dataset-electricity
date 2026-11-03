@@ -2,11 +2,18 @@
   "slug": "l-esperance-qmilitaire",
   "name": "L-ESPERANCE Q.MILITAIRE",
   "district": "moka",
-  "generated": "2026-11-02T14:00:59.544Z",
-  "outageCount": 9,
+  "generated": "2026-11-03T06:03:22.390Z",
+  "outageCount": 10,
   "firstOutage": "2022-06-17",
-  "lastOutage": "2026-08-31",
+  "lastOutage": "2026-11-04",
   "outages": [
+    {
+      "date": "Le mercredi 4 novembre 2026 de  09:00:00 à  15:00:00",
+      "streets": "Partie de Ia Route Royale, Rue Nouvelle Découverte, Rue Labourdonnais, Rue Old Trafford et les ruelles avoisinantes",
+      "from": "2026-11-04T05:00:00.000Z",
+      "to": "2026-11-04T11:00:00.000Z",
+      "id": "6bb3a9dfe895ce86885ade32d53e4c60"
+    },
     {
       "date": "Le lundi 31 août 2026 de  13:30:00 à  15:00:00",
       "streets": "dans les environs de LEsperance Quartier Militaire et Bonneveine road",

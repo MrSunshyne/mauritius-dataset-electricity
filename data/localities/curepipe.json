@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-11-02T14:00:59.525Z",
-  "outageCount": 247,
+  "generated": "2026-11-03T06:03:22.339Z",
+  "outageCount": 248,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-10-19",
+  "lastOutage": "2026-11-05",
   "outages": [
+    {
+      "date": "Le jeudi 5 novembre 2026 de  09:00:00 à  12:00:00",
+      "streets": "Partie de La Rue Robinson, Rue Shivala, Rue Hardline, et les ruelles avoisinantes",
+      "from": "2026-11-05T05:00:00.000Z",
+      "to": "2026-11-05T08:00:00.000Z",
+      "id": "f67b4d44adb459993ced4e6b61664e72"
+    },
     {
       "date": "Le lundi 19 octobre 2026 de  16:00:00 à  18:00:00",
       "streets": "Partie de la Rue Pope Henessy, Route Jardin, Rue Cossigny, Rue Remono, College Lane, Rue Dr Edwards, et Rue Victor Lamarque, Rue Sir Gaëtan Duval, Rue Naz, Rue Emile Sauzier, Rue Sir William Newton, Rue Raffray, Morc Piat",
