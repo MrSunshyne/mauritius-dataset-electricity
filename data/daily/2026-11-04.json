@@ -1,9 +1,19 @@
 {
   "date": "2026-11-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-03T06:03:22.216Z",
-  "outageCount": 2,
+  "generated": "2026-11-03T13:09:16.618Z",
+  "outageCount": 4,
   "outages": [
+    {
+      "date": "Le mercredi 4 novembre 2026 de  08:30:00 à  15:30:00",
+      "locality": "FLIC-EN-FLAC",
+      "localitySlug": "flic-en-flac",
+      "streets": "HOTEL ANELIA, KLONDIKE RD, MOULIN CASSEE RD ET UNE PARTIE DE LA ROUTE COTIERE FLIC EN FLAC",
+      "district": "blackriver",
+      "from": "2026-11-04T04:30:00.000Z",
+      "to": "2026-11-04T11:30:00.000Z",
+      "id": "86f9a42c35f337d29e4fbd147d690e90"
+    },
     {
       "date": "Le mercredi 4 novembre 2026 de  09:00:00 à  15:00:00",
       "locality": "L-ESPERANCE Q.MILITAIRE",
@@ -23,6 +33,16 @@
       "from": "2026-11-04T05:00:00.000Z",
       "to": "2026-11-04T13:30:00.000Z",
       "id": "25262c4a959d190717a0d16395680b49"
+    },
+    {
+      "date": "Le mercredi 4 novembre 2026 de  14:00:00 à  17:00:00",
+      "locality": "HIGHLANDS",
+      "localitySlug": "highlands",
+      "streets": "Highlands Phoenix: une partie de Highlands Branch Road, Joomun Lane, Dattier Lane, Amical Lane, Hurhungee Lane, Highlands Staff Quarters, une partie de Morcellement MTMD",
+      "district": "plainewilhems",
+      "from": "2026-11-04T10:00:00.000Z",
+      "to": "2026-11-04T13:00:00.000Z",
+      "id": "73de848a40169e0cc91b40bc20a067e6"
     }
   ]
 }

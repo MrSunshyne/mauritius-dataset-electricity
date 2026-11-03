@@ -2,11 +2,18 @@
   "slug": "highlands",
   "name": "HIGHLANDS",
   "district": "plainewilhems",
-  "generated": "2026-11-03T06:03:22.383Z",
-  "outageCount": 89,
+  "generated": "2026-11-03T13:09:16.741Z",
+  "outageCount": 90,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2026-10-31",
+  "lastOutage": "2026-11-04",
   "outages": [
+    {
+      "date": "Le mercredi 4 novembre 2026 de  14:00:00 à  17:00:00",
+      "streets": "Highlands Phoenix: une partie de Highlands Branch Road, Joomun Lane, Dattier Lane, Amical Lane, Hurhungee Lane, Highlands Staff Quarters, une partie de Morcellement MTMD",
+      "from": "2026-11-04T10:00:00.000Z",
+      "to": "2026-11-04T13:00:00.000Z",
+      "id": "73de848a40169e0cc91b40bc20a067e6"
+    },
     {
       "date": "Le samedi 31 octobre 2026 de  08:30:00 à  15:00:00",
       "streets": "une partie de Railway Road, une partie de Flamingo Road, Morcellement Blueprint Highlands, Morcellement Omnicane, une partie de Morcellement Highland Rose, Morcellement Khoyratty les environs",

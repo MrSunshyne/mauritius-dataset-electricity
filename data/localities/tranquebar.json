@@ -2,11 +2,18 @@
   "slug": "tranquebar",
   "name": "TRANQUEBAR",
   "district": "portlouis",
-  "generated": "2026-11-03T06:03:22.567Z",
-  "outageCount": 25,
+  "generated": "2026-11-03T13:09:16.872Z",
+  "outageCount": 26,
   "firstOutage": "2022-06-20",
-  "lastOutage": "2026-09-22",
+  "lastOutage": "2026-11-03",
   "outages": [
+    {
+      "date": "Le mardi 3 novembre 2026 de  11:00:00 à  12:00:00",
+      "streets": "RUE DUCLOS-RUE ST DENIS T-BAR PORT LOUIS",
+      "from": "2026-11-03T07:00:00.000Z",
+      "to": "2026-11-03T08:00:00.000Z",
+      "id": "0de4230177aa0c2e08363e0488f2d798"
+    },
     {
       "date": "Le mardi 22 septembre 2026 de  14:00:00 à  15:00:00",
       "streets": "POUCE ST TRANQUEBAR",

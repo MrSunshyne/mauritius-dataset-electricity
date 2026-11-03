@@ -2,11 +2,18 @@
   "slug": "flic-en-flac",
   "name": "FLIC-EN-FLAC",
   "district": "blackriver",
-  "generated": "2026-11-03T06:03:22.354Z",
-  "outageCount": 245,
+  "generated": "2026-11-03T13:09:16.721Z",
+  "outageCount": 246,
   "firstOutage": "2022-03-16",
-  "lastOutage": "2026-10-30",
+  "lastOutage": "2026-11-04",
   "outages": [
+    {
+      "date": "Le mercredi 4 novembre 2026 de  08:30:00 à  15:30:00",
+      "streets": "HOTEL ANELIA, KLONDIKE RD, MOULIN CASSEE RD ET UNE PARTIE DE LA ROUTE COTIERE FLIC EN FLAC",
+      "from": "2026-11-04T04:30:00.000Z",
+      "to": "2026-11-04T11:30:00.000Z",
+      "id": "86f9a42c35f337d29e4fbd147d690e90"
+    },
     {
       "date": "Le vendredi 30 octobre 2026 de  14:15:00 à  17:15:00",
       "streets": "MORC DE CHAZAL : AVENUE DES TOURTEREAUX, AVENUE PIVERT, AVENUE DES OIES, AVENUE DES TOUCANS, CASA MARIA, SHANTI HAVELI ET LES ENVIRONS.",

@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-11-03T06:03:22.504Z",
-  "outageCount": 417,
+  "generated": "2026-11-03T13:09:16.827Z",
+  "outageCount": 418,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-10-29",
+  "lastOutage": "2026-11-03",
   "outages": [
+    {
+      "date": "Le mardi 3 novembre 2026 de  16:20:00 à  17:30:00",
+      "streets": "CELICOURT ANTELME, MURRAY ST & SURROUNDINGS",
+      "from": "2026-11-03T12:20:00.000Z",
+      "to": "2026-11-03T13:30:00.000Z",
+      "id": "bc4ab567401ae4d07293f3dc8b4e78be"
+    },
     {
       "date": "Le jeudi 29 octobre 2026 de  08:30:00 à  15:30:00",
       "streets": "EN PARTIE AVE KALIMAYE, MGR LEEN, ROUTE BASSIN, VIVALO ET LES ENVIRONS",

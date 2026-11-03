@@ -2,8 +2,8 @@
   "slug": "camp-levieux",
   "name": "CAMP LEVIEUX ( CUREPIPE )",
   "district": "plainewilhems",
-  "generated": "2026-11-03T06:03:22.299Z",
-  "outageCount": 32,
+  "generated": "2026-11-03T13:09:16.679Z",
+  "outageCount": 33,
   "firstOutage": "2022-05-25",
   "lastOutage": "2026-11-04",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-11-04T05:00:00.000Z",
       "to": "2026-11-04T13:30:00.000Z",
       "id": "25262c4a959d190717a0d16395680b49"
+    },
+    {
+      "date": "Le mardi 3 novembre 2026 de  13:30:00 à  07:00:00",
+      "streets": "RESIDENCE ALPHA LA CONCORDE NHDC",
+      "from": "2026-11-03T09:30:00.000Z",
+      "to": "2026-11-03T03:00:00.000Z",
+      "id": "95cd781f2249492c5a6c9026475368fe"
     },
     {
       "date": "Le mardi 27 octobre 2026 de  11:00:00 à  14:30:00",

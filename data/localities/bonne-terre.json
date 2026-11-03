@@ -2,11 +2,18 @@
   "slug": "bonne-terre",
   "name": "BONNE TERRE",
   "district": "plainewilhems",
-  "generated": "2026-11-03T06:03:22.282Z",
-  "outageCount": 17,
+  "generated": "2026-11-03T13:09:16.667Z",
+  "outageCount": 18,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-10-31",
+  "lastOutage": "2026-11-03",
   "outages": [
+    {
+      "date": "Le mardi 3 novembre 2026 de  14:00:00 à  16:30:00",
+      "streets": "ROYAL ROAD, SOLFERINO 4 & SUROUNDINGS",
+      "from": "2026-11-03T10:00:00.000Z",
+      "to": "2026-11-03T12:30:00.000Z",
+      "id": "40e57c7fa03aedc9f68a6da5441bea73"
+    },
     {
       "date": "Le samedi 31 octobre 2026 de  09:00:00 à  14:00:00",
       "streets": "Morc Fleuriot,Remy Olier,Vetivert,Gopee lane",

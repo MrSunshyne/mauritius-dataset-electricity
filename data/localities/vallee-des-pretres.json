@@ -2,11 +2,18 @@
   "slug": "vallee-des-pretres",
   "name": "VALLEE DES PRETRES",
   "district": "portlouis",
-  "generated": "2026-11-03T06:03:22.583Z",
-  "outageCount": 90,
+  "generated": "2026-11-03T13:09:16.885Z",
+  "outageCount": 91,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-10-28",
+  "lastOutage": "2026-11-03",
   "outages": [
+    {
+      "date": "Le mardi 3 novembre 2026 de  10:30:00 à  11:30:00",
+      "streets": "CARO LALO VALLEY DES PRETE",
+      "from": "2026-11-03T06:30:00.000Z",
+      "to": "2026-11-03T07:30:00.000Z",
+      "id": "35c7f947584455c1d0d0c1f91cee581e"
+    },
     {
       "date": "Le mercredi 28 octobre 2026 de  11:00:00 à  12:00:00",
       "streets": "CREMATION ROAD, SOOKUN LANE, SCHOOL LANE & SURROUNDINGS",

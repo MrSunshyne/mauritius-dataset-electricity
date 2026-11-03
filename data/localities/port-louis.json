@@ -2,11 +2,18 @@
   "slug": "port-louis",
   "name": "PORT-LOUIS",
   "district": "portlouis",
-  "generated": "2026-11-03T06:03:22.495Z",
-  "outageCount": 134,
+  "generated": "2026-11-03T13:09:16.821Z",
+  "outageCount": 135,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-09-28",
+  "lastOutage": "2026-11-03",
   "outages": [
+    {
+      "date": "Le mardi 3 novembre 2026 de  14:00:00 à  15:00:00",
+      "streets": "SAINT DENIS ST & SURROUNDINGS",
+      "from": "2026-11-03T10:00:00.000Z",
+      "to": "2026-11-03T11:00:00.000Z",
+      "id": "1a361d670222772aac7010decf6344fa"
+    },
     {
       "date": "Le lundi 28 septembre 2026 de  14:30:00 à  19:30:00",
       "streets": "MARIAMEN TEMPLE ROAD NEAR POLICE STATION & KOVIL",
