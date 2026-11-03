@@ -1,8 +1,8 @@
 {
   "date": "2026-11-03",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-03T13:09:16.618Z",
-  "outageCount": 8,
+  "generated": "2026-11-03T20:18:40.366Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le mardi 3 novembre 2026 de  08:30:00 à  16:00:00",
@@ -83,6 +83,26 @@
       "from": "2026-11-03T10:00:00.000Z",
       "to": "2026-11-03T11:00:00.000Z",
       "id": "1a361d670222772aac7010decf6344fa"
+    },
+    {
+      "date": "Le mardi 3 novembre 2026 de  19:00:00 à  21:00:00",
+      "locality": "CAP MALHEUREUX",
+      "localitySlug": "cap-malheureux",
+      "streets": "COASTAL RD NR EGLISE ET LA POSTE",
+      "district": "rivieredurempart",
+      "from": "2026-11-03T15:00:00.000Z",
+      "to": "2026-11-03T17:00:00.000Z",
+      "id": "bf45eef9774d125a063c201a066a27fd"
+    },
+    {
+      "date": "Le mardi 3 novembre 2026 de  21:15:00 à  00:30:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "Riv du Rempart,L-Amitie,Mon Loisir,Belle Vue Maurel,Gokoola",
+      "district": "rivieredurempart",
+      "from": "2026-11-03T17:15:00.000Z",
+      "to": "2026-11-02T20:30:00.000Z",
+      "id": "051f297d7fe9a63097dc7b823b275e7a"
     }
   ]
 }

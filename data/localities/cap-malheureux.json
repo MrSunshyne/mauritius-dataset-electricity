@@ -2,11 +2,18 @@
   "slug": "cap-malheureux",
   "name": "CAP MALHEUREUX",
   "district": "rivieredurempart",
-  "generated": "2026-11-03T13:09:16.685Z",
-  "outageCount": 60,
+  "generated": "2026-11-03T20:18:40.460Z",
+  "outageCount": 61,
   "firstOutage": "2022-07-14",
-  "lastOutage": "2026-10-25",
+  "lastOutage": "2026-11-03",
   "outages": [
+    {
+      "date": "Le mardi 3 novembre 2026 de  19:00:00 à  21:00:00",
+      "streets": "COASTAL RD NR EGLISE ET LA POSTE",
+      "from": "2026-11-03T15:00:00.000Z",
+      "to": "2026-11-03T17:00:00.000Z",
+      "id": "bf45eef9774d125a063c201a066a27fd"
+    },
     {
       "date": "Le dimanche 25 octobre 2026 de  23:00:00 à  02:00:00",
       "streets": "MARIAMEN TEMPLE ROAD CAP MALHEUREUX",

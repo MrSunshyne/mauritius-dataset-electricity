@@ -2,11 +2,18 @@
   "slug": "riviere-du-rempart",
   "name": "RIVIERE DU REMPART",
   "district": "rivieredurempart",
-  "generated": "2026-11-03T13:09:16.842Z",
-  "outageCount": 74,
+  "generated": "2026-11-03T20:18:40.686Z",
+  "outageCount": 75,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-10-24",
+  "lastOutage": "2026-11-03",
   "outages": [
+    {
+      "date": "Le mardi 3 novembre 2026 de  21:15:00 à  00:30:00",
+      "streets": "Riv du Rempart,L-Amitie,Mon Loisir,Belle Vue Maurel,Gokoola",
+      "from": "2026-11-03T17:15:00.000Z",
+      "to": "2026-11-02T20:30:00.000Z",
+      "id": "051f297d7fe9a63097dc7b823b275e7a"
+    },
     {
       "date": "Le samedi 24 octobre 2026 de  08:30:00 à  14:00:00",
       "streets": "SCHOENFELD ROAD, FIRST ROAD & CWA SHOENFELD RD, RIVIERE DU REMPART.",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-03T13:09:16.891Z",
+  "generated": "2026-11-03T20:18:40.751Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -916,10 +916,10 @@
       "slug": "cap-malheureux",
       "name": "CAP MALHEUREUX",
       "district": "rivieredurempart",
-      "outageCount": 60,
+      "outageCount": 61,
       "file": "cap-malheureux.json",
       "firstOutage": "2022-07-14",
-      "lastOutage": "2026-10-25"
+      "lastOutage": "2026-11-03"
     },
     {
       "slug": "caroline-bel-air",
@@ -3427,10 +3427,10 @@
       "slug": "riviere-du-rempart",
       "name": "RIVIERE DU REMPART",
       "district": "rivieredurempart",
-      "outageCount": 74,
+      "outageCount": 75,
       "file": "riviere-du-rempart.json",
       "firstOutage": "2022-03-20",
-      "lastOutage": "2026-10-24"
+      "lastOutage": "2026-11-03"
     },
     {
       "slug": "riviere-noire",
