@@ -2,11 +2,25 @@
   "slug": "floreal",
   "name": "FLOREAL",
   "district": "plainewilhems",
-  "generated": "2026-11-03T20:18:40.522Z",
-  "outageCount": 105,
+  "generated": "2026-11-04T13:24:22.885Z",
+  "outageCount": 107,
   "firstOutage": "2022-03-31",
-  "lastOutage": "2026-10-28",
+  "lastOutage": "2026-11-05",
   "outages": [
+    {
+      "date": "Le jeudi 5 novembre 2026 de  12:00:00 à  17:00:00",
+      "streets": "En partie d’Avenue King George, Rue Ernest Harel, Rue Roger Pezzani et Rue Hesket Bell, Rue Lucien de Chazal, Flat Silver Clouds, Flats Les Ternnants, Résidence de L’Intendance, British High Commission, Flat Hesket Heights",
+      "from": "2026-11-05T08:00:00.000Z",
+      "to": "2026-11-05T13:00:00.000Z",
+      "id": "86c3038241e1dc692098546a262f168e"
+    },
+    {
+      "date": "Le jeudi 5 novembre 2026 de  08:30:00 à  17:00:00",
+      "streets": "Partie d’Avenue John Kennedy, et d’Avenue John Kennedy Crescent, Flat Currimjee et les ruelles avoisinantes",
+      "from": "2026-11-05T04:30:00.000Z",
+      "to": "2026-11-05T13:00:00.000Z",
+      "id": "bebfd9553f217bc461ef0730ab3f8612"
+    },
     {
       "date": "Le mercredi 28 octobre 2026 de  20:20:00 à  00:30:00",
       "streets": "MORC MEDINE,REUNION,GIDC",

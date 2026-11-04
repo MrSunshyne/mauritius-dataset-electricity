@@ -2,11 +2,18 @@
   "slug": "bananes",
   "name": "BANANES",
   "district": "savanne",
-  "generated": "2026-11-03T20:18:40.405Z",
-  "outageCount": 15,
+  "generated": "2026-11-04T13:24:22.826Z",
+  "outageCount": 16,
   "firstOutage": "2022-03-14",
-  "lastOutage": "2026-09-02",
+  "lastOutage": "2026-11-04",
   "outages": [
+    {
+      "date": "Le mercredi 4 novembre 2026 de  09:15:00 à  11:00:00",
+      "streets": "POULTRY KOWLESSUR",
+      "from": "2026-11-04T05:15:00.000Z",
+      "to": "2026-11-04T07:00:00.000Z",
+      "id": "03c6f7f23dc772e095fd2e15f75a23ea"
+    },
     {
       "date": "Le mercredi 2 septembre 2026 de  11:30:00 à  13:30:00",
       "streets": "WHOLE REGION",

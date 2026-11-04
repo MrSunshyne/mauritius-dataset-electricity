@@ -2,11 +2,18 @@
   "slug": "16eme-mile",
   "name": "16EME MILE",
   "district": "plainewilhems",
-  "generated": "2026-11-03T20:18:40.385Z",
-  "outageCount": 68,
+  "generated": "2026-11-04T13:24:22.815Z",
+  "outageCount": 69,
   "firstOutage": "2022-05-31",
-  "lastOutage": "2026-10-01",
+  "lastOutage": "2026-11-04",
   "outages": [
+    {
+      "date": "Le mercredi 4 novembre 2026 de  10:40:00 à  12:00:00",
+      "streets": "CITE GUREEBOO, MORC AL MADINA, MORC AMEER MEEA ET LES ALENTOURS",
+      "from": "2026-11-04T06:40:00.000Z",
+      "to": "2026-11-04T08:00:00.000Z",
+      "id": "ed74a291906ddce65e8a262315dae149"
+    },
     {
       "date": "Le jeudi 1 octobre 2026 de  09:00:00 à  12:00:00",
       "streets": "UNE PARTIE DE ROUTE ROYALE 16 EME MILLE",

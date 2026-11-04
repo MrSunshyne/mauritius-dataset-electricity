@@ -1,9 +1,39 @@
 {
   "date": "2026-11-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-03T20:18:40.366Z",
-  "outageCount": 1,
+  "generated": "2026-11-04T13:24:22.802Z",
+  "outageCount": 6,
   "outages": [
+    {
+      "date": "Le jeudi 5 novembre 2026 de  08:45:00 à  14:00:00",
+      "locality": "BEAU CHAMP FLACQ",
+      "localitySlug": "beau-champ-flacq",
+      "streets": "Beau Champ dans le périmètre du Route Royale, Morc VRS près du Kovil et chemin Balance.",
+      "district": "flacq",
+      "from": "2026-11-05T04:45:00.000Z",
+      "to": "2026-11-05T10:00:00.000Z",
+      "id": "f46d73e8383fe43aff220363a7ac083b"
+    },
+    {
+      "date": "Le jeudi 5 novembre 2026 de  08:30:00 à  12:00:00",
+      "locality": "NOUVELLE DECOUVERTE",
+      "localitySlug": "nouvelle-decouverte",
+      "streets": "RAJABALLY RD, FORGET RD, MOA RD, FODDER RD, SCHOOL RD, NOUVELLE DECOUVERTE RD, BILLAR RD, LÉSCALIER RD ET LES EVIRONS",
+      "district": "grandport",
+      "from": "2026-11-05T04:30:00.000Z",
+      "to": "2026-11-05T08:00:00.000Z",
+      "id": "b943a8f0544976003f34adfccbeb1df6"
+    },
+    {
+      "date": "Le jeudi 5 novembre 2026 de  09:00:00 à  15:00:00",
+      "locality": "LA ROSA",
+      "localitySlug": "la-rosa",
+      "streets": "La Rosa habitant dans le périmètre : Govindramen Street, Shining Street, Cremation Road, Narendra Lane, Dhurmeea Lane, Link Road Gros Bois et une partie de la Route Royale Mare D’Albert",
+      "district": "grandport",
+      "from": "2026-11-05T05:00:00.000Z",
+      "to": "2026-11-05T11:00:00.000Z",
+      "id": "aa7c887879b59ebd4fdb3f299cf4ecbb"
+    },
     {
       "date": "Le jeudi 5 novembre 2026 de  09:00:00 à  12:00:00",
       "locality": "CUREPIPE",
@@ -13,6 +43,26 @@
       "from": "2026-11-05T05:00:00.000Z",
       "to": "2026-11-05T08:00:00.000Z",
       "id": "f67b4d44adb459993ced4e6b61664e72"
+    },
+    {
+      "date": "Le jeudi 5 novembre 2026 de  08:30:00 à  17:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "Partie d’Avenue John Kennedy, et d’Avenue John Kennedy Crescent, Flat Currimjee et les ruelles avoisinantes",
+      "district": "plainewilhems",
+      "from": "2026-11-05T04:30:00.000Z",
+      "to": "2026-11-05T13:00:00.000Z",
+      "id": "bebfd9553f217bc461ef0730ab3f8612"
+    },
+    {
+      "date": "Le jeudi 5 novembre 2026 de  12:00:00 à  17:00:00",
+      "locality": "FLOREAL",
+      "localitySlug": "floreal",
+      "streets": "En partie d’Avenue King George, Rue Ernest Harel, Rue Roger Pezzani et Rue Hesket Bell, Rue Lucien de Chazal, Flat Silver Clouds, Flats Les Ternnants, Résidence de L’Intendance, British High Commission, Flat Hesket Heights",
+      "district": "plainewilhems",
+      "from": "2026-11-05T08:00:00.000Z",
+      "to": "2026-11-05T13:00:00.000Z",
+      "id": "86c3038241e1dc692098546a262f168e"
     }
   ]
 }

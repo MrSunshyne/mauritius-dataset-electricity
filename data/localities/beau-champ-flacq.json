@@ -2,11 +2,18 @@
   "slug": "beau-champ-flacq",
   "name": "BEAU CHAMP FLACQ",
   "district": "flacq",
-  "generated": "2026-11-03T20:18:40.411Z",
-  "outageCount": 18,
+  "generated": "2026-11-04T13:24:22.830Z",
+  "outageCount": 19,
   "firstOutage": "2022-03-23",
-  "lastOutage": "2026-10-04",
+  "lastOutage": "2026-11-05",
   "outages": [
+    {
+      "date": "Le jeudi 5 novembre 2026 de  08:45:00 à  14:00:00",
+      "streets": "Beau Champ dans le périmètre du Route Royale, Morc VRS près du Kovil et chemin Balance.",
+      "from": "2026-11-05T04:45:00.000Z",
+      "to": "2026-11-05T10:00:00.000Z",
+      "id": "f46d73e8383fe43aff220363a7ac083b"
+    },
     {
       "date": "Le dimanche 4 octobre 2026 de  08:15:00 à  16:00:00",
       "streets": "Beau Champ près du Mandiram, Incinérateur, CWA Beau Champ, Ernest Florent près du terrain de foot, CWA Beau Champ, La Nourice, MCML, CWA Trois Ilots et Trois Ilots Poultry et les régions avoisinant.",

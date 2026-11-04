@@ -2,11 +2,18 @@
   "slug": "long-mountain",
   "name": "LONG MOUNTAIN",
   "district": "pamplemousses",
-  "generated": "2026-11-03T20:18:40.578Z",
-  "outageCount": 32,
+  "generated": "2026-11-04T13:24:22.918Z",
+  "outageCount": 33,
   "firstOutage": "2022-05-26",
-  "lastOutage": "2026-07-17",
+  "lastOutage": "2026-11-04",
   "outages": [
+    {
+      "date": "Le mercredi 4 novembre 2026 de  12:15:00 à  15:00:00",
+      "streets": "DESCOINS/JOWRY ROAD LONG MOUNTAIN",
+      "from": "2026-11-04T08:15:00.000Z",
+      "to": "2026-11-04T11:00:00.000Z",
+      "id": "623f73c09142f8f727f2370a8aca55d9"
+    },
     {
       "date": "Le vendredi 17 juillet 2026 de  19:45:00 à  23:45:00",
       "streets": "ROYAL ROAD, RAILWAY ROAD ET DANS LES ENVIRONS MINI MARKET ROSHAN.",

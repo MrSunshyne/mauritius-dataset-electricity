@@ -2,11 +2,18 @@
   "slug": "nouvelle-decouverte",
   "name": "NOUVELLE DECOUVERTE",
   "district": "moka",
-  "generated": "2026-11-03T20:18:40.617Z",
-  "outageCount": 32,
+  "generated": "2026-11-04T13:24:22.941Z",
+  "outageCount": 33,
   "firstOutage": "2022-12-13",
-  "lastOutage": "2026-10-10",
+  "lastOutage": "2026-11-05",
   "outages": [
+    {
+      "date": "Le jeudi 5 novembre 2026 de  08:30:00 à  12:00:00",
+      "streets": "RAJABALLY RD, FORGET RD, MOA RD, FODDER RD, SCHOOL RD, NOUVELLE DECOUVERTE RD, BILLAR RD, LÉSCALIER RD ET LES EVIRONS",
+      "from": "2026-11-05T04:30:00.000Z",
+      "to": "2026-11-05T08:00:00.000Z",
+      "id": "b943a8f0544976003f34adfccbeb1df6"
+    },
     {
       "date": "Le samedi 10 octobre 2026 de  08:30:00 à  15:00:00",
       "streets": "Ripailles, Bar Le Duc, School Lane, Ramchurn Lane, Billard Rd, Cemetery Rd, Roussette Lane, Shivala Rd, Chemin La Plaine et Village Nouvelle Decouverte",

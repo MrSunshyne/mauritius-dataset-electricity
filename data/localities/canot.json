@@ -2,11 +2,18 @@
   "slug": "canot",
   "name": "CANOT",
   "district": "blackriver",
-  "generated": "2026-11-03T20:18:40.459Z",
-  "outageCount": 9,
+  "generated": "2026-11-04T13:24:22.855Z",
+  "outageCount": 10,
   "firstOutage": "2022-11-08",
-  "lastOutage": "2026-10-29",
+  "lastOutage": "2026-11-04",
   "outages": [
+    {
+      "date": "Le mercredi 4 novembre 2026 de  14:20:00 à  16:30:00",
+      "streets": "MORC CANOT, ROYAL ROAD, MONT SIMONEL & SURROUNDINGS",
+      "from": "2026-11-04T10:20:00.000Z",
+      "to": "2026-11-04T12:30:00.000Z",
+      "id": "906ac5bc37eeee9ae86b6017fae05c36"
+    },
     {
       "date": "Le jeudi 29 octobre 2026 de  15:30:00 à  17:00:00",
       "streets": "CANOT & GROS CAILLOUX - AVE HIBISCUS, AVE MARGUERITE, AVE ROUSAILLES, MORC DOMAH, QUALITY DECOR ET LES ENVIRONS",

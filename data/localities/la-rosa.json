@@ -2,11 +2,18 @@
   "slug": "la-rosa",
   "name": "LA ROSA",
   "district": "grandport",
-  "generated": "2026-11-03T20:18:40.567Z",
-  "outageCount": 12,
+  "generated": "2026-11-04T13:24:22.911Z",
+  "outageCount": 13,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-05-11",
+  "lastOutage": "2026-11-05",
   "outages": [
+    {
+      "date": "Le jeudi 5 novembre 2026 de  09:00:00 à  15:00:00",
+      "streets": "La Rosa habitant dans le périmètre : Govindramen Street, Shining Street, Cremation Road, Narendra Lane, Dhurmeea Lane, Link Road Gros Bois et une partie de la Route Royale Mare D’Albert",
+      "from": "2026-11-05T05:00:00.000Z",
+      "to": "2026-11-05T11:00:00.000Z",
+      "id": "aa7c887879b59ebd4fdb3f299cf4ecbb"
+    },
     {
       "date": "Le lundi 11 mai 2026 de  18:00:00 à  23:00:00",
       "streets": "LA ROSA NEW GROVE : ROUTE ROYALE DANS LES ENVIRONS PHARMACIE/QUINCAILLERIE JAGARNATH.",

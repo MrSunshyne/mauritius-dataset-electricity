@@ -2,11 +2,18 @@
   "slug": "saint-aubin",
   "name": "SAINT AUBIN",
   "district": "savanne",
-  "generated": "2026-11-03T20:18:40.698Z",
-  "outageCount": 19,
+  "generated": "2026-11-04T13:24:22.987Z",
+  "outageCount": 20,
   "firstOutage": "2022-12-03",
-  "lastOutage": "2026-06-18",
+  "lastOutage": "2026-11-04",
   "outages": [
+    {
+      "date": "Le mercredi 4 novembre 2026 de  13:20:00 à  14:30:00",
+      "streets": "SAINT AUBIN",
+      "from": "2026-11-04T09:20:00.000Z",
+      "to": "2026-11-04T10:30:00.000Z",
+      "id": "fe60a6ecc40ba1b1ab8ceba150513703"
+    },
     {
       "date": "Le jeudi 18 juin 2026 de  09:00:00 à  15:00:00",
       "streets": "Ducomer Union St. Aubin et Staff Quarters Union St. Aubin",

@@ -1,8 +1,8 @@
 {
   "date": "2026-11-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-03T20:18:40.366Z",
-  "outageCount": 4,
+  "generated": "2026-11-04T13:24:22.802Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le mercredi 4 novembre 2026 de  08:30:00 à  15:30:00",
@@ -15,6 +15,36 @@
       "id": "86f9a42c35f337d29e4fbd147d690e90"
     },
     {
+      "date": "Le mercredi 4 novembre 2026 de  14:20:00 à  16:30:00",
+      "locality": "CANOT",
+      "localitySlug": "canot",
+      "streets": "MORC CANOT, ROYAL ROAD, MONT SIMONEL & SURROUNDINGS",
+      "district": "blackriver",
+      "from": "2026-11-04T10:20:00.000Z",
+      "to": "2026-11-04T12:30:00.000Z",
+      "id": "906ac5bc37eeee9ae86b6017fae05c36"
+    },
+    {
+      "date": "Le mercredi 4 novembre 2026 de  14:30:00 à  18:30:00",
+      "locality": "BELLE ROSE ( Q BORNES )",
+      "localitySlug": "belle-rose",
+      "streets": "AVE BELLE ROSE, ARROW LANE & SURROUNDINGS",
+      "district": "flacq",
+      "from": "2026-11-04T10:30:00.000Z",
+      "to": "2026-11-04T14:30:00.000Z",
+      "id": "2f015f597265cadc533fcca6c43a0376"
+    },
+    {
+      "date": "Le mercredi 4 novembre 2026 de  09:15:00 à  11:00:00",
+      "locality": "BANANES",
+      "localitySlug": "bananes",
+      "streets": "POULTRY KOWLESSUR",
+      "district": "grandport",
+      "from": "2026-11-04T05:15:00.000Z",
+      "to": "2026-11-04T07:00:00.000Z",
+      "id": "03c6f7f23dc772e095fd2e15f75a23ea"
+    },
+    {
       "date": "Le mercredi 4 novembre 2026 de  09:00:00 à  15:00:00",
       "locality": "L-ESPERANCE Q.MILITAIRE",
       "localitySlug": "l-esperance-qmilitaire",
@@ -23,6 +53,26 @@
       "from": "2026-11-04T05:00:00.000Z",
       "to": "2026-11-04T11:00:00.000Z",
       "id": "6bb3a9dfe895ce86885ade32d53e4c60"
+    },
+    {
+      "date": "Le mercredi 4 novembre 2026 de  10:30:00 à  12:30:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "BAOBAB LANE, BALDEO CHUMUN ET LES ALENTOURS",
+      "district": "pamplemousses",
+      "from": "2026-11-04T06:30:00.000Z",
+      "to": "2026-11-04T08:30:00.000Z",
+      "id": "d9e8e96a40da711d6db86050cc34badd"
+    },
+    {
+      "date": "Le mercredi 4 novembre 2026 de  12:15:00 à  15:00:00",
+      "locality": "LONG MOUNTAIN",
+      "localitySlug": "long-mountain",
+      "streets": "DESCOINS/JOWRY ROAD LONG MOUNTAIN",
+      "district": "pamplemousses",
+      "from": "2026-11-04T08:15:00.000Z",
+      "to": "2026-11-04T11:00:00.000Z",
+      "id": "623f73c09142f8f727f2370a8aca55d9"
     },
     {
       "date": "Le mercredi 4 novembre 2026 de  09:00:00 à  17:30:00",
@@ -43,6 +93,26 @@
       "from": "2026-11-04T10:00:00.000Z",
       "to": "2026-11-04T13:00:00.000Z",
       "id": "73de848a40169e0cc91b40bc20a067e6"
+    },
+    {
+      "date": "Le mercredi 4 novembre 2026 de  10:40:00 à  12:00:00",
+      "locality": "16EME MILE",
+      "localitySlug": "16eme-mile",
+      "streets": "CITE GUREEBOO, MORC AL MADINA, MORC AMEER MEEA ET LES ALENTOURS",
+      "district": "plainewilhems",
+      "from": "2026-11-04T06:40:00.000Z",
+      "to": "2026-11-04T08:00:00.000Z",
+      "id": "ed74a291906ddce65e8a262315dae149"
+    },
+    {
+      "date": "Le mercredi 4 novembre 2026 de  13:20:00 à  14:30:00",
+      "locality": "SAINT AUBIN",
+      "localitySlug": "saint-aubin",
+      "streets": "SAINT AUBIN",
+      "district": "savanne",
+      "from": "2026-11-04T09:20:00.000Z",
+      "to": "2026-11-04T10:30:00.000Z",
+      "id": "fe60a6ecc40ba1b1ab8ceba150513703"
     }
   ]
 }

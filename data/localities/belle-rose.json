@@ -2,11 +2,18 @@
   "slug": "belle-rose",
   "name": "BELLE ROSE  ( Q BORNES )",
   "district": "flacq",
-  "generated": "2026-11-03T20:18:40.423Z",
-  "outageCount": 33,
+  "generated": "2026-11-04T13:24:22.836Z",
+  "outageCount": 34,
   "firstOutage": "2022-08-31",
-  "lastOutage": "2026-10-30",
+  "lastOutage": "2026-11-04",
   "outages": [
+    {
+      "date": "Le mercredi 4 novembre 2026 de  14:30:00 à  18:30:00",
+      "streets": "AVE BELLE ROSE, ARROW LANE & SURROUNDINGS",
+      "from": "2026-11-04T10:30:00.000Z",
+      "to": "2026-11-04T14:30:00.000Z",
+      "id": "2f015f597265cadc533fcca6c43a0376"
+    },
     {
       "date": "Le vendredi 30 octobre 2026 de  22:00:00 à  02:00:00",
       "streets": "AVENUE GERNINGHAM/AVENUE MOKA BELLEROSE",
