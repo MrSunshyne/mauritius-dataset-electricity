@@ -1,8 +1,8 @@
 {
   "date": "2026-11-04",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-04T13:24:22.802Z",
-  "outageCount": 11,
+  "generated": "2026-11-04T20:34:52.654Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le mercredi 4 novembre 2026 de  08:30:00 à  15:30:00",
@@ -103,6 +103,16 @@
       "from": "2026-11-04T06:40:00.000Z",
       "to": "2026-11-04T08:00:00.000Z",
       "id": "ed74a291906ddce65e8a262315dae149"
+    },
+    {
+      "date": "Le mercredi 4 novembre 2026 de  22:40:00 à  00:40:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "SCHOENFELD RD FROM 1ST RD TOWARDS GOVT SCHOOL",
+      "district": "rivieredurempart",
+      "from": "2026-11-04T18:40:00.000Z",
+      "to": "2026-11-03T20:40:00.000Z",
+      "id": "eb2a595c80983cf680ac72dc6da0d5d1"
     },
     {
       "date": "Le mercredi 4 novembre 2026 de  13:20:00 à  14:30:00",
