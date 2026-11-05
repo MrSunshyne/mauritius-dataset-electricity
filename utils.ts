@@ -74,6 +74,9 @@ function parseDate(date: string, delimiter = 'from', tz = "+0400") {
 
         const from = parse(processing[0].trim() + tz, "'Le' EEEE d MMMM yyyy 'de' HH:mm:ssxx", new Date(), opt)
         const to = parse(processing[1].trim() + tz, 'HH:mm:ssxx', from, opt)
+        if (processing[1].trim() === '00:00:00') {
+            to.setUTCDate(to.getUTCDate() + 1)
+        }
 
         if (delimiter === 'from') {
             return from
