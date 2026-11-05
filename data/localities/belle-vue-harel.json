@@ -2,11 +2,18 @@
   "slug": "belle-vue-harel",
   "name": "BELLE VUE HAREL",
   "district": "pamplemousses",
-  "generated": "2026-11-04T20:34:52.713Z",
-  "outageCount": 8,
+  "generated": "2026-11-05T13:39:02.553Z",
+  "outageCount": 9,
   "firstOutage": "2022-06-06",
-  "lastOutage": "2026-07-29",
+  "lastOutage": "2026-11-05",
   "outages": [
+    {
+      "date": "Le jeudi 5 novembre 2026 de  05:00:00 à  20:00:00",
+      "streets": "DOMAINE BELLE VUE HILL SIDE",
+      "from": "2026-11-05T01:00:00.000Z",
+      "to": "2026-11-05T16:00:00.000Z",
+      "id": "dc7aee62cd264b314f991fc13cf1d728"
+    },
     {
       "date": "Le mercredi 29 juillet 2026 de  05:40:00 à  16:00:00",
       "streets": "MORC HILLSIDE, DOMAINE BELLE VUE, UNE PARTIE DE LABOURDONNAIS ET LES ALENTOURS",

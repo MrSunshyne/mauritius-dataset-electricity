@@ -2,11 +2,18 @@
   "slug": "tyack",
   "name": "TYACK",
   "district": "savanne",
-  "generated": "2026-11-04T20:34:53.026Z",
-  "outageCount": 35,
+  "generated": "2026-11-05T13:39:02.816Z",
+  "outageCount": 36,
   "firstOutage": "2022-05-08",
-  "lastOutage": "2026-09-13",
+  "lastOutage": "2026-11-05",
   "outages": [
+    {
+      "date": "Le jeudi 5 novembre 2026 de  11:30:00 à  12:30:00",
+      "streets": "TYACK/MARE TABAC/CAMP DIABLE RIVIERE DU POSTE",
+      "from": "2026-11-05T07:30:00.000Z",
+      "to": "2026-11-05T08:30:00.000Z",
+      "id": "3e268a9658207b75d9af14844745a1cc"
+    },
     {
       "date": "Le dimanche 13 septembre 2026 de  17:00:00 à  21:00:00",
       "streets": "ROYAL ROAD AND CITE TYACK",

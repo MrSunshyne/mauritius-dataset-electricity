@@ -1,8 +1,8 @@
 {
   "date": "2026-11-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-04T20:34:52.654Z",
-  "outageCount": 1,
+  "generated": "2026-11-05T13:39:02.504Z",
+  "outageCount": 3,
   "outages": [
     {
       "date": "Le vendredi 6 novembre 2026 de  08:30:00 à  16:00:00",
@@ -13,6 +13,26 @@
       "from": "2026-11-06T04:30:00.000Z",
       "to": "2026-11-06T12:00:00.000Z",
       "id": "1655ffc97186404691d17f503a94a422"
+    },
+    {
+      "date": "Le vendredi 6 novembre 2026 de  09:00:00 à  10:00:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "MHC, AVE MERE THERESA, AVE PIGEOT ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2026-11-06T05:00:00.000Z",
+      "to": "2026-11-06T06:00:00.000Z",
+      "id": "b8b7231a66c72f7f414810db4e34d196"
+    },
+    {
+      "date": "Le vendredi 6 novembre 2026 de  15:30:00 à  17:30:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "EN PARTIE AVE ROCHES BRUNES, AVE MERE THERESA, ESPRIT DELMONT, DEPLEVITZ, MORC ROCHES BRUNES, AVE FRANCETTE, AVE PIGEOT ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2026-11-06T11:30:00.000Z",
+      "to": "2026-11-06T13:30:00.000Z",
+      "id": "7ba5ffd95ef8dc6c583da79b4969e177"
     }
   ]
 }

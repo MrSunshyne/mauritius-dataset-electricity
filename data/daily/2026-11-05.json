@@ -1,8 +1,8 @@
 {
   "date": "2026-11-05",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-04T20:34:52.654Z",
-  "outageCount": 6,
+  "generated": "2026-11-05T13:39:02.503Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le jeudi 5 novembre 2026 de  08:45:00 à  14:00:00",
@@ -35,6 +35,36 @@
       "id": "aa7c887879b59ebd4fdb3f299cf4ecbb"
     },
     {
+      "date": "Le jeudi 5 novembre 2026 de  15:00:00 à  17:00:00",
+      "locality": "VALETTA",
+      "localitySlug": "valetta",
+      "streets": "MORC VRS VALLETTA",
+      "district": "moka",
+      "from": "2026-11-05T11:00:00.000Z",
+      "to": "2026-11-05T13:00:00.000Z",
+      "id": "9afa150453a2993e41ff6326de4bf254"
+    },
+    {
+      "date": "Le jeudi 5 novembre 2026 de  05:00:00 à  20:00:00",
+      "locality": "BELLE VUE HAREL",
+      "localitySlug": "belle-vue-harel",
+      "streets": "DOMAINE BELLE VUE HILL SIDE",
+      "district": "pamplemousses",
+      "from": "2026-11-05T01:00:00.000Z",
+      "to": "2026-11-05T16:00:00.000Z",
+      "id": "dc7aee62cd264b314f991fc13cf1d728"
+    },
+    {
+      "date": "Le jeudi 5 novembre 2026 de  15:00:00 à  17:30:00",
+      "locality": "MON CHOISY",
+      "localitySlug": "mon-choisy",
+      "streets": "COASTAL ROAD MONCHOISY",
+      "district": "pamplemousses",
+      "from": "2026-11-05T11:00:00.000Z",
+      "to": "2026-11-05T13:30:00.000Z",
+      "id": "6f6a0ba31e83a42e7bc92eeecf754a9b"
+    },
+    {
       "date": "Le jeudi 5 novembre 2026 de  09:00:00 à  12:00:00",
       "locality": "CUREPIPE",
       "localitySlug": "curepipe",
@@ -63,6 +93,36 @@
       "from": "2026-11-05T08:00:00.000Z",
       "to": "2026-11-05T13:00:00.000Z",
       "id": "86c3038241e1dc692098546a262f168e"
+    },
+    {
+      "date": "Le jeudi 5 novembre 2026 de  08:45:00 à  11:00:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "CANDA LANE-GERANIUM LANE-ORCHIDEE LANE BOUNDARY ROSE HILL",
+      "district": "plainewilhems",
+      "from": "2026-11-05T04:45:00.000Z",
+      "to": "2026-11-05T07:00:00.000Z",
+      "id": "f0688cd7f92ab84cb12c542025e2af17"
+    },
+    {
+      "date": "Le jeudi 5 novembre 2026 de  15:30:00 à  17:30:00",
+      "locality": "ROCHES BRUNES",
+      "localitySlug": "roches-brunes",
+      "streets": "EN PARTIE AVE ROCHES BRUNES, AVE MERE THERESA, ESPRIT DELMONT, DEPLEVITZ, MORC ROCHES BRUNES, AVE FRANCETTE, AVE PIGEOT ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2026-11-05T11:30:00.000Z",
+      "to": "2026-11-05T13:30:00.000Z",
+      "id": "8c1fc421903f858e8352205d7d68bf9e"
+    },
+    {
+      "date": "Le jeudi 5 novembre 2026 de  11:30:00 à  12:30:00",
+      "locality": "TYACK",
+      "localitySlug": "tyack",
+      "streets": "TYACK/MARE TABAC/CAMP DIABLE RIVIERE DU POSTE",
+      "district": "savanne",
+      "from": "2026-11-05T07:30:00.000Z",
+      "to": "2026-11-05T08:30:00.000Z",
+      "id": "3e268a9658207b75d9af14844745a1cc"
     }
   ]
 }

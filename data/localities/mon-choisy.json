@@ -2,11 +2,18 @@
   "slug": "mon-choisy",
   "name": "MON CHOISY",
   "district": "pamplemousses",
-  "generated": "2026-11-04T20:34:52.874Z",
-  "outageCount": 43,
+  "generated": "2026-11-05T13:39:02.694Z",
+  "outageCount": 44,
   "firstOutage": "2022-05-21",
-  "lastOutage": "2026-09-06",
+  "lastOutage": "2026-11-05",
   "outages": [
+    {
+      "date": "Le jeudi 5 novembre 2026 de  15:00:00 à  17:30:00",
+      "streets": "COASTAL ROAD MONCHOISY",
+      "from": "2026-11-05T11:00:00.000Z",
+      "to": "2026-11-05T13:30:00.000Z",
+      "id": "6f6a0ba31e83a42e7bc92eeecf754a9b"
+    },
     {
       "date": "Le dimanche 6 septembre 2026 de  08:30:00 à  14:00:00",
       "streets": "DANS LES ENVIRONS DE HOTEL GRAND BLEU, RAMJUTTUN ET MEDITERANNEE ET MORC MON CHOISY",
