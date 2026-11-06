@@ -1,8 +1,8 @@
 {
   "date": "2026-11-06",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-06T13:22:34.617Z",
-  "outageCount": 10,
+  "generated": "2026-11-06T20:07:13.478Z",
+  "outageCount": 11,
   "outages": [
     {
       "date": "Le vendredi 6 novembre 2026 de  08:30:00 à  16:00:00",
@@ -73,6 +73,16 @@
       "from": "2026-11-06T08:00:00.000Z",
       "to": "2026-11-06T12:30:00.000Z",
       "id": "e6b66e65a77520019bf5bc99fce77e99"
+    },
+    {
+      "date": "Le vendredi 6 novembre 2026 de  21:45:00 à  01:00:00",
+      "locality": "CALEBASSES",
+      "localitySlug": "calebasses",
+      "streets": "RIVERSIDE RD -ROYAL RD CALBASSES",
+      "district": "pamplemousses",
+      "from": "2026-11-06T17:45:00.000Z",
+      "to": "2026-11-05T21:00:00.000Z",
+      "id": "c7b017b9780b7d9d63586c0a7a64e29a"
     },
     {
       "date": "Le vendredi 6 novembre 2026 de  09:00:00 à  10:00:00",

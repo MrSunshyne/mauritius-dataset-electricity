@@ -2,11 +2,18 @@
   "slug": "calebasses",
   "name": "CALEBASSES",
   "district": "pamplemousses",
-  "generated": "2026-11-06T13:22:34.673Z",
-  "outageCount": 40,
+  "generated": "2026-11-06T20:07:13.533Z",
+  "outageCount": 41,
   "firstOutage": "2022-05-15",
-  "lastOutage": "2026-08-09",
+  "lastOutage": "2026-11-06",
   "outages": [
+    {
+      "date": "Le vendredi 6 novembre 2026 de  21:45:00 à  01:00:00",
+      "streets": "RIVERSIDE RD -ROYAL RD CALBASSES",
+      "from": "2026-11-06T17:45:00.000Z",
+      "to": "2026-11-05T21:00:00.000Z",
+      "id": "c7b017b9780b7d9d63586c0a7a64e29a"
+    },
     {
       "date": "Le dimanche 9 août 2026 de  08:00:00 à  16:00:00",
       "streets": "",
