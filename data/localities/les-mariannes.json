@@ -2,11 +2,18 @@
   "slug": "les-mariannes",
   "name": "LES MARIANNES",
   "district": "pamplemousses",
-  "generated": "2026-11-05T20:51:56.914Z",
-  "outageCount": 3,
+  "generated": "2026-11-06T13:22:34.765Z",
+  "outageCount": 4,
   "firstOutage": "2022-08-01",
-  "lastOutage": "2026-03-15",
+  "lastOutage": "2026-11-06",
   "outages": [
+    {
+      "date": "Le vendredi 6 novembre 2026 de  12:00:00 à  16:30:00",
+      "streets": "ROUTE ROYALE, POTO LANE AND DANS LES ALENTOURS SHIVALA.",
+      "from": "2026-11-06T08:00:00.000Z",
+      "to": "2026-11-06T12:30:00.000Z",
+      "id": "e6b66e65a77520019bf5bc99fce77e99"
+    },
     {
       "date": "Le dimanche 15 mars 2026 de  10:00:00 à  12:00:00",
       "streets": "VILLAGE LES MARIANNE",

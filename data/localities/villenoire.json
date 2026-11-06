@@ -2,11 +2,18 @@
   "slug": "villenoire",
   "name": "VILLENOIRE",
   "district": "grandport",
-  "generated": "2026-11-05T20:51:57.087Z",
-  "outageCount": 61,
+  "generated": "2026-11-06T13:22:34.895Z",
+  "outageCount": 62,
   "firstOutage": "2022-06-10",
-  "lastOutage": "2026-10-01",
+  "lastOutage": "2026-11-06",
   "outages": [
+    {
+      "date": "Le vendredi 6 novembre 2026 de  10:15:00 à  12:15:00",
+      "streets": "Rue Bazar et des Limites les environs",
+      "from": "2026-11-06T06:15:00.000Z",
+      "to": "2026-11-06T08:15:00.000Z",
+      "id": "89fc8fa2ed700a65a327dd26a1145160"
+    },
     {
       "date": "Le jeudi 1 octobre 2026 de  08:30:00 à  16:00:00",
       "streets": "Residence Ville Noire, Morcellement VRS Ville Noire, Morcellement Ruisseau Delices Ville Noire, Morcellement Blueprint Ville Noire et NHDC Petit Bel Air",

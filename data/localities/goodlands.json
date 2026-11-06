@@ -2,11 +2,18 @@
   "slug": "goodlands",
   "name": "GOODLANDS",
   "district": "rivieredurempart",
-  "generated": "2026-11-05T20:51:56.867Z",
-  "outageCount": 151,
+  "generated": "2026-11-06T13:22:34.730Z",
+  "outageCount": 152,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-10-22",
+  "lastOutage": "2026-11-06",
   "outages": [
+    {
+      "date": "Le vendredi 6 novembre 2026 de  09:00:00 à  10:00:00",
+      "streets": "Mlle Jeanne,Nr Bar Sooklall.",
+      "from": "2026-11-06T05:00:00.000Z",
+      "to": "2026-11-06T06:00:00.000Z",
+      "id": "09ec89392d078fd9025b7bc58484ac38"
+    },
     {
       "date": "Le jeudi 22 octobre 2026 de  09:00:00 à  13:00:00",
       "streets": "MORCELLEMENT PETIT VILLAGE- GOODLANDS",

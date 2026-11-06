@@ -2,11 +2,18 @@
   "slug": "saint-pierre",
   "name": "SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-11-05T20:51:57.044Z",
-  "outageCount": 81,
+  "generated": "2026-11-06T13:22:34.863Z",
+  "outageCount": 82,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-08-05",
+  "lastOutage": "2026-11-06",
   "outages": [
+    {
+      "date": "Le vendredi 6 novembre 2026 de  09:45:00 à  12:00:00",
+      "streets": "STE CATHERINE CHA,CHEMIN KOVIL,PART OF ROYAL ROAD",
+      "from": "2026-11-06T05:45:00.000Z",
+      "to": "2026-11-06T08:00:00.000Z",
+      "id": "6475c3a15a421b65069b4c12c5b29907"
+    },
     {
       "date": "Le mercredi 5 août 2026 de  16:30:00 à  17:30:00",
       "streets": "SAINT PIERRE",

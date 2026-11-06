@@ -2,11 +2,18 @@
   "slug": "isidore-rose",
   "name": "ISIDORE ROSE",
   "district": "flacq",
-  "generated": "2026-11-05T20:51:56.888Z",
-  "outageCount": 18,
+  "generated": "2026-11-06T13:22:34.746Z",
+  "outageCount": 19,
   "firstOutage": "2022-05-09",
-  "lastOutage": "2026-08-18",
+  "lastOutage": "2026-11-06",
   "outages": [
+    {
+      "date": "Le vendredi 6 novembre 2026 de  15:00:00 à  16:00:00",
+      "streets": "MORC PRICOM",
+      "from": "2026-11-06T11:00:00.000Z",
+      "to": "2026-11-06T12:00:00.000Z",
+      "id": "64bbfdd41d58d4a016b513bebe68ec4e"
+    },
     {
       "date": "Le mardi 18 août 2026 de  08:30:00 à  12:00:00",
       "streets": "SHIVALA ROAD, AVENUE PALMIER ET LES ALENTOURS",

@@ -2,11 +2,18 @@
   "slug": "la-preneuse",
   "name": "LA PRENEUSE",
   "district": "blackriver",
-  "generated": "2026-11-05T20:51:56.903Z",
-  "outageCount": 29,
+  "generated": "2026-11-06T13:22:34.757Z",
+  "outageCount": 30,
   "firstOutage": "2022-03-23",
-  "lastOutage": "2026-08-04",
+  "lastOutage": "2026-11-06",
   "outages": [
+    {
+      "date": "Le vendredi 6 novembre 2026 de  10:50:00 à  11:35:00",
+      "streets": "LA PRENEUSE",
+      "from": "2026-11-06T06:50:00.000Z",
+      "to": "2026-11-06T07:35:00.000Z",
+      "id": "919d34bfd4a335528b0cf6909ec1690a"
+    },
     {
       "date": "Le mardi 4 août 2026 de  09:30:00 à  13:00:00",
       "streets": "TOUR MARTELLO ET LES ALENTOURS",

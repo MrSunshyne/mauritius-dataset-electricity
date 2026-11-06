@@ -2,11 +2,18 @@
   "slug": "la-laura-saint-pierre",
   "name": "LA LAURA SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-11-05T20:51:56.900Z",
-  "outageCount": 22,
+  "generated": "2026-11-06T13:22:34.754Z",
+  "outageCount": 23,
   "firstOutage": "2022-11-23",
-  "lastOutage": "2026-09-13",
+  "lastOutage": "2026-11-06",
   "outages": [
+    {
+      "date": "Le vendredi 6 novembre 2026 de  15:15:00 à  17:00:00",
+      "streets": "RIVIERE BAPTISTE, CHEMIN JARDIN LA LAURA ET LES ENVIRONS.",
+      "from": "2026-11-06T11:15:00.000Z",
+      "to": "2026-11-06T13:00:00.000Z",
+      "id": "0424302f6de076c00538ace72f40c8ef"
+    },
     {
       "date": "Le dimanche 13 septembre 2026 de  12:00:00 à  18:00:00",
       "streets": "GARDEN ROAD, RIVIERE BAPTISTE RD, DANS LES ENVIRONS L-ECOLE LA LAURA / USINE MISS CROC ET LES ALENTOURS.",
