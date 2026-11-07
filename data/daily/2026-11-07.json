@@ -1,9 +1,19 @@
 {
   "date": "2026-11-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-07T12:00:21.382Z",
-  "outageCount": 4,
+  "generated": "2026-11-07T17:53:14.192Z",
+  "outageCount": 5,
   "outages": [
+    {
+      "date": "Le samedi 7 novembre 2026 de  18:30:00 à  21:00:00",
+      "locality": "VERDUN",
+      "localitySlug": "verdun",
+      "streets": "AVE ROSE",
+      "district": "moka",
+      "from": "2026-11-07T14:30:00.000Z",
+      "to": "2026-11-07T17:00:00.000Z",
+      "id": "69d9d8edf0f1da4167012ccc3005fdf8"
+    },
     {
       "date": "Le samedi 7 novembre 2026 de  09:45:00 à  14:00:00",
       "locality": "TRIOLET",
