@@ -2,11 +2,18 @@
   "slug": "stanley",
   "name": "STANLEY",
   "district": "plainewilhems",
-  "generated": "2026-11-06T20:07:13.728Z",
-  "outageCount": 12,
+  "generated": "2026-11-07T12:00:21.635Z",
+  "outageCount": 13,
   "firstOutage": "2022-08-29",
-  "lastOutage": "2026-05-13",
+  "lastOutage": "2026-11-07",
   "outages": [
+    {
+      "date": "Le samedi 7 novembre 2026 de  11:15:00 à  15:15:00",
+      "streets": "Rues Geranium,Canda,Pillay,Orchidee et les environs",
+      "from": "2026-11-07T07:15:00.000Z",
+      "to": "2026-11-07T11:15:00.000Z",
+      "id": "fec9b542000556cff32de5ae1ce8a636"
+    },
     {
       "date": "Le mercredi 13 mai 2026 de  09:45:00 à  14:00:00",
       "streets": "DR MANILALL ROAD, JEETOO RD, CANDA LANE, AVE GALAXY & SURROUNDING",

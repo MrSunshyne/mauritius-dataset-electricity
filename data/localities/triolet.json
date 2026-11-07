@@ -2,11 +2,18 @@
   "slug": "triolet",
   "name": "TRIOLET",
   "district": "pamplemousses",
-  "generated": "2026-11-06T20:07:13.740Z",
-  "outageCount": 153,
+  "generated": "2026-11-07T12:00:21.645Z",
+  "outageCount": 154,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-11-04",
+  "lastOutage": "2026-11-07",
   "outages": [
+    {
+      "date": "Le samedi 7 novembre 2026 de  09:45:00 à  14:00:00",
+      "streets": "Terminus",
+      "from": "2026-11-07T05:45:00.000Z",
+      "to": "2026-11-07T10:00:00.000Z",
+      "id": "9dbf7ea0ef215eaa3e72dc0027dadbc9"
+    },
     {
       "date": "Le mercredi 4 novembre 2026 de  10:30:00 à  12:30:00",
       "streets": "BAOBAB LANE, BALDEO CHUMUN ET LES ALENTOURS",

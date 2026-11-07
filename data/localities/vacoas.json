@@ -2,11 +2,18 @@
   "slug": "vacoas",
   "name": "VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-11-06T20:07:13.750Z",
-  "outageCount": 281,
+  "generated": "2026-11-07T12:00:21.652Z",
+  "outageCount": 282,
   "firstOutage": "2022-03-17",
-  "lastOutage": "2026-11-01",
+  "lastOutage": "2026-11-15",
   "outages": [
+    {
+      "date": "Le dimanche 15 novembre 2026 de  08:30:00 à  17:00:00",
+      "streets": "une partie de Route Bonne-Terre, une partie de Route Clairfonds No.3, une partie de Route Vingta No.1, No.2 et No.3, une partie de Rue Mahant Kabir, Morcellement Co-operative, Cite Rittoo, une partie Route Solferino No.1,Morcellement Fleuriot, Avenue Remi-Ollier, Gopee Lane, Mungroo Lane, une partie de Solferino No. 1 et No.3 ,Solferino No.2, Kistoo lane",
+      "from": "2026-11-15T04:30:00.000Z",
+      "to": "2026-11-15T13:00:00.000Z",
+      "id": "948b290a3f74af0ced8ca81799dff963"
+    },
     {
       "date": "Le dimanche 1 novembre 2026 de  08:30:00 à  17:00:00",
       "streets": "ZONE INDUSTRIEL PHOENIX: VALENTINA RD, IMP ROSIER, IMP LATANIER, ET LES ENVIRONS",

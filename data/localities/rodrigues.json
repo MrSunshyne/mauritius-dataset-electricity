@@ -2,11 +2,32 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-11-06T20:07:13.710Z",
-  "outageCount": 293,
+  "generated": "2026-11-07T12:00:21.616Z",
+  "outageCount": 296,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-11-01",
+  "lastOutage": "2026-11-09",
   "outages": [
+    {
+      "date": "Le lundi 9 novembre 2026 de  08:30:00 à  15:00:00",
+      "streets": "Camp Du roi et Hauteur Accacia",
+      "from": "2026-11-09T04:30:00.000Z",
+      "to": "2026-11-09T11:00:00.000Z",
+      "id": "fdfbdbb2c3b4ec0f82b4fc70f58a8679"
+    },
+    {
+      "date": "Le dimanche 8 novembre 2026 de  08:30:00 à  15:00:00",
+      "streets": "Parc Tortue,Anse Baleine,Anse Quitor",
+      "from": "2026-11-08T04:30:00.000Z",
+      "to": "2026-11-08T11:00:00.000Z",
+      "id": "c925da757f9647937671511e59b84ab7"
+    },
+    {
+      "date": "Le samedi 7 novembre 2026 de  08:30:00 à  15:00:00",
+      "streets": "Saint Gabriel, Creve Coeur, Terre Rouge, Jean Tac, Grand Baie",
+      "from": "2026-11-07T04:30:00.000Z",
+      "to": "2026-11-07T11:00:00.000Z",
+      "id": "da88c43903ab7bcb81a9b97ae46beb82"
+    },
     {
       "date": "Le dimanche 1 novembre 2026 de  08:30:00 à  15:00:00",
       "streets": "Creve Coeur, Roche Bon Dieu et Anse Baleine",

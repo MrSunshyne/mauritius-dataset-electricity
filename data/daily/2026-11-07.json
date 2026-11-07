@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-07",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-11-07T12:00:21.382Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le samedi 7 novembre 2026 de  09:45:00 à  14:00:00",
+      "locality": "TRIOLET",
+      "localitySlug": "triolet",
+      "streets": "Terminus",
+      "district": "pamplemousses",
+      "from": "2026-11-07T05:45:00.000Z",
+      "to": "2026-11-07T10:00:00.000Z",
+      "id": "9dbf7ea0ef215eaa3e72dc0027dadbc9"
+    },
+    {
+      "date": "Le samedi 7 novembre 2026 de  10:15:00 à  10:45:00",
+      "locality": "BEAU BASSIN",
+      "localitySlug": "beau-bassin",
+      "streets": "Rues Pope Henessy,Maingard,S.Bharati",
+      "district": "plainewilhems",
+      "from": "2026-11-07T06:15:00.000Z",
+      "to": "2026-11-07T06:45:00.000Z",
+      "id": "9de87c91ad7b2054a3d8e167e80c7f77"
+    },
+    {
+      "date": "Le samedi 7 novembre 2026 de  11:15:00 à  15:15:00",
+      "locality": "STANLEY",
+      "localitySlug": "stanley",
+      "streets": "Rues Geranium,Canda,Pillay,Orchidee et les environs",
+      "district": "plainewilhems",
+      "from": "2026-11-07T07:15:00.000Z",
+      "to": "2026-11-07T11:15:00.000Z",
+      "id": "fec9b542000556cff32de5ae1ce8a636"
+    },
+    {
+      "date": "Le samedi 7 novembre 2026 de  08:30:00 à  15:00:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Saint Gabriel, Creve Coeur, Terre Rouge, Jean Tac, Grand Baie",
+      "district": "rodrigues",
+      "from": "2026-11-07T04:30:00.000Z",
+      "to": "2026-11-07T11:00:00.000Z",
+      "id": "da88c43903ab7bcb81a9b97ae46beb82"
+    }
+  ]
+}
