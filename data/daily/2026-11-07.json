@@ -1,8 +1,8 @@
 {
   "date": "2026-11-07",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-07T17:53:14.192Z",
-  "outageCount": 5,
+  "generated": "2026-11-07T21:10:34.982Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le samedi 7 novembre 2026 de  18:30:00 à  21:00:00",
@@ -23,6 +23,16 @@
       "from": "2026-11-07T05:45:00.000Z",
       "to": "2026-11-07T10:00:00.000Z",
       "id": "9dbf7ea0ef215eaa3e72dc0027dadbc9"
+    },
+    {
+      "date": "Le samedi 7 novembre 2026 de  22:00:00 à  01:00:00",
+      "locality": "FOND DU SAC",
+      "localitySlug": "fond-du-sac",
+      "streets": "ROYAL RD FOND DU SAC",
+      "district": "pamplemousses",
+      "from": "2026-11-07T18:00:00.000Z",
+      "to": "2026-11-06T21:00:00.000Z",
+      "id": "845dd549a1094bdaa59bbbee2788929c"
     },
     {
       "date": "Le samedi 7 novembre 2026 de  10:15:00 à  10:45:00",
