@@ -1,9 +1,29 @@
 {
   "date": "2026-11-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-09T14:34:35.184Z",
-  "outageCount": 3,
+  "generated": "2026-11-09T23:37:40.888Z",
+  "outageCount": 6,
   "outages": [
+    {
+      "date": "Le lundi 9 novembre 2026 de  08:30:00 à  23:30:00",
+      "locality": "MARE TABAC",
+      "localitySlug": "mare-tabac",
+      "streets": "MARE TABAC",
+      "district": "grandport",
+      "from": "2026-11-09T04:30:00.000Z",
+      "to": "2026-11-09T19:30:00.000Z",
+      "id": "3a3dfc085bd0521d040f5e660e54d655"
+    },
+    {
+      "date": "Le lundi 9 novembre 2026 de  20:30:00 à  23:30:00",
+      "locality": "RIVIERE DU POSTE",
+      "localitySlug": "riviere-du-poste",
+      "streets": "RIVIERE DU POSTE",
+      "district": "grandport",
+      "from": "2026-11-09T16:30:00.000Z",
+      "to": "2026-11-09T19:30:00.000Z",
+      "id": "6e00f9cf8b756288a3e6e7a2feac07fd"
+    },
     {
       "date": "Le lundi 9 novembre 2026 de  15:20:00 à  19:30:00",
       "locality": "QUATRE-BORNES",
@@ -23,6 +43,16 @@
       "from": "2026-11-09T05:00:00.000Z",
       "to": "2026-11-09T08:00:00.000Z",
       "id": "80a075df35ba79dd4877b4b4dd2b241a"
+    },
+    {
+      "date": "Le lundi 9 novembre 2026 de  22:30:00 à  23:30:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "Rues Labourdonnais,Bancilhon,St James,Desroches,Raoul Rivet,Ward 4 et les environs",
+      "district": "portlouis",
+      "from": "2026-11-09T18:30:00.000Z",
+      "to": "2026-11-09T19:30:00.000Z",
+      "id": "3925315cea11a3997a4054fe74efab51"
     },
     {
       "date": "Le lundi 9 novembre 2026 de  08:30:00 à  15:00:00",

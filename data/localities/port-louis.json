@@ -2,11 +2,18 @@
   "slug": "port-louis",
   "name": "PORT-LOUIS",
   "district": "portlouis",
-  "generated": "2026-11-09T14:34:35.475Z",
-  "outageCount": 135,
+  "generated": "2026-11-09T23:37:41.044Z",
+  "outageCount": 136,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-11-03",
+  "lastOutage": "2026-11-09",
   "outages": [
+    {
+      "date": "Le lundi 9 novembre 2026 de  22:30:00 à  23:30:00",
+      "streets": "Rues Labourdonnais,Bancilhon,St James,Desroches,Raoul Rivet,Ward 4 et les environs",
+      "from": "2026-11-09T18:30:00.000Z",
+      "to": "2026-11-09T19:30:00.000Z",
+      "id": "3925315cea11a3997a4054fe74efab51"
+    },
     {
       "date": "Le mardi 3 novembre 2026 de  14:00:00 à  15:00:00",
       "streets": "SAINT DENIS ST & SURROUNDINGS",

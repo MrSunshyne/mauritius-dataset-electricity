@@ -2,11 +2,18 @@
   "slug": "riviere-du-poste",
   "name": "RIVIERE DU POSTE",
   "district": "grandport",
-  "generated": "2026-11-09T14:34:35.503Z",
-  "outageCount": 20,
+  "generated": "2026-11-09T23:37:41.059Z",
+  "outageCount": 21,
   "firstOutage": "2022-09-24",
-  "lastOutage": "2026-09-25",
+  "lastOutage": "2026-11-09",
   "outages": [
+    {
+      "date": "Le lundi 9 novembre 2026 de  20:30:00 à  23:30:00",
+      "streets": "RIVIERE DU POSTE",
+      "from": "2026-11-09T16:30:00.000Z",
+      "to": "2026-11-09T19:30:00.000Z",
+      "id": "6e00f9cf8b756288a3e6e7a2feac07fd"
+    },
     {
       "date": "Le vendredi 25 septembre 2026 de  09:30:00 à  10:30:00",
       "streets": "VKS POULTRY",

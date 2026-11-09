@@ -2,11 +2,18 @@
   "slug": "mare-tabac",
   "name": "MARE TABAC",
   "district": "grandport",
-  "generated": "2026-11-09T14:34:35.404Z",
-  "outageCount": 27,
+  "generated": "2026-11-09T23:37:41.006Z",
+  "outageCount": 28,
   "firstOutage": "2022-04-28",
-  "lastOutage": "2026-07-21",
+  "lastOutage": "2026-11-09",
   "outages": [
+    {
+      "date": "Le lundi 9 novembre 2026 de  08:30:00 à  23:30:00",
+      "streets": "MARE TABAC",
+      "from": "2026-11-09T04:30:00.000Z",
+      "to": "2026-11-09T19:30:00.000Z",
+      "id": "3a3dfc085bd0521d040f5e660e54d655"
+    },
     {
       "date": "Le mardi 21 juillet 2026 de  11:00:00 à  13:00:00",
       "streets": "MARE TABAC",
