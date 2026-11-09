@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-11-08T18:07:20.479Z",
-  "outageCount": 418,
+  "generated": "2026-11-09T14:34:35.483Z",
+  "outageCount": 419,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-11-03",
+  "lastOutage": "2026-11-09",
   "outages": [
+    {
+      "date": "Le lundi 9 novembre 2026 de  15:20:00 à  19:30:00",
+      "streets": "AVE BELLE ROSE, AVE DEPINAY, RES CORALIA & SURROUNDINGS",
+      "from": "2026-11-09T11:20:00.000Z",
+      "to": "2026-11-09T15:30:00.000Z",
+      "id": "ba755005d660bde7999842f8c7916860"
+    },
     {
       "date": "Le mardi 3 novembre 2026 de  16:20:00 à  17:30:00",
       "streets": "CELICOURT ANTELME, MURRAY ST & SURROUNDINGS",

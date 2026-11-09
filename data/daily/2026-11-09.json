@@ -1,9 +1,29 @@
 {
   "date": "2026-11-09",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-08T18:07:20.308Z",
-  "outageCount": 1,
+  "generated": "2026-11-09T14:34:35.184Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le lundi 9 novembre 2026 de  15:20:00 à  19:30:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "AVE BELLE ROSE, AVE DEPINAY, RES CORALIA & SURROUNDINGS",
+      "district": "plainewilhems",
+      "from": "2026-11-09T11:20:00.000Z",
+      "to": "2026-11-09T15:30:00.000Z",
+      "id": "ba755005d660bde7999842f8c7916860"
+    },
+    {
+      "date": "Le lundi 9 novembre 2026 de  09:00:00 à  12:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "MORC REY PTE AUX SABLES",
+      "district": "portlouis",
+      "from": "2026-11-09T05:00:00.000Z",
+      "to": "2026-11-09T08:00:00.000Z",
+      "id": "80a075df35ba79dd4877b4b4dd2b241a"
+    },
     {
       "date": "Le lundi 9 novembre 2026 de  08:30:00 à  15:00:00",
       "locality": "RODRIGUES",
