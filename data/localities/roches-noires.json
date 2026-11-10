@@ -2,11 +2,18 @@
   "slug": "roches-noires",
   "name": "ROCHES NOIRES",
   "district": "rivieredurempart",
-  "generated": "2026-11-09T23:37:41.062Z",
-  "outageCount": 41,
+  "generated": "2026-11-10T13:53:30.513Z",
+  "outageCount": 42,
   "firstOutage": "2022-06-03",
-  "lastOutage": "2026-10-15",
+  "lastOutage": "2026-11-12",
   "outages": [
+    {
+      "date": "Le jeudi 12 novembre 2026 de  09:00:00 à  15:00:00",
+      "streets": "COASTAL ROAD, ROCHE NOIRES, POSTE LA FAYETTE",
+      "from": "2026-11-12T05:00:00.000Z",
+      "to": "2026-11-12T11:00:00.000Z",
+      "id": "21784d5cf0e88003ba09604b7a80d6e2"
+    },
     {
       "date": "Le jeudi 15 octobre 2026 de  13:00:00 à  16:00:00",
       "streets": "Amaury , Plaine Des Roches,Riv Du Rempart, Roche Noires , Poste LafayettePointe, Lascars,Haute Rive",

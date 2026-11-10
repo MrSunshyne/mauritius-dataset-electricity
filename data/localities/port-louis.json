@@ -2,11 +2,18 @@
   "slug": "port-louis",
   "name": "PORT-LOUIS",
   "district": "portlouis",
-  "generated": "2026-11-09T23:37:41.044Z",
-  "outageCount": 136,
+  "generated": "2026-11-10T13:53:30.487Z",
+  "outageCount": 137,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-11-09",
+  "lastOutage": "2026-11-10",
   "outages": [
+    {
+      "date": "Le mardi 10 novembre 2026 de  11:00:00 à  12:15:00",
+      "streets": "KARO KALYPTUS BATTERIE CASSEE.",
+      "from": "2026-11-10T07:00:00.000Z",
+      "to": "2026-11-10T08:15:00.000Z",
+      "id": "a192daca5908d53c196ef28197e35593"
+    },
     {
       "date": "Le lundi 9 novembre 2026 de  22:30:00 à  23:30:00",
       "streets": "Rues Labourdonnais,Bancilhon,St James,Desroches,Raoul Rivet,Ward 4 et les environs",

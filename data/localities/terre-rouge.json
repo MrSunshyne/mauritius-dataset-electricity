@@ -2,11 +2,18 @@
   "slug": "terre-rouge",
   "name": "TERRE ROUGE",
   "district": "pamplemousses",
-  "generated": "2026-11-09T23:37:41.080Z",
-  "outageCount": 116,
+  "generated": "2026-11-10T13:53:30.538Z",
+  "outageCount": 117,
   "firstOutage": "2022-03-14",
-  "lastOutage": "2026-10-24",
+  "lastOutage": "2026-11-10",
   "outages": [
+    {
+      "date": "Le mardi 10 novembre 2026 de  09:15:00 à  13:30:00",
+      "streets": "MORCELLEMENT TARA : DANS LES ENVIRONS CARDINAL LANE.",
+      "from": "2026-11-10T05:15:00.000Z",
+      "to": "2026-11-10T09:30:00.000Z",
+      "id": "af3b5761457755230720f463bae1693c"
+    },
     {
       "date": "Le samedi 24 octobre 2026 de  09:00:00 à  12:00:00",
       "streets": "Dans les environs de School Lane",

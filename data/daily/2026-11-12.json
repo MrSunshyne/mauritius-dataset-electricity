@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-12",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-11-10T13:53:30.279Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le jeudi 12 novembre 2026 de  08:30:00 à  17:00:00",
+      "locality": "POSTE LAFAYETTE",
+      "localitySlug": "poste-lafayette",
+      "streets": "Dans les périmètres de Société Orientalem, Société Edbel, Jalsa Beach Hôtel , Le Nid, Radio Télescopique Bras D’Eau, CWA Bras D’Eau et dans les environs de Coastal Road Poste La Fayette.",
+      "district": "flacq",
+      "from": "2026-11-12T04:30:00.000Z",
+      "to": "2026-11-12T13:00:00.000Z",
+      "id": "ddc21faa31b5d5bf3fc05044e50b0d4a"
+    },
+    {
+      "date": "Le jeudi 12 novembre 2026 de  09:00:00 à  15:00:00",
+      "locality": "ROCHES NOIRES",
+      "localitySlug": "roches-noires",
+      "streets": "COASTAL ROAD, ROCHE NOIRES, POSTE LA FAYETTE",
+      "district": "rivieredurempart",
+      "from": "2026-11-12T05:00:00.000Z",
+      "to": "2026-11-12T11:00:00.000Z",
+      "id": "21784d5cf0e88003ba09604b7a80d6e2"
+    }
+  ]
+}

@@ -2,11 +2,18 @@
   "slug": "riviere-des-anguilles",
   "name": "RIVIERE DES ANGUILLES",
   "district": "savanne",
-  "generated": "2026-11-09T23:37:41.058Z",
-  "outageCount": 47,
+  "generated": "2026-11-10T13:53:30.507Z",
+  "outageCount": 48,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2026-10-31",
+  "lastOutage": "2026-11-10",
   "outages": [
+    {
+      "date": "Le mardi 10 novembre 2026 de  09:50:00 à  12:00:00",
+      "streets": "MORC VRS CAMP MARTIN, NHDC LA VANILLE ET DANS LES ALENTOURS BAZAAR.",
+      "from": "2026-11-10T05:50:00.000Z",
+      "to": "2026-11-10T08:00:00.000Z",
+      "id": "4b7391101b3de29c297b3627bd8b6b88"
+    },
     {
       "date": "Le samedi 31 octobre 2026 de  08:30:00 à  15:00:00",
       "streets": "Tyack Riviere des Anguilles",
