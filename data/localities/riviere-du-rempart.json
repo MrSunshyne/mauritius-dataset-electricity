@@ -2,11 +2,18 @@
   "slug": "riviere-du-rempart",
   "name": "RIVIERE DU REMPART",
   "district": "rivieredurempart",
-  "generated": "2026-11-10T13:53:30.510Z",
-  "outageCount": 76,
+  "generated": "2026-11-10T20:38:31.140Z",
+  "outageCount": 77,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-11-04",
+  "lastOutage": "2026-11-10",
   "outages": [
+    {
+      "date": "Le mardi 10 novembre 2026 de  18:45:00 à  23:00:00",
+      "streets": "BYPASS ROAD, KALIMAYE ROAD, SCHOOL LANE & SURROUNDINGS",
+      "from": "2026-11-10T14:45:00.000Z",
+      "to": "2026-11-10T19:00:00.000Z",
+      "id": "68fba05520c0b0225e673476dcf7dcd7"
+    },
     {
       "date": "Le mercredi 4 novembre 2026 de  22:40:00 à  00:40:00",
       "streets": "SCHOENFELD RD FROM 1ST RD TOWARDS GOVT SCHOOL",

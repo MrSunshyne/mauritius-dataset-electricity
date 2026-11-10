@@ -1,8 +1,8 @@
 {
   "date": "2026-11-10",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-10T13:53:30.279Z",
-  "outageCount": 3,
+  "generated": "2026-11-10T20:38:30.854Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le mardi 10 novembre 2026 de  09:15:00 à  13:30:00",
@@ -23,6 +23,16 @@
       "from": "2026-11-10T07:00:00.000Z",
       "to": "2026-11-10T08:15:00.000Z",
       "id": "a192daca5908d53c196ef28197e35593"
+    },
+    {
+      "date": "Le mardi 10 novembre 2026 de  18:45:00 à  23:00:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "BYPASS ROAD, KALIMAYE ROAD, SCHOOL LANE & SURROUNDINGS",
+      "district": "rivieredurempart",
+      "from": "2026-11-10T14:45:00.000Z",
+      "to": "2026-11-10T19:00:00.000Z",
+      "id": "68fba05520c0b0225e673476dcf7dcd7"
     },
     {
       "date": "Le mardi 10 novembre 2026 de  09:50:00 à  12:00:00",
