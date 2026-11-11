@@ -2,11 +2,18 @@
   "slug": "riviere-du-poste",
   "name": "RIVIERE DU POSTE",
   "district": "grandport",
-  "generated": "2026-11-10T20:38:31.140Z",
-  "outageCount": 21,
+  "generated": "2026-11-11T13:05:36.962Z",
+  "outageCount": 22,
   "firstOutage": "2022-09-24",
-  "lastOutage": "2026-11-09",
+  "lastOutage": "2026-11-11",
   "outages": [
+    {
+      "date": "Le mercredi 11 novembre 2026 de  09:00:00 à  16:00:00",
+      "streets": "BALA RD -ROYAL RD RIV DU POSTE",
+      "from": "2026-11-11T05:00:00.000Z",
+      "to": "2026-11-11T12:00:00.000Z",
+      "id": "1a09df1eddfb56663848c30951c471ae"
+    },
     {
       "date": "Le lundi 9 novembre 2026 de  20:30:00 à  23:30:00",
       "streets": "RIVIERE DU POSTE",

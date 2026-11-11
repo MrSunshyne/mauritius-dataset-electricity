@@ -2,11 +2,18 @@
   "slug": "roche-bois",
   "name": "ROCHE BOIS",
   "district": "portlouis",
-  "generated": "2026-11-10T20:38:31.142Z",
-  "outageCount": 42,
+  "generated": "2026-11-11T13:05:36.964Z",
+  "outageCount": 43,
   "firstOutage": "2022-04-30",
-  "lastOutage": "2026-08-07",
+  "lastOutage": "2026-11-15",
   "outages": [
+    {
+      "date": "Le dimanche 15 novembre 2026 de  08:30:00 à  15:00:00",
+      "streets": "Dans les environs des Rues Cocoterie, Sainte Famille, Tamarin, Balisage et Karo Kalyptus",
+      "from": "2026-11-15T04:30:00.000Z",
+      "to": "2026-11-15T11:00:00.000Z",
+      "id": "2fe3def4ab9ca4b009aa2885d45162a1"
+    },
     {
       "date": "Le vendredi 7 août 2026 de  12:00:00 à  20:00:00",
       "streets": "ROUTE COCOTERIE, ROUTE ABBATOIRE, CHEMIN LE CORNU, CHEMIN BENITIER ET LES ENVIRONS.",

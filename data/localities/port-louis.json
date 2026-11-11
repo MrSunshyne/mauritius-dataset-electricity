@@ -2,11 +2,25 @@
   "slug": "port-louis",
   "name": "PORT-LOUIS",
   "district": "portlouis",
-  "generated": "2026-11-10T20:38:31.113Z",
-  "outageCount": 137,
+  "generated": "2026-11-11T13:05:36.938Z",
+  "outageCount": 139,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-11-10",
+  "lastOutage": "2026-11-15",
   "outages": [
+    {
+      "date": "Le dimanche 15 novembre 2026 de  08:30:00 à  14:30:00",
+      "streets": "Dans les environs d’une partie des Rues Jummah Mosque, Louis Pasteur et Sir Seewoosagur Ramgoolam",
+      "from": "2026-11-15T04:30:00.000Z",
+      "to": "2026-11-15T10:30:00.000Z",
+      "id": "c576d62aa6dd51dce34e624dfc58ef4f"
+    },
+    {
+      "date": "Le jeudi 12 novembre 2026 de  12:00:00 à  14:30:00",
+      "streets": "Dans les environs d’une partie des Rues Edouard Laurent, Dr Joseph Riviere et Sir Seewoosagur Ramgoolam",
+      "from": "2026-11-12T08:00:00.000Z",
+      "to": "2026-11-12T10:30:00.000Z",
+      "id": "b4cfee44b75279d6ee9e6325154af549"
+    },
     {
       "date": "Le mardi 10 novembre 2026 de  11:00:00 à  12:15:00",
       "streets": "KARO KALYPTUS BATTERIE CASSEE.",

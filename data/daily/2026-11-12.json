@@ -1,8 +1,8 @@
 {
   "date": "2026-11-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-10T20:38:30.854Z",
-  "outageCount": 2,
+  "generated": "2026-11-11T13:05:36.701Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le jeudi 12 novembre 2026 de  08:30:00 à  17:00:00",
@@ -15,6 +15,26 @@
       "id": "ddc21faa31b5d5bf3fc05044e50b0d4a"
     },
     {
+      "date": "Le jeudi 12 novembre 2026 de  08:30:00 à  15:30:00",
+      "locality": "TOUR KOENIG",
+      "localitySlug": "tour-koenig",
+      "streets": "Dans les environs des Residences Alpha",
+      "district": "portlouis",
+      "from": "2026-11-12T04:30:00.000Z",
+      "to": "2026-11-12T11:30:00.000Z",
+      "id": "e213786258812eb5470776ca8dcef3d7"
+    },
+    {
+      "date": "Le jeudi 12 novembre 2026 de  12:00:00 à  14:30:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "Dans les environs d’une partie des Rues Edouard Laurent, Dr Joseph Riviere et Sir Seewoosagur Ramgoolam",
+      "district": "portlouis",
+      "from": "2026-11-12T08:00:00.000Z",
+      "to": "2026-11-12T10:30:00.000Z",
+      "id": "b4cfee44b75279d6ee9e6325154af549"
+    },
+    {
       "date": "Le jeudi 12 novembre 2026 de  09:00:00 à  15:00:00",
       "locality": "ROCHES NOIRES",
       "localitySlug": "roches-noires",
@@ -23,6 +43,16 @@
       "from": "2026-11-12T05:00:00.000Z",
       "to": "2026-11-12T11:00:00.000Z",
       "id": "21784d5cf0e88003ba09604b7a80d6e2"
+    },
+    {
+      "date": "Le jeudi 12 novembre 2026 de  08:00:00 à  15:30:00",
+      "locality": "RODRIGUES",
+      "localitySlug": "rodrigues",
+      "streets": "Grand La Fouche Corail, Cascade Jean Louis, Plaine Corail, Anse Quitor et Dans Coco.",
+      "district": "rodrigues",
+      "from": "2026-11-12T04:00:00.000Z",
+      "to": "2026-11-12T11:30:00.000Z",
+      "id": "643e7c764a346d3f765219e6f9061ad4"
     }
   ]
 }

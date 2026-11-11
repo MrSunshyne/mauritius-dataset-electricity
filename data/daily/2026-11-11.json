@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-11",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-11-11T13:05:36.701Z",
+  "outageCount": 4,
+  "outages": [
+    {
+      "date": "Le mercredi 11 novembre 2026 de  09:00:00 à  16:00:00",
+      "locality": "RIVIERE DU POSTE",
+      "localitySlug": "riviere-du-poste",
+      "streets": "BALA RD -ROYAL RD RIV DU POSTE",
+      "district": "grandport",
+      "from": "2026-11-11T05:00:00.000Z",
+      "to": "2026-11-11T12:00:00.000Z",
+      "id": "1a09df1eddfb56663848c30951c471ae"
+    },
+    {
+      "date": "Le mercredi 11 novembre 2026 de  13:45:00 à  20:00:00",
+      "locality": "EBENE",
+      "localitySlug": "ebene",
+      "streets": "MORC BEGA, RUE DE LA LIBERTE, RUE JUDICAIRE ET DANS LES ENVIRONS APARTEMENT OVELIA.",
+      "district": "moka",
+      "from": "2026-11-11T09:45:00.000Z",
+      "to": "2026-11-11T16:00:00.000Z",
+      "id": "301d0840141ee13fb06b4340270c79a3"
+    },
+    {
+      "date": "Le mercredi 11 novembre 2026 de  10:00:00 à  16:00:00",
+      "locality": "MORC SAINT ANDRE",
+      "localitySlug": "morc-saint-andre",
+      "streets": "ROYAL ROAD/KALIMAYE ROAD MORC ST ANDRE",
+      "district": "pamplemousses",
+      "from": "2026-11-11T06:00:00.000Z",
+      "to": "2026-11-11T12:00:00.000Z",
+      "id": "6d4e7a4e2727f0d7f88d0146e37e16b4"
+    },
+    {
+      "date": "Le mercredi 11 novembre 2026 de  10:00:00 à  15:00:00",
+      "locality": "UPPER VALE",
+      "localitySlug": "upper-vale",
+      "streets": "BAMBOUS RD VALE",
+      "district": "rivieredurempart",
+      "from": "2026-11-11T06:00:00.000Z",
+      "to": "2026-11-11T11:00:00.000Z",
+      "id": "53d6178007b6c7616c0c047cac1bbdf0"
+    }
+  ]
+}

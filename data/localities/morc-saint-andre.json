@@ -2,11 +2,18 @@
   "slug": "morc-saint-andre",
   "name": "MORC SAINT ANDRE",
   "district": "pamplemousses",
-  "generated": "2026-11-10T20:38:31.067Z",
-  "outageCount": 55,
+  "generated": "2026-11-11T13:05:36.899Z",
+  "outageCount": 56,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-10-25",
+  "lastOutage": "2026-11-11",
   "outages": [
+    {
+      "date": "Le mercredi 11 novembre 2026 de  10:00:00 à  16:00:00",
+      "streets": "ROYAL ROAD/KALIMAYE ROAD MORC ST ANDRE",
+      "from": "2026-11-11T06:00:00.000Z",
+      "to": "2026-11-11T12:00:00.000Z",
+      "id": "6d4e7a4e2727f0d7f88d0146e37e16b4"
+    },
     {
       "date": "Le dimanche 25 octobre 2026 de  08:30:00 à  16:00:00",
       "streets": "Royal rd, Morc St Andre dans les environs de Lolo Supermarket, Tropical Cube, DAV College, Morc VRS et hamlet Road",

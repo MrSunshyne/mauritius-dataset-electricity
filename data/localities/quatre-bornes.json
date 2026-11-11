@@ -2,11 +2,18 @@
   "slug": "quatre-bornes",
   "name": "QUATRE-BORNES",
   "district": "plainewilhems",
-  "generated": "2026-11-10T20:38:31.121Z",
-  "outageCount": 419,
+  "generated": "2026-11-11T13:05:36.945Z",
+  "outageCount": 420,
   "firstOutage": "2022-04-01",
-  "lastOutage": "2026-11-09",
+  "lastOutage": "2026-11-13",
   "outages": [
+    {
+      "date": "Le vendredi 13 novembre 2026 de  09:00:00 à  15:00:00",
+      "streets": "CONTE DE LISTE, SIR CELICOURT ANTELME, SIR VIRGIL NAZ ET HITCHCOCK",
+      "from": "2026-11-13T05:00:00.000Z",
+      "to": "2026-11-13T11:00:00.000Z",
+      "id": "d6f232a793fb4ef45204eb743586113b"
+    },
     {
       "date": "Le lundi 9 novembre 2026 de  15:20:00 à  19:30:00",
       "streets": "AVE BELLE ROSE, AVE DEPINAY, RES CORALIA & SURROUNDINGS",

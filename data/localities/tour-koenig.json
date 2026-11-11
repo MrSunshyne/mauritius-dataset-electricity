@@ -2,11 +2,18 @@
   "slug": "tour-koenig",
   "name": "TOUR KOENIG",
   "district": "portlouis",
-  "generated": "2026-11-10T20:38:31.178Z",
-  "outageCount": 28,
+  "generated": "2026-11-11T13:05:37.003Z",
+  "outageCount": 29,
   "firstOutage": "2022-11-05",
-  "lastOutage": "2026-08-20",
+  "lastOutage": "2026-11-12",
   "outages": [
+    {
+      "date": "Le jeudi 12 novembre 2026 de  08:30:00 à  15:30:00",
+      "streets": "Dans les environs des Residences Alpha",
+      "from": "2026-11-12T04:30:00.000Z",
+      "to": "2026-11-12T11:30:00.000Z",
+      "id": "e213786258812eb5470776ca8dcef3d7"
+    },
     {
       "date": "Le jeudi 20 août 2026 de  08:30:00 à  16:30:00",
       "streets": "Dans les environs des Avenues La Tour Koenig, Anthurium, Andreanum, Croton, Hibiscus, Marguerite, Jasmin, Anemone, Phlox, Muguets, Jasmin, Zinnias, Myosotis, Petunia, Croton, Hibiscus, Bougainvilliers, Kenneth Nelson, Terrasson et GéraniumPOINTE AUX SABLE EN PARTIE",
