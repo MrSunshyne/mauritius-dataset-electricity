@@ -2,11 +2,18 @@
   "slug": "cap-malheureux",
   "name": "CAP MALHEUREUX",
   "district": "rivieredurempart",
-  "generated": "2026-11-11T13:05:36.780Z",
-  "outageCount": 61,
+  "generated": "2026-11-11T20:58:26.771Z",
+  "outageCount": 62,
   "firstOutage": "2022-07-14",
-  "lastOutage": "2026-11-03",
+  "lastOutage": "2026-11-11",
   "outages": [
+    {
+      "date": "Le mercredi 11 novembre 2026 de  18:00:00 à  22:00:00",
+      "streets": "ROUTE ROYALE DANS LES ENVIRONS L-EGLISE.",
+      "from": "2026-11-11T14:00:00.000Z",
+      "to": "2026-11-11T18:00:00.000Z",
+      "id": "9630acb9f2e36b25b71ff56086a09caa"
+    },
     {
       "date": "Le mardi 3 novembre 2026 de  19:00:00 à  21:00:00",
       "streets": "COASTAL RD NR EGLISE ET LA POSTE",

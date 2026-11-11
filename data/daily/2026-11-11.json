@@ -1,8 +1,8 @@
 {
   "date": "2026-11-11",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-11T13:05:36.701Z",
-  "outageCount": 4,
+  "generated": "2026-11-11T20:58:26.694Z",
+  "outageCount": 6,
   "outages": [
     {
       "date": "Le mercredi 11 novembre 2026 de  09:00:00 à  16:00:00",
@@ -43,6 +43,26 @@
       "from": "2026-11-11T06:00:00.000Z",
       "to": "2026-11-11T11:00:00.000Z",
       "id": "53d6178007b6c7616c0c047cac1bbdf0"
+    },
+    {
+      "date": "Le mercredi 11 novembre 2026 de  18:00:00 à  22:00:00",
+      "locality": "CAP MALHEUREUX",
+      "localitySlug": "cap-malheureux",
+      "streets": "ROUTE ROYALE DANS LES ENVIRONS L-EGLISE.",
+      "district": "rivieredurempart",
+      "from": "2026-11-11T14:00:00.000Z",
+      "to": "2026-11-11T18:00:00.000Z",
+      "id": "9630acb9f2e36b25b71ff56086a09caa"
+    },
+    {
+      "date": "Le mercredi 11 novembre 2026 de  21:00:00 à  01:30:00",
+      "locality": "RIVIERE DU REMPART",
+      "localitySlug": "riviere-du-rempart",
+      "streets": "MORC NOCE DE CANA, CITE CHA, FLAMBOYANT & SURROUNDINGS",
+      "district": "rivieredurempart",
+      "from": "2026-11-11T17:00:00.000Z",
+      "to": "2026-11-10T21:30:00.000Z",
+      "id": "98cf7d991979a3bbc251eedbfa3aef9e"
     }
   ]
 }

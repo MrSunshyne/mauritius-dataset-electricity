@@ -2,11 +2,18 @@
   "slug": "riviere-du-rempart",
   "name": "RIVIERE DU REMPART",
   "district": "rivieredurempart",
-  "generated": "2026-11-11T13:05:36.963Z",
-  "outageCount": 77,
+  "generated": "2026-11-11T20:58:26.960Z",
+  "outageCount": 78,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-11-10",
+  "lastOutage": "2026-11-11",
   "outages": [
+    {
+      "date": "Le mercredi 11 novembre 2026 de  21:00:00 à  01:30:00",
+      "streets": "MORC NOCE DE CANA, CITE CHA, FLAMBOYANT & SURROUNDINGS",
+      "from": "2026-11-11T17:00:00.000Z",
+      "to": "2026-11-10T21:30:00.000Z",
+      "id": "98cf7d991979a3bbc251eedbfa3aef9e"
+    },
     {
       "date": "Le mardi 10 novembre 2026 de  18:45:00 à  23:00:00",
       "streets": "BYPASS ROAD, KALIMAYE ROAD, SCHOOL LANE & SURROUNDINGS",
