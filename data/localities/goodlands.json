@@ -2,8 +2,8 @@
   "slug": "goodlands",
   "name": "GOODLANDS",
   "district": "rivieredurempart",
-  "generated": "2026-11-12T14:08:21.751Z",
-  "outageCount": 154,
+  "generated": "2026-11-12T21:37:47.003Z",
+  "outageCount": 155,
   "firstOutage": "2022-03-27",
   "lastOutage": "2026-11-15",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-11-15T04:30:00.000Z",
       "to": "2026-11-15T06:00:00.000Z",
       "id": "47a2e22a6b146549d3397fea2c27102e"
+    },
+    {
+      "date": "Le vendredi 13 novembre 2026 de  01:00:00 à  04:00:00",
+      "streets": "GOODLANDS/COTTAGE/LESPERANCE/ILE DAMBRE/POUDRE DOR",
+      "from": "2026-11-12T21:00:00.000Z",
+      "to": "2026-11-13T00:00:00.000Z",
+      "id": "fa2ed30387b217e8ed8a133c80aecfa8"
     },
     {
       "date": "Le dimanche 8 novembre 2026 de  14:45:00 à  15:30:00",

@@ -2,11 +2,18 @@
   "slug": "trou-aux-biches",
   "name": "TROU AUX BICHES",
   "district": "pamplemousses",
-  "generated": "2026-11-12T14:08:21.905Z",
-  "outageCount": 71,
+  "generated": "2026-11-12T21:37:47.119Z",
+  "outageCount": 72,
   "firstOutage": "2022-04-10",
-  "lastOutage": "2026-10-22",
+  "lastOutage": "2026-11-12",
   "outages": [
+    {
+      "date": "Le jeudi 12 novembre 2026 de  21:00:00 à  01:30:00",
+      "streets": "MORC RAMDENEE",
+      "from": "2026-11-12T17:00:00.000Z",
+      "to": "2026-11-11T21:30:00.000Z",
+      "id": "df22d6492769e22ce1beebbdd39e27f6"
+    },
     {
       "date": "Le jeudi 22 octobre 2026 de  09:30:00 à  15:30:00",
       "streets": "Morc Jhuboo a Trou aux Biches",

@@ -1,8 +1,8 @@
 {
   "date": "2026-11-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-12T14:08:21.637Z",
-  "outageCount": 12,
+  "generated": "2026-11-12T21:37:46.916Z",
+  "outageCount": 15,
   "outages": [
     {
       "date": "Le jeudi 12 novembre 2026 de  08:30:00 à  17:00:00",
@@ -25,14 +25,24 @@
       "id": "fd78bb4ffd4841ec6118e6bb6412d08a"
     },
     {
-      "date": "Le jeudi 12 novembre 2026 de  15:25:00 à  19:00:00",
+      "date": "Le jeudi 12 novembre 2026 de  21:00:00 à  01:30:00",
+      "locality": "NOUVELLE DECOUVERTE",
+      "localitySlug": "nouvelle-decouverte",
+      "streets": "NOUVELLE DECOUVERTE/RIPAILLES/BEUABOIS/LAVENIR",
+      "district": "grandport",
+      "from": "2026-11-12T17:00:00.000Z",
+      "to": "2026-11-11T21:30:00.000Z",
+      "id": "a84f0d6bc66449fd0de9162b2dae013b"
+    },
+    {
+      "date": "Le jeudi 12 novembre 2026 de  15:25:00 à  22:30:00",
       "locality": "QUARTIER MILITAIRE",
       "localitySlug": "quartier-militaire",
       "streets": "ROYAL ROAD, NEW ROAD ET DANS LES ENVIRONS FILLING INDIAN OIL.",
       "district": "moka",
       "from": "2026-11-12T11:25:00.000Z",
-      "to": "2026-11-12T15:00:00.000Z",
-      "id": "d2c6e6f6e20f50761782d07c2f60b82d"
+      "to": "2026-11-12T18:30:00.000Z",
+      "id": "8fc1acd267bb445fac4226134d39c870"
     },
     {
       "date": "Le jeudi 12 novembre 2026 de  16:30:00 à  19:30:00",
@@ -63,6 +73,16 @@
       "from": "2026-11-12T10:45:00.000Z",
       "to": "2026-11-12T13:45:00.000Z",
       "id": "e1e5335efdc1762c9c492ef42b21ff30"
+    },
+    {
+      "date": "Le jeudi 12 novembre 2026 de  21:00:00 à  01:30:00",
+      "locality": "TROU AUX BICHES",
+      "localitySlug": "trou-aux-biches",
+      "streets": "MORC RAMDENEE",
+      "district": "pamplemousses",
+      "from": "2026-11-12T17:00:00.000Z",
+      "to": "2026-11-11T21:30:00.000Z",
+      "id": "df22d6492769e22ce1beebbdd39e27f6"
     },
     {
       "date": "Le jeudi 12 novembre 2026 de  10:00:00 à  12:00:00",
@@ -113,6 +133,16 @@
       "from": "2026-11-12T05:00:00.000Z",
       "to": "2026-11-12T11:00:00.000Z",
       "id": "21784d5cf0e88003ba09604b7a80d6e2"
+    },
+    {
+      "date": "Le jeudi 12 novembre 2026 de  19:30:00 à  00:30:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "SOTISE ROAD GRAND BAY",
+      "district": "rivieredurempart",
+      "from": "2026-11-12T15:30:00.000Z",
+      "to": "2026-11-11T20:30:00.000Z",
+      "id": "1794c884dafbf95ecade9d16816f1756"
     },
     {
       "date": "Le jeudi 12 novembre 2026 de  08:00:00 à  15:30:00",

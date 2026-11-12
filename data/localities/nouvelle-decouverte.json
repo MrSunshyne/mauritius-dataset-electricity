@@ -2,11 +2,18 @@
   "slug": "nouvelle-decouverte",
   "name": "NOUVELLE DECOUVERTE",
   "district": "moka",
-  "generated": "2026-11-12T14:08:21.816Z",
-  "outageCount": 33,
+  "generated": "2026-11-12T21:37:47.055Z",
+  "outageCount": 34,
   "firstOutage": "2022-12-13",
-  "lastOutage": "2026-11-05",
+  "lastOutage": "2026-11-12",
   "outages": [
+    {
+      "date": "Le jeudi 12 novembre 2026 de  21:00:00 à  01:30:00",
+      "streets": "NOUVELLE DECOUVERTE/RIPAILLES/BEUABOIS/LAVENIR",
+      "from": "2026-11-12T17:00:00.000Z",
+      "to": "2026-11-11T21:30:00.000Z",
+      "id": "a84f0d6bc66449fd0de9162b2dae013b"
+    },
     {
       "date": "Le jeudi 5 novembre 2026 de  08:30:00 à  12:00:00",
       "streets": "RAJABALLY RD, FORGET RD, MOA RD, FODDER RD, SCHOOL RD, NOUVELLE DECOUVERTE RD, BILLAR RD, LÉSCALIER RD ET LES EVIRONS",

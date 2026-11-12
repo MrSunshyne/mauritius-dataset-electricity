@@ -2,11 +2,18 @@
   "slug": "grand-bay",
   "name": "GRAND BAY",
   "district": "rivieredurempart",
-  "generated": "2026-11-12T14:08:21.753Z",
-  "outageCount": 132,
+  "generated": "2026-11-12T21:37:47.004Z",
+  "outageCount": 133,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-10-28",
+  "lastOutage": "2026-11-12",
   "outages": [
+    {
+      "date": "Le jeudi 12 novembre 2026 de  19:30:00 à  00:30:00",
+      "streets": "SOTISE ROAD GRAND BAY",
+      "from": "2026-11-12T15:30:00.000Z",
+      "to": "2026-11-11T20:30:00.000Z",
+      "id": "1794c884dafbf95ecade9d16816f1756"
+    },
     {
       "date": "Le mercredi 28 octobre 2026 de  19:15:00 à  21:00:00",
       "streets": "CHEMIN GERANIUM GRAND BAY",
