@@ -2,11 +2,18 @@
   "slug": "curepipe",
   "name": "CUREPIPE",
   "district": "plainewilhems",
-  "generated": "2026-11-11T20:58:26.799Z",
-  "outageCount": 248,
+  "generated": "2026-11-12T14:08:21.731Z",
+  "outageCount": 249,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-11-05",
+  "lastOutage": "2026-11-15",
   "outages": [
+    {
+      "date": "Le dimanche 15 novembre 2026 de  08:30:00 à  17:00:00",
+      "streets": "UNE PARTIE DE SIR CHARLES LEES ST, MAUREL ST, BAISSAC ST, COMMERSON, RUE LA CROIX, DUPERRE ST, BOULLE ST, HENRI ST, VICTOR HUGO, FLAT ST ANTOINE, MORC SENNEVILLE, MORC DALAIS",
+      "from": "2026-11-15T04:30:00.000Z",
+      "to": "2026-11-15T13:00:00.000Z",
+      "id": "056163a12895dc9450ff5da46f60f461"
+    },
     {
       "date": "Le jeudi 5 novembre 2026 de  09:00:00 à  12:00:00",
       "streets": "Partie de La Rue Robinson, Rue Shivala, Rue Hardline, et les ruelles avoisinantes",

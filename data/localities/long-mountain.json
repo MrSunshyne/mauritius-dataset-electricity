@@ -2,11 +2,18 @@
   "slug": "long-mountain",
   "name": "LONG MOUNTAIN",
   "district": "pamplemousses",
-  "generated": "2026-11-11T20:58:26.863Z",
-  "outageCount": 33,
+  "generated": "2026-11-12T14:08:21.787Z",
+  "outageCount": 34,
   "firstOutage": "2022-05-26",
-  "lastOutage": "2026-11-04",
+  "lastOutage": "2026-11-12",
   "outages": [
+    {
+      "date": "Le jeudi 12 novembre 2026 de  14:45:00 à  17:45:00",
+      "streets": "ROUTE DESCOINS ET LES ENVIRONS.",
+      "from": "2026-11-12T10:45:00.000Z",
+      "to": "2026-11-12T13:45:00.000Z",
+      "id": "e1e5335efdc1762c9c492ef42b21ff30"
+    },
     {
       "date": "Le mercredi 4 novembre 2026 de  12:15:00 à  15:00:00",
       "streets": "DESCOINS/JOWRY ROAD LONG MOUNTAIN",

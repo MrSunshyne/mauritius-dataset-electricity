@@ -2,11 +2,18 @@
   "slug": "mahebourg",
   "name": "MAHEBOURG",
   "district": "grandport",
-  "generated": "2026-11-11T20:58:26.865Z",
-  "outageCount": 92,
+  "generated": "2026-11-12T14:08:21.788Z",
+  "outageCount": 93,
   "firstOutage": "2022-04-07",
-  "lastOutage": "2026-10-24",
+  "lastOutage": "2026-11-12",
   "outages": [
+    {
+      "date": "Le jeudi 12 novembre 2026 de  14:00:00 à  15:00:00",
+      "streets": "RUE LA CHAUX-RUE MAURICE-RUE SHIVANADA MAHEBOURG AND MORC LORETTE.",
+      "from": "2026-11-12T10:00:00.000Z",
+      "to": "2026-11-12T11:00:00.000Z",
+      "id": "fd78bb4ffd4841ec6118e6bb6412d08a"
+    },
     {
       "date": "Le samedi 24 octobre 2026 de  08:30:00 à  17:00:00",
       "streets": "Rue Colonie, Rue Chaland, Rue Du Bouchon, Rue Du Souffleur, Rue De Maurice, Rue De La Chaux, Rue Des Creoles, Rue Du Hangard, Rue De Suffren, Rue De La Place, SSS Emmanuel Anquetil et Hamilton College",

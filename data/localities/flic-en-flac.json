@@ -2,11 +2,18 @@
   "slug": "flic-en-flac",
   "name": "FLIC-EN-FLAC",
   "district": "blackriver",
-  "generated": "2026-11-11T20:58:26.812Z",
-  "outageCount": 246,
+  "generated": "2026-11-12T14:08:21.744Z",
+  "outageCount": 247,
   "firstOutage": "2022-03-16",
-  "lastOutage": "2026-11-04",
+  "lastOutage": "2026-11-14",
   "outages": [
+    {
+      "date": "Le samedi 14 novembre 2026 de  08:30:00 à  15:30:00",
+      "streets": "MORC SAFELAND, MORC PALMYRE, MORC LI YAO, AVE RADAR, AVE KESTREL, AVE DES PERRUCHES, AVE DES CRECERELLES, AVE PAILLE-EN-QUEUE, AVE FLAMANTS, AVE DES COLOMBES ET AVE CAMELIA",
+      "from": "2026-11-14T04:30:00.000Z",
+      "to": "2026-11-14T11:30:00.000Z",
+      "id": "3a0f03bfdadfe54467c6a202dab55909"
+    },
     {
       "date": "Le mercredi 4 novembre 2026 de  08:30:00 à  15:30:00",
       "streets": "HOTEL ANELIA, KLONDIKE RD, MOULIN CASSEE RD ET UNE PARTIE DE LA ROUTE COTIERE FLIC EN FLAC",

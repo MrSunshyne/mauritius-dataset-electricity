@@ -2,11 +2,18 @@
   "slug": "quartier-militaire",
   "name": "QUARTIER MILITAIRE",
   "district": "moka",
-  "generated": "2026-11-11T20:58:26.940Z",
-  "outageCount": 49,
+  "generated": "2026-11-12T14:08:21.851Z",
+  "outageCount": 50,
   "firstOutage": "2022-03-21",
-  "lastOutage": "2026-08-23",
+  "lastOutage": "2026-11-12",
   "outages": [
+    {
+      "date": "Le jeudi 12 novembre 2026 de  15:25:00 à  19:00:00",
+      "streets": "ROYAL ROAD, NEW ROAD ET DANS LES ENVIRONS FILLING INDIAN OIL.",
+      "from": "2026-11-12T11:25:00.000Z",
+      "to": "2026-11-12T15:00:00.000Z",
+      "id": "d2c6e6f6e20f50761782d07c2f60b82d"
+    },
     {
       "date": "Le dimanche 23 août 2026 de  08:30:00 à  16:00:00",
       "streets": "Pumping Station Engen, Part Royal Road Quartier Militaire, Cite Ravaton, Bonne Veine Road, St Leon Road, Part Bethuel Road",

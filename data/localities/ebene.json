@@ -2,11 +2,18 @@
   "slug": "ebene",
   "name": "EBENE",
   "district": "plainewilhems",
-  "generated": "2026-11-11T20:58:26.807Z",
-  "outageCount": 31,
+  "generated": "2026-11-12T14:08:21.738Z",
+  "outageCount": 32,
   "firstOutage": "2022-04-25",
-  "lastOutage": "2026-11-11",
+  "lastOutage": "2026-11-12",
   "outages": [
+    {
+      "date": "Le jeudi 12 novembre 2026 de  16:30:00 à  19:30:00",
+      "streets": "MORC BEGA.",
+      "from": "2026-11-12T12:30:00.000Z",
+      "to": "2026-11-12T15:30:00.000Z",
+      "id": "ce5a27de1dff1c4a2aba2aa72bc6440b"
+    },
     {
       "date": "Le mercredi 11 novembre 2026 de  13:45:00 à  20:00:00",
       "streets": "MORC BEGA, RUE DE LA LIBERTE, RUE JUDICAIRE ET DANS LES ENVIRONS APARTEMENT OVELIA.",

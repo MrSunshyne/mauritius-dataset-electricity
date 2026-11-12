@@ -2,11 +2,18 @@
   "slug": "candos-vacoas",
   "name": "CANDOS VACOAS",
   "district": "plainewilhems",
-  "generated": "2026-11-11T20:58:26.769Z",
-  "outageCount": 17,
+  "generated": "2026-11-12T14:08:21.704Z",
+  "outageCount": 18,
   "firstOutage": "2022-06-21",
-  "lastOutage": "2026-09-05",
+  "lastOutage": "2026-11-12",
   "outages": [
+    {
+      "date": "Le jeudi 12 novembre 2026 de  10:00:00 à  12:00:00",
+      "streets": "MORC DOOKAN-MORC GUNGADIN-RUE LA PAIX RES KENNEDY CANDOS",
+      "from": "2026-11-12T06:00:00.000Z",
+      "to": "2026-11-12T08:00:00.000Z",
+      "id": "6200403b65142502bc5aba7a130f5e89"
+    },
     {
       "date": "Le samedi 5 septembre 2026 de  09:00:00 à  14:00:00",
       "streets": "Candos résidant les régions et les rues suivantes : Kalimaye Lane, Rugoo lane et une partie de Candos Road",

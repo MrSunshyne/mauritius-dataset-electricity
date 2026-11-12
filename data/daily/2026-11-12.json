@@ -1,8 +1,8 @@
 {
   "date": "2026-11-12",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-11T20:58:26.694Z",
-  "outageCount": 5,
+  "generated": "2026-11-12T14:08:21.637Z",
+  "outageCount": 12,
   "outages": [
     {
       "date": "Le jeudi 12 novembre 2026 de  08:30:00 à  17:00:00",
@@ -13,6 +13,66 @@
       "from": "2026-11-12T04:30:00.000Z",
       "to": "2026-11-12T13:00:00.000Z",
       "id": "ddc21faa31b5d5bf3fc05044e50b0d4a"
+    },
+    {
+      "date": "Le jeudi 12 novembre 2026 de  14:00:00 à  15:00:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "RUE LA CHAUX-RUE MAURICE-RUE SHIVANADA MAHEBOURG AND MORC LORETTE.",
+      "district": "grandport",
+      "from": "2026-11-12T10:00:00.000Z",
+      "to": "2026-11-12T11:00:00.000Z",
+      "id": "fd78bb4ffd4841ec6118e6bb6412d08a"
+    },
+    {
+      "date": "Le jeudi 12 novembre 2026 de  15:25:00 à  19:00:00",
+      "locality": "QUARTIER MILITAIRE",
+      "localitySlug": "quartier-militaire",
+      "streets": "ROYAL ROAD, NEW ROAD ET DANS LES ENVIRONS FILLING INDIAN OIL.",
+      "district": "moka",
+      "from": "2026-11-12T11:25:00.000Z",
+      "to": "2026-11-12T15:00:00.000Z",
+      "id": "d2c6e6f6e20f50761782d07c2f60b82d"
+    },
+    {
+      "date": "Le jeudi 12 novembre 2026 de  16:30:00 à  19:30:00",
+      "locality": "EBENE",
+      "localitySlug": "ebene",
+      "streets": "MORC BEGA.",
+      "district": "moka",
+      "from": "2026-11-12T12:30:00.000Z",
+      "to": "2026-11-12T15:30:00.000Z",
+      "id": "ce5a27de1dff1c4a2aba2aa72bc6440b"
+    },
+    {
+      "date": "Le jeudi 12 novembre 2026 de  13:45:00 à  15:15:00",
+      "locality": "PETITE JULIE",
+      "localitySlug": "petite-julie",
+      "streets": "MORC VRS.",
+      "district": "pamplemousses",
+      "from": "2026-11-12T09:45:00.000Z",
+      "to": "2026-11-12T11:15:00.000Z",
+      "id": "d986a96e9066cd692ff2cebd3bb76b0f"
+    },
+    {
+      "date": "Le jeudi 12 novembre 2026 de  14:45:00 à  17:45:00",
+      "locality": "LONG MOUNTAIN",
+      "localitySlug": "long-mountain",
+      "streets": "ROUTE DESCOINS ET LES ENVIRONS.",
+      "district": "pamplemousses",
+      "from": "2026-11-12T10:45:00.000Z",
+      "to": "2026-11-12T13:45:00.000Z",
+      "id": "e1e5335efdc1762c9c492ef42b21ff30"
+    },
+    {
+      "date": "Le jeudi 12 novembre 2026 de  10:00:00 à  12:00:00",
+      "locality": "CANDOS VACOAS",
+      "localitySlug": "candos-vacoas",
+      "streets": "MORC DOOKAN-MORC GUNGADIN-RUE LA PAIX RES KENNEDY CANDOS",
+      "district": "plainewilhems",
+      "from": "2026-11-12T06:00:00.000Z",
+      "to": "2026-11-12T08:00:00.000Z",
+      "id": "6200403b65142502bc5aba7a130f5e89"
     },
     {
       "date": "Le jeudi 12 novembre 2026 de  08:30:00 à  15:30:00",
@@ -33,6 +93,16 @@
       "from": "2026-11-12T08:00:00.000Z",
       "to": "2026-11-12T10:30:00.000Z",
       "id": "b4cfee44b75279d6ee9e6325154af549"
+    },
+    {
+      "date": "Le jeudi 12 novembre 2026 de  12:30:00 à  15:00:00",
+      "locality": "PORT-LOUIS",
+      "localitySlug": "port-louis",
+      "streets": "RUE DESFORGES PORT LOUIS",
+      "district": "portlouis",
+      "from": "2026-11-12T08:30:00.000Z",
+      "to": "2026-11-12T11:00:00.000Z",
+      "id": "7172f1d6acb5fb3e75f198535d18df64"
     },
     {
       "date": "Le jeudi 12 novembre 2026 de  09:00:00 à  15:00:00",

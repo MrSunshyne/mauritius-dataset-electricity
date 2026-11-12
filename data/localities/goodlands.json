@@ -2,11 +2,18 @@
   "slug": "goodlands",
   "name": "GOODLANDS",
   "district": "rivieredurempart",
-  "generated": "2026-11-11T20:58:26.820Z",
-  "outageCount": 153,
+  "generated": "2026-11-12T14:08:21.751Z",
+  "outageCount": 154,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-11-08",
+  "lastOutage": "2026-11-15",
   "outages": [
+    {
+      "date": "Le dimanche 15 novembre 2026 de  08:30:00 à  10:00:00",
+      "streets": "ENTIERE REGION DE GOODLANDS ET ST ANTOINE",
+      "from": "2026-11-15T04:30:00.000Z",
+      "to": "2026-11-15T06:00:00.000Z",
+      "id": "47a2e22a6b146549d3397fea2c27102e"
+    },
     {
       "date": "Le dimanche 8 novembre 2026 de  14:45:00 à  15:30:00",
       "streets": "Goodlands,Reunion Maurel,Petit Raffray,Roche Terre,Grand Gaube,Forbach",

@@ -1,8 +1,8 @@
 {
   "date": "2026-11-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-11T20:58:26.694Z",
-  "outageCount": 3,
+  "generated": "2026-11-12T14:08:21.637Z",
+  "outageCount": 10,
   "outages": [
     {
       "date": "Le dimanche 15 novembre 2026 de  08:30:00 à  17:00:00",
@@ -13,6 +13,26 @@
       "from": "2026-11-15T04:30:00.000Z",
       "to": "2026-11-15T13:00:00.000Z",
       "id": "948b290a3f74af0ced8ca81799dff963"
+    },
+    {
+      "date": "Le dimanche 15 novembre 2026 de  08:30:00 à  14:30:00",
+      "locality": "ROSE-HILL",
+      "localitySlug": "rose-hill",
+      "streets": "AVE STE ANNE, AVE TOUREAUX, AVE PANCHOO, AVE HOSPITAL ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2026-11-15T04:30:00.000Z",
+      "to": "2026-11-15T10:30:00.000Z",
+      "id": "45608cdf2fc94a6c5cfb3b6eb68da425"
+    },
+    {
+      "date": "Le dimanche 15 novembre 2026 de  08:30:00 à  17:00:00",
+      "locality": "CUREPIPE",
+      "localitySlug": "curepipe",
+      "streets": "UNE PARTIE DE SIR CHARLES LEES ST, MAUREL ST, BAISSAC ST, COMMERSON, RUE LA CROIX, DUPERRE ST, BOULLE ST, HENRI ST, VICTOR HUGO, FLAT ST ANTOINE, MORC SENNEVILLE, MORC DALAIS",
+      "district": "plainewilhems",
+      "from": "2026-11-15T04:30:00.000Z",
+      "to": "2026-11-15T13:00:00.000Z",
+      "id": "056163a12895dc9450ff5da46f60f461"
     },
     {
       "date": "Le dimanche 15 novembre 2026 de  08:30:00 à  14:30:00",
@@ -33,6 +53,56 @@
       "from": "2026-11-15T04:30:00.000Z",
       "to": "2026-11-15T11:00:00.000Z",
       "id": "2fe3def4ab9ca4b009aa2885d45162a1"
+    },
+    {
+      "date": "Le dimanche 15 novembre 2026 de  08:30:00 à  15:00:00",
+      "locality": "COTTAGE",
+      "localitySlug": "cottage",
+      "streets": "ENTIERE REGION DE COTTAGE",
+      "district": "rivieredurempart",
+      "from": "2026-11-15T04:30:00.000Z",
+      "to": "2026-11-15T11:00:00.000Z",
+      "id": "9b8f9d9429a0aa0a7c31c45d63f6ab7e"
+    },
+    {
+      "date": "Le dimanche 15 novembre 2026 de  08:30:00 à  10:00:00",
+      "locality": "ESPERANCE TREBUCHET",
+      "localitySlug": "esperance-trebuchet",
+      "streets": "ENTIERE REGION DE LESPERANCE TREBUCHET",
+      "district": "rivieredurempart",
+      "from": "2026-11-15T04:30:00.000Z",
+      "to": "2026-11-15T06:00:00.000Z",
+      "id": "b7d7fdf102590aaf74b52735f6a085b2"
+    },
+    {
+      "date": "Le dimanche 15 novembre 2026 de  08:30:00 à  10:00:00",
+      "locality": "POUDRE D-OR HAMLET",
+      "localitySlug": "poudre-d-or-hamlet",
+      "streets": "ENTIERE REGION DE POUDRE DOR HAMLET",
+      "district": "rivieredurempart",
+      "from": "2026-11-15T04:30:00.000Z",
+      "to": "2026-11-15T06:00:00.000Z",
+      "id": "c80ee2690ab60f489ffba0c8951eed8b"
+    },
+    {
+      "date": "Le dimanche 15 novembre 2026 de  08:30:00 à  10:00:00",
+      "locality": "POUDRE D-OR VILLAGE",
+      "localitySlug": "poudre-d-or-village",
+      "streets": "ENTIERE REGION DE POUDRE DOR VILLAGE",
+      "district": "rivieredurempart",
+      "from": "2026-11-15T04:30:00.000Z",
+      "to": "2026-11-15T06:00:00.000Z",
+      "id": "1b2a4b338a1de242855e30a0a05c2aa6"
+    },
+    {
+      "date": "Le dimanche 15 novembre 2026 de  08:30:00 à  10:00:00",
+      "locality": "GOODLANDS",
+      "localitySlug": "goodlands",
+      "streets": "ENTIERE REGION DE GOODLANDS ET ST ANTOINE",
+      "district": "rivieredurempart",
+      "from": "2026-11-15T04:30:00.000Z",
+      "to": "2026-11-15T06:00:00.000Z",
+      "id": "47a2e22a6b146549d3397fea2c27102e"
     }
   ]
 }
