@@ -1,8 +1,8 @@
 {
   "date": "2026-11-13",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-13T13:33:05.913Z",
-  "outageCount": 12,
+  "generated": "2026-11-13T20:40:45.895Z",
+  "outageCount": 13,
   "outages": [
     {
       "date": "Le vendredi 13 novembre 2026 de  16:00:00 à  21:00:00",
@@ -33,6 +33,16 @@
       "from": "2026-11-13T12:00:00.000Z",
       "to": "2026-11-13T16:00:00.000Z",
       "id": "e22b88193fad9599e452f68329d7b63b"
+    },
+    {
+      "date": "Le vendredi 13 novembre 2026 de  18:05:00 à  23:00:00",
+      "locality": "RICHE TERRE",
+      "localitySlug": "riche-terre",
+      "streets": "CHEMIN ROMA, RESIDENCE ROMA, DANS LES ALENTOURS USINE SORBET.",
+      "district": "pamplemousses",
+      "from": "2026-11-13T14:05:00.000Z",
+      "to": "2026-11-13T19:00:00.000Z",
+      "id": "b8984fddc48ecae701ffbadc1617dcc0"
     },
     {
       "date": "Le vendredi 13 novembre 2026 de  09:00:00 à  15:00:00",

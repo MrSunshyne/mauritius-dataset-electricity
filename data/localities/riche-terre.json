@@ -2,11 +2,18 @@
   "slug": "riche-terre",
   "name": "RICHE TERRE",
   "district": "pamplemousses",
-  "generated": "2026-11-13T13:33:06.215Z",
-  "outageCount": 51,
+  "generated": "2026-11-13T20:40:46.207Z",
+  "outageCount": 52,
   "firstOutage": "2022-04-03",
-  "lastOutage": "2026-10-30",
+  "lastOutage": "2026-11-13",
   "outages": [
+    {
+      "date": "Le vendredi 13 novembre 2026 de  18:05:00 à  23:00:00",
+      "streets": "CHEMIN ROMA, RESIDENCE ROMA, DANS LES ALENTOURS USINE SORBET.",
+      "from": "2026-11-13T14:05:00.000Z",
+      "to": "2026-11-13T19:00:00.000Z",
+      "id": "b8984fddc48ecae701ffbadc1617dcc0"
+    },
     {
       "date": "Le vendredi 30 octobre 2026 de  12:00:00 à  16:00:00",
       "streets": "Dans les environs de Riche Terre Road et Roma Lane",
