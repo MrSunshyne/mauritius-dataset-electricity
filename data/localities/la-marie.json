@@ -2,11 +2,18 @@
   "slug": "la-marie",
   "name": "LA MARIE",
   "district": "plainewilhems",
-  "generated": "2026-11-12T21:37:47.022Z",
-  "outageCount": 69,
+  "generated": "2026-11-13T13:33:06.098Z",
+  "outageCount": 70,
   "firstOutage": "2022-07-07",
-  "lastOutage": "2026-10-21",
+  "lastOutage": "2026-11-13",
   "outages": [
+    {
+      "date": "Le vendredi 13 novembre 2026 de  10:00:00 à  14:00:00",
+      "streets": "Cypruss Lane",
+      "from": "2026-11-13T06:00:00.000Z",
+      "to": "2026-11-13T10:00:00.000Z",
+      "id": "2f67ed5b18a9e6f1cc5a22be9b30f2b8"
+    },
     {
       "date": "Le mercredi 21 octobre 2026 de  09:00:00 à  13:00:00",
       "streets": "BERTHAUD LANE-CREMATION LANE-LA MARIE RD LA MARIE",

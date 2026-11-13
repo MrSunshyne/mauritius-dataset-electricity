@@ -2,11 +2,18 @@
   "slug": "forest-side",
   "name": "FOREST SIDE",
   "district": "plainewilhems",
-  "generated": "2026-11-12T21:37:47.000Z",
-  "outageCount": 112,
+  "generated": "2026-11-13T13:33:06.059Z",
+  "outageCount": 113,
   "firstOutage": "2022-07-03",
-  "lastOutage": "2026-10-19",
+  "lastOutage": "2026-11-13",
   "outages": [
+    {
+      "date": "Le vendredi 13 novembre 2026 de  09:00:00 à  13:00:00",
+      "streets": "Part of Cite Atlee",
+      "from": "2026-11-13T05:00:00.000Z",
+      "to": "2026-11-13T09:00:00.000Z",
+      "id": "d034c62c75bf7b5a1a83d689fb075ac6"
+    },
     {
       "date": "Le lundi 19 octobre 2026 de  09:00:00 à  15:00:00",
       "streets": "Rue Louis de Rochecouste, Rue Hibiscus, Rue Marygold, Rue Jasmin, Impasse Rochecouste, Impasse Raffray, et partie de Rue Sir Celicourt Anthleme et ruelles avoisinantes",

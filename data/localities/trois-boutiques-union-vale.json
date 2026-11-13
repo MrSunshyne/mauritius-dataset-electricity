@@ -2,11 +2,18 @@
   "slug": "trois-boutiques-union-vale",
   "name": "TROIS BOUTIQUES UNION VALE",
   "district": "grandport",
-  "generated": "2026-11-12T21:37:47.118Z",
-  "outageCount": 18,
+  "generated": "2026-11-13T13:33:06.271Z",
+  "outageCount": 19,
   "firstOutage": "2022-05-12",
-  "lastOutage": "2026-10-07",
+  "lastOutage": "2026-11-16",
   "outages": [
+    {
+      "date": "Le lundi 16 novembre 2026 de  09:00:00 à  16:00:00",
+      "streets": "Trois Boutiques habitant dans le périmètre : Morcellement Pitchurn Trois Boutiques",
+      "from": "2026-11-16T05:00:00.000Z",
+      "to": "2026-11-16T12:00:00.000Z",
+      "id": "e9c4065de9fb707c59ce7af263d0015a"
+    },
     {
       "date": "Le mercredi 7 octobre 2026 de  08:30:00 à  16:00:00",
       "streets": "Trois Boutiques habitant dans le périmètre : Gandhi Road et SSR Lane Trois Boutiques",

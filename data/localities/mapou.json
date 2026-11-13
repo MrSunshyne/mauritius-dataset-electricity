@@ -2,11 +2,18 @@
   "slug": "mapou",
   "name": "MAPOU",
   "district": "rivieredurempart",
-  "generated": "2026-11-12T21:37:47.032Z",
-  "outageCount": 15,
+  "generated": "2026-11-13T13:33:06.118Z",
+  "outageCount": 16,
   "firstOutage": "2022-05-22",
-  "lastOutage": "2026-08-11",
+  "lastOutage": "2026-11-15",
   "outages": [
+    {
+      "date": "Le dimanche 15 novembre 2026 de  08:30:00 à  15:30:00",
+      "streets": "DANS LES ENVIRONS DE LA NHDC DE MAPOU",
+      "from": "2026-11-15T04:30:00.000Z",
+      "to": "2026-11-15T11:30:00.000Z",
+      "id": "fe1a3dfd067056f122c88d67ccfe352c"
+    },
     {
       "date": "Le mardi 11 août 2026 de  19:15:00 à  00:00:00",
       "streets": "DANS LES ENVIRONS NHDC.",

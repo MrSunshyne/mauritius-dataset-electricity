@@ -2,11 +2,18 @@
   "slug": "tamarin",
   "name": "TAMARIN",
   "district": "blackriver",
-  "generated": "2026-11-12T21:37:47.111Z",
-  "outageCount": 90,
+  "generated": "2026-11-13T13:33:06.258Z",
+  "outageCount": 91,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-10-23",
+  "lastOutage": "2026-11-13",
   "outages": [
+    {
+      "date": "Le vendredi 13 novembre 2026 de  16:00:00 à  21:00:00",
+      "streets": "MORC BLACK ROCK : AVENUE DES MARLINS ET LES ENVIRONS.",
+      "from": "2026-11-13T12:00:00.000Z",
+      "to": "2026-11-13T17:00:00.000Z",
+      "id": "07874fbf59c2dad292824cd11889cf1f"
+    },
     {
       "date": "Le vendredi 23 octobre 2026 de  08:30:00 à  16:30:00",
       "streets": "EDC TAMARIN, AVENUE CAPITAINE, AVENUE JACARANDAS ET SALINEO",

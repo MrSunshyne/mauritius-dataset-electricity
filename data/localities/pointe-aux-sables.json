@@ -2,11 +2,25 @@
   "slug": "pointe-aux-sables",
   "name": "POINTE AUX SABLES",
   "district": "portlouis",
-  "generated": "2026-11-12T21:37:47.074Z",
-  "outageCount": 152,
+  "generated": "2026-11-13T13:33:06.188Z",
+  "outageCount": 154,
   "firstOutage": "2022-03-30",
-  "lastOutage": "2026-11-09",
+  "lastOutage": "2026-11-15",
   "outages": [
+    {
+      "date": "Le dimanche 15 novembre 2026 de  12:00:00 à  15:00:00",
+      "streets": "Dans les environs de Morc Sagitaire, Morc Ghurburrun, Morc Koenig, Morc Verger Sur Mer et Morc Dawood",
+      "from": "2026-11-15T08:00:00.000Z",
+      "to": "2026-11-15T11:00:00.000Z",
+      "id": "35a6d1de3d69a228cff2991c1aeeb8ab"
+    },
+    {
+      "date": "Le samedi 14 novembre 2026 de  08:00:00 à  10:00:00",
+      "streets": "Dans les environs de Morc Sagitaire, Morc Ghurburrun, Morc Koenig, Morc Verger Sur Mer et Morc Dawood",
+      "from": "2026-11-14T04:00:00.000Z",
+      "to": "2026-11-14T06:00:00.000Z",
+      "id": "ec071e6bdf7947f30fca8acbb80ec755"
+    },
     {
       "date": "Le lundi 9 novembre 2026 de  09:00:00 à  12:00:00",
       "streets": "MORC REY PTE AUX SABLES",

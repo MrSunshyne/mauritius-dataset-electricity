@@ -1,9 +1,19 @@
 {
   "date": "2026-11-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-12T21:37:46.916Z",
-  "outageCount": 10,
+  "generated": "2026-11-13T13:33:05.913Z",
+  "outageCount": 14,
   "outages": [
+    {
+      "date": "Le dimanche 15 novembre 2026 de  08:30:00 à  15:30:00",
+      "locality": "SAINT PIERRE",
+      "localitySlug": "saint-pierre",
+      "streets": "CHA ST PIERRE, NICOLIERE RD ST PIERRE, HOUSING ESTATE, ST PIERRE VILLAGE, COMMERCIAL BUSINESS, MARKET ST PIERRE, PATISSERIE ESCOFFIER, MCB ST PIERRE, FARMERS CENTRE ET LES ENVIRONS",
+      "district": "moka",
+      "from": "2026-11-15T04:30:00.000Z",
+      "to": "2026-11-15T11:30:00.000Z",
+      "id": "479df1354148a4b0402c15a6ece36999"
+    },
     {
       "date": "Le dimanche 15 novembre 2026 de  08:30:00 à  17:00:00",
       "locality": "VACOAS",
@@ -35,6 +45,16 @@
       "id": "056163a12895dc9450ff5da46f60f461"
     },
     {
+      "date": "Le dimanche 15 novembre 2026 de  08:30:00 à  15:00:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "RICHELIEU BRANCH RD, ISSACK RD, AZUR KHAN, RASHID KHAN, DWARKA LANE, GRENADE LANE, SOFT DREAM MATRESSES, AR NEETOO, NEETOO INDUSTRY",
+      "district": "plainewilhems",
+      "from": "2026-11-15T04:30:00.000Z",
+      "to": "2026-11-15T11:00:00.000Z",
+      "id": "48961c7458a1497ad58b58120d176c71"
+    },
+    {
       "date": "Le dimanche 15 novembre 2026 de  08:30:00 à  14:30:00",
       "locality": "PORT-LOUIS",
       "localitySlug": "port-louis",
@@ -53,6 +73,16 @@
       "from": "2026-11-15T04:30:00.000Z",
       "to": "2026-11-15T11:00:00.000Z",
       "id": "2fe3def4ab9ca4b009aa2885d45162a1"
+    },
+    {
+      "date": "Le dimanche 15 novembre 2026 de  12:00:00 à  15:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "Dans les environs de Morc Sagitaire, Morc Ghurburrun, Morc Koenig, Morc Verger Sur Mer et Morc Dawood",
+      "district": "portlouis",
+      "from": "2026-11-15T08:00:00.000Z",
+      "to": "2026-11-15T11:00:00.000Z",
+      "id": "35a6d1de3d69a228cff2991c1aeeb8ab"
     },
     {
       "date": "Le dimanche 15 novembre 2026 de  08:30:00 à  15:00:00",
@@ -103,6 +133,16 @@
       "from": "2026-11-15T04:30:00.000Z",
       "to": "2026-11-15T06:00:00.000Z",
       "id": "47a2e22a6b146549d3397fea2c27102e"
+    },
+    {
+      "date": "Le dimanche 15 novembre 2026 de  08:30:00 à  15:30:00",
+      "locality": "MAPOU",
+      "localitySlug": "mapou",
+      "streets": "DANS LES ENVIRONS DE LA NHDC DE MAPOU",
+      "district": "rivieredurempart",
+      "from": "2026-11-15T04:30:00.000Z",
+      "to": "2026-11-15T11:30:00.000Z",
+      "id": "fe1a3dfd067056f122c88d67ccfe352c"
     }
   ]
 }

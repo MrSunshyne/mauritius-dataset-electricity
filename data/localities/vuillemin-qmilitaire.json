@@ -2,11 +2,18 @@
   "slug": "vuillemin-qmilitaire",
   "name": "VUILLEMIN Q.MILITAIRE",
   "district": "moka",
-  "generated": "2026-11-12T21:37:47.128Z",
-  "outageCount": 8,
+  "generated": "2026-11-13T13:33:06.289Z",
+  "outageCount": 9,
   "firstOutage": "2022-05-22",
-  "lastOutage": "2026-07-13",
+  "lastOutage": "2026-11-13",
   "outages": [
+    {
+      "date": "Le vendredi 13 novembre 2026 de  13:00:00 à  17:00:00",
+      "streets": "Village Vuillemin, NHDC Vuillemin, Betuel, SME, Morc Gokhool, Morc MDA, MEDIA, une partie de Route Royal Quartier Militaire, une partie de Bonne Veine et les ruelles avoisinantes",
+      "from": "2026-11-13T09:00:00.000Z",
+      "to": "2026-11-13T13:00:00.000Z",
+      "id": "4c3ce80f78e6d3ded066c05cc8efbf70"
+    },
     {
       "date": "Le lundi 13 juillet 2026 de  13:55:00 à  16:00:00",
       "streets": "VUILLEMIN",

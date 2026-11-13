@@ -1,8 +1,8 @@
 {
   "date": "2026-11-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-12T21:37:46.916Z",
-  "outageCount": 2,
+  "generated": "2026-11-13T13:33:05.913Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le samedi 14 novembre 2026 de  08:30:00 à  15:30:00",
@@ -23,6 +23,26 @@
       "from": "2026-11-14T04:30:00.000Z",
       "to": "2026-11-14T11:30:00.000Z",
       "id": "104c024aa51b2f9209dca8bb334c695b"
+    },
+    {
+      "date": "Le samedi 14 novembre 2026 de  09:00:00 à  11:00:00",
+      "locality": "QUATRE-BORNES",
+      "localitySlug": "quatre-bornes",
+      "streets": "ANTELME, MURRAY, VICTORIA, DÉPINAY, APPT CORALIA, AUMEERALLY, HENNESSY, BELLE ROSE AVENUE",
+      "district": "plainewilhems",
+      "from": "2026-11-14T05:00:00.000Z",
+      "to": "2026-11-14T07:00:00.000Z",
+      "id": "0bab333161c109d400d234d71dd246fc"
+    },
+    {
+      "date": "Le samedi 14 novembre 2026 de  08:00:00 à  10:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "Dans les environs de Morc Sagitaire, Morc Ghurburrun, Morc Koenig, Morc Verger Sur Mer et Morc Dawood",
+      "district": "portlouis",
+      "from": "2026-11-14T04:00:00.000Z",
+      "to": "2026-11-14T06:00:00.000Z",
+      "id": "ec071e6bdf7947f30fca8acbb80ec755"
     }
   ]
 }

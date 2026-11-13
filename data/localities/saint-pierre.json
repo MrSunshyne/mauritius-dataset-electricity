@@ -2,11 +2,18 @@
   "slug": "saint-pierre",
   "name": "SAINT PIERRE",
   "district": "moka",
-  "generated": "2026-11-12T21:37:47.104Z",
-  "outageCount": 82,
+  "generated": "2026-11-13T13:33:06.245Z",
+  "outageCount": 83,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-11-06",
+  "lastOutage": "2026-11-15",
   "outages": [
+    {
+      "date": "Le dimanche 15 novembre 2026 de  08:30:00 à  15:30:00",
+      "streets": "CHA ST PIERRE, NICOLIERE RD ST PIERRE, HOUSING ESTATE, ST PIERRE VILLAGE, COMMERCIAL BUSINESS, MARKET ST PIERRE, PATISSERIE ESCOFFIER, MCB ST PIERRE, FARMERS CENTRE ET LES ENVIRONS",
+      "from": "2026-11-15T04:30:00.000Z",
+      "to": "2026-11-15T11:30:00.000Z",
+      "id": "479df1354148a4b0402c15a6ece36999"
+    },
     {
       "date": "Le vendredi 6 novembre 2026 de  09:45:00 à  12:00:00",
       "streets": "STE CATHERINE CHA,CHEMIN KOVIL,PART OF ROYAL ROAD",

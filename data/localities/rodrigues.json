@@ -2,11 +2,18 @@
   "slug": "rodrigues",
   "name": "RODRIGUES",
   "district": "rodrigues",
-  "generated": "2026-11-12T21:37:47.097Z",
-  "outageCount": 297,
+  "generated": "2026-11-13T13:33:06.231Z",
+  "outageCount": 298,
   "firstOutage": "2022-03-15",
-  "lastOutage": "2026-11-12",
+  "lastOutage": "2026-11-13",
   "outages": [
+    {
+      "date": "Le vendredi 13 novembre 2026 de  08:00:00 à  15:30:00",
+      "streets": "Grande Fourche Corail,Cascade Jean Louis,Plaine Corail,Anse Quitor & Dan Coco",
+      "from": "2026-11-13T04:00:00.000Z",
+      "to": "2026-11-13T11:30:00.000Z",
+      "id": "de1e2ffe364a6e3013a7ab0da7a95126"
+    },
     {
       "date": "Le jeudi 12 novembre 2026 de  08:00:00 à  15:30:00",
       "streets": "Grand La Fouche Corail, Cascade Jean Louis, Plaine Corail, Anse Quitor et Dans Coco.",

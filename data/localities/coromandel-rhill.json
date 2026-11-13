@@ -2,11 +2,18 @@
   "slug": "coromandel-rhill",
   "name": "COROMANDEL - R.HILL",
   "district": "plainewilhems",
-  "generated": "2026-11-12T21:37:46.984Z",
-  "outageCount": 99,
+  "generated": "2026-11-13T13:33:06.033Z",
+  "outageCount": 100,
   "firstOutage": "2022-04-08",
-  "lastOutage": "2026-10-24",
+  "lastOutage": "2026-11-15",
   "outages": [
+    {
+      "date": "Le dimanche 15 novembre 2026 de  08:30:00 à  15:00:00",
+      "streets": "RICHELIEU BRANCH RD, ISSACK RD, AZUR KHAN, RASHID KHAN, DWARKA LANE, GRENADE LANE, SOFT DREAM MATRESSES, AR NEETOO, NEETOO INDUSTRY",
+      "from": "2026-11-15T04:30:00.000Z",
+      "to": "2026-11-15T11:00:00.000Z",
+      "id": "48961c7458a1497ad58b58120d176c71"
+    },
     {
       "date": "Le samedi 24 octobre 2026 de  08:30:00 à  14:30:00",
       "streets": "MONTREAL, POLICE QUARTERS NO 1 et NO 2, AVE BALSAMINE, AVE CERISIER, AVE BADAMIER, AVE BAOBAB ET LES ENVIRONS",

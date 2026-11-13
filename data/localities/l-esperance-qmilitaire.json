@@ -2,11 +2,18 @@
   "slug": "l-esperance-qmilitaire",
   "name": "L-ESPERANCE Q.MILITAIRE",
   "district": "moka",
-  "generated": "2026-11-12T21:37:47.017Z",
-  "outageCount": 10,
+  "generated": "2026-11-13T13:33:06.089Z",
+  "outageCount": 11,
   "firstOutage": "2022-06-17",
-  "lastOutage": "2026-11-04",
+  "lastOutage": "2026-11-17",
   "outages": [
+    {
+      "date": "Le mardi 17 novembre 2026 de  09:00:00 à  15:00:00",
+      "streets": "Part of Royal road, SSR road, Telegu Temple road, LEscalier road, School road, Shivala road",
+      "from": "2026-11-17T05:00:00.000Z",
+      "to": "2026-11-17T11:00:00.000Z",
+      "id": "a7c82ef0fd07c50f46e9866a95841745"
+    },
     {
       "date": "Le mercredi 4 novembre 2026 de  09:00:00 à  15:00:00",
       "streets": "Partie de Ia Route Royale, Rue Nouvelle Découverte, Rue Labourdonnais, Rue Old Trafford et les ruelles avoisinantes",
