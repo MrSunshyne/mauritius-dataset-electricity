@@ -1,8 +1,8 @@
 {
   "date": "2026-11-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-14T12:38:48.687Z",
-  "outageCount": 8,
+  "generated": "2026-11-14T18:33:24.782Z",
+  "outageCount": 9,
   "outages": [
     {
       "date": "Le samedi 14 novembre 2026 de  08:30:00 à  15:30:00",
@@ -83,6 +83,16 @@
       "from": "2026-11-14T01:15:00.000Z",
       "to": "2026-11-14T08:00:00.000Z",
       "id": "bff771f475aaefe052fd0205d7588bb4"
+    },
+    {
+      "date": "Le samedi 14 novembre 2026 de  21:20:00 à  01:00:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "MORC SWAN : ALLEE DES MOUETTES ET LES ALENTOURS.",
+      "district": "rivieredurempart",
+      "from": "2026-11-14T17:20:00.000Z",
+      "to": "2026-11-13T21:00:00.000Z",
+      "id": "e0fcb1dbb89a550dee689ae4b9311022"
     }
   ]
 }

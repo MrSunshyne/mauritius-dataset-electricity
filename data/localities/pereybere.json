@@ -2,11 +2,18 @@
   "slug": "pereybere",
   "name": "PEREYBERE",
   "district": "rivieredurempart",
-  "generated": "2026-11-14T12:38:48.847Z",
-  "outageCount": 126,
+  "generated": "2026-11-14T18:33:24.961Z",
+  "outageCount": 127,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-10-28",
+  "lastOutage": "2026-11-14",
   "outages": [
+    {
+      "date": "Le samedi 14 novembre 2026 de  21:20:00 à  01:00:00",
+      "streets": "MORC SWAN : ALLEE DES MOUETTES ET LES ALENTOURS.",
+      "from": "2026-11-14T17:20:00.000Z",
+      "to": "2026-11-13T21:00:00.000Z",
+      "id": "e0fcb1dbb89a550dee689ae4b9311022"
+    },
     {
       "date": "Le mercredi 28 octobre 2026 de  12:45:00 à  18:00:00",
       "streets": "OLD MILL ROAD & SURROUNDINGS",
