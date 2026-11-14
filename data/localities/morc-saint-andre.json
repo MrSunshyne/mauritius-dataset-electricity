@@ -2,11 +2,18 @@
   "slug": "morc-saint-andre",
   "name": "MORC SAINT ANDRE",
   "district": "pamplemousses",
-  "generated": "2026-11-13T20:40:46.139Z",
-  "outageCount": 56,
+  "generated": "2026-11-14T12:38:48.837Z",
+  "outageCount": 57,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-11-11",
+  "lastOutage": "2026-11-14",
   "outages": [
+    {
+      "date": "Le samedi 14 novembre 2026 de  09:00:00 à  12:00:00",
+      "streets": "ROYAL ROAD, SCHOOL LANE & SURROUNDINGS",
+      "from": "2026-11-14T05:00:00.000Z",
+      "to": "2026-11-14T08:00:00.000Z",
+      "id": "5392fb1be53c5a30976876cd98c7d5d2"
+    },
     {
       "date": "Le mercredi 11 novembre 2026 de  10:00:00 à  16:00:00",
       "streets": "ROYAL ROAD/KALIMAYE ROAD MORC ST ANDRE",

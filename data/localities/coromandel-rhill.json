@@ -2,11 +2,18 @@
   "slug": "coromandel-rhill",
   "name": "COROMANDEL - R.HILL",
   "district": "plainewilhems",
-  "generated": "2026-11-13T20:40:46.018Z",
-  "outageCount": 100,
+  "generated": "2026-11-14T12:38:48.765Z",
+  "outageCount": 101,
   "firstOutage": "2022-04-08",
   "lastOutage": "2026-11-15",
   "outages": [
+    {
+      "date": "Le dimanche 15 novembre 2026 de  13:30:00 à  14:30:00",
+      "streets": "PAVE DAMOUR, MORC HERMITAGE, PANORAMA, MORC GUNESS, MORC APPADOO, MORC GOOMANY, RAMDHANEE LANE, RAMJANE LANE, WHITE HOUSE LANE ET LES ENVIRONS",
+      "from": "2026-11-15T09:30:00.000Z",
+      "to": "2026-11-15T10:30:00.000Z",
+      "id": "a34cfb34a9f348c8457107a8ca357a52"
+    },
     {
       "date": "Le dimanche 15 novembre 2026 de  08:30:00 à  15:00:00",
       "streets": "RICHELIEU BRANCH RD, ISSACK RD, AZUR KHAN, RASHID KHAN, DWARKA LANE, GRENADE LANE, SOFT DREAM MATRESSES, AR NEETOO, NEETOO INDUSTRY",

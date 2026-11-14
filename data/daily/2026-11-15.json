@@ -1,8 +1,8 @@
 {
   "date": "2026-11-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-13T20:40:45.895Z",
-  "outageCount": 14,
+  "generated": "2026-11-14T12:38:48.687Z",
+  "outageCount": 15,
   "outages": [
     {
       "date": "Le dimanche 15 novembre 2026 de  08:30:00 à  15:30:00",
@@ -53,6 +53,16 @@
       "from": "2026-11-15T04:30:00.000Z",
       "to": "2026-11-15T11:00:00.000Z",
       "id": "48961c7458a1497ad58b58120d176c71"
+    },
+    {
+      "date": "Le dimanche 15 novembre 2026 de  13:30:00 à  14:30:00",
+      "locality": "COROMANDEL - R.HILL",
+      "localitySlug": "coromandel-rhill",
+      "streets": "PAVE DAMOUR, MORC HERMITAGE, PANORAMA, MORC GUNESS, MORC APPADOO, MORC GOOMANY, RAMDHANEE LANE, RAMJANE LANE, WHITE HOUSE LANE ET LES ENVIRONS",
+      "district": "plainewilhems",
+      "from": "2026-11-15T09:30:00.000Z",
+      "to": "2026-11-15T10:30:00.000Z",
+      "id": "a34cfb34a9f348c8457107a8ca357a52"
     },
     {
       "date": "Le dimanche 15 novembre 2026 de  08:30:00 à  14:30:00",

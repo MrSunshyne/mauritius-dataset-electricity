@@ -2,11 +2,18 @@
   "slug": "ilot",
   "name": "ILOT",
   "district": "pamplemousses",
-  "generated": "2026-11-13T20:40:46.069Z",
-  "outageCount": 17,
+  "generated": "2026-11-14T12:38:48.797Z",
+  "outageCount": 18,
   "firstOutage": "2022-07-26",
-  "lastOutage": "2026-08-19",
+  "lastOutage": "2026-11-14",
   "outages": [
+    {
+      "date": "Le samedi 14 novembre 2026 de  11:45:00 à  12:45:00",
+      "streets": "ILOT/ROYAL ROAD DEPINAY",
+      "from": "2026-11-14T07:45:00.000Z",
+      "to": "2026-11-14T08:45:00.000Z",
+      "id": "ec27f8c1e5147562838835c39c257a8b"
+    },
     {
       "date": "Le mercredi 19 août 2026 de  14:25:00 à  17:30:00",
       "streets": "SAWDAGUR LANE, WATERFALL LANE ET LES ENVIRONS.",

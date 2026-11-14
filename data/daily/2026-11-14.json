@@ -1,8 +1,8 @@
 {
   "date": "2026-11-14",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-13T20:40:45.895Z",
-  "outageCount": 4,
+  "generated": "2026-11-14T12:38:48.687Z",
+  "outageCount": 8,
   "outages": [
     {
       "date": "Le samedi 14 novembre 2026 de  08:30:00 à  15:30:00",
@@ -13,6 +13,36 @@
       "from": "2026-11-14T04:30:00.000Z",
       "to": "2026-11-14T11:30:00.000Z",
       "id": "3a0f03bfdadfe54467c6a202dab55909"
+    },
+    {
+      "date": "Le samedi 14 novembre 2026 de  09:00:00 à  11:00:00",
+      "locality": "HELVETIA",
+      "localitySlug": "helvetia",
+      "streets": "ROYAL ROAD, MORC MERRY TOWN & SURROUNDINGS",
+      "district": "moka",
+      "from": "2026-11-14T05:00:00.000Z",
+      "to": "2026-11-14T07:00:00.000Z",
+      "id": "d02307c28fb33d7b3ab35e030914c128"
+    },
+    {
+      "date": "Le samedi 14 novembre 2026 de  09:00:00 à  12:00:00",
+      "locality": "MORC SAINT ANDRE",
+      "localitySlug": "morc-saint-andre",
+      "streets": "ROYAL ROAD, SCHOOL LANE & SURROUNDINGS",
+      "district": "pamplemousses",
+      "from": "2026-11-14T05:00:00.000Z",
+      "to": "2026-11-14T08:00:00.000Z",
+      "id": "5392fb1be53c5a30976876cd98c7d5d2"
+    },
+    {
+      "date": "Le samedi 14 novembre 2026 de  11:45:00 à  12:45:00",
+      "locality": "ILOT",
+      "localitySlug": "ilot",
+      "streets": "ILOT/ROYAL ROAD DEPINAY",
+      "district": "pamplemousses",
+      "from": "2026-11-14T07:45:00.000Z",
+      "to": "2026-11-14T08:45:00.000Z",
+      "id": "ec27f8c1e5147562838835c39c257a8b"
     },
     {
       "date": "Le samedi 14 novembre 2026 de  08:30:00 à  15:30:00",
@@ -35,14 +65,24 @@
       "id": "0bab333161c109d400d234d71dd246fc"
     },
     {
-      "date": "Le samedi 14 novembre 2026 de  08:00:00 à  10:00:00",
+      "date": "Le samedi 14 novembre 2026 de  08:00:00 à  14:00:00",
       "locality": "POINTE AUX SABLES",
       "localitySlug": "pointe-aux-sables",
       "streets": "Dans les environs de Morc Sagitaire, Morc Ghurburrun, Morc Koenig, Morc Verger Sur Mer et Morc Dawood",
       "district": "portlouis",
       "from": "2026-11-14T04:00:00.000Z",
-      "to": "2026-11-14T06:00:00.000Z",
-      "id": "ec071e6bdf7947f30fca8acbb80ec755"
+      "to": "2026-11-14T10:00:00.000Z",
+      "id": "dd9f83daa5659fda79f871ea3b6bb880"
+    },
+    {
+      "date": "Le samedi 14 novembre 2026 de  05:15:00 à  12:00:00",
+      "locality": "COTTAGE",
+      "localitySlug": "cottage",
+      "streets": "RAMNARAIN ROAD & SURROUNDINGS",
+      "district": "rivieredurempart",
+      "from": "2026-11-14T01:15:00.000Z",
+      "to": "2026-11-14T08:00:00.000Z",
+      "id": "bff771f475aaefe052fd0205d7588bb4"
     }
   ]
 }

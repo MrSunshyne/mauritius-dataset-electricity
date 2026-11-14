@@ -2,8 +2,8 @@
   "slug": "cottage",
   "name": "COTTAGE",
   "district": "rivieredurempart",
-  "generated": "2026-11-13T20:40:46.021Z",
-  "outageCount": 46,
+  "generated": "2026-11-14T12:38:48.767Z",
+  "outageCount": 47,
   "firstOutage": "2022-04-07",
   "lastOutage": "2026-11-15",
   "outages": [
@@ -13,6 +13,13 @@
       "from": "2026-11-15T04:30:00.000Z",
       "to": "2026-11-15T11:00:00.000Z",
       "id": "9b8f9d9429a0aa0a7c31c45d63f6ab7e"
+    },
+    {
+      "date": "Le samedi 14 novembre 2026 de  05:15:00 à  12:00:00",
+      "streets": "RAMNARAIN ROAD & SURROUNDINGS",
+      "from": "2026-11-14T01:15:00.000Z",
+      "to": "2026-11-14T08:00:00.000Z",
+      "id": "bff771f475aaefe052fd0205d7588bb4"
     },
     {
       "date": "Le samedi 17 octobre 2026 de  08:30:00 à  15:00:00",
