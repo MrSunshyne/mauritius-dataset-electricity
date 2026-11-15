@@ -2,11 +2,18 @@
   "slug": "trou-aux-biches",
   "name": "TROU AUX BICHES",
   "district": "pamplemousses",
-  "generated": "2026-11-15T13:04:23.423Z",
-  "outageCount": 72,
+  "generated": "2026-11-15T19:29:10.311Z",
+  "outageCount": 73,
   "firstOutage": "2022-04-10",
-  "lastOutage": "2026-11-12",
+  "lastOutage": "2026-11-15",
   "outages": [
+    {
+      "date": "Le dimanche 15 novembre 2026 de  22:15:00 à  23:15:00",
+      "streets": "MORC RAMDANEE,PTE AUX BICHES,TRIO RD,PTE AUX PIMENTS",
+      "from": "2026-11-15T18:15:00.000Z",
+      "to": "2026-11-15T19:15:00.000Z",
+      "id": "77f0b7f9d2d71de9dfa621d5f11f451b"
+    },
     {
       "date": "Le jeudi 12 novembre 2026 de  21:00:00 à  01:30:00",
       "streets": "MORC RAMDENEE",
