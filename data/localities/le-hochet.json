@@ -2,11 +2,18 @@
   "slug": "le-hochet",
   "name": "LE HOCHET",
   "district": "portlouis",
-  "generated": "2026-11-14T18:33:24.923Z",
-  "outageCount": 28,
+  "generated": "2026-11-15T13:04:23.270Z",
+  "outageCount": 29,
   "firstOutage": "2022-04-18",
-  "lastOutage": "2026-08-14",
+  "lastOutage": "2026-11-15",
   "outages": [
+    {
+      "date": "Le dimanche 15 novembre 2026 de  13:00:00 à  17:00:00",
+      "streets": "AVE VIRASAMY IYER MORC RAFFRAY TERRE ROUGE",
+      "from": "2026-11-15T09:00:00.000Z",
+      "to": "2026-11-15T13:00:00.000Z",
+      "id": "4a19ca7982e93db313251c55e6e56387"
+    },
     {
       "date": "Le vendredi 14 août 2026 de  09:15:00 à  12:30:00",
       "streets": "EN PARTIE MORC RAFFRAY",

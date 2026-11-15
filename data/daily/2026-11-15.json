@@ -1,8 +1,8 @@
 {
   "date": "2026-11-15",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-14T18:33:24.782Z",
-  "outageCount": 15,
+  "generated": "2026-11-15T13:04:23.087Z",
+  "outageCount": 16,
   "outages": [
     {
       "date": "Le dimanche 15 novembre 2026 de  08:30:00 à  15:30:00",
@@ -13,6 +13,16 @@
       "from": "2026-11-15T04:30:00.000Z",
       "to": "2026-11-15T11:30:00.000Z",
       "id": "479df1354148a4b0402c15a6ece36999"
+    },
+    {
+      "date": "Le dimanche 15 novembre 2026 de  13:00:00 à  17:00:00",
+      "locality": "LE HOCHET",
+      "localitySlug": "le-hochet",
+      "streets": "AVE VIRASAMY IYER MORC RAFFRAY TERRE ROUGE",
+      "district": "pamplemousses",
+      "from": "2026-11-15T09:00:00.000Z",
+      "to": "2026-11-15T13:00:00.000Z",
+      "id": "4a19ca7982e93db313251c55e6e56387"
     },
     {
       "date": "Le dimanche 15 novembre 2026 de  08:30:00 à  17:00:00",
