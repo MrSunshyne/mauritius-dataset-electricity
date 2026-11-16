@@ -1,9 +1,19 @@
 {
   "date": "2026-11-16",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-15T19:29:10.121Z",
-  "outageCount": 1,
+  "generated": "2026-11-16T14:09:56.995Z",
+  "outageCount": 9,
   "outages": [
+    {
+      "date": "Le lundi 16 novembre 2026 de  10:30:00 à  14:45:00",
+      "locality": "CAROLINE BEL AIR",
+      "localitySlug": "caroline-bel-air",
+      "streets": "MAMET ROAD.",
+      "district": "flacq",
+      "from": "2026-11-16T06:30:00.000Z",
+      "to": "2026-11-16T10:45:00.000Z",
+      "id": "512bc0c2b2b48fc757f5f90e432eeb0f"
+    },
     {
       "date": "Le lundi 16 novembre 2026 de  09:00:00 à  16:00:00",
       "locality": "TROIS BOUTIQUES UNION VALE",
@@ -13,6 +23,76 @@
       "from": "2026-11-16T05:00:00.000Z",
       "to": "2026-11-16T12:00:00.000Z",
       "id": "e9c4065de9fb707c59ce7af263d0015a"
+    },
+    {
+      "date": "Le lundi 16 novembre 2026 de  14:45:00 à  16:00:00",
+      "locality": "NOUVELLE DECOUVERTE",
+      "localitySlug": "nouvelle-decouverte",
+      "streets": "NOUVELLE DECOUVERTE",
+      "district": "grandport",
+      "from": "2026-11-16T10:45:00.000Z",
+      "to": "2026-11-16T12:00:00.000Z",
+      "id": "acafa27713fca170d79b8cf76c7cb3b6"
+    },
+    {
+      "date": "Le lundi 16 novembre 2026 de  07:00:00 à  13:00:00",
+      "locality": "EAU COULEE",
+      "localitySlug": "eau-coulee",
+      "streets": "RUE CHARLES REGNAUD ET LES ALENTOURS COMPLEXE MUNICIPAL.",
+      "district": "plainewilhems",
+      "from": "2026-11-16T03:00:00.000Z",
+      "to": "2026-11-16T09:00:00.000Z",
+      "id": "4964298f63761708f73af01055d9d67d"
+    },
+    {
+      "date": "Le lundi 16 novembre 2026 de  13:30:00 à  14:30:00",
+      "locality": "16EME MILE",
+      "localitySlug": "16eme-mile",
+      "streets": "ROUTE ROYALE 16EME MILLE FOREST SIDE DANS LES ALENTOUR SUPERMARCHE PADMA/QUINCAILLERIE.",
+      "district": "plainewilhems",
+      "from": "2026-11-16T09:30:00.000Z",
+      "to": "2026-11-16T10:30:00.000Z",
+      "id": "aba1ae21b0dcc21a3d09493722a203cb"
+    },
+    {
+      "date": "Le lundi 16 novembre 2026 de  09:00:00 à  13:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "Grand Bay around Coastal Road, Police Station, Telecom, CHA, Sottise Road, Avenue Geranium, Dispensary and Morc Boucan",
+      "district": "rivieredurempart",
+      "from": "2026-11-16T05:00:00.000Z",
+      "to": "2026-11-16T09:00:00.000Z",
+      "id": "dd282ac743ff611bcdcf8c8c8eeb5846"
+    },
+    {
+      "date": "Le lundi 16 novembre 2026 de  13:20:00 à  16:00:00",
+      "locality": "POUDRE D-OR VILLAGE",
+      "localitySlug": "poudre-d-or-village",
+      "streets": "PAUL ET VIRGINIE ST TOWARDS DEBARCADERE.",
+      "district": "rivieredurempart",
+      "from": "2026-11-16T09:20:00.000Z",
+      "to": "2026-11-16T12:00:00.000Z",
+      "id": "d6024ba7846a3f5d4dd3c6a35de90a39"
+    },
+    {
+      "date": "Le lundi 16 novembre 2026 de  14:00:00 à  17:00:00",
+      "locality": "COTTAGE",
+      "localitySlug": "cottage",
+      "streets": "COTTAGE, ESPERANCE TREBUCHET, POUDRE DOR HAMLET, POUDRE DOR VILLAGE BASALT ET GOODLANDS",
+      "district": "rivieredurempart",
+      "from": "2026-11-16T10:00:00.000Z",
+      "to": "2026-11-16T13:00:00.000Z",
+      "id": "44f5173ae6b2d8a41c0463a219e3e280"
+    },
+    {
+      "date": "Le lundi 16 novembre 2026 de  07:00:00 à  13:00:00",
+      "locality": "BEL OMBRE",
+      "localitySlug": "bel-ombre",
+      "streets": "CWA AGRIA BEL OMBRE ET LES ALENTOURS VILLA VALRICHE.",
+      "district": "savanne",
+      "from": "2026-11-16T03:00:00.000Z",
+      "to": "2026-11-16T09:00:00.000Z",
+      "id": "5e2a3d1e19c219a568a9b27074074e6f"
     }
   ]
 }

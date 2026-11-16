@@ -2,11 +2,18 @@
   "slug": "grande-riviere-sud-est",
   "name": "GRANDE RIVIERE SUD EST",
   "district": "flacq",
-  "generated": "2026-11-15T19:29:10.209Z",
-  "outageCount": 13,
+  "generated": "2026-11-16T14:09:57.077Z",
+  "outageCount": 14,
   "firstOutage": "2022-09-30",
-  "lastOutage": "2026-07-31",
+  "lastOutage": "2026-11-18",
   "outages": [
+    {
+      "date": "Le mercredi 18 novembre 2026 de  08:45:00 à  16:00:00",
+      "streets": "Grande Rivière Sud Est et Camp Pecheur.",
+      "from": "2026-11-18T04:45:00.000Z",
+      "to": "2026-11-18T12:00:00.000Z",
+      "id": "d8d348b9c3c1bd616b0b3f3b38085a53"
+    },
     {
       "date": "Le vendredi 31 juillet 2026 de  10:35:00 à  11:15:00",
       "streets": "Whole Village...GRSE",

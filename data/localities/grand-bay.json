@@ -2,11 +2,18 @@
   "slug": "grand-bay",
   "name": "GRAND BAY",
   "district": "rivieredurempart",
-  "generated": "2026-11-15T19:29:10.205Z",
-  "outageCount": 133,
+  "generated": "2026-11-16T14:09:57.073Z",
+  "outageCount": 134,
   "firstOutage": "2022-03-20",
-  "lastOutage": "2026-11-12",
+  "lastOutage": "2026-11-16",
   "outages": [
+    {
+      "date": "Le lundi 16 novembre 2026 de  09:00:00 à  13:00:00",
+      "streets": "Grand Bay around Coastal Road, Police Station, Telecom, CHA, Sottise Road, Avenue Geranium, Dispensary and Morc Boucan",
+      "from": "2026-11-16T05:00:00.000Z",
+      "to": "2026-11-16T09:00:00.000Z",
+      "id": "dd282ac743ff611bcdcf8c8c8eeb5846"
+    },
     {
       "date": "Le jeudi 12 novembre 2026 de  19:30:00 à  00:30:00",
       "streets": "SOTISE ROAD GRAND BAY",

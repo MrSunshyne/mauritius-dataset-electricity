@@ -2,11 +2,18 @@
   "slug": "16eme-mile",
   "name": "16EME MILE",
   "district": "plainewilhems",
-  "generated": "2026-11-15T19:29:10.133Z",
-  "outageCount": 69,
+  "generated": "2026-11-16T14:09:57.005Z",
+  "outageCount": 70,
   "firstOutage": "2022-05-31",
-  "lastOutage": "2026-11-04",
+  "lastOutage": "2026-11-16",
   "outages": [
+    {
+      "date": "Le lundi 16 novembre 2026 de  13:30:00 à  14:30:00",
+      "streets": "ROUTE ROYALE 16EME MILLE FOREST SIDE DANS LES ALENTOUR SUPERMARCHE PADMA/QUINCAILLERIE.",
+      "from": "2026-11-16T09:30:00.000Z",
+      "to": "2026-11-16T10:30:00.000Z",
+      "id": "aba1ae21b0dcc21a3d09493722a203cb"
+    },
     {
       "date": "Le mercredi 4 novembre 2026 de  10:40:00 à  12:00:00",
       "streets": "CITE GUREEBOO, MORC AL MADINA, MORC AMEER MEEA ET LES ALENTOURS",

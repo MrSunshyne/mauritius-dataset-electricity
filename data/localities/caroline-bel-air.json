@@ -2,11 +2,18 @@
   "slug": "caroline-bel-air",
   "name": "CAROLINE BEL AIR",
   "district": "flacq",
-  "generated": "2026-11-15T19:29:10.174Z",
-  "outageCount": 42,
+  "generated": "2026-11-16T14:09:57.042Z",
+  "outageCount": 43,
   "firstOutage": "2022-06-01",
-  "lastOutage": "2026-10-25",
+  "lastOutage": "2026-11-16",
   "outages": [
+    {
+      "date": "Le lundi 16 novembre 2026 de  10:30:00 à  14:45:00",
+      "streets": "MAMET ROAD.",
+      "from": "2026-11-16T06:30:00.000Z",
+      "to": "2026-11-16T10:45:00.000Z",
+      "id": "512bc0c2b2b48fc757f5f90e432eeb0f"
+    },
     {
       "date": "Le dimanche 25 octobre 2026 de  14:25:00 à  15:15:00",
       "streets": "CAROLINE BEL AIR",

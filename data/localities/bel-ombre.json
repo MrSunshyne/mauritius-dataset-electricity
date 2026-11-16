@@ -2,11 +2,18 @@
   "slug": "bel-ombre",
   "name": "BEL OMBRE",
   "district": "savanne",
-  "generated": "2026-11-15T19:29:10.152Z",
-  "outageCount": 18,
+  "generated": "2026-11-16T14:09:57.022Z",
+  "outageCount": 19,
   "firstOutage": "2022-05-15",
-  "lastOutage": "2025-10-09",
+  "lastOutage": "2026-11-16",
   "outages": [
+    {
+      "date": "Le lundi 16 novembre 2026 de  07:00:00 à  13:00:00",
+      "streets": "CWA AGRIA BEL OMBRE ET LES ALENTOURS VILLA VALRICHE.",
+      "from": "2026-11-16T03:00:00.000Z",
+      "to": "2026-11-16T09:00:00.000Z",
+      "id": "5e2a3d1e19c219a568a9b27074074e6f"
+    },
     {
       "date": "Le jeudi 9 octobre 2025 de  09:00:00 à  15:00:00",
       "streets": "Villa Valriche et Bel Ombre Staff Quarters",

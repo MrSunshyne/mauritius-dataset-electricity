@@ -2,11 +2,18 @@
   "slug": "cottage",
   "name": "COTTAGE",
   "district": "rivieredurempart",
-  "generated": "2026-11-15T19:29:10.189Z",
-  "outageCount": 47,
+  "generated": "2026-11-16T14:09:57.057Z",
+  "outageCount": 48,
   "firstOutage": "2022-04-07",
-  "lastOutage": "2026-11-15",
+  "lastOutage": "2026-11-16",
   "outages": [
+    {
+      "date": "Le lundi 16 novembre 2026 de  14:00:00 à  17:00:00",
+      "streets": "COTTAGE, ESPERANCE TREBUCHET, POUDRE DOR HAMLET, POUDRE DOR VILLAGE BASALT ET GOODLANDS",
+      "from": "2026-11-16T10:00:00.000Z",
+      "to": "2026-11-16T13:00:00.000Z",
+      "id": "44f5173ae6b2d8a41c0463a219e3e280"
+    },
     {
       "date": "Le dimanche 15 novembre 2026 de  08:30:00 à  15:00:00",
       "streets": "ENTIERE REGION DE COTTAGE",

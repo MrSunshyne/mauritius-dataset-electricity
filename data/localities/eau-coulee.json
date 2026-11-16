@@ -2,11 +2,18 @@
   "slug": "eau-coulee",
   "name": "EAU COULEE",
   "district": "plainewilhems",
-  "generated": "2026-11-15T19:29:10.195Z",
-  "outageCount": 68,
+  "generated": "2026-11-16T14:09:57.062Z",
+  "outageCount": 69,
   "firstOutage": "2022-03-23",
-  "lastOutage": "2026-07-31",
+  "lastOutage": "2026-11-16",
   "outages": [
+    {
+      "date": "Le lundi 16 novembre 2026 de  07:00:00 à  13:00:00",
+      "streets": "RUE CHARLES REGNAUD ET LES ALENTOURS COMPLEXE MUNICIPAL.",
+      "from": "2026-11-16T03:00:00.000Z",
+      "to": "2026-11-16T09:00:00.000Z",
+      "id": "4964298f63761708f73af01055d9d67d"
+    },
     {
       "date": "Le vendredi 31 juillet 2026 de  09:00:00 à  15:00:00",
       "streets": "Part of Eau Coulee at Quatre Carreaux , Bisnath Rd , Mariamen Temple Rd and nearby alleyways.",

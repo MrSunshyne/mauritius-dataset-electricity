@@ -2,11 +2,18 @@
   "slug": "nouvelle-decouverte",
   "name": "NOUVELLE DECOUVERTE",
   "district": "moka",
-  "generated": "2026-11-15T19:29:10.248Z",
-  "outageCount": 34,
+  "generated": "2026-11-16T14:09:57.115Z",
+  "outageCount": 35,
   "firstOutage": "2022-12-13",
-  "lastOutage": "2026-11-12",
+  "lastOutage": "2026-11-16",
   "outages": [
+    {
+      "date": "Le lundi 16 novembre 2026 de  14:45:00 à  16:00:00",
+      "streets": "NOUVELLE DECOUVERTE",
+      "from": "2026-11-16T10:45:00.000Z",
+      "to": "2026-11-16T12:00:00.000Z",
+      "id": "acafa27713fca170d79b8cf76c7cb3b6"
+    },
     {
       "date": "Le jeudi 12 novembre 2026 de  21:00:00 à  01:30:00",
       "streets": "NOUVELLE DECOUVERTE/RIPAILLES/BEUABOIS/LAVENIR",
