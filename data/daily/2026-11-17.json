@@ -1,8 +1,8 @@
 {
   "date": "2026-11-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-17T15:02:53.390Z",
-  "outageCount": 2,
+  "generated": "2026-11-17T23:12:44.906Z",
+  "outageCount": 5,
   "outages": [
     {
       "date": "Le mardi 17 novembre 2026 de  09:00:00 à  15:00:00",
@@ -15,6 +15,26 @@
       "id": "a7c82ef0fd07c50f46e9866a95841745"
     },
     {
+      "date": "Le mardi 17 novembre 2026 de  20:45:00 à  01:00:00",
+      "locality": "PETITE POINTE AUX PIMENTS",
+      "localitySlug": "petite-pointe-aux-piments",
+      "streets": "CAMP SIPION : ROUTE ROYALE, MAHATMA GANDHI ROAD ET DANS LES ENVIRONS SAVE MAX.",
+      "district": "pamplemousses",
+      "from": "2026-11-17T16:45:00.000Z",
+      "to": "2026-11-16T21:00:00.000Z",
+      "id": "771df06a3f7297f9b829d92843fbbc17"
+    },
+    {
+      "date": "Le mardi 17 novembre 2026 de  22:30:00 à  23:30:00",
+      "locality": "POINTE AUX PIMENTS",
+      "localitySlug": "pointe-aux-piments",
+      "streets": "ROYAL ROAD & SURROUNDINGS",
+      "district": "pamplemousses",
+      "from": "2026-11-17T18:30:00.000Z",
+      "to": "2026-11-17T19:30:00.000Z",
+      "id": "8f936c7e6793972efc822c2ee4d6cb6e"
+    },
+    {
       "date": "Le mardi 17 novembre 2026 de  10:30:00 à  13:30:00",
       "locality": "SAINTE CROIX",
       "localitySlug": "sainte-croix",
@@ -23,6 +43,16 @@
       "from": "2026-11-17T06:30:00.000Z",
       "to": "2026-11-17T09:30:00.000Z",
       "id": "434ace34c2026f40491e61c1a0ea3c95"
+    },
+    {
+      "date": "Le mardi 17 novembre 2026 de  22:20:00 à  23:30:00",
+      "locality": "PEREYBERE",
+      "localitySlug": "pereybere",
+      "streets": "PART OF PEREYBERE & GRAND BAY",
+      "district": "rivieredurempart",
+      "from": "2026-11-17T18:20:00.000Z",
+      "to": "2026-11-17T19:30:00.000Z",
+      "id": "1915ed142622863cd96c50b1d6a6ef0a"
     }
   ]
 }

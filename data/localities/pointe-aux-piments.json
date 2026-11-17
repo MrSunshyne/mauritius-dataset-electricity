@@ -2,11 +2,18 @@
   "slug": "pointe-aux-piments",
   "name": "POINTE AUX PIMENTS",
   "district": "pamplemousses",
-  "generated": "2026-11-17T15:02:53.677Z",
-  "outageCount": 1,
+  "generated": "2026-11-17T23:12:45.112Z",
+  "outageCount": 2,
   "firstOutage": "1970-01-01",
-  "lastOutage": "1970-01-01",
+  "lastOutage": "2026-11-17",
   "outages": [
+    {
+      "date": "Le mardi 17 novembre 2026 de  22:30:00 à  23:30:00",
+      "streets": "ROYAL ROAD & SURROUNDINGS",
+      "from": "2026-11-17T18:30:00.000Z",
+      "to": "2026-11-17T19:30:00.000Z",
+      "id": "8f936c7e6793972efc822c2ee4d6cb6e"
+    },
     {
       "date": "Le mercredi 24 septembre 2025 de 08:30 à 15:00:00",
       "streets": "LES ABONNES DE POINTE AUX PIMENTS DANS LES ENVIRONS DE MASS DISCOUNT, CAMP SIPION, MORC BUHORA, MORC HARMONY, MORC AGNIS, MUSLIM ROAD, SOCIAL WELFARE CENTRE ET LA CHAPELLE ROAD.",

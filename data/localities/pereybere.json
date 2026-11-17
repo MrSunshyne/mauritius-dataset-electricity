@@ -2,11 +2,18 @@
   "slug": "pereybere",
   "name": "PEREYBERE",
   "district": "rivieredurempart",
-  "generated": "2026-11-17T15:02:53.653Z",
-  "outageCount": 127,
+  "generated": "2026-11-17T23:12:45.095Z",
+  "outageCount": 128,
   "firstOutage": "2022-03-25",
-  "lastOutage": "2026-11-14",
+  "lastOutage": "2026-11-17",
   "outages": [
+    {
+      "date": "Le mardi 17 novembre 2026 de  22:20:00 à  23:30:00",
+      "streets": "PART OF PEREYBERE & GRAND BAY",
+      "from": "2026-11-17T18:20:00.000Z",
+      "to": "2026-11-17T19:30:00.000Z",
+      "id": "1915ed142622863cd96c50b1d6a6ef0a"
+    },
     {
       "date": "Le samedi 14 novembre 2026 de  21:20:00 à  01:00:00",
       "streets": "MORC SWAN : ALLEE DES MOUETTES ET LES ALENTOURS.",

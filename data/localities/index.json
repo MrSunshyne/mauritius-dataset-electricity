@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-17T15:02:53.787Z",
+  "generated": "2026-11-17T23:12:45.192Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -2734,10 +2734,10 @@
       "slug": "pereybere",
       "name": "PEREYBERE",
       "district": "rivieredurempart",
-      "outageCount": 127,
+      "outageCount": 128,
       "file": "pereybere.json",
       "firstOutage": "2022-03-25",
-      "lastOutage": "2026-11-14"
+      "lastOutage": "2026-11-17"
     },
     {
       "slug": "petit-bel-air",
@@ -2833,10 +2833,10 @@
       "slug": "petite-pointe-aux-piments",
       "name": "PETITE POINTE AUX PIMENTS",
       "district": "pamplemousses",
-      "outageCount": 9,
+      "outageCount": 10,
       "file": "petite-pointe-aux-piments.json",
       "firstOutage": "2022-03-13",
-      "lastOutage": "2025-08-27"
+      "lastOutage": "2026-11-17"
     },
     {
       "slug": "petite-retraite",
@@ -3004,10 +3004,10 @@
       "slug": "pointe-aux-piments",
       "name": "POINTE AUX PIMENTS",
       "district": "pamplemousses",
-      "outageCount": 1,
+      "outageCount": 2,
       "file": "pointe-aux-piments.json",
       "firstOutage": "1970-01-01",
-      "lastOutage": "1970-01-01"
+      "lastOutage": "2026-11-17"
     },
     {
       "slug": "pointe-aux-sables",
