@@ -2,11 +2,18 @@
   "slug": "la-louisa",
   "name": "LA LOUISA",
   "district": "pamplemousses",
-  "generated": "2026-11-16T23:33:23.533Z",
-  "outageCount": 2,
+  "generated": "2026-11-17T15:02:53.586Z",
+  "outageCount": 3,
   "firstOutage": "2023-05-20",
-  "lastOutage": "2023-05-20",
+  "lastOutage": "2026-11-19",
   "outages": [
+    {
+      "date": "Le jeudi 19 novembre 2026 de  08:30:00 à  15:00:00",
+      "streets": "LA LOUISA AND BOIS ROUGE VILLAGE",
+      "from": "2026-11-19T04:30:00.000Z",
+      "to": "2026-11-19T11:00:00.000Z",
+      "id": "6e3ae25bf6cc822b8e2b2cb16f4a06a8"
+    },
     {
       "date": "Le samedi 20 mai 2023 de  08:30:00 à  14:00:00",
       "streets": "Village La Louisa, Village Bois rouge, Beau Plan Camp,Greencoast, Mahogany Shopping Mall,Le Muguet, Mango Village, Grays Bottling Ltd, Swami Dayanand Institue (Universite Des Mascareignes) Et College SSS pamplemousses",

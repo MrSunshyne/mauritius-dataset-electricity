@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-19",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-11-17T15:02:53.390Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le jeudi 19 novembre 2026 de  08:30:00 à  17:00:00",
+      "locality": "MAHEBOURG",
+      "localitySlug": "mahebourg",
+      "streets": "Mahebourg habitant dans le périmètre : Rue Colony, Rue Maurice, Rue Bazaar, Rue De La Boulangerie, Rue Labourdonnais, Arya Samaj Street, Rue Hollandais, Rue De La Passe et une partie de la Rue Marianne Mahebourg",
+      "district": "grandport",
+      "from": "2026-11-19T04:30:00.000Z",
+      "to": "2026-11-19T13:00:00.000Z",
+      "id": "7cc428d6f87604666aa2b3c128f7d666"
+    },
+    {
+      "date": "Le jeudi 19 novembre 2026 de  08:30:00 à  15:00:00",
+      "locality": "LA LOUISA",
+      "localitySlug": "la-louisa",
+      "streets": "LA LOUISA AND BOIS ROUGE VILLAGE",
+      "district": "pamplemousses",
+      "from": "2026-11-19T04:30:00.000Z",
+      "to": "2026-11-19T11:00:00.000Z",
+      "id": "6e3ae25bf6cc822b8e2b2cb16f4a06a8"
+    }
+  ]
+}

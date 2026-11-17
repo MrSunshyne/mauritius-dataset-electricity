@@ -1,8 +1,8 @@
 {
   "date": "2026-11-17",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-16T23:33:23.419Z",
-  "outageCount": 1,
+  "generated": "2026-11-17T15:02:53.390Z",
+  "outageCount": 2,
   "outages": [
     {
       "date": "Le mardi 17 novembre 2026 de  09:00:00 à  15:00:00",
@@ -13,6 +13,16 @@
       "from": "2026-11-17T05:00:00.000Z",
       "to": "2026-11-17T11:00:00.000Z",
       "id": "a7c82ef0fd07c50f46e9866a95841745"
+    },
+    {
+      "date": "Le mardi 17 novembre 2026 de  10:30:00 à  13:30:00",
+      "locality": "SAINTE CROIX",
+      "localitySlug": "sainte-croix",
+      "streets": "Rue Ducray,Bazaar",
+      "district": "portlouis",
+      "from": "2026-11-17T06:30:00.000Z",
+      "to": "2026-11-17T09:30:00.000Z",
+      "id": "434ace34c2026f40491e61c1a0ea3c95"
     }
   ]
 }

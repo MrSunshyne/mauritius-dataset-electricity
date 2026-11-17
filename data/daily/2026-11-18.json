@@ -1,8 +1,8 @@
 {
   "date": "2026-11-18",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-16T23:33:23.419Z",
-  "outageCount": 2,
+  "generated": "2026-11-17T15:02:53.390Z",
+  "outageCount": 4,
   "outages": [
     {
       "date": "Le mercredi 18 novembre 2026 de  08:45:00 à  16:00:00",
@@ -23,6 +23,26 @@
       "from": "2026-11-18T05:00:00.000Z",
       "to": "2026-11-18T11:00:00.000Z",
       "id": "0ba42ad3b1b11eb8cb7a26f86e7b6efa"
+    },
+    {
+      "date": "Le mercredi 18 novembre 2026 de  09:00:00 à  13:00:00",
+      "locality": "GRAND BAY",
+      "localitySlug": "grand-bay",
+      "streets": "COASTAL RD, POLICE STATION, TELECOM, CHA, SOTTISE ROAD, AVENUE GERANIUM, DISPENSARY AND MORC BOUCAN",
+      "district": "rivieredurempart",
+      "from": "2026-11-18T05:00:00.000Z",
+      "to": "2026-11-18T09:00:00.000Z",
+      "id": "ceeedda230a00c92a5cd9518b68c6c99"
+    },
+    {
+      "date": "Le mercredi 18 novembre 2026 de  15:00:00 à  18:00:00",
+      "locality": "RIVIERE DES GALETS",
+      "localitySlug": "riviere-des-galets",
+      "streets": "Riviere Des Galets",
+      "district": "savanne",
+      "from": "2026-11-18T11:00:00.000Z",
+      "to": "2026-11-18T14:00:00.000Z",
+      "id": "372cb2e6ea5c92fd5f59eedb936ded34"
     }
   ]
 }

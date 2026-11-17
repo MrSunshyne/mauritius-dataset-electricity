@@ -2,11 +2,18 @@
   "slug": "sainte-croix",
   "name": "SAINTE CROIX",
   "district": "portlouis",
-  "generated": "2026-11-16T23:33:23.624Z",
-  "outageCount": 103,
+  "generated": "2026-11-17T15:02:53.741Z",
+  "outageCount": 104,
   "firstOutage": "2022-04-26",
-  "lastOutage": "2026-10-24",
+  "lastOutage": "2026-11-17",
   "outages": [
+    {
+      "date": "Le mardi 17 novembre 2026 de  10:30:00 à  13:30:00",
+      "streets": "Rue Ducray,Bazaar",
+      "from": "2026-11-17T06:30:00.000Z",
+      "to": "2026-11-17T09:30:00.000Z",
+      "id": "434ace34c2026f40491e61c1a0ea3c95"
+    },
     {
       "date": "Le samedi 24 octobre 2026 de  12:00:00 à  14:30:00",
       "streets": "Dans les environs de Riche Terre Road",
