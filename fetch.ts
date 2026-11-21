@@ -1,10 +1,10 @@
 import { exit } from 'process';
 import fs from 'fs'
 import path from 'path'
-import { extractFromApi, makeUniq, categorize, flattenOutages, groupOutagesByDate, groupOutagesByLocality, slugify, getMauritiusDateString } from "./utils.ts"
+import { extractFromSource, makeUniq, categorize, flattenOutages, groupOutagesByDate, groupOutagesByLocality, slugify, getMauritiusDateString } from "./utils.ts"
 import deepmerge from 'deepmerge';
 
-const URL = 'https://ceb.mu/website_data.ashx?t=outages'
+const URL = 'https://ceb.mu/customer-corner/power-outage-information'
 const historicalPath = './data/power-outages.json'
 const pathLatest = './data/power-outages.latest.json'
 const DATA_DIR = './data';
@@ -221,7 +221,7 @@ function generateRootIndex(outages: Outage[], mapping: LocalityMapping) {
     const rootIndex = {
         name: 'Mauritius Electricity Power Outages Dataset',
         description: 'Automatically updated dataset of power outages in Mauritius',
-        source: 'https://ceb.mu/power-outages',
+        source: URL,
         repository: 'https://github.com/MrSunshyne/mauritius-dataset-electricity',
         generated: new Date().toISOString(),
         timezone: 'Indian/Mauritius',
@@ -273,18 +273,22 @@ async function main() {
             console.error('error:', response.status, response.statusText);
             exit(1);
         }
-        const body = await response.json();
+        const body = await response.text();
 
     console.log('Fetched raw data from CEB');
 
-    if (!Array.isArray(body?.items)) {
-        console.error('error: response from CEB is malformed (missing items)');
+    console.log('Pre-extracting data ...')
+    const result = /var arDistrictLocations = ({".+"});/m.exec(body);
+    if (!result) {
+        console.error('error: result from pre-extraction is null or malformed');
         exit(1);
     }
+    const preExtracted = JSON.parse(result[1]);
+    console.log('Pre-extracted data');
 
     // The newly fetched data from CEB Website.
     console.log('Extracting data ...');
-    const newData = extractFromApi(body.items, loadLocalitiesMapping());
+    const newData = extractFromSource(preExtracted);
     console.log('Extracted data');
 
     // Create aggregate data file if not exist.

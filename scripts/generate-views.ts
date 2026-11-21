@@ -189,7 +189,7 @@ function generateRootIndex(outages: Outage[], mapping: LocalityMapping) {
     const rootIndex = {
         name: 'Mauritius Electricity Power Outages Dataset',
         description: 'Automatically updated dataset of power outages in Mauritius',
-        source: 'https://ceb.mu/power-outages',
+        source: 'https://ceb.mu/customer-corner/power-outage-information',
         repository: 'https://github.com/MrSunshyne/mauritius-dataset-electricity',
         generated: new Date().toISOString(),
         timezone: 'Indian/Mauritius',
