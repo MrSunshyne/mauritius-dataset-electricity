@@ -2,11 +2,18 @@
   "slug": "solitude",
   "name": "SOLITUDE",
   "district": "pamplemousses",
-  "generated": "2026-11-17T23:12:45.164Z",
-  "outageCount": 34,
+  "generated": "2026-11-21T07:13:54.399Z",
+  "outageCount": 35,
   "firstOutage": "2022-04-16",
-  "lastOutage": "2026-06-22",
+  "lastOutage": "2026-11-22",
   "outages": [
+    {
+      "date": "Le dimanche 22 novembre 2026 de 08:30:00 à 15:00:00",
+      "streets": "Solitude",
+      "from": "2026-11-22T04:30:00.000Z",
+      "to": "2026-11-22T11:00:00.000Z",
+      "id": "deefd67571f2dfe43f83ca7a720764f2"
+    },
     {
       "date": "Le lundi 22 juin 2026 de  20:00:00 à  00:00:00",
       "streets": "NHDC & SURROUNDINGS",

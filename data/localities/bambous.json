@@ -2,11 +2,25 @@
   "slug": "bambous",
   "name": "BAMBOUS",
   "district": "blackriver",
-  "generated": "2026-11-17T23:12:44.936Z",
-  "outageCount": 129,
+  "generated": "2026-11-21T07:13:54.204Z",
+  "outageCount": 131,
   "firstOutage": "2022-04-12",
-  "lastOutage": "2026-10-24",
+  "lastOutage": "2026-11-21",
   "outages": [
+    {
+      "date": "Le samedi 21 novembre 2026 de 08:30:00 à 15:30:00",
+      "streets": "MORC EAUX BONNES, ALLEE JACQUES, AVE LA PAIX, AVE CANNE A SUCRE, AVE DES FLAMBOYANTS, AVE DES BAOBABS, AVE DES COCOTIERS,AVE VAUDAGNE, AVE MANGUE VERT DOUX, PLAINE CABATE ROAD, IMPASSE PALMIER ET IMPASSE SIMONETTE",
+      "from": "2026-11-21T04:30:00.000Z",
+      "to": "2026-11-21T11:30:00.000Z",
+      "id": "768bbe61ed5c25d9b0976d1bf9f3bb92"
+    },
+    {
+      "date": "Le vendredi 20 novembre 2026 de 08:30:00 à 15:30:00",
+      "streets": "MORC EAUX BONNES, ALLEE JACQUES, AVE LA PAIX, AVE CANNE A SUCRE, AVE DES FLAMBOYANTS, AVE DES BAOBABS, AVE DES COCOTIERS,AVE VAUDAGNE, AVE MANGUE VERT DOUX, PLAINE CABATE ROAD, IMPASSE PALMIER ET IMPASSE SIMONETTE",
+      "from": "2026-11-20T04:30:00.000Z",
+      "to": "2026-11-20T11:30:00.000Z",
+      "id": "3d9756d86e195548efcc28ab28c9752c"
+    },
     {
       "date": "Le samedi 24 octobre 2026 de  08:30:00 à  15:30:00",
       "streets": "ZONE INDUSTRIELLE BAMBOUS, AVE LIMIT, AVE DES FLEURS, AVE LAVANDIERE, NHDC BAMBOUS, RESIDENCES GEOFFROY, RESIDENCES BAMBOULA, MORC VRS BAMBOUS ET UNE PARTIE DE LA ROUTE GEOFFROY",

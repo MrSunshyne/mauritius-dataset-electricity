@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-29",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-11-21T07:13:54.168Z",
+  "outageCount": 2,
+  "outages": [
+    {
+      "date": "Le dimanche 29 novembre 2026 de  08:30:00 à  17:00:00",
+      "locality": "CANDOS VACOAS",
+      "localitySlug": "candos-vacoas",
+      "streets": "Une Partie De Candos Vacoas Road, East Lane Candos, Boundary Road, Shastri Lane, Bhuttoo Lane, Rughoo Lane, Sumoondur Lane, Kalimaye Lane, Bambous Lane, Augum Lane, Bhojoo Lane, Morc Dhookhun, Morc Gungadeen, Une partie de Paillote, Verna Lane, Cyprus Lane, Flat Appadoo et les environs",
+      "district": "plainewilhems",
+      "from": "2026-11-29T04:30:00.000Z",
+      "to": "2026-11-29T13:00:00.000Z",
+      "id": "9047fd3ff4c393ec9df1994436284bb1"
+    },
+    {
+      "date": "Le dimanche 29 novembre 2026 de 08:30:00 à 16:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "une partie de Route St Paul, Koenig Lane 1, 2 et 3, Morc Chambor, Morc Soobratty, une partie Royal Road Phoenix, une partie Sawmil Lane et les environs",
+      "district": "plainewilhems",
+      "from": "2026-11-29T04:30:00.000Z",
+      "to": "2026-11-29T12:00:00.000Z",
+      "id": "9b05356bc46363bf21e49094b5527772"
+    }
+  ]
+}

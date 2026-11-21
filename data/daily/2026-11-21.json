@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-21",
+  "timezone": "Indian/Mauritius",
+  "generated": "2026-11-21T07:13:54.168Z",
+  "outageCount": 3,
+  "outages": [
+    {
+      "date": "Le samedi 21 novembre 2026 de 08:30:00 à 15:30:00",
+      "locality": "BAMBOUS",
+      "localitySlug": "bambous",
+      "streets": "MORC EAUX BONNES, ALLEE JACQUES, AVE LA PAIX, AVE CANNE A SUCRE, AVE DES FLAMBOYANTS, AVE DES BAOBABS, AVE DES COCOTIERS,AVE VAUDAGNE, AVE MANGUE VERT DOUX, PLAINE CABATE ROAD, IMPASSE PALMIER ET IMPASSE SIMONETTE",
+      "district": "blackriver",
+      "from": "2026-11-21T04:30:00.000Z",
+      "to": "2026-11-21T11:30:00.000Z",
+      "id": "768bbe61ed5c25d9b0976d1bf9f3bb92"
+    },
+    {
+      "date": "Le samedi 21 novembre 2026 de 10:00:00 à 14:00:00",
+      "locality": "PHOENIX",
+      "localitySlug": "phoenix",
+      "streets": "Une partie de Palmerstone, Une partie de Nalletamby et Hazareesingh Lane",
+      "district": "plainewilhems",
+      "from": "2026-11-21T06:00:00.000Z",
+      "to": "2026-11-21T10:00:00.000Z",
+      "id": "479c9c4d9691d5dcd2b0d7000c9fae19"
+    },
+    {
+      "date": "Le samedi 21 novembre 2026 de 08:30:00 à 15:00:00",
+      "locality": "CITE LA CURE",
+      "localitySlug": "cite-la-cure",
+      "streets": "Dans les environs de la Rue Marjolin",
+      "district": "portlouis",
+      "from": "2026-11-21T04:30:00.000Z",
+      "to": "2026-11-21T11:00:00.000Z",
+      "id": "a537fa2291986e906dde756d4a8d87b0"
+    }
+  ]
+}
