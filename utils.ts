@@ -1,8 +1,9 @@
-import convert from 'html-to-json-data';
-import { group, text } from 'html-to-json-data/definitions.js';
+import { createHash } from 'node:crypto';
+import * as cheerio from 'cheerio';
 import { parse, format } from "date-fns";
-import fr from "date-fns/locale/fr/index.js";
-import md5 from 'md5'
+import { fr } from "date-fns/locale";
+
+const md5 = (value: string): string => createHash('md5').update(value).digest('hex');
 
 export interface Outage {
     date: string;
@@ -131,40 +132,35 @@ export function makeUniq(obj: InputData): InputData {
     return newObj
 }
 
-export const extractFromSource = (data: any): InputData => {
-    const districts = Object.keys(data);
+export const extractFromSource = (data: Record<string, string>): InputData => {
     const dataset: InputData = {}
 
-    for (const district in districts) {
-        if (Object.prototype.hasOwnProperty.call(districts, district)) {
-            const element = districts[district];
-            const currentDistrict = convert(data[element],
-                group('[id^=table-mauritius] tbody tr',
-                    {
-                        date: text('td:nth-child(1)'),
-                        locality: text('td:nth-child(2)'),
-                        streets: text('td:nth-child(3)'),
-                        district: element,
-                    }
-                )
-            )
+    for (const [element, html] of Object.entries(data)) {
+        const $ = cheerio.load(html);
+        const currentDistrict = $('[id^=table-mauritius] tbody tr').toArray().map(row => {
+            const cell = (n: number) => $(row).find(`td:nth-child(${n})`).text().trim();
+            return {
+                date: cell(1),
+                locality: cell(2),
+                streets: cell(3),
+                district: element,
+            };
+        });
 
-            dataset[element] = currentDistrict.map((item: any) => {
-                const from = parseDate(item.date, 'from');
-                const to = parseDate(item.date, 'to');
-                const fromISO = from instanceof Date ? from.toISOString() : '';
+        dataset[element] = currentDistrict.map(item => {
+            const from = parseDate(item.date, 'from');
+            const to = parseDate(item.date, 'to');
+            const fromISO = from instanceof Date ? from.toISOString() : '';
 
-                return {
-                    ...item,
-                    "from": from,
-                    "to": to,
-                    "id": md5(JSON.stringify(item)), // Legacy ID (unchanged for backwards compatibility)
-                    "outageId": md5(`${element}-${item.locality}-${fromISO}`) // Stable ID based on district + locality + start time
-                }
-            })
-        }
+            return {
+                ...item,
+                "from": fromISO,
+                "to": to instanceof Date ? to.toISOString() : '',
+                "id": md5(JSON.stringify(item)), // Legacy ID (unchanged for backwards compatibility)
+                "outageId": md5(`${element}-${item.locality}-${fromISO}`) // Stable ID based on district + locality + start time
+            }
+        })
     }
-
 
     return dataset
 }

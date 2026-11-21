@@ -9,7 +9,7 @@ import {
     flattenOutages,
     type Outage,
     type LocalityMapping
-} from '../utils';
+} from '../utils.ts';
 
 const DATA_DIR = './data';
 const DAILY_DIR = path.join(DATA_DIR, 'daily');

@@ -1,7 +1,7 @@
 import { exit } from 'process';
 import fs from 'fs'
 import path from 'path'
-import { extractFromApi, makeUniq, categorize, flattenOutages, groupOutagesByDate, groupOutagesByLocality, slugify, getMauritiusDateString } from "./utils"
+import { extractFromApi, makeUniq, categorize, flattenOutages, groupOutagesByDate, groupOutagesByLocality, slugify, getMauritiusDateString } from "./utils.ts"
 import deepmerge from 'deepmerge';
 
 const URL = 'https://ceb.mu/website_data.ashx?t=outages'
@@ -267,7 +267,7 @@ function generateRootIndex(outages: Outage[], mapping: LocalityMapping) {
 
 async function main() {
     try {
-        // Use Bun's native fetch
+        // Use Node's native fetch
         const response = await fetch(URL);
         if (!response.ok) {
             console.error('error:', response.status, response.statusText);
