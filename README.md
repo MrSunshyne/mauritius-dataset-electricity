@@ -16,7 +16,7 @@ The aim is to provide a hassle-free way to use the data to build applications.
 
 ## Example applications
 
-- [Power Outages in Mauritius](https://power-outages-mauritius.netlify.app/) by Sandeep Ramgolam
+- [Power Outages in Mauritius](https://courant.ramgolam.com/) by Sandeep Ramgolam
 - [Kouran](https://github.com/k3ii/kouran) A Terminal UI by Jain Ramchurn
 - [Zap](https://zap-webapp.vercel.app/) NextJS Web App by Arbaaz
 - [Telegram Notifications](https://github.com/reallyaditya/ceb-notification) Telegram Bot by Aditya
