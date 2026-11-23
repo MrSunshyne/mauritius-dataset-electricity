@@ -2,11 +2,18 @@
   "slug": "calebasses",
   "name": "CALEBASSES",
   "district": "pamplemousses",
-  "generated": "2026-11-22T20:30:00.064Z",
-  "outageCount": 41,
+  "generated": "2026-11-23T16:43:10.141Z",
+  "outageCount": 42,
   "firstOutage": "2022-05-15",
-  "lastOutage": "2026-11-06",
+  "lastOutage": "2026-11-23",
   "outages": [
+    {
+      "date": "Le lundi 23 novembre 2026 de  07:00:00 à  12:00:00",
+      "streets": "NEW TRUNK RD CALBASSE ET DANS LES ALENTOURS DE PINPOINT",
+      "from": "2026-11-23T03:00:00.000Z",
+      "to": "2026-11-23T08:00:00.000Z",
+      "id": "4ea7b0fcbaa981e3e4139c2915401d37"
+    },
     {
       "date": "Le vendredi 6 novembre 2026 de  21:45:00 à  01:00:00",
       "streets": "RIVERSIDE RD -ROYAL RD CALBASSES",
