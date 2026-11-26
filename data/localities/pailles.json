@@ -2,11 +2,18 @@
   "slug": "pailles",
   "name": "PAILLES",
   "district": "portlouis",
-  "generated": "2026-11-26T09:00:27.625Z",
-  "outageCount": 86,
+  "generated": "2026-11-26T10:00:31.023Z",
+  "outageCount": 87,
   "firstOutage": "2022-03-13",
-  "lastOutage": "2026-10-25",
+  "lastOutage": "2026-11-28",
   "outages": [
+    {
+      "date": "Le samedi 28 novembre 2026 de 08:30:00 à 17:00:00",
+      "streets": "Les abonnes habitant Morc Raffray Guibies Pailles dans les environs des Avenues Colline 1,2, Cardinal 1,2,3,4,5, Perruche 2,3,4,5,6 et une partie de Claude Delaitre",
+      "from": "2026-11-28T04:30:00.000Z",
+      "to": "2026-11-28T13:00:00.000Z",
+      "id": "6356ac1a863f7fbace74241dd4c6ee62"
+    },
     {
       "date": "Le dimanche 25 octobre 2026 de  08:30:00 à  15:00:00",
       "streets": "DANS LES ENVIRONS DÁVENUE ALLEE DES MANGUIERS",

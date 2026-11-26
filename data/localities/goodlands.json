@@ -2,11 +2,18 @@
   "slug": "goodlands",
   "name": "GOODLANDS",
   "district": "rivieredurempart",
-  "generated": "2026-11-26T09:00:27.586Z",
-  "outageCount": 158,
+  "generated": "2026-11-26T10:00:30.997Z",
+  "outageCount": 159,
   "firstOutage": "2022-03-27",
-  "lastOutage": "2026-11-22",
+  "lastOutage": "2026-11-28",
   "outages": [
+    {
+      "date": "Le samedi 28 novembre 2026 de 08:30:00 à 12:00:00",
+      "streets": "REGION DE GOODLANDS DANS LES PERIMETRES DE LA BANQUE MCB, BANK ROAD ET ROUTE ROYALE",
+      "from": "2026-11-28T04:30:00.000Z",
+      "to": "2026-11-28T08:00:00.000Z",
+      "id": "02d78f8a2fe8251e4fa27962b32397d9"
+    },
     {
       "date": "Le dimanche 22 novembre 2026 de 08:30:00 à 15:00:00",
       "streets": "ZONE INDUSTRIEL, BGH LTD, RESIDENCE LE TAMARINIER, GOODLANDS",

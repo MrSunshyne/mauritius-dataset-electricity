@@ -1,9 +1,19 @@
 {
   "date": "2026-11-29",
   "timezone": "Indian/Mauritius",
-  "generated": "2026-11-26T09:00:27.497Z",
-  "outageCount": 2,
+  "generated": "2026-11-26T10:00:30.942Z",
+  "outageCount": 3,
   "outages": [
+    {
+      "date": "Le dimanche 29 novembre 2026 de 08:30:00 à 14:00:00",
+      "locality": "POINTE AUX SABLES",
+      "localitySlug": "pointe-aux-sables",
+      "streets": "Dans les environs de Morc Sagitaire",
+      "district": "blackriver",
+      "from": "2026-11-29T04:30:00.000Z",
+      "to": "2026-11-29T10:00:00.000Z",
+      "id": "38fa155afd972b0d107722e7016cbe4a"
+    },
     {
       "date": "Le dimanche 29 novembre 2026 de  08:30:00 à  17:00:00",
       "locality": "CANDOS VACOAS",
