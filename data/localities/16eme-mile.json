@@ -2,11 +2,25 @@
   "slug": "16eme-mile",
   "name": "16EME MILE",
   "district": "plainewilhems",
-  "generated": "2026-11-26T00:45:02.487Z",
-  "outageCount": 70,
+  "generated": "2026-11-26T06:00:26.858Z",
+  "outageCount": 72,
   "firstOutage": "2022-05-31",
-  "lastOutage": "2026-11-16",
+  "lastOutage": "2026-12-03",
   "outages": [
+    {
+      "date": "Le mardi 03 décembre 2026 de 08:30:00 à 15:00:00",
+      "streets": "une partie de Coriolis Road, NHDC Jacynthe, Morc Soobanee, Ramparsad Lane, Pelican Lane et ruelles avoisinantes.",
+      "from": "2026-12-03T04:30:00.000Z",
+      "to": "2026-12-03T11:00:00.000Z",
+      "id": "bf910fff19b6f3ee0a950f2ae31216e8"
+    },
+    {
+      "date": "Le vendredi 27 novembre 2026 de 08:30:00 à 15:00:00",
+      "streets": "Une partie de Route Royale 16 eme Mille, CNT, MITD, UBS",
+      "from": "2026-11-27T04:30:00.000Z",
+      "to": "2026-11-27T11:00:00.000Z",
+      "id": "fd235069f5a411fc192b456658051b43"
+    },
     {
       "date": "Le lundi 16 novembre 2026 de  13:30:00 à  14:30:00",
       "streets": "ROUTE ROYALE 16EME MILLE FOREST SIDE DANS LES ALENTOUR SUPERMARCHE PADMA/QUINCAILLERIE.",

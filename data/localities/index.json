@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T00:45:02.721Z",
+  "generated": "2026-11-26T06:00:27.088Z",
   "description": "All outages grouped by locality",
   "localityCount": 459,
   "localities": [
@@ -7,10 +7,10 @@
       "slug": "16eme-mile",
       "name": "16EME MILE",
       "district": "plainewilhems",
-      "outageCount": 70,
+      "outageCount": 72,
       "file": "16eme-mile.json",
       "firstOutage": "2022-05-31",
-      "lastOutage": "2026-11-16"
+      "lastOutage": "2026-12-03"
     },
     {
       "slug": "abercrombie",
@@ -1699,10 +1699,10 @@
       "slug": "gros-billot",
       "name": "GROS BILLOT",
       "district": "grandport",
-      "outageCount": 6,
+      "outageCount": 7,
       "file": "gros-billot.json",
       "firstOutage": "2022-04-21",
-      "lastOutage": "2026-10-31"
+      "lastOutage": "2026-11-26"
     },
     {
       "slug": "gros-bois",
@@ -2167,10 +2167,10 @@
       "slug": "mahebourg",
       "name": "MAHEBOURG",
       "district": "grandport",
-      "outageCount": 94,
+      "outageCount": 95,
       "file": "mahebourg.json",
       "firstOutage": "2022-04-07",
-      "lastOutage": "2026-11-19"
+      "lastOutage": "2026-11-28"
     },
     {
       "slug": "malabar",
@@ -2743,10 +2743,10 @@
       "slug": "petit-bel-air",
       "name": "PETIT BEL AIR",
       "district": "grandport",
-      "outageCount": 8,
+      "outageCount": 9,
       "file": "petit-bel-air.json",
       "firstOutage": "2022-08-12",
-      "lastOutage": "2026-03-17"
+      "lastOutage": "2026-11-28"
     },
     {
       "slug": "petit-bois",
@@ -3391,10 +3391,10 @@
       "slug": "riviere-des-anguilles",
       "name": "RIVIERE DES ANGUILLES",
       "district": "savanne",
-      "outageCount": 48,
+      "outageCount": 49,
       "file": "riviere-des-anguilles.json",
       "firstOutage": "2022-04-13",
-      "lastOutage": "2026-11-10"
+      "lastOutage": "2026-11-26"
     },
     {
       "slug": "riviere-des-creoles",

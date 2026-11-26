@@ -2,11 +2,18 @@
   "slug": "riviere-des-anguilles",
   "name": "RIVIERE DES ANGUILLES",
   "district": "savanne",
-  "generated": "2026-11-26T00:45:02.675Z",
-  "outageCount": 48,
+  "generated": "2026-11-26T06:00:27.042Z",
+  "outageCount": 49,
   "firstOutage": "2022-04-13",
-  "lastOutage": "2026-11-10",
+  "lastOutage": "2026-11-26",
   "outages": [
+    {
+      "date": "Le jeudi 26 novembre 2026 de 09:15:00 à 13:00:00",
+      "streets": "Senville Road",
+      "from": "2026-11-26T05:15:00.000Z",
+      "to": "2026-11-26T09:00:00.000Z",
+      "id": "c09bd4eb6d0c10f5cbc42cf489217b18"
+    },
     {
       "date": "Le mardi 10 novembre 2026 de  09:50:00 à  12:00:00",
       "streets": "MORC VRS CAMP MARTIN, NHDC LA VANILLE ET DANS LES ALENTOURS BAZAAR.",

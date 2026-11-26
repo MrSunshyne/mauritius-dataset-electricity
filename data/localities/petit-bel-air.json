@@ -2,11 +2,18 @@
   "slug": "petit-bel-air",
   "name": "PETIT BEL AIR",
   "district": "grandport",
-  "generated": "2026-11-26T00:45:02.637Z",
-  "outageCount": 8,
+  "generated": "2026-11-26T06:00:27.005Z",
+  "outageCount": 9,
   "firstOutage": "2022-08-12",
-  "lastOutage": "2026-03-17",
+  "lastOutage": "2026-11-28",
   "outages": [
+    {
+      "date": "Le samedi 28 novembre 2026 de 10:00:00 à 17:00:00",
+      "streets": "Petit Bel Air habitant dans le périmètre et les rues suivantes : Ruisseau de Delices Street et une partie de la Route Royale Petit Bel Air",
+      "from": "2026-11-28T06:00:00.000Z",
+      "to": "2026-11-28T13:00:00.000Z",
+      "id": "fe9dbff01493f39ebf8614ab640eff7e"
+    },
     {
       "date": "Le mardi 17 mars 2026 de  09:00:00 à  11:00:00",
       "streets": "(i)Petit Bel Air habitant dans le périmètre et les rues suivantes: Père Laval Road, Cremation Road, Rishi Dayanand Road, Chuckravanen Street et La Route Royale Petit Bel Air",
